@@ -9,34 +9,6 @@ button {
     }
 }
 
-// Preloader 
-#preloader {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: $white;
-    z-index: 99;
-}
-
-#status {
-    width: 200px;
-    height: 200px;
-    position: absolute;
-    left: 50%;
-    // centers the loading animation horizontally on the screen 
-    top: 50%;
-    // centers the loading animation vertically on the screen 
-    background-image: url(../images/loaders/rings.svg);
-    background-size: 80px 80px;
-    // path to loading animation 
-    background-repeat: no-repeat;
-    background-position: center;
-    margin: -100px 0 0 -100px;
-    // width and height divided by two 
-}
-
 // Back to top button
 #backtotop {
     position: fixed;

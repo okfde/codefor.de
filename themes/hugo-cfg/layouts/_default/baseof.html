@@ -6,21 +6,12 @@
     {{ partial "css.html" . }}
   </head>
   <body>
-    <!-- Preloader
-    <div id="preloader">
-      <div id="status"></div>
-    </div> -->
-
     {{ block "main" . }}
     {{ end }}
 
     <!-- Back To Top Button -->
     <div id="backtotop"><a href="#"></a></div>
 
-    {{ if .Site.Params.sidebar }}
-    {{ partial "sidebar.html" . }}
-    {{ end }}
-
-    <!--     {{ partial "javascript.html" . }} -->
+    {{ partial "javascript.html" . }}
   </body>
 </html>

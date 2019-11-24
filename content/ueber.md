@@ -1,7 +1,5 @@
 ---
 title: Über Code for Germany
-sidebar: false # or false to display the sidebar
-sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
 ---
 
@@ -20,7 +18,7 @@ Gestartet ist das Programm im Februar 2014 mit der Gründung von Open Knowledge 
 
 Code for Germany ist Teil der internationalen Code for All Community, einem Netzwerk von Civic Tech Initiativen rund um dem Globus.
 
-Wir sind stets auf der Suche nach spannenden Partnern. Interessierte Städte und Sponsoren können sich gerne bei uns melden. 
+Wir sind stets auf der Suche nach spannenden Partnern. Interessierte Städte und Sponsoren können sich gerne bei uns melden.
 
 # Die Open Knowledge Labs
 

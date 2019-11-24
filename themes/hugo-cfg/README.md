@@ -298,8 +298,6 @@ If you'd like to have the footer displayed on your single page include "include_
 ```
 ---
 title: AGB
-sidebar: true # or false to display the sidebar
-sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
 ---
 ```
