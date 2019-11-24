@@ -23,7 +23,7 @@ General Keyframes animations
     animation-delay: 1s;
 }
 
-// FADE IN LEFT 
+// FADE IN LEFT
 @keyframes fadeInLeft {
     from {
         -webkit-transform: translate3d(20px, 0, 0);
@@ -59,7 +59,7 @@ General Keyframes animations
     -webkit-animation-name: fadeInLeft;
 }
 
-// FADE IN UP 
+// FADE IN UP
 @keyframes fadeInUp {
     from {
         -webkit-transform: translate3d(0, 20px, 0);

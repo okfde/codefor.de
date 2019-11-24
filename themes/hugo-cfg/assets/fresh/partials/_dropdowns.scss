@@ -2,7 +2,7 @@
 Dropdown styles
 ========================================================================== */
 
-// Hover Dropdowns 
+// Hover Dropdowns
 div.nav-item.is-drop a {
     padding-right: 7px;
 }
@@ -82,7 +82,7 @@ div.nav-item.is-drop {
             transition: background .1s ease-out;
             &:hover {
             background: $light-grey;
-            cursor: pointer; 
+            cursor: pointer;
             }
         }
         .dropOut ul {
