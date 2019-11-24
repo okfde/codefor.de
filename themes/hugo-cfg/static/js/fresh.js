@@ -11,17 +11,14 @@ $(document).ready(function(){
         });
     }
 
-    //Navbar Clone
-    if ($('#navbar-clone').length) {
-        $(window).scroll(function() {    // this will work when your window scrolled.
-            var height = $(window).scrollTop();  //getting the scrolling height of window
-            if(height  > 50) {
-                $("#navbar-clone").addClass('is-active');
-            } else{
-                $("#navbar-clone").removeClass('is-active');
-            }
-        });
-    }
+    //Navbar shadow when scrolling
+    $(window).scroll(function() {
+        if($(window).scrollTop() > 50) {
+            $(".navbar").removeClass('no-shadow');
+        } else{
+            $(".navbar").addClass('no-shadow');
+        }
+    });
 
     //reveal elements on scroll so animations trigger the right way
     var $window           = $(window),

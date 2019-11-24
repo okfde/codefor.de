@@ -4,8 +4,13 @@ Navbar
 
 //Navbar
 .navbar.is-fresh {
-    position: relative;
-    min-height: 3.8rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: $white;
+    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.12);
+    min-height: 4rem;
     transition: all .3s;
     z-index: 99;
     .container {
@@ -79,37 +84,5 @@ Navbar
             line-height: 0;
             font-size: .9rem !important;
         }
-    }
-
-    //Fixed navbar modifier
-    &.is-fixed {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        min-height: 4rem !important;
-        background: $white;
-        box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.12);
-        a {
-            color: $blue-grey;
-            &:hover {
-                color: $primary;
-            }
-        }
-    }
-}
-
-//Cloned fixed navbar
-#navbar-clone {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background: $white;
-    transform: translateY(-100%);
-    z-index: 100;
-    box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.12);
-    &.is-active {
-        transform: translateY(0); 
     }
 }
