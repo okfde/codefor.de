@@ -1,6 +1,6 @@
 {{- $navbar         := .Site.Params.navbar }}
 {{- $navbarLogo     := .Site.Params.navbarlogo }}
-<nav class="navbar is-fresh no-shadow" role="navigation" aria-label="main navigation">
+<nav id="menu" class="navbar is-fresh no-shadow" role="navigation" aria-label="main navigation">
   <div class="container">
     <div class="navbar-brand">
       {{- if $navbarLogo}}
@@ -9,14 +9,20 @@
       </a>
       {{- end}}
 
-      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbar-menu">
+      <a href="#menu" role="button" class="navbar-burger open-button" aria-label="menu" aria-expanded="false" data-target="menu">
         <span aria-hidden="true"></span>
         <span aria-hidden="true"></span>
         <span aria-hidden="true"></span>
       </a>
+      <a href="#" role="button" class="navbar-burger close-button is-active" aria-label="menu" aria-expanded="false" data-target="menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+
     </div>
 
-      <div id="navbar-menu" class="navbar-menu is-static">
+      <div class="navbar-menu is-static">
         <div class="navbar-end">
           {{- range $navbar }}
           {{- if .sublinks }}

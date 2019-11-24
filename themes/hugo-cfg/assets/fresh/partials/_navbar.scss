@@ -24,6 +24,43 @@ Navbar
         width: 4rem;
         height: 4rem;
     }
+    .navbar-burger.close-button {
+        // hiding using opacity/visibility instead of "display: none" to not impair transitions
+        opacity: 0;
+        visibility: collapse;
+        margin-left: 0; // prevent left-margin from occupying any space
+        span { // hamburger animation
+            &:nth-child(1) { transform: none; }
+            &:nth-child(2) { opacity: 1; }
+            &:nth-child(3) { transform: none; }
+        }
+    }
+    // navbar-menu is active (small screens only)
+    &:target {
+        .navbar-menu {
+            display: block;
+            max-height: 70vh;
+            overflow: auto;
+        }
+        .navbar-burger.open-button {
+            opacity: 0;
+        }
+        .navbar-burger.open-button span {
+            &:nth-child(1) { transform: translateY(5px) rotate(45deg); }
+            &:nth-child(2) { opacity: 0; }
+            &:nth-child(3) { transform: translateY(-5px) rotate(-45deg); }
+        }
+        .navbar-burger.close-button {
+            display: block;
+            opacity: 1;
+            visibility: visible;
+            span {
+                &:nth-child(1) { transform: translateY(5px) rotate(45deg); }
+                &:nth-child(2) { opacity: 0; }
+                &:nth-child(3) { transform: translateY(-5px) rotate(-45deg); }
+            }
+        }
+    }
     //Brand
     .navbar-brand {
         min-height: 4rem;

@@ -1,16 +1,5 @@
 $(document).ready(function(){
 
-    //Mobile menu toggle
-    if ($('.navbar-burger').length) {
-        $('.navbar-burger').on("click", function(){
-
-            var menu_id = $(this).attr('data-target');
-            $(this).toggleClass('is-active');
-            $("#"+menu_id).toggleClass('is-active');
-            $('.navbar.is-light').toggleClass('is-dark-mobile');
-        });
-    }
-
     //Navbar shadow when scrolling
     $(window).scroll(function() {
         if($(window).scrollTop() > 50) {
@@ -63,9 +52,10 @@ $(document).ready(function(){
 
     // Select all links with hashes
     $('a[href*="#"]')
-    // Remove links that don't actually link to anything
+    // Remove links that don't actually link to anything and ignore navbar menu
         .not('[href="#"]')
         .not('[href="#0"]')
+        .not('[href="#menu"]')
         .click(function(event) {
         // On-page links
         if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
