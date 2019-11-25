@@ -1,8 +1,8 @@
 baseURL: https://codefor.de
 languageCode: en-us
 title: Code for Germany
-theme: hugo-cfg 
-#Disables warningss
+theme: hugo-cfg
+#Disables warnings
 disableKinds:
  -taxonomy
  -taxonomyTerm
@@ -11,8 +11,8 @@ disableKinds:
 params:
  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
-  # Used as meta data; describe your site to make Google Bots happy 
-  description: 
+  # Used as meta data; describe your site to make Google Bots happy
+  description:
   navbarlogo:
   # Logo (from static/images/logos/___)
    image: logos/cfg.svg
@@ -24,9 +24,9 @@ params:
     # Main hero title
     title: Code for Germany
     # Hero subtitle (optional)
-    subtitle: Wir sind ein Netzwerk offener Stadtlabore und bauen digitale Lösungen für alle!
+    subtitle: Wir sind ein Netzwerk offener Stadtlabore und bauen digitale Werkzeuge für alle!
     # Button text
-    buttontext: Werde Stadtentwickler*in! 
+    buttontext: Werde Stadtentwickler*in!
     # Where the main hero button links to
     buttonlink: "#"
     # Hero image (from static/images/___)
@@ -65,16 +65,16 @@ params:
     button: true
   section1:
     title: 28 Labs | 300 Ehrenamtliche | 5 Jahre
-    subtitle: 
+    subtitle:
     tiles:
     - # title: Design & Entwicklung
       icon: mouse-globe
-      text:  
+      text:
       url: /
       buttonText: Entwicklung & Design
     - # title: Cloud integration
       icon: laptop-cloud
-      text: 
+      text:
       url: /
       buttonText: Politik & Verwaltung
     - # title: Add-ons & plugins
@@ -84,7 +84,7 @@ params:
       buttonText: Journalismus & Unterstützung
   section2:
     subtitle: Freie Software + Offene Daten = <3
-    title: open source + open data = <3 
+    title: open source + open data = <3
     features:
     - title: Offene Daten // Open Data
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
@@ -104,19 +104,19 @@ params:
     buttonLink: "/projekte/"
   section4:
     title: Unsere Schwerpunkte
-    subtitle: für 2020 
+    subtitle: für 2020
     clients:
     - name: Umwelt
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: 
+      job:
       img: 1
     - name: Mobilität & Infrastruktur
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: 
+      job:
       img: 2
     - name: Open Government
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: 
+      job:
       img: 3
   section5: true
   footer:
@@ -148,7 +148,7 @@ params:
           link: /
         - text: OKF e.V.
           link: /
-        - text: 
+        - text:
           link: /agb
       column2:
         title: "Werkzeugkoffer"
@@ -164,7 +164,7 @@ params:
       column3:
         title: "Über uns"
         links:
-        - text: Blog 
+        - text: Blog
           link: /blog
         - text: Projekte
           link: /projekte
