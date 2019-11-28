@@ -6,7 +6,9 @@ theme: hugo-cfg
 disableKinds:
  -taxonomy
  -taxonomyTerm
-
+pluralizeListTitles: false
+frontmatter:
+  date: [":filename", ":default"]
 
 params:
  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
@@ -41,27 +43,27 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Über uns
-    url: /ueber
+    url: /ueber/
   - title: Projekte
-    url: /projekte
+    url: /projekte/
   - title: Unterstützen
     sublinks:
     - title: als Entwickler*in / Designer*in
-      url: /mitmachen/entwickeln
+      url: /mitmachen/entwickeln/
     - title: als Vernetzer*in / Aktivist*in
-      url: /mitmachen/vernetzen
+      url: /mitmachen/vernetzen/
     - title: aus Politik / Verwaltung
-      url: /mitmachen/politik
+      url: /mitmachen/politik/
     - title: als Journalist*in / Blogger*in
-      url: /mitmachen/schreiben
-    - title: als Unterstützer*in
-      url: /mitmachen/unterstuetzen
+      url: /mitmachen/schreiben/
+    - title: als Unterstützer*in / Sponsor*in
+      url: /mitmachen/unterstuetzen/
     - title: als Bürger*in
-      url: /mitmachen/gesellschaft
+      url: /mitmachen/gesellschaft/
   - title: Grundsätze
-    url: /grundsaetze
+    url: /grundsaetze/
   - title: Blog
-    url: /blog
+    url: /blog/
     button: true
   section1:
     title: 28 Labs | 300 Ehrenamtliche | 5 Jahre
@@ -141,22 +143,20 @@ params:
         title: "Rechtliches"
         links:
         - text: Impressum
-          link: /
+          link: /impressum/
         - text: Datenschutz
-          link: /
+          link: /impressum/#datenschutzerklaerung
         - text: Code of Conduct
           link: /
         - text: OKF e.V.
-          link: /
-        - text:
-          link: /agb
+          link: https://okfn.de/
       column2:
         title: "Werkzeugkoffer"
         links:
         - text: Github (extern)
-          link: https://github.com
+          link: https://github.com/okfde
         - text: opendatahandbook.org
-          link: /
+          link: https://opendatahandbook.org/
         - text: Admin guide
           link: /
         - text: Developers
@@ -165,10 +165,10 @@ params:
         title: "Über uns"
         links:
         - text: Blog
-          link: /blog
+          link: /blog/
         - text: Projekte
-          link: /projekte
+          link: /projekte/
         - text: Community
-          link: /community
+          link: /community/
         - text: Unterstützen
-          link: /unterstuetzen
+          link: /mitmachen/unterstuetzen/
