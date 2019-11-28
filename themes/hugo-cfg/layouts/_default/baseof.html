@@ -6,7 +6,13 @@
     {{ partial "css.html" . }}
   </head>
   <body>
+    {{ partial "navbar.html" . }}
+
     {{ block "main" . }}
+    {{ end }}
+
+    {{ if not .Params.no_footer }}
+    {{ partial "footer.html" . }}
     {{ end }}
 
     <!-- Back To Top Button -->
