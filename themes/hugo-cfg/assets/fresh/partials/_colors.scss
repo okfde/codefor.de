@@ -6,9 +6,22 @@ $white: #fff;
 $smoke-white: #fcfcfc;
 $grey-white: #f2f2f2;
 
-$primary: #ff645f;
-$secondary: #00abfa;
-$accent: #78ccc7;
+$cfg-blue-1: #01aefd;
+$cfg-blue-2: #01aefd;
+$cfg-blue-3: #01aefd;
+$cfg-red-1: #dc3836;
+$cfg-red-2: #ff6460;
+$cfg-red-3: #ff8383;
+$cfg-green-1: #01b255;
+$cfg-green-2: #16de9b;
+$cfg-green-3: #55dba6;
+$cfg-cyan-1: #01a8a8;
+$cfg-cyan-2: #29cec8;
+$cfg-cyan-3: #6cdcd5;
+
+$primary: $cfg-red-2; //#ff645f;
+$secondary: $cfg-blue-1; // #00abfa;
+$accent: $cfg-cyan-1;//#78ccc7;
 
 $fade-grey: #ededed;
 $light-grey: #EFF4F7;

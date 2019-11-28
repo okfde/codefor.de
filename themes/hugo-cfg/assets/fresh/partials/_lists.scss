@@ -1,0 +1,48 @@
+ul li.preview, .preview {
+  margin-bottom: 5em;
+  //border-bottom: .5em solid $light-grey;
+
+  .title-wrapper {
+    background-image: url('/blog/banners/zucker.jpg');
+    background-size: cover;
+    max-width: none;
+    padding: 1em 3em 1em 1em;
+    min-height: 10em;
+    margin-bottom: 1.5em;
+    box-shadow: .5em .5em $cfg-cyan-3;
+  }
+
+  img {
+    width: 100%;
+    max-height: 15em;
+    box-shadow: .5em .5em $cfg-cyan-3;
+    margin-bottom: .5em;
+  }
+
+  h3 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+  }
+
+  h4 {
+    font-size: 1.25em;
+    margin: 0 0 1em 0;
+    font-style: italic;
+  }
+
+  .date {
+    font-weight: bold;
+    color: $cfg-cyan-3;
+  }
+
+  .lab, .status {
+    margin-top: auto;
+    font-weight: bold;
+    display: inline-block;
+    width: 48%;
+  }
+  .status {
+    text-align: right;
+  }
+}

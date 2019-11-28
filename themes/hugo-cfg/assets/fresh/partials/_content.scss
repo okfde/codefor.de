@@ -1,0 +1,12 @@
+.content {
+  p img {
+    display: block; // center smaller images
+    margin: 3em auto 4em auto;
+  }
+
+  p.blog-quote {
+    margin-top: 2em;
+    padding-left: .5em;
+    border-left: 5px solid $cfg-cyan-3;
+  }
+}
