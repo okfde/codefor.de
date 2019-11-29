@@ -10,3 +10,27 @@
     border-left: 5px solid $cfg-cyan-3;
   }
 }
+
+.project {
+  .content {
+    img {
+      margin: 0 auto 2em auto;
+      box-shadow: .5em .5em $cfg-cyan-3;
+      border: 1px solid $cfg-cyan-1;
+      display: block;
+    }
+  }
+  .sidebar {
+    h3 {
+      font-size: 1.25em;
+      margin-bottom: .5em;
+    }
+    .collaborator {
+      font-weight: bold;
+      display: block;
+    }
+    a {
+      display: block;
+    }
+  }
+}
