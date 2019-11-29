@@ -131,12 +131,8 @@ params:
     - link: https://github.com/okfde/codefor.de
       # Icons are from Font Awesome
       icon: github
-    - link: https://facebook.com/#
-      icon: facebook
     - link: https://twitter.com/lucperkins
       icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
     bulmalogo: true
     quicklinks:
       column1:
@@ -157,8 +153,8 @@ params:
           link: https://github.com/okfde
         - text: opendatahandbook.org
           link: https://opendatahandbook.org/
-        - text: Admin guide
-          link: /
+        - text: Grundsätze
+          link: /grundsaetze
         - text: Developers
           link: /
       column3:
@@ -168,7 +164,7 @@ params:
           link: /blog/
         - text: Projekte
           link: /projekte/
-        - text: Community
-          link: /community/
+        - text: Die Labs 
+          link: /labs/
         - text: Unterstützen
           link: /mitmachen/unterstuetzen/
