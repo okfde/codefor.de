@@ -30,7 +30,7 @@ params:
     # Button text
     buttontext: Werde Stadtentwickler*in!
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "mitmachen"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -131,7 +131,7 @@ params:
     - link: https://github.com/okfde/codefor.de
       # Icons are from Font Awesome
       icon: github
-    - link: https://twitter.com/lucperkins
+    - link: https://twitter.com/codeforde
       icon: twitter
     bulmalogo: true
     quicklinks:
