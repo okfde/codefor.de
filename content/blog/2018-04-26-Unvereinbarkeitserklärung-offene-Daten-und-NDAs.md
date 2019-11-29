@@ -5,7 +5,7 @@ author: Code for Germany
 excerpt: Die Mitglieder der Open Knowledge Labs nehmen häufig an Hackathons und ähnlichen Veranstaltungen teil, oftmals auch unter dem Schirm ihres Labs. Die Unterschrift von Nutzererklärungen auf solchen Veranstaltungen ist unvereinbar mit unserer Vorstellung von offenen Daten. Um auf diese Problematik hinzuweisen, haben wir eine Unvereinbarkeitserklärung für offene Daten und exklusive Nutzungsbedingungen verfasst.
 images:
 
-published: true
+draft: false
 ---
 Die Mitglieder der Open Knowledge Labs nehmen häufig an Hackathons und ähnlichen Veranstaltungen teil, oftmals auch unter dem Schirm ihres Labs. Vor kurzem sollten einige Community Mitglieder auf einem Hackathon eine Nutzungserklärung unterschreiben, dass dort genutzte Daten nicht weiterverwendet werden dürfen. Dies ist unvereinbar mit unserer Vorstellung von offenen Daten und birgt die Gefahr, dass aus bürgerschaftlichen Engagement entstehende Anwendungen nicht für gesamtgesellschaftliche, sondern privatwirtschaftliche Zwecke genutzt würden. 
 

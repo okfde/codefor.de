@@ -6,7 +6,7 @@ excerpt: Am 01. September ist es wieder soweit - der dritte Wahlsalon findet sta
 
 images:
 - imgname: wahlsalon-3.png
-published: true
+draft: false
 ---
 
 

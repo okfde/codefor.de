@@ -5,7 +5,7 @@ author: Julia Barthel
 excerpt: Ein SMS-Bot für Gerichtstermine und eine Whistleblower-Plattform für Pflegepersonal – der „Code for America Summit“ ist eine der größten Konferenzen für Civic Tech. Drei Tage lang treffen sich mehr als 1.200 Menschen, die sich mit dem Thema beschäftigen, wie Technik unser Leben  vereinfacht und der Gesellschaft nutzen kann – abseits von privatwirtschaftlichem Wettbewerbszwang und Gewinnstreben. Was abstrakt und utopisch klingt, wird hier greifbar.
 images:
    - imgname: codeforamerica.JPG
-published: true
+draft: false
 ---
 ![codeforamerica](/blog/codeforamerica.JPG)
 

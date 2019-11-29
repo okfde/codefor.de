@@ -5,7 +5,7 @@ author: Fiona
 excerpt: Am Mittwoch fand der erste von drei Wahlsalons in Berlin mit spannenden Gästen und Projekten statt
 images:
 - imgname: wahlsalon-1.jpg
-published: true
+draft: false
 ---
 
 

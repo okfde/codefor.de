@@ -3,7 +3,7 @@ layout: post
 title: Das war der Kickoff-Workshop in Leipzig
 author: Elisa
 excerpt: Wir haben Eindrücke vom Kickoff-Workshop des Digital Refugee Labs Leipzig gesammelt - es war ein fulminanter Auftakt!
-published: true
+draft: false
 images:
 - imgname: drl-leipzig.jpg
 ---

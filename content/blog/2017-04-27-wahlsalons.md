@@ -5,7 +5,7 @@ author: Fiona
 excerpt: Wir haben einen neuen spannenden Schwerpunkt - rund um Wahlen und Wahldaten
 images:
 - imgname: wahlsalons.png
-published: true
+draft: false
 ---
 
 *Dieses Jahr steht der Schwerpunkt von Code for Germany ganz im Zeichen von Wahlen, Politik und Demokratie*

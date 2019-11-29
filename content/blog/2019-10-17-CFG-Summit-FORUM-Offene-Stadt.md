@@ -8,7 +8,7 @@ images:
 og-image: /assets/blog/summit-fos-pic.png
 og-description: Am 8. November ist es wieder soweit das FORUM Offene Stadt findet zum dritten Mal in Hamburg statt. Direkt im Anschluss gibt es den Code For Germany Community Summit (10-11.2019). Wir freuen uns auf euch!
 
-published: true
+draft: false
 ---
 
 Sommer Adieu, Hello Herbst!

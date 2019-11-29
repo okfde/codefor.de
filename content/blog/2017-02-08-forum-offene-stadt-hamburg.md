@@ -5,7 +5,7 @@ author: Fiona
 excerpt: Das OK Lab Hamburg lädt ein, ins "Forum Offene Stadt" am 03. März 
 images:
 - imgname: offenestadt.png
-published: true
+draft: false
 ---
 ![offenestadt](/blog/offenestadt.png)
 

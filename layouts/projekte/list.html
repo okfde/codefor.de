@@ -9,23 +9,26 @@
         {{ .Content }}
       </div>
       <div class="projects columns is-multiline">
-        {{ range .Pages }}
-            <div class="preview column is-6">
-              {{ if isset .Params "imgname" }}
-              <a href="{{.Permalink}}">
-                <img src="/projects/{{ .Params.imgname }}" alt="Project Image">
-              </a>
-              {{ end }}
-              <span class="date">{{.Date.Format "02.01.2006"}}</span>
-              <a href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
-              {{ if isset .Params "subtitle" }}
-              <h4>{{.Params.Subtitle}}</h4>
-              {{ end }}
-              <p>{{.Params.Excerpt}}</p>
-              <p>{{.Content | truncate 200 }}</p>
-              <span class="lab">{{.Params.lab }}</span>
-              <span class="status">{{.Params.status}}</span>
-            </div>
+        {{ range where .Pages ".Params.draft" false  }}
+        <div class="preview column is-6">
+          <a href="{{.Permalink}}">
+            {{ if isset .Params "imgname" }}
+            <div class="preview-img" style="background-image: url('/projects/{{ .Params.imgname }}');" alt="Project Image"></div>
+            {{ else }}
+            <div class="preview-img" alt="Project Image"></div>
+            {{ end }}
+          </a>
+
+          <span class="date">{{.Date.Format "02.01.2006"}}</span>
+          <a href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
+          {{ if isset .Params "subtitle" }}
+          <h4>{{.Params.Subtitle}}</h4>
+          {{ end }}
+          <p>{{.Params.Excerpt}}</p>
+          <p>{{.Content | truncate 200 }}</p>
+          <span class="lab">{{.Params.lab }}</span>
+          <span class="status">{{.Params.status}}</span>
+        </div>
         {{ end }}
         </div>
       </div>

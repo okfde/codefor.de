@@ -2,7 +2,7 @@
 layout: post
 title: "Projektassistenz für „Digital Refugee Labs“ gesucht"
 author: Eileen
-published: true
+draft: false
 images:
 - imgname: team.png
 ---

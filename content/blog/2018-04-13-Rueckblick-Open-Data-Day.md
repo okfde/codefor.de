@@ -5,7 +5,7 @@ author: Michael Peters
 excerpt: Am Samstag, 3. März 2018, fand der jährliche Open Data Day statt. Der Tag wird schon zum fünften Jahr in Folge von Aktivistinnen und Aktivisten auf der ganzen Welt dafür genutzt, um auf die Bedeutung und das Potential offener Daten für die Gesellschaft hinzuweisen. An insgesamt 15 verschiedenen Veranstaltungen quer durch Deutschland nahmen über 500 Leute teil. 
 images:
    - imgname: odd-karlsruhe.jpg
-published: true
+draft: false
 ---
 
 Am Samstag, 3. März 2018, fand der jährliche Open Data Day statt. Der Tag wird schon zum fünften Jahr in Folge von Aktivistinnen und Aktivisten auf der ganzen Welt dafür genutzt, um auf die Bedeutung und das Potential offener Daten für die Gesellschaft hinzuweisen. An insgesamt 15 verschiedenen [Veranstaltungen](https://codefor.de/blog/open-data-day.html) quer durch Deutschland nahmen über 500 Leute teil. 

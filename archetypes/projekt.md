@@ -5,7 +5,7 @@ imgname: #add file to assets/projects/your city
 title: Titel #project title
 status: Laufend 
 type: DRL
-published: false #set to 'true'
+draft: true #set to 'false'
 
 
 links:

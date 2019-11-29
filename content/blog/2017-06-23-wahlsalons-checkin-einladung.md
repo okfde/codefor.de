@@ -5,7 +5,7 @@ author: Michael
 excerpt: Einladung zum zweiten Wahlsalon
 images:
 - imgname: wahlsalon-koeln.png
-published: true
+draft: false
 ---
 
 

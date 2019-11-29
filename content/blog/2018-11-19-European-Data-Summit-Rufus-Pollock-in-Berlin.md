@@ -5,7 +5,7 @@ author: Knut Hühne, Johannes Filter, Thomas Tursics
 excerpt: Am 24. Oktober war Rufus Pollock. Gründer von Open Knowledge International und Entwickler der Datenportalsoftware CKAN im Rahmen des European Data Summits der Konrad Adenauer Stiftung in Berlin. Zur Eröffnung der Veranstaltung teilte er in einer Keynote seine Einschätzung dazu, wie die Zukunft der digitalen Welt aussehen sollte und was sie heute schon besonders macht.
 images:
    - imgname: european_data_summit_2018.jpg
-published: true
+draft: false
 ---
 
 ![](/blog/european_data_summit_2018.jpg)

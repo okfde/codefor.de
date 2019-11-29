@@ -5,7 +5,7 @@ author: Michael
 excerpt: Der zweite Wahlsalon fand diesmal in Köln statt. Gemeinsam mit der Stadt konnten neue und bestehende Projekte vorgestellt und weiterentwickelt werden. Lest hier den Bericht vom Event -
 images:
 - imgname: wahlsalon-koeln-1.jpg
-published: true
+draft: false
 ---
 
 

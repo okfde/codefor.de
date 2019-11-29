@@ -5,7 +5,7 @@ author: Ulrike Thalheim und Boris Hekele
 excerpt: Wahldatenstandards müssen her, da sind sich alle Anwenderinnen und Anwender einig.
 images:
    - imgname: wahlen-rotstift.jpg
-published: true
+draft: false
 ---
 
 2017 – das war unter anderem das Jahr der Bundestagswahl. Während CDU, CSU und SPD darüber reden, ob sie für weitere vier Jahre eine Regierung bilden wollen, möchten wir noch einmal auf die Wahl zurückblicken und haben dazu verschiedene Wahldatennutzerinnen und -nutzer um ihre Einschätzung gebeten.

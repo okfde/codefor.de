@@ -5,7 +5,7 @@ author: Felix Ebert, Code for Heilbronn
 excerpt: Ein Antrag der SPD wurde einstimmig angenommen. Am 04.03. lädt Code for Heilbronn zum Open Data Day ein
 images:
 - imgname: rathaus-heilbronn.jpg
-published: true
+draft: false
 ---
 
 Am 26.01.2017 wurde im Gemeinderat Heilbronn einstimmig ein [Antrag der SPD](https://gemeinderat.stadt-heilbronn.de/Drucksachen/2017/Gemeinderat/2601_2016/_files/Drucks_018.pdf) zur Förderung von Open Data angenommen.

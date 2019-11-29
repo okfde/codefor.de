@@ -6,7 +6,7 @@ excerpt: Mein Reisebericht zum Besuch der MRMCDs im September 2017 - eine persö
 
 images:
 - imgname: mrmcd-2017-unicorn.jpg
-published: true
+draft: false
 ---
 
 

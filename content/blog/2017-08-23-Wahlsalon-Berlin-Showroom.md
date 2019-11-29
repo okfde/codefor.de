@@ -6,7 +6,7 @@ excerpt: Am vergangenen Freitag fand in Berlin der dritte Wahlsalon statt. Im Sh
 
 images:
 - imgname: wahlsalon-3.png
-published: true
+draft: false
 ---
 
 

@@ -8,7 +8,7 @@ images:
 og-image: /assets/blog/CFG_logo.png
 og-description: Wir suchen ab 1. Januar 2020 eine*n Communitybuilder*in zur Verstärkung des Teams. Berufseinsteiger*innen sind herzlich willkommen!
 
-published: true
+draft: false
 ---
 
 [Code for Germany](https://codefor.de/) ist eine deutschlandweite Community, die sich dafür einsetzt, das Potenzial der Digitalisierung für alle Menschen zugänglich zu machen. In 26 Städten treffen sich dazu technisch interessierte Menschen, um in den Open Knowledge Labs (kurz: OK Labs) zu coden, zu diskutieren und sich mit Bürger\*innen und politischen Vertreter\*innen auszutauschen.

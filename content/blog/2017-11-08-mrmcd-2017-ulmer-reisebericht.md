@@ -6,7 +6,7 @@ excerpt: Ein Open-Data-Neuling besucht die Landesdatenschau.
 
 images:
 - imgname: mrmcd17-tagclouds.jpg
-published: true
+draft: false
 ---
 
 Es ist Anfang September: kalt und nass. Im nebelverhangenen Ulm treffe ich mich mit zwei guten Freunden am Bahnhof. Wir stehen mit Rucksack bepackt zusammen und lachen, weil wir uns eher zufällig getroffen haben. Unser Ziel ist aber das selbe: die [MRMCD](https://mrmcd.net) in Darmstadt.

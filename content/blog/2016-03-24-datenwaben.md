@@ -3,7 +3,7 @@ layout: post
 title: Datenwaben? Datenwaben!
 author: Eileen und Thomas
 excerpt: Was ihr schon immer mal wissen wolltet, aber nie im Datenportal gefunden habt.
-published: true
+draft: false
 images:
 - imgname: datenwaben.png
 ---

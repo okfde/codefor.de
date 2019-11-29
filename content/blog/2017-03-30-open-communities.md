@@ -5,7 +5,7 @@ author: Eileen
 excerpt: Eileen hat im Februar Code for Taiwan besucht. Nach zahlreichen Gesprächen und Bubble Teas berichtet sie für uns über Taiwans offene Community-Arbeit.
 images:
 - imgname: g0v.png
-published: true
+draft: false
 ---
 
 *Eileen hat im Februar [g0v](http://g0v.asia/) (Code for Taiwan) besucht. Nach zahlreichen Gesprächen und Bubble Teas berichtet sie für uns über Taiwans offene Community-Arbeit.*
