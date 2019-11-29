@@ -41,6 +41,8 @@ params:
     #- gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
+  - title: Adventskalender 2019
+    url: /advent19
   - title: Über uns
     url: /ueber/
   - title: Projekte
@@ -59,8 +61,8 @@ params:
       url: /mitmachen/unterstuetzen/
     - title: als Bürger*in
       url: /mitmachen/gesellschaft/
-  - title: Grundsätze
-    url: /grundsaetze/
+  - title: Die Labs
+    url: /labs/
   - title: Blog
     url: /blog/
     button: true
@@ -69,17 +71,17 @@ params:
     subtitle:
     tiles:
     - # title: Design & Entwicklung
-      icon: mouse-globe
+      icon: coding
       text:
       url: /
       buttonText: Entwicklung & Design
     - # title: Cloud integration
-      icon: laptop-cloud
+      icon: folders
       text:
       url: /
       buttonText: Politik & Verwaltung
     - # title: Add-ons & plugins
-      icon: plug-cloud
+      icon: microphone
       text:
       url: /
       buttonText: Journalismus & Unterstützung
@@ -88,19 +90,19 @@ params:
     title: open source + open data = <3
     features:
     - title: Offene Daten // Open Data
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      text: Offene Daten sind Daten, auf die alle Personen frei zugreifen können und die von allen genutzt, verändert und geteilt werden können. Sie werden in vielen Anwendungen erzeugt und gesammelt, beispielsweise in amtlichen Messungen oder wissenschaftlichen Experimenten.
       # Icon (from /images/illustrations/icons/___.svg)
       icon: laptop-globe
     - title: Offene Verwaltung // Open Government
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      text: Politik und Verwaltung sollen geöffnet werden für Bürger*innen, Wirtschaft, Wissenschaft, Kunst und Kultur, um stärkere gemeinschaftliche Belange in einer Kommune zu ermöglichen. Im Fokus stehen dabei Transparenz, Partizipation und Kollaboration.
       icon: doc-sync
     - title: Zivilgesellschaftliche Technik // Civic Tech
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      text: Technischen Konzepten können Engagement und Beteiligung von Bürgern fördern, beispielsweise durch entsprechende Kommunikationsplattformen, bessere öffentliche Infrastrukturen und technikbasierte Verbesserungen des Allgemeinwohls.
       icon: mobile-feed
   section3:
     title: Wir nehmen offene Daten
     subtitle: und bauen daraus Anwendungen für Bürger*innen.
-    image: illustrations/mockups/app-mockup.png
+    image: illustrations/cfg-summit-19.png
     buttonText: Zu den Projekten
     buttonLink: "/projekte/"
   section4:
@@ -108,15 +110,15 @@ params:
     subtitle: für 2020
     clients:
     - name: Umwelt
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      quote: Wir loten aus, wie viel wir für unsere Umwelt und unser Klima tun. Dazu sammeln wir offene Daten vor Ort und werten sie aus.
       job:
       img: 1
     - name: Mobilität & Infrastruktur
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      quote: Im Alltag sind wir viel unterwegs. Mit offenen Daten wollen wir die sichersten Wege, die entspanntesten Verkehrsmittel und die umweltfreundlichste Fortbewegung finden.
       job:
       img: 2
     - name: Open Government
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      quote: Wir sprechen mit Politiker*innen und setzen uns für Transparenz und Partizipation ein.
       job:
       img: 3
   section5: true
@@ -153,8 +155,8 @@ params:
           link: https://opendatahandbook.org/
         - text: Grundsätze
           link: /grundsaetze
-        - text: Developers
-          link: /
+        - text: ABC der Offenheit
+          link: https://upload.wikimedia.org/wikipedia/commons/a/a9/ABC_der_Offenheit_-_Brosch%C3%BCre_%282019%29.pdf
       column3:
         title: "Über uns"
         links:

@@ -1,0 +1,36 @@
+{{ define "main" }}
+  <section class="section is-medium">
+    <div class="container">
+      <h1 class="title section-title">{{ .Title }}</h1>
+      <h2 class="subtitle is-5 is-muted">{{ .Params.Subtitle }}</h2>
+      <div class="divider"></div>
+
+      <div class="content">
+        {{ .Content }}
+      </div>
+      <div class="columns">
+        <div class="column is-8 is-offset-2">
+          <ul>
+            {{ range .Pages }}
+              <li class="preview">
+                {{ if isset .Params "type"}}
+                <div class="title-wrapper" style="background-image: url('/blog/header_images/{{ .Params.type }}.png')">
+                </div>
+                {{ else }}
+                <div class="title-wrapper" style="background-image: url('/blog/header_images/default.png')">
+                </div>
+                {{ end }}
+                <span class="date">{{.Date.Format "02.01.2006"}}</span>
+                <a href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
+                {{ if isset .Params "subtitle" }}
+                <h4>{{.Params.Subtitle}}</h4>
+                {{ end }}
+                <p>{{.Params.Excerpt}}</p>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}
