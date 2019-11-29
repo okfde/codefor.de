@@ -16,8 +16,7 @@ params:
   # Used as meta data; describe your site to make Google Bots happy
   description:
   navbarlogo:
-  # Logo (from static/images/logos/___)
-   image: logos/cfg.svg
+   image: /img/CFG_logo.svg
    link: /
   font:
     name: "Open Sans"
@@ -122,8 +121,7 @@ params:
       img: 3
   section5: true
   footer:
-    # Logo (from /images/logos/___)
-    logo: cfg.svg
+    logo: /img/CFG_logo.svg
     # Social Media Title
     socialmediatitle: Folge uns!
     # Social media links (GitHub, Twitter, etc.). All are optional.
@@ -164,7 +162,7 @@ params:
           link: /blog/
         - text: Projekte
           link: /projekte/
-        - text: Die Labs 
+        - text: Die Labs
           link: /labs/
         - text: Unterstützen
           link: /mitmachen/unterstuetzen/
