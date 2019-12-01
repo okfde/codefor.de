@@ -20,19 +20,24 @@
       display: block;
     }
   }
-  .sidebar {
-    h3 {
-      font-size: 1.25em;
-      margin-bottom: .5em;
-    }
-    .collaborator {
-      font-weight: bold;
-      display: block;
-      margin-top: 1em;
-    }
-    a {
-      display: block;
-      line-height: 1.75em;
-    }
+}
+
+.sidebar {
+  h3 {
+    font-size: 1.25em;
+    margin-bottom: .5em;
+  }
+  p {
+    margin-bottom: .5em;
+  }
+  strong {
+    display: block;
+    color: $grey-dark;
+    font-weight: bold;
+    margin-top: 1em;
+  }
+  a {
+    display: block;
+    line-height: 1.75em;
   }
 }

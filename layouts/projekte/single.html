@@ -17,7 +17,7 @@
         <div class="column is-offset-1 sidebar">
         <h3>Projektmitglieder</h3>
         {{ range .Params.Collaborators }}
-          <span class="collaborator">{{ .name }}</span>
+          <strong>{{ .name }}</strong>
           {{ range .links }}
           <a href="{{ .url }}">{{ .name }}</a>
           {{ end }}
