@@ -8,6 +8,8 @@ images:
 og-image: /assets/blog/cfg-summit-1.jpg
 og-description: Code for Germany (CFG) baut seit 5 Jahren digitale Werkzeuge und Anwendungen, um damit praktisch aufzuzeigen, welche Möglichkeiten Offene Daten und neue Technologien für das gesellschaftliche Miteinander bieten. Beim CFG Summit hat sich unsere deutschlandweite Community getroffen um an gemeinsamen Projekten zu arbeiten.
 
+type: event
+
 draft: false
 ---
 ![Summit1](/blog/cfg-summit-1.jpg)

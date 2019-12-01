@@ -8,6 +8,8 @@ excerpt: Interview mit Vanessa Wormer
 images:
 - imgname: wormer.png
 
+type: interview
+
 ---
 *Vanessa Wormer ist Journalistin und kennt sich mit Daten aus. Als Mitgründerin des
 OK Labs Heilbronn beschäftigt sie sich schon länger damit, wie man mit Daten bessere
