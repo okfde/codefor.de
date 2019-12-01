@@ -9,6 +9,18 @@
     padding-left: .5em;
     border-left: 5px solid $cfg-cyan-3;
   }
+
+  code {
+    background-color: #E5E4E2;
+    color: $grey-dark;
+    font-size: 0.875em;
+    padding: 0.15em 0.3em 0.15em;
+    border-radius: 0.3em;
+  }
+
+  a {
+    color: $cfg-blue-1;
+  }
 }
 
 .project {
