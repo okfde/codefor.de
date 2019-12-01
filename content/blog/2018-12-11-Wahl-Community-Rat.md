@@ -3,6 +3,7 @@ layout: post
 title: "Wir wählen den Code for Germany Community Rat"
 author: Michael Peters
 excerpt: Um die Interessen der ehrenamtlich engagierten Freiwilligen der Open Knowledge Labs in Zukunft noch besser berücksichtigen zu können, wird Code for Germany einen Community Rat wählen. Dieser wird zusammen mit der Open Knowledge Foundation Deutschland e.V. die strategische Planung des Projekts vorantreiben.
+type: community
 images:
    - imgname: datensummit-stateoftheopen.jpg
 og-image: /assets/blog/datensummit-stateoftheopen.jpg

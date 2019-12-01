@@ -3,26 +3,27 @@ layout: post
 title: "Zieht am kommenden Samstag in eure Städte, denn es ist wieder Open Data Day!"
 author: Sarina Balkhausen und Michael Peters
 excerpt: Am Samstag, 3. März 2018, findet weltweit der Open Data Day statt. Er ist das Ereignis, das von Aktivistinnen und Aktivisten auf der ganzen Welt dazu genutzt wird, um auf die Bedeutung offener Daten hinzuweisen.
+type: event
 images:
    - imgname: odd17.jpg
 draft: false
 ---
 
-Am Samstag, 3. März 2018, findet weltweit der Open Data Day statt. 
+Am Samstag, 3. März 2018, findet weltweit der Open Data Day statt.
 Er ist das Ereignis, das von Aktivistinnen und Aktivisten auf der ganzen Welt dazu genutzt wird, um auf die Bedeutung offener Daten hinzuweisen.
 
 Natürlich sind auch in seiner fünften Ausgabe ganz viele Ehrenamtliche in den Open Knowledge Labs des Netzwerks Code for Germany zugange. Sie wollen mit möglichst vielen Menschen offenes Wissen teilen und mit hilfe offener Daten gemeinsam etwas gestalten.
 
-Willst du allein, mit deinen Freunden oder mit deiner Familie bei einem der 17 teilnehmenden OK Labs vorbeischauen und dort zum Beispiel Feinstaubsensoren bauen, mit dem Calliope Mini programmieren lernen oder dich mit öffentlichen Haushaltsdaten beschäftigen? 
+Willst du allein, mit deinen Freunden oder mit deiner Familie bei einem der 17 teilnehmenden OK Labs vorbeischauen und dort zum Beispiel Feinstaubsensoren bauen, mit dem Calliope Mini programmieren lernen oder dich mit öffentlichen Haushaltsdaten beschäftigen?
 In der folgenden Übersicht siehst du wo etwas stattfindet, mit einem Link zu den weiteren Infos!
 
 Am [Open Data Day](http://opendataday.org/de/) veranstalten am Samstag, 3. März:
 
-OK Lab Berlin, 10 Uhr, Wikimedia e.V Tempelhofer Ufer 23/24, 10963 Berlin, [Link](https://www.meetup.com/de-DE/OK-Lab-Berlin/events/248093660/) 
+OK Lab Berlin, 10 Uhr, Wikimedia e.V Tempelhofer Ufer 23/24, 10963 Berlin, [Link](https://www.meetup.com/de-DE/OK-Lab-Berlin/events/248093660/)
 
 OK Lab Bonn 10 Uhr, BonnLAB, Zingsheimstraße 2, 53225 Bonn, [Link](https://codeforbonn.de/open-data-day-bonn-2018/)
 
-OK Lab Düsseldorf, 11 Uhr, Haus der Universität, Schadowplatz 14, 40212 Düsseldorf, [Link](https://codefordus.nrw/event/open-data-day-2018/) 
+OK Lab Düsseldorf, 11 Uhr, Haus der Universität, Schadowplatz 14, 40212 Düsseldorf, [Link](https://codefordus.nrw/event/open-data-day-2018/)
 
 OK Lab Frankfurt, 10 Uhr, Die Zentrale, Berger Straße 175, 60385 Frankfurt am Main, [Link](https://codeforfrankfurt.github.io/hackathon2018/index.html)
 
@@ -32,7 +33,7 @@ OK Lab Jena, 14 Uhr, Grünowski, Schillergäßchen 5, 07745 Jena, [Link](https:/
 
 OK Lab Karlsruhe, 14 Uhr, Zentrum für Kunst und Medientechnologie, Lorenzstraße 19, 76135 Karlsruhe, [Link](https://www.meetup.com/de-DE/OK-Lab-Karlsruhe/events/247346492/?eventId=247346492)
 
-OK Lab Köln, 10 Uhr, hack.institute, Neue Weyerstraße 2, 50676 Köln [Link](http://open-data-day-2018.hack.institute/) 
+OK Lab Köln, 10 Uhr, hack.institute, Neue Weyerstraße 2, 50676 Köln [Link](http://open-data-day-2018.hack.institute/)
 
 OK Lab München, 10 Uhr, Open Data Hackathon München, WERK 1, Grafinger Straße 6, 81671 München, [Link](https://www.meetup.com/de-DE/code-for-muenchen/events/247507806/)
 

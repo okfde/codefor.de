@@ -4,6 +4,7 @@ layout: post
 title: Das war die Codeweek!
 author: Fiona
 excerpt: Die Codeweek fand vom 11. bis 17. Oktober in ganz Europa statt. Da haben wir doch glatt mitgemacht!
+type: event
 
 images:
 - imgname: codeweek-okfn.png

@@ -3,6 +3,7 @@ layout: post
 
 title: Das OK Lab Chemitz
 author: Fiona
+type: community
 
 images:
 - imgname: morris.jpg

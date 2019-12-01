@@ -4,6 +4,7 @@ layout: post
 title: Transparenz in Hamburg
 author: Fiona
 excerpt: In Hamburg haben sich Coder und Journalisten getroffen, um gemeinsam das neu gelaunchte Transparenzportal zu erkunden. Hier gibt's Links zu den Ergebnissen.
+type: toolbox
 
 images:
 - imgname: transparenz-hamburg.png

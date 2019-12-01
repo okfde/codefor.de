@@ -4,6 +4,7 @@ layout: post
 title: Hallo und guten Tag!
 author: Eileen
 excerpt: Das Team bekommt Verstärkung.
+type: community
 
 images:
 - imgname: thethirdwoman.jpg

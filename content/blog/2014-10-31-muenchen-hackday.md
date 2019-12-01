@@ -4,6 +4,7 @@ layout: post
 title: Code for Munich Hack Day
 author: Matt
 excerpt: Unser erster Hackathon - mach mit!
+type: event
 
 images:
 - imgname: hackathon-muenchen.png

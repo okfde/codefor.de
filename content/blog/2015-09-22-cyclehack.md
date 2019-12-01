@@ -3,7 +3,8 @@ layout: post
 
 title: Fahrräder hacken mit dem OK Lab Wuppertal
 author: Ann-Cathrin & Sam
-excerpt: Am Wochenende vom 19. bis 21. Juni fand der erste Wuppertaler Cyclehack bei uns im Utopiastadt statt. 
+excerpt: Am Wochenende vom 19. bis 21. Juni fand der erste Wuppertaler Cyclehack bei uns im Utopiastadt statt.
+type: event
 images:
 - imgname: cyclehackwuppertal.jpg
 

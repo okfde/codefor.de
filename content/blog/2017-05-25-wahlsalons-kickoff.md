@@ -3,6 +3,7 @@ layout: post
 title: Kick-Off für die Wahlsalons
 author: Fiona
 excerpt: Am Mittwoch fand der erste von drei Wahlsalons in Berlin mit spannenden Gästen und Projekten statt
+type: event
 images:
 - imgname: wahlsalon-1.jpg
 draft: false
@@ -15,11 +16,11 @@ draft: false
 
 
 
-<p>Vor ein paar Wochen haben wir den diesjährigen Schwerpunkt angekündigt: Wahlen, Wahldaten und Demokratie. Mit einer dreiteiligen Veranstaltungsreihe, den Wahlsalons, in Berlin und Köln wollen wir die Zusammenarbeit und das Interesse an diesen Themen fördern.</p> 
+<p>Vor ein paar Wochen haben wir den diesjährigen Schwerpunkt angekündigt: Wahlen, Wahldaten und Demokratie. Mit einer dreiteiligen Veranstaltungsreihe, den Wahlsalons, in Berlin und Köln wollen wir die Zusammenarbeit und das Interesse an diesen Themen fördern.</p>
 
 <p>Gestern fand der erste Wahlsalon in den Räumlichkeiten von Wikimedia in Berlin statt und bildete den Auftakt des Schwerpunkts. Rund 60 Besucherinnen unterschiedlichster Disziplinen nahmen daran teil, um sich auszutauschen und zu vernetzen und um ihre Projekte vorzustellen.</p>
 
-<p>Zu Beginn sprachen drei Vertreterinnen aus dem Büro des <a href="https://www.bundeswahlleiter.de">Bundeswahlleiters</a> über ihre Arbeit und über ihre Pläne für die kommende Bundestagswahl. In der anschließenden Fragerunde wurden einige Wünsche, Kritik aber auch Lob geäußert. Unter anderem wurden Rohdaten, Daten-Standards und freie Lizenzen gefordert. Das Team des Bundeswahlleiters hat viele der Anmerkungen aufgenommen, ging auf Kritik ein und will die Wünsche der Community mit ins Büro nach Wiesbaden nehmen.</p> 
+<p>Zu Beginn sprachen drei Vertreterinnen aus dem Büro des <a href="https://www.bundeswahlleiter.de">Bundeswahlleiters</a> über ihre Arbeit und über ihre Pläne für die kommende Bundestagswahl. In der anschließenden Fragerunde wurden einige Wünsche, Kritik aber auch Lob geäußert. Unter anderem wurden Rohdaten, Daten-Standards und freie Lizenzen gefordert. Das Team des Bundeswahlleiters hat viele der Anmerkungen aufgenommen, ging auf Kritik ein und will die Wünsche der Community mit ins Büro nach Wiesbaden nehmen.</p>
 
 
 

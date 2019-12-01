@@ -3,6 +3,7 @@ layout: post
 
 title: Civic Tech und Open Government auf dem Transparency Camp 2014
 author: Julia
+type: event
 
 ---
 

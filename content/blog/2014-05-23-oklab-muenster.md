@@ -3,7 +3,8 @@ layout: post
 
 title: Das OK Lab Muenster
 author: Fiona
-excerpt: Welche Köpfe stecken eigentlich hinter dem OK Lab Müster? 
+excerpt: Welche Köpfe stecken eigentlich hinter dem OK Lab Müster?
+type: community
 
 ---
 

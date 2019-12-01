@@ -3,6 +3,7 @@ layout: post
 
 title: Einladung zum Gründungstreffen des OK Lab München
 author: Marcus
+type: event
 
 images:
 - imgname: muenchen/rathaus-muc.jpg

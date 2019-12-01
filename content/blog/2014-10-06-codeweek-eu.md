@@ -4,6 +4,7 @@ layout: post
 title: Codeweek EU
 author: Fiona
 excerpt: Die Codeweek EU steht vor der Tür - und wir machen mit!
+type: event
 
 images:
 - imgname: codeweek.jpg

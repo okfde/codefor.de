@@ -3,6 +3,7 @@ layout: post
 
 title: Gründungstreffen des OK Lab München
 author: Matt
+type: event
 
 images:
 - imgname: muenchen/cfmgruendung.jpg

@@ -1,21 +1,22 @@
 ---
 layout: post
 title: Forum Offene Stadt Hamburg
-author: Fiona 
-excerpt: Das OK Lab Hamburg lädt ein, ins "Forum Offene Stadt" am 03. März 
+author: Fiona
+excerpt: Das OK Lab Hamburg lädt ein, ins "Forum Offene Stadt" am 03. März
+type: event
 images:
 - imgname: offenestadt.png
 draft: false
 ---
 ![offenestadt](/blog/offenestadt.png)
 
-<p>Das <a href="http://codefor.de/hamburg">OK Lab Hamburg</a> lädt am 03. März zusammen mit der Open Knowledge Foundation und der Körber-Stiftung zum <a href="http://offenestadt.info">Forum Offene Stadt</a>, um digitale Lösungen für mehr Teilhabe in der Stadt des 21. Jahrhunderts vorzustellen. Eingeladen sind sowohl interessierte Bürgerinnen, welche diese Anwendungen nutzen können, als auch Mitarbeiter aus den Verwaltungen deren Offene Daten dafür genutzt werden.</p> 
+<p>Das <a href="http://codefor.de/hamburg">OK Lab Hamburg</a> lädt am 03. März zusammen mit der Open Knowledge Foundation und der Körber-Stiftung zum <a href="http://offenestadt.info">Forum Offene Stadt</a>, um digitale Lösungen für mehr Teilhabe in der Stadt des 21. Jahrhunderts vorzustellen. Eingeladen sind sowohl interessierte Bürgerinnen, welche diese Anwendungen nutzen können, als auch Mitarbeiter aus den Verwaltungen deren Offene Daten dafür genutzt werden.</p>
 <br>
 <br>
 <b>Was ist das “FORUM Offene Stadt”? </b>
 <br>
 <br>
-<blockquote>Ein eintägiges Forum mit Showroom-Charakter. Unterhaltsame 15 Minuten Talks im KörberForum in Hamburg begleiten durch den Tag. Mit dem Forum wollen wir offene digitale Praxisbeispiele unter dem Leitbegriff der Offenen Stadt präsentieren. Dazu möchten wir diskutieren, wie wir unsere Stadt gemeinsam gestalten können. Wir von Code for Hamburg haben unsere Freunde mit ihren Projekten aus den Bereichen Stadtplanung und -entwicklung, Kunst und Kultur, Soziales und Gesellschaft und Offene Daten eingeladen. Ihre Projekte veranschaulichen Potenziale und Chancen der Digitalisierung unter dem Leitbild einer offenen Stadt. 
+<blockquote>Ein eintägiges Forum mit Showroom-Charakter. Unterhaltsame 15 Minuten Talks im KörberForum in Hamburg begleiten durch den Tag. Mit dem Forum wollen wir offene digitale Praxisbeispiele unter dem Leitbegriff der Offenen Stadt präsentieren. Dazu möchten wir diskutieren, wie wir unsere Stadt gemeinsam gestalten können. Wir von Code for Hamburg haben unsere Freunde mit ihren Projekten aus den Bereichen Stadtplanung und -entwicklung, Kunst und Kultur, Soziales und Gesellschaft und Offene Daten eingeladen. Ihre Projekte veranschaulichen Potenziale und Chancen der Digitalisierung unter dem Leitbild einer offenen Stadt.
 <br>
 <br>
 <i>    aus <a href="http://offenestadt.info/#ueber">offenestadt.info</a></i></blockquote>

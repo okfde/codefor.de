@@ -1,8 +1,9 @@
 ---
 layout: post
 title: International Open Data Day
-author: Fiona 
+author: Fiona
 excerpt: Am 04. März lädt die globale Open Data Community wieder zu Workshops und Events ein. Auch die OK Labs machen mit - und ihr seid eingeladen!
+type: event
 images:
 - imgname: odd17.png
 draft: false
@@ -21,9 +22,8 @@ draft: false
 *	Die Stadt Jena ist dieses Jahr offizielle Ausrichterin des Open Data Days, wir freuen uns auf diesen Fortschritt und Erfolg des <a href="http://codefor.de/jena">OK Labs in Jena</a>.<br><br>
 *	In <a href="http://codeforbonn.de/bonn-open-data-day/"></a>Bonn steht der Open Data Day unter dem Motto "Bau was mit Offenen Daten" - es wird unter anderem einen <a href="https://calliope.cc/ueber-mini">Calliope-Workshop</a> geben, es wird mit Bots gebastelt und das Thema Nachhaltigkeit entlang von Offenen Daten bearbeitet.<br><br>
 *	In <a href="http://de.opendataday.org/berlin">Berlin</a> wurden Speakerinnen für spannende Vorträge eingeladen, unter anderem zum Geoportal der Stadt, zu OpenStreetMap und zu Wikidata (<3). Der Open Data Day in Berlin wird von Wikimedia Deutschland e.V. unterstützt.<br><br>
-*	In <a href="http://codeforhamburg.org">Hamburg</a> gibt es als Auftakt bereits am Freitag eine ganztägige Veranstaltung, das <a href="http://offenestadt.info">"Forum Offene Stadt"</a> gemeinsam mit der Körber-Stiftung. Dazu haben wir schon letzte Woche einen <a href="http:/codefor.de/blog/forum-offene-stadt-hamburg">Blogpost</a> geschrieben.</p> 
+*	In <a href="http://codeforhamburg.org">Hamburg</a> gibt es als Auftakt bereits am Freitag eine ganztägige Veranstaltung, das <a href="http://offenestadt.info">"Forum Offene Stadt"</a> gemeinsam mit der Körber-Stiftung. Dazu haben wir schon letzte Woche einen <a href="http:/codefor.de/blog/forum-offene-stadt-hamburg">Blogpost</a> geschrieben.</p>
 <br>
 
 <p>Das ist selbstverständlich nur ein kleiner Auszug, schaut am Besten selber mal in die <a href="http://de.opendataday.org">lange lange Liste von Open Data Day Events</a> und besucht ein Lab in eurer Nähe! Wir wünschen allen Labs einen wunderbaren Open Data Day. Folgt dem Hashtag <a href="https://twitter.com/search?src=typd&q=ODD17">#ODD17</a> auf Twitter, um zu sehen, was in den Labs und auf der ganzen Welt am 04. März passiert.</p>
 <br>
-

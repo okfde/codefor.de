@@ -3,6 +3,7 @@ layout: post
 
 title: Why good hackers make good citizens
 author: Julia
+type: interview
 
 ---
 

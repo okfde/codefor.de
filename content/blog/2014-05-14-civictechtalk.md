@@ -3,6 +3,7 @@ layout: post
 
 title: Civic Tech - Talk auf der re:publica
 author: Julia
+type: event
 
 ---
 

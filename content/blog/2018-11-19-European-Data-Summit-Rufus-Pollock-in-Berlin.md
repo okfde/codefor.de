@@ -3,6 +3,7 @@ layout: post
 title: "Über die Essenz des digitalen Zeitalters: Rufus Pollock zum European Data Summit in Berlin"
 author: Knut Hühne, Johannes Filter, Thomas Tursics
 excerpt: Am 24. Oktober war Rufus Pollock. Gründer von Open Knowledge International und Entwickler der Datenportalsoftware CKAN im Rahmen des European Data Summits der Konrad Adenauer Stiftung in Berlin. Zur Eröffnung der Veranstaltung teilte er in einer Keynote seine Einschätzung dazu, wie die Zukunft der digitalen Welt aussehen sollte und was sie heute schon besonders macht.
+type: story
 images:
    - imgname: european_data_summit_2018.jpg
 draft: false
@@ -23,6 +24,3 @@ Um diesem Problem abhilfe zu schaffen, forderte Pollock alternative Finanzierung
 Diese und weitere Ideen lassen sich in Pollocks Buch "The Open Revolution" nachlesen, das auf der [Website](https://openrevolution.net) bestellt oder kostenfrei heruntergeladen werden kann. Kommt zu uns ins [Open Knowledge Lab am 03.12.2018](https://www.meetup.com/OK-Lab-Berlin/events/hwrqbqyxqbfb/) und lasst uns gemeinsam über die Inhalte des Buches kritisch diskutieren. Wir werden in einem kurzem Vortrag die Kernthesen zusammenfassen. Ihr seid jedoch herzlich eingeladen, vorab das gesamte Buch zu lesen.
 
 Einen ausführlichen Bericht der Veranstaltung gibt es von [Walter Palmetshofer im Blog der Open Knowledge Foundation Deutschland](https://okfn.de/blog/2018/10/PSI-Policy-EUDataSummit/) und [das Video von Pollocks Auftritt auf Youtube](https://www.youtube.com/watch?v=8pjC5PaWjIc).
-
-
-

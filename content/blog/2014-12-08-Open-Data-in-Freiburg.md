@@ -4,6 +4,7 @@ layout: post
 title: Open Freiburg - Let's Go!
 author: Fiona
 excerpt: In Freiburg geht es vorwärts in Sachen Open Data - am Donnerstag, den 11.12. sind wir zu Gast bei einer Veranstaltung rund um Offene Daten und diskutieren die Gründung eines neuen OK Labs!
+type: community
 
 images:
 - imgname: Open-Data-Freiburg.gif

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Kick-off, Take-off! 
+title: Kick-off, Take-off!
 author: Elisa
 excerpt: Alle Digital Refugee Labs sind gestartet. Hier könnt ihr nachlesen, woran sie in den nächsten Monaten arbeiten werden.
+type: event
 
 images:
 - imgname: drl-titel.jpg
@@ -10,13 +11,13 @@ images:
 - imgname: drl-ws-karlsruhe.jpeg
   sub: Gut gelaunt in Karlsruhe (Bild von Daniel Freytag, <a href="http://karlszeit.de">karlszeit.de</a>)
 - imgname: drl-ws-berlin.jpg
-  sub: Bei der Arbeit in Berlin 
+  sub: Bei der Arbeit in Berlin
 ---
 
 ![drl-titel](/blog/drl-titel.jpg)
 
 
-Wir freuen uns sehr: Alle vier Digital Refugee Labs haben offiziell ihre Arbeit aufgenommen! Nach vier intensiven, spannenden und anstrengenden Kickoff-Workshops geht die Arbeit in Leipzig, Hamburg, Berlin und Karlsruhe nun erst richtig los. 
+Wir freuen uns sehr: Alle vier Digital Refugee Labs haben offiziell ihre Arbeit aufgenommen! Nach vier intensiven, spannenden und anstrengenden Kickoff-Workshops geht die Arbeit in Leipzig, Hamburg, Berlin und Karlsruhe nun erst richtig los.
 
 In Kürze findet ihr die Projekte auf <a href="codefor.de/digitalrefugeelabs">codefor.de/digitalrefugeelabs</a>. Bis dahin haben wir für euch die Eindrücke aus den Workshops gesammelt:
 
@@ -25,7 +26,7 @@ Den Auftakt unserer Kickoff-Reihe machte am 21. Mai das OK Lab Leipzig, organisi
 
 
 <h3 style="text-align: center">Hamburg</h3>
-Der zweite Workshop fand in der Hamburger Hafen-City statt, direkt an der Elbe. Organisiert wurde der Workshop von Solveig, Alina, Timo und Vera, alle Mitglieder des OK Labs Hamburg. Eingeladen wurden unter anderem Vertreterinnen aus der Stadtverwaltung, aber auch Aktivistinnen, Menschen mit Fluchthintergrund und Journalistinnen. Gemeinsam wurde an Projekten gearbeitet, die bereits existieren, aber hier und da noch Unterstützung brauchten. Darunter beispielsweise ein Projekt namens 'Hop-On', dessen Ziel es ist, häufig vorkommende Fragen über die komplexen Strukturen der beruflichen Bildung in Deutschland zu erfassen, aufzubereiten und verständlich zu machen — in adressatengerechtem Deutsch und vorerst Arabisch. Darüber hinaus wurde sich auch in Sachen Öffentlichkeitsarbeit ausgetauscht und beraten. Jedes der vier Teams hat jetzt eine*n Betreuer*in aus dem Team von Code for Hamburg und ist dazu eingeladen, die Treffen des Labs zu besuchen. 
+Der zweite Workshop fand in der Hamburger Hafen-City statt, direkt an der Elbe. Organisiert wurde der Workshop von Solveig, Alina, Timo und Vera, alle Mitglieder des OK Labs Hamburg. Eingeladen wurden unter anderem Vertreterinnen aus der Stadtverwaltung, aber auch Aktivistinnen, Menschen mit Fluchthintergrund und Journalistinnen. Gemeinsam wurde an Projekten gearbeitet, die bereits existieren, aber hier und da noch Unterstützung brauchten. Darunter beispielsweise ein Projekt namens 'Hop-On', dessen Ziel es ist, häufig vorkommende Fragen über die komplexen Strukturen der beruflichen Bildung in Deutschland zu erfassen, aufzubereiten und verständlich zu machen — in adressatengerechtem Deutsch und vorerst Arabisch. Darüber hinaus wurde sich auch in Sachen Öffentlichkeitsarbeit ausgetauscht und beraten. Jedes der vier Teams hat jetzt eine*n Betreuer*in aus dem Team von Code for Hamburg und ist dazu eingeladen, die Treffen des Labs zu besuchen.
 
 ![drl-ws-hamburg](/blog/drl-ws-hamburg.jpg)
 *<center>Workshop mit Aussicht in Hamburg</center>*
@@ -33,7 +34,7 @@ Der zweite Workshop fand in der Hamburger Hafen-City statt, direkt an der Elbe. 
 <br>
 
 <h3 style="text-align: center">Berlin</h3>
-Den größten Workshop richtete das OK Lab Berlin aus: 55 Teilnehmende trafen sich am 25. Juni bei brütender Hitze in den Räumen der Wikimedia, um vier existierenden Projekten weiterzuhelfen. Eines der Hauptanliegen war es, für mehr Transparenz zwischen den zahlreichen Initiativen, Organisationen und sonstigen Akteuren zu sorgen und zu vermeiden, dass Werkzeuge unnötigerweise mehrfach entwickelt werden. Die Organisator*innen von <a href="metacollect.org">Metacollect</a> schlossen sich mit anderen Initiativen zusammen, um eine Strategie zu entwickeln, wie digitale Werkzeuge, Anwendungen und Initiativen besser sichtbar werden, sich stärker digital vernetzen können und welche Voraussetzungen dafür erfüllt werden müssen. 
+Den größten Workshop richtete das OK Lab Berlin aus: 55 Teilnehmende trafen sich am 25. Juni bei brütender Hitze in den Räumen der Wikimedia, um vier existierenden Projekten weiterzuhelfen. Eines der Hauptanliegen war es, für mehr Transparenz zwischen den zahlreichen Initiativen, Organisationen und sonstigen Akteuren zu sorgen und zu vermeiden, dass Werkzeuge unnötigerweise mehrfach entwickelt werden. Die Organisator*innen von <a href="metacollect.org">Metacollect</a> schlossen sich mit anderen Initiativen zusammen, um eine Strategie zu entwickeln, wie digitale Werkzeuge, Anwendungen und Initiativen besser sichtbar werden, sich stärker digital vernetzen können und welche Voraussetzungen dafür erfüllt werden müssen.
 
 
 ![drl-ws-berlin](/blog/drl-ws-berlin.jpg)
@@ -42,7 +43,7 @@ Den größten Workshop richtete das OK Lab Berlin aus: 55 Teilnehmende trafen si
 <br>
 
 <h3 style="text-align: center">Karlsruhe</h3>
-Von starkem lokalem Engagement geprägt war der Workshop in Karlsruhe. In der Fettschmelze auf dem Gelände des alten Schlachthofs kamen am 2. Juli 30 Teilnehmende aus dem Karlsruher OK Lab, aus Behörden, aus Hilfsorganisationen und aus eigenem Antrieb zusammen. Vier Teams entwarfen Lösungen, um Helfende, Verbände und Behörden besser zu vernetzen und den wachsenden Anforderungen standzuhalten, um Integrationsangebote für Geflüchtete zu sammeln und bereitzustellen, oder um Diskriminierung jeder Art sichtbar zu machen und den Betroffenen Ansprechparter*innen zu nennen, die weiterhelfen können. 
+Von starkem lokalem Engagement geprägt war der Workshop in Karlsruhe. In der Fettschmelze auf dem Gelände des alten Schlachthofs kamen am 2. Juli 30 Teilnehmende aus dem Karlsruher OK Lab, aus Behörden, aus Hilfsorganisationen und aus eigenem Antrieb zusammen. Vier Teams entwarfen Lösungen, um Helfende, Verbände und Behörden besser zu vernetzen und den wachsenden Anforderungen standzuhalten, um Integrationsangebote für Geflüchtete zu sammeln und bereitzustellen, oder um Diskriminierung jeder Art sichtbar zu machen und den Betroffenen Ansprechparter*innen zu nennen, die weiterhelfen können.
 
 ![drl-ws-karlsruhe](/blog/drl-ws-karlsruhe.jpeg)
 *<center>Gut gelaunt in Karlsruhe (Bild von Daniel Freytag, <a href="http://karlszeit.de">karlszeit.de</a>)</center>*

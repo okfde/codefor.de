@@ -4,6 +4,7 @@ layout: post
 title: Praktikum bei Code for Germany
 author: Fiona
 excerpt: Wir suchen Verstärkung für unser Team zum nächstmöglichen Zeitpunkt.
+type: community
 
 images:
 - imgname: praktikum.png

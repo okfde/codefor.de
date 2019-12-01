@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Offene Daten in der Berliner Verwaltung 
+title: Offene Daten in der Berliner Verwaltung
 author: Niels
 excerpt: Die Zuschneidung von Einzugsgebieten für Grundschulen ist ein komplexes Thema. Im Bezirk Tempelhof-Schöneberg in Berlin wird nun eine Anwendung pilotiert, die mit offenen Daten diese Gebiete algorithmisch optimiert.
+type: story
 images:
-- imgname: einzugsgebiete.jpg 
+- imgname: einzugsgebiete.jpg
 ---
 
 <i>Gastbeitrag von Niels Reinhard von <a href="www.idalab.de"></a>idalab</i>
@@ -14,7 +15,7 @@ Das Hinwirken auf ein proaktives Veröffentlichen von Verwaltungsdaten aus deuts
 <h3>Optimierung der Einzugsgebiete von Grundschulen als komplexe Verwaltungsaufgabe</h3>
 
 Das Zuschneiden von Einzugsgebieten für Grundschulen beschäftigt in Deutschland viele Schulträger. Insbesondere in Städten wie Berlin, wo sich die Bevölkerungszusammensetzung in den Bezirken rapide ändert, sind die Einzugsgebiete von Schulen ein besonderes Politikum. Die Behörden müssen nicht nur die Auslastung der Schulen gewährleisten, sondern auch die Schulwege der Schüler minimieren. Gleichzeitig gibt es noch weitere Kriterien, wie die sozioökonomische Diversität der Schülerschaft, die stets beachtet werden. Die verwaltungsinternen Prozesse basieren aktuell auf einer fragmentierten Auswahl von Geoinformationsdiensten und Excel-Dateien - und binden dauerhaft Ressourcen bei den zuständigen Stellen.
-				
+
 <h3>Offene Daten & Algorithmen vereinfachen Verwaltungsprozesse</h3>
 
 Open Data Aktivist <a href="http://danielkirs.ch">Daniel Kirsch</a> (in seiner Funktion als Data Scientist bei idalab in Kooperation mit der <a href="http://www.stiftung-nv.de">Stiftung Neue Verantwortung</a>, der <a href="https://www.technologiestiftung-berlin.de/de/startseite/">Technologiestiftung Berlin</a> und dem Open Data Beauftragten der Senatsverwaltung für Wirtschaft) arbeitet nun in einem Projekt mit dem Bezirksamt Tempelhof-Schöneberg zu Berlin an einer Software, welche es den Mitarbeitern der Behörde ermöglicht, Einzugsgebiete von Grundschulen algorithmisch entlang verschiedener Dimensionen zu optimieren. “Mit unserer Software ermöglichen wir es den Anwendern in Behörden nun, große Teile des Planungsprozesses zu automatisieren. Per Knopfdruck können die Einzugsgebiete der Grundschulen hinsichtlich Auslastung und Schulweg optimiert werden”, erklärt Daniel Kirsch die Funktionalität. Die Software greift dabei auf Offene Geodaten und weitere offene Datensätze der Berliner Verwaltung zurück und wird gleichzeitig mit den Daten des zuständigen Schulamtes verbunden.

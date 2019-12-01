@@ -3,6 +3,7 @@ layout: post
 title: "Pressemitteilung: Launch Verfassungsschutzberichte.de"
 author: Johannes Filter
 excerpt: In ihren jährlichen Berichten informiert der Verfassungsschutz über verfassungsfeindliche Bestrebungen. Auf Verfassungsschutzberichte.de werden die Berichte erstmals gesammelt, analysiert und durchsuchbar gemacht.  Die Webseite ist ein zivilgesellschaftliches Archiv, das den Zugang zu den Berichten erleichtert. Es dient als Recherchewerkzeug für Journalist:innen, Wissenschafter:innen und interessierte Bürger:innen.
+type: project
 images:
    - imgname: berlin/vsberichte.jpg
 og-image: /assets/blog/berlin/vsberichte.jpg

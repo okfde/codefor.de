@@ -3,6 +3,7 @@ layout: post
 
 title: Code for Germany beim Elektrischen Reporter
 author: Fiona
+type: interview
 
 ---
 

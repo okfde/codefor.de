@@ -3,6 +3,7 @@ layout: post
 
 title: Unser Advisory Board
 author: Fiona
+type: story
 
 images:
 - imgname: board.png

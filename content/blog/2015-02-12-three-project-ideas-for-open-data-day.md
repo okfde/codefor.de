@@ -4,6 +4,7 @@ layout: post
 title: Three ideas for Open Data Day 2015
 author: Drew
 excerpt: With one week until Open Data Day, here are three project ideas to jumpstart your creativity
+type: toolbox
 
 
 images:

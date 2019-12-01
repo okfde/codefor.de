@@ -4,6 +4,7 @@ layout: post
 title: Sebastian Askar - der neue Open Data Beauftragte von Berlin
 author: Tobias, Thomas und Knut
 excerpt: Berlin hat einen neuen Open Data Beauftragten - Sebastian Askar. Sein Vorgänger Dr. Both geht in den Ruhestand und Sebastian Askar übernimmt seine Stelle. Dies nahmen wir als Berliner Open Data Lab zum Anlass, ihn einzuladen. Am 20. Juli 2015 war es soweit - Sebastian Askar kam ins OKLab Berlin. Was bei diesem gegenseitigen Kennenlernen besprochen wurde, soll dieser Artikel festhalten.
+type: event
 ---
 
 

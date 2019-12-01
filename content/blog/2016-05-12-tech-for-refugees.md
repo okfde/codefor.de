@@ -3,7 +3,8 @@ layout: post
 title: Tech for Refugees - Was ist das eigentlich?
 author: Elisa
 excerpt: Ein kurzer Überblick darüber, welche digitalen Werkzeuge heute rund um Geflüchtete und die Arbeit mit ihnen zum Einsatz kommen
-draft: false
+type: project
+
 images:
 - imgname: drl.jpg
 ---
@@ -18,7 +19,7 @@ images:
 
 <h3 style="text-align: center">Internetzugang als Grundbedürfnis</h3>
 
-<p>Projekte wie <a href="https://freifunk.net">Freifunk</a>, <a href="http://www.refugeesemancipation.com">Refugees Emancipation</a> oder <a href="http://www.refugees-online.de">Refugees online</a> haben es sich zur Aufgabe gemacht, Internetzugang in die oft abgelegenen Unterkünfte zu bringen und diesen auch den Geflüchteten, nicht nur den Betreibern, offen zugänglich zu machen. Viele Webseiten und Apps, die sich an Geflüchtete wenden und ihnen dazu dienen sollen, sich zu vernetzen, zu informieren und weiterzubilden, können viele Neuankömmlinge auf diese Weise überhaupt erst nutzen. 
+<p>Projekte wie <a href="https://freifunk.net">Freifunk</a>, <a href="http://www.refugeesemancipation.com">Refugees Emancipation</a> oder <a href="http://www.refugees-online.de">Refugees online</a> haben es sich zur Aufgabe gemacht, Internetzugang in die oft abgelegenen Unterkünfte zu bringen und diesen auch den Geflüchteten, nicht nur den Betreibern, offen zugänglich zu machen. Viele Webseiten und Apps, die sich an Geflüchtete wenden und ihnen dazu dienen sollen, sich zu vernetzen, zu informieren und weiterzubilden, können viele Neuankömmlinge auf diese Weise überhaupt erst nutzen.
 </p>
 <br>
 
@@ -31,7 +32,7 @@ images:
 
 <h3 style="text-align: center">Hilfe für Helfende</h3>
 
-<p>Ein anderes Einsatzgebiet für Tech for Refugees ist die Arbeit mit Geflüchteten. Viele Werkzeuge helfen den Helfer*innen, sich und ihre Arbeit professionell zu koordinieren: 
+<p>Ein anderes Einsatzgebiet für Tech for Refugees ist die Arbeit mit Geflüchteten. Viele Werkzeuge helfen den Helfer*innen, sich und ihre Arbeit professionell zu koordinieren:
 Einfache Werkzeuge wie <a href="http://etherpad.org">Etherpads</a> oder Spreadsheets erlauben es, ohne technische Kenntnisse kollaborativ zu arbeiten und <a href="http://moabit-hilft.com/bedarfsliste">Bedarfslisten</a> zusammenzutragen und zu veröffentlichen. Darüber hinaus sind ganze Informationssysteme entstanden wie der <a href="https://volunteer-planner.org">Volunteer Planner</a> oder <a href="https://lichtenberg.schnell-helfen.de">Helfer-Portale</a>. Zeit- und Sachspenden von vielen Freiwilligen kommen so bei den Organisationen an, die sie wirklich benötigen.</p>
 <br>
 <hr>
@@ -39,4 +40,3 @@ Einfache Werkzeuge wie <a href="http://etherpad.org">Etherpads</a> oder Spreadsh
 <p>Eines haben die meisten Tech-for-Refugees-Projekte gemeinsam: Sie sind von Freiwilligen aus privatem Engagement heraus entstanden und werden oft immer noch von Ehrenamtlichen betreut und am Leben gehalten. Hut ab!</p>
 <br>
 <p>Und hier geht's zum Projekt: <a href="http://codefor.de/digitalrefugeelabs">codefor.de/digitalrefugeelabs</a></p>
-

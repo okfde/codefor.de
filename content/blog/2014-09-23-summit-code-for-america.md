@@ -4,9 +4,9 @@ layout: post
 title: Code for America Summit
 author: Julia
 excerpt: Heute startet der jährliche Summit von Code for America in San Francisco.
+type: event
 images:
 - imgname: summit.jpg
-
 ---
 ![summit](/blog/summit.jpg)
 

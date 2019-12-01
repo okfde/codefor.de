@@ -4,6 +4,7 @@ layout: post
 title: Der Code for Germany Newsletter
 author: Sonia
 excerpt: Wir haben wieder spannende News und Links für unseren Newsletter gesammelt.
+type: story
 
 images:
 - imgname: newsletter-maerz.jpg

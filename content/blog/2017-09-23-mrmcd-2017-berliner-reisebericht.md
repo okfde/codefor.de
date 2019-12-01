@@ -3,6 +3,7 @@ layout: post
 title: MRMCD 2017 - Berliner Reisebericht
 author: Tobias
 excerpt: Mein Reisebericht zum Besuch der MRMCDs im September 2017 - eine persönliche Zusammenfassung von drei Tagen Darmstadt.
+type: event
 
 images:
 - imgname: mrmcd-2017-unicorn.jpg

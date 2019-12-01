@@ -3,6 +3,7 @@ layout: post
 
 title: Die Senatsverwaltung zu Gast
 author: Tobias
+type: story
 
 images:
 - imgname: berlin/fisbroker.jpg

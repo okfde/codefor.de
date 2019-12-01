@@ -4,6 +4,7 @@ layout: post
 title: Stadräte zu Gast bei Code for Heilbronn
 author: Felix
 excerpt: In Heilbronn haben wir zu einer Informationsveranstaltung über Open Data eingeladen. Unterstützt wurden wir dabei von Gerd Armbruster, Leiter der IT in der Stadt Mannheim.
+type: community
 
 images:
 - imgname: heilbronn-kickoff.jpg

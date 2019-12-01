@@ -3,6 +3,7 @@ layout: post
 
 title: Into the wild Republica
 author: Fiona
+type: community
 
 images:
 - imgname: republica_14.jpg

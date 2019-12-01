@@ -3,6 +3,7 @@ layout: post
 
 title: Open Data Day 2015
 author: Sonia
+type: event
 
 images:
 - imgname: odd15-countdown.png

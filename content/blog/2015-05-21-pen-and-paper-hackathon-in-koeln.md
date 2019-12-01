@@ -4,6 +4,7 @@ layout: post
 title: Pen & Paper Hackathon zu Verkehr, Mobilität und Stadtentwicklung
 author: Marcel
 excerpt: In Köln kommen Designer, Architekt, Stadtplaner, Programmierer und engagierter Bürger zusammen, um die Mobilität in der Stadt neu zu denken.
+type: event
 
 images:
 - imgname: cologne/penandpaper.jpg

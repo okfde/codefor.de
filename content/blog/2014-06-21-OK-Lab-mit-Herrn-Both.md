@@ -3,6 +3,7 @@ layout: post
 
 title: OK-Lab Berlin mit Gästen
 author: Magda
+type: community
 
 images:
 - imgname: berlin/ok_lab_mit_both_1.jpg
