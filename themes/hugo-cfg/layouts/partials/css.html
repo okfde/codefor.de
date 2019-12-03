@@ -11,6 +11,7 @@
 <link rel="stylesheet" type="text/css" href="{{ $css.RelPermalink }}">
 {{- else }}
 {{- $css := resources.Get $sass | toCSS $cssOpts | minify | fingerprint }}
-<link rel="stylesheet" type="text/css" href="https://dev.codefor.de/{{ $css.RelPermalink }}" >
+<link rel="stylesheet" type="text/css" href="https://dev.codefor.de/{{ $css.RelPermalink }}">
+<!-- <link rel="stylesheet" type="text/css" href="https://dev.codefor.de/{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}"> -->
 {{- end }}
 <link rel="stylesheet" type="text/css" href="{{ "css/icons.css" | relURL }}">
