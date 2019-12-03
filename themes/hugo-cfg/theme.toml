@@ -1,7 +1,7 @@
 name = "Hugo Fresh"
 license = "MIT"
 licenselink = "https://github.com/StefMa/hugo-fresh/blob/master/LICENSE.md"
-description = "A Hugo adaptation of the Fresh theme from CSS Ninja"
+description = "Website von Code for Germany, Netzwerk ehrenamtlich engagierter Freiwilliger, die gemeinsam mit offenen Daten und freier Software ihre Städte und das gesellschaftliche Miteinander verbessern wollen - für mehr Transparenz, Offene Daten und Partizipation in unseren Städten!"
 homepage = "https://github.com/StefMa/hugo-fresh"
 tags = ["responsive", "one page", "light", "onepage", "company", "clean", "landing page"]
 features = []
