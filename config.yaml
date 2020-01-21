@@ -41,8 +41,6 @@ params:
     #- gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Adventskalender 2019
-    url: /advent19
   - title: Über uns
     url: /ueber/
   - title: Projekte
