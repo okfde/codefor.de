@@ -1,0 +1,39 @@
+---
+city: Chemnitz
+title: OK Lab Chemnitz
+lab: OK Lab Chemnitz
+lat: 50.83063
+long: 12.93973
+markerposition: right
+
+members:
+
+- name: Morris Jobke
+  username-twitter: MorrisJbk
+  username-github: MorrisJobke
+- name: Tobias Gall
+  username-twitter: symptog
+  username-github: symptog
+- name: Ronny Hartenstein
+  username-twitter: rhflow_de
+  username-github: ronnyhartenstein
+- name: Benedikt Geißler
+  username-github: benediktg5
+
+links:
+- name: Webseite
+  url: http://codeforchemnitz.de/
+- name: Mailingliste
+  url: mailto:codeforchemnitz@lists.okfn.org
+- name: Pad
+  url: http://pad.okfn.org/p/oklab-chemnitz
+- name: Twitter
+  url: http://twitter.com/codeforchemnitz
+
+
+leads:
+- name: Morris
+  url: mailto:hey@morrisjobke.de
+- name: Tobias
+  url: mailto:tobias.gall@mailbox.org
+---

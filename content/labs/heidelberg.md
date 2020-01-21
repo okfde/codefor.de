@@ -1,0 +1,30 @@
+---
+city: Heidelberg
+title: OK Lab Heidelberg
+lab: OK Lab Heidelberg
+lat: 49.40768
+long: 8.69079
+markerposition: left
+
+members:
+- name: Jasper Schmidt
+  username-github:
+  username-twitter:
+- name: Mandy Reinhardt
+  username-github: mandyr
+
+links:
+- name: Meetup
+  url: http://www.meetup.com/OK-Lab-Heidelberg/
+- name: Pad
+  url: https://pad.ccc-mannheim.de/p/OKL-HD_Portal
+- name: Twitter
+  url: https://twitter.com/OKL_HD
+
+
+leads:
+- name: Jasper Schmidt
+  url: mailto:jasper.schmidt@dai-heidelberg.de
+- name: Mandy Reinhardt
+  url: mailto:ok-lab@mandyr.de
+---

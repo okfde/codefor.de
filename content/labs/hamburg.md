@@ -1,0 +1,106 @@
+---
+city: Hamburg
+title: OK Lab Hamburg
+lab: OK Lab Hamburg
+lat: 53.5476165
+long: 9.9800385
+
+#special: true #this lab gets spcecial marker (digital refugee lab)
+
+markerposition: right
+
+members:
+
+- name: Timo lundelius
+  username-github: lundelius
+  username-twitter: timo_lundelius
+
+- name: Philipp Geisler
+  username-github: philippgeisler
+  username-twitter: zelpst
+
+- name: Solveig Schröder
+  username-github: solveigs
+  username-twitter: SolveigSchroder
+
+- name: Hannes
+  username-github: kannes
+  username-twitter: cartocalypse
+
+- name: Achim Tack
+  username-github: ATack
+  username-twitter: A_Tack
+
+- name: Marco Maas
+  username-github: marcomaas
+  username-twitter: themaastrix
+
+- name: Timo Kessler
+  username-github: tike
+  username-twitter: tike10
+
+- name: Patrick Stotz
+  username-github: PatrickStotz
+  username-twitter: PatrickStotz
+
+- name: Lukasz Plotnicki
+  username-github: lplotni
+  username-twitter: lplotni
+
+- name: Aurelius Wendelken
+  username-github: webtobesocial
+  username-twitter: webtobesocial
+
+- name: Andreas Wienes
+  username-github: andreas-wienes
+  username-twitter: AndreasWienes
+
+- name: Felix Kruse
+  username-github: felixkqb
+  username-twitter: felixkqb
+
+- name: Anne Kis
+
+
+
+
+links:
+#- name: Flyer
+#  url: in progress
+
+- name: CODEFORHAMBURG.ORG - NEU
+  url: http://codeforhamburg.org/
+
+- name: Mailingliste - NEU
+  url: http://codeforhamburg.org/newsletter/
+
+- name: Termine (Meetup.com)
+  url: http://www.meetup.com/codeforhamburg
+
+- name: Twitter - Neuigkeiten
+  url: http://twitter.com/codeforhamburg
+
+- name: Notizen... (Orga, Updates usw.)
+  url: http://pad.opendatacloud.de/p/OK-Lab-HH
+
+leads:
+
+- name: Solveig Schröder (Orga)
+  url: mailto:solveig@codeforhamburg.org
+
+- name: Timo Lundelius (Orga)
+  url: mailto:timo@codeforhamburg.org
+
+- name: Philipp Geisler (Orga)
+  url: mailto:philipp@codeforhamburg.org
+
+- name: Marco Maas (Ehrenpräsident)
+  url: mailto:maas@opendatacity.de
+
+- name: Timo Kessler (Immer gern gesehen)
+  url: mailto:timo_kessler@gmx.de
+
+
+
+
+---

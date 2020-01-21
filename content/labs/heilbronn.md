@@ -1,0 +1,50 @@
+---
+city: Heilbronn
+title: Code for Heilbronn
+lab: OK Lab Heilbronn
+lat: 49.139059
+long: 9.220404
+markerposition: right
+
+members:
+- name: Adrian Stabiszewski
+  username-github: grundid
+  username-twitter: nitegate
+- name: Jonathan Günz
+  username-github: harmoniemand
+  username-twitter: harmoniemand
+- name: Leandro
+  username-twitter: _LeoDJ
+- name: Franz Imschweiler
+- name: Steffen Jung
+  username-github: gravima
+- name: Felix Ebert
+  username-github: felixebert
+  username-twitter: femeb
+- name: Valentin Fischer
+  username-twitter: TheVale98
+- name: Joas Schilling
+  username-twitter: nickvergessen
+- name: Lukas Himsel
+  username-github: lukas-h
+- name: Patrick Hahn
+  username-twitter: patrick24651
+
+links:
+- name: Meetup
+  url: http://www.meetup.com/OK-Lab-Heilbronn/
+- name: Twitter
+  url: https://twitter.com/codeforhn
+- name: Code For Heilbronn Website
+  url: http://codeforheilbronn.de
+- name: Coworking Space Heilbronn
+  url: http://coworking-heilbronn.org/
+
+leads:
+- name: Adrian Stabiszewski
+  url: mailto:adrian@opendatalab.de
+- name: Jonathan Günz
+  url: https://twitter.com/harmoniemand
+- name: Felix Ebert
+  url: mailto:felix@opendatalab.de
+---

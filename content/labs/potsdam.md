@@ -1,0 +1,32 @@
+---
+city: Potsdam
+title: OK Lab Potsdam
+lab: OK Lab Potsdam
+lat: 52.38947
+long: 13.07853
+markerposition: left
+
+
+links:
+
+- name: Homepage
+  url: http://www.oklab-potsdam.de
+
+- name: Meetup
+  url: http://www.meetup.com/OK-Lab-Potsdam
+
+- name: Twitter
+  url: https://twitter.com/oklabpdm
+
+- name: GitHub
+  url: https://github.com/open-data-potsdam
+
+
+leads:
+
+- name: Martin Koll
+  url: mailto:martin[aet]oklab-potsdam.de
+
+- name: Florian Köhler
+  url: mailto:f.koehler[aet]oklab-potsdam.de
+---

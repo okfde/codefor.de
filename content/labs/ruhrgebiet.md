@@ -1,0 +1,62 @@
+---
+city: Ruhrgebiet
+title: OK Lab Ruhrgebiet
+lab: OK Lab Ruhrgebiet
+lat: 51.438531
+long: 7.024764
+markerposition: right
+showsignup: false
+
+links:
+- name: Mailingliste
+  url: https://mlists.okfn.de/cgi-bin/mailman/listinfo/codeforruhrgebiet
+- name: Meetup
+  url: http://www.meetup.com/de-DE/OK-Lab-Ruhrgebiet/
+- name: Twitter
+  url: https://twitter.com/CodeforRuhr
+- name: GitHub
+  url: https://github.com/codeforruhrgebiet
+- name: OpenRuhr.de
+  url: https://openruhr.de
+
+leads:
+- name: Benedict
+  url: mailto:lab@openruhr.de
+- name: Martin
+  url: mailto:lab@openruhr.de
+- name: Ernesto
+  url: mailto:lab@openruhr.de
+
+
+members:
+- name: Ernesto Ruge
+  username-github: the-infinity
+  username-twitter: the_infinity
+- name: Martin Schurig
+  username-github: schurig
+  username-twitter: martinschurig
+- name: Benedict Zinke
+  username-github: bezin
+  username-twitter: b3zet
+- name: Sakander Zirai
+  username-github: suioni
+  username-twitter: suioni
+- name: Simon Wörpel
+  username-github: simonwoerpel
+  username-twitter: simonwoerpel
+- name: Thomas Müller
+  username-github: mullerovsky
+- name: Eugen Koslowski
+  username-github: dckoma
+  username-twitter: dckoma
+- name: Ulrich Greveler
+  username-github: greveler
+  username-twitter: greveler
+- name: Dennis Stacks
+- name: Tim Guenther
+  username-github: TimGuenther
+  username-twitter: t3gsec
+- name: Benedikt Rauch
+  username-github: benediktrauch
+  username-twitter: pingubene
+---

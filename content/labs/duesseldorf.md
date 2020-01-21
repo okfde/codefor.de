@@ -1,0 +1,80 @@
+---
+city: Düsseldorf
+title: OK Lab Düsseldorf
+lab: OK Lab Düsseldorf
+lat: 51.209478
+long: 6.7784333
+markerposition: left
+showsignup: false
+
+links:
+- name: Blog
+  url: https://codefordus.nrw
+- name: Facebook
+  url: https://www.facebook.com/codefordus/
+- name: GitHub
+  url: https://github.com/codefordus
+- name: Mailingliste
+  url: https://listi.jpberlin.de/mailman/listinfo/codefordus
+- name: Meetup
+  url: http://www.meetup.com/de-DE/OK-Lab-Dusseldorf/
+- name: Twitter
+  url: https://twitter.com/codefordus
+
+leads:
+- name: Tobias Siebenlist
+  url: mailto:tobias.siebenlist@hhu.de
+- name: Agnes Mainka
+  url: mailto:agnes.mainka@hhu.de
+- name: Stefan Müller
+  url: mailto:stefan.mueller@gruene-duesseldorf.de
+- name: Phil Ninh
+  url: mailto:philninh@gmail.com
+- name: Dr. Christian Knebel
+  url: mailto:knebel@publicplan.de
+
+members:
+- name: Agnes Mainka
+  username-twitter: agnieszka_m
+- name: Alice Wiegand
+  username-twitter: lyzzy
+- name: Antje Feil
+  username-twitter: antjefeil
+- name: Arne Lieb
+  username-twitter: arnelieb
+- name: Catrin Boss
+- name: Christina Rentmeister
+  username-twitter: chrire
+- name: Dirk Nagels
+  username-twitter: OpenDirk
+- name: Dr. Christian Knebel
+  username-github: cknebel
+  username-twitter: cknebel79
+- name: Khalid Karroumi
+- name: Lara Knebel
+  username-twitter: lknebel19
+- name: Marcus Weiner
+  username-github: mraerino
+  username-twitter: mraerino
+- name: Max Schorradt
+  username-github: mechtecs
+  username-twitter: mechtecify
+- name: Oliver Vaupel
+  username-twitter: ovau
+- name: Patrick Schiffer
+  username-github: patrickschiffer
+  username-twitter: pschiffer
+- name: Phil Ninh
+  username-github: PhilNinh
+  username-twitter: philninh
+- name: Sabine Manz
+  username-twitter: SabineManz
+- name: Stefan Müller
+  username-github: stefdus
+  username-twitter: stefdus
+- name: Steffen Pramel
+- name: Tobias Hübner
+  username-twitter: medienistik
+- name: Tobias Siebenlist
+  username-twitter: t7l
+---

@@ -1,0 +1,49 @@
+---
+city: Dresden
+title: Open Data Dresden
+lab: OK Lab Dresden
+lat: 51.08113
+long: 13.72858
+
+members:
+
+- name: Astro
+  url: http://spaceboyz.net/~astro/
+  username-github: astro
+  username-twitter: astro1138
+- name: Consti
+  username-github: ubahnverleih
+  username-twitter: ubahnverleih
+- name: Rob
+  url: http://boogiedev.net
+  username-github: robtranquillo
+  username-twitter: robtranquillo
+- name: jklmnn
+  username-github: jklmnn
+  username-twitter: JK70523
+- name: Paul
+  username-github: balzer82
+  username-twitter: balzer82
+- name: kiliankoe
+  username-github: kiliankoe
+  username-twitter: kiliankoe
+- name: und wechselnd viele weitere Menschen
+
+
+links:
+- name: twitter
+  url: https://twitter.com/opendatadresden
+- name: webseite
+  url: http://offenesdresden.de
+- name: mailingliste
+  url: mailto:all-subscribe@okdd.de
+- name: slack
+  url: https://openknowledgegermany.slack.com/messages/dresden
+- name: am 23. des Monats (bitte immer bei meetup prüfen! oder per Twitter fragen)
+  url: http://offenesdresden.de
+
+leads:
+- name: rob tranquillo
+  url: https://twitter.com/robtranquillo
+
+---

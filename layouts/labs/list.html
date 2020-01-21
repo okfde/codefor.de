@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <section class="section">
+    <div class="container">
+      <h1 class="title section-title">{{ .Title }}</h1>
+      <h2 class="subtitle is-5 is-muted">{{ .Params.Subtitle }}</h2>
+      <div class="divider"></div>
+      <div class="content">
+        Hier steht ein schöner kurzer Text der zur Liste und Karte hinüberleitet.
+        {{ .Content }}
+      </div>
+      <div class="columns">
+        <div class="column is-7">
+          Hier kommt ne tolle Karte hin
+        </div>
+        <div class="column is-5">
+          <h3 class="title is-5">In diesen Städten gibt es bereits ein OK Lab:</h3>
+          {{ range .Pages.ByParam "city" }}
+         <a href="{{.Permalink}}"> <span class="tag is-info">
+
+            {{.Params.city}}
+          </span>
+          </a>
+          {{ end }}
+        </div>
+    </div>
+  </section>
+{{ end }}

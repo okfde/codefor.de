@@ -1,0 +1,82 @@
+---
+city: Bonn
+title: OK Lab Bonn-Rhein-Sieg
+lab: OK Lab Bonn-Rhein-Sieg
+lat: 50.7371974
+long: 7.0947157
+markerposition: right
+
+members:
+
+- name: Sven Hense
+  username-github: opendatabonn
+  username-twitter: eGovBonn
+
+- name: Sascha Foerster
+  username-github: saschafoerster
+  username-twitter: Sascha_Foerster
+
+- name: Andreas Job
+  username-twitter: AndreasJob
+
+- name: Jens Schaller
+  username-github: SchallerJe
+  username-twitter: schallerje
+
+- name: Josef Schugt
+  username-twitter: penpendede
+
+- name: Damian Paderta
+  username-github: daimpad
+  username-twitter: paderta
+
+- name: Martin Schneider
+  username-github: schneyra
+  username-twitter: schneyra
+
+- name: Stephan Lentzen
+  username-github: inazr
+  username-twitter: wipokar
+
+- name: Michael Rolfsen
+  username-github: mrolfsen
+  username-twitter: michaelsupdates
+
+links:
+
+- name: Homepage
+  url: https://codeforbonnrheinsieg.de
+
+- name: Meetup
+  url: http://www.meetup.com/OKLab-Bonn/
+
+- name: Twitter
+  url: http://twitter.com/codeforbonn
+
+- name: Facebook
+  url: https://www.facebook.com/codeforbonn/
+
+- name: Etherpad
+  url: https://pad.okfn.org/p/oklab-bonn
+
+- name: GitHub
+  url: https://github.com/OKLabBonn
+
+- name: Slack Team
+  url: https://codeforbonn.slack.com/
+
+- name: OpenData Portal der Stadt Bonn
+  url: http://opendata.bonn.de
+
+
+leads:
+
+- name: Sven Hense
+  url: mailto:opendata@bonn.de
+
+- name: Damian Paderta
+  url: mailto:paderta@email.de
+
+- name: Caspar Armster
+  url: mailto:info@codeforbonn.de
+---
