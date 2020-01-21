@@ -1,0 +1,94 @@
+---
+city: München
+title: OK Lab München
+lab: OK Lab München
+lat: 48.14356
+long: 11.55792
+markerposition: right
+
+## LHM Marsstr. 22
+#lat: 48.14356
+#long: 11.55792
+
+
+## LMU Oettingenstr
+#lat: 48.150638
+#long: 11.594601
+
+## Werk1
+#lat: 48.125022947
+#long: 11.605757474
+
+## Münchner Merkur
+#lat: 48.1442919
+#long: 11.5683318
+
+## muCCC, Schleißheimer Str.
+#lat: 48.153701
+#long: 11.560801
+
+
+members:
+
+- name: Matt Fullerton
+  username-github: mattfullerton
+  username-twitter: mattfullerton
+
+- name: Birgit Fullerton
+  username-github: birgitfullerton
+  username-twitter: bbfullerton
+
+- name: Andreas Hubel
+  username-github: saerdnaer
+  username-twitter: saerdnaer
+
+- name: Mario Haim
+  username-github: MarHai
+  username-twitter: DrFollowMario
+
+- name: Tobias Hößl
+  username-twitter: tobiasHoessl
+  username-github: catoth
+
+- name: Maximillian Richt
+  username-twitter: robbi5
+  username-github: robbi5
+
+- name: Rob Ruidisch
+
+- name: Konstantin Schütze
+  username-twitter: konstinx
+  username-github: konstin
+
+- name: Manuel Hartmann
+  username-twitter: bAck_mumu
+  username-github: bAckmumu
+
+
+
+links:
+- name: Termine und Mitglieder - Meetup
+  url: http://www.meetup.com/code-for-muenchen/
+
+- name: Latest News auf Twitter
+  url: https://twitter.com/codeformuenchen
+
+- name: Notizen auf Orga-Pad
+  url: http://pad.okfn.de/p/oklab-muc
+
+- name: Unsere Mailinglist
+  url: https://lists.okfn.org/mailman/listinfo/codeformunich
+
+
+feeds:
+- type: ical
+  url: https://www.meetup.com/code-for-muenchen/events/ical/
+
+
+leads:
+- name: Konstantin Schütze
+  url: mailto:konstin@mailbox.org
+
+- name: Matt Fullerton
+  url: mailto:matt.fullerton@gmail.com
+---

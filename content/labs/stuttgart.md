@@ -1,0 +1,63 @@
+---
+city: Stuttgart
+title: OK Lab Stuttgart
+lab: OK Lab Stuttgart
+lat: 48.776540
+long: 9.173700
+markerposition: right
+
+members:
+- name: Jan Lutz
+  username-twitter: Jan_sagt
+  username-github: fuergestalten
+
+- name: Rajko Zschiegner
+  username-twitter: ricki_z
+  username-github: ricki-z
+
+- name: David Lackovic
+
+- name: Ewald Thoma
+
+- name: Frank Riedel
+  username-twitter: riedelwerk
+  username-github: riedelwerk
+
+- name: Martin Weis
+  username-github: Marwe
+
+- name: Andreas Madsack
+  username-twitter: mfandreas
+  username-github: mfa
+
+- name: rashfael
+  username-github: rashfael
+
+- name: Fritz Mielert
+  username-twitter: mielert
+  username-github: mielert
+
+- name: Christian Kuhn
+  username-twitter: ChrizKu
+  username-github: ChrizKu
+
+links:
+- name: Meetup
+  url: http://www.meetup.com/OK-Lab-Stuttgart-Meet-Up/
+- name: Twitter
+  url: https://twitter.com/codeforS
+- name: Wiki / Protokolle
+  url: https://github.com/opendata-stuttgart/meta/wiki
+- name: Etherpad
+  url: http://pad.okfn.org/p/OK-Lab-Stuttgart
+
+leads:
+- name: Jan Lutz
+  url: mailto:jan.lutz@buero-fuer-gestalten.de
+  username-twitter: fuergestalten
+  username-github: fuergestalten
+- name: Rajko Zschiegner
+  url: mailto:rajko@codefor.de
+  username-twitter: ricki_z
+  username-github: ricki-z
+---

@@ -1,0 +1,35 @@
+---
+city: Karlsruhe
+title: OK Lab Karlsruhe
+lab: OK Lab Karlsruhe
+lat: 49.013397
+long: 8.404370
+markerposition: left
+#h4c: true
+
+#special: true #this lab gets spcecial marker (digital refugee lab)
+
+links:
+
+- name: Twitter
+  url: https://twitter.com/codeforka
+
+- name: GitHub
+  url: https://github.com/CodeforKarlsruhe
+
+- name: Meetup
+  url: http://www.meetup.com/OK-Lab-Karlsruhe/
+
+- name: Mailingliste
+  url: https://mlists.okfn.de/cgi-bin/mailman/listinfo/codeforkarlsruhe
+
+- name: Protokolle
+  url: https://pad.okfn.de/p/codeforka
+
+leads:
+
+- name: Andreas
+  url: mailto:andreas.kugel@codefor.de
+- name: Kai
+  url: mailto:post@kai.gs
+---

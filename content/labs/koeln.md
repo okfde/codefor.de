@@ -1,0 +1,83 @@
+---
+city: Köln
+title: OK Lab Köln
+lab: OK Lab Köln
+lat: 50.9554784
+long: 6.9104529
+markerposition: left
+projectsorder: reverse
+
+members:
+
+- name: Marian Steinbach
+  username-github: marians
+  username-twitter: MarianSteinbach
+
+- name: Marcel Belledin
+  username-github: marcel12bell
+  username-twitter: MarcelBelledin
+
+- name: Patricia Ennenbach
+  username-github: P3nny
+  username-twitter: pen1710
+
+- name: Ingrid Bluoss
+  username-github: datenvisualisierung
+
+- name: Matthias
+  username-github: Matthias Krauss
+
+- name: Tim Becker
+  username-github: a2800276
+
+- name: Thomas Liebig
+  username-github: thomasliebig
+
+- name: Rene Drexler
+  username-github: nifix777
+
+- name: Alex Brand
+  username-github: alinx
+
+- name: Wolfram Eberius
+  username-github: weberius
+  username-twitter: eberius
+
+- name: Horst Meyer
+  username-github: horald
+
+- name: Patrick Maué
+  username-github: pajoma
+
+- name: Karen Schwane
+  username-github: karen-sch
+  username-twitter: hi_i_am_karen
+
+- name: Peter Mayr
+  username-github: hatorikibble
+  username-twitter: hatorikibble
+
+- name: Christoph Finke
+  username-github: chfinke
+  username-twitter: chfinke
+
+links:
+- name: Meetup
+  url: http://meetup.com/OKLab-Koln-Meetup
+
+- name: Twitter
+  url: http://twitter.com/codeforcologne
+
+- name: FAQ
+  url: https://github.com/codeforcologne/FAQ/wiki#oklab-k%C3%B6ln---faq
+
+leads:
+- name: Marcel Belledin
+  url: mailto:info@codingcologne.de
+
+- name: Patricia Ennenbach
+  url: mailto:ennenbach@worthandlung.de
+
+- name: Wolfram Eberius
+  url: mailto:eberius@gmail.com
+---

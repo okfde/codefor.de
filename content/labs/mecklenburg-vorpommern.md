@@ -1,0 +1,21 @@
+---
+city: Mecklenburg-Vorpommern
+title: OK Lab Mecklenburg-Vorpommern
+lab: OK Lab Mecklenburg-Vorpommern
+lat: 53.6007
+long: 11.4433
+markerposition: right
+
+members:
+- name: Michael Milz
+  username-github: michamilz
+  username-twitter: micha_milz
+
+links:
+- name: Mailingliste
+  url: https://listi.jpberlin.de/mailman/listinfo/codeformv
+
+
+leads:
+- name: Michael Milz
+---

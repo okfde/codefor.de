@@ -1,0 +1,60 @@
+---
+city: Hannover
+title: OK Lab Hannover
+lab: OK Lab Hannover
+lat: 52.366667
+long: 9.716667
+markerposition: left
+
+members:
+
+#- name: Sven Pfennig
+#  username-github: 0xE282B0
+#  username-twitter: NicolajKirchhof
+
+- name: Holger Biermann
+  username-github: qompa
+  username-twitter: qompacom
+
+- name: Jan Sauer
+  username-github: jansauer
+  username-twitter: jansauer
+
+- name: Nikolaus Pohle
+  username-github: npohle
+  username-twitter: npohle
+
+- name: Nicolaj Kirchhof
+  username-github: nicolajkirchhof
+  username-twitter: nicolajkirchhof
+
+- name: Björn Vofrei
+  username-github: typedance
+  username-twitter: typedance
+
+- name: Anna Kasprzik
+  username-github: annakasprzik
+
+- name: Christoph Banke
+  username-github: christophbanke
+  username-twitter: christophbanke
+
+links:
+- name: Slack
+  url: https://openknowledgegermany.slack.com/messages/hannover/
+
+- name: Twitter
+  url: https://twitter.com/codeforhannover
+
+- name: Meetup
+  url: http://www.meetup.com/de-DE/OK-Lab-Hannovera/
+
+- name: Trello
+  url: https://trello.com/b/1tiyd40T/feinstaub
+
+leads:
+
+- name: Nicolaj Kirchhof
+  url: mailto:hannover@gmail.com
+
+---
