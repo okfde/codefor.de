@@ -1,4 +1,4 @@
-baseURL: https://codefor.de
+baseURL: https://dev.codefor.de
 languageCode: en-us
 title: Code for Germany
 theme: hugo-cfg
@@ -41,8 +41,6 @@ params:
     #- gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Adventskalender 2019
-    url: /advent19
   - title: Über uns
     url: /ueber/
   - title: Projekte
