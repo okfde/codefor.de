@@ -73,3 +73,9 @@ ul li.preview, .preview {
     color: $cfg-cyan-3;
   }
 }
+
+.labs-list .lab-tag {
+  margin: 0.25em;
+  background-color: $cfg-cyan-2;
+  color: black;
+}
