@@ -1,5 +1,5 @@
 ---
-city: Osnabrueck
+city: Osnabrück
 title: OK Lab Osnabrueck
 lab: OK Lab Osnabrueck
 lat: 52.2668370
