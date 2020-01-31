@@ -46,7 +46,7 @@ params:
   - title: Projekte
     url: /projekte/
   - title: Themen
-    sublinks:
+    <sublinks:>
     - title: als Entwickler*in / Designer*in
       url: /mitmachen/entwickeln/
     - title: als Vernetzer*in / Aktivist*in
