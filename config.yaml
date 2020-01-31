@@ -63,8 +63,7 @@ params:
     url: /labs/
   - title: Blog
     url: /blog/
-    button: true
-  section1:
+   section1:
     title: 28 Labs | 300 Ehrenamtliche | 5 Jahre
     subtitle:
     tiles:
