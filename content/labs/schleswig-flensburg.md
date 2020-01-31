@@ -1,7 +1,6 @@
 ---
 city: Schleswig-Flensburg
 title: OK Lab Kreis Schleswig-Flensburg
-lab: OK Lab Kreis Schleswig-Flensburg
 
 lat: 54.66414
 long: 9.40062
@@ -10,8 +9,8 @@ markerposition: right
 members:
 
 - name: Frank Radzio
-  username-github: DasNordlicht
-  username-twitter: dasnordlicht
+  username_github: DasNordlicht
+  username_twitter: dasnordlicht
   email: frank.radzio@nucleon-ev.eu
 
 - name: Jens Vorwerg
@@ -19,8 +18,8 @@ members:
   email: jens.vorwerg@nucleon-ev.eu
 
 - name: Marcel Radzio
-  username-github: mtrnord
-  username-twitter: mtrnord
+  username_github: mtrnord
+  username_twitter: mtrnord
 
 - name: Heinrich Rode
   email: heinrich.rode@nucleon-ev.eu

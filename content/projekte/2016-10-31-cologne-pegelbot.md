@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Köln #needed for Aggregation on Lab-Page
+lab: [koeln] #needed for Aggregation on Lab-Page
 imgname: koeln/pegelbot.png
 title: Pegelbot
 status: abgeschlossen

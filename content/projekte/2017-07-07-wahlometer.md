@@ -1,8 +1,8 @@
 ---
 layout: project
 lab: # needed for Aggregation on Lab-Page
-  - OK Lab Ruhrgebiet
-  - OK Lab Köln 
+  - ruhrgebiet
+  - koeln
 title: Wahl-O-Meter
 status: Laufend
 type: WS # Tag for Wahlsalons
@@ -17,4 +17,4 @@ links:
 
 ---
 
-Im Rahmen der Wahlsalons soll im Datenschatz der Wahl-O-Maten der Bundeszentrale für politische Bildung geschürft werden: Die Daten werden aufbereitet und zueinander in Beziehung gesetzt, ein offenes JSON-Datenformat zur Definition von politischen Positionen abgeleitet und veröffentlicht. 
+Im Rahmen der Wahlsalons soll im Datenschatz der Wahl-O-Maten der Bundeszentrale für politische Bildung geschürft werden: Die Daten werden aufbereitet und zueinander in Beziehung gesetzt, ein offenes JSON-Datenformat zur Definition von politischen Positionen abgeleitet und veröffentlicht.

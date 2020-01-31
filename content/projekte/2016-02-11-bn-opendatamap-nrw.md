@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Bonn #needed for Aggregation on Lab-Page
+lab: [bonn] #needed for Aggregation on Lab-Page
 imgname: bonn/opendataportalnrw.jpg
 title: Karte der Open Data – Angebote in NRW
 status: Finished
@@ -9,7 +9,7 @@ links:
 
 - url: http://data.paderta.com/OpenData-NRW-Map/
   name: Homepage / Karte
-  
+
 - url: https://github.com/daimpad/OpenData_Map_NRW
   name: GitHub Repository
 

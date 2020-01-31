@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Gießen #needed for Aggregation on Lab-Page
+lab: [giessen] #needed for Aggregation on Lab-Page
 imgname: giessen/refugeesGiessen.png
 title: Refugees Gießen
 status: Laufend, Datensammlung, Entwicklung, In Test

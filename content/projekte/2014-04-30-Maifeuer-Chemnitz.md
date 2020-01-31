@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Chemnitz #needed for Aggregation on Lab-Page
+lab: [chemnitz] #needed for Aggregation on Lab-Page
 imgname: chemnitz/maifeuer2014.png
 title: Maifeuer 2014 in Chemnitz
 status: Finished

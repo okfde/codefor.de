@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Münster #needed for Aggregation on Lab-Page
+lab: [muenster] #needed for Aggregation on Lab-Page
 imgname: muenster/wahlkarte.png
 title: Ergebnisse der Kommunalwahl 2014
 

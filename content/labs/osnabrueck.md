@@ -9,24 +9,24 @@ showsignup: false
 
 members:
 - name: Auss Abbood
-  username-github: https://github.com/aauss
-  # username-twitter:
+  username_github: https://github.com/aauss
+  # username_twitter:
 
 - name: John Berrora
-  username-github: https://github.com/johnberroa
-  # username-twitter:
+  username_github: https://github.com/johnberroa
+  # username_twitter:
 
 - name: Rüdiger Frederik Busche
-  username-github: https://github.com/JarnoRFB
-  # username-twitter:
+  username_github: https://github.com/JarnoRFB
+  # username_twitter:
 
 - name: Anton Laukemper
-  username-github: https://github.com/Zaitur
-  # username-twitter:
+  username_github: https://github.com/Zaitur
+  # username_twitter:
 
 - name: Jannik Steinmann
-  username-github: https://github.com/DerGut
-  # username-twitter:
+  username_github: https://github.com/DerGut
+  # username_twitter:
 
 
 links:

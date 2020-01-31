@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Leipzig #needed for Aggregation on Lab-Page
+lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/amikeco.jpg
 title: Amikeco #Projekttitel
 status: Entwicklungsstand 2016

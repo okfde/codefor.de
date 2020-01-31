@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Bonn #needed for Aggregation on Lab-Page
+lab: [bonn] #needed for Aggregation on Lab-Page
 imgname: bonn/air-quality-early-prototype.jpg
 title: Air Quality Box – Feinstaub und mehr messen
 status: In Progress

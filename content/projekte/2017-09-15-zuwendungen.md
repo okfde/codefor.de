@@ -1,5 +1,6 @@
 ---
 layout: project
+lab: [bremen]
 imgname: bremen/zuwendungen.png
 title: Zuwendungsdatenbank
 status: Abgeschlossen

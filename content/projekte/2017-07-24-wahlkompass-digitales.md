@@ -1,8 +1,8 @@
 ---
 layout: project
-lab: OK Lab Berlin #needed for Aggregation on Lab-Page
+lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/Wahlkompass.png
-title: Wahlkompass Digitales 
+title: Wahlkompass Digitales
 status: Laufend
 type: WS
 draft: false #set to 'true'

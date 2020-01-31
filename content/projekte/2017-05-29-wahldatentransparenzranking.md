@@ -1,14 +1,14 @@
 ---
 layout: project
-lab: OK Lab Berlin #needed for Aggregation on Lab-Page
+lab: [berlin] #needed for Aggregation on Lab-Page
 title: Wahldatentransparenzranking
 status: Laufend
 type: WS
 draft: false #set to 'true'
 
 links:
-- url: 
-  name: 
+- url:
+  name:
 
 collaborators:
 - name: Ulrike (dataista@gmail.com), Boris

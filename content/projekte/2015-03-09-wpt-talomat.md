@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Wuppertal #needed for Aggregation on Lab-Page
+lab: [wuppertal] #needed for Aggregation on Lab-Page
 imgname: wuppertal/Talomat.PNG
 title: Talomat
 showcase: 1

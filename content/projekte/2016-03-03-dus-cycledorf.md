@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Düsseldorf
+lab: [duesseldorf]
 imgname: duesseldorf/cycledorf.png
 title: CycleDorf
 status: In Progress

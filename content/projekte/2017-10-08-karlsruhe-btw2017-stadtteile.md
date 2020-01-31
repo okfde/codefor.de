@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Karlsruhe #needed for Aggregation on Lab-Page
+lab: [karlsruhe] #needed for Aggregation on Lab-Page
 imgname: karlsruhe/btw2017-stadtteile.png
 title: Die Bundestagswahl 2017 in den Karlsruher Stadtteilen
 status: abgeschlossen
@@ -19,4 +19,3 @@ collaborators:
 ---
 
 Jeder Karlsruher Stadtteil ist anders — wie hat sich das auf die Wahl ausgewirkt? Wir haben uns das an Hand verschiedener Statistiken genauer angeschaut.
-

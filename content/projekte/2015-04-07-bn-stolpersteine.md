@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Bonn-Rhein-Sieg #needed for Aggregation on Lab-Page
+lab: [bonn] #needed for Aggregation on Lab-Page
 imgname: bonn/stolpersteine-web.jpg
 title: Visualisierung der Bonner Stolpersteine
 showcase: 0

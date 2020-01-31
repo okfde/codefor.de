@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Heilbronn #needed for Aggregation on Lab-Page
+lab: [heilbronn] #needed for Aggregation on Lab-Page
 imgname: heilbronn/geojson-utilities.png
 title: Geojson Utilities
 status: Finished

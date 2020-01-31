@@ -1,8 +1,8 @@
 ---
 layout: project
 lab:
-  - OK Lab Berlin
-  - OK Lab Niederrhein
+  - berlin
+  - niederrhein
 imgname: berlin/wartezeit.png
 title: Wartezeit Moers
 status: Finished

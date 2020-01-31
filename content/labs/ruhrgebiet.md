@@ -1,7 +1,6 @@
 ---
 city: Ruhrgebiet
 title: OK Lab Ruhrgebiet
-lab: OK Lab Ruhrgebiet
 lat: 51.438531
 long: 7.024764
 markerposition: right
@@ -30,33 +29,33 @@ leads:
 
 members:
 - name: Ernesto Ruge
-  username-github: the-infinity
-  username-twitter: the_infinity
+  username_github: the-infinity
+  username_twitter: the_infinity
 - name: Martin Schurig
-  username-github: schurig
-  username-twitter: martinschurig
+  username_github: schurig
+  username_twitter: martinschurig
 - name: Benedict Zinke
-  username-github: bezin
-  username-twitter: b3zet
+  username_github: bezin
+  username_twitter: b3zet
 - name: Sakander Zirai
-  username-github: suioni
-  username-twitter: suioni
+  username_github: suioni
+  username_twitter: suioni
 - name: Simon Wörpel
-  username-github: simonwoerpel
-  username-twitter: simonwoerpel
+  username_github: simonwoerpel
+  username_twitter: simonwoerpel
 - name: Thomas Müller
-  username-github: mullerovsky
+  username_github: mullerovsky
 - name: Eugen Koslowski
-  username-github: dckoma
-  username-twitter: dckoma
+  username_github: dckoma
+  username_twitter: dckoma
 - name: Ulrich Greveler
-  username-github: greveler
-  username-twitter: greveler
+  username_github: greveler
+  username_twitter: greveler
 - name: Dennis Stacks
 - name: Tim Guenther
-  username-github: TimGuenther
-  username-twitter: t3gsec
+  username_github: TimGuenther
+  username_twitter: t3gsec
 - name: Benedikt Rauch
-  username-github: benediktrauch
-  username-twitter: pingubene
+  username_github: benediktrauch
+  username_twitter: pingubene
 ---

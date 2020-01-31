@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Leipzig #needed for Aggregation on Lab-Page
+lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/kidsle.jpg
 title: Kitas und Schulen Verzeichnis Leipzig
 showcase: 1

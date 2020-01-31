@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Karlsruhe #needed for Aggregation on Lab-Page
+lab: [karlsruhe] #needed for Aggregation on Lab-Page
 imgname: karlsruhe/wo-ist-markt.png
 title: Wo ist Markt?
 status: Finished

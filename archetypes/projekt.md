@@ -1,9 +1,9 @@
 ---
 layout: project #do not change
-lab: OK Lab Berlin #change into your city/lab
+lab: [berlin] #change into your city/lab
 imgname: #add file to assets/projects/your city
 title: Titel #project title
-status: Laufend 
+status: Laufend
 type: DRL
 draft: true #set to 'false'
 
@@ -16,4 +16,3 @@ links:
 
 ---
 <!--short project description here-->
-

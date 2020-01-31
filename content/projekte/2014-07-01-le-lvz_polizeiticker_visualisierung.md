@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Leipzig #needed for Aggregation on Lab-Page
+lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/polizeiticker.jpg
 title: Visualisierung der Polizeiticker Meldungen der Leipziger Volkszeitung
 showcase: 1

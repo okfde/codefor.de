@@ -1,13 +1,13 @@
 ---
 layout: project
-lab: "OK Lab München"
+lab: [muenchen]
 status: "In Progress"
 title: "Radlquartier München"
 imgname: muenchen/radlquartier.png
 
 collaborators:
 - name: "Manuel Hartmann"
-  links: 
+  links:
   - url: "https://twitter.com/bAck_mumu"
     name: Twitter
   - url: "https://github.com/bAckmumu"
@@ -19,7 +19,7 @@ collaborators:
     - url: "https://francisstieglitz.de/"
       name: Homepage
 
-links: 
+links:
 - name: "mvg.manuel.red (Webseite)"
   url: "http://mvg.manuel.red"
 - name: "Github (JavaScript-Projekt)"
@@ -32,4 +32,3 @@ links:
 Aufbereitung und Auswertung von Bikesharing Daten. Im Moment können MVG Rad Daten ausgewertet werden, das Ziel des Projekts ist es ein einheitliches Datenformat für die Aufbereitung von Bikesharing-Daten zu schaffen. Damit wird die Auswertung vereinfacht und unterschiedliche Bikesharing Dienste können miteinander verglichen werden.
 
 mvg.manuel.red zeigt die ersten Ergebnisse.
-

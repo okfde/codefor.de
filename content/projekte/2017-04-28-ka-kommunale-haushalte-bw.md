@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Karlsruhe #needed for Aggregation on Lab-Page
+lab: [karlsruhe] #needed for Aggregation on Lab-Page
 title: Kommunale Haushalte Baden-Württemberg
 
 links:
@@ -12,4 +12,3 @@ collaborators:
 
 ---
 Maschinenlesbare Varianten des kommunalen Produktplans Baden-Württemberg und der Verwaltungsvorschrift Produkt- und Kontenrahmen
-

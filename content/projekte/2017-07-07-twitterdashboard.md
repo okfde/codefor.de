@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Bonn #needed for Aggregation on Lab-Page
+lab: [bonn] #needed for Aggregation on Lab-Page
 imgname: bonn/twitterDash.png
 title: Twitter Dashboard
 status: Laufend
@@ -17,7 +17,7 @@ links:
 collaborators:
 - name: Damian
 - name: Wido
-- name: 
+- name:
 
 ---
 

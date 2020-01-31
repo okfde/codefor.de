@@ -1,27 +1,26 @@
 ---
 city: Paderborn
 title: CodeforPB
-lab: OK Lab Paderborn #needed for event and project aggregation
 markerposition: right
 
 members:
 
 - name: Arndt Heuvel
-  username-github: arndot
+  username_github: arndot
 
 - name: Arjun
-  username-github: Mellkor
+  username_github: Mellkor
 
 - name: Henrik Hüttemann
-  username-github: HerHde
-  username-twitter: herhde
+  username_github: HerHde
+  username_twitter: herhde
 
 - name: Jan Lippert
-  username-github: ironjan
-  username-twitter: lippertsjan
+  username_github: ironjan
+  username_twitter: lippertsjan
 
 - name: Michael
-  username-github: MichaelWhi
+  username_github: MichaelWhi
 
 
 links:

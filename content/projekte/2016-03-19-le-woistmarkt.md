@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Leipzig #needed for Aggregation on Lab-Page
+lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/woistmarkt.jpg
 title: Wo ist Markt?
 status: Daten von 2016

@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Münster #needed for Aggregation on Lab-Page
+lab: [muenster] #needed for Aggregation on Lab-Page
 imgname: muenster/haushalt.png
 title: Offener Haushalt Münster 2009-2013
 showcase: 1

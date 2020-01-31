@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Köln #needed for Aggregation on Lab-Page
+lab: [koeln] #needed for Aggregation on Lab-Page
 imgname: koeln/verkehr.png
 title: Verkehrsmeldungen Köln
 status: Laufend, Konzeptionierung, Datensammlung, Sucht Mitmacher
