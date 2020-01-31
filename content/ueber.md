@@ -15,6 +15,7 @@ Wir entwickeln dafür selbstständig Open Source Software, welche Verwaltung und
 #### #3 So treiben wir den offenen und nachhaltigen digitalen Wandel aus der Gesellschaft voran - für eine Welt in der die Möglichkeiten der Digitalisierung allen Menschen zu gute kommt.   
 
 Nachhaltiger Digitaler Wandel bedeutet für uns…
+
 * Open Government mit folgenden Leitlinien implementieren 
 * Open Data: Verwaltungsdaten maschinenlesbar und standardisiert veröffentlichen
 * Partizipation: Offener Dialog und nachhaltige Einbindung der Zivilgesellschaft 
