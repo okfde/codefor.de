@@ -45,7 +45,7 @@ params:
     url: /ueber/
   - title: Projekte
     url: /projekte/
-  - title: Unterstützen
+  - title: Themen
     sublinks:
     - title: als Entwickler*in / Designer*in
       url: /mitmachen/entwickeln/
