@@ -46,25 +46,13 @@ params:
   - title: Projekte
     url: /projekte/
   - title: Themen
-    # sublinks:
-    #die brauchen wir zur Zeit nicht - erstmal weglassen ich würde das lieber unter "Die Labs" aufzählen!
-    #- title: als Entwickler*in / Designer*in
-    #  url: /mitmachen/entwickeln/
-    #- title: als Vernetzer*in / Aktivist*in
-    #  url: /mitmachen/vernetzen/
-    #- title: aus Politik / Verwaltung
-    #  url: /mitmachen/politik/
-    #- title: als Journalist*in / Blogger*in
-    #  url: /mitmachen/schreiben/
-    #- title: als Unterstützer*in / Sponsor*in
-    #  url: /mitmachen/unterstuetzen/
-    #- title: als Bürger*in
-    # url: /mitmachen/gesellschaft/
+    url: /themen/
   - title: Die Labs
     url: /labs/
   - title: Blog
     url: /blog/
-   section1:
+    button: true
+  section1:
     title: 28 Labs | 300 Ehrenamtliche | 5 Jahre
     subtitle:
     tiles:
