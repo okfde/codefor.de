@@ -8,8 +8,8 @@ markerposition: right
 
 members:
 - name: Michael Milz
-  username-github: michamilz
-  username-twitter: micha_milz
+  username_github: michamilz
+  username_twitter: micha_milz
 
 links:
 - name: Mailingliste

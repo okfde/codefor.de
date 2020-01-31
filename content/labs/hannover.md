@@ -9,35 +9,35 @@ markerposition: left
 members:
 
 #- name: Sven Pfennig
-#  username-github: 0xE282B0
-#  username-twitter: NicolajKirchhof
+#  username_github: 0xE282B0
+#  username_twitter: NicolajKirchhof
 
 - name: Holger Biermann
-  username-github: qompa
-  username-twitter: qompacom
+  username_github: qompa
+  username_twitter: qompacom
 
 - name: Jan Sauer
-  username-github: jansauer
-  username-twitter: jansauer
+  username_github: jansauer
+  username_twitter: jansauer
 
 - name: Nikolaus Pohle
-  username-github: npohle
-  username-twitter: npohle
+  username_github: npohle
+  username_twitter: npohle
 
 - name: Nicolaj Kirchhof
-  username-github: nicolajkirchhof
-  username-twitter: nicolajkirchhof
+  username_github: nicolajkirchhof
+  username_twitter: nicolajkirchhof
 
 - name: Björn Vofrei
-  username-github: typedance
-  username-twitter: typedance
+  username_github: typedance
+  username_twitter: typedance
 
 - name: Anna Kasprzik
-  username-github: annakasprzik
+  username_github: annakasprzik
 
 - name: Christoph Banke
-  username-github: christophbanke
-  username-twitter: christophbanke
+  username_github: christophbanke
+  username_twitter: christophbanke
 
 links:
 - name: Slack

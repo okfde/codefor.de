@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab München #needed for event and project aggregation
+lab: [muenchen] #needed for event and project aggregation
 imgname: muenchen/finderapp-prototyp.png
 title: Web-App zum Finden von bestimmten Orten (u.a. Defibrilatoren) in der Umgebung
 status: Sucht Mitmacher
@@ -41,9 +41,3 @@ collaborators:
 Ziel des Projekts ist eine Web-App, die aus Open-Street-Map-Daten Orte einer bestimmten Kategorie, z.B. öffentliche Toiletten, Spielplätze oder Defibrilatoren in der Umgebung findet und dazu Routeninformationen bietet. Dabei soll es am Ende eine generische App, die für verschiedene Ziele konfiguriert werden kann, sowie als konkrete Anwendung eine Defibrilator-Finde-App geben.
 
 Der <a href="http://codeformunich.github.io/FinderApp/">aktuelle Prototyp</a> funktioniert für einfache Anfragen bereits (<a href="https://github.com/codeformunich/FinderApp#customisation">Anleitung für neue App</a>), für Defibrilatoren muss <a href="https://github.com/codeformunich/FinderApp/issues/57">Issue 57</a> noch umgesetzt werden.
-
-
-
-
-
-

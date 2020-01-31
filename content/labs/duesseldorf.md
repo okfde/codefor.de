@@ -1,7 +1,6 @@
 ---
 city: Düsseldorf
 title: OK Lab Düsseldorf
-lab: OK Lab Düsseldorf
 lat: 51.209478
 long: 6.7784333
 markerposition: left
@@ -35,46 +34,46 @@ leads:
 
 members:
 - name: Agnes Mainka
-  username-twitter: agnieszka_m
+  username_twitter: agnieszka_m
 - name: Alice Wiegand
-  username-twitter: lyzzy
+  username_twitter: lyzzy
 - name: Antje Feil
-  username-twitter: antjefeil
+  username_twitter: antjefeil
 - name: Arne Lieb
-  username-twitter: arnelieb
+  username_twitter: arnelieb
 - name: Catrin Boss
 - name: Christina Rentmeister
-  username-twitter: chrire
+  username_twitter: chrire
 - name: Dirk Nagels
-  username-twitter: OpenDirk
+  username_twitter: OpenDirk
 - name: Dr. Christian Knebel
-  username-github: cknebel
-  username-twitter: cknebel79
+  username_github: cknebel
+  username_twitter: cknebel79
 - name: Khalid Karroumi
 - name: Lara Knebel
-  username-twitter: lknebel19
+  username_twitter: lknebel19
 - name: Marcus Weiner
-  username-github: mraerino
-  username-twitter: mraerino
+  username_github: mraerino
+  username_twitter: mraerino
 - name: Max Schorradt
-  username-github: mechtecs
-  username-twitter: mechtecify
+  username_github: mechtecs
+  username_twitter: mechtecify
 - name: Oliver Vaupel
-  username-twitter: ovau
+  username_twitter: ovau
 - name: Patrick Schiffer
-  username-github: patrickschiffer
-  username-twitter: pschiffer
+  username_github: patrickschiffer
+  username_twitter: pschiffer
 - name: Phil Ninh
-  username-github: PhilNinh
-  username-twitter: philninh
+  username_github: PhilNinh
+  username_twitter: philninh
 - name: Sabine Manz
-  username-twitter: SabineManz
+  username_twitter: SabineManz
 - name: Stefan Müller
-  username-github: stefdus
-  username-twitter: stefdus
+  username_github: stefdus
+  username_twitter: stefdus
 - name: Steffen Pramel
 - name: Tobias Hübner
-  username-twitter: medienistik
+  username_twitter: medienistik
 - name: Tobias Siebenlist
-  username-twitter: t7l
+  username_twitter: t7l
 ---

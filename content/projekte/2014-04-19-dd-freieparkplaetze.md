@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Dresden #needed for Aggregation on Lab-Page
+lab: [dresden] #needed for Aggregation on Lab-Page
 imgname: dresden/parkhaeuser-web.png
 title: Freie Parkplätze Dresden
 showcase: 1

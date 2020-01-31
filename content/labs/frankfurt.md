@@ -1,7 +1,6 @@
 ---
 city: Frankfurt
 title: OK Lab Frankfurt
-lab: OK Lab Frankfurt
 lat: 50.1167
 long: 8.6833
 markerposition: right
@@ -9,12 +8,12 @@ markerposition: right
 members:
 
 - name: Mischa Zöller
-  username-github: zoeller
-  username-twitter: zoellerm
+  username_github: zoeller
+  username_twitter: zoellerm
 
 - name: Bogomir Engel
-  username-github: aCandidMind
-  username-twitter: aCandidMind
+  username_github: aCandidMind
+  username_twitter: aCandidMind
 
 links:
 

@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Magdeburg #needed for Aggregation on Lab-Page
+lab: [magdeburg] #needed for Aggregation on Lab-Page
 imgname: magdeburg/rechtegewalt.jpg
 title: Rechte Gewalt in Deutschland
 status: Finished

@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Berlin #needed for Aggregation on Lab-Page
+lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/buergerbautstadt.png
 title: Buerger Baut Stadt
 showcase: 1

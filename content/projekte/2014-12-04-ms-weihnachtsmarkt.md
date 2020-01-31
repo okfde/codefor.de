@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Münster #needed for Aggregation on Lab-Page
+lab: [muenster] #needed for Aggregation on Lab-Page
 imgname: muenster/weihnachtsmarkt.png
 title: Weihnachtsmarkt-App Münster 2014
 showcase: 1

@@ -1,8 +1,8 @@
 ---
 layout: project
 lab:
-  - OK Lab Ruhrgebiet
-  - OK Lab Niederrhein
+  - ruhrgebiet
+  - niederrhein
 imgname: ruhrgebiet/schulen-in-nrw.jpg
 title: Schulen in NRW
 status: In Progress

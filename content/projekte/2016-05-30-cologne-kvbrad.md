@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Köln #needed for Aggregation on Lab-Page
+lab: [koeln] #needed for Aggregation on Lab-Page
 imgname: koeln/kvbrad.jpeg
 title: KVB Fahrräder in Köln
 status: Laufend

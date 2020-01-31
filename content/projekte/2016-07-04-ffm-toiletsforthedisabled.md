@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Frankfurt #needed for Aggregation on Lab-Page
+lab: [frankfurt] #needed for Aggregation on Lab-Page
 imgname: frankfurt/toilets_for_the_disabled.png
 title: Toilets for the Disabled
 status: Laufend

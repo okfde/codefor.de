@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Stuttgart #needed for Aggregation on Lab-Page
+lab: [stuttgart] #needed for Aggregation on Lab-Page
 imgname: stuttgart/dust-sensor.jpg
 title: Feinstaubsensoren
 

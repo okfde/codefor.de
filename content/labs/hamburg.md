@@ -1,7 +1,6 @@
 ---
 city: Hamburg
 title: OK Lab Hamburg
-lab: OK Lab Hamburg
 lat: 53.5476165
 long: 9.9800385
 
@@ -12,52 +11,52 @@ markerposition: right
 members:
 
 - name: Timo lundelius
-  username-github: lundelius
-  username-twitter: timo_lundelius
+  username_github: lundelius
+  username_twitter: timo_lundelius
 
 - name: Philipp Geisler
-  username-github: philippgeisler
-  username-twitter: zelpst
+  username_github: philippgeisler
+  username_twitter: zelpst
 
 - name: Solveig Schröder
-  username-github: solveigs
-  username-twitter: SolveigSchroder
+  username_github: solveigs
+  username_twitter: SolveigSchroder
 
 - name: Hannes
-  username-github: kannes
-  username-twitter: cartocalypse
+  username_github: kannes
+  username_twitter: cartocalypse
 
 - name: Achim Tack
-  username-github: ATack
-  username-twitter: A_Tack
+  username_github: ATack
+  username_twitter: A_Tack
 
 - name: Marco Maas
-  username-github: marcomaas
-  username-twitter: themaastrix
+  username_github: marcomaas
+  username_twitter: themaastrix
 
 - name: Timo Kessler
-  username-github: tike
-  username-twitter: tike10
+  username_github: tike
+  username_twitter: tike10
 
 - name: Patrick Stotz
-  username-github: PatrickStotz
-  username-twitter: PatrickStotz
+  username_github: PatrickStotz
+  username_twitter: PatrickStotz
 
 - name: Lukasz Plotnicki
-  username-github: lplotni
-  username-twitter: lplotni
+  username_github: lplotni
+  username_twitter: lplotni
 
 - name: Aurelius Wendelken
-  username-github: webtobesocial
-  username-twitter: webtobesocial
+  username_github: webtobesocial
+  username_twitter: webtobesocial
 
 - name: Andreas Wienes
-  username-github: andreas-wienes
-  username-twitter: AndreasWienes
+  username_github: andreas-wienes
+  username_twitter: AndreasWienes
 
 - name: Felix Kruse
-  username-github: felixkqb
-  username-twitter: felixkqb
+  username_github: felixkqb
+  username_twitter: felixkqb
 
 - name: Anne Kis
 

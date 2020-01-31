@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Berlin #needed for Aggregation on Lab-Page
+lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/berliner-schulen.png
 title: Berliner Schulen
 status: In Progress

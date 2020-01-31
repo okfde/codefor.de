@@ -1,7 +1,6 @@
 ---
 city: Giessen
 title: OK Lab Gießen
-lab: OK Lab Gießen
 lat: 50.587142
 long: 8.690926
 markerposition: left
@@ -10,35 +9,35 @@ showsignup: false
 
 members:
 - name: Jan Ameli
-  username-github: jpameli
+  username_github: jpameli
 
 - name: Christian Schulze
-  username-github: ChristianSch
+  username_github: ChristianSch
 
 - name: Christian Oechler
-  username-github: COechler
+  username_github: COechler
 
 - name: Tobias Schwalm
-  username-github: tobiasschwalm
+  username_github: tobiasschwalm
 
 - name: Christian Heigele
-  username-github: cheigele
+  username_github: cheigele
 
 - name: Prof. Dr. Martin Przewloka
 
 - name: Marco Schäfer
-  username-github: msfr
+  username_github: msfr
 
 - name: Katharina Dort
 
 - name: Julian Schmitt
-  username-github: juschmitt
+  username_github: juschmitt
 
 - name: Florian Kolb
-  username-github: toxic2302
+  username_github: toxic2302
 
 - name: Vincent Elliott Wagner
-  username-github: serofax
+  username_github: serofax
 
 links:
 - name: Meetup

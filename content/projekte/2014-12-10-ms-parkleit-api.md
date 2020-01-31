@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Münster #needed for Aggregation on Lab-Page
+lab: [muenster] #needed for Aggregation on Lab-Page
 imgname:
 title: Parkleitsystem API Münster
 showcase: 1

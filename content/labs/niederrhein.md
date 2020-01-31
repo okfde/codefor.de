@@ -9,31 +9,31 @@ showsignup: false
 
 members:
 - name: Timo Jeske
-  username-github: odadev
-  username-twitter: timojeske
+  username_github: odadev
+  username_twitter: timojeske
 - name: Claus Arndt
-  username-twitter: derarndt
+  username_twitter: derarndt
 - name: Elmar Burke
-  username-github: elmarburke
-  username-twitter: elmarburke
+  username_github: elmarburke
+  username_twitter: elmarburke
 - name: Alexander Schoog
-  username-github: nitrax95
-  username-twitter: ASchoog
+  username_github: nitrax95
+  username_twitter: ASchoog
 - name: Ulrich Greveler
-  username-github: greveler
-  username-twitter: greveler
+  username_github: greveler
+  username_twitter: greveler
 - name: Torsten Kannenberg
-  username-github: TorstenKa
-  username-twitter: torstenKa
+  username_github: TorstenKa
+  username_twitter: torstenKa
 - name: David Krystof
-  username-github: dakrys
-  username-twitter: Dakrys
+  username_github: dakrys
+  username_twitter: Dakrys
 - name: Manfred Schramm
-  username-github: Hhhhmmmmasch
-  username-twitter: hhhhmmmmasch
+  username_github: Hhhhmmmmasch
+  username_twitter: hhhhmmmmasch
 - name: Tobias Hahnen
-  username-github: thahnen
-  username-twitter: Hubblerone
+  username_github: thahnen
+  username_twitter: Hubblerone
 - name: Marcel Sowade
 - name: Martin Moutarde
 - name: Klaus Stalinski

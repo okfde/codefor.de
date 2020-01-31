@@ -1,7 +1,6 @@
 ---
 city: Chemnitz
 title: OK Lab Chemnitz
-lab: OK Lab Chemnitz
 lat: 50.83063
 long: 12.93973
 markerposition: right
@@ -9,16 +8,16 @@ markerposition: right
 members:
 
 - name: Morris Jobke
-  username-twitter: MorrisJbk
-  username-github: MorrisJobke
+  username_twitter: MorrisJbk
+  username_github: MorrisJobke
 - name: Tobias Gall
-  username-twitter: symptog
-  username-github: symptog
+  username_twitter: symptog
+  username_github: symptog
 - name: Ronny Hartenstein
-  username-twitter: rhflow_de
-  username-github: ronnyhartenstein
+  username_twitter: rhflow_de
+  username_github: ronnyhartenstein
 - name: Benedikt Geißler
-  username-github: benediktg5
+  username_github: benediktg5
 
 links:
 - name: Webseite

@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Jena
+lab: [jena]
 title: Save-O-Meter
 
 links:

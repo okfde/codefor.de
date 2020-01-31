@@ -1,7 +1,6 @@
 ---
 city: Leipzig
 title: OK Lab Leipzig
-lab: OK Lab Leipzig
 lat: 51.3322131
 long: 12.3735576
 markerposition: right
@@ -12,47 +11,47 @@ markerposition: right
 members:
 
 - name: Markus Zapke-Gründemann
-  username-github: keimlink
-  username-twitter: keimlink
+  username_github: keimlink
+  username_twitter: keimlink
 - name: Thomas Kandler
-  username-github: tkan
-  username-twitter: geolibre
+  username_github: tkan
+  username_twitter: geolibre
 - name: Matthias Petzold
-  username-github: videomatze
+  username_github: videomatze
 - name: Olf
-  username-github: olf42
+  username_github: olf42
 - name: Max Brauer
-  username-github: debvortex
-  username-twitter: deb_vortex
+  username_github: debvortex
+  username_twitter: deb_vortex
 - name: Pascal Müller
-  username-github: paesku
-  username-twitter: paesku
+  username_github: paesku
+  username_twitter: paesku
 - name: Hans-Gert Gräbe
-  username-github: hg-graebe
+  username_github: hg-graebe
 - name: Marcello Ceschia
-  username-github: marcelloceschia
+  username_github: marcelloceschia
 - name: Ricardo Usbeck
-  username-github: RicardoUsbeck
+  username_github: RicardoUsbeck
 - name: Lars Wesemann
-  username-github: spinner0815
-  username-twitter: spinner0815
+  username_github: spinner0815
+  username_twitter: spinner0815
 - name: Lars Mai
-  username-github: lhm
+  username_github: lhm
 - name: Andreas Haller
-  username-github: ahx
+  username_github: ahx
 - name: Martin Feige
-  username-github: kater169
-  username-twitter: kater169
+  username_github: kater169
+  username_twitter: kater169
 - name: Eric Kelm
-  username-github: eric2501
+  username_github: eric2501
 - name: Manuel Stößel
-  username-github: ManuPogo
+  username_github: ManuPogo
 - name: Robert Schmidt
-  username-github: NucsuM
+  username_github: NucsuM
 - name: Sebastian Peters
-  username-github: sepe81
+  username_github: sepe81
 - name: Jörg Reichert
-  username-github: joergreichert
+  username_github: joergreichert
 
 links:
 - name: Meetup

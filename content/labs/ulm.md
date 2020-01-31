@@ -10,35 +10,35 @@ markerposition: left
 members:
 
 - name: Benjamin Erb
-  username-github: berb
-  username-twitter: b_erb
+  username_github: berb
+  username_twitter: b_erb
 
 - name: Stefan Kaufmann
-  username-github: stkdiretto
-  username-twitter: _stk
+  username_github: stkdiretto
+  username_twitter: _stk
 
 - name: Falco Nogatz
-  username-github: fnogatz
-  username-twitter: ulmerleben
+  username_github: fnogatz
+  username_twitter: ulmerleben
 
 - name: Rens van der Heijden
-  username-github: namnatulco
-  username-twitter: namnatulco
+  username_github: namnatulco
+  username_twitter: namnatulco
 
 - name: Vincent Grünberg
-  username-github: e-drei
-  username-twitter: _e_drei
+  username_github: e-drei
+  username_twitter: _e_drei
 
 - name: Simon Fuchs
-  username-github: Taxilof
-  username-twitter: taxilof
+  username_github: Taxilof
+  username_twitter: taxilof
 
 - name: Henning Kopp
-  username-github: hkopp
+  username_github: hkopp
 
 - name: Juliane Wessalowski
-  username-github: gruenzeug
-  username-twitter: gruenzeug
+  username_github: gruenzeug
+  username_twitter: gruenzeug
 
 
 

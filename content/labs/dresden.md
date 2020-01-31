@@ -1,7 +1,6 @@
 ---
 city: Dresden
 title: Open Data Dresden
-lab: OK Lab Dresden
 lat: 51.08113
 long: 13.72858
 
@@ -9,24 +8,24 @@ members:
 
 - name: Astro
   url: http://spaceboyz.net/~astro/
-  username-github: astro
-  username-twitter: astro1138
+  username_github: astro
+  username_twitter: astro1138
 - name: Consti
-  username-github: ubahnverleih
-  username-twitter: ubahnverleih
+  username_github: ubahnverleih
+  username_twitter: ubahnverleih
 - name: Rob
   url: http://boogiedev.net
-  username-github: robtranquillo
-  username-twitter: robtranquillo
+  username_github: robtranquillo
+  username_twitter: robtranquillo
 - name: jklmnn
-  username-github: jklmnn
-  username-twitter: JK70523
+  username_github: jklmnn
+  username_twitter: JK70523
 - name: Paul
-  username-github: balzer82
-  username-twitter: balzer82
+  username_github: balzer82
+  username_twitter: balzer82
 - name: kiliankoe
-  username-github: kiliankoe
-  username-twitter: kiliankoe
+  username_github: kiliankoe
+  username_twitter: kiliankoe
 - name: und wechselnd viele weitere Menschen
 
 

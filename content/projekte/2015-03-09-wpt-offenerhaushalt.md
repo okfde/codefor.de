@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Wuppertal #needed for Aggregation on Lab-Page
+lab: [wuppertal] #needed for Aggregation on Lab-Page
 imgname: wuppertal/WPTHaushalt.PNG
 title: Offener Haushalt Wuppertal
 showcase: 1

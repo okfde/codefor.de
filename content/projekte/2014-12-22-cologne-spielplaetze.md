@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Köln #needed for Aggregation on Lab-Page
+lab: [koeln] #needed for Aggregation on Lab-Page
 imgname: koeln/spielplaetze.jpg
 title: Spielplätze in Köln
 status: Laufend, Konzeptionierung, Sucht Mitmacher

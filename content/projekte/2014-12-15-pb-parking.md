@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Paderborn #needed for Aggregation on Lab-Page
+lab: [paderborn] #needed for Aggregation on Lab-Page
 imgname: paderborn/pb-parking.png
 title: Parken in Paderborn
 status: Prototyp

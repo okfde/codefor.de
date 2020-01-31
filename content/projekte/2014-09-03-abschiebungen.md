@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Berlin
+lab: [berlin]
 imgname: berlin/abschiebungen.jpg
 title: Abschiebungen
 

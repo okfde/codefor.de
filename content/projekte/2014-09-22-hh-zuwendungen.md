@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Hamburg #needed for Aggregation on Lab-Page
+lab: [hamburg] #needed for Aggregation on Lab-Page
 imgname: hamburg/zuwendungen.jpg
 title: Die Zuwendungen der Hamburger Behörden.
 status: Festgefahren

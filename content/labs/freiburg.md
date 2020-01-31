@@ -7,8 +7,8 @@ markerposition: right
 members:
 
 - name: Andreas Pawelke
-  username-github: Idna12
-  username-twitter: pa_wela
+  username_github: Idna12
+  username_twitter: pa_wela
 
 links:
 

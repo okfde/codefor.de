@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Paderborn #needed for event and project aggregation
+lab: [paderborn] #needed for event and project aggregation
 imgname: paderborn/pb-kneipenplan.png
 title: Paderborner Kneipenplan
 

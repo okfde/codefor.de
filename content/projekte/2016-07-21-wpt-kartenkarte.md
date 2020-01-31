@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Wuppertal #needed for Aggregation on Lab-Page
+lab: [wuppertal] #needed for Aggregation on Lab-Page
 imgname: wuppertal/kartenkarte.png
 title: KartenKarte
 status: In Progress

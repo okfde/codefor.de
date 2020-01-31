@@ -1,7 +1,6 @@
 ---
 city: Magdeburg
 title: OK Lab Magdeburg
-lab: OK Lab Magdeburg
 lat: 52.11946
 long: 11.62941
 markerposition: right
@@ -9,12 +8,12 @@ markerposition: right
 members:
 
 - name: Jens Winter
-  username-github: JensWinter
-  username-twitter: JensWinter
+  username_github: JensWinter
+  username_twitter: JensWinter
 
 - name: Anton Müller
-  username-github: TheRojam
-  username-twitter: TheRojam
+  username_github: TheRojam
+  username_twitter: TheRojam
 
 links:
 

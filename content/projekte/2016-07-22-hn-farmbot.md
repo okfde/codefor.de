@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Heilbronn #needed for Aggregation on Lab-Page
+lab: [heilbronn] #needed for Aggregation on Lab-Page
 imgname: heilbronn/farmbot.jpg
 title: Farmbot // Code for Buga 2019
 

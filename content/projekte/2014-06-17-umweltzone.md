@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Berlin #needed for Aggregation on Lab-Page
+lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/umweltzone.png
 title: Umweltzone Android app
 status: Looking for people

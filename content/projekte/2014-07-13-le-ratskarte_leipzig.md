@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Leipzig
+lab: [leipzig]
 imgname: leipzig/stadtratmonitor.jpg
 title: Stadtratmonitor Leipzig
 showcase: 1

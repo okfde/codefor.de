@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Heilbronn #needed for Aggregation on Lab-Page
+lab: [heilbronn] #needed for Aggregation on Lab-Page
 imgname: heilbronn/wartezeiten.png
 title: Wartezeiten KFZ-Zulassungsstelle Heilbronn
 status: Finished

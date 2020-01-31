@@ -1,7 +1,6 @@
 ---
 city: Köln
 title: OK Lab Köln
-lab: OK Lab Köln
 lat: 50.9554784
 long: 6.9104529
 markerposition: left
@@ -10,56 +9,56 @@ projectsorder: reverse
 members:
 
 - name: Marian Steinbach
-  username-github: marians
-  username-twitter: MarianSteinbach
+  username_github: marians
+  username_twitter: MarianSteinbach
 
 - name: Marcel Belledin
-  username-github: marcel12bell
-  username-twitter: MarcelBelledin
+  username_github: marcel12bell
+  username_twitter: MarcelBelledin
 
 - name: Patricia Ennenbach
-  username-github: P3nny
-  username-twitter: pen1710
+  username_github: P3nny
+  username_twitter: pen1710
 
 - name: Ingrid Bluoss
-  username-github: datenvisualisierung
+  username_github: datenvisualisierung
 
 - name: Matthias
-  username-github: Matthias Krauss
+  username_github: Matthias Krauss
 
 - name: Tim Becker
-  username-github: a2800276
+  username_github: a2800276
 
 - name: Thomas Liebig
-  username-github: thomasliebig
+  username_github: thomasliebig
 
 - name: Rene Drexler
-  username-github: nifix777
+  username_github: nifix777
 
 - name: Alex Brand
-  username-github: alinx
+  username_github: alinx
 
 - name: Wolfram Eberius
-  username-github: weberius
-  username-twitter: eberius
+  username_github: weberius
+  username_twitter: eberius
 
 - name: Horst Meyer
-  username-github: horald
+  username_github: horald
 
 - name: Patrick Maué
-  username-github: pajoma
+  username_github: pajoma
 
 - name: Karen Schwane
-  username-github: karen-sch
-  username-twitter: hi_i_am_karen
+  username_github: karen-sch
+  username_twitter: hi_i_am_karen
 
 - name: Peter Mayr
-  username-github: hatorikibble
-  username-twitter: hatorikibble
+  username_github: hatorikibble
+  username_twitter: hatorikibble
 
 - name: Christoph Finke
-  username-github: chfinke
-  username-twitter: chfinke
+  username_github: chfinke
+  username_twitter: chfinke
 
 links:
 - name: Meetup

@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Bonn #needed for Aggregation on Lab-Page
+lab: [bonn] #needed for Aggregation on Lab-Page
 title: Geographischer Veranstaltungskalender
 showcase: 0
 status: In Progress

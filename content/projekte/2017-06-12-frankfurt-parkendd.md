@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Frankfurt #needed for Aggregation on Lab-Page
+lab: [frankfurt] #needed for Aggregation on Lab-Page
 imgname: frankfurt/parkendd-frankfurt.png
 title: Real-time parking lot app for Frankfurt am Main
 status: Abgeschlossen

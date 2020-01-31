@@ -1,8 +1,8 @@
 ---
 layout: project
 lab:
-  - OK Lab Ruhrgebiet
-  - OK Lab Düsseldorf
+  - ruhrgebiet
+  - duesseldorf
 imgname: duesseldorf/lernmedien-buddy.png
 title: Lernmedien-Buddy
 status: In Progress

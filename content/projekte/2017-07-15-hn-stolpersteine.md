@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Heilbronn # needed for Aggregation on Lab-Page
+lab: [heilbronn] # needed for Aggregation on Lab-Page
 imgname: heilbronn/stolperstein.png
 title: Stolpersteine in Heilbronn
 status: Finished

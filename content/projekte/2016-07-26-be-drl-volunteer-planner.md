@@ -1,9 +1,9 @@
 ---
 layout: project #do not change
-lab: OK Lab Berlin #change into your city/lab
+lab: [berlin] #change into your city/lab
 imgname: berlin/volunteer-planer.png
-title: Volunteer-Planner 
-status: Laufend 
+title: Volunteer-Planner
+status: Laufend
 type: DRL
 draft: false #set to 'true'
 

@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Berlin
+lab: [berlin]
 imgname: berlin/dbpediaplacesberlin.jpg
 title: DBpedia Places Berlin
 

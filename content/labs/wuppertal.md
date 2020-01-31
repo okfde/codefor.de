@@ -1,7 +1,6 @@
 ---
 city: Wuppertal
 title: OK Lab Wuppertal
-lab: OK Lab Wuppertal
 
 lat: 51.26687
 long: 7.14539
@@ -11,25 +10,25 @@ h4c: true
 members:
 
 - name: Nico Heßler
-  username-github: exmatrikulator
-  username-twitter: Exmatrikulat0r
+  username_github: exmatrikulator
+  username_twitter: Exmatrikulat0r
 - name: Daniel Fisher
-  username-github: lennybacon
-  username-twitter: lennybacon
+  username_github: lennybacon
+  username_twitter: lennybacon
 - name: Christopher Reinbothe
-  username-github: phsieben
-  username-twitter: phneutral
+  username_github: phsieben
+  username_twitter: phneutral
 - name: Bastian Pertz
-  username-github: Samisdat
-  username-twitter: Samisdat
+  username_github: Samisdat
+  username_twitter: Samisdat
 - name: Sam Zeini
-  username-github: SamZeini
-  username-twitter: SZeini
+  username_github: SamZeini
+  username_twitter: SZeini
 - name: Ralf Glörfeld
-  username-github: sn0wdiver
-  username-twitter: sn0wdiwer
+  username_github: sn0wdiver
+  username_twitter: sn0wdiwer
 - name: Cathy Klappert
-  username-twitter: CathyKlappert
+  username_twitter: CathyKlappert
 - name: Jan Niko Kirschbaum
 
 

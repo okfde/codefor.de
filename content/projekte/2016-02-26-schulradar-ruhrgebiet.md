@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Ruhrgebiet #needed for Aggregation on Lab-Page
+lab: [ruhrgebiet] #needed for Aggregation on Lab-Page
 imgname: ruhrgebiet/schulradar.jpg
 title: Schulradar Ruhrgebiet
 status: In Progress

@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Kreis Schleswig-Flensburg #needed for Aggregation on Lab-Page
+lab: ["schleswig-flensburg"] #needed for Aggregation on Lab-Page
 title: Aufbau von LoRaWAN Gateways im ländlichen Raum
 imgname: schleswig_flensburg/LoRaWan-Gateway.jpg
 showcase: 1

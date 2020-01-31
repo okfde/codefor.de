@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab München #needed for event and project aggregation
+lab: [muenchen] #needed for event and project aggregation
 imgname: # TODO
 title: Mietpreisspiegel
 status: In Progress

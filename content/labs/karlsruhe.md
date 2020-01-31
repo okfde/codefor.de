@@ -1,7 +1,6 @@
 ---
 city: Karlsruhe
 title: OK Lab Karlsruhe
-lab: OK Lab Karlsruhe
 lat: 49.013397
 long: 8.404370
 markerposition: left

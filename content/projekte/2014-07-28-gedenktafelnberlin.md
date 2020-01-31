@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Berlin
+lab: [berlin]
 imgname: berlin/gedenktafeln.jpg
 title: Gedenktafeln in Berlin
 
