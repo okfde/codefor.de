@@ -47,11 +47,11 @@ params:
     url: /projekte/
   - title: Themen
     url: /themen/
-  - title: Die Labs
+  - title: Mitmachen
     url: /labs/
   - title: Blog
     url: /blog/
-    button: true
+    button: false
   section1:
     title: 28 Labs | 300 Ehrenamtliche | 5 Jahre
     subtitle:
