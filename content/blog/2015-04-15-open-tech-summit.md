@@ -6,9 +6,6 @@ author: Fiona
 excerpt: Markiert eure Kalender! Am 14. Mai treffen sich die Open Disziplinen in Berlin
 topic: event
 
-images:
-- imgname: ots.png
-
 ---
 [![ots](/blog/ots.png)](http://opentechsummit.net/)
 

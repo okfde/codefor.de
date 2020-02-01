@@ -12,8 +12,13 @@
           <ul>
             {{ range .Pages }}
               <li class="preview">
-                {{ if isset .Params "type"}}
-                <div class="title-wrapper" style="background-image: url('/blog/header_images/{{ .Params.type }}.png')">
+                {{ if isset .Params "images" }}
+                  {{ with (index (slice .Params.images) 0) }}{{ with index . 0}}
+                    <div class="title-wrapper" style="background-image: url('{{ .imgname }}')">
+                    </div>
+                  {{end}}{{end}}
+                {{ else if isset .Params "topic"}}
+                <div class="title-wrapper" style="background-image: url('/blog/header_images/{{ .Params.topic }}.png')">
                 </div>
                 {{ else }}
                 <div class="title-wrapper" style="background-image: url('/blog/header_images/default.png')">
