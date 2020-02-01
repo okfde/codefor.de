@@ -24,15 +24,6 @@
         </div>
         <div class="column is-4 sidebar">
           <h4 class="title is-4">Weitere Informationen</h4>
-          <h5 class="is-size-4">Mitglieder</h5>
-          <div class="sidebar-list">
-          {{ range sort .Params.members "name" }}
-          <div>{{ .name }}
-            [{{ if .username_github }}<a class="is-inline" href="https://github.com/{{ .username_github }}">GitHub</a>
-             {{ end }}{{ if .username_twitter }} <a class="is-inline" href="https://twitter.com/{{ .username_twitter }}">Twitter</a class="is-inline">{{ end }}]
-          </div>
-          {{ end }}
-          </div>
 
           {{/* add div label for schedule (javascript populated) */}}
           {{if .Params.schedule }}
@@ -43,6 +34,15 @@
           {{ end }}
           {{/* ------- */}}
 
+          <h5 class="is-size-4">Mitglieder</h5>
+          <div class="sidebar-list">
+          {{ range sort .Params.members "name" }}
+          <div>{{ .name }}
+            [{{ if .username_github }}<a class="is-inline" href="https://github.com/{{ .username_github }}">GitHub</a>
+             {{ end }}{{ if .username_twitter }} <a class="is-inline" href="https://twitter.com/{{ .username_twitter }}">Twitter</a class="is-inline">{{ end }}]
+          </div>
+          {{ end }}
+          </div>
           <h5 class="is-size-4">Lab Leads</h5>
           <div class="sidebar-list">
           {{ range .Params.leads }}
