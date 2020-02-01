@@ -4,6 +4,7 @@ lab: [berlin]
 imgname: berlin/zug-direktverbindungen.png
 title: Zug-Direktverbindungen
 status: Finished
+showcase: true
 
 links:
 

@@ -1,8 +1,8 @@
 ---
-layout: post
+type: blog
 title: München Open Data Day Hackathon Projekt Ergebnisse
 author: Matt
-type: project
+topic: project
 tags:
 - Aus den Labs
 excerpt: Es ist inzwischen so lange her, aber dafür kann man ein Bisschen mehr über die damals entstandene Projekte erzählen

@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 
 title: Civic Tech - Talk auf der re:publica
 author: Julia
-type: event
+topic: event
 
 ---
 

@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: München macht mit bei Codeweek EU
 author: Matt
 excerpt: Die Codeweek EU steht vor der Tür - und wir machen mit!
-type: event
+topic: event
 
 ---
 

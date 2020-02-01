@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 
 title: Das OK Lab Chemitz
 author: Fiona
-type: community
+topic: community
 
 images:
 - imgname: morris.jpg

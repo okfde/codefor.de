@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: Der neuste Code for Germany Newsletter
 author: Sonia
 excerpt: Wir haben wieder spannende News und Links für unseren Newsletter gesammelt.
-type: story
+topic: story
 
 images:
 - imgname: newsletter-februar.png

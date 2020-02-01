@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: Hack Your City - das waren die Hackdays!
 author: Fiona
 excerpt: Hier gibt's eine Zusammenfassung der Hackdays
-type: event
+topic: event
 
 images:
 - imgname: hackyourcity.png

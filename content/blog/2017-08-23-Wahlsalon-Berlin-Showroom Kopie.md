@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: Wahlsalon Showroom am 01. September in Berlin
 author: Fiona
 excerpt: Am 01. September ist es wieder soweit - der dritte Wahlsalon findet statt und kehrt zurück nach Berlin. Eingeladen sind spannende Projekte und das Büro des Bundeswahlleiters
-type: event
+topic: event
 
 images:
 - imgname: wahlsalon-3.png

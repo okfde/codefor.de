@@ -1,11 +1,11 @@
 ---
-layout: post
+type: blog
 title: MRMCD 2017 - Ulmer Reisebericht
 author: Sabine
 excerpt: Ein Open-Data-Neuling besucht die Landesdatenschau.
-type: event
+topic: event
 
-type: event
+topic: event
 
 images:
 - imgname: mrmcd17-tagclouds.jpg

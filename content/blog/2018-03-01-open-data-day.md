@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: "Zieht am kommenden Samstag in eure Städte, denn es ist wieder Open Data Day!"
 author: Sarina Balkhausen und Michael Peters
 excerpt: Am Samstag, 3. März 2018, findet weltweit der Open Data Day statt. Er ist das Ereignis, das von Aktivistinnen und Aktivisten auf der ganzen Welt dazu genutzt wird, um auf die Bedeutung offener Daten hinzuweisen.
-type: event
+topic: event
 images:
    - imgname: odd17.jpg
 draft: false

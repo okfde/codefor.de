@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: Der Code for Germany Newsletter
 author: Fiona
 excerpt: Wir haben wieder spannende News und Links für unseren Newsletter gesammelt.
-type: toolbox
+topic: toolbox
 
 images:
 - imgname: newsletter-september.jpg

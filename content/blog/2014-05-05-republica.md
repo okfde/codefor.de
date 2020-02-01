@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 
 title: Into the wild Republica
 author: Fiona
-type: community
+topic: community
 
 images:
 - imgname: republica_14.jpg
