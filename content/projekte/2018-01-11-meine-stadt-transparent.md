@@ -3,6 +3,7 @@ layout: project
 lab: [muenchen] #needed for event and project aggregation
 title: Meine Stadt Transparent
 status: In Progress
+showcase: true
 
 links:
 - url: http://meine-stadt-transparent.de/
