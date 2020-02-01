@@ -33,6 +33,16 @@
           </div>
           {{ end }}
           </div>
+
+          {{/* add div label for schedule (javascript populated) */}}
+          {{if .Params.schedule }}
+          <h5 class="is-size-4">Termine</h5>
+          <!-- we set the text to the file, will be overwritten by javascript -->
+          <div class="sidebar-list schedule" id="schedule">{{ .Params.schedule }}
+          </div>
+          {{ end }}
+          {{/* ------- */}}
+
           <h5 class="is-size-4">Lab Leads</h5>
           <div class="sidebar-list">
           {{ range .Params.leads }}
