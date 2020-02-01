@@ -5,6 +5,7 @@ imgname: karlsruhe/open_sense.png
 title: Open Sense
 status: Laufend
 draft: false
+showcase: true
 
 links:
   - url: https://play.google.com/store/apps/details?id=de.codefor.karlsruhe.opensense
