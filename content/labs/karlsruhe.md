@@ -33,4 +33,8 @@ leads:
   url: mailto:andreas.kugel@codefor.de
 - name: Kai
   url: mailto:post@kai.gs
+
+
+schedule: karlsruhe.json
+
 ---
