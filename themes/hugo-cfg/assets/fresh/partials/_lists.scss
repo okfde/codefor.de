@@ -24,6 +24,11 @@
 .schedule {
     list-style: none;
 }
+.schedule ul li a {
+    display:inline;
+}
+
+
 ul li.preview, .preview {
   margin-bottom: 5em;
   //border-bottom: .5em solid $light-grey;

@@ -12,14 +12,14 @@ $(document).ready(function(e) {
             console.log("No schedule data")
         else {
             console.log("Length " + result.length)
-            $("#schedule").append("<ul>");
+            var sc = "<ul>";
             $.each(result, function(i, field){
-              console.log(field)
-                $("#schedule").append("<li>");
-                $("#schedule").append(field.date + ": " + field.title);
-                $("#schedule").append("</li>");
+                sc += "<li>";
+                sc += field.date + ": " + field.title;
+                sc += "</li>";
             });
-            $("#schedule").append("</ul>");
+            sc += "</ul>";
+            $("#schedule").append(sc);
         }
       });
   } else
