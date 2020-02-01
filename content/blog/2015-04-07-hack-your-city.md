@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: Code for Germany goes Citizen Science!
 author: Fiona
 excerpt: Code for Germany ist gemeinsam mit Wissenschaft im Dialog Teil des Wissenschaftsjahres 2015. In vier Citizen Science Labs werden in den nächste Monaten Projekte rund um die Stadt der Zukunft entwickelt.
-type: event
+topic: event
 
 images:
 - imgname: hackyourcity.png

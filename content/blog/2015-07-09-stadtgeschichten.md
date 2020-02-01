@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: Stadtgeschichten
 author: Fiona
 excerpt: Engagierte Mitglieder der OK Labs haben großartige Anwendungen entwickelt. Jetzt wird es Zeit, ihre Geschichte zu erzählen!
-type: project
+topic: project
 
 images:
 - imgname: stadtgeschichten.png

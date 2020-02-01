@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: International Open Data Day
 author: Fiona
 excerpt: Am 04. März lädt die globale Open Data Community wieder zu Workshops und Events ein. Auch die OK Labs machen mit - und ihr seid eingeladen!
-type: event
+topic: event
 images:
 - imgname: odd17.png
 draft: false

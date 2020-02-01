@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: The Digital Refugee Labs project has ended...
 author: Fiona
 excerpt: ...but the work continues!
-type: event
+topic: event
 images:
 - imgname: drl.jpg
 ---

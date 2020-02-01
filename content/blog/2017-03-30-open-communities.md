@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: Open Communities
 author: Eileen
 excerpt: Eileen hat im Februar Code for Taiwan besucht. Nach zahlreichen Gesprächen und Bubble Teas berichtet sie für uns über Taiwans offene Community-Arbeit.
-type: story
+topic: story
 images:
 - imgname: g0v.png
 draft: false

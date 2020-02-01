@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: Hello Prototype Fund!
 author: Fiona
 excerpt: Los geht's - heute startet der Prototype Fund!
-type: story
+topic: story
 images:
 - imgname: PrototypeFundLogo.png
 ---

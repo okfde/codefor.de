@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: "Rückblick auf unseren Open Data Day 2018"
 author: Michael Peters
 excerpt: Am Samstag, 3. März 2018, fand der jährliche Open Data Day statt. Der Tag wird schon zum fünften Jahr in Folge von Aktivistinnen und Aktivisten auf der ganzen Welt dafür genutzt, um auf die Bedeutung und das Potential offener Daten für die Gesellschaft hinzuweisen. An insgesamt 15 verschiedenen Veranstaltungen quer durch Deutschland nahmen über 500 Leute teil.
-type: event
+topic: event
 images:
    - imgname: odd-karlsruhe.jpg
 draft: false
@@ -17,7 +17,7 @@ Im [BonnLab](https://bonnlab.de/) wurde gemeinsam an der OpenDataMap gearbeitet 
 
 Bekannt als die Hauptstadt des Feinstaubs und Geburtsstätte von [luftdaten.info](https://luftdaten.info/) stand der Tag in Stuttgart ganz unter dem Motto Luftdaten. In der Stadtbibliothek konnten TeilnehmerInnen nach einer Einführung in das Thema eigene Feinstaubsensoren basteln. Dies geschah aber nicht nur in Stuttgart, sondern auch in [Düsseldorf](https://open.nrw/open-data-day-2018-ein-rueckblick-auf-die-events-koeln-und-duesseldorf), [Frankfurt](https://codeforfrankfurt.github.io/hackathon2018/index.html), [München](https://www.it-muenchen-blog.de/index.php/der-nutzen-von-offenen-daten-unser-nachbericht-vom-open-data-hackathon-2018/) und auch in Ulm.
 
-Auch im Kölner hack.Institute haben sich die Teilnehmer mit [Luftqualität](https://open.nrw/open-data-day-2018-ein-rueckblick-auf-die-events-koeln-und-duesseldorf) beschäftigt, allerdings lag hier der Fokus weniger auf Feinstaub und mehr auf dem Schadstoff Stickstoffdioxid. Das Lab arbeitet aktuell an einem Prototyp, der diesen messen soll.  
+Auch im Kölner hack.Institute haben sich die Teilnehmer mit [Luftqualität](https://open.nrw/open-data-day-2018-ein-rueckblick-auf-die-events-koeln-und-duesseldorf) beschäftigt, allerdings lag hier der Fokus weniger auf Feinstaub und mehr auf dem Schadstoff Stickstoffdioxid. Das Lab arbeitet aktuell an einem Prototyp, der diesen messen soll.
 
 ### Von Offener Haushalt bis Open Data
 

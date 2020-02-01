@@ -1,5 +1,5 @@
 baseURL: https://dev.codefor.de
-languageCode: en-us
+languageCode: de-DE
 title: Code for Germany
 theme: hugo-cfg
 #Disables warnings

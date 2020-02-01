@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: Forum Offene Stadt Hamburg
 author: Fiona
 excerpt: Das OK Lab Hamburg lädt ein, ins "Forum Offene Stadt" am 03. März
-type: event
+topic: event
 images:
 - imgname: offenestadt.png
 draft: false

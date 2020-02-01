@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: Jugend hackt
 author: Fiona
 excerpt: Am Wochenende fand „Jugend hackt“ in Berlin statt. Ein Wochenende lang programmierten, hackten und bastelten Jugendliche
-type: event
+topic: event
 
 images:
 - imgname: jugendhackt.jpg

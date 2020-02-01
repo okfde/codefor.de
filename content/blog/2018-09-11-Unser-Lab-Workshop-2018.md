@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: "Unser Lab Wochenende 2018"
 author: Michael Peters
 excerpt: Am letzten Wochenende fand unser alljährlicher Lab Leads Workshop bei der Open Knowledge Foundation in Berlin statt. Dafür kamen Teilnehmer*innen aus 10 Labs zusammen, um sich mit Offenen Daten, nutzerzentriertem Arbeiten und unserer Themenplanung für das nächste Jahr zu beschäftigen.
-type: event
+topic: event
 images:
    - imgname: header-design.jpg
 draft: false
@@ -22,4 +22,4 @@ Thematisch wurde dabei deutlich, dass wir uns neben Hardwarethemen wie LoRaWAN u
 
 Nach der Mittagspause hat [Magdalena](https://hellomagda.de/) uns in einem Workshop das Thema nutzerzentriertes Arbeiten näher gebracht. Nach einer kurzen Einführung wurde es in der Gruppenarbeit direkt praktisch. Das Ziel war, die ideale Geldbörse für seine/n Partner*in zu designen. Dabei ging es vor allem darum zu üben, sich von den Anforderungen der Nutzer*in und nicht zu sehr von den eigenen Vorstellungen leiten zu lassen. Für Code for Germany haben wir mitgenommen, dass es schon bei der ersten Konzeption einer Projektidee wichtig ist, sich in die zukünftigen Nutzer*innen hineinzuversetzen, um Anforderungen an eine Webseite / eine App zu sammeln.
 
-Am Nachmittag haben wir uns mit unserem Code of Conduct beschäftigt, den wir gerne überarbeiten möchten. Die Ergebnisse werden nun innerhalb der Community besprochen und mittelfristig auf unserer Webseite veröffentlicht. In Barcamp Sessions am Samstag und Sonntag haben wir uns mit dem thematischen Fokus für 2019 beschäftigt, Infos dazu folgen. Uns von der Open Knowledge Foundation hat es sehr gefreut unsere ehrenamtliche Community in Berlin in Empfang zu nehmen und wir arbeiten gespannt an den gemeinsamen Plänen für 2019.  
+Am Nachmittag haben wir uns mit unserem Code of Conduct beschäftigt, den wir gerne überarbeiten möchten. Die Ergebnisse werden nun innerhalb der Community besprochen und mittelfristig auf unserer Webseite veröffentlicht. In Barcamp Sessions am Samstag und Sonntag haben wir uns mit dem thematischen Fokus für 2019 beschäftigt, Infos dazu folgen. Uns von der Open Knowledge Foundation hat es sehr gefreut unsere ehrenamtliche Community in Berlin in Empfang zu nehmen und wir arbeiten gespannt an den gemeinsamen Plänen für 2019.

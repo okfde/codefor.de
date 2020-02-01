@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 
 title: Datenquellen
 author: Magda
-type: toolbox
+topic: toolbox
 
 ---
 

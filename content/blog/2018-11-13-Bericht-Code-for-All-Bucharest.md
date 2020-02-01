@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: "Civic Tech weltweit! Unser Bericht vom Code for All Summit in Bukarest"
 author: Code for Germany
 excerpt: 4 Tage, 20 Keynotes, mehr als 40 Workshops und Panels, mindestens 200 Teilnehmer. Der Code for All Summit in Bukarest vom 8. bis 11. Oktober 2018 brachte nicht nur die CivicTech Community aus aller Welt zusammen sondern auch geballtes Wissen aus mehr als fünf Jahren aktivem CivicTech Engagement. Aus Deutschland waren Anastasia, Karo, Lukas und Timo dabei.
-type: event
+topic: event
 images:
    - imgname: bucharest1.JPG
 draft: false
@@ -40,7 +40,7 @@ Durch viele Panels, Keynotes und Sessions hinweg zog sich die Erkenntnis, dass *
 
 Praktisch ist so ein Summit, um sich über den Stand der Entwicklung auszutauschen. Eine große Vielfalt von Projekten, Engagement der Entwickler und hohe Professionalität bei der Umsetzung und Organisation waren beeindruckend, wenn nicht sogar überwältigend. Laut Marnie Webb von [TechSoup](https://www.techsoup.org/) brauchen viele der technisch möglichen oder bereits entwickelten Lösungen noch wesentlich **mehr Daten**, um einen richtigen Mehrwert zu erzeugen. Auch seien viele Kollaborations-Potenziale noch lange nicht erschöpft. **Bibliotheken** sind in ihren Augen potenziell wichtige Akteure, bei denen per Definition bereits engagierte Informationsmanagement-Profis im Einsatz sind. Außerdem erinnerte Webb daran, dass die Wirkung von CivicTech in ländlichen Gebieten größer sein kann als in Großstädten, in den sich die meisten Initiativen tummeln.
 
-### Der Blick in die Zukunft: Code for Europe   
+### Der Blick in die Zukunft: Code for Europe
 Im Workshop “Code for Europe” wurde ein Actionplan entwickelt: Die Idee, einen organisatorischen, gemeinsamen “CodeforEU” Layer als europäische Ergänzung und Vernetzungsort zu etablieren.
 
 Wichtigste Actionpoints & Ziele:

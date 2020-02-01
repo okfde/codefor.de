@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: Ein <3 für Tiere
 author: Eileen
 excerpt: Ein Twitterbot macht gerade die Runden.
-type: project
+topic: project
 
 images:
 - imgname: cutepetseverywhere.png

@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: "Letztes und nächstes Treffen: Projekte!"
 author: Matt
 excerpt: Ein kleines Update aus dem OK Lab München - was war, was ist, was kommt?
-type: story
+topic: story
 
 tags:
 - Aus den Labs
