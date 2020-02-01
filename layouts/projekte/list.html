@@ -4,35 +4,19 @@
       <h1 class="title section-title">{{ .Title }}</h1>
       <h2 class="subtitle is-5 is-muted">{{ .Params.Subtitle }}</h2>
       <div class="divider"></div>
-
       <div class="content">
         {{ .Content }}
       </div>
+      <h1 class="title section-title">Showcase</h1>
       <div class="projects columns is-multiline">
-        {{ range where .Pages ".Params.draft" false  }}
-        <div class="preview column is-6">
-          <a href="{{.Permalink}}">
-            {{ if isset .Params "imgname" }}
-            <div class="preview-img" style="background-image: url('/projects/{{ .Params.imgname }}');" alt="Project Image"></div>
-            {{ else }}
-            <div class="preview-img" alt="Project Image"></div>
-            {{ end }}
-          </a>
-
-          <span class="date">{{.Date.Format "02.01.2006"}}</span>
-          <a href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
-          {{ if isset .Params "subtitle" }}
-          <h4>{{.Params.Subtitle}}</h4>
-          {{ end }}
-          <p>{{.Params.Excerpt}}</p>
-          <p>{{.Content | truncate 200 }}</p>
-          <span class="lab">
-          {{ range .Params.lab }}
-          {{ with $.Site.GetPage (printf "/labs/%s.md" . ) }}<a href="{{ .Permalink }}">{{ .Title }}</a>{{ end }}
-          {{ end }}
-          </span>
-          <span class="status">{{.Params.status}}</span>
+        {{ range where .Pages ".Params.showcase" true }}
+          {{ partial "projekt.html" . }}
+        {{ end }}
         </div>
+      <div class="divider"></div>
+      <div class="projects columns is-multiline">
+        {{ range where .Pages ".Params.draft" false }}
+          {{ partial "projekt.html" . }}
         {{ end }}
         </div>
       </div>
