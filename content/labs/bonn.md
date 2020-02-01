@@ -1,7 +1,6 @@
 ---
 city: Bonn
 title: OK Lab Bonn-Rhein-Sieg
-lab: OK Lab Bonn-Rhein-Sieg
 lat: 50.7371974
 long: 7.0947157
 markerposition: right
@@ -9,38 +8,38 @@ markerposition: right
 members:
 
 - name: Sven Hense
-  username-github: opendatabonn
-  username-twitter: eGovBonn
+  username_github: opendatabonn
+  username_twitter: eGovBonn
 
 - name: Sascha Foerster
-  username-github: saschafoerster
-  username-twitter: Sascha_Foerster
+  username_github: saschafoerster
+  username_twitter: Sascha_Foerster
 
 - name: Andreas Job
-  username-twitter: AndreasJob
+  username_twitter: AndreasJob
 
 - name: Jens Schaller
-  username-github: SchallerJe
-  username-twitter: schallerje
+  username_github: SchallerJe
+  username_twitter: schallerje
 
 - name: Josef Schugt
-  username-twitter: penpendede
+  username_twitter: penpendede
 
 - name: Damian Paderta
-  username-github: daimpad
-  username-twitter: paderta
+  username_github: daimpad
+  username_twitter: paderta
 
 - name: Martin Schneider
-  username-github: schneyra
-  username-twitter: schneyra
+  username_github: schneyra
+  username_twitter: schneyra
 
 - name: Stephan Lentzen
-  username-github: inazr
-  username-twitter: wipokar
+  username_github: inazr
+  username_twitter: wipokar
 
 - name: Michael Rolfsen
-  username-github: mrolfsen
-  username-twitter: michaelsupdates
+  username_github: mrolfsen
+  username_twitter: michaelsupdates
 
 links:
 

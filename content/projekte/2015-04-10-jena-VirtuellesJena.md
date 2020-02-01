@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Jena
+lab: [jena]
 imgname: jena/JenaMapillary.png
 title: Virtuelles Jena
 

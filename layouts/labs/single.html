@@ -1,0 +1,84 @@
+{{ define "main"}}
+  <section class="section">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-centered-tablet-portrait">
+          <h1 class="title section-title">{{ .Title }}
+            <div class="tags">
+            {{ range .Params.links }}
+              {{ if .top }}
+              <a href="{{.url}}">
+                <span class="tag has-text-weight-light">{{.name}}</span>
+              </a>
+              {{ end}}
+            {{ end}}
+            </div>
+          </h1>
+          </ul>
+          <div class="divider"></div>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column content is-8">
+          {{ .Content }}
+        </div>
+        <div class="column is-4 sidebar">
+          <h4 class="title is-4">Weitere Informationen</h4>
+          <h5 class="is-size-4">Mitglieder</h5>
+          <div class="sidebar-list">
+          {{ range sort .Params.members "name" }}
+          <div>{{ .name }}
+            [{{ if .username_github }}<a class="is-inline" href="https://github.com/{{ .username_github }}">GitHub</a>
+             {{ end }}{{ if .username_twitter }} <a class="is-inline" href="https://twitter.com/{{ .username_twitter }}">Twitter</a class="is-inline">{{ end }}]
+          </div>
+          {{ end }}
+          </div>
+          <h5 class="is-size-4">Lab Leads</h5>
+          <div class="sidebar-list">
+          {{ range .Params.leads }}
+          <a href="{{ .url }}">{{ .name }}</a>
+          {{ end}}
+          </div>
+          <h5 class="is-size-4">Links</h5>
+          <div class="sidebar-list">
+          {{ range .Params.links }}
+            <a href="{{ .url }}">{{ .name }}</a>
+          {{ end}}
+          </div>
+        </div>
+      </div>
+      <div class="projects columns is-multiline">
+        <div class="column is-12">
+          <h3 class="title is-3">Projekte</h3>
+        </div>
+        {{ $fn := .File.BaseFileName }}
+        {{ range .Site.Pages }}
+        {{ if $fn | in .Params.lab }}
+        <div class="preview column is-6">
+          <a href="{{.Permalink}}">
+            {{ if isset .Params "imgname" }}
+            <div class="preview-img" style="background-image: url('/projects/{{ .Params.imgname }}');" alt="Project Image"></div>
+            {{ else }}
+            <div class="preview-img" alt="Project Image"></div>
+            {{ end }}
+          </a>
+          <span class="date">{{.Date.Format "02.01.2006"}}</span>
+          <a href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
+          {{ if isset .Params "subtitle" }}
+          <h4>{{.Params.Subtitle}}</h4>
+          {{ end }}
+          <p>{{.Params.Excerpt}}</p>
+          <p>{{.Content | truncate 200 }}</p>
+          <span class="lab">
+          {{ range .Params.lab }}
+          {{ with $.Site.GetPage (printf "/labs/%s.md" . ) }}<a href="{{ .Permalink }}">{{ .Title }}</a>{{ end }}
+          {{ end }}
+          </span>
+          <span class="status">{{.Params.status}}</span>
+        </div>
+        {{ end}}
+        {{ end}}
+      </div>
+    </div>
+  </section>
+{{ end }}

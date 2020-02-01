@@ -1,34 +1,33 @@
 ---
 city: Heilbronn
 title: Code for Heilbronn
-lab: OK Lab Heilbronn
 lat: 49.139059
 long: 9.220404
 markerposition: right
 
 members:
 - name: Adrian Stabiszewski
-  username-github: grundid
-  username-twitter: nitegate
+  username_github: grundid
+  username_twitter: nitegate
 - name: Jonathan Günz
-  username-github: harmoniemand
-  username-twitter: harmoniemand
+  username_github: harmoniemand
+  username_twitter: harmoniemand
 - name: Leandro
-  username-twitter: _LeoDJ
+  username_twitter: _LeoDJ
 - name: Franz Imschweiler
 - name: Steffen Jung
-  username-github: gravima
+  username_github: gravima
 - name: Felix Ebert
-  username-github: felixebert
-  username-twitter: femeb
+  username_github: felixebert
+  username_twitter: femeb
 - name: Valentin Fischer
-  username-twitter: TheVale98
+  username_twitter: TheVale98
 - name: Joas Schilling
-  username-twitter: nickvergessen
+  username_twitter: nickvergessen
 - name: Lukas Himsel
-  username-github: lukas-h
+  username_github: lukas-h
 - name: Patrick Hahn
-  username-twitter: patrick24651
+  username_twitter: patrick24651
 
 links:
 - name: Meetup

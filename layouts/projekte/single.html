@@ -28,9 +28,10 @@
           <a href="{{ .url }}">{{ .name }}</a>
         {{ end }}
         <hr>
-        <h3>OK Lab</h3>
-        {{.Params.lab }}
-        {{/* TODO: link to lab */}}
+        <h3>Stadt</h3>
+          {{ range .Params.lab }}
+          {{ with $.Site.GetPage (printf "/labs/%s.md" . ) }}<a href="{{ .Permalink }}">{{ .Title }}</a>{{ end }}
+          {{ end }}
         <hr>
         <h3>Projektstatus</h3>
         {{.Params.status }}

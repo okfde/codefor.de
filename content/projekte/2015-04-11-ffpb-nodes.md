@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Paderborn #needed for Aggregation on Lab-Page
+lab: [paderborn] #needed for Aggregation on Lab-Page
 imgname: paderborn/ffpb-nodes.png
 title: Freifunk Knotenliste
 

@@ -1,7 +1,7 @@
 ---
 layout: project
-lab: OK Lab Berlin #needed for Aggregation on Lab-Page
-imgname: 
+lab: [berlin] #needed for Aggregation on Lab-Page
+imgname:
 title: RefugeesWork #Projekttitel
 status: Laufend
 type: DRL
@@ -18,6 +18,6 @@ links:
 
 ---
 
-RefugeesWork ist das Projekt eines interationalen Teams, das einen schnellen Einstieg ins Berufsleben für Newcomer ermöglichen will. Aus eigener Erfahrung konzentrieren sie sich dabei auf Angebote für Freelancer, die Unternehmen auf der Webseite <a href="http://www.refugeeswork.com/">refugeeswork.com</a> einstellen können. Außerdem unterstützt RefugeesWork bei der Arbeitssuche und hilft, wenn dabei Probleme mit der Bürokratie auftreten. 
+RefugeesWork ist das Projekt eines interationalen Teams, das einen schnellen Einstieg ins Berufsleben für Newcomer ermöglichen will. Aus eigener Erfahrung konzentrieren sie sich dabei auf Angebote für Freelancer, die Unternehmen auf der Webseite <a href="http://www.refugeeswork.com/">refugeeswork.com</a> einstellen können. Außerdem unterstützt RefugeesWork bei der Arbeitssuche und hilft, wenn dabei Probleme mit der Bürokratie auftreten.
 
 Hinter RefugeesWork stecken Alexander Praetorius,​ Nina Breznik​, Ali Ghali​, Thanh Nguyen, Alice Kohn​, Luka Tišler​, Henning Nugel, ​Jîwan Omar Abbas,​ Inga Schroeder, Caroline Peterson, Tanja Queckenstedt​, Sandra Herrmann​ und das Team von <a href="www.codingamigos.com<">www.codingamigos.com</a>.

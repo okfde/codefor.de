@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 
 title: Nächstes Treffen des OK Lab München
 author: Matt
-type: story
+topic: story
 
 ---
 

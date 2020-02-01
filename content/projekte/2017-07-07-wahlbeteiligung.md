@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Köln #needed for Aggregation on Lab-Page
+lab: [koeln] #needed for Aggregation on Lab-Page
 title: Wahlbeteiligung
 status: Laufend
 type: WS
@@ -18,4 +18,4 @@ collaborators:
 
 ---
 
-Das Projekt wahlbeteiligung soll die Wahlbeteiligung auf einer Karte veranschaulichen. Es soll darüber hinaus Eigenschaften der Umgebung dazu in Bezug setzen. 
+Das Projekt wahlbeteiligung soll die Wahlbeteiligung auf einer Karte veranschaulichen. Es soll darüber hinaus Eigenschaften der Umgebung dazu in Bezug setzen.

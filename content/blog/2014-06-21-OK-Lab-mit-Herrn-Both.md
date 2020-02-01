@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 
 title: OK-Lab Berlin mit Gästen
 author: Magda
-type: community
+topic: community
 
 images:
 - imgname: berlin/ok_lab_mit_both_1.jpg

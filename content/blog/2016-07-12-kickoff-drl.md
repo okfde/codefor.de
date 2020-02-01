@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: Kick-off, Take-off!
 author: Elisa
 excerpt: Alle Digital Refugee Labs sind gestartet. Hier könnt ihr nachlesen, woran sie in den nächsten Monaten arbeiten werden.
-type: event
+topic: event
 
 images:
 - imgname: drl-titel.jpg

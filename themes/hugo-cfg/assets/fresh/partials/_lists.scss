@@ -29,6 +29,7 @@ ul li.preview, .preview {
   .title-wrapper {
     background-image: url('/blog/banners/zucker.jpg');
     background-size: cover;
+    background-position: center;
     max-width: none;
     padding: 1em 3em 1em 1em;
     min-height: 10em;
@@ -72,4 +73,10 @@ ul li.preview, .preview {
     font-weight: bold;
     color: $cfg-cyan-3;
   }
+}
+
+.labs-list .lab-tag {
+  margin: 0.25em;
+  background-color: $cfg-cyan-2;
+  color: black;
 }

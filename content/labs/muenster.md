@@ -7,58 +7,66 @@ long: 7.630490
 members:
 
 - name: Gerald Pape
-  username-github: ubergesundheit
-  username-twitter: ubergesundheit
+  username_github: ubergesundheit
+  username_twitter: ubergesundheit
 
 - name: Tobias Bradtke
-  username-github: webwurst
+  username_github: webwurst
 
 - name: Yannic Schencking
-  username-github: jahnique
+  username_github: jahnique
 
 - name: Thomas Werner
-  username-github: tomsrocket
-  username-twitter: toms_rocket
+  username_github: tomsrocket
+  username_twitter: toms_rocket
 
 - name: Christian Römer
-  username-github: thunfischtoast
+  username_github: thunfischtoast
 
 - name: Thomas Terstiege
-  username-github: silberzwiebel
-  username-twitter: krtfflslt
+  username_github: silberzwiebel
+  username_twitter: krtfflslt
 
 links:
 - name: Webseite
   url: https://codeformuenster.org/
+  top: true
 
 - name: Twitter
   url: https://twitter.com/codeformuenster
+  top: true
 
 - name: Meetup
   url: https://meetup.com/OK-Lab-Munster/
+  top: true
 
 - name: Gettogether
   url: https://gettogether.community/code-for-m%C3%BCnster/
+  top: true
 
 - name: Open Data Day Zusammenfassung 2018
   url: https://codeformuenster.org/blog/2018/03/06/odd-2018/
+  top: false
 
 - name: Open Data Day Zusammenfassung 2017
   url: https://codeformuenster.org/blog/2017/03/07/odd-2017/
+  top: false
 
 - name: Jahresrückblick 2016
   url: https://codeformuenster.org/blog/2016/03/16/odd-rueckblick/
+  top: false
 
 - name: Jahresrückblick 2015
   url: https://codeformuenster.org/blog/2016/03/05/rueckblick-2015/
+  top: false
 
 leads:
-- name: Gerald Pape
-  url: mailto:muenster@codefor.de
-- name: Thomas Werner
-  url: mailto:muenster@codefor.de
-- name: Tobias Bradtke
-  url: mailto:muenster@codefor.de
-- name: Yannic Schencking
+- name: Kontakt
   url: mailto:muenster@codefor.de
 ---
+
+Als eines der eher technischen Labs dreht es sich bei uns vor allem eher darum, wie man eine solide und offene Basis für Open Data-Anwendungen aller Art herstellen kann.
+
+Bei unseren wöchentlichen offenen Treffen bieten wir allen Interessierten die Möglichkeit zum Erlernen verschiedenster IT-Kenntnisse und zum Umgang mit offenen Daten. Vor allem aber lernt man bei uns die eigenen Fähigkeiten mit viel Leidenschaft für einen guten Zweck einzusetzen.
+
+Ding dong Platzhalter usw

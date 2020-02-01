@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: "Pressemitteilung: Launch Verfassungsschutzberichte.de"
 author: Johannes Filter
 excerpt: In ihren jährlichen Berichten informiert der Verfassungsschutz über verfassungsfeindliche Bestrebungen. Auf Verfassungsschutzberichte.de werden die Berichte erstmals gesammelt, analysiert und durchsuchbar gemacht.  Die Webseite ist ein zivilgesellschaftliches Archiv, das den Zugang zu den Berichten erleichtert. Es dient als Recherchewerkzeug für Journalist:innen, Wissenschafter:innen und interessierte Bürger:innen.
-type: project
+topic: project
 images:
    - imgname: berlin/vsberichte.jpg
 og-image: /assets/blog/berlin/vsberichte.jpg
@@ -20,7 +20,7 @@ Alte Berichte sind jedoch nur analog in den Bibliotheken vorhanden, da z. T. Ber
 
 Die Berichte können auf der Webseite entweder direkt angesehen oder als PDF heruntergeladen werden. Aus alten, analogen Berichten, die nur als Scan vorliegen, wird mittels Machine Learning der Text erkannt (OCR). So werden die Texte zugänglich und Nutzer:innen können die Berichte nach Schlagwörtern durchsuchen. Außerdem können Erwähnungen in Berichten im zeitlichen Verlauf verglichen werden, um sogenannte "Verfassungsschutz Trends" zu visualisieren. Dazu werden die Häufigkeiten von Wörtern in Relation zu der Gesamthäufigkeit pro Jahr gesetzt. Zur Weiterverwendung können alle Berichte gebündelt heruntergeladen werden und es steht eine Programmierschnittstelle (API) bereit.
 
-[Johannes Filter](https://johannesfilter.com), ehrenamtlicher Software-Entwickler der Webseite:  
+[Johannes Filter](https://johannesfilter.com), ehrenamtlicher Software-Entwickler der Webseite:
 
 > Der einfache und digitale Zugang zu den Verfassungsschutzberichten muss möglich sein. Wenn dies der Verfassungsschutz nicht selbst schafft oder sogar unterbindet, übernimmt die Zivilgesellschaft die zeitgemäße Archivierung. Damit wird sichergestellt, dass die Arbeit des Geheimdienstes wissenschaftlich untersucht und journalistisch aufgearbeitet werden kann.
 

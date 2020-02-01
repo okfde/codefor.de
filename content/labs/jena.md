@@ -1,7 +1,6 @@
 ---
 city: Jena
 title: OK Lab Jena
-lab: OK Lab Jena
 lat: 50.9223394
 long: 11.5762312
 markerposition: left
@@ -9,15 +8,15 @@ markerposition: left
 members:
 
 - name: Achim
-  username-github: ahzf
-  username-twitter: ahzf
+  username_github: ahzf
+  username_twitter: ahzf
 - name: Andreas
-  username-twitter: nunAmen
+  username_twitter: nunAmen
 - name: Melanie
 - name: Mirko
-  username-twitter: fnchh
+  username_twitter: fnchh
 - name: Robert
-  username-twitter: p1ng0ut
+  username_twitter: p1ng0ut
 - name: Richardo
 
 links:

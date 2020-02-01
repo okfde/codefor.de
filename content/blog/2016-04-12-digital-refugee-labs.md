@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: Schwerpunkt 2016 'Digital Refugee Labs'
 author: Fiona
 excerpt: Vier Labs arbeiten dieses Jahr verstärkt am Thema Flucht und Asyl und unterstützen Hilfsorganisationen mit ihren Fähigkeiten
-type: story
+topic: story
 
 images:
 - imgname: drl-logo.png

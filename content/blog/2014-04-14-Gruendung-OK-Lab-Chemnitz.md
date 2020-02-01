@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: Gründung des OK Lab Chemnitz
 author: Morris
 
-type: event
+topic: event
 
 images:
 - imgname: chemnitz/2014-04-14-First-meetup.jpg

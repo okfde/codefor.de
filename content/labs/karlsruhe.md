@@ -1,13 +1,14 @@
 ---
 city: Karlsruhe
 title: OK Lab Karlsruhe
-lab: OK Lab Karlsruhe
 lat: 49.013397
 long: 8.404370
 markerposition: left
 #h4c: true
 
 #special: true #this lab gets spcecial marker (digital refugee lab)
+
+members: []
 
 links:
 

@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Chemnitz #needed for Aggregation on Lab-Page
+lab: [chemnitz] #needed for Aggregation on Lab-Page
 imgname: chemnitz/baustellen.png
 title: Karte Chemnitzer Baustellen
 status: Finished

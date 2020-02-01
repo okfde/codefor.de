@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Ruhrgebiet
+lab: [ruhrgebiet]
 imgname: ruhrgebiet/recyclingkarte.png
 title: Recyclingkarte
 status: in Entwicklung

@@ -1,7 +1,6 @@
 ---
 city: Berlin
 title: OK Lab Berlin
-lab: OK Lab Berlin
 
 lat: 52.498493
 long: 13.381215
@@ -10,180 +9,180 @@ markerposition: right
 members:
 
 - name: Julia Kloiber
-  username-twitter: j_kloiber
+  username_twitter: j_kloiber
 
 - name: Stefan Wehrmeyer
-  username-github: stefanw
-  username-twitter: stefanwehrmeyer
+  username_github: stefanw
+  username_twitter: stefanwehrmeyer
 
 - name: Lucas Jacob
-  username-github: LucasJ
+  username_github: LucasJ
 
 - name: Magdalena Noffke
-  username-github: MagdaN
-  username-twitter: MagdalenaNoffke
+  username_github: MagdaN
+  username_twitter: MagdalenaNoffke
 
 - name: Friedrich Lindenberg
-  username-github: pudo
+  username_github: pudo
 
 - name: Fiona Krakenbürger
-  username-github: arduina
-  username-twitter: arduina
+  username_github: arduina
+  username_twitter: arduina
 
 - name: Sebastian Mondial
-  username-twitter: kappuchino
+  username_twitter: kappuchino
 
 - name: Christian Pape
-  username-twitter: chrpape
+  username_twitter: chrpape
 
 - name: Knud Möller
-  username-github: knudmoeller
-  username-twitter: knudmoeller
+  username_github: knudmoeller
+  username_twitter: knudmoeller
 
 - name: Knut Hühne
-  username-github: k-nut
+  username_github: k-nut
 
 - name: Jochen Klar
-  username-github: jochenklar
-  username-twitter: jochenklar
+  username_github: jochenklar
+  username_twitter: jochenklar
 
 - name: Thomas Schmidt
-  username-github: netAction
+  username_github: netAction
   sername-twitter: netAction
 
 - name: Moritz Klack
-  username-github: moklick
-  username-twitter: moklick
+  username_github: moklick
+  username_twitter: moklick
 
 - name: Daniel Dietrich
-  username-github: ddie
-  username-twitter: ddie
+  username_github: ddie
+  username_twitter: ddie
 
 - name: Christopher Möller
-  username-github: chrtze
+  username_github: chrtze
 
 - name: Andy Lindemann
-  username-github: AndyTheGiant
-  username-twitter: andymensional
+  username_github: AndyTheGiant
+  username_twitter: andymensional
 
 - name: Friedrich Schuman
 
 - name: Michael Hörz
-  username-github: m-hoerz
-  username-twitter: data_meining
+  username_github: m-hoerz
+  username_twitter: data_meining
 
 - name: Niklas Riekenbrauck
-  username-github: nikriek
-  username-twitter: nikriek
+  username_github: nikriek
+  username_twitter: nikriek
 
 - name: Thomas Tursics
-  username-github: tursics
-  username-twitter: tursics
+  username_github: tursics
+  username_twitter: tursics
 
 - name: Stefan Heil
-  username-twitter: Pol_Hackonomist
+  username_twitter: Pol_Hackonomist
 
 - name: Dirk Schumacher
-  username-github: dirkschumacher
-  username-twitter: dirk_sch
+  username_github: dirkschumacher
+  username_twitter: dirk_sch
 
 - name: Daniel Mack
-  username-github: zonque
-  username-twitter: zonque
+  username_github: zonque
+  username_twitter: zonque
 
 - name: Udo Kramer
-  username-github: optikfluffel
-  username-twitter: optikfluffel
+  username_github: optikfluffel
+  username_twitter: optikfluffel
 
 - name: Simon Jockers
-  username-github: sjockers
-  username-twitter: sjockers
+  username_github: sjockers
+  username_twitter: sjockers
 
 - name: Christian Rijke
-  username-github: cnrk
-  username-twitter: crijke
+  username_github: cnrk
+  username_twitter: crijke
 
 - name: Ulrike Thalheim
 
 - name: Stefan Graupner
-  username-github: eFrane
-  username-twitter: eFrane
+  username_github: eFrane
+  username_twitter: eFrane
 
 - name: Giuseppe Di Vincenzo
-  username-github: g-div
+  username_github: g-div
 
 - name: Adrian Partl
-  username-github: adrpar
-  username-twitter: AdrianPartl
+  username_github: adrpar
+  username_twitter: AdrianPartl
 
 - name: Christine Pautsch
-  username-github: jabka
-  username-twitter: jabka
+  username_github: jabka
+  username_twitter: jabka
 
 - name: André Rebentisch
-  username-github: agonarch
-  username-twitter: agonarch
+  username_github: agonarch
+  username_twitter: agonarch
 
 - name: Claus Höfele
-  username-github: choefele
-  username-twitter: claushoefele
+  username_github: choefele
+  username_twitter: claushoefele
 
 - name: Roland Möws
 
 - name: Mario Behling
-  username-github: mariobehling
-  username-twitter: mariobehling
+  username_github: mariobehling
+  username_twitter: mariobehling
 
 - name: Tobias Kräntzer
-  username-github: anagromataf
-  username-twitter: anagrom_ataf
+  username_github: anagromataf
+  username_twitter: anagrom_ataf
 
 - name: Holger Drewes
-  username-github: holgerd77
-  username-twitter: HolgerD77
+  username_github: holgerd77
+  username_twitter: HolgerD77
 
 - name: Tobias Preuss
-  username-github: johnjohndoe
-  username-twitter: tbsprs
+  username_github: johnjohndoe
+  username_twitter: tbsprs
 
 - name: Christoph Lauer
-  username-github: notapirate
+  username_github: notapirate
 
 - name: Marc Kastner
-  username-github: happy-koala
-  username-twitter: marc_kastner
+  username_github: happy-koala
+  username_twitter: marc_kastner
 
 - name: Alex Corbi
-  username-github: acorbi
-  username-twitter: acorbi
+  username_github: acorbi
+  username_twitter: acorbi
 
 - name: Elf Pavlik
-  username-github: elf-pavlik
-  username-twitter: elfpavlik
+  username_github: elf-pavlik
+  username_twitter: elfpavlik
 
 - name: Jon Richter
-  username-github: almereyda
-  username-twitter: almereyda
+  username_github: almereyda
+  username_twitter: almereyda
 
 - name: Hans-Helge Bürger
-  username-github: obstschale
-  username-twitter: obstschale
+  username_github: obstschale
+  username_twitter: obstschale
 
 - name: Katharina Albers
-  username-github: fuzzylogic2000
-  username-twitter: fuzzylogic2020
+  username_github: fuzzylogic2000
+  username_twitter: fuzzylogic2020
 
 - name: Zhuo-Fei Hui
-  username-github: zfhui
-  username-twitter: zfhui
+  username_github: zfhui
+  username_twitter: zfhui
 
 - name: Jannis Redmann
-  username-github: derhuerst
-  username-twitter: derhuerst
+  username_github: derhuerst
+  username_twitter: derhuerst
 
 - name: Julius Tens
-  username-github: juliuste
-  username-twitter: juliustens
+  username_github: juliuste
+  username_twitter: juliustens
 
 
 links:
@@ -199,3 +198,5 @@ leads:
 - name: E-Mail
   url: mailto:berlin@codefor.de
 ---
+
+Willkommen beim Berliner OK Lab! Wir sind etwa 30 Leute und arbeiten in verschiedenen Gruppen an Projekten rund um Open Data und Civic Tech. Wir kommen aus ganz verschiedenen Bereichen, entsprechend behandeln auch die Projekte an denen wir arbeiten ganz unterschiedliche Themen.

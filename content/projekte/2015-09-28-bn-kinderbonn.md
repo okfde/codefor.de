@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Bonn #needed for Aggregation on Lab-Page
+lab: [bonn] #needed for Aggregation on Lab-Page
 imgname: bonn/kinderbonn.png
 title: kinderbonn.de – Das Portal für Eltern, Kinder und Jugendliche aus Bonn und Umgebung
 status: In Progress

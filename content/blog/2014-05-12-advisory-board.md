@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 
 title: Unser Advisory Board
 author: Fiona
-type: story
+topic: story
 
 images:
 - imgname: board.png

@@ -8,10 +8,10 @@ markerposition: left
 
 members:
 - name: Jasper Schmidt
-  username-github:
-  username-twitter:
+  username_github:
+  username_twitter:
 - name: Mandy Reinhardt
-  username-github: mandyr
+  username_github: mandyr
 
 links:
 - name: Meetup

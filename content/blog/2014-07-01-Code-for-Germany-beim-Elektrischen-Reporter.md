@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 
 title: Code for Germany beim Elektrischen Reporter
 author: Fiona
-type: interview
+topic: interview
 
 ---
 

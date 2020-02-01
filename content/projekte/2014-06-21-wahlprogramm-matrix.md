@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Münster #needed for Aggregation on Lab-Page
+lab: [muenster] #needed for Aggregation on Lab-Page
 imgname: muenster/wahlprogramm-matrix-web.png
 title: Wahlprogramm-Matrix Kommunalwahl Münster 2014
 showcase: 1

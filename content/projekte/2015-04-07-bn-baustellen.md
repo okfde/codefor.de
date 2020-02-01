@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Bonn #needed for Aggregation on Lab-Page
+lab: [bonn] #needed for Aggregation on Lab-Page
 imgname: bonn/baustellen-web.jpg
 title: Baustellen Übersicht
 showcase: 0

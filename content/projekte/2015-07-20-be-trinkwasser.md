@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Berlin
+lab: [berlin]
 title: Trinkwasser Berlin
 imgname: berlin/trinkwasser.png
 

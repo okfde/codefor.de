@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Stuttgart #needed for Aggregation on Lab-Page
+lab: [stuttgart] #needed for Aggregation on Lab-Page
 imgname: stuttgart/efa-meta-api.jpg
 title: Meta API für Elektonische Fahrplanauskunft
 status: Prototyp

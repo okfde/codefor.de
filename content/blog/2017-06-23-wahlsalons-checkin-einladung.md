@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: Wahlsalons Check-In am 07. Juli in Köln
 author: Michael
 excerpt: Einladung zum zweiten Wahlsalon
-type: event
+topic: event
 images:
 - imgname: wahlsalon-koeln.png
 draft: false

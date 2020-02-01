@@ -1,13 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: Open Tech Summit am 14. Mai
 author: Fiona
 excerpt: Markiert eure Kalender! Am 14. Mai treffen sich die Open Disziplinen in Berlin
-type: event
-
-images:
-- imgname: ots.png
+topic: event
 
 ---
 [![ots](/blog/ots.png)](http://opentechsummit.net/)

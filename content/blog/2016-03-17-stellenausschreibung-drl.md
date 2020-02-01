@@ -1,8 +1,8 @@
 ---
-layout: post
+type: blog
 title: "Projektassistenz für „Digital Refugee Labs“ gesucht"
 author: Eileen
-type: community
+topic: community
 images:
 - imgname: team.png
 ---
@@ -42,4 +42,4 @@ Ort: Berlin
 <hr>
 Wenn du Interesse hast, dann schick uns deine <b>Bewerbung bis zum 27. März</b> per E-Mail an **[info@codefor.de](mailto:info@codefor.de)**. Von Bewerbungsfotos und Angaben zu Geburtsdatum und Familienstand bitten wir abzusehen. Die Bewerbungsgespräche werden zwischen dem 30. März und dem 06. April stattfinden.<br>
 Wir freuen uns auf dich!<br>
-Julia, Fiona und Eileen        
+Julia, Fiona und Eileen

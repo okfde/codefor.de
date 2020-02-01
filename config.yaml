@@ -1,5 +1,5 @@
 baseURL: https://dev.codefor.de
-languageCode: en-us
+languageCode: de-DE
 title: Code for Germany
 theme: hugo-cfg
 #Disables warnings
@@ -45,20 +45,8 @@ params:
     url: /ueber/
   - title: Projekte
     url: /projekte/
-  - title: Unterstützen
-    sublinks:
-    - title: als Entwickler*in / Designer*in
-      url: /mitmachen/entwickeln/
-    - title: als Vernetzer*in / Aktivist*in
-      url: /mitmachen/vernetzen/
-    - title: aus Politik / Verwaltung
-      url: /mitmachen/politik/
-    - title: als Journalist*in / Blogger*in
-      url: /mitmachen/schreiben/
-    - title: als Unterstützer*in / Sponsor*in
-      url: /mitmachen/unterstuetzen/
-    - title: als Bürger*in
-      url: /mitmachen/gesellschaft/
+  - title: Themen
+    url: /themen/
   - title: Die Labs
     url: /labs/
   - title: Blog

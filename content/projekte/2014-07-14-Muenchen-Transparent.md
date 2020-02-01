@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab München #needed for event and project aggregation
+lab: [muenchen] #needed for event and project aggregation
 imgname: muenchen/Muenchen-Transparent.png
 title: München Transparent
 status: Im Produktivbetrieb

@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: Hamburg Lab is the latest stop on civic tech across borders tour
 author: Drew
 excerpt: A quick recap from Drew's recent presentation at the Code for Hamburg meetup
-type: story
+topic: story
 
 images:
 - imgname: dw-visit-hamburg-1-of-3-2015-2-9.jpg

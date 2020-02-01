@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Düsseldorf
+lab: [duesseldorf]
 imgname: duesseldorf/raumamateur.png
 title: Raumamateur
 status: In Progress

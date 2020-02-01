@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Berlin #needed for Aggregation on Lab-Page
+lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/open-legal-data.png
 title: Open Legal Data
 showcase: 0
@@ -27,5 +27,5 @@ collaborators:
 
 Open Legal Data ist eine freie juristische Datenbank für Gesetze und Urteile.
 
-Obwohl Urteile im Namen des Volkes ergehen, werden sie oft nur in kommerziellen Datenbanken oder gar nicht veröffentlicht. Deshalb sammeln wir Urteile und veröffentlichen sie für die Allgemeinheit frei zugänglich als Open Data. 
-Auf diese Weise wollen wir unabhängige Statistiken über die deutsche Rechtsprechung ermöglichen und so die Justiz transparenter machen. Alle Inhalte sind über eine API abrufbar und können mit Hilfe von uns zur Verfügung gestellten Tools analyisiert werden. 
+Obwohl Urteile im Namen des Volkes ergehen, werden sie oft nur in kommerziellen Datenbanken oder gar nicht veröffentlicht. Deshalb sammeln wir Urteile und veröffentlichen sie für die Allgemeinheit frei zugänglich als Open Data.
+Auf diese Weise wollen wir unabhängige Statistiken über die deutsche Rechtsprechung ermöglichen und so die Justiz transparenter machen. Alle Inhalte sind über eine API abrufbar und können mit Hilfe von uns zur Verfügung gestellten Tools analyisiert werden.

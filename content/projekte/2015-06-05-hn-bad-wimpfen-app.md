@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Heilbronn #needed for Aggregation on Lab-Page
+lab: [heilbronn] #needed for Aggregation on Lab-Page
 imgname: heilbronn/mein-badwimpfen.png
 title: City-App für Bad Wimpfen
 status: Finished

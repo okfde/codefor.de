@@ -1,9 +1,9 @@
 ---
 layout: project #do not change
-lab: OK Lab Berlin #change into your city/lab
+lab: [berlin] #change into your city/lab
 imgname: #add file to assets/projects/your city
-title: metacollect 
-status: Laufend 
+title: metacollect
+status: Laufend
 type: DRL
 draft: false #set to 'true'
 

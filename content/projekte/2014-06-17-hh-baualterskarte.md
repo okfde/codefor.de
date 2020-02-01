@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Hamburg #needed for Aggregation on Lab-Page
+lab: [hamburg] #needed for Aggregation on Lab-Page
 imgname: hamburg/baualter.jpg
 title: Wie alt sind die Hamburger Gebäude?
 status: Fertig

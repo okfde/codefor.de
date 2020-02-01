@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Berlin
+lab: [berlin]
 imgname: berlin/pricemap-eu.png
 title: Bahn- und Buspreiskarte
 status: In Progress

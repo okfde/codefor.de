@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Magdeburg #needed for Aggregation on Lab-Page
+lab: [magdeburg] #needed for Aggregation on Lab-Page
 imgname: magdeburg/magdomat.png
 title: Magd-O-Mat
 status: Active

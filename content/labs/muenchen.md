@@ -1,7 +1,6 @@
 ---
 city: München
 title: OK Lab München
-lab: OK Lab München
 lat: 48.14356
 long: 11.55792
 markerposition: right
@@ -31,38 +30,38 @@ markerposition: right
 members:
 
 - name: Matt Fullerton
-  username-github: mattfullerton
-  username-twitter: mattfullerton
+  username_github: mattfullerton
+  username_twitter: mattfullerton
 
 - name: Birgit Fullerton
-  username-github: birgitfullerton
-  username-twitter: bbfullerton
+  username_github: birgitfullerton
+  username_twitter: bbfullerton
 
 - name: Andreas Hubel
-  username-github: saerdnaer
-  username-twitter: saerdnaer
+  username_github: saerdnaer
+  username_twitter: saerdnaer
 
 - name: Mario Haim
-  username-github: MarHai
-  username-twitter: DrFollowMario
+  username_github: MarHai
+  username_twitter: DrFollowMario
 
 - name: Tobias Hößl
-  username-twitter: tobiasHoessl
-  username-github: catoth
+  username_twitter: tobiasHoessl
+  username_github: catoth
 
 - name: Maximillian Richt
-  username-twitter: robbi5
-  username-github: robbi5
+  username_twitter: robbi5
+  username_github: robbi5
 
 - name: Rob Ruidisch
 
 - name: Konstantin Schütze
-  username-twitter: konstinx
-  username-github: konstin
+  username_twitter: konstinx
+  username_github: konstin
 
 - name: Manuel Hartmann
-  username-twitter: bAck_mumu
-  username-github: bAckmumu
+  username_twitter: bAck_mumu
+  username_github: bAckmumu
 
 
 

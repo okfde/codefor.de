@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: OK Lab Kreis Schleswig-Flensburg #needed for Aggregation on Lab-Page
+lab: ["schleswig-flensburg"] #needed for Aggregation on Lab-Page
 title: 1000 LoRaWAN Nodes im ländlichen Raum von Schleswig-Holstein
 imgname: schleswig_flensburg/node.jpg
 showcase: 1

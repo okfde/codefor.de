@@ -1,10 +1,9 @@
 ---
-layout: post
+type: blog
 title: "Unvereinbarkeitserklärung: Offene Daten und exklusive Nutzungsbedingungen"
 author: Code for Germany
 excerpt: Die Mitglieder der Open Knowledge Labs nehmen häufig an Hackathons und ähnlichen Veranstaltungen teil, oftmals auch unter dem Schirm ihres Labs. Die Unterschrift von Nutzererklärungen auf solchen Veranstaltungen ist unvereinbar mit unserer Vorstellung von offenen Daten. Um auf diese Problematik hinzuweisen, haben wir eine Unvereinbarkeitserklärung für offene Daten und exklusive Nutzungsbedingungen verfasst.
-type: story
-images:
+topic: story
 
 draft: false
 ---
@@ -14,7 +13,7 @@ Um auf diese Problematik hinzuweisen, haben wir eine Unvereinbarkeitserklärung 
 
 ### Keine exklusiven Nutzungsbedingungen, keine NDAs
 
-Vor diesem Hintergrund fordern die Mitglieder der Open Knowledge Labs bei Hackathons und vergleichbaren Veranstaltungen Offene Daten und wollen auch nur Offene Daten nutzen. Wir setzen bei einer Teilnahme an einer solchen Veranstaltung unsere Freizeit für das Gemeinwohl ein und sind daher zu keinerlei Kompromissen bereit.  
+Vor diesem Hintergrund fordern die Mitglieder der Open Knowledge Labs bei Hackathons und vergleichbaren Veranstaltungen Offene Daten und wollen auch nur Offene Daten nutzen. Wir setzen bei einer Teilnahme an einer solchen Veranstaltung unsere Freizeit für das Gemeinwohl ein und sind daher zu keinerlei Kompromissen bereit.
 
 Wir werden keine Form von Nutzungsvereinbarungen, Non-Disclosure-Agreements (NDA) oder sonstige Vereinbarungen bereitgestellten Daten gegenüber unterzeichnen. Wir gehen davon aus, dass sämtliche uns auf solchen Veranstaltungen überlassenen Daten Offene Daten offen im Sinne der Open Definition sind. Wenn keine Lizenz angegeben ist, gehen wir davon aus, dass die Daten gemeinfrei sind.
 

@@ -1,7 +1,7 @@
 ---
 layout: project
-lab: OK Lab Karlsruhe #needed for Aggregation on Lab-Page
-imgname: 
+lab: [karlsruhe] #needed for Aggregation on Lab-Page
+imgname:
 title: Wahlwatching Twitter-Bot
 status: abgeschlossen
 type: WS

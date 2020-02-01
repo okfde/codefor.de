@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: "Hackathon: Chemnitz hackt"
 author: Ronny
 excerpt: Ende Oktober findet in Chemnitz der erste Hackathon „Chemitz hackt“statt. Ein Wochenende lang programmieren, hacken und basteln mit Gleichgesinnten und Offenen Daten.
-type: event
+topic: event
 
 draft: false
 images:
