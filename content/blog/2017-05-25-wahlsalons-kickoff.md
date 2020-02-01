@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: Kick-Off für die Wahlsalons
 author: Fiona
 excerpt: Am Mittwoch fand der erste von drei Wahlsalons in Berlin mit spannenden Gästen und Projekten statt
-type: event
+topic: event
 images:
 - imgname: wahlsalon-1.jpg
 draft: false

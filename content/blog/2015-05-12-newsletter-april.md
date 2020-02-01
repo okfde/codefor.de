@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: Der Code for Germany Newsletter
 author: Fiona
 excerpt: Es war viel los! Die Zusammenfassung gibt's wie immer in unserem monatlichen Newsletter
-type: story
+topic: story
 
 images:
 - imgname: newsletter-april.png

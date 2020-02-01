@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: Warum wir über Wahldaten reden müssen
 author: Ulrike Thalheim und Boris Hekele
 excerpt: Wahldatenstandards müssen her, da sind sich alle Anwenderinnen und Anwender einig.
-type: story
+topic: story
 images:
    - imgname: wahlen-rotstift.jpg
 draft: false

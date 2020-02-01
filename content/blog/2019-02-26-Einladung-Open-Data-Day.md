@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: "Open Data Day 2019"
 author: Michael Peters
 excerpt: Am Samstag, 02. März 2019, findet weltweit der Open Data Day statt. Er ist das Ereignis, das von Aktivistinnen und Aktivisten auf der ganzen Welt dazu genutzt wird, um auf die Bedeutung offener Daten hinzuweisen.
-type: event
+topic: event
 images:
    - imgname: odd-19.png
 draft: false

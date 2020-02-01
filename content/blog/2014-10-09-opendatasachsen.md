@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: Feedback Open Data Portal Sachsen
 author: Walter
 excerpt: Feedback zum kommenden Open Data Sachsen Portal ist von uns gewünscht!
-type: story
+topic: story
 
 ---
 

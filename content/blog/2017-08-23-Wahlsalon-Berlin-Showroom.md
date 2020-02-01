@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: Showroom Berlin - so war der dritte Wahlsalon
 author: Fiona
 excerpt: Am vergangenen Freitag fand in Berlin der dritte Wahlsalon statt. Im Showroom stellten sich spannende Civic Tech Projekte rund um die Wahl vor.
-type: event
+topic: event
 
 images:
 - imgname: wahlsalon-3.png
@@ -26,7 +26,7 @@ Das erste Programm, das vorgestellt wurde war <a href="https://deinwal.de">DeinW
 
 ![wahlsalon-deinwal](/blog/wahlsalons-deinwal.png)
 
-Als Zweites trat das Team von <a href="https://dsst.io">“Data Science and Stories”</a> auf, das regelmäßig Datenjournalismus-Projekte mit dem Berliner Tagesspiegel umsetzt. Für die Bundestagswahl haben sie das <a href="https://wahl.tagesspiegel.de/2017/">“Wahl Spezial”</a> aufgesetzt und entwickeln unterschiedliche Projekte mit Daten zu anstehenden und vergangenen Wahlen. Eines davon ist die <a href="https://wahl.tagesspiegel.de/2017/kandidatenbank/">Kandidatenbank</a>. Sie stellt wichtige Informationen zu allen Direktkandidaten zusammen. So können Wählerinnen die Kandidatinnen und die Parteien vergleichen, beispielsweise anhand von Durchschnittsalter oder Geschlechterverteilung.  
+Als Zweites trat das Team von <a href="https://dsst.io">“Data Science and Stories”</a> auf, das regelmäßig Datenjournalismus-Projekte mit dem Berliner Tagesspiegel umsetzt. Für die Bundestagswahl haben sie das <a href="https://wahl.tagesspiegel.de/2017/">“Wahl Spezial”</a> aufgesetzt und entwickeln unterschiedliche Projekte mit Daten zu anstehenden und vergangenen Wahlen. Eines davon ist die <a href="https://wahl.tagesspiegel.de/2017/kandidatenbank/">Kandidatenbank</a>. Sie stellt wichtige Informationen zu allen Direktkandidaten zusammen. So können Wählerinnen die Kandidatinnen und die Parteien vergleichen, beispielsweise anhand von Durchschnittsalter oder Geschlechterverteilung.
 
 
 ![wahlsalon-wahltraud](/blog/wahlsalons-3-2.jpg)

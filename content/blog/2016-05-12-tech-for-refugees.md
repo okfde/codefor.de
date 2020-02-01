@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: Tech for Refugees - Was ist das eigentlich?
 author: Elisa
 excerpt: Ein kurzer Überblick darüber, welche digitalen Werkzeuge heute rund um Geflüchtete und die Arbeit mit ihnen zum Einsatz kommen
-type: project
+topic: project
 
 images:
 - imgname: drl.jpg

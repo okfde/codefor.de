@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: "FORUM Offene Stadt & CFG Community Summit 2019"
 author: Julia Thomaschki
 excerpt: Am 8. November ist es wieder soweit das FORUM Offene Stadt findet zum dritten Mal in Hamburg statt. Direkt im Anschluss gibt es den Code For Germany Community Summit (10-11.2019). Wir freuen uns auf euch!
-type: event
+topic: event
 images:
    - imgname: summit-fos-pic.png
 og-image: /assets/blog/summit-fos-pic.png

@@ -1,8 +1,8 @@
 ---
-layout: post
+type: blog
 title: "Stellenausschreibung Code for Germany - Community Organizerin (m/w)"
 author: Fiona
-type: community
+topic: community
 
 images:
 - imgname: community.png

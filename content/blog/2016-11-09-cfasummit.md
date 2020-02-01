@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: Code for America Summit 2016
 author: Eileen
 excerpt: November 1-3, 2016 saw the sixth Code for America Summit in Oakland, CA.
-type: event
+topic: event
 images:
 - imgname: cfasummit.JPG
 ---

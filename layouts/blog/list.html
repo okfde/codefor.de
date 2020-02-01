@@ -4,7 +4,6 @@
       <h1 class="title section-title">{{ .Title }}</h1>
       <h2 class="subtitle is-5 is-muted">{{ .Params.Subtitle }}</h2>
       <div class="divider"></div>
-
       <div class="content">
         {{ .Content }}
       </div>
@@ -20,11 +19,12 @@
                 <div class="title-wrapper" style="background-image: url('/blog/header_images/default.png')">
                 </div>
                 {{ end }}
-                <span class="date">{{.Date.Format "02.01.2006"}}</span>
+                <span class="date">{{ .Date.Format "02.01.2006" }}</span>
                 <a href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
                 {{ if isset .Params "subtitle" }}
                 <h4>{{.Params.Subtitle}}</h4>
                 {{ end }}
+                <p class="mb-20">von {{ .Params.author }}</p>
                 <p>{{.Params.Excerpt}}</p>
               </li>
             {{ end }}

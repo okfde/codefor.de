@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: Wahlsalons 2017
 author: Fiona
 excerpt: Wir haben einen neuen spannenden Schwerpunkt - rund um Wahlen und Wahldaten
-type: community
+topic: community
 images:
 - imgname: wahlsalons.png
 draft: false

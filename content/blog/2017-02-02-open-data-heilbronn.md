@@ -1,9 +1,9 @@
 ---
-layout: post
+type: blog
 title: Open Data in Heilbronn - es tut sich was!
 author: Felix Ebert, Code for Heilbronn
 excerpt: Ein Antrag der SPD wurde einstimmig angenommen. Am 04.03. lädt Code for Heilbronn zum Open Data Day ein
-type: story
+topic: story
 images:
 - imgname: rathaus-heilbronn.jpg
 draft: false
@@ -16,7 +16,7 @@ Zitat aus dem Antrag:
 
 > Die Verwaltung bestimmt einen festen Ansprechpartner für Aktive im Bereich Open Data und
   Datenjournalisten möglichst bei der Stabsstelle Strategie.
->  
+>
 > Die Verwaltung erarbeitet eine Strategie, wie mit diesem Thema bei der Stadtverwaltung umgegangen
   werden soll, insbesondere was die Herausgabe von (öffentlichen) Daten angeht.
 >
@@ -40,5 +40,5 @@ Ein Fokus liegt dieses Jahr auf [Feinstaubsensoren](http://luftdaten.info/) und 
 <br>
 
  <object data="/assets/blog/OpenDataDay2017.pdf" type="application/pdf" width="100%" height="800px">
-  <p><a href="/assets/blog/OpenDataDay2017.pdf">mehr Informationen im Open Data Day Flyer</a></p>  
+  <p><a href="/assets/blog/OpenDataDay2017.pdf">mehr Informationen im Open Data Day Flyer</a></p>
  </object>

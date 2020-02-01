@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: Code for Journalism
 author: Eileen
 excerpt: Interview mit Vanessa Wormer
-type: interview
+topic: interview
 
 images:
 - imgname: wormer.png

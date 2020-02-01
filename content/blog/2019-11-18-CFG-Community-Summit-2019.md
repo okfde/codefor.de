@@ -1,15 +1,15 @@
 ---
-layout: post
+type: blog
 title: "Code for Germany Summit 2019 - digitales Ehrenamt in Aktion"
 author: Julia Thomaschki
 excerpt: Code for Germany (CFG) baut seit 5 Jahren digitale Werkzeuge und Anwendungen, um damit praktisch aufzuzeigen, welche Möglichkeiten Offene Daten und neue Technologien für das gesellschaftliche Miteinander bieten. Beim CFG Summit hat sich unsere deutschlandweite Community getroffen um an gemeinsamen Projekten zu arbeiten.
-type: event
+topic: event
 images:
    - imgname: cfg-summit-1.jpg
 og-image: /assets/blog/cfg-summit-1.jpg
 og-description: Code for Germany (CFG) baut seit 5 Jahren digitale Werkzeuge und Anwendungen, um damit praktisch aufzuzeigen, welche Möglichkeiten Offene Daten und neue Technologien für das gesellschaftliche Miteinander bieten. Beim CFG Summit hat sich unsere deutschlandweite Community getroffen um an gemeinsamen Projekten zu arbeiten.
 
-type: event
+topic: event
 
 draft: false
 ---
@@ -36,7 +36,7 @@ https://pad.okfn.de/p/froscon2019-lorawan_community_summit)
 
 ![Summit4](/blog/cfg-summit-4.jpg)
 
-Die nächsten analogen Besprechungen finden Ende Dezember beim 36C3 in Leipzig, statt. Wer schon ein Ticket für den 36C3 hat ist außerdem herzlich eingeladen beim [Call for Participation](https://cfp.verschwoerhaus.de/36c3/cfp) der WikipakaWG mitzumachen. Die WikiPakaWG ist ein Begegnungsort für die Communities von Jugend hackt, Open Knowledge Foundation und Wikimedia.  
+Die nächsten analogen Besprechungen finden Ende Dezember beim 36C3 in Leipzig, statt. Wer schon ein Ticket für den 36C3 hat ist außerdem herzlich eingeladen beim [Call for Participation](https://cfp.verschwoerhaus.de/36c3/cfp) der WikipakaWG mitzumachen. Die WikiPakaWG ist ein Begegnungsort für die Communities von Jugend hackt, Open Knowledge Foundation und Wikimedia.
 
 ## Planungen für 2020 laufen auf Hochtouren!
 Für zusätzliche Unterstützung im Code for Germany Team suchen wir ab 2020 [ein*e Communitybuilder*in](https://codefor.de/blog/CFG-Stellenausschreibung-Community.html

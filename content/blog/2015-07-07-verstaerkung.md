@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: Hallo und guten Tag!
 author: Eileen
 excerpt: Das Team bekommt Verstärkung.
-type: community
+topic: community
 
 images:
 - imgname: thethirdwoman.jpg

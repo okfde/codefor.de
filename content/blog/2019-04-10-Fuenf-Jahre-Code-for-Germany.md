@@ -1,5 +1,5 @@
 ---
-layout: post
+type: blog
 title: "Fünf Jahre Code for Germany, fünf Jahre digitales Ehrenamt"
 author: Michael Peters
 excerpt: Seit fünf Jahren engagieren sich ehrenamtliche Bürger*innen mit ihren technischen Fähigkeiten im Code for Germany Netzwerk um gemeinsam nützliche und offene Anwendungen für die digitale Gesellschaft zu entwickeln.
@@ -44,9 +44,9 @@ Mittlerweile haben sich die Labs als Treffpunkt für den Austausch zwischen Zivi
 <p class="blog-quote">  „In einem offenen und kreativen Umfeld können auf lokaler Ebene Ideen entstehen, getestet und geteilt werden. Die Labs entwickeln konkrete Tools und setzen Impulse in die Praxis um. Sie zeigen auf, was möglich ist, wenn die Bedürfnisse der Bürger*innen im Fokus stehen!“</p>
 <p style="text-align:right; font-style:italic;">Fiona Krakenbürger – Community Managerin a.D. </p>
 
-In Ulm, Hamburg, Münster und Karlsruhe kam es sogar zu langfristigen Veränderung durch die Zusammenarbeit. Hier arbeiten Lab Mitglieder mittlerweile in der öffentlichen Verwaltung und bilden die Brücke zwischen Zivilgesellschaft und öffentlichem Sektor. Sie können ihre Expertise direkt einbringen und steigern die technischen Kapazitäten der Verwaltungen von innen. Um dies deutschlandweit zu verstetigen, streben wir den Aufbau eines Fellowship Programms für die öffentliche Verwaltung, nach dem Vorbild von [Code for America](https://www.codeforamerica.org/programs/fellowship) an.  
+In Ulm, Hamburg, Münster und Karlsruhe kam es sogar zu langfristigen Veränderung durch die Zusammenarbeit. Hier arbeiten Lab Mitglieder mittlerweile in der öffentlichen Verwaltung und bilden die Brücke zwischen Zivilgesellschaft und öffentlichem Sektor. Sie können ihre Expertise direkt einbringen und steigern die technischen Kapazitäten der Verwaltungen von innen. Um dies deutschlandweit zu verstetigen, streben wir den Aufbau eines Fellowship Programms für die öffentliche Verwaltung, nach dem Vorbild von [Code for America](https://www.codeforamerica.org/programs/fellowship) an.
 
-### 4. Für Kooperation braucht es freie und offene Software      
+### 4. Für Kooperation braucht es freie und offene Software
 
 Alle von Code for Germany entwickelten Apps und Webseiten basieren auf Open Source Software. Das hat den Vorteil, dass der Quellcode offen ist und die Software von jedem Menschen genutzt und weiterentwickelt werden kann. Praktisch bedeutet es, dass der Code auf einer Plattform wie Github liegt ([so wie diese Webseite](https://github.com/okfde/codefor.de)) und jede Nutzer\*in an der Softwareentwicklung beitragen kann. So können Entwickler*innen auf der ganzen Welt gleichzeitig den Code weiterentwickeln.
 
@@ -55,11 +55,11 @@ Auf die Verwaltung angewendet bedeutet es, dass unsere Anwendungen wie beispiels
 <p class="blog-quote"> „In  öffentlichen Ausschreibungen sollte Open Source Software stets als erste Option in Betracht kommen, so wie es die Kampagne <a href="https://publiccode.eu/">Public Money Public Code</a> fordert, um das digitale Gemeinwesen der Verwaltungen zu stärken.“</p>
 <p style="text-align:right; font-style:italic;">Timo Lundelius – Code for Hamburg</p>
 
-### 5. Digitales Ehrenamt bedarf kontinuierlicher Förderung    
+### 5. Digitales Ehrenamt bedarf kontinuierlicher Förderung
 
 Die Code for Germany Community hat in den letzten fünf Jahren mit ehrenamtlichem Engagement viel geleistet und gemeinsam mit Projekten wie [Jugend Hackt](https://jugendhackt.org/kommentar-zur-forderung-nach-einer-freiwilligen-cyber-feuerwehr/) den Begriff des „digitalen Ehrenamts” in Deutschland maßgeblich geprägt. Damit dieser Wandel langfristig ist, bedarf es Unterstützung.
 
-Nachhaltiger Erfolg wird vor allem dann erzielt, wenn die Städte mit den Labs kooperieren und gemeinsame Projekte auch finanziell unterstützen. Dafür bedarf es keiner Millionenbeträge, sondern Mittel, welche die Infrastruktur der Labs ermöglichen. Der [Prototypefund](https://prototypefund.de/) zeigt bereits auf, wie Open Source Software bundesweit gefördert werden kann. In NRW fordern die Labs gemeinsam mit dem lokalen Offene Kommunen NRW Institut bereits seit 2018 einen [Civic Tech Fonds](https://oknrw.de/civic-tech-mini-fonds-fuer-zivilgesellschaft/) von der Landesregierung.  
+Nachhaltiger Erfolg wird vor allem dann erzielt, wenn die Städte mit den Labs kooperieren und gemeinsame Projekte auch finanziell unterstützen. Dafür bedarf es keiner Millionenbeträge, sondern Mittel, welche die Infrastruktur der Labs ermöglichen. Der [Prototypefund](https://prototypefund.de/) zeigt bereits auf, wie Open Source Software bundesweit gefördert werden kann. In NRW fordern die Labs gemeinsam mit dem lokalen Offene Kommunen NRW Institut bereits seit 2018 einen [Civic Tech Fonds](https://oknrw.de/civic-tech-mini-fonds-fuer-zivilgesellschaft/) von der Landesregierung.
 
 Besonders erfolgreich funktioniert die Zusammenarbeit, wenn Städte selbst Experimentierräume schaffen. In Ulm ist dies mit dem [Verschwörhaus](https://verschwoerhaus.de/) gelungen, in Moers gibt es den [h4ck3rspace](https://www.moers.de/de/rathaus/hackerspace/). Hier finden Veranstaltungen statt, und es werden gemeinsam mit Zivilgesellschaft und Verwaltung Lösungen gesucht und umgesetzt. Wenn die Bundesregierung sich nachhaltig für [Open Government](https://www.open-government-deutschland.de/opengov-de) in Deutschland einsetzen möchte, dann sollte sie bereits bestehende Strukturen wie die Labs fördern.
 

@@ -1,10 +1,10 @@
 ---
-layout: post
+type: blog
 
 title: "München Transparent"
 author: Fiona
 excerpt: Das OK Lab München hat einen Vorstoß in Richtung mehr Transparenz gewagt und das Portal "München Transparent" gestartet.
-type: project
+topic: project
 
 images:
 - imgname: muenchen-transparent-launch.png
