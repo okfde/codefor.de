@@ -5,12 +5,11 @@
       <h2 class="subtitle is-5 is-muted">{{ .Params.Subtitle }}</h2>
       <div class="divider"></div>
       <div class="content">
-        Hier steht ein schöner kurzer Text der zur Liste und Karte hinüberleitet.
         {{ .Content }}
       </div>
       <div class="columns">
-        <div class="column is-7 labmap" id="labmap">
-          Hier kommt ne tolle Karte hin
+        <div class="column is-7">
+          <svg id="map" width="700" height="760"></svg>
         </div>
         <div class="column is-5">
           <h3 class="title is-5">In diesen Städten gibt es bereits ein OK Lab:</h3>
@@ -24,4 +23,104 @@
         </div>
     </div>
   </section>
+
+<style>
+  div.tooltip {
+    color: white;
+    position: absolute;
+    text-align: center;
+    padding: 4px 10px;
+    font: 1em sans-serif bold;
+    background: rgba(0,0,0,.8);
+    border: 2px solid black;
+    cursor: pointer;
+    font-weight: bolder;
+    border-radius: 7px;
+  }
+  </style>
+
+<script src="{{ "js/d3.v5.min.js" | relURL }}"></script>
+
+<script>
+  function buildMap() {
+
+  var svg = d3.select("#map"),
+    width = 1200,
+    height = 900;
+
+  var projection = d3.geoMercator()
+      .translate([width / 2, height / 2])
+      .scale(3500)
+      .center([15.3,50.6]);
+
+  var path = d3.geoPath()
+      .projection(projection);
+
+  var data = d3.map();
+
+  // define div for tooltip
+  const div = d3
+    .select("body")
+    .append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+  // load data
+  d3.json("https://raw.githubusercontent.com/isellsoap/deutschlandGeoJSON/master/2_bundeslaender/4_niedrig.geojson")
+  .then(function (d) {
+
+  // draw points
+  d3.csv("{{ "js/lab-locations.csv" | relURL }}")
+  .then(function(d) {
+    console.log(d);
+  svg.selectAll("circle")
+     .data(d)
+     .enter()
+     .append("circle")
+     .attr("r", 5)
+     .style("fill", "#01a8a8")
+     .classed("pin", true)
+     .attr("cx", function (d) {
+         return projection([+d.long, +d.lat])[0];
+      })
+     .attr("cy", function (d) {
+         return projection([+d.long, +d.lat])[1];
+      })
+      .on("mouseover", d => {
+      div
+        .transition()
+        .duration(200)
+        .style("opacity", 0.9);
+      div
+        .html(d.city)
+        .style("left", d3.event.pageX + "px")
+        .style("top", d3.event.pageY - 28 + "px");
+    })
+    .on("click", function(d) {window.location = "https://codefor.de/" +d.city})
+    .on("mouseout", () => {
+      div
+        .transition()
+        .duration(500)
+        .style("opacity", 0);
+    });
+   });
+
+    // draw map
+    svg.append("g")
+      .selectAll("path")
+      .data(d.features)
+      .enter()
+      .append("path")
+      .attr("d", d3.geoPath().projection(projection))
+      .attr("fill", "lightgrey")
+      .style("opacity", 0.5)
+      .style("stroke","darkgrey");
+      });
+
+  } // end buildMap
+
+  buildMap();
+
+</script>
+
 {{ end }}
