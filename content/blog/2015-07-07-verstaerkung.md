@@ -7,11 +7,11 @@ excerpt: Das Team bekommt Verstärkung.
 topic: community
 
 images:
-- imgname: thethirdwoman.jpg
+- imgname: thethirdwoman.png
 
 ---
 
-![beep bop](/blog/thethirdwoman.jpg "Eileen ist jetzt dabei")
+![beep bop](/blog/thethirdwoman.png "Eileen ist jetzt dabei")
 
 Liebe Open Data Freunde,
 

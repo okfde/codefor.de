@@ -1,9 +1,9 @@
 <div class="preview column is-6">
   <a href="{{.Permalink}}">
     {{ if isset .Params "imgname" }}
-    <div class="preview-img" style="background-image: url('/projects/{{ .Params.imgname }}');" alt="Project Image"></div>
+    <div class="preview-img lazyload" data-style="background-image: url('/projects/{{ .Params.imgname }}');" alt="{{ .Title }}"></div>
     {{ else }}
-    <div class="preview-img" alt="Project Image"></div>
+    <div class="preview-img" alt="{{ .Title }}"></div>
     {{ end }}
   </a>
 
