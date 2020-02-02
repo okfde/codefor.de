@@ -109,7 +109,7 @@ params:
       img: 3
   section5: true
   footer:
-    logo: /img/CFG_logo.svg
+    logo: /img/CFG_logo_white.svg
     # Social Media Title
     socialmediatitle: Folge uns!
     # Social media links (GitHub, Twitter, etc.). All are optional.
