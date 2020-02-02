@@ -135,9 +135,9 @@ params:
       column2:
         title: "Werkzeugkoffer"
         links:
-        - text: Github (extern)
-          link: https://github.com/okfde
-        - text: opendatahandbook.org
+        - text: Quellcode
+          link: https://github.com/okfde/dev.codefor.de
+        - text: opendatahandbook
           link: https://opendatahandbook.org/
         - text: ABC der Offenheit
           link: https://upload.wikimedia.org/wikipedia/commons/a/a9/ABC_der_Offenheit_-_Brosch%C3%BCre_%282019%29.pdf
