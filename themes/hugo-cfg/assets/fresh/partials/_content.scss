@@ -24,10 +24,21 @@
 
 }
 
-.justify {
+.ueber {
     text-align: justify;
     text-justify: inter-character;
 }
+
+.ueber img {
+    max-height: 300px;
+    float:left;
+    clear:both;
+}
+
+.ueber p {
+    clear:both;
+}
+
 
 .project {
   .content {
