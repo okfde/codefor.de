@@ -6,13 +6,13 @@ title: Freie Parkplätze Dresden
 showcase: 1
 
 links:
-- url: http://ubahn.draco.uberspace.de/opendata/ui/
+- url: https://ubahn.draco.uberspace.de/opendata/ui/
   name: Karte (aktuelle Belegung)
-- url: http://jkliemann.de/parkendd/
+- url: https://jkliemann.de/parkendd/
   name: ParkenDD Android App
-- url: http://parkendd.kilian.io
+- url: https://parkendd.kilian.io
   name: ParkenDD iOS App
-- url: http://mechlab-engineering.de/2015/03/vorhersage-der-parkhausbelegung-mit-offenen-daten/
+- url: https://mechlab-engineering.de/2015/03/vorhersage-der-parkhausbelegung-mit-offenen-daten/
   name: Vorhersage der Belegung mit Machine Learning
 
 
@@ -41,10 +41,10 @@ collaborators:
 
 ---
 
-Die Stadt Dresden bietet auf [http://www.dresden.de/freie-parkplaetze](http://www.dresden.de/freie-parkplaetze) eine Übersicht der freien Parkplätze in der Stadt Dresden an. Leider nicht maschinenlesbar (barrierefrei). Darum haben wir uns gekümmert!
-Die Daten werden in regelmäßigen Abständen von der Website geholt (gescraped) und in einer Datenbank gespeichert. Es wird eine [maschinenlesbare Schnittstelle (API)](http://ubahn.draco.uberspace.de/opendata/cached_api.php) bereitgestellt. Die historischen Daten wurden [analysiert und grafisch aufbereitet](http://mechlab-engineering.de/2015/03/vorhersage-der-parkhausbelegung-mit-offenen-daten/). Weiterhin wurde mittels Machine Learning ein Vorhersagemodell entworfen, welches es ermöglicht die Belegung eines Parkhauses in Zukunft vorherzusagen
+Die Stadt Dresden bietet auf [https://www.dresden.de/freie-parkplaetze](https://www.dresden.de/freie-parkplaetze) eine Übersicht der freien Parkplätze in der Stadt Dresden an. Leider nicht maschinenlesbar (barrierefrei). Darum haben wir uns gekümmert!
+Die Daten werden in regelmäßigen Abständen von der Website geholt (gescraped) und in einer Datenbank gespeichert. Es wird eine [maschinenlesbare Schnittstelle (API)](https://ubahn.draco.uberspace.de/opendata/cached_api.php) bereitgestellt. Die historischen Daten wurden [analysiert und grafisch aufbereitet](https://mechlab-engineering.de/2015/03/vorhersage-der-parkhausbelegung-mit-offenen-daten/). Weiterhin wurde mittels Machine Learning ein Vorhersagemodell entworfen, welches es ermöglicht die Belegung eines Parkhauses in Zukunft vorherzusagen
 
-![DataFlow](http://mechlab-engineering.de/wordpress/wp-content/uploads/2015/03/DataFlow.png){: .img-responsive }
+![DataFlow](https://mechlab-engineering.de/wordpress/wp-content/uploads/2015/03/DataFlow.png){: .img-responsive }
 
 Dies ist hilfreich für Veranstaltungsplanung oder Tourismus. Folgende Anwendungsfälle sind denkbar:
 
@@ -56,7 +56,7 @@ Dies ist hilfreich für Veranstaltungsplanung oder Tourismus. Folgende Anwendung
 
 Smartphone Apps
 
-![iOS App](http://parkendd.kilian.io/images/screenshots.png){: .img-responsive }
+![iOS App](https://parkendd.kilian.io/images/screenshots.png){: .img-responsive }
 
-* Android: [http://jkliemann.de/parkendd/](http://jkliemann.de/parkendd/)
-* iPhone: [http://parkendd.kilian.io](http://parkendd.kilian.io)
+* Android: [https://jkliemann.de/parkendd/](https://jkliemann.de/parkendd/)
+* iPhone: [https://parkendd.kilian.io](https://parkendd.kilian.io)
