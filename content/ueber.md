@@ -4,22 +4,20 @@ include_footer: true
 justify: true
 ---
 
-## Code For Germany ist ein Netzwerk ehrenamtlicher Menschen, das sich mit Open Government für einen nachhaltigen Digitalen Wandel in Politik und Verwaltung einsetzt. 
+Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger, die sich in lokalen Labs organisieren und ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten. 
+Die Labs sind Experimentierräume für die digitale Stadtgesellschaft, in denen digital affine Menschen aus Zivilgesellschaft, Verwaltung und Politik gemeinsam an analogen und digitalen Lösungen zu arbeiten.
+Sie vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen ihre Fähigkeiten, um die einen nachhaltigen Digitalen Wandel nach folgenden Richtlinen zu fördern:
 
-Unsere Labs sind Experimentierräume für die digitale Stadtgesellschaft. Hier treffen digital affine Menschen aus Zivilgesellschaft, Verwaltung und Politik aufeinander um gemeinsam an analogen und digitalen Lösungen zu arbeiten. Dabei ist es unsere Überzeugung, dass Technologie keinem Selbstzweck folgt, sondern vom Menschen und seinen Bedürfnissen her gedacht werden muss. 
-Wir entwickeln dafür selbstständig Open Source Software, welche Verwaltung und Politik direkt implementieren können. Seit 2014 ist das Netzwerk auf 26 digitale Stadtlabore in 14 Bundesländern angewachsen und umfasst eine Community von über 500 Ehrenamtlichen. 
+ * Technologie an menschlichen Bedürfnissen ausrichten
+ * Digitales Wissen in Bevölkerung und Verwaltung födern (Data Literacy) 
+ * Verwaltung in offenem Dialog und mit nachhaltiger Partizipation der Zivilgesellschaft (Transparenz und Open Government)
+ * Verwaltungsdaten maschinenlesbar und standardisiert veröffentlichen (Open Data)
+ * Einsatz öffentlicher Mittel für Software an offene Standards binden (Public Money Public Code)
+ * Kontinuierliche Einbeziehung ehrenamtlicher Experten in die digitale Stadtentwicklung (Digitales Ehrenamt)
+ * Entwicklung von offenen Werkzeugen für Verwaltung und Zivilgesellschaft (Open Source Software)
 
-#### #1 Wir identifizieren menschliche Bedürfnisse in der digitalen Welt und hinterfragen technologische Entwicklungen nach ihrem Nutzen für die Gesellschaft. 
+Seit 2014 ist das Netzwerk auf 26 digitale [Stadtlabore](/labs) in 14 Bundesländern angewachsen und umfasst eine Community von über 500 Ehrenamtlichen. Dabei setzen die Labs in den einzelnen Städten unterschiedliche Schwerpunkte.
 
-#### #2 Mit unserem ehrenamtlichen Netzwerk entwickeln wir selbst offene digitale Anwendungen als Open Source Software, welche Verwaltung und Politik direkt implementieren können.
+Die Grundsätze unserer Arbeit finden sich im [Code of Conduct](/grundsaetze)
 
-#### #3 So treiben wir den offenen und nachhaltigen digitalen Wandel aus der Gesellschaft voran - für eine Welt in der die Möglichkeiten der Digitalisierung allen Menschen zu gute kommt.   
 
-Nachhaltiger Digitaler Wandel bedeutet für uns…
-
-* Open Government mit folgenden Leitlinien implementieren 
-* Open Data: Verwaltungsdaten maschinenlesbar und standardisiert veröffentlichen
-* Partizipation: Offener Dialog und nachhaltige Einbindung der Zivilgesellschaft 
-* Tech ohne Selbstzweck: Technologie an menschlichen Bedürfnissen ausrichten 
-* Public Money Public Code: Öffentliche Gelder in offene Software investieren 
-* Digitales Ehrenamt kontinuierlich fördern
