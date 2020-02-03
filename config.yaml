@@ -104,7 +104,7 @@ params:
       job:
       img: 2
     - name: Open Government
-      quote: Wir sprechen mit Politiker*innen und setzen uns für Transparenz und Partizipation ein.
+      quote: Wir sprechen mit Politiker*innen und setzen uns für Transparenz und Mitbestimmung ein.
       job:
       img: 3
   section5: true
