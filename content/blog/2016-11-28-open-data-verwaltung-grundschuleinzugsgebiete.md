@@ -5,7 +5,7 @@ author: Niels
 excerpt: Die Zuschneidung von Einzugsgebieten für Grundschulen ist ein komplexes Thema. Im Bezirk Tempelhof-Schöneberg in Berlin wird nun eine Anwendung pilotiert, die mit offenen Daten diese Gebiete algorithmisch optimiert.
 topic: story
 images:
-- imgname: einzugsgebiete.jpg
+- imgname: einzugsgebiete.png
 ---
 
 <i>Gastbeitrag von Niels Reinhard von <a href="www.idalab.de"></a>idalab</i>
@@ -20,7 +20,7 @@ Das Zuschneiden von Einzugsgebieten für Grundschulen beschäftigt in Deutschlan
 
 Open Data Aktivist <a href="http://danielkirs.ch">Daniel Kirsch</a> (in seiner Funktion als Data Scientist bei idalab in Kooperation mit der <a href="http://www.stiftung-nv.de">Stiftung Neue Verantwortung</a>, der <a href="https://www.technologiestiftung-berlin.de/de/startseite/">Technologiestiftung Berlin</a> und dem Open Data Beauftragten der Senatsverwaltung für Wirtschaft) arbeitet nun in einem Projekt mit dem Bezirksamt Tempelhof-Schöneberg zu Berlin an einer Software, welche es den Mitarbeitern der Behörde ermöglicht, Einzugsgebiete von Grundschulen algorithmisch entlang verschiedener Dimensionen zu optimieren. “Mit unserer Software ermöglichen wir es den Anwendern in Behörden nun, große Teile des Planungsprozesses zu automatisieren. Per Knopfdruck können die Einzugsgebiete der Grundschulen hinsichtlich Auslastung und Schulweg optimiert werden”, erklärt Daniel Kirsch die Funktionalität. Die Software greift dabei auf Offene Geodaten und weitere offene Datensätze der Berliner Verwaltung zurück und wird gleichzeitig mit den Daten des zuständigen Schulamtes verbunden.
 
-![einzugsgebiete](/blog/einzugsgebiete.jpg)
+![einzugsgebiete](/blog/einzugsgebiete.png)
 
 <center>Einzugsgebiete in Tempelhof-Schöneberg</center>
 
