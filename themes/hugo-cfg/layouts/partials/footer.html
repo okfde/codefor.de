@@ -23,6 +23,9 @@
               <li>
                 <a href="{{ .link }}">
                   {{ .text }}
+                  {{- if hasPrefix .link "http" }}
+                  <span class="icon"><i class="fa fa-external-link"></i></span>
+                  {{- end }}
                 </a>
               </li>
               {{- end }}
