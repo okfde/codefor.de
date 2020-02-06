@@ -3,23 +3,184 @@
     {{ partial "hero.html" . }}
     {{ end }}
 
-    {{ if .Site.Params.section1 }}
-    {{ partial "section1.html" . }}
-    {{ end }}
+    <section class="section">
+      <div class="container">
+        <div class="content-wrapper">
+          <div class="columns">
+            <div class="column is-one-third has-text-centered">
+              <p class="title is-1 has-text-link">#1</p>
+              <p class="title is-4">Wir fragen nach.</p>
+              <p>Welche technologischen Entwicklungen bringen unsere Gesellschaft wirklich weiter?</p>
+            </div>
+            <div class="column is-one-third has-text-centered">
+              <p class="title is-1 has-text-link">#2</p>
+              <p class="title is-4">Wir entwickeln Zukunft.</p>
+              <p>In unserem ehrenamtlichen Netzwerk entwickeln wir freie Software und Prototypen für Politik und Verwaltung.</p>
+            </div>
+            <div class="column is-one-third has-text-centered">
+              <p class="title is-1 has-text-link">#3</p>
+              <p class="title is-4">Wir treiben voran.</p>
+              <p>Wir setzen uns für Offenheit, Nachhaltigkeit und Tansparenz ein, damit alle von der Digitalisierung profitieren können.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
-    {{ if .Site.Params.section2 }}
-    {{ partial "section2.html" . }}
-    {{ end }}
 
-    {{ if .Site.Params.section3 }}
-    {{ partial "section3.html" . }}
-    {{ end }}
+    <section class="section is-medium">
+      <div class="container">
+        <p class="title is-2 has-text-centered">Unsere Themen</p>
+        <div class="content-wrapper">
+          <div class="columns">
+              <div class="column is-one-quarter has-text-centered">
+                <a href="{{ printf "/themen/umwelt" | relURL }}">
+                  <img src="{{ printf "/images/umwelt.png" | relURL }}">
+                </a>
+                <p class="title is-3 has-text-white" style="margin-top: -50px">Umwelt</p>
+                <p>Welche technologischen Entwicklungen bringen unsere Gesellschaft wirklich weiter?</p>
+                <a href="{{ printf "/themen/umwelt" | relURL }}">
+                  <button class="button is-link has-text-white" style="margin-top:20px">Zum Themenfeld</button>
+                </a>
+              </div>
+              <div class="column is-one-quarter has-text-centered">
+                <a href="{{ printf "/themen/mobilitaet" | relURL }}">
+                  <img src="{{ printf "/images/mobilitaet.png" | relURL }}">
+                </a>
+                <p class="title is-3 has-text-white" style="margin-top: -50px">Mobilität</p>
+                <p>Welche technologischen Entwicklungen bringen unsere Gesellschaft wirklich weiter?</p>
+                <a href="{{ printf "/themen/mobilitaet" | relURL }}">
+                  <button class="button is-link has-text-white" style="margin-top:20px">Zum Themenfeld</button>
+                </a>
+              </div>
+              <div class="column is-one-quarter has-text-centered">
+                <a href="{{ printf "/themen/politik" | relURL }}">
+                  <img src="{{ printf "/images/politik.png" | relURL }}">
+                </a>
+                <p class="title is-3 has-text-white" style="margin-top: -50px">Politik</p>
+                <p>Welche technologischen Entwicklungen bringen unsere Gesellschaft wirklich weiter?</p>
+                <a href="{{ printf "/themen/politik" | relURL }}">
+                  <button class="button is-link has-text-white" style="margin-top:20px">Zum Themenfeld</button>
+                </a>
+              </div>
+              <div class="column is-one-quarter has-text-centered">
+                <a href="{{ printf "/themen/gesellschaft" | relURL }}">
+                  <img src="{{ printf "/images/gesellschaft.png" | relURL }}">
+                </a>
+                <p class="title is-3 has-text-white" style="margin-top: -50px">Gesellschaft</p>
+                <p>Welche technologischen Entwicklungen bringen unsere Gesellschaft wirklich weiter?</p>
+                <a href="{{ printf "/themen/gesellschaft" | relURL }}">
+                  <button class="button is-link has-text-white" style="margin-top:20px">Zum Themenfeld</button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
 
-    {{ if .Site.Params.section4 }}
-    {{ partial "section4.html" . }}
-    {{ end }}
+    </section>
 
-    {{ if .Site.Params.section5 }}
-    {{ partial "section5.html" . }}
-    {{ end }}
+
+
+    <section class="section is-medium">
+      <div class="container">
+        <p class="title is-2 has-text-centered">Was bei uns passiert</p>
+        <img style="display: block; width: 60%; margin-left:auto; margin-right:auto" src="{{ printf "/images/illustrations/cfg-summit-19.png" | relURL }}">
+              {{ range ( last 1 ( where .Site.Pages "Type" "blog" ).ByDate ) }}
+                <div class="index-preview has-text-centered">
+                  {{ if isset .Params "images" }}
+                    {{ with (index (slice .Params.images) 0) }}{{ with index . 0}}
+                      <div class="title-wrapper" style="background-image: url('{{ .imgname }}')">
+                      </div>
+                    {{end}}{{end}}
+                  {{ else if isset .Params "topic"}}
+                  <div class="title-wrapper" style="background-image: url('/blog/header_images/{{ .Params.topic }}.png')">
+                  </div>
+                  {{ else }}
+                  <div class="title-wrapper" style="background-image: url('/blog/header_images/default.png')">
+                  </div>
+                  {{ end }}
+                  <p class="index-date">{{ .Date.Format "02.01.2006" }}</p>
+                  <a href="{{.Permalink}}"><p class="title is-5 index-heading">{{.Title}}</p></a>
+                  {{ if isset .Params "subtitle" }}
+                  <p class="index-subtitle">{{.Params.Subtitle}}</p>
+                  {{ end }}
+                  <a href="{{.Permalink}}">
+                    <button class="button is-link has-text-white" style="margin-top:40px">Diesen Blogartikel lesen</button>
+                  </a>
+                  </div>
+              {{ end }}
+
+            </div>
+            <div class="has-text-centered">
+            <a href="{{ printf "/themen/gesellschaft" | relURL }}">
+              <button class="button" style="margin-top:40px">Mehr Blogartikel lesen</button>
+            </a>
+            </div>
+    </section>
+
+
+    <section class="section is-medium">
+      <div class="container">
+        <p class="title is-2 has-text-centered">Wir sind vielfältig</p>
+        <p class="has-text-centered">Obwohl uns Code for Germany nennen, sind wir natürlich nicht nur Programmierer! Wir sind genauso Bürgerinnen, Designer oder Journalistinnen und auch Mitarbeiterinnen aus Verwaltung oder Politik gehören zu unserer Community.</p>
+        <div class="content-wrapper is-centered has-text-centered">
+            <div class="columns is-6">
+              <div class="column">
+                <img style="height:80px; width: auto; margin: 20px" src="{{ printf "/images/illustrations/code.svg" | relURL }}"/>
+                <p class="title is-5">Entwickler*innen</p>
+              </div>
+              <div class="column">
+                <img style="height:80px; width: auto; margin: 20px"  src="{{ printf "/images/illustrations/pencil-ruler.svg" | relURL }}"/>
+                <p class="title is-5">Designer*innen</p>
+              </div>
+              <div class="column ">
+                <img style="height:80px; width: auto; margin: 20px"  src="{{ printf "/images/illustrations/child.svg" | relURL }}"/>
+                <p class="title is-5">Bürger*innen</p>
+              </div>
+              <div class="column">
+                <img style="height:80px; width: auto; margin: 20px"  src="{{ printf "/images/illustrations/bullhorn.svg" | relURL }}"/>
+                <p class="title is-5">Journalist*innen</p>
+              </div>
+              <div class="column">
+                <img style="height:80px; width: auto; margin: 20px"  src="{{ printf "/images/illustrations/clipboard-list.svg" | relURL }}"/>
+                <p class="title is-5">Verwaltungen</p>
+              </div>
+              <div class="column">
+                <img style="height:80px; width: auto; margin: 20px"  src="{{ printf "/images/illustrations/comments.svg" | relURL }}"/>
+                <p class="title is-5">Politik</p>
+              </div>
+            </div>
+        </div>
+      </div>
+    </section>
+
+
+    <section class="section is-medium">
+      <div class="container">
+        <div class="title-wrapper has-text-centered">
+          <h2 class="title is-2 is-spaced">Newsletter</h2>
+          <h3 class="subtitle is-5 is-muted">Du möchtest auf dem Laufenden bleiben über Code for Germany? Dann trag Dich für unseren monatlichen Newsletter ein:</h3>
+          <div class="divider is-centered"></div>
+        </div>
+
+        <div class="content-wrapper">
+          <div class="columns">
+            <div class="column is-6 is-offset-3">
+              <form>
+                <div class="columns is-multiline">
+                  <div class="column mt-10">
+                    <input class="input is-medium" type="email" placeholder="E-Mail">
+                  </div>
+                  <div class="form-footer has-text-centered mt-10">
+                    <button class="button cta is-large primary-btn raised is-clear">Abonnieren</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
 {{ end }}

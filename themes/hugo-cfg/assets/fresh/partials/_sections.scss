@@ -42,6 +42,7 @@ Section Styles
     }
 }
 
+/*
 //Divider
 .divider {
     height: 3px;
@@ -53,6 +54,7 @@ Section Styles
         margin: 0 auto;
     }
 }
+*/
 
 //Wrapper
 .content-wrapper {
@@ -60,10 +62,6 @@ Section Styles
 }
 
 
-//Pulled image
-img.pushed-image {
-    margin-top: -5vh;
-}
 
 //Icon box
 .media.icon-box {
@@ -83,4 +81,23 @@ img.pushed-image {
             font-weight: 400;
         }
     }
+}
+
+
+
+.index-date {
+  margin-top: 20px;
+  color: grey;
+  font-weight: bold;
+  font-size: 80%;
+}
+
+.index-heading {
+  color: $cfg-blue-1;
+  font-weight: bold;
+}
+
+.index-subtitle {
+  color: #5a5a5a;
+  font-weight: bolder;
 }

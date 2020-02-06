@@ -11,8 +11,6 @@ frontmatter:
   date: [":filename", ":default"]
 
 params:
- # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
-  openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
   description:
   navbarlogo:
@@ -52,64 +50,9 @@ params:
   - title: Blog
     url: /blog/
     button: false
-  section1:
-    title: 28 Labs | 300 Ehrenamtliche | 5 Jahre
-    subtitle:
-    tiles:
-    - # title: Design & Entwicklung
-      icon: coding
-      text:
-      url: /
-      buttonText: Entwicklung & Design
-    - # title: Cloud integration
-      icon: folders
-      text:
-      url: /
-      buttonText: Politik & Verwaltung
-    - # title: Add-ons & plugins
-      icon: microphone
-      text:
-      url: /
-      buttonText: Journalismus & Unterstützung
-  section2:
-    subtitle: Freie Software + Offene Daten = <3
-    title: open source + open data = <3
-    features:
-    - title: Offene Daten // Open Data
-      text: Offene Daten sind Daten, auf die alle Personen frei zugreifen können und die von allen genutzt, verändert und geteilt werden können. Sie werden in vielen Anwendungen erzeugt und gesammelt, beispielsweise in amtlichen Messungen oder wissenschaftlichen Experimenten.
-      # Icon (from /images/illustrations/icons/___.svg)
-      icon: laptop-globe
-    - title: Offene Verwaltung // Open Government
-      text: Politik und Verwaltung sollen geöffnet werden für Bürger*innen, Wirtschaft, Wissenschaft, Kunst und Kultur, um stärkere gemeinschaftliche Belange in einer Kommune zu ermöglichen. Im Fokus stehen dabei Transparenz, Partizipation und Kollaboration.
-      icon: doc-sync
-    - title: Zivilgesellschaftliche Technik // Civic Tech
-      text: Technischen Konzepten können Engagement und Beteiligung von Bürgern fördern, beispielsweise durch entsprechende Kommunikationsplattformen, bessere öffentliche Infrastrukturen und technikbasierte Verbesserungen des Allgemeinwohls.
-      icon: mobile-feed
-  section3:
-    title: Wir nehmen offene Daten
-    subtitle: und bauen daraus Anwendungen für Bürger*innen.
-    image: illustrations/cfg-summit-19.png
-    buttonText: Zu den Projekten
-    buttonLink: "/projekte/"
-  section4:
-    title: Unsere Schwerpunkte
-    subtitle: für 2020
-    clients:
-    - name: Umwelt
-      quote: Wir loten aus, wie viel wir für unsere Umwelt und unser Klima tun. Dazu sammeln wir offene Daten vor Ort und werten sie aus.
-      job:
-      img: 1
-    - name: Mobilität & Infrastruktur
-      quote: Im Alltag sind wir viel unterwegs. Mit offenen Daten wollen wir die sichersten Wege, die entspanntesten Verkehrsmittel und die umweltfreundlichste Fortbewegung finden.
-      job:
-      img: 2
-    - name: Open Government
-      quote: Wir sprechen mit Politiker*innen und setzen uns für Transparenz und Partizipation ein.
-      job:
-      img: 3
-  section5: true
+
   footer:
-    logo: /img/CFG_logo_white.svg
+    logo: /img/CFG_logo.svg
     # Social Media Title
     socialmediatitle: Folge uns!
     # Social media links (GitHub, Twitter, etc.). All are optional.
@@ -135,9 +78,9 @@ params:
       column2:
         title: "Werkzeugkoffer"
         links:
-        - text: Quellcode
-          link: https://github.com/okfde/dev.codefor.de
-        - text: opendatahandbook
+        - text: Github (extern)
+          link: https://github.com/okfde
+        - text: opendatahandbook.org
           link: https://opendatahandbook.org/
         - text: ABC der Offenheit
           link: https://upload.wikimedia.org/wikipedia/commons/a/a9/ABC_der_Offenheit_-_Brosch%C3%BCre_%282019%29.pdf
