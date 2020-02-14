@@ -1,32 +1,20 @@
 ---
 city: Osnabrück
-title: OK Lab Osnabrueck
-lab: OK Lab Osnabrueck
+title: OK Lab Osnabrück
+lab: OK Lab Osnabrück
 lat: 52.2668370
 long: 8.0497410
 markerposition: left
 showsignup: false
 
 members:
-- name: Auss Abbood
-  username_github: https://github.com/aauss
-  # username_twitter:
+- name: Peer Wagner
+  username_github: wagnerpeer
+  username_twitter: wagnerpeer
 
-- name: John Berrora
-  username_github: https://github.com/johnberroa
-  # username_twitter:
-
-- name: Rüdiger Frederik Busche
-  username_github: https://github.com/JarnoRFB
-  # username_twitter:
-
-- name: Anton Laukemper
-  username_github: https://github.com/Zaitur
-  # username_twitter:
-
-- name: Jannik Steinmann
-  username_github: https://github.com/DerGut
-  # username_twitter:
+# - name: <name>
+#   username_github: <github_user_name>
+#   username_twitter: <twitter_user_name>
 
 
 links:
@@ -48,8 +36,8 @@ links:
 
 
 leads:
-- name: Rüdiger Frederik Busche
-  url: https://www.meetup.com/de-DE/members/232667363/?op=&memberId=232667363
+- name: Peer Wagner
+  url: https://twitter.com/wagnerpeer
 
 # - name:
 #   url:
