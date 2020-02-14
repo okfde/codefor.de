@@ -20,9 +20,9 @@
       </div>
       <div class="columns">
         <div class="content-wrapper" style="position: relative">
-        <div class="column content is-8">
-          {{ .Content }}
-        </div>
+          <div class="column content is-8">
+            {{ .Content }}
+          </div>
           <img class="background-img" src="/labs/hexagon/CodeFor{{ .Params.city }}.svg" onerror="this.src='';"/>
         </div>
         <div class="column is-4 sidebar">
@@ -39,25 +39,28 @@
 
           <h5 class="is-size-4">Mitglieder</h5>
           <div class="sidebar-list">
-          {{ range sort .Params.members "name" }}
-          <div>{{ .name }}
-            [{{ if .username_github }}<a class="is-inline" href="https://github.com/{{ .username_github }}">GitHub</a>
-             {{ end }}{{ if .username_twitter }} <a class="is-inline" href="https://twitter.com/{{ .username_twitter }}">Twitter</a class="is-inline">{{ end }}]
+            {{ range sort .Params.members "name" }}
+            <div>{{ .name }}
+              [{{ if .username_github }}<a class="is-inline" href="https://github.com/{{ .username_github }}">GitHub</a>{{ end }}
+               {{ if .username_twitter }} <a class="is-inline" href="https://twitter.com/{{ .username_twitter }}">Twitter</a class="is-inline">{{ end }}]
+            </div>
+            {{ end }}
           </div>
-          {{ end }}
-          </div>
+          
           <h5 class="is-size-4">Lab Leads</h5>
           <div class="sidebar-list">
-          {{ range .Params.leads }}
-          <a href="{{ .url }}">{{ .name }}</a>
-          {{ end}}
+            {{ range .Params.leads }}
+            <a href="{{ .url }}">{{ .name }}</a>
+            {{ end}}
           </div>
+
           <h5 class="is-size-4">Links</h5>
           <div class="sidebar-list">
-          {{ range .Params.links }}
+            {{ range .Params.links }}
             <a href="{{ .url }}">{{ .name }}</a>
-          {{ end}}
+            {{ end}}
           </div>
+
         </div>
       </div>
       <div class="projects columns is-multiline">
@@ -67,7 +70,7 @@
         {{ $fn := .File.BaseFileName }}
         {{ range .Site.Pages }}
         {{ if $fn | in .Params.lab }}
-          {{ partial "projekt.html" . }}
+        {{ partial "projekt.html" . }}
         {{ end}}
         {{ end}}
       </div>
