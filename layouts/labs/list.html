@@ -16,7 +16,7 @@
         </div>
         <div class="column is-5">
           <h3 class="title is-5">In diesen Städten gibt es bereits ein OK Lab:</h3>
-          <div class="labs-list tags">
+          <div class="tags">
             {{ range .Pages.ByParam "city" }}
             <a href="{{.Permalink}}">
               <span class="tag lab-tag">{{.Params.city}}</span>
@@ -94,7 +94,7 @@
         .enter()
         .append("circle")
         .attr("r", 5)
-        .style("fill", "#01a8a8")
+        .style("fill", "#26c0bb")
         .classed("pin", true)
         .attr("cx", locations => { return projection([+locations.long, +locations.lat])[0]; })
         .attr("cy", locations => { return projection([+locations.long, +locations.lat])[1]; })
