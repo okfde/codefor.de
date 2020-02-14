@@ -88,3 +88,14 @@ ul li.preview, .preview {
   background-color: $cfg-cyan-2;
   color: black;
 }
+
+.content-wrapper .background-img {
+  padding-left: 5%;
+  padding-right: 5%;
+  opacity: 0.2;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}

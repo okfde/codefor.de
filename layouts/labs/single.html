@@ -19,8 +19,11 @@
         </div>
       </div>
       <div class="columns">
+        <div class="content-wrapper" style="position: relative">
         <div class="column content is-8">
           {{ .Content }}
+        </div>
+          <img class="background-img" src="/labs/hexagon/CodeFor{{ .Params.city }}.svg" onerror="this.src='';"/>
         </div>
         <div class="column is-4 sidebar">
           <h4 class="title is-4">Weitere Informationen</h4>
