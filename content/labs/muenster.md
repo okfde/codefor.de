@@ -40,7 +40,7 @@ links:
   url: https://meetup.com/OK-Lab-Munster/
   top: true
 
-- name: Gettogether
+- name: GetTogether
   url: https://gettogether.community/code-for-m%C3%BCnster/
   top: true
 
@@ -69,4 +69,5 @@ Als eines der eher technischen Labs dreht es sich bei uns vor allem eher darum, 
 
 Bei unseren wöchentlichen offenen Treffen bieten wir allen Interessierten die Möglichkeit zum Erlernen verschiedenster IT-Kenntnisse und zum Umgang mit offenen Daten. Vor allem aber lernt man bei uns die eigenen Fähigkeiten mit viel Leidenschaft für einen guten Zweck einzusetzen.
 
-Ding dong Platzhalter usw
+Ding dong Platzhalter
+Beard vexillologist poke hell of etsy humblebrag. Mixtape lo-fi fanny pack food truck, ennui skateboard godard listicle you probably haven't heard of them master cleanse keytar gentrify helvetica trust fund. Flexitarian post-ironic vaporware seitan whatever tousled. Polaroid heirloom af poke la croix actually irony brunch viral. Unicorn readymade twee crucifix shabby chic pok pok poke copper mug.

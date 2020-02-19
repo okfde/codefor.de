@@ -1,6 +1,7 @@
 ---
 type: blog
-title: "Code for Germany Summit 2019 - digitales Ehrenamt in Aktion"
+title: Code for Germany Summit 2019 – digitales Ehrenamt in Aktion
+subtitle: Rückblick auf unser Community-Wochenende in Hamburg
 author: Julia Thomaschki
 excerpt: Code for Germany (CFG) baut seit 5 Jahren digitale Werkzeuge und Anwendungen, um damit praktisch aufzuzeigen, welche Möglichkeiten Offene Daten und neue Technologien für das gesellschaftliche Miteinander bieten. Beim CFG Summit hat sich unsere deutschlandweite Community getroffen um an gemeinsamen Projekten zu arbeiten.
 topic: event
