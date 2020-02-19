@@ -11,4 +11,6 @@ Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
 
-
+# IDE project folders
+.idea/**
+.vscode/**
