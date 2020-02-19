@@ -27,7 +27,7 @@ params:
     # Button text
     buttontext: Werde Stadtentwickler*in!
     # Where the main hero button links to
-    buttonlink: "mitmachen"
+    buttonlink: "labs"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
