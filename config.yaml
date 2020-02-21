@@ -84,6 +84,8 @@ params:
           link: https://opendatahandbook.org/
         - text: ABC der Offenheit
           link: https://upload.wikimedia.org/wikipedia/commons/a/a9/ABC_der_Offenheit_-_Brosch%C3%BCre_%282019%29.pdf
+        - text: FAQ
+          link: /faq/
       column3:
         title: "Über uns"
         links:

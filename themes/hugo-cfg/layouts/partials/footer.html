@@ -24,7 +24,7 @@
                 <a href="{{ .link }}">
                   {{ .text }}
                   {{- if hasPrefix .link "http" }}
-                  <span class="icon"><i class="fa fa-external-link"></i></span>
+                  <span class="icon is-size-7"><i class="fa fa-external-link"></i></span>
                   {{- end }}
                 </a>
               </li>
@@ -41,7 +41,7 @@
               <div class="level-left">
                 {{- range $socialMedia }}
                 <a class="level-item" href="{{ .link }}">
-                  <span class="icon"><i class="fa fa-{{ .icon }}"></i></span>
+                  <span class="icon is-size-3"><i class="fa fa-{{ .icon }}"></i></span>
                 </a>
                 {{- end }}
               </div>
