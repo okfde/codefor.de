@@ -42,19 +42,19 @@ Section Styles
     }
 }
 
-/*
+
 //Divider
 .divider {
     height: 3px;
     border-radius: 50px;
     background: $secondary;
     width: 60px;
-    margin-bottom: 2em;
+    margin: 2em 0 1em 0;
     &.is-centered {
         margin: 0 auto;
     }
 }
-*/
+
 
 //Wrapper
 .content-wrapper {
@@ -100,4 +100,8 @@ Section Styles
 .index-subtitle {
   color: #5a5a5a;
   font-weight: bolder;
+}
+
+p + p {
+  margin: 1em 0;
 }

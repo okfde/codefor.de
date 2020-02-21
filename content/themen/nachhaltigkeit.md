@@ -1,5 +1,5 @@
 ---
-title: Offene Verwaltung
+title: Digitale Nachhaltigkeit
 ---
 
 Ein nachhaltiger digitaler Wandel ist ohne ökologische Nachhaltigkeit nur schwer vorstellbar. Der digitale Wandel hat einige problematische Auswirkungen auf unser Ökosystem zum Vorschein gebracht. Durch einen bewussten Umgang mit diesen Problemen kann der Schutz unserer Ressourcen aber bereits im Entwicklungsstadium von Anwendungen angelegt und umgesetzt werden. Dies bietet sich besonders in den Bereichen Energieverbrauch und Rohstoffeinsatz an.

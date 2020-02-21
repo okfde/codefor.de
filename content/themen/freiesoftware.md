@@ -1,7 +1,7 @@
 ---
 title: Freie Software
 ---
-*Open Source Software kann ebenso wie Offene Daten von allen genutzt, verändert und beliebig geteilt werden. Der Code ist öffentlich einsehbar und kann überprüft und editiert werden. Damit kann eine Software auch unkompliziert an die individuellen Bedürfnisse von Institutionen angepasst werden.*
+**Open Source Software kann ebenso wie Offene Daten von allen genutzt, verändert und beliebig geteilt werden. Der Code ist öffentlich einsehbar und kann überprüft und editiert werden. Damit kann eine Software auch unkompliziert an die individuellen Bedürfnisse von Institutionen angepasst werden.**
 
 Open Source Software setzt sich aus vier Komponenten zusammen, die zusammen, vergleichbar mit Offenen Daten, auf Transparenz und Teilhabe von Nutzer*innen und Entwickler\*innen setzen. Bei Open Source Software können alle den Code einsehen und zwar ohne Einschränkungen. Alle, die möchten, können die Software für ihre Zwecke einsetzen, sie mit anderen teilen und sie kopieren. Auch können alle die Software an ihre eigenen Bedürfnisse anpassen und sie verändern. Diese Veränderungen können wiederum öffentlich geteilt werden und unterliegen keiner Einschränkung durch die freie Lizenz des Ursprungsprodukts.
 Auf diesem Weg Ideen zu teilen und anderen Anknüpfungspunkte für eigene Innovationen zu bieten, schafft Nachhaltigkeit und sorgt dafür, dass Projekte über einen längeren Zeitraum Bestand haben. Beispiele für Open Source Software sind das Betriebssystem Linux und der Browser Firefox. Aber auch Plattformen wie “Frag den Staat” oder “Wikipedia” basieren auf Open Source Software.

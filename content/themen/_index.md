@@ -7,6 +7,6 @@ Code for Germany bringt Menschen zusammen, die an Projekten für eine offene und
 **Nachhaltiger digitaler Wandel heißt für uns:**
 * [Offene Daten](/themen/offenedaten): Verwaltungsdaten maschinenlesbar und standardisiert veröffentlichen
 * [Tech ohne Selbstzweck](/themen/techgesellschaft): Technologie an menschlichen Bedürfnissen ausrichten
-* [Öffentliches Geld - Öffentliches Gut](/themen/freiesoftware): Steuergelder nur in Offene Software investieren
+* [Öffentliches Geld = Öffentliches Gut](/themen/freiesoftware): Steuergelder nur in Freie Software und Offene Daten investieren
 * [Digitales Ehrenamt](/themen/digitalesehrenamt): Zivilgesellschaft einbinden und nachhaltig fördern
 * [Ökologische Nachhaltigkeit](/themen/nachhaltigkeit): Natürliche Ressourcen schützen

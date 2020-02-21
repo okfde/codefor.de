@@ -2,7 +2,7 @@
 title: Offene Daten – Open Data
 ---
 
-*Offene Daten sind Daten, auf die alle Personen frei zugreifen können und die von allen genutzt und geteilt werden können. Sie werden in vielen Anwendungen erzeugt und gesammelt, beispielsweise in amtlichen Messungen oder wissenschaftlichen Experimenten. Offene Daten sind keine persönlichen Daten.*
+**Offene Daten sind Daten, auf die alle Personen frei zugreifen können und die von allen genutzt und geteilt werden können. Sie werden in vielen Anwendungen erzeugt und gesammelt, beispielsweise in amtlichen Messungen oder wissenschaftlichen Experimenten. Offene Daten sind keine persönlichen Daten.**
 
 Offene Daten bzw. Open Data bezeichnet Daten, die unter einer freien Lizenz veröffentlicht werden, so dass alle Personen, auf sie zugreifen, sie frei nutzen und mit anderen Menschen teilen können. Das bezieht sich auch darauf, dass die Daten möglicherweise zu einem anderen als dem ursprünglich gedachten Zweck verwendet werden. All das sollte möglichst ohne Hindernisse, finanzieller, technischer oder physischer Natur, möglich sein.
 
