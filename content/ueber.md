@@ -1,7 +1,6 @@
 ---
 title: Über Code for Germany
 include_footer: true
-justify: true
 ---
 
 **Code For Germany ist ein Netzwerk ehrenamtlicher Menschen, das sich mit Open Government für einen nachhaltigen Digitalen Wandel in Politik und Verwaltung einsetzt.**
