@@ -18,21 +18,16 @@ Diese entwickeln selbstständig Open Source Software, die Verwaltung und Politik
 * **[Digitales Ehrenamt:](/themen/digitalesehrenamt)** Zivilgesellschaft einbinden und nachhaltig fördern  
 * **[Ökologische Nachhaltigkeit:](/themen/nachhaltigkeit)** Natürliche Ressourcen schützen  
 
-
-**#1 Wir identifizieren menschliche Bedürfnisse in der digitalen Welt und hinterfragen technologische Entwicklungen nach ihrem Nutzen für die Gesellschaft.**
-
-**#2 Mit unserem ehrenamtlichen Netzwerk entwickeln wir selbst offene digitale Anwendungen als Open Source Software, welche Verwaltung und Politik direkt implementieren können.**
-
-**#3 So treiben wir den offenen und nachhaltigen digitalen Wandel aus der Gesellschaft voran - für eine Welt in der die Möglichkeiten der Digitalisierung allen Menschen zu gute kommt.**
+Was bedeutet das für unser Netzwerk?
 
 ## Verwaltungen
 Verwaltungen auf allen Ebenen können Legitimation für ihr eigenes Handeln schaffen, indem sie die Daten ihrer Kommunen für Bürger\*innen öffnen. Damit werden sie zu wichtigen Akteuren im digitalen Wandel und schaffen Transparenz gegenüber der Öffentlichkeit. Durch die Bereitstellung der Daten und den Austausch mit der Open Data Community setzen sie Datenstandards, die wiederum der Allgemeinheit zu Gute kommen. Die daraus entwickelten Apps und Technologien mobilisieren die Gemeinschaft und vereinfachen Verwaltungswege. Wir sprechen dann von befreiten Daten.
 
 ### Jetzt die Befreiung von Daten unterstützen!
-Offene Daten zur Verfügung stellen.
-Fördergelder für die Erschließung Offener Daten bereitstellen.
-Anwendungen aus Offenen Daten in die eigene Arbeit einbinden.
-Eigene Expertise und Beratung teilen.
+* **Offene Daten zur Verfügung stellen.
+* **Fördergelder für die Erschließung Offener Daten bereitstellen.
+* **Anwendungen aus Offenen Daten in die eigene Arbeit einbinden.
+* **Eigene Expertise und Beratung teilen.
 
 ## Politik
 Entscheidungsträger\*innen in der Politik können ihre Reichweite nutzen, um die Anliegen der Open Data Community auf die politische Agenda zu setzen, sie können sich in Gesetzgebungsprozessen für Transparenz, Offene Daten und Open Government Strategien einsetzen. Im Austausch mit der Community können sie mehr über die Probleme und digitalen Lösungsansätze in ihren Wahlkreisen erfahren und ihre Verantwortung gegenüber den Wähler\*innen stärken.
