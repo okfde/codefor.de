@@ -1,0 +1,240 @@
+//config
+$fontSizeBase: 18px;
+$fontSizeH1: 34px;
+$fontSizeNav: $fontSizeBase + 6px;
+$fontSizeHero: $fontSizeBase + 10px;
+$fontSizeH3: $fontSizeBase + 6px;
+$fontSizeSmall: $fontSizeBase - 3px;
+
+$fontSizeBase-lg: 19px;
+$fontSizeH1-lg: 40px;
+$fontSizeNav-lg: $fontSizeBase-lg + 6px;
+$fontSizeHero-lg: $fontSizeBase-lg + 10px;
+$fontSizeH3-lg: $fontSizeBase-lg + 6px;
+$fontSizeSmall-lg: $fontSizeBase-lg - 3px;
+
+$fontSizeBase-xl: 21px;
+$fontSizeH1-xl: 40px;
+$fontSizeNav-xl: $fontSizeBase-xl + 8px;
+$fontSizeHero-xl: $fontSizeBase-xl + 12px;
+$fontSizeH3-xl: $fontSizeBase-xl + 8px;
+$fontSizeSmall-xl: $fontSizeBase-xl - 3px;
+
+$pageMaxWidth: 1700px;
+
+$codefor-mint: #BFEEEB;
+$codefor-blue: #17B6FF;
+$codefor-red: #FF645F;
+$codefor-green: #70DEA1;
+$codefor-light-grey: #F2F2F2;
+
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/root";
+@import "bootstrap/reboot";
+@import "bootstrap/type";
+@import "bootstrap/images";
+@import "bootstrap/code";
+@import "bootstrap/grid";
+@import "bootstrap/tables";
+@import "bootstrap/forms";
+@import "bootstrap/buttons";
+@import "bootstrap/transitions";
+@import "bootstrap/dropdown";
+@import "bootstrap/button-group";
+@import "bootstrap/input-group";
+@import "bootstrap/custom-forms";
+@import "bootstrap/nav";
+@import "bootstrap/navbar";
+@import "bootstrap/card";
+//@import "bootstrap/breadcrumb";
+@import "bootstrap/pagination";
+//@import "bootstrap/badge";
+//@import "bootstrap/jumbotron";
+//@import "bootstrap/alert";
+//@import "bootstrap/progress";
+@import "bootstrap/media";
+@import "bootstrap/list-group";
+@import "bootstrap/close";
+//@import "bootstrap/modal";
+@import "bootstrap/tooltip";
+@import "bootstrap/popover";
+//@import "bootstrap/carousel";
+@import "bootstrap/utilities";
+@import "bootstrap/print";
+
+
+//Leaflet map
+@import "map";
+
+
+
+
+/*********************
+BASE (MOBILE) SIZE
+This are the mobile styles. It's what people see on their phones. If
+you set a great foundation, you won't need to add too many styles in
+the other stylesheets. Remember, keep it light: Speed is Important.
+*********************/
+
+// styles in base.scss
+@import "breakpoints/base";
+
+
+/*********************
+IPHONE 6
+This is for devices like the Galaxy Note or something that's
+larger than an iPhone but smaller than a tablet. Let's call them
+tweeners.
+*********************/
+@media only screen and (min-width: 375px) {
+
+  // styles in 375up.scss
+  @import "breakpoints/375up";
+
+} // end of media query
+
+/*********************
+IPHONE 6 PLUS
+This is for devices like the Galaxy Note or something that's
+larger than an iPhone but smaller than a tablet. Let's call them
+tweeners.
+*********************/
+@media only screen and (min-width: 576px) {
+
+  // styles in 414up.scss
+  @import "breakpoints/576up";
+
+} // end of media query
+
+/*********************
+IPAD portrait
+This is the average viewing window. So Desktops, Laptops, and
+in general anyone not viewing on a mobile device. Here's where
+you can add resource intensive styles.
+*********************/
+@media only screen and (min-width: 768px) {
+
+  // styles in 768up.scss
+  @import "breakpoints/768up";
+
+} // end of media query
+
+/*********************
+IPAD landscape
+*********************/
+@media only screen and (min-width: 992px) {
+
+  // styles in 1024up.scss
+  @import "breakpoints/992up";
+
+} // end of media query
+
+/*********************
+DESKTOP
+This is the average viewing window. So Desktops, Laptops, and
+in general anyone not viewing on a mobile device. Here's where
+you can add resource intensive styles.
+*********************/
+@media only screen and (min-width: 1030px) {
+
+  // styles in 1030up.scss
+  @import "breakpoints/1030up";
+
+} // end of media query
+
+@media only screen and (min-width: 1150px) {
+
+  // styles in 1150up.scss
+  @import "breakpoints/1150up";
+
+} // end of media query
+
+/*********************
+LARGE VIEWING SIZE (col-lg)
+This is for the larger monitors and possibly full screen viewers.
+*********************/
+@media only screen and (min-width: 1200px) {
+
+  // styles in 1200up.scss
+  @import "breakpoints/1200up";
+
+} // end of media query
+
+@media only screen and (min-width: 1300px) {
+
+  // styles in 1300up.scss
+  @import "breakpoints/1300up";
+
+} // end of media query
+
+@media only screen and (min-width: 1400px) {
+
+  // styles in 1400up.scss
+  @import "breakpoints/1400up";
+
+} // end of media query
+
+/*********************
+EVEN LARGER VIEWING SIZE
+This is for the xlarger monitors and possibly full screen viewers.
+*********************/
+@media only screen and (min-width: 1600px) {
+
+  // styles in 1600up.scss
+  @import "breakpoints/1600up";
+
+} // end of media query
+
+@media only screen and (min-width: 1700px) {
+
+  // styles in 1700up.scss
+  @import "breakpoints/1700up";
+
+} // end of media query
+
+@media only screen and (min-width: 1800px) {
+
+  // styles in 1800up.scss
+  @import "breakpoints/1800up";
+
+} // end of media query
+
+/*********************
+EVEN LARGER VIEWING SIZE (col-xlg)
+*********************/
+@media only screen and (min-width: 1920px) {
+
+  // styles in 1920up.scss
+  @import "breakpoints/1920up";
+
+} // end of media query
+
+/*********************
+RETINA (2x RESOLUTION DEVICES)
+This applies to the retina iPhone (4s) and iPad (2,3) along with
+other displays with a 2x resolution. You can also create a media
+query for retina AND a certain size if you want. Go Nuts.
+*********************/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min--moz-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5) {
+
+  // styles in 2x.scss
+  @import "breakpoints/2x";
+
+} // end of media query
+
+/*********************
+PRINT STYLESHEET
+Feel free to customize this. Remember to add things that won't make
+sense to print at the bottom. Things like nav, ads, and forms should
+be set to display none.
+*********************/
+@media print {
+
+  // styles in print.scss
+  @import "breakpoints/print";
+
+}

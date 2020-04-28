@@ -1,0 +1,29 @@
+<div id="nav-wrap" class="bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand d-flex" href="/">
+      <div class="w-100">
+        <img class="img-fluid" src="/img/logo.svg" alt="logo">
+      </div>
+      <div class="d-none d-sm-flex flex-column ml-3">
+        <span>for</span>
+        <span>Germany</span>
+      </div>
+    </a>
+  
+    <button class="navbar-toggler align-self-center" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+      <ul class="navbar-nav justify-content-around mr-3 mt-4 mt-lg-0">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        {{if ne .Weight 0}}
+        <li class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{ end }}">
+            <a class="nav-link px-3" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </nav>
+</div>

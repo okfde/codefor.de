@@ -22,6 +22,9 @@ collaborators:
     - url: https://twitter.com/martinschurig
       name: Twitter
 
+tags:
+- Mobilität
+
 ---
 
 Die Blitzerkarte visualisiert täglich Straßen, auf denen die Stadt möglicherweise mobile Geschwindigkeitskontrollen durchführt. Die Daten werden freundlicherweise bereitgestellt durch das Ordnungsamt der Stadt Essen

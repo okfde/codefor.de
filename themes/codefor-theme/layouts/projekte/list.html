@@ -1,0 +1,62 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+<div class="row justify-content-center mt-6">
+    <div class="col-24 col-md-22 col-lg-22 col-xl-20 ">
+
+
+      <div class="d-flex flex-column flex-lg-row justify-content-center mb-5" id="filters">
+
+            <button data-filter="Umwelt" class="btn btn-outline-dark mx-2 my-2" href="{{ .Page.Permalink }}">
+              <img class="ml-2 img-fluid taxonomie-icon" src="/img/taxonomie-icon/umwelt.svg" alt="Filter Umwelt">
+              <span>Umwelt</span>
+            </button>
+            <button data-filter="Politik" class="btn btn-outline-dark mx-2 my-2" href="{{ .Page.Permalink }}">
+              <img class="ml-2 img-fluid taxonomie-icon" src="/img/taxonomie-icon/politik.svg" alt="Filter Politik">
+              <span>Politik</span>
+            </button>
+            <button data-filter="Gesellschaft" class="btn btn-outline-dark mx-2 my-2" href="{{ .Page.Permalink }}">
+              <img class="ml-2 img-fluid taxonomie-icon" src="/img/taxonomie-icon/gesellschaft.svg" alt="Filter Gesellschaft">
+              <span>Gesellschaft</span>
+            </button>
+            <button data-filter="Mobilität" class="btn btn-outline-dark mx-2 my-2" href="{{ .Page.Permalink }}">
+              <img class="ml-2 img-fluid taxonomie-icon" src="/img/taxonomie-icon/mobilitaet.svg" alt="Filter Mobilität">
+              <span>Mobilität</span>
+            </button>
+
+      </div>
+
+        <div class="row mb-5 mb-md-7" id="projects-container">
+          {{ range where .Pages ".Params.showcase" true }}
+            {{ partial "project-preview.html" . }}
+          {{ end }}  
+          {{ range where .Pages ".Params.draft" false }}
+            {{ partial "project-preview.html" . }}
+          {{ end }}
+        </div>
+    </div>
+</div>
+
+<script>
+$( document ).ready(function() {
+  
+  $('#filters button').click(function(){
+    var filter = $(this).data('filter');
+    $('#projects-container > div').show();
+    if($(this).hasClass('active')){
+      $(this).removeClass('active');
+    }
+    else{
+      $('#filters button').removeClass('active');
+      $(this).addClass('active');
+      $('#projects-container > div').not('.'+filter).hide();
+    }
+  });
+
+});
+</script>
+
+{{ end }}
+
+

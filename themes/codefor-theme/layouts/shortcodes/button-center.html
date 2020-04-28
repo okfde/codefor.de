@@ -1,0 +1,5 @@
+<div class="d-flex justify-content-center">
+    <a class="btn btn-outline-dark {{ .Get "class" }} " href="{{ .Get "href" }} ">
+        {{ .Inner | markdownify }}
+    </a>
+</div>

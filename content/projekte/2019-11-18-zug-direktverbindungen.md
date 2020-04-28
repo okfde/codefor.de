@@ -7,7 +7,6 @@ status: Finished
 showcase: true
 
 links:
-
 - url: https://direkt.bahn.guru
   name: Projekt-Website
 
@@ -19,6 +18,11 @@ collaborators:
   links:
     - url: https://github.com/juliuste
       name: GitHub
+
+tags:
+- Umwelt
+- Mobilität
+
 
 ---
 

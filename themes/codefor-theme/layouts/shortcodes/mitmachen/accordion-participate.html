@@ -1,0 +1,32 @@
+<div class="row justify-content-center my-8">
+	<div class="col-22 col-md-18 col-lg-16 col-xl-15">
+		<div class="accordion" id="accordionCode">
+
+		{{ range $index, $element := $.Site.Data.mitmachen }}
+		<div class="card">
+			<div class="card-header px-0" id="heading-participate-{{ $index }}">
+				<div class="d-flex justify-content-between">
+					<button class="btn btn-link text-dark collapsed pl-0" type="button" data-toggle="collapse" data-target="#collapse-participate-{{ $index }}" aria-expanded="true" aria-controls="collapse-participate-{{ $index }}">
+						<h3>{{ $element.title }}</h3>
+					</button>
+					<button class="collapsed btn btn-close" type="button" data-toggle="collapse" data-target="#collapse-participate-{{ $index }}" aria-expanded="true" aria-controls="collapse-participate-{{ $index }}">
+						<img class="img-fluid" src="/img/close-icon.svg">
+					</button>
+				</div>
+
+			</div>
+			
+			<div id="collapse-participate-{{ $index }}" class="collapse" aria-labelledby="heading-participate-{{ $index }}" data-parent="#accordionCode">
+				<div class="card-body py-0">
+					<div class="row justify-content-center">
+						<div class="col-20 py-4">
+							{{ $element.txt | markdownify }}
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		{{ end }}
+		</div>
+	</div>
+</div>

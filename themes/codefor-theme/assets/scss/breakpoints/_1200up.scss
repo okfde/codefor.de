@@ -1,0 +1,52 @@
+
+
+h1,h2{
+    font-size: $fontSizeH1-xl;
+  }
+  
+  h3{
+    font-size: $fontSizeH3-xl;
+    margin-top: 20px;
+  }
+  
+  body{
+    font-family: apercu-regular-pro;
+    font-size: $fontSizeBase-xl;
+  }
+  
+  footer{
+    font-size: $fontSizeSmall-xl !important;
+    h3{
+      font-size: $fontSizeH3-xl;
+    }
+    h4{
+      font-size: $fontSizeBase-xl;
+    }
+  }
+  
+  small{
+    font-size: $fontSizeSmall-xl;
+  }
+  
+  .text-hero{
+    font-size: $fontSizeHero-xl;
+  }
+  
+  nav.navbar{
+    .navbar-brand{
+      font-size: $fontSizeNav-xl;
+      line-height: $fontSizeNav-xl - 2;
+    }
+  }
+
+
+.headline-brackets{
+    span:first-child{
+      font-size: $fontSizeH1-xl + 28px;
+      margin-top: 4px;
+    }
+    span:last-child{
+      font-size: $fontSizeH1-xl + 28px;
+      margin-top: 4px;
+    }
+}

@@ -1,0 +1,83 @@
+{{ if ne .Site.Params.hideFooter true }}
+<footer id="footer {{ if  not .Params.footerHideTopMargin }}mt-6{{ end }}">
+  <div class="container-fluid text-center text-sm-left">
+    
+    
+    <diw class="row">
+      <div class="col-md-12 d-flex align-items-center bg-primary px-7 py-5 px-sm-10 px-md-5 p-lg-7 p-xl-10">
+        <div class="w-100">
+          <img src="/img/icons-donate.svg" class="img-fluid" alt="" />
+        </div>
+      </div>
+      <div class="col-md-12 d-flex align-items-center bg-light">
+        <div class="row justify-content-center w-100">
+          <div class="col-24 col-lg-20 p-5 p-sm-6 text-left">
+            <h3>Spenden</h3>
+            <p>
+              Code for Germany ist ein Projekt der Open Knowledge Foundation. Um
+              die Arbeit der OK Labs bestmöglich zu unterstützen, sind wir auf
+              Spenden und Fördergelder angewiesen. Um Daten zu befreien, musst
+              du also nicht selbst zum Code greifen, sondern kannst auch
+              diejenigen finanziell fördern, die dich mit Civic Tech bereichern.
+            </p>
+            <a class="btn btn-outline-dark btn-lg mt-2" href="/spenden">Spende</a>
+          </div>
+        </div>
+      </div>
+    </diw>
+
+    <div class="footbar row justify-content-center my-6">
+      <div class="col-24 col-sm-20 col-md-23 col-lg-20">
+        <div class="row">
+          <div class="col-24 col-sm-12 col-md-6 col-lg-6 mt-3 mt-sm-0">
+            <h4>Rechtliches</h4>
+            <ul class="list-unstyled">
+              <li><a class="text-dark" href="/impressum">Impressum</a></li>
+              <li><a class="text-dark" href="/datenschutz">Datenschutz</a></li>
+              <li><a class="text-dark" href="/grundsaetze">Grundsätze</a></li>
+              <li><a class="text-dark" href="https://okfn.de/">OKF e.V.</a></li>
+            </ul>
+          </div>
+    
+          <div class="col-24 col-sm-12 col-md-6 col-lg-6 mt-3 mt-sm-0">
+            <h4>Werkzeugkoffer</h4>
+            <ul class="list-unstyled">
+              <li>
+                <a class="text-dark" href="http://opendatahandbook.org">opendatahandbook.org</a>
+              </li>
+              <li>
+                <a class="text-dark" href="https://upload.wikimedia.org/wikipedia/commons/a/a9/ABC_der_Offenheit_-_Brosch%C3%BCre_%282019%29.pdf">ABC der Offenheit</a>
+              </li>
+              <li>
+                <a class="text-dark" href="/faq">FAQ</a>
+              </li>
+            </ul>
+          </div>
+    
+          <div class="col-24 col-sm-12 col-md-6 col-lg-6 mt-3 mt-sm-5 mt-lg-0">
+            <h4>Folge uns!</h4>
+            <ul class="list-unstyled">
+              <li><a href="https://github.com/okfde"><img src="/img/github.svg" class="img-fluid footer-social-icon" alt="Github"></a></li>
+              <li><a href="https://twitter.com/codeforde"><img src="/img/twitter.svg" class="img-fluid footer-social-icon" alt="twitter"></a></li>
+            </ul>
+          </div>
+    
+          <div class="col-24 col-sm-12 col-md-6 col-lg-6 mt-3 mt-sm-5 mt-lg-0 ">
+            <h4>Ein Projekt der</h4>
+            <ul class="list-unstyled">
+              <li><a href="https://okfn.de"><img class="img-fluid" style="width: 180px;margin-left:-10px;" src="/img/open-knowledge.svg" alt="Open Knowledge Foundation"></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row border-top py-4 ">
+      <div class="col text-center">
+        Diese Website wurde gebaut mit viel <img class="img-fluid"  style="width: 22px;" src="/img/heart.svg" alt="heart icon">, ehrenamtlicher Arbeit, Hugo und Bootstrap.
+      </div>
+    </div>
+
+  </div>
+</footer>
+{{ end }}

@@ -1,0 +1,85 @@
+#lab-map-wrapper{
+    width: 100%;
+    padding-bottom: 150%;
+    position: relative;
+    @media(orientation: landscape){
+      padding-bottom: 100%;
+    }
+  }
+  #lab-map{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .leaflet-marker-icon-wrapper {
+    position: absolute;
+  }
+  
+  .leaflet-marker-iconlabel.label-left {
+    right: 4px;
+    position: absolute;
+  }
+  
+  .leaflet-marker-iconlabel {
+    background: white;
+    background: rgba(255,255,255,0.75);
+    display: block;
+    font-family: "Apercu Mono Pro Regular", 'Andale Mono', sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 4px 6px;
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    white-space: nowrap;
+    a{
+      color: $codefor-red;
+    }
+  }
+
+
+  .lab-map-dropdown{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    top: 50px;
+    z-index: 20000;
+    width: 300px;
+
+    .show{
+      .dropdown-toggle {
+        img{
+          transform: rotate(180deg);
+        }
+      }
+    }
+
+    .dropdown-toggle{
+      width: 100%;
+      background-color: #fff;
+      text-align: left;
+      display: flex;
+      justify-content: space-between;
+      margin-top: 10px;
+
+        img{
+          width: 20px;
+          height: 20px;
+          transition: all .1s;
+        }
+
+      &:after{
+        display: none;
+      }
+    }
+
+    .dropdown-menu{
+      border: 1px solid #000;
+      margin-left: -5px;
+      width: 100%;
+    }
+  }

@@ -197,6 +197,19 @@ links:
 leads:
 - name: E-Mail
   url: mailto:berlin@codefor.de
+
+
+calendar:
+- title: Testeintrag Weihnachtsfeier
+  date: 23.12.2020
+  location: Alexanderplatz
+  url: https://google.com
+- title: Oktoberfest
+  date: 10.10.2020
+  location: Alexanderplatz
+  url: https://google.com
+
+
 ---
 
 Willkommen beim Berliner OK Lab! Wir sind etwa 30 Leute und arbeiten in verschiedenen Gruppen an Projekten rund um Open Data und Civic Tech. Wir kommen aus ganz verschiedenen Bereichen, entsprechend behandeln auch die Projekte an denen wir arbeiten ganz unterschiedliche Themen.

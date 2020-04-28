@@ -1,0 +1,383 @@
+
+
+
+@font-face {
+  font-family: 'apercu-regular-pro';
+  src: url('/font/apercu-regular-pro.eot');
+  src: url('/font/apercu-regular-pro.eot?#iefix') format('embedded-opentype'),
+       url('/font/apercu-regular-pro.woff2') format('woff2'),
+       url('/font/apercu-regular-pro.woff') format('woff'),
+       url('/font/apercu-regular-pro.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+#main{
+  padding-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.max-width-container{
+  max-width: $pageMaxWidth;
+}
+
+//---------------------------------------------------
+// font sizes
+h1,h2{
+  font-size: $fontSizeH1;
+}
+
+h3{
+  font-size: $fontSizeH3;
+  margin-top: 20px;
+}
+
+body{
+  font-family: apercu-regular-pro;
+  font-size: $fontSizeBase;
+}
+
+footer{
+  font-size: $fontSizeSmall !important;
+  h3{
+    font-size: $fontSizeH3;
+  }
+  h4{
+    font-size: $fontSizeBase;
+  }
+}
+
+small{
+  font-size: $fontSizeSmall;
+}
+
+.text-hero{
+  font-size: $fontSizeHero;
+}
+
+nav.navbar{
+  .navbar-brand{
+    font-size: $fontSizeNav;
+    line-height: $fontSizeNav - 2;
+  }
+}
+
+//---------------------------------------------------
+// text formating
+//underline text in md file
+.text-underline{
+  text-decoration: underline;
+}
+
+a{
+  color: #000;
+  text-decoration: underline;
+}
+
+/* unvisited link */
+a:link {
+  color: #000;
+}
+
+/* visited link */
+a:visited {
+  color: #000;
+}
+
+/* mouse over link */
+a:hover {
+  color:#000;
+}
+
+/* selected link */
+a:active {
+  color: #000;
+}
+
+
+//---------------------------------------------------
+//headline brackets style
+.headline-brackets{
+  span:first-child{
+    font-size: $fontSizeH1 + 28px;
+    margin-top: 4px;
+  }
+  span:last-child{
+    font-size: $fontSizeH1 + 28px;
+    margin-top: 4px;
+  }
+  &.red{
+    span:first-child{
+      color: $codefor-red;
+    }
+    span:last-child{
+      color: $codefor-red;
+    }
+  }
+  &.blue{
+    span:first-child{
+      color:$codefor-blue;
+    }
+    span:last-child{
+      color:$codefor-blue;
+    }
+  }
+}
+
+//---------------------------------------------------
+// Icons
+
+// headline icon style
+.headline-icon{
+  &.blue{
+    img{
+      filter: hue-rotate(226deg) brightness(1.4);
+    }
+  }
+  img{
+    width: 80px;
+    height: auto;
+  }
+}
+
+// more icon styles
+.lab.icon{
+  width: 100px;
+  height: auto;
+}
+
+.taxonomie-icon{
+  width: 30px;
+  height: 30px;
+  filter: brightness(0);
+}
+
+.ext-link-icon{
+  width: 30px;
+  height: 30px;
+}
+
+
+//---------------------------------------------------
+// Buttons
+.btn{
+  text-transform: uppercase;
+  padding: .6rem 1.3rem;
+  box-shadow: none !important;
+  text-decoration: none;
+}
+
+.btn-outline-dark{
+  min-width: 220px;
+  &.active{
+    color: $codefor-red !important;
+    background-color: #fff;
+    border-color: $codefor-red !important;
+    img{
+      filter:none;
+    }
+  }
+}
+
+.btn-outline-dark:hover, .btn-outline-dark:not(:disabled):not(.disabled):active, .btn-outline-dark:not(:disabled):not(.disabled).active, .show > .btn-outline-dark.dropdown-toggle {
+  color: #343a40;
+  background-color: #fff;
+  border-color: #343a40;
+}
+
+
+//---------------------------------------------------
+//nav
+nav.navbar{
+  max-width: $pageMaxWidth;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: flex-start;
+  .navbar-brand{
+    font-size: $fontSizeNav;
+    width: 160px;
+    line-height: $fontSizeNav - 2;
+    text-decoration: none;
+  }
+  #navbarNav{
+    li{
+      &.active{
+        a{
+          text-decoration: underline;
+        }
+      }
+      a{
+        color: #000;
+        font-size: $fontSizeNav;
+        white-space: nowrap;
+        text-decoration: none;
+      }
+    }
+  }
+  .navbar-toggler{
+    border: none;
+    color: #000;
+    .navbar-toggler-icon {
+      width: 2em;
+      height: 2em;
+  }
+  }
+}
+
+
+//---------------------------------------------------
+//footer
+footer{
+  .footbar{
+    h4{
+      text-transform: uppercase;
+    }
+  }
+  .footer-social-icon{
+    width: 30px;
+    margin-bottom: 13px;
+  }
+}
+
+
+//---------------------------------------------------
+// Color
+
+//background helpers
+.bg-codefor-mint{
+  background-color: $codefor-mint;
+}
+.bg-codefor-green{
+  background-color: $codefor-green;
+}
+.bg-codefor-red{
+  background-color: $codefor-red;
+}
+
+
+
+.circle-123{
+  width: 45px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: $fontSizeH3;
+}
+
+.circle-123-line{
+  position: absolute; 
+  border-top: 2px solid #000; 
+  width: calc(100% - 33%); 
+  left: 16%; 
+  top: 50%;
+  z-index: -1;
+}
+
+
+
+.project-preview-img{
+  width: 100%;
+  padding-bottom: 56%; // 16:9 format
+  background-size: cover;
+
+}
+
+
+.blog-content{
+  img{
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+
+//---------------------------------------------------
+//style accordion goals
+#accordionGoals{
+  .card{
+    transition: border 0.3s, background-color 0.3s, margin-top 0s;
+    border: 1px solid #000;
+    margin-top:-1px;
+    border-radius: 6px;
+    &.open{
+      margin-top:0px;
+      border: 1px solid $codefor-mint;
+      background-color: $codefor-mint;
+      .btn-close{
+        transform: rotate(0deg) !important;
+      }
+    }
+    .card-header{
+      background-color: rgba(0,0,0,0);
+      border-bottom: none;
+      .btn-link{
+        text-align: left;
+        white-space: normal;
+      }
+      .btn-close{
+        &:focus{
+          outline:none !important;
+          box-shadow: none;
+        }
+        transform: rotate(45deg);
+        padding: 11px;
+        width: 40px;
+        height: auto;
+        background-color: rgba(0,0,0,0);
+        transition: all 0.2s;
+      }
+    }
+    .card-body{
+      .row > div{
+        background-color: #fff;
+      }
+    }
+  }
+  
+}
+
+
+//---------------------------------------------------
+//style general accordion
+#accordionCode{
+  .card{
+    transition: border 0.3s, background-color 0.3s, margin-top 0s;
+    border: none;
+    border-top: 1px solid #000;
+    border-radius: 0;
+    padding: 16px 0;
+
+    &.open{
+      .btn-close{
+        transform: rotate(0deg) !important;
+      }
+    }
+    .card-header{
+      background-color: rgba(0,0,0,0);
+      border-bottom: none;
+      h3{
+        white-space: normal;
+        margin: 0;
+        padding: 0;
+      }
+      .btn-close{
+        &:focus{
+          outline:none !important;
+          box-shadow: none;
+        }
+        transform: rotate(45deg);
+        padding: 5px;
+        width: 30px;
+        height: 30px;
+        background-color: rgba(0,0,0,0);
+        transition: all 0.2s;
+      }
+    }
+  }
+}
+
