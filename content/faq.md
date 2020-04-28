@@ -3,6 +3,14 @@ title: FAQ – Die häufigsten Fragen
 include_footer: true
 ---
 
+{{< headline-icon icon="icon-bracket.svg" color="blue" >}}
+
+
+{{< headline-brackets-h1 color="red"  >}}
+FAQ
+{{< /headline-brackets-h1  >}}
+
+{{< paragraph-center  >}}
 ### Wie gründe ich ein OK Lab?
 Du willst auch etwas mit Offenen Daten machen und Teil des Netzwerks werden, dass sich für einen nachhaltigen, digitalen Wandel einsetzt? Dann gründe doch ein OK Lab in deiner Stadt!
 
@@ -37,3 +45,4 @@ Schaut euch an, welche Offenen Daten es in eurer Stadt gibt, wer Ansprechpersone
 Informiert euch zusammen über Offene Daten und Open Government, macht euch mit den Grundsätzen von Code for Germany vertraut und identifiziert Themen, mit denen ihr euch beschäftigen wollt.
 
 7. **Bleibt in Kontakt, haltet Treffen ab und taucht in das Code for Germany Universum ein.**
+{{< /paragraph-center  >}}

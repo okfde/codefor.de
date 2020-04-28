@@ -21,6 +21,11 @@ collaborators:
 - name: Luca
 - name: Kai
 
+
+tags:
+- Politik
+- Gesellschaft
+
 ---
 
 Verschiedenste spannende Visualisierungen der Karlsruher Wahldaten für die Bundestagswahl 2017. Interaktive Karte und Analysen.

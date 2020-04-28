@@ -1,0 +1,53 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+{{ $paginator := .Paginate (.Pages) }}
+
+
+<div class="row justify-content-center mt-6">
+    <div class="col-24 col-md-22 col-lg-17">
+        <div class="row" id="blog-entries-container" data-total-pages="{{$paginator.TotalPages}}"> 
+            
+            {{ range first 1 $paginator.Pages }}
+                {{ partial "blog-preview.html" . }}
+            {{ end }}
+
+            {{if eq $paginator.PageNumber 1}}
+            <div class="col-24 col-md-12 mb-5 mb-md-7 project-preview-container twitter-container" >
+                <a class="twitter-timeline" data-height="100%" href="https://twitter.com/codeforde?ref_src=twsrc%5Etfw">Tweets by codeforde</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+            {{end}}
+
+            {{ range after 1 $paginator.Pages }}
+            {{ partial "blog-preview.html" . }}
+            {{ end }}
+
+        </div>
+    </div>
+</div>
+
+<script>
+$( document ).ready(function() {
+
+    var totalPages = $('#blog-entries-container').data('total-pages');
+    var currentpage = 1;
+    var loading = false;
+    $(window).scroll(function () {
+        if ($(document).height() - $(this).height()  <= ($(this).scrollTop() + $('footer').height())) {
+            currentpage++;
+            if(currentpage<totalPages && !loading){
+            loading = true;
+            $.get( "/blog/page/"+currentpage, function( data ) {
+                $('#blog-entries-container').append($(data).find('.project-preview-container'));
+                lazybackgroundimage();
+                loading = false;
+            });
+            }
+        }
+    }); 
+    
+});
+</script>
+
+{{ end }}

@@ -1,0 +1,40 @@
+<div class="col-24 col-md-12 col-lg-8 col-xl-8 mb-3  {{ range (.GetTerms "tags") }}{{ .LinkTitle }} {{end}}">
+  <div class="card border-dark h-100" href="{{.Permalink}}">
+    <div class="card-header border-bottom-0 bg-white ">
+      <ul class="d-flex list-unstyled justify-content-end m-0 p-0">
+        {{ range (.GetTerms "tags") }}
+
+            <li class="pl-3">
+
+              {{ if eq .LinkTitle "Umwelt" }}
+              <img class="img-fluid taxonomie-icon" src="/img/taxonomie-icon/umwelt.svg" alt="{{.LinkTitle}}">
+              {{ else if eq .LinkTitle "Politik" }}
+              <img class="img-fluid taxonomie-icon" src="/img/taxonomie-icon/politik.svg" alt="{{.LinkTitle}}">
+              {{ else if eq .LinkTitle "Gesellschaft" }}
+              <img class="img-fluid taxonomie-icon" src="/img/taxonomie-icon/gesellschaft.svg" alt="{{.LinkTitle}}">
+              {{ else if eq .LinkTitle "Mobilität" }}
+              <img class="img-fluid taxonomie-icon" src="/img/taxonomie-icon/mobilitaet.svg" alt="{{.LinkTitle}}">
+              {{ else }}
+              {{ .LinkTitle }}
+              {{ end }}
+                
+            </li>
+      {{ end }}
+    </ul>
+    </div>
+
+    <div class="card-body p-4">
+      <a class="text-dark" href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
+      <div class="text-dark" >
+        {{.Params.Excerpt}}
+        {{.Content | truncate 200 }}
+      </div>
+    </div>
+    <div class="card-footer border-top-0 bg-white d-flex justify-content-between">
+      {{ range .Params.lab }}
+      {{ with $.Site.GetPage (printf "/labs/%s.md" . ) }}<a class="text-danger" href="{{ .Permalink }}">{{ .Title }}</a>{{ end }}
+      {{ end }}
+      <span class="text-right">{{.Params.status}}</span>
+    </div>
+  </div>
+</div>

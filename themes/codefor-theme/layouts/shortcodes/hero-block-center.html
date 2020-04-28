@@ -1,0 +1,2 @@
+{{ $txt := .Inner | markdownify }}
+{{ partial "hero-block-center.html" (dict "context" . "txt" $txt ) }}

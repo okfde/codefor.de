@@ -23,6 +23,9 @@ collaborators:
   - url: http://github.com/malteos
     name: GitHub
 
+tags:
+- Politik
+
 ---
 
 Open Legal Data ist eine freie juristische Datenbank für Gesetze und Urteile.

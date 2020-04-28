@@ -1,99 +1,48 @@
-baseURL: https://dev.codefor.de
+baseURL: https://dev.rgb3000.com
 languageCode: de-DE
 title: Code for Germany
-theme: hugo-cfg
-#Disables warnings
-disableKinds:
- -taxonomy
- -taxonomyTerm
-pluralizeListTitles: false
+theme: codefor-theme
+
+
 frontmatter:
   date: [":filename", ":default"]
 
-params:
-  # Used as meta data; describe your site to make Google Bots happy
-  description:
-  navbarlogo:
-   image: /img/CFG_logo.svg
-   link: /
-  font:
-    name: "Open Sans"
-    sizes: [400,600]
-  hero:
-    # Main hero title
-    title: Code for Germany
-    # Hero subtitle (optional)
-    subtitle: Wir sind ein Netzwerk offener Stadtlabore und bauen digitale Werkzeuge für alle!
-    # Button text
-    buttontext: Werde Stadtentwickler*in!
-    # Where the main hero button links to
-    buttonlink: "labs"
-    # Hero image (from static/images/___)
-    image: illustrations/worker.svg
-    # Footer logos (from static/images/logos/clients/___.svg)
-    #clientlogos:
-    #- systek
-    #- tribe
-    #- kromo
-    #- infinite
-    #- gutwork
-  # Customizable navbar. For a dropdown, add a "sublinks" list.
-  navbar:
-  - title: Über uns
-    url: /ueber/
-  - title: Projekte
-    url: /projekte/
-  - title: Themen
-    url: /themen/
-  - title: Mitmachen
-    url: /labs/
-  - title: Blog
-    url: /blog/
-    button: false
 
-  footer:
-    logo: /img/CFG_logo_white.svg
-    # Social Media Title
-    socialmediatitle: Folge uns!
-    # Social media links (GitHub, Twitter, etc.). All are optional.
-    socialmedia:
-    - link: https://github.com/okfde/codefor.de
-      # Icons are from Font Awesome
-      icon: github
-    - link: https://twitter.com/codeforde
-      icon: twitter
-    bulmalogo: true
-    quicklinks:
-      column1:
-        title: "Rechtliches"
-        links:
-        - text: Impressum
-          link: /impressum/
-        - text: Datenschutz
-          link: /impressum/#datenschutzerklaerung
-        - text: Grundsätze
-          link: /grundsaetze/
-        - text: OKF e.V.
-          link: https://okfn.de/
-      column2:
-        title: "Werkzeugkoffer"
-        links:
-        - text: Github (extern)
-          link: https://github.com/okfde
-        - text: opendatahandbook.org
-          link: https://opendatahandbook.org/
-        - text: ABC der Offenheit
-          link: https://upload.wikimedia.org/wikipedia/commons/a/a9/ABC_der_Offenheit_-_Brosch%C3%BCre_%282019%29.pdf
-        - text: FAQ
-          link: /faq/
-      column3:
-        title: "Über uns"
-        links:
-        - text: Blog
-          link: /blog/
-        - text: Projekte
-          link: /projekte/
-        - text: Die Labs
-          link: /labs/
-        - text: Unterstützen
-          link: /mitmachen/unterstuetzen/
+sectionPagesMenu: "main"
+
+
+taxonomies:
+  category: categories
+  tag: tags
+
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: true
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
