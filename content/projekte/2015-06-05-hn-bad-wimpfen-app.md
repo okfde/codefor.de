@@ -31,4 +31,4 @@ Wir von Code For Heilbronn haben uns was anderes überlegt und in Zusammenarbeit
 
 Weitere Infos im <a href="http://blog.opendatalab.de/opendata/2015/04/29/bad-wimpfen-app/">OpenDataLab Blogpost</a>.
 
-<a href="https://itunes.apple.com/app/apple-store/id989719442?pt=74937800&amp;ct=CODEFORHN&amp;mt=8"><img src="http://blog.opendatalab.de/assets/app-store-badge.svg" alt="App Store" title="App Store"></a>
+<a href="https://itunes.apple.com/app/apple-store/id989719442?pt=74937800&amp;ct=CODEFORHN&amp;mt=8"><img src="https://blog.opendatalab.de/assets/app-store-badge.svg" alt="App Store" title="App Store"></a>
