@@ -9,12 +9,12 @@
 						<div class="px-md-4 w-100">
 							<img class="img-fluid p-2" src="/icons/{{ $element.icon }}">
 						</div>
-						<div class="text-center">{{$element.iconCaption}}</div>
+						<div class="text-center mb-3">{{$element.iconCaption | markdownify }}</div>
 					</div>
 					<div class="col-24 col-sm-19 col-xl-20">
-						<div class="row">
-							<div class="col-24 col-sm-20">
-								<button class="btn btn-link collapsed text-dark mt-2" type="button" data-toggle="collapse" data-target="#collapse-{{ $index }}" aria-expanded="true" aria-controls="collapse-{{ $index }}">
+						<div class="row h-100">
+							<div class="col-24 col-sm-20 d-flex h-100">
+								<button class="btn btn-link collapsed text-dark mt-2 no-text-transform align-self-center" type="button" data-toggle="collapse" data-target="#collapse-{{ $index }}" aria-expanded="true" aria-controls="collapse-{{ $index }}">
 									{{ $element.title }}
 								</button>
 							</div>

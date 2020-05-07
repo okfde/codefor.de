@@ -23,7 +23,10 @@
       </div>
       {{ end }}
 
-      {{ .Content }}
+        <div class="freetext-container">
+            {{ .Content }}
+        </div>
+
 
 
       <div class="row justify-content-center my-8">
@@ -46,18 +49,22 @@
               <div class="card-body py-0">
                 <div class="row justify-content-center">
                   <div class="col-20 py-4">
-                    {{ range .Params.Collaborators }}
-                    <strong>{{ .name }}</strong>
-                    {{ range .links }}
-                      {{ if in .url "github"}}
-                      <a href="{{ .url }}"><img class="ext-link-icon m-2" src="/img/github.svg" alt="Link to Github"></a>
-                      {{ else if in .url "github"}}
-                      <a href="{{ .url }}"><img class="ext-link-icon m-2" src="/img/twitter.svg" alt="Link to twitter"></a>
-                      {{ else}}
-                        <a href="{{ .url }}">{{ .name }}</a>
-                      {{ end }}
-                    {{ end }}
-                    {{ end }}
+                    <ul class="list-unstyled mb-5">
+                      {{ range .Params.Collaborators }}
+                      <li class="d-flex justify-content-center p-2">
+                          <strong>{{ .name }}</strong>&nbsp;&nbsp;&nbsp;
+                        {{ range .links }}
+                          {{ if in .url "github"}}
+                          <a href="{{ .url }}"><img class="ext-link-icon mx-2" src="/img/github.svg" alt="Link to Github"></a>
+                          {{ else if in .url "github"}}
+                          <a href="{{ .url }}"><img class="ext-link-icon mx-2" src="/img/twitter.svg" alt="Link to twitter"></a>
+                          {{ else}}
+                            <a href="{{ .url }}">{{ .name }}</a>
+                          {{ end }}
+                        {{ end }}
+                        {{ end }}
+                      </li>
+                    </ul>
                   </div>
                 </div>
               </div>
@@ -82,7 +89,7 @@
                   <div class="col-20 py-4">
                     <ul class="list-unstyled mb-5">
                       {{ range .Params.Links }}
-                      <li>
+                      <li class="d-flex justify-content-center p-2">
                         <a href="{{ .url }}">{{ .name }}</a>
                       </li>
                       {{ end }}
@@ -113,7 +120,7 @@
                       <div class="lab-icon d-flex justify-content-center">
                         {{ range .Params.lab }}
                         {{ with $.Site.GetPage (printf "/labs/%s.md" . ) }}
-                          <div>
+                          <div class="d-flex flex-column justify-content-center align-items-center">
                             <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
                             <div class="text-center text-hero">{{.Title}}</div>
                           </div>

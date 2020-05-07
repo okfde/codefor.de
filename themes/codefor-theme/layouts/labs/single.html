@@ -4,17 +4,24 @@
     <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
 </div>
 
-<h1 class="text-center">{{.Title}}</h1>
+<h1 class="text-center mb-4 mb-lg-6">{{.Title}}</h1>
+
+<!-- hier den Param aus dem Frontmatter einsetzten -->
+{{$hero := "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. "}}
+{{ partial "hero-block-center.html" (dict "context" . "txt" $hero ) }}
+
 
 {{ $txt := .Content }}
-{{ partial "paragraph-center.html" (dict "context" . "txt" $txt ) }}
+<div class="freetext-container">
+    {{ partial "paragraph-center.html" (dict "context" . "txt" $txt ) }}
+</div>
 
 
 <div class="row justify-content-center my-8">
 	<div class="col-22 col-md-18 col-lg-16 col-xl-15">
 		<div class="accordion" id="accordionCode">
             
-            <div class="card">
+            <div class="card open">
                 <div class="card-header px-0" id="heading-participate-1">
                     <div class="d-flex justify-content-between">
                         <button class="btn btn-link text-dark collapsed pl-0" type="button" data-toggle="collapse" data-target="#collapse-participate-1" aria-expanded="true" aria-controls="collapse-participate-1">
@@ -27,14 +34,14 @@
 
                 </div>
                 
-                <div id="collapse-participate-1" class="collapse" aria-labelledby="heading-participate-1" data-parent="#accordionCode">
+                <div id="collapse-participate-1" class="collapse show" aria-labelledby="heading-participate-1" data-parent="#accordionCode">
                     <div class="card-body py-0">
                         <div class="row justify-content-center">
                             <div class="col-20 py-4">
                                 <ul class="list-unstyled mb-5">
                                     {{ range .Params.Leads }}
-                                    <li>
-                                        <a class="d-block text-center text-dark" href="{{ .url }}">{{ .name }}</a>
+                                    <li class="d-flex justify-content-center p-2">
+                                        <a class="d-block text-dark" href="{{ .url }}">{{ .name }}</a>
                                     </li>
                                     {{ end }}
                                 </ul>

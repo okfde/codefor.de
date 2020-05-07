@@ -1,4 +1,4 @@
-<div class="col-24 col-md-12 mb-5 mb-md-7 project-preview-container">
+<div class="col-24 col-md-12 mb-5 mb-md-6 project-preview-container">
   <div class="project-preview">
     <a class="text-dark" href="{{.Permalink}}">
     {{ if isset .Params "images" }}
@@ -11,8 +11,9 @@
       <div class="project-preview-img lazyload" data-style="background-image: url('/blog/header_images/default.png')"></div>
     {{ end }}
     </a>
-    <small class="d-block my-2">{{ .Date.Format "02.01.2006" }}</small>
-    <a class="text-dark" href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
+
+    <small class="d-block mt-3 mb-2">{{ .Date.Format "02.01.2006" }}</small>
+    <a class="text-dark no-underline" href="{{.Permalink}}"><h3 class="mt-0">{{.Title}}</h3></a>
   
   </div>
 </div>

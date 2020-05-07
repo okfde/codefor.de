@@ -2,7 +2,7 @@
 
 {{ .Content }}
 
-{{ $paginator := .Paginate (.Pages) }}
+{{ $paginator := .Paginate (.Pages) 7 }}
 
 
 <div class="row justify-content-center mt-6">
@@ -24,6 +24,10 @@
             {{ end }}
 
         </div>
+
+        <div class="d-flex justify-content-center mb-5 mb-lg-7">
+            <button id="loadMore" class="btn btn-outline-dark">weitere anzeigen</button>
+        </div>
     </div>
 </div>
 
@@ -33,20 +37,22 @@ $( document ).ready(function() {
     var totalPages = $('#blog-entries-container').data('total-pages');
     var currentpage = 1;
     var loading = false;
-    $(window).scroll(function () {
-        if ($(document).height() - $(this).height()  <= ($(this).scrollTop() + $('footer').height())) {
-            currentpage++;
-            if(currentpage<totalPages && !loading){
+
+    $('#loadMore').click(function(){
+        currentpage++;
+        if(currentpage<totalPages && !loading){
             loading = true;
             $.get( "/blog/page/"+currentpage, function( data ) {
                 $('#blog-entries-container').append($(data).find('.project-preview-container'));
                 lazybackgroundimage();
                 loading = false;
+                if(currentpage == totalPages){
+                    $(this).hide();
+                }
             });
-            }
         }
-    }); 
-    
+
+    });
 });
 </script>
 

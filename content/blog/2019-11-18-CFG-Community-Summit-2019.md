@@ -12,7 +12,6 @@ og-description: Code for Germany (CFG) baut seit 5 Jahren digitale Werkzeuge und
 
 draft: false
 ---
-![Summit1](/blog/cfg-summit-1.jpg)
 
 # Code for Germany Summit 2019 – digitales Ehrenamt in Aktion
 

@@ -28,14 +28,14 @@ Diese entwickeln selbstständig Open Source Software, die Verwaltung und Politik
 
 Nachhaltiger digitaler Wandel bedeutet für uns Open Government unter folgenden Leitlinien umzusetzen:
 
-{{< uppercase-underline >}}Offene Daten:{{< /uppercase-underline >}} Verwaltungsdaten maschinenlesbar und standardisiert veröffentlichen
+[OFFENE DATEN:](/ziele#heading-01-open-data) Verwaltungsdaten maschinenlesbar und standardisiert veröffentlichen
  
-{{< uppercase-underline >}}Tech ohne Selbstzweck:{{< /uppercase-underline >}} Technologie an menschlichen Bedürfnissen ausrichten 
+[Tech ohne Selbstzweck:](/ziele#heading-02-open-government) Technologie an menschlichen Bedürfnissen ausrichten 
 
-{{< uppercase-underline >}}Öffentliches Geld - Öffentliches Gut:{{< /uppercase-underline >}} Steuergelder nur in Offene Software 
+[Öffentliches Geld - Öffentliches Gut:](/ziele#heading-04-open-software) Steuergelder nur in Offene Software 
 investieren 
 
-{{< uppercase-underline >}}Digitales Ehrenamt:{{< /uppercase-underline >}} Zivilgesellschaft einbinden und nachhaltig fördern  
+[Digitales Ehrenamt:](/ziele#heading-06_oekologische-nachhaltigkeit) Zivilgesellschaft einbinden und nachhaltig fördern  
 Ökologische Nachhaltigkeit: Natürliche Ressourcen schützen  
 
 {{< /paragraph-center  >}}
