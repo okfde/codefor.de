@@ -51,11 +51,11 @@ Mach mit!
 Projekte und Anwendungen finden
 {{< /headline-brackets-h2  >}}
 
-{{< paragraph-center class="text-center" >}}
+{{< paragraph-center class="text-center mb-5" >}}
 Du möchtest einen Eindruck von unseren Projekten bekommen? Wir arbeiten gegenwärtig zu den Themenfeldern Mobilität, Gesellschaft, Umwelt und Politik
 {{< /paragraph-center >}}
 
-{{< button-center href="/projekte" class="mt-3" >}}
+{{< button-center href="/projekte" >}}
 Projekte
 {{< /button-center >}}
 {{< /section >}}
@@ -94,7 +94,7 @@ Mehr Blogartikel lesen
 {{< headline-icon icon="icon-calendar.svg" >}}
 {{< headline-brackets-h2 color="blue"  >}}Kalender{{< /headline-brackets-h2  >}}
 
-{{< paragraph-center class="text-center" >}}
+{{< paragraph-center class="text-center mb-5" >}}
 Aktuelle Veranstaltungen unserer Labs gibt es in unserem Nextcloud Kalender
 {{< /paragraph-center >}}
 

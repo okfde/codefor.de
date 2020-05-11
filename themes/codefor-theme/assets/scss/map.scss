@@ -20,8 +20,8 @@
   }
   
   .leaflet-marker-iconlabel.label-left {
-    right: 4px;
-    position: absolute;
+    margin-right: 25px;
+    transform: translateX(calc(-100% - 4px));
   }
   
   .leaflet-marker-iconlabel {

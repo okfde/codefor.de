@@ -35,7 +35,7 @@ Nachhaltiger digitaler Wandel bedeutet für uns Open Government unter folgenden 
 [Öffentliches Geld - Öffentliches Gut:](/ziele#heading-04-open-software) Steuergelder nur in Offene Software 
 investieren 
 
-[Digitales Ehrenamt:](/ziele#heading-06_oekologische-nachhaltigkeit) Zivilgesellschaft einbinden und nachhaltig fördern  
+[Digitales Ehrenamt:](/ziele#heading-05-digitales-ehrenamt) Zivilgesellschaft einbinden und nachhaltig fördern  
 Ökologische Nachhaltigkeit: Natürliche Ressourcen schützen  
 
 {{< /paragraph-center  >}}

@@ -231,10 +231,14 @@ a:active {
   }
 }
 
-.btn-outline-dark:hover, .btn-outline-dark:not(:disabled):not(.disabled):active, .btn-outline-dark:not(:disabled):not(.disabled).active, .show > .btn-outline-dark.dropdown-toggle {
+.btn-outline-dark:hover, .btn-outline-dark:not(:disabled):not(.disabled):active, .btn-outline-dark:not(:disabled):not(.disabled).active {
   color: #343a40;
   background-color: transparent;
   border-color: #343a40;
+}
+
+.btn-outline-dark.dropdown-toggle:hover, .btn-outline-dark.dropdown-toggle:active{
+  background-color: white !important;
 }
 
 
