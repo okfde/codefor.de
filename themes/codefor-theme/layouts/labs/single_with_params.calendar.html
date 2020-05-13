@@ -99,18 +99,14 @@
                         <div class="row justify-content-center">
                             <div class="col-20 py-4">
                                 <table class="table table-borderless">
-                                    <div class="row justify-content-center my-4">
-                                        <div class="col-23 col-sm-20 col-lg-14 col-xl-11">
-                                            <p class="text-center mb-5">
-                                                Aktuelle Veranstaltungen unserer Labs gibt es in unserem Nextcloud Kalender
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <div class="d-flex justify-content-center">
-                                        <a class="btn btn-outline-dark" href="https://cloud.prototypefund.de/apps/calendar/p/DkfdNbzXmyXr3jtL/dayGridMonth/now " target="_blank" rel="noopener noreferrer">
-                                            Termine ansehen
-                                        </a>
-                                    </div>
+                                    {{ range .Params.Calendar }}
+                                    <tr>
+                                        <td>{{.date}}</td>
+                                        <td>{{.location}}</td>
+                                        <td>{{.title}}</td>
+                                        <td><a class="d-block text-center text-dark" href="{{ .url }}" target="_blank" rel="noopener noreferrer" > <img class="ext-link-icon" src="/img/ext-link.svg" alt=""></a></td>
+                                    </tr>
+                                    {{ end }}
                                 </table>
                             </div>
                         </div>

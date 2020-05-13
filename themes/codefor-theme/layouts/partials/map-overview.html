@@ -16,11 +16,13 @@
             <div class="dropdown-menu dropdown-menu-right">
               {{ $fn := .Page.File.BaseFileName }}
               {{ with .Site.GetPage "/labs" }}
-                {{ range .Pages  }}
+                {{ with .Pages }}
+                {{ range sort . ".Params.city"  }}
                   {{ if and (isset .Params "lat") (isset .Params "long") }}
-                  <a class="dropdown-item text-uppercase no-underline" href="{{.Permalink}}" s>{{.Title}}</a>
+                  <a class="dropdown-item text-uppercase no-underline" href="{{.Permalink}}" s>{{ .Params.city }}</a>
                   {{ end }}  
                 {{ end }}
+              {{ end }}
               {{ end }}
             </div>
           </div>
