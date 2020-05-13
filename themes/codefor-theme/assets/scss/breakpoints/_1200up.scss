@@ -16,6 +16,11 @@ h1,h2{
   
   footer{
     font-size: $fontSizeSmall-xl !important;
+
+    .donate{
+      font-size: $fontSizeBase-xl !important;
+    }
+
     h3{
       font-size: $fontSizeH3-xl;
     }
@@ -38,7 +43,9 @@ h1,h2{
       line-height: $fontSizeNav-xl - 2;
     }
   }
-
+  .btn{
+    font-size: $fontSizeBase-xl - 3;
+  }
 
 .headline-brackets{
     span:first-child{
@@ -49,4 +56,14 @@ h1,h2{
       font-size: $fontSizeH1-xl + 28px;
       margin-top: 4px;
     }
+}
+
+//---------------------------------------------------
+// Icons
+
+// headline icon style
+.headline-icon{
+  img{
+    width: 100px;
+  }
 }

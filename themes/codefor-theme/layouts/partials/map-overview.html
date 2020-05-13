@@ -10,7 +10,7 @@
             In diesen Städten gibt es <br>bereits ein OK Lab:
           </div>
           <div class="btn-group w-100">
-            <button type="button" class="btn btn-outline-dark dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <button type="button" class="no-text-transform btn btn-outline-dark dropdown-toggle d-flex justify-content-between align-items-center" data-flip="false" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               <span>OK Labs</span> <img src="/img/arrow.svg" alt="">
             </button>
             <div class="dropdown-menu dropdown-menu-right">
@@ -18,7 +18,7 @@
               {{ with .Site.GetPage "/labs" }}
                 {{ range .Pages  }}
                   {{ if and (isset .Params "lat") (isset .Params "long") }}
-                  <a class="dropdown-item" href="{{.Permalink}}" s>{{.Title}}</a>
+                  <a class="dropdown-item text-uppercase no-underline" href="{{.Permalink}}" s>{{.Title}}</a>
                   {{ end }}  
                 {{ end }}
               {{ end }}
@@ -44,27 +44,22 @@ $( document ).ready(function() {
       });
       map.attributionControl.setPrefix("");
       map.scrollWheelZoom.disable();
-  
+      
+
+      // add zoom control on lab map
+      map.addControl(L.control.zoom({ position: 'topright' }));
+
       // basemap
       var mapboxLayer = L.tileLayer(
           "https://{s}.tiles.mapbox.com/v4/codeforgermany.cc5365b0/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiY29kZWZvcmdlcm1hbnkiLCJhIjoiMVg2ZGdSSSJ9.JsM4S0LZpeNmI1rHQnCxig",
           {
           attribution:
-              '<a href="https://www.mapbox.com/about/maps/" target="_blank">&copy; Mapbox &copy; OpenStreetMap</a> | <a href="https://www.mapbox.com/map-feedback/" target="_blank">Improve this map</a>',
+              '<a href="https://www.mapbox.com/about/maps/" target="_blank" rel="noopener noreferrer">&copy; Mapbox &copy; OpenStreetMap</a> | <a href="https://www.mapbox.com/map-feedback/" target="_blank" rel="noopener noreferrer">Improve this map</a>',
           minZoom: 5,
           }
       );
 
       // define left-aligned and right-aligned labels and icons
-      var labelBaseOptions = {
-          iconUrl: "/img/lab_marker_home.png",
-          shadowUrl: null,
-          iconSize: new L.Point(21, 35),
-          iconAnchor: new L.Point(0, 0),
-          labelAnchor: new L.Point(25, 2),
-          wrapperAnchor: new L.Point(10, 35),
-      };
-      
       var markers = [];
 
       //get all labs
@@ -74,10 +69,25 @@ $( document ).ready(function() {
       {{ if and (isset .Params "lat") (isset .Params "long") }}
           
           var labelRight = L.Icon.Label.extend({
-            options: labelBaseOptions,
+            options: {
+                iconUrl: "/img/lab_marker_home.svg",
+                shadowUrl: null,
+                iconSize: new L.Point(21, 35),
+                iconAnchor: new L.Point(0, 0),
+                labelAnchor: new L.Point(25, 2),
+                wrapperAnchor: new L.Point(10, 35),
+            }
           });
           var labelLeft = labelRight.extend({
-            options: { labelClassName: "label-left" },
+            options: {
+                iconUrl: "/img/lab_marker_home.svg",
+                shadowUrl: null,
+                iconSize: new L.Point(21, 35),
+                iconAnchor: new L.Point(0, 0),
+                labelAnchor: new L.Point(0, 2),
+                wrapperAnchor: new L.Point(10, 35),
+                labelClassName: "label-left"
+            }
           });
 
           {{ if eq .Params.markerposition "right" }}
@@ -85,15 +95,18 @@ $( document ).ready(function() {
             icon: new labelRight({
                 labelText: '<a href="{{.Permalink}}">{{.Params.city}}</a>',
             }),
+            url: "{{.Permalink}}",
           {{ else }}
             var marker = L.marker([{{.Params.lat}}, {{.Params.long}}], {
             icon: new labelLeft({
                 labelText: '<a href="{{.Permalink}}">{{.Params.city}}</a>',
             }),
+            url: "{{.Permalink}}",
           {{ end }}
 
           riseOnHover: true,
-          }).addTo(map); 
+          }).addTo(map);
+
 
           {{ if eq $fn "mitmachen" }}
             markers.push(marker);
@@ -115,6 +128,13 @@ $( document ).ready(function() {
     //fit map to show all markers nicely
     var group = new L.featureGroup(markers);
     map.fitBounds(group.getBounds(), {padding: [60,60]});
+
+      $('.leaflet-marker-icon-wrapper').click(function(e){
+          e.preventDefault();
+          var href = $(this).find('a').attr('href');
+          window.location.href = href;
+      });
+
   }
 
 });

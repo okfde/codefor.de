@@ -20,12 +20,15 @@ $fontSizeHero-xl: $fontSizeBase-xl + 12px;
 $fontSizeH3-xl: $fontSizeBase-xl + 8px;
 $fontSizeSmall-xl: $fontSizeBase-xl - 3px;
 
+$fontSizeH3-xxl: $fontSizeBase-xl + 25px;
+$fontSizeHero-xxl: $fontSizeBase-xl + 25px;
+
 $pageMaxWidth: 1700px;
 
 $codefor-mint: #BFEEEB;
 $codefor-blue: #17B6FF;
 $codefor-red: #FF645F;
-$codefor-green: #70DEA1;
+$codefor-green: #58e4a0;
 $codefor-light-grey: #F2F2F2;
 
 @import "bootstrap/functions";
@@ -67,9 +70,6 @@ $codefor-light-grey: #F2F2F2;
 
 //Leaflet map
 @import "map";
-
-
-
 
 /*********************
 BASE (MOBILE) SIZE

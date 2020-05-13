@@ -10,9 +10,26 @@
 {{ partial "headline-brackets-h1.html" (dict "context" . "txt" $txt "color" $color ) }}
 
 
+
+
 <div class="row justify-content-center blog-content mb-4 mb-md-5">
-    <div class="col-22 col-lg-16 col-xl-14">
-        {{ .Content }}
+    <div class="col-23 col-sm-20 col-lg-14 col-xl-11">
+        
+        {{ if .Params.images }} 
+            {{ range first 1 .Params.images}}
+            <div>
+                <img class="img-fluid" src="/blog/{{ .imgname }}" alt="">
+            </div>    
+            {{end}}
+        {{ end }}
+        
+        <small class="d-block my-3">
+            {{ .Date.Format "02.01.2006" }} von {{.Params.author}}
+        </small>
+
+        <div class="freetext-container">
+            {{ .Content }}
+        </div>
     </div>
 </div>
 

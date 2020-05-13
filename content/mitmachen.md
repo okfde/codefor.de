@@ -7,10 +7,10 @@ menu:
 ---
 
 
-{{< headline-icon icon="icon-bracket.svg" color="blue" >}}
+{{< headline-icon icon="icon-bracket.svg"  >}}
 
 
-{{< headline-brackets-h1 color="red"  >}}
+{{< headline-brackets-h1 color="blue"  >}}
 Mitmachen
 {{< /headline-brackets-h1  >}}
 

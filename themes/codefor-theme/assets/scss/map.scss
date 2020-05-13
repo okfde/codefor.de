@@ -2,6 +2,7 @@
     width: 100%;
     padding-bottom: 150%;
     position: relative;
+    margin-top: 150px;
     @media(orientation: landscape){
       padding-bottom: 100%;
     }
@@ -19,8 +20,8 @@
   }
   
   .leaflet-marker-iconlabel.label-left {
-    right: 4px;
-    position: absolute;
+    margin-right: 25px;
+    transform: translateX(calc(-100% - 4px));
   }
   
   .leaflet-marker-iconlabel {
@@ -36,19 +37,20 @@
     -webkit-user-select: none;
     user-select: none;
     white-space: nowrap;
+    border-radius: 3px;
     a{
       color: $codefor-red;
+      text-decoration: none;
     }
   }
 
 
   .lab-map-dropdown{
     position: absolute;
-    left: 50%;
-    transform: translate(-50%);
-    top: 50px;
+    left: 0;
+    top: -120px;
     z-index: 20000;
-    width: 300px;
+    width: 100%;
 
     .show{
       .dropdown-toggle {
@@ -81,5 +83,14 @@
       border: 1px solid #000;
       margin-left: -5px;
       width: 100%;
+      max-height: 500px;
+      overflow-y: scroll;
+
+      .dropdown-item{
+        &:hover{
+          color: $codefor-red;
+          text-decoration: none !important;
+        }
+      }
     }
   }

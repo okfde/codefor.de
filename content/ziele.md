@@ -6,7 +6,7 @@ menu:
     name: Ziele
 ---
 
-{{< headline-icon icon="icon-bracket.svg" color="blue" >}}
+{{< headline-icon icon="icon-touch.svg" color="blue" >}}
 
 
 {{< headline-brackets-h1 color="red"  >}}

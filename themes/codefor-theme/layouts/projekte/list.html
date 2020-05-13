@@ -8,33 +8,57 @@
 
       <div class="d-flex flex-column flex-lg-row justify-content-center mb-5" id="filters">
 
+            <button data-filter="" class="btn btn-outline-dark mx-2 my-2 active" href="{{ .Page.Permalink }}">
+              <span>Alle</span>
+            </button>
             <button data-filter="Umwelt" class="btn btn-outline-dark mx-2 my-2" href="{{ .Page.Permalink }}">
-              <img class="ml-2 img-fluid taxonomie-icon" src="/img/taxonomie-icon/umwelt.svg" alt="Filter Umwelt">
               <span>Umwelt</span>
+              <img class="ml-1 img-fluid taxonomie-icon" src="/img/taxonomie-icon/umwelt.svg" alt="Filter Umwelt">
             </button>
             <button data-filter="Politik" class="btn btn-outline-dark mx-2 my-2" href="{{ .Page.Permalink }}">
-              <img class="ml-2 img-fluid taxonomie-icon" src="/img/taxonomie-icon/politik.svg" alt="Filter Politik">
               <span>Politik</span>
+              <img class="ml-1 img-fluid taxonomie-icon" src="/img/taxonomie-icon/politik.svg" alt="Filter Politik">
             </button>
             <button data-filter="Gesellschaft" class="btn btn-outline-dark mx-2 my-2" href="{{ .Page.Permalink }}">
-              <img class="ml-2 img-fluid taxonomie-icon" src="/img/taxonomie-icon/gesellschaft.svg" alt="Filter Gesellschaft">
               <span>Gesellschaft</span>
+              <img class="ml-1 img-fluid taxonomie-icon" src="/img/taxonomie-icon/gesellschaft.svg" alt="Filter Gesellschaft">
             </button>
             <button data-filter="Mobilität" class="btn btn-outline-dark mx-2 my-2" href="{{ .Page.Permalink }}">
-              <img class="ml-2 img-fluid taxonomie-icon" src="/img/taxonomie-icon/mobilitaet.svg" alt="Filter Mobilität">
               <span>Mobilität</span>
+              <img class="ml-1 img-fluid taxonomie-icon" src="/img/taxonomie-icon/mobilitaet.svg" alt="Filter Mobilität">
             </button>
 
       </div>
 
         <div class="row mb-5 mb-md-7" id="projects-container">
-          {{ range where .Pages ".Params.showcase" true }}
-            {{ partial "project-preview.html" . }}
-          {{ end }}  
-          {{ range where .Pages ".Params.draft" false }}
-            {{ partial "project-preview.html" . }}
-          {{ end }}
+            {{ if ne .Title "Archiv" }}
+                {{ range .Pages.ByTitle  }}
+                    {{ if (isset .Params "showcase") }}
+                        {{ partial "project-preview.html" . }}
+                    {{ end }}
+                {{ end }}
+            {{ else }}
+                {{ with .Site.GetPage "/projekte" }}
+                    {{ range .RegularPages.ByTitle  }}
+                        {{ if (not (isset .Params "showcase")) }}
+                            {{ partial "project-preview.html" . }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
         </div>
+        <div class="col-24 d-flex justify-content-center my-7 btn-archive">
+            {{ if ne .Title "Archiv" }}
+                <a class="btn btn-outline-dark  " href="/projekte/archiv">
+                    Projektarchiv
+                </a>
+            {{ else }}
+                <a class="btn btn-outline-dark  " href="/projekte">
+                    Aktuelle Projekte
+                </a>
+            {{ end }}
+        </div>
+
     </div>
 </div>
 
