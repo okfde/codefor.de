@@ -43,7 +43,7 @@ links:
 leads:
 - name: Peer Wagner
   url: https://twitter.com/wagnerpeer
-- Julia
+- name: Julia
   url: https://twitter.com/joliyea
 
 # - name:
