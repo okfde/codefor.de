@@ -11,6 +11,9 @@ members:
 - name: Peer Wagner
   username_github: wagnerpeer
   username_twitter: wagnerpeer
+- name: Julia
+  username_github: joliyea
+  username_twitter: joliyea
 
 # - name: <name>
 #   username_github: <github_user_name>
@@ -40,12 +43,22 @@ links:
 leads:
 - name: Peer Wagner
   url: https://twitter.com/wagnerpeer
+- name: Julia
+  url: https://twitter.com/joliyea
 
 # - name:
 #   url:
 
 ---
 
-Fingerstache affogato chillwave, cloud bread literally cred blog subway tile pour-over pinterest 8-bit unicorn etsy photo booth health goth. Edison bulb cray tilde readymade shabby chic paleo kogi sustainable mixtape. Distillery +1 iceland pok pok, umami sartorial slow-carb pickled migas truffaut biodiesel. Pabst pork belly hammock photo booth vegan four loko. Listicle hammock cloud bread next level activated charcoal. Everyday carry sriracha affogato, slow-carb offal church-key brooklyn tbh green juice normcore ugh quinoa.
+Hi! Wir sind Code for Osnabrück. Wir denken Digitalisierung auf einer zivilgesellschaftlichen Ebene: Wie können wir als Bürger:innen davon profitieren? Wir bauen unsere eigenen Anwendungen, die uns das Alltagsleben vereinfachen: vom Trinkwasser-Check bis zum Kita-Finder.
 
-Beard vexillologist poke hell of etsy humblebrag. Mixtape lo-fi fanny pack food truck, ennui skateboard godard listicle you probably haven't heard of them master cleanse keytar gentrify helvetica trust fund. Flexitarian post-ironic vaporware seitan whatever tousled. Polaroid heirloom af poke la croix actually irony brunch viral. Unicorn readymade twee crucifix shabby chic pok pok poke copper mug.
+Dafür brauchen wir Daten, und zwar keine personenbezogenen, sondern öffentliche – also Daten, die mit unseren Steuergeldern schon erhoben wurden und in irgendwelchen Ämtern und Behörden rumliegen. Deshalb fordern wir Offene Daten, #OpenData, und insgesamt transparente Regierungen und Verwaltungen.
+
+Wir treffen uns einmal wöchentlich, um zu programmieren, zu visualisieren, auszuprobieren, zu basteln und Spaß zu haben. Wir sind Menschen mit und ohne technischen Hintergrund. Und wir diskutieren über Themen rund um Offene Daten (Open Data) und zivilgesellschaftliche Technik (Civic Tech), die es hier in Niedersachsen leider besonders schwer haben. Warum? Naja.... Wir sagen nur [Transparenzranking](https://transparenzranking.de/laender/niedersachsen/)....
+
+Außerdem sind wir gut vernetzt: Hier in Deutschland gibt es CodeFor-Labs in 25 Städten, wir sind ein Projekt der [Open Knowledge Foundation Deutschland](http://www.okfn.de). [codefor](https://codefor.de/)-Initiativen gibt es weltweit, ausgehend von [Code for America](https://www.codeforamerica.org/).
+
+Ihr habt Fragen oder Ideen? Kommt vorbei! Designer, Entwicklerinnen, Journalisten, Vereine, Politikerinnen, Osnabrücker – ihr alle seid herzlich dazu eingeladen, mitzumachen und euch einzubringen.
+
+Übrigens: Einen Überblick über aktuelle Projekte findet ihr auf unserer [Website](http://codeforosnabrueck.org/) und auf [GitHub](https://github.com/codeforosnabrueck) – gerade noch nicht so viel, aber wir arbeiten dran! Folgt uns auch auf [Twitter](http://twitter.com/codeforosna).

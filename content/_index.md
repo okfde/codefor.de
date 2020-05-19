@@ -3,7 +3,7 @@ title: Home
 ---
 
 {{< hero-block-center  >}}
-Code For Germany ist ein Netzwerk ehrenamtlicher Menschen, das sich mit Open Government für einen nachhaltigen digitalen Wandel in Politik und Verwaltung einsetzt. 
+Code For Germany ist ein Netzwerk von Open Government Expert\*innen, die sich als ehrenamtlich aktive Stadtentwickler\*innen für einen nachhaltigen digitalen Wandel in Politik und Verwaltung einsetzen. 
 {{< /hero-block-center  >}}
 
 
@@ -52,7 +52,7 @@ Projekte und Anwendungen finden
 {{< /headline-brackets-h2  >}}
 
 {{< paragraph-center class="text-center mb-5" >}}
-Du möchtest einen Eindruck von unseren Projekten bekommen? Wir arbeiten gegenwärtig zu den Themenfeldern Mobilität, Gesellschaft, Umwelt und Politik
+Du möchtest einen Eindruck von unseren Projekten bekommen? Wir arbeiten gegenwärtig zu den Themenfeldern Mobilität, Gesellschaft, Umwelt und Politik.
 {{< /paragraph-center >}}
 
 {{< button-center href="/projekte" >}}
@@ -95,7 +95,7 @@ Mehr Blogartikel lesen
 {{< headline-brackets-h2 color="blue"  >}}Kalender{{< /headline-brackets-h2  >}}
 
 {{< paragraph-center class="text-center mb-5" >}}
-Aktuelle Veranstaltungen unserer Labs gibt es in unserem Nextcloud Kalender
+Aktuelle Veranstaltungen unserer Labs gibt es in unserem Nextcloud Kalender.
 {{< /paragraph-center >}}
 
 {{< button-center href="https://cloud.prototypefund.de/apps/calendar/p/DkfdNbzXmyXr3jtL/dayGridMonth/now" target="_blank" >}}
