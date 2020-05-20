@@ -26,7 +26,7 @@ links:
 
 - name: GitHub
   url: https://github.com/codeforbeispiel
-  top: # left | right
+  top: true # true | false
 
 - name: Twitter
   url: https://twitter.com/codeforbeispiel
