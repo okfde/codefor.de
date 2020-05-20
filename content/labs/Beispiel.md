@@ -18,7 +18,7 @@ members:
 links:
 - name: Webseite
   url: <url>
-  top: # left | right
+  top: true # true | false
   
 - name: GetTogether
   url:
