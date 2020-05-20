@@ -29,7 +29,7 @@ links:
   top: # left | right
 
 - name: Twitter
-  url: 
+  url: https://twitter.com/codeforbeispiel
   top: # left | right
 
 leads:
