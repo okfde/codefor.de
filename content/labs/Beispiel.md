@@ -30,7 +30,7 @@ links:
 
 - name: Twitter
   url: https://twitter.com/codeforbeispiel
-  top: # left | right
+  top: true # true | false
 
 leads:
 - name: Lena Lead
