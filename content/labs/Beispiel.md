@@ -17,7 +17,7 @@ members:
 
 links:
 - name: Webseite
-  url: <url>
+  url: https://code-for-beispiel.de
   top: true # true | false
   
 - name: GetTogether
