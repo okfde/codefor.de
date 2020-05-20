@@ -9,7 +9,7 @@ showsignup: true # true | false
 
 members:
 - name: Maria Member
-  username_github: <github_user_name>
+  username_github: codeforbeispiel
   username_twitter: <twitter_user_name>
 - name: 
   username_github:
