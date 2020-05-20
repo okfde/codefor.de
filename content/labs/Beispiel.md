@@ -5,7 +5,7 @@ lab:
 lat: 
 long:
 markerposition: left # left | right
-showsignup: # left | right
+showsignup: true # true | false
 
 members:
 - name: 
