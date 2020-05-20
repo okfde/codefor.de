@@ -25,7 +25,7 @@ links:
   top: # left | right
 
 - name: GitHub
-  url: 
+  url: https://github.com/codeforbeispiel
   top: # left | right
 
 - name: Twitter
