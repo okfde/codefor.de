@@ -33,10 +33,10 @@ links:
   top: # left | right
 
 leads:
-- name:
-  url: 
-- name: 
-  url:
+- name: Lena Lead
+  url: lena@codeforbeispiel.de
+- name: Ludwig Lead
+  url: ludwig@codeforbeispiel.de
   
   hero: Hier kommt ein kurzer Teaser Text hin.  
 ---
