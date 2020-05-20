@@ -4,8 +4,8 @@ title:
 lab: 
 lat: 
 long:
-markerposition: left | right
-showsignup: true | false
+markerposition: # left | right
+showsignup: # left | right
 
 members:
 - name: 
@@ -18,19 +18,19 @@ members:
 links:
 - name: Webseite
   url: <url>
-  top: true | false
+  top: # left | right
   
 - name: GetTogether
   url:
-  top: true | false
+  top: # left | right
 
 - name: GitHub
   url: 
-  top: true | false
+  top: # left | right
 
 - name: Twitter
   url: 
-  top: true | false
+  top: # left | right
 
 leads:
 - name:
