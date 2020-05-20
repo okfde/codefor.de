@@ -6,10 +6,7 @@
 
 <h1 class="text-center mb-4 mb-lg-6">{{.Title}}</h1>
 
-<!-- hier den Param aus dem Frontmatter einsetzten -->
-{{$hero := "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. "}}
-{{ partial "hero-block-center.html" (dict "context" . "txt" $hero ) }}
-
+{{ partial "hero-block-center.html" (dict "context" . "txt" .Params.Hero ) }}
 
 {{ $txt := .Content }}
 <div class="freetext-container">
