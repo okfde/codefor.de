@@ -12,8 +12,8 @@ members:
   username_github: codeforbeispiel
   username_twitter: codeforbeispiel
 - name: 
-  username_github:
-  username_twitter:
+  username_github: andereruser
+  username_twitter: andereruser
 
 links:
 - name: Webseite
