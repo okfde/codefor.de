@@ -1,9 +1,9 @@
 ---
 city: 
-title:
-lab: 
-lat: 
-long:
+title: Beispiel
+lab: Beispiellab
+lat: 53
+long: 8
 markerposition: left # left | right
 showsignup: true # true | false
 
