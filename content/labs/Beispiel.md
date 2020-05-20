@@ -22,7 +22,7 @@ links:
   
 - name: GetTogether
   url:
-  top: # left | right
+  top: true # true | false
 
 - name: GitHub
   url: https://github.com/codeforbeispiel
