@@ -1,5 +1,5 @@
 ---
-city: 
+city: ""
 title: Beispiel
 lab: Beispiellab
 lat: 53
@@ -11,7 +11,7 @@ members:
 - name: Maria Member
   username_github: codeforbeispiel
   username_twitter: codeforbeispiel
-- name: 
+- name: ""
   username_github: andereruser
   username_twitter: andereruser
 
