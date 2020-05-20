@@ -1,7 +1,6 @@
 ---
-city: ""
-title: Beispiel
-lab: Beispiellab
+city: Beispiel # Name der Stadt/Region. Taucht im Dropdown der Karte auf
+title: Code for Beispiel # Name des Labs. Zb Überschrift der lab-seite
 lat: 53
 long: 8
 markerposition: left # left | right
