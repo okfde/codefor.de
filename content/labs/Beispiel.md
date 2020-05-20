@@ -8,7 +8,7 @@ markerposition: left # left | right
 showsignup: true # true | false
 
 members:
-- name: 
+- name: Maria Member
   username_github: <github_user_name>
   username_twitter: <twitter_user_name>
 - name: 
