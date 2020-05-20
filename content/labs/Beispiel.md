@@ -4,7 +4,7 @@ title:
 lab: 
 lat: 
 long:
-markerposition: # left | right
+markerposition: left # left | right
 showsignup: # left | right
 
 members:
