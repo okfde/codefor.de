@@ -21,7 +21,7 @@ links:
   top: true # true | false
   
 - name: GetTogether
-  url:
+  url: https://gettogether.community/code-for-beispiel/
   top: true # true | false
 
 - name: GitHub
