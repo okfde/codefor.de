@@ -38,6 +38,8 @@ leads:
 - name: 
   url:
   
+  hero: Hier kommt ein kurzer Teaser Text hin.
+  
 ---
 
 Hier kommt ein schöner Übersichtstext für Interessierte hin. Was macht euch aus, welche Themen bearbeitet ihr, wie seid ihr in der Stadt verankert etc., Wann, wo und wie trefft ihr euch
