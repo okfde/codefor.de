@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
     margin-top: 50px;
     margin-bottom: 20px;
   }
-  
+
   h3{
     font-size: $fontSizeBase +4px;
     margin-top: 20px;
@@ -336,10 +336,10 @@ footer{
 }
 
 .circle-123-line{
-  position: absolute; 
+  position: absolute;
   border-top: 1px solid #000;
-  width: calc(100% - 33%); 
-  left: 16%; 
+  width: calc(100% - 33%);
+  left: 16%;
   top: 50%;
   z-index: -1;
 }
@@ -470,6 +470,10 @@ footer{
       }
     }
   }
-  
+
 }
 
+.project-labs-list {
+  display: flex;
+  justify-content: space-evenly;
+}
