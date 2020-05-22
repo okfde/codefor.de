@@ -17,52 +17,52 @@ members:
   username_github: stkdiretto
   username_twitter: _stk
 
-- name: Falco Nogatz
-  username_github: fnogatz
-  username_twitter: ulmerleben
+- name: Maria Aufheimer
+  username_github: frostarella
+  username_twitter: frostarella
 
-- name: Rens van der Heijden
-  username_github: namnatulco
-  username_twitter: namnatulco
-
-- name: Vincent Grünberg
-  username_github: e-drei
-  username_twitter: _e_drei
+- name: Jana Funke
+  username_twitter: jana_franceska
 
 - name: Simon Fuchs
   username_github: Taxilof
   username_twitter: taxilof
 
-- name: Henning Kopp
-  username_github: hkopp
-
 - name: Juliane Wessalowski
   username_github: gruenzeug
   username_twitter: gruenzeug
+
+- name: Constantin Müller
+  username_github: ubahnverleih
+  username_twitter: ubahnverleih
+
+- name: Maximilian Richt
+  username_github: robbi5
+  username_twitter: robbi5
+
+- name: Simon Lüke
+  username_github: semaphor
+  username_twitter: semapher
 
 
 
 links:
 - name: Website
-  url: http://ulmapi.de
+  url: https://verschwoerhaus.de
 - name: Twitter
-  url: https://twitter.com/UlmAPI
+  url: https://twitter.com/verschwoerhaus
 - name: Facebook
   url: https://www.facebook.com/datalove.ulm
-- name: Mailinglist
-  url: https://imap.uni-ulm.de/lists/info/datalove
-- name: Meetup
-  url: http://www.meetup.com/datalove-OK-Lab-Ulm
-- name: Etherpad
-  url: https://datalove.edupad.uni-konstanz.de/start
 
 
 leads:
-- name: Stefan
-  url: mailto:stk@weinhof9.de
+- name: Verschwörhaus-Vereinsvorstand
+  url: kontakt20@verschwoerhaus.de
 
 ---
 
-Fingerstache affogato chillwave, cloud bread literally cred blog subway tile pour-over pinterest 8-bit unicorn etsy photo booth health goth. Edison bulb cray tilde readymade shabby chic paleo kogi sustainable mixtape. Distillery +1 iceland pok pok, umami sartorial slow-carb pickled migas truffaut biodiesel. Pabst pork belly hammock photo booth vegan four loko. Listicle hammock cloud bread next level activated charcoal. Everyday carry sriracha affogato, slow-carb offal church-key brooklyn tbh green juice normcore ugh quinoa.
+Das Ulmer OK Lab ist 2016 im Verschwörhaus aufgegangen. Das ist der Ulmer Anlaufpunkt für alles rund um Offene Daten, Freies Wissen, Offene Infrastrukturen sowie jeder Menge Make- und Fablab. Dort treffen sich regelmäßig verschiedenste Untergruppen z.B. rund um das freie IoT-Netz [The Things Network](https://lora.ulm-digital.com/), zu Wikipedia und Wikidata, und vielem mehr. Auch das [Jugend hackt Lab Ulm](https://jugendhackt.org/labs/) und [F.U.C.K.](https://verschwoerhaus.de/neu-f-u-c-k-frauen-und-computer-kram-ulm-treffen/) haben dort ihr Zuhause.
 
-Beard vexillologist poke hell of etsy humblebrag. Mixtape lo-fi fanny pack food truck, ennui skateboard godard listicle you probably haven't heard of them master cleanse keytar gentrify helvetica trust fund. Flexitarian post-ironic vaporware seitan whatever tousled. Polaroid heirloom af poke la croix actually irony brunch viral. Unicorn readymade twee crucifix shabby chic pok pok poke copper mug.
+Die Vorläufer des OK Lab Ulm entstanden um 2010, als sich an der Uni Ulm eine Gruppe Interessierter fand, die sich mit Open Data in verschiedensten Facetten beschäftigten. Gefundene oder gemeinsam mit Beschäftigten der Stadt aufbereitete Datensätze sammelten sie in einem Wiki und diversen APIs unter [ulmapi.de](http://ulmapi.de), und zeitgleich entstand an der Uni Ulm eine offizielle Hochschulgruppe mit dem Namen `datalove`. Ab 2012 fanden erst an der Uni Ulm und dann in Stuttgart die [OpenCityCamps](http://www.opencitycamp.de/) als offenes Barcamp für die Vernetzung rund um Open Data statt, und 2015 kam aus derselben Gruppe der süddeutsche Ableger von [Jugend hackt](https://jugendhackt.org) an die Uni.
+
+Seit dem Umzug von der Uni in das Verschwörhaus sind viele Aktivitäten des OK Labs in verschiedenste spezialisiertere Gruppen und Formate im Haus aufgegangen. Eins eint uns aber bis heute: Wir möchten vorleben, wie auf Basis offener Standards, offener Schnittstellen und freier Software Dinge richtig gut gemacht werden können. Und nicht zuletzt auch mit einer ordentlichen Portion Freude dabei.
