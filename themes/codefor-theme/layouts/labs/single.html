@@ -17,7 +17,7 @@
 <div class="row justify-content-center my-8">
 	<div class="col-22 col-md-18 col-lg-16 col-xl-15">
 		<div class="accordion" id="accordionCode">
-            
+
             <div class="card open">
                 <div class="card-header px-0" id="heading-participate-1">
                     <div class="d-flex justify-content-between">
@@ -30,7 +30,7 @@
                     </div>
 
                 </div>
-                
+
                 <div id="collapse-participate-1" class="collapse show" aria-labelledby="heading-participate-1" data-parent="#accordionCode">
                     <div class="card-body py-0">
                         <div class="row justify-content-center">
@@ -60,7 +60,7 @@
                     </div>
 
                 </div>
-                
+
                 <div id="collapse-participate-2" class="collapse" aria-labelledby="heading-participate-2" data-parent="#accordionCode">
                     <div class="card-body py-0">
                         <div class="row justify-content-center">
@@ -120,23 +120,32 @@
 	</div>
 </div>
 
+{{/*
+    Lists projects of this lab.
+    Requires project Pages to include the filename
+    without extension of this lab to be in the
+    "labs: [...]" property of the frontmatter of the
+    project file.
+*/}}
+{{/* create a slice because we're using "intersect" in the next line */}}
+{{ $filename := slice .File.BaseFileName }}
+{{ $lab_projects := (where (where .Site.RegularPages "Layout" "==" "project") ".Params.lab" "intersect" $filename)}}
+{{ if len $lab_projects | ne 0 }}
 
 {{ partial "headline-brackets-h2.html" (dict "context" . "txt" "Projekte" "color" "red" ) }}
-
 <div class="row justify-content-center mb-5 mb-lg-7">
     <div class="col-22 col-md-18">
         <div class="row">
-            {{ $fn := .File.BaseFileName }}
-            {{ range .Site.Pages }}
-            {{ if $fn | in .Params.lab }}
+        {{ range $lab_projects }}
             {{ partial "project-preview.html" . }}
-            {{ end}}
-            {{ end}}
+        {{ end }}
         </div>
     </div>
 </div>
+{{ end }}
 
 
+<hr/>
 {{partial "map-overview.html" . }}
 
 
