@@ -45,7 +45,6 @@ members:
   username_twitter: semapher
 
 
-
 links:
 - name: Website
   url: https://verschwoerhaus.de
