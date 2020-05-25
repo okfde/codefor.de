@@ -7,7 +7,7 @@ include_footer: true
 
 
 {{< headline-brackets-h1 color="red"  >}}
-FAQ
+Gründung OK Lab
 {{< /headline-brackets-h1  >}}
 
 {{< paragraph-center  >}}
