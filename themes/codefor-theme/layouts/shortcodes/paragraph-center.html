@@ -1,4 +1,3 @@
-
 {{ $txt := .Inner | markdownify }}
 {{ $class := .Get "class" }}
 {{ partial "paragraph-center.html" (dict "context" . "txt" $txt "class" $class ) }}
