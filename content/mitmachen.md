@@ -16,7 +16,7 @@ Mitmachen
 
 
 {{< hero-block-center  >}}
-Code for Germany verbindet Menschen mit ähnlichen Interessen aus ganz unterschiedlichen Bereichen, die sich für Open Government engagieren.  
+Code for Germany verbindet Menschen mit ähnlichen Interessen aus ganz unterschiedlichen Bereichen, die sich für Freie und Offene Software, Offene Daten und Open Government engagieren.  
 {{< /hero-block-center  >}}
 
 
