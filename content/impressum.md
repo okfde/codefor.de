@@ -24,7 +24,7 @@ Impressum
 		10179 Berlin<br/>
 		Deutschland<br/>
 		<sub>
-		<a href="http://www.openstreetmap.org/way/29386807">OpenStreetMap</a> - <a href="https://goo.gl/maps/aHBAbaCA35C2">Google Maps</a>
+		<a href="http://www.openstreetmap.org/way/29386807" target="_blank" rel="noopener noreferrer">OpenStreetMap</a> - <a href="https://goo.gl/maps/aHBAbaCA35C2" target="_blank" rel="noopener noreferrer">Google Maps</a>
 		</sub><br/>
 	</dd>
 </dl>
@@ -44,7 +44,7 @@ Impressum
 </dl>
 <dl>
 	<dt>Community & Projektmanagement:</dt>
-	<dd><a href="mailto:michael.peters@okfn.de">Michael Peters</a> </dd>
+	<dd><a href="mailto:adriana.groh@okfn.de">Adriana Groh</a> &amp; <a href="mailto:claudia.jach@okfn.de">Claudia Jach</a></dd>
 </dl>
 {{< /paragraph-center  >}}
 
