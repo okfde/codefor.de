@@ -16,9 +16,6 @@ collaborators:
 - name: Martin Over
 - name: Reinhard Nickels
 
-tags:
-- Umwelt
-
 ---
 OpenAir Cologne ist ein gemeinsames Projekt von Teilnehmern des Oklab Cologne, der Stadt Köln und Everykey. Wir wollen gemeinsam in Köln 20 Sensoren in einem Pilotprojekt aufstellen, um zu sehen wie man Daten von Bürgern verarbeiten kann. Außerdem wollen wir gemeinsam versuchen einen Mehrwert für die Allgemeinheit aus den vielen unabhängigen Messstationen zu generieren.
 

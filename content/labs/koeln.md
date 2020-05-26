@@ -95,3 +95,4 @@ Du bist Softwareentwicklerin oder Designer und hast Lust mit Deinen Fähigkeiten
 Dann bist Du herzlich eingeladen, mitzucoden, mitzulernen und mitzureden. Wir freuen uns auf Dich!
 
 [gettogether]: https://gettogether.community/codeforcologne/
+
