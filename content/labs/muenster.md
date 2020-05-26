@@ -65,6 +65,9 @@ leads:
   url: mailto:muenster@codefor.de
   
 hero: Münster geht voll ab.
+
+aliases:
+- /muenster/
 ---
 
 Als eines der eher technischen Labs dreht es sich bei uns vor allem eher darum, wie man eine solide und offene Basis für Open Data-Anwendungen aller Art herstellen kann.
