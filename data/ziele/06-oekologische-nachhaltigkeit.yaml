@@ -1,17 +1,23 @@
-title: Ein nachhaltiger digitaler Wandel ist ohne ökologische Nachhaltigkeit nur schwer vorstellbar, denn der digitale Wandel bringt zwar durchaus viele Möglichkeiten z. B. ressourcensparender Steuerungen mit sich, aber auch diverse problematische Auswirkungen auf unser Ökosystem. 
+title: Mit den passenden Tools und einem Bewusstsein für die gegenwärtigen Schwachstellen von Soft- und Hardware können wir den digitalen Wandel nachhaltig gestalten. Dafür müssen Materialaufwand, Reparierbarkeit und Energiebilanz bereits im Entwicklungsstadium von Anwendungen berücksichtigt werden.
 icon: CFG_okologische_nachhaltigkeit.svg
 iconCaption: Ökologische<br>Nachhaltigkeit
 txt: >
-  Entwickler*innen, Designer*innen, Verwaltungsfachleute, Bildungsexpert*innen, Pressespezialist*innen, Transparenzenthusiast*innen und viele weitere interessierte und engagierte Menschen diskutieren in ihren lokalen Labs über Strategien von Open Government und basteln an passenden Lösungen. Sie setzen Datenstandards und überzeugen Entscheider*innen in Politik und Verwaltung von ihrer Notwendigkeit. Sie sind der Kleber, der Politik, Verwaltung und Zivilgesellschaft zusammenhält.
+  In der Civic-Tech-Szene entwickeln wir jährlich viele Prototypen, die großes gesellschaftliches Potenzial entfalten können. Gleichzeitig können diese Tools aber auch ökologische Nachteile mit sich bringen, z. B.  wenn sie viel Energie verbrauchen oder sie aus nicht recycelbaren und sog. kritischen Rohstoffen bestehen. Uns ist deshalb daran gelegen, den digitalen Wandel ökologisch und sozial nachhaltig zu gestalten.
 
 
-  Entwickler*innen, Designer*innen, Verwaltungsfachleute, Bildungsexpert*innen, Pressespezialist*innen, Transparenzenthusiast*innen und viele weitere interessierte und engagierte Menschen diskutieren in ihren lokalen Labs über Strategien von Open Government und basteln an passenden Lösungen. Sie setzen Datenstandards und überzeugen Entscheider*innen in Politik und Verwaltung von ihrer Notwendigkeit. Sie sind der Kleber, der Politik, Verwaltung und Zivilgesellschaft zusammenhält.
+  Digitale Anwendungen benötigen während ihrer Nutzung Energie auf dem eigenen Endgerät und werden häufig  irgendwo auf der Welt lokal auf Servern gespeichert, die gekühlt und gewartet werden müssen. Nicht jede Software verbraucht zudem gleich viel Energie und bei der Entwicklung kann auf sparsame Anwendungen geachtet werden. Insbesondere Bilder und Videos sind außerdem energiehungrig – sie nur an der ein oder anderen Stelle bewusst einzusetzen, wäre also bereits ein großer Beitrag. Wer in der Gestaltung von Content arbeitet, hat damit besonders viel Spielraum für Schritte zur Nachhaltigkeit– sogar, wenn sie oder er nicht so technikaffin ist. Funktionalität gibt es schließlich auch ohne viele Bilder und Videos.
 
 
-  Die Open Knowledge Foundation bietet ihnen dafür eine technische Infrastruktur an, um beispielsweise Methoden zum Wissenstransfer und Best Practice Lösungen zu erarbeiten. Neben dem digitalen Austausch, setzen wir auf gemeinsame Events, um den direkten und persönlichen Austausch zu fördern. Daneben setzt sich Code for Germany auch für die Belange der Community gegenüber Politik und Verwaltung ein. Ziel ist es, durch Open Government die Bürger*innen zu mehr aktiver Beteiligung am politischen Prozess zu befähigen. 
+  Einen enormen Anteil an dem Ressourcenverbrauch unserer Gesellschaft hat auch die Hardware, die wir täglich nutzen. Die benötigten Rohstoffe werden häufig unter umweltschädlichen, aber auch unter menschenunwürdigen Bedingungen abgebaut. Deshalb spielt die Nutzungsdauer von Geräten eine bedeutende Rolle. Die Gleichung ist einfach: Je länger Hardware im Einsatz ist, desto weniger Ressourcen sind nötig. Für die Nutzungsdauer sind Reparierbarkeit, die Produktion von Ersatzteilen und wiederum Software zentral: Software, die lange betreut wird, für die es (Sicherheits-)Updates gibt, kann auch auf alten Geräten genutzt werden und, trägt so dazu bei, Rechner oder Telefon länger im Einsatz zu halten. Das trifft häufig auf Freie und Offene Software zu. 
+  
 
-
-  Wenn ihr bei Code For Germany mitmacht, akzeptiert ihr unseren “Code of Conduct”.
+  Digitale Werkzeuge können eine nachhaltige Lebensweise auch begünstigen. Sharing-Systeme für Fahrzeuge, Lebensmittel oder Kleidung sorgen dafür, dass weniger Menschen neue Dinge kaufen, vor allem, wenn sie diese sowieso nur selten nutzen – zumindest solange dieses praktische Miteinander-Teilen nicht am Ende doch zu mehr Konsum motiviert oder das (geteilte) Auto die Öffis aussticht (Rebound-Effekt). Visualisierungen oder einfache Apps wiederum zeigen Menschen im Alltag ihr Umweltverhalten auf. Dies hilft, das eigene umweltschädliche Verhalten zu verstehen und das Bewusstsein für notwendige Änderungen zu schaffen.
 
   
-  Wer bei Code For Germany mitmacht, akzeptiert unsere *Grundsätze*.
+  Weitere Infos zu dem Verhältnis zwischen Digitalisierung und ökologischer Nachhaltigkeit gibt es hier: 
+  
+  
+  [Was Bits und Bäume verbindet](https://www.oekom.de/buch/was-bits-und-baeume-verbindet-9783962381493?p=1)
+
+
+  [Nachhaltiger digitaler Wandel - welchen Beitrag kann Civic Tech leisten?](https://codefor.de/blog/Nachhaltiger-Digitaler-Wandel.html)
