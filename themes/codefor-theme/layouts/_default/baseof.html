@@ -1,11 +1,11 @@
 <!doctype html>
-{{ $lang := .Site.Language.Lang | default "en" }}
+{{ $lang := .Site.Language.Lang | default "de" }}
 <html lang="{{ $lang }}" class="h-100">
   {{ partial "head.html" . }}
   <body class="h-100">
     {{ partial "nav.html" . }}
     <div class="container-fluid">
-      <main id="main">
+        <main id="main">
         {{ block "main" . }}{{ end }}
       </main>
     </div>

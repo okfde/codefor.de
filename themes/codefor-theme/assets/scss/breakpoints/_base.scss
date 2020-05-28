@@ -1,6 +1,4 @@
 
-
-
 @font-face {
   font-family: 'apercu-regular-pro';
   src: url('/font/apercu-regular-pro.eot');
@@ -12,20 +10,20 @@
   font-style: normal;
 }
 
-
-
 #main{
   padding-top: 50px;
   margin-left: auto;
   margin-right: auto;
 }
 
-.max-width-container{
-  max-width: $pageMaxWidth;
-}
 
 //---------------------------------------------------
 // font sizes
+body{
+  font-family: apercu-regular-pro;
+  font-size: $fontSizeBase;
+}
+
 h1,h2{
   font-size: $fontSizeH1;
 }
@@ -33,11 +31,6 @@ h1,h2{
 h3{
   font-size: $fontSizeH3;
   margin-top: 20px;
-}
-
-body{
-  font-family: apercu-regular-pro;
-  font-size: $fontSizeBase;
 }
 
 footer{
@@ -56,6 +49,7 @@ small{
 
 .text-hero{
   font-size: $fontSizeHero;
+  line-height: 1.4;
 }
 
 nav.navbar{
@@ -66,12 +60,55 @@ nav.navbar{
 }
 
 //---------------------------------------------------
-// text formating
-//underline text in md file
+// text formating Fließtexte (Blog Posts...)
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+  margin-bottom: 1rem;
+}
+
+.freetext-container{
+  h2{
+    font-size: $fontSizeBase + 9px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+  
+  h3{
+    font-size: $fontSizeBase +4px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  img{
+    padding: 60px;
+  }
+}
+
+
+// underline text in md file
 .text-underline{
   text-decoration: underline;
 }
 
+.no-underline{
+  text-decoration: none !important;
+}
+a.no-underline:hover{
+  text-decoration: underline !important;
+}
+
+.no-text-transform{
+  text-transform: none !important;
+}
+
+.freetext-container{
+  p{
+    margin-bottom: 4rem;
+  }
+}
+
+
+//---------------------------------------------------
+// links
 a{
   color: #000;
   text-decoration: underline;
@@ -98,8 +135,10 @@ a:active {
 }
 
 
+
+
 //---------------------------------------------------
-//headline brackets style
+// headline brackets style
 .headline-brackets{
   span:first-child{
     font-size: $fontSizeH1 + 28px;
@@ -127,6 +166,9 @@ a:active {
   }
 }
 
+
+
+
 //---------------------------------------------------
 // Icons
 
@@ -144,9 +186,12 @@ a:active {
 }
 
 // more icon styles
-.lab.icon{
-  width: 100px;
-  height: auto;
+.lab-icon{
+  margin-top: -20px; //lab icons haben einen Rand den wir hier ausgleichen
+  img{
+    width: 140px; //wegen Rand größer als andere Icons
+    height: auto;
+  }
 }
 
 .taxonomie-icon{
@@ -161,6 +206,8 @@ a:active {
 }
 
 
+
+
 //---------------------------------------------------
 // Buttons
 .btn{
@@ -168,11 +215,13 @@ a:active {
   padding: .6rem 1.3rem;
   box-shadow: none !important;
   text-decoration: none;
+  font-size: $fontSizeBase;
 }
 
 .btn-outline-dark{
-  min-width: 220px;
-  &.active{
+  padding: 1rem 2rem;
+  min-width: 280px;
+  &.active, &:hover{
     color: $codefor-red !important;
     background-color: #fff;
     border-color: $codefor-red !important;
@@ -182,15 +231,28 @@ a:active {
   }
 }
 
-.btn-outline-dark:hover, .btn-outline-dark:not(:disabled):not(.disabled):active, .btn-outline-dark:not(:disabled):not(.disabled).active, .show > .btn-outline-dark.dropdown-toggle {
+.btn-outline-dark:hover, .btn-outline-dark:not(:disabled):not(.disabled):active, .btn-outline-dark:not(:disabled):not(.disabled).active {
   color: #343a40;
-  background-color: #fff;
+  background-color: transparent;
   border-color: #343a40;
 }
 
+.btn-outline-dark.dropdown-toggle, .btn-outline-dark.dropdown-toggle:hover, .btn-outline-dark.dropdown-toggle:active{
+  background-color: white !important;
+  color: #343a40 !important;
+}
+
+
+.btn-outline-dark.filter{
+  min-width: 180px !important;
+  padding: 1rem !important;
+}
+
+
+
 
 //---------------------------------------------------
-//nav
+// nav
 nav.navbar{
   max-width: $pageMaxWidth;
   margin-left: auto;
@@ -198,7 +260,7 @@ nav.navbar{
   align-items: flex-start;
   .navbar-brand{
     font-size: $fontSizeNav;
-    width: 160px;
+    width: 230px;
     line-height: $fontSizeNav - 2;
     text-decoration: none;
   }
@@ -228,8 +290,10 @@ nav.navbar{
 }
 
 
+
+
 //---------------------------------------------------
-//footer
+// footer
 footer{
   .footbar{
     h4{
@@ -243,10 +307,11 @@ footer{
 }
 
 
-//---------------------------------------------------
-// Color
 
-//background helpers
+
+//---------------------------------------------------
+// background colors
+
 .bg-codefor-mint{
   background-color: $codefor-mint;
 }
@@ -258,7 +323,8 @@ footer{
 }
 
 
-
+//---------------------------------------------------
+// home 1-2-3
 .circle-123{
   width: 45px;
   height: 45px;
@@ -271,7 +337,7 @@ footer{
 
 .circle-123-line{
   position: absolute; 
-  border-top: 2px solid #000; 
+  border-top: 1px solid #000;
   width: calc(100% - 33%); 
   left: 16%; 
   top: 50%;
@@ -280,6 +346,9 @@ footer{
 
 
 
+
+//---------------------------------------------------
+// project page
 .project-preview-img{
   width: 100%;
   padding-bottom: 56%; // 16:9 format
@@ -288,10 +357,66 @@ footer{
 }
 
 
+
+//---------------------------------------------------
+// blog page
 .blog-content{
   img{
     max-width: 100%;
     height: auto;
+  }
+}
+
+// twiiter widget style
+.twitter-container{
+  border: 1px solid #000;
+  border-radius: 8px;
+}
+
+
+
+//---------------------------------------------------
+//style general accordion
+#accordionCode{
+  .card{
+    transition: border 0.3s, background-color 0.3s, margin-top 0s;
+    border: none;
+    border-top: 1px solid #000;
+    border-radius: 0;
+    padding: 16px 0;
+    &:last-child{
+      border-bottom: 1px solid #000;
+    }
+
+    &.open{
+      .btn-close{
+        transform: rotate(0deg) !important;
+      }
+    }
+    .card-header{
+      background-color: rgba(0,0,0,0);
+      border-bottom: none;
+      h3{
+        white-space: normal;
+        margin: 0;
+        padding: 0;
+        text-transform: none;
+      }
+      .btn-close{
+        &:focus{
+          outline:none !important;
+          box-shadow: none;
+        }
+        transform: rotate(45deg);
+        min-width: 0 !important;
+        padding: 5px !important;
+        width: 30px;
+        height: 30px;
+        flex-shrink: 0;
+        background-color: rgba(0,0,0,0);
+        transition: all 0.2s;
+      }
+    }
   }
 }
 
@@ -315,6 +440,10 @@ footer{
     .card-header{
       background-color: rgba(0,0,0,0);
       border-bottom: none;
+      transition: border 0.3s, background-color 0.3s, margin-top 0s;
+      &:hover{
+        background-color: $codefor-mint;
+      }
       .btn-link{
         text-align: left;
         white-space: normal;
@@ -331,6 +460,9 @@ footer{
         background-color: rgba(0,0,0,0);
         transition: all 0.2s;
       }
+      .text-center{
+        line-height: 1.1em;
+      }
     }
     .card-body{
       .row > div{
@@ -339,45 +471,5 @@ footer{
     }
   }
   
-}
-
-
-//---------------------------------------------------
-//style general accordion
-#accordionCode{
-  .card{
-    transition: border 0.3s, background-color 0.3s, margin-top 0s;
-    border: none;
-    border-top: 1px solid #000;
-    border-radius: 0;
-    padding: 16px 0;
-
-    &.open{
-      .btn-close{
-        transform: rotate(0deg) !important;
-      }
-    }
-    .card-header{
-      background-color: rgba(0,0,0,0);
-      border-bottom: none;
-      h3{
-        white-space: normal;
-        margin: 0;
-        padding: 0;
-      }
-      .btn-close{
-        &:focus{
-          outline:none !important;
-          box-shadow: none;
-        }
-        transform: rotate(45deg);
-        padding: 5px;
-        width: 30px;
-        height: 30px;
-        background-color: rgba(0,0,0,0);
-        transition: all 0.2s;
-      }
-    }
-  }
 }
 

@@ -1,5 +1,7 @@
+
+{{ $target := .Get "target" }}
 <div class="d-flex justify-content-center">
-    <a class="btn btn-outline-dark {{ .Get "class" }} " href="{{ .Get "href" }} ">
+    <a class="btn btn-outline-dark {{ .Get "class" }} " href="{{ .Get "href" }} " {{ if $target }}target="_blank" rel="noopener noreferrer"{{ end }}>
         {{ .Inner | markdownify }}
     </a>
 </div>

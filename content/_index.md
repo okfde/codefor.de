@@ -2,24 +2,22 @@
 title: Home
 ---
 
-
 {{< hero-block-center  >}}
-Code For Germany ist ein Netzwerk ehrenamtlicher Menschen, das sich mit Open Government für einen nachhaltigen digitalen Wandel in Politik und Verwaltung einsetzt. 
+Code For Germany ist ein Netzwerk von Open Government Expert\*innen, die sich als ehrenamtlich aktive Stadtentwickler\*innen für einen nachhaltigen digitalen Wandel in Politik und Verwaltung einsetzen. 
 {{< /hero-block-center  >}}
 
 
-{{< button-center href="" >}}
+{{< button-center href="/mitmachen" >}}
 Werde Stadtentwickler*in!
 {{< /button-center >}}
 
 
 {{< home/teaser-climate >}}
 
-
 {{< section >}}
 {{< headline-icon icon="icon-info.svg" >}}
 
-{{< headline-brackets-h1 level="h1" color="blue"  >}}
+{{< headline-brackets-h1 color="blue"  >}}
 Wer wir sind und was wir machen
 {{< /headline-brackets-h1  >}}
 
@@ -29,9 +27,6 @@ Wer wir sind und was wir machen
 Über uns
 {{< /button-center >}}
 {{< /section >}}
-
-
-
 
 {{< section >}}
 {{< headline-icon icon="icon-bracket.svg" >}}
@@ -56,8 +51,8 @@ Mach mit!
 Projekte und Anwendungen finden
 {{< /headline-brackets-h2  >}}
 
-{{< paragraph-center class="text-center" >}}
-Du möchtest einen Eindruck von unseren Projekten bekommen? Wir arbeiten gegenwärtig zu den Themenfeldern Mobilität, Gesellschaft, Umwelt und Politik
+{{< paragraph-center class="text-center mb-5" >}}
+Du möchtest einen Eindruck von unseren Projekten bekommen? Wir arbeiten gegenwärtig zu den Themenfeldern Mobilität, Gesellschaft, Umwelt und Politik.
 {{< /paragraph-center >}}
 
 {{< button-center href="/projekte" >}}
@@ -72,10 +67,6 @@ Projekte
 {{< headline-brackets-h2 color="blue"  >}}
 Unsere gesellschaftlichen Ziele
 {{< /headline-brackets-h2  >}}
-
-{{< paragraph-center class="text-center" >}}
-Du möchtest einen Eindruck von unseren Projekten bekommen? Wir arbeiten gegenwärtig zu den Themenfeldern Mobilität, Gesellschaft, Umwelt und Politik
-{{< /paragraph-center >}}
 
 {{< home/block-goals >}}
 
@@ -97,6 +88,20 @@ Was bei uns passiert
 {{< button-center href="/blog" >}}
 Mehr Blogartikel lesen
 {{< /button-center >}}
+{{< /section >}}
+
+{{< section >}}
+{{< headline-icon icon="icon-calendar.svg" >}}
+{{< headline-brackets-h2 color="blue"  >}}Kalender{{< /headline-brackets-h2  >}}
+
+{{< paragraph-center class="text-center mb-5" >}}
+Aktuelle Veranstaltungen unserer Labs gibt es in unserem Nextcloud Kalender.
+{{< /paragraph-center >}}
+
+{{< button-center href="https://cloud.prototypefund.de/apps/calendar/p/DkfdNbzXmyXr3jtL/dayGridMonth/now" target="_blank" >}}
+Termine ansehen
+{{< /button-center >}}
+
 {{< /section >}}
 
 

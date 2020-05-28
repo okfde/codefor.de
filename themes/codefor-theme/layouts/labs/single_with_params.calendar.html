@@ -6,7 +6,10 @@
 
 <h1 class="text-center mb-4 mb-lg-6">{{.Title}}</h1>
 
-{{ partial "hero-block-center.html" (dict "context" . "txt" .Params.Hero ) }}
+<!-- hier den Param aus dem Frontmatter einsetzten -->
+{{$hero := "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. "}}
+{{ partial "hero-block-center.html" (dict "context" . "txt" $hero ) }}
+
 
 {{ $txt := .Content }}
 <div class="freetext-container">
@@ -17,7 +20,7 @@
 <div class="row justify-content-center my-8">
 	<div class="col-22 col-md-18 col-lg-16 col-xl-15">
 		<div class="accordion" id="accordionCode">
-
+            
             <div class="card open">
                 <div class="card-header px-0" id="heading-participate-1">
                     <div class="d-flex justify-content-between">
@@ -30,7 +33,7 @@
                     </div>
 
                 </div>
-
+                
                 <div id="collapse-participate-1" class="collapse show" aria-labelledby="heading-participate-1" data-parent="#accordionCode">
                     <div class="card-body py-0">
                         <div class="row justify-content-center">
@@ -60,7 +63,7 @@
                     </div>
 
                 </div>
-
+                
                 <div id="collapse-participate-2" class="collapse" aria-labelledby="heading-participate-2" data-parent="#accordionCode">
                     <div class="card-body py-0">
                         <div class="row justify-content-center">
@@ -96,18 +99,14 @@
                         <div class="row justify-content-center">
                             <div class="col-20 py-4">
                                 <table class="table table-borderless">
-                                    <div class="row justify-content-center my-4">
-                                        <div class="col-23 col-sm-20 col-lg-14 col-xl-11">
-                                            <p class="text-center mb-5">
-                                                Aktuelle Veranstaltungen unserer Labs gibt es in unserem Nextcloud Kalender
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <div class="d-flex justify-content-center">
-                                        <a class="btn btn-outline-dark" href="https://cloud.prototypefund.de/apps/calendar/p/DkfdNbzXmyXr3jtL/dayGridMonth/now " target="_blank" rel="noopener noreferrer">
-                                            Termine ansehen
-                                        </a>
-                                    </div>
+                                    {{ range .Params.Calendar }}
+                                    <tr>
+                                        <td>{{.date}}</td>
+                                        <td>{{.location}}</td>
+                                        <td>{{.title}}</td>
+                                        <td><a class="d-block text-center text-dark" href="{{ .url }}" target="_blank" rel="noopener noreferrer" > <img class="ext-link-icon" src="/img/ext-link.svg" alt=""></a></td>
+                                    </tr>
+                                    {{ end }}
                                 </table>
                             </div>
                         </div>
@@ -120,32 +119,23 @@
 	</div>
 </div>
 
-{{/*
-    Lists projects of this lab.
-    Requires project Pages to include the filename
-    without extension of this lab to be in the
-    "labs: [...]" property of the frontmatter of the
-    project file.
-*/}}
-{{/* create a slice because we're using "intersect" in the next line */}}
-{{ $filename := slice .File.BaseFileName }}
-{{ $lab_projects := (where (where .Site.RegularPages "Layout" "==" "project") ".Params.lab" "intersect" $filename)}}
-{{ if len $lab_projects | ne 0 }}
 
 {{ partial "headline-brackets-h2.html" (dict "context" . "txt" "Projekte" "color" "red" ) }}
+
 <div class="row justify-content-center mb-5 mb-lg-7">
     <div class="col-22 col-md-18">
         <div class="row">
-        {{ range $lab_projects }}
+            {{ $fn := .File.BaseFileName }}
+            {{ range .Site.Pages }}
+            {{ if $fn | in .Params.lab }}
             {{ partial "project-preview.html" . }}
-        {{ end }}
+            {{ end}}
+            {{ end}}
         </div>
     </div>
 </div>
-{{ end }}
 
 
-<hr/>
 {{partial "map-overview.html" . }}
 
 
