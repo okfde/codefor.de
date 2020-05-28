@@ -70,6 +70,3 @@ hero: Münster geht voll ab.
 Als eines der eher technischen Labs dreht es sich bei uns vor allem eher darum, wie man eine solide und offene Basis für Open Data-Anwendungen aller Art herstellen kann.
 
 Bei unseren wöchentlichen offenen Treffen bieten wir allen Interessierten die Möglichkeit zum Erlernen verschiedenster IT-Kenntnisse und zum Umgang mit offenen Daten. Vor allem aber lernt man bei uns die eigenen Fähigkeiten mit viel Leidenschaft für einen guten Zweck einzusetzen.
-
-Ding dong Platzhalter
-Beard vexillologist poke hell of etsy humblebrag. Mixtape lo-fi fanny pack food truck, ennui skateboard godard listicle you probably haven't heard of them master cleanse keytar gentrify helvetica trust fund. Flexitarian post-ironic vaporware seitan whatever tousled. Polaroid heirloom af poke la croix actually irony brunch viral. Unicorn readymade twee crucifix shabby chic pok pok poke copper mug.
