@@ -33,4 +33,4 @@ If you want to get in touch with the team from Code for Germany, you can reach u
 {{< /paragraph-center  >}}
 
 
-{{< about us/blocks-about-us >}}
+{{< about/blocks-about-us >}}
