@@ -1,6 +1,6 @@
 ---
 title: About us
-menu: 
+menu:
   main:
     weight: 60
     name: English
@@ -15,7 +15,7 @@ About us
 
 
 {{< hero-block-center  >}}
-Code for Germany is a network of open government experts. As volunteer urban developers we work for a sustainable digital change in politics and administration. 
+Code for Germany is a network of open government experts. As volunteer urban developers we work for a sustainable digital change in politics and administration.
 {{< /hero-block-center  >}}
 
 
@@ -33,4 +33,4 @@ If you want to get in touch with the team from Code for Germany, you can reach u
 {{< /paragraph-center  >}}
 
 
-{{< about/blocks-about >}}
+{{< ueber/blocks-ueber-uns "about" >}}
