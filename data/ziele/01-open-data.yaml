@@ -1,18 +1,25 @@
 title: >
-  Offene Daten sind Daten, auf die alle Personen frei zugreifen können und die von allen genutzt und geteilt werden können. Sie werden in vielen Anwendungen erzeugt und gesammelt, beispielsweise in amtlichen Messungen oder wissenschaftlichen Experimenten. Offene Daten sind keine persönlichen Daten.
+  Open Data bzw. Offene Daten sind Daten, auf die alle Personen frei zugreifen und die von allen genutzt und geteilt werden können. Sie werden in vielen Anwendungen erzeugt und gesammelt, z. B. in amtlichen Messungen oder wissenschaftlichen Experimenten. Offene Daten sind keine persönlichen Daten.
 icon: CFG_open_data.svg
 iconCaption: Open<br>Data
 txt: >
-  Entwickler*innen, Designer*innen, Verwaltungsfachleute, Bildungsexpert*innen, Pressespezialist*innen, Transparenzenthusiast*innen und viele weitere interessierte und engagierte Menschen diskutieren in ihren lokalen Labs über Strategien von Open Government und basteln an passenden Lösungen. Sie setzen Datenstandards und überzeugen Entscheider*innen in Politik und Verwaltung von ihrer Notwendigkeit. Sie sind der Kleber, der Politik, Verwaltung und Zivilgesellschaft zusammenhält.
+  Offene Daten bezeichnet Daten, die unter einer freien Lizenz, z. B. [CC Lizenzen](https://creativecommons.org/about/cclicenses/) veröffentlicht werden, so dass alle Personen auf sie zugreifen, sie frei nutzen und mit anderen Menschen teilen können. Das bezieht sich auch darauf, dass die Daten möglicherweise zu einem anderen als dem ursprünglich gedachten Zweck verwendet werden. All das sollte ohne Hindernisse, finanzieller, technischer oder physischer Natur möglich sein.
 
 
-  Entwickler*innen, Designer*innen, Verwaltungsfachleute, Bildungsexpert*innen, Pressespezialist*innen, Transparenzenthusiast*innen und viele weitere interessierte und engagierte Menschen diskutieren in ihren lokalen Labs über Strategien von Open Government und basteln an passenden Lösungen. Sie setzen Datenstandards und überzeugen Entscheider*innen in Politik und Verwaltung von ihrer Notwendigkeit. Sie sind der Kleber, der Politik, Verwaltung und Zivilgesellschaft zusammenhält.
+  Eine wichtige Anforderung an Offene Daten ist, dass sie maschinenlesbar sind, üblicherweise sind das offene Tabellenformate wie CSV Formate. Diese Zahlenkolonnen sind auf den ersten Blick vielleicht nicht sofort zugänglich. Dazugehörige Metadaten geben aber Aufschluss über die einzelnen Parameter und den Inhalt der Offenen Daten.
 
 
-  Die Open Knowledge Foundation bietet ihnen dafür eine technische Infrastruktur an, um beispielsweise Methoden zum Wissenstransfer und Best Practice Lösungen zu erarbeiten. Neben dem digitalen Austausch, setzen wir auf gemeinsame Events, um den direkten und persönlichen Austausch zu fördern. Daneben setzt sich Code for Germany auch für die Belange der Community gegenüber Politik und Verwaltung ein. Ziel ist es, durch Open Government die Bürger*innen zu mehr aktiver Beteiligung am politischen Prozess zu befähigen. 
+  Der Open-Data-Ansatz folgt dem Grundsatz der Hackerethik: öffentliche Daten nützen, private Daten schützen. D. h. es geht in der Regel um Datensätze, die keine persönlichen Informationen enthalten - vereinfacht gesagt geht es eher um Statistiken oder Messdaten als um Individualdaten. Sollten Datensätze persönliche Informationen enthalten, ist das nicht automatisch ein Hindernis, die Daten müssen nur ausreichend anonymisiert werden.
 
 
-  Wenn ihr bei Code For Germany mitmacht, akzeptiert ihr unseren “Code of Conduct”.  
+  Aufgrund dieser Einschränkungen bilden öffentliche Daten die Mehrheit Offener Daten. Also solche Angaben über die Bevölkerung, öffentliche Einrichtungen oder Dienste, die Behörden oder Regierungen sowieso erheben und sammeln, um informierte Entscheidungen treffen zu können. Dies sind zum Beispiel Bevölkerungsstatistiken oder Haushaltspläne, Besuchszahlen von Kultureinrichtungen oder Messdaten zur Trinkwasserqualität. Öffentliche Daten für die Bürger\*innen und Interessierte zu öffnen, legt die Grundlage für Beteiligungsstrukturen und ermöglicht einen konstruktiven und informationsbasierten Austausch zwischen Verwaltungen und der Bevölkerung. 
 
   
-  Wer bei Code For Germany mitmacht, akzeptiert unsere Grundsätze.
+  Weitere Informationen zu den technischen und gesellschaftlichen Aspekten von Offenen Daten findest du hier:
+
+
+  [Leitfaden Open Data](https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/ein-leitfaden-fuer-offene-daten)
+
+
+  [Broschüre Open Data in Kommunen](https://www.bertelsmann-stiftung.de/de/publikationen/publikation/did/open-data-in-kommunen2019)
+  
