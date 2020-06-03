@@ -11,6 +11,9 @@ links:
 - url: https://github.com/hatorikibble/pegelbot
   name: Code
 
+tags:
+- Umwelt
+
 ---
 Der TwitterBot [@koelnpegelbot](https://twitter.com/koelnpegelbot) nutzt die API der Stadtentwässerungsbetriebe Köln um über den aktuellen Pegelstand des Rheins bei Köln zu informieren.
 

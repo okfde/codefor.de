@@ -24,6 +24,10 @@ collaborators:
     name: twitter
   - url: https://github.com/jfilter
     name: github
+
+tags: 
+- Mobilität
+
 ---
 
 UPDATE: Aufgrund Druck von Dritter (wir nennen keine Namen) musste MagdeGo offline genommen werden. Wir planen aber einen Relaunch.

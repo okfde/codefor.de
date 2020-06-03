@@ -17,6 +17,9 @@ links:
 - url: https://de.wikipedia.org/wiki/Elektronische_Fahrplanauskunft_%28Software%29
   name: Elektronische Fahrplanauskunft
 
+tags:
+- Mobilität
+
 ---
 
 Im Rahmen des *Open VVS Day* der Stuttgarter Zeitung wurde ein JSON-API entwickelt, welches das *Application Programming Interface* (API) der Elektronischen Fahrplanauskunft (EFA) in eine RESTful API hüllt.  Das macht die Entwicklung von Anwendungen leichter, da man sich nicht lange in das unzureichend öffentlich dokumentierte EFA-API einarbeiten muss.

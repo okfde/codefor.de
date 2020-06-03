@@ -23,6 +23,9 @@ collaborators:
   - url: https://twitter.com/alexplus_de
     name: twitter
 
+tags:
+- Politik
+
 ---
 
 Die Abgeordneten im Landtag von Baden-Württemberg starten jeden Monat viele Initiativen und Anfragen zu ganz unterschiedlichen Themen. Wir wollen diese Daten besser zugängig machen und aufbereiten.

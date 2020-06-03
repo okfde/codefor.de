@@ -15,6 +15,9 @@ collaborators:
 - name: Torf
 
 
+tags:
+- Gesellschaft
+
 ---
 
 Dieses Projekt visualisiert auf einer Karte wo gerade Wochenmarkt in Karlsruhe ist. Man kann für den aktuellen Tag filtern oder alle anzeigen. Die gerade stattfindenden Märkte werden grün gekennzeichnet.

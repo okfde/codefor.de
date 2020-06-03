@@ -19,6 +19,9 @@ collaborators:
   - url: http://github.com/tursics
     name: GitHub
 
+tags:
+- Gesellschaft
+
 ---
 
 Viele Schulen in Berlin sind marode. Wie teuer die Sanierung wirklich wird, können Sie auf der Karte erkunden.<br />

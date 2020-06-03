@@ -47,6 +47,10 @@ collaborators:
   - url: https://github.com/k-nut
     name: GitHub
 
+tags:
+- Umwelt
+
+
 ---
 
 The street trees project aims at providing an API for street tree data. We build a RESTful API on top of geospatially referenced tree data.

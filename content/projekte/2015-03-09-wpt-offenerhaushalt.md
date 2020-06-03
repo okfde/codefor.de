@@ -17,6 +17,9 @@ collaborators:
 - name: Ralf
 
 
+tags:
+- Politik
+
 ---
 
 Interaktive Visualisierung des Wuppertaler Haushalts, damit sich engagierte BürgerInnen leicht einen Überblick verschaffen können.

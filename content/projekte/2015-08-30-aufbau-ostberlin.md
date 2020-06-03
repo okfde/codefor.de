@@ -22,6 +22,9 @@ collaborators:
 - name: Lina Rehork
 
 
+tags:
+- Gesellschaft
+
 ---
 Unser digitaler Architekturführer arbeitet mit einem Datensatz aus dem Nachlass der Fotografin Gisela Dutschmann. Diese war 37 Jahre lang am Ostberliner Fotoarchiv mit der Dokumentation der städtebaulichen Entwicklung der DDR beauftragt, und erlebte den Wandel der politischen Maximen entsprechend hautnah mit. Aus dem umfangreichen Bestand ihrer Fotografien ist dieser Datensatz für den {Coding Da Vinci}-Hackathon 2014 von der Berlinischen Galerie ausgewählt worden.
 <br />

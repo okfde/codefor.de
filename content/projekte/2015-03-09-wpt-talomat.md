@@ -20,6 +20,8 @@ collaborators:
 - name: Ralf
 - name: Sam
 
+tags:
+- Politik
 
 ---
 

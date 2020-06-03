@@ -16,6 +16,9 @@ links:
 collaborators:
 - name: Nico
 
+tags:
+- Gesellschaft
+
 ---
 
 KartenKarte ließt vorhandene Daten aus OpenStreetMap aus und stellt diese auf eine andere Art und Weise dar.<br/>

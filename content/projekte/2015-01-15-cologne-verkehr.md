@@ -11,6 +11,10 @@ links:
 - url: https://github.com/pajoma/BauMel
   name: Code
 
+tags:
+- Mobilität
+
+
 ---
 Wer in Köln wissen will, wann in der Umgebung seines Auto-Parkplatzes eine verkehsbezogene Meldung ist - um z.B. zu verhindern, dass das Auto abgeschlept wird - hat in der App die Möglichkeit seine Mail zu hinterlassen, um gewarnt zu werden, wenn dahingehen etwas in der vermerkte Umgebung passiert.
 Die App befindet sich noch im Aufbau.

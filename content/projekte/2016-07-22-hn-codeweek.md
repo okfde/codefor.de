@@ -37,6 +37,9 @@ collaborators:
     name: github
 - name: Christoph Uschtrin
 
+tags:
+- Gesellschaft
+
 ---
 
 <p>Basierend auf einer Idee der Young Advisors Gruppe der EU Kommission ging die “EU Code Week” vom 10. – 18. Oktober

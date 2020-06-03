@@ -32,6 +32,11 @@ collaborators:
     name: twitter
   - url: http://github.com/saerdnaer
     name: github
+
+tags:
+- Gesellschaft
+
+
 ---
 
 Ziel ist ein faktenbasierter Mietspiegel für München.

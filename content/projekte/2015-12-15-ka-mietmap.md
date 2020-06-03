@@ -14,6 +14,9 @@ links:
 collaborators:
 - name: Torf
 
+tags:
+- Gesellschaft
+
 ---
 
 Dieses Projekt visualisiert auf einer Karte die Mietpreise in Karlsruhe auf Basis von Immobilienanzeigen.

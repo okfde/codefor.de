@@ -18,6 +18,9 @@ colaborators:
   - url: https://github.com/daimpad
     name: GitHub
 
+tags:
+- Gesellschaft
+
 ---
 
 <b>Was ist KinderBonn?</b>

@@ -12,6 +12,11 @@ links:
 collaborators:
 - name: Achim
 - name: Robert
+
+
+tags:
+- Gesellschaft
+
 ---
 
 Das Ratsinformationssystem der Stadt Jena ist zwar ganz nett, aber wenig zu einer umfassenden und vor allem automatischen Information der Bürger geeignet.

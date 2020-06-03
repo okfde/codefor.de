@@ -24,6 +24,9 @@ collaborators:
   - url: https://twitter.com/tbsprs
     name: Twitter
 
+tags:
+- Umwelt
+- Gesellschaft
 
 
 ---

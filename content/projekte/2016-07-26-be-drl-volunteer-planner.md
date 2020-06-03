@@ -14,5 +14,9 @@ links:
 - url: https://github.com/coders4help/volunteer_planner/
   name: Page on Github
 
+tags:
+- Gesellschaft
+
+
 ---
 Der Volunteer-Planner ist eine Schichtplanungsplattform von Ehrenamtlichen fuer Ehrenamtliche. Mit ihm koennen organisationsuebergreifend bisher ungebundene Ehrenamtliche sich einfach und kurzfristig fuer Schichten (in Gefluechtetenunterkuenften) eintragen. Im Rahmen des Berliner Digital Refugee Labs wird der Volunteer-Planner weiterentwickelt.
