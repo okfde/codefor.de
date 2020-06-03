@@ -15,6 +15,10 @@ links:
 - url: https://github.com/toxic2302
 name: GitHub
 
+tags:
+- Gesellschaft
+
+
 ---
 
 Eine Interaktive Karte mit den aktuellen Mietpreisen pro Quadratmeter in verschiedene Bereiche aufgeteilt.

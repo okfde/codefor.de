@@ -31,6 +31,9 @@ collaborators:
   - url: https://github.com/konstin
     name: GitHub
 
+tags:
+- Politik
+
 ---
 
 Meine Stadt Transparent ist ein vom [Prototype Fund](https://prototypefund.de) gefördertes Projekt. Mit dieser Förderung können wir für 6 Monate, vom September 2017 bis Februar 2018, an dem Projekt arbeiten. Wir hatten uns unter dem Namen "Open Source Ratsinformationssystem" beworben und das Projekt später in "Meine Stadt Transparent" umbenannt.

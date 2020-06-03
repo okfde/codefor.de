@@ -22,6 +22,9 @@ collaborators:
   - url: http://github.com/jochenklar
     name: github
 
+tags:
+- Gesellschaft
+
 ---
 
 Berlin veröffentlicht Datensätze über das Geoportal Berlin, den sog. [FIS Broker](https://fbinter.stadt-berlin.de/fb/index.jsp). Die Daten sind über WMS und WFS Schnittstellen erreichbar und daher nicht ohne weiteres für eigene Webanwendungen nutzbar. Wir habe Teile der Daten extrahiert und stellen sie über [tiles.codefor.de](https://tiles.codefor.de/) bereit.

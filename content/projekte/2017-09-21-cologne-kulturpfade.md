@@ -11,6 +11,10 @@ links:
 - url: https://github.com/chfinke/kulturpfadekoeln
   name: Code
 
+tags:
+- Gesellschaft
+
+
 ---
 Das Projekt soll die Informationen zu den Kulturpfaden Köln zusammentragen
 und in einer nutzbaren Form darstellen. Es handelt sich dabei um eine

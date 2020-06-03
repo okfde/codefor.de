@@ -21,6 +21,10 @@ links:
 - name: Blog Post
   url: https://nucleon-ev.eu/best-of-digital-2018/
 
+tags:
+- Umwelt
+- Gesellschaft
+
 ---
 
 Wir ermöglichen mit dem Aufbau von LoRaWAN Gateways in Schleswig-Holstein anderen Projekten, Firmen, Kommunen und der Landwirtschaft den Zugang zum größten IoT Netzwerk.

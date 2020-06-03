@@ -16,6 +16,10 @@ links:
 collaborators:
 - name: Torf
 
+tags:
+- Gesellschaft
+
+
 ---
 
 Jeder Karlsruher Stadtteil ist anders — wie hat sich das auf die Wahl ausgewirkt? Wir haben uns das an Hand verschiedener Statistiken genauer angeschaut.

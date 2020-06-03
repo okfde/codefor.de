@@ -21,6 +21,9 @@ collaborators:
   - url: https://github.com/dbaelz
     name: GitHub
 
+tags:
+- Umwelt
+
 ---
 
 Open Sense stellt Android Sensor-Widgets für das openSenseMap-Projekt (https://opensensemap.org) bereit. Die App ermöglicht es von über 800 Messstationen die offenen Sensordaten wie Temperatur, Emission von Feinstaub oder Luftdruck zu beobachten.

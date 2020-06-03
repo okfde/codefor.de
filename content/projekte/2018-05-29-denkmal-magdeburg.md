@@ -16,6 +16,9 @@ collaborators:
   - url: https://twitter.com/fil_ter
     name: twitter
 
+tags:
+- Gesellschaft
+
 ---
 
 Denkmal Magdeburg zeigt dir Informationen zu Denkmälern in deiner Umgebung an. Das Projekt ist gerade nur ein Minimum Viaable Prodct (MVP) und es sind herzlichst Mistreiter*innen gesucht es zu beenden.

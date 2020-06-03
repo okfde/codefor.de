@@ -17,6 +17,9 @@ collaborators:
     - url: https://github.com/juliuste
       name: GitHub
 
+tags:
+- Mobilität
+
 ---
 
 Preiskarte für Bahn- und Busreisen in Europa: Zeigt die günstigsten Verbindungen in viele europäische Städte.

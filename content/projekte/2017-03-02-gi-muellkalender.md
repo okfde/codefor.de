@@ -15,6 +15,9 @@ links:
 - url: https://github.com/toxic2302
 name: GitHub
 
+tags:
+- Umwelt
+
 ---
 
 Wann wird welcher Abfall in meiner Straße abgeholt? Mit dieser App sieht man alles auf einen Blick und erhält auch Push-Nachrichten für die jeweilige Straße.

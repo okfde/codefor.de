@@ -27,6 +27,9 @@ collaborators:
     - url: https://github.com/felixebert
       name: GitHub
 
+tags:
+- Gesellschaft
+
 ---
 
 In den letzten Monaten ist im Rahmen des OKLabs und in Zusammenarbeit mit dem Stadtarchiv in Heilbronn eine Website für die Stolperstein-Aktion in Heilbronn entstanden.

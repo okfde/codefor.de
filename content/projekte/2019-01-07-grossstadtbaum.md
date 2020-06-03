@@ -21,6 +21,9 @@ collaborators:
   - url: http://github.com/tursics
     name: GitHub
 
+tags:
+- Gesellschaft
+
 ---
 
 Berlin veröffentlicht Datensätze zu Anlagenbäumen, Straßenbäumen und Uferbäumen.

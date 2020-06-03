@@ -20,6 +20,10 @@ collaborators:
   - url: https://github.com/debvortex
     name: github
 - name: Frances Lindemann
+
+tags:
+- Umwelt
+
 ---
 
 Interaktive Visualisierungen über die Funktionsweise einer Kläranlage.
