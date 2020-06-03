@@ -41,6 +41,8 @@ collaborators:
   - url: https://github.com/ManuPogo
     name: github
 
+tags:
+- Gesellschaft
 
 ---
 

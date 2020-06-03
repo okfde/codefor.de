@@ -2,7 +2,7 @@
 layout: project
 lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/flaechengerechtigkeit.png
-title: FLÄCHENGERECHTIGKEITS-TOOL
+title: Flächengerechtigkeits-Tool
 
 showcase: 1
 
@@ -16,6 +16,11 @@ collaborators:
   links:
   - url: https://www.xing.com/profile/Heinrich_Stroessenreuther
     name: Xing
+
+
+tags:
+- Gesellschaft
+- Mobilität
 
 ---
 

@@ -26,6 +26,10 @@ collaborators:
   links:
   - url: https://twitter.com/hbrtweets
     name: twitter
+
+tags:
+- Politik
+
 ---
 
 wahlversprechen2013.de dokumentiert alle Wahlversprechen der Bundesregierung, d.h. die Inhalte des Koalitionsvertrags und die Inhalte der Wahlprogramme von SPD und CDU. Wir möchten im Verlauf der Legislaturperiode so objektiv wie möglich dokumentieren, welche Wahlversprechen umgesetzt wurden und bei welchen die Umsetzung scheiterte.

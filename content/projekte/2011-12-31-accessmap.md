@@ -16,6 +16,9 @@ collaborators:
   - url: http://github.com/arduina
     name: github
 
+tags:
+- Gesellschaft
+- Mobilität
 
 ---
 Little project that aims at raising awareness for accessibility in public transport systems. It uses a simple slider to visualize how the public transport system looks like if all the non-accessible stations are erased. There is an elaborate how-to available, suitable for non-coders on the projects github site.

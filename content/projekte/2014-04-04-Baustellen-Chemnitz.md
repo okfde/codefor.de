@@ -20,6 +20,10 @@ collaborators:
     name: github
 
 
+tags:
+- Gesellschaft
+- Mobilität
+
 ---
 
 Auf einer Karte werden die Baustellen in Chemnitz übersichtlich dargestellt. Die Daten werden von der [Stadt Chemnitz][] als Text veröffentlicht.

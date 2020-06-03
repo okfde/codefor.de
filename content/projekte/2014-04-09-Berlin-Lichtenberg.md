@@ -19,6 +19,10 @@ collaborators:
   - url: http://github.com/tursics
     name: github
 
+
+tags:
+- Gesellschaft
+
 ---
 
 In Berlin gibt es einen Haufen offener Daten. Wie kann man diese sinnvoll auf einer Karte anzeigen? Und kann man Bürgerbeteilungsmöglichkeiten sinnvoll einbinden (Bürgerhaushalt, Maerker, Stadtbäume, Bürger baut Stadt, ...)? Und wie kann man das Ratsinformationssystem bürgernah anzeigen?

@@ -27,6 +27,10 @@ collaborators:
   - url: https://github.com/ATack
     name: github
 
+
+tags:
+- Gesellschaft
+
 ---
 
 Was verändert sich gerade (durchschtnittlich) in Hamburg? Eine Übersicht interessanter Zahlen.

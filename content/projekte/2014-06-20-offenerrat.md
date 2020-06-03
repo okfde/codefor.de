@@ -19,6 +19,9 @@ collaborators:
     name: github
 
 
+tags:
+- Politik
+
 ---
 
 Ein Tool um die aktuellen Vorlagen und Sitzungen des Rates Münster zu sehen.

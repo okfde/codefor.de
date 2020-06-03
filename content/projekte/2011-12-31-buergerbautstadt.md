@@ -36,6 +36,9 @@ collaborators:
   - url: http://github.com/LucasJ
     name: github
 
+tags:
+- Politik
+- Gesellschaft
 
 ---
 

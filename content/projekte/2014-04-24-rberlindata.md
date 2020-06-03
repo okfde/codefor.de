@@ -16,6 +16,10 @@ collaborators:
 - name: Kate McCurdy
 - name: Dirk Schumacher
 
+
+tags:
+- Gesellschaft
+
 ---
 
 Ein R Paket, um einfach auf die Daten von daten.berlin.de

@@ -23,6 +23,10 @@ collaborators:
 - name: Tobias Bradtke
 - name: (Jürgen B.)
 
+
+tags:
+- Politik
+
 ---
 
 Ein Tool zum Vergleich von Abschnitten in Wahlprogrammen.

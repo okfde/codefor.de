@@ -11,6 +11,9 @@ links:
 collaborators:
 
 
+tags:
+- Mobilität
+
 ---
 
 Hamburg ist nicht gerade die fahrradfreundlichste Stadt Deutschlands. Das monothematische Blog Things On Bikelanes sammelt Beispiele für Behinderungen auf Hamburgs Radwegen. CodeforHH hat aus den teilweise geografisch verortbaren Fotobeiträgen eine Karte gebaut.

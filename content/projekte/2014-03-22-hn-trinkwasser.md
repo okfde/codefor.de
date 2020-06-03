@@ -51,6 +51,11 @@ collaborators:
     name: twitter
 - name: Gerd Hoffmann
 
+
+tags:
+- Umwelt
+
+
 ---
 
 Trinkwasser gilt als das am besten kontrollierte Lebensmittel in Deutschland. Und trotzdem wissen wir sehr wenig über das Wasser, das bei uns aus dem Hahn kommt.

@@ -37,6 +37,10 @@ collaborators:
     name: github
 
 
+tags:
+- Politik
+- Gesellschaft
+
 ---
 
 Berlin ist voll von CCTV Cams. Das visualisieren wir mit unserer interaktiven Karte 'cctvwatch'.

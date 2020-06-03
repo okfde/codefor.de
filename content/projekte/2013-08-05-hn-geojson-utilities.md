@@ -29,6 +29,9 @@ collaborators:
   - url: https://github.com/GityUpNow
     name: github
 
+tags:
+- Gesellschaft
+
 ---
 
 Dieses Projekt ermöglicht einen schnellen Export der Gemeindeflächen, Landkreisflächen und Bundeslandflächen in Deutschland im .geojson Format. Dies ist besonders hilfreich für Journalisten und Progammierer, die auf Basis von Geodaten Visualisierungen erstellen wollen - beispielsweise durch die Einfärbung einzelner Gemeindeflächen. Das Tool wurde u.a. bereits von der Zeitung "Die Welt" eingesetzt.

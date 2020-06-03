@@ -24,6 +24,9 @@ collaborators:
   - url: http://github.com/jochenklar
     name: github
 
+tags:
+- Gesellschaft
+
 ---
 
 Historische Berlin-Karten aus dem FIS-Broker zur Benutzung in anderen Projekten.

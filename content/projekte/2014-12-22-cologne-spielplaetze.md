@@ -11,6 +11,10 @@ links:
 - url: https://github.com/horald/meinspielplatz
   name: Code
 
+
+tags:
+- Gesellschaft
+
 ---
 Eine Auflistung von Spiel- und Sportplätzen in Köln auf einer Openstreetmap.
 Die Liste kann nach Stadtbezirken und Stadtteilen gefiltert werden.

@@ -16,6 +16,11 @@ collaborators:
 - name: Michael Hörz
 - name: Moritz Klack
 
+
+tags:
+- Politik
+- Gesellschaft
+
 ---
 
 Am 25. Mai 2014 ist Volksabstimmung zur Bebauung des Tempelhofer Felds.

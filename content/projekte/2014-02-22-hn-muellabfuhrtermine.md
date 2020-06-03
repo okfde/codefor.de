@@ -31,6 +31,10 @@ collaborators:
   - url: https://github.com/felixebert
     name: github
 
+tags:
+- Umwelt
+- Gesellschaft
+
 ---
 
 Mobiloptimierte Karte aller Recyclinghöfe im Stadt- und Landkreis Heilbronn + Kalender-Dateien (ICS) nach Wohnort mit den Müllabfuhrterminen zum Download in den eigenen Kalender.

@@ -14,6 +14,8 @@ collaborators:
 - name: Jan Lippert
 
 
+tags:
+- Gesellschaft
 
 ---
 

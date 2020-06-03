@@ -33,6 +33,10 @@ collaborators:
   - url: https://github.com/thyrlian
     name: github
 
+tags:
+- Politik
+- Gesellschaft
+
 ---
 
 Stolpersteine sind kleine Gedenktafeln im Straßenpflaster zur Erinnerung an die Opfer des Nationalsozialismus. Mehr als 40.000 davon hat der Künstler Gunter Demnig mittlerweile in ganz Europa verlegt.

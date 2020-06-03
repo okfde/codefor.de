@@ -38,7 +38,8 @@ collaborators:
   - url: https://twitter.com/balzer82
     name: twitter
 
-
+tags:
+- Mobilität
 ---
 
 Die Stadt Dresden bietet auf [https://www.dresden.de/freie-parkplaetze](https://www.dresden.de/freie-parkplaetze) eine Übersicht der freien Parkplätze in der Stadt Dresden an. Leider nicht maschinenlesbar (barrierefrei). Darum haben wir uns gekümmert!

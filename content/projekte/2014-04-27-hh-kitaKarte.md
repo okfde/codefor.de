@@ -34,6 +34,10 @@ collaborators:
     name: twitter
   - url: https://github.com/lplotni
     name: github
+
+tags:
+- Gesellschaft
+
 ---
 
 Visualisierung aller Hamburger Kitas auf einer Karte mit der Möglichkeit nach einer Bestimmten zu suchen.

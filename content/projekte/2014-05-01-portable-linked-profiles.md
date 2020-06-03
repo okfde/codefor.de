@@ -38,6 +38,10 @@ collaborators:
   - url: https://github.com/almereyda
     name: GitHub
 
+
+tags:
+- Gesellschaft
+
 ---
 
 PLP proposes a pattern for the creation, storage, listing and representation of

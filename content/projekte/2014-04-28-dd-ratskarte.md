@@ -18,6 +18,11 @@ collaborators:
     name: web
 
 
+tags:
+- Politik
+- Gesellschaft
+
+
 ---
 
 Finde Dokumente aus dem städtischen Ratsinfosystem welche Straßen in

@@ -27,6 +27,9 @@ collaborators:
     name: GitHub
 
 
+tags:
+- Politik
+- Gesellschaft
 ---
 
 2012 wurden in Deutschland 6919 Menschen auf dem Luftweg, 722 Menschen auf dem Landweg und 10 Menschen auf dem Seeweg abgeschoben. 3037 Menschen wurden in andere EU-Länder überstellt, darunter 456 Minderjährige. 348 unbegleitete Jugendliche wurden an Jugendämter übergeben, weitere 42 zurückgeschoben und einer zurückgewiesen.

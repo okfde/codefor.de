@@ -17,6 +17,10 @@ collaborators:
     name: twitter
 
 
+tags:
+- Umwelt
+- Gesellschaft
+
 ---
 
 Das Tool berrechnet die Nutzung der Flächen, basierend auf OpenStreetMap (OSM) Daten. Die OSM Daten wurden von verschiedenen Nutzern zusammengetragen. Es kommt zu Ungenauigkeiten, wenn die Daten garnicht oder fehlerhaft eingetragen wurden. So können sich z.B. Flächen überschneiden, falsch angegeben sein oder fehlen. Das Tool ist momentan auf Deutschland beschränkt.

@@ -12,6 +12,10 @@ collaborators:
   - url: https://twitter.com/tbsprs
     name: Twitter
 
+
+tags:
+- Gesellschaft
+
 ---
 
 Ich möchte eine Datenbank bauen, in der ich mehrere Versionen des gleichen Geodatensatzes ablegen kann. Ich möchte damit den zeitlichen Verlauf, also Änderungen am Datensatz festhalten. Die API soll den Zugriff auf die verschiedenen Snapshots ermöglichen.<br />
