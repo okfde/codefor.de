@@ -1,6 +1,6 @@
 ---
 title: Über Code for Germany
-menu: 
+menu:
   main:
     weight: 10
     name: Über uns
@@ -15,30 +15,33 @@ footerHideTopMargin: true
 
 
 {{< hero-block-center  >}}
-Code For Germany ist ein Netzwerk ehrenamtlicher Menschen, das sich mit Open Government für einen nachhaltigen digitalen Wandel in Politik und Verwaltung einsetzt. 
+Code For Germany ist ein Netzwerk von Open Government Expert\*innen, die sich als ehrenamtlich aktive Stadtentwickler\*innen für einen nachhaltigen digitalen Wandel in Politik und Verwaltung einsetzen.
 {{< /hero-block-center  >}}
 
 
 {{< paragraph-center  >}}
-In Open Knowledge Labs, den OK Labs, treffen digital affine Menschen aus Zivilgesellschaft, Verwaltung und Politik aufeinander. Gemeinsam arbeiten wir an analogen und digitalen Lösungen für mehr demokratische Teilhabe und offenes Wissen. Die Labs sind Experimentierräume für die digitale Stadtgesellschaft. Sie sind überzeugt, dass Technologie keinem Selbstzweck folgt, sondern vom Menschen und seinen Bedürfnissen her gedacht werden muss. 
+Code for Germany ist ein Projekt des gemeinnützigen Vereins Open Knowledge Foundation Deutschland. Daher leitet sich der Name unserer lokalen Organisationseinheiten ab: Open Knowledge Labs, kurz OK Labs. Hier treffen deutschlandweit digital affine Menschen  aufeinander. Gemeinsam arbeiten wir auf der Basis Offener Daten an analogen und digitalen Lösungen für mehr demokratische Teilhabe und Offenes Wissen.
 
-Code for Germany ist ein Projekt der Open Knowledge Foundation Deutschland, die das Netzwerk unterstützt und begleitet. Seit 2014 ist es auf 26 OK Labs in 14 Bundesländern angewachsen und umfasst eine Community von über 500 Ehrenamtlichen. Ihr Motto ist “Gute Taten mit Offenen Daten”. 
+Die Labs sind Experimentierräume für die digitale Stadtgesellschaft. Expert\*innen aus Entwicklung, Design, Politik, Verwaltung, Geisteswissenschaften und viele weitere entwickeln hier selbstständig Open-Source-Software, die Behörden für ihre tägliche Arbeit implementieren können. Mit diesen praktischen Anwendungen zeigen wir auf, wie unsere Gesellschaft jeden Tag von Open-Government-Prozessen profitiert und ein nachhaltiger digitaler Wandel gestaltet werden kann.
 
-Diese entwickeln selbstständig Open Source Software, die Verwaltung und Politik direkt implementieren können. Mit diesen praktischen Anwendungen zeigen wir auf, wie unsere Gesellschaft jeden Tag von Offenen Daten profitiert und ein nachhaltiger digitaler Wandel gestaltet werden kann.
+Zwei hauptamtliche Mitarbeiter\*innen unterstützen und begleiten das Netzwerk. Seit seiner Gründung 2014 ist es auf 26 Labs in 14 Bundesländern angewachsen und umfasst eine Community von über 500 Freiwilligen. Wir arbeiten im Austausch mit kommunalen Behörden und unterstützen sie darin, ihre Dienstleistungen zeitgemäß, effizient und transparent zu gestalten.
 
-Nachhaltiger digitaler Wandel bedeutet für uns Open Government unter folgenden Leitlinien umzusetzen:
+Nachhaltiger digitaler Wandel bedeutet für uns, Open Government unter folgenden Leitlinien umzusetzen:
 
-[OFFENE DATEN:](/ziele#heading-01-open-data) Verwaltungsdaten maschinenlesbar und standardisiert veröffentlichen
- 
-[Tech ohne Selbstzweck:](/ziele#heading-02-open-government) Technologie an menschlichen Bedürfnissen ausrichten 
+[OFFENE DATEN:](/ziele#heading-01-open-data) Verwaltungsdaten maschinenlesbar und standardisiert veröffentlichen.
 
-[Öffentliches Geld - Öffentliches Gut:](/ziele#heading-04-open-software) Steuergelder nur in Offene Software 
-investieren 
+[TECH OHNE SELBSTZWECK:](/ziele#heading-02-open-government) Technologie an menschlichen Bedürfnissen ausrichten.
 
-[Digitales Ehrenamt:](/ziele#heading-05-digitales-ehrenamt) Zivilgesellschaft einbinden und nachhaltig fördern  
-Ökologische Nachhaltigkeit: Natürliche Ressourcen schützen  
+[ÖFFENTLICHES GELD - ÖFFENTLICHES GUT:](/ziele#heading-04-open-software) Steuergelder in freie und Offene Software
+investieren.
+
+[DIGITALES EHRENAMT:](/ziele#heading-05-digitales-ehrenamt) Zivilgesellschaft einbinden und nachhaltig fördern.
+
+[ÖKOLOGISCHE NACHHALTIGKEIT:](/ziele#heading-06-oekologische-nachhaltigkeit) Natürliche Ressourcen schützen.
+
+**Im Folgenden geben wir einen kurzen Überblick darüber, was das für unsere Partner\*innen und uns in der Umsetzung bedeutet.**
 
 {{< /paragraph-center  >}}
 
 
-{{< ueber/blocks-ueber-uns >}}
+{{< ueber/blocks-ueber-uns "about-us-blocks-de" >}}
