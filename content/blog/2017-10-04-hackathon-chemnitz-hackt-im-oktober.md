@@ -10,6 +10,7 @@ images:
 - imgname: chemnitz/CodeForChemnitz.png
 ---
 
+# Hackathon: Chemnitz hackt
 
 Bei «Chemnitz Hackt» laden wir Entwicklerinnen und Bastler, Designer, Vordenker und Kreative dazu ein, in 25h Ideen zu entwickeln, Hardware-Prototypen zu basteln oder Apps zu entwickeln. Dabei soll es rund um offene Daten gehen und wie diese aufbereitet, kombiniert, erfasst oder genutzt werden können. Eurer Kreativität sollen keine Grenzen gesetzt sein - ob es ein kleines Spiel für Zwischendurch oder eine nützliche App für den Alltag wird. Ziel ist es zusammen in einem Team eine Idee zu einem Prototypen zu verwirklichen und anschließend allen Teilnehmern und einer Jury vorzustellen.
 
