@@ -16,7 +16,7 @@ Geschichten erzählen kann. Im Sommer absolvierte sie das [Lede Program][] an de
 Columbia University in New York und lernte unter anderem programmieren. Seit Kurzem arbeitet sie bei der Süddeutschen Zeitung. Mit
 uns spricht sie über Journalismus, die Datenszene und was Code for Germany für sie bedeutet.*
 
-[![wormer](/blog/wormer.png)](http://codefor.de/blog/vanessawormer)
+[![wormer](/blog/wormer.png)]({{< ref "/blog/2015-11-04-vanessawormer.md" >}})
 
 ### Hallo Vanessa! Vor kurzem hast Du bei der SZ als Datenjournalistin angefangen. Was versteht man denn unter Datenjournalismus?
 

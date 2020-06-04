@@ -26,5 +26,5 @@ Das Lab in Berlin sprudelt nur so von Ideen und es kommen auch immer wieder neue
 [solidarischer Landwirtschaft]: https://ernte-teilen.org
 [Bebauungspläne]: http://buergerbautstadt.de
 [Open Data Day 2014]: http://vimeo.com/87885835
-[bloggte]: http://codefor.de/blog/OK-Lab-mit-Herrn-Both/
+[bloggte]: {{< ref "/blog/2014-06-21-OK-Lab-mit-Herrn-Both.md" >}}
 [von einer Berliner Zeitung adaptiert]: http://interaktiv.morgenpost.de/tempelhofer-feld/

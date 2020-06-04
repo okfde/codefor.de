@@ -18,7 +18,7 @@ Heute findet der nächste globale Klimastreik statt, der angesichts der Pandemie
 * den Kohleausstieg bis 2030 zu verwirklichen,
 * 100% erneuerbare Energieversorgung bis 2035 sicherzustellen.
 
-Die Forderungen von Fridays for Future zielen also darauf ab, die Treibhausgasemissionen so schnell wie möglich zu reduzieren. Zahlreiche Gruppen haben sich daraus eigene Handlungsmaximen abgeleitet. Wir von Code for Germany setzen uns unter dem Motto [„Code for Climate“](https://codefor.de/blog/Code-For-Climate-Open-Data-Day.html) damit auseinander, was Entwickler\*innen und andere, die digital arbeiten, zum Klimaschutz beitragen können.
+Die Forderungen von Fridays for Future zielen also darauf ab, die Treibhausgasemissionen so schnell wie möglich zu reduzieren. Zahlreiche Gruppen haben sich daraus eigene Handlungsmaximen abgeleitet. Wir von Code for Germany setzen uns unter dem Motto [„Code for Climate“]({{< ref "/blog/2020-02-19-Code-For-Climate-Open-Data-Day.md" >}}) damit auseinander, was Entwickler\*innen und andere, die digital arbeiten, zum Klimaschutz beitragen können.
 
 ## Was möchten wir mit Code for Climate vermitteln?
 
