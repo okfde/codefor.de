@@ -1,6 +1,6 @@
 ---
 type: blog
-title: "Offene Standards: Technologien standardisiert zugänglich machen"
+title: Offene Standards: Technologien standardisiert zugänglich machen
 author: Claudia Jach
 excerpt: "In vielen Bereichen unseres Lebens z. B. bei Währungen und Papierformaten haben wir Standards, die uns den Austausch untereinander erleichtern. Nach der gleichen Logik setzt sich Code for Germany für Offene Standards in Technologien ein." 
 topic: story
