@@ -12,6 +12,8 @@ og-description: Was steckt in deinem Leitungswasser? Wir möchten es zusammen he
 draft: false
 ---
 
+# Mach mit bei unserer Trinkwasserkampagne!
+
 Trinkwasser, Leitungswasser, Kraneberger – egal wie du das Wasser nennst, das du täglich trinkst, zum Kochen, Duschen oder Wäsche waschen verwendest – es ist das wichtigste Lebensmittel, das wir haben und unterliegt strengen Auflagen und Kontrollen. Aber weißt du, was wirklich in deinem Leitungswasser steckt? Werden gesundheitsrelevante Grenzwerte in deiner Kommune eingehalten? Was bedeutet der jeweilige Nährstoffgehalt und ist er vergleichbar mit Flaschenwasser aus dem Supermarkt?
 
 Diese und andere Fragen beantwortet die [Trinkwasser-App](https://trinkwasser.codefor.de/), die in unserer Community entwickelt wurde. Leider liegen gegenwärtig nur für wenige Kommunen die entsprechenden Daten vor. Das möchten wir ändern! Passend zu unserem diesjährigen Fokus „Code for Climate“ fragen wir die Trinkwasserdaten aller Kommunen in Deutschland an, um möglichst viele in die Trinkwasser-App aufzunehmen.
