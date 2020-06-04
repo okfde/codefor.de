@@ -10,13 +10,14 @@ images:
 - imgname: wormer.png
 
 ---
+
+# Code for Journalism
+
 *Vanessa Wormer ist Journalistin und kennt sich mit Daten aus. Als Mitgründerin des
 OK Labs Heilbronn beschäftigt sie sich schon länger damit, wie man mit Daten bessere
 Geschichten erzählen kann. Im Sommer absolvierte sie das [Lede Program][] an der Journalistenschule der
 Columbia University in New York und lernte unter anderem programmieren. Seit Kurzem arbeitet sie bei der Süddeutschen Zeitung. Mit
 uns spricht sie über Journalismus, die Datenszene und was Code for Germany für sie bedeutet.*
-
-[![wormer](/blog/wormer.png)](http://codefor.de/blog/vanessawormer)
 
 ### Hallo Vanessa! Vor kurzem hast Du bei der SZ als Datenjournalistin angefangen. Was versteht man denn unter Datenjournalismus?
 
