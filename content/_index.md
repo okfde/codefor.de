@@ -66,6 +66,7 @@ Projekte
 
 {{< headline-brackets-h2 color="blue"  >}}
 Unsere gesellschaftlichen Ziele
+
 {{< /headline-brackets-h2  >}}
 
 {{< home/block-goals >}}
