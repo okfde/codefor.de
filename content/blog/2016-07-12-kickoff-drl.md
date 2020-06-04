@@ -14,8 +14,7 @@ images:
   sub: Bei der Arbeit in Berlin
 ---
 
-![drl-titel](/blog/drl-titel.jpg)
-
+# Kick-off, Take-off!
 
 Wir freuen uns sehr: Alle vier Digital Refugee Labs haben offiziell ihre Arbeit aufgenommen! Nach vier intensiven, spannenden und anstrengenden Kickoff-Workshops geht die Arbeit in Leipzig, Hamburg, Berlin und Karlsruhe nun erst richtig los.
 
