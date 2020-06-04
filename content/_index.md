@@ -3,7 +3,7 @@ title: Home
 ---
 
 {{< hero-block-center  >}}
-Code For Germany ist ein Netzwerk von Open-Government-Expert\*innen, die sich als ehrenamtlich aktive Stadtentwickler\*innen für einen nachhaltigen digitalen Wandel in Politik und Verwaltung einsetzen. 
+Code for Germany ist ein Netzwerk von Open-Government-Expert\*innen, die sich als ehrenamtlich aktive Stadtentwickler\*innen für einen nachhaltigen digitalen Wandel in Politik und Verwaltung einsetzen. 
 {{< /hero-block-center  >}}
 
 
