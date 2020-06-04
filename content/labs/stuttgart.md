@@ -59,9 +59,9 @@ leads:
   url: mailto:rajko@codefor.de
   username_twitter: ricki_z
   username_github: ricki-z
+  
+  hero: Home of sensor.community
 
 ---
 
-Fingerstache affogato chillwave, cloud bread literally cred blog subway tile pour-over pinterest 8-bit unicorn etsy photo booth health goth. Edison bulb cray tilde readymade shabby chic paleo kogi sustainable mixtape. Distillery +1 iceland pok pok, umami sartorial slow-carb pickled migas truffaut biodiesel. Pabst pork belly hammock photo booth vegan four loko. Listicle hammock cloud bread next level activated charcoal. Everyday carry sriracha affogato, slow-carb offal church-key brooklyn tbh green juice normcore ugh quinoa.
-
-Beard vexillologist poke hell of etsy humblebrag. Mixtape lo-fi fanny pack food truck, ennui skateboard godard listicle you probably haven't heard of them master cleanse keytar gentrify helvetica trust fund. Flexitarian post-ironic vaporware seitan whatever tousled. Polaroid heirloom af poke la croix actually irony brunch viral. Unicorn readymade twee crucifix shabby chic pok pok poke copper mug.
+Wir sind eine Gruppe von ehrenamtlich Aktiven, die sich für Offene Daten, Freie und Offene Software und Open Government interessiert. Unser OK Lab setzt sich lokal für eine Verbesserung der Transparenz von Staat und Verwaltungen ein, stößt Projekte zur Bürgerbeteiligung an und sucht den Austausch mit den Verwaltungen, um gemeinsam Lösungen für die Herausforderungen in unserer Region zu finden. Wir treffen uns regelmäßig, um unsere Projekte weiterzuentwickeln.
