@@ -9,6 +9,8 @@ images:
 draft: false
 ---
 
+# Warum wir über Wahldaten reden müssen
+
 2017 – das war unter anderem das Jahr der Bundestagswahl. Während CDU, CSU und SPD darüber reden, ob sie für weitere vier Jahre eine Regierung bilden wollen, möchten wir noch einmal auf die Wahl zurückblicken und haben dazu verschiedene Wahldatennutzerinnen und -nutzer um ihre Einschätzung gebeten.
 
 Bei den Wahlsalsons von Code for Germany im Mai, Juli und September haben wir uns im Vorfeld der Wahlen die Frage gestellt, wie es um die Wahldaten steht: Welche Daten geben Bundeswahlleiter, Landeswahlleiterinnen und -leiter, Kreiswahlleiterinnen und -leiter heraus? Wie einfach ist der Zugang zu diesen Daten? Genügt die Datenqualität? Welche Standards bewähren sich?
