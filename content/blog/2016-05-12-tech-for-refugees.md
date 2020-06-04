@@ -9,7 +9,7 @@ images:
 - imgname: drl.jpg
 ---
 
-[![DRL](/blog/drl.jpg)](http://codefor.de/digitalrefugeelabs/)
+[![DRL](/blog/drl.jpg)]({{< ref "/blog/2016-04-12-digital-refugee-labs" >}}/)
 
 <h3 style="text-align: center">Tech for Refugees - Was ist das eigentlich?
 </h3>
@@ -39,4 +39,4 @@ Einfache Werkzeuge wie <a href="http://etherpad.org">Etherpads</a> oder Spreadsh
 
 <p>Eines haben die meisten Tech-for-Refugees-Projekte gemeinsam: Sie sind von Freiwilligen aus privatem Engagement heraus entstanden und werden oft immer noch von Ehrenamtlichen betreut und am Leben gehalten. Hut ab!</p>
 <br>
-<p>Und hier geht's zum Projekt: <a href="http://codefor.de/digitalrefugeelabs">codefor.de/digitalrefugeelabs</a></p>
+<p>Und hier geht's zum Projekt: <a href="{{< ref "/blog/2016-04-12-digital-refugee-labs" >}}">codefor.de/digitalrefugeelabs</a></p>

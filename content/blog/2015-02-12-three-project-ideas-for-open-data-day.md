@@ -102,7 +102,7 @@ If you take on this project for Open Data Day, check out [this specification tha
 # Contribute to an existing Code for Germany app<a name="contribute"></a>
 ![altglascontainer app](/blog/altglascontainermap.png)
 
-There are [dozens of apps from Code for Germany](http://codefor.de/projekte), some of them just need more data. For example, last year a team from Berlin's Open Data Day cleaned up some data about Altglascontainer and made [a filterable map of Altglascontainer locations](http://odd14.hackdash.org/projects/530749eba1777f9331000001). The problem is that they were only able to get data for one neighborhood in Berlin.
+There are [dozens of apps from Code for Germany]({{< ref "/projekte" >}}), some of them just need more data. For example, last year a team from Berlin's Open Data Day cleaned up some data about Altglascontainer and made [a filterable map of Altglascontainer locations](http://odd14.hackdash.org/projects/530749eba1777f9331000001). The problem is that they were only able to get data for one neighborhood in Berlin.
 
 ## How can you help?
  * *Add data to Berlin:* Living in Berlin? You could work on getting more of that data into the app. Maybe you can find a way to get the data for your neighborhood. Or maybe someone else's neighborhood? Or maybe all the neighborhoods in Berlin? :)

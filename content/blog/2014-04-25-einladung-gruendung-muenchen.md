@@ -25,4 +25,4 @@ PS. Auch wenn Du es nicht schaffst zum ersten Treffen zu kommen, trage Dich auf 
 [WERK1]: http://www.werk1muenchen.de/
 [Karte]: http://osm.org/go/0JA1AfBLk-?node=2344668019
 [MOGDy-Projekts]: http://www.muenchen.de/mogdy
-[München-Seite]: http://codefor.de/muenchen
+[München-Seite]: {{< ref "/labs/muenchen" >}}

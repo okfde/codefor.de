@@ -19,7 +19,7 @@ draft: false
 
 *	In <a href="http://de.opendataday.org/heilbronn">Heilbronn</a> wirkt die neu ernannte Open Data Beauftragte der Stadt bei der Eröffnung mit und es 	wird an Feinstaubsensoren aus Stuttgart gebastelt.<br><br>
 *	In <a href="http://de.opendataday.org/koeln">Köln</a> findet eine Kooperation mit dem Citizen Science Projekt <a href="http://hackyourcity.de">Hack Your City</a> statt.<br><br>
-*	Die Stadt Jena ist dieses Jahr offizielle Ausrichterin des Open Data Days, wir freuen uns auf diesen Fortschritt und Erfolg des <a href="http://codefor.de/jena">OK Labs in Jena</a>.<br><br>
+*	Die Stadt Jena ist dieses Jahr offizielle Ausrichterin des Open Data Days, wir freuen uns auf diesen Fortschritt und Erfolg des <a href="{{< ref "/labs/jena" >}}">OK Labs in Jena</a>.<br><br>
 *	In <a href="http://codeforbonn.de/bonn-open-data-day/"></a>Bonn steht der Open Data Day unter dem Motto "Bau was mit Offenen Daten" - es wird unter anderem einen <a href="https://calliope.cc/ueber-mini">Calliope-Workshop</a> geben, es wird mit Bots gebastelt und das Thema Nachhaltigkeit entlang von Offenen Daten bearbeitet.<br><br>
 *	In <a href="http://de.opendataday.org/berlin">Berlin</a> wurden Speakerinnen für spannende Vorträge eingeladen, unter anderem zum Geoportal der Stadt, zu OpenStreetMap und zu Wikidata (<3). Der Open Data Day in Berlin wird von Wikimedia Deutschland e.V. unterstützt.<br><br>
 *	In <a href="http://codeforhamburg.org">Hamburg</a> gibt es als Auftakt bereits am Freitag eine ganztägige Veranstaltung, das <a href="http://offenestadt.info">"Forum Offene Stadt"</a> gemeinsam mit der Körber-Stiftung. Dazu haben wir schon letzte Woche einen <a href="http:/codefor.de/blog/forum-offene-stadt-hamburg">Blogpost</a> geschrieben.</p>

@@ -9,11 +9,11 @@ images:
 - imgname: drl-logo.png
 ---
 
-[![DRL-Logo](/blog/drl-logo.png)](http://codefor.de/digitalrefugeelabs/)
+[![DRL-Logo](/blog/drl-logo.png)]({{< ref "/blog/2016-04-12-digital-refugee-labs" >}}/)
 
 <h3 style="text-align: center">Worum geht's?</h3>
 
-<p>Vier Labs aus dem Code for Germany Netzwerk machen sich dieses Jahr das Thema Flucht und Asyl zum Schwerpunkt. Die Mitglieder der OK Labs in <b><a href="http://codefor.de/leipzig">Leipzig</a>, <a href="http://codefor.de/karlsruhe">Karlsruhe</a>, <a href="http://codefor.de/berlin">Berlin</a></b> und <b><a href="http://codefor.de/hamburg">Hamburg</a></b> wollen sich dieses Jahr mit Initiativen, Organisationen und Institutionen vernetzen und deren Arbeit mithilfe von Tools und Techniken erleichtern.</p>
+<p>Vier Labs aus dem Code for Germany Netzwerk machen sich dieses Jahr das Thema Flucht und Asyl zum Schwerpunkt. Die Mitglieder der OK Labs in <b><a href="{{< ref "/labs/leipzig" >}}">Leipzig</a>, <a href="{{< ref "/labs/karlsruhe" >}}">Karlsruhe</a>, <a href="{{< ref "/labs/berlin" >}}">Berlin</a></b> und <b><a href="{{< ref "/labs/hamburg" >}}">Hamburg</a></b> wollen sich dieses Jahr mit Initiativen, Organisationen und Institutionen vernetzen und deren Arbeit mithilfe von Tools und Techniken erleichtern.</p>
 <br>
 
 <h3 style="text-align: center">Wie machen wir das?</h3>
@@ -29,4 +29,4 @@ images:
 
 <p>Wir freuen uns sehr darüber, das Engagement der Labs und der Community aus dem letzten Jahr dieses Jahr weiter unterstützen zu können. Gefördert wird das Projekt von der Bundeszentrale für politische Bildung.</p>
 <br>
-<p>Und hier geht's zum Projekt: <a href="http://codefor.de/digitalrefugeelabs">codefor.de/digitalrefugeelabs</a></p>
+<p>Und hier geht's zum Projekt: <a href="{{< ref "/blog/2016-04-12-digital-refugee-labs" >}}">codefor.de/digitalrefugeelabs</a></p>

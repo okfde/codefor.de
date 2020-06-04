@@ -61,7 +61,7 @@ Dankeschön, Fiona, dir auch noch einen schönen Tag.
 [Tobias Gall]: https://github.com/symptog
 [Chaostreff]: https://www.chaoschemnitz.de/
 [Webseite]: http://codeforchemnitz.de
-[codefor.de]: http://codefor.de/chemnitz
+[codefor.de]: {{< ref "/labs/chemnitz" >}}
 [Twitter]: http://twitter.com/codeforchemnitz
 [G+]: https://plus.google.com/communities/101049062262477568057?utm_source=chrome_ntp_icon&utm_medium=chrome_app&utm_campaign=chrome
 [Facebook]: https://www.facebook.com/codeforchemnitz

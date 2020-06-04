@@ -11,7 +11,7 @@ og-description: Was haben Offene Daten mit Klimaschutz zu tun und wie können Of
 
 draft: false
 ---
-Am 7. März feiern wir gemeinsam den Open Data Day! Wie jedes Jahr bieten an diesem Tag Aktivist\*innen [weltweit](https://opendataday.org/de/#map) verschiedene Veranstaltungen an, um auf die Bedeutung offener Daten aufmerksam zu machen. Auch in den OK Labs von Code for Germany haben unsere Ehrenamtlichen ein vielfältiges Programm und spannende Projekte zum Mitmachen auf die Beine gestellt, die wir bald hier mit euch teilen werden. Egal, ob du schon Profi bist oder erst in die Open Data Welt eintauchen möchtest - schau doch in einem [OK Lab in deiner Nähe](https://codefor.de/) vorbei!
+Am 7. März feiern wir gemeinsam den Open Data Day! Wie jedes Jahr bieten an diesem Tag Aktivist\*innen [weltweit](https://opendataday.org/de/#map) verschiedene Veranstaltungen an, um auf die Bedeutung offener Daten aufmerksam zu machen. Auch in den OK Labs von Code for Germany haben unsere Ehrenamtlichen ein vielfältiges Programm und spannende Projekte zum Mitmachen auf die Beine gestellt, die wir bald hier mit euch teilen werden. Egal, ob du schon Profi bist oder erst in die Open Data Welt eintauchen möchtest - schau doch in einem [OK Lab in deiner Nähe]({{< ref "/" >}}) vorbei!
 
 ## Daten befreien - Klima retten
 

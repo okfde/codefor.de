@@ -10,7 +10,7 @@ images:
 - imgname: stadtgeschichten.png
 
 ---
-[![stadtgeschichten](/blog/stadtgeschichten.png)](http://codefor.de/stadtgeschichten)
+[![stadtgeschichten](/blog/stadtgeschichten.png)]({{< ref "/blog/2015-07-09-stadtgeschichten" >}})
 
 In den letzten Wochen und Monaten sind in den OK Labs zahlreiche großartige Projekte entstanden. Engagierte Entwicklerinnen und Designer haben mit Offenen Daten und ihren Fähigkeiten bedeutsame und sinnvolle Anwendungen für ihre Stadt und Mitbürgerinnen gebaut. Diese Projekte und Menschen wollen wir euch jetzt näher vorstellen.
 
@@ -21,4 +21,4 @@ Wir wünschen viel Freude damit. Und bleibt dran, wir haben noch viel zu erzähl
 
 Das Code for Germany Team
 
-[Stadtgeschichten]: http://codefor.de/stadtgeschichten
+[Stadtgeschichten]: {{< ref "/blog/2015-07-09-stadtgeschichten" >}}
