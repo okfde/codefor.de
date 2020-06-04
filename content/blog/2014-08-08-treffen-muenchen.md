@@ -16,7 +16,7 @@ Auch in der Sommerpause wollen wir uns treffen. Warum? Weil es doch viel zu besp
 
 Wir treffen uns wieder im [WERK1], [Grafinger Straße 6, 81671 München][MAP], am Do. 14.8 um 19.00.
 
-[FINDER]: http://codefor.de/projekte/2014-07-10-muc-finder.html
-[STADT]: http://codefor.de/projekte/2014-07-14-Muenchen-Transparent.html
+[FINDER]: {{< ref "/projekte/2014-07-10-muc-finder.md" >}}
+[STADT]: {{< ref "/projekte/2014-07-14-Muenchen-Transparent.md" >}}
 [WERK1]: http://www.werk1muenchen.de/
 [MAP]: http://osm.org/go/0JA1AfBLk-?node=2344668019

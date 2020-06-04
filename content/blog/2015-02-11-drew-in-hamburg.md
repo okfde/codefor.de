@@ -21,7 +21,7 @@ Every two weeks a dozen or two developers, designers, urbanists, journalists, ha
 ![Drew presenting at Code for Hamburg](/blog/dw-visit-hamburg-1-of-3-2015-2-9.jpg)
 
 <h2>What kind of projects?</h2>
-Right now members of Code for Hamburg are visualizing noise pollution, building an app to [help parents find good kindergartens (Kitas)](http://codefor.de/projekte/2014-04-27-hh-kitaKarte.html), experimenting with public transit data, and they also made [a funny tumblr of photos of things that are blocking bike lanes](http://thingsonbikelanes.tumblr.com).
+Right now members of Code for Hamburg are visualizing noise pollution, building an app to [help parents find good kindergartens (Kitas)]({{< ref "/projekte/2014-04-27-hh-kitaKarte.md" >}}), experimenting with public transit data, and they also made [a funny tumblr of photos of things that are blocking bike lanes](http://thingsonbikelanes.tumblr.com).
 
 ![Drew presenting at Code for Hamburg](/blog/dw-visit-hamburg-3-of-3-2015-2-9.jpg)
 

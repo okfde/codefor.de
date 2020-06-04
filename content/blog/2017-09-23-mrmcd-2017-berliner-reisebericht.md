@@ -73,7 +73,7 @@ Hier folgt nun eine subjektive Auswahl von [Vorträgen und Workshops](https://cf
 * [Web-Privacy: Lustwandeln im Trackergarten](https://cfp.mrmcd.net/2017/talk/DC9AG9/)
 * [Lightning Talks, Tag 3](https://cfp.mrmcd.net/2017/talk/FFHJZL/)
 
-Bei den Lightning Talks ging es u.a. um [VoiceFlirt.jetzt 💑 dating wie in den 90er](https://twitter.com/tbsprs/status/904082207488299009) und [RetteDeinenNahverkehr.de](https://rettedeinennahverkehr.de). Ich selbst, habe am Samstag [Wo ist Markt?](https://wo-ist-markt.de/) vorgestellt - ein [Code for Germany Projekt zu Wochen- und Trödelmärkten](https://codefor.de/projekte/2016-03-14-be-woistmarkt.html).
+Bei den Lightning Talks ging es u.a. um [VoiceFlirt.jetzt 💑 dating wie in den 90er](https://twitter.com/tbsprs/status/904082207488299009) und [RetteDeinenNahverkehr.de](https://rettedeinennahverkehr.de). Ich selbst, habe am Samstag [Wo ist Markt?](https://wo-ist-markt.de/) vorgestellt - ein [Code for Germany Projekt zu Wochen- und Trödelmärkten]({{< ref "/projekte/2016-03-14-be-woistmarkt.md" >}}).
 
 <blockquote class="twitter-tweet"><p lang="de" dir="ltr">An Tag 2 kannst du bei der <a href="https://twitter.com/hashtag/Bundendatenschau?src=hash">#Bundendatenschau</a> lernen wo Markt ist: Komm zu meinem Lightning Talk über 🍑🍊 Wo ist Markt? 🍈🥑 <a href="https://twitter.com/hashtag/mrmcd17?src=hash">#mrmcd17</a> <a href="https://twitter.com/codeforde">@codeforde</a> <a href="https://t.co/jKxii1kZpG">pic.twitter.com/jKxii1kZpG</a></p>&mdash; tbsprs (@tbsprs) <a href="https://twitter.com/tbsprs/status/903691798366834688">September 1, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
