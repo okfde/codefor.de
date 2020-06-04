@@ -10,6 +10,7 @@ images:
 draft: false
 ---
 
+# MRMCD 2017 - Berliner Reisebericht
 
 [MRMCD](https://mrmcd.net), das sind die MetaRheinMainChaosDays - eine Zusammenkunft der Chaostreffs der Rhein-Main-Region. Seit 2004 finden diese Treffen an verschiedenen Orten statt - in den letzten Jahren in Darmstadt. Neben Besucher_innen aus der Region sind auch solche von weiter weg herzlich willkommen. Für Viele ist das Wochenende eine schöne Gelegenheit, Freunde zu treffen. So führte auch mich am ersten Septemberwochenende mein erster Besuch der MRMCDs an den [Fachbereich Informatik der Technischen Universität Darmstadt](http://www.openstreetmap.org/way/23116340), der in diesem Jahr Gastgeber des Chaostreffens war.
 
