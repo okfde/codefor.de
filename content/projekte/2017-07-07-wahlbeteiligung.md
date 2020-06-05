@@ -16,6 +16,9 @@ links:
 collaborators:
 - name: Wolfram Eberius
 
+tags:
+- Politik
+
 ---
 
 Das Projekt wahlbeteiligung soll die Wahlbeteiligung auf einer Karte veranschaulichen. Es soll darüber hinaus Eigenschaften der Umgebung dazu in Bezug setzen.

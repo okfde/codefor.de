@@ -12,6 +12,10 @@ links:
 collaborators:
 - name: Achim Friedland
 - name: Martin Berger (Stadtverwaltung Jena)
+
+tags:
+- Politik
+
 ---
 
 Der offene Haushalt mit seiner wohlbekannten TreeMap-Visualisierung ist natürlich der interessanteste Datensatz jeder offenen Stadt.

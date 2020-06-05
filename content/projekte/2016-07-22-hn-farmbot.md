@@ -42,6 +42,9 @@ collaborators:
   - url: https://twitter.com/iotopa
     name: twitter
 
+tags:
+- Umwelt
+
 ---
 
 <p>Der Mensch ist seit seiner Existenz ein Selbstversorger. Durch den rasanten Fortschritt im Bereich der Software und

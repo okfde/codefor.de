@@ -40,6 +40,10 @@ collaborators:
   links:
     - url: https://github.com/mullerovsky
       name: GitHub
+
+tags:
+- Gesellschaft
+
 ---
 
 Eine Karte mit allen Schulen in ganz NRW. Dieses Projekt ist beim Open Data Day 2016 entstanden.

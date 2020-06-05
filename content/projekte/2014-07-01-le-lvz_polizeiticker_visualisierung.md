@@ -32,6 +32,9 @@ collaborators:
   - url: https://github.com/ManuPogo
     name: github
 
+tags:
+- Gesellschaft
+
 ---
 
 Eine Weboberfläche zur Visualisierung von Tickermeldungen aus der Leipziger Volkszeitung samt Crawler, Named Entity Recognition, Elastic Search und LeafletJS.

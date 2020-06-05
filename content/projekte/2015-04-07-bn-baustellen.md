@@ -13,6 +13,9 @@ links:
 collaborators:
 - name: Stephan Lentzen
 
+tags:
+- Mobilität
+
 ---
 
 Transparenz über die existierenden und die geplanten Baustellen in und um Bonn. Eine spätere Erweiterung um Parkhausdaten (Belegung, Tendenz etc.) ist angedacht.

@@ -24,7 +24,7 @@ collaborators:
     name: GitHub
 
 tags:
-- Politik
+- Gesellschaft
 
 ---
 

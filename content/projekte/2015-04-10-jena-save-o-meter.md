@@ -18,6 +18,10 @@ collaborators:
   links:
   - url: http://www.onascimento.com
     name: Artist Website
+
+tags:
+- Umwelt
+
 ---
 
 Messe, visualisiere und beeinflusse Deinen Strom- und Wasserbedarf und die Menge deines Mülls!

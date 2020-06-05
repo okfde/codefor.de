@@ -11,6 +11,9 @@ links:
 - url: https://github.com/P3nny/geojson-3d
   name: Code
 
+tags:
+- Gesellschaft
+
 ---
 Wie macht man offene Daten greifbar? Indem man sie ausdruckt. Hier gibt es das Projekt zum Nachmachen.
 Im OK Lab Köln haben wir die Idee entwickelt, aus offenen Daten der Stadt Köln "Daten zum Anfassen" zu drucken. Grundlage waren diese Daten zur Altersstruktur der Kölner Stadtteile:

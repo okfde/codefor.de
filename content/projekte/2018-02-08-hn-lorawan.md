@@ -17,6 +17,9 @@ collaborators:
     name: twitter
 - name: Kris
 
+tags:
+- Gesellschaft
+
 ---
 
 <p>Das Internet der Dinge setzt neue Anforderungen an die Datenübertragungen in Städten und auf dem Land. Neue

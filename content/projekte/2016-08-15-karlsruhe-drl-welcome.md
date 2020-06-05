@@ -10,6 +10,9 @@ draft: false #set to 'true'
 
 links:
 
+tags:
+- Gesellschaft
+
 ---
 
 Das Projekt Welcome wurde vom Pfarrer Jörg Sieger ins Leben gerufen, um Helferkreise innerhalb der Flüchtlingshilfe zu vernetzen und für einen reibungsloseren Informationsfluss zu sorgen.

@@ -22,6 +22,9 @@ links:
 - name: Github
   url: https://github.com/codeforkarlsruhe/direktvermarkter
 
+tags:
+- Umwelt
+
 ---
 
 Übersichtskarte von Hofläden, Märkten, Milchautomaten und anderen Direktvermarktern aus der DACH-Region (Deutschland, Österreich, Schweiz). Die Karte erhält alle ihre Daten über ein Script von Openstreetmap, bereitet sie optisch auf und unterstützt die Pflege der Daten indem sie fehlende Werte sichtbar macht und direkt auf den entsprechenden Ort auf OSM und in andere Kartendienste verlinkt.

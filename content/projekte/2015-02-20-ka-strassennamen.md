@@ -14,5 +14,8 @@ links:
 collaborators:
 - name: Torf
 
+tags:
+- Gesellschaft
+
 ---
 Visualisiert die nach Menschen benannten Karlsruher Straßen und deren Geschlechter.

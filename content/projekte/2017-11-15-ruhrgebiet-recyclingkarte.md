@@ -25,6 +25,10 @@ collaborators:
     links:
     - url: https://twitter.com/simonwoerpel
       name: Twitter
+
+tags:
+- Umwelt
+
 ---
 
 Die Recyclingkarte zeigt alle Altkleider-, Altpapier- und Altglas-Container in Essen.

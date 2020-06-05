@@ -14,6 +14,9 @@ links:
 collaborators:
 - name: Kai
 
+tags:
+- Politik
+
 ---
 
 Live sehen, wann neue Wahlergebnisse eingetragen werden! Dieser Bot twittert immer, wenn sich die Live-Ergebnisse aktualisieren.

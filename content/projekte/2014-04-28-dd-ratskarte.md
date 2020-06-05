@@ -17,6 +17,8 @@ collaborators:
   - url: http://spaceboyz.net/~astro/
     name: web
 
+tags:
+- Politik
 
 ---
 

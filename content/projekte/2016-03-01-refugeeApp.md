@@ -25,6 +25,9 @@ collaborators:
 - name: Lukas Rosenstock
 - name: Wilfried Jost
 
+tags:
+- Gesellschaft
+
 ---
 
 Das Thema Flüchtlinge interessiert uns alle und das OK Lab Gießen hat sich entschlossen eine sogenannte RefugeeApp zu entwickeln.

@@ -19,6 +19,9 @@ collaborators:
   - url: http://github.com/obstschale
     name: github
 
+tags:
+- Gesellschaft
+
 ---
 
 Wir wissen, dass die Wahl der „richtigen“ Schule sehr wichtig ist, da sie ein prägendes Fundament für den Bildungsweg eines Menschen setzt. Entsprechend schwierig ist es auch eine Schule zu finden, die den Bedürfnissen eines Schülers gerecht wird und seine Kompetenzen erkennt und fördert.

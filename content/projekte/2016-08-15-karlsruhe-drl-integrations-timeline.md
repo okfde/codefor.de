@@ -10,6 +10,9 @@ draft: false #set to 'true'
 
 links:
 
+tags:
+- Gesellschaft
+
 ---
 
 Die Integrations-Timeline-App soll einen Überblick über den Prozess der Integration liefern und ihn kontextabhängig begleiten.

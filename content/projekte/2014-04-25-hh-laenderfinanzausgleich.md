@@ -36,6 +36,9 @@ collaborators:
 - name: Volker
 
 
+tags:
+- Politik
+
 ---
 
 Im Länderfinanzausgleich werden jährlich riesige Summen bewegt. Daten über die Höhe der Zahlungen liegen seit 1950 durchgehend vor. In dem Projekt sollen verschiedene Visualisierungsansätze und -tools ausprobiert werden um die historische Entwicklung des Länderfinanzausgleichs möglichst anschaulich darzustellen.

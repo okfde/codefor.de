@@ -27,6 +27,9 @@ links:
 - name: Quellcode
   url: https://gitlab.com/iotssl/nucleon-nodes
 
+tags:
+- Gesellschaft
+
 ---
 
 Aufbau einer Schleswig-Holstein-weiten flächendeckenden Versorgung mit LoRaWAN-Technologie, welche durch vorausgehende Installation einer ausreichenden Anzahl von Gateways und anschließender Installation von zahlreichen intelligenten Sensoren realisiert wird.
