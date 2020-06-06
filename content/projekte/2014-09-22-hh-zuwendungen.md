@@ -26,6 +26,9 @@ collaborators:
   - url: https://github.com/kannes
     name: github
 
+tags:
+- Politik
+
 ---
 
 Die Zuwendungen der Hamburger Behörden als filterbare Tabelle. Weitere Features kommen noch dazu.

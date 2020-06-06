@@ -21,6 +21,9 @@ collaborators:
   - url: http://github.com/tursics
     name: GitHub
 
+tags:
+- Gesellschaft
+
 ---
 
 Verteilung von Lehrkräfte-Quereinsteigenden über Berliner Bezirke

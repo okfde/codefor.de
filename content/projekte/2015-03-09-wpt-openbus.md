@@ -14,6 +14,9 @@ links:
 collaborators:
 - name: Bastian
 
+tags:
+- Mobilität
+
 ---
 
 Entstanden als Techdemo für einen OpenDataDay in Wuppertal. Greift die Daten vom Abfahrtsmonitor ab und visualisiert sie auf Google Maps.

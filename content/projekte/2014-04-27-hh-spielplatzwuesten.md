@@ -19,6 +19,10 @@ collaborators:
   - url: http://github.com/ATack
     name: github
 
+
+tags:
+- Gesellschaft
+
 ---
 
 Wie gerecht sind eigentlich die Spielplätze in Hamburg räumlich verteilt? In dem Projekt sollen verschiedene Auswertungen durchgeführt werden, die mit Spielplätzen ggf. unterversorgte Bereiche in Hamburg zu identifizieren.

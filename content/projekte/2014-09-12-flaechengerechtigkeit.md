@@ -17,6 +17,10 @@ collaborators:
   - url: https://www.xing.com/profile/Heinrich_Stroessenreuther
     name: Xing
 
+tags:
+- Mobilität
+
+
 ---
 
 Bürger können ihre Straßen vermessen und die Frage nach der Gerechtigkeit im Verkehr quadratmeter-scharf diskutieren.

@@ -23,6 +23,9 @@ collaborators:
     - url: https://github.com/schurig
       name: GitHub
 
+tags:
+- Gesellschaft
+
 ---
 
 Dieses Projekt ist eine Webseite, auf der die Schulen im Ruhrgebiet zu finden sind.

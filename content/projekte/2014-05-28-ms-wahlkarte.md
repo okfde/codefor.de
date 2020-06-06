@@ -18,6 +18,9 @@ collaborators:
   - url: http://github.com/milafrerichs
     name: github
 
+tags:
+- Politik
+
 
 ---
 Die Ergebnisse je Wahlbezirk live gemappt währen die Stimmzettel

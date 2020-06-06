@@ -21,6 +21,9 @@ collaborators:
   - url: https://github.com/daimpad
     name: GitHub
 
+tags:
+- Politik
+
 ---
 
 <b>Was ist der Bonn-O-Mat?</b>

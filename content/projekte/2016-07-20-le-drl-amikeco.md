@@ -26,6 +26,9 @@ collaborators:
   - url: https://github.com/joergreichert
     name: github
 
+tags:
+- Gesellschaft
+
 ---
 
 Plattform, um Gleichgesinnte für allerlei Arten von Aktivitäten zu finden.

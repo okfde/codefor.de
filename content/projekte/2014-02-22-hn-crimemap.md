@@ -27,6 +27,9 @@ collaborators:
     name: github
 - name: Armin Feucht
 
+tags:
+- Gesellschaft
+
 ---
 
 Visualisierung der Einbrüche in der Region Heilbronn, Daten aus den Polizeimeldungen seit November 2013. Entwickelt am Open Data Day 2014 in Zusammenarbeit mit der Heilbronner Stimme.

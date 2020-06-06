@@ -23,6 +23,10 @@ collaborators:
   links:
   - url: http://www.codeforamerica.org/
     name: website
+
+tags:
+- Gesellschaft
+
 ---
 
 <a href="http://click-that-hood.com/">Click that Hood</a> für alle Gemeinden Deutschlands!

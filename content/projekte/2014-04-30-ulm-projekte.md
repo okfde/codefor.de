@@ -8,6 +8,8 @@ links:
   - url: http://ulmapi.de/#projekte
     name: Übersicht unserer Projekte
 
+tags:
+- Gesellschaft
 
 ---
 

@@ -14,5 +14,8 @@ links:
 collaborators:
 - name: Martin Over
 
+tags:
+- Umwelt
+
 ---
 Mit dieser Web-Karte lassen sich tägliche Überschreitungswerte des maximal gemessenen Schalldruckes aus den Daten der Sensor Community interaktiv darstellen.

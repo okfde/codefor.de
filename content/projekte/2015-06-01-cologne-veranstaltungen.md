@@ -11,6 +11,9 @@ links:
 - url: https://github.com/codeforcologne/koelner-veranstaltungskalender
   name: Code
 
+tags:
+- Gesellschaft
+
 ---
 Mithilfe dieser doppelten Visualisierung auf Karte und Kalender kann man
 Veranstaltungen der Stadt Köln sowohl nach dem Kriterium Ort wie auch

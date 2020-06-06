@@ -18,6 +18,8 @@ collaborators:
   - url: http://github.com/milafrerichs
     name: github
 
+tags:
+- Politik
 
 ---
 

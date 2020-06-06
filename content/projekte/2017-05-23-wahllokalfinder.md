@@ -14,6 +14,9 @@ links:
 collaborators:
 - name: koos
 
+tags:
+- Politik
+
 ---
 
 Am Sonntag, den 14. Mai, wählte NRW einen neuen Landtag. Der von der Stadt Köln, Railslove und „Kölner Stadt-Anzeiger“ präsentierte Wahllokalfinder #Köln zeigt alle 240 Wahllokale an, und lotste die Wählerinnen direkt dorthin.

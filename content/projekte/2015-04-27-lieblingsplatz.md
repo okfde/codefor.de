@@ -20,7 +20,8 @@ collaborators:
   - url: https://github.com/fuzzylogic2000
     name: github
 
-
+tags:
+- Gesellschaft
 
 ---
 

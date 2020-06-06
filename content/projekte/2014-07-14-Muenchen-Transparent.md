@@ -29,6 +29,9 @@ collaborators:
   - url: https://github.com/konstin
     name: GitHub
 
+tags:
+- Politik
+
 ---
 München Transparent ist eine Plattform, die es Münchner BürgerInnen ermöglicht, schnell und einfach Einblicke in die Kommunalpolitik zu bekommen. Dazu werden die normalerweise nur schwer zugängliche Daten aus dem Münchener Ratsinformationssystem übersichtlich und ansprechend aufbereitet. Der Datenbestand umfasst über 180.000 Dokumente, von Stadtratsanträgen über Beschlussvorlagen bis hin zur täglich erscheinenden „Rathausumschau“. So lässt sich erfahren, was der Münchner Stadtrat eigentlich gerade macht und welche Themen im Stadtrat oder in den Bezirksausschüssen anstehen.
 

@@ -16,6 +16,9 @@ links:
 collaborators:
 - name: <a href="mailto:jk+zuwendungen@digineo.de">Julian Kornberger</a>
 
+tags:
+- Politik
+
 ---
 
 
