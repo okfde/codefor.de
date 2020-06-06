@@ -30,19 +30,19 @@ Auf der Webseite von Code for Germany findest du eine Reihe von Ansprechpartner\
 
 ### 3. Kommunikation 
 
-Die Labs kommunizieren über Slack miteinander, leg einen neuen Channel im globalen Open Knowledge Foundation Slack an, den du wie deine Stadt nennst. Projekte der Labs findest du bei [GitHub](https://github.com/okfde/codefor.de). Auch hier brauchst du einen Account.
+Die Labs kommunizieren über Slack miteinander, leg einen neuen Channel im globalen Slack der Open Knowledge Foundation an, den du wie deine Stadt nennst. Projekte der Labs findest du bei [GitHub](https://github.com/okfde/codefor.de). Auch hier brauchst du einen Account.
 
 ### 4. Treffpunkt
 
-Finde einen Raum für regelmäßige Treffen. Du kannst zum Beispiel in Bibliotheken, bei Vereinen oder in Nachbarschaftshäusern nachfragen. Auch die Stadt sollte auf die Raumsuche aufmerksam gemacht werden.
+Finde einen Raum für regelmäßige Treffen. Du kannst zum Beispiel in Bibliotheken, bei Vereinen oder in Nachbarschaftshäusern nachfragen. Auch deine Stadtverwaltung sollte auf die Raumsuche aufmerksam gemacht werden.
 
 ### 5. Nach Offenen Daten suchen
 
 Schau dir an, welche Offenen Daten es zu deiner Stadt gibt und wer die Ansprechpersonen in der Verwaltung sind. Es gibt bestimmt Daten, mit denen du und deine Mitstreiter\*innen bereits Projekte anderer Labs für eure eigene Stadt umsetzen könnt. Spiegelt die Ergebnisse an die Verwaltungen zurück und sucht den Austausch mit ihnen, um gemeinsam einen öffentlichen Mehrwert der Projekte zu schaffen.
 
-### 6. Kick-Off Treffen abhalten und Teilnehmer\*innen begeistern
+### 6. Kick-Off-Treffen abhalten und Teilnehmer\*innen begeistern
 
 Informiert euch zusammen über Offene Daten und Open Government, macht euch mit den Grundsätzen von Code for Germany vertraut und identifiziert Themen, mit denen ihr euch beschäftigen wollt.
 
-### 7. Bleibt in Kontakt, haltet Treffen ab und taucht in das Code for Germany Universum ein.
+### 7. Bleibt in Kontakt, haltet Treffen ab und taucht in das Code-for-Germany-Universum ein.
 {{< /paragraph-center  >}}
