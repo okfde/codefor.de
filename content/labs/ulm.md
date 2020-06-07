@@ -56,7 +56,7 @@ links:
 
 leads:
 - name: Verschwörhaus-Vereinsvorstand
-  url: kontakt20@verschwoerhaus.de
+  url: mailto:kontakt20@verschwoerhaus.de
 
 ---
 
