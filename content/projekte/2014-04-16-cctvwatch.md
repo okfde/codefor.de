@@ -36,6 +36,8 @@ collaborators:
   - url: https://github.com/g-div
     name: github
 
+tags:
+- Politik
 
 ---
 

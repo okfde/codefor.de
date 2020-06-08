@@ -22,6 +22,10 @@ collaborators:
     name: twitter
   - url: https://github.com/JensWinter
     name: github
+
+tags:
+- Umwelt
+
 ---
 
 Das Projekt "Baumfreunde-MD" informiert über aktuelle Baumfällungen der Landeshauptstadt Magdeburg. Diese Informationen werden offiziell auf der Homepage der Stadt veröffentlicht, sind dort allerdings nicht besonders leicht zu finden. Werden neue Fällmaßnahmen durch die Stadt bekanntgegeben, so wird durch die Baumfreunde-Plattform auch noch ein Tweet darüber generiert.

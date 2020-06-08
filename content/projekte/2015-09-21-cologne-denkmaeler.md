@@ -11,6 +11,9 @@ links:
 - url: https://github.com/weberius/denkmalinkoeln
   name: Code
 
+tags:
+- Gesellschaft
+
 ---
 Du interessierst Dich für Baudenkmäler? Du wolltest auch schon immer mal wissen, ob es welche in Deiner Umgebung gibt?
 Diese Webapp zeigt sie Dir alle. Wähle aus, in welchem Zeitraum das Baujahr liegt. Suche nach Adressen oder Stadtteilen.

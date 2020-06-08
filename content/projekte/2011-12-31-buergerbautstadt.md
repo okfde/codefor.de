@@ -36,7 +36,8 @@ collaborators:
   - url: http://github.com/LucasJ
     name: github
 
-
+tags:
+- Gesellschaft
 ---
 
 Finde mit Bürger Baut Stadt geplante Bauvorhaben in deiner Stadt! Auf einer Karte kannst du einsehen, wo gerade Bebauungspläne ausliegen und erfahren, wie Du dich mit deinen Ideen beteiligen kannst.

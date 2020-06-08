@@ -23,6 +23,9 @@ collaborators:
   - url: https://github.com/masterX244
     name: github
 
+tags:
+- Mobilität
+
 ---
 
 Dieses Tool hilft bei der Verbesserung der Qualität von OpenStreetMap Daten.

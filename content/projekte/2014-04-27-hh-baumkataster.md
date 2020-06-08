@@ -20,6 +20,9 @@ collaborators:
   - url: http://github.com/ATack
     name: github
 
+tags:
+- Umwelt
+
 ---
 
 Im Straßenbaumkataster der Stadt Hamburg sind rund 240.000 Straßenbäume mit Standort und Attributen wie Pflanzjahr, Baumart usw. erfasst. Das Projekt versucht, diese Daten kartografisch aufbzubereiten und langfristig einen "Straßenbaumexplorer" zu erstellen.

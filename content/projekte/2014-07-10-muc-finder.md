@@ -37,6 +37,10 @@ collaborators:
     name: twitter
   - url: http://github.com/bastiRe
     name: github
+
+tags:
+- Gesellschaft
+
 ---
 Ziel des Projekts ist eine Web-App, die aus Open-Street-Map-Daten Orte einer bestimmten Kategorie, z.B. öffentliche Toiletten, Spielplätze oder Defibrilatoren in der Umgebung findet und dazu Routeninformationen bietet. Dabei soll es am Ende eine generische App, die für verschiedene Ziele konfiguriert werden kann, sowie als konkrete Anwendung eine Defibrilator-Finde-App geben.
 

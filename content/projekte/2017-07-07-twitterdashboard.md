@@ -19,6 +19,9 @@ collaborators:
 - name: Wido
 - name:
 
+tags:
+- Gesellschaft
+
 ---
 
 Ein Dashboard mit analogen Zeigern signalisiert die Frequenz von Tweets, die über die einzelnen Parteien abgesetzt werden.

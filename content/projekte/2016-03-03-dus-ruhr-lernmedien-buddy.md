@@ -35,6 +35,9 @@ collaborators:
     - url: https://github.com/cknebel
       name: GitHub
 
+tags:
+- Gesellschaft
+
 ---
 
 Der Lernmedien-Buddy ist eine App (iOS und Android) für Schüler*innen, mit deren hilfe spielerisch nach Lernmaterialien gesucht werden kann. Durch "social logins" bringt die App Suchende zusammen, die sich für die selben Materialien interessieren.

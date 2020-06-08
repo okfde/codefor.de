@@ -16,6 +16,9 @@ links:
 collaborators:
 - name: Josef 'Jupp' Schugt
 
+tags:
+- Gesellschaft
+
 ---
 
 Die bekannten [Stolpersteine](http://de.wikipedia.org/wiki/Stolpersteine) jetzt auch für Bonn.

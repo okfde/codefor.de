@@ -22,6 +22,10 @@ collaborators:
   - url: https://github.com/nucsum
     name: github
 - name: Frances Lindemann
+
+tags:
+- Umwelt
+
 ---
 
 Qualiätswerte des Trinkwassers aus dem Versorgungsgebiet der MIDEWA schematisch und als Karte.

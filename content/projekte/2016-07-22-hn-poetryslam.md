@@ -48,6 +48,9 @@ collaborators:
   - url: https://github.com/lukas-h
     name: github
 
+tags:
+- Gesellschaft
+
 ---
 
 <p>Für die Landesmeisterschaften im Poetry Slam (BWSLAM 2016) hat Code for Heilbronn ehrenamtlich eine

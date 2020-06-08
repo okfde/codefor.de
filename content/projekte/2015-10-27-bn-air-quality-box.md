@@ -18,6 +18,9 @@ colaborators:
   - url: https://twitter.com/dorkbotbonn
     name: Twitter
 
+tags:
+- Umwelt
+
 ---
 
 <b>Was ist die Air-Quality-Box?</b>

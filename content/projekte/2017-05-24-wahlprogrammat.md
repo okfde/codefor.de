@@ -17,6 +17,9 @@ links:
 collaborators:
 - name: Nicolas Merz
 
+tags:
+- Politik
+
 ---
 
 Ein Quiz zu den Inhalten der Wahlprogramme der sechs Parteien.

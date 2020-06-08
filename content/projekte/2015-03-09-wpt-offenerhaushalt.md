@@ -16,6 +16,8 @@ collaborators:
 - name: Nico
 - name: Ralf
 
+tags:
+- Politik
 
 ---
 

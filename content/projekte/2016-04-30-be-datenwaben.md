@@ -19,6 +19,9 @@ collaborators:
   - url: http://github.com/tursics
     name: GitHub
 
+tags:
+- Gesellschaft
+
 ---
 
 Die moderne Art ein Datenportal darzustellen: Pro Datensatz wird eine Wabe dargestellt.

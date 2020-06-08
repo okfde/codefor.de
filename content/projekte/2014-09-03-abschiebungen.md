@@ -26,6 +26,8 @@ collaborators:
   - url: http//github.com/magdan
     name: GitHub
 
+tags:
+- Politik
 
 ---
 

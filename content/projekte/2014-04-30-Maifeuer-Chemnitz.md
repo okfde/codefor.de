@@ -21,6 +21,8 @@ collaborators:
   - url: https://github.com/pyrokar
     name: github
 
+tags:
+- Gesellschaft
 
 ---
 

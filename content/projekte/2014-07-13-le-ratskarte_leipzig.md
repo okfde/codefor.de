@@ -35,6 +35,10 @@ collaborators:
   links:
   - url: https://github.com/joergreichert
     name: github
+
+tags:
+- Politik
+
 ---
 
 Durchsuche das Ratsinformationssystem der Stadt Leipzig und abboniere deine Suchergebnisse!

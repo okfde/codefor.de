@@ -31,6 +31,9 @@ collaborators:
   - url: https://github.com/kater169
     name: github
 
+tags:
+- Umwelt
+
 ---
 
 Eine übersichtliche Darstellung der Messwerte aller sächsischen Messstationen zur Luftqualität. Zu jeder Messstation werden die Daten detailliert als Tabelle und Diagramm dargestellt.
