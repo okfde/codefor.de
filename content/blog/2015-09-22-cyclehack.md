@@ -9,7 +9,8 @@ images:
 - imgname: cyclehackwuppertal.jpg
 
 ---
-[![Cyclehack2015](/blog/cyclehackwuppertal.jpg)](http://cyclehack-wuppertal.de/)
+
+# Fahrräder hacken mit dem OK Lab Wuppertal
 
 Am Wochenende vom 19. bis 21. Juni fand der erste Wuppertaler Cyclehack bei uns im Utopiastadt statt. Der Cyclehack ist eine globale Bewegung. Weltweit kommen jährlich engagierte Bürger an einem festgesetzten Wochenende zusammen, um gemeinsam an Projekten rund um das Thema Fahrradfahren zu arbeiten. Das Event wurde von unserem Open Knowledge Lab, dem OK Lab Wuppertal, begleitet und unterstützt.
 

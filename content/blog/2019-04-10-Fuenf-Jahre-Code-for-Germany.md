@@ -12,6 +12,8 @@ og-description: Seit fünf Jahren engagieren sich ehrenamtliche Bürger\*innen m
 draft: false
 ---
 
+# Fünf Jahre Code for Germany, fünf Jahre digitales Ehrenamt
+
 Vor fünf Jahren wurde das Projekt Code for Germany geboren. Die Idee war es, eine Community aufzubauen, in der digitale Werkzeuge und Anwendungen entstehen, um damit praktisch aufzuzeigen, welche Möglichkeiten Offene Daten und neue Technologien für das gesellschaftliche Zusammenleben bieten. Als Vorbild galt dabei das Programm [Code for America](https://www.codeforamerica.org/), das in den USA die Entwicklungen in Sachen Civic Tech maßgeblich vorangetrieben hat. So entstand Code for Germany, ein Netzwerk engagierter Freiwilliger, häufig mit technischem Hintergrund, die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten.
 
 Gestartet ist das Programm mit sieben Labs, unter anderem in München, Berlin, Hamburg und Ulm. Mittlerweile ist das Netzwerk auf ganze 26 Labs gewachsen. Vom Landkreis Schleswig-Flensburg bis nach Stuttgart, vom Niederrhein bis nach Leipzig sind wir in großen Teilen Deutschlands vertreten. Unseren fünften Geburtstag möchten wir zum Anlass nehmen, um euch unsere fünf zentralen Learnings aufzuzeigen und zusammenzufassen, woran wir in den letzten Jahren gearbeitet haben und wie es in Zukunft weitergeht.

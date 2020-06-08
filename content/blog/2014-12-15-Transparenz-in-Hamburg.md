@@ -10,7 +10,8 @@ images:
 - imgname: transparenz-hamburg.png
 
 ---
-![maas-tweet](/blog/maas-tweet.png)
+
+# Transparenz in Hamburg
 
 Hamburg ist mittlerweile eine richtige Vorreiter-Stadt in Sachen Transparenz geworden. Dank der Initiative "Transparenz schafft Vertrauen" gibt es seit Oktober ein umfangreiches Transparenzgesetz und ein Open-Data-Portal. Anlässlich des Launches haben sich vor einiger Zeit Journalisten, Coderinnen und Designer getroffen, um mit den frisch geöffneten Daten zu arbeiten.
 

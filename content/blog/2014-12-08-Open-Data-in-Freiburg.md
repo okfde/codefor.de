@@ -10,8 +10,8 @@ images:
 - imgname: Open-Data-Freiburg.gif
 
 ---
-![Open-Data-Freiburg](/blog/Open-Data-Freiburg.gif)
 
+# Open Freiburg - Let's Go!
 
 Liebe Freiburger und Freiburgerinnen,
 

@@ -11,6 +11,8 @@ images:
 
 ---
 
+# Stadräte zu Gast bei Code for Heilbronn
+
 Was ist Open Data? Wie können Daten überhaupt geöffnet werden? Welchen Nutzen haben offene Daten für den Bürger, die Verwaltung und die Wirtschaft? Welche Beispiele gibt es bereits in der Region?
 
 Am 01. Juli 2015 um 18 Uhr haben wir von Code for Heilbronn zu einer Open Data Informationsveranstaltung in den [Coworking Space Heilbronn](http://coworking-heilbronn.org/) eingeladen, um diese Fragen gemeinsam mit den Teilnehmern zu erörtern.

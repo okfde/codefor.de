@@ -10,7 +10,8 @@ images:
 - imgname: jugendhackt.jpg
 
 ---
-![jugendhackt](/blog/jugendhackt.jpg)
+
+# Jugend hackt
 
 Am vergangenen Wochenende fand zum zweiten Mal „Jugend hackt“ statt, eine Veranstaltung der Open Knowledge Foundation in Kooperation mit „Young Rewired State“ und „Mediale Pfade“. Ein Wochenende lang kamen 120 Jugendliche aus ganz Deutschland in Berlin zusammen, um gemeinsam mit Gleichgesinnten an Softwareprojekten rund um die Themen Überwachung, Bildung, Gesundheit, Gesellschaft, Freizeit und Umwelt zu arbeiten.
 

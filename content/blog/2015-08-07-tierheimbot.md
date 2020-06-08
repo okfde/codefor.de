@@ -10,6 +10,9 @@ images:
 - imgname: cutepetseverywhere.png
 
 ---
+
+# Ein <3 für Tiere
+
 ## Wie ein Tierheim-Twitterbot zum Vorzeigeprojekt wurde
 
 Als [Drew Wilson][] von Code for America ein Tierpflegeamt in Denver 2014 besuchte, bekam er gleich eine Lektion über den Tierheimbetrieb. Je länger die Tiere im Heim bleiben, desto mehr werden sie gesundheitlich und psychisch belastet, und desto weniger attraktiv für Menschen, die sie adoptieren würden. Deshalb sei es extrem wichtig, den Tieren so schnell wie möglich ein neues Zuhause zu schenken. Dies geschieht unter anderem über eine Website, die Kurzinfos und Photos von den Tieren auflistet.

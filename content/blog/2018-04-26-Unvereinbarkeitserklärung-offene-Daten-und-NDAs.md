@@ -7,6 +7,9 @@ topic: story
 
 draft: false
 ---
+
+# Unvereinbarkeitserklärung: Offene Daten und exklusive Nutzungsbedingungen
+
 Die Mitglieder der Open Knowledge Labs nehmen häufig an Hackathons und ähnlichen Veranstaltungen teil, oftmals auch unter dem Schirm ihres Labs. Vor kurzem sollten einige Community Mitglieder auf einem Hackathon eine Nutzungserklärung unterschreiben, dass dort genutzte Daten nicht weiterverwendet werden dürfen. Dies ist unvereinbar mit unserer Vorstellung von offenen Daten und birgt die Gefahr, dass aus bürgerschaftlichen Engagement entstehende Anwendungen nicht für gesamtgesellschaftliche, sondern privatwirtschaftliche Zwecke genutzt würden.
 
 Um auf diese Problematik hinzuweisen, haben wir eine Unvereinbarkeitserklärung für offene Daten auf Hackathons und ähnlichen Veranstaltungen formuliert. Code for Germany ist eine Gemeinschaft, die Entwicklungen im Bereich Transparenz, Open Data und Civic Tech in Deutschland fördert. Wir möchten zeigen, was mit digitalen Technologien möglich ist. Wir arbeiten dabei öffentlich, nutzen Freie Software und Freie Lizenzen.

@@ -9,12 +9,7 @@ images:
 draft: false
 ---
 
-
-<br>
-
-![wahlsalon-1](/blog/wahlsalon-1.jpg)
-
-
+# Kick-Off für die Wahlsalons
 
 <p>Vor ein paar Wochen haben wir den diesjährigen Schwerpunkt angekündigt: Wahlen, Wahldaten und Demokratie. Mit einer dreiteiligen Veranstaltungsreihe, den Wahlsalons, in Berlin und Köln wollen wir die Zusammenarbeit und das Interesse an diesen Themen fördern.</p>
 

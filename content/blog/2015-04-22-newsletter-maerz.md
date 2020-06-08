@@ -10,7 +10,8 @@ images:
 - imgname: newsletter-maerz.jpg
 
 ---
-![newsletter-maerz](/blog/newsletter-maerz.jpg)
+
+# Der Code for Germany Newsletter März
 
 Wir haben wieder einen Newsletter versendet mit Neuigkeiten aus den Labs, zu spannenden Initiativen, Events und Links rund um Open Data und Civic Tech. Dieser Newsletter ist eine Citizen Science Spezialausgabe.
 

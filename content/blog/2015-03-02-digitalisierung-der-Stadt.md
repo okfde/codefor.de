@@ -9,6 +9,8 @@ images:
 - imgname: stadtdernerds1.jpg
 ---
 
+# Digitalisierung der Stadt war Thema eines Projekts an der TU Berlin
+
 Wie interagieren realer und virtueller Raum? 'Digitalisierung der Stadt' und ihre vielfältigen Auswirkungen auf urbanen Raum, Stadtplanung und die Bürger_innen war Thema eines Projekts an der TU Berlin (Institut für Stadt- und Regionalplanung, Fachgebiet Stadt- und Regionalökonomie) im vergangenen Jahr.
 
 ![image](/blog/stadtdernerds2.jpg)

@@ -11,7 +11,7 @@ og-description: In ihren jährlichen Berichten informiert der Verfassungsschutz 
 draft: false
 ---
 
-![Verfassungsschutzberichte.de](/blog/berlin/vsberichte.jpg)
+# Pressemitteilung: Launch Verfassungsschutzberichte.de
 
 Berlin, 02.11.2019 - In ihren jährlichen Berichten informiert der Verfassungsschutz über verfassungsfeindliche Bestrebungen. Auf [Verfassungsschutzberichte.de](https://verfassungsschutzberichte.de) werden die Berichte erstmals gesammelt, analysiert und durchsuchbar gemacht.  Die Webseite ist ein zivilgesellschaftliches Archiv, das den Zugang zu den Dokumenten erleichtert. Es dient als Recherchewerkzeug für Journalist:innen, Wissenschaftler:innen und interessierte Bürger:innen.
 

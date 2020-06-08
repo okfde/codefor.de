@@ -7,7 +7,7 @@ excerpt: Berlin hat einen neuen Open Data Beauftragten - Sebastian Askar. Sein V
 topic: event
 ---
 
-
+# Sebastian Askar - der neue Open Data Beauftragte von Berlin
 
 Berlin hat einen neuen Open Data Beauftragten: [Sebastian Askar][sebastian-askar].
 Sein Vorgänger [Dr. Both][oklab-mit-herrn-both] geht in den Ruhestand
@@ -26,7 +26,7 @@ eigener Bereich für Daten existieren könnte. Dann würde das Datenportal diese
 Daten einfach katalogisieren. Von den 12 Berliner Bezirken hat nur Steglitz-
 Zehlendorf mit [Christian Hanuschke][christian-hanuschke] einen eigenen Open Data Beauftragten.
 
-# Erste Taten und Ziele
+## Erste Taten und Ziele
 
 In der Anfangsphase möchte Herr Askar bedarfsorientiert nachfragen und bietet
 an, konkrete Wünsche aus der Community in die Verwaltung zu tragen und die
@@ -45,7 +45,7 @@ die Zusammenarbeit mit den landeseigenen Betrieben. Er ist bereits mit den
 Unternehmen Daten freigeben, ist ein Hackathon als Auftaktveranstaltung
 angedacht. Weiterhin ist die [BVG][bvg] ein interessanter Partner.
 
-# Das Datenportal
+## Das Datenportal
 
 Gerade wird eine How-To-Broschüre für das Datenportal erstellt, die die
 Datenbereitsteller in der Verwaltung als Zielgruppe hat. Aktuell werden 100
@@ -75,7 +75,7 @@ anbietet, die auf Daten basieren ([Wartezeiten][service-app], Wetterdaten,
 freigegeben. Die Stadtverwaltung könnte eine Übersicht solcher technischen
 Schnittstellen beispielsweise unter "api.berlin" veröffentlichen.
 
-# Kommunikation
+## Kommunikation
 
 Das OKLab schlägt vor, soziale Medien wie [Twitter][twitter] für die
 Kommunikationen aller aktuellen Geschehnisse zu nutzen. Wir sind davon
@@ -87,7 +87,7 @@ er alle zwei Monate treffen. Das OKLab stimmt diesem Treffen zu. In der
 Vergangenheit gab es bereits einen von [Daniel Dietrich][daniel-dietrich-twitter]
 organisierten Open Data Stammtisch, den man wiederbeleben könnte.
 
-# Die gesetzliche Basis
+## Die gesetzliche Basis
 
 Das E-Government-Gesetz für Berlin ist in der Vorbereitung. Einer von 50 Punkten
 betrifft das Thema Open Data. Herr Askar berichtet, dass eine Sitzung bereits
@@ -96,7 +96,7 @@ geprüft hat. Nach einer zweiten Sitzung kommt das Gesetz ins Abgeordnetenhaus
 (bis zu drei Hauptsitzungen plus Unterausschüsse) - vor 2016 ist mit einer
 Verabschiedung des Gesetzes nicht zu rechnen.
 
-# Veranstaltungen
+## Veranstaltungen
 
 Der [Berlin Open Data Day (BODDy)][boddy] (nicht zu verwechseln mit dem
 [Internationalen Open Data Day][internationaler-open-data-day] im Februar) fällt

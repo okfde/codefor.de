@@ -9,7 +9,7 @@ images:
 draft: false
 ---
 
-![](/blog/european_data_summit_2018.jpg)
+# Über die Essenz des digitalen Zeitalters: Rufus Pollock zum European Data Summit in Berlin
 
 Am 24. Oktober war [Rufus Pollock](https://rufuspollock.com/), Gründer von Open Knowledge International und Entwickler der Datenportalsoftware [CKAN](https://ckan.org/) im Rahmen des [European Data Summits](https://www.kas.de/veranstaltungen/detail/-/content/european-data-summit) der Konrad Adenauer Stiftung in Berlin. Zur Eröffnung der Veranstaltung teilte er in einer Keynote seine Einschätzung dazu, wie die Zukunft der digitalen Welt aussehen sollte und was sie heute schon besonders macht.
 

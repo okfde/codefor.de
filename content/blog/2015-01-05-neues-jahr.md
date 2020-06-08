@@ -10,7 +10,8 @@ images:
 - imgname: jahresrueckblick.png
 
 ---
-![jahresrueckblick](/blog/jahresrueckblick.png)
+
+# Code for Germany - der Jahresrueckblick
 
 Wir wünschen allen Lesern und fleißigen Stadtentwicklerinnen ein wunderschönes neues Jahr. Wir hoffen, ihr seid gut reingerutscht und hattet ein paar erholsame Tage. Wir sind wieder am Start und freuen uns auf die Zusammenarbeit mit den Labs und auf das, was das Jahr 2015 in Sachen Civic Tech und Open Data mit sich bringt.
 

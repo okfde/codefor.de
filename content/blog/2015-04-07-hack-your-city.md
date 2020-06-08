@@ -10,7 +10,8 @@ images:
 - imgname: hackyourcity.png
 
 ---
-[![hackyourcity](/blog/hackyourcity.png)](http://hackyourcity.de/)
+
+# Code for Germany goes Citizen Science!
 
 Im Zuge des <a href="http://www.wissenschaftsjahr-zukunftsstadt.de">Wissenschaftsjahr – Zukunftsstadt </a> wird Code for Germany im Jahr 2015 einen speziellen Fokus auf Citizen-Science-Projekte haben. Als Teil des Projektes „Hack your City“ werden die OK Labs in Berlin, Wuppertal, Karlsruhe und Leipzig mit lokalen Wissenschaftseinrichtungen und HobbyforscherInnen kooperieren, um gemeinsam neue Ansätze und Hacks für die Probleme unserer Städte zu erproben. Das Projekt ist eine Kollaboration zwischen <a href="http://www.wissenschaft-im-dialog.de">Wissenschaft im Dialog</a> und der <a href="http://okfn.de/">Open Knowledge Foundation Deutschland</a>. Als Kickoff des Citizen Science Schwerpunkts werden Hackdays mit lokalen Partnern und Institutionen veranstaltet.
 

@@ -7,7 +7,8 @@ excerpt: Markiert eure Kalender! Am 14. Mai treffen sich die Open Disziplinen in
 topic: event
 
 ---
-[![ots](/blog/ots.png)](http://opentechsummit.net/)
+
+# Open Tech Summit am 14. Mai
 
 Wir freuen uns sehr darüber, dass es dieses Jahr zum ersten Mal einen Open Tech Summit in Berlin geben wird, der die verschiedenen Open Disziplinen zusammenbringt:
 
