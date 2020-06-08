@@ -12,6 +12,7 @@ images:
   sub: Interessierte
 ---
 
+# OK-Lab Berlin mit Gästen
 
 „Wie stehen Politik und Verwaltung zum Thema Open Data und wie könnten mögliche Kooperationen aussehen?“- um diese Frage drehte sich alles bei unserem OK-Lab am 18. Juni in Berlin. Zu Gast waren Wolfgang Both von der [Senatsverwaltung für Wirtschaft, Technologie und Forschung][] und verantwortlich für das [Open Data Portal Berlin][] sowie die Bezirksstadträtin [Jana Borkamp][] aus Friedrichshain-Kreuzberg und ihre Mitarbeiterin Franziska Mahlow.
 
