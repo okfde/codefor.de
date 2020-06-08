@@ -1,6 +1,6 @@
 ---
-city: bielefeld
-title: Code For Bielefeld
+city: Bielefeld
+title: Code for Bielefeld
 
 lat: 52.021088
 long: 8.532800
@@ -32,6 +32,9 @@ members:
 links:
 - name: Meetup
   url: http://www.meetup.com/Code-For-Bielefeld//
+
+- name: GetTogether
+  url: https://gettogether.community/code-for-bielefeld/
 
 - name: Twitter
   url: http://twitter.com/codeforbi
