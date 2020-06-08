@@ -8,7 +8,8 @@ images:
    - imgname: header-design.jpg
 draft: false
 ---
-![header-design](/blog/header-design.jpg)
+
+# Unser Lab Wochenende 2018
 
 Am letzten Wochenende fand unser alljährlicher Lab Leads Workshop bei der Open Knowledge Foundation in Berlin statt. Dafür kamen Teilnehmer*innen aus zehn Labs zusammen, um sich mit Offenen Daten, nutzerzentriertem Arbeiten und unserer Themenplanung für das nächste Jahr zu beschäftigen.
 

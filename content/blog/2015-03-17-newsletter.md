@@ -10,7 +10,8 @@ images:
 - imgname: newsletter-februar.png
 
 ---
-![newsletter-februar](/blog/newsletter-februar.png)
+
+# Der neuste Code for Germany Newsletter
 
 
 Diesen Monat gibt es wieder einen Newsletter mit aktuellen Updates aus den Labs, zum Open Data Day 2015 und zu spannenden Initiativen und Visualisierungen.

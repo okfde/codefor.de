@@ -13,6 +13,8 @@ images:
 - imgname: muenchen/JuneEventSign.jpg
 ---
 
+# Letztes und nächstes Treffen: Projekte!
+
 Am 17. Juni 2014 haben wir uns im [Chaos Computer Club (CCC)][CCC] getroffen (vielen Dank an Andi und die CCC-Mitglieder, dass wir dort zu Gast sein dürfen!).
 
 Der Ort war perfekt geeignet zum Brainstorming und daraus sind zwei konkrete Projekte entstanden:

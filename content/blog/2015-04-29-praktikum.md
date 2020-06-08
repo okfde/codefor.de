@@ -10,7 +10,8 @@ images:
 - imgname: praktikum.png
 
 ---
-![praktikum](/blog/praktikum.png)
+
+# Praktikum bei Code for Germany
 
 <strong>Wir suchen eine/n Praktikanten/in zum nächstmöglichen Zeitpunkt.</strong>
 

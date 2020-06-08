@@ -11,6 +11,8 @@ images:
 
 ---
 
+# Einladung zum Gründungstreffen des OK Lab München
+
 Wir laden Euch, aktive Open Data Nutzer im Raum München, herzlich ein zum **Gründungstreffen des OK Lab München** am **13. Mai 2014 um 19 Uhr**! Wir treffen uns im **[WERK1][]**, Grafinger Straße 6, 81671 München [Karte][]. (Vielen Dank an Florian und die WERK1-Macher, dass wir dort zu Gast sein dürfen!)
 
 Am ersten Treffen wollen wir uns kennenlernen -- unsere Hintergründe, Erfahrungen und vor allem unsere Projektideen zu Open Data austauschen und diskutieren, welche Unterstützung von der Stadt München wir gerne hätten. Neben **Kennenlernen** und **Projekte-Brainstorming** gibt es eine kurze Vorstellung zum Gesamtprogramm Code for Germany und den Ideen hinter den OK Labs von Marcus (OKF Deutschland). Natürlich gibt es auch coole Stickers und andere Goodies, um sich als Mitglied zu outen und das Lab München bekannter zu machen. ;-) Um den Kontakt gleich herzustellen, versucht Marcus, einen **Vertreter der Stadt München** einzuladen, der uns einen Überblick zu den Open Government/Open Data Aktivitäten der Stadt seit Ende des [MOGDy-Projekts][] gibt. -- UPDATE: Wolfgang Glock, aktuell Projektleiter eGov/oGov, kommt vorbei!

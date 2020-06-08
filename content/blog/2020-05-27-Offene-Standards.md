@@ -11,6 +11,8 @@ og-description: "In vielen Bereichen unseres Lebens z. B. bei Währungen und Pap
 draft: false
 ---
 
+# Offene Standards: Technologien standardisiert zugänglich machen
+
 Code for Germany fordert bei digitalen Anwendungen der öffentlichen Hand Offene Standards. Das sind formalisierte Verfahren, wie Technologien und Daten strukturiert werden, um sie nachvollziehbar und weiter bearbeitbar zu machen. Zuletzt haben wir in unserem [Handbuch zu Krisenresilienz von Verwaltungen](https://codefor.de/assets/presse/20200409-CFG-Handbuch-Krisenresilienz.pdf) dafür plädiert, Offene Standards bei der Verwaltungsdigitalisierung zu nutzen, um [Open Government](https://okfn.de/themen/offenes_regierungshandeln/) durchzusetzen und um Verwaltungen dadurch im Austausch mit der Zivilgesellschaft ihre Handlungsfähigkeit zu sichern.
 
 ## Was sind Offene Standards?

@@ -10,7 +10,8 @@ images:
 - imgname: newsletter-september.png
 
 ---
-![newsletter-september](/blog/newsletter-september.png)
+
+# Der Code for Germany Newsletter September
 
 Wir haben wieder einen Newsletter versendet mit Neuigkeiten aus den Labs, zu spannenden Initiativen, Events und Links rund um Open Data und Civic Tech. Ihr könnt den Newsletter [im Browser lesen][] oder gleich [abonnieren][].
 

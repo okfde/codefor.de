@@ -9,7 +9,7 @@ images:
 - imgname: drl-logo.png
 ---
 
-[![DRL-Logo](/blog/drl-logo.png)](http://codefor.de/digitalrefugeelabs/)
+# Schwerpunkt 2016 'Digital Refugee Labs'
 
 <h3 style="text-align: center">Worum geht's?</h3>
 

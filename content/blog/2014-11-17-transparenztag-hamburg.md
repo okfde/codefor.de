@@ -12,7 +12,7 @@ images:
 
 ---
 
-![codeforhamburg](/blog/codeforhamburg.png)
+# Transparenztag in Hamburg am 23.11.
 
 Das [OK Lab Hamburg][] lädt am kommenden Sonntag zum ersten Transparenztag Hamburg ein. Anlass ist das gerade gestartete Transparenzportal der Stadt Hamburg. Damit das Portal mit Leben gefüllt wird, wollen wir einen Tag mit dem Portal arbeiten, lernen wie es funktioniert, und kleine Geschichten generieren. Das Ergebnis können Karten oder auch nur statistische Besonderheiten sein, die wir im Portal finden – angedachte Themen wären z. B.:
 

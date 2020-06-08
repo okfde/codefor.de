@@ -11,6 +11,7 @@ og-description: "Musterdatenkatalog ist jetzt online"
 draft: false
 ---
 
+# Der Musterdatenkatalog ist online!
 ## Open-Data-Leitfaden für Kommunen und Datenportal für Transparenz-Enthusiast\*innen
 
 Ihr habt schon einmal nach Offenen Daten gesucht und diese nicht gefunden? Dann wolltet ihr auf die lokale Verwaltung zugehen aber  wusstet nicht genau, wie? Ihr fragt euch, wie man die Verwaltung motivieren kann, selbst an dem Thema dran zu bleiben?

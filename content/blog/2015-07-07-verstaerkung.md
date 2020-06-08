@@ -11,7 +11,7 @@ images:
 
 ---
 
-![beep bop](/blog/thethirdwoman.png "Eileen ist jetzt dabei")
+# Hallo und guten Tag!
 
 Liebe Open Data Freunde,
 
