@@ -56,7 +56,7 @@
                         {{ range .links }}
                           {{ if in .url "github"}}
                           <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img class="ext-link-icon mx-2" src="/img/github.svg" alt="Link to Github"></a>
-                          {{ else if in .url "github"}}
+                          {{ else if in .url "twitter"}}
                           <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img class="ext-link-icon mx-2" src="/img/twitter.svg" alt="Link to twitter"></a>
                           {{ else}}
                             <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
