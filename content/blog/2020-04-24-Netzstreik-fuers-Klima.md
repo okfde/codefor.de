@@ -10,7 +10,6 @@ og-image: /blog/klimawatch_gruen.png
 og-description: "Netzstreik fuers Klima mit Code for Climate"
 draft: false
 ---
-![klimawatch_gruen.png](/blog/klimawatch_gruen.png)
 
 Heute findet der nächste globale Klimastreik statt, der angesichts der Pandemie ins Netz verlagert wird. Wir streiken für Klimaschutz, das ist den meisten wohl klar. Aber wofür noch einmal genau? [Fridays for Future](https://fridaysforfuture.de/forderungen/) fordern die Einhaltung der Ziele des [Pariser Abkommens](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement) und des 1,5°C-Ziels. Das bedeutet, den menschengemachten Temperaturanstieg auf 1.5°C zu begrenzen. Für Deutschland heißt das:
 

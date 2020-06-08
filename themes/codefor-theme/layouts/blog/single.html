@@ -17,13 +17,13 @@
         
         {{ if .Params.images }} 
             {{ range first 1 .Params.images}}
-            <div>
+            <div class="text-center">
                 <img class="img-fluid" src="/blog/{{ .imgname }}" alt="">
             </div>    
             {{end}}
         {{ end }}
         
-        <small class="d-block my-3">
+        <small class="d-block mt-3 mb-5">
             {{ .Date.Format "02.01.2006" }} von {{.Params.author}}
         </small>
 
