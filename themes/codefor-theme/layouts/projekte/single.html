@@ -57,7 +57,7 @@
                           {{ if in .url "github"}}
                           <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img class="ext-link-icon mx-2" src="/img/github.svg" alt="Link to Github"></a>
                           {{ else if in .url "github"}}
-                          <a href="{{ .url }}" target="_blank"><img class="ext-link-icon mx-2" src="/img/twitter.svg" alt="Link to twitter"></a>
+                          <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img class="ext-link-icon mx-2" src="/img/twitter.svg" alt="Link to twitter"></a>
                           {{ else}}
                             <a href="{{ .url }}" target="_blank">{{ .name }}</a>
                           {{ end }}
