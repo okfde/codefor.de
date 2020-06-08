@@ -90,7 +90,7 @@
                     <ul class="list-unstyled mb-5">
                       {{ range .Params.Links }}
                       <li class="d-flex justify-content-center p-2">
-                        <a href="{{ .url }}" target="_blank">{{ .name }}</a>
+                        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
                       </li>
                       {{ end }}
                     </ul>
