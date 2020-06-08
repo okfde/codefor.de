@@ -19,6 +19,9 @@ collaborators:
 - name: Kai W.
 - name: Thorsten
 
+tags:
+- Gesellschaft
+
 ---
 
 Zusammen mit der Antidiskriminierungsstelle Karlsruhe erarbeiten wir eine Web- und App-basierte Lösung zur Erfassung und Verfolgung von Diskriminierungserfahrungen. Dabei ist uns wichtig, dass wir uns stets im engen Austausch mit den Anwender*innen befinden.

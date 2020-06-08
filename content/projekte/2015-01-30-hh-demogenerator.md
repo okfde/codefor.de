@@ -10,5 +10,8 @@ links:
 - url: https://github.com/ATack/demofinder
   name: Code
 
+tags:
+- Gesellschaft
+
 ---
 Deine Montagsdemo wurde abgesagt? Kein Problem - es gibt Alternativen. Finde deine Lieblingsdemo mit dem Demogenerator!

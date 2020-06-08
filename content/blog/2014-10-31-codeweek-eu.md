@@ -11,7 +11,8 @@ images:
 - imgname: dresden-codeweek.png
 
 ---
-![codeweek-eu](/blog/codeweek-okfn.png)
+
+# Das war die Codeweek!
 
 Vom 11. bis 17. Oktober fanden im Rahmen der [Codeweek][] über 1000 Events in ganz Europa rund ums Coden statt. Die OK Labs haben ordentlich mitgemischt mit zahlreichen tollen Events. Ein kleiner Auszug:
 

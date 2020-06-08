@@ -23,6 +23,9 @@ collaborators:
   - url: https://twitter.com/AppProjectX
     name: twitter
 
+tags:
+- Gesellschaft
+
 ---
 
 Der Markt der CityApps ist sehr groß. Fast jede größere Stadt und vor allem Touristenorte bieten in den App Stores eigene Apps an, die den Besucher über das Geschehene vor Ort informieren sollen. Einige Softwarehersteller bieten mittlerweile diese Apps von der Stange an, die einen Mix aus einer Webseite und einiger nativer Funktionen darstellen. Über die Herkunft und Aktualität der Inhalte wird selten ein Wort gesagt. Ob es die Location noch gibt und ob sie offen ist erfährt der Besucher erst, wenn er vor der Tür steht. Wenn es um aktuelle Termine geht, wird der Anwender dann doch lieber auf die Homepage der Stadt verwiesen statt ihm sinnvolle Funktionen zur Übernahme des Events in seinen Terminkalender anzubieten.

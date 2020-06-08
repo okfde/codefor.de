@@ -10,6 +10,8 @@ images:
 - imgname: chemnitz/chemnitz-hackt-2017.jpg
 ---
 
+# Chemnitz hackt 2017: Rückblick und Projektvorstellung
+
 Der erste (uns bekannte) Chemnitzer Hackathon vom 28. und 29. Oktober 2017 ist nun auch schon wieder vorbei. Dem einen oder anderen wird sicherlich interessieren, wie es so war, was für Projekte rausgekommen sind und ob es genug Pizza gab. Here u go:
 
 Eindrücke und Fotos kann man im offiziellen Twitter-Kanal <a href="https://twitter.com/ChemnitzHackt">@ChemnitzHackt</a> gewinnen. Viele weitere Fotos gibt es zudem in dieser <a href="https://cloud.morrisjobke.de/apps/gallery/s/TwM4C1fM33UMM4q#">Bildergalerie</a>.

@@ -27,6 +27,10 @@ links:
 - name: "transit.robbi5.com (Daten)"
   url: "https://transit.robbi5.com"
 
+tags:
+- Mobilität
+
+
 ---
 
 Aufbereitung und Auswertung von Bikesharing Daten. Im Moment können MVG Rad Daten ausgewertet werden, das Ziel des Projekts ist es ein einheitliches Datenformat für die Aufbereitung von Bikesharing-Daten zu schaffen. Damit wird die Auswertung vereinfacht und unterschiedliche Bikesharing Dienste können miteinander verglichen werden.

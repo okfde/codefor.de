@@ -10,7 +10,7 @@ images:
 draft: false
 ---
 
-
+# Showroom Berlin - so war der dritte Wahlsalon
 
 <br>
 Die Wahlsalons greifen das Engagement von Ehrenamtlichen, Datenjournalisten, Politikwissenschaftlerinnen und Entwicklern auf, die sich mit Wahlen, Wahldaten und Demokratie kritisch auseinandersetzen und Tools für die Bundestagswahl entwerfen.
@@ -20,7 +20,7 @@ Die Wahlsalons greifen das Engagement von Ehrenamtlichen, Datenjournalisten, Pol
 Eines der bekanntesten Civic Tech Projekte rund um die Wahl ist der <a href="https://www.wahl-o-mat.de/bundestagswahl2017/">Wahl-o-Mat</a>, der seit 2002 den Nutzerinnen ein breites Set an Fragen stellt und auf Basis der Wahlprogramme eine Partei empfiehlt. Mittlerweile befindet sich der Wahl-o-Mat in bester Gesellschaft. Es gibt zahlreiche Projekte, die digitale Öffentlichkeit, Technologien und Plattformen nutzen, um die Wahl, Demokratie und Politik den Wählerinnen näher zu bringen. Sechs dieser Projekte haben wir zum Wahlsalon nach Berlin ins Office von Google eingeladen.
 
 
-### Projekte rund um die Wahl
+## Projekte rund um die Wahl
 
 Das erste Programm, das vorgestellt wurde war <a href="https://deinwal.de">DeinWal.de</a>, ein Projekt, das von Tom Theile und Martin Scharm entwickelt wurde. “Dein Wal” gibt Wahlempfehlungen auf Basis der vergangenen Legislaturperiode und des Abstimmverhaltens von Parteien. Eine clevere Art und Weise, Parteien jenseits von Wahlprogrammen und Versprechen zu bewerten, nämlich aufgrund ihrer tatsächlichen Handlungen. Die Idee dazu kam dem Team beim “Spielen” des original Wahl-o-Mats: "Moment mal, alle Parteien sind für dieses Thema? Warum haben einige dann noch vor einem Jahr dagegen gestimmt?" Gute Frage!
 
@@ -33,7 +33,7 @@ Als Zweites trat das Team von <a href="https://dsst.io">“Data Science and Stor
 
 Einen ähnlichen, breiter gefassten Ansatz verfolgt das Team hinter <a href="http://everypolitician.org">“Every Politician”</a>, das alle regierenden Politikerinnen weltweit in einer Datenbank aufbereiten will. Lucy Chambers von <a href="https://www.mysociety.org">MySociety</a> stellte das Projekt vor. Ein ehrgeiziges Vorhaben, das künftig viel Zeit und Ressourcen für andere Projekte und Forschung einsparen kann.
 
-### Warum liegen Wahlprognosen so oft daneben?
+## Warum liegen Wahlprognosen so oft daneben?
 
 Wahlprognosen begleiten Bürgerinnen und Politikerinnen über Wochen und nehmen eine wichtige Funktion dar. Die Plattform <a href="https://signalundrauschen.de">“Signal und Rauschen”</a> erklärt, wie Wahlprognosen entstehen, welche Mechanismen und Rechenmodelle angewandt werden, wie sie wirken und welche Geschäftsmodelle eigentlich dahinter stecken.
 Der Politologe Arndt Leinigner und der Datenjournalist Dominik Wurnig stellten die Plattform beim Wahlsalon vor. Sie zeigen, wie “Signal und Rauschen” Wahlforschung nicht nur wiedergibt, sondern sie auch aufbereitet, kontextualisiert und interpretiert.
@@ -45,16 +45,16 @@ Ein sehr schönes Projekt, das auch im Rahmen der Wahlsalons weiterentwickelt wu
 
 ![wahlsalons-wahltraud](/blog/wahlsalons-wahltraud.png)
 
-### Ein Projekt begann als Witz
+## Ein Projekt begann als Witz
 
 Das letzte Projekt, das vorgestellt wurde, entstand als Witz auf dem ersten Wahlsalon - man müsste ein Wahlprogramm-Quiz erstellen und abfragen, welche Partei was sagt, zum Beispiel:  “Wir brauchen ein Populationsmanagement für den Kormoran, das den Artenschutz im Blick hat und den Interessen der Menschen dient.“ (Spoiler: Es sind nicht die Grünen!). Nicolas Merz hat das Quiz namen's <a href="https://visuals.manifesto-project.wzb.eu/wahlprogrammquiz/">Welche Partei hat's gesagt</a>dann tatsächlich entwickelt. Das Quiz stellt auch dar, wie die meisten Leute abgestimmt haben und deckt so gängige Irrtümer auf.
 
 
-### Bundeswahldatenleitung
+## Bundeswahldatenleitung
 
 Das Team des <a href="https://www.bundeswahlleiter.de">Bundeswahlleiters</a> war ebenfalls beim Wahlsalon vor Ort und beantwortete fast eine Stunde lang Fragen der Community. Torsten Rink, Klaus Poetzsch, Christiane Becker und Kevin Kobold berichteten von ihrer Arbeit, sprachen über Datenformate und erklärten, wann Wahldaten zur Verfügung stehen. In den nächsten Wochen wollen wir mehr darüber informieren und auch nach der Wahl in engem Kontakt mit dem Bundeswahlleiter bleiben.
 
-### Wie geht’s weiter?
+## Wie geht’s weiter?
 
 Der Wahlsalon Showroom war die dritte und abschließende Veranstaltung der Wahlsalons. Aber vor der Wahl ist vor der Wahl! Der nächste Termin kommt, und zwar zum Wahlwochenende. In Köln veranstaltet das hack.institute gemeinsam mit dem OK Lab Köln ein <a href="http://hack.institute/de/bundestagswahl-hackathon/">Wahl-Hack-Wochenende</a>, zu dem alle Interessierten eingeladen sind. In Berlin wird es sicher auch das ein oder andere Event neben den Wahlpartys geben. Wir halten auch auf dem Laufenden! Folgt uns am Besten auf <a href="https://twitter.com/codeforde">Twitter</a> oder dem Hashtag #wahlsalons für regelmäßige Updates.
 

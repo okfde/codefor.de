@@ -17,6 +17,10 @@ collaborators:
     name: twitter
   - url: https://github.com/jfilter
     name: github
+
+tags:
+- Gesellschaft
+
 ---
 
 Berichte von Übergriffen rechter Gewalt werden kartiert, um die Allgegenwärtigkeit von rechten Straftaten aufzuzeigen.

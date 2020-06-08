@@ -21,6 +21,10 @@ collaborators:
   - url: https://robbi5.de
     name: Homepage
 
+tags:
+- Mobilität
+
+
 ---
 Da MVG Rad - das stadteigene Mietfahrradsystem - zwar wie in vielen anderen Städten auf Nextbike basiert, in München aber tatsächlich eine White-Label-Lösung zu sein scheint, konnte man bislang mit pybikes, einer Python-Library für Mietfahrräder, nicht darauf zugreifen.
 

@@ -11,6 +11,9 @@ links:
 - url: https://github.com/codeforcologne/kvbrad
   name: Code
 
+tags:
+- Mobilität
+
 ---
 Die Webapplikation KVB Fahrräder stellt eine mögliche Nutzung Kölns durch Fahrräder dar. Grundlage hierfür sind die Daten, die durch [KVB-Rad Köln](http://www.kvb-rad.de/de/koeln/) zur Verfügung gestellt werden in Kombination des Wissens der Open Streetmap Community.
 

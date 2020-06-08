@@ -7,6 +7,8 @@ topic: story
 
 ---
 
+# Nächstes Treffen des OK Lab München
+
 Auch in der Sommerpause wollen wir uns treffen. Warum? Weil es doch viel zu besprechen gibt:
 
   * Bericht vom OK Fest in Berlin

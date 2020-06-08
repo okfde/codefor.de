@@ -11,8 +11,7 @@ images:
 
 ---
 
-
-![muenchen-transparent-launch](/blog/muenchen-transparent-launch.png)
+# München Transparent
 
 Heute ging das Projekt "[München Transparent][]" an den Start. Die unabhängige Plattform ermöglicht es Münchener BürgerInnen, schnell und einfach Einblicke in die Kommunalpolitik zu bekommen, indem normalerweise nur schwer zugängliche Daten aus dem Münchener [Ratsinformationssystem][] übersichtlich und ansprechend aufbereitet werden. Insgesamt über 160.000 gescannte Dokumente umfasst die Datenbank derzeit, von Stadtratsanträgen über Beschlussvorlagen bis hin zum täglich erscheinenden Rathaus-Magazin „Rathausumschau“. So lässt sich erfahren, was eigentlich der Münchner Stadtrat gerade macht und welche Themen in den lokalen Stadtteilparlamenten oder den Bezirksausschüssen anstehen.
 

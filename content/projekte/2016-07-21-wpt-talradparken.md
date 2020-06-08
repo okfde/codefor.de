@@ -18,6 +18,10 @@ collaborators:
 - name: Nico
 - name: Sam
 
+tags:
+- Mobilität
+
+
 ---
 
 Talradparken zeigt, wo man sicher sein Fahrrad in Wuppertal anschließen kann.

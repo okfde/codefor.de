@@ -21,6 +21,9 @@ collaborators:
 - name: Flo
 - name: Christoph
 
+tags:
+- Politik
+
 ---
 
 Die Forderung nach einem Gesetz, daß die Wahl ab 16 Jahren erlaubt, ist schon seit langem ein Programmpunkt bei vielen Parteien. Wie würden sich aber die Ergebnisse verändern, wenn auch die junge Generation wählen dürfte?

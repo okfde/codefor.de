@@ -10,7 +10,8 @@ images:
 - imgname: codeweek.jpg
 
 ---
-![codeweek-eu](/blog/codeweek.jpg)
+
+# Codeweek EU
 
 Die [Codeweek][] steht vor der Tür! Vom 11. bis zum 17. Oktober finden in ganz Europa zahlreiche spannende Events rund ums Coden, Programmieren und Hacken statt. Allein in Deutschland sind knapp 50 Events mit dabei. Wir freuen uns sehr darüber, dass wir mit sieben Events Teil davon sind.
 

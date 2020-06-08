@@ -24,7 +24,6 @@ collaborators:
 
 tags:
 - Politik
-- Gesellschaft
 
 ---
 

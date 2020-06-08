@@ -1,9 +1,9 @@
 ---
 type: blog
-title: "Fünf Jahre Code for Germany, fünf Jahre digitales Ehrenamt"
+title: Fünf Jahre Code for Germany, fünf Jahre digitales Ehrenamt
 author: Michael Peters
 excerpt: Seit fünf Jahren engagieren sich ehrenamtliche Bürger*innen mit ihren technischen Fähigkeiten im Code for Germany Netzwerk um gemeinsam nützliche und offene Anwendungen für die digitale Gesellschaft zu entwickeln.
-type: story
+topic: story
 images:
    - imgname: wikidata-ulm-2017-1.jpg
 og-image: /assets/blog/wikidata-ulm-2017-1.jpg
@@ -11,6 +11,8 @@ og-description: Seit fünf Jahren engagieren sich ehrenamtliche Bürger\*innen m
 
 draft: false
 ---
+
+# Fünf Jahre Code for Germany, fünf Jahre digitales Ehrenamt
 
 Vor fünf Jahren wurde das Projekt Code for Germany geboren. Die Idee war es, eine Community aufzubauen, in der digitale Werkzeuge und Anwendungen entstehen, um damit praktisch aufzuzeigen, welche Möglichkeiten Offene Daten und neue Technologien für das gesellschaftliche Zusammenleben bieten. Als Vorbild galt dabei das Programm [Code for America](https://www.codeforamerica.org/), das in den USA die Entwicklungen in Sachen Civic Tech maßgeblich vorangetrieben hat. So entstand Code for Germany, ein Netzwerk engagierter Freiwilliger, häufig mit technischem Hintergrund, die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten.
 

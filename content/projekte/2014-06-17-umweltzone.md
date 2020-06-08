@@ -19,6 +19,9 @@ collaborators:
   - url: https://twitter.com/tbsprs
     name: Twitter
 
+tags:
+- Umwelt
+
 ---
 
 The Umweltzone app enables citizens to look up the areas of cities which are restricted for being used by cars limited by their specific emission profile. The app shows the outline of the low emission zones and Diesel prohibition zones and provides additional information about dates or special regulations such as for vehicles registered abroad. Moreover, users can use the FAQs to read about emission groups, fine particles, stickers for cars or motorbikes, punishments, exception permits and many more. Further, there are several links included pointing to external websites which serve more information to read through.<br />

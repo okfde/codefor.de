@@ -20,7 +20,6 @@ collaborators:
       name: GitHub
 
 tags:
-- Umwelt
 - Mobilität
 
 

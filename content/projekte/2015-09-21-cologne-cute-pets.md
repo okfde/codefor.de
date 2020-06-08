@@ -11,6 +11,9 @@ links:
 - url: https://github.com/karen-sch/CutePetsCologne
   name: Code
 
+tags:
+- Gesellschaft
+
 ---
 Ein Twitterbot, der süße Tiere aus den Kölner Tierheimen Dellbrück und Zollstock postet.
 Implementiert auf Basis von CutePetsChemnitz im Rahmen des #openimpact Marathon von DataLook.

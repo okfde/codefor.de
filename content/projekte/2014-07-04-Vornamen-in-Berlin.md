@@ -12,6 +12,8 @@ collaborators:
   - url: https://github.com/knudmoeller
     name: github
 
+tags:
+- Gesellschaft
 
 ---
 

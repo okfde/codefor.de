@@ -9,10 +9,7 @@ images:
 - imgname: drl.jpg
 ---
 
-[![DRL](/blog/drl.jpg)](http://codefor.de/digitalrefugeelabs/)
-
-<h3 style="text-align: center">Tech for Refugees - Was ist das eigentlich?
-</h3>
+# Tech for Refugees - Was ist das eigentlich?
 
 <p>Das neu gelaunchte Projekt 'Digital Refugee Labs' befasst sich mit Tech for refugees, also digitalen Lösungen von und für Newcomer*innen und Akteure in der Flüchtlingsarbeit. Aber was genau verbirgt sich hinter dieser sperrigen Beschreibung? Wir haben uns in die Recherche gestürzt und nach solchen Tech-Projekten gesucht – und mehr als fündig geworden. Innerhalb eines Jahres sind unzählige digitale Initiativen, Portale und Werkzeuge entstanden, die wir unter „Tech for refugees“ zusammenfassen. Sie helfen den unterschiedlichsten Menschen in den unterschiedlichsten Situationen - und sie helfen rund um die Uhr.</p>
 <br>

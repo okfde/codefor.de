@@ -9,6 +9,8 @@ images:
 draft: false
 ---
 
+# Open Data Day 2019
+
 Am Samstag, 2. März 2019, findet weltweit der Open Data Day statt. Weltweit wird dieser von Aktivist*innen auf der ganzen Welt genutzt, um auf die Bedeutung offener Daten hinzuweisen. Auch in diesem Jahr organisieren zahlreiche Ehrenamtliche in den Open Knowledge Labs unseres Netzwerks Code for Germany Veranstaltungen rund um offene Daten.
 
 Sie wollen mit möglichst vielen Menschen offenes Wissen teilen und mit hilfe offener Daten gemeinsam etwas gestalten. Willst du allein, mit deinen Freunden oder mit deiner Familie bei einem der teilnehmenden OK Labs vorbeischauen und dort zum Beispiel Feinstaubsensoren bauen, lernen Chatbots zu programmieren oder dich mit den Daten des Handelsregisters beschäftigen?

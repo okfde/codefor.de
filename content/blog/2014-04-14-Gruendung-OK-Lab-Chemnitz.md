@@ -12,6 +12,7 @@ images:
 
 ---
 
+# Gründung des OK Lab Chemnitz
 
 Letzte Woche Donnerstag war unser erstes Treffen in den Räumichkeiten des ChaosTreff Chemnitz. Es waren ca. 10 Interessierte anwesend (auch ein Hund wollte mehr über das Thema wissen ;)). Dabei habe ich gleich noch einmal die Chance genutzt und die Idee hinter den OK Labs und dem Projekt Code for Germany in einer [Präsentation][] vorgestellt. Anschließend habe ich noch mein aktuelles Projekt der [Chemnitzer Baustellenkarte][] gezeigt.
 

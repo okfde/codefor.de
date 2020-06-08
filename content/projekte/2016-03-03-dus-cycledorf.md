@@ -33,6 +33,10 @@ collaborators:
     - url: https://github.com/patrickschiffer
       name: GitHub
 
+tags:
+- Mobilität
+
+
 ---
 
 CycleDorf ist eine App, die Deine Fahrradtouren aufnimmt. Dadurch gesammelte Daten können für die kommunale Verkahrsplanung verwendet werden, um Düsseldorf zu einer besseren Stadt für Fahrradfahrer zu machen.

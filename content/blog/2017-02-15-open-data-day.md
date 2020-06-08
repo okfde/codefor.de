@@ -8,7 +8,8 @@ images:
 - imgname: odd17.png
 draft: false
 ---
-![odd17](/blog/odd17.png)
+
+# International Open Data Day
 
 <h3>Am 04. März ist es wieder soweit, Aktivistinnen auf der ganzen Welt laden zum <a href="http://opendataday.org">International Open Data Day</a>.</h3><br>
 

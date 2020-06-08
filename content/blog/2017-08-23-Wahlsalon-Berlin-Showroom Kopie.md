@@ -10,12 +10,7 @@ images:
 draft: false
 ---
 
-
-
-<br>
-
-![wahlsalon-3](/blog/wahlsalon-3.png)
-
+# Wahlsalon Showroom am 01. September in Berlin
 
 Am 01 September treffen wir uns wieder, um uns über Civic Tech rund um Wahlen, Wahldaten, Demokratie und Politik auszutauschen. Sechs spannende Projekte werden ihre Tools und ihre Ziele vorstellen. Außerdem kriegen wir auch diesmal wieder Besuch aus dem Team des <a href="https://www.bundeswahlleiter.de">Bundeswahlleiters</a>. Vier Mitarbeiterinnen werden über ihre Arbeit berichten und Fragen beantworten.
 
@@ -29,6 +24,3 @@ Die Veranstaltung findet von 16 bis 19 Uhr in den Räumlichkeiten von Google <a 
 Eure Anmeldung ist dafür erforderlich, das geht ganz einfach unter <a href="https://codefor.de/wahlsalons">codefor.de/wahlsalons</a> oder direkt über diesen <a href="https://codefor.de/wahlsalons/3/">Link</a>.
 
 Falls ihr Fragen habt, schreibt einfach eine Mail an <a href="mailto:fiona.krakenbuerger@okfn.de">Fiona Krakenbürger</a>.
-
-
-<br>

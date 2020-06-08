@@ -18,6 +18,9 @@ collaborators:
   - url: http://github.com/milafrerichs
     name: github
 
+tags:
+- Politik
+
 ---
 
 Der Haushalt der Stadt Münster von 2009-2013 in OpenSpending integriert und auf offenerhaushalt.de veröffentlicht.

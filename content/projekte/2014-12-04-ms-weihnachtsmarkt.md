@@ -13,5 +13,9 @@ links:
 
 collaborators:
 - name: Gerald Pape
+
+tags:
+- Gesellschaft
+
 ---
 Weihnachtsmarkt-App Münster 2014 mit Warenangebotssuche auf einer Karte!

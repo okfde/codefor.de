@@ -9,5 +9,8 @@ links:
 - url: https://mieten-ffm.netlify.com/
   name: Website
 
+tags:
+- Gesellschaft
+
 ---
 Visualisierung, die die Abhängigkeiten von verschiedenen Parametern wie Baumdichte, Ärztedichte und Kitplätzen zum Mietpreis anzeigt.

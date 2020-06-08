@@ -9,6 +9,8 @@ images:
 draft: false
 ---
 
+# Open Data in Heilbronn - es tut sich was!
+
 Am 26.01.2017 wurde im Gemeinderat Heilbronn einstimmig ein [Antrag der SPD](https://gemeinderat.stadt-heilbronn.de/Drucksachen/2017/Gemeinderat/2601_2016/_files/Drucks_018.pdf) zur Förderung von Open Data angenommen.
 Die Heilbronner Stimme berichtet über die [neuen Wege im Umgang mit Open Data](http://www.stimme.de/heilbronn/nachrichten/stadt/hn/hn/Neue-Wege-im-Umgang-mit-Daten;art132095,3787733). Es bewegt sich also etwas in Heilbronn beim Thema Open Data!
 

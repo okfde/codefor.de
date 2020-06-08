@@ -10,7 +10,8 @@ images:
 - imgname: hackathon-muenchen.png
 
 ---
-![hackathon-muenchen](/blog/hackathon-muenchen.png)
+
+# Code for Munich Hack Day
 
 Einen Tag lang kreativ offene Daten aufbereiten und in Grundzügen nützliche Apps bzw. Websiten programmieren. Nur einen München-Bezug sollte es haben.
 

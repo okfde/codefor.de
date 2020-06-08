@@ -29,6 +29,9 @@ collaborators:
   - url: https://github.com/Nachtfux
     name: github
 
+tags:
+- Umwelt
+
 ---
 
 Vor ein paar Monaten hat die Stadt Hamburg auf ihrem Transparenzportal das Baumkataster als Open Data veröffentlicht. Passend zur Zeit der Herbstsparziergänge drängte sich uns bei einem Code For Heilbronn Treff die Idee einer Baum App auf, die einem ermöglicht, unterwegs leicht Kastanienbäume zu finden und deren Früchte zu sammeln.
