@@ -12,14 +12,16 @@ images:
 
 ---
 
+# Three ideas for Open Data Day 2015
+
 [Open Data Day](http://de.opendataday.org) is only 7 days away, [the countdown has begun](http://de.opendataday.org/countdown)! With events in 13 cities across Germany, we're definitely going to see some new data sets published, new open data projects created and apps redeployed. But many people going to these events aren't going with a specific project in mind. So here are three ideas for what you can work on next Saturday.
 
-# 3 Project ideas:
+## 3 Project ideas:
  1. [Add your hood to Click-that-Hood](#clickthathood)
  1. [Help animals in shelters find homes](#cutepets)
  1. [Contribute to an existing Code for Germany app](#contribute)
 
-# Add your hood to Click-that-Hood<a name="clickthathood"></a>
+## Add your hood to Click-that-Hood<a name="clickthathood"></a>
 [Click-that-hood](http://Click-that-hood.com) ([code](https://github.com/codeforamerica/click_that_hood)) is geo game based on open data. As the time counts down, you need to identify the geography of your city, country, or continent. It has data from lots of places all over the world, but it's missing some data from Germany. This Open Data Day, add your city.
 
 ![click that hood for German states](/blog/click-that-hood-germany.png)
@@ -63,7 +65,7 @@ This Open Data Day, you can add geo data for any of these German cities:
 
 Click-that-hood is a very quick project once you find the data. It's definitely a project that you can start and finish during the event.
 
-# Help animals in shelters find homes<a name="cutepets"></a>
+## Help animals in shelters find homes<a name="cutepets"></a>
 
 ![CutePets twitterbot](/blog/cutepetsdenver.png)
 
@@ -99,7 +101,7 @@ If you take on this project for Open Data Day, check out [this specification tha
 
 
 
-# Contribute to an existing Code for Germany app<a name="contribute"></a>
+## Contribute to an existing Code for Germany app<a name="contribute"></a>
 ![altglascontainer app](/blog/altglascontainermap.png)
 
 There are [dozens of apps from Code for Germany](http://codefor.de/projekte), some of them just need more data. For example, last year a team from Berlin's Open Data Day cleaned up some data about Altglascontainer and made [a filterable map of Altglascontainer locations](http://odd14.hackdash.org/projects/530749eba1777f9331000001). The problem is that they were only able to get data for one neighborhood in Berlin.
@@ -110,5 +112,5 @@ There are [dozens of apps from Code for Germany](http://codefor.de/projekte), so
  * *Contribute a feature:* No idea how to get this kind of data? No worries, you could also contribute code. I recently added [a feature to this project that allows a user to only see the 5 closest Altglascontainer](http://drewrwilson.com/altglas/). My thinking is that when you're trying to find your recycling you may not want a map of *all* locations, but instead would rather have just the 5 closest locations. You could come up a new feature for an existing project and send a pull request.
 
 
-# What else? Other project ideas? Get in touch
+## What else? Other project ideas? Get in touch
 Are you a member of a Lab and have a project that is ready for other people to redeploy? Or is there a dataset that you need for your app that and you need help from other people who could work on trying to get it? Or maybe there's a feature for your existing Lab project that you want help with. Get in touch, we may be able to help connect you with people. We'll have Code for Germany staff at a few different cities and would love to encourage people to work on redeployments and collaborating across the country.Email me if you ideas for redeployments: drew -a- codeforamerica.org.
