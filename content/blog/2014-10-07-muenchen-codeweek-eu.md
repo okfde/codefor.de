@@ -8,6 +8,8 @@ topic: event
 
 ---
 
+# München macht mit bei Codeweek EU
+
 Die [Codeweek][] steht vor der Tür! Vom 11. bis zum 17. Oktober finden in ganz Europa zahlreiche spannende Events rund ums Coden, Programmieren und Hacken statt. Allein in Deutschland sind knapp 50 Events mit dabei.
 
 Wir laden alle in der Nähe von München herzlich ein zum monatlichen Treffen am Donnerstag (9.10) in [WERK1][] um 19 Uhr! ([Adresse][]: Grafinger Straße 6, 81671 München)
