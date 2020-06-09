@@ -119,7 +119,7 @@ Datenschutzerklärung
 
 <h3>VIII. Internetspezifische Datenverarbeitungen</h3>
 
-<p>Während der Nutzung unserer Internetseiten werden durch uns automatisch technische Zugriffsdaten aufgezeichnet und ausgewertet. Hierfür benutzen wir das Tool "Matomo" (ehemals „Piwik“), ein Open-Source-Programm für Webanalytik, welches statistische Kennwerte zur Nutzung unserer Website auswertet. Diese Daten können jedoch nicht einer bestimmten Person zugeordnet werden; der einzelne Benutzer bleibt hierbei anonym. Weitere Informationen zu "Matomo" finden Sie auf der Website
+<p>1. "Matomo": Während der Nutzung unserer Internetseiten werden durch uns automatisch technische Zugriffsdaten aufgezeichnet und ausgewertet. Hierfür benutzen wir das Tool "Matomo" (ehemals „Piwik“), ein Open-Source-Programm für Webanalytik, welches statistische Kennwerte zur Nutzung unserer Website auswertet. Diese Daten können jedoch nicht einer bestimmten Person zugeordnet werden; der einzelne Benutzer bleibt hierbei anonym. Weitere Informationen zu "Matomo" finden Sie auf der Website
 	<a href="https://matomo.org">https://matomo.org</a>.</p>
 <p>Zu diesen Daten gehören zum Beispiel</p>
 <ul>
@@ -141,6 +141,40 @@ Datenschutzerklärung
 <p>Bitte beachten Sie, dass die jeweiligen Einstellungen bzgl. Cookies nur für Ihr aktuell benutztes Gerät und Ihren aktuell benutzten Browser wirksam sind. Sollten Sie ein anderes Gerät oder einen anderen Browser benutzen, müssen Sie in der Regel die Einstellungen erneut vornehmen. Zudem unterstützen wir die „Do not Track“ Funktion Ihres Browsers. Hiermit können Sie uns aktiv über Ihre Browsereinstellungen mitteilen, ob Sie eine Aufzeichnung Ihrer Aktivitäten wünschen oder nicht. Haben Sie „Do not Track“ aktiviert, erfolgt keine Aufzeichnung Ihrer Aktivitäten.</p>
 
 <p>Die Rechtsgrundlage für die Verwendung von Matomo findet sich in Art. 6 Abs. 1 lit. f) DS-GVO. Unser berechtigtes Interesse besteht darin, dass wir die Nutzung unserer Website zu deren Verbesserung und Optimierung auswerten. Die so erfassten Daten werden für einen Zeitraum von 24 Monaten gespeichert.</p>
+
+<p>2. Einbindung von Youtube Videos: Wir haben YouTube-Videos in unser Online-Angebot eingebunden.YouTube ist ein Broadcasting-Dienst, der uns das kostenlose Einstellen und Verlinken von Videoclips zur Darstellung unseres Unternehmens ermöglicht. Der Dienst auf 
+	<a href="de.youtube.com">https://www.youtube.com/?gl=DE</a>
+wird bereitgestellt von der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland („Google“).</p>
+	
+<p>Die Videos in unserem Online-Angebot sind auf http://www.YouTube.com gespeichert und von unserer Website aus direkt abspielbar. Die Videos sind alle im „erweiterten Datenschutz-Modus“ / „Zwei-Klick-Lösung“ eingebunden. Das bedeutet, dass keine Daten über Sie als Nutzer an YouTube übertragen werden, wenn Sie die Videos nicht abspielen. Erst wenn Sie die Videos abspielen, werden personenbezogene Daten gemäß Absatz 2 an Google übertragen und wie dort dargestellt verarbeitet. Auf diese Datenübertragung und die weitere Verarbeitung durch Google haben wir keinen Einfluss.</p>
+
+<p>Durch den Besuch auf der Website und das Abspielen der Videos erhält Google die Information, dass Sie die entsprechende Unterseite unserer Website aufgerufen haben. Zudem werden die unter Ziffer 2 dieser Datenschutzerklärung genannten Daten an Google übermittelt. Dies erfolgt unabhängig davon, ob YouTube ein Nutzerkonto über Sie führt, in das Sie mittels Google eingeloggt sind, oder ob kein Nutzerkonto besteht. Wenn Sie bei Google eingeloggt sind, werden Ihre Daten direkt Ihrem Konto zugeordnet. Wenn Sie die Zuordnung mit Ihrem Profil bei YouTube nicht wünschen, müssen Sie sich vor Betätigung des Play-Buttons ausloggen. Google speichert Ihre Daten als Nutzungsprofile und nutzt sie für Zwecke der Werbung, Marktforschung und/oder bedarfsgerechten Gestaltung seiner Dienste. Eine solche Auswertung erfolgt insbesondere (auch für nicht eingeloggte Nutzer) zur Erbringung von bedarfsgerechter Werbung und um andere Nutzer des sozialen Netzwerks über Ihre Aktivitäten auf unserer Website zu informieren, wobei uns die Einzelheiten unbekannt sind. Ihnen steht ein Widerspruchsrecht zu gegen die Bildung dieser Nutzerprofile, wobei Sie sich zur Ausübung dessen an 
+	<a href="Google">https://www.youtube.com/t/impressum?hl=de&gl=DE</a>
+richten müssen. Im Übrigen gelten für Sie die unter Ziffer 5 dieser Datenschutzerklärung genannten Betroffenenrechte.</p>
+
+<p>Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch Google erhalten Sie in den
+	<a href="Datenschutzhinweisen">https://policies.google.com/privacy?hl=de&gl=de</a>
+von Google. Dort erhalten Sie auch weitere Informationen zu Ihren Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. Google verarbeitet Ihre personenbezogenen Daten auch in den USA und hat sich zur Wahrung eines angemessenen Datenschutzniveaus iSd Art. 44 ff DSGVO dem EU-
+	<a href="US-Privacy-Shield">https://www.privacyshield.gov/EU-US-Framework</a>
+unterworfen.</p>
+
+<p>3. Einbindung von Twitter: Weiter ist der Tweet-Button von 
+	<a href="twitter.com">https://twitter.com/explore</a>
+implementiert, für welchen das Unternehmen Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107 in den USA verantwortlich zeichnet (im Folgenden „Twitter“). Der Button ist an einem weißem “t“ oder an einem Vogel erkennbar. Wenn Sie einen Teil unserer Webseite aufrufen, der eine solche Schaltfläche enthält, baut der Browser bei einer Aktivierung eine direkte Verbindung mit den Servern von Twitter auf. Auch Twitter nutzt Cookies. Jedenfalls erhebt Twitter Daten über Ihr Nutzungsverhalten. Wir haben keinen Einfluss auf den Umfang der Daten, die Twitter mit der Schaltfläche erhebt.</p>
+
+<p>Auch hier gilt: Wenn Sie Mitglied bei Twitter sind, sollten Sie wissen, dass Twitter über unsere Webseite Daten über Sie sammeln (z.B. auf welcher Seite Sie konkret waren) und mit Ihren Mitgliedskonten verknüpfen kann – und zwar unabhängig davon, ob Sie die Schaltfläche zum Teilen selbst nutzen. Wenn Sie das nicht möchten, sollten Sie die Schaltfläche nicht aktivieren und/oder sich nach der Betätigung des Tweet-Buttons ausloggen. Allerdings ist es nach unserem Kenntnisstand durchaus möglich, dass Twitter über sogenannte ständige Cookies die bei aktivierten Social-Plugins erhobenen Daten auch zu einem späteren Zeitpunkt mit den Mitgliedskonten verknüpfen kann.</p>
+
+<p>Infolgedessen sollten Sie das Setzen von Cookies von Twitter über Ihre Browser-Einstellungen unterbinden.</p>
+
+<p>Weitere Ausführungen finden Sie in der
+	<a href="Datenschutzerklärung von Twitter">https://twitter.com/explore</a>.</p>
+	
+<p>4. "Mapbox": Die Kartenbilder auf der Webseite werden von Mapbox, Inc., 740 15th Street NW, 5th Floor, Washington DC 20005 gehostet (“Mapbox”). Bei Anfragen über die APIs von Mapbox werden automatisch bestimmte technische Informationen, einschließlich (a) IP-Adresse, (b) Geräte- und Browserinformationen, (c) Betriebssystem, (d) Inhalt der Anfrage, (e) Datum und Uhrzeit der Anfrage und (f) begrenzte Standort- und Nutzungsdaten, erfasst. Sie löschen IP-Adressen nach 30 Tagen. Wenn eine mobile Anwendung ihre SDKs verwendet, um auf APIs zuzugreifen, kann sie ihnen darüber hinaus bestimmte begrenzte Standort- und Nutzungsdaten zusammen mit einer kurzlebigen ID senden. Sie löschen diese kurzlebige ID innerhalb von 24 Stunden und verknüpfen sie oder die unverarbeiteten mobilen Standortdaten nicht mit irgendwelchen persönlich identifizierenden Informationen, einschließlich Namen, permanenten IDs, E-Mail-Adressen, IP-Adressen oder Telefonnummern. Mapbox sammelt auch nach dem Zufallsprinzip generierte IDs für den begrenzten Zweck der Analyse der Nutzung ihrer APIs, einschließlich der Anzahl der aktiven Benutzer. Die zufällig generierten IDs und den Inhalt von Anfragen an ihre APIs werden nach 36 Monaten löschen.</p>
+
+<p>Die über ihre APIs und SDKs gesammelten Daten werden (1) für interne Diagnose- und Analysezwecke, (2) zur Verbesserung ihrer Mapping-Produkte und -Dienste, (3) zur Bereitstellung ihrer Dienste für Endbenutzer ihrer Kunden und (4) zur Erstellung aggregierter und anonymisierter Nutzungsstatistiken verwendet.</p>
+
+<p>Weitere Informationen finden Sie in der 
+	<a href="Datenschutzerklärung von Mapbox">https://www.mapbox.com/legal/privacy/</a>.</p>
 
 <h3>IX. Wenn Sie Anmerkungen oder Fragen haben</h3>
 
