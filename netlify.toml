@@ -18,3 +18,131 @@ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.69.2"
+
+[[redirects]]
+from = "/berlin"
+to = "/labs/berlin"
+
+[[redirects]]
+from = "/bielefeld"
+to = "/labs/bielefeld"
+
+[[redirects]]
+from = "/bonn"
+to = "/labs/bonn"
+
+[[redirects]]
+from = "/chemnitz"
+to = "/labs/chemnitz"
+
+[[redirects]]
+from = "/dresden"
+to = "/labs/dresden"
+
+[[redirects]]
+from = "/duesseldorf"
+to = "/labs/duesseldorf"
+
+[[redirects]]
+from = "/erlangen"
+to = "/labs/erlangen"
+
+[[redirects]]
+from = "/frankfurt"
+to = "/labs/frankfurt"
+
+[[redirects]]
+from = "/freiburg"
+to = "/labs/freiburg"
+
+[[redirects]]
+from = "/giessen"
+to = "/labs/giessen"
+
+[[redirects]]
+from = "/hamburg"
+to = "/labs/hamburg"
+
+[[redirects]]
+from = "/hannover"
+to = "/labs/hannover"
+
+[[redirects]]
+from = "/heidelberg"
+to = "/labs/heidelberg"
+
+[[redirects]]
+from = "/heilbronn"
+to = "/labs/heilbronn"
+
+[[redirects]]
+from = "/jena"
+to = "/labs/jena"
+
+[[redirects]]
+from = "/karlsruhe"
+to = "/labs/karlsruhe"
+
+[[redirects]]
+from = "/koeln"
+to = "/labs/koeln"
+
+[[redirects]]
+from = "/leipzig"
+to = "/labs/leipzig"
+
+[[redirects]]
+from = "/magdeburg"
+to = "/labs/magdeburg"
+
+[[redirects]]
+from = "/mecklenburg-vorpommern"
+to = "/labs/mecklenburg-vorpommern"
+
+[[redirects]]
+from = "/muenchen"
+to = "/labs/muenchen"
+
+[[redirects]]
+from = "/muenster"
+to = "/labs/muenster"
+
+[[redirects]]
+from = "/niederrhein"
+to = "/labs/niederrhein"
+
+[[redirects]]
+from = "/osnabrueck"
+to = "/labs/osnabrueck"
+
+[[redirects]]
+from = "/paderborn"
+to = "/labs/paderborn"
+
+[[redirects]]
+from = "/potsdam"
+to = "/labs/potsdam"
+
+[[redirects]]
+from = "/ruhrgebiet"
+to = "/labs/ruhrgebiet"
+
+[[redirects]]
+from = "/saarland"
+to = "/labs/saarland"
+
+[[redirects]]
+from = "/schleswig_flensburg"
+to = "/labs/schleswig_flensburg"
+
+[[redirects]]
+from = "/stuttgart"
+to = "/labs/stuttgart"
+
+[[redirects]]
+from = "/ulm"
+to = "/labs/ulm"
+
+[[redirects]]
+from = "/wuppertal"
+to = "/labs/wuppertal"
