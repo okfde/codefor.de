@@ -5,6 +5,7 @@ lab:
   - niederrhein
 imgname: berlin/wartezeit.png
 title: Wartezeit Moers
+showcase: 1
 status: Finished
 
 links:

@@ -3,6 +3,7 @@ layout: project
 lab: [berlin]
 imgname: berlin/pricemap-eu.png
 title: Bahn- und Buspreiskarte
+showcase: 1
 status: In Progress
 
 links:

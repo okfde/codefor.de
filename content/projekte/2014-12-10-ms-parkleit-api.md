@@ -3,7 +3,6 @@ layout: project
 lab: [muenster] #needed for Aggregation on Lab-Page
 imgname:
 title: Parkleitsystem API Münster
-showcase: 1
 
 links:
 - url: http://parkleit-api.codeformuenster.org/

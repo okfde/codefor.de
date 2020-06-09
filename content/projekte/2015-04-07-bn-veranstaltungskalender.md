@@ -2,7 +2,6 @@
 layout: project
 lab: [bonn] #needed for Aggregation on Lab-Page
 title: Geographischer Veranstaltungskalender
-showcase: 0
 status: In Progress
 
 collaborators:

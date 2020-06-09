@@ -3,7 +3,6 @@ layout: project
 lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/tempelhofer-feld.png
 title: Feld - die Bebauung des Tempelhofer Felds in 3D
-showcase: 1
 status: Finished
 
 links:

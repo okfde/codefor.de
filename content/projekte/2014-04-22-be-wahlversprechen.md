@@ -3,7 +3,6 @@ layout: project
 lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/wahlversprechen2013.jpg
 title: Wahlversprechen2013
-showcase: 1
 
 links:
 - url: http://wahlversprechen2013.de

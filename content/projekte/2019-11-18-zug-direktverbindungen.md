@@ -4,7 +4,7 @@ lab: [berlin]
 imgname: berlin/zug-direktverbindungen.png
 title: Zug-Direktverbindungen
 status: Finished
-showcase: true
+showcase: 1
 
 links:
 - url: https://direkt.bahn.guru
