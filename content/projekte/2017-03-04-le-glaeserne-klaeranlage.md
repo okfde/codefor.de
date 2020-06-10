@@ -3,7 +3,6 @@ layout: project
 lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/glaesernes_klaerwerk.png
 title: Gläsernes Klärwerk
-showcase: 1
 status: Daten von 2016, Entwicklungstand 2017, sporadische Weiterentwicklung
 
 links:

@@ -3,6 +3,7 @@ layout: project
 lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/ernteteilen.png
 title: Ernte Teilen
+showcase: 1
 excerpt:
 
 links:

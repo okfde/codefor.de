@@ -3,7 +3,7 @@ layout: project
 lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/quereinsteigende.gif
 title: Quereinsteigende
-showcase: 0
+showcase: 1
 status: abgeschlossen
 draft: false
 
