@@ -146,3 +146,59 @@ to = "/labs/ulm"
 [[redirects]]
 from = "/wuppertal"
 to = "/labs/wuppertal"
+
+[[redirects]]
+from = "/stadtgeschichten"
+to = "/blog/stadtgeschichten"
+
+[[redirects]]
+from = "/en/stadtgeschichten"
+to = "/blog/stadtgeschichten"
+
+[[redirects]]
+from = "/stadtgeschichten/1feinstaub"
+to = "/blog/stadtgeschichte-feinstaub-stuttgart"
+
+[[redirects]]
+from = "/stadtgeschichten/2tal-o-mat"
+to = "/blog/stadtgeschichte-tal-o-mat-wuppertal"
+
+[[redirects]]
+from = "/stadtgeschichten/3magdego"
+to = "/blog/stadtgeschichte-magdego-magdeburg"
+
+[[redirects]]
+from = "/stadtgeschichten/4parkenDD"
+to = "/blog/stadtgeschichte-parkendd-dresden"
+
+[[redirects]]
+from = "/stadtgeschichten/5muenchen-transparent"
+to = "/blog/stadtgeschichte-muenchen-transparent-muenchen"
+
+[[redirects]]
+from = "/stadtgeschichten/6buerger-baut-stadt/"
+to = "/blog/stadtgeschichte-buerger-baut-stadt-berlin"
+
+[[redirects]]
+from = "/en/stadtgeschichten/1feinstaub"
+to = "/blog/story-air-pollution-stuttgart"
+
+[[redirects]]
+from = "/en/stadtgeschichten/2tal-o-mat"
+to = "/blog/story-tal-o-mat-wuppertal"
+
+[[redirects]]
+from = "/en/stadtgeschichten/3magdego"
+to = "/blog/story-magdego-magdeburg"
+
+[[redirects]]
+from = "/en/stadtgeschichten/4parkenDD"
+to = "/blog/story-parkendd-dresden"
+
+[[redirects]]
+from = "/en/stadtgeschichten/5muenchen-transparent"
+to = "/blog/story-muenchen-transparent-munich"
+
+[[redirects]]
+from = "/en/stadtgeschichten/6buerger-baut-stadt/"
+to = "/blog/story-citizen-builds-city-berlin"

@@ -11,6 +11,7 @@ images:
 
 aliases:
 - /stadtgeschichten/
+- /en/stadtgeschichten/
 
 ---
 
