@@ -3,7 +3,7 @@ author: Eileen Wagner
 type: blog
 color: red #one of: red, blue, green, cyan
 pattern: 1 #one of: 1, 2, 3, 4
-og-image: stories/feinstaub.jpg # used for facebook & twitter card
+og-image: /blog/stories/feinstaub.jpg # used for facebook & twitter card
 
 title: Stuttgart – aus Feinstaub wird Open Data
 where: Stuttgart

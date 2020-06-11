@@ -3,7 +3,7 @@ author: Eileen Wagner
 type: blog
 color: cyan #one of: red, blue, green, cyan
 pattern: 2 #one of: 1, 2, 3, 4
-og-image: stories/talomat.jpg # used for facebook & twitter card
+og-image: /blog/stories/talomat.jpg # used for facebook & twitter card
 
 
 title: Tal-O-Mat – Bürgerbeteiligung ernst nehmen

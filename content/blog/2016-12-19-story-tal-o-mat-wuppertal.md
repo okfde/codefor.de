@@ -1,9 +1,10 @@
 ---
-layout: story
+author: Eileen Wagner
+type: blog
 lang: en
 color: cyan #one of: red, blue, green, cyan
 pattern: 2 #one of: 1, 2, 3, 4
-og-image: /assets/stories/talomat.jpg # used for facebook & twitter card
+og-image: /blog/stories/talomat.jpg # used for facebook & twitter card
 
 
 title: Tal-O-Mat – Taking Participation Seriously
@@ -20,11 +21,11 @@ links: # first one is used in subline
 - name: Bericht aus 2014
   url: http://www.tal-journal.net/2014/05/tadaaa-ein-talomat-fur-wuppertal.html
 
-header-images: #use 3:2 proportioned image
-- src: /assets/stories/talomat.jpg
+images: #use 3:2 proportioned image
+- imgname: stories/talomat.jpg
   alt: The Talomat Team
 
-lead: Ann-Cathrin Klappert, Christopher Reinbothe and Sam Zeini built a Tal-O-Mat together. It informs people in Wuppertal about local elections. A story about crowdsourcing, flyer questions and a small team that takes citizen participation very seriously.
+excerpt: Ann-Cathrin Klappert, Christopher Reinbothe and Sam Zeini built a Tal-O-Mat together. It informs people in Wuppertal about local elections. A story about crowdsourcing, flyer questions and a small team that takes citizen participation very seriously.
 
 members:
 - name: Ann-Cathrin Klappert
@@ -49,6 +50,9 @@ members:
 - name: Jan Niko Kirschbaum
   #username-twitter:
   #username-github:
+
+aliases:
+- /en/stadtgeschichten/2-tal-o-mat/
 
 ---
 

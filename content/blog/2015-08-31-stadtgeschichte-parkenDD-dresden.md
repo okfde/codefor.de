@@ -3,7 +3,7 @@ author: Eileen Wagner
 type: blog
 color: blue #red, blue, green, cyan
 pattern: 3 #one of: 1, 2, 3, 4
-og-image: stories/parkendd-hero.jpg # used for facebook & twitter card
+og-image: /blog/stories/parkendd-hero.jpg # used for facebook & twitter card
 
 
 title: ParkenDD - Vorausschauendes Parken in Dresden

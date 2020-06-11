@@ -3,7 +3,7 @@ author: Eileen Wagner
 type: blog
 color: red #red, blue, green, cyan
 pattern: 2 #one of: 1, 2, 3, 4
-og-image: stories/bbs-hero.jpg # used for facebook & twitter card
+og-image: /blog/stories/bbs-hero.jpg # used for facebook & twitter card
 
 title: Bürger baut Stadt - Mitbestimmung statt Baubestimmung
 where: Berlin

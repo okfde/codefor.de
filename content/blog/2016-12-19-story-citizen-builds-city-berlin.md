@@ -1,9 +1,10 @@
 ---
-layout: story
+author: Eileen Wagner
+type: blog
 lang: en
 color: red #red, blue, green, cyan
 pattern: 2 #one of: 1, 2, 3, 4
-og-image: /assets/stories/bbs-hero.jpg # used for facebook & twitter card
+og-image: /blog/stories/bbs-hero.jpg # used for facebook & twitter card
 
 title: Citizen Builds City - Constructive Criticism
 where: Berlin
@@ -15,12 +16,12 @@ links: # first one is used in subline
 - name: Beitrag vom Elektrischen Reporter (video)
   url: https://youtu.be/4xJCP3eecG8
 
-header-images: #use 3:2 proportioned image
-- src: /assets/stories/bbs-hero.jpg
+images: #use 3:2 proportioned image
+- imgname: stories/bbs-hero.jpg
   alt: Magdalena Noffke, Elektrischer Reporter
   caption: Magda © Elektrischer Reporter
 
-lead: Magdalena Noffke and her team wanted to know what exactly was being built in their neighbourhood. Though the information is public, it isn't easily accessible. So they created a website that showed all construction plans for Berlin. Pretty neat, we think!
+excerpt: Magdalena Noffke and her team wanted to know what exactly was being built in their neighbourhood. Though the information is public, it isn't easily accessible. So they created a website that showed all construction plans for Berlin. Pretty neat, we think!
 
 embed: <iframe src="https://player.vimeo.com/video/65678345?color=004cff&title=0&byline=0&portrait=0" width="610" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -40,6 +41,9 @@ members:
 - name: Lucas Jacob
   username-github: LucasJ
 
+aliases:
+- /en/stadtgeschichten/6-buerger-baut-stadt/
+
 ---
 ## The Idea
 Construction sites open up in Berlin all the time. Whenever that happens in a neighbourhood, residents take an interest in what exactly is being built. This is what prompted Magdalena Noffke and her fellow activists to inquire into official documents concerning construction plans. But that was not at all simple. Though the information is publicly available, it is buried in official journals that are scanned and uploaded, which means they cannot be searched. Availability unfortunately doesn't imply accessibility.
@@ -47,7 +51,7 @@ Construction sites open up in Berlin all the time. Whenever that happens in a ne
 ## The Insight
 
 <figure class="landscape right">
-  <img src="/assets/stories/bbs-screenshot.png" alt="Screenshot der Webapp" >
+  <img src="/blog/stories/bbs-screenshot.png" alt="Screenshot der Webapp" >
 </figure>
 
 Citizens can and do have a say in construction projects in their neighbourhoods, but only if they hear about it in time. "There is actually a lot of citizen participation which people aren't aware of," says Magdalena. Most residents only hear of plans after the fences are put up. Then it's too late to get involved.

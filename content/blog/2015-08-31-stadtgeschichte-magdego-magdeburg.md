@@ -3,7 +3,7 @@ author: Eileen Wagner
 type: blog
 color: green #one of: red, blue, green, cyan
 pattern: 4 #one of: 1, 2, 3, 4
-og-image: stories/magdego-hero.jpg # used for facebook & twitter card
+og-image: /blog/stories/magdego-hero.jpg # used for facebook & twitter card
 
 
 title: MagdeGo - Nahverkehr, schnell und einfach.

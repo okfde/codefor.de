@@ -1,9 +1,10 @@
 ---
-layout: story
+author: Eileen Wagner
+type: blog
 lang: en
 color: green #one of: red, blue, green, cyan
 pattern: 4 #one of: 1, 2, 3, 4
-og-image: /assets/stories/magdego-hero.jpg # used for facebook & twitter card
+og-image: /blog/stories/magdego-hero.jpg # used for facebook & twitter card
 
 
 title: MagdeGo – Getting There With Style
@@ -22,12 +23,12 @@ links: # first one is used in subline
 - name: Bericht der Uni Magdeburg
   url: http://www.fokus-du.de/front_content.php?idcat=362&idart=880&page=2&page_begin=0
 
-header-images: #use 3:2 proportioned image
-- src: /assets/stories/magdego-hero.jpg
+images: #use 3:2 proportioned image
+- imgname: stories/magdego-hero.jpg
   alt: Rosario Raulin und Johannes Filter zeigen Smartphones mit ihrer App vor einer Strassenbahn
   caption: Rosario und Johannes © Stefan Berger
 
-lead: Johannes and Rosario wanted a public transport app that simply shows the next arrivals at the closest stop. Thus, MagdeGo was born, and this is their story.
+excerpt: Johannes and Rosario wanted a public transport app that simply shows the next arrivals at the closest stop. Thus, MagdeGo was born, and this is their story.
 
 members:
 - name: Rosario Raulin
@@ -38,13 +39,16 @@ members:
   username-twitter: fil_ter
   username-github: filter1
 
+aliases:
+- /en/stadtgeschichten/3magdego/
+
 ---
 
 ## The Idea
 The thought is simple: an app for the federal state Saxony-Anhalt that only shows when the next train or bus arrives at the closest stop. This is how MadgeGo, built by Johannes Filter and Rosario Raulin, came to life. Both web and iOS version were ready in early 2015.
 
 <figure class="portrait right">
-  <img src="/assets/stories/magdego-screenshot.png" alt="Screenshot der Magdego App" >
+  <img src="/blog/stories/magdego-screenshot.png" alt="Screenshot der Magdego App" >
 </figure>
 
 ## Less is More

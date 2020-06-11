@@ -1,9 +1,10 @@
 ---
-layout: story
+author: Eileen Wagner
+type: blog
 lang: en
 color: red #one of: red, blue, green, cyan
 pattern: 1 #one of: 1, 2, 3, 4
-og-image: /assets/stories/feinstaub.jpg # used for facebook & twitter card
+og-image: /blog/stories/feinstaub.jpg # used for facebook & twitter card
 
 title: Stuttgart – Making Air Pollution Visible
 where: Stuttgart
@@ -22,11 +23,11 @@ links: # first one is used in subline
 - name: Newspaper article
   url: http://www.stuttgarter-zeitung.de/inhalt.keine-offiziellen-messstationen-in-stuttgart-nord-feinstaub-messen-selbst-gemacht.html
 
-header-images: #use 3:2 proportioned image
-- src: /assets/stories/feinstaub.jpg
+images: #use 3:2 proportioned image
+- imgname: stories/feinstaub.jpg
   alt: Das Luftdaten Team
 
-lead: Jan Lutz's team is currently building a network of sensors for particulate matter. The data collected from their devices can inform the discussion on air pollution in Stuttgart.
+excerpt: Jan Lutz's team is currently building a network of sensors for particulate matter. The data collected from their devices can inform the discussion on air pollution in Stuttgart.
 
 members:
 - name: Jan A. Lutz
@@ -44,6 +45,9 @@ members:
 - name: Frank Riedel
   username-twitter: riedelwerk
   username-github: riedelwerk
+
+aliases:
+- /en/stadtgeschichten/1feinstaub/
 
 ---
 
