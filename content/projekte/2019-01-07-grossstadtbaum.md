@@ -3,7 +3,6 @@ layout: project
 lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/grossstadtbaum.jpg
 title: Großstadt-Baum
-showcase: 1
 status: abgeschlossen
 draft: false
 
@@ -20,6 +19,9 @@ collaborators:
     name: Twitter
   - url: http://github.com/tursics
     name: GitHub
+
+tags:
+- Umwelt
 
 ---
 

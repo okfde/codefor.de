@@ -9,6 +9,8 @@ images:
 - imgname: datenwaben.png
 ---
 
+# Datenwaben? Datenwaben!
+
 Im Berliner Datenportal stehen circa 440 offene Datensätze zur Verfügung, in Wien sind es circa 300. Da kann es schnell unübersichtlich werden, wenn man sich einen Gesamteindruck des Datenreichtums verschaffen möchte. Über die Suchfunktion können zwar gezielt einzelne Datensätze gefunden werden, aber einfach so durchstöbern ist mit harter Arbeit verbunden. Es gibt nur wenige Menschen (wenn überhaupt), die alle Datensätze aus einem Portal kennen. Außerdem macht es keinen Spaß, die Beschreibungen aller Datensätze zu lesen und gleichzeitig zu erahnen, was man mit den Daten anfangen kann. Für Neueinsteiger endet deshalb hier meistens das Daten-Abenteuer.
 
 [![Datenwaben](/blog/datenwaben.png)](http://daten-waben.tursics.de)

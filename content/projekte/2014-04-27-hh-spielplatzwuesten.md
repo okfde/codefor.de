@@ -3,7 +3,6 @@ layout: project
 lab: [hamburg] #needed for Aggregation on Lab-Page
 imgname: hamburg/wueste.jpg
 title: Spielplatzwüsten kartieren
-showcase: 1
 
 links:
 - url: http://achim-tack.de/projects/spielplatzwuesten/hh_spielplatzwuesten.html
@@ -18,6 +17,10 @@ collaborators:
     name: twitter
   - url: http://github.com/ATack
     name: github
+
+
+tags:
+- Gesellschaft
 
 ---
 

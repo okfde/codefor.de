@@ -12,6 +12,8 @@ images:
 
 ---
 
+# Das OK Lab Chemitz
+
 <i>Nachdem wir letzte Woche das [OK Lab Münster][] vorgestellt haben, machen wir diese Woche gleich weiter mit dem nächsten Lab. Es gibt schließlich noch viel zu entdecken!
 Heute geht es ins schöne Sachsen, wo [Morris Jobke][] und [Tobias Gall][] das OK Lab Chemnitz leiten.
 Ich habe heute Morgen mit Morris über sein Lab, über die Teilnehmer und ihre Projekte gesprochen. Morris studiert Informatik und schreibt gerade an seiner Masterarbeit. Heute morgen haben wir uns per Jabber kurzgeschlossen. Morris kam gerade frisch erholt aus dem Urlaub und hat mir ein paar Fragen beantwortet.</i>

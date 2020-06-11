@@ -3,7 +3,6 @@ layout: project
 lab: [leipzig]
 imgname: leipzig/stadtratmonitor.jpg
 title: Stadtratmonitor Leipzig
-showcase: 1
 status: Daten laufend aktualisiert, Entwicklungstand 2017, sporadische Weiterentwicklung
 
 links:
@@ -35,6 +34,10 @@ collaborators:
   links:
   - url: https://github.com/joergreichert
     name: github
+
+tags:
+- Politik
+
 ---
 
 Durchsuche das Ratsinformationssystem der Stadt Leipzig und abboniere deine Suchergebnisse!

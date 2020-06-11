@@ -11,6 +11,9 @@ og-description: Zum Open Data Day am 7. März 2020 haben unsere Ehrenamtlichen i
 
 draft: false
 ---
+
+# Programm für den Open Data Day am 7. März 2020
+
 Zum Open Data Day am 7. März 2020 haben unsere Ehrenamtlichen in Labs deutschlandweit ein vielfältiges Programm auf die Beine gestellt. Von Vorträgen über Workshops ist einiges dabei. Thematisch liegt der Fokus dieses Jahr auf [Code for Climate]({{< ref "/blog/2020-02-19-Code-For-Climate-Open-Data-Day.md" >}}). Kommt vorbei und macht mit!
 
 ## Programm

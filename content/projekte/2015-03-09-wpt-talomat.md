@@ -3,7 +3,6 @@ layout: project
 lab: [wuppertal] #needed for Aggregation on Lab-Page
 imgname: wuppertal/Talomat.PNG
 title: Talomat
-showcase: 1
 status: Laufend, Sucht Mitmacher
 
 links:
@@ -20,6 +19,8 @@ collaborators:
 - name: Ralf
 - name: Sam
 
+tags:
+- Politik
 
 ---
 

@@ -7,10 +7,7 @@ images:
 - imgname: team.png
 ---
 
-
-<strong>Die Open Knowledge Foundation sucht eine Projektassistenz für das Projekt "Digital Refugee Labs"</strong>
-
-![team](/blog/team.png)
+# Projektassistenz für „Digital Refugee Labs“ gesucht
 
 Du interessierst dich für Tech-Projekte für die Flüchtlingshilfe. Du willst Menschen zusammenbringen und ihnen bei der Umsetzung ihrer Ideen helfen. Du möchtest gerne für eine NGO arbeiten, hast eine eigenständige Arbeitsweise, Lust viel zu lernen und dich weiterzuentwickeln.
 

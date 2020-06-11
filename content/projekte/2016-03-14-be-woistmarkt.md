@@ -3,6 +3,7 @@ layout: project
 lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/wo-ist-markt.png
 title: Wo ist Markt?
+showcase: 1
 status: Finished
 
 links:
@@ -24,7 +25,8 @@ collaborators:
   - url: https://twitter.com/tbsprs
     name: Twitter
 
-
+tags:
+- Umwelt
 
 ---
 

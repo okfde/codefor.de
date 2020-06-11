@@ -10,7 +10,8 @@ images:
 - imgname: hackyourcity.png
 
 ---
-[![hackyourcity](/blog/hackyourcity.png)](http://hackyourcity.de/)
+
+# Hack Your City - das waren die Hackdays!
 
 In vier Städten haben wir Hackdays zum Thema Citizen Science veranstaltet. Mit Teilnehmern und Teilnehmerinnen aus den verschiedensten Diziplinen wurden großartige Hacks entworfen und Prototypen entwickelt. In den OK Labs wird jetzt weitergetüftelt.
 

@@ -4,7 +4,6 @@ lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/street-trees.png
 title: Street Trees API
 status: Sucht Mitmacher
-showcase: 1
 
 links:
 
@@ -46,6 +45,9 @@ collaborators:
   links:
   - url: https://github.com/k-nut
     name: GitHub
+
+tags:
+- Umwelt
 
 ---
 

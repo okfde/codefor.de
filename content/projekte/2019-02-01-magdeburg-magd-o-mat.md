@@ -17,6 +17,10 @@ collaborators:
     name: twitter
   - url: https://github.com/JensWinter
     name: github
+
+tags:
+- Politik
+
 ---
 
 Der Magd-O-Mat ist ein Magdeburger Wahl-O-Mat nach dem Vorbild des von der Bundes- und Landeszentrale für politische Bildung eingesetzten Wahl-o-Maten.

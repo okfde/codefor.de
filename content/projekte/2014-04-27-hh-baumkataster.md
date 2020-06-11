@@ -3,6 +3,7 @@ layout: project
 lab: [hamburg] #needed for Aggregation on Lab-Page
 imgname: hamburg/baumkataster.jpg
 title: Baumkataster nutzen
+showcase: 1
 
 links:
 
@@ -19,6 +20,9 @@ collaborators:
     name: twitter
   - url: http://github.com/ATack
     name: github
+
+tags:
+- Umwelt
 
 ---
 

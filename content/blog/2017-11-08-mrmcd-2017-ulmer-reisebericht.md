@@ -12,6 +12,8 @@ images:
 draft: false
 ---
 
+# MRMCD 2017 - Ulmer Reisebericht
+
 Es ist Anfang September: kalt und nass. Im nebelverhangenen Ulm treffe ich mich mit zwei guten Freunden am Bahnhof. Wir stehen mit Rucksack bepackt zusammen und lachen, weil wir uns eher zufällig getroffen haben. Unser Ziel ist aber das selbe: die [MRMCD](https://mrmcd.net) in Darmstadt.
 Hinter dem Akronym verstecken sich die "Meta Rhein Main Chaos Days", ein kleiner Hackerkongress aus dem Chaos-Umfeld. Entsprechend findet sich auch in jedem Rucksack etwa die selbe Ausstattung: Laptop, Kabel, Tecknikkram. Na gut, die Zahnbürste hat auch noch ihren Platz gefunden. Als der Zug einfährt, suchen wir uns zwei freie Reihen und treffen auf Freund Nummer 4, der aus München anreist und sich unserer Gruppe anschließt. Im Zug machen wir es uns gemütlich, frühstücken erst einmal Vanillequark, basteln Folien für einen Talk auf dem Kongress oder entwerfen Logos für eine Wikimedia Veranstaltung.
 

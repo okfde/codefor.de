@@ -31,6 +31,9 @@ collaborators:
   - url: https://github.com/GityUpNow
     name: github
 
+tags:
+- Mobilität
+
 ---
 
 Zeigt die durchschnittlichen Wartezeiten für die KFZ-Zulassungsstelle in Heilbronn nach Stunden und Tagen.

@@ -16,6 +16,8 @@ collaborators:
   - url: http://github.com/notapirate
     name: github
 
+tags:
+- Gesellschaft
 
 ---
 

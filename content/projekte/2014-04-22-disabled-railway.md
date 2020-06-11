@@ -14,6 +14,10 @@ collaborators:
   - url: http://netaction.de
     name: blog
 
+
+tags:
+- Mobilität
+
 ---
 
 Eine Karte, auf der man sehen kann, von wo auf der Welt schnell ein

@@ -17,6 +17,9 @@ collaborators:
   - url: https://twitter.com/cartocalypse
     name: twitter
 
+tags:
+- Gesellschaft
+
 ---
 
 In den öffentlichen Geodaten der Stadt stecken einige interessante Datensätze: Auf dieser Karte sind beispielsweise die Baualtersklassen der Hamburger Gebäude (soweit bekannt) dargestellt.

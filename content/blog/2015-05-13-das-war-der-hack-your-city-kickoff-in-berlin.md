@@ -10,7 +10,8 @@ images:
 - imgname: hackyourcity-berlin.jpg
 
 ---
-![hackyourcity-berlin](/blog/hackyourcity-berlin.jpg)
+
+# Das war der Hack Your City Kickoff in Berlin
 
 Am vergangenen Wochenende fand die Auftaktveranstaltung von [Hack your City][] in Berlin statt. In einer außergewöhnlichen Location, der Indoor-Farming-Werkstatt [infarm][], wurde zwei Tage lang an den Lösungen für die Herausforderung der Zukunftsstadt gearbeitet. Die Teilnehmenden waren eine bunte Mischung aus Entwicklerinnen, Designern und Stadtforschern. Sehr gefreut haben wir uns auch über die 40% weibliche Teilnehmerinnen - in den drei Jahren, die wir schon Hackdays veranstalten ist das ein kleiner Rekord.
 

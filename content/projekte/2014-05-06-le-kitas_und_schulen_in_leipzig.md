@@ -3,7 +3,6 @@ layout: project
 lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/kidsle.jpg
 title: Kitas und Schulen Verzeichnis Leipzig
-showcase: 1
 status: Daten von 2014, Entwicklungstand 2014
 
 links:
@@ -41,6 +40,8 @@ collaborators:
   - url: https://github.com/ManuPogo
     name: github
 
+tags:
+- Gesellschaft
 
 ---
 

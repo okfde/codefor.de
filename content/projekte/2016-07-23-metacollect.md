@@ -14,5 +14,8 @@ links:
 - url: https://github.com/metacollect-org/
   name: Page on Github
 
+tags:
+- Gesellschaft
+
 ---
 metacollect stellt eine zentrale Datenbank für zivilgesellschaftliche Projekte zur Verfügung, die sich mit anderen Plattformen synchronisiert. Derzeit liegt der Fokus im Bereich der Geflüchtetenhilfe. Im Rahmen des Berliner Digital Refugee Labs baut metacollect seine Kooperation anderen Plattformen aus.

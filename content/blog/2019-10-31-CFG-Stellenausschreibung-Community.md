@@ -12,6 +12,8 @@ og-description: Wir suchen ab 1. Januar 2020 eine*n Communitybuilder*in zur Vers
 draft: false
 ---
 
+# Communitybuilder\*in für Code for Germany gesucht!
+
 [Code for Germany]({{< ref "/" >}}) ist eine deutschlandweite Community, die sich dafür einsetzt, das Potenzial der Digitalisierung für alle Menschen zugänglich zu machen. In 26 Städten treffen sich dazu technisch interessierte Menschen, um in den Open Knowledge Labs (kurz: OK Labs) zu coden, zu diskutieren und sich mit Bürger\*innen und politischen Vertreter\*innen auszutauschen.
 
 Code for Germany ist ein Projekt des Open Knowledge Foundation Deutschland e.V., der als gemeinnütziger Verein den organisatorischen und rechtlichen Rahmen des ehrenamtlichen Netzwerks bildet. Gemeinsam mit der Community arbeiten wir daran, Themen wie Civic Tech, Open Data und Transparenz voranzutreiben und digitale Werkzeuge für die Zivilgesellschaft zu entwickeln.

@@ -3,7 +3,6 @@ layout: project
 lab: [bonn] #needed for Aggregation on Lab-Page
 imgname: bonn/stolpersteine-web.jpg
 title: Visualisierung der Bonner Stolpersteine
-showcase: 0
 status: Finished
 
 links:
@@ -15,6 +14,9 @@ links:
 
 collaborators:
 - name: Josef 'Jupp' Schugt
+
+tags:
+- Gesellschaft
 
 ---
 

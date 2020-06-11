@@ -3,6 +3,7 @@ layout: project
 lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/schulsanierung.gif
 title: Wo unsere Kinder lernen
+showcase: 1
 status: Finished
 
 links:
@@ -18,6 +19,9 @@ collaborators:
     name: Twitter
   - url: http://github.com/tursics
     name: GitHub
+
+tags:
+- Politik
 
 ---
 

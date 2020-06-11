@@ -8,6 +8,7 @@ topic: community
 
 ---
 
+# Das OK Lab Münster
 
 Jetzt wo so einige Labs bereits etabliert sind, wollen wir auf unserem Blog ein wenig Einblick darin geben, welche Köpfe eigentlich hinter den Labs stecken, woher sie kommen und was sie beschäftigt. Heute fangen wir mit dem [OK Lab Münster][] an, das anlässlich der anstehenden [Kommunalwahlen in NRW][] am 25. Mai Anwendungen rund um Wahldaten entwickelt.
 

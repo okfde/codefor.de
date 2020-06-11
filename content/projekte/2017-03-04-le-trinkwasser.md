@@ -3,7 +3,6 @@ layout: project
 lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/trinkwasser.jpg
 title: Was steckt in meinem Leitungswasser?
-showcase: 1
 status: Daten von 2016, Entwicklungstand 2017, sporadische Weiterentwicklung
 
 links:
@@ -22,6 +21,10 @@ collaborators:
   - url: https://github.com/nucsum
     name: github
 - name: Frances Lindemann
+
+tags:
+- Umwelt
+
 ---
 
 Qualiätswerte des Trinkwassers aus dem Versorgungsgebiet der MIDEWA schematisch und als Karte.

@@ -11,6 +11,9 @@ collaborators:
 - name: Andreas
 - name: Josef
 
+tags:
+- Politik
+
 ---
 
 Viele Städte haben Leitlinien oder Konzepte zur Bürger*innenbeteiligung.

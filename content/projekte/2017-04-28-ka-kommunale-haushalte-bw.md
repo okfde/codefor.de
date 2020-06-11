@@ -10,5 +10,8 @@ links:
 collaborators:
 - name: Torf
 
+tags:
+- Politik
+
 ---
 Maschinenlesbare Varianten des kommunalen Produktplans Baden-Württemberg und der Verwaltungsvorschrift Produkt- und Kontenrahmen

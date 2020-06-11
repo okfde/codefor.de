@@ -17,6 +17,9 @@ collaborators:
   - url: https://github.com/drake81
     name: github
 
+tags:
+- Umwelt
+
 ---
 
 Wo ist gerade Wochenmarkt in Leipzig auf einer Karte dargestellt. Man kann für den aktuellen Tag filtern oder alle anzeigen. Die gerade stattfindenden Märkte werden grün gekennzeichnet.

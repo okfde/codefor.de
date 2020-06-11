@@ -11,6 +11,8 @@ images:
 
 ---
 
+# Hamburg Lab is the latest stop on civic tech across borders tour
+
 <em><a href="https://twitter.com/drewSaysGoVeg">Drew Wilson</a> is a Code for America fellow who spent 2014 working with the city of Denver, Colorado to build web applications based on open data. In February & March he is traveling across Germany sharing stories & projects from his year at Code for America.</em>
 
 ![Drew presenting at Code for Hamburg](/blog/dw-visit-hamburg-2-of-3-2015-2-9.jpg)

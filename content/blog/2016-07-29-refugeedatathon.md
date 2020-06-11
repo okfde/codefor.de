@@ -8,6 +8,8 @@ tags:
 excerpt: Am 18. Juni stieg der zweite Refugee Datathon in München. Diesmal im WERK1 gemeinsam von Welcome Help e.V. und OK Lab München veranstaltet.
 ---
 
+# Refugee Datathon in München, der zweite
+
 <p>Es wurde konzentriert gearbeitet! Die Ergebnisse sind:</p>
 <ol>
 <li>&nbsp;Vergleich von Schutzquoten über die Länder Europas. Wir fanden auffälllige Unterschiede für Afghanistan und Pakistan.<br>

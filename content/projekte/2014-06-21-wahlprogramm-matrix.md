@@ -3,7 +3,6 @@ layout: project
 lab: [muenster] #needed for Aggregation on Lab-Page
 imgname: muenster/wahlprogramm-matrix-web.png
 title: Wahlprogramm-Matrix Kommunalwahl Münster 2014
-showcase: 1
 
 links:
 - url: http://codeformuenster.org/wahlprogramm-matrix
@@ -22,6 +21,9 @@ collaborators:
 - name: Yannic Schencking
 - name: Tobias Bradtke
 - name: (Jürgen B.)
+
+tags:
+- Politik
 
 ---
 

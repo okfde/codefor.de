@@ -5,6 +5,7 @@ lab:
   - niederrhein
 imgname: berlin/wartezeit.png
 title: Wartezeit Moers
+showcase: 1
 status: Finished
 
 links:
@@ -20,6 +21,9 @@ collaborators:
     name: Twitter
   - url: https://github.com/tursics
     name: GitHub
+
+tags:
+- Gesellschaft
 
 ---
 

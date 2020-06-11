@@ -3,6 +3,7 @@ layout: project
 lab: [berlin]
 imgname: berlin/pricemap-eu.png
 title: Bahn- und Buspreiskarte
+showcase: 1
 status: In Progress
 
 links:
@@ -16,6 +17,9 @@ collaborators:
   links:
     - url: https://github.com/juliuste
       name: GitHub
+
+tags:
+- Mobilität
 
 ---
 

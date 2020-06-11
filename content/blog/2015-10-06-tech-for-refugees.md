@@ -9,7 +9,8 @@ images:
 - imgname: refugees-welcome.png
 
 ---
-![Tech for Refugees](/blog/refugees-welcome.png)
+
+# Tech for Refugees
 
 <b>Worum geht's?</b>
 

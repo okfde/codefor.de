@@ -4,7 +4,6 @@ lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/flaechengerechtigkeit.png
 title: FLÄCHENGERECHTIGKEITS-TOOL
 
-showcase: 1
 
 links:
 - url: http://clevere-staedte.de/flaechen-gerechtigkeits-report-online
@@ -16,6 +15,10 @@ collaborators:
   links:
   - url: https://www.xing.com/profile/Heinrich_Stroessenreuther
     name: Xing
+
+tags:
+- Mobilität
+
 
 ---
 

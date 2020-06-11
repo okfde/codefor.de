@@ -3,7 +3,6 @@ layout: project
 lab: [wuppertal] #needed for Aggregation on Lab-Page
 imgname: wuppertal/WPTHaushalt.PNG
 title: Offener Haushalt Wuppertal
-showcase: 1
 status: Sucht Mitmacher
 
 links:
@@ -16,6 +15,8 @@ collaborators:
 - name: Nico
 - name: Ralf
 
+tags:
+- Politik
 
 ---
 

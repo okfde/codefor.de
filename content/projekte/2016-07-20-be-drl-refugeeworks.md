@@ -16,6 +16,9 @@ links:
 - url: https://youtu.be/5v-xx_7MIH0
   name: Video
 
+tags:
+- Gesellschaft
+
 ---
 
 RefugeesWork ist das Projekt eines interationalen Teams, das einen schnellen Einstieg ins Berufsleben für Newcomer ermöglichen will. Aus eigener Erfahrung konzentrieren sie sich dabei auf Angebote für Freelancer, die Unternehmen auf der Webseite <a href="http://www.refugeeswork.com/">refugeeswork.com</a> einstellen können. Außerdem unterstützt RefugeesWork bei der Arbeitssuche und hilft, wenn dabei Probleme mit der Bürokratie auftreten.

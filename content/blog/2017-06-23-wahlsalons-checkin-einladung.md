@@ -9,14 +9,9 @@ images:
 draft: false
 ---
 
+# Wahlsalons Check-In am 07. Juli in Köln
 
-
-<br>
-
-![wahlsalon-1](/blog/wahlsalon-koeln.png)
-
-
-### 1 down, 2 to go: Einladung zum zweiten Wahlsalon in Köln!
+## 1 down, 2 to go: Einladung zum zweiten Wahlsalon in Köln!
 
 Nach einem erfolgreichen [Kick-Off]({{< ref "/blog/2017-05-25-wahlsalons-kickoff.md" >}}) der Wahlsalons 2017 am 24. Mai in Berlin steht nun als nächstes der Check-In in der Domstadt an. Zusammen mit dem [OK Lab Köln]({{< ref "/labs/koeln" >}}) und <a href="hack.institute">hack.institute</a> werden wir vielleicht schon die ersten Früchte ernten können und sehen, was in der kurzen Zeit mit offenen Wahldaten umgesetzt werden konnte.
 

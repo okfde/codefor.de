@@ -3,7 +3,6 @@ layout: project
 lab: ["schleswig-flensburg"] #needed for Aggregation on Lab-Page
 title: Aufbau von LoRaWAN Gateways im ländlichen Raum
 imgname: schleswig_flensburg/LoRaWan-Gateway.jpg
-showcase: 1
 status: Laufend
 
 # TODO Add collaborators
@@ -20,6 +19,9 @@ collaborators:
 links:
 - name: Blog Post
   url: https://nucleon-ev.eu/best-of-digital-2018/
+
+tags:
+- Gesellschaft
 
 ---
 

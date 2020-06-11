@@ -9,15 +9,9 @@ images:
 draft: false
 ---
 
-*Dieses Jahr steht der Schwerpunkt von Code for Germany ganz im Zeichen von Wahlen, Politik und Demokratie*
+# Wahlsalons 2017
 
-<br>
-
-![wahlsalons](/blog/wahlsalons.png)
-
-<hr>
-
-### Wahlen und Technik
+## Wahlen und Technik
 
 
 <p>Im Herbst diesen Jahres finden die 19. Bundestagswahlen statt. Zu diesem Anlass nehmen wir uns dieses Jahr das Thema Wahldaten und Wahlen als Schwerpunkt vor. Wir wollen nützliche und informative Tools rund um die Wahl entwickeln und mit Offenen Wahldaten arbeiten. Dafür organisieren wir die <a href="http://codefor.de/wahlsalons">Wahlsalons</a> in Berlin und Köln.</p>
@@ -30,7 +24,7 @@ draft: false
 
 <br>
 
-### Die Wahlsalons
+## Die Wahlsalons
 
 
 <p>In Zusammenarbeit mit <a href="google.org">Google</a> organisieren wir in drei solcher Städten Wahlsalons. Im ersten Wahlsalon in Berlin findet ein Kickoff statt, hier können Projekte vorgestellt und gestartet werden. Neben Inputs von spannenden Speakerinnen wird es auch Zeit für's praktische Arbeiten geben. Nach 6 Wochen findet in Köln ein Checkin statt, Gastgeber sind das <a href="{{< ref "/labs/koeln" >}}">OK Lab Köln</a> und unsere Partner vom <a href="http://hack.institute">hack.institute</a> die schon 2013 den Wahldatenhelfer-Hackathon organisiert haben. Auf dem Checkin berichten wir über Zwischenstände und weitere Schritte. Im September findet dann die Projektpräsentation in den Räumlichkeiten von Google in Berlin statt.</p>

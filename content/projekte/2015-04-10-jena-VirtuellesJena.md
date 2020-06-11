@@ -17,6 +17,10 @@ links:
 collaborators:
 - name: Achim
 - name: Andreas
+
+tags:
+- Gesellschaft
+
 ---
 
 Stellenweise ist Jena in der Open-Street-Map noch unentdecktes Land. Vor allem Gebäudeumrisse und Hausnummern, aber auch viele gastronomische, touristische Point-of-Interests fehlen um ein brauchbares Städte-Rounting z.B: auf Basis vom GraphHopper realisieren zu können.

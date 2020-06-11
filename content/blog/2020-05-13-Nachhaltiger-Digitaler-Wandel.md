@@ -11,6 +11,8 @@ og-description: "Nachhaltiger digitaler Wandel und der Beitrag von Civic Tech"
 draft: false
 ---
 
+# Nachhaltiger digitaler Wandel – welchen Beitrag kann Civic Tech leisten?
+
 Es gibt viele gute Argumente für digitale Werkzeuge, denn sie helfen uns, zahlreiche Bereiche unseres Lebens und unserer öffentlichen Verwaltung einfacher oder effektiver zu gestalten. In der Civic-Tech-Szene entwickeln wir jährlich viele Prototypen, die großes gesellschaftliches Potenzial entfalten können. Gleichzeitig können diese Tools aber auch ökologische Nachteile mit sich bringen, beispielsweise wenn sie viel Energie verbrauchen oder sie aus nicht recycelbaren und sog. kritischen Rohstoffen bestehen. Uns ist deshalb daran gelegen, den digitalen Wandel nachhaltig zu gestalten und das umfasst ökologische ebenso wie soziale Nachhaltigkeit. 
 
 Einerseits bringt der digitale Wandel zwar durchaus viele Möglichkeiten z. B. ressourcensparender Steuerungen mit sich. Zugleich belasten die für Technologien nötigen Ressourcen unser Ökosystem. Materialaufwand, Reparierbarkeit und Energiebilanz etwa müssen bereits im Entwicklungsstadium von Anwendungen zentral sein. Während dies den großen Software-Unternehmen oftmals schwer zu fallen scheint, kann die dezentral aufgestellte Civic-Tech-Szene Ideen zur nachhaltigen Digitalisierung vergleichsweise leichter und agil umsetzen.

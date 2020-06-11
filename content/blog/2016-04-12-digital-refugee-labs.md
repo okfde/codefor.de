@@ -9,7 +9,7 @@ images:
 - imgname: drl-logo.png
 ---
 
-[![DRL-Logo](/blog/drl-logo.png)]({{< ref "/blog/2016-04-12-digital-refugee-labs" >}}/)
+# Schwerpunkt 2016 'Digital Refugee Labs'
 
 <h3 style="text-align: center">Worum geht's?</h3>
 

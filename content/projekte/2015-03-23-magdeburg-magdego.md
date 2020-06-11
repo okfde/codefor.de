@@ -3,6 +3,7 @@ layout: project
 lab: [magdeburg] #needed for Aggregation on Lab-Page
 imgname: magdeburg/magdego.de.png
 title: MagdeGo
+showcase: 1
 status: Discontinued
 
 links:
@@ -24,6 +25,10 @@ collaborators:
     name: twitter
   - url: https://github.com/jfilter
     name: github
+
+tags:
+- Mobilität
+
 ---
 
 UPDATE: Aufgrund Druck von Dritter (wir nennen keine Namen) musste MagdeGo offline genommen werden. Wir planen aber einen Relaunch.

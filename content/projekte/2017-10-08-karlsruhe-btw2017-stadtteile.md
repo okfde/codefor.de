@@ -5,6 +5,7 @@ imgname: karlsruhe/btw2017-stadtteile.png
 title: Die Bundestagswahl 2017 in den Karlsruher Stadtteilen
 status: abgeschlossen
 type: WS
+showcase: 1
 draft: false #set to 'true'
 
 links:
@@ -15,6 +16,9 @@ links:
 
 collaborators:
 - name: Torf
+
+tags:
+- Politik
 
 ---
 
