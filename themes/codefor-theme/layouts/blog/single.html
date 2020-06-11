@@ -14,15 +14,15 @@
 
 <div class="row justify-content-center blog-content mb-4 mb-md-5">
     <div class="col-23 col-sm-20 col-lg-14 col-xl-11">
-        
-        {{ if .Params.images }} 
+
+        {{ if .Params.images }}
             {{ range first 1 .Params.images}}
             <div class="text-center">
-                <img class="img-fluid" src="/blog/{{ .imgname }}" alt="">
-            </div>    
+                <img class="img-fluid" src="/blog/{{ .imgname }}" alt="{{ .alt }}">
+            </div>
             {{end}}
         {{ end }}
-        
+
         <small class="d-block mt-3 mb-5">
             {{ .Date.Format "02.01.2006" }} von {{.Params.author}}
         </small>
