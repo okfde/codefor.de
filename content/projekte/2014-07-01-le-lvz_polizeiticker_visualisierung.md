@@ -3,7 +3,6 @@ layout: project
 lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/polizeiticker.jpg
 title: Visualisierung der Polizeiticker Meldungen der Leipziger Volkszeitung
-showcase: 1
 status: Daten laufend aktualisiert, Entwicklungstand 2016, sporadische Weiterentwicklung
 
 links:

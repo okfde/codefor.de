@@ -8,10 +8,7 @@ images:
 - imgname: community.png
 ---
 
-
-<strong>Die Open Knowledge Foundation sucht eine/n Community Organizer/in für das Projekt Code for Germany</strong>
-
-![wikidata](/blog/wikidata.jpg)
+# Stellenausschreibung Code for Germany - Community Organizerin (m/w)
 
 <h3>Wer wir sind</h3>
 

@@ -8,7 +8,7 @@ images:
 - imgname: drl.jpg
 ---
 
-![DRL](/blog/drl.jpg)
+# The Digital Refugee Labs project has ended...
 
 *English version below!*
 

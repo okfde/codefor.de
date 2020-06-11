@@ -7,6 +7,8 @@ topic: interview
 
 ---
 
+# Code for Germany beim Elektrischen Reporter
+
 Der Elektrische Reporter, ein Format auf ZDF von Mario Sixtus, begleitet die Netzkultur schon seit vielen Jahren
 mit kleinen spannenden Beiträgen, die mittlerweile auf ZDFinfo wöchentlich ausgestrahlt werden. Jetzt durften wir
 auch dabei sein und Julia hat über Open Data, Civic Tech und Code for Germany berichtet. Ebenfalls mit dabei war Magda

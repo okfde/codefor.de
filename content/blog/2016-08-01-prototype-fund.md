@@ -8,7 +8,7 @@ images:
 - imgname: PrototypeFundLogo.png
 ---
 
-![PrototypeFundLogo](/blog/PrototypeFundLogo.png)
+# Hello Prototype Fund!
 
 Los geht’s: Heute startet der Prototype Fund!
 

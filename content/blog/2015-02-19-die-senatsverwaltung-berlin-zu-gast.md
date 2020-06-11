@@ -10,6 +10,7 @@ images:
   sub: FIS-Broker Berlin
 ---
 
+# Die Senatsverwaltung zu Gast
 
 Am 9. Februar 2015 freute sich das OKLab Berlin nicht nur über die Anwesenheit zahlreicher Open Data-Interessierter, sondern auch darüber, dass zwei Vertreter der [Berliner Senatsverwaltung für Stadtentwicklung und Umwelt][senstadtum] unserer Einladung folgten. Zu Gast waren [Renate Zweer][renate-zweer] (FIS-Broker Projekt Management) in Begleitung von [Dipl.-Ing. Thomas Luckhardt][senstadtum-organigram] (leitender Senatsrat, Abteilung Geoinformationen). Der Kontakt kam bereits im Oktober 2014 auf der [InterGeo-Konferenz][intergeo] zustande, auf der die Berliner Verwaltung sowohl mit einem Open Data-Stand als auch in Podiumsdiskussionen anzutreffen war.
 

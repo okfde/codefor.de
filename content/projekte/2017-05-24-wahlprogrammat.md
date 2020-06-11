@@ -5,6 +5,7 @@ imgname: berlin/wahlprogrammquiz.png
 title: Wahlprogrammquiz
 status: Laufend
 type: WS
+showcase: 1
 draft: false #set to 'true'
 
 links:

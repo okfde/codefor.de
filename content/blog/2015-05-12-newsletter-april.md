@@ -10,7 +10,8 @@ images:
 - imgname: newsletter-april.png
 
 ---
-![newsletter-april](/blog/newsletter-april.png)
+
+# Der Code for Germany Newsletter
 
 Wir haben wieder einen Newsletter versendet mit Neuigkeiten aus den Labs, diesmal zum "<a href="http://hackyourcity.de">Hack Your City</a>" Kickoff in Berlin, zur <a href="http://re-publica.de">re:publica</a> und zu einem spannenden Projekt aus Stuttgart.
 

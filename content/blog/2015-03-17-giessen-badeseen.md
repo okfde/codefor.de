@@ -9,6 +9,8 @@ images:
 - imgname: cfgibadeseen2.jpg
 ---
 
+# OK Lab Gießen beim hessischen Erfahrungsaustausch für Badegewässer
+
 Wo ist ist der nächste Badesee? Würde ich mein Kind darin schwimmen lassen? Was kann man dort sonst noch so unternehmen? Diese Fragestellung beschäftigt aktuell das OK Lab Gießen.
 
 ![image](/blog/cfgibadeseen2.jpg)

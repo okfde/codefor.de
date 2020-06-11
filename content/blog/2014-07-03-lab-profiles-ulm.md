@@ -14,7 +14,9 @@ tags:
   - Aus den Labs
 
 ---
-![ulm](/blog/lab_profiles/ulm.jpg)
+
+# Das OK Lab Ulm
+
 <span class="post-img-caption">Ulmer Neutorbruecke (CC-by-sa-3.0-de Wolfgang Pehlemann)</span>
 
 Ulm hatte schon vor dem Start von Code for Germany eine sehr aktive Open Data Community. Eine Gruppe von Studenten und Studentinnen der Technischen Universität Ulm hat sich 2011 gegründet und ist 2014 als [OK Lab][] dem Programm Code for Germany beigetreten. Mit den Namen "[Ulm API][]" haben sie sich seitdem mit den verschiedensten Themen rund um die Stadt Ulm auseinandergesetzt. Zum Start von Code for Germany beschlossen sie, ebenfalls Teil des Programms zu werden, um sich mit Gleichgesinnten kurzschließen zu können und Erfahrungen auszutauschen.
