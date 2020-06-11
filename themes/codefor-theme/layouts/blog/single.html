@@ -5,9 +5,8 @@
     <img src="/img/section-icon/icon-power.svg" alt="">
 </div>
 
-{{ $txt := "Was bei uns passiert" }}
 {{ $color := "blue"}}
-{{ partial "headline-brackets-h1.html" (dict "context" . "txt" $txt "color" $color ) }}
+{{ partial "headline-brackets-h1.html" (dict "context" . "txt" .Title "color" $color ) }}
 
 
 
