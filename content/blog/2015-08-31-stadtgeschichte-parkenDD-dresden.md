@@ -1,8 +1,9 @@
 ---
-layout: story
+author: Eileen Wagner
+type: blog
 color: blue #red, blue, green, cyan
 pattern: 3 #one of: 1, 2, 3, 4
-og-image: /assets/stories/parkendd-hero.jpg # used for facebook & twitter card
+og-image: stories/parkendd-hero.jpg # used for facebook & twitter card
 
 
 title: ParkenDD - Vorausschauendes Parken in Dresden
@@ -21,12 +22,12 @@ links: # first one is used in subline
 - name: Bericht in der Sächsischen Zeitung
   url: http://www.sz-online.de/nachrichten/studenten-helfen-bei-der-parkplatzsuche-3128007.html
 
-header-images: #use 3:2 proportioned image
-- src: /assets/stories/parkendd-hero.jpg
+images: #use 3:2 proportioned image
+- imgname: stories/parkendd-hero.jpg
   alt: Johannes Kliemann und Kilian Költzsch zeigen ihre App.
   caption: Johannes und Kilian  © Norbert Millauer
 
-lead: Freie Parkplätze in Dresden können nun auf dem Smartphone angezeigt werden. Das OK Lab Dresden wollte damit zeigen, wie man mit öffentlichen Daten den Alltag erleichtern kann. Ihre App kann inzwischen sogar Parkmöglichkeiten Monate im Voraus vorhersagen. Das Geheimnis? Teamwork!
+excerpt: Freie Parkplätze in Dresden können nun auf dem Smartphone angezeigt werden. Das OK Lab Dresden wollte damit zeigen, wie man mit öffentlichen Daten den Alltag erleichtern kann. Ihre App kann inzwischen sogar Parkmöglichkeiten Monate im Voraus vorhersagen. Das Geheimnis? Teamwork!
 
 members:
 - name: Consti
@@ -48,6 +49,9 @@ members:
 - name: Paul
   username-github: balzer82
   username-twitter: balzer82
+
+aliases:
+- /stadtgeschichten/4parkenDD/
 
 ---
 

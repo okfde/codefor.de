@@ -1,8 +1,9 @@
 ---
-layout: story
+author: Eileen Wagner
+type: blog
 color: cyan #one of: red, blue, green, cyan
 pattern: 1 #one of: 1, 2, 3, 4
-og-image: /assets/projects/muenchen/Muenchen-Transparent.png # used for facebook & twitter card
+og-image: /blog/stories/Muenchen-Transparent.png # used for facebook & twitter card
 
 
 title: München Transparent - Kommunalpolitik leicht gemacht
@@ -15,11 +16,11 @@ links: # first one is used in subline
 - name: Bericht in der Süddeutschen Zeitung
   url: http://www.sueddeutsche.de/muenchen/onlineportal-muenchen-transparent-das-glaeserne-rathaus-1.2328588
 
-header-images: #use 3:2 proportioned image
-- src: /assets/projects/muenchen/Muenchen-Transparent.png
+images: #use 3:2 proportioned image
+- imgname: stories/Muenchen-Transparent.png
   alt: Die Website von München Transparent
 
-lead: Tobias Hößl hat sich über das Ratsinformationssystem der Stadtverwaltung geärgert. Daraufhin baute er seine eigene Website, die viele wichtige Funktionen liefert. Inzwischen ist das Projekt eine Transparenz-Plattform für ganz München geworden. Die Nutzer sind begeistert.
+excerpt: Tobias Hößl hat sich über das Ratsinformationssystem der Stadtverwaltung geärgert. Daraufhin baute er seine eigene Website, die viele wichtige Funktionen liefert. Inzwischen ist das Projekt eine Transparenz-Plattform für ganz München geworden. Die Nutzer sind begeistert.
 
 members:
 - name: Tobias Hößl
@@ -33,6 +34,9 @@ members:
 - name: Konstantin Schütze
   username-twitter: konstinx
   username-github: konstin
+
+aliases:
+- /stadtgeschichten/5muenchen-transparent/
 
 ---
 ## Das Problem
@@ -48,7 +52,7 @@ Das Ergebnis ist beeindruckend. Ihre Website lädt die Datensätze vom RIS tägl
 ## Eine Überraschung
 Jahrelang hat Tobias versucht, das Projekt mit der Stadtverwaltung abzusprechen. Das war ein zäher Prozess und hat der Motivation viel geschadet. Doch dann hat Tobias aufgehört, auf die Stadtverwaltung zu warten: „Das hätte ich vermutlich gleich von Anfang an machen sollen.“
 
-Doch dann kam eine Überraschung: neue Gesichter aus der Stadtverwaltung besuchten eines Tages das [OK Lab München](../../muenchen/) So ging die Zusammenarbeit doch noch voran. Dass MitarbeiterInnen sich für Open Data und Programmieren interessieren, sei aber eher ein glücklicher Zufall, meint Tobias.
+Doch dann kam eine Überraschung: neue Gesichter aus der Stadtverwaltung besuchten eines Tages das [OK Lab München](/labs/muenchen/) So ging die Zusammenarbeit doch noch voran. Dass MitarbeiterInnen sich für Open Data und Programmieren interessieren, sei aber eher ein glücklicher Zufall, meint Tobias.
 
 <blockquote>
   <p>Ich denke, das alleine ist schon etwas wert, dass solche öffentliche Diskussionen mit besserer Informationslage geführt werden können.</p>

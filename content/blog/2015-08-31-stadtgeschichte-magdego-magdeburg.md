@@ -1,8 +1,9 @@
 ---
-layout: story
+author: Eileen Wagner
+type: blog
 color: green #one of: red, blue, green, cyan
-pattern: 4 #one of: 1, 2, 3, 4 
-og-image: /assets/stories/magdego-hero.jpg # used for facebook & twitter card
+pattern: 4 #one of: 1, 2, 3, 4
+og-image: stories/magdego-hero.jpg # used for facebook & twitter card
 
 
 title: MagdeGo - Nahverkehr, schnell und einfach.
@@ -21,12 +22,12 @@ links: # first one is used in subline
 - name: Bericht der Uni Magdeburg
   url: http://www.fokus-du.de/front_content.php?idcat=362&idart=880&page=2&page_begin=0
 
-header-images: #use 3:2 proportioned image
-- src: /assets/stories/magdego-hero.jpg
+images: #use 3:2 proportioned image
+- imgname: stories/magdego-hero.jpg
   alt: Rosario Raulin und Johannes Filter zeigen Smartphones mit ihrer App vor einer Strassenbahn
   caption: Rosario und Johannes © Stefan Berger
 
-lead: Johannes und Rosario wollten eine Nahverkehr-App, die einfach nur anzeigt, wann an der nächsten Haltestelle die nächste Bahn kommt – ohne Schnickschnack. Entstanden ist MagdeGo, und das ist ihre Geschichte.
+excerpt: Johannes und Rosario wollten eine Nahverkehr-App, die einfach nur anzeigt, wann an der nächsten Haltestelle die nächste Bahn kommt – ohne Schnickschnack. Entstanden ist MagdeGo, und das ist ihre Geschichte.
 
 members:
 - name: Rosario Raulin
@@ -37,19 +38,22 @@ members:
   username-twitter: fil_ter
   username-github: filter1
 
+aliases:
+- /stadtgeschichten/3magdego/
+
 ---
 ## Die Idee
 Eine App für Sachsen-Anhalt, die einfach nur anzeigt, wann an der nächsten Haltestelle die nächste Bahn kommt.  So entstand MagdeGo, die Johannes Filter gemeinsam mit Rosario Raulin programmiert hat. Anfang 2015 waren Web-App und iOS-App fertig.
 
 <figure class="portrait right">
-  <img src="/assets/stories/magdego-screenshot.png" alt="Screenshot der Magdego App" >
+  <img src="/blog/stories/magdego-screenshot.png" alt="Screenshot der Magdego App" >
 </figure>
 
 ## Weniger ist mehr
 Wer vor Ort wohnt, weiß schließlich oft schon, wo er hin will. „Wir wollten keinen Schnickschnack, wir wollten nur die Abfahrtszeiten haben“, sagt Johannes. Klar könne die App noch mehr Funktionen bekommen, aber für ihn sei gerade das Minimalistische die Stärke von MagdeGo.
 
 
-## Nervigster Umweg 
+## Nervigster Umweg
 Johannes und Rosario mussten sich erstmal die Daten suchen. Das dauerte, denn die ursprüngliche API (Programmierschnittstelle) der Magdeburger Verkehrsbetriebe war stillgelegt worden. Sie ziehen sich die Infos jetzt von der öffentlichen Fahrplanauskunft in Sachsen-Anhalt, INSA.de. Was sie erst später herausfanden: Der Entwickler der Öffi-App für Bus und Bahn hat eine Liste von Datenquellen auf Github zusammen getragen. „Wir hätten uns viel Arbeit erspart, hätten wir das gewusst“, sagt Johannes.
 
 <blockquote>

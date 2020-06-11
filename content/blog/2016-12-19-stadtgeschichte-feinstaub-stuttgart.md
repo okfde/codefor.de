@@ -1,8 +1,9 @@
 ---
-layout: story
+author: Eileen Wagner
+type: blog
 color: red #one of: red, blue, green, cyan
 pattern: 1 #one of: 1, 2, 3, 4
-og-image: /assets/stories/feinstaub.jpg # used for facebook & twitter card
+og-image: stories/feinstaub.jpg # used for facebook & twitter card
 
 title: Stuttgart – aus Feinstaub wird Open Data
 where: Stuttgart
@@ -21,11 +22,11 @@ links: # first one is used in subline
 - name: Berichterstattung
   url: http://www.stuttgarter-zeitung.de/inhalt.keine-offiziellen-messstationen-in-stuttgart-nord-feinstaub-messen-selbst-gemacht.html
 
-header-images: #use 3:2 proportioned image
-- src: /assets/stories/feinstaub.jpg
+images: #use 3:2 proportioned image
+- imgname: stories/feinstaub.jpg
   alt: Das Luftdaten Team
 
-lead: Das Team um Jan Lutz errichtet zurzeit ein Netzwerk von Feinstaub-Sensoren in Stuttgart. Das soll die Datenlage verbessern und somit die Diskussion über das Umwelt- und Gesundheitsproblem besser informieren.
+excerpt: Das Team um Jan Lutz errichtet zurzeit ein Netzwerk von Feinstaub-Sensoren in Stuttgart. Das soll die Datenlage verbessern und somit die Diskussion über das Umwelt- und Gesundheitsproblem besser informieren.
 
 members:
 - name: Jan A. Lutz
@@ -44,6 +45,9 @@ members:
   username-twitter: riedelwerk
   username-github: riedelwerk
 
+aliases:
+- /stadtgeschichten/1feinstaub/
+
 ---
 
 ## Dicke Luft
@@ -60,7 +64,7 @@ Trotz der prekären Lage gibt es in ganz Stuttgart nur wenige Messstationen von 
 
 Dem OK Lab ist das nicht genug. Sie haben sich das Ziel gesetzt, mehr Daten zum Feinstaub zu sammeln. Und zwar in Form von selbst gebauten Messgeräten, die zusammen ein flächendeckendes Netz bilden. Die gemessenen Feinstaubwerte werden über das Internet in Echtzeit angezeigt. Die Initiative soll nicht nur die Datenlage verbessern, sondern auch mehr Transparenz in der Datenerhebung schaffen.
 
-<!-- <img style="float: right;" src="/assets/stories/basteln.jpg" width="40%" alt="das gemeinsame Basteln"> -->
+<!-- <img style="float: right;" src="/blog/stories/basteln.jpg" width="40%" alt="das gemeinsame Basteln"> -->
 
 Die Idee ist genial, aber bei der Umsetzung ist Kreativität gefragt. Denn die Geräte sollen nicht nur einfach zu installieren sein. Auch sollen sie relativ preisgünstig hergestellt werden können. Das Stuttgarter OK Lab konnte über einen Zeitraum von zwei Jahren immer bessere Ergebnisse erzielen – zunächst mit einem Sensor aus einer japanischen Klimaanlage, dann mit einem Feinstaub-Sensor, der, neben “PM10”, die als internationalen Standard geltenden “PM2,5” misst. Glücklicherweise wurde der Feinstaub-Sensor so günstig, dass er ins Gesamtbudget von rund 30€ passte.
 
