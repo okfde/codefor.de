@@ -14,3 +14,5 @@ ehthumbs_vista.db
 # IDE project folders
 .idea/**
 .vscode/**
+
+*.orig
