@@ -23,7 +23,7 @@ collaborators:
     name: GitHub
 - name: Magdalena Noffke
   links:
-  - url: http//github.com/magdan
+  - url: https://github.com/magdan
     name: GitHub
 
 tags:
