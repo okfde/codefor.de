@@ -24,62 +24,7 @@
       </div>
     </diw>
 
-    <div class="footbar row justify-content-center my-6">
-      <div class="col-24 col-sm-20 col-md-23 col-lg-20">
-        <div class="row">
-          <div class="col-24 col-sm-12 col-md-6 col-lg-6 mt-3 mt-sm-0">
-            <h4 class="mb-4">Rechtliches</h4>
-            <ul class="list-unstyled">
-              <li><a class="text-dark no-underline" href="/impressum">Impressum</a></li>
-              <li><a class="text-dark no-underline" href="/datenschutz">Datenschutz</a></li>
-              <li><a class="text-dark no-underline" href="/grundsaetze">Grundsätze</a></li>
-            </ul>
-          </div>
-    
-          <div class="col-24 col-sm-12 col-md-6 col-lg-6 mt-3 mt-sm-0">
-            <h4 class="mb-4">Werkzeugkoffer</h4>
-            <ul class="list-unstyled">
-              <li>
-                <a class="text-dark no-underline" href="/documents/Handbuch-Krisenresilienz.pdf" target="_blank" rel="noopener noreferrer" >Handbuch Krisenresilienz von Verwaltungen</a>
-              </li>
-              <li>
-                <a class="text-dark no-underline" href="http://opendatahandbook.org" target="_blank" rel="noopener noreferrer" >opendatahandbook.org</a>
-              </li>
-              <li>
-                <a class="text-dark no-underline" href="https://upload.wikimedia.org/wikipedia/commons/a/a9/ABC_der_Offenheit_-_Brosch%C3%BCre_%282019%29.pdf" target="_blank" rel="noopener noreferrer" >ABC der Offenheit</a>
-              </li>
-              <li>
-                <a class="text-dark no-underline" href="/gruendung-ok-lab">Wie gründe ich ein OK Lab?</a>
-              </li>
-              <li>
-                <a class="text-dark no-underline" href="/presse">In der Presse</a>
-              </li>
-            </ul>
-          </div>
-    
-          <div class="col-24 col-sm-12 col-md-6 col-lg-6 mt-3 mt-sm-5 mt-lg-0">
-            <h4 class="mb-4">Folge uns!</h4>
-            <ul class="list-unstyled">
-              <li><a href="https://github.com/okfde" target="_blank" rel="noopener noreferrer"><img src="/img/github.svg" class="img-fluid footer-social-icon" alt="Github"></a></li>
-              <li><a href="https://twitter.com/codeforde" target="_blank" rel="noopener noreferrer"><img src="/img/twitter.svg" class="img-fluid footer-social-icon" alt="twitter"></a></li>
-            </ul>
-          </div>
-    
-          <div class="col-24 col-sm-12 col-md-6 col-lg-6 mt-3 mt-sm-5 mt-lg-0 ">
-            <h4 class="mb-4">Ein Projekt der</h4>
-            <ul class="list-unstyled">
-              <li><a href="https://okfn.de" target="_blank" rel="noopener noreferrer"><img class="img-fluid" style="width: 180px;margin-left:-10px;" src="/img/open-knowledge.svg" alt="Open Knowledge Foundation"></a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="row border-top py-4 ">
-      <div class="col text-center">
-        Diese Website wurde gebaut mit viel <img class="img-fluid"  style="width: 22px;" src="/img/heart.svg" alt="heart icon">, ehrenamtlicher Arbeit, Hugo und Bootstrap.
-      </div>
-    </div>
+    {{ partial "simple_footer.html" . }}
 
   </div>
 </footer>
