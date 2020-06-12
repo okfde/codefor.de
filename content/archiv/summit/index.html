@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ____        _       __                     __  __      _
+   / __ \____ _(_)___  / /_  ____ _      __   / / / /___  (_)________  _________
+  / /_/ / __ `/ / __ \/ __ \/ __ \ | /| / /  / / / / __ \/ / ___/ __ \/ ___/ __ \
+ / _, _/ /_/ / / / / / /_/ / /_/ / |/ |/ /  / /_/ / / / / / /__/ /_/ / /  / / / /
+/_/ |_|\__,_/_/_/ /_/_.___/\____/|__/|__/   \____/_/ /_/_/\___/\____/_/  /_/ /_/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>
+
+      Code for Germany ~ Stadt&lt;entwickler /&gt; nutzen offene Daten um ihre Stadt zu verbessern
+
+  </title>
+
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width">
+
+  <meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@codeforde" />
+
+<meta property="og:title" content="Code for Germany">
+<meta property="og:url" content="https://dev.codefor.de/archiv/summit/">
+
+
+
+<meta property="og:description" content="Stadt&lt;entwickler /&gt; nutzen offene Daten um ihre Stadt zu verbessern">
+
+
+<meta content="/archiv/summit/assets/CFG_logo.svg" property="og:image">
+
+
+
+
+
+  <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"> -->
+  <link rel="stylesheet" href="/archiv/summit/assets/bootstrap.css">
+  <!-- <link rel="stylesheet" href="/archiv/summit/assets/animate.css"> -->
+  <link rel="stylesheet" href="/archiv/summit/assets/main.css?v=1.7">
+
+  <!-- banner for global climate strike on September 20th, 2019 -->
+  <script src="https://assets.digitalclimatestrike.net/widget.js" async></script>
+
+  <!-- <script src="/js/lib/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/lib/jquery-1.10.1.min.js"><\/script>')</script> -->
+  <!-- <script src="/js/lib/bootstrap.min.js"></script> -->
+
+  <!-- leaflet map -->
+  <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css">
+  <script src='/js/lib/leaflet.iconlabel.js'></script> -->
+
+  <!-- webfont  -->
+  <!-- <script>
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+    '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+  </script> -->
+
+  <!-- <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> -->
+
+  </head>
+
+  <body>
+    <!--[if lt IE 7]>
+    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div class="body-wrap">
+      <div class="page-wrap">
+        <div class="nav-wrap">
+
+    <div class="main-nav-wrapper">
+
+      <ul class="nav nav-meta">
+        <!--<li class="text-center">-->
+          <!---->
+          <!--<a href="http://2016de.codefor.de" target="_blank" rel="noopener noreferrer">Rückblick 2016</a>-->
+          <!---->
+        <!--</li>-->
+        <li class="text-center nav-meta-social">
+          <a href="https://twitter.com/codeforde">
+            <img src="/archiv/summit/assets/ionicons_svg_logo-twitter.svg" alt="Twitter" width="32" height="32" />
+          </a>
+        </li>
+        <!-- <li class="text-center nav-meta-social">
+          <a href="http://goo.gl/pO9wkS" >g+</a>
+        </li> -->
+        <li class="text-center nav-meta-social">
+          <a href="https://github.com/okfde/codefor.de" >
+            <img src="/archiv/summit/assets/ionicons_svg_logo-github.svg" alt="GitHub" width="32" height="32" />
+          </a>
+        </li>
+        <li class="text-center nav-meta-lang">
+
+
+
+
+              <a href="/en/summit/">EN</a>
+
+
+        </li>
+      </ul>
+
+      <ul class="nav nav-pills">
+
+
+
+
+
+          <li class="element first current ">
+            <a href="/summit">Summit</a>
+          </li>
+
+
+
+          <li class="element   ">
+            <a href="/blog">Blog</a>
+          </li>
+
+
+
+          <li class="element   ">
+            <a href="/stadtgeschichten">Stadtgeschichten</a>
+          </li>
+
+
+
+          <li class="element   ">
+            <a href="/projekte">Projekte</a>
+          </li>
+
+
+
+          <li class="element   ">
+            <a href="/mitmachen">Mitmachen</a>
+          </li>
+
+
+
+          <li class="element   last">
+            <a href="/ueber">Über</a>
+          </li>
+
+      </ul>
+    </div>
+</div>
+
+        <div class="navbar">
+
+          <div class="logo">
+            <a class="" href="/">
+              <img class="img-responsive" src="/archiv/summit/assets/CFG_logo.svg" alt="Code for Germany">
+            </a>
+          </div>
+
+          <button class="mobile-menu-toggle">
+            <span>toggle menu</span>
+          </button>
+
+        </div>
+
+        <div class="jumbotron fond__red">
+  <div class="container text__white">
+    <div class="row">
+      <div class="col-lg-10 col-lg-offset-1">
+        <h3>Community Summit</h3>
+        <p> Seit fünf Jahren entstehen bei Code for Germany digitale Werkzeuge und Anwendungen, um damit praktisch aufzuzeigen, welche Möglichkeiten Offene Daten und neue Technologien für das gesellschaftliche Zusammenleben bieten.
+          Mit deutschlandweit knapp 1.500 engagierten Innovator*innen, Wissenschaftler*innen, Entwickler*innen, Policy-Spezialist*innen und Designer*innen uvm., sehen wir ein RIESEN Potential im Mainstreaming digitaler Aktivitäten der mittlerweile 28 Code For Germany Labs.
+          <br><br>Deshalb lädt Code for Hamburg ganz &hearts;-lich die Code for Germany Community aus ganz Deutschland, zum Code for Germany Summit 2019 ein, dem Austausch- & Innovations Festival der deutschen Open Knowledge & Open Source Community.
+          <br>In zwei Tagen möchten wir gemeinsam bestehende Projekte weiterentwickeln, zu unterschiedlichen Themen austauschen und neue Projekte starten. Und das möchten wir gemeinsam mit euch gestalten.
+          <br><br>Wenn ihr also eine Idee für ein neues Projekt habt, ein bestehendes Projekt verbessern wollt oder euch zu spannenden Themen austauschen wollt, dann tragt sie hier in unserem Planungspad ein:
+          <br><a style="color:blue" href="https://pad.okfn.de/p/cfg-summit" target="_blank" rel="noopener noreferrer">https://pad.okfn.de/p/cfg-summit</a>
+        </div>
+<div class="jumbotron fond__blue">
+  <div class="container text__dark-blue">
+    <div class="row">
+      <div class="col-lg-10 col-lg-offset-1">
+        <h4><b>WAS MÜSST IHR WISSEN?</h4>
+          <ol>
+            <li>WANN: Sa, 09.11.2019 Beginn 10 Uhr - So, 10.11.2019 Ende 15 Uhr</li>
+            <li>WO: Lerchenstraße 16, 22767 Hamburg (hinter dem FabLab St. Pauli)</li>
+            <li>WER: Alle die Lust haben Projekte des Code for Germany Netzwerks (und das Netzwerk selber) aktiv voran zu bringen!!</li>
+            <li>EURE KOSTEN: Zeit, Gehirnschmalz, Kreativität, Mut, Ausdauer und Offenheit. Ggf. bisschen Rechenleistung.</li>
+            <li>UNSER GEWINN: Eine konstruktive, offene, erfolgreiche Zukunft.</li>
+            <li>DIE TEILNAHME: ist kostenlos</li>
+            <li>DIE REISEKOSTEN: Für die Anreise und Unterkunft können wir bis zu 150€ Reisekosten pro Person übernehmen. Bitte teilt uns bei der Anmeldung mit, ob ihr davon gebrauchen machen möchtet.</li>
+         </ol></b>
+      </div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+<div class="jumbotron fond__red">
+  <div class="container text__white">
+    <div class="row">
+        <div class="col-lg-10 col-lg-offset-1">
+            <p>REGISTRIERT EUCH JETZT BIS ZUM 30.09.2019 HIER: <a href="http://bit.ly/C4GSummit" target="_blank" rel="noopener noreferrer">ANMELDEFORMULAR</a></p>
+            <p>Wir freuen uns sehr darauf euch Anfang November in Hamburg zu zwei Tagen gezieltem Networking und kreativem Austausch im Atelier & FabLab St. Pauli, Hamburg begrüssen zu dürfen  - damit systematisch die Beteiligung der digitalen Zivilgesellschaft aus zubauen.</p>
+        </div>
+    </div>
+  </div>
+</div>
+</div>
+<div class="jumbotron fond__dark-blue">
+  <div class="container text__white">
+    <div class="row">
+      <div class="col-lg-10 col-lg-offset-1">
+          <h4>FORUM Offene Stadt 2019</h4>
+<p>Der zweitägige <b>Code for Germany Summit</b> findet vom 9. - 10. November unmittelbar im Anschluss an die Fachkonferenz, FORUM Offene Stadt am Freitag (8.11.2019) in Hamburg statt.
+  <br><br>Die Konferenz bringt jährlich über 200 Technologie-Begeisterte aus Verwaltung, Politik, Zivilgesellschaft, Wissenschaft und Wirtschaft zusammen. In diesem Jahr werden wir uns unter dem Motto “Digitale Zivilgesellschaft beteiligen” auf die thematischen Schwerpunkte Beteiligung, Mobilität und Umwelt konzentrieren. Frei nach der Frage: <br><br><i>Wie können uns offene digitale Lösungen dabei helfen, unsere Stadt und Region selbst mitzugestalten? </i>
+<br><br> Mehr Infos findet ihr unter: <a style="color:red" href="https://offenestadt.info" target="_blank" rel="noopener noreferrer">http://offenestadt.info</a>
+<br>Wenn ihr neben dem Code for Germany Summit auch am FORUM teilnehmen möchtet, meldet euch bitte hier an!
+   <a style="color:red" href="https://www.koerber-stiftung.de/?id=2393" target="_blank" rel="noopener noreferrer">https://www.koerber-stiftung.de/offenestadt</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="jumbotron fond__dark-red">
+  <div class="container text__white">
+    <div class="row">
+      <div class="col-lg-10 col-lg-offset-1">
+        <h4>Kontakte vor Ort vom Code for Hamburg Lab (
+          <a style="color:blue" href="https://codeforhamburg.org" target="_blank" rel="noopener noreferrer">codeforhamburg.org</a>
+          ):
+
+          <p>Timo Lundelius | Lab Lead | +4915782901744 | timo@codeforhamburg.org</p>
+          <p>Christian Wittig | Lab Lead | christian@codeforhamburg.org</p>
+          <p>Julia Thomaschki | Community Management & FORUM Offene Stadt | julia@codeforhamburg.org</p>
+        </h4>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+        <footer>
+
+          <div class="jumbotron fond__grey meta-links-foot">
+            <div class="container">
+              <div class="row text-center text-uppercase">
+                <div class="col-lg-12">
+
+                    <a href="/impressum">Kontakt &amp; Impressum</a>
+                    &bull;
+                    <a href="/code-of-conduct">Code of Conduct</a>
+                    &bull;
+                    <a href="https://codefor.de/blog/Code-For-Climate-Open-Data-Day.html">Unterstützung durch Deutsche Postcode Lotterie</a>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+    </footer>
+  </div>
+</div>
+<!--
+<script src="/js/Application.js"></script>
+<script src="/js/lib/prettyCheckbox.min.js"></script>
+
+<script src="/js/lib/greensock/TweenMax.min.js"></script>
+<script src="/js/lib/greensock/plugins/DrawSVGPlugin.min.js"></script>
+<script src="/js/lib/logger.min.js"></script>
+<script src="/js/ptfAnimationController.js"></script> -->
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+  if(typeof packery !== 'undefined') packery.layout();
+
+  app = new Application();
+
+  if(typeof(herodata) != 'undefined') {
+    app.init(herodata);
+  }
+
+    app.initMenu();
+    $(":checkbox").prettyCheckbox();
+
+    if( typeof ptfTeaser !== 'undefined') {
+      var aniController = new AnimationController();
+      aniController.init();
+    }
+
+  });
+</script>
+
+</body>
+</html>

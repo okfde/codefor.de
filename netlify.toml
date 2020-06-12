@@ -686,3 +686,7 @@ to = "/blog/story-muenchen-transparent-munich"
 [[redirects]]
 from = "/en/stadtgeschichten/6buerger-baut-stadt/"
 to = "/blog/story-citizen-builds-city-berlin"
+
+[[redirects]]
+from = "/summit/"
+to = "/archiv/summit/"
