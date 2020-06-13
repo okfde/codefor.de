@@ -3,6 +3,7 @@ layout: project
 lab: [ruhrgebiet] #needed for Aggregation on Lab-Page
 imgname: ruhrgebiet/schulradar.jpg
 title: Schulradar Ruhrgebiet
+showcase: 1
 status: In Progress
 
 links:

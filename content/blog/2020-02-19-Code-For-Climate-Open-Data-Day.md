@@ -14,13 +14,11 @@ draft: false
 
 # Code for Climate: Open Data Day am 7. März 2020
 
-Am 7. März feiern wir gemeinsam den Open Data Day! Wie jedes Jahr bieten an diesem Tag Aktivist\*innen [weltweit](https://opendataday.org/de/#map) verschiedene Veranstaltungen an, um auf die Bedeutung offener Daten aufmerksam zu machen. Auch in den OK Labs von Code for Germany haben unsere Ehrenamtlichen ein vielfältiges Programm und spannende Projekte zum Mitmachen auf die Beine gestellt, die wir bald hier mit euch teilen werden. Egal, ob du schon Profi bist oder erst in die Open Data Welt eintauchen möchtest - schau doch in einem [OK Lab in deiner Nähe](https://codefor.de/) vorbei!
+Am 7. März feiern wir gemeinsam den Open Data Day! Wie jedes Jahr bieten an diesem Tag Aktivist\*innen [weltweit](https://opendataday.org/de/#map) verschiedene Veranstaltungen an, um auf die Bedeutung offener Daten aufmerksam zu machen. Auch in den OK Labs von Code for Germany haben unsere Ehrenamtlichen ein vielfältiges Programm und spannende Projekte zum Mitmachen auf die Beine gestellt, die wir bald hier mit euch teilen werden. Egal, ob du schon Profi bist oder erst in die Open Data Welt eintauchen möchtest - schau doch in einem [OK Lab in deiner Nähe]({{< ref "/labs" >}}) vorbei!
 
 ## Daten befreien - Klima retten
 
 Unter dem Motto Code for Climate widmen wir uns dieses Jahr, auch über den Open Data Day hinaus, schwerpunktmäßig Fragen rund um Klima- und Naturschutz. Wir zeigen auf, wie Offene Daten und Technologien genutzt werden können, um Umweltbelange stärker in den Fokus zu rücken und wie Zivilgesellschaft, Politik und Verwaltung gemeinsam an einem Strang ziehen können, um unser Klima zu schützen. Diese Bemühungen werden aus Mitteln der Deutschen Postcode Lotterie unterstützt.
-
-![CodeforClimate](/assets/blog/codeforclimate.jpg)
 
 Bereits 2018 wurde auf der [Bits und Bäume Konferenz](https://okfn.de/blog/2019/07/bits-und-baeume-publikation/) das Beste von beiden Welten, Digital- und Umweltaktivismus, zusammengebracht und darüber diskutiert, wie unsere Ressourcen nachhaltig geschützt werden können.
 

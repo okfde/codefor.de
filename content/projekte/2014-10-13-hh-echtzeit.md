@@ -3,7 +3,6 @@ layout: project
 lab: [hamburg] #needed for Aggregation on Lab-Page
 imgname: hamburg/echtzeit.png
 title: Hamburg in Zahlen
-showcase: 1
 
 links:
 - url: https://ndldd.github.io/echtzeit/app/#/

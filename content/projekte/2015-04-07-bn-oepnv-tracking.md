@@ -2,7 +2,6 @@
 layout: project
 lab: [bonn] #needed for Aggregation on Lab-Page
 title: ÖPNV Tracking in Echtzeit
-showcase: 0
 status: In Progress
 
 collaborators:

@@ -57,7 +57,7 @@ Dafür brauchen wir Daten, und zwar keine personenbezogenen, sondern öffentlich
 
 Wir treffen uns einmal wöchentlich, um zu programmieren, zu visualisieren, auszuprobieren, zu basteln und Spaß zu haben. Wir sind Menschen mit und ohne technischen Hintergrund. Und wir diskutieren über Themen rund um Offene Daten (Open Data) und zivilgesellschaftliche Technik (Civic Tech), die es hier in Niedersachsen leider besonders schwer haben. Warum? Naja.... Wir sagen nur [Transparenzranking](https://transparenzranking.de/laender/niedersachsen/)....
 
-Außerdem sind wir gut vernetzt: Hier in Deutschland gibt es CodeFor-Labs in 25 Städten, wir sind ein Projekt der [Open Knowledge Foundation Deutschland](http://www.okfn.de). [codefor](https://codefor.de/)-Initiativen gibt es weltweit, ausgehend von [Code for America](https://www.codeforamerica.org/).
+Außerdem sind wir gut vernetzt: Hier in Deutschland gibt es CodeFor-Labs in 25 Städten, wir sind ein Projekt der [Open Knowledge Foundation Deutschland](http://www.okfn.de). [codefor]({{< ref "/" >}}/)-Initiativen gibt es weltweit, ausgehend von [Code for America](https://www.codeforamerica.org/).
 
 Ihr habt Fragen oder Ideen? Kommt vorbei! Designer, Entwicklerinnen, Journalisten, Vereine, Politikerinnen, Osnabrücker – ihr alle seid herzlich dazu eingeladen, mitzumachen und euch einzubringen.
 

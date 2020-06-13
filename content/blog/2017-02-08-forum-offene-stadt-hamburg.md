@@ -11,7 +11,7 @@ draft: false
 
 # Forum Offene Stadt Hamburg
 
-<p>Das <a href="http://codefor.de/hamburg">OK Lab Hamburg</a> lädt am 03. März zusammen mit der Open Knowledge Foundation und der Körber-Stiftung zum <a href="http://offenestadt.info">Forum Offene Stadt</a>, um digitale Lösungen für mehr Teilhabe in der Stadt des 21. Jahrhunderts vorzustellen. Eingeladen sind sowohl interessierte Bürgerinnen, welche diese Anwendungen nutzen können, als auch Mitarbeiter aus den Verwaltungen deren Offene Daten dafür genutzt werden.</p>
+<p>Das <a href="{{< ref "/labs/hamburg" >}}">OK Lab Hamburg</a> lädt am 03. März zusammen mit der Open Knowledge Foundation und der Körber-Stiftung zum <a href="http://offenestadt.info">Forum Offene Stadt</a>, um digitale Lösungen für mehr Teilhabe in der Stadt des 21. Jahrhunderts vorzustellen. Eingeladen sind sowohl interessierte Bürgerinnen, welche diese Anwendungen nutzen können, als auch Mitarbeiter aus den Verwaltungen deren Offene Daten dafür genutzt werden.</p>
 <br>
 <br>
 <b>Was ist das “FORUM Offene Stadt”? </b>

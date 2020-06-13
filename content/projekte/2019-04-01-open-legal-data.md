@@ -3,7 +3,7 @@ layout: project
 lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/open-legal-data.png
 title: Open Legal Data
-showcase: 0
+showcase: 1
 status: Sucht Mitmacher
 draft: false
 

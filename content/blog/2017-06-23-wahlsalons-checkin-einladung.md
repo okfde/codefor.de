@@ -13,7 +13,7 @@ draft: false
 
 ## 1 down, 2 to go: Einladung zum zweiten Wahlsalon in Köln!
 
-Nach einem erfolgreichen [Kick-Off](https://codefor.de/blog/wahlsalons-kickoff.html) der Wahlsalons 2017 am 24. Mai in Berlin steht nun als nächstes der Check-In in der Domstadt an. Zusammen mit dem [OK Lab Köln](https://codefor.de/koeln/) und <a href="hack.institute">hack.institute</a> werden wir vielleicht schon die ersten Früchte ernten können und sehen, was in der kurzen Zeit mit offenen Wahldaten umgesetzt werden konnte.
+Nach einem erfolgreichen [Kick-Off]({{< ref "/blog/2017-05-25-wahlsalons-kickoff.md" >}}) der Wahlsalons 2017 am 24. Mai in Berlin steht nun als nächstes der Check-In in der Domstadt an. Zusammen mit dem [OK Lab Köln]({{< ref "/labs/koeln" >}}) und <a href="hack.institute">hack.institute</a> werden wir vielleicht schon die ersten Früchte ernten können und sehen, was in der kurzen Zeit mit offenen Wahldaten umgesetzt werden konnte.
 
 Doch das Event in der <a href="http://www.die-wohngemeinschaft.net">Kölner Wohngemeinschaft</a>, einer außergewöhnlichen Location, wo bereits der ein oder andere Hackathon Station machte, soll natürlich nicht nur Vorhandenes zeigen. Vielmehr sind wir auf der Suche nach weiteren Mitstreitern, die Lust haben, Wählerinnen und Wählern mit ihren Ideen den Zugang zu wahlrelevanten Infos so einfach wie möglich zu machen. Beim Kick-Off war zu sehen, dass die Teilnehmer hier richtig gute Ideen und auch die Skills haben, um diese in Tools umzusetzen.
 

@@ -19,7 +19,7 @@ Als [Drew Wilson][] von Code for America ein Tierpflegeamt in Denver 2014 besuch
 
 Doch Drew denkt weiter: wie oft besucht man schon eine Tierheim-Website? Nur wenige von uns verspüren täglich das Bedürfnis, in Not geratene Tiere uns anzusehen. Deshalb sind Tweets besser dafür geeignet. Kurz darauf entstand [CutePetsDenver][], ein Twitterbot, der die Anzeigen von der Tierheim-Website scrapt und in regelmäßigen Abständen einzelne Tiere den Followern vorstellt.
 
-[![cutepetsdenver](/blog/cutepetsdenver.png)](http://codefor.de/cutepetsdenver)
+[![cutepetsdenver](/blog/cutepetsdenver.png)](https://twitter.com/CutePetsDenver)
 
 Der Vorteil eines Twitterbots: statt eine einzelne, gute Website zu bauen, die nur unregelmäßig besucht wird, verbreitet man die Information in bereits existierenden Plattformen. Dieses Prinzip lässt sich auch auf andere Projekte übertragen, wie z.B. Müllabfuhrzeiten, Bauprojekte, Feinstaubmessungen. So wird die Information sozial, denn die Nutzer können darauf reagieren. Bald entstanden ähnliche Bots in Bosten, LA, Austin und [vielen weiteren][] Städten. Als Stefan Graf aus Freiburg davon erfuhr, setzte er das ganze auch für die Website [Tierheimhelden][] um. &bdquo;Aktuell wachsen wir durchschnittlich mit ca. 10 Followern pro Woche, ohne das wir großartig etwas an dem Account machen,&ldquo; erzählt uns Stefan.
 

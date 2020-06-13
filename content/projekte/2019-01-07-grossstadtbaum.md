@@ -3,7 +3,6 @@ layout: project
 lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/grossstadtbaum.jpg
 title: Großstadt-Baum
-showcase: 0
 status: abgeschlossen
 draft: false
 
