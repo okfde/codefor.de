@@ -1470,3 +1470,11 @@ to = "/projekte/klimawatch/"
 [[ redirects ]]
 from = "/wahlsalons"
 to = "/archiv/wahlsalons/"
+
+[[ redirects ]]
+from = "/en/digitalrefugeelabs"
+to = "/archiv/digitalrefugeelabs/en/"
+
+[[ redirects ]]
+from = "/digitalrefugeelabs"
+to = "/archiv/digitalrefugeelabs/"
