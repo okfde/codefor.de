@@ -1467,3 +1467,6 @@ to = "/projekte/strassennamen-md/"
 from = "/projekte/2020-03-24-klimawatch.html"
 to = "/projekte/klimawatch/"
 
+[[ redirects ]]
+from = "/wahlsalons"
+to = "/archiv/wahlsalons/"
