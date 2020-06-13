@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ____        _       __                     __  __      _
+   / __ \____ _(_)___  / /_  ____ _      __   / / / /___  (_)________  _________
+  / /_/ / __ `/ / __ \/ __ \/ __ \ | /| / /  / / / / __ \/ / ___/ __ \/ ___/ __ \
+ / _, _/ /_/ / / / / / /_/ / /_/ / |/ |/ /  / /_/ / / / / / /__/ /_/ / /  / / / /
+/_/ |_|\__,_/_/_/ /_/_.___/\____/|__/|__/   \____/_/ /_/_/\___/\____/_/  /_/ /_/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>
+
+      Wahlsalons 2017 | Code for Germany
+
+  </title>
+
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width">
+
+  <meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@codeforde" />
+
+<meta property="og:title" content="Wahlsalons 2017">
+<meta property="og:url" content="http://codefor.de/archiv/wahlsalons/">
+
+<meta property="og:description" content="Wahlsalons 2017">
+
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/archiv/wahlsalons/assets/bootstrap.css">
+  <link rel="stylesheet" href="/archiv/wahlsalons/assets/main.css?v=1.7">
+
+  <!-- banner for global climate strike on September 20th, 2019 -->
+  <script src="https://assets.digitalclimatestrike.net/widget.js" async></script>
+
+  <script src="/archiv/wahlsalons/assets/jquery.js"></script>
+  <script src="/archiv/wahlsalons/assets/bootstrap.js"></script>
+
+  </head>
+
+  <body>
+    <!--[if lt IE 7]>
+    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div class="body-wrap">
+      <div class="page-wrap">
+        <div class="nav-wrap">
+
+    <div class="main-nav-wrapper">
+
+      <ul class="nav nav-meta">
+        <!--<li class="text-center">-->
+          <!---->
+          <!--<a href="http://2016de.codefor.de" target="_blank">Rückblick 2016</a>-->
+          <!---->
+        <!--</li>-->
+        <li class="text-center nav-meta-social">
+          <a href="https://twitter.com/codeforde">
+            <img src="/archiv/wahlsalons/assets/ionicons_svg_logo-twitter.svg" alt="Twitter" width="32" height="32">
+          </a>
+        </li>
+        <!-- <li class="text-center nav-meta-social">
+          <a href="http://goo.gl/pO9wkS" >g+</a>
+        </li> -->
+        <li class="text-center nav-meta-social">
+          <a href="https://github.com/okfde/codefor.de">
+            <img src="/archiv/wahlsalons/assets/ionicons_svg_logo-github.svg" alt="GitHub" width="32" height="32">
+          </a>
+        </li>
+      </ul>
+
+      <ul class="nav nav-pills">
+
+          <li class="element first  ">
+            <a href="/summit">Summit</a>
+          </li>
+
+          <li class="element   ">
+            <a href="/blog">Blog</a>
+          </li>
+
+          <li class="element   ">
+            <a href="/stadtgeschichten">Stadtgeschichten</a>
+          </li>
+
+          <li class="element   ">
+            <a href="/projekte">Projekte</a>
+          </li>
+
+          <li class="element   ">
+            <a href="/mitmachen">Mitmachen</a>
+          </li>
+
+          <li class="element   last">
+            <a href="/ueber">Über</a>
+          </li>
+
+      </ul>
+    </div>
+</div>
+
+        <div class="navbar">
+
+          <div class="logo">
+            <a class="" href="/">
+              <img class="img-responsive" src="/archiv/wahlsalons/assets/CFG_logo.svg" alt="Code for Germany">
+            </a>
+          </div>
+
+          <button class="mobile-menu-toggle">
+            <span>toggle menu</span>
+          </button>
+
+        </div>
+
+        <div class="ws-page-wrap" style="background-position-y: 0px, 0px, 0px;">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-lg-10 col-lg-offset-1">
+        <div class="story-wrapper fond__white fond__border">
+          <div class="ws-body clearfix">
+            <h1 class="text-hide ws-logo">Wahlsalons 2017</h1>
+            <p class="leadin">
+              Diesen Herbst findet die 19. Bundestagswahl statt. Zu diesem Anlass nehmen wir uns dieses Jahr das Thema Wahldaten und Wahlen als Schwerpunkt vor. Wir wollen nützliche und informative Tools rund um die Wahl entwickeln und mit Offenen Wahldaten arbeiten.
+            </p>
+            <p>
+             Vom <a href="http://wahllokalfinder.herokuapp.com">Wahllokalfinder</a> über den <a href="https://www.bpb.de/politik/wahlen/wahl-o-mat/">Wahl-o-mat</a>, Seiten wie <a href="http://www.abgeordnetenwatch.de">Abgeordnetenwatch</a> bis hin zum Faktenchecker - rund um Wahlen, Politik und Parteien gibt es eine Vielzahl an nützlichen Einsatzmöglichkeiten für Code und Design. Websites und Anwendungen können dabei helfen, Informationen besser aufzubereiten und zugänglicher zu machen. Auf Basis von offenen Daten können Civic-Tech-Tools entstehen, die Wählerinnen und Wähler besser informieren, sie zur Beteiligung anregen und spannende Zusammenhänge und Einblicke darstellen.
+            </p>
+            <p>
+              Für die 19. Bundestagswahl wollen wir in den OK Labs genau daran arbeiten. In Zusammenarbeit mit <a href="https://www.google.org">Google</a> organisieren wir in drei Städten Wahlsalons, um weitere Akteure aus Politik, Journalismus und Zivilgesellschaft mit der Civic Tech Community und weiteren Expertinnen zusammenzubringen. Im ersten Wahlsalon in Berlin findet ein Kickoff statt, im zweiten Salon gibt es ein Bericht über Projekte und Zwischenstände, zum dritten Wahlsalon werden die ausgearbeiteten Projekte und Ergebnisse vorgestellt.
+
+              Ziel der Wahl-Salons ist es, digitale Werkzeuge rund um die Bundestagswahl 2017 zu entwerfen, vorhandene Datensätze zu bearbeiten, aufzubessern und zu nutzen, komplexe Fragestellungen aufzubrechen und neue Kollaborationen rund um dieses Thema anzuregen.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+   <!-- Projekte -->
+   <div class="row">
+    <div class="col-lg-10 col-lg-offset-1 text__black">
+      <h2 class="section-heading">Teilnehmende Projekte</h2>
+      <div class="loading" style="display: none;">
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <div>...laden...</div>
+      </div>
+      <div class="packery-container" style="position: relative; height: 2627.72px; visibility: visible;">
+        <div class="packery-item-gutter"></div>
+
+        <div class="packery-item fond__border" style="position: absolute; left: 0px; top: 0px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <h4 class="project-title"><a href="/projekte/2017-05-23-wahllokalfinder.html"> Wahllokalfinder</a></h4>
+  <div class="project-description">
+
+        <p>Am Sonntag, den 14. Mai, wählte NRW einen neuen Landtag….</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/koeln">OK Lab Köln</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Laufend</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item fond__border" style="position: absolute; left: 462px; top: 0px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <a href="/projekte/2017-05-24-wahlprogrammat.html">
+    <img src="/projects/berlin/wahlprogrammquiz.png" alt="Project Image" class="project-image img-responsive">
+  </a>
+
+  <h4 class="project-title"><a href="/projekte/2017-05-24-wahlprogrammat.html"> Wahlprogrammquiz</a></h4>
+  <div class="project-description">
+
+        <p>Ein Quiz zu den Inhalten der Wahlprogramme der sechs Parteien….</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/berlin">OK Lab Berlin</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Laufend</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item fond__border" style="position: absolute; left: 0px; top: 243px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <a href="/projekte/2017-05-24-wepublic.html">
+    <img src="/projects/berlin/wepublic.png" alt="Project Image" class="project-image img-responsive">
+  </a>
+
+  <h4 class="project-title"><a href="/projekte/2017-05-24-wepublic.html"> Wepublic</a></h4>
+  <div class="project-description">
+
+        <p>Mit dem Projekt Wepublic möchten wir die digitale Kommunikation zwischen…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/berlin">OK Lab Berlin</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Laufend</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item fond__border" style="position: absolute; left: 462px; top: 546px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <h4 class="project-title"><a href="/projekte/2017-05-29-wahldatentransparenzranking.html"> Wahldatentransparenzranking</a></h4>
+  <div class="project-description">
+
+        <p>With the Wahldatentransparenzranking, we will examine the information offerings by…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/berlin">OK Lab Berlin</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Laufend</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item fond__border" style="position: absolute; left: 462px; top: 790px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <a href="/projekte/2017-07-07-twitterdashboard.html">
+    <img src="/projects/bonn/twitterDash.png" alt="Project Image" class="project-image img-responsive">
+  </a>
+
+  <h4 class="project-title"><a href="/projekte/2017-07-07-twitterdashboard.html"> Twitter Dashboard</a></h4>
+  <div class="project-description">
+
+        <p>Ein Dashboard mit analogen Zeigern signalisiert die Frequenz von Tweets,…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Laufend</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item fond__border" style="position: absolute; left: 0px; top: 842px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <h4 class="project-title"><a href="/projekte/2017-07-07-wahlbeteiligung.html"> Wahlbeteiligung</a></h4>
+  <div class="project-description">
+
+        <p>Das Projekt wahlbeteiligung soll die Wahlbeteiligung auf einer Karte veranschaulichen….</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/koeln">OK Lab Köln</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Laufend</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item fond__border" style="position: absolute; left: 0px; top: 1112px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <h4 class="project-title"><a href="/projekte/2017-07-07-wahlometer.html"> Wahl-O-Meter</a></h4>
+  <div class="project-description">
+
+        <p>Im Rahmen der Wahlsalons soll im Datenschatz der Wahl-O-Maten der…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab m-r-2" style="display: inline-block;">
+                <a href="/labs/ruhrgebiet">OK Lab Ruhrgebiet</a>
+              </div>
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/koeln">OK Lab Köln</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Laufend</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item fond__border" style="position: absolute; left: 462px; top: 1309px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <a href="/projekte/2017-07-24-wahlkompass-digitales.html">
+    <img src="/projects/berlin/Wahlkompass.png" alt="Project Image" class="project-image img-responsive">
+  </a>
+
+  <h4 class="project-title"><a href="/projekte/2017-07-24-wahlkompass-digitales.html"> Wahlkompass Digitales</a></h4>
+  <div class="project-description">
+
+        <p>Der Wahlkompass Digitales schafft Transparenz im Wahlkampf und zeigt, welche…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/berlin">OK Lab Berlin</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Laufend</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item fond__border" style="position: absolute; left: 0px; top: 1384px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <a href="/projekte/2017-09-24-bundestagswahl.html">
+    <img src="/projects/koeln/waswenn.png" alt="Project Image" class="project-image img-responsive">
+  </a>
+
+  <h4 class="project-title"><a href="/projekte/2017-09-24-bundestagswahl.html"> was wäre wenn</a></h4>
+  <div class="project-description">
+
+        <p>Die Forderung nach einem Gesetz, daß die Wahl ab 16…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/koeln">OK Lab Köln</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">abgeschlossen</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item fond__border" style="position: absolute; left: 0px; top: 1886px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <h4 class="project-title"><a href="/projekte/2017-09-24-wahlkarte-ka.html"> Karlsruher Wahlanzeiger</a></h4>
+  <div class="project-description">
+
+        <p>Verschiedenste spannende Visualisierungen der Karlsruher Wahldaten für die Bundestagswahl 2017….</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/karlsruhe">OK Lab Karlsruhe</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">abgeschlossen</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item fond__border" style="position: absolute; left: 462px; top: 1888px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <h4 class="project-title"><a href="/projekte/2017-09-24-wahlwatch-ka.html"> Wahlwatching Twitter-Bot</a></h4>
+  <div class="project-description">
+
+        <p>Live sehen, wann neue Wahlergebnisse eingetragen werden! Dieser Bot twittert…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/karlsruhe">OK Lab Karlsruhe</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">abgeschlossen</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item fond__border" style="position: absolute; left: 462px; top: 2132px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <a href="/projekte/2017-10-08-karlsruhe-btw2017-stadtteile.html">
+    <img src="/projects/karlsruhe/btw2017-stadtteile.png" alt="Project Image" class="project-image img-responsive">
+  </a>
+
+  <h4 class="project-title"><a href="/projekte/2017-10-08-karlsruhe-btw2017-stadtteile.html"> Die Bundestagswahl 2017 in den Karlsruher Stadtteilen</a></h4>
+  <div class="project-description">
+
+        <p>Jeder Karlsruher Stadtteil ist anders — wie hat sich das…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/karlsruhe">OK Lab Karlsruhe</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">abgeschlossen</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <!-- Projekte End -->
+
+    <div class="row">
+      <div class="col-lg-10 col-lg-offset-1 text__black">
+        <h2 class="section-heading">Veranstaltungen</h2>
+      </div>
+    </div>
+
+    <div class="row">
+      <div id="accordion" class="col-lg-10 col-lg-offset-1">
+
+          <div class="ws-teaser-wrapper fond__white fond__border">
+            <div class="ws-teaser">
+              <div class="ws-teaser-header clearfix">
+
+                <a data-toggle="collapse" href="#collapse-0" class="collapsed">
+
+                  <div class="clearfix">
+                    <h2 class="ws-teaser-title">Kick-off Berlin</h2>
+                    <span class="ws-teaser-date">24. Mai 2017</span>
+                  </div>
+
+                </a>
+
+              </div>
+
+              <div id="collapse-0" class="collapse">
+                <div class="ws-teaser-location clearfix">
+                  <div class="ws-teaser-space">Wikimedia Deutschland | Tempelhofer Ufer 23-24<br>16:45 Uhr - 21:00 Uhr</div>
+                  <div class="ws-teaser-labs">
+
+                    <a href="/labs/berlin/">
+                     OK Lab Berlin
+                   </a>
+
+                 </div>
+               </div>
+
+               <p>Der erste Wahlsalon in Berlin ist ein Kickoff, hier können Projekte vorgestellt und gestartet werden. Wir haben spannende Speakerinnen eingeladen, die uns Inputs zu Beginn liefern u.A. aus dem Büro des Bundeswahlleiters und von Google. Danach können sich die anwesenden Projekte vorstellen und direkt in’s praktische Arbeiten gehen und sich austauschen. Für Getränke und Snacks ist gesorgt. Solltet ihr Unterstützung bei Fahrtkosten benötigen, gebt uns einfach kurz <a href="mailto:fiona.krakenbuerger@okfn.de">bescheid</a>, wir informieren euch dann, wie ihr Erstattung beantragen könnt.<br></p>
+
+<ul>
+	<li>16:45 Ankommen</li>
+	<li>17:15 Begrüßung und Inputs, u.A. vom Büro des Bundeswahlleiters</li>
+	<li>18:15 Welche Projekte sind da? Kurze Pitches</li>
+	<li>18:30 Workshop: Praktisches Arbeiten in den Projekten und Austausch</li>
+	<li>20:15 Ergebnispräsentation aus den Gruppenarbeiten</li>
+	<li>20:45 Ausblick, Abschluss und Ausklang</li>
+	<li>21:00 🍻</li>
+</ul>
+<p><br></p>
+
+<p>Moderation: <a href="https://twitter.com/felixschlebusch?lang=de">Felix Schlebusch</a></p>
+
+                <a class="cta" href="/wahlsalons/1/" target="_blank">Jetzt anmelden!</a>
+
+             </div>
+
+           </div>
+         </div>
+
+          <div class="ws-teaser-wrapper fond__white fond__border">
+            <div class="ws-teaser">
+              <div class="ws-teaser-header clearfix">
+
+                <a data-toggle="collapse" href="#collapse-1" class="collapsed">
+
+                  <div class="clearfix">
+                    <h2 class="ws-teaser-title">Checkin Köln</h2>
+                    <span class="ws-teaser-date">07. Juli 2017</span>
+                  </div>
+
+                </a>
+
+              </div>
+
+              <div id="collapse-1" class="collapse">
+                <div class="ws-teaser-location clearfix">
+                  <div class="ws-teaser-space"><a href="http://www.die-wohngemeinschaft.net/en/">Die Wohngemeinschaft</a> | Richard-Wagner-Str. 39 | 50674 Cologne<br>16:00 Uhr - 21:00 Uhr</div>
+                  <div class="ws-teaser-labs">
+
+                    <a href="/labs/koeln/">
+                     OK Lab Köln
+                   </a>
+
+                 </div>
+               </div>
+
+               <p>In Köln wollen wir uns gegenseitig über den Stand der Projekte updaten, neue Mitstreiter suchen und uns über Erfolge und Hindernisse austauschen. Gastgeber sind das OK Lab Köln und <a href="http://hackinstitute">hack.institute</a>, die schon den <a href="http://wahldatenhelfer.de">Wahldatenhelfer-Hackathon </a>2013 veranstaltet haben.</p>
+
+<ul>
+	<li>16:00 Ankommen</li>
+	<li>16:30 Begrüßung und Inputs</li>
+	<li>17:30 Welche Projekte sind da? Kurze Pitches</li>
+	<li>18:00 Workshop: Praktisches Arbeiten in den Projekten und Austausch</li>
+	<li>20:15 Ergebnispräsentation aus den Gruppenarbeiten</li>
+	<li>20:45 Ausblick, Abschluss und Ausklang</li>
+	<li>21:00 🍻</li>
+</ul>
+<p><br></p>
+
+<p>Bei Fragen rund um’s Event einfach eine Mail an <a href="mailto:nadja@hack.institute">Nadja</a> von hack.institute schreiben.</p>
+
+<p>Die Open Knowledge Foundation übernimmt gerne Reisekosten für Besucherinnen, die anreisen möchten. Schreibt dazu einfach eine kurze Mail an <a href="mailto:fiona.krakenbuerger@okfn.de">Fiona</a>.</p>
+
+                <a class="cta" href="/wahlsalons/2/" target="_blank">Jetzt anmelden!</a>
+
+             </div>
+
+           </div>
+         </div>
+
+          <div class="ws-teaser-wrapper fond__white fond__border">
+            <div class="ws-teaser">
+              <div class="ws-teaser-header clearfix">
+
+                <a data-toggle="collapse" href="#collapse-2" class="collapsed">
+
+                  <div class="clearfix">
+                    <h2 class="ws-teaser-title">Showroom Berlin</h2>
+                    <span class="ws-teaser-date">1. September 2017</span>
+                  </div>
+
+                </a>
+
+              </div>
+
+              <div id="collapse-2" class="collapse">
+                <div class="ws-teaser-location clearfix">
+                  <div class="ws-teaser-space">Google Office | Unter den Linden 14 | 10117 Berlin<br>16 Uhr - 19 Uhr</div>
+                  <div class="ws-teaser-labs">
+
+                    <a href="/labs/berlin/">
+                     OK Lab Berlin
+                   </a>
+
+                 </div>
+               </div>
+
+               <p>Am 01 September treffen wir uns wieder, um uns über Civic Tech rund um Wahlen, Wahldaten, Demokratie und Politik auszutauschen. Sechs spannende Projekte werden ihre Tools und ihre Ziele vorstellen. Außerdem kriegen wir auch diesmal wieder Besuch aus dem Team des Bundeswahlleiters. Vier Mitarbeiterinnen werden über ihre Arbeit berichten und Fragen beantworten.</p>
+
+<p>Für Getränke und Snacks ist gesorgt. Solltet ihr Unterstützung bei Fahrtkosten benötigen, gebt uns einfach kurz <a href="mailto:fiona.krakenbuerger@okfn.de">bescheid</a>, wir informieren euch dann, wie ihr Erstattung beantragen könnt.</p>
+
+<ul>
+	<li>15:45 Ankommen</li>
+	<li>16:00 Begrüßung </li>
+	<li>16:15 Projekte-Showroom Teil 1</li>
+	<li>16:45 Input Bundeswahlleiter</li>
+	<li>17:15 Q&amp;A mit dem Büro des Bundeswahlleiters</li>
+	<li>17:45 Kurze Pause</li>
+	<li>18:00 Projekte-Showroom Teil 2</li>
+	<li>18:45 Abschluss und Ausblick</li>
+	<li>19:00 🍻</li>
+</ul>
+
+<p>Moderation: Katharina Meyer</p>
+
+                <a class="cta" href="/wahlsalons/3/" target="_blank">Jetzt anmelden!</a>
+
+             </div>
+
+           </div>
+         </div>
+
+     </div>
+   </div>
+
+    <div class="row">
+      <div class="col-lg-10 col-lg-offset-1 text__black">
+        <h2 class="section-heading">Community Events</h2>
+      </div>
+    </div>
+
+    <div class="row">
+      <div id="accordion" class="col-lg-10 col-lg-offset-1">
+
+          <div class="ws-teaser-wrapper fond__white fond__border">
+            <div class="ws-teaser">
+              <div class="ws-teaser-header clearfix">
+
+                <a data-toggle="collapse" href="#collapse-3" class="collapsed">
+
+                  <div class="clearfix">
+                    <h2 class="ws-teaser-title">Wahldaten Warmup</h2>
+                    <span class="ws-teaser-date">12. Mai 2017</span>
+                  </div>
+
+                </a>
+
+              </div>
+
+              <div id="collapse-3" class="collapse">
+                <div class="ws-teaser-location clearfix">
+                  <div class="ws-teaser-space">Wikipedia:Lokal K | Hackländerstraße 2, Köln<br>18:00 Uhr - open end</div>
+                  <div class="ws-teaser-labs">
+
+                    <a href="/labs/koeln/">
+                     OK Lab Köln
+                   </a>
+
+                 </div>
+               </div>
+
+               <p>Kurz vor den Wahlen wollen wir uns zu einem Kaltgetränk in lockerer Runde treffen…
+Es wird kleine Vorträge zu “Wahl-Apps” geben und Projekte werden vorgestellt.</p>
+
+<p><a href="https://www.meetup.com/de-DE/OKLab-Koln-Meetup/events/237754377/">Hier geht es zur Meetup Seite…</a></p>
+
+             </div>
+
+           </div>
+         </div>
+
+          <div class="ws-teaser-wrapper fond__white fond__border">
+            <div class="ws-teaser">
+              <div class="ws-teaser-header clearfix">
+
+                <a data-toggle="collapse" href="#collapse-4" class="collapsed">
+
+                  <div class="clearfix">
+                    <h2 class="ws-teaser-title">Wikipedia-Wikidata-Wahldaten-Workshop</h2>
+                    <span class="ws-teaser-date">23. - 25. Juni 2017</span>
+                  </div>
+
+                </a>
+
+              </div>
+
+              <div id="collapse-4" class="collapse">
+                <div class="ws-teaser-location clearfix">
+                  <div class="ws-teaser-space">Verschwörhaus | Weinhof 9, Ulm<br></div>
+                  <div class="ws-teaser-labs">
+
+                    <a href="/labs/ulm/">
+                     OK Lab Ulm
+                   </a>
+
+                 </div>
+               </div>
+
+               <p>Nach dem Erfolg des ersten Wikidata-Workshops im Dezember 2016 für die OKLabs findet Ende Juni wieder ein Workshop statt mit einem Fokus auf Wahldaten.</p>
+
+<p>Diesmal ist die Zielgruppe größer gefasst und neben Hack-a-thon und Edit-a-thon zum Thema Wahldaten wird es eine niedrigschwellige Einführung zum Thema Wikidata und SPARQL geben. Dazu gibt es noch kurze Inputvorträge zum Thema Wahlen und Wahldaten.</p>
+
+<p>Gastgeber ist erneut das Verschwörhau in Ulm. Wikimedia fördert die Veranstaltung mit Anreise, Unterbringung und Verpflegung. Mehr Infos und Anmeldung hier:</p>
+
+<p><a href="https://de.wikipedia.org/wiki/Wikipedia:Wikidata-Wahldaten-Workshop">Wikidata-Wahldaten-Workshop</a>.</p>
+
+             </div>
+
+           </div>
+         </div>
+
+          <div class="ws-teaser-wrapper fond__white fond__border">
+            <div class="ws-teaser">
+              <div class="ws-teaser-header clearfix">
+
+                <a data-toggle="collapse" href="#collapse-5" class="collapsed">
+
+                  <div class="clearfix">
+                    <h2 class="ws-teaser-title">Bundestagswahl Hackathon</h2>
+                    <span class="ws-teaser-date">22. - 24. September 2017</span>
+                  </div>
+
+                </a>
+
+              </div>
+
+              <div id="collapse-5" class="collapse">
+                <div class="ws-teaser-location clearfix">
+                  <div class="ws-teaser-space">Location tbd | Köln<br></div>
+                  <div class="ws-teaser-labs">
+
+                    <a href="/ko/">
+                     OK Lab Köln
+                   </a>
+
+                 </div>
+               </div>
+
+               <p>Anlässlich der 19. Bundestagswahl im Herbst laden das OK Lab Köln, hack.institute und die Stadt Köln zu einem Hackathon- Wochenende ein.</p>
+
+<p>Wir freuen uns auf ein Zusammenkommen von Programmierern, Designern, Kreativen und oder einfach interessierten Bürgern, auch ohne technischem Know-How.</p>
+
+<p>Zum knapp dreitägigen Hackathon wollen wir Ideen und Projekte auf Basis von offenen Wahldaten entwickeln und daraus nützliche und informative Werkzeuge und Services für die Bevölkerung entstehen lassen.</p>
+
+<p>Von Bürgern für Bürger.</p>
+
+<p>Wir möchten auf die Verfügbarkeit von aktueller und vergangener Open Data hinweisen, sie nutzen und damit die Wahlen transparenter und zugänglicher machen, und die Wahlbeteiligung anregen.</p>
+
+<p><a href="http://hack.institute/de/bundestagswahl-hackathon/">Anmeldung und Ablauf hier</a>.</p>
+
+             </div>
+
+           </div>
+         </div>
+
+          <div class="ws-teaser-wrapper fond__white fond__border">
+            <div class="ws-teaser">
+              <div class="ws-teaser-header clearfix">
+
+                <a data-toggle="collapse" href="#collapse-6" class="collapsed">
+
+                  <div class="clearfix">
+                    <h2 class="ws-teaser-title">Karlsruher Bundestagswahl-Hackathon</h2>
+                    <span class="ws-teaser-date">23. - 24. September 2017</span>
+                  </div>
+
+                </a>
+
+              </div>
+
+              <div id="collapse-6" class="collapse">
+                <div class="ws-teaser-location clearfix">
+                  <div class="ws-teaser-space">netzstrategen | Alter Schlachthof 47 | Karlsruhe<br></div>
+                  <div class="ws-teaser-labs">
+
+                    <a href="/labs/karlsruhe/">
+                     OK Lab Karlsruhe
+                   </a>
+
+                 </div>
+               </div>
+
+               <p>Am Wahlwochenende machen wir es uns gemütlich: Bei der Open-Data-Wahlparty! Wahlen generieren Unmengen an Daten - viele davon sind offen und können von uns für spannende Visualisierungen und kleine Hacks genutzt werden. Echtzeitanalysen von Tweets? Daten-Mashups aus offenen Quellen?  Pack deine Ideen und dein Laptop ein und feier mit uns!
+Am Wochenende der Bundestagswahl veranstaltet das OK Lab Karlsruhe einen Hackathon, bei dem sich Entwicklerinnen, Designer, Journalistinnen sowie politisch Interessierte zusammenfinden, um gemeinsam an spannenden Projekten rund um die Wahl und die damit entstehenden Daten zu arbeiten.
+<a href="https://www.meetup.com/de-DE/OK-Lab-Karlsruhe/events/243228149/?eventId=243228149">Alle Infos und die Anmeldung findest du hier auf Meetup.com.</a></p>
+
+             </div>
+
+           </div>
+         </div>
+
+     </div>
+   </div>
+
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1 text__black">
+
+      <h2 class="section-heading">FAQ</h2>
+
+      <div class="panel-group" id="accordion-faq">
+        <div class="panel">
+          <div>
+            <h4>
+              <a data-toggle="collapse" data-parent="#accordion-2" href="#collapse-faq-1">
+                Warum Wahlsalons?
+              </a>
+            </h4>
+          </div>
+          <div id="collapse-faq-1" class="panel-collapse collapse">
+            <div class="panel-body">
+              <p>Rund um die US-Wahl gab es eine Vielzahl an digitalen Werkzeugen und Services für BürgerInnen. Für die 19. Bundestagswahl wollen wir solche digitalen Wahlwerkzeuge auch für WählerInnen in Deutschland entwickeln. Dazu braucht es interdisziplinäre Teams mit ExpertInnen aus den Bereichen Softwareentwicklung, Design, Journalismus und Politik. In der Code for Germany Community hatte sich schon letztes Jahr ein großes Interesse an Wahldaten abgezeichnet, gleichzeitig haben sich immer mehr Akteure aus Journalismus, Politik und Aktivismus vernetzt. Dieses Interesse und mögliche Kollaborationen wollen wir fördern und darüber hinaus die Wahlen 2017 mit technischen Tools begleiten.</p>
+              </div>
+            </div>
+          </div>
+          <div class="panel">
+            <div>
+              <h4>
+                <a class="highlight-red" data-toggle="collapse" data-parent="#accordion-2" href="#collapse-faq-2">
+                  Was wollen wir damit erreichen?</a>
+                </h4>
+              </div>
+              <div id="collapse-faq-2" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p>Wir wollen der Community und Interessierten die Möglichkeit geben, sich fokussiert mit Wahlen auseinander zu setzen und sie dabei mit weiteren Akteuren vernetzen. So können spannende Anwendungen und Projekte rund um Wahlen, Wahlergebnisse und Politik entwickelt werden. Wir denken, dass es noch viel Potential rund um Wahlen gibt, sei es, Wahldaten besser aufzubereiten oder Bürgerinnen besser über Wahlen und Politik zu informieren. Ziel ist es nicht, Wahlen zu beeinflussen oder die Politik umzukrempeln. Aber wir denken, verbesserte Kommunikation mit - und Information von Bürgerinnen dazu beitragen kann, Menschen zur Partizipation zu bewegen und demokratische Prozesse zugänglicher zu machen.</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel">
+              <div>
+                <h4>
+                  <a data-toggle="collapse" data-parent="#accordion-2" href="#collapse-faq-3">
+                    Wer steckt dahinter?</a>
+                  </h4>
+                </div>
+                <div id="collapse-faq-3" class="panel-collapse collapse">
+                  <div class="panel-body">
+                    <p>Die Wahlsalons werden von Code for Germany und Google organisiert. Code for Germany ist ein Netzwerk aus 25 Open Knowledge Labs, in denen Ehrenamtliche ihre Fähigkeiten im Bereich Softwareentwicklung, Design, Stadtplanung, Kommunikation uvm. für ihre Städte und Nachbarschaft einsetzen. Code for Germany ist ein Programm der Open Knowledge Foundation, ein gemeinnütziger Verein mit Sitz in Berlin, der sich für Transparenz, Informationsfreiheit und Civic Tech einsetzt.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="panel">
+                  <div>
+                    <h4>
+                      <a data-toggle="collapse" data-parent="#accordion-2" href="#collapse-faq-4">
+                        Wie kann ich mitmachen?</a>
+                      </h4>
+                    </div>
+                    <div id="collapse-faq-4" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <p>Besuche einen der Wahlsalons und bring eine eigene Idee mit ein oder unterstütze die Projekte, die vor Ort entwickelt werden. Falls du nicht zu den Events kommen kannst, gibt es auch die Möglichkeit, die Projekte remote zu unterstützen, entweder direkt auf github oder indem die Teams kontaktiert werden. Welche Projekte rund um Wahlen es gibt, wo der Code liegt und wer Ansprechpartner ist erfährst du hier in der Projektliste.</p>
+
+                        </div>
+                      </div>
+                    </div>
+
+                    </div>
+<!--                     <p>Noch offene Fragen? Dann kontaktiere uns gerne unter info[at]codefor.de</p>
+ -->                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="jumbotron fond__white partner">
+              <div class="container">
+
+                <div class="row text-left">
+                  <div class="col-xs-12">
+                    <ul class="clearfix">
+                      <li></li>
+                      <li>
+                        Ein Projekt von
+                      </li>
+                      <li>
+                      </li>
+                      <li>
+                        Partner
+                      </li>
+                      <li>
+                      </li>
+                    </ul>
+                  </div>
+
+                </div>
+                <div class="row text-center">
+                  <div class="col-xs-12">
+                    <ul class="clearfix">
+                      <li></li>
+                      <li>
+                        <a href="http://www.okfn.de/"><img class="okfn-logo img-responsive" src="/archiv/wahlsalons/assets/OKFN.png" alt="OKFN Logo"></a>
+                      </li>
+
+                      <li>
+                      <img class="google-logo img-responsive" src="/archiv/wahlsalons/assets/google.png" alt="Google Logo">
+                      </li>
+
+                      <li>
+                        <a href="http://hack.institute/en/home/"><img class="okfn-logo img-responsive" src="/archiv/wahlsalons/assets/hack_institute.png" alt="Hack Institute Logo"></a>
+                      </li>
+
+                    </ul>
+                </div>
+
+              </div>
+            </div>
+            </div>
+            </div>
+
+        <footer>
+
+          <div class="jumbotron fond__grey meta-links-foot">
+            <div class="container">
+              <div class="row text-center text-uppercase">
+                <div class="col-lg-12">
+
+                    <a href="/impressum">Kontakt &amp; Impressum</a>
+                    •
+                    <a href="/ressourcen">Ressourcen</a>
+                    •
+                    <a href="/code-of-conduct">Code of Conduct</a>
+                    •
+                    <a href="https://codefor.de/blog/Code-For-Climate-Open-Data-Day.html">Unterstützung durch Deutsche Postcode Lotterie</a>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+    </footer>
+  </div>
+
+</body>
+</html>
