@@ -688,6 +688,10 @@ from = "/en/stadtgeschichten/6buerger-baut-stadt/"
 to = "/blog/story-citizen-builds-city-berlin"
 
 [[redirects]]
+from = "/summit/"
+to = "/archiv/summit/"
+
+[[ redirects ]]
 from = "/projekte/alle/"
 to = "/projekte/archiv/"
 
@@ -1462,3 +1466,51 @@ to = "/projekte/strassennamen-md/"
 [[ redirects ]]
 from = "/projekte/2020-03-24-klimawatch.html"
 to = "/projekte/klimawatch/"
+
+[[ redirects ]]
+from = "/wahlsalons"
+to = "/archiv/wahlsalons/"
+
+[[ redirects ]]
+from = "/en/digitalrefugeelabs"
+to = "/archiv/digitalrefugeelabs/en/"
+
+[[ redirects ]]
+from = "/digitalrefugeelabs"
+to = "/archiv/digitalrefugeelabs/"
+
+[[ redirects ]]
+from = "/projekte/2016-07-18-be-drl-empower-rangers.html"
+to = "/projekte/be-drl-empower-rangers"
+
+[[ redirects ]]
+from = "/projekte/2016-07-20-be-drl-refugeeworks.html"
+to = "/projekte/be-drl-refugeeworks"
+
+[[ redirects ]]
+from = "/projekte/2016-07-23-metacollect.html"
+to = "/projekte/metacollect"
+
+[[ redirects ]]
+from = "/projekte/2016-07-20-le-drl-amikeco.html"
+to = "/projekte/le-drl-amikeco"
+
+[[ redirects ]]
+from = "/projekte/2016-07-20-le-drl-amikeco.html"
+to = "/projekte/le-drl-amikeco"
+
+[[ redirects ]]
+from = "/projekte/2016-07-26-be-drl-volunteer-planner.html"
+to = "/projekte/be-drl-volunteer-planner"
+
+[[ redirects ]]
+from = "/projekte/2016-08-15-karlsruhe-drl-integrations-timeline.html"
+to = "/projekte/karlsruhe-drl-integrations-timeline"
+
+[[ redirects ]]
+from = "/projekte/2016-08-15-karlsruhe-drl-welcome.html"
+to = "/projekte/karlsruhe-drl-welcome"
+
+[[ redirects ]]
+from = "/projekte/2016-08-15-karlsruhe-drl-schauhin.html"
+to = "/projekte/karlsruhe-drl-schauhin"
