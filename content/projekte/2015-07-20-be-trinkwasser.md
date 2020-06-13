@@ -24,6 +24,6 @@ Trinkwasser gilt als das am besten kontrollierte Lebensmittel in Deutschland. Un
 Selbst wenn die Zahlen auf den Webseiten der Kommunen veröffentlicht sind, sind sie oft schlecht auffindbar und bleiben für den Bürger eine abstrakte Größe. Was bedeutet ein Härtegrad von 9? Sind 200 Milligramm Calcium pro Liter viel oder wenig? Wie mineralreich unser Leitungswasser ist, zeigt sich erst, wenn wir es untereinander und mit Wasser aus dem Handel vergleichen können.
 </blockquote>
 
-So der Originaltext aus dem [Heilbronner Projekt](http://codefor.de/projekte/2014-03-22-hn-trinkwasser.html).
+So der Originaltext aus dem [Heilbronner Projekt]({{<ref "/projekte/2014-03-22-hn-trinkwasser.md">}}).
 
 Hierbei handelt es sich um die Berliner Version, die die [Daten der BWB](http://www.bwb.de/content/language1/downloads/WW_Analysedaten_2014.pdf) visualisiert.

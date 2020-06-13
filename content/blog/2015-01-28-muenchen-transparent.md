@@ -25,8 +25,8 @@ Die Software hinter „München Transparent“ ist Open Source (den Quellcode gi
 
 
 [München Transparent]: https://www.muenchen-transparent.de
-[OK Lab]: http://codefor.de/muenchen
-[Code for Germany]: http://codefor.de
+[OK Lab]: {{< ref "/labs/muenchen" >}}
+[Code for Germany]: {{< ref "/" >}}
 [Ratsinformationssystem]: http://de.wikipedia.org/wiki/Ratsinformationssystem
 [Glossar]: https://www.muenchen-transparent.de/infos/glossar
 [grundlegende Erklärung]: https://www.muenchen-transparent.de/infos/soFunktioniertStadtpolitik

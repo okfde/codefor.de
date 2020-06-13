@@ -58,12 +58,12 @@ Dir noch einen schönen Tag!</b>
 Dankeschön, Fiona, dir auch noch einen schönen Tag.
 
 
-[OK Lab Münster]: http://codefor.de/blog/oklab-muenster
+[OK Lab Münster]: {{< ref "/blog/2014-05-23-oklab-muenster.md" >}}
 [Morris Jobke]: http://morrisjobke.de/
 [Tobias Gall]: https://github.com/symptog
 [Chaostreff]: https://www.chaoschemnitz.de/
 [Webseite]: http://codeforchemnitz.de
-[codefor.de]: http://codefor.de/chemnitz
+[codefor.de]: {{< ref "/labs/chemnitz" >}}
 [Twitter]: http://twitter.com/codeforchemnitz
 [G+]: https://plus.google.com/communities/101049062262477568057?utm_source=chrome_ntp_icon&utm_medium=chrome_app&utm_campaign=chrome
 [Facebook]: https://www.facebook.com/codeforchemnitz
@@ -71,7 +71,7 @@ Dankeschön, Fiona, dir auch noch einen schönen Tag.
 [Projekt aus Dresden]: http://kitakarte.okdd.de
 [Öffi]: http://oeffi.schildbach.de
 [CVAG]: http://www.cvag.de
-[Bild]: http://codefor.de/blog/Gruendung-OK-Lab-Chemnitz
+[Bild]: {{< ref "/blog/2014-04-14-Gruendung-OK-Lab-Chemnitz.md" >}}
 [E-Mail]: mailto:codeforchemnitz@lists.okfn.org
 [aktuellen Daten]: http://codeforchemnitz.de/news/Analyse-Baustellendaten.html
 [Haltestellen]: http://codeforchemnitz.de/news/Haltestellen.html

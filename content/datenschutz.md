@@ -11,7 +11,7 @@ Datenschutzerklärung
 {{< /headline-brackets-h1  >}}
 
 {{< paragraph-center  >}}
- <p>Die Open Knowledge Foundation Deutschland e.V., Singerstr. 109, 10179 Berlin Deutschland (nachfolgend als „Open Knowledge Foundation“ oder „wir“ bezeichnet) betreibt die im Internet unter https://codefor.de/ und den jeweils dazu gehörenden Unterverzeichnissen abrufbare Internetseite (nachfolgend die „Website“ genannt).</p>
+ <p>Die Open Knowledge Foundation Deutschland e.V., Singerstr. 109, 10179 Berlin Deutschland (nachfolgend als „Open Knowledge Foundation“ oder „wir“ bezeichnet) betreibt die im Internet unter {{< ref "/" >}} und den jeweils dazu gehörenden Unterverzeichnissen abrufbare Internetseite (nachfolgend die „Website“ genannt).</p>
 
 <p>Die Open Knowledge Foundation möchte Ihnen mit dieser Datenschutzerklärung erläutern, welche Daten in welcher Form verarbeitet werden, wenn Sie unsere Website besuchen. Hiermit kommen wir zugleich unserer Informationspflicht gem. Art. 13 Datenschutz-Grundverordnung (DS-GVO) Ihnen gegenüber nach.</p>
 

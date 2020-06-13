@@ -11,7 +11,7 @@ draft: false
 
 # Rückblick auf unseren Open Data Day 2018
 
-Am Samstag, 3. März 2018, fand der jährliche Open Data Day statt. Der Tag wird schon zum fünften Jahr in Folge von Aktivistinnen und Aktivisten auf der ganzen Welt dafür genutzt, um auf die Bedeutung und das Potential offener Daten für die Gesellschaft hinzuweisen. An insgesamt 15 verschiedenen [Veranstaltungen](https://codefor.de/blog/open-data-day.html) quer durch Deutschland nahmen über 500 Leute teil.
+Am Samstag, 3. März 2018, fand der jährliche Open Data Day statt. Der Tag wird schon zum fünften Jahr in Folge von Aktivistinnen und Aktivisten auf der ganzen Welt dafür genutzt, um auf die Bedeutung und das Potential offener Daten für die Gesellschaft hinzuweisen. An insgesamt 15 verschiedenen [Veranstaltungen]({{< ref "/blog/2018-03-01-open-data-day.md" >}}) quer durch Deutschland nahmen über 500 Leute teil.
 
 ### Von Luftdatenqualität bis LoRaWAN
 
@@ -29,4 +29,4 @@ Die Veranstaltung in Karlsruhe stand in einem besonderen Rahmen, da sie innerhal
 
 Im Stadtweinhaus in [Münster](http://codeformuenster.org/blog/2018/03/06/odd-2018/) wurde Open Data ebenfalls mit einem Impulsvortrag von Seiten der Stadt thematisiert, wobei es besonders spannend war, die Sicht des leitenden IT-Dienstleisters mitzubekommen. In Osnabrück hat sich das Lab in der Stadtbibliothek vorgestellt um dort den direkten Dialog mit Bürgerinnen zu suchen. In Jena stand die Kooperation mit der Thüringer Landesanstalt für Umwelt und Geologie im Vordergrund. In Heilbronn und Potsdam wurde der Tag mit offenen Barcamp Formaten gestartet, das heißt die Teilnehmer brachten hier ihre eigenen Workshop-Ideen mit und setzen sie in die Tat um.
 
-Über die rege Teilnahme am Open Data Day 2018 haben wir uns sehr gefreut. Das nach fünf Jahren auch zahlreiche städtische Verwaltungen selbst zu den gelungenen Veranstaltungen beitrugen ist ebenfalls ein großer Erfolg. Wenn ihr Lust bekommen habt euch den Labs anzuschließen, schaut auf [codefor.de](https://codefor.de/) vorbei und kommt zum nächsten Treffen in eurer Nähe.
+Über die rege Teilnahme am Open Data Day 2018 haben wir uns sehr gefreut. Das nach fünf Jahren auch zahlreiche städtische Verwaltungen selbst zu den gelungenen Veranstaltungen beitrugen ist ebenfalls ein großer Erfolg. Wenn ihr Lust bekommen habt euch den Labs anzuschließen, schaut auf [codefor.de]({{< ref "/" >}}) vorbei und kommt zum nächsten Treffen in eurer Nähe.

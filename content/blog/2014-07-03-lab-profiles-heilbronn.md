@@ -21,5 +21,5 @@ Das [OK Lab Heilbronn][] arbeitet an ganz verschiedenen Themen, die unmittelbar 
 In enger Zusammenarbeit mit lokalen Verwaltungen konnte das Lab die Daten zusammentragen und hat sie auf der Website "[Was steckt in meinem Leitungswasser][]" anschaulich aufbereitet. Auf der sehr schön designeten Website können die Bürger und Bürgerinnen die Wasserqualität für jede Gemeinde einsehen, welche Inhaltsstoffe im Leitungswasser stecken, wie sie sich zum Durchschnittswert verhalten und was das eigentlich für unsere Gesundheit bedeutet.
 „Was steckt in meinem Leitungswasser“ ist eine Anwendung, die hervorragend zeigen kann, wie nützlich Offene Daten sein können und ist laut Aussage des Labs bisher ein super Türöffner gewesen, um mit der Stadtverwaltung ins Gespräch zu kommen. Auch diese Anwendung wurde bereits adaptiert und wird bald auf Köln gemünzt.
 
-[OK Lab Heilbronn]: http://codefor.de/heilbronn
+[OK Lab Heilbronn]: {{< ref "/labs/heilbronn" >}}
 [Was steckt in meinem Leitungswasser]: http://opendatalab.de/projects/trinkwasser/
