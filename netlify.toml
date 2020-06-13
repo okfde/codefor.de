@@ -630,3 +630,835 @@ to = "/blog/warum-wir-ueber-wahldaten-reden-muessen/"
 [[redirects]]
 from = "/blog/wikidata.html"
 to = "/blog/wikidata/"
+
+[[redirects]]
+from = "/stadtgeschichten"
+to = "/blog/stadtgeschichten"
+
+[[redirects]]
+from = "/en/stadtgeschichten"
+to = "/blog/stadtgeschichten"
+
+[[redirects]]
+from = "/stadtgeschichten/1feinstaub"
+to = "/blog/stadtgeschichte-feinstaub-stuttgart"
+
+[[redirects]]
+from = "/stadtgeschichten/2tal-o-mat"
+to = "/blog/stadtgeschichte-tal-o-mat-wuppertal"
+
+[[redirects]]
+from = "/stadtgeschichten/3magdego"
+to = "/blog/stadtgeschichte-magdego-magdeburg"
+
+[[redirects]]
+from = "/stadtgeschichten/4parkenDD"
+to = "/blog/stadtgeschichte-parkendd-dresden"
+
+[[redirects]]
+from = "/stadtgeschichten/5muenchen-transparent"
+to = "/blog/stadtgeschichte-muenchen-transparent-muenchen"
+
+[[redirects]]
+from = "/stadtgeschichten/6buerger-baut-stadt/"
+to = "/blog/stadtgeschichte-buerger-baut-stadt-berlin"
+
+[[redirects]]
+from = "/en/stadtgeschichten/1feinstaub"
+to = "/blog/story-air-pollution-stuttgart"
+
+[[redirects]]
+from = "/en/stadtgeschichten/2tal-o-mat"
+to = "/blog/story-tal-o-mat-wuppertal"
+
+[[redirects]]
+from = "/en/stadtgeschichten/3magdego"
+to = "/blog/story-magdego-magdeburg"
+
+[[redirects]]
+from = "/en/stadtgeschichten/4parkenDD"
+to = "/blog/story-parkendd-dresden"
+
+[[redirects]]
+from = "/en/stadtgeschichten/5muenchen-transparent"
+to = "/blog/story-muenchen-transparent-munich"
+
+[[redirects]]
+from = "/en/stadtgeschichten/6buerger-baut-stadt/"
+to = "/blog/story-citizen-builds-city-berlin"
+
+[[redirects]]
+from = "/projekte/alle/"
+to = "/projekte/archiv/"
+
+[[ redirects ]]
+from = "/projekte/2011-12-31-accessmap.html"
+to = "/projekte/accessmap/"
+
+[[ redirects ]]
+from = "/projekte/2011-12-31-buergerbautstadt.html"
+to = "/projekte/buergerbautstadt/"
+
+[[ redirects ]]
+from = "/projekte/2011-12-31-ernteteilen.html"
+to = "/projekte/ernteteilen/"
+
+[[ redirects ]]
+from = "/projekte/2013-08-05-hn-geojson-utilities.html"
+to = "/projekte/hn-geojson-utilities/"
+
+[[ redirects ]]
+from = "/projekte/2014-02-22-hn-crimemap.html"
+to = "/projekte/hn-crimemap/"
+
+[[ redirects ]]
+from = "/projekte/2014-02-22-hn-muellabfuhrtermine.html"
+to = "/projekte/hn-muellabfuhrtermine/"
+
+[[ redirects ]]
+from = "/projekte/2014-03-22-hn-trinkwasser.html"
+to = "/projekte/hn-trinkwasser/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-04-Baustellen-Chemnitz.html"
+to = "/projekte/Baustellen-Chemnitz/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-09-Berlin-Lichtenberg.html"
+to = "/projekte/Berlin-Lichtenberg/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-09-Vornamen.html"
+to = "/projekte/Vornamen/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-16-cctvwatch.html"
+to = "/projekte/cctvwatch/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-19-dd-freieparkplaetze.html"
+to = "/projekte/dd-freieparkplaetze/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-19-dd-kitakarte.html"
+to = "/projekte/dd-kitakarte/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-22-be-wahlversprechen.html"
+to = "/projekte/be-wahlversprechen/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-22-disabled-railway.html"
+to = "/projekte/disabled-railway/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-24-rberlindata.html"
+to = "/projekte/rberlindata/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-25-hh-laenderfinanzausgleich.html"
+to = "/projekte/hh-laenderfinanzausgleich/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-27-hh-baumkataster.html"
+to = "/projekte/hh-baumkataster/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-27-hh-kitaKarte.html"
+to = "/projekte/hh-kitaKarte/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-27-hh-spielplatzwuesten.html"
+to = "/projekte/hh-spielplatzwuesten/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-28-dd-ratskarte.html"
+to = "/projekte/dd-ratskarte/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-30-Maifeuer-Chemnitz.html"
+to = "/projekte/Maifeuer-Chemnitz/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-30-stolpersteine-app.html"
+to = "/projekte/stolpersteine-app/"
+
+[[ redirects ]]
+from = "/projekte/2014-04-30-ulm-projekte.html"
+to = "/projekte/ulm-projekte/"
+
+[[ redirects ]]
+from = "/projekte/2014-05-01-portable-linked-profiles.html"
+to = "/projekte/portable-linked-profiles/"
+
+[[ redirects ]]
+from = "/projekte/2014-05-05-le-luftqualitaet_sachsen.html"
+to = "/projekte/le-luftqualitaet_sachsen/"
+
+[[ redirects ]]
+from = "/projekte/2014-05-06-le-kitas_und_schulen_in_leipzig.html"
+to = "/projekte/le-kitas_und_schulen_in_leipzig/"
+
+[[ redirects ]]
+from = "/projekte/2014-05-19-be-tempelhof.html"
+to = "/projekte/be-tempelhof/"
+
+[[ redirects ]]
+from = "/projekte/2014-05-22-c-Haltestellen.html"
+to = "/projekte/c-Haltestellen/"
+
+[[ redirects ]]
+from = "/projekte/2014-05-28-ms-wahlkarte.html"
+to = "/projekte/ms-wahlkarte/"
+
+[[ redirects ]]
+from = "/projekte/2014-06-04-hh-bruecken.html"
+to = "/projekte/hh-bruecken/"
+
+[[ redirects ]]
+from = "/projekte/2014-06-12-hn-buga.html"
+to = "/projekte/hn-buga/"
+
+[[ redirects ]]
+from = "/projekte/2014-06-17-geodata-time.html"
+to = "/projekte/geodata-time/"
+
+[[ redirects ]]
+from = "/projekte/2014-06-17-hh-baualterskarte.html"
+to = "/projekte/hh-baualterskarte/"
+
+[[ redirects ]]
+from = "/projekte/2014-06-17-umweltzone.html"
+to = "/projekte/umweltzone/"
+
+[[ redirects ]]
+from = "/projekte/2014-06-20-offenerrat.html"
+to = "/projekte/offenerrat/"
+
+[[ redirects ]]
+from = "/projekte/2014-06-21-wahlprogramm-matrix.html"
+to = "/projekte/wahlprogramm-matrix/"
+
+[[ redirects ]]
+from = "/projekte/2014-06-23-aedmap.html"
+to = "/projekte/aedmap/"
+
+[[ redirects ]]
+from = "/projekte/2014-06-23-trinkwasser.html"
+to = "/projekte/trinkwasser/"
+
+[[ redirects ]]
+from = "/projekte/2014-06-25-badeseen.html"
+to = "/projekte/badeseen/"
+
+[[ redirects ]]
+from = "/projekte/2014-06-25-historic-berlin.html"
+to = "/projekte/historic-berlin/"
+
+[[ redirects ]]
+from = "/projekte/2014-06-26-altglas.html"
+to = "/projekte/altglas/"
+
+[[ redirects ]]
+from = "/projekte/2014-06-30-hh-thingsonbikelanes.html"
+to = "/projekte/hh-thingsonbikelanes/"
+
+[[ redirects ]]
+from = "/projekte/2014-07-01-be-blume.html"
+to = "/projekte/be-blume/"
+
+[[ redirects ]]
+from = "/projekte/2014-07-01-le-lvz_polizeiticker_visualisierung.html"
+to = "/projekte/le-lvz_polizeiticker_visualisierung/"
+
+[[ redirects ]]
+from = "/projekte/2014-07-03-Bodenrichtwerte.html"
+to = "/projekte/Bodenrichtwerte/"
+
+[[ redirects ]]
+from = "/projekte/2014-07-04-Vornamen-in-Berlin.html"
+to = "/projekte/Vornamen-in-Berlin/"
+
+[[ redirects ]]
+from = "/projekte/2014-07-10-muc-finder.html"
+to = "/projekte/muc-finder/"
+
+[[ redirects ]]
+from = "/projekte/2014-07-13-le-ratskarte_leipzig.html"
+to = "/projekte/le-ratskarte_leipzig/"
+
+[[ redirects ]]
+from = "/projekte/2014-07-14-Muenchen-Transparent.html"
+to = "/projekte/Muenchen-Transparent/"
+
+[[ redirects ]]
+from = "/projekte/2014-07-14-newcomer.html"
+to = "/projekte/newcomer/"
+
+[[ redirects ]]
+from = "/projekte/2014-07-21-dbpediaplacesberlin.html"
+to = "/projekte/dbpediaplacesberlin/"
+
+[[ redirects ]]
+from = "/projekte/2014-07-28-gedenktafelnberlin.html"
+to = "/projekte/gedenktafelnberlin/"
+
+[[ redirects ]]
+from = "/projekte/2014-08-19-badeseen.html"
+to = "/projekte/badeseen/"
+
+[[ redirects ]]
+from = "/projekte/2014-08-19-pb-kneipen.html"
+to = "/projekte/pb-kneipen/"
+
+[[ redirects ]]
+from = "/projekte/2014-09-03-abschiebungen.html"
+to = "/projekte/abschiebungen/"
+
+[[ redirects ]]
+from = "/projekte/2014-09-12-flaechengerechtigkeit.html"
+to = "/projekte/flaechengerechtigkeit/"
+
+[[ redirects ]]
+from = "/projekte/2014-09-22-hh-zuwendungen.html"
+to = "/projekte/hh-zuwendungen/"
+
+[[ redirects ]]
+from = "/projekte/2014-10-13-hh-echtzeit.html"
+to = "/projekte/hh-echtzeit/"
+
+[[ redirects ]]
+from = "/projekte/2014-10-15-offener-haushalt-muenster.html"
+to = "/projekte/offener-haushalt-muenster/"
+
+[[ redirects ]]
+from = "/projekte/2014-11-02-be-wartezeit-moers.html"
+to = "/projekte/be-wartezeit-moers/"
+
+[[ redirects ]]
+from = "/projekte/2014-11-05-flaechentool.html"
+to = "/projekte/flaechentool/"
+
+[[ redirects ]]
+from = "/projekte/2014-11-26-be-xmas.html"
+to = "/projekte/be-xmas/"
+
+[[ redirects ]]
+from = "/projekte/2014-11-29-hn-kastanienapp.html"
+to = "/projekte/hn-kastanienapp/"
+
+[[ redirects ]]
+from = "/projekte/2014-12-04-ms-weihnachtsmarkt.html"
+to = "/projekte/ms-weihnachtsmarkt/"
+
+[[ redirects ]]
+from = "/projekte/2014-12-05-Blitzerkarte-Chemnitz.html"
+to = "/projekte/Blitzerkarte-Chemnitz/"
+
+[[ redirects ]]
+from = "/projekte/2014-12-10-ms-parkleit-api.html"
+to = "/projekte/ms-parkleit-api/"
+
+[[ redirects ]]
+from = "/projekte/2014-12-14-ffpb-krombel.html"
+to = "/projekte/ffpb-krombel/"
+
+[[ redirects ]]
+from = "/projekte/2014-12-15-pb-parking.html"
+to = "/projekte/pb-parking/"
+
+[[ redirects ]]
+from = "/projekte/2014-12-22-cologne-spielplaetze.html"
+to = "/projekte/cologne-spielplaetze/"
+
+[[ redirects ]]
+from = "/projekte/2015-01-05-cologne-schulen-in-koeln.html"
+to = "/projekte/cologne-schulen-in-koeln/"
+
+[[ redirects ]]
+from = "/projekte/2015-01-15-cologne-verkehr.html"
+to = "/projekte/cologne-verkehr/"
+
+[[ redirects ]]
+from = "/projekte/2015-01-15-muc-ddj.html"
+to = "/projekte/muc-ddj/"
+
+[[ redirects ]]
+from = "/projekte/2015-01-15-muc-defis.html"
+to = "/projekte/muc-defis/"
+
+[[ redirects ]]
+from = "/projekte/2015-01-30-hh-demogenerator.html"
+to = "/projekte/hh-demogenerator/"
+
+[[ redirects ]]
+from = "/projekte/2015-02-20-ka-strassennamen.html"
+to = "/projekte/ka-strassennamen/"
+
+[[ redirects ]]
+from = "/projekte/2015-02-21-hn-klickde.html"
+to = "/projekte/hn-klickde/"
+
+[[ redirects ]]
+from = "/projekte/2015-02-21-hn-landtag.html"
+to = "/projekte/hn-landtag/"
+
+[[ redirects ]]
+from = "/projekte/2015-02-21-hn-osm-editor.html"
+to = "/projekte/hn-osm-editor/"
+
+[[ redirects ]]
+from = "/projekte/2015-02-23-ka-accessmap.html"
+to = "/projekte/ka-accessmap/"
+
+[[ redirects ]]
+from = "/projekte/2015-03-02-ka-woistmarkt.html"
+to = "/projekte/ka-woistmarkt/"
+
+[[ redirects ]]
+from = "/projekte/2015-03-09-wpt-offenerhaushalt.html"
+to = "/projekte/wpt-offenerhaushalt/"
+
+[[ redirects ]]
+from = "/projekte/2015-03-09-wpt-openbus.html"
+to = "/projekte/wpt-openbus/"
+
+[[ redirects ]]
+from = "/projekte/2015-03-09-wpt-talomat.html"
+to = "/projekte/wpt-talomat/"
+
+[[ redirects ]]
+from = "/projekte/2015-03-09-wpt-talso.html"
+to = "/projekte/wpt-talso/"
+
+[[ redirects ]]
+from = "/projekte/2015-03-23-magdeburg-magdego.html"
+to = "/projekte/magdeburg-magdego/"
+
+[[ redirects ]]
+from = "/projekte/2015-03-23-magdeburg-rechte-gewalt.html"
+to = "/projekte/magdeburg-rechte-gewalt/"
+
+[[ redirects ]]
+from = "/projekte/2015-04-07-bn-baustellen.html"
+to = "/projekte/bn-baustellen/"
+
+[[ redirects ]]
+from = "/projekte/2015-04-07-bn-oepnv-tracking.html"
+to = "/projekte/bn-oepnv-tracking/"
+
+[[ redirects ]]
+from = "/projekte/2015-04-07-bn-stolpersteine.html"
+to = "/projekte/bn-stolpersteine/"
+
+[[ redirects ]]
+from = "/projekte/2015-04-09-od-atlas.html"
+to = "/projekte/od-atlas/"
+
+[[ redirects ]]
+from = "/projekte/2015-04-10-jena-LinkedOpenHaushalt.html"
+to = "/projekte/jena-LinkedOpenHaushalt/"
+
+[[ redirects ]]
+from = "/projekte/2015-04-10-jena-OffenesRatsinformationssystem.html"
+to = "/projekte/jena-OffenesRatsinformationssystem/"
+
+[[ redirects ]]
+from = "/projekte/2015-04-10-jena-VirtuellesJena.html"
+to = "/projekte/jena-VirtuellesJena/"
+
+[[ redirects ]]
+from = "/projekte/2015-04-10-jena-save-o-meter.html"
+to = "/projekte/jena-save-o-meter/"
+
+[[ redirects ]]
+from = "/projekte/2015-04-11-ffpb-nodes.html"
+to = "/projekte/ffpb-nodes/"
+
+[[ redirects ]]
+from = "/projekte/2015-04-22-be-berliner-schulen.html"
+to = "/projekte/be-berliner-schulen/"
+
+[[ redirects ]]
+from = "/projekte/2015-04-27-lieblingsplatz.html"
+to = "/projekte/lieblingsplatz/"
+
+[[ redirects ]]
+from = "/projekte/2015-04-28-stgt-dust-sensor.html"
+to = "/projekte/stgt-dust-sensor/"
+
+[[ redirects ]]
+from = "/projekte/2015-05-27-muc-mietpreisspiegel.html"
+to = "/projekte/muc-mietpreisspiegel/"
+
+[[ redirects ]]
+from = "/projekte/2015-06-01-cologne-veranstaltungen.html"
+to = "/projekte/cologne-veranstaltungen/"
+
+[[ redirects ]]
+from = "/projekte/2015-06-05-hn-bad-wimpfen-app.html"
+to = "/projekte/hn-bad-wimpfen-app/"
+
+[[ redirects ]]
+from = "/projekte/2015-06-09-stgt-efa-meta-api.html"
+to = "/projekte/stgt-efa-meta-api/"
+
+[[ redirects ]]
+from = "/projekte/2015-06-12-be-oparl.html"
+to = "/projekte/be-oparl/"
+
+[[ redirects ]]
+from = "/projekte/2015-07-20-be-trinkwasser.html"
+to = "/projekte/be-trinkwasser/"
+
+[[ redirects ]]
+from = "/projekte/2015-08-08-be-feinstaub-sos.html"
+to = "/projekte/be-feinstaub-sos/"
+
+[[ redirects ]]
+from = "/projekte/2015-08-30-aufbau-ostberlin.html"
+to = "/projekte/aufbau-ostberlin/"
+
+[[ redirects ]]
+from = "/projekte/2015-09-05-bn-bonn-o-mat.html"
+to = "/projekte/bn-bonn-o-mat/"
+
+[[ redirects ]]
+from = "/projekte/2015-09-15-vbb-api.html"
+to = "/projekte/vbb-api/"
+
+[[ redirects ]]
+from = "/projekte/2015-09-21-cologne-cute-pets.html"
+to = "/projekte/cologne-cute-pets/"
+
+[[ redirects ]]
+from = "/projekte/2015-09-21-cologne-denkmaeler.html"
+to = "/projekte/cologne-denkmaeler/"
+
+[[ redirects ]]
+from = "/projekte/2015-09-28-bn-kinderbonn.html"
+to = "/projekte/bn-kinderbonn/"
+
+[[ redirects ]]
+from = "/projekte/2015-10-05-cologne-daten-in-3D.html"
+to = "/projekte/cologne-daten-in-3D/"
+
+[[ redirects ]]
+from = "/projekte/2015-12-15-ka-mietmap.html"
+to = "/projekte/ka-mietmap/"
+
+[[ redirects ]]
+from = "/projekte/2016-02-11-bn-opendatamap-nrw.html"
+to = "/projekte/bn-opendatamap-nrw/"
+
+[[ redirects ]]
+from = "/projekte/2016-02-26-schulradar-ruhrgebiet.html"
+to = "/projekte/schulradar-ruhrgebiet/"
+
+[[ redirects ]]
+from = "/projekte/2016-03-01-refugeeApp.html"
+to = "/projekte/refugeeApp/"
+
+[[ redirects ]]
+from = "/projekte/2016-03-03-dus-cycledorf.html"
+to = "/projekte/dus-cycledorf/"
+
+[[ redirects ]]
+from = "/projekte/2016-03-03-dus-ruhr-lernmedien-buddy.html"
+to = "/projekte/dus-ruhr-lernmedien-buddy/"
+
+[[ redirects ]]
+from = "/projekte/2016-03-05-hn-lk-wartezeiten.html"
+to = "/projekte/hn-lk-wartezeiten/"
+
+[[ redirects ]]
+from = "/projekte/2016-03-05-schulen-in-nrw.html"
+to = "/projekte/schulen-in-nrw/"
+
+[[ redirects ]]
+from = "/projekte/2016-03-14-be-woistmarkt.html"
+to = "/projekte/be-woistmarkt/"
+
+[[ redirects ]]
+from = "/projekte/2016-03-19-le-woistmarkt.html"
+to = "/projekte/le-woistmarkt/"
+
+[[ redirects ]]
+from = "/projekte/2016-04-26-dus-raumamateur.html"
+to = "/projekte/dus-raumamateur/"
+
+[[ redirects ]]
+from = "/projekte/2016-04-30-be-datenwaben.html"
+to = "/projekte/be-datenwaben/"
+
+[[ redirects ]]
+from = "/projekte/2016-05-30-cologne-kvbrad.html"
+to = "/projekte/cologne-kvbrad/"
+
+[[ redirects ]]
+from = "/projekte/2016-06-13-cologne-sagsunskoeln.html"
+to = "/projekte/cologne-sagsunskoeln/"
+
+[[ redirects ]]
+from = "/projekte/2016-07-04-ffm-toiletsforthedisabled.html"
+to = "/projekte/ffm-toiletsforthedisabled/"
+
+[[ redirects ]]
+from = "/projekte/2016-07-18-be-drl-empower-rangers.html"
+to = "/projekte/be-drl-empower-rangers/"
+
+[[ redirects ]]
+from = "/projekte/2016-07-18-be-street-trees-api.html"
+to = "/projekte/be-street-trees-api/"
+
+[[ redirects ]]
+from = "/projekte/2016-07-20-be-drl-refugeeworks.html"
+to = "/projekte/be-drl-refugeeworks/"
+
+[[ redirects ]]
+from = "/projekte/2016-07-20-le-drl-amikeco.html"
+to = "/projekte/le-drl-amikeco/"
+
+[[ redirects ]]
+from = "/projekte/2016-07-21-wpt-kartenkarte.html"
+to = "/projekte/wpt-kartenkarte/"
+
+[[ redirects ]]
+from = "/projekte/2016-07-21-wpt-talradparken.html"
+to = "/projekte/wpt-talradparken/"
+
+[[ redirects ]]
+from = "/projekte/2016-07-22-hn-farmbot.html"
+to = "/projekte/hn-farmbot/"
+
+[[ redirects ]]
+from = "/projekte/2016-07-22-hn-poetryslam.html"
+to = "/projekte/hn-poetryslam/"
+
+[[ redirects ]]
+from = "/projekte/2016-07-23-metacollect.html"
+to = "/projekte/metacollect/"
+
+[[ redirects ]]
+from = "/projekte/2016-07-26-be-drl-volunteer-planner.html"
+to = "/projekte/be-drl-volunteer-planner/"
+
+[[ redirects ]]
+from = "/projekte/2016-08-15-karlsruhe-drl-integrations-timeline.html"
+to = "/projekte/karlsruhe-drl-integrations-timeline/"
+
+[[ redirects ]]
+from = "/projekte/2016-08-15-karlsruhe-drl-schauhin.html"
+to = "/projekte/karlsruhe-drl-schauhin/"
+
+[[ redirects ]]
+from = "/projekte/2016-08-15-karlsruhe-drl-welcome.html"
+to = "/projekte/karlsruhe-drl-welcome/"
+
+[[ redirects ]]
+from = "/projekte/2016-08-22-ka-leitlinien-buergerbeteiligung.html"
+to = "/projekte/ka-leitlinien-buergerbeteiligung/"
+
+[[ redirects ]]
+from = "/projekte/2016-09-13-be-schulsanierung.html"
+to = "/projekte/be-schulsanierung/"
+
+[[ redirects ]]
+from = "/projekte/2016-10-11-bahn-guru.html"
+to = "/projekte/bahn-guru/"
+
+[[ redirects ]]
+from = "/projekte/2016-10-11-mvg-rad-citybikes.html"
+to = "/projekte/mvg-rad-citybikes/"
+
+[[ redirects ]]
+from = "/projekte/2016-10-31-cologne-pegelbot.html"
+to = "/projekte/cologne-pegelbot/"
+
+[[ redirects ]]
+from = "/projekte/2016-11-28-cologne-openair.html"
+to = "/projekte/cologne-openair/"
+
+[[ redirects ]]
+from = "/projekte/2017-03-02-gi-mietspiegel.html"
+to = "/projekte/gi-mietspiegel/"
+
+[[ redirects ]]
+from = "/projekte/2017-03-02-gi-muellkalender.html"
+to = "/projekte/gi-muellkalender/"
+
+[[ redirects ]]
+from = "/projekte/2017-03-04-le-glaeserne-klaeranlage.html"
+to = "/projekte/le-glaeserne-klaeranlage/"
+
+[[ redirects ]]
+from = "/projekte/2017-03-04-le-trinkwasser.html"
+to = "/projekte/le-trinkwasser/"
+
+[[ redirects ]]
+from = "/projekte/2017-04-28-ka-kommunale-haushalte-bw.html"
+to = "/projekte/ka-kommunale-haushalte-bw/"
+
+[[ redirects ]]
+from = "/projekte/2017-05-23-wahllokalfinder.html"
+to = "/projekte/wahllokalfinder/"
+
+[[ redirects ]]
+from = "/projekte/2017-05-24-wahlprogrammat.html"
+to = "/projekte/wahlprogrammat/"
+
+[[ redirects ]]
+from = "/projekte/2017-05-24-wepublic.html"
+to = "/projekte/wepublic/"
+
+[[ redirects ]]
+from = "/projekte/2017-05-29-wahldatentransparenzranking.html"
+to = "/projekte/wahldatentransparenzranking/"
+
+[[ redirects ]]
+from = "/projekte/2017-06-11-frankfurt-was-bekomme-ich-fuer-meine-miete.html"
+to = "/projekte/frankfurt-was-bekomme-ich-fuer-meine-miete/"
+
+[[ redirects ]]
+from = "/projekte/2017-06-12-frankfurt-parkendd.html"
+to = "/projekte/frankfurt-parkendd/"
+
+[[ redirects ]]
+from = "/projekte/2017-07-07-twitterdashboard.html"
+to = "/projekte/twitterdashboard/"
+
+[[ redirects ]]
+from = "/projekte/2017-07-07-wahlbeteiligung.html"
+to = "/projekte/wahlbeteiligung/"
+
+[[ redirects ]]
+from = "/projekte/2017-07-07-wahlometer.html"
+to = "/projekte/wahlometer/"
+
+[[ redirects ]]
+from = "/projekte/2017-07-15-hn-stolpersteine.html"
+to = "/projekte/hn-stolpersteine/"
+
+[[ redirects ]]
+from = "/projekte/2017-07-24-wahlkompass-digitales.html"
+to = "/projekte/wahlkompass-digitales/"
+
+[[ redirects ]]
+from = "/projekte/2017-09-15-zuwendungen.html"
+to = "/projekte/zuwendungen/"
+
+[[ redirects ]]
+from = "/projekte/2017-09-21-cologne-kulturpfade.html"
+to = "/projekte/cologne-kulturpfade/"
+
+[[ redirects ]]
+from = "/projekte/2017-09-24-bundestagswahl.html"
+to = "/projekte/bundestagswahl/"
+
+[[ redirects ]]
+from = "/projekte/2017-09-24-wahlkarte-ka.html"
+to = "/projekte/wahlkarte-ka/"
+
+[[ redirects ]]
+from = "/projekte/2017-09-24-wahlwatch-ka.html"
+to = "/projekte/wahlwatch-ka/"
+
+[[ redirects ]]
+from = "/projekte/2017-10-08-karlsruhe-btw2017-stadtteile.html"
+to = "/projekte/karlsruhe-btw2017-stadtteile/"
+
+[[ redirects ]]
+from = "/projekte/2017-10-09-ka-open-sense.html"
+to = "/projekte/ka-open-sense/"
+
+[[ redirects ]]
+from = "/projekte/2017-11-15-ruhrgebiet-blitzerkarte.html"
+to = "/projekte/ruhrgebiet-blitzerkarte/"
+
+[[ redirects ]]
+from = "/projekte/2017-11-15-ruhrgebiet-recyclingkarte.html"
+to = "/projekte/ruhrgebiet-recyclingkarte/"
+
+[[ redirects ]]
+from = "/projekte/2018-01-06-pricemap-eu.html"
+to = "/projekte/pricemap-eu/"
+
+[[ redirects ]]
+from = "/projekte/2018-01-11-meine-stadt-transparent.html"
+to = "/projekte/meine-stadt-transparent/"
+
+[[ redirects ]]
+from = "/projekte/2018-02-08-hn-lorawan.html"
+to = "/projekte/hn-lorawan/"
+
+[[ redirects ]]
+from = "/projekte/2018-02-21-radlquartier.html"
+to = "/projekte/radlquartier/"
+
+[[ redirects ]]
+from = "/projekte/2018-04-09-fis-broker.html"
+to = "/projekte/fis-broker/"
+
+[[ redirects ]]
+from = "/projekte/2018-05-29-denkmal-magdeburg.html"
+to = "/projekte/denkmal-magdeburg/"
+
+[[ redirects ]]
+from = "/projekte/2018-20-06-direktvermarkter-karte.html"
+to = "/projekte/direktvermarkter-karte/"
+
+[[ redirects ]]
+from = "/projekte/2018-23-09-aufbau-von-lorawan-gateways-im-laendlichen-raum.html"
+to = "/projekte/aufbau-von-lorawan-gateways-im-laendlichen-raum/"
+
+[[ redirects ]]
+from = "/projekte/2018-24-11-1000-lorawan-nodes-im-laendlichen-raum.html"
+to = "/projekte/1000-lorawan-nodes-im-laendlichen-raum/"
+
+[[ redirects ]]
+from = "/projekte/2019-01-01-magdeburg-baumfreunde-md.html"
+to = "/projekte/magdeburg-baumfreunde-md/"
+
+[[ redirects ]]
+from = "/projekte/2019-01-07-grossstadtbaum.html"
+to = "/projekte/grossstadtbaum/"
+
+[[ redirects ]]
+from = "/projekte/2019-02-01-magdeburg-magd-o-mat.html"
+to = "/projekte/magdeburg-magd-o-mat/"
+
+[[ redirects ]]
+from = "/projekte/2019-02-18-quereinsteigende.html"
+to = "/projekte/quereinsteigende/"
+
+[[ redirects ]]
+from = "/projekte/2019-04-01-open-legal-data.html"
+to = "/projekte/open-legal-data/"
+
+[[ redirects ]]
+from = "/projekte/2019-06-01-transparenzcafe.html"
+to = "/projekte/transparenzcafe/"
+
+[[ redirects ]]
+from = "/projekte/2019-07-01-sensors.html"
+to = "/projekte/sensors/"
+
+[[ redirects ]]
+from = "/projekte/2019-10-01-baumkataster.html"
+to = "/projekte/baumkataster/"
+
+[[ redirects ]]
+from = "/projekte/2019-11-18-zug-direktverbindungen.html"
+to = "/projekte/zug-direktverbindungen/"
+
+[[ redirects ]]
+from = "/projekte/2020-01-21-klimakonzept.html"
+to = "/projekte/klimakonzept/"
+
+[[ redirects ]]
+from = "/projekte/2020-03-05-strassennamen-md.html"
+to = "/projekte/strassennamen-md/"
+
+[[ redirects ]]
+from = "/projekte/2020-03-24-klimawatch.html"
+to = "/projekte/klimawatch/"
