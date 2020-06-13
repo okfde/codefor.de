@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ____        _       __                     __  __      _
+   / __ \____ _(_)___  / /_  ____ _      __   / / / /___  (_)________  _________
+  / /_/ / __ `/ / __ \/ __ \/ __ \ | /| / /  / / / / __ \/ / ___/ __ \/ ___/ __ \
+ / _, _/ /_/ / / / / / /_/ / /_/ / |/ |/ /  / /_/ / / / / / /__/ /_/ / /  / / / /
+/_/ |_|\__,_/_/_/ /_/_.___/\____/|__/|__/   \____/_/ /_/_/\___/\____/_/  /_/ /_/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>
+
+      Digital Refugee Labs | Code for Germany
+
+  </title>
+
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width">
+
+  <meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@codeforde">
+
+<meta property="og:title" content="Digital Refugee Labs">
+<meta property="og:url" content="https://codefor.de/archiv/digitalrefugeelabs/">
+
+<meta property="og:description" content="Digital Refugee Labs">
+
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/archiv/assets/bootstrap.css">
+  <link rel="stylesheet" href="/archiv/assets/animate.css">
+  <link rel="stylesheet" href="/archiv/assets/main.css">
+
+  <script src="/archiv/assets/modernizr-2.js"></script>
+  <script src="/archiv/assets/jquery.js"></script>
+  <script src="/archiv/assets/bootstrap.js"></script>
+
+  </head>
+
+  <body>
+    <!--[if lt IE 7]>
+    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div class="body-wrap">
+      <div class="page-wrap">
+        <div class="nav-wrap">
+
+    <div class="main-nav-wrapper">
+
+      <ul class="nav nav-meta">
+        <!--<li class="text-center">-->
+          <!---->
+          <!--<a href="http://2016de.codefor.de" target="_blank">Rückblick 2016</a>-->
+          <!---->
+        <!--</li>-->
+        <li class="text-center nav-meta-social">
+          <a href="https://twitter.com/codeforde">
+            <img src="/archiv/assets/ionicons_svg_logo-twitter.svg" alt="Twitter" width="32" height="32">
+          </a>
+        </li>
+        <!-- <li class="text-center nav-meta-social">
+          <a href="http://goo.gl/pO9wkS" >g+</a>
+        </li> -->
+        <li class="text-center nav-meta-social">
+          <a href="https://github.com/okfde/codefor.de">
+            <img src="/archiv/assets/ionicons_svg_logo-github.svg" alt="GitHub" width="32" height="32">
+          </a>
+        </li>
+        <li class="text-center nav-meta-lang">
+
+              <a href="/archiv/digitalrefugeelabs/en/">EN</a>
+
+        </li>
+      </ul>
+
+      <ul class="nav nav-pills">
+
+          <li class="element first  ">
+            <a href="/summit">Summit</a>
+          </li>
+
+          <li class="element   ">
+            <a href="/blog">Blog</a>
+          </li>
+
+          <li class="element   ">
+            <a href="/stadtgeschichten">Stadtgeschichten</a>
+          </li>
+
+          <li class="element   ">
+            <a href="/projekte">Projekte</a>
+          </li>
+
+          <li class="element   ">
+            <a href="/mitmachen">Mitmachen</a>
+          </li>
+
+          <li class="element   last">
+            <a href="/ueber">Über</a>
+          </li>
+
+      </ul>
+    </div>
+</div>
+
+        <div class="navbar">
+
+          <div class="logo">
+            <a class="" href="/">
+              <img class="img-responsive" src="/archiv/assets/CFG_logo.svg" alt="Code for Germany">
+            </a>
+          </div>
+
+          <button class="mobile-menu-toggle">
+            <span>toggle menu</span>
+          </button>
+
+        </div>
+
+        <div class="drl-page-wrap">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-lg-10 col-lg-offset-1">
+        <h1 class="page-title">Digital Refugee Labs</h1>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-10 col-lg-offset-1">
+        <div class="story-wrapper fond__green2">
+          <div class="drl-body clearfix">
+            <p>
+              Vier Labs aus dem Code for Germany Netzwerk machen sich dieses Jahr das Thema Flucht und Asyl zum Schwerpunkt. Als ‘Digital Refugee Labs’ wollen wir interdisziplinäre Teams zusammenbringen, die digitale Hilfsmittel und kreative Ansätze nutzen, um Hilfsorganisationen, Institutionen und Initiativen bei ihrer täglichen Arbeit zu unterstützen. In den Labs werden Tech-Skills vermittelt und Tools angewandt, welche die Arbeit der Initiativen erleichtern, und vorhandene Tech-Projekte weiterentwickelt. Ziel ist es, die Zusammenarbeit zwischen technisch versierten Communitys, Ehrenamtlichen im Bereich der Flüchtlingshilfe, Geflüchteten sowie öffentlichen Verwaltungen zu verstetigen und auszubauen. Gefördert wird das Projekt von der Bundeszentrale für politische Bildung.
+            </p>
+            <p>
+              Als Projektauftakt fand in jeder der vier Städte ein Workshop statt, zu dem lokale Hilfsinitiativen und Netzwerke, Geflüchtete und Menschen mit entsprechenden Fähigkeiten im Bereich Design, Web und Programmierung eingeladen wurden. Die Workshops dienen dem gegenseitigen Kennenlernen, dem Identifizieren von Problemstellungen und dem Entwickeln von Prototypen. Im Fokus der Arbeit der Labs steht die Weiterentwicklung und die Bündelung von bereits existierenden Tech-Projekten. Die daraus entstandenen Arbeitsgruppen arbeiten in den folgenden Monaten weiter an der Umsetzung und Implementierung der Konzepte und Lösungen.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+   <!-- Projekte -->
+   <div class="row">
+    <div class="col-lg-10 col-lg-offset-1 text__black">
+      <h2 class="section-heading">Teilnehmende Projekte</h2>
+      <div class="loading" style="display: none;">
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <div>...laden...</div>
+      </div>
+      <div class="packery-container" style="position: relative; height: 1657.25px; visibility: visible;">
+        <div class="packery-item-gutter"></div>
+
+        <div class="packery-item" style="position: absolute; left: 0px; top: 0px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <h4 class="project-title"><a href="/projekte/be-drl-empower-rangers"> Empower Rangers</a></h4>
+  <div class="project-description">
+
+        <p>Wir wollen den Verein <a href="http://www.refugeesemancipation.com">Refugees Emancipation</a> dabei unterstützen, noch…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/berlin">OK Lab Berlin</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Laufend</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item" style="position: absolute; left: 462px; top: 0px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <h4 class="project-title"><a href="/projekte/be-drl-refugeeworks"> RefugeesWork</a></h4>
+  <div class="project-description">
+
+        <p>RefugeesWork ist das Projekt eines interationalen Teams, das einen schnellen…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/berlin">OK Lab Berlin</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Laufend</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item" style="position: absolute; left: 0px; top: 249px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <a href="/projekte/le-drl-amikeco">
+    <img src="/archiv/assets/amikeco.jpg" alt="Project Image" class="project-image img-responsive">
+  </a>
+
+  <h4 class="project-title"><a href="/projekte/le-drl-amikeco"> Amikeco</a></h4>
+  <div class="project-description">
+
+        <p>Plattform, um Gleichgesinnte für allerlei Arten von Aktivitäten zu finden….</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/leipzig">OK Lab Leipzig</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Entwicklungsstand 2016</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item" style="position: absolute; left: 462px; top: 249px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <h4 class="project-title"><a href="/projekte/metacollect"> metacollect</a></h4>
+  <div class="project-description">
+
+        <p>metacollect stellt eine zentrale Datenbank für zivilgesellschaftliche Projekte zur Verfügung,…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/berlin">OK Lab Berlin</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Laufend</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item" style="position: absolute; left: 462px; top: 499px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <a href="/projekte/be-drl-volunteer-planner">
+    <img src="/archiv/assets/volunteer-planer.png" alt="Project Image" class="project-image img-responsive">
+  </a>
+
+  <h4 class="project-title"><a href="/projekte/be-drl-volunteer-planner"> Volunteer-Planner</a></h4>
+  <div class="project-description">
+
+        <p>Der Volunteer-Planner ist eine Schichtplanungsplattform von Ehrenamtlichen fuer Ehrenamtliche. Mit…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/berlin">OK Lab Berlin</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Laufend</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item" style="position: absolute; left: 0px; top: 972px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <h4 class="project-title"><a href="/projekte/karlsruhe-drl-integrations-timeline"> Integrations-Timeline</a></h4>
+  <div class="project-description">
+
+        <p>Die Integrations-Timeline-App soll einen Überblick über den Prozess der Integration…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/karlsruhe">OK Lab Karlsruhe</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Beendet</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item" style="position: absolute; left: 462px; top: 1059px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <a href="/projekte/karlsruhe-drl-schauhin">
+    <img src="/archiv/assets/schau-hin-website.png" alt="Project Image" class="project-image img-responsive">
+  </a>
+
+  <h4 class="project-title"><a href="/projekte/karlsruhe-drl-schauhin"> SchauHin mit der Antidiskriminierungsstelle</a></h4>
+  <div class="project-description">
+
+        <p>Zusammen mit der Antidiskriminierungsstelle Karlsruhe erarbeiten wir eine Web- und…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/karlsruhe">OK Lab Karlsruhe</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Finished</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+        <div class="packery-item" style="position: absolute; left: 0px; top: 1221px;">
+          <div class="project-wrapper project-teaser fond__white clearfix">
+
+  <h4 class="project-title"><a href="/projekte/karlsruhe-drl-welcome"> Welcome</a></h4>
+  <div class="project-description">
+
+        <p>Das Projekt Welcome wurde vom Pfarrer Jörg Sieger ins Leben…</p>
+
+  </div>
+
+  <div class="project-footer clearfix">
+    <div class="project-labs-box">
+
+              <div class="event-location icon-before project-lab " style="display: inline-block;">
+                <a href="/labs/karlsruhe">OK Lab Karlsruhe</a>
+              </div>
+
+    </div>
+    <div class="project-status-box">
+
+      <span class="project-status">Beendet</span>
+    </div>
+  </div>
+</div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <!-- Projekte End -->
+
+    <div class="row">
+      <div id="accordion" class="col-lg-10 col-lg-offset-1">
+
+        <div class="drl-teaser-wrapper fond__mint">
+          <div class="drl-teaser">
+            <div class="drl-teaser-header clearfix">
+              <a data-toggle="collapse" href="#collapse-0" class="collapsed">
+                <div class="clearfix">
+                  <h2 class="drl-teaser-title">Kick-off Dresden/Leipzig</h2>
+                  <span class="drl-teaser-date">21. Mai 2016</span>
+                </div>
+              </a>
+            </div>
+
+            <div id="collapse-0" class="collapse">
+              <div class="drl-teaser-location clearfix">
+                <div class="drl-teaser-space">Basislager Coworking | Peterssteinweg 14, 04107 Leipzig<br>9:00 Uhr - 18:00 Uhr</div>
+                <div class="drl-teaser-labs">
+
+                  <a href="/labs/leipzig/">
+                   OK Lab Leipzig
+                 </a>
+
+                  <a href="/labs/dresden/">
+                   OK Lab Dresden
+                 </a>
+
+               </div>
+             </div>
+
+             <p>Gerade in Sachsen gibt es zur Thematik Flüchtlingspolitik und -hilfe immer wieder negative Beiträge in den Medien. Dies liegt aber nicht an der mangelnden Hilfsbereitschaft der Sachsen. Denn es gibt in zahlreichen Städten viele Menschen und Organisationen, die Hilfestellung für Flüchlinge bieten. In <a href="http://codefor.de/blog/drl-workshop-leipzig">unserem Workshop</a> haben wir mit 25 Teilnehmenden dazu Technologien vorgestellt und ausprobiert, die einer besseren und sichereren Koordination rund um das Thema Flüchtlingshilfe dienen können. Außerdem haben wir Unterstützung bei der Anpassung und Verwendung dieser Technologien mit Blick auf die speziellen Anforderungen gegeben.</p>
+
+<!-- Wir freuen uns über Teilnehmerinnen, die Lust haben, mit ihren Fähigkeiten zu helfen und über Organisationen und Initiativen, die auf der Suche nach Unterstützung sind.
+
+Bitte meldet euch über das Formular an, wenn ihr teilnehmen wollt.-->
+
+           </div>
+
+         </div>
+       </div>
+
+        <div class="drl-teaser-wrapper fond__mint">
+          <div class="drl-teaser">
+            <div class="drl-teaser-header clearfix">
+              <a data-toggle="collapse" href="#collapse-1" class="collapsed">
+                <div class="clearfix">
+                  <h2 class="drl-teaser-title">Kick-off Hamburg</h2>
+                  <span class="drl-teaser-date">22. Juni 2016</span>
+                </div>
+              </a>
+            </div>
+
+            <div id="collapse-1" class="collapse">
+              <div class="drl-teaser-location clearfix">
+                <div class="drl-teaser-space">Hafencity Universität, 20457 Hamburg, Raum 3.107<br>09:30 - 14 Uhr</div>
+                <div class="drl-teaser-labs">
+
+                  <a href="/labs/hamburg/">
+                   Code for Hamburg / OK Lab Hamburg
+                 </a>
+
+               </div>
+             </div>
+
+             <p>Auch das OK Lab Hamburg beteiligt sich am Projekt “Digital Refugee Labs”. Hamburg ist seit vielen Jahren ein wichtiger Standort für die Auseinandersetzung mit Asylpolitik und Migration.
+Dieses Jahr engagieren sich Mitglieder des Labs, um den zahlreichen Organisationen und Initiativen ihre wichtige Arbeit zu erleichtern.</p>
+
+<p>Weitere Informationen zum Ablauf und Ziel des ersten Workshops findet ihr <a href="http://codeforhamburg.org/digitalrefugeedays/">hier</a>. Am 17. August 2016 findet auf dem <a href="http://www.kampnagel.de/de/programm/datapolitics/">Kampnagel-Sommerfest</a> der zweite ‘Digital Welcome Day’ statt, auf dem wir die Ergebnisse und Weiterentwicklungen aus dem ersten Workshop präsentieren.</p>
+
+<!--Meldet euch an, wenn ihr gerne eure Fähigkeiten nutzen wollt, um Organisationen zu unterstützen oder wenn ihr eine Initiative seid, die Unterstützung in Sachen Digitales braucht. -->
+
+           </div>
+
+         </div>
+       </div>
+
+        <div class="drl-teaser-wrapper fond__mint">
+          <div class="drl-teaser">
+            <div class="drl-teaser-header clearfix">
+              <a data-toggle="collapse" href="#collapse-2" class="collapsed">
+                <div class="clearfix">
+                  <h2 class="drl-teaser-title">Kick-off Berlin</h2>
+                  <span class="drl-teaser-date">25. Juni 2016</span>
+                </div>
+              </a>
+            </div>
+
+            <div id="collapse-2" class="collapse">
+              <div class="drl-teaser-location clearfix">
+                <div class="drl-teaser-space">Wikimedia | Tempelhofer Ufer 23-24, 10963 Berlin<br>9:30 Uhr - 18:00 Uhr</div>
+                <div class="drl-teaser-labs">
+
+                  <a href="/labs/berlin/">
+                   OK Lab Berlin
+                 </a>
+
+               </div>
+             </div>
+
+             <p>Das Engagement für Geflüchtete und Newcomer in Deutschland ist enorm. Allein im Tech-Bereich gibt es eine Vielzahl von Projekten und Anwendungen, die die Flüchtlingshilfe unterstützen. Auf dem gut besuchten <a href="http://codefor.de/blog/kickoff-drl">Kickoff-Workshop in Berlin</a> stellten wir uns deshalb die Frage, wie man die existierenden Initiativen bündeln und weiterentwickeln kann. Unter anderem arbeiten wir seitdem an einem verlässlichen und aktuellen Überblick von zivilgesellschaftlichen Projekten. Das Team hinter metacollect.org hat bereits eine Plattform gebaut, die Hilfsinitiativen ihre Informationen selbst verwalten lässt und diese an weitere Übersichtsplattformen weiterleitet. Außerdem können die Initiativen über metacollect ihre Bedarfe für ihre Organisation kommunizieren. Beim Workshop haben wir das Kategoriensystem verbessert und uns mit anderen Übersichtsplattformen ausgetauscht.
+<br>
+Das Berliner Digital Refugee Lab wird unterstützt von der Wikimedia Deutschland. Wikimedia Deutschland e.V. ist eine Non-Profit Organisation, die sich für die Verbreitung freier Inhalte einsetzt. Dazu entwickeln wir unter anderem Open Source Software für Wikipedia und Wikidata.</p>
+
+           </div>
+
+         </div>
+       </div>
+
+        <div class="drl-teaser-wrapper fond__mint">
+          <div class="drl-teaser">
+            <div class="drl-teaser-header clearfix">
+              <a data-toggle="collapse" href="#collapse-3" class="collapsed">
+                <div class="clearfix">
+                  <h2 class="drl-teaser-title">Kick-off Karlsruhe</h2>
+                  <span class="drl-teaser-date">02. Juli 2016</span>
+                </div>
+              </a>
+            </div>
+
+            <div id="collapse-3" class="collapse">
+              <div class="drl-teaser-location clearfix">
+                <div class="drl-teaser-space">Fettschmelze | Alter Schlachthof 25 | 76131 Karlsruhe<br>9:30 Uhr - 17:00 Uhr</div>
+                <div class="drl-teaser-labs">
+
+                  <a href="/labs/karlsruhe/">
+                   OK Lab Karlsruhe
+                 </a>
+
+               </div>
+             </div>
+
+             <p>Am 02. Juli 2016 hat das Projekt „Digital Refugee Labs“ VertreterInnen lokaler Hilfsinitiativen und Netzwerke, Geflüchtete und Menschen mit Fähigkeiten im Bereich Design, Web und Programmierung zum Kick-off-Workshop des Digital Refugee Labs Karlsruhe eingeladen, und 30 Personen sind der Einladung gefolgt.
+Der Workshop diente dazu, Probleme in der Arbeit der Organisationen zu identifizieren und prototypische Lösungen zu entwickeln. Dafür wurden auch bestehende Tech-Projekte weiterentwickelt und angepasst.
+Wie der Workshop verlaufen ist, könnt ihr in diesem schönen Artikel von <a href="http://karlszeit.de/artikel/digital-refugee-lab">karlszeit</a> nachlesen.
+<!--Wir haben schon große Pläne – und vielleicht bringst du die zündende Idee mit?--></p>
+
+           </div>
+
+         </div>
+       </div>
+
+     </div>
+   </div>
+
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1 text__black">
+
+      <h2 class="section-heading">FAQ</h2>
+
+      <div class="panel-group" id="accordion-faq">
+        <div class="panel">
+          <div>
+            <h4>
+              <a data-toggle="collapse" data-parent="#accordion-2" href="#collapse-faq-1">
+                &gt; Warum Digital Refugee Labs?
+              </a>
+            </h4>
+          </div>
+          <div id="collapse-faq-1" class="panel-collapse collapse">
+            <div class="panel-body">
+              <p>In den letzten Monaten wurde eine Vielzahl an Initiativen und Arbeitsgruppen ins Leben gerufen, die Geflüchtete und Organisationen bei der Erstaufnahme und beim Ankommen unterstützen und mit dem Nötigsten versorgen. Bei der Verbesserung der Koordination von Tätigkeiten, Helfenden und Hilfsmitteln haben diese Initiativen und Geflüchtete bereits Unterstützung aus der Tech-Community bekommen, beispielsweise im Rahmen der <a href="http://refugeehackathon.de/">Refugee Hackathons</a>, durch die <a href="https://it4refugees.noblogs.org">Freifunk Initiative</a> oder mit dem <a href="https://volunteer-planner.org">Volunteer Planner</a>. Wir wollen sicherstellen, dass auch im Jahr 2016 die Stimmen von Geflüchteten mit den Erfahrungen von Hilfsorganisationen und den Ideen von technisch versierten Menschen zusammenfinden.<br>
+                Um funktionierende Tools zu entwickeln und technisch zu unterstützen braucht es mehr als punktuelle Veranstaltungen. Es braucht Räume zum Austausch für Treffen und Trainings, sowie Formate, die möglichst viele Initiativen ansprechen. Diese Räume und Formate werden mit den Digital Refugee Labs geschaffen.</p>
+              </div>
+            </div>
+          </div>
+          <div class="panel">
+            <div>
+              <h4>
+                <a class="highlight-red" data-toggle="collapse" data-parent="#accordion-2" href="#collapse-faq-2">
+                  &gt; Was wollt ihr damit erreichen?</a>
+                </h4>
+              </div>
+              <div id="collapse-faq-2" class="panel-collapse collapse">
+                <div class="panel-body">
+                  <p>Wir wollen Technologien dort einsetzen wo sie gebraucht werden. Es geht bei den Digital Refugee Labs vor Allem darum, vorhandene Initiativen zu stärken und weiterzuentwickeln. Websites wie <a href="http://metacollect.org">metacollect</a> zeigen auf, wieviele spannende Projekte in diesem Bereich bereits existieren und Hilfe benötigen. Wir wollen einerseits diese Projekte unterstützen und unsere Kräfte bündeln, und andererseits Hilfsorganisationen bei ihrer täglichen Arbeit technisch betreuen.</p>
+                </div>
+              </div>
+            </div>
+            <div class="panel">
+              <div>
+                <h4>
+                  <a data-toggle="collapse" data-parent="#accordion-2" href="#collapse-faq-3">
+                    &gt; Was ist nicht Ziel der Initiative?</a>
+                  </h4>
+                </div>
+                <div id="collapse-faq-3" class="panel-collapse collapse">
+                  <div class="panel-body">
+                    <p>Digitale Anwendungen und Technologie sehen wir nicht als Allheilmittel. Für uns ist Software ein Werkzeug, das dabei helfen kann, bestimmte Aufgaben einfacher zu bewältigen. Es geht uns ausdrücklich nicht darum, eine neue umfangreiche App für Geflüchtete zu entwickeln – wir wollen Lösungen für ganz konkrete Problemstellungen entwickeln. Dabei ist uns Redeployment statt Redundanz ein wichtiges Anliegen. Im Zentrum unserer Arbeit stehen daher die Bedürfnisse der NutzerInnen: Nützlichkeit ist uns wichtiger als Neuheit. Wir wollen Räume für Austausch und Zusammenarbeit schaffen, in denen sich Menschen aus unterschiedlichen Bereichen zusammen finden und gemeinsam arbeiten können.<br>
+                      Wir können nicht für alle sozialen Probleme technische Lösungen finden, aber wir können die Arbeit von denen, die sich den Herausforderungen widmen, unterstützen und vereinfachen.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="panel">
+                  <div>
+                    <h4>
+                      <a data-toggle="collapse" data-parent="#accordion-2" href="#collapse-faq-4">
+                        &gt; Wer steckt dahinter?</a>
+                      </h4>
+                    </div>
+                    <div id="collapse-faq-4" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <p>Die Digital Refugee Labs sind Teil des Programms Code for Germany der <a href="http://okfn.de">Open Knowledge Foundation Deutschland</a>. Code for Germany ist ein Netzwerk aus Ehrenamtlichen die ihre Fähigkeiten im Bereich Softwareentwicklung, Design, Stadtplanung, Kommunikation uvm. für ihre Städte und Nachbarschaft einsetzen. Vier der 25 OK Labs werden von Mai bis Oktober 2016 zu Digital Refugee Labs und widmen sich schwerpunktmäßig den Themen Flucht und Asyl. Das Projekt wird durch die Bundeszentrale für politische Bildung als Teil des Programms “Flucht und Asyl” gefördert.<br>
+                          Darüber hinaus werden wir bei der konzeptionellen Ausarbeitung und Moderation der Workshops von der Innovationsagentur <a href="http://zero360innovation.com">Zero360</a> unterstützt.</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="panel">
+                      <div>
+                        <h4>
+                          <a data-toggle="collapse" data-parent="#accordion-2" href="#collapse-faq-5">
+                            &gt; Wie kann ich mitmachen?</a>
+                          </h4>
+                        </div>
+                        <div id="collapse-faq-5" class="panel-collapse collapse">
+                          <div class="panel-body">
+                            <p>Die Labs werden in den Städten Berlin, Hamburg, Leipzig/labs/dresden und Karlsruhe im Zeitraum von Mai bis Oktober 2016 stattfinden. Als Startschuss wird in jeder Stadt ein Workshop mit Interessierten organisiert. Hilfsorganisationen, ProgrammiererInnen, und allgemein interessierte BürgerInnen können sich auf dieser Seite anmelden.</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <p>Noch offene Fragen? Dann kontaktiere uns gerne unter info[at]codefor.de</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 drl-footer partner">
+                  <img class="drl-partner-logo img-responsive" src="/archiv/assets/bpb-logo.svg" alt="gefördert durch die Bundeszentrale für politische Bildung">
+                </div>
+              </div>
+            </div>
+
+        <footer>
+
+          <div class="jumbotron fond__grey meta-links-foot">
+            <div class="container">
+              <div class="row text-center text-uppercase">
+                <div class="col-lg-12">
+
+                    <a href="/impressum">Kontakt &amp; Impressum</a>
+                    •
+                    <a href="/code-of-conduct">Code of Conduct</a>
+                    •
+                    <a href="/blog/Code-For-Climate-Open-Data-Day.html">Unterstützung durch Deutsche Postcode Lotterie</a>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+    </footer>
+  </div>
+</div>
+
+</body>
+</html>
