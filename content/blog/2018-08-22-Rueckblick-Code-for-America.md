@@ -52,5 +52,5 @@ Eine der entschlossensten Kämpferinnen der US-amerikanischen Civic-Tech-Bewegun
 
 ### Und jetzt?
 
-Jetzt sind wir dran. Wenn ihr Lust bekommen habt euch in Deutschland zu engagieren, schaut auf [codefor.de](https://codefor.de/) vorbei und kommt zum Open Knowledge Lab, dem deutschen Äquivalent der Bridgades in eurer Nähe.
+Jetzt sind wir dran. Wenn ihr Lust bekommen habt euch in Deutschland zu engagieren, schaut auf [codefor.de]({{< ref "/" >}}) vorbei und kommt zum Open Knowledge Lab, dem deutschen Äquivalent der Bridgades in eurer Nähe.
 Denn: Es geht um die Menschen und unsere Gesellschaft. Wie es auf dem Sticker von „Code for America“ steht: „No one is coming. It‘s up to us.“

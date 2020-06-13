@@ -14,7 +14,7 @@ draft: false
 
 Um die Interessen der ehrenamtlich engagierten Freiwilligen der Open Knowledge Labs in Zukunft noch besser berücksichtigen zu können, wird Code for Germany einen Community Rat wählen. Dieser wird zusammen mit der Open Knowledge Foundation Deutschland e.V. die strategische Planung des Projekts vorantreiben.
 
-Vor fast fünf Jahren ist Code for Germany mit 8 Labs gestartet, mittlerweile gibt es in Deutschland bereits 26 Labs. Das haben wir dieses Jahr zum Anlass genommen gemeinsam über die ehrenamtlichen Strukturen zu sprechen. Beim [Lab Leads Workshop](https://codefor.de/blog/Unser-Lab-Workshop-2018.html) haben wir unseren [Code of Conduct](https://codefor.de/code-of-conduct/) überarbeitet, welcher im November 2018 in Kraft trat.
+Vor fast fünf Jahren ist Code for Germany mit 8 Labs gestartet, mittlerweile gibt es in Deutschland bereits 26 Labs. Das haben wir dieses Jahr zum Anlass genommen gemeinsam über die ehrenamtlichen Strukturen zu sprechen. Beim [Lab Leads Workshop]({{< ref "/blog/2018-09-11-Unser-Lab-Workshop-2018.md" >}}) haben wir unseren [Code of Conduct]({{< ref "/grundsaetze" >}}/) überarbeitet, welcher im November 2018 in Kraft trat.
 
 ![datensummit-stateoftheopen](/blog/datensummit-stateoftheopen.jpg)
 

@@ -18,7 +18,7 @@ draft: false
 Code for Germany (CFG) baut seit 5 Jahren digitale Werkzeuge und Anwendungen, um damit praktisch aufzuzeigen, welche Möglichkeiten Offene Daten und neue Technologien für das gesellschaftliche Miteinander bieten. Beim CFG Summit hat sich unsere Community aus ganz Deutschland getroffen um an gemeinsamen Projekten zu arbeiten. Zeitlich haben wir den Summit an das [FORUM Offene Stadt 2019](https://offenestadt.info/) - die gemeinsame Konferenz der Körber Stiftung und Open Knowledge Foundation Deutschland e.V. angedockt. So konnten viele Ehrenamtliche sowohl am Summit als auch an der Konferenz teilnehmen.
 
 ## Digitales Ehrenamt und Open Data
-Die meisten OK Labs haben es bereits geschafft einen guten Draht in die lokalen Verwaltungen zu etablieren, um gemeinsame Projekte rund um offene Daten und neue Technologien umzusetzen. In einigen Fällen haben unsere Ehrenamtlichen mittlerweile die Seiten gewechselt und setzen sich innerhalb der Verwaltungen für mehr Offenheit ein. Eine ausführliche Zusammenfassung der letzten Fünf Jahre findet ihr in [unserem Blog](https://codefor.de/blog/Fuenf-Jahre-Code-for-Germany.html).
+Die meisten OK Labs haben es bereits geschafft einen guten Draht in die lokalen Verwaltungen zu etablieren, um gemeinsame Projekte rund um offene Daten und neue Technologien umzusetzen. In einigen Fällen haben unsere Ehrenamtlichen mittlerweile die Seiten gewechselt und setzen sich innerhalb der Verwaltungen für mehr Offenheit ein. Eine ausführliche Zusammenfassung der letzten Fünf Jahre findet ihr in [unserem Blog]({{< ref "/blog/2019-04-10-fuenf-jahre-code-for-germany.md" >}}).
 
 Nach einer gemeinsamen Rückschau ging es hoch motiviert in die einzelnen Sessions. Das Thema Open Data und Zivilgesellschaftliche Beteiligung wurde an vielen Stellen aufgegriffen. Um Kommunen den Einstieg in die Welt von Open Data zu erleichtern wurde beim Summit eine Liste hilfreicher Informationen zu Offenen Daten erstellt. Zum Einsehen und Vervollständigen auf [Github]( https://github.com/codeforosnabrueck/awesome-opendata-german).
 
@@ -39,7 +39,7 @@ https://pad.okfn.de/p/froscon2019-lorawan_community_summit)
 Die nächsten analogen Besprechungen finden Ende Dezember beim 36C3 in Leipzig, statt. Wer schon ein Ticket für den 36C3 hat ist außerdem herzlich eingeladen beim [Call for Participation](https://cfp.verschwoerhaus.de/36c3/cfp) der WikipakaWG mitzumachen. Die WikiPakaWG ist ein Begegnungsort für die Communities von Jugend hackt, Open Knowledge Foundation und Wikimedia.
 
 ## Planungen für 2020 laufen auf Hochtouren!
-Für zusätzliche Unterstützung im Code for Germany Team suchen wir ab 2020 [ein*e Communitybuilder*in](https://codefor.de/blog/CFG-Stellenausschreibung-Community.html
+Für zusätzliche Unterstützung im Code for Germany Team suchen wir ab 2020 [ein*e Communitybuilder*in]({{< ref "/blog/2019-10-31-CFG-Stellenausschreibung-Community.md" >}}
 ), Bewerbungen können noch bis zum 02.12.19 eingereicht werden. Außerdem ist für 2020 eine Neuauflage der codefor.de Webseite geplant. Zum internationalen Open Data Day am 7. März 2020 werden wir wieder zahlreiche Events planen, ihr könnt euch den Termin jetzt  schon mal vormerken.
 
 ![Summit3](/blog/cfg-summit-3.jpg)

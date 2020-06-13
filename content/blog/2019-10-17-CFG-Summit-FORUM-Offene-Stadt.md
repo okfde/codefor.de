@@ -34,7 +34,7 @@ Um am FORUM Offene Stadt 2019 teilzunehmen bitten wir um Anmeldung unter [diesem
 
 **Am darauf folgenden Wochenende, Sa, 09. + So, 10. November findet erstmalig der Code for Germany Community Summit, beim Fablab St. Pauli in Hamburg, statt**. Ein in diesem Jahr ins Leben gerufenes Austausch- & Innovations Festival der Open Knowledge & Open Source Community, das von nun an jährlich stattfinden soll. Im Vordergrund steht der Austausch der ehrenamtlich tätigen Innovator*innen, Wissenschaftler*innen, Entwickler*innen, Policy-Spezialist*innen und Designer*innen  aus verschiedenen Städten in ganz Deutschland und die Weiterentwicklung der gemeinsamen Ideen und Ziele rund um offene Daten.
 
-Wenn ihr neben dem FORUM Offene Stadt auch am Code for Germany Summit teilnehmen möchtet, [meldet euch bitte hier an](https://codefor.de/summit/)!
+Wenn ihr neben dem FORUM Offene Stadt auch am Code for Germany Summit teilnehmen möchtet, [meldet euch bitte hier an](/archiv/summit)!
 
 Um mit Hilfe offener Daten gemeinsam regionale und nationale Lösungsansätze für lokale Herausforderungen, zu gestalten hoffen wir im Laufe der Veranstaltungen möglichst viel Wissen zu öffnen, zu nutzen, und zu teilen.
 
