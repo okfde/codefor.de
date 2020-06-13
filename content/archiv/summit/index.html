@@ -33,13 +33,16 @@
 
 <meta property="og:description" content="Stadt&lt;entwickler /&gt; nutzen offene Daten um ihre Stadt zu verbessern">
 
-<meta content="/archiv/summit/assets/CFG_logo.svg" property="og:image">
+<meta content="/archiv/assets/CFG_logo.svg" property="og:image">
 
-  <link rel="stylesheet" href="/archiv/summit/assets/bootstrap.css">
-  <link rel="stylesheet" href="/archiv/summit/assets/main.css?v=1.7">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/archiv/assets/bootstrap.css">
+  <link rel="stylesheet" href="/archiv/assets/animate.css">
+  <link rel="stylesheet" href="/archiv/assets/main.css">
 
-  <!-- banner for global climate strike on September 20th, 2019 -->
-  <script src="https://assets.digitalclimatestrike.net/widget.js" async></script>
+  <script src="/archiv/assets/modernizr-2.js"></script>
+  <script src="/archiv/assets/jquery.js"></script>
+  <script src="/archiv/assets/bootstrap.js"></script>
 
   </head>
 
@@ -62,7 +65,7 @@
         <!--</li>-->
         <li class="text-center nav-meta-social">
           <a href="https://twitter.com/codeforde">
-            <img src="/archiv/summit/assets/ionicons_svg_logo-twitter.svg" alt="Twitter" width="32" height="32" />
+            <img src="/archiv/assets/ionicons_svg_logo-twitter.svg" alt="Twitter" width="32" height="32" />
           </a>
         </li>
         <!-- <li class="text-center nav-meta-social">
@@ -70,7 +73,7 @@
         </li> -->
         <li class="text-center nav-meta-social">
           <a href="https://github.com/okfde/codefor.de" >
-            <img src="/archiv/summit/assets/ionicons_svg_logo-github.svg" alt="GitHub" width="32" height="32" />
+            <img src="/archiv/assets/ionicons_svg_logo-github.svg" alt="GitHub" width="32" height="32" />
           </a>
         </li>
       </ul>
@@ -109,7 +112,7 @@
 
           <div class="logo">
             <a class="" href="/">
-              <img class="img-responsive" src="/archiv/summit/assets/CFG_logo.svg" alt="Code for Germany">
+              <img class="img-responsive" src="/archiv/assets/CFG_logo.svg" alt="Code for Germany">
             </a>
           </div>
 
@@ -204,7 +207,7 @@
                     &bull;
                     <a href="/code-of-conduct">Code of Conduct</a>
                     &bull;
-                    <a href="https://codefor.de/blog/Code-For-Climate-Open-Data-Day.html">Unterstützung durch Deutsche Postcode Lotterie</a>
+                    <a href="/blog/Code-For-Climate-Open-Data-Day.html">Unterstützung durch Deutsche Postcode Lotterie</a>
 
                 </div>
               </div>
@@ -214,36 +217,6 @@
     </footer>
   </div>
 </div>
-<!--
-<script src="/js/Application.js"></script>
-<script src="/js/lib/prettyCheckbox.min.js"></script>
-
-<script src="/js/lib/greensock/TweenMax.min.js"></script>
-<script src="/js/lib/greensock/plugins/DrawSVGPlugin.min.js"></script>
-<script src="/js/lib/logger.min.js"></script>
-<script src="/js/ptfAnimationController.js"></script> -->
-
-<script type="text/javascript">
-$(document).ready(function() {
-
-  if(typeof packery !== 'undefined') packery.layout();
-
-  app = new Application();
-
-  if(typeof(herodata) != 'undefined') {
-    app.init(herodata);
-  }
-
-    app.initMenu();
-    $(":checkbox").prettyCheckbox();
-
-    if( typeof ptfTeaser !== 'undefined') {
-      var aniController = new AnimationController();
-      aniController.init();
-    }
-
-  });
-</script>
 
 </body>
 </html>
