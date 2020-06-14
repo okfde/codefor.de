@@ -1514,3 +1514,7 @@ to = "/projekte/karlsruhe-drl-welcome"
 [[ redirects ]]
 from = "/projekte/2016-08-15-karlsruhe-drl-schauhin.html"
 to = "/projekte/karlsruhe-drl-schauhin"
+
+[[ redirects ]]
+from = "/en/*"
+to = "/:splat"
