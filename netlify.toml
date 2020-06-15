@@ -1522,3 +1522,7 @@ to = "/:splat"
 [[ redirects ]]
 from = "/assets/presse/20200409-CFG-Handbuch-Krisenresilienz.pdf"
 to = "/documents/Handbuch-Krisenresilienz.pdf"
+
+[[ redirects ]]
+from = "/launch/"
+to = "/archiv/launch/"
