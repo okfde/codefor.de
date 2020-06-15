@@ -6,7 +6,7 @@ excerpt: Seit fünf Jahren engagieren sich ehrenamtliche Bürger*innen mit ihren
 topic: story
 images:
    - imgname: wikidata-ulm-2017-1.jpg
-og-image: /assets/blog/wikidata-ulm-2017-1.jpg
+og-image: /blog/wikidata-ulm-2017-1.jpg
 og-description: Seit fünf Jahren engagieren sich ehrenamtliche Bürger\*innen mit ihren technischen Fähigkeiten im Code for Germany Netzwerk um gemeinsam nützliche und offene Anwendungen für die digitale Gesellschaft zu entwickeln.
 
 draft: false
