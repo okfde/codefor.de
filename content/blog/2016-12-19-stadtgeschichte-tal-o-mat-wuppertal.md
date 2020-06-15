@@ -26,7 +26,6 @@ images: #use 3:2 proportioned image
 - imgname: stories/talomat.jpg
   alt: Das Talomat Team
 
-excerpt: Ann-Cathrin Klappert, Christopher Reinbothe und Sam Zeini haben einen Tal-O-Maten gebaut. Der informiert die Bevölkerung zu Wuppertaler Wahlen. Eine Geschichte über Crowdsourcing, Flyerfragen und ein kleines Team, das die Bürgerbeteiligung sehr ernst nimmt.
 
 members:
 - name: Ann-Cathrin Klappert
@@ -56,6 +55,7 @@ aliases:
 - /stadtgeschichten/2tal-o-mat/
 
 ---
+**Ann-Cathrin Klappert, Christopher Reinbothe und Sam Zeini haben einen Tal-O-Maten gebaut. Der informiert die Bevölkerung zu Wuppertaler Wahlen. Eine Geschichte über Crowdsourcing, Flyerfragen und ein kleines Team, das die Bürgerbeteiligung sehr ernst nimmt.**
 
 ## Ausgangspunkt
 

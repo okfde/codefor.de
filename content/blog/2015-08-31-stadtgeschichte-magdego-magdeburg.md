@@ -27,8 +27,6 @@ images: #use 3:2 proportioned image
   alt: Rosario Raulin und Johannes Filter zeigen Smartphones mit ihrer App vor einer Strassenbahn
   caption: Rosario und Johannes © Stefan Berger
 
-excerpt: Johannes und Rosario wollten eine Nahverkehr-App, die einfach nur anzeigt, wann an der nächsten Haltestelle die nächste Bahn kommt – ohne Schnickschnack. Entstanden ist MagdeGo, und das ist ihre Geschichte.
-
 members:
 - name: Rosario Raulin
   username-twitter: rosario_raulin
@@ -42,6 +40,8 @@ aliases:
 - /stadtgeschichten/3magdego/
 
 ---
+**Johannes und Rosario wollten eine Nahverkehr-App, die einfach nur anzeigt, wann an der nächsten Haltestelle die nächste Bahn kommt – ohne Schnickschnack. Entstanden ist MagdeGo, und das ist ihre Geschichte.** 
+
 ## Die Idee
 Eine App für Sachsen-Anhalt, die einfach nur anzeigt, wann an der nächsten Haltestelle die nächste Bahn kommt.  So entstand MagdeGo, die Johannes Filter gemeinsam mit Rosario Raulin programmiert hat. Anfang 2015 waren Web-App und iOS-App fertig.
 

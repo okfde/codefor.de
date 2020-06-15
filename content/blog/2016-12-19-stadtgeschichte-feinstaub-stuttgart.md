@@ -26,7 +26,6 @@ images: #use 3:2 proportioned image
 - imgname: stories/feinstaub.jpg
   alt: Das Luftdaten Team
 
-excerpt: Das Team um Jan Lutz errichtet zurzeit ein Netzwerk von Feinstaub-Sensoren in Stuttgart. Das soll die Datenlage verbessern und somit die Diskussion über das Umwelt- und Gesundheitsproblem besser informieren.
 
 members:
 - name: Jan A. Lutz
@@ -49,6 +48,8 @@ aliases:
 - /stadtgeschichten/1feinstaub/
 
 ---
+
+**Das Team um Jan Lutz errichtet zurzeit ein Netzwerk von Feinstaub-Sensoren in Stuttgart. Das soll die Datenlage verbessern und somit die Diskussion über das Umwelt- und Gesundheitsproblem besser informieren.**
 
 ## Dicke Luft
 

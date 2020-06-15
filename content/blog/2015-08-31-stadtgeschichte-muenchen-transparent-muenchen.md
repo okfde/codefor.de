@@ -20,7 +20,6 @@ images: #use 3:2 proportioned image
 - imgname: stories/Muenchen-Transparent.png
   alt: Die Website von München Transparent
 
-excerpt: Tobias Hößl hat sich über das Ratsinformationssystem der Stadtverwaltung geärgert. Daraufhin baute er seine eigene Website, die viele wichtige Funktionen liefert. Inzwischen ist das Projekt eine Transparenz-Plattform für ganz München geworden. Die Nutzer sind begeistert.
 
 members:
 - name: Tobias Hößl
@@ -39,6 +38,8 @@ aliases:
 - /stadtgeschichten/5muenchen-transparent/
 
 ---
+**Tobias Hößl hat sich über das Ratsinformationssystem der Stadtverwaltung geärgert. Daraufhin baute er seine eigene Website, die viele wichtige Funktionen liefert. Inzwischen ist das Projekt eine Transparenz-Plattform für ganz München geworden. Die Nutzer sind begeistert.**
+
 ## Das Problem
 Tobias Hößl interessiert sich für Themen in der Kommunalpolitik, die oft nicht in der Presse diskutiert werden. Open Source Programme für die Stadtverwaltung zum Beispiel. Die Anträge dazu kann man sich aber im Internet ansehen, denn die Stadt München stellt  bestimmte Verwaltungsdokumente öffentlich zur Verfügung. Das geschieht durch ein Ratsinformationssystem (RIS).
 

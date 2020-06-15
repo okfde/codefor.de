@@ -27,7 +27,6 @@ images: #use 3:2 proportioned image
   alt: Johannes Kliemann und Kilian Költzsch zeigen ihre App.
   caption: Johannes und Kilian  © Norbert Millauer
 
-excerpt: Freie Parkplätze in Dresden können nun auf dem Smartphone angezeigt werden. Das OK Lab Dresden wollte damit zeigen, wie man mit öffentlichen Daten den Alltag erleichtern kann. Ihre App kann inzwischen sogar Parkmöglichkeiten Monate im Voraus vorhersagen. Das Geheimnis? Teamwork!
 
 members:
 - name: Consti
@@ -54,6 +53,8 @@ aliases:
 - /stadtgeschichten/4parkenDD/
 
 ---
+
+**Freie Parkplätze in Dresden können nun auf dem Smartphone angezeigt werden. Das OK Lab Dresden wollte damit zeigen, wie man mit öffentlichen Daten den Alltag erleichtern kann. Ihre App kann inzwischen sogar Parkmöglichkeiten Monate im Voraus vorhersagen. Das Geheimnis? Teamwork!**
 
 ## Die Idee
 Das Dresdener OK Lab-Team wollte zeigen, wozu offene Daten gut sind. Schließlich sagt das Thema den meisten Menschen nicht viel. Daher suchten sie sich etwas Alltägliches aus: den Personenverkehr.
