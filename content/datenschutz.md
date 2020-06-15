@@ -119,6 +119,7 @@ Datenschutzerklärung
 
 <h3>VIII. Internetspezifische Datenverarbeitungen</h3>
 
+<!--
 <p>1. "Matomo": Während der Nutzung unserer Internetseiten werden durch uns automatisch technische Zugriffsdaten aufgezeichnet und ausgewertet. Hierfür benutzen wir das Tool "Matomo" (ehemals „Piwik“), ein Open-Source-Programm für Webanalytik, welches statistische Kennwerte zur Nutzung unserer Website auswertet. Diese Daten können jedoch nicht einer bestimmten Person zugeordnet werden; der einzelne Benutzer bleibt hierbei anonym. Weitere Informationen zu "Matomo" finden Sie auf der Website
 	<a href="https://matomo.org">https://matomo.org</a>.</p>
 <p>Zu diesen Daten gehören zum Beispiel</p>
@@ -129,18 +130,13 @@ Datenschutzerklärung
 	<li>die durchschnittliche Verweildauer in unserem Angebot und</li>
 	<li>die in unserer Web-Site aufgerufenen Seiten.</li>
 </ul>
-
-<p>Für die Nutzung von Matomo verwenden wir sogenannte „Cookies“. Hierbei handelt es sich um kleine Textdateien, die ein Webserver an ihren Computer senden kann, um diesen für die Dauer des Besuches zu identifizieren. Wir setzen die beiden Session Cookies pk_ses sowie die persistenten Cookies pk_id und pk_ref ein. Über diese Cookies erfassen wir keine personenbezogenen Daten von Ihnen.</p>
-
-<p>pk_ses wird grundsätzlich nach dem Beenden Ihrer Browsersitzung gelöscht, lediglich bei pk_id und pk_ref handelt es sich um ein über eine Browsersitzung hinaus bestehendes (sog. persistentes) Cookie, anhand dessen wir erkennen können, wann ein Nutzer unsere Seite erneut besucht. Sofern Sie das Cookie nicht selbst entfernen, löscht es sich nach 1 Jahr bzw. 6 Monaten selbständig.</p>
-
+<p>Für die Nutzung von Matomo verwenden wir sogenannte „Cookies“. Hierbei handelt es sich um kleine Textdateien, die ein Webserver an ihren Computer senden kann, um diesen für die Dauer des Besuches zu identifizieren. Wir setzen die beiden Session Cookies pk_ses sowie die persistenten Cookies pk_id und pk_ref ein. Über diese Cookies erfassen wir keine personenbezogenen Daten von Ihnen.</p
+<p>pk_ses wird grundsätzlich nach dem Beenden Ihrer Browsersitzung gelöscht, lediglich bei pk_id und pk_ref handelt es sich um ein über eine Browsersitzung hinaus bestehendes (sog. persistentes) Cookie, anhand dessen wir erkennen können, wann ein Nutzer unsere Seite erneut besucht. Sofern Sie das Cookie nicht selbst entfernen, löscht es sich nach 1 Jahr bzw. 6 Monaten selbständig.</p
 <p>Die Darstellung unserer Internetseite ist auch ohne Speicherung von Cookies möglich. Sie können das Speichern von Cookies in den Einstellungen ihres Browsers deaktivieren oder diesen so einstellen, dass er Sie über die beabsichtigte Speicherung durch eine Internetseite informiert. In diesem Fall entscheiden Sie über die Annahme des Cookies.</p>
-
 <p>Zudem können durch die Entfernung des folgenden Hakens verhindern, dass wir mittels Matomo Analyse-Cookies auf Ihrem Endgerät setzen. In diesem Fall wird ein Cookie gesetzt um uns zu signalisieren, dass Sie der Nutzung widersprochen haben.</p>
-
 <p>Bitte beachten Sie, dass die jeweiligen Einstellungen bzgl. Cookies nur für Ihr aktuell benutztes Gerät und Ihren aktuell benutzten Browser wirksam sind. Sollten Sie ein anderes Gerät oder einen anderen Browser benutzen, müssen Sie in der Regel die Einstellungen erneut vornehmen. Zudem unterstützen wir die „Do not Track“ Funktion Ihres Browsers. Hiermit können Sie uns aktiv über Ihre Browsereinstellungen mitteilen, ob Sie eine Aufzeichnung Ihrer Aktivitäten wünschen oder nicht. Haben Sie „Do not Track“ aktiviert, erfolgt keine Aufzeichnung Ihrer Aktivitäten.</p>
-
-<p>Die Rechtsgrundlage für die Verwendung von Matomo findet sich in Art. 6 Abs. 1 lit. f) DS-GVO. Unser berechtigtes Interesse besteht darin, dass wir die Nutzung unserer Website zu deren Verbesserung und Optimierung auswerten. Die so erfassten Daten werden für einen Zeitraum von 24 Monaten gespeichert.</p>
+<p>Die Rechtsgrundlage für die Verwendung von Matomo findet sich in Art. 6 Abs. 1 lit. f) DS-GVO. Unser berechtigtes Interesse besteht darin, dass wir die Nutzung unserer Website zu deren Verbesserung und Optimierung auswerten. Die so erfassten Daten werden für einen Zeitraum von 24 Monaten gespeichert.</p> 
+-->
 
 <p>2. Einbindung von Youtube Videos: Wir haben YouTube-Videos in unser Online-Angebot eingebunden.YouTube ist ein Broadcasting-Dienst, der uns das kostenlose Einstellen und Verlinken von Videoclips zur Darstellung unseres Unternehmens ermöglicht. Der Dienst auf 
 	<a href="de.youtube.com">https://www.youtube.com/?gl=DE</a>
