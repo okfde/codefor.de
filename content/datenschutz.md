@@ -138,7 +138,7 @@ Datenschutzerklärung
 <p>Die Rechtsgrundlage für die Verwendung von Matomo findet sich in Art. 6 Abs. 1 lit. f) DS-GVO. Unser berechtigtes Interesse besteht darin, dass wir die Nutzung unserer Website zu deren Verbesserung und Optimierung auswerten. Die so erfassten Daten werden für einen Zeitraum von 24 Monaten gespeichert.</p> 
 -->
 
-<p>2. Einbindung von Youtube Videos: Wir haben YouTube-Videos in unser Online-Angebot eingebunden.YouTube ist ein Broadcasting-Dienst, der uns das kostenlose Einstellen und Verlinken von Videoclips zur Darstellung unseres Unternehmens ermöglicht. Der Dienst auf 
+<p>1. Einbindung von Youtube Videos: Wir haben YouTube-Videos in unser Online-Angebot eingebunden.YouTube ist ein Broadcasting-Dienst, der uns das kostenlose Einstellen und Verlinken von Videoclips zur Darstellung unseres Unternehmens ermöglicht. Der Dienst auf 
 	<a href="de.youtube.com">https://www.youtube.com/?gl=DE</a>
 wird bereitgestellt von der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland („Google“).</p>
 	
@@ -154,7 +154,7 @@ von Google. Dort erhalten Sie auch weitere Informationen zu Ihren Rechten und Ei
 	<a href="US-Privacy-Shield">https://www.privacyshield.gov/EU-US-Framework</a>
 unterworfen.</p>
 
-<p>3. Einbindung von Twitter: Weiter ist der Tweet-Button von 
+<p>2. Einbindung von Twitter: Weiter ist der Tweet-Button von 
 	<a href="twitter.com">https://twitter.com/explore</a>
 implementiert, für welchen das Unternehmen Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107 in den USA verantwortlich zeichnet (im Folgenden „Twitter“). Der Button ist an einem weißem “t“ oder an einem Vogel erkennbar. Wenn Sie einen Teil unserer Webseite aufrufen, der eine solche Schaltfläche enthält, baut der Browser bei einer Aktivierung eine direkte Verbindung mit den Servern von Twitter auf. Auch Twitter nutzt Cookies. Jedenfalls erhebt Twitter Daten über Ihr Nutzungsverhalten. Wir haben keinen Einfluss auf den Umfang der Daten, die Twitter mit der Schaltfläche erhebt.</p>
 
@@ -165,7 +165,7 @@ implementiert, für welchen das Unternehmen Twitter Inc., 795 Folsom St., Suite 
 <p>Weitere Ausführungen finden Sie in der
 	<a href="Datenschutzerklärung von Twitter">https://twitter.com/explore</a>.</p>
 	
-<p>4. "Mapbox": Die Kartenbilder auf der Webseite werden von Mapbox, Inc., 740 15th Street NW, 5th Floor, Washington DC 20005 gehostet (“Mapbox”). Bei Anfragen über die APIs von Mapbox werden automatisch bestimmte technische Informationen, einschließlich (a) IP-Adresse, (b) Geräte- und Browserinformationen, (c) Betriebssystem, (d) Inhalt der Anfrage, (e) Datum und Uhrzeit der Anfrage und (f) begrenzte Standort- und Nutzungsdaten, erfasst. Sie löschen IP-Adressen nach 30 Tagen. Wenn eine mobile Anwendung ihre SDKs verwendet, um auf APIs zuzugreifen, kann sie ihnen darüber hinaus bestimmte begrenzte Standort- und Nutzungsdaten zusammen mit einer kurzlebigen ID senden. Sie löschen diese kurzlebige ID innerhalb von 24 Stunden und verknüpfen sie oder die unverarbeiteten mobilen Standortdaten nicht mit irgendwelchen persönlich identifizierenden Informationen, einschließlich Namen, permanenten IDs, E-Mail-Adressen, IP-Adressen oder Telefonnummern. Mapbox sammelt auch nach dem Zufallsprinzip generierte IDs für den begrenzten Zweck der Analyse der Nutzung ihrer APIs, einschließlich der Anzahl der aktiven Benutzer. Die zufällig generierten IDs und den Inhalt von Anfragen an ihre APIs werden nach 36 Monaten löschen.</p>
+<p>3. "Mapbox": Die Kartenbilder auf der Webseite werden von Mapbox, Inc., 740 15th Street NW, 5th Floor, Washington DC 20005 gehostet (“Mapbox”). Bei Anfragen über die APIs von Mapbox werden automatisch bestimmte technische Informationen, einschließlich (a) IP-Adresse, (b) Geräte- und Browserinformationen, (c) Betriebssystem, (d) Inhalt der Anfrage, (e) Datum und Uhrzeit der Anfrage und (f) begrenzte Standort- und Nutzungsdaten, erfasst. Sie löschen IP-Adressen nach 30 Tagen. Wenn eine mobile Anwendung ihre SDKs verwendet, um auf APIs zuzugreifen, kann sie ihnen darüber hinaus bestimmte begrenzte Standort- und Nutzungsdaten zusammen mit einer kurzlebigen ID senden. Sie löschen diese kurzlebige ID innerhalb von 24 Stunden und verknüpfen sie oder die unverarbeiteten mobilen Standortdaten nicht mit irgendwelchen persönlich identifizierenden Informationen, einschließlich Namen, permanenten IDs, E-Mail-Adressen, IP-Adressen oder Telefonnummern. Mapbox sammelt auch nach dem Zufallsprinzip generierte IDs für den begrenzten Zweck der Analyse der Nutzung ihrer APIs, einschließlich der Anzahl der aktiven Benutzer. Die zufällig generierten IDs und den Inhalt von Anfragen an ihre APIs werden nach 36 Monaten löschen.</p>
 
 <p>Die über ihre APIs und SDKs gesammelten Daten werden (1) für interne Diagnose- und Analysezwecke, (2) zur Verbesserung ihrer Mapping-Produkte und -Dienste, (3) zur Bereitstellung ihrer Dienste für Endbenutzer ihrer Kunden und (4) zur Erstellung aggregierter und anonymisierter Nutzungsstatistiken verwendet.</p>
 
