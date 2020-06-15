@@ -1518,3 +1518,7 @@ to = "/projekte/karlsruhe-drl-schauhin"
 [[ redirects ]]
 from = "/en/*"
 to = "/:splat"
+
+[[ redirects ]]
+from = "/assets/presse/20200409-CFG-Handbuch-Krisenresilienz.pdf"
+to = "/documents/Handbuch-Krisenresilienz.pdf"
