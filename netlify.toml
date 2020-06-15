@@ -1518,3 +1518,7 @@ to = "/projekte/karlsruhe-drl-schauhin"
 [[ redirects ]]
 from = "/en/*"
 to = "/:splat"
+
+[[ redirects ]]
+from = "/advent/"
+to = "/archiv/advent18/"
