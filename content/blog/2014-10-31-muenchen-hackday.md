@@ -22,4 +22,4 @@ Unser Open Data Hackday richtet sich gleichermaßen an Entwickler, Designer und 
 Dank großzügigen Sponsoren (bisher <a href="http://get.torial.com/">Torial</a> und <a href="http://www.werk1muenchen.de">WERK1</a>) ist der Eintritt kostenlos. Jedoch ist
 eine <a href="https://www.eventbrite.de/e/munich-open-data-hackday-tickets-14024689223">Registrierung über eventbrite.com</a> notwendig.
 
-Bitte fleißig dafür Werbung auf <a href="https://twitter.com/codeformunich/status/527719561324285952">Twitter</a> und anderen Kanalen machen. Auch mit unserem <a href="/assets/blog/muenchen/hackathonflyer.pdf">Flyer</a> geht's schön altmodisch nicht-virtuell.
+Bitte fleißig dafür Werbung auf <a href="https://twitter.com/codeformunich/status/527719561324285952">Twitter</a> und anderen Kanalen machen. Auch mit unserem <a href="/blog/muenchen/hackathonflyer.pdf">Flyer</a> geht's schön altmodisch nicht-virtuell.

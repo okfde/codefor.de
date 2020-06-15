@@ -41,6 +41,6 @@ Ein Fokus liegt dieses Jahr auf [Feinstaubsensoren](http://luftdaten.info/) und 
 
 <br>
 
- <object data="/assets/blog/OpenDataDay2017.pdf" type="application/pdf" width="100%" height="800px">
-  <p><a href="/assets/blog/OpenDataDay2017.pdf">mehr Informationen im Open Data Day Flyer</a></p>
+ <object data="/blog/OpenDataDay2017.pdf" type="application/pdf" width="100%" height="800px">
+  <p><a href="/blog/OpenDataDay2017.pdf">mehr Informationen im Open Data Day Flyer</a></p>
  </object>

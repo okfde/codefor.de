@@ -6,7 +6,7 @@ excerpt: Um die Interessen der ehrenamtlich engagierten Freiwilligen der Open Kn
 topic: community
 images:
    - imgname: datensummit-stateoftheopen.jpg
-og-image: /assets/blog/datensummit-stateoftheopen.jpg
+og-image: /blog/datensummit-stateoftheopen.jpg
 draft: false
 ---
 

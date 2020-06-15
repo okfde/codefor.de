@@ -6,7 +6,7 @@ excerpt: Wir suchen ab 1. Januar 2020 eine*n Communitybuilder*in zur Verstärkun
 topic: community
 images:
    - imgname: CFG_logo.png
-og-image: /assets/blog/CFG_logo.png
+og-image: /blog/CFG_logo.png
 og-description: Wir suchen ab 1. Januar 2020 eine*n Communitybuilder*in zur Verstärkung des Teams. Berufseinsteiger*innen sind herzlich willkommen!
 
 draft: false
