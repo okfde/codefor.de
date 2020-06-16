@@ -1528,5 +1528,9 @@ from = "/advent/"
 to = "/archiv/advent18/"
 
 [[ redirects ]]
+from = "/launch/"
+to = "/archiv/launch/"
+
+[[ redirects ]]
 from = "/opendataday/"
 to = "/archiv/opendataday18/"
