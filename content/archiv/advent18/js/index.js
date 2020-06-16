@@ -172,7 +172,7 @@ $( document ).ready(function() {
       var link = content[3];
 
       if( adventwindow <= day ) {
-        $(this).append('<div class="revealed"><img src="img/' + iconcode + '.png" /></div>');
+        $(this).append('<div class="revealed"><img src="https://codefor.de/archiv/advent18/img/' + iconcode + '.png" /></div>');
       }
 
       // Add jiggle animation to current day window
@@ -191,7 +191,7 @@ $( document ).ready(function() {
               '<h1>'+headline+'</h1><p>' 
               + description 
               + '</p><br /><a target="_blank" href="' + link + '">Hier gehts zum Projekt &gt;&gt;<br />'
-              + '<img src="img/' + iconcode + '.png" /></a>'
+              + '<img src="https://codefor.de/archiv/advent18/img/' + iconcode + '.png" /></a>'
             );
 
             novicell.overlay.create({
