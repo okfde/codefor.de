@@ -1526,3 +1526,7 @@ to = "/documents/Handbuch-Krisenresilienz.pdf"
 [[ redirects ]]
 from = "/launch/"
 to = "/archiv/launch/"
+
+[[ redirects ]]
+from = "/opendataday/"
+to = "/archiv/opendataday18/"
