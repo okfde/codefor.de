@@ -1,7 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Oleo+Script);
 
 body {
-  background: url("https://codefor.de/archiv/advent18/img/xmas.jpg");
+  background: url("/archiv/advent18/img/xmas.jpg");
+
   color: #fff;
   font-family: 'Oleo Script', cursive;
   padding: 20px;
@@ -49,7 +50,8 @@ li {
 }
 
 ul li:last-child {
-  background: url("https://codefor.de/archiv/advent18/img/santa.jpg") center top;
+  background: url("/archiv/advent18/img/santa.jpg") center top;
+
   background-size:cover;  
   display:block;
   clear:both;
