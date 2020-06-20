@@ -1524,6 +1524,10 @@ from = "/assets/presse/20200409-CFG-Handbuch-Krisenresilienz.pdf"
 to = "/documents/Handbuch-Krisenresilienz.pdf"
 
 [[ redirects ]]
+from = "/advent/"
+to = "/archiv/advent18/"
+
+[[ redirects ]]
 from = "/launch/"
 to = "/archiv/launch/"
 
