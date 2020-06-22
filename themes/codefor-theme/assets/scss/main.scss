@@ -238,3 +238,24 @@ be set to display none.
   @import "breakpoints/print";
 
 }
+
+
+/********************************
+
+ADDITIONAL CSS FOR SPECIAL CASES
+
+*********************************/
+
+// blockquote as used in stadtgeschichten
+
+blockquote {
+    background: #f9f9f9;
+    border-left: 10px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+}
+
+.freetext-container blockquote p {
+    margin-bottom: 15px;
+}
+
