@@ -10,6 +10,8 @@ frontmatter:
 
 sectionPagesMenu: "main"
 
+rssLimit: 10
+
 
 taxonomies:
   category: categories
