@@ -20,7 +20,6 @@ images: #use 3:2 proportioned image
   alt: Magdalena Noffke, Elektrischer Reporter
   caption: Magda © Elektrischer Reporter
 
-excerpt: Magdalena Noffke und ihre MitstreiterInnen wollten wissen, was genau in ihrem Kiez gebaut wird. Die Informationen sind zwar öffentlich, aber nur schwer zugänglich. Also haben sie kurzerhand eine Website programmiert, die alle Bauvorhaben in Berlin zusammenstellt. Finden wir toll!
 
 embed: <iframe src="https://player.vimeo.com/video/65678345?color=004cff&title=0&byline=0&portrait=0" width="610" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -44,6 +43,8 @@ aliases:
 - /stadtgeschichten/6buerger-baut-stadt/
 
 ---
+**Magdalena Noffke und ihre MitstreiterInnen wollten wissen, was genau in ihrem Kiez gebaut wird. Die Informationen sind zwar öffentlich, aber nur schwer zugänglich. Also haben sie kurzerhand eine Website programmiert, die alle Bauvorhaben in Berlin zusammenstellt. Finden wir toll!**
+
 ## Die Idee
 Wenn im eigenen Kiez gebaut wird, fragt man sich oft, was dort genau entsteht. So ginge es auch Magdalena Noffke und ihren Mitstreiterinnen. „Wir haben versucht, uns über diese ganzen Baustellen zu informieren“, sagt Magdalena. Doch das war überhaupt nicht einfach. Viele Informationen sind zwar öffentlich, aber schwer zugänglich. Sie verstecken sich in Amtsblättern, die online eingescannt werden. Das heißt, durchsuchen kann man sie nicht.
 

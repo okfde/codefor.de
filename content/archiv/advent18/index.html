@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Code for Germany Adventskalender</title>
+  
+  
+  
+      <style>
+      /* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
+      @import url(https://fonts.googleapis.com/css?family=Oleo+Script);
+
+body {
+  background: url("/archiv/advent18/img/background-snow.svg");
+
+
+  color: #000;
+  font-family: 'Oleo Script', cursive;
+  padding: 20px;
+  font-weight: 400;
+}
+.novi-overlay__content p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif!important
+}
+.novi-overlay__content {
+  text-align:center
+}
+h1 {
+  margin:0;
+  font-size:75px;
+  line-height: 75px;
+  text-align: center;
+  font-weight: 400;
+}
+
+ul {
+  margin:0 auto 30px auto;
+  padding:0;
+  list-style-type:none;
+  max-width:1100px;
+  width: 100%;
+  text-align: center;
+  user-select: none;
+}
+
+li {
+  font-weight: 400;
+  background-color: #33ce86;
+  box-sizing: border-box;
+  border-radius: 6px;
+  display: inline-block;
+  color:#111;
+  cursor:pointer;
+  font-size: 26px;
+  padding:0;
+  margin:25px 12px;
+  width: 130px;
+  height:130px;
+  line-height: 100px;
+  text-align:center;
+  position: relative;
+  vertical-align:top;
+  user-select: none;
+  perspective: 800px;
+  transition: all 0.4s ease-in-out;
+}
+
+ul li:last-child {
+  background-size:cover;  
+  display:block;
+  clear:both;
+  margin: 20px auto 0 auto;
+  width: 200px;
+  height: 275px;
+}
+
+ul li:last-child .door {
+  font-size: 100px;
+  width: 200px;
+  height: 275px;
+  line-height: 240px;
+}
+
+ul li:last-child .revealed {
+  line-height: 123px;
+}
+
+.door {
+  user-select: none;
+  color:#000;
+  font-size: 70px;
+  position: absolute;
+  top:0;
+  left:0;
+  background-color: #22ac6a;
+  box-sizing: border-box;
+  border: 8px solid black;
+  padding:15px;
+  width: 130px;
+  height:130px;
+  transform-origin: 0 40%; 
+  transition: all 0.4s ease-in-out;
+  transform-style: preserve-3d;
+}
+
+.current .door {
+  background-color: #e64c5f;
+}
+
+.current .door.open{
+  color: #e64c5f;
+}
+
+.revealed {
+  user-select: none;
+  border: 8px solid black;
+  border-left:none;
+  height: 114px;
+}
+
+#message {
+  box-sizing: border-box;
+  color: #222;
+  display: none;
+  font-size: 24px;
+  padding: 20px;
+  background: #eddecb;
+  max-width: 500px;
+  width: 100%;
+  border-radius: 15px;
+  margin: 0 auto;
+}
+
+.betterplace {
+  position:absolute;
+  top:20px;
+  right:20px;
+}
+
+.open {
+  box-shadow: 14px 0px 15px -1px rgba(0,0,0,0.2);
+  color: #22ac6a;
+  transform: rotate3d(0, 1, 0, -98deg);
+}
+
+.jiggle {
+  animation: jiggle 0.2s infinite;
+  transform: rotate(-1deg);
+}
+
+.revealed img {
+  margin: 10px 0 0 10px;
+  width: 100px;}
+
+.desc {
+  margin:auto;
+  text-align:center;
+  max-width:900px;
+}
+        
+@keyframes jiggle {
+  0% {
+        transform: rotate(-1deg);
+  }
+  50% {
+      transform: rotate(1deg);
+  }
+}
+
+@media screen and (min-width: 480px) {
+  li {
+    margin:25px 20px;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+	p {
+		right: 6%;
+		top: 20%;
+		bottom: auto; 
+		margin-left: auto;
+		left: auto;
+  }
+}
+        
+@media screen and (max-width: 1260px) {
+  .betterplace {
+    top: 200px;
+    left: 0;
+    right: 0;
+    width: 160px;
+    margin: auto;
+  }
+  /* ul {
+    margin-top: 140px;
+  } */
+}
+
+@media screen and (max-width: 810px) {
+  :wq
+      .betterplace {
+    top: 300px;
+}
+
+@media screen and (max-width: 581px) {
+  .betterplace {
+    top: 221px;
+  }
+}
+
+@media screen and (max-width: 551px) {
+  .betterplace {
+    top: 293px;
+  }
+}
+
+@media screen and (max-width: 437px) {
+  .betterplace {
+    top: 325px;
+  }
+}
+
+@media screen and (max-width: 384px) {
+  .betterplace {
+    top: 347px;
+  }
+}
+
+@media screen and (max-width: 327px) {
+  .betterplace {
+    top: 370px;
+  }
+}
+
+    </style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+ 
+    <link href="libs/novicell.overlay.css" rel="stylesheet" type="text/css">
+    <script src="libs/novicell.overlay.js"></script>
+
+     <meta property="og:image" content="https://codefor.de/archiv/advent18/img/preview.png"
+    />
+    <meta name="twitter:image:src" content="https://codefor.de/archiv/advent18/img/preview.png"
+    />
+
+</head>
+
+<body>
+
+  <div class="overlay-content" id="js-overlay-content" style="display: none;">
+  </div>
+
+  <h1>Der <a href="https://codefor.de/"><img src="/archiv/assets/CFG_logo.svg" alt="Code for Germany"></a><br> Adventskalender</h1>
+
+  <div class="desc">
+  Um euch die Arbeit der ehrenamtlichen Open Knowledge Labs näher zu bringen, stellen wir euch jeden Tag ein neues Projekt vor! Der Code for Germany Adventskalender: 24 Tage mit 24 tollen Projekten. Türchen aufmachen und auf das Icon klicken:
+ <!--
+  <a class="betterplace" title="Jetzt spenden für „Unterstütze die Open Knowledge Labs!“ auf betterplace.org!" target="_blank" href="https://www.betterplace.org/de/projects/66473-unterstutze-die-open-knowledge-labs/"><img style="border:0px" alt="Jetzt Spenden! Das Spendenformular wird von betterplace.org bereit gestellt." width="160" height="100" src="https://betterplace-assets.betterplace.org/static-images/projects/donation-button-de.png" /></a>
+-->
+  </div>
+
+  <p><center><a title="Jetzt spenden für „Unterstütze die Open Knowledge Labs!“ auf betterplace.org!" target="_blank" href="https://www.betterplace.org/de/projects/66473-unterstutze-die-open-knowledge-labs/"><img style="border:0px" alt="Jetzt Spenden! Das Spendenformular wird von betterplace.org bereit gestellt." width="160" height="100" src="https://betterplace-assets.betterplace.org/static-images/projects/donation-button-de.png" /></a>
+
+  <ul>
+  <li><div class="door">1</div></li>
+  <li><div class="door">2</div></li>
+  <li><div class="door">3</div></li>
+  <li><div class="door">4</div></li>
+  <li><div class="door">5</div></li>
+  <li><div class="door">6</div></li>
+  <li><div class="door">7</div></li>
+  <li><div class="door">8</div></li>
+  <li><div class="door">9</div></li>
+  <li><div class="door">10</div></li>
+  <li><div class="door">11</div></li>
+  <li><div class="door">12</div></li>
+  <li><div class="door">13</div></li>
+  <li><div class="door">14</div></li>
+  <li><div class="door">15</div></li>
+  <li><div class="door">16</div></li>
+  <li><div class="door">17</div></li>
+  <li><div class="door">18</div></li>
+  <li><div class="door">19</div></li>
+  <li><div class="door">20</div></li>
+  <li><div class="door">21</div></li>
+  <li><div class="door">22</div></li>
+  <li><div class="door">23</div></li>
+  <li><div class="door">24</div></li>
+  <li><div class="door">25</div></li>
+</ul>
+
+<p id="message">  </p>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+
+  <script  src="js/index.js"></script>
+
+
+</body>
+
+</html>
