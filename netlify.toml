@@ -1534,3 +1534,7 @@ to = "/archiv/launch/"
 [[ redirects ]]
 from = "/opendataday/"
 to = "/archiv/opendataday18/"
+
+[[ redirects ]]
+from = "/ressourcen/"
+to = "/presse/"
