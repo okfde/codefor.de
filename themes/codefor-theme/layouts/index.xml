@@ -29,7 +29,7 @@
             <description>
                 {{ if .Params.images }}
                 {{ range first 1 .Params.images}}
-                <img src="/blog/{{ .imgname }}" alt="{{ .alt }}">
+                {{ printf "<img src=%q alt=\"%q\">" (path.Join "/blog" .imgname) .alt | html }}
                 {{end}}
                 {{ end }}
                 {{ .Content | html }}
