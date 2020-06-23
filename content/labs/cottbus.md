@@ -18,7 +18,7 @@ links:
   
 leads:
 - name: E-Mail
-  url: hi@okcb.de
+  url: mailto:hi@okcb.de
   
 ---
 
