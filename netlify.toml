@@ -1538,3 +1538,7 @@ to = "/archiv/opendataday18/"
 [[ redirects ]]
 from = "/ressourcen/"
 to = "/presse/"
+
+[[ redirects ]]
+from = "/feed.xml"
+to = "/index.xml"
