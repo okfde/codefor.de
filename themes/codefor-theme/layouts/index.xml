@@ -1,0 +1,40 @@
+{{- $pages := slice -}}
+{{- $pages = where .Site.Pages "Params.type" "blog" -}}
+{{- $limit := .Site.Config.Services.RSS.Limit -}}
+{{- if ge $limit 1 -}}
+{{- $pages = $pages | first $limit -}}
+{{- end -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>{{ .Site.Title }}</title>
+        <link>{{ .Permalink }}</link>
+        <description>Stadt&lt;entwickler*innen&gt; nutzen offene Daten, um Ihre Stadt zu verbessern.</description>
+        <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
+        <language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
+        <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Author.email }}
+        <webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}
+        <copyright>{{.}}</copyright>{{end}}{{ if not .Date.IsZero }}
+        <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+        {{ with .OutputFormats.Get "RSS" }}
+        {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+        {{ end }}
+        {{ range $pages }}
+        <item>
+            <title>{{ .Title }}</title>
+            <link>{{ .Permalink }}</link>
+            <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+            {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
+            <guid isPermaLink="true">{{ .Permalink }}</guid>
+            <description>
+                {{ if .Params.images }}
+                {{ range first 1 .Params.images}}
+                {{ printf "<img src=%q alt=\"%q\">" (path.Join "/blog" .imgname) .alt | html }}
+                {{end}}
+                {{ end }}
+                {{ .Content | html }}
+            </description>
+        </item>
+        {{ end }}
+    </channel>
+</rss>
