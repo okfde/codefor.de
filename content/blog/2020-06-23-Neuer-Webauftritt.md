@@ -15,7 +15,7 @@ published: true
 
 Es ist soweit: Nach langer und harter Arbeit hat Code for Germany eine [neue Webseite](https://codefor.de/) - rundum überarbeitet und mit frischem Design!
 
-Wie gewohnt findet ihr hier alle Infos zu unseren [Labs](https://codefor.de/mitmachen/). By popular demand haben wir außerdem eine Übersicht dazu ergänzt, wie ihr selbst ein OK Lab in eurer Stadt gründen könnt und Teil unseres Netzwerks werdet.
+Wie gewohnt findet ihr hier alle Infos zu unseren [Labs](/mitmachen/). By popular demand haben wir außerdem eine Übersicht dazu ergänzt, wie ihr selbst ein OK Lab in eurer Stadt gründen könnt und Teil unseres Netzwerks werdet.
 
 Auch unsere [Projektübersicht](https://codefor.de/projekte/) ist neu gestaltet und bietet nun die Möglichkeit, unsere vielen, vielen Projekte nach unseren Hauptthemen zu filtern: Umwelt, Politik, Gesellschaft und Mobilität. Hier findet sich bestimmt das ein oder andere Projekt mit Mehrwert für deine Stadt!
 
