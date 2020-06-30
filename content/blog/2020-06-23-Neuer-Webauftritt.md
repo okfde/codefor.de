@@ -19,6 +19,6 @@ Wie gewohnt findet ihr hier alle Infos zu unseren [Labs](/mitmachen/). By popula
 
 Auch unsere [Projektübersicht](/projekte/) ist neu gestaltet und bietet nun die Möglichkeit, unsere vielen, vielen Projekte nach unseren Hauptthemen zu filtern: Umwelt, Politik, Gesellschaft und Mobilität. Hier findet sich bestimmt das ein oder andere Projekt mit Mehrwert für deine Stadt!
 
-Ebenfalls neu hinzugekommen sind Beiträge, in denen wir euch darlegen, was wir [erreichen](https://codefor.de/ziele/) möchten und in denen wir weitere Informationen für Einsteiger\*innen und Fortgeschrittene verlinkt haben. Wir legen dar, was wir unter Open Data, Open Government, Civic Tech, Free and Open Source Software, digitalem Ehrenamt und ökologischer Nachhaltigkeit verstehen und welche Forderungen wir in diesem Zusammenhang unterstützen.
+Ebenfalls neu hinzugekommen sind Beiträge, in denen wir euch darlegen, was wir [erreichen](/ziele/) möchten und in denen wir weitere Informationen für Einsteiger\*innen und Fortgeschrittene verlinkt haben. Wir legen dar, was wir unter Open Data, Open Government, Civic Tech, Free and Open Source Software, digitalem Ehrenamt und ökologischer Nachhaltigkeit verstehen und welche Forderungen wir in diesem Zusammenhang unterstützen.
 
 Viel Spaß beim Stöbern!
