@@ -6,6 +6,9 @@ lat: 53.6007
 long: 11.4433
 markerposition: right
 
+aliases:
+- /mecklenburg-vorpommern
+
 members:
 - name: Michael Milz
   username_github: michamilz

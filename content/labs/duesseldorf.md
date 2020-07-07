@@ -6,6 +6,9 @@ long: 6.7784333
 markerposition: left
 showsignup: false
 
+aliases:
+- /duesseldorf
+
 links:
 - name: Blog
   url: https://codefordus.nrw

@@ -6,6 +6,8 @@ lat: 48.39645
 long: 9.99042
 markerposition: left
 
+aliases:
+- /ulm
 
 members:
 

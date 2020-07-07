@@ -2,6 +2,7 @@ baseURL: https://dev.codefor.de
 languageCode: de-DE
 title: Code for Germany
 theme: codefor-theme
+defaultContentLanguage: de
 
 
 frontmatter:

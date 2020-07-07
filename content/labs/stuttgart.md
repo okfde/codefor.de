@@ -5,6 +5,9 @@ lat: 48.776540
 long: 9.173700
 markerposition: right
 
+aliases:
+- /stuttgart
+
 members:
 - name: Jan Lutz
   username_twitter: Jan_sagt
@@ -59,7 +62,7 @@ leads:
   url: mailto:rajko@codefor.de
   username_twitter: ricki_z
   username_github: ricki-z
-  
+
   hero: Home of sensor.community
 
 ---

@@ -4,6 +4,9 @@ city: Münster
 lat: 51.964928
 long: 7.630490
 
+aliases:
+- /muenster
+
 members:
 
 - name: Gerald Pape
@@ -63,7 +66,7 @@ links:
 leads:
 - name: Kontakt
   url: mailto:muenster@codefor.de
-  
+
 ---
 
 Als eines der eher technischen Labs dreht es sich bei uns vor allem eher darum, wie man eine solide und offene Basis für Open Data-Anwendungen aller Art herstellen kann.

@@ -5,6 +5,9 @@ lat: 50.7371974
 long: 7.0947157
 markerposition: right
 
+aliases:
+- /bonn
+
 members:
 
 - name: Sven Hense

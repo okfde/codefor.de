@@ -3,6 +3,9 @@ city: Paderborn
 title: CodeforPB
 markerposition: right
 
+aliases:
+- /paderborn
+
 members:
 
 - name: Arndt Heuvel

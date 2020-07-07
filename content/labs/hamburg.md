@@ -4,6 +4,9 @@ title: OK Lab Hamburg
 lat: 53.5476165
 long: 9.9800385
 
+aliases:
+- /hamburg
+
 #special: true #this lab gets spcecial marker (digital refugee lab)
 
 markerposition: right

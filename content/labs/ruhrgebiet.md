@@ -6,6 +6,9 @@ long: 7.024764
 markerposition: right
 showsignup: false
 
+aliases:
+- /ruhrgebiet
+
 links:
 - name: Mailingliste
   url: https://mlists.okfn.de/cgi-bin/mailman/listinfo/codeforruhrgebiet
