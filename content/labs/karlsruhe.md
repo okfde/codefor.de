@@ -12,14 +12,18 @@ members: []
 
 links:
 
+- name: Webseite
+  url: https://ok-lab-karlsruhe.de/
+  top: true
+
 - name: Twitter
   url: https://twitter.com/codeforka
 
 - name: GitHub
   url: https://github.com/CodeforKarlsruhe
 
-- name: Meetup
-  url: http://www.meetup.com/OK-Lab-Karlsruhe/
+- name: GetTogether
+  url: https://gettogether.community/ok-lab-ka/
 
 - name: Mailingliste
   url: https://mlists.okfn.de/cgi-bin/mailman/listinfo/codeforkarlsruhe
@@ -30,9 +34,7 @@ links:
 leads:
 
 - name: Andreas
-  url: mailto:andreas.kugel@codefor.de
-- name: Kai
-  url: mailto:post@kai.gs
+  url: mailto:andreas.kugel@ok-lab-karlsruhe.de
 
 
 schedule: karlsruhe.json
