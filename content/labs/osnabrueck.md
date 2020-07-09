@@ -7,6 +7,9 @@ long: 8.0497410
 markerposition: left
 showsignup: false
 
+aliases:
+- /osnabrueck
+
 members:
 - name: Peer Wagner
   username_github: wagnerpeer

@@ -6,6 +6,9 @@ lat: 52.498493
 long: 13.381215
 markerposition: right
 
+aliases:
+- /berlin
+
 members:
 
 - name: Julia Kloiber

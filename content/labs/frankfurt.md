@@ -5,6 +5,9 @@ lat: 50.1167
 long: 8.6833
 markerposition: right
 
+aliases:
+- /frankfurt
+
 members:
 
 - name: Mischa Zöller

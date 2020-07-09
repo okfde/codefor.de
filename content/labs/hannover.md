@@ -6,6 +6,9 @@ lat: 52.366667
 long: 9.716667
 markerposition: left
 
+aliases:
+- /hannover
+
 members:
 
 #- name: Sven Pfennig

@@ -18,7 +18,7 @@ links:
 - name: Webseite
   url: https://code-for-beispiel.de
   top: true # true | false
-  
+
 - name: GetTogether
   url: https://gettogether.community/code-for-beispiel/
   top: true # true | false
@@ -36,8 +36,11 @@ leads:
   url: lena@codeforbeispiel.de
 - name: Ludwig Lead
   url: ludwig@codeforbeispiel.de
-  
-hero: Hier kommt ein kurzer Teaser Text hin.  
+
+hero: Hier kommt ein kurzer Teaser Text hin.
+
+aliases:
+- /beispiel
 ---)
 
 Hier kommt ein schöner Übersichtstext für Interessierte hin. Was macht euch aus, welche Themen bearbeitet ihr, wie seid ihr in der Stadt verankert etc., Wann, wo und wie trefft ihr euch

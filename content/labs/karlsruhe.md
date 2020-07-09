@@ -6,6 +6,9 @@ long: 8.404370
 markerposition: left
 #h4c: true
 
+aliases:
+- /karlsruhe
+
 #special: true #this lab gets spcecial marker (digital refugee lab)
 
 members: []

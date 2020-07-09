@@ -7,6 +7,9 @@ long: 6.640815
 markerposition: left
 showsignup: false
 
+aliases:
+- /niederrhein
+
 members:
 - name: Timo Jeske
   username_github: odadev

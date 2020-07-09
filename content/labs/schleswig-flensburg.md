@@ -6,6 +6,9 @@ lat: 54.66414
 long: 9.40062
 markerposition: right
 
+aliases:
+- /schleswig-flensburg
+
 members:
 
 - name: Frank Radzio

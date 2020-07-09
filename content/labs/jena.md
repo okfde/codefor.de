@@ -5,6 +5,9 @@ lat: 50.9223394
 long: 11.5762312
 markerposition: left
 
+aliases:
+- /jena
+
 members:
 
 - name: Achim

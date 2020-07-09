@@ -4,6 +4,10 @@ title: OK Lab Leipzig
 lat: 51.3322131
 long: 12.3735576
 markerposition: right
+
+aliases:
+- /leipzig
+
 #h4c: true #this lab was part of hack your city
 
 #special: true #this lab gets spcecial marker (digital refugee lab)

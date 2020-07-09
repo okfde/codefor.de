@@ -6,6 +6,9 @@ lat: 52.38947
 long: 13.07853
 markerposition: left
 
+aliases:
+- /potsdam
+
 members: []
 
 

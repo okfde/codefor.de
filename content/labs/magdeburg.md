@@ -5,6 +5,9 @@ lat: 52.11946
 long: 11.62941
 markerposition: right
 
+aliases:
+- /magdeburg
+
 members:
 
 - name: Jens Winter
