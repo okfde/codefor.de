@@ -6,7 +6,7 @@ long: 8.690926
 markerposition: left
 
 aliases:
-- giessen
+- /giessen
 
 showsignup: false
 
