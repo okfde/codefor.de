@@ -24,6 +24,6 @@ draft: false
 
 <p>Wir freuen uns sehr darüber, dass auf dem Forum Offene Stadt Raum für Vernetzung mit den unterschiedlichsten Akteuren der Digitalisierung und Öffnung von Städten ist, aber auch darüber, dass die Arbeit aus nunmehr fast drei Jahren Open Knowledge Lab Hamburg, Code for Hamburg, sichtbar gemacht wird mit ganz praktischen Beispielen und Geschichten.</p>
 
-<p>Das Forum Offene Stadt bildet damit den Auftakt zum <a href="de.opendataday.org">International Open Data Day</a> der in zahlreichen Ländern und Städten jedes Jahr gleichzeitig stattfindet und von der weltweiten Community organisiert wird. In Deutschland nehmen 13 Open Knowledge Labs teil, darunter auch Hamburg, die am nächsten Tag <a href="http://de.opendataday.org/hamburg/">ins Lab einladen</a>, um ganz praktisch mit Offenen Daten, Ideen und Impulsen aus dem Forum zu arbeiten.</p>
+<p>Das Forum Offene Stadt bildet damit den Auftakt zum <a href="http://de.opendataday.org">International Open Data Day</a> der in zahlreichen Ländern und Städten jedes Jahr gleichzeitig stattfindet und von der weltweiten Community organisiert wird. In Deutschland nehmen 13 Open Knowledge Labs teil, darunter auch Hamburg, die am nächsten Tag <a href="http://de.opendataday.org/hamburg/">ins Lab einladen</a>, um ganz praktisch mit Offenen Daten, Ideen und Impulsen aus dem Forum zu arbeiten.</p>
 
 <p>Wir freuen uns auf die Veranstaltung und wünschen dem OK Lab Hamburg noch viele spannende Jahre, Projekte und Kooperationen!</p>

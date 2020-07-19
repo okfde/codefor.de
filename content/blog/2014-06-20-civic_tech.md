@@ -51,7 +51,7 @@ Poplus wurde vor Kurzem in Santiago de Chile von der britischen Organisation <a 
 **Weitere spannende Links und Projekte:**
 
 
-[Derek Eder] Civic Developer aus Chicago hat sein neustes Projekt <a href="Is raw sewage being dumped into Chicago rivers right now?">Is there sewage in the Chicago river?"</a> vorgestellt.
+[Derek Eder] Civic Developer aus Chicago hat sein neustes Projekt <a href="http://istheresewageinthechicagoriver.com">Is there sewage in the Chicago river?"</a> vorgestellt.
 
 Die indische Open Data Community [Data{Meet}] in Bangalore, Delhi, Hyderabad, Chennai.
 
