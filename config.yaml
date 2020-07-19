@@ -18,6 +18,9 @@ taxonomies:
   category: categories
   tag: tags
 
+permalinks:
+  labs: "/:filename"
+
 mediaTypes:
   application/nginx:
     suffixes:
