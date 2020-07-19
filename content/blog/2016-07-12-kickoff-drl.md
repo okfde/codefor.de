@@ -18,10 +18,10 @@ images:
 
 Wir freuen uns sehr: Alle vier Digital Refugee Labs haben offiziell ihre Arbeit aufgenommen! Nach vier intensiven, spannenden und anstrengenden Kickoff-Workshops geht die Arbeit in Leipzig, Hamburg, Berlin und Karlsruhe nun erst richtig los.
 
-In Kürze findet ihr die Projekte auf <a href="codefor.de/digitalrefugeelabs">codefor.de/digitalrefugeelabs</a>. Bis dahin haben wir für euch die Eindrücke aus den Workshops gesammelt:
+In Kürze findet ihr die Projekte auf <a href="{{< ref "/blog/2016-04-12-digital-refugee-labs" >}}">codefor.de/digitalrefugeelabs</a>. Bis dahin haben wir für euch die Eindrücke aus den Workshops gesammelt:
 
 <h3 style="text-align: center">Leipzig</h3>
-Den Auftakt unserer Kickoff-Reihe machte am 21. Mai das OK Lab Leipzig, organisiert von Max aus dem OK Lab Leipzig. Im Basislager wurde ein Tag lang getüftelt und vier Projekte wurden erdacht, unterstützt oder weiterentwickelt. Mit dabei waren unter anderem <a href="http://hoaxmap.org">hoaxmap.org</a> und <a href="https://github.com/CodeforLeipzig/amikeco">Amikeco</a>. Reaktionen zum Workshop in Leipzig könnt ihr außerdem <a href="codefor.de/blog/drl-workshop-leipzig">hier</a> nachlesen.
+Den Auftakt unserer Kickoff-Reihe machte am 21. Mai das OK Lab Leipzig, organisiert von Max aus dem OK Lab Leipzig. Im Basislager wurde ein Tag lang getüftelt und vier Projekte wurden erdacht, unterstützt oder weiterentwickelt. Mit dabei waren unter anderem <a href="http://hoaxmap.org">hoaxmap.org</a> und <a href="https://github.com/CodeforLeipzig/amikeco">Amikeco</a>. Reaktionen zum Workshop in Leipzig könnt ihr außerdem <a href="https://codefor.de/blog/drl-workshop-leipzig">hier</a> nachlesen.
 
 
 <h3 style="text-align: center">Hamburg</h3>
@@ -33,7 +33,7 @@ Der zweite Workshop fand in der Hamburger Hafen-City statt, direkt an der Elbe. 
 <br>
 
 <h3 style="text-align: center">Berlin</h3>
-Den größten Workshop richtete das OK Lab Berlin aus: 55 Teilnehmende trafen sich am 25. Juni bei brütender Hitze in den Räumen der Wikimedia, um vier existierenden Projekten weiterzuhelfen. Eines der Hauptanliegen war es, für mehr Transparenz zwischen den zahlreichen Initiativen, Organisationen und sonstigen Akteuren zu sorgen und zu vermeiden, dass Werkzeuge unnötigerweise mehrfach entwickelt werden. Die Organisator*innen von <a href="metacollect.org">Metacollect</a> schlossen sich mit anderen Initiativen zusammen, um eine Strategie zu entwickeln, wie digitale Werkzeuge, Anwendungen und Initiativen besser sichtbar werden, sich stärker digital vernetzen können und welche Voraussetzungen dafür erfüllt werden müssen.
+Den größten Workshop richtete das OK Lab Berlin aus: 55 Teilnehmende trafen sich am 25. Juni bei brütender Hitze in den Räumen der Wikimedia, um vier existierenden Projekten weiterzuhelfen. Eines der Hauptanliegen war es, für mehr Transparenz zwischen den zahlreichen Initiativen, Organisationen und sonstigen Akteuren zu sorgen und zu vermeiden, dass Werkzeuge unnötigerweise mehrfach entwickelt werden. Die Organisator*innen von <a href="http://metacollect.org">Metacollect</a> schlossen sich mit anderen Initiativen zusammen, um eine Strategie zu entwickeln, wie digitale Werkzeuge, Anwendungen und Initiativen besser sichtbar werden, sich stärker digital vernetzen können und welche Voraussetzungen dafür erfüllt werden müssen.
 
 
 ![drl-ws-berlin](/blog/drl-ws-berlin.jpg)
