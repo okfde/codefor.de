@@ -18,6 +18,20 @@ taxonomies:
   category: categories
   tag: tags
 
+mediaTypes:
+  application/nginx:
+    suffixes:
+    - nginx
+
+outputFormats:
+  nginx:
+    baseName: redirects
+    isPlainText: true
+    mediaType: application/nginx
+    notAlternative: true
+
+outputs:
+  home: ["html", "rss", "nginx"]
 
 markup:
   defaultMarkdownHandler: goldmark
