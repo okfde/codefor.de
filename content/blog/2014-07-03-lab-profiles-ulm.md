@@ -27,6 +27,6 @@ Eine davon ist "[Kleiner Spatz][]",eine Anwendung, die Eltern dabei hilft, einen
 Die Karte nutzt dafür Daten von der Stadt und wird monatlich aktualisiert.
 Erfreulicherweise wurde das Projekt bereits von anderen OK Labs übernommen und Redployments in Hamburg, Leipzig und Dresden sind bereits in Arbeit.
 
-[OK Lab]: {{< ref "/labs/ulm" >}}
+[OK Lab]: {{< ref "/ulm" >}}
 [Ulm API]: http://www.ulmapi.de
 [Kleiner Spatz]: http://www.ulmapi.de/kleinerspatz/
