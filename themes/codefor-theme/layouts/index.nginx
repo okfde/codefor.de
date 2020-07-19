@@ -6,6 +6,8 @@
   {{- end -}}
 {{- end -}}
 {{- range .Site.Data.netlify.redirects -}}
+  {{- if not (in .from "*") -}}
   {{- $rules = $rules | append (printf "rewrite %s %s permanent;\n" .from .to) -}}
+  {{- end -}}
 {{- end -}}
 {{ range (uniq $rules) }}{{ . }}{{ end }}
