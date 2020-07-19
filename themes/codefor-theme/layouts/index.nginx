@@ -2,12 +2,12 @@
 {{- range .Site.AllPages -}}
   {{- $target := .Permalink | relURL -}}
   {{- range .Aliases -}}
-    {{- $rules = $rules | append (printf "rewrite %s %s permanent;\n" . $target) -}}
+    {{- $rules = $rules | append (printf "rewrite ^%s$ %s permanent;\n" . $target) -}}
   {{- end -}}
 {{- end -}}
 {{- range .Site.Data.netlify.redirects -}}
   {{- if not (in .from "*") -}}
-  {{- $rules = $rules | append (printf "rewrite %s %s permanent;\n" .from .to) -}}
+  {{- $rules = $rules | append (printf "rewrite ^%s$ %s permanent;\n" .from .to) -}}
   {{- end -}}
 {{- end -}}
 {{ range (uniq $rules) }}{{ . }}{{ end }}
