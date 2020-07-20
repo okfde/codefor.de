@@ -48,7 +48,7 @@ links:
 
 leads:
 - name: E-Mail
-  url: mailto:berlin@codefor.de
+  url: mailto:bielefeldn@codefor.de
 
 
 calendar:
