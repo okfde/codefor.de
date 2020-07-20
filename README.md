@@ -8,7 +8,7 @@ Solltest du Hilfe brauchen oder eine Frage haben, mach gerne ein [Issue](https:/
 
 ## Änderungen vorschlagen oder neue Inhalte hinzufügen
 
-1. Nur wenn noch nicht geschehen: [Hugo installieren](https://gohugo.io/getting-started/installing/)
+1. Nur wenn noch nicht geschehen: [Hugo Extended installieren](https://gohugo.io/getting-started/installing/)
 5. Einen neuen Branch erstellen
 2. Eine neue Datei im Verzeichnis content/blog anlegen.
     - Der Dateiname sollte dem Schema `JJJJ-MM-TT-irgeneinname.md` folgen. (J = Jahr, M = Monat, T=Tag).
