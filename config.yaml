@@ -13,6 +13,7 @@ sectionPagesMenu: "main"
 
 rssLimit: 10
 
+enableRobotsTXT: true
 
 taxonomies:
   category: categories
