@@ -92,12 +92,8 @@ In short, we need a simple API. The ideal solution would be an API that connects
 
 If you take on this project for Open Data Day, check out [this specification that I wrote for pet data](https://github.com/drewrwilson/pet-data-format/blob/master/animals.json#L7-L20). If the data comes out fitting that json api, you would just need to connect the CutePets code to your API and (tada!) you have a twitter bot.
 
-## More resources Background on CutePets bot project here: [Raise Your
- Paws If You Like Open
- Data](http://www.codeforamerica.org/blog/2014/04/28/raise-your-paws-if-you-like-open-data/). The
- code is available here, with step-by-step instructions for
- redeployment:
- [https://github.com/codeforamerica/cutepets](https://github.com/codeforamerica/cutepets).
+## More resources Background on CutePets bot project here:
+[Raise Your Paws If You Like Open Data](http://www.codeforamerica.org/blog/2014/04/28/raise-your-paws-if-you-like-open-data/). The code is available here, with step-by-step instructions for redeployment: [https://github.com/codeforamerica/cutepets](https://github.com/codeforamerica/cutepets).
 
 
 
