@@ -53,7 +53,7 @@ Das Ergebnis ist beeindruckend. Ihre Website lädt die Datensätze vom RIS tägl
 ## Eine Überraschung
 Jahrelang hat Tobias versucht, das Projekt mit der Stadtverwaltung abzusprechen. Das war ein zäher Prozess und hat der Motivation viel geschadet. Doch dann hat Tobias aufgehört, auf die Stadtverwaltung zu warten: „Das hätte ich vermutlich gleich von Anfang an machen sollen.“
 
-Doch dann kam eine Überraschung: neue Gesichter aus der Stadtverwaltung besuchten eines Tages das [OK Lab München](/labs/muenchen/) So ging die Zusammenarbeit doch noch voran. Dass MitarbeiterInnen sich für Open Data und Programmieren interessieren, sei aber eher ein glücklicher Zufall, meint Tobias.
+Doch dann kam eine Überraschung: neue Gesichter aus der Stadtverwaltung besuchten eines Tages das [OK Lab München]({{< ref "/muenchen" >}}) So ging die Zusammenarbeit doch noch voran. Dass MitarbeiterInnen sich für Open Data und Programmieren interessieren, sei aber eher ein glücklicher Zufall, meint Tobias.
 
 <blockquote>
   <p>Ich denke, das alleine ist schon etwas wert, dass solche öffentliche Diskussionen mit besserer Informationslage geführt werden können.</p>

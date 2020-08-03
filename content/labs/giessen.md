@@ -5,6 +5,9 @@ lat: 50.587142
 long: 8.690926
 markerposition: left
 
+aliases:
+- /giessen
+
 showsignup: false
 
 members:

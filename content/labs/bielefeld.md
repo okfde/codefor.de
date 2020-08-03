@@ -6,6 +6,9 @@ lat: 52.021088
 long: 8.532800
 markerposition: right
 
+aliases:
+- /bielefeld
+
 members:
 
 - name: Helen Bielawa
@@ -45,11 +48,11 @@ links:
 
 leads:
 - name: E-Mail
-  url: mailto:berlin@codefor.de
+  url: mailto:bielefeld@codefor.de
 
 
 calendar:
-- title: Kickoff 
+- title: Kickoff
   date: 25.06.2020
   location: Remote
   url: https://www.meetup.com/de-DE/Code-For-Bielefeld/events/270255036/
@@ -58,10 +61,9 @@ calendar:
 
 Willkommen bei Code for Bielefeld!
 
-Wir sind eine Gruppe von Menschen mit Interessen und Fähigkeiten in den Bereichen Hardware-/Software-Entwicklung, Design und Open Data. 
+Wir sind eine Gruppe von Menschen mit Interessen und Fähigkeiten in den Bereichen Hardware-/Software-Entwicklung, Design und Open Data.
 Gemeinsam wollen wir digitale Werkzeuge und Visualisierungen erstellen, um öffentliche Daten für Bürger*innen sichtbar und nutzbar zu machen.
 
-Jede*r Interessierte ist herzlich eingeladen vorbeizuschauen und mitzumachen! 
+Jede*r Interessierte ist herzlich eingeladen vorbeizuschauen und mitzumachen!
 
 Werde Mitglied in unserer MeetUp-Gruppe, um über Veranstaltungen und Treffen auf dem Laufenden gehalten zu werden.
-

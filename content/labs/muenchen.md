@@ -5,6 +5,9 @@ lat: 48.14356
 long: 11.55792
 markerposition: right
 
+aliases:
+- /muenchen
+
 ## LHM Marsstr. 22
 #lat: 48.14356
 #long: 11.55792

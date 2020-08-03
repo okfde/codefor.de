@@ -4,6 +4,9 @@ title: OK Lab Hamburg
 lat: 53.5476165
 long: 9.9800385
 
+aliases:
+- /hamburg
+
 #special: true #this lab gets spcecial marker (digital refugee lab)
 
 markerposition: right
@@ -58,6 +61,12 @@ members:
   username_github: felixkqb
   username_twitter: felixkqb
 
+- name: Tom Friedel
+  username_github: TomThats
+  username_twitter: TomThats
+
+- name: Feena Fensky
+
 - name: Anne Kis
 
 
@@ -67,11 +76,8 @@ links:
 #- name: Flyer
 #  url: in progress
 
-- name: CODEFORHAMBURG.ORG - NEU
+- name: CODEFORHAMBURG.ORG
   url: http://codeforhamburg.org/
-
-- name: Mailingliste - NEU
-  url: http://codeforhamburg.org/newsletter/
 
 - name: Termine (Meetup.com)
   url: http://www.meetup.com/codeforhamburg
@@ -79,25 +85,31 @@ links:
 - name: Twitter - Neuigkeiten
   url: http://twitter.com/codeforhamburg
 
-- name: Notizen... (Orga, Updates usw.)
-  url: http://pad.opendatacloud.de/p/OK-Lab-HH
-
 leads:
 
 - name: Solveig Schröder (Orga)
   url: mailto:solveig@codeforhamburg.org
 
+- name: Christian Wittig (Orga)
+  url: mailto:christian@codeforhamburg.org 
+
 - name: Timo Lundelius (Orga)
   url: mailto:timo@codeforhamburg.org
 
-- name: Philipp Geisler (Orga)
-  url: mailto:philipp@codeforhamburg.org
+- name: Feena Fensky (Orga)
+  url: mailto:feena@codeforhamburg.org
+  
+- name: Tom Friedel (Orga)
+  url: mailto:tom@codeforhamburg.org
 
 - name: Marco Maas (Ehrenpräsident)
   url: mailto:maas@opendatacity.de
 
 - name: Timo Kessler (Immer gern gesehen)
   url: mailto:timo_kessler@gmx.de
+
+- name: Philipp Geisler (Immer gern gesehen)
+  url: mailto:philipp@codeforhamburg.org
 
 ---
 

@@ -10,7 +10,7 @@ images:
 
 # Offene Daten in der Berliner Verwaltung
 
-<i>Gastbeitrag von Niels Reinhard von <a href="www.idalab.de"></a>idalab</i>
+<i>Gastbeitrag von Niels Reinhard von <a href="https://idalab.de">idalab</a></i>
 
 Das Hinwirken auf ein proaktives Veröffentlichen von Verwaltungsdaten aus deutschen Behörden ist eines der zentralen Ziele der Open Data Bewegung. Die gesellschaftlichen Mehrwerte - mehr Transparenz, mehr Partizipation und Innovation - liegen auf der Hand. Ein neues Open Data Projekt zeigt jetzt, dass offene Daten eine Win-Win-Situation sind: Auch die Verwaltung kann direkt profitieren und interne Prozesse effizienter gestalten. In diesem konkreten Fall unterstützt eine neue Anwendung das Bezirksamt Tempelhof-Schöneberg zu Berlin bei der Zuschneidung von Grundschuleinzugsgebieten.
 

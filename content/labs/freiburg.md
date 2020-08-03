@@ -4,6 +4,9 @@ title: OK Lab Freiburg
 lab: OK Lab Freiburg
 markerposition: right
 
+aliases:
+- /freiburg
+
 members:
 
 - name: Andreas Pawelke

@@ -5,6 +5,9 @@ lat: 49.139059
 long: 9.220404
 markerposition: right
 
+aliases:
+- /heilbronn
+
 members:
 - name: Adrian Stabiszewski
   username_github: grundid

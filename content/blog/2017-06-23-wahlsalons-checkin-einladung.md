@@ -13,7 +13,7 @@ draft: false
 
 ## 1 down, 2 to go: Einladung zum zweiten Wahlsalon in Köln!
 
-Nach einem erfolgreichen [Kick-Off]({{< ref "/blog/2017-05-25-wahlsalons-kickoff.md" >}}) der Wahlsalons 2017 am 24. Mai in Berlin steht nun als nächstes der Check-In in der Domstadt an. Zusammen mit dem [OK Lab Köln]({{< ref "/labs/koeln" >}}) und <a href="hack.institute">hack.institute</a> werden wir vielleicht schon die ersten Früchte ernten können und sehen, was in der kurzen Zeit mit offenen Wahldaten umgesetzt werden konnte.
+Nach einem erfolgreichen [Kick-Off]({{< ref "/blog/2017-05-25-wahlsalons-kickoff.md" >}}) der Wahlsalons 2017 am 24. Mai in Berlin steht nun als nächstes der Check-In in der Domstadt an. Zusammen mit dem [OK Lab Köln]({{< ref "/koeln" >}}) und <a href="https://hack.institute">hack.institute</a> werden wir vielleicht schon die ersten Früchte ernten können und sehen, was in der kurzen Zeit mit offenen Wahldaten umgesetzt werden konnte.
 
 Doch das Event in der <a href="http://www.die-wohngemeinschaft.net">Kölner Wohngemeinschaft</a>, einer außergewöhnlichen Location, wo bereits der ein oder andere Hackathon Station machte, soll natürlich nicht nur Vorhandenes zeigen. Vielmehr sind wir auf der Suche nach weiteren Mitstreitern, die Lust haben, Wählerinnen und Wählern mit ihren Ideen den Zugang zu wahlrelevanten Infos so einfach wie möglich zu machen. Beim Kick-Off war zu sehen, dass die Teilnehmer hier richtig gute Ideen und auch die Skills haben, um diese in Tools umzusetzen.
 
@@ -21,7 +21,7 @@ Deshalb gibt es in Köln neben kurzen Pitches der aktuellen Projekte auch Worksh
 
 Nach dem Kölner Check-In geht es dann in die finale Phase: Bis zum 1. September feilen die Teilnehmer weiter an ihren Projekten, bevor sie an diesem Tag im Showroom Berlin, dem letzten Event unserer Serie, vorgestellt werden. Die ersten Ideen versprechen eine Menge, schauen wir mal, was bis zum Check-In daraus geworden ist.
 
-<b>Infos und Anmeldung</b> findet ihr hier: <a href="www.codefor.de/wahlsalons">codefor.de/wahlsalons</a>
+<b>Infos und Anmeldung</b> findet ihr hier: <a href="https://codefor.de/wahlsalons">codefor.de/wahlsalons</a>
 Die Open Knowledge Foundation erstattet gerne Reisekosten, meldet euch dazu einfach vorher kurz bei <a href="mailto:fiona.krakenbuerger@okfn.de">Fiona</a>.
 
 

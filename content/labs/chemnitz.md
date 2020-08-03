@@ -5,6 +5,9 @@ lat: 50.83063
 long: 12.93973
 markerposition: right
 
+aliases:
+- /chemnitz
+
 members:
 
 - name: Morris Jobke

@@ -4,6 +4,9 @@ title: Open Data Dresden
 lat: 51.08113
 long: 13.72858
 
+aliases:
+- /dresden
+
 members:
 
 - name: Astro

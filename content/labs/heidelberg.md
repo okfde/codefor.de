@@ -6,6 +6,9 @@ lat: 49.40768
 long: 8.69079
 markerposition: left
 
+aliases:
+- /heidelberg
+
 members:
 - name: Jasper Schmidt
   username_github:

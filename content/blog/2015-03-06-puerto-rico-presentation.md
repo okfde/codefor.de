@@ -18,7 +18,7 @@ Monday March 9, 2015 at 7:15pm - Join Code for Germany for a unique & inspiring 
 
 [![code for pueto rico](/blog/code4pr-logo.png)](http://code4puertorico.org/)
 
-This presentation is taking place at the [Code for Cologne]({{< ref "/labs/koeln" >}}/) meetup and begins at 7:15pm (Germany time, CET , UTC+1). Stephanie is joining Cologne remotely and the presentation will also be [live streamed](http://www.youtube.com/watch?v=bDtF7AdzPGs).
+This presentation is taking place at the [Code for Cologne]({{< ref "/koeln" >}}) meetup and begins at 7:15pm (Germany time, CET , UTC+1). Stephanie is joining Cologne remotely and the presentation will also be [live streamed](http://www.youtube.com/watch?v=bDtF7AdzPGs).
 
 # Event details:
 

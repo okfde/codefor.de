@@ -1,4 +1,4 @@
-[//]: # (---
+---
 city: Beispiel # Name der Stadt/Region. Taucht im Dropdown der Karte auf
 title: Code for Beispiel # Name des Labs. Zb Überschrift der lab-seite
 lat: 53
@@ -38,6 +38,6 @@ leads:
   url: ludwig@codeforbeispiel.de
   
 hero: Hier kommt ein kurzer Teaser Text hin.  
----)
+---
 
 Hier kommt ein schöner Übersichtstext für Interessierte hin. Was macht euch aus, welche Themen bearbeitet ihr, wie seid ihr in der Stadt verankert etc., Wann, wo und wie trefft ihr euch

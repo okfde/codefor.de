@@ -13,7 +13,7 @@ images:
 
 <h3 style="text-align: center">Worum geht's?</h3>
 
-<p>Vier Labs aus dem Code for Germany Netzwerk machen sich dieses Jahr das Thema Flucht und Asyl zum Schwerpunkt. Die Mitglieder der OK Labs in <b><a href="{{< ref "/labs/leipzig" >}}">Leipzig</a>, <a href="{{< ref "/labs/karlsruhe" >}}">Karlsruhe</a>, <a href="{{< ref "/labs/berlin" >}}">Berlin</a></b> und <b><a href="{{< ref "/labs/hamburg" >}}">Hamburg</a></b> wollen sich dieses Jahr mit Initiativen, Organisationen und Institutionen vernetzen und deren Arbeit mithilfe von Tools und Techniken erleichtern.</p>
+<p>Vier Labs aus dem Code for Germany Netzwerk machen sich dieses Jahr das Thema Flucht und Asyl zum Schwerpunkt. Die Mitglieder der OK Labs in <b><a href="{{< ref "/leipzig" >}}">Leipzig</a>, <a href="{{< ref "/karlsruhe" >}}">Karlsruhe</a>, <a href="{{< ref "/berlin" >}}">Berlin</a></b> und <b><a href="{{< ref "/hamburg" >}}">Hamburg</a></b> wollen sich dieses Jahr mit Initiativen, Organisationen und Institutionen vernetzen und deren Arbeit mithilfe von Tools und Techniken erleichtern.</p>
 <br>
 
 <h3 style="text-align: center">Wie machen wir das?</h3>

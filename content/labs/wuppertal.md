@@ -7,6 +7,9 @@ long: 7.14539
 markerposition: right
 h4c: true
 
+aliases:
+- /wuppertal
+
 members:
 
 - name: Nico Heßler

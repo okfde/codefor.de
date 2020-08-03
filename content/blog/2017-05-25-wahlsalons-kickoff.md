@@ -31,7 +31,7 @@ draft: false
 
 <p>Alle Teilnehmerinnen sind eingeladen, in den nächsten Wochen an ihren Projekten zu arbeiten und den Zwischenstand am 07.07. in Köln beim zweiten Wahlsalon vorzustellen, der gemeinsam von der Open Knowledge Foundation und hack.institute organisiert wird. Auch alle Interessierten die an spannenden Projekten arbeiten und beim ersten Wahlsalon nicht dabei waren, sind herzlich eingeladen. Neben den drei Hauptevents finden auch viele Veranstaltungen von der Community statt und werden auf der Seite aufgelistet.</p>
 
-<p>Vielen Dank an alle die da waren, es war ein wirklich spannender und interessanter Abend! Danke auch für die Unterstützung durch <a href="https://google.org">Google</a>, <a href="http://hack.institute">Hackinstitute</a>, <a href="https://wikimedia.de">Wikimedia</a> und dem <a href="{{< ref "/labs/berlin" >}}">OK Lab Berlin</a>.</p>
+<p>Vielen Dank an alle die da waren, es war ein wirklich spannender und interessanter Abend! Danke auch für die Unterstützung durch <a href="https://google.org">Google</a>, <a href="http://hack.institute">Hackinstitute</a>, <a href="https://wikimedia.de">Wikimedia</a> und dem <a href="{{< ref "/berlin" >}}">OK Lab Berlin</a>.</p>
 
 ![wahlsalon-3](/blog/wahlsalon-3.jpg)
 
