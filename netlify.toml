@@ -264,10 +264,6 @@ from = "/blog/heilbronn-kickoff.html"
 to = "/blog/heilbronn-kickoff/"
 
 [[redirects]]
-from = "/blog/index.html"
-to = "/blog/index/"
-
-[[redirects]]
 from = "/blog/jugend-hackt.html"
 to = "/blog/jugend-hackt/"
 
