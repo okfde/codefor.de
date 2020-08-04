@@ -1,6 +1,6 @@
 # Code for Germany – Unsere Website
 
-Dieses Repository beinhaltet die neue codefor.de Webseite. Für die Entwicklung wird [Hugo](https://gohugo.io/getting-started/installing/), ein *Static Site Generator*, verwendet. Den aktuellen Stand kann man sich unter der Adresse [https://dev.codefor.de/](https://dev.codefor.de/) ansehen.
+Dieses Repository beinhaltet die neue codefor.de Webseite. Für die Entwicklung wird [Hugo](https://gohugo.io/getting-started/installing/), ein *Static Site Generator*, verwendet. Den aktuellen Stand des `dev`-Branches kann man sich unter der Adresse [https://dev.codefor.de](https://dev.codefor.de) ansehen, die _produktive_ Version, die im `main`-Branch liegt, unter [https://codefor.de](https://codefor.de).
 
 Um Inhalte hinzuzufügen oder zu ändern ist im Grunde nur ein wenig Ahnung von [Markdown](https://www.markdownguide.org/getting-started/) benötigt.
 
