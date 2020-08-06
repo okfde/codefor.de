@@ -34,22 +34,20 @@ members:
 
 links:
 - name: Meetup
-  url: http://www.meetup.com/OK-Lab-Heilbronn/
+  url: https://www.meetup.com/de-DE/codeforhn/
 - name: Twitter
   url: https://twitter.com/codeforhn
 - name: Code For Heilbronn Website
-  url: http://codeforheilbronn.de
-- name: Coworking Space Heilbronn
-  url: http://coworking-heilbronn.org/
+  url: https://codeforheilbronn.de
+- name: Maker Space
+  url: https://makerspace.experimenta.science/
 
 leads:
-- name: Adrian Stabiszewski
-  url: mailto:adrian@opendatalab.de
 - name: Jonathan Günz
   url: https://twitter.com/harmoniemand
-- name: Felix Ebert
-  url: mailto:felix@opendatalab.de
+- name: Patrick Hahn
+  url: https://twitter.com/patrick24651
 
 ---
 
-Wir sind eine Gruppe von ehrenamtlich Aktiven, die sich für Offene Daten, Freie und Offene Software und Open Government interessiert. Unser OK Lab setzt sich lokal für eine Verbesserung der Transparenz von Staat und Verwaltungen ein, stößt Projekte zur Bürgerbeteiligung an und sucht den Austausch mit den Verwaltungen, um gemeinsam Lösungen für die Herausforderungen in unserer Region zu finden. Wir treffen uns regelmäßig, um unsere Projekte weiterzuentwickeln.
+Wir sind ein Verein aus (jungen) Menschen, die sich für Offene Daten, Freie und Offene Software und Hardware interessieren. Unser OK Lab hat seinen besonderen Schwerpunkt auf Wissensaustausch und Jugendarbeit. Wir treffen uns wöchentlich zum Austausch über diverse technische Themen und Projekte. Dazu haben wir jeden Donnerstag 18:30 Uhr das Community-StandUp. Wir treffen uns im Maker Space in der Experimenta in Heilbronn.
