@@ -14,7 +14,7 @@ links:
 - name: Lab-Termine und Infos vom Projektpartner neuland21
   url: https://neuland21.de/das-ok-lab-flaeming-geht-an-den-start/
   
-  leads:
+leads:
 - name: Martin Koll
   url: martin [aet] oklab-potsdam.de <>
 
