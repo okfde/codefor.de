@@ -99,7 +99,7 @@ Mehr Blogartikel lesen
 Aktuelle Veranstaltungen unserer Labs gibt es in unserem Nextcloud Kalender.
 {{< /paragraph-center >}}
 
-{{< button-center href="https://cloud.prototypefund.de/apps/calendar/p/DkfdNbzXmyXr3jtL/dayGridMonth/now" target="_blank" >}}
+{{< button-center href="https://cloud.prototypefund.de/apps/calendar/p/i7d3aDKsyoD34geL/dayGridMonth/now" target="_blank" >}}
 Termine ansehen
 {{< /button-center >}}
 
