@@ -1,10 +1,10 @@
 # Code for Germany – Unsere Website
 
-Dieses Repository beinhaltet die neue codefor.de Webseite. Für die Entwicklung wird [Hugo](https://gohugo.io/getting-started/installing/), ein *Static Site Generator*, verwendet. Den aktuellen Stand kann man sich unter der Adresse [https://dev.codefor.de/](https://dev.codefor.de/) ansehen.
+Dieses Repository beinhaltet die neue codefor.de Webseite. Für die Entwicklung wird [Hugo](https://gohugo.io/getting-started/installing/), ein *Static Site Generator*, verwendet. Den aktuellen Stand des `main`-branches kann man sich unter der Adresse [https://codefor.de](https://codefor.de) ansehen.
 
 Um Inhalte hinzuzufügen oder zu ändern ist im Grunde nur ein wenig Ahnung von [Markdown](https://www.markdownguide.org/getting-started/) benötigt.
 
-Solltest du Hilfe brauchen oder eine Frage haben, mach gerne ein [Issue](https://github.com/okfde/dev.codefor.de/issues) auf oder frag im OKFDE-Slack Channel [#codeforde-website-2-0](https://openknowledgegermany.slack.com/messages/codeforde-website-2-0/) nach.
+Solltest du Hilfe brauchen oder eine Frage haben, mach gerne ein [Issue](https://github.com/okfde/codefor.de/issues) auf oder frag im OKFDE-Slack Channel [#codeforde-website](https://openknowledgegermany.slack.com/messages/codeforde-website/) nach.
 
 ## Änderungen vorschlagen oder neue Inhalte hinzufügen
 
@@ -25,8 +25,7 @@ Solltest du Hilfe brauchen oder eine Frage haben, mach gerne ein [Issue](https:/
 * Die [Doku findet ihr hier](https://gohugo.io/documentation/).
 
 ## Hinweise
-* Der Server ist so eingerichtet, dass er die neue **Seite automatisch baut**, sobald hier etwas gepusht wird. Außer es gibt einen Fehler! Deshalb:
-* Am besten bearbeitet ihr die Seite **lokal und testet** dann einmal mit ```hugo -D```, ob sie wirklich funktioniert. Sonst verändert sich nämlich nichts online und jemand anderes muss dann euren Fehler ausbügeln.
+* Den `main`-Branch, aus dem sich die **Seite automatisch baut**, kann nicht direkt verändert werden. Stattdessen bringe deine Anderungen in einen eigenen Branch und stelle einen Pull-Request. Pull-Requests erhalten dank netlify automatisch eine Vorschau-URL, du findest diese dann als Preview in den Checks deines PRs.
 
 
 ## Die Struktur im Überblick
