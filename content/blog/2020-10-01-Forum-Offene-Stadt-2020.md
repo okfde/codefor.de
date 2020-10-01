@@ -8,7 +8,7 @@ images:
    - imgname: FOS_Logo_Quadrat.png
 og-image: /static/blog/FOS_Logo_Quadrat.png
 og-description: "Wir haben bereits alles, was wir brauchen, um Open Government durchzusetzen: Die Theorie, die Werkzeuge, die Menschen und den Gestaltungswillen."
-published: false
+published: true
 ---
 
 # Resiliente Städte mit Open Government - Das Forum Offene Stadt 2020
@@ -45,6 +45,6 @@ Viele von uns möchten nicht einfach nur daneben stehen und zuschauen, wie einze
 
 * Und die Begründer der Online-Plattform FutureCityProjects zeigen wie Verwaltungen Bürger:innen in Projekte einbinden können.
 
-**Das vollständige Programm findet sich (hier)[https://offenestadt.info/#programm]. Wir freuen uns, zu diesen und weiteren Punkten in den Austausch zu kommen!**
+**Das vollständige Programm findet sich [hier](https://offenestadt.info/#programm). Wir freuen uns, zu diesen und weiteren Punkten in den Austausch zu kommen!**
 
 **[Zur Anmeldung](https://www.koerber-stiftung.de/?id=2393)**
