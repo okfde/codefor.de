@@ -3,7 +3,7 @@ layout: project
 lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/messstation.jpg
 title: Luftqualität Sachsen
-status: Entwicklungsstand 2016
+status: abgeschlossen
 
 links:
 - url: http://www.umwelt.sachsen.de/umwelt/infosysteme/luftonline/recherche.aspx
@@ -37,3 +37,13 @@ tags:
 ---
 
 Eine übersichtliche Darstellung der Messwerte aller sächsischen Messstationen zur Luftqualität. Zu jeder Messstation werden die Daten detailliert als Tabelle und Diagramm dargestellt.
+
+
+## Umsetzung
+ * Daten: gescrapt vom Umweltamt Sachsen
+ * Technologie: Django
+
+## Wie unterstützen?
+ * Anwendung wieder zum Laufen bringen
+ * Aktuelle Daten verwenden
+ * Verbindung zu [sensor.community](https://sensor.community) und [opensensemap](https://www.opensensemap.org/)
