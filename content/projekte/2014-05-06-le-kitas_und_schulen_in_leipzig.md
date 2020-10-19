@@ -3,7 +3,7 @@ layout: project
 lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/kidsle.jpg
 title: Kitas und Schulen Verzeichnis Leipzig
-status: Daten von 2014, Entwicklungstand 2014
+status: abgeschlossen
 
 links:
 - url: http://www.leipzig.de/jugend-familie-und-soziales/schulen-und-bildung/schulen/
@@ -46,3 +46,14 @@ tags:
 ---
 
 Eine kleine App zur Darstellung aller Kitas, Schulen und Spielplätzen in Leipzig. Die Nutzer sollen später die jeweiligen Orte bewerten können.
+
+
+## Umsetzung
+ * Daten: OpenStreetMap extrahiert / selbst recherechiert
+ * Technologie: Django / GeoJSON
+
+## Wie unterstützen?
+ * Daten auf den aktuellen Stand bringen (neu entstandene Kindergärten und Schulen nachtragen)
+ * Verknüpfung mit [Kiwan](https://www.meinkitaplatz-leipzig.de)
+ * Idee von [KitaPlatzTauschboerse](https://www.facebook.com/KitaPlatzTauschboerse) wieder aufgreifen
+ * Kinderärzte erfassen

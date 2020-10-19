@@ -3,7 +3,7 @@ layout: project
 lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/glaesernes_klaerwerk.png
 title: Gläsernes Klärwerk
-status: Daten von 2016, Entwicklungstand 2017, sporadische Weiterentwicklung
+status: abgeschlossen
 
 links:
 - url: https://codeforleipzig.github.io/glaeserne-klaeranlage/
@@ -27,4 +27,11 @@ tags:
 
 Interaktive Visualisierungen über die Funktionsweise einer Kläranlage.
 
+
 Beim OpenDataDay am 4. März 2017 wurde mit Hilfe der Anwesenden sowie der Unterstützung der OEWA, der Gesellschaft für Informatik und dem OKLab Leipzig interaktive Visualisierungen über die Funktionsweise einer Kläranlage erstellt. Die OEWA Wasser und Wasser GmbH stellte dazu die Betriebsdaten einer Kläranlage für ein ganzes Jahr bereit.
+
+Technisch umgesezt mit [c3.js](https://c3js.org).
+
+## Wie unterstützen?
+ * Aktuelle Daten bekommen
+ * Weitere interaktive Diagramme bauen, z.B. als [Sankey-Diagramm](http://www.sankey-diagrams.com)
