@@ -52,14 +52,10 @@ $( document ).ready(function() {
       map.addControl(L.control.zoom({ position: 'topright' }));
 
       // basemap
-      var mapboxLayer = L.tileLayer(
-          "https://{s}.tiles.mapbox.com/v4/codeforgermany.cc5365b0/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiY29kZWZvcmdlcm1hbnkiLCJhIjoiMVg2ZGdSSSJ9.JsM4S0LZpeNmI1rHQnCxig",
-          {
-          attribution:
-              '<a href="https://www.mapbox.com/about/maps/" target="_blank" rel="noopener noreferrer">&copy; Mapbox &copy; OpenStreetMap</a> | <a href="https://www.mapbox.com/map-feedback/" target="_blank" rel="noopener noreferrer">Improve this map</a>',
-          minZoom: 5,
-          }
-      );
+      var baseMapLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        minZoom: 5
+      });
 
       // define left-aligned and right-aligned labels and icons
       var markers = [];
@@ -120,7 +116,7 @@ $( document ).ready(function() {
       {{ end }}
 
   // load basemaps
-  mapboxLayer.addTo(map);
+  baseMapLayer.addTo(map);
 
   if(markers.length == 1){
     //set view to show single marker
