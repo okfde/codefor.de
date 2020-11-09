@@ -1,0 +1,55 @@
+{
+    "name": "{{- .Title -}}",
+
+    {{ if .Params.status }}
+    "status": "{{- .Params.status -}}",
+    {{ else }}
+    "status": "unknown",
+    {{ end }}
+
+    "labs": [
+    {{ if .Params.lab }}
+        {{ range $index, $element := .Params.lab }}
+        {{ if $index }},{{ end }}
+            {
+            "name" : "{{- . -}}"
+            }
+        {{ end }}
+    {{ end }}
+    ],
+
+
+    "tags": [
+    {{ if .Params.tags }}
+        {{ range $index, $element := .Params.tags }}
+        {{ if $index }},{{ end }}
+            {
+            "name" : "{{- . -}}"
+            }
+        {{ end }}
+    {{ end }}
+    ],
+
+    "collaborators": [
+    {{ if .Params.Collaborators }}
+        {{ range $index, $element := .Params.Collaborators }}
+        {{ if $index }},{{ end }}
+            {
+            "name" : "{{- .name | html -}}"
+            }
+        {{ end }}
+    {{ end }}
+    ],
+
+    "links": [
+    {{ if .Params.Links }}
+        {{ range $index, $element := .Params.Links }}
+        {{ if $index }},{{ end }}
+            {
+        	"name": "{{- .name -}}",
+        	"url": "{{- .url -}}"
+            }
+        {{ end }}
+    {{ end }}
+	]
+}
