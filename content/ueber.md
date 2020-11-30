@@ -1,5 +1,5 @@
 ---
-title: Über Code for Germany
+title: Über uns
 menu:
   main:
     weight: 10
