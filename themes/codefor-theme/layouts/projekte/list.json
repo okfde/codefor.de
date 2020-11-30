@@ -1,0 +1,3 @@
+{{ define "response" }}
+	{{ .Render "item" }}
+{{ end }}

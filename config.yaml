@@ -37,6 +37,7 @@ outputFormats:
 outputs:
   home: ["html", "rss", "nginx"]
   page: ["html", "json"]
+  section: ["html", "json"]
 
 markup:
   defaultMarkdownHandler: goldmark

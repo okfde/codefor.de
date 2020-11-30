@@ -1,0 +1,8 @@
+{
+    "title": "{{ .Title }}",
+    "projects" : [
+    {{ range $i, $e := .Data.Pages }}
+        {{ if $i }}, {{ end }}{{ .Render "single" }}
+    {{ end }}
+    ]
+}
