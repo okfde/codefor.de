@@ -4,7 +4,6 @@ lab: [karlsruhe] #change into your city/lab
 imgname: karlsruhe/schau-hin-website.png
 title: SchauHin mit der Antidiskriminierungsstelle #project title
 status: Finished
-type: DRL
 draft: false #set to 'true'
 
 links:

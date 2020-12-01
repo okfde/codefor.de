@@ -4,7 +4,6 @@ lab: [berlin] #needed for Aggregation on Lab-Page
 imgname:
 title: Empower Rangers #Projekttitel
 status: Laufend
-type: DRL
 draft: false
 
 tags:

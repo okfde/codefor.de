@@ -4,7 +4,6 @@ lab: [berlin] #change into your city/lab
 imgname: #add file to assets/projects/your city
 title: Titel #project title
 status: Laufend
-type: DRL
 draft: true #set to 'false'
 
 

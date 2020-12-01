@@ -4,7 +4,6 @@ lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/wahlprogrammquiz.png
 title: Wahlprogrammquiz
 status: Laufend
-type: WS
 showcase: 1
 draft: false #set to 'true'
 

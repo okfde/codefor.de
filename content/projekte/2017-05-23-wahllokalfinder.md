@@ -3,7 +3,6 @@ layout: project
 lab: [koeln] #needed for Aggregation on Lab-Page
 title: Wahllokalfinder
 status: Laufend
-type: WS
 draft: false #set to 'true'
 
 links:

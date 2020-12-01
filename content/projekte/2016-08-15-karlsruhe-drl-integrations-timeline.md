@@ -4,7 +4,6 @@ lab: [karlsruhe] #change into your city/lab
 imgname: #add file to assets/projects/your city
 title: Integrations-Timeline #project title
 status: Beendet
-type: DRL
 draft: false #set to 'true'
 
 
