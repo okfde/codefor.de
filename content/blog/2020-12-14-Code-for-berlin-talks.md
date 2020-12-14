@@ -1,9 +1,9 @@
 ---
 type: blog
-title: "OK Lab Berlin - Rückblick auf unsere Vortragsreihe"
+title: "OK Lab Berlin - Rückblick auf unsere Vortragsreihe 2020"
 author: Knut Hühne - OK Lab Berlin
 topic: project
-excerpt: "Während der Ausbreitung des Corona-Virus ab März 2020 hat das Hackathon-Format neue Aufmerksamkeit gewonnen. Tatsächlich gibt es die Idee, dass sich Entwickler:innen zusammensetzen und gemeinsam coden, schon seit mehr als 20 Jahren. In den letzten Jahren gewinnt das Format des Hackathons allerdings immer mehr Aufmerksamkeit, weil es die Hoffnung auf schnelle Lösungen für große Probleme weckt. Deshalb haben wir als Code-for-Germany-Netzwerk unsere Erfahrungen und Erkenntnisse zu Hackathons zusammengetragen, wann und wie Hackathons wirksam werden.." 
+excerpt: "" 
 images:
    - imgname: hackathon-leitfaden.png
 og-image: /static/blog/hackathon-leitfaden.png
@@ -11,36 +11,63 @@ og-description: "Hackathons versprechen oft mehr, als sie einlösen können."
 published: true
 ---
 
-Das Jahr 2020 geht zu Ende und auch für uns im Berliner Open Knowledge Lab ist so einiges anders gelaufen, als wir uns das ursprünglich vorgestellt haben. Eins unserer Kernthemen für dieses Jahr - nämlich jeden Monat Expert\*innen zu uns ins Lab einzuladen, um uns Vorträge zu ihren Themen anzuhören konnten wir trotzdem durchsetzen. In diesem Fall hat das Social-Distancing sogar dazu geführt, dass wir deutlich internationaler gedacht haben und nicht nur Gäste aus Berlin, sondern aus der ganzen Welt hatten. In diesem Blogpost wollen wir die Vorträge noch einmal Revue Passieren lassen.
+Das Jahr 2020 geht zu Ende und auch für uns im Berliner Open Knowledge Lab ist so einiges anders gelaufen, als wir uns das ursprünglich vorgestellt haben. Eins unserer Kernthemen für dieses Jahr - nämlich jeden Monat Expert\*innen zu uns ins Lab einzuladen, um uns Vorträge zu ihren Themen anzuhören, konnten wir trotzdem durchsetzen. In diesem Fall hat das Social-Distancing sogar dazu geführt, dass wir deutlich internationaler gedacht haben und nicht nur Gäste aus Berlin, sondern aus der ganzen Welt hatten. In diesem Blogpost wollen wir die Vorträge noch einmal Revue passieren lassen.
 
 ## Januar - FragDenStaat
-Den Auftakt machte für uns Stefan Wehrmeyer - damals noch vor Ort bei Wikimedia am Tempelhofer Ufer. Stefan hat uns mehr zum Informationsfreiheitsgesetz (IFG) erzählt und uns gezeigt, wie wir es mithilfe von FragDenStaat nutzen können.
+![Screenshot von fragdenstaat.de](/blog/ok-lab-berlin-rueckblick-2020/fragdenstaat.png)
+Den Auftakt machte für uns Stefan Wehrmeyer - damals noch vor Ort bei Wikimedia am Tempelhofer Ufer. Stefan hat uns mehr zum Informationsfreiheitsgesetz (IFG) erzählt und uns gezeigt, wie wir es mithilfe von FragDenStaat nutzen können. FragDenStaat ermöglich es Bürger\*innen, Anfragen nach dem Informationsfreiheitsgestz zu stellen, um so Zugriff auf behördliche Informationen zu erhalten. 
+Zum Zeitpunkt des Vortrags war die *Topf Secret* Kampagne gerade aktuelle, bei der im großen Stil Hygienekontrollberichte angefragt werden sollten. Auch zu diese Kampagne hat Stefan uns mehr erzählt.
 
 
 ## Februar - Wikidata 
-(Lucas Werkmeister)
+![Screenshot von www.wikidata.org](/blog/ok-lab-berlin-rueckblick-2020/wikidata.png)
+Ein Thema, das bei uns im Lab schon seit einiger Zeit an immer mehr Bedeutung gewinnst ist Wikidata. Das Ziel von Wikidata ist es, das Wissen der Welt in einem maschinenlesbaren Format abzubilden. Mithilfe des Wissens, das so abgebildet wird können dann spannende Anwendungen gebaut und Fragen auf eine neue Art beantwortet werden.
+  Wir waren sehr froh, Lucas Werkmeister zu dem Thema bei uns zu haben. Lucas arbeitet seit einiger Zeit für die Wikimedia an Wikidata und hat auch vorher schon mit seinem Twitter-Account [Wikidata Facts](https://twitter.com/WikidataFacts) immer wieder interessante Einblicke in den Datenbestand gegeben. 
+  Im Lab konnte Lucas uns Zeigen, wie Daten in Wikidata rein kommen und vor allem auch, wie man sie dann wieder abfragen kann, um Projekte mit ihnen umzusetzen.
 
 ## Mai - datengui.de & Regionalstatistik 
+![Folie aus dem Vortrag zum Thema datengui.de](/blog/ok-lab-berlin-rueckblick-2020/datenguide.png)
+Der letzte Vortrag, der in diesem Jahr vor Ort stattfand kam von Simon Jockers. Simon hat uns von seinem Projekt datenguide erzählt. Der datenguide macht behördliche Statistiken leichter nutzbar. Dafür aggregiert die Plattform amtliche Statistiken und macht diese einerseits durchsuchbar, stellt aber andererseits auch eine API bereit, um die Datensätze leichter programmatisch weiterverarbeiten zu können. Simon hat uns erklärt, wie Statistiken in Deutschland überhaupt erstellt werden, welchen Mehrwert der datenguide liefert und hat uns auch konkrete Beispiel dafür gezeigt, was für Anwendungen mit dem datenguide entwickelt werden konnten.
 
-(Simon Jockers und Simon Wörpel)
+[Folien](https://downloads.datengui.de/slides/oklab2020.pdf)
 
 ## Mai - datenanfragen.de
 ![Folie aus dem Vortrag zum Thema datenanfragen.de](/blog/ok-lab-berlin-rueckblick-2020/datenanfragen.png)
 Unser erster überregionaler Vortrag kam aus Braunschweig. Wir hatten schon seit längerem das Projekte [datenanfragen.de](https://datenanfragen.de) auf dem Schirm und haben uns total gefreut, Lorenz bei uns virtuell begrüßen zu dürfen. Lorenz hat noch einmal in das Thema Datenschutzgrundverordnung eingeführt und uns gezeigt, wie datenanfragen.de es Nutzer\*innen einfacher macht, ihre Rechte diesbezüglich durchzusetzen. Für die technisch interessierten gab es auch noch einige Einblicke in die technische Umsetzung. 
 
-Ihr findet eine Aufzeichung und die Folen [direkt bei datenanfragen.de](https://www.datenanfragen.de/verein/event/okl-berlin-05-2020/).
+Ihr findet eine Aufzeichnung und die Folien [direkt bei datenanfragen.de](https://www.datenanfragen.de/verein/event/okl-berlin-05-2020/).
 
 ## Juni - ODIS/Technologiestiftung
-Tori Boeck
+![Screenshot von odis-berlin.de](/blog/ok-lab-berlin-rueckblick-2020/odis.png)
+
+Einen spannenden Einblick in die Verwaltung konnte uns Tori Boeck im Juni geben. Tori arbeitet für die Technolgiestiftung Berlin in der sogenannten
+Open Data Informationsstelle (ODIS). Die ODIS ist ein Ansprechpartner für die Verwaltung, um diese dabei zu unterstützen, Daten als Open Data zu
+veröffentlichen. Tori hat uns erzählt, wie die Zusammenarbeit mit der Verwaltung funktioniert und hat uns Beispiele von Visualisierungen und Anwendungen
+gezeigt, die die Technologiestifung mithilfe offener Daten entwickeln konnten. Auch wir als Community haben in unserer Arbeit immer wieder gemerkt, dass diese
+Beispiele immer wieder ein starkes Argument sind, warum Daten veröffentlicht werden sollten. Wir haben uns insbesondere gefreut, dass Tori uns erzählte, 
+dass die ODIS grundsätzlich auch bereit ist, anfragen von außen aufzunehmen und - soweit Kapazitäten frei sind - zu erforschen, ob Daten, die von der 
+Community gewünscht werden, veröffentlicht werden könnten.
+
 
 ## August - OpenStreetMap Verkehrswende
 ![Folie aus dem Vortrag zum Thema OpensStreetMap](/blog/ok-lab-berlin-rueckblick-2020/verkehrswende.png)
-@tordans 
+Im August hatten wir Tobias Jordans zu Besuch. Tobias ist in der Berliner OpenStreetMap Szene aktiv - ganz besonders in dem Teil der OSM Community,
+die sich mit dem Thema Verkehrswende beschäftigt. Tobias hat uns einen Überblick darüber gegeben, wo die Stadt Berlin aktuell im Bereich 
+Verkehrswende steht und welche Möglichkeiten er sieht, diese mithilfe von OSM zu beschleunigen. Dafür hat er uns diverse inspirierende Projekte
+aus anderen Städten gezeigt, die auf Basis der OSM Daten Anwendungen entwickelt haben. Zuguterletzt ist Tobias noch einmal auf das Thema 
+Storytelling eingegangen und hat uns Beispiel für bestehende - und mögliche - Storys in Berlin gegeben.
+
 [Folien](https://docs.google.com/presentation/d/1VFiBgJfXRqSw3uVpHoB2CIHm7rOMECdOXVgEyja_lA4/edit?usp=sharing)
 
-## September - p3s pdf text extraction
-Im September hat uns 
-Filter
+## September - pd3f PDF text extraction
+![Folie aus dem Vortrag zum Thema pd3f](/blog/ok-lab-berlin-rueckblick-2020/pd3f.png)
+Im September hat uns Johannes Filter von seinem durch den Prototyep geförderten Projekt pd3f erzählt. 
+pd3f macht es einfacher, maschinenlesbaren Text aus PDFs zu extrahieren. Johannes hat uns erzählt,
+warum das wichtig ist, welche bestehenden Tools es schon gab und was sein Projekt pd3f jetzt
+möglich macht. Dies war der technischste Vortrag, den wir diese Jahr bei uns im Lab hatten, zeigt aber
+auch auf, wie spannend das Civic Tech Feld aufgestellt ist. Es braucht diese "Grundlagenforschung", wie
+Johannes sie uns hier aufzeigt, um dann Projekte wie FragDenStaat oder dem investigativen Journalismus
+die Arbeit zu erleichtern.
 
 [Video](https://video.codefor.de/videos/watch/45bde3be-b34d-4c28-84ee-f476fca63d34)
 
@@ -61,5 +88,5 @@ Im Januar werden wir einen weiteren internationalen Votratrag haben - dieses mal
 Wenn ihr weitere Projekte aus dem Open Data oder Civic Tech bereich kennt, dann meldet euch gerne direkt
 [per Mail bei Knut](mailto:ok-talks@k-nut.eu).
 
-Wir freuen uns auf ein weiteres Jahr mit spannenden Vorträgen!
+Wir freuen uns auf ein weiteres Jahr mit spannenden Vorträgen - mit etwas Glück sehen wir uns ja auch vielleicht wieder vor Ort. 
 
