@@ -48,6 +48,7 @@ Beispiele immer wieder ein starkes Argument sind, warum Daten veröffentlicht we
 dass die ODIS grundsätzlich auch bereit ist, anfragen von außen aufzunehmen und - soweit Kapazitäten frei sind - zu erforschen, ob Daten, die von der 
 Community gewünscht werden, veröffentlicht werden könnten.
 
+[Folien](https://drive.google.com/file/d/10Hxyf8Zd3oIhReaVdIB2Oowh6LiUAMyJ/view)
 
 ## August - OpenStreetMap Verkehrswende
 ![Folie aus dem Vortrag zum Thema OpensStreetMap](/blog/ok-lab-berlin-rueckblick-2020/verkehrswende.png)
