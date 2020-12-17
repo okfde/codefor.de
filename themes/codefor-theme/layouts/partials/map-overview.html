@@ -52,14 +52,23 @@ $( document ).ready(function() {
       map.addControl(L.control.zoom({ position: 'topright' }));
 
       // basemap
+      // NOTE: Do not use Mapbox with time limited token!
+      var cfgUrl='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+	    var cfgAttrib='Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors';
+	    var mapboxLayer = new L.TileLayer(cfgUrl, {	minZoom: 5, attribution: cfgAttrib});	
+      /*
       var mapboxLayer = L.tileLayer(
           "https://{s}.tiles.mapbox.com/v4/codeforgermany.cc5365b0/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiY29kZWZvcmdlcm1hbnkiLCJhIjoiMVg2ZGdSSSJ9.JsM4S0LZpeNmI1rHQnCxig",
+
+        //"https://{s}.tiles.mapbox.com/v4/codeforgermany.cc5365b0/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiY29kZWZvcmdlcm1hbnkiLCJhIjoiMVg2ZGdSSSJ9.JsM4S0LZpeNmI1rHQnCxig",
+        "https://{s}.tiles.tile.openstreetmap.org/{z}/{x}/{y}.png",
           {
           attribution:
               '<a href="https://www.mapbox.com/about/maps/" target="_blank" rel="noopener noreferrer">&copy; Mapbox &copy; OpenStreetMap</a> | <a href="https://www.mapbox.com/map-feedback/" target="_blank" rel="noopener noreferrer">Improve this map</a>',
           minZoom: 5,
           }
       );
+      */
 
       // define left-aligned and right-aligned labels and icons
       var markers = [];
