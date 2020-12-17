@@ -52,7 +52,6 @@ $( document ).ready(function() {
       map.addControl(L.control.zoom({ position: 'topright' }));
 
       // basemap
-      // NOTE: Do not use Mapbox with time limited token!
       var cfgUrl='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 	    var cfgAttrib='Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors';
 	    var mapboxLayer = new L.TileLayer(cfgUrl, {	minZoom: 5, attribution: cfgAttrib});	
