@@ -158,13 +158,6 @@ implementiert, für welchen das Unternehmen Twitter Inc., 795 Folsom St., Suite 
 
 <p>Weitere Ausführungen finden Sie in der
 	<a href="https://twitter.com/de/privacy">Datenschutzerklärung von Twitter</a>.</p>
-	
-<p>3. "Mapbox": Die Kartenbilder auf der Webseite werden von Mapbox, Inc., 740 15th Street NW, 5th Floor, Washington DC 20005 gehostet (“Mapbox”). Bei Anfragen über die APIs von Mapbox werden automatisch bestimmte technische Informationen, einschließlich (a) IP-Adresse, (b) Geräte- und Browserinformationen, (c) Betriebssystem, (d) Inhalt der Anfrage, (e) Datum und Uhrzeit der Anfrage und (f) begrenzte Standort- und Nutzungsdaten, erfasst. Sie löschen IP-Adressen nach 30 Tagen. Wenn eine mobile Anwendung ihre SDKs verwendet, um auf APIs zuzugreifen, kann sie ihnen darüber hinaus bestimmte begrenzte Standort- und Nutzungsdaten zusammen mit einer kurzlebigen ID senden. Sie löschen diese kurzlebige ID innerhalb von 24 Stunden und verknüpfen sie oder die unverarbeiteten mobilen Standortdaten nicht mit irgendwelchen persönlich identifizierenden Informationen, einschließlich Namen, permanenten IDs, E-Mail-Adressen, IP-Adressen oder Telefonnummern. Mapbox sammelt auch nach dem Zufallsprinzip generierte IDs für den begrenzten Zweck der Analyse der Nutzung ihrer APIs, einschließlich der Anzahl der aktiven Benutzer. Die zufällig generierten IDs und den Inhalt von Anfragen an ihre APIs werden nach 36 Monaten löschen.</p>
-
-<p>Die über ihre APIs und SDKs gesammelten Daten werden (1) für interne Diagnose- und Analysezwecke, (2) zur Verbesserung ihrer Mapping-Produkte und -Dienste, (3) zur Bereitstellung ihrer Dienste für Endbenutzer ihrer Kunden und (4) zur Erstellung aggregierter und anonymisierter Nutzungsstatistiken verwendet.</p>
-
-<p>Weitere Informationen finden Sie in der 
-	<a href="https://www.mapbox.com/legal/privacy/">Datenschutzerklärung von Mapbox</a>.</p>
 
 <h3>IX. Wenn Sie Anmerkungen oder Fragen haben</h3>
 
