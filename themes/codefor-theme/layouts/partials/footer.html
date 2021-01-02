@@ -1,8 +1,5 @@
-{{ if ne .Site.Params.hideFooter true }}
 <footer id="footer" class="footer {{ if  not .Params.footerHideTopMargin }}mt-6{{ end }}">
   <div class="container-fluid text-center text-sm-left">
-    
-    
     <div class="row">
       <div class="col-md-12 d-flex align-items-center bg-primary px-7 py-5 px-sm-10 px-md-5 p-lg-7 p-xl-10">
         <div class="w-100">
@@ -29,4 +26,3 @@
   </div>
 </footer>
 {{ partial "analytics.html" . }}
-{{ end }}
