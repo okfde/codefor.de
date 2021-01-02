@@ -4,7 +4,6 @@ lab: [koeln] #needed for Aggregation on Lab-Page
 imgname: koeln/waswenn.png
 title: was wäre wenn
 status: abgeschlossen
-type: WS
 draft: false #set to 'true'
 
 links:
