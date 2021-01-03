@@ -4,7 +4,6 @@ lab: [berlin] #change into your city/lab
 imgname: berlin/volunteer-planer.png
 title: Volunteer-Planner
 status: Laufend
-type: DRL
 draft: false #set to 'true'
 
 

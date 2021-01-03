@@ -42,10 +42,7 @@ Impressum
 	<dt>Fax:</dt>
 	<dd><a href="fax:+49 30 57703666 9">+49 30 57703666 9</a></dd>
 </dl>
-<dl>
-	<dt>Community & Projektmanagement:</dt>
-	<dd><a href="mailto:adriana.groh@okfn.de">Adriana Groh</a> &amp; <a href="mailto:claudia.jach@okfn.de">Claudia Jach</a></dd>
-</dl>
+
 {{< /paragraph-center  >}}
 
 

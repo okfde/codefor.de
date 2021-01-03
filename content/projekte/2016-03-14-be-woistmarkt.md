@@ -9,7 +9,7 @@ status: Finished
 links:
 
 - url: http://wo-ist-markt.github.io
-  name: Wo ist Markt in Karlsruhe?
+  name: Wo ist Markt?
 
 - url: https://github.com/wo-ist-markt/wo-ist-markt.github.io
   name: Code auf Github

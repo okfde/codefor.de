@@ -4,7 +4,6 @@ lab: [bonn] #needed for Aggregation on Lab-Page
 imgname: bonn/twitterDash.png
 title: Twitter Dashboard
 status: Laufend
-type: WS
 draft: false #set to 'true'
 
 links:
