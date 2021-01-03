@@ -59,18 +59,11 @@ $( document ).ready(function() {
 });
 
 function checkTwitter() {
-		try {
-            // twitter-widget-0 will be inserted by twitter widget.js upon loading
-            // show container only if this happens ...
-			var f = document.getElementById("twitter-widget-0");
-			f.parentNode.classList.remove("hidden");
-			} catch {
-				console.log("No twitter widget");
-			}
-			//setTimeout(checkTwitter,1000)
-	}
-
-
+    var widgetNode = document.querySelector("#twitter-widget-0");
+    if (widgetNode) {
+        widgetNode.parentNode.classList.remove("d-none");
+    }
+}
 </script>
 
 {{ end }}
