@@ -13,8 +13,9 @@
                 {{ partial "blog-preview.html" . }}
             {{ end }}
 
+            <!-- For Twitter we add the hidden class which will be removed in script below -->
             {{if eq $paginator.PageNumber 1}}
-            <div class="col-24 col-md-12 mb-5 mb-md-7 project-preview-container twitter-container" >
+            <div class="col-24 col-md-12 mb-5 mb-md-7 project-preview-container twitter-container hidden" >
                 <a class="twitter-timeline" data-height="100%" href="https://twitter.com/codeforde?ref_src=twsrc%5Etfw">Tweets by codeforde</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
             {{end}}
@@ -37,6 +38,8 @@ $( document ).ready(function() {
     var totalPages = $('#blog-entries-container').data('total-pages');
     var currentpage = 1;
     var loading = false;
+    setTimeout(checkTwitter,3000); // check for twitter
+
 
     $('#loadMore').click(function(){
         currentpage++;
@@ -54,6 +57,20 @@ $( document ).ready(function() {
 
     });
 });
+
+function checkTwitter() {
+		try {
+            // twitter-widget-0 will be inserted by twitter widget.js upon loading
+            // show container only if this happens ...
+			var f = document.getElementById("twitter-widget-0");
+			f.parentNode.classList.remove("hidden");
+			} catch {
+				console.log("No twitter widget");
+			}
+			//setTimeout(checkTwitter,1000)
+	}
+
+
 </script>
 
 {{ end }}
