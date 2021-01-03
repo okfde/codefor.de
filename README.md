@@ -4,7 +4,7 @@ Dieses Repository beinhaltet die neue codefor.de Webseite. Für die Entwicklung 
 
 Um Inhalte hinzuzufügen oder zu ändern ist im Grunde nur ein wenig Ahnung von [Markdown](https://www.markdownguide.org/getting-started/) benötigt.
 
-Solltest du Hilfe brauchen oder eine Frage haben, mach gerne ein [Issue](https://github.com/okfde/dev.codefor.de/issues) auf oder frag im OKFDE-Slack Channel [#codeforde-website-2-0](https://openknowledgegermany.slack.com/messages/codeforde-website-2-0/) nach.
+Solltest du Hilfe brauchen oder eine Frage haben, mach gerne ein [Issue](https://github.com/okfde/codefor.de/issues) auf oder frag im OKFDE-Slack Channel `#codeforde-website` nach.
 
 ## Änderungen vorschlagen oder neue Inhalte hinzufügen
 
@@ -28,6 +28,9 @@ Solltest du Hilfe brauchen oder eine Frage haben, mach gerne ein [Issue](https:/
 * Der Server ist so eingerichtet, dass er die neue **Seite automatisch baut**, sobald hier etwas gepusht wird. Außer es gibt einen Fehler! Deshalb:
 * Am besten bearbeitet ihr die Seite **lokal und testet** dann einmal mit ```hugo -D```, ob sie wirklich funktioniert. Sonst verändert sich nämlich nichts online und jemand anderes muss dann euren Fehler ausbügeln.
 
+## Lizenz
+
+Code: [MIT](./LICENSE). Inhalt: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 
 ## Die Struktur im Überblick
 (mehr dazu auch [hier](https://gohugo.io/getting-started/directory-structure/#readout))
