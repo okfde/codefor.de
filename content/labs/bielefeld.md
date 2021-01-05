@@ -50,13 +50,6 @@ leads:
 - name: E-Mail
   url: mailto:bielefeld@codefor.de
 
-
-calendar:
-- title: Kickoff
-  date: 25.06.2020
-  location: Remote
-  url: https://www.meetup.com/de-DE/Code-For-Bielefeld/events/270255036/
-
 ---
 
 Willkommen bei Code for Bielefeld!
