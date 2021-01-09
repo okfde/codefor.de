@@ -1,4 +1,4 @@
 version: 1
 static-snapshots:
   path: public/
-  snapshot-files: './index.html,./berlin/index.html,./mitmachen/index.html,./projekte/index.html,./blog/code-for-berlin-talks/index.html'
+  snapshot-files: './index.html,./berlin/index.html,./mitmachen/index.html,./projekte/index.html,./blog/code-for-berlin-talks/index.html,./projekte/pricemap-eu/index.html'
