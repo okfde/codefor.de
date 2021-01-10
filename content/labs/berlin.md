@@ -189,6 +189,8 @@ members:
 
 
 links:
+- name: Get Together
+  url: https://gettogether.community/code-for-berlin/
 - name: Meetup
   url: http://www.meetup.com/OK-Lab-Berlin/
 - name: Twitter
