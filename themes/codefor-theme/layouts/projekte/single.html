@@ -1,13 +1,5 @@
 {{ define "main" }}
 
-<div class="lab-icon d-flex justify-content-center">
-  {{ range .Params.lab }}
-  {{ with $.Site.GetPage (printf "/labs/%s.md" . ) }}
-    <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
-  {{ end }}
-  {{ end }}
-</div>
-
 {{ $txt := .Title }}
 {{ $color := "red" }}
 {{ partial "headline-brackets-h1.html" (dict "context" . "txt" $txt "color" $color ) }}
@@ -27,16 +19,16 @@
 
       <div class="row">
         <div class="col-22">
-          {{ if isset .Params "imgname" }}
-          <div class="float-left w-25 mr-2">
-              <img class="img-fluid" src="/projects/{{ .Params.Imgname }}" alt="Screenshot {{ .Title }}">
-          </div>
-          {{ end }}
           <div class="freetext-container">
             {{ .Content }}
           </div>
           {{ if .Params.status }}
           <p>Status des Projektes {{ .Title }}: {{ .Params.status }}</p>
+          {{ end }}
+          {{ if (and (isset .Params "imgname") (fileExists (printf "static/projects/%s" .Params.Imgname))) }}
+          <div class="d-flex align-items-center">
+              <img class="img-fluid mx-auto" src="/projects/{{ .Params.Imgname }}" alt="Screenshot {{ .Title }}">
+          </div>
           {{ end }}
         </div>
       </div>
@@ -66,7 +58,9 @@
                 {{ range .Params.lab }}
                   {{ with $.Site.GetPage (printf "/labs/%s.md" . ) }}
                     <a href="{{ .Permalink }}">
+                      {{- if (fileExists (printf "static/labs/hexagon/CodeFor-%s.svg" .File.BaseFileName)) -}}
                       <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
+                      {{- end }}
                       <div class="text-center text-hero">{{ .Params.city }}</div>
                     </a>
                   {{ end }}
