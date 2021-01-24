@@ -94,7 +94,7 @@
 {{ $lab_projects := (where (where .Site.RegularPages "Layout" "==" "project") ".Params.lab" "intersect" $filename)}}
 {{ if len $lab_projects | ne 0 }}
 
-{{ partial "headline-brackets-h2.html" (dict "context" . "txt" "Projekte" "color" "red" ) }}
+<h2 class="headline-brackets">Projekte</h2>
 <div class="row justify-content-center mb-5 mb-lg-7">
     <div class="col-22 col-md-18">
         <div class="row">
