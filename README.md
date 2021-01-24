@@ -28,6 +28,9 @@ Solltest du Hilfe brauchen oder eine Frage haben, mach gerne ein [Issue](https:/
 * Den `main`-Branch, aus dem sich die **Seite automatisch baut**, kann nicht direkt verändert werden. Stattdessen bringe deine Anderungen in einen eigenen Branch und stelle einen Pull-Request. Pull-Requests erhalten dank netlify automatisch eine Vorschau-URL, du findest diese dann als Preview in den Checks deines PRs.
 * Am besten bearbeitest du die Seite **lokal und testest** dann einmal mit [`hugo -D`*](#Gebaut-mit-Hugo), ob sie wirklich funktioniert. Dadurch hilfst du Fehler und damit auch zusätzliche Arbeit zu vermeiden.
 
+## Lizenz
+
+Code: [MIT](./LICENSE). Inhalt: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
 
 ## Die Struktur im Überblick
 (mehr dazu auch [hier](https://gohugo.io/getting-started/directory-structure/#readout))

@@ -5,7 +5,6 @@ lab: # needed for Aggregation on Lab-Page
   - koeln
 title: Wahl-O-Meter
 status: Laufend
-type: WS # Tag for Wahlsalons
 draft: false #set to 'true'
 #imgname: koeln/beispiel.png
 

@@ -4,7 +4,6 @@ lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/amikeco.jpg
 title: Amikeco #Projekttitel
 status: abgeschlossen
-type: DRL
 draft: false
 
 

@@ -4,7 +4,6 @@ lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/Wahlkompass.png
 title: Wahlkompass Digitales
 status: Laufend
-type: WS
 draft: false #set to 'true'
 
 links:

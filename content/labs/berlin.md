@@ -189,6 +189,8 @@ members:
 
 
 links:
+- name: Get Together
+  url: https://gettogether.community/code-for-berlin/
 - name: Meetup
   url: http://www.meetup.com/OK-Lab-Berlin/
 - name: Twitter
@@ -200,18 +202,6 @@ links:
 leads:
 - name: E-Mail
   url: mailto:berlin@codefor.de
-
-
-calendar:
-- title: Testeintrag Weihnachtsfeier
-  date: 23.12.2020
-  location: Alexanderplatz
-  url: https://google.com
-- title: Oktoberfest
-  date: 10.10.2020
-  location: Alexanderplatz
-  url: https://google.com
-
 
 ---
 
