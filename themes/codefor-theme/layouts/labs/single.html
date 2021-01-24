@@ -1,8 +1,10 @@
 {{ define "main" }}
 
+{{- if (fileExists (printf "static/labs/hexagon/CodeFor-%s.svg" .File.BaseFileName)) -}}
 <div class="lab-icon d-flex justify-content-center">
     <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
 </div>
+{{- end }}
 
 <h1 class="text-center mb-4 mb-lg-6">{{.Title}}</h1>
 
