@@ -292,5 +292,9 @@ blockquote {
     content: '}';
     margin-left: 1.5rem;
   }
+}
 
+.lab-content {
+  max-width: 60ch;
+  margin: 0 auto
 }
