@@ -8,9 +8,7 @@
   {{ end }}
 </div>
 
-{{ $txt := .Title }}
-{{ $color := "red" }}
-{{ partial "headline-brackets-h1.html" (dict "context" . "txt" $txt "color" $color ) }}
+<h1 class="headline-brackets red">{{.Title}}</h1>
 
 <div class="row justify-content-center blog-content mb-4 mb-md-5">
     <div class="col-22 col-lg-16 col-xl-14">

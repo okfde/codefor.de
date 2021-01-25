@@ -1,5 +1,3 @@
-
-{{ $txt := .Inner | markdownify }}
-{{ $color := .Get "color" }}
-{{ $class := .Get "class" }}
-{{ partial "headline-brackets-h2.html" (dict "context" . "txt" $txt "color" $color "class" $class) }}
+<h2 class='headline-brackets {{ .Get "color" }} {{ .Get "class" }}'>
+  {{ .Inner | markdownify }}
+</h2>
