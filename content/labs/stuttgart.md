@@ -52,8 +52,8 @@ leads:
   url: mailto:rajko@codefor.de
   username_twitter: ricki_z
   username_github: ricki-z
-
-  hero: Home of sensor.community
+  
+hero: Home of sensor.community
 
 ---
 
