@@ -12,7 +12,7 @@ Informationen und Werkzeuge
 
 ## Material für öffentliche Verwaltungen
 
-* Handbuch Krisenresilienz → [PDF](ressourcen/Code-for-Germany_Handbuch-Krisenresilienz.pdf)
+* Handbuch Krisenresilienz → [PDF](/ressourcen/Code-for-Germany_Handbuch-Krisenresilienz.pdf)
 
 ## Informationen über Code for Germany
 
