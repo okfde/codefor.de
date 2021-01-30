@@ -6,7 +6,7 @@ weight: 60
 
 {{< headline-icon icon="icon-power.svg" >}}
 
-{{< headline-brackets-h1 color="blue"  >}}
+{{< headline-brackets-h1 color="blue" >}}
 Informationen und Werkzeuge
 {{< /headline-brackets-h1  >}}
 
@@ -14,12 +14,12 @@ Informationen und Werkzeuge
 
 ## Material für öffentliche Verwaltungen
 
-* Handbuch Krisenresilienz → [PDF](/ressourcen/Code-for-Germany_Handbuch-Krisenresilienz.pdf)
+* Handbuch Krisenresilienz → [PDF]({{< static "/ressourcen/Code-for-Germany_Handbuch-Krisenresilienz.pdf" >}})
 
 ## Informationen über Code for Germany
 
-* Einseiter zum Programm → [PDF](/ressourcen/Flyer_CodeforGermany.pdf)
-* Slides "Was ist Code for Germany?" → [PDF](/ressourcen/Slidedeck_Was-ist-Code-for-Germany.pdf)
+* Einseiter zum Programm → [PDF]({{< static "/ressourcen/Flyer_CodeforGermany.pdf" >}})
+* Slides "Was ist Code for Germany?" → [PDF]({{< static "/ressourcen/Slidedeck_Was-ist-Code-for-Germany.pdf" >}})
 
 ## Talks & Slides
 
