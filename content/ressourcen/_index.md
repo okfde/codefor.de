@@ -10,6 +10,8 @@ weight: 60
 Informationen und Werkzeuge
 {{< /headline-brackets-h1  >}}
 
+{{< paragraph-center >}}
+
 ## Material für öffentliche Verwaltungen
 
 * Handbuch Krisenresilienz → [PDF]({{< static "/ressourcen/Code-for-Germany_Handbuch-Krisenresilienz.pdf" >}})
@@ -23,3 +25,5 @@ Informationen und Werkzeuge
 
 * Open Data – und was hat das mit mir zu tun? → [Talk](https://www.youtube.com/watch?v=QBSNr6UXIJg)  → [Slides](https://docs.google.com/uc?authuser=0&id=0By05tjt1Gu2sRHBGeXd3N3o5NUk&export=download)
 * Civic Tech – For the people, by the people, of the people → [Talk](https://www.youtube.com/watch?v=kwmuQwNNJhQ)  → [Slides](http://de.slideshare.net/juliakloiber37/savedfiles?s_title=civic-tech-of-the-people-by-the-people-and-for-the-people-44268649&user_login=codeforde)
+
+{{< /paragraph-center >}}
