@@ -3,7 +3,9 @@
 
 <div class="lab-content">
     <h1 class="d-flex align-items-center flex-wrap justify-content-center">
-        <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
+        {{- if (fileExists (printf "static/labs/hexagon/CodeFor-%s.svg" .File.BaseFileName)) -}}
+            <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
+        {{- end }}
         <div class="flex-grow-1"> {{.Title}} </div>
     </h1>
 
