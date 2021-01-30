@@ -2,12 +2,12 @@
 
 
 <div class="lab-content">
-    <h1 class="d-flex align-items-center flex-wrap justify-content-center">
+    <div class="d-flex align-items-center flex-wrap justify-content-center">
         {{- if (fileExists (printf "static/labs/hexagon/CodeFor-%s.svg" .File.BaseFileName)) -}}
             <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
         {{- end }}
-        <div class="flex-grow-1"> {{.Title}} </div>
-    </h1>
+      <h1 class="headline-brackets blue flex-grow-1 m-0">{{.Title}} </h1>
+</div>
 
     {{ if .Params.Hero }}
     {{ partial "hero-block-center.html" (dict "context" . "txt" .Params.Hero ) }}
