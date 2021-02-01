@@ -259,3 +259,42 @@ blockquote {
     margin-bottom: 15px;
 }
 
+.headline-brackets {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
+  text-align: center;
+
+  &.blue {
+    &:before, &:after {
+      color: $codefor-blue;
+    }
+  }
+
+  &.red {
+    &:before, &:after {
+      color: $codefor-red;
+    }
+  }
+
+  &:before, &:after {
+    font-size: 1.7em;
+  }
+
+  &:before {
+    content: '{';
+    margin-right: 1.5rem;
+  }
+
+  &:after {
+    content: '}';
+    margin-left: 1.5rem;
+  }
+}
+
+.lab-content {
+  max-width: 60ch;
+  margin: 0 auto
+}

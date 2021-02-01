@@ -1,0 +1,8 @@
+{{- .Scratch.Set "path" (.Get 0) -}}
+{{- if hasPrefix (.Scratch.Get "path") "/" -}}
+  {{- .Scratch.Set "path" (slicestr (.Scratch.Get "path") 1) -}}
+{{- end -}}
+{{- if not (fileExists (.Scratch.Get "path")) -}}
+  {{- errorf "Could not find file with path %q" (.Scratch.Get "path") -}}
+{{- end -}}
+{{- .Scratch.Get "path" | absLangURL -}}

@@ -1,8 +1,6 @@
 {{ define "main" }}
 
-{{ $txt := .Title }}
-{{ $color := "red" }}
-{{ partial "headline-brackets-h1.html" (dict "context" . "txt" $txt "color" $color ) }}
+<h1 class="headline-brackets red">{{.Title}}</h1>
 
 <div class="row justify-content-center blog-content mb-4 mb-md-5">
     <div class="col-22 col-lg-16 col-xl-14">
@@ -35,7 +33,7 @@
 
       <div class="row">
         <div class="col">
-          {{ partial "headline-brackets-h2.html" (dict "context" . "txt" "Projekt-Mitglieder & Labs" "color" "red" ) }}
+          <h2 class="headline-brackets red">Projekt-Mitglieder & Labs</h2>
           <ul class="list-inline">
             {{ range .Params.Collaborators }}
             <li class="d-flex justify-content-center p-2">
