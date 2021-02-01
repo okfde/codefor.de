@@ -1,170 +1,72 @@
 {{ define "main" }}
 
-<div class="lab-icon d-flex justify-content-center">
-  {{ range .Params.lab }}
-  {{ with $.Site.GetPage (printf "/labs/%s.md" . ) }}
-    <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
-  {{ end }}
-  {{ end }}
-</div>
-
 <h1 class="headline-brackets red">{{.Title}}</h1>
 
 <div class="row justify-content-center blog-content mb-4 mb-md-5">
     <div class="col-22 col-lg-16 col-xl-14">
-        
-      {{ if isset .Params "imgname" }} 
-      <div class="row mb-5 justify-content-center">
-        <div class="col-22 col-sm-20">
-          <img class="img-fluid" src="/projects/{{ .Params.Imgname }}" alt="">
-        </div>
-      </div>
-      {{ end }}
 
-        <div class="freetext-container">
+      <div class="row">
+        <ul class="list-inline mx-auto">
+          {{ range .Params.Links }}
+          <li class="list-inline-item p-2">
+            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <div class="freetext-container">
             {{ .Content }}
-        </div>
-
-
-
-      <div class="row justify-content-center my-8">
-        <div class="col-24">
-          <div class="accordion" id="accordionCode">
-      
-          <div class="card">
-            <div class="card-header px-0" id="heading-participate-01">
-              <div class="d-flex justify-content-between">
-                <button class="btn btn-link text-dark collapsed pl-0" type="button" data-toggle="collapse" data-target="#collapse-participate-01" aria-expanded="true" aria-controls="collapse-participate-01">
-                  <h3>Mitglieder</h3>
-                </button>
-                <button class="collapsed btn btn-close" type="button" data-toggle="collapse" data-target="#collapse-participate-01" aria-expanded="true" aria-controls="collapse-participate-01">
-                  <img class="img-fluid" src="/img/close-icon.svg">
-                </button>
-              </div>
-            </div>
-            
-            <div id="collapse-participate-01" class="collapse" aria-labelledby="heading-participate-01" data-parent="#accordionCode">
-              <div class="card-body py-0">
-                <div class="row justify-content-center">
-                  <div class="col-20 py-4">
-                    <ul class="list-unstyled mb-5">
-                      {{ range .Params.Collaborators }}
-                      <li class="d-flex justify-content-center p-2">
-                          <strong>{{ .name }}</strong>&nbsp;&nbsp;&nbsp;
-                        {{ range .links }}
-                          {{ if in .url "github"}}
-                          <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img class="ext-link-icon mx-2" src="/img/github.svg" alt="Link to Github"></a>
-                          {{ else if in .url "twitter"}}
-                          <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img class="ext-link-icon mx-2" src="/img/twitter.svg" alt="Link to twitter"></a>
-                          {{ else}}
-                            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
-                          {{ end }}
-                        {{ end }}
-                        {{ end }}
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
           </div>
-
-          <div class="card">
-            <div class="card-header px-0" id="heading-participate-02">
-              <div class="d-flex justify-content-between">
-                <button class="btn btn-link text-dark collapsed pl-0" type="button" data-toggle="collapse" data-target="#collapse-participate-02" aria-expanded="true" aria-controls="collapse-participate-02">
-                  <h3>Links</h3>
-                </button>
-                <button class="collapsed btn btn-close" type="button" data-toggle="collapse" data-target="#collapse-participate-02" aria-expanded="true" aria-controls="collapse-participate-02">
-                  <img class="img-fluid" src="/img/close-icon.svg">
-                </button>
-              </div>
-            </div>
-            
-            <div id="collapse-participate-02" class="collapse" aria-labelledby="heading-participate-02" data-parent="#accordionCode">
-              <div class="card-body py-0">
-                <div class="row justify-content-center">
-                  <div class="col-20 py-4">
-                    <ul class="list-unstyled mb-5">
-                      {{ range .Params.Links }}
-                      <li class="d-flex justify-content-center p-2">
-                        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
-                      </li>
-                      {{ end }}
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
+          {{ if .Params.status }}
+          <p>Status des Projektes {{ .Title }}: {{ .Params.status }}</p>
+          {{ end }}
+          {{ if (and (isset .Params "imgname") (fileExists (printf "static/projects/%s" .Params.Imgname))) }}
+          <div class="d-flex align-items-center">
+              <img class="img-fluid mx-auto" src="/projects/{{ .Params.Imgname }}" alt="Screenshot {{ .Title }}">
           </div>
-
-          <div class="card">
-            <div class="card-header px-0" id="heading-participate-03">
-              <div class="d-flex justify-content-between">
-                <button class="btn btn-link text-dark collapsed pl-0" type="button" data-toggle="collapse" data-target="#collapse-participate-03" aria-expanded="true" aria-controls="collapse-participate-03">
-                  <h3>Stadt</h3>
-                </button>
-                <button class="collapsed btn btn-close" type="button" data-toggle="collapse" data-target="#collapse-participate-03" aria-expanded="true" aria-controls="collapse-participate-03">
-                  <img class="img-fluid" src="/img/close-icon.svg">
-                </button>
-              </div>
-            </div>
-            
-            <div id="collapse-participate-03" class="collapse" aria-labelledby="heading-participate-03" data-parent="#accordionCode">
-              <div class="card-body py-0">
-                <div class="row justify-content-center">
-                  <div class="col-20 py-4">
-                    <ul class="list-unstyled mb-5">
-                      <div class="lab-icon d-flex justify-content-center">
-                        {{ range .Params.lab }}
-                        {{ with $.Site.GetPage (printf "/labs/%s.md" . ) }}
-                          <div class="d-flex flex-column justify-content-center align-items-center">
-                            <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
-                            <div class="text-center text-hero">{{.Title}}</div>
-                          </div>
-                        {{ end }}
-                        {{ end }}
-                      </div>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-
-          <div class="card">
-            <div class="card-header px-0" id="heading-participate-04">
-              <div class="d-flex justify-content-between">
-                <button class="btn btn-link text-dark collapsed pl-0" type="button" data-toggle="collapse" data-target="#collapse-participate-04" aria-expanded="true" aria-controls="collapse-participate-04">
-                  <h3>Projektstatus</h3>
-                </button>
-                <button class="collapsed btn btn-close" type="button" data-toggle="collapse" data-target="#collapse-participate-04" aria-expanded="true" aria-controls="collapse-participate-04">
-                  <img class="img-fluid" src="/img/close-icon.svg">
-                </button>
-              </div>
-            </div>
-            
-            <div id="collapse-participate-04" class="collapse" aria-labelledby="heading-participate-04" data-parent="#accordionCode">
-              <div class="card-body py-0">
-                <div class="row justify-content-center">
-                  <div class="col-20 py-4">
-                    <ul class="list-unstyled mb-5">
-                      <div class="lab-icon d-flex justify-content-center">
-                        {{.Params.status }}
-                      </div>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          </div>
+          {{ end }}
         </div>
       </div>
 
-      
+      <div class="row">
+        <div class="col">
+          <h2 class="headline-brackets red">Mitwirkende</h2>
+          <ul class="list-inline">
+            {{ range .Params.Collaborators }}
+            <li class="d-flex justify-content-center p-2">
+              <strong>{{ .name }}</strong>
+              {{ $name := .name }}
+              {{ range .links }}
+                {{ if in .url "github" }}
+                <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img class="ext-link-icon mx-2" src="/img/github.svg" alt="Link zum GitHub Account von {{ $name }}"></a>
+                {{ else if in .url "twitter" }}
+                <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img class="ext-link-icon mx-2" src="/img/twitter.svg" alt="Link zum Twitter Account von {{ $name }}"></a>
+                {{ else }}
+                &nbsp;<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            </li>
+            </ul>
+            <div class="mb-5">
+              <div class="d-flex justify-content-evenly">
+                {{ range .Params.lab }}
+                  {{ with $.Site.GetPage (printf "/labs/%s.md" . ) }}
+                    <a href="{{ .Permalink }}">
+                      {{- if (fileExists (printf "static/labs/hexagon/CodeFor-%s.svg" .File.BaseFileName)) -}}
+                      <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
+                      {{- end }}
+                      <div class="text-center text-hero">{{ .Params.city }}</div>
+                    </a>
+                  {{ end }}
+                {{ end }}
+              </div>
+            </div>
+        </div>
+      </div>
     </div>
 </div>
 
