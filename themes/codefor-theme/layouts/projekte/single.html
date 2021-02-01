@@ -16,7 +16,7 @@
       </div>
 
       <div class="row">
-        <div class="col-22">
+        <div class="col">
           <div class="freetext-container">
             {{ .Content }}
           </div>
@@ -41,11 +41,11 @@
               {{ $name := .name }}
               {{ range .links }}
                 {{ if in .url "github" }}
-                <a href="{{ .url }}"><img class="ext-link-icon mx-2" src="/img/github.svg" alt="Link zum GitHub Account von {{ $name }}"></a>
+                <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img class="ext-link-icon mx-2" src="/img/github.svg" alt="Link zum GitHub Account von {{ $name }}"></a>
                 {{ else if in .url "twitter" }}
-                <a href="{{ .url }}"><img class="ext-link-icon mx-2" src="/img/twitter.svg" alt="Link zum Twitter Account von {{ $name }}"></a>
+                <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img class="ext-link-icon mx-2" src="/img/twitter.svg" alt="Link zum Twitter Account von {{ $name }}"></a>
                 {{ else }}
-                <a href="{{ .url }}">{{ .name }}</a>
+                &nbsp;<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
                 {{ end }}
               {{ end }}
             {{ end }}

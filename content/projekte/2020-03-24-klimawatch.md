@@ -11,7 +11,9 @@ links:
   name: Homepage
 
 collaborators:
-- name: <a href="https://twitter.com/krtfflslt">kartoffelsalat</a>, Münster
+- name: kartoffelsalat, Münster
+  links:
+  - url: https://twitter.com/krtfflslt
 - name: Christian Römer, Münster
 - name: Feena Fensky, Hamburg
 - name: Marcel Belledin, Köln
