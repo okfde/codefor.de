@@ -4,6 +4,8 @@ lab: [karlsruhe] #needed for Aggregation on Lab-Page
 imgname: karlsruhe/haushalt.jpg
 title: Offene Daten für Viele zugänglich machen
 status: Laufend
+showcase: 1
+draft: false
 
 links:
 - url: https://ok-lab-karlsruhe.de/projekte/haushalt
@@ -14,6 +16,10 @@ collaborators:
 - name: Michael Riedmüller
 - name: Sven Klenert
 - name: Andreas Kugel
+
+tags:
+- Politik
+
 
 ---
 

@@ -5,6 +5,8 @@ imgname: karlsruhe/klimakonzept.png
 imgcaption: "Foto: Stadt Karlsruhe"
 title: Klimakonzept Karlsruhe
 status: Laufend
+showcase: 1
+draft: false
 
 collaborators:
 - name: Johannes Eickhold
