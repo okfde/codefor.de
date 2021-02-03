@@ -1,10 +1,12 @@
 ---
 layout: project
 lab: [karlsruhe]
-imgname: karlsruhe/klimakonzept.png
+imgname: karlsruhe/klimakonzept.jpg
 imgcaption: "Foto: Stadt Karlsruhe"
 title: Klimakonzept Karlsruhe
 status: Laufend
+showcase: 1
+draft: false
 
 collaborators:
 - name: Johannes Eickhold
