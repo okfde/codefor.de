@@ -11,9 +11,6 @@ Code for Germany ist ein Netzwerk von Open-Government-Expert\*innen, die sich al
 Werde Stadtentwickler*in!
 {{< /button-center >}}
 
-
-{{< home/teaser-climate >}}
-
 {{< section >}}
 {{< headline-icon icon="icon-info.svg" >}}
 
