@@ -11,9 +11,6 @@ Code for Germany ist ein Netzwerk von Open-Government-Expert\*innen, die sich al
 Werde Stadtentwickler*in!
 {{< /button-center >}}
 
-
-{{< home/teaser-climate >}}
-
 {{< section >}}
 {{< headline-icon icon="icon-info.svg" >}}
 
@@ -89,20 +86,6 @@ Was bei uns passiert
 {{< button-center href="/blog" >}}
 Mehr Blogartikel lesen
 {{< /button-center >}}
-{{< /section >}}
-
-{{< section >}}
-{{< headline-icon icon="icon-calendar.svg" >}}
-{{< headline-brackets-h2 color="blue"  >}}Kalender{{< /headline-brackets-h2  >}}
-
-{{< paragraph-center class="text-center mb-5" >}}
-Aktuelle Veranstaltungen unserer Labs gibt es in unserem Nextcloud Kalender.
-{{< /paragraph-center >}}
-
-{{< button-center href="https://cloud.prototypefund.de/apps/calendar/p/i7d3aDKsyoD34geL/dayGridMonth/now" target="_blank" >}}
-Termine ansehen
-{{< /button-center >}}
-
 {{< /section >}}
 
 
