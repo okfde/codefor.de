@@ -49,11 +49,11 @@
         </div>
         <div class="col-24 d-flex justify-content-center my-7 btn-archive">
             {{ if ne .Title "Archiv" }}
-                <a class="btn btn-outline-dark  " href="/projekte/archiv">
+                <a class="btn btn-outline-dark" href="/projekte/archiv">
                     Projektarchiv
                 </a>
             {{ else }}
-                <a class="btn btn-outline-dark  " href="/projekte">
+                <a class="btn btn-outline-dark" href="/projekte">
                     Aktuelle Projekte
                 </a>
             {{ end }}
@@ -64,7 +64,7 @@
 
 <script>
 $( document ).ready(function() {
-  
+
   $('#filters button').click(function(){
     var filter = $(this).data('filter');
     $('#projects-container > div').show();
@@ -82,5 +82,3 @@ $( document ).ready(function() {
 </script>
 
 {{ end }}
-
-

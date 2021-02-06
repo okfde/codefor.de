@@ -3,7 +3,6 @@ city: Magdeburg
 title: OK Lab Magdeburg
 lat: 52.11946
 long: 11.62941
-markerposition: right
 
 aliases:
 - /magdeburg

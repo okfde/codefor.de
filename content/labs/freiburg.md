@@ -3,6 +3,7 @@ city: Freiburg
 title: OK Lab Freiburg
 lab: OK Lab Freiburg
 markerposition: right
+hide: true
 
 aliases:
 - /freiburg

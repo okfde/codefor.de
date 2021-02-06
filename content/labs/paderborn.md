@@ -2,6 +2,7 @@
 city: Paderborn
 title: CodeforPB
 markerposition: right
+hide: true
 
 aliases:
 - /paderborn

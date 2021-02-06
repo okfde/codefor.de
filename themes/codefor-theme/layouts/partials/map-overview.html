@@ -1,6 +1,4 @@
-
-
-
+{{- $labs := where (where .Site.RegularPages ".Params.city" "!=" nil) ".Params.hide" "!=" true }}
 <div class="row justify-content-center mt-5 mb-7 no-gutters">
   <div class="col-24 col-md-18">
     <div id="lab-map-wrapper">
@@ -14,16 +12,9 @@
               <span>OK Labs</span> <img src="/img/arrow.svg" alt="">
             </button>
             <div class="dropdown-menu dropdown-menu-right">
-              {{ $fn := .Page.File.BaseFileName }}
-              {{ with .Site.GetPage "/labs" }}
-                {{ with .Pages }}
-                {{ range sort . ".Params.city"  }}
-                  {{ if and (isset .Params "lat") (isset .Params "long") }}
-                  <a class="dropdown-item text-uppercase no-underline" href="{{.Permalink}}" s>{{ .Params.city }}</a>
-                  {{ end }}  
-                {{ end }}
-              {{ end }}
-              {{ end }}
+              {{- range sort $labs ".Params.city" -}}
+                <a class="dropdown-item text-uppercase no-underline" href="{{ .RelPermalink }}">{{ .Params.city }}</a>
+              {{ end -}}
             </div>
           </div>
         </div>
@@ -31,109 +22,73 @@
   </div>
 </div>
 
-
-
-
-
+<script src="{{ "leaflet/leaflet.js" | absURL }}"></script>
+<script src="{{ "js/lib/leaflet.iconlabel.js" | absURL }}"></script>
 <script>
-$( document ).ready(function() {
-      
-      
-      // initiaize map, set position and zoom level
-      var map = L.map("lab-map", {
-          zoomSnap: 0,
-          zoomControl: false
-      });
-      map.attributionControl.setPrefix("");
-      map.scrollWheelZoom.disable();
-      
+document.addEventListener("DOMContentLoaded", function () {
+  // initialize map, set position and zoom level
+  var map = L.map("lab-map", {
+    zoomSnap: 0,
+    zoomControl: false
+  });
+  map.attributionControl.setPrefix("");
+  map.scrollWheelZoom.disable();
 
-      // add zoom control on lab map
-      map.addControl(L.control.zoom({ position: 'topright' }));
+  // add zoom control on lab map
+  map.addControl(L.control.zoom({ position: 'topright' }));
 
-      // basemap
-      var cfgUrl='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-	    var cfgAttrib='Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors';
-	    var mapboxLayer = new L.TileLayer(cfgUrl, {	minZoom: 5, attribution: cfgAttrib});	
-
-      // define left-aligned and right-aligned labels and icons
-      var markers = [];
-
-      //get all labs
-      {{ $fn := .Page.File.BaseFileName }}
-      {{ with .Site.GetPage "/labs" }}
-      {{ range .Pages  }}
-      {{ if and (isset .Params "lat") (isset .Params "long") }}
-          
-          var labelRight = L.Icon.Label.extend({
-            options: {
-                iconUrl: "/img/lab_marker_home.svg",
-                shadowUrl: null,
-                iconSize: new L.Point(21, 35),
-                iconAnchor: new L.Point(0, 0),
-                labelAnchor: new L.Point(25, 2),
-                wrapperAnchor: new L.Point(10, 35),
-            }
-          });
-          var labelLeft = labelRight.extend({
-            options: {
-                iconUrl: "/img/lab_marker_home.svg",
-                shadowUrl: null,
-                iconSize: new L.Point(21, 35),
-                iconAnchor: new L.Point(0, 0),
-                labelAnchor: new L.Point(0, 2),
-                wrapperAnchor: new L.Point(10, 35),
-                labelClassName: "label-left"
-            }
-          });
-
-          {{ if eq .Params.markerposition "right" }}
-            var marker = L.marker([{{.Params.lat}}, {{.Params.long}}], {
-            icon: new labelRight({
-                labelText: '<a href="{{.Permalink}}">{{.Params.city}}</a>',
-            }),
-            url: "{{.Permalink}}",
-          {{ else }}
-            var marker = L.marker([{{.Params.lat}}, {{.Params.long}}], {
-            icon: new labelLeft({
-                labelText: '<a href="{{.Permalink}}">{{.Params.city}}</a>',
-            }),
-            url: "{{.Permalink}}",
-          {{ end }}
-
-          riseOnHover: true,
-          }).addTo(map);
-
-
-          {{ if eq $fn "mitmachen" }}
-            markers.push(marker);
-          {{else if eq $fn .File.BaseFileName}}
-            markers.push(marker);
-          {{end}}
-      {{ end }}  
-      {{ end }}
-      {{ end }}
-
+  // basemap
+  var osmTilesUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+  var osmAttrib = 'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors';
+  var osmLayer = new L.TileLayer(osmTilesUrl, { minZoom: 5, attribution: osmAttrib });
   // load basemaps
-  mapboxLayer.addTo(map);
+  osmLayer.addTo(map);
 
-  if(markers.length == 1){
-    //set view to show single marker
-    map.setView(markers[0]._latlng,10);
-  }
-  else{
-    //fit map to show all markers nicely
-    var group = new L.featureGroup(markers);
-    map.fitBounds(group.getBounds(), {padding: [60,60]});
+  // define left-aligned and right-aligned labels and icons
+  var labelRight = L.Icon.Label.extend({
+    options: {
+      iconUrl: "/img/lab_marker_home.svg",
+      shadowUrl: null,
+      iconSize: new L.Point(21, 35),
+      iconAnchor: new L.Point(0, 0),
+      labelAnchor: new L.Point(25, 2),
+      wrapperAnchor: new L.Point(10, 35),
+    }
+  });
+  var labelLeft = labelRight.extend({
+    options: {
+      labelAnchor: new L.Point(0, 2),
+      labelClassName: "label-left"
+    }
+  });
+  var labelTypes = { left: labelLeft, right: labelRight };
 
-      $('.leaflet-marker-icon-wrapper').click(function(e){
-          e.preventDefault();
-          var href = $(this).find('a').attr('href');
-          window.location.href = href;
-      });
+  var labs = [
+{{- range $labs -}}
+  {{- $coords := slice ((printf "%.2f" .Params.lat) | float) ((printf "%.2f" .Params.long) | float ) -}}
+  {{- $label := cond (eq .Params.markerposition "right") "right" "left" -}}
+  {{- dict "coords" $coords "label" $label "link" .RelPermalink "city" .Params.city | jsonify | safeJS -}},
+{{- end -}}
+]
 
-  }
+  var labsLayer = L.featureGroup().addTo(map);
 
+  labs.forEach(function (lab) {
+    var marker = L.marker(lab.coords, {
+      icon: new labelTypes[lab.label]({
+        labelText: '<a href="' + lab.link + '">' + lab.city + '</a>'
+       }),
+      url: lab.link,
+    })
+    .on('click', function() { window.location.href = lab.link; })
+    .addTo(labsLayer);
+  });
+
+  {{ if and (isset .Page.Params "lat") (isset .Page.Params "long") }}
+  map.setView([{{- .Page.Params.lat -}}, {{- .Page.Params.long -}}], 10);
+  {{- else -}}
+  map.fitBounds(labsLayer.getBounds(), { padding: [60,60] });
+  {{- end }}
 });
 
 </script>
