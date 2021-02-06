@@ -31,12 +31,4 @@ function lazybackgroundimage() {
 
 window.addEventListener("DOMContentLoaded", (event) => {
   lazybackgroundimage();
-
-  // add class to collapse module
-  $(".accordion button").click(function () {
-    $(this).closest(".accordion").find(".open").removeClass("open");
-    if ($(this).hasClass("collapsed")) {
-      $(this).closest(".card").addClass("open");
-    }
-  });
 });
