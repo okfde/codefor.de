@@ -20,5 +20,5 @@ In unseren Labs entstehen Projekte, die aufzeigen, welchen Mehrwert Offene Daten
 
 
 {{< paragraph-center  >}}
-In unseren prototypischen Anwendungen werden die Offenen Daten z. B. durch Visualisierungen für alle Menschen zugänglich gemacht. So sind komplexe Informationen leichter zu verstehen. Die Projekte orientieren sich an den jeweiligen lokalen Bedarfen. Gleichzeitig sind sie darauf ausgerichtet, Synergien zwischen kommunalen Verwaltungen deutschlandweit zu schaffen. Aktuell beschäftigen wir uns unter dem Motto Code for Climate verstärkt mit Umwelt- und Naturschutz. 
+In unseren prototypischen Anwendungen werden die Offenen Daten z. B. durch Visualisierungen für alle Menschen zugänglich gemacht. So sind komplexe Informationen leichter zu verstehen. Die Projekte orientieren sich an den jeweiligen lokalen Bedarfen. Gleichzeitig sind sie darauf ausgerichtet, Synergien zwischen kommunalen Verwaltungen deutschlandweit zu schaffen.
 {{< /paragraph-center  >}}
