@@ -3,7 +3,7 @@ layout: project
 lab: [muenchen] #needed for event and project aggregation
 imgname: muenchen/citybikes.jpg
 title: MVG Rad für citybik.es
-showcase: 1
+showcase: true
 status: Im Produktivbetrieb
 
 links:

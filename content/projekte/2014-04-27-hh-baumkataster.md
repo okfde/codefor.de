@@ -3,7 +3,7 @@ layout: project
 lab: [hamburg] #needed for Aggregation on Lab-Page
 imgname: hamburg/baumkataster.jpg
 title: Baumkataster nutzen
-showcase: 1
+showcase: true
 
 links:
 

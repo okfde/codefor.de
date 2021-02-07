@@ -3,7 +3,7 @@ layout: project
 lab: ["schleswig-flensburg"] #needed for Aggregation on Lab-Page
 title: 1000 LoRaWAN Nodes im ländlichen Raum von Schleswig-Holstein
 imgname: schleswig_flensburg/node.jpg
-showcase: 1
+showcase: true
 status: Laufend
 
 # TODO Add collaborators

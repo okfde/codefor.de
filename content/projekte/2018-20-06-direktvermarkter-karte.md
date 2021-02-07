@@ -3,7 +3,7 @@ layout: project
 lab: [karlsruhe] #needed for Aggregation on Lab-Page
 imgname: karlsruhe/direktvermarkter.png
 title: farmshops.eu Direktvermarkter Karte
-showcase: 1
+showcase: true
 status: Laufend
 
 collaborators:

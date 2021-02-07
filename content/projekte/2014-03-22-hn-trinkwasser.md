@@ -3,7 +3,7 @@ layout: project
 lab: [heilbronn] #needed for Aggregation on Lab-Page
 imgname: hn-trinkwasser.jpg
 title: Was steckt in meinem Leitungswasser?
-showcase: 1
+showcase: true
 status: Sucht Mitmacher
 
 links:

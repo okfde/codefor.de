@@ -4,7 +4,7 @@ lab: [magdeburg]
 imgname: magdeburg/streetnames-md.jpg
 title: Straßennamen Magdeburg
 status: Active
-showcase: 1
+showcase: true
 draft: false
 
 
