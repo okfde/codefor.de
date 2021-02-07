@@ -1,26 +1,26 @@
 //lazy load images
 function lazybackgroundimage() {
-  const intersectionObserverOptions = {
+  var intersectionObserverOptions = {
     root: null,
     rootMargin: "300px",
     threshold: 1.0,
   };
 
-  const observer = new IntersectionObserver(
+  var observer = new IntersectionObserver(
     onIntersection,
     intersectionObserverOptions
   );
 
-  Array.from(document.getElementsByClassName("lazyload")).forEach((element) =>
+  document.querySelectorAll(".lazyload").forEach(function (element) {
     observer.observe(element)
-  );
+  });
 
   function onIntersection(entries) {
-    entries.forEach(({ target, intersectionRatio }) => {
+    entries.forEach(function (entry) {
       // Are we in viewport?
-      if (intersectionRatio > 0) {
-        const { style } = target.dataset;
-        target.setAttribute("style", style);
+      if (entry.intersectionRatio > 0) {
+        var style = entry.target.dataset.style;
+        entry.target.setAttribute("style", style);
 
         // Stop watching
         observer.unobserve(target);
@@ -29,6 +29,6 @@ function lazybackgroundimage() {
   }
 }
 
-window.addEventListener("DOMContentLoaded", (event) => {
+document.addEventListener("DOMContentLoaded", function () {
   lazybackgroundimage();
 });
