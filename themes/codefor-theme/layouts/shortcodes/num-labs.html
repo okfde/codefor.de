@@ -1,0 +1,2 @@
+{{- $labs := where (where .Site.RegularPages ".Params.city" "!=" nil) ".Params.hide" "!=" true -}}
+{{ len $labs }}

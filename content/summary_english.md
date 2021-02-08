@@ -24,7 +24,7 @@ Code for Germany is a project of the non-profit organization [Open Knowledge Fou
 
 The labs are experimental spaces for the digital urban society. Experts from development, design, politics, administration, the humanities and many others develop open-source software prototypes that public authorities can implement in their daily work. With these practical applications we show how our society benefits from open government processes every day and demonstrate how sustainable digital change can be shaped.
 
-Two full-time employees support and accompany the network. Since its foundation in 2014, it has grown to 26 labs in 14 German states and comprises a community of over 500 volunteers. We work with local authorities and support them in providing up-to-date, efficient and transparent services. We are also part of [Code for All](https://codeforall.org/), which enables us to connect with like-minded people internationally.
+Since its foundation in 2014, it has grown to {{< num-labs >}} labs and comprises a community of over 500 volunteers. We work with local authorities and support them in providing up-to-date, efficient and transparent services. We are also part of [Code for All](https://codeforall.org/), which enables us to connect with like-minded people internationally.
 
 **Contact**
 
