@@ -8,14 +8,12 @@
             In diesen Städten gibt es <br>bereits ein OK Lab:
           </div>
           <div class="btn-group w-100">
-            <button type="button" class="no-text-transform btn btn-outline-dark dropdown-toggle d-flex justify-content-between align-items-center" data-flip="false" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              <span>OK Labs</span> <img src="/img/arrow.svg" alt="">
-            </button>
-            <div class="dropdown-menu dropdown-menu-right">
+            <select class="custom-select" id="lab-select">
+              <option selected disabled>&hellip;</option>
               {{- range sort $labs ".Params.city" -}}
-                <a class="dropdown-item text-uppercase no-underline" href="{{ .RelPermalink }}">{{ .Params.city }}</a>
+              <option value="{{ .RelPermalink }}">{{ .Params.city }}</option>
               {{ end -}}
-            </div>
+            </select>
           </div>
         </div>
     </div>
@@ -26,6 +24,11 @@
 <script src="{{ "js/lib/leaflet.iconlabel.js" | absURL }}"></script>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
+  document.getElementById("lab-select").addEventListener("change", function (e) {
+    if (e.target.value) {
+      window.location.href = e.target.value;
+    }
+  });
   // initialize map, set position and zoom level
   var map = L.map("lab-map", {
     zoomSnap: 0,
