@@ -22,22 +22,22 @@
       <section class="flex-grow-1">
           <h3>Kontakt</h3>
           <ul class="list-unstyled mb-5">
-              {{ range .Params.Leads }}
-              <li class="d-flex  p-2">
+              {{ range .Params.Leads -}}
+              <li>
                   <a class="d-block text-dark" href="{{ .url }}">{{ .name }}</a>
               </li>
-              {{ end }}
+              {{ end -}}
           </ul>
         </section>
 
         <section class="flex-grow-1">
         <h3>Links</h3>
             <ul class="list-unstyled mb-5">
-            {{ range .Params.Links }}
+            {{ range .Params.Links -}}
             <li>
-                <a class="d-block  text-dark" href="{{ .url }}">{{ .name }}</a>
+                <a class="d-block text-dark" href="{{ .url }}">{{ .name }}</a>
             </li>
-            {{ end }}
+            {{ end -}}
         </ul>
         </section>
     </div>
