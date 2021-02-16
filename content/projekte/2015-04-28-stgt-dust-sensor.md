@@ -3,7 +3,7 @@ layout: project
 lab: [stuttgart] #needed for Aggregation on Lab-Page
 imgname: stuttgart/dust-sensor.jpg
 title: Feinstaubsensoren
-showcase: 1
+showcase: true
 
 links:
 - url: http://luftdaten.info/

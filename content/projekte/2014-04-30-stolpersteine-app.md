@@ -3,7 +3,7 @@ layout: project
 lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/stolpersteine-app.jpg
 title: Stolpersteine App
-showcase: 1
+showcase: true
 
 links:
   - url: https://itunes.apple.com/de/app/stolpersteine-in-berlin/id640731757?mt=8

@@ -3,7 +3,7 @@ layout: project
 lab: [magdeburg] #needed for Aggregation on Lab-Page
 imgname: magdeburg/magdego.de.png
 title: MagdeGo
-showcase: 1
+showcase: true
 status: Discontinued
 
 links:

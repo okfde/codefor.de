@@ -7,16 +7,18 @@
 
 <div class="row justify-content-center mt-6">
     <div class="col-24 col-md-22 col-lg-17">
-        <div class="row" id="blog-entries-container" data-total-pages="{{$paginator.TotalPages}}"> 
-            
+        <div class="row" id="blog-entries-container">
+
             {{ range first 1 $paginator.Pages }}
-                {{ partial "blog-preview.html" . }}
+            {{ partial "blog-preview.html" . }}
             {{ end }}
 
             <!-- For Twitter we add the hidden class which will be removed in script below -->
             {{if eq $paginator.PageNumber 1}}
-            <div class="col-24 col-md-12 mb-5 mb-md-7 project-preview-container twitter-container d-none" >
-                <a class="twitter-timeline" data-height="100%" href="https://twitter.com/codeforde?ref_src=twsrc%5Etfw">Tweets by codeforde</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <div class="col-24 col-md-12 mb-5 mb-md-7 project-preview-container twitter-container d-none">
+                <a class="twitter-timeline" data-height="100%"
+                    href="https://twitter.com/codeforde?ref_src=twsrc%5Etfw">Tweets by codeforde</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
             {{end}}
 
@@ -27,43 +29,22 @@
         </div>
 
         <div class="d-flex justify-content-center mb-5 mb-lg-7">
-            <button id="loadMore" class="btn btn-outline-dark">weitere anzeigen</button>
+            {{ template "_internal/pagination.html" . }}
         </div>
     </div>
 </div>
 
 <script>
-$( document ).ready(function() {
-
-    var totalPages = $('#blog-entries-container').data('total-pages');
-    var currentpage = 1;
-    var loading = false;
-    setTimeout(checkTwitter, 3000); // execute twitter widget check after a delay
-
-
-    $('#loadMore').click(function(){
-        currentpage++;
-        if(currentpage<totalPages && !loading){
-            loading = true;
-            $.get( "/blog/page/"+currentpage, function( data ) {
-                $('#blog-entries-container').append($(data).find('.project-preview-container'));
-                lazybackgroundimage();
-                loading = false;
-                if(currentpage == totalPages){
-                    $(this).hide();
-                }
-            });
-        }
-
+    document.addEventListener("DOMContentLoaded", function () {
+        setTimeout(checkTwitter, 3000); // execute twitter widget check after a delay
     });
-});
 
-function checkTwitter() {
-    var widgetNode = document.querySelector("#twitter-widget-0");
-    if (widgetNode) {
-        widgetNode.parentNode.classList.remove("d-none");
+    function checkTwitter() {
+        var widgetNode = document.querySelector("#twitter-widget-0");
+        if (widgetNode) {
+            widgetNode.parentNode.classList.remove("d-none");
+        }
     }
-}
 </script>
 
 {{ end }}

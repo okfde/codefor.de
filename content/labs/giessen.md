@@ -3,7 +3,7 @@ city: Gießen
 title: OK Lab Gießen
 lat: 50.587142
 long: 8.690926
-markerposition: left
+markerposition: right
 
 aliases:
 - /giessen

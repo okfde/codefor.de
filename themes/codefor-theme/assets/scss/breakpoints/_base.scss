@@ -379,98 +379,83 @@ footer{
 
 //---------------------------------------------------
 //style general accordion
-#accordionCode{
-  .card{
-    transition: border 0.3s, background-color 0.3s, margin-top 0s;
+.accordion {
+  .card {
     border: none;
     border-top: 1px solid #000;
     border-radius: 0;
     padding: 16px 0;
-    &:last-child{
+    &:last-child {
       border-bottom: 1px solid #000;
     }
 
-    &.open{
-      .btn-close{
-        transform: rotate(0deg) !important;
-      }
-    }
-    .card-header{
+    .card-header {
       background-color: rgba(0,0,0,0);
       border-bottom: none;
-      h3{
-        white-space: normal;
-        margin: 0;
-        padding: 0;
-        text-transform: none;
-      }
-      .btn-close{
-        &:focus{
-          outline:none !important;
-          box-shadow: none;
-        }
-        transform: rotate(45deg);
-        min-width: 0 !important;
-        padding: 5px !important;
-        width: 30px;
-        height: 30px;
-        flex-shrink: 0;
-        background-color: rgba(0,0,0,0);
-        transition: all 0.2s;
-      }
+    }
+  }
+  summary {
+    list-style: none;
+    &:hover {
+      text-decoration: underline;
+    }
+    &:focus {
+      outline: none;
+    }
+  }
+  details {
+    & > summary::-webkit-details-marker {
+      display: none;
+    }
+    & > summary .open-close {
+      height: 18px;
+      margin-right: 10px;
+      float: right;
+      transform: rotate(45deg);
+      transition: transform 0.2s;
+    }
+    &[open] > summary  .open-close {
+      transform: rotate(0deg);
     }
   }
 }
 
+.participate-details > summary {
+  @extend h3;
+}
 
-//---------------------------------------------------
-//style accordion goals
-#accordionGoals{
-  .card{
-    transition: border 0.3s, background-color 0.3s, margin-top 0s;
-    border: 1px solid #000;
+.goals-accordion {
+  .goals-details {
+    border: 0 !important;
+    padding: 0;
     margin-top:-1px;
-    border-radius: 6px;
-    &.open{
-      margin-top:0px;
-      border: 1px solid $codefor-mint;
+    &[open] {
       background-color: $codefor-mint;
-      .btn-close{
-        transform: rotate(0deg) !important;
+      border: 1px solid #000;
+      & > .goals-summary {
+        border: 0;
       }
     }
-    .card-header{
-      background-color: rgba(0,0,0,0);
-      border-bottom: none;
+    .goals-summary {
       transition: border 0.3s, background-color 0.3s, margin-top 0s;
-      &:hover{
+      border: 1px solid #000;
+      border-radius: 6px !important;
+      padding-top: 1.75rem;
+      padding-bottom: 1.75rem;
+      &:hover {
         background-color: $codefor-mint;
       }
-      .btn-link{
+      .text {
         text-align: left;
         white-space: normal;
+        font-size: 18px;
       }
-      .btn-close{
-        &:focus{
-          outline:none !important;
-          box-shadow: none;
-        }
-        transform: rotate(45deg);
-        padding: 11px;
-        width: 40px;
-        height: auto;
-        background-color: rgba(0,0,0,0);
-        transition: all 0.2s;
-      }
-      .text-center{
-        line-height: 1.1em;
-      }
-    }
-    .card-body{
-      .row > div{
-        background-color: #fff;
+      .icon-text {
+        line-height: 1.1;
       }
     }
   }
-
+  .details-content {
+    background-color: #fff;
+  }
 }

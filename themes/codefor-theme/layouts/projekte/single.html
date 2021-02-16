@@ -52,7 +52,7 @@
             </li>
             </ul>
             <div class="mb-5">
-              <div class="d-flex justify-content-evenly">
+              <div class="d-flex justify-content-center">
                 {{ range .Params.lab }}
                   {{ with $.Site.GetPage (printf "/labs/%s.md" . ) }}
                     <a href="{{ .Permalink }}">

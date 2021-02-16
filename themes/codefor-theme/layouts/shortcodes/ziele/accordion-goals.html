@@ -1,44 +1,35 @@
 <div class="row justify-content-center my-8">
 	<div class="col-23 col-md-22 col-lg-19 col-xl-17">
-		<div class="accordion" id="accordionGoals">
+		<div class="accordion goals-accordion">
 		{{ range $index, $element := $.Site.Data.ziele }}
-		<div class="card">
-			<div class="card-header" id="heading-{{ $index }}">
+		<details class="card goals-details" id="heading-{{ $index }}">
+			<summary class="card-header goals-summary">
 				<div class="row justify-content-center">
 					<div class="col-9 col-sm-5 col-xl-4 d-flex flex-column align-items-center">
 						<div class="px-md-4 w-100">
 							<img class="img-fluid p-2" src="/icons/{{ $element.icon }}">
 						</div>
-						<div class="text-center mb-3">{{$element.iconCaption | markdownify }}</div>
+						<div class="text-center mb-3 icon-text">{{$element.iconCaption | markdownify }}</div>
 					</div>
 					<div class="col-24 col-sm-19 col-xl-20">
 						<div class="row h-100">
-							<div class="col-24 col-sm-20 d-flex h-100">
-								<button class="btn btn-link collapsed text-dark mt-2 no-text-transform align-self-center" type="button" data-toggle="collapse" data-target="#collapse-{{ $index }}" aria-expanded="true" aria-controls="collapse-{{ $index }}">
-									{{ $element.title }}
-								</button>
+							<div class="col-24 col-sm-20 d-flex h-100 text">
+								{{ $element.title }}
 							</div>
 							<div class="col d-flex align-items-start justify-content-center justify-content-sm-end">
-								<button class="collapsed btn btn-close" type="button" data-toggle="collapse" data-target="#collapse-{{ $index }}" aria-expanded="true" aria-controls="collapse-{{ $index }}">
-									<img class="img-fluid" src="/img/close-icon.svg">
-								</button>
+								<img class="open-close" src="/img/close-icon.svg" alt="">
 							</div>
 						</div>
 					</div>
 				</div>
+			</summary>
 
-			</div>
-			
-			<div id="collapse-{{ $index }}" class="collapse" aria-labelledby="heading-{{ $index }}" data-parent="#accordionGoals">
-				<div class="card-body py-0">
-					<div class="row justify-content-center justify-content-lg-start">
-						<div class="col-22 col-sm-17 col-xl-17 offset-sm-5 offset-xl-4 px-4 px-sm-5 py-5">
-							{{ $element.txt | markdownify }}						
-						</div>
-					</div>
+			<div class="row justify-content-center justify-content-lg-start">
+				<div class="col-22 col-sm-17 col-xl-17 offset-sm-5 offset-xl-4 px-4 px-sm-5 py-5 details-content">
+					{{ $element.txt | markdownify }}
 				</div>
 			</div>
-		</div>
+		</details>
 		{{ end }}
 		</div>
 	</div>

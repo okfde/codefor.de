@@ -5,7 +5,7 @@ imgname: karlsruhe/klimakonzept.jpg
 imgcaption: "Foto: Stadt Karlsruhe"
 title: Klimakonzept Karlsruhe
 status: Laufend
-showcase: 1
+showcase: true
 draft: false
 
 collaborators:
@@ -20,7 +20,7 @@ links:
 
 tags:
 - Umwelt
-    
+
 ---
 
 Die Stadt Karlsruhe hat den Entwurf des Klimaschutzkonzepts 2030 in einem [Beteiligungsverfahren](https://beteiligung.karlsruhe.de/content/bbv/details/90/) der Bevölkerung vorgelegt.

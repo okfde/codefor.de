@@ -4,7 +4,7 @@ lab: [karlsruhe] #needed for Aggregation on Lab-Page
 imgname: karlsruhe/haushalt.jpg
 title: Offene Daten für Viele zugänglich machen
 status: Laufend
-showcase: 1
+showcase: true
 draft: false
 
 links:
@@ -29,8 +29,8 @@ Wir haben zu dieser Frage mehrere Veranstaltungen in verschiedenen Formaten durc
 
 Dazu arbeiten wir an folgenden Themen
 * IT-Werkzeuge für Bürger/innen ohne spezifische IT-Kenntnisse zur eigenständigen Analyse und Auswertung von strukturierten Daten – speziell auch Haushaltsplänen
-* Selbst-Lernkurse 
-  * für „Self-Service“ IT-Werkzeuge 
+* Selbst-Lernkurse
+  * für „Self-Service“ IT-Werkzeuge
   * zu Haushaltsplänen: „Kommunale Haushaltspläne in einfacher Sprache“
 * Überarbeitung der derzeitigen Datei- und Datenstrukturen zu Haushaltsplänen
 * Publikation der Ergebnisse in einer neuen Version der Haushaltspläne im Transparenzportal der Stadt
@@ -38,6 +38,3 @@ Dazu arbeiten wir an folgenden Themen
 Haben Sie Interesse mitzuarbeiten oder unsere Lösung auch für Ihre Stadt nutzbar zu machen?
 
 Dann senden Sie uns eine Nachricht an haushaltsplan@ok-lab-karlsruhe.de
-
-
-

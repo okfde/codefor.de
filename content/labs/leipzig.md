@@ -3,7 +3,7 @@ city: Leipzig
 title: OK Lab Leipzig
 lat: 51.3322131
 long: 12.3735576
-markerposition: right
+markerposition: left
 
 aliases:
 - /leipzig

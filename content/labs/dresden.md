@@ -3,6 +3,7 @@ city: Dresden
 title: Open Data Dresden
 lat: 51.08113
 long: 13.72858
+markerposition: right
 
 aliases:
 - /dresden

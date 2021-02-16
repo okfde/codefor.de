@@ -1,8 +1,8 @@
 ---
 title: Code for Münster
 city: Münster
-lat: 51.964928
-long: 7.630490
+lat: 51.96
+long: 7.62
 
 aliases:
 - /muenster

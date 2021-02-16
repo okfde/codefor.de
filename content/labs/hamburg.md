@@ -3,13 +3,10 @@ city: Hamburg
 title: OK Lab Hamburg
 lat: 53.5476165
 long: 9.9800385
+markerposition: left
 
 aliases:
 - /hamburg
-
-#special: true #this lab gets spcecial marker (digital refugee lab)
-
-markerposition: right
 
 members:
 
@@ -91,14 +88,14 @@ leads:
   url: mailto:solveig@codeforhamburg.org
 
 - name: Christian Wittig (Orga)
-  url: mailto:christian@codeforhamburg.org 
+  url: mailto:christian@codeforhamburg.org
 
 - name: Timo Lundelius (Orga)
   url: mailto:timo@codeforhamburg.org
 
 - name: Feena Fensky (Orga)
   url: mailto:feena@codeforhamburg.org
-  
+
 - name: Tom Friedel (Orga)
   url: mailto:tom@codeforhamburg.org
 

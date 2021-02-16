@@ -4,7 +4,7 @@ lab: [ruhrgebiet]
 imgname: ruhrgebiet/recyclingkarte.png
 title: Recyclingkarte
 status: in Entwicklung
-showcase: 1
+showcase: true
 draft: false
 
 links:

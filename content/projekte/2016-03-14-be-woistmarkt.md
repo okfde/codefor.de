@@ -3,7 +3,7 @@ layout: project
 lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/wo-ist-markt.png
 title: Wo ist Markt?
-showcase: 1
+showcase: true
 status: Finished
 
 links:

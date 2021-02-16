@@ -1,44 +1,46 @@
 //lazy load images
 function lazybackgroundimage() {
-    const intersectionObserverOptions = {
-      root: null,
-      rootMargin: '300px',
-      threshold: 1.0
-    }
-  
-    const observer = new IntersectionObserver(onIntersection, intersectionObserverOptions);
-  
-    Array.from(document.getElementsByClassName("lazyload"))
-      .forEach(element => observer.observe(element));
-  
-    function onIntersection(entries){
-      entries.forEach(({ target, intersectionRatio }) => {
-        // Are we in viewport?
-        if (intersectionRatio > 0) {
-          const { style } = target.dataset;
-          target.setAttribute("style", style)
-  
-          // Stop watching
-          observer.unobserve(target);
-        }
-      });
-    }
-  }
+  var intersectionObserverOptions = {
+    root: null,
+    rootMargin: "300px",
+    threshold: 1.0,
+  };
 
+  var observer = new IntersectionObserver(
+    onIntersection,
+    intersectionObserverOptions
+  );
 
-$( document ).ready(function() {
+  document.querySelectorAll(".lazyload").forEach(function (element) {
+    observer.observe(element)
+  });
 
-    lazybackgroundimage();
+  function onIntersection(entries) {
+    entries.forEach(function (entry) {
+      // Are we in viewport?
+      if (entry.intersectionRatio > 0) {
+        var style = entry.target.dataset.style;
+        entry.target.setAttribute("style", style);
 
-    // add class to collapse module
-    $('.accordion button').click(function(){
-        $(this).closest('.accordion').find('.open').removeClass('open');
-        if($(this).hasClass('collapsed')){
-            $(this).closest('.card').addClass('open');
-        }
+        // Stop watching
+        observer.unobserve(target);
+      }
     });
+  }
+}
 
+document.addEventListener("DOMContentLoaded", function () {
+  lazybackgroundimage();
 
-
-
+  var mobileNavButton = document.getElementById("nav-toggler");
+  var mobileNav = document.getElementById("navbarNav");
+  mobileNavButton.addEventListener("click", function () {
+    var isVisible = mobileNav.className.indexOf("show") !== -1;
+    if (isVisible) {
+      mobileNav.className = mobileNav.className.replace("show", "").trim();
+    } else {
+      mobileNav.className = mobileNav.className + " show";
+    }
+    mobileNavButton.setAttribute("aria-expanded", !isVisible);
+  })
 });

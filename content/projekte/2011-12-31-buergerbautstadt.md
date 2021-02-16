@@ -3,7 +3,7 @@ layout: project
 lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/buergerbautstadt.png
 title: Buerger Baut Stadt
-showcase: 1
+showcase: true
 draft: 1
 
 links:

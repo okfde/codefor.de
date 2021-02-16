@@ -4,7 +4,7 @@ lab: [muenster]
 imgname: muenster/klimawatch_weiss.png
 title: Klimawatch
 status: Active
-showcase: 1
+showcase: true
 
 links:
 - url: https://klimawatch.de

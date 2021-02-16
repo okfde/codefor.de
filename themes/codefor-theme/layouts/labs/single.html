@@ -4,7 +4,7 @@
 <div class="lab-content">
     <div class="d-flex align-items-center flex-wrap justify-content-center">
         {{- if (fileExists (printf "static/labs/hexagon/CodeFor-%s.svg" .File.BaseFileName)) -}}
-            <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
+            <img class="lab-logo" src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
         {{- end }}
       <h1 class="headline-brackets blue flex-grow-1 m-0">{{.Title}} </h1>
 </div>
@@ -22,22 +22,22 @@
       <section class="flex-grow-1">
           <h3>Kontakt</h3>
           <ul class="list-unstyled mb-5">
-              {{ range .Params.Leads }}
-              <li class="d-flex  p-2">
+              {{ range .Params.Leads -}}
+              <li>
                   <a class="d-block text-dark" href="{{ .url }}">{{ .name }}</a>
               </li>
-              {{ end }}
+              {{ end -}}
           </ul>
         </section>
 
         <section class="flex-grow-1">
         <h3>Links</h3>
             <ul class="list-unstyled mb-5">
-            {{ range .Params.Links }}
+            {{ range .Params.Links -}}
             <li>
-                <a class="d-block  text-dark" href="{{ .url }}">{{ .name }}</a>
+                <a class="d-block text-dark" href="{{ .url }}">{{ .name }}</a>
             </li>
-            {{ end }}
+            {{ end -}}
         </ul>
         </section>
     </div>
@@ -67,10 +67,7 @@
 </div>
 {{ end }}
 
-
 <hr/>
-{{partial "map-overview.html" . }}
-
-
+{{ partial "map-overview.html" . }}
 
 {{ end }}
