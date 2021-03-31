@@ -10,7 +10,7 @@ type: blog
 
 # Out in the Open: Spannende Entdeckungen aus Open Data und Civic Tech
 
-Hallo :wave:. Willkommen zur ersten Edition von von Code for Germanys **Out in the Open**. Mit diesem monatlichen Format
+Hallo 👋. Willkommen zur ersten Edition von von Code for Germanys **Out in the Open**. Mit diesem monatlichen Format
 wollen wir euch einen Überblick über die neuesten Entwicklungen in der Open Data and Civic Tech Szene geben.
 
 Am 6. März wurde der jährliche [Open Data Day](https://opendataday.org/) weltweit mit vielen Workshops, Präsentationen
