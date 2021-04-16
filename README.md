@@ -44,7 +44,7 @@ git push
 
 
 ## Hinweise
-* Den `main`-Branch, aus dem sich die **Seite automatisch baut**, kann nicht direkt verändert werden. Stattdessen bringe deine Anderungen in einen eigenen Branch und stelle einen Pull-Request. Pull-Requests erhalten dank netlify automatisch eine Vorschau-URL, du findest diese dann als Preview in den Checks deines PRs.
+* Den `main`-Branch, aus dem sich die **Seite automatisch baut**, kann nicht direkt verändert werden. Stattdessen bringe deine Änderungen in einen eigenen Branch und stelle einen Pull-Request. Pull-Requests erhalten dank netlify automatisch eine Vorschau-URL, du findest diese dann als Preview in den Checks deines PRs.
 * Am besten bearbeitest du die Seite **lokal und testest** dann einmal mit [`hugo -D`*](#Gebaut-mit-Hugo), ob sie wirklich funktioniert. Dadurch hilfst du, Fehler und damit auch zusätzliche Arbeit zu vermeiden.
 
 ## Die Struktur im Überblick – Was finde ich wo?
