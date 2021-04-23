@@ -1,0 +1,5 @@
+{
+  "labs": [
+  {{ range .Pages }}{{ dict "metadata" .Params "description" .RawContent | jsonify }},{{ end }}
+  ]
+}

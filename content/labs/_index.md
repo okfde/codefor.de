@@ -1,5 +1,8 @@
 ---
 title: OK Labs
+outputs:
+- html
+- json
 ---
 
 In unseren OK Labs verbinden wir Menschen mit ähnlichen Interessen aus ganz unterschiedlichen Bereichen. Gemeinsam arbeiten wir an Anwendungen und Visualisierungen, die Offene Daten befreien und so Informationen für alle Menschen zugänglich machen. Durch die Einbindung in das bundesweite Code for Germany Netzwerk streuen wir unsere Ergebnisse in unterschiedlichste Teile der Gesellschaft und verhelfen dem digitalen Ehrenamt zu noch mehr Sichtbarkeit.
