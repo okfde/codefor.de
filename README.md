@@ -115,11 +115,15 @@ git push
 │   └── LICENSE --------------> Lizenz der Website
 ```
 
-## Maschinen lesbare Daten der Labs und aller Projekte (simple API)
+## Maschinenlesbare Daten der Labs und aller Projekte (simple API)
 
-Für Labs und Projekte wir automatisch ein JSON erzeugt welches sich unter `/projekte/index.json` bzw. unter `/labs/index.json` befindet.  
+Eine maschinenlesbare Repräsentation der Labs und Projekte in JSON-Format lassen sich unter `/projekte/index.json` bzw. unter `/labs/index.json` abrufen.
+
+**Wichtig**:
+
+Das Schema der Daten kann sich jederzeit ändern.
   
-Die Liste der Labs sieht so aus `/labs/index.json`
+### Beispiel `/labs/index.json`
 
 ``` JSON
 {
@@ -138,7 +142,7 @@ Die Liste der Labs sieht so aus `/labs/index.json`
 
 ```
 
-Die Liste der Projekte sieht so aus `/projekte/index.json`
+### Beispiel `/projekte/index.json`
 
 ``` JSON
 {
@@ -156,8 +160,6 @@ Die Liste der Projekte sieht so aus `/projekte/index.json`
 }
 
 ```
-
-
 
 ## Lizenz
 
