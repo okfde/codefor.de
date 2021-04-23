@@ -115,6 +115,50 @@ git push
 │   └── LICENSE --------------> Lizenz der Website
 ```
 
+## Maschinen lesbare Daten der Labs und aller Projekte (simple API)
+
+Für Labs und Projekte wir automatisch ein JSON erzeugt welches sich unter `/projekte/index.json` bzw. unter `/labs/index.json` befindet.  
+  
+Die Liste der Labs sieht so aus `/labs/index.json`
+
+``` JSON
+{
+  "labs":[
+    {
+      "description":"Hier ist das komplette Markdown der Seite ohne 'front matter' (Header)",
+      "metadata":{" Hier stehen alle Informationen die im 'front matter' (Header) stehen"}
+    },
+    {
+      "description":"",
+      "metadata":{""}
+    }
+
+  ]
+}
+
+```
+
+Die Liste der Projekte sieht so aus `/projekte/index.json`
+
+``` JSON
+{
+  "projects":[
+    {
+      "description":"Hier ist das komplette Markdown der Seite ohne 'front matter' (Header)",
+      "metadata":{" Hier stehen alle Informationen die im 'front matter' (Header) stehen"}
+    },
+    {
+      "description":"",
+      "metadata":{""}
+    }
+
+  ]
+}
+
+```
+
+
+
 ## Lizenz
 
 Code: [MIT](./LICENSE). Inhalt: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de).
