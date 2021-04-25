@@ -28,7 +28,7 @@ Wo ist gerade Wochenmarkt in Leipzig auf einer Karte dargestellt. Man kann für 
 ## Umsetzung
  * Technologie: HTML, Javascript, Leaflet
  * Web-Anwendung nicht von uns in Leipzig entwickelt, wir haben nur die folgende JSON-Datei bereitgestellt
- * um Änderungen nach zutragenm ist [diese Datei](https://github.com/CodeforLeipzig/wo-ist-markt.github.io/blob/master/cities/leipzig.json) editieren (am besten auf einen eigenen Branch) und anschließend einen Pull-Request gegen das Haupt-Repo stellen
+ * um Änderungen nach zutragen, ist [diese Datei](https://github.com/CodeforLeipzig/wo-ist-markt.github.io/blob/master/cities/leipzig.json) zu bearbeiten (am besten auf einen eigenen Branch) und anschließend einen Pull-Request gegen das Haupt-Repo stellen
  * um Änderungen nicht manuell nachtragen zu müssen, gibt es jetzt auch einen Javascript-basierten [Scraper](https://github.com/CodeforLeipzig/wo-ist-markt-scraper) für die Leipziger Behörden-Seite, der eben diese JSON-Datei als Ergebnis erzeugt
  * der Scraper nutzt [cheerio.js](https://github.com/cheeriojs/cheerio) für das Navigieren im DOM und [nunjucks](https://mozilla.github.io/nunjucks/) als Templating-Engine
 
