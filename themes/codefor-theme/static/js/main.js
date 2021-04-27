@@ -23,7 +23,7 @@ function lazybackgroundimage() {
         entry.target.setAttribute("style", style);
 
         // Stop watching
-        observer.unobserve(target);
+        observer.unobserve(entry.target);
       }
     });
   }

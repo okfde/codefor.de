@@ -76,10 +76,10 @@ links:
   url: https://twitter.com/codeformuenchen
 
 - name: Notizen auf Orga-Pad
-  url: http://pad.okfn.de/p/oklab-muc
+  url: https://pad.okfn.de/p/oklab-muc
 
 - name: Unsere Mailinglist
-  url: https://lists.okfn.org/mailman/listinfo/codeformunich
+  url: https://mlists.okfn.de/cgi-bin/mailman/listinfo/codeformunich
 
 
 feeds:
