@@ -24,7 +24,7 @@
           <ul class="list-unstyled mb-5">
               {{ range .Params.Leads -}}
               <li>
-                  <a class="d-block text-dark" href="{{ .url }}">{{ .name }}</a>
+                <a class="d-block text-dark" href="{{ .url | safeURL }}" title="{{ .name }}" {{ if strings.HasPrefix .url "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .name }}</a>
               </li>
               {{ end -}}
           </ul>
@@ -35,7 +35,7 @@
             <ul class="list-unstyled mb-5">
             {{ range .Params.Links -}}
             <li>
-                <a class="d-block text-dark" href="{{ .url }}">{{ .name }}</a>
+                <a class="d-block text-dark" href="{{ .url | safeURL }}" title="{{ .name }}" {{ if strings.HasPrefix .url "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .name }}</a>
             </li>
             {{ end -}}
         </ul>
