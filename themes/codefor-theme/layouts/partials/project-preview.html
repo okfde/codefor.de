@@ -17,7 +17,7 @@
               {{ else }}
               {{ .LinkTitle }}
               {{ end }}
-                
+
             </li>
       {{ end }}
     </ul>
@@ -26,8 +26,17 @@
     <div class="card-body p-4">
       <a class="text-dark no-underline" href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
       <div class="text-dark" >
-        {{.Params.Excerpt}}
-        {{.Content | truncate 200 }}
+
+        {{ if (isset .Params "Excerpt") }}
+         {{ if (gt (len .Params.Excerpt) 0)}}
+            {{ .Params.Excerpt | truncate 200 }}
+          {{ else }}
+            {{ .Summary | truncate 200 }}
+          {{ end }}
+        {{ else }}
+          {{ .Summary | truncate 200 }}
+        {{ end }}
+
       </div>
     </div>
     <div class="card-footer border-top-0 bg-white d-flex justify-content-between">
