@@ -34,7 +34,7 @@ Projekt zeigt: Städteübergreifende Arbeit funktioniert, digitale Projekte lass
 wenn die Verantwortung und Arbeitsaufwand gerecht verteilt werden und nicht nur auf den Schultern
 von Ehrenamtlichen liegen.
 
-Die FDP-Fraktion im hessischen Landtag setzt sich [für eine freie und gebührenfreie Bereitstellung
+Die FDP-Fraktion im hessischen Landtag setzt sich [für eine offene und gebührenfreie Bereitstellung
 von Daten der öffentlichen Verwaltung
 ein](https://www.fr.de/rhein-main/landespolitik/hessen-soll-daten-veroeffentlichen-90475037.html).
 Der eingebrachte Entwurf für ein hessisches Open-Data-Gesetz wurde am letzten Dienstag im Landtag
@@ -60,7 +60,7 @@ es Versuche gibt, diese zusammen zu stellen](https://hackmd.okfn.de/4yeVf1mhQGyj
 Aufbauend auf der Infrastruktur des "Wo ist Markt?"-Projekts lotet das bei CfG entstandene ["Wo ist
 Testzentrum?"](https://wo-ist-testzentrum.de/#leipzig) die vorhandenen Möglichkeiten aus. Leider
 sind die nicht sehr umfangreich: Teilweise müssten die Daten von den Informationsseiten einzelner
-Kommunen mühsamer Handarbeit zusammen gestellt werden. Erleichtern würde die Arbeit dagegen
+Kommunen in mühsamer Handarbeit zusammen gestellt werden. Erleichtern würde die Arbeit dagegen
 maschinenlesbare Daten in einem einheitlichen Format, um damit eine übersichtliche Karte mit
 Teststellen erstellen und regelmäßig aktualisieren zu können.
 
@@ -68,14 +68,16 @@ Seit fünfzehn Jahren gibt es inzwischen das Informationsfreiheitsgesetz auf Bun
 Deutschlandfunk hat dazu einen
 [_Hintergrund_-Beitrag](https://www.deutschlandfunk.de/15-jahre-informationsfreiheitsgesetz-wie-man-an-die.724.de.html?dram%3Aarticle_id=495773)
 erstellt, in dem auch codefor.de-Urgestein [Johannes Filter](https://twitter.com/fil_ter) zu Wort
-kommt.  Eine zentrale Anlaufstelle für alle von der öffentlichen Verwaltung geförderten
+kommt.  
+
+Eine zentrale Anlaufstelle für alle von der öffentlichen Verwaltung geförderten
 Open-Source-Projekte einer Stadt - diesen Plan setzt die Technologiestiftung Berlin mit dem Portal
 [berlinopensource.de](http://berlinopensource.de) (das wiederum selbst open source ist) in die Tat
 um. Bislang finden sich elf Projekte auf der Seite, weitere Vorschläge werden gern entgegen
 genommen.
 
 ![Screenshot von der Mini Tokyo Webandwendung](/blog/out-in-the-open-2/mini-tokyo.jpeg)
-Das Echtzeit-Monitoring von Transportmitteln des Nahvekehrs einer Stadt ist mittlerweile keine
+Das Echtzeit-Monitoring von Transportmitteln des städtischen Nahvekehrs ist mittlerweile keine
 technische Unmöglichkeit mehr, [wie in Deutschland zum Beispiel
 Berlin](https://www.vbb.de/fahrplan/fahrplanauskunft/vbb-livekarte) zeigt. Tokio hat die
 [Live-Visualisierung seines Transportnetzes](https://minitokyo3d.com/) aber nochmal auf eine neue
@@ -91,8 +93,6 @@ Spenden-Challenge](https://discourse.mozilla.org/t/die-common-voice-spenden-chal
 mit dem Ziel, 1000 Stunden zu erreichen. Es gibt Sticker zu gewinnen!
 
 ## Und sonst so?
-
-![Eins der Bilder, das vom @zehnhektar Account getwittert wurde](/blog/out-in-the-open-2/zehnhektar.jpeg)
 
 Der Twitter-Account [@zehnhektar](https://twitter.com/zehnhektar) postet zweimal täglich ein
 zufällig gewähltes, zehn Hektar umfassendes Satellitenfoto, irgendwo aus Deutschland. Der Code ist
