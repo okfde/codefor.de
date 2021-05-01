@@ -1,0 +1,6 @@
+{
+  "projects": [
+    {{ $len := (len .Pages) }}
+    {{ range $index, $element := .Pages }}{{ dict "metadata" .Params "description" .RawContent | jsonify }}{{ if ne (add $index 1) $len }},{{ end }}{{ end }}
+  ]
+}
