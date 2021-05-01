@@ -23,6 +23,7 @@ einzusetzen](https://blog.do-foss.de/beitrag/freie-software-ist-von-jetzt-an-sta
 Mit dem sogenannten Memorandum Digitalisierung erklärt die Stadt Dortmund die Verwendung freier
 Software zum Standard. Der Antrag wurde einstimmig beschlossen.
 
+![Leipzig Gießt Logo](/blog/out-in-the-open-2/leipzig-giesst-logo.svg)
 Was offene Daten ermöglichen, konnte im vergangenen die Berliner App "Giess den Kiez" zeigen. Jetzt
 können auch die Leipziger:innen [über die Plattform Bäume in der Nachbarschaft
 'adoptieren'](https://giessdeinviertel.codeforleipzig.de/) und deren Bewässerung selbst
@@ -46,19 +47,12 @@ Datenportale](https://www.offenesdatenportal.de/dataset/ubersicht-der-open-data-
 ) deutscher Städte erstellt. Sollte jemand fehlende Daten entdecken, kann über sein Twitter-Handle
 [@tursics](https://twitter.com/tursics) Kontakt aufgenommen werden.
 
+![Bilddtext: Diese Gründstücke besitzt Dreseden](/blog/out-in-the-open-2/grundstuecke-dresden.png)
 Kommunale Grundstücke gehören der Stadt, aber wo befinden diese sich eigentlich? Die Piraten Dresden
 haben diese Daten dank viel Fleißarbeit mit einer 2224 Seiten langen Anfrage an die Stadt
 freigelegt. Die vollständige Liste aller kommunalen Grundstücke in Dresden ist damit [für alle
 öffentlich
 einsehbar](https://www.piraten-dresden.de/daten-aller-kommunalen-grundstuecke-sind-frei/).
-
-Das Echtzeit-Monitoring von Transportmitteln des Nahvekehrs einer Stadt ist mittlerweile keine
-technische Unmöglichkeit mehr, [wie in Deutschland zum Beispiel
-Berlin](https://www.vbb.de/fahrplan/fahrplanauskunft/vbb-livekarte) zeigt. Tokio hat die
-[Live-Visualisierung seines Transportnetzes](https://minitokyo3d.com/) aber nochmal auf eine neue
-Stufe gehoben und eine 3D-Karte mit allen öffentlichen Fortbewegungsmitteln, inklusive Schiffen,
-erstellt. "Mini Tokyo 3D" ist [unter der MIT-Lizenz auf
-Github](https://github.com/nagix/mini-tokyo-3d) einsehbar.
 
 Trotz der großen Herausforderungen der Corona-Pandemie lässt die Datenlage in Deutschland viele
 Wünsche offen: Eine deutschlandweite Liste von Covid-Testzentren ist noch nicht in Sicht, auch [wenn
@@ -80,6 +74,16 @@ Open-Source-Projekte einer Stadt - diesen Plan setzt die Technologiestiftung Ber
 um. Bislang finden sich elf Projekte auf der Seite, weitere Vorschläge werden gern entgegen
 genommen.
 
+![Screenshot von der Mini Tokyo Webandwendung](/blog/out-in-the-open-2/mini-tokyo.jpeg)
+Das Echtzeit-Monitoring von Transportmitteln des Nahvekehrs einer Stadt ist mittlerweile keine
+technische Unmöglichkeit mehr, [wie in Deutschland zum Beispiel
+Berlin](https://www.vbb.de/fahrplan/fahrplanauskunft/vbb-livekarte) zeigt. Tokio hat die
+[Live-Visualisierung seines Transportnetzes](https://minitokyo3d.com/) aber nochmal auf eine neue
+Stufe gehoben und eine 3D-Karte mit allen öffentlichen Fortbewegungsmitteln, inklusive Schiffen,
+erstellt. "Mini Tokyo 3D" ist [unter der MIT-Lizenz auf
+Github](https://github.com/nagix/mini-tokyo-3d) einsehbar.
+
+
 "Common Voice" ist ein Projekt von Mozilla, das es sich zum Ziel gesetzt hat, einen freien Datensatz
 zum Trainieren von Spracherkennungssystemen zu schaffen. Das funktioniert, indem Freiwillige Sätze
 einsprechen und verifizieren. Im Mai gibt es eine [deutsche
@@ -87,6 +91,8 @@ Spenden-Challenge](https://discourse.mozilla.org/t/die-common-voice-spenden-chal
 mit dem Ziel, 1000 Stunden zu erreichen. Es gibt Sticker zu gewinnen!
 
 ## Und sonst so?
+
+![Eins der Bilder, das vom @zehnhektar Account getwittert wurde](/blog/out-in-the-open-2/zehnhektar.jpeg)
 
 Der Twitter-Account [@zehnhektar](https://twitter.com/zehnhektar) postet zweimal täglich ein
 zufällig gewähltes, zehn Hektar umfassendes Satellitenfoto, irgendwo aus Deutschland. Der Code ist
