@@ -47,7 +47,7 @@ Datenportale](https://www.offenesdatenportal.de/dataset/ubersicht-der-open-data-
 ) deutscher Städte erstellt. Sollte jemand fehlende Daten entdecken, kann über sein Twitter-Handle
 [@tursics](https://twitter.com/tursics) Kontakt aufgenommen werden.
 
-![Bilddtext: Diese Gründstücke besitzt Dreseden](/blog/out-in-the-open-2/grundstuecke-dresden.png)
+![Bildtext: Diese Grundstücke besitzt Dresden](/blog/out-in-the-open-2/grundstuecke-dresden.png)
 Kommunale Grundstücke gehören der Stadt, aber wo befinden diese sich eigentlich? Die Piraten Dresden
 haben diese Daten dank viel Fleißarbeit mit einer 2224 Seiten langen Anfrage an die Stadt
 freigelegt. Die vollständige Liste aller kommunalen Grundstücke in Dresden ist damit [für alle
@@ -56,7 +56,7 @@ einsehbar](https://www.piraten-dresden.de/daten-aller-kommunalen-grundstuecke-si
 
 Trotz der großen Herausforderungen der Corona-Pandemie lässt die Datenlage in Deutschland viele
 Wünsche offen: Eine deutschlandweite Liste von Covid-Testzentren ist noch nicht in Sicht, auch [wenn
-es Versuche gibt, diese zusammen zu stellen](https://hackmd.okfn.de/4yeVf1mhQGyjZmtGOqWKrg?view#).
+es Versuche gibt, diese zusammenzustellen](https://hackmd.okfn.de/4yeVf1mhQGyjZmtGOqWKrg?view#).
 Aufbauend auf der Infrastruktur des "Wo ist Markt?"-Projekts lotet das bei CfG entstandene ["Wo ist
 Testzentrum?"](https://wo-ist-testzentrum.de/#leipzig) die vorhandenen Möglichkeiten aus. Leider
 sind die nicht sehr umfangreich: Teilweise müssten die Daten von den Informationsseiten einzelner
@@ -76,8 +76,8 @@ Open-Source-Projekte einer Stadt - diesen Plan setzt die Technologiestiftung Ber
 um. Bislang finden sich elf Projekte auf der Seite, weitere Vorschläge werden gern entgegen
 genommen.
 
-![Screenshot von der Mini Tokyo Webandwendung](/blog/out-in-the-open-2/mini-tokyo.jpeg)
-Das Echtzeit-Monitoring von Transportmitteln des städtischen Nahvekehrs ist mittlerweile keine
+![Screenshot von der Mini Tokyo Webanwendung](/blog/out-in-the-open-2/mini-tokyo.jpeg)
+Das Echtzeit-Monitoring von Transportmitteln des städtischen Nahverkehrs ist mittlerweile keine
 technische Unmöglichkeit mehr, [wie in Deutschland zum Beispiel
 Berlin](https://www.vbb.de/fahrplan/fahrplanauskunft/vbb-livekarte) zeigt. Tokio hat die
 [Live-Visualisierung seines Transportnetzes](https://minitokyo3d.com/) aber nochmal auf eine neue
