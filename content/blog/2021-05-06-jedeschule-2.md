@@ -73,7 +73,7 @@ neue [API](https://github.com/codeforberlin/jedeschule-api) als auch für die
 
 Wir haben uns in den letzten Jahren immer sehr gefreut, wenn wir von euch gehört haben, wofür ihr
 die Daten genutzt habt. Solltet ihr mit den Daten gearbeitet haben, freuen wir uns sehr, wenn ihr
-uns das [per E-Mail](mailto:info@jedeschule.de) oder [per Twitter](https://twitter.com/codeforde)
+uns das [per E-Mail](mailto:info@jedeschule.de) oder [per Twitter](https://twitter.com/codeforbe)
 mitteilt. Daten sind nur dann sinnvoll, wenn sie auch genutzt werden. Unsere Hoffnung mit
 jedeschule.de – aber auch mit vielen weiteren Projekten bei codefor.de – ist es, die Nutzung von
 Daten zu vereinfachen. Eure Geschichten sind daher für uns eine große Motivation. Wir sind gespannt,
