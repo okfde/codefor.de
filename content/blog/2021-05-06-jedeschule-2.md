@@ -25,7 +25,15 @@ dass sie wieder für alle Länder funktionieren. Erfreulicherweise hat es aber a
 Länder Fortschritte gegeben. So stellen mehrere Länder ihre Daten heute per API (einer
 wohldefinierten Programmierschnittstelle) oder per CSV-Download bereit. Dies erleichtert die
 Weiternutzung der Daten ungemein, da kosmetische Änderungen an den Websites nicht mehr dazu führen,
-dass die Webscraper – und somit die gesamte Datenextraktion – scheitert.
+dass die Webscraper – und somit die gesamte Datenextraktion – scheitert. Wirklich wünschenswert
+im Sinne einer nachhaltigen Dateninfrastruktur wäre es jedoch, wenn alle Bundesländer ihre Daten
+in einem einheitlichen und standardisierten Format bereitstellen würden. Sie könnten die Daten
+dafür etwa über die zentrale Datenplatform [govdata](https://www.govdata.de) verfügbar machen. Ein 
+von der Community getragenes Projekte ist keine nachhaltige Lösung für diese Art von Stammdaten
+von großem öffentlichen Interesse. An dieser Stelle sei auch noch einmal auf den [Blogpost zur
+Abschaltung von kleinanfragen.de](https://okfn.de/blog/2021/01/zur-abschaltung-von-kleine-anfragen/)
+verwiesen - die gleichen Probleme, mit denen kleinanfragen.de zu kämpfen hatte, ließen sich so auch
+auf jedeschule.de übertragen.
 
 Wir haben uns bei Version 2 von jedeschule.de für eine etwas andere Herangehensweise entschieden als
 beim letzten Mal. Die Website jedeschule.de zeigt nach wie vor die Daten von 2017. Diese sind etwas
