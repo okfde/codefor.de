@@ -15,9 +15,15 @@ rssLimit: 10
 
 enableRobotsTXT: true
 
-taxonomies:
-  category: categories
-  tag: tags
+# Generates the taxonomie pages /categories and /tags
+# taxonomies:
+#   category: categories 
+#   tag: tags
+
+# currently we dont use taxonomie pages
+disableKinds:
+- taxonomy
+- term
 
 permalinks:
   labs: "/:filename"
