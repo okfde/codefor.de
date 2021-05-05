@@ -1,7 +1,7 @@
 ---
 title: "jedeschule.de 2.0"
 date: 2021-05-06T09:00:00+02:00
-author: "Knut Hühne - OK Lab Berlin"
+author: "Knut Hühne & Knut Perseke - OK Lab Berlin & Matthias Jacob - OK Lab Potsdam"
 excerpt: jedeschule.de ist wieder da - mit mehr aktuellen Daten und neuer API
 topic: community
 images:
