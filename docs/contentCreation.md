@@ -22,34 +22,35 @@ Navigiert zu [codefor.de](https://github.com/okfde/codefor.de) code repository
 
 ### 2 Das Template
 
-Um sicherzustellen, dass euer Inhalt auch gefunden wird, benötigen wir ein paar Metadaten, aber wir lassen euch damit nicht allein. Unter `archetypes` findet ihr Templates für alle möglichen Inhalte  
+Um sicherzustellen, dass dein Inhalt auch gefunden wird, benötigen wir ein paar Metadaten, aber wir lassen dich damit nicht allein. Unter `archetypes` findest du Templates für alle möglichen Inhalte  
+
 ![archetypes](cc/archetypes.png)  
   
 ![archetypes-list](cc/archetypes-list.png)  
   
-wählt aus, was ihr erstellen wollt und klickt anschließend auf `RAW`  
+wählt aus, was du erstellen willst und klickt anschließend auf `RAW`  
   
 ![raw](cc/raw.png)  
   
-Der Metadaten Bereich ist umschlossen von `---` kopiert euch den Inhalt, dann brauchen wir gleich!
+Der Metadaten Bereich ist umschlossen von `---`, kopier dir den Inhalt, den brauchen wir gleich!
 
 ### 3 Euer Inhalt
 
 Gehe zurück auf start.. *nicht über los*  
-Navigiert zu `codefor.de/content/` und wählt den Inhalt eurer Wahl aus (im Beispiel wird es `projekte` sein)  
+Navigiere zu `codefor.de/content/` und wählt den Inhalt deiner Wahl aus (im Beispiel wird es `projekte` sein)  
   
 ![Content](cc/content.png)
 
-Danach klickt ihr auf `Add file` > `create new file`  
+Danach klicktst du auf `Add file` > `create new file`  
   
 ![addfile](cc/addfile.png)
 
-und gebt eurem Inhalt einen Namen nach dem Schema `Jahr`-`Monat`-`Tag`-`Tite`.md (YYYY-MM-DD-####.md)  
+und gibst deinem Inhalt einen Namen nach dem Schema `Jahr`-`Monat`-`Tag`-`Tite`.md (YYYY-MM-DD-####.md)  
   
 ![newfile](cc/newfile.png)
 
 Jetzt brauchen wir die Metadaten aus dem Template wieder, einfach einfügen.
-Für Projekte sieht das dann z.B. so aus, **benutzt bitte NICHT den Schnipsel hier**, die benötigten Metadaten können sich immer mal ändern und werden hier nicht nachgepflegt!
+Für Projekte sieht das dann z.B. so aus:
 
 ``` yaml
 ---
@@ -71,23 +72,25 @@ links:
 <!--short project description here-->
 ```
 
-Alles über den `---` strichen, sind Metadaten,  wir versuchen so gut wie möglich zu beschreiben, was da reinmuss.
-Alles was hinter einem `#` bis zum Ende der Zeile steht, ist ein Kommentar den ihr löschen könnt, der euch aber beim Ausfüllen helfen soll.  
+**benutze bitte NICHT den Schnipsel hier**, die benötigten Metadaten können sich immer mal ändern und werden hier nicht nachgepflegt!
+
+Alles über den `---` strichen, sind Metadaten, wir versuchen so gut wie möglich zu beschreiben, was da reinmuss.
+Alles was hinter einem `#` bis zum Ende der Zeile steht, ist ein Kommentar den du löschen kannst, der dir beim Ausfüllen helfen soll.  
 Alles was nach dem zweiten `---` steht, ist der Inhalt der Seite.
 
 Der Inhalt wird in Markdown (commonmark) geschrieben, hier ist eine ausführliche [Referenz](https://spec.commonmark.org/0.29/) und hier eine [Kurzreferenz](https://commonmark.org/help/)
 
-Wenn ihr mit tippen fertig seid oder eine Pause macht, scrollt ganz nach unten und clickt auf `Propose new file`.  
+Wenn du mit tippen fertig bist oder eine Pause machst, scrollt ganz nach unten und klicke auf `Propose new file`.  
   
 ![Propose](cc/Propose.png)  
   
 Jetzt passiert ganz viel **Black Magic** auf github
-> es wird ein Fork von `okfde/codefor.de` in euer Profil erstellt, auf dem Fork wir ein `branch` erstellt. Wenn ihr nichts mit git zu tun haben wollt, könnt ihr die Terminologie aber einfach Ignorieren und zum Nächten schritt springen.
+> es wird ein Fork von `okfde/codefor.de` in deinem Profil erstellt, auf dem Fork wir ein `branch` erstellt. Wenn du nichts mit git zu tun haben willst, kannst du die Terminologie aber einfach Ignorieren und zum Nächten schritt springen.
 
 ### 4 Bilder
 
 Bei Blogpost brauchen wir unbeding ein Bild, bei Labs und Projekten nicht.
-Wenn ihr keine Bilder in eurem Artikel habt, springt einfach weiter zu **[5 Der pull request](#5-der-pull-request)**
+Wenn du keine Bilder in deinem Artikel hast, springt einfach weiter zu **[5 Der pull request](#5-der-pull-request)**
 
 Im Moment ist es etwas kompliziert, aber wir bekommen das hin. Der Schritt wird sich auch in naher Zukunft ändern.  
 
@@ -116,6 +119,9 @@ Danach wirst du gebeten einen Titel und eine kurze beschreibung einzugeben, das 
 ![pullrequestdetails](cc/pr2.png)
 
 Sobald du auf `Create Request` klickst, öffnet sich eine neue Seite und es laufen ein paar automatisierte Tests und es wird eine Vorschau der gesamten Seite erzeugt
+
+![pullrequestdetails](cc/details.png)
+
 Wenn in der markierten Zeile vorn ein grüner Haken ist, kannst du auf `Details` klicken und du landest auf der Vorschauseite!
 
 > **Das war's!! Sobald der Inhalt freigegeben wird, ist er auf codefor.de sichtbar**
