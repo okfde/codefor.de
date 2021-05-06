@@ -7,13 +7,134 @@
   {{ if .IsHome }}
     {{ $title = .Site.Title }}
   {{ end }}
+
+  <!--
+    Allows control over where resources are loaded from.
+    Place as early in the <head> as possible, as the tag
+    only applies to resources that are declared after it.
+
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
+    -->
+
+  <!-- Short description of the document (limit to 150 characters) -->
+  <!-- This content *may* be used as a part of search engine results. -->
+  {{ if (isset .Params "description")  }}
+    {{ if lt (len .Params.description) 150 }}
+      <meta name="description" content="{{ .Params.description | plainify }}">
+    {{ else }}
+    <meta name="description" content="{{ .Params.description | plainify | truncate 150 }}">
+      {{/*  {{ warnf "description truncated to 150 characters on %q" .File }}  */}}
+    {{ end }}
+  {{ else }}
+  <meta name="description" content="{{ .Summary | plainify | truncate 150 }}">
+    {{/*  {{ warnf "No description on %q used .summary instead" .File }}  */}}
+  {{ end }}
+  <!-- Control the behavior of search engine crawling and indexing -->
+  <meta name="robots" content="index,follow"><!-- All Search Engines -->
+  <meta name="googlebot" content="index,follow"><!-- Google Specific -->
+  <!-- Tells Google not to show the sitelinks search box -->
+  <meta name="google" content="nositelinkssearchbox">
+  <!-- Tells Google not to provide a translation for this document -->
+  <meta name="google" content="notranslate">
+
+  {{ if (isset .Params "author") }}
+    <meta property="article:author" content="{{ .Params.author }}">
+  {{ else }}
+    <meta property="article:author" content="{{ .Site.Params.author }}">
+  {{ end }}
+
+  {{ if (isset .Params "tags") }}
+    <meta name="keywords" content={{ delimit .Params.tags ", " }} />
+  {{ else }}
+    <meta name="keywords" content={{ delimit .Site.Params.keywords ", " }} />
+  {{ end }}
+
+  <!-- Short description of your document's subject -->
+  {{ if (isset .Params "subject_seo")  }}
+    <meta name="subject" content="{{ .Params.subject_seo }}">
+  {{ else }}
+    <meta name="subject" content="{{ .Summary | plainify | truncate 200 }}">
+  {{ end }}
+  <!-- Gives a general age rating based on the document's content -->
+  <meta name="rating" content="General">
+  <!-- Allows control over how referrer information is passed -->
+  <meta name="referrer" content="no-referrer">
+  <!-- Disable automatic detection and formatting of possible phone numbers -->
+  <meta name="format-detection" content="telephone=no">
+  <!-- Completely opt out of DNS prefetching by setting to "off" -->
+  <meta http-equiv="x-dns-prefetch-control" content="off">
+<!-- Fav icon stuff starts here -->
+    <!-- Theme Color for Chrome, Firefox OS and Opera -->
+  <meta name="theme-color" content="#ffffff">
+  <meta name="msapplication-config" content="/img/meta/browserconfig.xml"/>
+  <link rel="manifest" href="/img/meta/site.webmanifest">
+
+  <link rel="icon" type="image/x-icon" href="/favicon.ico"  />
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/meta/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/meta/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/meta/apple-touch-icon.png">
+    <!-- Safari Pinned Tab Icon -->
+  <link rel="mask-icon" href="/img/meta/safari-tab-icon.svg" color="#5bbad5">
+
+
+<!--  OpenGraph and Twitter Card Stuff starts here -->
+  {{ $permalink := "/img/meta/apple-touch-icon.png" | absURL }}
+  {{ $imgalt := "CodeFor Germany Logo"}}
+
+  {{ if (isset .Params "og_image") }}
+    {{ $permalink = print .Type "s/" .Params.og_image | absURL }}
+    {{ if (isset .Params "og_description") }}
+      {{ $imgalt = .Params.og_description }}
+    {{ end }}
+  {{ end }}
+
+
+    <!-- Twitter card meta tags can be validated at https://cards-dev.twitter.com/validator -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="{{ .Site.Params.twitter_handle}}">
+
+  {{ if (isset .Params "twitter_handle") }}
+    <meta name="twitter:creator" content="{{ .Params.twitter_handle }}">
+  {{ else }}
+    <meta name="twitter:creator" content="{{ .Site.Params.twitter_handle }}">
+  {{ end }}
+
+  <meta name="twitter:url" content="{{ .Permalink }}">
+  <meta name="twitter:title" content="{{ $title }}">
+
+    <!-- add tags to description -->
+  {{ if (isset .Params "tags") }}
+    {{ $tagstring := " " }}
+    {{ range  .Params.tags}}
+      {{ $tagstring = (print $tagstring "#" (replace . " " "" ) " ") }}
+    {{ end }}
+    <meta name="twitter:description" content="{{ print (.Summary | plainify | truncate (sub 240 (len $tagstring))) $tagstring }}">
+    {{ else }}
+    <meta name="twitter:description" content="{{ .Summary | plainify | truncate 200 }}">
+  {{ end }}
+
+  <meta name="twitter:image" content="{{ $permalink }}">
+  <meta name="twitter:image:alt" content="{{ $imgalt }}">
+
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ $title }}">
+  <meta property="og:description" content="{{ .Summary | plainify | truncate 150 }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="og:locale" content="{{ .Site.LanguageCode }}">
+  <meta property="og:image" content="{{  $permalink }}">
+  <meta property="og:image:alt" content="{{ $imgalt }}">
+
+  {{ if (isset .Params "author") }}
+    <meta property="article:author" content="{{ .Params.author }}">
+  {{ else }}
+    <meta property="article:author" content="{{ .Site.Params.author }}">
+  {{ end }}
+
   <title>{{ $title }}</title>
 
   {{ partial "css.html" . }}
-
   {{ partial "script.html" . }}
-
-  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 
   {{ with .OutputFormats.Get "rss" -}}
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
