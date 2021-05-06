@@ -15,8 +15,6 @@
 
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
     -->
-  <!-- Theme Color for Chrome, Firefox OS and Opera -->
-  <meta name="theme-color" content="#4285f4">
 
   <!-- Short description of the document (limit to 150 characters) -->
   <!-- This content *may* be used as a part of search engine results. -->
@@ -65,28 +63,33 @@
   <meta name="format-detection" content="telephone=no">
   <!-- Completely opt out of DNS prefetching by setting to "off" -->
   <meta http-equiv="x-dns-prefetch-control" content="off">
+<!-- Fav icon stuff starts here -->
+    <!-- Theme Color for Chrome, Firefox OS and Opera -->
+  <meta name="theme-color" content="#ffffff">
+  <meta name="msapplication-config" content="/img/meta/browserconfig.xml"/>
+  <link rel="manifest" href="/img/meta/site.webmanifest">
 
-  <!-- Icon in the highest resolution we need it for -->
-  <link rel="icon" sizes="192x192" href="/img/meta/apple-touch-icon.png">
-  
-  <!-- Apple Touch Icon (reuse 192px icon.png) -->
-  <link rel="apple-touch-icon" href="/img/meta/apple-touch-icon.png">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico"  />
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/meta/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/meta/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/meta/apple-touch-icon.png">
+    <!-- Safari Pinned Tab Icon -->
+  <link rel="mask-icon" href="/img/meta/safari-tab-icon.svg" color="#5bbad5">
 
-  <!-- Safari Pinned Tab Icon -->
-  <link rel="mask-icon" href="/img/meta/safari-tab-icon.svg" color="blue">
 
-  {{ $permalink := "/img/meta/CFG_logo.png" | absURL }} 
+<!--  OpenGraph and Twitter Card Stuff starts here -->
+  {{ $permalink := "/img/meta/apple-touch-icon.png" | absURL }}
   {{ $imgalt := "CodeFor Germany Logo"}}
-  
-  {{ if (isset .Params "og_image") }} 
-    {{ $permalink = print .Type "s/" .Params.og_image | absURL }} 
-    {{ if (isset .Params "og_description") }} 
+
+  {{ if (isset .Params "og_image") }}
+    {{ $permalink = print .Type "s/" .Params.og_image | absURL }}
+    {{ if (isset .Params "og_description") }}
       {{ $imgalt = .Params.og_description }}
     {{ end }}
   {{ end }}
 
 
-  <!-- Twitter card meta tags can be validated at https://cards-dev.twitter.com/validator -->
+    <!-- Twitter card meta tags can be validated at https://cards-dev.twitter.com/validator -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="{{ .Site.Params.twitter_handle}}">
 
@@ -99,7 +102,7 @@
   <meta name="twitter:url" content="{{ .Permalink }}">
   <meta name="twitter:title" content="{{ $title }}">
 
-<!-- add tags to description -->
+    <!-- add tags to description -->
   {{ if (isset .Params "tags") }}
     {{ $tagstring := " " }}
     {{ range  .Params.tags}}
@@ -128,14 +131,10 @@
     <meta property="article:author" content="{{ .Site.Params.author }}">
   {{ end }}
 
-
   <title>{{ $title }}</title>
 
   {{ partial "css.html" . }}
-
   {{ partial "script.html" . }}
-
-  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 
   {{ with .OutputFormats.Get "rss" -}}
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
