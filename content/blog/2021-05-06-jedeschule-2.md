@@ -13,7 +13,7 @@ Vor vier Jahren [veröffentlichte](https://okfn.de/blog/2017/03/jedeschule-launc
 Knowledge Foundation Deutschland zusammen mit der NGO “BildungsCent” die Website jedeschule.de, um
 über alle allgemeinbildenden Schulen in Deutschland zu informieren. Das Projekt machte erstmals
 Schuldaten aller Bundesländer an einer zentralen Stelle verfügbar. Im Nachgang bestanden allerdings
-wenig Ressourcen, um das Projekt von seiten der OKF weiterführen zu können.
+wenig Ressourcen, um das Projekt vonseiten der OKF weiterführen zu können.
 
 Die gesammelten Daten des Projektes basieren auf Webscraping – also auf der automatisierten
 Extraktion von Daten aus Websites. Webscraping ist eine sehr fragile Art Daten zu extrahieren und so
@@ -28,11 +28,11 @@ Weiternutzung der Daten ungemein, da kosmetische Änderungen an den Websites nic
 dass die Webscraper – und somit die gesamte Datenextraktion – scheitert. Wirklich wünschenswert
 im Sinne einer nachhaltigen Dateninfrastruktur wäre es jedoch, wenn alle Bundesländer ihre Daten
 in einem einheitlichen und standardisierten Format bereitstellen würden. Sie könnten die Daten
-dafür etwa über die zentrale Datenplatform [govdata](https://www.govdata.de) verfügbar machen. Ein 
-von der Community getragenes Projekte ist keine nachhaltige Lösung für diese Art von Stammdaten
+dafür etwa über die zentrale Datenplattform [govdata](https://www.govdata.de) verfügbar machen. Ein 
+von der Community getragenes Projekt ist keine nachhaltige Lösung für diese Art von Stammdaten
 von großem öffentlichen Interesse. An dieser Stelle sei auch noch einmal auf den [Blogpost zur
 Abschaltung von kleinanfragen.de](https://okfn.de/blog/2021/01/zur-abschaltung-von-kleine-anfragen/)
-verwiesen - die gleichen Probleme, mit denen kleinanfragen.de zu kämpfen hatte, ließen sich so auch
+verwiesen – die gleichen Probleme, mit denen kleineanfragen.de zu kämpfen hatte, ließen sich so auch
 auf jedeschule.de übertragen.
 
 Wir haben uns bei Version 2 von jedeschule.de für eine etwas andere Herangehensweise entschieden als
