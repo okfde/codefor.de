@@ -4,6 +4,19 @@ title: Code for Germany
 theme: codefor-theme
 defaultContentLanguage: de
 
+params:
+  twitter: "https://twitter.com/codeforde"
+  twitter_handle: "@codeforde"
+  github: "https://github.com/okfde"
+  author: "codeforde"
+  keywords:
+    - opendata
+    - codeforde
+    - Open Government
+    - Civic Tech
+    - Free and Open Source Software
+    - FOSS
+    - Digitales Ehrenamt
 
 frontmatter:
   date: [":filename", ":default"]
