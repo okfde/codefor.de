@@ -56,7 +56,7 @@ nicht implementiert haben. Unter dem [good first issue
 Label](https://github.com/Datenschule/jedeschule-scraper/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 findet ihr Features, die ein guter Einstieg in die Mitarbeit an dem Projekt sein sollen. Wir freuen
 uns sehr über eure Kommentare und Pull Requests. Solltet ihr Lust haben euch zu beteiligen, wisst
-aber noch nicht genau, wie, dann schreibt auch gerne in die Kommentare der Issues.
+aber noch nicht genau wie, dann schreibt auch gerne in die Kommentare der Issues.
 
 Für alle, die mehr über das Projekt erfahren möchten, laden wir herzlich in das digitale Open Lab
 vom OK Lab Berlin am 10. Mai um 19:00 Uhr ein. Dort werden wir noch mal einen etwas größeren
@@ -78,6 +78,5 @@ mitteilt. Daten sind nur dann sinnvoll, wenn sie auch genutzt werden. Unsere Hof
 jedeschule.de – aber auch mit vielen weiteren Projekten bei codefor.de – ist es, die Nutzung von
 Daten zu vereinfachen. Eure Geschichten sind daher für uns eine große Motivation. Wir sind gespannt,
 was ihr mit den Daten alles erforschen, prototypen und entwickeln werdet!
-
 
 
