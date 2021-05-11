@@ -1,5 +1,7 @@
 # Content Creation and Contrution
 
+Solltest du Hilfe brauchen oder eine Frage haben, mach gerne ein Issue auf oder frag im OKFDE-Slack Channel #codeforde-website nach.
+
 - [Manuelles Erstellen](#manuelles-erstellen)
   - [1 Auf zum codefor.de](#1-auf-zum-codeforde)
   - [2 Das Template](#2-das-template)
@@ -114,7 +116,8 @@ Github zeigt dir auf der Übersichtsseite direkt was zu tun ist! Klicke einfach 
   
 ![pullrequest](cc/pr.png)
 
-Danach wirst du gebeten einen Titel und eine kurze Beschreibung einzugeben, das hilft dem Website-Team einfach zu entscheiden oder Feedback zu geben.  
+Danach wirst du gebeten einen Titel und eine kurze Beschreibung einzugeben, das hilft dem Website-Team einfach zu entscheiden oder Feedback zu geben.
+Wenn du fertig bist, kannst du hier @okfde/codeforde-devs erwähnen und dafür sorgen, dass sich jemand darum kümmert, dass der Artikel veröffentlicht wird!
   
 ![pullrequestdetails](cc/pr2.png)
 
