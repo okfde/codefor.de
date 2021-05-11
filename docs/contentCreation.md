@@ -1,6 +1,6 @@
 # Content Creation and Contrution
 
-- [Manuelles erstellen](#manuelles-erstellen)
+- [Manuelles Erstellen](#manuelles-erstellen)
   - [1 Auf zum codefor.de](#1-auf-zum-codeforde)
   - [2 Das Template](#2-das-template)
   - [3 Euer Inhalt](#3-euer-inhalt)
@@ -8,7 +8,7 @@
   - [5 Der pull request](#5-der-pull-request)  
 - [The Terminal way](#the-terminal-way)
 
-## Manuelles erstellen
+## Manuelles Erstellen
 
 Voraussetzungen
 
@@ -89,7 +89,7 @@ Jetzt passiert ganz viel **Black Magic** auf github
 
 ### 4 Bilder
 
-Bei Blogpost brauchen wir unbeding ein Bild, bei Labs und Projekten nicht.
+Bei Blogposts brauchen wir unbedingt ein Bild, bei Labs und Projekten nicht.
 Wenn du keine Bilder in deinem Artikel hast, springt einfach weiter zu **[5 Der pull request](#5-der-pull-request)**
 
 Im Moment ist es etwas kompliziert, aber wir bekommen das hin. Der Schritt wird sich auch in naher Zukunft ändern.  
@@ -114,7 +114,7 @@ Github zeigt dir auf der Übersichtsseite direkt was zu tun ist! Klicke einfach 
   
 ![pullrequest](cc/pr.png)
 
-Danach wirst du gebeten einen Titel und eine kurze beschreibung einzugeben, das hilft dem Website-Team einfach zu entscheiden oder Feedback zu geben.  
+Danach wirst du gebeten einen Titel und eine kurze Beschreibung einzugeben, das hilft dem Website-Team einfach zu entscheiden oder Feedback zu geben.  
   
 ![pullrequestdetails](cc/pr2.png)
 

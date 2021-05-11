@@ -8,7 +8,7 @@ Solltest du Hilfe brauchen oder eine Frage haben, mach gerne ein [Issue](https:/
 
 ## Änderungen vorschlagen oder neue Inhalte hinzufügen
 
-Eine anleitung zum erstellen von neuen Inhalten findest du [hier](docs/contentCreation.md)
+Eine Anleitung zum erstellen von neuen Inhalten findest du [hier](docs/contentCreation.md)
 
 ## Hinweise
 
