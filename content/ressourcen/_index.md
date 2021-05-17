@@ -3,7 +3,6 @@ title: Ressourcen
 weight: 60
 ---
 
-
 {{< headline-icon icon="icon-power.svg" >}}
 
 {{< headline-brackets-h1 color="blue" >}}
@@ -15,6 +14,7 @@ Informationen und Werkzeuge
 ## Material für öffentliche Verwaltungen
 
 * Handbuch Krisenresilienz → [PDF]({{< static "/ressourcen/Code-for-Germany_Handbuch-Krisenresilienz.pdf" >}})
+* How to Hackathon – Wann und wie Hackathons kommunalen Verwaltungen helfen können  → [PDF](https://github.com/okfde/hackathon-leitfaden/releases/download/v1.0.0/hackathon-leitfaden-v1.0.0.pdf) | [Github](https://github.com/okfde/hackathon-leitfaden)
 
 ## Informationen über Code for Germany
 
