@@ -46,7 +46,7 @@ API](https://jedeschule.codefor.de/docs) zur Verfügung. Außerdem werden die Sc
 ausgeführt – die Schuldaten sollten dadurch auf einem aktuelleren Stand bleiben als bei der letzten
 Version.
 
-Eine große Hilfe bei der Entwicklung der neuen Scraper waren uns zwei Studierende der HTW Berlin,
+Eine große Hilfe bei der Entwicklung der neuen Scraper waren uns zwei Studierende der HTW Berlin, Ioannis Karatsimakidis und Kevin Kretzschmar,
 die bei der systematischen Erneuerung geholfen haben. An dieser Stelle möchten wir uns dafür nochmal
 ganz herzlich bedanken!
 
