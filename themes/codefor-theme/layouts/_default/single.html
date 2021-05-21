@@ -1,5 +1,12 @@
 {{ define "main" }}
 
+{{ if .IsTranslated }}
+	{{ range .Translations }}
+		{{ $file := path.Join "/img/lang" ( printf "%s.png" .Language.Lang ) }}
+		<a class="langSwitch d-flex justify-content-end" href="{{ .Permalink }}"><img src="{{ $file }}"></a>
+	{{ end }}
+{{ end }}
+
 {{ .Content }}
 
 {{ end }}

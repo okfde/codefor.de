@@ -284,6 +284,18 @@ nav.navbar{
   }
 }
 
+.langSwitch {
+
+  margin-right: 3rem;
+
+
+img {
+  width: 3rem;
+  height: auto;
+  opacity: 0.5;}
+}
+
+
 
 
 
@@ -404,7 +416,7 @@ footer{
     }
   }
   details {
-    & > summary::-webkit-details-marker {
+    & > summary::marker {
       display: none;
     }
     & > summary .open-close {

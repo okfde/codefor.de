@@ -18,6 +18,13 @@ params:
     - FOSS
     - Digitales Ehrenamt
 
+languages:
+  de:
+    languageName: Deutsch
+    weight: 1
+  en:
+    languageName: English
+    weight: 2
 
 menu:
   main:
@@ -70,7 +77,7 @@ enableRobotsTXT: true
 
 # Generates the taxonomie pages /categories and /tags
 # taxonomies:
-#   category: categories 
+#   category: categories
 #   tag: tags
 
 # currently we dont use taxonomie pages
