@@ -1,9 +1,5 @@
 ---
 title: Über uns
-menu:
-  main:
-    weight: 10
-    name: Über uns
 footerHideTopMargin: true
 ---
 
