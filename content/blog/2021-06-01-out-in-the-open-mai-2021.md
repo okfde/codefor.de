@@ -22,14 +22,14 @@ gewonnen werden. Also hinein in unsere Linksammlung für den Monat Mai.
 Vor vier Jahren
 [veröffentlichte](https://okfn.de/blog/2017/03/jedeschule-launch/) die
 Open Knowledge Foundation Deutschland zusammen mit der NGO BildungsCent
-die Website jedeschule.de. Das Projekt machte erstmals Schuldaten aller
+die Website [jedeschule.de](https://jedeschule.de/). Das Projekt machte erstmals Schuldaten aller
 Bundesländer zentral verfügbar. Im Nachgang bestanden allerdings wenig
 Ressourcen, um das Projekt vonseiten der Open Knowledge Foundation
 weiterführen zu können. Nun gibt es gute Nachrichten: In den letzten
 Monaten sind Freiwillige aus der codefor-Community zusammengekommen, um
 die Scraper des ursprünglichen Projektes zu aktualisieren und dafür zu
 sorgen, [dass diese wieder für den Abruf der Schuldaten aller
-Bundesländer funktionieren](https://codefor.de/blog/jedeschule-2/).
+Bundesländer funktionieren.](https://codefor.de/blog/jedeschule-2/)
 
 ## Dokumente aus der Politik jetzt automatisiert abrufbar
 
@@ -54,7 +54,7 @@ www.politik-bei-uns.de zeigt.
 
 Auch die Stadt **Köln** hat für ihr Ratsinformationssystem jetzt \#OParl
 [an den Start
-gebracht](https://offenedaten-koeln.de/dataset/oparl-api-koeln).
+gebracht.](https://offenedaten-koeln.de/dataset/oparl-api-koeln)
 
 ![Strassennetzwerk von Köln mit city-roads](/blog/out-in-the-open-mai-2021/Köln.jpg)
 
@@ -90,7 +90,7 @@ werden.
 
 Wer sich beteiligen möchte, findet alle Kontaktinformationen auf der
 [GitHub-Seite des
-Projekts](https://github.com/od-ms/datennutzungsklauseln-muster). Sven
+Projekts.](https://github.com/od-ms/datennutzungsklauseln-muster) Sven
 und Thomas freuen sich über Verbesserungsvorschläge, Ideen oder
 Rückmeldungen, wer die Klauseln nutzt oder Fehler gefunden hat.
 Spannender Vorstoß, wir freuen uns auf mehr.
