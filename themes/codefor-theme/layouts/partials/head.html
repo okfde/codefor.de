@@ -82,7 +82,11 @@
   {{ $imgalt := "CodeFor Germany Logo"}}
 
   {{ if (isset .Params "og_image") }}
-    {{ $permalink = print .Type "s/" .Params.og_image | absURL }}
+    {{ if ne .Type "blog"}}
+      {{ $permalink = print .Type "s/" .Params.og_image | absURL }}
+    {{ else }}
+      {{ $permalink = print .Type "/" .Params.og_image | absURL }}
+    {{ end }}
     {{ if (isset .Params "og_description") }}
       {{ $imgalt = .Params.og_description }}
     {{ end }}
