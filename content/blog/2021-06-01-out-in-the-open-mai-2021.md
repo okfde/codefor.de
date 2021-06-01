@@ -6,6 +6,9 @@ excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data
 topic: community
 images:
 - imgname: out-in-the-open-titel-mai.jpg
+
+og_image: out-in-the-open-titel-mai.jpg
+
 type: blog
 ---
 
