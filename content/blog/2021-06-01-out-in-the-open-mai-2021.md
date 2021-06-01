@@ -5,7 +5,7 @@ author: "Julia - OK Lab Osnabrück & Tim Fangmeyer & Knut Hühne - OK Lab Berlin
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data and Civic Tech Szene
 topic: community
 images:
-- imgname: /blog/out-in-the-open-mai-2021/out-in-the-open-titel-mai.jpg
+- imgname: out-in-the-open-titel-mai.jpg
 type: blog
 ---
 
