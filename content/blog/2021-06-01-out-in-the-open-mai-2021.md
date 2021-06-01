@@ -15,7 +15,7 @@ Daten können beeindruckende Karten erstellt, bestehende Projekte neu
 zusammengesetzt und aktuelle Informationen aus bereits vorhandenen Daten
 gewonnen werden. Also hinein in unsere Linksammlung für den Monat Mai.
 
-![jedeschule Titelbild](/blog/out-in-the-open-mai-2021/jedeschule-2.jpg)
+![jedeschule Titelbild](/blog/jedeschule-2.jpg)
 
 ## `jedeschule.de` 2.0
 
@@ -97,9 +97,9 @@ Spannender Vorstoß, wir freuen uns auf mehr.
 
 Auch in **Brandenburg** bewegt sich was: Dort setzen sich SPD, CDU und
 Grüne [gemeinsam für Open Data
-ein](https://www.parlamentsdokumentation.brandenburg.de/parladoku/w7/drs/ab_3500/3544.pdf).
+ein.](https://www.parlamentsdokumentation.brandenburg.de/parladoku/w7/drs/ab_3500/3544.pdf)
 
-![Japan Vaccination Tracker](/blog/out-in-the-open-mai-2021/Japan Vaccination Tracker.png)
+![Japan Vaccination Tracker](/blog/out-in-the-open-mai-2021/japan-vaccination-tracker.jpg)
 
 ## Japan bietet Impfdaten per API-Abruf an
 
