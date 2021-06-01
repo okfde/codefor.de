@@ -74,7 +74,7 @@ veröffentlicht.
 ## Musterlastenheft entwickelt
 
 Die Städte **Münster und Bonn** haben gemeinsam Formulierungen für ein
-[„Musterlastenheft kommunale Datensouveränität"
+["Musterlastenheft kommunale Datensouveränität"
 entwickelt](https://github.com/od-ms/datennutzungsklauseln-muster).
 
 Diese Formulierungen sollen vor allem als Bestandteil des
@@ -107,7 +107,7 @@ Während das vom Robert Koch Institut und Bundesministerium für
 Gesundheit betriebene Impfdashboard seine Daten als
 [Datei-Download](https://impfdashboard.de/daten) anbietet, ist Japan
 schon einen Schritt weiter und stellt für den Abruf von Impfdaten [eine
-eigene API zu Verfügung](https://cio.go.jp/c19vaccine_opendata). Die
+eigene API zur Verfügung](https://cio.go.jp/c19vaccine_opendata). Die
 offenen Daten werden nach Altersgruppe, Geschlecht und dem optionalen
 Status 'medizinische Fachkraft' aufgeschlüsselt.
 
@@ -138,7 +138,7 @@ bereits [einige offene Datensätze](https://opendata.heilbronn.de/).
 Verwendet wird die Open Data Plattform DKAN, die zum Beispiel bereits in
 Köln zum Einsatz kommt.
 
-## Urbane Daten frei gelegt
+## Urbane Daten freigelegt
 
 Welchen Firmen gehört Zürich? [Umfassende
 Recherchen](https://reflekt.ch/teil-2-welchen-firmen-gehoert-zuerich/)
@@ -149,7 +149,7 @@ Mietpreise in der Stadt auswirkt.
 Die Deutsche Umwelthilfe und FragDenStaat zeigen mithilfe von
 Bürger\*innen den mangelhaften energetischen Zustand von Gebäuden in
 öffentlicher Hand auf. Der **Klima-Gebäude-Check** enthüllt, wie Länder
-und Kommunen bei der [klimaschutzfreundlichen Gestaltung der eigenen
+und Kommunen bei der [Klimaschutz freundlichen Gestaltung der eigenen
 Gebäude](https://fragdenstaat.de/blog/2021/05/25/auswertung-des-klima-gebaude-checks-staatsgeheimnis-energieverschwendung/) noch Nachholbedarf haben.
 
 ## Und sonst so?
