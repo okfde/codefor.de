@@ -29,7 +29,7 @@ weiterführen zu können. Nun gibt es gute Nachrichten: In den letzten
 Monaten sind Freiwillige aus der codefor-Community zusammengekommen, um
 die Scraper des ursprünglichen Projektes zu aktualisieren und dafür zu
 sorgen, [dass diese wieder für den Abruf der Schuldaten aller
-Bundesländer funktionieren.](https://codefor.de/blog/jedeschule-2/)
+Bundesländer funktionieren](https://codefor.de/blog/jedeschule-2/).
 
 ## Dokumente aus der Politik jetzt automatisiert abrufbar
 
@@ -54,7 +54,7 @@ www.politik-bei-uns.de zeigt.
 
 Auch die Stadt **Köln** hat für ihr Ratsinformationssystem jetzt \#OParl
 [an den Start
-gebracht.](https://offenedaten-koeln.de/dataset/oparl-api-koeln)
+gebracht](https://offenedaten-koeln.de/dataset/oparl-api-koeln).
 
 ![Strassennetzwerk von Köln mit city-roads](/blog/out-in-the-open-mai-2021/Köln.jpg)
 
@@ -68,21 +68,20 @@ auf Open Street Maps-Daten basierende Karte lässt sich danach gleich
 herunterladen. Da der Code [auf
 Github](https://github.com/anvaka/city-roads) einsehbar ist, bieten sich
 die Darstellung anderer Kartenelemente an. So wurde schon das
-[Schienennetz-Äquivalent railways](https://abaumg.github.io/railways/)
+Schienennetz-Äquivalent [railways](https://abaumg.github.io/railways/)
 veröffentlicht.
 
 ## Musterlastenheft entwickelt
 
 Die Städte **Münster und Bonn** haben gemeinsam Formulierungen für ein
-["Musterlastenheft kommunale Datensouveränität"
-entwickelt](https://github.com/od-ms/datennutzungsklauseln-muster).
+["Musterlastenheft kommunale Datensouveränität"](https://github.com/od-ms/datennutzungsklauseln-muster) entwickelt.
 
 Diese Formulierungen sollen vor allem als Bestandteil des
 Leistungsverzeichnisses bei Beschaffungen bzw. Vergabeverfahren
 verwendet werden -- damit es für die Kommunen einfacher wird, die
 Kontrolle über ihre Daten zu behalten.
 
-Die Formulierungen sind unter einer CC-BY 4.0-Lizenz in diesem
+Die Formulierungen sind unter einer "CC BY 4.0"-Lizenz in diesem
 Git-Repository veröffentlicht, um eine niederschwellige Kollaboration
 mit anderen Kommunen zu ermöglichen. Außerdem können in diesem
 Repository Verbesserungsvorschläge erstellt, diskutiert und bearbeitet
@@ -90,14 +89,14 @@ werden.
 
 Wer sich beteiligen möchte, findet alle Kontaktinformationen auf der
 [GitHub-Seite des
-Projekts.](https://github.com/od-ms/datennutzungsklauseln-muster) Sven
+Projekts](https://github.com/od-ms/datennutzungsklauseln-muster). Sven
 und Thomas freuen sich über Verbesserungsvorschläge, Ideen oder
 Rückmeldungen, wer die Klauseln nutzt oder Fehler gefunden hat.
 Spannender Vorstoß, wir freuen uns auf mehr.
 
 Auch in **Brandenburg** bewegt sich was: Dort setzen sich SPD, CDU und
 Grüne [gemeinsam für Open Data
-ein.](https://www.parlamentsdokumentation.brandenburg.de/parladoku/w7/drs/ab_3500/3544.pdf)
+ein](https://www.parlamentsdokumentation.brandenburg.de/parladoku/w7/drs/ab_3500/3544.pdf).
 
 ![Japan Vaccination Tracker](/blog/out-in-the-open-mai-2021/japan-vaccination-tracker.jpg)
 
@@ -133,7 +132,7 @@ und Open Data-Portalen von kleineren Kommunen und Landkreisen.
 
 Frisch [an den Start
 gegangen](https://www.fnweb.de/rhein-main-neckar_artikel,-heilbronn-heilbronner-open-data-portal-fuer-mehr-transparenz-und-information-_arid,1794892.html)
-ist das Datenportal **Heilbronn**. Unter der CC-BY-Lizenz finden sich
+ist das Datenportal **Heilbronn**. Unter der "CC BY 4.0"-Lizenz finden sich
 bereits [einige offene Datensätze](https://opendata.heilbronn.de/).
 Verwendet wird die Open Data Plattform DKAN, die zum Beispiel bereits in
 Köln zum Einsatz kommt.
@@ -157,6 +156,6 @@ Gebäude](https://fragdenstaat.de/blog/2021/05/25/auswertung-des-klima-gebaude-c
 030 23125 000. In Filmproduktionen sind regelmäßig vollständige
 Telefonnummern zu sehen. Um zu verhindern, dass Privatleute von mehreren
 hundert Zuschauer\*innen angerufen werden, stellt die Bundesnetzagentur
-sogenannte 'Drama-Nummern' oder Filmnetznummern zur Verfügung. Diese
+sogenannte "Drama-Nummern" oder Filmnetznummern zur Verfügung. Diese
 keiner Person zugeteilten Rufnummern wurden [jetzt im Amtsblatt
 veröffentlicht](https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Nummerierung/Rufnummern/Mittlg148_2021.pdf;jsessionid=761910E99943300A355B7085EE182FB1?__blob=publicationFile&v=1).
