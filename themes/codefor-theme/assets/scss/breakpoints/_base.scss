@@ -284,19 +284,14 @@ nav.navbar{
   }
 }
 
-.langSwitch {
-
+.langSwitch  {
   margin-right: 3rem;
-
-
-img {
-  width: 3rem;
-  height: auto;
-  opacity: 0.5;}
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: none;
 }
-
-
-
+}
 
 
 //---------------------------------------------------
