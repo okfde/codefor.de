@@ -52,6 +52,7 @@ menu:
     name: Ressourcen
     url: /ressourcen/
     weight: 6
+  footer:
   - identifier: impressum
     name: Impressum
     url: /impressum
