@@ -42,7 +42,7 @@ menu:
     weight: 3
   - identifier: projekte
     name: Projekte
-    url: /Projekte/
+    url: /projekte/
     weight: 4
   - identifier: blog
     name: Blog
