@@ -246,6 +246,9 @@ ADDITIONAL CSS FOR SPECIAL CASES
 
 *********************************/
 
+
+ a, a:hover, a:focus { text-decoration: none;}
+
 // blockquote as used in stadtgeschichten
 
 blockquote {
@@ -291,6 +294,39 @@ blockquote {
   &:after {
     content: '}';
     margin-left: 1.5rem;
+  }
+}
+
+.lang-brackets {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  
+  &.blue {
+    &:before, &:after {
+      color: $codefor-blue;
+    }
+  }
+
+  &.red {
+    &:before, &:after {
+      color: $codefor-red;
+    }
+  }
+
+  &:before, &:after {
+    font-size: 1.3em;
+  }
+
+  &:before {
+    content: '{';
+    margin-right: 0.5rem;
+  }
+
+  &:after {
+    content: '}';
+    margin-left: 0.5rem;
   }
 }
 

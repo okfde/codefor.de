@@ -2,8 +2,7 @@
 
 {{ if .IsTranslated }}
 	{{ range .Translations }}
-		{{ $file := path.Join "/img/lang" ( printf "%s.png" .Language.Lang ) }}
-		<a class="langSwitch d-flex justify-content-end" href="{{ .Permalink }}"><img src="{{ $file }}"></a>
+		<a class="langSwitch d-flex justify-content-end" href="{{ .Permalink }}"><span class="lang-brackets red"> {{ .Language.Lang }}</span></a>
 	{{ end }}
 {{ end }}
 
