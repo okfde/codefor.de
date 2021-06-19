@@ -1,6 +1,10 @@
 ---
 title: Über uns
 footerHideTopMargin: true
+
+#Legacy link
+aliases:
+    - /ueber
 ---
 
 {{< headline-icon icon="icon-info.svg" >}}
