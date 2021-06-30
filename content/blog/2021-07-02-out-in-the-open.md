@@ -1,7 +1,7 @@
 ---
 title: "Out in the Open - Juni 2021"
 date: 2021-06-30T10:00:00+02:00
-author: "Tim Fangmeyer & Knut Hühne - OK Lab Berlin, Klara"
+author: "Tim Fangmeyer & Knut Hühne - OK Lab Berlin, Klara Juhl - OK Lab Osnabrück"
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data and Civic Tech Szene
 topic: community
 images:
