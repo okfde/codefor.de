@@ -63,3 +63,24 @@ Im Berliner Abgeordnetenhaus gab es eine weitere [Schriftliche Anfrage zum Thema
 Verwaltung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/18/SchrAnfr/S18-27710.pdf). In
 der Anfrage geht es sowohl um Software für Fachverfahren als auch Standardsoftware, die in der
 Verwaltung eingesetzt wird.
+
+[AccesLibre](https://acceslibre.beta.gouv.fr/) erleichtert Menschen mit Handicap die Planung von
+Reisen und Ausflügen. Die Nutzer:innen müssen lediglich eine Adresse eingeben und erhalten im
+Umkreis eine Liste von Ausflugszielen. Besonders nützlich sind die Informationen zur
+Barrierefreiheit. Die Plattform gibt nicht nur Auskunft über sanitäre Anlagen oder die
+Erreichbarkeit mit öffentlichen Verkehrsmitteln, sondern auch über weitere relevante Daten - wie die
+Türbreite oder die Erfahrung des Personals im Umgang mit behinderten Menschen. Die Informationen
+berücksichtigen zudem gleich mehrere Handicaps.
+
+Eine ähnliche Plattform, die sogar weltweit Daten erfasst, ist [Wheelmap](https://wheelmap.org).
+Orte können erfasst und hinsichtlich ihrer Rollstuhlgerechtigkeit bewertet werden. Auch Wheelmap
+setzt auf die Mitarbeit seiner Nutzer - jede:r kann Ausflugsziele eintragen und bewerten. Im
+Gegensatz zu AccesLibre sammelt die Plattform (wie der Name schon sagt) ausschließlich für
+Rollstuhlfahrer:innen relevante Daten.
+
+## Und sonst so? 
+Was auf den ersten Blick vielleicht merkwürdig klingt, hat einen ernsten
+Hintergrund: Ein Großteil unseres Saatguts wird von nur wenigen großen Konzernen kontrolliert. [Open
+Source Seeds](https://www.opensourceseeds.org/) will den freien Zugang zu Saatgut ermöglichen und
+stellt deswegen ihr Saatgut unter eine Open Source Lizenz, sodass die Erteilung von Patenten
+verhindert wird.
