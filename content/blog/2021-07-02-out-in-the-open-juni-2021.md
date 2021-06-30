@@ -20,16 +20,16 @@ Das Land Hessen [plant, Geodaten der Landesverwaltung in Zukunft kosten- und liz
 Verfügung zu
 stellen](https://www.golem.de/news/open-data-hessen-will-geodaten-lizenzfrei-zur-verfuegung-stellen-2106-157380.html).
 Ein interessanter Schritt von einem Bundesland, das sich bisher mit seinen Vorstößen zum
-Informationsfreiehitsgesetz [nicht gerade mit Ruhm bekleckert
+Informationsfreiheitsgesetz [nicht gerade mit Ruhm bekleckert
 hat](https://netzpolitik.org/2019/fragdenstaat-verklagt-hessen-auf-zugang-zum-geheimen-ifg-evaluationsbericht/).
 Spannend für die Open-Data Community ist hier vor allem der Verzicht auf einen - rechtlich sowieso
 fragwürdigen - Lizenzhinweis. Dieser Verzicht erlaubte eine sehr weite Nutzung in Projekten wie etwa
 Wikidata und Openstreetmap. 
 
-Dass Daten nicht das neue Öl sind ist in der Open-Data Szene inzwischen weitgehend akzeptiert.
+Dass Daten nicht das neue Öl sind, ist in der Open-Data Szene inzwischen weitgehend akzeptiert.
 [Wikimedia spricht schon länger davon, dass Daten das neue Grundwassser
 sind](https://blog.wikimedia.de/2018/09/15/daten-sind-das-neue-grundwasser/), [Rufus
-Pollock](https://openrevolution.net) widerstrebt es, überhaupt vergleiche mit der Realität zu
+Pollock](https://openrevolution.net) widerstrebt es, überhaupt Vergleiche mit der Realität zu
 ziehen, weil sich Daten - anders als phyische Güter - endlos replizieren lassen. Im Guardian ist
 jetzt ein weiterer Kommentar zum Thema Daten als Öl erschienen. Titel [*Data isn’t oil, whatever
 tech commentators tell you: it’s people’s
