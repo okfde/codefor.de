@@ -12,7 +12,7 @@ og_image: out-in-the-open-2021-06/header.jpg
 type: blog
 ---
 Willkommen zu einer weiteren Ausgabe von Out in the Open. Aufgrund des sommerlichen Wetters
-gibt es dieses mal ein bisschen weniger Inhalt als sonst. Wir hoffen, dass ihr trotzdem
+gibt es dieses Mal ein bisschen weniger Inhalt als sonst. Wir hoffen, dass ihr trotzdem
 Gefallen an den News findet, die wir diesen Monat für euch zusammengetragen haben. Solltet ihr
 selber spannende Themen finden, freuen wir uns wie immer über eine Nachricht.
 
@@ -24,16 +24,16 @@ Informationsfreiheitsgesetz [nicht gerade mit Ruhm bekleckert
 hat](https://netzpolitik.org/2019/fragdenstaat-verklagt-hessen-auf-zugang-zum-geheimen-ifg-evaluationsbericht/).
 Spannend für die Open-Data Community ist hier vor allem der Verzicht auf einen - rechtlich sowieso
 fragwürdigen - Lizenzhinweis. Dieser Verzicht erlaubte eine sehr weite Nutzung in Projekten wie etwa
-Wikidata und Openstreetmap. 
+Wikidata und OpenStreetmap.
 
 Dass Daten nicht das neue Öl sind, ist in der Open-Data Szene inzwischen weitgehend akzeptiert.
-[Wikimedia spricht schon länger davon, dass Daten das neue Grundwassser
+[Wikimedia spricht schon länger davon, dass Daten das neue Grundwasser
 sind](https://blog.wikimedia.de/2018/09/15/daten-sind-das-neue-grundwasser/), [Rufus
 Pollock](https://openrevolution.net) widerstrebt es, überhaupt Vergleiche mit der Realität zu
-ziehen, weil sich Daten - anders als phyische Güter - endlos replizieren lassen. Im Guardian ist
+ziehen, weil sich Daten - anders als physische Güter - endlos replizieren lassen. Im Guardian ist
 jetzt ein weiterer Kommentar zum Thema Daten als Öl erschienen. Titel [*Data isn’t oil, whatever
 tech commentators tell you: it’s people’s
-lives*](https://www.theguardian.com/commentisfree/2021/may/29/data-oil-metaphor-tech-companies-surveillance-capitalism,)
+lives*](https://www.theguardian.com/commentisfree/2021/may/29/data-oil-metaphor-tech-companies-surveillance-capitalism).
 
 Das MIT GOVLAB hat [einen Artikel mit dem Title *Dont' Build It. A Guide for Practitioners in Civic
 Tech*](https://mitgovlab.org/resources/dont-build-it-a-guide-for-practitioners-in-civic-tech/)
@@ -44,7 +44,7 @@ direkten Anwendung von Technologie auf ein Problem, zeigt aber auch auf, wie man
 aufbauen kann, mit denen hilfreiche Software entwickelt - und validiert - werden kann. Wer als
 Medium Podcasts bevorzugt, findet [bei
 Stackoverflow](https://stackoverflow.blog/2021/06/04/podcast-344-dont-build-it-advice-on-civic-tech-from-mits-gov-lab)
-eine Folge mit dem Autoren.
+eine Folge mit dem Autor des Artikels [Luke Jordan](https://twitter.com/lukesjordan).
 
 Das Land Nordrhein-Westfalen nutzt das Potenzial von Geodaten für Krisensituationen: [Die Software
 KriSiGEO
@@ -59,7 +59,7 @@ können sich per Mail kostenfrei für die Nutzung registrieren. Einen Überblick
 es
 hier](https://www.bezreg-koeln.nrw.de/brk_internet/geobasis/geodaten-anwendungen/krisigeo_nw/index.html).
 
-Im Berliner Abgeordnetenhaus gab es eine weitere [Schriftliche Anfrage zum Thema Open Source in der
+Im Berliner Abgeordnetenhaus gab es eine weitere [schriftliche Anfrage zum Thema Open Source in der
 Verwaltung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/18/SchrAnfr/S18-27710.pdf). In
 der Anfrage geht es sowohl um Software für Fachverfahren als auch Standardsoftware, die in der
 Verwaltung eingesetzt wird.
@@ -78,7 +78,8 @@ setzt auf die Mitarbeit seiner Nutzer - jede:r kann Ausflugsziele eintragen und 
 Gegensatz zu AccesLibre sammelt die Plattform (wie der Name schon sagt) ausschließlich für
 Rollstuhlfahrer:innen relevante Daten.
 
-## Und sonst so? 
+## Und sonst so?
+
 Was auf den ersten Blick vielleicht merkwürdig klingt, hat einen ernsten
 Hintergrund: Ein Großteil unseres Saatguts wird von nur wenigen großen Konzernen kontrolliert. [Open
 Source Seeds](https://www.opensourceseeds.org/) will den freien Zugang zu Saatgut ermöglichen und
