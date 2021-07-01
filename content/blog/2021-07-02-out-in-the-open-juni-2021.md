@@ -64,6 +64,8 @@ Verwaltung](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/18/SchrAnfr
 der Anfrage geht es sowohl um Software für Fachverfahren als auch Standardsoftware, die in der
 Verwaltung eingesetzt wird.
 
+Staatliche Daten für die Allgemeinheit ist oft gar nicht so einfach, besonders wenn die zuständigen Behörden auf Zeit spielen: In [seinem Vortrag auf der FOSSGIS 2021](https://media.ccc.de/v/fossgis2021-9008-lidar-langsam-jetzt-erst-recht-) berichtet Johannes Kröger von seinen mehrfachen Versuchen seit 2018, [über fragdenstaat.de](https://fragdenstaat.de/anfrage/digitales-oberflachenmodell/) das digitale Oberflächenmodell der Stadt Hamburg öffentlich verfügbar zu machen. Nach langem Warten liegt die Anfrage nun seit Februar 2021 beim Rechtsamt der Behörde für Stadtentwicklung und Wohnen. Die Bearbeitung des Falls wurde zuletzt für das Frühjahr versprochen. Auch diese Frist ist mittlerweile abgelaufen.
+
 [AccesLibre](https://acceslibre.beta.gouv.fr/) erleichtert Menschen mit Handicap die Planung von
 Reisen und Ausflügen. Die Nutzer:innen müssen lediglich eine Adresse eingeben und erhalten im
 Umkreis eine Liste von Ausflugszielen. Besonders nützlich sind die Informationen zur
@@ -80,8 +82,4 @@ Rollstuhlfahrer:innen relevante Daten.
 
 ## Und sonst so?
 
-Was auf den ersten Blick vielleicht merkwürdig klingt, hat einen ernsten
-Hintergrund: Ein Großteil unseres Saatguts wird von nur wenigen großen Konzernen kontrolliert. [Open
-Source Seeds](https://www.opensourceseeds.org/) will den freien Zugang zu Saatgut ermöglichen und
-stellt deswegen ihr Saatgut unter eine Open Source Lizenz, sodass die Erteilung von Patenten
-verhindert wird.
+Und sonst so? "Offene" Saatkerne? Was auf den ersten Blick vielleicht merkwürdig klingt, hat einen ernsten Hintergrund: Ein Großteil unseres Saatguts wird von nur wenigen Großonzernen kontrolliert. [Open Source Seeds](https://www.opensourceseeds.org/) will dagegen angehen und den freien Zugang zu Saatgut garantieren. Die Organisation stellt Saatgut unter eine Open Source Lizenz, sodass das Saatgut vor Patenten geschützt und als Gemeingut bewahrt wird.
