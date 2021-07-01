@@ -80,4 +80,4 @@ Rollstuhlfahrer:innen relevante Daten.
 
 ## Und sonst so?
 
-"Offene" Saatkerne? Was auf den ersten Blick vielleicht merkwürdig klingt, hat einen ernsten Hintergrund: Ein Großteil unseres Saatguts wird von nur wenigen Großonzernen kontrolliert. [Open Source Seeds](https://www.opensourceseeds.org/) will dagegen angehen und den freien Zugang zu Saatgut garantieren. Die Organisation stellt Saatgut unter eine Open Source Lizenz, sodass es vor Patenten geschützt und als Gemeingut bewahrt wird.
+"Offene" Saatkerne? Was auf den ersten Blick vielleicht merkwürdig klingt, hat einen ernsten Hintergrund: Ein Großteil unseres Saatguts wird von nur wenigen Großkonzernen kontrolliert. [Open Source Seeds](https://www.opensourceseeds.org/) will dagegen angehen und den freien Zugang zu Saatgut garantieren. Die Organisation stellt Saatgut unter eine Open Source Lizenz, sodass es vor Patenten geschützt und als Gemeingut bewahrt wird.
