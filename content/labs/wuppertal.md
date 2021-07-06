@@ -71,4 +71,4 @@ Wir treffen uns normalerweise an jedem 3. Donnerstag im Monat um 19:00 Uhr in Ut
 
 Informationen werden bei uns großteils über unsere [Mailingliste](http://lists.devtal.de/mailman/listinfo/opendatal) verteilt.
 
-Wir sind offen für neue Mitglieder und Ideen, um Wuppertal (nicht nur) digital gemeinsam weiterzubringen und es gibt keine Einstiegshürden, sondern eine herzliche Begrüßung, wenn Ihr bei uns im Lab mitmachen wollt! Falls dir der Einstieg schwerfällt, schickt uns eine [E-Mail](mailto:info@opendatal.de) und wir finden jemanden, der deine Interessen teilt und dir hilft dich im Opendatal zurechtzufinden.
+Wir sind offen für neue Mitglieder und Ideen, um Wuppertal (nicht nur) digital gemeinsam weiterzubringen. Falls dir der Einstieg schwerfällt, schickt uns eine [E-Mail](mailto:info@opendatal.de) oder sprich und bei [Twitter](https://twitter.com/opendatal) an und wir finden jemanden, der deine Interessen teilt und dir hilft dich im OpendaTal zurechtzufinden.
