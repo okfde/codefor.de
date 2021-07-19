@@ -1,7 +1,7 @@
 ---
 layout: project
 lab: [wuppertal] #needed for Aggregation on Lab-Page
-imgname: wuppertal/talradparken.png
+imgname: talradparken.jpg
 title: Talradparken
 status: Abgeschlossen
 

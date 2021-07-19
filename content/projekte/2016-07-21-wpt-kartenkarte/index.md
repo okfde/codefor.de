@@ -1,16 +1,13 @@
 ---
 layout: project
 lab: [wuppertal] #needed for Aggregation on Lab-Page
-imgname: wuppertal/kartenkarte.png
+imgname: kartenkarte.jpg
 title: KartenKarte
 status: In Progress
 
-
 links:
-
 - url: http://kartenkarte.org
   name: Website
-
 - url: https://github.com/Opendatal/kartenkarte.org
   name: Github
 

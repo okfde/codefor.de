@@ -1,7 +1,7 @@
 ---
 layout: project
 lab: [wuppertal] #needed for Aggregation on Lab-Page
-imgname: wuppertal/OpenBus.PNG
+imgname: OpenBus.png
 title: OpenBus
 status: POC, Abgeschlossen
 

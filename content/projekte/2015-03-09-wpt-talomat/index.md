@@ -1,7 +1,7 @@
 ---
 layout: project
 lab: [wuppertal] #needed for Aggregation on Lab-Page
-imgname: wuppertal/Talomat.PNG
+imgname: Talomat.png
 title: Talomat
 status: Laufend, Sucht Mitmacher
 

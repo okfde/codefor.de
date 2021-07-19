@@ -1,11 +1,9 @@
 ---
 layout: project
 lab: [wuppertal] #needed for Aggregation on Lab-Page
-imgname: wuppertal/WPTHaushalt.PNG
+imgname: WPTHaushalt.png
 title: Offener Haushalt Wuppertal
 status: Abgeschlossen
-
-
 
 links:
 - url: https://github.com/Opendatal/Offener-Haushalt
