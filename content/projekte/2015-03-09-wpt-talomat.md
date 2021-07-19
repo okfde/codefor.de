@@ -11,6 +11,7 @@ links:
 - url: https://github.com/Opendatal/Talomat
   name: Github
 
+
 collaborators:
 - name: Christopher
 - name: Cathy
@@ -24,8 +25,4 @@ tags:
 
 ---
 
-Der Talomat ist ein Wuppertaler Wahl-O-Mat nach dem Vorbild des von der Bundes- und Landeszentrale für politische Bildung eingesetzten Wahl-o-Maten.
-
-Er wurde für die Kommunalwahlen 2014 eingesetzt.
-
-Eine neue Version für die Wahl des Oberbürgermeisters 2015 befindet sich in Entwicklung.
+Der Talomat ist ein Wahl-O-Mat für die Kommunalwahlen und Oberbürgermeisterwahlen 2014 und 2020 in Wuppertal. Er basiert auf dem Mat-O-Wahl von Mathias Steudtner und ist dem entsprechend ein in einfach zu bedienender, freier Wahl-O-Mat-Klon für jedermann.

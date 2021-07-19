@@ -3,13 +3,15 @@ layout: project
 lab: [wuppertal] #needed for Aggregation on Lab-Page
 imgname: wuppertal/WPTHaushalt.PNG
 title: Offener Haushalt Wuppertal
-status: Sucht Mitmacher
+status: Abgeschlossen
+
+
 
 links:
-- url: http://opendata.devtal.de/tree.php
-  name: Website
 - url: https://github.com/Opendatal/Offener-Haushalt
-  name: Github
+  name: Github (Offener-Haushalt)
+- url: https://github.com/Opendatal/offenerhaushalt.de
+  name: github (OffenerHaushalt 2.0)
 
 collaborators:
 - name: Nico
@@ -20,4 +22,8 @@ tags:
 
 ---
 
-Interaktive Visualisierung des Wuppertaler Haushalts, damit sich engagierte BürgerInnen leicht einen Überblick verschaffen können.
+Interaktive Visualisierung des Wuppertaler Haushalts, damit sich engagierte Bürger*innen leicht einen Überblick verschaffen können.
+
+Update:
+
+inzwischen von der kommune umgesetzt unter [Offener Haushalt Wuppertal](https://offenerhaushalt.de/haushalt/NW/Wuppertal)

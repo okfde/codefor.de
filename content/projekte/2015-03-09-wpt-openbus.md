@@ -3,11 +3,9 @@ layout: project
 lab: [wuppertal] #needed for Aggregation on Lab-Page
 imgname: wuppertal/OpenBus.PNG
 title: OpenBus
-status: Machbarkeitsstudie, Sucht Mitmacher
+status: POC, Abgeschlossen
 
 links:
-- url: http://openbus.devtal.de/
-  name: Website
 - url: https://github.com/Opendatal/openbus
   name: Github
 
@@ -19,4 +17,6 @@ tags:
 
 ---
 
-Entstanden als Techdemo für einen OpenDataDay in Wuppertal. Greift die Daten vom Abfahrtsmonitor ab und visualisiert sie auf Google Maps.
+Proof of Concept Visualisierung von Abfahrtzeiten im ÖPNV aus dem Jahre 2014, mitlerweile sind alle damals genutzen API's nicht mehr verfügbar.
+
+Entstanden ist OpenBus als Techdemo für einen OpenDataDay in Wuppertal.
