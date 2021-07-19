@@ -67,8 +67,8 @@ leads:
 
 Wir von Opendatal haben gemeinsam mit [/dev/tal](https://www.devtal.de) das OK Lab Wuppertal gegründet, wir sind zu Hause in der [Utopiastadt Wuppertal](https://clownfisch.eu/), inmitten von Community-Gardening, Repair-Cafés und vielen anderen Community-Projekten, kümmert sich das OK Lab hauptsächlich um die Öffnung der Kommune mit OpenData und Open-Source-Projekten.
 
-Wir treffen uns normalerweise an jedem 3. Donnerstag im Monat um 19:00 Uhr in Utopiastadt (Momentan aber eher online [jitsi](https://meet.devtal.de/opendatal))
+Wir treffen uns normalerweise an jedem 3. Donnerstag im Monat um 19:00 Uhr in Utopiastadt (momentan aber eher online [jitsi](https://meet.devtal.de/opendatal))
 
 Informationen werden bei uns großteils über unsere [Mailingliste](http://lists.devtal.de/mailman/listinfo/opendatal) verteilt.
 
-Wir sind offen für neue Mitglieder und Ideen, um Wuppertal (nicht nur) digital gemeinsam weiterzubringen. Falls dir der Einstieg schwerfällt, schickt uns eine [E-Mail](mailto:info@opendatal.de) oder sprich und bei [Twitter](https://twitter.com/opendatal) an und wir finden jemanden, der deine Interessen teilt und dir hilft dich im OpendaTal zurechtzufinden.
+Wir sind offen für neue Mitglieder und Ideen, um Wuppertal (nicht nur) digital gemeinsam weiterzubringen. Falls dir der Einstieg schwerfällt, schickt uns eine [E-Mail](mailto:info@opendatal.de) oder sprich uns bei [Twitter](https://twitter.com/opendatal) an und wir finden jemanden, der deine Interessen teilt und dir hilft dich im OpendaTal zurechtzufinden.
