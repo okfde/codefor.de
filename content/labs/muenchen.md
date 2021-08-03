@@ -1,8 +1,8 @@
 ---
 city: München
 title: OK Lab München
-lat: 48.14356
-long: 11.55792
+lat: 48.153701
+long: 11.560801
 markerposition: right
 
 aliases:
@@ -88,11 +88,8 @@ feeds:
 
 
 leads:
-- name: Konstantin Schütze
-  url: mailto:konstin@mailbox.org
-
-- name: Matt Fullerton
-  url: mailto:matt.fullerton@gmail.com
+- name: OK Lab München Team
+  url: mailto:muenchen@codefor.de
 
 ---
 
