@@ -6,6 +6,7 @@ excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data
 topic: community
 images:
 - imgname: out-in-the-open-2021-07/header.jpg
+  attribution: Foto von [Finn Hackshaw](https://unsplash.com/@finnhackshaw) auf [Unsplash](https://unsplash.com/s/photos/open)
 
 og_image: out-in-the-open-2021-07/header.jpg
 

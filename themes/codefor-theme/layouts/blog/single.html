@@ -1,23 +1,25 @@
 
 {{ define "main" }}
 
-<div class="headline-icon d-flex justify-content-center   ">
+<div class="headline-icon d-flex justify-content-center">
     <img src="/img/section-icon/icon-power.svg" alt="">
 </div>
 
 <h1 class="headline-brackets blue">{{.Title}}</h1>
-
-
-
 
 <div class="row justify-content-center blog-content mb-4 mb-md-5">
     <div class="col-23 col-sm-20 col-lg-14 col-xl-11">
 
         {{ if .Params.images }}
             {{ range first 1 .Params.images}}
-            <div class="text-center">
+            <figure>
                 <img class="img-fluid" src="/blog/{{ .imgname }}" alt="{{ .alt }}">
-            </div>
+                <figcaption>
+                    <div class="attribution">
+                        {{ .attribution | markdownify}}
+                    </div>
+                </figcaption>
+            </figure>
             {{end}}
         {{ end }}
 
