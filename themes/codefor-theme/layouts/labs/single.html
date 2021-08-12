@@ -2,72 +2,111 @@
 
 
 <div class="lab-content">
-    <div class="d-flex align-items-center flex-wrap justify-content-center">
-        {{- if (fileExists (printf "static/labs/hexagon/CodeFor-%s.svg" .File.BaseFileName)) -}}
-            <img class="lab-logo" src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
-        {{- end }}
-      <h1 class="headline-brackets blue flex-grow-1 m-0">{{.Title}} </h1>
-</div>
-
-    {{ if .Params.Hero }}
-    {{ partial "hero-block-center.html" (dict "context" . "txt" .Params.Hero ) }}
-    {{ end }}
-
-    <section>
-        {{ .Content }}
+  <div class="d-flex align-items-center flex-wrap justify-content-center">
+    {{- if (fileExists (printf "static/labs/hexagon/CodeFor-%s.svg" .File.BaseFileName)) -}}
+    <img class="lab-logo" src="/labs/hexagon/CodeFor-{{ .File.BaseFileName }}.svg" alt="Logo {{ .Title }}">
+    {{- end }}
+    <h1 class="headline-brackets blue flex-grow-1 m-0">{{.Title}} </h1>
+  </div>
+  
+  {{ if .Params.Hero }}
+  {{ partial "hero-block-center.html" (dict "context" . "txt" .Params.Hero ) }}
+  {{ end }}
+  
+  <section>
+    {{ .Content }}
+  </section>
+  
+  
+  <div class="d-flex flex-wrap">
+    <section class="flex-grow-1">
+      <h3>Kontakt</h3>
+      <ul class="list-unstyled mb-5">
+        {{ range .Params.Leads -}}
+        <li>
+          <a class="d-block text-dark" href="{{ .url | safeURL }}" title="{{ .name }}" {{ if strings.HasPrefix .url "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .name }}</a>
+        </li>
+        {{ end -}}
+      </ul>
     </section>
-
-
-    <div class="d-flex flex-wrap">
-      <section class="flex-grow-1">
-          <h3>Kontakt</h3>
-          <ul class="list-unstyled mb-5">
-              {{ range .Params.Leads -}}
-              <li>
-                <a class="d-block text-dark" href="{{ .url | safeURL }}" title="{{ .name }}" {{ if strings.HasPrefix .url "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .name }}</a>
-              </li>
-              {{ end -}}
-          </ul>
-        </section>
-
-        <section class="flex-grow-1">
-        <h3>Links</h3>
-            <ul class="list-unstyled mb-5">
-            {{ range .Params.Links -}}
-            <li>
-                <a class="d-block text-dark" href="{{ .url | safeURL }}" title="{{ .name }}" {{ if strings.HasPrefix .url "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .name }}</a>
-            </li>
-            {{ end -}}
-        </ul>
-        </section>
-    </div>
+    
+    <section class="flex-grow-1">
+      <h3>Links</h3>
+      <ul class="list-unstyled mb-5">
+        {{ range .Params.Links -}}
+        <li>
+          <a class="d-block text-dark" href="{{ .url | safeURL }}" title="{{ .name }}" {{ if strings.HasPrefix .url "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .name }}</a>
+        </li>
+        {{ end -}}
+      </ul>
+    </section>
+  </div>
 </div>
 
-{{/*
-    Lists projects of this lab.
-    Requires project Pages to include the filename
-    without extension of this lab to be in the
-    "labs: [...]" property of the frontmatter of the
-    project file.
-*/}}
-{{/* create a slice because we're using "intersect" in the next line */}}
+
 {{ $filename := slice .File.BaseFileName }}
+{{ $lab_posts := (where (where $.Site.RegularPages "Params.type" "==" "blog") "Params.lab" "intersect" $filename)}}
 {{ $lab_projects := (where (where .Site.RegularPages "Layout" "==" "project") ".Params.lab" "intersect" $filename)}}
-{{ if len $lab_projects | ne 0 }}
 
-<h2 class="headline-brackets red">Projekte</h2>
-<div class="row justify-content-center mb-5 mb-lg-7">
-    <div class="col-22 col-md-18">
-        <div class="row">
-        {{ range $lab_projects }}
-            {{ partial "project-preview.html" . }}
-        {{ end }}
-        </div>
+
+{{ if and (len $lab_posts | ne 0) (len $lab_projects | ne 0 )  }}
+<div class="d-flex align-items-center flex-wrap justify-content-center">
+
+  <div class="col-6">
+    <h2 class="headline-brackets blue">Blogpost</h2>
+  
+    <div class="row">
+      {{ range $lab_posts }}
+      {{ partial "blog-preview-mini.html" . }}
+      {{ end }}
     </div>
-</div>
-{{ end }}
 
-<hr/>
-{{ partial "map-overview.html" . }}
+  
+  </div>
+
+  <div class="col-6">
+    <h2 class="headline-brackets red">Projekte</h2>
+  
+    <div class="row">
+      {{ range $lab_projects }}
+      {{ partial "project-preview-mini.html" . }}
+      {{ end }}
+    </div>
+  
+  </div>
+
+
+</div></div>
+
+
+{{ else }}
+  {{/* list Blog Posts   */}}
+  {{ if len $lab_posts | ne 0 }}
+    <h2 class="headline-brackets blue">Blogpost</h2>
+    <div class="row justify-content-center mb-5 mb-lg-7">
+      <div class="col-22 col-md-18">
+        <div class="row">
+          {{ range $lab_posts }}
+          {{ partial "blog-preview-mini.html" . }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  {{ end }}
+
+  {{/* list 4 most recend Projects */}}
+  {{ if len $lab_projects | ne 0 }}
+    <h2 class="headline-brackets red">Projekte</h2>
+    <div class="row justify-content-center mb-5 mb-lg-7">
+      <div class="col-22 col-md-18">
+        <div class="row">
+          {{ range $lab_projects }}
+          {{ partial "project-preview-mini.html" . }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  {{ end }}
+{{end}}
 
 {{ end }}
