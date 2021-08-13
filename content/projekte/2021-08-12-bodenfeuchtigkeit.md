@@ -1,7 +1,7 @@
 ---
 layout: project 
 lab: [bielefeld] 
-title: Sichtbarmachung von Bodenfeuchtigkeit  im Teutoburger Wald
+title: Sichtbarmachung von Bodenfeuchtigkeit im Teutoburger Wald
 status: In progress
 draft: false
 
