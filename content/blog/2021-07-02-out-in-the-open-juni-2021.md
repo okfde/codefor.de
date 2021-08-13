@@ -23,7 +23,7 @@ Informationsfreiheitsgesetz [nicht gerade mit Ruhm bekleckert
 hat](https://netzpolitik.org/2019/fragdenstaat-verklagt-hessen-auf-zugang-zum-geheimen-ifg-evaluationsbericht/).
 Spannend für die Open-Data Community ist hier vor allem der Verzicht auf einen - rechtlich sowieso
 fragwürdigen - Lizenzhinweis. Dieser Verzicht erlaubt eine freie Nutzung der Daten in Projekten wie etwa
-Wikidata und OpenStreetmap.
+Wikidata und OpenStreetMap.
 
 Dass Daten nicht das neue Öl sind, ist in der Open-Data Szene inzwischen weitgehend akzeptiert.
 [Wikimedia spricht schon länger davon, dass Daten das neue Grundwasser
@@ -72,9 +72,9 @@ Erreichbarkeit mit öffentlichen Verkehrsmitteln, sondern auch über weitere rel
 Türbreiten des Gebäudes oder die Erfahrung des Personals im Umgang mit Menschen mit Beeinträchtigungen. Die Informationen
 berücksichtigen zudem gleich mehrere Handicaps.
 
-Eine ähnliche Plattform, die sogar weltweit Daten erfasst, ist [Wheelmap](https://wheelmap.org).
-Dort können Orte erfasst und hinsichtlich ihrer Rollstuhlgerechtigkeit bewertet werden. Auch Wheelmap
-setzt auf die Mitarbeit seiner Nutzer – jede:r kann Ausflugsziele eintragen und beurteilen. Im
+Eine ähnliche Plattform, die sogar weltweit Daten erfasst, ist [Wheelmap](https://wheelmap.org). Dort
+können Orte erfasst und hinsichtlich ihrer Rollstuhlgerechtigkeit bewertet werden. Auch Wheelmap
+setzt auf die Mitarbeit seiner Nutzer:innen – jede:r kann Ausflugsziele eintragen und beurteilen. Im
 Gegensatz zu AccesLibre sammelt die Plattform (wie der Name schon sagt) ausschließlich für
 Rollstuhlfahrer:innen relevante Daten.
 
