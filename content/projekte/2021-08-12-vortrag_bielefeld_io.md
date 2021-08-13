@@ -17,4 +17,4 @@ collaborators:
 
 ---
 
-Vortrag und Workshop zu „Innovationen durch Open Data“ im Rahmen der Bielfeld.IO am Freitag, 3. September 2021.
+Vortrag und Workshop zu „Innovationen durch Open Data“ im Rahmen der Bielfeld.IO am Freitag, 3. September 2021. Anmeldung und weitere Infos auf [eventbrite](https://www.eventbrite.de/e/bielefeld-io-2021-tickets-163043755261?aff=foundersfoundation).
