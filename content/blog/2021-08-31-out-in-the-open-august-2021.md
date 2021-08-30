@@ -1,5 +1,5 @@
 ---
- title: "Out in the Open - Juli 2021"
+ title: "Out in the Open - August 2021"
  date: 2021-08-29T10:00:00+02:00
  author: "Tim Fangmeyer & Knut Hühne - OK Lab Berlin, Klara Juhl - OK Lab Osnabrück"
  excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data and Civic Tech Szene
@@ -15,7 +15,7 @@
 Stefan Kaufmann blickt in [einem neuen
 Blogpost](https://stefan.bloggt.es/2021/08/wie-apt-get-fuer-daten-knapp-12-jahre-spaeter/) auf einen
 Vortrag vom 26C3 zum Thema CKAN und offene Daten zurück. Er vergleicht die damaligen Forderungen mit
-den Entwicklungen, die  seitdem gemacht (oder auch nicht gemacht) wurden. Insbesondere stellt er die
+den Entwicklungen, die seitdem gemacht (oder auch nicht gemacht) wurden. Insbesondere stellt er die
 Frage, ob es überhaupt sinnvoll ist, Lizenzen für Daten zu fordern und verlinkt [einen alten und
 wichtigen Beitrag](http://simia.net/wiki/Free_data) vom Wikidata Gründer Denny Vrandečić zum Thema
 Free Data, in dem es um die Frage geht, wie es eigentlich aus rechtlicher Sicht um Lizenzen für
@@ -60,7 +60,7 @@ Bundes. Details sowie das dazugehörige Papier im PDF-Format gibt es in einer [P
 BMI](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2021/07/open-data-strategie-der-bundesregierung.html).
 
 Laut Angaben der Vereinten Nationen leben rund eine Milliarde Menschen in Slums, dicht besiedelten
-Stadtviertel mit mangelhafter Infrastruktur. Diese Viertel sind kaum kartiert, selbst bei großen
+Stadtvierteln mit mangelhafter Infrastruktur. Diese Viertel sind kaum kartiert, selbst bei großen
 Kartenanbietern wie Google Maps tauchen sie oft nur als undefinierte Fläche auf, es fehlen Gebäude,
 Straßen und Läden. Das macht die Bewohner:innen der Slums quasi unsichtbar und erschwert ihnen den
 Zugang zu essentieller Infrastruktur. Wie [Bloomberg
