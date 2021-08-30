@@ -47,7 +47,7 @@ für alle offene Datenschnittstellen braucht.
 Im März berichteten wir erstmalig von der Berliner OpenStreetMap Gruppe, die sich dem Thema 
 Verkehrswende zugewandt hat. Nun ist ein weiterer
 [Artikel](https://supaplexosm.github.io/strassenraumkarte-neukoelln/posts/2021-07-18-strassenraumkarte)
-erschienen, in dem Tobias Alex zu seiner Parkraumkarte interviewt wird und die beiden in deutlich
+erschienen, in dem Alex erneut von Tobias zu seiner Parkraumkarte interviewt wird und die beiden in deutlich
 mehr Detail auf die Kleinigkeiten eingehen, die die Karte besonders machen. Der Artikel ist ein
 schönes Beispiel dafür, wie mithilfe von OpenStreetMap und anderen offenen Daten ganz vielfältige
 Probleme visualisiert und angegangen werden können und wie schön spezialisierte Kartografie sein
