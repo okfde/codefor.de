@@ -2,3 +2,9 @@ version: 1
 static-snapshots:
   path: public/
   snapshot-files: './index.html,./berlin/index.html,./stuttgart/index.html,./mitmachen/index.html,./projekte/index.html,./blog/code-for-berlin-talks/index.html,./projekte/pricemap-eu/index.html'
+  # Do not render leaflet tiles in percy so that changes
+  # in OSM do not lead to changes in our snapshots
+  percy-css: |
+    .leaflet-tile-container {
+      display: none !important;
+    }
