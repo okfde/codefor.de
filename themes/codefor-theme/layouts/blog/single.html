@@ -13,7 +13,7 @@
         {{ if .Params.images }}
             {{ range first 1 .Params.images}}
             <figure>
-                <img class="img-fluid" src="/blog/{{ .imgname }}" alt="{{ .alt }}">
+                <img src="/blog/{{ .imgname }}" alt="{{ .alt }}">
                 <figcaption>
                     <div class="attribution">
                         {{ .attribution | markdownify}}

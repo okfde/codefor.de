@@ -468,11 +468,17 @@ footer{
 }
 
 // custom figure element
-figure figcaption {
-  text-align: right;
-  .attribution, .attribution a {
-    font-size: 0.9rem;
-    color: gray;
-    align-self: flex-end;
+figure {
+  display: flex;
+  flex-direction: column;
+
+  figcaption {
+    text-align: right;
+
+    .attribution, .attribution a {
+      font-size: 0.9rem;
+      color: gray;
+      align-self: flex-end;
+    }
   }
 }
