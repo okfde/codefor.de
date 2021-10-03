@@ -25,7 +25,7 @@ Wer die Covpass-App aus dem herstellerunabhängigen App-Store F-Droid herunterla
 
 Die Nutzer:innen der WarnWetter-App des Deutschen Wetterdienstes (DWD) können bereits seit dem Sommer Wetterereignisse aus ihrer Region per App an den DWD melden. Auf diese Art und Weise sind mehr zwei Millionen Wettermeldungen aus ganz Deutschland zusammen gekommen. Der DWD stellt die meteorologischen Daten ab sofort [über seine Webseite anonymisiert als Datensatz zur Verfügung](https://opendata.dwd.de/weather/crowdsourcing/warnwetter).
 
-Auf der Seite [click that hood](http://click-that-hood.com/germany) kann man die Nachbarschaften und Bezirke der eigenen Stadt besser kennenlernen, indem man sie mit einem Mausklick auf einer Umriss-Karte korrekt identifiert. Die deutsche Version der Seite lag lange auf Eis, nun wurde das Repository [zu Code for Germany umgezogen](https://github.com/codeforgermany/click_that_hood) und soll regelmäßig auf dem neusten Stand gehalten werden.
+Auf der Seite [click that hood](http://click-that-hood.com/germany) kann man die Nachbarschaften und Bezirke der eigenen Stadt besser kennenlernen, indem man sie mit einem Mausklick auf einer Umriss-Karte korrekt identifiziert. Die deutsche Version der Seite lag lange auf Eis, nun wurde das Repository [zu Code for Germany umgezogen](https://github.com/codeforgermany/click_that_hood) und soll regelmäßig auf dem neuesten Stand gehalten werden.
 
 ## Und sonst so?
 
