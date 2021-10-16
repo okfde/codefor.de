@@ -5,10 +5,6 @@ imgname: koeln/wasser.png
 title: Trinkwasser in Köln
 status: Finished
 
-links:
-- url: http://www.webeifer.de/trinkwasser/
-  name: Webseite
-
 collaborators:
 - name: Ingrid Bluoss
 - name: Marcel Belledin
