@@ -87,7 +87,7 @@ werden.
 In Magdeburg wurde im September das Baumkataster 2021 als Offene Daten aufgrund einer Anfrage auf
 [FragDenStaat](https://fragdenstaat.de/) online gestellt. Einen Monat später hat  Jens Winter daraus
 im Rahmen des CfG-Projekts
-[Baumfreunde-MD](https://www.codefor.de/projekte/magdeburg-baumfreunde-md/) eine scrollbare Karte
+[Baumfreunde-MD](https://www.codefor.de/projekte/magdeburg-baumfreunde-md/) eine interaktive Karte
 erstellt, die den Standort von über 84.000 Bäumen im Stadtgebiet visualisiert. Über die
 Website-Navigation können die dargestellten Bäume u. a. nach Eigenschaften wie Gattung, Baumhöhe und
 Alter gefiltert werden.
