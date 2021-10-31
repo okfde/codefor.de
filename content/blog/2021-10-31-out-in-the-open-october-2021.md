@@ -84,8 +84,8 @@ Parkplätze, Parkhäuser und Tiefgaragen informiert. Die [dazugehörige
 Schnittstelle](https://t.co/CXmb2pKR7F?amp=1) wartet noch darauf, von Freiwilligen kommentiert zu
 werden.
 
-In Magdeburg wurde im September das Baumkataster 2021 als Offene Daten aufgrund einer Anfrage auf
-[FragDenStaat](https://fragdenstaat.de/) online gestellt. Einen Monat später hat  Jens Winter daraus
+Dank einer einer Anfrage auf
+[FragDenStaat](https://fragdenstaat.de/) wurde diesen September das [Baumkataster Magdeburg 2021](https://www.magdeburg.de/Start/B%C3%BCrger-Stadt/Verwaltung-Service/Offene-Verwaltungsdaten/index.php?NavID=37.906&object=tx|37.12819.1&La=1&) als Datensatz unter einer Open Data Lizenz online gestellt. Einen Monat später hat Jens Winter daraus
 im Rahmen des Code for Germany-Projekts
 [Baumfreunde-MD](https://www.codefor.de/projekte/magdeburg-baumfreunde-md/) eine interaktive Karte
 erstellt, die den Standort von über 84.000 Bäumen im Stadtgebiet visualisiert. Über die
