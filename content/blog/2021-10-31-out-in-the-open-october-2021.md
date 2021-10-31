@@ -11,7 +11,7 @@ images:
 og_image: out-in-the-open-2021-10/header.jpg
 type: blog
 ---
-Wärend wir den letzten Schliff an den Text anlegen, hat gerade der letzte Tag des unter
+Während wir dem Text den letzten Schliff verpassen, hat gerade der letzte Tag des unter
 2G-Vorsichstmaßnahmen stattfindenden [Hackday 2021 in Moers
 (NRW)](https://www.codeforniederrhein.de/hackday-2021/) begonnen, auf dem Hacker:innen und Open Data
 Begeisterte zusammen kommen um gemeinsam das eigene Wissen zu erweitern und sich zu vernetzen.
