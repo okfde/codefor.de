@@ -58,7 +58,7 @@ berichtet in einer
 [Pressemitteilung](https://www.bkg.bund.de/SharedDocs/Pressemitteilungen/BKG/DE/PM_2021/211013-Digitaler_Zwilling.html)
 vom jüngst gestarteten Projekt "Digitaler Zwilling". Ganz Deutschland soll im Rahmen dieses
 Vorhabens hoch aufgelöst und dreidimensional digital abgebildet werden. Der Startschuss fiel in der
-Metropolregion Hamburg, in der ein Messflugzeug bis zum Ende des Jahres eine Fläche von ca. 8000 Qm
+Metropolregion Hamburg, in der ein Messflugzeug bis zum Ende des Jahres eine Fläche von ca. 8000 m²
 erfassen wird. Nach erfolgreichem Abschluss dieses Demonstrationsprojekts wird die Umsetzung
 bundesweit fortgeführt. Ziel ist es, im Jahre 2024 einen ersten bundesweiten 3D-Datensatz als
 offenen Datensatz zur Verfügung zu stellen.
