@@ -41,7 +41,7 @@ Geoanwendung QGIS öffnen, die Berliner CfG-Community stellt dennoch alternativ 
 [WFS-Downloader](https://github.com/codeforberlin/wfs-downloader)-Bibliothek bereit, mit der die
 Daten heruntergeladen und in gebräuchlichere Formate wie GML oder GeoJSON umgewandelt werden können.
 
-Schon letzten Monat berichteten wir über de.openparliament.tv. Das Projekt ist jetzt offiziell an
+[Schon letzten Monat](/blog/2021-09-31-out-in-the-open-september-2021/) berichteten wir über [de.openparliament.tv](https://de.openparliament.tv/). Das Projekt ist jetzt offiziell an
 den Start gegangen. Aus der Open-Data Perspektive ist es schön, im
 [FAQ](https://de.openparliament.tv/faq) lesen zu können, dass die für die Anwendung verwendeten
 Daten aus Wikidata und aus der [Open Data API des
