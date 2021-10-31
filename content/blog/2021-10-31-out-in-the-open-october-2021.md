@@ -16,9 +16,8 @@ Während wir dem Text den letzten Schliff verpassen, hat gerade der letzte Tag d
 (NRW)](https://www.codeforniederrhein.de/hackday-2021/) begonnen, auf dem Hacker:innen und Open Data
 Begeisterte zusammen kommen um gemeinsam das eigene Wissen zu erweitern und sich zu vernetzen.
 Veranstaltungen wie der Hackday sind ein zentraler Bestandteil der Open Data Community und der
-ideale Moment, mit uns persönlich ins Gespräch zu kommen. Nutzt auch ihr die Gelegenheit und besucht uns
-bei unseren wöchentlichen Treffen in den Code for Labs oder haltet zum Beispiel [über
-Twitter](https://twitter.com/codeforde) Ausschau nach weiteren Veranstaltungen, wenn ihr die
+ideale Moment, mit uns persönlich ins Gespräch zu kommen. Nutzt auch ihr die Gelegenheit, und besucht eine unserer wöchentlichen Treffen in den Code for Labs. Weitere Veranstaltungen werden üblicherweise [über
+Twitter](https://twitter.com/codeforde) bekannt gemacht, falls ihr die
 Menschen hinter dem Code kennenlernen möchtet. Aber jetzt zu den Neugigkeiten für den Monat Oktober.
 
 In Deutschland wurde im letzten Monat viel über die ID-Wallet und digitale Ausweise gesprochen. Auch
