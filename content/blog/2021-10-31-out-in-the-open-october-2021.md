@@ -81,8 +81,10 @@ Autobahn-App-Projekt des Bundes der Fall, welches [bund.dev](https://bund.dev) d
 genutzte Autobahn-API [zu dokumentieren](https://autobahn.api.bund.dev). Die Stadt Pforzheim hat
 kürzlich eine Anwendung namens „ParkenPF“ veröffentlicht, die über die Verfügbarkeit öffentlicher
 Parkplätze, Parkhäuser und Tiefgaragen informiert. Die [dazugehörige
-Schnittstelle](https://t.co/CXmb2pKR7F?amp=1) wartet noch darauf, von Freiwilligen kommentiert zu
+Schnittstelle][buergergis-pforzheim] wartet noch darauf, von Freiwilligen dokumentiert zu
 werden.
+
+[buergergis-pforzheim]: https://buergergis.pforzheim.de/server/rest/services/Sensoren/ParkNav/FeatureServer/0/query?f=json&where=bewirtschaftung%20%3D%20%27Parkplatz%20bewirtschaftet%27&returnGeometry=true&spatialRel=esriSpatialRelIntersects&geometry=%7B%22xmin%22%3A477482.6579185862%2C%22ymin%22%3A5412444.466489942%2C%22xmax%22%3A480869.33135859977%2C%22ymax%22%3A5415831.139929955%2C%22spatialReference%22%3A%7B%22wkid%22%3A25832%2C%22latestWkid%22%3A25832%7D%7D&geometryType=esriGeometryEnvelope&inSR=25832&outFields=*&outSR=25832&resultType=tile
 
 Dank einer einer Anfrage auf
 [FragDenStaat](https://fragdenstaat.de/) wurde diesen September das [Baumkataster Magdeburg 2021](https://www.magdeburg.de/Start/B%C3%BCrger-Stadt/Verwaltung-Service/Offene-Verwaltungsdaten/index.php?NavID=37.906&object=tx|37.12819.1&La=1&) als Datensatz unter einer Open Data Lizenz online gestellt. Einen Monat später hat Jens Winter daraus
