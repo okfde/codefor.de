@@ -77,7 +77,7 @@ entscheidende Bedeutung der sog. "data literacy" heute zukommt.
 
 Von Bund, Städten und Kommunen veröffentlichte Apps haben den positiven Nebeneffekt, dass bisher
 unbekannte Daten-Schnittstellen wie nebenbei gleich mitveröffentlicht werden. Das war schon beim
-Autobahn-App-Projekt des Bundes der Fall, welches bund.dev die Möglichkeit bot, die von der App
+Autobahn-App-Projekt des Bundes der Fall, welches [bund.dev](https://bund.dev) die Möglichkeit bot, die von der App
 genutzte Autobahn-API [zu dokumentieren](https://autobahn.api.bund.dev). Die Stadt Pforzheim hat
 kürzlich eine Anwendung namens „ParkenPF“ veröffentlicht, die über die Verfügbarkeit öffentlicher
 Parkplätze, Parkhäuser und Tiefgaragen informiert. Die [dazugehörige
