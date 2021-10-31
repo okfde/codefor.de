@@ -49,7 +49,7 @@ Bundestages](https://www.bundestag.de/services/opendata) stammen. Noch vor vier 
 Sitzungprotokolle des Bundestags nur in unannotierter Textform und das Projekt
 [offenesparlament.de](https://offenesparlament.de/daten/) verbrachte viel Zeit damit, diese in eine
 strukturierte und maschinenverständliche Form zu überführen. Dass die Daten jetzt vom Bundestag
-selbst zur Verfügung gestellt werden, erleichtert Projekte wie openparliament.tv ungemein und
+selbst zur Verfügung gestellt werden, erleichtert die Umsetzung von Projekten wie openparliament.tv ungemein und
 schafft Möglichkeiten für neue kreative Nutzungsformen.
 
 Das [Bundesamt für Kartographie und
