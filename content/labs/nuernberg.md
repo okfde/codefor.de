@@ -21,9 +21,13 @@ members:
 links:
 - name: Slack
   url: https://openknowledgegermany.slack.com/messages/nuernberg/
-leads:
+- name: Newsletter
+  url: https://tinyletter.com/opendata-nuernberg
 
+leads:
 - name: Lukas Himsel
+  url: mailto:opendata@himsel.me
+- name: Karen Tamrazyan
   url: mailto:opendata@himsel.me
 ---
 
