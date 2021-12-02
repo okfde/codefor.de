@@ -1,7 +1,7 @@
 ---
 title: "Out in the Open - November 2021"
 author: "Tim Fangmeyer & Knut Hühne - OK Lab Berlin, Klara Juhl - OK Lab Osnabrück"
-date: '2021-11-31T17:20:00+01:00'
+date: '2021-11-30T17:20:00+01:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
 topic: community
 images:
