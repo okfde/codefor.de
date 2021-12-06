@@ -2,7 +2,7 @@
 layout: project
 lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/flaechengerechtigkeit.png
-title: FLÄCHENGERECHTIGKEITS-TOOL
+title: Flächengerechtigkeits-Tool
 
 
 links:
