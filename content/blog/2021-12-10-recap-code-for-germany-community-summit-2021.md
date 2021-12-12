@@ -15,7 +15,6 @@ type: blog
 
 Knapp 20 Ehrenamtliche und hauptamtliche Menschen aus dem Code for Germany Netzwerk trafen sich am 27. November 2021 in Berlin, zum ersten Community Summit seit Pandemiebeginn.
 
-
 Neben einem kleinen Meetup im Rahmen des [Hackday Moers](https://www.codeforniederrhein.de/hackday-2021/) war der Summit das erste bundesweite vor-Ort-Treffen der Code for Germany Community seit der [Erstauflage im Jahr 2019](https://codefor.de/blog/cfg-community-summit-2019/).
 
 Dieses Jahr kamen insgesamt 16 Teilnehmende, davon 13 Ehrenamtliche am Samstag, 27. November in den Räumen des bUm am Paul-Lincke-Ufer in Berlin unter 2G+ Regelung zusammen.
@@ -33,7 +32,6 @@ Neben der praktischen Umsetzung beschäftigten wir uns auch mit den politischen 
 
 Zwischen all diesen Aufgaben haben wir uns auf dem Summit viel Zeit genommen um miteinander zu reden, zu diskutieren und endlich einmal wieder vor Ort zusammen zu kommen. In kleiner Runde mit 2G+ hatten wir entspannte Stimmung und alle blieben soweit gesund!
 
-
 Finanziert wurde der Community Summit 2021 durch die [Körber Stiftung](https://www.koerber-stiftung.de/) im Rahmen des [Forum Offene Stadt Hamburg](https://offenestadt.info/). Wir danken der Körber Stiftung ganz herzlich für die Unterstützung! Für die Eventorganisation sorgte Code for Hamburg (https://codeforhamburg.org/). Leitlinien für das inhaltliche Programm entwarf der ehrenamtliche Communityrat von Code for Germany, in Zusammenarbeit mit den Hauptamtlichen der Open Knowledge Foundation. Danke dafür!
 
 Mehr Fotos gibt’s [auf FlickR](https://www.flickr.com/photos/okfde/albums/72157720220719758), und mit [#CfGsummit21](https://twitter.com/hashtag/CfGsummit21) findet ihr weitere Eindrücke vom Tag auf Twitter.
@@ -41,8 +39,8 @@ Mehr Fotos gibt’s [auf FlickR](https://www.flickr.com/photos/okfde/albums/7215
 
 Und zuguterletzt danken wir allen Teilnehmer:innen für einen großartigen Summit. Wir freuen uns schon auf das nächste Treffen!
 
+---
 
---
 Wer das Code for Germany Netzwerk unterstützen möchte, kann das sehr gerne durch [eine Spende](https://www.betterplace.org/de/projects/66473-unterstuetze-die-open-knowledge-labs) tun. <3
 
 [CC-BY 4.0]: https://creativecommons.org/licenses/by/4.0/
