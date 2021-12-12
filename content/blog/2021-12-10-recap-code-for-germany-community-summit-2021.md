@@ -36,7 +36,7 @@ Zwischen all diesen Aufgaben haben wir uns auf dem Summit viel Zeit genommen um 
 
 Finanziert wurde der Community Summit 2021 durch die [Körber Stiftung](https://www.koerber-stiftung.de/) im Rahmen des [Forum Offene Stadt Hamburg](https://offenestadt.info/). Wir danken der Körber Stiftung ganz herzlich für die Unterstützung! Für die Eventorganisation sorgte Code for Hamburg (https://codeforhamburg.org/). Leitlinien für das inhaltliche Programm entwarf der ehrenamtliche Communityrat von Code for Germany, in Zusammenarbeit mit den Hauptamtlichen der Open Knowledge Foundation. Danke dafür!
 
-Mehr Fotos gibt’s [auf FlickR](https://www.flickr.com/photos/okfde/albums/72157720220719758), und mit [#CfGsummit21](https://twitter.com/search?q=%23cfgsummit21&src=typed_query) findet ihr weitere Eindrücke vom Tag auf Twitter.
+Mehr Fotos gibt’s [auf FlickR](https://www.flickr.com/photos/okfde/albums/72157720220719758), und mit [#CfGsummit21](https://twitter.com/hashtag/CfGsummit21) findet ihr weitere Eindrücke vom Tag auf Twitter.
 
 
 Und zuguterletzt danken wir allen Teilnehmer:innen für einen großartigen Summit. Wir freuen uns schon auf das nächste Treffen!
