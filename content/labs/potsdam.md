@@ -14,11 +14,8 @@ members: []
 
 links:
 
-- name: Homepage
-  url: http://www.oklab-potsdam.de
-
-- name: Meetup
-  url: http://www.meetup.com/OK-Lab-Potsdam
+- name: GetTogether
+  url: https://gettogether.community/ok-lab-potsdam/
 
 - name: Twitter
   url: https://twitter.com/oklabpdm
