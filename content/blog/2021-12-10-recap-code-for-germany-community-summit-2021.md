@@ -21,18 +21,18 @@ Dieses Jahr kamen insgesamt 16 Teilnehmende, davon 13 Ehrenamtliche am Samstag, 
 
 Am Abend davor hatte ein Großteil der Leute schon die Möglichkeit genutzt und sich bei Pizza, Limo und anderen Drinks getroffen. Am Tag des Summits starteten wir Vormittags mit einer ausgiebigen Vorstellungsrunde und Berichten aus den lokalen Labs: Ehrenamtliche Communitymitglieder waren aus Hamburg, Berlin, Köln, Moers/ Niederrhein, Leipzig, Chemnitz, Kaiserslautern, Nürnberg und Ulm angereist! Die angeregten Gespräche über die innere Struktur und die äußere Wirkung von Code for Germany begleiteten uns bis über die Mittagspause.
 
-![Foto: Wir nutzten die Zeit für ausgiebigen Austausch und gemeinsames beisammensein. Foto von Wolfram Eberius, Lizenz [CC-BY 4.0]](recap-code-for-germany-community-summit-2021/cfgsummit21-austausch.jpg)
+![Foto: Wir nutzten die Zeit für ausgiebigen Austausch und gemeinsames beisammensein. Foto von Wolfram Eberius, Lizenz [CC-BY 4.0]](cfgsummit21-austausch.jpg)
 
 Am Nachmittag des Summits programmierten zwei ehrenamtliche Entwickler den [Koalitionstracker](https://okfde.github.io/koalitionstracker): eine Webanwendung, mit der sich nachvollziehen lässt, welche Versprechen die neue Regierung in ihrem Koalitionsvertrag macht - und auch deren tatsächliche Umsetzung dokumentiert. Der Koalitionstracker listet die Vorhaben der “Ampel”-Koalition aus SPD, Grüne und FDP und zeigt mit einem Farbcode den Status der Umsetzung, inklusive Nachweisen dafür. Aktuell hat das Team des Koalitionstrackersschon das erste von insgesamt 31 Kapiteln katalogisiert und alle Vorhaben zur Digitalpolitik gelistet.
 Wer den Code einsehen - oder auch daran mitarbeiten - möchte, findet das [Open Source Projekt auf Github](https://github.com/okfde/koalitionstracker).
 
-![Foto: In einer Arbeitsgruppe kartierten wir Wirkungssphären und gesellschaftliche Ziele unseres Netzwerks. Foto von Wolfram Eberius, Lizenz [CC-BY 4.0]](recap-code-for-germany-community-summit-2021/cfgsummit21-mapping.jpg)
+![Foto: In einer Arbeitsgruppe kartierten wir Wirkungssphären und gesellschaftliche Ziele unseres Netzwerks. Foto von Wolfram Eberius, Lizenz [CC-BY 4.0]](cfgsummit21-mapping.jpg)
 
 Neben der praktischen Umsetzung beschäftigten wir uns auch mit den politischen und gesellschaftlichen Zielen unseres Netzwerks. Wie wirken die Open Knowledge Labs? Auf welche gesellschaftlichen Ziele arbeitet Code for Germany hin? Diesen Fragen widmeten wir uns in einer kollaborativen Arbeitsgruppe. Wir kartierten wir die Angebote und Wirkungsspähren von Code for Germany, sowohl auf der Ebene der regionalen Labs als auch des bundesweiten Netzwerks.
 
 Zwischen all diesen Aufgaben haben wir uns auf dem Summit viel Zeit genommen um miteinander zu reden, zu diskutieren und endlich einmal wieder vor Ort zusammen zu kommen. In kleiner Runde mit 2G+ hatten wir entspannte Stimmung und alle blieben soweit gesund!
 
-![Foto: Beim Summit entstand der Koalitionstracker, ein Tool das die Umsetzung der neuen Koalitionsvorhaben nachhält. Foto von Wolfram Eberius, Lizenz [CC-BY 4.0]](recap-code-for-germany-community-summit-2021/cfgsummit21-koalitionstracker.jpg)
+![Foto: Beim Summit entstand der Koalitionstracker, ein Tool das die Umsetzung der neuen Koalitionsvorhaben nachhält. Foto von Wolfram Eberius, Lizenz [CC-BY 4.0]](cfgsummit21-koalitionstracker.jpg)
 
 Finanziert wurde der Community Summit 2021 durch die [Körber Stiftung](https://www.koerber-stiftung.de/) im Rahmen des [Forum Offene Stadt Hamburg](https://offenestadt.info/). Wir danken der Körber Stiftung ganz herzlich für die Unterstützung! Für die Eventorganisation sorgte Code for Hamburg (https://codeforhamburg.org/). Leitlinien für das inhaltliche Programm entwarf der ehrenamtliche Communityrat von Code for Germany, in Zusammenarbeit mit den Hauptamtlichen der Open Knowledge Foundation. Danke dafür!
 
