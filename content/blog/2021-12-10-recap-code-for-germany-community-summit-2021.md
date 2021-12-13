@@ -34,7 +34,7 @@ Zwischen all diesen Aufgaben haben wir uns auf dem Summit viel Zeit genommen um 
 
 ![Foto: Beim Summit entstand der Koalitionstracker, ein Tool das die Umsetzung der neuen Koalitionsvorhaben nachhält. Foto von Wolfram Eberius, Lizenz [CC-BY 4.0]](cfgsummit21-koalitionstracker.jpg)
 
-Finanziert wurde der Community Summit 2021 durch die [Körber Stiftung](https://www.koerber-stiftung.de/) im Rahmen des [Forum Offene Stadt Hamburg](https://offenestadt.info/). Wir danken der Körber Stiftung ganz herzlich für die Unterstützung! Für die Eventorganisation sorgte Code for Hamburg (https://codeforhamburg.org/). Leitlinien für das inhaltliche Programm entwarf der ehrenamtliche Communityrat von Code for Germany, in Zusammenarbeit mit den Hauptamtlichen der Open Knowledge Foundation. Danke dafür!
+Finanziert wurde der Community Summit 2021 durch die [Körber Stiftung](https://www.koerber-stiftung.de/) im Rahmen des [Forum Offene Stadt Hamburg](https://offenestadt.info/). Wir danken der Körber Stiftung ganz herzlich für die Unterstützung! Für die Eventorganisation sorgte [Code for Hamburg](https://codeforhamburg.org/). Leitlinien für das inhaltliche Programm entwarf der ehrenamtliche Communityrat von Code for Germany, in Zusammenarbeit mit den Hauptamtlichen der Open Knowledge Foundation. Danke dafür!
 
 Mehr Fotos gibt’s [auf FlickR](https://www.flickr.com/photos/okfde/albums/72157720220719758), und mit [#CfGsummit21](https://twitter.com/hashtag/CfGsummit21) findet ihr weitere Eindrücke vom Tag auf Twitter.
 
