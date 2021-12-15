@@ -3,11 +3,11 @@ type: blog # So lassen
 title: "Bodenfeuchtigkeit sichtbar machen: Innovationen für den Teutoburger Wald"
 author: Meike Wocken
 twitter_handle: "@CountessOfCount"
-excerpt: In Bielefeld wird die Feuchtigkeit des heimischen Waldbodens mit Sensoren gemessen. Ziel ist es, dafür eine Citizen Science-Community aufzubauen und die Daten für alle als Open Data und aufbereitet in einer Online-Karte zur Verfügung zu stellen.
+excerpt: "In Bielefeld wird die Feuchtigkeit des heimischen Waldbodens mit Sensoren gemessen. Ziel ist es, dafür eine Citizen Science-Community aufzubauen und die Daten für alle als Open Data und aufbereitet in einer Online-Karte zur Verfügung zu stellen."
 topic: community, project
 images:
  - imgname: teuto_team.jpg # Dieses Bild sollte im Verzeichnis static/blog existieren
-  - imgname: teuto_ranger_sensor.jpg
+ - imgname: teuto_ranger_sensor.jpg
 
 og_image: teuto_wald2.jpg # Der Dateiname vom Titelbild das kann das selbe sein wie unter images und sollte auch unter static/blog liegen
 og_description:  Ansicht Teutoburger Wald mit abgestorbenen Fichten. # Der alt Text zum Titelbild
