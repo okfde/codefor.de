@@ -6,6 +6,7 @@ twitter_handle: "@CountessOfCount"
 excerpt: "In Bielefeld wird die Feuchtigkeit des heimischen Waldbodens mit Sensoren gemessen. Ziel ist es, dafür eine Citizen Science-Community aufzubauen und die Daten für alle als Open Data und aufbereitet in einer Online-Karte zur Verfügung zu stellen."
 topic: community, project
 images:
+ - imgname: teuto_wald2.jpg
  - imgname: teuto_team.jpg # Dieses Bild sollte im Verzeichnis static/blog existieren
  - imgname: teuto_ranger_sensor.jpg
 
