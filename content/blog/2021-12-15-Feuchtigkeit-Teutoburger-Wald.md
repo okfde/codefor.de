@@ -2,7 +2,7 @@
 type: blog # So lassen
 title: "Bodenfeuchtigkeit sichtbar machen: Innovationen für den Teutoburger Wald"
 author: Meike Wocken
-twitter_handle: @CountessOfCount 
+twitter_handle: "@CountessOfCount"
 excerpt: In Bielefeld wird die Feuchtigkeit des heimischen Waldbodens mit Sensoren gemessen. Ziel ist es, dafür eine Citizen Science-Community aufzubauen und die Daten für alle als Open Data und aufbereitet in einer Online-Karte zur Verfügung zu stellen.
 topic: community, project
 images:
