@@ -37,7 +37,7 @@ Code for Bielefeld, eine Gruppe von IT-affinen Bielefelder:innen, die sich ehren
 
 Zurzeit sind 8 Aktive dabei, die richtigen Sensoren auszuwählen, um Bodenfeuchtigkeit zu messen. Ein erster Prototyp sendet bereits Daten aus einem Garten heraus. Die Weitergabe der Daten erfolgt mittels LoRaWAN, einer Funktechnologie, die es schafft, sehr energiesparsam kleine Datenmengen über weite Strecken zu verschicken. Das ermöglicht, dass die Sensoren Batteriebetrieben sind und auf einer weiten Fläche verteilt stehen können. Batterielaufzeiten von mehreren Jahren sind mit dieser Technologie keine Seltenheit. Zur Weitergabe der Daten mittels LoRaWAN wird die Infrastruktur der The Things Network-Community verwendet. 
 
-![Team](https://github.com/okfde/codefor.de/blob/main/static/blog/teuto_team.JPG)
+![Team](teuto_team.JPG)
 _Treffen der Aktiven, v.l.n.r. Matthias Fischer, Simon Bekemeier, Meike Wocken, Burkhard Noltensmeier, Clemens Knost, Julian Nowainski. Nicht im Bild: Christoph Jürgensmeier, Till Voß.  Foto: Code for Bielefeld._
 
 ## Citizen Science
@@ -48,7 +48,7 @@ Ein Ziel ist es, dass am Ende ein kostengünstiger Sensor, evtl. auch als Do-it-
 
 Die Idee ist auch in der Open Innovation Citizen-Community geteilt worden. Innovativ ist, neben den technologischen Aspekten des Einsatzes von Sensorik und LoRaWAN-Funktechnologie, auch der Citizen Science- und Open Data-Ansatz. Open Data bedeutet, dass die gesammelten Daten allen interessierten Personen und Institutionen zur Verfügung stehen und genutzt werden können. Mit der Nutzung der Daten können weitere Innovationen entstehen, z.B. eine datengesteuerte Waldbewirtschaftung oder anhand quantitativer Kriterien optimal gewählte Standorte für bestimmte Baumarten. Hier stehen wir mit dem Ranger des Stadtgebiets Bielefeld, Aaron Gellern, vom Regionalforstamt Ostwestfalen-Lippe in Kontakt, um die richtigen Daten auch für weiterführende Fragestellungen zu sammeln.  
 
-![Ranger](https://github.com/okfde/codefor.de/blob/main/static/blog/teuto_ranger_sensor.jpg)
+![Ranger](teuto_ranger_sensor.jpg)
 _Vor-Ort-Termin mit Aaron Gellern am Eisernen Anton in Bielefeld. Aaron Gellern hält einen Bodenfeuchtigkeitssensor in der Hand (Dragino LSE01). Foto: Code for Bielefeld._
 
 ## Erfahrungen aus anderen Regionen
