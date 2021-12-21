@@ -1,7 +1,7 @@
 ---
 layout: project
 lab: [darmstadt]
-imgname: darmstadt/2021-12-21-ars-tool.png
+imgname: darmstadt/2021-12-21-ars-tool.jpg
 title: ARS-Tool
 status: Laufend
 draft: false
