@@ -13,5 +13,17 @@ links:
 - url: #add url
   name: Code
 
+collaborators:
+- name: Kai # change
+  links:
+  - url: https://twitter.com/Kai # change
+    name: Twitter
+  - url: https://github.com/Kai # change
+    name: GitHub
+- name: Olf # change
+
+tags:
+- Mobilität # change or remove
+
 ---
 <!--short project description here-->
