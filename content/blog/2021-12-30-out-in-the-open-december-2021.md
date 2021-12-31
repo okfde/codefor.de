@@ -5,9 +5,9 @@ date: '2021-12-30T19:45:00+01:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
 topic: community
 images:
-- imgname: out-in-the-open-2021-11/header.jpg
-  attribution: Foto von [Tim Mossholder](https://unsplash.com/@timmossholder) auf [Unsplash](https://unsplash.com/photos/JfO62I4YRnY)
-og_image: out-in-the-open-2021-11/header.jpg
+- imgname: out-in-the-open-2021-12-header.jpg
+  attribution: Foto von [Prateek Katyal](https://unsplash.com/@prateekkatyal) auf [Unsplash](https://unsplash.com/photos/H5jDIP0wLuA)
+og_image: out-in-the-open-2021-12-header.jpg
 type: blog
 ---
 Hatten wir im letzten Monat noch recht abstrakt einige Artikel über die Nachteile der modernen IT-Infrastruktur verlinkt, die in großen Teilen auf der kaum wertgeschätzten Arbeit von wenigen Open Source Entwicklern beruht, erhielt das Thema [mit der Entdeckung der gravierenden Log4j-Schwachstelle](https://www.spiegel.de/netzwelt/web/log4-j-schwachstelle-ja-leute-die-scheisse-brennt-lichterloh-a-760bd03d-42d2-409c-a8d2-d5b13a9150fd) eine sehr konkrete Dimension: Plötzlich wurde Open Source und dessen (mangelnde) Förderung auch in den deutschen Medien [wie der FAZ](https://www.faz.net/aktuell/wirtschaft/digitec/sicherheitsluecke-log4j-was-spricht-fuer-und-gegen-freie-software-17684344.html) oder [dem Bayrischen Rundfunk](https://www.br.de/nachrichten/netzwelt/log4j-sicherheitsluecke-der-ruf-nach-open-source-foerderung,SrZk0fP) diskutiert. Für das Jahr 2022 hegen wir den Wunsch, dass die Debatte über die Wertschätzung Freier Software und Offener Daten noch breiter geführt wird - und das, ohne dafür einen negativen Auslöser wie die Log4j-Schwachstelle zu benötigen.
