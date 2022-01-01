@@ -1,5 +1,5 @@
 ---
-title: "Dezember 2021 - Die log4j-Sicherheitslücke und ihre Folgen"
+title: "Dezember 2021 – Die log4j-Sicherheitslücke und ihre Folgen"
 author: "Tim Fangmeyer & Knut Hühne - OK Lab Berlin, Klara Juhl - OK Lab Osnabrück"
 date: '2021-12-30T19:45:00+01:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
