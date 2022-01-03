@@ -22,5 +22,5 @@ Die Anzahl an Seiten die offene Daten bereitstellen wächst mit jedem Jahr etwas
 
 Der Präsident der [FSFE](https://fsfe.org/index.de.html) Matthias Kirschner hat ein Kinderbuch geschrieben: "[Ada & Zangemann - Ein Märchen über Software, Skateboards und Himbeereis](https://fsfe.org/news/2021/news-20211129-01.de.html)". Die liebevoll illustrierte Geschichte erzählt von einem allesbeherrschenden Technik-Monopolisten und von der kleinen Heldin Ada, die sich von diesem nicht unterkriegen lassen möchte. Das Konzept der freien Software wird kindgerecht und in einfacher Sprache vermittelt und somit auch Menschen ohne tiefergehende IT-Kenntnisse zugänglich gemacht. Eine weitere Besonderheit: Das Buch ist unter der offenen Lizenz "CC BY-SA 3.0" erschienen.
 
-## Uns sonst so?
+## Und sonst so?
 Man sollte glauben in der deutschen Hauptstadt sei bereits alles, von Graffiti bis hin zu Flohmärkten, mehrfach kartiert und verbloggt. Aber nein, auch in Berlin befanden sich bis jetzt noch weiße Flecken auf der Stadtkarte, zumindest wenn es um Ziegen geht. Die Seite [Goats of Berlin](https://goatsofberlin.com/) bietet eine Übersicht aller besuchbaren Ziegengehege im Stadtraum. Vervollständigt wird die Seite von detaillierten Beschreibungen der Minizoos und Schnappschüssen der besonders bei Kindern beliebten Paarhufer.
