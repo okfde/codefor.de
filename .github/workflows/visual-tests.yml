@@ -14,8 +14,6 @@ jobs:
       - name: Build
         run: hugo
       - name: Percy Test
-        uses: percy/snapshot-action@v0.1.2
-        with:
-          build-directory: "public/"
+        run: npx @percy/cli snapshot public/
         env:
           PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}

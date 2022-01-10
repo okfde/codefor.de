@@ -52,3 +52,9 @@
     z-index: 20000;
     width: 100%;
   }
+
+@media only percy {
+  .leaflet-tile-container {
+    display: none !important;
+  }
+}
