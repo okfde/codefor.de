@@ -21,7 +21,7 @@ Niedersachsen bislang eines der wenigen Bundesländer, die der Verwaltungsverein
 nicht beigetreten sind - der Beschluss ist also ein richtiger und wichtiger Schritt.
 
 Einen Schritt weiter geht das Land Sachsen, das als eines der letzten Bundesländer ohne
-Informationsfreiheitsgesetz nur einen Gesetzentwurf zur Schaffung eines Transparenzgesetztes in den
+Informationsfreiheitsgesetz nun einen Gesetzentwurf zur Schaffung eines Transparenzgesetztes in den
 Landtag eingebracht hat. Die [Einschätzung von
 FragDenStaat](https://fragdenstaat.de/blog/2022/01/19/sachsisches-transparenzgesetz/) fällt leider
 mehr als nüchtern aus. Die Kritik ist dabei vielfältig und reicht vom Geltungsbereich über die
@@ -67,7 +67,8 @@ Sprache abrufbar.](https://codefor.de/blog/digitales-ehrenamt-in-der-flaeche/) D
 von der Kartierung noch nicht erfasster Wohngebäude in Deutschland durch die OpenStreetMap-Community
 und die daraus gewonnenen Erkenntnisse.
 
-## Und sonst so?  Ein Bereich, der nichts mit Software zu tun hat, in dem aber auch der Begriff
+## Und sonst so? 
+Ein Bereich, der nichts mit Software zu tun hat, in dem aber auch der Begriff
 "Open Source" auftaucht, ist die sogenannte [Open Source Intelligence
 (OSINT)](https://de.wikipedia.org/wiki/Open_Source_Intelligence). Unter dem Begriff versteht man das
 Sammeln und Auswerten von frei verfügbaren Informationen mit dem Ziel der Datengewinnung, also
