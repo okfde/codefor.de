@@ -21,7 +21,7 @@ Niedersachsen bislang eines der wenigen Bundesländer, die der Verwaltungsverein
 nicht beigetreten sind - der Beschluss ist also ein richtiger und wichtiger Schritt.
 
 Einen Schritt weiter geht das Land Sachsen, das als eines der letzten Bundesländer ohne
-Informationsfreiheitsgesetz nun einen Gesetzentwurf zur Schaffung eines Transparenzgesetztes in den
+Informationsfreiheitsgesetz nun einen Gesetzentwurf zur Schaffung eines Transparenzgesetzes in den
 Landtag eingebracht hat. Die [Einschätzung von
 FragDenStaat](https://fragdenstaat.de/blog/2022/01/19/sachsisches-transparenzgesetz/) fällt leider
 mehr als nüchtern aus. Die Kritik ist dabei vielfältig und reicht vom Geltungsbereich über die
@@ -50,7 +50,7 @@ Radinfrastruktur und Verkehrswende abbilden will. Im [neusten
 Blogpost](https://supaplexosm.github.io/strassenraumkarte-neukoelln/posts/2021-12-31-micromap-update)
 geht es um die Fortschritte, die jetzt gemacht wurden. So werden z. B. farbige Radwegmarkierungen
 direkt angezeigt, aber auch bei der Darstellung von Details wie Zebrastreifen und Sperrflächen
-wurden Fortschritte erzielt. Es lohnt sich, einen Blick auf die vielen schönen Besipiele im Artikel
+wurden Fortschritte erzielt. Es lohnt sich, einen Blick auf die vielen schönen Beispiele im Artikel
 zu werfen.
 
 Einen Kommentar zur Datenlage rund um die Erfassung von Corona-Infektionen und deren Varianten hat
@@ -65,7 +65,7 @@ Der bereits in einer früheren Ausgabe von Out in the Open erwähnte, englischsp
 "Mapping 360,000 buildings in Germany" ist [auf dem Blog von Code for Germany nun auch in deutscher
 Sprache abrufbar.](https://codefor.de/blog/digitales-ehrenamt-in-der-flaeche/) Der Bericht handelt
 von der Kartierung noch nicht erfasster Wohngebäude in Deutschland durch die OpenStreetMap-Community
-und die daraus gewonnenen Erkenntnisse.
+und den daraus gewonnenen Erkenntnissen.
 
 ## Und sonst so? 
 Ein Bereich, der nichts mit Software zu tun hat, in dem aber auch der Begriff
