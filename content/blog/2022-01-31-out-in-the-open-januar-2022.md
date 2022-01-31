@@ -7,7 +7,7 @@ topic: community
 images:
 - imgname: out-in-the-open-januar-2022/header.webp
   attribution: Foto von [Tim Mossholder](https://unsplash.com/@timmossholder) auf [Unsplash](https://unsplash.com/photos/5kCKpKHvWt4)
-og_image: out-in-the-open-januar-2022/header.webp
+og_image: out-in-the-open-januar-2022/header.jpg
 type: blog
 ---
 Das neue Jahr beginnt mit einer erfreulichen Nachricht: Das Land Niedersachsen ist dem [Datenportal
