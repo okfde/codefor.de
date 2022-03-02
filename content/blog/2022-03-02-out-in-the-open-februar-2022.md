@@ -5,9 +5,9 @@ date: '2022-03-02T09:45:00+01:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
 topic: community
 images:
-- imgname: out-in-the-open-januar-2022/header.webp
-  attribution: Foto von [Tim Mossholder](https://unsplash.com/@timmossholder) auf [Unsplash](https://unsplash.com/photos/5kCKpKHvWt4)
-og_image: out-in-the-open-januar-2022/header.jpg
+- imgname: out-in-the-open-2022-02-header.jpg
+  attribution: Foto von [Eriel Suarez](https://unsplash.com/@erielsuarez) auf [Unsplash](https://unsplash.com/photos/Rthm2XMBi4s)
+og_image: out-in-the-open-2022-02-header.jpg
 type: blog
 ---
 Der Landtag Schleswig-Holstein hat am 23. Februar ein neues [Digitalisierungsgesetz beschlossen](https://www.schleswig-holstein.de/DE/Landesregierung/V/_startseite/Artikel2022/220221_digitalisierungsgesetz.html). Mit dem neuen Gesetz soll es zum Standard werden, wichtige Behördengänge komplett online erledigen zu können. Zudem sollen noch mehr Informationen der Landesverwaltung im landeseigenen Open-Data-Portal veröffentlicht werden. Ob das Gesetz tatsächlich Vorbildcharakter aufweist, offene Daten zum Standard zu machen? Das wird sich in den nächsten Monaten zeigen.
