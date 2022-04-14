@@ -38,7 +38,7 @@ Impressum
 	<dt>EMail:</dt>
 	<dd><a href="mailto:info@codefor.de">info@codefor.de</a></dd>
 	<dt>Telefon:</dt>
-	<dd><a href="tel:+49 30 9789423">+49 30 97894230</a></dd>
+	<dd><a href="tel:+49 30 97894230">+49 30 97894230</a></dd>
 
 </dl>
 
