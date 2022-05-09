@@ -17,8 +17,6 @@ members:
   username_github: mandyr
 
 links:
-- name: Meetup
-  url: http://www.meetup.com/OK-Lab-Heidelberg/
 - name: Pad
   url: https://pad.ccc-mannheim.de/p/OKL-HD_Portal
 - name: Twitter
