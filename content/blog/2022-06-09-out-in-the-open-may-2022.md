@@ -27,7 +27,7 @@ Dazu passend forderte Arne Semsrott von FragDenStaat schon Anfang des Monats im 
 
 Allerdings stellte Mario Wiedemann, Open-Data-Experte bei der Bertelsmann Stiftung, im Nachgang zum Open-Data-Barcamp in Bochum am 11. Mai in seinem [Standpunkt](https://background.tagesspiegel.de/smart-city/open-data-verantwortliche-stehen-allein-auf-weiter-flur) fest, dass ohne gesetzliche Grundlagen, IT-Investitionen und den politischen Willen die Akteur:innen das Thema nicht voranbringen können.
 
-Auch wenn seit 20. Mai es einen [Kompromissvorschlag](https://twitter.com/verschwoerhaus/status/1527734176576901122) gibt, macht der Artikel vom 6. Mai zum [Streit um Verschwörhaus in Ulm](https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/neues-nutzungskonzept-fuer-verschwoerhaus-ulm-100.html) leider deutlich, dass mancher politische Wille nur auf die Vereinamung und buchstäblichen Verdrängung jahrelanger ehrenamtlicher Arbeit abzielt. Statt die geleistete ehrenamtliche Aktivitäten zu wertschätzen, Ideen aufzugreifen und verwaltungsseitig zuzuarbeiten, stehen das eigene Image und wirtschaftliche Interessen im Vordergrund.
+Auch wenn es seit 20. Mai einen [Kompromissvorschlag](https://twitter.com/verschwoerhaus/status/1527734176576901122) gibt, macht der Artikel vom 6. Mai zum [Streit um Verschwörhaus in Ulm](https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/neues-nutzungskonzept-fuer-verschwoerhaus-ulm-100.html) leider deutlich, dass mancher politische Wille nur auf die Vereinnahmung und buchstäblichen Verdrängung jahrelanger ehrenamtlicher Arbeit abzielt. Statt die geleisteten ehrenamtlichen Aktivitäten zu wertschätzen, Ideen aufzugreifen und verwaltungsseitig zuzuarbeiten, stehen das eigene Image und wirtschaftliche Interessen im Vordergrund.
 
 Dass das auch anders geht, zeigt Claus Arndt, Beigeordneter der Stadt Moers, der die eingangs erwähnte von herr_ole angestoßene OpenData-Debatte aufgriff und seine Punkte aus Sicht seiner Kommune [formulierte](https://twitter.com/derarndt/status/1527205519248728064).
 
@@ -37,15 +37,15 @@ Auch im Rahmen der Gulaschprogrammiernacht wurde vom Chaosradio Freiburg ein [Ge
 
 Dass Wissensvermittlung nicht immer dröge sein muss, beweist das selbstironische Erklärvideo [Linked Open Data, how does it work](https://www.youtube.com/watch?v=0m79yDb4AzE).
 
-In der Stadt Zürich sind seit 1. September 2021 gilt durch Stadtratsbeschluss der Grundsatz "Open by default". Zudem wird für 99% der Datensätze die CC-0-Lizenz verwendet. Mehr dazu im [Vortrag](https://speakerdeck.com/metaodi/data-governance-plus-ogd-einfuhrung) von Stefan Oderbolz aus dem Open Data Team Zürich.
+In der Stadt Zürich gilt seit 1. September 2021 durch Stadtratsbeschluss der Grundsatz "Open by default". Zudem wird für 99% der Datensätze die CC-0-Lizenz verwendet. Mehr dazu im [Vortrag](https://speakerdeck.com/metaodi/data-governance-plus-ogd-einfuhrung) von Stefan Oderbolz aus dem Open Data Team Zürich.
 
 ## 9-Euro-Ticket
 
 Wie es Ingwar Pero in seinem [Tweet](https://twitter.com/Perowinger94/status/1532002884631638017?t=EYeX-YLzuvUjnjAT8nkaIg&s=19) schön auf den Punkt bringt: unser heiliges Tarif- und Verkehrsverbünde Reich deutscher Nation spielt mindestens drei Monate keine Rolle mehr.
 
-Für die interessierten 9-Euro-Ticket-Nutzer\:innen hat [direkt.bahn.guru](http://direkt.bahn.guru) jetzt eine Filter-Option, um nur Züge des Nah- und Regionalverkehrs anzuzeigen, wie Julius aber hinweist [berichtet](https://twitter.com/juliustens/status/1529322873827074048), sollte man in jedem Fall nochmal auf [bahn.de](http://bahn.de) schauen, ob das 9-Euro-Ticket auch für den Zug gilt, in den man einsteigt, da in den Daten manche Züge als Regionalbahn kategorisiert sind, auch wenn das Ticket dort nicht gilt (z.B. Flixtrain). Ein ähnliches [Tool](https://interaktiv.morgenpost.de/9-Euro-Ticket-Bahn-Reiseziel-Karte-Streckenplaner-ab-Berlin/) der Berliner Morgenpost bzw. funkeinteraktiv kann zudem durch eine Umsteige-Option mehr Halte anzeigen.
+Für die interessierten 9-Euro-Ticket-Nutzer\:innen hat [direkt.bahn.guru](http://direkt.bahn.guru) jetzt eine Filter-Option, um nur Züge des Nah- und Regionalverkehrs anzuzeigen, wie Julius aber [berichtet](https://twitter.com/juliustens/status/1529322873827074048), sollte man in jedem Fall nochmal auf [bahn.de](http://bahn.de) schauen, ob das 9-Euro-Ticket auch für den Zug gilt, in den man einsteigt, da in den Daten manche Züge als Regionalbahn kategorisiert sind, auch wenn das Ticket dort nicht gilt (z.B. Flixtrain). Ein ähnliches [Tool](https://interaktiv.morgenpost.de/9-Euro-Ticket-Bahn-Reiseziel-Karte-Streckenplaner-ab-Berlin/) der Berliner Morgenpost bzw. funkeinteraktiv kann zudem durch eine Umsteige-Option mehr Halte anzeigen.
 
-Auch in diesem Zusammenhang ist in Erinnerung zu rufen, dass [Offene Daten und Mobilität](https://video.codefor.de/w/2mL8H455YGVx2JM5QSXPhJ) leider keine Selbstverständlichkeit sind und immer noch viele Verkehrverbünde ihre Fahrpläne nicht als OpenData bereitstellen, wie [rettedeinennahverkehr.de](https://rettedeinennahverkehr.de/) zurecht anprangert.
+Auch in diesem Zusammenhang ist in Erinnerung zu rufen, dass [Offene Daten und Mobilität](https://video.codefor.de/w/2mL8H455YGVx2JM5QSXPhJ) leider keine Selbstverständlichkeit sind und immer noch viele Verkehrsverbünde ihre Fahrpläne nicht als OpenData bereitstellen, wie [rettedeinennahverkehr.de](https://rettedeinennahverkehr.de/) zurecht anprangert.
 
 ## Und sonst noch?
 
