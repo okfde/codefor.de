@@ -61,6 +61,9 @@ Ed Hawkings stellt dankenswerterweise Visualisierungen zum Klimawandel [offen zu
 * 13.06.: **Das 5. Kommunale Open-Data-Netzwerktreffen, Thema Metadaten**
 https://blog-smartcountry.de/veranstaltung-austauschformat-fuer-open-data-in-kommunen/
 
+* 20.06.: **Kick-off Treffen fürs neue OK Lab Kaiserslautern**
+https://codefor.de/kaiserslautern/
+
 * 24.06.: **Coding Da Vinci Baden-Württemberg Abschlussveranstaltung**
 https://codingdavinci.de/de/events/baden-wuerttemberg-2022
 
