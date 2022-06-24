@@ -8,6 +8,7 @@ markerposition: left
 
 aliases:
 - /kaiserslautern
+- /kl
 
 members:
 - name: Falco Nogatz

@@ -8,6 +8,7 @@ markerposition: left
 
 aliases:
 - /ulm
+- /ul
 
 members:
 

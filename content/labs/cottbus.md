@@ -8,6 +8,7 @@ showsignup: true # true | false
 
 aliases:
 - /cottbus
+- /cb
 
 members:
 - name: "Benji"

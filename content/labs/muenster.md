@@ -6,6 +6,7 @@ long: 7.62
 
 aliases:
 - /muenster
+- /ms
 
 members:
 

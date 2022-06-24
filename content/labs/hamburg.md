@@ -7,6 +7,7 @@ markerposition: left
 
 aliases:
 - /hamburg
+- /hh
 
 members:
 

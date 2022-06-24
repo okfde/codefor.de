@@ -7,6 +7,7 @@ markerposition: right
 
 aliases:
 - /dresden
+- /dd
 
 members:
 
