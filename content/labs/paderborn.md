@@ -6,6 +6,7 @@ hide: true
 
 aliases:
 - /paderborn
+- /pb
 
 members:
 

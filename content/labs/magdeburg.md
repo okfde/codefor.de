@@ -6,6 +6,7 @@ long: 11.62941
 
 aliases:
 - /magdeburg
+- /md
 
 members:
 

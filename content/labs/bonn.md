@@ -7,6 +7,7 @@ markerposition: right
 
 aliases:
 - /bonn
+- /bn
 
 members:
 

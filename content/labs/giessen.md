@@ -7,6 +7,7 @@ markerposition: right
 
 aliases:
 - /giessen
+- /gi
 
 showsignup: false
 

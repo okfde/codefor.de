@@ -8,6 +8,7 @@ markerposition: left
 
 aliases:
 - /heidelberg
+- /hd
 
 members:
 - name: Jasper Schmidt

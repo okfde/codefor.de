@@ -7,6 +7,7 @@ markerposition: right
 
 aliases:
 - /heilbronn
+- /hn
 
 members:
 - name: Adrian Stabiszewski
