@@ -27,7 +27,7 @@ Noch gibt es weder einen festen Turnus noch einen Ort für die Lab-Meetings, tro
 
 Apropos Website: Zur Vorbereitung der Lab-Gründung [besuchten](https://www.herzlich-digital.de/herzlich-digital-on-tour/) Marius und Falco im Mai die OKF in Berlin und wurden verabschiedet mit den Worten „Wir sind gespannt, was sich dann auf Eurem Lab-Logo befindet!“. Trotz aller Verbundenheit zum Fußball dient als Erkennungszeichen für die Stadt Kaiserslautern ihr Rathaus, das zu seiner Erbauung als höchstes in Deutschland galt und im Hexagon durch den Pfälzer Wald eingerahmt wird. Die Verweise auf das runde Leder wurden sich für Text und [Commits](https://github.com/okfde/codefor.de/pull/347) aufgehoben 😄.
 
-Vielen Dank an alle, die beim Kickoff-Meeting dabei ware. Es war ein wirklich schöner Auftakt! Danke auch für die Unterstützung durch die [KL.digital](https://www.herzlich-digital.de/) und die OKF.
+Vielen Dank an alle, die beim Kickoff-Meeting dabei waren. Es war ein wirklich schöner Auftakt! Danke auch für die Unterstützung durch die [KL.digital](https://www.herzlich-digital.de/) und die OKF.
 
 <hr>
 Fotos: Lara Kahl/KL.digital GmbH; Martin Memmel
