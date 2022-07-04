@@ -24,6 +24,7 @@ tags:
 
 draft: false # So lassen sonst wird der Artikel nicht veröffentlicht
 ---
+
 # Besichtigung des Bielefelder Reallabors
 
 Am 9. Juni 2022 hatte sich Jens Edler die Zeit genommen, um einer Gruppe interessierter Bürger:innen auf Einladung von Code for Bielefeld das Bielefelder Reallabor zu zeigen. 16 Personen sind unserer Einladung gefolgt und haben sich erklären lassen, was ein Reallabor ist.
