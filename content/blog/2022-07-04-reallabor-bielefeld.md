@@ -2,8 +2,8 @@
 type: blog # So lassen
 title: Besichtigung des Bielefelder Reallabors
 author: Meike Wocken  # wenn nicht vorhanden steht da dann codeforde
-twitter_handle: @CountessOfCount # wenn nicht vorhanden steht da dann @codeforde
-excerpt: Am 9. Juni 2022 hat Jens Edler vom Bielefelder Digitalisierungsbüro einer Gruppe interessierter Bürger:innen auf Einladung von Code for Bielefeld das Bielefelder Reallabor gezeigt. Im Blogbeitrag ist der Spaziergang durch das Reallabor in der Innenstadt zusammengefasst.
+twitter_handle: "@CountessOfCount" # wenn nicht vorhanden steht da dann @codeforde
+excerpt: "Am 9. Juni 2022 hat Jens Edler vom Bielefelder Digitalisierungsbüro einer Gruppe interessierter Bürger:innen auf Einladung von Code for Bielefeld das Bielefelder Reallabor gezeigt. Im Blogbeitrag ist der Spaziergang durch das Reallabor in der Innenstadt zusammengefasst."
 topic: story # zb event, community, default, interview, project, story, toolbox
 images:
  - imgname: reallabor-bielefeld/reallabor_1.jpg
