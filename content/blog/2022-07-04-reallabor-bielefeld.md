@@ -27,14 +27,14 @@ draft: false # So lassen sonst wird der Artikel nicht veröffentlicht
 
 # Besichtigung des Bielefelder Reallabors
 
-Am 9. Juni 2022 hatte sich Jens Edler die Zeit genommen, um einer Gruppe interessierter Bürger:innen auf Einladung von Code for Bielefeld das Bielefelder Reallabor zu zeigen. 16 Personen sind unserer Einladung gefolgt und haben sich erklären lassen, was ein Reallabor ist.
+Am 9. Juni 2022 hatte sich Jens Edler vom Digitalisierungsbüro der Stadt Bielefeld die Zeit genommen, um einer Gruppe interessierter Bürger:innen auf Einladung von Code for Bielefeld das Bielefelder Reallabor zu zeigen. 16 Personen sind unserer Einladung gefolgt und haben sich erklären lassen, was ein Reallabor ist.
 
 Das Ziel vom Reallabor in der Bielefelder Innenstadt ist vor allem das Testen von Sensorik für unterschiedliche Anwendungsfälle einer Smart City. Die Daten sind frei zugänglich auf dem [Dashboard](https://dashboard.digitalsein.com/) einsehbar, stehen aber nicht als Open Data zur Weiterverwendung zur Verfügung. 
 
 Die Besichtigung startete auf dem Süsterplatz. Hier hängt unter anderem eine [Sensebox](https://sensebox.de), deren Umweltdaten über LoRaWAN weitergeschickt werden, um sie dann auf dem oben genannten Grafana-Dashboard darzustellen. Die Visualisierung wurde vom Fraunhofer IOSB-INA aus Lemgo erstellt.
 
-![Start](reallabor_1.jpg)
-_Start auf dem Süsterplatz in Bielefeld. Jens Edler zeigt die Sensoren.  Foto: Code for Bielefeld._
+#![Start](reallabor_1.jpg)
+#_Start auf dem Süsterplatz in Bielefeld. Jens Edler zeigt die Sensoren.  Foto: Code for Bielefeld._
 
 Neben Umweltdaten gibt es auch einen Test zur Messung von Passantenfrequenzen: DSGVO konform werden Smartphone-Daten anonymisiert ausgewertet. Ob die Technik auch so funktioniert, wie es der Hersteller verspricht, validiert das Projektteam unter anderem auch mit gezielten Simulationen von Passanten-Gruppen durch Studierende und manuelle Zählungen. 
 
