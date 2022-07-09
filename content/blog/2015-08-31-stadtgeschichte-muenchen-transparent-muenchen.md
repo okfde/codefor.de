@@ -1,6 +1,7 @@
 ---
 author: Eileen Wagner
 type: blog
+lab: [muenchen]
 color: cyan #one of: red, blue, green, cyan
 pattern: 1 #one of: 1, 2, 3, 4
 og-image: /blog/stories/Muenchen-Transparent.png # used for facebook & twitter card

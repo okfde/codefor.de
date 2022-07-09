@@ -11,6 +11,7 @@ images:
  - imgname: reallabor-bielefeld/reallabor_3.jpg
  - imgname: reallabor-bielefeld/reallabor_4.jpg
  - imgname: reallabor-bielefeld/reallabor_5.jpg
+lab: [bielefeld] #needed for Aggregation on Lab-Page
  
 og_image: reallabor-bielefeld/reallabor_1.jpg
 og_description:  Jens Edler zeigt und erklärt die Sensoren im Bielefelder Reallabor. # Der alt Text zum Titelbildame: bild.jpg # Dieses Bild sollte im Verzeichnis static/blog existieren

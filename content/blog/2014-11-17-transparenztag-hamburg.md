@@ -5,6 +5,7 @@ title: Transparenztag in Hamburg am 23.11.
 author: Fiona
 excerpt: Das OK Lab Hamburg lädt ein zum Transparenztag. Mit EntwicklerInnen und JournalistInnen wird das neue Portal erkundet und ausprobiert.
 topic: event
+lab: [hamburg]
 
 images:
 - imgname: codeforhamburg.png

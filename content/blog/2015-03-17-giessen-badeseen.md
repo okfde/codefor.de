@@ -4,6 +4,7 @@ type: blog
 title: OK Lab Gießen beim hessischen Erfahrungsaustausch für Badegewässer
 author: Marco und Vince
 topic: project
+lab: [giessen]
 
 images:
 - imgname: cfgibadeseen2.jpg

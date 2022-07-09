@@ -1,6 +1,7 @@
 ---
 author: Eileen Wagner
 type: blog
+lab: [berlin]
 lang: en
 color: red #red, blue, green, cyan
 pattern: 2 #one of: 1, 2, 3, 4

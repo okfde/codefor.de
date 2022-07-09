@@ -5,6 +5,7 @@ title: Code for Journalism
 author: Eileen
 excerpt: Interview mit Vanessa Wormer
 topic: interview
+lab: [heilbronn]
 
 images:
 - imgname: wormer.png

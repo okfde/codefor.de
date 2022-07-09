@@ -4,6 +4,7 @@ title: Open Data in Heilbronn - es tut sich was!
 author: Felix Ebert, Code for Heilbronn
 excerpt: Ein Antrag der SPD wurde einstimmig angenommen. Am 04.03. lädt Code for Heilbronn zum Open Data Day ein
 topic: story
+lab: [heilbronn]
 images:
 - imgname: rathaus-heilbronn.jpg
 draft: false

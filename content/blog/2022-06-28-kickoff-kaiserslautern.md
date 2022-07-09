@@ -4,6 +4,7 @@ title: "Runde Sache: In Kaiserslautern gibt's nun auch ein OK Lab!"
 author: Falco
 excerpt: Im Rahmen des Digitaltags haben sich vergangene Woche an Open Data interessierte Bürger\*innen getroffen und so den Weg für das erste OK Lab in Rheinland-Pfalz geebnet.
 topic: community
+lab: [kaiserslautern]
 
 images:
 - imgname: kaiserslautern/2022-06-20-kickoff/Anpfiff.jpg

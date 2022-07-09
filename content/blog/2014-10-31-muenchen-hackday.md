@@ -5,6 +5,7 @@ title: Code for Munich Hack Day
 author: Matt
 excerpt: Unser erster Hackathon - mach mit!
 topic: event
+lab: [muenchen]
 
 images:
 - imgname: hackathon-muenchen.png

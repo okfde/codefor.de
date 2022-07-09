@@ -4,6 +4,7 @@ title: Wahlsalons Check-In am 07. Juli in Köln
 author: Michael
 excerpt: Einladung zum zweiten Wahlsalon
 topic: event
+lab: [koeln]
 images:
 - imgname: wahlsalon-koeln.png
 draft: false
