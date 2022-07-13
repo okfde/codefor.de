@@ -5,6 +5,7 @@ title: Stephanie Kruger from Code for Puerto Rico shares lessons & experiences w
 author: Drew
 excerpt: Monday March 9, 2015 - Join Code for Germany for a unique & inspiring presentation by Stephanie Kruger, captain of the Code for Puerto Rico brigade. She will reflect on the past year of organizing, coding, and designing to improve her island.
 topic: event
+lab: [koeln]
 
 images:
 - imgname: stephanie-code-for-puerto-rico.png

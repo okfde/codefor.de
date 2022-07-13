@@ -4,6 +4,7 @@ title: Tech for Refugees
 author: Ulrike
 excerpt: Es gibt derzeit zahlreiche Tech-Projekte rund um Geflüchtete. Ulrike aus dem OK Lab Berlin hat angefangen, eine Übersicht zu erstellen, um die Vernetzung der Initiativen zu fördern und vorhandene Projekte besser auffindbar zu machen. Hier erklärt sie, wie sie das macht und wie ihr mithelfen könnt
 topic: project
+lab: [berlin]
 
 images:
 - imgname: refugees-welcome.png

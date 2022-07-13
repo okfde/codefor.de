@@ -4,6 +4,7 @@ title: Showroom Berlin - so war der dritte Wahlsalon
 author: Fiona
 excerpt: Am vergangenen Freitag fand in Berlin der dritte Wahlsalon statt. Im Showroom stellten sich spannende Civic Tech Projekte rund um die Wahl vor.
 topic: event
+lab: [berlin]
 
 images:
 - imgname: wahlsalon-3.png

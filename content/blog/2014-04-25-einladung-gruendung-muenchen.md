@@ -8,6 +8,7 @@ topic: event
 images:
 - imgname: muenchen/rathaus-muc.jpg
   sub: Münchner Rathaus (CC-by-sa blue-news.org on flickr)
+lab: [muenchen]
 
 ---
 

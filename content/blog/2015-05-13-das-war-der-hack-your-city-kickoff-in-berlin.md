@@ -5,6 +5,7 @@ title: Das war der Hack Your City Kickoff in Berlin
 author: Fiona
 excerpt: In Berlin haben Entwicklerinnen und Stadtforscher zwei Tage Projekte für die Stadt der Zukunft entworfen
 topic: event
+lab: [berlin]
 
 images:
 - imgname: hackyourcity-berlin.jpg

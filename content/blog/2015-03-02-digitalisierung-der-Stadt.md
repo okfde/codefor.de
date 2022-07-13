@@ -4,6 +4,7 @@ type: blog
 title: Digitalisierung der Stadt war Thema eines Projekts an der TU Berlin
 author: Sonia
 topic: event
+lab: [berlin]
 
 images:
 - imgname: stadtdernerds1.jpg

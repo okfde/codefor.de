@@ -4,6 +4,7 @@ title: Offene Daten in der Berliner Verwaltung
 author: Niels
 excerpt: Die Zuschneidung von Einzugsgebieten für Grundschulen ist ein komplexes Thema. Im Bezirk Tempelhof-Schöneberg in Berlin wird nun eine Anwendung pilotiert, die mit offenen Daten diese Gebiete algorithmisch optimiert.
 topic: story
+lab: [berlin]
 images:
 - imgname: einzugsgebiete.png
 ---

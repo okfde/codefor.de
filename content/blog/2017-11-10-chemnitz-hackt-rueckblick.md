@@ -4,6 +4,7 @@ title: "Chemnitz hackt 2017: Rückblick und Projektvorstellung"
 author: Ronny
 excerpt: Der erste (uns bekannte) Chemnitzer Hackathon vom 28. und 29. Oktober 2017 ist nun auch schon wieder vorbei. Dem einen oder anderen wird sicherlich interessieren, wie es so war, was für Projekte rausgekommen sind und ob es genug Pizza gab.
 topic: event
+lab: [chemnitz]
 
 draft: false
 images:

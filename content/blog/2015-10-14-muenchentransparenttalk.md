@@ -4,6 +4,7 @@ type: blog
 title: Vortrag auf den Open Government Tage der Stadt München von Bernd Oswald
 author: Matt
 topic: interview
+lab: [muenchen]
 
 ---
 

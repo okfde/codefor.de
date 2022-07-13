@@ -9,6 +9,7 @@ topic: event
 images:
 - imgname: chemnitz/2014-04-14-First-meetup.jpg
   sub: Interessierte
+lab: [chemnitz]
 
 ---
 
