@@ -55,7 +55,7 @@
 {{ $lab_projects := (where (where .Site.RegularPages "Layout" "==" "project") ".Params.lab" "intersect" $filename)}}
 {{ if len $lab_projects | ne 0 }}
 
-<h2 class="headline-brackets red">Projekte</h2>
+<h2 class="headline-brackets red" id="projekte">Projekte</h2>
 <div class="row justify-content-center mb-5 mb-lg-7">
     <div class="col-22 col-md-18">
         <div class="row">
@@ -78,7 +78,7 @@
 {{ $filename := slice .File.BaseFileName }}
 {{ $lab_blogposts := (where (where .Site.RegularPages "Section" "==" "blog") ".Params.lab" "intersect" $filename)}}
 {{ if len $lab_blogposts | ne 0 }}
-<h2 class="headline-brackets red">Was bei uns passiert</h2>
+<h2 class="headline-brackets red" id="blog">Was bei uns passiert</h2>
 <div class="row justify-content-center">
     <div class="col-24 col-md-22 col-lg-17">
         <div class="row">
