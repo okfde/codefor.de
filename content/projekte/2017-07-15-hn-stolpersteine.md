@@ -8,7 +8,7 @@ status: Finished
 links:
 - url: http://stolpersteine-heilbronn.de
   name: Webseite
-- url: https://github.com/opendata-heilbronn/stolpersteine-heilbronn
+- url: https://github.com/opendata-heilbronn/stolpersteine
   name: Code auf Github
 - url: http://himsel.me/07-06-2017-Stolpersteine-in-Heilbronn-&-Kitzingen.html
   name: Anleitung zum Redeployment
