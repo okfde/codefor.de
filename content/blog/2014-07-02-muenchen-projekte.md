@@ -5,6 +5,7 @@ title: "Letztes und nächstes Treffen: Projekte!"
 author: Matt
 excerpt: Ein kleines Update aus dem OK Lab München - was war, was ist, was kommt?
 topic: story
+lab: [muenchen]
 
 tags:
 - Aus den Labs

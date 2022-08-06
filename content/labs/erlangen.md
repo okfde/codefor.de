@@ -9,6 +9,7 @@ hide: true
 
 aliases:
 - /erlangen
+- /er
 
 ---
 

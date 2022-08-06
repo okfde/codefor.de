@@ -1,6 +1,7 @@
 ---
 author: Eileen Wagner
 type: blog
+lab: [stuttgart]
 color: red #one of: red, blue, green, cyan
 pattern: 1 #one of: 1, 2, 3, 4
 og-image: /blog/stories/feinstaub.jpg # used for facebook & twitter card

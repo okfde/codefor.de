@@ -4,6 +4,7 @@ type: blog
 title: Das OK Lab Chemitz
 author: Fiona
 topic: community
+lab: [chemnitz]
 
 images:
 - imgname: morris.jpg

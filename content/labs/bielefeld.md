@@ -8,6 +8,7 @@ markerposition: right
 
 aliases:
 - /bielefeld
+- /bi
 
 members:
 

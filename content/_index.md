@@ -12,6 +12,16 @@ Werde Stadtentwickler*in!
 {{< /button-center >}}
 
 {{< section >}}
+{{< headline-brackets-h1 color="blue"  >}}
+Hier kannst du dir ein aktuelles Bild machen
+{{< /headline-brackets-h1  >}}
+
+{{< paragraph-center class="text-center mb-5" >}}
+Die Code for Germany Community ist am 21.05.2022 bei der GPN in Karlsruhe zusammengekommen. Es berichten die OK Labs Köln, Münster, Leipzig, Darmstadt und Karlsruhe von ihren Projekten. Du hast es verpasst? Dann lass dich doch von der <a href="https://media.ccc.de/v/gpn20-79-code-for-germany-open-data-digitales-ehrenamt">Videoaufzeichnung</a> inspirieren, auch mal in deinem lokalen Lab vorbeizuschauen! 
+{{</ paragraph-center  >}}
+{{< /section >}}
+
+{{< section >}}
 {{< headline-icon icon="icon-info.svg" >}}
 
 {{< headline-brackets-h1 color="blue"  >}}

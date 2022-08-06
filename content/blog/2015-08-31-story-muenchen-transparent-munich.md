@@ -1,6 +1,7 @@
 ---
 author: Eileen Wagner
 type: blog
+lab: [muenchen]
 lang: en
 color: cyan #one of: red, blue, green, cyan
 pattern: 1 #one of: 1, 2, 3, 4

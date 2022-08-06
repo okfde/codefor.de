@@ -5,11 +5,6 @@ imgname: bonn/kinderbonn.png
 title: kinderbonn.de – Das Portal für Eltern, Kinder und Jugendliche aus Bonn und Umgebung
 status: In Progress
 
-links:
-
-- url: http://kinderbonn.de
-  name: kinderbonn.de Homepage
-
 colaborators:
 - name: Damian Paderta
   links:

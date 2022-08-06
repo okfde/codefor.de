@@ -1,6 +1,7 @@
 ---
 author: Eileen Wagner
 type: blog
+lab: [magdeburg]
 color: green #one of: red, blue, green, cyan
 pattern: 4 #one of: 1, 2, 3, 4
 og-image: /blog/stories/magdego-hero.jpg # used for facebook & twitter card

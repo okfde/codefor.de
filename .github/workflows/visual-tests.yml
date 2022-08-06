@@ -14,6 +14,6 @@ jobs:
       - name: Build
         run: hugo
       - name: Percy Test
-        run: npx @percy/cli snapshot public/
+        run: npx @percy/cli@1.3.0 snapshot public/
         env:
           PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}

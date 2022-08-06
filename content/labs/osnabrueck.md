@@ -9,6 +9,7 @@ showsignup: false
 
 aliases:
 - /osnabrueck
+- /os
 
 members:
 - name: Peer Wagner

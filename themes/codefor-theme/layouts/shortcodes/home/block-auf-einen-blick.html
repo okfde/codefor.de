@@ -5,7 +5,12 @@
             <img class="img-fluid w-100" src="/icons/{{ $element.img }}" alt="">
         </div>
         <div class="text-center text-hero">
-            {{ $element.count }}
+            {{ if eq $element.title "Labs" }}
+                {{- $labs := where (where $.Site.RegularPages ".Params.city" "!=" nil) ".Params.hide" "!=" true -}}
+                {{ len $labs }}
+            {{ else }}
+                {{ $element.count }}
+            {{ end }}
         </div>
         <div class="text-center">
             {{ $element.title }}

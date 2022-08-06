@@ -5,6 +5,7 @@ title: Ein <3 für Tiere
 author: Eileen
 excerpt: Ein Twitterbot macht gerade die Runden.
 topic: project
+lab: [chemnitz]
 
 images:
 - imgname: cutepetseverywhere.png

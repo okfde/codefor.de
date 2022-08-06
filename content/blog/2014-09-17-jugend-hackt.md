@@ -5,6 +5,7 @@ title: Jugend hackt
 author: Fiona
 excerpt: Am Wochenende fand „Jugend hackt“ in Berlin statt. Ein Wochenende lang programmierten, hackten und bastelten Jugendliche
 topic: event
+lab: [berlin]
 
 images:
 - imgname: jugendhackt.jpg

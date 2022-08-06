@@ -5,6 +5,7 @@ title: Das OK Lab Ulm
 author: Fiona
 excerpt: Seit 2011 arbeitet eine studentische Gruppe in Ulm mit und zu offenen Daten. In Zusammenarbeit mit der Stadt entstehen dabei Anwendungen, die auf die Bedürfnisse der Bürger und Bürgerinnen zugeschnitten sind.
 topic: community
+lab: [ulm]
 
 images:
 - imgname: ulm.jpg
