@@ -2,8 +2,8 @@
 city: Kaiserslautern
 title: Code for Kaiserslautern
 
-lat: 49.436673
-long: 7.769050
+lat: 49.440540
+long: 7.762300
 markerposition: left
 
 aliases:
@@ -25,6 +25,8 @@ links:
   url: https://chat.data.kaiserslautern.digital/ok-lab/
 - name: GetTogether
   url: https://gettogether.community/code-for-kaiserslautern/
+- name: Pad
+  url: https://pad.okfn.de/p/codeforkl
 - name: OKF Slack
   url: https://openknowledgegermany.slack.com/messages/kaiserslautern
 
@@ -42,6 +44,6 @@ Willkommen bei Code for Kaiserslautern!
 
 Wir sind eine Gruppe von Menschen, die mit Hilfe von Daten und Anwendungen das Leben in und um Kaiserslautern verbessern wollen. Unser OK Lab befindet sich gerade noch in der Gründung – und Du kannst direkt mit dabei sein!
 
-Im Rahmen des Digitaltags haben wir uns am 20. Juni zum ersten Mal zusammengefunden. Seitdem treffen wir uns alle zwei bis drei Wochen an unterschiedlichen Orten in Kaiserslautern. Komm doch einfach mal vorbei! Unsere nächsten Termine finden sich bei [GetTogether](https://gettogether.community/code-for-kaiserslautern/). Alle Interessierten sind herzlich eingeladen vorbeizuschauen, mitzumachen und eigene Ideen mitzubringen und umzusetzen!
+Im Rahmen des Digitaltags haben wir uns am 20. Juni zum ersten Mal zusammengefunden. Seitdem treffen wir uns alle zwei bis drei Wochen an unterschiedlichen Orten in Kaiserslautern, meistens bei [Chaos inKL](https://www.chaos-inkl.de/wiki/project:raum). Komm doch einfach mal vorbei! Unsere nächsten Termine finden sich bei [GetTogether](https://gettogether.community/code-for-kaiserslautern/). Alle Interessierten sind herzlich eingeladen vorbeizuschauen, mitzumachen und eigene Ideen mitzubringen und umzusetzen!
 
-Wir besprechen uns im [Kanal `#kaiserslautern`](https://openknowledgegermany.slack.com/messages/kaiserslautern) im OKF-Slack und in einem eigenen [Mattermost-Team](https://chat.data.kaiserslautern.digital/ok-lab/). Um in dieses eingeladen zu werden, schreibe uns einfach im OKF-Slack, per [Mail](mailto:kaiserslautern@codefor.de) oder [Twitter](http://twitter.com/codeforkl).
+Wir besprechen uns im [Kanal `#kaiserslautern`](https://openknowledgegermany.slack.com/messages/kaiserslautern) des OKF-Slack und in einem eigenen [Mattermost-Team](https://chat.data.kaiserslautern.digital/ok-lab/). Um in dieses eingeladen zu werden, schreibe uns einfach im OKF-Slack, per [Mail](mailto:kaiserslautern@codefor.de) oder [Twitter](http://twitter.com/codeforkl).
