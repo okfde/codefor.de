@@ -25,6 +25,8 @@ links:
   url: https://chat.data.kaiserslautern.digital/ok-lab/
 - name: GetTogether
   url: https://gettogether.community/code-for-kaiserslautern/
+- name: Pad
+  url: https://pad.okfn.de/p/codeforkl
 - name: OKF Slack
   url: https://openknowledgegermany.slack.com/messages/kaiserslautern
 
