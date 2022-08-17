@@ -2,8 +2,8 @@
 city: Kaiserslautern
 title: Code for Kaiserslautern
 
-lat: 49.436673
-long: 7.769050
+lat: 49.440540
+long: 7.762300
 markerposition: left
 
 aliases:
