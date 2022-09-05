@@ -58,6 +58,7 @@ Eine etwas andere Informationsanfrage hat ein User an das schottische Eisenbahnu
    * https://bbb.ulm.dev/b/cfgcommunitycall
  * Freitag, 30. September bis Sonntag, 2. Oktober 2022 an der TU Berlin: **Bits und Bäume in Berlin**
    * https://bits-und-baeume.org/konferenz/de
+ * Montag, 03.10.2022, Code for Germany Summit 
 
 Schon einmal vormerken fürs neue Jahr:
 * Am am Wochenende vom 18. bis 19.03.2023 findet nun wieder zu gewohnter Jahreszeit der **#ODDMO23 in Moers** statt. https://www.codeforniederrhein.de/
