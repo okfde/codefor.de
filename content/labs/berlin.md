@@ -179,7 +179,7 @@ members:
   username_github: zfhui
   username_twitter: zfhui
 
-- name: Jannis Redmann
+- name: Jannis R
   username_github: derhuerst
   username_twitter: derhuerst
 
