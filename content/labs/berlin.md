@@ -179,7 +179,7 @@ members:
   username_github: zfhui
   username_twitter: zfhui
 
-- name: Jannis Redmann
+- name: Jannis R
   username_github: derhuerst
   username_twitter: derhuerst
 
@@ -198,6 +198,11 @@ links:
 - name: Mailingliste
   url: https://mlists.okfn.de/cgi-bin/mailman/listinfo/codeforberlin
 
+feeds:
+- type: ical
+  url: https://www.meetup.com/OK-Lab-Berlin/events/ical/
+- type: ical
+  url: https://gettogether.community/team/3242/events.ics
 
 leads:
 - name: E-Mail

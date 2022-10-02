@@ -52,7 +52,7 @@ Dennoch wird der Nutzen öffentlicher APIs in vielen anderen Ländern deutlich b
 
 Einen Anfang macht schon mal [Thomas Tursics](https://twitter.com/tursics), der gerade eben zu govdata [gewechselt](https://twitter.com/Hamburg67/status/1542784443097702400) ist.
 
-Auch [Stefan Kaufmann](https://twitter.com/tursics) übernimmt eine neue [Aufgabe](https://twitter.com/lilliiliev/status/1542809597865598976) und wechselt als Referent ins Politik-Team von Wikimedia Deutschland.
+Auch [Stefan Kaufmann](https://twitter.com/_stk) übernimmt eine neue [Aufgabe](https://twitter.com/lilliiliev/status/1542809597865598976) und wechselt als Referent ins Politik-Team von Wikimedia Deutschland.
 
 ## Termine aus der Welt der offenen Daten
 
