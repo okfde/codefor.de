@@ -7,9 +7,9 @@ excerpt: Am 3.Oktober sind 13 Ehrenamtliche und 2 Hauptamtliche von Code for Ger
 topic: event 
 lab:
 images:
-   - imgname: cfg-summit-2022/cfgsummit22-gruppenfoto.jpg # Dieses Bild sollte im Verzeichnis static/blog existieren
+   - imgname: cfgsummit22-gruppenfoto.jpg # Dieses Bild sollte im Verzeichnis static/blog existieren
      attribution: Foto von Wolfram Eberius, Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-og_image: cfg-summit-2022/cfgsummit22-gruppenfoto.jpg # Der Dateiname vom Titelbild das kann das selbe sein wie unter images und sollte auch unter static/blog liegen
+og_image: cfgsummit22-gruppenfoto.jpg # Der Dateiname vom Titelbild das kann das selbe sein wie unter images und sollte auch unter static/blog liegen
 og_description: Gruppenfoto beim Code for Germany Community Summit 2022 im WikiBär Berlin # Der alt Text zum Titelbild
 
 tags:
@@ -53,7 +53,7 @@ RKI-Gesundheitsdaten und Open Data gesprochen. Das sollte sich auch im Rest Deut
 Das Thema, welches wohl alle Veranstaltungen des letzten Jahres verbindet, ist Linked Open Data. Auch diesmal gab es eine große Arbeitsgruppe zu den Fragen, 
 wie man Linked Open Data an Hand konkreter Beispielen verstehbar machen kann und welche Anwendungen mit verknüpften Daten vorstellbar sind. 
 
-![Foto: In einer Arbeitsgruppe sprechen wir intensiv über Linked Open Data. Foto von Wolfram Eberius, Lizenz [CC BY 4.0]](cfgsummit22-arbeitsgruppe.jpg)
+![Foto: In einer Arbeitsgruppe sprechen wir intensiv über Linked Open Data. Foto von Wolfram Eberius, Lizenz [CC BY 4.0]](cfgsummit22-arbeitsgruppen.jpg)
 
 Weitere visuelle Eindrücke vom Summit sind auf [WikiCommons](https://commons.wikimedia.org/wiki/User:Wolfram.eberius) zu finden. Es war schön mit euch! Bis zum nächsten Treffen! 
 
