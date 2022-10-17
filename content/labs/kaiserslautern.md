@@ -30,6 +30,10 @@ links:
 - name: OKF Slack
   url: https://openknowledgegermany.slack.com/messages/kaiserslautern
 
+feeds:
+- type: ical
+  url: https://gettogether.community/team/17065/events.ics
+
 leads:
 - name: E-Mail-Verteiler
   url: mailto:kaiserslautern@codefor.de
