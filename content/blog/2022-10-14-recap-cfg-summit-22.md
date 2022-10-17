@@ -55,7 +55,7 @@ wie man Linked Open Data an Hand konkreter Beispielen verstehbar machen kann und
 
 ![Foto: In einer Arbeitsgruppe sprechen wir intensiv über Linked Open Data. Foto von Wolfram Eberius, Lizenz [CC BY 4.0]](cfgsummit22-arbeitsgruppen.jpg)
 
-Weitere visuelle Eindrücke vom Summit sind auf [WikiCommons](https://commons.wikimedia.org/wiki/User:Wolfram.eberius) zu finden. Es war schön mit euch! Bis zum nächsten Treffen! 
+Weitere visuelle Eindrücke vom Summit sind auf [WikiCommons](https://commons.wikimedia.org/wiki/Category:Code_For_Germany_Summit,_03.10.2022) zu finden. Es war schön mit euch! Bis zum nächsten Treffen! 
 
 Wir bedanken uns herzlich bei Wikimedia Deutschland für den schönen Raum. Wer Code for Germany unterstützen möchte, kann entweder sein lokales Lab oder 
 einen Community Call besuchen und sich mit Ideen und Wissen einbringen oder auch [spenden.](https://www.betterplace.org/de/projects/66473-unterstuetze-die-open-knowledge-labs) <3 
