@@ -49,7 +49,7 @@ Eine kleine Auswahl von Vorträgen mit Schwerpunkt OpenData:
 
 ## Neue OpenData
 
-Mehr als 40 Freiwillige haben im vergangenen Jahr auf einem Luftbild von Berlin Autos markiert. Die Karte [How many cars](https://hanshack.com/howmanycars/) von Hans Hack zeit, wie viele Farzeuge nur herumrumstehen und wie viele tatsächlich fahren.
+Mehr als 40 Freiwillige haben im vergangenen Jahr auf einem Luftbild von Berlin Autos markiert. Die Karte [How many cars](https://hanshack.com/howmanycars/) von Hans Hack zeigt, wie viele Fahrzeuge nur herumstehen und wie viele tatsächlich fahren.
 
 Das digitale Oberflächenmodell Sachsen-Anhalts steht als photogrammetrische Punktwolke mit 20cm Auflösung kostenfrei zur Verfügung. [Ben Jamin' zeigt beispielhaft einen Ausschnitt](https://twitter.com/Terranigmus/status/1570395805252554756).
 
