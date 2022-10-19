@@ -32,7 +32,7 @@ und jetzt den CFG-Summit 2022. Mit 13 Ehrenamtlichenund 2 Hauptamtlichen sind wi
 dem lokalen Raum der Berliner Wikimedia und einer Wort Fusion aus Wiki und Berliner Bären zusammengekommen. Somit war der Tag der Deutschen Einheit 
 für uns geprägt von einem bundesweiten Austausch in gemütlicher Atmosphäre. 
 
-![Foto: Wir starten mit verschiedenen Inputs von Haupt- und Ehrenamtlichen. Foto von Wolfram Eberius, Lizenz [CC BY 4.0]](cfgsummit22-einstieg.jpg)
+![Foto: Wir starten mit verschiedenen Inputs von Haupt- und Ehrenamtlichen. Foto von Wolfram Eberius, Lizenz [CC BY 4.0]](/blog/cfgsummit22-einstieg.jpg)
 
 Eingestiegen wurde direkt mit den großen Fragen und Diskussionen darüber: Was Code for Germany eigentlich ist, Was wir als Community repräsentieren 
 wollen, Ob und wie wir aktuell neue Mitglieder begeistern und aufnehmen können, Welche Selbstbeschreibung noch zutreffend ist und Was in Zukunft 
@@ -44,7 +44,7 @@ Konkret gab es den Pitch [klimawatch.de](https://klimawatch.de/) auszubauen. Hie
 der lokalen Verwaltungen herankommt. Diese sind oft nicht öffentlich zugänglich und manchmal auch für Behörden schwer zu erreichen, da sie sich zum Teil 
 in langen PDFs verstecken. 
 
-![Foto: Klimawatch Logo auf Laptopbildschirm. Foto von Wolfram Eberius, Lizenz [CC BY 4.0]](cfgsummit22-klimawatch.jpg)
+![Foto: Klimawatch Logo auf Laptopbildschirm. Foto von Wolfram Eberius, Lizenz [CC BY 4.0]](/blog/cfgsummit22-klimawatch.jpg)
 
 Ein weiterer Punkt war die Ausweitung des Berliner Hybrid Vortrag Formats zu Open Data auf die gesamte Community. In den letzten Wochen haben beim Berliner
 OK Lab z.B. [Maximilian Heimstädt über die Geschichte der Open Data Bewegung](https://video.codefor.de/w/mkJiUKpxeqKjemHPWVxccq) und Knut Perseke über 
@@ -53,7 +53,7 @@ RKI-Gesundheitsdaten und Open Data gesprochen. Das sollte sich auch im Rest Deut
 Das Thema, welches wohl alle Veranstaltungen des letzten Jahres verbindet, ist Linked Open Data. Auch diesmal gab es eine große Arbeitsgruppe zu den Fragen, 
 wie man Linked Open Data an Hand konkreter Beispielen verstehbar machen kann und welche Anwendungen mit verknüpften Daten vorstellbar sind. 
 
-![Foto: In einer Arbeitsgruppe sprechen wir intensiv über Linked Open Data. Foto von Wolfram Eberius, Lizenz [CC BY 4.0]](cfgsummit22-arbeitsgruppen.jpg)
+![Foto: In einer Arbeitsgruppe sprechen wir intensiv über Linked Open Data. Foto von Wolfram Eberius, Lizenz [CC BY 4.0]](/blog/cfgsummit22-arbeitsgruppen.jpg)
 
 Weitere visuelle Eindrücke vom Summit sind auf [WikiCommons](https://commons.wikimedia.org/wiki/Category:Code_For_Germany_Summit,_03.10.2022) zu finden. Es war schön mit euch! Bis zum nächsten Treffen! 
 
