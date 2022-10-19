@@ -22,16 +22,6 @@
   align-items: center;
   justify-content: space-between; // space out brand from logo
   padding: $navbar-padding-y $navbar-padding-x;
-
-  // Because flex properties aren't inherited, we need to redeclare these first
-  // few properties so that content nested within behave properly.
-  > .container,
-  > .container-fluid {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-between;
-  }
 }
 
 
@@ -45,7 +35,6 @@
   padding-bottom: $navbar-brand-padding-y;
   margin-right: $navbar-padding-x;
   font-size: $navbar-brand-font-size;
-  line-height: inherit;
   white-space: nowrap;
 
   @include hover-focus {
@@ -74,17 +63,6 @@
     position: static;
     float: none;
   }
-}
-
-
-// Navbar text
-//
-//
-
-.navbar-text {
-  display: inline-block;
-  padding-top: $nav-link-padding-y;
-  padding-bottom: $nav-link-padding-y;
 }
 
 
@@ -241,58 +219,6 @@
 
       @include hover-focus {
         color: $navbar-light-active-color;
-      }
-    }
-  }
-}
-
-// White links against a dark background
-.navbar-dark {
-  .navbar-brand {
-    color: $navbar-dark-active-color;
-
-    @include hover-focus {
-      color: $navbar-dark-active-color;
-    }
-  }
-
-  .navbar-nav {
-    .nav-link {
-      color: $navbar-dark-color;
-
-      @include hover-focus {
-        color: $navbar-dark-hover-color;
-      }
-
-      &.disabled {
-        color: $navbar-dark-disabled-color;
-      }
-    }
-
-    .show > .nav-link,
-    .active > .nav-link,
-    .nav-link.show,
-    .nav-link.active {
-      color: $navbar-dark-active-color;
-    }
-  }
-
-  .navbar-toggler {
-    color: $navbar-dark-color;
-    border-color: $navbar-dark-toggler-border-color;
-  }
-
-  .navbar-toggler-icon {
-    background-image: $navbar-dark-toggler-icon-bg;
-  }
-
-  .navbar-text {
-    color: $navbar-dark-color;
-    a {
-      color: $navbar-dark-active-color;
-
-      @include hover-focus {
-        color: $navbar-dark-active-color;
       }
     }
   }

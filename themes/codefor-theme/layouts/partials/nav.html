@@ -1,5 +1,5 @@
 <div id="nav-wrap" class="bg-light">
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light">
     <a class="navbar-brand d-flex" href="/">
       <div class="w-100">
         <img class="img-fluid" src="/img/logo.svg" alt="logo">
@@ -10,11 +10,11 @@
       </div>
     </a>
 
-    <button class="navbar-toggler align-self-center" id="nav-toggler" type="button" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler align-self-center" id="nav-toggler" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-      <ul class="navbar-nav justify-content-around mr-3 mt-4 mt-lg-0">
+      <ul class="navbar-nav">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
           {{if ne .Weight 0 }}
