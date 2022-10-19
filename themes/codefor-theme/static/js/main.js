@@ -32,8 +32,8 @@ function lazybackgroundimage() {
 document.addEventListener("DOMContentLoaded", function () {
   lazybackgroundimage();
 
-  const mobileNavButton = document.querySelector("nav button");
-  const mobileNav = document.querySelector("nav ul");
+  const mobileNavButton = document.querySelector(".topnav button");
+  const mobileNav = document.querySelector(".topnav ul");
 
   mobileNav.classList.add("hidden");
 
