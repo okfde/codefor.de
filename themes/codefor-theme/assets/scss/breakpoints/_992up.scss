@@ -3,17 +3,17 @@
 h1,h2{
     font-size: $fontSizeH1-lg;
   }
-  
+
   h3{
     font-size: $fontSizeH3-lg;
     margin-top: 20px;
   }
-  
+
   body{
     font-family: apercu-regular-pro;
     font-size: $fontSizeBase-lg;
   }
-  
+
   footer{
     font-size: $fontSizeSmall-lg !important;
     h3{
@@ -23,20 +23,13 @@ h1,h2{
       font-size: $fontSizeBase-lg;
     }
   }
-  
+
   small{
     font-size: $fontSizeSmall-lg;
   }
-  
+
   .text-hero{
     font-size: $fontSizeHero-lg;
-  }
-  
-  nav.navbar{
-    .navbar-brand{
-      font-size: $fontSizeNav-lg;
-      line-height: $fontSizeNav-lg - 2;
-    }
   }
 
 .btn{
