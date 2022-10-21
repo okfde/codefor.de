@@ -11,6 +11,10 @@
     text-decoration: none;
   }
 
+ .active {
+    text-decoration: underline;
+  }
+
   .logo {
     display: flex;
     gap: 1rem;
