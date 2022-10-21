@@ -1,29 +1,28 @@
-<div id="nav-wrap" class="bg-light">
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand d-flex" href="/">
-      <div class="w-100">
-        <img class="img-fluid" src="/img/logo.svg" alt="logo">
-      </div>
-      <div class="d-flex flex-column ml-3">
+<nav class="topnav">
+  <div class="left">
+    <a class="logo" href="/">
+      <img src="/img/logo.svg" alt="logo">
+      <div class="logo-words">
         <span>for</span>
         <span>Germany</span>
       </div>
     </a>
 
-    <button class="navbar-toggler align-self-center" id="nav-toggler" type="button" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+    <button>
+      <svg viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+        <path stroke="rgba(0,0,0,0.5)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"/>
+      </svg>
     </button>
-    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-      <ul class="navbar-nav justify-content-around mr-3 mt-4 mt-lg-0">
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-          {{if ne .Weight 0 }}
-          <li class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{ end }}">
-              <a class="nav-link px-3" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-          </li>
-          {{ end }}
-        {{ end }}
-      </ul>
-    </div>
-  </nav>
-</div>
+  </div>
+
+  <ul>
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+      {{if ne .Weight 0 }}
+      <li class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{ end }}">
+          <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+      </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</nav>
