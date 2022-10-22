@@ -70,9 +70,17 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
     margin-top: 20px;
     margin-bottom: 10px;
   }
-  img {
+  img, figure {
     margin-bottom: 1rem;
   }
+
+  // If the img is wrapped in a figure element, the margin should be taken
+  // from there, not from the img itself. This allows us to position the
+  // attribution tightly below the image.
+  figure img {
+    margin-bottom: 0;
+  }
+
   p{
     margin-bottom: 2rem;
   }
