@@ -9,6 +9,7 @@ images:
   attribution: Foto von [Alan David Robb](https://pixabay.com/de/users/alandavidrobb-1467112/) auf [pixabay.com](https://pixabay.com/de/photos/offen-unterzeichnen-strand-rustikal-966315/)
 og_image: out-in-the-open-2022-10-header.jpg
 type: blog
+
 ---
 
 ## 10 Jahre Wikidata
