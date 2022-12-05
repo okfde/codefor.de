@@ -11,7 +11,6 @@ links:
 - name: Github
   url: https://github.com/codeforcologne/OpenDataWizzard
 
-
 collaborators:
 - name: Martin Over
 - name: Marco Holz
