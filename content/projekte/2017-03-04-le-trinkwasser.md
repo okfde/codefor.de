@@ -6,7 +6,7 @@ title: Was steckt in meinem Leitungswasser?
 status: abgeschlossen
 
 links:
-- url: https://trinkwasser.codefor.de/
+- url: https://trinkwasser.codeforleipzig.de/
   name: Website
 - url: https://github.com/codeforleipzig/trinkwasser
   name: Page on Github

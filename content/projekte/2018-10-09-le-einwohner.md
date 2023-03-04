@@ -31,6 +31,8 @@ Jede der enthaltenen HTML-Dateien lässt sich einzeln im Browser öffnen, sie si
 
 Als Grundage dienen die Shape-Daten und die statistischen Daten des [OpenData Portals Leipzig](http://opendata.leipzig.de)
 
+Die Stadt Leipzig bietet inzwischen selbst ein [Dashboard Bevölkerungsentwicklung](https://www.leipzig.de/buergerservice-und-verwaltung/unsere-stadt/statistik-und-zahlen/einwohner-und-bevoelkerungsentwicklung/) an.
+
 ## Erweiterungsideen
  * Weitere Redeployments für andere Städte wie bereits für Wuppertal ([GitHub](https://github.com/joergreichert/GeohackDesGutenLebens) / [Webseite](https://joergreichert.github.io/GeohackDesGutenLebens/)) und Moers ([GitHub](https://github.com/joergreichert/hackday-moers-2019) / [Webseite](https://joergreichert.github.io/hackday-moers-2019/)) geschehen
  * Legende generisch aus der Werte-Spanne der errechnen lassen

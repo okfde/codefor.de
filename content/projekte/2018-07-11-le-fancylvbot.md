@@ -8,7 +8,7 @@ status: laufend
 links:
 - url: https://t.me/fancyLVBot
   name: Telegram-Bot
-- url: https://github.com/eisc/fancy_LVB_Telegram_Bot
+- url: https://github.com/CodeforLeipzig/fancy_LVB_Telegram_Bot
   name: Page on Github
 - url: https://gtfs.leipzig.codefor.de
   name: OpenTripPlanner-Instanz
