@@ -4,7 +4,7 @@ lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/wo-ist-testzentrum.png
 title: Wo ist Testzentrum?
 showcase: true
-status: In Arbeit, Gerne mitmachen
+status: abgeschlossen
 
 links:
 

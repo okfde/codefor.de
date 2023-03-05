@@ -3,15 +3,27 @@ layout: project
 lab: [leipzig] 
 imgname: leipzig/leipzig-maps-screenshot.jpg
 title: Leipzig Maps
-status: Finished
+status: abgeschlossen
 
 collaborators:
-- name: mrzmyr
+- name: Moritz Meyer
+  links:
+  - url: https://github.com/mrzmyr
+    name: GitHub
+- name: Jörg Reichert
+  links:
+  - url: https://github.com/joergreichert
+    name: GitHub
+
 
 links:
-- url: https://leipzig-maps.vercel.app
+- url: https://codeforleipzig.github.io/leipzigmaps/
   name: Website
+- url: https://github.com/CodeforLeipzig/leipzigmaps
+  name: Code auf Github
 
+tags:
+- Gesellschaft
 ---
 
 Eine Karte von Leipzig die Daten zur Stadt wiedergibt.

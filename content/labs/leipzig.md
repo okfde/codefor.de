@@ -13,7 +13,14 @@ aliases:
 #special: true #this lab gets spcecial marker (digital refugee lab)
 
 members:
-
+- name: Jörg Reichert
+  username_github: joergreichert
+- name: Yelyzaveta Kosinova
+  username_github: YelyzavetaKo
+- name: Daniel Gerber
+  username_github: gerbsen
+- name: Sebastian Peters
+  username_github: sepe81
 - name: Max Brauer
   username_github: debvortex
   username_twitter: deb_vortex
@@ -21,10 +28,6 @@ members:
   username_github: lhm
 - name: Robert Schmidt
   username_github: NucsuM
-- name: Jörg Reichert
-  username_github: joergreichert
-- name: Daniel Gerber
-  username_github: gerbsen
 - name: Maria Arndt
   username_github: eisc
 - name: Felix Wustig
@@ -36,28 +39,26 @@ members:
   username_twitter: keimlink
 - name: Olf
   username_github: olf42
-- name: Sebastian Peters
-  username_github: sepe81
 - name: Hans-Gert Gräbe
   username_github: hg-graebe
 
 links:
-- name: GetTogether
-  url: https://gettogether.community/oklab-leipzig/
+- name: Meetup
+  url: https://www.meetup.com/de-DE/oklab-leipzig/
+- name: GitHub
+  url: https://github.com/CodeforLeipzig
 - name: Slack
   url: https://openknowledgegermany.slack.com/messages/leipzig/
 - name: Mailingliste
   url: mailto:leipzig@codefor.de
 - name: Twitter
   url: https://twitter.com/codeforleipzig
-- name: GitHub
-  url: https://github.com/CodeforLeipzig
 
 leads:
-- name: Max Brauer
-  url: mailto:max@max-brauer.de
 - name: Joerg Reichert
   url: mailto:joerg_reichert@posteo.de
+- name: Max Brauer
+  url: mailto:max@max-brauer.de
 - name: Robert Schmidt
   url: mailto:robert.schmidt@mailbox.org
 - name: Lars Mai

@@ -3,7 +3,7 @@ layout: project
 lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/kieznotiz.png
 title: KiezNotiz Leipziger Osten
-status: laufend
+status: abgeschlossen
 
 links:
 - url: https://kieznotiz.codeforleipzig.de/
