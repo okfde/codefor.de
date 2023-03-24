@@ -1,15 +1,16 @@
 ---
 title: "Stimmen aus der Community: Klara Juhl"
 author: "Nora Titz (Junior Community Redakteurin)"
-date: '2023-03-23T18:00:00+01:00'
+date: '2023-03-24T12:00:00+01:00'
 excerpt: Unregelmäßig erscheinendes Interview Format, das einzelne Menschen aus der Community vorstellt
 topic: community
 images:
-- imgname: klarajuhl.jpg
+- imgname: klara-juhl-2023-03-header.jpg
   attribution:  Klara Juhl  Foto:LuxTeufelsWild  
-og_image: klarajuhl.jpg
+og_image: klara-juhl-2023-03-header.jpg
 type: blog
 ---
+
 Klara Juhl ist 24 Jahre alt und seit 2021 im Code for Germany Netzwerk aktiv, vor allem als Co-Autorin des Code for Germany Community Blog Formats [_Out in the Open_](https://codefor.de/blog/out-in-the-open-february-2023/). Im Januar hat sie ihre Ausbildung zur Fachinformatikerin für Anwendungsentwicklung abgeschlossen und arbeitet als Softwareentwicklerin für ein Unternehmen, das Geoinformationssysteme entwickelt. Neben dem digitalen Ehrenamt genießt sie den Ausgleich in der Natur. Wir sprechen in einem Zoom-Call über Code for Germany:
 
 ## Lass uns damit anfangen, wie du zu Code for Germany gekommen bist ...
