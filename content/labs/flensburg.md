@@ -19,9 +19,6 @@ members:
 
 links:
 
-- name: Homepage
-  url: https://codefor.de/flensburg
-
 - name: Twitter
   url: https://twitter.com/oklabflensburg
 

@@ -20,7 +20,7 @@ collaborators:
     name: github
 
 tags:
-- Gesellschaft
+- Geodaten
 - Unfallorte
 - Datenbank
 
