@@ -25,21 +25,11 @@ links:
 - name: Twitter
   url: https://twitter.com/oklabflensburg
 
-- name: Facebook
-  url: https://www.facebook.com/oklabflensburg
-
 - name: HackMD
   url: https://hackmd.io/@oklabflensburg
 
 - name: GitHub
   url: https://github.com/oklabflensburg
-
-- name: Slack Team
-  url: https://openknowledgegermany.slack.com
-
-- name: OpenData Flensburg
-  url: https://ckan.flensburg.de
-
 
 leads:
 
