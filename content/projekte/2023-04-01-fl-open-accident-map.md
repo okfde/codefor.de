@@ -2,8 +2,8 @@
 layout: project
 lab: [flensburg]
 imgname: flensburg/unfallkarte_stadt_flensburg.png
-title: Offene Daten der Unfallstatistik des BKG auf einer interaktiven webbasierten Karte
-status: Sucht Mitstreiter Deutschlandweit
+title: Unfallorte auf einer interaktiven webbasierten Karte
+status: Sucht Mitstreiter
 
 links:
 - url: https://github.com/oklabflensburg/open-accident-map

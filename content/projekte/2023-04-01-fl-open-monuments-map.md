@@ -2,11 +2,11 @@
 layout: project
 lab: [flensburg]
 imgname: flensburg/denkmalliste_stadt_flensburg.png
-title: Interaktive webbasierte Karte mit denkmalgeschützen Gebäuden in Flensburg
+title: Karte mit denkmalgeschützen Gebäuden in Flensburg
 status: Sucht Replication
 
 links:
-- url: https://github.com/oklabflensburg/open-accident-map
+- url: https://github.com/oklabflensburg/open-monuments-map
   name: GitHub
 - url: https://opendata.schleswig-holstein.de/organization/landesamt-fur-denkmalpflege
   name: Datenquelle
