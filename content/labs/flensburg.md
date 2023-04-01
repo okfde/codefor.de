@@ -28,16 +28,16 @@ links:
 - name: Facebook
   url: https://www.facebook.com/oklabflensburg
 
-- name: Etherpad
-  url: https://pad.okfn.org/p/oklabflensburg
+- name: HackMD
+  url: https://hackmd.io/@oklabflensburg
 
 - name: GitHub
   url: https://github.com/oklabflensburg
 
 - name: Slack Team
-  url: https://oklabflensburg.slack.com
+  url: https://openknowledgegermany.slack.com
 
-- name: OpenData Portal der Stadt Flensburg
+- name: OpenData Flensburg
   url: https://ckan.flensburg.de
 
 
@@ -48,7 +48,6 @@ leads:
 
 - name: Roald Christesen
   url: mailto:roald@grain.one
-  url: https://grain.one
 ---
 
 Wir sind eine Gruppe von ehrenamtlich Aktiven, die sich für Offene Daten, Freie und Offene Software und Open Government interessiert. Unser OK Lab setzt sich lokal für eine Verbesserung der Transparenz von Staat und Verwaltungen ein, stößt Projekte zur Bürgerbeteiligung an und sucht den Austausch mit den Verwaltungen, um gemeinsam Lösungen für die Herausforderungen in unserer Region zu finden. Wir treffen uns regelmäßig, um unsere Projekte weiterzuentwickeln.
