@@ -26,4 +26,4 @@ tags:
 
 ---
 
-Diese webbasierte Karte ist auf Basis der Daten des TBZ Flensburg entstanden. Diese Institution zwar führt selbst eine Karte der "Spielflächen", wie sie im Amtsdeutsch bezeichnet wird, ist jedoch weder im Netz auffindbar noch für den nicht IT interessierten Besucher gut nutzbar. Nach einigen Stunden des Reverse Engineerings konnten wir die Daten extrahieren und mittels eines selbst geschriebenen Scripts in ein maschinenlesbares offenes Format umwandeln und auf Basis der OpenStreetMap Karte darstellen.
+Diese webbasierte Karte ist auf Basis der Daten des TBZ Flensburg entstanden. Diese Institution führt zwar selbst eine Karte der "Spielflächen", wie sie im Amtsdeutsch bezeichnet werden, diese ist jedoch weder im Netz auffindbar noch für nicht IT-interessierte Besucher:innen gut nutzbar. Nach einigen Stunden des Reverse Engineerings konnten wir die Daten extrahieren und mittels eines selbst geschriebenen Scripts in ein maschinenlesbares offenes Format umwandeln und auf Basis der OpenStreetMap Karte darstellen.
