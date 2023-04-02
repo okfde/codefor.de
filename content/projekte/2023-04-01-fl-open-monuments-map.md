@@ -4,6 +4,8 @@ lab: [flensburg]
 imgname: flensburg/denkmalliste_stadt_flensburg.png
 title: Karte mit denkmalgeschützen Gebäuden in Flensburg
 status: Sucht Replication
+draft: false
+
 
 links:
 - url: https://github.com/oklabflensburg/open-monuments-map
@@ -22,9 +24,7 @@ collaborators:
     name: github
 
 tags:
-- Denkmalschutz
-- Kartographie
-- Datenbank
+- Politik
 
 ---
 

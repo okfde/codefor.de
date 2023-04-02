@@ -4,6 +4,8 @@ lab: [flensburg]
 imgname: flensburg/spielplaetze_in_flensburg.png
 title: Spielplätze in Flensburg auf einer webbasierten Karte
 status: Sucht Kreative
+draft: false
+
 
 links:
 - url: https://github.com/oklabflensburg/open-playgrounds-map
@@ -20,9 +22,7 @@ collaborators:
     name: github
 
 tags:
-- Grünflächen
-- Spielplätze
-- Geodaten
+- Gesellschaft
 
 ---
 

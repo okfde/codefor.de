@@ -4,6 +4,8 @@ lab: [flensburg]
 imgname: flensburg/unfallkarte_stadt_flensburg.png
 title: Unfallorte auf einer interaktiven webbasierten Karte
 status: Sucht Mitstreiter
+draft: false
+
 
 links:
 - url: https://github.com/oklabflensburg/open-accident-map
@@ -20,9 +22,7 @@ collaborators:
     name: github
 
 tags:
-- Geodaten
-- Unfallorte
-- Datenbank
+- Mobilität
 
 ---
 
