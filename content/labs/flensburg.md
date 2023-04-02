@@ -3,7 +3,7 @@ city: Flensburg
 title: OK Lab Flensburg
 lat: 54.79611110785125
 long: 9.430501388017465
-markerposition: right
+markerposition: left
 
 aliases:
 - /flensburg
