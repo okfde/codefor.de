@@ -5,6 +5,7 @@ author: Oliver OpenData  # wenn nicht vorhanden steht da dann codeforde
 twitter_handle: # wenn nicht vorhanden steht da dann @codeforde
 excerpt: Ein bis zwei Sätze die den Blogpost beschreiben. Wird für die Blogliste verwendet.
 topic: event # zb event, community, default, interview, project, story, toolbox
+lab: [bielefeld] # Zur Übersicht auf der Lab-Seite
 images:
    - imgname: bild.jpg # Dieses Bild sollte im Verzeichnis static/blog existieren
 

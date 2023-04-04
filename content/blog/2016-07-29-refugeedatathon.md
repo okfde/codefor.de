@@ -3,6 +3,7 @@ type: blog
 title: Refugee Datathon in München, der zweite
 author: Suny
 topic: event
+lab: [muenchen]
 tags:
 - Aus den Labs
 excerpt: Am 18. Juni stieg der zweite Refugee Datathon in München. Diesmal im WERK1 gemeinsam von Welcome Help e.V. und OK Lab München veranstaltet.

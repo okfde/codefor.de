@@ -4,6 +4,7 @@ title: MRMCD 2017 - Ulmer Reisebericht
 author: Sabine
 excerpt: Ein Open-Data-Neuling besucht die Landesdatenschau.
 topic: event
+lab: [ulm]
 
 topic: event
 

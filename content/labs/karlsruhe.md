@@ -8,6 +8,7 @@ markerposition: left
 
 aliases:
 - /karlsruhe
+- /ka
 
 #special: true #this lab gets spcecial marker (digital refugee lab)
 

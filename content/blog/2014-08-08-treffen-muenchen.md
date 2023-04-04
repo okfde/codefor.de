@@ -4,6 +4,7 @@ type: blog
 title: Nächstes Treffen des OK Lab München
 author: Matt
 topic: story
+lab: [muenchen]
 
 ---
 

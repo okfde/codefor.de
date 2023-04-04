@@ -15,7 +15,7 @@ collaborators:
 - name: Daniel Gerbsen
   links:
   - url: https://gitlab.com/gerbsen/
-    url-name: gitlab
+    url-name: github
 - name: Lars Mai
   links:
   - url: https://github.com/lhm/

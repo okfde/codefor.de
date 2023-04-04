@@ -7,6 +7,7 @@ hide: true
 
 aliases:
 - /freiburg
+- /fr
 
 members:
 

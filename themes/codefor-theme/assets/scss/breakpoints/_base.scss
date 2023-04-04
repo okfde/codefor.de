@@ -52,13 +52,6 @@ small{
   line-height: 1.4;
 }
 
-nav.navbar{
-  .navbar-brand{
-    font-size: $fontSizeNav;
-    line-height: $fontSizeNav - 2;
-  }
-}
-
 //---------------------------------------------------
 // text formating Fließtexte (Blog Posts...)
 
@@ -77,9 +70,17 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
     margin-top: 20px;
     margin-bottom: 10px;
   }
-  img {
+  img, figure {
     margin-bottom: 1rem;
   }
+
+  // If the img is wrapped in a figure element, the margin should be taken
+  // from there, not from the img itself. This allows us to position the
+  // attribution tightly below the image.
+  figure img {
+    margin-bottom: 0;
+  }
+
   p{
     margin-bottom: 2rem;
   }
@@ -245,44 +246,6 @@ a:active {
 
 
 
-
-//---------------------------------------------------
-// nav
-nav.navbar{
-  max-width: $pageMaxWidth;
-  margin-left: auto;
-  margin-right: auto;
-  align-items: flex-start;
-  .navbar-brand{
-    font-size: $fontSizeNav;
-    width: 230px;
-    line-height: $fontSizeNav - 2;
-    text-decoration: none;
-  }
-  #navbarNav{
-    li{
-      &.active{
-        a{
-          text-decoration: underline;
-        }
-      }
-      a{
-        color: #000;
-        font-size: $fontSizeNav;
-        white-space: nowrap;
-        text-decoration: none;
-      }
-    }
-  }
-  .navbar-toggler{
-    border: none;
-    color: #000;
-    .navbar-toggler-icon {
-      width: 2em;
-      height: 2em;
-  }
-  }
-}
 
 .langSwitch  {
   margin-right: 3rem;

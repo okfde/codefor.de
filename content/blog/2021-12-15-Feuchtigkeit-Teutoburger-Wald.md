@@ -5,6 +5,7 @@ author: Meike Wocken
 twitter_handle: "@CountessOfCount"
 excerpt: "In Bielefeld wird die Feuchtigkeit des heimischen Waldbodens mit Sensoren gemessen. Ziel ist es, dafür eine Citizen Science-Community aufzubauen und die Daten für alle als Open Data und aufbereitet in einer Online-Karte zur Verfügung zu stellen."
 topic: community, project
+lab: [bielefeld]
 images:
  - imgname: feuchtigkeit-teutoburger-wald/teuto_wald2.jpg
  - imgname: feuchtigkeit-teutoburger-wald/teuto_team.jpg # Dieses Bild sollte im Verzeichnis static/blog existieren

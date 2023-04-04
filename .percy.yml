@@ -1,12 +1,12 @@
 version: 2
 static:
   include: 
-    - ./index.html
-    - ./berlin/index.html
-    - ./stuttgart/index.html
-    - ./mitmachen/index.html
-    - ./projekte/index.html
-    - ./blog/code-for-berlin-talks/index.html
-    - ./projekte/pricemap-eu/index.html
+    - /index.html
+    - /berlin/index.html
+    - /stuttgart/index.html
+    - /mitmachen/index.html
+    - /projekte/index.html
+    - /blog/code-for-berlin-talks/index.html
+    - /projekte/pricemap-eu/index.html
 discovery:
   disable-cache: true

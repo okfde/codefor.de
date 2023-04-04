@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo --gc --minify -b $URL"
 
 [context.production.environment]
-HUGO_VERSION = "0.69.2"
+HUGO_VERSION = "0.104.3"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
@@ -11,13 +11,18 @@ HUGO_ENABLEGITINFO = "true"
 command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.69.2"
+HUGO_VERSION = "0.104.3"
 
 [context.branch-deploy]
 command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.69.2"
+HUGO_VERSION = "0.104.3"
+
+[[redirects]]
+from = "/spenden"
+to = "https://www.betterplace.org/de/projects/66473-unterstuetze-die-open-knowledge-labs"
+status = 302
 
 [[redirects]]
 from = "/blog/Auftakt-Trinkwasserkampagne.html"
@@ -1406,3 +1411,7 @@ to = "/archiv/opendataday18/"
 [[ redirects ]]
 from = "/feed.xml"
 to = "/index.xml"
+
+[[ redirects ]]
+from = "/code-of-conduct/"
+to = "/grundsaetze/"

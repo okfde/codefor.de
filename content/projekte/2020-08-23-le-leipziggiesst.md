@@ -1,14 +1,20 @@
 ---
 layout: project
 lab: [leipzig] #needed for Aggregation on Lab-Page
-imgname: leipzig/giessdeinviertel.png
-title: Gieß dein Viertel
+imgname: leipzig/leipziggiesst.png
+title: Leipzig giesst
 status: laufend
 
 links:
-- url: https://giessdeinviertel.codeforleipzig.de
-  name: Website
-- url: https://github.com/CodeforLeipzig/tsb-trees-frontend
+- url: https://www.leipziggiesst.de/
+  name: Webseite
+- url: https://app.leipziggiesst.de/
+  name: WebApp
+- url: https://play.google.com/store/apps/details?id=webviewgold.leipziggiesst
+  name: Google Playstore
+- url: https://apps.apple.com/de/app/leipzig-gießt/id6443637713?platform=iphone
+  name: Apple App Store
+- url: https://github.com/CodeforLeipzig/leipziggiesst
   name: Page on Github
 
 collaborators:
@@ -44,3 +50,14 @@ Die Baumkataster-Daten werden uns wöchentlich aktualisiert vom [Amt für Geoinf
  * [MapBox](https://www.mapbox.com) für die Hintergrundkarte und 3D-Gebäude
  * [Vercel](https://vercel.com) für den Betrieb der Lambda-Funktionen, die den Zugriff auf die PostgreSQL-Daten via REST-API ermöglicht bzw. die Verbindung zu Auth0 herstellen
  * [Netlify](https://www.netlify.com) zum Hosten der Web-Anwendung
+
+## Präsentationen
+ * [Vortrag auf rc3 (Dezember 2020)](https://media.ccc.de/v/rc3-2020-146-leipzig-giesst) ([Folien](https://www.slideshare.net/joergreichert/leipzig-giesst-dezember-2020))
+ * [Vortrag auf Bits und Bäume (Oktober 2022)](https://media.ccc.de/v/bitsundbaeume-20060-gie-a-bit-more-the-bume) ([Folien](https://www.slideshare.net/joergreichert/gie-a-bit-more-the-bume))
+ * [Preisverleihung Sächsischer Digitalpreis (Dezember 2022)](https://youtu.be/s4vCUnsS4dQ?t=25371) (1. Platz für Leipzig giesst)
+
+## Weitere Nebenprojekte
+ * [Baumfilter](https://codeforleipzig.github.io/giessdeibohm/): Leipziger Stadtbäume nach Eigenschaften filtern ([Github](https://github.com/CodeforLeipzig/giessdeibohm))
+ * [Pumpenkarte](https://codeforleipzig.github.io/leipzig_auf_pump/): Alle (auch abgebaute und kaputte) Handschwengelpumpen visualisieren ([Github](https://github.com/CodeforLeipzig/leipzig_auf_pump))
+ * [Baumstatistik](https://sannsie.carto.com/builder/ea1519a7-a58d-46a1-bd3a-286218c357d8/embed): Interaktive Baum(-fäll/-pflanz/-ersetz)statistiken ([Github](https://github.com/CodeforLeipzig/pumps-server#charts)) 
+ * [Gießstatistik](https://joergreichert.github.io/gdk-opendata-plot/): jährlich Gießmengen pro Baum ([Github](https://github.com/joergreichert/gdk-opendata-plot)) (auch veröffentlicht auf dem [Open Data Portal Leipzig](https://opendata.leipzig.de/dataset/jahresstatistik-leipziggiesst-gegossene-liter))

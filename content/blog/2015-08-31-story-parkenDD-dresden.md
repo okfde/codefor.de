@@ -1,6 +1,7 @@
 ---
 author: Eileen Wagner
 type: blog
+lab: [dresden]
 lang: en
 color: blue #red, blue, green, cyan
 pattern: 3 #one of: 1, 2, 3, 4

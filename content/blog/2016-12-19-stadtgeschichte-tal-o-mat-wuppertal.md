@@ -1,6 +1,7 @@
 ---
 author: Eileen Wagner
 type: blog
+lab: [wuppertal]
 color: cyan #one of: red, blue, green, cyan
 pattern: 2 #one of: 1, 2, 3, 4
 og-image: /blog/stories/talomat.jpg # used for facebook & twitter card

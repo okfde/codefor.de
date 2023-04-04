@@ -3,6 +3,7 @@ type: blog
 title: "OK Lab Berlin - Rückblick auf unsere Vortragsreihe 2020"
 author: Knut Hühne - OK Lab Berlin
 topic: community
+lab: [berlin]
 excerpt: "Das Jahr 2020 geht zu Ende und auch für uns im Berliner Open Knowledge Lab ist so einiges anders gelaufen, als wir uns das ursprünglich vorgestellt haben. Eine Sache die wir und vorgenommen haben - nämlich jeden Monat Expert*innen zu uns ins Lab einzuladen, um uns Vorträge zu ihren Themen anzuhören, konnten wir trotzdem verwirklichen. In diesem Fall hat das Social-Distancing sogar dazu geführt, dass wir deutlich internationaler gedacht haben und nicht nur Gäste aus Berlin, sondern aus der ganzen Welt hatten. In diesem Blogpost wollen wir die Vorträge noch einmal Revue passieren lassen." 
 images:
    - imgname: ok-lab-berlin-rueckblick-2020/fran-jacquier-tmuArUNS1TI-unsplash.png

@@ -5,6 +5,7 @@ title: München macht mit bei Codeweek EU
 author: Matt
 excerpt: Die Codeweek EU steht vor der Tür - und wir machen mit!
 topic: event
+lab: [muenchen]
 
 ---
 

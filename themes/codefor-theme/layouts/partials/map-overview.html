@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
   map.addControl(L.control.zoom({ position: 'topright' }));
 
   // basemap
-  var osmTilesUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+  var osmTilesUrl = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
   var osmAttrib = 'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors';
   var osmLayer = new L.TileLayer(osmTilesUrl, { minZoom: 5, attribution: osmAttrib });
   // load basemaps

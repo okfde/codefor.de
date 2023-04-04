@@ -1,21 +1,18 @@
 //config
 $fontSizeBase: 18px;
 $fontSizeH1: 34px;
-$fontSizeNav: $fontSizeBase + 6px;
 $fontSizeHero: $fontSizeBase + 10px;
 $fontSizeH3: $fontSizeBase + 6px;
 $fontSizeSmall: $fontSizeBase - 3px;
 
 $fontSizeBase-lg: 19px;
 $fontSizeH1-lg: 40px;
-$fontSizeNav-lg: $fontSizeBase-lg + 6px;
 $fontSizeHero-lg: $fontSizeBase-lg + 10px;
 $fontSizeH3-lg: $fontSizeBase-lg + 6px;
 $fontSizeSmall-lg: $fontSizeBase-lg - 3px;
 
 $fontSizeBase-xl: 21px;
 $fontSizeH1-xl: 40px;
-$fontSizeNav-xl: $fontSizeBase-xl + 8px;
 $fontSizeHero-xl: $fontSizeBase-xl + 12px;
 $fontSizeH3-xl: $fontSizeBase-xl + 8px;
 $fontSizeSmall-xl: $fontSizeBase-xl - 3px;
@@ -48,7 +45,6 @@ $codefor-light-grey: #F2F2F2;
 @import "bootstrap/button-group";
 @import "bootstrap/input-group";
 @import "bootstrap/custom-forms";
-@import "bootstrap/nav";
 @import "bootstrap/navbar";
 @import "bootstrap/card";
 //@import "bootstrap/breadcrumb";
@@ -299,7 +295,7 @@ blockquote {
   align-items: center;
   justify-content: center;
   text-align: center;
-  
+
   &.blue {
     &:before, &:after {
       color: $codefor-blue;

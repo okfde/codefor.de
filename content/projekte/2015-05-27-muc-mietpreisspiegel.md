@@ -3,7 +3,7 @@ layout: project
 lab: [muenchen] #needed for event and project aggregation
 imgname: # TODO
 title: Mietpreisspiegel
-status: In Progress
+status: Dead
 
 collaborators:
 - name: Mario Haim
