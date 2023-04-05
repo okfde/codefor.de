@@ -30,7 +30,7 @@ Während der Corona-Pandemie mangelte es häufig an strukturiert zur Verfügung 
 ### Was Berlin liest, was es verbraucht
 Die Stadtbibliothek Pankow veröffentlichte im Jahr 2022 offene Daten der Berliner Bibliotheken inklusive vielerlei anonymisierter Angaben zum Ausleihverhalten der Berliner:innen. [In Zusammenarbeit mit der ODIS Berlin](https://odis-berlin.de/aktuelles/2023-03-14-bibliotheksdaten_pankow/) entstand so ein übersichtliches [Dashboard mit Ausleihstatistiken](https://grafana.odis-berlin.de/public-dashboards/6b18fd27a9f84f959a4f63cfe0b985be?orgId=1).
 
-Daneben gibt es neuerdings den [Berliner EnergieCheckpoint](https://energiecheckpoint.odis-berlin.de/), eine interaktive Karte, welche den Stromverbrauch öffentlicher Gebäude visualisiert. [Ein Blog-Artikel der ODIS](https://odis-berlin.de/projekte/energiecheckpoint/) beschreibt die Methode sowie die Datengrundlage des Projekts. Die Rohdaten stehen in strukturierter Form [auf GitHub](https://github.com/technologiestiftung/energiekarte/blob/main/scripts/dataIn/verbrauch.csv) zur Verfügung. 
+Daneben gibt es neuerdings den [Berliner EnergieCheckpoint](https://energiecheckpoint.odis-berlin.de/), eine interaktive Karte, welche den Stromverbrauch öffentlicher Gebäude visualisiert. [Ein Blog-Artikel der ODIS](https://odis-berlin.de/projekte/energiecheckpoint/) beschreibt die Methode sowie die Datengrundlage des Projekts. Die Rohdaten stehen in strukturierter Form [auf GitHub](https://github.com/technologiestiftung/energiekarte/blob/main/scripts/dataIn/verbrauch.csv) zur Verfügung.
 
 ### Fast wie Ostereier suchen: Versteckte APIs finden
 Die Suche nach offenen Daten und Transparenz kann zuweilen eine ganz schöne Detektivarbeit sein. Auch APIs sind häufig nicht korrekt oder gar nicht dokumentiert. Ob gewollt oder nicht, diese "versteckten" APIs bergen das Potenzial, an scheinbar unerreichbare Daten zu gelangen. [Leon Yin gibt daher Tipps](https://www.niemanlab.org/2023/03/journalists-should-be-looking-for-undocumented-apis-heres-how-to-start/), wie versteckte APIs gefunden und sinnvoll genutzt werden können.
@@ -51,13 +51,12 @@ Anfang März fanden bundesweit die Open Data Days statt - die "wichtigsten Feier
 
 ## Veranstaltungen
  * Netzpolitischer Abend
-     * Dienstag, 05.04.2023, 20:00, Berlin und online: https://digitalegesellschaft.de/2022/03/115-netzpolitischer-abend/
-     * Freitag, 07.04.2023, aus Wien, online: https://netzpolitischerabend.wordpress.com/2022/03/30/61-netzpolitischer-abend-at-am-7-april-im-internet/
+     * Dienstag, 04.04.2023, 20:00, Berlin und online: https://digitalegesellschaft.de/2023/03/125-netzpolitischer-abend/
      * Donnerstag, 20.04.2023, 19:30, Zürich und online: https://www.digitale-gesellschaft.ch/event/netzpolitischer-abend-zu-digitale-selbstverteidigung-ein-irrweg/
  * Freitag, 07.04.2023 - Sonntag, 10.04.2023, Kampnagel (Jarrestraße 20, 22303 Hamburg): [EasterHegg20](https://eh20.easterhegg.eu/)
  * [OpenTransportMeetup](https://hackmd.okfn.de/opentransportmeetup)
      * Mittwoch, 05.04.2023, 20:00 Uhr - 21:30 Uhr: Tim Holthaus et al: Reisezeitmodellierung/ Routenwahl und Netzgestaltung
      * Mittwoch, 19.04.2023, 20:00 Uhr - 21:30 Uhr: Chris: Die 15-Minuten-Stadt
  * Failed yet successful: Learning from discontinued civic tech initiatives, Workshop at CHI’23 on April 23 or 28 2023, in Hamburg, Germany
-     * https://discontinued-civictech.github.io/ 
+     * https://discontinued-civictech.github.io/
      * https://discontinued-civictech.github.io/schedule
