@@ -1,6 +1,6 @@
 # Code for Germany – Unsere Website
 
-Dieses Repository beinhaltet die neue [codefor.de](https://codefor.de)-Webseite. Für die Entwicklung wird [Hugo](https://gohugo.io/), ein *Static Site Generator*, verwendet. Die [Doku findet ihr hier](https://gohugo.io/documentation/).
+Dieses Repository beinhaltet die neue [codefor.de](https://codefor.de)-Webseite. Für die Entwicklung wird [Hugo](https://gohugo.io/), ein *Static Site Generator*, verwendet. Die [Doku findet ihr hier](https://gohugo.io/documentation/). Rein ehrenamtlich engagierte Menschen haben durch ihren Einsatz dafür gesorgt, dass es seit 2020 einen nachvollziehbaren Codereview-Prozess gibt.
 
 Um Inhalte hinzuzufügen oder zu ändern ist im Grunde nur ein wenig Ahnung von [Markdown](https://www.markdownguide.org/getting-started/) benötigt.
 
