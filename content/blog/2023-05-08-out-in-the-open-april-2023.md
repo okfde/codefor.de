@@ -33,7 +33,7 @@ Die jeweiligen Geltungsbereiche gibt es leider auf der entsprechenden [FAQ-Seite
 
 Weitere Ausnahmen und Besonderheiten, auch je Bundesland, finden sich sowohl auf der [Ratgeber-Seite vom NDR](https://www.ndr.de/ratgeber/verbraucher/49-Euro-Ticket-Wo-gilt-es-und-wie-funktioniert-es,deutschlandticket104.html) als auch bei der [Morgenpost](https://www.morgenpost.de/politik/article237434145/deutschlandticket-49-euro-wo-gueltig-konditionen-ausnahmen-bahn.html).
 
-Schön wäre es, wenn es eine Suchfunktion bei der Bahn gäbe, die nur Verbindungen auflisten würde, für die das 49-Euro-Ticket tatsächlich gilt. Am besten auch als öffentliche API. Aber wie der Nutzer [momentum](ttps://social.tchncs.de/@momentum/110213670210063865) auf Mastodon anmerkt, müssen hier mal wieder zivilgesellschaftliche Initiativen wie [bund.dev](https://bund.dev/) einspringen, um die [Dokumentation und Zugänge](https://bund.dev/apis) für solche APIs bereit zu stellen.
+Schön wäre es, wenn es eine Suchfunktion bei der Bahn gäbe, die nur Verbindungen auflisten würde, für die das 49-Euro-Ticket tatsächlich gilt. Am besten auch als öffentliche API. Aber wie der Nutzer [momentum](https://social.tchncs.de/@momentum/110213670210063865) auf Mastodon anmerkt, müssen hier mal wieder zivilgesellschaftliche Initiativen wie [bund.dev](https://bund.dev/) einspringen, um die [Dokumentation und Zugänge](https://bund.dev/apis) für solche APIs bereit zu stellen.
 
 Andererseits ist so viel Komfort und Transparenz vielleicht auch gar nicht im Interesse eines gewinnorientierten Unternehmens.      
  
