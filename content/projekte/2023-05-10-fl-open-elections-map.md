@@ -1,7 +1,7 @@
 ---
 layout: project
 lab: [flensburg]
-imgname: flensburg/open_local_elections_map.png
+imgname: flensburg/open_local_elections_map.jpg
 title: Interaktive Kommunalwahl Karte
 status: Sucht Mitstreiter
 draft: false
