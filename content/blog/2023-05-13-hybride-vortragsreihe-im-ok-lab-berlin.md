@@ -6,9 +6,9 @@ excerpt: Hybridveranstaltungen im OK Lab Berlin
 topic: community
 Lab: [berlin]
 images:
-- imgname: vortrag-berlin-2023-05-13.jpg
+- imgname: vortrag-berlin-2023-05-13.jpeg
   attribution: 
-og_image: vortrag-berlin-2023-05-13.jpg
+og_image: vortrag-berlin-2023-05-13.jpeg
 type: blog
 ---
 
