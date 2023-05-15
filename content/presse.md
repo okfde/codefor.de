@@ -203,3 +203,4 @@ Code For Germany – Let code make German Cities a better Place (leider nicht me
 
 15.07.2014 - Kick-Off Pressemitteilung\
 [Code for Germany – Die Open Knowledge Foundation startet Programm fÃ¼r digitales Engagement in Kommunen](https://us5.campaign-archive.com/?u=929f1e07936386d34833e20d1&id=c6b9c30dd9&e=[UNIQID]) (Achtung: externer Link zum Campaign Archive)
+{{</ paragraph-center  >}}

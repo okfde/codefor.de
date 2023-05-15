@@ -1,11 +1,7 @@
 
 @font-face {
-  font-family: 'apercu-regular-pro';
-  src: url('/font/apercu-regular-pro.eot');
-  src: url('/font/apercu-regular-pro.eot?#iefix') format('embedded-opentype'),
-       url('/font/apercu-regular-pro.woff2') format('woff2'),
-       url('/font/apercu-regular-pro.woff') format('woff'),
-       url('/font/apercu-regular-pro.ttf') format('truetype');
+  font-family: 'Hanken Grotesk';
+  src: url('/font/hanken-grotesk-v8-latin-regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
@@ -17,10 +13,8 @@
 }
 
 
-//---------------------------------------------------
-// font sizes
 body{
-  font-family: apercu-regular-pro;
+  font-family: 'Hanken Grotesk', sans-serif;
   font-size: $fontSizeBase;
 }
 
