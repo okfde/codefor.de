@@ -1417,6 +1417,14 @@ from = "/code-of-conduct/"
 to = "/grundsaetze/"
 
 [[ redirects ]]
+from = "/about/"
+to = "/community/"
+
+[[ redirects ]]
+from = "/mitmachen/"
+to = "/community/"
+
+[[ redirects ]]
 from = "/datenschutz/"
 to = "/impressum#datenschutzerklärung"
 

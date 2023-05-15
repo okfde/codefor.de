@@ -1,0 +1,29 @@
+<div class="slideshow">
+    {{ .Inner }}
+</div>
+<script>
+    // TODO: Check for prefers-reduced-motion-here
+    const container = document.querySelector(".slideshow");
+    const images = container.querySelectorAll("img");
+    let index = 0;
+    const swapImage = () => {
+        images.forEach(i => i.classList.add("hidden"))
+        images[index].classList.remove("hidden");
+        index = (index + 1) % images.length;
+    }
+    swapImage();
+    setInterval(swapImage, {{ int (.Get "interval") }})
+</script>
+<style>
+    .slideshow {
+        display: flex;
+        width: {{ .Get "width" }};
+        height: {{ .Get "height" }};
+    }
+    .slideshow .hidden {
+        display: none;
+    }
+    .slideshow img{
+        object-fit: cover;
+    }
+</style>
