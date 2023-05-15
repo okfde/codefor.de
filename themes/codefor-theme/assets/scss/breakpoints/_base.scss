@@ -258,10 +258,11 @@ a:active {
   padding-block: 2em;
 
   .content {
+    padding-inline: 1em;
     margin-inline: auto;
     max-width: 1200px;
     display: grid;
-    grid-template-columns: repeat(3, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(#{'min(300px, 100%)'}, 1fr));
     gap: 20px;
 
     .social {
@@ -269,6 +270,7 @@ a:active {
       display: flex;
       gap: .5em;
       flex-direction: column;
+      padding: 0;
 
       li {
         display: flex;
