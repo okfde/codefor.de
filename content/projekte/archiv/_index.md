@@ -8,3 +8,5 @@ title: Archiv
 {{< headline-brackets-h1 color="red"  >}}
 Projektarchiv
 {{< /headline-brackets-h1  >}}
+
+{{< project-list >}}
