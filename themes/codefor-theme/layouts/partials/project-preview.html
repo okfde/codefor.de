@@ -24,9 +24,13 @@
     </div>
 
     <div class="card-body p-4">
+      {{ if (isset .Params "imgname")  }}
+        <img src="/projects/{{ .Params.imgname }}" style="width: 100%; object-fit: cover; aspect-ratio: 16/9" alt="Screenshot {{ .Title }}">
+      {{ else }}
+        <div style="width: 100%; object-fit: cover; aspect-ratio: 16/9"></div>
+      {{ end }}
       <a class="text-dark no-underline" href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
       <div class="text-dark" >
-
         {{ if (isset .Params "Excerpt") }}
          {{ if (gt (len .Params.Excerpt) 0)}}
             {{ .Params.Excerpt | truncate 200 }}
