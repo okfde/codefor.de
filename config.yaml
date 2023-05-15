@@ -58,19 +58,6 @@ menu:
     name: Ressourcen
     url: /ressourcen/
     weight: 6
-  footer:
-  - identifier: impressum
-    name: Impressum
-    url: /impressum
-    weight: 500
-  - identifier: datenschutz
-    name: Datenschutz
-    url: /datenschutz
-    weight: 501
-  - identifier: grundsaetze
-    name: Grundsätze
-    url: /grundsaetze
-    weight: 502
 
 frontmatter:
   date: [":filename", ":default"]

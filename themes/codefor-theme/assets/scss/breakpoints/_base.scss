@@ -27,6 +27,7 @@ h3{
   margin-top: 20px;
 }
 
+// confusingly enough, this is used to attribute quotes in some blogposts
 footer{
   font-size: $fontSizeSmall !important;
   h3{
@@ -251,21 +252,38 @@ a:active {
 }
 
 
-//---------------------------------------------------
-// footer
-footer{
-  .footbar{
-    h4{
-      text-transform: uppercase;
+.page-footer{
+  border-top: 1px solid lightgray;
+  margin-block-start: 5em;
+  padding-block: 2em;
+
+  .content {
+    margin-inline: auto;
+    max-width: 1200px;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(300px, 1fr));
+    gap: 20px;
+
+    .social {
+      list-style-type: none;
+      display: flex;
+      gap: .5em;
+      flex-direction: column;
+
+      li {
+        display: flex;
+        align-items: center;
+        a {
+          text-decoration: none;
+        }
+        img {
+          height: 1.5rem;
+          margin-right: 1ch;
+        }
+      }
     }
   }
-  .footer-social-icon{
-    width: 30px;
-    margin-bottom: 13px;
-  }
 }
-
-
 
 
 //---------------------------------------------------

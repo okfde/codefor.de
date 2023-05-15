@@ -1,6 +1,5 @@
 ---
 title: Über uns
-footerHideTopMargin: true
 
 #Legacy link
 aliases:

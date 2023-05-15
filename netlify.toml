@@ -1415,3 +1415,7 @@ to = "/index.xml"
 [[ redirects ]]
 from = "/code-of-conduct/"
 to = "/grundsaetze/"
+
+[[ redirects ]]
+from = "/datenschutz/"
+to = "/impressum#datenschutzerklärung"
