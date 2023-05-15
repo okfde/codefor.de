@@ -64,8 +64,9 @@ $codefor-light-grey: #F2F2F2;
 @import "bootstrap/print";
 
 
-//Leaflet map
+// Our imports
 @import "alert";
+@import "blog";
 @import "map";
 
 /*********************
