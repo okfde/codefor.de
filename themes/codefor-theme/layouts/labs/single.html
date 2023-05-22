@@ -13,6 +13,13 @@
     {{ partial "hero-block-center.html" (dict "context" . "txt" .Params.Hero ) }}
     {{ end }}
 
+    {{ if .Params.inactive }}
+        <div class="alert alert-warning mt-4" role="alert">
+            Dieses Lab ist nicht mehr aktiv. <br />  Wenn du Fragen zum Netzwerk hast, dann schreib
+            uns gerne direkt an info@codefor.de.
+        </div>
+    {{ end }}
+
     <section>
         {{ .Content }}
     </section>
