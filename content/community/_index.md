@@ -1,4 +1,5 @@
 ---
+needsLeafletCss: true
 ---
 {{< image-slideshow interval="4_000" width="600px" height="400px" >}}
 {{< slideshow-image src="https://picsum.photos/600/400" >}}
