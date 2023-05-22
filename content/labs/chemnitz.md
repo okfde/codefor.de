@@ -4,6 +4,7 @@ title: OK Lab Chemnitz
 lat: 50.83063
 long: 12.93973
 markerposition: right
+inactive: true
 
 aliases:
 - /chemnitz
