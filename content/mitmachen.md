@@ -1,5 +1,6 @@
 ---
 title: Mitmachen
+needsLeafletCSS: true
 ---
 {{< headline-icon icon="icon-bracket.svg" >}}
 
