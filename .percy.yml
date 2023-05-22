@@ -1,8 +1,9 @@
 version: 2
 static:
-  include: 
+  include:
     - /index.html
     - /berlin/index.html
+    - /cottbus/index.html
     - /stuttgart/index.html
     - /mitmachen/index.html
     - /projekte/index.html
