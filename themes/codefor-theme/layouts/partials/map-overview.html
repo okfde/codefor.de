@@ -83,8 +83,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   labs.forEach(function (lab) {
     const a = document.createElement('a');
-    const suffix = lab.inactive ? " (Inaktiv)" : "";
-    a.innerText = `${lab.city}${suffix}`;
+    a.innerText = lab.city;
     a.href = lab.link;
     const Icon = label(lab)
     var marker = L.marker(lab.coords, {
