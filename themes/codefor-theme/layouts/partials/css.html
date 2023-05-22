@@ -3,7 +3,7 @@
 {{- $cssTarget    := "css/style.css" }}
 {{- $cssOpts      := cond ($inServerMode) (dict "targetPath" $cssTarget "enableSourceMap" true) (dict "targetPath" $cssTarget "outputStyle" "compressed") }}
 
-{{- if (or (eq .Page.File.BaseFileName "mitmachen") (ne .Page.Params.city nil)) -}}
+{{- if (or .Page.Params.needsLeafletCSS (ne .Page.Params.city nil) ) -}}
 <link rel="stylesheet" href="{{ "leaflet/leaflet.css" | absURL }}" />
 {{- end -}}
 
