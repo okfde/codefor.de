@@ -47,39 +47,49 @@ document.addEventListener("DOMContentLoaded", function () {
   // load basemaps
   osmLayer.addTo(map);
 
-  // define left-aligned and right-aligned labels and icons
-  var labelRight = L.Icon.Label.extend({
-    options: {
+  const label = (lab) => {
+    const baseOptions = {
       iconUrl: "/img/lab_marker_home.svg",
       shadowUrl: null,
       iconSize: new L.Point(21, 35),
       iconAnchor: new L.Point(0, 0),
       labelAnchor: new L.Point(25, 2),
       wrapperAnchor: new L.Point(10, 35),
-    }
-  });
-  var labelLeft = labelRight.extend({
-    options: {
+    };
+    const labelLeftOptions =  {
       labelAnchor: new L.Point(0, 2),
       labelClassName: "label-left"
+    };
+    const inactiveOptions = {
+      iconUrl: "/img/lab_marker_inactive.svg",
     }
-  });
-  var labelTypes = { left: labelLeft, right: labelRight };
+    return L.Icon.Label.extend({
+      options: {
+        ...baseOptions,
+        ...(lab.inactive ? inactiveOptions : {}),
+        ...(lab.label === 'left' ? labelLeftOptions : {}),
+    }});
+  };
 
   var labs = [
 {{- range $labs -}}
   {{- $coords := slice ((printf "%.2f" .Params.lat) | float) ((printf "%.2f" .Params.long) | float ) -}}
   {{- $label := cond (eq .Params.markerposition "right") "right" "left" -}}
-  {{- dict "coords" $coords "label" $label "link" .RelPermalink "city" .Params.city | jsonify | safeJS -}},
+  {{- dict "coords" $coords "label" $label "link" .RelPermalink "city" .Params.city "inactive" .Params.inactive | jsonify | safeJS -}},
 {{- end -}}
 ]
 
   var labsLayer = L.featureGroup().addTo(map);
 
   labs.forEach(function (lab) {
+    const a = document.createElement('a');
+    const suffix = lab.inactive ? " (Inaktiv)" : "";
+    a.innerText = `${lab.city} ${suffix}`;
+    a.href = lab.link;
+    const Icon = label(lab)
     var marker = L.marker(lab.coords, {
-      icon: new labelTypes[lab.label]({
-        labelText: '<a href="' + lab.link + '">' + lab.city + '</a>'
+      icon: new Icon({
+        labelText: a.innerHTML
        }),
       url: lab.link,
     })
