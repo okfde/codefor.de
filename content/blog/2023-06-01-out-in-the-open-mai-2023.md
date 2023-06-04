@@ -53,16 +53,18 @@ Am Pfingstmontag ist mit [Magdeburg giesst](https://www.magdeburg-giesst.de/) ei
 Zum Abschluss noch der Hinweis auf [Gina Neffs Vortrag](https://www.youtube.com/watch?v=RCQIlTHyGZw), bei [Netzpolitik](https://netzpolitik.org/2023/kuenstliche-intelligenz-eines-der-groessten-sozialen-experimente-aller-zeiten/) auch nochmal schriftlich zusammengefasst zu finden. Sie mahnt uns: "Die falsche Vorstellung, dass es da draußen eine irgendwie natürliche und objektive Datenrealität gibt, spielt in eine Reihe politischer und kultureller Entscheidungen hinein. Entscheidungen darüber, wer die Macht über die zu treffenden Entscheidungen haben soll."
 
 ## Veranstaltungen
-* Freitag, 08.06.2023 bis Sonntag, 11.06.2023, HfG und ZKM, Lorenzstr. 15, 76135 Karlsruhe: **21. Gulaschprogrammiernacht**
-   https://events.ccc.de/2023/04/18/21-gulaschprogrammiernacht/ 
-* Dienstag, 13.06.2023, 10:00 - 11:30, Zoom: **10. Open-Data-Netzwerktreffen**: Braucht meine Kommune ein eigenes Open-Data-Portal?
-  https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/das-kommunale-open-data-netzwerktreffen#c222693
+* Montag, 05.06.2023, bis Mittwoch 07.06.2023, Arena Berlin & Festsaal Kreuzberg: **re:publica**,
+  * https://re-publica.com/de
+  * [Triff die OKFDE auf der re:publica!](https://okfn.de/blog/2023/05/triffdieokfaufderrepublica23/)
+* Freitag, 08.06.2023, bis Sonntag, 11.06.2023, HfG und ZKM, Lorenzstr. 15, 76135 Karlsruhe: **21. Gulaschprogrammiernacht**
+  * https://events.ccc.de/2023/04/18/21-gulaschprogrammiernacht/ 
+* Dienstag, 13.06.2023, 10:00 - 11:30, Zoom: **10. Open-Data-Netzwerktreffen**: Braucht meine Kommune ein eigenes Open-Data-Portal
+  * https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/das-kommunale-open-data-netzwerktreffen#c222693
 * Mittwoch, 14.06.2023, 20:00 - 21:30: **Open Transport Meetup**: transport.gouv.data.fr - The French National Access Point / Open Data Portal for Mobility Data
-  https://hackmd.okfn.de/opentransportmeetup#Online-14062023-2000---2130-Uhr-transportgouvdatafr
+  * https://hackmd.okfn.de/opentransportmeetup#Online-14062023-2000---2130-Uhr-transportgouvdatafr
 * Freitag, 16.06.2023, 09:00 – 16:30, Karl der Grosse, Zürich: **Opendata.ch/2023 Forum**
-  https://opendata.ch/de/events/opendata-ch-2023-forum/
+  * https://opendata.ch/de/events/opendata-ch-2023-forum/
 * Montag, 26.06.2023 bis Freitag, 30.06.2023: **Data Week Leipzig 2023** 
-  https://2023.dataweek.de/
-* Camp23 - Call for Participation
-  Du kannst Einreichungen bis 09.06.2023 23:42 (Europe/Berlin) abschicken
-  https://pretalx.c3voc.de/chaos-communication-camp-2023/cfp
+  * https://2023.dataweek.de/
+* Camp23 - Call for Participation - man kann Einreichungen bis 09.06.2023 23:42 (Europe/Berlin) abschicken
+  * https://pretalx.c3voc.de/chaos-communication-camp-2023/cfp
