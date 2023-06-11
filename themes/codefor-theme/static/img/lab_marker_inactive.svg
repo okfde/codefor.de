@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="21.5px" height="38.5px" viewBox="0 0 21.5 38.5" style="enable-background:new 0 0 21.5 38.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B3B2B2;}
+	.st1{fill:none;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+    <g id="Gruppe_1250" transform="translate(0.75 0.75)">
+	<g id="XMLID_00000155846825205682629710000004796148757449999242_">
+		<g>
+			<path class="st0" d="M20,9.8c0,0.2,0,0.4,0,0.5c0,3.6-7,20.1-10,26.7c0,0-10-21-10-26.7C-0.1,4.8,4.2,0.2,9.8,0S19.9,4.2,20,9.8z
+				"/>
+		</g>
+        <g>
+			<path class="st1" d="M10,37c0,0-10-21-10-26.7C-0.1,4.8,4.2,0.2,9.8,0S19.9,4.2,20,9.8c0,0.2,0,0.4,0,0.5C20,13.9,13,30.4,10,37z
+				"/>
+		</g>
+	</g>
+        <path class="st2" d="M15.5,12c0,3-2.5,5.5-5.5,5.5c-3.1,0-5.5-2.5-5.5-5.5c0-1.7,0.8-3.3,2.2-4.4C7.6,6.9,8.8,6.5,10,6.5
+		C13.1,6.5,15.5,9,15.5,12z"/>
+</g>
+</svg>

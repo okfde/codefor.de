@@ -1,0 +1,10 @@
+.cfg-alert {
+  padding: 10px;
+  border-radius: 5px;
+  --color: lightgray;
+  background-color: var(--color);
+
+  &.info {
+    --color: #80ddd7;
+  }
+}
