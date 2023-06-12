@@ -1,0 +1,13 @@
+.project-preview-card {
+  .card-header {
+    height: 30px; // set height explicitly so that cards without icons have the same height as others
+  }
+
+  .project-image {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+    aspect-ratio: 16/9;
+    font-style: italic;
+  }
+}
