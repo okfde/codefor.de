@@ -7,27 +7,26 @@
 Unterstütze uns!
 {{< /headline-brackets-h1  >}}
 
-### Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten.
+### Unterstütze Code for Germany und fördere Open Data, Civic Tech und Transparenz in Deutschland.
 
-Mit unserem [aktuellen
-Freistellungsbescheid](https://okfn.de/files/documents/2022_Freistellungsbescheid_fuer_2021.pdf)
-sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft
-und Forschung sowie von Volks- und Berufsbildung anerkannt. Für
-Spenden bis zu 300 Euro jährlich genügt als Spendennachweis dein
-Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem [Vereinfachten
-Zuwendungsnachweis](https://okfn.de/files/documents/2022_OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).
-
-Mit Deiner Spende unterstützt Du eine starke digitale Zivilgesellschaft und ermöglichst:
-- politische Kampagnenarbeit im Interesse der Zivilgesellschaft
-- Projekte zu freiem Wissen und digitaler Mündigkeit
-- die Infrastruktur, die alle unsere Projekte trägt (interne Verwaltung, Sach- und Mietkosten).
-- Logo Initiative Transparente Zivilgesellschaft
-
+Wir setzen uns dafür ein, dass die Möglichkeiten der offenen und
+freien Digitalisierung allen Menschen zugute kommen! Deine Spende
+fließt in die Förderung unserer Ehrenamtlichen, in die Betreuung
+unseres Netzwerks, in unsere technische Infrastruktur und in
+Community-Veranstaltungen
 
 ## Spenden via Überweisung
+Deine Spenden gehen an den Trägerverein von Code for Germany, die
+Open Knowledge Foundation Deutschland e.V. Für Spenden über 300
+Euro jährlich stellen wir eine Spendenbestätigung aus, regulär am
+Anfang des nächsten Kalenderjahres. Damit diese bei dir ankommt,
+gib deine Email- oder Postadresse in der Überweisung an oder
+kontaktiere uns via Email an info@codefor.de
+
+
 Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:
 
-<dl style="display: grid; grid-template-columns: auto 1fr; column-gap: 1ch">
+<dl style="display: grid; grid-template-columns: auto 1fr; column-gap: 1ch; margin-bottom: 3em">
   <dt>Kontoinhaber:</dt>
   <dd>Open Knowledge Foundation<br> Deutschland e.V.</dd>
   <dt>IBAN:</dt>
@@ -39,7 +38,9 @@ Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträg
 </dl>
 
 ## Spenden via Betterplace
-Du kannst uns auch über die Spendenplattform Betterplace.org unterstützen. Dann erhältst du deine Spendenbestätigung nicht von uns, sondern direkt von Betterplace.org.
+Du kannst uns auch über die Spendenplattform Betterplace.org
+unterstützen. Dann erhältst du deine Spendenbestätigung nicht von
+uns, sondern direkt von Betterplace.org.
 
 <script type="text/javascript">
   /* Configure at https://www.betterplace.org/de/manage/projects/66473-unterstuetze-die-open-knowledge-labs/iframe_donation_form/new */
