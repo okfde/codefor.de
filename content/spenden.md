@@ -24,7 +24,7 @@ Mit Deiner Spende unterstützt Du eine starke digitale Zivilgesellschaft und erm
 - Logo Initiative Transparente Zivilgesellschaft
 
 
-### Überweisung
+## Spenden via Überweisung
 Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:
 
 <dl style="display: grid; grid-template-columns: auto 1fr; column-gap: 1ch">
@@ -34,9 +34,13 @@ Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträg
   <dd>DE36 4306 0967 1173 8932 00</dd>
   <dt>BIC:</dt>
   <dd>GENODEM1GLS</dd>
+  <dt>Verwendungszweck:</dt>
+  <dd>Code for Germany</dd>
 </dl>
 
-### Betterplace
+## Spenden via Betterplace
+Du kannst uns auch über die Spendenplattform Betterplace.org unterstützen. Dann erhältst du deine Spendenbestätigung nicht von uns, sondern direkt von Betterplace.org.
+
 <script type="text/javascript">
   /* Configure at https://www.betterplace.org/de/manage/projects/66473-unterstuetze-die-open-knowledge-labs/iframe_donation_form/new */
   var _bp_iframe        = _bp_iframe || {};
