@@ -1,5 +1,4 @@
-<div class="col-24 col-md-12 col-lg-12 col-xl-8 mb-3 project-preview-card">
-  <div class="card border-dark h-100" href="{{.Permalink}}">
+  <div class="card border-dark h-100 project-preview-card" href="{{.Permalink}}">
     <div class="card-header border-bottom-0 bg-white ">
       <ul class="d-flex list-unstyled justify-content-end m-0 p-0">
         {{ range (.Param "tags") }}
@@ -24,11 +23,7 @@
     </div>
 
     <div class="card-body p-4">
-      {{ if (isset .Params "imgname")  }}
-        <img class="project-image" src="/projects/{{ .Params.imgname }}"  alt="Screenshot {{ .Title }}">
-      {{ else }}
-        <div style="width: 100%; object-fit: cover; aspect-ratio: 16/9"></div>
-      {{ end }}
+      <img class="project-image" src="/projects/{{ .Params.imgname }}"  alt="Screenshot {{ .Title }}">
       <a class="text-dark no-underline" href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
       <div class="text-dark" >
         {{ if (isset .Params "Excerpt") }}
@@ -50,4 +45,3 @@
       <span class="text-right">{{.Params.status}}</span>
     </div>
   </div>
-</div>

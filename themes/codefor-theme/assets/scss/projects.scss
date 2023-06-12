@@ -4,10 +4,18 @@
   }
 
   .project-image {
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100%;
     object-fit: cover;
     aspect-ratio: 16/9;
     font-style: italic;
   }
+}
+
+#projects-container {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(Min(100%, 400px), 1fr));
 }
