@@ -1,22 +1,44 @@
 <div class="slideshow">
     {{ .Inner }}
+    <div class="indicators"></div>
 </div>
 <script>
-    // TODO: Check for prefers-reduced-motion-here
+
     const container = document.querySelector(".slideshow");
     const images = container.querySelectorAll("img");
-    let index = 0;
+
     const swapImage = () => {
         images.forEach(i => i.classList.add("hidden"))
+        buttons.forEach(i => i.classList.remove("active"))
         images[index].classList.remove("hidden");
+        buttons[index].classList.add("active");
         index = (index + 1) % images.length;
     }
+
+    const mediaQuery = window.matchMedia('(prefers-reduced-motion: reduce)');
+    const interval = setInterval(mediaQuery.matches ? () => {} : swapImage, {{ int (.Get "interval") }})
+
+    let index = 0;
+    const indicators = container.querySelector('.indicators')
+    const buttons = Array.from(images).map((image, i) => {
+        const button = document.createElement('button');
+        button.addEventListener('click', () => {
+            index = i;
+            swapImage();
+            clearInterval(interval);
+        });
+        indicators.appendChild(button);
+        return button;
+    });
+
     swapImage();
-    setInterval(swapImage, {{ int (.Get "interval") }})
+
 </script>
 <style>
     .slideshow {
         display: flex;
+        gap: 10px;
+        flex-direction: column;
         width: {{ .Get "width" }};
         height: {{ .Get "height" }};
     }
@@ -25,5 +47,21 @@
     }
     .slideshow img{
         object-fit: cover;
+    }
+
+    .slideshow .indicators {
+        display: flex;
+        justify-content: center;
+        gap: 5px;
+    }
+
+    .slideshow .indicators button {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+    }
+
+    .slideshow .indicators button.active {
+        background-color: #01a9fa;
     }
 </style>
