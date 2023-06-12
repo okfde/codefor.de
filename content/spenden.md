@@ -3,6 +3,40 @@
 
 {{< paragraph-center  >}}
 
+{{< headline-brackets-h1 color="blue"  >}}
+Unterstütze uns!
+{{< /headline-brackets-h1  >}}
+
+### Spenden ermöglichen es uns, unabhängig, überparteilich, interdisziplinär und nichtkommerziell zu arbeiten.
+
+Mit unserem [aktuellen
+Freistellungsbescheid](https://okfn.de/files/documents/2022_Freistellungsbescheid_fuer_2021.pdf)
+sind wir als gemeinnütziger Verein zur Förderung der Wissenschaft
+und Forschung sowie von Volks- und Berufsbildung anerkannt. Für
+Spenden bis zu 300 Euro jährlich genügt als Spendennachweis dein
+Zahlungsnachweis (z.B.Kontoauszug) zusammen mit unserem [Vereinfachten
+Zuwendungsnachweis](https://okfn.de/files/documents/2022_OKF_Zuwendungen_vereinfachte_Zuwendungsbest.pdf).
+
+Mit Deiner Spende unterstützt Du eine starke digitale Zivilgesellschaft und ermöglichst:
+- politische Kampagnenarbeit im Interesse der Zivilgesellschaft
+- Projekte zu freiem Wissen und digitaler Mündigkeit
+- die Infrastruktur, die alle unsere Projekte trägt (interne Verwaltung, Sach- und Mietkosten).
+- Logo Initiative Transparente Zivilgesellschaft
+
+
+### Überweisung
+Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:
+
+<dl style="display: grid; grid-template-columns: auto 1fr; column-gap: 1ch">
+  <dt>Kontoinhaber:</dt>
+  <dd>Open Knowledge Foundation<br> Deutschland e.V.</dd>
+  <dt>IBAN:</dt>
+  <dd>DE36 4306 0967 1173 8932 00</dd>
+  <dt>BIC:</dt>
+  <dd>GENODEM1GLS</dd>
+</dl>
+
+### Betterplace
 <script type="text/javascript">
   /* Configure at https://www.betterplace.org/de/manage/projects/66473-unterstuetze-die-open-knowledge-labs/iframe_donation_form/new */
   var _bp_iframe        = _bp_iframe || {};
