@@ -9,5 +9,6 @@ static:
     - /projekte/index.html
     - /blog/code-for-berlin-talks/index.html
     - /projekte/pricemap-eu/index.html
+    - /spenden.html
 discovery:
   disable-cache: true
