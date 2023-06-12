@@ -198,3 +198,4 @@ n/a 2014 - Wired Magazin\
 
 15.07.2014 - Kick-Off Pressemitteilung\
 [Code for Germany – Die Open Knowledge Foundation startet Programm für digitales Engagement in Kommunen](https://us5.campaign-archive.com/?u=929f1e07936386d34833e20d1&id=c6b9c30dd9&e=[UNIQID])
+{{</ paragraph-center  >}}
