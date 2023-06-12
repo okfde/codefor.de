@@ -19,3 +19,23 @@
   gap: 20px;
   grid-template-columns: repeat(auto-fit, minmax(Min(100%, 400px), 1fr));
 }
+
+.project-accordion-container {
+  display: grid;
+  gap: 10px;
+}
+
+.project-accordion-item {
+  border: none;
+  background: #01a9fa;
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    .read-more {
+      flex-grow: 1;
+      text-align: right;
+    }
+  }
+}

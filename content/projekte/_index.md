@@ -18,10 +18,9 @@ Seit 2014 zeigen wir, was mit offenen Technologien alles möglich ist:
 {{< /hero-block-center  >}}
 
 
+{{< projekte/featured-projects >}}
 
 {{< paragraph-center  >}}
-
-TODO: Featured Section
 
 Mit Prototypen und im direkten Austausch vermitteln wir ein
 besseres Verständnis für die Möglichkeiten offener

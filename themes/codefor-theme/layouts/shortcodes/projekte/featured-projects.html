@@ -1,0 +1,23 @@
+<div class="row justify-content-center my-4">
+    <div class="col-23 col-sm-20 col-lg-14 col-xl-11">
+        <div class="accordion project-accordion-container">
+            {{ range $index, $element := $.Site.Data.projekte }}
+            <details class="project-accordion-item" id="heading-{{ $index }}">
+                <summary class="card-header">
+                    <h3>
+                        {{ $element.title }}
+                    </h3>
+                    <div class="read-more">
+                        <i>mehr lesen</i>
+                    </div>
+                    <img class="open-close" src="/img/close-icon.svg" alt="">
+                </summary>
+
+                <div class="details-content">
+                    {{ $element.txt | markdownify }}
+                </div>
+            </details>
+            {{ end }}
+        </div>
+    </div>
+</div>
