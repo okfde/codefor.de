@@ -13,7 +13,7 @@ Wir setzen uns dafür ein, dass die Möglichkeiten der offenen und
 freien Digitalisierung allen Menschen zugute kommen! Deine Spende
 fließt in die Förderung unserer Ehrenamtlichen, in die Betreuung
 unseres Netzwerks, in unsere technische Infrastruktur und in
-Community-Veranstaltungen
+Community-Veranstaltungen.
 
 ## Spenden via Überweisung
 Deine Spenden gehen an den Trägerverein von Code for Germany, die
@@ -21,10 +21,9 @@ Open Knowledge Foundation Deutschland e.V. Für Spenden über 300
 Euro jährlich stellen wir eine Spendenbestätigung aus, regulär am
 Anfang des nächsten Kalenderjahres. Damit diese bei dir ankommt,
 gib deine Email- oder Postadresse in der Überweisung an oder
-kontaktiere uns via Email an info@codefor.de
+kontaktiere uns via Email an info@codefor.de.
 
-
-Unsere Bankverbindung für direkte Spenden oder Überweisungen und Daueraufträge ist:
+Unsere Bankverbindung für einmalige Spenden und Daueraufträge ist:
 
 <dl style="display: grid; grid-template-columns: auto 1fr; column-gap: 1ch; margin-bottom: 3em">
   <dt>Kontoinhaber:</dt>
