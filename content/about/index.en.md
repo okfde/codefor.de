@@ -1,6 +1,5 @@
 ---
 title: About us
-footerHideTopMargin: true
 ---
 
 {{< headline-icon icon="icon-info.svg" >}}
