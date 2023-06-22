@@ -93,7 +93,7 @@ Was bei uns passiert
 
 {{< home/teaser-blog >}}
 
-{{< button-center href="/blog" >}}
+{{< button-center href="/blog" class="mt-6" >}}
 Mehr Blogartikel lesen
 {{< /button-center >}}
 {{< /section >}}
