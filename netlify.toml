@@ -1419,3 +1419,7 @@ to = "/grundsaetze/"
 [[ redirects ]]
 from = "/datenschutz/"
 to = "/impressum#datenschutzerklärung"
+
+[[ redirects ]]
+from = "/testcloudlink-06-2023/"
+to = "https://cloud.okfn.de/s/PSzJJZKWQa6gygJ"
