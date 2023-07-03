@@ -23,10 +23,7 @@ Unsere Community
 Code for Germany verbindet Menschen aus unterschiedlichen Bereichen, die sich für eine gemeinwohlorientierte digitale Zukunft einsetzen.
 {{< /hero-block-center >}}
 
-
 {{< paragraph-center  >}}
-## Was wir machen
-
 Unsere Community zählt rund 300 Menschen, die ihre Expertise für
 Code for Germany einsetzen. Fast alle engagieren sich ehrenamtlich. Wir
 treffen uns in lokalen Labs und online.
@@ -44,9 +41,10 @@ unterstützen einander und lernen gemeinsam.
 Wir stehen für Vielfalt, Gerechtigkeit und Gleichbehandlung. Wer
 bei uns mitmacht, online und vor Ort, akzeptiert unseren Code of
 Conduct.
-
+<br>
+<br>
 <h2 id="mitmachen">Wie du mitmachen kannst</h2>
-Du möchtest dich einbringen? Wir freuen uns auf dich!
+Du möchtest dich einbringen? Es gibt verschiedene Möglichkeiten, bei uns mitzumachen. Wir freuen uns auf dich! 
 
 ### Komm in unsere Online-Community
 
@@ -63,7 +61,7 @@ Email senden
 
 ### Besuche ein Lab in deiner Nähe
 
-Über die Karte kommst du zu den Unterseiten der einzelnen Labs. Dort erfährst du mehr über Termine und Ansprechpartner*innen.\
+Über die Karte kommst du zu den Unterseiten der einzelnen Labs. Dort erfährst du mehr über Termine und Ansprechpartner\*innen.
 {{< labmap-overview >}}
 
 ### Unterstütze unsere Arbeit
