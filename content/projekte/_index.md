@@ -14,7 +14,7 @@ Projekte
 {{< /headline-brackets-h1 >}}
 
 {{< hero-block-center >}}
-Alle Projekte, die bei Code for Germany entstehen, sind Open Source. Sie lassen sich kostenlos verwenden, installieren und weiterentwicklen.
+Alle Projekte, die bei Code for Germany entstehen, sind Open Source. Sie lassen sich kostenlos verwenden und weiterentwicklen.
 {{< /hero-block-center >}}
 
 {{< paragraph-center >}}
@@ -24,7 +24,7 @@ Seit der Gründung von Code for Germany im Jahr 2014 zeigen wir, was mit offenen
 
 {{< projekte/featured-projects >}}
 
-{{< headline-brackets-h1 >}}
+{{< headline-brackets-h1 color="blue"  >}}
 Konkrete Fragen, die sich mit Offenen Daten beantworten lassen
 {{< /headline-brackets-h1 >}}
 
