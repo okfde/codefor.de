@@ -28,7 +28,7 @@
 
 .project-accordion-item {
   border: none;
-  background: #01a9fa;
+  background: $codefor-light-teal;
   .card-header {
     display: flex;
     align-items: center;
@@ -41,5 +41,6 @@
   }
   .details-content {
     padding: 1em;
+    background: $codefor-mint;
   }
 }
