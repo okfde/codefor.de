@@ -333,3 +333,21 @@ blockquote {
 .lab-logo {
   width: 200px;
 }
+
+.quote {
+  .author {
+    font-style: italic;
+    font-size: .8em;
+  }
+
+  &:nth-child(even){
+    text-align: right;
+  }
+}
+
+.quotes-list {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin: 50px 0;
+}

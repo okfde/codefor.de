@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+<hr />
+
+<div class="blog__container">
+    <div class="blog__posts">
+        {{ range (where .Site.RegularPages "Params.type" "blog")  |first 2 }}
+        {{ partial "blog-preview.html" . }}
+        {{ end }}
+    </div>
+</div>
+{{ end }}

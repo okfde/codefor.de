@@ -28,16 +28,11 @@ languages:
 
 menu:
   main:
-  - identifier: about
-    pageRef: about
-    name: Über uns
-    url: /about/
+  - identifier: community
+    pageRef: community
+    name: Community
+    url: /community/
     weight: 1
-  - identifier: mitmachen
-    pageRef: mitmachen
-    name: Mitmachen
-    url: /mitmachen
-    weight: 2
   - identifier: ziele
     pageRef: ziele
     name: Ziele
