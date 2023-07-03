@@ -11,9 +11,6 @@ aliases:
 
 members:
 
-- name: Julia Kloiber
-  username_twitter: j_kloiber
-
 - name: Stefan Wehrmeyer
   username_github: stefanw
   username_twitter: stefanwehrmeyer
@@ -27,10 +24,6 @@ members:
 
 - name: Friedrich Lindenberg
   username_github: pudo
-
-- name: Fiona Krakenbürger
-  username_github: arduina
-  username_twitter: arduina
 
 - name: Sebastian Mondial
   username_twitter: kappuchino
