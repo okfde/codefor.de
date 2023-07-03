@@ -79,8 +79,8 @@ einander, arbeiten zusammen und lernen voneinander.
 
 **Wir stecken in vielen Netzwerken.** Im globalen Netzwerk von <a href="https://codeforall.org/">Code
 for All</a> sind wir mit Civic-Tech-Organisationen auf der ganzen Welt
-verbunden. Durch unseren Trägerverein Open Knowledge Foundation
-Deutschland sind wir Teil des internationalen Open Knowledge
+verbunden. Durch unseren Trägerverein [Open Knowledge Foundation
+Deutschland](https://okfn.de) sind wir Teil des internationalen Open Knowledge
 Netzwerks.
 
 {{< headline-brackets-h2 color="blue" >}}
@@ -98,9 +98,10 @@ Konzernen, arbeiten nachhaltig und gemeinwohlorientiert.
 
 Mit unserer Expertise unterstützen wir Menschen in der Verwaltung
 auf ihrem Weg zu einer nachhaltigen Digitalisierung. Interessierte
-Verwaltungsmitarbeiter*innen informieren sich in der Open Data
-Knowledgebase, kontaktieren ihre lokale Community oder schreiben
-uns eine Nachricht.
+Verwaltungsmitarbeiter\*innen informieren sich in der [Open Data
+Knowledgebase](https://opendata.okfn.de/), kontaktieren ihre 
+[lokale Community](/community) oder schreiben
+uns eine [Nachricht](mailto:info@codefor.de?subject=Kontakt).
 
 Gerne teilen wir unser Wissen im Dialog auf Augenhöhe, als Ehrenamtliche
 meist außerhalb regulärer Bürozeiten. Wie gute Zusammenarbeit
@@ -117,31 +118,51 @@ Civic Tech in Deutschland.
 
 ### Politik
 
-Entscheidungsträger\*innen in der Politik müssen sich in Gesetzgebungsprozessen für Transparenz, Offene Daten und Open-Government-Strategien einsetzen. Damit stärken sie demokratische Verfahren, Wissensbildung und Partizipation. Zusätzlich schaffen sie Vertrauen in der Öffentlichkeit und legitimieren das eigenen Handeln. Politiker\*innen können sich für langfristige Förderungen einsetzen, die digitales Ehrenamt und IT-Infrastruktur in Deutschland stärken.
+Entscheidungsträger\*innen in der Politik müssen sich in
+Gesetzgebungsprozessen für Transparenz, Offene Daten und
+Open-Government-Strategien einsetzen. Damit stärken sie demokratische
+Verfahren, Wissensbildung und Partizipation. Zusätzlich schaffen
+sie Vertrauen in der Öffentlichkeit und legitimieren das eigene
+Handeln. Politiker\*innen können sich für langfristige Förderungen
+einsetzen, die digitales Ehrenamt und IT-Infrastruktur in Deutschland
+stärken.
 
-Von den Expert*innen von Code for Germany erfahren Politiker*innen mehr über nachhaltig wirksame digitale Lösungsansätze für Herausforderungen in ihren Wahlkreisen und stärken den Dialog mit Bewohner*innen. Interessierte Politiker*innen informieren sich in der Open Data Knowledgebase, kontaktieren ihre lokale Community oder schreiben uns eine Nachricht.
+Von den Expert\*innen von Code for Germany erfahren Politiker\*innen
+mehr über nachhaltig wirksame digitale Lösungsansätze für
+Herausforderungen in ihren Wahlkreisen und stärken den Dialog mit
+Bewohner\*innen. Interessierte Politiker\*innen informieren sich in
+der [Open Data Knowledgebase](https://opendata.okfn.de/), kontaktieren ihre
+[lokale Community](/community) oder schreiben
+uns eine [Nachricht](mailto:info@codefor.de?subject=Kontakt).
 
 ### Unternehmen
 
-Unternehmen können selbst Offene Daten publizieren, Open Source Software verwenden und eigenen Source Code kostenfrei bereitstellen. Engagierte Unternehmen können unsere Arbeit auch mit einer Spende unterstützen. 
+Unternehmen können selbst Offene Daten publizieren, Open Source
+Software verwenden und eigenen Source Code kostenfrei bereitstellen.
+Engagierte Unternehmen können unsere Arbeit auch mit
+einer [Spende](/sepnden) unterstützen.
 
 ### Privatpersonen
 
-Interessierte Menschen landen wir herzlich ein, unsere Projekte zu durchstöbern, zu verwenden, und weiterzuentwickeln. Wir freuen uns auch sehr über Spenden. Falls du überlegst, dich auch zu engagieren, wirf einen Blick auf unsere Community.
+Interessierte Menschen landen wir herzlich ein, unsere Projekte zu
+durchstöbern, zu verwenden, und weiterzuentwickeln. Wir freuen uns
+auch sehr über [Spenden](/spenden). Falls du überlegst, dich auch zu engagieren,
+wirf einen Blick auf unsere [Community](/community).
 
 {{< headline-brackets-h2 color="red" >}}
 Jetzt die Befreiung von Daten unterstützen!
 {{</ headline-brackets-h2 >}}
 
--   Offene Daten, in maschinenlesbarem Format, zur Verfügung stellen.
-
--   Langfristige Fördergelder für die Erschließung Offener Daten bereitstellen.
-
--   Anwendungen aus Offenen Daten in die eigene Arbeit einbinden und weiterentwickeln.
-
--   Eigene Expertise in unserer Community teilen.
-
--   Code for Germany mit einer Spende unterstützen
+<div class="landing-callout">
+Diese Maßnahmen verhelfen uns zu mehr Open Data:
+<ul>
+<li> Offene Daten, in maschinenlesbarem Format, zur Verfügung stellen. </li>
+<li> Langfristige Fördergelder für die Erschließung Offener Daten bereitstellen. </li>
+<li> Anwendungen aus Offenen Daten in die eigene Arbeit einbinden und weiterentwickeln. </li>
+<li> Eigene Expertise in unserer Community teilen. </li>
+<li> Code for Germany mit einer Spende unterstützen </li>
+</ul>
+</div>
 
 {{</ paragraph-center >}}
 
