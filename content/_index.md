@@ -1,11 +1,6 @@
 ---
 title: Home
 ---
-{{< headline-brackets-h1 color="blue"  >}}
-Willkommen bei Code for Germany
-{{</ headline-brackets-h1 >}}
-
-
 {{< hero-block-center  >}}
 Code for Germany ist ein Netzwerk von
 ehrenamtlich engagierten Menschen, die sich für eine gemeinwohlorientierte
@@ -34,7 +29,7 @@ style="max-width: 100%; aspect-ratio: 16/9; height: auto"
 src="https://media.ccc.de/v/gpn20-79-code-for-germany-open-data-digitales-ehrenamt/oembed" 
 frameborder="0" allowfullscreen></iframe>
 <figcaption>
- <i>Die Code for Germany Community ist am 21.05.2022 bei der GPN in Karlsruhe zusammengekommen. Es berichten die OK Labs Köln, Münster, Leipzig, Darmstadt und Karlsruhe von ihren Projekten. Lass dich inspirieren, auch mal in deinem lokalen Lab vorbeizuschauen!</i>
+ <i>In diesem Video berichten Freiwillige berichten aus Köln, Münster, Leipzig, Darmstadt und Karlsruhe von ihren Projekten. (GPN in Karlsruhe, 2022)</i>
 </figcaption>
 </figure>
 
@@ -67,23 +62,23 @@ All unser Code ist frei verwendbar und Open Source.
 **Wir unterstützen Städte und Kommunen bei der Digitalisierung.**
 Mit Beratung, Wissensvermittlung und durch unsere kostenfrei
 weiterverwendbaren Open-Source-Projekte helfen wir
-Verwaltungsmitarbeiter*innen und Politiker*innen.
+Verwaltungsmitarbeiter\*innen und Politiker\*innen.
 
 **Wir leisten Überzeugungsarbeit.** Auf Vorträgen, in Publikationen
 und in Diskussionen rund um Technik und Digitalisierung bringen wir
 die Sichtweise der Zivilgesellschaft ein. Wir analysieren aktuelle
 Geschehnisse auf unserem Blog. Unsere Forderungen dienen dem Wohl
 der Gemeinschaft. Damit sind wir ein wichtiges Gegenstück zu
-Akteur*innen mit wirtschaftlichen Interessen.
+Akteur\*innen mit wirtschaftlichen Interessen.
 
 **Wir schaffen eine Community.** Die Welt verbessern funktioniert
 leichter zusammen. Bei uns versammeln sich Menschen aus der
-Hacker*innen-Szene, dem digitalen Ehrenamt, der engagierten
+Hacker\*innen-Szene, dem digitalen Ehrenamt, der engagierten
 Zivilgesellschaft, aus Verwaltung und Politik. Wir inspirieren
 einander, arbeiten zusammen und lernen voneinander.
 
-**Wir stecken in vielen Netzwerken.** Im globalen Netzwerk von Code
-for All sind wir mit Civic-Tech-Organisationen auf der ganzen Welt
+**Wir stecken in vielen Netzwerken.** Im globalen Netzwerk von <a href="https://codeforall.org/">Code
+for All</a> sind wir mit Civic-Tech-Organisationen auf der ganzen Welt
 verbunden. Durch unseren Trägerverein Open Knowledge Foundation
 Deutschland sind wir Teil des internationalen Open Knowledge
 Netzwerks.
@@ -96,7 +91,7 @@ Informationen für Verbündete und solche, die es werden wollen
 
 Verwaltungen müssen die nötige IT-Expertise in ihren eigenen
 Abteilungen fördern, anstatt Digitalisierungsprojekte an externe
-Dienstleister*innen auszulagern. Sie müssen einheitliche Datenstandards
+Dienstleister\*innen auszulagern. Sie müssen einheitliche Datenstandards
 durchsetzen, Offene Daten zur Regel machen und Open Source Software
 einsetzen. Damit handeln sie selbstbestimmt, werden unabhängig von
 Konzernen, arbeiten nachhaltig und gemeinwohlorientiert.
@@ -116,13 +111,13 @@ verfasst von zwei Ehrenamtlichen unserer Community.
 
 <div class="landing-callout">
 In der Blogserie <a href="/blog">Out in the Open</a> analysieren unsere
-Expert*innen aktuelle Ereignisse zu Digitalpolitik, Open Data und
+Expert\*innen aktuelle Ereignisse zu Digitalpolitik, Open Data und
 Civic Tech in Deutschland.
 </div>
 
 ### Politik
 
-Entscheidungsträger*innen in der Politik müssen sich in Gesetzgebungsprozessen für Transparenz, Offene Daten und Open-Government-Strategien einsetzen. Damit stärken sie demokratische Verfahren, Wissensbildung und Partizipation. Zusätzlich schaffen sie Vertrauen in der Öffentlichkeit und legitimieren das eigenen Handeln. Politiker*innen können sich für langfristige Förderungen einsetzen, die digitales Ehrenamt und IT-Infrastruktur in Deutschland stärken.
+Entscheidungsträger\*innen in der Politik müssen sich in Gesetzgebungsprozessen für Transparenz, Offene Daten und Open-Government-Strategien einsetzen. Damit stärken sie demokratische Verfahren, Wissensbildung und Partizipation. Zusätzlich schaffen sie Vertrauen in der Öffentlichkeit und legitimieren das eigenen Handeln. Politiker\*innen können sich für langfristige Förderungen einsetzen, die digitales Ehrenamt und IT-Infrastruktur in Deutschland stärken.
 
 Von den Expert*innen von Code for Germany erfahren Politiker*innen mehr über nachhaltig wirksame digitale Lösungsansätze für Herausforderungen in ihren Wahlkreisen und stärken den Dialog mit Bewohner*innen. Interessierte Politiker*innen informieren sich in der Open Data Knowledgebase, kontaktieren ihre lokale Community oder schreiben uns eine Nachricht.
 
@@ -150,8 +145,6 @@ Jetzt die Befreiung von Daten unterstützen!
 
 {{</ paragraph-center >}}
 
-{{< headline-brackets-h2 color="blue"  >}}
-Was bei uns passiert
 {{< /headline-brackets-h2  >}}
 
 {{< home/teaser-blog >}}
