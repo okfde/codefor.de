@@ -43,7 +43,9 @@ bei uns mitmacht, online und vor Ort, akzeptiert unseren Code of
 Conduct.
 <br>
 <br>
-<h2 id="mitmachen">Wie du mitmachen kannst</h2>
+{{< headline-brackets-h1 color="blue"  id="mitmachen" >}}
+Wie du mitmachen kannst
+{{< /headline-brackets-h1  >}}
 Du möchtest dich einbringen? Es gibt verschiedene Möglichkeiten, bei uns mitzumachen. Wir freuen uns auf dich! 
 
 ### Komm in unsere Online-Community
