@@ -82,4 +82,7 @@ das schnell herausfinden. Auch
 alle [Direktverbindungen](https://codefor.de/projekte/zug-direktverbindungen/)  aus
 deiner Stadt lassen sich visualisieren.
 
+# Noch mehr Ideen?
+Eine Liste all unserer Projekte findest du im [Projektarchiv](/projekte/archiv)
+
 {{</ paragraph-center >}}
