@@ -166,8 +166,6 @@ Diese Maßnahmen verhelfen uns zu mehr Open Data:
 
 {{</ paragraph-center >}}
 
-{{< /headline-brackets-h2  >}}
-
 {{< home/teaser-blog >}}
 
 {{< button-center href="/blog" class="mt-6" >}}
