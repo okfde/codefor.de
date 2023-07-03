@@ -45,7 +45,7 @@ Wir stehen für Vielfalt, Gerechtigkeit und Gleichbehandlung. Wer
 bei uns mitmacht, online und vor Ort, akzeptiert unseren Code of
 Conduct.
 
-<h2 id="mitmachen>Wie du mitmachen kannst</h2>
+<h2 id="mitmachen">Wie du mitmachen kannst</h2>
 Du möchtest dich einbringen? Wir freuen uns auf dich!
 
 ### Komm in unsere Online-Community
