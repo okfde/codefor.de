@@ -1,91 +1,154 @@
 ---
 title: Home
 ---
+{{< headline-brackets-h1 color="blue"  >}}
+Willkommen bei Code for Germany
+{{</ headline-brackets-h1 >}}
+
 
 {{< hero-block-center  >}}
-Code for Germany ist ein Netzwerk von Open-Government-Expert\*innen, die sich als ehrenamtlich aktive Stadtentwickler\*innen für einen nachhaltigen digitalen Wandel in Politik und Verwaltung einsetzen. 
+Code for Germany ist ein Netzwerk von
+ehrenamtlich engagierten Menschen, die sich für eine gemeinwohlorientierte
+digitale Zukunft einsetzen. Wir treffen uns in lokalen Labs und
+online. 
 {{< /hero-block-center  >}}
 
+{{< headline-brackets-h2 color="red" >}} 
+Wer wir sind
+{{</ headline-brackets-h2>}}
 
-{{< button-center href="/mitmachen" >}}
-Werde Stadtentwickler*in!
-{{< /button-center >}}
+{{< paragraph-center >}}
+Wir sind ein Netzwerk mit rund 300 Communitymitgliedern in Deutschland
+und darüber hinaus. Wir setzen uns mit dem Stand der Digitalisierung
+in unserer Stadt, Kommune und Region auseinander. Wir bauen hilfreiche
+Soft- und Hardware-Projekte. Wir analysieren aktuelle technologische
+Entwicklungen nach ihrem Nutzen für die Gesellschaft. Wir zeigen
+den Wert von Offenen Daten und leisten Überzeugungsarbeit für eine
+nachhaltige Digitalisierung der Verwaltung.
 
-{{< section >}}
-{{< headline-brackets-h1 color="blue"  >}}
-Hier kannst du dir ein aktuelles Bild machen
-{{< /headline-brackets-h1  >}}
+<figure>
+<iframe 
+width="1024" 
+height="576" 
+style="max-width: 100%; aspect-ratio: 16/9; height: auto"
+src="https://media.ccc.de/v/gpn20-79-code-for-germany-open-data-digitales-ehrenamt/oembed" 
+frameborder="0" allowfullscreen></iframe>
+<figcaption>
+ <i>Die Code for Germany Community ist am 21.05.2022 bei der GPN in Karlsruhe zusammengekommen. Es berichten die OK Labs Köln, Münster, Leipzig, Darmstadt und Karlsruhe von ihren Projekten. Lass dich inspirieren, auch mal in deinem lokalen Lab vorbeizuschauen!</i>
+</figcaption>
+</figure>
 
-{{< paragraph-center class="text-center mb-5" >}}
-Die Code for Germany Community ist am 21.05.2022 bei der GPN in Karlsruhe zusammengekommen. Es berichten die OK Labs Köln, Münster, Leipzig, Darmstadt und Karlsruhe von ihren Projekten. Du hast es verpasst? Dann lass dich doch von der <a href="https://media.ccc.de/v/gpn20-79-code-for-germany-open-data-digitales-ehrenamt">Videoaufzeichnung</a> inspirieren, auch mal in deinem lokalen Lab vorbeizuschauen! 
-{{</ paragraph-center  >}}
-{{< /section >}}
+Wir haben rund 20 regionale Gruppen, die sich regelmäßig in lokalen
+OK Labs, kurz für Open Knowledge Labs, treffen. In unserer
+Online-Community auf der Plattform Slack tauschen wir uns bundesweit
+aus. Schau vorbei in unserer Community!
 
-{{< section >}}
-{{< headline-icon icon="icon-info.svg" >}}
+Code for Germany hat sein rechtliches Zuhause bei dem gemeinnützigen
+Verein Open Knowledge Foundation Deutschland. Hauptamtliche des
+Vereins helfen dabei, unser ehrenamtliches Netzwerk zu koordinieren.
+Als Teil des Netzwerks Code for All sind wir mit gleichgesinnten
+Organisationen in der ganzen Welt vernetzt.
 
-{{< headline-brackets-h1 color="blue"  >}}
-Wer wir sind und was wir machen
-{{< /headline-brackets-h1  >}}
+{{< headline-brackets-h2 color="blue" >}}
+Unsere Vision
+{{</ headline-brackets-h2>}}
 
-{{< home/block-123 >}}
+Wir wünschen uns eine offene Gesellschaft, in der Wissen frei zugänglich ist und geteilt wird. Wir engagieren uns für Offene Daten, Offenes Regierungshandeln, Open Source und Informationsfreiheit. Wir fordern eine gemeinwohlorientierte Digitalpolitik und ökologische Nachhaltigkeit von Soft- und Hardware. 
 
-{{< button-center href="/about" >}}
-Über uns
-{{< /button-center >}}
-{{< /section >}}
+{{< headline-brackets-h2 color="red" >}}
+So erreichen wir unsere Ziele
+{{</ headline-brackets-h2 >}}
 
-{{< section >}}
-{{< headline-icon icon="icon-bracket.svg" >}}
+**Wir schaffen Tech-Projekte mit gesellschaftlichem Mehrwert.** Wir
+programmieren Anwendungen, die Menschen helfen. Umweltsensoren zum
+Selberbauen und eine Trinkwasser-App sind nur zwei unserer Projekte.
+All unser Code ist frei verwendbar und Open Source.
 
-{{< headline-brackets-h2 color="blue"  >}}
-Code for Germany auf einen Blick
-{{< /headline-brackets-h2  >}}
+**Wir unterstützen Städte und Kommunen bei der Digitalisierung.**
+Mit Beratung, Wissensvermittlung und durch unsere kostenfrei
+weiterverwendbaren Open-Source-Projekte helfen wir
+Verwaltungsmitarbeiter*innen und Politiker*innen.
 
-{{< home/block-auf-einen-blick >}}
+**Wir leisten Überzeugungsarbeit.** Auf Vorträgen, in Publikationen
+und in Diskussionen rund um Technik und Digitalisierung bringen wir
+die Sichtweise der Zivilgesellschaft ein. Wir analysieren aktuelle
+Geschehnisse auf unserem Blog. Unsere Forderungen dienen dem Wohl
+der Gemeinschaft. Damit sind wir ein wichtiges Gegenstück zu
+Akteur*innen mit wirtschaftlichen Interessen.
 
-{{< button-center href="/mitmachen" >}}
-Mach mit!
-{{< /button-center >}}
-{{< /section >}}
+**Wir schaffen eine Community.** Die Welt verbessern funktioniert
+leichter zusammen. Bei uns versammeln sich Menschen aus der
+Hacker*innen-Szene, dem digitalen Ehrenamt, der engagierten
+Zivilgesellschaft, aus Verwaltung und Politik. Wir inspirieren
+einander, arbeiten zusammen und lernen voneinander.
 
+**Wir stecken in vielen Netzwerken.** Im globalen Netzwerk von Code
+for All sind wir mit Civic-Tech-Organisationen auf der ganzen Welt
+verbunden. Durch unseren Trägerverein Open Knowledge Foundation
+Deutschland sind wir Teil des internationalen Open Knowledge
+Netzwerks.
 
+{{< headline-brackets-h2 color="blue" >}}
+Informationen für Verbündete und solche, die es werden wollen
+{{</ headline-brackets-h2 >}}
 
-{{< section >}}
-{{< headline-icon icon="icon-documents.svg" >}}
+### Verwaltungen
 
-{{< headline-brackets-h2 color="blue"  >}}
-Projekte und Anwendungen finden
-{{< /headline-brackets-h2  >}}
+Verwaltungen müssen die nötige IT-Expertise in ihren eigenen
+Abteilungen fördern, anstatt Digitalisierungsprojekte an externe
+Dienstleister*innen auszulagern. Sie müssen einheitliche Datenstandards
+durchsetzen, Offene Daten zur Regel machen und Open Source Software
+einsetzen. Damit handeln sie selbstbestimmt, werden unabhängig von
+Konzernen, arbeiten nachhaltig und gemeinwohlorientiert.
 
-{{< paragraph-center class="text-center mb-5" >}}
-Du möchtest einen Eindruck von unseren Projekten bekommen? Wir arbeiten gegenwärtig zu den Themenfeldern Mobilität, Gesellschaft, Umwelt und Politik.
-{{< /paragraph-center >}}
+Mit unserer Expertise unterstützen wir Menschen in der Verwaltung
+auf ihrem Weg zu einer nachhaltigen Digitalisierung. Interessierte
+Verwaltungsmitarbeiter*innen informieren sich in der Open Data
+Knowledgebase, kontaktieren ihre lokale Community oder schreiben
+uns eine Nachricht.
 
-{{< button-center href="/projekte" >}}
-Projekte
-{{< /button-center >}}
-{{< /section >}}
+Gerne teilen wir unser Wissen im Dialog auf Augenhöhe, als Ehrenamtliche
+meist außerhalb regulärer Bürozeiten. Wie gute Zusammenarbeit
+gelingt, beschreibt der Ratgeber [Digitales Ehrenamt im Kontext der
+Kommunalen
+Verwaltung](https://library.fes.de/pdf-files/bueros/stuttgart/20087-20230313.pdf),
+verfasst von zwei Ehrenamtlichen unserer Community.
 
+<div class="landing-callout">
+In der Blogserie <a href="/blog">Out in the Open</a> analysieren unsere
+Expert*innen aktuelle Ereignisse zu Digitalpolitik, Open Data und
+Civic Tech in Deutschland.
+</div>
 
-{{< section >}}
-{{< headline-icon icon="icon-touch.svg" >}}
+### Politik
 
-{{< headline-brackets-h2 color="blue"  >}}
-Unsere gesellschaftlichen Ziele
+Entscheidungsträger*innen in der Politik müssen sich in Gesetzgebungsprozessen für Transparenz, Offene Daten und Open-Government-Strategien einsetzen. Damit stärken sie demokratische Verfahren, Wissensbildung und Partizipation. Zusätzlich schaffen sie Vertrauen in der Öffentlichkeit und legitimieren das eigenen Handeln. Politiker*innen können sich für langfristige Förderungen einsetzen, die digitales Ehrenamt und IT-Infrastruktur in Deutschland stärken.
 
-{{< /headline-brackets-h2  >}}
+Von den Expert*innen von Code for Germany erfahren Politiker*innen mehr über nachhaltig wirksame digitale Lösungsansätze für Herausforderungen in ihren Wahlkreisen und stärken den Dialog mit Bewohner*innen. Interessierte Politiker*innen informieren sich in der Open Data Knowledgebase, kontaktieren ihre lokale Community oder schreiben uns eine Nachricht.
 
-{{< home/block-goals >}}
+### Unternehmen
 
-{{< button-center href="/ziele" >}}
-Ziele
-{{< /button-center >}}
-{{< /section >}}
+Unternehmen können selbst Offene Daten publizieren, Open Source Software verwenden und eigenen Source Code kostenfrei bereitstellen. Engagierte Unternehmen können unsere Arbeit auch mit einer Spende unterstützen. 
 
+### Privatpersonen
 
-{{< section >}}
-{{< headline-icon icon="icon-power.svg" >}}
+Interessierte Menschen landen wir herzlich ein, unsere Projekte zu durchstöbern, zu verwenden, und weiterzuentwickeln. Wir freuen uns auch sehr über Spenden. Falls du überlegst, dich auch zu engagieren, wirf einen Blick auf unsere Community.
+
+{{< headline-brackets-h2 color="red" >}}
+Jetzt die Befreiung von Daten unterstützen!
+{{</ headline-brackets-h2 >}}
+
+-   Offene Daten, in maschinenlesbarem Format, zur Verfügung stellen.
+
+-   Langfristige Fördergelder für die Erschließung Offener Daten bereitstellen.
+
+-   Anwendungen aus Offenen Daten in die eigene Arbeit einbinden und weiterentwickeln.
+
+-   Eigene Expertise in unserer Community teilen.
+
+-   Code for Germany mit einer Spende unterstützen
+
+{{</ paragraph-center >}}
 
 {{< headline-brackets-h2 color="blue"  >}}
 Was bei uns passiert
@@ -96,4 +159,3 @@ Was bei uns passiert
 {{< button-center href="/blog" class="mt-6" >}}
 Mehr Blogartikel lesen
 {{< /button-center >}}
-{{< /section >}}

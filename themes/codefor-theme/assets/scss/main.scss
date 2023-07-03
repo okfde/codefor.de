@@ -334,6 +334,13 @@ blockquote {
   width: 200px;
 }
 
+.landing-callout {
+  border: 2px solid $codefor-green;
+  background-color: lighten($codefor-green, 35%);
+  border-radius: 10px;
+  padding: 10px;
+}
+
 .quote {
   .author {
     font-style: italic;
