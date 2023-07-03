@@ -9,9 +9,13 @@ Unsere Community
 
 
 <div style="display: flex; justify-content: center">
-{{< image-slideshow interval="4_000" width="600px" height="400px" >}}
-{{< slideshow-image src="https://picsum.photos/600/400" >}}
-{{< slideshow-image src="https://picsum.photos/600/401" >}}
+{{< image-slideshow interval="4_000" width="800px" height="450px" >}}
+{{< slideshow-image src="/images/community-1.jpg" >}}
+{{< slideshow-image src="/images/community-2.jpg" >}}
+{{< slideshow-image src="/images/community-3.jpg" >}}
+{{< slideshow-image src="/images/community-4.jpg" >}}
+{{< slideshow-image src="/images/community-5.jpg" >}}
+{{< slideshow-image src="/images/community-6.jpg" >}}
 {{</image-slideshow >}}
 </div>
 
