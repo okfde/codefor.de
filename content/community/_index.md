@@ -72,7 +72,10 @@ du Fragen stellen und Gleichgesinnte finden. Schick uns eine formlose
 Nachricht an <a href="mailto:info@codefor.de">info@codefor.de</a>
 und wir nehmen dich auf.
 
-<a class="community-cta-button" href="mailto:info@codefor.de?subject=Online-Community">Email senden</a>
+{{< button-center href="mailto:info@codefor.de?subject=Online-Community">}}
+Email senden
+{{</ button-center >}}
+
 
 ### Besuche ein Lab in deiner Nähe
 
@@ -83,16 +86,22 @@ und wir nehmen dich auf.
 
 Hilf uns dabei, eine offene und gerechte digitale Zukunft für alle zu schaffen.
 
-<a class="community-cta-button" href="/spenden">Spenden</a>
+{{< button-center href="/spenden">}}
+Spenden
+{{</ button-center >}}
 
 ### Erfahre mehr über Offene Daten
 Wie lassen sich Daten öffnen, und warum ist das wichtig für Verwaltungen? Lies Grundlagen, finde Argumente, Handreichungen und Use Cases auf dem Knowledge Hub der Open Knowledge Foundation Deutschland.
 
-<a class="community-cta-button" href="https://opendata.okfn.de/" target="_blank">Open Data Knowledge Hub</a>
+{{< button-center href="https://opendata.okfn.de/" target="_blank">}}
+Open Data Knowledge Hub
+{{</ button-center >}}
 
 ### Noch Fragen?
 
 Schreib uns eine Nachricht an info@codefor.de, wir freuen uns von dir zu hören!
 
-<a href="mailto:info@codefor.de?subject=Kontakt" class="community-cta-button">Email senden</a>
+{{< button-center href="mailto:info@codefor.de?subject=Kontakt">}}
+Email senden
+{{</ button-center >}}
 {{</ paragraph-center  >}}
