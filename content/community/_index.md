@@ -41,26 +41,6 @@ Wir stehen für Vielfalt, Gerechtigkeit und Gleichbehandlung. Wer
 bei uns mitmacht, online und vor Ort, akzeptiert unseren Code of
 Conduct.
 
-## Warum wir uns engagieren
-
-<div class="quotes-list">
-{{< quote author="Anna Blume">}}
-codefor.de ist wirklich spitze!
-{{</quote>}}
-
-
-{{< quote author="Allgemeine Erklärung der Menschenrechte">}}
-Jeder hat Anspruch auf alle in dieser Erklärung verkündeten Rechte und Freiheiten, ohne
-irgendeinen Unterschied, etwa nach Rasse, Hautfarbe, Geschlecht, Sprache, Religion,
-politischer oder sonstiger Anschauung, nationaler oder sozialer Herkunft, Vermögen,
-Geburt oder sonstigem Stand.
-{{</quote>}}
-
-{{< quote author="Bürger Meister">}}
-Auch wir in der Verwaltung würden wirklich gern hilfreicher sein.
-{{</quote>}}
-</div>
-
 <h2 id="mitmachen>Wie du mitmachen kannst</h2>
 Du möchtest dich einbringen? Wir freuen uns auf dich!
 
