@@ -9,53 +9,77 @@ outputs:
 
 {{< headline-icon icon="icon-documents.svg" color="blue" >}}
 
-{{< headline-brackets-h1 color="red"  >}}
-Unsere Projekte
-{{< /headline-brackets-h1  >}}
+{{< headline-brackets-h1 color="red" >}}
+Projekte
+{{< /headline-brackets-h1 >}}
 
-{{< hero-block-center  >}}
-Seit 2014 zeigen wir, was mit offenen Technologien alles möglich ist:
-{{< /hero-block-center  >}}
+{{< hero-block-center >}}
+Alle Projekte, die bei Code for Germany entstehen, sind Open Source. Sie lassen sich kostenlos verwenden, installieren und weiterentwicklen.
+{{< /hero-block-center >}}
+
+{{< paragraph-center >}}
+Seit der Gründung von Code for Germany im Jahr 2014 zeigen wir, was mit offenen Technologien alles möglich ist. Wir bauen Prototypen um selbst zu lernen; um zu zeigen, wie sich Technik zum Wohle aller einsetzen lässt; und um andere davon zu überzeugen, es uns gleich zu tun. Wir haben kein wirtschaftliches Interesse. Wir wünschen uns, dass unsere Projekte –  all unsere Apps, Plattformen, Sensoren, Prototypen, Ideen –  möglichst viel weiterverwendet werden und möglichst vielen Menschen nutzen.
+{{</ paragraph-center >}}
 
 
 {{< projekte/featured-projects >}}
 
-{{< paragraph-center  >}}
+{{< headline-brackets-h1 >}}
+Konkrete Fragen, die sich mit Offenen Daten beantworten lassen
+{{< /headline-brackets-h1 >}}
 
-Mit Prototypen und im direkten Austausch vermitteln wir ein
-besseres Verständnis für die Möglichkeiten offener
-Technologien und wie diese zum Wohle aller eingesetzt
-werden können, z.B. als digitaler Unterbau für Offenes
-Regierungshandeln. Denn transparente politische
-Entscheidungsprozesse stärken unsere Demokratie und
-damit das Fundament unserer Gesellschaft. Viele unserer
-Projekte basieren dabei auf offenen Daten, die von der
-Verwaltung und/oder der Zivilgesellschaft bereitgstellt werden.
+{{< paragraph-center >}}
 
-Digitale offene Technologien können außerdem einen
-direkten Mehrwert in unserem Alltag bieten, in dem sie z.B.
-Informationen übersichtlich machen:
+Offene Daten und die Anwendungen, die daraus entsehen, bieten einen
+direkten Mehrwert in unserem Alltag. Sie machen Informationen
+übersichtlich und helfen uns, informierte Entscheidungen zu treffen.  
 
+### Auf welche Schule soll ich mein Kind schicken?
 
-### Welche Qualität hat mein Trinkwaser?
-Für Berlin, Köln, Leipzig, Potsdam oder Heilbronn können wir
-diese Frage sofort beantworten
+Aus gesammelten Informationen und visualisierten Karten
+in [Leipzig](https://opengovtech.de/cfg-ziele/projekte/le-kitas_und_schulen_in_leipzig/), [Köln](https://opengovtech.de/cfg-ziele/projekte/cologne-schulen-in-koeln/),  [Berlin](https://opengovtech.de/cfg-ziele/projekte/be-berliner-schulen/),
+im [Ruhrgebiet](https://opengovtech.de/cfg-ziele/projekte/schulradar-ruhrgebiet/) und [Nordrhein-Westfahlen](https://opengovtech.de/cfg-ziele/projekte/schulen-in-nrw/),
+haben wir [JedeSchule.de](https://jedeschule.de/) gebaut. Hier sind
+Informationen zu 30.000 Schulen vereint.
 
-### Du magst Bäume?
-In Hamburg, Magdeburg, Karlsruhe, Köln haben wir das
-Baumkataster visualisiert und du kannst sogar kollaborativ
-daran mitarbeiten.
+### Wo ist der nächste Wochenmarkt?  
 
-### Du möchtest Bäume sogar vor dem Vertrocknen retten und gießen?
-Dann schau doch mal bei den Gieß Apps von Köln, Leipzig,
-Berlin und Heilbronn vorbei
+Hier findest du die Antwort
+für[Leipzig](https://opengovtech.de/cfg-ziele/projekte/le-woistmarkt/),  [Karlsruhe](https://opengovtech.de/cfg-ziele/projekte/ka-woistmarkt/)  und  [Berlin](https://opengovtech.de/cfg-ziele/projekte/be-woistmarkt/).
+So eine „Wo ist..."-Karte funktionierte in den ersten Pandemiejahren
+auch super mit  Corona-Testzentren  und ist ein gutes Beispiel für
+die Wiederverwendbarkeit von Open-Source-Software in  Berlin,
+Düsseldorf, Halle, Kelletal, Leipzig, Lemgo
+und  [Hessen](https://opengovtech.de/cfg-ziele/projekte/wo-ist-testzentrum/).
 
-### Wann fährt der günstigste Zug?
-Mit bahn.guru oder der Bahn- und Buspreiskarte kannst du
-das schnell herausfinden und auch alle Direktverbindungen
-aus deiner Stadt lassen sich visualisieren
+### Welche Qualität hat mein Trinkwasser?  
 
+Falls du
+in  [Berlin](https://opengovtech.de/cfg-ziele/projekte/be-trinkwasser/),  [Köln](https://opengovtech.de/cfg-ziele/projekte/trinkwasser/),  [Leipzig](https://opengovtech.de/cfg-ziele/projekte/le-trinkwasser/),  [Potsdam](https://opengovtech.de/cfg-ziele/projekte/p-trinkwasser/)  oder  [Heilbronn](https://opengovtech.de/cfg-ziele/projekte/hn-trinkwasser/)  wohnst,
+können wir dir diese Frage sofort beantworten.
 
-# Noch mehr Ideen?
-Eine Liste all unserer Projekte findest du im [Projektarchiv](/projekte/archiv)
-{{< /paragraph-center  >}}
+### Wo ist in Köln der nächste Defibrillator?  
+
+[Hier](https://opengovtech.de/cfg-ziele/projekte/muc-defis/).
+
+### Wie viele Bäume gibt's in meiner Stadt?  
+
+In  [Hamburg](https://opengovtech.de/cfg-ziele/projekte/hh-baumkataster/),  [Magdeburg](https://opengovtech.de/cfg-ziele/projekte/magdeburg-baumfreunde-md/),  [Karlsruhe](https://opengovtech.de/cfg-ziele/projekte/baumkataster/),  [Köln](https://opengovtech.de/cfg-ziele/projekte/cologne-baumkataster/)  haben
+wir das Baumkataster visualisiert. Du kannst kollaborativ daran
+mitarbeiten.  
+
+### Wie kann ich Bäume vor dem Vertrocknen retten?  
+
+Wenn du deinen Kiez grün halten möchtest, dann schau doch mal bei
+den Gieß-Apps
+von [Köln](https://opengovtech.de/cfg-ziele/projekte/cologne-giesst/),  [Leipzig](https://opengovtech.de/cfg-ziele/projekte/le-giessdeinviertel/),  [Berlin](https://opengovtech.de/cfg-ziele/projekte/grossstadtbaum/)  und  [Heilbronn](https://opengovtech.de/cfg-ziele/projekte/hn-kastanienapp/)  vorbei.  
+
+### Wann fährt der günstigste Zug?  
+
+Mit [bahn.guru](https://bahn.guru/) oder der [Bahn- und
+Buspreiskarte](https://codefor.de/projekte/pricemap-eu/) kannst du
+das schnell herausfinden. Auch
+alle [Direktverbindungen](https://codefor.de/projekte/zug-direktverbindungen/)  aus
+deiner Stadt lassen sich visualisieren.
+
+{{</ paragraph-center >}}
