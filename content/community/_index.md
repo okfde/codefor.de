@@ -8,7 +8,7 @@ Unsere Community
 
 
 
-<div style="display: flex; justify-content: center">
+<div style="display: flex; justify-content: center; max-width: 100%">
 {{< image-slideshow interval="4_000" width="800px" height="450px" >}}
 {{< slideshow-image src="/images/community-1.jpg" >}}
 {{< slideshow-image src="/images/community-2.jpg" >}}
