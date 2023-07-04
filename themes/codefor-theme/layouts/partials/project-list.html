@@ -37,31 +37,26 @@
 <script>
     document.addEventListener("DOMContentLoaded", function () {
 
-        var filterButtons = document.querySelectorAll("#filters button");
-        var projects = document.querySelectorAll("#projects-container > div");
+        var filterButtons = Array.from(document.querySelectorAll("#filters button"));
+        var projects = Array.from(document.querySelectorAll("#projects-container > div"));
 
         filterButtons.forEach(function (button) {
             var filter = button.dataset.filter;
 
             button.addEventListener("click", function (e) {
-                // show all projects
-                projects.forEach(function (project) {
-                    project.style.display = "unset";
-                });
-                var isActive = button.className.indexOf("active") !== -1;
+                projects.forEach(project => project.style.display = "unset");
+
+                filterButtons.filter(b => b !== button)
+                             .forEach(button => button.classList.remove("active" ))
+                button.classList.toggle("active")
+                const isActive = button.classList.contains("active")
+                if (filter === "") {
+                    return;
+                }
                 if (isActive) {
-                    button.className = button.className.replace("active", "").trim();
-                } else {
-                    filterButtons.forEach(function (otherButton) {
-                        otherButton.className = otherButton.className.replace("active", "").trim();
-                    });
-                    button.className = button.className + " active";
-                    // hide projects which do not match the selected filter
-                    projects.forEach(function (project) {
-                        if (project.className.indexOf(filter) === -1) {
-                            project.style.display = "none";
-                        }
-                    });
+                    projects
+                        .filter(project => !project.querySelector(`[alt="${filter}"]`))
+                        .forEach(project => project.style.display = "none")
                 }
             });
         });
