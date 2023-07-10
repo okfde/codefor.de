@@ -1430,4 +1430,6 @@ to = "https://cloud.okfn.de/s/PSzJJZKWQa6gygJ"
 [[ redirects ]]
 from = "/labs/"
 to = "/community/"
+force = true
+
 
