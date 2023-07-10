@@ -23,7 +23,7 @@ $fontSizeHero-xxl: $fontSizeBase-xl + 25px;
 $pageMaxWidth: 1700px;
 
 $codefor-mint: #BFEEEB;
-$codefor-blue: #17B6FF;
+$codefor-blue: #00A9FA;
 $codefor-red: #FF645F;
 $codefor-green: #00da88;
 $codefor-light-grey: #F2F2F2;
@@ -336,7 +336,7 @@ blockquote {
 
 .landing-callout {
   border: 2px solid $codefor-green;
-  background-color: lighten($codefor-green, 35%);
+  background-color: $codefor-mint;
   border-radius: 10px;
   padding: 10px;
 }

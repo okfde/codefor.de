@@ -21,6 +21,11 @@ Entwicklungen nach ihrem Nutzen für die Gesellschaft. Wir zeigen
 den Wert von Offenen Daten und leisten Überzeugungsarbeit für eine
 nachhaltige Digitalisierung der Verwaltung.
 
+Wir haben rund 20 regionale Gruppen, die sich regelmäßig in lokalen
+OK Labs, kurz für Open Knowledge Labs, treffen. In unserer
+Online-Community auf der Plattform Slack tauschen wir uns bundesweit
+aus. Schau vorbei in unserer [Community](/community)!
+
 <figure>
 <iframe 
 width="1024" 
@@ -29,14 +34,9 @@ style="max-width: 100%; aspect-ratio: 16/9; height: auto"
 src="https://media.ccc.de/v/gpn20-79-code-for-germany-open-data-digitales-ehrenamt/oembed" 
 frameborder="0" allowfullscreen></iframe>
 <figcaption>
- <i>In diesem Video berichten Freiwillige berichten aus Köln, Münster, Leipzig, Darmstadt und Karlsruhe von ihren Projekten. (GPN in Karlsruhe, 2022)</i>
+ <i>In diesem Video berichten Freiwillige aus Köln, Münster, Leipzig, Darmstadt und Karlsruhe von ihren Projekten. (GPN in Karlsruhe, 2022)<</i>
 </figcaption>
 </figure>
-
-Wir haben rund 20 regionale Gruppen, die sich regelmäßig in lokalen
-OK Labs, kurz für Open Knowledge Labs, treffen. In unserer
-Online-Community auf der Plattform Slack tauschen wir uns bundesweit
-aus. Schau vorbei in unserer Community!
 
 Code for Germany hat sein rechtliches Zuhause bei dem gemeinnützigen
 Verein Open Knowledge Foundation Deutschland. Hauptamtliche des
@@ -110,11 +110,11 @@ Kommunalen
 Verwaltung](https://library.fes.de/pdf-files/bueros/stuttgart/20087-20230313.pdf),
 verfasst von zwei Ehrenamtlichen unserer Community.
 
-<div class="landing-callout">
-In der Blogserie <a href="/blog">Out in the Open</a> analysieren unsere
+{{< landing-callout >}}
+In der Blogserie [Out in the Open](/blog) analysieren unsere
 Expert\*innen aktuelle Ereignisse zu Digitalpolitik, Open Data und
 Civic Tech in Deutschland.
-</div>
+{{</ landing-callout >}}
 
 ### Politik
 
@@ -153,17 +153,15 @@ wirf einen Blick auf unsere [Community](/community).
 Jetzt die Befreiung von Daten unterstützen!
 {{</ headline-brackets-h2 >}}
 
-<div class="landing-callout">
-Diese Maßnahmen verhelfen uns zu mehr Open Data:
-<ul>
-<li> Offene Daten, in maschinenlesbarem Format, zur Verfügung stellen. </li>
-<li> Langfristige Fördergelder für die Erschließung Offener Daten bereitstellen. </li>
-<li> Anwendungen aus Offenen Daten in die eigene Arbeit einbinden und weiterentwickeln. </li>
-<li> Eigene Expertise in unserer Community teilen. </li>
-<li> Code for Germany mit einer Spende unterstützen </li>
-</ul>
-</div>
+{{< landing-callout >}}
+**Kurz und bündig: Fünf Maßnahmen, die uns zu mehr Open Data verhelfen**
 
+- Offene Daten, in maschinenlesbarem Format, zur Verfügung stellen
+- Langfristige Fördergelder für die Erschließung Offener Daten bereitstellen
+- [Anwendungen](/projekte) aus Offenen Daten in die eigene Arbeit einbinden und weiterentwickeln
+- Eigene Expertise in unserer [Community](/community) teilen
+- Code for Germany mit einer [Spende](/spenden) unterstützen
+{{</ landing-callout >}}
 {{</ paragraph-center >}}
 
 {{< home/teaser-blog >}}
