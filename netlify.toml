@@ -20,11 +20,6 @@ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 HUGO_VERSION = "0.104.3"
 
 [[redirects]]
-from = "/spenden"
-to = "https://www.betterplace.org/de/projects/66473-unterstuetze-die-open-knowledge-labs"
-status = 302
-
-[[redirects]]
 from = "/blog/Auftakt-Trinkwasserkampagne.html"
 to = "/blog/auftakt-trinkwasserkampagne"
 
@@ -1431,3 +1426,10 @@ to = "/impressum#datenschutzerklärung"
 [[ redirects ]]
 from = "/testcloudlink-06-2023/"
 to = "https://cloud.okfn.de/s/PSzJJZKWQa6gygJ"
+
+[[ redirects ]]
+from = "/labs/"
+to = "/community/"
+force = true
+
+
