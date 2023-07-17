@@ -4,6 +4,7 @@ title: OK Lab Frankfurt
 lat: 50.1167
 long: 8.6833
 markerposition: right
+inactive: true
 
 aliases:
 - /frankfurt

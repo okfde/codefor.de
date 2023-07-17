@@ -5,6 +5,7 @@ lat: 51.438531
 long: 7.024764
 markerposition: right
 showsignup: false
+inactive: true
 
 aliases:
 - /ruhrgebiet

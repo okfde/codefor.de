@@ -4,6 +4,7 @@ title: OK Lab Jena
 lat: 50.9223394
 long: 11.5762312
 markerposition: left
+inactive: true
 
 aliases:
 - /jena

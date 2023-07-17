@@ -5,6 +5,7 @@ lab: OK Lab Mecklenburg-Vorpommern
 lat: 53.6007
 long: 11.4433
 markerposition: right
+inactive: true
 
 aliases:
 - /mecklenburg-vorpommern

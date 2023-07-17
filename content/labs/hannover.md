@@ -5,6 +5,7 @@ lab: OK Lab Hannover
 lat: 52.366667
 long: 9.716667
 markerposition: left
+inactive: true
 
 aliases:
 - /hannover

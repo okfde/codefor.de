@@ -6,6 +6,7 @@ lat: 52.2668370
 long: 8.0497410
 markerposition: left
 showsignup: false
+inactive: true
 
 aliases:
 - /osnabrueck
