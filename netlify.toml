@@ -1418,6 +1418,7 @@ to = "/community/"
 [[ redirects ]]
 from = "/mitmachen/"
 to = "/community/"
+force = true
 
 [[ redirects ]]
 from = "/datenschutz/"
@@ -1432,4 +1433,12 @@ from = "/labs/"
 to = "/community/"
 force = true
 
+[[ redirects ]]
+from = "/ziele/"
+to = "/"
+force = true
 
+[[ redirects ]]
+from = "/ressourcen/"
+to = "/"
+force = true
