@@ -34,14 +34,14 @@ style="max-width: 100%; aspect-ratio: 16/9; height: auto"
 src="https://media.ccc.de/v/gpn20-79-code-for-germany-open-data-digitales-ehrenamt/oembed" 
 frameborder="0" allowfullscreen></iframe>
 <figcaption>
- <i>In diesem Video berichten Freiwillige aus Köln, Münster, Leipzig, Darmstadt und Karlsruhe von ihren Projekten. (GPN in Karlsruhe, 2022)<</i>
+ <i>In diesem Video berichten Freiwillige aus Köln, Münster, Leipzig, Darmstadt und Karlsruhe von ihren Projekten. (GPN in Karlsruhe, 2022)</i>
 </figcaption>
 </figure>
 
 Code for Germany hat sein rechtliches Zuhause bei dem gemeinnützigen
-Verein Open Knowledge Foundation Deutschland. Hauptamtliche des
+Verein [Open Knowledge Foundation Deutschland](https://okfn.de). Hauptamtliche des
 Vereins helfen dabei, unser ehrenamtliches Netzwerk zu koordinieren.
-Als Teil des Netzwerks Code for All sind wir mit gleichgesinnten
+Als Teil des Netzwerks [Code for All](https://codeforall.org) sind wir mit gleichgesinnten
 Organisationen in der ganzen Welt vernetzt.
 
 {{< headline-brackets-h2 color="blue" >}}
@@ -110,6 +110,11 @@ Kommunalen
 Verwaltung](https://library.fes.de/pdf-files/bueros/stuttgart/20087-20230313.pdf),
 verfasst von zwei Ehrenamtlichen unserer Community.
 
+Aus unserer Community stammt auch die Handreichung "How to Hackathon – Wann 
+und wie Hackathons kommunalen Verwaltungen helfen können",
+verfügbar als [PDF](https://github.com/okfde/hackathon-leitfaden/releases/download/v1.0.0/hackathon-leitfaden-v1.0.0.pdf)
+und auf [Github](https://github.com/okfde/hackathon-leitfaden).
+
 {{< landing-callout >}}
 In der Blogserie [Out in the Open](/blog) analysieren unsere
 Expert\*innen aktuelle Ereignisse zu Digitalpolitik, Open Data und
@@ -140,7 +145,7 @@ uns eine [Nachricht](mailto:info@codefor.de?subject=Kontakt).
 Unternehmen können selbst Offene Daten publizieren, Open Source
 Software verwenden und eigenen Source Code kostenfrei bereitstellen.
 Engagierte Unternehmen können unsere Arbeit auch mit
-einer [Spende](/sepnden) unterstützen.
+einer [Spende](/spenden) unterstützen.
 
 ### Privatpersonen
 
