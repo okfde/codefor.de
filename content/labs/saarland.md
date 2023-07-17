@@ -5,6 +5,7 @@ title: OK Lab Saarland
 lat: 49.234826
 long: 6.996923
 markerposition: left
+inactive: true
 
 aliases:
 - /saarland
