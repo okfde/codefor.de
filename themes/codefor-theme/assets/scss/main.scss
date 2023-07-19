@@ -23,9 +23,9 @@ $fontSizeHero-xxl: $fontSizeBase-xl + 25px;
 $pageMaxWidth: 1700px;
 
 $codefor-mint: #BFEEEB;
-$codefor-blue: #17B6FF;
+$codefor-blue: #00A9FA;
 $codefor-red: #FF645F;
-$codefor-green: #58e4a0;
+$codefor-green: #00da88;
 $codefor-light-grey: #F2F2F2;
 
 @import "bootstrap/functions";
@@ -332,6 +332,13 @@ blockquote {
 
 .lab-logo {
   width: 200px;
+}
+
+.landing-callout {
+  border: 2px solid $codefor-green;
+  background-color: $codefor-mint;
+  border-radius: 10px;
+  padding: 10px;
 }
 
 .quote {

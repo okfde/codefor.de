@@ -33,11 +33,6 @@ menu:
     name: Community
     url: /community/
     weight: 1
-  - identifier: ziele
-    pageRef: ziele
-    name: Ziele
-    url: /ziele
-    weight: 3
   - identifier: projekte
     pageRef: projekte
     name: Projekte
@@ -48,11 +43,6 @@ menu:
     name: Blog
     url: /blog/
     weight: 5
-  - identifier: resourcen
-    pageRef: ressourcen
-    name: Ressourcen
-    url: /ressourcen/
-    weight: 6
   - identifier: spenden
     pageRef: spenden
     name: Spenden

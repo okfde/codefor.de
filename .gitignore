@@ -17,3 +17,5 @@ ehthumbs_vista.db
 .vscode/**
 
 *.orig
+# Local Netlify folder
+.netlify
