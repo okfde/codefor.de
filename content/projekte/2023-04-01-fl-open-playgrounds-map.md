@@ -2,7 +2,7 @@
 layout: project
 lab: [flensburg]
 imgname: flensburg/spielplaetze_in_flensburg.png
-title: Spielplätze in Flensburg auf einer webbasierten Karte
+title: Spielplatzkarte der Stadt Flensburg
 status: Sucht Kreative
 draft: false
 
@@ -15,11 +15,14 @@ links:
 
 collaborators:
 - name: Aurelius Wendelken
-  links:
-  - url: https://twitter.com/oklabflensburg
-    name: twitter
-  - url: https://github.com/oklabflensburg
-    name: github
+
+- name: Roald Christesen
+
+- name: Alexaner Eichhorn
+
+- name: Steffen Kunst
+
+- name: Gabi Ritter
 
 tags:
 - Gesellschaft
