@@ -1,8 +1,8 @@
 ---
 city: Flensburg
 title: OK Lab Flensburg
-lat: 54.79611110785125
-long: 9.430501388017465
+lat: 54.791741315700726
+long: 9.431022912540696
 markerposition: left
 
 aliases:
@@ -13,17 +13,26 @@ members:
 
 - name: Aurelius Wendelken
   username_github: p3t3r67x0
-  username_twitter: kunstbube
 
 - name: Roald Christesen
 
+- name: Alexaner Eichhorn
+
+- name: Steffen Kunst
+
+- name: Chantal Butenberg
+
+- name: Matthias Gramm
+
+- name: Gabi Ritter
+
 links:
+
+- name: Website
+  url: https://oklabflensburg.de
 
 - name: Twitter
   url: https://twitter.com/oklabflensburg
-
-- name: HackMD
-  url: https://hackmd.io/@oklabflensburg
 
 - name: GitHub
   url: https://github.com/oklabflensburg
@@ -37,4 +46,4 @@ leads:
   url: mailto:roald@grain.one
 ---
 
-Wir sind eine Gruppe von ehrenamtlich Aktiven, die sich für Offene Daten, Freie und Offene Software und Open Government interessiert. Unser OK Lab setzt sich lokal für eine Verbesserung der Transparenz von Staat und Verwaltungen ein, stößt Projekte zur Bürgerbeteiligung an und sucht den Austausch mit den Verwaltungen, um gemeinsam Lösungen für die Herausforderungen in unserer Region zu finden. Wir treffen uns regelmäßig, um unsere Projekte weiterzuentwickeln.
+Wir sind eine Gruppe von ehrenamtlich Aktiven, mit Expertise in Datenverarbeitung, UI/UX Design, Softwareentwicklung, Stadtplanung, Verwaltung und Datenjournalismus. Wir setzen engagieren uns für mehr Transparenz von Behördendaten. Wir machen aus offen Daten, nutzerfreundliche Visualisierungen, Geo Informations Anwendungen und Hardware Projekte zur Messung von Umweltdaten. Wir treffen uns regelmäßig und lernen von einander und arbeiten an den Projekten. Durch die Vielfalt unterschiedlicher Disziplinen und Fachwissen der Teilnehmer:innen in Datenverarbeitung, UI/UX Design, Softwareentwicklung, Stadtplanung, Verwaltung und Datenjournalismus entstehen nutzerorientierte Anwendungen aus offenen Behördendaten mit dem Ziel mehr Beteiligung zu fördern und Transparenz in Verwaltungen zu etablieren.
