@@ -2,7 +2,7 @@
 type: blog # So lassen
 title: Sommerfest Bielefeld
 author: Meike Wocken
-twitter_handle: @countessofcount # wenn nicht vorhanden steht da dann @codeforde
+twitter_handle: @countessofcount #wenn nicht vorhanden steht da dann @codeforde
 excerpt: Unser Sommerfest in Bielefeld war sehr schön. 
 topic: event # zb event, community, default, interview, project, story, toolbox
 lab: [bielefeld] # Zur Übersicht auf der Lab-Seite
