@@ -17,7 +17,6 @@ tags:
 - Sommerfest
 - Community
 - Liebefeld
-
 draft: false # So lassen sonst wird der Artikel nicht veröffentlicht
 ---
 
