@@ -87,7 +87,7 @@ Noch mehr Ideen?
 {{</ headline-brackets-h1 >}}
 
 Wir haben noch viel mehr. Stöbere in der Übersicht all unserer Projekte seit 2014.
-{{< button-center href="/projekte/archiv">}}
+{{< button-center href="/projekte/alle">}}
 alle Projekte
 {{</ button-center >}}
 
