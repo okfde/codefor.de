@@ -1,4 +1,4 @@
-title: Klimadaten
+title: Klimawandel
 txt: >
   Deutschland verpflichtet sich vielerorts dazu, dem Klimawandel
   entgegen zu halten und CO2 zu reduzieren, beim Pariser Klimaabkommen
@@ -33,12 +33,12 @@ txt: >
   Sachsen](https://opengovtech.de/cfg-ziele/projekte/le-klimadashboard/),
   wo wir den Fortschritt der Energie-, Verkehrs- und Landwirtschaftswende
   dokumentieren. Daten zur Luftqualität werden von uns unter anderem
-  in [Köln](https://opengovtech.de/cfg-ziele/projekte/cologne-openair/) und[Bonn](https://opengovtech.de/cfg-ziele/projekte/bn-air-quality-box/) gemessen
+  in [Köln](https://opengovtech.de/cfg-ziele/projekte/cologne-openair/) und [Bonn](https://opengovtech.de/cfg-ziele/projekte/bn-air-quality-box/) gemessen
   und
   in [Sachsen](https://opengovtech.de/cfg-ziele/projekte/le-luftqualitaet_sachsen/) visualisiert.
 
 
-  Die [sensor.community ](https://sensor.community/de/)gibt Anleitungen
+  Die [sensor.community](https://sensor.community/de/) gibt Anleitungen
   für kostengünstige Umweltsensoren zum Selberbauen und visualisiert
   die gesammelten Daten aus aller Welt. Die ersten Schritte dazu
   entstanden im Rahmen von Code for Germany, als Ehrenamtliche in

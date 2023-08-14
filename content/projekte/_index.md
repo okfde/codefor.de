@@ -14,11 +14,13 @@ Projekte
 {{< /headline-brackets-h1 >}}
 
 {{< hero-block-center >}}
-Alle Projekte, die bei Code for Germany entstehen, sind Open Source. Sie lassen sich kostenlos verwenden und weiterentwicklen.
+[Alle Projekte](projekte/alle), die bei Code for Germany entstehen, sind Open Source. Sie lassen sich kostenlos verwenden und weiterentwicklen.
 {{< /hero-block-center >}}
 
 {{< paragraph-center >}}
 Seit der Gründung von Code for Germany im Jahr 2014 zeigen wir, was mit offenen Technologien alles möglich ist. Wir bauen Prototypen um selbst zu lernen; um zu zeigen, wie sich Technik zum Wohle aller einsetzen lässt; und um andere davon zu überzeugen, es uns gleich zu tun. Wir haben kein wirtschaftliches Interesse. Wir wünschen uns, dass unsere Projekte –  all unsere Apps, Plattformen, Sensoren, Prototypen, Ideen –  möglichst viel weiterverwendet werden und möglichst vielen Menschen nutzen.
+
+Du kannst dir gleich [alle Projekte](/projekte/alle) ansehen oder weiterlesen und erfahren, wie unsere Arbeit der Gesellschaft hilft.
 {{</ paragraph-center >}}
 
 
@@ -45,7 +47,7 @@ Informationen zu 30.000 Schulen vereint.
 ### Wo ist der nächste Wochenmarkt?  
 
 Hier findest du die Antwort
-für[Leipzig](https://opengovtech.de/cfg-ziele/projekte/le-woistmarkt/),  [Karlsruhe](https://opengovtech.de/cfg-ziele/projekte/ka-woistmarkt/)  und  [Berlin](https://opengovtech.de/cfg-ziele/projekte/be-woistmarkt/).
+für [Leipzig](https://opengovtech.de/cfg-ziele/projekte/le-woistmarkt/),  [Karlsruhe](https://opengovtech.de/cfg-ziele/projekte/ka-woistmarkt/)  und  [Berlin](https://opengovtech.de/cfg-ziele/projekte/be-woistmarkt/).
 So eine „Wo ist..."-Karte funktionierte in den ersten Pandemiejahren
 auch super mit  Corona-Testzentren  und ist ein gutes Beispiel für
 die Wiederverwendbarkeit von Open-Source-Software in  Berlin,
