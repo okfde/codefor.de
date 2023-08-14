@@ -1,9 +1,10 @@
 ---
 layout: project
 lab: [flensburg]
-imgname: flensburg/screenshot_social_map.png
+imgname: flensburg/screenshot_social_map.jpg
 title: Sozialatlas der Stadt Flensburg
 status: Sucht Mitstreiter
+showcase: true
 draft: false
 
 

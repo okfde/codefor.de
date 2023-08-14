@@ -1,9 +1,10 @@
 ---
 layout: project
 lab: [flensburg]
-imgname: flensburg/spielplaetze_in_flensburg.png
+imgname: flensburg/spielplaetze_in_flensburg.jpg
 title: Spielplatzkarte der Stadt Flensburg
 status: Sucht Kreative
+showcase: true
 draft: false
 
 

@@ -1,9 +1,10 @@
 ---
 layout: project
 lab: [flensburg]
-imgname: flensburg/screenshot_surface_map.png
+imgname: flensburg/screenshot_surface_map.jpg
 title: Bodenfläche nach Art der Nutzung
 status: Sucht Mitstreiter
+showcase: true
 draft: false
 
 
