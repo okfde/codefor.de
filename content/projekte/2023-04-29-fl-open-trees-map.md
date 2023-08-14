@@ -31,7 +31,7 @@ tags:
 
 ---
 
-Im ersten Schritt haben wir einen vorhandenen Daten der Straßenbäume der Stadt Flensburg genutzt, um eine einfache Darstellung auf der Karte als Transparente Anlaufstelle für Interesierte zu schaffen. Hier oben im Norden machen sich klimatische Wetterveränderungen besonders bemerkbar. Deshalb stellen wir uns diefolgenden Fragen:
+Im ersten Schritt haben wir einen vorhandenen Datensatz der Straßenbäume der Stadt Flensburg genutzt, um eine einfache Darstellung auf der Karte als transparente Anlaufstelle für Interessierte zu schaffen. Hier oben im Norden machen sich klimatische Wetterveränderungen besonders bemerkbar. Deshalb stellen wir uns die folgenden Fragen:
 
 - Welche Baumarten sind für die klimatischen Voraussetzungen besonders gut geeignet?
 - Welche Straßenbäume können trotz eines nassen, moorigen oder lehmigen Boden gute Wurzeln bilden?
