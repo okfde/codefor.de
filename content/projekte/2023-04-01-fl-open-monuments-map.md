@@ -4,6 +4,7 @@ lab: [flensburg]
 imgname: flensburg/denkmalliste_stadt_flensburg.png
 title: Karte mit denkmalgeschützen Gebäuden in Flensburg
 status: Sucht Replication
+showcase: true
 draft: false
 
 
