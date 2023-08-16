@@ -16,7 +16,7 @@ members:
 
 - name: Roald Christesen
 
-- name: Alexaner Eichhorn
+- name: Alexander Eichhorn
 
 - name: Steffen Kunst
 
@@ -46,4 +46,4 @@ leads:
   url: mailto:roald@grain.one
 ---
 
-Wir sind eine Gruppe von ehrenamtlich Aktiven mit Expertise in Datenverarbeitung, UI/UX Design, Softwareentwicklung, Stadtplanung, Verwaltung und Datenjournalismus. Wir engagieren uns für mehr Transparenz von Behördendaten. Wir machen aus offen Daten nutzerfreundliche Visualisierungen, Geoinformations-Anwendungen und Hardware-Projekte zur Messung von Umweltdaten. Wir treffen uns regelmäßig und lernen von einander und arbeiten an den Projekten. Wir erstellen gemeinsam Anwendungen aus offenen Behördendaten mit dem Ziel mehr Beteiligung zu fördern und Transparenz in Verwaltungen zu etablieren.
+Wir sind eine Gruppe von ehrenamtlich Aktiven mit Expertise in Datenverarbeitung, UI/UX Design, Softwareentwicklung, Stadtplanung, Verwaltung und Datenjournalismus. Wir engagieren uns für mehr Transparenz von Behördendaten. Wir machen mit offenen Daten nutzerfreundliche Visualisierungen, Geoinformations-Anwendungen und Hardware-Projekte zur Messung von Umweltdaten. Wir treffen uns regelmäßig und lernen von einander und arbeiten an den Projekten. Wir erstellen gemeinsam Anwendungen aus offenen Behördendaten mit dem Ziel mehr Beteiligung zu fördern und Transparenz in Verwaltungen zu etablieren.
