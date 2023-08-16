@@ -19,7 +19,7 @@ links:
 collaborators:
 - name: Aurelius Wendelken
 
-- name: Alexaner Eichhorn
+- name: Alexander Eichhorn
 
 - name: Steffen Kunst
 
@@ -29,4 +29,3 @@ tags:
 ---
 
 Diese interaktive Karte zeigt die Verteilung der verschiedenen Flächennutzungsarten beim Klick auf die entsprechende Gemeinde an. So lässt sich in Kürze herausfinden in welchen Regionen der Waldflächenanteil besonders hoch ist. Dies ist ein erster Prototyp, welcher mit mehr Filter-Möglichkeiten ausgebaut werden soll. Zudem wollen wir auch die Daten der kreisfreien Städte und Stadtstaaten mit aufnehmen.
-

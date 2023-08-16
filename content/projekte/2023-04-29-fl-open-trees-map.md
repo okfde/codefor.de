@@ -21,7 +21,7 @@ collaborators:
 
 - name: Roald Christesen
 
-- name: Alexaner Eichhorn
+- name: Alexander Eichhorn
 
 - name: Steffen Kunst
 
