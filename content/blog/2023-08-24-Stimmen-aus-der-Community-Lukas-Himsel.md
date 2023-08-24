@@ -6,7 +6,7 @@ excerpt: Unregelmäßig erscheinendes Interview Format, das einzelne Menschen au
 topic: community
 images:
 - imgname: lukas-himsel-2023-08.jpg
-  attribution: Portrait von Lukas Himsel. Lizenz: (c) Lukas Himsel
+  attribution: Portrait von Lukas Himsel, Lizenz: (c) Lukas Himsel
 og_image: lukas-himsel-2023-08.jpg
 type: blog
 ---
