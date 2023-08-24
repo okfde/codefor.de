@@ -1,6 +1,6 @@
 ---
 title: "Stimmen aus der Community: Lukas Himsel"
-author: "Nora Titz (Community Redakturin)"
+author: "Nora Titz (Community Redakteurin)"
 date: '2023-08-01T08:00:00+02:00'
 excerpt: Unregelmäßig erscheinendes Interview Format, das einzelne Menschen aus der Community vorstellt
 topic: community
