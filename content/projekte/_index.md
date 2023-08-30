@@ -14,7 +14,7 @@ Projekte
 {{< /headline-brackets-h1 >}}
 
 {{< hero-block-center >}}
-[Alle Projekte](projekte/alle), die bei Code for Germany entstehen, sind Open Source. Sie lassen sich kostenlos verwenden und weiterentwicklen.
+[Alle Projekte](/projekte/alle), die bei Code for Germany entstehen, sind Open Source. Sie lassen sich kostenlos verwenden und weiterentwicklen.
 {{< /hero-block-center >}}
 
 {{< paragraph-center >}}
@@ -39,34 +39,34 @@ direkten Mehrwert in unserem Alltag. Sie machen Informationen
 ### Auf welche Schule soll ich mein Kind schicken?
 
 Aus gesammelten Informationen und visualisierten Karten
-in [Leipzig](https://opengovtech.de/cfg-ziele/projekte/le-kitas_und_schulen_in_leipzig/), [Köln](https://opengovtech.de/cfg-ziele/projekte/cologne-schulen-in-koeln/),  [Berlin](https://opengovtech.de/cfg-ziele/projekte/be-berliner-schulen/),
-im [Ruhrgebiet](https://opengovtech.de/cfg-ziele/projekte/schulradar-ruhrgebiet/) und [Nordrhein-Westfahlen](https://opengovtech.de/cfg-ziele/projekte/schulen-in-nrw/),
+in [Leipzig](/projekte/le-kitas_und_schulen_in_leipzig/), [Köln](/projekte/cologne-schulen-in-koeln/),  [Berlin](/projekte/be-berliner-schulen/),
+im [Ruhrgebiet](/projekte/schulradar-ruhrgebiet/) und [Nordrhein-Westfahlen](/projekte/schulen-in-nrw/),
 haben wir [JedeSchule.de](https://jedeschule.de/) gebaut. Hier sind
 Informationen zu 30.000 Schulen vereint.
 
 ### Wo ist der nächste Wochenmarkt?  
 
 Hier findest du die Antwort
-für [Leipzig](https://opengovtech.de/cfg-ziele/projekte/le-woistmarkt/),  [Karlsruhe](https://opengovtech.de/cfg-ziele/projekte/ka-woistmarkt/)  und  [Berlin](https://opengovtech.de/cfg-ziele/projekte/be-woistmarkt/).
-So eine „Wo ist..."-Karte funktionierte in den ersten Pandemiejahren
+für [Leipzig](/projekte/le-woistmarkt/),  [Karlsruhe](/projekte/ka-woistmarkt/)  und  [Berlin](/projekte/be-woistmarkt/).
+So eine "Wo ist..."-Karte funktionierte in den ersten Pandemiejahren
 auch super mit  Corona-Testzentren  und ist ein gutes Beispiel für
 die Wiederverwendbarkeit von Open-Source-Software in  Berlin,
 Düsseldorf, Halle, Kelletal, Leipzig, Lemgo
-und  [Hessen](https://opengovtech.de/cfg-ziele/projekte/wo-ist-testzentrum/).
+und  [Hessen](/projekte/wo-ist-testzentrum/).
 
 ### Welche Qualität hat mein Trinkwasser?  
 
 Falls du
-in  [Berlin](https://opengovtech.de/cfg-ziele/projekte/be-trinkwasser/),  [Köln](https://opengovtech.de/cfg-ziele/projekte/trinkwasser/),  [Leipzig](https://opengovtech.de/cfg-ziele/projekte/le-trinkwasser/),  [Potsdam](https://opengovtech.de/cfg-ziele/projekte/p-trinkwasser/)  oder  [Heilbronn](https://opengovtech.de/cfg-ziele/projekte/hn-trinkwasser/)  wohnst,
+in  [Berlin](/projekte/be-trinkwasser/),  [Köln](/projekte/trinkwasser/),  [Leipzig](/projekte/le-trinkwasser/),  [Potsdam](/projekte/p-trinkwasser/)  oder  [Heilbronn](/projekte/hn-trinkwasser/)  wohnst,
 können wir dir diese Frage sofort beantworten.
 
 ### Wo ist in Köln der nächste Defibrillator?  
 
-[Hier](https://opengovtech.de/cfg-ziele/projekte/muc-defis/).
+[Hier](/projekte/muc-defis/).
 
 ### Wie viele Bäume gibt's in meiner Stadt?  
 
-In  [Hamburg](https://opengovtech.de/cfg-ziele/projekte/hh-baumkataster/),  [Magdeburg](https://opengovtech.de/cfg-ziele/projekte/magdeburg-baumfreunde-md/),  [Karlsruhe](https://opengovtech.de/cfg-ziele/projekte/baumkataster/),  [Köln](https://opengovtech.de/cfg-ziele/projekte/cologne-baumkataster/)  haben
+In  [Hamburg](/projekte/hh-baumkataster/),  [Magdeburg](/projekte/magdeburg-baumfreunde-md/),  [Karlsruhe](/projekte/baumkataster/),  [Köln](/projekte/cologne-baumkataster/)  haben
 wir das Baumkataster visualisiert. Du kannst kollaborativ daran
 mitarbeiten.  
 
@@ -74,7 +74,7 @@ mitarbeiten.
 
 Wenn du deinen Kiez grün halten möchtest, dann schau doch mal bei
 den Gieß-Apps
-von [Köln](https://opengovtech.de/cfg-ziele/projekte/cologne-giesst/),  [Leipzig](https://opengovtech.de/cfg-ziele/projekte/le-giessdeinviertel/),  [Berlin](https://opengovtech.de/cfg-ziele/projekte/grossstadtbaum/)  und  [Heilbronn](https://opengovtech.de/cfg-ziele/projekte/hn-kastanienapp/)  vorbei.  
+von [Köln](/projekte/cologne-giesst/),  [Leipzig](/projekte/le-giessdeinviertel/),  [Berlin](/projekte/grossstadtbaum/)  und  [Heilbronn](/projekte/hn-kastanienapp/)  vorbei.  
 
 ### Wann fährt der günstigste Zug?  
 
