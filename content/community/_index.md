@@ -43,9 +43,9 @@ bei uns mitmacht, online und vor Ort, akzeptiert unseren Code of
 Conduct.
 <br>
 <br>
-{{< headline-brackets-h1 color="blue"  id="mitmachen" >}}
+{{< headline-brackets-h1 color="blue" id="mitmachen" >}}
 Wie du mitmachen kannst
-{{< /headline-brackets-h1  >}}
+{{< /headline-brackets-h1 >}}
 Du möchtest dich einbringen? Es gibt verschiedene Möglichkeiten, bei uns mitzumachen. Wir freuen uns auf dich! 
 
 ### Komm in unsere Online-Community
@@ -56,7 +56,7 @@ du Fragen stellen und Gleichgesinnte finden. Schick uns eine formlose
 Nachricht an <a href="mailto:info@codefor.de">info@codefor.de</a>
 und wir nehmen dich auf.
 
-{{< button-center href="mailto:info@codefor.de?subject=Online-Community">}}
+{{< button-center href="mailto:info@codefor.de?subject=Online-Community" class="mb-6 mt-3">}}
 Email senden
 {{</ button-center >}}
 
@@ -70,14 +70,14 @@ Email senden
 
 Hilf uns dabei, eine offene und gerechte digitale Zukunft für alle zu schaffen.
 
-{{< button-center href="/spenden">}}
+{{< button-center href="/spenden" class="mb-6 mt-3" >}}
 Spenden
 {{</ button-center >}}
 
 ### Erfahre mehr über Offene Daten
 Wie lassen sich Daten öffnen, und warum ist das wichtig für Verwaltungen? Lies Grundlagen, finde Argumente, Handreichungen und Use Cases auf dem Knowledge Hub der Open Knowledge Foundation Deutschland.
 
-{{< button-center href="https://opendata.okfn.de/" target="_blank">}}
+{{< button-center href="https://opendata.okfn.de/" target="_blank" class="mb-6 mt-3">}}
 Open Data Knowledge Hub
 {{</ button-center >}}
 
@@ -85,7 +85,7 @@ Open Data Knowledge Hub
 
 Schreib uns eine Nachricht an info@codefor.de, wir freuen uns von dir zu hören!
 
-{{< button-center href="mailto:info@codefor.de?subject=Kontakt">}}
+{{< button-center href="mailto:info@codefor.de?subject=Kontakt" class="mb-6 mt-3">}}
 Email senden
 {{</ button-center >}}
 {{</ paragraph-center  >}}
