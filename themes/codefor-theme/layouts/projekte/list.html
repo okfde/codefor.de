@@ -1,82 +1,13 @@
 {{ define "main" }}
 
-{{ .Content }}
+    {{ .Content }}
 
-<div class="row justify-content-center mt-6">
-    <div class="col-24 col-md-22 col-lg-22 col-xl-20 ">
-      <div class="d-flex flex-column flex-lg-row justify-content-center mb-5" id="filters">
-        <button data-filter="" class="btn btn-outline-dark filter mx-2 my-2 active" href="{{ .Page.Permalink }}">
-          <span>Alle</span>
-        </button>
-        <button data-filter="Umwelt" class="btn btn-outline-dark filter mx-2 my-2" href="{{ .Page.Permalink }}">
-          <span>Umwelt</span>
-          <img class="ml-1 img-fluid taxonomie-icon" src="/img/taxonomie-icon/umwelt.svg" alt="Filter Umwelt">
-        </button>
-        <button data-filter="Politik" class="btn btn-outline-dark filter mx-2 my-2" href="{{ .Page.Permalink }}">
-          <span>Politik</span>
-          <img class="ml-1 img-fluid taxonomie-icon" src="/img/taxonomie-icon/politik.svg" alt="Filter Politik">
-        </button>
-        <button data-filter="Gesellschaft" class="btn btn-outline-dark filter mx-2 my-2" href="{{ .Page.Permalink }}">
-          <span>Gesellschaft</span>
-          <img class="ml-1 img-fluid taxonomie-icon" src="/img/taxonomie-icon/gesellschaft.svg" alt="Filter Gesellschaft">
-        </button>
-        <button data-filter="Mobilität" class="btn btn-outline-dark filter mx-2 my-2" href="{{ .Page.Permalink }}">
-          <span>Mobilität</span>
-          <img class="ml-1 img-fluid taxonomie-icon" src="/img/taxonomie-icon/mobilitaet.svg" alt="Filter Mobilität">
-        </button>
-      </div>
-      <div class="row mb-5 mb-md-7" id="projects-container">
-      {{- $isShowcasePage := ne .Title "Archiv" -}}
-      {{- range sort (where (where .Site.RegularPages "Layout" "==" "project") ".Params.showcase" (cond $isShowcasePage true nil)) ".Params.title" -}}
-        {{ partial "project-preview.html" . }}
-      {{- end -}}
-      </div>
-      <div class="col-24 d-flex justify-content-center my-7 btn-archive">
-      {{ if $isShowcasePage -}}
-        <a class="btn btn-outline-dark" href="/projekte/archiv">
-          Projektarchiv
-        </a>
-      {{ else -}}
-        <a class="btn btn-outline-dark" href="/projekte">
-          Aktuelle Projekte
-        </a>
-      {{ end }}
-      </div>
+    <div class="blog__container">
+        <div class="blog__posts">
+            {{ range (where .Site.RegularPages "Params.type" "blog") | first 2 }}
+                {{ partial "blog-preview.html" . }}
+            {{ end }}
+        </div>
     </div>
-</div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-
-  var filterButtons = document.querySelectorAll("#filters button");
-  var projects = document.querySelectorAll("#projects-container > div");
-
-  filterButtons.forEach(function (button) {
-    var filter = button.dataset.filter;
-
-    button.addEventListener("click", function (e) {
-      // show all projects
-      projects.forEach(function (project) {
-        project.style.display = "unset";
-      });
-      var isActive = button.className.indexOf("active") !== -1;
-      if (isActive) {
-        button.className = button.className.replace("active", "").trim();
-      } else {
-        filterButtons.forEach(function (otherButton) {
-          otherButton.className = otherButton.className.replace("active", "").trim();
-        });
-        button.className = button.className + " active";
-        // hide projects which do not match the selected filter
-        projects.forEach(function (project) {
-          if (project.className.indexOf(filter) === -1) {
-            project.style.display = "none";
-          }
-        });
-      }
-    });
-  });
-});
-</script>
 
 {{ end }}

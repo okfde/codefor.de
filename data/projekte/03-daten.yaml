@@ -1,0 +1,62 @@
+title: Daten – die Grundlage unserer Arbeit
+txt: >
+  Daten sind ein Grundbaustein all unserer Projekte. Sie entstehen
+  in allen gesellschaftlichen Bereichen. Die **öffentliche
+  Hand** verfügt über eine Vielzahl der interessantesten Informationen.
+  Auch in der **Privatwirtschaft** verbergen sich spannende
+  Datenschätze, unter anderem bei Verkehrsbetrieben. Leider sind
+  diese oft nur mit Hürden erreichbar. Viele Verkehrsbetriebe haben
+  Angst, sich zu öffnen, und auch bei staatlichen Akteur*innen
+  gibt es immer noch Berührungsängste. Dabei kann damit so viel
+  Gutes entstehen. Bei Code for Germany nutzen wir unter anderem
+  folgende Arten von Daten, um hilfreiche Anwendungen zu bauen:
+
+
+  - **Geodaten** von Straßen und Gebäuden bis hin zu Topographien
+  und Grenzen 
+  
+  - **Kulturdaten** staatlicher Galerien, Bibliotheken,
+  Archive und Museen  
+  
+  - **Wetterdaten** des Deutschen Wetterdienstes
+  
+  - **Daten der politischen Gremienarbeit**, wie zB. in lokalen
+  Ratsinformationssystemen 
+  
+  - **Finanzdaten**, sprich Haushaltsdaten der öffentlichen Hand 
+  
+  - **Wissenschaftliche Daten** aus Studien,
+  die mit öffentlichen Geldern finanziert wurden 
+  
+  - **Mobilitätsdaten** wie Fahrpläne, Fahrstrecken und Echtzeit-Statistiken. 
+  
+  - **Sensor-Daten** durch zivilgesellschaftliche Erhebungen, wie etwa
+  zur [Bodenfeuchtigkeit](https://codefor.de/projekte/bodenfeuchtigkeit/)
+
+
+  Es gibt einige **häufig Fehler bei der Bereitstellung von Daten**,
+  die es zu vermeiden gilt:
+  
+
+  - Daten werden nicht in maschinenlesbarer Form veröffentlicht,
+  sondern verstecken sich in PDFs. Bevor eine Anwendung diese Daten
+  verwenden kann, müssen sie zuerst aufwendig befreit werden.
+  
+  - Daten werden nur einmal bereitgestellt. Das ist oft der Fall,
+  wenn Verwaltungsmitarbeitende die Daten als Reaktion veröffentlichen:
+  Weil sie schon konkrete Anwendungen kennen, die diese Daten nutzen
+  (werden), oder weil sie nach dem konkreten Datensatz gefragt
+  wurden. Diese Daten sind eine Momentaufnahme, oft ohne hilfreichen
+  Kontext. Ihr Nutzen ist begrenzt.
+  
+  - Daten werden händisch in Open-Data-Portale eingepflegt. Das erfordert einen hohen
+  Arbeitsaufwand. Besser wäre es, die Daten automatisch einzupflegen,
+  über eine Schnittstelle. 
+  
+  - Daten werden über eine nicht-standardisierte Schnittstelle bereitgestellt. Wenn sich die
+  Schnitstelle ändert, müssen alle Anwendungen, die auf diesen Daten
+  aufbauen, händisch repariert werden. 
+  
+  - Mehr häufige Fehler, und wie sie sich vermeiden lassen finden sich im [Open Data
+  Knowledge Hub](https://opendata.okfn.de/) der Open Knowledge
+  Foundation Deutschland.

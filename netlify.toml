@@ -560,10 +560,6 @@ from = "/summit/"
 to = "/archiv/summit/"
 
 [[ redirects ]]
-from = "/projekte/alle/"
-to = "/projekte/archiv/"
-
-[[ redirects ]]
 from = "/projekte/2011-12-31-accessmap.html"
 to = "/projekte/accessmap/"
 
@@ -1441,4 +1437,9 @@ force = true
 [[ redirects ]]
 from = "/ressourcen/"
 to = "/"
+force = true
+
+[[ redirects ]]
+from = "/projekte/archiv/"
+to = "/projekte/alle/"
 force = true
