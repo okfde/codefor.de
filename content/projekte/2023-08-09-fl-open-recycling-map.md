@@ -1,7 +1,7 @@
 ---
 layout: project
 lab: [flensburg]
-imgname: flensburg/recycling_in_flensburg.jpg
+imgname: flensburg/screenshot-recycling-map.jpg
 title: Karte der Recyclingcontainer in Flensburg
 status: Sucht Kreative
 showcase: true

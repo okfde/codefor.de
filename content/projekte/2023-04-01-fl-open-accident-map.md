@@ -1,7 +1,7 @@
 ---
 layout: project
 lab: [flensburg]
-imgname: flensburg/unfallkarte_stadt_flensburg.png
+imgname: flensburg/unfallkarte_stadt_flensburg.jpg
 title: Unfallorte auf einer interaktiven webbasierten Karte
 status: Sucht Mitstreiter
 showcase: true
