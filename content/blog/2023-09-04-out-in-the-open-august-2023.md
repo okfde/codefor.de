@@ -22,7 +22,7 @@ Zu tun gäbe es genug, denn laut der [neu beschlossenen Datenstrategie der Bunde
 
 ## Digitalpolitik
 
-Während die Bundesregierung diese Datenstrategie als digitalen Aufbruch [rühmt](https://www.bundesregierung.de/breg-de/themen/digitaler-aufbruch/datenstrategie-2023-2216620), üben Vertreter der Zivilgesellschaft [deutliche Kritik](https://okfn.de/blog/2023/08/halbzeitkritik-ampel/) an der bisherigen Digitalpolitik der Ampel-Regierung. Im [Koalitionstracker](https://fragdenstaat.de/koalitionstracker/) von FragDenStaat wird der generelle Umsetzungsstau – nicht nur im Digitalbereich – offensichtlich.  
+Während die Bundesregierung diese Datenstrategie als digitalen Aufbruch [rühmt](https://www.bundesregierung.de/breg-de/themen/digitaler-aufbruch/datenstrategie-2023-2216620), üben Vertreter der Zivilgesellschaft [deutliche Kritik](https://okfn.de/blog/2023/08/halbzeitkritik-ampel/) an der bisherigen Digitalpolitik der Ampel-Regierung. Im [Koalitionstracker](https://fragdenstaat.de/koalitionstracker/) von FragDenStaat wird der generelle Umsetzungsstau – nicht nur im Digitalbereich – offensichtlich.  
 
 Dennoch träumt man mit der Datenstrategie weiter von [KI-Anwendungen in der öffentlichen Verwaltung](https://www.egovernment.de/koalition-will-ki-anwendungen-in-der-verwaltung-moeglich-machen-a-d9149bc14e45367bb809896c9956d6e0/) und will die Entwicklung eigener KI-Sprachmodelle prüfen. 
 
