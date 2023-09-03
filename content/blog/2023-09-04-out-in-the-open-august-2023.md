@@ -11,9 +11,9 @@ og_image: out-in-the-open-2023-08-header.jpg
 type: blog
 ---
 
-## OpenData
+## Open Data
 
-Das Interview mit [Stefan Oderbolz](https://stefanoderbolz.ch) in der [jüngsten Episode "Statistisch gesehen"](https://statistisch-gesehen.captivate.fm/episode/muellabfuhrkalender) ist beste Werbung für die praktische Open Data Umsetzung. Stefan hat 4 Jahre im Open-Data-Team der Stadt Zürich gewirkt, und erzählt im Gespräch nicht nur von seinen beruflichen Umgang mit offenen Behördendaten sondern auch sein ehrenamtlichenes Engagement in der Open Data Community.
+Das Interview mit [Stefan Oderbolz](https://stefanoderbolz.ch) in der [jüngsten Episode "Statistisch gesehen"](https://statistisch-gesehen.captivate.fm/episode/muellabfuhrkalender) ist beste Werbung für die praktische Open Data Umsetzung. Stefan hat 4 Jahre im Open-Data-Team der Stadt Zürich gewirkt, und erzählt im Gespräch nicht nur von seinen beruflichen Umgang mit offenen Behördendaten sondern auch sein ehrenamtliches Engagement in der Open Data Community.
 
 Wer Lust hat, wie Stefan sein Hobby zum Beruf zu machen: die FITKO bzw. GovData hat derzeit unbefristete Stellen für Data Scientists, IT-Architekt:in und Informatiker:in im [GovData-Produktmanagement](https://www.fitko.de/ueber-uns/wen-wir-suchen/produktmanagement-govdata-data-scientist-/-it-architektin-m/w/d) und im [föderale Datenqualitätsmanagement](https://www.fitko.de/ueber-uns/wen-wir-suchen/data-scientist-/-informatikerin-m/w/d-fuer-das-foederale-datenqualitaetsmanagement) ausgeschrieben.
 
@@ -22,7 +22,7 @@ Zu tun gäbe es genug, denn laut der [neu beschlossenen Datenstrategie der Bunde
 
 ## Digitalpolitik
 
-Während die Bundesregierung diese Datenstrategie als digitalen Aufbruch [rühmt](https://www.bundesregierung.de/breg-de/themen/digitaler-aufbruch/datenstrategie-2023-2216620), üben Vertreter der Zivilgesellschaft [deutliche Kritik](https://okfn.de/blog/2023/08/halbzeitkritik-ampel/) an der bisherigen Digitalpolitik der Ampel-Regierung. Im [Koalitionstracker](https://fragdenstaat.de/koalitionstracker/) von FragDenStaat wird der generelle Umsetzungsstau nicht nur im Digitalbereich offensichtlich.  
+Während die Bundesregierung diese Datenstrategie als digitalen Aufbruch [rühmt](https://www.bundesregierung.de/breg-de/themen/digitaler-aufbruch/datenstrategie-2023-2216620), üben Vertreter der Zivilgesellschaft [deutliche Kritik](https://okfn.de/blog/2023/08/halbzeitkritik-ampel/) an der bisherigen Digitalpolitik der Ampel-Regierung. Im [Koalitionstracker](https://fragdenstaat.de/koalitionstracker/) von FragDenStaat wird der generelle Umsetzungsstau nicht nur im Digitalbereich offensichtlich.  
 
 Dennoch träumt man in der Datenstrategie weiter von [KI-Anwendungen in der öffentlichen Verwaltung](https://www.egovernment.de/koalition-will-ki-anwendungen-in-der-verwaltung-moeglich-machen-a-d9149bc14e45367bb809896c9956d6e0/) und will die Entwicklung eigener KI-Sprachmodelle prüfen. 
 
@@ -40,9 +40,9 @@ Die aktuellen Umsetzungsstände der Vorhaben des vorherigen NAPs kann man übrig
 So sieht man bei der Verpflichtung [Grundstein für die Verbesserung des Zugangs zu Rechtsinformationen](
 https://www.open-government-deutschland.de/opengov-de/ogp/aktionsplaene-und-berichte/3-nap/grundstein-fuer-die-verbesserung-des-zugangs-zu-rechtsinformationen-1968768?view=) den massiven Umsetzungsrückstand.
 
-Dabei gibt es mit [openjur.de](https://openjur.de/) bereits seit 15 Jahren eine gemeinnützig betriebene Rechtsprechungsdatenbank, die nun aber um [ihre Zukunft bangen muss](https://blog.wikimedia.de/2023/08/17/die-rechtsprechungsdatenbank-openjur-bangt-um-ihre-zukunft-und-bittet-um-hilfe/), da durch eine [Klage](https://openjur.de/i/openjur_wird_verklagt.html) nicht nur Verfahrungskosten und Schadensersatzleistung drohen sondern auch bei Weiterbetrieb Aufwände für dann proaktiv zu leistende Prüfungspflichten, die nicht zu stämmen wären. Bei Seiten wie [insolvenzbekanntmachungen.de](https://neu.insolvenzbekanntmachungen.de/ap/suche.jsf) scheint dagegen der Bedarf an Anonymisierung nicht gegeben zu sein, da  kann man die Daten aller Firmen- und Privat-Insolvenzen (mit vollem Name, Geburtstag und Adresse) noch auf Jahre hin einsehen.
+Dabei gibt es mit [openjur.de](https://openjur.de/) bereits seit 15 Jahren eine gemeinnützig betriebene Rechtsprechungsdatenbank, die nun aber um [ihre Zukunft bangen muss](https://blog.wikimedia.de/2023/08/17/die-rechtsprechungsdatenbank-openjur-bangt-um-ihre-zukunft-und-bittet-um-hilfe/), da durch eine [Klage](https://openjur.de/i/openjur_wird_verklagt.html) nicht nur Verfahrungskosten und Schadensersatzleistung drohen sondern auch bei Weiterbetrieb Aufwände für dann proaktiv zu leistende Prüfungspflichten, die nicht zu stemmen wären. Bei Seiten wie [insolvenzbekanntmachungen.de](https://neu.insolvenzbekanntmachungen.de/ap/suche.jsf) scheint dagegen der Bedarf an Anonymisierung nicht gegeben zu sein, da  kann man die Daten aller Firmen- und Privat-Insolvenzen (mit vollem Name, Geburtstag und Adresse) noch auf Jahre hin einsehen.
 
-Ähnlich wie openjur es ermöglicht in Gerichtsentscheidungen zu suchen, macht [openparliament.tv](https://openparliament.tv/)   Videos und Protokolle von Parlamentsdebatten durchsuchbar. Gründer und Projektleiter Joscha Jäger erzählt im [CorrelTalk](https://soundcloud.com/correlaid_podcast/openparliamenttv/s-aLBbQ0qi6Yy?si=83c1860e53324754926def325aaa87e9) über den aktuellen Stand und die Pläne für die Zukunft.
+Ähnlich wie openjur es ermöglicht in Gerichtsentscheidungen zu suchen, macht [openparliament.tv](https://openparliament.tv/)   Videos und Protokolle von Parlamentsdebatten durchsuchbar. Gründer und Projektleiter Joscha Jäger erzählt im [CorrelTalk](https://soundcloud.com/correlaid_podcast/openparliamenttv/s-aLBbQ0qi6Yy?si=83c1860e53324754926def325aaa87e9) über den aktuellen Stand und die Pläne für die Zukunft.
 
 
 ## Klima
@@ -53,9 +53,9 @@ Neben Trockenheit setzt die Hitze selbst vielen Städte (bzw. ihren Bewohner:inn
 
 Eine Entsiegelung würde auch gegen das andere Wetterextrem Starkregen helfen. In Wuppertal wurden nun gigabyteweise die Ergebnisse der Starkregensimulationen als Open Data [freigegeben](https://offenedaten-wuppertal.de/search?query=Starkregen), enthalten sind unter anderem Wassertiefen, Fließgeschwindigkeiten und -richtungen. In Braunschweig lassen sich zudem die Auswirkungen von Hochwasser und Starkregen in einem [3D-Stadtmodell](https://www.kommune21.de/meldung_41902_Starkregen+und+Hochwasser+im+3D-Stadtmodell.html) simulieren.
 
-Wie groß die Abweichungen bei Temparaturen und Niederschlägen inzwischen sind, kann man sich auf [Historical Meteo Graphs](https://yotka.org/meteo-hist/) für einen beliebigen Ort auf der Welt anzeigen lassen.
+Wie groß die Abweichungen bei Temperaturen und Niederschlägen inzwischen sind, kann man sich auf [Historical Meteo Graphs](https://yotka.org/meteo-hist/) für einen beliebigen Ort auf der Welt anzeigen lassen.
 
-Und mit der OpenSource-Anwendung [Electricity Maps](https://app.electricitymaps.com/map) kann man die entstandenen Treibhaus-Emissionen (gemessen in CO2-Äquivalenten) bei der Energie-Erzeugung und -Nutzung pro Land in Echtzeit und historisch nachvollziehen.
+Und mit der OpenSource-Anwendung [Electricity Maps](https://app.electricitymaps.com/map) kann man die entstandenen Treibhaus-Emissionen (gemessen in CO2-Äquivalenten) bei der Energieerzeugung und -nutzung pro Land in Echtzeit und historisch nachvollziehen.
 
 
 ## Mobilität
@@ -71,13 +71,9 @@ Mit dem Ziel für sichere Radwege und freie Bürgersteige zu sorgen, gibt es zum
 
 ## Corona
 
-Ein [Zeit-Artikel](https://www.zeit.de/2023/37/gesundheitswesen-digitalisierung-corona-pandemie-datenlage-strategie/komplettansicht) weist darauf hin, dass sich am Umstand, dass Deutschland während der Corona-Pandemie über viel zu wenig medizinische Daten (z.B. wie viele freie Krankenhaus-Betten, wie viel Pflegepersonal, wie viel Infizierte) verfügt hat, um die Situation  realistisch einzuschätzen, kaum etwas geändert hat. Es wird allerdings auch angesprochen, dass die Datenbereitstellung allein nicht reicht, sondern zum einen die Erkenntnisse in geeigneter Form auch an Politik und Öffentlichkeit kommuniziert werden müssen und zum anderen die Politik die richtigen Entscheidungen ableitet und umsetzt bzw. die Bürger:innen diese Vorgaben und Handlungsempfehlungen auch beherzigen. In die gleiche Richtung zielt [diese Kritik](https://wien.rocks/@dasgrueneblatt/110867559344766675) am neuen [Dashboard für Atemwegserkrankungen](https://orf.at/stories/3327005/) in Österreich.
+Ein [Zeit-Artikel](https://www.zeit.de/2023/37/gesundheitswesen-digitalisierung-corona-pandemie-datenlage-strategie/komplettansicht) weist darauf hin, dass sich am Umstand, dass Deutschland während der Corona-Pandemie über viel zu wenig medizinische Daten (z.B. wie viele freie Krankenhaus-Betten, wie viel Pflegepersonal, wie viel Infizierte) verfügt hat, um die Situation  realistisch einzuschätzen, kaum etwas geändert hat. Es wird allerdings auch angesprochen, dass die Datenbereitstellung allein nicht reicht, sondern zum einen die Erkenntnisse in geeigneter Form auch an Politik und Öffentlichkeit kommuniziert werden müssen und zum anderen die Politik die richtigen Entscheidungen ableitet und umsetzt bzw. die Bürger:innen diese Vorgaben und Handlungsempfehlungen auch beherzigen. In die gleiche Richtung zielt [diese Kritik](https://wien.rocks/@dasgrueneblatt/110867559344766675) am neuen [Dashboard für Atemwegserkrankungen](https://orf.at/stories/3327005/) in Österreich.
 
 Auch der Wissenschafts-Redakteur Lars Fischer geht in seinem [Blog-Beitrag](https://scilogs.spektrum.de/fischblog/corona-anstieg-varianten-impfung/) auf mögliche Informationsquellen ein, die als Indikator für die Einschätzung der aktuellen Lage dienen können, unter anderem das [SARS-CoV-2 Abwassermonitoring in Bayern](https://www.bay-voc.lmu.de/abwassermonitoring).
-
-  
-
-
 
 
 ## Sozialstatistik
@@ -87,7 +83,6 @@ Die Wirtschaft klagt über Fachkräftemangel, dennoch waren im 2. Quartal 2022 f
 Weitere Visualisierungen und Daten zur aktuellen Arbeitsmarktlage gibt es auf [Dashboard Deutschland](https://www.dashboard-deutschland.de/arbeitsmarkt/arbeitsmarkt).
 
 Auswertungen speziell zum Thema Armut und Kinderarmut findet man auf den Seiten des [Statistischen Bundesamts](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Einkommen-Konsum-Lebensbedingungen/Lebensbedingungen-Armutsgefaehrdung/_inhalt.html), auf [eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/popul?lang=de&subtheme=livcon.ilc.ilc_pe&display=list&sort=category), in den Indikatoren des [Armuts- und Reichtumsbericht](https://www.armuts-und-reichtumsbericht.de/DE/Startseite/start.html) sowie auf der [Themenseite der Bundeszentrale für politische Bildung](https://www.bpb.de/kurz-knapp/zahlen-und-fakten/europa/70618/armut-einkommen-und-sozialer-schutz/). Vielleicht helfen diese Quellen, die Aussagen mancher Politiker, die im Rahmen der Debatte um die Kindergrundsicherung gefallen sind, kritisch zu hinterfragen.
-
 
 
 ## 3D Stadtmodelle
@@ -103,23 +98,25 @@ Wer immer schon mit der Syntax der Overpass Abfragesprache zu kämpfen hatte, f�
 
 Ähnlich kompliziert wie Overpass QL ist die Abfragesprache SPARQL für Linked Data. Aber auch hier gibt es nun mit [LinkedDataGPT](https://ld.gpt.liip.ch) eine vergleichbare Lösung, die allerdings auf die Linked Open Data der Stadt Zürich beschränkt ist. Mehr Informationen gibt es im [Blogbeitrag von Christian Stocker](https://www.liip.ch/en/blog/use-linkeddatagpt-to-query-open-linked-data-from-the-city-of-zurich).
 
-Knowledge Graphs (mit ihrer Fähigkeit ableitbare Wahrheiten generieren zu können (im Gegensatz der stochastischen Large-Language-Modells)) und Wikidata  waren auch Thema auf dem Chaos Communication Camp, wie [hier](https://www.korrupt.biz/8184/wikidata-knowledge-graphen-und-mein-ki-theoriesteckenpferd/) berichtet wird. Das dort genannte Wikidata-Spiel sei auch hier nochmal [verlinkt](https://wikidata-game.toolforge.org/distributed/#game).
+Knowledge Graphs (mit ihrer Fähigkeit ableitbare Wahrheiten generieren zu können (im Gegensatz der stochastischen Large-Language-Modells)) und Wikidata  waren auch Thema auf dem Chaos Communication Camp, wie [hier](https://www.korrupt.biz/8184/wikidata-knowledge-graphen-und-mein-ki-theoriesteckenpferd/) berichtet wird. Das dort genannte Wikidata-Spiel sei auch hier nochmal [verlinkt](https://wikidata-game.toolforge.org/distributed/#game).
 
 
 ## Open Data vor 10 Jahren
 
-Als gewisserweise Vorläufer dieser Blog-Reihe für Code for Germany gab es auch schon vor 10 Jahren einen monatlichen Bericht von den Aktivitäten der Open Knowledge Foundation Deutschland, so wie hier für den [August 2013](https://okfn.de/blog/2013/09/aktivitaten-und-projekte-im-august-2013/). So fand damals die erste Jugend-Hackt-Veranstaltung statt, über die [hier](https://okfn.de/blog/2013/09/jugend-hackt-erster-ruckblick/) im Rückblick berichtet wird. Einer Veranstaltungen der noch viele folgen sollten, wie man im entsprechenden [Wikipedia-Artikel](https://de.wikipedia.org/wiki/Jugend_hackt) nachlesen kann. Auch jetzt stehen im September in [Köln](https://jugendhackt.org/events/koeln/) (leider schon ausgebucht) und im Oktober in [Hamburg](https://jugendhackt.org/events/hamburg/) Events an.
+Als in gewisser Weise Vorläufer dieser Blog-Reihe für Code for Germany gab es auch schon vor 10 Jahren einen monatlichen Bericht von den Aktivitäten der Open Knowledge Foundation Deutschland, so wie hier für den [August 2013](https://okfn.de/blog/2013/09/aktivitaten-und-projekte-im-august-2013/). So fand damals die erste Jugend-Hackt-Veranstaltung statt, über die [hier](https://okfn.de/blog/2013/09/jugend-hackt-erster-ruckblick/) im Rückblick berichtet wird. Einer Veranstaltungen der noch viele folgen sollten, wie man im entsprechenden [Wikipedia-Artikel](https://de.wikipedia.org/wiki/Jugend_hackt) nachlesen kann. Auch jetzt stehen im September in [Köln](https://jugendhackt.org/events/koeln/) (leider schon ausgebucht) und im Oktober in [Hamburg](https://jugendhackt.org/events/hamburg/) Events an.
    
 
 ## Veranstaltungen
- * Freitag, 01.09.2023, bis Sonntag, 03.09.2023: **MRMCD**
+ * Freitag, 01.09.2023, bis Sonntag, 03.09.2023, TU Darmstadt Piloty Gebäude: **MRMCD**
    * https://2023.mrmcd.net
  * Donnerstag, 07.09.2023 bis Freitag, 08.09.2023, Valencia (Spanien): **OpenTripPlanner Open Days 2023**
    * https://www.opentripplanner.org/opendays/ 
  * Samstag, 09.09.2023, 10:00 bis 18:00, Wikibär Berlin: **Code for Germany Summit**
-   * https://de.wikipedia.org/wiki/Wikipedia:WikiB%C3%A4r 
- * Freitag, 15.09.2023 bis Samstag, 16.09.2023: **Energy Data Hackdays 2023**
+   * https://de.wikipedia.org/wiki/Wikipedia:WikiB%C3%A4r    
+ * Freitag, 15.09.2023 bis Samstag, 16.09.2023, Fachhochschule Nordwestschweiz, Campus Brugg-Windisch (Schweiz): **Energy Data Hackdays 2023**
    * https://energydatahackdays.ch
+ * Freitag, 15.09.2023, bis Sonntag, 17.09.2023,  Zentralwerk, Riesaer Str. 32, 01127 Dresden: **Datenspuren 2023**
+   * https://datenspuren.de/2023
  * Freitag, 29.09.2023 bis Samstag, 30.09.2023, Genf (Schweiz): **Swiss Open Cultural Data Hackathon (GLAMHack 2023)**
    * https://www.infoclio.ch/de/swiss-open-cultural-data-hackathon-glamhack-2023
  * Freitag, 29.09.2023 bis Sonntag, 01.10.2023, Linz (Österreich) und Online: **WikiCon 2023**
