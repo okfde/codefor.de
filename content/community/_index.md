@@ -1,6 +1,8 @@
 ---
 needsLeafletCss: true
 ---
+{{< headline-icon icon="icon-bracket.svg" color="blue" >}}
+
 {{< headline-brackets-h1 color="red"  >}}
 Unsere Community
 {{< /headline-brackets-h1  >}}
