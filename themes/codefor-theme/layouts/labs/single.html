@@ -65,14 +65,16 @@
 <div class="row justify-content-center mb-5 mb-lg-7">
     <div class="col-22 col-md-18">
         <div id="projects-container">
-        {{ range $lab_projects }}
-            {{ partial "project-preview.html" . }}
-        {{ end }}
+            {{ if len $lab_projects | ne 0 }}
+            {{ range $lab_projects }}
+                {{ partial "project-preview.html" . }}
+            {{ end }}
+            {{ end }}
         </div>
     </div>
 </div>
 <template id="project-template">
-    {{ partial "project-preview.html" . }}
+    {{ partial "project-preview.html" }}
 </template>
 
 {{/*
