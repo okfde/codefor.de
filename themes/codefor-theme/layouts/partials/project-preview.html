@@ -3,10 +3,10 @@
        data-date="{{ substr .File.BaseFileName 0 10 }}"
        href="{{.Permalink}}">
     <div class="card-header border-bottom-0 bg-white ">
-      <ul class="d-flex list-unstyled justify-content-end m-0 p-0">
+      <ul class="d-flex list-unstyled justify-content-end m-0 p-0 tags">
         {{ range (.Param "tags") }}
 
-            <li class="pl-3 tags">
+            <li class="pl-3">
 
               {{ if eq . "Umwelt" }}
               <img class="img-fluid taxonomie-icon" src="/img/taxonomie-icon/umwelt.svg" alt="{{ . }}">
@@ -45,6 +45,7 @@
       {{ range .Params.lab }}
       {{ with $.Site.GetPage (printf "/labs/%s.md" . ) }}<a class="text-danger no-underline lab-link" href="{{ .Permalink }}">{{ .Title }}</a>{{ end }}
       {{ end }}
+        <a class="text-danger no-underline lab-link"></a>
       <span class="text-right status">{{.Params.status}}</span>
     </div>
   </div>
