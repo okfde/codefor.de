@@ -4,6 +4,7 @@ title: OK Lab Karlsruhe
 lat: 49.013397
 long: 8.404370
 markerposition: left
+ExternalProjectsUrl: https://ok-lab-karlsruhe.de/projects/projectlist.json
 #h4c: true
 
 aliases:

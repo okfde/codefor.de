@@ -36,22 +36,24 @@
         </div>
     </div>
 </div>
+<script src="/js/projects.js"></script>
 
 
 <script>
-    document.addEventListener("DOMContentLoaded", function () {
-        var filterButtons = Array.from(document.querySelectorAll("#filters button"));
-        const projectContainer = document.querySelector("#projects-container");
-        var projects = Array.from(projectContainer.children);
+    const setupFilters = () => {
+        const filterButtons = Array.from(document.querySelectorAll("#filters button"));
+        const projectContainer = document.querySelector("#projects-container")
+        const getProjects = () => Array.from(projectContainer.children);
 
         filterButtons.forEach(function (button) {
-            var filter = button.dataset.filter;
+            const filter = button.dataset.filter;
+            const projects = getProjects();
 
             button.addEventListener("click", function (e) {
                 projects.forEach(project => project.style.display = "unset");
 
                 filterButtons.filter(b => b !== button)
-                             .forEach(button => button.classList.remove("active" ))
+                    .forEach(button => button.classList.remove("active"))
                 button.classList.toggle("active")
                 const isActive = button.classList.contains("active")
                 if (filter === "") {
@@ -70,7 +72,7 @@
             const sortDirection = direction === "asc" ? 1 : -1;
             const sortKey = (node) => node.dataset[field].toLowerCase();
 
-            [...projectContainer.children]
+            getProjects()
                 .sort((a,b)=> {
                     const sortByA = sortKey(a);
                     const sortByB = sortKey(b);
@@ -97,5 +99,11 @@
                 sortProjects(field, direction);
             });
         });
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+        setupFilters();
+        loadAdditionalProjects("https://ok-lab-karlsruhe.de/projects/projectlist.json");
     });
+
 </script>

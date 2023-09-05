@@ -60,19 +60,22 @@
 {{/* create a slice because we're using "intersect" in the next line */}}
 {{ $filename := slice .File.BaseFileName }}
 {{ $lab_projects := (where (where .Site.RegularPages "Layout" "==" "project") ".Params.lab" "intersect" $filename)}}
-{{ if len $lab_projects | ne 0 }}
 
 <h2 class="headline-brackets red" id="projekte">Projekte</h2>
 <div class="row justify-content-center mb-5 mb-lg-7">
     <div class="col-22 col-md-18">
         <div id="projects-container">
-        {{ range $lab_projects }}
-            {{ partial "project-preview.html" . }}
-        {{ end }}
+            {{ if len $lab_projects | ne 0 }}
+            {{ range $lab_projects }}
+                {{ partial "project-preview.html" . }}
+            {{ end }}
+            {{ end }}
         </div>
     </div>
 </div>
-{{ end }}
+<template id="project-template">
+    {{ partial "project-preview.html" }}
+</template>
 
 {{/*
     Lists blogposts of this lab.
@@ -97,5 +100,16 @@
 
 <hr/>
 {{ partial "map-overview.html" . }}
+
+{{ if .Params.ExternalProjectsUrl }}
+<script src="/js/projects.js"> </script>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const template = document.querySelector("#project-template").content.cloneNode(true);
+        loadAdditionalProjects({{ .Params.ExternalProjectsUrl }}, template);
+    });
+</script>
+{{ end }}
+
 
 {{ end }}

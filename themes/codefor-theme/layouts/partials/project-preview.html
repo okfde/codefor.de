@@ -3,7 +3,7 @@
        data-date="{{ substr .File.BaseFileName 0 10 }}"
        href="{{.Permalink}}">
     <div class="card-header border-bottom-0 bg-white ">
-      <ul class="d-flex list-unstyled justify-content-end m-0 p-0">
+      <ul class="d-flex list-unstyled justify-content-end m-0 p-0 tags">
         {{ range (.Param "tags") }}
 
             <li class="pl-3">
@@ -27,8 +27,8 @@
 
     <div class="card-body p-4">
       <img class="project-image" src="/projects/{{ .Params.imgname }}"  alt="Screenshot {{ .Title }}">
-      <a class="text-dark no-underline" href="{{.Permalink}}"><h3>{{.Title}}</h3></a>
-      <div class="text-dark" >
+      <a class="text-dark no-underline project-link" href="{{.Permalink}}"><h3 class="title">{{.Title}}</h3></a>
+      <div class="text-dark description" >
         {{ if (isset .Params "Excerpt") }}
          {{ if (gt (len .Params.Excerpt) 0)}}
             {{ .Params.Excerpt | truncate 200 }}
@@ -43,8 +43,9 @@
     </div>
     <div class="card-footer border-top-0 bg-white d-flex justify-content-between">
       {{ range .Params.lab }}
-      {{ with $.Site.GetPage (printf "/labs/%s.md" . ) }}<a class="text-danger no-underline" href="{{ .Permalink }}">{{ .Title }}</a>{{ end }}
+      {{ with $.Site.GetPage (printf "/labs/%s.md" . ) }}<a class="text-danger no-underline lab-link" href="{{ .Permalink }}">{{ .Title }}</a>{{ end }}
       {{ end }}
-      <span class="text-right">{{.Params.status}}</span>
+        <a class="text-danger no-underline lab-link"></a>
+      <span class="text-right status">{{.Params.status}}</span>
     </div>
   </div>
