@@ -22,13 +22,12 @@ $fontSizeHero-xxl: $fontSizeBase-xl + 25px;
 
 $pageMaxWidth: 1700px;
 
-$codefor-mint: #BFEEEB;
-$codefor-blue: #00A9FA;
-$codefor-red: #FF645F;
-$codefor-green: #00da88;
-$codefor-light-grey: #F2F2F2;
-
-$codefor-light-teal: #80ddd7;
+// Our imports
+@import "colors";
+@import "alert";
+@import "blog";
+@import "map";
+@import "projects";
 
 @import "bootstrap/functions";
 @import "bootstrap/variables";
@@ -66,11 +65,6 @@ $codefor-light-teal: #80ddd7;
 @import "bootstrap/print";
 
 
-// Our imports
-@import "alert";
-@import "blog";
-@import "map";
-@import "projects";
 
 /*********************
 BASE (MOBILE) SIZE
