@@ -44,3 +44,12 @@
     background: $codefor-mint;
   }
 }
+
+
+.sort-buttons {
+  display: flex;
+  justify-content: center;
+  margin-block: 3em;
+  gap: 20px;
+  flex-wrap: wrap;
+}

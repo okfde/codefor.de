@@ -248,7 +248,7 @@ a:active {
 
   &:hover {
     text-decoration: none;
-}
+  }
 }
 
 
@@ -285,48 +285,6 @@ a:active {
       }
     }
   }
-}
-
-
-//---------------------------------------------------
-// background colors
-
-.bg-codefor-mint{
-  background-color: $codefor-mint;
-}
-.bg-codefor-green{
-  background-color: $codefor-green;
-}
-.bg-codefor-red{
-  background-color: $codefor-red;
-}
-
-//---------------------------------------------------
-// home goals
-
-.goal-icon{
-  width: 150px;
-}
-
-//---------------------------------------------------
-// home 1-2-3
-.circle-123{
-  width: 45px;
-  height: 45px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #fff;
-  font-size: $fontSizeH3;
-}
-
-.circle-123-line{
-  position: absolute;
-  border-top: 1px solid #000;
-  width: calc(100% - 33%);
-  left: 16%;
-  top: 50%;
-  z-index: -1;
 }
 
 
@@ -408,41 +366,6 @@ a:active {
   @extend h3;
 }
 
-.goals-accordion {
-  .goals-details {
-    border: 0 !important;
-    padding: 0;
-    margin-top:-1px;
-    &[open] {
-      background-color: $codefor-mint;
-      border: 1px solid #000;
-      & > .goals-summary {
-        border: 0;
-      }
-    }
-    .goals-summary {
-      transition: border 0.3s, background-color 0.3s, margin-top 0s;
-      border: 1px solid #000;
-      border-radius: 6px !important;
-      padding-top: 1.75rem;
-      padding-bottom: 1.75rem;
-      &:hover {
-        background-color: $codefor-mint;
-      }
-      .text {
-        text-align: left;
-        white-space: normal;
-        font-size: 18px;
-      }
-      .icon-text {
-        line-height: 1.1;
-      }
-    }
-  }
-  .details-content {
-    background-color: #fff;
-  }
-}
 
 // custom figure element
 figure {
