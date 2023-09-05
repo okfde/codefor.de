@@ -3,6 +3,8 @@
 
 {{< paragraph-center  >}}
 
+{{< headline-icon icon="icon-touch.svg" color="red" >}}
+
 {{< headline-brackets-h1 color="blue"  >}}
 Unterstütze uns!
 {{< /headline-brackets-h1  >}}
