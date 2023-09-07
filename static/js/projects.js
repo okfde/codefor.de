@@ -32,21 +32,23 @@ const loadAdditionalProjects = async (url, externalTemplate) => {
     };
 
     payload.projects.forEach(project => {
-        const copy = template.cloneNode(true);
-        copy.querySelector(".title").innerText = project.title;
-        copy.querySelector(".project-image").src = project.img;
-        copy.querySelector(".description").innerText = project.teaser;
-        copy.querySelector(".lab-link").href = project.link;
-        copy.querySelector(".project-link").href = project.link;
-        copy.querySelector(".lab-link").innerText = project.lab;
-        copy.querySelector(".status").innerText = project.status;
-        copy.querySelector(".tags").innerHTML = "";
-        copy.dataset ??= {};
-        copy.dataset.name = project.title;
-        copy.dataset.date = project.year;
-        makeTagNodes(project.categories).forEach(node => {
-            copy.querySelector(".tags").appendChild(node);
-        })
-        projectListNode.appendChild(copy);
+        if (project.lang === "de") {
+            const copy = template.cloneNode(true);
+            copy.querySelector(".title").innerText = project.title;
+            copy.querySelector(".project-image").src = project.img;
+            copy.querySelector(".description").innerText = project.teaser;
+            copy.querySelector(".lab-link").href = project.link;
+            copy.querySelector(".project-link").href = project.link;
+            copy.querySelector(".lab-link").innerText = project.lab;
+            copy.querySelector(".status").innerText = project.status;
+            copy.querySelector(".tags").innerHTML = "";
+            copy.dataset ??= {};
+            copy.dataset.name = project.title;
+            copy.dataset.date = project.year;
+            makeTagNodes(project.categories).forEach(node => {
+                copy.querySelector(".tags").appendChild(node);
+            })
+            projectListNode.appendChild(copy);
+        }
     })
 };
