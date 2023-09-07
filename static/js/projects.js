@@ -35,7 +35,7 @@ const loadAdditionalProjects = async (url, externalTemplate) => {
         const copy = template.cloneNode(true);
         copy.querySelector(".title").innerText = project.title;
         copy.querySelector(".project-image").src = project.img;
-        copy.querySelector(".description").src = project.teaser;
+        copy.querySelector(".description").innerText = project.teaser;
         copy.querySelector(".lab-link").href = project.link;
         copy.querySelector(".project-link").href = project.link;
         copy.querySelector(".lab-link").innerText = project.lab;
