@@ -21,20 +21,11 @@ links:
   url: https://ok-lab-karlsruhe.de/
   top: true
 
-- name: Twitter
-  url: https://twitter.com/codeforka
-
 - name: GitHub
   url: https://github.com/CodeforKarlsruhe
 
 - name: GetTogether
   url: https://gettogether.community/ok-lab-ka/
-
-- name: Mailingliste
-  url: https://mlists.okfn.de/cgi-bin/mailman/listinfo/codeforkarlsruhe
-
-- name: Protokolle
-  url: https://pad.okfn.de/p/codeforka
 
 leads:
 
