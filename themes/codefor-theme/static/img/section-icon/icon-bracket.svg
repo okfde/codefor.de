@@ -4,8 +4,8 @@
 	 viewBox="0 0 134 100" style="enable-background:new 0 0 134 100;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
-	.st1{fill:#FF645F;}
-	.st2{fill:none;stroke:#FF645F;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.001;}
+	.st1{fill:currentColor;}
+	.st2{fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.001;}
 </style>
 <g id="Gruppe_1214" transform="translate(-919 -3406)">
 	<g id="Gruppe_1193" transform="translate(133 46)">
