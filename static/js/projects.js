@@ -31,7 +31,9 @@ const loadAdditionalProjects = async (url, externalTemplate) => {
         });
     };
 
-    payload.projects.forEach(project => {
+    payload.projects
+        .filter(p => p.lang === "de")
+        .forEach(project => {
         const copy = template.cloneNode(true);
         copy.querySelector(".title").innerText = project.title;
         copy.querySelector(".project-image").src = project.img;
