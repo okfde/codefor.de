@@ -163,14 +163,14 @@ a:active {
 //---------------------------------------------------
 // Icons
 
-// headline icon style
 .headline-icon{
   &.blue{
-    img{
-      filter: hue-rotate(226deg) brightness(1.4);
-    }
+    color: $codefor-blue;
   }
-  img{
+  &.red{
+    color: $codefor-red;
+  }
+  svg{
     width: 80px;
     height: auto;
   }
