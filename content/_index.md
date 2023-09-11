@@ -1,6 +1,8 @@
 ---
 title: Home
 ---
+
+
 {{< hero-block-center  >}}
 Code for Germany ist ein Netzwerk von
 ehrenamtlich engagierten Menschen, die sich für eine gemeinwohlorientierte
@@ -11,6 +13,8 @@ online.
 {{< headline-brackets-h2 color="red" >}} 
 Wer wir sind
 {{</ headline-brackets-h2>}}
+
+{{< home/hexagons >}}
 
 {{< paragraph-center >}}
 Wir sind ein Netzwerk mit rund 300 Communitymitgliedern in Deutschland

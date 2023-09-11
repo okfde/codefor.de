@@ -1,0 +1,47 @@
+{{- $labs := where (where (where .Site.RegularPages ".Params.city" "!=" nil) ".Params.hide" "!=" true) ".Params.inactive" "!=" true }}
+
+<div class="hexa-main">
+<div class="hexa-container">
+{{ range $labs  }}
+{{- if (fileExists (printf "static/labs/hexagon/CodeFor-%s.svg" (.File.BaseFileName | lower))) -}}
+<a href="/{{ .Params.City | lower}}">
+    <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName | lower }}.svg" alt="Logo {{ .Title }}">
+</a>
+{{ else }}
+    Missing: {{ .Params.City }}
+{{- end }}
+{{ end }}
+</div>
+</div>
+</div>
+
+<style>
+    /* Source: https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/ */
+    .hexa-container {
+        margin: 0 auto;
+    }
+    .hexa-main {
+        display:flex;
+        --s: 100px;  /* size  */
+        --m: 2px;    /* margin */
+        --f: calc(1.732 * var(--s) + 4 * var(--m)  - 1px);
+        font-size: 0;
+    }
+
+    .hexa-container img {
+        width: var(--s);
+        margin: var(--m);
+        height: calc(var(--s)*1.1547);
+        display: inline-block;
+        margin-bottom: calc(var(--m) - var(--s)*0.2885);
+    }
+    .hexa-container::before {
+        content: "";
+        width: calc(var(--s)/2 + var(--m));
+        float: left;
+        height: 120%;
+        shape-outside: repeating-linear-gradient(
+                #0000 0 calc(var(--f) - 3px),
+                #000  0 var(--f));
+    }
+</style>
