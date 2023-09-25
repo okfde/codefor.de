@@ -33,7 +33,7 @@ Christian Jansen, Informatiklehrer am Ratsgymnasium Bielefeld, hat vor den NRW-S
  
 Anschließend haben die Schülerinnen und Schüler eine User Persona zusätzlich zu den entwickelten Apps erstellt: eine fiktive Person aus der möglichen Nutzergruppe für die Apps. Diese User Persona beschreibt die Eigenschaften, Probleme, Wünsche und das Nutzungsverhalten. Anschließend haben die Schülerinnen und Schüler darüber nachgedacht, wie sie ihre Apps verbessern können, um ein besseres Nutzererlebnis für ihre Persona zu schaffen und idealerweise Probleme der Persona mit einer der entwickelten Apps zu lösen.
 
-![klasse](2023-design-thinking.jpg)
+![klasse](bielefeld/2023-design-thinking.jpg)
 _Meike von Code for Bielefeld im Klassenzimmer, um Design Thinking als Methode zum Entwickeln von User-zentrierten Lösungen für Probleme vorzustellen. Foto: Code for Bielefeld._
 
  
