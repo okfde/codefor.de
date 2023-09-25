@@ -7,10 +7,10 @@ excerpt: "Unterstützung der Projekttage zur App-Entwicklung einer 8. Klasse am 
 topic: story # zb event, community, default, interview, project, story, toolbox
 lab: [bielefeld] # Zur Übersicht auf der Lab-Seite
 images:
-- imgname: bielefeld/2023-design-thinking.jpg
-- imgname: bielefeld/2023-design-thinking-2.jpg # Dieses Bild sollte im Verzeichnis static/blog existieren
+- imgname: /bielefeld/2023-design-thinking.jpg
+- imgname: /bielefeld/2023-design-thinking-2.jpg # Dieses Bild sollte im Verzeichnis static/blog existieren
 
-og_image: bielefeld/2023-design-thinking.jpg # Der Dateiname vom Titelbild das kann das selbe sein wie unter images und sollte auch unter static/blog liegen
+og_image: /bielefeld/2023-design-thinking-2.jpg # Der Dateiname vom Titelbild das kann das selbe sein wie unter images und sollte auch unter static/blog liegen
 og_description:  Schlecht geputzte, grüne Kreidetafel in einer Schule, auf der bunte, handschriftlich notierte Moderationskarten zu den Phasen des Design Thinkings kleben. 
 
 # Tags werden benutzt um die twitter card für den artikel mit #Tags zu versorgen und um in Suchmaschinen gefunden zu werden
@@ -32,7 +32,7 @@ Christian Jansen, Informatiklehrer am Ratsgymnasium Bielefeld, hat vor den NRW-S
  
 Anschließend haben die Schülerinnen und Schüler eine User Persona zusätzlich zu den entwickelten Apps erstellt: eine fiktive Person aus der möglichen Nutzergruppe für die Apps. Diese User Persona beschreibt die Eigenschaften, Probleme, Wünsche und das Nutzungsverhalten. Anschließend haben die Schülerinnen und Schüler darüber nachgedacht, wie sie ihre Apps verbessern können, um ein besseres Nutzererlebnis für ihre Persona zu schaffen und idealerweise Probleme der Persona mit einer der entwickelten Apps zu lösen.
 
-![klasse](bielefeld/2023-design-thinking-2.jpg)
+![klasse](/bielefeld/2023-design-thinking.jpg)
 _Meike von Code for Bielefeld im Klassenzimmer, um Design Thinking als Methode zum Entwickeln von User-zentrierten Lösungen für Probleme vorzustellen. Foto: Code for Bielefeld._
 
  
