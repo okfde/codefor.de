@@ -12,6 +12,10 @@
     aspect-ratio: 16/9;
     font-style: italic;
   }
+
+  .project-image__placeholder {
+    object-fit: contain;
+  }
 }
 
 #projects-container {
