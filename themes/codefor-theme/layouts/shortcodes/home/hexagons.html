@@ -7,8 +7,6 @@
 <a href="/{{ .Params.City | lower}}">
     <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName | lower }}.svg" alt="Logo {{ .Title }}">
 </a>
-{{ else }}
-    Missing: {{ .Params.City }}
 {{- end }}
 {{ end }}
 </div>
