@@ -81,21 +81,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
   }
 }
 
-
-// underline text in md file
-.text-underline{
-  text-decoration: underline;
-}
-
 .no-underline{
   text-decoration: none !important;
 }
 a.no-underline:hover{
   text-decoration: underline !important;
-}
-
-.no-text-transform{
-  text-transform: none !important;
 }
 
 //---------------------------------------------------
@@ -157,9 +147,6 @@ a:active {
   }
 }
 
-
-
-
 //---------------------------------------------------
 // Icons
 
@@ -172,15 +159,6 @@ a:active {
   }
   svg{
     width: 80px;
-    height: auto;
-  }
-}
-
-// more icon styles
-.lab-icon{
-  margin-top: -20px; //lab icons haben einen Rand den wir hier ausgleichen
-  img{
-    width: 140px; //wegen Rand größer als andere Icons
     height: auto;
   }
 }
@@ -311,14 +289,6 @@ a:active {
   }
 }
 
-// twiiter widget style
-.twitter-container{
-  border: 1px solid #000;
-  border-radius: 8px;
-}
-
-
-
 //---------------------------------------------------
 //style general accordion
 .accordion {
@@ -361,11 +331,6 @@ a:active {
     }
   }
 }
-
-.participate-details > summary {
-  @extend h3;
-}
-
 
 // custom figure element
 figure {
