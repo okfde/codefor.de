@@ -1,14 +1,13 @@
 ---
 ---
 
-{{< paragraph-center  >}}
-
 {{< headline-icon icon="icon-touch.svg" color="red" >}}
 
 {{< headline-brackets-h1 color="blue"  >}}
 Unterstütze uns!
 {{< /headline-brackets-h1  >}}
 
+{{< paragraph-center  >}}
 ### Unterstütze Code for Germany und fördere Open Data, Civic Tech und Transparenz in Deutschland.
 
 Wir setzen uns dafür ein, dass die Möglichkeiten der offenen und
