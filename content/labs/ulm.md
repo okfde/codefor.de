@@ -9,6 +9,8 @@ markerposition: left
 aliases:
 - /ulm
 - /ul
+- /neu-ulm
+- /nu
 
 members:
 

@@ -9,6 +9,7 @@ inactive: true
 
 aliases:
 - /duesseldorf
+- /düsseldorf
 
 links:
 - name: Blog
