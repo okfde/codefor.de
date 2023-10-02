@@ -10,7 +10,7 @@ digitale Zukunft einsetzen. Wir treffen uns in lokalen Labs und
 online. 
 {{< /hero-block-center  >}}
 
-{{< headline-brackets-h2 color="red" >}} 
+{{< headline-brackets-h2 color="red" class="mb-3" >}} 
 Wer wir sind
 {{</ headline-brackets-h2>}}
 
@@ -48,13 +48,13 @@ Vereins helfen dabei, unser ehrenamtliches Netzwerk zu koordinieren.
 Als Teil des Netzwerks [Code for All](https://codeforall.org) sind wir mit gleichgesinnten
 Organisationen in der ganzen Welt vernetzt.
 
-{{< headline-brackets-h2 color="blue" >}}
+{{< headline-brackets-h2 color="blue" class="mt-6 mb-3" >}}
 Unsere Vision
 {{</ headline-brackets-h2>}}
 
 Wir wünschen uns eine offene Gesellschaft, in der Wissen frei zugänglich ist und geteilt wird. Wir engagieren uns für Offene Daten, Offenes Regierungshandeln, Open Source und Informationsfreiheit. Wir fordern eine gemeinwohlorientierte Digitalpolitik und ökologische Nachhaltigkeit von Soft- und Hardware. 
 
-{{< headline-brackets-h2 color="red" >}}
+{{< headline-brackets-h2 color="red" class="mt-6 mb-3"  >}}
 So erreichen wir unsere Ziele
 {{</ headline-brackets-h2 >}}
 
@@ -87,7 +87,7 @@ verbunden. Durch unseren Trägerverein [Open Knowledge Foundation
 Deutschland](https://okfn.de) sind wir Teil des internationalen Open Knowledge
 Netzwerks.
 
-{{< headline-brackets-h2 color="blue" >}}
+{{< headline-brackets-h2 color="blue" class="mt-6 mb-3" >}}
 Informationen für Verbündete und solche, die es werden wollen
 {{</ headline-brackets-h2 >}}
 
@@ -158,7 +158,7 @@ durchstöbern, zu verwenden, und weiterzuentwickeln. Wir freuen uns
 auch sehr über [Spenden](/spenden). Falls du überlegst, dich auch zu engagieren,
 wirf einen Blick auf unsere [Community](/community).
 
-{{< headline-brackets-h2 color="red" >}}
+{{< headline-brackets-h2 color="red" class="mt-6 mb-3" >}}
 Jetzt die Befreiung von Daten unterstützen!
 {{</ headline-brackets-h2 >}}
 
