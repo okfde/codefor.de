@@ -8,6 +8,7 @@ markerposition: right
 
 aliases:
 - /nuernberg
+- /nürnberg
 
 members:
 - name: Lukas Himsel

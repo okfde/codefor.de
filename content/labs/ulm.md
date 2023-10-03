@@ -10,6 +10,7 @@ aliases:
 - /ulm
 - /ul
 - /neu-ulm
+- /nu
 
 members:
 

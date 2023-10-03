@@ -4,7 +4,7 @@
 <div class="hexa-container">
 {{ range $labs  }}
 {{- if (fileExists (printf "static/labs/hexagon/CodeFor-%s.svg" (.File.BaseFileName | lower))) -}}
-<a href="/{{ .Params.City | lower}}">
+<a href="/{{ .File.BaseFileName | lower }}/">
     <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName | lower }}.svg" alt="Logo {{ .Title }}">
 </a>
 {{- end }}
