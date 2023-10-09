@@ -1,13 +1,13 @@
 ---
-title: "Das war der Code for German Summit 2023"
+title: "Das war der Code for Germany Summit 2023"
 author: "Nora Titz (Community Redakteurin)"
 date: '2023-10-09T16:00:00+02:00'
 excerpt: Recap Code for Germany Summit 2023
 topic: event
 images:
-- imgname: summit2023.jpg
+- imgname: summit2023.JPG
   attribution: Sonja Fischbauer <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 DEED</a> 
-og_image: summit2023.jpg
+og_image: summit2023.JPG
 type: blog
 ---
 
