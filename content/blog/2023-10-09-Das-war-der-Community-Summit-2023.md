@@ -37,6 +37,4 @@ Aber auch die Frage nach dem technischen Set Up, um mehrere Projekte in einem La
      alt="Wir starten mit verschiedenen Inputs von Haupt- und Ehrenamtlichen."
 >}}
 
-Zusätzlich zu den intensiven Diskussionen bot der Summit auch visuelle Impressionen, die auf Wiki Commons [folgt] zu finden sind. Es war eine inspirierende Veranstaltung, die die Teilnehmenden mit neuen Ideen und Perspektiven bereicherte.
-
-Ein herzlicher Dank gilt Wikimedia Deutschland für die Bereitstellung des Veranstaltungsraums und der Körber-Stiftung. Wer Code for Germany unterstützen möchte, kann dies entweder durch den Besuch eines lokalen Labs tun, Ideen und Wissen einbringen oder eine Spende tätigen. Code for Germany freut sich über jede Form der Unterstützung, um die digitale Zukunft gemeinsam zu gestalten. Bis zum nächsten Treffen! 
+Ein herzlicher Dank gilt Wikimedia Deutschland für die Bereitstellung des Veranstaltungsraums und der Körber-Stiftung. Wer Code for Germany unterstützen möchte, kann dies entweder durch den Besuch eines lokalen Labs tun, Ideen und Wissen einbringen oder eine [Spende](https://codefor.de/spenden/) tätigen. Code for Germany freut sich über jede Form der Unterstützung, um die digitale Zukunft gemeinsam zu gestalten. Bis zum nächsten Treffen! <3
