@@ -25,6 +25,7 @@ Unsere Community
 Code for Germany verbindet Menschen aus unterschiedlichen Bereichen, die sich für eine gemeinwohlorientierte digitale Zukunft einsetzen.
 {{< /hero-block-center >}}
 
+{{< paragraph-center  >}}
 <div class="quotes-list">
 {{< quote author="Nastja, Code for Niederrhein">}}
 Unser Lab ist für mich eine wichtige soziale Bubble geworden. Manchmal entstehen tolle gemeinsame Projekte, oft buddeln wir aber einfach gemeinsam in irgendwelchen Wissens-Rabbitholes und staunen über Neues. In den letzten Jahren haben wir auf diese Weise unglaublich viel voneinander gelernt.
@@ -34,7 +35,6 @@ In der digitalen engagierten Zivilgesellschaft ist unglaublich viel Expertise vo
 {{</quote>}}
 </div>
 
-{{< paragraph-center  >}}
 Unsere Community zählt rund 300 Menschen, die ihre Expertise für
 Code for Germany einsetzen. Fast alle engagieren sich ehrenamtlich. Wir
 treffen uns in lokalen Labs und online.
