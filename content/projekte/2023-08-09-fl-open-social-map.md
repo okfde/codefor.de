@@ -1,7 +1,7 @@
 ---
 layout: project
 lab: [flensburg]
-imgname: flensburg/screenshot_social_map.jpg
+imgname: flensburg/screenshot_dashboard.jpg
 title: Sozialatlas der Stadt Flensburg
 status: Sucht Mitstreiter
 showcase: true
@@ -15,6 +15,8 @@ links:
   name: Datenquelle
 - url: https://sozialatlas.oklabflensburg.de
   name: Website
+- url: https://dev.sozialatlas.oklabflensburg.de
+  name: Aktueller Entwicklungstand
 
 collaborators:
 - name: Aurelius Wendelken
