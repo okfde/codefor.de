@@ -4,6 +4,7 @@ title: OK Lab Stuttgart
 lat: 48.776540
 long: 9.173700
 markerposition: right
+inactive: true
 
 aliases:
 - /stuttgart
