@@ -66,7 +66,7 @@ können wir dir diese Frage sofort beantworten.
 
 ### Wie viele Bäume gibt's in meiner Stadt?  
 
-In  [Hamburg](/projekte/hh-baumkataster/),  [Magdeburg](/projekte/magdeburg-baumfreunde-md/),  [Karlsruhe](/projekte/baumkataster/),  [Köln](/projekte/cologne-baumkataster/)  haben
+In  [Hamburg](/projekte/hh-baumkataster/),  [Flensburg](/projekte/fl-open-trees-map/),  [Magdeburg](/projekte/magdeburg-baumfreunde-md/),  [Karlsruhe](/projekte/baumkataster/),  [Köln](/projekte/cologne-baumkataster/)  haben
 wir das Baumkataster visualisiert. Du kannst kollaborativ daran
 mitarbeiten.  
 

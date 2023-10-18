@@ -1,7 +1,5 @@
 {{- $labs := where (where .Site.RegularPages ".Params.city" "!=" nil) ".Params.hide" "!=" true }}
-<div id="lab-map-wrapper">
-    <div id="lab-map" ></div>
-</div>
+<div id="lab-map" ></div>
 
 <script src="{{ "leaflet/leaflet.js" | absURL }}"></script>
 <script src="{{ "js/lib/leaflet.iconlabel.js" | absURL }}"></script>
