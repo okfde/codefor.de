@@ -24,4 +24,4 @@ tags:
 
 ---
 
-Die Open Data API ist eine Programmierschnittstelle, die vom OK Lab Flensburg entwickelt wird, um den einfachen Zugriff an öffentlichen Daten zu ermöglichen. Diese Daten können von Gemeinden, Gemeindeverbänden, Verwaltungsgemeinschaften und kommunale Zweckverbänden, Regierungsbehörden, Forschungseinrichtungen, gemeinnützigen Organisationen und anderen Quellen stammen. Unsere Open Data API bietet eine standardisierte Methode, um auf diese aggregierten Daten zuzugreifen und sie in Anwendungen, Websites, Visualisierungen und anderen Projekten zu integrieren.
+Die Open Data API ist eine Programmierschnittstelle, die vom OK Lab Flensburg entwickelt wird, um den einfachen Zugriff auf öffentliche Daten zu ermöglichen. Diese Daten können von Gemeinden, Gemeindeverbänden, Verwaltungsgemeinschaften und kommunale Zweckverbänden, Regierungsbehörden, Forschungseinrichtungen, gemeinnützigen Organisationen und anderen Quellen stammen. Unsere Open Data API bietet eine standardisierte Methode, um auf diese aggregierten Daten zuzugreifen und sie in Anwendungen, Websites, Visualisierungen und anderen Projekten zu integrieren.
