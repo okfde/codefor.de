@@ -26,6 +26,15 @@ Code for Germany verbindet Menschen aus unterschiedlichen Bereichen, die sich f�
 {{< /hero-block-center >}}
 
 {{< paragraph-center  >}}
+<div class="quotes-list">
+{{< quote author="Nastja, Code for Niederrhein">}}
+Unser Lab ist f체r mich eine wichtige soziale Bubble geworden. Manchmal entstehen tolle gemeinsame Projekte, oft buddeln wir aber einfach gemeinsam in irgendwelchen Wissens-Rabbitholes und staunen 체ber Neues. In den letzten Jahren haben wir auf diese Weise unglaublich viel voneinander gelernt.
+{{</quote>}}
+{{< quote author="Marco, aus Darmstadt">}}
+In der digitalen engagierten Zivilgesellschaft ist unglaublich viel Expertise vorhanden. Ich engagiere mich in der Code-for-Germany-Community, um mich mit anderen 체ber das Potenzial, den Nutzen und die Risiken von Technologie f체r die Gesellschaft auszutauschen.
+{{</quote>}}
+</div>
+
 Unsere Community z채hlt rund 300 Menschen, die ihre Expertise f체r
 Code for Germany einsetzen. Fast alle engagieren sich ehrenamtlich. Wir
 treffen uns in lokalen Labs und online.
