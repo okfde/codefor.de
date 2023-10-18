@@ -1,8 +1,8 @@
 ---
 layout: project
 lab: [flensburg]
-imgname: flensburg/unfallkarte_stadt_flensburg.jpg
-title: Unfallorte auf einer interaktiven webbasierten Karte
+imgname: flensburg/screenshot_unfallkarte.jpg
+title: Unfallkarte der Stadt Flensburg
 status: Sucht Mitstreiter
 showcase: true
 draft: false
@@ -11,16 +11,13 @@ draft: false
 links:
 - url: https://github.com/oklabflensburg/open-accident-map
   name: GitHub
+- url: https://unfallatlas.statistikportal.de
+  name: Datenquelle
 - url: https://open-accident-map.de
   name: Website
 
 collaborators:
 - name: Aurelius Wendelken
-  links:
-  - url: https://twitter.com/oklabflensburg
-    name: twitter
-  - url: https://github.com/oklabflensburg
-    name: github
 
 tags:
 - Mobilität
