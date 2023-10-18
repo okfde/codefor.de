@@ -16,7 +16,6 @@ links:
 
 collaborators:
 - name: Aurelius Wendelken
-
 - name: Roald Christesen
 
 tags:
