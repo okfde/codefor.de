@@ -7,26 +7,29 @@ status: laufend
 
 links:
 - url: https://klimadashboard.danielgerber.eu
-  name: Website
-- url: https://gitlab.com/gerbsen/energiewende-sachsen-dashboard
-  name: Page on Gitlab
+  name: Webseite
+- url: https://gitlab.com/gerbsen/climate-dashboard
+  name: Code auf GitLab
 
 collaborators:
 - name: Daniel Gerbsen
   links:
   - url: https://gitlab.com/gerbsen/
-    url-name: github
+    url-name: gitlab
+- name: Marvin Frommhold
+  links:
+  - url: https://gitlab.com/depressiveRobot
+    url-name: gitlab
 - name: Lars Mai
   links:
   - url: https://github.com/lhm/
     url-name: github
 
 tags:
-- Umwelt
+- Klima
 
 ---
 
-Das Projekt "Klimadashboard Sachsen" versucht den Fortschritt der Energie-, Verkehrs- und Landwirtschaftswende zu dokumentieren.
+Das Projekt „Klimadashboard Sachsen“ möchte den Fortschritt der Energie-, Verkehrs- und Landwirtschaftswende dokumentieren.
 
-
-Dazu werden Quellen aus den einzelnen Sektoren zusammengetragen und mittels moderner Webtechnologien anschaulich gemacht.
+Dazu werden Daten aus verschiedenen Quellen und Sektoren zusammengetragen und mittels moderner Webtechnologien anschaulich und transparent dargestellt.
