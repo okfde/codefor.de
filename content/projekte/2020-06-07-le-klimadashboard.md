@@ -26,11 +26,7 @@ collaborators:
     url-name: github
 
 tags:
-- Umwelt
-- Energie
-- Klimaschutz
-- Energiewende
-- Verkehrswende
+- Klima
 
 ---
 
