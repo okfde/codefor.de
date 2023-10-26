@@ -1,6 +1,6 @@
 ---
 layout: project
-lab: [leipzig] #needed for Aggregation on Lab-Page
+lab: [leipzig] # needed for Aggregation on Lab-Page
 imgname: leipzig/klimadashboard.png
 title: Klimadashboard Sachsen
 status: laufend
@@ -26,7 +26,7 @@ collaborators:
     url-name: github
 
 tags:
-- Klima
+- Umwelt # needed for listing at https://codefor.de/projekte/alle/
 
 ---
 
