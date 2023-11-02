@@ -19,7 +19,7 @@ Neben Code for Germany ist hier auch der Chaos Computer Club aufgeführt. Die Au
 
 ## Punkte, aber für was?
 
-Das beigefügte Methodenblatt des Rankings ist nicht besonders ausführlich und beschreibt nur beispielhaft wie die Auswertung der einzelnen Indikatoren aussehen könnte. So kritisiert z.B.auch Claus Arndt in der Rheinischen Post, dass die Kriterien an vielen Stellen intransparent seien. Für nicht-nummerische Faktoren führt das Methodenblatt das folgende Umrechnungsbeispiel auf:  
+Das beigefügte Methodenblatt des Rankings ist nicht besonders ausführlich und beschreibt nur beispielhaft wie die Auswertung der einzelnen Indikatoren aussehen könnte. So kritisiert z.B.auch Claus Arndt in der [Rheinischen Post](https://rp-online.de/nrw/staedte/moers/staedte-im-vergleich-moers-schneidet-bei-digitalisierung-schlecht-ab_aid-99429889), dass die Kriterien an vielen Stellen intransparent seien. Für nicht-nummerische Faktoren führt das Methodenblatt das folgende Umrechnungsbeispiel auf:  
 
 Ja, im Einsatz -> 100
 
