@@ -37,4 +37,7 @@ Aber auch die Frage nach dem technischen Set Up, um mehrere Projekte in einem La
      alt="Wir starten mit verschiedenen Inputs von Haupt- und Ehrenamtlichen."
 >}}
 
-Ein herzlicher Dank gilt unseren Unterstützerinnen Wikimedia Deutschland und der Körber-Stiftung. Wer Code for Germany unterstützen möchte, kann dies entweder durch den Besuch eines lokalen Labs tun, Ideen und Wissen einbringen oder eine [Spende](https://codefor.de/spenden/) tätigen. Code for Germany freut sich über jede Form der Unterstützung, um die digitale Zukunft gemeinsam zu gestalten. Bis zum nächsten Treffen! <3
+Weitere visuelle Eindrücke vom Summit sind auf [WikiCommons](https://commons.wikimedia.org/wiki/Category:Code_For_Germany_Summit,_09.09.2023) zu finden. Es war schön mit euch! Bis zum nächsten Treffen! <3
+
+
+Ein herzlicher Dank gilt unseren Unterstützerinnen Wikimedia Deutschland und der Körber-Stiftung. Wer Code for Germany unterstützen möchte, kann dies entweder durch den Besuch eines lokalen Labs tun, Ideen und Wissen einbringen oder eine [Spende](https://codefor.de/spenden/) tätigen. Code for Germany freut sich über jede Form der Unterstützung, um die digitale Zukunft gemeinsam zu gestalten.
