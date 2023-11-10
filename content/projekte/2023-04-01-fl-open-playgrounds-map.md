@@ -11,7 +11,7 @@ draft: false
 links:
 - url: https://github.com/oklabflensburg/open-playgrounds-map
   name: GitHub
-- url: https://spielplaetze.kunstbube.com
+- url: https://spielplatzkarte.oklabflensburg.de
   name: Website
 
 collaborators:
