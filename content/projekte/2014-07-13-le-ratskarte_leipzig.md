@@ -10,10 +10,10 @@ links:
   name: Webseite
 - url: https://ratsinfo.leipzig.de
   name: Ratsinformationssystem Leipzig (Datenquelle)
-- url: https://github.com/jrlover/city_council_leipzig_recent_papers
+- url: https://github.com/CodeforLeipzig/allris-scraper
   name: GitHub Repository (Scraper)
-- url: https://morph.io/jrlover/city_council_leipzig_recent_papers
-  name: Scraper executed periodically at morph.io
+- url: https://github.com/CodeforLeipzig/allris-scraper/actions
+  name: Scraper executed periodically as Github action
 - url: https://github.com/CodeforLeipzig/stadtratmonitor
   name: GitHub Repository (Frontend)
 
