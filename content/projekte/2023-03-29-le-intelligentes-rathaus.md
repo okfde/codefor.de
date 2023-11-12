@@ -6,18 +6,16 @@ title: Intelligentes Rathaus Leipzig
 status: laufend
 
 links:
-- url: https://stadtratmonitor.leipzig.codefor.de/
+- url: https://stadtratmonitor.codeforleipzig.de
   name: Webseite
-- url: https://ratsinfo.leipzig.de
-  name: Ratsinformationssystem Leipzig (Datenquelle)
-- url: https://github.com/jrlover/city_council_leipzig_recent_papers
-  name: GitHub Repository (Scraper)
-- url: https://morph.io/jrlover/city_council_leipzig_recent_papers
-  name: Scraper executed periodically at morph.io
-- url: https://github.com/CodeforLeipzig/stadtratmonitor
+- url: https://github.com/CodeforLeipzig/stadtratmonitor-scraper
+  name: GitHub Repository (Scraper, Backend)
+- url: https://github.com/CodeforLeipzig/stadtratmonitor-frontend
   name: GitHub Repository (Frontend)
 - url: https://github.com/orgs/CodeforLeipzig/projects/2
   name: Kanban Board
+- url: https://ratsinfo.leipzig.de
+  name: Ratsinformationssystem Leipzig (Datenquelle)
 
 collaborators:
 - name: Erik Ortmann

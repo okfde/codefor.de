@@ -1,7 +1,7 @@
 ---
 layout: project
 lab: [leipzig]
-imgname: leipzig/leipzig-rallymap.jpg
+imgname: leipzig/rallymap.jpg
 title: Leipzig Rally Map
 status: abgeschlossen
 
