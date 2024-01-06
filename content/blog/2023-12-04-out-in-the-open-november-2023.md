@@ -1,5 +1,5 @@
 ---
-title: "Civic Washing – Out in the Open Oktober 2023"
+title: "Civic Washing – Out in the Open November 2023"
 author: "Jörg Reichert (Code for Leipzig), Tim Fangmeyer (Code for Berlin), et al."
 date: '2023-12-04T08:00:00+02:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
