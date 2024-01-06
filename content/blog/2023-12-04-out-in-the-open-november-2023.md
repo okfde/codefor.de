@@ -12,27 +12,26 @@ type: blog
 ---
 
 ## Arbeiten mit (offenen) Daten
-In der neuen Podcast-Serie "Open Data Cafe" werden (auf Englisch) [wichtige Fragen rund um #OpenData diskutiert und besprochen](https://data.europa.eu/en/podcasts). Experten auf dem Gebiet berichten in den Interviews über ihre Tätigkeit und Arbeit an Offenen Daten. Die Serie ist eine Initiative von [data.europa.eu](http://data.europa.eu).
+In der neuen Podcast-Serie "Open Data Cafe" werden (auf Englisch) [wichtige Fragen rund um Open Data diskutiert und besprochen](https://data.europa.eu/en/podcasts). Experten auf dem Gebiet berichten in den Interviews über ihre Tätigkeit und Arbeit an Offenen Daten. Die Serie ist eine Initiative von [data.europa.eu](http://data.europa.eu).
 
 Ebenfalls auf den Seiten des europäischen Datenportals wurde der [Leitfaden zum Thema Datenvisualisierung](https://data.europa.eu/apps/data-visualisation-guide/) veröffentlicht. Sein Autor Maarten Lambrechts [weist auf Mastodon ](https://vis.social/@maarten/111364040868174326) auch auf die vielen in ihm enthaltenen Beispiele hin.
 
-Während der SWR dieses Jahr ein neues DataLab für Datenjournalismus [aufgebaut hat](https://www.swr.de/unternehmen/kommunikation/pressemeldungen/swr-data-lab-2023-100.html), wird das Datenjournalismus-Team von rbb24 wird überraschend und ohne öffentliche Begründung eingestellt. Als ehemaliges Mitglied der Redaktion beschreibt Journalist Haluka Maier-Borst [auf persönliche Art und Weise](https://twitter.com/HalukaMB/status/1725435910588649710), warum ihn das abrupte Ende ärgert und und warum berufliche Mißerfolge nicht das Ende des Karrierewegs bedeuten müssen.
+Während der SWR dieses Jahr ein neues DataLab für Datenjournalismus [aufgebaut hat](https://www.swr.de/unternehmen/kommunikation/pressemeldungen/swr-data-lab-2023-100.html), wird das Datenjournalismus-Team von rbb24 wird überraschend und ohne öffentliche Begründung eingestellt. Als ehemaliges Mitglied der Redaktion beschreibt Journalist Haluka Maier-Borst [auf persönliche Art und Weise](https://twitter.com/HalukaMB/status/1725435910588649710), warum ihn das abrupte Ende ärgert und und warum berufliche Misserfolge nicht das Ende des Karrierewegs bedeuten müssen.
 
 ## Der Wert offener Daten
-Eine neue 3-seitige [Handreichung](https://odis-berlin.de/assets/file-download/OpenData-Kurzerklaert.pdf) der Open Data Informationsstelle Berlin (ODIS) fasst die Vorteile und Potenziale offener Daten,die für die öffentliche Verwaltung selbst bestehen, zusammen, wie der Blog des Citylab Berlins [berichtet]( https://citylab-berlin.org/de/blog/das-potenzial-offener-daten-fuer-die-verwaltung-neues-odis-handout/
-  https://odis-berlin.de/ressourcen/einstiegopendata/).
+Eine neue 3-seitige [Handreichung](https://odis-berlin.de/assets/file-download/OpenData-Kurzerklaert.pdf) der Open Data Informationsstelle Berlin (ODIS) fasst die Vorteile und Potenziale offener Daten, die für die öffentliche Verwaltung selbst bestehen, zusammen, wie der Blog des Citylab Berlins [berichtet](https://citylab-berlin.org/de/blog/das-potenzial-offener-daten-fuer-die-verwaltung-neues-odis-handout/).
 
-In Augsburg hat man dies offenbar erkannt. [So verkündete Horst Thieme auf Mastodon](https://chaos.social/@ibigfoot/111493221240625685), dass nun auch die Fuggerstadt ein [OpenData-Portal](https://augsburg.bydata.de/?locale=de) betreibt. Interessant sind dabei auch die Aussagen der Oberbürgermeisterin Eva Weber, "Wissen vermehrt sich, wenn es geteilt wird" sowie des Wirtschaftsreferent Dr. Wolfgang Hübschle, "Mit offenen Daten schaffen wir einen Nährboden für wirtschaftliches Wachstum und stärken die demokratische Beteiligung." (Vielleicht auch wieder ein guter Anlass, eine aktuelle Studie zum (wirtschaftlichen) Nutzen von Open Data durchzuführen? Stefan Oderbolz [sind jedenfalls nur Studien älteren Datums bekannt](https://twitter.com/odi/status/1722180502487011373)).
+In Augsburg hat man diese offenbar ebenfalls erkannt. [So verkündete Horst Thieme auf Mastodon](https://chaos.social/@ibigfoot/111493221240625685), dass nun auch die Fuggerstadt ein [OpenData-Portal](https://augsburg.bydata.de/?locale=de) betreibt. Interessant sind dabei auch die Aussagen der Oberbürgermeisterin Eva Weber, "Wissen vermehrt sich, wenn es geteilt wird" sowie des Wirtschaftsreferent Dr. Wolfgang Hübschle, "Mit offenen Daten schaffen wir einen Nährboden für wirtschaftliches Wachstum und stärken die demokratische Beteiligung." (Vielleicht auch wieder ein guter Anlass, eine aktuelle Studie zum (wirtschaftlichen) Nutzen von Open Data durchzuführen? Stefan Oderbolz [sind jedenfalls nur Studien älteren Datums bekannt](https://twitter.com/odi/status/1722180502487011373)).
 
-Genügend Handlungsdruck ist also da, denn durch das Inkrafttreten der europäischen [Durchführungsverordnung zu hochwertigen Datensätzen (HVD](https://eur-lex.europa.eu/legal-content/DE/TXT/?toc=OJ%3AL%3A2023%3A019%3AFULL&uri=uriserv%3AOJ.L_.2023.019.01.0043.01.DEU) sind öffentliche Einrichtungen verpflichtet, spätestens ab dem 9. Juni 2024 entsprechende Daten kostenlos und maschinenlesbar bereitzustellen, wie auch aus dem entsprechenden [FAQ](https://digital-strategy.ec.europa.eu/en/faqs/high-value-datasets-questions-and-answers) hervorgeht. Im [Anhang](https://eur-lex.europa.eu/legal-content/DE/TXT/?toc=OJ%3AL%3A2023%3A019%3AFULL&uri=uriserv%3AOJ.L_.2023.019.01.0043.01.DEU#L_2023019DE.01004801) der Verordnung ist auch detailliert aufgeführt, wie dies für die Datensätze aus den Kategorien 11."Georaum", "Erdbeobachtung und Umwelt", "Meteorologie", "Statistik", "Unternehmen und Eigentümerschaft von Unternehmen" und "Mobilität" konkret zu erfolgen hat. (Wie Mister Open Data auf seinem [Blog ausführt](https://open-north.de/blog/2023-11-15_kategorie/), gibt es aber auch andere Kategorisierungssysteme für offene Verwaltungsdaten).
+Genügend Handlungsdruck ist also da, denn durch das Inkrafttreten der europäischen [Durchführungsverordnung zu hochwertigen Datensätzen (HVD)](https://eur-lex.europa.eu/legal-content/DE/TXT/?toc=OJ%3AL%3A2023%3A019%3AFULL&uri=uriserv%3AOJ.L_.2023.019.01.0043.01.DEU) sind öffentliche Einrichtungen verpflichtet, spätestens ab dem 9. Juni 2024 entsprechende Daten kostenlos und maschinenlesbar bereitzustellen, wie auch aus dem entsprechenden [FAQ](https://digital-strategy.ec.europa.eu/en/faqs/high-value-datasets-questions-and-answers) hervorgeht. Im [Anhang](https://eur-lex.europa.eu/legal-content/DE/TXT/?toc=OJ%3AL%3A2023%3A019%3AFULL&uri=uriserv%3AOJ.L_.2023.019.01.0043.01.DEU#L_2023019DE.01004801) der Verordnung ist auch detailliert aufgeführt, wie dies für die Datensätze aus den Kategorien 11."Georaum", "Erdbeobachtung und Umwelt", "Meteorologie", "Statistik", "Unternehmen und Eigentümerschaft von Unternehmen" und "Mobilität" konkret zu erfolgen hat. (Wie Mister Open Data auf seinem [Blog ausführt](https://open-north.de/blog/2023-11-15_kategorie/), gibt es aber auch andere Kategorisierungssysteme für offene Verwaltungsdaten).
 
-In einer [Online-Diskussion](https://www.youtube.com/watch?v=rM2dN4qBqIk), veranstaltet von [digitaler-staat.online](https://www.digitaler-staat.online) wurde darüber debattiert, wie diese EU-Vorgaben in nationales Recht umgesetzt werden können und welche Auswirkungen sich auf das Datenmanagement in öffentlicher Einrichtungen technisch, rechtlich und kulturell dadurch ergeben, z.B. auch beim Teilen von Expertenwissen untereinander.
+In einer [Online-Diskussion](https://www.youtube.com/watch?v=rM2dN4qBqIk), veranstaltet von [digitaler-staat.online](https://www.digitaler-staat.online), wurde darüber debattiert, wie diese EU-Vorgaben in nationales Recht umgesetzt werden können und welche Auswirkungen sich dadurch auf das Datenmanagement in öffentlicher Einrichtungen in technischer, rechtlicher und kultureller Hinsicht ergeben, z.B. auch beim Teilen von Expertenwissen untereinander.
 
 ## Klima
 Mit der neuen Webseite [OpenPV](https://openpv.de ) kann man in Bayern das Potential für eine eigene Solaranlage ermitteln. Die für das Projekt verwendeten 3D-Gebäudemodelle Level of Detail 2 (LoD2)
 stammen dabei vom [OpenData Portal der Bayerischen Vermessungsverwaltung](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2) und sind Stand März 2023. Leider keine Selbstverständlichkeit in Deutschland, denn wie [Florian Kotthoff anmerkt](https://mastodon.energy/users/floko/statuses/111356935726165252), müsste er in Baden Württemberg 172.000 € für den entsprechenden Datensatz bezahlen.
 
-Die [Grafiken](https://zacklabe.com/arctic-sea-ice-volumethickness/), die das weitere Abschmelzen der Polkappen dokumentieren, wurden mut den Werten bis Oktober 2023 [aktualisiert](https://fediscience.org/@ZLabe/111394033277343657).
+Die [Grafiken](https://zacklabe.com/arctic-sea-ice-volumethickness/), die das weitere Abschmelzen der Polkappen dokumentieren, wurden mit den Werten bis Oktober 2023 [aktualisiert](https://fediscience.org/@ZLabe/111394033277343657).
 
 ## Mobilität
 Das Eckpunktepapier für das geplante Mobilitätsdatengesetz der Bundesregierung [ist laut Stefan Kaufmann](https://netzpolitik.org/2023/mobilitaetsdatengesetz-mit-datenoffenheit-zur-verkehrswende/) besser als erwartet. Im Raum stehen allerdings noch die Forderung nach einer Lizenz mit verpflichtender Namensnennung für Datenlieferanten sowie die Forderung nach einer Ratenlimitierung für Echtzeitdaten über die eine Bezahlschranke durch die Hintertür drohen könnte. Dabei gibt es sowohl für die Datenqualitätssicherung als auch für die (Über-)Lastverteilungsproblematik bessere Lösungen, die ohne Registerungs-/Login-Pflicht für den Datenabruf auskommen und damit keine unnötigen Hürden für die Datenutzung aufbauen. Die Verpflichtung dazu, dass sich Tickets durch beliebige Apps buchen lassen, und damit wirkliche intermodale Mobilität zur ermöglichen, fehlt dagegen im Papier.
@@ -43,7 +42,7 @@ Um die Qualität von Radfahrinfrastruktur-Datensätze aus OpenStreetMap und ande
 
 Auch für den ruhenden Verkehr gibt es Neuigkeiten: der im eUVM-Forschungsprojekt 2022/23 erstellte [Datensatz](https://viz.berlin.de/verkehr-in-berlin/parken/parkraumkartierung/) umfasst alle Parkflächen im öffentlichen Straßenraum innerhalb des Berliner S-Bahnringes sowie ausgewählte, angrenzende Gebiete.
 
-Anita Glaser [lenkt unsere Aufmerksamkeit](https://fosstodon.org/@underdarkGIS/111371666069237514) auf die [MobilityDB](https://github.com/MobilityDB/MobilityDB), ein Datenbankmanagementsystem, dass PostgreSQL und seine Erweiterung PostGIS um die Unterstützung von Objekten mit Zeitbezug ergänzt, wie z.B. GPS-Spuren.
+Anita Glaser [lenkt unsere Aufmerksamkeit](https://fosstodon.org/@underdarkGIS/111371666069237514) auf die [MobilityDB](https://github.com/MobilityDB/MobilityDB), ein Datenbankmanagementsystem, das PostgreSQL und seine Erweiterung PostGIS um die Unterstützung von Objekten mit Zeitbezug ergänzt, wie z.B. GPS-Spuren.
 
 ## Linked Open Data
 Neues Futter für alle Wissbegierigen im Bereich semantische Daten: alle Videomitschnitte und weitere Dokumentation der Veranstaltung [Data Modelling Days 2023](https://www.wikidata.org/wiki/Wikidata:Events/Data_Modelling_Days_2023) stehen zum Abruf bereit.
@@ -94,10 +93,10 @@ Einige Workshops gab es schon, weitere sind geplant. Was auffällt, ist, dass si
 Viele unklare Fragen. Man kann versuchen, sich trotzdem einzubringen, ob es etwas bringt, wird sich zeigen.
 
 ## OpenData-Adventskalender
-Dezember ist auch Zeit des Türchen-Öffnens des Adventskalenders. Manches Open-Data-Portal hat sich das zum Anlass genommen, uns jeden Tag mit neuen Datensätze zu beschänken. Einmal [hier](https://www.linkedin.com/company/open-data-adventskalender) und einmal [hier](https://www.data.gouv.fr/fr/pages/noel/).
+Dezember ist auch Zeit des Türchen-Öffnens des Adventskalenders. Manches Open-Data-Portal hat sich das zum Anlass genommen, uns jeden Tag mit neuen Datensätze zu beschenken. Einmal [hier](https://www.linkedin.com/company/open-data-adventskalender) und einmal [hier](https://www.data.gouv.fr/fr/pages/noel/).
 
 ## Und sonst so?
-Wie zu jedem Jahresabschluss hat auch dieses Jahr [FragDenStaat](https://fragdenstaat.de/) ein [kreativen Weg](https://fragdenstaat.de/spenden/fragenklagenhaben/) gefunden, um für Spenden zu werben (wurde auf Mastodon auch als Jahres-End-Cringe bezeichnet).
+Wie zu jedem Jahresabschluss hat auch dieses Jahr [FragDenStaat](https://fragdenstaat.de/) einen [kreativen Weg](https://fragdenstaat.de/spenden/fragenklagenhaben/) gefunden, um für Spenden zu werben (wurde auf Mastodon auch als Jahres-End-Cringe bezeichnet).
 
 ## Veranstaltungen
  * Freitag, 01.12.2023, bis Samstag, 02.12.2023, München: **CorrelAid Data Dialogue**
@@ -107,10 +106,10 @@ Wie zu jedem Jahresabschluss hat auch dieses Jahr [FragDenStaat](https://fragden
  * Donnerstag, 07.12.2023, BMDV Bonn: **Barcamp Mobilitätsdaten**
    * https://www.zukunftsnetzwerk-oepnv.de/aktuelles/veranstaltungen/bmdv-barcamp-zum-oekosystem-fuer-mobilitaetsdaten
  * Donnerstag, 07.12.2023, 19:00-21:00, Kaiserstraße 93, Karlsruhe: **TRIALOG | ANYMOS – Mobilität im Datenrausch**
-  * https://www.triangel.space/event/trialog-anymos-mobilitaet-im-datenrausch/
+   * https://www.triangel.space/event/trialog-anymos-mobilitaet-im-datenrausch/
  * Donnerstag, 07.12.2023, Online: **Piazza Konferenz**
-  * https://piazza-konferenz.de/die-workshops/
+   * https://piazza-konferenz.de/die-workshops/
  * Dienstag, 12.12.2023, 10:00-14:00, Impact Hub Berlin: **Interaktiver Workshop und Vernetzung – Daten für die Zivilgesellschaft**
-  * https://app.guestoo.de/public/event/3d4364ee-3808-4e9f-9384-a3174b51b106
+   * https://app.guestoo.de/public/event/3d4364ee-3808-4e9f-9384-a3174b51b106
  * Mittwoch, 27.12.2023, bis Samstag, 30.12.2023: **Chaos Communication Congress**
    * https://www.ccc.de/en/updates/2023/37C3
