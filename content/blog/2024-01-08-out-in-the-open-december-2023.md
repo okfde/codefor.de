@@ -40,18 +40,11 @@ Mit der Webseite [DigitalCarbonFootprint](https://www.digitalcarbonfootprint.eu/
 Mehr Zahlen und Grafiken enthält der eben veröffentlichte [Monitoringbericht 2023 zur Deutschen Anpassungsstrategie an den Klimawandel](https://www.umweltbundesamt.de/publikationen/monitoringbericht-2023).
 
 ## Mobilität
-* In einem Pionierprojekt haben Züricher Bürger:innen Mobilitätsdaten erhoben und geteilt, um der Stadt eine nachhaltigere Planung zu ermöglichen. Das Projekt beruht auf einem Genossenschaftsmodell, das sich hohe ethische Standards auf die Fahnen schreibt.
-https://background.tagesspiegel.de/smart-city/genossenschaft-moechte-daten-ethisch-vermarkten
-https://posmo.coop/blog
-https://posmo.coop/blog/motivationen-zum-datenspenden
-* Nachtzugkarte
-  https://nachtzugkarte.de
-  via https://mastodon.social/@timpritlove/111557663313530235
-* Das Drama um Luxemburgs illegale Zebrastreifen
-  Wie gefährlich sind Luxemburgs Zebrastreifen wirklich? Seit mehr als zwei Jahren kämpfen @thorbeng & Mitstreiter*innen vom "Zentrum für urbane Gerechtigkeit“ für Transparenz. Auf dem #37c3 zeigen sie, warum ihre Geschichte auch außerhalb Luxemburgs relevant ist – und was Interessierte mit Hilfe offener Daten herausfinden können.
-  https://netzpolitik.org/2023/mauernde-behoerden-das-drama-um-luxemburgs-illegale-zebrastreifen/
-  via https://mastodon.social/@sebmeineck/111658393951229691
-  https://media.ccc.de/v/37c3-11983-von_zebrastreifen_offenen_daten_und_verschlossenen_verwaltungen
+Im Projekt ["Datenspenden für ein klimafreundliches Zürich"](https://posmo.coop/code/dataforclimate), das von Mai 2022 bis Ende 2023 lief, konnten Zürcher:innen ihre Bewegungsdaten der Daten-Genossenschaft Posma spenden. Die Genossenschaft in der Rolle eines Datentreuhänders sammelte diese Daten und stellte diese als ethischer Datenbroker ihren Projektpartnern wie Hochschulen und Gemeinden, z.B. der Stadt Zürich, gegen Gebühr anonym zur Verfügung. Wie auch [dieser Artikel](https://tsri.ch/a/DZPLLHfTnEiOmrPl/sicherer-veloverkehr-zuercher-innen-spenden-bewegungsdaten-datengenossenschaft-posmo-smart-city-stadtentwicklung) beschreibt, standen Projekte im Fokus, die Daten brauchen, um die Mobilität nachhaltig zu gestalten. Alle Personen, die eigene Daten spenden wollten, konnten bei Posmo Genossenschafter:innen werden und damit dann aktiv mitentscheiden, welche Institutionen die aggregierten Daten und die Erkenntnisse daraus nutzen konnten. Die weiteren Projektpartner hatten zu keinem Zeitpunkt Zugriff auf die Rohdaten und bekommen nun erst am Ende der Laufzeit die anonymisierten Datenauswertungen. Nun zum Projektabschluss wird [beleuchtet](https://posmo.coop/blog/motivationen-zum-datenspenden), aus welchen Motivationen heraus Datenproduzent:innen bereit sind, ihre Daten zu spenden.
+
+Crowd-Sourcing kam auch im folgenden Projekt zum Einsatz: In einem [Vortrag auf dem 37C3](https://media.ccc.de/v/37c3-11983-von_zebrastreifen_offenen_daten_und_verschlossenen_verwaltungen) dokumentiert die jahrelange Odyssey, die Mitstreiter:innen vom "Zentrum für urbane Gerechtigkeit" mit der Luxemburgischen Verwaltung durchlaufen haben, obwohl sie mittels Open Data, erhoben durch Freiwillige in einer Zebrastreifen-Tinder-App, nachweisen konnten, dass 475 Zebrastreifen gesetzeskonform sind. Warum es nun doch noch eine Klage vor dem Verwaltungsgericht braucht, hat auch Netzpolitik [hier aufgeschrieben](https://netzpolitik.org/2023/mauernde-behoerden-das-drama-um-luxemburgs-illegale-zebrastreifen/).
+
+Mit der Webseite [nachtzugkarte.de](https://nachtzugkarte.de), die seit 11.12. offiziell online ist, bekommt man eine schöne Übersicht über die bestehenden Nachtzugverbindungen in ganz Europa. Der Datenstand scheint, [diesem Mastodon-Thread](https://mastodon.social/@timpritlove/111557663313530235) folgend, wohl zuletzt im Juni 2023 aktualisiert worden zu sein.
 
 ## Kultur
 * Knowledge as a service” – Nachlese zum Fachvernetzungstreffen “The LÄND goes Open GLAM: Potenziale offener Kulturdaten und digitaler Teilhabe” am 23.10.23
@@ -69,6 +62,9 @@ https://digitalcourage.social/users/dreiwert/statuses/111594962375398352
   https://wzb.eu/de/artikel/mehr-transparenz-wagen
 * Ob Verordnungen zum Arbeitsschutz, Tarife der Krankenkassen, Weisungen zum Einsatz von Polizei-Tasern oder Vorgaben für Pestizideinsätze: Die Bundesbehörden machen jedes Jahr in allen gesellschaftlichen Bereichen zahlreiche rechtlich verbindliche Vorgaben. Doch für den Zugang muss man bezahlen. Das ändern wir heute und veröffentlichen das gesamte Gemeinsame Ministerialblatt (GMBl) seit 1950 – insgesamt 2.713 Ausgaben.
   https://fragdenstaat.de/dokumente/gemeinsames-ministerialblatt/
+* Heimlich-Manöver: Best of Informationsfreiheit & Gefangenenbefreiung
+  https://media.ccc.de/v/37c3-11689-heimlich-manover
+
 * eGovernment Podcast: Open Government – OGP local
   Open Government, Bürger:innenbeteiligung, Open Data, Statistik, …
   Alles das und noch viel mehr bespreche ich mit Oliver Rack, der mit Leidenschaft für Transparenz und Beteiligung eintritt.
@@ -95,7 +91,7 @@ via https://eupolicy.social/@lilliiliev/111607938841874645
   * https://news-infographics-analytics-maps.media/2024_agenda.html
 * Donnerstag, 18. Januar 2024, online: **Open-Data-Netzwerktreffen: Thema: KI und Open Data**
   * https://www.bertelsmann-stiftung.de/de/open-data-netzwerk
-* Donnerstag, 18. Januar 2024, Digital Hub, Hafenweg 16, 48155 Münster: **Workshop "Von Daten zu Entscheidungen mit Citizen Science Projekten"
+* Donnerstag, 18. Januar 2024, Digital Hub, Hafenweg 16, 48155 Münster: **Workshop "Von Daten zu Entscheidungen mit Citizen Science Projekten"**
   * https://app.guestoo.de/public/event/f95e28e2-f51f-49fc-8dee-c9e27de7f02a
 * Mittwoch, 24. Januar 2024, 20:00 - 21:30 Uhr, online: **OpenTransport meetup: Prof. Dr. Sommer, Uni Kassel: Welche Kosten verursachen verschiedene Verkehrsmittel wirklich?**
   * https://hackmd.okfn.de/opentransportmeetup
