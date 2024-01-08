@@ -2,6 +2,7 @@
 title: Home
 ---
 
+{{< home/hexagons >}}
 
 {{< hero-block-center  >}}
 Code for Germany ist ein Netzwerk von
@@ -14,7 +15,6 @@ online.
 Wer wir sind
 {{</ headline-brackets-h2>}}
 
-{{< home/hexagons >}}
 
 {{< paragraph-center >}}
 Wir sind ein Netzwerk mit rund 300 Communitymitgliedern in Deutschland
