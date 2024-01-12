@@ -2,7 +2,7 @@
 type: blog
 title: Workshop TTN Mapper
 author: Meike Wocken
-twitter_handle: @CountessOfCount
+twitter_handle: "@CountessOfCount"
 excerpt: Beschreibung unseres Workshops im Frühjahr 2023 zum TTN Mapper.
 topic: event
 lab: [bielefeld]
