@@ -23,9 +23,9 @@ draft: false
 
 # Workshop zum Thema TTN Mapper
 Das Jahr 2023 liegt bereits laaaange zurück, aber wir haben gar nicht über alle unsere Aktivitäten berichtet. Wir hatten im Frühjahr 2023 einen Workshop im Pioneers Club Bielefeld durchgeführt, um der Frage nachgehen zu können:
- 
+
 Wie flächendeckend ist unser Community-LoRaWAN von The Things Network (TTN) in Bielefeld?
- 
+
 Um diese Frage zu beantworten, hilft der [TTN Mapper](https://ttnmapper.org/). Die dargestellten Datenpunkte werden durch die Community gesammelt, dafür werden sogenannte Tracker z.B. beim Wandern oder Radfahren mitgeführt. Christoph von Code for Bielefeld hatte uns die Funktionsweise dieser Tracker-Geräte erklärt und uns gezeigt, wie wir selber einen zusammenbauen können. 
  
 ## Du bist ganz neu beim Thema The Things Network und fragst dich, was steckt dahinter?
