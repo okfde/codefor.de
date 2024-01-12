@@ -27,13 +27,13 @@ Das Jahr 2023 liegt bereits laaaange zurück, aber wir haben gar nicht über all
 Wie flächendeckend ist unser Community-LoRaWAN von The Things Network (TTN) in Bielefeld?
 
 Um diese Frage zu beantworten, hilft der [TTN Mapper](https://ttnmapper.org/). Die dargestellten Datenpunkte werden durch die Community gesammelt, dafür werden sogenannte Tracker z.B. beim Wandern oder Radfahren mitgeführt. Christoph von Code for Bielefeld hatte uns die Funktionsweise dieser Tracker-Geräte erklärt und uns gezeigt, wie wir selber einen zusammenbauen können. 
- 
+
 ## Du bist ganz neu beim Thema The Things Network und fragst dich, was steckt dahinter?
 In wenigen Worten zusammengefasst, ist das TTN eine offene Netzwerkinfrastruktur. Das besondere ist, dass das dafür verwendete LoRaWAN eine hohe Reichweite hat und das Versenden der Datenpunkte wenig Energie benötigt. Damit können Sensoren, z.B. im Wald, ein bis zwei Jahre Daten senden, ohne dass ein Batteriewechsel nötig ist. Die Gateways zum Empfangen und Weitergeben der Daten an den Besitzer der Daten, werden durch die Community bereitgestellt und stehen für alle frei zur Verfügung. 
- 
+
 ## Ein paar mehr Infos zum TTN Mapper
 Auf der Seite [TTN Mapper](https://ttnmapper.org/) wird die Abdeckung des TTN-Netzes weltweit abgebildet. Die dargestellten Datenpunkte stammen von Trackern, die man mit sich führen kann, und die dabei regelmäßig ein TTN-Datenpaket mit ihren GPS Koordinaten abschicken. Erreicht das Datenpaket ein Gateway, ist also eine Netzabdeckung vorhanden, dann wird die GPS Koordinate auch auf der Karte dargestellt.  
- 
+
 ## Das klingt interessant für dich, du hast den Workshop aber leider verpasst?!  
 Das hier war unsere Einkaufs- und Mitbringliste für den Workshop (!! Stand Frühjahr 2023 !!):
  
@@ -67,7 +67,7 @@ Damit wird die LoRaWAN-Bibliothek für europäische Verhältnisse konfiguriert.
 (7) Die letzten Meter... Source in der IDE übersetzen (dauert ein bisschen) und per USB-Kabel auf den Heltec übertragen (bei Fehlermeldung den Reset-Knopf des Heltec solange drücken, bis die Übertragung aus der IDE beginnt).
 Wenn alles geklappt hat, ist der Tracker bereit für den Einsatz!
 Als Stromversorgung dient eine USB-Powerbank. Nach dem Einschalten dauert es einige Minuten, bis das GPS-Modul Empfang hat (LED blinkt).
- 
+
 Wenn man jetzt mit dem Tracker unterwegs ist, werden bei TTN-Empfang die Daten
 übertragen. In der Karte werden sie leider erst mit Verzögerung angezeigt. Das sieht dann zum Beispiel wie folgt aus (Stand 11.1.2024):
 
