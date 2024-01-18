@@ -11,7 +11,7 @@ og_image:  jannis.png
 type: blog
 ---
 
-[Jannis](jannisr.de) versucht, mit offenen Mobilitätsdaten und Open-source-Software öffentliche Verkehrssysteme für alle zugänglicher und attraktiver zu machen. 
+[Jannis](https://jannisr.de) versucht, mit offenen Mobilitätsdaten und Open-source-Software öffentliche Verkehrssysteme für alle zugänglicher und attraktiver zu machen. 
 
 ## Wie war dein Weg in das Code for Germany Netzwerk?
 
