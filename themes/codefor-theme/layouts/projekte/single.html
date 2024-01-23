@@ -23,9 +23,9 @@
           {{ if .Params.status }}
           <p>Status des Projektes {{ .Title }}: {{ .Params.status }}</p>
           {{ end }}
-          {{ if (and (isset .Params "imgname") (fileExists (printf "static/projects/%s" .Params.Imgname))) }}
+          {{ if (and (not (eq .Params.imgname nil)) (fileExists (printf "static/projects/%s" .Params.imgname))) }}
           <div class="d-flex align-items-center">
-              <img class="img-fluid mx-auto" src="/projects/{{ .Params.Imgname }}" alt="Screenshot {{ .Title }}">
+              <img class="img-fluid mx-auto" src="/projects/{{ .Params.imgname }}" alt="Screenshot {{ .Title }}">
           </div>
           {{ end }}
         </div>
