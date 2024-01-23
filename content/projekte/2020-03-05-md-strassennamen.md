@@ -3,7 +3,7 @@ layout: project
 lab: [magdeburg]
 imgname: magdeburg/streetnames-md.jpg
 title: Straßennamen Magdeburg
-status: Active
+status: Abgeschlossen
 showcase: true
 draft: false
 
@@ -16,10 +16,10 @@ links:
 collaborators:
 - name: Jens Winter-Hübenthal
   links:
-  - url: https://twitter.com/JensWinter
-    url-name: twitter
+  - url: https://bsky.app/profile/jenswh.bsky.social
+    name: bluesky
   - url: https://github.com/JensWinter
-    url-name: github
+    name: github
 
 tags:
 - Gesellschaft
