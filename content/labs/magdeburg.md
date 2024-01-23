@@ -29,6 +29,9 @@ links:
 - name: Mailingliste
   url: https://mlists.okfn.de/cgi-bin/mailman/listinfo/codeformagdeburg
 
+- name: Discord
+  url: https://discord.com/channels/735788915436421120/1103408788922441849
+
 - name: Slack
   url: https://oklabmagdeburg.slack.com/
 
