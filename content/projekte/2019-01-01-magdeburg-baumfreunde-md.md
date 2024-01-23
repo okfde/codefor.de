@@ -16,7 +16,7 @@ links:
   name: Mein Baum für Magdeburg
 
 collaborators:
-- name: Jens Winter
+- name: Jens Winter-Hübenthal
   links:
   - url: https://twitter.com/JensWinter
     name: twitter

@@ -14,7 +14,7 @@ links:
 
 
 collaborators:
-- name: Jens Winter
+- name: Jens Winter-Hübenthal
   links:
   - url: https://twitter.com/JensWinter
     url-name: twitter

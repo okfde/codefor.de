@@ -10,7 +10,7 @@ aliases:
 
 members:
 
-- name: Jens Winter
+- name: Jens Winter-Hübenthal
   username_github: JensWinter
   username_twitter: JensWinter
 
@@ -37,7 +37,7 @@ links:
 
 leads:
 
-- name: Jens Winter
+- name: Jens Winter-Hübenthal
   url: mailto:jens.winter@gmail.com
 
 ---
