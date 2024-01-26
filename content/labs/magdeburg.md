@@ -10,7 +10,7 @@ aliases:
 
 members:
 
-- name: Jens Winter
+- name: Jens Winter-Hübenthal
   username_github: JensWinter
   username_twitter: JensWinter
 
@@ -29,6 +29,9 @@ links:
 - name: Mailingliste
   url: https://mlists.okfn.de/cgi-bin/mailman/listinfo/codeformagdeburg
 
+- name: Discord
+  url: https://discord.com/channels/735788915436421120/1103408788922441849
+
 - name: Slack
   url: https://oklabmagdeburg.slack.com/
 
@@ -37,7 +40,7 @@ links:
 
 leads:
 
-- name: Jens Winter
+- name: Jens Winter-Hübenthal
   url: mailto:jens.winter@gmail.com
 
 ---

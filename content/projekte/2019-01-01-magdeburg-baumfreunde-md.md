@@ -3,7 +3,7 @@ layout: project
 lab: [magdeburg] #needed for Aggregation on Lab-Page
 imgname: magdeburg/Baumfreunde-MD.png
 title: Baumfreunde-MD
-status: Active
+status: Laufend
 
 links:
 - url: https://www.baumfreunde-md.de
@@ -16,10 +16,10 @@ links:
   name: Mein Baum für Magdeburg
 
 collaborators:
-- name: Jens Winter
+- name: Jens Winter-Hübenthal
   links:
-  - url: https://twitter.com/JensWinter
-    name: twitter
+  - url: https://bsky.app/profile/jenswh.bsky.social
+    name: bluesky
   - url: https://github.com/JensWinter
     name: github
 

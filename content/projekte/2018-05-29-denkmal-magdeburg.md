@@ -2,7 +2,7 @@
 layout: project
 lab: [magdeburg] #needed for Aggregation on Lab-Page
 title: Denkmal Magdeburg
-status: MVP
+status: Discontinued
 
 links:
 - url: https://vis.one/denkmal-magdeburg/

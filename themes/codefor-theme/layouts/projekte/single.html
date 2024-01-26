@@ -23,9 +23,9 @@
           {{ if .Params.status }}
           <p>Status des Projektes {{ .Title }}: {{ .Params.status }}</p>
           {{ end }}
-          {{ if (and (isset .Params "imgname") (fileExists (printf "static/projects/%s" .Params.Imgname))) }}
+          {{ if (and (not (eq .Params.imgname nil)) (fileExists (printf "static/projects/%s" .Params.imgname))) }}
           <div class="d-flex align-items-center">
-              <img class="img-fluid mx-auto" src="/projects/{{ .Params.Imgname }}" alt="Screenshot {{ .Title }}">
+              <img class="img-fluid mx-auto" src="/projects/{{ .Params.imgname }}" alt="Screenshot {{ .Title }}">
           </div>
           {{ end }}
         </div>
@@ -44,6 +44,8 @@
                 <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img class="ext-link-icon mx-2" src="/img/github.svg" alt="Link zum GitHub Account von {{ $name }}"></a>
                 {{ else if in .url "twitter" }}
                 <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img class="ext-link-icon mx-2" src="/img/twitter.svg" alt="Link zum Twitter Account von {{ $name }}"></a>
+                {{ else if in .url "bsky" }}
+                <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img class="ext-link-icon mx-2" src="/img/bluesky.svg" alt="Link zum Bluesky Account von {{ $name }}"></a>
                 {{ else }}
                 &nbsp;<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
                 {{ end }}

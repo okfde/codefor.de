@@ -26,7 +26,7 @@
     </div>
 
     <div class="card-body p-4">
-        {{- if (fileExists (printf "static/projects/%s" .Params.imgname )) -}}
+        {{- if (and (not (eq .Params.imgname nil)) (fileExists (printf "static/projects/%s" .Params.imgname ))) -}}
         <img class="project-image" src="/projects/{{ .Params.imgname }}"  alt="Screenshot {{ .Title }}">
         {{- else -}}
         <img class="project-image project-image__placeholder" src="/img/logo.svg"  alt="">

@@ -1,9 +1,9 @@
 ---
 layout: project
-lab: [magdeburg] #needed for Aggregation on Lab-Page
-imgname: magdeburg/magdomat.png
-title: Magd-O-Mat 2019
-status: Abgeschlossen
+lab: [magdeburg]
+imgname: magdeburg/magdomat-2024.png
+title: Magd-O-Mat 2024
+status: In Arbeit, sucht Mitstreiter:innen
 
 links:
 - url: https://www.magdeburg-waehlt.de
@@ -25,4 +25,4 @@ tags:
 
 Der Magd-O-Mat ist ein Magdeburger Wahl-O-Mat nach dem Vorbild des von der Bundes- und Landeszentrale für politische Bildung eingesetzten Wahl-o-Maten.
 
-Er wird für die Kommunalwahlen von Magdeburg 2019 eingesetzt.
+Er wird für die Kommunalwahlen von Magdeburg 2024 eingesetzt.
