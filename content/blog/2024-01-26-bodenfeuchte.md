@@ -11,7 +11,7 @@ images:
 - imgname: bielefeld/2024-bodensensor.jpg
 
 og_image: bielefeld/2024-karte.jpg
-og_description: Screenshot einer Kartendarstellung mit 10 zum Teil überlappenden Markierungen von Messpunkten. Die Messpunkte sind mit Icons in Baumform versehen. 
+og_description: Screenshot einer Kartendarstellung mit 10 zum Teil überlappenden Markierungen von Messpunkten. Die Messpunkte sind mit Icons in Baumform versehen.
 
 tags:
 - CitizenScience
@@ -24,9 +24,9 @@ draft: false
 
 # Immer mehr Sensoren messen Bodenfeuchte im Teutoburger Wald!
 
-Tolle Neuigkeiten aus Bielefeld! Es werden immer mehr Sensoren, die die Bodenfeuchtigkeit im Teutoburger Wald messen und die Daten direkt zur Anwendung (bodenfeuchte.org)[https://bodenfeuchte.org] des Labs in Bielefeld schicken! Auf der Webseite erhalten die Nutzer durch die Daten einen Eindruck, wie es dem Teutoburger Wald geht im Hinblick auf die Bodenfeuchtigkeit. Zu jedem Sensor kann auch der Verlauf angezeigt werden. 
+Tolle Neuigkeiten aus Bielefeld! Es werden immer mehr Sensoren, die die Bodenfeuchtigkeit im Teutoburger Wald messen und die Daten direkt zur Anwendung [bodenfeuchte.org](https://bodenfeuchte.org) des Labs in Bielefeld schicken! Auf der Webseite erhalten die Nutzer durch die Daten einen Eindruck, wie es dem Teutoburger Wald geht im Hinblick auf die Bodenfeuchtigkeit. Zu jedem Sensor kann auch der Verlauf angezeigt werden. 
 
-##Was kann mit den Daten gemacht werden?
+## Was kann mit den Daten gemacht werden?
 
 In Bielefeld wird das Projekt insbesondere genutzt, um über Technologie und die Nützlichkeit von Daten zu sprechen und Digitalisierung für alle Bevölkerungsgruppen erlebbar zu machen. Es beginnt mit den ganz kleinen Menschen, bei denen damit Begeisterung für Technik gewecket wird, bis hin zu den großen Menschen, mit denen über Auswirkungen und Maßnahmen hinsichtlich Klimaänderungen, aber auch Open Data gesprochen wird. 
 
