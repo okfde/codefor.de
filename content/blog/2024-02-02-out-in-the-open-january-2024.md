@@ -73,35 +73,28 @@ Eine [Umfrage der Bitkom](https://www.heise.de/news/Mobilitaet-43-Prozent-nutzen
 Um zu betrüblicher die [Nachricht vom Unfalltod](https://www.spiegel.de/panorama/baden-wuerttemberg-radfahr-aktivist-stirbt-offenbar-bei-verkehrsunfall-a-ffba9445-5d0b-4ffb-b544-3df59427e7ea) des Pforzheimer Radfahraktivisten Andreas Mandalka, besser bekannt als [natenom](https://natenom.de/), am Abend des 30. Januars. Er hatte sich unter anderem in den Bereichen OpenSource, OpenStreetMap, Verkehrswende und [OpenBikeSensor](https://wiki.natenom.de/docs/mobilitaet/projekte/abstandsmesser/openbikesensor/) verdient gemacht - er dokumentierte selbst mit Videos die gefährlichen Überholmanöver, die er als Radfahrer ausgesetzt war.
 
 ## OpenSource
-* DK101: Die sächsische Open-Source-Strategie | Datenkanal
-  https://datenkanal.org/archives/142-DK101-Die-saechsische-Open-Source-Strategie.html
-  via https://podcasts.social/@datenkanal/111805027248995095
-* eGovernment Podcast Monatsschau 01/24
-  https://egovernment-podcast.com/egov163-monatsschau-01-24/
-* Missing Link: Open Source ist tot, es lebe Post-Open-Source - Bruce Perens, Mitgründer der Open-Source-Bewegung, wittert Verrat am Ideal der maximalen Nutzungsfreiheit freier Software. Er will Rückbesinnung und Neustart.
-  https://www.heise.de/hintergrund/Missing-Link-Open-Source-ist-tot-es-lebe-Post-Open-Source-9595891.html
-* Algorithmus des Empfehlungssystems der ZDF-Mediathek Open Source
-  https://github.com/zdf-opensource/recommendations-pa-base
-* BBSR Open Source Software in Kommunen:
-  https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/sonderveroeffentlichungen/2024/open-source-software-kommunen.html
-* A phrase I heard and loved when I was in a committee room in the UK Parliament this evening, for an Open Source event - “Open Source is the Right to Repair, for software.” 👏🏻 such a perfect way of describing it, I wish I'd been the one to say it!
-  https://macaw.social/@andypiper/111774169944729337
+Bruce Perens, Mitgründer der Open-Source-Bewegung, [möchte eine Rückbesinnung auf die ursprünglichen Werte](https://www.heise.de/hintergrund/Missing-Link-Open-Source-ist-tot-es-lebe-Post-Open-Source-9595891.html?seite=all) von Open Source Software. Es müsse sicher gestellt werden, dass Unternehmen einen angemessenen Geldbetrag zahlen, die sie für die Vorteile, frei verfügbare Software nutzen zu können, erhalten. In den letzten Jahren wurde die Einhaltung der Bedingungen, die z.B. [GPL](https://de.wikipedia.org/wiki/GNU_General_Public_License) oder [AGPL](https://de.wikipedia.org/wiki/GNU_Affero_General_Public_License) lizensierte Software mit sich bringen, immer weiter verwässert, so dass kommerzielle Webanwendungen zum Teil auf mit AGPL lizensierten Software-Bausteinen basieren, oder trotzdem ihren Quellcode nicht offenlegen müssen, obwohl die AGPL grundsätzlich auch für Webanwendungen gilt.
+
+Die Studie [Open Source Software in Kommunen](https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/sonderveroeffentlichungen/2024/open-source-software-kommunen.html) des [BBSR](https://www.bbsr.bund.de/) klärt an Hand von Akteuren, die sich in der kommunalen Praxis intensiv mit Open-Source-Anwendungen auseinandersetzen, die grundlegende Begriffe und Zusammenhänge. Damit sollen Entscheidungsträgerinnen und -träger in Städten und Regionen bei der Planung, Beschaffung und Implementierung von Hard- und Softwarelösungen unterstützt werden. Ergänzend wirken interkommunale Kooperationen und das Zusammenspiel von Kommunen, IT-Dienstleistern und Open-Source-Communitys.
+
+In die gleiche Kerbe schlägt [die sächsische Open-Source-Strategie](https://www.egovernment.sachsen.de/download/OpenSource-Strategie-FS-SN.pdf), über die MdL Dr. Daniel Gerber im [Datenradio beim Offenen Kanal Jena](https://datenkanal.org/archives/142-DK101-Die-saechsische-Open-Source-Strategie.html) Mitte Januar sprach.
+
+Eine weitere umfassende Gesprächsrunde zum Thema eGovernment aber auch Open Source gibt es in der [eGovernment Podcast Monatsschau 01/24](https://egovernment-podcast.com/egov163-monatsschau-01-24/). Dort wurde unter anderem erwähnt, dass das ZDF zentrale Teile des Quellcodes seines Empfehlungssystems in der ZDFmediathek auf [Github veröffentlicht](https://github.com/zdf-opensource/recommendations-pa-base) hat.
+
+Einen Satz, den [Andy Piper aufgeschnappt hat](https://macaw.social/@andypiper/111774169944729337), als er auf einer Open-Source-Veranstaltung im britischen Parlament war, passt hier perfekt als Abschluss dieses Absatzes: "Open Source is the Right to Repair, for software.”
 
 ## Und sonst so
-* Weltraumteleskop James Webb: Aufnahmen zeigen Sterne und Staub in 19 Galaxien 
-  https://www.heise.de/news/Weltraumteleskop-James-Webb-Aufnahmen-zeigen-Sterne-und-Staub-in-19-Galaxien-9612699.html
-  https://webbtelescope.org/contents/media/images/2024/105/01HM9KGGP1EWFFSRRSKR8NZGWZ?news=true 
-  "Unless otherwise specifically stated, no claim to copyright is being asserted by STScI and material on this site may be freely used as in the public domain in accordance with NASA's contract. However, it is requested that in any subsequent use of this work NASA and STScI be given appropriate acknowledgement." (https://webbtelescope.org/copyright)
+Neue [Aufnahmen](https://webbtelescope.org/contents/media/images/2024/105/01HM9KGGP1EWFFSRRSKR8NZGWZ?news=true) des Weltraumteleskops James Webb [zeigen Sterne und Staub in 19 Galaxien](https://www.heise.de/news/Weltraumteleskop-James-Webb-Aufnahmen-zeigen-Sterne-und-Staub-in-19-Galaxien-9612699.html). Wie auf der Homepage [zu lesen](https://webbtelescope.org/copyright) sind die Fotos, sofern nicht anders angegeben, mit der richtigen Attribution frei nutzbar.
 
 ## Termine
 * Prototype Fund Förderrunde-Bewerbung von 01.02.2024 bis 31.03.2024
-  https://prototypefund.de/bewerbung/timeline/
-* Open Data Day 2024 - Mini-Grants Open Call
-  https://blog.okfn.org/2024/01/24/open-data-day-2024-mini-grants-open-call/
+  * https://prototypefund.de/bewerbung/timeline/
+* Open Data Day 2024 - Bewerbung für Mini-Grants
+  * https://blog.okfn.org/2024/01/24/open-data-day-2024-mini-grants-open-call/
 * Call for action: Help shape the future interoperability assessment guidelines
-  https://joinup.ec.europa.eu/interoperable-europe/news/call-action-shape-future-interoperability-assessments
+  * https://joinup.ec.europa.eu/interoperable-europe/news/call-action-shape-future-interoperability-assessments
 * Wir suchen eine:n Kommunikationsmanager:in für die OKF (Teilzeit, 20-28h/Woche)
-  https://okfn.de/jobs/gf-kommunikationsmanagerin-2024/
+  * https://okfn.de/jobs/gf-kommunikationsmanagerin-2024/
 
 ## Veranstaltungen
 * Freitag, 02.02.2024, bis Samstag, 03.02.2024, 08:00 - 20:00,
@@ -117,12 +110,16 @@ Mauerstraße 53, 10117 Berlin: **Civic Coding-InnovationCamp: Eure KI-Ideen für
   * https://hackmd.okfn.de/opentransportmeetup
 * Mittwoch, 07.02.2024, bis Donnerstag, 08.02.2024, Nürnberg: **Umweltdatenwerkstatt**
   * https://datenschule.de/workshops/umweltdatenwerkstatt/
+* Montag, 12.02.2024, bis Freitag, 16.02.2024, verschiedene deutschlandweite Veranstaltungen offline und online: **Love Data Week (LDW)** - My Kind of Data - Forschungsdaten und Forschungsdatenmanagement
+  * https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/love-data-week-2024/
 * Freitag, 16.02.2024, bis Sonntag, 18.02.2024, Wikimedia Deutschland, Raum "Mosaik", Tempelhofer Ufer 23, 10961 Berlin-Kreuzberg: **Berlinale Edit-a-thon 2024**
   * https://www.wikimedia.de/veranstaltungen/berlinale2024/ 
 * Freitag, 23.02.2024, bis Sonntag, 25.02.2024, WIR-Haus, Wilhelmstr. 189, 42489 Wülfrath: **Hack im Pott**
   * https://hackimpott.de/
 * Donnerstag, 29.02.2024, CityLAB Berlin, Platz der Luftbrücke 4, 12101 Berlin, ab 18 Uhr: **Maptime Meetup** 
   * https://citylab-berlin.org/de/events/maptime-meetup-2/ 
+* Veranstaltungshinweise für Februar 2024 auf dem Open Access Blog Berlin
+  * https://blogs.fu-berlin.de/open-access-berlin/2024/01/23/veranstaltungshinweise-februar-2024/
 * Freitag, 01.03.2024, bis Samstag 02.03.2024, Casinotheater Winterthur, Stadthausstrasse 119, 8400 Winterthur und im Stream: **Winterkongress der Digitalen Gesellschaft Schweiz**,
   * https://winterkongress.ch/2024/
 * Samstag, 02.03.2024: **Open Data Day**
