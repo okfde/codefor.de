@@ -33,71 +33,44 @@ Wie wichtig es ist, unabhängig von einzelnen Anbietern zu sein, sieht man an de
 
 Dagegen ist es [Global Fishing Watch](https://globalfishingwatch.org) bereits gelungen, mit Hilfe von KI-Technik illegale Aktivitäten aufzudecken. So hat man mit der Auswertung von zwei Millionen Gigabyte an Satellitenbildern aus den Jahren 2017 bis 2021 so genannte "Dunkle Flotten", also Fischfänger, die ihre Positionen nicht melden, [identifizieren können](https://www.heise.de/news/Dank-Satellitenbildern-und-KI-Bislang-unbekannte-Fischereiflotten-entdeckt-9587935.html). Aus den Daten, die [auch offen heruntergeladen werden können](https://globalfishingwatch.org/datasets-and-code), konnte man beispielsweise ablesen, das in Asien 7-mal mehr Fischereischiffe im Einsatz sind als in Europa. Es wurden zahlreiche Schiffe gefunden, die in geschützten Gewässern aktiv waren.  
 
-KI-Bildgeneratoren sind oftmals mit Bildmaterial gefüttert worden, das zwar frei zugänglich im Internet stand, dabei aber dessen Lizenzierung geflissentlich ignoriert wurde. Mit [Nightshade](https://nightshade.cs.uchicago.edu/whatis.html) steht nun, wie [heise berichtet](https://www.heise.de/news/Nightshade-KI-Modelle-vergiften-eigene-Werke-schuetzen-9604398.html), ein Werkzeug zur Verfügung, das Bilddateien, visuell vom menschlichen Auge nicht zu erkennen, so verändert, dass es die Trainingsdaten von KI-Modellen in unvorsehbarerweise vergiftet. Es ist geplant, den Quellcode von Nightshade bald auch offen zu legen. Dann könnte neben den massenweisen Plagiaten, Fakenews, und anderen Spam, die jetzt schon durch generativer KI [mutwillig erzeugt werden](https://www.computerwoche.de/a/wie-ki-das-internet-kaputt-macht,3698324), die Qualität von Chatbots weiter absenken.
+KI-Bildgeneratoren sind oftmals mit Bildmaterial gefüttert worden, das zwar frei zugänglich im Internet stand, dabei aber dessen Lizenzierung geflissentlich ignoriert wurde. Mit [Nightshade](https://nightshade.cs.uchicago.edu/whatis.html) steht nun, wie [heise berichtet](https://www.heise.de/news/Nightshade-KI-Modelle-vergiften-eigene-Werke-schuetzen-9604398.html), ein Werkzeug zur Verfügung, das Bilddateien, visuell vom menschlichen Auge nicht zu erkennen, so verändert, dass es die Trainingsdaten von KI-Modellen in unvorsehbarerweise vergiftet. Es ist geplant, den Quellcode von Nightshade bald auch offen zu legen. Dann könnte neben den massenweisen Plagiaten, Fakenews, und anderen Spam, die jetzt schon durch generative KI [mutwillig erzeugt werden](https://www.computerwoche.de/a/wie-ki-das-internet-kaputt-macht,3698324), die Qualität von Chatbots weiter absenken.
 
 ## Kultur
-* Die Bayerische Staatsbibliothek stellt über 4 Millionen Digitalisate online!  
-  https://openbiblio.social/@bsbmuenchen/111767014793896844
-  https://www.digitale-sammlungen.de/de/
-* Neue Online-Plattform macht Plattdeutsch im öffentlichen Raum sichtbar
-  - interaktive Landkarte macht Plattdeutsch in unserer Umgebung sichtbar
-  - alle Interessierten können sich beteiligen und ihre Fundstücke eintragen
-  - die Website ist in verschiedene Kategorien untergliedert und erleichtert so die Suche
-  https://www.plattdeutsch-sammeln.de/
-  via https://chaos.social/@edlef/111782217916656280
-* So helfen Wiki-Projekte bei der Öffnung von Kunst und Kulturgut
-  https://blog.wikimedia.de/2024/01/18/so-helfen-wiki-projekte-bei-der-offnung-von-kunst-und-kulturgut/
-  via https://social.wikimedia.de/@wikimediaDE/111803996158854828  
-* Museum öffne Dich: Trotz der Novellierung des Urheberrechts besteht bis heute beim Fotografieren gemeinfreier Werke eine rechtliche Unsicherheit
-  https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-museum-oeffne-dich/
+Eine neue [Online-Plattform](https://www.plattdeutsch-sammeln.de/) will Plattdeutsch mit einer interaktiven Landkarte im öffentlichen Raum sichtbarer machen. Interessierte können sich beteiligen und gerne ihre Fundstücke eintragen.
 
-## Mobilität und Kartendaten
-* Auf Deviantart wurde [eine detaillierte (inoffozielle) Karte des Regional-Schienennetzes der Deutschen Bahn veröffentlicht](https://www.deviantart.com/costamiri/art/Transit-diagram-of-regional-rail-in-Germany-2024-1006737243), die in mühevoller Detailarbeit von [@cstmrii](https://twitter.com/cstmrii) erstellt wurde. Auf der Karte sind selbst kleine und nicht häufig frequentierte Bahnhöfe abgebildet.
+Wie die Bayerische Staatsbibliothek [froh verkündet](https://openbiblio.social/@bsbmuenchen/111767014793896844), stellt sie [über 4 Millionen Digitalisate online](https://www.digitale-sammlungen.de/de/)!  
 
-* Neue #opendata Anwendung: wl-tranit - eine simple Browser-Page (PWA), mit der man alle Abfahrtzeiten von Öffis der Wiener Linien in einem bestimmten Radius auf einen Blick sehen kann
-  https://www.data.gv.at/application/wl-transit/
-  via https://mastodon.social/@datagvat/111811797790638901
-* Mobilität: 43 Prozent nutzen Sharing von Auto, Fahrrad oder E-Stehroller
-  https://www.heise.de/news/Mobilitaet-43-Prozent-nutzen-Sharing-von-Auto-Fahrrad-oder-E-Stehroller-9594155.html
-* OpenStreetMap data is free, we only ask that you tell people about us in exchange. Some site use OSM without attribution, *and* hotlink to OSMF tile servers. Our data is free, but our servers cost time & money. It's now even easier for you to report naughty sites like that. They can (eventually) be blocked from freeloading. We hope this will increase visibility of OSM!
-  https://en.osm.town/@openstreetmap/111749237204284048
-  https://github.com/openstreetmap/tile-attribution/blob/main/README.md
-* Link Wikidata and OpenStreetMap: This tool will help you link Wikidata items with the matching object on OpenStreetMap (OSM).
-  https://map.osm.wikidata.link/
-  via https://octodon.social/@edward/111823135513047825
-* Foursquare mit ActivePub und Openstreetmap nachbauen:
-  https://shkspr.mobi/blog/2024/01/rebuilding-foursquare-for-activitypub-using-openstreetmap/
+Dennoch bestehen beim Abfotografieren gemeinfreier Werke z.B. beim Museumsbesuch immer noch rechtliche Unsicherheiten, wie Dominik Scholl in seiner Kolumne anlässlich des Public Domain Days [erinnert](https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-museum-oeffne-dich/).
 
-* Gitterkarten für die kommunale Wärmeplanung
-  https://wahlatlas.net/NIAM2024/
-  via https://norden.social/@wahlatlas/111775720582597059
-* OpenBookCase: Die öffentlichen Bücherschränke
-  https://openbookcase.de/map
-  via https://geoobserver.wordpress.com/2024/01/29/openbookcase-die-offentlichen-bucherschranke/
+Ihre Eindrücke von der "Provenance loves Wiki“-Konferenz schildert Franziska Kelch in [folgendem Wikimedia-Blogbeitrag](https://blog.wikimedia.de/2024/01/18/so-helfen-wiki-projekte-bei-der-offnung-von-kunst-und-kulturgut/). Über 70 Provenienzforschende und Wiki-Aktive diskutiert an den beiden Tagen, wie man offene und freie Wiki-Projekte wie Wikidata, Wikibase oder Wikipedia nutzen kann, um Kulturdaten zu organisieren, zu vernetzen und für die Allgemeinheit zu öffnen. Die vielen Beispiele aus der Praxis und generell ein große Hilfsbereitschaft halfen dabei auch Neulinge gut zu integrieren.
 
-* Radfahraktivist stirbt bei Verkehrsunfall: Als "Natenom" trat er auf Social Media auf – und postete Videos von gefährlichen Überholmanövern, die er als Radfahrer erlebte. Bei einem Verkehrsunfall ist der Aktivist nun gestorben, als er selbst auf dem Rad unterwegs war.
-  https://www.spiegel.de/panorama/baden-wuerttemberg-radfahr-aktivist-stirbt-offenbar-bei-verkehrsunfall-a-ffba9445-5d0b-4ffb-b544-3df59427e7ea
-  * https://wiki.natenom.de/docs/mobilitaet/projekte/abstandsmesser/openbikesensor/
-
-## Wikiworld
-* It's almost the weekend  Looking for a good movie to watch? We've got you covered with @magnusmanske's WikiFlix! Public domain movies right at your finger tip from Wikimedia Commons, @internetarchive and more, powered by #Wikidata  
-  https://wikis.world/@wikidata/111783165794394046
-  https://wikiflix.toolforge.org
-* Early fork of #WikiFlix for audio files, #WikiVibes
-  https://wikivibes.toolforge.org/
-  via https://wikis.world/@magnusmanske/111776592587037891
-  passend dazu auch: listenbrainz.org/ mit Wikidata-Verknüpfung
+Gemeinfreie Filme von [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), [Internet Archive](https://archive.org/) und anderen Quellen können Dank [Magnus Manske](https://de.wikipedia.org/wiki/Magnus_Manske) nun auf einem Portal, [WikiFlix](https://wikiflix.toolforge.org), gesucht (und hoffentlich auch gefunden) werden. Mit einer ersten Adaption namens [WikiVibes](https://wikivibes.toolforge.org/), ist dies ebenfalls für Audio-Dateien möglich. Eine prima Ergänzung zu schon bestehenden Community-Projekten wie [Musicbrainz](https://musicbrainz.org/) (sammelt Musikmetadaten) oder auch [Listenbrainz](https://listenbrainz.org/) (analysiert die eigenen Hörgewohnheiten)
 
 ## Linked Open Data
-* Wie Linked Open Data für mehr Transparenz bei Haushaltsdaten sorgt – Interview mit Julia Schabos
-  https://www.technologiestiftung-berlin.de/profil/blog/wie-linked-open-data-fuer-mehr-transparenz-bei-haushaltsdaten-sorgt-interview-mit-julia-schabos
-  * passend dazu: auf https://bundeshaushalt.de/DE/Home/home.html den Bundeshalt interaktiv erkunden
-* Citizen Knowledge Graph
-  https://citizen-knowledge-graph.github.io/ckg-site/en/
-  https://github.com/Citizen-Knowledge-Graph/ckg-fim-solid-experiment
-  https://www.youtube.com/watch?v=E9A5CuIhi58&list=PLyt46q60EbD_mT4BPbkHtHCaWCOCX-PlP&index=4  
-* Semantischer Netzwerkservice SNS
-  https://sns.uba.de/de
+Julia Schabos von der Berliner Finanzverwaltung [kündigt im Interview](https://www.technologiestiftung-berlin.de/profil/blog/wie-linked-open-data-fuer-mehr-transparenz-bei-haushaltsdaten-sorgt-interview-mit-julia-schabos) mit der [Technologiestiftung Berlin](https://www.technologiestiftung-berlin.de/) an, dass die von der [Open Data Stelle Berlin (ODIS)](https://odis-berlin.de/) entwickelte [Auswertung der Berliner Haushaltsdaten](https://haushaltsdaten.odis-berlin.de/visualisierung) auch 2024 weiter verbessert und erweitert werden soll. Helfen soll dabei, dass 2023 begonnen wurde, die Berliner Haushaltsdaten als Linked Open Data umzusetzen. Im Rahmen des 4. Nationalen Aktionsplans des Bundes wird dazu in Zusammenarbeit mit der Staatskanzlei Schleswig-Holstein ein gemeinsames Vokabular für Haushaltsdaten erarbeitet, Voraussetzung für die Vergleichbarkeit und Verknüpfbarkeit der Datensätze. Wir warten gespannt auf die erste Veröffentlichung der Daten im entsprechenden Format.
+
+Auf Bundesebene kann man nun mit [bundeshaushalt.de](https://bundeshaushalt.de/DE/Home/home.html) die Soll- und Ist-Haushalte der letzten Jahre sowie den aktuellen Soll-Haushalt über Dashboards erkunden. Die Daten werden unter anderem auch als CSV-Dateien auf dem [Download-Portal](https://bundeshaushalt.de/DE/Download-Portal/download-portal.html) angeboten, allerdings auch noch nicht als Linked Open Data.
+
+Das Umweltbundesamt hat ebenfalls den Wert einer normierten Begrifflichkeit erkannt und bietet mit dem [Semantische Netzwerkservice (SNS)](https://sns.uba.de/de) Unterstützung für das Informationsmanagement im Umweltbereich. Durch die Verwendung einheitlicher Schlagwörter (bzw. das automatische Auflösen von Synonymen / semantisch ähnlicher Begriffe über die Mittel von Linked Data und Semantic Web) soll sich das Auffinden und der Zugang zu Umweltinformationen insgesamt verbessern und verteilt vorliegende Informationen miteinander vernetzt werden.
+
+## Mobilität und Kartendaten
+Wer sich für [öffentliche Bücherschränke](https://de.wikipedia.org/wiki/%C3%96ffentlicher_B%C3%BCcherschrank) in seiner Nähe interessiert, kann sich diese nun auf [OpenBookCase](https://openbookcase.de/map) auf einer Karten anzeigen lassen und wie [geoObserver auf seinem Blog hinweist](https://geoobserver.wordpress.com/2024/01/29/openbookcase-die-offentlichen-bucherschranke/) auch selbst um noch nicht erfasste Schränke ergänzen.
+
+Wie man mit offenen Daten des Zensus die Heizungsarten im 100m-Gitter kartieren kann, um damit die kommunale Wärmeplanung zu unterstützen, hat Wahlatlas auf der [NIAM 2024](https://news-infographics-analytics-maps.media/) (von der es hoffentlich bald auch die Video-Mitschnitte geben wird) gezeigt, seine Präsentation sowie die Links zu den Karten und Daten hat er [hier](https://wahlatlas.net/NIAM2024/) veröffentlicht. 
+
+Edward Betts [macht uns darauf aufmerksam](https://octodon.social/@edward/111823135513047825), dass man mit dem noch im Beta-Status befindlichen Werkzeug [OWL Map](https://map.osm.wikidata.link/) Einträge in WikiData mit den passenden Elemente auf OpenStreetMap verknüpfen kann.
+
+Eine weitere interessante Integrationsmöglichkeit mit OpenStreetMap [zeigt Terence Eden auf seinem Blog](https://shkspr.mobi/blog/2024/01/rebuilding-foursquare-for-activitypub-using-openstreetmap/): indem man den Kartendienst mit dem Protokoll [ActivityPub](https://de.wikipedia.org/wiki/ActivityPub) kombiniert und so auch soziale Checkins und Standort-Empfehlungen im Fediverse publizieren kann, wie es der kommerzielle Dienst [Foursquare](https://de.wikipedia.org/wiki/Foursquare) vorgemacht hat.
+
+Auch wenn es also verlockend ist, die Dienste von OpenStreetMap intensiv zu nutzen, sollte man sich an den Fair-Use halten. Denn der Betrieb der Server kostet Zeit und Geld. Einige Seite nutzen dennoch die OpenStreetMap Kartendaten ohne ihre Herkunft richtig zu attributieren und manchen nutzen erschwerend noch direkt die OSMF Tile-Server, statt selbst einen zu hosten. Man daher nun einen [Issue-Tracker](https://github.com/openstreetmap/tile-attribution/issues) [eingerichtet](https://en.osm.town/@openstreetmap/111749237204284048), um solche Seite melden zu können, damit diese entsprechend geblockt werden können. 
+
+Auf Deviantart wurde [eine detaillierte (inoffizielle) Karte des Regional-Schienennetzes der Deutschen Bahn veröffentlicht](https://www.deviantart.com/costamiri/art/Transit-diagram-of-regional-rail-in-Germany-2024-1006737243), die in mühevoller Detailarbeit von [@cstmrii](https://twitter.com/cstmrii) erstellt wurde. Auf der Karte sind selbst kleine und nicht häufig frequentierte Bahnhöfe abgebildet.
+
+In Wien kan man sich mit der neuen [data.gv.at](https://www.data.gv.at/) Open-Data Anwendung [wl-tranit](https://www.data.gv.at/application/wl-transit/) alle Abfahrtzeiten der öffentlichen Verkehrsmittel in einem bestimmten Radius anzeigen lassen
+
+Eine [Umfrage der Bitkom](https://www.heise.de/news/Mobilitaet-43-Prozent-nutzen-Sharing-von-Auto-Fahrrad-oder-E-Stehroller-9594155.html) hat ergeben, dass 43 Prozent der über 16-jährigen das Sharing von Auto, Fahrrad oder E-Stehroller nutzen.
+
+Um zu betrüblicher die [Nachricht vom Unfalltod](https://www.spiegel.de/panorama/baden-wuerttemberg-radfahr-aktivist-stirbt-offenbar-bei-verkehrsunfall-a-ffba9445-5d0b-4ffb-b544-3df59427e7ea) des Pforzheimer Radfahraktivisten Andreas Mandalka, besser bekannt als [natenom](https://natenom.de/), am Abend des 30. Januars. Er hatte sich unter anderem in den Bereichen OpenSource, OpenStreetMap, Verkehrswende und [OpenBikeSensor](https://wiki.natenom.de/docs/mobilitaet/projekte/abstandsmesser/openbikesensor/) verdient gemacht - er dokumentierte selbst mit Videos die gefährlichen Überholmanöver, die er als Radfahrer ausgesetzt war.
 
 ## OpenSource
 * DK101: Die sächsische Open-Source-Strategie | Datenkanal
@@ -123,13 +96,12 @@ KI-Bildgeneratoren sind oftmals mit Bildmaterial gefüttert worden, das zwar fre
 ## Termine
 * Prototype Fund Förderrunde-Bewerbung von 01.02.2024 bis 31.03.2024
   https://prototypefund.de/bewerbung/timeline/
-* Open Data Day 2024 – Mini-Grants Open Call
+* Open Data Day 2024 - Mini-Grants Open Call
   https://blog.okfn.org/2024/01/24/open-data-day-2024-mini-grants-open-call/
 * Call for action: Help shape the future interoperability assessment guidelines
   https://joinup.ec.europa.eu/interoperable-europe/news/call-action-shape-future-interoperability-assessments
 * Wir suchen eine:n Kommunikationsmanager:in für die OKF (Teilzeit, 20-28h/Woche)
   https://okfn.de/jobs/gf-kommunikationsmanagerin-2024/
-  via https://chaos.social/@okfde/111817587687955145
 
 ## Veranstaltungen
 * Freitag, 02.02.2024, bis Samstag, 03.02.2024, 08:00 - 20:00,
