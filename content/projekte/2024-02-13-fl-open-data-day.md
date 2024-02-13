@@ -1,4 +1,4 @@
---
+---
 layout: project
 lab: [flensburg]
 imgname: flensburg/screenshot_opendataday_flensburg.jpg
@@ -6,7 +6,7 @@ title: Open Data Day 2024 in Flensburg
 status: Sucht Mitstreiter
 showcase: true
 draft: false
-
+---
 
 links:
 - url: https://github.com/oklabflensburg/oddfl
