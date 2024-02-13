@@ -2,7 +2,7 @@
 layout: project
 lab: [flensburg]
 imgname: flensburg/screenshot_opendataday_flensburg.jpg
-title: Nahverkehr der Stadt Flensburg
+title: Open Data Day 2024 in Flensburg
 status: Sucht Mitstreiter
 showcase: true
 draft: false
