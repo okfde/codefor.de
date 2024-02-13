@@ -13,7 +13,7 @@ links:
   name: GitHub
 - url: https://www.flensburg.de/media/custom/2306_2545_1.PDF
   name: Datenquelle
-- url: https://kitafinder.oklabflensburg.de
+- url: https://kitas-in-flensburg.de
   name: Website
 
 collaborators:
@@ -27,4 +27,4 @@ tags:
 
 ---
 
-Wer im Jahr 2023 in Flensburg eine passende Kita sucht, findet auf der städtischen Seite eine PDF Liste mit Kindertagesstätten. Doch wer versucht dieses PDF Dokument auf einem Mobilgerät zu lesen und noch auf die Idee kommt sich eine Übersicht der Kindertagesstätten zu verschaffen, wird schnell feststellen, dass er mit dem Vorhaben nicht weit kommen wird. Daraus ist die Idee entstanden, eine Visualisierung aller Flensburger Kitas auf einer Karte mit der Möglichkeit nach einer Bestimmten zu suchen zu erstellen. Wir wollen nicht nur allen ein zugängliches Flensburg bieten sondern auch darauf hinweisen wie Digitalisierung im Jahr 2023 in Flensburg aussieht.
+Die Idee, einen Kitafinder für Flensburg zu entwickeln, ist aus der eigenen Suche nach einer Kita für den Kleinen entstanden. Auf der [städtischen Website](https://www.flensburg.de/Kultur-Bildung/Bildungsb%C3%BCro/Kindertagesbetreuung/Kindertagesst%C3%A4tten) finden sich zwar Kontaktdetails zu den städtischen Kindertagesstätten und ein Link zu einer PDF Datei mit einer Liste aller Kindertagesstätten in Flensburg, jedoch fehlt eine übersichtliche Karte, die alle Kitas anzeigt. Aus dieser Fragestellung heraus ist diese Karte entstanden, um anderen Eltern die Suche nach einem Kitaplatz zu erleichtern.

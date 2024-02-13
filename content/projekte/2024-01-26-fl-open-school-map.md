@@ -13,7 +13,7 @@ links:
   name: GitHub
 - url: https://www.statistik-nord.de/fileadmin/Dokumente/Verzeichnisse/Schulverzeichnis_A_22-23.pdf
   name: Datenquelle
-- url: https://schulen.oklabflensburg.de
+- url: https://schulen-in-flensburg.de
   name: Website
 
 collaborators:
