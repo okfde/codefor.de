@@ -13,7 +13,7 @@ links:
   name: GitHub
 - url: https://overpass-turbo.eu
   name: Datenquelle
-- url: https://nahverkehr.oklabflensburg.de
+- url: https://nahverkehr-flensburg.de
   name: Website
 
 collaborators:
