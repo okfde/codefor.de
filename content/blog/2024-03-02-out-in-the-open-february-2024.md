@@ -11,21 +11,32 @@ og_image: out-in-the-open-2024-02-header.jpg
 type: blog
 ---
 
-Eine Leseempfehlung gibt es mit dem englischen [Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better](https://us.macmillan.com/books/9781250266774/recodingamerica), geschrieben von der Code for America-Gründerin Jennifer Pahlka. Das Buch ist ein Aufruf, die starre bürokratische Verwaltungskultur zu rekodieren. Dabei brauche es nicht einmal besonders viel Geld oder neue Technologien wie KI, sondern besonders ein Umdenken in der Verwaltung und eine Mitdenken des Digitalen in allen von Anfang an. Zwar bezieht sich das Buch besonders auf die amerikanische Verwaltung, kann allerdings auch Anreize für den deutschen Apparat bieten.
-
-[StatePol ist eine neue, öffentlich Datenbank](https://statepol.github.io/Database/) der Abgeordneten deutscher Landesparlamente und -regierungen. Diese Datenbank bietet detaillierte Informationen über die Abgeordneten in Legislative und Exekutive, die von 1990 bis 2020 reichen.
-
-Greenpeace bringt ein [eigenes Open Data Portal an den Start](https://daten.greenpeace.de/dataset/). Auf dem Datenportal möchte die NGO in Zukunft eigene wissenschaftliche Messdaten sowie Rohdaten zu Studien veröffentlichen. Zum Start finden sich neun Datensätze auf der Plattform, beispielsweise über das Fischsterben in der Oder und Strahlenmessungen in Tschornobyl 2022.
-
 ## Kaufen Kaufen Kaufen
-* Statt Eigentum an Fakten bräuchte es freiere Lizenzen für nicht-personenbezogene Daten. Am Beispiel von Geodaten lässt sich gut nachvollziehen, wie das allen nutzen würde, schreibt Friederike von Franqué.
-  https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-wie-die-eu-von-geodaten-profitieren-kann/
-* "Deutschland und Digitalisierung ist übrigens auch, wenn es bei der deutschen Post für 665 Euro im Jahr bei einer Mindestvertragslaufzeit von 2 Jahren ein Straßenverzeichnis gibt.
-   Aus Daten, die eigentlich einzelne Kommunen jeweils als Open Data bereitstellen.
-   Kurzum: Föderalismus von Datenbeständen in Kommunen ist ein so großes Geschäftsmodell geworden, dass es ganze Geschäftszweige gibt, die sich an freien Daten bereichern."
-  https://mastodon.social/@bkastl/111891039241153431
+Das Anfang Januar in Kraft getretene europäische Datengesetz formuliert Bedingungen für den Zugang, Austausch und Nutzung von in der EU generierten Daten für alle Wirtschaftszweige. Dabei konstruiert es aber eine Art Eigentumsrecht an Fakten, stellt Friederike von Franqué in ihrem [Artikel auf Netzpolitik](https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-wie-die-eu-von-geodaten-profitieren-kann/) fest, und fordert stattdessen freiere Lizenzen für nicht-personenbezogene Daten, und damit die Prinzipien der 2019 erlassenen Open-Data-Richtlinie konsequent fortführen.
+
+[Bianca Kastl erinnert in diesem Zusammenhang daran](https://mastodon.social/@bkastl/111891039241153431), dass beispielsweise die Geodaten von Postleitzahlen, Straßen und Hausnummern, die die einzelne Kommunen eigentlich auch alle selbst erheben und als Open Data bereitstellen, bei der [Deutschen Post](https://datafactory.postdirekt.de/datafactory-shop/summary) als auch bei Firmen wie [geodaten-deutschland.de](https://www.geodaten-deutschland.de/index.php) gesammelt zu stattlichen Preisen käuflich erworben werden können, bei der Post sogar mit einer Mindestvertragslaufzeit von 2 Jahren, die sich automatisch verlängert, wenn man nicht rechtzeitig kündigt. Ermöglicht werden solche Geschäftsmodelle nur durch den grassierenden Daten-Föderalismus in Deutschland.
+
+Daher hier die unbedingte Empfehlung,  [Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better](https://us.macmillan.com/books/9781250266774/recodingamerica), geschrieben von der Code for America-Gründerin Jennifer Pahlka, zu lesen. Das Buch ist ein Aufruf, die starre bürokratische Verwaltungskultur zu rekodieren. Dabei brauche es nicht einmal besonders viel Geld oder neue Technologien wie KI, sondern besonders ein Umdenken in der Verwaltung und eine Mitdenken des Digitalen in allen von Anfang an. Zwar bezieht sich das Buch besonders auf die amerikanische Verwaltung, kann allerdings auch Anreize für den deutschen Apparat bieten.
+
+## Politik
+Nur wenn man stetig die Gelder für die Verwaltungsdigitalisierung kürzt, wird das natürlich nichts. Wie [Netzpolitik](https://netzpolitik.org/2024/bundeshaushalt-2024-wenig-mittel-fuer-die-verwaltungsdigitalisierung/) aufführt, werden zum Beispiel dem Zentrum für digitale Souveränität (ZenDiS) statt dem ursprünglichen 48 Millionen Euro nur noch 25 Millionen Euro zur Verfügung gestellt. Damit werden die Bemühungen, sich aus der Abhängigkeit von großen Software-Herstellern zu lösen und Open-Source-Software einzusetzen, im Sinne einer angeblich angestrebten Digitalen Souveränität zur reinen Makulatur.
+
+Dafür gibt sich Deutschland erstmals eine "Internationale Digitalstrategie", wie bei [heise](https://www.heise.de/news/Deutschland-gibt-sich-erstmals-eine-Internationale-Digitalstrategie-9621955.html) nachzulesen ist. Im entsprechenden Strategiepapier möchte man dabei auch Interessengruppen, wie Mittelstand und Zivilgesellschaft, an den internationalen technischen Standardisierungsverfahren beteiligen.
 
 ## Offene Daten
+Greenpeace bringt ein [eigenes Open Data Portal an den Start](https://daten.greenpeace.de/dataset/). Auf dem Datenportal möchte die NGO in Zukunft eigene wissenschaftliche Messdaten sowie Rohdaten zu Studien veröffentlichen. Zum Start finden sich neun Datensätze auf der Plattform, beispielsweise über das Fischsterben in der Oder und Strahlenmessungen in Tschornobyl 2022.
+
+Die meisten Vorschriften des [Gesetzes über digitale Dienste](https://de.wikipedia.org/wiki/Gesetz_%C3%BCber_digitale_Dienste) (Digital Services Act (DSA)) sind jetzt seit Mitte Februar anwendbar. Um die Entscheidungen der Content-Moderation von Online-Plattform in Echtzeit nachvollziehbar zu machen, bietet nun die [DSA Transparency Database](https://transparency.dsa.ec.europa.eu) diverse Mechanismen, um eben auf solche Informationen zuzugreifen, sie zu analysieren (in einem Dashboard) und auch herunterzuladen.
+
+Das statistische Bundesamt bietet seit Neustem eine [experimentelle Konjunkturstatistik](https://destatis.de/scandat) auf Basis der Supermarkt-Scannerkassen-Daten. So lassen sich wochenweise die Lebensmittel-Konsumgewohnheit nachvollziehen. Die Daten werden jeden zweiten Freitag aktualisiert. Der Nutzer wahlatlas hat zu Demonstrationszwecken ein [Notebook](https://github.com/wahlatlas/playground/blob/main/scannerdaten.ipynb) auf Github geteilt, dass zeigt, wie man die Daten auswerten kann.
+
+[Dirk Holtwick dankt auf Mastodon](https://mastodon.social/@holtwick/111846583016787604)
+dem CCC Essen, dass man jetzt die [Artikel des Grundgesetzes als einzelne Markdown-Dateien](https://github.com/c3e/grundgesetz) ebenfalls auf Github findet. Das Besondere dabei: in der Commit-Historie entsprechen die Namen der "Committer" und die Zeitpunkte der "Commits" den damals handelnden Bundespräsidenten und den tatsächlichen historischen Gesetzesänderungsdaten.
+
+Wer sich für die Abgeordneten deutscher Landesparlamente und -regierungen interesiert, findet in der neuen öffentlichen Datenbank [StatePol](https://statepol.github.io/Database/) detaillierte Informationen, die von 1990 bis 2020 reichen.
+
+## Offene Bibliografiedaten
+
 * alexandria3k which includes a local access to openly-available publication data sets.
   The database is huge huge but you have a set of tools to populate and access the dataset for your researches.
   https://github.com/dspinellis/alexandria3k
@@ -37,27 +48,6 @@ Greenpeace bringt ein [eigenes Open Data Portal an den Start](https://daten.gree
 	https://www.ouvrirlascience.fr/french-ministry-of-higher-education-and-research-partners-with-openalex-to-develop-a-fully-open-bibliographic-tool/
     via https://mastodon.social/@renebekkers/111942252691703985
 	https://openalex.org
-* The Allen Ancient DNA Resource (AADR) a curated compendium of ancient human genomes
-  https://www.nature.com/articles/s41597-024-03031-7
-  via https://mastodon.me.uk/@ldodds/111908329734893034
-* Gerade las ich einen Artikel aus dem #Grundgesetz und dachte mir, der ist doch anders als ich ihn in Erinnerung habe... wie geil wäre es, wenn das #GG auf #Github wäre. Und siehe da, der #CCC Essen hat es gemacht! Mit zeitlich korrekten Commits und Markdown. Einfach geil! https://github.com/c3e/grundgesetz #DenkenWieEinDeveloper @chaospott
-  https://github.com/c3e/grundgesetz
-  via https://mastodon.social/@holtwick/111846583016787604
-* @destatis Was kaufen die Menschen im Supermarkt? 
-  Unsere neue experimentelle #Konjunkturstatistik liefert aktuelle, 
-  hochfrequente und tief gegliederte Daten zum Absatz von 
-  Warengruppen im Lebensmitteleinzelhandel. 
-  Datenquelle sind sogenannte #Scannerdaten.  
-  Die Ergebnisse werden in alle zwei Wochen aktualisierten 
-  Zeitreihen veröffentlicht, jeweils zwölf Tage nach Ablauf 
-  der Berichtswoche. #Daten zum Download und Infos zur 
-  Methodik unter https://destatis.de/scandat
-  https://social.bund.de/@destatis/111980590774809603  
-  https://norden.social/@wahlatlas/111992077997335944
-  https://github.com/wahlatlas/playground/blob/main/scannerdaten.ipynb
-* Digital Services Act (DSA) Transparency Database  
-  The database allows to track the content moderation decisions taken by providers of online platforms in almost real-time. It also offers various tools for accessing, analysing, and downloading the information that platforms need to make available when they take content moderation decisions, contributing to the monitoring of the dissemination of illegal and harmful content online.  
-  https://transparency.dsa.ec.europa.eu
 
 ## Tools für Offene Daten
 * Frictionless Data specs v2
@@ -146,14 +136,6 @@ Echtzeitdaten zu Zugverspätungen werden teilweise immer noch nicht zwischen eur
 * Yeah! Das neue #Onlinezugangsgesetz legt fest, dass die Bundesbehörden zukünftig vorrangig #OpenSource Software beschaffen und auf offene Standards setzen sollen. Nur so kann eine schnelle, effiziente und nachhaltige Verwaltungsdigitalisierung klappen! 🖥️ #OZG
   https://osb-alliance.de/publikationen/statements/vorrang-fuer-open-source-im-onlinezugangs-aenderungsgesetz
 
-## Politik
-* Deutschland gibt sich erstmals eine "Internationale Digitalstrategie"
-  "Ein Novum ist das gesteigerte Interesse der Bundesregierung an mehr Beteiligung in der technischen Standardisierung. Berlin will "interessierte Kreise, einschließlich des Mittelstands und er Zivilgesellschaft" dabei unterstützen, sich bei internationalen Standardisierungsverfahren mehr einzumischen. Gerade in der technischen Standardisierung sollte auch der Schutz der Grundrechte mit berücksichtigt werden, heißt es in dem Strategiepapier."
-  https://www.heise.de/news/Deutschland-gibt-sich-erstmals-eine-Internationale-Digitalstrategie-9621955.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege
-* Die Digitalisierung der öffentlichen Verwaltung soll nicht nur Bund und Länder moderner machen, sondern auch Bürger:innen, Unternehmen und Behörden entlasten. Doch damit geht es nur langsam voran. Spärliche Mittel aus dem Bundeshaushalt machen das nicht besser. 
-  " Auch die Bemühungen, die Abhängigkeit von großen Software-Herstellern zu lösen und Open-Source-Software einzusetzen, stehen auf wackeligen Füßen. Das eigens dafür gegründete Zentrum für digitale Souveränität (ZenDiS) kann nur noch auf 25 Millionen Euro zugreifen, gut die Hälfte der ursprünglichen Mittel von 48 Millionen Euro."
-  https://netzpolitik.org/2024/bundeshaushalt-2024-wenig-mittel-fuer-die-verwaltungsdigitalisierung/
-  via https://chaos.social/@netzpolitik_feed/111940874369701256
 
 ## Informationsfreiheit
 * Die Porsche-Mails, die das Verkehrsministerium geheim halten wollte
