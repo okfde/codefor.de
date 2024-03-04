@@ -36,18 +36,9 @@ dem CCC Essen, dass man jetzt die [Artikel des Grundgesetzes als einzelne Markdo
 Wer sich für die Abgeordneten deutscher Landesparlamente und -regierungen interesiert, findet in der neuen öffentlichen Datenbank [StatePol](https://statepol.github.io/Database/) detaillierte Informationen, die von 1990 bis 2020 reichen.
 
 ## Offene Bibliografiedaten
+Teil wissenschaftlicher Publikationsarbeit ist das Finden und das systematische Auswerten bereits vorhandener Forschungsliteratur. Mit [alexandria3k](https://github.com/dspinellis/alexandria3k) ist eine Python-Bibliothek (die aber auch alternativ als fertiges Kommandozeilen-Werzeug nutzbar ist), mit der man performante Abfragen auf den Metadatensätzen von Publikationen ausführen kann. Der größte Datensatz stammt dabei von [Crossref](https://github.com/CrossRef), der die Metadaten von etwa 134 Millionen Veröffentlichungen (1 Terrabyte Daten unkomprimiert, 157 Gigabyte komprimiert), 60 Millionen davon mit vollständigen Quellenverzeichnisdaten. Weitere Datensätze stammen aus der Biomedizin-Literaturverzeichnis-Datenbank [PubMed](https://pubmed.ncbi.nlm.nih.gov), die 36 Millionen Einträge hat.
 
-* alexandria3k which includes a local access to openly-available publication data sets.
-  The database is huge huge but you have a set of tools to populate and access the dataset for your researches.
-  https://github.com/dspinellis/alexandria3k
-  via https://paperbay.org/@a/111872732984741046
-  * siehe auch https://www.crossref.org
-    https://github.com/CrossRef
-  * passend dazu auch: 
-    French Ministry of Higher Education and Research partners with OpenAlex to develop a fully open bibliographic tool" 
-	https://www.ouvrirlascience.fr/french-ministry-of-higher-education-and-research-partners-with-openalex-to-develop-a-fully-open-bibliographic-tool/
-    via https://mastodon.social/@renebekkers/111942252691703985
-	https://openalex.org
+In Frankreich dagegen [startet das Forschungsministerium eine Kooperation](https://www.ouvrirlascience.fr/french-ministry-of-higher-education-and-research-partners-with-openalex-to-develop-a-fully-open-bibliographic-tool/) mit [OpenAlex](https://openalex.org), ebenfalls eine offene Bibliografie-Datenbank, die Ende 2023 250 Millionen Einträge von 90 Millionen Autoren enthielt. Die Datenbank nutzt dabei offene Daten aus Crossref, RoR, ORCID, DOAJ und Wikidata, um einen Wissensgraph aus Publikationen, Autoren, Zugehörigkeiten und Förderungen aufzubauen.
 
 ## Tools für Offene Daten
 * Frictionless Data specs v2
@@ -81,6 +72,8 @@ Wer sich für die Abgeordneten deutscher Landesparlamente und -regierungen inter
 * Den Aushangfahrplan besser und schöner gestalten – schöner Thread:
   https://urbanists.social/@dominicstucki/111912547580231264
   via https://social.tchncs.de/@wortfeld/111912878224866893
+* NIAM Aufzeichnungen online:
+  https://news-infographics-analytics-maps.media/2024.html
 
 ## Mobilität
 * I have never considered the design of #DB 's official #ICE and #IC network map convincing. This was my motivation to create my own 🇩🇪 long-distance rail map a few years ago. It focuses more on systematic connections and their frequencies for better understanding rather than just showing every line.
@@ -141,6 +134,8 @@ Echtzeitdaten zu Zugverspätungen werden teilweise immer noch nicht zwischen eur
 * Die Porsche-Mails, die das Verkehrsministerium geheim halten wollte
   https://www.abgeordnetenwatch.de/recherchen/informationsfreiheit/die-porsche-mails-die-das-verkehrsministerium-geheim-halten-wollte
   https://fragdenstaat.de/anfrage/kontakte-zur-porsche-ag/
+* Neues Lobbyregister: Ein guter Tag für Transparenz und Demokratie
+  https://www.lobbycontrol.de/pressemitteilung/neues-lobbyregister-ein-guter-tag-fuer-transparenz-und-demokratie-114134/
 
 ### Aus der Community
 * Temporaerhaus: Der Sprudelfaktor – Monatsbericht Januar 2024
@@ -152,18 +147,12 @@ Echtzeitdaten zu Zugverspätungen werden teilweise immer noch nicht zwischen eur
   via https://mastodon.cc/@info_activism/112008488575046604
 
 ## Veranstaltungen
-* Freitag, 01.03.2024, bis Samstag, 02.03.2024, Casinotheater Winterthur, Stadthausstrasse 119, 8400 Winterthur und im Stream: **Winterkongress der Digitalen Gesellschaft Schweiz**,
-  * https://winterkongress.ch/2024/
-* Samstag, 02.03.2024: **Open Data Day**
-  * https://opendataday.org/de/
-* Samstag, 02.03.2024, 10:00-21:00, Open Data Day Flensburg, Flensburg
-  * https://opendataday.oklabflensburg.de/
-* Samstag, 02.03.2024, bis Sonntag, 03.03.2024, Rathaus, Moers: **Hackday Niederrhein 2024**
-  * https://www.codeforniederrhein.de/hackday-2024/
-* Samstag, 02.03.2024, bis Sonntag, 03.03.2024, Leipzig: **Umweltdatenwerkstatt**
-  * https://datenschule.de/workshops/umweltdatenwerkstatt/
+* Mittwoch, 06.03.2024, 15:00-17:00, Town Hall Europe, Brüssel: **Unlocking Knowledge Conference**
+  * https://communia-association.org/event/unlocking-knowledge-conference/
 * Mittwoch, 06.03.2024, bis Donnerstag, 07.03.2024, Wien: **Open Data Days Vienna 2024**
   * https://www.data.gv.at/2024/01/25/odd24/
+* Mittwoch, 13.03.2024, bis Freitag, 15.03.2024, Online: **Unwrapped: Konferenz für Datawrapper-Nutzer**
+  * https://www.datawrapper.de/unwrapped
 * Donnerstag, 14.03.2024, bis Freitag, 15.03.2024, Zollikofen, Schweiz: **GovTech Hackathon 2024**
   * https://opendata.ch/de/events/govtech-hackathon-2024/
 * Samstag, 16.03.2024, bis Sonntag, 17.03.2024, Chemnitz: **Chemnitzer Linux Tage**
