@@ -40,24 +40,12 @@ Teil wissenschaftlicher Publikationsarbeit ist das Finden und das systematische 
 
 In Frankreich dagegen [startet das Forschungsministerium eine Kooperation](https://www.ouvrirlascience.fr/french-ministry-of-higher-education-and-research-partners-with-openalex-to-develop-a-fully-open-bibliographic-tool/) mit [OpenAlex](https://openalex.org), ebenfalls eine offene Bibliografie-Datenbank, die Ende 2023 250 Millionen Einträge von 90 Millionen Autoren enthielt. Die Datenbank nutzt dabei offene Daten aus Crossref, RoR, ORCID, DOAJ und Wikidata, um einen Wissensgraph aus Publikationen, Autoren, Zugehörigkeiten und Förderungen aufzubauen.
 
-## Tools für Offene Daten
-* Frictionless Data specs v2
-  https://fosstodon.org/@FosdemResearch/111867873808915517
-  * https://frictionlessdata.io/blog/2023/11/15/frictionless-specs-update/
-  * https://specs.frictionlessdata.io
-  * https://datapackage.org
-
 ## Offene Standards
-* C2PA: OpenAI integriert Metadaten in generierte Bilder
-  Bilder von ChatGPT und Dall-E 3 nutzen künftig C2PA. Der offene Standard erklärt in den Metadaten, woher ein Bild stammt.
-  https://www.heise.de/news/OpenAI-integriert-eine-Art-Wasserzeichen-in-generierte-Bilder-9622526.html
-  * https://c2pa.org
+Was macht einen Standard erfolgreich? Wie koordiniert man eine grundlegende Aktualisierung eines Standards? Diese Fragen beantwortete Sara Petti in [ihrem Vortrag auf der FOSDEM](https://fosdem.org/2024/schedule/event/fosdem-2024-3109-updating-open-data-standards/) an Hand der [Frictionless Data Spezifikation](https://specs.frictionlessdata.io), deren neue Version v2 Mitte 2024 [veröffentlicht werden soll](https://frictionlessdata.io/blog/2023/11/15/frictionless-specs-update/).
 
-## Hochwertige Datensätze
-* Die Fragen und Antworten zu den Hochwertigen Datensätzen sind endlich da
-  https://www.govdata.de/web/guest/hochwertige-datensaetze  
-  via https://norden.social/@MisterOpenData/111939741964050788
-  und https://social.bund.de/@opendata/111942833060625486
+Bei einem mit künstlicher Intelligenz generierten Bild hat man in der Regel das Problem, nachzuvollziehen, aus welchen Quellen es sich speist. Mit dem Standard [C2PA](https://c2pa.org) soll es nun möglich sein, eben diese Information in den Metadaten einer Bilddatei abzulegen. Wie [heise berichtet](https://www.heise.de/news/OpenAI-integriert-eine-Art-Wasserzeichen-in-generierte-Bilder-9622526.html), sind diese bei Bildern von ChatGPT und Dall-E 3 seit dem 12. Februar standardmäßig enthalten.
+
+Auch bei der Umsetzung [hochwertiger Datensätze](https://data.europa.eu/en/publications/datastories/high-value-datasets-overview-through-visualisation) spielen Standards eine wichtige Rolle. So ist die Kennzeichnung als hochwertiger Datensatz sowie die Angabe der jeweiligen Kategorie sowie die jeweils dazugehörigen auszuweisenden Eigenschaften in den Metadaten in der [DVO-HVD](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32023R0138) festgelegt. Die Eigenschaften selbst können dabei mit domänenrelevante Standards wie z.B. [INSPIRE](https://knowledge-base.inspire.ec.europa.eu/tools/document-library_en) beschrieben werden. Generell wird eine [DCAT-AP](https://www.dcat-ap.de)-konforme Kennzeichnung empfohlen. [GovData](https://www.govdata.de) begleitet zudem die Entstehung des neues Metadatenstandards [DCAT-AP HVD](https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/), um eine abgestimmte und europäisch einheitliche Auszeichnung in den Metadaten sicherzustellen. Weitere Fragen und Antworten zu Hochwertigen Datensätzen beantworten die [FAQ von Govdata](https://www.govdata.de/web/guest/hochwertige-datensaetze).
 
 ## Visualisierungen
 * „Der hier dargestellte Kaitz-Index gibt den prozentualen Anteil des Mindestlohns zum mittleren Bruttostundenverdienst (Median) bei Vollzeitbeschäftigten an. Würde der mittlere Bruttostundenverdienst 24 Euro betragen, hätte die Region (bei einem #Mindestlohn von 12 Euro) einen Kaitz-Index von 50 %.“
