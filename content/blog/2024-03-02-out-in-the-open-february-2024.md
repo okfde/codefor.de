@@ -48,48 +48,31 @@ Bei einem mit künstlicher Intelligenz generierten Bild hat man in der Regel das
 Auch bei der Umsetzung [hochwertiger Datensätze](https://data.europa.eu/en/publications/datastories/high-value-datasets-overview-through-visualisation) spielen Standards eine wichtige Rolle. So ist die Kennzeichnung als hochwertiger Datensatz sowie die Angabe der jeweiligen Kategorie sowie die jeweils dazugehörigen auszuweisenden Eigenschaften in den Metadaten in der [DVO-HVD](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32023R0138) festgelegt. Die Eigenschaften selbst können dabei mit domänenrelevante Standards wie z.B. [INSPIRE](https://knowledge-base.inspire.ec.europa.eu/tools/document-library_en) beschrieben werden. Generell wird eine [DCAT-AP](https://www.dcat-ap.de)-konforme Kennzeichnung empfohlen. [GovData](https://www.govdata.de) begleitet zudem die Entstehung des neues Metadatenstandards [DCAT-AP HVD](https://semiceu.github.io/DCAT-AP/releases/2.2.0-hvd/), um eine abgestimmte und europäisch einheitliche Auszeichnung in den Metadaten sicherzustellen. Weitere Fragen und Antworten zu Hochwertigen Datensätzen beantworten die [FAQ von Govdata](https://www.govdata.de/web/guest/hochwertige-datensaetze).
 
 ## Visualisierungen
-* „Der hier dargestellte Kaitz-Index gibt den prozentualen Anteil des Mindestlohns zum mittleren Bruttostundenverdienst (Median) bei Vollzeitbeschäftigten an. Würde der mittlere Bruttostundenverdienst 24 Euro betragen, hätte die Region (bei einem #Mindestlohn von 12 Euro) einen Kaitz-Index von 50 %.“
-  https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/karte-mindestloehne.html
-  via https://norden.social/@wahlatlas/111895502638135880
-* "Ever wanted to do spatial clustering of orign-destination (OD) data? Well you may want to now! University of Leeds Institute for Transport Studies (ITS) and Alan Turing Institute PhD student Hussein Mahfouz has created this early-stage visualisation of spatial clustering of these zone-zone flows 🏗️  Case study of #Leeds. Looks beautiful AND useful 🎉"
-  https://fosstodon.org/@robinlovelace/111901552291641451
-* My monthly #Arctic temperature graphics have been updated for January 2024, which was fairly unremarkable for a change
-  https://zacklabe.com/arctic-temperatures/
-  via https://fediscience.org/@ZLabe/111907632010040037
-  * 2023 compilation: https://zacklabe.com/blog-archive-2023/
-* Den Aushangfahrplan besser und schöner gestalten – schöner Thread:
-  https://urbanists.social/@dominicstucki/111912547580231264
-  via https://social.tchncs.de/@wortfeld/111912878224866893
-* NIAM Aufzeichnungen online:
-  https://news-infographics-analytics-maps.media/2024.html
+Eine [aktualisierte interaktive Karte des statistischen Bundesamtes](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/karte-mindestloehne.html) zeigt das Maß der potenziellen Betroffenheit vom Mindestlohn (aktuell 12 € pro Stunde) von Vollzeitbeschäftigten in den verschiedenen Regionen in Deutschland an (Stand April 2023). Ein hoher Kaitz-Index ist somit ein Indikator, dass der mittlere Brutto­stundenverdienst kaum über den Mindestlohn liegt.
 
-## Mobilität
-* I have never considered the design of #DB 's official #ICE and #IC network map convincing. This was my motivation to create my own 🇩🇪 long-distance rail map a few years ago. It focuses more on systematic connections and their frequencies for better understanding rather than just showing every line.
-  The 2024 map is finally online 🥳 
-  https://larstransportmaps.com/2024/01/23/germany-2024/
-  via https://mastodon.social/@larstransportworld/111880759755946231
-* Ob auf Europa-, Bundes- oder Landesebene: Offene Mobilitätsdaten spielen beim Thema #Mobilität der Zukunft eine große Rolle – gerade bei der #Mobilitätswende hin zu mehr Nachhaltigkeit. #ÖPNV #Digitalisierung #OpenData
-  Wie das alles zusammenhängt, erklärt euch die Nahverkehrsgesellschaft #BadenWürttemberg (NVBW)
-  https://www.mobidata-bw.de/blog/plattformen
-  via https://bawü.social/@bwegtBW/111925026183370288
-* FOSDEM 2024 and Open Public Transport Routing
-  https://www.volkerkrause.eu/2024/02/10/fosdem-2024-open-public-transport-routing.html
-* Transitous
-  A community-run provider-neutral international public transport routing service.
-  https://github.com/public-transport/transitous
-* Open Rail: Recordings of the FOSDEM Railways and Open Transport devroom available
-  https://openrailassociation.org/news/2024/recordings-of-the-fosdem-railways-and-open-transport-devroom-available/
-* Network Generation Hackathon
-  reproducible transport network generation, processing and modelling with open source software 
-  https://github.com/Robinlovelace/netgenhack/
-  https://github.com/Urban-Analytics-Technology-Platform/od2net
-  https://fosstodon.org/@robinlovelace/112010148879803498
-* Eine Daten-Genossenschaft testet aktuell, was es dazu braucht, um »ethisch« Daten zu sammeln und Mobilität wirklich nach den Bedürftnissen der Menschen auszurichten. 🚲🚆 Spannendes Leuchtturm-Projekt aus der Schweiz, das demnächst auch nach Deutschland kommt 💡
-  https://social.perspective-daily.de/users/desiree/statuses/112003068195386470
-  via https://social.perspective-daily.de/@desiree/112003068195386470
-* Echtzeitdaten: Die Deutsche Bahn weiß nicht, wo ihre Züge stecken
-Echtzeitdaten zu Zugverspätungen werden teilweise immer noch nicht zwischen europäischen Nachbarländern ausgetauscht. Dabei gäbe es eine ganz einfache Lösung.
-  https://www.heise.de/meinung/Echtzeitdaten-Die-Deutsche-Bahn-weiss-nicht-wo-ihre-Zuege-stecken-9636972.html
+Die Grafiken, die die zunehmende Erwärmung des Nordpols dokumentieren, wurden um die Daten aus Januar 2024 [ergänzt](https://zacklabe.com/arctic-temperatures/). Die monatlichen Auswertungen der Temparaturen für 2023 wurden in diesem Blog-Post [zusammengefasst](https://zacklabe.com/blog-archive-2023/).
+
+Viele Vorträge auf der NIAM-Tagung im Januar beschäftigten sich ebenfalls damit, welche Visualisierungsformen sich für eine verständliche Vermittlung von Erkenntnissen aus Datenanalysen eignen. Die Folien und Vortragsvideos stehen nun [online](https://news-infographics-analytics-maps.media/2024.html).
+
+## Visualisierungen von Mobilitätsdaten
+Ein Schweizer Verkehrsplaner störte sich an der offiziellen Netzplan-Darstellung der ICE- und IC-Verbindungen und optimiert seit einigen Jahren an [seiner eigenen Darstellung](https://larstransportmaps.com/2024/01/23/germany-2024/), die Relevanz und Häufigkeit von Verbindungen stärker betont.
+
+Wie man die Häufigkeiten von Verkehrsflüssen (Start-Ziel-Kombinationen) geeignet auf einer Karte als Cluster visualisieren kann, haben Studenten beispielhaft für die Stadt Leeds [gezeigt](https://fosstodon.org/@robinlovelace/111901552291641451).
+
+In einem [Hackathon](https://github.com/Robinlovelace/netgenhack/) wurden zudem weitere Möglichkeiten Verkehrsnetz-Graphen automatisch zu erzeugen, zu modellieren und zu optimieren, ausprobiert.
+
+Aber auch für die Lesbarkeit klassischer Offline-Fahrpläne besteht durchaus Optimierungspotenzial.[Dominic Stucki stellt in seinem Mastodon-Thread](https://urbanists.social/@dominicstucki/111912557527927505) einige Verbesserungsvorschläge vor.
+
+## Routenplanung für den öffentlichen Verkehr
+Proprietäre Fahrplanauskunftsdienste einzelner Mobilitätsanbieter beschränken sich meist auf das eigene Einzugsgebiet, blenden alternative Angebote von Wettbewerbern aus und unterbinden in diesem Zuge auch anderen Diensten den Zugriff auf die eigenen Daten.
+
+So werden beispielsweise immer noch nicht zwischen allen europäischen Nachbarländern Echtzeit-Daten ausgetauscht, mit dem Effekt, dass die Deutsche Bahn [nicht weiß, wo ihre Züge gerade im Ausland sind](https://www.heise.de/meinung/Echtzeitdaten-Die-Deutsche-Bahn-weiss-nicht-wo-ihre-Zuege-stecken-9636972.html).
+
+Aus Nutzerperspektive braucht es also neben den Open Data Fahrplan- und Echtzeitverspätungsdaten FOSS-Navigationsdienste und Menschen, die diese Dienste betreiben und pflegen. Ein geeignetes Thema für die diesjährige FOSDEM-Konferenz also. Und tatsächlich wird nun auf Basis bestehender Standards und existierenden OpenSource-Bibliotheken mit [transitous](https://github.com/public-transport/transitous) ein internationaler, Community betriebenen Routing-Dienst entwickelt. [Volker Krause](https://www.volkerkrause.eu/2024/02/10/fosdem-2024-open-public-transport-routing.html) hat chronologisch das Zustandekommen der Initiative während der Konferenz dokumentiert.
+
+Wer die dort erwähnten Vorträge nochmal als Video sehen möchte, findet diese auf der Seite der Open Rail Association neben anderen Sessions des FOSDEM Railways and Open Transport devroom [verlinkt](https://openrailassociation.org/news/2024/recordings-of-the-fosdem-railways-and-open-transport-devroom-available/).
+
+Bereits in der [Out in the Open Dezember Ausgabe](https://codefor.de/blog/out-in-the-open-december-2023/) stellten wir die Mobilitäts-Daten-Genossenschaft aus der Schweiz vor, nun soll das Projekt laut [dieses Perspektive-Daily-Artikels](https://perspective-daily.de/article/3000-diese-menschen-lassen-sich-fuer-die-verkehrswende-freiwillig-digital-verfolgen/hNxiSjhg) auch in Deutschland starten.
 
 ## Karten
 * 2024: announcing the year of the OpenStreetMap vector maps
