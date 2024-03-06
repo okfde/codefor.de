@@ -75,10 +75,9 @@ Wer die dort erwähnten Vorträge nochmal als Video sehen möchte, findet diese 
 Bereits in der [Out in the Open Dezember Ausgabe](https://codefor.de/blog/out-in-the-open-december-2023/) stellten wir die Mobilitäts-Daten-Genossenschaft aus der Schweiz vor, nun soll das Projekt laut [dieses Perspektive-Daily-Artikels](https://perspective-daily.de/article/3000-diese-menschen-lassen-sich-fuer-die-verkehrswende-freiwillig-digital-verfolgen/hNxiSjhg) auch in Deutschland starten.
 
 ## Karten
-* 2024: announcing the year of the OpenStreetMap vector maps
-  https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/
-* https://openchargemap.org/
-  via https://chaos.social/@avanc/111919461516553481
+OpenStreetMap [verkündet das Jahr der Vector Maps](https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/): während traditionelle Raster Tiles nur statische Bilder aus Pixel sind, bieten Vector Tiles die Flexibilität von SVGs was Styling und Nutzerinteraktion betrifft, aber noch viele weitere Möglichkeiten und Verbesserung (kontinuierliche Daten-Aktualisierung, 3D-Karten, stufenloser Zoom, Verschneiden mit anderen Datensätzen).
+
+[Viele Vorschläge](https://chaos.social/@avanc/111919461516553481) kamen im Mastodon-Thread für die Frage zusammen, wie man mittels Open Data Ladestationen mit weiteren Informationen, z.B. auch mit Bewertungen, anreichern kann, unter anderem wurde auf die [OpenChargeMap](https://openchargemap.org/) verwiesen.
 
 ## Open Source
 * A good ladder in usage of #OpenSource software by the City of #Munich: Use / Improve / Publish.
