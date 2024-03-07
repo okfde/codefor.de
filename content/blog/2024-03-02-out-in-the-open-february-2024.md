@@ -80,25 +80,19 @@ OpenStreetMap [verkündet das Jahr der Vector Maps](https://blog.openstreetmap.o
 [Viele Vorschläge](https://chaos.social/@avanc/111919461516553481) kamen im Mastodon-Thread für die Frage zusammen, wie man mittels Open Data Ladestationen mit weiteren Informationen, z.B. auch mit Bewertungen, anreichern kann, unter anderem wurde auf die [OpenChargeMap](https://openchargemap.org/) verwiesen.
 
 ## Open Source
-* A good ladder in usage of #OpenSource software by the City of #Munich: Use / Improve / Publish.
-  https://opensource.muenchen.de
-  via https://maly.io/@MattiSG/111868220389714302
-* Digitale #Tools zur Untersuchung von #SocialMedia Beiträgen und anderen frei zugänglichen #Daten können eine wichtige Rolle bei der Aufdeckung von #Menschenrechtsverletzungen oder #Umweltskandalen spielen 💻 
-  Das Berkeley-Protokoll setzt internationale Standards für digitale #OpenSource Untersuchungen.
-  https://reset.org/das-berkeley-protokoll-setzt-internationale-standards-fuer-digitale-open-source-untersuchungen/
-  via https://mastodon.social/@reset_org/111879192476797812
-* Digitalarchäologie mit Open Source:
-  https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html
-  via https://social.heise.de/@dborch/111934732639995171
-* Harvard-Studien belegen die Vorteile von Open Source Software für die Gesamtwirtschaft
-  https://osb-alliance.de/featured/harvard-studien-belegen-die-vorteile-von-open-source-software-fuer-die-gesamtwirtschaft
-  * siehe auch https://www.heise.de/news/Studie-Open-Source-traegt-global-8-8-Milliarden-Dollar-zur-Wirtschaftskraft-bei-9627402.html
-* Audacity gets AI transcription and noise suppression courtesy of Intel OpenVINO plug-ins
-  https://www.tomshardware.com/tech-industry/artificial-intelligence/audacity-gets-ai-transcription-and-noise-suppression-courtesy-of-intel-openvino-plug-ins
-  via https://det.social/@HxxxKxxx/111937719797707957
-* Yeah! Das neue #Onlinezugangsgesetz legt fest, dass die Bundesbehörden zukünftig vorrangig #OpenSource Software beschaffen und auf offene Standards setzen sollen. Nur so kann eine schnelle, effiziente und nachhaltige Verwaltungsdigitalisierung klappen! 🖥️ #OZG
-  https://osb-alliance.de/publikationen/statements/vorrang-fuer-open-source-im-onlinezugangs-aenderungsgesetz
+Zwei kürzlich veröffentlichte Harvard-Studien zeigen, dass sowohl Zivilgesellschaft, einzelne Unternehmen, als auch die Volkswirtschaft als Ganzes von der Unterstützung des Open-Source-Ökosystems profitieren, wie die Open Source Business Alliance [auf ihren Seiten schreibt](https://osb-alliance.de/featured/harvard-studien-belegen-die-vorteile-von-open-source-software-fuer-die-gesamtwirtschaft) (und ebenfalls auch auf [heise](https://www.heise.de/news/Studie-Open-Source-traegt-global-8-8-Milliarden-Dollar-zur-Wirtschaftskraft-bei-9627402.html
+) berichtet wird). So untersuchte die Langzeitstudie [Open source software and global entrepreneurship](https://www.sciencedirect.com/science/article/pii/S0048733323001300) den Zusammenhang zwischen Unternehmens-Neugründungen in einem Land und den lokalen Beiträgen zu Open-Source-Software. Und die Studie [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148) befasste sich mit dem monetären Wert von Open-Source-Software für Unternehmen.
 
+Dazu passt auch der Slogan "Nutzen - Verbessern - Veröffentlichen" auf dem [Open-Source-Portal](https://opensource.muenchen.de/de/) der Stadt München, auf den uns Matti Schneider [aufmerksam macht](https://maly.io/@MattiSG/111868220389714302).
+
+Umso besser also, im Sinne einer schnellen, effizienten und nachhaltigen Verwaltungsdigitalisierung, dass die neue Fassung des Onlinezugangsgesetzes festlegt, dass die Bundesbehörden zukünftig vorrangig Open-Source-Software beschaffen und auf offene Standards [setzen sollen](https://osb-alliance.de/publikationen/statements/vorrang-fuer-open-source-im-onlinezugangs-aenderungsgesetz).
+
+Das [Berkeley Protocol on Digital Open Source Investigations](https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf) gibt Ermittelnden nun Leitlinien an die Hand, die sie für die Sammlung, Überprüfung und Aufbewahrung von in Online-Recherchen zusammengetragenen Informationen für die Aufdeckung möglicher Menschenrechtsverletzungen anwenden können, wie [Reset berichtet](https://reset.org/das-berkeley-protokoll-setzt-internationale-standards-fuer-digitale-open-source-untersuchungen/).
+
+Das Internet ist über 30 Jahre alt, ein langer Zeitraum, in dem viele Entscheidungen getroffen wurden, Open-Source-Software kam und ging. [
+Detlef Borchers weist darauf hin](https://social.heise.de/@dborch/111934732639995171), dass John Graham-Cumming [in seinem Blog zeigt](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html), wie man mit "Digitalarchäologie" noch an Hand alter Dokumente und Seiten im Netz Entwicklungen und Entscheidungsprozesse nachvollziehen kann.
+
+Audacity, ein beliebter, quelloffener Audio-Editor und -Rekorder, bekommt mit Intels [OpenVINO AI effects](https://www.audacityteam.org/blog/openvino-ai-effects/), KI gestützte Audio-Transkription und intelligente Rauschunterdrückung als nützliche Erweiterungen, die dabei 100 Prozent lokal laufen, also nicht nach Hause telefonieren.
 
 ## Informationsfreiheit
 * Die Porsche-Mails, die das Verkehrsministerium geheim halten wollte
