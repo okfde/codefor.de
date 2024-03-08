@@ -89,30 +89,21 @@ Umso besser also, im Sinne einer schnellen, effizienten und nachhaltigen Verwalt
 
 Das [Berkeley Protocol on Digital Open Source Investigations](https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf) gibt Ermittelnden nun Leitlinien an die Hand, die sie für die Sammlung, Überprüfung und Aufbewahrung von in Online-Recherchen zusammengetragenen Informationen für die Aufdeckung möglicher Menschenrechtsverletzungen anwenden können, wie [Reset berichtet](https://reset.org/das-berkeley-protokoll-setzt-internationale-standards-fuer-digitale-open-source-untersuchungen/).
 
-Das Internet ist über 30 Jahre alt, ein langer Zeitraum, in dem viele Entscheidungen getroffen wurden, Open-Source-Software kam und ging. [
-Detlef Borchers weist darauf hin](https://social.heise.de/@dborch/111934732639995171), dass John Graham-Cumming [in seinem Blog zeigt](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html), wie man mit "Digitalarchäologie" noch an Hand alter Dokumente und Seiten im Netz Entwicklungen und Entscheidungsprozesse nachvollziehen kann.
+Das Internet ist über 30 Jahre alt, ein langer Zeitraum, in dem viele Entscheidungen getroffen wurden, Open-Source-Software kam und ging. [Detlef Borchers weist darauf hin](https://social.heise.de/@dborch/111934732639995171), dass John Graham-Cumming [in seinem Blog zeigt](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html), wie man mit "Digitalarchäologie" noch an Hand alter Dokumente und Seiten im Netz Entwicklungen und Entscheidungsprozesse nachvollziehen kann.
 
 Audacity, ein beliebter, quelloffener Audio-Editor und -Rekorder, bekommt mit Intels [OpenVINO AI effects](https://www.audacityteam.org/blog/openvino-ai-effects/), KI gestützte Audio-Transkription und intelligente Rauschunterdrückung als nützliche Erweiterungen, die dabei 100 Prozent lokal laufen, also nicht nach Hause telefonieren.
 
 ## Informationsfreiheit
-* Die Porsche-Mails, die das Verkehrsministerium geheim halten wollte
-  https://www.abgeordnetenwatch.de/recherchen/informationsfreiheit/die-porsche-mails-die-das-verkehrsministerium-geheim-halten-wollte
-  https://fragdenstaat.de/anfrage/kontakte-zur-porsche-ag/
-* Neues Lobbyregister: Ein guter Tag für Transparenz und Demokratie
-  https://www.lobbycontrol.de/pressemitteilung/neues-lobbyregister-ein-guter-tag-fuer-transparenz-und-demokratie-114134/
+Das Verkehrsministerium (BMDV) [hatte sich über ein Jahr geweigert](https://www.abgeordnetenwatch.de/recherchen/informationsfreiheit/die-porsche-mails-die-das-verkehrsministerium-geheim-halten-wollte), den E-Mail-Verkehr zu einem geplanten Gespräch zwischen Verkehrsminister Volker Wissing und Porsche-Chef Oliver Blume zu veröffentlichen, mit der fadenscheinigen Begründung, dass dieser besonders schutzwürdig sei. Am 4. Dezember 2023 beauftragte abgeordnetenwatch.de daher eine Anwältin damit, beim Berliner Verwaltungsgericht eine Untätigkeitsklage gegen das Verkehrsministerium einzureichen. Zudem drohte der Bundesbeauftragten für den Datenschutz mit einer Beanstandung. Um eine Blamage abzuwenden, entschloss sich das Ministerium nun doch, die Korrespondenz [herauszugegeben](https://fragdenstaat.de/anfrage/kontakte-zur-porsche-ag/). Diese selbst stellte sich als wenig brisant heraus, belegt aber die Vertrautheit zwischen den Beteiligten.
 
-### Aus der Community
-* Temporaerhaus: Der Sprudelfaktor – Monatsbericht Januar 2024
-  https://temporaerhaus.de/der-sprudelfaktor-monatsbericht-januar-2024/
+Die Angelegenheit selbst zeigt aber, dass man sich immer noch gegen die Versuche, die Einflussnahme von Lobbyisten auf politische Entscheidungsprozesse zu verschleiern, aktiv wehren muss.
+
+Auch deswegen ist die Reform des Lobbyregister-Gesetzes, die jetzt am 1. März in Kraft getreten ist, zu begrüßen. So sind ab sofort Angaben zur Finanzierung und zu Lobbyausgaben künftig für alle verpflichtend. Lobbydienstleister müssen außerdem nun genau aufschlüsseln, was ihre Tätigkeiten für die jeweiligen Kunden sind und diese entlohnt werden. Leider bestehen aber weiterhin Ausnahmen von der Registrierungspflicht. Eine Auflistung aller weiteren wichtigen Änderungen finden sich in der [Pressemitteilung von Lobbycontrol](https://www.lobbycontrol.de/pressemitteilung/neues-lobbyregister-ein-guter-tag-fuer-transparenz-und-demokratie-114134/).
 
 ### Und sonst so
-* What happens when you click "I Agree" without reading the terms and conditions? From social media apps to shopping websites, our data is being collected every second of the day to offer us personalized ads or even track our mood based on our shopping habits
-  https://theglassroom.org/en/capsule-1-0/exhibits/data-day/
-  via https://mastodon.cc/@info_activism/112008488575046604
+Was passiert, wenn man bedenkenlos auf "Alle akzeptieren" im Cookie-Banner klickt: die Online-Ausstellung [Your day in data](https://theglassroom.org/en/capsule-1-0/exhibits/data-day/) zeigt, welche persönlichen Datenspuren man an einem Tag im Internet hinterlässt. Weitere solcher Ausstellungen sind auf [The Glass Room](https://theglassroom.org/en/capsule-1-0) zu finden, einem Projekt der NGO [Tactical Tech](https://tacticaltech.org). Wie man aus ihrem letzten [monatlichen Newsletter](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-february-2024/) erfährt, kann man sich die Ausstellung auch offline anschauen, z.B. in der [Burg Giebichenstein Kunsthochschule Halle](https://theglassroom.org/en/event/misinformation-edition-exhibition-and-workshop-in-halle/) vom 18. März bis 19. April.
 
 ## Veranstaltungen
-* Mittwoch, 06.03.2024, 15:00-17:00, Town Hall Europe, Brüssel: **Unlocking Knowledge Conference**
-  * https://communia-association.org/event/unlocking-knowledge-conference/
 * Mittwoch, 06.03.2024, bis Donnerstag, 07.03.2024, Wien: **Open Data Days Vienna 2024**
   * https://www.data.gv.at/2024/01/25/odd24/
 * Mittwoch, 13.03.2024, bis Freitag, 15.03.2024, Online: **Unwrapped: Konferenz für Datawrapper-Nutzer**
