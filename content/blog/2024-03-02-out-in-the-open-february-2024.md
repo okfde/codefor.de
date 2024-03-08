@@ -33,7 +33,7 @@ Das statistische Bundesamt bietet seit Neustem eine [experimentelle Konjunkturst
 [Dirk Holtwick dankt auf Mastodon](https://mastodon.social/@holtwick/111846583016787604)
 dem CCC Essen, dass man jetzt die [Artikel des Grundgesetzes als einzelne Markdown-Dateien](https://github.com/c3e/grundgesetz) ebenfalls auf Github findet. Das Besondere dabei: in der Commit-Historie entsprechen die Namen der "Committer" und die Zeitpunkte der "Commits" den damals handelnden Bundespräsidenten und den tatsächlichen historischen Gesetzesänderungsdaten.
 
-Wer sich für die Abgeordneten deutscher Landesparlamente und -regierungen interesiert, findet in der neuen öffentlichen Datenbank [StatePol](https://statepol.github.io/Database/) detaillierte Informationen, die von 1990 bis 2020 reichen.
+Wer sich für die Abgeordneten deutscher Landesparlamente und -regierungen interessiert, findet in der neuen öffentlichen Datenbank [StatePol](https://statepol.github.io/Database/) detaillierte Informationen, die von 1990 bis 2020 reichen.
 
 ## Offene Bibliografiedaten
 Teil wissenschaftlicher Publikationsarbeit ist das Finden und das systematische Auswerten bereits vorhandener Forschungsliteratur. Mit [alexandria3k](https://github.com/dspinellis/alexandria3k) ist eine Python-Bibliothek (die aber auch alternativ als fertiges Kommandozeilen-Werzeug nutzbar ist), mit der man performante Abfragen auf den Metadatensätzen von Publikationen ausführen kann. Der größte Datensatz stammt dabei von [Crossref](https://github.com/CrossRef), der die Metadaten von etwa 134 Millionen Veröffentlichungen (1 Terrabyte Daten unkomprimiert, 157 Gigabyte komprimiert), 60 Millionen davon mit vollständigen Quellenverzeichnisdaten. Weitere Datensätze stammen aus der Biomedizin-Literaturverzeichnis-Datenbank [PubMed](https://pubmed.ncbi.nlm.nih.gov), die 36 Millionen Einträge hat.
@@ -50,7 +50,7 @@ Auch bei der Umsetzung [hochwertiger Datensätze](https://data.europa.eu/en/publ
 ## Visualisierungen
 Eine [aktualisierte interaktive Karte des statistischen Bundesamtes](https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/karte-mindestloehne.html) zeigt das Maß der potenziellen Betroffenheit vom Mindestlohn (aktuell 12 € pro Stunde) von Vollzeitbeschäftigten in den verschiedenen Regionen in Deutschland an (Stand April 2023). Ein hoher Kaitz-Index ist somit ein Indikator, dass der mittlere Brutto­stundenverdienst kaum über den Mindestlohn liegt.
 
-Die Grafiken, die die zunehmende Erwärmung des Nordpols dokumentieren, wurden um die Daten aus Januar 2024 [ergänzt](https://zacklabe.com/arctic-temperatures/). Die monatlichen Auswertungen der Temparaturen für 2023 wurden in diesem Blog-Post [zusammengefasst](https://zacklabe.com/blog-archive-2023/).
+Die Grafiken, die die zunehmende Erwärmung des Nordpols dokumentieren, wurden um die Daten aus Januar 2024 [ergänzt](https://zacklabe.com/arctic-temperatures/). Die monatlichen Auswertungen der Temperaturen für 2023 wurden in diesem Blog-Post [zusammengefasst](https://zacklabe.com/blog-archive-2023/).
 
 Viele Vorträge auf der NIAM-Tagung im Januar beschäftigten sich ebenfalls damit, welche Visualisierungsformen sich für eine verständliche Vermittlung von Erkenntnissen aus Datenanalysen eignen. Die Folien und Vortragsvideos stehen nun [online](https://news-infographics-analytics-maps.media/2024.html).
 
@@ -100,7 +100,7 @@ Die Angelegenheit selbst zeigt aber, dass man sich immer noch gegen die Versuche
 
 Auch deswegen ist die Reform des Lobbyregister-Gesetzes, die jetzt am 1. März in Kraft getreten ist, zu begrüßen. So sind ab sofort Angaben zur Finanzierung und zu Lobbyausgaben künftig für alle verpflichtend. Lobbydienstleister müssen außerdem nun genau aufschlüsseln, was ihre Tätigkeiten für die jeweiligen Kunden sind und diese entlohnt werden. Leider bestehen aber weiterhin Ausnahmen von der Registrierungspflicht. Eine Auflistung aller weiteren wichtigen Änderungen finden sich in der [Pressemitteilung von Lobbycontrol](https://www.lobbycontrol.de/pressemitteilung/neues-lobbyregister-ein-guter-tag-fuer-transparenz-und-demokratie-114134/).
 
-### Und sonst so
+## Und sonst so
 Was passiert, wenn man bedenkenlos auf "Alle akzeptieren" im Cookie-Banner klickt: die Online-Ausstellung [Your day in data](https://theglassroom.org/en/capsule-1-0/exhibits/data-day/) zeigt, welche persönlichen Datenspuren man an einem Tag im Internet hinterlässt. Weitere solcher Ausstellungen sind auf [The Glass Room](https://theglassroom.org/en/capsule-1-0) zu finden, einem Projekt der NGO [Tactical Tech](https://tacticaltech.org). Wie man aus ihrem letzten [monatlichen Newsletter](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-february-2024/) erfährt, kann man sich die Ausstellung auch offline anschauen, z.B. in der [Burg Giebichenstein Kunsthochschule Halle](https://theglassroom.org/en/event/misinformation-edition-exhibition-and-workshop-in-halle/) vom 18. März bis 19. April.
 
 ## Veranstaltungen
