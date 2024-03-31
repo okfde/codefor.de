@@ -6,7 +6,7 @@ excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data
 topic: community
 images:
 - imgname: out-in-the-open-2024-03-header.jpg
-  attribution: <a href="https://commons.wikimedia.org/wiki/File:Eingangst%C3%BCr_Head_Shop_Euforia_Haze_in_Leipzig_Reudnitz.jpg">Foto</a> von <a href="https://commons.wikimedia.org/wiki/User:ViggieJoe">Jörg Reichert</a> auf <a href="https://unsplash.com/">Unsplash</a>
+  attribution: <a href="https://commons.wikimedia.org/wiki/File:Eingangst%C3%BCr_Head_Shop_Euforia_Haze_in_Leipzig_Reudnitz.jpg">Foto</a> von <a href="https://commons.wikimedia.org/wiki/User:ViggieJoe">Jörg Reichert</a> auf <a href="https://commons.wikimedia.org/">Wiki Commons</a>
 og_image: out-in-the-open-2024-03-header.jpg
 type: blog
 ---
@@ -33,6 +33,10 @@ type: blog
 * Wo stehen wir beim CO2-Budget? Umweltrat aktualisiert seine Berechnungen mit aktuellen Emissionsdaten und verbesserten wissenschaftlichen Analysen zum verbleibenden globalen CO2-Budget.
   https://www.umweltrat.de/SharedDocs/Downloads/DE/04_Stellungnahmen/2020_2024/2024_03_CO2_Budget.html
   via https://social.bund.de/@umweltrat/112155532759771261 und https://climatejustice.global/@GermanZeroHH/112158150406735777
+* Weltweiter Elektroschrott auf Rekordhöhe – und kaum Recycling
+  Im Jahr 2022 sei weniger als ein Viertel (22,3 Prozent) des Elektroschrotts nachweislich ordnungsgemäß gesammelt und aufgearbeitet worden, hieß es. Bis 2030 könne der Wert auf 20 Prozent sinken.
+  https://www.spektrum.de/news/konsum-weltweiter-elektroschrott-auf-rekordhoehe-und-kaum-recycling/2211554
+  https://globalewaste.org
 
 ## Verkehr
 * Zahl der Autos steigt auf mehr als 49 Millionen
