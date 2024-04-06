@@ -11,61 +11,36 @@ og_image: out-in-the-open-2024-03-header.jpg
 type: blog
 ---
 
-## Umwelt
-* Moderne Sensoren auf hoher See und Satellitendaten können zukünftig dabei helfen, den Fischfang nachhaltiger zu gestalten und illegalen Fischfang zu bekämpfen
-  "Smart-Farming jedoch nicht unbedingt zu einer nachhaltigen Landwirtschaft führt. Diese Ergebnisse lassen sich auch auf den Fischfang übertragen. So braucht es politische Anreize und Regulierungen, damit neue Technologien auch wirklich dazu beitragen, dass sich Fischpopulationen und Ökosysteme im Meer erholen können. Geschieht das nicht, könnten digitale Werkzeuge das Gegenteil bewirken und als Katalysator für die weitere Zerstörung der Weltmeere wirken."
-  https://reset.org/sensoren-kameras-auf-hoher-see-nachhaltiger-fischfang-dank-big-data/
-  via https://mastodon.social/users/reset_org/statuses/112037054771060655
-* KI lernt Sprache der Pflanzen
-  “Unser Ziel ist, ein universelles Modell aus Daten zu trainieren, mit dem sich vorhersagen lässt, in welchem Zustand sich eine Pflanze befindet”, beschreibt Marc Weimer-Hablitzel, CEO von Hortiya, die Funktionsweise seiner Pflanzen-KI. Für Tomaten ist das Modell bereits im Gewächshaus im Einsatz. Basilikum und Cannabis stehen ebenfalls für Hortyia im Fokus.
-  https://reset.org/ki-lernt-sprache-der-pflanzen-warum-das-die-landwirtschaft-nachhaltiger-macht/
-* KI-Modell verbessert Vorhersage von Hochwasser in Flüssen ohne Messstationen
-  Googles Projekt Flood Hub erkennt Hochwasser-Ereignisse an Flüssen weltweit bis zu fünf Tage im Voraus. Forschende sehen einen Mehrwert für Regionen, in denen es nur wenige Messstationen gibt.
-  https://www.riffreporter.de/de/wissen/ki-modell-hochwasservorhersage-fuer-unbewirtschaftete-fuesse
-  https://sites.research.google/floods/l/0/0/3  
-* Stromerzeugung 2023: 56 % aus erneuerbaren Energieträgern
-  Windkraft war im Jahr 2023 mit einem Anteil von 31,0 % wichtigster Energieträger für die Stromerzeugung in Deutschland. Die Gründe für den deutlichen Anstieg des Anteils waren ein gutes Windjahr 2023 sowie der Leistungszubau um 4,3 % bei gleichzeitig geringerer Gesamtstromerzeugung.
-  https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/03/PD24_087_43312.html
-  via https://norden.social/users/wahlatlas/statuses/112053807991327369
-* Über das neue Portal globalwaterstorage.info können Interessierte zahlreiche Informationen sowie begleitende Animationen und Karten zum Waserspeicher der Erde abrufen.
-  https://www.globalwaterstorage.info  
-  via https://www.mdr.de/wissen/umwelt-klima/wasserspeicher-deutschland-wasser-regen-duerre-trockenheit-100.html    
-* Wo stehen wir beim CO2-Budget? Umweltrat aktualisiert seine Berechnungen mit aktuellen Emissionsdaten und verbesserten wissenschaftlichen Analysen zum verbleibenden globalen CO2-Budget.
-  https://www.umweltrat.de/SharedDocs/Downloads/DE/04_Stellungnahmen/2020_2024/2024_03_CO2_Budget.html
-  via https://social.bund.de/@umweltrat/112155532759771261 und https://climatejustice.global/@GermanZeroHH/112158150406735777
-* Weltweiter Elektroschrott auf Rekordhöhe – und kaum Recycling
-  Im Jahr 2022 sei weniger als ein Viertel (22,3 Prozent) des Elektroschrotts nachweislich ordnungsgemäß gesammelt und aufgearbeitet worden, hieß es. Bis 2030 könne der Wert auf 20 Prozent sinken.
-  https://www.spektrum.de/news/konsum-weltweiter-elektroschrott-auf-rekordhoehe-und-kaum-recycling/2211554
-  https://globalewaste.org
+## Daten und KI in der Umwelt
+In einem [RESET-Artikel](https://reset.org/sensoren-kameras-auf-hoher-see-nachhaltiger-fischfang-dank-big-data/) werden verschiedene KI-Projekte vorgestellt, die helfen sollen, dass der Fischfang nachhaltiger wird. So lassen sich im EU finanzierten Projekt [SUSTUNTECH](https://www.sustuntech.eu) aus den mittels maschinellen Lernens gewonnenen Erkenntnisse aus der Verschneidung von GPS-Koordinaten sowie Sensor-Daten zu Wassertemperatur und Art der gefangenen Fischen, Fangrouten optimieren und so Treibstoff sparen. Das Projekt [OTC-Smart Fishing](https://www.thuenen.de/de/fachinstitute/ostseefischerei/projekte/fischerei-surveytechnik/otc-smart-fishing-sensorsystem-fuer-smarte-fischernetze) des Thünen-Instituts erforscht, wie Beifang durch KI-gestützte Kamerasysteme, die Fischarten bereits in den Fangnetzen erkennt, vermieden werden kann. Ein weiteres Projekt leistet seinen Beitrag gegen Überfischung, indem durch die genaue Ortung von Fangnetzen sogenanntes "Ghost Fishing" eingedämmt wird.
+
+Das Institut für ökologische Wirtschaftsforschung (IÖW) warnt allerdings in [einer Studie](https://www.ioew.de/fileadmin/user_upload/BILDER_und_Downloaddateien/Publikationen/2023/Oekologie___Landbau_-_Nicht_auf_Kosten_der_Nachhaltigkeit.pdf) davor, dass digitale Werkzeuge nicht zwingend zur mehr Nachhaltigkeit führt, sondern im Gegenteil sich auch zu einem Katalysator für ein noch größere Zerstörung entwickeln kann. Nur politische Anreize und Regulierungen können die grundlegende Raubbau-Logik durchbrechen, die sich aus dem Spannungsfeld von Existenznöte der Fischer, Renditeerwartungen und Konsumverhalten ergibt.
+
+Die Sprache der Pflanzen zu verstehen, hat sich [das Startup Hortiya vorgenommen](https://reset.org/ki-lernt-sprache-der-pflanzen-warum-das-die-landwirtschaft-nachhaltiger-macht/). Denn Pflanzen sind abhängig von ihrem Zustand unterschiedlich bereit, Wasser, Licht und Nährstoffe aufzunehmen. Mit dem Wissen, ob und wann die Pflanze sich gerade in der Photosynthese befindet, erkrankt ist, oder an Wassermangel leidet, könnte effizient deren Beleuchtung, Bewässerung und Düngung gesteuert werden. Auch hier sollen möglichst viele Daten aus Sensoren gewonnen werden, um mit ihnen die Pflanzen-KI trainieren zu können.
+
+Wie [Riffreporter berichtet](https://www.riffreporter.de/de/wissen/ki-modell-hochwasservorhersage-fuer-unbewirtschaftete-fuesse), ist das Google Projekt [Flood Hub](https://sites.research.google/floods/l/0/0/3) in der Lage Hochwasser an Flüssen weltweit bis zu fünf Tage im Voraus zu erkennen. Das hilft vor allem Regionen, in denen es nur wenige Messstationen gibt.
+
+Mehr Wasser(-speicher)informationen (auch in Form von Karten und Animationen) erhält man über das Portal [globalwaterstorage.info](https://www.globalwaterstorage.info). So fehlen Deutschland aktuell immer noch 10 Milliarden Tonnen Wasser, wie das Deutsche Geoforschungszentrum in Potsdam laut diesem [MDR-Wissen-Beitrag](https://www.mdr.de/wissen/umwelt-klima/wasserspeicher-deutschland-wasser-regen-duerre-trockenheit-100.html) aus dem  aktuellsten Datensatz des Satellitenduos "Grace-Follow-On" ermittelt hat.
+
+## Mehr Umwelt-relevante Daten
+Das Statistische Bundesamt [teilte Anfang März mit](https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/03/PD24_087_43312.html), dass 2023 56% des Stroms in Deutschland aus erneuerbaren Energieträgern erzeugt worden sind. Dabei trug die Windkraft mit 31% erheblich bei, bedingt durch den 4,3%-igen Leistungszubau, einem guten Windjahr und dem um 11,8% zurückgegangen Strombedarf.
+
+Weniger positiv entwickelt sich die Recyclingquote: wie aus [einem Spektrum-Artikel](https://www.spektrum.de/news/konsum-weltweiter-elektroschrott-auf-rekordhoehe-und-kaum-recycling/2211554) hervorgeht, der sich auf die 62 Millionen Tonnen an elektronischem Abfall allein im Jahr 2022 aus dem [Global E-Waste Monitor](https://globalewaste.org) bezieht, ein Anstieg um 82 Prozent im Vergleich zum Jahr 2010. Dem gegenüber stehen gerade mal 22,3 Prozent des Elektroschrotts, die nachweislich ordnungsgemäß gesammelt und aufgearbeitet worden sind. Bis 2030 könnte sich die Schrottmenge auf 82 Millionen Tonnen erhöhen, von denen dann nur noch 20 Prozent recyclt würden.
+
+Der Sachverständigenrat für Umweltfragen hat seine Berechnungen mit aktuellen Emissionsdaten und verbesserten wissenschaftlichen Analysen zum verbleibenden globalen CO2-Budget [aktualisiert](https://www.umweltrat.de/SharedDocs/Downloads/DE/04_Stellungnahmen/2020_2024/2024_03_CO2_Budget.html). Mit der ernüchternden Erkenntnis, dass das deutsche CO₂-Budget für das 1,5 °C Ziel nun aufgebraucht ist. Der umweltrat kritisiert in diesem Zusammenhang auch die Bundesländer, die bislang ihrer Verantwortung nicht nachgekommen sind, sich untereinander zu einigen, wie sich das bundesweite Emissionsbudget durch ihren jeweiligen konkreten Handlungsbeitrag einhalten ließe.
 
 ## Verkehr
-* Zahl der Autos steigt auf mehr als 49 Millionen
-  https://www.tagesschau.de/wirtschaft/autos-kraftfahrt-bundesamt-100.html
-* Die europäische NGO #TransportAndEnvironment hat eine Analyse der #Emissionen in der #EU erstellt. 
-  via https://climatejustice.global/@GermanZeroHH/112145053070265532  
-  * Europas Verkehrssektor wird 2030 fast die Hälfte der Emissionen ausmachen
-    Der Verkehrssektor in Europa dekarbonisiert sich dreimal langsamer als der Rest der Wirtschaft. Damit wird er zum Sorgenkind der europäischen Klimabemühungen.
-    https://www.transportenvironment.org/discover/europas-verkehrssektor-wird-2030-fast-die-halfte-der-emissionen-ausmachen/
-    * Visualisierung
-      https://transport2024.transportenvironment.org/sot/index.html
-* Echtzeitdaten von Öffis via MQTT & ESP32 XIAO & OpenDATA
-  Echtzeitdaten von den Wienerlinien werden in Node-RED aufbereitet und per MQTT an einen ESP32 gesendet. Inhalte werden auf einem 0,91″ OLED Display dargestellt.
-  https://www.data.gv.at/application/echtzeitdaten-von-oeffis-via-mqtt-esp32-xiao-opendata/
-* Spannender anschaulicher Vortrag auf der FOSSGIS-Konferenz: "Radnetz-Qualität mit OpenStreetMap-Daten auswerten"
-  https://media.ccc.de/v/fossgis2024-39003-radnetz-qualitt-mit-openstreetmap-daten-auswerten  
-  via https://machteburch.social/@falcius/112139576870428709
-  * You can watch the video and slides (in German language)
-    https://en.osm.town/@Supaplex030/112140546144001635
-* Do you enjoy mapping local PublicTransport features in OpenStreetMap?
-  Check out this thematic app to help make it much easier for most folks: 
-  https://openstop.app
-  via https://en.osm.town/@MapAmore/112142468436794673
-* Bahn-Konkurrenten fordern Verkauf von eigenen Tickets auf DB Navigator
-  Bahntickets kaufen Fahrgäste meist auf der Navigator-App der Bahn. Fahrten ins Ausland oder Fahrkarten anderer Unternehmen sind dort kaum erhältlich. Ein Start-up wendet sich deshalb ans Bundeskartellamt.
-  https://www.handelsblatt.com/unternehmen/dienstleister/zugtickets-bahn-konkurrenten-fordern-verkauf-von-eigenen-tickets-auf-db-navigator/100026930.html
-* City Lines
-  https://www.citylines.co
-  https://www.citylines.co/data?city=dhaka
+Die europäische Nichtregierungsorganisation Transport & Environment [hat eine Analyse der Emissionen in der EU erstellt](https://www.transportenvironment.org/discover/europas-verkehrssektor-wird-2030-fast-die-halfte-der-emissionen-ausmachen/) (und auch [visualisiert](https://transport2024.transportenvironment.org/sot/index.html)), nach der Europas Verkehrssektor 2030 fast die Hälfte der Emissionen ausmachen wird. Damit dekarbonisiert sich der Verkehrssektor in Europa dreimal langsamer als der Rest der Wirtschaft. Deutschland trägt dabei einen erheblichen Anteil bei. So [waren laut Kraftfahrt-Bundesamt](https://www.tagesschau.de/wirtschaft/autos-kraftfahrt-bundesamt-100.html) Anfang des Jahres mehr als 49 Millionen Fahrzeuge zugelassen, davon 44 Millionen fossile Verbrenner.
+
+Um so wichtiger wäre es, die Alternativen zu stärken. So ist die Deutsche Bahn zwar gesetzlich verpflichtet, auch die Verbindungen anderer Anbieter in ihrem DB-Navigator anzuzeigen. Für Buchungen gilt dies jedoch nicht. Ein Startup, das europäische Fahrten anbietet, [wendete sich deshalb an das Bundeskartellamt](https://www.handelsblatt.com/unternehmen/dienstleister/zugtickets-bahn-konkurrenten-fordern-verkauf-von-eigenen-tickets-auf-db-navigator/100026930.html). Aus Sicht des Fahrgastverband Pro Bahn braucht es eine zentrale Plattform (z.B. eben den DB Navigator), auf der man anbieterübergreifend buchen kann, vor allem in Hinsicht auf die Fahrgastrechte, wenn durch die Verspätung des einen Anbieters der (eventuell reservierungspflichtige) Anschlusszug des anderen Anbieters nicht erreicht werden konnte.
+
+Ein weiterer Hinderungsgrund ist die Ungewissheit, ob die Angebote des ÖPNV auch an allen Stellen barrierefrei nutzbar sind. [MapAmore weist auf](https://en.osm.town/@MapAmore/112142468436794673) das Projekt [OpenStop](https://openstop.app) hin, in dem jeder mithelfen kann, die entsprechenden Informationen zu erfassen, die dann direkt auf OpenStreetMap gespeichert werden.
+
+Ein weiteres Mitmachprojekt ist [citylines.co](https://www.citylines.co/), in dem weltweit die Linienpläne möglichst vieler Städte [erfasst werden sollen](https://www.citylines.co/data).
+
+Wie Echtzeitdaten von den Wiener Linien in Node-RED aufbereitet und per MQTT an einen ESP32 gesendet werden können, zeigt [folgendes Videos](https://www.youtube.com/watch?v=X78qFAfWfE0) und die ergänzenden Quellen auf [data.gv.at](https://www.data.gv.at/katalog/application/bd836e2c-70ac-44cc-8240-e93aa8ea676c).
+
+Ebenfalls [als Video abrufen](https://en.osm.town/@Supaplex030/112140546144001635) lässt sich der Vortrag von der FOSSGIS-Konferenz, wie man die Radnetz-Qualität mit OpenStreetMap-Daten auswerten kann.
 
 ## Karten
 * Kernaussagen der Vorstellung des Projekts @GeoDatenGuerilla für mich waren:
