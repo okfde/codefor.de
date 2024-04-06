@@ -1,7 +1,7 @@
 ---
 title: "Hasch mich, ich bin der Frühling – Out in the Open März 2024"
 author: "Jörg Reichert (Code for Leipzig), et al."
-date: '2024-04-02T08:00:00+02:00'
+date: '2024-04-08T08:00:00+02:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
 topic: community
 images:
@@ -75,6 +75,7 @@ type: blog
 * Visualisierung von 3D-Gebäudemodellen in #QGIS: Mit der #3DCityDB und den Plugins 3DCityDB Tools und #Qgis2threejs lassen sich LOD1- und LOD2-Daten in einer 3D-Ansicht visualisieren. Dazu kommen auf den Bildern Visualisierungen der Straßenraumaufteilungen (von der Stadt #Kiel mittels #FragDenStaat befreit). 
   https://climatejustice.social/@GeoDatenGuerilla/112147785255586654
   * https://climatejustice.social/@GeoDatenGuerilla/112151559306199913
+  https://geodaten-guerilla.net/blog/qgis-3dcitydb-gebaeude
 * Bubatzkarte
   Der Konsum von Cannabis in unmittelbarer Gegenwart von Personen, die das 18. Lebensjahr noch nicht vollendet haben, ist verboten
   Hier werden die Abstände für das Konsumverbot von Cannabis im öffentlichen Raum visualisiert. 
@@ -104,6 +105,8 @@ type: blog
   Anträge an Behörden sind über FragDenStaat eigentlich anonym möglich. Nach diesem Prinzip funktionierte unsere Plattform 13 Jahre lang. Das Bundesverwaltungsgericht schafft diese liberale Grundlage in einem skandalösen Urteil ab. Jetzt muss der Gesetzgeber ran!
   https://fragdenstaat.de/blog/2024/03/21/bundesverwaltungsgericht-legt-die-axt-ans-informationsfreiheitsgesetz/
   https://netzpolitik.org/2024/urteil-des-bundesverwaltungsgerichts-fragdenstaat-ab-jetzt-nur-noch-analog/
+* Anwendungsfall für GPTs: Die RKI-Protokolle mit KI-Hilfe durchsuchbar machen
+  https://www.janeggers.tech/eeblog/2024/anwendungsfall-fuer-gpts-die-rki-protokolle-mit-ki-hilfe-durchsuchbar-machen/
 
 ## Ressourcensammlung
 * Das Bündnis Freie Bildung bündelt  Ressourcen und Fortbildungsmaterialien für die Entwicklung und den Einsatz von Open Educational Resources. Hier geht's zu den Offenheitskompetenzen:
@@ -148,8 +151,13 @@ type: blog
 * Berlins Kerndatensätze
   Welche Datensätze sind für Berliner:innen eigentlich besonders relevant?
   https://odis-berlin.de/projekte/2023-02-kerndatens%C3%A4tze/
+* Vom Informationssilo zum Wissensnetzwerk: Am Beispiel der Organigramme arbeiten wir derzeit an einer praxisnahen Fallstudie, um zu lernen, wie mit wichtigen Basis-Informationen die Grundlage für Linked Open Data in Berlin gelegt werden kann.
+  https://odis-berlin.de/aktuelles/2024-03-28-linked-open-data/
 
 ## Tools
+* XZ-UTILS: Wie die Computerwelt gerade haarscharf an einer Sicherheitskatastrophe vorbeigeschrammt ist
+  https://www.derstandard.at/story/3000000213960/wie-die-computerwelt-gerade-haarscharf-an-einer-sicherheitskatastrophe-vorbeigeschrammt-ist?ref=rss
+
 * Pandas.ai - Chat with your Database
   https://github.com/Sinaptik-AI/pandas-ai
 * PyGWalker
@@ -192,14 +200,25 @@ type: blog
   https://temporaerhaus.de/lokalicon-treffen-der-lokalen-community-raeume/
   https://www.klein-aber-fein.de/zeitverschiebungen/
 
+## Und sonst so
+* https://www.fitko.de/aktuelles/details/datenleck-bei-govdata-fast-100000-datensaetze-aus-der-verwaltung-frei-im-netz
+
 ## Veranstaltungen
 * Dienstag, 02.04.2024, 20:00, c-base, Berlin und online: **135. Netzpolitischer Abend: Europa vs. Big Tech? Von Plattformregulierung, Kartellrecht und Kompetenzgerangel**
   * https://digitalegesellschaft.de/2024/03/135-netzpolitischer-abend-europa-vs-bigtech-von-plattformregulierung-kartellrecht-und-kompetenzgerangel/
-* Mittwoch, 03.04.2024, 18:00, online: **Open Source Talk mit Andreas Reckert-Lodde, Geschäftsführer des Zentrum Digitale Souveränität (ZenDiS)**
-  * https://d-64.org/veranstaltungen/open-source-talk-mit-andreas-reckert-lodde/
 * Montag, 08.04.2024, online: **Open Transport Data Quality Meetup: Qualität von Haltestellendaten**
-  * https://github.com/transportkollektiv/meetup/wiki/Open-Transport-Data-Quality-Meetup  
+  * https://github.com/transportkollektiv/meetup/wiki/Open-Transport-Data-Quality-Meetup
+* Montag, 15.04.2024, bis Freitag, 19.04.2024: **Data Week Leipzig 2024**
+  https://2024.dataweek.de
 * Mittwoch, 17.04.2024, Frankfurt am Main: **3. kommunales Open Data Barcamp**
   * https://www.zukunftsnetzwerk-oepnv.de/aktuelles/veranstaltungen/3-kommunales-open-data-barcamp-2024
-* Freitag, 19.04.2024, 10:00 bis 17:00, online (Anmeldung bis 12.04. möglich): **Praxisworkshop „Bildhauerei in Berlin und Wikidata“**
-  https://www.digis-berlin.de/einladung-zum-praxisworkshop-bildhauerei-in-berlin-und-wikidata/
+* Mittwoch, 17.04.2024, 13:00 bis 15:00, online über Zoom: **Daten-Framework für die Soziale Arbeit und Sozialwirtschaft**
+  * https://eveeno.com/daten-meetup-sozialearbeit20240417
+* Donnerstag, 18.04.2024, 19:00 bis 22:00: **Netzpolitischer Abend zum Thema "Wem gehören die KI-Trainingsdaten?"**
+  * https://www.digitale-gesellschaft.ch/event/netzpolitischer-abend-zum-thema-wem-gehoeren-die-ki-trainingsdaten/
+* Freitag, 19.04.2024, 10:00 bis 17:00, online (Anmeldung bis 12.04. möglich): **Praxisworkshop "Bildhauerei in Berlin und Wikidata"**
+  * https://www.digis-berlin.de/einladung-zum-praxisworkshop-bildhauerei-in-berlin-und-wikidata/
+* Mittwoch, 24.04.2024, 12:30 bis 15:30, online: **Gemeinsam Machen 2.0: Demokratieförderung mit Daten**
+  * https://www.correlaid.org/en/events/gemeinsam-machen-04-24
+* Montag, 29.04.2024, 16:30 bis 21:00, Weizenbaum Institut, Hardenbergstr. 32, 10623 Berlin: **Bits & Bäume Frühlingsabend**
+  * https://cloud.bits-und-baeume.org/apps/forms/s/NyLisadAwkwJ7Po3FdKSxLMY
