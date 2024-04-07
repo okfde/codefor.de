@@ -43,45 +43,27 @@ Wie Echtzeitdaten von den Wiener Linien in Node-RED aufbereitet und per MQTT an 
 Ebenfalls [als Video abrufen](https://en.osm.town/@Supaplex030/112140546144001635) lässt sich der Vortrag von der FOSSGIS-Konferenz, wie man die Radnetz-Qualität mit OpenStreetMap-Daten auswerten kann.
 
 ## Karten
-* Kernaussagen der Vorstellung des Projekts @GeoDatenGuerilla für mich waren:
-  "Karten sind nicht neutral und spiegeln gesellschaftliche Machtstrukturen wider." und "Mit Datenerhebung via Citizen Science (Beispiel hier #openbikesensor) können politische Entscheidungen beeinflusst werden."
-  https://geodaten-guerilla.net
-  via https://gruene.social/@jennifer/112134839932398774
-* Visualisierung von 3D-Gebäudemodellen in #QGIS: Mit der #3DCityDB und den Plugins 3DCityDB Tools und #Qgis2threejs lassen sich LOD1- und LOD2-Daten in einer 3D-Ansicht visualisieren. Dazu kommen auf den Bildern Visualisierungen der Straßenraumaufteilungen (von der Stadt #Kiel mittels #FragDenStaat befreit). 
-  https://climatejustice.social/@GeoDatenGuerilla/112147785255586654
-  * https://climatejustice.social/@GeoDatenGuerilla/112151559306199913
-  https://geodaten-guerilla.net/blog/qgis-3dcitydb-gebaeude
-* Bubatzkarte
-  Der Konsum von Cannabis in unmittelbarer Gegenwart von Personen, die das 18. Lebensjahr noch nicht vollendet haben, ist verboten
-  Hier werden die Abstände für das Konsumverbot von Cannabis im öffentlichen Raum visualisiert. 
-  https://bubatzkarte.de/#15/51.3575/12.4078
-* Address Formating Project
-  https://en.osm.town/@opencage/112060199143891817
+"Karten sind nicht neutral und spiegeln gesellschaftliche Machtstrukturen wider.", nur eine der Kernaussagen, die [Jennifer](https://gruene.social/@jennifer/112134839932398774) aus [Jannicks Vortrag "GeographyForFuture: Mit Geodaten Politik machen"](https://media.ccc.de/v/fossgis2024-38928-geographyforfuture-mit-geodaten-politik-machen) auf der diesjährigen [FOSSGIS](https://media.ccc.de/c/fossgis2024) zog. Die Seite [GeoDatenGuerilla](https://geodaten-guerilla.net) ist eben mit diesem Ziel [Anfang Februar 2023 an den Start gegangen](https://geodaten-guerilla.net/blog/Geodaten-Karten-Werkzeug), Geodaten und Karten(-darstellungen) zu demokratisieren.
+
+Wie das konkret ansehen kann, zeigt beispielsweise [ein Blogbeitrag](https://geodaten-guerilla.net/blog/qgis-3dcitydb-gebaeude), der sich mit der Visualisierung von 3D-Gebäudemodellen in QGIS beschäftigt. Die Straßenraumaufteilung in Kiel wurde dabei an Hand von Daten über Straßenabschnitte und Netzknoten aus der Straßeninformationsbank Schleswig-Holsteins bestimmt. Diese Daten liegen allerdings nur über eine [FragDenStaat-Anfrage](https://fragdenstaat.de/anfrage/auszug-aus-dem-strasseninformationssystem/) aus letztem Jahr vor.
+
+Adress-Angaben sehen von Land zu Land anders aus, zum Teil gibt sogar innerhalb der einzelnen Ländern Unterschiede in den Darstellungen. Das gestaltet die Volltext-Adresssuche entsprechend schwierig. Im Projekt [address-formatting](https://github.com/OpenCageData/address-formatting) werden deswegen die Schablonen für die verschiedenen Formate und auch passende Testfälle gesammelt, wie in diesem [Geo-Education-Thread](https://en.osm.town/@opencage/112060199143891817) dargelegt wird.
+
+Seit dem 1. April 2024 ist der Besitz von Cannabis in Deutschland [legalisiert](https://www.bundesgesundheitsministerium.de/themen/cannabis/faq-cannabisgesetz). Beim öffentlichen Konsum müssen dabei aber die Mindestabstände zu bestimmten Einrichtungen eingehalten werden. Die [Bubatzkarte](https://bubatzkarte.de/) visualisiert basierend auf den öffentlichen Daten von OpenStreetMap, in welchen Zonen verstärkt auf die Sichtweite geachtet werden sollte.
 
 ## Transparenz
-* Die Demokratie vorwärtsverteidigen durch ein Transparenzgesetz
-  Ein Bundestransparenzgesetz kann viel mehr Wissen zugänglich machen, bei einer effizienten Verwaltung helfen und Vertrauen in die Demokratie stärken. Wie wir da hin kommen, schreibt Marie Jünemann von @MehrDemokratie
-  https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-die-demokratie-vorwaertsverteidigen-durch-ein-transparenzgesetz/
-  via https://eupolicy.social/@lilliiliev/112049321668895243
-* Protokoll aus Landesparlamenten
-  Wir haben die 16 Parlamentsdokumentationen der Bundesländer gefragt, wie es um Themen wie Maschinenlesbarkeit, Auffindbarkeit und Aktualität steht. Das Ergebnis fällt wenig überraschend aus.
-  Keines der Bundesländer bietet aktuell eine offene Schnittstelle für den automatischen Datenabruf an, ebenso wenig werden die Protokolle in maschinenlesbarer Form angeboten. Noch schwerwiegender ist die fehlende Aktualität: Nur Bayern veröffentlicht vorläufige Plenarprotokolle spätestens am Tag nach der Sitzung, bei den anderen Ländern dauert es zwischen einer Woche und mehreren Monaten. Einem modernen Transparenzanspruch werden die Länder so nicht gerecht.
-  https://netzpolitik.org/2024/landesparlamente-ein-ueberfaelliges-update-fuer-mehr-transparenz/
-  * Abhörparty tauchte zum ersten Mal im Protokoll der 156. Sitzung des 20. Deutschen Bundestages am 13.03.2024 auf
-    https://mastodon.social/@FSBT_Kontext/112099728536376044
-* Gesetzgebungsverfahren auf Bundesebene werden transparenter
-  Der Bund führt den „exekutiven Fußabdruck“ ein. Das macht Gesetzesänderungen leichter nachvollziehbar und legt Lobbytätigkeiten offen. Doch es bleiben unerfüllte Forderungen – wie zum Beispiel nach einer unabhängigen Kontrollinstanz.
-  https://netzpolitik.org/2024/exekutiver-fussabdruck-gesetzgebungsverfahren-auf-bundesebene-werden-transparenter/
-* Aufdeckung von Beweisen für die weltweite Internetzensur
-  Wow! The OONI dataset now includes 2 billion measurements. Huge thanks to our global community for contributing measurements over the past decade, shedding light on internet censorship worldwide! New measurements are published in real-time
-  https://explorer.ooni.org/de
-  via https://mastodon.social/users/ooni/statuses/112037715839299480
-* Bundesverwaltungsgericht legt die Axt ans Informationsfreiheitsgesetz
-  Anträge an Behörden sind über FragDenStaat eigentlich anonym möglich. Nach diesem Prinzip funktionierte unsere Plattform 13 Jahre lang. Das Bundesverwaltungsgericht schafft diese liberale Grundlage in einem skandalösen Urteil ab. Jetzt muss der Gesetzgeber ran!
-  https://fragdenstaat.de/blog/2024/03/21/bundesverwaltungsgericht-legt-die-axt-ans-informationsfreiheitsgesetz/
-  https://netzpolitik.org/2024/urteil-des-bundesverwaltungsgerichts-fragdenstaat-ab-jetzt-nur-noch-analog/
-* Anwendungsfall für GPTs: Die RKI-Protokolle mit KI-Hilfe durchsuchbar machen
-  https://www.janeggers.tech/eeblog/2024/anwendungsfall-fuer-gpts-die-rki-protokolle-mit-ki-hilfe-durchsuchbar-machen/
+Wann kommt das Bundestransparenzgesetz? Versprochen im Koalitionsvertrag, soll das Gesetz laut der [Nationalen Datenstrategie der Bundesregierung](https://dserver.bundestag.de/btd/20/082/2008260.pdf) im 4. Quartal 2024 kommen. Ein zivilgesellschaftliches Bündnis hatte bereits 2022 [einen eigenen Gesetzesentwurf](https://transparenzgesetz.de/) erarbeitet. Marie Jünemann von [Mehr Demokratie](https://www.mehr-demokratie.de) hat bei Netzpolitik [aufgeschrieben](https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-die-demokratie-vorwaertsverteidigen-durch-ein-transparenzgesetz/), wie ein solches Gesetz zu einer effizienteren Verwaltung beitragen und Vertrauen in die Demokratie stärken könnte. In sechs Bundesländern gibt es schon Transparenzgesetze. Wie gut diese sind, offenbar die Seite [transparenzranking.de](https://transparenzranking.de/). Aus der Evaluation des Hamburger Transparenzgesetzes geht zudem hervor, dass ein erheblicher Teil der Seitenzugriffe auf das Transparenzportal von den öffentlichen Stellen selbst kommt. Die Evaluationen der bestehenden Gesetze haben auch ergeben, dass die Nutzenden des jeweiligen Transparenzportals angegeben haben, dass ihr Vertrauen in Verwaltung und Politik gestiegen ist. Dass ein einheitliches bundesweites Gesetz fehlt, wurde zuletzt bei der Recherche zu Unregelmäßigkeiten bei der Verteilung der Fördergelder im Rahmen eines Corona-Rettungspakets offenbar, als Journalisten teils monatelang auf Antworten der einzelne Stellen warten und anschließend die verschiedenen Antwort-Formate noch aufbereiten mussten.
+
+Essenziell für Informationsfreiheitsanfragen über [FragDenStaat](https://fragdenstaat.de/) war bisher auch die Möglichkeit, diese Anfragen anonym stellen zu können. Ein [Urteil des Bundesverwaltungsgerichts](https://www.bverwg.de/pm/2024/10) erlaubt es nun jedoch der angefragten öffentliche Stelle, von Antragsstellenden auch fordern zu können, Namen und Anschrift preiszugeben, damit die Kommunikation auch postalisch erfolgen kann. Auf [Netzpolitik](https://netzpolitik.org/2024/urteil-des-bundesverwaltungsgerichts-fragdenstaat-ab-jetzt-nur-noch-analog/) betrachtet man das Urteil als Rückschritt, da es nicht nur potentielle Anfragende abschrecken könnte, sondern auch für Behörden eine bewusste Strategie zur Verzögerung von Beantwortung von Anfragen sein könnte, indem sie die Kommunikation von E-Mail auf den Postweg verlagern.
+
+Der Bund [führt den "exekutiven Fußabdruck" ein](https://netzpolitik.org/2024/exekutiver-fussabdruck-gesetzgebungsverfahren-auf-bundesebene-werden-transparenter/). Dieser regelt, dass offengelegt werden muss, wer wesentlich zum Inhalt eines Gesetzes beigetragen hat, also beispielsweise auch welche Interessenvertreter:innen sowie beauftragte Dritte involviert waren. Kritiker stört, dass es weiterhin keine unabhängige Kontrollinstanz geben soll.
+
+## Offene Protokolle
+Aus den [Anfragen](https://datawrapper.dwcdn.net/9CgBo/4/), die die [Open Knowledge Foundation Deutschland](https://okfn.de/) an die 16 Parlamentsdokumentationen der Bundesländer gestellt hat, geht hervor, dass in keinem der Bundesländer eine offene Schnittstelle für den automatischen Abruf von Plenarprotokollen gibt. Zum dem [dauert es zwischen einer Woche und mehreren Monaten](https://datawrapper.dwcdn.net/6tNWF/6/), bis überhaupt die Protokolle veröffentlicht werden werden. Bayern bildet hier die positive Ausnahme, hier werden sie spätestens am Tag nach der Sitzung zur Verfügung gestellt. Maschinenlesbar im Sinne gut strukturierter Daten, die über Fließtext in PDF-Form hinausgehen, sind ebenfalls keines der angebotenen Protokolle. Dénes Jäger [fordert daher](https://netzpolitik.org/2024/landesparlamente-ein-ueberfaelliges-update-fuer-mehr-transparenz/), dass der [Parlamentsspiegel](https://www.parlamentsspiegel.de/) dringend auf eine moderne IT-Infrastruktur gehoben werden müsse, um eben diese Anforderungen an zugängliche, transparente Parlamente erfüllen zu können.
+
+Jan Eggers [zeigt in seinem Blog](https://www.janeggers.tech/eeblog/2024/anwendungsfall-fuer-gpts-die-rki-protokolle-mit-ki-hilfe-durchsuchbar-machen/), wie er mit einem [Retrieval-augmented generation (RAG)](https://www.anaconda.com/blog/how-to-build-a-retrieval-augmented-generation-chatbot)-Ansatz die 2000 Seiten Protokoll aus dem RKI-Krisenstab aus der Zeit von Januar 2020 bis April 2021 gezielt durchsuchen konnte. Voraussetzung war hier auch, die PDFs zunächst in Markdown zu überführen. Wichtig war auch, das Kontext-Wissen ergänzen, denn "Context is King". Somit haben für ihn die Aufbereitung der Protokolle für den Assistenten die meiste Zeit verschlungen. Wichtig war auch, die Anfrage-Prompts zu variieren und auch dafür zu sorgen, dass die vorhergehende Anfragen den Kontext nicht verschmutzen, indem man neue Anfragen auch jeweils in neuen Sessions stellt.
+
+Das es in anderen Ländern weniger transparent zugeht zeigt, der [OONI Explorer](https://explorer.ooni.org/de). In ihm werden Beweise für die weltweite Internetzensur (d.h. (temporär) gesperrte oder bewusst gestörte Webseiten und Dienste) gesammelt. Der OONI-Datensatz [enthält inzwischen 2 Milliarden](https://mastodon.social/users/ooni/statuses/112037715839299480) durch die Community erfasste Echtzeit-Messungen seit 2012.
 
 ## Ressourcensammlung
 * Das Bündnis Freie Bildung bündelt  Ressourcen und Fortbildungsmaterialien für die Entwicklung und den Einsatz von Open Educational Resources. Hier geht's zu den Offenheitskompetenzen:
