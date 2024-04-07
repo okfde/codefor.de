@@ -51,6 +51,10 @@ Adress-Angaben sehen von Land zu Land anders aus, zum Teil gibt sogar innerhalb 
 
 Seit dem 1. April 2024 ist der Besitz von Cannabis in Deutschland [legalisiert](https://www.bundesgesundheitsministerium.de/themen/cannabis/faq-cannabisgesetz). Beim öffentlichen Konsum müssen dabei aber die Mindestabstände zu bestimmten Einrichtungen eingehalten werden. Die [Bubatzkarte](https://bubatzkarte.de/) visualisiert basierend auf den öffentlichen Daten von OpenStreetMap, in welchen Zonen verstärkt auf die Sichtweite geachtet werden sollte.
 
+Die nächste Bundestagswahl ist zwar erst nächstes Jahr. Die Bundeswahlleiterin hat aber bereits jetzt die Karten der Wahlkreiseinteilung [veröffentlicht](https://www.bundeswahlleiterin.de/bundestagswahlen/2025/wahlkreiseinteilung/downloads.html).
+
+Das Bundesamt für Kartographie und Geodäsie (BKG) hat das Europamosaik aus Sentinel2-Daten (1429 einzelne Bildkacheln mit einem Gesamtvolumen von rund 1 Terabyte) mit 10-Meter-Bodenauflösung [aktualisiert](https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2024/240314_Europamosaik.html) (Datengrundlage 2021). Es steht als WMS frei zur Verfügung.
+
 ## Transparenz
 Wann kommt das Bundestransparenzgesetz? Versprochen im Koalitionsvertrag, soll das Gesetz laut der [Nationalen Datenstrategie der Bundesregierung](https://dserver.bundestag.de/btd/20/082/2008260.pdf) im 4. Quartal 2024 kommen. Ein zivilgesellschaftliches Bündnis hatte bereits 2022 [einen eigenen Gesetzesentwurf](https://transparenzgesetz.de/) erarbeitet. Marie Jünemann von [Mehr Demokratie](https://www.mehr-demokratie.de) hat bei Netzpolitik [aufgeschrieben](https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-die-demokratie-vorwaertsverteidigen-durch-ein-transparenzgesetz/), wie ein solches Gesetz zu einer effizienteren Verwaltung beitragen und Vertrauen in die Demokratie stärken könnte. In sechs Bundesländern gibt es schon Transparenzgesetze. Wie gut diese sind, offenbar die Seite [transparenzranking.de](https://transparenzranking.de/). Aus der Evaluation des Hamburger Transparenzgesetzes geht zudem hervor, dass ein erheblicher Teil der Seitenzugriffe auf das Transparenzportal von den öffentlichen Stellen selbst kommt. Die Evaluationen der bestehenden Gesetze haben auch ergeben, dass die Nutzenden des jeweiligen Transparenzportals angegeben haben, dass ihr Vertrauen in Verwaltung und Politik gestiegen ist. Dass ein einheitliches bundesweites Gesetz fehlt, wurde zuletzt bei der Recherche zu Unregelmäßigkeiten bei der Verteilung der Fördergelder im Rahmen eines Corona-Rettungspakets offenbar, als Journalisten teils monatelang auf Antworten der einzelne Stellen warten und anschließend die verschiedenen Antwort-Formate noch aufbereiten mussten.
 
@@ -65,100 +69,54 @@ Jan Eggers [zeigt in seinem Blog](https://www.janeggers.tech/eeblog/2024/anwendu
 
 Das es in anderen Ländern weniger transparent zugeht zeigt, der [OONI Explorer](https://explorer.ooni.org/de). In ihm werden Beweise für die weltweite Internetzensur (d.h. (temporär) gesperrte oder bewusst gestörte Webseiten und Dienste) gesammelt. Der OONI-Datensatz [enthält inzwischen 2 Milliarden](https://mastodon.social/users/ooni/statuses/112037715839299480) durch die Community erfasste Echtzeit-Messungen seit 2012.
 
-## Ressourcensammlung
-* Das Bündnis Freie Bildung bündelt  Ressourcen und Fortbildungsmaterialien für die Entwicklung und den Einsatz von Open Educational Resources. Hier geht's zu den Offenheitskompetenzen:
-  https://buendnis-freie-bildung.de/offenheitskompetenzen/
-  via https://social.wikimedia.de/users/wikimediaDE/statuses/112036977818220407
-* How to Open Source Hardware
-  Hier entsteht eine Sammlung von Materialien, um sich zu spezifischen Themen Rund um Open Source Hardware zu informieren.
-  https://open-hardware-allianz.de/oer.html
-  via https://chaos.social/@openhardware/112134141238662787
-* OpenAccess: Klimawandel in Deutschland - Entwicklung, Folgen, Risiken und Perspektiven
-  https://www.pik-potsdam.de/de/aktuelles/nachrichten/klimawandel-in-deutschland-neue-publikation-zum-stand-der-forschung
-  https://link.springer.com/book/10.1007/978-3-662-66696-8
-* What Does ‘Failure’ Mean in Civic Tech? We Need Continued Conversations About Discontinuation
-  https://dl.acm.org/doi/pdf/10.1145/3641815
-  via https://social.bund.de/@Weizenbaum_Institut/112168166810061442
-* Build people power and capacity to run effective campaigns and movements to tackle the climate crisis
-  https://trainings.350.org
-* Gapminder identifies systematic misconceptions about important global trends and proportions and uses reliable data to develop easy to understand teaching materials to rid people of their misconceptions.
-  https://www.gapminder.org/teaching/materials/
-  https://upgrader.gapminder.org/t/climate-study-2024
-
 ## OpenData
-* The State of Open Data
-  Data for Development have just published a new version of the State of Open Data book
-  https://www.d4d.net/state-of-open-data/
-  https://www.d4d.net/state-of-open-data/chapters/sectors
-  via https://mastodon.me.uk/@ldodds/112061526866403420
-  * New Horizons - The State of Open Data in 2024
-    https://www.d4d.net/news/new-horizons-the-state-of-open-data-in-2024/
-* Karten der Wahlkreiseinteilung zur Bundestagswahl 2025 
-  https://www.bundeswahlleiterin.de/bundestagswahlen/2025/wahlkreiseinteilung/downloads.html
-* Das BKG hat das #Europamosaik aus #Sentinel2-Daten mit 10-Meter-Bodenauflösung aktualisiert (Datengrundlage 2021). Es steht als WMS frei zur Verfügung.
-  https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2024/240314_Europamosaik.html
-  via https://social.bund.de/@BKG/112126958668046031
-* Wir haben den Bericht zum Reifegrad offener Daten in der EU OpenData MaturityReport aufbereitet, durchsuchbar und leichter vergleichbar gemacht.
-  Schaut euch das Ergebnis selber an
-  https://demo.govdata.de/maturity-report/
-  via https://social.bund.de/@opendata/112130049556308235
-* Analysis on open data as a foundation for data-driven research
-  https://www.researchgate.net/publication/378672257_Analysis_on_open_data_as_a_foundation_for_data-driven_research
-  via https://mastodon.social/@leibnizopenscience/112140170896235727
-* Berlins Kerndatensätze
-  Welche Datensätze sind für Berliner:innen eigentlich besonders relevant?
-  https://odis-berlin.de/projekte/2023-02-kerndatens%C3%A4tze/
-* Vom Informationssilo zum Wissensnetzwerk: Am Beispiel der Organigramme arbeiten wir derzeit an einer praxisnahen Fallstudie, um zu lernen, wie mit wichtigen Basis-Informationen die Grundlage für Linked Open Data in Berlin gelegt werden kann.
-  https://odis-berlin.de/aktuelles/2024-03-28-linked-open-data/
+Das [Data for Development Network](https://www.d4d.net/) ist eine Vereinigung von Forschungsorganisationen im globalen Süden, die sich zum Ziel gesetzt haben, Wissen zum Einsatz von Daten und digitalen Technologien aufzubauen und zu teilen, um dieses ethisch verantwortungsvoll zur Bewältigung relevanter Entwicklungsprobleme einsetzen zu können und dabei vor allem die Perspektive des globalen Südens einzubringen. 2019 erschien ihre erste Ausgabe des [The State of Open Data](https://www.d4d.net/state-of-open-data/) Buchs, welches nun, 5 Jahre später, aktualisiert wurde. Im [Beitrag zur Aktualisierung](https://www.d4d.net/news/new-horizons-the-state-of-open-data-in-2024/) reflektieren die Autoren, wie sich die Sicht seitdem geändert hat. Sie zitieren Verhulst, der die Phrase "Dritte Welle von Open Data" geprägt hat, in der es nicht nur um das reine Öffnen von Datenbeständen geht, sondern um einen mehr zweckgerichteten Ansatz, um fachübergreifende Zusammenarbeit und Partnerschaften mit Daten wirksam zu unterstützen. Im Buch werden daher konsequent auch [verschiedene Sektoren beleuchtet](https://www.d4d.net/state-of-open-data/chapters/sectors).
 
-## Tools
-* XZ-UTILS: Wie die Computerwelt gerade haarscharf an einer Sicherheitskatastrophe vorbeigeschrammt ist
-  https://www.derstandard.at/story/3000000213960/wie-die-computerwelt-gerade-haarscharf-an-einer-sicherheitskatastrophe-vorbeigeschrammt-ist?ref=rss
+Passend dazu hat ein Paper auf Grundlage des [OpenAire Graph](https://graph.openaire.eu), einen Wissensgraphen über Forschungspublikationen, die Bedeutung von Open Data in datengetriebener Forschung [untersucht](https://www.researchgate.net/publication/378672257_Analysis_on_open_data_as_a_foundation_for_data-driven_research) und festgestellt, dass in den letzten Jahren die Anzahl der in öffentlichen Repositorien veröffentlichen Datensätze deutlich gestiegen ist.
 
-* Pandas.ai - Chat with your Database
-  https://github.com/Sinaptik-AI/pandas-ai
-* PyGWalker
-  Mit dem kostenlosen Python-Tool PyGWalker erstellen Sie schnell Visualisierungen für große Datenmengen.
-  https://github.com/Kanaries/pygwalker
-* Eine Open-Source-Plattform unterstützt nachhaltige Landwirt*innen
-  https://reset.org/eine-open-source-plattform-unterstuetzt-nachhaltige-landwirtinnen/  
-* Open Source Research Notebooks
-  https://www.bellingcat.com/resources/2024/03/06/how-code-notebooks-enable-open-source-research/
-  https://github.com/bellingcat/open-source-research-notebooks
+Um Wissensgraphen geht es bei einer praxisnahen Fallstudie zu Organigrammen. Mit dieser will die Open Data Informationsstelle Berlin (ODIS) die Potentiale und Herausforderungen bei der Umsetzung von Linked Open Data (LOD) in Berlin [erkunden](https://odis-berlin.de/aktuelles/2024-03-28-linked-open-data/). Eine dabei gewonnene Erkenntnis ist, dass Linked Open Data erst sein Potential entfalten wird, wenn eine kritische Masse an Wissen entsteht und die Informationssilos einem echtem Wissensnetzwerk weichen. Alles steht und fällt mit der Verfügbarkeit von qualitativ hochwertigen, aktuellen und von maschineninterpretierbaren Informationen - sonst heißt es schnell: Garbage in, garbage out, egal wie toll das gerade eingesetzte KI-Framework sein mag. Und für die Interoperabilität zwischen verschiedenen Datenquellen ist auch die Förderung und Entwicklung von LOD-Standards notwendig.
+
+## Civic Tech
+Vor etwa einem Jahr fand ein Workshop zum Thema [Learning from discontinued civic tech initiatives](https://discontinued-civictech.github.io) in Hamburg statt. Auf dem [Civic Tech Field Guide](https://civictech.guide), einer Sammlung von Projekten, die Technologie zum Wohle der Allgemeinheit einsetzen, gibt es inzwischen auch eine eigene Sektion, den [Civic Tech-Friedhof](https://civictech.guide/graveyard/). Diese wird auch in der neuen Publikation [What Does "Failure" Mean in Civic Tech? We Need Continued Conversations About Discontinuation](https://dl.acm.org/doi/pdf/10.1145/3641815) erwähnt. Dort wird unter anderem die Frage aufgeworfen, welche öffentlichen (IT-)Infrastrukturen es bräuchte, in denen auch zivilgesellschaftliche Tech-Projekte integriert werden könnten.
+
+Was in unserer Code for Germany Community passiert soll folgender Abriss zeigen: Code for Bielefeld hat einen [kurzen Film](https://www.youtube.com/watch?v=797Fj7fejmA) über ihren Workshop in den Herbstferien 2023 zum [Bodenfeuchte-Projekt](https://www.bodenfeuchte.org/) veröffentlich. Ebenfalls in [Videoform](https://www.youtube.com/watch?v=289RJwps2Sk) sind die [Workshops](https://ok-lab-karlsruhe.de/odd24-workshops/) des Open Data Day in Karlsruhe dokumentiert. Fotos vom Open Data Day in Flensburg finden sich auf [Facebook](https://www.facebook.com/photo/?fbid=319339601122026&set=pcb.319346251121361) und die von der Veranstaltung in Münster auf [Github](https://github.com/codeformuenster/codeformuenster-fotos-bilder/tree/master/2024-open-data-day). Die Umweltdatenwerkstatt in Leipzig fand auch am Open Data Day statt und wurde von einem Teilnehmer [auf seinem Blog dokumentiert](https://danielgerber.eu/2024/03/05/hackathon-bei-der-umweltdatenwerkstatt-koennen-daten-beim-artenschutz-helfen/). Auch der Hackday Niederrhein fand in Moers am gleichen Wochenende statt, auf der Veranstaltungsseite wurde inzwischen die [Präsentationen verlinkt](https://www.codeforniederrhein.de/hackday-2024/).
+
+In Köln sind auf einer [Karte des Digital Heritage Lab](https://digitalheritagelab.com/3DCologneMaps/index.html) Objekte verzeichnet, von denen man sich 3D-Modelle anzeigen lassen kann. Diese Modelle wurden allesamt ehrenamtlich erstellt. Im Blogeintrag, der das Modell vom Ostermann-Brunnen [vorgestellt](https://digitalheritagelab.com/index.php/2024/03/10/gaussian-splatting/), wird auch aufgerufen, bei weiteren 3D-Scans zu unterstützen.
+
+Vom 22. bis zum 24. März trafen sich über 20 ehrenamtliche Wikipedia-Aktive aus Berlin, Fürth, Hannover, München und Neu-Ulm [für ein Vernetzungstreffen im temporärhaus](https://temporaerhaus.de/lokalicon-treffen-der-lokalen-community-raeume/), bei dem unter anderem das Projekt [Zeitverschiebungen](https://www.klein-aber-fein.de/zeitverschiebungen/) aus Fürth vorgestellt worden ist.
+
+## Open Source
+Leicht verständlich hat der [Der Standard aufgeschrieben](https://www.derstandard.at/story/3000000213960/wie-die-computerwelt-gerade-haarscharf-an-einer-sicherheitskatastrophe-vorbeigeschrammt-ist) wie es fast gelungen wäre, eine auf vielen Millionen Rechnern eingesetzte Open-Source-Komponente zu kompromittieren. Durch Zufall ist dieser Versuch entdeckt worden. Fragt sich nur, ob Ähnliches nicht schon bei anderen Projekten gelungen ist, ohne bislang bemerkt zu werden. Entsprechend werden Rufe laut, dass große Firmen mehr Verantwortung bei der Unterstützung solcher Projekte übernehmen zu müssen, die aktuell nur von einzelnen schwer überarbeiteten Hobby-Entwicklern gepflegt werden.
+
+Denn die Schlussfolgerung sollte jetzt nicht sein, dass das mit proprietäre Software von großen Herstellern nicht passiert wäre, mal abgesehen davon, dass diese auch zu großen Teile auf Open Source Software basiert, weil kostenlos, auch wenn sie selbst nicht Open Source ist. Und Updates der verwendeten Bibliotheken werden in der Regel auch nicht nach möglichen schadhaften Code bei solchen Firmen untersucht.
+
+Das Schwerwiegender an nicht freier Software ist die Marktmacht, die große Konzerne durch sie gewinnen können. So auch in der Landwirtschaft. Dem möchte die kostenlose Open-Source-Plattform [LiteFarm](https://www.litefarm.org/) etwas entgegen setzen, wie Sarah-Indra Jungblut in ihrem [Artikel](https://reset.org/eine-open-source-plattform-unterstuetzt-nachhaltige-landwirtinnen/) uns informiert.
+
+Aber auch kleinere Tools können nützlich sein: So kann man mit [Pandas.ai](https://github.com/Sinaptik-AI/pandas-ai) seine Datenbank statt mit SQL auch mit natürlicher Sprache abfragen.
+
+Und mit [PyGWalker](https://github.com/Kanaries/pygwalker) lassen sich beliebige Pandas Dataframes in einer Benutzeroberfläche interaktiv erkunden.
+
+Miguel Ramalho [bricht eine Lanze](https://www.bellingcat.com/resources/2024/03/06/how-code-notebooks-enable-open-source-research/) für den Einsatz eben solcher Notebooks für die Analyse von Daten und das entsprechend Forschende lernen sollten, die Kommandzeile zu benutzen.
+
+## Ressourcensammlung
+Das [Bündnis Freie Bildung](https://buendnis-freie-bildung.de/) bündelt Ressourcen und Fortbildungsmaterialien für die Entwicklung und den Einsatz von [Open Educational Resources (OER)](https://open-educational-resources.de). Für die zielgerichtete Kompetenzentwicklung bei Lehrenden und Lernenden im Sinne einer offenen Bildung, gibt es nun ein [Modell der Offenheitskompetenzen](https://buendnis-freie-bildung.de/offenheitskompetenzen/).
+
+Open Educational Resources speziell für den Bereich Open Source Hardware trägt die Open Hardware Allianz [hier kontinuierlich zusammen](https://open-hardware-allianz.de/oer.html).
+
+Das [Schulungsmaterial](https://www.gapminder.org/teaching/materials/) und die Werkzeuge, die die schwedische Stiftung [Gapminder](https://www.gapminder.org/) zusammenträgt, haben dagegen zum Ziel, systematische Irrtümer über globale Entwicklungstrends und falsch wahrgenommene Größenverhältnisse aufzuklären, z.B. in der aktuellen [Climate Misconception Study](https://upgrader.gapminder.org/t/climate-study-2024).
 
 ### Recap
 * Mitschnitte vom Winterkongress 2024 der Schweizer Digitalen Gesellschaft
-  https://media.ccc.de/c/dgwk2024
-* Watch the recording of the Unwrapped, the Datawrapper conference happening between March 13-15, 2024
-  https://www.youtube.com/watch?v=yT0CkoWtPRg&list=PLbNzG9U26J3IzIpVzfZs2BSTbRBweQ9s3
+  * https://media.ccc.de/c/dgwk2024
+* Aufnahmen von der Datawrapper-Konferenz im März 2024
+  * https://www.youtube.com/watch?v=yT0CkoWtPRg&list=PLbNzG9U26J3IzIpVzfZs2BSTbRBweQ9s3
 * FOSSGIS 2024
-  https://media.ccc.de/c/fossgis2024
+  * https://media.ccc.de/c/fossgis2024
 * Easterhegg
-  https://media.ccc.de/c/eh21
-
-## Aus unserer Community
-* Hallo Moin aus Bielefeld! Was wir mit unserem Projekt www.bodenfeuchte.org so machen, zeigt der kurze Film über unseren Workshop in den Herbstferien 2023 sehr schön! 
-  https://www.youtube.com/watch?v=797Fj7fejmA
-* Hackday Niederrhein 2024 (mit verlinkten Präsentationen)
-  https://www.codeforniederrhein.de/hackday-2024/
-* Kurzfassung von unserem Karlsruher ODD Video
-  https://www.youtube.com/watch?v=289RJwps2Sk
-  * https://ok-lab-karlsruhe.de/odd24-workshops/
-* Open Data Day Münster
-  https://github.com/codeformuenster/codeformuenster-fotos-bilder/tree/master/2024-open-data-day
-* Open Data Day Flensburg
-  https://www.facebook.com/photo/?fbid=319339601122026&set=pcb.319346251121361
-* Umweltdatenwerkstatt in Leipzig
-  https://danielgerber.eu/2024/03/05/hackathon-bei-der-umweltdatenwerkstatt-koennen-daten-beim-artenschutz-helfen/
-* Digital Heritage Lab in Köln
-  https://digitalheritagelab.com/index.php/2024/03/10/gaussian-splatting/
-  https://digitalheritagelab.com/3DCologneMaps/index.html
-* Vom 22. bis zum 24. März trafen sich gerade über 20 ehrenamtliche Wikipedia-Aktive aus Berlin, Fürth, Hannover, München und Neu-Ulm für ein Vernetzungstreffen im temporärhaus
-  https://temporaerhaus.de/lokalicon-treffen-der-lokalen-community-raeume/
-  https://www.klein-aber-fein.de/zeitverschiebungen/
+  * https://media.ccc.de/c/eh21
 
 ## Und sonst so
-* https://www.fitko.de/aktuelles/details/datenleck-bei-govdata-fast-100000-datensaetze-aus-der-verwaltung-frei-im-netz
+Am 1. April 2024 [wurde festgestellt]((https://www.fitko.de/aktuelles/details/datenleck-bei-govdata-fast-100000-datensaetze-aus-der-verwaltung-frei-im-netz)), dass durch einen Vorfall bei GovData eine große Menge an Daten frei und ungeschützt im Netz verfügbar ist. Die betroffenen Daten umfassen Informationen zu verschiedensten Lebensbereichen sowie eine Vielzahl kuratierter Verwaltungsdaten.
 
 ## Veranstaltungen
 * Dienstag, 02.04.2024, 20:00, c-base, Berlin und online: **135. Netzpolitischer Abend: Europa vs. Big Tech? Von Plattformregulierung, Kartellrecht und Kompetenzgerangel**
