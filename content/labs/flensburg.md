@@ -26,7 +26,7 @@ links:
   url: https://twitter.com/oklabflensburg
 
 - name: Facebook
-    url: https://www.facebook.com/oklabflensburg
+  url: https://www.facebook.com/oklabflensburg
 
 - name: GitHub
   url: https://github.com/oklabflensburg
@@ -40,5 +40,6 @@ leads:
   url: mailto:oklabflensburg@grain.one
 ---
 
-Wir sind eine Gruppe von ehrenamtlich Aktiven mit Interesse an datenbasierten Anwendungen wie zum Beispiel Visualisierungen, interaktiven Informationssystemen und kartenbasierten Anwendungen.
-Wir treffen uns einmal pro Woche um an Konzepten und deren Umsetzung zu arbeiten. Bei uns kannst du jederzeit teilnehmen. Vorkenntnisse sind nicht erforderlich.
+Willkommen beim OK Lab Flensburg. Wir treffen uns wöchentlich, um uns über Themen rund um Open Data und Digitalisierung auszutauschen. Gemeinsam arbeiten wir an Ideen und Konzepten, die wir dann in Anwendungen umsetzen.
+
+Wir freuen uns über weitere Teilnehmer*innen. Vorkenntnisse sind nicht erforderlich. Die Termine findest du auf unserer Website.
