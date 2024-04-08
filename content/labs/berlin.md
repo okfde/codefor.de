@@ -182,25 +182,23 @@ members:
 
 
 links:
-- name: Get Together
-  url: https://gettogether.community/code-for-berlin/
 - name: Meetup
   url: http://www.meetup.com/OK-Lab-Berlin/
-- name: Twitter
-  url: http://twitter.com/codeforbe
-- name: Mailingliste
-  url: https://mlists.okfn.de/cgi-bin/mailman/listinfo/codeforberlin
+- name: Mastondon
+  url: https://chaos.social/@codeforbe
+- name: Github
+  url: https://github.com/codeforberlin
 
 feeds:
 - type: ical
   url: https://www.meetup.com/OK-Lab-Berlin/events/ical/
-- type: ical
-  url: https://gettogether.community/team/3242/events.ics
-
+- type: rss
+  url: https://chaos.social/@codeforbe.rss
+  
 leads:
 - name: E-Mail
   url: mailto:berlin@codefor.de
 
 ---
 
-Willkommen beim Berliner OK Lab! Wir sind etwa 30 Leute und arbeiten in verschiedenen Gruppen an Projekten rund um Open Data und Civic Tech. Wir kommen aus ganz verschiedenen Bereichen, entsprechend behandeln auch die Projekte an denen wir arbeiten ganz unterschiedliche Themen.
+Willkommen beim Berliner OK Lab! Wir sind etwa 30 Leute und arbeiten in verschiedenen Gruppen an Projekten rund um Open Data und Civic Tech. Wir kommen aus ganz verschiedenen Bereichen, entsprechend behandeln auch die Projekte an denen wir arbeiten ganz unterschiedliche Themen. Wir treffen uns jeden zweiten Montag im Monat im [Wikibär](https://de.wikipedia.org/wiki/Wikipedia:WikiB%C3%A4r) in der [Köpenicker Straße 45](https://www.openstreetmap.org/node/6488130826).
