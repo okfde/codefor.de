@@ -184,7 +184,7 @@ members:
 links:
 - name: Meetup
   url: http://www.meetup.com/OK-Lab-Berlin/
-- name: Mastondon
+- name: Mastodon
   url: https://chaos.social/@codeforbe
 - name: Github
   url: https://github.com/codeforberlin
