@@ -13,8 +13,6 @@ links:
   name: GitHub
 - url: https://overpass-turbo.eu
   name: Datenquelle
-- url: https://nahverkehr-flensburg.de
-  name: Website
 
 collaborators:
 - name: Aurelius Wendelken

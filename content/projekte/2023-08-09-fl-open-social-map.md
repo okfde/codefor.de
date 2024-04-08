@@ -13,23 +13,14 @@ links:
   name: GitHub
 - url: https://www.flensburg.de/Leben-Soziales/Familie-Soziales/Sozialatlas
   name: Datenquelle
-- url: https://sozialatlas.oklabflensburg.de
-  name: Website
 - url: https://dev.sozialatlas.oklabflensburg.de
   name: Aktueller Entwicklungstand
 
 collaborators:
-- name: Aurelius Wendelken
-
 - name: Roald Christesen
-
+- name: Aurelius Wendelken
 - name: Chantal Butenberg
-
 - name: Steffen Kunst
-
-- name: Gosia Tutaj
-
-- name: Gabi Ritter
 
 tags:
 - Politik

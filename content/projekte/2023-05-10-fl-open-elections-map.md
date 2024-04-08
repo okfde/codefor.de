@@ -13,16 +13,15 @@ links:
   name: GitHub
 - url: https://www.statistik-nord.de/wahlen/wahlen-in-schleswig-holstein/kommunalwahlen/informationen-zu-den-kommunalwahlen-in-schleswig-holstein-am-14-mai-2023
   name: Datenquelle
-- url: https://kommunalwahl-schleswig-holstein.de
-  name: Website
 
 collaborators:
 - name: Aurelius Wendelken
-  links:
-  - url: https://twitter.com/oklabflensburg
-    name: twitter
-  - url: https://github.com/oklabflensburg
-    name: github
+
+links:
+- url: https://twitter.com/oklabflensburg
+  name: twitter
+- url: https://github.com/oklabflensburg
+  name: github
 
 tags:
 - Gesellschaft

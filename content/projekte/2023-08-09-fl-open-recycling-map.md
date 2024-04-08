@@ -11,19 +11,10 @@ draft: false
 links:
 - url: https://github.com/oklabflensburg/open-recycling-map
   name: GitHub
-- url: https://recycling.oklabflensburg.de
-  name: Website
 
 collaborators:
 - name: Aurelius Wendelken
-
 - name: Roald Christesen
-
-- name: Alexander Eichhorn
-
-- name: Steffen Kunst
-
-- name: Gabi Ritter
 
 tags:
 - Gesellschaft

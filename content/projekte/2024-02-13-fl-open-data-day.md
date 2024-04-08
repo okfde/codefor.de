@@ -8,8 +8,6 @@ showcase: true
 draft: false
 
 links:
-- url: https://github.com/oklabflensburg/oddfl
-  name: GitHub
 - url: https://opendataday.org/de/
   name: Initiative
 - url: https://opendataday-flensburg.de
@@ -17,13 +15,15 @@ links:
 
 collaborators:
 - name: Chantal Butenberg
-- name: Aurelius Wendelken
 - name: Roald Christesen
 - name: David Bornemann
+- name: Aurelius Wendelken
 
 tags:
 - Gesellschaft
 
 ---
 
-Wir, das OK Lab Flensburg beteiligen uns am diesjährigen Open Data Day 2024 mit einer eigenen ganztägigen Veranstaltung welche wir überregional ausrichten, mit der wir alle Interessierten im echten Norden zu einem spannenden Austausch und Kennenlernen einladen. Es werden spannendes Talks rund um das Thema Open Data, Digitalisierung, KI, Mobilität zum aktuellen Stand des Open Data Portals in Schleswig-Holstein, Indikatoren einer gelungenen Verwaltungsdigitalisierung, Cyberangriffe mit generativer KI sowie Einblicke in das Programm Jugend hackt. Im Anschluss bei den Workshops und Sessions kannst du dich gezielt in einzelne Aspekte vertiefen. Den Abend möchten wir in gemütlicher Atmosphäre bei Pizza und Lounge-Musik ausklingen lassen.
+Das OK Lab Flensburg hat sich erstmalig 2024 am Open Data Day beteiligt. Dafür haben wir eine Website erstellt, die wir für weitere Open Data Days nutzen möchten.
+
+Der Open Data Day ist eine jährlich stattfindende Veranstaltung, um international auf die Bedeutung offener Daten hinzuweisen. An diesem Aktionstag stellen lokale Gruppen selbst organisierte Veranstaltungen auf die Beine.

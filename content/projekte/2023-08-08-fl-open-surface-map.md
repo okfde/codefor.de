@@ -13,15 +13,9 @@ links:
   name: GitHub
 - url: https://service.destatis.de/DE/karten/flaechenatlas2019daten.xlsx
   name: Datenquelle
-- url: https://bodennutzung.oklabflensburg.de
-  name: Website
 
 collaborators:
 - name: Aurelius Wendelken
-
-- name: Alexander Eichhorn
-
-- name: Steffen Kunst
 
 tags:
 - Umwelt
