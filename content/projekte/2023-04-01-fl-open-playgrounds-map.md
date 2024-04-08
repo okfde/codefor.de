@@ -11,8 +11,6 @@ draft: false
 links:
 - url: https://github.com/oklabflensburg/open-playgrounds-map
   name: GitHub
-- url: https://spielplatzkarte.oklabflensburg.de
-  name: Website
 
 collaborators:
 - name: Aurelius Wendelken
