@@ -5,7 +5,7 @@ imgname: berlin/berliner-badeseen.png
 title: Baden in Berlin
 
 links:
-- url: http://community.codefor.de/berliner-badestellen/
+- url: https://badestellen.berlin.codefor.de
   name: Website
 - url: https://github.com/MagdaN/berliner-badestellen
   name: Page on Github
