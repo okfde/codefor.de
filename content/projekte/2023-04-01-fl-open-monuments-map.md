@@ -13,8 +13,6 @@ links:
   name: GitHub
 - url: https://opendata.schleswig-holstein.de/organization/landesamt-fur-denkmalpflege
   name: Datenquelle
-- url: https://denkmalschutz-flensburg.de
-  name: Website
 
 collaborators:
 - name: Aurelius Wendelken

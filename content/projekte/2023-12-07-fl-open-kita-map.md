@@ -13,14 +13,12 @@ links:
   name: GitHub
 - url: https://www.flensburg.de/media/custom/2306_2545_1.PDF
   name: Datenquelle
-- url: https://kitas-in-flensburg.de
-  name: Website
 
 collaborators:
-- name: David Bornemann
 - name: Aurelius Wendelken
 - name: Roald Christesen
 - name: Chantal Butenberg
+- name: David Bornemann
 
 tags:
 - Gesellschaft

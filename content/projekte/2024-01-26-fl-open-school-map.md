@@ -13,13 +13,11 @@ links:
   name: GitHub
 - url: https://www.statistik-nord.de/fileadmin/Dokumente/Verzeichnisse/Schulverzeichnis_A_22-23.pdf
   name: Datenquelle
-- url: https://schulen-in-flensburg.de
-  name: Website
 
 collaborators:
-- name: David Bornemann
 - name: Aurelius Wendelken
 - name: Roald Christesen
+- name: David Bornemann
 
 tags:
 - Gesellschaft

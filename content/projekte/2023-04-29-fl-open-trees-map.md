@@ -13,19 +13,12 @@ links:
   name: GitHub
 - url: https://opendata.schleswig-holstein.de/dataset/baumkataster-flensburg-2023-05-11
   name: Datenquelle
-- url: https://baumkataster-flensburg.de
-  name: Website
 
 collaborators:
 - name: Aurelius Wendelken
-
 - name: Roald Christesen
-
 - name: Alexander Eichhorn
-
 - name: Steffen Kunst
-
-- name: Gabi Ritter
 
 tags:
 - Umwelt
