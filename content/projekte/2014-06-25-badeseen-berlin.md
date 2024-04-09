@@ -29,4 +29,4 @@ tags:
 
 ---
 
-Die Badesaison hat erföffnet! Erfahre, wo gebadet werden kann und wie die Wasserqualität an den einzelnen Badestellen ist.
+Die Badesaison hat eröffnet! Erfahre, wo gebadet werden kann und wie die Wasserqualität an den einzelnen Badestellen ist.
