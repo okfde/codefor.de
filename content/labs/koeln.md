@@ -11,53 +11,16 @@ aliases:
 
 members:
 
-- name: Marian Steinbach
-  username_github: marians
-  username_twitter: MarianSteinbach
-
 - name: Marcel Belledin
   username_github: marcel12bell
   username_twitter: MarcelBelledin
 
-- name: Patricia Ennenbach
-  username_github: P3nny
-  username_twitter: pen1710
-
-- name: Ingrid Bluoss
-  username_github: datenvisualisierung
-
-- name: Matthias
-  username_github: Matthias Krauss
-
 - name: Tim Becker
   username_github: a2800276
-
-- name: Thomas Liebig
-  username_github: thomasliebig
-
-- name: Rene Drexler
-  username_github: nifix777
-
-- name: Alex Brand
-  username_github: alinx
 
 - name: Wolfram Eberius
   username_github: weberius
   username_twitter: eberius
-
-- name: Horst Meyer
-  username_github: horald
-
-- name: Patrick Maué
-  username_github: pajoma
-
-- name: Karen Schwane
-  username_github: karen-sch
-  username_twitter: hi_i_am_karen
-
-- name: Peter Mayr
-  username_github: hatorikibble
-  username_twitter: hatorikibble
 
 - name: Christoph Finke
   username_github: chfinke
@@ -68,7 +31,7 @@ members:
 
 links:
 - name: Termine
-  url: https://gettogether.community/codeforcologne/
+  url: https://www.meetup.com/de-DE/codeforcologne/
 
 - name: Twitter
   url: http://twitter.com/codeforcologne
@@ -77,9 +40,6 @@ links:
   url: https://github.com/codeforcologne/FAQ/wiki#oklab-k%C3%B6ln---faq
 
 leads:
-- name: Marcel Belledin
-  url: mailto:info@codingcologne.de
-
 - name: Wolfram Eberius
   url: mailto:eberius@gmail.com
 
@@ -87,14 +47,14 @@ leads:
   url: mailto:contact@opendemdata.info
 
 ---
-Das Kölner OK Lab ist eine regionale Gruppe von Designern, Entwicklerinnen, Journalisten und Anderen, die sich regelmäßig treffen, um an nützlichen Anwendungen rund um Offene Daten zu arbeiten.
+Im OK Lab treffen sich Menschen, die sich für Offenes Wissen, Offene Daten, Partizipation und Digitalisierung in Köln interessieren.
 
-Unser Treffen findet alle zwei Wochen statt. Schaut einfach vorbei! Hier sind die Termine bei: [gettogether][]
+Wir unterhalten uns auf unseren Treffen über aktuelle digitale und digitalpolitische Themen, aber auch über Softwareentwicklung und konkrete Projekte.
 
-Wir entwickeln Anwendungen, die Kölner Spielplätze oder Denkmäler auf Karten zeigen, für Tiere aus Kölner Tierheimen per Twitter ein Zuhause suchen oder in 3D zeigen, wie viele junge Menschen wo in Köln wohnen.
+Das OK Lab bieten Menschen die Möglichkeit sich über eigene Projekte auszutauschen und durch Projekte anderer inspirieren zu lassen.
 
-Du bist Softwareentwicklerin oder Designer und hast Lust mit Deinen Fähigkeiten Deine Nachbarschaft/Stadt/Umgebung positiv zu beeinflussen? Oder Du möchtest dabei helfen, die Projekte aufzubereiten, Geschichten rund um die Anwendungen zu erzählen, sie zu erklären und Dich um Aufmerksamkeit für die Projekte kümmern?
+Gerne wagen wir immer wieder den Blick über den Tellerrand und die Grenzen Kölns hinaus.
 
-Dann bist Du herzlich eingeladen, mitzucoden, mitzulernen und mitzureden. Wir freuen uns auf Dich!
+Unser Treffen findet alle zwei Wochen statt. Schaut einfach vorbei! Hier sind die Termine bei: [meetup][]
 
-[gettogether]: https://gettogether.community/codeforcologne/
+[meetup]: https://www.meetup.com/de-DE/codeforcologne/
