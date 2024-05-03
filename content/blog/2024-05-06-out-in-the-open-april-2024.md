@@ -1,5 +1,5 @@
 ---
-title: "Hasch mich, ich bin der Frühling – Out in the Open April 2024"
+title: "Vorsicht, glitchig [sic]! – Out in the Open April 2024"
 author: "Jörg Reichert (Code for Leipzig)"
 date: '2024-05-06T08:00:00+02:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
@@ -36,18 +36,10 @@ type: blog
 * Unser #OpenData Projekt macht Fortschritte! Der CityRadar-Sensor erfasst selbstständig Autos und misst ihre Geschwindigkeit. Daraus soll ein Netzwerk zivilgesellschaftlicher Verkehrsmessungen entstehen. Bald ist es soweit! FabLab #Cottbus rocks :) https://fablab-cottbus.de/projects/CitRad/ #OpenHardware
   https://fablab-cottbus.de/projects/CitRad/
   via https://chaos.social/@mavo/112207235324835107
-* Planung und Verbesserung von Fahrradwegen 
+* Planung und Verbesserung von Fahrradwegen
   https://radweg-radar.de/
   * wie kommt man an die Rohdaten?
-* Für eine datenbasierte Unterstützung der Radverkehrsplanung werden zum einen Fahrraddaten 
-  von Bürger:innen erfasst, die regelmäßig Rad fahren und mehrere Wochen mithilfe eines Sensors 
-  und einer App ihre Fahrten aufzeichnen und bewerten. Im Rahmen des Forschungsprojekts werden 
-  in Oldenburg und Osnabrück in mehreren Erhebungsrunden (Praxisbefahrungen) Fahrraddaten zur 
-  Bestimmung der Radwegequalität im gesamten Stadtgebiet erfasst. Die Erhebungsrunden in Oldenburg 
-  wurden im Zeitraum von März bis Dezember 2023 durchgeführt. Die Erhebungsrunde in Osnabrück 
-  startet im April 2024.  Die erfassten Fahrraddaten sind anonymisiert im BIQEmonitor visualisiert 
-  und sind öffentlich zugänglich. Teilnehmende der Erhebungsrunden können zusätzliche ihre 
-  eigenen Fahrten einsehen.   
+* Für eine datenbasierte Unterstützung der Radverkehrsplanung werden zum einen Fahrraddaten von Bürger:innen erfasst, die regelmäßig Rad fahren und mehrere Wochen mithilfe eines Sensors und einer App ihre Fahrten aufzeichnen und bewerten. Im Rahmen des Forschungsprojekts werden in Oldenburg und Osnabrück in mehreren Erhebungsrunden (Praxisbefahrungen) Fahrraddaten zur Bestimmung der Radwegequalität im gesamten Stadtgebiet erfasst. Die Erhebungsrunden in Oldenburg wurden im Zeitraum von März bis Dezember 2023 durchgeführt. Die Erhebungsrunde in Osnabrück startet im April 2024.  Die erfassten Fahrraddaten sind anonymisiert im BIQEmonitor visualisiert und sind öffentlich zugänglich. Teilnehmende der Erhebungsrunden können zusätzliche ihre eigenen Fahrten einsehen.
   https://www.biqemonitor.de/
   https://www.biqemonitor.de/quality
 * KVB Live Fahrplan (Alternative, kommerziell von Startup)
@@ -268,5 +260,13 @@ Es werden noch (ehrenamtliche)  (Frontend-)-Entwickler:innen gesucht.In die Erar
   * https://app.guestoo.de/public/event/d368fcda-a2cb-4590-98a4-6afea4365980
 * Donnerstag, 30.05.2024, bis Sonntag, 02.06 2024, Hochschule für Gestaltung (HfG), Lorenzstr. 15, Karlsruhe: **22. Gulaschprogrammiernacht (GPN)**
   * https://entropia.de/GPN22
-* Call for Paper: Netzpolitik, die Konferenz, 13. September 2024, Einreichungen bis 16.6.
+* Donnerstag, 06.06.2024, 19:31: **Bits und Bäume Online-Community-Treffen**
+  * https://wiki.bits-und-baeume.org/community-treffen/
+  * https://bbb.tu-dresden.de/rooms/qje-7si-xu1-lul/join
+
+## Call for Papers
+* Call for Paper: Netzpolitik, die Konferenz, 13.09.2024, Einreichungen bis 16.06.2024
   * https://pretalx.com/netzpolitik-org-2024/cfp
+* Call for Paper: Datenspuren, 20.09.2024 bis 22.09.2024, Einreichungen bis 31.07.2024
+  * https://datenspuren.de/2024/
+  * https://talks.datenspuren.de/ds24/
