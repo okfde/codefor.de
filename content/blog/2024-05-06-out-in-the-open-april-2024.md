@@ -12,10 +12,10 @@ type: blog
 ---
 
 ## Citizen Science
-* Gemeinsam Wissen schaffen: Eine Plattform lädt seit 10 Jahren zum Mitforschen ein
-  https://www.wissenschaft-im-dialog.de/medien/pressemitteilungen/artikel/beitrag/gemeinsam-wissen-schaffen-eine-plattform-laedt-seit-10-jahren-zum-mitforschen-ein/
-  https://www.mitforschen.org
-* Citizen Science professionalisiert sich
+* [Gemeinsam Wissen schaffen: Eine Plattform lädt seit 10 Jahren zum Mitforschen ein](
+  https://www.wissenschaft-im-dialog.de/medien/pressemitteilungen/artikel/beitrag/gemeinsam-wissen-schaffen-eine-plattform-laedt-seit-10-jahren-zum-mitforschen-ein/)
+  * https://www.mitforschen.org
+* Citizen Science professionalisiert sich:
   Der Antrag der Ampelkoalition umfasst 17 Maßnahmen, darunter auch die Absicht, „die Wirkungen von Bürgerwissenschaften stärker anzuerkennen, sichtbar zu machen und ihre Verankerung in Leitbildern und Zielvereinbarungen zu befördern“.
   https://taz.de/Citizen-Science-professionalisiert-sich/!6002098/
 * Citizen Science: Collections, Connections & Collaborations
@@ -23,14 +23,13 @@ type: blog
   via https://mastodon.nz/@siobhan_leachman/112221911688324775
 
 ## Standardisierung
-* Rechtsgutachten zeigt: Öffentliche Hand darf und sollte CC-Lizenzen nutzen
-  https://blog.wikimedia.de/2024/04/04/rechtsgutachten-zeigt-oeffentliche-hand-darf-und-sollte-cc-lizenzen-nutzen/
-* Schleswig-Holstein und Hamburg entwickeln offenen UX-Standard: kern-ux.de
-  http://kern-ux.de
-* Staatsbibliothek Schnittstellen
-  Sie kennen vermutlich bereits unsere Digitalisierten Sammlungen, in denen wir aktuell (Stand: April 2024) rund 210.000 digitalisierte Objekte aus dem Bestand der SBB online präsentieren? Mit einer Vielzahl an Features (für aktuell in der Entwicklung befindliche Funktionen siehe auch die Beta-Version der Digitalisierten Sammlungen) hoffen wir, die Suche und das Stöbern in unseren Digitalisaten möglichst einfach und effizient zu gestalten.
+* Rechtsgutachten zeigt: [Öffentliche Hand darf und sollte CC-Lizenzen nutzen](
+  https://blog.wikimedia.de/2024/04/04/rechtsgutachten-zeigt-oeffentliche-hand-darf-und-sollte-cc-lizenzen-nutzen/)
+* Schleswig-Holstein und Hamburg entwickeln offenen UX-Standard: [kern-ux.de](https://kern-ux.de)
+* Staatsbibliothek Schnittstellen:
+  "Sie kennen vermutlich bereits unsere Digitalisierten Sammlungen, in denen wir aktuell (Stand: April 2024) rund 210.000 digitalisierte Objekte aus dem Bestand der SBB online präsentieren? Mit einer Vielzahl an Features (für aktuell in der Entwicklung befindliche Funktionen siehe auch die Beta-Version der Digitalisierten Sammlungen) hoffen wir, die Suche und das Stöbern in unseren Digitalisaten möglichst einfach und effizient zu gestalten."
   https://lab.sbb.berlin/dc/
-  https://openbiblio.social/@awinkler/112270531007443892
+  via https://openbiblio.social/@awinkler/112270531007443892
 
 ## Verkehr
 * Unser #OpenData Projekt macht Fortschritte! Der CityRadar-Sensor erfasst selbstständig Autos und misst ihre Geschwindigkeit. Daraus soll ein Netzwerk zivilgesellschaftlicher Verkehrsmessungen entstehen. Bald ist es soweit! FabLab #Cottbus rocks :) https://fablab-cottbus.de/projects/CitRad/ #OpenHardware
@@ -55,7 +54,7 @@ type: blog
   * https://wn49.stadtarmmobil.de/
 
 ## Parlamente
-* Bundestagszusammenfasser
+* Bundestagszusammenfasser:
   Alle Gesetzesvorhaben der aktuellen Legislaturperiode – vom Eckpunktepapier bis zur Verkündung, alles an einem Ort.
   https://panoptikum.social/episodes/8875509
   https://bundestagszusammenfasser.de
@@ -65,19 +64,19 @@ type: blog
   via https://machteburch.social/@JensWinter/112338832335156748
 
 ## Linked Open Data
-* Wir explorieren technisch, wie man eine “Dreistern”-CSV-Datei in eine “Vierstern”-RDF-Datei übersetzen kann
-  https://www.jbusse.de/2023_ss_logd/3star-4star.html
+* [Johannes Busse](https://www.jbusse.de/) [HAW Landshut] [exploriert technisch](https://www.jbusse.de/2023_ss_logd/3star-4star.html), wie man eine “Drei-Stern”-CSV-Datei in eine “Vier-Stern”-RDF-Datei übersetzen kann
+  
 * Vulgarity and Cloud Orthodoxy in Linked Data Infrastructures
   https://jon-e.net/surveillance-graphs/
   via https://mastodon.social/@leibnizopenscience/112234778277080145
-* Wie das Naturkundemuseum mit Linked Open Data unbekannte Forschende sichtbar macht
-  https://blog.wikimedia.de/2024/04/22/wie-das-naturkundemuseum-mit-linked-open-data-unbekannte-forschende-sichtbar-macht/
+* Wie das Naturkundemuseum mit Linked Open Data unbekannte Forschende [sichtbar macht](
+  https://blog.wikimedia.de/2024/04/22/wie-das-naturkundemuseum-mit-linked-open-data-unbekannte-forschende-sichtbar-macht/)
 
 ## KI
 * Meta AI hat heute Llama 3, die nächste Generation seiner Open-Source-Sprachmodelle, veröffentlicht. Laut Meta sollen die neuen Modelle den besten proprietären Modellen ebenbürtig sein und bald auch Multimodalität und mehr Sprachen unterstützen.
   https://the-decoder.de/llama-3-meta-veroeffentlicht-neue-leistungsfaehige-open-source-sprachmodelle/
   https://llama.meta.com/
-  * https://www.heise.de/news/Meta-AI-laeuft-jetzt-mit-Llama-3-9690318.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon
+  * https://www.heise.de/news/Meta-AI-laeuft-jetzt-mit-Llama-3-9690318.html
   
 * Moderne koloniale Arbeitsausbeutung dank Big Tech
   https://netzpolitik.org/2024/von-wegen-kuenstliche-intelligenz-indische-arbeitskraefte-steckten-hinter-amazons-smarten-supermarktkassen/
@@ -90,20 +89,20 @@ type: blog
   https://tinycities.net/@dirkhaun/112268281845259923
   https://netzpolitik.org/2024/degitalisierung-infinite-money-glitch/
 * Das kostenlose KI-Tool der gemeinnützigen Organisation TrueMedia.org soll über 90 Prozent der Deepfakes erkennen. US-Journalisten etwa können es bereits nutzen.
-  https://www.heise.de/news/Deepfakes-Kostenloses-KI-Tool-erkennt-gefaelschte-Bilder-Audios-und-Videos-9673953.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon
+  https://www.heise.de/news/Deepfakes-Kostenloses-KI-Tool-erkennt-gefaelschte-Bilder-Audios-und-Videos-9673953.html
 * Limits of data: 
   Decontextualization / Filtering
   Who created the system of categories into which the data is sorted? What information does that system emphasize, and what does it leave out? Whose interests are served by that filtration system?
   https://issues.org/limits-of-data-nguyen/
-* Gesetzesvorhaben in den USA fordert Offenlegung der KI-Trainingsdaten
+* Gesetzesvorhaben in den USA fordert Offenlegung der KI-Trainingsdaten:
   Trainingsdaten von KI-Modellen sollen offen gelegt werden, urheberrechtlich geschütztes Material offenbart – das fordert eine Initiative eines US-Demokraten. 
-  https://www.heise.de/news/Gesetzesvorhaben-in-den-USA-fordert-Offenlegung-der-KI-Trainingsdaten-9681321.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon
+  https://www.heise.de/news/Gesetzesvorhaben-in-den-USA-fordert-Offenlegung-der-KI-Trainingsdaten-9681321.html
 * KI hat Potenziale für den Umwelt- und Klimaschutz, sind sich Experten einig. Beim Ressourcenverbrauch müssten Betreiber großer Modelle aber die Kurve kriegen.
-  https://www.heise.de/news/Energiehungrige-Sprachmodelle-Ruf-nach-Leitplanken-fuer-gruene-KI-9682041.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon
+  https://www.heise.de/news/Energiehungrige-Sprachmodelle-Ruf-nach-Leitplanken-fuer-gruene-KI-9682041.html
 * EFI-Gutachten 2024 zu KI und smarte Landwirtschaft
   https://mdb.anke.domscheit-berg.de/2024/04/der-adb-podcast-31/
   https://www.e-fi.de/dashboard
-* Generation 5 KI-Gebäudeerkennung und Generation 1 KI-versiegelte-Flächen-Erkennung
+* 5. Generation einer KI-Gebäudeerkennung und 1. Generation einer KI-versiegelte-Flächen-Erkennung
   https://mastodon.social/@jonasbostelmann/112285193993602344
 * "Power demand from datacenters in the Chicago area is set to increase ninefold, in more evidence that AI adoption is will put further strain electricity supplies. There are about 25 datacenter projects planned in the area around Chicago that would consume an estimated 5 GW of power."
   https://www.theregister.com/2024/04/19/ai_set_to_drive_up/
@@ -127,23 +126,23 @@ type: blog
   https://www.youtube.com/watch?v=Qrg84lBGAVk
 * our crucial challenge was the quality of data and availability. I don’t mean this in the technical sense, because that was relatively easy to overcome. Rather, what I have in mind are instances when data is not being collected systematically.
   https://democracy-technologies.org/industry-news/a-must-for-every-city-open-data-in-kosice/
-* Open Data Editor: what we learned from user research
+* Open Data Editor: What we learned from user research
   https://blog.okfn.org/2024/04/11/open-data-editor-what-we-learned-from-user-research/
 * A basis for better definitions of “open”
   https://blog.ldodds.com/2024/04/14/a-basis-for-better-definitions-of-open/
 * Ist die Anzahl der Datensätze wirklich das einzige Messinstrument für den Erfolg von #opendata -Portalen?
   Über ein sinnvolles Ranking … aktuell in der Session beim #kodb24 Barcamp
   https://social.bund.de/@opendata/112285953599029559
-* es gibt eine "api zum digitalisierungsfortschritt der öffentlichen verwaltung
+* Es gibt eine "API zum Digitalisierungsfortschritt der Öffentlichen Verwaltung"
   https://dashboard-daten.digitale-verwaltung.de/api/swagger-ui/index.html
   https://dashboard-daten.digitale-verwaltung.de/api/v3/api-docs
-  https://chaos.social/@jk/112288769344379219	
+  via https://chaos.social/@jk/112288769344379219	
 * Dashboards
   https://social.bund.de/@opendatabund/112298282625798941
 * Debunking Myths Around Open Data
   https://www.sortee.org/blog/2024/04/12/2024_open_data_myths/
-* Registerlandkarte - Übersicht über die bestehenden Register in Deutschland  
-  https://www.heise.de/news/Bundesverwaltungsamt-veroeffentlicht-Registerlandkarte-9702353.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon
+* Registerlandkarte: Übersicht über die bestehenden Register in Deutschland  
+  https://www.heise.de/news/Bundesverwaltungsamt-veroeffentlicht-Registerlandkarte-9702353.html
   https://registerlandkarte.de/landingpage
   * https://mastodon.social/@bkastl/112355861029790186
 
@@ -210,32 +209,33 @@ Es werden noch (ehrenamtliche)  (Frontend-)-Entwickler:innen gesucht.In die Erar
     https://wisskomm.social/@Leibniz_IfL/112360299132565771
 
 ## OpenSource
-* German federal state Schleswig-Holstein moving 30,000 PCs to LibreOffic
+* German federal state Schleswig-Holstein moving 30000 PCs to LibreOffice
   https://blog.documentfoundation.org/blog/2024/04/04/german-state-moving-30000-pcs-to-libreoffice/
   * https://osb-alliance.de/featured/schleswig-holstein-macht-libreoffice-zur-standard-office-loesung-in-der-verwaltung
 * xz-Attacke: Hinweise auf ähnliche Angriffsversuche bei drei JavaScript-Projekten
-  https://www.heise.de/news/xz-Attacke-Hinweise-auf-aehnliche-Angriffsversuche-bei-drei-JavaScript-Projekten-9687246.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon
+  https://www.heise.de/news/xz-Attacke-Hinweise-auf-aehnliche-Angriffsversuche-bei-drei-JavaScript-Projekten-9687246.html
 * EU-Institutionen sind auf #Mastodon und Peertube aktiv, dank eines Pilotprojekts des Europäischen Datenschutzbeauftragten. Weil aber nach zwei Jahren keine EU-Institution die #Fediverse-Server übernehmen will, werden diese im Mai kurzerhand abgeschaltet.
   https://netzpolitik.org/2024/mastodon-und-peertube-eu-macht-fediverse-dicht-weil-niemand-die-server-betreiben-will/
   https://23.social/@markusreuter/112336988934396440
   * Unser Engagement für das Fediverse wird fortbestehen: https://social.network.europa.eu/@EU_Commission/112338626558805977
 * Microsoft veröffentlicht Quellcode für MS-DOS 4.0
-  https://www.heise.de/news/Microsoft-veroeffentlicht-Quellcode-fuer-MS-DOS-4-0-9700190.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon
-* Mastodon Mastodon gGmbH wurde scheinbar die Gemeinnützigkeit aberkannt: 
-  https://freiburg.social/@hendrik/112349218139711443
+  https://www.heise.de/news/Microsoft-veroeffentlicht-Quellcode-fuer-MS-DOS-4-0-9700190.html
+* Mastodon: Mastodon gGmbH wurde vom Finanzamt die Gemeinnützigkeit aberkannt – man könne "nur spekulieren, was die Ursache ist". 
+  * https://www.heise.de/news/Mastodon-Laut-Finanzamt-nicht-mehr-gemeinnuetzig-9701317.html
+  * https://freiburg.social/@hendrik/112349218139711443
   * https://bewegung.social/@Allianz_Polit_Willensbildung/112353479573078607
 * When embracing open source, one must be intentional about being inclusive
   https://blog.okfn.org/2024/03/25/angela-oduor-lungati-when-embracing-open-source-one-must-be-intentional-about-being-inclusive/
 
 ## Kommunalwahlen / Europawahlen
 * Wahlprüfsteine
-  * https://science-o-mat.de (für Europawahl in Kürze verfügbar)
+  * https://science-o-mat.de (für Europawahl jetzt verfügbar)
 * Wahl-O-Mat zur Europawahl: Mit 38 Thesen zu mehr politischer Orientierung
-  https://www.heise.de/news/Wahl-O-Mat-zur-Europawahl-geht-im-Mai-online-9702307.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon
-  https://www.bpb.de/themen/wahl-o-mat/ --> ab 7. Mai mittags
+  https://www.heise.de/news/Wahl-O-Mat-zur-Europawahl-geht-im-Mai-online-9702307.html
+  https://www.bpb.de/themen/wahl-o-mat/ 
 
 ## Und sonst so
-*  search engine of old-school Geocities animated GIFs
+* Search engine for old-school Geocities animated GIFs
   https://gifcities.org
   via https://433.world/@Yuvalne/112212179588079476
 * Neues Code-for-Lab in Forst:
