@@ -52,6 +52,8 @@ type: blog
 * 1 Jahr 49 Euro Ticket
   https://social.bund.de/@Bundesregierung/112365293768008733
   * https://wn49.stadtarmmobil.de/
+* superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities
+  * https://arxiv.org/abs/2404.15062
 
 ## Parlamente
 * Bundestagszusammenfasser:
@@ -183,6 +185,8 @@ Es werden noch (ehrenamtliche)  (Frontend-)-Entwickler:innen gesucht.In die Erar
 * Looking for success stories to make the case for open practices? We have examples of how #OpenAccess, #OpenData, #OER & #OpenScience have resulted in advancements in disease prevention, economic development, crisis management, career development & more.
   https://sparcopen.org/impact-stories/
   via https://mastodon.social/@sparc/112208794732776044
+* MOOC zu “OER in Higher Education” in 11 Sprachen
+  https://open-educational-resources.de/mooc-startet-oer-in-higher-education/
 
 ## Kartendaten
 * We make the Agroecology Map data available in GeoJSON format so that you can use it in your analyses. You can now export all data and use it under the Creative Commons 4.0 (BY-NC-SA 4.0) license.
@@ -233,6 +237,18 @@ Es werden noch (ehrenamtliche)  (Frontend-)-Entwickler:innen gesucht.In die Erar
 * Wahl-O-Mat zur Europawahl: Mit 38 Thesen zu mehr politischer Orientierung
   https://www.heise.de/news/Wahl-O-Mat-zur-Europawahl-geht-im-Mai-online-9702307.html
   https://www.bpb.de/themen/wahl-o-mat/ 
+  https://www.wahl-o-mat.de/europawahl2024/app/main_app.html
+* BUND: Abstimmungsverhalten im EU-Parlament: So stimmten Parteien in der laufenden Legislatur ab
+  * https://www.bund.net/europawahl/bilanz-legislatur  
+* EU-Parlament 2019 bis 2024 - Abstimmungen
+  https://www.abgeordnetenwatch.de/eu/9/abstimmungen
+* Klimawahlcheck
+  https://klimawahlcheck.eu/
+* WahlSwiper
+  https://www.voteswiper.org/de  
+  https://www.voteswiper.org/de/deutschland/europawahl-2024
+* Digitale Kommunalwahlhilfe für diverse Städte:
+  https://app.voto.vote/
 
 ## Und sonst so
 * Search engine for old-school Geocities animated GIFs
@@ -247,10 +263,18 @@ Es werden noch (ehrenamtliche)  (Frontend-)-Entwickler:innen gesucht.In die Erar
 * Dienstag, 07.05.2024, 20:00, c-base, Berlin und online: **136. Netzpolitischer Abend: Aktivismus im Visier – Überwachung in politischen Strafverfahren**
   * https://digitalegesellschaft.de/2024/04/136-netzpolitischer-abend
   * Stream: https://www.youtube.com/cbasespacestation
+* Dienstag, 14.05.2024, 13:00-16:00, Seeburg, Düsternbrooker Weg 2, Kiel: **Linked Open Data in Schleswig-Holstein: Potenziale und Anwendungen**
+  * https://digitalewochekiel.de/programm/01hqqhf8z13xdcwd42rw7qpyq1
+* Dienstag, 14.05.2024, 11:00-11:30, online: **Espresso Runde mit Mario Wiedemann: Open Data und Zivilgesellschaft**
+  * https://community.civic-data.de/s/willkommens-space/calendar/entry/view?id=67
+* Donnerstag, 16.05.2024, 11:00-12:00, online: **Open CoDE Kickoff**
+  * https://zendis.usercontent.opencode.de/opencode-events/kickoff/
 * Dienstag, 21.05.2024: **14. Open-Data-Netzwerktreffen: Urbane Datenplattformen und Open Data**
   * https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/das-kommunale-open-data-netzwerktreffen#c234826
 * Freitag, 24.05.2024, 08:30-17:00, Fribourg, Schweiz: **Opendata.ch/2024 Forum**
   * https://eventfrog.ch/fr/p/visites-conferences/conference/opendata-ch-2024-forum-7140116660074006887.html
+* Freitag, 24.05.2024, bis, Sonntag, 26.05.2024, Hochschule für Technik und Wirtschaft Dresden, Friedrich-List-Platz 1, Dresden: **Open Data Camp 2024: Cool down - hack die Extreme**
+  * https://slubdd.de/opendatacamp
 * Samstag, 25.05.2024, bis Sonntag, 26.05.2024, Moers
   * https://www.ki-ideenwerkstatt.de/veranstaltungen/umweltdatenwerkstatt/
   * https://datenschule.de/workshops/umweltdatenwerkstatt/
@@ -258,6 +282,11 @@ Es werden noch (ehrenamtliche)  (Frontend-)-Entwickler:innen gesucht.In die Erar
   * https://re-publica.com/de
 * Donnerstag, 30.05.2024, 09:30-16:30, Frizz Forum, Friedrichstraße 23, Berlin: **Civic Data Camp: Das Barcamp für Daten-Entdecker:innen**
   * https://app.guestoo.de/public/event/d368fcda-a2cb-4590-98a4-6afea4365980
+* 30.05.2024, 17:00-19:00, IÖW, Potsdamer Str. 105, Berlin: **Citizen-Workshop: Mobilitätsforschung mitgestalten**
+  * https://amber-forschung.de/de/Aktuelles/
+  * Anmeldung bis 15.05.2024
+
+
 * Donnerstag, 30.05.2024, bis Sonntag, 02.06 2024, Hochschule für Gestaltung (HfG), Lorenzstr. 15, Karlsruhe: **22. Gulaschprogrammiernacht (GPN)**
   * https://entropia.de/GPN22
 * Donnerstag, 06.06.2024, 19:31: **Bits und Bäume Online-Community-Treffen**
@@ -265,6 +294,8 @@ Es werden noch (ehrenamtliche)  (Frontend-)-Entwickler:innen gesucht.In die Erar
   * https://bbb.tu-dresden.de/rooms/qje-7si-xu1-lul/join
 
 ## Call for Papers
+* Call for Participants: Code of Conduct Demokratische KI für die Zivilgesellschaft, Bewerbungsschluss: 22.05.2024
+  * https://d-64.org/demokratische-ki-cfp/
 * Call for Paper: Netzpolitik, die Konferenz, 13.09.2024, Einreichungen bis 16.06.2024
   * https://pretalx.com/netzpolitik-org-2024/cfp
 * Call for Paper: Datenspuren, 20.09.2024 bis 22.09.2024, Einreichungen bis 31.07.2024
