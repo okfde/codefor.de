@@ -1,5 +1,5 @@
 ---
-title: "Vorsicht, glitchig [sic]! – Out in the Open April 2024"
+title: "Mediokratie – Out in the Open April 2024"
 author: "Jörg Reichert (Code for Leipzig)"
 date: '2024-05-06T08:00:00+02:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
@@ -12,35 +12,66 @@ type: blog
 ---
 
 ## Citizen Science
-* [Gemeinsam Wissen schaffen: Eine Plattform lädt seit 10 Jahren zum Mitforschen ein](
-  https://www.wissenschaft-im-dialog.de/medien/pressemitteilungen/artikel/beitrag/gemeinsam-wissen-schaffen-eine-plattform-laedt-seit-10-jahren-zum-mitforschen-ein/)
-  * https://www.mitforschen.org
-* Citizen Science professionalisiert sich:
-  Der Antrag der Ampelkoalition umfasst 17 Maßnahmen, darunter auch die Absicht, „die Wirkungen von Bürgerwissenschaften stärker anzuerkennen, sichtbar zu machen und ihre Verankerung in Leitbildern und Zielvereinbarungen zu befördern“.
-  https://taz.de/Citizen-Science-professionalisiert-sich/!6002098/
-* Citizen Science: Collections, Connections & Collaborations
-  https://www.youtube.com/watch?v=u8EghOSdzEA
-  via https://mastodon.nz/@siobhan_leachman/112221911688324775
+Bei Citizen Science arbeiten Personen in ihrer Freizeit auf Augenhöhe mit hauptamtlichen Wissenschaftlerinnen und Wissenschaftlern in Forschungsprojekten zusammen. Um diese Projekt zu präsentieren und zu unterstützen, wurde vor genau 10 Jahren die Online-PLattform "Bürger schaffen Wissen" von ["Wissenschaft im Dialog"](https://www.wissenschaft-im-dialog.de/) und dem [Museum für Naturkunde Berlin](https://www.museumfuernaturkunde.berlin/de) ins Leben gerufen. Mit 10 Projekten 2014 gestartet, bündelt sie inzwischen über 270 Citizen-Science-Projekte. Wie der [Pressemitteilung](https://www.wissenschaft-im-dialog.de/medien/pressemitteilungen/artikel/beitrag/gemeinsam-wissen-schaffen-eine-plattform-laedt-seit-10-jahren-zum-mitforschen-ein/) zu entnehmen ist, gibt man sich zum runden Geburtstag einen neuen Namen: mit:forschen. Die Webseite zieht entsprechend auf die Domäne [mitforschen.org](https://www.mitforschen.org) um. Der Antrag [Wissenschaftskommunikation systematisch und umfassend stärken](https://dserver.bundestag.de/btd/20/106/2010606.pdf) der Ampel-Koalation fordert passend dazu, "die Wirkungen von Bürgerwissenschaften stärker anzuerkennenn, sichtbar zu machen und ihre Verankerung in Leitbildern und Zielvereinbarungen zu befördern", wie die [taz](https://taz.de/Citizen-Science-professionalisiert-sich/!6002098/) ergänzend berichtet.
 
-## Standardisierung
-* Rechtsgutachten zeigt: [Öffentliche Hand darf und sollte CC-Lizenzen nutzen](
-  https://blog.wikimedia.de/2024/04/04/rechtsgutachten-zeigt-oeffentliche-hand-darf-und-sollte-cc-lizenzen-nutzen/)
-* Schleswig-Holstein und Hamburg entwickeln offenen UX-Standard: [kern-ux.de](https://kern-ux.de)
-* Staatsbibliothek Schnittstellen:
-  "Sie kennen vermutlich bereits unsere Digitalisierten Sammlungen, in denen wir aktuell (Stand: April 2024) rund 210.000 digitalisierte Objekte aus dem Bestand der SBB online präsentieren? Mit einer Vielzahl an Features (für aktuell in der Entwicklung befindliche Funktionen siehe auch die Beta-Version der Digitalisierten Sammlungen) hoffen wir, die Suche und das Stöbern in unseren Digitalisaten möglichst einfach und effizient zu gestalten."
-  https://lab.sbb.berlin/dc/
-  via https://openbiblio.social/@awinkler/112270531007443892
+In ihrer [Keynote](https://www.youtube.com/watch?v=u8EghOSdzEA) spricht [Siobhan Leachman](https://mastodon.nz/@siobhan_leachman/112221911688324775) auf der [Australian Citizen Science Association Conference 2023](https://citizenscience.org.au/citscioz23/) darüber wie gewonnene Erkenntnisse aus bürgerwissenschaftlichem Engagement direkt Eingang in [Wikipedia](https://de.wikipedia.org/) und [Wikidata](wikidata.org/) finden können.
+
+## Citizen Science im Verkehr
+Das [CitRad](https://fablab-cottbus.de/projects/CitRad/) des [FabLab Cottbus](https://fablab-cottbus.de/) ist ein gerade entstehendes Citizen-Science-Projekt. In ihm soll bürgerschaftlich das Verkehrsaufkommen gemessen werden, indem ein einfaches Sensormodul [gebaut werden soll](https://chaos.social/@mavo/112207235324835107), das sich möglichst viele ins Fenster stellen, um vorbeifahrende Autos und Fahrräder sowie ihre Geschwindigkeiten zu erfassen.
+
+Im Forschungsprojekt [INFRASense](https://infrasense.de) teilten 771 Freiwillige ihre über Sensoren und App erfassten Radfahraktivitäten. Die ersten Ergebnisse aus den Erhebungsrunden in Oldenburg in 2023 [liegen vor](https://infrasense.de/projektergebnisse). Im [BIQE Monitor](https://www.biqemonitor.de/) werden anonymisiert über die erfassten Anzahl Durchfahrten, Bremsungen, Erschütterungsgrad, Geschwindigkeit, Standzeit und Zeitverlust die Qualität der Radwege eingeordnet. Im vom [mFund](https://bmdv.bund.de/DE/Themen/Digitales/mFund/Ueberblick/ueberblick.html) geförderten [Radweg Radar](https://radweg-radar.de) werden weitere Radverkehrsdaten, auch die über App abgegebenen Nutzerbewertungen von Streckenabschnitten, analysiert und visualisiert. Ziel des Ganzen: fahrradunfreundliche Streckenabschnitte identifizieren und konkrete Maßnahmen abzuleiten, um den Radverkehr sicherer und attraktiver zu machen. Die Erhebungsrunde in Osnabrück startete im April 2024.
+
+## Die dunklen Seiten der Künstlichen Intelligenz
+Die Verheißungen von solches Crowdsouring wecken auch im Bereich von KI Begehrlichkeiten.
+
+### Arbeitsausbeutung
+Das angeblich KI-basierte Abrechnungssystem "Just Walk Out" in Amazons Fresh-Supermärkten in den USA war so stark von der manuellen Überprüfung der Einkäufe abhängig, für die mehr als 1000 indische Arbeitskräfte bei einem outgesourcten Unternehmen benötigt wurde, so dass es immer noch zu teuer gewesen war und [sich nicht lohnte](https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116). Wie der [Artikel auf Netzpolitik](https://netzpolitik.org/2024/von-wegen-kuenstliche-intelligenz-indische-arbeitskraefte-steckten-hinter-amazons-smarten-supermarktkassen/) ausführt, nicht der einzige Fall kolonialer Ausbeutung von Geisterarbeiter:innen. Wie [ein Kommentar auf Mastodon lakonisch meinte](https://mastodon.art/@_tt_/112218131413283590): AI stünde dann eher für "actual indians" bzw. "alles Inder". Und auch in Deutschland, konkret bei Rewe im Prenzlauer Berg, Berlin, wird mit der Erfassung flächendeckender Bewegungen im Geschäft und der automatisierten Rechnungsstellung experimentiert, auch hier mit menschlicher Überprüfung. Alles bewegt sich immer weiter in Richtung [Überwachungskapitalismus](https://de.wikipedia.org/wiki/%C3%9Cberwachungskapitalismus). Dass diese Clickworker unter diesen Bedingungen auch nicht immer fair spielen, hat bereits letztes Jahr eine bei [techcrunch](https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/?guccounter=2) zitierte [Studie](https://arxiv.org/abs/2306.07899) aus der Schweiz offenbart, dass etwa 33 bis 46 Prozent von ihnen selbst wiederum Large Language Models (LLM) beim Erfüllen ihrer Aufgaben auf der Crowdsourcing Plattform [Amazon Mechanical Turk](https://www.mturk.com) nutzen: eine Schlange, die sich selbst in den Schwanz beißt.
+
+### Urheberverletzungen und (Meinungs-)Manipulationen
+Eine Initiative eines US-Demokraten [fordert die Offenlegung der KI-Trainingsdaten](https://www.heise.de/news/Gesetzesvorhaben-in-den-USA-fordert-Offenlegung-der-KI-Trainingsdaten-9681321.html), um so die Verwendung urheberrechtlich geschützten Materials nachweisen zu können. Wer wird noch bereit sein, neue, originäre Inhalte zu erstellen (Texte, Kunstwerke), wenn über die Mechanismen z.B. künstlicher neuronaler Netze die Herkunft und damit das Anrecht auf Entlohnung verschleiert? Werden wir als Gesellschaft intelligenter, wenn es einfacher ist, fremde Gedanken durch die Plagiatsmaschine zu jagen und als eigene auszugeben, statt selber zu denken, kritisch zu hinterfragen, sich Erkenntnisse zu erarbeiten, zu verstehen?
+
+Inzwischen schießen als Gegenbewegung Online-Plattformen aus dem Boden, die versprechen, [detektieren zu können](https://uk.pcmag.com/help/146686/5-ways-to-detect-chatgpt-written-text), ob Texte von einer KI generiert wurden.
+
+Auch für Bilder, Audios und Videos soll dies mit dem kostenlos nutzbaren Deepfake Detektor nun möglich sein, den die gemeinnützigen Organisation [TrueMedia.org](https://www.truemedia.org/) [anbietet](https://www.truemedia.org/post/free-deepfake-detector-to-help-newsrooms-across-the-country). Das Angebot richtet sich hauptsächlich an Journalisten, die mit ihm mutwillige Medienmanipulationen, die die Meinungsbildung konkret auch vor Wahlen beeinflussen sollen, entlarven [können sollen](https://www.heise.de/news/Deepfakes-Kostenloses-KI-Tool-erkennt-gefaelschte-Bilder-Audios-und-Videos-9673953.html).
+
+Nächster Prompt: "Generiere den Output so, dass er von keinem KI-Detektor entdeckt wird ..."
+
+### Fortschreibung bestehender Stereotype, Diskriminierung
+Bereits bei konventionellen Algorithmen wurden in automatisierten Entscheidungssystemen Menschen auf Grund von Geschlecht, Wohngegend und (vermeintlicher) sozialer und ethnischer Herkunft nachweislich bei der Beurteilung von Kreditwürdigkeit, des Versicherungsrisiko, Wahrscheinlichkeit straffällig oder krank zu werden sowie bei der Job-Bewerberauswahl benachteiligt. Scoring-Systeme machen stark vereinfachende Annahmen und basieren auf leicht messbaren Daten. Wie Andreas Geppert in [seinem Dossier auf dem Blog der schweizer Digitalen Gesellschaft ausführt](https://www.digitale-gesellschaft.ch/2024/04/19/auch-kisha-kriegt-keinen-kredit-dossier-tracking-profiling/), werden so bestehende Ungleichheiten fortgeschrieben oder gar verstärkt. Das Ausbrechen aus vergangenen Mustern wird so fast unmöglich, Angehörige bestimmter Kohorten quasi in Sippenhaft genommen. Allein schon die korrekte Auswertung und Interpretation von statistischen Daten ist eine Herausforderung, wie übermedien an Hand der Polizeilichen Kriminalstatistik (PKS) des Bundeskriminalamts (BKA) [thematisiert](https://uebermedien.de/93981/haltet-den-auslaender/).
+
+Während klassische Algorithmen deterministisch arbeiten, d.h. bei gleichen Eingabedaten die gleichen Ausgabendaten produzieren und sich so unerwünschte systematische Fehlschätzungen (Bias) leicht erkennen und beheben lassen, gestaltet sich dies beim Einsatz machinellen Lernens ungleich schwieriger. Fragen, mit denen sich auch C. Thi Nguyen, Philosophieprofessor aus Utah, in seinem Artikel [The Limits of Data](https://issues.org/limits-of-data-nguyen/) beschäftigt: wer hat die Kategorien festgelegt, in denen die Daten einsortiert werden, nach welchen Kriterien wird entschieden, welche Daten stärker gewichtet, welche ganz ausgelassen werden? Wessen Interessen dient das so konfigurierte Filtersystem? Im Datenaggregationsprozess gehen zudem oftmals wichtige Kontextinformationen verloren und verzerren somit ihre Bewertung.
+
+### Umweltbelastung
+Allein in der Region um Chicago sind derzeit 25 weitere Rechenzentren in Planung, die schätzungsweise 5 Gigawatt an Strom zusätzlich verbrauchen werden. Damit würde sich der Strombedarf, laut [The Register](https://www.theregister.com/2024/04/19/ai_set_to_drive_up/), allein für diese Region verneunfachen. Leider kennt die Gier da [keine Rücksicht](https://netzpolitik.org/2024/degitalisierung-infinite-money-glitch/) und Umweltschäden gehörten schon immer zu den kaum eingepreisten externen Effekten.
+["Grüne KI"-Initiatiativen](https://www.heise.de/news/Energiehungrige-Sprachmodelle-Ruf-nach-Leitplanken-fuer-gruene-KI-9682041.html) wirken dabei auch nur wie ein Feigenblatt. Erfolge, wie [neu entdeckte Antibiotikastämme](https://de.euronews.com/gesundheit/2023/12/21/wissenschaftler-entdecken-die-erste-neue-antibiotika-seit-uber-60-jahren), bessere [Krebsfrüherkennung](https://taz.de/KI-und-die-fruehe-Krebserkennung/!6001312/) aber auch [Präzisionslandwirtschaft ](https://de.wikipedia.org/wiki/Precision_Farming) stehen die Ressourcenverschwendung für die weniger nützlichen Anwendungsfälle entgegenüber.
+
+## Noch mehr KI-keri-KI
+Im Digitalausschuss im Bundestag wurde das [Jahresgutachten 2024](https://www.e-fi.de/fileadmin/Assets/Gutachten/2024/EFI_Gutachten_2024_24124.pdf) der Expertenkommission [Forschung und Innovation (EFI)](https://www.e-fi.de/expertenkommission/expertenkommission/die-expertenkommission) vorgestellt, wie Anke Domscheit-Berg in ihrem [Podcast berichtet](https://mdb.anke.domscheit-berg.de/2024/04/der-adb-podcast-31/). Themen sind auch hier KI und smarte Landwirtschaft. In diesem Zusammenhang wurde auch wieder über die [Large European AI Models (LEAM)](https://leam.ai/) als geplantes Gegengewicht zu den USA-dominierten KI-Modellen gesprochen.
+
+Derweil hat Meta, die Dachorganisation von Facebook, mit [Llama 3](https://llama.meta.com/) neue leistungsfähige Open-Source-Sprachmodelle [veröffentlicht](https://the-decoder.de/llama-3-meta-veroeffentlicht-neue-leistungsfaehige-open-source-sprachmodelle/). Wie [heise](https://www.heise.de/news/Meta-AI-laeuft-jetzt-mit-Llama-3-9690318.html) hinweist, ist der Chatbot [meta.ai](https://www.meta.ai/) allerdings noch nicht von Deutschland aus aufrufbar und unterstützt bisher nur englische Eingaben.
+
+Jonas Bostelmann bringt uns auf [den neuesten Stand](https://mastodon.social/@jonasbostelmann/112285193993602344) von Gebäudeerkennung und Erkennung versiegelter Flächen mittels KI.
+
+30 Vertreter:innen aus der Zivilgesellschaft sollen [von D64 die Möglichkeit bekommen](https://d-64.org/demokratische-ki-cfp/), an dieses und nächstes Jahr einen Code of Conduct für den Einsatz Künstlicher Intelligenz (KI) in zivilgesellschaftlichen Organisationen auszuarbeiten.
+
+## Open Data
+Ist die Anzahl der Datensätze wirklich das einzige Messinstrument, um den Erfolg von Open-Data-Portalen zu messen? Über ein sinnvolleres Ranking wurde in [einer Session](https://social.bund.de/@opendata/112285953599029559) des [Kommunalen Open Data Barcamps](https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/einladung-3-kommunales-open-data-barcamp-2024) diskutiert. Hält das [Kompetenzzentrum Open Data](https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/opendata_node.html) nicht davon ab, in neuen [Dashboards](https://public.tableau.com/app/profile/datenlabor.bmel/vizzes) für drei Bundesministerien eben darüber zu [messen](https://social.bund.de/@opendatabund/112298282625798941), wenn auch zusätzlich die Anzahl der Metadatensätze mit aufgeschlüsselt wird.
+
+Der folgende [heise-Artikel](https://www.heise.de/news/Bundesverwaltungsamt-veroeffentlicht-Registerlandkarte-9702353.html) informiert darüber, dass das Bundesverwaltungsamt (BVA) eine erste Version der [Registerlandkarte](https://registerlandkarte.de/) veröffentlicht hat. Mit ihr sollen Informationen, z.B. zu Merkmalen und Schnittstellen der verschiedenen Fachregister in Deutschland gebündelt werden und so die Navigation durch die "heterogene Registerlandschaft" erleichtern.
+
+Welche OZG-Leistungen bereits online verfügbar sind (aka Digitalisierungsfortschritt der Öffentlichen Verwaltung), erfährt man über [Dashboard Digitale Verwaltung – Offene Schnittstelle](https://dashboard-daten.digitale-verwaltung.de/) bzw. auch über zugehörigen [OpenAPI](https://dashboard-daten.digitale-verwaltung.de/api/swagger-ui/index.html).
+
+Auch in anderen Ländern sind Qualität und Verfügbarkeit von offenen Daten ein Thema, wie [ein Interview](https://democracy-technologies.org/industry-news/a-must-for-every-city-open-data-in-kosice/) mit Michal Hladký, Leiter der kreativen Industrie in Košice, einer Großstadt im Osten der Slowakei, offenbart. Dabei hat er vornehmlich die Mentalität im Blick. Oftmals fehlt immer noch das Verständnis für Sinn und Notwendigkeit, Daten systematisch zu erfassen.
+
+Leigh Dodds, vormals am Open Data Institute beschäftigt, [plädiert dafür](https://blog.ldodds.com/2024/04/14/a-basis-for-better-definitions-of-open/), die Definition von "Open" nachzuschärfen. Neben dem Veröffentlichen eigener Werke unter freizügigen Lizenzen, sollten seiner Meinung auch die Prozesse, wie die Daten erzeugt worden sind (und sich so auch reproduzieren lassen), transparent gemacht werden. Auch die Infrastruktur, über die Daten bereitgestellt werden, sollte offen im Sinne von öffentlich aufrufbarer API, Einhalten von Standards und dauerhafter Verfügbarkeit sein. Und schließlich sollte die Organisation der Leute in ihrer Selbstverwaltung und ihrem Selbstverständnis offen sein.
+
+Romina Colman, Product Owner des [Open Data Editors](https://opendataeditor.okfn.org/), beherzigt dies und [teilt die Erkenntnisse](https://blog.okfn.org/2024/04/11/open-data-editor-what-we-learned-from-user-research/), die das Team der [Open Knowledge Foundation (OKFN)](https://okfn.org/en/) bei der Beschäftigung mit den Bedürfnissen der zukünftigen Endnutzern für sich selbst gewonnen haben. So sollten Organisationen generell mehr Zeit in eben solcher "User Research" investieren, um deren Probleme zu verstehen, bevor man Lösungen baut, die keiner braucht. Auch sollte man Problemstellungen besser durchdenken, bevor man den vermeintlichen Quickfix umsetzt. Wichtig auch, in der Organisation selbst viele Perspektiven zu vereinen und sich die Fähigkeit zu erhalten, sich in die Lage seiner Nutzer hineinversetzen zu können. Der Blick über den eigenen Tellerrand bewahrt davor, das Rad neu zu erfinden, und stattdessen von den Vorarbeiten und Erfahrungen anderer zu profitieren. Ideen und Zwischenlösungen sollten daher früh geteilt und Feedback iterativ eingeholt und eingearbeitet werden.  
+
+Auch der [Abschlussbericht](https://thenew.institute/media/pages/documents/529e984d02-1698245881/the-new-hanse_blueprint_governing-urban-data-for-the-public-interest.pdf) des [New Hanse Projekts](https://www.thenewhanse.eu/de) des [New Institutes](https://thenew.institute/en) enthält viele Empfehlungen, die auch andere Städte und Kommunen befähigen können, Daten besser im öffentlichen Interesse zu teilen und zu nutzen. Wesentliche Erkenntnisse werden auch in dieser Paneldiskussion [angesprochen](https://www.youtube.com/watch?v=Qrg84lBGAVk).
+
+Die [Society for open, reliable, and transparent ecology and evolutionary biology (SORTEE)](https://www.sortee.org/) beantwortet in [ihrem Blog](https://www.sortee.org/blog/2024/04/12/2024_open_data_myths/) die häufigsten Fragen, die Forscher stellen, wenn sie zum ersten Mal mit dem Thema Offene Daten konfrontiert werden.
 
 ## Verkehr
-* Unser #OpenData Projekt macht Fortschritte! Der CityRadar-Sensor erfasst selbstständig Autos und misst ihre Geschwindigkeit. Daraus soll ein Netzwerk zivilgesellschaftlicher Verkehrsmessungen entstehen. Bald ist es soweit! FabLab #Cottbus rocks :) https://fablab-cottbus.de/projects/CitRad/ #OpenHardware
-  https://fablab-cottbus.de/projects/CitRad/
-  via https://chaos.social/@mavo/112207235324835107
-* Planung und Verbesserung von Fahrradwegen
-  https://radweg-radar.de/
-  * wie kommt man an die Rohdaten?
-* Für eine datenbasierte Unterstützung der Radverkehrsplanung werden zum einen Fahrraddaten von Bürger:innen erfasst, die regelmäßig Rad fahren und mehrere Wochen mithilfe eines Sensors und einer App ihre Fahrten aufzeichnen und bewerten. Im Rahmen des Forschungsprojekts werden in Oldenburg und Osnabrück in mehreren Erhebungsrunden (Praxisbefahrungen) Fahrraddaten zur Bestimmung der Radwegequalität im gesamten Stadtgebiet erfasst. Die Erhebungsrunden in Oldenburg wurden im Zeitraum von März bis Dezember 2023 durchgeführt. Die Erhebungsrunde in Osnabrück startet im April 2024.  Die erfassten Fahrraddaten sind anonymisiert im BIQEmonitor visualisiert und sind öffentlich zugänglich. Teilnehmende der Erhebungsrunden können zusätzliche ihre eigenen Fahrten einsehen.
-  https://www.biqemonitor.de/
-  https://www.biqemonitor.de/quality
 * KVB Live Fahrplan (Alternative, kommerziell von Startup)
   Mit der App KVB Live Fahrplan werden die Abfahrtszeiten der Kölner Verkehrs-Betriebe AG in Echtzeit dargestellt. Darüber hinaus bietet die App viele weitere Funktionen wie das Filtern der Linien und Haltestellen nach Name oder Standort, eine lokale Suche oder aber auch die Anzeige von Haltestellen-Störungen.
   https://www.denk-doch-digital.de/portfolio/kvb-live-fahrplan/
@@ -54,6 +85,15 @@ type: blog
   * https://wn49.stadtarmmobil.de/
 * superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities
   * https://arxiv.org/abs/2404.15062
+
+## Standardisierung
+* Rechtsgutachten zeigt: [Öffentliche Hand darf und sollte CC-Lizenzen nutzen](
+  https://blog.wikimedia.de/2024/04/04/rechtsgutachten-zeigt-oeffentliche-hand-darf-und-sollte-cc-lizenzen-nutzen/)
+* Schleswig-Holstein und Hamburg entwickeln offenen UX-Standard: [kern-ux.de](https://kern-ux.de)
+* Staatsbibliothek Schnittstellen:
+  "Sie kennen vermutlich bereits unsere Digitalisierten Sammlungen, in denen wir aktuell (Stand: April 2024) rund 210.000 digitalisierte Objekte aus dem Bestand der SBB online präsentieren? Mit einer Vielzahl an Features (für aktuell in der Entwicklung befindliche Funktionen siehe auch die Beta-Version der Digitalisierten Sammlungen) hoffen wir, die Suche und das Stöbern in unseren Digitalisaten möglichst einfach und effizient zu gestalten."
+  https://lab.sbb.berlin/dc/
+  via https://openbiblio.social/@awinkler/112270531007443892
 
 ## Parlamente
 * Bundestagszusammenfasser:
@@ -73,80 +113,6 @@ type: blog
   via https://mastodon.social/@leibnizopenscience/112234778277080145
 * Wie das Naturkundemuseum mit Linked Open Data unbekannte Forschende [sichtbar macht](
   https://blog.wikimedia.de/2024/04/22/wie-das-naturkundemuseum-mit-linked-open-data-unbekannte-forschende-sichtbar-macht/)
-
-## KI
-* Meta AI hat heute Llama 3, die nächste Generation seiner Open-Source-Sprachmodelle, veröffentlicht. Laut Meta sollen die neuen Modelle den besten proprietären Modellen ebenbürtig sein und bald auch Multimodalität und mehr Sprachen unterstützen.
-  https://the-decoder.de/llama-3-meta-veroeffentlicht-neue-leistungsfaehige-open-source-sprachmodelle/
-  https://llama.meta.com/
-  * https://www.heise.de/news/Meta-AI-laeuft-jetzt-mit-Llama-3-9690318.html
-  
-* Moderne koloniale Arbeitsausbeutung dank Big Tech
-  https://netzpolitik.org/2024/von-wegen-kuenstliche-intelligenz-indische-arbeitskraefte-steckten-hinter-amazons-smarten-supermarktkassen/
-  via https://berlin.social/@bikeophilipp/112212461225458297
-  AI = actually indians / alles inder
-  * https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116
-  * But a study from researchers at EPFL in Switzerland shows that Mechanical Turk workers are automating their work using large language models like ChatGPT: A snake biting its own tail or perhaps swallowing itself entirely.
-    https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/?guccounter=1
-* Der Weg in die vermeintliche Zukunft geht wohl erst mal ohne Rücksicht auf irgendwelche aktuellen Umweltschäden über das energietechnische Mittelalter.“
-  https://tinycities.net/@dirkhaun/112268281845259923
-  https://netzpolitik.org/2024/degitalisierung-infinite-money-glitch/
-* Das kostenlose KI-Tool der gemeinnützigen Organisation TrueMedia.org soll über 90 Prozent der Deepfakes erkennen. US-Journalisten etwa können es bereits nutzen.
-  https://www.heise.de/news/Deepfakes-Kostenloses-KI-Tool-erkennt-gefaelschte-Bilder-Audios-und-Videos-9673953.html
-* Limits of data: 
-  Decontextualization / Filtering
-  Who created the system of categories into which the data is sorted? What information does that system emphasize, and what does it leave out? Whose interests are served by that filtration system?
-  https://issues.org/limits-of-data-nguyen/
-* Gesetzesvorhaben in den USA fordert Offenlegung der KI-Trainingsdaten:
-  Trainingsdaten von KI-Modellen sollen offen gelegt werden, urheberrechtlich geschütztes Material offenbart – das fordert eine Initiative eines US-Demokraten. 
-  https://www.heise.de/news/Gesetzesvorhaben-in-den-USA-fordert-Offenlegung-der-KI-Trainingsdaten-9681321.html
-* KI hat Potenziale für den Umwelt- und Klimaschutz, sind sich Experten einig. Beim Ressourcenverbrauch müssten Betreiber großer Modelle aber die Kurve kriegen.
-  https://www.heise.de/news/Energiehungrige-Sprachmodelle-Ruf-nach-Leitplanken-fuer-gruene-KI-9682041.html
-* EFI-Gutachten 2024 zu KI und smarte Landwirtschaft
-  https://mdb.anke.domscheit-berg.de/2024/04/der-adb-podcast-31/
-  https://www.e-fi.de/dashboard
-* 5. Generation einer KI-Gebäudeerkennung und 1. Generation einer KI-versiegelte-Flächen-Erkennung
-  https://mastodon.social/@jonasbostelmann/112285193993602344
-* "Power demand from datacenters in the Chicago area is set to increase ninefold, in more evidence that AI adoption is will put further strain electricity supplies. There are about 25 datacenter projects planned in the area around Chicago that would consume an estimated 5 GW of power."
-  https://www.theregister.com/2024/04/19/ai_set_to_drive_up/
-  via https://mastodon.green/@gerrymcgovern/112304606677549838
-* AlgorithmWatch stellt vor: Ein KI-Transparenzregister für die öffentliche Verwaltung
-  https://algorithmwatch.org/de/transparenzregister-oeffentliche-verwaltung-2023/
-
-## Algorithmen
-* auch-kisha-kriegt-keinen-kredit
-  Diskriminierung und Benachteiligung durch Scoring und automatisierte Entscheidungssysteme
-  https://www.digitale-gesellschaft.ch/2024/04/19/auch-kisha-kriegt-keinen-kredit-dossier-tracking-profiling/
-
-## Traue keiner Statistik, die Du nicht selbst gefälscht hast
-* Alle Jahre wieder veröffentlicht das Bundeskriminalamt (BKA) seine Polizeiliche Kriminalstatistik (PKS)
-  Würden Politik, Medien und Öffentlichkeit diese Limitierungen der PKS stets mitbedenken, sowie die politische Färbung der Diskussion reflektieren, könnte es endlich auch zu einer seriöseren, wissenschaftlichen und in der Praxis möglicherweise auch zielführenderen Debatte zur Kriminalität kommen. 
-  https://uebermedien.de/93981/haltet-den-auslaender/
-  
-## Open Data
-* Governing Urban Data for the Public Interest
-  https://www.hiig.de/publication/blueprint-governing-urban-data-for-the-public-interest/
-  https://www.youtube.com/watch?v=Qrg84lBGAVk
-* our crucial challenge was the quality of data and availability. I don’t mean this in the technical sense, because that was relatively easy to overcome. Rather, what I have in mind are instances when data is not being collected systematically.
-  https://democracy-technologies.org/industry-news/a-must-for-every-city-open-data-in-kosice/
-* Open Data Editor: What we learned from user research
-  https://blog.okfn.org/2024/04/11/open-data-editor-what-we-learned-from-user-research/
-* A basis for better definitions of “open”
-  https://blog.ldodds.com/2024/04/14/a-basis-for-better-definitions-of-open/
-* Ist die Anzahl der Datensätze wirklich das einzige Messinstrument für den Erfolg von #opendata -Portalen?
-  Über ein sinnvolles Ranking … aktuell in der Session beim #kodb24 Barcamp
-  https://social.bund.de/@opendata/112285953599029559
-* Es gibt eine "API zum Digitalisierungsfortschritt der Öffentlichen Verwaltung"
-  https://dashboard-daten.digitale-verwaltung.de/api/swagger-ui/index.html
-  https://dashboard-daten.digitale-verwaltung.de/api/v3/api-docs
-  via https://chaos.social/@jk/112288769344379219	
-* Dashboards
-  https://social.bund.de/@opendatabund/112298282625798941
-* Debunking Myths Around Open Data
-  https://www.sortee.org/blog/2024/04/12/2024_open_data_myths/
-* Registerlandkarte: Übersicht über die bestehenden Register in Deutschland  
-  https://www.heise.de/news/Bundesverwaltungsamt-veroeffentlicht-Registerlandkarte-9702353.html
-  https://registerlandkarte.de/landingpage
-  * https://mastodon.social/@bkastl/112355861029790186
 
 ## Dateninstitut
 * Kick-Off zur Gründung des Dateninstituts (Pressemitteilung)
@@ -267,10 +233,13 @@ Es werden noch (ehrenamtliche)  (Frontend-)-Entwickler:innen gesucht.In die Erar
   * https://digitalewochekiel.de/programm/01hqqhf8z13xdcwd42rw7qpyq1
 * Dienstag, 14.05.2024, 11:00-11:30, online: **Espresso Runde mit Mario Wiedemann: Open Data und Zivilgesellschaft**
   * https://community.civic-data.de/s/willkommens-space/calendar/entry/view?id=67
+  * https://community.civic-data.de/s/willkommens-space/wiki/+Espresso+Runde+mit+Mario+Wiedemann%2C+%22Open+Data+und+Zivilgesellschaft%22+
 * Donnerstag, 16.05.2024, 11:00-12:00, online: **Open CoDE Kickoff**
   * https://zendis.usercontent.opencode.de/opencode-events/kickoff/
-* Dienstag, 21.05.2024: **14. Open-Data-Netzwerktreffen: Urbane Datenplattformen und Open Data**
+* Dienstag, 21.05.2024, 10:00-11:30, Zoom: **14. Open-Data-Netzwerktreffen: Urbane Datenplattformen und Open Data**
   * https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/das-kommunale-open-data-netzwerktreffen#c234826
+* Dienstag, 21.05.2024, 11:00-11:30, Zoom: **Espresso Runde mit Oliver Rack: "Open Gov und Zivilgesellschaft"**
+  * https://community.civic-data.de/content/perma?id=3191
 * Freitag, 24.05.2024, 08:30-17:00, Fribourg, Schweiz: **Opendata.ch/2024 Forum**
   * https://eventfrog.ch/fr/p/visites-conferences/conference/opendata-ch-2024-forum-7140116660074006887.html
 * Freitag, 24.05.2024, bis, Sonntag, 26.05.2024, Hochschule für Technik und Wirtschaft Dresden, Friedrich-List-Platz 1, Dresden: **Open Data Camp 2024: Cool down - hack die Extreme**
@@ -285,10 +254,10 @@ Es werden noch (ehrenamtliche)  (Frontend-)-Entwickler:innen gesucht.In die Erar
 * 30.05.2024, 17:00-19:00, IÖW, Potsdamer Str. 105, Berlin: **Citizen-Workshop: Mobilitätsforschung mitgestalten**
   * https://amber-forschung.de/de/Aktuelles/
   * Anmeldung bis 15.05.2024
-
-
 * Donnerstag, 30.05.2024, bis Sonntag, 02.06 2024, Hochschule für Gestaltung (HfG), Lorenzstr. 15, Karlsruhe: **22. Gulaschprogrammiernacht (GPN)**
   * https://entropia.de/GPN22
+* Mittwoch, 05.06.2024, Deutscher Caritasverband e.V. Haus der Deutschen Caritas, Reinhardtstraße 13, Berlin-Mitte: **Workshop on Digital Citizenship Education and Building the Civic Tech Collaboration Models within the Community and Government**
+  * https://g0v.hackmd.io/@jothon/2024Berlinworkshop
 * Donnerstag, 06.06.2024, 19:31: **Bits und Bäume Online-Community-Treffen**
   * https://wiki.bits-und-baeume.org/community-treffen/
   * https://bbb.tu-dresden.de/rooms/qje-7si-xu1-lul/join
