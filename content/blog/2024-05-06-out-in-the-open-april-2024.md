@@ -11,6 +11,8 @@ og_image: out-in-the-open-2024-04-header.jpg
 type: blog
 ---
 
+Wir freuen uns, das [OK Lab Forst (Lausitz)](https://codefor.de/forst/) als neues Mitglied im Code-for-Germany-Netzwerk begrüßen zu dürfen. 
+
 ## Citizen Science
 Bei Citizen Science arbeiten Personen in ihrer Freizeit auf Augenhöhe mit hauptamtlichen Wissenschaftlerinnen und Wissenschaftlern in Forschungsprojekten zusammen. Um diese Projekt zu präsentieren und zu unterstützen, wurde vor genau 10 Jahren die Online-PLattform "Bürger schaffen Wissen" von ["Wissenschaft im Dialog"](https://www.wissenschaft-im-dialog.de/) und dem [Museum für Naturkunde Berlin](https://www.museumfuernaturkunde.berlin/de) ins Leben gerufen. Mit 10 Projekten 2014 gestartet, bündelt sie inzwischen über 270 Citizen-Science-Projekte. Wie der [Pressemitteilung](https://www.wissenschaft-im-dialog.de/medien/pressemitteilungen/artikel/beitrag/gemeinsam-wissen-schaffen-eine-plattform-laedt-seit-10-jahren-zum-mitforschen-ein/) zu entnehmen ist, gibt man sich zum runden Geburtstag einen neuen Namen: mit:forschen. Die Webseite zieht entsprechend auf die Domäne [mitforschen.org](https://www.mitforschen.org) um. Der Antrag [Wissenschaftskommunikation systematisch und umfassend stärken](https://dserver.bundestag.de/btd/20/106/2010606.pdf) der Ampel-Koalation fordert passend dazu, "die Wirkungen von Bürgerwissenschaften stärker anzuerkennenn, sichtbar zu machen und ihre Verankerung in Leitbildern und Zielvereinbarungen zu befördern", wie die [taz](https://taz.de/Citizen-Science-professionalisiert-sich/!6002098/) ergänzend berichtet.
 
@@ -109,6 +111,8 @@ Daten und Analysen von Abstimmungen und von Redebeiträgen in den Stadtratssitzu
 ## Kommunalwahlen / Europawahlen
 Am 9. Juni sind Europawahlen, in einigen Bundesländern auch Kommunalwahlen, in Thüringen stehen diese bereits am 26. Mai an.
 
+Auf der Kampagnen-Seite [What Europe does for me](https://what-europe-does-for-me.europarl.europa.eu/de/home) hat die EU von ihr unterstützte Projekte und Initiativen regional und nach Lebenslagen aufgeschlüsselt, um die Bürger an den Wert der Union zu erinnern, auch wenn sie oft abstrakt und weit weg erscheint.
+
 Mit dem [Wahl-O-Mat](https://www.wahl-o-mat.de/europawahl2024/app/main_app.html) der [Bundeszentrale für politische Bildung (bpb)](https://www.bpb.de/themen/wahl-o-mat/) kann seine eigenen Standpunkte bei 38 Thesen mit denen der 35 Parteien, die zur Europawahl zugelassen sind, [vergleichen](https://www.heise.de/news/Wahl-O-Mat-zur-Europawahl-geht-im-Mai-online-9702307.html).
 
 Eine von einem Bürgerverein betriebene alternative Plattform ist der [WahlSwiper](https://www.voteswiper.org/de/deutschland/europawahl-2024), der ebenfalls die Haltung in 36 Fragen erfasst und danach die Parteien nach Übereinstimmung rankt. Wie beim Wahl-O-Mat können einzelne Fragen stärker gewichtet werden. Dafür kann man aber nicht mit "neutral" stimmen und es sind nicht alle Parteien befragt worden, was aber für ehrenamtlich betriebenes Projekt verständlich ist. Die Fragen selbst haben sich teilweise mit dem Wahl-o-Mat gedeckt, es gab aber auch unterschiedliche Themen.
@@ -148,46 +152,26 @@ Eine neue Technik kann Methanwolken auf Satellitenfotos sichtbar machen. Dadurch
 Zur Beurteilung und Vergleich von Klimaschutz auf kommunaler Ebene braucht es ein einheitliches Ranking. Das neue Portal [stadt.land.klima](https://www.stadt-land-klima.de/) hat sich dem angenommen und einen entsprechenden Kriterienkatalog erarbeitet. Mit ihm lässt sich der Umsetzungsstand der wichtigsten Klimaschutzmaßnahmen, welche im Handlungsspielraum der Kommunen liegen, bewerten. Die Rankings für die ersten Städte findet man [hier](https://www.stadt-land-klima.de/municipalities). Wie man bei der Bewertung der eigenen Stadt unterstützen kann, wird in den zahlreichen [Onboarding-Terminen](https://www.stadt-land-klima.de/mitmachen) vom Team erklärt. Zudem werden noch (ehrenamtliche) (Frontend-)-Entwickler:innen gesucht.
 
 ## Verkehr
-* KVB Live Fahrplan (Alternative, kommerziell von Startup)
-  Mit der App KVB Live Fahrplan werden die Abfahrtszeiten der Kölner Verkehrs-Betriebe AG in Echtzeit dargestellt. Darüber hinaus bietet die App viele weitere Funktionen wie das Filtern der Linien und Haltestellen nach Name oder Standort, eine lokale Suche oder aber auch die Anzeige von Haltestellen-Störungen.
-  https://www.denk-doch-digital.de/portfolio/kvb-live-fahrplan/
-* new interactive map showing travel times to key destinations, and *combinations* of different destinations by mode. Simple yet powerful, and should be straightforward to reproduce in other places.
-  https://fosstodon.org/@robinlovelace/112234428116756692
-* Stamm- und Betriebsdaten geförderter öffentlich zugänglicher Ladestationen für Elektrofahrzeuge
-  https://mobilithek.info/offers/714073450865197056
-  via https://mastodon.social/@burger_jaap/112315140958847935
-* 1 Jahr 49 Euro Ticket
-  https://social.bund.de/@Bundesregierung/112365293768008733
-  * https://wn49.stadtarmmobil.de/
-* superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities
-  * https://arxiv.org/abs/2404.15062
+In der Mobilithek wurde viele [Stamm- und Betriebsdaten](https://mobilithek.info/offers/714073450865197056) öffentlich zugänglicher Ladestationen für Elektrofahrzeuge veröffentlicht. Die Daten sind anonymisiert, um die Interessen der Betreiber zu wahren, aber sind trotzdem nützlich, wie [Jaap Burger auf Mastodon meint](https://mastodon.social/@burger_jaap/112315140958847935). 
+
+Zum [einjährigen Jubiläum](https://social.bund.de/@Bundesregierung/112365293768008733) des 49 Euro Tickets, sei auch nochmal an die Seite [WasBringt49.de](https://wn49.stadtarmmobil.de/) erinnert, die sehr anschaulich die Vorteile für verschiedene Personengruppen darstellt. Sie bekam dafür jetzt auch im April vom Förderkreis für Raum- und Umweltforschung ein Förderpreis verliehen.
+
+[superblockify](https://superblockify.city/) ist ein in Python geschriebenes Programm, um das Straßennetz einer Stadt in Superblock-ähnliche Nachbarschaften zu partitionieren um anschließend das Ergebnis dieser Aufteilung visualisieren und analysieren zu können, wie auch im zugehörigen [Forschungsbericht](https://arxiv.org/abs/2404.15062) näher ausgeführt. 
 
 ## OpenSource
-* German federal state Schleswig-Holstein moving 30000 PCs to LibreOffice
-  https://blog.documentfoundation.org/blog/2024/04/04/german-state-moving-30000-pcs-to-libreoffice/
-  * https://osb-alliance.de/featured/schleswig-holstein-macht-libreoffice-zur-standard-office-loesung-in-der-verwaltung
-* xz-Attacke: Hinweise auf ähnliche Angriffsversuche bei drei JavaScript-Projekten
-  https://www.heise.de/news/xz-Attacke-Hinweise-auf-aehnliche-Angriffsversuche-bei-drei-JavaScript-Projekten-9687246.html
-* EU-Institutionen sind auf #Mastodon und Peertube aktiv, dank eines Pilotprojekts des Europäischen Datenschutzbeauftragten. Weil aber nach zwei Jahren keine EU-Institution die #Fediverse-Server übernehmen will, werden diese im Mai kurzerhand abgeschaltet.
-  https://netzpolitik.org/2024/mastodon-und-peertube-eu-macht-fediverse-dicht-weil-niemand-die-server-betreiben-will/
-  https://23.social/@markusreuter/112336988934396440
-  * Unser Engagement für das Fediverse wird fortbestehen: https://social.network.europa.eu/@EU_Commission/112338626558805977
-* Microsoft veröffentlicht Quellcode für MS-DOS 4.0
-  https://www.heise.de/news/Microsoft-veroeffentlicht-Quellcode-fuer-MS-DOS-4-0-9700190.html
-* Mastodon: Mastodon gGmbH wurde vom Finanzamt die Gemeinnützigkeit aberkannt – man könne "nur spekulieren, was die Ursache ist". 
-  * https://www.heise.de/news/Mastodon-Laut-Finanzamt-nicht-mehr-gemeinnuetzig-9701317.html
-  * https://freiburg.social/@hendrik/112349218139711443
-  * https://bewegung.social/@Allianz_Polit_Willensbildung/112353479573078607
-* When embracing open source, one must be intentional about being inclusive
-  https://blog.okfn.org/2024/03/25/angela-oduor-lungati-when-embracing-open-source-one-must-be-intentional-about-being-inclusive/
+Schleswig-Holstein stellt 30.000 PCs in der Verwaltung auf LibreOffice um, wie die Open Source Business Alliance (OSB) [berichtet](https://osb-alliance.de/featured/schleswig-holstein-macht-libreoffice-zur-standard-office-loesung-in-der-verwaltung). Auf dem Blog von LibreOffice [nimmt man die Entscheidung mit Freude zu Kenntnis](https://blog.documentfoundation.org/blog/2024/04/04/german-state-moving-30000-pcs-to-libreoffice/). 
 
+Dank eines Pilotprojekts des Europäischen Datenschutzbeauftragten waren
+EU-Institutionen auf Mastodon und Peertube, der Alternative zu Youtube, vertreten. Weil aber auch nach zwei Jahren keine EU-Institution diese Fediverse-Server übernehmen wollte, sollten diese im Mai abgeschaltet werden, wie Markus Reuter auf [Netzpolitik](https://netzpolitik.org/2024/mastodon-und-peertube-eu-macht-fediverse-dicht-weil-niemand-die-server-betreiben-will/) Ende April einer breiteren Öffentlichkeit ins Bewusstsein rückte. Weil es dann doch zu peinlich geworden wäre, hat die EU-Kommission aber [inzwischen eingelenkt](https://social.network.europa.eu/@EU_Commission/112338626558805977) und bleibt nun doch im Fediverse.
+
+Ärger für Mastodon gab es aber vom deutschen Finanzamt, dass der gGmbH einst 2021 die Gemeinnützigkeit zugestand, nun diese aber wieder [aberkannte](https://www.heise.de/news/Mastodon-Laut-Finanzamt-nicht-mehr-gemeinnuetzig-9701317.html), die Gründe sind dazu noch unklar. In Reaktion darauf hat Mastodon nun in den USA gemeinnützige Organisation gegründet. Der Weiterbetrieb der Plattform war eh nie gefährdet, da die Hauptnahmen von der Crowdsourcing-Seite Patron stammen, die keine Gemeinnützigkeit voraussetzt und die Einkünfte auch nicht als Spenden gelten. Weitere Reaktionen im Netz machen auf die [bestehende Rechtsunsicherheit](https://bewegung.social/@Allianz_Polit_Willensbildung/112353479573078607) beim Betrieb von digitaler Infrastruktur für gemeinnützige Zwecke [aufmerksam](https://freiburg.social/@hendrik/112349218139711443).  
+
+Angela Oduor Lungati, Geschäftsführerin eines Non-Profit-Unternehmens in Nairobi, Kenia, spricht im [Interview mit der OKFN](https://blog.okfn.org/2024/03/25/angela-oduor-lungati-when-embracing-open-source-one-must-be-intentional-about-being-inclusive/) über die Herausforderungen, Open-Source-Software zu entwickeln und dauerhaft am Leben zu halten. 
+
+Nachdem zuletzt die xz-Attacke groß in den Medien war, sind nun Hinweise auf ähnliche Angriffsversuche bei drei JavaScript-Projekten [aufgetaucht](https://www.heise.de/news/xz-Attacke-Hinweise-auf-aehnliche-Angriffsversuche-bei-drei-JavaScript-Projekten-9687246.html).
 
 ## Und sonst so
-* Search engine for old-school Geocities animated GIFs
-  https://gifcities.org
-  via https://433.world/@Yuvalne/112212179588079476
-* Neues Code-for-Lab in Forst:
-  https://codefor.de/forst/
+Etwas für Nostalgiker: Microsoft veröffentlicht den [Quellcode für MS-DOS 4.0](https://www.heise.de/news/Microsoft-veroeffentlicht-Quellcode-fuer-MS-DOS-4-0-9700190.html) (kam 1986/87 raus) und [Talya](https://433.world/@Yuvalne/112212179588079476) hat die Suchmaschine [gifcities.org](https://gifcities.org) entdeckt, mit der man die vor allen in den 90-er Jahren und frühen 2000-er gern in privaten Homepages verbauten animierten GIFs auffinden kann.
 
 ## Veranstaltungen
 * Montag, 06.05.2024, 18 Uhr (weitere Alternativen: Samstag, 11.05., 11 Uhr und Mittwoch, 15.05., 19 Uhr): **Onboarding Stadt.Land.Klima**
@@ -215,6 +199,8 @@ Zur Beurteilung und Vergleich von Klimaschutz auf kommunaler Ebene braucht es ei
   * https://datenschule.de/workshops/umweltdatenwerkstatt/
 * Montag, 27.05.2024, bis Mittwoch, 29.05.2024, STATION Berlin, Luckenwalder Str. 4-6: **re:publica**
   * https://re-publica.com/de
+* Dienstag, 28.05.2024, Leipzig: **Daten sind auch nur Menschen - Performativer AR-Walk**
+  * https://www.schauspiel-leipzig.de/spielplan/a-z/daten-sind-auch-nur-menschen/
 * Donnerstag, 30.05.2024, 09:30-16:30, Frizz Forum, Friedrichstraße 23, Berlin: **Civic Data Camp: Das Barcamp für Daten-Entdecker:innen**
   * https://app.guestoo.de/public/event/d368fcda-a2cb-4590-98a4-6afea4365980
 * 30.05.2024, 17:00-19:00, IÖW, Potsdamer Str. 105, Berlin: **Citizen-Workshop: Mobilitätsforschung mitgestalten**
