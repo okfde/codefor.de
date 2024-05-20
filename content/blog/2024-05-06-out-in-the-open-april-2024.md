@@ -104,7 +104,24 @@ Was FragDenStaat sonst so macht, [verrät Kara Engelhardt im Interview mit dem e
 ## Transparente Parlamentsarbeit
 Die Bundesregisierung hat nicht nur ein Transparenz- sondern ein generelles Umsetzungproblem. Im Koalitionsvertrag war ein digitales Gesetzgebungsportal versprochen, "über das einsehbar ist, in welcher Phase sich Vorhaben befinden". Dieses Portal gibt es immer noch nicht, so dass Sabrina vom [Podcast Parlamentsrevue](https://parlamentsrevue.de/) als privates Projekt den [Bundestagszusammenfasser](https://bundestagszusammenfasser.de) aufgesetzt hat. Über die Hintergründe und wie man sie unterstützen kann, sprach sie im [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/lnp489-das-kabinett-ist-nicht-maschinenlesbar).
 
-Daten und Analysen von Abstimmungen und von Redebeiträgen in den Stadtratssitzungen der Landeshauptstadt Magdeburg liefert sehr anschaulich das Projekt [stadtratwatch.de](https://www.stadtratwatch.de) von [Code for Magdeburg](https://codefor.de/magdeburg/). Der Code ist [OpenSource](https://github.com/code-for-magdeburg/StadtratWatch-web). Für jede Abstimmung ist die entsprechende Stelle im Live-Stream der Ratssitzung verlinkt. Für jedes Ratsmitglied lassen sich das Abstimmverhalten (auch in Vergleich zu anderen Stadträten) und Redebeiträge einzeln auswerten. 
+Daten und Analysen von Abstimmungen und von Redebeiträgen in den Stadtratssitzungen der Landeshauptstadt Magdeburg liefert sehr anschaulich das Projekt [stadtratwatch.de](https://www.stadtratwatch.de) von [Code for Magdeburg](https://codefor.de/magdeburg/). Der Code ist [OpenSource](https://github.com/code-for-magdeburg/StadtratWatch-web). Für jede Abstimmung ist die entsprechende Stelle im Live-Stream der Ratssitzung verlinkt. Für jedes Ratsmitglied lassen sich das Abstimmverhalten (auch in Vergleich zu anderen Stadträten) und Redebeiträge einzeln auswerten. Diese Informationen sind sicherlich auch hilfreich, um die Stadträte besser einzuschätzen, die sich für die kommenden Stadtratswahlen erneut haben aufstellen lassen.
+
+## Kommunalwahlen / Europawahlen
+Am 9. Juni sind Europawahlen, in einigen Bundesländern auch Kommunalwahlen, in Thüringen stehen diese bereits am 26. Mai an.
+
+Mit dem [Wahl-O-Mat](https://www.wahl-o-mat.de/europawahl2024/app/main_app.html) der [Bundeszentrale für politische Bildung (bpb)](https://www.bpb.de/themen/wahl-o-mat/) kann seine eigenen Standpunkte bei 38 Thesen mit denen der 35 Parteien, die zur Europawahl zugelassen sind, [vergleichen](https://www.heise.de/news/Wahl-O-Mat-zur-Europawahl-geht-im-Mai-online-9702307.html).
+
+Eine von einem Bürgerverein betriebene alternative Plattform ist der [WahlSwiper](https://www.voteswiper.org/de/deutschland/europawahl-2024), der ebenfalls die Haltung in 36 Fragen erfasst und danach die Parteien nach Übereinstimmung rankt. Wie beim Wahl-O-Mat können einzelne Fragen stärker gewichtet werden. Dafür kann man aber nicht mit "neutral" stimmen und es sind nicht alle Parteien befragt worden, was aber für ehrenamtlich betriebenes Projekt verständlich ist. Die Fragen selbst haben sich teilweise mit dem Wahl-o-Mat gedeckt, es gab aber auch unterschiedliche Themen.
+
+Wem die Standpunkte der Parteien bezüglich Klimawandel und Nachhaltigkeit besonders wichtig sind, für den sind die Wahlprüfsteine des [Science-O-Mat](https://science-o-mat.de) genau richtig. Das Angebot der Scienists for Future stellt dazu 15 Fragen mit entsprechendem Schwerpunkt. 
+
+Einen ähnlichen Ansatz hat [KlimaWahlcheck.eu](https://klimawahlcheck.eu/). Hier werden Fragen nach den Themengebieten Energie, Verkehr und Gebäude, Wirtschaft und Soziales, Landwirtschaft und Ernährung sowie Naturschutz und Artenvielfalt gestellt. Besonderheit ist, dass wie in einem klassischen Fragebogen in 5 Abstufungen stärker dafür oder stärker dagegen stimmen kann. Die Auswertung je Themengebiet und nicht übergreifend. Leider werden nur die auch im Bundestag vertretenen Parteien verglichen. 
+
+Einen ganz anderen Ansatz wählt der BUND Deutschland und vergleicht die Parteien in ihrem Abstimmungsverhalten in der vergangenen Legislatur. Dazu wurden 30 Gesetzesvorhaben ausgewählt, die etwas mit Natur und Klima zu hatten und dann aus den einzelnen Werten der Abgeordneten Durchschnittswerte für deren Parteien bestimmt.
+
+Wer sich für das Abstimmungsverhalten in anderen Themengebieten interessiert, der sei auf [das entsprechende Angebot von abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/eu/9/abstimmungen) verwiesen.
+
+Mit [Voto](https://app.voto.vote/) gibt es auch eine digitale Kommunalwahlhilfe für zahlreiche Städte (noch nicht alle sind live geschaltet), für die jeweils lokal relevanten Fragestellungen präsentiert werden. Auch hier wird mit 5 Abstufungen abgestimmt.
 
 ## Kartendaten
 Die [Daten](https://codeberg.org/marcelo-soares-souza/agroecology-map) der [Agroecology Map](https://agroecologymap.org) werden unter der Creative Commons 4.0 (BY-NC-SA 4.0) Lizenz im GeoJSON-Format [veröffentlicht](https://mas.to/@AgroecologyMap/112207775951439947), somit werden Analysen auf Grundlage der Rohdaten möglich.
@@ -123,6 +140,8 @@ Wie man mit nur wenigen Zeilen Python-Code Gebäudedaten aus [Overture](https://
 Die Auswertung der Copernicus-Daten [hat ergeben](https://climate.copernicus.eu/copernicus-march-2024-tenth-month-row-be-hottest-record), dass der März 2024 bereits der 10. Monat in Folge ist, [der global mit seiner Durchschnittstemparatur als heißester seit Wetteraufzeichnung gilt](https://fediscience.org/@OceanTerra/112239523644950444).
 
 Über den jahrelangen Wassermangel und den beständig sinkenden Grundwasserspiegel in Brandenburg liest man schon länger, wie dramatisch die Veränderungen inzwischen sind, kann man beim Vergleich der Luftaufnahmen von Seen [feststellen](https://en.osm.town/@tordans/112301849485325848).
+
+Wer sich dafür interessiert, wie trocken der Boden heute ist und wie sich die Bodenfeuchte in den kommenden Tagen entwickeln wird, wird auf [wasser-monitor.de](https://wasser-monitor.de/) fündig.
 
 Eine neue Technik kann Methanwolken auf Satellitenfotos sichtbar machen. Dadurch haben Organisationen, Verbände, Bürger und Staaten endlich eine Handhabe, um gegen die Konzerne klagen, die diese Methanlecks, z.B. durch Fracking verursacht haben, berichtet [Der Klimablog](https://derklimablog.de/wissen/das-auge-aus-dem-all/).
 
@@ -162,24 +181,6 @@ Zur Beurteilung und Vergleich von Klimaschutz auf kommunaler Ebene braucht es ei
 * When embracing open source, one must be intentional about being inclusive
   https://blog.okfn.org/2024/03/25/angela-oduor-lungati-when-embracing-open-source-one-must-be-intentional-about-being-inclusive/
 
-## Kommunalwahlen / Europawahlen
-* Wahlprüfsteine
-  * https://science-o-mat.de (für Europawahl jetzt verfügbar)
-* Wahl-O-Mat zur Europawahl: Mit 38 Thesen zu mehr politischer Orientierung
-  https://www.heise.de/news/Wahl-O-Mat-zur-Europawahl-geht-im-Mai-online-9702307.html
-  https://www.bpb.de/themen/wahl-o-mat/ 
-  https://www.wahl-o-mat.de/europawahl2024/app/main_app.html
-* BUND: Abstimmungsverhalten im EU-Parlament: So stimmten Parteien in der laufenden Legislatur ab
-  * https://www.bund.net/europawahl/bilanz-legislatur  
-* EU-Parlament 2019 bis 2024 - Abstimmungen
-  https://www.abgeordnetenwatch.de/eu/9/abstimmungen
-* Klimawahlcheck
-  https://klimawahlcheck.eu/
-* WahlSwiper
-  https://www.voteswiper.org/de  
-  https://www.voteswiper.org/de/deutschland/europawahl-2024
-* Digitale Kommunalwahlhilfe für diverse Städte:
-  https://app.voto.vote/
 
 ## Und sonst so
 * Search engine for old-school Geocities animated GIFs
