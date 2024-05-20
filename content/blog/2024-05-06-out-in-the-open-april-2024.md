@@ -54,13 +54,20 @@ Jonas Bostelmann bringt uns auf [den neuesten Stand](https://mastodon.social/@jo
 
 30 Vertreter:innen aus der Zivilgesellschaft sollen [von D64 die Möglichkeit bekommen](https://d-64.org/demokratische-ki-cfp/), an dieses und nächstes Jahr einen Code of Conduct für den Einsatz Künstlicher Intelligenz (KI) in zivilgesellschaftlichen Organisationen auszuarbeiten.
 
-## Open Data
+## Digitalisierung und Open Data in Deutschland
 Ist die Anzahl der Datensätze wirklich das einzige Messinstrument, um den Erfolg von Open-Data-Portalen zu messen? Über ein sinnvolleres Ranking wurde in [einer Session](https://social.bund.de/@opendata/112285953599029559) des [Kommunalen Open Data Barcamps](https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/einladung-3-kommunales-open-data-barcamp-2024) diskutiert. Hält das [Kompetenzzentrum Open Data](https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/opendata_node.html) nicht davon ab, in neuen [Dashboards](https://public.tableau.com/app/profile/datenlabor.bmel/vizzes) für drei Bundesministerien eben darüber zu [messen](https://social.bund.de/@opendatabund/112298282625798941), wenn auch zusätzlich die Anzahl der Metadatensätze mit aufgeschlüsselt wird.
+
+Im Tagesspiegel Background Artikel [Das Dateninstitut ist tot, lang lebe das Dateninstitut](https://background.tagesspiegel.de/digitalisierung/das-dateninstitut-ist-tot-lang-lebe-das-dateninstitut) (Paywall) kommentiert Lina Rusch den zähen Fortgang der Gründung des Dateninstituts, in der [offiziellen Pressemitteilung](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/04/kick-off-dateninstitut.html) des Innenministeriums (BMI) im Nachgang des Kickoffs klingt es naturgemäß positiver. 
+
+Ein [Rechtsgutachten zur Nutzung von Open Data Lizenzen durch die öffentliche Hand](https://blog.wikimedia.de/wp-content/uploads/sites/9/Nutzung-von-Open-Data-Lizenzen-durch-die-oeffentliche-Hand-2.pdf) zeigt, dass die öffentliche Hand CC-Lizenzen nutzen darf und auch sollte. Laut dem von der Kanzlei TaylorWessing [im Auftrag von Wikimedia Deutschland](https://blog.wikimedia.de/2024/04/04/rechtsgutachten-zeigt-oeffentliche-hand-darf-und-sollte-cc-lizenzen-nutzen/) erstellten Gutachten gibt es spätestens seit Creative Commons 4.0 keine relevanten rechtlichen Bedenken. Im Gegenteil, die derzeit bevorzugte Datenlizenz Deutschland, lässt viele Fragen offen, unter widerspricht der europäischen Empfehlung, dass Informationen der öffentlichen Hand die vorgeschlagenen CC-Lizenzen "oder gleichwertige Lizenzen" verwenden sollen.
 
 Der folgende [heise-Artikel](https://www.heise.de/news/Bundesverwaltungsamt-veroeffentlicht-Registerlandkarte-9702353.html) informiert darüber, dass das Bundesverwaltungsamt (BVA) eine erste Version der [Registerlandkarte](https://registerlandkarte.de/) veröffentlicht hat. Mit ihr sollen Informationen, z.B. zu Merkmalen und Schnittstellen der verschiedenen Fachregister in Deutschland gebündelt werden und so die Navigation durch die "heterogene Registerlandschaft" erleichtern.
 
 Welche OZG-Leistungen bereits online verfügbar sind (aka Digitalisierungsfortschritt der Öffentlichen Verwaltung), erfährt man über [Dashboard Digitale Verwaltung – Offene Schnittstelle](https://dashboard-daten.digitale-verwaltung.de/) bzw. auch über zugehörigen [OpenAPI](https://dashboard-daten.digitale-verwaltung.de/api/swagger-ui/index.html).
 
+Was bei größeren Unternehmen wie z.B. der Telekom mit [Scale](https://telekom.github.io/scale/) oder auch bei Porsche mit dem [Design System](https://designsystem.porsche.com/v3/) schon länger Praxis ist, nämlich vordefinierte UX-Komponenten und Design und UX-Vorgaben bereitzustellen. Damit ist bei der Entwicklung von Komponenten, wenn auch an externe Zulieferer (oder Unterabteilungen) outgesourct, trotzdem ein einheitliches Look-&-Feel sichergestellt. Mit [kern-ux.de](https://www.kern-ux.de/) entwickeln Schleswig-Holstein und Hamburg gemeinsam ebenfalls einen offenen UX-Standard, nur eben für die deutsche Verwaltung.
+
+## "Openness"-Kultur 
 Auch in anderen Ländern sind Qualität und Verfügbarkeit von offenen Daten ein Thema, wie [ein Interview](https://democracy-technologies.org/industry-news/a-must-for-every-city-open-data-in-kosice/) mit Michal Hladký, Leiter der kreativen Industrie in Košice, einer Großstadt im Osten der Slowakei, offenbart. Dabei hat er vornehmlich die Mentalität im Blick. Oftmals fehlt immer noch das Verständnis für Sinn und Notwendigkeit, Daten systematisch zu erfassen.
 
 Leigh Dodds, vormals am Open Data Institute beschäftigt, [plädiert dafür](https://blog.ldodds.com/2024/04/14/a-basis-for-better-definitions-of-open/), die Definition von "Open" nachzuschärfen. Neben dem Veröffentlichen eigener Werke unter freizügigen Lizenzen, sollten seiner Meinung auch die Prozesse, wie die Daten erzeugt worden sind (und sich so auch reproduzieren lassen), transparent gemacht werden. Auch die Infrastruktur, über die Daten bereitgestellt werden, sollte offen im Sinne von öffentlich aufrufbarer API, Einhalten von Standards und dauerhafter Verfügbarkeit sein. Und schließlich sollte die Organisation der Leute in ihrer Selbstverwaltung und ihrem Selbstverständnis offen sein.
@@ -70,6 +77,56 @@ Romina Colman, Product Owner des [Open Data Editors](https://opendataeditor.okfn
 Auch der [Abschlussbericht](https://thenew.institute/media/pages/documents/529e984d02-1698245881/the-new-hanse_blueprint_governing-urban-data-for-the-public-interest.pdf) des [New Hanse Projekts](https://www.thenewhanse.eu/de) des [New Institutes](https://thenew.institute/en) enthält viele Empfehlungen, die auch andere Städte und Kommunen befähigen können, Daten besser im öffentlichen Interesse zu teilen und zu nutzen. Wesentliche Erkenntnisse werden auch in dieser Paneldiskussion [angesprochen](https://www.youtube.com/watch?v=Qrg84lBGAVk).
 
 Die [Society for open, reliable, and transparent ecology and evolutionary biology (SORTEE)](https://www.sortee.org/) beantwortet in [ihrem Blog](https://www.sortee.org/blog/2024/04/12/2024_open_data_myths/) die häufigsten Fragen, die Forscher stellen, wenn sie zum ersten Mal mit dem Thema Offene Daten konfrontiert werden.
+
+## Open Educational Resources (OER)
+Wissen ist das einzige, was sich vermeht, wenn man es teilt. Das scheint das Motto des MIT OpenCourseWare YouTube-Kanal zu sein, der kostenlos Millionen von Lernwilligen [befähigt](https://news.mit.edu/2024/how-online-mit-courses-can-transform-future-world-0312), ihr Wissen und Können zu erweitern.
+
+Weitere Erfolgsgeschichten, wie Open Access, Open Data, OER und Open Science zu Fortschritten in Gesundheitsvorsorge, wirtschaftlicher Entwicklung, Krisenmanagement und mehr beitragen haben, sammelt [SPARC](https://sparcopen.org/) auf [dieser Seite](https://sparcopen.org/impact-stories/).
+
+Wer mehr über das Konzept OER erfahren möchte, speziell für den Einsatz an Hochschulen, kann das nun in 11 Sprachen in diesem [MOOC](https://open-educational-resources.de/mooc-startet-oer-in-higher-education/).
+  
+## Linked Open Data
+Jonny L. Saunders [streitet für "vulgäres" Linked Data](https://jon-e.net/surveillance-graphs/) als Alternative zur orthodoxen Cloud und dem damit verbundenen Überwachungskapitalismus.
+
+Bereits letztes Jahr hat [Johannes Busse](https://www.jbusse.de/) [technisch exploriert](https://www.jbusse.de/2023_ss_logd/3star-4star.html), wie man eine "Drei-Stern-Open-Data"-CSV-Datei in eine "Vier-Stern"-RDF-Datei übersetzen kann.
+
+Das Berliner Naturkundemuseum konnte mit Linked Open Data unbekannte Forschende [sichtbar machen](https://blog.wikimedia.de/2024/04/22/wie-das-naturkundemuseum-mit-linked-open-data-unbekannte-forschende-sichtbar-macht/).
+
+Die Staatsbibliothek Berlin hat in ihren [Digitalisierten Sammlungen](https://lab.sbb.berlin/dc/) rund 210.000 digitalisierte Objekte (Stand: April 2024). Mit zahlreichen neuen Funktionen sollen über die technischen Schnittstellen die Suche und Navigation in den Digitalisaten [noch einfacher und effizienter werden](https://openbiblio.social/@awinkler/112270531007443892).
+
+## Transparenz
+Mit einer [gestarteten Petition](https://www.openpetition.de/petition/online/ampelversprechen-halten-transparenzgesetz-jetzt-2) versucht das [Bündnis Bundestransparenzgesetz](https://www.transparenzgesetz.de/) den Druck auf die Bundesregierung [hoch zu halten](https://chaos.social/@fragdenstaat/112280575893007257), das lang versprochene Transparenzgesetz endlich vorzulegen.  
+
+Das Deutschland ein Transparenz-Problem hat, zeigen nicht zuletzt [eine staatliche "Zukunftsagentur", die intransparent über die Vergabe von Milliarden von Fördermitteln entscheidet](https://fragdenstaat.de/blog/2024/03/25/wohin-fliessen-die-steuermilliarden-fur-den-umbau-des-rheinischen-kohlereviers/) und [ein Tankrabatt, der bei den Endverbrauchern nur unvollständig ankam](https://fragdenstaat.de/blog/2024/04/11/wie-das-finanzministerium-beim-tankrabatt-warnungen-ignorierte/), dafür die Mineralölindustrie 2022 allein in Deutschland 70 Milliarden Euro zusätzliche Gewinne, auch durch den Tankrabatt, gemacht hat.
+
+Was FragDenStaat sonst so macht, [verrät Kara Engelhardt im Interview mit dem eGovernment Podcast](https://egovernment-podcast.com/egov172-fragdenstaat/).
+
+## Transparente Parlamentsarbeit
+Die Bundesregisierung hat nicht nur ein Transparenz- sondern ein generelles Umsetzungproblem. Im Koalitionsvertrag war ein digitales Gesetzgebungsportal versprochen, "über das einsehbar ist, in welcher Phase sich Vorhaben befinden". Dieses Portal gibt es immer noch nicht, so dass Sabrina vom [Podcast Parlamentsrevue](https://parlamentsrevue.de/) als privates Projekt den [Bundestagszusammenfasser](https://bundestagszusammenfasser.de) aufgesetzt hat. Über die Hintergründe und wie man sie unterstützen kann, sprach sie im [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/lnp489-das-kabinett-ist-nicht-maschinenlesbar).
+
+Daten und Analysen von Abstimmungen und von Redebeiträgen in den Stadtratssitzungen der Landeshauptstadt Magdeburg liefert sehr anschaulich das Projekt [stadtratwatch.de](https://www.stadtratwatch.de) von [Code for Magdeburg](https://codefor.de/magdeburg/). Der Code ist [OpenSource](https://github.com/code-for-magdeburg/StadtratWatch-web). Für jede Abstimmung ist die entsprechende Stelle im Live-Stream der Ratssitzung verlinkt. Für jedes Ratsmitglied lassen sich das Abstimmverhalten (auch in Vergleich zu anderen Stadträten) und Redebeiträge einzeln auswerten. 
+
+## Kartendaten
+Die [Daten](https://codeberg.org/marcelo-soares-souza/agroecology-map) der [Agroecology Map](https://agroecologymap.org) werden unter der Creative Commons 4.0 (BY-NC-SA 4.0) Lizenz im GeoJSON-Format [veröffentlicht](https://mas.to/@AgroecologyMap/112207775951439947), somit werden Analysen auf Grundlage der Rohdaten möglich.
+
+Auch das [Digitale Landschaftsmodell 1:1.000.000 (DLM1000)](https://gdz.bkg.bund.de/index.php/default/digitale-geodaten/digitale-landschaftsmodelle/digitales-landschaftsmodell-1-1-000-000-ebenen-dlm1000-ebenen.html) wurde [auf den Stand vom 31.12.2023 aktualisiert](https://social.bund.de/@BKG/112314188311748212).
+
+Derzeit gibt es in Deutschland 84 Lebens- und Genussmittel mit geschützter geographischer Angabe und zwölf mit geschützter Ursprungsbezeichnung, die Karte und mehr Informationen gibt es auf [Nationalatlas aktuell](https://aktuell.nationalatlas.de/lebensmittel-2_04-2024-0-html/).
+
+OpenStreetMap hat auf Mastodon [festgestellt](https://chaos.social/@openstreetmap@en.osm.town/112286919499119355), dass die [Deutsche Post](https://www.deutschepost.de/de.html) die Kartenanzeigen auf ihren öffentlichen Webseiten (z.B. auch [DHL](https://www.dhl.de/de/privatkunden.html)) von Google Maps auf [OpenStreeMap](https://www.openstreetmap.org/) umgestellt hat. Insofern ironisch, da die Post Lizenzabkommen mit allen Bundesländern hat, die es ihnen verbieten, die PLZ-Gebiete als Open Data bereitzustellen, wie der Nutzer [md](https://chaos.social/@md/112294214334749177) als auch das [OKLab Flensburg](https://norden.social/@oklabflensburg/112317368822483974) erinnern.
+
+Wie man mit nur wenigen Zeilen Python-Code Gebäudedaten aus [Overture](https://overturemaps.org/) mit Python-Bibliothek [Lonboard](https://developmentseed.org/lonboard/latest/) in einem [Jupyter Notebook](https://jupyter.org/) auf eine Karte plotten kann, erfährt man aus dieser [Anleitung](https://developmentseed.org/lonboard/latest/examples/overture-maps/).
+
+(Nicht) Getroffene Entscheidungen bezüglich Klima und Energie in diesem Jahrzehnt werden darauf Einfluss haben, wie weit der Meeresspiegel in den nächsten Jahrhunderten steigen wird. Mit dieser [interaktiven Anwendung](https://coastal.climatecentral.org/) kann man die Ergebnisse der verschiedenen Erwärmungsszenarien simulieren.
+
+## Klima
+Die Auswertung der Copernicus-Daten [hat ergeben](https://climate.copernicus.eu/copernicus-march-2024-tenth-month-row-be-hottest-record), dass der März 2024 bereits der 10. Monat in Folge ist, [der global mit seiner Durchschnittstemparatur als heißester seit Wetteraufzeichnung gilt](https://fediscience.org/@OceanTerra/112239523644950444).
+
+Über den jahrelangen Wassermangel und den beständig sinkenden Grundwasserspiegel in Brandenburg liest man schon länger, wie dramatisch die Veränderungen inzwischen sind, kann man beim Vergleich der Luftaufnahmen von Seen [feststellen](https://en.osm.town/@tordans/112301849485325848).
+
+Eine neue Technik kann Methanwolken auf Satellitenfotos sichtbar machen. Dadurch haben Organisationen, Verbände, Bürger und Staaten endlich eine Handhabe, um gegen die Konzerne klagen, die diese Methanlecks, z.B. durch Fracking verursacht haben, berichtet [Der Klimablog](https://derklimablog.de/wissen/das-auge-aus-dem-all/).
+
+Zur Beurteilung und Vergleich von Klimaschutz auf kommunaler Ebene braucht es ein einheitliches Ranking. Das neue Portal [stadt.land.klima](https://www.stadt-land-klima.de/) hat sich dem angenommen und einen entsprechenden Kriterienkatalog erarbeitet. Mit ihm lässt sich der Umsetzungsstand der wichtigsten Klimaschutzmaßnahmen, welche im Handlungsspielraum der Kommunen liegen, bewerten. Die Rankings für die ersten Städte findet man [hier](https://www.stadt-land-klima.de/municipalities). Wie man bei der Bewertung der eigenen Stadt unterstützen kann, wird in den zahlreichen [Onboarding-Terminen](https://www.stadt-land-klima.de/mitmachen) vom Team erklärt. Zudem werden noch (ehrenamtliche) (Frontend-)-Entwickler:innen gesucht.
 
 ## Verkehr
 * KVB Live Fahrplan (Alternative, kommerziell von Startup)
@@ -85,98 +142,6 @@ Die [Society for open, reliable, and transparent ecology and evolutionary biolog
   * https://wn49.stadtarmmobil.de/
 * superblockify: A Python Package for Automated Generation, Visualization, and Analysis of Potential Superblocks in Cities
   * https://arxiv.org/abs/2404.15062
-
-## Standardisierung
-* Rechtsgutachten zeigt: [Öffentliche Hand darf und sollte CC-Lizenzen nutzen](
-  https://blog.wikimedia.de/2024/04/04/rechtsgutachten-zeigt-oeffentliche-hand-darf-und-sollte-cc-lizenzen-nutzen/)
-* Schleswig-Holstein und Hamburg entwickeln offenen UX-Standard: [kern-ux.de](https://kern-ux.de)
-* Staatsbibliothek Schnittstellen:
-  "Sie kennen vermutlich bereits unsere Digitalisierten Sammlungen, in denen wir aktuell (Stand: April 2024) rund 210.000 digitalisierte Objekte aus dem Bestand der SBB online präsentieren? Mit einer Vielzahl an Features (für aktuell in der Entwicklung befindliche Funktionen siehe auch die Beta-Version der Digitalisierten Sammlungen) hoffen wir, die Suche und das Stöbern in unseren Digitalisaten möglichst einfach und effizient zu gestalten."
-  https://lab.sbb.berlin/dc/
-  via https://openbiblio.social/@awinkler/112270531007443892
-
-## Parlamente
-* Bundestagszusammenfasser:
-  Alle Gesetzesvorhaben der aktuellen Legislaturperiode – vom Eckpunktepapier bis zur Verkündung, alles an einem Ort.
-  https://panoptikum.social/episodes/8875509
-  https://bundestagszusammenfasser.de
-  https://bundestagszusammenfasser.de/unterstuetzen
-* Daten und Analysen von Abstimmungen und von Redebeiträgen in den Stadtratssitzungen der Landeshauptstadt Magdeburg
-  https://www.stadtratwatch.de
-  via https://machteburch.social/@JensWinter/112338832335156748
-
-## Linked Open Data
-* [Johannes Busse](https://www.jbusse.de/) [HAW Landshut] [exploriert technisch](https://www.jbusse.de/2023_ss_logd/3star-4star.html), wie man eine “Drei-Stern”-CSV-Datei in eine “Vier-Stern”-RDF-Datei übersetzen kann
-  
-* Vulgarity and Cloud Orthodoxy in Linked Data Infrastructures
-  https://jon-e.net/surveillance-graphs/
-  via https://mastodon.social/@leibnizopenscience/112234778277080145
-* Wie das Naturkundemuseum mit Linked Open Data unbekannte Forschende [sichtbar macht](
-  https://blog.wikimedia.de/2024/04/22/wie-das-naturkundemuseum-mit-linked-open-data-unbekannte-forschende-sichtbar-macht/)
-
-## Dateninstitut
-* Kick-Off zur Gründung des Dateninstituts (Pressemitteilung)
-  https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2024/04/kick-off-dateninstitut.html
-  * Zäh wie Kaugummi war bisher der Prozess zur Gründung des Dateninstituts. Das Projekt der Ampel galt bei manchen schon als abgeschrieben, da meldeten sich die zuständigen Ministerien auf einmal wieder bei den mit den Füßen scharrenden „Followern“, die seit Monaten auf Ansagen warten. Die lange erwart
-
-## Transparenz
-* Die Politik hat ein Transparenz-Problem. Die Ampel hat ein #Transparenzgesetz versprochen und das fordern wir in einer neuen #Petition mit unseren Bündnispartner*innen @lobbycontrol @transparency_de @a_watch @okfde @nrecherche @DJV sowie Mehr Demokratie, Deutschen Gesellschaft für Informationsfreiheit und OpenPetition.
-  https://chaos.social/@fragdenstaat/112280575893007257
-  https://www.openpetition.de/petition/online/ampelversprechen-halten-transparenzgesetz-jetzt-2
-* "Wenn sich Behörden und ein staatliches Unternehmen gegenseitig die Verantwortung zuschieben, leiden Transparenz und Rechenschaft gegenüber der Öffentlichkeit."
-  https://fragdenstaat.de/blog/2024/03/25/wohin-fliessen-die-steuermilliarden-fur-den-umbau-des-rheinischen-kohlereviers/
-* fragdenstaat.de ist eine interessanten und wichtige Plattform zur Bündelung von Informationsfreiheitsanfragen (IFG). Was diese Plattform macht und welche Anfragen bisher gemacht worden, bespreche ich mit Kara Engelhardt.
-  https://egovernment-podcast.com/egov172-fragdenstaat/
-* Wie das Finanzministerium beim Tankrabatt alle Warnungen ignorierte
-  https://fragdenstaat.de/blog/2024/04/11/wie-das-finanzministerium-beim-tankrabatt-warnungen-ignorierte/
-  * 70 Milliarden Euro zusätzliche Gewinne verbuchte die Mineralölindustrie 2022 allein in Deutschland – auch durch den Tankrabatt. Sowohl das Bundeskartellamt als auch mehrere Studien kamen zu dem Ergebnis, dass der Rabatt nicht vollständig weitergegeben wurde. 
-    https://mastodon.social/@TwraSun/112275710270433006
-  
-## Klima
-* Copernicus: March 2024 is the tenth month in a row to be the hottest on record
-  https://climate.copernicus.eu/copernicus-march-2024-tenth-month-row-be-hottest-record
-  via https://fediscience.org/@OceanTerra/112239523644950444
-* I am doing some #OpenStreetMap updates in rural Brandenburg, Germany. And I have been reading about water shortage and lowering groundwater levels for a few years. But I never imaged how well one can see the change in the aerial imagery of the last couple of years…
-  https://en.osm.town/@tordans/112301849485325848
-* Das Auge aus dem All
-  Neue Satellitentechnik jagt ab sofort fossile Konzerne, die sich bis jetzt um Methanlecks foutiert haben. Das ist einer der größten Gamechanger für die Rettung des Planeten. Wer dahinter steckt, wie es funktioniert und was es bewirkt.
-  https://derklimablog.de/wissen/das-auge-aus-dem-all/
-* Gerade wurde beim Bits und Bäume Treffen https://www.stadt-land-klima.de vorgestellt. Der Pilot lief von Oktober bis letzte Woche. Seit letzte Woche ist die Webseite online. Aktuell haben sie nur zwei Kommunen, die nach einem Kriterienkatalog bewertet worden sind: https://www.stadt-land-klima.de/municipalities Das Datenformat musste beim Umstieg vom Piloten auf die aktuelle Beta angepasst werden. Daher werden die exportierten Daten der Komunnen aus dem Piloten in den nächsten Wochen importiert werden. Das machen sie nicht zentral. Zur Bewertung der eigenen Kommune: vorher Onboarding empfehlenswert → info@stand-land-klima.de
-Es werden noch (ehrenamtliche)  (Frontend-)-Entwickler:innen gesucht.In die Erarbeitung des Kriterienkatalogs sind zwei Jahre geflossen. Grundlage waren die Daten vom Umweltbundesamt.
-  https://www.stadt-land-klima.de/
-
-## Open Educational Resources (OER)
-* MIT OpenCourseWare’s YouTube channel inspires millions of learners across the globe to expand their knowledge and develop new skills for free.
-  https://news.mit.edu/2024/how-online-mit-courses-can-transform-future-world-0312
-* Looking for success stories to make the case for open practices? We have examples of how #OpenAccess, #OpenData, #OER & #OpenScience have resulted in advancements in disease prevention, economic development, crisis management, career development & more.
-  https://sparcopen.org/impact-stories/
-  via https://mastodon.social/@sparc/112208794732776044
-* MOOC zu “OER in Higher Education” in 11 Sprachen
-  https://open-educational-resources.de/mooc-startet-oer-in-higher-education/
-
-## Kartendaten
-* We make the Agroecology Map data available in GeoJSON format so that you can use it in your analyses. You can now export all data and use it under the Creative Commons 4.0 (BY-NC-SA 4.0) license.
-  https://mas.to/@AgroecologyMap/112207775951439947
-  https://agroecologymap.org
-  https://codeberg.org/marcelo-soares-souza/agroecology-map
-* You've got mail! Germany's national postal service (Deutsche Post/DHL) has switched to OpenStreetMap for their public facing websites, https://deutschepost.de, https://dhl.de.
-  https://chaos.social/@openstreetmap@en.osm.town/112286919499119355
-  * @openstreetmap you do realize that those guys are our enemy no. 1 in germany?
-    They have licensing agreements with all german states prohibiting them from providing opendata to OSM
-    https://chaos.social/@md/112294214334749177
-  * https://norden.social/@oklabflensburg/112317368822483974	
-* Climate and energy choices this decade will influence how high sea levels rise for hundreds of years. Adjust the sliders below to compare the outcomes of different warming scenarios. 
-  https://coastal.climatecentral.org/
-* Das Digitale Landschaftsmodell 1:1.000.000 (DLM1000) wurde aktualisiert und steht mit dem Stand 31.12.2023 zur Verfügung. #OpenData #Geodaten
-  https://social.bund.de/@BKG/112314188311748212
-* Overture Maps Buildings in Jupyter Notebook with Python library Lonboard
-  https://developmentseed.org/lonboard/latest/examples/overture-maps/
-  via https://mapstodon.space/@kylebarron/112316546569974326
-* Lebensmittel mit geschützter geographischer Herkunft: Vielfalt und Qualität durch Verortbarkeit?
-  https://aktuell.nationalatlas.de/lebensmittel-2_04-2024-0-html/
-  * Derzeit gibt es in Deutschland 84 Lebens- und Genussmittel mit geschützter geographischer Angabe und zwölf mit geschützter Ursprungsbezeichnung: vom „Beelitzer Spargel“ über die „Nordhessische Ahle Worscht“ bis zum "Münchner Bier".
-    Doch zu welchem Zweck bietet die EU überhaupt einen derartigen Schutz? Und welche Kriterien sind zu erfüllen, um in den Genuss eines solchen Zertifikats zu gelangen? 
-    https://wisskomm.social/@Leibniz_IfL/112360299132565771
 
 ## OpenSource
 * German federal state Schleswig-Holstein moving 30000 PCs to LibreOffice
