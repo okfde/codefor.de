@@ -174,8 +174,6 @@ Nachdem zuletzt die xz-Attacke groß in den Medien war, sind nun Hinweise auf ä
 Etwas für Nostalgiker: Microsoft veröffentlicht den [Quellcode für MS-DOS 4.0](https://www.heise.de/news/Microsoft-veroeffentlicht-Quellcode-fuer-MS-DOS-4-0-9700190.html) (kam 1986/87 raus) und [Talya](https://433.world/@Yuvalne/112212179588079476) hat die Suchmaschine [gifcities.org](https://gifcities.org) entdeckt, mit der man die vor allen in den 90-er Jahren und frühen 2000-er gern in privaten Homepages verbauten animierten GIFs auffinden kann.
 
 ## Veranstaltungen
-* Montag, 06.05.2024, 18 Uhr (weitere Alternativen: Samstag, 11.05., 11 Uhr und Mittwoch, 15.05., 19 Uhr): **Onboarding Stadt.Land.Klima**
-  * https://www.stadt-land-klima.de/mitmachen
 * Dienstag, 07.05.2024, 20:00, c-base, Berlin und online: **136. Netzpolitischer Abend: Aktivismus im Visier – Überwachung in politischen Strafverfahren**
   * https://digitalegesellschaft.de/2024/04/136-netzpolitischer-abend
   * Stream: https://www.youtube.com/cbasespacestation
@@ -190,6 +188,8 @@ Etwas für Nostalgiker: Microsoft veröffentlicht den [Quellcode für MS-DOS 4.0
   * https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/das-kommunale-open-data-netzwerktreffen#c234826
 * Dienstag, 21.05.2024, 11:00-11:30, Zoom: **Espresso Runde mit Oliver Rack: "Open Gov und Zivilgesellschaft"**
   * https://community.civic-data.de/content/perma?id=3191
+* Donnerstag, 23.05.2024, 19 Uhr (weitere Alternative: Mittwoch, 29.05, 19 Uhr): **Onboarding Stadt.Land.Klima**
+  * https://www.stadt-land-klima.de/mitmachen
 * Freitag, 24.05.2024, 08:30-17:00, Fribourg, Schweiz: **Opendata.ch/2024 Forum**
   * https://eventfrog.ch/fr/p/visites-conferences/conference/opendata-ch-2024-forum-7140116660074006887.html
 * Freitag, 24.05.2024, bis, Sonntag, 26.05.2024, Hochschule für Technik und Wirtschaft Dresden, Friedrich-List-Platz 1, Dresden: **Open Data Camp 2024: Cool down - hack die Extreme**
