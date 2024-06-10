@@ -1,7 +1,7 @@
 ---
 title: "Keine Zeit für Opportunisten – Out in the Open Mai 2024"
 author: "Jörg Reichert (Code for Leipzig)"
-date: '2024-05-10T08:00:00+02:00'
+date: '2024-05-14T08:00:00+02:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
 topic: community
 images:
