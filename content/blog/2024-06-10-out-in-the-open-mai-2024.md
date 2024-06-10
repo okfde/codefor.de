@@ -11,6 +11,7 @@ og_image: out-in-the-open-2024-05-header.jpg
 type: blog
 ---
 
+
 ## Informationsfreiheit
 * Welche Vorteile bringen IFG-Anfragen? Wie sieht es auf EU-Ebene aus? Diese und weitere Fragen beantworten unsere Expert:innen in unserer Videoreihe "Fragen & Antworten - Auskunftsrechte kennen & nutzen". Ein gemeinsames Projekt mit Netzwerk Recherche
   https://www.youtube.com/playlist?list=PL9h-RCl9wnxrIC5bONsB-W19MYxP8Iisb
@@ -37,6 +38,10 @@ type: blog
 * Wir müssen das Gemeinnützigkeitsrecht dringend reformieren und endlich Rechtssicherheit für gemeinnützigen Journalismus in Deutschland schaffen.
   https://netzpolitik.org/2024/volksverpetzer-blog-gegen-desinformation-verliert-die-gemeinnuetzigkeit/
   https://innn.it/journalismus
+* Wikimedia-Positionspapier zur Gemeinnützigkeitsrechtsreform
+  https://social.wikimedia.de/users/wikimediaDE/statuses/112530302150906855
+  https://commons.wikimedia.org/wiki/File:2110_Positionspapier_Gemeinn%C3%BCtzigkeitsreform.pdf
+  via https://social.wikimedia.de/@wikimediaDE/112530310931237665
 * The Subscribe to Open (S2O) model enables open access to journal content, i.e. at no additional cost to either authors or readers.
   https://www.insmi.cnrs.fr/en/cnrsinfo/subscribe-open-model-open-science-success-story
 
@@ -60,6 +65,11 @@ type: blog
   via https://social.bund.de/@opendatabund/112524090233594342
 * Open Data Day in Berlin
   https://eupolicy.social/users/lilliiliev/statuses/112529456886317582
+* Wir veröffentlichen das erste Open Data Ranking!
+  https://opendataranking.de/
+  https://chaos.social/@okfde/112530212943249580
+* Arbeitet ihr mit Open Governmental Data? Dann helft doch mal schnell einer Studierenden der Fernuni Hagen, die Faktoren der Akzeptanz und Nutzung von OGD untersucht:
+  https://umfrage.fernuni-hagen.de/v3/761958?lang=de
 
 ## OpenSource
 * ARD und ZDF wollen ihren Streaming-Code als Open Source anbieten
@@ -71,6 +81,8 @@ type: blog
 * "Wenn Open-Source-Projekte scheitern, liegt dies nicht an Open-Source-Software, sondern daran, dass wir nicht verstanden haben, wie wir sie beschaffen und pflegen müssen", stellte die Referentin klar. Oft mangle es auch den Gesetzgebern an Hintergrundwissen zu freier Software.
   https://www.netzwoche.ch/news/2024-05-15/das-leistet-open-source-fuer-den-digitalen-service-public
   via https://chaos.social/@adfichter/112455677813880030
+* Bund: Lizenzkosten für Microsoft auf hohem Niveau, insgesamt neuer Rekord
+  https://www.heise.de/news/Bund-Lizenzkosten-fuer-Microsoft-auf-hohem-Niveau-insgesamt-neuer-Rekord-9744319.html
 
 ## OpenHardware
 * Physikalisch-Technische Bundesanstalt: Open-Source-MRT im Akku-Betrieb
@@ -109,6 +121,8 @@ type: blog
 * Unveiling ‘Under the Surface’: a cross-border investigation exposing Europe’s groundwater crisis
   https://journalismarena.eu/under-the-surface/
   via https://mastodon.cc/@info_activism/112524379471987575
+* Nerds im Energiemanagement, eine Idee eskaliert.
+  https://media.ccc.de/v/gpn22-358-nerds-im-energiemanagement-eine-idee-eskaliert-
 
 ## Mobilität
 * GTFS algorithms about to land in Trajectools
@@ -119,7 +133,9 @@ type: blog
 * Bike network planning in limited urban space
   https://arxiv.org/pdf/2405.01770
   via https://datasci.social/@mszll/112410198781229412
-* Referentenentwurf des Mobilitätsdatengesetz
+* Stellungsnahme zum Referentenentwurf des Mobilitätsdatengesetz
+  https://commons.wikimedia.org/wiki/File:240529_Stellungnahme_Mobilit%C3%A4tsdatengesetz.pdf
+  via https://eupolicy.social/users/lilliiliev/statuses/112535225234649245
 * Entwicklung einer geodatenbasierten „TwinCity3D“-Plattform und KI-Analysetools zur Unterstützung einer umweltfreundlichen Stadt- und Verkehrsplanung
   https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/mfund-projekte/twincity3d.html
   via https://social.bund.de/@bmdv/112523693029090880
@@ -139,10 +155,20 @@ type: blog
 * DESI Methodological Note - Digital Decade report 2023
   Digitale Behördengänge in der EU: Deutschland dümpelt im hinteren Mittelfeld
   https://www.heise.de/hintergrund/Digitale-Behoerdengaenge-in-der-EU-Deutschland-duempelt-im-hinteren-Mittelfeld-9688699.html
+* Einsamkeitsbarometer 2024: Langzeitentwicklung von Einsamkeit in Deutschland
+  https://www.bmfsfj.de/bmfsfj/service/publikationen/einsamkeitsbarometer-2024-237576
 
 ## Geodaten
 * GDAL 3.9 was released today with a bunch of updates for GeoParquet, including support for spatial filtering in the upcoming GeoParquet 1.1 version!
   https://mapstodon.space/@kylebarron/112417266107745326
+* Wastefreemap is a global map for separate waste collection
+  https://wastefreemap.com/
+  https://www.geosemantica.com/wastefreemap-global-map-for-recycling-collection-points
+  via https://social.agroecologymap.org/@AgroecologyMap/112530520681172268
+* QGIS-Tipp: GeoBasis_Loader v0.4 mit RLP, HE und HB/BHV
+  https://geoobserver.de/2024/05/31/qgis-tipp-geobasis_loader-v0-4-mit-rlp-he-und-hb-bhv/
+* ChatGPT Data Analyst vs movement data
+  https://anitagraser.com/2024/05/30/chatgpt-data-analyst-vs-movement-data/
 
 ## KI
 * KI macht digitales Zeitzeugnis interaktiv erlebbar
@@ -192,8 +218,6 @@ type: blog
     https://digitalcourage.social/@midide/112528248297258524
   * Den Status quo überwinden: die Potenziale einer Open Circular Society
 	https://re-publica.com/de/session/den-status-quo-ueberwinden-die-potenziale-einer-open-circular-society
-
-* GPN
 
 ## Veranstaltungen
 * Dienstag, 04.06.2024, 20:00, c-base, Berlin und online: **137. Netzpolitischer Abend: Bunter Themenabend mit Fokus auf Europa**
