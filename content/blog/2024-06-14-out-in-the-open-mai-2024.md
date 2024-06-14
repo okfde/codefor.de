@@ -68,6 +68,7 @@ type: blog
 * Wir veröffentlichen das erste Open Data Ranking!
   https://opendataranking.de/
   https://chaos.social/@okfde/112530212943249580
+  https://okfn.de/blog/2024/05/opendataranking/
 * Arbeitet ihr mit Open Governmental Data? Dann helft doch mal schnell einer Studierenden der Fernuni Hagen, die Faktoren der Akzeptanz und Nutzung von OGD untersucht:
   https://umfrage.fernuni-hagen.de/v3/761958?lang=de
 
@@ -222,6 +223,8 @@ type: blog
 ## Veranstaltungen
 * Dienstag, 04.06.2024, 20:00, c-base, Berlin und online: **137. Netzpolitischer Abend: Bunter Themenabend mit Fokus auf Europa**
   * https://digitalegesellschaft.de/2024/05/137-netzpolitischer-abend/
+* Mittwoch, 05.06.2024, Deutscher Caritasverband e.V. Haus der Deutschen Caritas, Reinhardtstraße 13, Berlin-Mitte: **Workshop on Digital Citizenship Education and Building the Civic Tech Collaboration Models within the Community and Government**
+  * https://g0v.hackmd.io/@jothon/2024Berlinworkshop
 * Freitag, 07.06.2024, 08:30-12:40: **Digitaltag**
   * https://digitaltag.eu/programm-livestream-2024
 * Freitag, 07.06.2024, 16:00, bis Sonntag, 09.06.2024, 16:30, Bamberg: **Intergalaktische Erfahrungsreise (IGER)**
@@ -236,6 +239,8 @@ type: blog
   * https://creativebureaucracy.org/de/
 * Donnerstag, 13.06.2024, bis Sonntag, 16.06.2024, Zeltplatz Messerschmidmühle, Marchetsreut: **VVoid Camp**
   * https://www.vvoid.camp
+* Freitag, 14.06.2024, 10:00-15:00, Tempelhofer Ufer 23-24, Berlin: **Netzwerktreffen offene Kulturdaten 2024**
+  * https://meta.wikimedia.org/wiki/Netzwerktreffen_offene_Kulturdaten_2024
 * Freitag, 21.06.2024, 17:00-22:30, Tempelhofer Ufer 23-24, Berlin: **20-Jahre-Fest von Wikimedia Deutschland**
   * https://www.wikimedia.de/veranstaltungen/20-jahre-fest-von-wikimedia-deutschland/
 * Mittwoch, 26.06.2024, 20:00-21:30, online, **OpenTransportMeetup - OpenRail Foundation**
@@ -248,9 +253,22 @@ type: blog
   * https://cosin.ch/de/
 * Samstag, 29.06.2024, 13:00, bis Sonntag, 30.06.2024, 17:00, Rollbergstr. 28A, Berlin: **48 Stunden Neukölln - mit der KI-Ideenwerkstatt für Umweltschutz**
   * https://www.ki-ideenwerkstatt.de/veranstaltungen/48-stunden-neukoelln-mit-der-ki-ideenwerkstatt-fuer-umweltschutz/
+* Dienstag, 02.07.2024, 19:00-20:30: **Superblocks-Runde im Juli - Ergebnisse aus dem bürgerwissenschaftlichen Projekt COMPAIR**
+  * https://changing-cities.org/civicrm/event/info/?reset=1&id=99
+* Donnerstag, 04.07.2024, 19:31: **Bits und Bäume Online-Community-Treffen**
+  * https://wiki.bits-und-baeume.org/community-treffen/
+  * https://bbb.tu-dresden.de/rooms/qje-7si-xu1-lul/join
 
 
 ## Call for Participation
-* Civic Coding-Accelerator - Wirkung erzeugen mit KI
+* Call for Paper: Netzpolitik, die Konferenz, 13.09.2024, Einreichungen bis Sonntag, 16.06.2024, 23:55
+  * https://pretalx.com/netzpolitik-org-2024/cfp
+* PIAZZA-Konferenz 2024: Call for Workshops, 14.11.2024, Einreichungen bis Montag, 17.06.2024
+  * https://okfn.de/blog/2024/05/piazza-konferenz-2024-call-for-workshops/
+* Civic Coding-Accelerator - Wirkung erzeugen mit KI, Bewerbungen bis Sonntag, 14.07.2024
   * https://www.civic-coding.de/angebote/accelerator
-  * Bewerbungen bis zum 14.07.2024 möglich
+* Call for Paper: Datenspuren, 20.09.2024 bis 22.09.2024, Einreichungen bis Mittwoch, 31.07.2024
+  * https://datenspuren.de/2024/
+  * https://talks.datenspuren.de/ds24/
+* Call for Proposals for the Matrix Conference, Einreichungen bis Mittwoch, 26.06.2024, 09:59
+  * https://matrix.org/blog/2024/06/matrix-conf-cfp/
