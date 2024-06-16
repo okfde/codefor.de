@@ -11,14 +11,14 @@ og_image: out-in-the-open-2024-05-header.jpg
 type: blog
 ---
 
-
 ## Informationsfreiheit
-* Welche Vorteile bringen IFG-Anfragen? Wie sieht es auf EU-Ebene aus? Diese und weitere Fragen beantworten unsere Expert:innen in unserer Videoreihe "Fragen & Antworten - Auskunftsrechte kennen & nutzen". Ein gemeinsames Projekt mit Netzwerk Recherche
-  https://www.youtube.com/playlist?list=PL9h-RCl9wnxrIC5bONsB-W19MYxP8Iisb
+Wie steht es um Transparenz und Informationsfreiheit in Deutschland? Darüber gibt Arne Semsrott als Interview-Partner in der [aktuellen Folge](https://chaosradio.de/cr290-dicke-bretter-diesmal-mit-freiem-zugang-zu-informationen) des Podcasts "Dicke Bretter" Auskunft. In der Videoreihe ["Fragen & Antworten - Auskunftsrechte kennen & nutzen"](https://www.youtube.com/playlist?list=PL9h-RCl9wnxrIC5bONsB-W19MYxP8Iisb) wird unter anderem auf das Recht hingewiesen, Anfragen nach Informationsfreiheitsgesetz (IFG) stellen zu dürfen, inzwischen auch auf EU-Ebene. Seine Rechte zu kennen ist wichtig, da es immer wieder Ausflüchte von den informationspflichtigen Behörden gibt. Tania Röttger und Vera Deleja-Hotko sehen Auskunftsrechte als Game Changer bei investigativen Recherchen und berichten aus der Praxis [in ihrem Vortrag auf der re:publica](https://www.youtube.com/watch?v=vUnHFEDlLKA&list=PLAR_6-tD7IZV6D2ud_q905-riF4QAp3Jy&index=263).
+
+
+
+
 * Ob Abrechnungen von Reisekosten, üppige Tagegelder oder Zahlungen an Mitarbeiter*innen: Das EU-Parlament hält seit Jahrzehnten Unterlagen zur Ausstattung von EU-Abgeordneten geheim. Nach unserer Klage urteilte das Europäische Gericht in Luxemburg heute erstmals, dass diese Unterlagen in einem Fall an uns herausgegeben werden müssen.
   https://fragdenstaat.de/blog/2024/05/08/eu-parlament-muss-daten-zu-griechischem-neonazi-offenlegen/
-* Podcastfolge mit Arne Semsrott:  Damit die Öffentlichkeit nicht außen vor ist, braucht es Informationsfreiheit
-  https://chaosradio.de/cr290-dicke-bretter-diesmal-mit-freiem-zugang-zu-informationen
 * Wenn Gesetze verfasst oder geändert werden, sollen zivilgesellschaftliche Verbände durch Stellungnahmen ihre Expertise einbringen. Bei mehr als zwei Drittel war die Antwortzeit zu kurz, wie unsere Recherchen zeigen.
   https://fragdenstaat.de/blog/2024/05/15/stellungnahmefristen-interessensverbande-zu-wenig-zeit/
 * Das BMZ hat jetzt auch ein eigenes Datenportal! Auf dem findet ihr verschiedene Publikationen zur Entwicklungszusammenarbeit
@@ -137,6 +137,10 @@ type: blog
 * Stellungsnahme zum Referentenentwurf des Mobilitätsdatengesetz
   https://commons.wikimedia.org/wiki/File:240529_Stellungnahme_Mobilit%C3%A4tsdatengesetz.pdf
   via https://eupolicy.social/users/lilliiliev/statuses/112535225234649245
+  * https://www.politico.eu/wp-content/uploads/2024/05/09/RefE_MobDG-clean.pdf
+  * Bearbeitungsstand: 19.04.2024 08:12
+    * https://bmdv.bund.de/SharedDocs/DE/Gesetze-20/entwurf-eines-gesetz-bereitstellung-und-nutzung-von-mobilitaetsdaten.html
+  * https://www.bitkom.org/Bitkom/Publikationen/Mobilitaetsdatengesetz
 * Entwicklung einer geodatenbasierten „TwinCity3D“-Plattform und KI-Analysetools zur Unterstützung einer umweltfreundlichen Stadt- und Verkehrsplanung
   https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/mfund-projekte/twincity3d.html
   via https://social.bund.de/@bmdv/112523693029090880
@@ -200,7 +204,7 @@ type: blog
 
 ## Recap
 * Re:publica
-  https://www.youtube.com/@republica/videos
+  https://www.youtube.com/watch?v=SmUH2TXC_Ys&list=PLAR_6-tD7IZV6D2ud_q905-riF4QAp3Jy&index=5
   * Welcome to "peak cynicism" – da, wo "KI" angepreist wird, um mit ihr die Schäden, die ihre ausbeuterischen Produktionsbedingungen selbst angerichtet haben, zu verwalten, statt sie zu verhindern.
     https://re-publica.com/de/session/ki-wird-uns-alle-retten-es-sei-denn-sie-tut-es-nicht
   * Die Zukunft der Offenheit - Reclaim oder Reform?
@@ -243,6 +247,8 @@ type: blog
   * https://meta.wikimedia.org/wiki/Netzwerktreffen_offene_Kulturdaten_2024
 * Freitag, 21.06.2024, 17:00-22:30, Tempelhofer Ufer 23-24, Berlin: **20-Jahre-Fest von Wikimedia Deutschland**
   * https://www.wikimedia.de/veranstaltungen/20-jahre-fest-von-wikimedia-deutschland/
+* Dienstag, 25.06.2024, 16:00-19:00, online via Zoom: **Online-Workshop "Offene Daten in der Zivilgesellschaft" im Civic Data Lab**
+  * https://gstoo.de/offene-Daten
 * Mittwoch, 26.06.2024, 20:00-21:30, online, **OpenTransportMeetup - OpenRail Foundation**
   * https://hackmd.okfn.de/opentransportmeetup
 * Donnerstag, 27.06.2024, 09:00, Haus Ungarn, Karl-Liebknecht-Str. 9, Berlin: **CityLAB Sommerkonferenz**
@@ -258,7 +264,6 @@ type: blog
 * Donnerstag, 04.07.2024, 19:31: **Bits und Bäume Online-Community-Treffen**
   * https://wiki.bits-und-baeume.org/community-treffen/
   * https://bbb.tu-dresden.de/rooms/qje-7si-xu1-lul/join
-
 
 ## Call for Participation
 * Call for Paper: Netzpolitik, die Konferenz, 13.09.2024, Einreichungen bis Sonntag, 16.06.2024, 23:55
