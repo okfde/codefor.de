@@ -21,15 +21,14 @@ Das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ) 
 Ebenfalls neu ist die [Suchmaschine für die Tätigkeitsberichte der Datenschutzbehörden](https://taetigkeitsberichte.com). Auf dieser privat betriebenen Webseite kann man die dokumentierte Arbeit aller 16 Datenschutzbeauftragten der Länder, die des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit, aber auch von den jeweiligen Beauftragten der öffentlichen Rundfunkanstalten und der kathlolischen Kirche anschaulich durchsuchen. Das von der Stiftung Datenschutz bereitgestellte [Datenschutz­Archiv](https://datenschutzarchiv.org/start) kann zudem auch auf den Tätigkeitsberichten seit 1971 suchen.s
 
 ## Journalismus
-* Wir müssen das Gemeinnützigkeitsrecht dringend reformieren und endlich Rechtssicherheit für gemeinnützigen Journalismus in Deutschland schaffen.
-  https://netzpolitik.org/2024/volksverpetzer-blog-gegen-desinformation-verliert-die-gemeinnuetzigkeit/
-  https://innn.it/journalismus
-* Wikimedia-Positionspapier zur Gemeinnützigkeitsrechtsreform
-  https://social.wikimedia.de/users/wikimediaDE/statuses/112530302150906855
-  https://commons.wikimedia.org/wiki/File:2110_Positionspapier_Gemeinn%C3%BCtzigkeitsreform.pdf
-  via https://social.wikimedia.de/@wikimediaDE/112530310931237665
-* The Subscribe to Open (S2O) model enables open access to journal content, i.e. at no additional cost to either authors or readers.
-  https://www.insmi.cnrs.fr/en/cnrsinfo/subscribe-open-model-open-science-success-story
+Die Ampel-Koalition hatte in ihrem Koalitionsvertrag versprochen, "Rechtssicherheit für gemeinnützigen Journalismus" zu schaffen, der bisher der Rechtsauslegung der verschiedenen Ämter ausgeliefert ist. Passiert ist seither wenig. Nun wurde dem [Volksverpetzer](https://www.volksverpetzer.de/), einem Blog gegen Desinformation, Ende April vom Finanzamt die Gemeinnützigkeit [entzogen](https://www.volksverpetzer.de/aktuelles/volksverpetzer-gemeinnuetzigkeit-entzogen/), die es ihm 2021 noch bestätigt hatte. Wie [Netzpolitik berichtet](https://netzpolitik.org/2024/volksverpetzer-blog-gegen-desinformation-verliert-die-gemeinnuetzigkeit/), hat das [Forum Gemeinnütziger Journalismus](https://forum-gemeinnuetziger-journalismus.de/) darauf hin [diese Petition](https://innn.it/journalismus) gestartet. Bereits letzten November hatte das Forum [einen offenen Brief](https://forum-gemeinnuetziger-journalismus.de/blog/macht-endlich-gemeinnuetzigen-journalismus-moeglich/) formuliert, der aber offensichtlich wenig Wirkung zeigte. Nun haben mehrere Stiftungen einen [neuen Offenen Brief mit gleichen Anliegen veröffentlicht](https://social.wikimedia.de/@wikimediaDE/112530302150906855). Auch die Wikimedia [erinnert](https://social.wikimedia.de/@wikimediaDE/112530310931237665) in diesem Zusammenhang an ihr [Positionspapier zur Gemeinnützigkeitsreform](https://commons.wikimedia.org/wiki/File:2110_Positionspapier_Gemeinn%C3%BCtzigkeitsreform.pdf) aus letztem Oktober.
+Auf [Telepolis wird über die Schwierigkeit diskutiert](https://www.telepolis.de/features/Zukunft-des-Journalismus-Gemeinnuetzig-oder-nicht-9724396.html?seite=all), Gemeinnützigkeit von Eigeninteressen abzugrenzen. So ist es gemeinnützigen Organisationen grundsätzlich nicht erlaubt, sich (partei-)politisch zu betätigen.
+
+Unabhängiger Journalismus, finanziert durch Spenden und/oder [Mitgliedbeiträge](https://www.journalismuslab.de/2020/10/05/privilegien-und-passion-mitgliedschaften-als-zukunft-der-journalismus-finanzierung/), der nicht abhängig von Werbeinnahmen ist, ist unabdingbar. Gerade im [lokalen Journalismus](https://de.wikipedia.org/wiki/Lokaljournalismus) nimmt die Vielfalt immer weiter ab, es gibt immer mehr Städte und Landkreise, die zu den so genannten [Einzeitungskreisen](https://de.wikipedia.org/wiki/Einzeitungskreis) zählen. In solchen gibt es nur einen Anbieter einer Tageszeitung mit all den Folgen für Qualität und Meinungsvielfalt.
+
+[Netzpolitik](https://netzpolitik.org/), [correctiv](https://correctiv.org/), [Krautreporter](https://krautreporter.de/), [Riffreporter](https://www.riffreporter.de/), [Perspective Daily](https://perspective-daily.de/) dagegen sind gute Beispiele für spenden- bzw. mitgliederbasierten Journalismus. Für generelles Crowd-Founding und Publishing gibt es auch Plattformen wie [Steady](https://steadyhq.com/de/), die Förderungen einzelner journalistischer Projekte ist auch bei [Riff](https://www.riff-gemeinnuetzig.de/) möglich.
+
+Das [Subscribe to Open (S2O)](https://subscribetoopencommunity.org/) Modell erlaubt es auch wissenschaftlichen Magazinen ihre Artikel als [OpenAccess](https://open-access.network/startseite) unter [Creative-Commons-Lizenz](https://de.creativecommons.net/was-ist-cc/) bereitstellen, wenn genügend Bibliotheken, aber auch andere jährliche Abonnenten die Zeitschriften kaufen. Für französische Mathematik-Journal hat es sich dieser Ansatz jedenfalls als [Erfolgsmodell](https://www.insmi.cnrs.fr/en/cnrsinfo/subscribe-open-model-open-science-success-story) herausgestellt.
 
 ## Open Data
 * Evaluation der Open Data Strategie der Stadt Wien
@@ -110,6 +109,8 @@ Ebenfalls neu ist die [Suchmaschine für die Tätigkeitsberichte der Datenschutz
   via https://mastodon.cc/@info_activism/112524379471987575
 * Nerds im Energiemanagement, eine Idee eskaliert.
   https://media.ccc.de/v/gpn22-358-nerds-im-energiemanagement-eine-idee-eskaliert-
+* Luftverschmutzung in Europe: Echtzeit-Karte des Luftqualitätsindex
+  https://aqicn.org/map/europe/de/
 
 ## Mobilität
 * GTFS algorithms about to land in Trajectools
