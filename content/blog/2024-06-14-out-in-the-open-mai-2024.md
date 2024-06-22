@@ -31,31 +31,19 @@ Unabhängiger Journalismus, finanziert durch Spenden und/oder [Mitgliedbeiträge
 Das [Subscribe to Open (S2O)](https://subscribetoopencommunity.org/) Modell erlaubt es auch wissenschaftlichen Magazinen ihre Artikel als [OpenAccess](https://open-access.network/startseite) unter [Creative-Commons-Lizenz](https://de.creativecommons.net/was-ist-cc/) bereitstellen, wenn genügend Bibliotheken, aber auch andere jährliche Abonnenten die Zeitschriften kaufen. Für französische Mathematik-Journal hat es sich dieser Ansatz jedenfalls als [Erfolgsmodell](https://www.insmi.cnrs.fr/en/cnrsinfo/subscribe-open-model-open-science-success-story) herausgestellt.
 
 ## Open Data
-* Evaluation der Open Data Strategie der Stadt Wien
-  https://www.data.gv.at/2024/05/06/evaluation-der-open-data-strategie-der-stadt-wien/
-* Hochwertige Datensätze
-  * Mittlerweile liefert Schleswig-Holstein 19 high value datasets als Open Data
-    Die übrigen drei Kategorien kommen nach aktuellem Stand jeweils zentral bundesweit.
-    https://norden.social/@MisterOpenData/112427090116858538
-* Ein Kompetenzzentrum für Open Data wollen in Bayern das Digitalministerium und die Digitalagentur byte etablieren.
-  https://www.kommune21.de/meldung_43700_Kompetenz+f%C3%BCr+Open+Data.html
-* Die EU Hat eine Liste von Hackspace - leider nur unvollständig und veraltet (wie man im Thread liest)
-  https://cop-demos.jrc.ec.europa.eu/eu-makerspaces/hackerspace?page=0
-  via https://chaos.social/@eest9/112461959061228095
-  https://hackerspaces.org
-* Die Bundesregierung schlampt bei der Durchsetzung des Daten-Governance-Gesetzes, moniert die EU-Kommission. Es geht etwa um die für Open Data zuständige Stelle.
-  https://www.heise.de/news/Data-Governance-Act-Vertragsverletzungsverfahren-gegen-Deutschland-laeuft-9732171.html
-* Das Umweltbundesamt hat sein Pilotprojekt zum Data Cube gestartet um den Zugang zu offenen Daten zu verbessern
-  https://datacube.uba.de
-  via https://social.bund.de/@opendatabund/112524090233594342
-* Open Data Day in Berlin
-  https://eupolicy.social/users/lilliiliev/statuses/112529456886317582
-* Wir veröffentlichen das erste Open Data Ranking!
-  https://opendataranking.de/
-  https://chaos.social/@okfde/112530212943249580
-  https://okfn.de/blog/2024/05/opendataranking/
-* Arbeitet ihr mit Open Governmental Data? Dann helft doch mal schnell einer Studierenden der Fernuni Hagen, die Faktoren der Akzeptanz und Nutzung von OGD untersucht:
-  https://umfrage.fernuni-hagen.de/v3/761958?lang=de
+Angelehnt an das [Transparenzranking](https://transparenzranking.de) hat die [Open Knowledge Foundation (OKF)](okfn.de) die Open-Data-Landschaft in Deutschland [systematisch](https://opendataranking.de/methodik/) an Hand sechs Kriterien für Stand 2023 bewertet. Die [Auswertung](https://okfn.de/blog/2024/05/opendataranking/) fördert erhebliche Unterschiede zwischen den Bundesländern zu Tage. An der Spitze steht [Schleswig-Holstein](https://opendata.schleswig-holstein.de/dataset/), die sich z.B. auch schon um Linked Data kümmern. Hier gibt es allerdings ebenfalls wie in alle anderen Bundesländer sowie im Bund aktuell kein subjektiv-öffentliches Recht auf Bereitstellung von Daten. Die Hoffnung stirbt zuletzt, dass der Rechtsanspruch zu mindestens auf Bundesebene, wie er im Koalitionsvertrag versprochen ist, in dieser Legislaturperiode noch kommt, aber sie stirbt wohl am Ende doch, wenn man sieht, dass die Bundesregierung schon allein bei der Durchsetzung des Daten-Governance-Gesetzes (DGA) Bundesregierung die Auflagen nicht erfüllt und nun von der EU-Kommission [abgemahnt wurde](https://www.heise.de/news/Data-Governance-Act-Vertragsverletzungsverfahren-gegen-Deutschland-laeuft-9732171.html).
+
+Beim DGA geht es darum, dass Bürger und Unternehmen ihre Daten "zum Wohl der Allgemeinheit" freiwillig bereitstellen können. Dazu müssten sich diese Organisationen bei ihrer jeweiligen nationalen Regulierungsbehörde registieren und ihre Daten in eine nationale öffentliche Datenbank können. Bisher wurde aber weder der Intermediär als zentrale Informationsstelle benannt (wäre sehr wahrscheinlich die Bundesnetzagentur) noch die zugehörige Datenbank eingerichtet. Im [Europäischen Register für geschützte und im Besitz öffentlicher Stellen befindliche Daten](https://data.europa.eu/data/datasets?superCatalogue=erpd&locale=de) ("European Register for Protected Data held by the Public Sector" – ERPD) tauchen solche Daten entsprechend für [Deutschland](https://data.europa.eu/data/datasets?superCatalogue=erpd&locale=de&dataScope=countryData&country=de&page=1) nicht auf.
+
+Bayerns Open-Data-Portal [open.bydata](https://open.bydata.de/home) auf über 6.500 Datensätze von mehr als 75 Datenbereitstellern angewachsen. Nun soll ein Kompetenzzentrum für Open Data, das open bydata competence center, [aufbaut werden](https://www.kommune21.de/meldung_43700_Kompetenz+f%C3%BCr+Open+Data.html). Über dieses sollen sich Beratungen zu Datenqualität, Linked Open Data, automatisierte Metadaten-Optimierung buchen lassen sowie Handreichungen und Informationsmaterialien bereitgestellt werden. Neben dem Gewinnen neuer Datenbereitsteller will man auch beim Anfragen von Daten für konkrete Projekte unterstützen sowie Use Cases und Best Practices sammeln.
+
+In Rahmen einer Studie wurden Befragungen und Workshops durchgeführt, um die Open Data Strategie der Stadt Wien [erneut zu evaluieren](https://www.data.gv.at/2024/05/06/evaluation-der-open-data-strategie-der-stadt-wien/). Wesentliche Empfehlungen zielen auf Bekanntermachen, z.B. durch gezielten Einsatz in Bürgerbeteiligungsprozessen, Senken von Nutzungshürden (Usability) sowie Schulungen zur Förderung der Nutzung offener Verwaltungsdaten durchzuführen.
+
+Das Umweltbundesamt hat sein Pilotprojekt zum [Data Cube](https://datacube.uba.de) [gestartet](https://www.umweltbundesamt.de/themen/daten-zur-umwelt-uba-startet-pilotsystem-data-cube) um den Zugang zu offenen Daten zu verbessern. In einem Data Cube werden die Daten als Elemente eines mehrdimensionalen Datenwürfels angeordnet. Die Dimensionen beschreiben dabei die Daten aus verschiedensten Perspektiven..
+
+Am 30. Mai fand der [11. Berlin Open Data Day](https://sweapevent.com/b/?p=open-data-day-2024) statt. Die gesammelten Präsentationen können [hier angesehen werden](https://www.berlin.de/moderne-verwaltung/e-government/open-data/veranstaltungen/master_open_data_2024-finalisiert_compressed.pdf?ts=1717573829).
+
+Die EU hat eine [Liste von Hackspace](https://cop-demos.jrc.ec.europa.eu/eu-makerspaces/hackerspace?page=0) - leider nur unvollständig und veraltet, wie man [hier im Thread liest](https://chaos.social/@eest9/112461959061228095).
 
 ## OpenSource
 * ARD und ZDF wollen ihren Streaming-Code als Open Source anbieten
@@ -111,6 +99,9 @@ Das [Subscribe to Open (S2O)](https://subscribetoopencommunity.org/) Modell erla
   https://media.ccc.de/v/gpn22-358-nerds-im-energiemanagement-eine-idee-eskaliert-
 * Luftverschmutzung in Europe: Echtzeit-Karte des Luftqualitätsindex
   https://aqicn.org/map/europe/de/
+* Wer verbraucht eigentlich am meisten unser Wasser?
+  https://climatejustice.rocks/@zwiezimmer/112524845244723656
+
 
 ## Mobilität
 * GTFS algorithms about to land in Trajectools
@@ -184,6 +175,9 @@ Das [Subscribe to Open (S2O)](https://subscribetoopencommunity.org/) Modell erla
   via https://techfrombelow.de/2024-06-06/
 * Wie die EU mit Künstlicher Intelligenz ihre Grenzen schützen will
   https://fuckoffai.eu
+* Welcome to "peak cynicism" – da, wo "KI" angepreist wird, um mit ihr die Schäden, die ihre ausbeuterischen Produktionsbedingungen selbst angerichtet haben, zu verwalten, statt sie zu verhindern.
+  https://re-publica.com/de/session/ki-wird-uns-alle-retten-es-sei-denn-sie-tut-es-nicht
+
 
 ## Citizens Science
 * Frühchristliche Altarplatte: Schwarmintelligenz soll bei Rekonstruktion helfen
@@ -192,19 +186,12 @@ Das [Subscribe to Open (S2O)](https://subscribetoopencommunity.org/) Modell erla
 ## Recap
 * Re:publica
   https://www.youtube.com/watch?v=SmUH2TXC_Ys&list=PLAR_6-tD7IZV6D2ud_q905-riF4QAp3Jy&index=5
-  * Welcome to "peak cynicism" – da, wo "KI" angepreist wird, um mit ihr die Schäden, die ihre ausbeuterischen Produktionsbedingungen selbst angerichtet haben, zu verwalten, statt sie zu verhindern.
-    https://re-publica.com/de/session/ki-wird-uns-alle-retten-es-sei-denn-sie-tut-es-nicht
   * Die Zukunft der Offenheit - Reclaim oder Reform?
     https://re-publica.com/de/session/die-zukunft-der-offenheit-reclaim-oder-reform
   * "Innovation has been decoupled from purpose", says @tante at #rp24 in today‘s closing session on stage 2.
     https://digitalcourage.social/@teezeh/112514259889819982
     https://mastodon.social/users/bkastl/statuses/112514209145440168
 	https://www.youtube.com/watch?v=j9ksU67EW6I
-  * Open Data Ranking Deutschland 2024
-    https://chaos.social/@okfde/112523613337472389
-	https://chaos.social/@jk/112523858998566616
-  * Wer verbraucht eigentlich am meisten unser Wasser?
-    https://climatejustice.rocks/@zwiezimmer/112524845244723656
   * Wem gehört der Boden in Europas Hauptstädten?
     https://www.youtube.com/watch?v=XXsoiGpMVD0
     https://digitalcourage.social/@midide/112528248297258524
