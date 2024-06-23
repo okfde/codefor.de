@@ -57,54 +57,43 @@ Der [Prototype Fund](https://prototypefund.de/) schaut in einer Blogreihe auf ei
 Das offene Entwicklung nicht nur auf Quellcode beschränkt ist zeigt der [Prototyp](https://www.a4im.ptb.de/home), den Forscher an der Physikalisch-Technischen Bundesanstalt (PTB) in Berlin zusammen mit ihren niederländischen Kollegen von der Universität Leiden [entwickelt haben](https://www.heise.de/news/Physikalisch-Technische-Bundesanstalt-Open-Source-MRT-im-Akku-Betrieb-9704377.html). Das OpenSource Low-Field-MRT ist transportabel (weil kleiner und leichter) und deutlich kostengünstiger gegenüber den großen MRT-Röhren.
 
 ## Klima
-* Die Digitalisierung kann die nachhaltige Landwirtschaft voranbringen – unter bestimmten Voraussetzungen
-  https://reset.org/digitalisierung-nachhaltige-landwirtschaft/
-* AirPollution remains a major environmental cause of preventable deaths in the EU.
-  The revised Ambient Air Quality Directives on new measures to improve AirQuality in the EU, highlights the role of CAMS.
-  https://atmosphere.copernicus.eu/cams-role-highlighted-revised-european-ambient-air-quality-directive
-  https://policy.atmosphere.copernicus.eu
-  * passend dazu: Kinder aus Umweltzonen haben seltener Asthma
-    Fahrverbote für alte Dieselautos wirken. Eine neue Analyse fand in Krankenkassendaten einen deutlichen Effekt von geringerer Belastung mit Feinstaub.
-    https://www.spiegel.de/auto/umweltzone-weniger-feinstaub-weniger-asthma-bei-kindern-a-9e980fd6-0485-4f66-a6c1-680cbb5c9c93
-* Share air quality via co2.click public map
-  https://portal.co2.click/map.html
-  via https://zeroes.ca/@IndianaTux/112498749179895214
-* Klimawende Ausblick 2024
-  https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/aykut/klimawende-ausblick.html
-  https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/aykut/klimawende-ausblick/klimawende-ausblick-2024-web-neu-1.pdf
-* Der neue "Umweltmonitor 2024" des Umweltbundesamtes zeigt: Die Luft wird sauberer, die Energiewende kommt voran, aber in den Bereichen Wasser und Verkehr bleiben weiter große Defizite, insbesondere bei der Gewässerreinhaltung sowie beim Straßenlärm
-  https://www.klimareporter.de/erdsystem/viel-gruen-aber-noch-mehr-rot
-* Wärmster Sommer seit 2.000 Jahren – wie kann man das wissen?
-  https://www.mdr.de/wissen/umwelt-klima/waermster-sommer-seit-zweitausend-jahren-messmethode-ueber-baumringe-nachgewiesen-100.html
-* Schallgesteuerte Sensoren statt Batterien?
-  https://reset.org/schallgesteuerte-sensoren-statt-batterien/
-* The Green Deal improved EU‘s climate performance by more than a degree, shows our Climate Action Tracker
-  https://climateactiontracker.org/blog/eus-green-deal-improved-its-climate-performance-a-15c-pathway-is-close/
-  via https://mastodon.social/@niklashoehne/112478490551779275
-  https://climateactiontracker.org
-* Excel-basiertes PV-Beratungstool, mit dessen Hilfe die Wirtschaftlichkeit einer geplanten PV-Anlage im Zusammenspiel mit dem Laden von Elektrofahrzeugen berechnet werden kann
-  https://www.oeko.de/veranstaltungen/neues-photovoltaik-beratungstool/
-  https://www.e-mob-ee.de/
-* Unveiling ‘Under the Surface’: a cross-border investigation exposing Europe’s groundwater crisis
-  https://journalismarena.eu/under-the-surface/
-  via https://mastodon.cc/@info_activism/112524379471987575
-* Nerds im Energiemanagement, eine Idee eskaliert.
-  https://media.ccc.de/v/gpn22-358-nerds-im-energiemanagement-eine-idee-eskaliert-
-* Luftverschmutzung in Europe: Echtzeit-Karte des Luftqualitätsindex
-  https://aqicn.org/map/europe/de/
-* Wer verbraucht eigentlich am meisten unser Wasser?
-  https://climatejustice.rocks/@zwiezimmer/112524845244723656
+Aus den Jahresringen eines Baumes lässt sich nicht nur dessen Alter ableiten, sondern auch die Bedingungen in seinen jeweiligen Wachstumsperioden. Je breiter ein Jahresring, desto wärmer und feuchter war der zugehörige Sommer. Drei Forscher um den Mainzer Klimageografie-Professor Jan Esper haben die 2000 Jahre umfassenden Baumringdaten [ausgewertet](https://www.mdr.de/wissen/umwelt-klima/waermster-sommer-seit-zweitausend-jahren-messmethode-ueber-baumringe-nachgewiesen-100.html). Die Sommer der vergangenen 25 Jahre gehören allesamt zu den dreißig wärmsten seit Aufzeichnungsbeginn.
 
+Im Mai 2024 wurde der erste [Klimawende Ausblick](https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/aykut/klimawende-ausblick/klimawende-ausblick-2024-web-neu-1.pdf) veröffentlicht. Die Mercator-Stiftungsprofessur für Soziologie hat in ihm [bewertet](https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/aykut/klimawende-ausblick.html), inwieweit die bis 2045 angestrebte Klimaneutralität durch entsprechende gesellschaftliche Treiber und ihre jeweiligen Dynamiken, Kontextbedingungen und Wirkungslogiken überhaupt die dafür notwendigen politischen und sozialen Transformationsprozesse aufrechterhalten können.
+
+Wie der [Climate Action Tracker](https://climateactiontracker.org) zeigt, hat die Umsetzung von Maßnahmen des [europäischen Grüne Deals](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal_de) seit 2019 den ursprünglich prognostizierten Emissionspfad [um mehr als ein Grad verbessert](https://climateactiontracker.org/blog/eus-green-deal-improved-its-climate-performance-a-15c-pathway-is-close/). Umso wichtiger diesen Trend auch nach den EU-Wahlen konsequent fortzusetzen.
+
+Auch der neue ["Umweltmonitor 2024"](https://www.umweltbundesamt.de/publikationen/umweltmonitor-2024) des Umweltbundesamtes bestätigt diese positiven Veränderungen. So wird die Luft sauberer und die Energiewende kommt voran. Wie [der Artikel auf Klimareporter](https://www.klimareporter.de/erdsystem/viel-gruen-aber-noch-mehr-rot) aber auch klar betont, bestehen in den Bereichen Wasser und Verkehr weiter große Defizite.
+
+## Luftverschmutzung
+Der [Copernicus-Atmosphärenüberwachungsdienst (Copernicus Atmosphere Monitoring Service – CAMS)](https://www.copernicus.eu/de/dienste/atmosphaere) liefert kontinuierliche Daten und Informationen über die Zusammensetzung der Atmosphäre inklusive 4-Tage-Prognose. Der Dienst ist damit eine wichtige Informationsquelle, was auch die überarbeiteten [EU-Luftqualitäts-Leitlinien](https://policy.atmosphere.copernicus.eu) betonen. Der [Copernicus-Blog](https://atmosphere.copernicus.eu/cams-role-highlighted-revised-european-ambient-air-quality-directive) beklagt, dass die Luftverschmutzung in der EU weiterhin zu den Hauptursachen für vermeidbare Todesfälle zählt.
+
+Ein weiteres Visualisierungsangebot gibt es mit der [Echtzeit-Karte des Luftqualitätsindex](https://aqicn.org/map/europe/de/), die Daten aus verschiedenen Quellen, unter anderem auch von [Sensor.Community](https://sensor.community), bezieht.
+
+Dass z.B. Fahrverbote für alte Dieselautos und der damit einhergehenden geringeren Belastung mit Feinstaub einen [deutlichen positiven Effekt haben](https://www.spiegel.de/auto/umweltzone-weniger-feinstaub-weniger-asthma-bei-kindern-a-9e980fd6-0485-4f66-a6c1-680cbb5c9c93), hat eine neue Analyse von Krankenkassendaten ergeben. So haben Kinder aus Umweltzonen viel seltener Asthma.
+
+## Energie
+Ein von Züricher Forschenden entwickelter Sensor benötigt keine externe Energiequelle mehr, da er  rein mechanisch funktioniert, indem er einfach die in Schallwellen enthaltene Schwingungsenergie nutzt. Damit entfällt das lästige Wechseln leerer Batterien in den im Feld ausgebrachten Sensoren und giftiger Elektomüll wird auch eingespart.
+
+Am Dienstag, den 25.6.2024, gibt es zwischen 15:30 und 17:00 in einem [Online-Seminar](https://www.oeko.de/veranstaltungen/neues-photovoltaik-beratungstool/), die Gelegenheit, das [E-Mob EE Photovoltaik-Beratungstool](https://www.e-mob-ee.de/) kennenzulernen. Mit ihm lässt sich die Wirtschaftlichkeit einer geplanten PV-Anlage im Zusammenspiel mit dem Laden von Elektrofahrzeugen berechnen.
+
+[Nerds im Energiemanagement, eine Idee eskaliert](https://media.ccc.de/v/gpn22-358-nerds-im-energiemanagement-eine-idee-eskaliert-)
+
+## Wasser
+Die grenzüberschreitende Recherche ["Under the Surface"](https://journalismarena.eu/under-the-surface/) legt die Krise offen, in der die Grundwasserbestände Europas stecken: neben Verschwendung, industrieller Übernutzung sorgt auch die zunehmende Belastung mit Schadstoffen für eine Verknappung sauberen Wassers.
+
+Annika Joeres hat in [ihrem Vortrag](https://www.youtube.com/watch?v=iH03CBvzKdA) auf der re:publica darüber gesprochen, wie schwer es überhaupt ist, an Daten zu kommen, welche Industrie wieviel Wasser nutzt, wer es verschmutzt und wie knapp es ist, da die Industrie alles dafür tut, dies nicht offenlegen zu müssen.
+
+## Rebound-Effekt
+Dass die Digitalisierung in der Landwirtschaft den Wasserverbrauch bei der Bewässerung reduzieren kann, zeigt z.B. der Einsatz von Gärtner-Robotern, die nachweislich den Verbrauch um die Hälfte senken konnten. Trotz zunehmender Technisierung ist dennoch der Verbrauch von Agrochemikalien in Deutschland in den letzten 20 Jahren nahezu konstant geblieben.
+
+Schuld ist nach Bewertung von [Reset](https://reset.org/digitalisierung-nachhaltige-landwirtschaft/) der Rebound-Effekt, der eintritt, weil die Automatisierung es eben nicht nur erlaubt, die Landwirtschaft in ihren bestehenden Grenzen effizienter zu machen (vornehmlich mit dem Ziel Kosten zu sparen), sondern leider auch die Bewirtschaftung weiter zu intensivieren und auszuweiten. So könnten zum Beispiel zusätzliche Äcker erschlossen werden, deren Bebauung sich bisher nicht gelohnt hatte bzw. nicht möglich war. Die Lebensräume der da noch vorhandenen Arten sind dadurch zusätzlich bedroht. Ähnliche Fehlanreize gibt es bei der Bewässerung, da sich nun mit der gleichen Wassermenge weitere Äcker bewässern bzw. auch wasserintensivere Kulturen anbauen lassen. Zudem sind viele digitale Systeme darauf ausgerichtet, den Ertrag weniger Sorten hoch zu optimieren, mit allen Risiken, die solche Monokulturen mit sich bringen.
+
+So lange also Nachhaltigkeit nur ein Seiteneffekt bleibt, ist kein wirklicher Mentalitätswechsel vollzogen. Dieser muss aber kommen, z.B. auch durch geeignete Agrarförderstrukturen, die den Erhalt der Biodiversität oder die Speicherung von CO2 stärker gewichten.
+
+Auch die Zusammenarbeit muss mehr belohnt und die Datenkreisläufe geschlossen werden.
 
 ## Mobilität
-* GTFS algorithms about to land in Trajectools
-  https://anitagraser.com/2024/05/04/gtfs-algorithms-about-to-land-in-trajectools/
-* Kalender der Verkehrsunfälle
-  https://service.destatis.de/DE/verkehrsunfallkalender/
-  via https://norden.social/@wahlatlas/112405078338568974
-* Bike network planning in limited urban space
-  https://arxiv.org/pdf/2405.01770
-  via https://datasci.social/@mszll/112410198781229412
 * Stellungsnahme zum Referentenentwurf des Mobilitätsdatengesetz
   https://commons.wikimedia.org/wiki/File:240529_Stellungnahme_Mobilit%C3%A4tsdatengesetz.pdf
   via https://eupolicy.social/users/lilliiliev/statuses/112535225234649245
@@ -112,9 +101,44 @@ Das offene Entwicklung nicht nur auf Quellcode beschränkt ist zeigt der [Protot
   * Bearbeitungsstand: 19.04.2024 08:12
     * https://bmdv.bund.de/SharedDocs/DE/Gesetze-20/entwurf-eines-gesetz-bereitstellung-und-nutzung-von-mobilitaetsdaten.html
   * https://www.bitkom.org/Bitkom/Publikationen/Mobilitaetsdatengesetz
+* Kalender der Verkehrsunfälle
+  https://service.destatis.de/DE/verkehrsunfallkalender/
+  via https://norden.social/@wahlatlas/112405078338568974
+* Bike network planning in limited urban space
+  https://arxiv.org/pdf/2405.01770
+  via https://datasci.social/@mszll/112410198781229412
+* GTFS algorithms about to land in Trajectools
+  https://anitagraser.com/2024/05/04/gtfs-algorithms-about-to-land-in-trajectools/
 * Entwicklung einer geodatenbasierten „TwinCity3D“-Plattform und KI-Analysetools zur Unterstützung einer umweltfreundlichen Stadt- und Verkehrsplanung
   https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/mfund-projekte/twincity3d.html
   via https://social.bund.de/@bmdv/112523693029090880
+
+## KI
+* KI macht digitales Zeitzeugnis interaktiv erlebbar
+  https://www.heise.de/news/KI-macht-digitales-Zeitzeugnis-interaktiv-erlebbar-9711100.html
+  https://www.edu.lediz.lmu.de/wordpress/
+* Menschenzentrierte KI: Erste Schritte für die Anreicherung von Bibliotheksarbeit
+  https://www.zbw-mediatalk.eu/de/2024/01/menschenzentrierte-ki-erste-schritte-fuer-die-anreicherung-von-bibliotheksarbeit/
+* xLSTM: Extended Long Short-Term Memory – bessere KI-Modelle aus Europa
+  https://www.heise.de/news/xLSTM-Extended-Long-Short-Term-Memory-bessere-KI-Modelle-aus-Europa-9711813.html
+* ChatGPT-4-Konkurrent aus China: DeepSeek V2 ist Open Source
+  https://www.heise.de/news/ChatGPT-4-Konkurrent-aus-China-DeepSeek-V2-ist-Open-Source-9713482.html
+* I Talk To The Treeeeessss… With A ChatGPT API Call
+  https://www.calishat.com/2024/05/10/i-talk-to-the-treeeeessss-with-a-chatgpt-api-call/
+  https://www.calishat.com/2024/05/11/turning-raleigh-trees-into-hyperlocal-news-reporters/
+* Bird Mapper nutzt KI, um Vögel anhand ihres Gesangs zu erkennen und zu zählen. Entwickelt hat diese Technologie der Hobby-Ornithologe Marc Neumann.
+  https://www.3sat.de/wissen/nano/240508-beitrag-bird-mapper-wieviel-voegel-zwitschern-eigentlich-um-uns-herum-nano-100.html
+* Mit der App Flora Incognita Pflanzen bestimmen – und die Forschung unterstützen
+  https://reset.org/mit-der-app-flora-incognita-pflanzen-bestimmen-und-die-forschung-unterstuetzen/
+* Biaslyze - The NLP Bias Identification Toolkit
+  https://biaslyze.org
+  via https://techfrombelow.de/2024-06-06/
+* Wie die EU mit Künstlicher Intelligenz ihre Grenzen schützen will
+  https://fuckoffai.eu
+* Welcome to "peak cynicism" – da, wo "KI" angepreist wird, um mit ihr die Schäden, die ihre ausbeuterischen Produktionsbedingungen selbst angerichtet haben, zu verwalten, statt sie zu verhindern.
+  https://re-publica.com/de/session/ki-wird-uns-alle-retten-es-sei-denn-sie-tut-es-nicht
+
+
 
 ## Gesundheit
 * Der Klinik-Atlas ist online. Damit sollen sich Patienten "verständlich und transparent" über das Angebot der 1700 Krankenhäuser informieren können.
@@ -146,30 +170,6 @@ Das offene Entwicklung nicht nur auf Quellcode beschränkt ist zeigt der [Protot
 * ChatGPT Data Analyst vs movement data
   https://anitagraser.com/2024/05/30/chatgpt-data-analyst-vs-movement-data/
 
-## KI
-* KI macht digitales Zeitzeugnis interaktiv erlebbar
-  https://www.heise.de/news/KI-macht-digitales-Zeitzeugnis-interaktiv-erlebbar-9711100.html
-  https://www.edu.lediz.lmu.de/wordpress/
-* Menschenzentrierte KI: Erste Schritte für die Anreicherung von Bibliotheksarbeit
-  https://www.zbw-mediatalk.eu/de/2024/01/menschenzentrierte-ki-erste-schritte-fuer-die-anreicherung-von-bibliotheksarbeit/
-* xLSTM: Extended Long Short-Term Memory – bessere KI-Modelle aus Europa
-  https://www.heise.de/news/xLSTM-Extended-Long-Short-Term-Memory-bessere-KI-Modelle-aus-Europa-9711813.html
-* ChatGPT-4-Konkurrent aus China: DeepSeek V2 ist Open Source
-  https://www.heise.de/news/ChatGPT-4-Konkurrent-aus-China-DeepSeek-V2-ist-Open-Source-9713482.html
-* I Talk To The Treeeeessss… With A ChatGPT API Call
-  https://www.calishat.com/2024/05/10/i-talk-to-the-treeeeessss-with-a-chatgpt-api-call/
-  https://www.calishat.com/2024/05/11/turning-raleigh-trees-into-hyperlocal-news-reporters/
-* Bird Mapper nutzt KI, um Vögel anhand ihres Gesangs zu erkennen und zu zählen. Entwickelt hat diese Technologie der Hobby-Ornithologe Marc Neumann.
-  https://www.3sat.de/wissen/nano/240508-beitrag-bird-mapper-wieviel-voegel-zwitschern-eigentlich-um-uns-herum-nano-100.html
-* Mit der App Flora Incognita Pflanzen bestimmen – und die Forschung unterstützen
-  https://reset.org/mit-der-app-flora-incognita-pflanzen-bestimmen-und-die-forschung-unterstuetzen/
-* Biaslyze - The NLP Bias Identification Toolkit
-  https://biaslyze.org
-  via https://techfrombelow.de/2024-06-06/
-* Wie die EU mit Künstlicher Intelligenz ihre Grenzen schützen will
-  https://fuckoffai.eu
-* Welcome to "peak cynicism" – da, wo "KI" angepreist wird, um mit ihr die Schäden, die ihre ausbeuterischen Produktionsbedingungen selbst angerichtet haben, zu verwalten, statt sie zu verhindern.
-  https://re-publica.com/de/session/ki-wird-uns-alle-retten-es-sei-denn-sie-tut-es-nicht
 
 
 ## Citizens Science
