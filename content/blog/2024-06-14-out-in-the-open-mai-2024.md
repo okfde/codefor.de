@@ -111,32 +111,28 @@ Auch die Geodaten-Bibliothek GDAL wurde in einer neuen Version [veröffentlicht]
 
 Anita Graser [hat auf ihrem Blog](https://anitagraser.com/2024/05/30/chatgpt-data-analyst-vs-movement-data/) ihre Höhen und Tiefen dokumentiert, die sie beim Einsatz von ChatGPT als Unterstützung für die Analyse von Bewegungsdaten durchlebt hat.
 
-## KI
-* KI macht digitales Zeitzeugnis interaktiv erlebbar
-  https://www.heise.de/news/KI-macht-digitales-Zeitzeugnis-interaktiv-erlebbar-9711100.html
-  https://www.edu.lediz.lmu.de/wordpress/
-* Menschenzentrierte KI: Erste Schritte für die Anreicherung von Bibliotheksarbeit
-  https://www.zbw-mediatalk.eu/de/2024/01/menschenzentrierte-ki-erste-schritte-fuer-die-anreicherung-von-bibliotheksarbeit/
-* xLSTM: Extended Long Short-Term Memory – bessere KI-Modelle aus Europa
-  https://www.heise.de/news/xLSTM-Extended-Long-Short-Term-Memory-bessere-KI-Modelle-aus-Europa-9711813.html
-* ChatGPT-4-Konkurrent aus China: DeepSeek V2 ist Open Source
-  https://www.heise.de/news/ChatGPT-4-Konkurrent-aus-China-DeepSeek-V2-ist-Open-Source-9713482.html
-* I Talk To The Treeeeessss… With A ChatGPT API Call
-  https://www.calishat.com/2024/05/10/i-talk-to-the-treeeeessss-with-a-chatgpt-api-call/
-  https://www.calishat.com/2024/05/11/turning-raleigh-trees-into-hyperlocal-news-reporters/
-* Bird Mapper nutzt KI, um Vögel anhand ihres Gesangs zu erkennen und zu zählen. Entwickelt hat diese Technologie der Hobby-Ornithologe Marc Neumann.
-  https://www.3sat.de/wissen/nano/240508-beitrag-bird-mapper-wieviel-voegel-zwitschern-eigentlich-um-uns-herum-nano-100.html
-* Mit der App Flora Incognita Pflanzen bestimmen – und die Forschung unterstützen
-  https://reset.org/mit-der-app-flora-incognita-pflanzen-bestimmen-und-die-forschung-unterstuetzen/
-* Biaslyze - The NLP Bias Identification Toolkit
-  https://biaslyze.org
-  via https://techfrombelow.de/2024-06-06/
-* Wie die EU mit Künstlicher Intelligenz ihre Grenzen schützen will
-  https://fuckoffai.eu
-* Welcome to "peak cynicism" – da, wo "KI" angepreist wird, um mit ihr die Schäden, die ihre ausbeuterischen Produktionsbedingungen selbst angerichtet haben, zu verwalten, statt sie zu verhindern.
-  https://re-publica.com/de/session/ki-wird-uns-alle-retten-es-sei-denn-sie-tut-es-nicht
+## Neue KI-Modelle
+Das Start-up NXAI aus Linz hat seine neue Architektur für Sprachmodelle [vorgestellt](https://www.heise.de/news/xLSTM-Extended-Long-Short-Term-Memory-bessere-KI-Modelle-aus-Europa-9711813.html).  Die sogenannten Extended-Long-Short-Term Memory-Modelle (xLSTM) sollen besser sein als Transformer.
 
+DeepSeek aus China stellt für seinen KI-Chat SDKs und APIs [als Open Source bereit](https://www.heise.de/news/ChatGPT-4-Konkurrent-aus-China-DeepSeek-V2-ist-Open-Source-9713482.html) und möchte damit ChatGPT Konkurrenz machen.
 
+## KI in der Praxis
+Es gibt umfangreiche Interviews mit Holocaust-Überlebenden. Um diese interaktiver erlebbar zu machen kann man dem Interviewten [nun selbst Fragen stellen](https://www.heise.de/news/KI-macht-digitales-Zeitzeugnis-interaktiv-erlebbar-9711100.html) und eine Künstliche Intelligenz findet die passenden Antwortsequenzen. Auf der Plattform [LediZ (Lernen mit digitalen Zeugnissen)](https://www.edu.lediz.lmu.de/wordpress/) kann man die in 3D aufgenommenen [interaktiven digitalen Zeugnisse](https://www.edu.lediz.lmu.de/wordpress/interaktive-digitale-zeugnisse/) nutzen.
+
+Wie man den Einsatz Menschenzentrierte KI (englisch HCAI – Human-Centered AI) in Bibliotheken umsetzen kann, [beschreiben Forscher der Arbeitsgruppe Web Science beim ZBW – Leibniz-Informationszentrum Wirtschaft](https://www.zbw-mediatalk.eu/de/2024/01/menschenzentrierte-ki-erste-schritte-fuer-die-anreicherung-von-bibliotheksarbeit/). Das Wissen, um Chancen und Risken von KI richtig beurteilen zu können, wird dabei systematisch bei den Bibliothekar:innen aufgebaut. Sie sind beim Design der KI von Anfang an miteinbezogen und werden in die Lage versetzt, die KI-Systemen auch im Betrieb bewerten und überwachen zu können, ob sie die ethischen Richtlinien, die sie zuvor erarbeitet haben, auch genügen.
+
+Aus einer Kooperation von AlgorithmWatch und ZDF Magazin Royale ist [eine Recherche entstanden](https://fuckoffai.eu), die offenlegt, wie die EU mit Künstlicher Intelligenz ihre Grenzen schützen will. Dazu hat die EU-Kommission in den letzten zehn Jahren massiv in die Forschung investiert. Bei den untersuchten Projekten ging es unter anderem um die Vorhersage von Migrationsbewegungen, automatische Auswertung von Asylanträgen oder auch Lügendetektoren bei der Befragung von Gefüchteten. Viele Dokumente – wie zum Beispiel die Ethikberichte der Projekte – bleiben aber oft unveröffentlicht. Generell wird versucht, Migration als Sicherheitsthema zu framen. Und Missbrauchspotenzial bei den Tools gibt es zur Genüge.
+
+Matthias Spielkamp, Gründer und Geschäftsführer von AlgorithmWatch, thematisiert [in seinem Vortrag auf der re:publica](https://re-publica.com/de/session/ki-wird-uns-alle-retten-es-sei-denn-sie-tut-es-nicht) dies als "Gipfel des Zynismus", wenn die Diskussion darüber, was beim Einsatz von KI denkbar und wünschenswert ist, bewusst verengt wird.
+
+Um genau solche Voreingenommenheiten (Bias) in textbasierten KI-Modellen (NLP) zu erkennen, wurde das Python-Package [Biaslyze](https://biaslyze.org) entwickelt. Entwickler*innen können somit Diskriminierungsrisiken frühzeitig identifizieren und minimieren.
+
+## KI für Flora und Fauna
+Die Vogelpopulationen genauer vermessen zu können, verspricht das Projekt [Bird Mapper](https://bird-mapper.de) des Hobby-Ornithologen Marc Neumann. Es [nutzt die neuste KI-Forschung](https://www.3sat.de/wissen/nano/240508-beitrag-bird-mapper-wieviel-voegel-zwitschern-eigentlich-um-uns-herum-nano-100.html), im Vögel an Hand ihres Gesangs und ihrer Rufe zu identifizieren und zählen zu können. Um das Vogelsterben zu bremsen und langfristig zu verhindern müssen entsprechende Maßnahmen eingeleitet werden. Die Datengrundlage dazu ist allerdings dürftig, da sie noch auf durch ehrenamtlichen Beobachtungen gestützte aufwendigen Kartierungen basiert.
+
+Auf Citizen Science setzt die App [Flora Incognita](https://floraincognita.de). Sie wurde von der der Technischen Universität Ilmenau und dem Max-Planck-Institut für Biogeochemie 2018 entwickelt. Nach eigenen Angaben wurde seit dem 5 Millionen Mal heruntergeladen. Sie kann auf Grundlage eines Fotos mehr als 16.000 Pflanzenarten bestimmen. Täglich gibt es so über 300.000 Bestimmungsanfragen. Der Nutzer bekommt Namen und Steckbrief der erkannten Pflanze angezeigt. Die Forschenden können aus den übertragenen Fotos ein umfassendes Monitoring der pflanzlichen Biodiversität durchführen. So werden die europaweite Verschiebung des Blühbeginns sowie das Auftauchen invasiven Pflanzenarten dokumentiert. Wesentlich für den Artenschutz, da so frühzeitig Gegenmaßen ergriffen werden können.
+
+Mit Bäumen sprechen können und sich von ihm seine nähere Umgebung beschreiben lassen, die [ChatGPT-API](https://www.calishat.com/2024/05/10/i-talk-to-the-treeeeessss-with-a-chatgpt-api-call/) macht's möglich. Inzwischen auch Tara Calishain auch noch [eingebaut](https://www.calishat.com/2024/05/11/turning-raleigh-trees-into-hyperlocal-news-reporters/), den Baum nach Lokalnachrichten zu fragen.
 
 ## Gesundheit
 * Der Klinik-Atlas ist online. Damit sollen sich Patienten "verständlich und transparent" über das Angebot der 1700 Krankenhäuser informieren können.
@@ -155,9 +151,6 @@ Anita Graser [hat auf ihrem Blog](https://anitagraser.com/2024/05/30/chatgpt-dat
   https://www.heise.de/hintergrund/Digitale-Behoerdengaenge-in-der-EU-Deutschland-duempelt-im-hinteren-Mittelfeld-9688699.html
 * Einsamkeitsbarometer 2024: Langzeitentwicklung von Einsamkeit in Deutschland
   https://www.bmfsfj.de/bmfsfj/service/publikationen/einsamkeitsbarometer-2024-237576
-
-
-
 
 ## Citizens Science
 * Frühchristliche Altarplatte: Schwarmintelligenz soll bei Rekonstruktion helfen
