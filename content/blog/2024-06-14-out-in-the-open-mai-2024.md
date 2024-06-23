@@ -45,23 +45,16 @@ Am 30. Mai fand der [11. Berlin Open Data Day](https://sweapevent.com/b/?p=open-
 
 Die EU hat eine [Liste von Hackspace](https://cop-demos.jrc.ec.europa.eu/eu-makerspaces/hackerspace?page=0) - leider nur unvollständig und veraltet, wie man [hier im Thread liest](https://chaos.social/@eest9/112461959061228095).
 
-## OpenSource
-* ARD und ZDF wollen ihren Streaming-Code als Open Source anbieten
-  https://www.heise.de/news/ARD-und-ZDF-wollen-ihren-Streaming-Code-als-Open-Source-anbieten-9709109.html
-  https://www.zdf.de/nachrichten/in-eigener-sache/zdf-ard-mediathek-streaming-100.html
-  https://netzpolitik.org/2024/neues-aus-dem-fernsehrat-105-ard-und-zdf-praesentieren-streamingos-auf-open-source-basis/
-* Was wurde aus… OpenSanctions?
-  https://prototypefund.de/was-wurde-aus-opensanctions/
-* "Wenn Open-Source-Projekte scheitern, liegt dies nicht an Open-Source-Software, sondern daran, dass wir nicht verstanden haben, wie wir sie beschaffen und pflegen müssen", stellte die Referentin klar. Oft mangle es auch den Gesetzgebern an Hintergrundwissen zu freier Software.
-  https://www.netzwoche.ch/news/2024-05-15/das-leistet-open-source-fuer-den-digitalen-service-public
-  via https://chaos.social/@adfichter/112455677813880030
-* Bund: Lizenzkosten für Microsoft auf hohem Niveau, insgesamt neuer Rekord
-  https://www.heise.de/news/Bund-Lizenzkosten-fuer-Microsoft-auf-hohem-Niveau-insgesamt-neuer-Rekord-9744319.html
+## Open Source und Open Hardware
+In der Schweiz verpflichtet das neue E-Gov-Gesetz Behörden dazu, viele IT-Lösungen quelloffen zu entwickeln. Auf der [Fachtagung Transform 2024 ermahnte Amanda Brock](https://www.netzwoche.ch/news/2024-05-15/das-leistet-open-source-fuer-den-digitalen-service-public), CEO von Open UK, in ihrer Keynote: "Wenn Open-Source-Projekte scheitern, liegt dies nicht an Open-Source-Software, sondern daran, dass wir nicht verstanden haben, wie wir sie beschaffen und pflegen müssen". Sie bedauere, dass derzeit öffentliche Verwaltungen primär nur wegen aus Kostengründen auf Open Source wechseln, statt wegen der Stärke, sie kollaborativ (weiter-)entwickeln und warten zu können. Ein solches Umfeld wird derzeit aber nicht ausreichend gefördert.
 
-## OpenHardware
-* Physikalisch-Technische Bundesanstalt: Open-Source-MRT im Akku-Betrieb
-  https://www.heise.de/news/Physikalisch-Technische-Bundesanstalt-Open-Source-MRT-im-Akku-Betrieb-9704377.html
-  via https://chaos.social/@openhardware/112398732770398288
+Derweil [explodieren in Deutschland die Kosten für Lizenzen](https://www.heise.de/news/Bund-Lizenzkosten-fuer-Microsoft-auf-hohem-Niveau-insgesamt-neuer-Rekord-9744319.html) für Computerprogramme und IT-Services: alle Ressorts der Bundesregierung haben 2023 zusammen 1,2 Milliarden ausgegeben, eine Steigerung von 57 Prozent zum Jahr 2022, als die Kosten noch bei 771 Millionen Euro lagen. Auch die Microsoft-Lizenzen bleiben mit 197,7 Millionen Euro auf hohen Niveau und sanken nur leicht gegenüber 2022 (da noch 209 Millionen Euro). Dazu muss man allerdings wissen, dass sowohl Umwelt- als auch Innenministerium für 2023 nur unvollständige Zahlen geliefert hat. Die hohe Abhängigkeit von Microsoft und die damit eingeschränkte digitale Souveränität bleibt also weiterhin bestehen.
+
+Im Frühjahr 2025 soll das Projekt "Streaming OS" [starten](https://www.zdf.de/nachrichten/in-eigener-sache/zdf-ard-mediathek-streaming-100.html). Es handelt sich hierbei um eine technologische Zusammenarbeit von ARD und ZDF, um zentrale Komponenten ihrer beiden Streaming-Plattformen öffentlich bereitstellen, und so einen gemeinsamen technischen Unterbau für ihre Mediatheken schaffen.
+
+Der [Prototype Fund](https://prototypefund.de/) schaut in einer Blogreihe auf einige der in den letzten 8 Jahren entstandenen Projekte, ob und wie es ihnen gelungen ist, nach dem Auslaufen der Förderung durch die Wahl geeigneter Finanzierungs- bzw. Geschäftsmodelle weiter zu existierend. Im [Fall](https://prototypefund.de/was-wurde-aus-opensanctions/) von [OpenSanctions](https://www.opensanctions.org/) wurde sogar ein eigenes Unternehmen gegründet, um steigende Anzahl kommerzieller Nutzer bedienen zu können.
+
+Das offene Entwicklung nicht nur auf Quellcode beschränkt ist zeigt der [Prototyp](https://www.a4im.ptb.de/home), den Forscher an der Physikalisch-Technischen Bundesanstalt (PTB) in Berlin zusammen mit ihren niederländischen Kollegen von der Universität Leiden [entwickelt haben](https://www.heise.de/news/Physikalisch-Technische-Bundesanstalt-Open-Source-MRT-im-Akku-Betrieb-9704377.html). Das OpenSource Low-Field-MRT ist transportabel (weil kleiner und leichter) und deutlich kostengünstiger gegenüber den großen MRT-Röhren.
 
 ## Klima
 * Die Digitalisierung kann die nachhaltige Landwirtschaft voranbringen – unter bestimmten Voraussetzungen
