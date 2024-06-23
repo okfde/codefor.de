@@ -94,24 +94,22 @@ So lange also Nachhaltigkeit nur ein Seiteneffekt bleibt, ist kein wirklicher Me
 Auch die Zusammenarbeit muss mehr belohnt und die Datenkreisläufe geschlossen werden.
 
 ## Mobilität
-* Stellungsnahme zum Referentenentwurf des Mobilitätsdatengesetz
-  https://commons.wikimedia.org/wiki/File:240529_Stellungnahme_Mobilit%C3%A4tsdatengesetz.pdf
-  via https://eupolicy.social/users/lilliiliev/statuses/112535225234649245
-  * https://www.politico.eu/wp-content/uploads/2024/05/09/RefE_MobDG-clean.pdf
-  * Bearbeitungsstand: 19.04.2024 08:12
-    * https://bmdv.bund.de/SharedDocs/DE/Gesetze-20/entwurf-eines-gesetz-bereitstellung-und-nutzung-von-mobilitaetsdaten.html
-  * https://www.bitkom.org/Bitkom/Publikationen/Mobilitaetsdatengesetz
-* Kalender der Verkehrsunfälle
-  https://service.destatis.de/DE/verkehrsunfallkalender/
-  via https://norden.social/@wahlatlas/112405078338568974
-* Bike network planning in limited urban space
-  https://arxiv.org/pdf/2405.01770
-  via https://datasci.social/@mszll/112410198781229412
-* GTFS algorithms about to land in Trajectools
-  https://anitagraser.com/2024/05/04/gtfs-algorithms-about-to-land-in-trajectools/
-* Entwicklung einer geodatenbasierten „TwinCity3D“-Plattform und KI-Analysetools zur Unterstützung einer umweltfreundlichen Stadt- und Verkehrsplanung
-  https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/mfund-projekte/twincity3d.html
-  via https://social.bund.de/@bmdv/112523693029090880
+Der Referentenentwurf des [Gesetzes zur Bereitstellung und Nutzung von Mobilitätsdaten](https://bmdv.bund.de/SharedDocs/DE/Gesetze-20/entwurf-eines-gesetz-bereitstellung-und-nutzung-von-mobilitaetsdaten.html) stand seit dem 19.4. zur Kommentierung bereit (bei Politico [gibt es auch einen Stand vom 7.5.](https://www.politico.eu/wp-content/uploads/2024/05/09/RefE_MobDG-clean.pdf)) und diese Möglichkeit haben sowohl die [Wikimedia](https://commons.wikimedia.org/wiki/File:240529_Stellungnahme_Mobilit%C3%A4tsdatengesetz.pdf) als auch die [Bitkom](https://www.bitkom.org/Bitkom/Publikationen/Mobilitaetsdatengesetz) genutzt. Wikimedia kritisiert, dass die ausdrückliche Erwähnung der Creative-Commons-Lizenzen wieder entfallen ist, und wünscht sich eine Lockerung der Meldepflichten für nicht-offizielle Dateninhaber. Die Stellungnahme der Bitkom fürchtet dagegen Mehraufwände und ein Risiko für Geschäftsmodelle der Dateninhaber.
+
+Das statistische Bundesamt hat eine Aufstellung von [Jahreskalendern](https://service.destatis.de/DE/verkehrsunfallkalender/) für Verkehrsunfälle unter Alkoholeinfluss veröffentlicht. Aus ihnen wird die Häufung an Wochenende als auch Feiertagen deutlich. Auch der Rückgang während der Pandemiezeit ist wenig überraschend.
+
+Ein [wissenschaftliches Paper](https://arxiv.org/pdf/2405.01770) beschäftigt sich mit der Planung einer Fahrradwege-Infrastruktur in engen urbanen Räumen.
+
+Die Analyse von Bewegungspfaden erleichtern die Werkzeuge des QGIS-Plugins [Trajectools](https://anitagraser.com/trajectools/). In der neusten Ausbaustufe werden auch [GTFS Algorithmen unterstützt](https://anitagraser.com/2024/05/04/gtfs-algorithms-about-to-land-in-trajectools/), mit denen einzelne ÖPNV-Linien als auch Segmente (Routen und Haltestellen) als Shapes aus einem GTFS-Datensatz extrahiert werden können.
+
+## Geodaten
+Ein weiteres nützliches QGIS-Plugin ist der [GeoBasis Loader](https://geoobserver.de/qgis-plugin-geobasis-loader/), der viel Arbeit beim Finden und Einbinden von GeoDienste ins QGIS abnimmt. In der neuen Version v0.4 werden derzeit [160 freie WMS/WMTS/WFS unterstützt](https://geoobserver.de/2024/05/31/qgis-tipp-geobasis_loader-v0-4-mit-rlp-he-und-hb-bhv/).
+
+Auch die Geodaten-Bibliothek GDAL wurde in einer neuen Version [veröffentlicht](https://mapstodon.space/@kylebarron/112417266107745326). Sie unterstützt nun auch die räumliche Filterung im kommenden GeoParquet 1.1.
+
+[Wastefreemap](https://wastefreemap.com/) ist eine Themenkarte für das kollektive Erfassen von Recycling- und Wertstoffhöfen. [Eine Fallstudie](https://www.geosemantica.com/wastefreemap-global-map-for-recycling-collection-points) zeigt ihren Nutzen.
+
+Anita Graser [hat auf ihrem Blog](https://anitagraser.com/2024/05/30/chatgpt-data-analyst-vs-movement-data/) ihre Höhen und Tiefen dokumentiert, die sie beim Einsatz von ChatGPT als Unterstützung für die Analyse von Bewegungsdaten durchlebt hat.
 
 ## KI
 * KI macht digitales Zeitzeugnis interaktiv erlebbar
@@ -158,17 +156,6 @@ Auch die Zusammenarbeit muss mehr belohnt und die Datenkreisläufe geschlossen w
 * Einsamkeitsbarometer 2024: Langzeitentwicklung von Einsamkeit in Deutschland
   https://www.bmfsfj.de/bmfsfj/service/publikationen/einsamkeitsbarometer-2024-237576
 
-## Geodaten
-* GDAL 3.9 was released today with a bunch of updates for GeoParquet, including support for spatial filtering in the upcoming GeoParquet 1.1 version!
-  https://mapstodon.space/@kylebarron/112417266107745326
-* Wastefreemap is a global map for separate waste collection
-  https://wastefreemap.com/
-  https://www.geosemantica.com/wastefreemap-global-map-for-recycling-collection-points
-  via https://social.agroecologymap.org/@AgroecologyMap/112530520681172268
-* QGIS-Tipp: GeoBasis_Loader v0.4 mit RLP, HE und HB/BHV
-  https://geoobserver.de/2024/05/31/qgis-tipp-geobasis_loader-v0-4-mit-rlp-he-und-hb-bhv/
-* ChatGPT Data Analyst vs movement data
-  https://anitagraser.com/2024/05/30/chatgpt-data-analyst-vs-movement-data/
 
 
 
