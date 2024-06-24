@@ -116,7 +116,7 @@ Das Start-up NXAI aus Linz hat seine neue Architektur für Sprachmodelle [vorges
 
 DeepSeek aus China stellt für seinen KI-Chat SDKs und APIs [als Open Source bereit](https://www.heise.de/news/ChatGPT-4-Konkurrent-aus-China-DeepSeek-V2-ist-Open-Source-9713482.html) und möchte damit ChatGPT Konkurrenz machen.
 
-## KI in der Praxis
+## (Künstliche) Intelligenz in der Praxis
 Es gibt umfangreiche Interviews mit Holocaust-Überlebenden. Um diese interaktiver erlebbar zu machen kann man dem Interviewten [nun selbst Fragen stellen](https://www.heise.de/news/KI-macht-digitales-Zeitzeugnis-interaktiv-erlebbar-9711100.html) und eine Künstliche Intelligenz findet die passenden Antwortsequenzen. Auf der Plattform [LediZ (Lernen mit digitalen Zeugnissen)](https://www.edu.lediz.lmu.de/wordpress/) kann man die in 3D aufgenommenen [interaktiven digitalen Zeugnisse](https://www.edu.lediz.lmu.de/wordpress/interaktive-digitale-zeugnisse/) nutzen.
 
 Wie man den Einsatz Menschenzentrierte KI (englisch HCAI – Human-Centered AI) in Bibliotheken umsetzen kann, [beschreiben Forscher der Arbeitsgruppe Web Science beim ZBW – Leibniz-Informationszentrum Wirtschaft](https://www.zbw-mediatalk.eu/de/2024/01/menschenzentrierte-ki-erste-schritte-fuer-die-anreicherung-von-bibliotheksarbeit/). Das Wissen, um Chancen und Risken von KI richtig beurteilen zu können, wird dabei systematisch bei den Bibliothekar:innen aufgebaut. Sie sind beim Design der KI von Anfang an miteinbezogen und werden in die Lage versetzt, die KI-Systemen auch im Betrieb bewerten und überwachen zu können, ob sie die ethischen Richtlinien, die sie zuvor erarbeitet haben, auch genügen.
@@ -127,6 +127,8 @@ Matthias Spielkamp, Gründer und Geschäftsführer von AlgorithmWatch, thematisi
 
 Um genau solche Voreingenommenheiten (Bias) in textbasierten KI-Modellen (NLP) zu erkennen, wurde das Python-Package [Biaslyze](https://biaslyze.org) entwickelt. Entwickler*innen können somit Diskriminierungsrisiken frühzeitig identifizieren und minimieren.
 
+Auf Schwarmintelligenz setzen Forschende der TU Graz und Universität Graz. Sie haben eine zerbrochene frühchristliche Altarplatte aus Lavant [digitalisiert](https://www.tugraz.at/tu-graz/services/news-stories/medienservice/einzelansicht/article/fruehchristliche-altarplatte-schwarmintelligenz-soll-bei-rekonstruktion-helfen). Sie hoffen darauf, dass Bürger*innen ihnen so helfen können, sie Citizens-Science-mäßig im Internet zusammensetzen.
+
 ## KI für Flora und Fauna
 Die Vogelpopulationen genauer vermessen zu können, verspricht das Projekt [Bird Mapper](https://bird-mapper.de) des Hobby-Ornithologen Marc Neumann. Es [nutzt die neuste KI-Forschung](https://www.3sat.de/wissen/nano/240508-beitrag-bird-mapper-wieviel-voegel-zwitschern-eigentlich-um-uns-herum-nano-100.html), im Vögel an Hand ihres Gesangs und ihrer Rufe zu identifizieren und zählen zu können. Um das Vogelsterben zu bremsen und langfristig zu verhindern müssen entsprechende Maßnahmen eingeleitet werden. Die Datengrundlage dazu ist allerdings dürftig, da sie noch auf durch ehrenamtlichen Beobachtungen gestützte aufwendigen Kartierungen basiert.
 
@@ -135,41 +137,17 @@ Auf Citizen Science setzt die App [Flora Incognita](https://floraincognita.de). 
 Mit Bäumen sprechen können und sich von ihm seine nähere Umgebung beschreiben lassen, die [ChatGPT-API](https://www.calishat.com/2024/05/10/i-talk-to-the-treeeeessss-with-a-chatgpt-api-call/) macht's möglich. Inzwischen auch Tara Calishain auch noch [eingebaut](https://www.calishat.com/2024/05/11/turning-raleigh-trees-into-hyperlocal-news-reporters/), den Baum nach Lokalnachrichten zu fragen.
 
 ## Gesundheit
-* Der Klinik-Atlas ist online. Damit sollen sich Patienten "verständlich und transparent" über das Angebot der 1700 Krankenhäuser informieren können.
-  https://www.heise.de/news/Klinik-Atlas-geht-online-9722303.html
-  https://taz.de/Digitales-Verzeichnis-von-Krankenhaeusern/!6011200/
-  * Datenqualität: Erkenntnisse aus den bisherigen Daten des Bundes-Klinik-Atlas: Es gibt 2 Kliniken mit genau jeweils einer Pflegekraft (und etwa 100 Behandlungsfällen).
-    https://mastodon.social/users/bkastl/statuses/112472972893897452
-  * Nach Kritik an fehlerhaften Angaben im Bundes-Klinik-Atlas gelobt das Bundesgesundheitsministerium Besserung. Ein erstes Update gibt es ebenfalls.
-    https://www.heise.de/news/BMG-reagiert-auf-Kritik-am-Klinik-Atlas-9737153.html
-* Geplantes Registergesetz: Mit Forschungskennziffer Gesundheitsdaten verknüpfen
-  https://www.heise.de/news/Gesundheitsministerium-gibt-Einblick-in-geplantes-Registergesetz-9724743.html
+Patienten können sich seit kurzem "verständlich und transparent" auf dem [Klinik-Atlas](https://bundes-klinik-atlas.de) über das Angebot der 1700 Krankenhäuser informieren, um so das für sie am geeignesten erscheinenden Krankenhaus entscheiden zu können, wie [heise](https://www.heise.de/news/Klinik-Atlas-geht-online-9722303.html) als auch [taz](https://taz.de/Digitales-Verzeichnis-von-Krankenhaeusern/!6011200/) berichten. Bei nähere Beschäftigung mit dem Portal sind allerdings einigen schon Mängel bei der Datenqualität bzw. offensichtlich unvollstände Daten [aufgefallen](https://mastodon.social/users/bkastl/statuses/112472972893897452). Nach Kritik an fehlerhaften Angaben wurde schon das erste Update [nachgeschoben](https://www.heise.de/news/BMG-reagiert-auf-Kritik-am-Klinik-Atlas-9737153.html).
+
+Forschende sollen in sicheren, virtuellen Verarbeitungsräumen Zugang zu Gesundheitsdaten bekommen, auch aus den elektronischen Patientenakten. Diese werden dazu vorher entsprechend so aggregiert, anonymisiert bzw. pseudonymisiert, dass der Datenschutz gewahrt bleibt. So ist es jedenfalls beim Registergesetz [geplant](https://www.heise.de/news/Gesundheitsministerium-gibt-Einblick-in-geplantes-Registergesetz-9724743.html).
 
 ## Monitoring
-* DESI Methodological Note - Digital Decade report 2023
-  Digitale Behördengänge in der EU: Deutschland dümpelt im hinteren Mittelfeld
-  https://www.heise.de/hintergrund/Digitale-Behoerdengaenge-in-der-EU-Deutschland-duempelt-im-hinteren-Mittelfeld-9688699.html
-* Einsamkeitsbarometer 2024: Langzeitentwicklung von Einsamkeit in Deutschland
-  https://www.bmfsfj.de/bmfsfj/service/publikationen/einsamkeitsbarometer-2024-237576
+Die EU überwacht die Umsetzung digitaler öffentlicher Dienste ihrer Mitgliedsstaaten mit dem [DESI 2023 dashboard for the Digital Decade](https://digital-decade-desi.digital-strategy.ec.europa.eu/datasets/desi/charts). Wenig überraschend [dümpelt Deutschland im hinteren Mittelfeld](https://www.heise.de/hintergrund/Digitale-Behoerdengaenge-in-der-EU-Deutschland-duempelt-im-hinteren-Mittelfeld-9688699.html).
 
-## Citizens Science
-* Frühchristliche Altarplatte: Schwarmintelligenz soll bei Rekonstruktion helfen
-  https://www.tugraz.at/tu-graz/services/news-stories/medienservice/einzelansicht/article/fruehchristliche-altarplatte-schwarmintelligenz-soll-bei-rekonstruktion-helfen
+Mit dem [Einsamkeitsbarometer](https://www.bmfsfj.de/bmfsfj/service/publikationen/einsamkeitsbarometer-2024-237576) des Kompetenznetz Einsamkeit (KNE) am Institut für Sozialarbeit und Sozialpädagogik e.V. soll die Langzeitentwicklung von Einsamkeit in Deutschland dauerhaft gemonitort werden.
 
-## Recap
-* Re:publica
-  https://www.youtube.com/watch?v=SmUH2TXC_Ys&list=PLAR_6-tD7IZV6D2ud_q905-riF4QAp3Jy&index=5
-  * Die Zukunft der Offenheit - Reclaim oder Reform?
-    https://re-publica.com/de/session/die-zukunft-der-offenheit-reclaim-oder-reform
-  * "Innovation has been decoupled from purpose", says @tante at #rp24 in today‘s closing session on stage 2.
-    https://digitalcourage.social/@teezeh/112514259889819982
-    https://mastodon.social/users/bkastl/statuses/112514209145440168
-	https://www.youtube.com/watch?v=j9ksU67EW6I
-  * Wem gehört der Boden in Europas Hauptstädten?
-    https://www.youtube.com/watch?v=XXsoiGpMVD0
-    https://digitalcourage.social/@midide/112528248297258524
-  * Den Status quo überwinden: die Potenziale einer Open Circular Society
-	https://re-publica.com/de/session/den-status-quo-ueberwinden-die-potenziale-einer-open-circular-society
+## Und sonst so
+Die Vorträge von den Hauptbühnen der re:public stehen zum Nachschauen in [dieser Playlist](https://www.youtube.com/watch?v=SmUH2TXC_Ys&list=PLAR_6-tD7IZV6D2ud_q905-riF4QAp3Jy&index=5). Unter anderem wurde über [die Zukunft von Gemeinfreiheit](https://re-publica.com/de/session/die-zukunft-der-offenheit-reclaim-oder-reform) gesprochen. Auch die Rechercheergebnisse, wie unterschiedlich Grundbesitz in Berlin und anderen Hauptstädten verteilt ist, [wurden präsentiert](https://www.youtube.com/watch?v=XXsoiGpMVD0). Auf die Potenziale einer offenen Circular Society [geht Maximilian Voigt ein](https://re-publica.com/de/session/den-status-quo-ueberwinden-die-potenziale-einer-open-circular-society).
 
 ## Veranstaltungen
 * Dienstag, 04.06.2024, 20:00, c-base, Berlin und online: **137. Netzpolitischer Abend: Bunter Themenabend mit Fokus auf Europa**
@@ -217,10 +195,12 @@ Mit Bäumen sprechen können und sich von ihm seine nähere Umgebung beschreiben
   * https://pretalx.com/netzpolitik-org-2024/cfp
 * PIAZZA-Konferenz 2024: Call for Workshops, 14.11.2024, Einreichungen bis Montag, 17.06.2024
   * https://okfn.de/blog/2024/05/piazza-konferenz-2024-call-for-workshops/
+* Call for Proposals: Matrix Conference, 19.09.2024-22.09.2024, Einreichungen bis Mittwoch, 26.06.2024, 09:59
+  * https://matrix.org/blog/2024/06/matrix-conf-cfp/
 * Civic Coding-Accelerator - Wirkung erzeugen mit KI, Bewerbungen bis Sonntag, 14.07.2024
   * https://www.civic-coding.de/angebote/accelerator
 * Call for Paper: Datenspuren, 20.09.2024 bis 22.09.2024, Einreichungen bis Mittwoch, 31.07.2024
   * https://datenspuren.de/2024/
   * https://talks.datenspuren.de/ds24/
-* Call for Proposals for the Matrix Conference, Einreichungen bis Mittwoch, 26.06.2024, 09:59
-  * https://matrix.org/blog/2024/06/matrix-conf-cfp/
+* Land.OpenData – Ideenwettbewerb, Einreichungen bis Donnerstag, 15.08.2024
+  * https://www.ble.de/DE/Projektfoerderung/Foerderungen-Auftraege/BULE/Foerdermassnahmen/Modellprojekte/Land.OpenData.html
