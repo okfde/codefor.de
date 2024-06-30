@@ -59,6 +59,16 @@ Demnächst gibt es auch einen Onlinedienst zur Beantragung. Also gerne schon Ide
   via https://social.bund.de/@opendatabund/112688239961506484
 * Data Package version 2.0 (previously known as Frictionless Specs) is out!
   https://blog.okfn.org/2024/06/26/data-package-version-2-0-release/
+* Open Data Presentations Esther Plomp
+  https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Plomp%2C%20Esther%22&l=list&p=1&s=10&sort=newest
+  * AREN - Open Data: Principles and Tools
+    https://zenodo.org/records/10994248    
+  * AREN - Open Data: Benefits and Challenges
+    https://zenodo.org/records/10994160
+  * AREN - Reusing Open Data
+    https://zenodo.org/records/11862588
+  * AREN - Sharing Open Data
+    https://zenodo.org/records/11862672
 
 ## Linked Open Data
 * Die GND Ontologie und weitere RDF-Vokabulare der Deutschen Nationalbibliothek sind nun auf Github
@@ -79,6 +89,8 @@ Demnächst gibt es auch einen Onlinedienst zur Beantragung. Also gerne schon Ide
 * data.europa.eu/data/ now provides a filter function for high value data sets. As of today 740 HVDs are listed. #opendata #hvd
   https://data.europa.eu/data/
   via https://mastodon.online/@kejan/112615233998440356
+* New EU rules make high-value datasets available to fuel artificial intelligence and data-driven innovation
+  https://digital-strategy.ec.europa.eu/en/news/new-eu-rules-make-high-value-datasets-available-fuel-artificial-intelligence-and-data-driven
 
 ## Geodaten
 * Gitterzellendatenbank
@@ -100,11 +112,16 @@ Demnächst gibt es auch einen Onlinedienst zur Beantragung. Also gerne schon Ide
   * Niedersachen veröffentlicht Katasterdaten:
     https://ni-lgln-opengeodata.hub.arcgis.com
   via https://social.bund.de/@opendatabund/112603479647890885
+* Offene GeoBasisDaten 2024: Ein persönlicher Statusbericht.
+  https://geoobserver.de/2024/06/18/offene-geobasisdaten-2024-ein-persoenlicher-statusbericht/
 
 ## Karten
 * Similar to OpenParkingMap, you can explore sidewalks in your area pretty easily now with this.
   https://www.opensidewalkmap.com/52.5170365/13.3888599/14.00
   via https://mastodon.social/@thompsondt/112593953893909031
+* Mapbender-Version 4.0.0 veröffentlicht
+  https://mapbender.org/aktuelles/details/mapbender-version-400-veroeffentlicht/
+  https://mapbender.org/
 
 ## Klima
 * Deutsche Wirtschaft: Gute Umsätze mit dem Umweltschutz
@@ -128,6 +145,8 @@ The first map will display the whole Île-de-France area and PM10 data, but you 
   Pascal Löffler und Florian Aschinger nutzen im Rahmen ihrer Masterarbeit offene Daten als Grundlage für die Entwicklung einer Vision, um den Temperaturveränderungen in der Stadt Bamberg zu begegnen. Ein tolles Projekt aus Zivilgesellschaft und Lehre!
   https://oc.bydata.de/using/usecases/schwammdrauf
   via https://mastodon.social/@ocbydata/112642383190150436
+* BreezoMeter
+  https://www.breezometer.com/air-quality-map/de/air-quality/germany/berlin
 
 ## Artensterben
 * This map shows the number of butterflies during 15 min counts between 20 May and 10 June 2024 (www.butterfly-monitoring.net). In N Europe the number of butterflies is very low. Spring butterflies have gone, summer butterflies are not there yet. In C and S Europe this is much less the case.
@@ -216,6 +235,10 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
   https://norden.social/@wahlatlas/112593973623647154
 * DataViz & Verantwortung?! - Fläche vs Bevölkerungsdichte
   https://mastodon.social/@geoObserver/112614939546683638
+* Alle Ergebnisse nach Landkreisen und Bundesländern
+  https://interaktiv.tagesspiegel.de/lab/europawahl-2024-live-karte-deutschland-wahlergebnisse/
+* Der zweite Blick auf die Europawahl: Die zweitstärksten Parteien
+  https://www.br.de/nachrichten/deutschland-welt/der-zweite-blick-auf-die-europawahl-die-zweitstaerksten-parteien,UFSgd53
 
 ## Zensus 2022
 * Zensus 2022: Start der Veröffentlichung der Ergebnisse: Pressekonferenz vom Dienstag, 25. Juni 2024
