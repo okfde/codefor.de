@@ -29,9 +29,12 @@ type: blog
   via https://chaos.social/@fragdenstaat/112636661182167228
 * Wissenschaftsfreiheit: Bildungsministerium stellte Liste für Fördermittelentzug zusammen
   https://fragdenstaat.de/blog/2024/06/24/bmbf-pruefbitte-fu-berlin-offener-brief/
-  * Das Bildungsministerium antwortete auf unsere IFG-Anfrage zur Fördermittelaffäre zu spät. Grund: Es konnte uns das 33 MB große PDF nicht per Mail zuschicken. 
+  * Das Bildungsministerium antwortete auf unsere IFG-Anfrage zur Fördermittelaffäre zu spät. Grund: Es konnte uns das 33 MB große PDF nicht per Mail zuschicken.
     Im Bundestag behauptete Ministerin Stark-Watzinger gestern, das habe an unserem Server gelegen. Das ist falsch.
     https://chaos.social/@fragdenstaat/112687758361435077
+  * Es gibt starke Hinweise darauf, dass das Bildungsministerium uns Kommunikation zur Fördermittelaffäre verschwiegen hat. Wir haben sie angefordert. Jetzt wird sie offenbar gelöscht!
+Wir haben Eilantrag beim Verwaltungsgericht eingereicht, um die Löschung aufzuhalten.
+   https://chaos.social/users/fragdenstaat/statuses/112704999195434647
 
 ## Open Data
 * Open Data Day München 2024 Interviews
@@ -62,7 +65,7 @@ Demnächst gibt es auch einen Onlinedienst zur Beantragung. Also gerne schon Ide
 * Open Data Presentations Esther Plomp
   https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Plomp%2C%20Esther%22&l=list&p=1&s=10&sort=newest
   * AREN - Open Data: Principles and Tools
-    https://zenodo.org/records/10994248    
+    https://zenodo.org/records/10994248
   * AREN - Open Data: Benefits and Challenges
     https://zenodo.org/records/10994160
   * AREN - Reusing Open Data
@@ -122,6 +125,8 @@ Demnächst gibt es auch einen Onlinedienst zur Beantragung. Also gerne schon Ide
 * Mapbender-Version 4.0.0 veröffentlicht
   https://mapbender.org/aktuelles/details/mapbender-version-400-veroeffentlicht/
   https://mapbender.org/
+* Juni-Newsletter MapLibre
+  https://mastodon.social/users/maplibre/statuses/112707322325512027
 
 ## Klima
 * Deutsche Wirtschaft: Gute Umsätze mit dem Umweltschutz
@@ -160,7 +165,7 @@ The first map will display the whole Île-de-France area and PM10 data, but you 
   https://www.wohngebaeude.info
 * Solaratlas zeigt, welche Gebäudedächer sich gut für Photovoltaik eignen
   https://www.heise.de/news/Solaratlas-zeigt-welche-Gebaeudedaecher-sich-gut-fuer-Photovoltaik-eignen-9749375.html
-* Der #Speicherausbau geht durch die Decke, Preise fallen in den Keller. 
+* Der #Speicherausbau geht durch die Decke, Preise fallen in den Keller.
   Entgegen anderslautender Behauptungen: Die #Erneuerbaren gewährleisten nicht nur an windigen Sommertagen unsere Versorgung: "Solarstrom gibt es bald auch nachts, Windstrom bei Windstille."
   https://www.spiegel.de/wissenschaft/mensch/energiewende-warum-es-jetzt-auch-nachts-solarstrom-gibt-a-5462f892-2ee4-4937-93bc-0b8ec078570c
   via https://mastodon.green/@buergerwerke/112632359206803437
@@ -171,7 +176,7 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
 
 ## Mobilität
 * Es gibt neue Zahlen der Bundesnetzagentur zum Stand der Ladeinfrastruktur für E-Autos in Deutschland.
-  Am 1. Januar 2024 waren insgesamt 123.449 öffentliche Ladepunkte gemeldet – ein Zuwachs von rund 40% innerhalb eines Jahres. 
+  Am 1. Januar 2024 waren insgesamt 123.449 öffentliche Ladepunkte gemeldet – ein Zuwachs von rund 40% innerhalb eines Jahres.
   Im Januar 2022 waren hierzulande 62.558 öffentliche Ladepunkte registriert. Innerhalb von zwei Jahren hat sich die Zahl insgesamt praktisch verdoppelt.
   https://www.heise.de/news/Elektroautos-laden-Zahl-der-Ladesaeulen-waechst-weiter-kraeftig-9757252.html
   via https://social.cologne/@Fluse/112620123613930505
@@ -189,7 +194,7 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
   https://cfp.gulas.ch/gpn22/talk/WGVZ9W/
 * Announcing DuckDB 1.0.0
   https://duckdb.org/2024/06/03/announcing-duckdb-100
-  via https://mastodon.social/users/duckdb/statuses/112552894934491567  
+  via https://mastodon.social/users/duckdb/statuses/112552894934491567
 * byte-bayern haben den Quellcode ihres Datenportals open.bydata.de veröffentlicht und für alle nachnutzbar gemacht!
   https://gitlab.opencode.de/byte-bayerische-agentur-f-r-digitales-gmbh/open-bydata-competence-center
   via https://social.bund.de/@opendatabund/112592130932535987
@@ -198,7 +203,7 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
 * Was wurde aus… \\NoIze//?
   https://prototypefund.de/was-wurde-aus-noize/
 * Funding for Future - The Effects of a Lightweight and Low-Threshold Funding Instrument for Open-Source Software - A Prototype Fund Handbook
-  https://prototypefund.de/wp-content/uploads/2024/06/Funding-for-Future-The-Effects-of-a-Lightweight-and-Low-Threshold-Funding-Instrument-for-Open-Source-Software.pdf   
+  https://prototypefund.de/wp-content/uploads/2024/06/Funding-for-Future-The-Effects-of-a-Lightweight-and-Low-Threshold-Funding-Instrument-for-Open-Source-Software.pdf
 * Sondersitzung des IT-Planungsrates: Keine überhasteten Verträge für die Delos-Cloud beschließen
   https://osb-alliance.de/featured/sondersitzung-des-it-planungsrates-keine-ueberhasteten-vertraege-fuer-die-delos-cloud-beschliessen
   via https://social.osb-alliance.de/@OSBA/112682378662405943
@@ -219,9 +224,9 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
 * Die Doku vom Civic Data #BarCamp ist online! Vor einer guten Woche ließen wir gemeinsam die Köpfe rauchen, Ideen sprudeln und Informationen fließen. Alle Ergebnisse, die in den Session festgehalten wurden - von #Datenkatalog und #Wiki über #offenedaten, #LLM, #NLP, #RAG bis hin zu #AI Washing - findet ihr im Space "Civic Data Camp" in der Community
   https://community.civic-data.de/s/civic-data-camp/home (Login notwendig)
   via https://mas.to/@CivicDataLab/112593284173462334
-* New #opendata application: "Pointly's City Inventory Classifier - 3D Point Cloud" - standard classifier for automatic AI-based 3D point cloud classification, focusing on the classification of city inventories 
+* New #opendata application: "Pointly's City Inventory Classifier - 3D Point Cloud" - standard classifier for automatic AI-based 3D point cloud classification, focusing on the classification of city inventories
   https://www.data.gv.at/katalog/dataset/63bc4638-11fd-4afc-8743-5219e916a5ee
-  via https://mastodon.social/@datagvat/112598287355353129  
+  via https://mastodon.social/@datagvat/112598287355353129
 
 ## EU-Wahlen
 * Europa-Wahl 2024 Vergleichstool
@@ -252,13 +257,13 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
 * die Daten für Schleswig-Holstein
   https://opendata.schleswig-holstein.de/dataset/?tags=Zensus+2022
 * So wohnt Bayern: Was uns der Zensus sagt
-  https://www.br.de/nachrichten/bayern/so-wohnt-bayern-kaufen-mieten-leerstand-was-uns-der-zensus-ueber-den-wohnraum-im-freistaat-sagt,UGgmm0y 
+  https://www.br.de/nachrichten/bayern/so-wohnt-bayern-kaufen-mieten-leerstand-was-uns-der-zensus-ueber-den-wohnraum-im-freistaat-sagt,UGgmm0y
 * Der Zensus zeigt: In Mecklenburg-Vorpommern (und allgemein im Osten) ist die Zahl der jungen Erwachsenen seit 2011 eingebrochen.
   https://www.ndr.de/nachrichten/ndrdata/Zensus-2022-Wo-in-Norddeutschland-leben-junge-Menschen,zensus312.html
   via https://chaos.social/@lalonsander/112677124435189943
 * 75% der Heizungen in Deutschland wurden 2022 noch mit Gas oder Öl betrieben. Weniger als 3% der Wohnungen wurden mit Wärmepumpen beheiz
   https://taz.de/Heizungen-in-Deutschland/!6019247/
-  via https://chaos.social/@lalonsander/112677893942937716   
+  via https://chaos.social/@lalonsander/112677893942937716
 * Abweichungen bei Bevölkerungszahlen der größten Städte
   https://www.l-iz.de/politik/kassensturz/2024/06/nach-zensus-2022-leipzig-zaehlt-jetzt-offiziell-nur-noch-607-000-einwohner-595333
 * Im Zensus-Atlas sind beim 1km- und 100m-Gitter Zensusergebnisse nur für die besiedelten Gebiete dargestellt.
@@ -286,27 +291,27 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
 ## Citizen Science
 * Open Science Meets Citizen Science – A Guide
   https://libereurope.eu/article/open-science-meets-citizen-science-a-guide/
-  https://cs4rl.github.io/open-science/  
+  https://cs4rl.github.io/open-science/
 * Kastaniendetektive
-  https://floraincognita.de/kastaniendetektive/  
+  https://floraincognita.de/kastaniendetektive/
   via https://nrw.social/users/maexchen1/statuses/112684212277376019
 * Mithelfen bei Bullinger Digital
   https://mithelfen.bullinger-digital.ch
   via https://techhub.social/@phillipstroebel/112688900828836204
 
 ## Und sonst so
-* Vorträge von GPN: 
+* Vorträge von GPN:
   https://media.ccc.de/b/conferences/gpn/gpn22
 * Vorträge vom Wikipedia-Zukunftskongress
   https://www.wikimedia.de/zukunftskongress/aufzeichnungen/
 * https://tootfinder.ch/
 * https://nowebwithoutwomen.com
   via https://front-end.social/@stephaniewalter/112591034617132503
-* YouTuber Paralogical has analysed our free and open database of over 5 billion games to find the "rarest move in chess" in an entertaining and informative video 
+* YouTuber Paralogical has analysed our free and open database of over 5 billion games to find the "rarest move in chess" in an entertaining and informative video
   https://www.youtube.com/watch?v=iDnW0WiCqNc
   https://github.com/paralogical/rarest-move-in-chess
-  via https://mastodon.online/@lichess/112599101303648253 
-* Unsere Erwartungen an die Privatsphäre haben sich in den vergangenen Jahren verschoben. 
+  via https://mastodon.online/@lichess/112599101303648253
+* Unsere Erwartungen an die Privatsphäre haben sich in den vergangenen Jahren verschoben.
   https://netzpolitik.org/2024/oekosystem-internet-was-unsere-privatsphaere-mit-der-fischerei-zu-tun-hat/
   * Bericht: Windows 11 OneDrive synchronisiert die Ordner bei einer Neuinstallation ohne Nachfrage
     https://www.deskmodder.de/blog/2024/06/25/bericht-windows-11-onedrive-synchronisiert-die-ordner-bei-einer-neuinstallation-ohne-nachfrage/
@@ -326,11 +331,11 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
 * Dienstag, 02.07.2024, 20:00, c-base, Berlin und online: **138. Netzpolitischer Abend: Überwachung und Kontrolle, Reclaim Tiktok, Digital Streetwork**
   * https://digitalegesellschaft.de/2024/06/138-netzpolitischer-abend/
 * Mittwoch, 03.07.2024, bis Donnerstag, 04.07.2024: **Generative Art Summit Berlin – die Konferenz**
-  * https://art-meets-science.io/generative-art-summit-berlin-die-konferenz/  
+  * https://art-meets-science.io/generative-art-summit-berlin-die-konferenz/
 * Mittwoch, 03.07.2024, 19:00-22:00, Petersteinweg 14, Leipzig: **OKLab Leipzig**
   * https://www.meetup.com/de-DE/oklab-leipzig/
 * Mittwoch, 03.07.2024, 20:00, online: **Open Source für Innovation und Souveränität**
-  * https://d-64.social/users/D64eV/statuses/112687719702359890
+  * https://d-64.org/veranstaltungen/open-source-talk-mit-miriam-seyffarth/
 * Donnerstag, 04.07.2024, Geschäftsstelle Wikimedia Deutschland, Tempelhofer Ufer 23-24, Berlin: **Jugend editiert**
   * https://www.wikimedia.de/veranstaltungen/jugend-editiert/
 * Donnerstag, 04.07.2024, 19:31, online: **Bits und Bäume Online-Community-Treffen**
