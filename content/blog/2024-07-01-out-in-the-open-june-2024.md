@@ -12,29 +12,18 @@ type: blog
 ---
 
 ## Transparenz
-* Seit anderthalb Jahren verpflichtet ein neues Gesetz Sachsens Behörden zu mehr Transparenz, doch bisher tut man sich schwer
-  https://kreuzer-leipzig.de/2024/06/01/transparenzgesetz-sachsen
-  https://fragdenstaat.de/blog/2024/06/11/schwarze-balken-und-horrende-rechnungen/
-* Hier sind die Knebelverträge zur Fußball-EM
-  https://fragdenstaat.de/blog/2024/06/06/hier-sind-die-knebelvertrage-zur-fussball-em/
-  * EURO 2024: Kostenexplosion vor Fußball-EM: Deutschland muss immer mehr zahlen
-    https://correctiv.org/aktuelles/wirtschaft/2024/06/06/kostenexplosion-fussball-em-deutschland-2024/
-* Für eine EU-Lobbykontrolle mit Biss!
-  https://www.lobbycontrol.de/lobbyismus-in-der-eu/fuer-eine-eu-lobbykontrolle-mit-biss-115129/
-* Thüringen bekommt ein Lobbyregister - womöglich aus Versehen: "Das Gesetz wurde von Linke, SPD und Grünen beschlossen. Die Reihen der Opposition von CDU, AfD und FDP waren bei der Abstimmung nicht mehr komplett. Eigentlich hat Rot-Rot-Grün keine Mehrheit."
-  https://www.zeit.de/news/2024-06/14/thueringen-bekommt-ein-lobbyregister
-  via https://bewegung.social/@a_watch/112625751292348537
-* Wenn Behörden mit Unternehmen kooperieren, wird die Herausgabe von Dokumenten oft verweigert, weil Belange Dritter betroffen seien. Damit sich die "Flucht ins Private" nicht auszahlt, muss das Gesetz strenger werden
-  https://www.lto.de/recht/meinung/m/akteneinsicht-fragdenstaat-belange-dritter-bei-informationsanspruechen/
-  via https://chaos.social/@fragdenstaat/112636661182167228
-* Wissenschaftsfreiheit: Bildungsministerium stellte Liste für Fördermittelentzug zusammen
-  https://fragdenstaat.de/blog/2024/06/24/bmbf-pruefbitte-fu-berlin-offener-brief/
-  * Das Bildungsministerium antwortete auf unsere IFG-Anfrage zur Fördermittelaffäre zu spät. Grund: Es konnte uns das 33 MB große PDF nicht per Mail zuschicken.
-    Im Bundestag behauptete Ministerin Stark-Watzinger gestern, das habe an unserem Server gelegen. Das ist falsch.
-    https://chaos.social/@fragdenstaat/112687758361435077
-  * Es gibt starke Hinweise darauf, dass das Bildungsministerium uns Kommunikation zur Fördermittelaffäre verschwiegen hat. Wir haben sie angefordert. Jetzt wird sie offenbar gelöscht!
-Wir haben Eilantrag beim Verwaltungsgericht eingereicht, um die Löschung aufzuhalten.
-   https://chaos.social/users/fragdenstaat/statuses/112704999195434647
+
+Seit dem 1. Januar 2023 gilt in Sachsen das [Sächsische Transparenzgesetz](https://www.datenschutz.sachsen.de/transparenz.html). Aiko Kempen, investigativer Journalist im Recherche-Team von Frag den Staat, hat in den letzten anderthalb Jahren [den Praxistest gemacht](https://kreuzer-leipzig.de/2024/06/01/transparenzgesetz-sachsen) und musste feststellen, dass der Fehler schon im System liegt. So ist anders als in allen anderen Bundesländern sowohl der gesamte kommunale Bereich, der gesamte Schriftverkehr innerhalb einer Behörde sowie alle Dokumente im Entwurfsstadium bereits von der Transparenzpflicht ausgenommen. Solche Ausnahmeregelungen werden dann auch gerne gedehnt, wenn z.B. der Schriftverkehr zwischen Innenministerium und Stadt Leipzig kurzerhand als "Kommunikation innerhalb einer Behörde" deklariert wird. Am verheerendsten wirken jedoch die Gebühren, die für die Bearbeitung eines Transparenzbegehrens in Rechnung gestellt werden können. Sind diese in nahezu allen anderen Bundesländern bei rund 500 Euro gedeckelt, liegt die Untergrenze in Sachsen überhaupt schon bei 600 Euro. Kleinere Anfragen bleiben zwar kostenlos, wenige Arbeitsstunden eines Beamten reichen aber schon, um die Grenze zu überschreiten. Auch wurde in Sachsen kein weiteres Personal für die Bearbeitung von Transparenzanfragen angestellt, sondern es wird von den bestehenden Mitarbeitenden grundsätzlich erwartet, zusätzlich mitzuerledigen. Trotz aller negativen Erfahrungen mit geschwärzten Seiten, langen Wartezeiten, ganz ausbleibenden Antworten und hohen Rechnungen, ermutigt der Autor aber sich nicht abschrecken zu lassen, weiter Anfragen zu stellen und so sein Recht auf Transparenz wahrzunehmen. Die Saat ist gesät.
+
+Wie wichtig Transparenz ist, zeigt [die Rechereche von correctiv](https://correctiv.org/aktuelles/wirtschaft/2024/06/06/kostenexplosion-fussball-em-deutschland-2024/): so kostet den Steuerzahler die Austragung der Fußball-EM 2024 mindestens 66 Millionen Euro mehr als ursprünglich geplant. Die durch Informationsfreiheitsanfragen (IFG) [angeforderten Verträge](https://fragdenstaat.de/blog/2024/06/06/hier-sind-die-knebelvertrage-zur-fussball-em/) zwischen den Gastgeberstädten und dem europäische Fußballverband UEFA zeigen die weitreichenden und zum Teil sehr zweifelhaften Verpflichtungen, die den Städten auferlegt worden sind. Während also die Kosten für die Host Citys explodieren, freut sich die UEFA über das Steuergeschenk der Bundesregierung, ihren Gewinn aus der EM nicht versteuern zu müssen.
+
+[Aus Sicht von FragDenStaat](https://www.lto.de/recht/meinung/m/akteneinsicht-fragdenstaat-belange-dritter-bei-informationsanspruechen/) bieten die Informationsfreiheitsgesetze (IFG) den Behörden derzeit noch zu viele Möglichkeiten, die Herausgabe von Dokumenten zu verzögern oder gar ganz zu verweigern, wenn dabei auch potenziell Informationen von Externen berührt sind, wie z.B. bei der Kooperation mit Unternehmen. Die Gesetze müssten entsprechend strenger werden und die Rechte der Anfragenden stärken, damit sich nicht länger vermeintliche Urheberrechte, Geschäftsgeheimnisse oder Persönlichkeitsschutz vorschieben lassen. Auch die Drittbeteiligungsverfahren geben den Unternehmen aktuell noch zu viel Macht, sich aus ihrer Verpflichtung zu ziehen und unlautere Geschäftspraktiken und Einflussnahmen weiterhin verschleiern zu können.
+
+Auch [LobbyControl fordert](https://www.lobbycontrol.de/lobbyismus-in-der-eu/fuer-eine-eu-lobbykontrolle-mit-biss-115129/), dass es, statt zahnloser Gremien, funktionierende Lobbyregeln, ein verpflichtendes EU-Transparenzregister und eine unabhängige Kontrollbehörde, die die Einhaltung der Regeln aktiv überwachen und auch Sanktionen verhängen kann, braucht.
+
+Manchmal hilft auch die Unzuverlässigkeit der anderen: weil nicht mehr genügend Abgeordnete der Oppositionspartein bei der Abstimmung im Landtag zugegen waren, konnte ein verpflichtendes Lobbyregister für Thüringen durch die rot-rot-grüne Minderheitsregierung [beschlossen werden](https://www.zeit.de/news/2024-06/14/thueringen-bekommt-ein-lobbyregister).
+
+Wie interne E-Mails des Bildungsministerium offenbaren, sollte eine Liste von Wissenschaftler:innen erstellt werden, die sich in einem offenen Brief positioniert hatten und gleichzeitig Fördermittel des Ministeriums erhielten. Auf Grundlage der Liste sollten förderrechtliche Konsequenzen geprüft werden. Ein klarer Angriff auf die Wissenschaftsfreiheit. Erst wurde mit einer [nachweislich falschen Behauptung](https://chaos.social/@fragdenstaat/112687758361435077) das zu späte Bereitstellen von angeforderten Dokumenten begründet, nun wird offenbar versucht, weitere die Causa betreffende interne Kommunikation zu löschen, wo gegen [ein Eilantrag auf den Erlass einer einstweillige Anordnung beim Verwaltungsgericht eingereicht wurde](https://chaos.social/users/fragdenstaat/statuses/112704999195434647).
 
 ## Open Data
 * Open Data Day München 2024 Interviews
