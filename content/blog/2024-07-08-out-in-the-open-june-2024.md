@@ -1,7 +1,7 @@
 ---
 title: "Shifting Baseline Syndrome – Out in the Open June 2024"
 author: "Jörg Reichert (Code for Leipzig)"
-date: '2024-07-01T08:00:00+02:00'
+date: '2024-07-08T08:00:00+02:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
 topic: community
 images:
@@ -40,28 +40,13 @@ In [ihren Präsentationen](https://zenodo.org/search?q=metadata.creators.person_
 Helen Klee, Werkstudentin bei [CorrelAid](https://www.correlaid.org/), [teilt ihren persönlichen Erfahrungsbericht](https://www.correlaid.org/blog/r-lernen-reise-2024-05/) aus ihre Teilnahme am 12-wöchigen Kurs "R Lernen - Der Datenkurs von und für die Zivilgesellschaft“.
 
 ## Zensus 2022
-Viel Futter für das nächste Datenanalyse- und -visualisierungsprojekt liefern auch die Daten vom [Zensus 2022](https://www.zensus2022.de/DE/Home/_inhalt.html), die am 25. Juni der Öffentlichkeit [vorgestellt wurden](https://www.zensus2022.de/DE/Veranstaltungen/Pressegespraech/Einladung_Pressekonferenz_Ergebnisveroeffentlichung_25_06_2024.html). Begleitend zur Veröffentlichung werden in [mehreren Podcastfolgen](https://www.zensus2022.de/DE/Mediathek/Podcast/_inhalt.html) verschiedene Aspekte des Zenus besprochen.
+Viel Futter für das nächste Datenanalyse- und -visualisierungsprojekt liefern auch die Daten vom [Zensus 2022](https://www.zensus2022.de/DE/Home/_inhalt.html), die am 25. Juni der Öffentlichkeit vorgestellt wurden. Begleitend zur Veröffentlichung werden in [mehreren Podcastfolgen](https://www.zensus2022.de/DE/Mediathek/Podcast/_inhalt.html) verschiedene Aspekte des Zenus besprochen.
 
-* Zensus 2022: Datenjournalist Claus Hesseling zu den Ergebnissen
-  https://www.tagesschau.de/multimedia/video/video-1352348.html
-* die Daten für Schleswig-Holstein
-  https://opendata.schleswig-holstein.de/dataset/?tags=Zensus+2022
-* So wohnt Bayern: Was uns der Zensus sagt
-  https://www.br.de/nachrichten/bayern/so-wohnt-bayern-kaufen-mieten-leerstand-was-uns-der-zensus-ueber-den-wohnraum-im-freistaat-sagt,UGgmm0y
-* Der Zensus zeigt: In Mecklenburg-Vorpommern (und allgemein im Osten) ist die Zahl der jungen Erwachsenen seit 2011 eingebrochen.
-  https://www.ndr.de/nachrichten/ndrdata/Zensus-2022-Wo-in-Norddeutschland-leben-junge-Menschen,zensus312.html
-  via https://chaos.social/@lalonsander/112677124435189943
-* Abweichungen bei Bevölkerungszahlen der größten Städte
-  https://www.l-iz.de/politik/kassensturz/2024/06/nach-zensus-2022-leipzig-zaehlt-jetzt-offiziell-nur-noch-607-000-einwohner-595333
-* Im Zensus-Atlas sind beim 1km- und 100m-Gitter Zensusergebnisse nur für die besiedelten Gebiete dargestellt.
-  https://atlas.zensus2022.de/?BL=DE&code=Z12&Jhr=2022&scl=4514&E=4321616&N=3383302
-  via https://norden.social/@wahlatlas/112681517354676372
-* 75% der Heizungen in Deutschland wurden 2022 noch mit Gas oder Öl betrieben. Weniger als 3% der Wohnungen wurden mit Wärmepumpen beheizt
-  https://taz.de/Heizungen-in-Deutschland/!6019247/
-  via https://chaos.social/@lalonsander/112677893942937716
-* Beispiel-Code zum Verarbeiten der Excel/CSV-Daten
-  https://github.com/wahlatlas/zensus2022
-  via https://norden.social/@wahlatlas/112647911805818687
+Der Datenjournalist Claus Hesseling ordnet die Ergebnisse [im Interview bei tagesschau.de ein](https://www.tagesschau.de/multimedia/video/video-1352348.html). So sind die nach unten korrigierten Bevölkerungzahlen, vor allem bei den großen Städten ([hier beispielhaft für Leipzig](https://www.l-iz.de/politik/kassensturz/2024/06/nach-zensus-2022-leipzig-zaehlt-jetzt-offiziell-nur-noch-607-000-einwohner-595333)), dadurch zu erklären, dass viele Karteileichen bereinigt worden sind, die unter anderem auch durch Mehrfachregistrierung von Flüchtlingen entstanden sind. Auch ein klares Stadt-Land-Gefälle ist zu erkennen. So ist in Mecklenburg-Vorpommern (und allgemein im Osten) die Zahl der jungen Erwachsenen seit 2011 eingebrochen, wie der [NDR](https://www.ndr.de/nachrichten/ndrdata/Zensus-2022-Wo-in-Norddeutschland-leben-junge-Menschen,zensus312.html) aus dem Zensus herausliest. Bestimmte ländische Regionen haben auch gegen den Trend Bevölkerung zugewonnen, allerdings nur im westlichen Norden, was sich auch in den [Zenus-Daten für z.B. Schleswig-Holstein](https://opendata.schleswig-holstein.de/dataset/?tags=Zensus+2022) belegen lässt. Speziell ist die Wohnsituation in Bayern: rund 49% der Wohnungen im Freistaat sind Eigentumswohnung, wie die [Auswertung vom BR](https://www.br.de/nachrichten/bayern/so-wohnt-bayern-kaufen-mieten-leerstand-was-uns-der-zensus-ueber-den-wohnraum-im-freistaat-sagt,UGgmm0y) ergeben hat. 
+
+Der Zenus wird aller 10 Jahre erhoben und seine Durchführung hat diesmal mindestens 1,5 Mrd. Euro gekostet. Trotzdem notwendig, da die aktualisierten Daten die Grundlage für die Planung von KiTas, Schulen, Bahnstrecken, Platzierung von Windrädern und die kommunale Wärmeplanung bilden. 2022 wurden [75% der Heizungen in Deutschland noch mit Gas oder Öl betrieben](https://taz.de/Heizungen-in-Deutschland/!6019247/), Wärmepumpen kam Stand vor 2 Jahren in weniger als 3% der Wohnungen zum Einsatz. Generell werden wohl Verteilungsfragen für die Daseinsvorsorge gerade für die Regionen neu gestellt, für die sich die Prozesse des demografischen Wandels wie Überalterung und Schrumpfung besonders stark abzeichnen. 
+
+Im [Zensus Atlas](https://atlas.zensus2022.de/) sehr kleinteilig auf einer Karte erkunden. [Michael Neutze weist aber darauf hin](https://norden.social/@wahlatlas/112681517354676372), dass hier beim 1km- und 100m-Gitter Zensusergebnisse nur für die besiedelten Gebiete dargestellt sind. Er selbst stellt auch [Beispiel-Code](https://github.com/wahlatlas/zensus2022) zum Verarbeiten der Excel/CSV-Daten [zur freien Verfügung](https://norden.social/@wahlatlas/112647911805818687).
 
 ## Statistik
 * Weltflüchtlingsbericht des UNHCR: Fast 120 Millionen auf der Flucht
@@ -291,8 +276,10 @@ Wie interne E-Mails des Bildungsministerium offenbaren, sollte eine Liste von Wi
   * Bericht: Windows 11 OneDrive synchronisiert die Ordner bei einer Neuinstallation ohne Nachfrage
     https://www.deskmodder.de/blog/2024/06/25/bericht-windows-11-onedrive-synchronisiert-die-ordner-bei-einer-neuinstallation-ohne-nachfrage/
   * Chatkontrolle abgewendet
-‚
+
 ## Veranstaltungen
+* Montag, 01.07.2024, bis 07.07.2024, Tartu, Estland: **FOSS4G EUROPE 2024**
+  * https://2024.europe.foss4g.org
 * Montag, 01.07.2024, 14:00-15:30, online: **Open Transport Data Quality Meetup: Umsteigebeziehungen / Pathways**
   * https://github.com/transportkollektiv/meetup/wiki/Open-Transport-Data-Quality-Meetup
 * Montag, 01.07.2024, 19:00-21:00, Hackländerstraße 2, Köln: **Code for Cologne (OKLab Köln): OpenData Time**
