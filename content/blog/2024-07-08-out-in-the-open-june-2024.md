@@ -80,37 +80,27 @@ Die Ergebnisse der europaweiten Zählungen von Schmetterlingen im Rahmen des [Eu
 Auch das Projekt [Bullinger Digital](https://mithelfen.bullinger-digital.ch) ist auf der Suche nach fleißigen Mithelfenden, [aber in einem völlig anderen Fachgebiet](https://techhub.social/@phillipstroebel/112688900828836204). Hier sollen Eigennamen von Ortschaften und Personen in Briefen aus dem 16. Jahrhundert, also der Zeit der Reformation, annotiert werden. 
 
 ## Umwelt und Klima
-* Schwamm Drauf! Eine schöne Stadtklima-Analyse auf Basis von Open Data: 
-  Pascal Löffler und Florian Aschinger nutzen im Rahmen ihrer Masterarbeit offene Daten als Grundlage für die Entwicklung einer Vision, um den Temperaturveränderungen in der Stadt Bamberg zu begegnen. Ein tolles Projekt aus Zivilgesellschaft und Lehre!
-  https://oc.bydata.de/using/usecases/schwammdrauf
-  via https://mastodon.social/@ocbydata/112642383190150436
-* Neue Multimedia-Ausstellung basierend auf Open Data der Stadt Wien: "Blickwinkel 2040" -  Klimaschutz und Klimaanpassungsmaßnahmen in  Wien
-  https://www.data.gv.at/katalog/dataset/a6aed657-82f9-478a-ba2f-470dcb442eca
-  via https://mastodon.social/@datagvat/112598250175015790
-* Am 17. Juni 2024 legte das Umweltministerium (BMUV) den ersten Entwurf dieser “Nationalen Kreislaufwirtschaftsstrategie” (NKWS) vor
-  * Müllverwertung im Vordergrund, sollte aber Steigerung der Reparaturquote, der Schaffung einer reparaturfreundlichen Infrastruktur und der Erhöhung der Informationstransparenz sowie Erhöhung der Informationstransparenz auf der Produktebene
-  * Konzept Open-Source-Hardware als transparentes Produktdesign
-  https://okfn.de/blog/2024/06/zum-entwurf-der-nkws-ambitioniert-bleiben/
-* Deutsche Wirtschaft: Gute Umsätze mit dem Umweltschutz
-  https://www.tagesschau.de/wirtschaft/wirtschaft-umsatz-umweltschutz-100.html
+Die Data Story ["Schwamm Drauf!"](https://schwammdrauf.wolperlab.de) zeigt anschaulich und interaktiv (immer schön nach unten scrollen) eine Stadtklima-Analyse für Bamberg auf Basis von Open Data. Entstanden im Rahmen des Seminars "Bamberg Data Stories", wird sie nun als [Anwendungsfall](https://oc.bydata.de/using/usecases/schwammdrauf) auf den Seiten des Bayrischen Open Data Kompetenzzentrums [gelistet](https://mastodon.social/@ocbydata/112642383190150436).
+
+Auch die neue Multimedia-Ausstellung ["Blickwinkel 2040"](https://www.blickwinkel2040.at) - Klimaschutz und Klimaanpassungsmaßnahmen in Wien wäre ohne [Open Data](https://www.data.gv.at/katalog/dataset/a6aed657-82f9-478a-ba2f-470dcb442eca) nicht [umsetzbar](https://mastodon.social/@datagvat/112598250175015790) gewesen.
+
+Am 17. Juni 2024 hat das Umweltministerium (BMUV) den ersten Entwurf der [“Nationalen Kreislaufwirtschaftsstrategie”](https://www.bmuv.de/themen/kreislaufwirtschaft/kreislaufwirtschaftsstrategie) (NKWS) vorgelegt. Maximilian Voigt von der Open Knowledge Foundation hat sie sich [angesehen](https://okfn.de/blog/2024/06/zum-entwurf-der-nkws-ambitioniert-bleiben/). Sein Fazit: die Müllverwertung steht in ihr stark im Vordergrund, es sollte seiner Meinung nach ebenso viel Wert auf die Steigerung der Reparaturquote, der Schaffung einer reparaturfreundlichen Infrastruktur sowie die Erhöhung der Informationstransparenz insbesondere auf Produktebene gelegt werden. Dabei ließe sich das Konzept von Open-Source-Hardware als Möglichkeit für transparentes Produktdesign direkt aufgreifen.
+
+Umweltschutz, besonders die Bereiche wie Wärmedämmung, Windkraft aber auch Abfall- und Abwasserwirtschaft, entwickeln sich immer mehr zu einem wichtigen Wirtschaftsfaktor in Deutschland. Wie die [Tagesschau berichtet](https://www.tagesschau.de/wirtschaft/wirtschaft-umsatz-umweltschutz-100.html), stiegen sowohl Umsätze als auch die Zahl der Beschäftigten in diesen sogenannten Green Jobs. Und auch zukünftig sind weitere Investitionen zu erwarten.
 
 ## Luftqualität
-* By the official air quality monitoring center.
-The first map will display the whole Île-de-France area and PM10 data, but you can zoom in on Paris and select NO2 or any other indicator.
-  https://www.airparif.fr/surveiller-la-pollution/bilans-et-cartes-annuels-de-pollution
-  via https://piaille.fr/@GTechene/112580192230476815
-* Treibhausgase in der Atmosphäre: Co2-Wert steigt wie nie zuvor
-  https://taz.de/Treibhausgase-in-der-Atmosphaere/!6013137/
-* BreezoMeter
-  https://www.breezometer.com/air-quality-map/de/air-quality/germany/berlin
+Mit 21,1 Milliarden Euro gehört Luftreinhaltung demnach zu einem der umsatzstärksten Umweltbereiche.
 
-## Extremwetter
-* Lokale Sturzflut-Gefahr vorhersagen
-  Forschende der Universität Freiburg entwickeln Index, um die Gefahr von Sturzfluten einzuordnen, der lokale Gegebenheiten berücksichtigt
-  https://kommunikation.uni-freiburg.de/pm/expertendienst/lokale-sturzflut-gefahr-vorhersagen
-* Die Pegelstände in Deutschland stehen jetzt unter DL-Zero.
-  https://www.pressebox.de/pressemitteilung/itzbund-dienstsitz-bonn/Datenlizenz-Deutschland-Zero-2-0-fuer-Pegeldaten-des-Bundes/boxid/1205339
-  via https://gruene.social/@mathias/112632051425007133
+In Paris zeigen die Maßnahmen zur Mobilitätswende [deutliche positive Effekte auf die Luftqualität](https://piaille.fr/@fuck_cars_bot@botsin.space/112579326392457023), wie man auch in der [offiziellen interaktiven Karte](https://www.airparif.fr/surveiller-la-pollution/bilans-et-cartes-annuels-de-pollution) der Luftqualitätsüberwachung pro Schadstoff und Jahr nachvollziehen kann.
+
+Die Luftqualität in Echtzeit sieht man straßengenau auf [Breezometer](https://www.breezometer.com/), hier z.B. für [Berlin](https://www.breezometer.com/air-quality-map/de/air-quality/germany/berlin).
+
+Derweil nimmt die Verschmutzung durch fossile Brennstoffe immer weiter zu. Der CO2-Gehalt in der Atmosphäre ist [schneller als je zuvor gestiegen](https://taz.de/Treibhausgase-in-der-Atmosphaere/!6013137/).   
+
+## Hochwasser
+Forschende der Universität Freiburg [haben einen Index entwickelt](https://kommunikation.uni-freiburg.de/pm/expertendienst/lokale-sturzflut-gefahr-vorhersagen), der bei der Vorhersage möglicher Sturzfluten lokale Gegebenheiten berücksichtigt. 
+
+Passend dazu werden die Daten über die Pegelstände in Deutschland [endlich gemeinfrei](https://www.pressebox.de/pressemitteilung/itzbund-dienstsitz-bonn/Datenlizenz-Deutschland-Zero-2-0-fuer-Pegeldaten-des-Bundes/boxid/1205339) (stehen nun konkret unter Deutschland-Lizenz-Zero), können also unbedenklich für nicht-kommerzielle als auch komerzielle Zwecke unbedenklich nachgenutzt werden.
 
 ## Energie
 * Wattbewerb: Städte und Gemeinden in Berlin ausgezeichnet
