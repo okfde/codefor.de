@@ -11,46 +11,7 @@ og_image: out-in-the-open-2024-06-header.jpg
 type: blog
 ---
 
-## Transparenz
-
-Seit dem 1. Januar 2023 gilt in Sachsen das [Sächsische Transparenzgesetz](https://www.datenschutz.sachsen.de/transparenz.html). Aiko Kempen, investigativer Journalist im Recherche-Team von Frag den Staat, hat in den letzten anderthalb Jahren [den Praxistest gemacht](https://kreuzer-leipzig.de/2024/06/01/transparenzgesetz-sachsen) und musste feststellen, dass der Fehler schon im System liegt. So ist anders als in allen anderen Bundesländern sowohl der gesamte kommunale Bereich, der gesamte Schriftverkehr innerhalb einer Behörde sowie alle Dokumente im Entwurfsstadium bereits von der Transparenzpflicht ausgenommen. Solche Ausnahmeregelungen werden dann auch gerne gedehnt, wenn z.B. der Schriftverkehr zwischen Innenministerium und Stadt Leipzig kurzerhand als "Kommunikation innerhalb einer Behörde" deklariert wird. Am verheerendsten wirken jedoch die Gebühren, die für die Bearbeitung eines Transparenzbegehrens in Rechnung gestellt werden können. Sind diese in nahezu allen anderen Bundesländern bei rund 500 Euro gedeckelt, liegt die Untergrenze in Sachsen überhaupt schon bei 600 Euro. Kleinere Anfragen bleiben zwar kostenlos, wenige Arbeitsstunden eines Beamten reichen aber schon, um die Grenze zu überschreiten. Auch wurde in Sachsen kein weiteres Personal für die Bearbeitung von Transparenzanfragen angestellt, sondern es wird von den bestehenden Mitarbeitenden grundsätzlich erwartet, zusätzlich mitzuerledigen. Trotz aller negativen Erfahrungen mit geschwärzten Seiten, langen Wartezeiten, ganz ausbleibenden Antworten und hohen Rechnungen, ermutigt der Autor aber sich nicht abschrecken zu lassen, weiter Anfragen zu stellen und so sein Recht auf Transparenz wahrzunehmen. Die Saat ist gesät.
-
-Wie wichtig Transparenz ist, zeigt [die Rechereche von correctiv](https://correctiv.org/aktuelles/wirtschaft/2024/06/06/kostenexplosion-fussball-em-deutschland-2024/): so kostet den Steuerzahler die Austragung der Fußball-EM 2024 mindestens 66 Millionen Euro mehr als ursprünglich geplant. Die durch Informationsfreiheitsanfragen (IFG) [angeforderten Verträge](https://fragdenstaat.de/blog/2024/06/06/hier-sind-die-knebelvertrage-zur-fussball-em/) zwischen den Gastgeberstädten und dem europäische Fußballverband UEFA zeigen die weitreichenden und zum Teil sehr zweifelhaften Verpflichtungen, die den Städten auferlegt worden sind. Während also die Kosten für die Host Citys explodieren, freut sich die UEFA über das Steuergeschenk der Bundesregierung, ihren Gewinn aus der EM nicht versteuern zu müssen.
-
-[Aus Sicht von FragDenStaat](https://www.lto.de/recht/meinung/m/akteneinsicht-fragdenstaat-belange-dritter-bei-informationsanspruechen/) bieten die Informationsfreiheitsgesetze (IFG) den Behörden derzeit noch zu viele Möglichkeiten, die Herausgabe von Dokumenten zu verzögern oder gar ganz zu verweigern, wenn dabei auch potenziell Informationen von Externen berührt sind, wie z.B. bei der Kooperation mit Unternehmen. Die Gesetze müssten entsprechend strenger werden und die Rechte der Anfragenden stärken, damit sich nicht länger vermeintliche Urheberrechte, Geschäftsgeheimnisse oder Persönlichkeitsschutz vorschieben lassen. Auch die Drittbeteiligungsverfahren geben den Unternehmen aktuell noch zu viel Macht, sich aus ihrer Verpflichtung zu ziehen und unlautere Geschäftspraktiken und Einflussnahmen weiterhin verschleiern zu können.
-
-Auch [LobbyControl fordert](https://www.lobbycontrol.de/lobbyismus-in-der-eu/fuer-eine-eu-lobbykontrolle-mit-biss-115129/), dass es, statt zahnloser Gremien, funktionierende Lobbyregeln, ein verpflichtendes EU-Transparenzregister und eine unabhängige Kontrollbehörde, die die Einhaltung der Regeln aktiv überwachen und auch Sanktionen verhängen kann, braucht.
-
-Manchmal hilft auch die Unzuverlässigkeit der anderen: weil nicht mehr genügend Abgeordnete der Oppositionspartein bei der Abstimmung im Landtag zugegen waren, konnte ein verpflichtendes Lobbyregister für Thüringen durch die rot-rot-grüne Minderheitsregierung [beschlossen werden](https://www.zeit.de/news/2024-06/14/thueringen-bekommt-ein-lobbyregister).
-
-Wie interne E-Mails des Bildungsministerium offenbaren, sollte eine Liste von Wissenschaftler:innen erstellt werden, die sich in einem offenen Brief positioniert hatten und gleichzeitig Fördermittel des Ministeriums erhielten. Auf Grundlage der Liste sollten förderrechtliche Konsequenzen geprüft werden. Ein klarer Angriff auf die Wissenschaftsfreiheit. Erst wurde mit einer [nachweislich falschen Behauptung](https://chaos.social/@fragdenstaat/112687758361435077) das zu späte Bereitstellen von angeforderten Dokumenten begründet, nun wird offenbar versucht, weitere die Causa betreffende interne Kommunikation zu löschen, wo gegen [ein Eilantrag auf den Erlass einer einstweillige Anordnung beim Verwaltungsgericht eingereicht wurde](https://chaos.social/users/fragdenstaat/statuses/112704999195434647).
-
-## Open Data
-* Open Data Day München 2024 Interviews
-  https://egovernment-podcast.com/egov186-oddmuc24/
-* Entwurf DCAT-AP.de 3.0
-  https://gitlab.opencode.de/fitko/govdata/dcat-ap.de/-/tree/3.0?ref_type=heads
-  * veröffentlich
-    https://semiceu.github.io/DCAT-AP/releases/3.0.0/
-* die Feuerwehr in Berlin veröffentlicht auch Open Data über deren Einsätze
-  https://github.com/Berliner-Feuerwehr/BF-Open-Data
-  https://www.berliner-feuerwehr.de/service/open-data/
-  via https://chaos.social/@jk/112593609708885897
-* In Schleswig-Holstein wird es hoffentlich demnächst mehr Open Data von kommunalen Stellen durch die Richtlinie für die Gewährung von Zuwendungen zum Zweck der Förderung der Anbindung von Fachverfahren an das Open-Data-Portal Schleswig-Holstein geben. Und das regelmäßig und in hoher Qualität. Es werden nämlich Schnittstellen zum Datenexport aus Fachanwendungen gefördert.
-Demnächst gibt es auch einen Onlinedienst zur Beantragung. Also gerne schon Ideen sammeln, aber noch keine Anträge per E-Mail oder Post schicken
-  https://transparenz.schleswig-holstein.de/dataset/richtlinie-fur-die-gewahrung-von-zuwendungen-zum-zweck-der-forderung-der
-  via https://norden.social/@MisterOpenData/112596837341038169
-* Auf der Suche nach einer kurzen Einführung zu Open Government und Open Data? Dann schaut auch doch mal die Videos der Stadt Offenbach zu Open Data an
-  https://www.youtube.com/watch?v=lT13nNd_oG0
-  https://www.youtube.com/watch?v=qBAahUqzT-4
-  via https://social.bund.de/@opendatabund/112597642052823045
-* Auswertungen der Open Data zum österreichischen Bundesbudget mit der Statistik-Software R zu Anschauungszwecken
-  https://www.data.gv.at/katalog/dataset/3d76af33-8ee6-41b2-9003-7d4a051ff36f?new
-* Welche Open Data Themen sind für Deutschland, Österreich, Schweiz und Lichtenstein momentan relevant? Welche Themen wurden beim OGD DACHLI angesprochen?
-  https://www.data.gv.at/wp-content/uploads/2024/06/Nachlese-OGD-DACHLI-Bozen-2024.pdf
-  via https://social.bund.de/@opendatabund/112688239961506484
-* Data Package version 2.0 (previously known as Frictionless Specs) is out!
-  https://blog.okfn.org/2024/06/26/data-package-version-2-0-release/
+## Open Data - Einführung
 * Open Data Presentations Esther Plomp
   https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Plomp%2C%20Esther%22&l=list&p=1&s=10&sort=newest
   * AREN - Open Data: Principles and Tools
@@ -61,15 +22,83 @@ Demnächst gibt es auch einen Onlinedienst zur Beantragung. Also gerne schon Ide
     https://zenodo.org/records/11862588
   * AREN - Sharing Open Data
     https://zenodo.org/records/11862672
+* Auf der Suche nach einer kurzen Einführung zu Open Government und Open Data? Dann schaut auch doch mal die Videos der Stadt Offenbach zu Open Data an
+  https://www.youtube.com/watch?v=lT13nNd_oG0
+  https://www.youtube.com/watch?v=qBAahUqzT-4
+  via https://social.bund.de/@opendatabund/112597642052823045
+* Meine „R Lernen“-Reise - Wie der 12-wöchige Kurs meinen Blick auf Daten verändert hat
+  https://www.correlaid.org/blog/r-lernen-reise-2024-05/
 
-## Linked Open Data
-* Die GND Ontologie und weitere RDF-Vokabulare der Deutschen Nationalbibliothek sind nun auf Github
-  https://github.com/deutsche-nationalbibliothek/gnd-ontology
-  https://github.com/deutsche-nationalbibliothek/lds-vocabulary
-  via https://openbiblio.social/@nabatz/112693648678314525
-* Knowledge Equity in Linked Open Data: Summary of Findings
-  https://upload.wikimedia.org/wikipedia/commons/e/ef/Summary_of_findings_on_Knowledge_Equity_in_Linked_Open_Data%2C_submitted_to_Wikimedia_Deutschland.pdf
-  via https://glammr.us/@Jeannho/112571617774955791
+## Citizen Science
+* Open Science Meets Citizen Science – A Guide
+  https://libereurope.eu/article/open-science-meets-citizen-science-a-guide/
+  https://cs4rl.github.io/open-science/
+* Kastaniendetektive
+  https://floraincognita.de/kastaniendetektive/
+  via https://nrw.social/users/maexchen1/statuses/112684212277376019
+* Mithelfen bei Bullinger Digital
+  https://mithelfen.bullinger-digital.ch
+  via https://techhub.social/@phillipstroebel/112688900828836204
+
+
+## Open Data in Schleswig Holstein
+
+* 
+  https://open.spotify.com/episode/5WPd8EbafNJLvsFnT385HD
+* In Schleswig-Holstein wird es hoffentlich demnächst mehr Open Data von kommunalen Stellen durch die Richtlinie für die Gewährung von Zuwendungen zum Zweck der Förderung der Anbindung von Fachverfahren an das Open-Data-Portal Schleswig-Holstein geben. Und das regelmäßig und in hoher Qualität. Es werden nämlich Schnittstellen zum Datenexport aus Fachanwendungen gefördert.
+Demnächst gibt es auch einen Onlinedienst zur Beantragung. Also gerne schon Ideen sammeln, aber noch keine Anträge per E-Mail oder Post schicken
+  https://transparenz.schleswig-holstein.de/dataset/richtlinie-fur-die-gewahrung-von-zuwendungen-zum-zweck-der-forderung-der
+  via https://norden.social/@MisterOpenData/112596837341038169
+
+## Open Data in Bayern
+* Open Data Day München 2024 Interviews
+  https://egovernment-podcast.com/egov186-oddmuc24/
+
+## Open Data andernorts
+* die Feuerwehr in Berlin veröffentlicht auch Open Data über deren Einsätze
+  https://github.com/Berliner-Feuerwehr/BF-Open-Data
+  https://www.berliner-feuerwehr.de/service/open-data/
+  via https://chaos.social/@jk/112593609708885897
+* Auswertungen der Open Data zum österreichischen Bundesbudget mit der Statistik-Software R zu Anschauungszwecken
+  https://www.data.gv.at/katalog/dataset/3d76af33-8ee6-41b2-9003-7d4a051ff36f?new
+* Welche Open Data Themen sind für Deutschland, Österreich, Schweiz und Lichtenstein momentan relevant? Welche Themen wurden beim OGD DACHLI angesprochen?
+  https://www.data.gv.at/wp-content/uploads/2024/06/Nachlese-OGD-DACHLI-Bozen-2024.pdf
+  via https://social.bund.de/@opendatabund/112688239961506484
+
+## Zensus 2022
+* Zensus 2022: Start der Veröffentlichung der Ergebnisse: Pressekonferenz vom Dienstag, 25. Juni 2024
+  https://www.zensus2022.de/DE/Veranstaltungen/Pressegespraech/Einladung_Pressekonferenz_Ergebnisveroeffentlichung_25_06_2024.html
+  https://www.zensus2022.de/DE/Home/_inhalt.html
+  * Zenus 2022 Podcast
+    https://www.zensus2022.de/DE/Mediathek/Podcast/_inhalt.html
+* Beispiel-Code zum Verarbeiten der Excel/CSV-Daten
+  https://github.com/wahlatlas/zensus2022
+  via https://norden.social/@wahlatlas/112647911805818687
+* die Daten für Schleswig-Holstein
+  https://opendata.schleswig-holstein.de/dataset/?tags=Zensus+2022
+* So wohnt Bayern: Was uns der Zensus sagt
+  https://www.br.de/nachrichten/bayern/so-wohnt-bayern-kaufen-mieten-leerstand-was-uns-der-zensus-ueber-den-wohnraum-im-freistaat-sagt,UGgmm0y
+* Der Zensus zeigt: In Mecklenburg-Vorpommern (und allgemein im Osten) ist die Zahl der jungen Erwachsenen seit 2011 eingebrochen.
+  https://www.ndr.de/nachrichten/ndrdata/Zensus-2022-Wo-in-Norddeutschland-leben-junge-Menschen,zensus312.html
+  via https://chaos.social/@lalonsander/112677124435189943
+* 75% der Heizungen in Deutschland wurden 2022 noch mit Gas oder Öl betrieben. Weniger als 3% der Wohnungen wurden mit Wärmepumpen beheiz
+  https://taz.de/Heizungen-in-Deutschland/!6019247/
+  via https://chaos.social/@lalonsander/112677893942937716
+* Abweichungen bei Bevölkerungszahlen der größten Städte
+  https://www.l-iz.de/politik/kassensturz/2024/06/nach-zensus-2022-leipzig-zaehlt-jetzt-offiziell-nur-noch-607-000-einwohner-595333
+* Im Zensus-Atlas sind beim 1km- und 100m-Gitter Zensusergebnisse nur für die besiedelten Gebiete dargestellt.
+  https://atlas.zensus2022.de/?BL=DE&code=Z12&Jhr=2022&scl=4514&E=4321616&N=3383302
+  via https://norden.social/@wahlatlas/112681517354676372
+* Zensus 2022: Datenjournalist Claus Hesseling zu den Ergebnissen
+  https://www.tagesschau.de/multimedia/video/video-1352348.html
+
+## Statistik
+* Weltflüchtlingsbericht des UNHCR: Fast 120 Millionen auf der Flucht
+  https://taz.de/Weltfluechtlingsbericht-des-UNHCR/!6017047/
+* Population grid #map of Europe by sex, age, employment and more now available
+  https://ec.europa.eu/assets/estat/E/E4/gisco/website/census_2021_grid_map/index.html
+  via https://mapstodon.space/@julgaf/112683267851787936
+  raw data census grid 2021: https://ec.europa.eu/eurostat/web/gisco/geodata/population-distribution/geostat
 
 ## Hochwertige Daten der EU
 * Wir gehen einen Schritt weiter und bilden die neuen Angebote peu à peu in GovData ab.
@@ -83,6 +112,23 @@ Demnächst gibt es auch einen Onlinedienst zur Beantragung. Also gerne schon Ide
   via https://mastodon.online/@kejan/112615233998440356
 * New EU rules make high-value datasets available to fuel artificial intelligence and data-driven innovation
   https://digital-strategy.ec.europa.eu/en/news/new-eu-rules-make-high-value-datasets-available-fuel-artificial-intelligence-and-data-driven
+
+## EU-Wahlen
+* Europa-Wahl 2024 Vergleichstool
+  https://results.elections.europa.eu/de/Tools/vergleichs-tool/
+  via https://mastodon.social/@marvinoppong/112587751081920788
+* Uff... Webseiten vs. Demokratie im Jahr 2024...
+  Wäre ja zu einfach, wenn man einfach auf Ergebnisse im maschinenlesbaren Format per nachvollziehbarer URL zugreifen könnte. Statt dessen unfassbar umfangreiches JavaScript-Geschwurbel. Passt irgendwie zum vollkommen irren und wirren Wahlergebnis im Land.
+  https://wahlergebnisse.brandenburg.de/
+  via https://mastodon.green/@taschenorakel/112593970504854985
+* Kritik an der Kartographie der Tagesschau bei der Ergebnisdarstellung der Europawahl 2024
+  https://norden.social/@wahlatlas/112593973623647154
+* DataViz & Verantwortung?! - Fläche vs Bevölkerungsdichte
+  https://mastodon.social/@geoObserver/112614939546683638
+* Alle Ergebnisse nach Landkreisen und Bundesländern
+  https://interaktiv.tagesspiegel.de/lab/europawahl-2024-live-karte-deutschland-wahlergebnisse/
+* Der zweite Blick auf die Europawahl: Die zweitstärksten Parteien
+  https://www.br.de/nachrichten/deutschland-welt/der-zweite-blick-auf-die-europawahl-die-zweitstaerksten-parteien,UFSgd53
 
 ## Geodaten
 * Gitterzellendatenbank
@@ -117,9 +163,12 @@ Demnächst gibt es auch einen Onlinedienst zur Beantragung. Also gerne schon Ide
 * Juni-Newsletter MapLibre
   https://mastodon.social/users/maplibre/statuses/112707322325512027
 
-## Klima
+## Umwelt
 * Deutsche Wirtschaft: Gute Umsätze mit dem Umweltschutz
   https://www.tagesschau.de/wirtschaft/wirtschaft-umsatz-umweltschutz-100.html
+
+
+## Luftqualität
 * By the official air quality monitoring center.
 The first map will display the whole Île-de-France area and PM10 data, but you can zoom in on Paris and select NO2 or any other indicator.
   https://www.airparif.fr/surveiller-la-pollution/bilans-et-cartes-annuels-de-pollution
@@ -141,8 +190,6 @@ The first map will display the whole Île-de-France area and PM10 data, but you 
   via https://mastodon.social/@ocbydata/112642383190150436
 * BreezoMeter
   https://www.breezometer.com/air-quality-map/de/air-quality/germany/berlin
-
-## Artensterben
 * This map shows the number of butterflies during 15 min counts between 20 May and 10 June 2024 (www.butterfly-monitoring.net). In N Europe the number of butterflies is very low. Spring butterflies have gone, summer butterflies are not there yet. In C and S Europe this is much less the case.
   https://butterfly-monitoring.net
   via https://ecoevo.social/@chrisvanswaay/112625302664911954
@@ -177,6 +224,25 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
   * Müllverwertung im Vordergrund, sollte aber Steigerung der Reparaturquote, der Schaffung einer reparaturfreundlichen Infrastruktur und der Erhöhung der Informationstransparenz sowie Erhöhung der Informationstransparenz auf der Produktebene
   * Konzept Open-Source-Hardware als transparentes Produktdesign
   https://okfn.de/blog/2024/06/zum-entwurf-der-nkws-ambitioniert-bleiben/
+
+## Linked Open Data
+* Die GND Ontologie und weitere RDF-Vokabulare der Deutschen Nationalbibliothek sind nun auf Github
+  https://github.com/deutsche-nationalbibliothek/gnd-ontology
+  https://github.com/deutsche-nationalbibliothek/lds-vocabulary
+  via https://openbiblio.social/@nabatz/112693648678314525
+* Knowledge Equity in Linked Open Data: Summary of Findings
+  https://upload.wikimedia.org/wikipedia/commons/e/ef/Summary_of_findings_on_Knowledge_Equity_in_Linked_Open_Data%2C_submitted_to_Wikimedia_Deutschland.pdf
+  via https://glammr.us/@Jeannho/112571617774955791
+
+## Open Data Tools
+* Entwurf DCAT-AP.de 3.0
+  https://gitlab.opencode.de/fitko/govdata/dcat-ap.de/-/tree/3.0?ref_type=heads
+  * veröffentlich
+    https://semiceu.github.io/DCAT-AP/releases/3.0.0/
+* Data Package version 2.0 (previously known as Frictionless Specs) is out!
+  https://blog.okfn.org/2024/06/26/data-package-version-2-0-release/
+* Wir schalten die Datenguide-API ab! Alles was ihr über das Ende der Datenguide-API wissen müsst und wie ihr in Zukunft auf die Daten der Regionalstatistik zugreifen könnt, erfahrt ihr in diesem Blogpost
+  https://datengui.de/blog/2024/bye-bye
 
 ## OpenSource
 * Alternativen zu Github
@@ -217,76 +283,18 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
   https://www.data.gv.at/katalog/dataset/63bc4638-11fd-4afc-8743-5219e916a5ee
   via https://mastodon.social/@datagvat/112598287355353129
 
-## EU-Wahlen
-* Europa-Wahl 2024 Vergleichstool
-  https://results.elections.europa.eu/de/Tools/vergleichs-tool/
-  via https://mastodon.social/@marvinoppong/112587751081920788
-* Uff... Webseiten vs. Demokratie im Jahr 2024...
-  Wäre ja zu einfach, wenn man einfach auf Ergebnisse im maschinenlesbaren Format per nachvollziehbarer URL zugreifen könnte. Statt dessen unfassbar umfangreiches JavaScript-Geschwurbel. Passt irgendwie zum vollkommen irren und wirren Wahlergebnis im Land.
-  https://wahlergebnisse.brandenburg.de/
-  via https://mastodon.green/@taschenorakel/112593970504854985
-* Kritik an der Kartographie der Tagesschau bei der Ergebnisdarstellung der Europawahl 2024
-  https://norden.social/@wahlatlas/112593973623647154
-* DataViz & Verantwortung?! - Fläche vs Bevölkerungsdichte
-  https://mastodon.social/@geoObserver/112614939546683638
-* Alle Ergebnisse nach Landkreisen und Bundesländern
-  https://interaktiv.tagesspiegel.de/lab/europawahl-2024-live-karte-deutschland-wahlergebnisse/
-* Der zweite Blick auf die Europawahl: Die zweitstärksten Parteien
-  https://www.br.de/nachrichten/deutschland-welt/der-zweite-blick-auf-die-europawahl-die-zweitstaerksten-parteien,UFSgd53
+## Transparenz
+Seit dem 1. Januar 2023 gilt in Sachsen das [Sächsische Transparenzgesetz](https://www.datenschutz.sachsen.de/transparenz.html). Aiko Kempen, investigativer Journalist im Recherche-Team von Frag den Staat, hat in den letzten anderthalb Jahren [den Praxistest gemacht](https://kreuzer-leipzig.de/2024/06/01/transparenzgesetz-sachsen) und musste feststellen, dass der Fehler schon im System liegt. So ist anders als in allen anderen Bundesländern sowohl der gesamte kommunale Bereich, der gesamte Schriftverkehr innerhalb einer Behörde sowie alle Dokumente im Entwurfsstadium bereits von der Transparenzpflicht ausgenommen. Solche Ausnahmeregelungen werden dann auch gerne gedehnt, wenn z.B. der Schriftverkehr zwischen Innenministerium und Stadt Leipzig kurzerhand als "Kommunikation innerhalb einer Behörde" deklariert wird. Am verheerendsten wirken jedoch die Gebühren, die für die Bearbeitung eines Transparenzbegehrens in Rechnung gestellt werden können. Sind diese in nahezu allen anderen Bundesländern bei rund 500 Euro gedeckelt, liegt die Untergrenze in Sachsen überhaupt schon bei 600 Euro. Kleinere Anfragen bleiben zwar kostenlos, wenige Arbeitsstunden eines Beamten reichen aber schon, um die Grenze zu überschreiten. Auch wurde in Sachsen kein weiteres Personal für die Bearbeitung von Transparenzanfragen angestellt, sondern es wird von den bestehenden Mitarbeitenden grundsätzlich erwartet, zusätzlich mitzuerledigen. Trotz aller negativen Erfahrungen mit geschwärzten Seiten, langen Wartezeiten, ganz ausbleibenden Antworten und hohen Rechnungen, ermutigt der Autor aber sich nicht abschrecken zu lassen, weiter Anfragen zu stellen und so sein Recht auf Transparenz wahrzunehmen. Die Saat ist gesät.
 
-## Zensus 2022
-* Zensus 2022: Start der Veröffentlichung der Ergebnisse: Pressekonferenz vom Dienstag, 25. Juni 2024
-  https://www.zensus2022.de/DE/Veranstaltungen/Pressegespraech/Einladung_Pressekonferenz_Ergebnisveroeffentlichung_25_06_2024.html
-  https://www.zensus2022.de/DE/Home/_inhalt.html
-  * Zenus 2022 Podcast
-    https://www.zensus2022.de/DE/Mediathek/Podcast/_inhalt.html
-* Beispiel-Code zum Verarbeiten der Excel/CSV-Daten
-  https://github.com/wahlatlas/zensus2022
-  via https://norden.social/@wahlatlas/112647911805818687
-* die Daten für Schleswig-Holstein
-  https://opendata.schleswig-holstein.de/dataset/?tags=Zensus+2022
-* So wohnt Bayern: Was uns der Zensus sagt
-  https://www.br.de/nachrichten/bayern/so-wohnt-bayern-kaufen-mieten-leerstand-was-uns-der-zensus-ueber-den-wohnraum-im-freistaat-sagt,UGgmm0y
-* Der Zensus zeigt: In Mecklenburg-Vorpommern (und allgemein im Osten) ist die Zahl der jungen Erwachsenen seit 2011 eingebrochen.
-  https://www.ndr.de/nachrichten/ndrdata/Zensus-2022-Wo-in-Norddeutschland-leben-junge-Menschen,zensus312.html
-  via https://chaos.social/@lalonsander/112677124435189943
-* 75% der Heizungen in Deutschland wurden 2022 noch mit Gas oder Öl betrieben. Weniger als 3% der Wohnungen wurden mit Wärmepumpen beheiz
-  https://taz.de/Heizungen-in-Deutschland/!6019247/
-  via https://chaos.social/@lalonsander/112677893942937716
-* Abweichungen bei Bevölkerungszahlen der größten Städte
-  https://www.l-iz.de/politik/kassensturz/2024/06/nach-zensus-2022-leipzig-zaehlt-jetzt-offiziell-nur-noch-607-000-einwohner-595333
-* Im Zensus-Atlas sind beim 1km- und 100m-Gitter Zensusergebnisse nur für die besiedelten Gebiete dargestellt.
-  https://atlas.zensus2022.de/?BL=DE&code=Z12&Jhr=2022&scl=4514&E=4321616&N=3383302
-  via https://norden.social/@wahlatlas/112681517354676372
-* Zensus 2022: Datenjournalist Claus Hesseling zu den Ergebnissen
-  https://www.tagesschau.de/multimedia/video/video-1352348.html
+Wie wichtig Transparenz ist, zeigt [die Rechereche von correctiv](https://correctiv.org/aktuelles/wirtschaft/2024/06/06/kostenexplosion-fussball-em-deutschland-2024/): so kostet den Steuerzahler die Austragung der Fußball-EM 2024 mindestens 66 Millionen Euro mehr als ursprünglich geplant. Die durch Informationsfreiheitsanfragen (IFG) [angeforderten Verträge](https://fragdenstaat.de/blog/2024/06/06/hier-sind-die-knebelvertrage-zur-fussball-em/) zwischen den Gastgeberstädten und dem europäische Fußballverband UEFA zeigen die weitreichenden und zum Teil sehr zweifelhaften Verpflichtungen, die den Städten auferlegt worden sind. Während also die Kosten für die Host Citys explodieren, freut sich die UEFA über das Steuergeschenk der Bundesregierung, ihren Gewinn aus der EM nicht versteuern zu müssen.
 
-## Statistik
-* Weltflüchtlingsbericht des UNHCR: Fast 120 Millionen auf der Flucht
-  https://taz.de/Weltfluechtlingsbericht-des-UNHCR/!6017047/
-* Population grid #map of Europe by sex, age, employment and more now available
-  https://ec.europa.eu/assets/estat/E/E4/gisco/website/census_2021_grid_map/index.html
-  via https://mapstodon.space/@julgaf/112683267851787936
-  raw data census grid 2021: https://ec.europa.eu/eurostat/web/gisco/geodata/population-distribution/geostat
+[Aus Sicht von FragDenStaat](https://www.lto.de/recht/meinung/m/akteneinsicht-fragdenstaat-belange-dritter-bei-informationsanspruechen/) bieten die Informationsfreiheitsgesetze (IFG) den Behörden derzeit noch zu viele Möglichkeiten, die Herausgabe von Dokumenten zu verzögern oder gar ganz zu verweigern, wenn dabei auch potenziell Informationen von Externen berührt sind, wie z.B. bei der Kooperation mit Unternehmen. Die Gesetze müssten entsprechend strenger werden und die Rechte der Anfragenden stärken, damit sich nicht länger vermeintliche Urheberrechte, Geschäftsgeheimnisse oder Persönlichkeitsschutz vorschieben lassen. Auch die Drittbeteiligungsverfahren geben den Unternehmen aktuell noch zu viel Macht, sich aus ihrer Verpflichtung zu ziehen und unlautere Geschäftspraktiken und Einflussnahmen weiterhin verschleiern zu können.
 
-## APIs
-* Wir schalten die Datenguide-API ab! Alles was ihr über das Ende der Datenguide-API wissen müsst und wie ihr in Zukunft auf die Daten der Regionalstatistik zugreifen könnt, erfahrt ihr in diesem Blogpost
-  https://datengui.de/blog/2024/bye-bye
+Auch [LobbyControl fordert](https://www.lobbycontrol.de/lobbyismus-in-der-eu/fuer-eine-eu-lobbykontrolle-mit-biss-115129/), dass es, statt zahnloser Gremien, funktionierende Lobbyregeln, ein verpflichtendes EU-Transparenzregister und eine unabhängige Kontrollbehörde, die die Einhaltung der Regeln aktiv überwachen und auch Sanktionen verhängen kann, braucht.
 
-## Arbeiten mit Daten
-* Meine „R Lernen“-Reise - Wie der 12-wöchige Kurs meinen Blick auf Daten verändert hat
-  https://www.correlaid.org/blog/r-lernen-reise-2024-05/
+Manchmal hilft auch die Unzuverlässigkeit der anderen: weil nicht mehr genügend Abgeordnete der Oppositionspartein bei der Abstimmung im Landtag zugegen waren, konnte ein verpflichtendes Lobbyregister für Thüringen durch die rot-rot-grüne Minderheitsregierung [beschlossen werden](https://www.zeit.de/news/2024-06/14/thueringen-bekommt-ein-lobbyregister).
 
-## Citizen Science
-* Open Science Meets Citizen Science – A Guide
-  https://libereurope.eu/article/open-science-meets-citizen-science-a-guide/
-  https://cs4rl.github.io/open-science/
-* Kastaniendetektive
-  https://floraincognita.de/kastaniendetektive/
-  via https://nrw.social/users/maexchen1/statuses/112684212277376019
-* Mithelfen bei Bullinger Digital
-  https://mithelfen.bullinger-digital.ch
-  via https://techhub.social/@phillipstroebel/112688900828836204
+Wie interne E-Mails des Bildungsministerium offenbaren, sollte eine Liste von Wissenschaftler:innen erstellt werden, die sich in einem offenen Brief positioniert hatten und gleichzeitig Fördermittel des Ministeriums erhielten. Auf Grundlage der Liste sollten förderrechtliche Konsequenzen geprüft werden. Ein klarer Angriff auf die Wissenschaftsfreiheit. Erst wurde mit einer [nachweislich falschen Behauptung](https://chaos.social/@fragdenstaat/112687758361435077) das zu späte Bereitstellen von angeforderten Dokumenten begründet, nun wird offenbar versucht, weitere die Causa betreffende interne Kommunikation zu löschen, wo gegen [ein Eilantrag auf den Erlass einer einstweillige Anordnung beim Verwaltungsgericht eingereicht wurde](https://chaos.social/users/fragdenstaat/statuses/112704999195434647).
 
 ## Und sonst so
 * Vorträge von GPN:
@@ -319,8 +327,8 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
   * https://www.meetup.com/de-DE/code-for-munster/events/301603254/
 * Dienstag, 02.07.2024, 20:00, c-base, Berlin und online: **138. Netzpolitischer Abend: Überwachung und Kontrolle, Reclaim Tiktok, Digital Streetwork**
   * https://digitalegesellschaft.de/2024/06/138-netzpolitischer-abend/
-* Mittwoch, 03.07.2024, bis Donnerstag, 04.07.2024: **Generative Art Summit Berlin – die Konferenz**
-  * https://art-meets-science.io/generative-art-summit-berlin-die-konferenz/
+* Mittwoch, 03.07.2024, 18:00-21:00, Norderstraße 49, Flensburg: **OKLab Flensburg**
+  * https://wechange.de/group/ok-lab-flensburg/event/ok-lab-10/
 * Mittwoch, 03.07.2024, 19:00-22:00, Petersteinweg 14, Leipzig: **OKLab Leipzig**
   * https://www.meetup.com/de-DE/oklab-leipzig/
 * Mittwoch, 03.07.2024, 20:00, online: **Open Source für Innovation und Souveränität**
@@ -338,6 +346,8 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
   * https://www.meetup.com/de-DE/ok-lab-berlin/events/301574544/
 * Dienstag, 09.07.2024, bis Samstag, 13.07.2024, III. Koppelweg 6, Gifhorn: **Hacken Open Air 2::24**
   * https://hackenopenair.de
+* Mittwoch, 10.07.2024, 18:00-21:00, Norderstraße 49, Flensburg: **OKLab Flensburg**
+  * https://wechange.de/group/ok-lab-flensburg/event/ok-lab-11/
 * Mittwoch, 10.07.2024, 19:00-22:00, Petersteinweg 14, Leipzig: **OKLab Leipzig**
   * https://www.meetup.com/de-DE/oklab-leipzig/
 * Donnerstag, 11.07.2024, 15:00-18:00, online: **Mit Daten Geschichten erzählen - Online-Workshop für zivilgesellschaftliche Organisationen**
@@ -348,12 +358,16 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
   * https://www.meetup.com/de-DE/codeforcologne/events/301857588/
 * Mittwoch, 17.07.2024, bis Mittwoch, 24.07.2024, Funen, Dänemark: **Bornhack 2024**
   * https://bornhack.dk/bornhack-2024/
-* Mittwoch, 17.07.2024, 19:00-22:00, Petersteinweg 14, Leipzig: **OKLab Leipzig**
-  * https://www.meetup.com/de-DE/oklab-leipzig/
+* Mittwoch, 17.07.2024, 18:00-21:00, Norderstraße 49, Flensburg: **OKLab Flensburg**
+  * https://wechange.de/group/ok-lab-flensburg/event/ok-lab-12/
 * Donnerstag, 18.07.2024, 12:00, bis Freitag, 19.07.2024, 13:00, Klein Glien 25, Bad Belzig: **HackDay @ Kreativsause**
   * https://pretix.eu/smartvillage/hackday/
 * Freitag, 19.07.2024, bis Sonntag, 21.07.2024, Neckarpromenade 46, Mannheim: **Jugend hackt Rhein-Neckar**
   * https://jugendhackt.org/events/rhein-neckar/
+* Samstag, 20.07.2024, 10:00, bis Sonntag, 21.07.2024, Aktivitetshuset, Norderstr. 49, Flensburg: **Open Data Hackathon - im Akti**
+  * https://wechange.de/group/ok-lab-flensburg/event/open-data-hackathon-im-akti/
+* Mittwoch, 24.07.2024, 18:00-21:00, Norderstraße 49, Flensburg: **OKLab Flensburg**
+  * https://wechange.de/group/ok-lab-flensburg/event/ok-lab-13/
 * Mittwoch, 24.07.2024, 19:00-22:00, Petersteinweg 14, Leipzig: **OKLab Leipzig**
   * https://www.meetup.com/de-DE/oklab-leipzig/
 * Freitag, 26.07.2024, bis Sonntag, 28.07.2024, Aaccelerator, Blezingerstraße  15, Aalen: **FAT24**
@@ -362,6 +376,8 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
   * https://www.meetup.com/de-DE/codeforcologne/events/pxnsgtygckbmc/
 * Dienstag, 30.07.2024, 19:30, Wolbecker Straße 36, Münster: **Code For Münster Hacknight**
   * https://www.meetup.com/de-DE/code-for-munster/events/cqhlktygckbnc/
+* Mittwoch, 31.07.2024, 18:00-21:00, Norderstraße 49, Flensburg: **OKLab Flensburg**
+  * https://wechange.de/group/ok-lab-flensburg/event/ok-lab-14/
 * Mittwoch, 31. Juli, 18:30-21:30, WikiBär, Köpenicker Straße 45, Berlin: **Wikipedia-Einführungskurs**
   * https://www.wikimedia.de/veranstaltungen/wikipedia-einfuehrungskurse/
 * Mittwoch, 31.07.2024, 19:00-22:00, Petersteinweg 14, Leipzig: **OKLab Leipzig**
