@@ -11,69 +11,39 @@ og_image: out-in-the-open-2024-06-header.jpg
 type: blog
 ---
 
-## Open Data - Einführung
-* Open Data Presentations Esther Plomp
-  https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Plomp%2C%20Esther%22&l=list&p=1&s=10&sort=newest
-  * AREN - Open Data: Principles and Tools
-    https://zenodo.org/records/10994248
-  * AREN - Open Data: Benefits and Challenges
-    https://zenodo.org/records/10994160
-  * AREN - Reusing Open Data
-    https://zenodo.org/records/11862588
-  * AREN - Sharing Open Data
-    https://zenodo.org/records/11862672
-* Auf der Suche nach einer kurzen Einführung zu Open Government und Open Data? Dann schaut auch doch mal die Videos der Stadt Offenbach zu Open Data an
-  https://www.youtube.com/watch?v=lT13nNd_oG0
-  https://www.youtube.com/watch?v=qBAahUqzT-4
-  via https://social.bund.de/@opendatabund/112597642052823045
-* Meine „R Lernen“-Reise - Wie der 12-wöchige Kurs meinen Blick auf Daten verändert hat
-  https://www.correlaid.org/blog/r-lernen-reise-2024-05/
-
-## Citizen Science
-* Open Science Meets Citizen Science – A Guide
-  https://libereurope.eu/article/open-science-meets-citizen-science-a-guide/
-  https://cs4rl.github.io/open-science/
-* Kastaniendetektive
-  https://floraincognita.de/kastaniendetektive/
-  via https://nrw.social/users/maexchen1/statuses/112684212277376019
-* Mithelfen bei Bullinger Digital
-  https://mithelfen.bullinger-digital.ch
-  via https://techhub.social/@phillipstroebel/112688900828836204
-
-
 ## Open Data in Schleswig Holstein
+Chantal aus dem [OK Lab Flensburg](https://codefor.de/flensburg/) war zu Gast im Podcast ["Nachts im Labor"](https://www.civu-flensburg.de/nachts-im-labor-der-podcast/) und [sprach dort](https://open.spotify.com/episode/5WPd8EbafNJLvsFnT385HD) über Open Data allgemein aber auch konkret über die aktuellen Projekte des Lab.
 
-* 
-  https://open.spotify.com/episode/5WPd8EbafNJLvsFnT385HD
-* In Schleswig-Holstein wird es hoffentlich demnächst mehr Open Data von kommunalen Stellen durch die Richtlinie für die Gewährung von Zuwendungen zum Zweck der Förderung der Anbindung von Fachverfahren an das Open-Data-Portal Schleswig-Holstein geben. Und das regelmäßig und in hoher Qualität. Es werden nämlich Schnittstellen zum Datenexport aus Fachanwendungen gefördert.
-Demnächst gibt es auch einen Onlinedienst zur Beantragung. Also gerne schon Ideen sammeln, aber noch keine Anträge per E-Mail oder Post schicken
-  https://transparenz.schleswig-holstein.de/dataset/richtlinie-fur-die-gewahrung-von-zuwendungen-zum-zweck-der-forderung-der
-  via https://norden.social/@MisterOpenData/112596837341038169
+Worüber sich die Mitglieder des Lab sicher auch freuen werden: durch die [Richtlinie für die Gewährung von Zuwendungen zum Zweck der Förderung der Anbindung von Fachverfahren an das Open-Data-Portal Schleswig-Holstein](https://transparenz.schleswig-holstein.de/dataset/richtlinie-fur-die-gewahrung-von-zuwendungen-zum-zweck-der-forderung-der), die Schnittstellen zum Datenexport aus Fachanwendungen fördert, könnte es in Schleswig-Holstein bald mehr hochwertige Open Data von kommunalen Stellen geben, die dann zudem regelmäßig aktualisiert wird, so jedenfalls erhofft sich das [Mister Open Data](https://norden.social/@MisterOpenData/112596837341038169). 
 
 ## Open Data in Bayern
-* Open Data Day München 2024 Interviews
-  https://egovernment-podcast.com/egov186-oddmuc24/
+Bereits am 4. Mai fand der Open Data Day in München statt. Die Mitschnitte der Interviews, die Torsten Frenzel vom [eGovernment Podcast](https://egovernment-podcast.com/) mit Beteiligten vor Ort führte kann man sich nun in [Folge 186](https://egovernment-podcast.com/egov186-oddmuc24/) anhhören. Es wird unter anderem darüber reflektiert, dass die einst als Hackathon durchgeführte Veranstaltungen sich über die Jahre inzwischen zu einer Konferenz weiterentwickelt habe. 
+
+Das großes Interesse an Austausch besteht, haben die [Roadshows](https://www.akdb.de/newsroom/newsletter/nehmen-sie-teil-an-der-baykommun-roadshow-2024/)
+der [BayKommun](https://www.baykommun.bayern), die das Kompetenzzentrum für die Nachnutzung von "Einer-für-alle-(EfA)"-Leistungen in bayerischen Kommunen, organisiert hatte, gezeigt. Diese sind zwar für dieses Jahr leider schon vorbei, für den [Open Data Roundtable](https://form.typeform.com/to/e8emtcUr?typeform-source=oc.bydata.de) des [open bydata competence center (oc.bydata)](https://www.fdm-bayern.org/bayern/oc-bydata/) kann man sich weiterhin, auch Zivilgesellschaft, anmelden.
+
+Nachnutzung im Sinn hatte auch [byte, die bayerische Agentur für Digitales](https://www.byte.bayern), als sie den Quellcode [Datenportals open.bydata.de](https://open.bydata.de/home?locale=de)
+[Open Source gestellt hat](https://gitlab.opencode.de/byte-bayerische-agentur-f-r-digitales-gmbh/open-bydata-competence-center), wie das [Kompetenzzentrum Open Data](https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/OpenData/opendata_node.html) auf [Mastodon vermutet](https://social.bund.de/@opendatabund/112592130932535987).
 
 ## Open Data andernorts
-* die Feuerwehr in Berlin veröffentlicht auch Open Data über deren Einsätze
-  https://github.com/Berliner-Feuerwehr/BF-Open-Data
-  https://www.berliner-feuerwehr.de/service/open-data/
-  via https://chaos.social/@jk/112593609708885897
-* Auswertungen der Open Data zum österreichischen Bundesbudget mit der Statistik-Software R zu Anschauungszwecken
-  https://www.data.gv.at/katalog/dataset/3d76af33-8ee6-41b2-9003-7d4a051ff36f?new
-* Welche Open Data Themen sind für Deutschland, Österreich, Schweiz und Lichtenstein momentan relevant? Welche Themen wurden beim OGD DACHLI angesprochen?
-  https://www.data.gv.at/wp-content/uploads/2024/06/Nachlese-OGD-DACHLI-Bozen-2024.pdf
-  via https://social.bund.de/@opendatabund/112688239961506484
+Die Feuerwehr in Berlin veröffentlicht auch [Open Data über deren Einsätze auf Github](https://github.com/Berliner-Feuerwehr/BF-Open-Data), beispielhafte Visualisierungen [kann man auf ihrer Seite selbst finden](https://www.berliner-feuerwehr.de/service/open-data/).
+
+Zu Anschauungszwecken hat Matthias Schnetzer hat eine [Auswertungen der Open Data zum österreichischen Bundesbudget](https://mschnetzer.github.io/open_data_budget/) erstellt. [Dem Eintrag aus dem Datenkatalog](https://www.data.gv.at/katalog/dataset/3d76af33-8ee6-41b2-9003-7d4a051ff36f?new) kann man auch den [Link zum Quellcode](https://github.com/mschnetzer/open_data_budget) entnehmen.
+
+Der [Nachlese zum Arbeitstreffen](https://www.data.gv.at/wp-content/uploads/2024/06/Nachlese-OGD-DACHLI-Bozen-2024.pdf) der der [Open Government Data (OGD) D-A-CH-LI Kooperation](https://www.data.gv.at/infos/ogd-d-a-ch-li/) am 21. und 22.5. in Bozen kann entnommen werden, welche Open Data Themen für Deutschland, Österreich, Schweiz und Lichtenstein gerade relevant sind.
+
+## Open Data Schulungsmaterialien
+Für eine anschauliche Einführung in die jeweiligen Konzepte hat die Stadt Offenbach Videos sowohl für [Open Data](https://www.youtube.com/watch?v=lT13nNd_oG0) als auch [Open Government](https://www.youtube.com/watch?v=qBAahUqzT-4) zur Verfügung gestellt.
+
+In [ihren Präsentationen](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Plomp%2C%20Esther%22&l=list&p=1&s=10&sort=newest) geht [Esther Plomp](https://estherplomp.github.io) zunächst auf die [Prinzipien und Werkzeuge](https://zenodo.org/records/10994248) rund um Open Data ein, nennt neben [Vorteilen auch die Herausforderungen](https://zenodo.org/records/10994160), und zeigt auf, was bei [Nachnutzung](https://zenodo.org/records/11862588) und [Teilen](https://zenodo.org/records/11862672) von Open Data zu beachten ist.
+
+Helen Klee, Werkstudentin bei [CorrelAid](https://www.correlaid.org/), [teilt ihren persönlichen Erfahrungsbericht](https://www.correlaid.org/blog/r-lernen-reise-2024-05/) aus ihre Teilnahme am 12-wöchigen Kurs "R Lernen - Der Datenkurs von und für die Zivilgesellschaft“.
 
 ## Zensus 2022
-* Zensus 2022: Start der Veröffentlichung der Ergebnisse: Pressekonferenz vom Dienstag, 25. Juni 2024
-  https://www.zensus2022.de/DE/Veranstaltungen/Pressegespraech/Einladung_Pressekonferenz_Ergebnisveroeffentlichung_25_06_2024.html
-  https://www.zensus2022.de/DE/Home/_inhalt.html
-  * Zenus 2022 Podcast
-    https://www.zensus2022.de/DE/Mediathek/Podcast/_inhalt.html
-* Beispiel-Code zum Verarbeiten der Excel/CSV-Daten
-  https://github.com/wahlatlas/zensus2022
-  via https://norden.social/@wahlatlas/112647911805818687
+Viel Futter für das nächste Datenanalyse- und -visualisierungsprojekt liefern auch die Daten vom [Zensus 2022](https://www.zensus2022.de/DE/Home/_inhalt.html), die am 25. Juni der Öffentlichkeit [vorgestellt wurden](https://www.zensus2022.de/DE/Veranstaltungen/Pressegespraech/Einladung_Pressekonferenz_Ergebnisveroeffentlichung_25_06_2024.html). Begleitend zur Veröffentlichung werden in [mehreren Podcastfolgen](https://www.zensus2022.de/DE/Mediathek/Podcast/_inhalt.html) verschiedene Aspekte des Zenus besprochen.
+
+* Zensus 2022: Datenjournalist Claus Hesseling zu den Ergebnissen
+  https://www.tagesschau.de/multimedia/video/video-1352348.html
 * die Daten für Schleswig-Holstein
   https://opendata.schleswig-holstein.de/dataset/?tags=Zensus+2022
 * So wohnt Bayern: Was uns der Zensus sagt
@@ -81,16 +51,17 @@ Demnächst gibt es auch einen Onlinedienst zur Beantragung. Also gerne schon Ide
 * Der Zensus zeigt: In Mecklenburg-Vorpommern (und allgemein im Osten) ist die Zahl der jungen Erwachsenen seit 2011 eingebrochen.
   https://www.ndr.de/nachrichten/ndrdata/Zensus-2022-Wo-in-Norddeutschland-leben-junge-Menschen,zensus312.html
   via https://chaos.social/@lalonsander/112677124435189943
-* 75% der Heizungen in Deutschland wurden 2022 noch mit Gas oder Öl betrieben. Weniger als 3% der Wohnungen wurden mit Wärmepumpen beheiz
-  https://taz.de/Heizungen-in-Deutschland/!6019247/
-  via https://chaos.social/@lalonsander/112677893942937716
 * Abweichungen bei Bevölkerungszahlen der größten Städte
   https://www.l-iz.de/politik/kassensturz/2024/06/nach-zensus-2022-leipzig-zaehlt-jetzt-offiziell-nur-noch-607-000-einwohner-595333
 * Im Zensus-Atlas sind beim 1km- und 100m-Gitter Zensusergebnisse nur für die besiedelten Gebiete dargestellt.
   https://atlas.zensus2022.de/?BL=DE&code=Z12&Jhr=2022&scl=4514&E=4321616&N=3383302
   via https://norden.social/@wahlatlas/112681517354676372
-* Zensus 2022: Datenjournalist Claus Hesseling zu den Ergebnissen
-  https://www.tagesschau.de/multimedia/video/video-1352348.html
+* 75% der Heizungen in Deutschland wurden 2022 noch mit Gas oder Öl betrieben. Weniger als 3% der Wohnungen wurden mit Wärmepumpen beheizt
+  https://taz.de/Heizungen-in-Deutschland/!6019247/
+  via https://chaos.social/@lalonsander/112677893942937716
+* Beispiel-Code zum Verarbeiten der Excel/CSV-Daten
+  https://github.com/wahlatlas/zensus2022
+  via https://norden.social/@wahlatlas/112647911805818687
 
 ## Statistik
 * Weltflüchtlingsbericht des UNHCR: Fast 120 Millionen auf der Flucht
@@ -130,6 +101,78 @@ Demnächst gibt es auch einen Onlinedienst zur Beantragung. Also gerne schon Ide
 * Der zweite Blick auf die Europawahl: Die zweitstärksten Parteien
   https://www.br.de/nachrichten/deutschland-welt/der-zweite-blick-auf-die-europawahl-die-zweitstaerksten-parteien,UFSgd53
 
+## Citizen Science
+* Open Science Meets Citizen Science – A Guide
+  https://libereurope.eu/article/open-science-meets-citizen-science-a-guide/
+  https://cs4rl.github.io/open-science/
+* Kastaniendetektive
+  https://floraincognita.de/kastaniendetektive/
+  via https://nrw.social/users/maexchen1/statuses/112684212277376019
+* Mithelfen bei Bullinger Digital
+  https://mithelfen.bullinger-digital.ch
+  via https://techhub.social/@phillipstroebel/112688900828836204
+* This map shows the number of butterflies during 15 min counts between 20 May and 10 June 2024 (www.butterfly-monitoring.net). In N Europe the number of butterflies is very low. Spring butterflies have gone, summer butterflies are not there yet. In C and S Europe this is much less the case.
+  https://butterfly-monitoring.net
+  via https://ecoevo.social/@chrisvanswaay/112625302664911954
+
+## Umwelt und Klima
+* Schwamm Drauf! Eine schöne Stadtklima-Analyse auf Basis von Open Data: 
+  Pascal Löffler und Florian Aschinger nutzen im Rahmen ihrer Masterarbeit offene Daten als Grundlage für die Entwicklung einer Vision, um den Temperaturveränderungen in der Stadt Bamberg zu begegnen. Ein tolles Projekt aus Zivilgesellschaft und Lehre!
+  https://oc.bydata.de/using/usecases/schwammdrauf
+  via https://mastodon.social/@ocbydata/112642383190150436
+* Neue Multimedia-Ausstellung basierend auf Open Data der Stadt Wien: "Blickwinkel 2040" -  Klimaschutz und Klimaanpassungsmaßnahmen in  Wien
+  https://www.data.gv.at/katalog/dataset/a6aed657-82f9-478a-ba2f-470dcb442eca
+  via https://mastodon.social/@datagvat/112598250175015790
+* Am 17. Juni 2024 legte das Umweltministerium (BMUV) den ersten Entwurf dieser “Nationalen Kreislaufwirtschaftsstrategie” (NKWS) vor
+  * Müllverwertung im Vordergrund, sollte aber Steigerung der Reparaturquote, der Schaffung einer reparaturfreundlichen Infrastruktur und der Erhöhung der Informationstransparenz sowie Erhöhung der Informationstransparenz auf der Produktebene
+  * Konzept Open-Source-Hardware als transparentes Produktdesign
+  https://okfn.de/blog/2024/06/zum-entwurf-der-nkws-ambitioniert-bleiben/
+* Deutsche Wirtschaft: Gute Umsätze mit dem Umweltschutz
+  https://www.tagesschau.de/wirtschaft/wirtschaft-umsatz-umweltschutz-100.html
+
+## Luftqualität
+* By the official air quality monitoring center.
+The first map will display the whole Île-de-France area and PM10 data, but you can zoom in on Paris and select NO2 or any other indicator.
+  https://www.airparif.fr/surveiller-la-pollution/bilans-et-cartes-annuels-de-pollution
+  via https://piaille.fr/@GTechene/112580192230476815
+* Treibhausgase in der Atmosphäre: Co2-Wert steigt wie nie zuvor
+  https://taz.de/Treibhausgase-in-der-Atmosphaere/!6013137/
+* BreezoMeter
+  https://www.breezometer.com/air-quality-map/de/air-quality/germany/berlin
+
+## Extremwetter
+* Lokale Sturzflut-Gefahr vorhersagen
+  Forschende der Universität Freiburg entwickeln Index, um die Gefahr von Sturzfluten einzuordnen, der lokale Gegebenheiten berücksichtigt
+  https://kommunikation.uni-freiburg.de/pm/expertendienst/lokale-sturzflut-gefahr-vorhersagen
+* Die Pegelstände in Deutschland stehen jetzt unter DL-Zero.
+  https://www.pressebox.de/pressemitteilung/itzbund-dienstsitz-bonn/Datenlizenz-Deutschland-Zero-2-0-fuer-Pegeldaten-des-Bundes/boxid/1205339
+  via https://gruene.social/@mathias/112632051425007133
+
+## Energie
+* Wattbewerb: Städte und Gemeinden in Berlin ausgezeichnet
+  https://wattbewerb.de/staedte-und-gemeinden-in-berlin-ausgezeichnet/
+* Energiedaten von Wohngebäuden in Deutschland
+  https://www.wohngebaeude.info
+* Solaratlas zeigt, welche Gebäudedächer sich gut für Photovoltaik eignen
+  https://www.heise.de/news/Solaratlas-zeigt-welche-Gebaeudedaecher-sich-gut-fuer-Photovoltaik-eignen-9749375.html
+* Der #Speicherausbau geht durch die Decke, Preise fallen in den Keller.
+  Entgegen anderslautender Behauptungen: Die #Erneuerbaren gewährleisten nicht nur an windigen Sommertagen unsere Versorgung: "Solarstrom gibt es bald auch nachts, Windstrom bei Windstille."
+  https://www.spiegel.de/wissenschaft/mensch/energiewende-warum-es-jetzt-auch-nachts-solarstrom-gibt-a-5462f892-2ee4-4937-93bc-0b8ec078570c
+  via https://mastodon.green/@buergerwerke/112632359206803437
+  * Europa's Speichermarkt verdoppelt sich zum 3. Mal in Folge:
+Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 GWh neu installiert worden. Dies ist ein Anstieg um 94% gegenüber 2022. Deutschland führt Europa's Speichermarkt an.
+   https://www.pv-magazine.de/2024/06/12/solarpower-europe-europas-speichermarkt-verdoppelt-sich-im-dritten-jahr-in-folge/
+   via https://social.anoxinon.de/@solarpapst/112636175798801595
+
+## Mobilität
+* Es gibt neue Zahlen der Bundesnetzagentur zum Stand der Ladeinfrastruktur für E-Autos in Deutschland.
+  Am 1. Januar 2024 waren insgesamt 123.449 öffentliche Ladepunkte gemeldet – ein Zuwachs von rund 40% innerhalb eines Jahres.
+  Im Januar 2022 waren hierzulande 62.558 öffentliche Ladepunkte registriert. Innerhalb von zwei Jahren hat sich die Zahl insgesamt praktisch verdoppelt.
+  https://www.heise.de/news/Elektroautos-laden-Zahl-der-Ladesaeulen-waechst-weiter-kraeftig-9757252.html
+  via https://social.cologne/@Fluse/112620123613930505
+* Hält das Deutschlandticket, was es verspricht?
+  https://idw-online.de/de/news835614
+
 ## Geodaten
 * Gitterzellendatenbank
   https://heigit.org/erreichbarkeit-einfach-mit-openrouteservice-ors-ermitteln-das-eu-projekt-gitterzellendatenbank/
@@ -163,68 +206,6 @@ Demnächst gibt es auch einen Onlinedienst zur Beantragung. Also gerne schon Ide
 * Juni-Newsletter MapLibre
   https://mastodon.social/users/maplibre/statuses/112707322325512027
 
-## Umwelt
-* Deutsche Wirtschaft: Gute Umsätze mit dem Umweltschutz
-  https://www.tagesschau.de/wirtschaft/wirtschaft-umsatz-umweltschutz-100.html
-
-
-## Luftqualität
-* By the official air quality monitoring center.
-The first map will display the whole Île-de-France area and PM10 data, but you can zoom in on Paris and select NO2 or any other indicator.
-  https://www.airparif.fr/surveiller-la-pollution/bilans-et-cartes-annuels-de-pollution
-  via https://piaille.fr/@GTechene/112580192230476815
-* Treibhausgase in der Atmosphäre: Co2-Wert steigt wie nie zuvor
-  https://taz.de/Treibhausgase-in-der-Atmosphaere/!6013137/
-* Neue Multimedia-Ausstellung basierend auf Open Data der Stadt Wien: "Blickwinkel 2040" -  Klimaschutz und Klimaanpassungsmaßnahmen in  Wien
-  https://www.data.gv.at/katalog/dataset/a6aed657-82f9-478a-ba2f-470dcb442eca
-  via https://mastodon.social/@datagvat/112598250175015790
-* Lokale Sturzflut-Gefahr vorhersagen
-  Forschende der Universität Freiburg entwickeln Index, um die Gefahr von Sturzfluten einzuordnen, der lokale Gegebenheiten berücksichtigt
-  https://kommunikation.uni-freiburg.de/pm/expertendienst/lokale-sturzflut-gefahr-vorhersagen
-* Die Pegelstände in Deutschland stehen jetzt unter DL-Zero.
-  https://www.pressebox.de/pressemitteilung/itzbund-dienstsitz-bonn/Datenlizenz-Deutschland-Zero-2-0-fuer-Pegeldaten-des-Bundes/boxid/1205339
-  via https://gruene.social/@mathias/112632051425007133
-* Schwamm Drauf! Eine schöne Stadtklima-Analyse auf Basis von Open Data: 
-  Pascal Löffler und Florian Aschinger nutzen im Rahmen ihrer Masterarbeit offene Daten als Grundlage für die Entwicklung einer Vision, um den Temperaturveränderungen in der Stadt Bamberg zu begegnen. Ein tolles Projekt aus Zivilgesellschaft und Lehre!
-  https://oc.bydata.de/using/usecases/schwammdrauf
-  via https://mastodon.social/@ocbydata/112642383190150436
-* BreezoMeter
-  https://www.breezometer.com/air-quality-map/de/air-quality/germany/berlin
-* This map shows the number of butterflies during 15 min counts between 20 May and 10 June 2024 (www.butterfly-monitoring.net). In N Europe the number of butterflies is very low. Spring butterflies have gone, summer butterflies are not there yet. In C and S Europe this is much less the case.
-  https://butterfly-monitoring.net
-  via https://ecoevo.social/@chrisvanswaay/112625302664911954
-
-## Energie
-* Wattbewerb: Städte und Gemeinden in Berlin ausgezeichnet
-  https://wattbewerb.de/staedte-und-gemeinden-in-berlin-ausgezeichnet/
-* Energiedaten von Wohngebäuden in Deutschland
-  https://www.wohngebaeude.info
-* Solaratlas zeigt, welche Gebäudedächer sich gut für Photovoltaik eignen
-  https://www.heise.de/news/Solaratlas-zeigt-welche-Gebaeudedaecher-sich-gut-fuer-Photovoltaik-eignen-9749375.html
-* Der #Speicherausbau geht durch die Decke, Preise fallen in den Keller.
-  Entgegen anderslautender Behauptungen: Die #Erneuerbaren gewährleisten nicht nur an windigen Sommertagen unsere Versorgung: "Solarstrom gibt es bald auch nachts, Windstrom bei Windstille."
-  https://www.spiegel.de/wissenschaft/mensch/energiewende-warum-es-jetzt-auch-nachts-solarstrom-gibt-a-5462f892-2ee4-4937-93bc-0b8ec078570c
-  via https://mastodon.green/@buergerwerke/112632359206803437
-  * Europa's Speichermarkt verdoppelt sich zum 3. Mal in Folge:
-Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 GWh neu installiert worden. Dies ist ein Anstieg um 94% gegenüber 2022. Deutschland führt Europa's Speichermarkt an.
-   https://www.pv-magazine.de/2024/06/12/solarpower-europe-europas-speichermarkt-verdoppelt-sich-im-dritten-jahr-in-folge/
-   via https://social.anoxinon.de/@solarpapst/112636175798801595
-
-## Mobilität
-* Es gibt neue Zahlen der Bundesnetzagentur zum Stand der Ladeinfrastruktur für E-Autos in Deutschland.
-  Am 1. Januar 2024 waren insgesamt 123.449 öffentliche Ladepunkte gemeldet – ein Zuwachs von rund 40% innerhalb eines Jahres.
-  Im Januar 2022 waren hierzulande 62.558 öffentliche Ladepunkte registriert. Innerhalb von zwei Jahren hat sich die Zahl insgesamt praktisch verdoppelt.
-  https://www.heise.de/news/Elektroautos-laden-Zahl-der-Ladesaeulen-waechst-weiter-kraeftig-9757252.html
-  via https://social.cologne/@Fluse/112620123613930505
-* Hält das Deutschlandticket, was es verspricht?
-  https://idw-online.de/de/news835614
-
-## Open Hardware
-* Am 17. Juni 2024 legte das Umweltministerium (BMUV) den ersten Entwurf dieser “Nationalen Kreislaufwirtschaftsstrategie” (NKWS) vor
-  * Müllverwertung im Vordergrund, sollte aber Steigerung der Reparaturquote, der Schaffung einer reparaturfreundlichen Infrastruktur und der Erhöhung der Informationstransparenz sowie Erhöhung der Informationstransparenz auf der Produktebene
-  * Konzept Open-Source-Hardware als transparentes Produktdesign
-  https://okfn.de/blog/2024/06/zum-entwurf-der-nkws-ambitioniert-bleiben/
-
 ## Linked Open Data
 * Die GND Ontologie und weitere RDF-Vokabulare der Deutschen Nationalbibliothek sind nun auf Github
   https://github.com/deutsche-nationalbibliothek/gnd-ontology
@@ -250,9 +231,6 @@ Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 
 * Announcing DuckDB 1.0.0
   https://duckdb.org/2024/06/03/announcing-duckdb-100
   via https://mastodon.social/users/duckdb/statuses/112552894934491567
-* byte-bayern haben den Quellcode ihres Datenportals open.bydata.de veröffentlicht und für alle nachnutzbar gemacht!
-  https://gitlab.opencode.de/byte-bayerische-agentur-f-r-digitales-gmbh/open-bydata-competence-center
-  via https://social.bund.de/@opendatabund/112592130932535987
 * Pixelbot 3000: Niederländischer Bastler baut "3D-Drucker" aus Lego
   https://www.heise.de/news/Pixelbot-3000-Niederlaendischer-Bastler-baut-3D-Drucker-aus-Lego-9772483.html
 * Was wurde aus… \\NoIze//?
