@@ -103,20 +103,13 @@ Forschende der Universität Freiburg [haben einen Index entwickelt](https://komm
 Passend dazu werden die Daten über die Pegelstände in Deutschland [endlich gemeinfrei](https://www.pressebox.de/pressemitteilung/itzbund-dienstsitz-bonn/Datenlizenz-Deutschland-Zero-2-0-fuer-Pegeldaten-des-Bundes/boxid/1205339) (stehen nun konkret unter Deutschland-Lizenz-Zero), können also unbedenklich für nicht-kommerzielle als auch komerzielle Zwecke unbedenklich nachgenutzt werden.
 
 ## Energie
-* Wattbewerb: Städte und Gemeinden in Berlin ausgezeichnet
-  https://wattbewerb.de/staedte-und-gemeinden-in-berlin-ausgezeichnet/
-* Energiedaten von Wohngebäuden in Deutschland
-  https://www.wohngebaeude.info
-* Solaratlas zeigt, welche Gebäudedächer sich gut für Photovoltaik eignen
-  https://www.heise.de/news/Solaratlas-zeigt-welche-Gebaeudedaecher-sich-gut-fuer-Photovoltaik-eignen-9749375.html
-* Der #Speicherausbau geht durch die Decke, Preise fallen in den Keller.
-  Entgegen anderslautender Behauptungen: Die #Erneuerbaren gewährleisten nicht nur an windigen Sommertagen unsere Versorgung: "Solarstrom gibt es bald auch nachts, Windstrom bei Windstille."
-  https://www.spiegel.de/wissenschaft/mensch/energiewende-warum-es-jetzt-auch-nachts-solarstrom-gibt-a-5462f892-2ee4-4937-93bc-0b8ec078570c
-  via https://mastodon.green/@buergerwerke/112632359206803437
-  * Europa's Speichermarkt verdoppelt sich zum 3. Mal in Folge:
-Im vergangenen Jahr sind #Batteriespeichersysteme mit einer Kapazität von 17,2 GWh neu installiert worden. Dies ist ein Anstieg um 94% gegenüber 2022. Deutschland führt Europa's Speichermarkt an.
-   https://www.pv-magazine.de/2024/06/12/solarpower-europe-europas-speichermarkt-verdoppelt-sich-im-dritten-jahr-in-folge/
-   via https://social.anoxinon.de/@solarpapst/112636175798801595
+[Wattbewerb](https://wattbewerb.de) ist ein Wettbewerb für Städte und Gemeinden, bei dem es um den beschleunigten Ausbau von Photovoltaik geht. Die Herausforderung dabei ist, möglichst viele Dachbesitzer:innen in der Stadt zu überzeugen, ihre Dächer mit PV-Anlagen auszustatten. Die erste Wattbewerb [startete Februar 2021](https://de.wikipedia.org/wiki/Wattbewerb). Die Gewinner der diesjährigen Runde wurden [Anfang Juni in Berlin ausgezeichnet](https://wattbewerb.de/staedte-und-gemeinden-in-berlin-ausgezeichnet/). Den größten Zubau pro Kopf in einer Großstadt und damit den ersten Platz erreichte Paderborn mit umgerechnet 29 Fußballfeldern PV-Zubau. Gütersloh auf Platz 2 schaffte im gleichen Zeitraum umgerechnet einen PV-Zubau in der Größe von 17 Fußballfeldern. Wie man dem [Ranking für Großstädte](https://plattform.wattbewerb.de/ranking) entnehmen kann, belegte Ulm den dritten Platz. Die weiteren Gewinner (als auch deren jeweilige Strategie) in den anderen Kategorien, kann man in der [offiziellen Pressemitteilung nachlesen](https://wattbewerb.de/wp-content/uploads/2024/06/PM_2024_06_04_Preisverleihung.pdf).
+
+Als Stadt kann man jederzeit mit in den "Wattbewerb" miteinsteigen. Um beurteilen zu können, welche Gebäudedächer sich gut für Photovoltaik eignen, als das Solardach-Potenzial, gibt es mit [EO Solar](https://eosolar.dlr.de/#/home) vom [DLR](https://www.dlr.de/de) einen neuen Solaratlas. Wie die Wissenschaftler vorgegangen sind, das Potenzial zu berechnen, kann man [in diesem heise-Artikel](https://www.heise.de/news/Solaratlas-zeigt-welche-Gebaeudedaecher-sich-gut-fuer-Photovoltaik-eignen-9749375.html) nachvollziehen. So wurden z.B. keine Gebäudemodelle sondern digitale Oberflächenmodelle des Geländes genutzt, über die automatisch auch die Verschattung berücksichtigt werden.
+
+Wie das [PV Magazine](https://www.pv-magazine.de/2024/06/12/solarpower-europe-europas-speichermarkt-verdoppelt-sich-im-dritten-jahr-in-folge/) verkündet, hat sich Europas Speichermarkt zum dritten Mal in Folge verdoppelt. Batteriespeichersysteme mit einer Kapazität von 17,2 GWh wurden neu installiert. Technologischer Fortschritt und fallende Kosten [treiben den Ausbau von Energiespeichern an](https://www.spiegel.de/wissenschaft/mensch/energiewende-warum-es-jetzt-auch-nachts-solarstrom-gibt-a-5462f892-2ee4-4937-93bc-0b8ec078570c). Damit kann Solarstrom bald auch nachts, und Windstrom bei Windstille konsumiert werden. Die durchgehende Stormversorgung nur mit erneuerbaren Energien rückt damit immer näher. Wo Batterie-Großspeicher auch in Deutschland entstehen, wird im Spiegel-Artikel ebenfalls erwähnt. 
+
+Über das Portal [wohngebaeude.info](https://www.wohngebaeude.info) bekommt man Zugang zu Energiedaten von Wohngebäuden in Deutschland. Die Daten über Heizen und Strom sind dabei auch nach Gebäudetyp, Energieträger, Sanierungsstand und Baualter aufgeschlüsselt.
 
 ## Mobilität
 * Es gibt neue Zahlen der Bundesnetzagentur zum Stand der Ladeinfrastruktur für E-Autos in Deutschland.
