@@ -48,43 +48,25 @@ Der Zenus wird aller 10 Jahre erhoben und seine Durchführung hat diesmal mindes
 
 Im [Zensus Atlas](https://atlas.zensus2022.de/) sehr kleinteilig auf einer Karte erkunden. [Michael Neutze weist aber darauf hin](https://norden.social/@wahlatlas/112681517354676372), dass hier beim 1km- und 100m-Gitter Zensusergebnisse nur für die besiedelten Gebiete dargestellt sind. Er selbst stellt auch [Beispiel-Code](https://github.com/wahlatlas/zensus2022) zum Verarbeiten der Excel/CSV-Daten [zur freien Verfügung](https://norden.social/@wahlatlas/112647911805818687).
 
-## Statistik
-* Weltflüchtlingsbericht des UNHCR: Fast 120 Millionen auf der Flucht
-  https://taz.de/Weltfluechtlingsbericht-des-UNHCR/!6017047/
-* Population grid #map of Europe by sex, age, employment and more now available
-  https://ec.europa.eu/assets/estat/E/E4/gisco/website/census_2021_grid_map/index.html
-  via https://mapstodon.space/@julgaf/112683267851787936
-  raw data census grid 2021: https://ec.europa.eu/eurostat/web/gisco/geodata/population-distribution/geostat
+## Mehr Bevölkerungsdaten
+Die Daten des Eurostat Census 2021 lassen sich in Form einer [Raster-Karte](https://ec.europa.eu/assets/estat/E/E4/gisco/website/census_2021_grid_map/index.html) hinsichtlich Beschäftigungsquote, Umzugsquote, Herkunft, Alter und Geschlecht visualisieren. Die Daten werden zudem auch roh in [verschiedenen Geo-Formaten zum Download angeboten](https://ec.europa.eu/eurostat/web/gisco/geodata/population-distribution/geostat), ergänzende Informationen als CSV.
 
+Aus dem Weltflüchtlingsbericht des UNHCR geht hervor, [dass fast 120 Millionen Menschen auf der Flucht sind](https://taz.de/Weltfluechtlingsbericht-des-UNHCR/!6017047/), etwa doppelt so viele wie vor neun Jahren. Treiber sind Krieg und Gewalt gegen die Zivilbevölkerung, aber auch zunehmende Wetterextreme und Verteilungskämpfe.
+  
 ## Hochwertige Daten der EU
-* Wir gehen einen Schritt weiter und bilden die neuen Angebote peu à peu in GovData ab.
-  Zum Beispiel bietet die @GDI_DE 121 #HVD-Datensätze
-  https://www.govdata.de/web/guest/suchen/-/searchresult/f/hvd%3Ahas_hvd%2Ctype%3Adataset%2Csourceportal%3A8253c8aa-d80e-4bbb-9d29-b543507f9776%2C/s/relevance_desc
-* Der aktuelle Stand bei hochwertigen Datensätzen aus Deutschland. Bisher werden nur vier Kategorien geliefert. Statistik kommt nur von der Bundesagentur für Arbeit.
-  https://www.govdata.de/web/guest/sparql-assistent#query=PREFIX%20dcatap%3A%20%3Chttp%3A%2F%2Fdata.europa.eu%2Fr5r%2F%3E%0APREFIX%20dcatde%3A%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fdcatde%2F%3E%0APREFIX%20dcat%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fdcat%23%3E%0ASELECT%20%3Fcategory%20(%20count(%3Fdataset%20)%20as%20%3Fn%20)%20WHERE%20%7B%0A%20%20%3Fdataset%20a%20dcat%3ADataset%20.%0A%20%20%3Fdataset%20dcatde%3AcontributorID%20%3Fcont%20%20.%0A%20%20filter%20(%20%3Fcont%20!%3D%20%3Chttp%3A%2F%2Fdcat-ap.de%2Fdef%2Fcontributors%2FopenDataHRO%3E%20)%20%20.%0A%20%20%3Fdataset%20dcatap%3AhvdCategory%20%3Fcategory%20.%0A%7D%20group%20by%20%3Fcategory&amp;endpoint=https%3A%2F%2Fwww.govdata.de%2Fsparql&amp;requestMethod=GET&amp;tabTitle=Query&amp;headers=%7B%7D&amp;contentTypeConstruct=text%2Fturtle%2C*%2F*%3Bq%3D0.9&amp;contentTypeSelect=application%2Fsparql-results%2Bjson%2C*%2F*%3Bq%3D0.9&amp;outputFormat=table
-  via https://norden.social/@MisterOpenData/112597485363632433
-* data.europa.eu/data/ now provides a filter function for high value data sets. As of today 740 HVDs are listed. #opendata #hvd
-  https://data.europa.eu/data/
-  via https://mastodon.online/@kejan/112615233998440356
-* New EU rules make high-value datasets available to fuel artificial intelligence and data-driven innovation
-  https://digital-strategy.ec.europa.eu/en/news/new-eu-rules-make-high-value-datasets-available-fuel-artificial-intelligence-and-data-driven
+Am 9. Juni war es endlich soweit: die neuen EU-Regeln, die ihre Mitgliedsländer verpflichten, hochwertige Datensätze (high-value datasets (HVD)) aus sechs Themenbereichen als Open Data bereitzustellen, [sind in Kraft getreten](https://digital-strategy.ec.europa.eu/en/news/new-eu-rules-make-high-value-datasets-available-fuel-artificial-intelligence-and-data-driven). 
+
+Auf dem [Open Data Portal der EU](https://data.europa.eu/data/) kann man nach solchen Datensätze [nun auch gezielt filtern](https://mastodon.online/@kejan/112615233998440356). 
+
+Auch [GovData](https://www.govdata.de/), das Datenportal für Deutschland, [bietet einen HVD-Filter an](https://www.govdata.de/web/guest/suchen/-/searchresult/f/hvd%3Ahas_hvd%2Ctype%3Adataset%2C/s/relevance_desc).
+
 
 ## EU-Wahlen
-* Europa-Wahl 2024 Vergleichstool
-  https://results.elections.europa.eu/de/Tools/vergleichs-tool/
-  via https://mastodon.social/@marvinoppong/112587751081920788
-* Uff... Webseiten vs. Demokratie im Jahr 2024...
-  Wäre ja zu einfach, wenn man einfach auf Ergebnisse im maschinenlesbaren Format per nachvollziehbarer URL zugreifen könnte. Statt dessen unfassbar umfangreiches JavaScript-Geschwurbel. Passt irgendwie zum vollkommen irren und wirren Wahlergebnis im Land.
-  https://wahlergebnisse.brandenburg.de/
-  via https://mastodon.green/@taschenorakel/112593970504854985
-* Kritik an der Kartographie der Tagesschau bei der Ergebnisdarstellung der Europawahl 2024
-  https://norden.social/@wahlatlas/112593973623647154
-* DataViz & Verantwortung?! - Fläche vs Bevölkerungsdichte
-  https://mastodon.social/@geoObserver/112614939546683638
-* Alle Ergebnisse nach Landkreisen und Bundesländern
-  https://interaktiv.tagesspiegel.de/lab/europawahl-2024-live-karte-deutschland-wahlergebnisse/
-* Der zweite Blick auf die Europawahl: Die zweitstärksten Parteien
-  https://www.br.de/nachrichten/deutschland-welt/der-zweite-blick-auf-die-europawahl-die-zweitstaerksten-parteien,UFSgd53
+Um die [Ergebnisse der Europa-Wahl](https://results.elections.europa.eu/de/) besser einordnen zu können, bietet das Europäische Parlament ein [Vergleichstool](https://results.elections.europa.eu/de/Tools/vergleichs-tool/) an, mit dem Länder aber auch Wahlperioden gegenüberstellen kann.
+
+Vom Tagesspiegel gibt es wie gewohnt [eine interaktive Karte](https://interaktiv.tagesspiegel.de/lab/europawahl-2024-live-karte-deutschland-wahlergebnisse/) der Ergebnisse nach Landkreisen und Bundesländern. Über die Landeswahlleiter der einzelnen Bundesländer, [wie hier Brandenburg](https://wahlergebnisse.brandenburg.de/12/100/20240609/europawahl_land/), gibt es in der Regel auch die Daten als Darstellungen als auch zum Download. 
+
+Mit Blick auf die Karte, die visuell die, in DDR-Propaganda-Sprech als "antifaschistischen Schutzwall" bezeichnete, innerdeutsche Grenze von einst wieder erkennbar werden lässt (nur dass heutige Betrachtung der Schutz wohl in die andere Richtung gehen müsste), wird auf [geoObserver](https://geoobserver.de/2024/06/14/dataviz-verantwortung-2nd/) nach der Verantwortung von räumlichen Datenvisualisierungen gefragt. Die im Blog verlinkten alternativen Darstellungen für Deutschland und Frankreich zeigen, dass nicht Fläche sondern Menschen abstimmen und Regionen mit höherer Bevölkerungsdichte in der Ergebnis-Darstellung auch entsprechend berücksichtigt werden müssen. Ein ähnliche Verzerrung ergibt sich, wenn man allein auf die Wahlsieger schaut. Beim BR hat man [eine Karte mit den zweitstärksten Parteien](https://www.br.de/nachrichten/deutschland-welt/der-zweite-blick-auf-die-europawahl-die-zweitstaerksten-parteien,UFSgd53) erstellt, die ein etwas differenziertes Bild zeigt. Aber die Information, mit viel Prozenten und mit welchen Abständen zueinander welche Partei erster oder zweiter geworden ist, geht auch hier verloren. [Eine proportionale Farbskala könnte eventuell helfen](https://mastodon.social/@gsmohor@fediscience.org/112615627653092961). Ändert natürlich alles nichts am Problem des Rechtsruck, hilft aber bei der richtigen Einordnung der Wahlergebnisse. Mit Bezug zu den oben behandelten Zensus-Daten: Stadt-Land-Gefälle, Überalterung und Bevölkerungsschwund gerade im Osten. Weil viele junge und gut ausgebildete Menschen immer noch eher Perspektiven für sich in den alten Bundesländer sehen und entsprechend wegziehen. Und die Zurückgebliebenen wählen dann, was sie jetzt gewählt haben.
 
 ## Citizen Science
 * Open Science Meets Citizen Science – A Guide
