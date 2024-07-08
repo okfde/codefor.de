@@ -112,101 +112,54 @@ Wie das [PV Magazine](https://www.pv-magazine.de/2024/06/12/solarpower-europe-eu
 Über das Portal [wohngebaeude.info](https://www.wohngebaeude.info) bekommt man Zugang zu Energiedaten von Wohngebäuden in Deutschland. Die Daten über Heizen und Strom sind dabei auch nach Gebäudetyp, Energieträger, Sanierungsstand und Baualter aufgeschlüsselt.
 
 ## Mobilität
-* Es gibt neue Zahlen der Bundesnetzagentur zum Stand der Ladeinfrastruktur für E-Autos in Deutschland.
-  Am 1. Januar 2024 waren insgesamt 123.449 öffentliche Ladepunkte gemeldet – ein Zuwachs von rund 40% innerhalb eines Jahres.
-  Im Januar 2022 waren hierzulande 62.558 öffentliche Ladepunkte registriert. Innerhalb von zwei Jahren hat sich die Zahl insgesamt praktisch verdoppelt.
-  https://www.heise.de/news/Elektroautos-laden-Zahl-der-Ladesaeulen-waechst-weiter-kraeftig-9757252.html
-  via https://social.cologne/@Fluse/112620123613930505
-* Hält das Deutschlandticket, was es verspricht?
-  https://idw-online.de/de/news835614
+[Aus den neuen Zahlen der Bundesnetzagentur zum Stand der Ladeinfrastruktur für E-Autos in Deutschland [geht hervor](https://www.heise.de/news/Elektroautos-laden-Zahl-der-Ladesaeulen-waechst-weiter-kraeftig-9757252.html), dass sich die Zahl an öffentliche Ladepunkte von 62.558 im Januar 2022 auf 123.449 am 1. Januar 2024 nahezu verdoppelt hat.
+
+Eine Mobilitätsstudie der Fraunhofer-Allianz Verkehr, durchgeführt als [repräsentative Befragung zum Mobilitätsverhalten in Deutschland](https://idw-online.de/de/news835614) offenbart, dass der Preis des Deutschlandtickets eine wichtige Rolle spielt. Zudem müsse das Angebot des ÖPNV und dessen Zuverlässigkeit besonders in ländlichen Gebieten verbessert werden, um Leute dauerhaft vom Umstieg von Auto auf öffentliche Verkehrmittel überzeugen zu können. Anders als erwartet, wird das Ticket nicht so sehr deutschlandweit, sondern vor allem lokal genutzt, auch als Hilfe, um den unübersichtlichen Tarif-Dschungel zu vermeiden. Generell erzeugt das Deutschlandticket vergleichsweise wenig Mehrverkehr. Auf Basis der vorliegenden Erkenntnisse kann das Deutschlandticket als grundsätzlicher Erfolg gewertet werden.
 
 ## Geodaten
-* Gitterzellendatenbank
-  https://heigit.org/erreichbarkeit-einfach-mit-openrouteservice-ors-ermitteln-das-eu-projekt-gitterzellendatenbank/
-  https://evrs.bkg.bund.de/DE/Forschung/Projekte/Gitterzellendatenbank/Gitterzellendatenbank_cont.html
-  via https://mapstodon.space/@heigit/112553714756878042
-* Wie schaffen es Fachcommunitys + Behörden Geodaten über Fach- und Raumgrenzen gemeinsam nutzbar zu machen? Lösungen dafür entwickelt der AK Geodaten der Koordinierungsstelle Geodateninfrastruktur Deutschland (GDI), etwa das "Interoperabilitätskonzept" oder Kriterien für OpenData.
-  https://de.linkedin.com/posts/gdi-de_ki-ki-gdide-activity-7207321895233294336-ZY3J
-  https://de.linkedin.com/posts/gdi-de_metadaten-opendata-activity-7205868656713420801-_I-v
-  https://www.gdi-de.org/GDI-DE/Arbeitskreise/Metadaten
-  https://www.linkedin.com/posts/gdi-de_geodaten-inspireabreu-gdiabrde-activity-7211690944893460480-oyrm
-  https://www.linkedin.com/company/gdi-de
-  via https://social.bund.de/@GDI_DE/112568382787862734
-* Neue offene Geodaten
-  * Baden-Württemberg eröffnet Geodatenportal:
-    https://opengeodata.lgl-bw.de/#/
-  * Rheinland-Pfalz stellt Katasterdaten bereit:
-    https://lvermgeo.rlp.de/opendata
-  * Niedersachen veröffentlicht Katasterdaten:
-    https://ni-lgln-opengeodata.hub.arcgis.com
-  via https://social.bund.de/@opendatabund/112603479647890885
-* Offene GeoBasisDaten 2024: Ein persönlicher Statusbericht.
-  https://geoobserver.de/2024/06/18/offene-geobasisdaten-2024-ein-persoenlicher-statusbericht/
+Lösungen, wie Fachcommunities und Behörden Geodaten über Fach- und Raumgrenzen gemeinsam nutzbar machen können, entwickelt der [AK Geodaten](https://www.gdi-de.org/GDI-DE/Arbeitskreise/Geodaten) der [Koordinierungsstelle](https://www.gdi-de.org/GDI-DE/Koordinierungsstelle) [Geodateninfrastruktur Deutschland (GDI)](https://www.linkedin.com/company/gdi-de), etwa das "Interoperabilitätskonzept" oder Kriterien für OpenData. Der [Arbeitskreis Metadaten](https://www.gdi-de.org/GDI-DE/Arbeitskreise/Metadaten) beschäftigt sich damit, wie Geodaten und Geodatendiensten mit Hilfe von standardisierten Metadaten inhaltliche und technisch korrekt [beschrieben werden können](https://de.linkedin.com/posts/gdi-de_metadaten-opendata-activity-7205868656713420801-_I-v). Auch für die Gestaltung und Weiterentwicklung der Geodateninfrastruktur Deutschland gibt es einen eigenen [Arbeitskreis](https://de.linkedin.com/posts/gdi-de_ki-ki-gdide-activity-7207321895233294336-ZY3J). Der [AK INSPIRE](https://www.linkedin.com/posts/gdi-de_geodaten-inspireabreu-gdiabrde-activity-7211690944893460480-oyrm) hat sich in seiner letzten Sitzung mit der Umsetztung Hochwertiger Datensätze beschäftigt.
+
+Über neue offene Geodaten können wir uns auch freuen: so hat Baden-Württemberg sein [Geodatenportal](https://opengeodata.lgl-bw.de/#/) eröffnet und [Rheinland-Pfalz](https://lvermgeo.rlp.de/opendata) als auch [Niedersachsen](https://ni-lgln-opengeodata.hub.arcgis.com) veröffentlichen [ihre Katasterdaten](https://social.bund.de/@opendatabund/112603479647890885). 
+
+Der geoObserver findet, dass die Art und Weise, wie GeoBasisDaten 2024 offen bereitstellt werden, [deutlich verbessert werden muss](https://geoobserver.de/2024/06/18/offene-geobasisdaten-2024-ein-persoenlicher-statusbericht/): generell Harmonisierung in vielen Aspekten, aber auch die Stabilität der URLs gewährleisten.
+
+Das EU-Projekt [Gitterzellendatenbank](https://evrs.bkg.bund.de/DE/Forschung/Projekte/Gitterzellendatenbank/Gitterzellendatenbank_cont.html) wird die Bestimmung der Erreichbarkeit bestimmter Einrichtungen mit dem [Openrouteservice](https://openrouteservice.org) (ORS) [deutlich erleichert](https://heigit.org/erreichbarkeit-einfach-mit-openrouteservice-ors-ermitteln-das-eu-projekt-gitterzellendatenbank/). Damit können Fragen wie etwa "Wie viele Schulen kann ich innerhalb von zehn Minuten zu Fuß oder mit dem Auto erreichen?“ beantwortet werden. Essenziell für das Erreichen gleichwertige Lebensverhältnisse in Stadt und Land.
 
 ## Karten
-* Similar to OpenParkingMap, you can explore sidewalks in your area pretty easily now with this.
-  https://www.opensidewalkmap.com/52.5170365/13.3888599/14.00
-  via https://mastodon.social/@thompsondt/112593953893909031
-* Mapbender-Version 4.0.0 veröffentlicht
-  https://mapbender.org/aktuelles/details/mapbender-version-400-veroeffentlicht/
-  https://mapbender.org/
-* Juni-Newsletter MapLibre
-  https://mastodon.social/users/maplibre/statuses/112707322325512027
+Mit der Anwendung [OpenSidewalkMap](https://www.opensidewalkmap.com/52.5170365/13.3888599/14.00) kann man nun die Gehwege-Infrastruktur seiner Nachbarschaft [erkunden](https://mastodon.social/@thompsondt/112593953893909031), ähnlich wie es die [OpenParkingMap](https://www.openparkingmap.com/52.5170365/13.3888599/14.00) für Parkplätze anbietet.
+
+Man kann sich über Neuerungen in [Mapbender](https://mapbender.org/) in der [Version 4.0.0](https://mapbender.org/aktuelles/details/mapbender-version-400-veroeffentlicht/) veröffentlicht, als auch in [Maplibre](https://maplibre.org/) in der [Versionen 4.4.0 und 4.5.0](https://maplibre.org/news/2024-06-30-maplibre-newsletter-june-2024/) freuen.
 
 ## Linked Open Data
-* Die GND Ontologie und weitere RDF-Vokabulare der Deutschen Nationalbibliothek sind nun auf Github
-  https://github.com/deutsche-nationalbibliothek/gnd-ontology
-  https://github.com/deutsche-nationalbibliothek/lds-vocabulary
-  via https://openbiblio.social/@nabatz/112693648678314525
-* Knowledge Equity in Linked Open Data: Summary of Findings
-  https://upload.wikimedia.org/wikipedia/commons/e/ef/Summary_of_findings_on_Knowledge_Equity_in_Linked_Open_Data%2C_submitted_to_Wikimedia_Deutschland.pdf
-  via https://glammr.us/@Jeannho/112571617774955791
+Die [GND Ontologie](https://github.com/deutsche-nationalbibliothek/gnd-ontology) und [weitere RDF-Vokabulare der Deutschen Nationalbibliothek](https://github.com/deutsche-nationalbibliothek/lds-vocabulary) sind nun auf Github zu finden, wie uns [Tracy](https://openbiblio.social/@nabatz/112693648678314525) wissen lässt.
+
+Die Ergebnisse der Umfrage unter Nutzern von Wikidata (WD), Wikibase Cloud (WBC) und Wikibase Suite (WBS) haben im Bericht ["Knowledge Equity in Linked Open Data: Summary of Findings"](https://upload.wikimedia.org/wikipedia/commons/e/ef/Summary_of_findings_on_Knowledge_Equity_in_Linked_Open_Data%2C_submitted_to_Wikimedia_Deutschland.pdf) ihren Niederschlag [gefunden](https://glammr.us/@Jeannho/112571617774955791). Welche Barrieren für marginalisierte Gruppen existieren, die sie vom Teilen ihres Wissens und ihrer Perspektiven abhalten.
 
 ## Open Data Tools
-* Entwurf DCAT-AP.de 3.0
-  https://gitlab.opencode.de/fitko/govdata/dcat-ap.de/-/tree/3.0?ref_type=heads
-  * veröffentlich
-    https://semiceu.github.io/DCAT-AP/releases/3.0.0/
-* Data Package version 2.0 (previously known as Frictionless Specs) is out!
-  https://blog.okfn.org/2024/06/26/data-package-version-2-0-release/
-* Wir schalten die Datenguide-API ab! Alles was ihr über das Ende der Datenguide-API wissen müsst und wie ihr in Zukunft auf die Daten der Regionalstatistik zugreifen könnt, erfahrt ihr in diesem Blogpost
-  https://datengui.de/blog/2024/bye-bye
+Das Metadatenmodell zum Austausch zwischen Datenportalen in Europa, [DCAT-AP](https://joinup.ec.europa.eu/collection/semic-support-centre/solution/dcat-application-profile-data-portals-europe),
+wurde in der [Version 3.0 veröffentlicht](https://semiceu.github.io/DCAT-AP/releases/3.0.0/). Mit [DCAT-AP.de](https://www.dcat-ap.de) gibt es auch eine Adaption für Deutschland, diese ist aber noch Version 2.0 vom Stand 2022.
+
+Auch das "Data Package" (vormals bekannt als Frictionless Specs) ist [in einer neuen Version](https://blog.okfn.org/2024/06/26/data-package-version-2-0-release/) veröffentlich worden.
+
+Nicht weiter geht es mit [Datenguide-API](https://datengui.de/).  Die API wurde am 15. Juni abgeschaltet. Im [Blog](https://datengui.de/blog/2024/bye-bye) wird empfohlen, stattdessen nun die [offiziellen Datenschnittstellen der Statistischen Ämter](https://datengui.de/statistik-erklaert/genesis) zu nutzen.
 
 ## OpenSource
-* Alternativen zu Github
-  https://cfp.gulas.ch/gpn22/talk/WGVZ9W/
-* Announcing DuckDB 1.0.0
-  https://duckdb.org/2024/06/03/announcing-duckdb-100
-  via https://mastodon.social/users/duckdb/statuses/112552894934491567
-* Pixelbot 3000: Niederländischer Bastler baut "3D-Drucker" aus Lego
-  https://www.heise.de/news/Pixelbot-3000-Niederlaendischer-Bastler-baut-3D-Drucker-aus-Lego-9772483.html
-* Was wurde aus… \\NoIze//?
-  https://prototypefund.de/was-wurde-aus-noize/
-* Funding for Future - The Effects of a Lightweight and Low-Threshold Funding Instrument for Open-Source Software - A Prototype Fund Handbook
-  https://prototypefund.de/wp-content/uploads/2024/06/Funding-for-Future-The-Effects-of-a-Lightweight-and-Low-Threshold-Funding-Instrument-for-Open-Source-Software.pdf
-* Sondersitzung des IT-Planungsrates: Keine überhasteten Verträge für die Delos-Cloud beschließen
-  https://osb-alliance.de/featured/sondersitzung-des-it-planungsrates-keine-ueberhasteten-vertraege-fuer-die-delos-cloud-beschliessen
-  via https://social.osb-alliance.de/@OSBA/112682378662405943
+In einem Vortrag auf der 22. Gulaschprogrammiernacht ging es um [Alternativen zu Github](https://cfp.gulas.ch/gpn22/talk/WGVZ9W/).
+
+Mit [DuckDB](https://duckdb.org/) kann man Daten in Formate wie CSV, Parquet und JSON lesen als auch schreiben und eben über einen SQL-Dialekt auch analystisch auswerten. Nun ist die [Version 1.1.0](https://duckdb.org/2024/06/03/announcing-duckdb-100) erschienen.
+
+Beim Prototype Fund wird zum einen darauf geschaut, was aus dem von ihm geförderte Projekt Noize [zurückgeschaut](https://prototypefund.de/was-wurde-aus-noize/) inzwischen geworden ist. Zum anderen gibt es ein [neues Handbuch](https://prototypefund.de/wp-content/uploads/2024/06/Funding-for-Future-The-Effects-of-a-Lightweight-and-Low-Threshold-Funding-Instrument-for-Open-Source-Software.pdf) über die Wirkung niederschwelliger Förderung von Open-Source-Projekten.
+
+Ein Niederländer [hat einen "3D-Drucker" aus Lego gebaut](https://www.heise.de/news/Pixelbot-3000-Niederlaendischer-Bastler-baut-3D-Drucker-aus-Lego-9772483.html). Die zugehörige Software, um die über Dall-E erzeugte Pixelart über Lego Mindstorms zu materialisieren, [steht auf Github](https://github.com/CreativeMindstorms/AI-LEGO-PixelArt-Robot).
 
 ## KI
-* Fragen für die öffentliche KI-Förderung
-  https://okfn.de/blog/2024/06/fragen-fuer-die-oeff-ki-foerderung/
-* Civic Coding auf der re:publica 24
-  https://www.civic-coding.de/angebote/meldungen/civic-coding-auf-der-republica-24
-  * 32 KI-Ideen für das Gemeinwohl: Das war unser Civic Coding-InnovationCamp
-    https://www.civic-coding.de/angebote/meldungen/civic-coding-innovationcamp-eure-ki-ideen-fuer-unser-gemeinwohl
-* Selbststudium rund um KI-Themen
-  https://ki-campus.org
-  via https://social.heise.de/@ct_Magazin/112562138006497993
-  z.B. https://ki-campus.org/courses/drmedki_basics_genai
-* Reasoning Fail: Gängige LLMs scheitern an kinderleichter Aufgabe
-  https://www.heise.de/news/Reasoning-Fail-Gaengige-LLMs-scheitern-an-kinderleichter-Aufgabe-9755034.html
-* Die Doku vom Civic Data #BarCamp ist online! Vor einer guten Woche ließen wir gemeinsam die Köpfe rauchen, Ideen sprudeln und Informationen fließen. Alle Ergebnisse, die in den Session festgehalten wurden - von #Datenkatalog und #Wiki über #offenedaten, #LLM, #NLP, #RAG bis hin zu #AI Washing - findet ihr im Space "Civic Data Camp" in der Community
-  https://community.civic-data.de/s/civic-data-camp/home (Login notwendig)
-  via https://mas.to/@CivicDataLab/112593284173462334
-* New #opendata application: "Pointly's City Inventory Classifier - 3D Point Cloud" - standard classifier for automatic AI-based 3D point cloud classification, focusing on the classification of city inventories
-  https://www.data.gv.at/katalog/dataset/63bc4638-11fd-4afc-8743-5219e916a5ee
-  via https://mastodon.social/@datagvat/112598287355353129
+Auf der Online-Plattform [KI Campus](https://ki-campus.org) gibt es immer wieder neue kostenlose Kurse für das Selbststudium rund um KI-Themen, z.B. wie man [KI in der Medizin einsetzen kann](https://ki-campus.org/courses/drmedki_basics_genai). Die Plattform wird [auf heise näher vorgestellt](https://www.heise.de/news/Web-Tipps-Lehrreich-9733087.html).
+
+[Civic Coding schaut auf ihre Panels](https://www.civic-coding.de/angebote/meldungen/civic-coding-auf-der-republica-24) auf der diesjähigen re:publica zurück, bei denen es um das Zusammenspiel von Zivilgesellschaft, Künstliche Intelligenz und Gemeinwohl ging. 
+
+Inzwischen ist auch die [Doku vom Civic Data BarCamp](https://mas.to/@CivicDataLab/112593284173462334), das Anfang Juni stattfand, online! Die in den Session festgehaltenen Ergebnisse findet man [im Space "Civic Data Camp"](https://community.civic-data.de/s/civic-data-camp/home) (Login notwendig).
+
+Auch den Prototyp Fund erreichen immer mehr Projektanträge, die Methoden aus der künstlichen Intelligenz nutzen wollen. Die damit verbundenen Fragen nach [Auswahlkriterien und Umsetzbarkeit müssen geklärt werden](https://okfn.de/blog/2024/06/fragen-fuer-die-oeff-ki-foerderung/). Die Vorgabe von Förderprogrammen, KI-Methoden zu nutzen, kann Fehlanreize setzen. Stattdessen sollte besser Flexibilität gegeben sein, die technische Umsetzung lösungsorientiert festlegen und bei Bedarf ändern zu dürfen, wenn sich z.B. ein alternativer (nicht KI-basierter) Lösungsansatz als vielversprechender herausstellen sollte.   
 
 ## Transparenz
 Seit dem 1. Januar 2023 gilt in Sachsen das [Sächsische Transparenzgesetz](https://www.datenschutz.sachsen.de/transparenz.html). Aiko Kempen, investigativer Journalist im Recherche-Team von Frag den Staat, hat in den letzten anderthalb Jahren [den Praxistest gemacht](https://kreuzer-leipzig.de/2024/06/01/transparenzgesetz-sachsen) und musste feststellen, dass der Fehler schon im System liegt. So ist anders als in allen anderen Bundesländern sowohl der gesamte kommunale Bereich, der gesamte Schriftverkehr innerhalb einer Behörde sowie alle Dokumente im Entwurfsstadium bereits von der Transparenzpflicht ausgenommen. Solche Ausnahmeregelungen werden dann auch gerne gedehnt, wenn z.B. der Schriftverkehr zwischen Innenministerium und Stadt Leipzig kurzerhand als "Kommunikation innerhalb einer Behörde" deklariert wird. Am verheerendsten wirken jedoch die Gebühren, die für die Bearbeitung eines Transparenzbegehrens in Rechnung gestellt werden können. Sind diese in nahezu allen anderen Bundesländern bei rund 500 Euro gedeckelt, liegt die Untergrenze in Sachsen überhaupt schon bei 600 Euro. Kleinere Anfragen bleiben zwar kostenlos, wenige Arbeitsstunden eines Beamten reichen aber schon, um die Grenze zu überschreiten. Auch wurde in Sachsen kein weiteres Personal für die Bearbeitung von Transparenzanfragen angestellt, sondern es wird von den bestehenden Mitarbeitenden grundsätzlich erwartet, zusätzlich mitzuerledigen. Trotz aller negativen Erfahrungen mit geschwärzten Seiten, langen Wartezeiten, ganz ausbleibenden Antworten und hohen Rechnungen, ermutigt der Autor aber sich nicht abschrecken zu lassen, weiter Anfragen zu stellen und so sein Recht auf Transparenz wahrzunehmen. Die Saat ist gesät.
@@ -222,22 +175,11 @@ Manchmal hilft auch die Unzuverlässigkeit der anderen: weil nicht mehr genügen
 Wie interne E-Mails des Bildungsministerium offenbaren, sollte eine Liste von Wissenschaftler:innen erstellt werden, die sich in einem offenen Brief positioniert hatten und gleichzeitig Fördermittel des Ministeriums erhielten. Auf Grundlage der Liste sollten förderrechtliche Konsequenzen geprüft werden. Ein klarer Angriff auf die Wissenschaftsfreiheit. Erst wurde mit einer [nachweislich falschen Behauptung](https://chaos.social/@fragdenstaat/112687758361435077) das zu späte Bereitstellen von angeforderten Dokumenten begründet, nun wird offenbar versucht, weitere die Causa betreffende interne Kommunikation zu löschen, wo gegen [ein Eilantrag auf den Erlass einer einstweillige Anordnung beim Verwaltungsgericht eingereicht wurde](https://chaos.social/users/fragdenstaat/statuses/112704999195434647).
 
 ## Und sonst so
-* Vorträge von GPN:
-  https://media.ccc.de/b/conferences/gpn/gpn22
-* Vorträge vom Wikipedia-Zukunftskongress
-  https://www.wikimedia.de/zukunftskongress/aufzeichnungen/
-* https://tootfinder.ch/
-* https://nowebwithoutwomen.com
-  via https://front-end.social/@stephaniewalter/112591034617132503
-* YouTuber Paralogical has analysed our free and open database of over 5 billion games to find the "rarest move in chess" in an entertaining and informative video
-  https://www.youtube.com/watch?v=iDnW0WiCqNc
-  https://github.com/paralogical/rarest-move-in-chess
-  via https://mastodon.online/@lichess/112599101303648253
-* Unsere Erwartungen an die Privatsphäre haben sich in den vergangenen Jahren verschoben.
-  https://netzpolitik.org/2024/oekosystem-internet-was-unsere-privatsphaere-mit-der-fischerei-zu-tun-hat/
-  * Bericht: Windows 11 OneDrive synchronisiert die Ordner bei einer Neuinstallation ohne Nachfrage
-    https://www.deskmodder.de/blog/2024/06/25/bericht-windows-11-onedrive-synchronisiert-die-ordner-bei-einer-neuinstallation-ohne-nachfrage/
-  * Chatkontrolle abgewendet
+Die Aufzeichnungen sowohl von der [GPN 22](https://media.ccc.de/b/conferences/gpn/gpn22) als auch vom [Wikipedia-Zukunftskongress](https://www.wikimedia.de/zukunftskongress/aufzeichnungen/) können online nachgeschaut werden.
+  
+Auf der Webseite [NoWebWithoutWomen](https://nowebwithoutwomen.com) werden an Innovationen in der Informatik und Informationstechnik erinnert, die heute essenziell sind, von denen aber wenig bekannt ist, dass sie ursprünglich von Frauen ersonnen worden sind.
+
+[Bruce Schneier vergleicht](https://netzpolitik.org/2024/oekosystem-internet-was-unsere-privatsphaere-mit-der-fischerei-zu-tun-hat/) die stetig sinkenden Ansprüche an die Privatsphäre mit dem [Shifting Baseline Syndrome](https://en.wikipedia.org/wiki/Shifting_baseline). Gleiche Effekte können auch in anderen Bereichen beobachtet werden.
 
 ## Veranstaltungen
 * Montag, 01.07.2024, bis 07.07.2024, Tartu, Estland: **FOSS4G EUROPE 2024**
