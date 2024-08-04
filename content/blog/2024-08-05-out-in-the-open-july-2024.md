@@ -309,20 +309,32 @@ https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
 * HACK AND HARVEST Hackathon
   https://cyberlago.net/news/projekt-barriere-sticker-gewinnt-goldene-aehre-beim-sechsten-hack-and-harvest-hackathon/
   https://www.youtube.com/watch?v=rDJFF5Lr9os
+* KI und Desinformation: Ein Blick auf die Auswirkungen auf unsere Demokratie (Anmeldung erforderlich)
+  https://www.civic-coding.de/angebote/meldungen/ki-und-desinformation
 
 ## Veranstaltungen
 * Mittwoch, 07.08.2024, 20:00, online: **Tom Erik Støwer: NPlan, a simple, open source schedule editor to create NeTEx**
   * https://github.com/transportkollektiv/meetup/wiki#welcome-to-the-german-open-transport-meetup-wiki
 * Samstag, 10.08.2024, 10:00-18:00, Geofabrik, Amalienstraße 44, Karlsruhe: **OpenStreetMap 20th Anniversary Birthday party**
   * https://wiki.openstreetmap.org/wiki/OpenStreetMap_20th_Anniversary_Birthday_party/Karlsruhe
+* Montag, 12.08.2024, 19:00-21:00, Wikibär, Köpenickerstr. 45, Berlin: **Code for Berlin**
+  * https://www.meetup.com/ok-lab-berlin/events/302123687/
+* Dienstag, 13.08.2024, 19:00, Impact Hub, Kaiserstr. 97, Karlsruhe: **Code for Karlsruhe**
+  * https://ok-lab-karlsruhe.de/mitmachen/#schedule
 * Samstag, 17.08.2024, bis Sonntag, 18.08.2024, Hochschule Bonn-Rhein-Sieg, Grantham-Allee 20, Sankt Augustin: **FrOSCon 2024**
   * https://froscon.org
   * https://programm.froscon.org/2024/index.html
+* Dienstag, 20.08.2024, 10:00-11:30, online: **15. Open-Data-Netzwerktreffen**
+  * https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/das-kommunale-open-data-netzwerktreffen#c234826
+* Dienstag, 27.08.2024, 12:00-12:30, online: **CDL - Espresso Talk: Geoinformationen für Humanitäre Hilfe**
+  * https://www.correlaid.org/veranstaltungen/cdl-espressotalk-geodaten/
 * Dienstag, 03.09.2024, 11:00-17:30, bUm, Paul-Lincke-Ufer 21, 10999 Berlin: **Prototype Fund: Demo Day der Förderrunde 15**
   * https://prototypefund.de/demo-day/#Programm
 * Donnerstag, 05.09.2024, Potsdam: **Barcamp Open Science**
   * https://www.barcamp-open-science.eu
-* Freitag, 06.07.2024, bis Samstag, 07.09.2024, Pilatusstrasse 21 / Sempacherstrasse 10, Luzern: **Swiss Open Cultural Data Hackathon "GLAMhack24"**
+* Freitag, 06.09.2024, bis Sonntag, 08.09.2024, An der Schanz 6, Köln: **Jugend hack Köln***
+  * https://jugendhackt.org/events/koeln/
+* Freitag, 06.09.2024, bis Samstag, 07.09.2024, Pilatusstrasse 21 / Sempacherstrasse 10, Luzern: **Swiss Open Cultural Data Hackathon "GLAMhack24"**
   * https://www.infoclio.ch/fr/glamhack24-anniversary-edition-last-call-participate
   * https://opendata.hitobito.com/de/groups/5/public_events/10
 * Freitag, 13.09.2024, 10:00-19:00, Alte Münze, Molkenmarkt 2, Berlin: **Netzpolitik-Konferenz "Bildet Netze!"**
@@ -331,6 +343,10 @@ https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
   * https://converia.uni-mainz.de/frontend/index.php?sub=153
 * Donnerstag, 19.09.2024, bis Samstag, 22.09.2024, Steintorcampus, Emil-Abderhalden-Str. 26/27, Halle (Saale): **Digital History & Citizen Science**
   * https://archive20.hypotheses.org/13460
+* Regelmäßige OKLab-Treffen
+  * Köln: jeden zweiten Montag, 19:00 (12.8. online, 26.8. Hackländerstr. 2 (Wikipedia Lokal K))
+  * Leipzig: jeden Mittwoch, 19:00, Peterssteinweg 14 (Basislager)
+  * Münster: jeden Dienstag, 19:30, Wolbeckerstr. 36 (Café Drei:klang)
 
 ## Call for participation
 * Deutscher Mobilitätspreis 2024, Abstimmen bis 18.08.2024
@@ -340,8 +356,15 @@ https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
 * Montag, 07.10.2024, bis Donnerstag, 11.10.2024, online: **2024 LD4 Conference: Building Community for Linked Open Data**, Einreichungsfrist Sonntag, 25.08.2024
   * https://docs.google.com/forms/d/e/1FAIpQLSeNg1ZHS7ZjwPyU2pWOXplNJ_Xh-dtMYeetXlNrpgUOmICL8g/viewform
   * https://sites.google.com/view/2024-ld4-conference/home
+* Bis zum 26.08.2024 (16 Uhr) können sektorübergreifende und/oder interdisziplinäre Projektverbünde einen Antrag einreichen und sich so die Chance auf bis zu 500.000 Euro zur Umsetzung ihres gemeinwohlorientierten KI-Projektes für die Arbeitswelt sichern.
+  * https://www.civic-coding.de/angebote/meldungen/2-foerderrichtlinie-der-civic-innovation-platform
+* Die KI-Ideenwerkstatt für Umweltschutz sucht Pilotprojekte, Bewerbungen bis 31.08.2024 möglich
+  * https://www.civic-coding.de/angebote/meldungen/die-ki-ideenwerksatt-sucht-pilotprojekte
 * Road2Openness – Open-Science-Strategiewerkstatt, bis 15. September 2024 bewerben
   * https://www.stifterverband.org/pressemitteilungen/2024_07_08_road2openness-strategiewerkstatt
+* Meet and Code 2024: Veranstaltungsideen jetzt einreichen!
+  Sichert euch jetzt 500 € zur Finanzierung eurer Programmierveranstaltung!, Bewerbungsfrist, 30.09.2024
+  * https://www.meet-and-code.org/de/de/news-show/700
 * NASA International Space Apps Challenge, Hackathon, Registrierung offen, findet 5. und 6. Oktober statt
   * https://www.spaceappschallenge.org
 * Im Rahmen des Chaotischen Catalysator Stipendienprogramms können sich Studierende, die eine Master- oder Diplomarbeit schreiben, um ein Stipendium in Höhe von insgesamt 1.500 € bewerben. Gesucht werden Themen, die sich mit den Informationstechnologien dieser Welt und ihren Auswirkungen auf die Gesellschaft beschäftigen. Hinsichtlich der Fachrichtung gibt es keine Einschränkungen. Bewerbungen bis 31.10.2024‚
