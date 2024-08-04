@@ -23,6 +23,9 @@ type: blog
 * The new Climate Data Store Beta (CDS-Beta) is now live
   https://forum.ecmwf.int/t/the-new-climate-data-store-beta-cds-beta-is-now-live/3315
   https://cds-beta.climate.copernicus.eu
+* MVP Umweltinfo - Die Suchmaschine für Umwelt- & Naturschutz-Wissen
+  https://mvp.umwelt.info/de/artikel/ueber-die-anbindung-von-daten
+  https://mvp.umwelt.info/de
 * Backup
   * Corporate Digital Responsibility (CDR) – Strategien für digitale Nachhaltigkeit im Unternehmen
     https://reset.org/corporate-digital-responsibility-cdr-digitale-nachhaltigkeit-unternehmen/
@@ -79,6 +82,8 @@ type: blog
   https://www.heise.de/news/Rekord-58-Prozent-des-Stroms-aus-erneuerbaren-Energien-9784161.html
 * 10 Jahre Energy-Charts – 10 Grafiken zur Energiewende
   https://blog.innovation4e.de/2024/07/26/10-jahre-energy-charts-10-grafiken-zur-energiewende/
+* Wie läuft der Ausbau erneuerbarer Energien in Deutschland?
+  https://www.ndr.de/nachrichten/ndrdata/Wie-laeuft-der-Ausbau-von-Solar-Windkraft-Batteriespeicher-Erneuerbare-Energien-in-Deutschland,erneuerbare104.html
 
 ## Mobilität
 * Cities moving
@@ -106,12 +111,25 @@ type: blog
     https://unfallatlas.statistikportal.de
   * Mitfahrzentrale Heatview (Rad-)Unfälle aktualisiert
     https://chaos.social/@mfdz/112806484663218499
+* Mobility Data Space der Bundesregierung – so kommen wir nicht weiter
+  https://d-64.org/mobility-data-space-der-bundesregierung-so-kommen-wir-nicht-weiter/
 
 ## Kultur
 * Use Datasette-Lite to share a CSV file as a searchable, online database
   https://glam-workbench.net/glam-tools/datasette/
   https://glam-workbench.net/
   via https://hcommons.social/@wragge/112807814238076888
+
+## Wirtschaft
+* "Cheapflation" trifft die Schwachen
+  https://www.n-tv.de/wirtschaft/Cheapflation-trifft-die-Schwachen-article25084108.html
+* The Billion Prices Project - It is no longer active, but its initiatives continue through PriceStats (inflation measurement) and the HBS Pricing Lab (academic research)
+  https://thebillionpricesproject.com
+* Vermögensregister geplant - EU will umfassende Datenbank zum Vermögen aller Bürger aufbauen - was dahinter steckt
+  https://www.msn.com/de-de/finanzen/top-stories/verm%C3%B6gensregister-geplant-eu-will-umfassende-datenbank-zum-verm%C3%B6gen-aller-b%C3%BCrger-aufbauen-was-dahinter-steckt/ar-BB1qqq1a
+* Empirica Immobilienpreis-Index
+  https://www.empirica-regio.de
+
 
 ## Open Data
 * How to Make Sure No One Cares About Your Open Data
@@ -138,6 +156,10 @@ type: blog
   via https://social.bund.de/@destatis/112767071708913025
 * L'open data du sport et des Jeux Olympiques et Paralympiques
   https://www.data.gouv.fr/fr/posts/lopen-data-du-sport-et-des-jeux-olympiques-et-paralympiques/
+* Von offenen Daten und smarten Städten. Das große ODIS-Interview
+  https://citylab-berlin.org/de/blog/von-offenen-daten-und-smarten-staedten-das-grosse-odis-interview/
+* Teilnehmerfrust beim Dateninstitut
+  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/teilnehmerfrust-beim-dateninstitut
 
 ## Open Data Tools
 * Wir haben soeben DCAT-AP.de 3.0 im Entwurf veröffentlicht.
@@ -166,6 +188,8 @@ Mehr schattenspendende Bäume entlang von Gehsteigen, Schutz vor Sonne auch bei 
   https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2024/240617_VG250EW.html
 * Let’s make contour maps
   https://www.letsmakeamap.com/blog/lets-make-contour-maps
+* 3D-Stadtmodelle Zürich
+  https://www.stadt-zuerich.ch/3d-stadtmodelle
 
 ## Open Source
 * Podcast Reihe Open Source und Geld
@@ -204,6 +228,8 @@ via https://digitalcourage.social/@clarisse/112778006240248969
   "Not only is it [Gaia-X] using up lots of money and resources that could better be spent elsewhere, its very existence fools people into thinking something useful is happening."
   https://berthub.eu/articles/posts/gaia-x-is-an-expensive-distraction/
   via https://mastodon.social/@jpmens/112851991626848669
+* ZENDIS Positionspapier - Digitale Souveränität im Vergaberecht
+  https://zendis.de/media/site/88445cc92f-1717603153/2024_06_05-zendis_positionspapier-dis-und-vergaberecht_a4_web.pdf
 
 ## Open Access
 * Alte Prüfungsaufgaben sollten Schüler*innen kostenfrei für ihre Abschlussvorbereitung zugänglich sein. Fast alle Bundesländer weigern sich und geben sie lieber an Verlage, die mit den Aufgaben Profit machen. Unterstützt die Petition, um Druck auf Kultusminister*innen und Bundesländer zu machen!  https://weact.campact.de/petitions/bildungsgerechtigkeit-statt-privater-profit-alte-prufungsaufgaben-digital-frei-zuganglich-machen
