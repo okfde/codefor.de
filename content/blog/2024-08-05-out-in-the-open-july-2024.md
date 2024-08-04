@@ -160,6 +160,8 @@ type: blog
   https://citylab-berlin.org/de/blog/von-offenen-daten-und-smarten-staedten-das-grosse-odis-interview/
 * Teilnehmerfrust beim Dateninstitut
   https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/teilnehmerfrust-beim-dateninstitut
+* Das Dateninstitut kommt. Die Gemeinwohlorientierung bleibt fraglich
+  https://okfn.de/blog/2024/07/dateninstitut-wmde-okf/
 
 ## Open Data Tools
 * Wir haben soeben DCAT-AP.de 3.0 im Entwurf veröffentlicht.
