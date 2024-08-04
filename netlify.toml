@@ -20,11 +20,6 @@ command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 HUGO_VERSION = "0.104.3"
 
 [[redirects]]
-from = "/spenden"
-to = "https://www.betterplace.org/de/projects/66473-unterstuetze-die-open-knowledge-labs"
-status = 302
-
-[[redirects]]
 from = "/blog/Auftakt-Trinkwasserkampagne.html"
 to = "/blog/auftakt-trinkwasserkampagne"
 
@@ -563,10 +558,6 @@ to = "/blog/story-citizen-builds-city-berlin"
 [[redirects]]
 from = "/summit/"
 to = "/archiv/summit/"
-
-[[ redirects ]]
-from = "/projekte/alle/"
-to = "/projekte/archiv/"
 
 [[ redirects ]]
 from = "/projekte/2011-12-31-accessmap.html"
@@ -1415,3 +1406,40 @@ to = "/index.xml"
 [[ redirects ]]
 from = "/code-of-conduct/"
 to = "/grundsaetze/"
+
+[[ redirects ]]
+from = "/about/"
+to = "/community/"
+
+[[ redirects ]]
+from = "/mitmachen/"
+to = "/community/"
+force = true
+
+[[ redirects ]]
+from = "/datenschutz/"
+to = "/impressum#datenschutzerklärung"
+
+[[ redirects ]]
+from = "/testcloudlink-06-2023/"
+to = "https://cloud.okfn.de/s/PSzJJZKWQa6gygJ"
+
+[[ redirects ]]
+from = "/labs/"
+to = "/community/"
+force = true
+
+[[ redirects ]]
+from = "/ziele/"
+to = "/"
+force = true
+
+[[ redirects ]]
+from = "/ressourcen/"
+to = "/"
+force = true
+
+[[ redirects ]]
+from = "/projekte/archiv/"
+to = "/projekte/alle/"
+force = true

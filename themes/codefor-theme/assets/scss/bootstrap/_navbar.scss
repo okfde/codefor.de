@@ -9,6 +9,16 @@
 
   a {
     text-decoration: none;
+
+    &[href="/spenden/"]{
+      transition: all .25s;
+      &:hover, &.active {
+        background: #00A9FA;
+        background: linear-gradient(to left, #00A9FA 0%, #FF645F 33%, #00DA88 60%, #57CFC8 89%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+    }
   }
 
  .active {

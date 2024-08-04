@@ -1,0 +1,59 @@
+.project-preview-card {
+  .card-header {
+    height: 30px; // set height explicitly so that cards without icons have the same height as others
+  }
+
+  .project-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    object-fit: cover;
+    aspect-ratio: 16/9;
+    font-style: italic;
+  }
+
+  .project-image__placeholder {
+    object-fit: contain;
+  }
+}
+
+#projects-container {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(Min(100%, 400px), 1fr));
+}
+
+.project-accordion-container {
+  display: grid;
+  gap: 10px;
+  margin-bottom: 4rem;
+}
+
+.project-accordion-item {
+  border: none;
+  background: $codefor-light-teal;
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+    .read-more {
+      flex-grow: 1;
+      text-align: right;
+    }
+  }
+  .details-content {
+    padding: 1em;
+    background: $codefor-mint;
+  }
+}
+
+
+.sort-buttons {
+  display: flex;
+  justify-content: center;
+  margin-block: 3em;
+  gap: 20px;
+  flex-wrap: wrap;
+}

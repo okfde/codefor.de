@@ -4,6 +4,7 @@ title: OK Lab Karlsruhe
 lat: 49.013397
 long: 8.404370
 markerposition: left
+ExternalProjectsUrl: https://ok-lab-karlsruhe.de/projects/projectlist.json
 #h4c: true
 
 aliases:
@@ -20,20 +21,11 @@ links:
   url: https://ok-lab-karlsruhe.de/
   top: true
 
-- name: Twitter
-  url: https://twitter.com/codeforka
-
 - name: GitHub
   url: https://github.com/CodeforKarlsruhe
 
 - name: GetTogether
   url: https://gettogether.community/ok-lab-ka/
-
-- name: Mailingliste
-  url: https://mlists.okfn.de/cgi-bin/mailman/listinfo/codeforkarlsruhe
-
-- name: Protokolle
-  url: https://pad.okfn.de/p/codeforka
 
 leads:
 

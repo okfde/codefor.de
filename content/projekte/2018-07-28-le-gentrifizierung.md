@@ -3,7 +3,7 @@ layout: project
 lab: [leipzig] #needed for Aggregation on Lab-Page
 imgname: leipzig/gentrifizierung.jpg
 title: Gebäude-Entwicklung in Leipzig
-status: laufend
+status: abgeschlossen
 
 links:
 - url: https://codeforleipzig.github.io/Gentrification/buildings.html

@@ -1,8 +1,25 @@
-<footer id="footer" class="footer {{ if  not .Params.footerHideTopMargin }}mt-6{{ end }}">
-  <div class="container-fluid text-center text-sm-left">
+<footer class="page-footer">
+    <div class="content">
+        <div>
+            <ul class="list-unstyled">
+                <li><a class="text-dark no-underline" href="/grundsaetze">Code of Conduct</a></li>
+                <li><a class="text-dark no-underline" href="/presse">Presseschau</a></li>
+                <li><a class="text-dark no-underline" href="/impressum">Impressum</a></li>
+                <li><a class="text-dark no-underline" href="/impressum#datenschutzerklärung">Datenschutzerklärung</a></li>
+            </ul>
+            <a rel="license noopener noreferrer" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Creative Commons Lizenzvertrag"  src="/images/by.svg" /></a><br />Sofern nicht anders angegeben, sind die Inhalte und Texte dieser Webseite unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.de">Creative Commons Namensnennung 4.0 International Lizenz</a> lizenziert.
+        </div>
 
-    {{ partial "simple_footer.html" . }}
+        <ul class="social" >
+            <li><a href="https://chaos.social/@codeforde" target="_blank" rel="me noopener noreferrer"><img src="/img/mastodon.svg" role="presentation">Mastodon</a></li>
+            <li><a href="https://github.com/okfde/codefor.de" target="_blank" rel="noopener noreferrer"><img src="/img/github.svg" role="presentation">Github</a></li>
+            <li><a href="https://twitter.com/codeforde" target="_blank" rel="noopener noreferrer"><img src="/img/twitter.svg" role="presentation">Twitter</a></li>
+        </ul>
 
-  </div>
+        <div>
+            Code for Germany wird koordiniert von der Open Knowledge Foundation Deutschland e.V.
+            <a href="https://okfn.de" target="_blank" rel="noopener noreferrer"><img class="img-fluid" style="width: 180px;margin-left:-10px;" src="/img/open-knowledge.svg" alt="Open Knowledge Foundation"></a>
+        </div>
+    </div>
 </footer>
 {{ partial "analytics.html" . }}

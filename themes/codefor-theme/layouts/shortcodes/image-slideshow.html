@@ -1,0 +1,71 @@
+<div class="slideshow">
+    {{ .Inner }}
+    <div class="indicators"></div>
+</div>
+<script>
+
+    const container = document.querySelector(".slideshow");
+    const images = container.querySelectorAll("img");
+
+    const swapImage = () => {
+        images.forEach(i => i.classList.add("hidden"))
+        buttons.forEach(i => i.classList.remove("active"))
+        images[index].classList.remove("hidden");
+        buttons[index].classList.add("active");
+        index = (index + 1) % images.length;
+    }
+
+    const mediaQuery = window.matchMedia('(prefers-reduced-motion: reduce)');
+    const interval = setInterval(mediaQuery.matches ? () => {} : swapImage, {{ int (.Get "interval") }})
+
+    let index = 0;
+    const indicators = container.querySelector('.indicators')
+    const buttons = Array.from(images).map((image, i) => {
+        const button = document.createElement('button');
+        button.addEventListener('click', () => {
+            index = i;
+            swapImage();
+            clearInterval(interval);
+        });
+        indicators.appendChild(button);
+        return button;
+    });
+
+    swapImage();
+
+</script>
+<style>
+    .slideshow {
+        display: flex;
+        gap: 10px;
+        flex-direction: column;
+        aspect-ratio: {{ .Get "width" }} / {{ .Get "height" }};;
+        width: {{ .Get "width" }};
+        max-width: 100%;
+    }
+    .slideshow .hidden {
+        display: none;
+    }
+    .slideshow img{
+        object-fit: cover;
+    }
+
+    .slideshow .indicators {
+        display: flex;
+        justify-content: center;
+        gap: 5px;
+    }
+
+    .slideshow .indicators button {
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        border: none;
+        cursor: pointer;
+        padding: 0;
+    }
+
+    .slideshow .indicators button.active {
+        background-color: #01a9fa;
+    }
+</style>

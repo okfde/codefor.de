@@ -5,6 +5,7 @@ lab: OK Lab Potsdam
 lat: 52.38947
 long: 13.07853
 markerposition: left
+inactive: true
 
 aliases:
 - /potsdam

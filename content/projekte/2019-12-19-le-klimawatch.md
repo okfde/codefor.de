@@ -12,6 +12,10 @@ links:
   name: Page on Github
 
 collaborators:
+- name: Lars Mai
+  links:
+  - url: https://github.com/lhm
+    url-name: github
 - name: Jörg Reichert
   links:
   - url: https://github.com/joergreichert

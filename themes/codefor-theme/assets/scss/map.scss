@@ -1,18 +1,9 @@
-#lab-map-wrapper{
+#lab-map{
     width: 100%;
-    padding-bottom: 150%;
-    position: relative;
-    margin-top: 150px;
+    aspect-ratio: 3/4;
     @media(orientation: landscape){
-      padding-bottom: 100%;
+      aspect-ratio: 16/9;
     }
-  }
-  #lab-map{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
   }
 
   .leaflet-marker-icon-wrapper {
@@ -28,7 +19,7 @@
     background: white;
     background: rgba(255,255,255,0.75);
     display: block;
-    font-family: "Apercu Mono Pro Regular", 'Andale Mono', sans-serif;
+    font-family: "Hanken Grotesk", sans-serif;
     font-size: 13px;
     font-weight: normal;
     padding: 4px 6px;
@@ -42,15 +33,6 @@
       color: $codefor-red;
       text-decoration: none;
     }
-  }
-
-
-  .lab-map-dropdown{
-    position: absolute;
-    left: 0;
-    top: -120px;
-    z-index: 20000;
-    width: 100%;
   }
 
 @media only percy {

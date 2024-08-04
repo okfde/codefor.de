@@ -1,0 +1,109 @@
+<div class="row justify-content-center mt-6">
+    <div class="col-24 col-md-22 col-lg-22 col-xl-20 ">
+        <div class="d-flex flex-column flex-lg-row justify-content-center" id="filters">
+            <button data-filter="" class="btn btn-outline-dark filter mx-2 my-2 active" href="{{ .Page.Permalink }}">
+                <span>Alle</span>
+            </button>
+            <button data-filter="Umwelt" class="btn btn-outline-dark filter mx-2 my-2" href="{{ .Page.Permalink }}">
+                <span>Umwelt</span>
+                <img class="ml-1 img-fluid taxonomie-icon" src="/img/taxonomie-icon/umwelt.svg" alt="Filter Umwelt">
+            </button>
+            <button data-filter="Politik" class="btn btn-outline-dark filter mx-2 my-2" href="{{ .Page.Permalink }}">
+                <span>Politik</span>
+                <img class="ml-1 img-fluid taxonomie-icon" src="/img/taxonomie-icon/politik.svg" alt="Filter Politik">
+            </button>
+            <button data-filter="Gesellschaft" class="btn btn-outline-dark filter mx-2 my-2" href="{{ .Page.Permalink }}">
+                <span>Gesellschaft</span>
+                <img class="ml-1 img-fluid taxonomie-icon" src="/img/taxonomie-icon/gesellschaft.svg" alt="Filter Gesellschaft">
+            </button>
+            <button data-filter="Mobilität" class="btn btn-outline-dark filter mx-2 my-2" href="{{ .Page.Permalink }}">
+                <span>Mobilität</span>
+                <img class="ml-1 img-fluid taxonomie-icon" src="/img/taxonomie-icon/mobilitaet.svg" alt="Filter Mobilität">
+            </button>
+        </div>
+
+        <div class="sort-buttons">
+            <button data-sort-field="date" data-sort-direction="asc" class="btn btn-outline-dark filter">Datum ↑</button>
+            <button data-sort-field="date" data-sort-direction="desc" class="btn btn-outline-dark filter">Datum ↓</button>
+            <button data-sort-field="name" data-sort-direction="asc" class="btn btn-outline-dark filter active">A-Z</button>
+            <button data-sort-field="name" data-sort-direction="desc" class="btn btn-outline-dark filter">Z-A</button>
+        </div>
+
+        <div class="row mb-5 mb-md-7" id="projects-container">
+            {{- range sort (where site.RegularPages "Layout" "==" "project") ".Params.title" -}}
+            {{ partial "project-preview.html" . }}
+            {{- end -}}
+        </div>
+    </div>
+</div>
+<script src="/js/projects.js"></script>
+
+
+<script>
+    const setupFilters = () => {
+        const filterButtons = Array.from(document.querySelectorAll("#filters button"));
+        const projectContainer = document.querySelector("#projects-container")
+        const getProjects = () => Array.from(projectContainer.children);
+
+        filterButtons.forEach(function (button) {
+            const filter = button.dataset.filter;
+            const projects = getProjects();
+
+            button.addEventListener("click", function (e) {
+                projects.forEach(project => project.style.display = "unset");
+
+                filterButtons.filter(b => b !== button)
+                    .forEach(button => button.classList.remove("active"))
+                button.classList.toggle("active")
+                const isActive = button.classList.contains("active")
+                if (filter === "") {
+                    return;
+                }
+                if (isActive) {
+                    projects
+                        .filter(project => !project.querySelector(`[alt="${filter}"]`))
+                        .forEach(project => project.style.display = "none")
+                }
+            });
+        });
+
+
+        const sortProjects = (field, direction) => {
+            const sortDirection = direction === "asc" ? 1 : -1;
+            const sortKey = (node) => node.dataset[field].toLowerCase();
+
+            getProjects()
+                .sort((a,b)=> {
+                    const sortByA = sortKey(a);
+                    const sortByB = sortKey(b);
+
+                    if (sortByA === sortByB) {
+                        return 0;
+                    }
+                    if (sortByA > sortByB) {
+                        return sortDirection
+                    }
+                    return -1 * sortDirection;
+                })
+                .forEach(node=>projectContainer.appendChild(node));
+        }
+
+        const sortButtons = Array.from(document.querySelectorAll(".sort-buttons button"));
+        sortButtons.forEach(button => {
+            button.addEventListener("click", () => {
+                const field = button.dataset.sortField;
+                const direction = button.dataset.sortDirection;
+
+                sortButtons.forEach(button => button.classList.remove("active" ))
+                button.classList.add("active");
+                sortProjects(field, direction);
+            });
+        });
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+        setupFilters();
+        loadAdditionalProjects("https://ok-lab-karlsruhe.de/projects/projectlist.json");
+    });
+
+</script>

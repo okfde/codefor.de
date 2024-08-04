@@ -22,11 +22,12 @@ $fontSizeHero-xxl: $fontSizeBase-xl + 25px;
 
 $pageMaxWidth: 1700px;
 
-$codefor-mint: #BFEEEB;
-$codefor-blue: #17B6FF;
-$codefor-red: #FF645F;
-$codefor-green: #58e4a0;
-$codefor-light-grey: #F2F2F2;
+// Our imports
+@import "colors";
+@import "alert";
+@import "blog";
+@import "map";
+@import "projects";
 
 @import "bootstrap/functions";
 @import "bootstrap/variables";
@@ -64,8 +65,6 @@ $codefor-light-grey: #F2F2F2;
 @import "bootstrap/print";
 
 
-//Leaflet map
-@import "map";
 
 /*********************
 BASE (MOBILE) SIZE
@@ -262,6 +261,7 @@ blockquote {
   margin-top: 1.5rem;
   margin-bottom: 3rem;
   text-align: center;
+  gap: 1.5rem;
 
   &.blue {
     &:before, &:after {
@@ -281,12 +281,10 @@ blockquote {
 
   &:before {
     content: '{';
-    margin-right: 1.5rem;
   }
 
   &:after {
     content: '}';
-    margin-left: 1.5rem;
   }
 }
 
@@ -330,4 +328,29 @@ blockquote {
 
 .lab-logo {
   width: 200px;
+}
+
+.landing-callout {
+  border: 2px solid $codefor-green;
+  background-color: $codefor-mint;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.quote {
+  .author {
+    font-style: italic;
+    font-size: .8em;
+  }
+
+  &:nth-child(even){
+    text-align: right;
+  }
+}
+
+.quotes-list {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin: 50px 0;
 }

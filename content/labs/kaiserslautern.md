@@ -11,9 +11,6 @@ aliases:
 - /kl
 
 members:
-- name: Falco Nogatz
-  username-github: fnogatz
-  username-twitter: ulmerleben
 - name: Marius Henkel
   username-github: rausnehmkeil
   username-twitter: rausnehmkeil
@@ -37,8 +34,6 @@ feeds:
 leads:
 - name: E-Mail-Verteiler
   url: mailto:kaiserslautern@codefor.de
-- name: Falco Nogatz
-  url: mailto:falco.nogatz@dfki.de
 - name: Marius Henkel
   url: mailto:marius.henkel@kaiserslautern.de
 

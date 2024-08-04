@@ -1,0 +1,81 @@
+{{- $labs := where (where .Site.RegularPages ".Params.city" "!=" nil) ".Params.hide" "!=" true }}
+<div id="lab-map" ></div>
+
+<script src="{{ "leaflet/leaflet.js" | absURL }}"></script>
+<script src="{{ "js/lib/leaflet.iconlabel.js" | absURL }}"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // initialize map, set position and zoom level
+  var map = L.map("lab-map", {
+    zoomSnap: 0,
+    zoomControl: false
+  });
+  map.attributionControl.setPrefix("");
+  map.scrollWheelZoom.disable();
+
+  // add zoom control on lab map
+  map.addControl(L.control.zoom({ position: 'topright' }));
+
+  // basemap
+  var osmTilesUrl = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
+  var osmAttrib = 'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors';
+  var osmLayer = new L.TileLayer(osmTilesUrl, { minZoom: 5, attribution: osmAttrib });
+  // load basemaps
+  osmLayer.addTo(map);
+
+   const label = (lab) => {
+       const baseOptions = {
+           iconUrl: "/img/lab_marker_home.svg",
+           shadowUrl: null,
+           iconSize: new L.Point(21, 35),
+           iconAnchor: new L.Point(0, 0),
+           labelAnchor: new L.Point(25, 2),
+           wrapperAnchor: new L.Point(10, 35),
+       };
+       const labelLeftOptions =  {
+           labelAnchor: new L.Point(0, 2),
+           labelClassName: "label-left"
+       };
+       const inactiveOptions = {
+           iconUrl: "/img/lab_marker_inactive.svg",
+       }
+       return L.Icon.Label.extend({
+           options: {
+               ...baseOptions,
+               ...(lab.inactive ? inactiveOptions : {}),
+               ...(lab.label === 'left' ? labelLeftOptions : {}),
+           }});
+   };
+
+   var labs = [
+       {{- range $labs -}}
+   {{- $coords := slice ((printf "%.2f" .Params.lat) | float) ((printf "%.2f" .Params.long) | float ) -}}
+   {{- $label := cond (eq .Params.markerposition "right") "right" "left" -}}
+   {{- dict "coords" $coords "label" $label "link" .RelPermalink "city" .Params.city "inactive" .Params.inactive | jsonify | safeJS -}},
+   {{- end -}}
+]
+
+    var labsLayer = L.featureGroup().addTo(map);
+
+    labs.forEach(function (lab) {
+        const a = document.createElement('a');
+        a.innerText = lab.city;
+        a.href = lab.link;
+        const Icon = label(lab)
+        var marker = L.marker(lab.coords, {
+            icon: new Icon({
+                labelText: a.innerHTML
+            }),
+            url: lab.link,
+        })
+            .on('click', function() { window.location.href = lab.link; })
+            .addTo(labsLayer);
+    });
+
+    {{ if and (isset .Page.Params "lat") (isset .Page.Params "long") }}
+    map.setView([{{- .Page.Params.lat -}}, {{- .Page.Params.long -}}], 10);
+    {{- else -}}
+    map.fitBounds(labsLayer.getBounds(), { padding: [60,60] });
+    {{- end }}
+});
+</script>

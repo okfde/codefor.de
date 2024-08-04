@@ -2,8 +2,8 @@
 layout: project
 lab: [magdeburg] #needed for Aggregation on Lab-Page
 imgname: magdeburg/magdomat.png
-title: Magd-O-Mat
-status: Active
+title: Magd-O-Mat 2019
+status: Abgeschlossen
 
 links:
 - url: https://www.magdeburg-waehlt.de
@@ -11,10 +11,10 @@ links:
 
 
 collaborators:
-- name: Jens Winter
+- name: Jens Winter-Hübenthal
   links:
-  - url: https://twitter.com/JensWinter
-    name: twitter
+  - url: https://bsky.app/profile/jenswh.bsky.social
+    name: bluesky
   - url: https://github.com/JensWinter
     name: github
 

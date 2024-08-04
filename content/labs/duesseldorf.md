@@ -5,9 +5,11 @@ lat: 51.209478
 long: 6.7784333
 markerposition: left
 showsignup: false
+inactive: true
 
 aliases:
 - /duesseldorf
+- /düsseldorf
 
 links:
 - name: Blog

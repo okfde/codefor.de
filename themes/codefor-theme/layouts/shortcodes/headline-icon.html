@@ -1,3 +1,3 @@
-<div class="headline-icon d-flex justify-content-center {{ .Get "class" }} {{ .Get "color" }} ">
-    <img src="/img/section-icon/{{ .Get "icon" }}" alt="{{ .Get "alt" }}">
-</div>
+{{ $icon := .Get "icon" }}
+{{ $color := .Get "color" }}
+{{ partial "headline-icon" (dict "context" . "icon" $icon "color" $color ) }}

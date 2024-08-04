@@ -19,8 +19,12 @@
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
       {{if ne .Weight 0 }}
-      <li class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{ end }}">
-          <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+      <li>
+          <a href="{{ .URL }}"
+             class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{ end }}"
+             title="{{ .Title }}">
+            {{ .Name }}
+          </a>
       </li>
       {{ end }}
     {{ end }}

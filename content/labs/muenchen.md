@@ -7,6 +7,8 @@ markerposition: right
 
 aliases:
 - /muenchen
+- /münchen
+- /m
 
 ## LHM Marsstr. 22
 #lat: 48.14356

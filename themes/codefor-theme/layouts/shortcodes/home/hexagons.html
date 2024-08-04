@@ -1,0 +1,28 @@
+{{- $labs := where (where (where .Site.RegularPages ".Params.city" "!=" nil) ".Params.hide" "!=" true) ".Params.inactive" "!=" true }}
+
+<div class="hexa-container">
+{{ range $labs  }}
+{{- if (fileExists (printf "static/labs/hexagon/CodeFor-%s.svg" (.File.BaseFileName | lower))) -}}
+<a href="/{{ .File.BaseFileName | lower }}/">
+    <img src="/labs/hexagon/CodeFor-{{ .File.BaseFileName | lower }}.svg" alt="Logo {{ .Title }}">
+</a>
+{{- end -}}
+{{- end -}}
+</div>
+
+<style>
+    .hexa-container {
+        display:flex;
+        --s: 100px;  /* size  */
+        gap: 4px;
+        justify-content: center;
+    }
+
+    .hexa-container a {
+        width: var(--s);
+    }
+
+    .hexa-container a img {
+        width: 100%;
+    }
+</style>

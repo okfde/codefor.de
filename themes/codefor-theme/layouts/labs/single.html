@@ -13,6 +13,13 @@
     {{ partial "hero-block-center.html" (dict "context" . "txt" .Params.Hero ) }}
     {{ end }}
 
+    {{ if .Params.inactive }}
+    <div class="cfg-alert info my-4" role="alert">
+        Dieses Lab ist aktuell nicht aktiv. Die Kontaktpersonen lassen ihr Ehrenamt gerade ruhen. Wenn du Fragen zum
+        Netzwerk hast, dann schreib uns gern an <a href="mailto:info@codefor.de">info@codefor.de</a>.
+    </div>
+    {{ end }}
+
     <section>
         {{ .Content }}
     </section>
@@ -53,19 +60,22 @@
 {{/* create a slice because we're using "intersect" in the next line */}}
 {{ $filename := slice .File.BaseFileName }}
 {{ $lab_projects := (where (where .Site.RegularPages "Layout" "==" "project") ".Params.lab" "intersect" $filename)}}
-{{ if len $lab_projects | ne 0 }}
 
 <h2 class="headline-brackets red" id="projekte">Projekte</h2>
 <div class="row justify-content-center mb-5 mb-lg-7">
     <div class="col-22 col-md-18">
-        <div class="row">
-        {{ range $lab_projects }}
-            {{ partial "project-preview.html" . }}
-        {{ end }}
+        <div id="projects-container">
+            {{ if len $lab_projects | ne 0 }}
+            {{ range $lab_projects }}
+                {{ partial "project-preview.html" . }}
+            {{ end }}
+            {{ end }}
         </div>
     </div>
 </div>
-{{ end }}
+<template id="project-template">
+    {{ partial "project-preview.html" }}
+</template>
 
 {{/*
     Lists blogposts of this lab.
@@ -79,18 +89,27 @@
 {{ $lab_blogposts := (where (where .Site.RegularPages "Section" "==" "blog") ".Params.lab" "intersect" $filename)}}
 {{ if len $lab_blogposts | ne 0 }}
 <h2 class="headline-brackets red" id="blog">Was bei uns passiert</h2>
-<div class="row justify-content-center">
-    <div class="col-24 col-md-22 col-lg-17">
-        <div class="row">
-            {{ range $lab_blogposts  }}
-                {{ partial "blog-preview.html" . }}
-            {{ end }}
-        </div>
+<div class="blog__container">
+    <div class="blog__posts">
+        {{ range $lab_blogposts  }}
+            {{ partial "blog-preview.html" . }}
+        {{ end }}
     </div>
 </div>
 {{ end }}
 
 <hr/>
 {{ partial "map-overview.html" . }}
+
+{{ if .Params.ExternalProjectsUrl }}
+<script src="/js/projects.js"> </script>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const template = document.querySelector("#project-template").content.cloneNode(true);
+        loadAdditionalProjects({{ .Params.ExternalProjectsUrl }}, template);
+    });
+</script>
+{{ end }}
+
 
 {{ end }}

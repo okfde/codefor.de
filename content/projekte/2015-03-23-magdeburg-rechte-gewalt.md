@@ -3,7 +3,7 @@ layout: project
 lab: [magdeburg] #needed for Aggregation on Lab-Page
 imgname: magdeburg/rechtegewalt.jpg
 title: Rechte Gewalt in Deutschland
-status: Finished
+status: Discontinued
 showcase: true
 
 links:

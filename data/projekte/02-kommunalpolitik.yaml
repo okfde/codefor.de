@@ -1,0 +1,51 @@
+title: Kommunalpolitik
+txt: >
+  Einer der größten Datenschätze, die eine Demokratie zu bieten
+  hat, finden sich auf kommunaler Ebene in sogenannten
+  Ratsinformationssystemen.
+
+
+  Ratsinformationssysteme sind Informations- und Datenmanagement-Systeme,
+  die ratsbezogene Daten papierlos anbieten. Dazu zählen unter
+  anderem Sitzungskalender, Tagesordnungen und Protokolle. Dank der
+  Ratsinformationssysteme erhalten Politiker*innen erforderliche
+  Informationen für ihre Arbeit.
+
+
+  Interessierte Bewohner*innen der Region können über eine online
+  Schnittstelle beispielsweise Bebauungspläne einsehen, oder von
+  geplanten Änderungen im öffentlichen Nahverkehr erfahren -- theoretisch
+  zumindest. Praktisch gestaltet sich die Suche nach diesen Informationen
+  mitunter kompliziert: Suchen Menschen etwa nach Informationen
+  darüber, wo der nächste Radweg oder das nächste mietentreibende
+  Großprojekt gebaut wird, sind die entsprechenden Antworten in der
+  Regel nicht leicht aufzufinden.
+  
+
+  Wie eine solche Schnittstelle nutzer*innenfreundlich aussehen
+  kann, haben wir mit [Meine Stadt
+  Transparent](/projekte/meine-stadt-transparent/) vorgemacht.
+  Hier lassen sich die Dokumente der Ratsinformationssysteme
+  von Aachen, Bielefeld, Dresden, Köln, Krefeld, Lahr/Schwarzwald,
+  Landshut, Magdeburg, Moers, München, Münster, Oelde, Schwerin,
+  Ulm und Wuppertal mit Hilfe von Schlagworten durchsuchen.
+  
+
+  Um dass zu schaffen, mussten unsere Programmierer*innen allerdings
+  zunächst eine Hürde überwinden. Alle diese Städte nutzen
+  unterschiedliche Ratsinformationssysteme mit unterschiedlichen
+  Schnittstellen zum Abgreifen der gespeicherten Daten. Um eine
+  zentrale Plattform zu ermöglichen, veröffentlichten Ehrenamtliche
+  aus der Code for Germany Community im Jahr 2016 einen
+  Datenstandard: [OParl](https://oparl.org/), kurz für Offenes
+  Parlament. Mit diesem Datenstandard lassen sich die Daten in einem
+  festgelegten Format verarbeiten.
+  
+
+  Der Datenstandard OParl funktioniert einwandfrei: Firmen nutzen ihn
+  heute, um proprietäre Anwendungen zu schreiben, und internationale
+  Coder*innen verwenden ihn als Inspiration für eigene Standards. In
+  der deutschen Verwaltung ist OParl leider nicht flächendeckend
+  implementiert. Wer mehr lesen möchte: In einem Artikel haben wir
+  alles über [OParl und seine
+  Entstehungsgeschichte](https://netzpolitik.org/2022/open-data-wie-ein-datenstandard-die-digitale-verwaltung-oeffnen-kann/#netzpolitik-pw) zusammengefasst.

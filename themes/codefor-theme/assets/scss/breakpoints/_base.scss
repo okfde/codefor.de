@@ -1,26 +1,20 @@
 
 @font-face {
-  font-family: 'apercu-regular-pro';
-  src: url('/font/apercu-regular-pro.eot');
-  src: url('/font/apercu-regular-pro.eot?#iefix') format('embedded-opentype'),
-       url('/font/apercu-regular-pro.woff2') format('woff2'),
-       url('/font/apercu-regular-pro.woff') format('woff'),
-       url('/font/apercu-regular-pro.ttf') format('truetype');
+  font-family: 'Hanken Grotesk';
+  src: url('/font/hanken-grotesk-v8-latin-regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 #main{
-  padding-top: 50px;
+  padding-top: 1.5rem;
   margin-left: auto;
   margin-right: auto;
 }
 
 
-//---------------------------------------------------
-// font sizes
 body{
-  font-family: apercu-regular-pro;
+  font-family: 'Hanken Grotesk', sans-serif;
   font-size: $fontSizeBase;
 }
 
@@ -33,6 +27,7 @@ h3{
   margin-top: 20px;
 }
 
+// confusingly enough, this is used to attribute quotes in some blogposts
 footer{
   font-size: $fontSizeSmall !important;
   h3{
@@ -86,21 +81,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
   }
 }
 
-
-// underline text in md file
-.text-underline{
-  text-decoration: underline;
-}
-
 .no-underline{
   text-decoration: none !important;
 }
 a.no-underline:hover{
   text-decoration: underline !important;
-}
-
-.no-text-transform{
-  text-transform: none !important;
 }
 
 //---------------------------------------------------
@@ -131,61 +116,18 @@ a:active {
 }
 
 
-
-
-//---------------------------------------------------
-// headline brackets style
-.headline-brackets{
-  span:first-child{
-    font-size: $fontSizeH1 + 28px;
-    margin-top: 4px;
-  }
-  span:last-child{
-    font-size: $fontSizeH1 + 28px;
-    margin-top: 4px;
-  }
-  &.red{
-    span:first-child{
-      color: $codefor-red;
-    }
-    span:last-child{
-      color: $codefor-red;
-    }
-  }
-  &.blue{
-    span:first-child{
-      color:$codefor-blue;
-    }
-    span:last-child{
-      color:$codefor-blue;
-    }
-  }
-}
-
-
-
-
 //---------------------------------------------------
 // Icons
 
-// headline icon style
 .headline-icon{
   &.blue{
-    img{
-      filter: hue-rotate(226deg) brightness(1.4);
-    }
+    color: $codefor-blue;
   }
-  img{
+  &.red{
+    color: $codefor-red;
+  }
+  svg{
     width: 80px;
-    height: auto;
-  }
-}
-
-// more icon styles
-.lab-icon{
-  margin-top: -20px; //lab icons haben einen Rand den wir hier ausgleichen
-  img{
-    width: 140px; //wegen Rand größer als andere Icons
     height: auto;
   }
 }
@@ -253,66 +195,43 @@ a:active {
 
   &:hover {
     text-decoration: none;
-}
+  }
 }
 
 
-//---------------------------------------------------
-// footer
-footer{
-  .footbar{
-    h4{
-      text-transform: uppercase;
+.page-footer{
+  border-top: 1px solid lightgray;
+  margin-block-start: 5em;
+  padding-block: 2em;
+
+  .content {
+    padding-inline: 1em;
+    margin-inline: auto;
+    max-width: 1200px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(#{'min(300px, 100%)'}, 1fr));
+    gap: 20px;
+
+    .social {
+      list-style-type: none;
+      display: flex;
+      gap: .5em;
+      flex-direction: column;
+      padding: 0;
+
+      li {
+        display: flex;
+        align-items: center;
+        a {
+          text-decoration: none;
+        }
+        img {
+          height: 1.5rem;
+          margin-right: 1ch;
+        }
+      }
     }
   }
-  .footer-social-icon{
-    width: 30px;
-    margin-bottom: 13px;
-  }
-}
-
-
-
-
-//---------------------------------------------------
-// background colors
-
-.bg-codefor-mint{
-  background-color: $codefor-mint;
-}
-.bg-codefor-green{
-  background-color: $codefor-green;
-}
-.bg-codefor-red{
-  background-color: $codefor-red;
-}
-
-//---------------------------------------------------
-// home goals
-
-.goal-icon{
-  width: 150px;
-}
-
-//---------------------------------------------------
-// home 1-2-3
-.circle-123{
-  width: 45px;
-  height: 45px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #fff;
-  font-size: $fontSizeH3;
-}
-
-.circle-123-line{
-  position: absolute;
-  border-top: 1px solid #000;
-  width: calc(100% - 33%);
-  left: 16%;
-  top: 50%;
-  z-index: -1;
 }
 
 
@@ -338,14 +257,6 @@ footer{
     height: auto;
   }
 }
-
-// twiiter widget style
-.twitter-container{
-  border: 1px solid #000;
-  border-radius: 8px;
-}
-
-
 
 //---------------------------------------------------
 //style general accordion
@@ -387,46 +298,6 @@ footer{
     &[open] > summary  .open-close {
       transform: rotate(0deg);
     }
-  }
-}
-
-.participate-details > summary {
-  @extend h3;
-}
-
-.goals-accordion {
-  .goals-details {
-    border: 0 !important;
-    padding: 0;
-    margin-top:-1px;
-    &[open] {
-      background-color: $codefor-mint;
-      border: 1px solid #000;
-      & > .goals-summary {
-        border: 0;
-      }
-    }
-    .goals-summary {
-      transition: border 0.3s, background-color 0.3s, margin-top 0s;
-      border: 1px solid #000;
-      border-radius: 6px !important;
-      padding-top: 1.75rem;
-      padding-bottom: 1.75rem;
-      &:hover {
-        background-color: $codefor-mint;
-      }
-      .text {
-        text-align: left;
-        white-space: normal;
-        font-size: 18px;
-      }
-      .icon-text {
-        line-height: 1.1;
-      }
-    }
-  }
-  .details-content {
-    background-color: #fff;
   }
 }
 

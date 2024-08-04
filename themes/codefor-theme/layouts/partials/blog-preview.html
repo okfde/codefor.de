@@ -1,18 +1,16 @@
-<div class="col-24 col-md-12 mb-5 mb-md-6 project-preview-container">
-  <div class="project-preview">
-    <a class="text-dark" href="{{.Permalink}}">
+<div class="blog-card">
+  <a class="text-dark" href="{{.Permalink}}">
     {{ if isset .Params "images" }}
-      {{ with (index (slice .Params.images) 0) }}{{ with index . 0}}
-        <div class="project-preview-img lazyload" data-style="background-image: url('/blog/{{ .imgname }}')"></div>
-      {{end}}{{end}}
+    {{ with (index (slice .Params.images) 0) }}{{ with index . 0}}
+    <div class="project-preview-img lazyload" data-style="background-image: url('/blog/{{ .imgname }}')"></div>
+    {{end}}{{end}}
     {{ else if isset .Params "topic"}}
-      <div class="project-preview-img lazyload" data-style="background-image: url('/blog/header_images/{{ .Params.topic }}.png')"></div>
+    <div class="project-preview-img lazyload" data-style="background-image: url('/blog/header_images/{{ .Params.topic }}.png')"></div>
     {{ else }}
-      <div class="project-preview-img lazyload" data-style="background-image: url('/blog/header_images/default.png')"></div>
+    <div class="project-preview-img lazyload" data-style="background-image: url('/blog/header_images/default.png')"></div>
     {{ end }}
-    </a>
+  </a>
 
-    <small class="d-block mt-3 mb-2">{{ .Date.Format "02.01.2006" }}</small>
-    <a class="text-dark no-underline" href="{{.Permalink}}"><h3 class="my-0">{{.Title}}</h3></a>
-  </div>
+  <small class="d-block mt-3 mb-2">{{ .Date.Format "02.01.2006" }}</small>
+  <a class="text-dark no-underline" href="{{.Permalink}}"><h3 class="my-0">{{.Title}}</h3></a>
 </div>

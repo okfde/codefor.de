@@ -1,50 +1,19 @@
 {{ define "main" }}
 
-{{ .Content }}
+<div class="blog__container">
+    {{ .Content }}
 
-{{ $paginator := .Paginate (.Pages) 7 }}
+    {{ $paginator := .Paginate (.Pages) 8 }}
 
+    <div class="blog__posts">
+        {{ range $paginator.Pages }}
+        {{ partial "blog-preview.html" . }}
+        {{ end }}
+    </div>
 
-<div class="row justify-content-center mt-6">
-    <div class="col-24 col-md-22 col-lg-17">
-        <div class="row" id="blog-entries-container">
-
-            {{ range first 1 $paginator.Pages }}
-            {{ partial "blog-preview.html" . }}
-            {{ end }}
-
-            <!-- For Twitter we add the hidden class which will be removed in script below -->
-            {{if eq $paginator.PageNumber 1}}
-            <div class="col-24 col-md-12 mb-5 mb-md-7 project-preview-container twitter-container d-none">
-                <a class="twitter-timeline" data-height="100%"
-                    href="https://twitter.com/codeforde?ref_src=twsrc%5Etfw">Tweets by codeforde</a>
-                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-            </div>
-            {{end}}
-
-            {{ range after 1 $paginator.Pages }}
-            {{ partial "blog-preview.html" . }}
-            {{ end }}
-
-        </div>
-
-        <div class="d-flex justify-content-center mb-5 mb-lg-7">
-            {{ template "_internal/pagination.html" . }}
-        </div>
+    <div style="display: grid; justify-content: center; margin-top: 40px;">
+        {{ template "_internal/pagination.html" . }}
     </div>
 </div>
-
-<script>
-    document.addEventListener("DOMContentLoaded", function () {
-        setTimeout(checkTwitter, 3000); // execute twitter widget check after a delay
-    });
-
-    function checkTwitter() {
-        var widgetNode = document.querySelector("#twitter-widget-0");
-        if (widgetNode) {
-            widgetNode.parentNode.classList.remove("d-none");
-        }
-    }
-</script>
 
 {{ end }}
