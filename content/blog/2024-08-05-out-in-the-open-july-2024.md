@@ -12,76 +12,41 @@ type: blog
 ---
 
 ## Open Data
-Philip Heltweg listet in seinem [Blogbeitrag](https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/) all die Dinge, mit denen man die Nutzer von offenen Daten vergraulen kann. Eine noch umfangreichere [Sammlung solcher Anti-Patterns](https://github.com/transportkollektiv/opendata-antipatterns), also was man beim Veröffentlichen von Open Data alles falsch machen kann, gibt es bereits vom Transportkollektiv. Gleich das erste Anti-Pattern dort, ["Noch ein Datenportal erstellen"](https://github.com/transportkollektiv/opendata-antipatterns/blob/main/patterns/datenportal.md), wird nun "vorbildlich" von [Wiesbaden](https://www.wiesbaden.de/medien/rathausnachrichten/PM_Zielseite.php?showpm=true&amp;pmurl=https://www.wiesbaden.de/guiapplications/newsdesk/publications/Landeshauptstadt_Wiesbaden/141010100000468786.php) umgesetzt, das bis Anfang 2025 eine eigene Open-Data-Plattform einführen möchte. Wobei die damit ebenfalls verbundenen Entscheidung für "Open by Default" positiv zu sehen ist. 
+Philip Heltweg listet in seinem [Blogbeitrag](https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/) all die Dinge, mit denen man die Nutzer von offenen Daten vergraulen kann. Eine noch umfangreichere [Sammlung solcher Anti-Patterns](https://github.com/transportkollektiv/opendata-antipatterns), also was man beim Veröffentlichen von Open Data alles falsch machen kann, gibt es bereits vom Transportkollektiv. Gleich das erste Anti-Pattern dort, ["Noch ein Datenportal erstellen"](https://github.com/transportkollektiv/opendata-antipatterns/blob/main/patterns/datenportal.md), wird nun "vorbildlich" von [Wiesbaden](https://www.wiesbaden.de/medien/rathausnachrichten/PM_Zielseite.php?showpm=true&amp;pmurl=https://www.wiesbaden.de/guiapplications/newsdesk/publications/Landeshauptstadt_Wiesbaden/141010100000468786.php) umgesetzt, das bis Anfang 2025 eine eigene Open-Data-Plattform einführen möchte. Wobei die damit ebenfalls verbundenen Entscheidung für "Open by Default" positiv zu sehen ist.
 
-Auch das sich in Gründung befindende Dateninstitut entwickelt sich immer mehr zu einem Anti-Pattern. So findet beispielsweise eine Gemeinwohlorientierung im aktuellen Konzept keine Erwähnung mehr. Aline Blankertz und Henriette Litta [nennen in ihrer gemeinsamen Stellungnahme noch weitere Gründe](https://okfn.de/blog/2024/07/dateninstitut-wmde-okf/), warum sich sowohl die Wikimedia Deutschland als auch die Open Knowledge Foundation Deutschland gegen eine Beteiligung an dem Bewerbungsverfahren entschieden haben.
+Auch das zu gründende Dateninstitut entwickelt sich immer mehr zu einem Anti-Pattern. So findet beispielsweise eine Gemeinwohlorientierung im aktuellen Konzept keine Erwähnung mehr. Aline Blankertz und Henriette Litta [nennen in ihrer gemeinsamen Stellungnahme noch weitere Gründe](https://okfn.de/blog/2024/07/dateninstitut-wmde-okf/), warum sich sowohl die Wikimedia Deutschland als auch die Open Knowledge Foundation Deutschland gegen eine Beteiligung an dem Bewerbungsverfahren entschieden haben.
 
-Es gibt natürlich aber auch positive Patterns. [Die Checkliste](https://caltechlibrary.github.io/RDMworkbook/data-sharing.html#accessible-spreadsheets), die Kristin Briney [vorschlägt abzuarbeiten](http://dataabinitio.com/?p=1158), wenn man tabellarische Daten maschinenlesbar veröffentlicht, kann man als solche Patterns ansehen. 
+Es gibt natürlich aber auch positive Patterns. Die Einträge auf [der Checkliste](https://caltechlibrary.github.io/RDMworkbook/data-sharing.html#accessible-spreadsheets), die Kristin Briney [vorschlägt abzuarbeiten](http://dataabinitio.com/?p=1158), wenn man tabellarische Daten maschinenlesbar veröffentlicht, gehören dazu.
 
-* Förderrichtlinie Open Data
-  Schleswig-Holstein fördert kommunale Open Data Projekte zur Anbindung an das landesweite Portal.
-  https://infomedia.sh/2024/07/03/foerderrichtlinie-open-data/
-  via https://social.bund.de/@opendatabund/112750420933989776
-* seit zwei wochen sind brandneue #luftbilder von #berlin aus diesem jahr verfügbar - inkl. vergleich alter bilder seit 1928.
-  https://luftbilder.berlin.codefor.de/
-  https://github.com/codeforberlin/luftbilder.berlin.codefor.de/
-* Von offenen Daten und smarten Städten. Das große ODIS-Interview
-  https://citylab-berlin.org/de/blog/von-offenen-daten-und-smarten-staedten-das-grosse-odis-interview/
-* Mit dem internationalen Wettbewerb Coordinate Me gab es jetzt einen extra Boost: 3228 Teilnehmende & 129.102 bearbeitete Wikidata-Einträge! Darunter 15.261 komplett neu angelegte Items.
-  https://wikimedia.at/coordinate-me-freie-daten-im-wettbewerb/
-  via https://social.wikimedia.de/@wikimediaDE/112756424082779324
-* Unsere Zensusdatenbank mit ersten Daten zu Demografie, Gebäude + Wohnungen ist online! Hier könnt ihr Ergebnisse in Tabellen für Bund, Länder, Kreise, Gemeinden und Bezirke abrufen und mit anderen Merkmalen kombinieren:
-  https://ergebnisse.zensus2022.de/datenbank/online/
-  via https://social.bund.de/@destatis/112767071708913025
-* L'open data du sport et des Jeux Olympiques et Paralympiques
-  https://www.data.gouv.fr/fr/posts/lopen-data-du-sport-et-des-jeux-olympiques-et-paralympiques/
-  * WADA Anti-Doping Statistics
-    https://www.wada-ama.org/en/data-research/anti-doping-statistics
+Als weiteres Positivbeispiel ist die Schleswig-Holsteiner ["Förderrichtlinie Open Data"](https://infomedia.sh/2024/07/03/foerderrichtlinie-open-data/) zu nennen, über die kommunale Einrichtungen die Entwicklungsaufwände für die Anbindung ihrer IT-Anwendungen bzw. auch neuer Fachverfahren an das Open Data Portal des Landes sich finanzieren lassen können, mit dem Ziel, dass die Daten über Schnittstellen dieser Systeme an das OpenData-Portal automatisiert geliefert werden.
+
+In einer [Homestory](https://citylab-berlin.org/de/blog/von-offenen-daten-und-smarten-staedten-das-grosse-odis-interview/) gibt das Team der Open Data Informationstelle Berlin (ODIS) einen Einblick in seine Arbeit, also z.B. Beratungen, Workshops und Schulungen für Verwaltungsmitarbeitende zur Vorbereitung von Datenveröffentlichung. Auch das Erstellen eigener Visualisierungen, Fallstudien und Anwendungen gehört zu ihren Aufgaben. Mit ihnen lassen sich die Potenziale offener Daten demonstrieren, aber auch Hürden auf Grund fehlender Daten bzw. nicht ausreichend qualitativer Daten identifizieren.
+
+Die [Zensusdatenbank](https://ergebnisse.zensus2022.de/datenbank/online/) mit ersten Daten zu Demografie, Gebäuden und Wohnungen wurde vom Statistischen Bundesamt [online genommen](https://social.bund.de/@destatis/112767071708913025). Mit ihr kann man Ergebnisse in Tabellen für Bund, Länder, Kreise, Gemeinden und Bezirke abrufen und mit anderen Merkmalen kombinieren.
 
 ## Open Data Tools
-* Wir haben soeben DCAT-AP.de 3.0 im Entwurf veröffentlicht.
-  https://www.dcat-ap.de/def/dcatde/3.0/spec/
-  https://gitlab.opencode.de/fitko/govdata/dcat-ap.de/-/issues
-  via https://social.bund.de/@opendata/112773725117071830
-* SPARQL Anything is an open source tool that lets you use SPARQL to query data in a long list of popular formats: XML, JSON, CSV, HTML, Excel, Text, Binary, EXIF, File System, Zip/Tar, Markdown, YAML, Bibtex, DOCx, and PPTx.
-  https://www.bobdc.com/blog/sparqlanything/
-* Use Datasette-Lite to share a CSV file as a searchable, online database
-  https://glam-workbench.net/glam-tools/datasette/
-  https://glam-workbench.net/
-  via https://hcommons.social/@wragge/112807814238076888
+Nachdem letzten Monat der Open-Data-Katalog-Standard [DCAT-AP](https://semiceu.github.io/DCAT-AP/releases/3.0.0/) auf europäischer Ebene in der Version 3.0 freigegeben wurde, hat der deutsche Ableger [DCAT-AP.de](https://www.dcat-ap.de/def/dcatde/3.0/spec/) [nachgezogen](https://social.bund.de/@opendata/112773725117071830). Der Entwurf kann [hier](https://gitlab.opencode.de/fitko/govdata/dcat-ap.de/-/issues) noch kommentiert werden.
+
+Bob DuCharme stellt [SPARQL Anything](https://www.bobdc.com/blog/sparqlanything/) vor, ein Open-Source-Werkzeug, mit dem man mit der Abfragesprache SPARQL Inhalte nicht nur aus RDF-Formaten sondern auch aus XML, JSON, CSV, HTML, Excel, Text, Binär, EXIF, Datensystem, Zip/Tar, Markdown, YAML, Bibtex, DOCx und PPTx extrahieren kann (in dem es diese Formate unter der Haube nach RDF konvertiert).
 
 ## Geodaten / Karten
-* Gibt es eine Möglichkeit Änderungen in der #OpenStreetMap vorher/nachher zu vergleichen?
-  * https://overpass-api.de/achavi/
-  * https://osmcha.org/
-  * https://osmlab.github.io/osm-deep-history/
-  via https://chaos.social/@schenklklopfer/112732976854803585
-* Hab gerade dieses coole Spiel gefunden, das auf OSM-Daten basiert. Man gibt einen Ort an, an dem man sich gut auskennt und muss dann in einem Umkreis von 2km auf einer unbeschrifteten Karte Straßennamen bestimmen: https://backofyourhand.com
-via https://chaos.social/@bodems/112740666259947428
-* VCÖ CHECK: Problemstellen beim Gehen
-Mehr schattenspendende Bäume entlang von Gehsteigen, Schutz vor Sonne auch bei Fußgängerampeln, die Wartezeiten verkürzen. Bevölkerung ist aufgerufen, #Hitze-Hotspots für Fußgänger:innen in Online-Karte einzutragen
-  https://map.vcoe.at/gehen/
-  via https://wien.rocks/@vcoe_mobilitaet_mit_zukunft/112762057144103761
-* Flächengerechtigkeit: How much space do car parks actually take up compared to playgrounds and green spaces? I made a tool that allows you to explore and compare these public spaces in Berlin.
-  https://www.hanshack.com/parking/
-  via https://troet.cafe/@hanshack/112766511080545141
-  * passend dazu: 
-    * Senatsverwaltung veröffentlicht erstmalige Kartierung sämtlicher öffentlicher Parkplätze an Straßen im Innenstadtbereich
-    https://viz.berlin.de/aktuelle-meldungen/kartierung-samtlicher-offentlicher-parkplatze-im-innenstadtbereich/
-    * Parkraumkartierung
-      https://viz.berlin.de/verkehr-in-berlin/parken/parkraumkartierung/
-* Die #Verwaltungsgebiete 1:250.000 mit #Einwohnerzahlen (VG250-EW) wurden aktualisiert und stehen kostenfrei in unserem #OpenData-Bereich bereit. #Geodaten #Grenzen
-  https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2024/240617_VG250EW.html
-* Let’s make contour maps
-  https://www.letsmakeamap.com/blog/lets-make-contour-maps
-* 3D-Stadtmodelle Zürich
-  https://www.stadt-zuerich.ch/3d-stadtmodelle
-* Denkmal 4D Köln: Metadaten über die Denkmäler der Stadt Köln pflegen
-  Ziel ist eine möglichst vollständige Erfassung aller Denkmäler als 3D Modelle
-  https://codefor.de/projekte/cologne-denkmal4d/
-* Crowdsourcing-Plattform Wheelmap
-  Treppen, Rampen, Aufzüge: Seit 14 Jahren kartieren Ak­ti­vis­t:in­nen, welche Orte in der Stadt rollstuhlgerecht sind. Nun wird das Projekt erweitert.
-  https://taz.de/Crowdsourcing-Plattform-Wheelmap/!6024119/
+Dass man die Pflege und die Neuanlage von offenen Daten gezielt fördern kann, hat der internationale Wettbewerb ["Coordinate Me"](https://www.wikidata.org/wiki/Wikidata:Events/Coordinate_Me_2024/de) gezeigt. Anliegen des Wettbewerbs, der von Anfang bis Ende Mai 2024 lief, war es, die Wikidata-Einträgen innerhalb von 16 Fokusländern, die Geodaten aufweisen, zu verbessern. Wie [Wikimedia Österreich berichtet](https://wikimedia.at/coordinate-me-freie-daten-im-wettbewerb/), dass von den 3228 Teilnehmenden 129.102 Wikidata-Einträge bearbeitet worden sind, davon 15.261 komplett neu angelegt.
+
+Die Mobilitätsorganisation VCÖ [ruft die Bevölkerung in Österreich dazu auf](https://vorarlberg.orf.at/stories/3264418/), Hitze-Hotspots in ihre [Online-Karte VCÖ CHECK](https://map.vcoe.at/gehen/) einzutragen. Mit dieser Aktion sollen Gemeinden motiviert werden, mehr Bäume auf Großparkplätzen und entlang Straßen zu pflanzen, um Menschen in Autos aber auch auf Gehwege vor der prallen Sonne zu schützen.
+
+Dass das auch eine Frage der Flächengerechtigkeit ist, zeigt die [Anwendung von Hans Hack](https://www.hanshack.com/parking/). In ihr lassen sich für einen gewählten Kartenausschnitt in Berlin die Anteile von Parkplätzen, Spielplätzen und Grünanlagen [berechnen](https://troet.cafe/@hanshack/112766511080545141). Grundlage bilden die gleichen Daten, die die Senatsverwaltung für Mobilität nun auch selbst als [Kartierung](https://viz.berlin.de/verkehr-in-berlin/parken/parkraumkartierung/) sämtlicher öffentlicher Straßenparkplätze im Innenstadtbereich [bereitstellt](https://viz.berlin.de/aktuelle-meldungen/kartierung-samtlicher-offentlicher-parkplatze-im-innenstadtbereich/).
+
+Um eine anderen Aspekt von Gerechtigkeit geht es dem Projekt [Wheelmap](https://wheelmap.org/) zurück. Seit nunmehr 14 Jahren kartieren Ak­ti­vis­t:in­nen, welche Orte (durch z.B. Treppen, Rampen, Aufzüge) in der Stadt rollstuhlgerecht sind (oder gerade eben nicht). Nun soll im Rahmen des bürgerwissenschaftlichen Projekts [IncluScience](https://incluscience.org) die App [für weitere Nutzergruppen erschlossen werden](https://taz.de/Crowdsourcing-Plattform-Wheelmap/!6024119/).
+
+Für alle angehenden Taxifahrer und alle, die ihre Straßenverortungsfähigkeiten auf die Probe stellen möchten, ist das auf OSM-Daten basierende Spiel ["Back of your Hand"](https://backofyourhand.com/) [der richtige Zeitvertreib](https://chaos.social/@bodems/112740666259947428). Ein ähnliches Prinzip also wie bei [Click that 'hood'](https://click-that-hood.com/), nur mit Straßen statt Stadtbezirken.
+
+Auf Mastodon hat ein Nutzer nach [Möglichkeiten gesucht](https://chaos.social/@schenklklopfer/112732976854803585), alte Stände in OpenStreetMap miteinander visuell vergleichen zu können. Empfohlen wurden ihm [achavi](https://overpass-api.de/achavi/), [OSMCha](https://osmcha.org/) und [OSM Deep History](https://osmlab.github.io/osm-deep-history/).
+
+In der Anwendung [Luftbilder Berlin](https://luftbilder.berlin.codefor.de/) des OKLabs Berlin sind nun die brandneuen Luftaufnahmen aus dem Geoportal Berlin vom laufenden Jahr integriert. Diese lassen sich nun interaktiv mit alten Bildern seit 1928 vergleichen.
+
+Schon 2022 hat die Stadt Zürich [3D-Stadt-Modelle](https://www.stadt-zuerich.ch/3d-stadtmodelle) der Pfahlbauten des Neolithikums (um 3000 v. Chr.) sowie die neuzeitliche Stadt um das Jahr 1800 veröffentlicht. Seit 11. Juli gibt es einen weiteren Datensatz der das spätmittelalterliche Zürich um 1500 zeigt.
+
+Eine möglichst vollständige Erfassung aller Kölner Denkmäler als 3D Modelle möchte das Projekt [Denkmal 4D Köln](https://codefor.de/projekte/cologne-denkmal4d/) des OKLab Kölns erreichen. Auf der [Online-Karte](https://codeforcologne.github.io/Denkmal-4D-Koeln/) werden daher nicht nur alle bereits erfassten 3D-Modelle verortet, sondern auch gezielt dazu aufgerufen, fehlende (Meta-)Daten beizusteuern.
 
 ## Mobilität
 * Cities moving
@@ -350,7 +315,7 @@ https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
     https://app.voto.vote/app/16370900
   * Sozial-o-Mat
     https://thueringen.sozial-o-mat.de
-* Landtagswahlen Brandenburg  
+* Landtagswahlen Brandenburg
   * OSB Alliance Wahlprüfsteine für die Landtagswahl in Brandenburg 2024
     https://osb-alliance.de/featured/wahlpruefsteine-brandenburg-landtagswahl-2024
 * KI-basierte Lösung Wahlweise
@@ -379,7 +344,7 @@ https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
   https://www.civic-coding.de/angebote/meldungen/ki-und-desinformation
 
 ## Veranstaltungen
-* Jugend hack Events im August
+* Jugend hackt Events im August
   * https://okfn.de/blog/2024/08/sommer-bei-jugend-hackt-ein-buntes-programm-f%C3%BCr-junge-hackerinnen/
 * Mittwoch, 07.08.2024, 20:00, online: **Tom Erik Støwer: NPlan, a simple, open source schedule editor to create NeTEx**
   * https://github.com/transportkollektiv/meetup/wiki#welcome-to-the-german-open-transport-meetup-wiki
@@ -399,8 +364,12 @@ https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
   * https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/das-kommunale-open-data-netzwerktreffen#c234826
 * Donnerstag, 22.08.2024, 10:00-11:00, online: **Mit Prototyping zu mehr Digitaler Souveränität: Aktuelle Open-Data- und Open-Source-Projekte aus Berlin**
   * https://zendis.usercontent.opencode.de/opencode-events/zendisopen/
+* Donnerstag, 22.08, 10:00–11:00, online: **Informationsveranstaltung Förderrichtlinie Open Data Schleswig-Holstein**
+  * https://veranstaltungen.dataport.de/infoveranstaltung/sh/foerderrichtlinie-open-data
 * Dienstag, 27.08.2024, 12:00-12:30, online: **CDL - Espresso Talk: Geoinformationen für Humanitäre Hilfe**
   * https://www.correlaid.org/veranstaltungen/cdl-espressotalk-geodaten/
+* Mittwoch, 28.08, 10:00–11:00, online: **Informationsveranstaltung Förderrichtlinie Open Data Schleswig-Holstein**
+  * https://veranstaltungen.dataport.de/infoveranstaltung/sh/foerderrichtlinie-open-data
 * Dienstag, 03.09.2024, 11:00-17:30, bUm, Paul-Lincke-Ufer 21, 10999 Berlin: **Prototype Fund: Demo Day der Förderrunde 15**
   * https://prototypefund.de/demo-day/#Programm
 * Donnerstag, 05.09.2024, Potsdam: **Barcamp Open Science**
@@ -410,6 +379,10 @@ https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
 * Freitag, 06.09.2024, bis Samstag, 07.09.2024, Pilatusstrasse 21 / Sempacherstrasse 10, Luzern: **Swiss Open Cultural Data Hackathon "GLAMhack24"**
   * https://www.infoclio.ch/fr/glamhack24-anniversary-edition-last-call-participate
   * https://opendata.hitobito.com/de/groups/5/public_events/10
+* Freitag, 06.09, 09:00–10:00, online: **Informationsveranstaltung Förderrichtlinie Open Data Schleswig-Holstein**
+  * https://veranstaltungen.dataport.de/infoveranstaltung/sh/foerderrichtlinie-open-data
+* Montag, 09.09, 14:00–15:00, online: **Informationsveranstaltung Förderrichtlinie Open Data Schleswig-Holstein**
+  * https://veranstaltungen.dataport.de/infoveranstaltung/sh/foerderrichtlinie-open-data
 * Freitag, 13.09.2024, 10:00-19:00, Alte Münze, Molkenmarkt 2, Berlin: **Netzpolitik-Konferenz "Bildet Netze!"**
   * https://netzpolitik.org/2024/bildet-netze-jetzt-fuer-konferenz-am-13-september-anmelden/
 * Dienstag, 17.09.2024, bis Mittwoch, 18.09.2024, Jakob-Welder-Weg 28, Mainz: **3. Open Science Festival**
