@@ -69,42 +69,22 @@ Ein ähnliche Anwendung, die aber bundesweit funktioniert, ist [gefahrenstellen.
 Wie man Daten-basiert effektiv die Fahrradwege-Infrastruktur verbessern kann, zeigt Mark Stosberg in [seinem Blogbeitrag](https://mark.stosberg.com/bike-network-connectivity-rank/).
 
 ## Wirtschaft
-* "Cheapflation" trifft die Schwachen
-  https://www.n-tv.de/wirtschaft/Cheapflation-trifft-die-Schwachen-article25084108.html
-* The Billion Prices Project - It is no longer active, but its initiatives continue through PriceStats (inflation measurement) and the HBS Pricing Lab (academic research)
-  https://thebillionpricesproject.com
-* Vermögensregister geplant - EU will umfassende Datenbank zum Vermögen aller Bürger aufbauen - was dahinter steckt
-  https://www.msn.com/de-de/finanzen/top-stories/verm%C3%B6gensregister-geplant-eu-will-umfassende-datenbank-zum-verm%C3%B6gen-aller-b%C3%BCrger-aufbauen-was-dahinter-steckt/ar-BB1qqq1a
-* Empirica Immobilienpreis-Index
-  https://www.empirica-regio.de
-* Open Supply Hub
-  https://opensupplyhub.org/
+Wie [ntv informiert](https://www.n-tv.de/wirtschaft/Cheapflation-trifft-die-Schwachen-article25084108.html), haben Wissenschaftle mehr als zwei Millionen Preisdaten des ["Billion Prices Project"](https://thebillionpricesproject.com) von mehr als 90 Einzelhandelsketten in 19 Ländern ausgewertetet. Danach sind im Zeitraum zwischen Januar 2020 und Mai 2024 vor allem die Preise der günstigsten Lebensmittelmarken (also meist die Eigenmarken der Supermärkte und Discounter selbst) deutlich schneller gestiegen, in Deutschland um 29 Prozent. Diese "Cheapflation" trifft somit vor allem die Schwachen, die so schon teure Markenprodukte gemieden haben. Als Gründe für die stärkere Teuerung werden die gestiegene Nachfrage, der geringer Puffer bei der Marge und der größere Anteil der gestiegenen Energie- und Rohstoffepreise am Gesamtpreis genannt.
+
+Mit [OpenSupplyHub.org](https://opensupplyhub.org/) lassen sich weltweite Lieferketten-Daten nachvollziehen.
+
+Die EU [plant mit dem Vermögensregister](https://www.msn.com/de-de/finanzen/top-stories/verm%C3%B6gensregister-geplant-eu-will-umfassende-datenbank-zum-verm%C3%B6gen-aller-b%C3%BCrger-aufbauen-was-dahinter-steckt/ar-BB1qqq1a) eine umfassende Datenbank zum Vermögen aller Bürger aufzubauen, um so Geldwäsche und Terrorismusfinanzierung besser bekämpfen zu können.
 
 ## Klima
-* am 1. Juli trat das Klimaanpassungsgesetz in Kraft
-  Das heißt: Die Klimaanpassungsstrategien und die integrierte Klimaanpassung sollen auf einer soliden Datengrundlage basieren. Da sind vor allem die Klimarisikoanalysen zu nennen, die vom Bund und von den Ländern erstellt werden müssen.
-  Mit der "Klimawirkungs- und Risikoanalyse" des UBA ist ein solches Instrument auf Bundesebene bereits eingerichtet. Daneben soll ein Monitoringbericht die Folgen des Klimawandels und den Stand der Klimaanpassungsstrategie im Vier-Jahres-Rhythmus abbilden. Die Veröffentlichung der Informationen ermöglicht zudem eine Kontrolle durch die Öffentlichkeit."
-  https://www.zdf.de/nachrichten/politik/deutschland/klimaanpassungsgesetz-juli-massnahmen-100.html
-* Teil des neuen Online-Magazin "Neue Zukunft", mit Inhalten über die Klima(gerechtigkeits)bewegung in Österreich, der Schweiz und Deutschland, ist auch ein interaktives Datentool, das die Klimaberichterstattung in überregionalen Medien beobachtet
-  https://newsmonitor.neuezukunft.info
-  https://github.com/neue-zukunft/newsmonitor
-  via https://mastodon.social/@lorz/112716624405169219
-* The new Climate Data Store Beta (CDS-Beta) is now live
-  https://forum.ecmwf.int/t/the-new-climate-data-store-beta-cds-beta-is-now-live/3315
-  https://cds-beta.climate.copernicus.eu
-* MVP Umweltinfo - Die Suchmaschine für Umwelt- & Naturschutz-Wissen
-  https://mvp.umwelt.info/de/artikel/ueber-die-anbindung-von-daten
-  https://mvp.umwelt.info/de
-  * Grundwassermessstellen in Deutschland: 
-    https://mvp.umwelt.info/de/artikel/karte_grundwasser
-  * Terminumfrage: https://terminplaner6.dfn.de/de/p/a53d65c84718886e2c1525a335f18571-825262
-* Backup
-  * Corporate Digital Responsibility (CDR) – Strategien für digitale Nachhaltigkeit im Unternehmen
-    https://reset.org/corporate-digital-responsibility-cdr-digitale-nachhaltigkeit-unternehmen/
-    https://cdr-initiative.de/kodex
-    https://cdr-initiative.de/cdr-berichte
-    https://cdr-initiative.de/news/digitaler-datenputz-2024
-	--> auch Datenputz bei Offenen Daten? (statt Sammelwut?)
+Am 1. Juli ist das Klimaanpassungsgesetz [in Kraft getreten](https://www.zdf.de/nachrichten/politik/deutschland/klimaanpassungsgesetz-juli-massnahmen-100.html). Es verpflichtet unter anderem Bund und Länder dazu, Klimarisikoanalysen zu erstellen. Mit der ["Klimawirkungs- und Risikoanalyse"](https://www.umweltbundesamt.de/publikationen/KWRA-Zusammenfassung) des Umweltbundesamts (UBA) gibt es ein solches Instrument bereits auf Bundesebene. Zudem soll alle vier Jahre ein Monitoringbericht auf einer soliden Datengrundlage die Folgen des Klimawandels und den Stand der Klimaanpassungsstrategie bilanzieren und so auch eine Kontrolle durch die Öffentlichkeit ermöglichen.
+
+Ebenfalls vom UBA bzw. konkret vom Nationalen Zentrum für Umwelt- und Naturschutzinformationen in Merseburg stammt die [Suchmaschine für Umwelt- & Naturschutz-Wissen](https://mvp.umwelt.info/de). Wie in der [zugehörigen Mitteilung](https://mvp.umwelt.info/de/artikel/ueber-die-anbindung-von-daten) zu entnehmen ist, umfasst die erste Ausbaustufe des umwelt.info Portals zunächst 100 Datenquellen. Bis Herbst 2025 sollen dann bis 300 Quellen angebunden sein. Der Quellcode des Portals liegt bei [OpenCoDE](https://gitlab.opencode.de/umwelt-info). Es gibt eine [aktuelle Terminabfrage](https://terminplaner6.dfn.de/de/p/a53d65c84718886e2c1525a335f18571-825262), um sich das Portal näher vorstellen zu lassen und auch schon erstes Feedback, Verbesserungs- und Erweiterungswünsche zu formulieren. Mit der [Karte zu allen Grundwassermessstellen in Deutschland](https://mvp.umwelt.info/de/artikel/karte_grundwasser) gibt es einen ersten redaktionell aufbereiteten Anwendungsfall.
+
+Auch noch Beta ist der [Relaunch](https://forum.ecmwf.int/t/the-new-climate-data-store-beta-cds-beta-is-now-live/3315) vom [Climate Data Store](https://cds-beta.climate.copernicus.eu) vom europäischen Copernicus Programm. Die Daten sind weiterhin alle Open Data.
+
+Zum neuen Online-Magazin "Neue Zukunft", das über aktuelle Entwicklungen in den Klimabewegungen in der D-A-CH-Region berichtet, gehört auch ein [interaktives Datentool](https://newsmonitor.neuezukunft.info) (welches auch [Open Source ist](https://github.com/neue-zukunft/newsmonitor)), das die Klimaberichterstattung in überregionalen Medien beobachtet.
+
+Auch wenn schon der Corporate Social Responsiblity (CSR) ein marketinglastiger White-Washing-Verdacht anhing, gibt es nun mit [Corporate Digital Responsibility (CDR)](https://cdr-initiative.de/) auch Pendant für die freiwillige Selbstverpflichtung zur digitalen Nachhaltigkeit im Unternehmens-Kontext, wie [Reset in einem Artikel vorstellt](https://reset.org/corporate-digital-responsibility-cdr-digitale-nachhaltigkeit-unternehmen/). [Kodex](https://cdr-initiative.de/kodex) und [Berichte](https://cdr-initiative.de/cdr-berichte) mögen nett klingen, und generelles , aber schon Initiativen wie die [zum Digitalen Datenputz](https://cdr-initiative.de/news/digitaler-datenputz-2024) wirken lächerlich und verlogen, in Anbetracht dessen, wo an anderer Stelle systematisch weiterhin Energie, Wasser und andere Ressourcen verschwendet werden (mehr Rechenzentren werden gebaut, Massendatenspeicherung und -verarbeitung für KI-Training). Ähnlich wie beim CO2-Fußabdruck werden Maßnahmen individualisiert und für Seht-wir-machen-doch-was-fürs-Klima-Marketing-Berichte ausgeschlachtet. Reines Green-Washing, nur um verbindlicheren rechtlichen Vorgaben vorzubeugen.
 
 ## Energie
 * Rekord: 58 Prozent des Stroms aus erneuerbaren Energien
