@@ -11,6 +11,132 @@ og_image: out-in-the-open-2024-07-header.jpg
 type: blog
 ---
 
+## Open Data
+* How to Make Sure No One Cares About Your Open Data
+  Anti-Patterns für offene Daten
+  https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/
+* Making Spreadsheets Accessible and Reusable
+  http://dataabinitio.com/?p=1158
+  https://caltechlibrary.github.io/RDMworkbook/data-sharing.html#accessible-spreadsheets
+  via https://glammr.us/@briney/112751899750339692
+* Förderrichtlinie Open Data
+  Schleswig-Holstein fördert kommunale Open Data Projekte zur Anbindung an das landesweite Portal.
+  https://infomedia.sh/2024/07/03/foerderrichtlinie-open-data/
+  via https://social.bund.de/@opendatabund/112750420933989776
+* seit zwei wochen sind brandneue #luftbilder von #berlin aus diesem jahr verfügbar - inkl. vergleich alter bilder seit 1928.
+  https://luftbilder.berlin.codefor.de/
+  https://github.com/codeforberlin/luftbilder.berlin.codefor.de/
+* Mit dem internationalen Wettbewerb Coordinate Me gab es jetzt einen extra Boost: 3228 Teilnehmende & 129.102 bearbeitete Wikidata-Einträge! Darunter 15.261 komplett neu angelegte Items.
+  https://wikimedia.at/coordinate-me-freie-daten-im-wettbewerb/
+  via https://social.wikimedia.de/@wikimediaDE/112756424082779324
+* Die Landeshauptstadt Wiesbaden setzt einen weiteren bedeutenden Schritt zur Förderung offener Daten mit der Einführung einer eigenen „Open Data“-Plattform bis Anfang 2025. Dieser Schritt geht Hand in Hand mit der Prinzipienentscheidung "Open by Default" und der Verabschiedung einer umfassenden „Open Data“-Strategie.
+  https://www.wiesbaden.de/medien/rathausnachrichten/PM_Zielseite.php?showpm=true&amp;pmurl=https://www.wiesbaden.de/guiapplications/newsdesk/publications/Landeshauptstadt_Wiesbaden/141010100000468786.php
+* Unsere Zensusdatenbank mit ersten Daten zu Demografie, Gebäude + Wohnungen ist online! Hier könnt ihr Ergebnisse in Tabellen für Bund, Länder, Kreise, Gemeinden und Bezirke abrufen und mit anderen Merkmalen kombinieren:
+  https://ergebnisse.zensus2022.de/datenbank/online/
+  via https://social.bund.de/@destatis/112767071708913025
+* L'open data du sport et des Jeux Olympiques et Paralympiques
+  https://www.data.gouv.fr/fr/posts/lopen-data-du-sport-et-des-jeux-olympiques-et-paralympiques/
+  * WADA Anti-Doping Statistics
+    https://www.wada-ama.org/en/data-research/anti-doping-statistics
+* Von offenen Daten und smarten Städten. Das große ODIS-Interview
+  https://citylab-berlin.org/de/blog/von-offenen-daten-und-smarten-staedten-das-grosse-odis-interview/
+* Teilnehmerfrust beim Dateninstitut
+  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/teilnehmerfrust-beim-dateninstitut
+* Das Dateninstitut kommt. Die Gemeinwohlorientierung bleibt fraglich
+  https://okfn.de/blog/2024/07/dateninstitut-wmde-okf/
+
+## Open Data Tools
+* Wir haben soeben DCAT-AP.de 3.0 im Entwurf veröffentlicht.
+  https://www.dcat-ap.de/def/dcatde/3.0/spec/
+  https://gitlab.opencode.de/fitko/govdata/dcat-ap.de/-/issues
+  via https://social.bund.de/@opendata/112773725117071830
+* SPARQL Anything is an open source tool that lets you use SPARQL to query data in a long list of popular formats: XML, JSON, CSV, HTML, Excel, Text, Binary, EXIF, File System, Zip/Tar, Markdown, YAML, Bibtex, DOCx, and PPTx.
+  https://www.bobdc.com/blog/sparqlanything/
+* Use Datasette-Lite to share a CSV file as a searchable, online database
+  https://glam-workbench.net/glam-tools/datasette/
+  https://glam-workbench.net/
+  via https://hcommons.social/@wragge/112807814238076888
+
+## Geodaten / Karten
+* Gibt es eine Möglichkeit Änderungen in der #OpenStreetMap vorher/nachher zu vergleichen?
+  * https://overpass-api.de/achavi/
+  * https://osmcha.org/
+  * https://osmlab.github.io/osm-deep-history/
+  via https://chaos.social/@schenklklopfer/112732976854803585
+* Hab gerade dieses coole Spiel gefunden, das auf OSM-Daten basiert. Man gibt einen Ort an, an dem man sich gut auskennt und muss dann in einem Umkreis von 2km auf einer unbeschrifteten Karte Straßennamen bestimmen: https://backofyourhand.com
+via https://chaos.social/@bodems/112740666259947428
+* VCÖ CHECK: Problemstellen beim Gehen
+Mehr schattenspendende Bäume entlang von Gehsteigen, Schutz vor Sonne auch bei Fußgängerampeln, die Wartezeiten verkürzen. Bevölkerung ist aufgerufen, #Hitze-Hotspots für Fußgänger:innen in Online-Karte einzutragen
+  https://map.vcoe.at/gehen/
+  via https://wien.rocks/@vcoe_mobilitaet_mit_zukunft/112762057144103761
+* Flächengerechtigkeit: How much space do car parks actually take up compared to playgrounds and green spaces? I made a tool that allows you to explore and compare these public spaces in Berlin.
+  https://www.hanshack.com/parking/
+  via https://troet.cafe/@hanshack/112766511080545141
+  * passend dazu: 
+    * Senatsverwaltung veröffentlicht erstmalige Kartierung sämtlicher öffentlicher Parkplätze an Straßen im Innenstadtbereich
+    https://viz.berlin.de/aktuelle-meldungen/kartierung-samtlicher-offentlicher-parkplatze-im-innenstadtbereich/
+    * Parkraumkartierung
+      https://viz.berlin.de/verkehr-in-berlin/parken/parkraumkartierung/
+* Die #Verwaltungsgebiete 1:250.000 mit #Einwohnerzahlen (VG250-EW) wurden aktualisiert und stehen kostenfrei in unserem #OpenData-Bereich bereit. #Geodaten #Grenzen
+  https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2024/240617_VG250EW.html
+* Let’s make contour maps
+  https://www.letsmakeamap.com/blog/lets-make-contour-maps
+* 3D-Stadtmodelle Zürich
+  https://www.stadt-zuerich.ch/3d-stadtmodelle
+* Denkmal 4D Köln: Metadaten über die Denkmäler der Stadt Köln pflegen
+  Ziel ist eine möglichst vollständige Erfassung aller Denkmäler als 3D Modelle
+  https://codefor.de/projekte/cologne-denkmal4d/
+* Crowdsourcing-Plattform Wheelmap
+  Treppen, Rampen, Aufzüge: Seit 14 Jahren kartieren Ak­ti­vis­t:in­nen, welche Orte in der Stadt rollstuhlgerecht sind. Nun wird das Projekt erweitert.
+  https://taz.de/Crowdsourcing-Plattform-Wheelmap/!6024119/
+
+## Mobilität
+* Cities moving
+  With the model share data for 877 cities across over 61 countries, the visualizations below allow to compare the proportion of journeys to work in different countries, regions, income groups, and population sizes. In the end, it also allows to explore all the cities on the map.
+  https://vis.csh.ac.at/citiesmoving/
+  via https://social.coop/users/ZaneSelvans/statuses/112709320991373239
+* strecken.info und DB LiveMaps basieren auf einer interaktiven, webbasierten Karte des Schienennetz der DB InfraGO AG. strecken.info ist öffentlich zugänglich und bildet Baueinschränkungen, Störungen und Streckenruhen ab.
+  Die neue Version läuft jetzt flüssiger.
+  https://strecken-info.de
+* Flüge über Plattformen zu buchen ist leicht. Für Bahnreisen gibt es keine vergleichbaren Möglichkeiten – würde aber deren Attraktivität steigern und die nachhaltige Fortbewegung voranbringen
+  https://reset.org/warum-haben-wir-keinen-skyscanner-fuer-zuege/
+* Note to the new EU Transport Commissioner: fixing cross border rail ticketing will help millions of Europeans, and can secure your legacy
+  https://jonworth.eu/note-to-the-new-eu-transport-commissioner-fixing-cross-border-rail-ticketing-will-help-millions-of-europeans-and-can-secure-your-legacy/
+* Initiative zu Leichteren Zugang zu Busabfahrtsplänen in Europa
+  https://www.busliveinfo.eu
+  * zugehörige Petition: Echtzeit-Informationen an Bushaltestellen in der EU
+    https://eci.ec.europa.eu/039/public/#/screen/home
+* Calculating Connectivity Rank for Bike Network Planning
+  https://mark.stosberg.com/bike-network-connectivity-rank/?ref=mastodon
+* Enhancing school safety with openrouteservice: the digital school route planner
+  https://heigit.org/enhancing-school-safety-with-openrouteservice-the-digital-school-route-planner/
+* Die StZN hat gemeinsam mit der Rechercheplattform CORRECTIV eine Crowdaktion für sichere Schulwege gestartet. Bis in den Herbst können Eltern (und andere Interessierte 😉) per simplem Online-Tool Gefahrenstellen rund um Schulen melden.
+  https://achtungschulweg.crowdnewsroom.org/callouts/schulweg-stuttgart/map
+  via https://verkehrswende.social/@KidicalMass_S/112835827269387568
+* Unfalldaten
+  * Verkehrunfall-Daten für 2023 veröffentlicht
+    https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/07/PD24_261_46241.html
+  * Unfallatlas
+    https://unfallatlas.statistikportal.de
+  * Mitfahrzentrale Heatview (Rad-)Unfälle aktualisiert
+    https://chaos.social/@mfdz/112806484663218499
+* Mobility Data Space der Bundesregierung – so kommen wir nicht weiter
+  https://d-64.org/mobility-data-space-der-bundesregierung-so-kommen-wir-nicht-weiter/
+* The Mobility Database: Currently serving data from over 2000 GTFS feeds in 70 countries.
+  https://mobilitydatabase.org
+
+## Wirtschaft
+* "Cheapflation" trifft die Schwachen
+  https://www.n-tv.de/wirtschaft/Cheapflation-trifft-die-Schwachen-article25084108.html
+* The Billion Prices Project - It is no longer active, but its initiatives continue through PriceStats (inflation measurement) and the HBS Pricing Lab (academic research)
+  https://thebillionpricesproject.com
+* Vermögensregister geplant - EU will umfassende Datenbank zum Vermögen aller Bürger aufbauen - was dahinter steckt
+  https://www.msn.com/de-de/finanzen/top-stories/verm%C3%B6gensregister-geplant-eu-will-umfassende-datenbank-zum-verm%C3%B6gen-aller-b%C3%BCrger-aufbauen-was-dahinter-steckt/ar-BB1qqq1a
+* Empirica Immobilienpreis-Index
+  https://www.empirica-regio.de
+* Open Supply Hub
+  https://opensupplyhub.org/
+
 ## Klima
 * am 1. Juli trat das Klimaanpassungsgesetz in Kraft
   Das heißt: Die Klimaanpassungsstrategien und die integrierte Klimaanpassung sollen auf einer soliden Datengrundlage basieren. Da sind vor allem die Klimarisikoanalysen zu nennen, die vom Bund und von den Ländern erstellt werden müssen.
@@ -37,7 +163,93 @@ type: blog
     https://cdr-initiative.de/news/digitaler-datenputz-2024
 	--> auch Datenputz bei Offenen Daten? (statt Sammelwut?)
 
+## Energie
+* Rekord: 58 Prozent des Stroms aus erneuerbaren Energien
+  https://www.heise.de/news/Rekord-58-Prozent-des-Stroms-aus-erneuerbaren-Energien-9784161.html
+* 10 Jahre Energy-Charts – 10 Grafiken zur Energiewende
+  https://blog.innovation4e.de/2024/07/26/10-jahre-energy-charts-10-grafiken-zur-energiewende/
+* Wie läuft der Ausbau erneuerbarer Energien in Deutschland?
+  https://www.ndr.de/nachrichten/ndrdata/Wie-laeuft-der-Ausbau-von-Solar-Windkraft-Batteriespeicher-Erneuerbare-Energien-in-Deutschland,erneuerbare104.html
+
+## Transparenz
+* Warum die Finanzbehörden nicht offenlegen, wer uns mit CumCum-Geschäften um Milliarden € Steuergeld betrogen hat? Weil den Geschäftsbeteiligten "Imageschäden" drohen. https://www.rnd.de/wirtschaft/cumcum-betrueger-welche-behoerde-schuetzte-die-kriminellen-RHWFS4KOQZGZXN2KHS27VERN4E.html
+  via https://chaos.social/@fragdenstaat/112808325961576238
+* From de jure to de facto transparency: Analyzing the compliance gap in light of freedom of information laws
+  Julia Trautendorfer, Lisa Hohensinn, Dennis Hilgers haben 100.000 IFG-Anfragen über FragDenStaat analysiert - wo antworten Behörden am zuverlässigsten? 
+  https://onlinelibrary.wiley.com/doi/10.1111/rego.12615
+
+## Open Access
+* Alte Prüfungsaufgaben sollten Schüler*innen kostenfrei für ihre Abschlussvorbereitung zugänglich sein. Fast alle Bundesländer weigern sich und geben sie lieber an Verlage, die mit den Aufgaben Profit machen. Unterstützt die Petition, um Druck auf Kultusminister*innen und Bundesländer zu machen!  https://weact.campact.de/petitions/bildungsgerechtigkeit-statt-privater-profit-alte-prufungsaufgaben-digital-frei-zuganglich-machen
+* Balkonsolar Buch
+  https://www.akkudoktor.net/balkonsolar-buch/
+  via https://chaos.social/@danimo/112735788799557330
+* Handbuch zur Planung flexibler Bedienungsformen im ÖPNV
+  https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/sonderveroeffentlichungen/2023/handbuch-planung-fexibler-bedienungsformen-oepnv.html
+  via https://www.zukunftsnetzwerk-oepnv.de/aktuelles/news/handbuch-zur-planung-flexibler-bedienungsformen-im-oepnv
+* Webinar Recording: Finding, tracking, and analyzing research datasets in OpenAlex
+  https://www.youtube.com/watch?v=cKUKXwxAlOM
+  via https://mastodon.social/@leibnizopenscience/112767742851553448
+* Project launch: OA Datenpraxis- Data Practices for Shaping the Open Access Transformation
+  https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/
+  https://oa-datenpraxis.de
+* Einführung in Open Code
+  Ab sofort gibt es einen neuen Themenbereich beim ZBW Open Economics Guide! Hier lernen Wissenschaftler:innen, wie sie mit Open Code mehr Transparenz und Reproduzierbarkeit in die eigene Forschungen bringen können!
+  https://openeconomics.zbw.eu/open-code/
+  via https://openbiblio.social/@ZBW_MediaTalk/112801717193345993
+
+## Open Science
+* Demystifying Open Science in health psychology and behavioral medicine: a practical guide to Registered Reports and Data Notes
+  https://www.tandfonline.com/doi/full/10.1080/21642850.2024.2351939#d1e281
+* 11 Jahre Zenodo
+  https://www.openaire.eu/zenodo-11-years-of-setting-the-standards-of-open-science-excellence
+
+
+## Open Source
+* Podcast Reihe Open Source und Geld
+  * Open Source und Geld Episode 1
+    In der ersten Folge unserer neuen Staffel Public Interest Podcast zu Open Source und Geld spricht Team Prototype Fund über Geld. Warum braucht es Geld für die Open Source Softwareentwicklung? Welche Rolle spielt es? Ist Geld verdienen die einzige Perspektive für langfristige Softwareentwicklung? Und warum braucht es eigentlich Förderungen?
+    https://prototypefund.de/pips6e1/
+  * In der zweiten Episode unseres Public Interest Podcast zum Thema Geldsprechen wir mit Heiko Rintelen von   FixMyCity über Möglichkeiten, mit Open-Source-Software Geld zu verdienen, was Verwaltungen so von Open Source halten und Tipps, die er für Menschen hat, die noch ganz am Anfang einer Projektidee stehen
+  "Dieser marktwirtschaftliche Druck hat auch Vorteile: Wir werden gezwungen, näher am Kunden zu arbeiten" sagt Heiko Rintelen, Geschäftsführer bei FixMyCity.
+    https://prototypefund.de/pips6e2/
+  * Mehan Jayasuriya ist Senior Program Officer bei der Mozilla Foundation. Dort verantwortet er den Mozilla Technology Fund (MTF) und setzt sich für das Ziel eines offenen und zugänglichen Internet für Alle ein. Im Gespräch verrät er, welches Verständnis er von Geld hat und wie und wofür er es nutzt. Außerdem sprechen wir darüber, wie Geld als Werkzeug genutzt werden kann, um Entwicklung von Code abzusichern und wie sich Mehans Verhältnis zum Begriff „Impact“ im Laufe der Jahre verändert hat.
+  https://prototypefund.de/pips6e3/
+  * Leah Oswald über das Verhältnis Job, Freizeit und Ehrenamt
+    https://prototypefund.de/pips6e4/
+  * Mit Erik Albers von foss.events reden wir über Projektentwicklung in der Freizeit, Motivationen und Hürden in einem kleinen Team und wieso es manchmal sogar gut für ein Projekt sein kann, wenn kein Geld im Spiel ist.
+    https://prototypefund.de/pips6e5/
+* On Open Source and the Sustainability of the Commons
+  https://ploum.net/2024-07-01-opensource_sustainability.html
+* Someone complained that the xkcd Dependency comic is unrealistic because it only shows one critical dependency you've never heard of. However, it all makes sense once you realize it's actually a fractal:
+  https://cloudisland.nz/users/dillon/statuses/112767541388187298
+* Christian Nähle, Geschäftsführer von Do-FOSS, der Initiative für den Einsatz Freier und Open-Source-Software bei der Stadt Dortmund https://opendata.okfn.de/books/open-data-in-der-praxis/page/christian-nahle-geschaftsfuhrer-von-do-foss-der-initiative-fur-den-einsatz-freier-und-open-source-software-bei-der-stadt-dortmund
+via https://digitalcourage.social/@clarisse/112778006240248969
+* EU will Open-Source-Förderprogramm wohl beenden
+  https://netzpolitik.org/2024/next-generation-internet-eu-will-open-source-foerderprogramm-wohl-beenden/
+* FOSS funding vanishes from EU's 2025 Horizon program plans
+  https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/
+  via https://hachyderm.io/@cczona/112803278067623346
+* Infrastruktur ist unsichtbar, bis sie ausfällt. Der weltweite IT-Ausfall offenbarte, wie verletzlich uns Monopole wie Microsoft machen. Diesen Schrecken muss man nutzen.
+  https://www.zeit.de/kultur/2024-07/it-stoerung-microsoft-update-infrastruktur-monopol
+* Nachhaltige Softwareentwicklung? Was soll das eigentlich sein?
+  https://prototypefund.de/nachhaltigkeit-ist-mehr-als-nur-gartnerei/
+* Switzerland now requires all government software to be open source
+  https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/
+* Wie der Prototype Fund wirkt
+  https://prototypefund.de/wie-der-prototype-fund-wirkt/
+* Gaia-X is a distraction which should be abandoned
+  "Not only is it [Gaia-X] using up lots of money and resources that could better be spent elsewhere, its very existence fools people into thinking something useful is happening."
+  https://berthub.eu/articles/posts/gaia-x-is-an-expensive-distraction/
+  via https://mastodon.social/@jpmens/112851991626848669
+* ZENDIS Positionspapier - Digitale Souveränität im Vergaberecht
+  https://zendis.de/media/site/88445cc92f-1717603153/2024_06_05-zendis_positionspapier-dis-und-vergaberecht_a4_web.pdf
+* Podcast "Digital leben" | Folge 83 – Open Source und das freundliche Internet: Warum das Netz immer noch großartig ist
+  https://www.mdr.de/mdr-sachsen-anhalt/podcast/digital/digital-leben-open-source-stefan-mey-gemeinschaftsschule-gernrode-landkreis-harz-100.html
+
 ## KI
+* KI-Verordnung tritt in Kraft: Durchlässig wie ein Perlenvorhang
+  https://netzpolitik.org/2024/ki-verordnung-tritt-in-kraft-durchlaessig-wie-ein-perlenvorhang/
+
 * Microsofts KI Aurora ermöglicht genaue Vorhersage von Luftverschmutzung
   https://www.heise.de/news/Microsofts-KI-Aurora-ermoeglicht-genaue-Vorhersage-von-Luftverschmutzung-9790082.html
   https://arxiv.org/pdf/2405.13063
@@ -83,195 +295,11 @@ type: blog
   Wenn Goldgräberstimmung aufkommt, profitieren nicht die Goldgräber, sondern die, die Schaufeln verkaufen – besser lässt sich die Situation in der jetzigen KI-Welt nicht zusammenfassen.
   https://www.heise.de/select/ct/2024/17/2330613153812397752
 
-## Energie
-* Rekord: 58 Prozent des Stroms aus erneuerbaren Energien
-  https://www.heise.de/news/Rekord-58-Prozent-des-Stroms-aus-erneuerbaren-Energien-9784161.html
-* 10 Jahre Energy-Charts – 10 Grafiken zur Energiewende
-  https://blog.innovation4e.de/2024/07/26/10-jahre-energy-charts-10-grafiken-zur-energiewende/
-* Wie läuft der Ausbau erneuerbarer Energien in Deutschland?
-  https://www.ndr.de/nachrichten/ndrdata/Wie-laeuft-der-Ausbau-von-Solar-Windkraft-Batteriespeicher-Erneuerbare-Energien-in-Deutschland,erneuerbare104.html
-
-## Mobilität
-* Cities moving
-  With the model share data for 877 cities across over 61 countries, the visualizations below allow to compare the proportion of journeys to work in different countries, regions, income groups, and population sizes. In the end, it also allows to explore all the cities on the map.
-  https://vis.csh.ac.at/citiesmoving/
-  via https://social.coop/users/ZaneSelvans/statuses/112709320991373239
-* strecken.info und DB LiveMaps basieren auf einer interaktiven, webbasierten Karte des Schienennetz der DB InfraGO AG. strecken.info ist öffentlich zugänglich und bildet Baueinschränkungen, Störungen und Streckenruhen ab.
-  Die neue Version läuft jetzt flüssiger.
-  https://strecken-info.de
-* Flüge über Plattformen zu buchen ist leicht. Für Bahnreisen gibt es keine vergleichbaren Möglichkeiten – würde aber deren Attraktivität steigern und die nachhaltige Fortbewegung voranbringen
-  https://reset.org/warum-haben-wir-keinen-skyscanner-fuer-zuege/
-* Note to the new EU Transport Commissioner: fixing cross border rail ticketing will help millions of Europeans, and can secure your legacy
-  https://jonworth.eu/note-to-the-new-eu-transport-commissioner-fixing-cross-border-rail-ticketing-will-help-millions-of-europeans-and-can-secure-your-legacy/
-* Calculating Connectivity Rank for Bike Network Planning
-  https://mark.stosberg.com/bike-network-connectivity-rank/?ref=mastodon
-* Enhancing school safety with openrouteservice: the digital school route planner
-  https://heigit.org/enhancing-school-safety-with-openrouteservice-the-digital-school-route-planner/
-* Die StZN hat gemeinsam mit der Rechercheplattform CORRECTIV eine Crowdaktion für sichere Schulwege gestartet. Bis in den Herbst können Eltern (und andere Interessierte 😉) per simplem Online-Tool Gefahrenstellen rund um Schulen melden.
-  https://achtungschulweg.crowdnewsroom.org/callouts/schulweg-stuttgart/map
-  via https://verkehrswende.social/@KidicalMass_S/112835827269387568
-* Unfalldaten
-  * Verkehrunfall-Daten für 2023 veröffentlicht
-    https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/07/PD24_261_46241.html
-  * Unfallatlas
-    https://unfallatlas.statistikportal.de
-  * Mitfahrzentrale Heatview (Rad-)Unfälle aktualisiert
-    https://chaos.social/@mfdz/112806484663218499
-* Mobility Data Space der Bundesregierung – so kommen wir nicht weiter
-  https://d-64.org/mobility-data-space-der-bundesregierung-so-kommen-wir-nicht-weiter/
-
-## Kultur
-* Use Datasette-Lite to share a CSV file as a searchable, online database
-  https://glam-workbench.net/glam-tools/datasette/
-  https://glam-workbench.net/
-  via https://hcommons.social/@wragge/112807814238076888
-
-## Wirtschaft
-* "Cheapflation" trifft die Schwachen
-  https://www.n-tv.de/wirtschaft/Cheapflation-trifft-die-Schwachen-article25084108.html
-* The Billion Prices Project - It is no longer active, but its initiatives continue through PriceStats (inflation measurement) and the HBS Pricing Lab (academic research)
-  https://thebillionpricesproject.com
-* Vermögensregister geplant - EU will umfassende Datenbank zum Vermögen aller Bürger aufbauen - was dahinter steckt
-  https://www.msn.com/de-de/finanzen/top-stories/verm%C3%B6gensregister-geplant-eu-will-umfassende-datenbank-zum-verm%C3%B6gen-aller-b%C3%BCrger-aufbauen-was-dahinter-steckt/ar-BB1qqq1a
-* Empirica Immobilienpreis-Index
-  https://www.empirica-regio.de
-
-
-## Open Data
-* How to Make Sure No One Cares About Your Open Data
-  Anti-Patterns für offene Daten
-  https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/
-* Making Spreadsheets Accessible and Reusable
-  http://dataabinitio.com/?p=1158
-  https://caltechlibrary.github.io/RDMworkbook/data-sharing.html#accessible-spreadsheets
-  via https://glammr.us/@briney/112751899750339692
-* Förderrichtlinie Open Data
-  Schleswig-Holstein fördert kommunale Open Data Projekte zur Anbindung an das landesweite Portal.
-  https://infomedia.sh/2024/07/03/foerderrichtlinie-open-data/
-  via https://social.bund.de/@opendatabund/112750420933989776
-* seit zwei wochen sind brandneue #luftbilder von #berlin aus diesem jahr verfügbar - inkl. vergleich alter bilder seit 1928.
-  https://luftbilder.berlin.codefor.de/
-  https://github.com/codeforberlin/luftbilder.berlin.codefor.de/
-* Mit dem internationalen Wettbewerb Coordinate Me gab es jetzt einen extra Boost: 3228 Teilnehmende & 129.102 bearbeitete Wikidata-Einträge! Darunter 15.261 komplett neu angelegte Items.
-  https://wikimedia.at/coordinate-me-freie-daten-im-wettbewerb/
-  via https://social.wikimedia.de/@wikimediaDE/112756424082779324
-* Die Landeshauptstadt Wiesbaden setzt einen weiteren bedeutenden Schritt zur Förderung offener Daten mit der Einführung einer eigenen „Open Data“-Plattform bis Anfang 2025. Dieser Schritt geht Hand in Hand mit der Prinzipienentscheidung "Open by Default" und der Verabschiedung einer umfassenden „Open Data“-Strategie.
-  https://www.wiesbaden.de/medien/rathausnachrichten/PM_Zielseite.php?showpm=true&amp;pmurl=https://www.wiesbaden.de/guiapplications/newsdesk/publications/Landeshauptstadt_Wiesbaden/141010100000468786.php
-* Unsere Zensusdatenbank mit ersten Daten zu Demografie, Gebäude + Wohnungen ist online! Hier könnt ihr Ergebnisse in Tabellen für Bund, Länder, Kreise, Gemeinden und Bezirke abrufen und mit anderen Merkmalen kombinieren:
-  https://ergebnisse.zensus2022.de/datenbank/online/
-  via https://social.bund.de/@destatis/112767071708913025
-* L'open data du sport et des Jeux Olympiques et Paralympiques
-  https://www.data.gouv.fr/fr/posts/lopen-data-du-sport-et-des-jeux-olympiques-et-paralympiques/
-  * WADA Anti-Doping Statistics
-    https://www.wada-ama.org/en/data-research/anti-doping-statistics
-* Von offenen Daten und smarten Städten. Das große ODIS-Interview
-  https://citylab-berlin.org/de/blog/von-offenen-daten-und-smarten-staedten-das-grosse-odis-interview/
-* Teilnehmerfrust beim Dateninstitut
-  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/teilnehmerfrust-beim-dateninstitut
-* Das Dateninstitut kommt. Die Gemeinwohlorientierung bleibt fraglich
-  https://okfn.de/blog/2024/07/dateninstitut-wmde-okf/
-
-## Open Data Tools
-* Wir haben soeben DCAT-AP.de 3.0 im Entwurf veröffentlicht.
-  https://www.dcat-ap.de/def/dcatde/3.0/spec/
-  https://gitlab.opencode.de/fitko/govdata/dcat-ap.de/-/issues
-  via https://social.bund.de/@opendata/112773725117071830
-* SPARQL Anything is an open source tool that lets you use SPARQL to query data in a long list of popular formats: XML, JSON, CSV, HTML, Excel, Text, Binary, EXIF, File System, Zip/Tar, Markdown, YAML, Bibtex, DOCx, and PPTx.
-  https://www.bobdc.com/blog/sparqlanything/
-
-## Geodaten / Karten
-* Gibt es eine Möglichkeit Änderungen in der #OpenStreetMap vorher/nachher zu vergleichen?
-  * https://overpass-api.de/achavi/
-  * https://osmcha.org/
-  * https://osmlab.github.io/osm-deep-history/
-  via https://chaos.social/@schenklklopfer/112732976854803585
-* Hab gerade dieses coole Spiel gefunden, das auf OSM-Daten basiert. Man gibt einen Ort an, an dem man sich gut auskennt und muss dann in einem Umkreis von 2km auf einer unbeschrifteten Karte Straßennamen bestimmen: https://backofyourhand.com
-via https://chaos.social/@bodems/112740666259947428
-* VCÖ CHECK: Problemstellen beim Gehen
-Mehr schattenspendende Bäume entlang von Gehsteigen, Schutz vor Sonne auch bei Fußgängerampeln, die Wartezeiten verkürzen. Bevölkerung ist aufgerufen, #Hitze-Hotspots für Fußgänger:innen in Online-Karte einzutragen
-  https://map.vcoe.at/gehen/
-  via https://wien.rocks/@vcoe_mobilitaet_mit_zukunft/112762057144103761
-* Flächengerechtigkeit: How much space do car parks actually take up compared to playgrounds and green spaces? I made a tool that allows you to explore and compare these public spaces in Berlin.
-  https://www.hanshack.com/parking/
-  via https://troet.cafe/@hanshack/112766511080545141
-  * passend dazu: 
-    * Senatsverwaltung veröffentlicht erstmalige Kartierung sämtlicher öffentlicher Parkplätze an Straßen im Innenstadtbereich
-    https://viz.berlin.de/aktuelle-meldungen/kartierung-samtlicher-offentlicher-parkplatze-im-innenstadtbereich/
-    * Parkraumkartierung
-      https://viz.berlin.de/verkehr-in-berlin/parken/parkraumkartierung/
-* Die #Verwaltungsgebiete 1:250.000 mit #Einwohnerzahlen (VG250-EW) wurden aktualisiert und stehen kostenfrei in unserem #OpenData-Bereich bereit. #Geodaten #Grenzen
-  https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2024/240617_VG250EW.html
-* Let’s make contour maps
-  https://www.letsmakeamap.com/blog/lets-make-contour-maps
-* 3D-Stadtmodelle Zürich
-  https://www.stadt-zuerich.ch/3d-stadtmodelle
-
-## Open Source
-* Podcast Reihe Open Source und Geld
-  * Open Source und Geld Episode 1
-    In der ersten Folge unserer neuen Staffel Public Interest Podcast zu Open Source und Geld spricht Team Prototype Fund über Geld. Warum braucht es Geld für die Open Source Softwareentwicklung? Welche Rolle spielt es? Ist Geld verdienen die einzige Perspektive für langfristige Softwareentwicklung? Und warum braucht es eigentlich Förderungen?
-    https://prototypefund.de/pips6e1/
-  * In der zweiten Episode unseres Public Interest Podcast zum Thema Geldsprechen wir mit Heiko Rintelen von   FixMyCity über Möglichkeiten, mit Open-Source-Software Geld zu verdienen, was Verwaltungen so von Open Source halten und Tipps, die er für Menschen hat, die noch ganz am Anfang einer Projektidee stehen
-  "Dieser marktwirtschaftliche Druck hat auch Vorteile: Wir werden gezwungen, näher am Kunden zu arbeiten" sagt Heiko Rintelen, Geschäftsführer bei FixMyCity.
-    https://prototypefund.de/pips6e2/
-  * Mehan Jayasuriya ist Senior Program Officer bei der Mozilla Foundation. Dort verantwortet er den Mozilla Technology Fund (MTF) und setzt sich für das Ziel eines offenen und zugänglichen Internet für Alle ein. Im Gespräch verrät er, welches Verständnis er von Geld hat und wie und wofür er es nutzt. Außerdem sprechen wir darüber, wie Geld als Werkzeug genutzt werden kann, um Entwicklung von Code abzusichern und wie sich Mehans Verhältnis zum Begriff „Impact“ im Laufe der Jahre verändert hat.
-  https://prototypefund.de/pips6e3/
-  * Leah Oswald über das Verhältnis Job, Freizeit und Ehrenamt
-    https://prototypefund.de/pips6e4/
-  * Mit Erik Albers von foss.events reden wir über Projektentwicklung in der Freizeit, Motivationen und Hürden in einem kleinen Team und wieso es manchmal sogar gut für ein Projekt sein kann, wenn kein Geld im Spiel ist.
-    https://prototypefund.de/pips6e5/
-* On Open Source and the Sustainability of the Commons
-  https://ploum.net/2024-07-01-opensource_sustainability.html
-* Someone complained that the xkcd Dependency comic is unrealistic because it only shows one critical dependency you've never heard of. However, it all makes sense once you realize it's actually a fractal:
-  https://cloudisland.nz/users/dillon/statuses/112767541388187298
-* Christian Nähle, Geschäftsführer von Do-FOSS, der Initiative für den Einsatz Freier und Open-Source-Software bei der Stadt Dortmund https://opendata.okfn.de/books/open-data-in-der-praxis/page/christian-nahle-geschaftsfuhrer-von-do-foss-der-initiative-fur-den-einsatz-freier-und-open-source-software-bei-der-stadt-dortmund
-via https://digitalcourage.social/@clarisse/112778006240248969
-* EU will Open-Source-Förderprogramm wohl beenden
-  https://netzpolitik.org/2024/next-generation-internet-eu-will-open-source-foerderprogramm-wohl-beenden/
-* FOSS funding vanishes from EU's 2025 Horizon program plans
-  https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/
-  via https://hachyderm.io/@cczona/112803278067623346
-* Infrastruktur ist unsichtbar, bis sie ausfällt. Der weltweite IT-Ausfall offenbarte, wie verletzlich uns Monopole wie Microsoft machen. Diesen Schrecken muss man nutzen.
-  https://www.zeit.de/kultur/2024-07/it-stoerung-microsoft-update-infrastruktur-monopol
-* Nachhaltige Softwareentwicklung? Was soll das eigentlich sein?
-  https://prototypefund.de/nachhaltigkeit-ist-mehr-als-nur-gartnerei/
-* Switzerland now requires all government software to be open source
-  https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/
-* Wie der Prototype Fund wirkt
-  https://prototypefund.de/wie-der-prototype-fund-wirkt/
-* Gaia-X is a distraction which should be abandoned
-  "Not only is it [Gaia-X] using up lots of money and resources that could better be spent elsewhere, its very existence fools people into thinking something useful is happening."
-  https://berthub.eu/articles/posts/gaia-x-is-an-expensive-distraction/
-  via https://mastodon.social/@jpmens/112851991626848669
-* ZENDIS Positionspapier - Digitale Souveränität im Vergaberecht
-  https://zendis.de/media/site/88445cc92f-1717603153/2024_06_05-zendis_positionspapier-dis-und-vergaberecht_a4_web.pdf
-
-## Open Access
-* Alte Prüfungsaufgaben sollten Schüler*innen kostenfrei für ihre Abschlussvorbereitung zugänglich sein. Fast alle Bundesländer weigern sich und geben sie lieber an Verlage, die mit den Aufgaben Profit machen. Unterstützt die Petition, um Druck auf Kultusminister*innen und Bundesländer zu machen!  https://weact.campact.de/petitions/bildungsgerechtigkeit-statt-privater-profit-alte-prufungsaufgaben-digital-frei-zuganglich-machen
-* Balkonsolar Buch
-  https://www.akkudoktor.net/balkonsolar-buch/
-  via https://chaos.social/@danimo/112735788799557330
-* Handbuch zur Planung flexibler Bedienungsformen im ÖPNV
-  https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/sonderveroeffentlichungen/2023/handbuch-planung-fexibler-bedienungsformen-oepnv.html
-  via https://www.zukunftsnetzwerk-oepnv.de/aktuelles/news/handbuch-zur-planung-flexibler-bedienungsformen-im-oepnv
-* Webinar Recording: Finding, tracking, and analyzing research datasets in OpenAlex
-  https://www.youtube.com/watch?v=cKUKXwxAlOM
-  via https://mastodon.social/@leibnizopenscience/112767742851553448
-* Project launch: OA Datenpraxis- Data Practices for Shaping the Open Access Transformation
-  https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/
-  https://oa-datenpraxis.de
-* Einführung in Open Code
-  Ab sofort gibt es einen neuen Themenbereich beim ZBW Open Economics Guide! Hier lernen Wissenschaftler:innen, wie sie mit Open Code mehr Transparenz und Reproduzierbarkeit in die eigene Forschungen bringen können!
-  https://openeconomics.zbw.eu/open-code/
-  via https://openbiblio.social/@ZBW_MediaTalk/112801717193345993
-
-## Open Science
-* Demystifying Open Science in health psychology and behavioral medicine: a practical guide to Registered Reports and Data Notes
-  https://www.tandfonline.com/doi/full/10.1080/21642850.2024.2351939#d1e281
-* 11 Jahre Zenodo
-  https://www.openaire.eu/zenodo-11-years-of-setting-the-standards-of-open-science-excellence
-
 ## Datensparsamkeit
+* Anonymization: The imperfect science of using data while preserving privacy
+  https://www.science.org/doi/10.1126/sciadv.adn7053
+* Die NZZ ist nun offiziell eine Microsoft-Datenhändlerin — dem Bund ist das egal
+  https://dnip.ch/2024/07/31/die-nzz-ist-nun-offiziell-ein-microsoft-datenhaendler-dem-bund-ist-das-egal/
 * PayPal und Kreditkarten: Wer alles weiß, wenn du online bezahlst
   https://netzpolitik.org/2024/paypal-und-kreditkarten-wer-alles-weiss-wenn-du-online-bezahlst/
 * Xandr verweigert jede Datenauskunft
@@ -306,10 +334,6 @@ https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
   Browserverlauf, Aufenthaltsort, Bonität, bisherige Einkäufe und vielleicht der Akkustand fließen in Algorithmen, die Verbrauchern den maximalen Preis abringen.
   https://www.heise.de/news/Ueberwachungskapitalismus-US-Behoerde-untersucht-Preis-Algorithmen-9813941.html
 
-## Transparenz
-* Warum die Finanzbehörden nicht offenlegen, wer uns mit CumCum-Geschäften um Milliarden € Steuergeld betrogen hat? Weil den Geschäftsbeteiligten "Imageschäden" drohen. https://www.rnd.de/wirtschaft/cumcum-betrueger-welche-behoerde-schuetzte-die-kriminellen-RHWFS4KOQZGZXN2KHS27VERN4E.html
-  via https://chaos.social/@fragdenstaat/112808325961576238
-
 ## Wahlen
 * Landtagswahlen Sachsen
   * AbgeordnetenWatch Kandidierenden-Check
@@ -336,6 +360,13 @@ https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
 * Landtagswahlen Brandenburg  
   * OSB Alliance Wahlprüfsteine für die Landtagswahl in Brandenburg 2024
     https://osb-alliance.de/featured/wahlpruefsteine-brandenburg-landtagswahl-2024
+* KI-basierte Lösung Wahlweise
+  Geführte Auswahl mit flexiblen Antworten oder alternativ Interaktiver Chat mit Wahlprogrammen
+  https://wahlweise.info
+* Kommunal-o-Mat
+  https://www.ufu.de/ufu-informationen/kommunalomat/
+  https://www.kinder-jugendrat-halle.de/kommunal-o-mat/
+  * basiert auf OpenSource-Framework https://open-election-compass.com/de/
 
 ## Recap
 * FOSS4G Europe 2024 Streams
