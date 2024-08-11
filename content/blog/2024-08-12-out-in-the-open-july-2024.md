@@ -1,7 +1,7 @@
 ---
 title: "Datengewäsch – Out in the Open Juli 2024"
 author: "Jörg Reichert (Code for Leipzig)"
-date: '2024-08-05T08:00:00+02:00'
+date: '2024-08-12T08:00:00+02:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
 topic: community
 images:
@@ -49,39 +49,24 @@ Schon 2022 hat die Stadt Zürich [3D-Stadt-Modelle](https://www.stadt-zuerich.ch
 Eine möglichst vollständige Erfassung aller Kölner Denkmäler als 3D Modelle möchte das Projekt [Denkmal 4D Köln](https://codefor.de/projekte/cologne-denkmal4d/) des OKLab Kölns erreichen. Auf der [Online-Karte](https://codeforcologne.github.io/Denkmal-4D-Koeln/) werden daher nicht nur alle bereits erfassten 3D-Modelle verortet, sondern auch gezielt dazu aufgerufen, fehlende (Meta-)Daten beizusteuern.
 
 ## Mobilität
-* Cities moving
-  With the model share data for 877 cities across over 61 countries, the visualizations below allow to compare the proportion of journeys to work in different countries, regions, income groups, and population sizes. In the end, it also allows to explore all the cities on the map.
-  https://vis.csh.ac.at/citiesmoving/
-  via https://social.coop/users/ZaneSelvans/statuses/112709320991373239
-* strecken.info und DB LiveMaps basieren auf einer interaktiven, webbasierten Karte des Schienennetz der DB InfraGO AG. strecken.info ist öffentlich zugänglich und bildet Baueinschränkungen, Störungen und Streckenruhen ab.
-  Die neue Version läuft jetzt flüssiger.
-  https://strecken-info.de
-* Flüge über Plattformen zu buchen ist leicht. Für Bahnreisen gibt es keine vergleichbaren Möglichkeiten – würde aber deren Attraktivität steigern und die nachhaltige Fortbewegung voranbringen
-  https://reset.org/warum-haben-wir-keinen-skyscanner-fuer-zuege/
-* Note to the new EU Transport Commissioner: fixing cross border rail ticketing will help millions of Europeans, and can secure your legacy
-  https://jonworth.eu/note-to-the-new-eu-transport-commissioner-fixing-cross-border-rail-ticketing-will-help-millions-of-europeans-and-can-secure-your-legacy/
-* Initiative zu Leichteren Zugang zu Busabfahrtsplänen in Europa
-  https://www.busliveinfo.eu
-  * zugehörige Petition: Echtzeit-Informationen an Bushaltestellen in der EU
-    https://eci.ec.europa.eu/039/public/#/screen/home
-* Calculating Connectivity Rank for Bike Network Planning
-  https://mark.stosberg.com/bike-network-connectivity-rank/?ref=mastodon
-* Enhancing school safety with openrouteservice: the digital school route planner
-  https://heigit.org/enhancing-school-safety-with-openrouteservice-the-digital-school-route-planner/
-* Die StZN hat gemeinsam mit der Rechercheplattform CORRECTIV eine Crowdaktion für sichere Schulwege gestartet. Bis in den Herbst können Eltern (und andere Interessierte 😉) per simplem Online-Tool Gefahrenstellen rund um Schulen melden.
-  https://achtungschulweg.crowdnewsroom.org/callouts/schulweg-stuttgart/map
-  via https://verkehrswende.social/@KidicalMass_S/112835827269387568
-* Unfalldaten
-  * Verkehrunfall-Daten für 2023 veröffentlicht
-    https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/07/PD24_261_46241.html
-  * Unfallatlas
-    https://unfallatlas.statistikportal.de
-  * Mitfahrzentrale Heatview (Rad-)Unfälle aktualisiert
-    https://chaos.social/@mfdz/112806484663218499
-* Mobility Data Space der Bundesregierung – so kommen wir nicht weiter
-  https://d-64.org/mobility-data-space-der-bundesregierung-so-kommen-wir-nicht-weiter/
-* The Mobility Database: Currently serving data from over 2000 GTFS feeds in 70 countries.
-  https://mobilitydatabase.org
+Wie unterscheidet sich weltweit der [Modal Split](https://de.wikipedia.org/wiki/Modal_Split), also die Verteilung auf die verschiedene Verkehrsmittel? Mit ["Cities Moving"](https://vis.csh.ac.at/citiesmoving/) lassen sich 877 Städte über 61 Ländern vergleichen. Man kann abschätzen, welchen Einfluss Land, Region, Einkommensverteilung und Einwohnerzahl der jeweilige Stadt [haben könnte](https://social.coop/users/ZaneSelvans/statuses/112709320991373239).
+
+Die Europäische Union (EU) will für verschiedene Sektoren gemeinsame europäische Datenräume schaffen. Mit der Initiative für einen gemeinsamen europäischen Mobilitätsdatenraum, soll es laut EU-Kommision möglich werden, "Daten zu erheben, miteinander zu verknüpfen und verfügbar zu machen, um so die EU-Ziele von der Nachhaltigkeit bis hin zur Multimobilität zu verwirklichen." Zusätzlich gibt es mit dem Mobility Data Space (MDS) einen virtuellen Marktplatz zum Austausch von Mobilitätsdaten. Der MDS somit kein Open-Data-Portal und die Daten kein Open Data. Der Verein [D64 kommt in seiner Analyse](https://d-64.org/mobility-data-space-der-bundesregierung-so-kommen-wir-nicht-weiter/) daher zum Schluss, dass es immer noch eine Vielzahl sich auch inhaltlich teilweise überschneidender Plattformen und Datenportale gibt und dass diese Fragmentierung der Datenquellen weiterhin ein große Unübersichtlichkeit hinterlässt. Innovationen werden nach seiner Einschätzung nicht durch neue Geschäftsmodelle auf Datenmarktplätzen entstehen, sondern durch nur gesamtgesellschaftliche freie und offene Nutzbarkeit der Daten.
+
+[Reset legt den Finger in die gleiche Wunde](https://reset.org/warum-haben-wir-keinen-skyscanner-fuer-zuege/), denn grenzübergreifende Zugreisen in Europa zu buchen ist nach wie vor durch die Fragmentierung eine Wissenschaft für sich. Eigentlich bestehende Verbindungen werden nicht gefunden oder lassen sich nicht als Ganzes buchen, von intermodalen Kombinationen ganz zu schweigen. So wird der Umstieg vom Flugzeug oder Auto auf die Bahn weiter behindert. [Jon Worth bringt es auf den Punkt](https://jonworth.eu/note-to-the-new-eu-transport-commissioner-fixing-cross-border-rail-ticketing-will-help-millions-of-europeans-and-can-secure-your-legacy/): es fehlt eine gesetzliche Verordnung für EU-Zugticket-System.
+
+Um EU-weit auch an jeder Bus-Haltestelle leichten Zugang zu den Echtzeit-Abfahrten zu bekommen (z.B. durch Scannen eines QR-Codes), dafür setzt sich die Petition ["EU Live Bus Stop Info"](https://www.busliveinfo.eu) ein.
+
+Die öffentlich zugängliche [strecken.info](https://strecken-info.de) ist eine Online-Karte des Schienennetzes, die aktuelle Streckensperrungen, Bauarbeiten oder Zugausfällen zeigt. Die neue Version läuft jetzt flüssiger.
+
+## Verkehrssicherheit
+Das statistische Bundesamt hat Verkehrunfall-Daten für 2023 [veröffentlicht](https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/07/PD24_261_46241.html), die sich auch im offiziellen [Unfallatlas Deutschland](https://unfallatlas.statistikportal.de/) für die Anzeige auswählen lassen. Die Mitfahrzentrale hat ebenfalls die neuen Daten in seine Web-Anwendung [Heatview eingepflegt](https://chaos.social/@mfdz/112806484663218499).
+
+Die Stuttgarter Zeitung und Stuttgarter Nachrichten haben in Zusammenarbeit mit dem investigativen Recherchenetzwerk CORRECTIV [eine Webseite an den Start gebracht](https://achtungschulweg.crowdnewsroom.org/callouts/schulweg-stuttgart/map), auf der man Gefahrenstellen rund um Schulen in Stuttgart melden kann.
+
+Ein ähnliche Anwendung, die aber bundesweit funktioniert, ist [gefahrenstellen.de](https://www.gefahrenstellen.de/?start=schulwege). Sie nutzt den OpenRouteService und die Informationen zu Gefahrenstellen, um einen sicheren Schulweg [berechnen zu können](https://heigit.org/de/mehr-sicherheit-fuer-schulen-mit-openrouteservice-der-digitale-schulwegplaner/).
+
+Wie man Daten-basiert effektiv die Fahrradwege-Infrastruktur verbessern kann, zeigt Mark Stosberg in [seinem Blogbeitrag](https://mark.stosberg.com/bike-network-connectivity-rank/).
 
 ## Wirtschaft
 * "Cheapflation" trifft die Schwachen
