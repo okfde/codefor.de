@@ -12,13 +12,12 @@ type: blog
 ---
 
 ## Open Data
-* How to Make Sure No One Cares About Your Open Data
-  Anti-Patterns für offene Daten
-  https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/
-* Making Spreadsheets Accessible and Reusable
-  http://dataabinitio.com/?p=1158
-  https://caltechlibrary.github.io/RDMworkbook/data-sharing.html#accessible-spreadsheets
-  via https://glammr.us/@briney/112751899750339692
+Philip Heltweg listet in seinem [Blogbeitrag](https://www.heltweg.org/posts/how-to-make-sure-no-one-cares-about-your-open-data/) all die Dinge, mit denen man die Nutzer von offenen Daten vergraulen kann. Eine noch umfangreichere [Sammlung solcher Anti-Patterns](https://github.com/transportkollektiv/opendata-antipatterns), also was man beim Veröffentlichen von Open Data alles falsch machen kann, gibt es bereits vom Transportkollektiv. Gleich das erste Anti-Pattern dort, ["Noch ein Datenportal erstellen"](https://github.com/transportkollektiv/opendata-antipatterns/blob/main/patterns/datenportal.md), wird nun "vorbildlich" von [Wiesbaden](https://www.wiesbaden.de/medien/rathausnachrichten/PM_Zielseite.php?showpm=true&amp;pmurl=https://www.wiesbaden.de/guiapplications/newsdesk/publications/Landeshauptstadt_Wiesbaden/141010100000468786.php) umgesetzt, das bis Anfang 2025 eine eigene Open-Data-Plattform einführen möchte. Wobei die damit ebenfalls verbundenen Entscheidung für "Open by Default" positiv zu sehen ist. 
+
+Auch das sich in Gründung befindende Dateninstitut entwickelt sich immer mehr zu einem Anti-Pattern. So findet beispielsweise eine Gemeinwohlorientierung im aktuellen Konzept keine Erwähnung mehr. Aline Blankertz und Henriette Litta [nennen in ihrer gemeinsamen Stellungnahme noch weitere Gründe](https://okfn.de/blog/2024/07/dateninstitut-wmde-okf/), warum sich sowohl die Wikimedia Deutschland als auch die Open Knowledge Foundation Deutschland gegen eine Beteiligung an dem Bewerbungsverfahren entschieden haben.
+
+Es gibt natürlich aber auch positive Patterns. [Die Checkliste](https://caltechlibrary.github.io/RDMworkbook/data-sharing.html#accessible-spreadsheets), die Kristin Briney [vorschlägt abzuarbeiten](http://dataabinitio.com/?p=1158), wenn man tabellarische Daten maschinenlesbar veröffentlicht, kann man als solche Patterns ansehen. 
+
 * Förderrichtlinie Open Data
   Schleswig-Holstein fördert kommunale Open Data Projekte zur Anbindung an das landesweite Portal.
   https://infomedia.sh/2024/07/03/foerderrichtlinie-open-data/
@@ -26,11 +25,11 @@ type: blog
 * seit zwei wochen sind brandneue #luftbilder von #berlin aus diesem jahr verfügbar - inkl. vergleich alter bilder seit 1928.
   https://luftbilder.berlin.codefor.de/
   https://github.com/codeforberlin/luftbilder.berlin.codefor.de/
+* Von offenen Daten und smarten Städten. Das große ODIS-Interview
+  https://citylab-berlin.org/de/blog/von-offenen-daten-und-smarten-staedten-das-grosse-odis-interview/
 * Mit dem internationalen Wettbewerb Coordinate Me gab es jetzt einen extra Boost: 3228 Teilnehmende & 129.102 bearbeitete Wikidata-Einträge! Darunter 15.261 komplett neu angelegte Items.
   https://wikimedia.at/coordinate-me-freie-daten-im-wettbewerb/
   via https://social.wikimedia.de/@wikimediaDE/112756424082779324
-* Die Landeshauptstadt Wiesbaden setzt einen weiteren bedeutenden Schritt zur Förderung offener Daten mit der Einführung einer eigenen „Open Data“-Plattform bis Anfang 2025. Dieser Schritt geht Hand in Hand mit der Prinzipienentscheidung "Open by Default" und der Verabschiedung einer umfassenden „Open Data“-Strategie.
-  https://www.wiesbaden.de/medien/rathausnachrichten/PM_Zielseite.php?showpm=true&amp;pmurl=https://www.wiesbaden.de/guiapplications/newsdesk/publications/Landeshauptstadt_Wiesbaden/141010100000468786.php
 * Unsere Zensusdatenbank mit ersten Daten zu Demografie, Gebäude + Wohnungen ist online! Hier könnt ihr Ergebnisse in Tabellen für Bund, Länder, Kreise, Gemeinden und Bezirke abrufen und mit anderen Merkmalen kombinieren:
   https://ergebnisse.zensus2022.de/datenbank/online/
   via https://social.bund.de/@destatis/112767071708913025
@@ -38,12 +37,6 @@ type: blog
   https://www.data.gouv.fr/fr/posts/lopen-data-du-sport-et-des-jeux-olympiques-et-paralympiques/
   * WADA Anti-Doping Statistics
     https://www.wada-ama.org/en/data-research/anti-doping-statistics
-* Von offenen Daten und smarten Städten. Das große ODIS-Interview
-  https://citylab-berlin.org/de/blog/von-offenen-daten-und-smarten-staedten-das-grosse-odis-interview/
-* Teilnehmerfrust beim Dateninstitut
-  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/teilnehmerfrust-beim-dateninstitut
-* Das Dateninstitut kommt. Die Gemeinwohlorientierung bleibt fraglich
-  https://okfn.de/blog/2024/07/dateninstitut-wmde-okf/
 
 ## Open Data Tools
 * Wir haben soeben DCAT-AP.de 3.0 im Entwurf veröffentlicht.
