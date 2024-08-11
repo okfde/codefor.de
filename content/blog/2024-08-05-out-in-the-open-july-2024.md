@@ -26,6 +26,9 @@ type: blog
 * MVP Umweltinfo - Die Suchmaschine für Umwelt- & Naturschutz-Wissen
   https://mvp.umwelt.info/de/artikel/ueber-die-anbindung-von-daten
   https://mvp.umwelt.info/de
+  * Grundwassermessstellen in Deutschland: 
+    https://mvp.umwelt.info/de/artikel/karte_grundwasser
+  * Terminumfrage: https://terminplaner6.dfn.de/de/p/a53d65c84718886e2c1525a335f18571-825262
 * Backup
   * Corporate Digital Responsibility (CDR) – Strategien für digitale Nachhaltigkeit im Unternehmen
     https://reset.org/corporate-digital-responsibility-cdr-digitale-nachhaltigkeit-unternehmen/
@@ -66,7 +69,7 @@ type: blog
 * Erster Rechtsstreit zu Datennutzung in KI-Training
   Ein Fotograf verklagt LAION e. V. wegen unrechtmäßiger Nutzung seines Bildes in einem KI-Trainingsdatensatz.
   https://blog.wikimedia.de/2024/07/18/erster-rechtsstreit-zu-datennutzung-in-ki-training-das-sind-die-ersten-ergebnisse/
-* "The drinking water used in data centers is often treated with chemicals to prevent corrosion and bacterial growth, rendering it unsuitable for human consumption or agricultural use. This means that not only are data centers consuming large quantities of drinking water, but they are also effectively removing it from the local water cycle."
+* "The drinking water used in data centers is often treated with chemicals to prevent corrosion and bacterial growth, rendering it unsuitable for human consumption or agricultural use. This means that not only are data centers consuming large quantities of drinking water, but they are also effectively removing it from the lofcal water cycle."
   https://mastodon.green/@gerrymcgovern/112819562862310166
 * "Passwort" Folge 7: Prompt Injections
   https://www.heise.de/news/Passwort-Folge-7-Prompt-Injections-9785133.html
@@ -76,6 +79,9 @@ type: blog
 * Bericht: KI-Start-up Anthropic soll unerlaubt Daten abgreifen
   Mehrere Web-Publisher beschuldigen Anthropic, unerlaubt Inhalte für das Training seiner KI-Modelle zu sammeln. Anweisungen, damit aufzuhören, würden ignoriert.
   https://www.heise.de/news/Bericht-KI-Start-up-Anthropic-soll-unerlaubt-Daten-abgreifen-9817584.html
+* KI: Ohne Rücksicht auf Verluste
+  Wenn Goldgräberstimmung aufkommt, profitieren nicht die Goldgräber, sondern die, die Schaufeln verkaufen – besser lässt sich die Situation in der jetzigen KI-Welt nicht zusammenfassen.
+  https://www.heise.de/select/ct/2024/17/2330613153812397752
 
 ## Energie
 * Rekord: 58 Prozent des Stroms aus erneuerbaren Energien
@@ -156,6 +162,8 @@ type: blog
   via https://social.bund.de/@destatis/112767071708913025
 * L'open data du sport et des Jeux Olympiques et Paralympiques
   https://www.data.gouv.fr/fr/posts/lopen-data-du-sport-et-des-jeux-olympiques-et-paralympiques/
+  * WADA Anti-Doping Statistics
+    https://www.wada-ama.org/en/data-research/anti-doping-statistics
 * Von offenen Daten und smarten Städten. Das große ODIS-Interview
   https://citylab-berlin.org/de/blog/von-offenen-daten-und-smarten-staedten-das-grosse-odis-interview/
 * Teilnehmerfrust beim Dateninstitut
@@ -186,6 +194,11 @@ Mehr schattenspendende Bäume entlang von Gehsteigen, Schutz vor Sonne auch bei 
 * Flächengerechtigkeit: How much space do car parks actually take up compared to playgrounds and green spaces? I made a tool that allows you to explore and compare these public spaces in Berlin.
   https://www.hanshack.com/parking/
   via https://troet.cafe/@hanshack/112766511080545141
+  * passend dazu: 
+    * Senatsverwaltung veröffentlicht erstmalige Kartierung sämtlicher öffentlicher Parkplätze an Straßen im Innenstadtbereich
+    https://viz.berlin.de/aktuelle-meldungen/kartierung-samtlicher-offentlicher-parkplatze-im-innenstadtbereich/
+    * Parkraumkartierung
+      https://viz.berlin.de/verkehr-in-berlin/parken/parkraumkartierung/
 * Die #Verwaltungsgebiete 1:250.000 mit #Einwohnerzahlen (VG250-EW) wurden aktualisiert und stehen kostenfrei in unserem #OpenData-Bereich bereit. #Geodaten #Grenzen
   https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2024/240617_VG250EW.html
 * Let’s make contour maps
@@ -297,6 +310,33 @@ https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
 * Warum die Finanzbehörden nicht offenlegen, wer uns mit CumCum-Geschäften um Milliarden € Steuergeld betrogen hat? Weil den Geschäftsbeteiligten "Imageschäden" drohen. https://www.rnd.de/wirtschaft/cumcum-betrueger-welche-behoerde-schuetzte-die-kriminellen-RHWFS4KOQZGZXN2KHS27VERN4E.html
   via https://chaos.social/@fragdenstaat/112808325961576238
 
+## Wahlen
+* Landtagswahlen Sachsen
+  * AbgeordnetenWatch Kandidierenden-Check
+    https://www.kandidierendencheck.de/sachsen
+  * Wahl-o-Mat
+    https://www.wahl-o-mat.de/sachsen2024/app/main_app.html
+  * WahlSwiper
+    https://www.voteswiper.org/de/deutschland/landtagswahl-sachsen-2024
+  * VOTO - Kinderrechte Wahlkompass
+    https://app.voto.vote/app/13976233
+  * Sozial-o-Mat
+    https://sachsen.sozial-o-mat.de/sachsen2024
+* Landtagswahlen Thüringen
+  * AbgeordnetenWatch Kandidierenden-Check
+    https://www.kandidierendencheck.de/thueringen
+  * Wahl-o-Mat
+    https://www.wahl-o-mat.de/thueringen2024/app/main_app.html
+  * WahlSwiper
+    https://www.voteswiper.org/de/deutschland/landtagswahl-thuringen-2024
+  * VOTO - Kinderrechte Wahlkompass
+    https://app.voto.vote/app/16370900
+  * Sozial-o-Mat
+    https://thueringen.sozial-o-mat.de
+* Landtagswahlen Brandenburg  
+  * OSB Alliance Wahlprüfsteine für die Landtagswahl in Brandenburg 2024
+    https://osb-alliance.de/featured/wahlpruefsteine-brandenburg-landtagswahl-2024
+
 ## Recap
 * FOSS4G Europe 2024 Streams
   https://2024.europe.foss4g.org/schedule/talks/
@@ -315,8 +355,13 @@ https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
   https://www.civic-coding.de/angebote/meldungen/ki-und-desinformation
 
 ## Veranstaltungen
+* Jugend hack Events im August
+  * https://okfn.de/blog/2024/08/sommer-bei-jugend-hackt-ein-buntes-programm-f%C3%BCr-junge-hackerinnen/
 * Mittwoch, 07.08.2024, 20:00, online: **Tom Erik Støwer: NPlan, a simple, open source schedule editor to create NeTEx**
   * https://github.com/transportkollektiv/meetup/wiki#welcome-to-the-german-open-transport-meetup-wiki
+* Mittwoch, 07.08.2024, bis Samstag, 10.08.2024, Katowice und online: **Wikimania 2024**
+  * https://wikimania.wikimedia.org/wiki/2024:Wikimania/en
+  * https://www.youtube.com/@TheWikimediaFoundation/playlists
 * Samstag, 10.08.2024, 10:00-18:00, Geofabrik, Amalienstraße 44, Karlsruhe: **OpenStreetMap 20th Anniversary Birthday party**
   * https://wiki.openstreetmap.org/wiki/OpenStreetMap_20th_Anniversary_Birthday_party/Karlsruhe
 * Montag, 12.08.2024, 19:00-21:00, Wikibär, Köpenickerstr. 45, Berlin: **Code for Berlin**
@@ -328,6 +373,8 @@ https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
   * https://programm.froscon.org/2024/index.html
 * Dienstag, 20.08.2024, 10:00-11:30, online: **15. Open-Data-Netzwerktreffen**
   * https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/das-kommunale-open-data-netzwerktreffen#c234826
+* Donnerstag, 22.08.2024, 10:00-11:00, online: **Mit Prototyping zu mehr Digitaler Souveränität: Aktuelle Open-Data- und Open-Source-Projekte aus Berlin**
+  * https://zendis.usercontent.opencode.de/opencode-events/zendisopen/
 * Dienstag, 27.08.2024, 12:00-12:30, online: **CDL - Espresso Talk: Geoinformationen für Humanitäre Hilfe**
   * https://www.correlaid.org/veranstaltungen/cdl-espressotalk-geodaten/
 * Dienstag, 03.09.2024, 11:00-17:30, bUm, Paul-Lincke-Ufer 21, 10999 Berlin: **Prototype Fund: Demo Day der Förderrunde 15**
@@ -351,10 +398,10 @@ https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
   * Münster: jeden Dienstag, 19:30, Wolbeckerstr. 36 (Café Drei:klang)
 
 ## Call for participation
-* Deutscher Mobilitätspreis 2024, Abstimmen bis 18.08.2024
-  * https://mobilitaetspreis.de/bewerben-vorschlagen/
 * Land.OpenData – Ideenwettbewerb, Einreichungen bis Donnerstag, 15.08.2024
   * https://www.ble.de/DE/Projektfoerderung/Foerderungen-Auftraege/BULE/Foerdermassnahmen/Modellprojekte/Land.OpenData.html
+* Deutscher Mobilitätspreis 2024, Abstimmen bis 18.08.2024
+  * https://mobilitaetspreis.de/bewerben-vorschlagen/
 * Montag, 07.10.2024, bis Donnerstag, 11.10.2024, online: **2024 LD4 Conference: Building Community for Linked Open Data**, Einreichungsfrist Sonntag, 25.08.2024
   * https://docs.google.com/forms/d/e/1FAIpQLSeNg1ZHS7ZjwPyU2pWOXplNJ_Xh-dtMYeetXlNrpgUOmICL8g/viewform
   * https://sites.google.com/view/2024-ld4-conference/home
