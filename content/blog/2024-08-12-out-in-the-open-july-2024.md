@@ -87,87 +87,54 @@ Zum neuen Online-Magazin "Neue Zukunft", das über aktuelle Entwicklungen in den
 Auch wenn schon der Corporate Social Responsiblity (CSR) ein marketinglastiger White-Washing-Verdacht anhing, gibt es nun mit [Corporate Digital Responsibility (CDR)](https://cdr-initiative.de/) auch Pendant für die freiwillige Selbstverpflichtung zur digitalen Nachhaltigkeit im Unternehmens-Kontext, wie [Reset in einem Artikel vorstellt](https://reset.org/corporate-digital-responsibility-cdr-digitale-nachhaltigkeit-unternehmen/). [Kodex](https://cdr-initiative.de/kodex) und [Berichte](https://cdr-initiative.de/cdr-berichte) mögen nett klingen, und generelles , aber schon Initiativen wie die [zum Digitalen Datenputz](https://cdr-initiative.de/news/digitaler-datenputz-2024) wirken lächerlich und verlogen, in Anbetracht dessen, wo an anderer Stelle systematisch weiterhin Energie, Wasser und andere Ressourcen verschwendet werden (mehr Rechenzentren werden gebaut, Massendatenspeicherung und -verarbeitung für KI-Training). Ähnlich wie beim CO2-Fußabdruck werden Maßnahmen individualisiert und für Seht-wir-machen-doch-was-fürs-Klima-Marketing-Berichte ausgeschlachtet. Reines Green-Washing, nur um verbindlicheren rechtlichen Vorgaben vorzubeugen.
 
 ## Energie
-* Rekord: 58 Prozent des Stroms aus erneuerbaren Energien
-  https://www.heise.de/news/Rekord-58-Prozent-des-Stroms-aus-erneuerbaren-Energien-9784161.html
-* 10 Jahre Energy-Charts – 10 Grafiken zur Energiewende
-  https://blog.innovation4e.de/2024/07/26/10-jahre-energy-charts-10-grafiken-zur-energiewende/
-* Wie läuft der Ausbau erneuerbarer Energien in Deutschland?
-  https://www.ndr.de/nachrichten/ndrdata/Wie-laeuft-der-Ausbau-von-Solar-Windkraft-Batteriespeicher-Erneuerbare-Energien-in-Deutschland,erneuerbare104.html
+An Hand von [10 ausgewählten Grafiken aus 10 Jahren Energy-Charts](https://blog.innovation4e.de/2024/07/26/10-jahre-energy-charts-10-grafiken-zur-energiewende/) kann man die Entwicklung der Energiewende in diesem Zeitraum nachvollziehen.
+[Am 1. Juli wurde vermeldet](https://www.heise.de/news/Rekord-58-Prozent-des-Stroms-aus-erneuerbaren-Energien-9784161.html), dass im ersten Halbjahr 2024 erneuerbare Energien rund 58 Prozent des Stromverbrauchs in Deutschland deckten.
+Auch beim NDR wird der aktuelle Stand des Ausbaus erneuerbarer Energien [kontinuierlich dokumentiert](https://www.ndr.de/nachrichten/ndrdata/Wie-laeuft-der-Ausbau-von-Solar-Windkraft-Batteriespeicher-Erneuerbare-Energien-in-Deutschland,erneuerbare104.html), auch der Aufbau von Batteriespeichern bleibt nicht unerwähnt.
 
 ## Transparenz
-* Warum die Finanzbehörden nicht offenlegen, wer uns mit CumCum-Geschäften um Milliarden € Steuergeld betrogen hat? Weil den Geschäftsbeteiligten "Imageschäden" drohen. https://www.rnd.de/wirtschaft/cumcum-betrueger-welche-behoerde-schuetzte-die-kriminellen-RHWFS4KOQZGZXN2KHS27VERN4E.html
-  via https://chaos.social/@fragdenstaat/112808325961576238
-* From de jure to de facto transparency: Analyzing the compliance gap in light of freedom of information laws
-  Julia Trautendorfer, Lisa Hohensinn, Dennis Hilgers haben 100.000 IFG-Anfragen über FragDenStaat analysiert - wo antworten Behörden am zuverlässigsten? 
-  https://onlinelibrary.wiley.com/doi/10.1111/rego.12615
+Julia Trautendorfer, Lisa Hohensinn, Dennis Hilgers [haben 100.000 Informationsfreiheits-(IFG)-Anfragen über FragDenStaat analysiert](https://onlinelibrary.wiley.com/doi/10.1111/rego.12615), und konnten so bestimmen, wo Behörden am zuverlässigsten antworten (nämlich dort, wo es überhaupt Informationsfreiheitsgesetze und faire Gebührenverordnungen gibt).
 
-## Open Access
-* Alte Prüfungsaufgaben sollten Schüler*innen kostenfrei für ihre Abschlussvorbereitung zugänglich sein. Fast alle Bundesländer weigern sich und geben sie lieber an Verlage, die mit den Aufgaben Profit machen. Unterstützt die Petition, um Druck auf Kultusminister*innen und Bundesländer zu machen!  https://weact.campact.de/petitions/bildungsgerechtigkeit-statt-privater-profit-alte-prufungsaufgaben-digital-frei-zuganglich-machen
-* Balkonsolar Buch
-  https://www.akkudoktor.net/balkonsolar-buch/
-  via https://chaos.social/@danimo/112735788799557330
-* Handbuch zur Planung flexibler Bedienungsformen im ÖPNV
-  https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/sonderveroeffentlichungen/2023/handbuch-planung-fexibler-bedienungsformen-oepnv.html
-  via https://www.zukunftsnetzwerk-oepnv.de/aktuelles/news/handbuch-zur-planung-flexibler-bedienungsformen-im-oepnv
-* Webinar Recording: Finding, tracking, and analyzing research datasets in OpenAlex
-  https://www.youtube.com/watch?v=cKUKXwxAlOM
-  via https://mastodon.social/@leibnizopenscience/112767742851553448
-* Project launch: OA Datenpraxis- Data Practices for Shaping the Open Access Transformation
-  https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/
-  https://oa-datenpraxis.de
-* Einführung in Open Code
-  Ab sofort gibt es einen neuen Themenbereich beim ZBW Open Economics Guide! Hier lernen Wissenschaftler:innen, wie sie mit Open Code mehr Transparenz und Reproduzierbarkeit in die eigene Forschungen bringen können!
-  https://openeconomics.zbw.eu/open-code/
-  via https://openbiblio.social/@ZBW_MediaTalk/112801717193345993
+Während bei Bürgergeld-Missbrauch sehr genau hingeschaut wird, bleibt der Staat bei der Aufklärung von CumCum- und CumEx-Geschäften [weitestgehend untätig bzw. behindern sie aktiv sogar](https://www.rnd.de/wirtschaft/cumcum-betrueger-welche-behoerde-schuetzte-die-kriminellen-RHWFS4KOQZGZXN2KHS27VERN4E.html%20%20%20via%20https:/chaos.social/@fragdenstaat/112808325961576238). So haben die Finanzbehörden Nordrhein-Westfalens Auskünfte verweigert, mit der unglaublichen Begründung, dass den Involvierten "bei Bekanntwerden ihrer Beteiligung ein nicht unerheblicher Imageschaden, der zudem wirtschaftliche Auswirkungen haben kann" drohe.
 
-## Open Science
-* Demystifying Open Science in health psychology and behavioral medicine: a practical guide to Registered Reports and Data Notes
-  https://www.tandfonline.com/doi/full/10.1080/21642850.2024.2351939#d1e281
-* 11 Jahre Zenodo
-  https://www.openaire.eu/zenodo-11-years-of-setting-the-standards-of-open-science-excellence
+## Open Access und Open Science
+Um Schülern, unabhängig von der finanziellen Ausstattung ihres Elternhaushaltes, eine gleichberechtigte Vorbereitung auf ihre Abschlussprüfungen zu ermöglichen, [fordert eine Petition von Wikimedia Deutschland und FragDenStaat](https://weact.campact.de/petitions/bildungsgerechtigkeit-statt-privater-profit-alte-prufungsaufgaben-digital-frei-zuganglich-machen), alte Prüfungsaufgaben kostenfrei zugänglich zu machen. Einzelne Bundesländer beweise bereits, dass dies möglich ist.
 
+Im Open Economics Guide vom ZBW – Leibniz-Informationszentrum Wirtschaft in Kiel gibt es ein freies  [Lernmodul zum Thema Open Code](https://openeconomics.zbw.eu/open-code/), speziell an Wirtschaftswissenschafter gerichtet.
+
+Sowohl das [Balkonsolar Buch](https://www.akkudoktor.net/balkonsolar-buch/) als auch das [Handbuch zur Planung flexibler Bedienungsformen im ÖPNV](https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/sonderveroeffentlichungen/2023/handbuch-planung-fexibler-bedienungsformen-oepnv.html) vom BBSR stehen als Open Access frei zur Verfügung. Das 
+ÖPNV-Handbuch [zeigt dabei](https://www.zukunftsnetzwerk-oepnv.de/aktuelles/news/handbuch-zur-planung-flexibler-bedienungsformen-im-oepnv), wie Rufbusse, Anrufsammeltaxis und andere On-Demand-Verkehre in Räumen mit geringer ÖPNV-Nachfrage geplant werden können.
+
+Zur Stärkung der Open-Access-Bewegung wurde das Projekt [Open Access Datenpraxis](https://oa-datenpraxis.de) von der Deutsche Forschungsgemeinschaft (DFG) [gestartet](https://infomgnt.org/posts/2024-07-01-Vorstellung-OA-Datenpraxis/).
+
+Wie man Forschungsdatensätze im Wissensgraph von OpenAlex auswerten kann, [wird in diesem Webinar erklärt](https://www.youtube.com/watch?v=cKUKXwxAlOM).
+
+Der Online-Speicherdienst für wissenschaftliche Datensätze, [Zenodo](https://de.wikipedia.org/wiki/Zenodo), [wird 11 Jahre alt](https://www.openaire.eu/zenodo-11-years-of-setting-the-standards-of-open-science-excellence).
 
 ## Open Source
-* Podcast Reihe Open Source und Geld
-  * Open Source und Geld Episode 1
-    In der ersten Folge unserer neuen Staffel Public Interest Podcast zu Open Source und Geld spricht Team Prototype Fund über Geld. Warum braucht es Geld für die Open Source Softwareentwicklung? Welche Rolle spielt es? Ist Geld verdienen die einzige Perspektive für langfristige Softwareentwicklung? Und warum braucht es eigentlich Förderungen?
-    https://prototypefund.de/pips6e1/
-  * In der zweiten Episode unseres Public Interest Podcast zum Thema Geldsprechen wir mit Heiko Rintelen von   FixMyCity über Möglichkeiten, mit Open-Source-Software Geld zu verdienen, was Verwaltungen so von Open Source halten und Tipps, die er für Menschen hat, die noch ganz am Anfang einer Projektidee stehen
-  "Dieser marktwirtschaftliche Druck hat auch Vorteile: Wir werden gezwungen, näher am Kunden zu arbeiten" sagt Heiko Rintelen, Geschäftsführer bei FixMyCity.
-    https://prototypefund.de/pips6e2/
-  * Mehan Jayasuriya ist Senior Program Officer bei der Mozilla Foundation. Dort verantwortet er den Mozilla Technology Fund (MTF) und setzt sich für das Ziel eines offenen und zugänglichen Internet für Alle ein. Im Gespräch verrät er, welches Verständnis er von Geld hat und wie und wofür er es nutzt. Außerdem sprechen wir darüber, wie Geld als Werkzeug genutzt werden kann, um Entwicklung von Code abzusichern und wie sich Mehans Verhältnis zum Begriff „Impact“ im Laufe der Jahre verändert hat.
-  https://prototypefund.de/pips6e3/
-  * Leah Oswald über das Verhältnis Job, Freizeit und Ehrenamt
-    https://prototypefund.de/pips6e4/
-  * Mit Erik Albers von foss.events reden wir über Projektentwicklung in der Freizeit, Motivationen und Hürden in einem kleinen Team und wieso es manchmal sogar gut für ein Projekt sein kann, wenn kein Geld im Spiel ist.
-    https://prototypefund.de/pips6e5/
-* On Open Source and the Sustainability of the Commons
-  https://ploum.net/2024-07-01-opensource_sustainability.html
-* Someone complained that the xkcd Dependency comic is unrealistic because it only shows one critical dependency you've never heard of. However, it all makes sense once you realize it's actually a fractal:
-  https://cloudisland.nz/users/dillon/statuses/112767541388187298
-* Christian Nähle, Geschäftsführer von Do-FOSS, der Initiative für den Einsatz Freier und Open-Source-Software bei der Stadt Dortmund https://opendata.okfn.de/books/open-data-in-der-praxis/page/christian-nahle-geschaftsfuhrer-von-do-foss-der-initiative-fur-den-einsatz-freier-und-open-source-software-bei-der-stadt-dortmund
-via https://digitalcourage.social/@clarisse/112778006240248969
-* EU will Open-Source-Förderprogramm wohl beenden
-  https://netzpolitik.org/2024/next-generation-internet-eu-will-open-source-foerderprogramm-wohl-beenden/
-* FOSS funding vanishes from EU's 2025 Horizon program plans
-  https://www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/
-  via https://hachyderm.io/@cczona/112803278067623346
-* Infrastruktur ist unsichtbar, bis sie ausfällt. Der weltweite IT-Ausfall offenbarte, wie verletzlich uns Monopole wie Microsoft machen. Diesen Schrecken muss man nutzen.
-  https://www.zeit.de/kultur/2024-07/it-stoerung-microsoft-update-infrastruktur-monopol
-* Nachhaltige Softwareentwicklung? Was soll das eigentlich sein?
-  https://prototypefund.de/nachhaltigkeit-ist-mehr-als-nur-gartnerei/
-* Switzerland now requires all government software to be open source
-  https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/
-* Wie der Prototype Fund wirkt
-  https://prototypefund.de/wie-der-prototype-fund-wirkt/
-* Gaia-X is a distraction which should be abandoned
-  "Not only is it [Gaia-X] using up lots of money and resources that could better be spent elsewhere, its very existence fools people into thinking something useful is happening."
-  https://berthub.eu/articles/posts/gaia-x-is-an-expensive-distraction/
-  via https://mastodon.social/@jpmens/112851991626848669
-* ZENDIS Positionspapier - Digitale Souveränität im Vergaberecht
-  https://zendis.de/media/site/88445cc92f-1717603153/2024_06_05-zendis_positionspapier-dis-und-vergaberecht_a4_web.pdf
-* Podcast "Digital leben" | Folge 83 – Open Source und das freundliche Internet: Warum das Netz immer noch großartig ist
-  https://www.mdr.de/mdr-sachsen-anhalt/podcast/digital/digital-leben-open-source-stefan-mey-gemeinschaftsschule-gernrode-landkreis-harz-100.html
+Der Prototypfund widmet sich in den Folgen der neuen Staffel des Public Interest Podcasts speziell dem Thema "Open Source und Geld". In der [ersten Folge](https://prototypefund.de/pips6e1/) ist das Prototypfund-Team selbst zu Gast, in den anschließenden Folgen sind [Heiko Rintelen von FixMyCity](https://prototypefund.de/pips6e2/), [Mehan Jayasuriya vom Mozilla Technology Fund (MTF)](https://prototypefund.de/pips6e3/), [Leah Oswald von chaos.social](https://prototypefund.de/pips6e4/) und [Erik Albers von foss.events](https://prototypefund.de/pips6e5/) die Interviewten.
+
+Wie kann Open Source Software als Gemeingut nachhaltig erhalten bleiben? Ploum schlägt [in seinem Blog vor](https://ploum.net/2024-07-01-opensource_sustainability.html), Software generell nur noch unter einer Copyleft-Lizenz, wie z.B. [AGPL](https://de.wikipedia.org/wiki/GNU_Affero_General_Public_License), zu veröffentlichen, damit Software, die von dieser Software ableitet, auch wieder frei veröffentlicht werden muss. Damit könne man dem Entstehen von Monopolen entgegen wirken, die zwar auf freier Software basieren, selbst aber ihren Code propriertär unter Verschluss halten, um ihn kommerziell exklusiv zu verwerten und das Abhängigkeitsverhältnis (und ihre Machtposition) aufrechtzuerhalten. Die einzelnen Maintainer zu bezahlen, hält er auch für keine gute Idee, weil es damit die alleinige Verantwortung auf den ursprünglichen Entwickler verlagert, statt die Verantwortung bei allen zu sehen, die Interesse an diesem Gemeingut haben (nicht nur den Feuerwehrmann bezahlen, wenn das eigene Haus brennt). Generell machen wir uns es viel zu bequem, wenn wir uns auf die Monopolisten verlassen.
+
+Der weltweite IT-Ausfall offenbarte, wie verletzlich uns Monopole wie Microsoft machen, [befindet auch Titus Blome auf Zeit Online](https://www.zeit.de/kultur/2024-07/it-stoerung-microsoft-update-infrastruktur-monopol). Denn Infrastruktur ist nur solange unsichtbar, bis sie ausfällt.
+
+In der Hinsicht war auch das xkcd-Cartoon irreführend, da es nur eine einzige Abhängigkeit zeigte. Tatsächlich gibt es vieler solcher kleinen Bausteine, weswegen [die Darstellung des Comics als Fraktal der Realität viel näher kommt](https://cloudisland.nz/users/dillon/statuses/112767541388187298).
+
+Das Team vom Prototypfund erklärt, was der Begriff Nachhaltige Softwareentwicklung [für sie bedeutet](https://prototypefund.de/nachhaltigkeit-ist-mehr-als-nur-gartnerei/). Sie beziehen ihn bewusst auf das komplette Ökosystem der Open Source Software, also auch die Community und Infrastruktur um die eigentliche Software herum.
+
+Im Podcast "Digital leben" findet der Autor Stefan Mey, dass die Philosophie offener Software das Internet [freundlicher macht](https://www.mdr.de/mdr-sachsen-anhalt/podcast/digital/digital-leben-open-source-stefan-mey-gemeinschaftsschule-gernrode-landkreis-harz-100.html
+). Außerdem wird eine Schule im Harz vorgestellt, die voll auf Open Source setzt.
+
+Nur wie kann eine dauerhafte Finanzierung von FOSS gewährleistet werden, [fragt sich auch Christian Nähle](https://opendata.okfn.de/books/open-data-in-der-praxis/page/christian-nahle-geschaftsfuhrer-von-do-foss-der-initiative-fur-den-einsatz-freier-und-open-source-software-bei-der-stadt-dortmund), Geschäftsführer von Do-FOSS, der Initiative für den Einsatz Freier und Open-Source-Software bei der Stadt Dortmund. Denn Förderprogramme für FOSS können auslaufen und es droht die Verlagerung der Weiterentwicklung ins Ehrenamt.
+
+So sieht es auch aktuell auch beim EU-Open-Source-Förderprogramm [Next Generation Internet](https://www.ngi.eu) aus, [dessen Finanzierung die EU wohl einstellen wird](https://netzpolitik.org/2024/next-generation-internet-eu-will-open-source-foerderprogramm-wohl-beenden/).
+
+Derweil wird an anderer Stelle das Geld aus dem Fenster geworfen, [findet zu mindestes Bert Hubert auf seinem Blog](https://berthub.eu/articles/posts/gaia-x-is-an-expensive-distraction/) und meint, man solle die Europäische Cloud Initiative Gaia-X einstampfen, weil sie nur vorgeben, etwas Sinnvolles zu tun, tatsächlich sind für die geflossenen Millionen bisher nur ein ein paar Standards und Zertifizierungen entstanden, die niemanden weiterhelfen.
+
+Im [ZENDIS Positionspapier - Digitale Souveränität im Vergaberecht](https://zendis.de/media/site/88445cc92f-1717603153/2024_06_05-zendis_positionspapier-dis-und-vergaberecht_a4_web.pdf) wird der  Vorrang für Open-Source-Software als erforderlich und rechtskonform angesehen. Dennoch spielen Open-Source-Lösungen in der Beschaffungspraxis kaum eine Rolle. Die anstehende Reform des Vergaberechts muss aus Sicht der Autoren sich diesem Problem annehmen.
+
+In der Schweiz ist man da schon viel weiter: deren Regierung [hat nun verfügt](https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/), dass alle Software die durch und für öffentliche Stellen entwickelt wird, Open Source sein muss, sofern Rechte Dritter oder Sicherheitsbedenken nicht dagegen sprechen.
+
+Da der Prototype Fund auf eine Laufzeit von acht Jahren ausgelegt war, die sich nun dem Ende neigen, wird nun reflektiert, [wie die Förderlogik des Funds gewirkt hat](https://prototypefund.de/wie-der-prototype-fund-wirkt/).
 
 ## KI
 * KI-Verordnung tritt in Kraft: Durchlässig wie ein Perlenvorhang
