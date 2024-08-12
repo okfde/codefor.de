@@ -159,118 +159,52 @@ Dabei wird das Wasser auch ganz aus dem Kreislauf gezogen, da es, bevor es zur K
 
 Ohne Millionen Datenarbeiter:innen würden weder sogenannte Künstliche Intelligenz noch Content-Moderation funktionieren. In einem neuen Projekt [erzählen sie ihre Geschichten](https://netzpolitik.org/2024/data-workers-inquiry-die-versteckten-arbeitskraefte-hinter-der-ki-erzaehlen-ihre-geschichten/).
 
-In ihrem neuen Buch [zeigen die Forscher Nick Couldry und Ulises A. Mejias](https://mastodon.social/@rdoe/112750926404719972), dass es eine neue Form des Kolonialismus gibt - die Ausbeutung von Daten.
+Weitere Opfer des KI-Hypes sind
+ * das Urheberrecht (seien es [Texte]((https://www.heise.de/news/Bericht-KI-Start-up-Anthropic-soll-unerlaubt-Daten-abgreifen-9817584.html)) oder [Bilder](https://blog.wikimedia.de/2024/07/18/erster-rechtsstreit-zu-datennutzung-in-ki-training-das-sind-die-ersten-ergebnisse/), denn für immer leistungsfähigere und ausgefeiltere Sprachmodelle werden Unmengen an Trainingsdaten benötigt)
+ * Persönlichkeitsrechte, so ist [nach Meinung des Hamburger Datenschutzbeauftragten](https://datenschutz-hamburg.de/news/hamburger-thesen-zum-personenbezug-in-large-language-models), der Einsatz eines KI-Modells, das mit personenbezogenen Daten trainiert wurde, trotzdem rechtmäßig, da LLMs selbst ja keine Daten speichern - also, [wie Bianca Kastl ironisch anmerkt](https://mastodon.social/@bkastl/112792086348174405), schnell die Ausgangsdaten loswerden und keine Spuren hinterlassen - man könnte das Verfahren  analog zur Geldwäsche auch Datenwäsche nennen
+ * die IT-Security, wie z.B. bei Angriffen über [Prompt Injections](https://www.heise.de/news/Passwort-Folge-7-Prompt-Injections-9785133.html)
 
+Eine [Nature-Studie](https://www.nature.com/articles/s41586-024-07566-y) sagt voraus, dass bald die im Internet frei verfügbaren Inhalte [zu schlecht werden](https://www.heise.de/news/Modellkollaps-wie-synthetische-Daten-KI-killen-koennen-9814434.html), um mit ihnen KI-Modelle trainieren zu können. Denn das Internet wird inzwischen von KIs erzeugten synthetischen Daten geflutet. Damit werden die tatsächlichen Wahrscheinlichkeiten verzerrt, die aus realen, qualitätsgesicherten Daten abgeleitet worden wären.
 
-* Datenwäsche analog zu Geldwäsche
-  Das Speichern von LLMs sind keine personenbezogenen Daten.
-  "Also versuche ich am besten nur noch LLMs im Durchlaufverfahren zu erzeugen und alle Ausgangsdaten so schnell wie möglich loszuwerden. Bloß keine Spuren hinterlassen, weil die sind ja personenbezogen."
-  https://mastodon.social/@bkastl/112792086348174405
-  https://datenschutz-hamburg.de/news/hamburger-thesen-zum-personenbezug-in-large-language-models
+## Datenhandel
+Der unkontrollierte Datenhandel der Online-Werbeindustrie stellt eine Gefahr für den Datenschutz von Bürgern als auch für die nationale Sicherheit dar. Nach Recherchen von [netzpolitik.org](https://netzpolitik.org/2024/databroker-files-firma-verschleudert-36-milliarden-standorte-von-menschen-in-deutschland/) und [BR Data](https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html) haben Datenhändler Standortdaten von Millionen Menschen in Deutschland geteilt. Ein Datensatz mit 3,6 Milliarden Standorten offenbart genaue Bewegungsprofile und eine neue Dimension der kommerziellen Massenüberwachung. Ein laufend aktualisierte Sammlung von Artikeln und Berichte, die zu den Recherchen entstanden sind, [findet man hier](https://netzpolitik.org/2024/databroker-files-die-grosse-datenhaendler-recherche-im-ueberblick/#12).
 
+Auch auf einem belgischer Datenmarktplatz standen versehentlich Passdaten von tausenden Menschen [unverschlüsselt im Netz](https://netzpolitik.org/2024/databroker-belgischer-datenmarktplatz-veroeffentlicht-passdaten-von-tausenden-im-netz/).
 
-* Erster Rechtsstreit zu Datennutzung in KI-Training
-  Ein Fotograf verklagt LAION e. V. wegen unrechtmäßiger Nutzung seines Bildes in einem KI-Trainingsdatensatz.
-  https://blog.wikimedia.de/2024/07/18/erster-rechtsstreit-zu-datennutzung-in-ki-training-das-sind-die-ersten-ergebnisse/
+Xandr, das 2022 von Microsoft aufgekauft wurde, ist neben Google ein Werbegigant, über den viel zu wenig gesprochen wird. Datenschutzbehörden [wollten nun deren Praktiken untersuchen](https://netzpolitik.org/2024/beschwerde-von-noyb-xandr-verweigert-jede-datenauskunft/), aber Xandr verweigert systematisch die Auskunft nach Datenschutzgrundverordnung (DSGVO). Auf dem Online-Angebot der Neuen Züricher Zeitung (NZZ) kann man inzwischen [nicht mehr Xandr als 3rd-Party-Cookie ausstellen](https://dnip.ch/2024/07/31/die-nzz-ist-nun-offiziell-ein-microsoft-datenhaendler-dem-bund-ist-das-egal/).
 
-* "Passwort" Folge 7: Prompt Injections
-  https://www.heise.de/news/Passwort-Folge-7-Prompt-Injections-9785133.html
-* Modellkollaps – wie synthetische Daten KI killen können
-  Generative KI ist nur so gut wie ihre Trainingsdaten. Das Internet ist laut einer Studie dank KI aber bald zu schlecht für KI.
-  https://www.heise.de/news/Modellkollaps-wie-synthetische-Daten-KI-killen-koennen-9814434.html
-* Bericht: KI-Start-up Anthropic soll unerlaubt Daten abgreifen
-  Mehrere Web-Publisher beschuldigen Anthropic, unerlaubt Inhalte für das Training seiner KI-Modelle zu sammeln. Anweisungen, damit aufzuhören, würden ignoriert.
-  https://www.heise.de/news/Bericht-KI-Start-up-Anthropic-soll-unerlaubt-Daten-abgreifen-9817584.html
+Aus Daten wie z.B. Browserverlauf, Hardware, Aufenthaltsort, Bonität, bisherige Einkäufe und sogar der Akkustand lässt sich ableiten, welchen Preis man für ein bestimmtes Produkt wohl zu zahlen bereit wäre. Firmen wie Accenture, McKinsey und Mastercard haben entsprechende Datensammlungen und Algorithmen kombiniert und bieten dies als "Surveillance Pricing" an. Händler, die diese Dienstleistung einkaufen, erlangen somit einen Wettbewerbsvorteil gegenüber datenschutzfreundlicherer Konkurrenz, da sie dadurch die [Konsumentenrente](https://de.wikipedia.org/wiki/Konsumentenrente) besser abschöpfen können. Die US-Behörde FTC versucht nun die Anbieter solcher Dienstleistungen zu mehr Transparenz zu verpflichten.
 
-## Datensparsamkeit
-* Anonymization: The imperfect science of using data while preserving privacy
-  https://www.science.org/doi/10.1126/sciadv.adn7053
-* Die NZZ ist nun offiziell eine Microsoft-Datenhändlerin — dem Bund ist das egal
-  https://dnip.ch/2024/07/31/die-nzz-ist-nun-offiziell-ein-microsoft-datenhaendler-dem-bund-ist-das-egal/
-* PayPal und Kreditkarten: Wer alles weiß, wenn du online bezahlst
-  https://netzpolitik.org/2024/paypal-und-kreditkarten-wer-alles-weiss-wenn-du-online-bezahlst/
-* Xandr verweigert jede Datenauskunft
-  https://netzpolitik.org/2024/beschwerde-von-noyb-xandr-verweigert-jede-datenauskunft/
-* Databroker Files
-  Neue Recherchen von netzpolitik.org und @br_data zeigen: Datenhändler verkaufen genaue Standortdaten von Millionen Menschen in Deutschland und verschleudern sie teils sogar kostenlos. Ein Datensatz mit 3,6 Milliarden Standorten offenbart genaue Bewegungsprofile und eine neue Dimension der kommerziellen Massenüberwachung. https://netzpolitik.org/2024/databroker-files-firma-verschleudert-36-milliarden-standorte-von-menschen-in-deutschland/
-https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
-  via https://chaos.social/@netzpolitik_feed/112794192732932098
-  * Wie Datenhändler Deutschlands Sicherheit gefährden
-    https://netzpolitik.org/2024/databroker-files-wie-datenhaendler-deutschlands-sicherheit-gefaehrden/
-	auf englisch: https://netzpolitik.org/2024/data-broker-files-how-data-brokers-sell-our-location-data-and-jeopardise-national-security/
-  * Wer noch mehr wissen will:
-    https://ard.social/@br_data/112794652682282833
-  * Dieses Staatsversagen schadet uns allen
-    https://netzpolitik.org/2024/databroker-files-dieses-staatsversagen-schadet-uns-allen/s
-  * Jetzt testen: Wurde mein Handy-Standort verkauft?
-    https://netzpolitik.org/2024/databroker-files-jetzt-testen-wurde-mein-handy-standort-verkauft/
-  * Belgischer Datenmarktplatz veröffentlicht Passdaten von Tausenden im Netz
-    https://netzpolitik.org/2024/databroker-belgischer-datenmarktplatz-veroeffentlicht-passdaten-von-tausenden-im-netz/
-  * ADINT – gefährliche Spionage per Online-Werbung
-    https://netzpolitik.org/2024/databroker-files-adint-gefaehrliche-spionage-per-online-werbung/
-  * "Die unkontrollierte Branche der Datenhändler stellt eine klare Bedrohung für die nationale Sicherheit dar", schreibt uns Wyden weiter.
-    https://netzpolitik.org/2024/databroker-files-us-senator-schaltet-pentagon-ein-bundesministerium-fordert-eu-gesetze/
-  * Datarade – geschickte Geschäfte im Graubereich
-    https://netzpolitik.org/2024/databroker-files-datarade-geschickte-geschaefte-im-graubereich/
-  * Abgeordnete kritisieren Staatsgeld für Datenmarktplatz
-    https://netzpolitik.org/2024/databroker-files-abgeordnete-kritisieren-staatsgeld-fuer-datenmarktplatz/
-* Bayerns Polizei darf ab August umstrittene Software einsetzen
-  Wichtiges digitales Werkzeug für Ermittler oder tiefer Eingriff in Grundrechte? Bayerns Polizei darf ab August die umstrittene Palantir-Software VeRA einsetzen. Das beschloss der Landtag mit den Stimmen von CSU, FW und AfD. Die SPD erwägt eine Klage.
-  https://www.br.de/nachrichten/bayern/bayerns-polizei-darf-ab-august-umstrittene-software-einsetzen,UImGMdG
-* Preisdiskriminierung: Mastercard & Co unter der Lupe
-  Browserverlauf, Aufenthaltsort, Bonität, bisherige Einkäufe und vielleicht der Akkustand fließen in Algorithmen, die Verbrauchern den maximalen Preis abringen.
-  https://www.heise.de/news/Ueberwachungskapitalismus-US-Behoerde-untersucht-Preis-Algorithmen-9813941.html
+Ein weiteres Problem: der Online-Zahlungsmarkt wird quasi von Paypal beherrscht und auch bei Kreditkarten gibt es mit Mastercard und Visa nur zwei relevante große Anbieter. [Und sie alle teilen die Daten](https://netzpolitik.org/2024/paypal-und-kreditkarten-wer-alles-weiss-wenn-du-online-bezahlst/), die bei den Zahlungstransaktionen anfallen mit anderen Firmen, damit diese personalisierte Werbeanzeigen schalten können.
 
 ## Wahlen
-* Landtagswahlen Sachsen
-  * AbgeordnetenWatch Kandidierenden-Check
-    https://www.kandidierendencheck.de/sachsen
-  * Wahl-o-Mat
-    https://www.wahl-o-mat.de/sachsen2024/app/main_app.html
-  * WahlSwiper
-    https://www.voteswiper.org/de/deutschland/landtagswahl-sachsen-2024
-  * VOTO - Kinderrechte Wahlkompass
-    https://app.voto.vote/app/13976233
-  * Sozial-o-Mat
-    https://sachsen.sozial-o-mat.de/sachsen2024
+Am 1.9. stehen Landtagswahlen sowohl in Sachsen als auch in Thüringen an. Um die Wahlentscheidung zu erleichtern gibt es diverse Wahlhelfer für beide Bundesländer:
+* Landtagswahlen Sachsen:
+  * [AbgeordnetenWatch Kandidierenden-Check](https://www.kandidierendencheck.de/sachsen)
+  * [Wahl-o-Mat](https://www.wahl-o-mat.de/sachsen2024/app/main_app.html)
+  * [WahlSwiper](https://www.voteswiper.org/de/deutschland/landtagswahl-sachsen-2024)
+  * [VOTO - Kinderrechte Wahlkompass](https://app.voto.vote/app/13976233)
+  * [Sozial-o-Mat](https://sachsen.sozial-o-mat.de/sachsen2024)
 * Landtagswahlen Thüringen
-  * AbgeordnetenWatch Kandidierenden-Check
-    https://www.kandidierendencheck.de/thueringen
-  * Wahl-o-Mat
-    https://www.wahl-o-mat.de/thueringen2024/app/main_app.html
-  * WahlSwiper
-    https://www.voteswiper.org/de/deutschland/landtagswahl-thuringen-2024
-  * VOTO - Kinderrechte Wahlkompass
-    https://app.voto.vote/app/16370900
-  * Sozial-o-Mat
-    https://thueringen.sozial-o-mat.de
-* Landtagswahlen Brandenburg
-  * OSB Alliance Wahlprüfsteine für die Landtagswahl in Brandenburg 2024
-    https://osb-alliance.de/featured/wahlpruefsteine-brandenburg-landtagswahl-2024
-* KI-basierte Lösung Wahlweise
-  Geführte Auswahl mit flexiblen Antworten oder alternativ Interaktiver Chat mit Wahlprogrammen
-  https://wahlweise.info
-* Kommunal-o-Mat
-  https://www.ufu.de/ufu-informationen/kommunalomat/
-  https://www.kinder-jugendrat-halle.de/kommunal-o-mat/
-  * basiert auf OpenSource-Framework https://open-election-compass.com/de/
+  * [AbgeordnetenWatch Kandidierenden-Check](https://www.kandidierendencheck.de/thueringen)
+  * [Wahl-o-Mat](https://www.wahl-o-mat.de/thueringen2024/app/main_app.html)
+  * [WahlSwiper](https://www.voteswiper.org/de/deutschland/landtagswahl-thuringen-2024)
+  * [VOTO - Kinderrechte Wahlkompass](https://app.voto.vote/app/16370900)
+  * [Sozial-o-Mat](https://thueringen.sozial-o-mat.de)
+
+Für die Landtagswahlen Brandenburg am 22.9. hat die OSB Alliance mit [Wahlprüfsteinen](https://osb-alliance.de/featured/wahlpruefsteine-brandenburg-landtagswahl-2024) die Standpunkte der Parteien hinsichtlich digitale Souveränität, Open Source und offene Standards abgeklopft.
+
+Wer interaktiv mit den Wahlprogrammen chatten möchte, kommt bei der KI-basierten Lösung [Wahlweise](https://wahlweise.info) auf seine Kosten. In einem zweiten KI-Modus kann man sich alternativ aber auch mit flexiblen Antworten führen lassen.
+
+Auf dem OpenSource-Framework [Open Election Compass](https://open-election-compass.com/de/) fusst der [Kommunal-o-Mat](https://www.kinder-jugendrat-halle.de/kommunal-o-mat/) für Halle an der Saale.  In kleinen Workshops mit dem Kinder- und Jugendrat sowie dem Stadtschülerrat [wurden Anliegen und Fragen an die Kommunalpolitik gesammelt](https://www.ufu.de/ufu-informationen/kommunalomat/) und diese mit dann erhaltenen Antworten der Parteien in das Tool eingepflegt.
 
 ## Recap
-* FOSS4G Europe 2024 Streams
-  https://2024.europe.foss4g.org/schedule/talks/
-  * Talk by @edward at #FOSS4GE2024 about bridging #OpenStreetMap and #WikiData:
-    https://mastodon.social/@phanecak/112733082860247220
-* #GenoDigital Barcamp 2024
-  https://genossenschaften.digital/events/barcamp-2024
-* Netzwerk Recherche - Jahreskonferenz 2024
-  https://www.youtube.com/playlist?list=PL3k-vp8y4t2vMkH1Kb2d-vG1Q6iVBKRMC
-  * Datasette: So schwer ist es nicht: Datenbanken für Journalist*innen
-    https://github.com/br-data/nr24-datasette
-* HACK AND HARVEST Hackathon
-  https://cyberlago.net/news/projekt-barriere-sticker-gewinnt-goldene-aehre-beim-sechsten-hack-and-harvest-hackathon/
-  https://www.youtube.com/watch?v=rDJFF5Lr9os
-* KI und Desinformation: Ein Blick auf die Auswirkungen auf unsere Demokratie (Anmeldung erforderlich)
-  https://www.civic-coding.de/angebote/meldungen/ki-und-desinformation
+Zusammenfassungen / Mitschnitte vergangener Veranstaltungen:
+* [FOSS4G Europe 2024 Streams](https://2024.europe.foss4g.org/schedule/talks/)
+* [GenoDigital Barcamp 2024](https://genossenschaften.digital/events/barcamp-2024)
+* [Netzwerk Recherche - Jahreskonferenz 2024](https://www.youtube.com/playlist?list=PL3k-vp8y4t2vMkH1Kb2d-vG1Q6iVBKRMC)
+* [HACK AND HARVEST Hackathon](https://www.youtube.com/watch?v=rDJFF5Lr9os) mit [diesen Projekten](https://cyberlago.net/news/projekt-barriere-sticker-gewinnt-goldene-aehre-beim-sechsten-hack-and-harvest-hackathon/)
+* [KI und Desinformation: Ein Blick auf die Auswirkungen auf unsere Demokratie](https://www.civic-coding.de/angebote/meldungen/ki-und-desinformation) (Anmeldung erforderlich)
 
 ## Veranstaltungen
 * Jugend hackt Events im August
@@ -301,6 +235,8 @@ https://interaktiv.br.de/ausspioniert-mit-standortdaten/index.html
   * https://veranstaltungen.dataport.de/infoveranstaltung/sh/foerderrichtlinie-open-data
 * Dienstag, 03.09.2024, 11:00-17:30, bUm, Paul-Lincke-Ufer 21, 10999 Berlin: **Prototype Fund: Demo Day der Förderrunde 15**
   * https://prototypefund.de/demo-day/#Programm
+* Mittwoch, 04.09.2024, online: **Open Transport Meetup mit Julius Tens zu NeTEx - a general introduction / modelling railway stations**
+  * https://hackmd.okfn.de/opentransportmeetup
 * Donnerstag, 05.09.2024, Potsdam: **Barcamp Open Science**
   * https://www.barcamp-open-science.eu
 * Freitag, 06.09.2024, bis Sonntag, 08.09.2024, An der Schanz 6, Köln: **Jugend hack Köln***
