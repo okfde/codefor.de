@@ -137,42 +137,42 @@ In der Schweiz ist man da schon viel weiter: deren Regierung [hat nun verfügt](
 Da der Prototype Fund auf eine Laufzeit von acht Jahren ausgelegt war, die sich nun dem Ende neigen, wird nun reflektiert, [wie die Förderlogik des Funds gewirkt hat](https://prototypefund.de/wie-der-prototype-fund-wirkt/).
 
 ## KI
-* KI-Verordnung tritt in Kraft: Durchlässig wie ein Perlenvorhang
-  https://netzpolitik.org/2024/ki-verordnung-tritt-in-kraft-durchlaessig-wie-ein-perlenvorhang/
+Mit dem neuen Prototypen [GeoExplorer](https://geoexplorer.odis-berlin.de) der Open Data Informationsstelle Berlin (ODIS) können Nutzer über eine Freitexteingabe ohne (Fach-)Vorkenntnisse das Geodatenangebot des Landes [durchsuchen](https://odis-berlin.de/projekte/2024-07-geoexplorer/). Die zurückgelieferte Ergebnisse werden durch das zu Grunde liegende KI-Sprachmodell nach Relevanz der Datensätze zur Suchanfrage in einem Graphen angeordnet. Relevantere Datensätzen liegen dabei näher am Mittelpunkt, einander ähnliche Ergebnisse liegen auch im Graphen nahe bei einander. Der Blog geoObserver [hat das Tool getestet](https://geoobserver.de/2024/07/17/open-data-und-ki-in-berlin-der-geoexplorer/) und ist mit den Suchergebnissen zufrieden.
 
-* Microsofts KI Aurora ermöglicht genaue Vorhersage von Luftverschmutzung
-  https://www.heise.de/news/Microsofts-KI-Aurora-ermoeglicht-genaue-Vorhersage-von-Luftverschmutzung-9790082.html
-  https://arxiv.org/pdf/2405.13063
-* Die versteckten Arbeitskräfte hinter der KI erzählen ihre Geschichten
-  https://netzpolitik.org/2024/data-workers-inquiry-die-versteckten-arbeitskraefte-hinter-der-ki-erzaehlen-ihre-geschichten/
-* Der Kolonialismus ist kein Kind der Vergangenheit. Und nicht nur das, es gibt sogar eine neue Form des Kolonialismus - die Ausbeutung von Daten. In ihrem neusten Buch zeigen die renommierten Forscher Nick Couldry und Ulises A. Mejias diese Machenschaften auf
-  https://slow-magazine.org/newsletter
-  https://slow-magazine.org/
-  via https://mastodon.social/@rdoe/112750926404719972
-* KI-Kompass vergleicht rund 40 KI-Sprachmodelle
-  https://www.heise.de/news/KI-Kompass-vergleicht-rund-40-KI-Sprachmodelle-9794173.html
-* "die Schere zwischen dem rasant wachsenden Einsatz von KI-Systemen und den dafür notwendigen Kompetenzen, Standards und Strukturen geht immer weiter auseinander."
-  https://mdb.anke.domscheit-berg.de/2024/07/pm-kleineanfrage-kuenstliche-intelligenz-bund/
-* Ontologien in der Medizin: Struktur und Erstellung
-  Über den Aufbau und die Herausforderungen von Ontologien und Terminologien am Beispiel der Medizin.
-  https://www.heise.de/hintergrund/Ontologien-in-der-Medizin-Struktur-und-Erstellung-9797489.html
-  * Terminologien und Ontologien: Konkrete Anwendungsbeispiele https://www.heise.de/hintergrund/Terminologien-und-Ontologien-Konkrete-Anwendungsbeispiele-9803450.html?seite=all
+Eine Artikelserie bei heise beschäftigt sich damit, wie Ontologien in der Medizin die aktuellen KI-Modelle zuverlässiger und sicherer machen können. Der erste Teil zeigt zunächst, wie sich Sprache in der Medizin [formalisieren lässt](https://www.heise.de/hintergrund/Ontologien-Terminologien-Wie-sich-Sprache-in-der-Medizin-formalisieren-laesst-9794852.html). Im [zweiten Teil](https://www.heise.de/hintergrund/Ontologien-in-der-Medizin-Struktur-und-Erstellung-9797489.html) erfährt man, wie Terminologien aufgebaut sind und algorithmisch angewendet werden können. Im abschließenden Teil werden [konkrete Anwendungsbeispiele](https://www.heise.de/hintergrund/Terminologien-und-Ontologien-Konkrete-Anwendungsbeispiele-9803450.html?seite=all) vorgestellt.
+
+Auf [KI-Kompass](https://www.buzzwoo.de/kuenstliche-intelligenz), dem kostenlosen Vergleichsportal für Large Language Models (LLM), lassen sich rund 40 KI-Sprachmodelle [gegenüberstellen](https://www.heise.de/news/KI-Kompass-vergleicht-rund-40-KI-Sprachmodelle-9794173.html). In der [LMSYS Chatbot Arena](https://chat.lmsys.org) gibt es sogar 71 Sprachmodelle, die gegeneinander antreten können.
+
+Das Kölner Unternehmen [DeepL](https://www.deepl.com/de/translator) hat ein neues Large Language Model (LLM) für seinen Übersetzungsdienst [vorgestellt](https://www.heise.de/news/DeepL-erweitert-sein-Angebot-und-nutzt-grosses-Sprachmodell-fuer-Uebersetzungen-9804667.html).
+
+Microsofts KI [Aurora](https://www.microsoft.com/en-us/research/blog/introducing-aurora-the-first-large-scale-foundation-model-of-the-atmosphere/) kann neben dem Wetter nun auch die Luftverschmutzung [vorhersagen](https://www.heise.de/news/Microsofts-KI-Aurora-ermoeglicht-genaue-Vorhersage-von-Luftverschmutzung-9790082.html) und kann so auch als Frühwarnsystem genutzt werden.
+
+## (Fehlende) Regeln für KI
+Dennoch: "Die Schere zwischen dem rasant wachsenden Einsatz von KI-Systemen und den dafür notwendigen Kompetenzen, Standards und Strukturen geht immer weiter auseinander.", [befindet Anke Domscheit-Berg](https://mdb.anke.domscheit-berg.de/2024/07/pm-kleineanfrage-kuenstliche-intelligenz-bund/), nachdem aus einer kleinen Anfrage herausgekommen ist, dass der Bund zwar 2,5 Milliarden Euro für KI-Vorhaben ausgibt, dafür bei Dreiviertel der 212 KI-Anwendungen im Bund Nachhaltigkeitskriterien keinerlei Rolle spielen.
+
+Auch der [D64](https://d-64.org) sieht die Notwendigkeit klarer Regeln für den verantwortungsvollen Einsatz von KI, gerade weil Regelungen wie die gerade am 1. August in Kraft getretene KI-Verordnung (AI Act) [noch viel zu viele Leerstellen lassen](https://netzpolitik.org/2024/ki-verordnung-tritt-in-kraft-durchlaessig-wie-ein-perlenvorhang/). Für den Gebrauch von KI-Anwendungen speziell durch die Zivilgesellschaft selbst möchte der Verein deswegen diese diskursiv in seinem Projekt ["Code of Conduct Demokratische KI" erarbeiten](https://d-64.org/herausforderungen-ki-zivilgesellschaft/).
+
+## KI - ohne Rücksicht auf Verluste
+Im seinem [ct-Standpunkt](https://www.heise.de/select/ct/2024/17/2330613153812397752) vergleicht Wilhelm Drehling den aktuellen KI-Hype mit der Goldgräberstimmung vor 128 Jahren. Es "profitieren nicht die Goldgräber, sondern die, die Schaufeln verkaufen". Wurden damals aus purer Gier Wälder abgeholzt und Flüsse verunreinigt, schaden heute unnötige KI-Projekte im großen Maße der Umwelt, indem sie weiter Energie und Wasser verschlingen.
+
+Dabei wird das Wasser auch ganz aus dem Kreislauf gezogen, da es, bevor es zur Kühlung von Datenzentren zum Einsatz kommt, [erst noch chemisch behandelt wird](https://mastodon.green/@gerrymcgovern/112819562862310166), um Korrosion und Bakterienwachstum vorzubeugen.
+
+Ohne Millionen Datenarbeiter:innen würden weder sogenannte Künstliche Intelligenz noch Content-Moderation funktionieren. In einem neuen Projekt [erzählen sie ihre Geschichten](https://netzpolitik.org/2024/data-workers-inquiry-die-versteckten-arbeitskraefte-hinter-der-ki-erzaehlen-ihre-geschichten/).
+
+In ihrem neuen Buch [zeigen die Forscher Nick Couldry und Ulises A. Mejias](https://mastodon.social/@rdoe/112750926404719972), dass es eine neue Form des Kolonialismus gibt - die Ausbeutung von Daten.
+
+
 * Datenwäsche analog zu Geldwäsche
   Das Speichern von LLMs sind keine personenbezogenen Daten.
   "Also versuche ich am besten nur noch LLMs im Durchlaufverfahren zu erzeugen und alle Ausgangsdaten so schnell wie möglich loszuwerden. Bloß keine Spuren hinterlassen, weil die sind ja personenbezogen."
   https://mastodon.social/@bkastl/112792086348174405
   https://datenschutz-hamburg.de/news/hamburger-thesen-zum-personenbezug-in-large-language-models
-* GeoExplorer
-  https://geoobserver.de/2024/07/17/open-data-und-ki-in-berlin-der-geoexplorer/
-  https://geoexplorer.odis-berlin.de
-* Notwendigkeit klarer Regeln und die Arbeit an einem "Code of Conduct Demokratische KI" zur Sicherstellung eines verantwortungsvollen Einsatzes.
-  https://d-64.org/herausforderungen-ki-zivilgesellschaft/
-* DeepL stellt leistungsfähiges Sprachmodell für Übersetzungen vor https://www.heise.de/news/DeepL-erweitert-sein-Angebot-und-nutzt-grosses-Sprachmodell-fuer-Uebersetzungen-9804667.html
+
+
 * Erster Rechtsstreit zu Datennutzung in KI-Training
   Ein Fotograf verklagt LAION e. V. wegen unrechtmäßiger Nutzung seines Bildes in einem KI-Trainingsdatensatz.
   https://blog.wikimedia.de/2024/07/18/erster-rechtsstreit-zu-datennutzung-in-ki-training-das-sind-die-ersten-ergebnisse/
-* "The drinking water used in data centers is often treated with chemicals to prevent corrosion and bacterial growth, rendering it unsuitable for human consumption or agricultural use. This means that not only are data centers consuming large quantities of drinking water, but they are also effectively removing it from the lofcal water cycle."
-  https://mastodon.green/@gerrymcgovern/112819562862310166
+
 * "Passwort" Folge 7: Prompt Injections
   https://www.heise.de/news/Passwort-Folge-7-Prompt-Injections-9785133.html
 * Modellkollaps – wie synthetische Daten KI killen können
@@ -181,9 +181,6 @@ Da der Prototype Fund auf eine Laufzeit von acht Jahren ausgelegt war, die sich 
 * Bericht: KI-Start-up Anthropic soll unerlaubt Daten abgreifen
   Mehrere Web-Publisher beschuldigen Anthropic, unerlaubt Inhalte für das Training seiner KI-Modelle zu sammeln. Anweisungen, damit aufzuhören, würden ignoriert.
   https://www.heise.de/news/Bericht-KI-Start-up-Anthropic-soll-unerlaubt-Daten-abgreifen-9817584.html
-* KI: Ohne Rücksicht auf Verluste
-  Wenn Goldgräberstimmung aufkommt, profitieren nicht die Goldgräber, sondern die, die Schaufeln verkaufen – besser lässt sich die Situation in der jetzigen KI-Welt nicht zusammenfassen.
-  https://www.heise.de/select/ct/2024/17/2330613153812397752
 
 ## Datensparsamkeit
 * Anonymization: The imperfect science of using data while preserving privacy
