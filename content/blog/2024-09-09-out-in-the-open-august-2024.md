@@ -55,6 +55,10 @@ type: blog
   https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html
 * ChatGPTs Stromverbrauch: Zehnmal mehr als bei Google
   https://www.heise.de/news/ChatGPTs-Stromverbrauch-Zehnmal-mehr-als-bei-Google-9852126.html
+* kotaemon: An open-source RAG-based tool for chatting with your documents.
+  https://github.com/Cinnamon/kotaemon
+* RAG techniques: showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+  https://github.com/NirDiamant/RAG_Techniques
 
 ## Citizens Science
 * Open CALL for Citizen Observatories across Europe!
@@ -182,6 +186,9 @@ type: blog
   https://taz.de/Studie-zu-Umweltmassnahmen/!6028192/
 * Reparatur-Atlas in Sachsen-Anhalt gestartet
   https://www.zeit.de/news/2024-08/07/reparatur-atlas-in-sachsen-anhalt-gestartet
+* Electricity Maps: A real-time visualisation of the CO2 emissions of electricity consumption
+  https://app.electricitymaps.com/map
+  https://github.com/electricitymaps/electricitymaps-contrib
 
 ## Erdbeobachtung
 * Vulkanausbruch in Island
