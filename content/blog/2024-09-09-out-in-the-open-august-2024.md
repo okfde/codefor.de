@@ -23,6 +23,7 @@ type: blog
   via https://swiss.social/users/thomasweibel/statuses/112955740139487021
 * Ich habe in den letzten Wochen die eine oder andere datenbereitstellende Stelle angeschrieben, die tatsächlich -nc oder -nd-Lizenzen verwendet haben (und nicht nur einfach Datenfelder leergelassen hatten). Manchmal sind es lösbare Probleme. So verwendet Potsdam eine selbstgebaute Lizenz, die nicht mit Open Data-Prinzipien vereinbar ist. Teilweise haben sie die Lizenz einzelner Datensätze geändert auf Nachfrage. Das finde ich gut.
   https://gruene.social/@mathias/112971972016366770
+  * passend dazu: https://gruene.social/@mathias/113033220932399361
 * Leitlinie zur Publikation von Open Data im Geschäftsbereich des BMEL
   https://www.bmel.de/DE/ministerium/organisation/leitlinien-open-data.html
   via https://social.bund.de/@opendatabund/112994109899175186
@@ -31,13 +32,29 @@ type: blog
   via https://social.bund.de/@opendatabund/112999600220393312
 * CKAN 2.11 veröffentlicht
   https://blog.okfn.org/2024/08/21/ckan-2-11-hypermedia-approach-for-the-tech-we-want/
+* Schwimmbäder in Schleswig-Holstein (Stand 2023)
+  https://opendata.schleswig-holstein.de/dataset/schwimmbader-in-schleswig-holstein
+  via https://norden.social/@MisterOpenData/113033147883232807
+* Free Public APIs · A comprehensive API list with endpoints checked daily 
+  https://www.freepublicapis.com
+  via https://mastodon.social/@inautilo/113038460793650430
+* Linked Open Data auf dem Prüfstand
+  Eineinhalb Jahre lang hat die Kantonsverwaltung Zürich LinkedOpenData erprobt. Am Ende hatten wir einen Datensatz publiziert und eine Vorstellung davon, warum es nicht mehr waren
+  https://www.zh.ch/de/news-uebersicht/mitteilungen/2024/politik-staat/statistik/linked-open-data-auf-dem-pruefstand.html
+* Der Musterdatenkatalog wächst auf rund 30.000 Datensätze an
+  https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/der-musterdatenkatalog-waechst-auf-rund-30000-datensaetze-an
 
 ## KI
 * Warum Offenheit bei Künstlicher Intelligenz (KI) für Bildung und Wissenschaft wichtig ist
   https://open-access.network/blog/warum-offenheit-bei-kuenstlicher-intelligenz-ki-fuer-bildung-und-wissenschaft-wichtig-ist
 * Linux Foundation Backs Open Source LLM Initiative
   https://thenewstack.io/linux-foundation-backs-open-source-llm-initiative/
-
+* Chatbots bringen noch immer viele Falschinformationen in Umlauf
+  https://algorithmwatch.org/de/chatbots-bringen-noch-immer-viele-falschinformationen-in-umlauf/
+* When A.I.’s Output Is a Threat to A.I. Itself
+  https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html
+* ChatGPTs Stromverbrauch: Zehnmal mehr als bei Google
+  https://www.heise.de/news/ChatGPTs-Stromverbrauch-Zehnmal-mehr-als-bei-Google-9852126.html
 
 ## Citizens Science
 * Open CALL for Citizen Observatories across Europe!
@@ -45,6 +62,8 @@ type: blog
   via https://chaos.social/@schenklklopfer/112903479643138919
 * NASA Citizen Scientists Spot Object Moving 1 Million Miles Per Hour
   https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-spot-object-moving-1-million-miles-per-hour/
+* Mitmachen bei #unsereFlüsse!
+  https://www.swr.de/home/unsere-fluesse-formular-100.html
 
 ## Methodik
 * Anonymization: The imperfect science of using data while preserving privacy
@@ -61,6 +80,8 @@ type: blog
   * Kein Public Money, public code beim Bund
     https://mdb.anke.domscheit-berg.de/2024/08/ampel-ohne-public-money-public-code/
   via https://linke.social/users/ankedb/statuses/112927959910631895
+* Digital unsouverän: Bundesregierung legt sich an Broadcoms Kette
+  https://netzpolitik.org/2024/digital-unsouveraen-bundesregierung-legt-sich-an-broadcoms-kette/
 
 ## Open Source Anwendungen
 * Die Smart Village App ist ein Open Source App Baukasten für Kommunen. Was diese App alles kann, habe ich mit Philipp Wilimzig ausführlich besprochen.
@@ -68,13 +89,34 @@ type: blog
 * Simulate and visualize the solar potential on 3D building data
   https://www.openpv.de (nur für Bayern aktuell)
   https://github.com/open-pv/
+* Weiterentwicklung und den Betrieb der Enterprise Edition von #openDesk
+  https://zendis.de/ressourcen/zendis-erteilt-zuschlag-fuer-rahmenvertrag-fuer-opendesk-enterprise-edition-und-saas-angebot
+  via https://mastodon.social/@b1systems/113034291383054045
+* make-nxm - A bash script to facilitate flyer production from a picture
+  https://github.com/Wikinaut/make-nxm
+  via https://chaos.social/@tbsprs/113035436427209860
+* Propcorn - A public good for micro-funding small features
+  https://github.com/deeecent/propcorn
+  via https://chaos.social/@tbsprs/113035718095424214
+* Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting
+  https://research.paulengstler.com/invisible-stitch/
+  via https://chaos.social/@tbsprs/113035589142173101
+* Die neue Version des in Runde 12 des Prototype Fund geförderten Leerstandsmelder ist da - Neues Design, neue Inhalte:
+  https://leerstandsmelder.in
+  via https://mastodon.social/@PrototypeFund/113040398033117121
 
+## Open Source Hardware
+* OpenScan - A low-cost, high-quality 3D scanner that you can build yourself - completely open source and modular
+  https://openscan.eu
 
 ## Open Science
 * Im Open Economics Guide bietet die ZBW einen übersichtlichen Katalog von über 100 aktuellen Open-Science-Tools an, die alle kostenlos nutzbar sind!
   https://openeconomics.zbw.eu/knowledgebase/open-science-tools/
 * Neue Formen der Open-Access-Finanzierung. Best Practices auf dem Weg zum Informationsbudget und zu alternativen Finanzierungsmodellen für Diamond Open Access
   https://zenodo.org/records/13271363
+* Das Partyspiel "Research Data Scarytales" vom Thüringer Kompetenznetzwerk Forschungsdatenmanagement
+  https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html
+  via https://chaos.social/@derbruesseler/113051218594731297
 
 ## Karten
 * Fehlende Gebäude identifizieren
@@ -94,6 +136,10 @@ type: blog
   via https://techhub.social/@GregCocks/112961668676642715
 * A Gentle Introduction to GDAL Part 8: Reading Scientific Data Formats
   https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-8-reading-scientific-data-formats-1a1f70d5388c
+* Der Landcover Austria-Atlas – Landschafts- und Lebensräume im regionalen Kontext
+  https://www.opendataportal.at/der-landcover-austria-atlas-landschafts-und-lebensraume-im-regionalen-kontext/
+* Nur eine Karte zeichnen
+  https://open-north.de/blog/2024-08-28_nur_eine_karte/
 
 ## Energie
 * Energieverbrauch von (OpenSource-) Software senken
@@ -110,6 +156,11 @@ type: blog
   https://www.heise.de/news/Deutsche-Bahn-gibt-Verkehrsdaten-an-Mobilitaetsplattformen-weiter-9836073.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon
 * How bicycle friendly is Germany
   https://blog.datawrapper.de/bicycle-friendly-germany/
+* PrognosedatenDeutschlandweite Prognosedaten des ÖPNV
+  https://mobilithek.info/blog/deutschlandweite-prognosedaten
+  * Großer Sprung im heutigen #DELFIeV #zHV Update: für ca. 1.500 Haltestellen gibt es nun neu mastscharfe Angaben
+    https://gtfs.mfdz.de/delfi/
+    via https://chaos.social/@mfdz/113028419868898870
 
 ## Klima
 * Verstärkter Druck auf Zivilgesellschaft und Klimaaktivist*innen - Wie Staaten zivilgesellschaftliches Engagement immer mehr einschränken
@@ -127,6 +178,22 @@ type: blog
 * Bundeswirtschaftsministerium hält heiklen Bericht zu klimaschädlichen Subventionen neun Monate geheim: Deutsche Umwelthilfe erzwingt Freigabe und kritisiert dreiste Falschaussage
   https://www.duh.de/presse/pressemitteilungen/pressemitteilung/bundeswirtschaftsministerium-haelt-heiklen-bericht-zu-klimaschaedlichen-subventionen-neun-monate-gehei/
   siehe auch https://climatejustice.global/@GermanZeroHH/112988810504123988
+* Studie zu Umweltmaßnahmen: Klima-Gesetze meist ineffektiv
+  https://taz.de/Studie-zu-Umweltmassnahmen/!6028192/
+* Reparatur-Atlas in Sachsen-Anhalt gestartet
+  https://www.zeit.de/news/2024-08/07/reparatur-atlas-in-sachsen-anhalt-gestartet
+
+## Erdbeobachtung
+* Vulkanausbruch in Island
+  Our #CopernicusAtmosphere Monitoring Service is tracking the SO2 plume from the volcanic activity on Iceland's #Reykjanes Peninsula. The highest concentrations are between 5-8 km with some increase at ground-level less than the 350 μg/m3 exposure threshold.
+  https://atmosphere.copernicus.eu/so2-reykjanes-volcano-reaches-europe
+  via https://masto.ai/users/CopernicusECMWF/statuses/113034169464874985
+  * dazu passend: Ein Vulkan im 3D-Modell: Während der Vulcano Summer School 2024 kartierte ein DLR-Team den Vulkan "La Fossa" mit modernster Drohnentechnologie. Das MACS-Kamerasystem des DLR nahm in nur zwei Stunden Flugzeit rund 8.000 Luftbilder auf, die ein beeindruckendes 3D-Modell in Echtzeit ermöglichen. Das Ergebnis der photogrammetrischen Verarbeitung – also der Prozessierung der Luftbilddaten zu einem digitalen Oberflächenmodell – ist im neuen DLR-Blogbeitrag zu sehen
+  https://www.dlr.de/de/blog/archiv/2024/der-vulkan-la-fossa-in-3d
+* Waldbrände in Südamerika
+  https://atmosphere.copernicus.eu/charts/packages/cams/products/aerosol-forecasts?base_time=202409010000&layer_name=composition_aod550&projection=classical_south_america&valid_time=202409010300
+  via https://masto.ai/@CopernicusECMWF/113044153124766984
+
 
 ## Zenus
 * Neu seit 15.8.2024 in der Zensusdatenbank: Ergebnisse zu Haushalten und Familien ab jetzt verfügbar 
@@ -142,6 +209,22 @@ type: blog
 * Zeitsprung Weimar
   https://zeitsprung.weimar.jetzt/315/
   * https://zeitsprung.weimar.jetzt
+* Regensburg: Inklusives Welterbe
+  https://www.regensburg.de/r-next/projekte/inklusives-welterbe
+
+## Transparenz / Investigativrecherchen
+* Datenscouts im Amateurfußball - obwohl Sportwetten auf diese Spiele in Deutschland verboten sind.
+  https://www.ardmediathek.de/video/story/angriff-auf-den-amateurfussball-die-gier-der-wettindustrie/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNjaGVkdWxlU2xvdC8yY2MyNjEzYy00MWYzLTQ4MGYtOWUyMi1hYzQ2ZWVmOTY2MTk
+  via https://osna.social/@joliyea/113021511442426170
+* Anzeigen in der FAZ:  Verdeckte FDP-Werbung? Interne Mail wird zum Problem für Christian Lindner
+  https://www.abgeordnetenwatch.de/recherchen/parteispenden/verdeckte-fdp-werbung-interne-mail-wird-zum-problem-fuer-christian-lindner
+  via https://bewegung.social/@a_watch/113032339191175722
+* Lobbyismus: Diese Verbände haben den größten Einfluss
+  https://www.handelsblatt.com/politik/deutschland/lobbyismus-diese-verbaende-haben-den-groessten-einfluss/100059589.html
+
+## Recap
+* eGovernment Podcast Monatsschau
+  https://egovernment-podcast.com/egov193-monatsschau-08-24/
 
 ## Veranstaltungen
 * Dienstag, 03.09.2024, 11:00-17:30, bUm, Paul-Lincke-Ufer 21, 10999 Berlin: **Prototype Fund: Demo Day der Förderrunde 15**
@@ -167,6 +250,8 @@ type: blog
   * https://netzpolitik.org/2024/bildet-netze-jetzt-fuer-konferenz-am-13-september-anmelden/
 * Dienstag, 17.09.2024, bis Mittwoch, 18.09.2024, Jakob-Welder-Weg 28, Mainz: **3. Open Science Festival**
   * https://converia.uni-mainz.de/frontend/index.php?sub=153
+* Mittwoch, 18.09.2024, 19:00-22:00: **Monsters of Law meets Taylor Wessing - Transparent & Lizenziert – Rechtliche Rahmenbedingungen für den Einsatz von CC-Lizenzen in der öffentlichen Verwaltung**
+  * https://www.wikimedia.de/veranstaltungen/monsters-of-law-meets-taylor-wessing/
 * Donnerstag, 19.09.2024, bis Samstag, 22.09.2024, Steintorcampus, Emil-Abderhalden-Str. 26/27, Halle (Saale): **Digital History & Citizen Science**
   * https://archive20.hypotheses.org/13460
 * 22.09.2024: **Zweiter Netzpolitisches Martinee: Social Media jenseits von BigTech - Open Source und Fediverse für ein freieres Internet**
@@ -175,8 +260,10 @@ type: blog
   * Köln: jeden zweiten Montag, 19:00 (12.8. online, 26.8. Hackländerstr. 2 (Wikipedia Lokal K))
   * Leipzig: jeden Mittwoch, 19:00, Peterssteinweg 14 (Basislager)
   * Münster: jeden Dienstag, 19:30, Wolbeckerstr. 36 (Café Drei:klang)
-
-
+* Freitag, 27.09.2024, bis Samstag, 28.09.2024: **SciCAR**
+  * https://24.scicar.de/scicar24/schedule/
+  * z.B. mit "Lieber spät als gar nicht? Verkehrsdaten, Journalismus und Verkehrswende"
+    https://24.scicar.de/scicar24/talk/SBECML/
 * HackThePromise- und Datenschutz-Festival vom 27. bis 29. September 2024 
   * https://www.digitale-gesellschaft.ch/2024/08/16/hackthepromise-und-datenschutz-festival-in-basel-einladung-und-programm/
   * https://hackthepromise.org
@@ -193,6 +280,10 @@ type: blog
 * Meet and Code 2024: Veranstaltungsideen jetzt einreichen!
   Sichert euch jetzt 500 € zur Finanzierung eurer Programmierveranstaltung!, Bewerbungsfrist, 30.09.2024
   * https://www.meet-and-code.org/de/de/news-show/700
+* Im Rahmen des Forschungsvorhabens LabelledGreenData4All https://www.umweltbundesamt.de/themen/digitalisierung/digitale-nachhaltigkeit/datenannotation-als-grundlage-fuer-ki-im#die-potenziale-annotierter-umweltdatensatze ermitteln wir sektorübergreifend die aktuellen Bedarfe an annotierten Daten für KI-Anwendungsfälle mit Bezug zu Umweltdaten sowie umweltrelevanten Daten. Falls Sie an einem Projekt beteiligt waren, nehmen Sie bis zum 30.09.24 an unserer Befragung teil:
+  * https://social.bund.de/@Umweltbundesamt/113028688599241497
+* MIZ-Innovationsförderung – jetzt bis 6. Oktober 2024 bewerben!
+  * https://miz-babelsberg.de/aktuelles/details/innovationsfoerderung-08-2024.html
 * NASA International Space Apps Challenge, Hackathon, Registrierung offen, findet 5. und 6. Oktober statt
   * https://www.spaceappschallenge.org
 * Im Rahmen des Chaotischen Catalysator Stipendienprogramms können sich Studierende, die eine Master- oder Diplomarbeit schreiben, um ein Stipendium in Höhe von insgesamt 1.500 € bewerben. Gesucht werden Themen, die sich mit den Informationstechnologien dieser Welt und ihren Auswirkungen auf die Gesellschaft beschäftigen. Hinsichtlich der Fachrichtung gibt es keine Einschränkungen. Bewerbungen bis 31.10.2024‚
