@@ -11,6 +11,137 @@ og_image: out-in-the-open-2024-08-header.jpg
 type: blog
 ---
 
+## Open Data
+* Frictionless data for more collaboration
+  https://wikimania.eventyay.com/2024/talk/DVA9J8/
+* Serendipität und Open Data. Richtlinien für die Implementierung von Empfehlungssystemen auf Entdeckungsplattformen
+  https://www.degruyter.com/document/doi/10.1515/bfp-2023-0059/html
+  via https://openbiblio.social/@v_i_o_l_a/112959072771350757
+* "Mont" ist eine Mobile-only-Webpage mit lediglich 11 Kilobyte reinem Programmcode, die eine Kameraansicht der umgebenden Landschaft bietet, die lokale Topografie berechnet und die Namen aller sichtbaren Hügelkuppen und Berggipfel (einschliesslich ihrer Gipfelhöhe und Entfernung) anzeigt. Zusätzlich gibt ein Kompass die aktuelle Blickrichtung an, ein Höhenmesser die Meereshöhe des aktuellen Standorts.
+  https://opendata.swiss/de/showcase/mont
+  Quellcode: https://www.thomasweibel.ch/mont2/js/script.js
+  via https://swiss.social/users/thomasweibel/statuses/112955740139487021
+* Ich habe in den letzten Wochen die eine oder andere datenbereitstellende Stelle angeschrieben, die tatsächlich -nc oder -nd-Lizenzen verwendet haben (und nicht nur einfach Datenfelder leergelassen hatten). Manchmal sind es lösbare Probleme. So verwendet Potsdam eine selbstgebaute Lizenz, die nicht mit Open Data-Prinzipien vereinbar ist. Teilweise haben sie die Lizenz einzelner Datensätze geändert auf Nachfrage. Das finde ich gut.
+  https://gruene.social/@mathias/112971972016366770
+* Leitlinie zur Publikation von Open Data im Geschäftsbereich des BMEL
+  https://www.bmel.de/DE/ministerium/organisation/leitlinien-open-data.html
+  via https://social.bund.de/@opendatabund/112994109899175186
+* Bamberg stellt ihre offenen Daten bereit. Dazu hat die Stadt ein eigenes Open Data Portal veröffentlicht.
+  https://bamberg.bydata.de/?locale=de
+  via https://social.bund.de/@opendatabund/112999600220393312
+* CKAN 2.11 veröffentlicht
+  https://blog.okfn.org/2024/08/21/ckan-2-11-hypermedia-approach-for-the-tech-we-want/
+
+## KI
+* Warum Offenheit bei Künstlicher Intelligenz (KI) für Bildung und Wissenschaft wichtig ist
+  https://open-access.network/blog/warum-offenheit-bei-kuenstlicher-intelligenz-ki-fuer-bildung-und-wissenschaft-wichtig-ist
+* Linux Foundation Backs Open Source LLM Initiative
+  https://thenewstack.io/linux-foundation-backs-open-source-llm-initiative/
+
+
+## Citizens Science
+* Open CALL for Citizen Observatories across Europe!
+  https://citiobs.eu/demonstrations-open-call-for-alliances/
+  via https://chaos.social/@schenklklopfer/112903479643138919
+* NASA Citizen Scientists Spot Object Moving 1 Million Miles Per Hour
+  https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-spot-object-moving-1-million-miles-per-hour/
+
+## Methodik
+* Anonymization: The imperfect science of using data while preserving privacy
+  https://www.science.org/doi/10.1126/sciadv.adn7053
+  via https://mastodon.social/@leibnizopenscience/112892314086095800
+
+## Open Source
+* Vom Lockdown zum Lock-in: Warnung vor Software-Abhängigkeit im Gesundheitswesen
+  https://www.heise.de/news/Vom-Lockdown-zum-Lock-in-Warnung-vor-Software-Abhaengigkeit-im-Gesundheitswesen-9822830.html
+* Warum Schulen und Freie Software gut zusammenpassen
+  https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-warum-schulen-und-freie-software-gut-zusammenpassen/
+* Kaum Open-Source-Projekte: FDP-Minister reißen eigenes Digital-Ziel
+  https://www.zdf.de/nachrichten/politik/digitalisierung-verwaltung-open-source-software-fdp-ampel-100.html
+  * Kein Public Money, public code beim Bund
+    https://mdb.anke.domscheit-berg.de/2024/08/ampel-ohne-public-money-public-code/
+  via https://linke.social/users/ankedb/statuses/112927959910631895
+
+## Open Source Anwendungen
+* Die Smart Village App ist ein Open Source App Baukasten für Kommunen. Was diese App alles kann, habe ich mit Philipp Wilimzig ausführlich besprochen.
+  https://egovernment-podcast.com/egov190-smart-village-app/
+* Simulate and visualize the solar potential on 3D building data
+  https://www.openpv.de (nur für Bayern aktuell)
+  https://github.com/open-pv/
+
+
+## Open Science
+* Im Open Economics Guide bietet die ZBW einen übersichtlichen Katalog von über 100 aktuellen Open-Science-Tools an, die alle kostenlos nutzbar sind!
+  https://openeconomics.zbw.eu/knowledgebase/open-science-tools/
+* Neue Formen der Open-Access-Finanzierung. Best Practices auf dem Weg zum Informationsbudget und zu alternativen Finanzierungsmodellen für Diamond Open Access
+  https://zenodo.org/records/13271363
+
+## Karten
+* Fehlende Gebäude identifizieren
+  https://maproulette.org/browse/challenges/48757
+  via https://mastodon.social/users/eliasp/statuses/112903692496850650
+* Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. 
+  https://github.com/organicmaps/organicmaps
+* 20 Jahre OpenStreetMap! Gratulation!
+  https://geoobserver.de/2024/08/09/20-jahre-openstreetmap-gratulation/
+  * One man decided to take on Google Maps; 20 years later OpenStreetMap is still going strong
+    https://techcrunch.com/2024/08/10/one-man-decided-to-take-on-google-maps-20-years-later-openstreetmap-is-still-going-strong/
+    * The Days Are Long but the Years Are Short
+      https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are
+    via https://techhub.social/@GregCocks/112972756506091434
+* Applied Geostatistics in Python - A Hands-on Guide with GeostatsPy
+  https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html
+  via https://techhub.social/@GregCocks/112961668676642715
+* A Gentle Introduction to GDAL Part 8: Reading Scientific Data Formats
+  https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-8-reading-scientific-data-formats-1a1f70d5388c
+
+## Energie
+* Energieverbrauch von (OpenSource-) Software senken
+  https://chaos.social/@isotopp/112902081363470261
+  https://lowcarbon.software
+* Electricity Maps
+  https://app.electricitymaps.com/zone/DE
+* Free the smart-meter data!
+  https://www.volts.wtf/p/free-the-smart-meter-data
+  via https://social.coop/@ZaneSelvans/112939095661147564
+
+## Mobilität
+* Deutsche Bahn gibt Verkehrsdaten an Mobilitätsplattformen weiter
+  https://www.heise.de/news/Deutsche-Bahn-gibt-Verkehrsdaten-an-Mobilitaetsplattformen-weiter-9836073.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon
+* How bicycle friendly is Germany
+  https://blog.datawrapper.de/bicycle-friendly-germany/
+
+## Klima
+* Verstärkter Druck auf Zivilgesellschaft und Klimaaktivist*innen - Wie Staaten zivilgesellschaftliches Engagement immer mehr einschränken
+  https://www.ufu.de/ufu-informationen/eingeschraenkter-oeffentlicher-raum/
+  * CIVICUS-Monitor
+    https://monitor.civicus.org
+* In Südwesteuropa sinkt das Grundwasser nicht wie angenommen überall, sondern je nach Klima und Landnutzung regional sehr unterschiedlich. Das zeigen die Daten von mehr als 12.000 Grundwasserbrunnen in Portugal, Spanien, Frankreich und Italien. Deshalb sei eine differenzierte Betrachtung wichtig, sagen UFZ-Forschende.
+  https://www.ufz.de/index.php?de=36336&webc_pm=29/2024
+* Online-Tool: Hier wachsen diese Stadtbaumarten besonders gut
+  https://www.heise.de/news/Online-Tool-Hier-wachsen-diese-Stadtbaumarten-besonders-gut-9825777.html
+* Open as a Prerequisite for Solving the Climate Crisis
+  https://wikimania.eventyay.com/2024/talk/3NMMXA/
+* Mittelmeer so warm wie noch nie
+  https://taz.de/Neuer-Hoechstwert-von-289-Grad/!6030579/
+* Bundeswirtschaftsministerium hält heiklen Bericht zu klimaschädlichen Subventionen neun Monate geheim: Deutsche Umwelthilfe erzwingt Freigabe und kritisiert dreiste Falschaussage
+  https://www.duh.de/presse/pressemitteilungen/pressemitteilung/bundeswirtschaftsministerium-haelt-heiklen-bericht-zu-klimaschaedlichen-subventionen-neun-monate-gehei/
+  siehe auch https://climatejustice.global/@GermanZeroHH/112988810504123988
+
+## Zenus
+* Neu seit 15.8.2024 in der Zensusdatenbank: Ergebnisse zu Haushalten und Familien ab jetzt verfügbar 
+  https://www.zensus2022.de/DE/Aktuelles/Ankuendigung_Zensusdatenbank_Ergebnisse_Haushalte_Familien.html
+
+## Datenvisualisierungen
+* Information is beautiful
+  https://vis.social/@infobeautiful
+  * If you're aged 30 or more, then 50% of all human fossil fuel emissions happened during your lifetime
+    https://vis.social/users/infobeautiful/statuses/112911230643311512
+
+## Geschichte
+* Zeitsprung Weimar
+  https://zeitsprung.weimar.jetzt/315/
+  * https://zeitsprung.weimar.jetzt
 
 ## Veranstaltungen
 * Dienstag, 03.09.2024, 11:00-17:30, bUm, Paul-Lincke-Ufer 21, 10999 Berlin: **Prototype Fund: Demo Day der Förderrunde 15**
@@ -19,6 +150,8 @@ type: blog
   * https://hackmd.okfn.de/opentransportmeetup
 * Donnerstag, 05.09.2024, Potsdam: **Barcamp Open Science**
   * https://www.barcamp-open-science.eu
+* Freitag, 06.09.2024, 13:30-14:30, online (Zoom): **Basiskurs Data Literacy**
+  * https://www.correlaid.org/bildung/grundkurs-daten/
 * Freitag, 06.09.2024, bis Sonntag, 08.09.2024, An der Schanz 6, Köln: **Jugend hack Köln***
   * https://jugendhackt.org/events/koeln/
 * Freitag, 06.09.2024, bis Samstag, 07.09.2024, Pilatusstrasse 21 / Sempacherstrasse 10, Luzern: **Swiss Open Cultural Data Hackathon "GLAMhack24"**
@@ -28,16 +161,31 @@ type: blog
   * https://veranstaltungen.dataport.de/infoveranstaltung/sh/foerderrichtlinie-open-data
 * Montag, 09.09, 14:00–15:00, online: **Informationsveranstaltung Förderrichtlinie Open Data Schleswig-Holstein**
   * https://veranstaltungen.dataport.de/infoveranstaltung/sh/foerderrichtlinie-open-data
+* Donnerstag, 12.09.2024, 16:00-19:00, online: **Open-Source-Tools in Engagement und Ehrenamt**
+  * https://www.deutsche-stiftung-engagement-und-ehrenamt.de/aktuelles/transform_d-digitalkonferenz-marktplatz-digitalisierung/
 * Freitag, 13.09.2024, 10:00-19:00, Alte Münze, Molkenmarkt 2, Berlin: **Netzpolitik-Konferenz "Bildet Netze!"**
   * https://netzpolitik.org/2024/bildet-netze-jetzt-fuer-konferenz-am-13-september-anmelden/
 * Dienstag, 17.09.2024, bis Mittwoch, 18.09.2024, Jakob-Welder-Weg 28, Mainz: **3. Open Science Festival**
   * https://converia.uni-mainz.de/frontend/index.php?sub=153
 * Donnerstag, 19.09.2024, bis Samstag, 22.09.2024, Steintorcampus, Emil-Abderhalden-Str. 26/27, Halle (Saale): **Digital History & Citizen Science**
   * https://archive20.hypotheses.org/13460
+* 22.09.2024: **Zweiter Netzpolitisches Martinee: Social Media jenseits von BigTech - Open Source und Fediverse für ein freieres Internet**
+  * https://digitalegesellschaft.de/2024/08/zweite-netzpolitische-matinee-22-september/
 * Regelmäßige OKLab-Treffen
   * Köln: jeden zweiten Montag, 19:00 (12.8. online, 26.8. Hackländerstr. 2 (Wikipedia Lokal K))
   * Leipzig: jeden Mittwoch, 19:00, Peterssteinweg 14 (Basislager)
   * Münster: jeden Dienstag, 19:30, Wolbeckerstr. 36 (Café Drei:klang)
+
+
+* HackThePromise- und Datenschutz-Festival vom 27. bis 29. September 2024 
+  * https://www.digitale-gesellschaft.ch/2024/08/16/hackthepromise-und-datenschutz-festival-in-basel-einladung-und-programm/
+  * https://hackthepromise.org
+
+* 13.11.2024
+  * nrw.bits-und-baeume.org/
+* 05.11.2024: Reusing data: Bridging the distance between data consumers and producers
+  * https://www.universiteitleiden.nl/en/events/2024/11/reusing-data-bridging-the-distance-between-data-consumers-and-producers
+
 
 ## Call for participation
 * Road2Openness – Open-Science-Strategiewerkstatt, bis 15. September 2024 bewerben
