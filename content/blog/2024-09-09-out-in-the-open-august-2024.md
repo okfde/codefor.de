@@ -59,6 +59,8 @@ type: blog
   https://github.com/Cinnamon/kotaemon
 * RAG techniques: showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
   https://github.com/NirDiamant/RAG_Techniques
+* KI Leitfaden und Projekte in Züricher Verwaltung
+  https://www.zh.ch/de/politik-staat/kanton/kantonale-verwaltung/digitale-verwaltung/kuenstliche-intelligenz.html
 
 ## Citizens Science
 * Open CALL for Citizen Observatories across Europe!
@@ -228,6 +230,8 @@ type: blog
   via https://bewegung.social/@a_watch/113032339191175722
 * Lobbyismus: Diese Verbände haben den größten Einfluss
   https://www.handelsblatt.com/politik/deutschland/lobbyismus-diese-verbaende-haben-den-groessten-einfluss/100059589.html
+* IFG in Österreich
+  https://www.linkedin.com/posts/krabina_bundesgesetzblatt-f%C3%BCr-die-republik-%C3%B6sterreich-activity-7236000338548318208-P882/
 
 ## Recap
 * eGovernment Podcast Monatsschau
@@ -249,50 +253,80 @@ type: blog
   * https://opendata.hitobito.com/de/groups/5/public_events/10
 * Freitag, 06.09, 09:00–10:00, online: **Informationsveranstaltung Förderrichtlinie Open Data Schleswig-Holstein**
   * https://veranstaltungen.dataport.de/infoveranstaltung/sh/foerderrichtlinie-open-data
-* Montag, 09.09, 14:00–15:00, online: **Informationsveranstaltung Förderrichtlinie Open Data Schleswig-Holstein**
+* Montag, 09.09.2024, 14:00–15:00, online: **Informationsveranstaltung Förderrichtlinie Open Data Schleswig-Holstein**
   * https://veranstaltungen.dataport.de/infoveranstaltung/sh/foerderrichtlinie-open-data
+* Montag, 09.09.2024, 19:00, Wikibär, Köpernicker Str. 45, Berlin: **OKLab Berlin**
+  * https://www.meetup.com/de-DE/ok-lab-berlin/events/302794117/
+* Dienstag, 10.09.2024, 17:00-20:, Einstein Center Digital Future, Wilhelmstraße 67, Berlin: **KI-Regulierung für eine nachhaltige Digitalisierung?**
+  * https://www.ioew.de/veranstaltung/ki-regulierung-fuer-eine-nachhaltige-digitalisierung
+* Mittwoch, 11.09.2024, 09:00-12:00, online: **Workshop "Offene Daten aus der Zivilgesellschaft: wie eure Daten fürs Gemeinwohl nutzbar werden" im Civic Data Lab**
+  * https://app.guestoo.de/public/event/92bf5b4b-61ce-4ed0-b29c-ef8a92598a24?lang=de
 * Donnerstag, 12.09.2024, 16:00-19:00, online: **Open-Source-Tools in Engagement und Ehrenamt**
   * https://www.deutsche-stiftung-engagement-und-ehrenamt.de/aktuelles/transform_d-digitalkonferenz-marktplatz-digitalisierung/
 * Freitag, 13.09.2024, 10:00-19:00, Alte Münze, Molkenmarkt 2, Berlin: **Netzpolitik-Konferenz "Bildet Netze!"**
   * https://netzpolitik.org/2024/bildet-netze-jetzt-fuer-konferenz-am-13-september-anmelden/
+* Samstag, 14.09.2024, bis Sonntag, 15.09.202, MotionLab.Berlin, Halle 20, Bouchéstr. 12, Berlin: **Nextcloud Community Conference 2024**
+  * https://nextcloud.com/conference-2024/
+* Dienstag, 17.09.2024, 15:00-18:00, online: **Workshop "Ein Bild sagt mehr als 1000 Zahlen - die Kunst der Datenvisualisierung"**
+  * https://app.guestoo.de/public/event/91132a47-0b3c-4423-ab0e-1fcabf702671?lang=de
 * Dienstag, 17.09.2024, bis Mittwoch, 18.09.2024, Jakob-Welder-Weg 28, Mainz: **3. Open Science Festival**
   * https://converia.uni-mainz.de/frontend/index.php?sub=153
 * Mittwoch, 18.09.2024, 19:00-22:00: **Monsters of Law meets Taylor Wessing - Transparent & Lizenziert – Rechtliche Rahmenbedingungen für den Einsatz von CC-Lizenzen in der öffentlichen Verwaltung**
   * https://www.wikimedia.de/veranstaltungen/monsters-of-law-meets-taylor-wessing/
+* Donnerstag, 19.09.2024.: **Konferenz »Public Data – besser mit Behördendaten umgehen**
+  * https://www.fokus.fraunhofer.de/de/DPS/events/public-data-konferenz
 * Donnerstag, 19.09.2024, bis Samstag, 22.09.2024, Steintorcampus, Emil-Abderhalden-Str. 26/27, Halle (Saale): **Digital History & Citizen Science**
   * https://archive20.hypotheses.org/13460
-* 22.09.2024: **Zweiter Netzpolitisches Martinee: Social Media jenseits von BigTech - Open Source und Fediverse für ein freieres Internet**
+* Donnerstag, 19.09.2024, bis Sonntag, 22.09.2024: Mitosis LAB, Sonnenallee 67, Berlin und live im Stream: **1. Matrix Konferenz**
+  * https://2024.matrix.org/schedule/
+* Freitag, 20.09.2024, bis Samstag, 21.09.2024, silent green, Gerichtstraße 35, Berlin (Tickets kosten zwischen 99€ und 399€): **recampaign 24**
+  * https://recampaign.de
+* Samstag, 21.09.2024, 10:00, bis Sonntag, 22.09.2024, 15:00, Bildungswerkstatt Kirchberg, Saarbrücken: **Bits & Bäume Saar - Die Konferenz für Digitalisierung und Nachhaltigkeit**
+  * https://saar.bits-und-baeume.org
+* Sonntag, 22.09.2024, 14:00, Regenbogenfabrik, Lausitzer Straße 21a, Berlin: **Zweiter Netzpolitisches Martinee: Social Media jenseits von BigTech - Open Source und Fediverse für ein freieres Internet**
   * https://digitalegesellschaft.de/2024/08/zweite-netzpolitische-matinee-22-september/
+* Dienstag, 24.09.2024, 10:00-13:00, Berlin: **Sitzung der AG Datendemokratie (Q3/2024)**
+  * https://initiatived21.de/veranstaltungen/ag-datendemokratie-q3-2024
+* Freitag, 27.09.2024, bis Samstag, 28.09.2024, Sparkassenakademie Nordrhein-Westfalen, Hörder Burgplatz 1, Dortmund.: **SciCAR**
+  * https://netzwerkrecherche.org/termine/konferenzen/fachkonferenzen/scicar/
+  * https://24.scicar.de/scicar24/schedule/
+  * z.B. mit "Lieber spät als gar nicht? Verkehrsdaten, Journalismus und Verkehrswende"
+    https://24.scicar.de/scicar24/talk/SBECML/
+* Freitag, 27.09.2024, bis Sonntag, 29.09.2024, Strandpavillion Solitüde, Flensburg: **Hacks on the Beach 2024**
+  * https://events.ccc.de/2024/08/09/hotb24/
+* Freitag, 27.09.2024, bis Sonntag, 29.09.2024, Basel: **HackThePromise**
+  * https://www.digitale-gesellschaft.ch/2024/08/16/hackthepromise-und-datenschutz-festival-in-basel-einladung-und-programm/
+  * https://hackthepromise.org
+* Samstag, 28.09.2024, bis Sonntag, 29.09.2024, Pioneers Club, Ritterstraße 8, Bielefeld: **Umweltdatenwerkstatt in Bielefeld**
+  * https://www.meetup.com/de-DE/code-for-bielefeld/events/303072730/
+  * Anmeldung über: https://datenschule.de/workshops/umweltdatenwerkstatt/
+* Donnerstag, 03.10.2024, bis Sonntag, 06.10.2024, TU Darmstadt: **MRMCD 2024 - Land in Sicht?**
+  * https://2024.mrmcd.net/de/
+* Freitag, 04.10.2024, 14:00, bis Sonntag, 06.10.2024, 15:00, Gerichtsstraße 2, Wiesbaden und online: **WikiCon 2024**
+  * https://www.wikimedia.de/veranstaltungen/wikicon-2024-in-wiesbaden/
+* Samstag, 05.10.2024, bis Sonntag, 06.10.2024, Potsdam: **Umweltdatenwerkstatt in Potsdam**
+  * Anmeldung über: https://datenschule.de/workshops/umweltdatenwerkstatt/
+* Dienstag, 08.10.2024, 17:00, bis, Donnerstag, 10.10.2024, 15:30, Besenbinderhof 57A, Hamburg: **Forum Citizen Science 2024**
+  * https://www.mitforschen.org/veranstaltungen/forum-citizen-science-2024/programm
 * Regelmäßige OKLab-Treffen
   * Köln: jeden zweiten Montag, 19:00 (12.8. online, 26.8. Hackländerstr. 2 (Wikipedia Lokal K))
   * Leipzig: jeden Mittwoch, 19:00, Peterssteinweg 14 (Basislager)
   * Münster: jeden Dienstag, 19:30, Wolbeckerstr. 36 (Café Drei:klang)
-* Freitag, 27.09.2024, bis Samstag, 28.09.2024: **SciCAR**
-  * https://24.scicar.de/scicar24/schedule/
-  * z.B. mit "Lieber spät als gar nicht? Verkehrsdaten, Journalismus und Verkehrswende"
-    https://24.scicar.de/scicar24/talk/SBECML/
-* HackThePromise- und Datenschutz-Festival vom 27. bis 29. September 2024 
-  * https://www.digitale-gesellschaft.ch/2024/08/16/hackthepromise-und-datenschutz-festival-in-basel-einladung-und-programm/
-  * https://hackthepromise.org
-
-* 13.11.2024
-  * nrw.bits-und-baeume.org/
-* 05.11.2024: Reusing data: Bridging the distance between data consumers and producers
-  * https://www.universiteitleiden.nl/en/events/2024/11/reusing-data-bridging-the-distance-between-data-consumers-and-producers
-
 
 ## Call for participation
-* Road2Openness – Open-Science-Strategiewerkstatt, bis 15. September 2024 bewerben
+* **Road2Openness – Open-Science-Strategiewerkstatt**, bis 15. September 2024 bewerben
   * https://www.stifterverband.org/pressemitteilungen/2024_07_08_road2openness-strategiewerkstatt
-* Meet and Code 2024: Veranstaltungsideen jetzt einreichen!
+* 08.11.2024 - 09.11.2024: **Nights of Open Knowledge (NooK)** an der Uni Lübeck: Die Einreichung von Vorträgen, Lightning Talks, Workshops und Ständen ist bis einschließlich 30. September möglich.
+  * https://events.ccc.de/2024/07/17/nook/
+* **Meet and Code 2024**: Veranstaltungsideen jetzt einreichen!
   Sichert euch jetzt 500 € zur Finanzierung eurer Programmierveranstaltung!, Bewerbungsfrist, 30.09.2024
   * https://www.meet-and-code.org/de/de/news-show/700
-* Im Rahmen des Forschungsvorhabens LabelledGreenData4All https://www.umweltbundesamt.de/themen/digitalisierung/digitale-nachhaltigkeit/datenannotation-als-grundlage-fuer-ki-im#die-potenziale-annotierter-umweltdatensatze ermitteln wir sektorübergreifend die aktuellen Bedarfe an annotierten Daten für KI-Anwendungsfälle mit Bezug zu Umweltdaten sowie umweltrelevanten Daten. Falls Sie an einem Projekt beteiligt waren, nehmen Sie bis zum 30.09.24 an unserer Befragung teil:
+* Im Rahmen des Forschungsvorhabens **LabelledGreenData4All** https://www.umweltbundesamt.de/themen/digitalisierung/digitale-nachhaltigkeit/datenannotation-als-grundlage-fuer-ki-im#die-potenziale-annotierter-umweltdatensatze ermitteln wir sektorübergreifend die aktuellen Bedarfe an annotierten Daten für KI-Anwendungsfälle mit Bezug zu Umweltdaten sowie umweltrelevanten Daten. Falls Sie an einem Projekt beteiligt waren, nehmen Sie bis zum 30.09.24 an unserer Befragung teil:
   * https://social.bund.de/@Umweltbundesamt/113028688599241497
-* MIZ-Innovationsförderung – jetzt bis 6. Oktober 2024 bewerben!
+* **MIZ-Innovationsförderung** – jetzt bis 6. Oktober 2024 bewerben!
   * https://miz-babelsberg.de/aktuelles/details/innovationsfoerderung-08-2024.html
-* NASA International Space Apps Challenge, Hackathon, Registrierung offen, findet 5. und 6. Oktober statt
+* **NASA International Space Apps Challenge**, Hackathon, Registrierung offen, findet 5. und 6. Oktober statt
   * https://www.spaceappschallenge.org
-* Im Rahmen des Chaotischen Catalysator Stipendienprogramms können sich Studierende, die eine Master- oder Diplomarbeit schreiben, um ein Stipendium in Höhe von insgesamt 1.500 € bewerben. Gesucht werden Themen, die sich mit den Informationstechnologien dieser Welt und ihren Auswirkungen auf die Gesellschaft beschäftigen. Hinsichtlich der Fachrichtung gibt es keine Einschränkungen. Bewerbungen bis 31.10.2024‚
-  https://chaos-stipendien.de/blog/2023/sommer-semester-2024/
-  https://chaos-stipendien.de
+* Im Rahmen des **Chaotischen Catalysator Stipendienprogramms** können sich Studierende, die eine Master- oder Diplomarbeit schreiben, um ein Stipendium in Höhe von insgesamt 1.500 € bewerben. Gesucht werden Themen, die sich mit den Informationstechnologien dieser Welt und ihren Auswirkungen auf die Gesellschaft beschäftigen. Hinsichtlich der Fachrichtung gibt es keine Einschränkungen. Bewerbungen bis 31.10.2024‚
+  * https://chaos-stipendien.de/blog/2023/sommer-semester-2024/
+  * https://chaos-stipendien.de
