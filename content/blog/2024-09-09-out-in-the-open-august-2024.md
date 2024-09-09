@@ -12,8 +12,12 @@ type: blog
 ---
 
 ## Open Data
-* Frictionless data for more collaboration
-  https://wikimania.eventyay.com/2024/talk/DVA9J8/
+Anderthalb Jahre haben mehrere Einheiten der Züricher Verwaltung Erfahrungen mit Linked Open Data (LOD) gesammelt. Die Ergebnisse diskutieren Rebekka Plüss (Staatsarchiv) und Laure Stadler (Fach- und Koordinationsstelle OGD des Statistischen Amts) in einer Podcastfolge, die neben dem [Abschlussbericht](https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/politik-staat/offene-behoerdendaten-nutzen/Abschlussbericht%20LOD%20Erprobung_public.pdf) auch [hier mit verlinkt ist](https://www.zh.ch/de/news-uebersicht/mitteilungen/2024/politik-staat/statistik/linked-open-data-auf-dem-pruefstand.html). So wurde festgestellt, dass die Publikation von Linked Open Data grundsätzlich machbar ist, und diese so veröffentlichten Daten auch genutzt werden, allerdings ist der Aufbereitungsaufwand in vielen Fällen höher als der Bedarf, so dass die OGD vorerst auch keine dezidierte Linked-Data-Infrastruktur zur Verfügung stellen wird. Ein Problem der kritischen Masse, denn Linked Data ist immer noch ein Nischenthema. Dadurch gibt es zu wenige vordefinierte Ontologien, die als Anknüpfungspunkte für die eigene Ontologie dienen können. Sowohl für diejenigen, die die Daten als Linked Open Data veröffentlichen wollen als auch für jene, die diese Daten später nutzen wollen, ist die Lernkurve sehr steil. Das liegt auch an der ungenügenden Werkzeugunterstützung. Die vorhandenen Tools abstrahieren zu wenig von den Grundlagen, unterstützen die Nutzer zu wenig durch geeignete Usability, (Teil-)Automatisierung und intelligenten Vorschlägen bei der Dateneingabe (bzw. auch sinnvolle Verknüpfung auf Konzepte bestehender Ontologien). So fällt es schwer, den Kreis an Linked-Data-Interessierten zu erweitern, wenn alles noch so mühsam und nicht selbsterklärend ist. Der Wert von Linked Open Data wurde aber prinzipiell erkannt. So hofft nun man nun auf den Prototypen der Bundeskanzlei, mit dem die Haltung von Stammdaten als Linked Open Data getestet werden soll. In dessen Rahmen ist auch sowohl der weitere Aufbau  von LOD-Wissen und eine Speicher-Infrastruktur geplant. Je mehr Verwaltungen Linked Open Data veröffentlichen, desto größer die Motivation auch für andere Verwaltungen diese Datentechnologie ebenfalls bei sich zu adaptieren. Als Inspiration kann der Evalutation entstandene Datensatz über die Zürcher Ehedaten der frühen Neuzeit dienen, der ist über [Github abrufbar](https://github.com/stazh/sw-ehedaten) ist. 
+
+In einer [Hands-On-Session](https://wikimania.eventyay.com/2024/talk/DVA9J8/) wurde auf der Wikimania in Katowice der Open Data Editor der Open Knowledge Foundation vorgestellt. Mit diesem können Techniker aber eben auch Nicht-Techniker Datensätze erstellen ohne dabei eine einzige Zeile Code schreiben zu müssen. Die so erzeugten Datensätze folgen dennoch den FAIR-Prinzipien.
+
+* Der Musterdatenkatalog wächst auf rund 30.000 Datensätze an
+  https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/der-musterdatenkatalog-waechst-auf-rund-30000-datensaetze-an
 * Serendipität und Open Data. Richtlinien für die Implementierung von Empfehlungssystemen auf Entdeckungsplattformen
   https://www.degruyter.com/document/doi/10.1515/bfp-2023-0059/html
   via https://openbiblio.social/@v_i_o_l_a/112959072771350757
@@ -38,11 +42,6 @@ type: blog
 * Free Public APIs · A comprehensive API list with endpoints checked daily 
   https://www.freepublicapis.com
   via https://mastodon.social/@inautilo/113038460793650430
-* Linked Open Data auf dem Prüfstand
-  Eineinhalb Jahre lang hat die Kantonsverwaltung Zürich LinkedOpenData erprobt. Am Ende hatten wir einen Datensatz publiziert und eine Vorstellung davon, warum es nicht mehr waren
-  https://www.zh.ch/de/news-uebersicht/mitteilungen/2024/politik-staat/statistik/linked-open-data-auf-dem-pruefstand.html
-* Der Musterdatenkatalog wächst auf rund 30.000 Datensätze an
-  https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/der-musterdatenkatalog-waechst-auf-rund-30000-datensaetze-an
 
 ## KI
 * Warum Offenheit bei Künstlicher Intelligenz (KI) für Bildung und Wissenschaft wichtig ist
@@ -123,6 +122,8 @@ type: blog
 * Das Partyspiel "Research Data Scarytales" vom Thüringer Kompetenznetzwerk Forschungsdatenmanagement
   https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html
   via https://chaos.social/@derbruesseler/113051218594731297
+* Openness an Hochschulen verankern mit dem OER-Policy Kit
+  https://open-access.network/blog/openness-an-hochschulen-verankern-mit-dem-oer-policy-kit
 
 ## Karten
 * Fehlende Gebäude identifizieren
@@ -300,6 +301,9 @@ type: blog
 * Samstag, 28.09.2024, bis Sonntag, 29.09.2024, Pioneers Club, Ritterstraße 8, Bielefeld: **Umweltdatenwerkstatt in Bielefeld**
   * https://www.meetup.com/de-DE/code-for-bielefeld/events/303072730/
   * Anmeldung über: https://datenschule.de/workshops/umweltdatenwerkstatt/
+* Donnerstag, 03.10.2024, 14:00-22:00, Jugendkulturzentrum Königstadt, Saarbrücker Straße 23, Berlin: **Jugend hackt: Hackday**
+  * https://okfn.de/blog/2024/09/hackday-am-3.-oktober/
+  * Anmeldeschluss: Mittwoch, 25.09.2024
 * Donnerstag, 03.10.2024, bis Sonntag, 06.10.2024, TU Darmstadt: **MRMCD 2024 - Land in Sicht?**
   * https://2024.mrmcd.net/de/
 * Freitag, 04.10.2024, 14:00, bis Sonntag, 06.10.2024, 15:00, Gerichtsstraße 2, Wiesbaden und online: **WikiCon 2024**
@@ -314,6 +318,8 @@ type: blog
   * Münster: jeden Dienstag, 19:30, Wolbeckerstr. 36 (Café Drei:klang)
 
 ## Call for participation
+* Zum Workshop zum OpenData Forum auf der SCCON24 können wieder Sessionvorschläge eingereicht werden! 3 der Sessions werden ausgewählt und präsentiert. Die Ergebnisse werden im OpenDataForum dokumentiert. Schickt Eure Vorschläge bis zum 13.09. an: opendata@bva.bund.de
+  * https://social.bund.de/@opendatabund/113067998011509945
 * **Road2Openness – Open-Science-Strategiewerkstatt**, bis 15. September 2024 bewerben
   * https://www.stifterverband.org/pressemitteilungen/2024_07_08_road2openness-strategiewerkstatt
 * 08.11.2024 - 09.11.2024: **Nights of Open Knowledge (NooK)** an der Uni Lübeck: Die Einreichung von Vorträgen, Lightning Talks, Workshops und Ständen ist bis einschließlich 30. September möglich.
