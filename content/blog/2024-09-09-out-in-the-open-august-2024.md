@@ -33,54 +33,34 @@ Wenn man sich für die Standorte von Schwimmbädern interessiert, findet man fü
 
 Mit den Herausforderungen und modernen Lösungsansätzen, statistische Daten so zu anonymisieren, dass sie auch in Zeiten von Big Data keine Rückschlüsse auf Einzelpersonen zulassen, beschäftigt sich der Forschungsartikel ["Anonymization: The imperfect science of using data while preserving privacy"](https://www.science.org/doi/10.1126/sciadv.adn7053).
 
+## KI Guidelines
+[Handlungsempfehlungen](https://www.wikimedia.de/wp-content/uploads/2024/04/Handlungsempfehlungen_Offene_KI_fuer_alle.pdf) (pdf) für offen und gemeinwohlorientierte KI-Technologien im Bildungsbereich wurden innerhalb der Veranstaltungsreihe "Forum Offene KI in der Bildung" [erarbeitet](https://open-access.network/blog/warum-offenheit-bei-kuenstlicher-intelligenz-ki-fuer-bildung-und-wissenschaft-wichtig-ist). In ihnen werden Infrastruktur und Zugang zu bestehenden KI-Systemen beansprucht, mit der langfristigen Perspektive, solche System auch selbst hosten zu können. Desweiteren wird im Sinne einer offenen Bildungspraxis gefordert, Lernressourcen zu KI unter offenen Lizenzen zu stellen und mittelfristig auch eine Veränderung der Lern- und Prüfungskultur anzustreben (also mehr kritisches Denken statt Auswendiglernen). 
 
-## KI
+Für die Züricher Verwaltung gehört zu einem verantwortungsvollen Einsatz von KI auch, transparent zu machen, wo KI überall zum Einsatz kommt und welche Techniken dazu verwendet werden. In einem sogenannten Automatische-Entscheidsysteme-(AES)-Verzeichnis sollen diese Informationen gepflegt werden. Eine Auswahl von KI-Projekten, die im Kanton Zürich in den Verwaltungen schon im Betrieb oder in Entwicklung sind, kann man [dieser Liste](https://www.zh.ch/de/politik-staat/kanton/kantonale-verwaltung/digitale-verwaltung/kuenstliche-intelligenz.html#965771141) entnehmen. Einige der Machine Learning Projekt [stehen auch Open Source auf Github](https://github.com/machinelearningZH).
 
-[Zehn Handlungsempfehlungen](https://www.wikimedia.de/wp-content/uploads/2024/04/Handlungsempfehlungen_Offene_KI_fuer_alle.pdf) (pdf) für offen und gemeinwohlorientierte KI-Technologien im Bildungsbereich wurden innerhalb der Veranstaltungsreihe "Forum Offene KI in der Bildung" [erarbeitet](https://open-access.network/blog/warum-offenheit-bei-kuenstlicher-intelligenz-ki-fuer-bildung-und-wissenschaft-wichtig-ist). In ihnen werden Infrastruktur und Zugang zu bestehenden KI-Systemen beansprucht, mit der langfristigen Perspektive, solche System auch selbst hosten zu können. Desweiteren wird im Sinne einer offenen Bildungspraxis gefordert, Lernressourcen zu KI unter offenen Lizenzen zu stellen und mittelfristig auch eine Veränderung der Lern- und Prüfungskultur anzustreben (also mehr kritisches Denken statt Auswendiglernen). 
+## Retrieval-Augmented Generation (RAG)
+Bei einem [Retrieval-Augmented Generation (RAG)](https://de.wikipedia.org/wiki/Retrieval_Augmented_Generation) System kann nicht nur auf die Trainingsdaten des Modells zurückgreifen sondern auf (externe) Datenquellen, wie Datenbanken oder indexierten Internetseiten. Tutorials für den geschickten Einsatz von RAGs [werden hier offen gesammelt](https://github.com/NirDiamant/RAG_Techniques). [kotaemon](https://github.com/Cinnamon/kotaemon) ist beispielsweise ein solches RAG-basiertes Open-Source-Werkzeug, um lokal mit seinen PDF-Dokumenten chatten zu können (und dabei auch noch eine bedienbare Nutzeroberfläche hat).
 
-* KI Leitfaden und Projekte in Züricher Verwaltung
-  https://www.zh.ch/de/politik-staat/kanton/kantonale-verwaltung/digitale-verwaltung/kuenstliche-intelligenz.html
+## Gefahren der KI
+[Forschung hat inzwischen gezeigt](https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html), dass Generative KI, wenn man sie zu viel auf ihren eigenen Daten (versehentlich) trainieren lässt, deutlich schlechter wird bzw. die Diversität aus der realen Welt verloren geht. 
 
-  * Ausgewählte KI-Projekte im Kanton Zürich
-    https://www.zh.ch/de/politik-staat/kanton/kantonale-verwaltung/digitale-verwaltung/kuenstliche-intelligenz.html#965771141
-    https://github.com/machinelearningZH
+[AlgorithmWatch](https://algorithmwatch.org/) und [CASM Technology](https://www.casmtechnology.com/) haben [getestet](https://algorithmwatch.org/de/chatbots-bringen-noch-immer-viele-falschinformationen-in-umlauf/), ob KI-Chatbots Fragen zu den Landtagswahlen korrekt und unvoreingenommen beantworten. Fazit: für diesen Anwendungsfall sollte man solche Werkzeuge besser nicht nutzen. So waren in den Antworten Informationen teilweise veraltet, falsch zugeordnet oder gar frei erfunden und falsch. Zu selten wird angezeigt, dass für eine Frage keine oder zu wenige Informationen vorliegen und der Bot sie daher nicht beantworten kann. Problematisch auch, wenn in der Antwort die Quelle fehlen, Informationen zwar richtig aber unvollständig sind oder die Priorisierung innerhalb der Antwort nicht nachvollziehbar bzw. auch mit der realen Gewichtung nicht übereinstimmt. Wenn die Frage selbst schon falsche Informationen und Annahmen bzw. auch schon ein gewisses Framing enthält, wird das meist nicht durch den Bot korrigiert sondern eher bestätigt und verstärkt. Zu mindestens haben einige Chatbots generell schon die Beantwortung von Fragen zu Wahlen und anderen politischen Themen generell abgelehnt oder verlinken statt einer Antwort auf externe Quellen. 
 
-* kotaemon: An open-source RAG-based tool for chatting with your documents.
-  https://github.com/Cinnamon/kotaemon
-* RAG techniques: showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
-  https://github.com/NirDiamant/RAG_Techniques
-
-* Linux Foundation Backs Open Source LLM Initiative
-  https://thenewstack.io/linux-foundation-backs-open-source-llm-initiative/
-* Chatbots bringen noch immer viele Falschinformationen in Umlauf
-  https://algorithmwatch.org/de/chatbots-bringen-noch-immer-viele-falschinformationen-in-umlauf/
-* When A.I.’s Output Is a Threat to A.I. Itself
-  https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html
-* ChatGPTs Stromverbrauch: Zehnmal mehr als bei Google
-  https://www.heise.de/news/ChatGPTs-Stromverbrauch-Zehnmal-mehr-als-bei-Google-9852126.html
+Wie [heise berichtet](https://www.heise.de/news/ChatGPTs-Stromverbrauch-Zehnmal-mehr-als-bei-Google-9852126.html), hat eine [Untersuchung von BestBrokers](https://www.bestbrokers.com/forex-brokers/ais-power-demand-calculating-chatgpts-electricity-consumption-for-handling-over-78-billion-user-queries-every-year/) ergeben, dass eine einzige Anfrage an ChatGPT 2,9 Wattstunden verbraucht, das ist zehnmal mehr als die 0,3 Wattstunden einer einfache Google-Suchanfrage. Der Strombedarf für das Training des LLMs ist dabei noch nicht mal einbezogen, man geht davon aus, dass dieses bei GPT-4 100 Tage gedauert hat und über 62 Tausend kWh verbraucht hat. Da davon auszugehen ist, dass aktuell der Strom hauptsächlich aus nicht regenerativen Quellen stammt, wird also neben der monetären Kohle auch viel fossile Kohle verbrannt. Die Umwelt freut sich.
 
 ## Citizens Science
-* Open CALL for Citizen Observatories across Europe!
-  https://citiobs.eu/demonstrations-open-call-for-alliances/
-  via https://chaos.social/@schenklklopfer/112903479643138919
-* NASA Citizen Scientists Spot Object Moving 1 Million Miles Per Hour
-  https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-spot-object-moving-1-million-miles-per-hour/
-* Mitmachen bei #unsereFlüsse!
-  https://www.swr.de/home/unsere-fluesse-formular-100.html
+Es gibt einen [Aufruf](https://citiobs.eu/demonstrations-open-call-for-alliances/) des von der EU-gefördeten Projekts [CitiObs](https://citiobs.eu/) an bürgerwissenschaftliche Initiativen (Citizen Science), sich ihrer Allianz anzuschließen. In ihr bekommt man exklusiven Zugang zu nützlichen Werkzeugen, kostengünstigen Sensoren, Trainingsmaterial und Workshops. Vor allem aber soll es um die Vernetzung der einzelnen Initiativen gehen, auch mit lokalen FabLabs und Makerspaces. Im Fokus stehen Messungen von Umweltdaten wie Luftverschmutzung, Lärm, Hitze und Wasserqualität.
 
+[Bürgerwissenschaftler waren es auch](https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-spot-object-moving-1-million-miles-per-hour/), die ein Objekt im Weltall identiziert haben, dass sich mit einer Geschwindigkeit von 1.600.000 Kilometer pro Stunde durch die Milchstraße bewegt, [unter ihnen auch der Nürnberger Hobby-Astronom Martin Kabatnik](https://www.infranken.de/lk/nuernberg/nuernberger-nasa-astronom-cwise-j1249-milchstrasse-brauner-zwerg-art-5913271).
+
+Um einen Crowd-Sourcing-Aufruf handelt es sich auch bei [#unsereFlüsse](https://www.swr.de/home/unsere-fluesse-formular-100.html), bei dem Bürger Daten zum Umfeld von Bächen zuliefern sollen.  
 
 ## Open Source
-* Vom Lockdown zum Lock-in: Warnung vor Software-Abhängigkeit im Gesundheitswesen
-  https://www.heise.de/news/Vom-Lockdown-zum-Lock-in-Warnung-vor-Software-Abhaengigkeit-im-Gesundheitswesen-9822830.html
-* Warum Schulen und Freie Software gut zusammenpassen
-  https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-warum-schulen-und-freie-software-gut-zusammenpassen/
-* Kaum Open-Source-Projekte: FDP-Minister reißen eigenes Digital-Ziel
-  https://www.zdf.de/nachrichten/politik/digitalisierung-verwaltung-open-source-software-fdp-ampel-100.html
-  * Kein Public Money, public code beim Bund
-    https://mdb.anke.domscheit-berg.de/2024/08/ampel-ohne-public-money-public-code/
-  via https://linke.social/users/ankedb/statuses/112927959910631895
-* Digital unsouverän: Bundesregierung legt sich an Broadcoms Kette
-  https://netzpolitik.org/2024/digital-unsouveraen-bundesregierung-legt-sich-an-broadcoms-kette/
+Von den 542 erteilten Software-Entwicklungsaufträge im Verkehrs- und Digitalministerium von Volker Wissing (FDP) [sind ganze drei Open Source](https://www.zdf.de/nachrichten/politik/digitalisierung-verwaltung-open-source-software-fdp-ampel-100.html). Dabei stand doch im Koalitionsvertrag "Entwicklungsaufträge werden in der Regel als Open Source beauftragt, die entsprechende Software wird grundsätzlich öffentlich gemacht". Insgesamt ist von der vom Bund beauftragten Software gerade mal drei Prozent quelloffen. Also weiterhin [Kein Public Money, public code beim Bund](https://mdb.anke.domscheit-berg.de/2024/08/ampel-ohne-public-money-public-code/). Auch in den Rechenzentren geht man immer noch Weg des geringsten Widerstands und [setzt weiterhin auf VMWare als Virtualisierungslösung](https://netzpolitik.org/2024/digital-unsouveraen-bundesregierung-legt-sich-an-broadcoms-kette/), auch wenn seit der Übernahme der Firma durch Broadcoms Ende 2023 es teilweise drastische Preissteigerungen kam, teilweise um das Zwölffache. Digitale Souveränität sieht anders aus, dabei gäbe es Alternativen, auch im Open-Source-Bereich. 
+
+Gleiches Spiel auch im Gesundheitswesen: von den 800 Millionen Euro zur Digitalisierung des öffentlichen Gesundheitsdiensts flossen die Gelder hauptsächlich in kurzfristige Lösungen, bei den man sich weiterhin "zu sehr von Microsoft abhängig" macht, entsprechend ausgeliefert ist man beim Aushandeln von Preisen und Lizenzgebühren. So wurde beispielsweise für ein und dieselbe eine Software für den Einsatz in allen landeseigenen Gesundheitsämtern wurden von den Bundesländern elfmal Fördermittel beantragt. So entstehen weiter Doppelstrukturen statt langfristiger, krisensicherer interoperabler Systeme. 
+
+Das Hohenzollern-Gymnasium in Sigmaringen, das Georg-Büchner-Gymnasium in Seelze und der Landkreis Harz [sind bisher gallische Dörfer](https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-warum-schulen-und-freie-software-gut-zusammenpassen/), wenn es darum geht, alle Schulen mit Freien Betriebssystemen und Anwendungen auszustatten. Getreu dem Prinzip ["Technik folgt Pädagogik"](https://www.kreis-hz.de/de/aktuellesdetails/it-loesung-fuer-schulen-von-finnland-lernen-im-landkreis-harz-gestalten.html). Auch die ehrenamtliche Initiative [cyber4edu](https://cyber4edu.org/c4e/wiki/start) zeigt immer wieder, das für alle benötigten Arbeitswerkzeuge entsprechende freie Open-Source-Software verfügbar ist. Besser in in Personal und in den Aufbau digitaler Kompetenzen investieren, statt das Geld in Lizenzen zu versenken.
 
 ## Open Source Anwendungen
 * Die Smart Village App ist ein Open Source App Baukasten für Kommunen. Was diese App alles kann, habe ich mit Philipp Wilimzig ausführlich besprochen.
