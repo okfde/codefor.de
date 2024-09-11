@@ -6,7 +6,7 @@ excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data
 topic: community
 images:
 - imgname: out-in-the-open-2024-08-header.jpg
-  attribution: Eigene Aufnahme (Jörg Reichert, 31.07.2024 in Darmstadt)
+  attribution: Eigene Aufnahme (31.07.2024 in Darmstadt)
 og_image: out-in-the-open-2024-08-header.jpg
 type: blog
 ---
@@ -56,48 +56,24 @@ Es gibt einen [Aufruf](https://citiobs.eu/demonstrations-open-call-for-alliances
 Um einen Crowd-Sourcing-Aufruf handelt es sich auch bei [#unsereFlüsse](https://www.swr.de/home/unsere-fluesse-formular-100.html), bei dem Bürger Daten zum Umfeld von Bächen zuliefern sollen.  
 
 ## Open Source
-Von den 542 erteilten Software-Entwicklungsaufträge im Verkehrs- und Digitalministerium von Volker Wissing (FDP) [sind ganze drei Open Source](https://www.zdf.de/nachrichten/politik/digitalisierung-verwaltung-open-source-software-fdp-ampel-100.html). Dabei stand doch im Koalitionsvertrag "Entwicklungsaufträge werden in der Regel als Open Source beauftragt, die entsprechende Software wird grundsätzlich öffentlich gemacht". Insgesamt ist von der vom Bund beauftragten Software gerade mal drei Prozent quelloffen. Also weiterhin [Kein Public Money, public code beim Bund](https://mdb.anke.domscheit-berg.de/2024/08/ampel-ohne-public-money-public-code/). Auch in den Rechenzentren geht man immer noch Weg des geringsten Widerstands und [setzt weiterhin auf VMWare als Virtualisierungslösung](https://netzpolitik.org/2024/digital-unsouveraen-bundesregierung-legt-sich-an-broadcoms-kette/), auch wenn seit der Übernahme der Firma durch Broadcoms Ende 2023 es teilweise drastische Preissteigerungen kam, teilweise um das Zwölffache. Digitale Souveränität sieht anders aus, dabei gäbe es Alternativen, auch im Open-Source-Bereich. 
+Von den 542 erteilten Software-Entwicklungsaufträge im Verkehrs- und Digitalministerium von Volker Wissing (FDP) [sind ganze drei Open Source](https://www.zdf.de/nachrichten/politik/digitalisierung-verwaltung-open-source-software-fdp-ampel-100.html). Dabei stand doch im Koalitionsvertrag "Entwicklungsaufträge werden in der Regel als Open Source beauftragt, die entsprechende Software wird grundsätzlich öffentlich gemacht". Insgesamt ist von der vom Bund beauftragten Software gerade mal drei Prozent quelloffen. Also weiterhin [Kein Public Money, public code beim Bund](https://mdb.anke.domscheit-berg.de/2024/08/ampel-ohne-public-money-public-code/). Auch in den Rechenzentren geht man immer noch Weg des geringsten Widerstands und [setzt weiterhin auf VMWare als Virtualisierungslösung](https://netzpolitik.org/2024/digital-unsouveraen-bundesregierung-legt-sich-an-broadcoms-kette/), auch wenn seit der Übernahme der Firma durch Broadcoms Ende 2023 es teilweise drastische Preissteigerungen kam, teilweise um das Zwölffache. Digitale Souveränität sieht anders aus, dabei gäbe es Alternativen, mit [OpenStack](https://www.openstack.org) auch im Open-Source-Bereich. 
 
 Gleiches Spiel auch im Gesundheitswesen: von den 800 Millionen Euro zur Digitalisierung des öffentlichen Gesundheitsdiensts flossen die Gelder hauptsächlich in kurzfristige Lösungen, bei den man sich weiterhin "zu sehr von Microsoft abhängig" macht, entsprechend ausgeliefert ist man beim Aushandeln von Preisen und Lizenzgebühren. So wurde beispielsweise für ein und dieselbe eine Software für den Einsatz in allen landeseigenen Gesundheitsämtern wurden von den Bundesländern elfmal Fördermittel beantragt. So entstehen weiter Doppelstrukturen statt langfristiger, krisensicherer interoperabler Systeme. 
 
+Besser läuft für die Weiterentwicklung und der Betrieb der Enterprise Edition von [openDesk](https://gitlab.opencode.de/bmi/opendesk), eine [Open-Source-basierte Office & Collaboration Suite für die Verwaltung](https://www.golem.de/news/opendesk-vom-zendis-ausprobiert-ein-web-desktop-fuer-die-verwaltung-2404-184511.html): diese ist nun für [die nächsten zwei Jahre abgesichert](https://zendis.de/ressourcen/zendis-erteilt-zuschlag-fuer-rahmenvertrag-fuer-opendesk-enterprise-edition-und-saas-angebot). openDesk kann dann entweder im SaaS-Angebot [StackIT](https://www.stackit.de/de/), dem Cloud Provider der Schwarz Gruppe, betrieben oder auch selbst im eigenen Rechenzentrum laufen gelassen werden und dort aber auch professionellen Service und Support zu bekommen.
+
+Für Kommunen gibt es mit der [Smart Village App](https://smart-village.app/) einen Open Source App Baukasten. Was diese App alles kann, hat Philipp Wilimzig in der [letzten Folge vom eGovernment Podcast](https://egovernment-podcast.com/egov190-smart-village-app/) ausführlich besprochen.
+
 Das Hohenzollern-Gymnasium in Sigmaringen, das Georg-Büchner-Gymnasium in Seelze und der Landkreis Harz [sind bisher gallische Dörfer](https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-warum-schulen-und-freie-software-gut-zusammenpassen/), wenn es darum geht, alle Schulen mit Freien Betriebssystemen und Anwendungen auszustatten. Getreu dem Prinzip ["Technik folgt Pädagogik"](https://www.kreis-hz.de/de/aktuellesdetails/it-loesung-fuer-schulen-von-finnland-lernen-im-landkreis-harz-gestalten.html). Auch die ehrenamtliche Initiative [cyber4edu](https://cyber4edu.org/c4e/wiki/start) zeigt immer wieder, das für alle benötigten Arbeitswerkzeuge entsprechende freie Open-Source-Software verfügbar ist. Besser in in Personal und in den Aufbau digitaler Kompetenzen investieren, statt das Geld in Lizenzen zu versenken.
 
-## Open Source Anwendungen
-* Die Smart Village App ist ein Open Source App Baukasten für Kommunen. Was diese App alles kann, habe ich mit Philipp Wilimzig ausführlich besprochen.
-  https://egovernment-podcast.com/egov190-smart-village-app/
-* Simulate and visualize the solar potential on 3D building data
-  https://www.openpv.de (nur für Bayern aktuell)
-  https://github.com/open-pv/
-* Weiterentwicklung und den Betrieb der Enterprise Edition von #openDesk
-  https://zendis.de/ressourcen/zendis-erteilt-zuschlag-fuer-rahmenvertrag-fuer-opendesk-enterprise-edition-und-saas-angebot
-  via https://mastodon.social/@b1systems/113034291383054045
-* make-nxm - A bash script to facilitate flyer production from a picture
-  https://github.com/Wikinaut/make-nxm
-  via https://chaos.social/@tbsprs/113035436427209860
-* Propcorn - A public good for micro-funding small features
-  https://github.com/deeecent/propcorn
-  via https://chaos.social/@tbsprs/113035718095424214
-* Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting
-  https://research.paulengstler.com/invisible-stitch/
-  via https://chaos.social/@tbsprs/113035589142173101
-* Die neue Version des in Runde 12 des Prototype Fund geförderten Leerstandsmelder ist da - Neues Design, neue Inhalte:
-  https://leerstandsmelder.in
-  via https://mastodon.social/@PrototypeFund/113040398033117121
-
-## Open Source Hardware
-* OpenScan - A low-cost, high-quality 3D scanner that you can build yourself - completely open source and modular
-  https://openscan.eu
+Mittels der Kräfte von Open Source und Open Hardware ist es [Thomas Megel](https://github.com/OpenScanEu) aus Halle (Saale) gelungen, [ein vollautomatisiertes Kopiergerät für 3D-Objekte zu bauen](https://openscan.eu/blogs/news/worlds-first-fully-automated-3d-copy-machine). Dazu wurden der Open-Hardware-3D Scanner [OpenScan Mini](https://openscan.eu/pages/openscan-mini) aus dem [OpenScan](https://openscan-org.github.io/OpenScan-Doc/#bugs-feature-requests)-Projekt und ein Prusa MK3S+ 3D-Drucker kombiniert und der Verarbeitungs-Pipeline [OpenScanCloud](https://openscan.eu/pages/openscancloud), die dank Spenden, weiterhin kostenlos angeboten werden kann, verbunden.
 
 ## Open Science
-* Im Open Economics Guide bietet die ZBW einen übersichtlichen Katalog von über 100 aktuellen Open-Science-Tools an, die alle kostenlos nutzbar sind!
-  https://openeconomics.zbw.eu/knowledgebase/open-science-tools/
-* Neue Formen der Open-Access-Finanzierung. Best Practices auf dem Weg zum Informationsbudget und zu alternativen Finanzierungsmodellen für Diamond Open Access
-  https://zenodo.org/records/13271363
-* Das Partyspiel "Research Data Scarytales" vom Thüringer Kompetenznetzwerk Forschungsdatenmanagement
-  https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html
-  via https://chaos.social/@derbruesseler/113051218594731297
-* Openness an Hochschulen verankern mit dem OER-Policy Kit
-  https://open-access.network/blog/openness-an-hochschulen-verankern-mit-dem-oer-policy-kit
+Im Open Economics Guide bietet die [ZBW](https://www.zbw.eu/de/) einen übersichtlichen Katalog von [über 100 aktuellen Open-Science-Tools an](https://openeconomics.zbw.eu/knowledgebase/open-science-tools/) an.
+  
+Im Rahmen des BMBF-geförderten Projekts [open-access.network 2](https://www.kim.uni-konstanz.de/das-kim/ueber-das-kim/projekte/aktuelle-projekte/open-access-network-2/) entstand die Handreichung ["Neue Formen der Open-Access-Finanzierung. Best Practices auf dem Weg zum Informationsbudget und zu alternativen Finanzierungsmodellen für Diamond Open Access"](https://zenodo.org/records/13271363). [Auf dem Blog](https://open-access.network/blog/openness-an-hochschulen-verankern-mit-dem-oer-policy-kit) des Projekts wird sich außerdem damit beschäftigt, wie man mit dem [OER-Policy Kit](https://github.com/twillo-lehre-teilen/OER-Policy-Kit) Hürden für das Konzept der Open Educational Resources (OER) an Hochschulen überwinden kann, in dem sie die entsprechenden Schritte aus dem Leitfaden umsetzen. 
+
+Auf dem [Barcamp Kiel](https://barcamp-kiel.de/) wurde das Partyspiel ["Research Data Scarytales"](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html) vom Thüringer Kompetenznetzwerk Forschungsdatenmanagement [vorgestellt](https://chaos.social/@derbruesseler/113051218594731297). Es soll auf spielerische Art illustrieren, welche Folgen Fehler im Datenmanagement haben können. Dazu wird für die jeweils wahre Geschichte ein verklausulierter Satz präsentiert, wie z.B. "Nachdem er seine Dateien geteilt hatte, war sein Team nicht mehr gut auf ihn zu sprechen." und die Teilnehmenden müssen durch Fragen an den Spielleiter, der die Auflösung kennt, enträseln, was konkret passiert ist.  
 
 ## Karten
 * Fehlende Gebäude identifizieren
