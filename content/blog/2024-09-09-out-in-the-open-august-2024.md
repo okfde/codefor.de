@@ -20,23 +20,36 @@ Für die potenziellen Nutzer von offenen Daten, speziell aus dem Forschungsberei
 
 Metadatenqualitätsmanagement bleibt aber oftmals Handarbeit, wie auch in [diesem Fall](https://gruene.social/@mathias/112971972016366770), wo Lizenzangaben der Datensätze bei der Aggregation verloren gegangen sind oder auch schon unbewusst ungünstig vom Ersteller gesetzt worden sind, durch Nachfrage aber noch korrigiert wurde. Dann gibt es auch [Kudos](https://gruene.social/@mathias/113033220932399361).
 
+## Neue und kommende Open Data (Portale)
 Das Bundesministerium für Ernährung und Landwirtschaft (BMEL) hat eine neue [Leitlinie](https://www.bmel.de/DE/ministerium/organisation/leitlinien-open-data.html) zur Veröffentlichungen von Open Data in seinem Geschäftsbereich [veröffentlicht](https://social.bund.de/@opendatabund/112994109899175186). Eine Open Data Plattform soll später unter open.ble.de erreichbar sein, bisher existiert mit [OpenAgrar](https://www.openagrar.de/content/index.xml) ein Publikationsserver.
 
 Dagegen sind nun offene Daten von und aus Bamberg auf [bamberg.bydata.de](https://bamberg.bydata.de/?locale=de) [neuerdings](https://social.bund.de/@opendatabund/112999600220393312) einzusehen.
 
-Für Verwaltungen, die sich noch mit dem Konzept Open-By-Default schwer tun, gibt der [Musterdatenkatalog](https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/musterdatenkatalog) Orientierung, welche Daten überhaupt als Open Data veröffentlichen können bzw. welche gegenüber anderen Kommunen bei ihnen noch in der Veröffentlichung fehlen (oder noch nicht entsprechend mit einem Musterdatensatz annotiert sind). Mit der letzten [Aktualisierung](https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/der-musterdatenkatalog-waechst-auf-rund-30000-datensaetze-an) des Katalogs Ende August sind 70 Kommunen und 5.000 weitere offene Datensätze hinzugekommen, so dass nun 30.000 Datensätze enthalten sind (ohne dass hierbei Quantität unbedingt für Qualität spricht).
+Für Verwaltungen, die sich noch mit dem Konzept [Open-By-Default](https://en.wikipedia.org/wiki/Open_by_default) schwer tun, gibt der [Musterdatenkatalog](https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/musterdatenkatalog) Orientierung, welche Daten überhaupt als Open Data veröffentlichen können bzw. welche gegenüber anderen Kommunen bei ihnen noch in der Veröffentlichung fehlen (oder noch nicht entsprechend mit einem Musterdatensatz annotiert sind). Mit der letzten [Aktualisierung](https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/der-musterdatenkatalog-waechst-auf-rund-30000-datensaetze-an) des Katalogs Ende August sind 70 Kommunen und 5.000 weitere offene Datensätze hinzugekommen, so dass nun 30.000 Datensätze enthalten sind (ohne dass hierbei Quantität unbedingt für Qualität spricht).
 
 Wenn man sich für die Standorte von Schwimmbädern interessiert, findet man für die Kategorie "Bad und Freibad" aktuell 69 Treffer im Musterdatenkatalog (teilweise Standorte, teilweise Besucherzahlen, teilweise als Teil aller Sportstätten, aber auch offensichtliche Fehltreffer mit "Tennisanlagen"). Für z.B. Kiel gab es hier allerdings keine Suchtreffer. Dafür wird man aber in der [Liste aller Schwimmbäder in Schleswig-Holstein](https://opendata.schleswig-holstein.de/dataset/schwimmbader-in-schleswig-holstein) (Stand 2023) fündig. Diese ist seit Ende August auf dem Open Data Portal des Bundeslandes zu finden.
 
-* CKAN 2.11 veröffentlicht
-  https://blog.okfn.org/2024/08/21/ckan-2-11-hypermedia-approach-for-the-tech-we-want/
-* Free Public APIs · A comprehensive API list with endpoints checked daily 
-  https://www.freepublicapis.com
-  via https://mastodon.social/@inautilo/113038460793650430
+[Seit 15.8.2024](https://www.zensus2022.de/DE/Aktuelles/Ankuendigung_Zensusdatenbank_Ergebnisse_Haushalte_Familien.html) sind in der [Zensusdatenbank](https://ergebnisse.zensus2022.de/datenbank/online/) die Ergebnisse zu Haushalten und Familien verfügbar, also Daten zu deren Größe und Struktur sowie zu deren Wohnsituation, z.B. die Nettokaltmiete oder die Wohnfläche.
+
+Mit den Herausforderungen und modernen Lösungsansätzen, statistische Daten so zu anonymisieren, dass sie auch in Zeiten von Big Data keine Rückschlüsse auf Einzelpersonen zulassen, beschäftigt sich der Forschungsartikel ["Anonymization: The imperfect science of using data while preserving privacy"](https://www.science.org/doi/10.1126/sciadv.adn7053).
+
 
 ## KI
-* Warum Offenheit bei Künstlicher Intelligenz (KI) für Bildung und Wissenschaft wichtig ist
-  https://open-access.network/blog/warum-offenheit-bei-kuenstlicher-intelligenz-ki-fuer-bildung-und-wissenschaft-wichtig-ist
+
+[Zehn Handlungsempfehlungen](https://www.wikimedia.de/wp-content/uploads/2024/04/Handlungsempfehlungen_Offene_KI_fuer_alle.pdf) (pdf) für offen und gemeinwohlorientierte KI-Technologien im Bildungsbereich wurden innerhalb der Veranstaltungsreihe "Forum Offene KI in der Bildung" [erarbeitet](https://open-access.network/blog/warum-offenheit-bei-kuenstlicher-intelligenz-ki-fuer-bildung-und-wissenschaft-wichtig-ist). In ihnen werden Infrastruktur und Zugang zu bestehenden KI-Systemen beansprucht, mit der langfristigen Perspektive, solche System auch selbst hosten zu können. Desweiteren wird im Sinne einer offenen Bildungspraxis gefordert, Lernressourcen zu KI unter offenen Lizenzen zu stellen und mittelfristig auch eine Veränderung der Lern- und Prüfungskultur anzustreben (also mehr kritisches Denken statt Auswendiglernen). 
+
+* KI Leitfaden und Projekte in Züricher Verwaltung
+  https://www.zh.ch/de/politik-staat/kanton/kantonale-verwaltung/digitale-verwaltung/kuenstliche-intelligenz.html
+
+  * Ausgewählte KI-Projekte im Kanton Zürich
+    https://www.zh.ch/de/politik-staat/kanton/kantonale-verwaltung/digitale-verwaltung/kuenstliche-intelligenz.html#965771141
+    https://github.com/machinelearningZH
+
+* kotaemon: An open-source RAG-based tool for chatting with your documents.
+  https://github.com/Cinnamon/kotaemon
+* RAG techniques: showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+  https://github.com/NirDiamant/RAG_Techniques
+
 * Linux Foundation Backs Open Source LLM Initiative
   https://thenewstack.io/linux-foundation-backs-open-source-llm-initiative/
 * Chatbots bringen noch immer viele Falschinformationen in Umlauf
@@ -45,12 +58,6 @@ Wenn man sich für die Standorte von Schwimmbädern interessiert, findet man fü
   https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html
 * ChatGPTs Stromverbrauch: Zehnmal mehr als bei Google
   https://www.heise.de/news/ChatGPTs-Stromverbrauch-Zehnmal-mehr-als-bei-Google-9852126.html
-* kotaemon: An open-source RAG-based tool for chatting with your documents.
-  https://github.com/Cinnamon/kotaemon
-* RAG techniques: showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
-  https://github.com/NirDiamant/RAG_Techniques
-* KI Leitfaden und Projekte in Züricher Verwaltung
-  https://www.zh.ch/de/politik-staat/kanton/kantonale-verwaltung/digitale-verwaltung/kuenstliche-intelligenz.html
 
 ## Citizens Science
 * Open CALL for Citizen Observatories across Europe!
@@ -61,10 +68,6 @@ Wenn man sich für die Standorte von Schwimmbädern interessiert, findet man fü
 * Mitmachen bei #unsereFlüsse!
   https://www.swr.de/home/unsere-fluesse-formular-100.html
 
-## Methodik
-* Anonymization: The imperfect science of using data while preserving privacy
-  https://www.science.org/doi/10.1126/sciadv.adn7053
-  via https://mastodon.social/@leibnizopenscience/112892314086095800
 
 ## Open Source
 * Vom Lockdown zum Lock-in: Warnung vor Software-Abhängigkeit im Gesundheitswesen
@@ -201,10 +204,6 @@ Wenn man sich für die Standorte von Schwimmbädern interessiert, findet man fü
   via https://masto.ai/@CopernicusECMWF/113044153124766984
 
 
-## Zenus
-* Neu seit 15.8.2024 in der Zensusdatenbank: Ergebnisse zu Haushalten und Familien ab jetzt verfügbar 
-  https://www.zensus2022.de/DE/Aktuelles/Ankuendigung_Zensusdatenbank_Ergebnisse_Haushalte_Familien.html
-
 ## Datenvisualisierungen
 * Information is beautiful
   https://vis.social/@infobeautiful
@@ -233,6 +232,9 @@ Wenn man sich für die Standorte von Schwimmbädern interessiert, findet man fü
 ## Recap
 * eGovernment Podcast Monatsschau
   https://egovernment-podcast.com/egov193-monatsschau-08-24/
+
+## Und sonst so?
+Auf der Webseite [Free Public APIs](https://www.freepublicapis.com) findet man über 300 zusammengetragene frei zugängliche REST Endpunkte aus verschiedenen Kategorien (und mit variierender Nützlichkeit und Ernsthaftigkeit), die auch regelmäßig hinsichtlich Verfügbarkeit, Antwortzeiten und Fehlerrate automatisiert überprüft werden.
 
 ## Veranstaltungen
 * Dienstag, 03.09.2024, 11:00-17:30, bUm, Paul-Lincke-Ufer 21, 10999 Berlin: **Prototype Fund: Demo Day der Förderrunde 15**
