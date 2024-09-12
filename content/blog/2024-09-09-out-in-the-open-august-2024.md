@@ -88,100 +88,48 @@ Eine anschauliche Präsentation des Landschaftsraumes und der Siedlungsstrukture
 
 Wie heißen die Berge in meinem Sichtfeld und wie hoch sind sie. Das kann die iOS-App ["Mont"](https://opendata.swiss/de/showcase/mont) von [Thomas Weibel](https://swiss.social/users/thomasweibel/statuses/112955740139487021) live in der Kamerasicht auf dem Handy anzeigen. Der [Open-Source-Quellcode](https://www.thomasweibel.ch/mont2/js/script.js) umfasst gerade mal 11kb.
 
-* Applied Geostatistics in Python - A Hands-on Guide with GeostatsPy
-  https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html
-  via https://techhub.social/@GregCocks/112961668676642715
-* A Gentle Introduction to GDAL Part 8: Reading Scientific Data Formats
-  https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-8-reading-scientific-data-formats-1a1f70d5388c
-
-
 ## Energie
-* Energieverbrauch von (OpenSource-) Software senken
-  https://chaos.social/@isotopp/112902081363470261
-  https://lowcarbon.software
-* Electricity Maps
-  https://app.electricitymaps.com/zone/DE
-* Free the smart-meter data!
-  https://www.volts.wtf/p/free-the-smart-meter-data
-  via https://social.coop/@ZaneSelvans/112939095661147564
+Um den Energieverbrauch von (OpenSource-)Software zu senken, gibt es von Vlad [einen Aufruf](https://chaos.social/@isotopp/112902081363470261), sich doch dem informellen Forschungskollektiv [lowcarbon.software](https://lowcarbon.software) anzuschließen (im Mastodon-Thread des Aufrufs selbst gibt es noch diverse Hinweise auf schon bestehende Initiativen und Ansätze).
+  
+In der Web-Anwendung [Electricity Maps](https://app.electricitymaps.com/zone/DE) bekommt man live die CO2-Emissionen auf einer Karte visualisiert, die allein durch Stromverbräuche entstehen. Die Anwendung des gleichnamigen dänisch-französischen Startups [steht auch Open Source auf Github](https://github.com/electricitymaps/electricitymaps-contrib). Die Daten selbst stammen aus öffentlich zugänglichen Datenquellen von Stromnetzbetreibern, Behörden und anderen Institutionen. Die Datenbank als auch der Zugang zur REST-API sind allerdings kostenpflichtig.
 
 ## Mobilität
-* Deutsche Bahn gibt Verkehrsdaten an Mobilitätsplattformen weiter
-  https://www.heise.de/news/Deutsche-Bahn-gibt-Verkehrsdaten-an-Mobilitaetsplattformen-weiter-9836073.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon
-* How bicycle friendly is Germany
-  https://blog.datawrapper.de/bicycle-friendly-germany/
-* PrognosedatenDeutschlandweite Prognosedaten des ÖPNV
-  https://mobilithek.info/blog/deutschlandweite-prognosedaten
-  * Großer Sprung im heutigen #DELFIeV #zHV Update: für ca. 1.500 Haltestellen gibt es nun neu mastscharfe Angaben
-    https://gtfs.mfdz.de/delfi/
-    via https://chaos.social/@mfdz/113028419868898870
+Der [DELFI e.V.](https://www.delfi.de/) veröffentlicht schrittweise seit dem 01.08.2024 deutschlandweite Prognosedaten des ÖPNV (Pünktlichkeitsdaten) auf der [Mobilithek](https://mobilithek.info/blog/deutschlandweite-prognosedaten). Erst am Ende des Jahres wird der Zugang unbeschränkt gewährt, da aktuell noch regionale deutliche Unterschiede hinsichtlich Vollständigkeit und Qualität bestehen. 
+
+Auch die Deutsche Bahn wurde durch das Bundeskartellamt verpflichtet, Verspätungsdaten, Daten über Zugausfälle, aktuelle Gleisangaben und Informationen zu Großstörungen in Echtzeit an Mobilitätsplattformen weiterzugeben, und hat [entsprechende Verträge mit diesen abgeschlossen](https://www.heise.de/news/Deutsche-Bahn-gibt-Verkehrsdaten-an-Mobilitaetsplattformen-weiter-9836073.html).
+
+Im [Zentralen Haltestellenverzeichnis (ZHV)](https://www.delfi.de/de/leistungen-produkte/daten-dienste/#:~:text=zhv), ebenfalls von DELFI, gibt es nun für [ca. 1.500 Haltestellen mastscharfe Angaben](https://chaos.social/@mfdz/113028419868898870). Entsprechend konnte auch der [Vergleich](https://gtfs.mfdz.de/delfi/) der ZHV-Daten mit den Daten in OpenStreetMap aktualisiert werden. Welche Seite recht hat, muss in jedem Fall einzeln geprüft werden.
+
+Als wie Fahrradfreundlich wird Deutschland wahrgenommen? Dazu hat Pascal aus dem Datawrapper-Team die Daten aus der 2022-Umfrage [visuell ausgewertet](https://blog.datawrapper.de/bicycle-friendly-germany/) und auch mit den Daten von 2012 verglichen. 
 
 ## Klima
-* Verstärkter Druck auf Zivilgesellschaft und Klimaaktivist*innen - Wie Staaten zivilgesellschaftliches Engagement immer mehr einschränken
-  https://www.ufu.de/ufu-informationen/eingeschraenkter-oeffentlicher-raum/
-  * CIVICUS-Monitor
-    https://monitor.civicus.org
-* In Südwesteuropa sinkt das Grundwasser nicht wie angenommen überall, sondern je nach Klima und Landnutzung regional sehr unterschiedlich. Das zeigen die Daten von mehr als 12.000 Grundwasserbrunnen in Portugal, Spanien, Frankreich und Italien. Deshalb sei eine differenzierte Betrachtung wichtig, sagen UFZ-Forschende.
-  https://www.ufz.de/index.php?de=36336&webc_pm=29/2024
-* Online-Tool: Hier wachsen diese Stadtbaumarten besonders gut
-  https://www.heise.de/news/Online-Tool-Hier-wachsen-diese-Stadtbaumarten-besonders-gut-9825777.html
-* Open as a Prerequisite for Solving the Climate Crisis
-  https://wikimania.eventyay.com/2024/talk/3NMMXA/
-* Mittelmeer so warm wie noch nie
-  https://taz.de/Neuer-Hoechstwert-von-289-Grad/!6030579/
-* Bundeswirtschaftsministerium hält heiklen Bericht zu klimaschädlichen Subventionen neun Monate geheim: Deutsche Umwelthilfe erzwingt Freigabe und kritisiert dreiste Falschaussage
-  https://www.duh.de/presse/pressemitteilungen/pressemitteilung/bundeswirtschaftsministerium-haelt-heiklen-bericht-zu-klimaschaedlichen-subventionen-neun-monate-gehei/
-  siehe auch https://climatejustice.global/@GermanZeroHH/112988810504123988
-* Studie zu Umweltmaßnahmen: Klima-Gesetze meist ineffektiv
-  https://taz.de/Studie-zu-Umweltmassnahmen/!6028192/
-* Reparatur-Atlas in Sachsen-Anhalt gestartet
-  https://www.zeit.de/news/2024-08/07/reparatur-atlas-in-sachsen-anhalt-gestartet
-* Electricity Maps: A real-time visualisation of the CO2 emissions of electricity consumption
-  https://app.electricitymaps.com/map
-  https://github.com/electricitymaps/electricitymaps-contrib
+David McCandless veröffentlicht seit 15 Jahren auf [Information is beautiful](https://informationisbeautiful.net) (und inzwischen auch auf [Mastodon](https://vis.social/@infobeautiful))regelmäßig anschauliche interaktive Visualisierungen zu unterschiedlichen Themen, wie z.B. diese zum exponentiellen Anstieg von [Emissionen aus dem fossilen Brennstoffen über die letzten 100 Jahre](https://vis.social/@infobeautiful/112911230643311512).
 
-## Erdbeobachtung
-* Vulkanausbruch in Island
-  Our #CopernicusAtmosphere Monitoring Service is tracking the SO2 plume from the volcanic activity on Iceland's #Reykjanes Peninsula. The highest concentrations are between 5-8 km with some increase at ground-level less than the 350 μg/m3 exposure threshold.
-  https://atmosphere.copernicus.eu/so2-reykjanes-volcano-reaches-europe
-  via https://masto.ai/users/CopernicusECMWF/statuses/113034169464874985
-  * dazu passend: Ein Vulkan im 3D-Modell: Während der Vulcano Summer School 2024 kartierte ein DLR-Team den Vulkan "La Fossa" mit modernster Drohnentechnologie. Das MACS-Kamerasystem des DLR nahm in nur zwei Stunden Flugzeit rund 8.000 Luftbilder auf, die ein beeindruckendes 3D-Modell in Echtzeit ermöglichen. Das Ergebnis der photogrammetrischen Verarbeitung – also der Prozessierung der Luftbilddaten zu einem digitalen Oberflächenmodell – ist im neuen DLR-Blogbeitrag zu sehen
-  https://www.dlr.de/de/blog/archiv/2024/der-vulkan-la-fossa-in-3d
-* Waldbrände in Südamerika
-  https://atmosphere.copernicus.eu/charts/packages/cams/products/aerosol-forecasts?base_time=202409010000&layer_name=composition_aod550&projection=classical_south_america&valid_time=202409010300
-  via https://masto.ai/@CopernicusECMWF/113044153124766984
+Offener Zugang zu (Forschungs-)Daten ist notwendige Bedingung, um die Klimakrise lösen zu können. Initiativen wie [Open goes COP](https://opengoescop.org) und [Open Climate Data](https://creativecommons.org/about/open-climate-data/) wollen bei Verhandlungen in kommenden Klimakonferenzen versuchen, mit auf den Tisch zu bringen.
 
+So hat eine [Studie](https://www.science.org/doi/10.1126/science.adl6547) des [Potsdam-Instituts für Klimafolgenforschung](https://www.pik-potsdam.de/de) offengelegt, dass von 1.500 Politikmaßnahmen [gerade mal 189 die Emissionen tatsächlich gesenkt haben](https://taz.de/Studie-zu-Umweltmassnahmen/!6028192/).
 
-## Datenvisualisierungen
-* Information is beautiful
-  https://vis.social/@infobeautiful
-  * If you're aged 30 or more, then 50% of all human fossil fuel emissions happened during your lifetime
-    https://vis.social/users/infobeautiful/statuses/112911230643311512
+Eine vom Bundeswirtschaftsministerium in Auftrag gegebene Studie, um Art, Höhe und Auswirkung von klimaschädlichen Subventionen zu ermitteln, wurde, obwohl schon November 2023 abgeschlossen, nun erst, neun Monate später (nach Abschluss der Haushaltsverhandlungen), [für die Öffentlichkeit freigegeben](https://climatejustice.global/@GermanZeroHH/112988810504123988). Aus ihr geht unter anderem hervor, dass die 35,8 Milliarden Euro Subventionen und Begünstigungen (wie z.B. das Dienstwagenprivileg und die Entfernungspauschale) im Jahr 2020 hochgerechnet bis 2030 zu 156 Mio. Tonnen klimaschädlichen Emissionen in den Sektoren Energie, Verkehr, Industrie und Landwirtschaft insgesamt führen. 
+
+Stattdessen versuchen Staaten weltweit zivilgesellschaftliches Engagement, auch im Umweltbereich, immer mehr [einzuschränken](https://www.ufu.de/ufu-informationen/eingeschraenkter-oeffentlicher-raum/), auch in Deutschland.
+
+Mit 28,9 Grad medianer Oberflächentemperatur war das Mittelmeer [so warm wie noch nie](https://taz.de/Neuer-Hoechstwert-von-289-Grad/!6030579/). Der Weltklimarat bezeichnet das Meer als einen Hotspot des Klimawandels.
+  
+Mit dem Online-Tool [CityTree](https://master.d3jwj4wl3ttyob.amplifyapp.com/simulation) der Technischen Universität München (TUM) kann man simulieren, welche Stadtbaumarten an welchen Standorten [besonders gut wachsen](https://www.heise.de/news/Online-Tool-Hier-wachsen-diese-Stadtbaumarten-besonders-gut-9825777.html). In der Simulation kann man zwischen 34 Städten und 12 Baumarten wählen. Je nach gewählter Bodenart, Lichteinfall und Bodenversiegelung werden mit biologischen, physikalischen und chemischen Gleichungen berechnet, wie der Standort und das Klima das Wachstum und die Ökosystemleistungen der Baumart beeinflussen. Als Datengrundlage wurden 5600 Stadtbäume deutschlandweit dafür analysiert.  
 
 ## Geschichte
-* Zeitsprung Weimar
-  https://zeitsprung.weimar.jetzt/315/
-  * https://zeitsprung.weimar.jetzt
-* Regensburg: Inklusives Welterbe
-  https://www.regensburg.de/r-next/projekte/inklusives-welterbe
+Historische Fotos mit dem heutigen Zustand digital überblenden, kann man in [Zeitsprung Weimar](https://zeitsprung.weimar.jetzt). Stetig kommen [weitere Fotopaare hinzu](https://zeitsprung.weimar.jetzt/315/).  
+
+Auch in Regensburg soll mit dem [Projekt Inklusives](https://www.regensburg.de/r-next/projekte/inklusives-welterbe) historische Sehenswürdigkeiten über eine digitale Anwendung barrierefrei und niederschwellig erlebbar werden.  
 
 ## Transparenz / Investigativrecherchen
-* Datenscouts im Amateurfußball - obwohl Sportwetten auf diese Spiele in Deutschland verboten sind.
-  https://www.ardmediathek.de/video/story/angriff-auf-den-amateurfussball-die-gier-der-wettindustrie/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNjaGVkdWxlU2xvdC8yY2MyNjEzYy00MWYzLTQ4MGYtOWUyMi1hYzQ2ZWVmOTY2MTk
-  via https://osna.social/@joliyea/113021511442426170
-* Anzeigen in der FAZ:  Verdeckte FDP-Werbung? Interne Mail wird zum Problem für Christian Lindner
-  https://www.abgeordnetenwatch.de/recherchen/parteispenden/verdeckte-fdp-werbung-interne-mail-wird-zum-problem-fuer-christian-lindner
-  via https://bewegung.social/@a_watch/113032339191175722
-* Lobbyismus: Diese Verbände haben den größten Einfluss
-  https://www.handelsblatt.com/politik/deutschland/lobbyismus-diese-verbaende-haben-den-groessten-einfluss/100059589.html
-* IFG in Österreich
-  https://www.linkedin.com/posts/krabina_bundesgesetzblatt-f%C3%BCr-die-republik-%C3%B6sterreich-activity-7236000338548318208-P882/
+Im August ist das [Lobbyranking 2024](https://www.transparency.de/aktuelles/detail/article/lobbyranking-2024) von Transparency International Deutschland veröffentlicht worden. Aus ihm geht hervor, dass 13 der 16 Bundesländer nicht einmal die Hälfte der Kriterien des Lobbyrankings erfüllen. Ein schlechtes Signal beim ohnehin schon bröckelnden Vertrauen in demokratische Institutionen. Das Handelsblatt hat zudem [analysiert](https://www.handelsblatt.com/politik/deutschland/lobbyismus-diese-verbaende-haben-den-groessten-einfluss/100059589.html), welche Verbände haben den größten Einfluss haben, weil z.B. besonders häufig in Leitmedien zitiert werden. Auch eine 46.000 Euro teure Anzeigenkampagne des Finanzministerium steht im starken Verdacht, mit Steuergeldern Wahlwerbung für die FDP [betrieben zu haben](https://www.abgeordnetenwatch.de/recherchen/parteispenden/verdeckte-fdp-werbung-interne-mail-wird-zum-problem-fuer-christian-lindner). 
 
-## Recap
-* eGovernment Podcast Monatsschau
-  https://egovernment-podcast.com/egov193-monatsschau-08-24/
+Sportwetten im Amateurfußball sind in Deutschland verboten - und doch werden sie auf internationalen Wettportalen angeboten, auch in deutscher Sprache. Doch woher kommen die Daten über Freistöße, gelbe Karten und Tore in Echtzeit? Offensichtlich müssen sogenannte Daten-Scouts vor Ort sein und entsprechende Informationen erheben und an die Seiten der Buchmacher weiterleiten. [Statt vom Deutschen Fußballbund mussten diese Missstände erst durch ein Team aus Investigativ-Journalisten und Datenexperten aufgedeckt werden](https://www.ardmediathek.de/video/story/angriff-auf-den-amateurfussball-die-gier-der-wettindustrie/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdFNjaGVkdWxlU2xvdC8yY2MyNjEzYy00MWYzLTQ4MGYtOWUyMi1hYzQ2ZWVmOTY2MTk).
 
 ## Und sonst so?
+Die [eGovernment Podcast Monatsschau](https://egovernment-podcast.com/egov193-monatsschau-08-24/) bespricht weitere Digitalthemen, die im August relevant waren.
+
 Auf der Webseite [Free Public APIs](https://www.freepublicapis.com) findet man über 300 zusammengetragene frei zugängliche REST Endpunkte aus verschiedenen Kategorien (und mit variierender Nützlichkeit und Ernsthaftigkeit), die auch regelmäßig hinsichtlich Verfügbarkeit, Antwortzeiten und Fehlerrate automatisiert überprüft werden.
 
 ## Veranstaltungen
@@ -210,6 +158,8 @@ Auf der Webseite [Free Public APIs](https://www.freepublicapis.com) findet man �
   * https://app.guestoo.de/public/event/92bf5b4b-61ce-4ed0-b29c-ef8a92598a24?lang=de
 * Donnerstag, 12.09.2024, 16:00-19:00, online: **Open-Source-Tools in Engagement und Ehrenamt**
   * https://www.deutsche-stiftung-engagement-und-ehrenamt.de/aktuelles/transform_d-digitalkonferenz-marktplatz-digitalisierung/
+* Donnerstag, 12.09.2024, bis Freitag, 13.09.2024, Bahnhofstrasse 6, Windisch (Schweiz): **Energy Data Hackdays 2024**
+  * https://energydatahackdays.ch
 * Freitag, 13.09.2024, 10:00-19:00, Alte Münze, Molkenmarkt 2, Berlin: **Netzpolitik-Konferenz "Bildet Netze!"**
   * https://netzpolitik.org/2024/bildet-netze-jetzt-fuer-konferenz-am-13-september-anmelden/
 * Samstag, 14.09.2024, bis Sonntag, 15.09.202, MotionLab.Berlin, Halle 20, Bouchéstr. 12, Berlin: **Nextcloud Community Conference 2024**
