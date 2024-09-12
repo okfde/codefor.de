@@ -76,31 +76,23 @@ Im Rahmen des BMBF-geförderten Projekts [open-access.network 2](https://www.kim
 Auf dem [Barcamp Kiel](https://barcamp-kiel.de/) wurde das Partyspiel ["Research Data Scarytales"](https://forschungsdaten-thueringen.de/fdm-scarytales/articles/ueberblick.html) vom Thüringer Kompetenznetzwerk Forschungsdatenmanagement [vorgestellt](https://chaos.social/@derbruesseler/113051218594731297). Es soll auf spielerische Art illustrieren, welche Folgen Fehler im Datenmanagement haben können. Dazu wird für die jeweils wahre Geschichte ein verklausulierter Satz präsentiert, wie z.B. "Nachdem er seine Dateien geteilt hatte, war sein Team nicht mehr gut auf ihn zu sprechen." und die Teilnehmenden müssen durch Fragen an den Spielleiter, der die Auflösung kennt, enträseln, was konkret passiert ist.  
 
 ## Karten
-* Fehlende Gebäude identifizieren
-  https://maproulette.org/browse/challenges/48757
-  via https://mastodon.social/users/eliasp/statuses/112903692496850650
-* Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. 
-  https://github.com/organicmaps/organicmaps
-* 20 Jahre OpenStreetMap! Gratulation!
-  https://geoobserver.de/2024/08/09/20-jahre-openstreetmap-gratulation/
-  * One man decided to take on Google Maps; 20 years later OpenStreetMap is still going strong
-    https://techcrunch.com/2024/08/10/one-man-decided-to-take-on-google-maps-20-years-later-openstreetmap-is-still-going-strong/
-    * The Days Are Long but the Years Are Short
-      https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are
-    via https://techhub.social/@GregCocks/112972756506091434
+Der [GeoObserver gratuliert](https://geoobserver.de/2024/08/09/20-jahre-openstreetmap-gratulation/) OpenStreetMap zum 20. Geburtstag. [10 Millionen Kontributoren beteiligen](https://techcrunch.com/2024/08/10/one-man-decided-to-take-on-google-maps-20-years-later-openstreetmap-is-still-going-strong/) inzwischen an der Google-Maps-Alternative. Auch der ursprüngliche Schöpfer Steve Coast hat sich zum Jubliäum der Wiki-Map [zu Wort gemeldet](https://stevecoast.substack.com/p/the-days-are-long-but-the-years-are).  
+
+Doch noch immer gibt es auch bei OpenStreetMap weiße Flecken. So werden nun die Daten des Statistischen Bundesamtes genutzt, [um zu erkennen](https://chaos.social/@schenklklopfer/112903479643138919), wo in Deutschland noch Gebäude in der OpenStreetMap fehlen. Tools und Apps wie [MapRoulette](https://maproulette.org) und [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete) motivieren aber, solche Leerstellen zu füllen.
+
+Die Daten von OpenStreetMap ermöglichen auch freie Android & iOS Offline-Karten-Apps wie z.B. [Organic Maps](https://github.com/organicmaps/organicmaps) und [NavigatorFree](https://navigatorfree.mapfactor.com/de/).
+
+Was braucht es, um eine Karte zu zeichnen, in der die Kreise in Schleswig-Holstein in verschiedenen Farben dargestellt werden? Natürlich erstmal die Polygone der Kreise. Aber die Shape-Datei ist mehrere Megabyte groß, in GeoJSON konvertiert wird es nicht weniger. Unpraktisch für eine Web-Anwendung. [OpenNorth zeigt](https://open-north.de/blog/2024-08-28_nur_eine_karte/), wie man die Datenmenge sinnvoll reduzieren kann. 
+
+Eine anschauliche Präsentation des Landschaftsraumes und der Siedlungsstrukturen in Österreich bietet der neue Datensatz ["Landcover Austria"](https://www.opendataportal.at/der-landcover-austria-atlas-landschafts-und-lebensraume-im-regionalen-kontext/) an Hand komplexer Kartenbilder auf dem Open Data Portal Österreich.
+
+Wie heißen die Berge in meinem Sichtfeld und wie hoch sind sie. Das kann die iOS-App ["Mont"](https://opendata.swiss/de/showcase/mont) von [Thomas Weibel](https://swiss.social/users/thomasweibel/statuses/112955740139487021) live in der Kamerasicht auf dem Handy anzeigen. Der [Open-Source-Quellcode](https://www.thomasweibel.ch/mont2/js/script.js) umfasst gerade mal 11kb.
+
 * Applied Geostatistics in Python - A Hands-on Guide with GeostatsPy
   https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html
   via https://techhub.social/@GregCocks/112961668676642715
 * A Gentle Introduction to GDAL Part 8: Reading Scientific Data Formats
   https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-8-reading-scientific-data-formats-1a1f70d5388c
-* Der Landcover Austria-Atlas – Landschafts- und Lebensräume im regionalen Kontext
-  https://www.opendataportal.at/der-landcover-austria-atlas-landschafts-und-lebensraume-im-regionalen-kontext/
-* Nur eine Karte zeichnen
-  https://open-north.de/blog/2024-08-28_nur_eine_karte/
-* "Mont" ist eine Mobile-only-Webpage mit lediglich 11 Kilobyte reinem Programmcode, die eine Kameraansicht der umgebenden Landschaft bietet, die lokale Topografie berechnet und die Namen aller sichtbaren Hügelkuppen und Berggipfel (einschliesslich ihrer Gipfelhöhe und Entfernung) anzeigt. Zusätzlich gibt ein Kompass die aktuelle Blickrichtung an, ein Höhenmesser die Meereshöhe des aktuellen Standorts.
-  https://opendata.swiss/de/showcase/mont
-  Quellcode: https://www.thomasweibel.ch/mont2/js/script.js
-  via https://swiss.social/users/thomasweibel/statuses/112955740139487021
 
 
 ## Energie
