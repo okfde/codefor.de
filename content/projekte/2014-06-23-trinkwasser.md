@@ -25,7 +25,7 @@ Trinkwasser, wir alle nutzen es täglich. Es liegt daher nahe, sich über das Tr
 
 Diese Frage haben sich auch Civic Tech Aktivisten von Code For Germany gestellt und so ist 2014 die Trinkwasser-App im OK Lab Code for Heilbronn entstanden. Diese Idee ist von den Kölner Civic Tech Aktivisten aufgegriffen worden und das Ursprungprojekt von Code for Heilbronn ist während mehrerer OK Lab Köln Arbeitstreffen für den Gebrauch in Köln adaptiert worden. 
 
-Die Kölner Trinkwasser-App war ein Projekt, dass aufgrund von zeitlichen und infrastrukturellen Ressourcenmangel lange nicht verfügbar war. 2023 hat dann Jabkob der Anwendung wieder Leben eingehaucht. Leider waren die ursprünglichen Kölner Ressourcen nicht mehr verfügbar und es mußte auf dem Ursprungsprojekt aufgesetzt werden. Seitdem achten wir mehr darauf, die Sourcen in unserem [codeforcologne GIT](https://github.com/codeforcologne) vorzuhalten. 
+Die Kölner Trinkwasser-App war ein Projekt, dass aufgrund von zeitlichen und infrastrukturellen Ressourcenmangel lange nicht verfügbar war. 2023 hat dann Jabkob der Anwendung wieder Leben eingehaucht. Leider waren die ursprünglichen Kölner Ressourcen nicht mehr verfügbar und es musste auf dem Ursprungsprojekt aufgesetzt werden. Seitdem achten wir mehr darauf, die Sourcen in unserem [codeforcologne GIT](https://github.com/codeforcologne) vorzuhalten. 
 
 Trinkwassermessdaten wurden und werden bisher nicht in einem maschinenlesbaren Open Data Standard-Format über eine API veröffentlicht, sondern müssen händisch extrahiert und übertragen werden.
 
