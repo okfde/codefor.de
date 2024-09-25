@@ -10,20 +10,26 @@ aliases:
 - /fl
 
 members:
-
 - name: Roald Christesen
 
 - name: Chantal Butenberg
 
 - name: David Bornemann
 
-links:
+- name: Oliver Lemke-Lohnert
 
+- name: Aurelius Wendelken
+
+
+links:
 - name: Website
   url: https://oklabflensburg.de
 
 - name: Twitter
   url: https://twitter.com/oklabflensburg
+
+- name: Mastodon
+  url: https://norden.social/@oklabflensburg
 
 - name: Facebook
   url: https://www.facebook.com/oklabflensburg
@@ -31,15 +37,29 @@ links:
 - name: GitHub
   url: https://github.com/oklabflensburg
 
-leads:
 
+leads:
 - name: Roald Christesen
   url: mailto:roald@grain.one
 
 - name: Kontakt Allgemein
   url: mailto:oklabflensburg@grain.one
+
+
 ---
 
-Willkommen beim OK Lab Flensburg. Wir treffen uns wöchentlich, um uns über Themen rund um Open Data und Digitalisierung auszutauschen. Gemeinsam arbeiten wir an Ideen und Konzepten, die wir dann in Anwendungen umsetzen.
+### Was macht das OK Lab Flensburg?
 
-Wir freuen uns über weitere Teilnehmer*innen. Vorkenntnisse sind nicht erforderlich. Die Termine findest du auf unserer Website.
+Das OK Lab Flensburg ist eine Gruppe engagierter Menschen aus Flensburg und der Region, die sich jeden Mittwoch Abend trifft, um an lokalen Projekten zu arbeiten, oft im Bereich Civic Tech oder Open Data. Wir nutzen Daten und Technologie, um zum Beispiel nutzerfreundliche Anwendungen oder Prototypen zu entwickeln um Verwaltungsinnovation in Schleswig-Holstein zu fördern, den Zugang zu Informationen zu erleichtern oder öffentliche Dienstleistungen transparenter zu gestalten. Einige unserer Projekte stellen wir auf dieser Seite vor, schau doch gerne mal rein.
+
+
+### Wer steckt hinter der Initiative?
+
+Das OK Lab Flensburg ist Teil der "Code for Germany"-Initiative, die von der Open Knowledge Foundation Deutschland initiert wurde. Diese Initiative fördert den Einsatz von offenen Daten und technologischen Lösungen zur Verbesserung der Gesellschaft. In den einzelnen Labs kommen Programmierer, Designer, Journalisten und andere Interessierte zusammen, um Projekte zu entwickeln, die auf Transparenz, Bürgerbeteiligung und nachhaltige Entwicklung abzielen.
+
+
+### Wie kann ich bei euch mitmachen?
+
+Du möchtest deine Stadt und deine Nachbarschaft mitgestalten und dich für eine starke Bürgerbeteiligung ehrenamtlich engagieren? Dann lerne uncere OK Lab Flensburg Community kennen und komm einfach vorbei, Vorkenntnisse sind nicht erforderlich. Wir bringen Dir bei Interesse die Grundlagen zu offenen Daten und technologischen Lösungen bei. Wir sind eine aufgeschlossene aktive Gruppe und treffen uns *jeden Mittwoch zwischen 18 bis 21 Uhr* im:
+
+Aktivitetshuset im Hinterhaus, Norderstraße 49, 24939 Flensburg
