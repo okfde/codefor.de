@@ -60,6 +60,6 @@ Das OK Lab Flensburg ist Teil der "Code for Germany"-Initiative, die von der Ope
 
 ### Wie kann ich bei euch mitmachen?
 
-Du möchtest deine Stadt und deine Nachbarschaft mitgestalten und dich für eine starke Bürgerbeteiligung ehrenamtlich engagieren? Dann lerne uncere OK Lab Flensburg Community kennen und komm einfach vorbei, Vorkenntnisse sind nicht erforderlich. Wir bringen Dir bei Interesse die Grundlagen zu offenen Daten und technologischen Lösungen bei. Wir sind eine aufgeschlossene aktive Gruppe und treffen uns *jeden Mittwoch zwischen 18 bis 21 Uhr* im:
+Du möchtest deine Stadt und deine Nachbarschaft mitgestalten und dich für eine starke Bürgerbeteiligung ehrenamtlich engagieren? Dann lerne unsere OK Lab Flensburg Community kennen und komm einfach vorbei, Vorkenntnisse sind nicht erforderlich. Wir bringen Dir bei Interesse die Grundlagen zu offenen Daten und technologischen Lösungen bei. Wir sind eine aufgeschlossene aktive Gruppe und treffen uns **jeden Mittwoch zwischen 18 bis 21 Uhr** im:
 
-Aktivitetshuset im Hinterhaus, Norderstraße 49, 24939 Flensburg
+Aktivitetshuset, Hinterhaus, Norderstraße 49, 24939 Flensburg
