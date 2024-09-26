@@ -55,7 +55,7 @@ Das OK Lab Flensburg ist eine Gruppe engagierter Menschen aus Flensburg und der 
 
 ### Wer steckt hinter der Initiative?
 
-Das OK Lab Flensburg ist Teil der "Code for Germany"-Initiative, die von der Open Knowledge Foundation Deutschland initiert wurde. Diese Initiative fördert den Einsatz von offenen Daten und technologischen Lösungen zur Verbesserung der Gesellschaft. In den einzelnen Labs kommen Programmierer, Designer, Journalisten und andere Interessierte zusammen, um Projekte zu entwickeln, die auf Transparenz, Bürgerbeteiligung und nachhaltige Entwicklung abzielen.
+Das OK Lab Flensburg ist Teil der "Code for Germany"-Initiative, die von der Open Knowledge Foundation Deutschland initiiert wurde. Diese Initiative fördert den Einsatz von offenen Daten und technologischen Lösungen zur Verbesserung der Gesellschaft. In den einzelnen Labs kommen Programmierer, Designer, Journalisten und andere Interessierte zusammen, um Projekte zu entwickeln, die auf Transparenz, Bürgerbeteiligung und nachhaltige Entwicklung abzielen.
 
 
 ### Wie kann ich bei euch mitmachen?
