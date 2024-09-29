@@ -50,6 +50,12 @@ type: blog
   https://www.rbb24.de/politik/wahl/Landtagswahl/2024/waehlerwanderung-landtagswahl-brandenburg-spd-cdu-bsw-afd-linke-gruene-freie-waehler.html
 * Daten Landtagswahlen Brandenburg
   https://wahlergebnisse.brandenburg.de/12/500/20240922/landtagswahl_land/download.html
+* Österreich Ergebnisse der Nationalratswahl 2024 (BMI)
+  https://www.data.gv.at/katalog/dataset/e40e3b00-1a98-4338-acb7-42547e6fee55#resources
+* Wahlsoftware: Offene Quellen – Weniger Missverständnisse
+  https://www.ccc.de/de/updates/2024/wahlsoftware-offene-quellen-weniger-missverstandnisse
+* Keine Politik für uns, keine Stimme für euch
+  https://netzpolitik.org/2024/breakpoint-tiktok-ist-schuld-oder/
 
 ## Parlamentsdaten
 * Ordnungsrufe österreichisches Parlament
@@ -110,6 +116,8 @@ type: blog
   https://prototypefund.de/funding-for-future-wie-der-prototype-fund-wirkt-teil-ii/
 * Winamp: Quellcode offengelegt – Diskussionen um Lizenz
   https://www.heise.de/news/Winamp-Quellcode-offengelegt-Diskussionen-um-Lizenz-9953816.html
+* Mit Open-Source gegen den „Political Lock-In“
+  https://www.egovernment.de/mit-open-source-gegen-den-political-lock-in-a-95619dcc5d60ca12ee7ff4892f775862/
 
 ## Open Access
 * Prerequisite for reproducible science: a call to embrace code sharing
@@ -135,8 +143,12 @@ type: blog
   https://medium.com/@robsimmon/making-space-data-easier-to-use-overcoming-challenges-and-expanding-access-7d16748f295c
 
 ## Klima
+* Satellitendaten eröffnen neue Möglichkeiten zur Förderung sozialer und ökologischer Gerechtigkeit
+  https://civic-data.de/satellitendaten/
 * Heißester Sommer seit Aufzeichnungsbeginn
   https://www.tagesschau.de/wissen/klima/sommer-hoechststand-temperatur-100.html
+  * Surface air temperature for August 2024
+    https://climate.copernicus.eu/surface-air-temperature-august-2024
 * Seit diesem Wochenende ist ein rundum erneuertes https://www.openpv.de online. Dort könnt ihr das solare Potential für fast jedes Gebäude in Deutschland berechen und bekommt einen Jahresertrag und jährliche Einnahmen für eure eingezeichneten PV-Anlagen.
   https://mastodon.energy/@floko/113080224808025560
 * Eine Analyse von BR Data zeigt: Regensburg ist ein Hotspot in Bezug auf Hitzetage, an denen es über 30 Grad heiß wird: Zwischen 1991 und 2020 haben die Menschen in der Stadt durchschnittlich neun heiße Tage pro Jahr mehr erlebt als im Vergleichszeitraum von 1961 und 1990 – mehr als in jedem anderen bayerischen Landkreis.
@@ -152,6 +164,8 @@ type: blog
     https://www.zdf.de/nachrichten/wissen/un-zukunftsgipfel-studie-planetare-grenzen-klimawandel-100.html
 	* Planetary Health Check 2024
 	  https://d1gwxouzo4hr10.cloudfront.net/planetaryhealthcheck2024_report.pdf
+  * The Tipping Points of Climate Change — and Where We Stand (Johan Rockström)
+    https://www.youtube.com/watch?v=Vl6VhCAeEfQ
 * Maßnahmen für ein klimaneutrales Deutschland
   https://mappingzero.de
   https://germanzero.de/loesungen/mapping-zero
@@ -238,6 +252,8 @@ type: blog
   https://t3n.de/news/deepfake-o-meter-erkennt-ki-generierte-medien-1646539/
 * AI-Washing Is an Opportunity - Can the hype be harnessed to fund public infrastructure projects?
   https://democracy-technologies.org/opinion/ai-washing-is-an-opportunity/
+* Finally it happened to me as well: developers complaining that the behavior of my OSS libraries does not match what ChatGPT explains to them.
+  https://fosstodon.org/users/mcollina/statuses/113091501184997847
 
 ## Transparenz
 * Desinformations-Leak: Tiefe Einblicke in Putins Lügenmaschine
