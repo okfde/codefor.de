@@ -25,25 +25,28 @@ type: blog
   via https://social.bund.de/@destatis/113163895810762941
 * Release der neuen Oberfläche von GENESIS-Online - wichtige Hinweise
   https://www-genesis.destatis.de/datenbank/beta/announcement
-
+* Threats, hopes and tales from the Open Knowledge Network gathering in Katowice, Poland
+  https://blog.okfn.org/2024/09/26/threats-hopes-and-tales-from-the-open-knowledge-network-gathering-in-katowice-poland/
+* Neue Plattform für offene Daten in Rheinland-Pfalz
+  https://www.zeit.de/news/2024-09/25/neue-plattform-fuer-offene-daten-in-rheinland-pfalz
 
 ## Wahlen
 * Sachsen-Wahl 2024: Wahlergebnisse nach Wahlkreisen und Gemeinden
   https://interaktiv-staging.tagesspiegel.de/lab/landtagswahl-sachsen-ergebnisse-karten-historisch/
 * Wählerwanderung Sachsen
-  https://www.mdr.de/nachrichten/sachsen/politik/landtagswahl/waehlerwanderung-nichtwaehler-grafik-100.html  
+  https://www.mdr.de/nachrichten/sachsen/politik/landtagswahl/waehlerwanderung-nichtwaehler-grafik-100.html
 * Daten Landtagswahlen Sachsen
-  https://wahlen.sachsen.de/landtagswahlen.html  
+  https://wahlen.sachsen.de/landtagswahlen.html
   https://wahlen.sachsen.de/landtagswahlen-2024-informationen-und-downloads.html
 * Thüringen-Wahl 2024: Wahlergebnisse nach Wahlkreisen und Gemeinden
-  https://interaktiv-staging.tagesspiegel.de/lab/landtagswahl-thueringen-ergebnisse-karten-historisch/ 
+  https://interaktiv-staging.tagesspiegel.de/lab/landtagswahl-thueringen-ergebnisse-karten-historisch/
 * Wählerwanderung Thüringen
-  https://www.mdr.de/nachrichten/thueringen/landtagswahl/waehlerwanderung-grafik-100.html  
+  https://www.mdr.de/nachrichten/thueringen/landtagswahl/waehlerwanderung-grafik-100.html
 * Daten Landtagswahlen Thüringen
   https://wahlen.thueringen.de
 * Brandenburg-Wahl 2024: Wahlergebnisse nach Wahlkreisen und Gemeinden
   https://interaktiv.tagesspiegel.de/lab/landtagswahl-brandenburg-ergebnisse-karten-historisch/
-* Wählerwanderung Brandenburg  
+* Wählerwanderung Brandenburg
   https://www.rbb24.de/politik/wahl/Landtagswahl/2024/waehlerwanderung-landtagswahl-brandenburg-spd-cdu-bsw-afd-linke-gruene-freie-waehler.html
 * Daten Landtagswahlen Brandenburg
   https://wahlergebnisse.brandenburg.de/12/500/20240922/landtagswahl_land/download.html
@@ -54,9 +57,8 @@ type: blog
 * Magdeburg StadtratWatch nun mit Sharepic-Funktion für Abstimmungsergebnis
   https://machteburch.social/@JensWinter/113092185058658506
 
-
 ## Mobilität
-* vom 01.09. bis 30.11.2024: Bewerte die Fahrradfreundlichkeit deiner Stadt und hilf mit, das Radfahren in Deutschland sicherer und angenehmer zu machen. 
+* vom 01.09. bis 30.11.2024: Bewerte die Fahrradfreundlichkeit deiner Stadt und hilf mit, das Radfahren in Deutschland sicherer und angenehmer zu machen.
   https://fahrradklima-test.adfc.de/
   Wie viele Mindestteilnahmezahlen ein Ort benötigt, um in die Gesamtauswertung zu kommen, findet ihr in dieser Übersicht: https://fahrradklima-test.adfc.de/teilnahme#c146084.
   Zwischenergebnisse der Teilnahme: https://fahrradklima-test.adfc.de/ergebnisse
@@ -77,6 +79,8 @@ type: blog
   https://whatif.sonycsl.it/15mincity/15mincity.php
   via https://chaos.social/@ibigfoot/113160292989084761
   mehr What-Ifs: https://whatif.sonycsl.it
+* Wo die mehr als 400 maroden Brücken in Sachsen, Sachsen-Anhalt und Thüringen stehen
+  https://www.mdr.de/nachrichten/deutschland/panorama/wo-marode-bruecken-sachsen-anhalt-thueringen-karte-104.html
 
 ## OpenSource
 * Prototype Fund Projekte Runde 16 (September 2024 bis Februar 2025)
@@ -86,7 +90,7 @@ type: blog
   https://www.twistedfields.com/research
   https://github.com/Twisted-Fields/acorn-precision-farming-rover
 * Eine Gruppe Hacker hätte sich beinahe Zugang zu Millionen von Servern auf der ganzen Welt verschafft. Doch ein deutscher Software-Entwickler hat ihnen einen Strich durch die Rechnung gemacht.
-  https://www.youtube.com/watch?v=8p8PHeGg--U  
+  https://www.youtube.com/watch?v=8p8PHeGg--U
 * DuckDB 1.1.0 veröffentlicht
   https://duckdb.org/2024/09/09/announcing-duckdb-110
 * Bundeshaushalt: Die digitale Zukunftsfähigkeit wird wider besseres Wissen demontiert
@@ -106,7 +110,6 @@ type: blog
   https://prototypefund.de/funding-for-future-wie-der-prototype-fund-wirkt-teil-ii/
 * Winamp: Quellcode offengelegt – Diskussionen um Lizenz
   https://www.heise.de/news/Winamp-Quellcode-offengelegt-Diskussionen-um-Lizenz-9953816.html
-  
 
 ## Open Access
 * Prerequisite for reproducible science: a call to embrace code sharing
@@ -117,9 +120,9 @@ type: blog
   https://joss.theoj.org
   https://culturemachine.net
   https://firstmonday.org/ojs/index.php/fm/index
-  https://ijoc.org/index.php/ijoc  
+  https://ijoc.org/index.php/ijoc
   via https://datasci.social/@benfmaier/113137359199686742
-  passt auch: 
+  passt auch:
    * https://www.oeko.de/magazin/urban-mining-1/#c21141
      via https://mastodon.social/@oekoinstitut/113185576343329003
    * Digital die Welt retten?
@@ -155,7 +158,7 @@ type: blog
   via https://climatejustice.global/@GermanZeroHH/113152712816777914
 * Hamburg: Klimainformationssystem beinhaltet nun auch Hitzetote
   https://www.ndr.de/nachrichten/hamburg/Hamburg-Klimainformationssystem-beinhaltet-nun-auch-Hitzetote,klima604.html
-* Twenty years after "microplastics" was first mentioned, we now see their widespread impact. They come from tires, textiles, cosmetics, and more, and are found in food, drink, and even the human body, causing harm.  With pollution expected to double by 2040, there’s an urgent need to find solutions to prevent unintended consequences. 
+* Twenty years after "microplastics" was first mentioned, we now see their widespread impact. They come from tires, textiles, cosmetics, and more, and are found in food, drink, and even the human body, causing harm.  With pollution expected to double by 2040, there’s an urgent need to find solutions to prevent unintended consequences.
   https://www.science.org/doi/10.1126/science.adl2746
   via https://mastodon.social/@Climatehistories/113186010308099623
 
@@ -184,7 +187,7 @@ type: blog
   https://www.data.gv.at/katalog/application/97679bfa-9f28-44c3-9347-8df341502e0e
   https://hiking.waymarkedtrails.org
 * releasing version 2.0.0. of osm2pgsql
-  https://osm2pgsql.org/news/2024/09/19/release-2.0.0.html  
+  https://osm2pgsql.org/news/2024/09/19/release-2.0.0.html
 * Unser Vortrag "VersaTiles – Freie Karten für alle" ist online! In unter 30 Minuten erkläre ich den Aufbau eines neuen, freien Kartenstacks, der in Sekunden installiert werden kann.
   https://mastodon.social/@VersaTiles/113186334292405308
   * VersaTiles: Open-Source-Projekt als Alternative zu kommerziellen Kartendiensten
@@ -192,15 +195,20 @@ type: blog
 * OpenFreeMap lets you display custom maps on your website and apps for free.
   https://openfreemap.org
   https://github.com/hyperknot/openfreemap
+* Digitaler Zwilling NRW
+  https://www.dz.nrw.de/?lang=de
+  https://www.opengeodata.nrw.de/produkte/geobasis/lusat/akt/3dmesh/3dmesh/
 
 ## Gesundheit
 * Data Science Podcast "Datenleben": Gesundheitsdaten und Sicherheit
-  https://podcasts.social/users/datenleben/statuses/113106578606885407  
+  https://podcasts.social/users/datenleben/statuses/113106578606885407
 * Ärtzemangel
   https://de.euronews.com/gesundheit/2024/09/13/arztemangel-niedrige-lohne-und-uberstunden-in-europas-krankenhausern-herrscht-flaute
   https://www.rnd.de/gesundheit/karte-in-diesen-bundeslaendern-fehlen-die-meisten-hausaerzte-GPNGT4RUH5DPBA2645X6WWMSUY.html
 * Pflegebedürftige
-  https://de.statista.com/statistik/daten/studie/168254/umfrage/pflegebeduerftige-in-deutschland-seit-2007/  
+  https://de.statista.com/statistik/daten/studie/168254/umfrage/pflegebeduerftige-in-deutschland-seit-2007/
+* Warum wir wissen müssen, wem unsere Arztpraxen gehören
+  https://background.tagesspiegel.de/gesundheit-und-e-health/briefing/warum-wir-wissen-muessen-wem-unsere-arztpraxen-gehoeren
 
 ## GLAM
 * Preserving the history of online collections (my love letter to future historians)
@@ -210,11 +218,11 @@ type: blog
 
 ## KI
 * Full Circle of AI: Massenweise KI-Musik generiert und über Bot-Netzwerk gestreamt um Vergütung dafür einzustreichen
-  https://www.engadget.com/entertainment/streaming/alleged-fraudster-got-10-million-in-royalties-using-robots-to-stream-ai-made-music-162944343.html?guccounter=1  
+  https://www.engadget.com/entertainment/streaming/alleged-fraudster-got-10-million-in-royalties-using-robots-to-stream-ai-made-music-162944343.html?guccounter=1
 * Digitale Sprachbarrieren abbauen: Simba will das Internet für alle verständlicher machen
   https://reset.org/digitale-sprachbarrieren-abbauen-simba-will-das-internet-fuer-alle-verstaendlicher-machen/
   https://publicinterest.ai/tool/simba/simplifier?lang=de
-  https://publicinterest.ai  
+  https://publicinterest.ai
 * Hirnforschung: Neue Studie sagt mit KI Aktivitäten einzelner Neuronen voraus
   https://www.heise.de/news/Hirnforschung-Neue-Studie-sagt-mit-KI-Aktivitaeten-einzelner-Neuronen-voraus-9868635.html
 * Wikidata und Künstliche Intelligenz: Vereinfachter Zugang zu offenen Daten für Open-Source-Projekte
@@ -226,6 +234,10 @@ type: blog
   https://techcrunch.com/2024/09/18/linkedin-scraped-user-data-for-training-before-updating-its-terms-of-service/
 * Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML
   https://github.com/uber/causalml
+* Fälschung enttarnt: Deepfake-o-Meter macht es einfach, KI-generierte Medien zu erkennen
+  https://t3n.de/news/deepfake-o-meter-erkennt-ki-generierte-medien-1646539/
+* AI-Washing Is an Opportunity - Can the hype be harnessed to fund public infrastructure projects?
+  https://democracy-technologies.org/opinion/ai-washing-is-an-opportunity/
 
 ## Transparenz
 * Desinformations-Leak: Tiefe Einblicke in Putins Lügenmaschine
@@ -233,7 +245,7 @@ type: blog
 * Ampel-Koalition: Keine Überzeugung. Nirgends
   https://netzpolitik.org/2024/ampel-koalition-keine-ueberzeugung-nirgends/
   via https://mastodon.social/@sebgiessmann/113174269837079269
-* Was verdient eigentlich der Vorstand der Sparkasse oder der Chef der Stadtwerke? Die Vergütungsoffenlegung gibt Auskunft: 
+* Was verdient eigentlich der Vorstand der Sparkasse oder der Chef der Stadtwerke? Die Vergütungsoffenlegung gibt Auskunft:
   https://opendata.schleswig-holstein.de/dataset/verguetungsoffenlegung
   via https://norden.social/@MisterOpenData/113186736434815312
 
@@ -247,7 +259,7 @@ type: blog
   Prägehalle: https://www.youtube.com/watch?v=CK6pE4-8kCg
   Zählhalle: https://www.youtube.com/watch?v=bOmuCthlwrI
 * Datenspuren 2024
-  https://media.ccc.de/c/DS2024  
+  https://media.ccc.de/c/DS2024
   * 8 Jahre FOSS Förderung
     https://www.youtube.com/watch?v=vN5lwwBreIY
 * Energy Hack Days
@@ -287,6 +299,8 @@ type: blog
 * Montag, 14.10.2024, bis Sonntag, 27.10.2024: **EU Code Week**
   * https://codeweek.eu
   * https://codeweek.eu/events
+* Montag, 14.10.2024, 10:00, bis Dienstag, 15.10.2024, 18:00, betahaus Sternschanze, Eifflerstraße 43, Hamburg : **"Jetzt seid ihr am Zug – All in ÖPNV!" Hackathon**
+  * https://pretix.eu/moinbility/hackathon2024/
 * Montag, 14.10.2024, 19:00, Wikibär, Köpernicker Str. 45, Berlin: **OKLab Berlin**
   * https://www.meetup.com/ok-lab-berlin/events/303337758/
 * Dienstag, 15.10.2024, bis Donnerstag, 17.10.2024, hub27, Messegelände Berlin, Jaffeestraße, Berlin: **Smart Country Convention**
@@ -305,6 +319,8 @@ type: blog
   * Anmeldung: https://form.typeform.com/to/osBjzBFb
 * Samstag, 26.10.2024, 10:00-20:30, Kraftwerk Mitte 3, Dresden: **MINTA* Hackday Dresden**
   * https://jugendhackt.org/events/dresden/
+* Samstag, 26.10.2024, 11:00, bis Sonntag, 27.10.2024, 16:00: **Kultur-Hackathon: FLOOD THE ZONE WITH LOVE - Bots für schwierige Zeiten?**
+  * https://performingarts.digital/programm/flood-the-zone-with-love-bots-fuer-schwierige-zeiten-1
 * Dienstag, 29.10.2024, 09:30, bis Mittwoch, 30.10.2024, 16:15, Deutsches Hygiene-Museum, Lingnerplatz 1, Dresden: **ALASCA Summit 2024**
   * https://osb-alliance.de/veranstaltungen/alasca-summit-2024
 * Regelmäßige OKLab-Treffen
