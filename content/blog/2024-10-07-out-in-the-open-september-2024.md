@@ -18,17 +18,30 @@ type: blog
   https://blog.wikimedia.de/2024/09/07/20-jahre-wikimedia-commons/
 * GovData erscheint seit heute in einem moderneren Look
   https://norden.social/@opendata@social.bund.de/113158291178079116
+  https://geoobserver.de/2024/09/30/open-data-relaunch-govdata-de/
 * Was dann aus diesen Daten wurde, zeigt die Faszination offener Daten: Sie eröffnen Räume für Gespräche, Kreativität und neue Entdeckungen.
   https://citylab-berlin.org/de/blog/open-data-and-the-city-die-odis-kolumne/
+* Threats, hopes and tales from the Open Knowledge Network gathering in Katowice, Poland
+  https://blog.okfn.org/2024/09/26/threats-hopes-and-tales-from-the-open-knowledge-network-gathering-in-katowice-poland/
+* Neue Plattform für offene Daten in Rheinland-Pfalz
+  https://www.zeit.de/news/2024-09/25/neue-plattform-fuer-offene-daten-in-rheinland-pfalz
+  * Open-Data-Strategie für Rheinland-Pfalz
+    https://mastd.rlp.de/themen/digitalisierung/open-data/open-data-strategie
+    via https://social.bund.de/@opendatabund/113226287154043379
+* Ziele der Digitalstrategie Schleswig-Holstein nun auch strukturiert im Open-Data-Portal:
+  https://opendata.schleswig-holstein.de/dataset/ziele-der-digitalstrategie-2023
+  via https://norden.social/@MisterOpenData/113225871320124198
+
+## Statistikdaten
 * Zur Eigentümerquote, Leerstandsquote, Durchschnittsalter und weiteren Themen gibt es neue Karten auf Gitterzellenebene in unserem Zensus-Atlas.
   https://atlas.zensus2022.de
   via https://social.bund.de/@destatis/113163895810762941
 * Release der neuen Oberfläche von GENESIS-Online - wichtige Hinweise
   https://www-genesis.destatis.de/datenbank/beta/announcement
-* Threats, hopes and tales from the Open Knowledge Network gathering in Katowice, Poland
-  https://blog.okfn.org/2024/09/26/threats-hopes-and-tales-from-the-open-knowledge-network-gathering-in-katowice-poland/
-* Neue Plattform für offene Daten in Rheinland-Pfalz
-  https://www.zeit.de/news/2024-09/25/neue-plattform-fuer-offene-daten-in-rheinland-pfalz
+* Leerstand: So stark unterscheiden sich die Regionen
+  https://www.ndr.de/nachrichten/ndrdata/Leerstand-So-stark-unterscheiden-sich-die-Regionen,leerstand190.html
+* Fix my chart - Sequential storytelling
+  https://blog.datawrapper.de/fix-my-chart-sequential-storytelling/
 
 ## Wahlen
 * Sachsen-Wahl 2024: Wahlergebnisse nach Wahlkreisen und Gemeinden
@@ -118,6 +131,10 @@ type: blog
   https://www.heise.de/news/Winamp-Quellcode-offengelegt-Diskussionen-um-Lizenz-9953816.html
 * Mit Open-Source gegen den „Political Lock-In“
   https://www.egovernment.de/mit-open-source-gegen-den-political-lock-in-a-95619dcc5d60ca12ee7ff4892f775862/
+* Das Bundes-Office kommt: openDesk Version 1.0 ab Mitte Oktober
+  https://www.heise.de/news/Microsoft-365-Alternative-openDesk-in-Version-1-0-fuer-Oktober-angekuendigt-9955542.html
+* Lisa Reiber delves into the unique experiment of sharing code in public administration
+  https://www.youtube.com/watch?v=aHrmI3Iz1cA
 
 ## Open Access
 * Prerequisite for reproducible science: a call to embrace code sharing
@@ -141,6 +158,14 @@ type: blog
   https://open-science-future.zbw.eu/en/dare-to-be-transparent-manage-open-research/
 * Making Space Data Easier to Use: Overcoming Challenges and Expanding Access
   https://medium.com/@robsimmon/making-space-data-easier-to-use-overcoming-challenges-and-expanding-access-7d16748f295c
+* New book on citizen science approaches to investigating environmental offences
+  https://www.elgaronline.com/monobook-oa/book/9781035328703/9781035328703.xml
+  via https://mastodon.social/users/leibnizopenscience/statuses/113226390499751970
+* Neu auf mit:forschen!: Expert*innen-Datenbank - vorhandenes Wissen vor Ort sichtbarer machen und den persönlichen Austausch in der Community stärken
+  https://www.mitforschen.org/expertinnen
+* ZBW veröffentlicht Untersuchung zur Nutzung von Open Science in den Wirtschaftswissenschaften
+  https://www.zbw.eu/de/ueber-uns/zbw-aktuell/meldung/zbw-veroeffentlicht-untersuchung-zur-nutzung-von-open-science-in-den-wirtschaftswissenschaften
+  https://www.econstor.eu/bitstream/10419/303026/1/Bericht_OS-Studie_FINAL.pdf
 
 ## Klima
 * Satellitendaten eröffnen neue Möglichkeiten zur Förderung sozialer und ökologischer Gerechtigkeit
@@ -158,14 +183,19 @@ type: blog
   https://searchforlostbirds.org/birds
   https://www.macaulaylibrary.org
   https://ebird.org/
+* Bericht zur Artenvielfalt: Schmetterling, Waldvogel und Co. sind in Gefahr
+  https://ard.social/users/tagesschau/statuses/113227337814061518
 * Kipppunkte: Erde an der Klimaschwelle
   https://topos.orf.at/wie-nah-sind-kipppunkte100
   * Noch fünf Jahre für einen gesunden Planeten
     https://www.zdf.de/nachrichten/wissen/un-zukunftsgipfel-studie-planetare-grenzen-klimawandel-100.html
 	* Planetary Health Check 2024
 	  https://d1gwxouzo4hr10.cloudfront.net/planetaryhealthcheck2024_report.pdf
+  * Planetary Health Check: Noch fünf Jahre für einen gesunden Planeten
   * The Tipping Points of Climate Change — and Where We Stand (Johan Rockström)
     https://www.youtube.com/watch?v=Vl6VhCAeEfQ
+  * Extremwetterkongress Streams
+    https://www.youtube.com/@ExtremWetterKongress/streams
 * Maßnahmen für ein klimaneutrales Deutschland
   https://mappingzero.de
   https://germanzero.de/loesungen/mapping-zero
@@ -175,6 +205,12 @@ type: blog
 * Twenty years after "microplastics" was first mentioned, we now see their widespread impact. They come from tires, textiles, cosmetics, and more, and are found in food, drink, and even the human body, causing harm.  With pollution expected to double by 2040, there’s an urgent need to find solutions to prevent unintended consequences.
   https://www.science.org/doi/10.1126/science.adl2746
   via https://mastodon.social/@Climatehistories/113186010308099623
+* Der Fokus auf Desinformation bringt uns nicht weiter
+  https://jacobin.de/artikel/desinformation-fehlinformation-klimawandel-klimaschutz-energiewende
+* Diese fünf lokalen Klimaschutzprojekte geben Hoffnung
+  https://www.riffreporter.de/de/umwelt/klima-klimaschutz-klimawandel-lokales-staedte-nachbarschaft-buerger-initiativen
+* Copernicus-Bericht: Tempo der Meereserwärmung hat sich seit 2005 fast verdoppelt
+  https://www.spiegel.de/wissenschaft/klimawandel-tempo-der-meereserwaermung-hat-sich-laut-bericht-seit-2005-fast-verdoppelt-a-45b7ae5c-03a3-4d1c-9ab2-7be7f94f593e
 
 ## Hochwasser
 * Länderübergreifendes Hochwasser Portal
@@ -190,10 +226,14 @@ type: blog
   https://www.harzwasserwerke.de/infoservice/talis-talsperrendaten/
 * Hochwasserriskogebiete Österreich
   https://www.hora.gv.at/
+* Juni-Hochwasser in Süddeutschland verursacht über 4,1 Milliarden Euro Schaden
+  https://www.deutschlandfunk.de/juni-hochwasser-in-sueddeutschland-verursacht-ueber-4-1-milliarden-euro-schaden-100.html
 
 ## Energie
 * Die Historie der Solarbundesliga und des Wattbewerbs
   https://www.youtube.com/watch?v=Zi-Re3xMp2o
+* Sieben gute Gründe für erneuerbare Energien
+  https://www.klimareporter.de/strom/sieben-gute-gruende-fuer-erneuerbare-energien
 
 ## Karten
 * Neue Basemap-Kartenstile als QGIS-Projekt
@@ -212,6 +252,9 @@ type: blog
 * Digitaler Zwilling NRW
   https://www.dz.nrw.de/?lang=de
   https://www.opengeodata.nrw.de/produkte/geobasis/lusat/akt/3dmesh/3dmesh/
+* Neue Version Geoportal Hamburg / Masterportal 3.3.0:
+  https://geoportal-hamburg.de
+  https://bitbucket.org/geowerkstatt-hamburg/masterportal/src/dev_vue/
 
 ## Gesundheit
 * Data Science Podcast "Datenleben": Gesundheitsdaten und Sicherheit
@@ -223,6 +266,21 @@ type: blog
   https://de.statista.com/statistik/daten/studie/168254/umfrage/pflegebeduerftige-in-deutschland-seit-2007/
 * Warum wir wissen müssen, wem unsere Arztpraxen gehören
   https://background.tagesspiegel.de/gesundheit-und-e-health/briefing/warum-wir-wissen-muessen-wem-unsere-arztpraxen-gehoeren
+
+## Rente
+* Aktienrente
+  https://norden.social/users/StefanKarstens/statuses/113209404813678646
+* Mackenroth-Theorem
+  https://de.wikipedia.org/wiki/Mackenroth-These
+
+## Wirtschaft
+* Creditreform-Umfrage: "Nahezu depressive Züge" bei mittelständischen Unternehmen
+  https://www.heise.de/news/Creditreform-Umfrage-Nahezu-depressive-Zuege-bei-mittelstaendischen-Unternehmen-9956938.html
+* Vermögenssteuer für Superreiche bringt über zwei Billionen US-Dollar
+  https://www.telepolis.de/features/Vermoegenssteuer-fuer-Superreiche-bringt-ueber-zwei-Billionen-US-Dollar-9957014.html?seite=all
+* Big Tech muss weg! – Ein Manifest für eine neue digitale Wirtschaft
+  https://www.lobbycontrol.de/macht-der-digitalkonzerne/big-tech-muss-weg-ein-manifest-fuer-eine-neue-digitale-wirtschaft-117544/
+  https://taz.de/Regulierung-von-Tech-Konzernen/!6040265/
 
 ## GLAM
 * Preserving the history of online collections (my love letter to future historians)
@@ -254,8 +312,23 @@ type: blog
   https://democracy-technologies.org/opinion/ai-washing-is-an-opportunity/
 * Finally it happened to me as well: developers complaining that the behavior of my OSS libraries does not match what ChatGPT explains to them.
   https://fosstodon.org/users/mcollina/statuses/113091501184997847
+* Erster KI-Urheberrechtsprozess: LAION darf urheberrechtlich geschütztes Bild für KI-Training anbieten
+  https://netzpolitik.org/2024/erster-ki-urheberrechtsprozess-laion-darf-urheberrechtlich-geschuetztes-bild-fuer-ki-training-anbieten/
+* What the hell is an "AI artist"
+  https://blog.koehntopp.info/2024/09/29/werk-und-ai.html
+* KI-gestützte Durchmusterung entdeckt Hunderte neue Nazca-Geoglyphen
+  https://www.heise.de/news/KI-gestuetzte-Durchmusterung-entdeckt-Hunderte-neue-Nazca-Geoglyphen-9958382.html
+
+## Reform öffentlich-rechtlicher Rundfunk
+* "Reformstaatsvertrag" mit Retro-Konzept der "Presseähnlichkeit"
+  https://netzpolitik.org/2024/neues-aus-dem-fernsehrat-108-reformstaatsvertrag-mit-retro-konzept-der-presseaehnlichkeit/
+  via https://chaos.social/users/leonido/statuses/113221232331353190
+  * hier kann man auch als Bürger dazu Stellung nehmen
+    https://rundfunkkommission.rlp.de/rundfunkkommission-der-laender/reformstaatsvertrag
 
 ## Transparenz
+* Koalitionstracker
+  https://fragdenstaat.de/koalitionstracker/
 * Desinformations-Leak: Tiefe Einblicke in Putins Lügenmaschine
   https://www.tagesschau.de/investigativ/ndr-wdr/russland-propaganda-fakenews-sda-deutschland-100.html
 * Ampel-Koalition: Keine Überzeugung. Nirgends
@@ -264,6 +337,12 @@ type: blog
 * Was verdient eigentlich der Vorstand der Sparkasse oder der Chef der Stadtwerke? Die Vergütungsoffenlegung gibt Auskunft:
   https://opendata.schleswig-holstein.de/dataset/verguetungsoffenlegung
   via https://norden.social/@MisterOpenData/113186736434815312
+* IT-Infrastruktur - Datennetz der Landesbehörden: Teuer und intransparent
+  https://www.mdr.de/nachrichten/sachsen-anhalt/landesdatennetz-teuer-intransparent-100.html
+* Behördliche Chats sind nicht privat
+  https://www.jmwiarda.de/2024/09/30/beh%C3%B6rdliche-chats-sind-nicht-privat/
+* So geht sächsisch: Auskunft zu Transparenzgesetz komplett geschwärzt
+  https://winfuture.de/news,145678.html
 
 ## Recap
 * Open Science Barcamp
@@ -306,6 +385,8 @@ type: blog
   * Anmeldung über: https://datenschule.de/workshops/umweltdatenwerkstatt/
 * Samstag, 05.10.2024, bis Sonntag, 06.10.2024, online: **NASA International Space Apps Challenge**
   * https://www.spaceappschallenge.org
+* Montag, 07.10.2024, 09:00-17:00, DIPF, Rostocker Straße 6, Frankfurt am Main: **OERinfo-Fachtag "How to build a Community?!: Strategien – Konzepte – Erfolgsmessung"**
+  * https://open-educational-resources.de/kalender/oerinfo-fachtag-2024-how-to-build-a-community/
 * Dienstag, 08.10.2024, 17:00, bis, Donnerstag, 10.10.2024, 15:30, Besenbinderhof 57A, Hamburg: **Forum Citizen Science 2024**
   * https://www.mitforschen.org/veranstaltungen/forum-citizen-science-2024/programm
 * Donnerstag, 10.10.2024, 11:30 – 16:00, Bundesinnenministerium, Alt-Moabit 140, Berlin: **GovTalk 2024 – Das Netzwerkevent zum Digitalen Staat**
@@ -359,3 +440,5 @@ type: blog
 * Im Rahmen des **Chaotischen Catalysator Stipendienprogramms** können sich Studierende, die eine Master- oder Diplomarbeit schreiben, um ein Stipendium in Höhe von insgesamt 1.500 € bewerben. Gesucht werden Themen, die sich mit den Informationstechnologien dieser Welt und ihren Auswirkungen auf die Gesellschaft beschäftigen. Hinsichtlich der Fachrichtung gibt es keine Einschränkungen. Bewerbungen bis 31.10.2024‚
   * https://chaos-stipendien.de/blog/2023/sommer-semester-2024/
   * https://chaos-stipendien.de
+* **NIAM 2025**, Einreichungen bis 25.11.2024 möglich
+  https://pretalx.news-infographics-analytics-maps.media/2025/cfp
