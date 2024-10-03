@@ -211,6 +211,10 @@ type: blog
   https://www.riffreporter.de/de/umwelt/klima-klimaschutz-klimawandel-lokales-staedte-nachbarschaft-buerger-initiativen
 * Copernicus-Bericht: Tempo der Meereserwärmung hat sich seit 2005 fast verdoppelt
   https://www.spiegel.de/wissenschaft/klimawandel-tempo-der-meereserwaermung-hat-sich-laut-bericht-seit-2005-fast-verdoppelt-a-45b7ae5c-03a3-4d1c-9ab2-7be7f94f593e
+* Städte in der Klimakrise: Zwischen Asphalt und Beton
+  https://correctiv.org/aktuelles/2024/10/01/zwischen-asphalt-und-beton-versiegelung-deutscher-staedte-nimmt-zu/
+* Ärger um Klima-Vorgabe CBAM: Deutsche Firmen müssen der EU Daten liefern, die es gar nicht gibt
+  https://www.focus.de/earth/analyse/cbam-unklare-regeln-verunsichern-industrie_id_260285214.html
 
 ## Hochwasser
 * Länderübergreifendes Hochwasser Portal
@@ -234,6 +238,9 @@ type: blog
   https://www.youtube.com/watch?v=Zi-Re3xMp2o
 * Sieben gute Gründe für erneuerbare Energien
   https://www.klimareporter.de/strom/sieben-gute-gruende-fuer-erneuerbare-energien
+* Energy Sharing: Geld reicht als Bürger-Beteiligung nicht aus
+  https://www.klimareporter.de/finanzen-wirtschaft/geld-reicht-als-buerger-beteiligung-nicht-aus
+  * https://de.m.wikipedia.org/wiki/Energy_Sharing
 
 ## Karten
 * Neue Basemap-Kartenstile als QGIS-Projekt
@@ -318,6 +325,12 @@ type: blog
   https://blog.koehntopp.info/2024/09/29/werk-und-ai.html
 * KI-gestützte Durchmusterung entdeckt Hunderte neue Nazca-Geoglyphen
   https://www.heise.de/news/KI-gestuetzte-Durchmusterung-entdeckt-Hunderte-neue-Nazca-Geoglyphen-9958382.html
+* Study Finds No DevOps Productivity Gains from Generative AI
+  https://devops.com/study-finds-no-devops-productivity-gains-from-generative-ai/
+* PDF2Audio: Open-Source-KI zur Wandlung von PDF in Podcasts und Zusammenfassungen
+  https://www.unidigital.news/pdf2audio-open-source-ki-zur-wandlung-von-pdf-in-podcasts-und-zusammenfassungen/
+* Klaut sich die KI ihre Inhalte aus Zeitungen zusammen?
+  https://www.nzz.ch/schweiz/petra-goessi-macht-den-chatbot-test-klaut-sich-die-ki-ihre-inhalte-etwa-zusammen-ld.1848169
 
 ## Reform öffentlich-rechtlicher Rundfunk
 * "Reformstaatsvertrag" mit Retro-Konzept der "Presseähnlichkeit"
@@ -387,12 +400,16 @@ type: blog
   * https://www.spaceappschallenge.org
 * Montag, 07.10.2024, 09:00-17:00, DIPF, Rostocker Straße 6, Frankfurt am Main: **OERinfo-Fachtag "How to build a Community?!: Strategien – Konzepte – Erfolgsmessung"**
   * https://open-educational-resources.de/kalender/oerinfo-fachtag-2024-how-to-build-a-community/
+* Dienstag, 08.10.2024, 11:30-12:15, online: **CorrelCompact: So lügt man mit Statistik**
+  * https://www.correlaid.org/veranstaltungen/correlcompact-statistik
 * Dienstag, 08.10.2024, 17:00, bis, Donnerstag, 10.10.2024, 15:30, Besenbinderhof 57A, Hamburg: **Forum Citizen Science 2024**
   * https://www.mitforschen.org/veranstaltungen/forum-citizen-science-2024/programm
 * Donnerstag, 10.10.2024, 11:30 – 16:00, Bundesinnenministerium, Alt-Moabit 140, Berlin: **GovTalk 2024 – Das Netzwerkevent zum Digitalen Staat**
   * https://initiatived21.de/veranstaltungen/govtalk-2024-das-netzwerkevent-zum-digitalen-staat
 * Freitag, 11.10.2024, bis Sonntag, 13.10.2024, Tüftelwerk, Unterlachenstrasse 5, Luzern (Schweiz): **Jugend hackt**
   * https://jugendhackt.org/events/schweiz/
+* Freitag, 11.10.2024, bis Sonntag, 13.10.2024, EineWeltHaus, Schwanthalerstr. 80 RGB, München: **CorrelCon 2024**
+  * https://www.correlaid.org/veranstaltungen/correlcon-2024
 * Montag, 14.10.2024, bis Sonntag, 27.10.2024: **EU Code Week**
   * https://codeweek.eu
   * https://codeweek.eu/events
@@ -404,22 +421,26 @@ type: blog
   * https://www.smartcountry.berlin/de/
 * Mittwoch, 16.10.2024, 19:00-22:00, Taylor Wessing, Ebertstraße 15, Berlin: **Monsters of Law meets Taylor Wessing - Transparent & Lizenziert – Rechtliche Rahmenbedingungen für den Einsatz von CC-Lizenzen in der öffentlichen Verwaltung**
   * https://www.wikimedia.de/veranstaltungen/monsters-of-law-meets-taylor-wessing/
-* Donnerstag, 17.10.2024, 10:00-18:30, bis 18.10.2024, 12:00-14:00, online: **The Tech We Want Summit**
+* Donnerstag, 17.10.2024, 10:00-18:30, bis 18.10.2024, 12:00-16:00, online: **The Tech We Want Summit**
   * https://okfn.org/en/events/the-tech-we-want-online-summit/
   * Anmeldung bis 16.10.2024
 * Sonntag, 20.10.2024, 18:00-22:00, Café KoZ, Studierendenhaus 26-28, Frankfurt am Main: **Digitalpolitischer Bits & Bäume-Herbstabend**
   * https://bits-und-baeume.org/posts/herbstabend_2024/
 * Montag, 21.10.2024, bis Dienstag, 22.10.2024, Kap Europa, Osloer Str. 5, Frankfurt am Main: **Digital Gipfel**
   * https://initiatived21.de/veranstaltungen/digital-gipfel-2024
-* Donnerstag, 24.10.2024, 10:00-12:00: **Open Data Round Table**
+* Donnerstag, 24.10.2024, 10:00-12:00, online: **Open Data Round Table**
   * https://www.linkedin.com/events/7243935725690191872/about/
   * Anmeldung: https://form.typeform.com/to/osBjzBFb
 * Samstag, 26.10.2024, 10:00-20:30, Kraftwerk Mitte 3, Dresden: **MINTA Hackday Dresden**
   * https://jugendhackt.org/events/dresden/
-* Samstag, 26.10.2024, 11:00, bis Sonntag, 27.10.2024, 16:00: **Kultur-Hackathon: FLOOD THE ZONE WITH LOVE - Bots für schwierige Zeiten?**
+* Samstag, 26.10.2024, 11:00, bis Sonntag, 27.10.2024, 16:00, ACHAT Hotel, Mauritiusstraße 7, Wiesbaden: **Kultur-Hackathon: FLOOD THE ZONE WITH LOVE - Bots für schwierige Zeiten?**
   * https://performingarts.digital/programm/flood-the-zone-with-love-bots-fuer-schwierige-zeiten-1
 * Dienstag, 29.10.2024, 09:30, bis Mittwoch, 30.10.2024, 16:15, Deutsches Hygiene-Museum, Lingnerplatz 1, Dresden: **ALASCA Summit 2024**
   * https://osb-alliance.de/veranstaltungen/alasca-summit-2024
+* Dienstag, 05.11.2024, 14:00-14:45, online: **CorrelCompact: Mission Datenqualität - vom Rohmaterial zum Datengold**
+  * https://www.correlaid.org/veranstaltungen/correlcompact-datenqualit%C3%A4t
+* Freitag, 08.11.2024, 10:00-17:00, Moritzbastei, Kurt-Masur-Platz 1, Leipzig: **Public Service Lab Day 2024**
+  https://www.eventbrite.de/e/public-service-lab-day-2024-tickets-941917569807
 * Regelmäßige OKLab-Treffen
   * Flensburg: jeden Mittwoch, 18:00, Aktivitetshuset, Hinterhaus, Norderstraße 49, Flensburg
     * https://codefor.de/flensburg/
