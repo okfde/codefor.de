@@ -288,6 +288,8 @@ type: blog
 * Big Tech muss weg! – Ein Manifest für eine neue digitale Wirtschaft
   https://www.lobbycontrol.de/macht-der-digitalkonzerne/big-tech-muss-weg-ein-manifest-fuer-eine-neue-digitale-wirtschaft-117544/
   https://taz.de/Regulierung-von-Tech-Konzernen/!6040265/
+* World Inequality Database
+  https://wid.world
 
 ## GLAM
 * Preserving the history of online collections (my love letter to future historians)
@@ -454,10 +456,10 @@ type: blog
     * https://www.codeforniederrhein.de/termine/
 
 ## Call for participation
-* **MIZ-Innovationsförderung** – jetzt bis 6. Oktober 2024 bewerben!
-  * https://miz-babelsberg.de/aktuelles/details/innovationsfoerderung-08-2024.html
 * **EU Open Data Days 2025**, Einreichungen bis 22.10.2024 möglich
   https://data.europa.eu/en/euopendatadays#open-data-days-nav-tab-table-1158
+* **KI-Ideenwerkstatt x Prototype Fund Hardware: Offene Technologien für den Umweltschutz**, Einreichungen bis 31.10.2024 23:59 (Europe/Berlin) möglich
+  https://apply.hardware.prototypefund.de/prototype-fund-hardware-runde-2-2024/cfp
 * Im Rahmen des **Chaotischen Catalysator Stipendienprogramms** können sich Studierende, die eine Master- oder Diplomarbeit schreiben, um ein Stipendium in Höhe von insgesamt 1.500 € bewerben. Gesucht werden Themen, die sich mit den Informationstechnologien dieser Welt und ihren Auswirkungen auf die Gesellschaft beschäftigen. Hinsichtlich der Fachrichtung gibt es keine Einschränkungen. Bewerbungen bis 31.10.2024‚
   * https://chaos-stipendien.de/blog/2023/sommer-semester-2024/
   * https://chaos-stipendien.de
