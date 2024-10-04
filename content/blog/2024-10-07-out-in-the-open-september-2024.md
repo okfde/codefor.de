@@ -135,6 +135,8 @@ type: blog
   https://www.heise.de/news/Microsoft-365-Alternative-openDesk-in-Version-1-0-fuer-Oktober-angekuendigt-9955542.html
 * Lisa Reiber delves into the unique experiment of sharing code in public administration
   https://www.youtube.com/watch?v=aHrmI3Iz1cA
+* Open Regulatory Compliance Working Group
+  https://osb-alliance.de/news/die-eclipse-foundation-gruendet-die-open-regulatory-compliance-working-group-zur-unterstuetzung-bei-globalen-open-source-regularien
 
 ## Open Access
 * Prerequisite for reproducible science: a call to embrace code sharing
@@ -333,6 +335,10 @@ type: blog
   https://www.unidigital.news/pdf2audio-open-source-ki-zur-wandlung-von-pdf-in-podcasts-und-zusammenfassungen/
 * Klaut sich die KI ihre Inhalte aus Zeitungen zusammen?
   https://www.nzz.ch/schweiz/petra-goessi-macht-den-chatbot-test-klaut-sich-die-ki-ihre-inhalte-etwa-zusammen-ld.1848169
+* Wikimedia Deutschland entwickelt semantische Suche für gemeinnützige KI-Anwendungen
+  https://www.wikimedia.de/press-releases/wikimedia-deutschland-entwickelt-semantische-suche-fuer-gemeinnuetzige-ki-anwendungen/
+* Neue Definition "Open Source AI"
+  https://www.digitaltrends.com/computing/new-open-source-definition-osi-meta-google/
 
 ## Reform öffentlich-rechtlicher Rundfunk
 * "Reformstaatsvertrag" mit Retro-Konzept der "Presseähnlichkeit"
