@@ -11,37 +11,22 @@ og_image: out-in-the-open-2024-09-header.jpg
 type: blog
 ---
 ## OpenData
-* Threats, hopes and tales from the Open Knowledge Network gathering in Katowice, Poland
-  https://blog.okfn.org/2024/09/26/threats-hopes-and-tales-from-the-open-knowledge-network-gathering-in-katowice-poland/
-* Aktuelle Points of Interest Open verfügbar
-  https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2024/240905_POI-Open.html
-* Wikimedia Commons, das größte freie Medienarchiv der Welt wird heute 20!
-  via https://social.wikimedia.de/@wikimediaDE/113095242356437006
-  https://blog.wikimedia.de/2024/09/07/20-jahre-wikimedia-commons/
-* Neue Plattform für offene Daten in Rheinland-Pfalz
-  https://www.zeit.de/news/2024-09/25/neue-plattform-fuer-offene-daten-in-rheinland-pfalz
-  * Open-Data-Strategie für Rheinland-Pfalz
-    https://mastd.rlp.de/themen/digitalisierung/open-data/open-data-strategie
-    via https://social.bund.de/@opendatabund/113226287154043379
-* Was dann aus diesen Daten wurde, zeigt die Faszination offener Daten: Sie eröffnen Räume für Gespräche, Kreativität und neue Entdeckungen.
-  https://citylab-berlin.org/de/blog/open-data-and-the-city-die-odis-kolumne/
-* Ziele der Digitalstrategie Schleswig-Holstein nun auch strukturiert im Open-Data-Portal:
-  https://opendata.schleswig-holstein.de/dataset/ziele-der-digitalstrategie-2023
-  via https://norden.social/@MisterOpenData/113225871320124198
-* GovData erscheint seit heute in einem moderneren Look
-  https://norden.social/@opendata@social.bund.de/113158291178079116
-  https://geoobserver.de/2024/09/30/open-data-relaunch-govdata-de/
+Am 5. August trafen sich die Vertreter:innen der verschiedenen Länder des weltweiten Open Knowledge Netzwerks. Beim Treffen, das [Sara Petti hier im Blog nun dokumentiert hat](https://blog.okfn.org/2024/09/26/threats-hopes-and-tales-from-the-open-knowledge-network-gathering-in-katowice-poland/), ging es darum, wie die Zusammenarbeit innerhalb aber auch darüber hinaus erweitert und strategisch intensiviert werden könnte. Neben den Dauerthemen der immer noch ausbaufähigen Kenntnisse beim Umgang mit Open Data (Tools) und der ungenügenden Fördermmittelausstattung ging es auch um Strategien beim Umgang mit Big Tech. Im Rahmen ihrer meist nicht nachhaltigen Geschäftsmodelle kolonisieren diese zunehmend Daten, d.h. sie greifen die freien Daten der Communities gerne für ihre Zwecke ab, tragen aber selbst nichts zur Community bei. Im Gegenteil, es wird Open Washing betrieben, indem sie Openness versuchen im Sinne ihrer Machtinteressen umzudeuten, und die Anliegen von informationeller Selbstbestimmung zu unterlaufen. Nur über gute Geschichten (Story Telling), die unsere Werte transportieren, und die wir nicht müde werden dürfen, immer wieder zu erzählen und gegen die Narrative der Industrie zu positionieren.
+
+"Diskussionsräume öffnen" und sich bewusst einlassen auf eine Reise zu ungeplanten Erkenntnissen in der Welt der offenen Daten ist beispielsweise der Ansatz, [den das ODIS in Berlin gewählt hat](https://citylab-berlin.org/de/blog/open-data-and-the-city-die-odis-kolumne/), um Verwaltung zu überzeugen, auch dann Daten freizustellen, wenn noch kein perfekt ausgearbeiteter Anwendungsfall als Begründung geliefert werden kann.
+
+Mit "Wir wollen, dass offene Daten in hoher Qualität künftig der Normalfall sind und als Nebenprodukt des Verwaltungshandelns weitestgehend automatisch erzeugt werden", begründete die Digitalisierungsministerin von Rheinland-Pfalz, Dörte Schall, das im Kontext der vorgestellten [Open-Data-Strategie](https://mastd.rlp.de/themen/digitalisierung/open-data/open-data-strategie) ebenfalls [neu eingerichtete](https://www.zeit.de/news/2024-09/25/neue-plattform-fuer-offene-daten-in-rheinland-pfalz) zentrale [Open-Data-Portal](https://open.rlp.de/de/) in ihrem Bundesland.
+
+Deutlich länger gibt es die Wikimedia Commons, mit über 100 Millionen gemeinfreien und frei lizenzierten Fotos, Audio- und Videodateien das größte freie Medienarchiv der Welt - es wurde am 7. September 20 Jahre alt. Mitgründer Erik Möller [blickt im Interview auf die Anfänge zurück](https://blog.wikimedia.de/2024/09/07/20-jahre-wikimedia-commons/).
+
+GUI bono - [GovData](https://www.govdata.de), seit 2013 Deutschlands nationales Metadatenportal für Open Government Data, hat [eine Generalüberholung bekommen](https://norden.social/@opendata@social.bund.de/113158291178079116). Dem [GeoObserver](https://geoobserver.de/2024/09/30/open-data-relaunch-govdata-de/) ist gleich aufgefallen, dass dadurch nun auch die hochwertigen Datensätzen (HVD - High Value Dataset) gesondert gekennzeichnet werden und explizit gefiltert werden können.
 
 ## Statistikdaten
-* Release der neuen Oberfläche von GENESIS-Online - wichtige Hinweise
-  https://www-genesis.destatis.de/datenbank/beta/announcement
-* Zur Eigentümerquote, Leerstandsquote, Durchschnittsalter und weiteren Themen gibt es neue Karten auf Gitterzellenebene in unserem Zensus-Atlas.
-  https://atlas.zensus2022.de
-  via https://social.bund.de/@destatis/113163895810762941
-* Leerstand: So stark unterscheiden sich die Regionen
-  https://www.ndr.de/nachrichten/ndrdata/Leerstand-So-stark-unterscheiden-sich-die-Regionen,leerstand190.html
-* Fix my chart - Sequential storytelling
-  https://blog.datawrapper.de/fix-my-chart-sequential-storytelling/
+[Der neue Anstrich](https://www-genesis.destatis.de/datenbank/beta/) der Haupt-Datenbank des Statistischen Bundesamtes, [GENESIS-Online](https://www-genesis.destatis.de/genesis/online), steht schon einige Zeit als Beta-Version zum Testen bereit, [jetzt wurde angekündigt](https://www-genesis.destatis.de/datenbank/beta/announcement), dass in der zweiten Oktoberhälfte offiziell auf die neue Oberfläche umgeschaltet wird. Mit der Umstellung ändern sich auch einige Datenformate und APIs, diese Änderungen müssen Nutzende bei sich entsprechend nachziehen.
+
+Das Statistisches Bundesamt [weist außerdem](https://social.bund.de/@destatis/113163895810762941) auf neue Kartendarstellung für Eigentümerquote, Leerstandsquote, Durchschnittsalter und weiteren Themen in [ihrem Zensus-Atlas](https://atlas.zensus2022.de) hin. Auch beim NDR hat man die Leerstands-Daten speziell für Norddeutschland in einer interaktiven Karte [näher ausgewertet](https://www.ndr.de/nachrichten/ndrdata/Leerstand-So-stark-unterscheiden-sich-die-Regionen,leerstand190.html) und sich regionale Ungereimtheiten von entsprechenden Experten bzw. Ansässigen einordnen und aufklären lassen.
+
+In der jüngsten [Kolumne "Fix my chart"](https://blog.datawrapper.de/fix-my-chart-sequential-storytelling/) auf dem Datawrapper-Blog wird gezeigt, wie man die Zusammenhänge, die aus vier einzelnen Diagramme nur schwer abzuleiten sind, durch geeignete Farbgebung, Beschriftung und Verschränkung der Skalenverläufe doch anschaulich einordnen kann.
 
 ## Wahlen
 ### Sachsen
@@ -355,6 +340,8 @@ type: blog
   https://www.youtube.com/live/vhdChUOw8x4
 
 ## Karten
+* Aktuelle Points of Interest Open verfügbar
+  https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2024/240905_POI-Open.html
 * Digitaler Zwilling NRW
   https://www.dz.nrw.de/?lang=de
   https://www.opengeodata.nrw.de/produkte/geobasis/lusat/akt/3dmesh/3dmesh/
