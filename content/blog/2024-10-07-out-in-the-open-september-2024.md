@@ -11,39 +11,40 @@ og_image: out-in-the-open-2024-09-header.jpg
 type: blog
 ---
 ## OpenData
+* Threats, hopes and tales from the Open Knowledge Network gathering in Katowice, Poland
+  https://blog.okfn.org/2024/09/26/threats-hopes-and-tales-from-the-open-knowledge-network-gathering-in-katowice-poland/
 * Aktuelle Points of Interest Open verfügbar
   https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2024/240905_POI-Open.html
 * Wikimedia Commons, das größte freie Medienarchiv der Welt wird heute 20!
   via https://social.wikimedia.de/@wikimediaDE/113095242356437006
   https://blog.wikimedia.de/2024/09/07/20-jahre-wikimedia-commons/
-* GovData erscheint seit heute in einem moderneren Look
-  https://norden.social/@opendata@social.bund.de/113158291178079116
-  https://geoobserver.de/2024/09/30/open-data-relaunch-govdata-de/
-* Was dann aus diesen Daten wurde, zeigt die Faszination offener Daten: Sie eröffnen Räume für Gespräche, Kreativität und neue Entdeckungen.
-  https://citylab-berlin.org/de/blog/open-data-and-the-city-die-odis-kolumne/
-* Threats, hopes and tales from the Open Knowledge Network gathering in Katowice, Poland
-  https://blog.okfn.org/2024/09/26/threats-hopes-and-tales-from-the-open-knowledge-network-gathering-in-katowice-poland/
 * Neue Plattform für offene Daten in Rheinland-Pfalz
   https://www.zeit.de/news/2024-09/25/neue-plattform-fuer-offene-daten-in-rheinland-pfalz
   * Open-Data-Strategie für Rheinland-Pfalz
     https://mastd.rlp.de/themen/digitalisierung/open-data/open-data-strategie
     via https://social.bund.de/@opendatabund/113226287154043379
+* Was dann aus diesen Daten wurde, zeigt die Faszination offener Daten: Sie eröffnen Räume für Gespräche, Kreativität und neue Entdeckungen.
+  https://citylab-berlin.org/de/blog/open-data-and-the-city-die-odis-kolumne/
 * Ziele der Digitalstrategie Schleswig-Holstein nun auch strukturiert im Open-Data-Portal:
   https://opendata.schleswig-holstein.de/dataset/ziele-der-digitalstrategie-2023
   via https://norden.social/@MisterOpenData/113225871320124198
+* GovData erscheint seit heute in einem moderneren Look
+  https://norden.social/@opendata@social.bund.de/113158291178079116
+  https://geoobserver.de/2024/09/30/open-data-relaunch-govdata-de/
 
 ## Statistikdaten
+* Release der neuen Oberfläche von GENESIS-Online - wichtige Hinweise
+  https://www-genesis.destatis.de/datenbank/beta/announcement
 * Zur Eigentümerquote, Leerstandsquote, Durchschnittsalter und weiteren Themen gibt es neue Karten auf Gitterzellenebene in unserem Zensus-Atlas.
   https://atlas.zensus2022.de
   via https://social.bund.de/@destatis/113163895810762941
-* Release der neuen Oberfläche von GENESIS-Online - wichtige Hinweise
-  https://www-genesis.destatis.de/datenbank/beta/announcement
 * Leerstand: So stark unterscheiden sich die Regionen
   https://www.ndr.de/nachrichten/ndrdata/Leerstand-So-stark-unterscheiden-sich-die-Regionen,leerstand190.html
 * Fix my chart - Sequential storytelling
   https://blog.datawrapper.de/fix-my-chart-sequential-storytelling/
 
 ## Wahlen
+### Sachsen
 * Sachsen-Wahl 2024: Wahlergebnisse nach Wahlkreisen und Gemeinden
   https://interaktiv-staging.tagesspiegel.de/lab/landtagswahl-sachsen-ergebnisse-karten-historisch/
 * Wählerwanderung Sachsen
@@ -51,46 +52,104 @@ type: blog
 * Daten Landtagswahlen Sachsen
   https://wahlen.sachsen.de/landtagswahlen.html
   https://wahlen.sachsen.de/landtagswahlen-2024-informationen-und-downloads.html
+* Wahlsoftware: Offene Quellen – Weniger Missverständnisse
+  https://www.ccc.de/de/updates/2024/wahlsoftware-offene-quellen-weniger-missverstandnisse
+
+### Thüringen
 * Thüringen-Wahl 2024: Wahlergebnisse nach Wahlkreisen und Gemeinden
   https://interaktiv-staging.tagesspiegel.de/lab/landtagswahl-thueringen-ergebnisse-karten-historisch/
 * Wählerwanderung Thüringen
   https://www.mdr.de/nachrichten/thueringen/landtagswahl/waehlerwanderung-grafik-100.html
 * Daten Landtagswahlen Thüringen
   https://wahlen.thueringen.de
+
+### Brandenburg
 * Brandenburg-Wahl 2024: Wahlergebnisse nach Wahlkreisen und Gemeinden
   https://interaktiv.tagesspiegel.de/lab/landtagswahl-brandenburg-ergebnisse-karten-historisch/
 * Wählerwanderung Brandenburg
   https://www.rbb24.de/politik/wahl/Landtagswahl/2024/waehlerwanderung-landtagswahl-brandenburg-spd-cdu-bsw-afd-linke-gruene-freie-waehler.html
 * Daten Landtagswahlen Brandenburg
   https://wahlergebnisse.brandenburg.de/12/500/20240922/landtagswahl_land/download.html
+
+### Österreich
 * Österreich Ergebnisse der Nationalratswahl 2024 (BMI)
   https://www.data.gv.at/katalog/dataset/e40e3b00-1a98-4338-acb7-42547e6fee55#resources
-* Wahlsoftware: Offene Quellen – Weniger Missverständnisse
-  https://www.ccc.de/de/updates/2024/wahlsoftware-offene-quellen-weniger-missverstandnisse
-* Keine Politik für uns, keine Stimme für euch
-  https://netzpolitik.org/2024/breakpoint-tiktok-ist-schuld-oder/
-
-## Parlamentsdaten
 * Ordnungsrufe österreichisches Parlament
   https://werk.statt.codes/posts/2024-09-09-call-for-order/
-* Magdeburg StadtratWatch nun mit Sharepic-Funktion für Abstimmungsergebnis
-  https://machteburch.social/@JensWinter/113092185058658506
+
+### Einordnung
+* Keine Politik für uns, keine Stimme für euch
+  https://netzpolitik.org/2024/breakpoint-tiktok-ist-schuld-oder/
+* Ampel-Koalition: Keine Überzeugung. Nirgends
+  https://netzpolitik.org/2024/ampel-koalition-keine-ueberzeugung-nirgends/
+  via https://mastodon.social/@sebgiessmann/113174269837079269
+
+## Medien
+* Reform öffentlich-rechtlicher Rundfunk - "Reformstaatsvertrag" mit Retro-Konzept der "Presseähnlichkeit"
+  https://netzpolitik.org/2024/neues-aus-dem-fernsehrat-108-reformstaatsvertrag-mit-retro-konzept-der-presseaehnlichkeit/
+  via https://chaos.social/users/leonido/statuses/113221232331353190
+  * hier kann man auch als Bürger dazu Stellung nehmen
+    https://rundfunkkommission.rlp.de/rundfunkkommission-der-laender/reformstaatsvertrag
+  * passend dazu: 3sat Finanzvergleich
+    https://scammo.codeberg.page/3sat-finanzvergleich/
+    https://chaos.social/@scammo/113248120757232516
+* Desinformations-Leak: Tiefe Einblicke in Putins Lügenmaschine
+  https://www.tagesschau.de/investigativ/ndr-wdr/russland-propaganda-fakenews-sda-deutschland-100.html
+* Netzpolitik Bildet Netze
+  Prägehalle: https://www.youtube.com/watch?v=CK6pE4-8kCg
+  Zählhalle: https://www.youtube.com/watch?v=bOmuCthlwrI
+
+## Transparenz
+* Koalitionstracker
+  https://fragdenstaat.de/koalitionstracker/
+* Behördliche Chats sind nicht privat
+  https://www.jmwiarda.de/2024/09/30/beh%C3%B6rdliche-chats-sind-nicht-privat/
+* So geht sächsisch: Auskunft zu Transparenzgesetz komplett geschwärzt
+  https://winfuture.de/news,145678.html
+* CumCum-Milliarden: Schredderpläne stoppen!
+  https://www.finanzwende.de/kampagnen/cumcum-milliarden-schredderplaene-stoppen
+* IT-Infrastruktur - Datennetz der Landesbehörden: Teuer und intransparent
+  https://www.mdr.de/nachrichten/sachsen-anhalt/landesdatennetz-teuer-intransparent-100.html
+* Was verdient eigentlich der Vorstand der Sparkasse oder der Chef der Stadtwerke? Die Vergütungsoffenlegung gibt Auskunft:
+  https://opendata.schleswig-holstein.de/dataset/verguetungsoffenlegung
+  via https://norden.social/@MisterOpenData/113186736434815312
+
+## Wirtschaft
+* Creditreform-Umfrage: "Nahezu depressive Züge" bei mittelständischen Unternehmen
+  https://www.heise.de/news/Creditreform-Umfrage-Nahezu-depressive-Zuege-bei-mittelstaendischen-Unternehmen-9956938.html
+* Vermögenssteuer für Superreiche bringt über zwei Billionen US-Dollar
+  https://www.telepolis.de/features/Vermoegenssteuer-fuer-Superreiche-bringt-ueber-zwei-Billionen-US-Dollar-9957014.html?seite=all
+* Big Tech muss weg! – Ein Manifest für eine neue digitale Wirtschaft
+  https://www.lobbycontrol.de/macht-der-digitalkonzerne/big-tech-muss-weg-ein-manifest-fuer-eine-neue-digitale-wirtschaft-117544/
+  https://taz.de/Regulierung-von-Tech-Konzernen/!6040265/
+* World Inequality Database
+  https://wid.world
+
+## Rente
+* Aktienrente
+  https://norden.social/users/StefanKarstens/statuses/113209404813678646
+* Mackenroth-Theorem
+  https://de.wikipedia.org/wiki/Mackenroth-These
+
+## Gesundheit
+* Pflegebedürftige
+  https://de.statista.com/statistik/daten/studie/168254/umfrage/pflegebeduerftige-in-deutschland-seit-2007/
+* Ärtzemangel
+  https://de.euronews.com/gesundheit/2024/09/13/arztemangel-niedrige-lohne-und-uberstunden-in-europas-krankenhausern-herrscht-flaute
+  https://www.rnd.de/gesundheit/karte-in-diesen-bundeslaendern-fehlen-die-meisten-hausaerzte-GPNGT4RUH5DPBA2645X6WWMSUY.html
+* Warum wir wissen müssen, wem unsere Arztpraxen gehören
+  https://background.tagesspiegel.de/gesundheit-und-e-health/briefing/warum-wir-wissen-muessen-wem-unsere-arztpraxen-gehoeren
+* Data Science Podcast "Datenleben": Gesundheitsdaten und Sicherheit
+  https://podcasts.social/users/datenleben/statuses/113106578606885407
 
 ## Mobilität
-* vom 01.09. bis 30.11.2024: Bewerte die Fahrradfreundlichkeit deiner Stadt und hilf mit, das Radfahren in Deutschland sicherer und angenehmer zu machen.
-  https://fahrradklima-test.adfc.de/
-  Wie viele Mindestteilnahmezahlen ein Ort benötigt, um in die Gesamtauswertung zu kommen, findet ihr in dieser Übersicht: https://fahrradklima-test.adfc.de/teilnahme#c146084.
-  Zwischenergebnisse der Teilnahme: https://fahrradklima-test.adfc.de/ergebnisse
-* Urban Mobility Insights with MovingPandas & CARTO in Snowflake
-  https://carto.com/blog/urban-mobility-insights-with-movingpandas-carto-in-snowflake
-* Auswertung von ca. 1 Million Strafzetteln aus den Jahren 2022 und 2023 in Stuttgart hinsichtlich Gefährdung durch zugeparkte Schulwege, zu denen die Stadtverwaltung auf Anfrage Open Data zur Verfügung gestellt hat.
-  https://www.linkedin.com/posts/dr-jan-georg-plavec-54744910b_crowdsourcing-opendata-kidicalmass-ugcPost-7237364297494851586-QgDH
-* Verkehrswissenschaftler der TU Dresden erklären außerdem, wie die Daten der Radfahrkampagne STADTRADELN zur Verkehrsplanung beitragen und welchen Vorteil eine Radverkehrssimulation für die Stadtplanung hat
-  https://www.youtube.com/watch?v=UETrWFutKxQ&t=490s
-  via https://norden.social/@thijs_lucas/113101152415619213
 * Das neue VLIS soll mehr Informationen bieten als das bisherige Parkleitsystem. So sollen Daten über alle Mobilitätsalternativen schnell, integriert und datenschutzkonform als "Open Data" zur Verfügung stehen, also für jedermann nutzbar.
   bis 2026 gibt es aber erstmal kein Parkleitsystem in Frankfurt am Main
   https://www.fr.de/frankfurt/frankfurt-main-stadt-parken-parkhaus-abschaffung-parkleitsystem-auto-verkehr-politik-gruene-news-93294288.html
+* Urban Mobility Insights with MovingPandas & CARTO in Snowflake
+  https://carto.com/blog/urban-mobility-insights-with-movingpandas-carto-in-snowflake
+
+### Nachhaltige Mobiliät
 * Reallabor MobiQ gibt nachhaltige Mobilitätsideen an die Hand
   https://www.oeko.de/news/aktuelles/reallabor-mobiq-gibt-nachhaltige-mobilitaetsideen-an-die-hand/
   https://www.oeko.de//fileadmin/user_upload/MobiQ-Handbuch_Mobilitaet-gemeinsam-gestalten.pdf
@@ -98,51 +157,66 @@ type: blog
   https://whatif.sonycsl.it/15mincity/15mincity.php
   via https://chaos.social/@ibigfoot/113160292989084761
   mehr What-Ifs: https://whatif.sonycsl.it
+
+### Fahrrad
+* vom 01.09. bis 30.11.2024: Bewerte die Fahrradfreundlichkeit deiner Stadt und hilf mit, das Radfahren in Deutschland sicherer und angenehmer zu machen.
+  https://fahrradklima-test.adfc.de/
+  Wie viele Mindestteilnahmezahlen ein Ort benötigt, um in die Gesamtauswertung zu kommen, findet ihr in dieser Übersicht: https://fahrradklima-test.adfc.de/teilnahme#c146084.
+  Zwischenergebnisse der Teilnahme: https://fahrradklima-test.adfc.de/ergebnisse
+* Verkehrswissenschaftler der TU Dresden erklären außerdem, wie die Daten der Radfahrkampagne STADTRADELN zur Verkehrsplanung beitragen und welchen Vorteil eine Radverkehrssimulation für die Stadtplanung hat
+  https://www.youtube.com/watch?v=UETrWFutKxQ&t=490s
+  via https://norden.social/@thijs_lucas/113101152415619213
+
+## Verkehrssicherheit
+* Auswertung von ca. 1 Million Strafzetteln aus den Jahren 2022 und 2023 in Stuttgart hinsichtlich Gefährdung durch zugeparkte Schulwege, zu denen die Stadtverwaltung auf Anfrage Open Data zur Verfügung gestellt hat.
+  https://www.linkedin.com/posts/dr-jan-georg-plavec-54744910b_crowdsourcing-opendata-kidicalmass-ugcPost-7237364297494851586-QgDH
 * Wo die mehr als 400 maroden Brücken in Sachsen, Sachsen-Anhalt und Thüringen stehen
   https://www.mdr.de/nachrichten/deutschland/panorama/wo-marode-bruecken-sachsen-anhalt-thueringen-karte-104.html
 
 ## OpenSource
-* Prototype Fund Projekte Runde 16 (September 2024 bis Februar 2025)
-  https://prototypefund.de/projects/round-16/
-* Projekte wie der Acorn von Taylor Alexander versuchen, moderne Farm-Roboter auch für Kleinstbetriebe verfügbar zu machen. Alexander setzt dabei auf Open-Source-Software und günstige Komponenten wie Einplatinencomputer und Elektromotoren.
-  via https://reset.org/wie-perplant-farming-mit-farm-robotern-und-ki-beim-umweltschonenden-anbau-unterstuetzt/
-  https://www.twistedfields.com/research
-  https://github.com/Twisted-Fields/acorn-precision-farming-rover
-* Eine Gruppe Hacker hätte sich beinahe Zugang zu Millionen von Servern auf der ganzen Welt verschafft. Doch ein deutscher Software-Entwickler hat ihnen einen Strich durch die Rechnung gemacht.
-  https://www.youtube.com/watch?v=8p8PHeGg--U
-* DuckDB 1.1.0 veröffentlicht
-  https://duckdb.org/2024/09/09/announcing-duckdb-110
-* Bundeshaushalt: Die digitale Zukunftsfähigkeit wird wider besseres Wissen demontiert
-  https://osb-alliance.de/featured/bundeshaushalt-die-digitale-zukunftsfaehigkeit-wird-wider-besseres-wissen-demontiert
 * Zum Tag der Software-Freiheit zeigen wir unsere 5 liebsten Argumente für freie & quell-offene Software
   https://machteburch.social/@softwerke/113140790478773535
+
+### Prototype Fund
+* Prototype Fund Projekte Runde 16 (September 2024 bis Februar 2025)
+  https://prototypefund.de/projects/round-16/
 * In der Knowledge Base findet ihr eine Reihe von Kommunikationsstrategien, mit denen ihr anderen helft, eure FOSS-Projekte sicher und langfristig zu nutzen, zur Entwicklung beizutragen oder da weiterzumachen, wo ihr aufgehört habt
   https://kb.prototypefund.de/books/communityaufbau-und-zusammenhalt/page/kommunikationsstrategien-fur-community-building-und-management
-* Verwaltung trifft Open Source und Hochleistung – die Thüringer Verwaltungscloud
-  https://osb-alliance.de/featured/verwaltung-trifft-open-source-und-hochleistung-die-thueringer-verwaltungscloud
+* Funding for Future – wie der Prototype Fund wirkt, Teil II
+  https://prototypefund.de/funding-for-future-wie-der-prototype-fund-wirkt-teil-ii/
+
+### Open Source in der Öffentlichen Verwaltung
 * Zahl des Tages: Bis zu 700 Mio Euro kann SAP über die Tochter Delos Cloud verdienen, indem sie dem Bund ab 2025 die Nutzung der Cloud-Dienste von Microsoft vermittelt
   https://www.turi2.de/aktuell/zahl-des-tages-sap-kann-bis-zu-700-mio-dollar-mit-microsoft-clouddienst-vermittlung-an-den-bund-verdienen/
   via https://mastodon.social/@bkastl/113151277577052241
   passend dazu: über 100 Treffen mit Microsoft und SAP – Lobby gefährdet Digitale Souveränität
   https://mdb.anke.domscheit-berg.de/2024/09/microsoft_lobby/
-* Funding for Future – wie der Prototype Fund wirkt, Teil II
-  https://prototypefund.de/funding-for-future-wie-der-prototype-fund-wirkt-teil-ii/
-* Winamp: Quellcode offengelegt – Diskussionen um Lizenz
-  https://www.heise.de/news/Winamp-Quellcode-offengelegt-Diskussionen-um-Lizenz-9953816.html
-* Mit Open-Source gegen den „Political Lock-In“
+* Bundeshaushalt: Die digitale Zukunftsfähigkeit wird wider besseres Wissen demontiert
+  https://osb-alliance.de/featured/bundeshaushalt-die-digitale-zukunftsfaehigkeit-wird-wider-besseres-wissen-demontiert
+* Mit Open-Source gegen den "Political Lock-In"
   https://www.egovernment.de/mit-open-source-gegen-den-political-lock-in-a-95619dcc5d60ca12ee7ff4892f775862/
 * Das Bundes-Office kommt: openDesk Version 1.0 ab Mitte Oktober
   https://www.heise.de/news/Microsoft-365-Alternative-openDesk-in-Version-1-0-fuer-Oktober-angekuendigt-9955542.html
+* Verwaltung trifft Open Source und Hochleistung – die Thüringer Verwaltungscloud
+  https://osb-alliance.de/featured/verwaltung-trifft-open-source-und-hochleistung-die-thueringer-verwaltungscloud
 * Lisa Reiber delves into the unique experiment of sharing code in public administration
   https://www.youtube.com/watch?v=aHrmI3Iz1cA
+
+### Open Source in der Praxis
+* Projekte wie der Acorn von Taylor Alexander versuchen, moderne Farm-Roboter auch für Kleinstbetriebe verfügbar zu machen. Alexander setzt dabei auf Open-Source-Software und günstige Komponenten wie Einplatinencomputer und Elektromotoren.
+  via https://reset.org/wie-perplant-farming-mit-farm-robotern-und-ki-beim-umweltschonenden-anbau-unterstuetzt/
+  https://www.twistedfields.com/research
+  https://github.com/Twisted-Fields/acorn-precision-farming-rover
 * Open Regulatory Compliance Working Group
   https://osb-alliance.de/news/die-eclipse-foundation-gruendet-die-open-regulatory-compliance-working-group-zur-unterstuetzung-bei-globalen-open-source-regularien
+* DuckDB 1.1.0 veröffentlicht
+  https://duckdb.org/2024/09/09/announcing-duckdb-110
+* Winamp: Quellcode offengelegt – Diskussionen um Lizenz
+  https://www.heise.de/news/Winamp-Quellcode-offengelegt-Diskussionen-um-Lizenz-9953816.html
+* Eine Gruppe Hacker hätte sich beinahe Zugang zu Millionen von Servern auf der ganzen Welt verschafft. Doch ein deutscher Software-Entwickler hat ihnen einen Strich durch die Rechnung gemacht.
+  https://www.youtube.com/watch?v=8p8PHeGg--U
 
 ## Open Access
-* Prerequisite for reproducible science: a call to embrace code sharing
-  https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(24)00122-7/fulltext
-  via https://fediscience.org/@petersuber/113142012355378404
-  https://github.com/apg1997/NFHS_AbdominalObesity
 * Open Access Journals
   https://joss.theoj.org
   https://culturemachine.net
@@ -156,69 +230,63 @@ type: blog
      https://bits-und-baeume.org/posts/BUND-HandbuchDigitalpolitik_B&B/
    * Leitfaden Datenschutz bei Mastodon
      https://stiftungdatenschutz.org/praxisthemen/datenschutz-bei-mastodon
-* Dare to be transparent, manage open research
-  https://open-science-future.zbw.eu/en/dare-to-be-transparent-manage-open-research/
 * Making Space Data Easier to Use: Overcoming Challenges and Expanding Access
   https://medium.com/@robsimmon/making-space-data-easier-to-use-overcoming-challenges-and-expanding-access-7d16748f295c
+
+## Open Science
+* Prerequisite for reproducible science: a call to embrace code sharing
+  https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(24)00122-7/fulltext
+  via https://fediscience.org/@petersuber/113142012355378404
+  https://github.com/apg1997/NFHS_AbdominalObesity
+* Dare to be transparent, manage open research
+  https://open-science-future.zbw.eu/en/dare-to-be-transparent-manage-open-research/
+* ZBW veröffentlicht Untersuchung zur Nutzung von Open Science in den Wirtschaftswissenschaften
+  https://www.zbw.eu/de/ueber-uns/zbw-aktuell/meldung/zbw-veroeffentlicht-untersuchung-zur-nutzung-von-open-science-in-den-wirtschaftswissenschaften
+  https://www.econstor.eu/bitstream/10419/303026/1/Bericht_OS-Studie_FINAL.pdf
+* Open Science Barcamp
+  https://barcamps.eu/oscibar2024/
+  https://barcamps.eu/oscibar2024/events/6a5e7ea9-28f7-400e-aee8-d7650a190a03#sessions
+
+## Citizen Science
 * New book on citizen science approaches to investigating environmental offences
   https://www.elgaronline.com/monobook-oa/book/9781035328703/9781035328703.xml
   via https://mastodon.social/users/leibnizopenscience/statuses/113226390499751970
 * Neu auf mit:forschen!: Expert*innen-Datenbank - vorhandenes Wissen vor Ort sichtbarer machen und den persönlichen Austausch in der Community stärken
   https://www.mitforschen.org/expertinnen
-* ZBW veröffentlicht Untersuchung zur Nutzung von Open Science in den Wirtschaftswissenschaften
-  https://www.zbw.eu/de/ueber-uns/zbw-aktuell/meldung/zbw-veroeffentlicht-untersuchung-zur-nutzung-von-open-science-in-den-wirtschaftswissenschaften
-  https://www.econstor.eu/bitstream/10419/303026/1/Bericht_OS-Studie_FINAL.pdf
+
+## GLAM
+* Preserving the history of online collections (my love letter to future historians)
+  https://updates.timsherratt.org/2024/09/20/preserving-the-history.html
+* auch einige Geschichtsprojekte beim Grimme Online Award
+  https://www.grimme-online-award.de/2024/nominierte/alle-nominierten
+* GLAMhack 2024
+  https://hack.glam.opendata.ch/event/12
+* Eindrücke vom ersten Tag der Tagung "Digital History & Citizen Science" in Halle
+  https://www.compgen.de/2024/09/eindruecke-vom-ersten-tag-der-tagung-digital-history-citizen-science-in-halle/
+  * Plattformen wie Wikidata und Factgrid eignen sich sehr gut für die Aufbereitung geschichtswissenschaftlicher Forschungsdaten - und erleichtern zugleich den Einstieg in #CitizenScience.
+    https://openbiblio.social/@tibosl/113171188520217792
 
 ## Klima
 * Satellitendaten eröffnen neue Möglichkeiten zur Förderung sozialer und ökologischer Gerechtigkeit
   https://civic-data.de/satellitendaten/
+* Seit diesem Wochenende ist ein rundum erneuertes https://www.openpv.de online. Dort könnt ihr das solare Potential für fast jedes Gebäude in Deutschland berechen und bekommt einen Jahresertrag und jährliche Einnahmen für eure eingezeichneten PV-Anlagen.
+  https://mastodon.energy/@floko/113080224808025560
+
+### Hitze
 * Heißester Sommer seit Aufzeichnungsbeginn
   https://www.tagesschau.de/wissen/klima/sommer-hoechststand-temperatur-100.html
   * Surface air temperature for August 2024
     https://climate.copernicus.eu/surface-air-temperature-august-2024
-* Seit diesem Wochenende ist ein rundum erneuertes https://www.openpv.de online. Dort könnt ihr das solare Potential für fast jedes Gebäude in Deutschland berechen und bekommt einen Jahresertrag und jährliche Einnahmen für eure eingezeichneten PV-Anlagen.
-  https://mastodon.energy/@floko/113080224808025560
 * Eine Analyse von BR Data zeigt: Regensburg ist ein Hotspot in Bezug auf Hitzetage, an denen es über 30 Grad heiß wird: Zwischen 1991 und 2020 haben die Menschen in der Stadt durchschnittlich neun heiße Tage pro Jahr mehr erlebt als im Vergleichszeitraum von 1961 und 1990 – mehr als in jedem anderen bayerischen Landkreis.
   https://www.br.de/nachrichten/bayern/hitzeschutz-fuer-risikogruppen-grosse-aufgabe-fuer-bayerns-kreise-da-immer-mehr-hitzetage,UNVDa1v
-* List of Lost Birds
-  https://www.forbes.com/sites/grrlscientist/2024/09/06/scientists-say-lost-birds-list-will-help-protect-species/
-  https://searchforlostbirds.org/birds
-  https://www.macaulaylibrary.org
-  https://ebird.org/
-* Bericht zur Artenvielfalt: Schmetterling, Waldvogel und Co. sind in Gefahr
-  https://ard.social/users/tagesschau/statuses/113227337814061518
-* Kipppunkte: Erde an der Klimaschwelle
-  https://topos.orf.at/wie-nah-sind-kipppunkte100
-  * Noch fünf Jahre für einen gesunden Planeten
-    https://www.zdf.de/nachrichten/wissen/un-zukunftsgipfel-studie-planetare-grenzen-klimawandel-100.html
-	* Planetary Health Check 2024
-	  https://d1gwxouzo4hr10.cloudfront.net/planetaryhealthcheck2024_report.pdf
-  * Planetary Health Check: Noch fünf Jahre für einen gesunden Planeten
-  * The Tipping Points of Climate Change — and Where We Stand (Johan Rockström)
-    https://www.youtube.com/watch?v=Vl6VhCAeEfQ
-  * Extremwetterkongress Streams
-    https://www.youtube.com/@ExtremWetterKongress/streams
-* Maßnahmen für ein klimaneutrales Deutschland
-  https://mappingzero.de
-  https://germanzero.de/loesungen/mapping-zero
-  via https://climatejustice.global/@GermanZeroHH/113152712816777914
 * Hamburg: Klimainformationssystem beinhaltet nun auch Hitzetote
   https://www.ndr.de/nachrichten/hamburg/Hamburg-Klimainformationssystem-beinhaltet-nun-auch-Hitzetote,klima604.html
-* Twenty years after "microplastics" was first mentioned, we now see their widespread impact. They come from tires, textiles, cosmetics, and more, and are found in food, drink, and even the human body, causing harm.  With pollution expected to double by 2040, there’s an urgent need to find solutions to prevent unintended consequences.
-  https://www.science.org/doi/10.1126/science.adl2746
-  via https://mastodon.social/@Climatehistories/113186010308099623
-* Der Fokus auf Desinformation bringt uns nicht weiter
-  https://jacobin.de/artikel/desinformation-fehlinformation-klimawandel-klimaschutz-energiewende
-* Diese fünf lokalen Klimaschutzprojekte geben Hoffnung
-  https://www.riffreporter.de/de/umwelt/klima-klimaschutz-klimawandel-lokales-staedte-nachbarschaft-buerger-initiativen
-* Copernicus-Bericht: Tempo der Meereserwärmung hat sich seit 2005 fast verdoppelt
-  https://www.spiegel.de/wissenschaft/klimawandel-tempo-der-meereserwaermung-hat-sich-laut-bericht-seit-2005-fast-verdoppelt-a-45b7ae5c-03a3-4d1c-9ab2-7be7f94f593e
 * Städte in der Klimakrise: Zwischen Asphalt und Beton
   https://correctiv.org/aktuelles/2024/10/01/zwischen-asphalt-und-beton-versiegelung-deutscher-staedte-nimmt-zu/
-* Ärger um Klima-Vorgabe CBAM: Deutsche Firmen müssen der EU Daten liefern, die es gar nicht gibt
-  https://www.focus.de/earth/analyse/cbam-unklare-regeln-verunsichern-industrie_id_260285214.html
+* Copernicus-Bericht: Tempo der Meereserwärmung hat sich seit 2005 fast verdoppelt
+  https://www.spiegel.de/wissenschaft/klimawandel-tempo-der-meereserwaermung-hat-sich-laut-bericht-seit-2005-fast-verdoppelt-a-45b7ae5c-03a3-4d1c-9ab2-7be7f94f593e
 
-## Hochwasser
+### Hochwasser
 * Länderübergreifendes Hochwasser Portal
   https://www.hochwasserzentralen.de
   alternativen: https://www.pegelonline.wsv.de/gast/start  und  https://www.pegelportal.de
@@ -235,6 +303,45 @@ type: blog
 * Juni-Hochwasser in Süddeutschland verursacht über 4,1 Milliarden Euro Schaden
   https://www.deutschlandfunk.de/juni-hochwasser-in-sueddeutschland-verursacht-ueber-4-1-milliarden-euro-schaden-100.html
 
+### Kipppunkte
+* Kipppunkte: Erde an der Klimaschwelle
+  https://topos.orf.at/wie-nah-sind-kipppunkte100
+  * Noch fünf Jahre für einen gesunden Planeten
+    https://www.zdf.de/nachrichten/wissen/un-zukunftsgipfel-studie-planetare-grenzen-klimawandel-100.html
+	* Planetary Health Check 2024
+	  https://d1gwxouzo4hr10.cloudfront.net/planetaryhealthcheck2024_report.pdf
+  * Planetary Health Check: Noch fünf Jahre für einen gesunden Planeten
+  * The Tipping Points of Climate Change — and Where We Stand (Johan Rockström)
+    https://www.youtube.com/watch?v=Vl6VhCAeEfQ
+  * Extremwetterkongress Streams
+    https://www.youtube.com/@ExtremWetterKongress/streams
+
+### Artenvielfalt
+* List of Lost Birds
+  https://www.forbes.com/sites/grrlscientist/2024/09/06/scientists-say-lost-birds-list-will-help-protect-species/
+  https://searchforlostbirds.org/birds
+  https://www.macaulaylibrary.org
+  https://ebird.org/
+* Bericht zur Artenvielfalt: Schmetterling, Waldvogel und Co. sind in Gefahr
+  https://ard.social/users/tagesschau/statuses/113227337814061518
+
+### Vermüllung
+* Twenty years after "microplastics" was first mentioned, we now see their widespread impact. They come from tires, textiles, cosmetics, and more, and are found in food, drink, and even the human body, causing harm.  With pollution expected to double by 2040, there’s an urgent need to find solutions to prevent unintended consequences.
+  https://www.science.org/doi/10.1126/science.adl2746
+  via https://mastodon.social/@Climatehistories/113186010308099623
+
+### Umsetzung
+* Der Fokus auf Desinformation bringt uns nicht weiter
+  https://jacobin.de/artikel/desinformation-fehlinformation-klimawandel-klimaschutz-energiewende
+* Ärger um Klima-Vorgabe CBAM: Deutsche Firmen müssen der EU Daten liefern, die es gar nicht gibt
+  https://www.focus.de/earth/analyse/cbam-unklare-regeln-verunsichern-industrie_id_260285214.html
+* Maßnahmen für ein klimaneutrales Deutschland
+  https://mappingzero.de
+  https://germanzero.de/loesungen/mapping-zero
+  via https://climatejustice.global/@GermanZeroHH/113152712816777914
+* Diese fünf lokalen Klimaschutzprojekte geben Hoffnung
+  https://www.riffreporter.de/de/umwelt/klima-klimaschutz-klimawandel-lokales-staedte-nachbarschaft-buerger-initiativen
+
 ## Energie
 * Die Historie der Solarbundesliga und des Wattbewerbs
   https://www.youtube.com/watch?v=Zi-Re3xMp2o
@@ -243,14 +350,17 @@ type: blog
 * Energy Sharing: Geld reicht als Bürger-Beteiligung nicht aus
   https://www.klimareporter.de/finanzen-wirtschaft/geld-reicht-als-buerger-beteiligung-nicht-aus
   * https://de.m.wikipedia.org/wiki/Energy_Sharing
+* Energy Hack Days
+  https://energydatahackdays.ch/energy-data-hackdays/energy-data-hackdays-2024
+  https://www.youtube.com/live/vhdChUOw8x4
 
 ## Karten
-* Neue Basemap-Kartenstile als QGIS-Projekt
-  https://www.data.gv.at/katalog/dataset/02a82524-d6d0-48fb-8f1f-435ba4a9f00b
-  https://www.data.gv.at/katalog/application/97679bfa-9f28-44c3-9347-8df341502e0e
-  https://hiking.waymarkedtrails.org
-* releasing version 2.0.0. of osm2pgsql
-  https://osm2pgsql.org/news/2024/09/19/release-2.0.0.html
+* Digitaler Zwilling NRW
+  https://www.dz.nrw.de/?lang=de
+  https://www.opengeodata.nrw.de/produkte/geobasis/lusat/akt/3dmesh/3dmesh/
+* Neue Version Geoportal Hamburg / Masterportal 3.3.0:
+  https://geoportal-hamburg.de
+  https://bitbucket.org/geowerkstatt-hamburg/masterportal/src/dev_vue/
 * Unser Vortrag "VersaTiles – Freie Karten für alle" ist online! In unter 30 Minuten erkläre ich den Aufbau eines neuen, freien Kartenstacks, der in Sekunden installiert werden kann.
   https://mastodon.social/@VersaTiles/113186334292405308
   * VersaTiles: Open-Source-Projekt als Alternative zu kommerziellen Kartendiensten
@@ -258,137 +368,78 @@ type: blog
 * OpenFreeMap lets you display custom maps on your website and apps for free.
   https://openfreemap.org
   https://github.com/hyperknot/openfreemap
-* Digitaler Zwilling NRW
-  https://www.dz.nrw.de/?lang=de
-  https://www.opengeodata.nrw.de/produkte/geobasis/lusat/akt/3dmesh/3dmesh/
-* Neue Version Geoportal Hamburg / Masterportal 3.3.0:
-  https://geoportal-hamburg.de
-  https://bitbucket.org/geowerkstatt-hamburg/masterportal/src/dev_vue/
-
-## Gesundheit
-* Data Science Podcast "Datenleben": Gesundheitsdaten und Sicherheit
-  https://podcasts.social/users/datenleben/statuses/113106578606885407
-* Ärtzemangel
-  https://de.euronews.com/gesundheit/2024/09/13/arztemangel-niedrige-lohne-und-uberstunden-in-europas-krankenhausern-herrscht-flaute
-  https://www.rnd.de/gesundheit/karte-in-diesen-bundeslaendern-fehlen-die-meisten-hausaerzte-GPNGT4RUH5DPBA2645X6WWMSUY.html
-* Pflegebedürftige
-  https://de.statista.com/statistik/daten/studie/168254/umfrage/pflegebeduerftige-in-deutschland-seit-2007/
-* Warum wir wissen müssen, wem unsere Arztpraxen gehören
-  https://background.tagesspiegel.de/gesundheit-und-e-health/briefing/warum-wir-wissen-muessen-wem-unsere-arztpraxen-gehoeren
-
-## Rente
-* Aktienrente
-  https://norden.social/users/StefanKarstens/statuses/113209404813678646
-* Mackenroth-Theorem
-  https://de.wikipedia.org/wiki/Mackenroth-These
-
-## Wirtschaft
-* Creditreform-Umfrage: "Nahezu depressive Züge" bei mittelständischen Unternehmen
-  https://www.heise.de/news/Creditreform-Umfrage-Nahezu-depressive-Zuege-bei-mittelstaendischen-Unternehmen-9956938.html
-* Vermögenssteuer für Superreiche bringt über zwei Billionen US-Dollar
-  https://www.telepolis.de/features/Vermoegenssteuer-fuer-Superreiche-bringt-ueber-zwei-Billionen-US-Dollar-9957014.html?seite=all
-* Big Tech muss weg! – Ein Manifest für eine neue digitale Wirtschaft
-  https://www.lobbycontrol.de/macht-der-digitalkonzerne/big-tech-muss-weg-ein-manifest-fuer-eine-neue-digitale-wirtschaft-117544/
-  https://taz.de/Regulierung-von-Tech-Konzernen/!6040265/
-* World Inequality Database
-  https://wid.world
-
-## GLAM
-* Preserving the history of online collections (my love letter to future historians)
-  https://updates.timsherratt.org/2024/09/20/preserving-the-history.html
-* auch einige Geschichtsprojekte beim Grimme Online Award
-  https://www.grimme-online-award.de/2024/nominierte/alle-nominierten
+* Neue Basemap-Kartenstile als QGIS-Projekt
+  https://www.data.gv.at/katalog/dataset/02a82524-d6d0-48fb-8f1f-435ba4a9f00b
+  https://www.data.gv.at/katalog/application/97679bfa-9f28-44c3-9347-8df341502e0e
+  https://hiking.waymarkedtrails.org
+* releasing version 2.0.0. of osm2pgsql
+  https://osm2pgsql.org/news/2024/09/19/release-2.0.0.html
 
 ## KI
-* Full Circle of AI: Massenweise KI-Musik generiert und über Bot-Netzwerk gestreamt um Vergütung dafür einzustreichen
-  https://www.engadget.com/entertainment/streaming/alleged-fraudster-got-10-million-in-royalties-using-robots-to-stream-ai-made-music-162944343.html?guccounter=1
+### KI bei Wikimedia
+* Wikidata und Künstliche Intelligenz: Vereinfachter Zugang zu offenen Daten für Open-Source-Projekte
+  https://blog.wikimedia.de/2024/09/17/wikidata-und-ki-einfacherer-zugang/
+* Wikimedia Deutschland entwickelt semantische Suche für gemeinnützige KI-Anwendungen
+  https://www.wikimedia.de/press-releases/wikimedia-deutschland-entwickelt-semantische-suche-fuer-gemeinnuetzige-ki-anwendungen/
+
+### Anwendungsfälle
 * Digitale Sprachbarrieren abbauen: Simba will das Internet für alle verständlicher machen
   https://reset.org/digitale-sprachbarrieren-abbauen-simba-will-das-internet-fuer-alle-verstaendlicher-machen/
   https://publicinterest.ai/tool/simba/simplifier?lang=de
   https://publicinterest.ai
 * Hirnforschung: Neue Studie sagt mit KI Aktivitäten einzelner Neuronen voraus
   https://www.heise.de/news/Hirnforschung-Neue-Studie-sagt-mit-KI-Aktivitaeten-einzelner-Neuronen-voraus-9868635.html
-* Wikidata und Künstliche Intelligenz: Vereinfachter Zugang zu offenen Daten für Open-Source-Projekte
-  https://blog.wikimedia.de/2024/09/17/wikidata-und-ki-einfacherer-zugang/
-* Information that used to be free became expensive
-  https://github.com/rspeer/wordfreq/blob/master/SUNSET.md#information-that-used-to-be-free-became-expensive
-  via https://mastodon.social/@voxpelli/113159167203039564
-* LinkedIn scraped user data for training before updating its terms of service
-  https://techcrunch.com/2024/09/18/linkedin-scraped-user-data-for-training-before-updating-its-terms-of-service/
+* KI-gestützte Durchmusterung entdeckt Hunderte neue Nazca-Geoglyphen
+  https://www.heise.de/news/KI-gestuetzte-Durchmusterung-entdeckt-Hunderte-neue-Nazca-Geoglyphen-9958382.html
+
+### Werkzeuge
+* PDF2Audio: Open-Source-KI zur Wandlung von PDF in Podcasts und Zusammenfassungen
+  https://www.unidigital.news/pdf2audio-open-source-ki-zur-wandlung-von-pdf-in-podcasts-und-zusammenfassungen/
 * Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML
   https://github.com/uber/causalml
 * Fälschung enttarnt: Deepfake-o-Meter macht es einfach, KI-generierte Medien zu erkennen
   https://t3n.de/news/deepfake-o-meter-erkennt-ki-generierte-medien-1646539/
-* AI-Washing Is an Opportunity - Can the hype be harnessed to fund public infrastructure projects?
-  https://democracy-technologies.org/opinion/ai-washing-is-an-opportunity/
+
+### Entwickler-Unterstützung?
 * Finally it happened to me as well: developers complaining that the behavior of my OSS libraries does not match what ChatGPT explains to them.
   https://fosstodon.org/users/mcollina/statuses/113091501184997847
+* Study Finds No DevOps Productivity Gains from Generative AI
+  https://devops.com/study-finds-no-devops-productivity-gains-from-generative-ai/
+
+### Missbrauch
+* Full Circle of AI: Massenweise KI-Musik generiert und über Bot-Netzwerk gestreamt um Vergütung dafür einzustreichen
+  https://www.engadget.com/entertainment/streaming/alleged-fraudster-got-10-million-in-royalties-using-robots-to-stream-ai-made-music-162944343.html?guccounter=1
+* LinkedIn scraped user data for training before updating its terms of service
+  https://techcrunch.com/2024/09/18/linkedin-scraped-user-data-for-training-before-updating-its-terms-of-service/
+* Information that used to be free became expensive
+  https://github.com/rspeer/wordfreq/blob/master/SUNSET.md#information-that-used-to-be-free-became-expensive
+  via https://mastodon.social/@voxpelli/113159167203039564
+
+### Korrektur
+* AI-Washing Is an Opportunity - Can the hype be harnessed to fund public infrastructure projects?
+  https://democracy-technologies.org/opinion/ai-washing-is-an-opportunity/
+* Neue Definition "Open Source AI"
+  https://www.digitaltrends.com/computing/new-open-source-definition-osi-meta-google/
+
+## Urheberrecht
 * Erster KI-Urheberrechtsprozess: LAION darf urheberrechtlich geschütztes Bild für KI-Training anbieten
   https://netzpolitik.org/2024/erster-ki-urheberrechtsprozess-laion-darf-urheberrechtlich-geschuetztes-bild-fuer-ki-training-anbieten/
 * What the hell is an "AI artist"
   https://blog.koehntopp.info/2024/09/29/werk-und-ai.html
-* KI-gestützte Durchmusterung entdeckt Hunderte neue Nazca-Geoglyphen
-  https://www.heise.de/news/KI-gestuetzte-Durchmusterung-entdeckt-Hunderte-neue-Nazca-Geoglyphen-9958382.html
-* Study Finds No DevOps Productivity Gains from Generative AI
-  https://devops.com/study-finds-no-devops-productivity-gains-from-generative-ai/
-* PDF2Audio: Open-Source-KI zur Wandlung von PDF in Podcasts und Zusammenfassungen
-  https://www.unidigital.news/pdf2audio-open-source-ki-zur-wandlung-von-pdf-in-podcasts-und-zusammenfassungen/
 * Klaut sich die KI ihre Inhalte aus Zeitungen zusammen?
   https://www.nzz.ch/schweiz/petra-goessi-macht-den-chatbot-test-klaut-sich-die-ki-ihre-inhalte-etwa-zusammen-ld.1848169
-* Wikimedia Deutschland entwickelt semantische Suche für gemeinnützige KI-Anwendungen
-  https://www.wikimedia.de/press-releases/wikimedia-deutschland-entwickelt-semantische-suche-fuer-gemeinnuetzige-ki-anwendungen/
-* Neue Definition "Open Source AI"
-  https://www.digitaltrends.com/computing/new-open-source-definition-osi-meta-google/
-
-## Reform öffentlich-rechtlicher Rundfunk
-* "Reformstaatsvertrag" mit Retro-Konzept der "Presseähnlichkeit"
-  https://netzpolitik.org/2024/neues-aus-dem-fernsehrat-108-reformstaatsvertrag-mit-retro-konzept-der-presseaehnlichkeit/
-  via https://chaos.social/users/leonido/statuses/113221232331353190
-  * hier kann man auch als Bürger dazu Stellung nehmen
-    https://rundfunkkommission.rlp.de/rundfunkkommission-der-laender/reformstaatsvertrag
-
-## Transparenz
-* Koalitionstracker
-  https://fragdenstaat.de/koalitionstracker/
-* Desinformations-Leak: Tiefe Einblicke in Putins Lügenmaschine
-  https://www.tagesschau.de/investigativ/ndr-wdr/russland-propaganda-fakenews-sda-deutschland-100.html
-* Ampel-Koalition: Keine Überzeugung. Nirgends
-  https://netzpolitik.org/2024/ampel-koalition-keine-ueberzeugung-nirgends/
-  via https://mastodon.social/@sebgiessmann/113174269837079269
-* Was verdient eigentlich der Vorstand der Sparkasse oder der Chef der Stadtwerke? Die Vergütungsoffenlegung gibt Auskunft:
-  https://opendata.schleswig-holstein.de/dataset/verguetungsoffenlegung
-  via https://norden.social/@MisterOpenData/113186736434815312
-* IT-Infrastruktur - Datennetz der Landesbehörden: Teuer und intransparent
-  https://www.mdr.de/nachrichten/sachsen-anhalt/landesdatennetz-teuer-intransparent-100.html
-* Behördliche Chats sind nicht privat
-  https://www.jmwiarda.de/2024/09/30/beh%C3%B6rdliche-chats-sind-nicht-privat/
-* So geht sächsisch: Auskunft zu Transparenzgesetz komplett geschwärzt
-  https://winfuture.de/news,145678.html
 
 ## Recap
-* Open Science Barcamp
-  https://barcamps.eu/oscibar2024/
-  https://barcamps.eu/oscibar2024/events/6a5e7ea9-28f7-400e-aee8-d7650a190a03#sessions
-* GLAMhack 2024
-  https://hack.glam.opendata.ch/event/12
-* Netzpolitik Bildet Netze
-  Prägehalle: https://www.youtube.com/watch?v=CK6pE4-8kCg
-  Zählhalle: https://www.youtube.com/watch?v=bOmuCthlwrI
 * Datenspuren 2024
   https://media.ccc.de/c/DS2024
   * 8 Jahre FOSS Förderung
     https://www.youtube.com/watch?v=vN5lwwBreIY
-* Energy Hack Days
-  https://energydatahackdays.ch/energy-data-hackdays/energy-data-hackdays-2024
-  https://www.youtube.com/live/vhdChUOw8x4
-* Eindrücke vom ersten Tag der Tagung „Digital History & Citizen Science“ in Halle
-  https://www.compgen.de/2024/09/eindruecke-vom-ersten-tag-der-tagung-digital-history-citizen-science-in-halle/
-  * Plattformen wie Wikidata und Factgrid eignen sich sehr gut für die Aufbereitung geschichtswissenschaftlicher Forschungsdaten - und erleichtern zugleich den Einstieg in #CitizenScience.
-    https://openbiblio.social/@tibosl/113171188520217792
 
 ## Und sonst so
 * Der 38. Chaos Communication Congress: Illegal Instructions
   https://www.ccc.de/de/updates/2024/38c3-illegal-instructions
+* Magdeburg StadtratWatch nun mit Sharepic-Funktion für Abstimmungsergebnis
+  https://machteburch.social/@JensWinter/113092185058658506
 
 ## Veranstaltungen
 * Dienstag, 01.10.2024, bis Donnerstag, 31.10.2024, online: **Hacktoberfest**
@@ -412,8 +463,10 @@ type: blog
   * https://www.correlaid.org/veranstaltungen/correlcompact-statistik
 * Dienstag, 08.10.2024, 17:00, bis, Donnerstag, 10.10.2024, 15:30, Besenbinderhof 57A, Hamburg: **Forum Citizen Science 2024**
   * https://www.mitforschen.org/veranstaltungen/forum-citizen-science-2024/programm
-* Donnerstag, 10.10.2024, 11:30 – 16:00, Bundesinnenministerium, Alt-Moabit 140, Berlin: **GovTalk 2024 – Das Netzwerkevent zum Digitalen Staat**
+* Donnerstag, 10.10.2024, 11:30–16:00, Bundesinnenministerium, Alt-Moabit 140, Berlin: **GovTalk 2024 – Das Netzwerkevent zum Digitalen Staat**
   * https://initiatived21.de/veranstaltungen/govtalk-2024-das-netzwerkevent-zum-digitalen-staat
+* Donnerstag, 10.10.2024, 16:30, online: **Fragstunde zur Förderrunde "KI-Ideenwerkstatt X Prototype Fund Hardware: Offene Technologien für den Umweltschutz"**
+  * https://meet.prototypefund.de/user/max-6gy-6wh-2f2
 * Freitag, 11.10.2024, bis Sonntag, 13.10.2024, Tüftelwerk, Unterlachenstrasse 5, Luzern (Schweiz): **Jugend hackt**
   * https://jugendhackt.org/events/schweiz/
 * Freitag, 11.10.2024, bis Sonntag, 13.10.2024, EineWeltHaus, Schwanthalerstr. 80 RGB, München: **CorrelCon 2024**
