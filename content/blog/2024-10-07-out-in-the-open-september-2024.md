@@ -29,45 +29,35 @@ Das Statistisches Bundesamt [weist außerdem](https://social.bund.de/@destatis/1
 In der jüngsten [Kolumne "Fix my chart"](https://blog.datawrapper.de/fix-my-chart-sequential-storytelling/) auf dem Datawrapper-Blog wird gezeigt, wie man die Zusammenhänge, die aus vier einzelnen Diagramme nur schwer abzuleiten sind, durch geeignete Farbgebung, Beschriftung und Verschränkung der Skalenverläufe doch anschaulich einordnen kann.
 
 ## Wahlen
+
+
 ### Sachsen
-* Sachsen-Wahl 2024: Wahlergebnisse nach Wahlkreisen und Gemeinden
-  https://interaktiv-staging.tagesspiegel.de/lab/landtagswahl-sachsen-ergebnisse-karten-historisch/
-* Wählerwanderung Sachsen
-  https://www.mdr.de/nachrichten/sachsen/politik/landtagswahl/waehlerwanderung-nichtwaehler-grafik-100.html
-* Daten Landtagswahlen Sachsen
-  https://wahlen.sachsen.de/landtagswahlen.html
-  https://wahlen.sachsen.de/landtagswahlen-2024-informationen-und-downloads.html
-* Wahlsoftware: Offene Quellen – Weniger Missverständnisse
-  https://www.ccc.de/de/updates/2024/wahlsoftware-offene-quellen-weniger-missverstandnisse
+Auf der [interaktive Karte](https://interaktiv-staging.tagesspiegel.de/lab/landtagswahl-sachsen-ergebnisse-karten-historisch/) vom Tagesspiegel sieht man an Hand Farbe und Farbintensität, wo welche Partei besonders stark (oder schwach) abgeschnitten hat. Die Ergebnisse lassen sich nach Erst- oder Zweitstimme und nach Gemeinde- oder Wahlkreis aufgeteilt entweder für die jeweils stärkste Partei oder aber explitit für eine ausgewählte Partei darstellen. Für jede dieser Kombination kann man über den Jahres-Schiebebalken sich die Verteilung in den vergangenen Landtagswahlen betrachten. Hier ist auch der Blick auf die Wahlbeteiligung im jeweiligen Wahljahr nicht unwichtig (z.B. 2014: 49%, 2024: 75%), um auch den Anteil an Nichtwählern nicht außer Acht zu lassen, da diese in der Farbgebung der Karte nicht vorkommen. Bei bestimmten Parteien ist zudem ein klares (Groß-)Stadt-Land-Gefälle zu erkennen.
+
+Der MDR bietet zusätzlich [eine Übersicht](https://www.mdr.de/nachrichten/sachsen/politik/landtagswahl/waehlerwanderung-nichtwaehler-grafik-100.html) an, an welche Parteien (inklusive der Gruppe der Nichtwählenden) eine Partei gegenüber der letzten Wahl Stimmen verloren haben bzw. von welchen sie auch Stimmen hinzugewinnen konnte (laut repräsentiver Wählerumfrage). Hier kann man vermuten, dass sich einige Wählerwanderung auch nur aus taktischen Gründen ergeben haben, um zu verhindern, dass eine bestimmte Partei stärkste Kraft wird.
+
+Alle offiziellen Daten dieser und vergangener Landtagswahlen sind auf dem [Wahlportal des Freistaats](https://wahlen.sachsen.de/landtagswahlen.html) zusammengetragen, für den Download der Rohdaten gibt [eine eigene Seite](https://wahlen.sachsen.de/landtagswahlen-2024-informationen-und-downloads.html).
+
+Im Kontext der zunächst nicht richtig berechnete Sitzverteilung im sächsischen Landtag durch die Auswahl des falschen Algorithmus in Wahlsoftware, fordert der Chaos-Computerclub (CCC), dass öffentlich gemacht werden sollte, welche Wahl- und Auswertungssoftware zum Einsatz gekommen ist, besser noch sollte der Quellcode offengelegt werden, ebenso Dokumentation und Auditberichte, um so  Implementierung und Fehler nachvollziehen zu können. Leider wurde schon die Auskunft nach genutzen Software "aus Gründen der Sicherheit" vom Sächsischen Landeswahlleiter verweigert.
+
+Neben der [inzwischen nachgewiesenen Wahlmanipulation in einem Wahlkreis](https://www.zeit.de/news/2024-10/04/manipulierte-stimmzettel-wahl-in-dresden-langebrueck-gueltig) sind solche intransparenten "Berechnungsfehler" nicht förderlich für die Demokratie.
 
 ### Thüringen
-* Thüringen-Wahl 2024: Wahlergebnisse nach Wahlkreisen und Gemeinden
-  https://interaktiv-staging.tagesspiegel.de/lab/landtagswahl-thueringen-ergebnisse-karten-historisch/
-* Wählerwanderung Thüringen
-  https://www.mdr.de/nachrichten/thueringen/landtagswahl/waehlerwanderung-grafik-100.html
-* Daten Landtagswahlen Thüringen
-  https://wahlen.thueringen.de
+Analog zu Sachsen gibt es vom Tagesspiegel die [interaktive Karte](https://interaktiv-staging.tagesspiegel.de/lab/landtagswahl-thueringen-ergebnisse-karten-historisch/) und vom MDR die [Übersicht zur Wählerwanderung](https://www.mdr.de/nachrichten/thueringen/landtagswahl/waehlerwanderung-grafik-100.html). Die Bewegungsmuster sind trotz unterschiedlicher Regierungspartei sehr ähnlich zu denen in der Wahl in Sachsen. In Thüringen gibt ebenfalls ein [Wahldatenportal](https://wahlen.thueringen.de). Bei den Erststimmen ist das (Mittelgroß-)Stadt-Land-Gefälle hier auch erkennbar. Dafür ist bis auf das Eichsfeld im Nordwesten die Karte bei den Zweitstimmen komplett blau gefärbt. In Sachsen waren wenigsten die Bereiche in und um die Großstädte anders gefärbt.
 
 ### Brandenburg
-* Brandenburg-Wahl 2024: Wahlergebnisse nach Wahlkreisen und Gemeinden
-  https://interaktiv.tagesspiegel.de/lab/landtagswahl-brandenburg-ergebnisse-karten-historisch/
-* Wählerwanderung Brandenburg
-  https://www.rbb24.de/politik/wahl/Landtagswahl/2024/waehlerwanderung-landtagswahl-brandenburg-spd-cdu-bsw-afd-linke-gruene-freie-waehler.html
-* Daten Landtagswahlen Brandenburg
-  https://wahlergebnisse.brandenburg.de/12/500/20240922/landtagswahl_land/download.html
+In der [interaktiven Karte](https://interaktiv.tagesspiegel.de/lab/landtagswahl-brandenburg-ergebnisse-karten-historisch/) verteilen sich die gewonnenen Wahlkreise sowohl nach Erst- als auch Zweitstimmen etwa hälftig auf SPD und AFD.
+
+Bei der [Wählerwanderung](https://www.rbb24.de/politik/wahl/Landtagswahl/2024/waehlerwanderung-landtagswahl-brandenburg-spd-cdu-bsw-afd-linke-gruene-freie-waehler.html) kann man analog zu den Wählerzugewinne der CDU in Sachsen, die Zugewinne der SPD hier in Brandenburg zum Teil als taktische Wahlentscheidung vermuten. Die Rohdaten zur Landtagswahl findet man [hier zum Download](https://wahlergebnisse.brandenburg.de/12/500/20240922/landtagswahl_land/download.html).
 
 ### Österreich
-* Österreich Ergebnisse der Nationalratswahl 2024 (BMI)
-  https://www.data.gv.at/katalog/dataset/e40e3b00-1a98-4338-acb7-42547e6fee55#resources
-* Ordnungsrufe österreichisches Parlament
-  https://werk.statt.codes/posts/2024-09-09-call-for-order/
+Die [interaktive Karte](https://orf.at/wahl/nr24/ergebnisse) vom ORF zeigt, dass FPÖ und ÖVP etwa gleichviel Fläche als stärkste Partei gewinnen konnte, nur Wien konnte die SPÖ für sich entscheiden.
 
-### Einordnung
-* Keine Politik für uns, keine Stimme für euch
-  https://netzpolitik.org/2024/breakpoint-tiktok-ist-schuld-oder/
-* Ampel-Koalition: Keine Überzeugung. Nirgends
-  https://netzpolitik.org/2024/ampel-koalition-keine-ueberzeugung-nirgends/
-  via https://mastodon.social/@sebgiessmann/113174269837079269
+Im [Sankey-Diagramm](https://www.derstandard.at/story/3000000237892/waehlerstromanalyse-historisch-groesster-waehleraustausch-von-der-oevp-zur-fpoe) des Standards kann man die Balken der Parteien jeweils links (für Stimmerluste an andere Parteien bzw. ans Nichtwahllager) und rechts (für Stimmzugewinne bzw. Stimmerhalt) anklicken. Neben dem deutlichen Stimmgewinnen der FPÖ von ÖVP als auch Nichtwählern fallen generell die Verluste aller Parteien, am stärksten bei der SPÖ, an die Nichtwähler auf.
+
+Alle Details zur Nationalratswahl kann man im österreichischen Open Data Portal [herunterladen](https://www.data.gv.at/katalog/dataset/e40e3b00-1a98-4338-acb7-42547e6fee55#resources).
+
+In diesem Kontext ist auch Roland Schmidts Blog [werk.statt.codes](https://werk.statt.codes) interessant, der schon seit einige Jahren Parlamentsdaten analysiert. Im Beitrag vom September geht es um die [Ordnungsrufe österreichisches Parlament](https://werk.statt.codes/posts/2024-09-09-call-for-order/), also geahnte Verstöße gegen die "Würde des hohen Hauses" durch Beleidigungen, rassistische Sprache und ähnliches. Die FPÖ und ihre Vertreter führen hier in allen Statistiken, bei den Wahlen hat es ihnen bezeichnenderweise am Ende nicht geschadet.
 
 ## Medien
 * Reform öffentlich-rechtlicher Rundfunk - "Reformstaatsvertrag" mit Retro-Konzept der "Presseähnlichkeit"
@@ -421,6 +411,9 @@ In der jüngsten [Kolumne "Fix my chart"](https://blog.datawrapper.de/fix-my-cha
   https://media.ccc.de/c/DS2024
   * 8 Jahre FOSS Förderung
     https://www.youtube.com/watch?v=vN5lwwBreIY
+* Münsterhack: Hackathon für Münster
+  https://www.muensterhack.de
+  * https://github.com/codeformuenster/climatems
 
 ## Und sonst so
 * Der 38. Chaos Communication Congress: Illegal Instructions
