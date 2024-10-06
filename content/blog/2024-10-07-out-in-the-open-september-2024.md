@@ -29,7 +29,7 @@ Das Statistisches Bundesamt [weist außerdem](https://social.bund.de/@destatis/1
 In der jüngsten [Kolumne "Fix my chart"](https://blog.datawrapper.de/fix-my-chart-sequential-storytelling/) auf dem Datawrapper-Blog wird gezeigt, wie man die Zusammenhänge, die aus vier einzelnen Diagramme nur schwer abzuleiten sind, durch geeignete Farbgebung, Beschriftung und Verschränkung der Skalenverläufe doch anschaulich einordnen kann.
 
 ## Wahlen
-
+<TODO>
 
 ### Sachsen
 Auf der [interaktive Karte](https://interaktiv-staging.tagesspiegel.de/lab/landtagswahl-sachsen-ergebnisse-karten-historisch/) vom Tagesspiegel sieht man an Hand Farbe und Farbintensität, wo welche Partei besonders stark (oder schwach) abgeschnitten hat. Die Ergebnisse lassen sich nach Erst- oder Zweitstimme und nach Gemeinde- oder Wahlkreis aufgeteilt entweder für die jeweils stärkste Partei oder aber explitit für eine ausgewählte Partei darstellen. Für jede dieser Kombination kann man über den Jahres-Schiebebalken sich die Verteilung in den vergangenen Landtagswahlen betrachten. Hier ist auch der Blick auf die Wahlbeteiligung im jeweiligen Wahljahr nicht unwichtig (z.B. 2014: 49%, 2024: 75%), um auch den Anteil an Nichtwählern nicht außer Acht zu lassen, da diese in der Farbgebung der Karte nicht vorkommen. Bei bestimmten Parteien ist zudem ein klares (Groß-)Stadt-Land-Gefälle zu erkennen.
@@ -59,20 +59,13 @@ Alle Details zur Nationalratswahl kann man im österreichischen Open Data Portal
 
 In diesem Kontext ist auch Roland Schmidts Blog [werk.statt.codes](https://werk.statt.codes) interessant, der schon seit einige Jahren Parlamentsdaten analysiert. Im Beitrag vom September geht es um die [Ordnungsrufe österreichisches Parlament](https://werk.statt.codes/posts/2024-09-09-call-for-order/), also geahnte Verstöße gegen die "Würde des hohen Hauses" durch Beleidigungen, rassistische Sprache und ähnliches. Die FPÖ und ihre Vertreter führen hier in allen Statistiken, bei den Wahlen hat es ihnen bezeichnenderweise am Ende nicht geschadet.
 
+### Einordnung
+<TODO>
+
 ## Medien
-* Reform öffentlich-rechtlicher Rundfunk - "Reformstaatsvertrag" mit Retro-Konzept der "Presseähnlichkeit"
-  https://netzpolitik.org/2024/neues-aus-dem-fernsehrat-108-reformstaatsvertrag-mit-retro-konzept-der-presseaehnlichkeit/
-  via https://chaos.social/users/leonido/statuses/113221232331353190
-  * hier kann man auch als Bürger dazu Stellung nehmen
-    https://rundfunkkommission.rlp.de/rundfunkkommission-der-laender/reformstaatsvertrag
-  * passend dazu: 3sat Finanzvergleich
-    https://scammo.codeberg.page/3sat-finanzvergleich/
-    https://chaos.social/@scammo/113248120757232516
-* Desinformations-Leak: Tiefe Einblicke in Putins Lügenmaschine
-  https://www.tagesschau.de/investigativ/ndr-wdr/russland-propaganda-fakenews-sda-deutschland-100.html
-* Netzpolitik Bildet Netze
-  Prägehalle: https://www.youtube.com/watch?v=CK6pE4-8kCg
-  Zählhalle: https://www.youtube.com/watch?v=bOmuCthlwrI
+[Geleakte interne Dokumente](https://www.tagesschau.de/investigativ/ndr-wdr/russland-propaganda-fakenews-sda-deutschland-100.html) der kremlnahen Agentur SDA zeigen, mit welchem Aufwand Russland versucht, durch gezielte Desinformationskampagnen westliche Demokratien zu destabilisieren, indem z.B. Zukunftsängste geschürt werden.
+
+Der am 26. September 2024 zur öffentlichen Anhörung freigegebene [Staatsvertragsentwurf](https://rundfunkkommission.rlp.de/rundfunkkommission-der-laender/reformstaatsvertrag) zur Reform des öffentlich-rechtlichen Rundfunks sorgt für einige Diskussionen. So soll die Sparten- und Hörfunkangebote deutlich reduziert werden, dabei sollen auch die Kultursender arte und 3sat zusammengelegt werden, obwohl diese unterschiedliche Konzepte (deutsch-französisch vs. D-A-CH-Region) verfolgen. Der Nutzer [scammo](https://chaos.social/@scammo/113248120757232516) hat dies zum Anlass genommen, die Kosten von 3sat und der Geschäftsleitung der ARD-Anstalten [gegenüber zu stellen](https://scammo.codeberg.page/3sat-finanzvergleich/). Die [Kosten für Gagen und Produktionsfirmen von z.B. Politik-Talkshows](https://taz.de/Hohe-Kosten-fuer-Politik-Talkshows/!5961645/) werden dagegen nicht hinterfragt. Da könnten auch einige "zusammengelegt" werden, zumal sie eh [wenig Vielfalt in Themen- und Gästewahl](https://www.deutschlandfunk.de/kritik-an-talkshows-im-oerr-100.html) bieten. Auch ein weiteres Problem bleibt ungelöst: das [Verbot der Presseähnlichkeit](Presseähnlichkeit), das Verlage vor vermeinlich unzulässigen Wettbewerb durch die frei zugänglichen Online-Inhalte der Öffentlich-Rechtlichen schützen soll, soll erhalten bleiben und sogar gestärkt werden, [aus Sicht von Leonhard Dobusch von Netzpolitik einfach nur ein absolutes "Retro-Konzept"](https://netzpolitik.org/2024/neues-aus-dem-fernsehrat-108-reformstaatsvertrag-mit-retro-konzept-der-presseaehnlichkeit/). Noch bis 11. Oktober können Sendeanstalten, Verbände, aber auch alle Bürgerinnen und Bürger über das [hier verlinkte Kontaktformular](https://rundfunkkommission.rlp.de/rundfunkkommission-der-laender/reformstaatsvertrag) Anmerkungen zur geplanten Reform hinterlassen.
 
 ## Transparenz
 * Koalitionstracker
@@ -407,6 +400,9 @@ In diesem Kontext ist auch Roland Schmidts Blog [werk.statt.codes](https://werk.
   https://www.nzz.ch/schweiz/petra-goessi-macht-den-chatbot-test-klaut-sich-die-ki-ihre-inhalte-etwa-zusammen-ld.1848169
 
 ## Recap
+* Netzpolitik Bildet Netze
+  Prägehalle: https://www.youtube.com/watch?v=CK6pE4-8kCg
+  Zählhalle: https://www.youtube.com/watch?v=bOmuCthlwrI
 * Datenspuren 2024
   https://media.ccc.de/c/DS2024
   * 8 Jahre FOSS Förderung
