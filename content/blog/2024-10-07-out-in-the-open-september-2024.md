@@ -148,54 +148,32 @@ Die Hintergründe zum Versuch, die [xz-utils](https://de.wikipedia.org/wiki/XZ_U
 DuckDB, ist eine Datenbank, die In-Process und In-Memory läuft, und im Gegensatz zum vergleichbaren SQLite auf Analyse großer Datensätze optimiert ist (vergleichbar mit Apache Spark) und den SQL-Standard vollumfänglich unterstützt. Nun ist sie [in Version 1.1.0 erschienen](https://duckdb.org/2024/09/09/announcing-duckdb-110).
 
 ## Open Access
-* Open Access Journals
-  https://joss.theoj.org
-  https://culturemachine.net
-  https://firstmonday.org/ojs/index.php/fm/index
-  https://ijoc.org/index.php/ijoc
-  via https://datasci.social/@benfmaier/113137359199686742
-  passt auch:
-   * https://www.oeko.de/magazin/urban-mining-1/#c21141
-     via https://mastodon.social/@oekoinstitut/113185576343329003
-   * Digital die Welt retten?
-     https://bits-und-baeume.org/posts/BUND-HandbuchDigitalpolitik_B&B/
-   * Leitfaden Datenschutz bei Mastodon
-     https://stiftungdatenschutz.org/praxisthemen/datenschutz-bei-mastodon
-* Making Space Data Easier to Use: Overcoming Challenges and Expanding Access
-  https://medium.com/@robsimmon/making-space-data-easier-to-use-overcoming-challenges-and-expanding-access-7d16748f295c
+Auf die [Frage von Ben F. Maier](https://datasci.social/@benfmaier/113137359199686742), ob es vergleichbare freizugängliche Magazine wie [Journal of Open Source Software](https://joss.theoj.org), gäbe, bekam er die Hinweise auf [Culture Machine](https://culturemachine.net), einem experimentellen kostenlosen kulturwissenschaftlichen Magazin, [First Monday](https://firstmonday.org/ojs/index.php/fm/index), einem Magazin über Internet-Forschung und dem [International Journal of Communication](https://ijoc.org/index.php/ijoc). Weitere Open Access Magazine und Artikel findet man im [Directory of Open Access Journals (DOAJ)](https://www.doaj.org).
+
+Auch in Deutschland gibt es solche Magazine, z.B. das [eco@work](https://www.oeko.de/magazin/). Der Verlag [oekom](https://www.oekom.de/) weist Bücher, die auch als Open-Access verfügbar sind, [explizit aus](https://www.oekom.de/publikationen/buecher/c-30?p=30&oaids=Open+Access&page=1&type=titel). Aber auch Publikationen von Organisationen wie [Digital die Welt retten?](https://bits-und-baeume.org/posts/BUND-HandbuchDigitalpolitik_B&B/) von [Bits und Bäume](https://bits-und-baeume.org/) oder auch [Leitfaden Datenschutz bei Mastodon](https://stiftungdatenschutz.org/praxisthemen/datenschutz-bei-mastodon) von der [Stiftung Datenschutz](https://stiftungdatenschutz.org/) stehen ohne Zugangsbeschränkung frei im Netz.
+
+Im Kontext von Weltraum-Forschungsdaten [macht Robert Simmon sich Gedanken darüber](https://medium.com/@robsimmon/making-space-data-easier-to-use-overcoming-challenges-and-expanding-access-7d16748f295c), wie man diese potenziellen Nutzern und (Hobby-)Forschern zugänglich machen könnte. Seine Vorschläge sind auch auf andere Datendomänen anwendbar.
 
 ## Open Science
-* Prerequisite for reproducible science: a call to embrace code sharing
-  https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(24)00122-7/fulltext
-  via https://fediscience.org/@petersuber/113142012355378404
-  https://github.com/apg1997/NFHS_AbdominalObesity
-* Dare to be transparent, manage open research
-  https://open-science-future.zbw.eu/en/dare-to-be-transparent-manage-open-research/
-* ZBW veröffentlicht Untersuchung zur Nutzung von Open Science in den Wirtschaftswissenschaften
-  https://www.zbw.eu/de/ueber-uns/zbw-aktuell/meldung/zbw-veroeffentlicht-untersuchung-zur-nutzung-von-open-science-in-den-wirtschaftswissenschaften
-  https://www.econstor.eu/bitstream/10419/303026/1/Bericht_OS-Studie_FINAL.pdf
-* Open Science Barcamp
-  https://barcamps.eu/oscibar2024/
-  https://barcamps.eu/oscibar2024/events/6a5e7ea9-28f7-400e-aee8-d7650a190a03#sessions
+In einem Open-Access-Artikel [werden Forschende dazu aufgerufen](https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(24)00122-7/fulltext), generell neben den Daten und den Quellcode, mit dem sie ihre Forschungsauswertungen erstellt haben, zu teilen, damit andere Forschende die Ergebnisse leichter nachvollziehen, reproduzieren und kontrollieren können. Im konkreten Fall ging es um Ungereimtheiten bei der Analyse von Fettleibigkeit in Indien. Der Autor des Artikels hat seine eigenen Berechnungen im Sinne seines geforderten Sharing-Gedankens [auf Github gestellt](https://github.com/apg1997/NFHS_AbdominalObesity).
+
+Im [Interview](https://open-science-future.zbw.eu/en/dare-to-be-transparent-manage-open-research/) berichtet Prof. Dr. Hanna Hottenrott vom Leibniz-Zentrum für Europäische Wirtschaftsforschung (ZEW) über ihre Erfahrungen mit dem Open-Science-Ansatz. Sie ermutigt zu mehr Transparenz. Denn wenn man den Veröffentlichungsprozess stategisch plant (wann wird was öffentlich geteilt, welche Teile hält man zunächst noch zurück) und dokumentiert (z.B. über Diskussionspapiere und Zwischenberichte, über die dann klar wird, wer als erstes an einem Thema gearbeitet hat), reduziert man das Risiko, ausgenutzt zu werden oder andere Nachteile im Konkurrenzkampf (um Forschungsmittel) zu erleiden, und kann trotzdem schon wertvolles Feedback von anderen Forschenden bekommen. Eine [aktuelle Studie zu Open-Science-Praktiken](https://www.econstor.eu/bitstream/10419/303026/1/Bericht_OS-Studie_FINAL.pdf) in Wirtschaftswissenschaften [zeigt](https://www.zbw.eu/de/ueber-uns/zbw-aktuell/meldung/zbw-veroeffentlicht-untersuchung-zur-nutzung-von-open-science-in-den-wirtschaftswissenschaften) zwar eine wachsende Akzeptanz, jedoch hemmen hohe Publikationsgebühren, rechtliche Bedenken und fehlende Transparenz-Anreize die Umsetzung in der Breite.
+
+Wer mehr über aktuelle Fragestellung in der Open Science erfahren möchte, kann sich auch die [dokumentierten Sessions](https://barcamps.eu/oscibar2024/events/6a5e7ea9-28f7-400e-aee8-d7650a190a03#sessions) vom letzten [Open Science Barcamp](https://barcamps.eu/oscibar2024/), das Anfang September in Potsdam stattfand, zu Gemüte führen.
 
 ## Citizen Science
-* New book on citizen science approaches to investigating environmental offences
-  https://www.elgaronline.com/monobook-oa/book/9781035328703/9781035328703.xml
-  via https://mastodon.social/users/leibnizopenscience/statuses/113226390499751970
-* Neu auf mit:forschen!: Expert*innen-Datenbank - vorhandenes Wissen vor Ort sichtbarer machen und den persönlichen Austausch in der Community stärken
-  https://www.mitforschen.org/expertinnen
+Es gibt neues [Open-Access-Buch](https://www.elgaronline.com/monobook-oa/book/9781035328703/9781035328703.xml) über bürgerwissenschaftliche Ansätze, die Durchsetzung und Einhaltung von Umweltgesetzen zu überwachen.
 
-## GLAM
-* Preserving the history of online collections (my love letter to future historians)
-  https://updates.timsherratt.org/2024/09/20/preserving-the-history.html
-* auch einige Geschichtsprojekte beim Grimme Online Award
-  https://www.grimme-online-award.de/2024/nominierte/alle-nominierten
-* GLAMhack 2024
-  https://hack.glam.opendata.ch/event/12
-* Eindrücke vom ersten Tag der Tagung "Digital History & Citizen Science" in Halle
-  https://www.compgen.de/2024/09/eindruecke-vom-ersten-tag-der-tagung-digital-history-citizen-science-in-halle/
-  * Plattformen wie Wikidata und Factgrid eignen sich sehr gut für die Aufbereitung geschichtswissenschaftlicher Forschungsdaten - und erleichtern zugleich den Einstieg in #CitizenScience.
-    https://openbiblio.social/@tibosl/113171188520217792
+Bürgerwissenschaft-Interessierten fehlen oftmals für den Einstieg die geeigneten Ansprechparter. Mit ihrer [Expert*innen-Datenbank](https://www.mitforschen.org/expertinnen) versucht nun die Citizen-Science-Plattform [mit:forschen!](https://www.mitforschen.org/) Projekt auf Bundeslandebene diese sichtbarer zu machen und so den persönlichen Austausch in der Community zu stärken. Man kann sich aber auch selbst als Experte dort registrieren.
+
+## Kultur
+Günter Junkers [berichtet von seinen Eindrücken](https://www.compgen.de/2024/09/eindruecke-vom-ersten-tag-der-tagung-digital-history-citizen-science-in-halle/) vom ersten Tag der Tagung ["Digital History & Citizen Science"](https://www.geschichte.uni-halle.de/struktur/hist-data/dh_cs/cfp/) in Halle, bei der es um digitale Methoden und neue Erkenntnisse zwischen digitaler Quellenerschließung, Forschung und eben auch Bürgerwissenschaften ging, Plattformen wie [Wikidata](https://wikidata.org/) und [Factgrid](https://database.factgrid.de/wiki/Main_Page) wurden [lobend erwähnt](https://openbiblio.social/@tibosl/113171188520217792).
+
+Auch das Internet selbst ist inzwischen über 30 Jahre alt und es rückt langsam in den Fokus, wie man die über die Jahre dort publizierten Inhalte für die Nachwelt erhalten kann, denn Inhalte verändern sich, werden auch wieder gelöscht, Web-Domänen abbestellt. Allein sich auf das [Internet Archive](https://archive.org) zu verlassen (siehe jüngste [Urheberrechtsklagen](https://tarnkappe.info/artikel/rechtssachen/urheberrechtsklage-vs-internet-archive-wer-zu-spaet-kommt-den-bestraft-das-leben-288722.html)) oder zu hoffen, dass Youtube-Videos auch noch in 10 Jahren online stehen, wird zu wenig sein. Auch Web-Technologien ändern sich, wie kann man sich Adobe-Flash-Inhalte und andere alte Formate von alten Web-Seiten anschauen? [Tim Sherratt nennt es den Liebesbrief an zukünftige Historiker](https://updates.timsherratt.org/2024/09/20/preserving-the-history.html), wenn man neben den Inhalten auch solche Metadaten sammelt und bereitstellt (also wie z.B. wie funktionierte damals der Suchindex).
+
+Bei den diesjährigen [Grimme Online Awards](https://www.grimme-online-award.de/2024/nominierte/alle-nominierten) sind auch wieder Projekte nominiert, die mit Daten Geschichten erzählen.
+
+Die auf dem Kultur-Hackathon [GLAMhack 2024](https://hack.glam.opendata.ch/event/12) entstandenen Projektideen und -prototypen kann man sich über die Waben auf der Webseite ansehen.
 
 ## Klima
 * Satellitendaten eröffnen neue Möglichkeiten zur Förderung sozialer und ökologischer Gerechtigkeit
