@@ -81,15 +81,11 @@ Für seine digitale Kommunikation betreibt Sachsen-Anhalts Landesregierung das s
 Unternehmen der öffentlichen Hand in Schleswig-Holstein sind verpflichtet, Bezüge von Mitgliedern ihrer Geschäftsführungs- und Aufsichtsorgane, also z.B. Vorstand der Sparkasse oder der Chef der Stadtwerke, zu veröffentlichen. Diese so genannte Vergütungsoffenlegung findet man [neuerdings](https://norden.social/@MisterOpenData/113186736434815312) machinenlesbar als JSON-Datei [auf dem Open-Portal des Landes](https://opendata.schleswig-holstein.de/dataset/verguetungsoffenlegung).
 
 ## Wirtschaft
-* Creditreform-Umfrage: "Nahezu depressive Züge" bei mittelständischen Unternehmen
-  https://www.heise.de/news/Creditreform-Umfrage-Nahezu-depressive-Zuege-bei-mittelstaendischen-Unternehmen-9956938.html
-* Vermögenssteuer für Superreiche bringt über zwei Billionen US-Dollar
-  https://www.telepolis.de/features/Vermoegenssteuer-fuer-Superreiche-bringt-ueber-zwei-Billionen-US-Dollar-9957014.html?seite=all
-* Big Tech muss weg! – Ein Manifest für eine neue digitale Wirtschaft
-  https://www.lobbycontrol.de/macht-der-digitalkonzerne/big-tech-muss-weg-ein-manifest-fuer-eine-neue-digitale-wirtschaft-117544/
-  https://taz.de/Regulierung-von-Tech-Konzernen/!6040265/
-* World Inequality Database
-  https://wid.world
+Nach einer [repräsentativen Umfrage unter 1200 kleinen und mittleren Unternehmen in Deutschland](https://www.creditreform.de/aktuelles-wissen/pressemeldungen-fachbeitraege/news-details/show/wirtschaftslage-und-finanzierung-im-mittelstand-herbst-2024) hat sich die Lage vor allem im verarbeitenden Gewerbe und im Handel deutlich verschlechtert. Eine schwache Auftragslage und fehlende Fachkräfte senken die Anreize für Investitionen bei den Unternehmen oder treiben sie ganz in die Insolvenz. Es fehlen wirtschaftspolitische Impulse wie z.B. eine höhere staatliche Investitionstätigkeit, zu erneuernde Infrastruktur gäbe es ja genug.
+
+Die zunehmende Monopolbildung und der damit einhergehenden Macht- und Vermögenskonzentration tragen mit dazu bei, dass für die kleine und mittlere Betriebe nichts mehr übrig bleibt. Lobbycontrol [fordert](https://taz.de/Regulierung-von-Tech-Konzernen/!6040265/) nicht nur deswegen zusammen mit über 70 Organisationen [in einem neuen Manifest](https://www.lobbycontrol.de/macht-der-digitalkonzerne/big-tech-muss-weg-ein-manifest-fuer-eine-neue-digitale-wirtschaft-117544/), im Original ["Beyond Big Tech: A manifesto for a new digital economy"](https://peoplevsbig.tech/beyond-big-tech-a-manifesto-for-a-new-digital-economy/), dass unter strikter Anwendung des aktuellen Wettbewerbs- und Kartellrechts die mächtigen Tech-Konzerne entflechtet werden müssen, um so die Kontrolle über Daten und Technologien zu demokratisieren.
+
+[Eine aktuelle Studie](https://taxjustice.net/reports/taxing-extreme-wealth-what-countries-around-the-world-could-gain-from-progressive-wealth-taxes/), die [Telepolis bespricht](https://www.telepolis.de/features/Vermoegenssteuer-fuer-Superreiche-bringt-ueber-zwei-Billionen-US-Dollar-9957014.html?seite=all), hat errechnet, dass eine Vermögenssteuer für Superreiche über zwei Billionen US-Dollar bringen. Jedes Land würde im Durchschnitt mehr als sieben Prozent an zusätzlichen Einnahmen erzielen. Die Studie belegt außerdem, dass nur 0,01 Prozent der reichsten Haushalte umgezogen sind, nachdem in Norwegen, Schweden und Dänemark entsprechende Vermögenssteuerreformen verabschiedet worden sind. Weitere Untersuchungen zeigen zudem, dass trotz großem Vermögenszuwachs beim reichsten Prozent der US-Bevölkerung in den letzten 40 Jahren deren Investitionstätigkeit nicht gestiegen ist, Investionen wurden nur durch Vermögenssteuern begünstigt. Die derzeitige extreme Vermögensungleichheit, wie sie z.B. in der [World Inequality Database](https://wid.world) dokumentiert wird, senkt dagegen nachweislich die Lebenserwartung. Hängt also am politische Willen, die soziale Ungleichheit aktiv zu bekämpfen, statt sich an angeblich nicht arbeitswilligen Bürgergeld-Empfängern abzuarbeiten.
 
 ## Rente
 * Aktienrente
