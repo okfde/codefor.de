@@ -176,41 +176,29 @@ Bei den diesjährigen [Grimme Online Awards](https://www.grimme-online-award.de/
 Die auf dem Kultur-Hackathon [GLAMhack 2024](https://hack.glam.opendata.ch/event/12) entstandenen Projektideen und -prototypen kann man sich über die Waben auf der Webseite ansehen.
 
 ## Klima
-* Satellitendaten eröffnen neue Möglichkeiten zur Förderung sozialer und ökologischer Gerechtigkeit
-  https://civic-data.de/satellitendaten/
-* Seit diesem Wochenende ist ein rundum erneuertes https://www.openpv.de online. Dort könnt ihr das solare Potential für fast jedes Gebäude in Deutschland berechen und bekommt einen Jahresertrag und jährliche Einnahmen für eure eingezeichneten PV-Anlagen.
-  https://mastodon.energy/@floko/113080224808025560
+Wenn man über Satellitendaten identifizierte Umweltprobleme (z.B. Flächenversiegelung, zu wenig grün, Wasser- und Luftverschmutzung, Vermüllung) mit räumlich verorteten soziodemografischen und sozioökologischen Daten kombiniert, lassen sich stadtplanerische Entscheidungen hin zu einer sozial gerechteren und ökologisch nachhaltigeren Stadt ableiten, meint [Dr. Nicolai Moos in seinem Beitrag auf Civic Data Lab](https://civic-data.de/satellitendaten/). Im Artikel werden auch unter anderem auf die [Climate Stories Map](https://climatemap.info), die über Crowdsourcing Auswirkungen des Klimawandels auf die Stadt Berlin aufzeichnet, und den [Climate Data Entrepreneurial Club](https://cdec.io) verwiesen, ein Projekt mit dem Ziel, Schüler*innen im Alter von 16 bis 19 Jahren beim Kompetenzaufbau in den Bereichen Datenanalyse und Künstlicher Intelligenz, der Arbeit mit Satellitendaten und Unternehmergeist mit Lernmodulen und Hackathons zu unterstützen.
+
+[OpenPV](https://www.openpv.de) wurde [runderneuert](https://mastodon.energy/@floko/113080224808025560). Die Funktionalität ist aber geblieben, man kann also weiterhin das Solar-Potential für fast jedes Gebäude in Deutschland berechnen und bekommt einen Jahresertrag und jährliche Einnahmen für eingezeichneten PV-Anlagen.
 
 ### Hitze
-* Heißester Sommer seit Aufzeichnungsbeginn
-  https://www.tagesschau.de/wissen/klima/sommer-hoechststand-temperatur-100.html
-  * Surface air temperature for August 2024
-    https://climate.copernicus.eu/surface-air-temperature-august-2024
-* Eine Analyse von BR Data zeigt: Regensburg ist ein Hotspot in Bezug auf Hitzetage, an denen es über 30 Grad heiß wird: Zwischen 1991 und 2020 haben die Menschen in der Stadt durchschnittlich neun heiße Tage pro Jahr mehr erlebt als im Vergleichszeitraum von 1961 und 1990 – mehr als in jedem anderen bayerischen Landkreis.
-  https://www.br.de/nachrichten/bayern/hitzeschutz-fuer-risikogruppen-grosse-aufgabe-fuer-bayerns-kreise-da-immer-mehr-hitzetage,UNVDa1v
-* Hamburg: Klimainformationssystem beinhaltet nun auch Hitzetote
-  https://www.ndr.de/nachrichten/hamburg/Hamburg-Klimainformationssystem-beinhaltet-nun-auch-Hitzetote,klima604.html
-* Städte in der Klimakrise: Zwischen Asphalt und Beton
-  https://correctiv.org/aktuelles/2024/10/01/zwischen-asphalt-und-beton-versiegelung-deutscher-staedte-nimmt-zu/
-* Copernicus-Bericht: Tempo der Meereserwärmung hat sich seit 2005 fast verdoppelt
-  https://www.spiegel.de/wissenschaft/klimawandel-tempo-der-meereserwaermung-hat-sich-laut-bericht-seit-2005-fast-verdoppelt-a-45b7ae5c-03a3-4d1c-9ab2-7be7f94f593e
+[Laut EU-Klimadienst Copernicus](https://climate.copernicus.eu/surface-air-temperature-august-2024) waren die Sommermonate Juni, Juli und August im globalen Durchschnitt [so warm wie nie](https://www.tagesschau.de/wissen/klima/sommer-hoechststand-temperatur-100.html) seit Beginn der Wetteraufzeichnung.
+
+BR Data [hat für Bayern analysiert](https://www.br.de/nachrichten/bayern/hitzeschutz-fuer-risikogruppen-grosse-aufgabe-fuer-bayerns-kreise-da-immer-mehr-hitzetage,UNVDa1v), dass Regensburg (im wahrsten Sinne des Wortes) ein Hotspot hinsichtliche Hitzetage (Tag mit > 30°C): so gab es zwischen 1991 bis 2020 durchschnittlich neun solcher heiße Tage pro Jahr mehr als im Vergleichszeitraum von 1961 bis 1990, und damit mehr als in jedem anderen bayerischen Landkreis.
+
+[Eine Analyse von Satellitenaufnahmen](https://correctiv.org/aktuelles/2024/10/01/zwischen-asphalt-und-beton-versiegelung-deutscher-staedte-nimmt-zu/) für die Städte Hamburg, Leipzig und Stuttgart hat ergeben, dass trotz allem die Flächenversiegelung zunimmt. Dabei ist es in stark versiegelten Stadtteilen durchschnittlich bis zu sieben Grad heißer als in den anderen Vierteln. Eine Gefahr für die Gesundheit der Menschen.
+
+Als Reaktion enthält das Hamburger Klimainformationssystem [nun auch Daten zu Hitzetoten](https://www.ndr.de/nachrichten/hamburg/Hamburg-Klimainformationssystem-beinhaltet-nun-auch-Hitzetote,klima604.html). Die Daten sind nicht wenig überraschend gestiegen. Die Stadt erarbeitet aktuell einen Hitzeaktionsplan. Aus diesem wird dann wohl auch hervorgehen, dass man mehr schattige Plätze braucht.
+
+Aus dem anfangs erwähnten Copernicus-Bericht geht auch hervor, dass der Tempo der Meereserwärmung sich seit 2005 [fast verdoppelt hat](https://www.spiegel.de/wissenschaft/klimawandel-tempo-der-meereserwaermung-hat-sich-laut-bericht-seit-2005-fast-verdoppelt-a-45b7ae5c-03a3-4d1c-9ab2-7be7f94f593e).
 
 ### Hochwasser
-* Länderübergreifendes Hochwasser Portal
-  https://www.hochwasserzentralen.de
-  alternativen: https://www.pegelonline.wsv.de/gast/start  und  https://www.pegelportal.de
-  passend dazu auch Hochwasserrisiken und Dürren in Flüssen und Seen - Kurzgutachten zur Darstellung von Krisengewässern in Deutschland
-  https://www.ufu.de/hochwasser/
-  https://www.ufu.de/wp-content/uploads/2024/09/Kurzgutachten-Krisengewaesser_MZ_1.pdf
-* Talsperren-Daten https://www.talsperren.net/Fullstande/fullstande.html (Stand 29.12.2023)
-  sonst nur einzeln pro Bundesland
-  z.B. https://www.thueringer-fernwasser.de/rund-ums-wasser/aktuelle-talsperrendaten.html
-  https://www.talsperrenleitzentrale-ruhr.de/online-daten/talsperren/
-  https://www.harzwasserwerke.de/infoservice/talis-talsperrendaten/
-* Hochwasserriskogebiete Österreich
-  https://www.hora.gv.at/
-* Juni-Hochwasser in Süddeutschland verursacht über 4,1 Milliarden Euro Schaden
-  https://www.deutschlandfunk.de/juni-hochwasser-in-sueddeutschland-verursacht-ueber-4-1-milliarden-euro-schaden-100.html
+Durch das sich verändernde Klima werden nicht nur Hitzeperioden häufiger sondern steigt auch durch Starkregen die Hochwassergefahr. Über das [länderübergreifendes Hochwasserportal](https://www.hochwasserzentralen.de) kann man sich über die aktuelle Hochwasserlage in Deutschland informieren. Alternativ kann man auch [Pegel Online](https://www.pegelonline.wsv.de/gast/start) oder das [Länderübergreifende Pegelportal](https://www.pegelportal.de) nutzen. Für Österreich werden die Hochwasserriskogebiete auf der Plattform [HORA](https://www.hora.gv.at/) dargestellt.
+
+Laut der [Hochwasserstudie des UfU](https://www.ufu.de/wp-content/uploads/2024/09/Kurzgutachten-Krisengewaesser_MZ_1.pdf) sind fast 400.000 Menschen in Deutschland in den kommenden Jahren [von Hochwasser bedroht](https://www.ufu.de/hochwasser/). In der Studie wird aber auch auf Gewässer und Flüsse eingegangen, die besonders bei Dürren betroffen sein werden.
+
+Talsperren helfen dabei, den Wasserabfluss zu beeinflussen. Bei Hochwassergefahr können sie Wasser zurückhalten und in langen Trockenperioden kontrolliert Wasser abgegeben (um z.B. trotzdem Schifffahrt zu ermöglichen). Die Füllstände der Talsperren werden [auf dieser Seite](https://www.talsperren.net/Fullstande/fullstande.html) nur unregelmäßig gepflegt (letzter Stand 29.12.2023), für aktuelle Daten muss man die Talsperren einzeln bzw. pro Bundesland oder Region abfragen, z.B. für [Thüringen](https://www.thueringer-fernwasser.de/rund-ums-wasser/aktuelle-talsperrendaten.html), für den [Ruhrverband](https://www.talsperrenleitzentrale-ruhr.de/online-daten/talsperren/) oder die [Harz-Wasserwerke](https://www.harzwasserwerke.de/infoservice/talis-talsperrendaten/).
+
+Entstanden beim Hochwasser 2013 rund acht Milliarden Euro an Schäden in elf Bundesländern, [waren es im Jahr 2024 bis Mitte August bereits über 4 Milliarden Euro](https://www.deutschlandfunk.de/juni-hochwasser-in-sueddeutschland-verursacht-ueber-4-1-milliarden-euro-schaden-100.html) in nur zwei Bundesländern.
 
 ### Kipppunkte
 * Kipppunkte: Erde an der Klimaschwelle
