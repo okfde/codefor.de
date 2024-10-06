@@ -139,18 +139,13 @@ Ein paar zaghafte Versuche aus der Umklammerung proprietärer Software herauszuk
 Lisa Reiber hat ihre Erfahrungen geteilt, wie man Open Source in der öffentlichen Verwaltung einführt, ihr Vortrag auf der PyCon im April diesen Jahres [kann man nun nachschauen](https://www.youtube.com/watch?v=aHrmI3Iz1cA).
 
 ### Open Source in der Praxis
-* Projekte wie der Acorn von Taylor Alexander versuchen, moderne Farm-Roboter auch für Kleinstbetriebe verfügbar zu machen. Alexander setzt dabei auf Open-Source-Software und günstige Komponenten wie Einplatinencomputer und Elektromotoren.
-  via https://reset.org/wie-perplant-farming-mit-farm-robotern-und-ki-beim-umweltschonenden-anbau-unterstuetzt/
-  https://www.twistedfields.com/research
-  https://github.com/Twisted-Fields/acorn-precision-farming-rover
-* Open Regulatory Compliance Working Group
-  https://osb-alliance.de/news/die-eclipse-foundation-gruendet-die-open-regulatory-compliance-working-group-zur-unterstuetzung-bei-globalen-open-source-regularien
-* DuckDB 1.1.0 veröffentlicht
-  https://duckdb.org/2024/09/09/announcing-duckdb-110
-* Winamp: Quellcode offengelegt – Diskussionen um Lizenz
-  https://www.heise.de/news/Winamp-Quellcode-offengelegt-Diskussionen-um-Lizenz-9953816.html
-* Eine Gruppe Hacker hätte sich beinahe Zugang zu Millionen von Servern auf der ganzen Welt verschafft. Doch ein deutscher Software-Entwickler hat ihnen einen Strich durch die Rechnung gemacht.
-  https://www.youtube.com/watch?v=8p8PHeGg--U
+Mit günstigen Komponenten wie Einplatinencomputer und Elektromotoren sowie [Open-Source-Software](https://github.com/Twisted-Fields/acorn-precision-farming-rover) versuchen Projekte wie [Acorn](https://www.twistedfields.com/research), moderne Farm-Roboter auch für Kleinstbetriebe [verfügbar zu machen](https://reset.org/wie-perplant-farming-mit-farm-robotern-und-ki-beim-umweltschonenden-anbau-unterstuetzt/).
+
+Damit Open-Source-Software-Komponenten sich gut miteinander integrieren lassen, sollten sich alle Beteiligten an bestimmte Regeln halten. Mit der Open Regulatory Compliance Working Group wurde nun eine Arbeitsgruppe [gegründet](https://osb-alliance.de/news/die-eclipse-foundation-gruendet-die-open-regulatory-compliance-working-group-zur-unterstuetzung-bei-globalen-open-source-regularien), die genau solche Regularien für Open-Source-Ökosysteme erarbeiten soll.
+
+Die Hintergründe zum Versuch, die [xz-utils](https://de.wikipedia.org/wiki/XZ_Utils) Bibliothek zu komprimitieren, werden in [diesem Simplicissimus-Video-Essay](https://www.youtube.com/watch?v=8p8PHeGg--U) sehr anschaulich und verständlich erklärt und zeigen die Vorteile aber auch die Schwächen des Open-Source-Ansatzes.
+
+DuckDB, ist eine Datenbank, die In-Process und In-Memory läuft, und im Gegensatz zum vergleichbaren SQLite auf Analyse großer Datensätze optimiert ist (vergleichbar mit Apache Spark) und den SQL-Standard vollumfänglich unterstützt. Nun ist sie [in Version 1.1.0 erschienen](https://duckdb.org/2024/09/09/announcing-duckdb-110).
 
 ## Open Access
 * Open Access Journals
