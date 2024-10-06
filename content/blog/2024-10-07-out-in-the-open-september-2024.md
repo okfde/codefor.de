@@ -109,7 +109,7 @@ Auf dem [Carto Blog](https://carto.com/blog/urban-mobility-insights-with-movingp
 ### Nachhaltige Mobiliät
 Das Reallabor MobiQ [zeigt](https://www.oeko.de/news/aktuelles/reallabor-mobiq-gibt-nachhaltige-mobilitaetsideen-an-die-hand/) mit seinem in einem dreijährigen Forschungsprojekt entstandenen [Handbuch](https://www.oeko.de//fileadmin/user_upload/MobiQ-Handbuch_Mobilitaet-gemeinsam-gestalten.pdf) in zehn definierten Schritten, wie Bürger*innen gemeinsam ihre Mobilität organisieren und nachhaltig verbessern können.
 
-In einem [Analyse-Angebote](https://whatif.sonycsl.it/15mincity/15mincity.php) der [Was-wäre-wenn-Plattform](https://whatif.sonycsl.it) kann man sich auf einer Karten anzeigen lassen, wie weit die eigene Stadt vom Ideal der 15-Minuten-Stadt entfernt ist. Die Auswertung erfolgt auf Basis von offenen Daten zu Orten in der Stadt, Einwohnerdaten und Anwendung von Routingalgorithmen.
+In einem [Analyse-Angebot](https://whatif.sonycsl.it/15mincity/15mincity.php) der [Was-wäre-wenn-Plattform](https://whatif.sonycsl.it) kann man sich auf einer Karten anzeigen lassen, wie weit die eigene Stadt vom Ideal der 15-Minuten-Stadt entfernt ist. Die Auswertung erfolgt auf Basis von offenen Daten zu Orten in der Stadt, Einwohnerdaten und Anwendung von Routingalgorithmen.
 
 ### Fahrrad
 Aktuell kann bis Ende November auf [der Seite vom ADFC](https://fahrradklima-test.adfc.de/) die Fahrradfreundlichkeit der eigenen Stadt bewerten und damit beitragen, dass Radfahren in Deutschland sicherer und angenehmer wird. Dazu muss aber pro Stadt abhängig von der Einwohnerzahl [ein Abstimmungsquorum erreicht werden](https://fahrradklima-test.adfc.de/teilnahme#c146084), damit die Bewertungen auch in die Gesamtauswertung einfließen dürfen. Wie viele Menschen pro Stadt derzeit abgestimmt haben, [lässt sich hier einsehen](https://fahrradklima-test.adfc.de/ergebnisse).
@@ -117,39 +117,26 @@ Aktuell kann bis Ende November auf [der Seite vom ADFC](https://fahrradklima-tes
 In [einem Video](https://www.youtube.com/watch?v=UETrWFutKxQ&t=490s) erklären Verkehrswissenschaftler der TU Dresden, wie die Daten der Radfahrkampagne "Stadtradeln" zur Verkehrsplanung beitragen und welchen Vorteil eine Radverkehrssimulation für die Stadtplanung hat.
 
 ## Verkehrssicherheit
-
 Beim Crowdsourcing-Projekt "Achtung, Schulweg!" von Stuttgarter Zeitung und Correctiv [wurden bislang gut 200 Hinweise auf zugeparkte und damit potenziell gefährliche Schulwege gegeben](https://www.linkedin.com/posts/dr-jan-georg-plavec-54744910b_crowdsourcing-opendata-kidicalmass-ugcPost-7237364297494851586-QgDH). Das diese existieren, liegt unter anderem daran, dass die Stadt zu wenig in der Schulweg-relevanten Zeit vor 8 Uhr kontrolliert, das hat jedenfalls die Auswertung von ca. 1 Million Strafzetteln aus den Jahren 2022 und 2023 in Stuttgart hinsichtlich Gefährdung durch zugeparkte Schulwege ergeben, zu denen die Stadtverwaltung auf Anfrage Open Data zur Verfügung gestellt hat.
 
 Nach dem Einsturz der Carola-Brücke in Dresden hat MDR Data recherchiert, wo [die anderen mehr als 400 maroden Brücken in Sachsen, Sachsen-Anhalt und Thüringen stehen](https://www.mdr.de/nachrichten/deutschland/panorama/wo-marode-bruecken-sachsen-anhalt-thueringen-karte-104.html), also rund jede 20. Brücke. Und die Brücken, die von den Gemeinden verwaltet werden, sind nicht mal in die Auswertung eingeflossen, da diese nicht zentral verwaltet werden und daher auch keine Benotung vorliegt. Eine Umfrage bei kommunalen Tiefbauämtern im Jahr 2021 ergab, dass sich in Ostdeutschland fast jede vierte in "nicht ausreichendem" oder "mangelhaftem Zustand" befindet.
 
 ## OpenSource
-* Zum Tag der Software-Freiheit zeigen wir unsere 5 liebsten Argumente für freie & quell-offene Software
-  https://machteburch.social/@softwerke/113140790478773535
+Jedes Jahr am dritten Samstag im September wird der ["Tag der Software-Freiheit"](https://de.wikipedia.org/wiki/Software_Freedom_Day) gefeiert. Der Softwerke Magdeburg e. V. [listet hier](https://machteburch.social/@softwerke/113140790478773535) ihre fünf liebsten Argumente für freie & quelloffene Software.
 
 ### Prototype Fund
-* Prototype Fund Projekte Runde 16 (September 2024 bis Februar 2025)
-  https://prototypefund.de/projects/round-16/
-* In der Knowledge Base findet ihr eine Reihe von Kommunikationsstrategien, mit denen ihr anderen helft, eure FOSS-Projekte sicher und langfristig zu nutzen, zur Entwicklung beizutragen oder da weiterzumachen, wo ihr aufgehört habt
-  https://kb.prototypefund.de/books/communityaufbau-und-zusammenhalt/page/kommunikationsstrategien-fur-community-building-und-management
-* Funding for Future – wie der Prototype Fund wirkt, Teil II
-  https://prototypefund.de/funding-for-future-wie-der-prototype-fund-wirkt-teil-ii/
+Weil der Prototype Fund auf eine Laufzeit von acht Jahren ausgelegt war, die sich nun dem Ende neigen, werden in einer [Blogreihe](https://prototypefund.de/wie-der-prototype-fund-wirkt/) die wichtigsten Inhalte des Handbuchs ["Funding for Future"](https://prototypefund.de/wp-content/uploads/2022/05/Handbuch-Funding-for-Future.pdf) und ein paar neuere Erkenntnisse geteilt, [im zweiten Teil](https://prototypefund.de/funding-for-future-wie-der-prototype-fund-wirkt-teil-ii/) geht es um die Herausforderung der Nachhaltigkeit in der Innovationsförderung. Um ein Fortbestehen auch über den Förderzeitraum zu ermöglich sollte man sich frühzeitig um Sichtbarkeit und den Aufbau einer Community kümmern. In der [Knowledge Base](https://kb.prototypefund.de/books/communityaufbau-und-zusammenhalt/page/kommunikationsstrategien-fur-community-building-und-management) wurden eine Reihe von Kommunikationsstrategien dazu zusammengetragen, mit denen ihr anderen helft, eure FOSS-Projekte sicher und langfristig zu nutzen, zur Entwicklung beizutragen oder da weiterzumachen, wo ihr aufgehört habt.
+
+Doch noch sind die 8 Jahre jedoch nicht rum, es gibt [eine letzte Förderrunde](https://prototypefund.de/projects/round-16/), die eben gestartet ist und bis nächsten Februar läuft.
 
 ### Open Source in der Öffentlichen Verwaltung
-* Zahl des Tages: Bis zu 700 Mio Euro kann SAP über die Tochter Delos Cloud verdienen, indem sie dem Bund ab 2025 die Nutzung der Cloud-Dienste von Microsoft vermittelt
-  https://www.turi2.de/aktuell/zahl-des-tages-sap-kann-bis-zu-700-mio-dollar-mit-microsoft-clouddienst-vermittlung-an-den-bund-verdienen/
-  via https://mastodon.social/@bkastl/113151277577052241
-  passend dazu: über 100 Treffen mit Microsoft und SAP – Lobby gefährdet Digitale Souveränität
-  https://mdb.anke.domscheit-berg.de/2024/09/microsoft_lobby/
-* Bundeshaushalt: Die digitale Zukunftsfähigkeit wird wider besseres Wissen demontiert
-  https://osb-alliance.de/featured/bundeshaushalt-die-digitale-zukunftsfaehigkeit-wird-wider-besseres-wissen-demontiert
-* Mit Open-Source gegen den "Political Lock-In"
-  https://www.egovernment.de/mit-open-source-gegen-den-political-lock-in-a-95619dcc5d60ca12ee7ff4892f775862/
-* Das Bundes-Office kommt: openDesk Version 1.0 ab Mitte Oktober
-  https://www.heise.de/news/Microsoft-365-Alternative-openDesk-in-Version-1-0-fuer-Oktober-angekuendigt-9955542.html
-* Verwaltung trifft Open Source und Hochleistung – die Thüringer Verwaltungscloud
-  https://osb-alliance.de/featured/verwaltung-trifft-open-source-und-hochleistung-die-thueringer-verwaltungscloud
-* Lisa Reiber delves into the unique experiment of sharing code in public administration
-  https://www.youtube.com/watch?v=aHrmI3Iz1cA
+Auf Basis des Cloud-Dienstes Azure des US-Konzerns Microsoft soll von der SAP-Tochter [Delos Cloud](https://www.deloscloud.de/index.html) eine datenschutz­konform Cloud aufgebaut und betrieben werden. Aus dem Rahmen­vertrag zwischen Innenministerium und SAP geht hervor, dass SAP bis zu 700 Mio Euro damit verdienen kann. Eine stattliche Summe, [da waren die über 110 Lobbytreffen zwischen Bundesregierung, Microsoft und SAP in zweieinhalb Jahren](https://mdb.anke.domscheit-berg.de/2024/09/microsoft_lobby/) doch ein guter Invest. Aus Sicht der Open Source Business Alliance (OSBA) wird damit [die digitale Zukunftsfähigkeit wider besseres Wissen demontiert](https://osb-alliance.de/featured/bundeshaushalt-die-digitale-zukunftsfaehigkeit-wird-wider-besseres-wissen-demontiert). Dabei entkäme man [mit Open Source Lösungen diesem "Political Lock-In"](https://www.egovernment.de/mit-open-source-gegen-den-political-lock-in-a-95619dcc5d60ca12ee7ff4892f775862/), also der Abhängigkeit öffentlicher Einrichtungen von Produkten und Dienstleistungen großer nicht-nationaler Anbieter, die die digitale Souveränität und politische Unabhängigkeit gefährden.
+
+Vorbild sollte hier stattdessen Thüringen sein: dessen Landesrechenzentrum ist zuständig für die Thüringer Verwaltungscloud (eine vollautomatisierte private Hochleistungs-Cloud auf OpenStack-Basis mit 400-Gigabit-Netzwerken, 3 Petabyte Software-Defined-Storage (all-flash!) und 12.000 CPU-Kernen) und setzt dabei, im Einklang mit dem E-Government-Gesetz Thüringen, [fast ausschließlich auf Open-Source-Software](https://osb-alliance.de/featured/verwaltung-trifft-open-source-und-hochleistung-die-thueringer-verwaltungscloud).
+
+Ein paar zaghafte Versuche aus der Umklammerung proprietärer Software herauszukommen gibt es dann doch: [Mitte Oktober soll die openDesk Version 1.0 vorgestellt werden](https://www.heise.de/news/Microsoft-365-Alternative-openDesk-in-Version-1-0-fuer-Oktober-angekuendigt-9955542.html), eine vom Bund finanzierte Open-Source-Alternative zu Microsoft-365.
+
+Lisa Reiber hat ihre Erfahrungen geteilt, wie man Open Source in der öffentlichen Verwaltung einführt, ihr Vortrag auf der PyCon im April diesen Jahres [kann man nun nachschauen](https://www.youtube.com/watch?v=aHrmI3Iz1cA).
 
 ### Open Source in der Praxis
 * Projekte wie der Acorn von Taylor Alexander versuchen, moderne Farm-Roboter auch für Kleinstbetriebe verfügbar zu machen. Alexander setzt dabei auf Open-Source-Software und günstige Komponenten wie Einplatinencomputer und Elektromotoren.
