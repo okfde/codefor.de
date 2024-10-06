@@ -201,31 +201,15 @@ Talsperren helfen dabei, den Wasserabfluss zu beeinflussen. Bei Hochwassergefahr
 Entstanden beim Hochwasser 2013 rund acht Milliarden Euro an Schäden in elf Bundesländern, [waren es im Jahr 2024 bis Mitte August bereits über 4 Milliarden Euro](https://www.deutschlandfunk.de/juni-hochwasser-in-sueddeutschland-verursacht-ueber-4-1-milliarden-euro-schaden-100.html) in nur zwei Bundesländern.
 
 ### Kipppunkte
-* Kipppunkte: Erde an der Klimaschwelle
-  https://topos.orf.at/wie-nah-sind-kipppunkte100
-  * Noch fünf Jahre für einen gesunden Planeten
-    https://www.zdf.de/nachrichten/wissen/un-zukunftsgipfel-studie-planetare-grenzen-klimawandel-100.html
-	* Planetary Health Check 2024
-	  https://d1gwxouzo4hr10.cloudfront.net/planetaryhealthcheck2024_report.pdf
-  * Planetary Health Check: Noch fünf Jahre für einen gesunden Planeten
-  * The Tipping Points of Climate Change — and Where We Stand (Johan Rockström)
-    https://www.youtube.com/watch?v=Vl6VhCAeEfQ
-  * Extremwetterkongress Streams
-    https://www.youtube.com/@ExtremWetterKongress/streams
+Kipppunkte sind kritische Schwellenwerte. Einmal überschritten, kommt es zu unumkehrbaren Veränderungen im Klimasystem. So würde das vollständige Abschmelzen des grönländischen Eisschildes den Meeresspiegel um etwa sieben Meter steigen lassen. Kippvorgänge können sich wie Dominosteine gegenseitig auslösen. [Johan Rockström erklärt im TED-Task](https://www.youtube.com/watch?v=Vl6VhCAeEfQ) wo wir aktuell hinsichtlich der Kipppunkte stehen. [Wir müssen schnell handeln](https://topos.orf.at/wie-nah-sind-kipppunkte100), die heutige Klimapolitik beeinflusst die kommenden Jahrhunderte. Der [Planetary Health Check Report 2024](https://d1gwxouzo4hr10.cloudfront.net/planetaryhealthcheck2024_report.pdf) sagt voraus, dass wir zwingend [in den nächsten fünf Jahren](https://www.zdf.de/nachrichten/wissen/un-zukunftsgipfel-studie-planetare-grenzen-klimawandel-100.html) den Kurs ändern müssen, um einen für uns gesunden Planeten zu erhalten. Mehr Inhalte gibt es in den [Live-Streams](https://www.youtube.com/@ExtremWetterKongress/streams) vom Extrem-Wetter-Kongress.
 
 ### Artenvielfalt
-* List of Lost Birds
-  https://www.forbes.com/sites/grrlscientist/2024/09/06/scientists-say-lost-birds-list-will-help-protect-species/
-  https://searchforlostbirds.org/birds
-  https://www.macaulaylibrary.org
-  https://ebird.org/
-* Bericht zur Artenvielfalt: Schmetterling, Waldvogel und Co. sind in Gefahr
-  https://ard.social/users/tagesschau/statuses/113227337814061518
+Laut [einer Studie](https://feda.senckenberg.de/apps/interner-bereich/static/downloads/9783987263361.pdf) geht die Artenvielfalt in Deutschland [weiter zurück](https://www.tagesschau.de/wissen/forschung/artenvielfalt-122.html). Haupttreiber sind dabei der Verlust von Lebensräumen und die Intensivierung der Landwirtschaft.
+
+Eine [Liste von Vögeln](https://searchforlostbirds.org/birds), die mehr als 10 Jahre nicht mehr gesichtet (und damit vermutlich ausgestorben sind) [wurde jüngst veröffentlicht](https://www.forbes.com/sites/grrlscientist/2024/09/06/scientists-say-lost-birds-list-will-help-protect-species/). Die Liste basiert auf der Datenbank [Macaulay Library](https://www.macaulaylibrary.org). Mit der [eBird](https://ebird.org/) App kann man selbst zur Vogelbeobachtung beitragen.
 
 ### Vermüllung
-* Twenty years after "microplastics" was first mentioned, we now see their widespread impact. They come from tires, textiles, cosmetics, and more, and are found in food, drink, and even the human body, causing harm.  With pollution expected to double by 2040, there’s an urgent need to find solutions to prevent unintended consequences.
-  https://www.science.org/doi/10.1126/science.adl2746
-  via https://mastodon.social/@Climatehistories/113186010308099623
+[20 Jahre Forschung zu Mikroplastikverschmutzung](https://mastodon.social/@Climatehistories/113186010308099623): wir brauchen dringend Lösungsansätze, denn bei einem weiterso, wird sich die Belastung durch Mikroplastik [bis 2040 verdoppeln](https://www.science.org/doi/10.1126/science.adl2746).
 
 ### Umsetzung
 * Der Fokus auf Desinformation bringt uns nicht weiter
