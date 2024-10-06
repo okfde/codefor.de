@@ -102,35 +102,25 @@ Auf eine noch viel zu wenig beachtete Fehlentwicklung [macht Michael Peters von 
 Die [Folge 54](https://podcasts.social/users/datenleben/statuses/113106578606885407) des Data Science Podcasts "datenleben" befasst sich mit Gesundheitsdaten und Datensicherheit, auch mit der Frage, ob Rabatte und Prämien wirtschaftlichen Druck auf die Verbraucher ausüben, z.B. Fitness- und Aktivitätsdaten mit der Krankenkasse zu teilen.
 
 ## Mobilität
-* Das neue VLIS soll mehr Informationen bieten als das bisherige Parkleitsystem. So sollen Daten über alle Mobilitätsalternativen schnell, integriert und datenschutzkonform als "Open Data" zur Verfügung stehen, also für jedermann nutzbar.
-  bis 2026 gibt es aber erstmal kein Parkleitsystem in Frankfurt am Main
-  https://www.fr.de/frankfurt/frankfurt-main-stadt-parken-parkhaus-abschaffung-parkleitsystem-auto-verkehr-politik-gruene-news-93294288.html
-* Urban Mobility Insights with MovingPandas & CARTO in Snowflake
-  https://carto.com/blog/urban-mobility-insights-with-movingpandas-carto-in-snowflake
+Ab 2026 sollen in Frankfurt am Main im neuen Verkehrsleitinformationssystem (VLIS) die Daten über alle Mobilitätsalternativen schnell, integriert und datenschutzkonform als "Open Data" zur Verfügung stehen. Bis dahin bleiben die Digitalanzeigen für Parkhäuser im Stadtgebiet schwarz, weil das alte System mit unsicherer Software aus den 1990er-Jahren arbeitet, die bereits 2022 von der restlichen Systemlandschaft isoliert wurde, so dass Mitarbeitende der Stadt die Anzahl freier Parkplätze seitdem händisch eingeben musste. Aufwand den man sich nun [seit Ende September ganz spart](https://www.fr.de/frankfurt/frankfurt-main-stadt-parken-parkhaus-abschaffung-parkleitsystem-auto-verkehr-politik-gruene-news-93294288.html). Das neue Parkleitsystem muss nun erst ausgeschrieben werden.
+
+Auf dem [Carto Blog](https://carto.com/blog/urban-mobility-insights-with-movingpandas-carto-in-snowflake) wird beispielhaft an den Taxi-Bewegungsdaten aus Porto in Portugal gezeigt, wie man mit der Python-Bibliothek [Moving Pandas](https://movingpandas.org) und dem Data Warehouse [Snowflake](https://www.snowflake.com/) und der [Carto](https://carto.com)-Plattform Mobilitätsdaten hinsichtlich Auslastung und Routenoptimierung analysieren kann.
 
 ### Nachhaltige Mobiliät
-* Reallabor MobiQ gibt nachhaltige Mobilitätsideen an die Hand
-  https://www.oeko.de/news/aktuelles/reallabor-mobiq-gibt-nachhaltige-mobilitaetsideen-an-die-hand/
-  https://www.oeko.de//fileadmin/user_upload/MobiQ-Handbuch_Mobilitaet-gemeinsam-gestalten.pdf
-* What-If 15min City: wie weit ist die eigene Stadt vom Ideal der 15-Minuten-Stadt entfernt
-  https://whatif.sonycsl.it/15mincity/15mincity.php
-  via https://chaos.social/@ibigfoot/113160292989084761
-  mehr What-Ifs: https://whatif.sonycsl.it
+Das Reallabor MobiQ [zeigt](https://www.oeko.de/news/aktuelles/reallabor-mobiq-gibt-nachhaltige-mobilitaetsideen-an-die-hand/) mit seinem in einem dreijährigen Forschungsprojekt entstandenen [Handbuch](https://www.oeko.de//fileadmin/user_upload/MobiQ-Handbuch_Mobilitaet-gemeinsam-gestalten.pdf) in zehn definierten Schritten, wie Bürger*innen gemeinsam ihre Mobilität organisieren und nachhaltig verbessern können.
+
+In einem [Analyse-Angebote](https://whatif.sonycsl.it/15mincity/15mincity.php) der [Was-wäre-wenn-Plattform](https://whatif.sonycsl.it) kann man sich auf einer Karten anzeigen lassen, wie weit die eigene Stadt vom Ideal der 15-Minuten-Stadt entfernt ist. Die Auswertung erfolgt auf Basis von offenen Daten zu Orten in der Stadt, Einwohnerdaten und Anwendung von Routingalgorithmen.
 
 ### Fahrrad
-* vom 01.09. bis 30.11.2024: Bewerte die Fahrradfreundlichkeit deiner Stadt und hilf mit, das Radfahren in Deutschland sicherer und angenehmer zu machen.
-  https://fahrradklima-test.adfc.de/
-  Wie viele Mindestteilnahmezahlen ein Ort benötigt, um in die Gesamtauswertung zu kommen, findet ihr in dieser Übersicht: https://fahrradklima-test.adfc.de/teilnahme#c146084.
-  Zwischenergebnisse der Teilnahme: https://fahrradklima-test.adfc.de/ergebnisse
-* Verkehrswissenschaftler der TU Dresden erklären außerdem, wie die Daten der Radfahrkampagne STADTRADELN zur Verkehrsplanung beitragen und welchen Vorteil eine Radverkehrssimulation für die Stadtplanung hat
-  https://www.youtube.com/watch?v=UETrWFutKxQ&t=490s
-  via https://norden.social/@thijs_lucas/113101152415619213
+Aktuell kann bis Ende November auf [der Seite vom ADFC](https://fahrradklima-test.adfc.de/) die Fahrradfreundlichkeit der eigenen Stadt bewerten und damit beitragen, dass Radfahren in Deutschland sicherer und angenehmer wird. Dazu muss aber pro Stadt abhängig von der Einwohnerzahl [ein Abstimmungsquorum erreicht werden](https://fahrradklima-test.adfc.de/teilnahme#c146084), damit die Bewertungen auch in die Gesamtauswertung einfließen dürfen. Wie viele Menschen pro Stadt derzeit abgestimmt haben, [lässt sich hier einsehen](https://fahrradklima-test.adfc.de/ergebnisse).
+
+In [einem Video](https://www.youtube.com/watch?v=UETrWFutKxQ&t=490s) erklären Verkehrswissenschaftler der TU Dresden, wie die Daten der Radfahrkampagne "Stadtradeln" zur Verkehrsplanung beitragen und welchen Vorteil eine Radverkehrssimulation für die Stadtplanung hat.
 
 ## Verkehrssicherheit
-* Auswertung von ca. 1 Million Strafzetteln aus den Jahren 2022 und 2023 in Stuttgart hinsichtlich Gefährdung durch zugeparkte Schulwege, zu denen die Stadtverwaltung auf Anfrage Open Data zur Verfügung gestellt hat.
-  https://www.linkedin.com/posts/dr-jan-georg-plavec-54744910b_crowdsourcing-opendata-kidicalmass-ugcPost-7237364297494851586-QgDH
-* Wo die mehr als 400 maroden Brücken in Sachsen, Sachsen-Anhalt und Thüringen stehen
-  https://www.mdr.de/nachrichten/deutschland/panorama/wo-marode-bruecken-sachsen-anhalt-thueringen-karte-104.html
+
+Beim Crowdsourcing-Projekt "Achtung, Schulweg!" von Stuttgarter Zeitung und Correctiv [wurden bislang gut 200 Hinweise auf zugeparkte und damit potenziell gefährliche Schulwege gegeben](https://www.linkedin.com/posts/dr-jan-georg-plavec-54744910b_crowdsourcing-opendata-kidicalmass-ugcPost-7237364297494851586-QgDH). Das diese existieren, liegt unter anderem daran, dass die Stadt zu wenig in der Schulweg-relevanten Zeit vor 8 Uhr kontrolliert, das hat jedenfalls die Auswertung von ca. 1 Million Strafzetteln aus den Jahren 2022 und 2023 in Stuttgart hinsichtlich Gefährdung durch zugeparkte Schulwege ergeben, zu denen die Stadtverwaltung auf Anfrage Open Data zur Verfügung gestellt hat.
+
+Nach dem Einsturz der Carola-Brücke in Dresden hat MDR Data recherchiert, wo [die anderen mehr als 400 maroden Brücken in Sachsen, Sachsen-Anhalt und Thüringen stehen](https://www.mdr.de/nachrichten/deutschland/panorama/wo-marode-bruecken-sachsen-anhalt-thueringen-karte-104.html), also rund jede 20. Brücke. Und die Brücken, die von den Gemeinden verwaltet werden, sind nicht mal in die Auswertung eingeflossen, da diese nicht zentral verwaltet werden und daher auch keine Benotung vorliegt. Eine Umfrage bei kommunalen Tiefbauämtern im Jahr 2021 ergab, dass sich in Ostdeutschland fast jede vierte in "nicht ausreichendem" oder "mangelhaftem Zustand" befindet.
 
 ## OpenSource
 * Zum Tag der Software-Freiheit zeigen wir unsere 5 liebsten Argumente für freie & quell-offene Software
