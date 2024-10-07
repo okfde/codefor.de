@@ -212,16 +212,11 @@ Eine [Liste von Vögeln](https://searchforlostbirds.org/birds), die mehr als 10 
 [20 Jahre Forschung zu Mikroplastikverschmutzung](https://mastodon.social/@Climatehistories/113186010308099623): wir brauchen dringend Lösungsansätze, denn bei einem weiterso, wird sich die Belastung durch Mikroplastik [bis 2040 verdoppeln](https://www.science.org/doi/10.1126/science.adl2746).
 
 ### Umsetzung
-* Der Fokus auf Desinformation bringt uns nicht weiter
-  https://jacobin.de/artikel/desinformation-fehlinformation-klimawandel-klimaschutz-energiewende
-* Ärger um Klima-Vorgabe CBAM: Deutsche Firmen müssen der EU Daten liefern, die es gar nicht gibt
-  https://www.focus.de/earth/analyse/cbam-unklare-regeln-verunsichern-industrie_id_260285214.html
-* Maßnahmen für ein klimaneutrales Deutschland
-  https://mappingzero.de
-  https://germanzero.de/loesungen/mapping-zero
-  via https://climatejustice.global/@GermanZeroHH/113152712816777914
-* Diese fünf lokalen Klimaschutzprojekte geben Hoffnung
-  https://www.riffreporter.de/de/umwelt/klima-klimaschutz-klimawandel-lokales-staedte-nachbarschaft-buerger-initiativen
+"Wenn man sich auf Desinformation im Bereich Klima konzentriert, geht dies oft auf Kosten konstruktiver Gegenmaßnahmen", [meint die Sozialwissenschaftlerin Holly Buck](https://jacobin.de/artikel/desinformation-fehlinformation-klimawandel-klimaschutz-energiewende). Stattdessen sollte man Menschen in Workshops, Fokusgruppen, mit Fragebögen und Diskussionsrunden vernetzen und beteiligen, die sich selbst nicht unbedingt mit "der Klimabewegung" identifizieren würden. Dort sollte man Wertekonflikte und Vertrauensfragen offen ansprechen, und geäußerte Bedenken und Sorgen ernst nehmen, sie aufarbeiten (und ausräumen), statt diese in Anflug elitärer Arroganz einfach als "Klimaleugnung" abzutun.
+
+Die interaktive Webseite [MappingZero](https://mappingzero.de) zeigt, wie stark und klimasozial [konkrete Maßnahmen](https://germanzero.de/loesungen/mapping-zero), abhängig von gewählten Umsetzungsstartzeitpunkt und Ausbaustufe, wirken können, und kann somit als Argumentationshilfe gegenüber der Politik dienen.
+
+Der CO₂-Grenzausgleichsmechanismus der EU, [Carbon Border Adjustment Mechanism (CBAM)](https://en.wikipedia.org/wiki/EU_Carbon_Border_Adjustment_Mechanism), ist seit Ende letzten Jahres in Kraft. Bei Importen muss nun angegeben werden, welche Emissionen bei der Herstellung dieser Materialien und Vorprodukte verursacht worden sind. Es drohen den importierenden Unternehmen bei fehlerhaften Berichten empfindliche Strafen, bis zu 50 Euro pro nicht gemeldeter Tonne CO₂. So sollen exakte Informationen über die Emissionsintensität der Produkte entlang der Lieferketten erhoben werden. Auf deren Grundlage wird dann ab 2026 etappenweise eine CO₂-Abgabe eingeführt. Importeure müssen dann denselben CO₂-Preis zahlen wie Unternehmen, deren Lieferketten komplett in Europa liegen. Unternehmen [beklagen sich nun aber](https://www.focus.de/earth/analyse/cbam-unklare-regeln-verunsichern-industrie_id_260285214.html), dass der ihnen und ihren Lieferanten aufgelegte Aufwand, die notwendigen Daten überhaupt zu erfassen (da Lieferanten diese teilweise nicht erfassen oder sich weigern, diese herauszugeben), nicht verhältnismäßig zu den geringen Klimaauswirkungen sei und wünschen sich Bagatellgrenzen.
 
 ## Energie
 * Die Historie der Solarbundesliga und des Wattbewerbs
