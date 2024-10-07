@@ -219,16 +219,13 @@ Die interaktive Webseite [MappingZero](https://mappingzero.de) zeigt, wie stark 
 Der CO₂-Grenzausgleichsmechanismus der EU, [Carbon Border Adjustment Mechanism (CBAM)](https://en.wikipedia.org/wiki/EU_Carbon_Border_Adjustment_Mechanism), ist seit Ende letzten Jahres in Kraft. Bei Importen muss nun angegeben werden, welche Emissionen bei der Herstellung dieser Materialien und Vorprodukte verursacht worden sind. Es drohen den importierenden Unternehmen bei fehlerhaften Berichten empfindliche Strafen, bis zu 50 Euro pro nicht gemeldeter Tonne CO₂. So sollen exakte Informationen über die Emissionsintensität der Produkte entlang der Lieferketten erhoben werden. Auf deren Grundlage wird dann ab 2026 etappenweise eine CO₂-Abgabe eingeführt. Importeure müssen dann denselben CO₂-Preis zahlen wie Unternehmen, deren Lieferketten komplett in Europa liegen. Unternehmen [beklagen sich nun aber](https://www.focus.de/earth/analyse/cbam-unklare-regeln-verunsichern-industrie_id_260285214.html), dass der ihnen und ihren Lieferanten aufgelegte Aufwand, die notwendigen Daten überhaupt zu erfassen (da Lieferanten diese teilweise nicht erfassen oder sich weigern, diese herauszugeben), nicht verhältnismäßig zu den geringen Klimaauswirkungen sei und wünschen sich Bagatellgrenzen.
 
 ## Energie
-* Die Historie der Solarbundesliga und des Wattbewerbs
-  https://www.youtube.com/watch?v=Zi-Re3xMp2o
-* Sieben gute Gründe für erneuerbare Energien
-  https://www.klimareporter.de/strom/sieben-gute-gruende-fuer-erneuerbare-energien
-* Energy Sharing: Geld reicht als Bürger-Beteiligung nicht aus
-  https://www.klimareporter.de/finanzen-wirtschaft/geld-reicht-als-buerger-beteiligung-nicht-aus
-  * https://de.m.wikipedia.org/wiki/Energy_Sharing
-* Energy Hack Days
-  https://energydatahackdays.ch/energy-data-hackdays/energy-data-hackdays-2024
-  https://www.youtube.com/live/vhdChUOw8x4
+Energiewendung als Wettbewerb zu organisieren, die Idee ist schon über 20 Jahre alt, die alte Seite  [Solarbundesliga](http://solarbundesliga.de/) existiert sogar noch, auch wenn sie seit 2018 nicht mehr genutzt wird. Seit 2021 wurde die Idee vom [Wattbewerb](https://wattbewerb.de) neu belebt. Martin Hundhausen [erzählt über die Historie beider Projekte](https://www.youtube.com/watch?v=Zi-Re3xMp2o) und die inzwischen erzielten Erfolge.
+
+Franz Alt, frühere Chef von ["Report Mainz"](https://de.wikipedia.org/wiki/Report_Mainz) nennt in [seinem Gastbeitrag](https://www.klimareporter.de/strom/sieben-gute-gruende-fuer-erneuerbare-energien) für [Klimareporter](https://www.klimareporter.de/) sieben gute Gründe für erneuerbare, dezentrale Energien. Er berichtet auch von den Benediktinermönchen der Abtei Münsterschwarzach bei Würzburg, die es in den Jahren 2000 bis 2008 geschafft, mit regenerativen Energien komplett energieautark zu werden. 
+
+Das [Bündnis Bürgerenergie](https://www.buendnis-buergerenergie.de/) kritisiert den Gesetzentwurf des Bundeswirtschaftsministerium, der das Energierecht im Bereich der sogenannten "Endkundenmärkte" modernisieren soll, [als ungenügend](https://www.klimareporter.de/finanzen-wirtschaft/geld-reicht-als-buerger-beteiligung-nicht-aus), es fehlen attraktive finanzielle Beteiligungsmöglichkeiten sowie eine Stärkung der Bürgerenergie. Ein Problem sind auch die mehr als 800 Stromnetzbetreiber, da aktuell immer nur innerhalb eines Betreibernetzes [Energy Sharing](https://de.m.wikipedia.org/wiki/Energy_Sharing) erlaubt ist, und manche der Netze nicht größer als ein Dorf sind.
+
+Der [Mitschnitt](https://www.youtube.com/live/vhdChUOw8x4) der Abschlusspräsentationen der [Energy Hack Days](https://energydatahackdays.ch/energy-data-hackdays/energy-data-hackdays-2024) zeigt die Ideen und Prototypen rund um Energiedaten, die während der beiden Hackathon-Tage entstanden sind.
 
 ## Karten
 * Aktuelle Points of Interest Open verfügbar
