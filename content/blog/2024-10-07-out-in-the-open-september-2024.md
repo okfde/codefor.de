@@ -228,27 +228,15 @@ Das [Bündnis Bürgerenergie](https://www.buendnis-buergerenergie.de/) kritisier
 Der [Mitschnitt](https://www.youtube.com/live/vhdChUOw8x4) der Abschlusspräsentationen der [Energy Hack Days](https://energydatahackdays.ch/energy-data-hackdays/energy-data-hackdays-2024) zeigt die Ideen und Prototypen rund um Energiedaten, die während der beiden Hackathon-Tage entstanden sind.
 
 ## Karten
-* Aktuelle Points of Interest Open verfügbar
-  https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2024/240905_POI-Open.html
-* Digitaler Zwilling NRW
-  https://www.dz.nrw.de/?lang=de
-  https://www.opengeodata.nrw.de/produkte/geobasis/lusat/akt/3dmesh/3dmesh/
-* Neue Version Geoportal Hamburg / Masterportal 3.3.0:
-  https://geoportal-hamburg.de
-  https://bitbucket.org/geowerkstatt-hamburg/masterportal/src/dev_vue/
-* Unser Vortrag "VersaTiles – Freie Karten für alle" ist online! In unter 30 Minuten erkläre ich den Aufbau eines neuen, freien Kartenstacks, der in Sekunden installiert werden kann.
-  https://mastodon.social/@VersaTiles/113186334292405308
-  * VersaTiles: Open-Source-Projekt als Alternative zu kommerziellen Kartendiensten
-    https://www.heise.de/news/VersaTiles-Open-Source-Projekt-als-Alternative-zu-kommerziellen-Kartendiensten-9952858.html
-* OpenFreeMap lets you display custom maps on your website and apps for free.
-  https://openfreemap.org
-  https://github.com/hyperknot/openfreemap
-* Neue Basemap-Kartenstile als QGIS-Projekt
-  https://www.data.gv.at/katalog/dataset/02a82524-d6d0-48fb-8f1f-435ba4a9f00b
-  https://www.data.gv.at/katalog/application/97679bfa-9f28-44c3-9347-8df341502e0e
-  https://hiking.waymarkedtrails.org
-* releasing version 2.0.0. of osm2pgsql
-  https://osm2pgsql.org/news/2024/09/19/release-2.0.0.html
+Die 3D-Meshes, die dem [Digitalen Zwilling NRW](https://www.dz.nrw.de/?lang=de) zu Grunde liegen, stehen als [Open Data](https://www.opengeodata.nrw.de/produkte/geobasis/lusat/akt/3dmesh/3dmesh/) zur Verfügung.
+
+Für Österreich gibt es optisch sehr ansprechende [Hintergrundkartenstile](https://www.data.gv.at/katalog/dataset/02a82524-d6d0-48fb-8f1f-435ba4a9f00b) als QGIS-Projekt.
+
+Das Open-Source-Projekt [VersaTiles](https://versatiles.org) möchte sich als eine kostenfreie Alternative zu kommerziellen Kartendiensten wie Mapbox oder Maptiler [zu etablieren](https://www.heise.de/news/VersaTiles-Open-Source-Projekt-als-Alternative-zu-kommerziellen-Kartendiensten-9952858.html).
+
+Das Projekt [OpenFreeMap](https://openfreemap.org), das [auch Open Source ist](https://github.com/hyperknot/openfreemap), beschränkt sich bewusst auf das Hosten von Vector-Tiles. Wie auch VersaTiles gibt es bei den öffentlichen Instanzen keinen Request-Begrenzungen, keine API-Keys, keine Registrierung. Die Kosten sollen aus Spenden gedeckt werden.
+
+Mit [osm2pgsql](https://osm2pgsql.org) lassen sich die Daten aus [OpenStreetMap](https://www.openstreetmap.org/) in eine [PostgreSQL/PostGIS](https://postgis.net) importieren, um so z.B. [Raster oder Vector-Tiles](https://osm2pgsql.org/examples/) erzeugen zu können. Nun ist fünf Jahre nach der ersten Version, die Version [2.0.0](https://osm2pgsql.org/news/2024/09/19/release-2.0.0.html), mit vielen Verbesserung, aber auch einigen Breaking Changes.
 
 ## KI
 ### KI bei Wikimedia
