@@ -110,7 +110,7 @@ Ab 2026 sollen in Frankfurt am Main im neuen Verkehrsleitinformationssystem (VLI
 
 Auf dem [Carto Blog](https://carto.com/blog/urban-mobility-insights-with-movingpandas-carto-in-snowflake) wird beispielhaft an den Taxi-Bewegungsdaten aus Porto in Portugal gezeigt, wie man mit der Python-Bibliothek [Moving Pandas](https://movingpandas.org) und dem Data Warehouse [Snowflake](https://www.snowflake.com/) und der [Carto](https://carto.com)-Plattform Mobilitätsdaten hinsichtlich Auslastung und Routenoptimierung analysieren kann.
 
-### Nachhaltige Mobiliät
+### Nachhaltige Mobilität
 Das Reallabor MobiQ [zeigt](https://www.oeko.de/news/aktuelles/reallabor-mobiq-gibt-nachhaltige-mobilitaetsideen-an-die-hand/) mit seinem in einem dreijährigen Forschungsprojekt entstandenen [Handbuch](https://www.oeko.de//fileadmin/user_upload/MobiQ-Handbuch_Mobilitaet-gemeinsam-gestalten.pdf) in zehn definierten Schritten, wie Bürger*innen gemeinsam ihre Mobilität organisieren und nachhaltig verbessern können.
 
 In einem [Analyse-Angebot](https://whatif.sonycsl.it/15mincity/15mincity.php) der [Was-wäre-wenn-Plattform](https://whatif.sonycsl.it) kann man sich auf einer Karten anzeigen lassen, wie weit die eigene Stadt vom Ideal der 15-Minuten-Stadt entfernt ist. Die Auswertung erfolgt auf Basis von offenen Daten zu Orten in der Stadt, Einwohnerdaten und Anwendung von Routingalgorithmen.
