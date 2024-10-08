@@ -29,7 +29,7 @@ Das Statistisches Bundesamt [weist außerdem](https://social.bund.de/@destatis/1
 In der jüngsten [Kolumne "Fix my chart"](https://blog.datawrapper.de/fix-my-chart-sequential-storytelling/) auf dem Datawrapper-Blog wird gezeigt, wie man die Zusammenhänge, die aus vier einzelnen Diagramme nur schwer abzuleiten sind, durch geeignete Farbgebung, Beschriftung und Verschränkung der Skalenverläufe doch anschaulich einordnen kann.
 
 ## Wahlen
-<TODO>
+Auch für die Ergebnisse der vergangenen Wahlen gibt es viele grafische Auswertungen und Interpretationsangebote.
 
 ### Sachsen
 Auf der [interaktive Karte](https://interaktiv-staging.tagesspiegel.de/lab/landtagswahl-sachsen-ergebnisse-karten-historisch/) vom Tagesspiegel sieht man an Hand Farbe und Farbintensität, wo welche Partei besonders stark (oder schwach) abgeschnitten hat. Die Ergebnisse lassen sich nach Erst- oder Zweitstimme und nach Gemeinde- oder Wahlkreis aufgeteilt entweder für die jeweils stärkste Partei oder aber explizit für eine ausgewählte Partei darstellen. Für jede dieser Kombination kann man über den Jahres-Schiebebalken sich die Verteilung in den vergangenen Landtagswahlen betrachten. Hier ist auch der Blick auf die Wahlbeteiligung im jeweiligen Wahljahr nicht unwichtig (z.B. 2014: 49%, 2024: 75%), um auch den Anteil an Nichtwählern nicht außer Acht zu lassen, da diese in der Farbgebung der Karte nicht vorkommen. Bei bestimmten Parteien ist zudem ein klares (Groß-)Stadt-Land-Gefälle zu erkennen.
@@ -60,7 +60,11 @@ Alle Details zur Nationalratswahl kann man im österreichischen Open Data Portal
 In diesem Kontext ist auch Roland Schmidts Blog [werk.statt.codes](https://werk.statt.codes) interessant, der schon seit einige Jahren Parlamentsdaten analysiert. Im Beitrag vom September geht es um die [Ordnungsrufe österreichisches Parlament](https://werk.statt.codes/posts/2024-09-09-call-for-order/), also geahnte Verstöße gegen die "Würde des hohen Hauses" durch Beleidigungen, rassistische Sprache und ähnliches. Die FPÖ und ihre Vertreter führen hier in allen Statistiken, bei den Wahlen hat es ihnen bezeichnenderweise am Ende nicht geschadet.
 
 ### Einordnung
-<TODO>
+Der Rechtsruck setzt sich weiter fort. Nicht nur in Ostdeutschland, wie manche Kommentare sich es leicht machen, sondern europaweit, eigentlich, mit Blick auf die USA, weltweit. Ursachen sind begründete oder weniger begründete Ängste vor Abstieg, Wohlstandsverlusten (bzw. fehlenden Aufstiegschancen) und Veränderungen generell.
+
+Multiple Krisen (Klimakrise, Kriege, Migration, marode Infrastruktur, Investitionsstau, Strukturwandel, Wandel der Arbeitswelt) überfordern und Menschen (und eben auch die Politik) entwickeln Strategien sich (psychisch) selbst zu schützen, indem sie verdängen, Schuldige / Sündenböcke suchen und/oder in Aktionismus verfallen.
+
+Gerade aber die Politik sollte bessere Strategien finden. Für Stefan Brink liegt es an [den fehlende Überzeugungen](https://netzpolitik.org/2024/ampel-koalition-keine-ueberzeugung-nirgends/) der Politiker bzw. dem fehlenden Rückgrat seine Überzeugungen zu vertreten. Man kürzt bei jenen, die eh schon wenig haben, von denen man aber auch nur geringen Widerstand erwartet, und ist zu feige , sich mit den bestehenden Machtstrukturen und Besitzstandswahrern anzulegen (und z.B. eine Vermögenssteuer einzuführen). [Carla Sippmann ermahnt](https://netzpolitik.org/2024/breakpoint-tiktok-ist-schuld-oder/), die Ursache nicht allein in der Desinformation durch (Sozialen) Medien und Populisten zu sehen, sondern endlich ihre Wähler wahr- und ernstzunehmen, ohne ihnen dabei nach dem Mund zu reden. Politik(-er)verdrossenheit und die Vertrauenskrise ist hausgemacht.
 
 ## Medien
 [Geleakte interne Dokumente](https://www.tagesschau.de/investigativ/ndr-wdr/russland-propaganda-fakenews-sda-deutschland-100.html) der kremlnahen Agentur SDA zeigen, mit welchem Aufwand Russland versucht, durch gezielte Desinformationskampagnen westliche Demokratien zu destabilisieren, indem z.B. Zukunftsängste geschürt werden.
