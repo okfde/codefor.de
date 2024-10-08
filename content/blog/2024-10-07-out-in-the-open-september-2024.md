@@ -239,21 +239,14 @@ Das Projekt [OpenFreeMap](https://openfreemap.org), das [auch Open Source ist](h
 Mit [osm2pgsql](https://osm2pgsql.org) lassen sich die Daten aus [OpenStreetMap](https://www.openstreetmap.org/) in eine [PostgreSQL/PostGIS](https://postgis.net) importieren, um so z.B. [Raster oder Vector-Tiles](https://osm2pgsql.org/examples/) erzeugen zu können. Nun ist fünf Jahre nach der ersten Version, die Version [2.0.0](https://osm2pgsql.org/news/2024/09/19/release-2.0.0.html), mit vielen Verbesserung, aber auch einigen Breaking Changes.
 
 ## KI
-### KI bei Wikimedia
-* Wikidata und Künstliche Intelligenz: Vereinfachter Zugang zu offenen Daten für Open-Source-Projekte
-  https://blog.wikimedia.de/2024/09/17/wikidata-und-ki-einfacherer-zugang/
-* Wikimedia Deutschland entwickelt semantische Suche für gemeinnützige KI-Anwendungen
-  https://www.wikimedia.de/press-releases/wikimedia-deutschland-entwickelt-semantische-suche-fuer-gemeinnuetzige-ki-anwendungen/
+Wikimedia Deutschland startet in Kooperation mit DataStax und Jina AI die Umsetzung eines [semantischen Suchkonzepts](https://www.wikimedia.de/press-releases/wikimedia-deutschland-entwickelt-semantische-suche-fuer-gemeinnuetzige-ki-anwendungen/), das die offen lizenzierten Daten von Wikidata für Entwickler*innen von KI-Anwendungen [leichter nutzbar machen soll](https://blog.wikimedia.de/2024/09/17/wikidata-und-ki-einfacherer-zugang/).
 
 ### Anwendungsfälle
-* Digitale Sprachbarrieren abbauen: Simba will das Internet für alle verständlicher machen
-  https://reset.org/digitale-sprachbarrieren-abbauen-simba-will-das-internet-fuer-alle-verstaendlicher-machen/
-  https://publicinterest.ai/tool/simba/simplifier?lang=de
-  https://publicinterest.ai
-* Hirnforschung: Neue Studie sagt mit KI Aktivitäten einzelner Neuronen voraus
-  https://www.heise.de/news/Hirnforschung-Neue-Studie-sagt-mit-KI-Aktivitaeten-einzelner-Neuronen-voraus-9868635.html
-* KI-gestützte Durchmusterung entdeckt Hunderte neue Nazca-Geoglyphen
-  https://www.heise.de/news/KI-gestuetzte-Durchmusterung-entdeckt-Hunderte-neue-Nazca-Geoglyphen-9958382.html
+Mit der kostenlosen Lösung [Simba](https://publicinterest.ai/tool/simba/simplifier?lang=de) der Forschungsgruppe [Public Interest AI](https://publicinterest.ai/) kann man sich entweder über eine  Internet-App eigene Texte [vereinfachen lassen](https://reset.org/digitale-sprachbarrieren-abbauen-simba-will-das-internet-fuer-alle-verstaendlicher-machen/) oder über eine Browser-Erweiterung, die automatisch Texte auf Webseiten zusammenfasst.
+
+Eine neue [Studie](https://www.nature.com/articles/s41586-024-07939-3) beschreibt, wie mit Hilfe von KI und einem Konnektom Aktivitäten einzelner Neuronen [vorhergesagt werden können](https://www.heise.de/news/Hirnforschung-Neue-Studie-sagt-mit-KI-Aktivitaeten-einzelner-Neuronen-voraus-9868635.html), ohne dazu eine einzige Messung in einem lebenden Gehirn durchführen zu müssen.​
+
+303 bisher unbekannte Geoglyphen, riesige Linien- und Reliefzeichnungen in der Nazca-Wüste in Peru, konnten durch Machine Learning [entdeckt werden](https://www.heise.de/news/KI-gestuetzte-Durchmusterung-entdeckt-Hunderte-neue-Nazca-Geoglyphen-9958382.html).
 
 ### Werkzeuge
 * PDF2Audio: Open-Source-KI zur Wandlung von PDF in Podcasts und Zusammenfassungen
@@ -340,6 +333,8 @@ Mit [osm2pgsql](https://osm2pgsql.org) lassen sich die Daten aus [OpenStreetMap]
   * https://jugendhackt.org/events/schweiz/
 * Freitag, 11.10.2024, bis Sonntag, 13.10.2024, EineWeltHaus, Schwanthalerstr. 80 RGB, München: **CorrelCon 2024** <a title='Kalendereintrag CorrelCon 2024' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3V0IGluIHRoZSBPcGVuIFNlcHRlbWJlciAyMDI0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpVSUQ6Y29ycmVsY29uQGNvcnJlbGFpZC5vcmcNClNVTU1BUlk6Q29ycmVsQ29uIDIwMjQNCkRUU1RBUlQ7VkFMVUU9REFURToyMDI0MTAxMQ0KRFRFTkQ7VkFMVUU9REFURToyMDI0MTAxNA0KREVTQ1JJUFRJT046aHR0cHM6Ly93d3cuY29ycmVsYWlkLm9yZy92ZXJhbnN0YWx0dW5nZW4vY29ycmVsY29uLTIwMjQNCkxPQ0FUSU9OOkVpbmVXZWx0SGF1c1wsIFNjaHdhbnRoYWxlcnN0ci4gODAgUkdCXCwgTcO8bmNoZW4NCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://www.correlaid.org/veranstaltungen/correlcon-2024
+* Samstag, 12.10.2024, bis Sonntag, 13.10.2024, Augustusburger Straße 102, Chemnitz: **Interfug 2024: Technikf(|l)u(g|ch)** <a title='Kalendereintrag Interflug' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSClZFUlNJT046Mi4wClBST0RJRDotLy9JbnRlcmZsdWcvL0VOCkJFR0lOOlZFVkVOVApVSUQ6a29udGFrdEBjaGFvc2NoZW1uaXR6LmRlClNVTU1BUlk6SW50ZXJmdWcgMjAyNApEVFNUQVJUO1RaSUQ9RXVyb3BlL0JlcmxpbjoyMDI0MTAxMlQxMjAwMDAKRFRFTkQ7VFpJRD1FdXJvcGUvQmVybGluOjIwMjQxMDEzVDE2MDAwMApERVNDUklQVElPTjpJbnRlcmZ1ZyAyMDI0OiBUZWNobmlrZih8bCl1KGd8Y2gpXG5odHRwczovL2ludGVyZnVnLmRlCkxPQ0FUSU9OOkF1Z3VzdHVzYnVyZ2VyIFN0cmHDn2UgMTAyLCBDaGVtbml0egpMT0NBVElPTjpPbmxpbmUKRU5EOlZFVkVOVApFTkQ6VkNBTEVOREFS">&#x1F4C5;</a>
+  * https://interfug.de
 * Montag, 14.10.2024, bis Sonntag, 27.10.2024: **EU Code Week** <a title='Kalendereintrag EU Code Week' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3V0IGluIHRoZSBPcGVuIFNlcHRlbWJlciAyMDI0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpVSUQ6ZXVjb2Rld2Vla0Bjb2Rld2Vlay5ldQ0KU1VNTUFSWTpFVSBDb2RlIFdlZWsNCkRUU1RBUlQ7VkFMVUU9REFURToyMDI0MTAxNA0KRFRFTkQ7VkFMVUU9REFURToyMDI0MTAyOA0KREVTQ1JJUFRJT046aHR0cHM6Ly9jb2Rld2Vlay5ldVxuaHR0cHM6Ly9jb2Rld2Vlay5ldS9ldmVudHMNCkxPQ0FUSU9OOk9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://codeweek.eu
   * https://codeweek.eu/events
