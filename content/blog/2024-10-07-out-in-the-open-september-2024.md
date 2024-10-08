@@ -249,59 +249,42 @@ Eine neue [Studie](https://www.nature.com/articles/s41586-024-07939-3) beschreib
 303 bisher unbekannte Geoglyphen, riesige Linien- und Reliefzeichnungen in der Nazca-Wüste in Peru, konnten durch Machine Learning [entdeckt werden](https://www.heise.de/news/KI-gestuetzte-Durchmusterung-entdeckt-Hunderte-neue-Nazca-Geoglyphen-9958382.html).
 
 ### Werkzeuge
-* PDF2Audio: Open-Source-KI zur Wandlung von PDF in Podcasts und Zusammenfassungen
-  https://www.unidigital.news/pdf2audio-open-source-ki-zur-wandlung-von-pdf-in-podcasts-und-zusammenfassungen/
-* Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML
-  https://github.com/uber/causalml
-* Fälschung enttarnt: Deepfake-o-Meter macht es einfach, KI-generierte Medien zu erkennen
-  https://t3n.de/news/deepfake-o-meter-erkennt-ki-generierte-medien-1646539/
+Die [Open-Source](https://github.com/lamm-mit/PDF2Audio)-KI [PDF2Audio](https://huggingface.co/spaces/lamm-mit/PDF2Audio) lässt sich, nutzen um PDFs in deutschsprachige Podcasts und weitere Sprachen zu transformieren. [Auch Zusammenfassungen und Vorträge können User erstellen](https://www.unidigital.news/pdf2audio-open-source-ki-zur-wandlung-von-pdf-in-podcasts-und-zusammenfassungen/).
 
-### Entwickler-Unterstützung?
-* Finally it happened to me as well: developers complaining that the behavior of my OSS libraries does not match what ChatGPT explains to them.
-  https://fosstodon.org/users/mcollina/statuses/113091501184997847
-* Study Finds No DevOps Productivity Gains from Generative AI
-  https://devops.com/study-finds-no-devops-productivity-gains-from-generative-ai/
+[Causal Machine Learning](https://www.causalml-book.org/) ist ein Zweig des Machine Learnings, der sich auf Ursache-Wirkungs-Zusammenhänge in Daten konzentriert. [Causal ML](https://github.com/uber/causalml) ist eine entsprechende Bibliothek für Python.
 
-### Missbrauch
-* Full Circle of AI: Massenweise KI-Musik generiert und über Bot-Netzwerk gestreamt um Vergütung dafür einzustreichen
-  https://www.engadget.com/entertainment/streaming/alleged-fraudster-got-10-million-in-royalties-using-robots-to-stream-ai-made-music-162944343.html?guccounter=1
-* LinkedIn scraped user data for training before updating its terms of service
-  https://techcrunch.com/2024/09/18/linkedin-scraped-user-data-for-training-before-updating-its-terms-of-service/
-* Information that used to be free became expensive
-  https://github.com/rspeer/wordfreq/blob/master/SUNSET.md#information-that-used-to-be-free-became-expensive
-  via https://mastodon.social/@voxpelli/113159167203039564
+Das [Deepfake-o-Meter](https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/landing_page) soll die Erkennung KI-generierter Medien [erleichtern](https://t3n.de/news/deepfake-o-meter-erkennt-ki-generierte-medien-1646539/).
+
+### Produktivitäts-Boost durch Github Pilot und Co?
+Eine Studie unter 800 Entwicklern, die in großen Software-Teams arbeiten, hat ergeben, dass die Verwendung von GitHub-Copilot [zu keinen wesentlichen Produktivitätssteigerung geführt haben](https://devops.com/study-finds-no-devops-productivity-gains-from-generative-ai/). So haben Test- und Kontrollgruppe gleich viele Pull-Requests (PRs) in ähnlicher Zeit geschlossen. Der Umfang des geschriebenen Codes nahm zwar zu, dafür enthielten die PRs der Testgruppe 41% mehr Bugs und [CVEs](https://de.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures). Generierter Code muss sorgfältiger durchgesehen werden, mehr Code ist meist auch kein Qualitätsmerkmal, da effizient geschriebener Code meist lesbarer, performanter, wartbarer und weniger fehleranfällig ist. Es ist nicht zu bestreiten, dass die Chat-Tools eine gute Inspirationsquelle sein können und auch Neulingen einen schnellen Einstieg und erste Erfolge ermöglichen. Am Ende sind die Entwickler ihre Organisationen für die Codequalität verantwortlich und nicht die KI, denn sie entscheiden selbst, ob und unter welchen Bedingungen sie solchen Code in ihre Code-Basis aufnehmen.
+
+Und man sollte nicht vergessen, wie die Chatbots funktionieren: was sie nicht in ihrem Datenbestand finden, erfinden sie sich zum Teil neu, indem sie Muster, die sie aus anderen Code-Bibliotheken gelernt haben, auf die angefragte Code-Bibliothek anwenden, obwohl diese das Feature vielleicht (noch) nicht unterstützt [oder anders implementiert hat](https://fosstodon.org/users/mcollina/statuses/113091501184997847).
+
+### Fehlentwicklungen
+In einem beispiellosen Betrugsfall drohen einem Mann in den USA [bis zu 60 Jahre Gefängnis](https://www.engadget.com/entertainment/streaming/alleged-fraudster-got-10-million-in-royalties-using-robots-to-stream-ai-made-music-162944343.html): er hatte massenweise KI-Musik generiert, diese bei Streaming-Diensten hochgeladen, und anschließend über ein Bot-Netzwerk gestreamt, um die Vergütung von den Plattformen dafür einzustreichen, über 10 Millionen US-Dollar seit 2017.
+
+Robyn Speer pflegte mit [wordfreq](https://github.com/rspeer/wordfreq/) eine Python-Bibliothek, die die Wort-Häufigkeiten für verschiedene natürliche Sprachen aus verschiedenen Quellen zusammenträgt (wertvolle Informationen für die Verarbeitung für natürlicher Sprache (NLP)). Pflegte, weil er sich nun im September [entschlossen hat](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md), die Daten nicht weiter zu aktualisieren. Als Gründe nennt er zu einem, dass KI-generierte Inhalte zunehmend die Wortstatistiken verfälschen und zum anderen, weil viele Quellen, die einst kostenlos zugänglich waren, auf Bezahlmodelle umgestellt haben. Zu Kosten, die nur große Unternehmen bereit sein werden zu zahlen.
+
+### Urheberrecht
+Der gemeinnützigen Verein LAION, der eng mit der Firma Stability AI verbandelt ist, darf weiterhin
+urheberrechtlich geschützte Bilder für KI-Training anbieten, da das Landgericht Hamburg im ersten KI-Urheberrechtsprozess in Deutschland [die Klage eines Fotografen abgewiesen hat](https://netzpolitik.org/2024/erster-ki-urheberrechtsprozess-laion-darf-urheberrechtlich-geschuetztes-bild-fuer-ki-training-anbieten/).
+
+In einem Selbstversuch [hat sich herausgestellt](https://www.nzz.ch/schweiz/petra-goessi-macht-den-chatbot-test-klaut-sich-die-ki-ihre-inhalte-etwa-zusammen-ld.1848169), dass die KI-basierte Suchmaschine [Perplexity](https://www.perplexity.ai) rigoros auch Inhalte hinter Bezahlschranken aufsaugt. Die Verlage fürchten, dass niemand mehr bereit sein wird, für Zeitungsabonnements zu zahlen, wenn man so auch an die Inhalte kommen kann.
+
+Für Kristian Köhntopp, ist die Grenze zwischen Menschen gemachten Werk, das urheberrechtlich geschützt ist, und technikgetriebenen Nichtwerk, dass keinem Urheberschutz unterliegt, ist [völlig unklar](https://blog.koehntopp.info/2024/09/29/werk-und-ai.html).
 
 ### Korrektur
-* AI-Washing Is an Opportunity - Can the hype be harnessed to fund public infrastructure projects?
-  https://democracy-technologies.org/opinion/ai-washing-is-an-opportunity/
-* Neue Definition "Open Source AI"
-  https://www.digitaltrends.com/computing/new-open-source-definition-osi-meta-google/
+Dénes Jäger von der Open Knowledge Foundation und Damian Paderta schlagen vor, [geschickt auf der aktuellen KI-Hype-Welle mitzureiten](https://democracy-technologies.org/opinion/ai-washing-is-an-opportunity/), und die Ausschreibungen und Fördermittelprogramme, die eigens für zu entwickelnde KI-Lösungen (für die Verwaltungsmodernisierung) aufgelegt worden sind, so für sich umzubiegen und so weit auszulegen, dass in ihnen die tatsächlich notwendigen Grundlagen geschaffen werden, wie mehr maschinenlesbare Daten und interoperable Standards. Getreu dem Motto: egal, aus welchem Fenster der Kunde das Geld rausschmeißt, Hauptsache man steht mit dem Auffangtuch darunter. Und kann dann sinnvolle Dinge mit den so gewonnenen Ressourcen tun.
 
-## Urheberrecht
-* Erster KI-Urheberrechtsprozess: LAION darf urheberrechtlich geschütztes Bild für KI-Training anbieten
-  https://netzpolitik.org/2024/erster-ki-urheberrechtsprozess-laion-darf-urheberrechtlich-geschuetztes-bild-fuer-ki-training-anbieten/
-* What the hell is an "AI artist"
-  https://blog.koehntopp.info/2024/09/29/werk-und-ai.html
-* Klaut sich die KI ihre Inhalte aus Zeitungen zusammen?
-  https://www.nzz.ch/schweiz/petra-goessi-macht-den-chatbot-test-klaut-sich-die-ki-ihre-inhalte-etwa-zusammen-ld.1848169
+Die aktuelle [Definition von Open Source](https://de.wikipedia.org/wiki/Open_Source_Initiative#Definition_von_Open_Source) würden sowohl [Metas Llama 3.1](https://www.digitaltrends.com/computing/meta-reveals-llama-31-405b-largest-open-source-model-to-date/) und [Googles Gemma](https://blog.google/technology/developers/gemma-open-models/) erfüllen, da sie bewusst wichtige Informationen zurückhalten, wie die Trainingsdaten und den Code für das Training, das es unmöglich macht, die Modelle zu reproduzieren. Daher schlägt die Open Source Initiative (OSI)eine neue Definition ["Open Source AI"](https://www.digitaltrends.com/computing/new-open-source-definition-osi-meta-google/), die eben solche Aspekte auch einfordern.
 
 ## Recap
-* Netzpolitik Bildet Netze
-  Prägehalle: https://www.youtube.com/watch?v=CK6pE4-8kCg
-  Zählhalle: https://www.youtube.com/watch?v=bOmuCthlwrI
-* Datenspuren 2024
-  https://media.ccc.de/c/DS2024
-  * 8 Jahre FOSS Förderung
-    https://www.youtube.com/watch?v=vN5lwwBreIY
-* Münsterhack: Hackathon für Münster
-  https://www.muensterhack.de
-  * https://github.com/codeformuenster/climatems
+Von der [Netzpolitik Bildet Netze Konferenz](https://pretalx.com/netzpolitik-org-2024/schedule/) existieren zwei [zwei](https://www.youtube.com/watch?v=CK6pE4-8kCg) [Livestreams](https://www.youtube.com/watch?v=bOmuCthlwrI).
+Von den [Datenspuren 2024](https://datenspuren.de/2024/) stehen die Videos auf [media.ccc](https://media.ccc.de/c/DS2024), unter anderem auch der Vortrag zu [8 Jahre FOSS Förderung](https://www.youtube.com/watch?v=vN5lwwBreIY).
+Der Abschlusspitch vom [Münsterhack](https://www.muensterhack.de) kann man sich [hier ansehen](https://www.youtube.com/live/OuShG0X0udw). Auch Code for Münster hat [ein Projekt beigesteuert](https://github.com/codeformuenster/climatems).
 
 ## Und sonst so
-* Der 38. Chaos Communication Congress: Illegal Instructions
-  https://www.ccc.de/de/updates/2024/38c3-illegal-instructions
-* Magdeburg StadtratWatch nun mit Sharepic-Funktion für Abstimmungsergebnis
-  https://machteburch.social/@JensWinter/113092185058658506
+Der 38. Chaos Communication Congress (38C3) hat das Thema "Illegal Instructions" und wird vom 27. bis 30. Dezember 2024 im Hamburger CCH [stattfinden](https://events.ccc.de/2024/09/26/38c3-teaser/).
 
 ## Veranstaltungen
 * Dienstag, 01.10.2024, bis Donnerstag, 31.10.2024, online: **Hacktoberfest** <a title='Kalendereintrag Hacktoberfest' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3V0IGluIHRoZSBPcGVuIFNlcHRlbWJlciAyMDI0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpVSUQ6aGFja3RvYmVyZmVzdEBoYWNrdG9iZXJmZXN0LmNvbQ0KU1VNTUFSWTpIYWNrdG9iZXJmZXN0DQpEVFNUQVJUO1ZBTFVFPURBVEU6MjAyNDEwMDENCkRURU5EO1ZBTFVFPURBVEU6MjAyNDExMDENCkRFU0NSSVBUSU9OOmh0dHBzOi8vaGFja3RvYmVyZmVzdC5jb20NCkxPQ0FUSU9OOk9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
@@ -333,7 +316,7 @@ Eine neue [Studie](https://www.nature.com/articles/s41586-024-07939-3) beschreib
   * https://jugendhackt.org/events/schweiz/
 * Freitag, 11.10.2024, bis Sonntag, 13.10.2024, EineWeltHaus, Schwanthalerstr. 80 RGB, München: **CorrelCon 2024** <a title='Kalendereintrag CorrelCon 2024' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3V0IGluIHRoZSBPcGVuIFNlcHRlbWJlciAyMDI0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpVSUQ6Y29ycmVsY29uQGNvcnJlbGFpZC5vcmcNClNVTU1BUlk6Q29ycmVsQ29uIDIwMjQNCkRUU1RBUlQ7VkFMVUU9REFURToyMDI0MTAxMQ0KRFRFTkQ7VkFMVUU9REFURToyMDI0MTAxNA0KREVTQ1JJUFRJT046aHR0cHM6Ly93d3cuY29ycmVsYWlkLm9yZy92ZXJhbnN0YWx0dW5nZW4vY29ycmVsY29uLTIwMjQNCkxPQ0FUSU9OOkVpbmVXZWx0SGF1c1wsIFNjaHdhbnRoYWxlcnN0ci4gODAgUkdCXCwgTcO8bmNoZW4NCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://www.correlaid.org/veranstaltungen/correlcon-2024
-* Samstag, 12.10.2024, bis Sonntag, 13.10.2024, Augustusburger Straße 102, Chemnitz: **Interfug 2024: Technikf(|l)u(g|ch)** <a title='Kalendereintrag Interflug' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSClZFUlNJT046Mi4wClBST0RJRDotLy9JbnRlcmZsdWcvL0VOCkJFR0lOOlZFVkVOVApVSUQ6a29udGFrdEBjaGFvc2NoZW1uaXR6LmRlClNVTU1BUlk6SW50ZXJmdWcgMjAyNApEVFNUQVJUO1RaSUQ9RXVyb3BlL0JlcmxpbjoyMDI0MTAxMlQxMjAwMDAKRFRFTkQ7VFpJRD1FdXJvcGUvQmVybGluOjIwMjQxMDEzVDE2MDAwMApERVNDUklQVElPTjpJbnRlcmZ1ZyAyMDI0OiBUZWNobmlrZih8bCl1KGd8Y2gpXG5odHRwczovL2ludGVyZnVnLmRlCkxPQ0FUSU9OOkF1Z3VzdHVzYnVyZ2VyIFN0cmHDn2UgMTAyLCBDaGVtbml0egpMT0NBVElPTjpPbmxpbmUKRU5EOlZFVkVOVApFTkQ6VkNBTEVOREFS">&#x1F4C5;</a>
+* Samstag, 12.10.2024, bis Sonntag, 13.10.2024, Augustusburger Straße 102, Chemnitz: **Interfug 2024** <a title='Kalendereintrag Interflug' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSClZFUlNJT046Mi4wClBST0RJRDotLy9JbnRlcmZsdWcvL0VOCkJFR0lOOlZFVkVOVApVSUQ6a29udGFrdEBjaGFvc2NoZW1uaXR6LmRlClNVTU1BUlk6SW50ZXJmdWcgMjAyNApEVFNUQVJUO1RaSUQ9RXVyb3BlL0JlcmxpbjoyMDI0MTAxMlQxMjAwMDAKRFRFTkQ7VFpJRD1FdXJvcGUvQmVybGluOjIwMjQxMDEzVDE2MDAwMApERVNDUklQVElPTjpJbnRlcmZ1ZyAyMDI0OiBUZWNobmlrZih8bCl1KGd8Y2gpXG5odHRwczovL2ludGVyZnVnLmRlCkxPQ0FUSU9OOkF1Z3VzdHVzYnVyZ2VyIFN0cmHDn2UgMTAyLCBDaGVtbml0egpMT0NBVElPTjpPbmxpbmUKRU5EOlZFVkVOVApFTkQ6VkNBTEVOREFS">&#x1F4C5;</a>
   * https://interfug.de
 * Montag, 14.10.2024, bis Sonntag, 27.10.2024: **EU Code Week** <a title='Kalendereintrag EU Code Week' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3V0IGluIHRoZSBPcGVuIFNlcHRlbWJlciAyMDI0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpVSUQ6ZXVjb2Rld2Vla0Bjb2Rld2Vlay5ldQ0KU1VNTUFSWTpFVSBDb2RlIFdlZWsNCkRUU1RBUlQ7VkFMVUU9REFURToyMDI0MTAxNA0KRFRFTkQ7VkFMVUU9REFURToyMDI0MTAyOA0KREVTQ1JJUFRJT046aHR0cHM6Ly9jb2Rld2Vlay5ldVxuaHR0cHM6Ly9jb2Rld2Vlay5ldS9ldmVudHMNCkxPQ0FUSU9OOk9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://codeweek.eu
