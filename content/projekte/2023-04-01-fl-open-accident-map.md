@@ -13,10 +13,11 @@ links:
   name: GitHub
 - url: https://unfallatlas.statistikportal.de
   name: Datenquelle
-- url: https://open-accident-map.de
+- url: https://unfallkarte.oklabflensburg.de
   name: Website
 
 collaborators:
+- name: David Bornemann
 - name: Aurelius Wendelken
 
 tags:
