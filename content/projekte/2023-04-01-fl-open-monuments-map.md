@@ -3,7 +3,7 @@ layout: project
 lab: [flensburg]
 imgname: flensburg/screenshot_denkmalschutzliste.jpg
 title: Karte mit denkmalgeschützen Gebäuden in Flensburg
-status: Sucht Replication
+status: Sucht ehrenamtlich Engagierte
 showcase: true
 draft: false
 
