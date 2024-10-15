@@ -3,7 +3,7 @@ layout: project
 lab: [flensburg]
 imgname: flensburg/screenshot_surface_map.jpg
 title: Bodenfläche nach Art der Nutzung
-status: Sucht Mitstreiter
+status: Sucht ehrenamtlich Engagierte
 showcase: true
 draft: false
 

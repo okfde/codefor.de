@@ -3,7 +3,7 @@ layout: project
 lab: [flensburg]
 imgname: flensburg/baumkataster_stadt_flensburg.png
 title: Straßenbäume der Stadt Flensburg
-status: Sucht Mitstreiter
+status: Sucht ehrenamtlich Engagierte
 showcase: true
 draft: false
 
