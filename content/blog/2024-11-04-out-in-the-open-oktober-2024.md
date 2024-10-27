@@ -14,6 +14,8 @@ type: blog
 ## Veranstaltungen
 * 01.11.-03.11., Moers: **Community Hackday**
   * https://www.codeforniederrhein.de/2024/10/09/community-hackday-am-1-3-november-im-juno/
+* 04.11.2024-06.11.2024, Wien: *+MediaWiki Users and Developers Conference 2024**
+  * https://conference.knowledge.wiki/
 * 05.11.2024: Reusing data: Bridging the distance between data consumers and producers
   * https://www.universiteitleiden.nl/en/events/2024/11/reusing-data-bridging-the-
 * Dienstag, 05.11.2024, 14:00-14:45, online: **CorrelCompact: Mission Datenqualität - vom Rohmaterial zum Datengold** <a title='Kalendereintrag CorrelCompact: Mission Datenqualität - vom Rohmaterial zum Datengold' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3V0IGluIHRoZSBPcGVuIFNlcHRlbWJlciAyMDI0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpVSUQ6Y29ycmVsY29tcGFjdGRhdGFAY29ycmVsYWlkLm9yZw0KU1VNTUFSWTpDb3JyZWxDb21wYWN0OiBNaXNzaW9uIERhdGVucXVhbGl0w6R0IC0gdm9tIFJvaG1hdGVyaWFsIHp1bSBEYXRlbmdvbGQNCkRUU1RBUlQ7VFpJRD1FdXJvcGUvQmVybGluOjIwMjQxMTA1VDE0MDAwMA0KRFRFTkQ7VFpJRD1FdXJvcGUvQmVybGluOjIwMjQxMTA1VDE0NDUwMA0KREVTQ1JJUFRJT046aHR0cHM6Ly93d3cuY29ycmVsYWlkLm9yZy92ZXJhbnN0YWx0dW5nZW4vY29ycmVsY29tcGFjdC1kYXRlbnF1YWxpdCVDMyVBNHQNCkxPQ0FUSU9OOk9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
@@ -40,6 +42,8 @@ type: blog
   * https://www.ki-ideenwerkstatt.de/veranstaltungen/festival-der-ki-ideenwerkstatt-fuer-umweltschutz/
 * 12.11.2024: **Open-Data-Netzwerktreffen**
   * https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/das-kommunale-open-data-netzwerktreffen#c222695
+* 13.11.2024, 10:00-12:30: **Aarhus Digital: Public Participation Portals in Environmental Matters**
+  * https://www.ufu.de/aarhus-digital-webinar/
 * 13.11.2024: **Bits und Bäume NRW Vernetzungstreffen**
   * nrw.bits-und-baeume.org/
 * 15.11.-17.11., München: **Jugend hackt**
@@ -48,6 +52,8 @@ type: blog
   * https://datenschule.de/workshops/umweltdatenwerkstatt/  
 * 19.11., 11:30-12:15: **CorrelCompact: Data Storytelling - Daten sprechen lassen!**
   * https://www.correlaid.org/veranstaltungen/correlcompact-datastorytelling
+* 21.11., 19:00-22:00, Kirchgasse 14, Zürich: **Netzpolitischer Abend zu "Datenethik in der Schweiz"**
+  * https://www.digitale-gesellschaft.ch/event/netzpolitischer-abend-zu-datenethik-in-der-schweiz/
 * 23.11.: **OKNRW–Barcamp 2024**
   * https://oknrw.de/veranstaltungen/offene-kommunen-nrw-2024/
 * 25.11., Leipzig: **Workshop umwelt.info**
