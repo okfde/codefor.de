@@ -11,6 +11,134 @@ og_image: out-in-the-open-2024-10-header.jpg
 type: blog
 ---
 
+## Datenvisualisierungen
+* Datawrapper Data Vis Dispatch Sammlungen von Visualisierungen zu Hurrikan Helene, Überschwemmung Europa, Wahlen Österreich / USA und andere Themen
+  https://blog.datawrapper.de/data-vis-dispatch-october-1-2024/
+
+## OpenSource
+* Die OpenInfra Foundation hat Version 2024.2 des Virtualisierers OpenStack freigegeben. Der Exodus von VMware-Kunden hat dem Projekt neuen Schub gegeben.
+  https://www.heise.de/news/Dashboard-und-Funktionen-fuer-KI-Workloads-OpenStack-2024-2-ist-fertig-9959746.html
+  via https://social.heise.de/@heiseonline/113238174598892247
+* Die Open Source Business Alliance schlägt 38 Maßnahmen vor, mit denen eine "Open-Source-getriebene Digitalisierung" gelingen soll.
+  https://osb-alliance.de/wp-content/uploads/2024/06/2024-09-27_Forderungen_Bundestagswahl2025_LR.pdf
+  https://www.heise.de/news/Verband-Verwaltung-muss-ihre-IT-voellig-auf-Open-Source-umstellen-9975720.html
+* Digitale Souveränität vs. Digitale Kolonie – Quo vadis?
+  https://www.datenschutz.rlp.de/themen/podcast/folge-023
+* Navigating open source: discover the ZOOOM project and its new toolkit
+  https://research-and-innovation.ec.europa.eu/research-area/industrial-research-and-innovation/eu-valorisation-policy/knowledge-valorisation-platform/thematic-focus/navigating-open-source-discover-zooom-project-and-its-new-toolkit_en
+
+## OpenHardware
+* Open Hardware zeigt wie transparente und nachhaltige Produkte entwickelt werden können, Circularity ready. Zwei schöne Beispiele haben sich auf der OSHOP-Konferenz in Dresden präsentiert, wie der OSHW MRT opensourceimaging.org der PTB und der Staubsauger OpenCyclone der Hochschule Burg Giebichenstein. Meine Folien zum Workshop "Anreize und Wege zur offenen Kreislaufgesellschaft" finden sich hier: 
+  https://cyber4edu.org/pads/p/KNrZllzQ8#/10
+  https://www.oshop-network.de/konferenz/
+  via https://chaos.social/@mavo/113237612344307454
+* OpenWrt One: Open-Source-Router für 100 Euro
+  https://www.heise.de/news/OpenWrt-One-Open-Source-Router-fuer-100-Euro-9962260.html
+
+## Open Access
+* Die Online-Diskussionsplattform Forum4MICA – ein Angebot der Forschungsdateninfrastruktur
+  https://blog.bildungsserver.de/wir-wollen-wissenschaftlerinnen-und-wissenschaftlern-die-nutzung-von-forschungsdaten-so-einfach-wie-moeglich-machen/
+* OAPEN OA Books Toolkit Relaunch
+  https://www.oapen.org/article/8821857-oapen-oa-books-toolkit-relaunch-press-release
+
+## Citizen Science
+* Die neue Publikation fasst Erfahrungen aus drei Jahren Wettbewerb "Auf die Plätze: Citizen Science in deiner Stadt" zusammen. Die Preisträger*innen teilen ihre Erfahrungen und Erkenntnisse zu Kooperationen zwischen Wissenschaft, Zivilgesellschaft und Kommune.
+  https://www.citizenscience-wettbewerb.de/
+
+## Karten
+* Open Infrastructure Map: Kläranlagen und Trinkwasseraufbereitungsanlagen
+  https://openinframap.org/#7.33/51.059/10.735/L,W
+  via https://en.osm.town/@OpenInfraMap/113274678357024586
+* Wir haben die Biotopkartierung für Schleswig-Holstein aus dem Open-Data Portal geladen und auf eine interaktive Map https://biotopkarte.oklabflensburg.de gebracht.
+  https://biotopkarte.oklabflensburg.de
+  via https://norden.social/@oklabflensburg/113277130760388444
+
+## Transparenz
+* Cuiiliste.de: Wie ein Schüler sich für Transparenz bei Domain-Sperren einsetzt​
+  https://www.heise.de/hintergrund/Warum-ein-Schueler-sich-fuer-mehr-Transparenz-beim-Sperren-von-Domains-einsetzt-9959663.html
+* Orwell wäre stolz: Die EU-Kommission möchte Rüstung als nachhaltig einstufen
+  "jährliches Lobby-Budget von ca. 11-15 Millionen Euro"
+  https://www.lobbycontrol.de/lobbyismus-in-der-eu/waffenlobby-ruestung-soll-als-nachhaltig-eingestuft-werden-117574/
+
+## Verkehr
+* Mobilitätsdatengesetz kommt: Das neue Gesetz soll die Bereitstellung von Verkehrsdaten erleichtern. Unter anderem können bald Bus, Bahn oder Carsharing zentral gebucht werden.
+  https://taz.de/Mobilitaetsdatengesetz-kommt/!6040563/
+  * Mobilitätsdaten für alle: Bundesregierung legt Gesetz vor​
+    https://www.heise.de/news/Freie-Daten-ueber-Verkehrsmittel-Regierung-schickt-Gesetz-an-Bundestag-9961335.html
+  * Daten und Verkehr sollen besser fließen
+    https://www.golem.de/news/gesetzentwurf-beschlossen-daten-und-verkehr-sollen-besser-fliessen-2410-189478.html
+* Von in Bosten umleitungfahrenden Busfahrern sollen gemeldete Abbiegerestriktionen zügig in OpenStreetMap nachgepflegt werden 
+  https://www.mbta.com/news/2024-10-01/mbta-launches-nextgen-bus-navigation-pilot-program-operations-employees-use-new
+  via https://sueden.social/@nakaner/113253418999451149
+* In den Niederlanden sind in einer Datenbank alle aufgestellten Verkehrsschilder erfasste
+  https://wegkenmerken.ndw.nu/verkeersborden
+  via https://fosstodon.org/@bert_hubert/113249692343843880
+* Greenpeace: Ein Straßenbaulobby-Geflecht aus Unternehmen, Verbänden & Politik blockiert die Verkehrswende
+  https://www.fr.de/wirtschaft/im-netz-der-asphalt-lobby-93338988.html
+  https://www.greenpeace.de/publikationen/asphalt-statt-alternativen
+  via https://greenpeace.social/@gpinvestigativ/113253595383186721
+  siehe auch https://climatejustice.global/users/GermanZeroHH/statuses/113254773474194633
+  siehe auch https://mstdn.social/@dadamsda/113255407190035891
+* Bürger pinseln sich Zebrastreifen
+  https://chaos.social/@Andreas/113264713544108962
+  * im Thread der Hinweis auf: What to do When Your City Won't Fix Things: guerrilla urbanism, aka tactical urbanism
+    https://www.youtube.com/watch?v=mMomhNmOJH0
+* mFUND-Konferenz 2024: Open Data für neue Geschäftsmodelle in der Mobilität
+  TODO: Auswertung
+  https://www.mfund-konferenz.de/
+
+## Energie
+* Erneuerbare Energien treiben Wirtschaftswachstum voran! Rekordzuwachs an Arbeitsplätzen in 2024:
+  * 16,2 Millionen Jobs weltweit
+  * 1,4 Millionen neue Stellen in der EU, vor allem in Deutschland
+  * https://www.irena.org/Publications/2024/Oct/Renewable-energy-and-jobs-Annual-review-2024
+  * via https://mastodon.green/@GreenPlanet_nrg/113265953751949099
+
+## Klima
+* Süßwasservorräte schwinden weltweit
+  https://science.orf.at/stories/3227019/
+* Neue Bundeswaldinventur: Warum der Wald als Klimaschützer ausfallen wird
+  https://www.spektrum.de/news/neue-bundeswaldinventur-wald-ist-zur-kohlenstoffquelle-geworden/2235791
+  * Abgesang auf die Holzäcker
+    https://www.klimareporter.de/erdsystem/abgesang-auf-die-holzaecker
+* Eine neue Hinweiskarte zeigt, wo in Schleswig-Holstein Überflutungen durch Starkregen drohen.
+  https://www.ndr.de/nachrichten/schleswig-holstein/Starkregen-Neue-Karte-zeigt-wo-Ueberflutungen-in-SH-moeglich-sind,starkregen632.html
+* Neuer Klimareport: Auf 2,7-Grad-Kurs
+  35 sogenannte planetare Lebenszeichen hat ein Forscherteam untersucht, das Ergebnis ist ernüchternd: Mehr als zwei Drittel zeigen einen negativen Rekord an. 
+  https://www.tagesschau.de/wissen/klima/bericht-planetare-lebenszeichen-100.html
+  * Report vor der UN-Klimakonferenz zeigt drastische Daten
+    https://www.fr.de/wissen/drastische-daten-report-vor-der-un-klimakonferenz-zeigt-zr-93344125.html
+* Städtebauförderung trägt maßgeblich zu Klimaschutz und Anpassung an den Klimawandel bei
+  https://www.oeko.de/news/aktuelles/staedtebaufoerderung-traegt-massgeblich-zu-klimaschutz-und-anpassung-an-den-klimawandel-bei/
+
+## Rückwärtssprechende Esel
+* Wikipedia now needs to have a "WikiProject AI Cleanup".  They should send Sam Altman a massive bill for all their extra, unnecessary work.
+  https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup
+  via https://tldr.nettime.org/@festal/113243136033103324
+* WikiChat, the new LLM integration for MediaWiki
+  https://www.semantic-mediawiki.org/wiki/MediaWiki_Users_and_Developers_Conference_Fall_2024/WikiChat
+  https://github.com/stanford-oval/wikichat
+  via https://wikis.world/@MWStake/113274015055700798
+* Die VG Wort möchte, dass ich meine journalistischen Texte Unternehmen und Behörden übergebe, wenn sie diese für "Anwendungen der KI" brauchen. Man muss explizit widersprechen
+  https://social.heise.de/@dborch/113264920915086138
+* Nach Colorado verabschiedet jetzt auch Kalifornien ein Gesetz, das die Gehirndaten von Verbrauchern schützen soll. 
+  https://www.heise.de/news/Verbraucherschutz-Kalifornien-verabschiedet-Gesetz-fuer-Schutz-neuronaler-Daten-9963640.html
+* Massive E-Learning Platform Udemy Gave Teachers a Gen AI 'Opt-Out Window'. It's Already Over.
+  "Retraining LLMs repeatedly to eliminate undesirable knowledge is impractical due to their immense parameters.”
+  https://www.404media.co/massive-e-learning-platform-udemy-gave-teachers-a-gen-ai-opt-out-window-its-already-over/
+* On the (im)possibility of sustainable artificial intelligence
+  * "Stop unformation gathering": Strategie begegnen, Maßnahmen zu verzögern, weil man angeblich noch nicht genug Daten hätte 
+  * "similarly usable results can be achieved using conventional and lightweight non-AI data processing methods, such as traditional statistics"
+  * "LLMs are largely used for misinformation, surveillance, and desire creation "
+  * https://policyreview.info/articles/news/impossibility-sustainable-artificial-intelligence/1804
+
+## Datenräumeträume
+* Datenstrategie für Österreich vorgelegt
+  https://www.data.gv.at/2024/10/03/datenstrategie-fuer-oesterreich-vorgelegt-datenzugangsgesetz-in-begutachtung/
+* Hinweis auf "Die Logik der Daten nutzen: fortschrittliche Datenstrategien entwickeln" (von 2022)
+  https://www.oeffentliche-it.de/documents/10181/14412/Die+Logik+der+Daten+nutzen+-+Fortschrittliche+Datenstrategien+entwickeln
+  via https://mastodon.online/@kejan/113248799616913491
+
 ## Veranstaltungen
 * 01.11.-03.11., Moers: **Community Hackday**
   * https://www.codeforniederrhein.de/2024/10/09/community-hackday-am-1-3-november-im-juno/
