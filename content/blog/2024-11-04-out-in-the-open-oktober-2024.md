@@ -14,6 +14,30 @@ type: blog
 ## Datenvisualisierungen
 * Datawrapper Data Vis Dispatch Sammlungen von Visualisierungen zu Hurrikan Helene, Überschwemmung Europa, Wahlen Österreich / USA und andere Themen
   https://blog.datawrapper.de/data-vis-dispatch-october-1-2024/
+* New: Arrow maps
+  https://blog.datawrapper.de/arrow-maps/
+
+# OpenData
+* Mathias Begoin vom Leibniz-Informationszentrum Technik und Naturwissenschaften und Universitätsbibliothek gibt eine kurze Einführung in Open Data:
+  https://openbiblio.social/@tibhannover/113316713238664992
+* Die Nobelpreisträger John Jumper und Demis Hassabis haben als Grundlage für ihr KI-Modell AlphaFold2 die offene Protein-Datenbank genutzt, welche die globale wissenschaftliche Zusammenarbeit seit 1971 dokumentiert. Der Datensatz ist unter CC Zero lizensiert. 
+  Ohne offene Daten hätte es diesen Nobelpreis also vermutlich nicht gegeben. Auf jeden Fall unterstreicht es die zentrale Bedeutung offener Daten für den menschlichen Fortschritt!
+  https://social.wikimedia.de/@wikimediaDE/113289185672828510
+* LODinG widmet sich dem Einsatz von Linked Open Data (LOD) in den Geisteswissenschaften, mit einem Schwerpunkt auf den Sprach-, Literatur-, Kultur- und Medienwissenschaften.
+  https://tcdh.uni-trier.de/de/projekt/loding
+  via https://openbiblio.social/@ULB_MS_FachInfo/113304642814695442
+* das opendata-forum von opendatabund ist öffentlich zu zugänglich
+  https://discourse.opencode.de/c/opendata/755
+  via https://chaos.social/@jk/113322621065197151
+* Gibt es so etwas wie die USDA FoodData Central Datenbanken auch aus Deutschland? Bisher finde ich die "Bundeslebensmittelschlüssel" (BLS) Datenbank vom Max Rubner-Institut, und die ist nicht Open Data
+  https://gruene.social/@marian/113374000941685718
+
+## Parlamentsdaten
+* jetzt wird's wild. Bei https://www.stadtratwatch.de können Redebeiträge jetzt nachgelesen werden.
+  https://machteburch.social/@JensWinter/113312847820837484
+* We are collaboratively building an open standard and API for harmonized Swiss parliamentary data to promote transparency, innovation and participation in Swiss politics.
+  https://opendata.ch/projects/openparldata/
+  via https://mastodon.social/@florihas/113317900531884310
 
 ## OpenSource
 * Die OpenInfra Foundation hat Version 2024.2 des Virtualisierers OpenStack freigegeben. Der Exodus von VMware-Kunden hat dem Projekt neuen Schub gegeben.
@@ -26,6 +50,28 @@ type: blog
   https://www.datenschutz.rlp.de/themen/podcast/folge-023
 * Navigating open source: discover the ZOOOM project and its new toolkit
   https://research-and-innovation.ec.europa.eu/research-area/industrial-research-and-innovation/eu-valorisation-policy/knowledge-valorisation-platform/thematic-focus/navigating-open-source-discover-zooom-project-and-its-new-toolkit_en
+* Prototype Fund - Infoletter #54
+  https://te917244a.emailsys1a.net/mailing/172/7848524/0/96df1248cc/index.html
+* Bandwagon - open source alternative zu Bandcamp
+  https://bandwagon.fm
+  via https://mastodon.social/@benpate/113329706664197636
+* 38 Maßnahmen für eine zukunftsfähige und Open-Source-getriebene Digitalisierung von Wirtschaft und Verwaltung
+  https://osb-alliance.de/verbands-news/38-massnahmen-fuer-zukunftsfaehige-digitalisierung
+* Sovereign Cloud Stack (SCS) wird nachhaltig abgesichert
+  https://osb-alliance.de/featured/sovereign-cloud-stack-scs-wird-nachhaltig-abgesichert
+* A decade of open source: German state Schleswig-Holstein's path to digital sovereignt
+  https://nextcloud.com/blog/nextcloud-in-government-insights-from-sven-thomsen-schleswig-holsteins-cio/
+  via https://mastodon.xyz/@nextcloud/113356442315774412
+
+## OZG
+* Erfrischend dazu der Bundesrechnungshof zum Onlinezugangsgesetz: "Damit sind 95 Prozent der EfA-Lösungen, die der Bund vollständig finanziert hat, größtenteils nur in einem Land oder einer Kommune im Einsatz oder sogar Investitionsruinen"
+  https://www.heise.de/news/Bundesrechnungshof-Schonungsloser-Bericht-zum-Status-der-digitalen-Verwaltung-9985872.html
+  via https://mastodon.social/users/bkastl/statuses/113329653483830008
+* Digitalisierung der Verwaltung: Bremen fordert eine Revolution
+  National Once Only Technical System (NOOTS), Once-Only-Prinzip
+  https://www.heise.de/news/Digitalisierung-der-Verwaltung-Bremen-fordert-eine-Revolution-9989705.html
+  * Registermodernisierung: IT-Planungsrat erarbeitet Rechtsgrundlage für "Mammutprojekt"
+    https://netzpolitik.org/2024/registermodernisierung-it-planungsrat-erarbeitet-rechtsgrundlage-fuer-mammutprojekt/
 
 ## OpenHardware
 * Open Hardware zeigt wie transparente und nachhaltige Produkte entwickelt werden können, Circularity ready. Zwei schöne Beispiele haben sich auf der OSHOP-Konferenz in Dresden präsentiert, wie der OSHW MRT opensourceimaging.org der PTB und der Staubsauger OpenCyclone der Hochschule Burg Giebichenstein. Meine Folien zum Workshop "Anreize und Wege zur offenen Kreislaufgesellschaft" finden sich hier: 
@@ -35,15 +81,36 @@ type: blog
 * OpenWrt One: Open-Source-Router für 100 Euro
   https://www.heise.de/news/OpenWrt-One-Open-Source-Router-fuer-100-Euro-9962260.html
 
+## OpenRepair
+* The rise of community repair: new report and new dataset from the Open Repair Alliance
+  https://openrepair.org/repair-data/the-rise-of-community-repair-new-report-and-new-dataset-from-the-open-repair-alliance/
+  https://openrepair.org/open-data/insights/2024-report/
+  * "Die größten Hindernisse für die Durchführung von Reparaturen sind nach wie vor der Mangel an verfügbaren Ersatzteilen oder deren hoher Preis, die Unzugänglichkeit der Produkte (sie lassen sich nicht öffnen) und fehlende Reparaturinformationen."
+    https://mastodon.online/@oldperl/113350560195702307
+* Interactive dashboard showing the latest Open Repair Data statistics
+  https://metabase.openrepair.org/public/dashboard/b78d4576-24bc-4b74-b619-99a157d07296?tab=4-repair-attempts&product_category=&country=&event_date=
+  via https://mstdn.social/@zenlan/113316242602737744
+* Licht ins Dunkel deutscher Reparaturpolitik
+  https://okfn.de/blog/2024/10/licht-ins-dunkel-deutscher-reparaturpolitik/
+
 ## Open Access
 * Die Online-Diskussionsplattform Forum4MICA – ein Angebot der Forschungsdateninfrastruktur
   https://blog.bildungsserver.de/wir-wollen-wissenschaftlerinnen-und-wissenschaftlern-die-nutzung-von-forschungsdaten-so-einfach-wie-moeglich-machen/
 * OAPEN OA Books Toolkit Relaunch
   https://www.oapen.org/article/8821857-oapen-oa-books-toolkit-relaunch-press-release
+* Coding@Home bietet Ihnen eine Sammlung aus kurzen Videos, DIY-Materialien, Puzzles, Spielen und Kodierungs-Challenges, die ganz einfach zu Hause mit der Familie oder in der Schule genutzt/durchgeführt werden können. 
+  https://codeweek.eu/resources/CodingAtHome
+  * passend dazu auch: https://programmieren.wdrmaus.de/welcome
+* Open Science als Glücksfaktor: Mehr Zufriedenheit durch Kooperation und Selbstbestimmung
+  https://open-science-future.zbw.eu/open-science-gluecksfaktor-zufriedenheit-kooperation-selbstbestimmung/
+* ZDF goes Bildung: Bildung neu gedacht mit freien Creative-Commons-Lizenzen
+  https://blog.wikimedia.de/2024/10/22/bildung-neu-gedacht-mit-freien-creative-commons-lizenzen/
 
 ## Citizen Science
 * Die neue Publikation fasst Erfahrungen aus drei Jahren Wettbewerb "Auf die Plätze: Citizen Science in deiner Stadt" zusammen. Die Preisträger*innen teilen ihre Erfahrungen und Erkenntnisse zu Kooperationen zwischen Wissenschaft, Zivilgesellschaft und Kommune.
   https://www.citizenscience-wettbewerb.de/
+* Der "Wegweiser #CitizenScience" der AG Netzwerk Region West bietet Tipps & Methoden zu den Themen Partizipation, Teilnehmende, Motivation, Bürokratie und Evaluation. Jetzt kostenlos als Download verfügbar: 
+  https://zenodo.org/records/13148678
 
 ## Karten
 * Open Infrastructure Map: Kläranlagen und Trinkwasseraufbereitungsanlagen
@@ -52,6 +119,25 @@ type: blog
 * Wir haben die Biotopkartierung für Schleswig-Holstein aus dem Open-Data Portal geladen und auf eine interaktive Map https://biotopkarte.oklabflensburg.de gebracht.
   https://biotopkarte.oklabflensburg.de
   via https://norden.social/@oklabflensburg/113277130760388444
+* Vergleich OSM und Overture Kartenqualität
+  https://surprisedatespot.com/blog/comparing-overture-osm-restaurants/
+* Shoogle ist ein Gemeinschaftsprojekt, um aktuelle Informationen zu den Einkaufsmöglichkeiten in Deutschland allen zur Verfügung zu stellen.
+  https://de.shoogle.net
+  via https://chaos.social/@midzer/113328056977615611
+  * via https://anonsys.net/display/bf69967c-1567-1516-5f33-f68866075773
+  * im Thread
+    * Every Door
+      https://every-door.app
+    * Open Stop
+      https://openstop.app
+* Georeferenzierungsprojekt der ZB
+  https://www.zb.uzh.ch/de/ueber-uns/citizen-science/prachtsatlanten-2-sprung-ins-18-jahrhundert
+  via https://openbiblio.social/@zbzuerich/113350405661266530
+* Funklochkarte erweitert: Jetzt mit mehr Informationen
+  https://www.heise.de/news/Funklochkarte-erweitert-Jetzt-mit-mehr-Informationen-9991686.html
+* Ich habe für jede Gemeinde in Deutschland eine Webseite generiert mit Angaben aus dem Zensus 2022
+  https://wahlatlas.net/experimente/zensus2022/
+  via https://norden.social/@wahlatlas/113362979201428877
 
 ## Transparenz
 * Cuiiliste.de: Wie ein Schüler sich für Transparenz bei Domain-Sperren einsetzt​
@@ -59,6 +145,22 @@ type: blog
 * Orwell wäre stolz: Die EU-Kommission möchte Rüstung als nachhaltig einstufen
   "jährliches Lobby-Budget von ca. 11-15 Millionen Euro"
   https://www.lobbycontrol.de/lobbyismus-in-der-eu/waffenlobby-ruestung-soll-als-nachhaltig-eingestuft-werden-117574/
+* Diese Nebeneinkünfte haben die Abgeordneten im Bundestag
+  https://www.abgeordnetenwatch.de/recherchen/nebentaetigkeiten/diese-nebeneinkuenfte-haben-die-abgeordneten-im-bundestag
+* Drehtüreffekt bei EU-Kommission: Lobby-Wächter kritisieren Beamtenwechsel zu Microsoft
+  https://netzpolitik.org/2024/drehtuereffekt-bei-eu-kommission-lobby-waechter-kritisieren-beamtenwechsel-zu-microsoft/
+* Lobbycontrol: Big Tech beeinflusst Debatte um Digital Markets Act
+  https://www.heise.de/news/Lobbycontrol-Big-Tech-beeinflusst-Debatte-um-Digital-Markets-Act-9997395.html
+* Nach gut drei Jahren liegt kein Entwurf für das versprochene Bundestransparenzgesetz vor. Die verantwortliche Ministerin lässt das zur "Privatsache" erklären.
+  https://www.heise.de/news/BMI-Transparenzgesetz-Privatsache-der-Ministerin-9997761.html
+* LNG-Terminals und das Wasserstoff-Narrativ
+  https://www.lobbycontrol.de/lobbyismus-und-klima/lng-terminals-und-das-wasserstoff-narrativ-117934/
+
+## Databroker
+* Die Cookiefalle 1/4: Der Pakt mit dem Werbeteufel
+  https://www.srf.ch/audio/news-plus-hintergruende/die-cookiefalle-1-4-der-pakt-mit-dem-werbeteufel?id=12668999
+* Locate X: Die verstörend leichte Massenüberwachung mit Standortdaten
+  https://netzpolitik.org/2024/locate-x-die-verstoerend-leichte-massenueberwachung-mit-standortdaten/
 
 ## Verkehr
 * Mobilitätsdatengesetz kommt: Das neue Gesetz soll die Bereitstellung von Verkehrsdaten erleichtern. Unter anderem können bald Bus, Bahn oder Carsharing zentral gebucht werden.
@@ -86,6 +188,20 @@ type: blog
 * mFUND-Konferenz 2024: Open Data für neue Geschäftsmodelle in der Mobilität
   TODO: Auswertung
   https://www.mfund-konferenz.de/
+* Neue StVO in Kraft - VCD Stellungnahme
+  https://www.vcd.org/fileadmin/user_upload/Redaktion/Publikationsdatenbank/Verkehrspolitik/VCD_Stellungnahme_zum_neuen_Strassenverkehrsrecht.pdf
+  https://www.buzer.de/gesetz/10526/v318192-2024-10-11.htm
+  via https://mstdn.social/@VCDeV/113288802208187280
+* Der aktuelle Pendleratlas weist für die bayerische Landeshauptstadt 525.000 Einpendler im Jahr 2023 aus
+  https://www.zeit.de/news/2024-10/16/immer-mehr-pendler-muenchen-bleibt-bundesweite-nummer-eins
+  https://pendleratlas.de
+  https://pendleratlas.statistikportal.de
+  https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Interaktive-Statistiken/Pendleratlas/Pendleratlas-Nav.html
+* Night Train Map in Europe (2024)
+  https://back-on-track.eu/night-train-map/
+  https://fosstodon.org/@hywan/113338411773654890
+* OSM Hack Weekend October 2024
+  https://volkerkrause.eu/2024/10/26/osm-hack-weekend-october-2024.html
 
 ## Energie
 * Erneuerbare Energien treiben Wirtschaftswachstum voran! Rekordzuwachs an Arbeitsplätzen in 2024:
@@ -93,6 +209,16 @@ type: blog
   * 1,4 Millionen neue Stellen in der EU, vor allem in Deutschland
   * https://www.irena.org/Publications/2024/Oct/Renewable-energy-and-jobs-Annual-review-2024
   * via https://mastodon.green/@GreenPlanet_nrg/113265953751949099
+* Open Energy Tracker
+  https://openenergytracker.org/en/docs/germany/prices/#negative-prices
+  via https://social.tchncs.de/users/wpschill/statuses/113313678017620904
+* NFDI4Energy
+  https://www.nfdi.de/konsortien-nfdi4energy/
+  https://orkg.org
+  https://projects.tib.eu/datamanager/
+  via https://openbiblio.social/@tibhannover/113316922231815805
+* Die Zahl der Jobs in der Branche der erneuerbaren Energien ist einer Studie zufolge weltweit deutlich gewachsen. 2023 gab es in diesem Bereich mindestens 16,2 Millionen Arbeitsplätze, 18 Prozent mehr als im Jahr davor.
+  via https://mastodon.social/@tazgetroete/113374982544091850
 
 ## Klima
 * Süßwasservorräte schwinden weltweit
@@ -110,6 +236,17 @@ type: blog
     https://www.fr.de/wissen/drastische-daten-report-vor-der-un-klimakonferenz-zeigt-zr-93344125.html
 * Städtebauförderung trägt maßgeblich zu Klimaschutz und Anpassung an den Klimawandel bei
   https://www.oeko.de/news/aktuelles/staedtebaufoerderung-traegt-massgeblich-zu-klimaschutz-und-anpassung-an-den-klimawandel-bei/
+* Unwetter Frankreich
+  https://www.tagesschau.de/ausland/europa/unwetter-frankreich-124.html
+* ARD-Aktion #unsereFlüsse: Großteil untersuchter Bäche verfehlt EU-Umweltziele
+  https://correctiv.org/aktuelles/kampf-um-wasser/2024/10/21/ard-aktion-unserefluesse-grossteil-untersuchter-baeche-verfehlt-eu-umweltziele/
+* Wo die Welt beim Klimaschutz steht
+  https://www.sueddeutsche.de/projekte/artikel/wissen/klimawandel-2100-treibhauseffekt-emissions-gap-report-1-5-grad-ziel-e318597/?reduced=true
+* A mindblowing set of images of what the flood in #Valencia looks like from space - images of the same region from 8 and 30 October 
+  https://www.esa.int/ESA_Multimedia/Images/2024/10/Valencia_flood_disaster
+  via https://mastodon.social/@vicgrinberg/113401906134419631
+  * Tödliche Sturzfluten: Spanien sucht nach Vermissten – und nach Schuldigen
+    https://www.spiegel.de/panorama/spanien-nach-den-sturzfluten-rettungskraefte-suchen-nach-vermissten-und-schuldigen-a-bb276967-40fb-47ab-98c1-d2d183aebf17?sara_ref=re-so-app-sh
 
 ## Rückwärtssprechende Esel
 * Wikipedia now needs to have a "WikiProject AI Cleanup".  They should send Sam Altman a massive bill for all their extra, unnecessary work.
@@ -119,6 +256,8 @@ type: blog
   https://www.semantic-mediawiki.org/wiki/MediaWiki_Users_and_Developers_Conference_Fall_2024/WikiChat
   https://github.com/stanford-oval/wikichat
   via https://wikis.world/@MWStake/113274015055700798
+* Could making Wikidata 'human' readable lead to better AI?
+  https://www.buzzsprout.com/2265960/episodes/15888577
 * Die VG Wort möchte, dass ich meine journalistischen Texte Unternehmen und Behörden übergebe, wenn sie diese für "Anwendungen der KI" brauchen. Man muss explizit widersprechen
   https://social.heise.de/@dborch/113264920915086138
 * Nach Colorado verabschiedet jetzt auch Kalifornien ein Gesetz, das die Gehirndaten von Verbrauchern schützen soll. 
@@ -131,6 +270,37 @@ type: blog
   * "similarly usable results can be achieved using conventional and lightweight non-AI data processing methods, such as traditional statistics"
   * "LLMs are largely used for misinformation, surveillance, and desire creation "
   * https://policyreview.info/articles/news/impossibility-sustainable-artificial-intelligence/1804
+* Job-Abbau
+  * KI bedroht jeden zweiten Arbeitsplatz im Bankensektor
+    https://www.telepolis.de/features/KI-bedroht-jeden-zweiten-Arbeitsplatz-im-Bankensektor-9977296.html
+  * Radiosender ersetzt Moderatoren durch KI
+    https://www1.wdr.de/kultur/kulturnachrichten/radio-moderatoren-ersetzt-durch-ki-avatare-polen-100.html
+    https://www.heise.de/news/Polnischer-Radiosender-laesst-Texte-und-Moderation-per-KI-erstellen-9994573.html
+  * Tiktok setzt bei Inhaltemoderation auf KI und wirft hunderte Mitarbeiter raus
+    https://www.heise.de/news/Tiktok-setzt-bei-Inhaltemoderation-auf-KI-und-wirft-hunderte-Mitarbeiter-raus-9978680.html
+  * KI im Journalismus: Kreisliga-Fußball überfordert künstliche Intelligenz
+    https://www.telepolis.de/features/Kreisliga-Fussball-ueberfordert-kuenstliche-Intelligenz-9978964.html
+  * AI replacing designers
+    https://oslo.town/@matt/113329963120078397
+  * Illustratoren
+    https://troet.cafe/@verocomics/113366258503313314
+  * Lehrer?
+    https://netzpolitik.org/2024/kultusministerkonferenz-mit-kuenstlicher-intelligenz-gegen-die-bildungsmisere/
+  * Soziale Interaktion
+    https://intouch.family/en
+    via https://social.lol/@sophie/113338832358048532
+  * Tourismus / Influencer
+    https://www.indiskretionehrensache.de/2024/10/emma-influencerin-dtz/
+    https://www.indiskretionehrensache.de/2024/10/emma-virtueller-influencer/
+    via https://chaos.social/@Villeroy@nrw.social/113345990073604082
+* Supercharged by AI: A new creative intervention about the effects of AI on our online lives
+  https://tacticaltech.org/news/project-launches/supercharged-by-ai-effects/
+* Schwarz Digits und Deutsche Bahn verkünden Gründung des DataHub Europe mit starken Medien- und KI-Partnern
+  https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Schwarz-Digits-und-DB-verkuenden-Gruendung-des-DataHub-Europe-13109540
+* Open-Access AI: Lessons From Open-Source Software
+  https://www.lawfaremedia.org/article/open-access-ai--lessons-from-open-source-software
+* KI-Technik könnte Elektroschrott-Menge steigen lassen
+  https://www.heise.de/news/KI-Technik-koennte-Elektroschrott-Menge-steigen-lassen-9997283.html
 
 ## Datenräumeträume
 * Datenstrategie für Österreich vorgelegt
@@ -138,55 +308,91 @@ type: blog
 * Hinweis auf "Die Logik der Daten nutzen: fortschrittliche Datenstrategien entwickeln" (von 2022)
   https://www.oeffentliche-it.de/documents/10181/14412/Die+Logik+der+Daten+nutzen+-+Fortschrittliche+Datenstrategien+entwickeln
   via https://mastodon.online/@kejan/113248799616913491
+* Digitalgipfel: Datenschutz und Datennutzung "neu justieren"
+  https://www.heise.de/news/Digitalgipfel-Die-grosse-Datenhoffnung-9989043.html
+
+## Überwachung
+* „Sicherheitspaket“ mit biometrischer Massenüberwachung: Die Ampel ist bankrott
+  https://www.ccc.de/de/updates/2024/sicherheitspaket
+  * Die Fortschrittskoalition ist tot
+    https://netzpolitik.org/2024/sicherheitspaket-die-fortschrittskoalition-ist-tot/
+
+## Recap
+* Bits & Bäume Herbstabend: Wem gehört das Internet? Keynotes von Francesca Bria und Esther M'wema
+  https://www.youtube.com/watch?app=desktop&v=zSAcnSKw-jQ
+* Digitalgipfel
+  * Tag 1: https://www.youtube.com/watch?v=mmMT81C38Wc
+  * Tag 2: https://www.youtube.com/watch?v=qqxmweZsqqc
+* The Tech We Want
+  * Tag 1: https://youtube.com/live/o50Jd1w6xKw
+  * Tag 2: https://youtube.com/live/V7Sxo0IXe8g
+* 12 Jahre Wikidata – wir feiern mit!
+  https://temporaerhaus.de/12-jahre-wikidata/
+
+## CCC Verkaufstermine
+* drei offene Verkaufstermine: https://tickets.events.ccc.de/38c3/
+  * 2024-11-12, Dienstag, 20:00 Uhr (CET)
+  * 2024-11-17, Sonntag, 16:00 Uhr (CET)
+  * 2024-11-23, Samstag, 11:00 Uhr (CET)
+
+## Und sonst so?
+* Das beliebte Kinderbuch "Ada & Zangemann – Eine Geschichte von Software, Skateboards und Himbeereis" gibt's jetzt auch als Animationsfilm
+  https://fsfe.org/activities/ada-zangemann//movie
+  https://media.fsfe.org/w/j1c6LQVZ8qnCLLwpXMuw3M
+  via https://social.wikimedia.de/@wikimediaDE/113283003919951896
 
 ## Veranstaltungen
-* 01.11.-03.11., Moers: **Community Hackday**
+* Freitag, 01.11.2024, 10:00, bis Sonntag, 03.11.2024, 20:00, Jugendzentrum Nord, Lintforter Straße 132, 47445 Moers: **Community Hackday**
   * https://www.codeforniederrhein.de/2024/10/09/community-hackday-am-1-3-november-im-juno/
-* 04.11.2024-06.11.2024, Wien: *+MediaWiki Users and Developers Conference 2024**
+* Montag, 04.11.2024, 10:30, bis Mittwoch, 06.11.2024, 13:30, Wiener Stadt- und Landesarchiv, Gasometer D, Guglgasse 14, 1110 Wien und auch online: **MediaWiki Users and Developers Conference 2024**
   * https://conference.knowledge.wiki/
-* 05.11.2024: Reusing data: Bridging the distance between data consumers and producers
-  * https://www.universiteitleiden.nl/en/events/2024/11/reusing-data-bridging-the-
-* Dienstag, 05.11.2024, 14:00-14:45, online: **CorrelCompact: Mission Datenqualität - vom Rohmaterial zum Datengold** <a title='Kalendereintrag CorrelCompact: Mission Datenqualität - vom Rohmaterial zum Datengold' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3V0IGluIHRoZSBPcGVuIFNlcHRlbWJlciAyMDI0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpVSUQ6Y29ycmVsY29tcGFjdGRhdGFAY29ycmVsYWlkLm9yZw0KU1VNTUFSWTpDb3JyZWxDb21wYWN0OiBNaXNzaW9uIERhdGVucXVhbGl0w6R0IC0gdm9tIFJvaG1hdGVyaWFsIHp1bSBEYXRlbmdvbGQNCkRUU1RBUlQ7VFpJRD1FdXJvcGUvQmVybGluOjIwMjQxMTA1VDE0MDAwMA0KRFRFTkQ7VFpJRD1FdXJvcGUvQmVybGluOjIwMjQxMTA1VDE0NDUwMA0KREVTQ1JJUFRJT046aHR0cHM6Ly93d3cuY29ycmVsYWlkLm9yZy92ZXJhbnN0YWx0dW5nZW4vY29ycmVsY29tcGFjdC1kYXRlbnF1YWxpdCVDMyVBNHQNCkxPQ0FUSU9OOk9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+* Dienstag, 05.11.2024, 09:30-17:30, Academy Building, Raum Telders, Rapenburg 73, 2311 GJ Leiden: **Reusing data: Bridging the distance between data consumers and producers**
+  * https://www.universiteitleiden.nl/en/events/2024/11/reusing-data-bridging-the-distance-between-data-consumers-and-producers
+* Dienstag, 05.11.2024, 14:00-14:45, online: **CorrelCompact: Mission Datenqualität - vom Rohmaterial zum Datengold**
   * https://www.correlaid.org/veranstaltungen/correlcompact-datenqualit%C3%A4t
-* 5.11., 15-17: **Civic Data Lab - Mit Daten überzeugen: Wirkung erfolgreich kommunizieren**
+* Dienstag, 05.11.2024, 15:00-17:00, online: **Civic Data Lab - Mit Daten überzeugen: Wirkung erfolgreich kommunizieren**
   * https://www.correlaid.org/veranstaltungen/cdl-wirkung-kommunizieren
-* 6.11., 15-18: **Civic Data Lab - Gemeinsam Machen 3: Infos und Beratung fürs Ankommen in Deutschland: Faktenbasiert, Vernetzt, Lösungsorientiert**
+* Dienstag, 05.11.2024, 20:00, cbase, Rungestraße 20, 10179 Berlin und auch online: **Civic Data Lab - Mit Daten überzeugen: Wirkung erfolgreich kommunizieren**
+  * https://digitalegesellschaft.de/2024/10/141-netzpolitischer-abend/
+* Mittwoch, 06.11.2024, 15:00-18:00, online: **Civic Data Lab - Gemeinsam Machen 3: Infos und Beratung fürs Ankommen in Deutschland: Faktenbasiert, Vernetzt, Lösungsorientiert**
   * https://www.correlaid.org/veranstaltungen/cdl-gemeinsam-machen-3
-* 7.11.: AI Conference: Mit Künstlicher Intelligenz zu mehr Nachhaltigkeit?
+* Donnerstag, 07.11.2024, 09:00-17:30, Zukunft – Umwelt – Gesellschaft (ZUG) gGmbH, Stresemannstraße 69-71, 10963 Berlin: **AI Conference: Mit Künstlicher Intelligenz zu mehr Nachhaltigkeit?**
   * https://www.ki-ideenwerkstatt.de/veranstaltungen/ai-conference-mit-kuenstlicher-intelligenz-zu-mehr-nachhaltigkeit/
-* 7.11.: **Jugend editiert**
+* Donnerstag, 07.11.2024, 18:00-21:00, WikiBär, Köpenicker Straße 45, 10179 Berlin: **Jugend editiert**
   * https://www.wikimedia.de/veranstaltungen/jugend-editiert/
-* Freitag, 08.11.2024, 10:00-17:00, Moritzbastei, Kurt-Masur-Platz 1, Leipzig: **Public Service Lab Day 2024** <a title='Kalendereintrag Public Service Lab Day 2024' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3V0IGluIHRoZSBPcGVuIFNlcHRlbWJlciAyMDI0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpVSUQ6cHVibGljc2VydmljZWxhYkBldmVudGJyaXRlLmRlDQpTVU1NQVJZOlB1YmxpYyBTZXJ2aWNlIExhYiBEYXkgMjAyNA0KRFRTVEFSVDtUWklEPUV1cm9wZS9CZXJsaW46MjAyNDExMDhUMTAwMDAwDQpEVEVORDtUWklEPUV1cm9wZS9CZXJsaW46MjAyNDExMDhUMTcwMDAwDQpERVNDUklQVElPTjpodHRwczovL3d3dy5ldmVudGJyaXRlLmRlL2UvcHVibGljLXNlcnZpY2UtbGFiLWRheS0yMDI0LXRpY2tldHMtOTQxOTE3NTY5ODA3DQpMT0NBVElPTjpNb3JpdHpiYXN0ZWlcLCBLdXJ0LU1hc3VyLVBsYXR6IDFcLCBMZWlwemlnDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+* Freitag, 08.11.2024, 10:00-17:00, Moritzbastei, Kurt-Masur-Platz 1, 04109 Leipzig: **Public Service Lab Day 2024**
   * https://www.eventbrite.de/e/public-service-lab-day-2024-tickets-941917569807
-* 8.11 - 9.11.: **Nights of Open Knowledge (NooK)**
+* Freitag, 08.11.2024, 18:00, bis Samstag, 09.11.2024, 22:45, Audimax der Uni Lübeck, Mönkhofer Weg 245, 23562 Lübeck: **Nights of Open Knowledge (NooK)**
   * https://events.ccc.de/2024/07/17/nook/
-* 11.11., 19-22: **Code for Berlin**
+* Montag, 11.11.2024, 19:00-22:00, WikiBär, Köpenicker Straße 45, 10179 Berlin: **Code for Berlin**
   * https://www.meetup.com/ok-lab-berlin/events/304012491/
-* 11.11.2024, 19:00: Impact Hub, Kaiserstr 97, Karlsruhe: **Code for Karlsruhe** 
+* Montag, 11.11.2024, 19:00-21:00, Impact Hub, Kaiserstr 97, 76131 Karlsruhe: **Code for Karlsruhe**
   * https://ok-lab-karlsruhe.de/mitmachen/#schedule
-* 12.11., 12-12:45: **Civic Data Lab - Espresso Talk: Your Emotional City**
+* Dienstag, 12.11.2024, 12:00-12:45, online: **Civic Data Lab - Espresso Talk: Your Emotional City**
   * https://www.correlaid.org/veranstaltungen/cdl-espressotalk-staedte
-* 12.11.: **Festival der KI-Ideenwerkstatt für Umweltschutz**
+* Dienstag, 12.11.2024, 14:00-21:00, KINDL - Zentrum für zeitgenössische Kunst GmbH, Am Sudhaus 3, 12053 Berlin: **Festival der KI-Ideenwerkstatt für Umweltschutz**
   * https://www.ki-ideenwerkstatt.de/veranstaltungen/festival-der-ki-ideenwerkstatt-fuer-umweltschutz/
-* 12.11.2024: **Open-Data-Netzwerktreffen**
+* Dienstag, 12.11.2024, 10:00-11:30, online: **Open-Data-Netzwerktreffen**
   * https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/das-kommunale-open-data-netzwerktreffen#c222695
-* 13.11.2024, 10:00-12:30: **Aarhus Digital: Public Participation Portals in Environmental Matters**
+* Mittwoch, 13.11.2024, 10:00-12:30, online: **Aarhus Digital: Public Participation Portals in Environmental Matters**
   * https://www.ufu.de/aarhus-digital-webinar/
-* 13.11.2024: **Bits und Bäume NRW Vernetzungstreffen**
-  * nrw.bits-und-baeume.org/
-* 15.11.-17.11., München: **Jugend hackt**
+* Mittwoch, 13.11.2024, 10:30-17:30, Unperfekthaus Essen, Friedrich-Ebert-Straße 18-20, 45127 Essen: **Bits und Bäume NRW Vernetzungstreffen**
+  * https://nrw.bits-und-baeume.org
+* Freitag, 15.11.2024, 15:00, bis Sonntag, 17.11.2024, 16:30, Amerikahaus, Karolinenplatz 3, 80333 München: **Jugend hackt**
   * https://jugendhackt.org/events/muenchen/
-* 16.11.-17.11., Hannover: **Umweltdatenwerkstatt**
-  * https://datenschule.de/workshops/umweltdatenwerkstatt/  
-* 19.11., 11:30-12:15: **CorrelCompact: Data Storytelling - Daten sprechen lassen!**
+* Samstag, 16.11.2024, bis Sonntag, 17.11.2024, Hannover: **Umweltdatenwerkstatt**
+  * https://datenschule.de/workshops/umweltdatenwerkstatt/
+* Dienstag, 19.11.2024, 11:30-12:15, online: **CorrelCompact: Data Storytelling - Daten sprechen lassen!**
   * https://www.correlaid.org/veranstaltungen/correlcompact-datastorytelling
-* 21.11., 19:00-22:00, Kirchgasse 14, Zürich: **Netzpolitischer Abend zu "Datenethik in der Schweiz"**
+* Donnerstag, 21.11.2024, 19:00-22:00, Karl der Grosse, Kirchgasse 14, 8001 Zürich: **Netzpolitischer Abend zu "Datenethik in der Schweiz"**
   * https://www.digitale-gesellschaft.ch/event/netzpolitischer-abend-zu-datenethik-in-der-schweiz/
-* 23.11.: **OKNRW–Barcamp 2024**
+* Samstag, 23.11.2024, 09:00-16:30, Bergische Volkshochschule, Auer Schulstraße 20, 42103 Wuppertal: **OKNRW–Barcamp 2024**
   * https://oknrw.de/veranstaltungen/offene-kommunen-nrw-2024/
-* 25.11., Leipzig: **Workshop umwelt.info**
+* Montag, 25.11.2024, 17:00-21:00, Anwendungslabor für Künstliche Intelligenz und Big Data am Umweltbundesamt, Alte Messe 6, 04103 Leipzig: **Workshop umwelt.info, Teil 1**
   * https://mvp.umwelt.info/sites/default/files/2024-10/Einladung_Workshop_umwelt.info_Leipzig.pdf
-* 3.12., 14:00-14:45: **CorrelCompact: Diskriminierung durch Daten und Algorithmen**
+* Montag, 02.12.2024, 17:00-21:00, Anwendungslabor für Künstliche Intelligenz und Big Data am Umweltbundesamt, Alte Messe 6, 04103 Leipzig: **Workshop umwelt.info, Teil 2**
+  * https://mvp.umwelt.info/sites/default/files/2024-10/Einladung_Workshop_umwelt.info_Leipzig.pdf
+* Dienstag, 03.12.2024, 14:00-14:45, online: **CorrelCompact: Diskriminierung durch Daten und Algorithmen**
   * https://www.correlaid.org/veranstaltungen/correlcompact-datenethik
 * Regelmäßige OKLab-Treffen
   * Flensburg: jeden Mittwoch, 18:00, Aktivitetshuset, Hinterhaus, Norderstraße 49, Flensburg <a title='Kalendereintrag Code for Flensburg - Weekly Meetup' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3V0IGluIHRoZSBPcGVuIFNlcHRlbWJlciAyMDI0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpVSUQ6ZmxlbnNidXJnQGNvZGVmb3IuZGUNClNVTU1BUlk6Q29kZSBmb3IgRmxlbnNidXJnIC0gV2Vla2x5IE1lZXR1cA0KUlJVTEU6RlJFUT1XRUVLTFk7QllEQVk9V0UNCkRUU1RBUlQ7VFpJRD1FdXJvcGUvQmVybGluOjIwMjQxMDAyVDE4MDAwMA0KRFRFTkQ7VFpJRD1FdXJvcGUvQmVybGluOjIwMjQxMDAyVDIwMDAwMA0KREVTQ1JJUFRJT046aHR0cHM6Ly9jb2RlZm9yLmRlL2ZsZW5zYnVyZy8NCkxPQ0FUSU9OOkFrdGl2aXRldHNodXNldFwsIEhpbnRlcmhhdXNcLCBOb3JkZXJzdHJhw59lIDQ5XCwgRmxlbnNidXJnDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
@@ -201,5 +407,9 @@ type: blog
     * https://www.codeforniederrhein.de/termine/
 
 ## Call for participation
+* Die Einreichung eines Beitrags für die #FOSSGIS2025 ist noch bis zum 05.11.2024 möglich.
+  * https://fossgis-konferenz.de/2025/callforpapers/
+* 38C3-Community-Bühnen – Call for Participation, bis 16.11.2024
+  * https://events.ccc.de/2024/10/27/38c3-community-stages-cfp/
 * **NIAM 2025**, Einreichungen bis 25.11.2024 möglich
   * https://pretalx.news-infographics-analytics-maps.media/2025/cfp
