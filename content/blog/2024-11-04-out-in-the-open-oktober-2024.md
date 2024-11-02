@@ -17,7 +17,7 @@ type: blog
 * New: Arrow maps
   https://blog.datawrapper.de/arrow-maps/
 
-# OpenData
+## OpenData
 * Mathias Begoin vom Leibniz-Informationszentrum Technik und Naturwissenschaften und Universitätsbibliothek gibt eine kurze Einführung in Open Data:
   https://openbiblio.social/@tibhannover/113316713238664992
 * Die Nobelpreisträger John Jumper und Demis Hassabis haben als Grundlage für ihr KI-Modell AlphaFold2 die offene Protein-Datenbank genutzt, welche die globale wissenschaftliche Zusammenarbeit seit 1971 dokumentiert. Der Datensatz ist unter CC Zero lizensiert. 
@@ -29,8 +29,19 @@ type: blog
 * das opendata-forum von opendatabund ist öffentlich zu zugänglich
   https://discourse.opencode.de/c/opendata/755
   via https://chaos.social/@jk/113322621065197151
+* Lizenzen und Glaubensfragen um Lizenzen
+  https://bva.bund.de/SharedDocs/Downloads/DE/Behoerden/Beratung/OpenData/SCCON24_Wikimedia_CC-Lizenzen.pdf?__blob=publicationFile
+* Open Data Kompass
+  https://bva.bund.de/SharedDocs/Downloads/DE/Behoerden/Beratung/OpenData/SCCON24_BMDV_OD-Kompass.pdf?__blob=publicationFile
+* Open Data institutionalisieren
+  https://bva.bund.de/SharedDocs/Downloads/DE/Behoerden/Beratung/OpenData/SCCON24_RKI_OD-Service.pdf?__blob=publicationFile
 * Gibt es so etwas wie die USDA FoodData Central Datenbanken auch aus Deutschland? Bisher finde ich die "Bundeslebensmittelschlüssel" (BLS) Datenbank vom Max Rubner-Institut, und die ist nicht Open Data
   https://gruene.social/@marian/113374000941685718
+* Kompakkt und Semantic Kompakkt – eine zukunftssichere Alternative für 3D-Modelle
+  Kompakkt statt SketchFab
+  https://blog.tib.eu/2024/09/24/kompakkt-und-semantic-kompakkt-eine-zukunftssichere-alternative-fuer-3d-modelle-und-kulturerbe-institutionen/
+  https://semantic-kompakkt.de/home
+
 
 ## Parlamentsdaten
 * jetzt wird's wild. Bei https://www.stadtratwatch.de können Redebeiträge jetzt nachgelesen werden.
@@ -43,9 +54,11 @@ type: blog
 * Die OpenInfra Foundation hat Version 2024.2 des Virtualisierers OpenStack freigegeben. Der Exodus von VMware-Kunden hat dem Projekt neuen Schub gegeben.
   https://www.heise.de/news/Dashboard-und-Funktionen-fuer-KI-Workloads-OpenStack-2024-2-ist-fertig-9959746.html
   via https://social.heise.de/@heiseonline/113238174598892247
-* Die Open Source Business Alliance schlägt 38 Maßnahmen vor, mit denen eine "Open-Source-getriebene Digitalisierung" gelingen soll.
-  https://osb-alliance.de/wp-content/uploads/2024/06/2024-09-27_Forderungen_Bundestagswahl2025_LR.pdf
-  https://www.heise.de/news/Verband-Verwaltung-muss-ihre-IT-voellig-auf-Open-Source-umstellen-9975720.html
+* 38 Maßnahmen für eine zukunftsfähige und Open-Source-getriebene Digitalisierung von Wirtschaft und Verwaltung
+  https://osb-alliance.de/verbands-news/38-massnahmen-fuer-zukunftsfaehige-digitalisierung
+  * Die Open Source Business Alliance schlägt 38 Maßnahmen vor, mit denen eine "Open-Source-getriebene Digitalisierung" gelingen soll.
+    https://osb-alliance.de/wp-content/uploads/2024/06/2024-09-27_Forderungen_Bundestagswahl2025_LR.pdf
+    https://www.heise.de/news/Verband-Verwaltung-muss-ihre-IT-voellig-auf-Open-Source-umstellen-9975720.html
 * Digitale Souveränität vs. Digitale Kolonie – Quo vadis?
   https://www.datenschutz.rlp.de/themen/podcast/folge-023
 * Navigating open source: discover the ZOOOM project and its new toolkit
@@ -55,11 +68,9 @@ type: blog
 * Bandwagon - open source alternative zu Bandcamp
   https://bandwagon.fm
   via https://mastodon.social/@benpate/113329706664197636
-* 38 Maßnahmen für eine zukunftsfähige und Open-Source-getriebene Digitalisierung von Wirtschaft und Verwaltung
-  https://osb-alliance.de/verbands-news/38-massnahmen-fuer-zukunftsfaehige-digitalisierung
 * Sovereign Cloud Stack (SCS) wird nachhaltig abgesichert
   https://osb-alliance.de/featured/sovereign-cloud-stack-scs-wird-nachhaltig-abgesichert
-* A decade of open source: German state Schleswig-Holstein's path to digital sovereignt
+* A decade of open source: German state Schleswig-Holstein's path to digital sovereignty
   https://nextcloud.com/blog/nextcloud-in-government-insights-from-sven-thomsen-schleswig-holsteins-cio/
   via https://mastodon.xyz/@nextcloud/113356442315774412
 
@@ -67,6 +78,8 @@ type: blog
 * Erfrischend dazu der Bundesrechnungshof zum Onlinezugangsgesetz: "Damit sind 95 Prozent der EfA-Lösungen, die der Bund vollständig finanziert hat, größtenteils nur in einem Land oder einer Kommune im Einsatz oder sogar Investitionsruinen"
   https://www.heise.de/news/Bundesrechnungshof-Schonungsloser-Bericht-zum-Status-der-digitalen-Verwaltung-9985872.html
   via https://mastodon.social/users/bkastl/statuses/113329653483830008
+* Innovation braucht Infrastruktur
+  https://background.tagesspiegel.de/smart-city-und-stadtentwicklung/briefing/innovation-braucht-infrastruktur
 * Digitalisierung der Verwaltung: Bremen fordert eine Revolution
   National Once Only Technical System (NOOTS), Once-Only-Prinzip
   https://www.heise.de/news/Digitalisierung-der-Verwaltung-Bremen-fordert-eine-Revolution-9989705.html
@@ -98,13 +111,19 @@ type: blog
   https://blog.bildungsserver.de/wir-wollen-wissenschaftlerinnen-und-wissenschaftlern-die-nutzung-von-forschungsdaten-so-einfach-wie-moeglich-machen/
 * OAPEN OA Books Toolkit Relaunch
   https://www.oapen.org/article/8821857-oapen-oa-books-toolkit-relaunch-press-release
-* Coding@Home bietet Ihnen eine Sammlung aus kurzen Videos, DIY-Materialien, Puzzles, Spielen und Kodierungs-Challenges, die ganz einfach zu Hause mit der Familie oder in der Schule genutzt/durchgeführt werden können. 
-  https://codeweek.eu/resources/CodingAtHome
-  * passend dazu auch: https://programmieren.wdrmaus.de/welcome
 * Open Science als Glücksfaktor: Mehr Zufriedenheit durch Kooperation und Selbstbestimmung
   https://open-science-future.zbw.eu/open-science-gluecksfaktor-zufriedenheit-kooperation-selbstbestimmung/
 * ZDF goes Bildung: Bildung neu gedacht mit freien Creative-Commons-Lizenzen
   https://blog.wikimedia.de/2024/10/22/bildung-neu-gedacht-mit-freien-creative-commons-lizenzen/
+
+## Open Access - Programmieren lernen
+* Coding@Home bietet Ihnen eine Sammlung aus kurzen Videos, DIY-Materialien, Puzzles, Spielen und Kodierungs-Challenges, die ganz einfach zu Hause mit der Familie oder in der Schule genutzt/durchgeführt werden können. 
+  https://codeweek.eu/resources/CodingAtHome
+  * passend dazu auch: https://programmieren.wdrmaus.de/welcome
+* Das beliebte Kinderbuch "Ada & Zangemann – Eine Geschichte von Software, Skateboards und Himbeereis" gibt's jetzt auch als Animationsfilm
+  https://fsfe.org/activities/ada-zangemann//movie
+  https://media.fsfe.org/w/j1c6LQVZ8qnCLLwpXMuw3M
+  via https://social.wikimedia.de/@wikimediaDE/113283003919951896
 
 ## Citizen Science
 * Die neue Publikation fasst Erfahrungen aus drei Jahren Wettbewerb "Auf die Plätze: Citizen Science in deiner Stadt" zusammen. Die Preisträger*innen teilen ihre Erfahrungen und Erkenntnisse zu Kooperationen zwischen Wissenschaft, Zivilgesellschaft und Kommune.
@@ -138,6 +157,8 @@ type: blog
 * Ich habe für jede Gemeinde in Deutschland eine Webseite generiert mit Angaben aus dem Zensus 2022
   https://wahlatlas.net/experimente/zensus2022/
   via https://norden.social/@wahlatlas/113362979201428877
+* Wikidata Guessr
+  https://guessr.blinry.org
 
 ## Transparenz
 * Cuiiliste.de: Wie ein Schüler sich für Transparenz bei Domain-Sperren einsetzt​
@@ -202,6 +223,8 @@ type: blog
   https://fosstodon.org/@hywan/113338411773654890
 * OSM Hack Weekend October 2024
   https://volkerkrause.eu/2024/10/26/osm-hack-weekend-october-2024.html
+* Große Unterschiede in Europa: Wo Elektroautos boomen – und wo sie ein Nischenprodukt sind
+  https://www.spiegel.de/auto/auto-kaufen-wo-elektroautos-boomen-und-wo-sie-ein-nischenprodukt-sind-a-dbf3cb3a-35ad-42f6-ab50-d9d4badec4a9
 
 ## Energie
 * Erneuerbare Energien treiben Wirtschaftswachstum voran! Rekordzuwachs an Arbeitsplätzen in 2024:
@@ -219,6 +242,8 @@ type: blog
   via https://openbiblio.social/@tibhannover/113316922231815805
 * Die Zahl der Jobs in der Branche der erneuerbaren Energien ist einer Studie zufolge weltweit deutlich gewachsen. 2023 gab es in diesem Bereich mindestens 16,2 Millionen Arbeitsplätze, 18 Prozent mehr als im Jahr davor.
   via https://mastodon.social/@tazgetroete/113374982544091850
+* Lernmaterialien zu klimaneutralen Quartieren (positive energy districts (PED))
+  https://www.pedlearning.eu/courses
 
 ## Klima
 * Süßwasservorräte schwinden weltweit
@@ -247,6 +272,8 @@ type: blog
   via https://mastodon.social/@vicgrinberg/113401906134419631
   * Tödliche Sturzfluten: Spanien sucht nach Vermissten – und nach Schuldigen
     https://www.spiegel.de/panorama/spanien-nach-den-sturzfluten-rettungskraefte-suchen-nach-vermissten-und-schuldigen-a-bb276967-40fb-47ab-98c1-d2d183aebf17?sara_ref=re-so-app-sh
+* Faktencheck Artenvielfalt veröffentlicht
+  https://www.feda.bio/de/pressemitteilungen/faktencheck-artenvielfalt-veroeffentlicht/
 
 ## Rückwärtssprechende Esel
 * Wikipedia now needs to have a "WikiProject AI Cleanup".  They should send Sam Altman a massive bill for all their extra, unnecessary work.
@@ -301,6 +328,17 @@ type: blog
   https://www.lawfaremedia.org/article/open-access-ai--lessons-from-open-source-software
 * KI-Technik könnte Elektroschrott-Menge steigen lassen
   https://www.heise.de/news/KI-Technik-koennte-Elektroschrott-Menge-steigen-lassen-9997283.html
+* "VGWort ändert ihre Verträge mit Autor*innen und hat jetzt eine "KI-Lizenz" und möchte Eure Werke jetzt benutzen, um generative KI damit zu füttern"
+  https://news.vgwort.de/online.php?u=6Tq9WGt2361
+  https://www.vgwort.de/fileadmin/vg-wort/pdf/Veroeffentlichungen/Wortreport/Fragen_und_Antworten_zur_neuen_KI_Vergleichsfassung_2024_10_19_final.pdf
+  https://www.podcast.de/episode/644261353/vg-wort-und-die-ki-lizenz-was-hat-das-zu-bedeuten-interview-mit-nina-george
+  via https://systemli.social/@anneroth/113265785508980072
+* Klimafaktor KI: Der versteckte Energiehunger moderner Algorithmen
+  https://civic-data.de/klimafaktor-ki/
+* Trees and land absorbed almost no CO2 last year. Is nature’s carbon sink failing?
+  https://www.theguardian.com/environment/2024/oct/14/nature-carbon-sink-collapse-global-heating-models-emissions-targets-evidence-aoe
+* Global E-Waste Monitor 2024
+  https://globalewaste.org
 
 ## Datenräumeträume
 * Datenstrategie für Österreich vorgelegt
@@ -328,6 +366,7 @@ type: blog
   * Tag 2: https://youtube.com/live/V7Sxo0IXe8g
 * 12 Jahre Wikidata – wir feiern mit!
   https://temporaerhaus.de/12-jahre-wikidata/
+* SCC / OpenData
 
 ## CCC Verkaufstermine
 * drei offene Verkaufstermine: https://tickets.events.ccc.de/38c3/
@@ -335,11 +374,9 @@ type: blog
   * 2024-11-17, Sonntag, 16:00 Uhr (CET)
   * 2024-11-23, Samstag, 11:00 Uhr (CET)
 
-## Und sonst so?
-* Das beliebte Kinderbuch "Ada & Zangemann – Eine Geschichte von Software, Skateboards und Himbeereis" gibt's jetzt auch als Animationsfilm
-  https://fsfe.org/activities/ada-zangemann//movie
-  https://media.fsfe.org/w/j1c6LQVZ8qnCLLwpXMuw3M
-  via https://social.wikimedia.de/@wikimediaDE/113283003919951896
+## Weiteres
+* temporaerhaus - Monatsrückblick September 2024 – ein Jahr am neuen Ort!
+  https://temporaerhaus.de/ein-jahr-am-neuen-ort/
 
 ## Veranstaltungen
 * Freitag, 01.11.2024, 10:00, bis Sonntag, 03.11.2024, 20:00, Jugendzentrum Nord, Lintforter Straße 132, 47445 Moers: **Community Hackday**
