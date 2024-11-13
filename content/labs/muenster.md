@@ -12,7 +12,6 @@ members:
 
 - name: Gerald Pape
   username_github: ubergesundheit
-  username_twitter: ubergesundheit
 
 - name: Tobias Bradtke
   username_github: webwurst
@@ -29,23 +28,18 @@ members:
 
 - name: Thomas Terstiege
   username_github: silberzwiebel
-  username_twitter: krtfflslt
 
 links:
 - name: Webseite
   url: https://codeformuenster.org/
   top: true
 
-- name: Twitter
-  url: https://twitter.com/codeformuenster
+- name: Mattermost
+  url: https://muenster.im/@codeformuenster
   top: true
 
 - name: Meetup
-  url: https://meetup.com/OK-Lab-Munster/
-  top: true
-
-- name: GetTogether
-  url: https://gettogether.community/code-for-m%C3%BCnster/
+  url: https://www.meetup.com/de-DE/code-for-munster/
   top: true
 
 - name: Open Data Day Zusammenfassung 2018
@@ -72,4 +66,4 @@ leads:
 
 Als eines der eher technischen Labs dreht es sich bei uns vor allem eher darum, wie man eine solide und offene Basis für Open Data-Anwendungen aller Art herstellen kann.
 
-Bei unseren wöchentlichen offenen Treffen bieten wir allen Interessierten die Möglichkeit zum Erlernen verschiedenster IT-Kenntnisse und zum Umgang mit offenen Daten. Vor allem aber lernt man bei uns die eigenen Fähigkeiten mit viel Leidenschaft für einen guten Zweck einzusetzen.
+Bei unseren offenen Treffen alle zwei Wochen bieten wir allen Interessierten die Möglichkeit zum Erlernen verschiedenster IT-Kenntnisse und zum Umgang mit offenen Daten. Vor allem aber lernt man bei uns die eigenen Fähigkeiten mit viel Leidenschaft für einen guten Zweck einzusetzen.
