@@ -22,7 +22,7 @@ collaborators:
   links:
   - url: https://github.com/ErikOrtmann
     name: github
-- name: Lisa-Marie Steckel
+- name: Lisa Marie Steckel
   links:
   - url: https://github.com/vrifox
     name: github
