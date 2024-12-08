@@ -112,23 +112,14 @@ Richtig viele Daten bekommt man in den Niederlanden, dort sind [in einer Datenba
 Volker Krause [berichtet von seinem Besuch](https://volkerkrause.eu/2024/10/26/osm-hack-weekend-october-2024.html) beim OSM Hack Weekend in Karlsruhe.
 
 ## Energie
-* Erneuerbare Energien treiben Wirtschaftswachstum voran! Rekordzuwachs an Arbeitsplätzen in 2024:
-  * 16,2 Millionen Jobs weltweit
-  * 1,4 Millionen neue Stellen in der EU, vor allem in Deutschland
-  * https://www.irena.org/Publications/2024/Oct/Renewable-energy-and-jobs-Annual-review-2024
-  * via https://mastodon.green/@GreenPlanet_nrg/113265953751949099
-* Open Energy Tracker
-  https://openenergytracker.org/en/docs/germany/prices/#negative-prices
-  via https://social.tchncs.de/users/wpschill/statuses/113313678017620904
-* NFDI4Energy
-  https://www.nfdi.de/konsortien-nfdi4energy/
-  https://orkg.org
-  https://projects.tib.eu/datamanager/
-  via https://openbiblio.social/@tibhannover/113316922231815805
-* Die Zahl der Jobs in der Branche der erneuerbaren Energien ist einer Studie zufolge weltweit deutlich gewachsen. 2023 gab es in diesem Bereich mindestens 16,2 Millionen Arbeitsplätze, 18 Prozent mehr als im Jahr davor.
-  via https://mastodon.social/@tazgetroete/113374982544091850
-* Lernmaterialien zu klimaneutralen Quartieren (positive energy districts (PED))
-  https://www.pedlearning.eu/courses
+Laut [einer Studie](https://www.irena.org/Publications/2024/Oct/Renewable-energy-and-jobs-Annual-review-2024) 
+gab es 2023 weltweit [mindestens 16,2 Millionen Arbeitsplätze](https://mastodon.green/@GreenPlanet_nrg/113265953751949099) im Bereich der Erneuerbaren Energien ([18% mehr als ein Jahr zuvor](https://mastodon.social/@tazgetroete/113374982544091850)), davon 1,4 Millionen neue Stellen in der EU, vor allem in Deutschland. 
+
+Beim [Open Energy Tracker](https://openenergytracker.org/), einer Open-Data-Plattform vom DIW Berlin zum Überwachen und Visualisieren von energiepolitischen Zielen, kann man unter anderem nachvollziehen, [wie häufig negative Energiepreise auftreten](https://social.tchncs.de/users/wpschill/statuses/113313678017620904).
+
+Um den Herausforderungen bei der Energiesystemforschung zu begegnen, stellt die [Nationale Forschungsdateninfrastruktur für Energie (NFDI4Energy)](https://www.nfdi.de/konsortien-nfdi4energy/) Forschungsdatenmanagement-Ansätze anderer NFDI-Konsortien auf, und passt diese an die Bedürfnisse der eigenen Forschungscommunity an. Mit dem [Leibniz-Data-Manager](https://projects.tib.eu/datamanager/) lassen sich digitale Forschungsobjekte [erfassen, referenzieren und speichern](https://openbiblio.social/@tibhannover/113316922231815805). Dazu ist er mit dem [Open Research Knowledge Graph](https://orkg.org) integriert.
+
+[PED-Learning](https://www.pedlearning.eu/courses) stellt Lernmaterialien zu klimaneutralen Quartieren (positive energy districts (PED)) bereit.
 
 ## Klima
 * Süßwasservorräte schwinden weltweit
