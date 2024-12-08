@@ -35,48 +35,29 @@ Die Virtualisierungsplattform [OpenStack wird ebenso aktiv weiterentwickelt](htt
 
 Passend dazu diskutieren im [Datenfunk-Podcast](https://www.datenschutz.rlp.de/themen/podcast/folge-023) der Landesbeauftragte für Datenschutz in Rheinland-Pfalz, Prof. Dr. Dieter Kugelmann, mit Philipp Richter und Prof. Wehnes über Lock-in-Effekte, digitale Kolonien, nachhaltige IT und weitere Aspekte digitaler Souveränität.
 
-* A decade of open source: German state Schleswig-Holstein's path to digital sovereignty
-  https://nextcloud.com/blog/nextcloud-in-government-insights-from-sven-thomsen-schleswig-holsteins-cio/
-  via https://mastodon.xyz/@nextcloud/113356442315774412
-* Navigating open source: discover the ZOOOM project and its new toolkit
-  https://research-and-innovation.ec.europa.eu/research-area/industrial-research-and-innovation/eu-valorisation-policy/knowledge-valorisation-platform/thematic-focus/navigating-open-source-discover-zooom-project-and-its-new-toolkit_en
-* Prototype Fund - Infoletter #54
-  https://te917244a.emailsys1a.net/mailing/172/7848524/0/96df1248cc/index.html
-* Bandwagon - open source alternative zu Bandcamp
-  https://bandwagon.fm
-  via https://mastodon.social/@benpate/113329706664197636
+In einem weiterem Podcast [reflektiert Sven Thomsen](https://nextcloud.com/blog/nextcloud-in-government-insights-from-sven-thomsen-schleswig-holsteins-cio/), Schleswig-Holsteins CIO, wie in den letzten 10 Jahren Open-Source-Lösungen das Bundesland digital souveräner gemacht haben.  
 
-## OZG
-* Erfrischend dazu der Bundesrechnungshof zum Onlinezugangsgesetz: "Damit sind 95 Prozent der EfA-Lösungen, die der Bund vollständig finanziert hat, größtenteils nur in einem Land oder einer Kommune im Einsatz oder sogar Investitionsruinen"
-  https://www.heise.de/news/Bundesrechnungshof-Schonungsloser-Bericht-zum-Status-der-digitalen-Verwaltung-9985872.html
-  via https://mastodon.social/users/bkastl/statuses/113329653483830008
-* Innovation braucht Infrastruktur
-  https://background.tagesspiegel.de/smart-city-und-stadtentwicklung/briefing/innovation-braucht-infrastruktur
-* Digitalisierung der Verwaltung: Bremen fordert eine Revolution
-  National Once Only Technical System (NOOTS), Once-Only-Prinzip
-  https://www.heise.de/news/Digitalisierung-der-Verwaltung-Bremen-fordert-eine-Revolution-9989705.html
-  * Registermodernisierung: IT-Planungsrat erarbeitet Rechtsgrundlage für "Mammutprojekt"
-    https://netzpolitik.org/2024/registermodernisierung-it-planungsrat-erarbeitet-rechtsgrundlage-fuer-mammutprojekt/
+Zum Abschluss der 3-jährigen Laufzeit hat das europäische Forschungsprojekt [ZOOM](https://zooom4u.eu) seinen neuen [Werkzeugkasten](https://zooom4u.eu/index.php/toolkit/) vorgestellt. Die drei Os im Projektnamen stehen für Open Source Software, Open Hardware und Open Data. Die [entstandenen Handreichungen](https://research-and-innovation.ec.europa.eu/research-area/industrial-research-and-innovation/eu-valorisation-policy/knowledge-valorisation-platform/thematic-focus/navigating-open-source-discover-zooom-project-and-its-new-toolkit_en) sollen Politiker, Gründer und Forscher befähigen, richtige Entscheidungen bei der Adaption zu treffen, hinsichtlich Auswahl geeigneter Lizenzmodelle, zu tätigenden Invesitionen, geeigneten Geschäftsmodellen, einzugehenden Kooperationen und notwendigen Kompetenz- und Wissensaufbau.  
 
-## OpenHardware
-* Open Hardware zeigt wie transparente und nachhaltige Produkte entwickelt werden können, Circularity ready. Zwei schöne Beispiele haben sich auf der OSHOP-Konferenz in Dresden präsentiert, wie der OSHW MRT opensourceimaging.org der PTB und der Staubsauger OpenCyclone der Hochschule Burg Giebichenstein. Meine Folien zum Workshop "Anreize und Wege zur offenen Kreislaufgesellschaft" finden sich hier: 
-  https://cyber4edu.org/pads/p/KNrZllzQ8#/10
-  https://www.oshop-network.de/konferenz/
-  via https://chaos.social/@mavo/113237612344307454
-* OpenWrt One: Open-Source-Router für 100 Euro
-  https://www.heise.de/news/OpenWrt-One-Open-Source-Router-fuer-100-Euro-9962260.html
+Um Musikern und ihren Fans den Aufbau einer offener Social-Media-Gemeinschaft im Fediverse zu ermöglichen, dafür wurde [Bandwagon](https://bandwagon.fm) als Alternative zu z.B. Bandcamp [ins Leben gerufen](https://mastodon.social/@benpate/113329706664197636).
 
-## OpenRepair
-* The rise of community repair: new report and new dataset from the Open Repair Alliance
-  https://openrepair.org/repair-data/the-rise-of-community-repair-new-report-and-new-dataset-from-the-open-repair-alliance/
-  https://openrepair.org/open-data/insights/2024-report/
-  * "Die größten Hindernisse für die Durchführung von Reparaturen sind nach wie vor der Mangel an verfügbaren Ersatzteilen oder deren hoher Preis, die Unzugänglichkeit der Produkte (sie lassen sich nicht öffnen) und fehlende Reparaturinformationen."
-    https://mastodon.online/@oldperl/113350560195702307
-* Interactive dashboard showing the latest Open Repair Data statistics
-  https://metabase.openrepair.org/public/dashboard/b78d4576-24bc-4b74-b619-99a157d07296?tab=4-repair-attempts&product_category=&country=&event_date=
-  via https://mstdn.social/@zenlan/113316242602737744
-* Licht ins Dunkel deutscher Reparaturpolitik
-  https://okfn.de/blog/2024/10/licht-ins-dunkel-deutscher-reparaturpolitik/
+## Online-Zugangsgesetz (OZG)
+Der Bundesrechnungshof [hat mit deutlichen Worten bemängelt](https://www.heise.de/news/Bundesrechnungshof-Schonungsloser-Bericht-zum-Status-der-digitalen-Verwaltung-9985872.html), dass die Bundesländer bei der Digitalisierung zu wenig zusammenarbeiten: "Damit sind 95 Prozent der EfA-Lösungen, die der Bund vollständig finanziert hat, größtenteils nur in einem Land oder einer Kommune im Einsatz oder sogar Investitionsruinen". Von den zwischen 2018 bis 2023 allein vom Bund für Verwaltungsdigitalisierung ausgegebenen 2,3 Milliarden Euro gingen 828 Millionen Euro an die Länder, zur Finanzierung der Entwicklung von Onlinediensten, die dann nach dem "Einer-für-Alle-Prinzip" (EfA) auch in anderen Ländern und Kommunen hätten nachgenutzt werden sollen. Passierte aber wegen schlechtem Anforderungsmanagement, fehlender Abstimmung bzw. Kompromissbereitschaft (z.B. durch Verzicht auf Sonderlocken) oder einfach Unwillen nicht. So wurde aus EfA dann eher Efeu bzw. ein "Eimer für alle".
+
+Gleiches Problem beim Überführen von Smart-City-Lösungen [in den laufenden Betrieb](https://background.tagesspiegel.de/smart-city-und-stadtentwicklung/briefing/innovation-braucht-infrastruktur): es fehlen die Ressourcen und Kompetenzen diese in die bestehende Systemlandschaft zu integrieren. Ressourcen, die man haben könnte, wenn man arbeitsteiliger unterwegs wäre, nachnutzt, mehr standardisiert und nicht alles doppelt und dreifach neuerfindet.     
+
+Damit beim Thema Registermodernisierung nicht eine ähnliche Kleinstaaterei droht, hat Bremen bei der letzten IT-Planungsratsitzung den fast schon [revolutionären Vorschlag unterbreitet](https://www.heise.de/news/Digitalisierung-der-Verwaltung-Bremen-fordert-eine-Revolution-9989705.html), dass die Bundesländer dem Bund die Verantwortung für die geplante Bund- und Landübergreifende Behörden-Datenaustausch-Infrastruktur überlassen sollen. Nach dem Only-One-Prinzip sollen Behörden auf einem solchen National Once Only Technical System (NOOTS) dann Daten untereinander austauschen, wenn es ihnen der Bürger erlaubt, damit dieser nicht z.B. seine Geburtsurkunde jedes mal neu einreichen muss. Dies würde auch die Bearbeitungszeit für Verwaltungsvorgänge [deutlich reduzieren](https://netzpolitik.org/2024/registermodernisierung-it-planungsrat-erarbeitet-rechtsgrundlage-fuer-mammutprojekt/). 
+
+## Open Hardware
+Auf der ersten [Open Source Hardware Konferenz](https://www.oshop-network.de/konferenz-2024/vortrage/) in Dresden wurden viele Beispiele gezeigt, wie z.B. ein [Open Hardware MRT](opensourceimaging.org) oder auch der [Staubsauger OpenCyclone](https://os-systems.eu), wie Maximillian Voigt [berichtet](https://chaos.social/@mavo/113237612344307454). Er selbst hat einen Vortrag zum Thema "Anreize und Wege zur offenen Kreislaufgesellschaft"](https://cyber4edu.org/pads/p/KNrZllzQ8#/10) beigesteuert. 
+
+OpenWrt ist ein Open-Source-Router-Betriebssystem. Nun bieten dessen Entwickler passend dazu [einen eigenen WLAN-Router an](https://www.heise.de/news/OpenWrt-One-Open-Source-Router-fuer-100-Euro-9962260.html).  
+
+## Open Repair
+Stark verwandt mit der Open-Hardware-Initiative ist der Wunsch nach einem Recht auf Reparatur. Wie [Ortwin Pinke ausführt](https://mastodon.online/@oldperl/113350560195702307) scheitern viele Reparaturen an nicht-verfügbaren Ersatzteilen bzw. deren hoher Preis, fehlenden Reparaturinformationen oder schon am Produktdesign selbst, durch das der Hersteller eine Reparatur bewusst erschwert oder ganz unmöglich macht, weil es für sie lukrativer ist, dass die Leute gezwungen sind, die Geräte neuzukaufen. Anreize für Müllvermeidung und der Vermeidung von Ressourcenverschwendung gibt es von sich aus und von der Politik viel zu wenige. Im Gegenteil, auf dem Blog der OKF [ist gut dokumentiert](https://okfn.de/blog/2024/10/licht-ins-dunkel-deutscher-reparaturpolitik/), dass Deutschland und Europa in dieser Hinsicht aktiv solche Bestrebungen bremsen.
+
+Die [Open Repair Alliance](https://openrepair.org/) feierte im Oktober den 15. Geburtstag des ersten Repair Cafés sowie am 19. Oktober den Internationalen Tag der Reparatur. In [einem Bericht](https://openrepair.org/repair-data/the-rise-of-community-repair-new-report-and-new-dataset-from-the-open-repair-alliance/
+  https://openrepair.org/open-data/insights/2024-report/) dokumentiert sie, wie die Community inzwischen gewachsen ist. Weitere Statistiken kann man in [ihrem interaktiven Dashboard](https://metabase.openrepair.org/public/dashboard/b78d4576-24bc-4b74-b619-99a157d07296?tab=4-repair-attempts&product_category=&country=&event_date=) entdecken. 
 
 ## Open Access
 * Die Online-Diskussionsplattform Forum4MICA – ein Angebot der Forschungsdateninfrastruktur
