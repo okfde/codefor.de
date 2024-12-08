@@ -124,6 +124,19 @@ type: blog
 * Diese 5 einst seriösen Medien verbreiten jetzt Desinformation
   https://www.volksverpetzer.de/aktuelles/einst-serioes-jetzt-desinformation/
 
+## Ernährung
+* Open Food Facts
+  Open Food Facts is a food products database made by everyone, for everyone. You can use it to make better food choices, and as it is open data, anyone can re-use it for any purpose.
+  https://world.openfoodfacts.org
+  * A researcher’s story: how I used Open Food Facts for my research
+    https://blog.openfoodfacts.org/en/news/a-researchers-story-how-i-used-open-food-facts-for-my-research
+  * Open Prices
+    https://prices.openfoodfacts.org
+    * 50k prices on Open Prices !
+      https://blog.openfoodfacts.org/en/news/50k-prices-on-open-prices
+  * Hunger Games
+    https://hunger.openfoodfacts.org
+
 ## Open Source
 * Es ist offiziell: Der Prototype Fund wird für weitere vier Jahre neu aufgelegt!
   https://prototypefund.de/der-prototype-fund-geht-weiter-und-wie/
