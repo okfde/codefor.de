@@ -88,73 +88,28 @@ William Edmisten zeigt auf seinem Blog, wie man die Qualität der Datenstände v
 
 Über 2250 digitalisierte Landkarten und Stadtpläne aus Atlanten des 16. bis 18. Jahrhunderts wurden im Rahmen des Citizen Science Projekts ["Prachtsatlanten 2"](https://www.zb.uzh.ch/de/ueber-uns/citizen-science/prachtsatlanten-2-sprung-ins-18-jahrhundert) der Zentralbibliothek Zürich in nur 4 Wochen [georeferenziert](https://openbiblio.social/@zbzuerich/113350405661266530).
 
-Mit Blinrys [Wikidata Guessr](https://guessr.blinry.org) kann man raten, wo ein gezeigtes Foto aufgenommen worden sein könnte.  
+Mit Blinrys [Wikidata Guessr](https://guessr.blinry.org) kann man raten, wo ein gezeigtes Foto aufgenommen worden sein könnte.
 
-## Transparenz
-* Cuiiliste.de: Wie ein Schüler sich für Transparenz bei Domain-Sperren einsetzt​
-  https://www.heise.de/hintergrund/Warum-ein-Schueler-sich-fuer-mehr-Transparenz-beim-Sperren-von-Domains-einsetzt-9959663.html
-* Orwell wäre stolz: Die EU-Kommission möchte Rüstung als nachhaltig einstufen
-  "jährliches Lobby-Budget von ca. 11-15 Millionen Euro"
-  https://www.lobbycontrol.de/lobbyismus-in-der-eu/waffenlobby-ruestung-soll-als-nachhaltig-eingestuft-werden-117574/
-* Diese Nebeneinkünfte haben die Abgeordneten im Bundestag
-  https://www.abgeordnetenwatch.de/recherchen/nebentaetigkeiten/diese-nebeneinkuenfte-haben-die-abgeordneten-im-bundestag
-* Drehtüreffekt bei EU-Kommission: Lobby-Wächter kritisieren Beamtenwechsel zu Microsoft
-  https://netzpolitik.org/2024/drehtuereffekt-bei-eu-kommission-lobby-waechter-kritisieren-beamtenwechsel-zu-microsoft/
-* Lobbycontrol: Big Tech beeinflusst Debatte um Digital Markets Act
-  https://www.heise.de/news/Lobbycontrol-Big-Tech-beeinflusst-Debatte-um-Digital-Markets-Act-9997395.html
-* Nach gut drei Jahren liegt kein Entwurf für das versprochene Bundestransparenzgesetz vor. Die verantwortliche Ministerin lässt das zur "Privatsache" erklären.
-  https://www.heise.de/news/BMI-Transparenzgesetz-Privatsache-der-Ministerin-9997761.html
-* LNG-Terminals und das Wasserstoff-Narrativ
-  https://www.lobbycontrol.de/lobbyismus-und-klima/lng-terminals-und-das-wasserstoff-narrativ-117934/
+## Fern-Verkehr
+Aus Sicht von Greenpeace [blockiert](https://greenpeace.social/@gpinvestigativ/113253595383186721) ein Straßenbaulobby-Geflecht aus Unternehmen, Verbänden & Politik die Verkehrswende. Denn trotz sinkendem Pkw-Verkehr [plant Deutschland den Bau von 6000 Kilometern Fernstraßen](https://www.fr.de/wirtschaft/im-netz-der-asphalt-lobby-93338988.html). Problem [sind die Annahmen des Bundesverkehrswegeplans](https://climatejustice.global/users/GermanZeroHH/statuses/113254773474194633), der den induzierten Verkehr und die Umweltauswirkungen der Projekte massiv unterschätzt, und nur auf die vermeintliche Verkehrs-Nachfrage reagiert, statt diese auch politisch zu bewerten, in Frage zu stellen und zu steuern. Im Gegenteil: Kilometerpauschale, Dienstwagenprivileg und fehlende Mautkosten [setzen weiterhin falsche Anreize](https://mstdn.social/@dadamsda/113255407190035891). 
 
-## Databroker
-* Die Cookiefalle 1/4: Der Pakt mit dem Werbeteufel
-  https://www.srf.ch/audio/news-plus-hintergruende/die-cookiefalle-1-4-der-pakt-mit-dem-werbeteufel?id=12668999
-* Locate X: Die verstörend leichte Massenüberwachung mit Standortdaten
-  https://netzpolitik.org/2024/locate-x-die-verstoerend-leichte-massenueberwachung-mit-standortdaten/
+Laut den Zahlen für 2023 aus dem aktuellen [Pendleratlas](https://pendleratlas.de) ist Deutschland Pendlerrepublik und München bleibt mit 525.000 Einpendlern [Pendlerhauptstadt](https://www.zeit.de/news/2024-10/16/immer-mehr-pendler-muenchen-bleibt-bundesweite-nummer-eins). Auf dem [Statistikportal](https://pendleratlas.statistikportal.de) als auch auf [den Seiten der Bundesagentur für Arbeit](https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Interaktive-Statistiken/Pendleratlas/Pendleratlas-Nav.html) können weitere Auswertungen gemacht werden. Mangels Alternativen werden dabei viele Wege weiterhin mit Privat-PKWs zurückgelegt.
 
-## Verkehr
-* Mobilitätsdatengesetz kommt: Das neue Gesetz soll die Bereitstellung von Verkehrsdaten erleichtern. Unter anderem können bald Bus, Bahn oder Carsharing zentral gebucht werden.
-  https://taz.de/Mobilitaetsdatengesetz-kommt/!6040563/
-  * Mobilitätsdaten für alle: Bundesregierung legt Gesetz vor​
-    https://www.heise.de/news/Freie-Daten-ueber-Verkehrsmittel-Regierung-schickt-Gesetz-an-Bundestag-9961335.html
-  * Daten und Verkehr sollen besser fließen
-    https://www.golem.de/news/gesetzentwurf-beschlossen-daten-und-verkehr-sollen-besser-fliessen-2410-189478.html
-* Von in Bosten umleitungfahrenden Busfahrern sollen gemeldete Abbiegerestriktionen zügig in OpenStreetMap nachgepflegt werden 
-  https://www.mbta.com/news/2024-10-01/mbta-launches-nextgen-bus-navigation-pilot-program-operations-employees-use-new
-  via https://sueden.social/@nakaner/113253418999451149
-* In den Niederlanden sind in einer Datenbank alle aufgestellten Verkehrsschilder erfasste
-  https://wegkenmerken.ndw.nu/verkeersborden
-  via https://fosstodon.org/@bert_hubert/113249692343843880
-* Greenpeace: Ein Straßenbaulobby-Geflecht aus Unternehmen, Verbänden & Politik blockiert die Verkehrswende
-  https://www.fr.de/wirtschaft/im-netz-der-asphalt-lobby-93338988.html
-  https://www.greenpeace.de/publikationen/asphalt-statt-alternativen
-  via https://greenpeace.social/@gpinvestigativ/113253595383186721
-  siehe auch https://climatejustice.global/users/GermanZeroHH/statuses/113254773474194633
-  siehe auch https://mstdn.social/@dadamsda/113255407190035891
-* Bürger pinseln sich Zebrastreifen
-  https://chaos.social/@Andreas/113264713544108962
-  * im Thread der Hinweis auf: What to do When Your City Won't Fix Things: guerrilla urbanism, aka tactical urbanism
-    https://www.youtube.com/watch?v=mMomhNmOJH0
-* mFUND-Konferenz 2024: Open Data für neue Geschäftsmodelle in der Mobilität
-  TODO: Auswertung
-  https://www.mfund-konferenz.de/
-* Neue StVO in Kraft - VCD Stellungnahme
-  https://www.vcd.org/fileadmin/user_upload/Redaktion/Publikationsdatenbank/Verkehrspolitik/VCD_Stellungnahme_zum_neuen_Strassenverkehrsrecht.pdf
-  https://www.buzer.de/gesetz/10526/v318192-2024-10-11.htm
-  via https://mstdn.social/@VCDeV/113288802208187280
-* Der aktuelle Pendleratlas weist für die bayerische Landeshauptstadt 525.000 Einpendler im Jahr 2023 aus
-  https://www.zeit.de/news/2024-10/16/immer-mehr-pendler-muenchen-bleibt-bundesweite-nummer-eins
-  https://pendleratlas.de
-  https://pendleratlas.statistikportal.de
-  https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Interaktive-Statistiken/Pendleratlas/Pendleratlas-Nav.html
-* Night Train Map in Europe (2024)
-  https://back-on-track.eu/night-train-map/
-  https://fosstodon.org/@hywan/113338411773654890
-* OSM Hack Weekend October 2024
-  https://volkerkrause.eu/2024/10/26/osm-hack-weekend-october-2024.html
-* Große Unterschiede in Europa: Wo Elektroautos boomen – und wo sie ein Nischenprodukt sind
-  https://www.spiegel.de/auto/auto-kaufen-wo-elektroautos-boomen-und-wo-sie-ein-nischenprodukt-sind-a-dbf3cb3a-35ad-42f6-ab50-d9d4badec4a9
+In Deutschland waren die E-Auto-Neuzulassungen vor einem Jahr eingebrochen, auf Grund des abrupten Endes der Elektroautoskaufprämie. [Eine Karte zeigt](https://www.spiegel.de/auto/auto-kaufen-wo-elektroautos-boomen-und-wo-sie-ein-nischenprodukt-sind-a-dbf3cb3a-35ad-42f6-ab50-d9d4badec4a9), wo dagegen in Europa Elektromobilität boomt.
+
+Auch Nachtzüge sind eine Alternative im Fernverkehr und vor allem zum Flugverkehr. Auf der [Night Train Map 2024](https://back-on-track.eu/night-train-map/) lassen sich nun Linien, Halte und Fahrhäufigkeiten [interaktiv explorieren](https://fosstodon.org/@hywan/113338411773654890).
+
+## Verkehr innerorts
+Die neue Straßenverkehrsordnung (StVO) tritt in Kraft und [aus Sicht vom Verkehrsclub Deutschland (VCD)](https://mstdn.social/@VCDeV/113288802208187280) hat sich tatsächlich auch einiges verbessert, wie geringe Hürden für das Einführen von Tempo 30, Rad- und Fußwege, Busspuren und Parkraumbewirtschaftung. In [ihrer detaillieren Stellungnahme](https://www.vcd.org/fileadmin/user_upload/Redaktion/Publikationsdatenbank/Verkehrspolitik/VCD_Stellungnahme_zum_neuen_Strassenverkehrsrecht.pdf) kritisieren sie, dass Kommunen weiterhin Tempo 30 und Schulstraßen nicht frei und flächendeckend anordnen können. Wer sich für die genauen Änderungen des Gesetzestextes interessiert, bekommt hier [eine Gegenüberstellung](https://www.buzer.de/gesetz/10526/v318192-2024-10-11.htm).
+
+Was also tun, wenn die Stadt die Verkehrssituation nicht deeskaliert bekommt?: die Antwort könnte "Guerrilla Urbanism", auch bekannt als "Tactical Urbanism", sein, wie es [Bike Curious praktiziert](https://www.youtube.com/watch?v=mMomhNmOJH0). Allerdings gelten solche Aktionen schnell als "gefährlichen Eingriff in den Straßenverkehr", wie [im Fall Langhorn](https://chaos.social/@Andreas/113264713544108962), wo ein Bürger einen täuschend echten Zebrastreifen auf die Straße gepinselt hat.
+
+## Verkehrsdaten
+Das eben verabschiedete Mobilitätsdatengesetz [erleichtert die Bereitstellung von Verkehrsdaten](https://taz.de/Mobilitaetsdatengesetz-kommt/!6040563/), so dass unter anderem bald Bus, Bahn oder Carsharing zentral gebucht werden können. Eine neue unabhängig Behörde soll dafür auch die [Datenlieferpflicht durchsetzen](https://www.heise.de/news/Freie-Daten-ueber-Verkehrsmittel-Regierung-schickt-Gesetz-an-Bundestag-9961335.html). Der Verbraucherzentrale Bundesverband (VZBV) [kritisiert allerdings die Regelung](https://www.golem.de/news/gesetzentwurf-beschlossen-daten-und-verkehr-sollen-besser-fliessen-2410-189478.html), dass die Datenbereitstellung pauschal mit dem Hinweis auf Geschäftsgeheimnisse verweigert werden kann. Wichtige neue Datenquellen blieben weiterhin ausgeschlossen, zum Beispiel Fahrzeugdaten, wie z.B. die Auslastung im Bus.
+
+Richtig viele Daten bekommt man in den Niederlanden, dort sind [in einer Datenbank](https://wegkenmerken.ndw.nu/verkeersborden) alle aufgestellten Verkehrsschilder [erfasst](https://fosstodon.org/@bert_hubert/113249692343843880).
+
+Volker Krause [berichtet von seinem Besuch](https://volkerkrause.eu/2024/10/26/osm-hack-weekend-october-2024.html) beim OSM Hack Weekend in Karlsruhe.
 
 ## Energie
 * Erneuerbare Energien treiben Wirtschaftswachstum voran! Rekordzuwachs an Arbeitsplätzen in 2024:
@@ -278,6 +233,30 @@ Mit Blinrys [Wikidata Guessr](https://guessr.blinry.org) kann man raten, wo ein 
   via https://mastodon.online/@kejan/113248799616913491
 * Digitalgipfel: Datenschutz und Datennutzung "neu justieren"
   https://www.heise.de/news/Digitalgipfel-Die-grosse-Datenhoffnung-9989043.html
+
+
+## Transparenz
+* Cuiiliste.de: Wie ein Schüler sich für Transparenz bei Domain-Sperren einsetzt​
+  https://www.heise.de/hintergrund/Warum-ein-Schueler-sich-fuer-mehr-Transparenz-beim-Sperren-von-Domains-einsetzt-9959663.html
+* Orwell wäre stolz: Die EU-Kommission möchte Rüstung als nachhaltig einstufen
+  "jährliches Lobby-Budget von ca. 11-15 Millionen Euro"
+  https://www.lobbycontrol.de/lobbyismus-in-der-eu/waffenlobby-ruestung-soll-als-nachhaltig-eingestuft-werden-117574/
+* Diese Nebeneinkünfte haben die Abgeordneten im Bundestag
+  https://www.abgeordnetenwatch.de/recherchen/nebentaetigkeiten/diese-nebeneinkuenfte-haben-die-abgeordneten-im-bundestag
+* Drehtüreffekt bei EU-Kommission: Lobby-Wächter kritisieren Beamtenwechsel zu Microsoft
+  https://netzpolitik.org/2024/drehtuereffekt-bei-eu-kommission-lobby-waechter-kritisieren-beamtenwechsel-zu-microsoft/
+* Lobbycontrol: Big Tech beeinflusst Debatte um Digital Markets Act
+  https://www.heise.de/news/Lobbycontrol-Big-Tech-beeinflusst-Debatte-um-Digital-Markets-Act-9997395.html
+* Nach gut drei Jahren liegt kein Entwurf für das versprochene Bundestransparenzgesetz vor. Die verantwortliche Ministerin lässt das zur "Privatsache" erklären.
+  https://www.heise.de/news/BMI-Transparenzgesetz-Privatsache-der-Ministerin-9997761.html
+* LNG-Terminals und das Wasserstoff-Narrativ
+  https://www.lobbycontrol.de/lobbyismus-und-klima/lng-terminals-und-das-wasserstoff-narrativ-117934/
+
+## Databroker
+* Die Cookiefalle 1/4: Der Pakt mit dem Werbeteufel
+  https://www.srf.ch/audio/news-plus-hintergruende/die-cookiefalle-1-4-der-pakt-mit-dem-werbeteufel?id=12668999
+* Locate X: Die verstörend leichte Massenüberwachung mit Standortdaten
+  https://netzpolitik.org/2024/locate-x-die-verstoerend-leichte-massenueberwachung-mit-standortdaten/
 
 ## Überwachung
 * „Sicherheitspaket“ mit biometrischer Massenüberwachung: Die Ampel ist bankrott
