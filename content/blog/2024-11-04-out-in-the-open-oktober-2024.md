@@ -60,29 +60,18 @@ Die [Open Repair Alliance](https://openrepair.org/) feierte im Oktober den 15. G
   https://openrepair.org/open-data/insights/2024-report/) dokumentiert sie, wie die Community inzwischen gewachsen ist. Weitere Statistiken kann man in [ihrem interaktiven Dashboard](https://metabase.openrepair.org/public/dashboard/b78d4576-24bc-4b74-b619-99a157d07296?tab=4-repair-attempts&product_category=&country=&event_date=) entdecken. 
 
 ## Open Access
-* Die Online-Diskussionsplattform Forum4MICA – ein Angebot der Forschungsdateninfrastruktur
-  https://blog.bildungsserver.de/wir-wollen-wissenschaftlerinnen-und-wissenschaftlern-die-nutzung-von-forschungsdaten-so-einfach-wie-moeglich-machen/
-* OAPEN OA Books Toolkit Relaunch
-  https://www.oapen.org/article/8821857-oapen-oa-books-toolkit-relaunch-press-release
-* Open Science als Glücksfaktor: Mehr Zufriedenheit durch Kooperation und Selbstbestimmung
-  https://open-science-future.zbw.eu/open-science-gluecksfaktor-zufriedenheit-kooperation-selbstbestimmung/
-* ZDF goes Bildung: Bildung neu gedacht mit freien Creative-Commons-Lizenzen
-  https://blog.wikimedia.de/2024/10/22/bildung-neu-gedacht-mit-freien-creative-commons-lizenzen/
+Die Initiative ["ZDF goes Schule"](https://www.zdf.de/wissen/zdf-goes-schule) setzt auf mehr Wissensvermittlung, ein neues Netzwerk mit Partnerschulen und leichtere Zugänge zu Bildungsinhalten, die [in Kooperation mit Wikimedia Deutschland und der Wikipedia-Community](https://blog.wikimedia.de/2024/10/22/bildung-neu-gedacht-mit-freien-creative-commons-lizenzen/) unter freier Creative-Commons-Lizenzen veröffentlicht werden. 
 
-## Open Access - Programmieren lernen
-* Coding@Home bietet Ihnen eine Sammlung aus kurzen Videos, DIY-Materialien, Puzzles, Spielen und Kodierungs-Challenges, die ganz einfach zu Hause mit der Familie oder in der Schule genutzt/durchgeführt werden können. 
-  https://codeweek.eu/resources/CodingAtHome
-  * passend dazu auch: https://programmieren.wdrmaus.de/welcome
-* Das beliebte Kinderbuch "Ada & Zangemann – Eine Geschichte von Software, Skateboards und Himbeereis" gibt's jetzt auch als Animationsfilm
-  https://fsfe.org/activities/ada-zangemann//movie
-  https://media.fsfe.org/w/j1c6LQVZ8qnCLLwpXMuw3M
-  via https://social.wikimedia.de/@wikimediaDE/113283003919951896
+Selbstbestimmtes Programmieren-Lernen für Kinder bietet sowohl [Coding@Home](https://codeweek.eu/resources/CodingAtHome) mit Videos, DIY-Materialien, Puzzles, Spielen und Coding-Challenges, als auch [Programmieren mit der Maus](https://programmieren.wdrmaus.de/welcome) vom WDR.
+
+Das Kinderbuch "Ada & Zangemann" ermutigt Kinder, insbesondere Mädchen, mit Hard- und Software zu experimentieren und ihre eigene Technik zu gestalten. Das Buch gibt es nun auch als [Animationsfilm](https://fsfe.org/activities/ada-zangemann//movie) auf [Deutsch](https://media.fsfe.org/w/aw4EHJYVBSQGHPS22xXBG2) und auf [Englisch](https://media.fsfe.org/w/j1c6LQVZ8qnCLLwpXMuw3M).
+
+Dr. Meikel Soliman, Postdoc an der Fakultät für Management & Technologie der Leuphana Universität, forscht zu Konsumentenverhalten, Konsumentenethik und Glück und berichtet im [Interview](https://open-science-future.zbw.eu/open-science-gluecksfaktor-zufriedenheit-kooperation-selbstbestimmung/) über seine Open-Science-Erfahrungen und wie Kooperation und Selbstbestimmung zu mehr Zufriedenheit führt. 
 
 ## Citizen Science
-* Die neue Publikation fasst Erfahrungen aus drei Jahren Wettbewerb "Auf die Plätze: Citizen Science in deiner Stadt" zusammen. Die Preisträger*innen teilen ihre Erfahrungen und Erkenntnisse zu Kooperationen zwischen Wissenschaft, Zivilgesellschaft und Kommune.
-  https://www.citizenscience-wettbewerb.de/
-* Der "Wegweiser #CitizenScience" der AG Netzwerk Region West bietet Tipps & Methoden zu den Themen Partizipation, Teilnehmende, Motivation, Bürokratie und Evaluation. Jetzt kostenlos als Download verfügbar: 
-  https://zenodo.org/records/13148678
+Der Wettbewerb ["Auf die Plätze! Citizen Science in deiner Stadt"](https://www.citizenscience-wettbewerb.de/) des Naturkundemuseums Berlin und Wissenschaft im Dialog förderte von 2021 bis 2024 Ideen, die Citizen Science als zukunftsweisenden Ansatz vor Ort erlebbar machen und verankern. In der [Abschlusspublikation](https://www.citizenscience-wettbewerb.de/sites/default/files/grid/2024/10/08/Publikation_AufdiePl%C3%A4tze_CSindeinerStadt_Digitalversion_9.24.pdf) teilen die Preisträger:innen ihre Erfahrungen und Erkenntnisse zu Kooperationen zwischen Wissenschaft, Zivilgesellschaft und Kommune.
+
+Der kostenlose ["Wegweiser Citizen Science"](https://zenodo.org/records/13148678) der AG Netzwerk Region West bietet Tipps & Methoden zu den Themen Partizipation, Teilnehmende, Motivation, Bürokratie und Evaluation.
 
 ## Karten
 * Open Infrastructure Map: Kläranlagen und Trinkwasseraufbereitungsanlagen
