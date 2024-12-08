@@ -29,16 +29,15 @@ Linked Open Data (LOD) möchte auch das Projekt [LODinG](https://tcdh.uni-trier.
 Bei Opendata.ch wird an offenen Standards und Schnittstellen [gearbeitet](https://opendata.ch/projects/openparldata/), um Schweizer Parlamentsdaten zu harmonisieren, um so mehr Transparenz und Partizipation zu ermöglichen. Wie weit man die Transparenz treiben kann, zeigt [Code for Magdeburg](https://codefor.de/magdeburg/): in deren [Stadtratwatch](https://www.stadtratwatch.de) werden neuerdings die Video-Mitschnitte der Stadtratssitzungen transkribiert und die so gewonnenen Redebeiträge [durchsuchbar angeboten](https://machteburch.social/@JensWinter/113312847820837484).
 
 ## OpenSource
-* Die OpenInfra Foundation hat Version 2024.2 des Virtualisierers OpenStack freigegeben. Der Exodus von VMware-Kunden hat dem Projekt neuen Schub gegeben.
-  https://www.heise.de/news/Dashboard-und-Funktionen-fuer-KI-Workloads-OpenStack-2024-2-ist-fertig-9959746.html
-  via https://social.heise.de/@heiseonline/113238174598892247
-* 38 Maßnahmen für eine zukunftsfähige und Open-Source-getriebene Digitalisierung von Wirtschaft und Verwaltung
-  https://osb-alliance.de/verbands-news/38-massnahmen-fuer-zukunftsfaehige-digitalisierung
-  * Die Open Source Business Alliance schlägt 38 Maßnahmen vor, mit denen eine "Open-Source-getriebene Digitalisierung" gelingen soll.
-    https://osb-alliance.de/wp-content/uploads/2024/06/2024-09-27_Forderungen_Bundestagswahl2025_LR.pdf
-    https://www.heise.de/news/Verband-Verwaltung-muss-ihre-IT-voellig-auf-Open-Source-umstellen-9975720.html
-* Digitale Souveränität vs. Digitale Kolonie – Quo vadis?
-  https://www.datenschutz.rlp.de/themen/podcast/folge-023
+Die [Open Source Business Alliance (OSBA)](https://osb-alliance.de/) schlägt [38 Maßnahmen](https://osb-alliance.de/verbands-news/38-massnahmen-fuer-zukunftsfaehige-digitalisierung) für eine zukunftsfähige und Open-Source-getriebene Digitalisierung von Wirtschaft und Verwaltung vor. Um ihren Forderungen Nachdruck zu verleihen hat die Allianz und ihre Mitgliedsunternehmen das Forum SCS-Standards gegründet. Mit diesem soll der Sovereign Cloud Stack (SCS) samt Ökosystem als zukunftsfähige Cloudtechnologie [abgesichert werden](https://osb-alliance.de/featured/sovereign-cloud-stack-scs-wird-nachhaltig-abgesichert).
+
+Die Virtualisierungsplattform [OpenStack wird ebenso aktiv weiterentwickelt](https://www.heise.de/news/Dashboard-und-Funktionen-fuer-KI-Workloads-OpenStack-2024-2-ist-fertig-9961070.html), wohl auch beflügelt davon, dass der bisherige proprietäre Platzhirsch VMWare eine Änderung seines Lizenzmodells angekündigt hatte.
+
+Passend dazu diskutieren im [Datenfunk-Podcast](https://www.datenschutz.rlp.de/themen/podcast/folge-023) der Landesbeauftragte für Datenschutz in Rheinland-Pfalz, Prof. Dr. Dieter Kugelmann, mit Philipp Richter und Prof. Wehnes über Lock-in-Effekte, digitale Kolonien, nachhaltige IT und weitere Aspekte digitaler Souveränität.
+
+* A decade of open source: German state Schleswig-Holstein's path to digital sovereignty
+  https://nextcloud.com/blog/nextcloud-in-government-insights-from-sven-thomsen-schleswig-holsteins-cio/
+  via https://mastodon.xyz/@nextcloud/113356442315774412
 * Navigating open source: discover the ZOOOM project and its new toolkit
   https://research-and-innovation.ec.europa.eu/research-area/industrial-research-and-innovation/eu-valorisation-policy/knowledge-valorisation-platform/thematic-focus/navigating-open-source-discover-zooom-project-and-its-new-toolkit_en
 * Prototype Fund - Infoletter #54
@@ -46,11 +45,6 @@ Bei Opendata.ch wird an offenen Standards und Schnittstellen [gearbeitet](https:
 * Bandwagon - open source alternative zu Bandcamp
   https://bandwagon.fm
   via https://mastodon.social/@benpate/113329706664197636
-* Sovereign Cloud Stack (SCS) wird nachhaltig abgesichert
-  https://osb-alliance.de/featured/sovereign-cloud-stack-scs-wird-nachhaltig-abgesichert
-* A decade of open source: German state Schleswig-Holstein's path to digital sovereignty
-  https://nextcloud.com/blog/nextcloud-in-government-insights-from-sven-thomsen-schleswig-holsteins-cio/
-  via https://mastodon.xyz/@nextcloud/113356442315774412
 
 ## OZG
 * Erfrischend dazu der Bundesrechnungshof zum Onlinezugangsgesetz: "Damit sind 95 Prozent der EfA-Lösungen, die der Bund vollständig finanziert hat, größtenteils nur in einem Land oder einer Kommune im Einsatz oder sogar Investitionsruinen"
