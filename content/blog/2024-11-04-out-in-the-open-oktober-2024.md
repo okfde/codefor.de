@@ -90,7 +90,8 @@ William Edmisten zeigt auf seinem Blog, wie man die Qualität der Datenstände v
 
 Mit Blinrys [Wikidata Guessr](https://guessr.blinry.org) kann man raten, wo ein gezeigtes Foto aufgenommen worden sein könnte.
 
-## Fern-Verkehr
+## Mobilität
+### Fern-Verkehr
 Aus Sicht von Greenpeace [blockiert](https://greenpeace.social/@gpinvestigativ/113253595383186721) ein Straßenbaulobby-Geflecht aus Unternehmen, Verbänden & Politik die Verkehrswende. Denn trotz sinkendem Pkw-Verkehr [plant Deutschland den Bau von 6000 Kilometern Fernstraßen](https://www.fr.de/wirtschaft/im-netz-der-asphalt-lobby-93338988.html). Problem [sind die Annahmen des Bundesverkehrswegeplans](https://climatejustice.global/users/GermanZeroHH/statuses/113254773474194633), der den induzierten Verkehr und die Umweltauswirkungen der Projekte massiv unterschätzt, und nur auf die vermeintliche Verkehrs-Nachfrage reagiert, statt diese auch politisch zu bewerten, in Frage zu stellen und zu steuern. Im Gegenteil: Kilometerpauschale, Dienstwagenprivileg und fehlende Mautkosten [setzen weiterhin falsche Anreize](https://mstdn.social/@dadamsda/113255407190035891). 
 
 Laut den Zahlen für 2023 aus dem aktuellen [Pendleratlas](https://pendleratlas.de) ist Deutschland Pendlerrepublik und München bleibt mit 525.000 Einpendlern [Pendlerhauptstadt](https://www.zeit.de/news/2024-10/16/immer-mehr-pendler-muenchen-bleibt-bundesweite-nummer-eins). Auf dem [Statistikportal](https://pendleratlas.statistikportal.de) als auch auf [den Seiten der Bundesagentur für Arbeit](https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Interaktive-Statistiken/Pendleratlas/Pendleratlas-Nav.html) können weitere Auswertungen gemacht werden. Mangels Alternativen werden dabei viele Wege weiterhin mit Privat-PKWs zurückgelegt.
@@ -99,12 +100,12 @@ In Deutschland waren die E-Auto-Neuzulassungen vor einem Jahr eingebrochen, auf 
 
 Auch Nachtzüge sind eine Alternative im Fernverkehr und vor allem zum Flugverkehr. Auf der [Night Train Map 2024](https://back-on-track.eu/night-train-map/) lassen sich nun Linien, Halte und Fahrhäufigkeiten [interaktiv explorieren](https://fosstodon.org/@hywan/113338411773654890).
 
-## Verkehr innerorts
+### Verkehr innerorts
 Die neue Straßenverkehrsordnung (StVO) tritt in Kraft und [aus Sicht vom Verkehrsclub Deutschland (VCD)](https://mstdn.social/@VCDeV/113288802208187280) hat sich tatsächlich auch einiges verbessert, wie geringe Hürden für das Einführen von Tempo 30, Rad- und Fußwege, Busspuren und Parkraumbewirtschaftung. In [ihrer detaillieren Stellungnahme](https://www.vcd.org/fileadmin/user_upload/Redaktion/Publikationsdatenbank/Verkehrspolitik/VCD_Stellungnahme_zum_neuen_Strassenverkehrsrecht.pdf) kritisieren sie, dass Kommunen weiterhin Tempo 30 und Schulstraßen nicht frei und flächendeckend anordnen können. Wer sich für die genauen Änderungen des Gesetzestextes interessiert, bekommt hier [eine Gegenüberstellung](https://www.buzer.de/gesetz/10526/v318192-2024-10-11.htm).
 
 Was also tun, wenn die Stadt die Verkehrssituation nicht deeskaliert bekommt?: die Antwort könnte "Guerrilla Urbanism", auch bekannt als "Tactical Urbanism", sein, wie es [Bike Curious praktiziert](https://www.youtube.com/watch?v=mMomhNmOJH0). Allerdings gelten solche Aktionen schnell als "gefährlichen Eingriff in den Straßenverkehr", wie [im Fall Langhorn](https://chaos.social/@Andreas/113264713544108962), wo ein Bürger einen täuschend echten Zebrastreifen auf die Straße gepinselt hat.
 
-## Verkehrsdaten
+### Verkehrsdaten
 Das eben verabschiedete Mobilitätsdatengesetz [erleichtert die Bereitstellung von Verkehrsdaten](https://taz.de/Mobilitaetsdatengesetz-kommt/!6040563/), so dass unter anderem bald Bus, Bahn oder Carsharing zentral gebucht werden können. Eine neue unabhängig Behörde soll dafür auch die [Datenlieferpflicht durchsetzen](https://www.heise.de/news/Freie-Daten-ueber-Verkehrsmittel-Regierung-schickt-Gesetz-an-Bundestag-9961335.html). Der Verbraucherzentrale Bundesverband (VZBV) [kritisiert allerdings die Regelung](https://www.golem.de/news/gesetzentwurf-beschlossen-daten-und-verkehr-sollen-besser-fliessen-2410-189478.html), dass die Datenbereitstellung pauschal mit dem Hinweis auf Geschäftsgeheimnisse verweigert werden kann. Wichtige neue Datenquellen blieben weiterhin ausgeschlossen, zum Beispiel Fahrzeugdaten, wie z.B. die Auslastung im Bus.
 
 Richtig viele Daten bekommt man in den Niederlanden, dort sind [in einer Datenbank](https://wegkenmerken.ndw.nu/verkeersborden) alle aufgestellten Verkehrsschilder [erfasst](https://fosstodon.org/@bert_hubert/113249692343843880).
@@ -122,36 +123,27 @@ Um den Herausforderungen bei der Energiesystemforschung zu begegnen, stellt die 
 [PED-Learning](https://www.pedlearning.eu/courses) stellt Lernmaterialien zu klimaneutralen Quartieren (positive energy districts (PED)) bereit.
 
 ## Klima
-* Süßwasservorräte schwinden weltweit
-  https://science.orf.at/stories/3227019/
-* Neue Bundeswaldinventur: Warum der Wald als Klimaschützer ausfallen wird
-  https://www.spektrum.de/news/neue-bundeswaldinventur-wald-ist-zur-kohlenstoffquelle-geworden/2235791
-  * Abgesang auf die Holzäcker
-    https://www.klimareporter.de/erdsystem/abgesang-auf-die-holzaecker
-* Eine neue Hinweiskarte zeigt, wo in Schleswig-Holstein Überflutungen durch Starkregen drohen.
-  https://www.ndr.de/nachrichten/schleswig-holstein/Starkregen-Neue-Karte-zeigt-wo-Ueberflutungen-in-SH-moeglich-sind,starkregen632.html
-* Neuer Klimareport: Auf 2,7-Grad-Kurs
-  35 sogenannte planetare Lebenszeichen hat ein Forscherteam untersucht, das Ergebnis ist ernüchternd: Mehr als zwei Drittel zeigen einen negativen Rekord an. 
-  https://www.tagesschau.de/wissen/klima/bericht-planetare-lebenszeichen-100.html
-  * Report vor der UN-Klimakonferenz zeigt drastische Daten
-    https://www.fr.de/wissen/drastische-daten-report-vor-der-un-klimakonferenz-zeigt-zr-93344125.html
-* Städtebauförderung trägt maßgeblich zu Klimaschutz und Anpassung an den Klimawandel bei
-  https://www.oeko.de/news/aktuelles/staedtebaufoerderung-traegt-massgeblich-zu-klimaschutz-und-anpassung-an-den-klimawandel-bei/
-* Unwetter Frankreich
-  https://www.tagesschau.de/ausland/europa/unwetter-frankreich-124.html
-* ARD-Aktion #unsereFlüsse: Großteil untersuchter Bäche verfehlt EU-Umweltziele
-  https://correctiv.org/aktuelles/kampf-um-wasser/2024/10/21/ard-aktion-unserefluesse-grossteil-untersuchter-baeche-verfehlt-eu-umweltziele/
-* Wo die Welt beim Klimaschutz steht
-  https://www.sueddeutsche.de/projekte/artikel/wissen/klimawandel-2100-treibhauseffekt-emissions-gap-report-1-5-grad-ziel-e318597/?reduced=true
-* A mindblowing set of images of what the flood in #Valencia looks like from space - images of the same region from 8 and 30 October 
-  https://www.esa.int/ESA_Multimedia/Images/2024/10/Valencia_flood_disaster
-  via https://mastodon.social/@vicgrinberg/113401906134419631
-  * Tödliche Sturzfluten: Spanien sucht nach Vermissten – und nach Schuldigen
-    https://www.spiegel.de/panorama/spanien-nach-den-sturzfluten-rettungskraefte-suchen-nach-vermissten-und-schuldigen-a-bb276967-40fb-47ab-98c1-d2d183aebf17?sara_ref=re-so-app-sh
-* Faktencheck Artenvielfalt veröffentlicht
-  https://www.feda.bio/de/pressemitteilungen/faktencheck-artenvielfalt-veroeffentlicht/
+### Klimaschutz
+Ein Forscherteam hat 35 sogenannte planetare Lebenszeichen [untersucht](https://www.tagesschau.de/wissen/klima/bericht-planetare-lebenszeichen-100.html). Mehr als zwei Drittel von ihnen zeigen einen negativen Rekord an. Lösung kann nur der [rasche Ausstieg aus der Nutzung fossiler Brennstoffe sein](https://www.fr.de/wissen/drastische-daten-report-vor-der-un-klimakonferenz-zeigt-zr-93344125.html), gefördert durch einem ausreichend hohen globalen Kohlenstoffpreis. Auch eine drastische Reduzierung des übermäßigen Konsums und der Verschwendung sei notwendig.
+Eine [neue Studie des Öko-Instituts](https://www.oeko.de/news/aktuelles/staedtebaufoerderung-traegt-massgeblich-zu-klimaschutz-und-anpassung-an-den-klimawandel-bei/) im Auftrag des Bundesinstituts für Bau-, Stadt- und Raumforschung (BBSR) hat herausgefunden, dass die Programme der Städtebauförderung in Deutschland zwischen 2011 und 2021 maßgeblich zur Umsetzung von Klimaschutzmaßnahmen beigetragen haben.
+
+### Klima - Starkregen
+Teile Frankreichs wurden Mitte Oktober von heftigen Unwettern heimgesucht - [örtlich seien binnen 48 Stunden mehr als 600 Liter Regen pro Quadratmeter gefallen](https://www.tagesschau.de/ausland/europa/unwetter-frankreich-124.html). Ende Oktober traf es Spanien, der Vergleich der [Satelliten-Aufnahmen](https://www.esa.int/ESA_Multimedia/Images/2024/10/Valencia_flood_disaster) von Valencia einmal vom 8. Oktober und vom 30. Oktober [zeigt die massiven Folgen der Überflutung](https://mastodon.social/@vicgrinberg/113401906134419631). [Es hatte 10 Stunden ohne Unterbrechung geregnet](https://www.spiegel.de/panorama/spanien-nach-den-sturzfluten-rettungskraefte-suchen-nach-vermissten-und-schuldigen-a-bb276967-40fb-47ab-98c1-d2d183aebf17?sara_ref=re-so-app-sh), zum Teil fiel innerhalb eines Tages so viel Regen wie sonst in einem Jahr.
+    
+Mit [einer neuen Hinweiskarte](https://www.ndr.de/nachrichten/schleswig-holstein/Starkregen-Neue-Karte-zeigt-wo-Ueberflutungen-in-SH-moeglich-sind,starkregen632.html) können in Schleswig-Holstein von Überflutungen besonders gefährdete Gebiete identifiziert und so die Starkregenvorsorge gezielt verbessert werden,
+
+### Klima - Wasser
+Der Großteil der in der ARD-Aktion #unsereFlüsse untersuchten Bäche [verfehlen die EU-Umweltziele](https://correctiv.org/aktuelles/kampf-um-wasser/2024/10/21/ard-aktion-unserefluesse-grossteil-untersuchter-baeche-verfehlt-eu-umweltziele/).
+  
+[Laut einem Bericht der UN](https://science.orf.at/stories/3227019/) schwinden die Süßwasservorräte weltweit. 3,6 Milliarden Menschen und damit mehr als 40 Prozent der Weltbevölkerung haben mindestens einen Monat im Jahr nicht genug Wasser, bis 2050 könnten es bis zu 5 Milliarden sein. 2023 haben Flüsse weltweit so wenig Wasser geführt wie seit 30 Jahren nicht mehr. Gibt es keine Gletcher mehr, die die Flüsse speißen, wird sich das noch verschlimmern.   
+
+### Klima - Flora und Fauna
+Nach dem Bericht der neuen Bundeswaldinventur ist klar: [der heimische Wald wird als Klimaschützer ausfallen](https://www.spektrum.de/news/neue-bundeswaldinventur-wald-ist-zur-kohlenstoffquelle-geworden/2235791). Durch zu viel Nadelwald und zu viel Einschlag ist er inzwischen zur Kohlenstoffquelle geworden. Der plötzliche Zusammenbruch soclher Kohlenstoffsenken wurde in den Klimamodellen [nicht berücksichtigt](https://www.theguardian.com/environment/2024/oct/14/nature-carbon-sink-collapse-global-heating-models-emissions-targets-evidence-aoe) - und dieser könnte die globale Erwärmung rasch beschleunigen.
+
+[Der Faktencheck Artenvielfalt zeigt](https://www.feda.bio/de/pressemitteilungen/faktencheck-artenvielfalt-veroeffentlicht/), dass mehr als die Hälfte der natürlichen Lebensraumtypen in Deutschland einen ökologisch ungünstigen Zustand aufweist. Durch den Verlust von Habitatflächen schrumpft auch die Populationen von Arten und mindert so die  Leistungsfähigkeit und Funktionsweise von Ökosystemen.
 
 ## Esel spricht rückwärts
+### KI im Wikiverse
 * Wikipedia now needs to have a "WikiProject AI Cleanup".  They should send Sam Altman a massive bill for all their extra, unnecessary work.
   https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup
   via https://tldr.nettime.org/@festal/113243136033103324
@@ -161,19 +153,35 @@ Um den Herausforderungen bei der Energiesystemforschung zu begegnen, stellt die 
   via https://wikis.world/@MWStake/113274015055700798
 * Could making Wikidata 'human' readable lead to better AI?
   https://www.buzzsprout.com/2265960/episodes/15888577
+
+### KI Trainingsdaten  
 * Die VG Wort möchte, dass ich meine journalistischen Texte Unternehmen und Behörden übergebe, wenn sie diese für "Anwendungen der KI" brauchen. Man muss explizit widersprechen
   https://social.heise.de/@dborch/113264920915086138
+* "VGWort ändert ihre Verträge mit Autor*innen und hat jetzt eine "KI-Lizenz" und möchte Eure Werke jetzt benutzen, um generative KI damit zu füttern"
+  https://news.vgwort.de/online.php?u=6Tq9WGt2361
+  https://www.vgwort.de/fileadmin/vg-wort/pdf/Veroeffentlichungen/Wortreport/Fragen_und_Antworten_zur_neuen_KI_Vergleichsfassung_2024_10_19_final.pdf
+  https://www.podcast.de/episode/644261353/vg-wort-und-die-ki-lizenz-was-hat-das-zu-bedeuten-interview-mit-nina-george
+  via https://systemli.social/@anneroth/113265785508980072
 * Nach Colorado verabschiedet jetzt auch Kalifornien ein Gesetz, das die Gehirndaten von Verbrauchern schützen soll. 
   https://www.heise.de/news/Verbraucherschutz-Kalifornien-verabschiedet-Gesetz-fuer-Schutz-neuronaler-Daten-9963640.html
 * Massive E-Learning Platform Udemy Gave Teachers a Gen AI 'Opt-Out Window'. It's Already Over.
   "Retraining LLMs repeatedly to eliminate undesirable knowledge is impractical due to their immense parameters.”
   https://www.404media.co/massive-e-learning-platform-udemy-gave-teachers-a-gen-ai-opt-out-window-its-already-over/
+
+### KI und Umwelt
 * On the (im)possibility of sustainable artificial intelligence
   * "Stop unformation gathering": Strategie begegnen, Maßnahmen zu verzögern, weil man angeblich noch nicht genug Daten hätte 
   * "similarly usable results can be achieved using conventional and lightweight non-AI data processing methods, such as traditional statistics"
   * "LLMs are largely used for misinformation, surveillance, and desire creation "
   * https://policyreview.info/articles/news/impossibility-sustainable-artificial-intelligence/1804
-* Job-Abbau
+* KI-Technik könnte Elektroschrott-Menge steigen lassen
+  https://www.heise.de/news/KI-Technik-koennte-Elektroschrott-Menge-steigen-lassen-9997283.html
+* Klimafaktor KI: Der versteckte Energiehunger moderner Algorithmen
+  https://civic-data.de/klimafaktor-ki/
+* Global E-Waste Monitor 2024
+  https://globalewaste.org
+
+### Job-Abbau durch KI
   * KI bedroht jeden zweiten Arbeitsplatz im Bankensektor
     https://www.telepolis.de/features/KI-bedroht-jeden-zweiten-Arbeitsplatz-im-Bankensektor-9977296.html
   * Radiosender ersetzt Moderatoren durch KI
@@ -196,35 +204,14 @@ Um den Herausforderungen bei der Energiesystemforschung zu begegnen, stellt die 
     https://www.indiskretionehrensache.de/2024/10/emma-influencerin-dtz/
     https://www.indiskretionehrensache.de/2024/10/emma-virtueller-influencer/
     via https://chaos.social/@Villeroy@nrw.social/113345990073604082
+
+## KI Sonstiges
 * Supercharged by AI: A new creative intervention about the effects of AI on our online lives
   https://tacticaltech.org/news/project-launches/supercharged-by-ai-effects/
 * Schwarz Digits und Deutsche Bahn verkünden Gründung des DataHub Europe mit starken Medien- und KI-Partnern
   https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Schwarz-Digits-und-DB-verkuenden-Gruendung-des-DataHub-Europe-13109540
 * Open-Access AI: Lessons From Open-Source Software
   https://www.lawfaremedia.org/article/open-access-ai--lessons-from-open-source-software
-* KI-Technik könnte Elektroschrott-Menge steigen lassen
-  https://www.heise.de/news/KI-Technik-koennte-Elektroschrott-Menge-steigen-lassen-9997283.html
-* "VGWort ändert ihre Verträge mit Autor*innen und hat jetzt eine "KI-Lizenz" und möchte Eure Werke jetzt benutzen, um generative KI damit zu füttern"
-  https://news.vgwort.de/online.php?u=6Tq9WGt2361
-  https://www.vgwort.de/fileadmin/vg-wort/pdf/Veroeffentlichungen/Wortreport/Fragen_und_Antworten_zur_neuen_KI_Vergleichsfassung_2024_10_19_final.pdf
-  https://www.podcast.de/episode/644261353/vg-wort-und-die-ki-lizenz-was-hat-das-zu-bedeuten-interview-mit-nina-george
-  via https://systemli.social/@anneroth/113265785508980072
-* Klimafaktor KI: Der versteckte Energiehunger moderner Algorithmen
-  https://civic-data.de/klimafaktor-ki/
-* Trees and land absorbed almost no CO2 last year. Is nature’s carbon sink failing?
-  https://www.theguardian.com/environment/2024/oct/14/nature-carbon-sink-collapse-global-heating-models-emissions-targets-evidence-aoe
-* Global E-Waste Monitor 2024
-  https://globalewaste.org
-
-## Datenräumeträume
-* Datenstrategie für Österreich vorgelegt
-  https://www.data.gv.at/2024/10/03/datenstrategie-fuer-oesterreich-vorgelegt-datenzugangsgesetz-in-begutachtung/
-* Hinweis auf "Die Logik der Daten nutzen: fortschrittliche Datenstrategien entwickeln" (von 2022)
-  https://www.oeffentliche-it.de/documents/10181/14412/Die+Logik+der+Daten+nutzen+-+Fortschrittliche+Datenstrategien+entwickeln
-  via https://mastodon.online/@kejan/113248799616913491
-* Digitalgipfel: Datenschutz und Datennutzung "neu justieren"
-  https://www.heise.de/news/Digitalgipfel-Die-grosse-Datenhoffnung-9989043.html
-
 
 ## Transparenz
 * Cuiiliste.de: Wie ein Schüler sich für Transparenz bei Domain-Sperren einsetzt​
@@ -243,17 +230,24 @@ Um den Herausforderungen bei der Energiesystemforschung zu begegnen, stellt die 
 * LNG-Terminals und das Wasserstoff-Narrativ
   https://www.lobbycontrol.de/lobbyismus-und-klima/lng-terminals-und-das-wasserstoff-narrativ-117934/
 
-## Databroker
+## Überwachung
 * Die Cookiefalle 1/4: Der Pakt mit dem Werbeteufel
   https://www.srf.ch/audio/news-plus-hintergruende/die-cookiefalle-1-4-der-pakt-mit-dem-werbeteufel?id=12668999
 * Locate X: Die verstörend leichte Massenüberwachung mit Standortdaten
   https://netzpolitik.org/2024/locate-x-die-verstoerend-leichte-massenueberwachung-mit-standortdaten/
-
-## Überwachung
 * „Sicherheitspaket“ mit biometrischer Massenüberwachung: Die Ampel ist bankrott
   https://www.ccc.de/de/updates/2024/sicherheitspaket
   * Die Fortschrittskoalition ist tot
     https://netzpolitik.org/2024/sicherheitspaket-die-fortschrittskoalition-ist-tot/
+
+## Datenräumeträume
+* Datenstrategie für Österreich vorgelegt
+  https://www.data.gv.at/2024/10/03/datenstrategie-fuer-oesterreich-vorgelegt-datenzugangsgesetz-in-begutachtung/
+* Hinweis auf "Die Logik der Daten nutzen: fortschrittliche Datenstrategien entwickeln" (von 2022)
+  https://www.oeffentliche-it.de/documents/10181/14412/Die+Logik+der+Daten+nutzen+-+Fortschrittliche+Datenstrategien+entwickeln
+  via https://mastodon.online/@kejan/113248799616913491
+* Digitalgipfel: Datenschutz und Datennutzung "neu justieren"
+  https://www.heise.de/news/Digitalgipfel-Die-grosse-Datenhoffnung-9989043.html
 
 ## Recap
 * Bits & Bäume Herbstabend: Wem gehört das Internet? Keynotes von Francesca Bria und Esther M'wema
