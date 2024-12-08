@@ -226,6 +226,8 @@ type: blog
 
 ## Recap
 * The Tech We Want Summit took place between 17 and 18 October 2024 – in total, 43 speakers from 23 countries interacted with 700+ registered people about new practical ways to build software that is useful, simple, long-lasting, and focused on solving people’s real problems.
+  * Panel 1: https://blog.okfn.org/2024/10/28/panel-the-tech-we-want-is-political/
+  * Panel 2: https://blog.okfn.org/2024/11/06/panel-the-tech-we-want-is-built-and-maintained-with-care/
   * Panel 3: https://blog.okfn.org/2024/11/13/panel-the-tech-we-want-is-sustainable-for-people-and-the-planet/
   * Panel 4: https://blog.okfn.org/2024/11/20/panel-we-are-making-the-tech-we-want/
 * Netzpolitischer Abend 141
