@@ -74,33 +74,21 @@ Der Wettbewerb ["Auf die Plätze! Citizen Science in deiner Stadt"](https://www.
 Der kostenlose ["Wegweiser Citizen Science"](https://zenodo.org/records/13148678) der AG Netzwerk Region West bietet Tipps & Methoden zu den Themen Partizipation, Teilnehmende, Motivation, Bürokratie und Evaluation.
 
 ## Karten
-* Open Infrastructure Map: Kläranlagen und Trinkwasseraufbereitungsanlagen
-  https://openinframap.org/#7.33/51.059/10.735/L,W
-  via https://en.osm.town/@OpenInfraMap/113274678357024586
-* Wir haben die Biotopkartierung für Schleswig-Holstein aus dem Open-Data Portal geladen und auf eine interaktive Map https://biotopkarte.oklabflensburg.de gebracht.
-  https://biotopkarte.oklabflensburg.de
-  via https://norden.social/@oklabflensburg/113277130760388444
-* Vergleich OSM und Overture Kartenqualität
-  https://surprisedatespot.com/blog/comparing-overture-osm-restaurants/
-* Shoogle ist ein Gemeinschaftsprojekt, um aktuelle Informationen zu den Einkaufsmöglichkeiten in Deutschland allen zur Verfügung zu stellen.
-  https://de.shoogle.net
-  via https://chaos.social/@midzer/113328056977615611
-  * via https://anonsys.net/display/bf69967c-1567-1516-5f33-f68866075773
-  * im Thread
-    * Every Door
-      https://every-door.app
-    * Open Stop
-      https://openstop.app
-* Georeferenzierungsprojekt der ZB
-  https://www.zb.uzh.ch/de/ueber-uns/citizen-science/prachtsatlanten-2-sprung-ins-18-jahrhundert
-  via https://openbiblio.social/@zbzuerich/113350405661266530
-* Funklochkarte erweitert: Jetzt mit mehr Informationen
-  https://www.heise.de/news/Funklochkarte-erweitert-Jetzt-mit-mehr-Informationen-9991686.html
-* Ich habe für jede Gemeinde in Deutschland eine Webseite generiert mit Angaben aus dem Zensus 2022
-  https://wahlatlas.net/experimente/zensus2022/
-  via https://norden.social/@wahlatlas/113362979201428877
-* Wikidata Guessr
-  https://guessr.blinry.org
+Wahlatlas hat für alle Gemeinden Deutschlands zum Stichtag 15. Mai 2022 [eine textliche Zusammenfassung](https://wahlatlas.net/experimente/zensus2022/) mit wichtigen Kennzahlen und aussagekräftigen Visualisierungen [generiert](https://norden.social/@wahlatlas/113362979201428877).
+
+Das OKLab Flensburg hat die Biotopkartierung für Schleswig-Holstein aus dem Open-Data Portal geladen und auf [eine interaktive Map](https://biotopkarte.oklabflensburg.de) gebracht. Mit [Klick aufs Biotoppolygon](https://norden.social/@oklabflensburg/113277130760388444) lassen sich Meta-Informationen einblenden.
+
+Die [Open Infrastructure Map](https://openinframap.org/#7.33/51.059/10.735/L,W) kann mit [der letzten Aktualisierung](https://en.osm.town/@OpenInfraMap/113274678357024586) nun auch Stauseen, Wasseraufbereitungs- und Kläranlagen sowie Pumpstationen anzeigen.
+
+Ebenfalls erweitert wurde die [Funklochkarte](https://www.breitbandmessung.de/kartenansicht-funkloch) der Bundesnetzagentur. Neben den neuen Filtermöglichkeiten können nun auch Breitbandmessergebnisse [feingranularer abgerufen wurden](https://www.heise.de/news/Funklochkarte-erweitert-Jetzt-mit-mehr-Informationen-9991686.html).
+
+Das Gemeinschaftsprojekt [Shoogle](https://de.shoogle.net) stellt aktuelle Informationen zu Einkaufsmöglichkeiten in Deutschland auf Basis von den in OpenStreetMap hinterlegten Daten datenschutzfreundlich zur Verfügung (da man so nicht Google Maps nutzen muss). Um die entsprechenden Daten aktuell zu halten, bietet sich eine App wie [Every Door](https://every-door.app). Für die Pflege von Informationen zur Barrierefreiheit von ÖPNV-Haltestellen gibt es mit [Open Stop](https://openstop.app) eine vergleichbare App.
+
+William Edmisten zeigt auf seinem Blog, wie man die Qualität der Datenstände von OpenStreetMap, [Overture Maps](https://overturemaps.org) und Google Maps [miteinander vergleicht](https://surprisedatespot.com/blog/comparing-overture-osm-restaurants/).
+
+Über 2250 digitalisierte Landkarten und Stadtpläne aus Atlanten des 16. bis 18. Jahrhunderts wurden im Rahmen des Citizen Science Projekts ["Prachtsatlanten 2"](https://www.zb.uzh.ch/de/ueber-uns/citizen-science/prachtsatlanten-2-sprung-ins-18-jahrhundert) der Zentralbibliothek Zürich in nur 4 Wochen [georeferenziert](https://openbiblio.social/@zbzuerich/113350405661266530).
+
+Mit Blinrys [Wikidata Guessr](https://guessr.blinry.org) kann man raten, wo ein gezeigtes Foto aufgenommen worden sein könnte.  
 
 ## Transparenz
 * Cuiiliste.de: Wie ein Schüler sich für Transparenz bei Domain-Sperren einsetzt​
