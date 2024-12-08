@@ -12,42 +12,21 @@ type: blog
 ---
 
 ## Datenvisualisierungen
-* Datawrapper Data Vis Dispatch Sammlungen von Visualisierungen zu Hurrikan Helene, Überschwemmung Europa, Wahlen Österreich / USA und andere Themen
-  https://blog.datawrapper.de/data-vis-dispatch-october-1-2024/
-* New: Arrow maps
-  https://blog.datawrapper.de/arrow-maps/
+Der Datawrapper Blog stellt jede Woche eine Auswahl an zum Teil auch interaktiven Visualisierungen aus aller Welt zu aktuellen Themen zusammen. [Anfang Oktober](https://blog.datawrapper.de/data-vis-dispatch-october-1-2024/) waren das unter anderem die Auswirkungen des Hurrikan Helene in den USA und den Wahlergebnissen in Österreich. Sie zeigen, wie fantasievoll Zusammenhänge in solchen Darstellungen vermittelt werden können. Seit Ende Oktober bietet Datawapper selbst auch einen neuen Kartentyp an, so genannte [Arrow Maps](https://blog.datawrapper.de/arrow-maps/).   
 
 ## OpenData
-* Mathias Begoin vom Leibniz-Informationszentrum Technik und Naturwissenschaften und Universitätsbibliothek gibt eine kurze Einführung in Open Data:
-  https://openbiblio.social/@tibhannover/113316713238664992
-* Die Nobelpreisträger John Jumper und Demis Hassabis haben als Grundlage für ihr KI-Modell AlphaFold2 die offene Protein-Datenbank genutzt, welche die globale wissenschaftliche Zusammenarbeit seit 1971 dokumentiert. Der Datensatz ist unter CC Zero lizensiert. 
-  Ohne offene Daten hätte es diesen Nobelpreis also vermutlich nicht gegeben. Auf jeden Fall unterstreicht es die zentrale Bedeutung offener Daten für den menschlichen Fortschritt!
-  https://social.wikimedia.de/@wikimediaDE/113289185672828510
-* LODinG widmet sich dem Einsatz von Linked Open Data (LOD) in den Geisteswissenschaften, mit einem Schwerpunkt auf den Sprach-, Literatur-, Kultur- und Medienwissenschaften.
-  https://tcdh.uni-trier.de/de/projekt/loding
-  via https://openbiblio.social/@ULB_MS_FachInfo/113304642814695442
-* das opendata-forum von opendatabund ist öffentlich zu zugänglich
-  https://discourse.opencode.de/c/opendata/755
-  via https://chaos.social/@jk/113322621065197151
-* Lizenzen und Glaubensfragen um Lizenzen
-  https://bva.bund.de/SharedDocs/Downloads/DE/Behoerden/Beratung/OpenData/SCCON24_Wikimedia_CC-Lizenzen.pdf?__blob=publicationFile
-* Open Data Kompass
-  https://bva.bund.de/SharedDocs/Downloads/DE/Behoerden/Beratung/OpenData/SCCON24_BMDV_OD-Kompass.pdf?__blob=publicationFile
-* Open Data institutionalisieren
-  https://bva.bund.de/SharedDocs/Downloads/DE/Behoerden/Beratung/OpenData/SCCON24_RKI_OD-Service.pdf?__blob=publicationFile
-* Gibt es so etwas wie die USDA FoodData Central Datenbanken auch aus Deutschland? Bisher finde ich die "Bundeslebensmittelschlüssel" (BLS) Datenbank vom Max Rubner-Institut, und die ist nicht Open Data
-  https://gruene.social/@marian/113374000941685718
-* Kompakkt und Semantic Kompakkt – eine zukunftssichere Alternative für 3D-Modelle
-  Kompakkt statt SketchFab
-  https://blog.tib.eu/2024/09/24/kompakkt-und-semantic-kompakkt-eine-zukunftssichere-alternative-fuer-3d-modelle-und-kulturerbe-institutionen/
-  https://semantic-kompakkt.de/home
+Mathias Begoin vom Leibniz-Informationszentrum Technik und Naturwissenschaften und Universitätsbibliothek (TIB) gab im Rahmen derer Openess-Themenwoche [eine kurze Einführung in Open Data](https://openbiblio.social/@tibhannover/113316713238664992).
+
+Auch die diesjährige [Smart Country Convention](https://www.smartcountry.berlin) (SCCON 2024) bot der Open-Data-Community die Möglichkeit zum gegenseitigen Austausch. [Hannes Wünsche pädierte](https://bva.bund.de/SharedDocs/Downloads/DE/Behoerden/Beratung/OpenData/SCCON24_RKI_OD-Service.pdf?__blob=publicationFile) (aus seiner Forschungsdatenmanagement-Sicht) dafür, dass der Umgang mit Open Data institutionalisiert gehört. Dr. Roland Goetzke vom Bundesministerium für Digitales und Verkehr stellte den [Open Data Kompass](https://bva.bund.de/SharedDocs/Downloads/DE/Behoerden/Beratung/OpenData/SCCON24_BMDV_OD-Kompass.pdf?__blob=publicationFile) vor, der den Datenbereitstellungsprozess für Behörden zunächst für die Mobilithek vereinfachen soll. In [seinem Vortrag](https://bva.bund.de/SharedDocs/Downloads/DE/Behoerden/Beratung/OpenData/SCCON24_Wikimedia_CC-Lizenzen.pdf?__blob=publicationFile) erinnerte Stefan Kaufmann von Wikimedia Deutschland daran, dass man den Sonderweg mit den Deutschland-Lizenzen aufgegeben und stattdessen wie alle andere auf die etablierten Create-Commons-Lizenzen (CC) setzen sollte. 
+
+Unter eben einer solchen CC-Lizenz steht die offene Protein-Datenbank, die globale wissenschaftliche Zusammenarbeit seit 1971 dokumentiert Sie bildete die Grundlage für das KI-Modell AlphaFold2, für das nun John Jumper und Demis Hassabis mit dem Nobelpreis ausgezeichnet worden sind. Für [Wikimedia](https://social.wikimedia.de/@wikimediaDE/113289185672828510) unterstreicht dies die zentrale Bedeutung offener Daten für den menschlichen Fortschritt!
+
+Sich darauf zu verlassen, dass ein externer Dienst auch in Zukunft unter den gleichen Konditionen verfügbar bleiben wird, keine gute Idee ist, merken nun Nutzer von SketchFab. Die Eigentümer dieser Plattform zum Teilen von 3D-Modellen haben sich nun entschlossen, einen neuen Shop aufzubauen, in den die Inhalte des alten [migriert](https://support.fab.com/s/article/Sketchfab-to-Fab-Migration-FAQ) werden und sich an dessen neuen Lizenzierungsregeln anpassen müssen. Lozana Rossenova, die im NDFI4Culture-Projekt arbeitet, [schlägt daher vor](https://blog.tib.eu/2024/09/24/kompakkt-und-semantic-kompakkt-eine-zukunftssichere-alternative-fuer-3d-modelle-und-kulturerbe-institutionen/),auf ihre Open-Source-Lösung Kompakkt bzw. deren LOD-Erweiterung [Semantic Kompakkt](https://semantic-kompakkt.de/home) zu wechseln.
+
+Linked Open Data (LOD) möchte auch das Projekt [LODinG](https://tcdh.uni-trier.de/de/projekt/loding) etablieren, allerdings mit Schwerpunkt auf Sprach-, Literatur-, Kultur- und Medienwissenschaften.
 
 ## Parlamentsdaten
-* jetzt wird's wild. Bei https://www.stadtratwatch.de können Redebeiträge jetzt nachgelesen werden.
-  https://machteburch.social/@JensWinter/113312847820837484
-* We are collaboratively building an open standard and API for harmonized Swiss parliamentary data to promote transparency, innovation and participation in Swiss politics.
-  https://opendata.ch/projects/openparldata/
-  via https://mastodon.social/@florihas/113317900531884310
+Bei Opendata.ch wird an offenen Standards und Schnittstellen [gearbeitet](https://opendata.ch/projects/openparldata/), um Schweizer Parlamentsdaten zu harmonisieren, um so mehr Transparenz und Partizipation zu ermöglichen. Wie weit man die Transparenz treiben kann, zeigt [Code for Magdeburg](https://codefor.de/magdeburg/): in deren [Stadtratwatch](https://www.stadtratwatch.de) werden neuerdings die Video-Mitschnitte der Stadtratssitzungen transkribiert und die so gewonnenen Redebeiträge [durchsuchbar angeboten](https://machteburch.social/@JensWinter/113312847820837484).
 
 ## OpenSource
 * Die OpenInfra Foundation hat Version 2024.2 des Virtualisierers OpenStack freigegeben. Der Exodus von VMware-Kunden hat dem Projekt neuen Schub gegeben.
