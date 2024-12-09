@@ -144,29 +144,18 @@ Nach dem Bericht der neuen Bundeswaldinventur ist klar: [der heimische Wald wird
 
 ## Esel spricht rückwärts
 ### KI im Wikiverse
-* Wikipedia now needs to have a "WikiProject AI Cleanup".  They should send Sam Altman a massive bill for all their extra, unnecessary work.
-  https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup
-  via https://tldr.nettime.org/@festal/113243136033103324
-* WikiChat, the new LLM integration for MediaWiki
-  https://www.semantic-mediawiki.org/wiki/MediaWiki_Users_and_Developers_Conference_Fall_2024/WikiChat
-  https://github.com/stanford-oval/wikichat
-  via https://wikis.world/@MWStake/113274015055700798
-* Could making Wikidata 'human' readable lead to better AI?
-  https://www.buzzsprout.com/2265960/episodes/15888577
+Bei Wikipedia wurde das Projekt ["WikiProject AI Cleanup"](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup) gegründet, um sich dem zunehmenden Problem unbelegter, schlecht geschriebener, KI-generierter Inhalte in Wikipedia anzunehmen. [Wie Felix Stadler schreibt](https://tldr.nettime.org/@festal/113243136033103324), sollte man diesen Zusatzaufwand, den nun Haupt- und Ehrenamtliche haben, Sam Altman, dem Chef von OpenAI, in Rechnnung stellen.
 
-### KI Trainingsdaten  
-* Die VG Wort möchte, dass ich meine journalistischen Texte Unternehmen und Behörden übergebe, wenn sie diese für "Anwendungen der KI" brauchen. Man muss explizit widersprechen
-  https://social.heise.de/@dborch/113264920915086138
-* "VGWort ändert ihre Verträge mit Autor*innen und hat jetzt eine "KI-Lizenz" und möchte Eure Werke jetzt benutzen, um generative KI damit zu füttern"
-  https://news.vgwort.de/online.php?u=6Tq9WGt2361
-  https://www.vgwort.de/fileadmin/vg-wort/pdf/Veroeffentlichungen/Wortreport/Fragen_und_Antworten_zur_neuen_KI_Vergleichsfassung_2024_10_19_final.pdf
-  https://www.podcast.de/episode/644261353/vg-wort-und-die-ki-lizenz-was-hat-das-zu-bedeuten-interview-mit-nina-george
-  via https://systemli.social/@anneroth/113265785508980072
-* Nach Colorado verabschiedet jetzt auch Kalifornien ein Gesetz, das die Gehirndaten von Verbrauchern schützen soll. 
-  https://www.heise.de/news/Verbraucherschutz-Kalifornien-verabschiedet-Gesetz-fuer-Schutz-neuronaler-Daten-9963640.html
-* Massive E-Learning Platform Udemy Gave Teachers a Gen AI 'Opt-Out Window'. It's Already Over.
-  "Retraining LLMs repeatedly to eliminate undesirable knowledge is impractical due to their immense parameters.”
-  https://www.404media.co/massive-e-learning-platform-udemy-gave-teachers-a-gen-ai-opt-out-window-its-already-over/
+Sachgemäß und reflektiert eingesetzt, können die großen Sprachmodelle (LLM) aber trotzdem auch für Wikipedia nützlich sein. Auf der [MediaWiki Users and Developers Conference](https://www.semantic-mediawiki.org/wiki/MediaWiki_Users_and_Developers_Conference_Fall_2024) wurde in einem [Vortrag](https://www.youtube.com/watch?v=2J9hhvyLWSs), die neue LLM-Integration für MediaWiki, [WikiChat](https://wikichat.genie.stanford.edu), das auch auch [Open-Source](https://github.com/stanford-oval/wikichat) ist, vorgestellt. 
+
+[In einem Podcast](https://www.buzzsprout.com/2265960/episodes/15888577) wird über ein Projekt gesprochen, mit dem LLMs in die Lage gebracht werden sollen, Wikidata-Datensätze einlesen zu können.   
+
+### KI Trainingsdaten
+Die [VG Wort](https://www.vgwort.de/) ändert ihre Verträge mit Autor:innen und führt eine sogenannte KI-Lizenz ein. In ihrem [Sondernewsletter](https://news.vgwort.de/online.php?u=6Tq9WGt2361) wird dazu der Vorstand von VG-Wort interviewt, in einem [Frage-Antwort-Dokument](https://www.vgwort.de/fileadmin/vg-wort/pdf/Veroeffentlichungen/Wortreport/Fragen_und_Antworten_zur_neuen_KI_Vergleichsfassung_2024_10_19_final.pdf), ebenfalls von VG-Wort selbst, werden weitere Details geklärt. Etwas unabhängiger wird das Thema im [Zeilenschlinger-Podcast](https://www.podcast.de/episode/644261353/vg-wort-und-die-ki-lizenz-was-hat-das-zu-bedeuten-interview-mit-nina-george) mit der Gesprächspartnerin Nina George besprochen. Im jeden Fall [müssen Autoren explizit widersprechen](https://social.heise.de/@dborch/113264920915086138), wenn sie nicht möchten, dass ihre Texte für das Anlernen einer Unternehmens-internen KI verwendet werden.
+
+Auch die Online-Lern-Plattform Udemy [möchte mit ihren Inhalte generative KIs trainieren](https://www.404media.co/massive-e-learning-platform-udemy-gave-teachers-a-gen-ai-opt-out-window-its-already-over/), auch hier wird das Opt-Out-Verfahren angewendet, d.h. Wissensproduzenten müssen aktiv widersprechen, das Zeitfenster dazu waren nur 3 Wochen, das inzwischen abgelaufen ist. Im Artikel wird auch darauf hingewiesen, dass es völlig unpraktikabel ist, eine LLM jedesmal neuzutrainieren, um ungewünschte Inhalte zu entfernen, da viel zu viele Parameter Einfluss auf den Lernprozess nehmen.
+
+In weiser Voraussicht hat nun nach Colorado [auch Kalifornien ein Gesetz erlassen](https://www.heise.de/news/Verbraucherschutz-Kalifornien-verabschiedet-Gesetz-fuer-Schutz-neuronaler-Daten-9963640.html), mit dem die Gehirndaten von Verbrauchern geschützt werden sollen. Allerdings lässt der Gesetzestext noch zu viele Schlupflöcher zu.
 
 ### KI und Umwelt
 * On the (im)possibility of sustainable artificial intelligence
