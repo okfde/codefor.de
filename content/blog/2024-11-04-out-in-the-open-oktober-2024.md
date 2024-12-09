@@ -157,18 +157,12 @@ Auch die Online-Lern-Plattform Udemy [möchte mit ihren Inhalte generative KIs t
 
 In weiser Voraussicht hat nun nach Colorado [auch Kalifornien ein Gesetz erlassen](https://www.heise.de/news/Verbraucherschutz-Kalifornien-verabschiedet-Gesetz-fuer-Schutz-neuronaler-Daten-9963640.html), mit dem die Gehirndaten von Verbrauchern geschützt werden sollen. Allerdings lässt der Gesetzestext noch zu viele Schlupflöcher zu.
 
-### KI und Umwelt
-* On the (im)possibility of sustainable artificial intelligence
-  * "Stop unformation gathering": Strategie begegnen, Maßnahmen zu verzögern, weil man angeblich noch nicht genug Daten hätte 
-  * "similarly usable results can be achieved using conventional and lightweight non-AI data processing methods, such as traditional statistics"
-  * "LLMs are largely used for misinformation, surveillance, and desire creation "
-  * https://policyreview.info/articles/news/impossibility-sustainable-artificial-intelligence/1804
-* KI-Technik könnte Elektroschrott-Menge steigen lassen
-  https://www.heise.de/news/KI-Technik-koennte-Elektroschrott-Menge-steigen-lassen-9997283.html
-* Klimafaktor KI: Der versteckte Energiehunger moderner Algorithmen
-  https://civic-data.de/klimafaktor-ki/
-* Global E-Waste Monitor 2024
-  https://globalewaste.org
+### KI und Nachhaltigkeit
+Kann Künstliche Intelligenz je nachhaltig sein oder gar zur Verbesserung der Nachhaltigkeit beitragen? [Rainer Rehak meldet da erhebliche Zweifel an](https://policyreview.info/articles/news/impossibility-sustainable-artificial-intelligence/1804). Denn der aktuelle politische und wirtschaftliche Kontext, die bestehenden Machtstrukturen und -interessen und Wertvorstellungen nehmen Einfluss darauf, mit welchen Daten die KI trainiert und auf welche Vorstellung von Optimalität sie konfiguriert wird. KI-Technologie in den Händen von Menschen mit schlechtem Charakter wird auch weiterhin die Welt nicht verbessern. Sie werden versuchen, mit ihr sich einseitig einen Vorteil zu verschaffen ohne Rücksicht auf andere. 
+
+So lässt sich beobachten, dass generative KI zunehmend für die Erzeugung von Desinformation, zur Massenüberwachung und der Manipulation von Konsumwünschen genutzt wird. Mit diesem [Technikpaternalismus](https://de.wikipedia.org/wiki/Technikpaternalismus) geben wir Stück für Stück unsere Handlungsfreiheit auf. Im Sinne von [Magischem Denken](https://de.wikipedia.org/wiki/Magisches_Denken) erhofft man sich einfache Lösungen. Technik wird zur Ausrede, sich nicht ändern zu müssen und so weiter machen zu können wie bisher, vielleicht sogar noch doller als zuvor (ewiges Wachstum). Die bisherigen Nutznießer des Status Quo nutzen das, notwendige Veränderungen weiter zu verschleppen und an ihren alten kaputten Geschäftsmodellen festzuhalten, mit denen sie vielleicht heute noch gut verdienen, die Welt von morgen aber weiter zerstören. 
+
+Ein weiteres Problem ist der kollektive [Hype](https://de.wikipedia.org/wiki/Medienhype) um KI, der dazu führt, dass schon bestehende leichtgewichtige Nicht-KI-Verarbeitungsmethoden, die vergleichbare Ergebnisse liefern könnten, in Vergessenheit geraten. Durch diese unnötige Übernutzung könnte bis 2030 [die Menge an Elektroschott um den Faktor 1000 steigen](https://www.heise.de/news/KI-Technik-koennte-Elektroschrott-Menge-steigen-lassen-9997283.html), weil Server mit ihrer Rechenleistung mit der aktuellen Entwicklung immer Schritt halten müssen. Alte werden schneller aussortiert. Der [Global E-Waste Monitor 2024](https://globalewaste.org) bestätigt diese Entwicklung. Der gestiegene Wasserverbrauch für die Kühlung und [der Energiehunger der Algorithmen](https://civic-data.de/klimafaktor-ki/) kommt noch drauf.
 
 ### Job-Abbau durch KI
   * KI bedroht jeden zweiten Arbeitsplatz im Bankensektor
