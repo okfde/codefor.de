@@ -164,86 +164,65 @@ So lässt sich beobachten, dass generative KI zunehmend für die Erzeugung von D
 
 Ein weiteres Problem ist der kollektive [Hype](https://de.wikipedia.org/wiki/Medienhype) um KI, der dazu führt, dass schon bestehende leichtgewichtige Nicht-KI-Verarbeitungsmethoden, die vergleichbare Ergebnisse liefern könnten, in Vergessenheit geraten. Durch diese unnötige Übernutzung könnte bis 2030 [die Menge an Elektroschott um den Faktor 1000 steigen](https://www.heise.de/news/KI-Technik-koennte-Elektroschrott-Menge-steigen-lassen-9997283.html), weil Server mit ihrer Rechenleistung mit der aktuellen Entwicklung immer Schritt halten müssen. Alte werden schneller aussortiert. Der [Global E-Waste Monitor 2024](https://globalewaste.org) bestätigt diese Entwicklung. Der gestiegene Wasserverbrauch für die Kühlung und [der Energiehunger der Algorithmen](https://civic-data.de/klimafaktor-ki/) kommt noch drauf.
 
+[Tactical Tech](https://tacticaltech.org/) hat zusammen mit den [DensityDesign Lab](https://densitydesign.org/) mit “Supercharged by AI” eine Ausstellung zu den Auswirkungen von KI auf unser Online-Informationskonsum [konzipiert](https://tacticaltech.org/news/project-launches/supercharged-by-ai-effects/). Anleitung und Materialien [stehen frei zum Download](https://www.theglassroom.org/supercharged-by-ai/), so dass interessierte Institutionen die Ausstellung selbst bei sich lokal organisieren können.
+
 ### Job-Abbau durch KI
-  * KI bedroht jeden zweiten Arbeitsplatz im Bankensektor
-    https://www.telepolis.de/features/KI-bedroht-jeden-zweiten-Arbeitsplatz-im-Bankensektor-9977296.html
-  * Radiosender ersetzt Moderatoren durch KI
-    https://www1.wdr.de/kultur/kulturnachrichten/radio-moderatoren-ersetzt-durch-ki-avatare-polen-100.html
-    https://www.heise.de/news/Polnischer-Radiosender-laesst-Texte-und-Moderation-per-KI-erstellen-9994573.html
-  * Tiktok setzt bei Inhaltemoderation auf KI und wirft hunderte Mitarbeiter raus
-    https://www.heise.de/news/Tiktok-setzt-bei-Inhaltemoderation-auf-KI-und-wirft-hunderte-Mitarbeiter-raus-9978680.html
-  * KI im Journalismus: Kreisliga-Fußball überfordert künstliche Intelligenz
-    https://www.telepolis.de/features/Kreisliga-Fussball-ueberfordert-kuenstliche-Intelligenz-9978964.html
-  * AI replacing designers
-    https://oslo.town/@matt/113329963120078397
-  * Illustratoren
-    https://troet.cafe/@verocomics/113366258503313314
-  * Lehrer?
-    https://netzpolitik.org/2024/kultusministerkonferenz-mit-kuenstlicher-intelligenz-gegen-die-bildungsmisere/
-  * Soziale Interaktion
-    https://intouch.family/en
-    via https://social.lol/@sophie/113338832358048532
-  * Tourismus / Influencer
-    https://www.indiskretionehrensache.de/2024/10/emma-influencerin-dtz/
-    https://www.indiskretionehrensache.de/2024/10/emma-virtueller-influencer/
-    via https://chaos.social/@Villeroy@nrw.social/113345990073604082
+Ob im Kundenservice, im Investmentbanking, bei der Betrugsbekämpfung oder der Erkennung potenzieller Zahlungs- und Kreditausfälle: [KI soll im Bankensektor Prozesse automatisieren und die Produktivität zu steigern](https://www.telepolis.de/features/KI-bedroht-jeden-zweiten-Arbeitsplatz-im-Bankensektor-9977296.html). Laut einer Citi-Studie haben 54 Prozent der Arbeitsplätze ein hohes Automatisierungspotenzial durch KI. Heißt aber auch zigtausende Jobs werden wegfallen, die verbliebenen Jobs erfordern neue Fähigkeiten. Die Rentabilitätssteigerung erfolgen also auf den Rücken der Beschäftigten, deren Lohnkosten man sich einspart.
 
-## KI Sonstiges
-* Supercharged by AI: A new creative intervention about the effects of AI on our online lives
-  https://tacticaltech.org/news/project-launches/supercharged-by-ai-effects/
-* Schwarz Digits und Deutsche Bahn verkünden Gründung des DataHub Europe mit starken Medien- und KI-Partnern
-  https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Schwarz-Digits-und-DB-verkuenden-Gruendung-des-DataHub-Europe-13109540
-* Open-Access AI: Lessons From Open-Source Software
-  https://www.lawfaremedia.org/article/open-access-ai--lessons-from-open-source-software
+Der polnischer öffentlich-rechtliche Radiosender OFF Krakau hat ein Dutzend Moderatoren entlassen und [durch KI-generierte Avatare ersetzt](https://www1.wdr.de/kultur/kulturnachrichten/radio-moderatoren-ersetzt-durch-ki-avatare-polen-100.html). Der Sender [stellte aber klar](https://www.heise.de/news/Polnischer-Radiosender-laesst-Texte-und-Moderation-per-KI-erstellen-9994573.html), dass es zu den Entlassungen keinen Zusammenhang gäbe und es sich auch nur um ein 3-monatiges Experiment handle. 
 
-## Transparenz
-* Cuiiliste.de: Wie ein Schüler sich für Transparenz bei Domain-Sperren einsetzt​
-  https://www.heise.de/hintergrund/Warum-ein-Schueler-sich-fuer-mehr-Transparenz-beim-Sperren-von-Domains-einsetzt-9959663.html
-* Orwell wäre stolz: Die EU-Kommission möchte Rüstung als nachhaltig einstufen
-  "jährliches Lobby-Budget von ca. 11-15 Millionen Euro"
-  https://www.lobbycontrol.de/lobbyismus-in-der-eu/waffenlobby-ruestung-soll-als-nachhaltig-eingestuft-werden-117574/
-* Diese Nebeneinkünfte haben die Abgeordneten im Bundestag
-  https://www.abgeordnetenwatch.de/recherchen/nebentaetigkeiten/diese-nebeneinkuenfte-haben-die-abgeordneten-im-bundestag
-* Drehtüreffekt bei EU-Kommission: Lobby-Wächter kritisieren Beamtenwechsel zu Microsoft
-  https://netzpolitik.org/2024/drehtuereffekt-bei-eu-kommission-lobby-waechter-kritisieren-beamtenwechsel-zu-microsoft/
-* Lobbycontrol: Big Tech beeinflusst Debatte um Digital Markets Act
-  https://www.heise.de/news/Lobbycontrol-Big-Tech-beeinflusst-Debatte-um-Digital-Markets-Act-9997395.html
-* Nach gut drei Jahren liegt kein Entwurf für das versprochene Bundestransparenzgesetz vor. Die verantwortliche Ministerin lässt das zur "Privatsache" erklären.
-  https://www.heise.de/news/BMI-Transparenzgesetz-Privatsache-der-Ministerin-9997761.html
-* LNG-Terminals und das Wasserstoff-Narrativ
-  https://www.lobbycontrol.de/lobbyismus-und-klima/lng-terminals-und-das-wasserstoff-narrativ-117934/
+Dass KI im Journalismus auch ein Risiko darstellt, zeigt sich an [den KI-generierten Berichten](https://www.telepolis.de/features/Kreisliga-Fussball-ueberfordert-kuenstliche-Intelligenz-9978964.html) für Kreisliga-Fußballspiele auf einem Internet-Portal: tatsächlich wurde eine Spiel nach einer Schlägerei abgebrochen, im Text wurde dies zwar auch erwähnt, gleichzeitig an anderen Stellen von einem Unentschied und einer Niederlage gesprochen. Es wurde auch behauptet, dass das Spiel in einem Stadion stattgefunden hätte, in Wahrheit war es ein Schulsportplatz. Diese falsche Darstellungen und logischen Inkonsistenzen mögen bei einem Fußballspiel noch harmlos sein, bei ernsteren Themen, kann dieses Einsparen von Lokaljournalisten zu falschen Entscheidungen führen und Vertrauen zerstören. 
 
-## Überwachung
-* Die Cookiefalle 1/4: Der Pakt mit dem Werbeteufel
-  https://www.srf.ch/audio/news-plus-hintergruende/die-cookiefalle-1-4-der-pakt-mit-dem-werbeteufel?id=12668999
-* Locate X: Die verstörend leichte Massenüberwachung mit Standortdaten
-  https://netzpolitik.org/2024/locate-x-die-verstoerend-leichte-massenueberwachung-mit-standortdaten/
-* „Sicherheitspaket“ mit biometrischer Massenüberwachung: Die Ampel ist bankrott
-  https://www.ccc.de/de/updates/2024/sicherheitspaket
-  * Die Fortschrittskoalition ist tot
-    https://netzpolitik.org/2024/sicherheitspaket-die-fortschrittskoalition-ist-tot/
+Bei Tiktok [verlieren mehrere Hundert Content-Moderator:innen ihren Job](https://www.heise.de/news/Tiktok-setzt-bei-Inhaltemoderation-auf-KI-und-wirft-hunderte-Mitarbeiter-raus-9978680.html), da ihr bisheriger Arbeitgeber in diesem Bereich künftig sich verstärkt auf Künstliche Intelligenz verlassen möchte.
+
+Dieser [Unterbietungswettbewerb](https://de.wikipedia.org/wiki/Race_to_the_bottom) trifft auch verstärkt [Designer:innen](https://oslo.town/@matt/113329963120078397) und [Illustrator:innen](https://troet.cafe/@verocomics/113366258503313314). Die stumpfsinnige Zahlenschubser denken sich wohl, mit KI die Abhängigkeit von solchen Kreativen dauerhaft wegrationalisieren zu können und sich mit den KI-Werkzeugen nun selbst kreativ und intelligent zu fühlen (bzw. was sie dafür halten). Dazu passt dieser Klassiker von [Programmer Humor](https://www.reddit.com/r/ProgrammerHumor/comments/6brjkt/how_it_people_see_each_other/). Vielleicht sollte man aber auch die Einsparungsbestrebungen einfach mal [von der anderen Seite her angehen](https://kolektiva.social/@MikeDunnAuthor/113414276845103753) 😉. Eventuell bekommt man dann zudem bessere Entscheidungen. 
+
+Selbst vor sozialen Interaktion wird nicht Halt gemacht: ein [KI-Dienst soll die eigenen Eltern anrufen](https://social.lol/@sophie/113338832358048532), damit man sich selbst nicht kümmern muss.  
+
+Die Kultusministerkonferenz möchte laut ihrer [Handlungsempfehlung](https://www.kmk.org/fileadmin/veroeffentlichungen_beschluesse/2024/2024_10_10-Handlungsempfehlung-KI.pdf) den Fachkräftemangel an den Schulen [mit mehr Einsatz von künstlicher Intelligenz begegnen](https://netzpolitik.org/2024/kultusministerkonferenz-mit-kuenstlicher-intelligenz-gegen-die-bildungsmisere/). Aus einer [Umfrage](https://phv-nrw.de/wp-content/uploads/2024/03/20240125_Umfrage2_ChatGPT.pdf) unter Lehrer vom Philologenverband NRW Anfang des Jahres geht allerdings auch hervor, dass der Einsatz von ChatGPT und Co. für sie sogar Mehraufwand bedeutet. Die eigentlichen Probleme, wie zu große Klassen, Überlastung, schlechte Bezahlung und die damit verbundene geringe Attraktivität des Lehrerjobs, aber auch das [Unterrichtsklima](https://de.wikipedia.org/wiki/Unterrichtsklima) generell werden so jedenfalls nicht angegangen.
+
+Die von der Deutschen Zentrale für Tourismus (DZT) präsentierte "virtuelle Influencerin" Emma wird von [Thomas Knüwer auf seinem Blog](https://www.indiskretionehrensache.de/2024/10/emma-influencerin-dtz/) als typisches Beispiel dafür gesehen, was bei der Digitalisierung in Deutschland alles schief läuft. In einer noch detaillierteren weiteren Analyse [konstatiert er](https://www.indiskretionehrensache.de/2024/10/emma-virtueller-influencer/), dass "Digitale Technik aber auch ein Ego-Booster geworden" ist, Sinn und Qualität bleiben dabei auf der Strecke. So hätte man für einen guten Chatbot sehr viel Ressourcen in den Aufbau einer strukturierten Datenbasis stecken müssen, das hat man sich für die schnelle Aufmerksamkeit leider hier gespart.
 
 ## Datenräumeträume
-* Datenstrategie für Österreich vorgelegt
-  https://www.data.gv.at/2024/10/03/datenstrategie-fuer-oesterreich-vorgelegt-datenzugangsgesetz-in-begutachtung/
-* Hinweis auf "Die Logik der Daten nutzen: fortschrittliche Datenstrategien entwickeln" (von 2022)
-  https://www.oeffentliche-it.de/documents/10181/14412/Die+Logik+der+Daten+nutzen+-+Fortschrittliche+Datenstrategien+entwickeln
-  via https://mastodon.online/@kejan/113248799616913491
-* Digitalgipfel: Datenschutz und Datennutzung "neu justieren"
-  https://www.heise.de/news/Digitalgipfel-Die-grosse-Datenhoffnung-9989043.html
+Die IT- und Digitalsparte der Schwarz Gruppe, Schwarz Digits, hat zusammen mit der Deutschen Bahn AG auf dem diesjährigen Digital-Gipfel der Bundesregierung [die Plattform DataHub Europe](https://datahub-europe.ai) [gegründet](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Schwarz-Digits-und-DB-verkuenden-Gruendung-des-DataHub-Europe-13109540). Auf ihr sollen Daten aus Industrie und Medien zusammenführt, aufbereitet und kuratiert werden, mit dem Ziel, KI-Modelle in einer sicheren Infrastruktur zu trainieren. Der Kanzler kündigte auf der gleichen Veranstaltung auch an, [Datenschutz und Datennutzung "neu justieren"](https://www.heise.de/news/Digitalgipfel-Die-grosse-Datenhoffnung-9989043.html) zu wollen.
+
+In Österreich hat man sich [eine neue Datenstrategie gegeben](https://www.data.gv.at/2024/10/03/datenstrategie-fuer-oesterreich-vorgelegt-datenzugangsgesetz-in-begutachtung/).
+
+Jens Klessmann [erinnert](https://mastodon.online/@kejan/113248799616913491) an [zwei](https://www.oeffentliche-it.de/documents/10181/14412/Die+Logik+der+Daten+nutzen+-+Fortschrittliche+Datenstrategien+entwickeln) [Quellen](https://www.oeffentliche-it.de/documents/10181/14412/Datenbezogene+Standards), die fortschrittliche Datenstrategien für die öffentliche IT zum Thema haben.
+
+Der Artikel [Open-Access AI: Lessons From Open-Source Software](https://www.lawfaremedia.org/article/open-access-ai--lessons-from-open-source-software) erinnert nochmal daran, dass die angeblichen Open-Source KI-Lösungen im besten Fall nur Freeware sind, denn die Informationen, welche mit welchen Daten und auf welcher Software-Architektur die Modelle trainiert wurden, wird meist nicht offenbart.
+
+## Transparenz
+Vom federführenden Bundesinnenministerium liegt auch nach gut drei Jahren im Amt immer noch kein Entwurf für das im Koaliationsvertrag versprochene Bundestransparenzgesetz vor. Journalistische Nachfragen, wann sich den Behördenleiterin zuletzt mit dem Thema beschäftigt habe, [werden als "übergriffig" abgeblockt](
+  https://www.heise.de/news/BMI-Transparenzgesetz-Privatsache-der-Ministerin-9997761.html). Nach dem Ende Ampel Anfang November ist inzwischen absehbar, dass das Gesetz unter dieser Regierung definitiv nicht mehr kommen wird. 
+
+Gemeinsam mit dem Spiegel hat [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/) die veröffentlichungspflichtigen Angaben aller 733 Abgeordneten auf der Internetseite des Bundestages seit Beginn der Legislaturperiode [ausgewertet](https://www.abgeordnetenwatch.de/recherchen/nebentaetigkeiten/diese-nebeneinkuenfte-haben-die-abgeordneten-im-bundestag). 
+
+Nicholas Banasevic war 25 Jahre bei der EU-Kommission, nun ist er zu Microsoft gewechselt, also die Firma, die er als Wettbewerbshüter mit kontrolliert hat. Solche Zivilgesellschaftliche Organisationen fordern härtere Regeln, die solche [Drehtüreffekte](https://de.wikipedia.org/wiki/Dreht%C3%BCr-Effekt#Politik/Wirtschaft) erschweren, damit Firmen nicht vom jahrelang aufgebauten Insiderwissen über ihre Kontrolleure profitieren können.
+
+Wie [eine Recherche der NGOs Corporate Europe Observatory (CEO), SOMO und LobbyControl](https://www.heise.de/news/Lobbycontrol-Big-Tech-beeinflusst-Debatte-um-Digital-Markets-Act-9997395.html) zeigt, haben Tech-Giganten wie Google, Apple, ByteDance und Meta die Diskussionen in den Workshops der Europäischen Kommission zum Digital Markets Act (DMA) ebenfalls beeinflusst. 
+  
+Mit einem "jährliches Lobby-Budget von ca. 11-15 Millionen Euro" kann die Rüstungslobby auch aus den Vollen schöpfen und versucht die EU-Kommission dazubringen, ["Rüstung als nachhaltig einstufen"](https://www.lobbycontrol.de/lobbyismus-in-der-eu/waffenlobby-ruestung-soll-als-nachhaltig-eingestuft-werden-117574/).
+
+Und eine [Untersuchung von Bjarne Behrens](https://www.lobbycontrol.de/lobbyismus-und-klima/lng-terminals-und-das-wasserstoff-narrativ-117934/) legen nahe, dass die Gasindustrie politischen Einfluss auf den Bau fester LNG-Terminals genommen hat.
+  
+Für die über das Projekt Clearingstelle Urheberrecht im Internet" (CUII) vorgenommenen privaten Netzsperren ohne Gerichtsbeschluss aber in Abstimmung mit der für Netzneutralität zuständigen Bundesnetzagentur (BNetzA) gibt es keine offizielle Liste. Einem Schüler wurde eine Liste gesperrter Domänen zugespielt, bei denen sich bei näherer Prüfung herausstellte, dass es einige von ihnen zu Unrecht gesperrt wurden. Daher hat er nun die einst bestehende [Cuiiliste](https://cuiiliste.de) wiederbelebt und die Überprüfung automatisiert.
+
+## Überwachung
+Auf dem Schweizer Podcast "News Plus Hintergründe" geht es [in vier Folgen](https://www.srf.ch/audio/news-plus-hintergruende/die-cookiefalle-1-4-der-pakt-mit-dem-werbeteufel?id=c63a8021-f2cd-45c8-8cac-dc4aae1de860) um Cookies und Datenhandel.
+
+Wie leicht Massenüberwachung mit Standortdaten geht, zeigt die [App Locate X](https://netzpolitik.org/2024/locate-x-die-verstoerend-leichte-massenueberwachung-mit-standortdaten/). Es spricht Vieles dafür, dass das Tool Standortdaten aus der Werbeindustrie, die offen auf Datenmärkten gehandelt werden, verwendet.
+
+Unter Eindruck des Anschlags in Sohlingen und der generell vorherrschenden rechtslastigen Stimmung wurde im Bundestag ein "Sicherheitspaket" [beschlossen](https://www.ccc.de/de/updates/2024/sicherheitspaket), das auch biometrischen Massenüberwachung erlaubt. Damit dürfen Strafverfolgungsbehörden umfangreiche Datensammlungen dafür anfertigen. Täter wie in Sohlingen werden sich dadurch nicht stoppen lassen. Das Recht, sich frei und unbeobachtet bewegen zu können, wird damit weiter eingeschränkt. Und wenn die gesammelten Daten über KI ausgewertet werden, ist nicht mal nachvollziehbar, ob Unschuldige versehentlich ins Raster geraten.
 
 ## Recap
-* Bits & Bäume Herbstabend: Wem gehört das Internet? Keynotes von Francesca Bria und Esther M'wema
-  https://www.youtube.com/watch?app=desktop&v=zSAcnSKw-jQ
-* Digitalgipfel
-  * Tag 1: https://www.youtube.com/watch?v=mmMT81C38Wc
-  * Tag 2: https://www.youtube.com/watch?v=qqxmweZsqqc
-* 12 Jahre Wikidata – wir feiern mit!
-  https://temporaerhaus.de/12-jahre-wikidata/
+Auf dem [Bits & Bäume Herbstabend](https://www.youtube.com/watch?app=desktop&v=zSAcnSKw-jQ) ging es um die Frage "Wem gehört das Internet?" Die Keynotes hielten Francesca Bria und Esther M'wema.
 
-## Weiteres
-* temporaerhaus - Monatsrückblick September 2024 – ein Jahr am neuen Ort!
-  https://temporaerhaus.de/ein-jahr-am-neuen-ort/
+Vom Digitalgipfel gibt es Mitschnitte vom [Tag 1](https://www.youtube.com/watch?v=mmMT81C38Wc) und [Tag 2](https://www.youtube.com/watch?v=qqxmweZsqqc).
+
+12 Jahre Wikidata - das Temporaerhaus feierte dies [mit Veranstaltungen an drei Tagen](https://temporaerhaus.de/12-jahre-wikidata/).
+
+Aber auch das Temporaerhaus kann auf ein Jubiläum zurückblicken: seit einem Jahr nun residieren sie nun an ihrem neuen Standort in Neu-Ulm. Auf das vergangene Jahr ist auch Schwerpunkt in ihrem [Monatsrückblick September 2024](https://temporaerhaus.de/ein-jahr-am-neuen-ort/).
 
 ## Veranstaltungen
 * Freitag, 01.11.2024, 10:00, bis Sonntag, 03.11.2024, 20:00, Jugendzentrum Nord, Lintforter Straße 132, 47445 Moers: **Community Hackday** <a title='Kalendereintrag Community Hackday' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ29tbXVuaXR5IEhhY2tkYXkvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNDEyMDhUMTE1NjUxWg0KRFRTVEFSVDoyMDI0MTEwMVQxMDAwMDANCkRURU5EOjIwMjQxMTAzVDIwMDAwMA0KU1VNTUFSWTpDb21tdW5pdHkgSGFja2RheQ0KTE9DQVRJT046SnVnZW5kemVudHJ1bSBOb3JkXCwgTGludGZvcnRlciBTdHJhw59lIDEzMlwsIDQ3NDQ1IE1vZXJzDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy5jb2RlZm9ybmllZGVycmhlaW4uZGUvMjAyNC8xMC8wOS9jb21tdW5pdHktaGFja2RheS1hbS0xLTMtbm92ZW1iZXItaW0tanVuby8NCkRFU0NSSVBUSU9OOg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
