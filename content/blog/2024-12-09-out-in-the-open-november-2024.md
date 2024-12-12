@@ -29,21 +29,16 @@ Katharina Brunner von BR Data [macht uns in ihrem Blog](https://katharinabrunner
 Schleswig-Holstein und das Kraftfahrt-Bundesamt (KBA) arbeiten beim Thema Linked Open Data [schon längere Zeit zusammen](https://norden.social/@MisterOpenData/113560626991388934). Nun wurde eine offizielle Kooperationserklärung [unterzeichnet](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2024/IV/241126_cds_kooperationsvereinbarung).
 
 ## Open Data Adventskalender
-* Open Data Adventskalender aus der Schweiz
-  https://www.linkedin.com/company/open-data-adventskalender
-* Le calendrier de l'avent de la donnée ouverte
-  https://www.data.gouv.fr/fr/pages/noel/
-* München.Digital. Advent Coding Challenges 2024
-  https://it-at-m.github.io/advent-coding-challenges-24/
+Eine schöne Tradition zur Weihnachtszeit sind Adventskalendar. Einige Open-Data-Portale hatten die Idee aufgegriffen, um jeden Tag entweder einen schon bestehenden Datensatz vorzustellen oder gar extra einen neuen Datensatz offen online zu stellen. Dieses Jahr gibt es aus der [Schweiz](https://www.linkedin.com/company/open-data-adventskalender) und aus [Frankreich](https://www.data.gouv.fr/fr/pages/noel/) eine tägliche Überraschung. 
+
+In Deutschland bietet [München.Digital](https://muenchen.digital/), das IT-Referat der bayrischen Hauptstadt, bzw. konkret sein [KI Competence Center (KICC)](https://muenchen.digital/project/Digital-Government/KI-Kompetenzzentrum.html) über die Adventszeit [Coding Challenges als Gewinnspiel](https://it-at-m.github.io/advent-coding-challenges-24/) an.  
 
 ## Weihnachtsmärkte
-* Berlin
-  https://weihnachtsmaerkte.odis-berlin.de/
-  via https://social.bund.de/@opendatabund/113554923407680503
-* Leipzig
-  https://wo-ist-weihnachtsmarkt.codeforleipzig.de/
-* München
-  https://geoportal.muenchen.de/portal/weihnachtsmaerkte/
+Auf dem münchner Geoportal gibt es dieses Jahr auch das erste Mal eine [dezidierte Karte](https://geoportal.muenchen.de/portal/weihnachtsmaerkte/), auf der alle Weihnachtsmärkte im Stadtgebiet und näheren Umland dargestellt sind. Die Daten lassen sich auch vom [Open-Data-Portal](https://opendata.muenchen.de/dataset/weihnachtsmaerkte-muenchen) der Stadt herunterladen. Die Anwendung selbst basiert auf dem  Open-Source-Geoviewer(-Baukasten) [Masterportal](https://www.masterportal.org/). 
+
+Ursprünglich gestartet mit einer [Weihnachtsmarkt-App](https://weihnachtsmaerkte.odis-berlin.de/) war das [ODIS Berlin](https://odis-berlin.de/) 2022, die [Open-Source-Anwwendung](https://github.com/technologiestiftung/weihnachtsmarktkarte) wird aber aktuell gehalten und man hat sich dieses Jahr die Mühe gemacht, alle App- und Daten-Texte [auch auf Englisch zu übersetzen](https://www.instagram.com/technologiestiftung/p/DDPbiYPNY4m/), für eine internationale Stadt wie Berlin durchaus angemessen.
+
+In Leipzig geht die vom Berliner Vorbild [abgeleitet App](https://wo-ist-weihnachtsmarkt.codeforleipzig.de/) auch ins 3. Jahr. Hier sind neue Features die Volltextsuche, verlinkte vorausgefüllte Fahrplanauskünfte und exportierbare Kalendereinträge. Außerdem ist die nun über den [Apple Store](https://apps.apple.com/de/app/wtf-is-wm/id6738749984) bzw. über den [Google Playstore](https://play.google.com/store/apps/details?id=com.sannsie.woistweihnachtsmarktinleipzig) beziehbar.
 
 ## Karten
 * Road Network Detective
@@ -133,6 +128,8 @@ Schleswig-Holstein und das Kraftfahrt-Bundesamt (KBA) arbeiten beim Thema Linked
   https://www.volksverpetzer.de/aktuelles/einst-serioes-jetzt-desinformation/
 
 ## Ernährung
+* Gibt es so etwas wie die USDA FoodData Central Datenbanken auch aus Deutschland? Bisher finde ich die "Bundeslebensmittelschlüssel" (BLS) Datenbank vom Max Rubner-Institut, und die ist nicht Open Data
+  https://gruene.social/@marian/113374000941685718
 * Open Food Facts
   Open Food Facts is a food products database made by everyone, for everyone. You can use it to make better food choices, and as it is open data, anyone can re-use it for any purpose.
   https://world.openfoodfacts.org
