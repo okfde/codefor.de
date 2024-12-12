@@ -38,33 +38,22 @@ Auf dem münchner Geoportal gibt es dieses Jahr auch das erste Mal eine [dezidie
 
 Ursprünglich gestartet mit einer [Weihnachtsmarkt-App](https://weihnachtsmaerkte.odis-berlin.de/) war das [ODIS Berlin](https://odis-berlin.de/) 2022, die [Open-Source-Anwwendung](https://github.com/technologiestiftung/weihnachtsmarktkarte) wird aber aktuell gehalten und man hat sich dieses Jahr die Mühe gemacht, alle App- und Daten-Texte [auch auf Englisch zu übersetzen](https://www.instagram.com/technologiestiftung/p/DDPbiYPNY4m/), für eine internationale Stadt wie Berlin durchaus angemessen.
 
-In Leipzig geht die vom Berliner Vorbild [abgeleitet App](https://wo-ist-weihnachtsmarkt.codeforleipzig.de/) auch ins 3. Jahr. Hier sind neue Features die Volltextsuche, verlinkte vorausgefüllte Fahrplanauskünfte und exportierbare Kalendereinträge. Außerdem ist die nun über den [Apple Store](https://apps.apple.com/de/app/wtf-is-wm/id6738749984) bzw. über den [Google Playstore](https://play.google.com/store/apps/details?id=com.sannsie.woistweihnachtsmarktinleipzig) beziehbar.
+In Leipzig geht die vom Berliner Vorbild [abgeleitet App](https://wo-ist-weihnachtsmarkt.codeforleipzig.de/) (ebenfalls [Open Source](https://github.com/CodeforLeipzig/weihnachtsmarktkarte)), auch ins 3. Jahr. Hier sind neue Features die Volltextsuche, verlinkte vorausgefüllte Fahrplanauskünfte und exportierbare Kalendereinträge. Außerdem ist die nun über den [Apple Store](https://apps.apple.com/de/app/wtf-is-wm/id6738749984) bzw. über den [Google Playstore](https://play.google.com/store/apps/details?id=com.sannsie.woistweihnachtsmarktinleipzig) beziehbar.
 
 ## Karten
-* Road Network Detective
-  "I created an app with the help from shiny assistant. The app shows a road network and you need to guess the what city the road network is from. See if you can guess the city by looking at the road network:"
-  https://30daymapchallenge24.netlify.app/posts/day2/day2
-  via https://fosstodon.org/users/transportationtalk/statuses/113416719258284841
-* Jaller's OpenStreetMap check
-  https://osm-check.chrpaul.de
-  https://osm-check.chrpaul.de/report/stolpersteine-berlin-complete-by-kiez/
-  via https://chaos.social/@jk/113419187669874817
-* OSM Traffic Sign Tool 2
-  Verkehrszeichen korrekt in die Open Street Map eintragen und festgehalten, welche Regeln diese implizieren
-  https://trafficsigns.osm-verkehrswende.org/DE
-  via https://mastodon.social/@PrototypeFund/113435318376076669
-* (Overpass) Ultra v3
-  general purpose MapLibre GL JS IDE with many query providers 
-  https://www.openstreetmap.org/user/dpschep/diary/405539
-* Year of construction in which the building was completed for habitation.
-  https://wahlatlas.net/experimente/zensus2022/gemeinden/082210000000.html#epoche
-  via https://norden.social/@wahlatlas/113472210374521798
-* Greg Smith: Loading the World! OpenStreetMap Import In Under 4 Hours
-  https://www.crunchydata.com/blog/loading-the-world-openstreetmap-import-in-under-4-hours
-* OSMnx 2.0 is out - OSMnx is a Python package to easily download, model, analyze, and visualize street networks and any other geospatial features from OpenStreetMap
-  https://osmnx.readthedocs.io/en/stable/
-* Dynamische Karte mit PMTiles und Protomaps erstellen
-  https://digital.ebp.ch/2024/11/25/dynamische-karte-mit-pmtiles-und-protomaps-erstellen/
+Christian Paul hat [pro Berliner Bezirk GPX-Dateien](https://osm-check.chrpaul.de/report/stolpersteine-berlin-complete-by-kiez/) bereitgestellt, die die Positionen der in OpenStreetMap erfassten Stolpersteine enthalten, bei denen aber noch weitere Beschreibungsdaten fehlen. Die Hoffnung ist, dass Menschen sich in ihre mobile OSM-Editor-App laden, um diese Stellen im Reallife aufzusuchen und die Daten dort abzulesen und direkt über die App in OpenStreetMap nachzupflegen. Dazu gehören auf Verlinkungen auf bestehende Seite wie auf [stolpersteine-guide.de](https://stolpersteine-guide.de/map/suche) oder auch [Wikipedia](https://de.wikipedia.org/wiki/Stolpersteine_in_Deutschland), über die zu den Listen pro Stadt navigiert werden kann und eventuell auch Inkonsistenzen abgeglichen werden können.
+
+Ähnlich funktioniert das [OSM Traffic Sign Tool 2](https://trafficsigns.osm-verkehrswende.org/DE), einst vom [Prototype Fund gefördert](https://mastodon.social/@PrototypeFund/113435318376076669). Es unterstützt dabei, Verkehrszeichen korrekt in die OpenStreetMap einzutragen. Und man kann gleichzeitig festgehalten, welche Regeln diese implizieren.
+
+[Ultra v3](https://overpass-ultra.us/) ist eine Web-basierte integrierte [MapLibre](https://maplibre.org)-GL-JS-Entwicklungsumgebung, um Karten aus Daten unterschiedlicher Datenformate über [Overpass](https://wiki.openstreetmap.org/wiki/Overpass_API)-Queries zusammenstellen und stylen zu können. [Daniel Schep erklärt](https://www.openstreetmap.org/user/dpschep/diary/405539), welche neuen Formate durch das neue Konzept der Query-Providers in der aktuellen Version unterstützt werden. 
+
+Stefan Oderbolz [beschreibt auf seinem Blog](https://digital.ebp.ch/2024/11/25/dynamische-karte-mit-pmtiles-und-protomaps-erstellen/), wie er mit [Protomaps](https://docs.protomaps.com), speziell mit deren [PMTiles](https://docs.protomaps.com/pmtiles/) sowie [MinIO](https://min.io) (gehostet auf [fly.io](https://fly.io/)) eine dynamische Tiles-basierte Karte für die Anzeige aller Einbahnstraßen Europas erstellt hat. 
+
+Passend dazu lassen sich mit dem Python-Paket [OSMnx](https://osmnx.readthedocs.io/en/stable/) leicht Straßen-Netzwerke aber auch andere räumliche Daten von OpenStreetMap herunterladen, modellieren, analysieren und visualisieren.
+
+Das sich die Darstellung von Straßennetzen auch für ein Spiel eignet, beweist die App [Road Network Detective](https://30daymapchallenge24.netlify.app/posts/day2/day2). Man muss hier [rundenbasiert raten](https://fosstodon.org/users/transportationtalk/statuses/113416719258284841), zu welcher Stadt das zufällig gezeigte Netz gehört. Diese mit R-Shiny erstellte Anwendung war ein Beitrag zum Tag 2 des [30-Day-Map-Challenge](https://30daymapchallenge.com) Diese Challenges-Aktion wird jeden November ausgerufen. Jeden Tag gibt es neue Vorgaben.
+
+Für die Tag-12-Herausforderung hat Wahlatlas seine Zenus-2022-Auswertungen um [eine Darstellung der Gebäude nach ihrer Fertigstellung erweitert](https://norden.social/@wahlatlas/113472210374521798), hier am [Beispiel von Heidelberg](https://wahlatlas.net/experimente/zensus2022/gemeinden/082210000000.html#epoche) zu sehen.
 
 ## Mobilität
 * 9.000 Schnellladepunkten
@@ -272,14 +261,14 @@ In Leipzig geht die vom Berliner Vorbild [abgeleitet App](https://wo-ist-weihnac
 
 
 ## Call for Participation
+* INFORMATIK FESTIVAL 2025, bis 15.12.2024 Workshop-Vorschläge einreichen
+  https://informatik2025.gi.de/CfP.html
 * Prototype Fund: Bewerbt euch mit euren Ideen für innovative Open-Source-Software mit einem Mehrwert für die Gesellschaft! Ihr erhaltet bis zu 95.000 € in sechs Monaten oder 158.000 € in zehn Monaten Förderung durch das Bundesministerium für Bildung und Forschung. Die Bewerbungsfrist für Jahrgang 01 ist der 02. Januar 2025.
   https://new.prototypefund.de
 * Data Reuse Days 2025,  bis 12.1.2025 Sessions vorschlagen 
   https://www.wikidata.org/wiki/Event:Data_Reuse_Days_2025  
 * Der Call for Participation zur #rp25, bis 15.1.2025
   https://re-publica.com/de/news/der-call-participation-zur-rp25
-* INFORMATIK FESTIVAL 2025, bis 15.12.2024 Workshop-Vorschläge einreichen
-  https://informatik2025.gi.de/CfP.html
 
 ## Veranstaltungen
 * Dienstag, 03.12.2024, 14:00-14:45, online: **CorrelCompact: Diskriminierung durch Daten und Algorithmen** <a title='Kalendereintrag CorrelCompact: Diskriminierung durch Daten und Algorithmen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ29ycmVsQ29tcGFjdDogRGlza3JpbWluaWVydW5nIGR1cmNoIERhdGVuIHVuZCBBbGdvcml0aG1lbi8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI0MTIxMVQyMDIzNDhaDQpEVFNUQVJUOjIwMjQxMjAzVDE0MDAwMA0KRFRFTkQ6MjAyNDEyMDNUMTQ0NTAwDQpTVU1NQVJZOkNvcnJlbENvbXBhY3Q6IERpc2tyaW1pbmllcnVuZyBkdXJjaCBEYXRlbiB1bmQgQWxnb3JpdGhtZW4NCkxPQ0FUSU9OOm9ubGluZQ0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cuY29ycmVsYWlkLm9yZy92ZXJhbnN0YWx0dW5nZW4vY29ycmVsY29tcGFjdC1kYXRlbmV0aGlrDQpERVNDUklQVElPTjoNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
