@@ -60,18 +60,7 @@ Im Rahmen des Verkehrswende-Projekts ["Auf Rädern"](https://aufraedern.org/) ha
 
 Neben der grafischen Visualisierung kann man Daten auch klanglich darstellen, wie das Projekt [Noisy City](https://noisy-city.jetpack.ai) an Hand der verschiedenen Verkehrslautstärken in Brüssel eindrucksvoll beweist, Im Thread von [Frau Nora](https://chaos.social/@fraunora/113533047060675150) kann man noch mehr über ([Sonifikation](https://de.wikipedia.org/wiki/Sonifikation)) lernen.
 
-
-
-* 9.000 Schnellladepunkten
-  https://www.deutschlandnetz.de
-  via https://social.bund.de/@bmdv/113418144306433326
-
-
-* Aktuell läuft eine Rabattation bei Interrail: Bis zum 17. Dezember 2024 erhaltet ihr 25 % Rabatt auf alle Global-Pässe und viele Ein-Länder-Pässe. Mehr dazu weiter unten!
-  https://zugpost.org/interrail-sale/
-  via https://mastodon.social/users/sebwilken/statuses/113550337405561347
-
-
+Auf der Seite [Deutschlandnetz](https://www.deutschlandnetz.de) bewirbt das Bundes-Verkehrsminsterium die von ihm geplanten landesweiten [9.000 E-Mobilität-Schnellladepunkte](https://social.bund.de/@bmdv/113418144306433326). Das [StandortTOOL](https://standorttool.de/) zeigt dabei neben den Planungsdaten auch die aktuellen Daten des [Ladesäulenregisters](https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/Ladesaeulenkarte/start.html) an (die Ladesäulen.Daten können am Ende dieser Seite als xlsx- oder csv-Datei heruntergeladen werden).
 
 ## Klima
 * Weltklimakonferenz in Aserbaidschan: Klimafinanzierung schöngerechnet
