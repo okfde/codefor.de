@@ -56,19 +56,22 @@ Das sich die Darstellung von Straßennetzen auch für ein Spiel eignet, beweist 
 Für die Tag-12-Herausforderung hat Wahlatlas seine Zenus-2022-Auswertungen um [eine Darstellung der Gebäude nach ihrer Fertigstellung erweitert](https://norden.social/@wahlatlas/113472210374521798), hier am [Beispiel von Heidelberg](https://wahlatlas.net/experimente/zensus2022/gemeinden/082210000000.html#epoche) zu sehen.
 
 ## Mobilität
+Im Rahmen des Verkehrswende-Projekts ["Auf Rädern"](https://aufraedern.org/) haben Schüler:innen der Stadt Essen jeweils eine [senseBox:bike](https://sensebox.de/de/products-bike), eine mobile und modulare Messtation für Umweltdaten, auf ihr Fahrrad geschnallt. Wie der [reset-Artikel](https://reset.org/essen-auf-raedern-schuelerinnen-sammeln-daten-fuer-die-verkehrswende/) weiter berichtet, haben sie damit viele Sensor-Daten zu z.B. Überholabstände vorbeifahrender Autos, Erschütterungen durch Radwegeschäden und Geschwindigkeiten aufgezeichnet als auch das Anhalteverhalten an Ampeln oder im Stau über die Box getaggt. Die aus diesen Daten abgeleitete Karten zeigen evidenzbasiert die Problemstellen. Darauf aufbauend wurden  "Wunsch"- bzw. "Maßnahmenkarten" für einen besseren Radverkehr abgeleitet, die der Stadt übergeben werden. 
+
+Neben der grafischen Visualisierung kann man Daten auch klanglich darstellen, wie das Projekt [Noisy City](https://noisy-city.jetpack.ai) an Hand der verschiedenen Verkehrslautstärken in Brüssel eindrucksvoll beweist, Im Thread von [Frau Nora](https://chaos.social/@fraunora/113533047060675150) kann man noch mehr über ([Sonifikation](https://de.wikipedia.org/wiki/Sonifikation)) lernen.
+
+
+
 * 9.000 Schnellladepunkten
   https://www.deutschlandnetz.de
   via https://social.bund.de/@bmdv/113418144306433326
-* Essen auf Rädern: Schüler:innen sammeln Daten für die Verkehrswende mit senseBox:bike
-  https://reset.org/essen-auf-raedern-schuelerinnen-sammeln-daten-fuer-die-verkehrswende/
-* Auf dieser Karte kann man Verkehrslautstärken hören an verschiedenen Stellen in Brüssel. Optisch dargestellt, aber eben auch akustisch.
-  https://noisy-city.jetpack.ai
-  via https://chaos.social/@fraunora/113533047060675150
+
+
 * Aktuell läuft eine Rabattation bei Interrail: Bis zum 17. Dezember 2024 erhaltet ihr 25 % Rabatt auf alle Global-Pässe und viele Ein-Länder-Pässe. Mehr dazu weiter unten!
   https://zugpost.org/interrail-sale/
   via https://mastodon.social/users/sebwilken/statuses/113550337405561347
-* Entwurf eines Gesetzes zur Bereitstellung und Nutzung von Mobilitätsdaten und zur Änderung des Personenbeförderungsgesetzes 
-  https://www.bundesrat.de/SharedDocs/drucksachen/2024/0401-0500/496-1-24.pdf?__blob=publicationFile&v=1
+
+
 
 ## Klima
 * Weltklimakonferenz in Aserbaidschan: Klimafinanzierung schöngerechnet
