@@ -89,20 +89,24 @@ Das Forschungsprojekt [Partizipation im digitalisierten Energiesystem durch sozi
 Das Forschungsprojekt [Sustainable energy Positive & zero cARbon CommunitieS (SPARCS)](https://sparcs-leipzig.info/) beschäftigte sich auch damit, wie nachhaltige, energiepositive und klimaneutrale Viertel erreicht werden können, konkret durch digitale Lösungen im Bereich der Energieversorgung. Auch dieses Projekt ist im November ausgelaufen. Zum Abschluss gibt es dazu einen Bericht zu [Konzept und Arbeitshilfen](https://sparcs-leipzig.info/wie-vorgehen-um-bestehende-quartiere-standardmaessig-klimagerecht-zu-entwickeln-sparcs-hat-ein-konzept-entwickelt/).
 
 ## Ernährung
-* Gibt es so etwas wie die USDA FoodData Central Datenbanken auch aus Deutschland? Bisher finde ich die "Bundeslebensmittelschlüssel" (BLS) Datenbank vom Max Rubner-Institut, und die ist nicht Open Data
-  https://gruene.social/@marian/113374000941685718
-* Open Food Facts
-  Open Food Facts is a food products database made by everyone, for everyone. You can use it to make better food choices, and as it is open data, anyone can re-use it for any purpose.
-  https://world.openfoodfacts.org
-  * A researcher’s story: how I used Open Food Facts for my research
-    https://blog.openfoodfacts.org/en/news/a-researchers-story-how-i-used-open-food-facts-for-my-research
-  * Open Prices
-    https://prices.openfoodfacts.org
-    * 50k prices on Open Prices !
-      https://blog.openfoodfacts.org/en/news/50k-prices-on-open-prices
-  * Hunger Games
-    https://hunger.openfoodfacts.org
+Bereits im Oktober [fragte Marian](https://gruene.social/@marian/113374000941685718), ob es in Deutschland eine Open-Data-Lebensmitteldatenbank gäbe. Die Daten der ["Bundeslebensmittelschlüssel"-(BLS)-Datenbank](https://blsdb.de) vom [Max Rubner-Institut](https://www.mri.bund.de/de/home/) stehen leider nicht offen. Gleiches gilt für die [Food Database (FDDB)](https://fddb.info). Ein vergleichbares offizielles Angebot zur [USDA FoodData Central Datenbanken in den USA](https://fdc.nal.usda.gov) fehlt also noch für Deutschland. 
 
+Allerdings gibt es mit [Open Food Facts](https://de.openfoodfacts.org) eine Community-basierte Alternative, die für Deutschland aktuell über 300 Tausend Produkte enthält, weltweit sind es aktuell über [3,5 Millionen Produkte](https://world-de.openfoodfacts.org) aus 150 Ländern. Mehr als 100 Tausenden Freiwillige haben Zutaten, Allergene, Nährwertangaben und weitere Informationen, die auf den Produktetiketten zu finden waren, in dieser Lebensmitteldatenbank zusammengetragen. Die verschiedenen Möglichkeiten, an die Rohdaten zu kommen, sind auf der [Daten-Seite](https://world.openfoodfacts.org/data) beschrieben. Auf dem [Blog](https://blog.openfoodfacts.org/) findet man auch Beispiele, wie die Daten bereits für [Forschungsvorhaben](https://blog.openfoodfacts.org/en/news/a-researchers-story-how-i-used-open-food-facts-for-my-research) genutzen worden sind.
+
+Im Unterprojekt [Open Prices](https://prices.openfoodfacts.org) werden zudem Preise gecrowdsourct (aktuell über 56 Tausend) (über die Settings hinter dem Burger-Menü kann man die Sprache auf Deutsch und das Land auf Deutschland stellen, wobei man dann trotzdem [noch extra nach dem Land filtern muss](https://prices.openfoodfacts.org/countries/Deutschland)). Auf der [Community](https://prices.openfoodfacts.org/community) sind alle bekannten Nachnutzung der Daten in anderen Apps sowie die [REST API](https://prices.openfoodfacts.org/api/docs) verlinkt.
+
+Ein weiteres Teilprojekt ist [Hunger Games](https://hunger.openfoodfacts.org/?country=de), eine Sammlung von Minispielen, mit denen man z.B. Angaben auf den gescannten Etiketten bestätigen muss.
+
+Der Quellcode der Apps ist [Open Source](https://github.com/openfoodfacts) (und sucht jederzeit noch helfende Hände).
+
+## Citizens Science
+* Jupiter stuns in new images
+  https://www.popsci.com/science/jupiter-stuns-in-new-images/
+* Offene Wissenschaft: Fünf neue Top-Citizen-Science-Projekte
+  https://www.fwf.ac.at/aktuelles/detail/offene-wissenschaft-fuenf-neue-top-citizen-science-projekte
+* Mailand: 64.000 widerrechtlich geparkte Autos in einer einzigen Nacht, kartiert von mehr als 2.000 Freiwilligen
+  https://saichepuoi.notion.site/GER-5d4851994eb1423fba39d5c2942a1baf
+  via https://verkehrswende.social/@x_tof/113562366688960187
 
 ## Wirtschaft
 * Bürokratiekostenindex
@@ -158,15 +162,6 @@ Das Forschungsprojekt [Sustainable energy Positive & zero cARbon CommunitieS (SP
 ## Open Education Resources
 * Ein Pixi-artiges Büchlein zu Open Educational Resources (OER)
   https://ebildungslabor.de/selbstlernkurse/ein-pixi-buechlein-zu-open-educational-resources-oer/
-
-## Citizens Science
-* Jupiter stuns in new images
-  https://www.popsci.com/science/jupiter-stuns-in-new-images/
-* Offene Wissenschaft: Fünf neue Top-Citizen-Science-Projekte
-  https://www.fwf.ac.at/aktuelles/detail/offene-wissenschaft-fuenf-neue-top-citizen-science-projekte
-* Mailand: 64.000 widerrechtlich geparkte Autos in einer einzigen Nacht, kartiert von mehr als 2.000 Freiwilligen
-  https://saichepuoi.notion.site/GER-5d4851994eb1423fba39d5c2942a1baf
-  via https://verkehrswende.social/@x_tof/113562366688960187
 
 ## Transparenz
 * Öffentliche Datenbank: Alle Dokumente zu Nord Stream 2
@@ -290,7 +285,8 @@ Das Forschungsprojekt [Sustainable energy Positive & zero cARbon CommunitieS (SP
 * Freitag, 27.12.2024, 10:30, bis Montag, 30.12.2024, 18:30, Congress Center Hamburg (CCH), Congressplatz 1, 20355 Hamburg und auch online: **38C3** <a title='Kalendereintrag 38C3' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vMzhDMy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI0MTIxMVQyMDIzNDhaDQpEVFNUQVJUOjIwMjQxMjI3VDEwMzAwMA0KRFRFTkQ6MjAyNDEyMzBUMTgzMDAwDQpTVU1NQVJZOjM4QzMNCkxPQ0FUSU9OOkNvbmdyZXNzIENlbnRlciBIYW1idXJnIChDQ0gpXCwgQ29uZ3Jlc3NwbGF0eiAxXCwgMjAzNTUgSGFtYnVyZyB1bmQgYXVjaCBvbmxpbmUNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vZmFocnBsYW4uZXZlbnRzLmNjYy5kZS9jb25ncmVzcy8yMDI0L2ZhaHJwbGFuL3NjaGVkdWxlLw0KREVTQ1JJUFRJT046DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://fahrplan.events.ccc.de/congress/2024/fahrplan/schedule/
 * Donnerstag, 16.01.2025, 09:00-18:00, Wilhelm von Humboldt-Saal im Haus Unter den Linden der Staatsbibliothek zu Berlin, Unter den Linden 8, 10117 Berlin und auch online: **Initiative News-Infographics-Analytics-Maps (NIAM 2025)** <a title='Kalendereintrag Initiative News-Infographics-Analytics-Maps (NIAM 2025)' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSW5pdGlhdGl2ZSBOZXdzLUluZm9ncmFwaGljcy1BbmFseXRpY3MtTWFwcyAoTklBTSAyMDI1KS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI0MTIxMVQyMDIzNDhaDQpEVFNUQVJUOjIwMjUwMTE2VDA5MDAwMA0KRFRFTkQ6MjAyNTAxMTZUMTgwMDAwDQpTVU1NQVJZOkluaXRpYXRpdmUgTmV3cy1JbmZvZ3JhcGhpY3MtQW5hbHl0aWNzLU1hcHMgKE5JQU0gMjAyNSkNCkxPQ0FUSU9OOldpbGhlbG0gdm9uIEh1bWJvbGR0LVNhYWwgaW0gSGF1cyBVbnRlciBkZW4gTGluZGVuIGRlciBTdGFhdHNiaWJsaW90aGVrIHp1IEJlcmxpblwsIFVudGVyIGRlbiBMaW5kZW4gOFwsIDEwMTE3IEJlcmxpbiB1bmQgYXVjaCBvbmxpbmUNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vbmV3cy1pbmZvZ3JhcGhpY3MtYW5hbHl0aWNzLW1hcHMubWVkaWENCkRFU0NSSVBUSU9OOg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
-  * https://news-infographics-analytics-maps.media* Regelmäßige OKLab-Treffen
+  * https://news-infographics-analytics-maps.media
+* Regelmäßige OKLab-Treffen
   * Flensburg: jeden Mittwoch, 18:00, Aktivitetshuset, Hinterhaus, Norderstraße 49, Flensburg <a title='Kalendereintrag Code for Flensburg - Weekly Meetup' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3V0IGluIHRoZSBPcGVuIFNlcHRlbWJlciAyMDI0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpVSUQ6ZmxlbnNidXJnQGNvZGVmb3IuZGUNClNVTU1BUlk6Q29kZSBmb3IgRmxlbnNidXJnIC0gV2Vla2x5IE1lZXR1cA0KUlJVTEU6RlJFUT1XRUVLTFk7QllEQVk9V0UNCkRUU1RBUlQ7VFpJRD1FdXJvcGUvQmVybGluOjIwMjQxMDAyVDE4MDAwMA0KRFRFTkQ7VFpJRD1FdXJvcGUvQmVybGluOjIwMjQxMDAyVDIwMDAwMA0KREVTQ1JJUFRJT046aHR0cHM6Ly9jb2RlZm9yLmRlL2ZsZW5zYnVyZy8NCkxPQ0FUSU9OOkFrdGl2aXRldHNodXNldFwsIEhpbnRlcmhhdXNcLCBOb3JkZXJzdHJhw59lIDQ5XCwgRmxlbnNidXJnDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
     * https://codefor.de/flensburg/
   * Köln: jeden zweiten Montag, 19:00, Hackländerstr. 2 (Wikipedia Lokal K) <a title='Kalendereintrag Code for Cologne - Biweekly Meetup' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3V0IGluIHRoZSBPcGVuIFNlcHRlbWJlciAyMDI0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpVSUQ6Y29sb2duZUBtZWV0dXAuY29tDQpTVU1NQVJZOkNvZGUgZm9yIENvbG9nbmUgLSBCaXdlZWtseSBNZWV0dXANClJSVUxFOkZSRVE9V0VFS0xZO0lOVEVSVkFMPTI7QllEQVk9TU8NCkRUU1RBUlQ7VFpJRD1FdXJvcGUvQmVybGluOjIwMjQxMDA3VDE5MDAwMA0KRFRFTkQ7VFpJRD1FdXJvcGUvQmVybGluOjIwMjQxMDA3VDIxMDAwMA0KREVTQ1JJUFRJT046aHR0cHM6Ly93d3cubWVldHVwLmNvbS9kZS1ERS9jb2RlZm9yY29sb2duZS8NCkxPQ0FUSU9OOkhhY2tsw6RuZGVyc3RyLiAyXCwgV2lraXBlZGlhIExva2FsIEtcLCBLw7Zsbg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
