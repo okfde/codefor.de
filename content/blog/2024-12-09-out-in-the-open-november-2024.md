@@ -100,30 +100,51 @@ Ein weiteres Teilprojekt ist [Hunger Games](https://hunger.openfoodfacts.org/?co
 Der Quellcode der Apps ist [Open Source](https://github.com/openfoodfacts) (und sucht jederzeit noch helfende Hände).
 
 ## Citizens Science
-* Jupiter stuns in new images
-  https://www.popsci.com/science/jupiter-stuns-in-new-images/
-* Offene Wissenschaft: Fünf neue Top-Citizen-Science-Projekte
-  https://www.fwf.ac.at/aktuelles/detail/offene-wissenschaft-fuenf-neue-top-citizen-science-projekte
-* Mailand: 64.000 widerrechtlich geparkte Autos in einer einzigen Nacht, kartiert von mehr als 2.000 Freiwilligen
-  https://saichepuoi.notion.site/GER-5d4851994eb1423fba39d5c2942a1baf
-  via https://verkehrswende.social/@x_tof/113562366688960187
+Die NASA-Sonde Juno war fünf Jahre zum Planeten Jupiter unterwegs. Dass einige [der veröffentlichen Fotos](https://www.popsci.com/science/jupiter-stuns-in-new-images/) so spektakulär daherkommen ist auch Bürgerwissenschaftlern und anderen Weltall-Enthusiasten zu verdanken, die das Rohbildmaterial durch Bildbearbeitungs-Foo veredelt haben.
 
-## Wirtschaft
-* Bürokratiekostenindex
-  Bürokratie messbar machen
-  https://www.destatis.de/DE/Themen/Staat/Buerokratiekosten/Erfuellungsaufwand/buerokratiekostenindex.html#110148
-  via https://social.tumelum.de/@sven/113497564520206144  
+In nur einzigen Nacht haben mehr als 2 Tausend Freiwillige in Mailand etwa [64 Tausend widerrechtlich geparkte Autos kartiert](https://saichepuoi.notion.site/GER-5d4851994eb1423fba39d5c2942a1baf), d.h. allein in dieser Nacht sind [Mailand damit 5,4 Millionen € Bußgelder entgangen](https://verkehrswende.social/@x_tof/113562366688960187).
 
-## Medien
-* Zeitungssterben: Deutschland auf dem Weg zur Medienwüste?
-  https://www.telepolis.de/features/Zeitungssterben-Deutschland-auf-dem-Weg-zur-Medienwueste-10177043.html
-  * Wüstenradar: Was passiert, wenn es keinen Lokaljournalismus mehr gibt?
-    https://www.deutschlandfunk.de/wuestenradar-was-passiert-wenn-es-keinen-lokaljournalismus-mehr-gibt-dlf-80e25f34-100.html
-  * Weniger Lokalzeitungen
-    https://www.wuestenradar.de/karte/
-* Diese 5 einst seriösen Medien verbreiten jetzt Desinformation
-  https://www.volksverpetzer.de/aktuelles/einst-serioes-jetzt-desinformation/
+Der österreichische Wissenschaftsfonds [fördert zwei Jahre lang fünf Projekte](https://www.fwf.ac.at/aktuelles/detail/offene-wissenschaft-fuenf-neue-top-citizen-science-projekte) im Rahmen ihres FWF-Programms Top Citizen Science.
 
+## Openness
+Wikimedia Deutschland wird 20 Jahre alt und feiert dies mit einer eigenen [Geburtstagsseite](https://www.wikimedia.de/20jahre/).
+
+Von [digital courage](https://www.digitalcourage.de/) gibt es schon seit einiger Zeit die Wissensreihe [kurz&mündig](https://shop.digitalcourage.de/digitalcourage-buecher-und-broschueren/kum/), die selbst scherzhaft "Pixi-Bücher für Erwachsene" nennen. Nele Hirsch und Jöran Muuß-Merholz haben [ein Heft zu Open Educational Resources (OER)](https://ebildungslabor.de/selbstlernkurse/ein-pixi-buechlein-zu-open-educational-resources-oer/) beigesteuert, das entweder physisch über den [Shop](https://shop.digitalcourage.de/digitalcourage-buecher-und-broschueren/kum/oer-open-educational-resources.html) oder digital [als pdf](https://ebildungslabor.de/wp-content/uploads/2024/11/kum29-oer.pdf) bezogen werden kann.
+
+## Wirtschaft und Medien
+Sven Thomsen macht auf den [Bürokratiekostenindex](https://www.destatis.de/DE/Themen/Staat/Buerokratiekosten/Erfuellungsaufwand/buerokratiekostenindex.html) vom Statistischen Bundesamt aufmerksam. Dieser Index soll die bürokratische Belastung von Unternehmen aktuell als auch auch deren Entwicklung über den Zeitverlauf quantifizierbar machen. Im Mittelpunkt stehen also Informationspflichten, für die Unternehmen "Daten oder sonstige Informationen beschaffen, übermitteln oder verfügbar halten müssen". Sie lassen sich reduzieren durch den Abbau von Schriftformerfordernissen, die Reduktion von Meldepflichten als auch durch die Digitalisierung des Austauschs. Für Sven kommen allerdings dabei Maßnahmen, die darauf abzielen, von "Dokumenten" auf "Daten" zu wechseln, [viel zu wenig vor](https://social.tumelum.de/@sven/113497564520206144).
+
+Der Begriff "Nachrichtensteppe" wird von der neuen [Wüstenradar-Studie](https://www.wuestenradar.de/) genutzt, um Regionen in Deutschland zu beschreiben, in denen (bald) kaum noch lokaler Journalismus vorhanden ist. Auf [einer Karte](https://www.wuestenradar.de/karte/) kann man sich die Situation (Stand 2023) konkret anschauen. Mehr Hintergründe zur Studie liefern [Deutschlandfunk](https://www.deutschlandfunk.de/wuestenradar-was-passiert-wenn-es-keinen-lokaljournalismus-mehr-gibt-dlf-80e25f34-100.html) und [Telepolis](https://www.telepolis.de/features/Zeitungssterben-Deutschland-auf-dem-Weg-zur-Medienwueste-10177043.html).
+
+Auch wenn die Lage noch nicht so schlimm wie in den USA ist, wo gerade der Horrorclown die Wahl wieder gewonnen hat und gerade sein Kabinett direkt aus der Geisterbahn zusammenstellt, sind laut der Studienfazit auch in Deutschland negative Effekte auf demokratische Meinungsbildungsprozesse durch eine schwindenden Lokalberichterstattung (deren Lücke dann zum Teil [Anzeigenblätter mit gleichgeschaltenen rechten Inhalte füllen](https://www.merkur.de/tv/boehmermann-lokaljournalismus-zdf-ostdeutschland-zr-93321510.html)) zu erwarten.
+
+Eine weitere bedenkliche Entwicklung sind Medien, die man einst mit seriösen Journalismus verbunden hat, in den letzten Jahren aber irgendwie falsch abgebogen sind, sei es durch Besitzerwechsel, Personalwechsel (bzw. dessen Radikalisierung) oder sonstige Einflussnahme und nun Desinformationen und rechtes, autoritäres Gedankengut verbreiten, wie der [Volksverpetzer](https://www.volksverpetzer.de/aktuelles/einst-serioes-jetzt-desinformation/) zusammengestellt hat.
+
+## Offene Parlamente
+Die Suchmaschine und interaktive Videoplattform für Parlamentsdebatten, [Open Parliament TV](https://de.openparliament.tv), hat den [Ehrenpreis für digitales Engagement](https://mstdn.social/@OpenParlTV/113482512992743515) der [Thomas-Dehler-Stiftung](https://www.thomas-dehler-stiftung.de) und [Load e.V.](https://load-ev.de) erhalten. Die Laudatorin und ehemalige Bundesjustizministerin Sabine Leutheusser-Schnarrenberger hob dabei den Beitrag des Projekts zu Transparenz und Glaubwürdigkeit der parlamentarischen Demokratie hervor.
+
+Auch in Magdeburg geht es hinsichtlich offener Parlamentsdaten voran: Die [OParl](https://oparl.org)-Schnittstelle des Magdeburger Ratsinfosystems [wurde nun aktiv geschaltet](https://machteburch.social/@JensWinter/113549234717163568).
+
+## Transparenz
+### Kreditwürdigkeitsdaten
+Die Krawallfluencerin [hat mal wieder zugeschlagen](https://chaos.social/@Lilith/113471104043782540): das Startup ["it's my data"](https://itsmydata.de), das Vermietern Kreditwürdigkeitsdaten von potenziellen Mietern bereitstellt, hatte eine seiner APIs [nicht ausreichend geschützt](https://www.heise.de/news/Datenleck-bei-Online-Auskunftei-Hackerin-kann-beliebige-Bonitaetsdaten-einsehen-10034774.html). Dadurch waren die Daten von [Arvato Infoscore](https://de.wikipedia.org/wiki/Arvato#Wirtschaftsauskunftei), einem Mitbewerber der [Schufa](https://www.schufa.de), von dem das Startup die Daten bezieht, [exponiert](https://www.tagesschau.de/wirtschaft/digitales/datenleck-wirtschaftsauskunftei-100.html).
+
+[Wie der Tagesspiegel berichtet](https://www.tagesspiegel.de/gesellschaft/medien/finanzen-mehr-transparenz-fur-verbraucher-bei-schufa-daten-12771419.html), kann man nun (nachdem man sich bei der App der Schufa-Tochter Bonify registriert hat), einsehen, welche Unternehmen in den vergangenen zwölf Monaten über die eigene Kreditwürdigkeit angefordert haben, und welche Daten (z.B. Kreditkarten, Girokonten, laufenden Ratenkrediten und Immobilienkrediten) die Schufa überhaupt über einen selbst speichert. Wenn man hier Fehler entdeckt, darf man diese selbst aktualisieren oder korrigieren lassen.
+
+[In ihrem Kommentar bei Netzpolitik](https://netzpolitik.org/2024/databroker-files-datenhandel-ist-gift/) vertritt Anna Biselli die Auffassung, dass der unkontrollierte Datenhandel hinter personalisierter Werbung generell Gift für unsere Gesellschaft ist. Ihrer Meinung nach sollte die EU ihn zu beenden, da nationale Gesetze ein globales Problem nicht lösen könnten
+
+### Transparenz reformieren
+Die [Konferenz der Informationsfreiheitsbeauftragten in Deutschland (IFK)](https://www.bfdi.bund.de/DE/Fachthemen/Gremienarbeit/Informationsfreiheitskonferenzen/Informationsfreiheitskonferenzen_node.html) fordert auf ihrer Tagung am 27. November 2024 in Leipzig die [Weiterentwicklung der Informationsfreiheit zu fortschrittlichen Transparenzgesetzen](https://www.datenschutz.sachsen.de/detailseite-news-bzw-veranstaltungsmeldung-7320-7320.html). 
+Es wurde außerdem auf ein progressives Transparenzgesetz für Niedersachsen gedrängt und das Aus für das Bundesweite Transparenzgesetz bedingt durch die Aufkündigung der Ampelregierung bedauert.
+
+[Auch FragDenStaat fordert](https://fragdenstaat.de/artikel/policy/2024/11/massnahmen-revolution-der-akten-informationen-verschweigen/) aus den schlechten Erfahrungen beim Umgang mit der Fördermittelaffäre im Bundesbildungsministerum Lehren zu ziehen und die Regelung der Informationsfreiheit ins 21. Jahrhundert zu heben. So müssen aus seiner Sicht auch Chats, SMS oder Non-Paper auf Anfrage herausgegeben werden, sofern darin enthaltenen Informationen amtlicher Natur sind. Außerdem sollten konkrete Vorgaben zur ordnungsgemäßen Aktenführung gesetzlich festgeschrieben werden sowie Richtlinien und Aktenordnungen, die bisher nur von Papierakten ausgehen, auch andere Speicherformen als veraktungswürdig einstufen.
+
+### Transparenz in der Praxis
+FragDenStaat hat Dokumente zum Bau der Gaspipeline Nord Stream 2 gesammelt und [veröffentlichen diese nun vollständig](https://fragdenstaat.de/artikel/exklusiv/2024/11/alle-dokumente-zu-nord-stream-2/), unter anderem Dokumente zur Gründung der Stiftung Klima- und Umweltschutz Mecklemburg-Vorpommern, ein Scheinkonstrukt, um die Sanktionen der USA zu umgehen.
+
+Die FDP hat den als D-Day betitelten Plan für den Koalitionsbruch schnell noch [selbst ins Netz gestellt](https://www.fdp.de/media/6739/download?inline), um [der Veröffentlichung von Table Media zuvorzukommen](https://mastodon.social/@mkreutzfeldt/113561334047639843). Vielleicht sollte man wirklich mal analog zu Ärzten oder Rechtsanwälten auch für Politiker ein [Berufsverbot](https://de.wikipedia.org/wiki/Berufsverbot_(Deutschland)#Straf-_und_Berufsrecht) verhängen, auf Grund von nachgewiesener Unzuverlässigkeit oder Unwürdigkeit, z.B. durch permanentes Lügen und weiteren Beiträgen zur Förderung von Demokratieverdrossenheit.
+
+[Ein ZDF-Film](https://www.zdf.de/nachrichten/video/superreiche-steuern-steuertricks-reiche-faktencheck-backgroundcheck-100.html) hat gut verständlich die Steuerprivilegien der Superreichen erklärt. Der Verband "Die Familienunternehmer" war davon nicht so angetan und hat einen fünfseitigen offenen Brief an das ZDF verfasst, in dem den Journalisten Aktivismus, Einseitigkeit und technische Fehler vorgeworfen wurden. Das [Netzwerk Steuergerechtigkeit](https://www.netzwerk-steuergerechtigkeit.de/) hat nun ihrerseits [einen offenen Brief als Antwort darauf veröffentlicht](https://www.netzwerk-steuergerechtigkeit.de/offenerbrief_familienunternehmer/).
 
 ## Open Source
 * Es ist offiziell: Der Prototype Fund wird für weitere vier Jahre neu aufgelegt!
@@ -152,46 +173,7 @@ Der Quellcode der Apps ist [Open Source](https://github.com/openfoodfacts) (und 
 * Gründen: Was läuft bei FOSS-Projekten anders?
   https://prototypefund.de/gruenden-was-laeuft-bei-foss-projekten-anders/
 
-## Offene Parlamente
-* Wir haben gestern im Münchner Künstlerhaus den Ehrenpreis für digitales Engagement der Thomas-Dehler-Stiftung und @loadev verliehen bekommen! In ihrer Laudatio hob die ehem. Bundesjustizministerin Sabine Leutheusser-Schnarrenberger den Beitrag von Open Parliament TV für Transparenz und Glaubwürdigkeit der parlamentarischen Demokratie hervor. 
-  https://load-ev.de/2024/11/13/ehrenpreis-digitales-engagement/
-  via https://mstdn.social/@OpenParlTV/113482512992743515
-* Super! Die OParl-Schnittstelle des Magdeburger Ratsinfosystems ist jetzt aktiv
-  https://machteburch.social/@JensWinter/113549234717163568
 
-## Open Education Resources
-* Ein Pixi-artiges Büchlein zu Open Educational Resources (OER)
-  https://ebildungslabor.de/selbstlernkurse/ein-pixi-buechlein-zu-open-educational-resources-oer/
-
-## Transparenz
-* Öffentliche Datenbank: Alle Dokumente zu Nord Stream 2
-  https://fragdenstaat.de/artikel/exklusiv/2024/11/alle-dokumente-zu-nord-stream-2/?pk_campaign=mastodon
-* Datenleck bei Online-Auskunftei: Hackerin kann beliebige Bonitätsdaten einsehen
-  https://www.heise.de/news/Datenleck-bei-Online-Auskunftei-Hackerin-kann-beliebige-Bonitaetsdaten-einsehen-10034774.html
-  * Jens Spahns Kreditauskunft
-    https://chaos.social/@Lilith/113471104043782540
-  * Großes Datenleck: Sensible Bonitätsdaten frei im Netz
-    https://www.heise.de/news/Grosses-Datenleck-Sensible-Bonitaetsdaten-frei-im-Netz-10082090.html
-  * Großes Datenleck bei Wirtschaftsauskunftei
-    https://www.tagesschau.de/wirtschaft/digitales/datenleck-wirtschaftsauskunftei-100.html  
-  * Mehr Transparenz für Verbraucher bei Schufa-Daten
-    https://www.tagesspiegel.de/gesellschaft/medien/finanzen-mehr-transparenz-fur-verbraucher-bei-schufa-daten-12771419.html
-* Datenhandel ist Gift
-  https://netzpolitik.org/2024/databroker-files-datenhandel-ist-gift/
-* Wie Ministerien Informationen verschweigen: Drei Maßnahmen für eine Revolution der Akten
-  https://fragdenstaat.de/artikel/policy/2024/11/massnahmen-revolution-der-akten-informationen-verschweigen/
-* IFK fordert die Weiterentwicklung der Informationsfreiheit zur Transparenz
-  https://www.datenschutz.sachsen.de/detailseite-news-bzw-veranstaltungsmeldung-7320-7320.html
-* Der Plan für den Koalitionsbruch (Zeitpunkt, PR usw.)
-  https://mas.to/@bov/113561365455515785
-  https://chaos.social/@smrqdt/113561473090207123
-  https://mastodon.social/@mkreutzfeldt/113561334047639843
-* Ein ZDF-Film berichtet über Superreiche und ihre Steuertricks. 
-  https://bewegung.social/@lobbycontrol/113561445918036783
-
-## Wikiverse
-* Wikimedia Deutschland wird 20!
-  https://www.wikimedia.de/20jahre/
 
 ## KI
 * Europäische KI-Verordnung: Die eigentlichen Regeln für ChatGPT kommen noch
