@@ -63,34 +63,46 @@ Neben der grafischen Visualisierung kann man Daten auch klanglich darstellen, wi
 Auf der Seite [Deutschlandnetz](https://www.deutschlandnetz.de) bewirbt das Bundes-Verkehrsminsterium die von ihm geplanten landesweiten [9.000 E-Mobilität-Schnellladepunkte](https://social.bund.de/@bmdv/113418144306433326). Das [StandortTOOL](https://standorttool.de/) zeigt dabei neben den Planungsdaten auch die aktuellen Daten des [Ladesäulenregisters](https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/Ladesaeulenkarte/start.html) an (die Ladesäulen.Daten können am Ende dieser Seite als xlsx- oder csv-Datei heruntergeladen werden).
 
 ## Klima
-* Weltklimakonferenz in Aserbaidschan: Klimafinanzierung schöngerechnet
-  Mehrere Milliarden Euro gibt Deutschland jährlich für die sogenannte Klimafinanzierung aus. Aber wohin fließt das Geld? Und ist es wirklich so viel?
-  https://fragdenstaat.de/artikel/exklusiv/2024/11/klimafinanzierung-schongerechnet/
-* Umwelt im Quartier: Lebenswert und resilient – wie Bestandsquartiere nachhaltig transformiert werden können
-  https://www.ioew.de/publikation/umwelt_im_quartier
-  https://www.ioew.de/fileadmin/user_upload/BILDER_und_Downloaddateien/Publikationen/2024/UBA_Umwelt_im_Quartier.pdf
-* Die neue Publikation 'Klimaanpassung integriert voranbringen' vom Zentrum Klimaanpassung bietet praktische Unterstützung für Kommunen.
-  https://zentrum-klimaanpassung.de/news/neue-publikation-klimaanpassung-integriert-voranbringen
-  https://zentrum-klimaanpassung.de/sites/default/files/2024-11/ZKA_Strategien_und_Konzepte_barrierefrei.pdf
-* Verstecktes Wasser: Ihr täglicher Verbrauch liegt bei 3.900 Litern
-  https://www.telepolis.de/features/Verstecktes-Wasser-Ihr-taeglicher-Verbrauch-liegt-bei-3-900-Litern-10035185.html
-* Klimawandel im Fokus: Analyse der Berichterstattung im öffentlich-rechtlichen Fernsehen 2024
-  https://www.oekologisch-unterwegs.de/klimawandel/1202-klimawandel-im-fokus-analyse-der-berichterstattung-im-oeffentlich-rechtlichen-fernsehen-2024.html
-  * Reanalyse 2023
-    https://www.oekologisch-unterwegs.de/klimawandel/1198-reanalyse-mehr-sendungen-als-gedacht-klimawandel-themen-in-ard-und-zdf-mediatheken-2023.html
-  via https://mastodon.online/@tinoeberl/113499763747721212
-* Klimawatch
-  * CO2-Emissionen in Münster geht zu langsam runter
-    https://muenster.im/@codeformuenster/113511713426532473
-  * Neu: Frankfurt am Main
-    https://klimawatch.de/kommunen/ffm/
-    https://muenster.im/@codeformuenster/113550836117820886
+### CO2-Bilanzierung
+Während die Klimaarbeit der Stadt Münster von der EU-Kommission mit dem "Mission Label" für die vermeintliche Vorbildwirkung des "Klimastadt-Vertrag Münster" [ausgezeichnet wurde](https://ms-aktuell.de/aktuelles/klimastadt-vertrag-munster-eu-wurdigt-klimaarbeit/), hat das OKLab vor Ort in seinem [Klimawatch-Projekt](https://klimawatch.de/kommunen/muenster/) die CO2-Emissions-Daten der letzten Jahre nachgetragen und diese belegen, dass diese zwar sinken aber [viel, viel zu langsam](https://muenster.im/@codeformuenster/113511713426532473), um überhaupt realistisch das Klimaneutralitätsziel bis 2030 erreichen zu können.
+
+Bei der im eben verlinkten Toot bereits angeteaserten Stadt handelt es sich um [Frankfurt am Main](https://klimawatch.de/kommunen/ffm/), deren jährlichen CO2-Emissionen nun [ebenfalls auf Klimawatch getrackt werden](https://muenster.im/@codeformuenster/113550836117820886).
+
+Zu den angesetzten CO2-Emissionen muss man zudem wissen, dass diese in Deutschland nach [BISKO](https://www.umweltbundesamt.de/themen/klima-energie/klimaschutz-energiepolitik-in-deutschland/kommunaler-klimaschutz/bisko-zentraler-standard-fuer-kommunale), also dem Territorialprinzip, bilanziert werden. Wie [dieser Beitrag bei climactity](https://climactivity.de/klimabilanzierung-nach-dem-territorial-und-verursacherprinzip/) vor einigen Jahren schon ausführte, fehlen bei der Berechnung die Emissionen, die bei der Produktion der aus dem Ausland importierten Güter (und Vorprodukte) entstanden sind (Verursacherprinzip). An der über die Jahre steigenden Prozentzahl (24% für 2022) bei der Verrechnung von exportierten und importierten Emissionen auf [Our World in Data](https://ourworldindata.org/grapher/share-co2-embedded-in-trade?country=~DEU) sieht man, dass wir mit unserem Konsum für mehr Emissionen verantwortlich sind, als in unserem Land verursacht werden (und dabei sind die Transportemissionen durch Schiffe und Flugzeuge nicht mal drin).
+
+### Klima in Zahlen
+Schöngerechnet ist auch die Klimafinanzierung, wie [eine Recherche von FragDenStaat](https://fragdenstaat.de/artikel/exklusiv/2024/11/klimafinanzierung-schongerechnet/) belegt. Denn ein Großteil der Summe, die als Klimafinanzierung berichtet wird, sind Kredite, die in Ländern des Globalen Südens zu mehr Schulden führen. Ein weiteres Problem ist, dass der Begriff Klimafinanzierung nicht klar in der UN-Klimarahmenkonvention definiert wurde, so dass auch Projekte angerechnet werden, deren Klimaschutz-Beitrag sehr zweifelhaft sind. Das lässt die nun bei der Weltklimakonferenz [300 Millionen US-Dollar](https://www.tagesschau.de/wissen/klima/klimakonferenz/beschluesse-baku-100.html), die, wenn auch dreimal so hoch wie bisher, deutlich unterhalb der Forderungen der betroffenen Länder liegen, in noch schlechteren Licht erscheinen. 
+
+Tino Eberl [hat monatsweise analysiert](https://www.oekologisch-unterwegs.de/klimawandel/1202-klimawandel-im-fokus-analyse-der-berichterstattung-im-oeffentlich-rechtlichen-fernsehen-2024.html), in wie vielen Sendungen der öffentlich-rechtlichen Rundfunk über den Klimawandel und artverwandte Themen berichtet hat - in deutlich mehr, [als viele erwartet haben](https://mastodon.online/@tinoeberl/113499763747721212). Durch die erhebliche Erweiterung der als relevant erachtenden Suchbegriffe ergeben sich nun auch bei Neuanalyse für 2023 [höhrere Werte](https://www.oekologisch-unterwegs.de/klimawandel/1198-reanalyse-mehr-sendungen-als-gedacht-klimawandel-themen-in-ard-und-zdf-mediatheken-2023.html). 
+
+[Ein aktueller Bericht des Global Commission on the Economics of Water](https://economicsofwater.watercommission.org) warnt, dass bis zum Jahr 2050 mehr als die Hälfte der weltweiten Nahrungsmittelproduktion durch ein aus den Fugen geratener Wasserkreislauf gefährdet sein könnte. Wie man in der [Besprechung auf heise](https://www.telepolis.de/features/Verstecktes-Wasser-Ihr-taeglicher-Verbrauch-liegt-bei-3-900-Litern-10035185.html) weiterlesen kann, kritisiert der Bericht, dass bei den Wasserschutzmaßnahmen das "grüne Wasser" vernachlässigt werde, also die Feuchtigkeit in Böden und Pflanzen, welches für etwa die Hälfte der Niederschläge verantwortlich ist.
+
+### Klimaschutz und Klimaanpassung in der Umsetzung
+Das [Zentrum Klimaanpassung](https://zentrum-klimaanpassung.de) hat mit ["Klimaanpassung integriert voranbringen"](https://zentrum-klimaanpassung.de/news/neue-publikation-klimaanpassung-integriert-voranbringen) einen [Praxisleitfaden](https://zentrum-klimaanpassung.de/sites/default/files/2024-11/ZKA_Strategien_und_Konzepte_barrierefrei.pdf) für Kommunen veröffentlicht. Darin wird auch die Notwendigkeit der Datenerhebung als Vorbereitung und Erarbeitung von Strategien
+und Konzepten betont, die gegebenfalls noch durch weitere Gutachten wie Klimamodellierungen ergänzt werden sollte. Luftbilder mit Infrarotkanal können beispielsweise Datengrundlage für ein Vegetations- oder Entsiegelungskataster sein. Kombiniert mit Laserscandaten ließe sich auch ein Gründachkataster aus ihnen aufbauen. Die Starkregengefahrenkarte in Erkrath entstand beispielweise aus den bestehenden Datensätze verschiedener Fachbereiche: dem Kanalnetzmodell vom Abwasserbetrieb, Gebäudedaten (ALKIS, Grundstückskataster) vom Fachbereich Stadtplanung und Vermessung sowie Daten zu Bauwerken an Gewässern (Brücken, Durchlässe, Verrohrungen) vom Bergisch-Rheinischen Wasserverband. Kriterien für klimaangepasste Stadtplätze lassen sich so aus der Synthese der Konzepte, Fachdaten und Karten (wie Stadtentwässerungskonzept, Klima- und Windkarten sowie Überschwemmungskarten) aller Ämter ableiten. Weitere Beispiele für Maßnahmen und Projekte findet man in der [KomPass-Tatenbank](https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/werkzeuge-der-anpassung/tatenbank). Möchte man lokal selbst aktiv werden, sollte man unbedingt in die [Datenbank zu Fördermöglichkeiten für Klimaanpassung](https://ad.zentrum-klimaanpassung.de/foerdermoeglichkeiten/startseite) schauen.
+
+Lesestoff kommt auch vom [Institut für ökologische Wirtschaftsforschung (iöw)](https://www.ioew.de/): [Umwelt im Quartier](https://www.ioew.de/fileadmin/user_upload/BILDER_und_Downloaddateien/Publikationen/2024/UBA_Umwelt_im_Quartier.pdf) beschreibt, wie Bestandsquartiere [nachhaltig transformiert werden können](https://www.ioew.de/publikation/umwelt_im_quartier).
 
 ## Energie
-* Studie: Woran sich Kommunen in der Energiewende orientieren können
-  https://www.ioew.de/news/article/studie-woran-sich-kommunen-in-der-energiewende-orientieren-koennen
-  https://www.soziale-innovationen-projekt.de
-  via https://mastodon.social/@ioew/113475253902577119
+Das Forschungsprojekt [Partizipation im digitalisierten Energiesystem durch soziale Innovationen (PaDiSo)](https://www.ioew.de/projekt/padiso) hat drei Jahre lang Kommunen in Sachsen-Anhalt bei ihrer lokalen Umsetzung der Energiewende [begleitet](https://www.ioew.de/news/article/studie-woran-sich-kommunen-in-der-energiewende-orientieren-koennen). Zum Abschluss des Projekts sind die gewonnenen Erkenntnisse nun in die Handreichung ["Die regionale Energiewende gestalten"](https://doi.org/10.5281/zenodo.13987676) eingeflossen. Um die für Kommunen empfohlene strategische Nachahmung umzusetzen, hat beispielsweise das Akteursnetzwerk [Energieavantgarde Anhalt](https://www.energieavantgarde.de) das Format der "Kommunalen Lernwerkstätten" entwickelt. Außerdem ist eine [Karte zu sozialen Innovationen im Energiesystem](https://www.energieavantgarde.de/padiso-karte/) entstanden, auf der man nach Akteuren und Aktionsformaten filtern kann. Weitere Materialen kann man über die [Projektseite](https://www.soziale-innovationen-projekt.de) beziehen.
+
+Das Forschungsprojekt [Sustainable energy Positive & zero cARbon CommunitieS (SPARCS)](https://sparcs-leipzig.info/) beschäftigte sich auch damit, wie nachhaltige, energiepositive und klimaneutrale Viertel erreicht werden können, konkret durch digitale Lösungen im Bereich der Energieversorgung. Auch dieses Projekt ist im November ausgelaufen. Zum Abschluss gibt es dazu einen Bericht zu [Konzept und Arbeitshilfen](https://sparcs-leipzig.info/wie-vorgehen-um-bestehende-quartiere-standardmaessig-klimagerecht-zu-entwickeln-sparcs-hat-ein-konzept-entwickelt/).
+
+## Ernährung
+* Gibt es so etwas wie die USDA FoodData Central Datenbanken auch aus Deutschland? Bisher finde ich die "Bundeslebensmittelschlüssel" (BLS) Datenbank vom Max Rubner-Institut, und die ist nicht Open Data
+  https://gruene.social/@marian/113374000941685718
+* Open Food Facts
+  Open Food Facts is a food products database made by everyone, for everyone. You can use it to make better food choices, and as it is open data, anyone can re-use it for any purpose.
+  https://world.openfoodfacts.org
+  * A researcher’s story: how I used Open Food Facts for my research
+    https://blog.openfoodfacts.org/en/news/a-researchers-story-how-i-used-open-food-facts-for-my-research
+  * Open Prices
+    https://prices.openfoodfacts.org
+    * 50k prices on Open Prices !
+      https://blog.openfoodfacts.org/en/news/50k-prices-on-open-prices
+  * Hunger Games
+    https://hunger.openfoodfacts.org
+
 
 ## Wirtschaft
 * Bürokratiekostenindex
@@ -108,20 +120,6 @@ Auf der Seite [Deutschlandnetz](https://www.deutschlandnetz.de) bewirbt das Bund
 * Diese 5 einst seriösen Medien verbreiten jetzt Desinformation
   https://www.volksverpetzer.de/aktuelles/einst-serioes-jetzt-desinformation/
 
-## Ernährung
-* Gibt es so etwas wie die USDA FoodData Central Datenbanken auch aus Deutschland? Bisher finde ich die "Bundeslebensmittelschlüssel" (BLS) Datenbank vom Max Rubner-Institut, und die ist nicht Open Data
-  https://gruene.social/@marian/113374000941685718
-* Open Food Facts
-  Open Food Facts is a food products database made by everyone, for everyone. You can use it to make better food choices, and as it is open data, anyone can re-use it for any purpose.
-  https://world.openfoodfacts.org
-  * A researcher’s story: how I used Open Food Facts for my research
-    https://blog.openfoodfacts.org/en/news/a-researchers-story-how-i-used-open-food-facts-for-my-research
-  * Open Prices
-    https://prices.openfoodfacts.org
-    * 50k prices on Open Prices !
-      https://blog.openfoodfacts.org/en/news/50k-prices-on-open-prices
-  * Hunger Games
-    https://hunger.openfoodfacts.org
 
 ## Open Source
 * Es ist offiziell: Der Prototype Fund wird für weitere vier Jahre neu aufgelegt!
