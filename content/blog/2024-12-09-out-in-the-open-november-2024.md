@@ -142,38 +142,28 @@ Es wurde außerdem auf ein progressives Transparenzgesetz für Niedersachsen ged
 ### Transparenz in der Praxis
 FragDenStaat hat Dokumente zum Bau der Gaspipeline Nord Stream 2 gesammelt und [veröffentlichen diese nun vollständig](https://fragdenstaat.de/artikel/exklusiv/2024/11/alle-dokumente-zu-nord-stream-2/), unter anderem Dokumente zur Gründung der Stiftung Klima- und Umweltschutz Mecklemburg-Vorpommern, ein Scheinkonstrukt, um die Sanktionen der USA zu umgehen.
 
-Die FDP hat den als D-Day betitelten Plan für den Koalitionsbruch schnell noch [selbst ins Netz gestellt](https://www.fdp.de/media/6739/download?inline), um [der Veröffentlichung von Table Media zuvorzukommen](https://mastodon.social/@mkreutzfeldt/113561334047639843). Vielleicht sollte man wirklich mal analog zu Ärzten oder Rechtsanwälten auch für Politiker ein [Berufsverbot](https://de.wikipedia.org/wiki/Berufsverbot_(Deutschland)#Straf-_und_Berufsrecht) verhängen, auf Grund von nachgewiesener Unzuverlässigkeit oder Unwürdigkeit, z.B. durch permanentes Lügen und weiteren Beiträgen zur Förderung von Demokratieverdrossenheit.
+Die FDP hat den als D-Day betitelten Plan für den Koalitionsbruch schnell noch [selbst ins Netz gestellt](https://www.fdp.de/media/6739/download?inline), um [der Veröffentlichung von Table Media zuvorzukommen](https://mastodon.social/@mkreutzfeldt/113561334047639843). Vielleicht sollte man wirklich mal analog zu Ärzten oder Rechtsanwälten auch für Politiker ein [Berufsverbot](https://de.wikipedia.org/wiki/Berufsverbot_(Deutschland)#Straf-_und_Berufsrecht) verhängen, auf Grund von nachgewiesener Unzuverlässigkeit oder Unwürdigkeit, z.B. durch permanentes Lügen und weiteren Beiträgen zur Förderung von Demokratieverdrossenheit. Am besten verbunden mit einem Medienauftrittsverbot, damit man die Hackfr... ach egal).
 
 [Ein ZDF-Film](https://www.zdf.de/nachrichten/video/superreiche-steuern-steuertricks-reiche-faktencheck-backgroundcheck-100.html) hat gut verständlich die Steuerprivilegien der Superreichen erklärt. Der Verband "Die Familienunternehmer" war davon nicht so angetan und hat einen fünfseitigen offenen Brief an das ZDF verfasst, in dem den Journalisten Aktivismus, Einseitigkeit und technische Fehler vorgeworfen wurden. Das [Netzwerk Steuergerechtigkeit](https://www.netzwerk-steuergerechtigkeit.de/) hat nun ihrerseits [einen offenen Brief als Antwort darauf veröffentlicht](https://www.netzwerk-steuergerechtigkeit.de/offenerbrief_familienunternehmer/).
 
 ## Open Source
-* Es ist offiziell: Der Prototype Fund wird für weitere vier Jahre neu aufgelegt!
-  https://prototypefund.de/der-prototype-fund-geht-weiter-und-wie/
-  via https://mastodon.social/@PrototypeFund/113439906234378729
-  * Die Förderung von Open-Source-Projekten wird deutlich ausgebaut.
-    https://netzpolitik.org/2024/millionen-foerderung-fuer-open-source-prototype-fund-startet-in-die-naechste-runde/
-  * Für den Lift-Off braucht es eine Second Stage!
-    https://prototypefund.de/fuer-den-lift-off-braucht-es-eine-second-stage/
-  * Warum wir uns auf Datensicherheit & Software-Infrastruktur konzentrieren
-    https://prototypefund.de/warum-wir-uns-auf-datensicherheit-software-infrastruktur-konzentrieren/
-* Was können Plattformräte bewirken? Wie können sie große Plattformen wie Google Maps, digitale Handelsplätze und Co stärker im Sinne des Gemeinwohls und im Interesse der Nutzenden formen?
-  https://www.deutschlandfunkkultur.de/plattformraete-wie-sie-die-digitale-welt-revolutionieren-koennen-dlf-kultur-841efaba-100.html
-  via https://social.wikimedia.de/@wikimediaDE/113475199202485204
-* Sachsen: Digitalpolitik ist auch Landespolitik
-  https://netzpolitik.org/2024/sachsen-digitalpolitik-ist-auch-landespolitik/
-  * auch zum nachhören: https://chaosradio.de/cr295-dicke-bretter-diesmal-fuenf-jahre-landtagsarbeit-zu-digitalthemen
-* Open Source: Wie die Anerkennung der Gemeinnützigkeit helfen könnte
-  https://www.heise.de/hintergrund/Open-Source-Wie-die-Anerkennung-der-Gemeinnuetzigkeit-helfen-koennte-10036290.html
-* Schleswig-Holstein geht mit seiner heute vorgestellten Open-Source-Strategie den nächsten Schritt in Richtung digitale Unabhängigkeit. Geplant sind neue Kollaborationsplattformen, der Umstieg auf LibreOffice und sogar ein Betriebssystem-Wechsel. 
-  https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2024/IV/241125_open-source-strategie
-* Digitale Souveränität für die Berliner Verwaltung - Mit openDesk und Open Source?
-  https://citylab-berlin.org/de/blog/digitale-souveraenitaet-fuer-die-berliner-verwaltung/
-* Verwaltungsdigitalisierung: Public Money, Public Cloud?
-  https://netzpolitik.org/2024/verwaltungsdigitalisierung-public-money-public-cloud/
-* Gründen: Was läuft bei FOSS-Projekten anders?
-  https://prototypefund.de/gruenden-was-laeuft-bei-foss-projekten-anders/
+### Fördern und Gründen
+Nach 16 Runden in acht Jahren sollte beim Prototyp eigentlich Schluss sein, nun aber die frohe Kunde: das Förderprogramm [geht bis mindestens 2029 weiter](https://prototypefund.de/der-prototype-fund-geht-weiter-und-wie/). Es gibt allerdings ein paar Änderungen: es gibt nur eine Förderrunde pro Jahr, die 6 Monate dauert, [die aber für ausgewählte Projekte noch um 4 Monate verlängert werden kann](https://prototypefund.de/fuer-den-lift-off-braucht-es-eine-second-stage/), [der Förderschwerpunkt bewegt sich weg von Civic Tech und Data Literacy hin zu Datensicherheit und Softwarebausteine] (die Gründe dafür [werden in einem Extra-Beitrag erläutert](https://prototypefund.de/warum-wir-uns-auf-datensicherheit-software-infrastruktur-konzentrieren/)), die Förderung für Teams (Größe maximal 4 Personen) ist nun bis zu 95.000 € möglich. Am 11.11. ist die Bewerbungsphase für den neuen Jahrgang [gestartet](https://mastodon.social/@PrototypeFund/113439906234378729). Weitere Informationen dazu findet man [hier](https://new.prototypefund.de).
 
+Damit ist nicht nach Ende des Förderzeitraums heißt ["Klappe zu, Affe tot"](https://de.wiktionary.org/wiki/Klappe_zu,_Affe_tot), ist es wichtig, sich schon frühzeitig Gedanken, um die weitere Finanzierung zu machen. Eine Option ist das Gründen einer Organisation, die das FOSS-Projekt dann weiter betreut und die Einnahmen verwaltet. [Dennoch gibt es einige Besonderheit gegenüber proprietärer Software](https://prototypefund.de/gruenden-was-laeuft-bei-foss-projekten-anders/), vor allem eine Organisationsentwicklung, die nicht nur das Kernteam, sondern auch die erweiterte Entwickler:innen-Community einbezieht und das Projekt rechtlich absichert.
 
+Mirko Böhm von der Linux Foundation Europe [erklärt im Gespräch mit heise](https://www.heise.de/hintergrund/Open-Source-Wie-die-Anerkennung-der-Gemeinnuetzigkeit-helfen-koennte-10036290.html), wie bei Open-Source-Projekten/-Organisationen auch die Anerkennung von Gemeinnützigkeit und die damit verbundenen Steuererleichterungen helfen könnten, was aber auch dabei zu beachten ist.
+  
+### Digitale Souveränität
+Aline Blankertz, Referentin für Politik und öffentlicher Sektor bei Wikimedia Deutschland, [spricht im Breitband-Podcast vom Deutschlandfunk](https://www.deutschlandfunkkultur.de/plattformraete-wie-sie-die-digitale-welt-revolutionieren-koennen-dlf-kultur-841efaba-100.html) darüber, wie Plattformräte dazu beitragen, die Macht von Big Tech zu begrenzen und deren große Plattformen wie Google Maps, digitale Handelsplätze und Co. stärker im Sinne von Gemeinwohl und Nutzendeninteressen [zu formen](https://social.wikimedia.de/@wikimediaDE/113475199202485204).
+
+Daniela Schacht und Alexander Peschel vom [Open Source Kompetenzzentrum (OSK)](https://www.itdz-berlin.de/dienstleistungen/services/open-source-kompetenzzentrum/artikel.1379829.php) im [ITDZ Berlin](https://www.itdz-berlin.de) sowie Markus Sperl vom [CityLAB](https://citylab-berlin.org/) Berlin [sprechen im Interview](https://citylab-berlin.org/de/blog/digitale-souveraenitaet-fuer-die-berliner-verwaltung/) über den im November durchgeführten zweiwöchigen User Acceptance Test, mit dem geprüft werden soll, inwieweit [openDesk](https://gitlab.opencode.de/bmi/opendesk/info), eine vom [Zentrum für Digitale Souveränität (ZenDiS)](https://zendis.de) entwickelte Open-Source-Kollaborationssuite, die als Plattform für die Ablage und das Sharing von Dokumenten dienen soll, aber auch Projektmanagement- und Chat-Funktionalität bietet, den Bedürfnissen Bedarfen der Mitarbeitenden der Berliner Verwaltung bereits entsprechen würde. 
+  
+Auch Schleswig-Holstein plant mit neuen Open-Source-Kollaborationsplattformen, den Umstieg auf LibreOffice und sogar mit einem Wechsel auf Linux, wie man der am 25.11. veröffentlichen [Open-Source-Strategie](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2024/IV/241125_open-source-strategie) entnehmen kann. 
+
+Im [Podcast "Dicke Bretter"](https://chaosradio.de/cr295-dicke-bretter-diesmal-fuenf-jahre-landtagsarbeit-zu-digitalthemen) wurde mit Daniel Gerber über seine Zeit als Grünen-Abgeordneter, zuständig für Digitalthemen, in der vergangenen Legislaturperiode in Sachsen gesprochen. Trotz des konservativen Koaltitionspartners CDU konnte ein [Transparenzgesetz](https://www.revosax.sachsen.de/vorschrift/19698-G-Einfuehrung-des-SaechsTranspG) auf die Beine gestellt werden, in dem auch die Open-Source-Umsetzung der zugehörigen Transparenzplattform, auf der dann die Informationen veröffentlicht werden sollen, geregelt ist. Außerdem wurde eine [Open-Source-Strategie](https://www.egovernment.sachsen.de/download/OpenSource-Strategie-FS-SN.pdf) formuliert, für die zunächst über alle Ministerien erhoben wurde, welche Software wo eingesetzt wird. Dabei ergab sich, dass aktuell nur 13,5 Prozent der gesamten Software-Landschaft in der sächsischen Staatsverwaltung Open-Source-Software ist und auch nur 13 Prozent der Menschen, die mit Software zu tun haben, überhaupt Open-Source-Software benutzen. Darauf aufbauend wurde dann in der Strategie festgelegt, dass bis Stichtag 30. Juni 2028 von den mehr als 6.000 Einträgen aus der Bestandsaufnahme in Zukunft 20 Prozent Open-Source-Software sein sollen. Positiv zu erwähnen ist auch der [Sächsische Digitalpreis](https://www.digitales.sachsen.de/saechsischer-digitalpreis-2024-5634.html), mit dem Open-Source-Lösungen im Freistaat in verschiedenen Kategorien ausgezeichnet werden und somit auch Sichtbarkeit, Bewusstsein und Anreize für das Thema Open Source schaffen. Geschafft in der letzten Regierungsperiode wurde leider nicht das [E-Government-Gesetz](https://www.revosax.sachsen.de/vorschrift/14070-Saechsisches-E-Government-Gesetz), das den digitalen Austausch innerhalb der Behörden hätte regeln sollen.
+ 
+Da in der öffentlichen Verwaltung immer mehr Daten anfallen, überlegen Bund und Länder, die diese bisher üblicherweise in selbst betriebenen Rechenzentren ablegen, doch auf Cloud-Systeme kommerzieller Anbieter zu wechseln, da diese versprechen, dass Behörden und Ämter mit ihnen erheblich Kosten einsparen könnten, da sie nur dafür bezahlen müssten, was sie am Ende auch tatsächlich nutzen. [Dennoch haben einige Bundesländer erhebliche Bedenken](https://netzpolitik.org/2024/verwaltungsdigitalisierung-public-money-public-cloud/), ob das wirklich stimmt, und kritisieren die Entscheidung des Bundes-CIO Markus Richter, der SAP-Tochter Delos-Cloud-Lösung, die auf Microsoft Azure und Microsoft 365 basiert, in der Verwaltungscloud-Strategie des Bundes so viel Raum einzuräumen. Aus ihrer Sicht widerspricht dieser sich abzeichnende Vendor-Lockin dem Ziel, die digitale Souveränität zu stärken.
 
 ## KI
 * Europäische KI-Verordnung: Die eigentlichen Regeln für ChatGPT kommen noch
@@ -229,13 +219,13 @@ Die FDP hat den als D-Day betitelten Plan für den Koalitionsbruch schnell noch 
 
 ## Call for Participation
 * INFORMATIK FESTIVAL 2025, bis 15.12.2024 Workshop-Vorschläge einreichen
-  https://informatik2025.gi.de/CfP.html
+  * https://informatik2025.gi.de/CfP.html
 * Prototype Fund: Bewerbt euch mit euren Ideen für innovative Open-Source-Software mit einem Mehrwert für die Gesellschaft! Ihr erhaltet bis zu 95.000 € in sechs Monaten oder 158.000 € in zehn Monaten Förderung durch das Bundesministerium für Bildung und Forschung. Die Bewerbungsfrist für Jahrgang 01 ist der 02. Januar 2025.
-  https://new.prototypefund.de
+  * https://new.prototypefund.de
 * Data Reuse Days 2025,  bis 12.1.2025 Sessions vorschlagen 
-  https://www.wikidata.org/wiki/Event:Data_Reuse_Days_2025  
+  * https://www.wikidata.org/wiki/Event:Data_Reuse_Days_2025  
 * Der Call for Participation zur #rp25, bis 15.1.2025
-  https://re-publica.com/de/news/der-call-participation-zur-rp25
+  * https://re-publica.com/de/news/der-call-participation-zur-rp25
 
 ## Veranstaltungen
 * Dienstag, 03.12.2024, 14:00-14:45, online: **CorrelCompact: Diskriminierung durch Daten und Algorithmen** <a title='Kalendereintrag CorrelCompact: Diskriminierung durch Daten und Algorithmen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ29ycmVsQ29tcGFjdDogRGlza3JpbWluaWVydW5nIGR1cmNoIERhdGVuIHVuZCBBbGdvcml0aG1lbi8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI0MTIxMVQyMDIzNDhaDQpEVFNUQVJUOjIwMjQxMjAzVDE0MDAwMA0KRFRFTkQ6MjAyNDEyMDNUMTQ0NTAwDQpTVU1NQVJZOkNvcnJlbENvbXBhY3Q6IERpc2tyaW1pbmllcnVuZyBkdXJjaCBEYXRlbiB1bmQgQWxnb3JpdGhtZW4NCkxPQ0FUSU9OOm9ubGluZQ0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cuY29ycmVsYWlkLm9yZy92ZXJhbnN0YWx0dW5nZW4vY29ycmVsY29tcGFjdC1kYXRlbmV0aGlrDQpERVNDUklQVElPTjoNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
