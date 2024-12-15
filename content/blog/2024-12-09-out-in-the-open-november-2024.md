@@ -166,65 +166,48 @@ Im [Podcast "Dicke Bretter"](https://chaosradio.de/cr295-dicke-bretter-diesmal-f
 Da in der öffentlichen Verwaltung immer mehr Daten anfallen, überlegen Bund und Länder, die diese bisher üblicherweise in selbst betriebenen Rechenzentren ablegen, doch auf Cloud-Systeme kommerzieller Anbieter zu wechseln, da diese versprechen, dass Behörden und Ämter mit ihnen erheblich Kosten einsparen könnten, da sie nur dafür bezahlen müssten, was sie am Ende auch tatsächlich nutzen. [Dennoch haben einige Bundesländer erhebliche Bedenken](https://netzpolitik.org/2024/verwaltungsdigitalisierung-public-money-public-cloud/), ob das wirklich stimmt, und kritisieren die Entscheidung des Bundes-CIO Markus Richter, der SAP-Tochter Delos-Cloud-Lösung, die auf Microsoft Azure und Microsoft 365 basiert, in der Verwaltungscloud-Strategie des Bundes so viel Raum einzuräumen. Aus ihrer Sicht widerspricht dieser sich abzeichnende Vendor-Lockin dem Ziel, die digitale Souveränität zu stärken.
 
 ## KI
-* Europäische KI-Verordnung: Die eigentlichen Regeln für ChatGPT kommen noch
-  "Neben der Norm sieht die Verordnung auch noch sogenannte „Praxisleitfäden“ vor."
-  "Laura Lazaro Cabrera würde gerne sehen, dass die Vorsitzenden transparent machen, worüber in den Treffen mit den Anbietern gesprochen wurde."
-  https://netzpolitik.org/2024/europaeische-ki-verordnung-die-eigentlichen-regeln-fuer-chatgpt-kommen-noch/
-* GPT-4o: Open-Source-Roboterarm entfernt verschüttete Flüssigkeit auf Anweisung
-  https://www.heise.de/news/GPT-4o-Open-Source-Roboterarm-entfernt-verschuettete-Fluessigkeit-auf-Anweisung-10018598.html
-* DeepSeek-R1: Neues KI-Sprachmodell mit Reasoning aus China gegen OpenAI o1
-  Wie OpenAIs o1 benötigt auch DeepSeek-R1 mehr Zeit zum Antworten, soll in vielen Fällen aber akkurater sein als andere KI-Modelle. Und es wird Open-Source.
-  https://www.heise.de/news/DeepSeek-R1-Neues-KI-Sprachmodell-mit-Reasoning-aus-China-gegen-OpenAI-o1-10082110.html
-* OpenAI löscht versehentlich Beweise
-  https://www.golem.de/news/ki-klage-der-new-york-times-openai-loescht-versehentlich-beweise-2411-191045.html
-* Eröffnungspodium zum 2-jährigen Jubiläum der KI-Ideenwerkstatt: Das beste Mittel gegen Techkonzerne sind Communities
-  https://bits-und-baeume.org/blog/podium_ki_ideenwerkstatt/
-* The Death of Critical Thinking Will Kill Us Long Before AI
-  https://www.joanwestenberg.com/the-death-of-critical-thinking-will-kill-us-long-before-ai/
-* Feind oder Helfer? Wie die Wikipedia-Community über den Einsatz von KI diskutiert
-  https://blog.wikimedia.de/2024/11/25/wikipedia-einsatz-von-ki/
-* Am 21. November sind erstmals Datenarbeiter:innen mit dem Europäischen Parlament in den Dialog getreten. 
-  https://www.weizenbaum-institut.de/news/detail/datenarbeiterinnen-im-dialog-mit-dem-eu-parlament/
-* Die neue Definition für Open-Source-KI: der Auftakt einer laufenden Debatte
-  https://prototypefund.de/die-neue-definition-fuer-open-source-ki/
+Die [KI-Ideenwerkstatt für Umweltschutz](https://www.z-u-g.org/strategische-aufgaben/ki-ideenwerkstatt-umweltschutz/) ist vor zwei Jahren gestartet, über das Thema Künstliche Intelligenz (KI) zu informieren und aufzuzeigen, wie sie für alle zugänglich wird und wie man sie gemeinwohlorientiert und umweltgerecht gestalten kann. Auf dem Eröffnungspanel zur Jubiläumsveranstaltung führte unter anderem Friederike Hildebrandt von [Bits und Bäume](https://bits-und-baeume.org) aus, dass "das beste Mittel gegen Techkonzerne und Machtmonopole, Communities sind". Sie erschaffen die Alternativen. Für Rainer Rehak vom [Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung (FIfF e.V.)] müssen schon die Entscheidungen, was wir mit KI überhaupt machen wollen, immer wieder neu reflektiert werden. Thorsten Kluß von der KI-Ideenwerkstatt findet dafür den Ansatz von [Extreme Citizen Science](https://uclexcites.blog/about/), also Bürgerwissenschaftler schon beim Formulieren der Forschungsfrage miteinzubeziehen, sehr geeignet. 
+
+Auch in der Wikipedia-Community wird lebhaft über den Einsatz von KI diskutiert. So ist für den Wikipedianer Wortulo das Einstellen von Artikeln in die Wikipedia, "die komplett mit KI erzeugt wurden, ist ein No-Go". Jemand, der kein Experte auf dem Gebiet, müsste jede Aussage einzeln nachprüfen, Einzelnachweise müssten eh manuell nachgepflegt werden und dann ist aus Qualitätssicht besser, den Artikeltext gleich ganz selbst zu schreiben. Anders ist die Lage, wenn es um die sprachliche Verbesserung von Artikeln geht: in den Augen von Salino01, z.B. Tools wie [Wortliga](https://wortliga.de/textanalyse/) helfen, mit "KI Texte sprachlich zu vereinfachen, stilistisch zu verbessern und Rechtschreib-, bzw. Grammatikfehler zu entfernen". Ein weiterer Anwendungsfall kann die Unterstützung natürlichsprachig formulierter Suchanfragen sein, wie sie der [Wiki-Bot](https://chatgpt.com/g/g-X7pjww5ud-wiki-bot) bereits anbietet. Wichtig für die Wikipedianer ist in jedem Fall, dass ihr Ehrenamt als ein sinnstiftendes Hobby erhalten bleibt, und nicht beim z.B. Bekämpfen von KI-basierten Vandalismus verbrannt wird. 
+
+Reproduzierbarkeit ist ein zentrales Kriterium für Open-Source-Software. Damit könnten man KI-Modelle, zu denen die Trainingsdaten nicht mit veröffentlicht werden, nach Ansicht von Jürger Geuter, lediglich als Freeware klassifizieren. Denn gerade die Trainingsmodelle bilden einen entscheidenden Wettbewerbsvorteil. Damit stellt sich auch die Frage, welche Ziele denn durch die Definition von Open-Source-KI überhaupt angestrebt werden. Allein technische Standards und Anwendungen zu etablieren oder auch für mehr Wettbewerb und Fortschritt, indem wichtige Erkenntnisse mit allen geteilt werden müssen, statt sie in Monopolen konzentriert zu lassen, wie es Zuzanna Warso, Forschungsdirektorin der gemeinnützigen Organisation Open Future fordert. [Die Diskussion über die Open-Source-KI-Defintion geht also erstmal weiter](https://prototypefund.de/die-neue-definition-fuer-open-source-ki/).
+
+Zur Klärung des Rechtsstreit zwischen OpenAI und der New York Times und anderen großen Zeitungen über das Einbeziehen urheberrechtlicher Inhalte, durften Rechtsvertreter der Kläger bereits 150 Stunden damit verbringen, auf zwei von OpenAI eigens bereitgestellten virtuellen Maschinen [Trainingsdaten zu durchsuchen](https://www.golem.de/news/ki-klage-der-new-york-times-openai-loescht-versehentlich-beweise-2411-191045.html). Auf einer der Maschinen wurde bereits durchsuchte Daten angeblich durch einen versehentlichen Fehler von OpenAI gelöscht und konnten nur unvollständig wiederhergestellt werden. 
+
+Auch wenn die Europäische [KI-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401689) seit Mitte des Jahres vorliegt, sind ihre Vorschriften doch sehr vage gehalten. Das Gesetz sieht aber eine Norm vor, die gerade erarbeitet wird. Bis Ende April 2025 soll ein Abschlussbericht vorliegen. Neben dieser Norm soll es noch sogenannte "Praxisleitfäden", z.B. für ChatGPT, geben, die die schwammigen Vorgaben der Verordnung in konkrete Regel überführen sollen. [Wie bei Netzpolitik weiter nachzulesen ist](https://netzpolitik.org/2024/europaeische-ki-verordnung-die-eigentlichen-regeln-fuer-chatgpt-kommen-noch/), nahmen bei der ersten Plenarsitzung zur Erarbeitung eines ersten solchen Leitfadens beinahe 1.000 Interessierte teil. Völlig unklar, wie diese sich innerhalb von fünf Monaten einigen sollen. Insgesamt wird der gesamte Prozess zur Erarbeitung als zu intransparent wahrgenommen, zumal die Verordnung selbst keine Prozessvorgaben enthält. "Laura Lazaro Cabrera vom [Center for Democracy and Technology](https://cdt.org/staff/laura-lazaro-cabrera/), würde jedenfalls "gerne sehen, dass die Vorsitzenden transparent machen, worüber in den Treffen mit den Anbietern gesprochen wurde".
+
+China hat nun mit DeepSeek-R1 nun ein eigenes KI-Sprachmodell am Start. Wie OpenAIs o1 unterstützt es Reasoning und soll damit akkurater Antworten liefern. Es soll auch Open Source gestellt werden, also eher Freeware, siehe die Diskussion oben. Erste Tests [bei heise](https://www.heise.de/news/GPT-4o-Open-Source-Roboterarm-entfernt-verschuettete-Fluessigkeit-auf-Anweisung-10018598.html) offenbarten aber auch Schwächen. Zudem wurden Fragen zur Weltpolitik, wenn denn Antworten nicht ganz verweigert wurden, aus klar chinesischer Perspektive beantwortet.
+
+Wobei das vielleicht gar nicht so schlimm ist, [denn wie Joan Westenberg auf ihrem Blog ausführt](https://www.joanwestenberg.com/the-death-of-critical-thinking-will-kill-us-long-before-ai/), nimmt das Leseverständnis und generell die Fähigkeit zu kritischem Denken über alle Generationen hinweg stetig ab. Dann fallen uns Inkonsistenzen und Einseitigkeiten in den Antworten der Chatbots eh nicht mehr auf.   
+
+Derweil [berichteten Datenarbeiter:innen erstmals](https://www.weizenbaum-institut.de/news/detail/datenarbeiterinnen-im-dialog-mit-dem-eu-parlament/) bei einer Anhörung vor dem Europäischen Parlament in Brüssel über die prekären und ausbeuterischen Arbeitsbedingungen, denen sie in der KI-Branche ausgesetzt sind. Schöne Neue Welt.
 
 ## Recap
-* The Tech We Want Summit took place between 17 and 18 October 2024 – in total, 43 speakers from 23 countries interacted with 700+ registered people about new practical ways to build software that is useful, simple, long-lasting, and focused on solving people’s real problems.
-  * Panel 1: https://blog.okfn.org/2024/10/28/panel-the-tech-we-want-is-political/
-  * Panel 2: https://blog.okfn.org/2024/11/06/panel-the-tech-we-want-is-built-and-maintained-with-care/
-  * Panel 3: https://blog.okfn.org/2024/11/13/panel-the-tech-we-want-is-sustainable-for-people-and-the-planet/
-  * Panel 4: https://blog.okfn.org/2024/11/20/panel-we-are-making-the-tech-we-want/
-* Netzpolitischer Abend 141
-  u.a. mit Das Lobbynetzwerk von Bigtech –  Max Bank (LobbyControl)
-  https://digitalegesellschaft.de/2024/10/141-netzpolitischer-abend/
-* Zweiter hack4GDI_DE mit spannenden Geodaten-Lösungen zu Radmobilität und Stadtklima
-  https://www.gdi-de.org/Service/Aktuelles/zweiter-hack4gdide-mit-spannenden-geodaten-loesungen-zu-radmobilitaet-und
-* SWIB conference (Semantic Web in Libraries)
-  https://www.youtube.com/playlist?list=PL7fMsenbLiQ3UJoz_fuPuFjzKU1R5lwbj
+Die Online-Konferenz "The Tech We Want" fand zwischen 17. und 18. Oktober statt, auf der 43 Vortragende aus 23 Ländern mit über 700 registerierten Teilnehmenden diskutieren konnten, wie man Software praktisch so baut, dass sie nützlich, verständlich, langlebig auf das Lösen relevanter Probleme abzielt. Nun ist die Nachdokumentation der einzelnen Panels verfügbar: 
+  * Panel 1: [Die Technik, die wir wollen, ist politisch](https://blog.okfn.org/2024/10/28/panel-the-tech-we-want-is-political/)
+  * Panel 2: [Die Technik, die wir wollen, wird umsichtig gepflegt](https://blog.okfn.org/2024/11/06/panel-the-tech-we-want-is-built-and-maintained-with-care/)
+  * Panel 3: [Die Technik, die wir wollen, ist nachhaltig für Menschen und Planeten](https://blog.okfn.org/2024/11/13/panel-the-tech-we-want-is-sustainable-for-people-and-the-planet/)
+  * Panel 4: [Wir bauen die Technik, die wir wollen](https://blog.okfn.org/2024/11/20/panel-we-are-making-the-tech-we-want/)
 
-## 38C3
-* Session-Planung beeinflussen, um Konflikte zu verringern
-  https://halfnarp.events.ccc.de
-  https://fahrplan.events.ccc.de/congress/2024/fahrplan/schedule/
-  https://events.ccc.de/2024/12/06/38c3-hub-wiki-assemblies/
+In [der Aufzeichnung des Netzpolitischen Abends vom 5. November](https://digitalegesellschaft.de/2024/10/141-netzpolitischer-abend/) ist u.a. Max Banks (LobbyControl) Vortrag über das Lobbynetzwerk von Bigtech enthalten. 
+
+Auf dem [Hackathon hack4GDI_DE](https://www.gdi-de.org/Service/Aktuelles/zweiter-hack4gdide-mit-spannenden-geodaten-loesungen-zu-radmobilitaet-und) an der Hochschule Mainz sind spannende Geodaten-Lösungen zu Radmobilität und Stadtklima entstanden.
+
+Die Vorträge der SWIB-Konferenz (Einsatz von Semantic Web in Bibliotheken) sind [in dieser Youtube-Playlist gesammelt](https://www.youtube.com/playlist?list=PL7fMsenbLiQ3UJoz_fuPuFjzKU1R5lwbj).
 
 ## Sonstiges
-* Ihr seid auf Mastodon, weil ihr gesehen und gelesen werden wollt? Dann schaut doch bitte mal nach, ob in Euren Profilen diese beiden Häkchen gesetzt sind
-  https://gruene.social/@marian/113548317902290507
-* „The Pudding“ zeigt, wie man Popkultur in Datenvisualisierungen denken kann. Klingt trocken, ist aber spannend umgesetzt.
-  https://taz.de/Website-The-Pudding/!6049633/
-* eGovernment Podcast Monatsrückschau
-  https://egovernment-podcast.com/egov204-monatsschau-experiment/
+Popkultur als Datenvisualisierungen zeigt ["The Pudding"](https://taz.de/Website-The-Pudding/!6049633/).
 
+Auch vom eGovernment Podcast gibt es eine [neue Monatsrückschau](https://egovernment-podcast.com/egov204-monatsschau-experiment/).
 
 ## Call for Participation
 * INFORMATIK FESTIVAL 2025, bis 15.12.2024 Workshop-Vorschläge einreichen
   * https://informatik2025.gi.de/CfP.html
-* Prototype Fund: Bewerbt euch mit euren Ideen für innovative Open-Source-Software mit einem Mehrwert für die Gesellschaft! Ihr erhaltet bis zu 95.000 € in sechs Monaten oder 158.000 € in zehn Monaten Förderung durch das Bundesministerium für Bildung und Forschung. Die Bewerbungsfrist für Jahrgang 01 ist der 02. Januar 2025.
+* Prototype Fund: Bewerbt euch mit euren Ideen für innovative Open-Source-Software mit einem Mehrwert für die Gesellschaft! Ihr erhaltet bis zu 95.000 € in sechs Monaten oder 158.000 € in zehn Monaten Förderung durch das Bundesministerium für Bildung und Forschung. Die Bewerbungsfrist für Jahrgang 01 ist der 02.01.2025.
   * https://new.prototypefund.de
-* Data Reuse Days 2025,  bis 12.1.2025 Sessions vorschlagen 
+* Data Reuse Days 2025, bis 12.01.2025 Sessions vorschlagen 
   * https://www.wikidata.org/wiki/Event:Data_Reuse_Days_2025  
-* Der Call for Participation zur #rp25, bis 15.1.2025
+* Re:publica 2025, bis 15.01.2025 Einreichungen möglich
   * https://re-publica.com/de/news/der-call-participation-zur-rp25
 
 ## Veranstaltungen
@@ -256,6 +239,8 @@ Da in der öffentlichen Verwaltung immer mehr Daten anfallen, überlegen Bund un
   * https://mastodon.social/@PrototypeFund/113635049516024292
 * Freitag, 27.12.2024, 10:30, bis Montag, 30.12.2024, 18:30, Congress Center Hamburg (CCH), Congressplatz 1, 20355 Hamburg und auch online: **38C3** <a title='Kalendereintrag 38C3' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vMzhDMy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI0MTIxMVQyMDIzNDhaDQpEVFNUQVJUOjIwMjQxMjI3VDEwMzAwMA0KRFRFTkQ6MjAyNDEyMzBUMTgzMDAwDQpTVU1NQVJZOjM4QzMNCkxPQ0FUSU9OOkNvbmdyZXNzIENlbnRlciBIYW1idXJnIChDQ0gpXCwgQ29uZ3Jlc3NwbGF0eiAxXCwgMjAzNTUgSGFtYnVyZyB1bmQgYXVjaCBvbmxpbmUNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vZmFocnBsYW4uZXZlbnRzLmNjYy5kZS9jb25ncmVzcy8yMDI0L2ZhaHJwbGFuL3NjaGVkdWxlLw0KREVTQ1JJUFRJT046DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://fahrplan.events.ccc.de/congress/2024/fahrplan/schedule/
+  * https://events.ccc.de/2024/12/06/38c3-hub-wiki-assemblies/
+
 * Donnerstag, 16.01.2025, 09:00-18:00, Wilhelm von Humboldt-Saal im Haus Unter den Linden der Staatsbibliothek zu Berlin, Unter den Linden 8, 10117 Berlin und auch online: **Initiative News-Infographics-Analytics-Maps (NIAM 2025)** <a title='Kalendereintrag Initiative News-Infographics-Analytics-Maps (NIAM 2025)' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSW5pdGlhdGl2ZSBOZXdzLUluZm9ncmFwaGljcy1BbmFseXRpY3MtTWFwcyAoTklBTSAyMDI1KS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI0MTIxMVQyMDIzNDhaDQpEVFNUQVJUOjIwMjUwMTE2VDA5MDAwMA0KRFRFTkQ6MjAyNTAxMTZUMTgwMDAwDQpTVU1NQVJZOkluaXRpYXRpdmUgTmV3cy1JbmZvZ3JhcGhpY3MtQW5hbHl0aWNzLU1hcHMgKE5JQU0gMjAyNSkNCkxPQ0FUSU9OOldpbGhlbG0gdm9uIEh1bWJvbGR0LVNhYWwgaW0gSGF1cyBVbnRlciBkZW4gTGluZGVuIGRlciBTdGFhdHNiaWJsaW90aGVrIHp1IEJlcmxpblwsIFVudGVyIGRlbiBMaW5kZW4gOFwsIDEwMTE3IEJlcmxpbiB1bmQgYXVjaCBvbmxpbmUNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vbmV3cy1pbmZvZ3JhcGhpY3MtYW5hbHl0aWNzLW1hcHMubWVkaWENCkRFU0NSSVBUSU9OOg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://news-infographics-analytics-maps.media
 * Regelmäßige OKLab-Treffen
