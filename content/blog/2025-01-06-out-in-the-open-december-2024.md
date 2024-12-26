@@ -11,6 +11,184 @@ og_image: out-in-the-open-2024-12-header.jpg
 type: blog
 ---
 
+## Digitalisierung
+* Beirat Digitalstrategie: Fundamentale Kritik an der Digitalpolitik der Ampel
+  "Statt zahlreicher Leuchttürme empfiehlt der Beirat zur Orientierung zudem die Konzentration auf eine übergeordnete Vision."
+  https://netzpolitik.org/2024/beirat-digitalstrategie-fundamentale-kritik-an-der-digitalpolitik-der-ampel/
+* National Once Only Technical System: Staatsvertrag überbrückt Gräben zwischen Verwaltungen
+  https://netzpolitik.org/2024/national-once-only-technical-system-staatsvertrag-ueberbrueckt-graeben-zwischen-verwaltungen/
+
+## Open Data
+* New report suggests open data on edge of becoming a recognized global standard for scholarly output
+  https://www.digital-science.com/news/state-of-open-data-2024-special-report/
+* 200 Datensätze: Ein Meilenstein für offene Daten in Münster
+  "Die Daten aus Münster stoßen auch auf überregionales Interesse, da in Münster Daten veröffentlicht werden, die zum Zeitpunkt der Veröffentlichung deutschlandweit einzigartig waren, wie z.B. die Energieverbrauchsdaten städtischer Gebäude, oder die Live-Positionen aller Stadtwerke-Busse."
+  https://opendata.stadt-muenster.de/blog/200-datens%C3%A4tze-ein-meilenstein-f%C3%BCr-offene-daten-m%C3%BCnster
+* Symposium: Linked Data im Zeitalter der generativen Künstlichen Intelligenz – Neue Perspektiven oder überholte Vision?
+  https://www.bfr-akademie.de/deutsch/archiv/2024/linkeddata2024.html
+* Wien fördert den Einsatz von Open Government Data (OGD) im Klassenzimmer & bei Wettbewerben. Mit Praxisbeispielen wie Klimadaten, Baumkataster & Vornamen wird Datenkompetenz spielerisch vermittelt.
+  https://www.data.gv.at/2024/12/17/open-data-im-unterricht-und-bei-wettbewerben-nutzen/
+  via https://mastodon.social/@datagvat/113668710091152197
+* Berlin Emergency Response Tracker
+  https://berlin.prateekkeshari.com
+* Ein Datengesetzbuch für alles
+  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/ein-datengesetzbuch-fuer-alles
+* Wenn Freies Wissen vor Gericht steht
+  https://blog.wikimedia.de/2024/12/16/freies-wissen-vor-gericht/
+* Klick-Start: Wie automatisierte Codevorlagen Open Data zugänglicher machen
+  https://www.linkedin.com/pulse/klick-start-wie-automatisierte-codevorlagen-open-data-tim-fangmeyer-szglf/
+  https://github.com/tifa365/starter-code-open_data_berlin
+
+## Offene Parlamentsdaten
+* Der Parlamentsspiegel wurde aktualisiert und ermöglicht nun tatsächlich den Zugang zu Dokumenten aus den Landesparlamenten
+  https://mastodon.online/@denes/113674105475066993
+* We are collaboratively building an open #standard and #API for harmonized Swiss parliamentary #data to promote transparency, innovation and participation in Swiss politics.
+  https://opendata.ch/projects/openparldata/
+  via https://mastodon.social/@OpendataCH/113678300636615044
+
+## Datenvisualisierungen
+* A very cool dataviz using the baby names (US) dataset
+  https://www.fastcompany.com/91248441/baby-names-data-visualization
+  https://baby-names.jetpack.ai
+  via https://mastodon.social/@jmcastagnetto/113676338725097419
+* World map of paper sizes:
+  https://vis.social/users/infobeautiful/statuses/113686905085556189
+* Eine Relationsanalyse der Tags auf tagesschau.de des Zeitraums 01.01.2023 bis 17.12.2024!
+  https://www.linkedin.com/posts/r-haque_dataanalysis-journalism-networkanalysis-ugcPost-7275569391843315716-zerc
+
+## Statistiken
+* Eine Open Data Übersicht zum #Bundesfreiwilligendienst findet man auf der Seite des BMFSFJ
+  https://www.daten.bmfsfj.de/daten/daten/bundesfreiwilligendienst-137354
+  via https://social.bund.de/@opendatabund/113600026922743714
+  * passend dazu auch: Endlich hat die Bundesregierung das Digitale Ehrenamt als eigene Form des Engagements anerkannt. Ein Meilenstein, über den wir uns sehr freuen! 
+    https://blog.wikimedia.de/2024/12/06/digitales-ehrenamt-engagementstrategie/
+    via https://social.wikimedia.de/@wikimediaDE/113605521197469170
+* Zensus 2022: Knapp die Hälfte der Neubauten mit Zentralheizung heizte mit Wärmepumpe
+  https://www.zensus2022.de/DE/Aktuelles/PM_Zensus_2022_Ergebnisveroeffentlichung_Haelfte_Neubauten_mit_Zentralheizung_heizte_mit_Waermepumpe.html
+  via https://norden.social/@wahlatlas/113633824954123171
+* Viel mehr Menschen als bisher angenommen sind armutsgefährdet, wenn die Wohnkosten mit berücksichtigt werden. Das hat der Paritätische neu errechnet.
+  https://taz.de/Studie-Paritaetischer-Wohlfahrtsverband/!6051376/
+
+## Open Educational Resources (OER)
+* Learn how to create open educational resources using GitHub, GitHub pages and Jupyter Books! 
+  https://jannikahollmann.github.io/Create_Interactive_Content/intro.html
+  via https://mastodon.social/users/leibnizopenscience/statuses/113594676616132947
+* Die Daten sind digital – was dann? Dimensionen der Nachnutzung offener Kulturerbedaten
+  https://zenodo.org/records/14332306
+
+## Open Source
+* Folge 115 des CIW Podcasts. Patricia Leu erklärt das Förderprojekt Prototype Fund
+  https://gnulinux.ch/ciw115-podcast
+  * passend dazu auch
+    https://www.youtube.com/watch?v=EgSPbyCP85s
+    und
+    https://blog.okfn.org/2024/12/05/prototype-fund-a-successful-story-of-project-replication-within-the-open-knowledge-network/
+* SplinterCon: mit offener Software gegen die Zersplitterung des Internets
+  https://prototypefund.de/splintercon/
+  via https://mastodon.social/@PrototypeFund/113668142897561450
+* Prototype Fund Hardware: Diese sechs Teams sind dabei
+  https://hardware.prototypefund.de/prototype-fund-hardware-diese-sechs-teams-sind-dabei/
+
+## Digitale Souveränität
+* Um Probleme wie die starke Herstellerabhängigkeit anzugehen, fördern Bund und Länder vereinzelt Open-Source-Projekte in der öffentlichen IT. Im Digitalausschuss ging es heute darum, welches Potenzial der Staat hier noch heben kann
+  https://netzpolitik.org/2024/open-source-ohne-laeuft-nichts/
+  via https://openbiblio.social/@esthermenhard/113595911199320343
+* Digitale Souveränität für Staaten: GovStacks neue Building Block Spezifikationen für Cloud-Infrastruktur
+  https://osb-alliance.de/featured/digitale-souveraenitaet-fuer-staaten-govstacks-neue-building-block-spezifikationen-fuer-cloud-infrastruktur
+* Sovereign Tech Fund Invests in OpenStreetMap
+  https://blog.openstreetmap.org/2024/12/20/sovereign-tech-fund-invests-in-openstreetmap/
+* GI sieht "Gefahr, dass Deutschland zu einer digitalen Kolonie wird"
+  https://www.heise.de/news/Informatiker-Ampel-hat-Ziele-fuer-Souveraenitaet-und-Open-Source-klar-verfehlt-10218368.html
+* Jetzt können wir alle einmal durchatmen, dass #musk nicht einfach die #wikipedia kaufen kann. 
+  #StreisandEffect!
+  https://www.newsweek.com/elon-musk-takes-aim-wikipedia-fund-raising-editing-political-woke-2005742
+  via https://openbiblio.social/@rstockm/113713024195143866
+
+## Energie
+* Aus der aktuellen Strompreisanalyse des BDEW: Der Strompreis für den Großteil der Industriebetriebe lag mit knapp 17 Cent pro Kilowattstunde in diesem Jahr so niedrig wie zuletzt 2017
+  https://www.bdew.de/service/publikationen/jahresbericht-energieversorgung/
+  https://www.bdew.de/media/documents/2024_12_18_Die_Energieversorgung_2024_Final.pdf
+  https://www.bdew.de/media/documents/2024_12_18_Die_Energieversorgung_2024_Foliensatz_Final.pdf
+  via https://mastodon.social/@mkreutzfeldt/113594946263700462
+* Dass die Strompreise an der Börse am 6.11. und am 12.12. kurzzeitig extrem hoch waren, liegt nicht nur daran, dass es zu diesem Zeitpunkt kaum Wind gab. Entscheidend war, dass gleichzeitig auch zahlreiche konventionelle Kraftwerke keinen Strom produziert haben. Dazu ein längerer Thread
+  https://mastodon.social/@mkreutzfeldt/113669001057636428
+  via https://mastodon.social/@mkreutzfeldt/113669093439540787
+
+## Mobilität
+* streetcritic.org: After three months of work, a first preview is online. For now, it's possible to add and rate bicycle ways
+  https://streetcritic.org/
+  via https://en.osm.town/@streetcritic/113595562834437779
+* Straßenraumaufteilung in Kiel
+  https://geodaten-guerilla.net/blog/strassenraumaufteilung-online-karte/
+  https://geodaten-guerilla.net/beta/
+
+## Karten
+* The QGIS GeoParquet Downloader Plugin
+  https://www.youtube.com/watch?v=PRvadvTccEE
+  https://plugins.qgis.org/plugins/qgis_plugin_gpq_downloader/
+  via https://fosstodon.org/@hansakwast/113605517398544549
+* State of MapLibre Slides
+  https://docs.google.com/presentation/d/1E73cK-Oh10mfmk690mhAGsjQ0kYZEVGXVE-c9bKrvm4/present?slide=id.gf4fc5ef4ba_0_159
+  via https://mastodon.social/@maplibre/113632726040962443
+  * siehe auch: MapLibre Android with Vulkan Support Released 
+    https://maplibre.org/news/2024-12-12-maplibre-android-vulkan/
+* Course materials are freely available: Enhancing Water Productivity with WaPOR: A Hands-On Workshop Using WaPLUGIN in QGIS
+  https://courses.gisopencourseware.org/course/view.php?id=70
+  via https://fosstodon.org/@hansakwast/113641276827293058
+* Wer schon immer mal wissen wollte wie kleinteilig die Verwaltungsgrenzen aka Flurstücke in Schleswig-Holstein sind, kann mittels der interaktiven Flurstücksauskunft durch klick auf ein Polygon mehr erfahren. 
+  https://flurstuecksauskunft.oklabflensburg.de
+  via https://norden.social/@oklabflensburg/113655839187986950
+* Collecting wireless geolocation information for the public domain geolocation database beaconDB
+  https://beacondb.net
+  via https://mastodon.social/@janvlug/113717991798144044
+
+## Klima
+* Bundeskabinett beschließt Anpassungsstrategie an den Klimawandel: Erstmals messbare Ziele für die Vorsorge vor Klimafolgen
+  https://www.ioew.de/news/article/bundeskabinett-beschliesst-anpassungsstrategie-an-den-klimawandel-erstmals-messbare-ziele-fuer-die-vorsorge-vor-klimafolgen
+* Milliardenbetrug an der Tankstelle: Ölkonzerne und der Klimaschutz-Fake
+  https://www.zdf.de/politik/frontal/doku-milliardenbetrug-tankstelle-oelkonzerne-klimaschutz-fake-china-100.html
+* 70000 Parkplätze abgeschafft, Autoverkehr aus dem Zentrum verbannt, über 1400 km Radwege gebaut. SUVs zahlen beim Parken drauf, an der Seine gehen Fussgänger spazieren, wo früher Autos fuhren und überall sind neue Bäume gepflanzt worden. Das Resultat ist eine deutliche Verbesserung der Luftqualität in #Paris . So geht Stadtentwicklung.
+  https://www.paris.fr/pages/etat-des-lieux-de-la-qualite-de-l-air-a-paris-7101
+  via https://ruhr.social/@franckraisch/113690963048068283
+* Thru.de ist das zentrale deutsche Portal für transparente und frei zugängliche Emissions- und Abfalldaten. Hier können Sie unter anderem recherchieren, welche und wie viele Schadstoffe Betriebe, Kläranlagen oder der Verkehr in die Umwelt freisetzen.
+  https://www.umweltbundesamt.de/themen/wie-koennen-wir-unser-schadstoff-portal-thrude
+  https://thru.de
+
+## Gesundheit
+* Zentraler Terminologieserver fürs Gesundheitswesen geht an den Start
+  https://www.heise.de/news/Gesundheitswesen-Zentraler-Terminologieserver-fuer-mehr-Interoperabilitaet-online-10188957.html
+* ePA 3.0: Warum Ärzte vor der elektronischen Patientenakte für Kinder warnen
+  https://www.heise.de/news/ePA-3-0-Warum-Aerzte-vor-der-elektronischen-Patientenakte-fuer-Kinder-warnen-10200700.html
+* ePA 3.0: Fragen und Antworten zur neuen elektronischen Patientenakte
+  https://www.heise.de/hintergrund/ePA-3-0-Fragen-und-Antworten-zur-neuen-elektronischen-Patientenakte-10216222.html
+* TI-Messenger: Rolle von TIM für den Datenaustausch im Gesundheitswesen
+  https://www.heise.de/hintergrund/TI-Messenger-Rolle-von-TIM-fuer-den-Datenaustausch-im-Gesundheitswesen-10203470.html
+* Doctolib ermöglicht eine User-Enumeration, was bedeutet, dass durch Eingabe einer E-Mail-Adresse überprüft werden kann, ob diese im System registriert ist oder nicht.
+  https://www.kuketz-blog.de/datenschutz-was-patienten-zu-doctolib-und-ihren-rechten-wissen-muessen/
+  via https://social.tchncs.de/@kuketzblog/113678742819832489
+
+## KI
+* Datenbank über KI-Systeme: So will die EU Grenzüberwachung automatisieren
+  https://netzpolitik.org/2024/datenbank-ueber-ki-systeme-so-will-die-eu-grenzueberwachung-automatisieren/
+  https://algorithmwatch.org/en/automation-on-the-move/
+* OpenAIs neues Modell o3 soll Menschen in Reasoning-Benchmarks übertreffen
+  https://www.heise.de/news/OpenAIs-neues-Modell-o3-soll-Menschen-in-Reasoning-Benchmarks-uebertreffen-10218066.html
+* I finally turned off GitHub Copilot yesterday
+  https://infosec.exchange/@david_chisnall/113690087142854474
+* Transcribo, eine neue Transkription-Applikation, nutzt Technologien wie maschinelles Lernen und künstliche Intelligenz, um das gesprochene Wort automatisch zu transkribieren
+  https://www.youtube.com/watch?v=hJLbfpo2GDU
+  https://player.captivate.fm/episode/27259b30-782e-430c-958a-3f2a30cbaba3/
+
+## Recap
+* Services Roadshow by Base4NFDI
+  https://www.youtube.com/playlist?list=PL08nwOdK76QnZr7KAhipiPBxjfo9aReCR
+  * Services Roadshow by Base4NFDI - KGI4NFDI - Knowledge Graph Infrastructure 
+    https://www.youtube.com/watch?v=d-D8e_6_IGQ&list=PL08nwOdK76QnZr7KAhipiPBxjfo9aReCR&index=6
+* Looking back on 2024 and looking ahead to 2025 with the Open Knowledge Network
+  https://blog.okfn.org/2024/12/20/looking-back-on-2024-and-looking-ahead-to-2025-with-the-open-knowledge-network/
+* 2024 MediaWiki Conference Highlights
+  https://professional.wiki/en/news/mediawiki-users-and-developers-conference-2024-vienna
+
 ## Call for Participation
 * Chemnitzer Linux Tage, bis 08.01.2025
   * https://chemnitzer.linux-tage.de/2025/de/presse/mitteilungen/news02
