@@ -63,6 +63,7 @@ type: blog
   * passend dazu auch: Endlich hat die Bundesregierung das Digitale Ehrenamt als eigene Form des Engagements anerkannt. Ein Meilenstein, über den wir uns sehr freuen! 
     https://blog.wikimedia.de/2024/12/06/digitales-ehrenamt-engagementstrategie/
     via https://social.wikimedia.de/@wikimediaDE/113605521197469170
+    * https://www.bmfsfj.de/resource/blob/251452/ac00fb8963654019ae158f9ae7d7efa6/engagementstrategie-des-bundes-data.pdf
 * Zensus 2022: Knapp die Hälfte der Neubauten mit Zentralheizung heizte mit Wärmepumpe
   https://www.zensus2022.de/DE/Aktuelles/PM_Zensus_2022_Ergebnisveroeffentlichung_Haelfte_Neubauten_mit_Zentralheizung_heizte_mit_Waermepumpe.html
   via https://norden.social/@wahlatlas/113633824954123171
@@ -75,6 +76,15 @@ type: blog
   via https://mastodon.social/users/leibnizopenscience/statuses/113594676616132947
 * Die Daten sind digital – was dann? Dimensionen der Nachnutzung offener Kulturerbedaten
   https://zenodo.org/records/14332306
+* Public Domain Da
+  https://blog.wikimedia.de/2025/01/01/public-domain-day-2025/
+* Digitalisierung: Wie es um die Nationale Bildungsplattform des Bundes steht
+  https://www.mdr.de/nachrichten/deutschland/politik/nationale-bildungsplattform-bildungsraum-zeugnisse-digital-speichern-100.html
+* Amtsblätter an die frische Luft
+  https://fragdenstaat.de/artikel/exklusiv/2024/12/verkehrsblatt/
+* Digitallotsen in der Verwaltung
+  https://shop.freiheit.org/#!/Publikation/1815
+  https://shop.freiheit.org/download/P2@1815/928199/Studie_Digitallotsen_final_web.pdf
 
 ## Open Source
 * Folge 115 des CIW Podcasts. Patricia Leu erklärt das Förderprojekt Prototype Fund
@@ -113,14 +123,30 @@ type: blog
 * Dass die Strompreise an der Börse am 6.11. und am 12.12. kurzzeitig extrem hoch waren, liegt nicht nur daran, dass es zu diesem Zeitpunkt kaum Wind gab. Entscheidend war, dass gleichzeitig auch zahlreiche konventionelle Kraftwerke keinen Strom produziert haben. Dazu ein längerer Thread
   https://mastodon.social/@mkreutzfeldt/113669001057636428
   via https://mastodon.social/@mkreutzfeldt/113669093439540787
+* OpenPV - Calculate the solar potential of your building
+  https://media.ccc.de/v/38c3-openpv-calculate-the-solar-potential-of-your-building
+  https://www.openpv.de
+* Der in Deutschland produzierte Strom war noch nie so sauber wie im Jahr 2024.  Fast 63% des Stroms kam aus erneuerbaren Quellen, der fossile Anteil war so niedrig wie noch nie
+  https://www.ndr.de/nachrichten/info/Strommix-Deutschland-Wie-ist-der-Anteil-erneuerbarer-Energien,strommix102.html
+  via https://chaos.social/@lalonsander/113752162852518033
 
 ## Mobilität
+* Wir wissen wo dein Auto steht: Volksdaten von Volkswagen
+  https://media.ccc.de/v/38c3-wir-wissen-wo-dein-auto-steht-volksdaten-von-volkswagen
+  * https://www.adac.de/news/vw-datenleck/
+  * https://chaos.social/@danimo/113729772877374299
+  * https://github.com/MichaelKreil/volksdaten-grafiken
 * streetcritic.org: After three months of work, a first preview is online. For now, it's possible to add and rate bicycle ways
   https://streetcritic.org/
   via https://en.osm.town/@streetcritic/113595562834437779
 * Straßenraumaufteilung in Kiel
   https://geodaten-guerilla.net/blog/strassenraumaufteilung-online-karte/
   https://geodaten-guerilla.net/beta/
+* Verkehrssicherheit auf EU-Ebene
+  https://transport.ec.europa.eu/background/road-safety-statistics-2023_en
+  via https://verkehrswende.social/@thijs_lucas@norden.social/113734957142209831
+* Transitous - offener Routingdienst für öffentliche Verkehrsmittel
+  https://media.ccc.de/v/38c3-transitous-offener-routingdienst-fr-ffentliche-verkehrsmittel
 
 ## Karten
 * The QGIS GeoParquet Downloader Plugin
@@ -141,6 +167,13 @@ type: blog
 * Collecting wireless geolocation information for the public domain geolocation database beaconDB
   https://beacondb.net
   via https://mastodon.social/@janvlug/113717991798144044
+* Any Map Puzzle
+  https://bothness.github.io/anymap/
+  via https://vis.social/@bothness/113742348449057000
+* The Land Matrix is an independent land monitoring initiative that promotes transparency and accountability in decisions over large-scale land acquisitions (LSLAs) in low- and middle-income countries by capturing and sharing data about these deals.
+  https://landmatrix.org
+* The Climate Action Tracker is an independent scientific project that tracks government climate action and measures it against the globally agreed Paris Agreement aim of "holding warming well below 2°C, and pursuing efforts to limit warming to 1.5°C."
+  https://climateactiontracker.org
 
 ## Klima
 * Bundeskabinett beschließt Anpassungsstrategie an den Klimawandel: Erstmals messbare Ziele für die Vorsorge vor Klimafolgen
@@ -153,6 +186,16 @@ type: blog
 * Thru.de ist das zentrale deutsche Portal für transparente und frei zugängliche Emissions- und Abfalldaten. Hier können Sie unter anderem recherchieren, welche und wie viele Schadstoffe Betriebe, Kläranlagen oder der Verkehr in die Umwelt freisetzen.
   https://www.umweltbundesamt.de/themen/wie-koennen-wir-unser-schadstoff-portal-thrude
   https://thru.de
+* Celebrating Green Tech Hackathon Results
+  https://labs.ripe.net/author/becha/celebrating-green-tech-hackathon-results/
+* Gas und Öl statt Klimaschutz: Wer Trumps Pläne nach Deutschland bringt
+  https://correctiv.org/aktuelles/klimawandel/2024/12/06/so-kommen-trumps-klimafeindliche-plaene-nach-deutschland/
+* Fast 240.000 Todesfälle durch Feinstaub in der EU
+  https://www.zeit.de/news/2024-12/10/fast-240-000-todesfaelle-durch-feinstaub-in-der-eu
+* CO2-Rechner für Kulturbetrieb erhält eku-Zukunftspreis 2024
+  https://www.leipzig.de/newsarchiv/news/co2-rechner-fuer-kulturbetrieb-erhaelt-eku-zukunftspreis-2024
+* EJAtlas - Global Atlas of Environmental Justice
+  https://ejatlas.org
 
 ## Gesundheit
 * Zentraler Terminologieserver fürs Gesundheitswesen geht an den Start
@@ -161,6 +204,14 @@ type: blog
   https://www.heise.de/news/ePA-3-0-Warum-Aerzte-vor-der-elektronischen-Patientenakte-fuer-Kinder-warnen-10200700.html
 * ePA 3.0: Fragen und Antworten zur neuen elektronischen Patientenakte
   https://www.heise.de/hintergrund/ePA-3-0-Fragen-und-Antworten-zur-neuen-elektronischen-Patientenakte-10216222.html
+* "Konnte bisher noch nie gehackt werden": Die elektronische Patientenakte kommt - jetzt für alle!
+  https://media.ccc.de/v/38c3-konnte-bisher-noch-nie-gehackt-werden-die-elektronische-patientenakte-kommt-jetzt-fr-alle
+  * https://chaos.social/@evawolfangel/113726322204011639
+  * https://www.gematik.de/newsroom/news-detail/aktuelles-stellungnahme-zum-ccc-vortrag-zur-epa-fuer-alle
+  * https://annaelbe.net/datenschutz_gesundheitskarte.php
+  * https://www.zeit.de/digital/datenschutz/2024-12/elektronische-patientenakte-it-sicherheit-datenschutz-geheimdienste/komplettansicht
+  * https://www.br.de/nachrichten/netzwelt/hacker-enthuellen-sicherheitsluecken-bei-digitaler-patientenakte,UYWUk0F
+  * https://widerspruch-epa.de/widerspruch-gegen-elektronische-patientenakte-epa/
 * TI-Messenger: Rolle von TIM für den Datenaustausch im Gesundheitswesen
   https://www.heise.de/hintergrund/TI-Messenger-Rolle-von-TIM-fuer-den-Datenaustausch-im-Gesundheitswesen-10203470.html
 * Doctolib ermöglicht eine User-Enumeration, was bedeutet, dass durch Eingabe einer E-Mail-Adresse überprüft werden kann, ob diese im System registriert ist oder nicht.
@@ -178,6 +229,18 @@ type: blog
 * Transcribo, eine neue Transkription-Applikation, nutzt Technologien wie maschinelles Lernen und künstliche Intelligenz, um das gesprochene Wort automatisch zu transkribieren
   https://www.youtube.com/watch?v=hJLbfpo2GDU
   https://player.captivate.fm/episode/27259b30-782e-430c-958a-3f2a30cbaba3/
+* Gemeinwohlorientierte Forschung mit KI: Missbrauch eindämmen durch Zweckbindung für KI-Modelle
+  https://media.ccc.de/v/38c3-gemeinwohlorientierte-forschung-mit-ki-missbrauch-eindmmen-durch-zweckbindung-fr-ki-modelle
+  https://purposelimitation.ai/agenda/
+  https://www.heise.de/news/Tag-2-beim-38C3-zweckentfremdete-Forschungsdaten-und-finsterer-Jahresrueckblick-10221265.html
+
+## Wahlen
+* OKFN Forderungen zur Bundestagswahl 2025
+  https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/
+  https://okfn.de/blog/2024/12/digitalpolitik-fu%CC%88r-eine-demokratische-und-resiliente-zukunft-forderungen-der-open-knowledge-foundation-deutschland-zur-bundestagswahl-2025/
+  https://okfn.de/files/publikationen/OKF_Forderungen_BTW_2025.pdf
+  * Unruhe als Strukturprinzip - Die Arbeit im Beirat Digitalstrategie der Bundesregierung geht zu Ende
+    https://okfn.de/blog/2024/12/unruhe-als-strukturprinzip-die-arbeit-im-beirat-digitalstrategie-der-bundesregierung-geht-zu-ende/
 
 ## Recap
 * Services Roadshow by Base4NFDI
@@ -188,6 +251,8 @@ type: blog
   https://blog.okfn.org/2024/12/20/looking-back-on-2024-and-looking-ahead-to-2025-with-the-open-knowledge-network/
 * 2024 MediaWiki Conference Highlights
   https://professional.wiki/en/news/mediawiki-users-and-developers-conference-2024-vienna
+* 38C3
+  https://media.ccc.de/c/38c3
 
 ## Call for Participation
 * Chemnitzer Linux Tage, bis 08.01.2025
