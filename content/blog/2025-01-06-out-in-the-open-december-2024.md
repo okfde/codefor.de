@@ -17,6 +17,19 @@ type: blog
   https://netzpolitik.org/2024/beirat-digitalstrategie-fundamentale-kritik-an-der-digitalpolitik-der-ampel/
 * National Once Only Technical System: Staatsvertrag überbrückt Gräben zwischen Verwaltungen
   https://netzpolitik.org/2024/national-once-only-technical-system-staatsvertrag-ueberbrueckt-graeben-zwischen-verwaltungen/
+* OKFN Forderungen zur Bundestagswahl 2025
+  https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/
+  https://okfn.de/blog/2024/12/digitalpolitik-fu%CC%88r-eine-demokratische-und-resiliente-zukunft-forderungen-der-open-knowledge-foundation-deutschland-zur-bundestagswahl-2025/
+  https://okfn.de/files/publikationen/OKF_Forderungen_BTW_2025.pdf
+  * Unruhe als Strukturprinzip - Die Arbeit im Beirat Digitalstrategie der Bundesregierung geht zu Ende
+    https://okfn.de/blog/2024/12/unruhe-als-strukturprinzip-die-arbeit-im-beirat-digitalstrategie-der-bundesregierung-geht-zu-ende/
+* Digitalisierung: Wie es um die Nationale Bildungsplattform des Bundes steht
+  https://www.mdr.de/nachrichten/deutschland/politik/nationale-bildungsplattform-bildungsraum-zeugnisse-digital-speichern-100.html
+* Amtsblätter an die frische Luft
+  https://fragdenstaat.de/artikel/exklusiv/2024/12/verkehrsblatt/
+* Digitallotsen in der Verwaltung
+  https://shop.freiheit.org/#!/Publikation/1815
+  https://shop.freiheit.org/download/P2@1815/928199/Studie_Digitallotsen_final_web.pdf
 
 ## Open Data
 * New report suggests open data on edge of becoming a recognized global standard for scholarly output
@@ -78,13 +91,6 @@ type: blog
   https://zenodo.org/records/14332306
 * Public Domain Da
   https://blog.wikimedia.de/2025/01/01/public-domain-day-2025/
-* Digitalisierung: Wie es um die Nationale Bildungsplattform des Bundes steht
-  https://www.mdr.de/nachrichten/deutschland/politik/nationale-bildungsplattform-bildungsraum-zeugnisse-digital-speichern-100.html
-* Amtsblätter an die frische Luft
-  https://fragdenstaat.de/artikel/exklusiv/2024/12/verkehrsblatt/
-* Digitallotsen in der Verwaltung
-  https://shop.freiheit.org/#!/Publikation/1815
-  https://shop.freiheit.org/download/P2@1815/928199/Studie_Digitallotsen_final_web.pdf
 
 ## Open Source
 * Folge 115 des CIW Podcasts. Patricia Leu erklärt das Förderprojekt Prototype Fund
@@ -233,14 +239,6 @@ type: blog
   https://media.ccc.de/v/38c3-gemeinwohlorientierte-forschung-mit-ki-missbrauch-eindmmen-durch-zweckbindung-fr-ki-modelle
   https://purposelimitation.ai/agenda/
   https://www.heise.de/news/Tag-2-beim-38C3-zweckentfremdete-Forschungsdaten-und-finsterer-Jahresrueckblick-10221265.html
-
-## Wahlen
-* OKFN Forderungen zur Bundestagswahl 2025
-  https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/
-  https://okfn.de/blog/2024/12/digitalpolitik-fu%CC%88r-eine-demokratische-und-resiliente-zukunft-forderungen-der-open-knowledge-foundation-deutschland-zur-bundestagswahl-2025/
-  https://okfn.de/files/publikationen/OKF_Forderungen_BTW_2025.pdf
-  * Unruhe als Strukturprinzip - Die Arbeit im Beirat Digitalstrategie der Bundesregierung geht zu Ende
-    https://okfn.de/blog/2024/12/unruhe-als-strukturprinzip-die-arbeit-im-beirat-digitalstrategie-der-bundesregierung-geht-zu-ende/
 
 ## Recap
 * Services Roadshow by Base4NFDI
