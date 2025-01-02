@@ -51,6 +51,10 @@ type: blog
 * Klick-Start: Wie automatisierte Codevorlagen Open Data zugänglicher machen
   https://www.linkedin.com/pulse/klick-start-wie-automatisierte-codevorlagen-open-data-tim-fangmeyer-szglf/
   https://github.com/tifa365/starter-code-open_data_berlin
+* REITOX-Bericht 2024
+  https://www.bundesdrogenbeauftragter.de/presse/detail/reitox-bericht-2024/
+  https://www.dbdd.de
+  https://datenportal.bundesdrogenbeauftragter.de
 
 ## Offene Parlamentsdaten
 * Der Parlamentsspiegel wurde aktualisiert und ermöglicht nun tatsächlich den Zugang zu Dokumenten aus den Landesparlamenten
