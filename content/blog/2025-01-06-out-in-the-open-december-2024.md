@@ -11,18 +11,29 @@ og_image: out-in-the-open-2024-12-header.jpg
 type: blog
 ---
 
-## Digitalisierung
-* Beirat Digitalstrategie: Fundamentale Kritik an der Digitalpolitik der Ampel
-  "Statt zahlreicher Leuchttürme empfiehlt der Beirat zur Orientierung zudem die Konzentration auf eine übergeordnete Vision."
-  https://netzpolitik.org/2024/beirat-digitalstrategie-fundamentale-kritik-an-der-digitalpolitik-der-ampel/
+## Abschlussbericht Digitalstrategie Deutschland
+Der [Beirat Digitalstrategie Deutschland](https://digitalstrategie-deutschland.de/beirat/) waren in den vergangenen zwei Jahren damit beauftragt, die [19 Leuchtturmprojekte](https://digitalstrategie-deutschland.de/leuchtturm-projekte/) der [Digitalstrategie Deutschland](https://digitalstrategie-deutschland.de) zu begleiten. Sein nun erschienene [Abschlussbericht](https://digitalstrategie-deutschland.de/static/de707189e08ae8277726b0495c9a8ef3/Abschlussbericht_von_Beirat_und_DigitalService.pdf) geht allerdings mit der Digitalpolitik der Bundesregierung hart ins Gericht. So war aus Sicht der Beiratsmitglieder schon der gewählte Leuchttürme-Ansatz falsch, da er davon ablenkt hat, überhaupt einmal eine übergreifende Vision und eine damit verbundene Gesamtstrategie zu formulieren. Erst aus einer solchen ließe sich eine operativer Umsetzung (in Form von Projekte oder Daueraufgaben) ableiten. Diese Maßnahmen können dann im Sinne der Strategie priorisiert und miteinander verzahnt geplant werden.
+
+"Sind die Ziele noch im Blick?" [fragte sich Dr. Henriette Litta](https://okfn.de/blog/2024/12/unruhe-als-strukturprinzip-die-arbeit-im-beirat-digitalstrategie-der-bundesregierung-geht-zu-ende/), als sie als Geschäftsführerin der [Open Knowledge Foundation Deutschland (OKFN)](https://okfn.de) für die Zivilgesellschaft im Beirat saß und auch der Abschlussbericht konstatiert für die Leuchturmprojekte, dass bei ihnen oftmals die klar definierten Wirkungsziele gefehlt haben, also bis wann für welche Zielgruppe welcher gesellschaftlicher Mehrwert erzielt werden soll. Seine Erreichung und damit der Projekterfolg lassen sich schließlich erst an Hand quantifizierbarer Kriterien (also erhobenen validen Daten) bestimmen. Misst man diese Metriken fortlaufend im Projekts, können frühzeitig Ziele und Umsetzung korrigiert werden. Deswegen sollten beispielsweise mit Zielgruppen (Stakeholdern), nachdem man sie klar definiert und priorisiert hat, regelmäßig Nutzertests mit dem aktuellen Entwicklungsstand durchgeführt werden.
+
+Der Beirat kritisiert ebenfalls, dass finanzielle Mittel hauptsächliche für Projekte vergeben werden. Es scheint hier immer noch die falsche Annahme vorzuliegen, dass das dann "fertige" Produkt keiner weiteren Finanzierung bedarf. Software-Entwicklung und -Betrieb wird immer noch zu sehr mit dem starren Bau einer Brücke verglichen, statt mit der flexiblen [Zellregeneration](https://de.wikipedia.org/wiki/Physiologische_Zellregeneration), bei der sich Zellen ständig erneuern und ggf. sich durch geänderte Anforderungen auch funktionell umprogrammieren können. Übertragen auf die Digitalstrategie heißt das, dass es für eine langfristige Ressourcenplanung auch geeignete Betriebsmodelle, Vergabemodelle und Rechtsformen braucht.
+
+Eine weitere Baustelle bleibt der Datenaustausch zwischen den öffentlichen Stellen. Dieser sollte aus Sicht des Berichts durch gemeinsame Standards (im Bericht wird hier auf das [Data Space Rule Book](https://docs.internationaldataspaces.org/ids-knowledgebase/idsa-rulebook) verwiesen) sowie durch Kompetenzaufbau zu Daten und Datenökosystemen, z.B. in [Datenlaboren](https://www.youtube.com/watch?v=5QHsFqj90es), verbessert werden. 
+
+Übergreifende Herausforderungen bleiben immer noch fehlende "zuverlässige, ressortübergreifende Kollaborationsplattformen", die Doppelentwicklung von Services, Standards und Tools, da schon existierende Angebote entweder unbekannt, schwer zugänglich oder kompliziert sind. Hier wird vom Beirat ein "zentraler, nutzerfreundlicher Werkzeugkasten" vorgeschlagen, in dem relevante Ressourcen (z.B. Projekte mit Ansprechpersonen, Leitfäden, Mustervorlagen, Schulungsunterlagen, ressortübergreifende Tools und deren Zugänge) kuratiert sind.
+
+Laut dem im [Netzpolitik-Artikel](https://netzpolitik.org/2024/beirat-digitalstrategie-fundamentale-kritik-an-der-digitalpolitik-der-ampel/) zitierten Beiratsmitglied Alexander Rabe habe generell "eine koordinierte Steuerung gefehlt", so lief das teils große Engagement in den einzelnen Ministerien ins Leere. Die Parteien der Ampel-Koalition hatten sich erst nach sieben Monaten im Amt auf eine hochgradig komplexe und kleinteilige Aufteilung der Zuständigkeiten für Digitalvorhaben geeinigt. Der nächsten Regierung empfiehlt der Beirat daher eine mit eigenen Digitalbudget ausgestattete "steuernde, zentrale Instanz". Ob das unbedingt ein eigenes Digitalministerium sein muss, darüber gingen die Meinungen im Beirat auseinander.
+
+Stefan Heumann, für [Agora Digital Transformation](https://agoradigital.de) ebenfalls Teil des Beirats, stört sich auf LinkedIn an der Phrase ]["Wir haben kein Erkenntnis- sondern ein Umsetzungsproblem"](https://de.linkedin.com/posts/stefan-heumann-4194a34a_wir-haben-kein-erkenntnis-sondern-ein-umsetzungsproblem-activity-7265360858522816515-guMQ). Die Kommentare und auch [DrüKos](https://www.linkedin.com/posts/stefan-kaufmann-7a8b54224_wir-haben-kein-erkenntnis-sondern-ein-umsetzungsproblem-activity-7272992359745810433-SATb) thematisieren dazu aber auch die real existierenden strukturellen Probleme, Fehlanreize, Beratungsresistenz, aber auch fehlende [Leadership](https://de.wikipedia.org/wiki/F%C3%BChrung_(Sozialwissenschaften)), also Mandat und Mut, zum einen Entscheidungen zu treffen, die die Privilegien derer beschneiden, die aktuell von den kaputten Strukturen profitieren, als auch durch gute Kommunikation und Organisation die [Angst vor Veränderung](https://negz.org/publikation/angst-im-wandel/) zu nehmen. Und der Weg von Erkenntnis zur Umsetzung ist kein [Wasserfall](https://de.wikipedia.org/wiki/Wasserfallmodell), manche Erkenntnis lässt erst durch Umsetzung(-sversuche) erlangen. Durch [iteratives](https://de.wikipedia.org/wiki/Inkrementelles_Vorgehensmodell) Durchlaufen solcher Rückkopplungsschleifen steigern im besten Fall Erkenntnis und verbessern die Umsetzung. Setzt natürlich (Teil-)Organisationsstrukturen vorraus, in denen eine solche [Agilität](https://de.wikipedia.org/wiki/Agilit%C3%A4t_(Management)) gelebt werden kann und in denen der [Postenproporz](https://de.wikipedia.org/wiki/Proporz) kaum eine Rolle spielt.
+
+
 * National Once Only Technical System: Staatsvertrag überbrückt Gräben zwischen Verwaltungen
   https://netzpolitik.org/2024/national-once-only-technical-system-staatsvertrag-ueberbrueckt-graeben-zwischen-verwaltungen/
 * OKFN Forderungen zur Bundestagswahl 2025
   https://okfn.de/publikationen/2024-okf-forderungen-bundestagswahl/
   https://okfn.de/blog/2024/12/digitalpolitik-fu%CC%88r-eine-demokratische-und-resiliente-zukunft-forderungen-der-open-knowledge-foundation-deutschland-zur-bundestagswahl-2025/
   https://okfn.de/files/publikationen/OKF_Forderungen_BTW_2025.pdf
-  * Unruhe als Strukturprinzip - Die Arbeit im Beirat Digitalstrategie der Bundesregierung geht zu Ende
-    https://okfn.de/blog/2024/12/unruhe-als-strukturprinzip-die-arbeit-im-beirat-digitalstrategie-der-bundesregierung-geht-zu-ende/
+
 * Digitalisierung: Wie es um die Nationale Bildungsplattform des Bundes steht
   https://www.mdr.de/nachrichten/deutschland/politik/nationale-bildungsplattform-bildungsraum-zeugnisse-digital-speichern-100.html
 * Amtsblätter an die frische Luft
@@ -30,8 +41,6 @@ type: blog
 * Digitallotsen in der Verwaltung
   https://shop.freiheit.org/#!/Publikation/1815
   https://shop.freiheit.org/download/P2@1815/928199/Studie_Digitallotsen_final_web.pdf
-* "Wir haben kein Erkenntnis- sondern ein Umsetzungsproblem"
-  https://www.linkedin.com/posts/stefan-kaufmann-7a8b54224_wir-haben-kein-erkenntnis-sondern-ein-umsetzungsproblem-activity-7272992359745810433-SATb
 * Ko-Pionier-Preis (Achtung, da steckt Tech4Germany dahinter)
   https://www.linkedin.com/posts/toridykes_projecttogether-reform-kopionierpreis-activity-7274369348201320449-kVMP
 
