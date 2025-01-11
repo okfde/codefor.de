@@ -65,30 +65,21 @@ Wie Dénes Jäger, Open-Data-Koordinator bei der OKF, [überrascht festgestellt 
 Auch in der Schweiz ist ein standardisierter Zugang zu Parlamentsdaten ein Thema: Opendata.ch arbeitet an einer einer [solchen API](https://opendata.ch/projects/openparldata/) und [lädt zur Mitarbeit ein](https://mastodon.social/@OpendataCH/113678300636615044).
 
 ## Open Data
-* New report suggests open data on edge of becoming a recognized global standard for scholarly output
-  https://www.digital-science.com/news/state-of-open-data-2024-special-report/
-* 200 Datensätze: Ein Meilenstein für offene Daten in Münster
-  "Die Daten aus Münster stoßen auch auf überregionales Interesse, da in Münster Daten veröffentlicht werden, die zum Zeitpunkt der Veröffentlichung deutschlandweit einzigartig waren, wie z.B. die Energieverbrauchsdaten städtischer Gebäude, oder die Live-Positionen aller Stadtwerke-Busse."
-  https://opendata.stadt-muenster.de/blog/200-datens%C3%A4tze-ein-meilenstein-f%C3%BCr-offene-daten-m%C3%BCnster
-* Symposium: Linked Data im Zeitalter der generativen Künstlichen Intelligenz – Neue Perspektiven oder überholte Vision?
-  https://www.bfr-akademie.de/deutsch/archiv/2024/linkeddata2024.html
-* Wien fördert den Einsatz von Open Government Data (OGD) im Klassenzimmer & bei Wettbewerben. Mit Praxisbeispielen wie Klimadaten, Baumkataster & Vornamen wird Datenkompetenz spielerisch vermittelt.
-  https://www.data.gv.at/2024/12/17/open-data-im-unterricht-und-bei-wettbewerben-nutzen/
-  via https://mastodon.social/@datagvat/113668710091152197
-* Berlin Emergency Response Tracker
-  https://berlin.prateekkeshari.com
-* Ein Datengesetzbuch für alles
-  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/ein-datengesetzbuch-fuer-alles
-* Wenn Freies Wissen vor Gericht steht
-  https://blog.wikimedia.de/2024/12/16/freies-wissen-vor-gericht/
-* Klick-Start: Wie automatisierte Codevorlagen Open Data zugänglicher machen
-  https://www.linkedin.com/pulse/klick-start-wie-automatisierte-codevorlagen-open-data-tim-fangmeyer-szglf/
-  https://github.com/tifa365/starter-code-open_data_berlin
-* REITOX-Bericht 2024
-  https://www.bundesdrogenbeauftragter.de/presse/detail/reitox-bericht-2024/
-  https://www.dbdd.de
-  https://datenportal.bundesdrogenbeauftragter.de
+Dass inzwischen [mehr wissenschaftliche Arbeiten offen](https://www.digital-science.com/news/state-of-open-data-2024-special-report/) statt mit Zugangsbeschränkungen veröffentlicht werden, ist eine der Haupterkenntnisse des [The State of Open Data 2024 Special Reports](https://www.springernature.com/gp/researchers/campaigns/state-of-open-data).
 
+Dass es aber rechtlich riskant sein kann, Wissen im Netz frei zur Verfügung zu stellen, [zeigen drei Fälle aus der Rechtsgeschichte von Wikipedia](https://blog.wikimedia.de/2024/12/16/freies-wissen-vor-gericht/).
+
+Anlässlich des 200-ten veröffentlichten Datensatz auf dem Open-Data-Portal Münster [reflektiert das Portal](https://opendata.stadt-muenster.de/blog/200-datens%C3%A4tze-ein-meilenstein-f%C3%BCr-offene-daten-m%C3%BCnster) über die letzten fünf Jahre Open-Data-Initiative in Münster, wie z.B. die zum Zeitpunkt der Veröffentlichung deutschlandweit einzigartigen Energieverbrauchsdaten städtischer Gebäude oder die Live-Positionen aller Stadtwerke-Busse, blickt aber auch in die Zukunft, in der sie verstärkt auch Visualisierungen zu ihren Datensätzen anbieten möchte.
+
+Vielleicht ist für sie auch das Projekt Startercode interessant, das sein Ursprung 2023 im [Kanton Zürich]((https://openzh.github.io/starter-code-openZH/)) fand, inzwischen auch von [Kanton Thurgau](https://github.com/ogdtg/starter-code-ogdtg?trk=article-ssr-frontend-pulse_x-social-details_comments-action_comment-text), [Basel](https://github.com/opendatabs/startercode-opendatabs), [opendata.swiss](https://opendata.swiss/de/showcase/starter-code-fur-alle-csv-datensatze-auf-opendata-swiss) und [München](https://github.com/it-at-m/startercode-generator-munich) adaptiert wurde und nun von Tim Feldmeyer für Berlin [umgesetzt wurde](https://github.com/tifa365/starter-code-open_data_berlin), wie er auf [LinkedIn beschreibt](https://www.linkedin.com/pulse/klick-start-wie-automatisierte-codevorlagen-open-data-tim-fangmeyer-szglf/). Mit der Integration kann man direkt aus dem Datenkatalog-Eintrag des jeweiligen Open-Data-Portals mit der Datenanalyse starten, da eine entsprechende Code-Vorlage schon den notwendigen Rahmen vorgibt.
+
+Auch die Stadt Wien ist an einem niederschwelligen Zugang zu ihren offenen Verwaltungsdaten (Open Government Data (OGD)) interessiert, sei es für Schüler:innen im Unterricht oder auch für Hackathons, und stellt dafür eine Präsentation und Praxisbeispiele mit Klimadaten, dem Baumkataster Wien und den Vornamen der Neugeborenen in Wien mit einem Anleitungsdokument [zur Verfügung](https://www.data.gv.at/katalog/de/dataset/stadt-wien_open-data-im-unterricht-wien).
+
+Moritz Hennemann, Direktor am Institut für Medien- und Informationsrecht der Universität Freiburg, [plädiert dafür](https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/ein-datengesetzbuch-fuer-alles), künftig Einzelgesetze in einem Datengesetzbuch zu bündeln, um so den "Datenrechtsdschungel entflechten".
+
+Statistiken zu Notrufe in Berlin wie z.B. die Reaktionszeiten regional aufgeschlüsselt findet man neuerdings auf [Berlin Emergency Response Tracker](https://berlin.prateekkeshari.com).
+
+Sucht und Drogen haben eine erhebliche gesellschaftliche Relevanz. Belastbare Daten liefert das [Datenportal des Bundesdrogenbeauftragten](https://datenportal.bundesdrogenbeauftragter.de), aber auch der jüngst veröffentlichte [REITOX-Jahresbericht für Deutschland 2024](https://www.bundesdrogenbeauftragter.de/presse/detail/reitox-bericht-2024/) (konkret [REITOX Bericht Drogen (pdf)](https://www.dbdd.de/fileadmin/user_upload_dbdd/05_Publikationen/PDFs_Reitox-Bericht/REITOX_BERICHT_2024/REITOX_BERICHT_2024_Drogen.pdf)) der [Deutsche Beobachtungsstelle für Drogen und Drogensucht (DBDD)](https://www.dbdd.de) bietet Einblicke in den Drogenkonsum in Deutschland, z.B. dass der Trend zu einem steigenden Konsum von Kokain geht. Zumindestens scheint die [Opioidkrise](https://de.wikipedia.org/wiki/Opioidkrise_in_den_Vereinigten_Staaten) nicht auf Deutschland (noch nicht) überzugreifen.
 
 ## Datenvisualisierungen
 * A very cool dataviz using the baby names (US) dataset
@@ -259,6 +250,8 @@ Auch in der Schweiz ist ein standardisierter Zugang zu Parlamentsdaten ein Thema
   https://blog.okfn.org/2024/12/20/looking-back-on-2024-and-looking-ahead-to-2025-with-the-open-knowledge-network/
 * 2024 MediaWiki Conference Highlights
   https://professional.wiki/en/news/mediawiki-users-and-developers-conference-2024-vienna
+* Symposium: Linked Data im Zeitalter der generativen Künstlichen Intelligenz – Neue Perspektiven oder überholte Vision?
+  https://www.bfr-akademie.de/deutsch/archiv/2024/linkeddata2024.html
 * 38C3
   https://media.ccc.de/c/38c3
 
