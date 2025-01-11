@@ -39,7 +39,7 @@ Allerdings auch mit Blick auf diese Zahlen besteht für die [Gesellschaft für I
 [Digitale Souveränität](https://de.wikipedia.org/wiki/Digitale_Souver%C3%A4nit%C3%A4t) ist ein Anliegen sowohl des [Sovereign Cloud Stack (SCS)](https://scs.community/) als auch der [GovStack-Initiative](https://www.govstack.global/). In der Arbeitsgruppe "Cloud-Infrastruktur" durfte der SCS an der Spezifikation des [GovStack-Building Block-Frameworks](https://govstack.gitbook.io/bb-cloud-infrastructure) mitwirken, die nun [veröffentlicht wurde](https://www.govstack.global/news/unlocking-the-power-of-cloud-infrastructure-govstacks-new-building-block-specifications-for-cloud-infrastructure/).
 Die SCS-Software [genügt dabei bereits](https://osb-alliance.de/featured/digitale-souveraenitaet-fuer-staaten-govstacks-neue-building-block-spezifikationen-fuer-cloud-infrastruktur) den geforderten Pflichtanforderungen der Spec und gilt somit als eine Referenzimplementierung.
 
-Den [Streisand-Effekt](https://de.wikipedia.org/wiki/Streisand-Effekt) konnte man als Reaktion auf die [Forderung von Elon Musk, nicht für die Wikipedia zu spenden](https://www.newsweek.com/elon-musk-takes-aim-wikipedia-fund-raising-editing-political-woke-2005742), weil sie ihm zu woke ist, bewundern: wie der [Spiegel berichtet](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-wikipedia-spender-lassen-sich-von-boykottaufruf-nicht-abschrecken-a-6df91e84-6f61-453e-95b6-8e2789c56efd) ist das Spendenaufkommen mit Verweis auf die [Wikimedia Foundation Fundraising Data](https://frdata.wikimedia.org) sowie des [Wikimedia Deutschland Spendentickers](https://spenden.wikimedia.de/list-comments.html) in den Tagen nach dem Aufruf merklich gestiegen ist. Wie Ralf Stockmann so schön sagte: ["Jetzt können wir alle einmal durchatmen, dass Musk nicht einfach die Wikipedia kaufen kann"](https://de.linkedin.com/posts/ralf-stockmann-6a730a8_elon-musk-takes-aim-at-wikipedia-activity-7277663854459777024-l2UK).
+Den [Streisand-Effekt](https://de.wikipedia.org/wiki/Streisand-Effekt) konnte man als Reaktion auf die [Forderung von Elon Musk, nicht für die Wikipedia zu spenden](https://www.newsweek.com/elon-musk-takes-aim-wikipedia-fund-raising-editing-political-woke-2005742), weil sie ihm zu woke ist, bewundern: wie der [Spiegel berichtet](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-wikipedia-spender-lassen-sich-von-boykottaufruf-nicht-abschrecken-a-6df91e84-6f61-453e-95b6-8e2789c56efd) ist das Spendenaufkommen mit Verweis auf die [Wikimedia Foundation Fundraising Data](https://frdata.wikimedia.org) sowie des [Wikimedia Deutschland Spendentickers](https://spenden.wikimedia.de/list-comments.html) in den Tagen nach dem Aufruf merklich gestiegen ist. Wie Ralf Stockmann so schön sagte: ["Jetzt können wir alle einmal durchatmen, dass Musk nicht einfach die Wikipedia kaufen kann"](https://openbiblio.social/@rstockm/113713024195143866).
 
 Um die Stabilität, Erweiterung und Modernisierung der Kernsoftware von OpenStreetMap für mindestens zwei Jahre absichern zu helfen, [investiert der Sovereign Tech Fund 384 Tausend Euro](https://blog.openstreetmap.org/2024/12/20/sovereign-tech-fund-invests-in-openstreetmap/).
 
@@ -50,26 +50,19 @@ In der [Nationalen Bildungsplattform](https://digitalstrategie-deutschland.de/Na
 
 Damit ist schonmal klar, dass das BMBF den [Ko-Pionier-Preis](https://reform-staat.org/kopionierpreis/) nicht gewinnen wird. Mit diesem Preis [werden im kommenden März erstmals Verwaltungen ausgezeichnet](https://www.linkedin.com/posts/toridykes_projecttogether-reform-kopionierpreis-activity-7274369348201320449-kVMP), die bestehende Lösungen aus anderen Verwaltungen nachnutzen.
 
-## Open Educational Resources (OER)
-* Learn how to create open educational resources using GitHub, GitHub pages and Jupyter Books! 
-  https://jannikahollmann.github.io/Create_Interactive_Content/intro.html
-  via https://mastodon.social/users/leibnizopenscience/statuses/113594676616132947
-* Die Daten sind digital – was dann? Dimensionen der Nachnutzung offener Kulturerbedaten
-  https://zenodo.org/records/14332306
-* Public Domain Day
-  https://blog.wikimedia.de/2025/01/01/public-domain-day-2025/
+## Open Access
+Wie man ganz leicht freie Lern- und Lehrmaterialien ([Open Educational Resources (OER)](https://de.wikipedia.org/wiki/Open_Educational_Resources)) mit Github, Github Pages und Jupyter Books erstellen kann, zeigen Felix Körber, Michael Ernst, Peer Herholz, Jannika Hollmann in ihrer [Kurs "Creating & sharing interactive learning materials"](https://jannikahollmann.github.io/Create_Interactive_Content/intro.html).
 
-## Offene Parlamentsdaten
+Wie sich offene Kultur-Erbe-Daten sowohl institutionsintern als auch extern nachnutzen lassen und wie GLAM-Institutionen die Nachnutzung generell erleichtern und fördern können, diskutiert der [Vortrag von Alexander Winkler](https://zenodo.org/records/14332306) vom [digiS](https://www.digis-berlin.de).
+
+Der erste Tag im Jahr ist gleichzeitig auch der [Tag der Gemeinfreiheit (Public Domain Day)](https://de.wikipedia.org/wiki/Public_Domain_Day). Gefeiert wird der Umstand, dass 70 Jahre nach dem Tod einer Person zum Jahresende das Urheberrecht an ihren Werken erlischt und damit gemeinfrei wird. [Zu Beginn dieses Jahres](https://blog.wikimedia.de/2025/01/01/public-domain-day-2025/) sind das unter anderem Werke von Frida Kahlo und Henri Matisse, die beide 1954 verstorben sind.
+
 "Amtliche Dokumente müssen frei sein", [findet FragDenStaat](https://fragdenstaat.de/artikel/exklusiv/2024/12/verkehrsblatt/) und veröffentlicht mit [Verkehrsblatt](https://fragdenstaat.de/dokumente/verkehrsblatt/), [Steuerblatt](https://fragdenstaat.de/dokumente/bundessteuerblatt/), und [Nachrichten für Luftfahrer](https://fragdenstaat.de/dokumente/nachrichten-fur-luftfahrer/) weitere Amtsblätter des Bundes, die bisher nur kostenpflichtig zugänglich waren.
 
-
-* Der Parlamentsspiegel wurde aktualisiert und ermöglicht nun tatsächlich den Zugang zu Dokumenten aus den Landesparlamenten
-  https://mastodon.online/@denes/113674105475066993
-* We are collaboratively building an open #standard and #API for harmonized Swiss parliamentary #data to promote transparency, innovation and participation in Swiss politics.
-  https://opendata.ch/projects/openparldata/
-  via https://mastodon.social/@OpendataCH/113678300636615044
-
-
+## Offene Parlamentsdaten
+Wie Dénes Jäger, Open-Data-Koordinator bei der OKF, [überrascht festgestellt hat](https://mastodon.online/@denes/113674105475066993), wurde offensichtlich der [Parlamentsspiegel](https://www.parlamentsspiegel.de/suche) aktualisiert und ermöglicht nun tatsächlich den Zugang zu Dokumenten aus den Landesparlamenten. Wunder geschehen.
+  
+Auch in der Schweiz ist ein standardisierter Zugang zu Parlamentsdaten ein Thema: Opendata.ch arbeitet an einer einer [solchen API](https://opendata.ch/projects/openparldata/) und [lädt zur Mitarbeit ein](https://mastodon.social/@OpendataCH/113678300636615044).
 
 ## Open Data
 * New report suggests open data on edge of becoming a recognized global standard for scholarly output
