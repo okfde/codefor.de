@@ -30,6 +30,10 @@ type: blog
 * Digitallotsen in der Verwaltung
   https://shop.freiheit.org/#!/Publikation/1815
   https://shop.freiheit.org/download/P2@1815/928199/Studie_Digitallotsen_final_web.pdf
+* "Wir haben kein Erkenntnis- sondern ein Umsetzungsproblem"
+  https://www.linkedin.com/posts/stefan-kaufmann-7a8b54224_wir-haben-kein-erkenntnis-sondern-ein-umsetzungsproblem-activity-7272992359745810433-SATb
+* Ko-Pionier-Preis (Achtung, da steckt Tech4Germany dahinter)
+  https://www.linkedin.com/posts/toridykes_projecttogether-reform-kopionierpreis-activity-7274369348201320449-kVMP
 
 ## Open Data
 * New report suggests open data on edge of becoming a recognized global standard for scholarly output
@@ -222,6 +226,8 @@ type: blog
   * https://www.zeit.de/digital/datenschutz/2024-12/elektronische-patientenakte-it-sicherheit-datenschutz-geheimdienste/komplettansicht
   * https://www.br.de/nachrichten/netzwelt/hacker-enthuellen-sicherheitsluecken-bei-digitaler-patientenakte,UYWUk0F
   * https://widerspruch-epa.de/widerspruch-gegen-elektronische-patientenakte-epa/
+  * "Das Narrativ der sicheren elektronischen Patientenakte ist nicht mehr zu halten"
+    https://netzpolitik.org/2024/chaos-communication-congress-das-narrativ-der-sicheren-elektronischen-patientenakte-ist-nicht-mehr-zu-halten/
 * TI-Messenger: Rolle von TIM für den Datenaustausch im Gesundheitswesen
   https://www.heise.de/hintergrund/TI-Messenger-Rolle-von-TIM-fuer-den-Datenaustausch-im-Gesundheitswesen-10203470.html
 * Doctolib ermöglicht eine User-Enumeration, was bedeutet, dass durch Eingabe einer E-Mail-Adresse überprüft werden kann, ob diese im System registriert ist oder nicht.
@@ -257,8 +263,6 @@ type: blog
   https://media.ccc.de/c/38c3
 
 ## Call for Participation
-* Chemnitzer Linux Tage, bis 08.01.2025
-  * https://chemnitzer.linux-tage.de/2025/de/presse/mitteilungen/news02
 * Data Reuse Days 2025, bis 12.01.2025 Sessions vorschlagen 
   * https://www.wikidata.org/wiki/Event:Data_Reuse_Days_2025  
 * Re:publica 2025, bis 15.01.2025 Einreichungen möglich
