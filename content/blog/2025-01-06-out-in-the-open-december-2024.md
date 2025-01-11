@@ -11,7 +11,7 @@ og_image: out-in-the-open-2024-12-header.jpg
 type: blog
 ---
 
-## Abschlussbericht Digitalstrategie Deutschland
+## Digitalstrategie Deutschland
 Der [Beirat Digitalstrategie Deutschland](https://digitalstrategie-deutschland.de/beirat/) waren in den vergangenen zwei Jahren damit beauftragt, die [19 Leuchtturmprojekte](https://digitalstrategie-deutschland.de/leuchtturm-projekte/) der [Digitalstrategie Deutschland](https://digitalstrategie-deutschland.de) zu begleiten. Sein nun erschienene [Abschlussbericht](https://digitalstrategie-deutschland.de/static/de707189e08ae8277726b0495c9a8ef3/Abschlussbericht_von_Beirat_und_DigitalService.pdf) geht allerdings mit der Digitalpolitik der Bundesregierung hart ins Gericht. So war aus Sicht der Beiratsmitglieder schon der gewählte Leuchttürme-Ansatz falsch, da er davon ablenkt hat, überhaupt einmal eine übergreifende Vision und eine damit verbundene Gesamtstrategie zu formulieren. Erst aus einer solchen ließe sich eine operativer Umsetzung (in Form von Projekte oder Daueraufgaben) ableiten. Diese Maßnahmen können dann im Sinne der Strategie priorisiert und miteinander verzahnt geplant werden.
 
 "Sind die Ziele noch im Blick?" [fragte sich Dr. Henriette Litta](https://okfn.de/blog/2024/12/unruhe-als-strukturprinzip-die-arbeit-im-beirat-digitalstrategie-der-bundesregierung-geht-zu-ende/), als sie als Geschäftsführerin der [Open Knowledge Foundation Deutschland (OKFN)](https://okfn.de) für die Zivilgesellschaft im Beirat saß und auch der Abschlussbericht konstatiert für die Leuchturmprojekte, dass bei ihnen oftmals die klar definierten Wirkungsziele gefehlt haben, also bis wann für welche Zielgruppe welcher gesellschaftlicher Mehrwert erzielt werden soll. Seine Erreichung und damit der Projekterfolg lassen sich schließlich erst an Hand quantifizierbarer Kriterien (also erhobenen validen Daten) bestimmen. Misst man diese Metriken fortlaufend im Projekts, können frühzeitig Ziele und Umsetzung korrigiert werden. Deswegen sollten beispielsweise mit Zielgruppen (Stakeholdern), nachdem man sie klar definiert und priorisiert hat, regelmäßig Nutzertests mit dem aktuellen Entwicklungsstand durchgeführt werden.
@@ -28,7 +28,20 @@ Auch die OKF hat [digitalpolitische Forderungen](https://okfn.de/blog/2024/12/di
 
 Stefan Heumann, für [Agora Digital Transformation](https://agoradigital.de) ebenfalls Teil des Beirats, stört sich auf LinkedIn an der Phrase ]["Wir haben kein Erkenntnis- sondern ein Umsetzungsproblem"](https://de.linkedin.com/posts/stefan-heumann-4194a34a_wir-haben-kein-erkenntnis-sondern-ein-umsetzungsproblem-activity-7265360858522816515-guMQ). Die Kommentare und auch [DrüKos](https://www.linkedin.com/posts/stefan-kaufmann-7a8b54224_wir-haben-kein-erkenntnis-sondern-ein-umsetzungsproblem-activity-7272992359745810433-SATb) thematisieren dazu aber auch die real existierenden strukturellen Probleme, Fehlanreize, Beratungsresistenz, aber auch fehlende [Leadership](https://de.wikipedia.org/wiki/F%C3%BChrung_(Sozialwissenschaften)), also Mandat und Mut, zum einen Entscheidungen zu treffen, die die Privilegien derer beschneiden, die aktuell von den kaputten Strukturen profitieren, als auch durch gute Kommunikation und Organisation die [Angst vor Veränderung](https://negz.org/publikation/angst-im-wandel/) zu nehmen. Und der Weg von Erkenntnis zur Umsetzung ist kein [Wasserfall](https://de.wikipedia.org/wiki/Wasserfallmodell), manche Erkenntnis lässt erst durch Umsetzung(-sversuche) erlangen. Durch [iteratives](https://de.wikipedia.org/wiki/Inkrementelles_Vorgehensmodell) Durchlaufen solcher Rückkopplungsschleifen steigern im besten Fall Erkenntnis und verbessern die Umsetzung. Setzt natürlich (Teil-)Organisationsstrukturen vorraus, in denen eine solche [Agilität](https://de.wikipedia.org/wiki/Agilit%C3%A4t_(Management)) gelebt werden kann und in denen der [Postenproporz](https://de.wikipedia.org/wiki/Proporz) kaum eine Rolle spielt.
 
-[Eine Studie (pdf)](https://shop.freiheit.org/download/P2@1815/928199/Studie_Digitallotsen_final_web.pdf) der Friedrich-Naumann-Stiftung schlägt [Digital-Lotsen](https://zdov.de/digitallotsen-unter-der-lupe/)-Programme als "weiches Management-Instrument" vor, um die digitale Transformationen in den Behörden zu begleiten.
+[Eine Studie (pdf)](https://shop.freiheit.org/download/P2@1815/928199/Studie_Digitallotsen_final_web.pdf) der Friedrich-Naumann-Stiftung hat [Digital-Lotsen](https://zdov.de/digitallotsen-unter-der-lupe/)-Programme analysiert und sieht sie als "weiches Management-Instrument", um die digitale Transformationen in den Behörden zu begleiten.
+
+## Digitale Souveränität
+In der öffentliche Anhörung “Open Source” im Ausschuss für Digitales des Deutschen Bundestages ging es am 4. Dezember um Open-Source-Projekte in der öffentlichen IT [und welche Potenziale der Staat hier noch heben kann](https://netzpolitik.org/2024/open-source-ohne-laeuft-nichts/).
+Denn die laufende Rahmenverträge mit großen IT-Firmen belaufen sich derzeit noch auf 13,6 Milliarden Euro, wohingegen die geplanten 34 Millionen Euro für das ZenDiS noch nicht final beschieden sind. Dabei waren sich im Großen und Ganzen die Beteiligten über die Vorteile von Open-Source einig (Verringerung der Abhängigkeit zu Herstellern proprietären Software, offene Software kann von allen verwendet, verstanden, verbreitet (bzw. nachgenutzt), an konkrete Bedürfnisse angepasst, interoperabel gemacht und verbessert werden).
+
+Allerdings auch mit Blick auf diese Zahlen besteht für die [Gesellschaft für Informatik (GI)](https://gi.de) weiterhin die "Gefahr, [dass Deutschland zu einer digitalen Kolonie wird](https://www.heise.de/news/Informatiker-Ampel-hat-Ziele-fuer-Souveraenitaet-und-Open-Source-klar-verfehlt-10218368.html)", denn aus ihrer Sicht hat die Abhängigkeit von digitalen Monopolen deutlich zugenommen und mit dem Nicht-Erreichnen der einst gesetzen Ziele der Ampel-Koalition hinsichtlich Open-Source und Digitale Souveränität (also nicht wirtschaftlich und geopolitisch erpressbar zu sein) auch Glaubwürdigkeit verloren.
+
+[Digitale Souveränität](https://de.wikipedia.org/wiki/Digitale_Souver%C3%A4nit%C3%A4t) ist ein Anliegen sowohl des [Sovereign Cloud Stack (SCS)](https://scs.community/) als auch der [GovStack-Initiative](https://www.govstack.global/). In der Arbeitsgruppe "Cloud-Infrastruktur" durfte der SCS an der Spezifikation des [GovStack-Building Block-Frameworks](https://govstack.gitbook.io/bb-cloud-infrastructure) mitwirken, die nun [veröffentlicht wurde](https://www.govstack.global/news/unlocking-the-power-of-cloud-infrastructure-govstacks-new-building-block-specifications-for-cloud-infrastructure/).
+Die SCS-Software [genügt dabei bereits](https://osb-alliance.de/featured/digitale-souveraenitaet-fuer-staaten-govstacks-neue-building-block-spezifikationen-fuer-cloud-infrastruktur) den geforderten Pflichtanforderungen der Spec und gilt somit als eine Referenzimplementierung.
+
+Den [Streisand-Effekt](https://de.wikipedia.org/wiki/Streisand-Effekt) konnte man als Reaktion auf die [Forderung von Elon Musk, nicht für die Wikipedia zu spenden](https://www.newsweek.com/elon-musk-takes-aim-wikipedia-fund-raising-editing-political-woke-2005742), weil sie ihm zu woke ist, bewundern: wie der [Spiegel berichtet](https://www.spiegel.de/netzwelt/netzpolitik/elon-musk-wikipedia-spender-lassen-sich-von-boykottaufruf-nicht-abschrecken-a-6df91e84-6f61-453e-95b6-8e2789c56efd) ist das Spendenaufkommen mit Verweis auf die [Wikimedia Foundation Fundraising Data](https://frdata.wikimedia.org) sowie des [Wikimedia Deutschland Spendentickers](https://spenden.wikimedia.de/list-comments.html) in den Tagen nach dem Aufruf merklich gestiegen ist. Wie Ralf Stockmann so schön sagte: ["Jetzt können wir alle einmal durchatmen, dass Musk nicht einfach die Wikipedia kaufen kann"](https://de.linkedin.com/posts/ralf-stockmann-6a730a8_elon-musk-takes-aim-at-wikipedia-activity-7277663854459777024-l2UK).
+
+Um die Stabilität, Erweiterung und Modernisierung der Kernsoftware von OpenStreetMap für mindestens zwei Jahre absichern zu helfen, [investiert der Sovereign Tech Fund 384 Tausend Euro](https://blog.openstreetmap.org/2024/12/20/sovereign-tech-fund-invests-in-openstreetmap/).
 
 # Datenzugang in der Verwaltung
 Das Grundgesetz verbietet eigentlich Mischverwaltung, d.h. die Bundes- und Landesverwaltungen müssen eigenständig arbeiten und auch die Verwaltungszuständigkeiten sind voneinander getrennt zu halten. Über den auf der letzten Ministerpräsidentenkonferenz beschlossenen [Staatsvertrag](https://www.bundesregierung.de/resource/blob/2196306/2325020/6cf921bf6234f1d8d61cff84882ececa/2024-12-11-mpk-beschluesse-errichtung-und-betrieb-noots-data.pdf?download=1) soll nun aber eine IT-Infrastruktur aufgebaut werden, in der alle öffentlichen Stellen, unabhängig welchem Ressort und welcher Verwaltungsebene sie angehören, Daten untereinander austauschen können. Mit diesem Nationalen Once-Only-Technical-System (NOOTS) soll die [Registermodernisierung und Verwaltungsdigitalisierung angeschoben werden](https://netzpolitik.org/2024/national-once-only-technical-system-staatsvertrag-ueberbrueckt-graeben-zwischen-verwaltungen/), da Bürger und Verwaltung Daten nur ein einziges Mal übermitteln müssen und nicht bei einer anderen Verwaltungsbene erneut angeben müssen, sofern sie es der jeweiligen Behörde erlauben, die Daten in den Registern abzufragen.
@@ -37,7 +50,26 @@ In der [Nationalen Bildungsplattform](https://digitalstrategie-deutschland.de/Na
 
 Damit ist schonmal klar, dass das BMBF den [Ko-Pionier-Preis](https://reform-staat.org/kopionierpreis/) nicht gewinnen wird. Mit diesem Preis [werden im kommenden März erstmals Verwaltungen ausgezeichnet](https://www.linkedin.com/posts/toridykes_projecttogether-reform-kopionierpreis-activity-7274369348201320449-kVMP), die bestehende Lösungen aus anderen Verwaltungen nachnutzen.
 
+## Open Educational Resources (OER)
+* Learn how to create open educational resources using GitHub, GitHub pages and Jupyter Books! 
+  https://jannikahollmann.github.io/Create_Interactive_Content/intro.html
+  via https://mastodon.social/users/leibnizopenscience/statuses/113594676616132947
+* Die Daten sind digital – was dann? Dimensionen der Nachnutzung offener Kulturerbedaten
+  https://zenodo.org/records/14332306
+* Public Domain Day
+  https://blog.wikimedia.de/2025/01/01/public-domain-day-2025/
+
+## Offene Parlamentsdaten
 "Amtliche Dokumente müssen frei sein", [findet FragDenStaat](https://fragdenstaat.de/artikel/exklusiv/2024/12/verkehrsblatt/) und veröffentlicht mit [Verkehrsblatt](https://fragdenstaat.de/dokumente/verkehrsblatt/), [Steuerblatt](https://fragdenstaat.de/dokumente/bundessteuerblatt/), und [Nachrichten für Luftfahrer](https://fragdenstaat.de/dokumente/nachrichten-fur-luftfahrer/) weitere Amtsblätter des Bundes, die bisher nur kostenpflichtig zugänglich waren.
+
+
+* Der Parlamentsspiegel wurde aktualisiert und ermöglicht nun tatsächlich den Zugang zu Dokumenten aus den Landesparlamenten
+  https://mastodon.online/@denes/113674105475066993
+* We are collaboratively building an open #standard and #API for harmonized Swiss parliamentary #data to promote transparency, innovation and participation in Swiss politics.
+  https://opendata.ch/projects/openparldata/
+  via https://mastodon.social/@OpendataCH/113678300636615044
+
+
 
 ## Open Data
 * New report suggests open data on edge of becoming a recognized global standard for scholarly output
@@ -64,12 +96,6 @@ Damit ist schonmal klar, dass das BMBF den [Ko-Pionier-Preis](https://reform-sta
   https://www.dbdd.de
   https://datenportal.bundesdrogenbeauftragter.de
 
-## Offene Parlamentsdaten
-* Der Parlamentsspiegel wurde aktualisiert und ermöglicht nun tatsächlich den Zugang zu Dokumenten aus den Landesparlamenten
-  https://mastodon.online/@denes/113674105475066993
-* We are collaboratively building an open #standard and #API for harmonized Swiss parliamentary #data to promote transparency, innovation and participation in Swiss politics.
-  https://opendata.ch/projects/openparldata/
-  via https://mastodon.social/@OpendataCH/113678300636615044
 
 ## Datenvisualisierungen
 * A very cool dataviz using the baby names (US) dataset
@@ -95,15 +121,6 @@ Damit ist schonmal klar, dass das BMBF den [Ko-Pionier-Preis](https://reform-sta
 * Viel mehr Menschen als bisher angenommen sind armutsgefährdet, wenn die Wohnkosten mit berücksichtigt werden. Das hat der Paritätische neu errechnet.
   https://taz.de/Studie-Paritaetischer-Wohlfahrtsverband/!6051376/
 
-## Open Educational Resources (OER)
-* Learn how to create open educational resources using GitHub, GitHub pages and Jupyter Books! 
-  https://jannikahollmann.github.io/Create_Interactive_Content/intro.html
-  via https://mastodon.social/users/leibnizopenscience/statuses/113594676616132947
-* Die Daten sind digital – was dann? Dimensionen der Nachnutzung offener Kulturerbedaten
-  https://zenodo.org/records/14332306
-* Public Domain Da
-  https://blog.wikimedia.de/2025/01/01/public-domain-day-2025/
-
 ## Open Source
 * Folge 115 des CIW Podcasts. Patricia Leu erklärt das Förderprojekt Prototype Fund
   https://gnulinux.ch/ciw115-podcast
@@ -117,20 +134,6 @@ Damit ist schonmal klar, dass das BMBF den [Ko-Pionier-Preis](https://reform-sta
 * Prototype Fund Hardware: Diese sechs Teams sind dabei
   https://hardware.prototypefund.de/prototype-fund-hardware-diese-sechs-teams-sind-dabei/
 
-## Digitale Souveränität
-* Um Probleme wie die starke Herstellerabhängigkeit anzugehen, fördern Bund und Länder vereinzelt Open-Source-Projekte in der öffentlichen IT. Im Digitalausschuss ging es heute darum, welches Potenzial der Staat hier noch heben kann
-  https://netzpolitik.org/2024/open-source-ohne-laeuft-nichts/
-  via https://openbiblio.social/@esthermenhard/113595911199320343
-* Digitale Souveränität für Staaten: GovStacks neue Building Block Spezifikationen für Cloud-Infrastruktur
-  https://osb-alliance.de/featured/digitale-souveraenitaet-fuer-staaten-govstacks-neue-building-block-spezifikationen-fuer-cloud-infrastruktur
-* Sovereign Tech Fund Invests in OpenStreetMap
-  https://blog.openstreetmap.org/2024/12/20/sovereign-tech-fund-invests-in-openstreetmap/
-* GI sieht "Gefahr, dass Deutschland zu einer digitalen Kolonie wird"
-  https://www.heise.de/news/Informatiker-Ampel-hat-Ziele-fuer-Souveraenitaet-und-Open-Source-klar-verfehlt-10218368.html
-* Jetzt können wir alle einmal durchatmen, dass #musk nicht einfach die #wikipedia kaufen kann. 
-  #StreisandEffect!
-  https://www.newsweek.com/elon-musk-takes-aim-wikipedia-fund-raising-editing-political-woke-2005742
-  via https://openbiblio.social/@rstockm/113713024195143866
 
 ## Energie
 * Aus der aktuellen Strompreisanalyse des BDEW: Der Strompreis für den Großteil der Industriebetriebe lag mit knapp 17 Cent pro Kilowattstunde in diesem Jahr so niedrig wie zuletzt 2017
