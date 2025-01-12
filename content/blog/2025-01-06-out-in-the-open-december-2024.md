@@ -113,6 +113,46 @@ Der Strompreis für den Großteil der Industriebetriebe lag dabei mit knapp 17 C
 
 Von ihm wurde [auch erklärt](https://mastodon.social/@mkreutzfeldt/113669001057636428), warum am 6.11. und am 12.12. die Strompreise an der Börse kurzzeitig extrem hoch waren und trotzdem die Bundesnetzagentur mit ihrer Aussage "Die sichere Stromversorgung war zu keinem Zeitpunkt gefährdet" recht hat. Seine Quellen hat er nochmal [hier zusammengetragen](https://mastodon.social/@mkreutzfeldt/113669093439540787).
 
+## Klima
+Der CO2-Emissionsrechner ["E-Tool Kultur"](https://www.e-tool.de), ein Kooperationsprojekt der Städte Leipzig und Dresden [gehört zu den Preisträgern](https://www.leipzig.de/newsarchiv/news/co2-rechner-fuer-kulturbetrieb-erhaelt-eku-zukunftspreis-2024  ) des "eku-Zukunftspreis 2024 für Energie, Klima, Umwelt". Der Rechner wurde speziell für den Kulturbetrieb entwickelt und steht nun allen Kultureinrichtungen und -veranstaltern im Bundesgebiet dauerhaft und kostenfrei zur Verfügung.
+
+Mit der [Deutschen Anpassungsstrategie an den Klimawandel 2024](https://www.bmuv.de/download/deutsche-anpassungsstrategie-an-den-klimawandel-2024), die das Bundeskabinett im Dezember beschlossen hat, gibt es nun erstmals [messbare Ziele für die Vorsorge vor Klimafolgen](https://www.ioew.de/news/article/bundeskabinett-beschliesst-anpassungsstrategie-an-den-klimawandel-erstmals-messbare-ziele-fuer-die-vorsorge-vor-klimafolgen).
+
+Welche positiven Effekte man erzielen kann, wenn man die richtigen Maßnahmen ergreift und konsequent durchzieht, sieht man an Paris, wie [dieser Mastodon-Nutzer](https://ruhr.social/@franckraisch/113690963048068283) mit Verweis auf die [Analyse](https://www.paris.fr/pages/etat-des-lieux-de-la-qualite-de-l-air-a-paris-7101) vom Anfang des letzten Jahres erinnert.
+
+Trotzdem lassen sich europaweit immer noch fast 240 Tausend Todesfälle auf eine zu hohe Feinstaubbelastung in der Luft zurückführen, wie aus dem Bericht der Europäische Umweltagentur EEA [hervorgeht](https://www.zeit.de/news/2024-12/10/fast-240-000-todesfaelle-durch-feinstaub-in-der-eu). Des Weiteren konnte man für 2022 70 Tausend Tote auf die Ozonbelastung und 48 Tausend Tote auf die Belastung von Stickstoffdioxid zuordnen. 
+
+Auf [Thru.de](https://thru.de), dem zentralen deutschen Portal für transparente und frei zugängliche Emissions- und Abfalldaten, kann man unter anderem recherchieren, welche und wie viele Schadstoffe Betriebe, Kläranlagen oder der Verkehr in die Umwelt freisetzen.
+
+Und doch versuchen sich vor allem Ölkonzerne weiterhin aus ihrer Verantwortung zu stehlen und gar zu betrügen, indem sie Klimaprojekte vortäuschen, um so vermeintlich doch ihre Klimaziele zu erreichen, wie [ZDF Frontal aufgedeckt hat](https://www.zdf.de/politik/frontal/doku-milliardenbetrug-tankstelle-oelkonzerne-klimaschutz-fake-china-100.html). 
+
+Wie Denkfabriken (Thinktanks) systematisch versuchen, Trumps klimafeindliche Pläne auch nach Deutschland zu bringen, [legt eine Recherche von correctiv offen](https://correctiv.org/aktuelles/klimawandel/2024/12/06/so-kommen-trumps-klimafeindliche-plaene-nach-deutschland/).
+
+Auf dem [Environmental Justice Atlas](https://ejatlas.org) werden weltweit sozio-ökologische Konflikte dokumentiert, also Konflikte hinsichtlich Landnutzung (z.B. Waldrodung für Ackerland und/oder Viehzucht), Vermüllung (z.B. durch Übertourismus), Luft- und Wasserverschmutzung (z.B. durch Bergbau), Gesundheitsrisiken durch schlechte Arbeitsbedingungen.  
+
+## Gesundheit
+* Zentraler Terminologieserver fürs Gesundheitswesen geht an den Start
+  https://www.heise.de/news/Gesundheitswesen-Zentraler-Terminologieserver-fuer-mehr-Interoperabilitaet-online-10188957.html
+* ePA 3.0: Warum Ärzte vor der elektronischen Patientenakte für Kinder warnen
+  https://www.heise.de/news/ePA-3-0-Warum-Aerzte-vor-der-elektronischen-Patientenakte-fuer-Kinder-warnen-10200700.html
+* ePA 3.0: Fragen und Antworten zur neuen elektronischen Patientenakte
+  https://www.heise.de/hintergrund/ePA-3-0-Fragen-und-Antworten-zur-neuen-elektronischen-Patientenakte-10216222.html
+* "Konnte bisher noch nie gehackt werden": Die elektronische Patientenakte kommt - jetzt für alle!
+  https://media.ccc.de/v/38c3-konnte-bisher-noch-nie-gehackt-werden-die-elektronische-patientenakte-kommt-jetzt-fr-alle
+  * https://chaos.social/@evawolfangel/113726322204011639
+  * https://www.gematik.de/newsroom/news-detail/aktuelles-stellungnahme-zum-ccc-vortrag-zur-epa-fuer-alle
+  * https://annaelbe.net/datenschutz_gesundheitskarte.php
+  * https://www.zeit.de/digital/datenschutz/2024-12/elektronische-patientenakte-it-sicherheit-datenschutz-geheimdienste/komplettansicht
+  * https://www.br.de/nachrichten/netzwelt/hacker-enthuellen-sicherheitsluecken-bei-digitaler-patientenakte,UYWUk0F
+  * https://widerspruch-epa.de/widerspruch-gegen-elektronische-patientenakte-epa/
+  * "Das Narrativ der sicheren elektronischen Patientenakte ist nicht mehr zu halten"
+    https://netzpolitik.org/2024/chaos-communication-congress-das-narrativ-der-sicheren-elektronischen-patientenakte-ist-nicht-mehr-zu-halten/
+* TI-Messenger: Rolle von TIM für den Datenaustausch im Gesundheitswesen
+  https://www.heise.de/hintergrund/TI-Messenger-Rolle-von-TIM-fuer-den-Datenaustausch-im-Gesundheitswesen-10203470.html
+* Doctolib ermöglicht eine User-Enumeration, was bedeutet, dass durch Eingabe einer E-Mail-Adresse überprüft werden kann, ob diese im System registriert ist oder nicht.
+  https://www.kuketz-blog.de/datenschutz-was-patienten-zu-doctolib-und-ihren-rechten-wissen-muessen/
+  via https://social.tchncs.de/@kuketzblog/113678742819832489
+
 ## Mobilität
 * Wir wissen wo dein Auto steht: Volksdaten von Volkswagen
   https://media.ccc.de/v/38c3-wir-wissen-wo-dein-auto-steht-volksdaten-von-volkswagen
@@ -158,50 +198,6 @@ Von ihm wurde [auch erklärt](https://mastodon.social/@mkreutzfeldt/113669001057
 * The Climate Action Tracker is an independent scientific project that tracks government climate action and measures it against the globally agreed Paris Agreement aim of "holding warming well below 2°C, and pursuing efforts to limit warming to 1.5°C."
   https://climateactiontracker.org
 
-## Klima
-* Bundeskabinett beschließt Anpassungsstrategie an den Klimawandel: Erstmals messbare Ziele für die Vorsorge vor Klimafolgen
-  https://www.ioew.de/news/article/bundeskabinett-beschliesst-anpassungsstrategie-an-den-klimawandel-erstmals-messbare-ziele-fuer-die-vorsorge-vor-klimafolgen
-* Milliardenbetrug an der Tankstelle: Ölkonzerne und der Klimaschutz-Fake
-  https://www.zdf.de/politik/frontal/doku-milliardenbetrug-tankstelle-oelkonzerne-klimaschutz-fake-china-100.html
-* 70000 Parkplätze abgeschafft, Autoverkehr aus dem Zentrum verbannt, über 1400 km Radwege gebaut. SUVs zahlen beim Parken drauf, an der Seine gehen Fussgänger spazieren, wo früher Autos fuhren und überall sind neue Bäume gepflanzt worden. Das Resultat ist eine deutliche Verbesserung der Luftqualität in #Paris . So geht Stadtentwicklung.
-  https://www.paris.fr/pages/etat-des-lieux-de-la-qualite-de-l-air-a-paris-7101
-  via https://ruhr.social/@franckraisch/113690963048068283
-* Thru.de ist das zentrale deutsche Portal für transparente und frei zugängliche Emissions- und Abfalldaten. Hier können Sie unter anderem recherchieren, welche und wie viele Schadstoffe Betriebe, Kläranlagen oder der Verkehr in die Umwelt freisetzen.
-  https://www.umweltbundesamt.de/themen/wie-koennen-wir-unser-schadstoff-portal-thrude
-  https://thru.de
-* Celebrating Green Tech Hackathon Results
-  https://labs.ripe.net/author/becha/celebrating-green-tech-hackathon-results/
-* Gas und Öl statt Klimaschutz: Wer Trumps Pläne nach Deutschland bringt
-  https://correctiv.org/aktuelles/klimawandel/2024/12/06/so-kommen-trumps-klimafeindliche-plaene-nach-deutschland/
-* Fast 240.000 Todesfälle durch Feinstaub in der EU
-  https://www.zeit.de/news/2024-12/10/fast-240-000-todesfaelle-durch-feinstaub-in-der-eu
-* CO2-Rechner für Kulturbetrieb erhält eku-Zukunftspreis 2024
-  https://www.leipzig.de/newsarchiv/news/co2-rechner-fuer-kulturbetrieb-erhaelt-eku-zukunftspreis-2024
-* EJAtlas - Global Atlas of Environmental Justice
-  https://ejatlas.org
-
-## Gesundheit
-* Zentraler Terminologieserver fürs Gesundheitswesen geht an den Start
-  https://www.heise.de/news/Gesundheitswesen-Zentraler-Terminologieserver-fuer-mehr-Interoperabilitaet-online-10188957.html
-* ePA 3.0: Warum Ärzte vor der elektronischen Patientenakte für Kinder warnen
-  https://www.heise.de/news/ePA-3-0-Warum-Aerzte-vor-der-elektronischen-Patientenakte-fuer-Kinder-warnen-10200700.html
-* ePA 3.0: Fragen und Antworten zur neuen elektronischen Patientenakte
-  https://www.heise.de/hintergrund/ePA-3-0-Fragen-und-Antworten-zur-neuen-elektronischen-Patientenakte-10216222.html
-* "Konnte bisher noch nie gehackt werden": Die elektronische Patientenakte kommt - jetzt für alle!
-  https://media.ccc.de/v/38c3-konnte-bisher-noch-nie-gehackt-werden-die-elektronische-patientenakte-kommt-jetzt-fr-alle
-  * https://chaos.social/@evawolfangel/113726322204011639
-  * https://www.gematik.de/newsroom/news-detail/aktuelles-stellungnahme-zum-ccc-vortrag-zur-epa-fuer-alle
-  * https://annaelbe.net/datenschutz_gesundheitskarte.php
-  * https://www.zeit.de/digital/datenschutz/2024-12/elektronische-patientenakte-it-sicherheit-datenschutz-geheimdienste/komplettansicht
-  * https://www.br.de/nachrichten/netzwelt/hacker-enthuellen-sicherheitsluecken-bei-digitaler-patientenakte,UYWUk0F
-  * https://widerspruch-epa.de/widerspruch-gegen-elektronische-patientenakte-epa/
-  * "Das Narrativ der sicheren elektronischen Patientenakte ist nicht mehr zu halten"
-    https://netzpolitik.org/2024/chaos-communication-congress-das-narrativ-der-sicheren-elektronischen-patientenakte-ist-nicht-mehr-zu-halten/
-* TI-Messenger: Rolle von TIM für den Datenaustausch im Gesundheitswesen
-  https://www.heise.de/hintergrund/TI-Messenger-Rolle-von-TIM-fuer-den-Datenaustausch-im-Gesundheitswesen-10203470.html
-* Doctolib ermöglicht eine User-Enumeration, was bedeutet, dass durch Eingabe einer E-Mail-Adresse überprüft werden kann, ob diese im System registriert ist oder nicht.
-  https://www.kuketz-blog.de/datenschutz-was-patienten-zu-doctolib-und-ihren-rechten-wissen-muessen/
-  via https://social.tchncs.de/@kuketzblog/113678742819832489
 
 ## KI
 * Datenbank über KI-Systeme: So will die EU Grenzüberwachung automatisieren
@@ -230,6 +226,8 @@ Von ihm wurde [auch erklärt](https://mastodon.social/@mkreutzfeldt/113669001057
   https://professional.wiki/en/news/mediawiki-users-and-developers-conference-2024-vienna
 * Symposium: Linked Data im Zeitalter der generativen Künstlichen Intelligenz – Neue Perspektiven oder überholte Vision?
   https://www.bfr-akademie.de/deutsch/archiv/2024/linkeddata2024.html
+* Celebrating Green Tech Hackathon Results
+  https://labs.ripe.net/author/becha/celebrating-green-tech-hackathon-results/
 * 38C3
   https://media.ccc.de/c/38c3
 
