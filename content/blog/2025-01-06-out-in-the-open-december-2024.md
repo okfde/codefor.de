@@ -167,20 +167,19 @@ In der [Dezember-Folge](https://player.captivate.fm/episode/27259b30-782e-430c-9
 "I finally turned off GitHub Copilot yesterday" [schreibt David Chisnall auf Mastodon](https://infosec.exchange/@david_chisnall/113690087142854474) und begründet auch warum, der KI-Assistent ihm am Ende mehr Arbeit gemacht als abgenommen hat. Denn beim Programmieren geht es vor allem darum lesbaren, wartbaren, Bug-freien Code zu schreiben und [wie ein Kommentator so schön schrieb](https://mastodon.social/@wollman/113709585662980866), generell aufgeblähten Copy-Paste-Code zu vermeiden, statt solchen Boilerplate-Code sich nun von der Maschine (potenziell falsch) generieren zu lassen.
 
 ## Recap
-* Services Roadshow by Base4NFDI
-  https://www.youtube.com/playlist?list=PL08nwOdK76QnZr7KAhipiPBxjfo9aReCR
-  * Services Roadshow by Base4NFDI - KGI4NFDI - Knowledge Graph Infrastructure 
-    https://www.youtube.com/watch?v=d-D8e_6_IGQ&list=PL08nwOdK76QnZr7KAhipiPBxjfo9aReCR&index=6
-* Looking back on 2024 and looking ahead to 2025 with the Open Knowledge Network
-  https://blog.okfn.org/2024/12/20/looking-back-on-2024-and-looking-ahead-to-2025-with-the-open-knowledge-network/
-* 2024 MediaWiki Conference Highlights
-  https://professional.wiki/en/news/mediawiki-users-and-developers-conference-2024-vienna
-* Symposium: Linked Data im Zeitalter der generativen Künstlichen Intelligenz – Neue Perspektiven oder überholte Vision?
-  https://www.bfr-akademie.de/deutsch/archiv/2024/linkeddata2024.html
-* Celebrating Green Tech Hackathon Results
-  https://labs.ripe.net/author/becha/celebrating-green-tech-hackathon-results/
-* 38C3
-  https://media.ccc.de/c/38c3
+Die geförderten [Basisdienste für die Nationale Forschungsdateninfrastruktur (Base4NFDI)](https://base4nfdi.de) konnten sich Anfang Dezember auf der [Services Roadshow](https://base4nfdi.de/news-events/events/services-roadshow-by-base4nfdi-12-2024) präsentieren, die Mitschnitte sind nun [auf Youtube zu finden](https://www.youtube.com/playlist?list=PL08nwOdK76QnZr7KAhipiPBxjfo9aReCR), wie z.B. die Vorstellung der [Knowledge Graph Infrastructure (KGI4NFDI)](https://www.youtube.com/watch?v=d-D8e_6_IGQ&list=PL08nwOdK76QnZr7KAhipiPBxjfo9aReCR&index=6).
+
+Die Highlights der MediaWiki-Konferenz werden [auf dieser Seite versammelt](https://professional.wiki/en/news/mediawiki-users-and-developers-conference-2024-vienna).
+
+"Linked Data im Zeitalter der generativen Künstlichen Intelligenz - Neue Perspektiven oder überholte Vision?" war die Leitfrage des Symposiums am Bundesinstitut für Risikobewertung (BfR). Die Präsentationen der beiden Tage sind auf der Veranstaltungsseite [verlinkt](https://www.bfr-akademie.de/deutsch/archiv/2024/linkeddata2024.html).
+
+Viele Vorträge auf dem Chaos Communication Congress 38C3 können [in der Mediathek nachgeschaut werden](https://media.ccc.de/c/38c3) (alternativ auch auf [Youtube](https://www.youtube.com/watch?v=264IhcVSpwo&list=PL_IxoDz1Nq2YICxl-KtTHOjEwxIOIsPrs)).
+
+Sara Petti [schaut auf](https://blog.okfn.org/2024/12/20/looking-back-on-2024-and-looking-ahead-to-2025-with-the-open-knowledge-network/) das vergangene Jahr im Open Knowledge Netzwerk zurück, vor allem, was in den Communities der einzelnen Länder alles passiert ist. Der strategische Fokus der Open Knowledge Foundation für 2025 liegt auf:
+ * definieren, welche ethischen Werten Technologie folgen soll
+ * weiter offene Werkzeuge bauen
+ * Maßnahmen ergreifen, das Engagement der Community langfristig zu erhalten
+ * mit guten Vorbild vorangehen und offene Technologie bei uns selbst adaptieren
 
 ## Call for Participation
 * Data Reuse Days 2025, bis 12.01.2025 Sessions vorschlagen 
