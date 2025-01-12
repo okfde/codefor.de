@@ -140,22 +140,15 @@ Generell ist der Gesundheits(-daten)markt am Wachsen (z.B. [Europäischer Gesund
 Nichtsdestotrotz kann aber sagen, dass die Gematik relativ offen E-Rezept und ePA entwickelt, der Quellcode findet sich auf [Github](https://github.com/gematik/). Mit dem [Fast Healthcare Interoperability Resources (FHIR)](https://hl7.de/themen/hl7-fhir-mobile-kommunikation-und-mehr/warum-fhir/) wird auch ein einheitlicher Standard genutzt, um alle relevanten Daten in der Domäne modellieren zu können (z.B. Patienten, Medikamentenverschreibung, -austausch, -abgabe, -abrechnung), für den es auch in vielen Programmiersprachen [Bibliotheken](https://wiki.hl7.org/index.php?title=Open_Source_FHIR_implementations) gibt. Die aktuellen Versionen der FHIR-Profile und Beispiele finden sich auf dem [Simplifier](https://simplifier.net) Portal. Die FHIR-Daten lassen sich auch als [im RDF-Format beschreiben](https://www.hl7.org/fhir/R4/rdf.html#ontologies). Inzwischen gibt es auch einen [zentraler Terminologieserver](https://www.heise.de/news/Gesundheitswesen-Zentraler-Terminologieserver-fuer-mehr-Interoperabilitaet-online-10188957.html), um Kodiersysteme und Werteliste und Mappings als verlässliche Referenzquelle bereitzustellen. In dem Zusammenhang ist vielleicht auch [die kuratierte Liste von Open-Source-Software](https://github.com/kakoni/awesome-healthcare) interessant. Auch die Referenzimplementierung des [Telematik-Infrastruktur-Messengers (TIM)](https://github.com/gematik/api-ti-messenger), für den Datenaustausch im Gesundheitswesen gedacht und [auf dem Matrix-Protokoll basierend](https://www.heise.de/hintergrund/TI-Messenger-Rolle-von-TIM-fuer-den-Datenaustausch-im-Gesundheitswesen-10203470.html), soll [Open-Source werden](https://github.com/gematik/TI-M-Referenzimplementierung).
 
 ## Mobilität
-* Wir wissen wo dein Auto steht: Volksdaten von Volkswagen
-  https://media.ccc.de/v/38c3-wir-wissen-wo-dein-auto-steht-volksdaten-von-volkswagen
-  * https://www.adac.de/news/vw-datenleck/
-  * https://chaos.social/@danimo/113729772877374299
-  * https://github.com/MichaelKreil/volksdaten-grafiken
-* streetcritic.org: After three months of work, a first preview is online. For now, it's possible to add and rate bicycle ways
-  https://streetcritic.org/
-  via https://en.osm.town/@streetcritic/113595562834437779
-* Straßenraumaufteilung in Kiel
-  https://geodaten-guerilla.net/blog/strassenraumaufteilung-online-karte/
-  https://geodaten-guerilla.net/beta/
-* Verkehrssicherheit auf EU-Ebene
-  https://transport.ec.europa.eu/background/road-safety-statistics-2023_en
-  via https://verkehrswende.social/@thijs_lucas@norden.social/113734957142209831
-* Transitous - offener Routingdienst für öffentliche Verkehrsmittel
-  https://media.ccc.de/v/38c3-transitous-offener-routingdienst-fr-ffentliche-verkehrsmittel
+Ein weiteres Datenleck, das auf dem Chaos Communication Congress [präsentiert wurde](https://media.ccc.de/v/38c3-wir-wissen-wo-dein-auto-steht-volksdaten-von-volkswagen) (die Grafiken aus dem Vortrag findet man [hier](https://github.com/MichaelKreil/volksdaten-grafiken)), betrifft den Volkswagen-Konzern. Wegen eines Softwarefehlers standen über Monate hinweg Daten von VW-, Audi-, Skoda- und Seat-Fahrzeugen, insgesamt 800 Tausend Autos, ungeschützt im Netz. Bei 460 Tausend davon waren sogar präzise Standortdaten einsehbar gewesen sein. Aus den Bewegungsprofilen [waren Rückschlüsse](https://www.adac.de/news/vw-datenleck/) auf das Leben der Menschen möglich (z.B. Wohnort, Arbeitsort, (intimes) Freizeitverhalten). [Daniel Molkentin sieht in diesem Zusammenhang](https://chaos.social/@danimo/113729772877374299) schon den Umstand, dass "ausnahmslos alle Hersteller ganz nebenbei Daten ihrer Fahrer sammeln" als das eigentliche Problem an.
+
+Auch in Hamburg [vorgestellt wurde](https://media.ccc.de/v/38c3-transitous-offener-routingdienst-fr-ffentliche-verkehrsmittel) Transitous, ein offener Routingdienst für öffentliche Verkehrsmittel, der europaweit funktionieren soll.
+
+In einer ersten Vorschau von [streetcritic.org](https://streetcritic.org/) kann man schon die Funktionalität, Radwege hinzuzufügen und zu bewerten, [testen](https://en.osm.town/@streetcritic/113595562834437779).
+
+Die Statistiken für Sicherheit im Straßenverkehr in der EU [wurden für das Jahr 2023 freigegeben](https://transport.ec.europa.eu/background/road-safety-statistics-2023_en), This Lucas hat sie [hier im Mastodon-Thread analysiert](https://norden.social/@thijs_lucas/113734957050606720).
+
+[Fedora beschreibt auf ihrem Blog](https://geodaten-guerilla.net/blog/strassenraumaufteilung-online-karte/), mit welchen Daten und welchen (Software-)Komponenten sie die [Online-Karte](https://geodaten-guerilla.net/beta/) erstellt hat, die für Kiel zeigt, "wie viel Platz für den motorisierten Individualverkehr und für Rad- und Fußverkehr zur Verfügung steht". 
 
 ## Karten
 * The QGIS GeoParquet Downloader Plugin
