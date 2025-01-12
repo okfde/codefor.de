@@ -105,20 +105,13 @@ In einer Studie hat der Paritätische Wohlfahrtsverband [neu errechnet](https://
 Wahlatlas [macht darauf aufmerksam](https://norden.social/@wahlatlas/113633824954123171), dass weitere 150 Tabellen in die Datenbank zum Zensus 2022 Eingang gefunden haben. Aus diesen lässt sich beispielsweise ablesen, dass fast die Häfte aller Neubauten mit einer Zentralheizung erneuerbare Energiequellen [nutzen](https://www.zensus2022.de/DE/Aktuelles/PM_Zensus_2022_Ergebnisveroeffentlichung_Haelfte_Neubauten_mit_Zentralheizung_heizte_mit_Waermepumpe.html).
 
 ## Energie
-* Aus der aktuellen Strompreisanalyse des BDEW: Der Strompreis für den Großteil der Industriebetriebe lag mit knapp 17 Cent pro Kilowattstunde in diesem Jahr so niedrig wie zuletzt 2017
-  https://www.bdew.de/service/publikationen/jahresbericht-energieversorgung/
-  https://www.bdew.de/media/documents/2024_12_18_Die_Energieversorgung_2024_Final.pdf
-  https://www.bdew.de/media/documents/2024_12_18_Die_Energieversorgung_2024_Foliensatz_Final.pdf
-  via https://mastodon.social/@mkreutzfeldt/113594946263700462
-* Dass die Strompreise an der Börse am 6.11. und am 12.12. kurzzeitig extrem hoch waren, liegt nicht nur daran, dass es zu diesem Zeitpunkt kaum Wind gab. Entscheidend war, dass gleichzeitig auch zahlreiche konventionelle Kraftwerke keinen Strom produziert haben. Dazu ein längerer Thread
-  https://mastodon.social/@mkreutzfeldt/113669001057636428
-  via https://mastodon.social/@mkreutzfeldt/113669093439540787
-* OpenPV - Calculate the solar potential of your building
-  https://media.ccc.de/v/38c3-openpv-calculate-the-solar-potential-of-your-building
-  https://www.openpv.de
-* Der in Deutschland produzierte Strom war noch nie so sauber wie im Jahr 2024.  Fast 63% des Stroms kam aus erneuerbaren Quellen, der fossile Anteil war so niedrig wie noch nie
-  https://www.ndr.de/nachrichten/info/Strommix-Deutschland-Wie-ist-der-Anteil-erneuerbarer-Energien,strommix102.html
-  via https://chaos.social/@lalonsander/113752162852518033
+Wie kann man errechnen, ob sich eine Solaranlage für das eigene Dach oder den Balkon lohnt? Dies zeigt [der folgende Vortrag](https://media.ccc.de/v/38c3-openpv-calculate-the-solar-potential-of-your-building) auf dem Kongress an Han der Seite [OpenPV](https://www.openpv.de), die für diese Berechnung offene 3D-Gebäudedaten nutzt.
+
+Denn erneuerbarer Storm ist generell auf dem Vormarsch: so kamen 2024 [fast 63% des Stroms](https://www.ndr.de/nachrichten/info/Strommix-Deutschland-Wie-ist-der-Anteil-erneuerbarer-Energien,strommix102.html) in Deutschland aus regenerativen Quellen.
+
+Der Strompreis für den Großteil der Industriebetriebe lag dabei mit knapp 17 Cent pro Kilowattstunde in diesem Jahr so niedrig wie zuletzt 2017, wie [die aktuelle Strompreisanalyse des BDEW](https://www.bdew.de/service/publikationen/jahresbericht-energieversorgung/) ergeben hat. Malte Kreutzfeldt hat das [noch weiter eingeordnet](https://mastodon.social/@mkreutzfeldt/113594946263700462).
+
+Von ihm wurde [auch erklärt](https://mastodon.social/@mkreutzfeldt/113669001057636428), warum am 6.11. und am 12.12. die Strompreise an der Börse kurzzeitig extrem hoch waren und trotzdem die Bundesnetzagentur mit ihrer Aussage "Die sichere Stromversorgung war zu keinem Zeitpunkt gefährdet" recht hat. Seine Quellen hat er nochmal [hier zusammengetragen](https://mastodon.social/@mkreutzfeldt/113669093439540787).
 
 ## Mobilität
 * Wir wissen wo dein Auto steht: Volksdaten von Volkswagen
