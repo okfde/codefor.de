@@ -128,7 +128,7 @@ Und doch versuchen sich vor allem Ölkonzerne weiterhin aus ihrer Verantwortung 
 
 Wie Denkfabriken (Thinktanks) systematisch versuchen, Trumps klimafeindliche Pläne auch nach Deutschland zu bringen, [legt eine Recherche von correctiv offen](https://correctiv.org/aktuelles/klimawandel/2024/12/06/so-kommen-trumps-klimafeindliche-plaene-nach-deutschland/).
 
-Auf dem [Environmental Justice Atlas](https://ejatlas.org) werden weltweit sozio-ökologische Konflikte dokumentiert, also Konflikte hinsichtlich Landnutzung (z.B. Waldrodung für Ackerland und/oder Viehzucht), Vermüllung (z.B. durch Übertourismus), Luft- und Wasserverschmutzung (z.B. durch Bergbau), Gesundheitsrisiken durch schlechte Arbeitsbedingungen.  
+Auf dem [Environmental Justice Atlas](https://ejatlas.org) werden weltweit sozio-ökologische Konflikte dokumentiert, also Konflikte hinsichtlich Landnutzung (z.B. Waldrodung für Ackerland und/oder Viehzucht), Vermüllung (z.B. durch Übertourismus), Luft- und Wasserverschmutzung (z.B. durch Bergbau), Gesundheitsrisiken durch schlechte Arbeitsbedingungen.
 
 ## Gesundheit
 Die [elektronische Patientenakte (ePA) für alle](https://www.gematik.de/anwendungen/epa/epa-fuer-alle) steht weiter in der Kritik. So werden ab Mitte Januar 2025, wenn man [nicht aktiv widerspricht](https://annaelbe.net/datenschutz_gesundheitskarte.php) (Opt-Out), medizinische Befunde, Medikationslisten und weitere Gesundheitsdaten von rund 73 Millionen Krankenversicherten in Deutschland über Praxis- und Krankenhausgrenzen hinweg in einer zentralen Akte zusammengeführt. Dabei legen Analysen des CCC, [die hier im Vortrag vorgestellt werden](https://media.ccc.de/v/38c3-konnte-bisher-noch-nie-gehackt-werden-die-elektronische-patientenakte-kommt-jetzt-fr-alle), noch erhebliche Sicherheitsmängel offen, die zum Teil [schon länger bekannt sind](https://netzpolitik.org/2024/chaos-communication-congress-das-narrativ-der-sicheren-elektronischen-patientenakte-ist-nicht-mehr-zu-halten/). 
@@ -151,32 +151,11 @@ Die Statistiken für Sicherheit im Straßenverkehr in der EU [wurden für das Ja
 [Fedora beschreibt auf ihrem Blog](https://geodaten-guerilla.net/blog/strassenraumaufteilung-online-karte/), mit welchen Daten und welchen (Software-)Komponenten sie die [Online-Karte](https://geodaten-guerilla.net/beta/) erstellt hat, die für Kiel zeigt, "wie viel Platz für den motorisierten Individualverkehr und für Rad- und Fußverkehr zur Verfügung steht". 
 
 ## Karten
-* The QGIS GeoParquet Downloader Plugin
-  https://www.youtube.com/watch?v=PRvadvTccEE
-  https://plugins.qgis.org/plugins/qgis_plugin_gpq_downloader/
-  via https://fosstodon.org/@hansakwast/113605517398544549
-* State of MapLibre Slides
-  https://docs.google.com/presentation/d/1E73cK-Oh10mfmk690mhAGsjQ0kYZEVGXVE-c9bKrvm4/present?slide=id.gf4fc5ef4ba_0_159
-  via https://mastodon.social/@maplibre/113632726040962443
-  * siehe auch: MapLibre Android with Vulkan Support Released 
-    https://maplibre.org/news/2024-12-12-maplibre-android-vulkan/
-* Course materials are freely available: Enhancing Water Productivity with WaPOR: A Hands-On Workshop Using WaPLUGIN in QGIS
-  https://courses.gisopencourseware.org/course/view.php?id=70
-  via https://fosstodon.org/@hansakwast/113641276827293058
-* Wer schon immer mal wissen wollte wie kleinteilig die Verwaltungsgrenzen aka Flurstücke in Schleswig-Holstein sind, kann mittels der interaktiven Flurstücksauskunft durch klick auf ein Polygon mehr erfahren. 
-  https://flurstuecksauskunft.oklabflensburg.de
-  via https://norden.social/@oklabflensburg/113655839187986950
-* Collecting wireless geolocation information for the public domain geolocation database beaconDB
-  https://beacondb.net
-  via https://mastodon.social/@janvlug/113717991798144044
-* Any Map Puzzle
-  https://bothness.github.io/anymap/
-  via https://vis.social/@bothness/113742348449057000
-* The Land Matrix is an independent land monitoring initiative that promotes transparency and accountability in decisions over large-scale land acquisitions (LSLAs) in low- and middle-income countries by capturing and sharing data about these deals.
-  https://landmatrix.org
-* The Climate Action Tracker is an independent scientific project that tracks government climate action and measures it against the globally agreed Paris Agreement aim of "holding warming well below 2°C, and pursuing efforts to limit warming to 1.5°C."
-  https://climateactiontracker.org
+Wer schon immer mal wissen wollte wie kleinteilig die Flurstücke in Schleswig-Holstein sind, kann das mit der neuen [interaktiven Flurstücksauskunft](https://flurstuecksauskunft.oklabflensburg.de) des [OKLab Flensburg](https://codefor.de/flensburg/) erkunden (ein Klick auf die jeweilige Fläche zeigt die Detailinformationen). 
 
+[Land Matrix](https://landmatrix.org) ist eine unhängige Initiative, die Daten zu großen Grundstückskäufen in Schwellenländern sammelt und teilt, um mehr Transparenz zu solchen [Land Grabbing](https://de.wikipedia.org/wiki/Land_Grabbing) herzustellen.
+
+Mit [Any Map Puzzle](https://bothness.github.io/anymap/) lässt sich für einen beliebigen Kartenausschnitt ein Schiebe-Puzzle generieren und spielen. Mit dem letzten Update kann nun auch [die Zoom-Stufe variiert werden](https://vis.social/@bothness/113742348449057000). 
 
 ## KI
 * Datenbank über KI-Systeme: So will die EU Grenzüberwachung automatisieren
