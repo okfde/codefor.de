@@ -43,6 +43,13 @@ Den [Streisand-Effekt](https://de.wikipedia.org/wiki/Streisand-Effekt) konnte ma
 
 Um die Stabilität, Erweiterung und Modernisierung der Kernsoftware von OpenStreetMap für mindestens zwei Jahre absichern zu helfen, [investiert der Sovereign Tech Fund 384 Tausend Euro](https://blog.openstreetmap.org/2024/12/20/sovereign-tech-fund-invests-in-openstreetmap/).
 
+## Open Source
+In [Folge 115](https://gnulinux.ch/ciw115-podcast) des Captain it's Wednesday (CIW) Poadcasts erklärt Patricia Leu das Förderprojekt [Prototype Fund](https://prototypefund.de), was es mit dem New Prototype Fund auf sich hat und wie sich der Prototype Fund vom Sovereign Tech Fund unterscheidet. Auch beim [Netzpolitischen Abend](https://www.youtube.com/watch?v=EgSPbyCP85s) war die Neuauflage des Prototype Funds Thema. Im monatlichen Open Knowledge Network Call Ende November wurde der Prototype Fund ebenfalls [vorgestellt](https://blog.okfn.org/2024/12/05/prototype-fund-a-successful-story-of-project-replication-within-the-open-knowledge-network/), diesmal jedoch von Marie Kreil, im gleichen Call kam auch Verena Kontschieder vom [Schweizer Prototype Fund](https://prototypefund.opendata.ch) zu Wort. 
+
+Eine neue Runde gibt es auch beim [Prototype Fund Hardware](https://hardware.prototypefund.de/), in der zweiten Runde [sind diese sechs Teams dabei](https://hardware.prototypefund.de/prototype-fund-hardware-diese-sechs-teams-sind-dabei/).
+
+Durch zunehmende autoritäre, isolationistische Tendenzen in einigen Staaten droht das Internet in Teilnetze, sogenannte Splinternets, zu zerfallen. Wie man auch technologisch diesem Phänomen begegnen könnte, wird seit einem Jahr auf [SplinterCons](https://splintercon.net) diskutiert. Die letzte Konferenz fand vom 9. bis zum 11. Dezember 2024 in Berlin statt. Der Prototyp Fund war dabei und hat [seine Eindrücke aufgeschrieben](https://prototypefund.de/splintercon/). Denn auch hier kann offene Software helfen, um z.B. den Bewohnern solcher Länder zu ermöglichen, die Zensurversuche ihrer Regierungen zu umgehen und sich so ihre digitale Souveränität zu erhalten.
+
 ## Datenzugang in der Verwaltung
 Das Grundgesetz verbietet eigentlich Mischverwaltung, d.h. die Bundes- und Landesverwaltungen müssen eigenständig arbeiten und auch die Verwaltungszuständigkeiten sind voneinander getrennt zu halten. Über den auf der letzten Ministerpräsidentenkonferenz beschlossenen [Staatsvertrag](https://www.bundesregierung.de/resource/blob/2196306/2325020/6cf921bf6234f1d8d61cff84882ececa/2024-12-11-mpk-beschluesse-errichtung-und-betrieb-noots-data.pdf?download=1) soll nun aber eine IT-Infrastruktur aufgebaut werden, in der alle öffentlichen Stellen, unabhängig welchem Ressort und welcher Verwaltungsebene sie angehören, Daten untereinander austauschen können. Mit diesem Nationalen Once-Only-Technical-System (NOOTS) soll die [Registermodernisierung und Verwaltungsdigitalisierung angeschoben werden](https://netzpolitik.org/2024/national-once-only-technical-system-staatsvertrag-ueberbrueckt-graeben-zwischen-verwaltungen/), da Bürger und Verwaltung Daten nur ein einziges Mal übermitteln müssen und nicht bei einer anderen Verwaltungsbene erneut angeben müssen, sofern sie es der jeweiligen Behörde erlauben, die Daten in den Registern abzufragen.
 
@@ -89,32 +96,13 @@ In welchen Ländern DIN A4 und wo das US-Letter-Format verwendet wird, [zeigt di
 Rakibul Haque hat [einen Netzwerkgraphen](https://news-mining.rakibulhaque.de/static/tagesschau_web_deep_img/) aus Begriffen [aufgespannt](https://www.linkedin.com/posts/r-haque_dataanalysis-journalism-networkanalysis-ugcPost-7275569391843315716-zerc), die in Artikeln auf tagessschau.de von Anfang 2023 bis Ende 2024 vorkamen. Die Größe der Knoten ergibt sich dabei aus der Häufigkeit der Worte und sobald zwei Worte in einem Artikel vorkommen, wird eine Verbindungslinie zwischen ihnen gezogen. In [diesem Modus](https://news-mining.rakibulhaque.de/tagesschau_web_network/) kann man auch interaktiv nach Schlagworten suchen und zwischen den Relationen navigieren.
 
 ## Statistiken
-* Eine Open Data Übersicht zum #Bundesfreiwilligendienst findet man auf der Seite des BMFSFJ
-  https://www.daten.bmfsfj.de/daten/daten/bundesfreiwilligendienst-137354
-  via https://social.bund.de/@opendatabund/113600026922743714
-  * passend dazu auch: Endlich hat die Bundesregierung das Digitale Ehrenamt als eigene Form des Engagements anerkannt. Ein Meilenstein, über den wir uns sehr freuen! 
-    https://blog.wikimedia.de/2024/12/06/digitales-ehrenamt-engagementstrategie/
-    via https://social.wikimedia.de/@wikimediaDE/113605521197469170
-    * https://www.bmfsfj.de/resource/blob/251452/ac00fb8963654019ae158f9ae7d7efa6/engagementstrategie-des-bundes-data.pdf
-* Zensus 2022: Knapp die Hälfte der Neubauten mit Zentralheizung heizte mit Wärmepumpe
-  https://www.zensus2022.de/DE/Aktuelles/PM_Zensus_2022_Ergebnisveroeffentlichung_Haelfte_Neubauten_mit_Zentralheizung_heizte_mit_Waermepumpe.html
-  via https://norden.social/@wahlatlas/113633824954123171
-* Viel mehr Menschen als bisher angenommen sind armutsgefährdet, wenn die Wohnkosten mit berücksichtigt werden. Das hat der Paritätische neu errechnet.
-  https://taz.de/Studie-Paritaetischer-Wohlfahrtsverband/!6051376/
+Am 5. Dezember war der jährliche Tag des Ehrenamts und passend dazu wurden ein Tag zuvor die aktuellen Zahlen zu den Bundesfreiwilligendienstleistenden [auf dieser Seite](https://www.daten.bmfsfj.de/daten/daten/bundesfreiwilligendienst-137354) des Bundesfamilienministeriums veröffentlicht. Sie wurden gleich aufgeschlüsselt nach Jahren und Bundesländern mit Datenwrapper visualisiert, die Daten enthalten weitere Ausdifferenzierungen nach Geschlecht und Alter.  
 
-## Open Source
-* Folge 115 des CIW Podcasts. Patricia Leu erklärt das Förderprojekt Prototype Fund
-  https://gnulinux.ch/ciw115-podcast
-  * passend dazu auch
-    https://www.youtube.com/watch?v=EgSPbyCP85s
-    und
-    https://blog.okfn.org/2024/12/05/prototype-fund-a-successful-story-of-project-replication-within-the-open-knowledge-network/
-* SplinterCon: mit offener Software gegen die Zersplitterung des Internets
-  https://prototypefund.de/splintercon/
-  via https://mastodon.social/@PrototypeFund/113668142897561450
-* Prototype Fund Hardware: Diese sechs Teams sind dabei
-  https://hardware.prototypefund.de/prototype-fund-hardware-diese-sechs-teams-sind-dabei/
+Gleichzeitig wurde auch die [Ehrenamtsstrategie des Bundes (pdf)](https://www.bmfsfj.de/resource/blob/251452/ac00fb8963654019ae158f9ae7d7efa6/engagementstrategie-des-bundes-data.pdf) veröffentlich, in der erstmals auch das Digitale Ehrenamt erwähnt und als eigene Form des Engagements [anerkannt wird](https://social.wikimedia.de/@wikimediaDE/113605521197469170). Bei Wikimedia [findet man jedoch](https://blog.wikimedia.de/2024/12/06/digitales-ehrenamt-engagementstrategie/), dass auch konkrete Maßnahmen zu dessen Förderung hätten ausformuliert werden müssen. 
 
+In einer Studie hat der Paritätische Wohlfahrtsverband [neu errechnet](https://taz.de/Studie-Paritaetischer-Wohlfahrtsverband/!6051376/), dass, wenn man die Wohnkosten berücksichtigt, viel mehr Menschen als bisher angenommen armutsgefährdet sind.
+
+Wahlatlas [macht darauf aufmerksam](https://norden.social/@wahlatlas/113633824954123171), dass weitere 150 Tabellen in die Datenbank zum Zensus 2022 Eingang gefunden haben. Aus diesen lässt sich beispielsweise ablesen, dass fast die Häfte aller Neubauten mit einer Zentralheizung erneuerbare Energiequellen [nutzen](https://www.zensus2022.de/DE/Aktuelles/PM_Zensus_2022_Ergebnisveroeffentlichung_Haelfte_Neubauten_mit_Zentralheizung_heizte_mit_Waermepumpe.html).
 
 ## Energie
 * Aus der aktuellen Strompreisanalyse des BDEW: Der Strompreis für den Großteil der Industriebetriebe lag mit knapp 17 Cent pro Kilowattstunde in diesem Jahr so niedrig wie zuletzt 2017
