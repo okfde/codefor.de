@@ -131,27 +131,13 @@ Wie Denkfabriken (Thinktanks) systematisch versuchen, Trumps klimafeindliche Pl�
 Auf dem [Environmental Justice Atlas](https://ejatlas.org) werden weltweit sozio-ökologische Konflikte dokumentiert, also Konflikte hinsichtlich Landnutzung (z.B. Waldrodung für Ackerland und/oder Viehzucht), Vermüllung (z.B. durch Übertourismus), Luft- und Wasserverschmutzung (z.B. durch Bergbau), Gesundheitsrisiken durch schlechte Arbeitsbedingungen.  
 
 ## Gesundheit
-* Zentraler Terminologieserver fürs Gesundheitswesen geht an den Start
-  https://www.heise.de/news/Gesundheitswesen-Zentraler-Terminologieserver-fuer-mehr-Interoperabilitaet-online-10188957.html
-* ePA 3.0: Warum Ärzte vor der elektronischen Patientenakte für Kinder warnen
-  https://www.heise.de/news/ePA-3-0-Warum-Aerzte-vor-der-elektronischen-Patientenakte-fuer-Kinder-warnen-10200700.html
-* ePA 3.0: Fragen und Antworten zur neuen elektronischen Patientenakte
-  https://www.heise.de/hintergrund/ePA-3-0-Fragen-und-Antworten-zur-neuen-elektronischen-Patientenakte-10216222.html
-* "Konnte bisher noch nie gehackt werden": Die elektronische Patientenakte kommt - jetzt für alle!
-  https://media.ccc.de/v/38c3-konnte-bisher-noch-nie-gehackt-werden-die-elektronische-patientenakte-kommt-jetzt-fr-alle
-  * https://chaos.social/@evawolfangel/113726322204011639
-  * https://www.gematik.de/newsroom/news-detail/aktuelles-stellungnahme-zum-ccc-vortrag-zur-epa-fuer-alle
-  * https://annaelbe.net/datenschutz_gesundheitskarte.php
-  * https://www.zeit.de/digital/datenschutz/2024-12/elektronische-patientenakte-it-sicherheit-datenschutz-geheimdienste/komplettansicht
-  * https://www.br.de/nachrichten/netzwelt/hacker-enthuellen-sicherheitsluecken-bei-digitaler-patientenakte,UYWUk0F
-  * https://widerspruch-epa.de/widerspruch-gegen-elektronische-patientenakte-epa/
-  * "Das Narrativ der sicheren elektronischen Patientenakte ist nicht mehr zu halten"
-    https://netzpolitik.org/2024/chaos-communication-congress-das-narrativ-der-sicheren-elektronischen-patientenakte-ist-nicht-mehr-zu-halten/
-* TI-Messenger: Rolle von TIM für den Datenaustausch im Gesundheitswesen
-  https://www.heise.de/hintergrund/TI-Messenger-Rolle-von-TIM-fuer-den-Datenaustausch-im-Gesundheitswesen-10203470.html
-* Doctolib ermöglicht eine User-Enumeration, was bedeutet, dass durch Eingabe einer E-Mail-Adresse überprüft werden kann, ob diese im System registriert ist oder nicht.
-  https://www.kuketz-blog.de/datenschutz-was-patienten-zu-doctolib-und-ihren-rechten-wissen-muessen/
-  via https://social.tchncs.de/@kuketzblog/113678742819832489
+Die [elektronische Patientenakte (ePA) für alle](https://www.gematik.de/anwendungen/epa/epa-fuer-alle) steht weiter in der Kritik. So werden ab Mitte Januar 2025, wenn man [nicht aktiv widerspricht](https://annaelbe.net/datenschutz_gesundheitskarte.php) (Opt-Out), medizinische Befunde, Medikationslisten und weitere Gesundheitsdaten von rund 73 Millionen Krankenversicherten in Deutschland über Praxis- und Krankenhausgrenzen hinweg in einer zentralen Akte zusammengeführt. Dabei legen Analysen des CCC, [die hier im Vortrag vorgestellt werden](https://media.ccc.de/v/38c3-konnte-bisher-noch-nie-gehackt-werden-die-elektronische-patientenakte-kommt-jetzt-fr-alle), noch erhebliche Sicherheitsmängel offen, die zum Teil [schon länger bekannt sind](https://netzpolitik.org/2024/chaos-communication-congress-das-narrativ-der-sicheren-elektronischen-patientenakte-ist-nicht-mehr-zu-halten/). 
+
+Nach Stecken der Gesundheitskarte bekommt eine Arztpraxis 90 Tage lang Zugriff, eine Apotheke drei Tage lang Zugriff. Weitere Fragen zur ePA werden [hier](https://www.heise.de/hintergrund/ePA-3-0-Fragen-und-Antworten-zur-neuen-elektronischen-Patientenakte-10216222.html) beantwortet. Ein Patient kann also steuern, ob er einer Praxis oder einer Apotheke den Zugriff generell erlaubt, kann dies aber nicht feingliedrige pro eingestellten Dokument konfigurieren. Da Eltern für ihre Kinder die ePA verwalten, kann das bei Jugendlichen zu [Konflikten führen](https://www.heise.de/news/ePA-3-0-Warum-Aerzte-vor-der-elektronischen-Patientenakte-fuer-Kinder-warnen-10200700.html).
+
+Generell ist der Gesundheits(-daten)markt am Wachsen (z.B. [Europäischer Gesundheitsdatenraum (EHDS)](https://www.bundesgesundheitsministerium.de/themen/internationale-gesundheitspolitik/europa/europaeische-gesundheitspolitik/ehds.html)) und weckt die ein oder andere Begehrlichkeit, wie auch schon im eben verlinkten Artikel angesprochen. Leider nimmt manche Software es mit dem Datenschutz und Datensicherheit nicht allzu genau, wie [der Kuketz-Blog an Hand von Doctolib](https://www.kuketz-blog.de/datenschutz-was-patienten-zu-doctolib-und-ihren-rechten-wissen-muessen/) zeigt. Leider gibt es inzwischen Arztpraxen, die Termine nur noch über Doctolib vergeben.
+
+Nichtsdestotrotz kann aber sagen, dass die Gematik relativ offen E-Rezept und ePA entwickelt, der Quellcode findet sich auf [Github](https://github.com/gematik/). Mit dem [Fast Healthcare Interoperability Resources (FHIR)](https://hl7.de/themen/hl7-fhir-mobile-kommunikation-und-mehr/warum-fhir/) wird auch ein einheitlicher Standard genutzt, um alle relevanten Daten in der Domäne modellieren zu können (z.B. Patienten, Medikamentenverschreibung, -austausch, -abgabe, -abrechnung), für den es auch in vielen Programmiersprachen [Bibliotheken](https://wiki.hl7.org/index.php?title=Open_Source_FHIR_implementations) gibt. Die aktuellen Versionen der FHIR-Profile und Beispiele finden sich auf dem [Simplifier](https://simplifier.net) Portal. Die FHIR-Daten lassen sich auch als [im RDF-Format beschreiben](https://www.hl7.org/fhir/R4/rdf.html#ontologies). Inzwischen gibt es auch einen [zentraler Terminologieserver](https://www.heise.de/news/Gesundheitswesen-Zentraler-Terminologieserver-fuer-mehr-Interoperabilitaet-online-10188957.html), um Kodiersysteme und Werteliste und Mappings als verlässliche Referenzquelle bereitzustellen. In dem Zusammenhang ist vielleicht auch [die kuratierte Liste von Open-Source-Software](https://github.com/kakoni/awesome-healthcare) interessant. Auch die Referenzimplementierung des [Telematik-Infrastruktur-Messengers (TIM)](https://github.com/gematik/api-ti-messenger), für den Datenaustausch im Gesundheitswesen gedacht und [auf dem Matrix-Protokoll basierend](https://www.heise.de/hintergrund/TI-Messenger-Rolle-von-TIM-fuer-den-Datenaustausch-im-Gesundheitswesen-10203470.html), soll [Open-Source werden](https://github.com/gematik/TI-M-Referenzimplementierung).
 
 ## Mobilität
 * Wir wissen wo dein Auto steht: Volksdaten von Volkswagen
