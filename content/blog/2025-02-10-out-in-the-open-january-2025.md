@@ -42,6 +42,8 @@ type: blog
   via https://mastodon.xyz/@johl/113842985245428866
 * Initially, it was not clear what revenue model Wikipedia would get
   https://post.lurk.org/@rra/113873611500414068
+* Wiki-Spiele: Von Chuck Norris zur Philosophie in wie vielen Klicks?
+  https://blog.wikimedia.de/2025/01/09/wiki-spiele/
 
 ## Open access
 * Release of the French Ph.D. database
@@ -85,6 +87,8 @@ type: blog
   via https://mastodon.sdf.org/@danielbowmaniel/113844377186871230
 * Climate Reanalyzer: Daily Sea Surface Temperature
   https://climatereanalyzer.org/clim/sst_daily/?dm_id=world2
+* SmartBalkon: Intelligente Feinstaub- und Luftqualitätsüberwachung
+  https://medium.com/@ozcanertan/smartbalkon-intelligente-feinstaub-und-luftqualit%C3%A4ts%C3%BCberwachung-9bfd94a6d53b
 
 ## Energie
 * Fast die Hälfte des Stroms in der EU kommt aus erneuerbaren Energien
@@ -127,6 +131,13 @@ type: blog
     https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-1/3-transformation-offen-innovativ-gestalten/
   * 2/3: Handlungsfähigkeit stärken & Vertrauen zurückgewinnen
     https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-2/3-handlungsf%C3%A4higkeit-st%C3%A4rken-vertrauen-zur%C3%BCckgewinnen/  
+* Wahlprüfsteine
+  * https://btw21.deinwal.de (aktuell noch Stand 2021)
+  * https://app.voto.vote/de (noch kein Angebot)
+  * https://www.voteswiper.org/de/deutschland (noch kein Angebot)
+  * https://www.bpb.de/themen/wahl-o-mat/ (erst ab 6.2.)
+  * https://www.kandidierendencheck.de/ (noch kein Angebot)
+  * https://wahlweise.info (noch kein Angebot)
 
 ## Transparenz
 * Ende von FragDenStaat in Papierform, denn Presse, das sind auch Online-Medien.
@@ -193,6 +204,8 @@ type: blog
 * LLMs für deutsche Texte
   https://www.hinterding.com/blog/german-language-and-llms/
   https://www.hinterding.com/blog/llm-vergleich/
+* GeoAI in der öffentlichen Verwaltung
+  https://medium.com/@ozcanertan/geoai-in-der-%C3%B6ffentlichen-verwaltung-ccd43528d0a7
 
 ## Recap
 * On January 14th, 2025, the Open Knowledge Foundation brought together leading voices from around the world to reflect on the Super Election Year 2024, during which 3.7 billion people voted in 72 countries
