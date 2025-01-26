@@ -24,6 +24,9 @@ type: blog
     https://nibis.lbeg.de/cardomap3/
 * ODIS Datenvisualisierung
   https://citylab-berlin.org/de/blog/open-data-and-the-city-die-odis-kolumne-5/
+* Frequenzmessungen als Open Data: Fußgängerinnen und Fußgänger in der Fußgängerzone in der Moerser Innenstadt für das Jahr 2024
+  https://www.offenesdatenportal.de/dataset/fubgangerinnen-und-fubganger-auf-der-steinstrabe-in-moers-im-jahr-2024
+  via https://bsky.app/profile/derarndt.bsky.social/post/3lgfhwcrnek2v
 
 ## Linked Open Data
 * Linked Data Operations Flow Tool (Arbeitstitel): 
@@ -31,6 +34,7 @@ type: blog
   https://console.foerderfunke.org
   https://www.youtube.com/watch?v=1muHHA0Q8cQ
   https://www.linkedin.com/posts/benjamin-ditel_mapping-the-requirements-for-benefits-from-activity-7287778691231670272--zj5
+  https://github.com/Citizen-Knowledge-Graph/console
 
 ## Wikiverse
 * Cleaning Up Legacy Data: From Wikipedia Links to Wikidata IDs in Open Library
@@ -44,6 +48,16 @@ type: blog
   https://post.lurk.org/@rra/113873611500414068
 * Wiki-Spiele: Von Chuck Norris zur Philosophie in wie vielen Klicks?
   https://blog.wikimedia.de/2025/01/09/wiki-spiele/
+* Wikidata: Ein praktisches Werkzeug für gemeinnützige Organisationen
+  https://civic-data.de/wikidata/
+  https://civic-data.de/app/uploads/wikidata.pdf
+  https://cividata.org/de/
+
+## Datenanalyse
+* Reproduzierbares Reporting von Datenanalysen mit Quarto
+  https://blog.soziale-wirkung.de/2025/01/22/reproduzierbares-reporting-von-datenanalysen-mit-quarto/
+  https://quarto.org
+  https://closeread.dev
 
 ## Open access
 * Release of the French Ph.D. database
@@ -89,6 +103,8 @@ type: blog
   https://climatereanalyzer.org/clim/sst_daily/?dm_id=world2
 * SmartBalkon: Intelligente Feinstaub- und Luftqualitätsüberwachung
   https://medium.com/@ozcanertan/smartbalkon-intelligente-feinstaub-und-luftqualit%C3%A4ts%C3%BCberwachung-9bfd94a6d53b
+* Eine sehr gute Grafik, die uns zeigt wie radikal die Erwärmung unserer Erde voranschreitet. Lag die globale Temperatur vor 2000 kaum einmal über 1,5 Grad im Vergleich zum vorindustriellen Niveau, so taten es 2024 bereits die meisten Tage des Jahres.
+  https://bsky.app/profile/marcuswadsak.bsky.social/post/3lgl3pbf77c2t
 
 ## Energie
 * Fast die Hälfte des Stroms in der EU kommt aus erneuerbaren Energien
@@ -138,6 +154,9 @@ type: blog
   * https://www.bpb.de/themen/wahl-o-mat/ (erst ab 6.2.)
   * https://www.kandidierendencheck.de/ (noch kein Angebot)
   * https://wahlweise.info (noch kein Angebot)
+* When Do Parties Lie? Misinformation and Radical-Right Populism Across 26 Countries
+  https://journals.sagepub.com/doi/10.1177/19401612241311886
+  via https://bsky.app/profile/pettertornberg.bsky.social/post/3lfpdx72sls2n
 
 ## Transparenz
 * Ende von FragDenStaat in Papierform, denn Presse, das sind auch Online-Medien.
@@ -252,11 +271,13 @@ type: blog
   * https://osmcal.org/event/3312/
 * Freitag, 14.02.2025, 18:00, bis Sonntag, 16.02.2025, 21:00, Geofabrik, Amalienstraße 44, 76133 Karlsruhe: **Karlsruhe Hack Weekend February 2025** <a title='Kalendereintrag Karlsruhe Hack Weekend February 2025' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vS2FybHNydWhlIEhhY2sgV2Vla2VuZCBGZWJydWFyeSAyMDI1Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwMTI2VDEyMDM1NVoNCkRUU1RBUlQ6MjAyNTAyMTRUMTgwMDAwDQpEVEVORDoyMDI1MDIxNlQyMTAwMDANClNVTU1BUlk6S2FybHNydWhlIEhhY2sgV2Vla2VuZCBGZWJydWFyeSAyMDI1DQpMT0NBVElPTjpHZW9mYWJyaWtcLCBBbWFsaWVuc3RyYcOfZSA0NFwsIDc2MTMzIEthcmxzcnVoZQ0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93aWtpLm9wZW5zdHJlZXRtYXAub3JnL3dpa2kvS2FybHNydWhlX0hhY2tfV2Vla2VuZF9GZWJydWFyeV8yMDI1DQpERVNDUklQVElPTjoNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://wiki.openstreetmap.org/wiki/Karlsruhe_Hack_Weekend_February_2025
+* Dienstag, 18.11.2025, 18:00, bis Donnerstag, 27.11.2025, 19:10, online: **Data Reuse Days 2025 ** <a title='Kalendereintrag Data Reuse Days 2025 ' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGF0YSBSZXVzZSBEYXlzIDIwMjUgLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwMTI2VDEzMjc1NVoNCkRUU1RBUlQ6MjAyNTExMThUMTgwMDAwDQpEVEVORDoyMDI1MTEyN1QxOTEwMDANClNVTU1BUlk6RGF0YSBSZXVzZSBEYXlzIDIwMjUgDQpMT0NBVElPTjpvbmxpbmUNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vd3d3Lndpa2lkYXRhLm9yZy93aWtpL0V2ZW50OkRhdGFfUmV1c2VfRGF5c18yMDI1DQpERVNDUklQVElPTjoNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+  * https://www.wikidata.org/wiki/Event:Data_Reuse_Days_2025
 * Freitag, 21.02.2025, 10:00, bis Samstag, 22.02.2025, 16:00, OpenSource Science B.V., Etnastraat 20, 4814AA Breda (Niederlande) und auch online: **Foss FEST 2025: International Hackathon** <a title='Kalendereintrag Foss FEST 2025: International Hackathon' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRm9zcyBGRVNUIDIwMjU6IEludGVybmF0aW9uYWwgSGFja2F0aG9uLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwMTI2VDEyMDM1NVoNCkRUU1RBUlQ6MjAyNTAyMjFUMTAwMDAwDQpEVEVORDoyMDI1MDIyMlQxNjAwMDANClNVTU1BUlk6Rm9zcyBGRVNUIDIwMjU6IEludGVybmF0aW9uYWwgSGFja2F0aG9uDQpMT0NBVElPTjpPcGVuU291cmNlIFNjaWVuY2UgQi5WLlwsIEV0bmFzdHJhYXQgMjBcLCA0ODE0QUEgQnJlZGEgKE5pZWRlcmxhbmRlKSB1bmQgYXVjaCBvbmxpbmUNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vb3Mtc2NpLmNvbS9ldmVudC9mb3NzLWZlc3QtMjAyNS1pbnRlcm5hdGlvbmFsLWhhY2thdGhvbi0xNC9yZWdpc3Rlcg0KREVTQ1JJUFRJT046DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://os-sci.com/event/foss-fest-2025-international-hackathon-14/register
 * Dienstag, 25.02.2025, 17:30-20:30, KI-Ideenwerkstatt für Umweltschutz, Rollbergstr. 28A, 12053 Berlin: **Unterwegs in die Kreislaufgesellschaft: Wie kann KI Bürger*innen dabei helfen, Stoffkreisläufe zu schließen?** <a title='Kalendereintrag Unterwegs in die Kreislaufgesellschaft: Wie kann KI Bürger*innen dabei helfen, Stoffkreisläufe zu schließen?' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVW50ZXJ3ZWdzIGluIGRpZSBLcmVpc2xhdWZnZXNlbGxzY2hhZnQ6IFdpZSBrYW5uIEtJIELDvHJnZXIqaW5uZW4gZGFiZWkgaGVsZmVuXCwgU3RvZmZrcmVpc2zDpHVmZSB6dSBzY2hsaWXDn2VuPy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI1MDEyNlQxMjAzNTVaDQpEVFNUQVJUOjIwMjUwMjI1VDE3MzAwMA0KRFRFTkQ6MjAyNTAyMjVUMjAzMDAwDQpTVU1NQVJZOlVudGVyd2VncyBpbiBkaWUgS3JlaXNsYXVmZ2VzZWxsc2NoYWZ0OiBXaWUga2FubiBLSSBCw7xyZ2VyKmlubmVuIGRhYmVpIGhlbGZlblwsIFN0b2Zma3JlaXNsw6R1ZmUgenUgc2NobGllw59lbj8NCkxPQ0FUSU9OOktJLUlkZWVud2Vya3N0YXR0IGbDvHIgVW13ZWx0c2NodXR6XCwgUm9sbGJlcmdzdHIuIDI4QVwsIDEyMDUzIEJlcmxpbg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cua2ktaWRlZW53ZXJrc3RhdHQuZGUvdmVyYW5zdGFsdHVuZ2VuL3RoZW1lbmFiZW5kLXVudGVyd2Vncy1pbi1kaWUta3JlaXNsYXVmZ2VzZWxsc2NoYWZ0Lw0KREVTQ1JJUFRJT046DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://www.ki-ideenwerkstatt.de/veranstaltungen/themenabend-unterwegs-in-die-kreislaufgesellschaft/
-* Dienstag, 25.02.2025, 19:30-21:00, online: **Unterwegs in die Kreislaufgesellschaft: Wie kann KI Bürger*innen dabei helfen, Stoffkreisläufe zu schließen?** <a title='Kalendereintrag Unterwegs in die Kreislaufgesellschaft: Wie kann KI Bürger*innen dabei helfen, Stoffkreisläufe zu schließen?' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVW50ZXJ3ZWdzIGluIGRpZSBLcmVpc2xhdWZnZXNlbGxzY2hhZnQ6IFdpZSBrYW5uIEtJIELDvHJnZXIqaW5uZW4gZGFiZWkgaGVsZmVuXCwgU3RvZmZrcmVpc2zDpHVmZSB6dSBzY2hsaWXDn2VuPy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI1MDEyNlQxMjAzNTVaDQpEVFNUQVJUOjIwMjUwMjI1VDE5MzAwMA0KRFRFTkQ6MjAyNTAyMjVUMjEwMDAwDQpTVU1NQVJZOlVudGVyd2VncyBpbiBkaWUgS3JlaXNsYXVmZ2VzZWxsc2NoYWZ0OiBXaWUga2FubiBLSSBCw7xyZ2VyKmlubmVuIGRhYmVpIGhlbGZlblwsIFN0b2Zma3JlaXNsw6R1ZmUgenUgc2NobGllw59lbj8NCkxPQ0FUSU9OOm9ubGluZQ0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93aWtpLm9wZW5zdHJlZXRtYXAub3JnL3dpa2kvVmVya2VocnN3ZW5kZS1NZWV0dXAjTWVldHVwcw0KREVTQ1JJUFRJT046DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+* Dienstag, 25.02.2025, 19:30-21:00, online: **Verkehrswende-Meetup** <a title='Kalendereintrag Verkehrswende-Meetup' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVmVya2VocnN3ZW5kZS1NZWV0dXAvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTAxMjZUMjAxOTExWg0KRFRTVEFSVDoyMDI1MDIyNVQxOTMwMDANCkRURU5EOjIwMjUwMjI1VDIxMDAwMA0KU1VNTUFSWTpWZXJrZWhyc3dlbmRlLU1lZXR1cA0KTE9DQVRJT046b25saW5lDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3dpa2kub3BlbnN0cmVldG1hcC5vcmcvd2lraS9WZXJrZWhyc3dlbmRlLU1lZXR1cCNNZWV0dXBzDQpERVNDUklQVElPTjoNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://wiki.openstreetmap.org/wiki/Verkehrswende-Meetup#Meetups
 * Donnerstag, 27.02.2025, 14:00-15:00, online: **CorrelCompact: So lügt man mit Statistik** <a title='Kalendereintrag CorrelCompact: So lügt man mit Statistik' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ29ycmVsQ29tcGFjdDogU28gbMO8Z3QgbWFuIG1pdCBTdGF0aXN0aWsvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTAxMjZUMTIwMzU1Wg0KRFRTVEFSVDoyMDI1MDIyN1QxNDAwMDANCkRURU5EOjIwMjUwMjI3VDE1MDAwMA0KU1VNTUFSWTpDb3JyZWxDb21wYWN0OiBTbyBsw7xndCBtYW4gbWl0IFN0YXRpc3Rpaw0KTE9DQVRJT046b25saW5lDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy5jb3JyZWxhaWQub3JnL3ZlcmFuc3RhbHR1bmdlbi9jb3JyZWxjb21wYWN0LXN0YXRpc3Rpay0yNS0xP3ZpZXdUeXBlPWxpc3QNCkRFU0NSSVBUSU9OOg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://www.correlaid.org/veranstaltungen/correlcompact-statistik-25-1?viewType=list
