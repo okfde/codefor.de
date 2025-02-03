@@ -35,6 +35,9 @@ type: blog
 * Archivists Work to Identify and Save the Thousands of Datasets Disappearing From Data.gov
   https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/
   https://framapiaf.org/@macgraveur/113921743152922311
+* Neues #opendata Tool von @openpotato OpenPLZ API - ein öffentliches Straßen- und Postleitzahlverzeichnis (inklusive Gemeindedaten) für DE, LI, die CH und Österreich über eine offene REST-API-Schnittstelle verfügbar macht - verwendet offene Daten der @statistik.at 
+  https://www.data.gv.at/katalog/application/c7210abd-1460-4be4-9469-83235a092a8c
+  via https://mastodon.social/@datagvat/113939408532877926
 
 ## Linked Open Data
 * Linked Data Operations Flow Tool (Arbeitstitel): 
@@ -72,6 +75,10 @@ type: blog
   https://closeread.dev
 * Data Vis Dispatch, January 28: Snowfall, astronauts, and electricity
   https://blog.datawrapper.de/data-vis-dispatch-january-28-2025/
+* Ihttps://phiresky.github.io/isbn-visualization/
+  https://phiresky.github.io/isbn-visualization/
+  https://github.com/phiresky/isbn-visualization
+  via https://vis.social/@gka/113934587379915015
 
 ## Open access
 * Release of the French Ph.D. database
@@ -136,6 +143,8 @@ type: blog
   https://anitagraser.com/2025/01/11/trajectools-2-4-release/
 * DB HAFAS mgate.exe Endpoint will be permanently shut off in the coming days. 
   https://github.com/schildbach/public-transport-enabler/issues/610
+  * Alternativen
+    https://github.com/derhuerst/db-rest/issues/60
 * VDV: Ist-Daten-Schnittstellen: Downloads
   https://www.vdv.de/i-d-s-downloads.aspx
 * Greenpeace Verkehrsszenario
@@ -149,6 +158,11 @@ type: blog
 * City of Toronto publishes new transportation datasets that highlight travel trends and support traffic management actions
   https://www.toronto.ca/news/city-of-toronto-publishes-new-transportation-datasets-that-highlight-travel-trends-and-support-traffic-management-actions/
   https://open.toronto.ca/dataset/traffic-volumes-midblock-vehicle-speed-volume-and-classification-counts/
+* WoBahn: Eine Web-App, die die ungefähren Standorte aller U-Bahn-Linien in Wien anzeigt.
+  https://wobahn.vasc.cloud/
+  https://www.data.gv.at/katalog/application/191ccc29-fdf2-4837-af85-08b59c74d1da
+  https://github.com/vascYT/WoBahn
+  via https://mastodon.social/@datagvat/113939448752239121
 
 ## Karten
 * GSPy - A New Toolbox And Data Standard For Geophysical Datasets
@@ -232,6 +246,11 @@ The podcast includes testimonies of 20 Survivors.
 * How do modern elections work? Is it mainly a data-driven operation or a mix of methods?
   https://www.cambridge.org/core/journals/government-and-opposition/article/understanding-the-modern-election-campaign-analysing-campaign-eras-through-financial-transparency-disclosures-at-the-2019-uk-general-election/F84A189B4BC3B1A9B5CCA02AFCB3C98E
   via https://mastodon.cc/@info_activism/113906609495462108
+* Linksammlung mit den wichtigsten Infos zum Bundestagswahlkampf 2025
+  https://hackmd.okfn.de/bundestagswahl_2025_linksammlung?view
+  via https://norden.social/@datenschatz/113935378940409183
+* WWF Zukunftswahl-Check zur Bundestagswahl 2025
+  https://www.wwf.de/themen-projekte/politische-arbeit/bundestagswahl-2025/wwf-zukunftswahl-check-2025
 
 ## Transparenz
 * Ende von FragDenStaat in Papierform, denn Presse, das sind auch Online-Medien.
@@ -287,6 +306,8 @@ The podcast includes testimonies of 20 Survivors.
   via https://ec.social-network.europa.eu/@EC_DIGIT/113844579158255964
 * vollständig überarbeiteten Version von openCode live gegangen
   https://www.linkedin.com/posts/zendis_vor-wenigen-tagen-sind-wir-mit-einer-vollst%C3%A4ndig-activity-7287762101639471105-g63a
+* München startet erstes Open-Source-Sabbatical
+  https://www.heise.de/news/Nach-LiMux-Aus-Muenchen-startet-erstes-Open-Source-Sabbatical-10266582.html
 
 ## KI
 * Eine neue Plattform macht die Arbeit des österreichischen Nationalrats mithilfe von großen Sprachmodellen greifbar: parlament.fyi nutzt künstliche Intelligenz, um politische Debatten und Abstimmungen verständlich zusammen zu fassen und mit verschiedenen sprachlichen Labels zu versehen. Die Originalquellen bleiben dabei erhalten.
