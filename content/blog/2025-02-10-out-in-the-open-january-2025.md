@@ -233,6 +233,13 @@ The podcast includes testimonies of 20 Survivors.
     https://real-o-mat.de/methodik/
   * CORRECTIV.Sunlight – der Kandidierenden-Check
     https://correctiv.org/projekte/sunlight/
+  * Digital-O-Mat
+    https://digitalomat25.de
+    https://codeberg.org/kdv/digital-o-mat/
+  * Digital-Thesen-Check von D64 zur Bundestagswahl 2025
+    https://digital25.d-64.org
+  * WWF Zukunftswahl-Check zur Bundestagswahl 2025
+    https://www.wwf.de/themen-projekte/politische-arbeit/bundestagswahl-2025/wwf-zukunftswahl-check-2025
 * When Do Parties Lie? Misinformation and Radical-Right Populism Across 26 Countries
   https://journals.sagepub.com/doi/10.1177/19401612241311886
   via https://bsky.app/profile/pettertornberg.bsky.social/post/3lfpdx72sls2n
@@ -249,8 +256,6 @@ The podcast includes testimonies of 20 Survivors.
 * Linksammlung mit den wichtigsten Infos zum Bundestagswahlkampf 2025
   https://hackmd.okfn.de/bundestagswahl_2025_linksammlung?view
   via https://norden.social/@datenschatz/113935378940409183
-* WWF Zukunftswahl-Check zur Bundestagswahl 2025
-  https://www.wwf.de/themen-projekte/politische-arbeit/bundestagswahl-2025/wwf-zukunftswahl-check-2025
 
 ## Transparenz
 * Ende von FragDenStaat in Papierform, denn Presse, das sind auch Online-Medien.
@@ -299,6 +304,8 @@ The podcast includes testimonies of 20 Survivors.
 * Um die Macht der Tech-Bosse zu brechen, arbeiten Entwickler an alternativen Sozialen Medien. Wie könnten die Plattformen der Zukunft funktionieren?
   https://taz.de/Zukunft-Sozialer-Medien/!6061808/
   https://freeourfeeds.com
+* European alternatives for digital products
+  https://european-alternatives.eu
 
 ## OpenSource
 * code.europa.eu , managed by @EC_OSPO now holds more than 200 #OpenSource projects with a total of 755 code repositories 
