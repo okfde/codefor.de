@@ -31,17 +31,16 @@ type: blog
   https://www.t-online.de/nachrichten/deutschland/bundestagswahl/id_100591238/wahl-o-mat-alternative-das-koennen-real-o-mat-wahl-kompass-und-co-.html
 
 #### Auf Basis der Parteiprogramme bzw. direkte Antworten der Parteien
-##### Multiple-Choice
-  * Wahl-o-Mat: 
-    https://www.bpb.de/themen/wahl-o-mat/ 
-  * Wahlswiper: 
-    https://www.voteswiper.org/de
-  * Wahl-Kompass
-    https://wahl-kompass.de/de/
-  * steuer-o-mat
-    https://www.smartsteuer.de/online/steuer-o-mat/
+* Wahl-o-Mat: 
+  https://www.bpb.de/themen/wahl-o-mat/ 
+* Wahlswiper: 
+  https://www.voteswiper.org/de
+* Wahl-Kompass
+  https://wahl-kompass.de/de/
+* steuer-o-mat
+  https://www.smartsteuer.de/online/steuer-o-mat/
 
-##### Wahlprogrammanalysen
+#### Wahlprogrammanalysen
 * Wahl-O-Mat-Auswertung Bundestagswahl 2025: Parteienlandkarte
   https://www.dkriesel.com/blog/2025/0206_wahl-o-mat-auswertung_bundestagswahl_2025_parteienlandkarte
 * Reformvorschläge der Parteien zur Bundestagswahl 2025: Finanzielle Auswirkungen
@@ -53,12 +52,12 @@ type: blog
   * https://wahl.chat
 
 #### Auf Basis der Kandidierenden
-  * abgeordnetenwatch kandidierendencheck
-    https://www.kandidierendencheck.de/bundestag
-  * Aktuell nur Direktkandidierende Wahlkreis Tübingen Bundestagswahl 2025
-    https://app.voto.vote/de
-  * CORRECTIV.Sunlight – der Kandidierenden-Check
-    https://correctiv.org/projekte/sunlight/
+* abgeordnetenwatch kandidierendencheck
+  https://www.kandidierendencheck.de/bundestag
+* Aktuell nur Direktkandidierende Wahlkreis Tübingen Bundestagswahl 2025
+  https://app.voto.vote/de
+* CORRECTIV.Sunlight – der Kandidierenden-Check
+  https://correctiv.org/projekte/sunlight/
 
 #### Auf Basis von vergangenen Abstimmungsverhalten
 * Du kannst hier die Abstimmungen der letzten Legislaturperiode von 2021 - 2025 nachspielen, als wärst du selbst dabei gewesen! In der Auswertung siehst du, welche Parteien in deinem Sinne abgestimmt haben.
@@ -71,10 +70,10 @@ type: blog
     https://real-o-mat.de/methodik/
 
 #### Sonstige
-  * postill-o-mat
-    https://www.der-postillon.com/2025/02/postill-o-mat-bundestagswahl-2025.html
-  * radikal-o-mat.de
-    https://radikal-o-mat.de/index.html
+* postill-o-mat
+  https://www.der-postillon.com/2025/02/postill-o-mat-bundestagswahl-2025.html
+* radikal-o-mat.de
+  https://radikal-o-mat.de/index.html
 
 ### Forderungen Digitalpolitik
 * Die Zukunft der Digitalpolitik 
@@ -89,13 +88,13 @@ type: blog
   via https://mastodon.social/@ioew/113906510724968748
 
 ### Wahlenentscheidungshilfen Digitalpolitik
-  * Digital-O-Mat
-    https://digitalomat25.de
-    https://codeberg.org/kdv/digital-o-mat/
-  * Digital-Thesen-Check von D64 zur Bundestagswahl 2025
-    https://digital25.d-64.org
-  * Bitkomat
-    https://www.bitkom.org/Bitkomat-Bundestagswahl
+* Digital-O-Mat
+  https://digitalomat25.de
+  https://codeberg.org/kdv/digital-o-mat/
+* Digital-Thesen-Check von D64 zur Bundestagswahl 2025
+  https://digital25.d-64.org
+* Bitkomat
+  https://www.bitkom.org/Bitkomat-Bundestagswahl
 
 ### Prognosen
 * wahlkreisprognose.de
