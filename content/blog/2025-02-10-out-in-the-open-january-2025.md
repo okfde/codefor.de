@@ -11,6 +11,105 @@ og_image: out-in-the-open-2025-01-header.jpg
 type: blog
 ---
 
+## Bundestagswahl 2025
+* Linksammlung mit den wichtigsten Infos zum Bundestagswahlkampf 2025
+  https://hackmd.okfn.de/bundestagswahl_2025_linksammlung?view
+  via https://norden.social/@datenschatz/113935378940409183
+* How do modern elections work? Is it mainly a data-driven operation or a mix of methods?
+  https://www.cambridge.org/core/journals/government-and-opposition/article/understanding-the-modern-election-campaign-analysing-campaign-eras-through-financial-transparency-disclosures-at-the-2019-uk-general-election/F84A189B4BC3B1A9B5CCA02AFCB3C98E
+  via https://mastodon.cc/@info_activism/113906609495462108
+* When Do Parties Lie? Misinformation and Radical-Right Populism Across 26 Countries
+  https://journals.sagepub.com/doi/10.1177/19401612241311886
+  via https://bsky.app/profile/pettertornberg.bsky.social/post/3lfpdx72sls2n
+
+### Wahlenentscheidungshilfen
+* Wahlprüfsteine: Parteien definieren, wer relevant ist: Doch in diesem Jahr darf nur ein exklusiver Club aus 30 Organisationen und Verbänden Fragen stellen. Digitalpolitische Gruppen fehlen komplett.
+  https://netzpolitik.org/2025/wahlpruefsteine-parteien-definieren-wer-relevant-ist/
+* Wahl-O-Mat 2025: Diese sechs Alternativen helfen bei der Wahlentscheidung
+  https://www.handelsblatt.com/politik/deutschland/wahl-o-mat-2025-diese-sechs-alternativen-helfen-bei-der-wahlentscheidung-02/100104734.html  
+* Bundestagswahl 2025: Wahl-O-Mat-Alternativen: Parteiprogramme vergleichen
+  https://www.t-online.de/nachrichten/deutschland/bundestagswahl/id_100591238/wahl-o-mat-alternative-das-koennen-real-o-mat-wahl-kompass-und-co-.html
+
+#### Auf Basis der Parteiprogramme bzw. direkte Antworten der Parteien
+##### Multiple-Choice
+  * Wahl-o-Mat: 
+    https://www.bpb.de/themen/wahl-o-mat/ 
+  * Wahlswiper: 
+    https://www.voteswiper.org/de
+  * Wahl-Kompass
+    https://wahl-kompass.de/de/
+  * steuer-o-mat
+    https://www.smartsteuer.de/online/steuer-o-mat/
+
+##### Wahlprogrammanalysen
+* Wahl-O-Mat-Auswertung Bundestagswahl 2025: Parteienlandkarte
+  https://www.dkriesel.com/blog/2025/0206_wahl-o-mat-auswertung_bundestagswahl_2025_parteienlandkarte
+* Reformvorschläge der Parteien zur Bundestagswahl 2025: Finanzielle Auswirkungen
+  https://ftp.zew.de/pub/zew-docs/gutachten/Bundestagswahlprogramme_ZEW_2025.pdf
+* WWF Zukunftswahl-Check zur Bundestagswahl 2025
+  https://www.wwf.de/themen-projekte/politische-arbeit/bundestagswahl-2025/wwf-zukunftswahl-check-2025
+* KI-Chatten mit Parteiprogammen
+  * https://wahlweise.info
+  * https://wahl.chat
+
+#### Auf Basis der Kandidierenden
+  * abgeordnetenwatch kandidierendencheck
+    https://www.kandidierendencheck.de/bundestag
+  * Aktuell nur Direktkandidierende Wahlkreis Tübingen Bundestagswahl 2025
+    https://app.voto.vote/de
+  * CORRECTIV.Sunlight – der Kandidierenden-Check
+    https://correctiv.org/projekte/sunlight/
+
+#### Auf Basis von vergangenen Abstimmungsverhalten
+* Du kannst hier die Abstimmungen der letzten Legislaturperiode von 2021 - 2025 nachspielen, als wärst du selbst dabei gewesen! In der Auswertung siehst du, welche Parteien in deinem Sinne abgestimmt haben.
+  https://btw25.deinwal.de/home
+* Mit unserem Koalitionstracker haben wir drei Jahre lang die angekündigten Pläne der Ampel-Koalition überwacht. Die abschließende Auswertung zeigt: Nur jedes vierte Vorhaben wurde umgesetzt. 
+  https://fragdenstaat.de/artikel/exklusiv/2025/01/kaum-fortschritt-von-der-forschrittskoalition/
+  * https://real-o-mat.de
+    via https://bsky.app/profile/fragdenstaat.de/post/3lguk7d5o3c2j
+    https://chaos.social/@fragdenstaat/113917768794771407
+    https://real-o-mat.de/methodik/
+
+#### Sonstige
+  * postill-o-mat
+    https://www.der-postillon.com/2025/02/postill-o-mat-bundestagswahl-2025.html
+  * radikal-o-mat.de
+    https://radikal-o-mat.de/index.html
+
+### Forderungen Digitalpolitik
+* Die Zukunft der Digitalpolitik 
+  * 1/3: Transformation offen & innovativ gestalten
+    https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-1/3-transformation-offen-innovativ-gestalten/
+  * 2/3: Handlungsfähigkeit stärken & Vertrauen zurückgewinnen
+    https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-2/3-handlungsf%C3%A4higkeit-st%C3%A4rken-vertrauen-zur%C3%BCckgewinnen/  
+  * 3/3: Demokratie schützen & Zivilgesellschaft stärken
+    https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-3/3-demokratie-sch%C3%BCtzen-zivilgesellschaft-st%C3%A4rken/
+* Forderungen des „Bits & Bäume“-Bündnisses zur Bundestagswahl 2025
+  https://bits-und-baeume.org/forderungen/
+  via https://mastodon.social/@ioew/113906510724968748
+
+### Wahlenentscheidungshilfen Digitalpolitik
+  * Digital-O-Mat
+    https://digitalomat25.de
+    https://codeberg.org/kdv/digital-o-mat/
+  * Digital-Thesen-Check von D64 zur Bundestagswahl 2025
+    https://digital25.d-64.org
+  * Bitkomat
+    https://www.bitkom.org/Bitkomat-Bundestagswahl
+
+### Prognosen
+* wahlkreisprognose.de
+  https://www.wahlkreisprognose.de
+* zweitstimme.org
+  https://zweitstimme.org
+
+### Sonstiges
+* Auf unseren Aufruf für Plakate gegen Rechts haben uns hunderte Einsendungen erreicht: Plakate für eine radikal vielfältige demokratische Gesellschaft. Über 300 sind hier zu sehen und können für nicht-kommerzielle Zwecke frei verwendet werden.
+  https://verlagegegenrechts.de/plakate-gegen-rechts
+* Fediverse Activity Tracker
+  https://rstockm.github.io/fedipol/
+  https://codeberg.org/open/fedipolitik
+
 ## Open Data
 * Wege der Metadaten
   https://open-north.de/blog/2025-01-09_harvesting/
@@ -136,6 +235,9 @@ type: blog
   https://www.deutschlandfunk.de/neues-portal-des-umweltbundesamts-interview-dirk-messner-100.html
 
 ## Energie
+* Energiepolitik nach der Wahl: Was ist dir wichtig?
+  https://energiemiteinander.de/questionnaire/864/Energiepolitik_nach_der_Wahl_Was_ist_dir_wichtig
+  via https://social.cologne/@P4FKoeln/113825316514038844
 * Fast die Hälfte des Stroms in der EU kommt aus erneuerbaren Energien
   https://www.tagesspiegel.de/wirtschaft/fossile-brennstoffe-verlieren-einfluss-fast-die-halfte-des-stroms-in-der-eu-kommt-aus-erneuerbaren-energien-13069960.html
 
@@ -211,78 +313,6 @@ The podcast includes testimonies of 20 Survivors.
   https://www.youtube.com/watch?v=-6IFHxqGgdE
   via https://bsky.app/profile/auschwitzmemorial.bsky.social/post/3lgnmrfcp3q2a
 
-## Wahlen
-* Reformvorschläge der Parteien zur Bundestagswahl 2025: Finanzielle Auswirkungen
-  https://ftp.zew.de/pub/zew-docs/gutachten/Bundestagswahlprogramme_ZEW_2025.pdf
-* Wahlprüfsteine: Parteien definieren, wer relevant ist: Doch in diesem Jahr darf nur ein exklusiver Club aus 30 Organisationen und Verbänden Fragen stellen. Digitalpolitische Gruppen fehlen komplett.
-  https://netzpolitik.org/2025/wahlpruefsteine-parteien-definieren-wer-relevant-ist/
-* Energiepolitik nach der Wahl: Was ist dir wichtig?
-  https://energiemiteinander.de/questionnaire/864/Energiepolitik_nach_der_Wahl_Was_ist_dir_wichtig
-  via https://social.cologne/@P4FKoeln/113825316514038844
-* Die Zukunft der Digitalpolitik 
-  * 1/3: Transformation offen & innovativ gestalten
-    https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-1/3-transformation-offen-innovativ-gestalten/
-  * 2/3: Handlungsfähigkeit stärken & Vertrauen zurückgewinnen
-    https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-2/3-handlungsf%C3%A4higkeit-st%C3%A4rken-vertrauen-zur%C3%BCckgewinnen/  
-  * 3/3: Demokratie schützen & Zivilgesellschaft stärken
-    https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-3/3-demokratie-sch%C3%BCtzen-zivilgesellschaft-st%C3%A4rken/
-* Wahlprüfsteine
-  * https://btw25.deinwal.de/home
-  * https://app.voto.vote/de (noch kein Angebot)
-  * Wahlswiper: https://www.voteswiper.org/de
-  * Wahl-o-Mat: https://www.bpb.de/themen/wahl-o-mat/ 
-  * https://www.kandidierendencheck.de/bundestag
-  * https://wahlweise.info (noch kein Angebot)
-  * https://wahl.chat
-  * https://real-o-mat.de
-    via https://bsky.app/profile/fragdenstaat.de/post/3lguk7d5o3c2j
-    https://chaos.social/@fragdenstaat/113917768794771407
-    https://real-o-mat.de/methodik/
-  * CORRECTIV.Sunlight – der Kandidierenden-Check
-    https://correctiv.org/projekte/sunlight/
-  * radikal-o-mat.de
-    https://radikal-o-mat.de/index.html
-  * postill-o-mat
-    https://www.der-postillon.com/2025/02/postill-o-mat-bundestagswahl-2025.html
-  * Wahl-O-Mat 2025: Diese sechs Alternativen helfen bei der Wahlentscheidung
-    https://www.handelsblatt.com/politik/deutschland/wahl-o-mat-2025-diese-sechs-alternativen-helfen-bei-der-wahlentscheidung-02/100104734.html  
-  * Bundestagswahl 2025: Wahl-O-Mat-Alternativen: Parteiprogramme vergleichen
-    https://www.t-online.de/nachrichten/deutschland/bundestagswahl/id_100591238/wahl-o-mat-alternative-das-koennen-real-o-mat-wahl-kompass-und-co-.html
-  * steuer-o-mat
-    https://www.smartsteuer.de/online/steuer-o-mat/
-  * Wahl-Kompass
-    https://wahl-kompass.de/de/
-  * Digital-O-Mat
-    https://digitalomat25.de
-    https://codeberg.org/kdv/digital-o-mat/
-  * Digital-Thesen-Check von D64 zur Bundestagswahl 2025
-    https://digital25.d-64.org
-  * Bitkomat
-    https://www.bitkom.org/Bitkomat-Bundestagswahl
-  * WWF Zukunftswahl-Check zur Bundestagswahl 2025
-    https://www.wwf.de/themen-projekte/politische-arbeit/bundestagswahl-2025/wwf-zukunftswahl-check-2025
-* When Do Parties Lie? Misinformation and Radical-Right Populism Across 26 Countries
-  https://journals.sagepub.com/doi/10.1177/19401612241311886
-  via https://bsky.app/profile/pettertornberg.bsky.social/post/3lfpdx72sls2n
-* Auf unseren Aufruf für Plakate gegen Rechts haben uns hunderte Einsendungen erreicht: Plakate für eine radikal vielfältige demokratische Gesellschaft. Über 300 sind hier zu sehen und können für nicht-kommerzielle Zwecke frei verwendet werden.
-  https://verlagegegenrechts.de/plakate-gegen-rechts
-* Mit unserem Koalitionstracker haben wir drei Jahre lang die angekündigten Pläne der Ampel-Koalition überwacht. Die abschließende Auswertung zeigt: Nur jedes vierte Vorhaben wurde umgesetzt. 
-  https://fragdenstaat.de/artikel/exklusiv/2025/01/kaum-fortschritt-von-der-forschrittskoalition/
-* Forderungen des „Bits & Bäume“-Bündnisses zur Bundestagswahl 2025
-  https://bits-und-baeume.org/forderungen/
-  via https://mastodon.social/@ioew/113906510724968748
-* How do modern elections work? Is it mainly a data-driven operation or a mix of methods?
-  https://www.cambridge.org/core/journals/government-and-opposition/article/understanding-the-modern-election-campaign-analysing-campaign-eras-through-financial-transparency-disclosures-at-the-2019-uk-general-election/F84A189B4BC3B1A9B5CCA02AFCB3C98E
-  via https://mastodon.cc/@info_activism/113906609495462108
-* Linksammlung mit den wichtigsten Infos zum Bundestagswahlkampf 2025
-  https://hackmd.okfn.de/bundestagswahl_2025_linksammlung?view
-  via https://norden.social/@datenschatz/113935378940409183
-* zweitstimme.org
-  https://zweitstimme.org
-* wahlkreisprognose.de
-  https://www.wahlkreisprognose.de
-* Wahl-O-Mat-Auswertung Bundestagswahl 2025: Parteienlandkarte
-  https://www.dkriesel.com/blog/2025/0206_wahl-o-mat-auswertung_bundestagswahl_2025_parteienlandkarte
 
 ## Transparenz
 * Ende von FragDenStaat in Papierform, denn Presse, das sind auch Online-Medien.
