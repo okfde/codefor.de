@@ -18,6 +18,7 @@ links:
 
 collaborators:
 - name: David Bornemann
+- name: Felix-Claudius Dietz
 - name: Aurelius Wendelken
 
 tags:

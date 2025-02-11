@@ -10,14 +10,11 @@ aliases:
 - /fl
 
 members:
+- name: Felix-Claudius Dietz
 - name: Roald Christesen
-
 - name: Chantal Butenberg
-
 - name: David Bornemann
-
 - name: Oliver Lemke-Lohnert
-
 - name: Aurelius Wendelken
 
 
