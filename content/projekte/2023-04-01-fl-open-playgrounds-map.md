@@ -15,14 +15,11 @@ links:
   name: Website
 
 collaborators:
-- name: Aurelius Wendelken
-
+- name: Felix-Claudius Dietz
 - name: Roald Christesen
-
 - name: Alexander Eichhorn
-
+- name: Aurelius Wendelken
 - name: Steffen Kunst
-
 - name: Gabi Ritter
 
 tags:

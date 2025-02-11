@@ -17,14 +17,12 @@ links:
   name: Website
 
 collaborators:
+- name: David Bornemann
+- name: Felix-Claudius Dietz
 - name: Aurelius Wendelken
-
 - name: Roald Christesen
-
 - name: Alexander Eichhorn
-
 - name: Steffen Kunst
-
 - name: Gabi Ritter
 
 tags:

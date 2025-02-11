@@ -15,6 +15,7 @@ links:
   name: API
 
 collaborators:
+- name: Felix-Claudius Dietz
 - name: Aurelius Wendelken
 - name: Roald Christesen
 

@@ -17,10 +17,10 @@ links:
   name: Website
 
 collaborators:
+- name: David Bornemann
+- name: Felix-Claudius Dietz
 - name: Aurelius Wendelken
-
 - name: Alexander Eichhorn
-
 - name: Steffen Kunst
 
 tags:

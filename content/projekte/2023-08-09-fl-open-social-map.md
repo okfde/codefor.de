@@ -19,16 +19,13 @@ links:
   name: Aktueller Entwicklungstand
 
 collaborators:
+- name: David Bornemann
+- name: Felix-Claudius Dietz
 - name: Aurelius Wendelken
-
 - name: Roald Christesen
-
 - name: Chantal Butenberg
-
 - name: Steffen Kunst
-
 - name: Gosia Tutaj
-
 - name: Gabi Ritter
 
 tags:
