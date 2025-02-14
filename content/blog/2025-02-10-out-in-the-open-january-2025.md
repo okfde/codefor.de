@@ -45,11 +45,19 @@ type: blog
   https://www.dkriesel.com/blog/2025/0206_wahl-o-mat-auswertung_bundestagswahl_2025_parteienlandkarte
 * Reformvorschläge der Parteien zur Bundestagswahl 2025: Finanzielle Auswirkungen
   https://ftp.zew.de/pub/zew-docs/gutachten/Bundestagswahlprogramme_ZEW_2025.pdf
+* Wen würden die Steuerpläne der Parteien entlasten?
+  https://de.statista.com/infografik/33786/veraenderung-des-verfuegbaren-jahreseinkommens-eines-musterhaushaltes-nach-parteiprogramm/
 * WWF Zukunftswahl-Check zur Bundestagswahl 2025
   https://www.wwf.de/themen-projekte/politische-arbeit/bundestagswahl-2025/wwf-zukunftswahl-check-2025
+* NABU-Check zur Bundestagswahl: Bewertung der Parteiprogramme zu Natur, Klima und Ehrenamt
+  https://www.nabu.de/umwelt-und-ressourcen/gesellschaft-und-politik/deutschland/wahl25/BTW25Analyse.html
+* GermanZero Faktencheck
+  https://germanzero.de/faktencheck
 * KI-Chatten mit Parteiprogammen
   * https://wahlweise.info
   * https://wahl.chat
+  * Wahl-o-tron
+    https://chatgpt.com/g/g-67a49465bb3c8191bc1b107914316b52-bundestagswahl-2025
 
 #### Auf Basis der Kandidierenden
 * abgeordnetenwatch kandidierendencheck
@@ -58,6 +66,8 @@ type: blog
   https://app.voto.vote/de
 * CORRECTIV.Sunlight – der Kandidierenden-Check
   https://correctiv.org/projekte/sunlight/
+* Der große Volksverpetzer-Check: Welcher Kandidat für ein AFD-Verbot ist
+  https://www.volksverpetzer.de/analyse/afd-verbot-check/
 
 #### Auf Basis von vergangenen Abstimmungsverhalten
 * Du kannst hier die Abstimmungen der letzten Legislaturperiode von 2021 - 2025 nachspielen, als wärst du selbst dabei gewesen! In der Auswertung siehst du, welche Parteien in deinem Sinne abgestimmt haben.
@@ -75,6 +85,12 @@ type: blog
 * radikal-o-mat.de
   https://radikal-o-mat.de/index.html
 
+#### Weitere Faktenchecks
+* whatthefact.info
+  https://www.whatthefact.info/uebersicht.html
+* WAHLFANG - Die Bundestagswahl im Netz: Hintergründe und Entscheidungshilfen
+  https://reporter4you.de/wahlfang/
+
 ### Forderungen Digitalpolitik
 * Die Zukunft der Digitalpolitik 
   * 1/3: Transformation offen & innovativ gestalten
@@ -86,6 +102,8 @@ type: blog
 * Forderungen des „Bits & Bäume“-Bündnisses zur Bundestagswahl 2025
   https://bits-und-baeume.org/forderungen/
   via https://mastodon.social/@ioew/113906510724968748
+* Civic Data Lab: Digitalpolitik zur Bundestagswahl 2025: Ambition oder vier weitere Jahre Stillstand?
+  https://civic-data.de/bundestagswahl/
 
 ### Wahlenentscheidungshilfen Digitalpolitik
 * Digital-O-Mat
@@ -101,6 +119,10 @@ type: blog
   https://www.wahlkreisprognose.de
 * zweitstimme.org
   https://zweitstimme.org
+* YouGov
+  https://yougov.de
+* election.de
+  https://www.election.de/
 
 ### Sonstiges
 * Auf unseren Aufruf für Plakate gegen Rechts haben uns hunderte Einsendungen erreicht: Plakate für eine radikal vielfältige demokratische Gesellschaft. Über 300 sind hier zu sehen und können für nicht-kommerzielle Zwecke frei verwendet werden.
@@ -278,6 +300,8 @@ type: blog
 * Seit Jahresbeginn haben mindestens 1.361.000 Menschen bundesweit gegen rechts demonstriert
   https://datawrapper.dwcdn.net/p3Ttm/992/
   https://taz.de/Karte-der-Demos-gegen-Rechts/!6067645/
+  https://www.volksverpetzer.de/aktuelles/demo-karte-2025-9-2/
+  https://www.demokrateam.org/report/
 
 ## Finanzen
 * Vergleichsportal der Bafin für Girokonten ist online
@@ -312,7 +336,6 @@ The podcast includes testimonies of 20 Survivors.
   https://www.youtube.com/watch?v=-6IFHxqGgdE
   via https://bsky.app/profile/auschwitzmemorial.bsky.social/post/3lgnmrfcp3q2a
 
-
 ## Transparenz
 * Ende von FragDenStaat in Papierform, denn Presse, das sind auch Online-Medien.
   https://mastodon.social/users/tazgetroete/statuses/113820503945834070
@@ -320,6 +343,13 @@ The podcast includes testimonies of 20 Survivors.
   https://www.zdf.de/nachrichten/politik/deutschland/bundestagswahl-kanzlerkandidaten-vermoegen-geld-aktien-100.html
 * Der Mann der Großkonzerne: Das Lobby-Netzwerk von Friedrich Merz
   https://correctiv.org/aktuelles/wirtschaft/2025/01/28/bester-mann-der-grosskonzerne-das-lobby-netzwerk-von-friedrich-merz/
+* USA
+  * DOGE: Elon Musks Team füttert sensible US-Regierungsdaten an KI
+    https://www.heise.de/news/DOGE-Elon-Musks-Team-fuettert-sensible-US-Regierungsdaten-an-KI-10273602.html
+  * US-Regierung setzt Arbeit von Verbraucherschutzbehörde aus
+    https://www.zeit.de/politik/ausland/2025-02/usa-trump-sparplaene-cfpb-musk-verbraucherschutzbehoerde
+  * Staatsstreich ist kein "Bürokratieabbau"
+    https://bsky.app/profile/thereallorenzmeyer.bsky.social/post/3lhq4ixhnak2m
 
 ## Datenhandel außer Kontrolle
 * Millionen von Standortdaten aus Apps fließen an Datenhändler ab - das zeigen Recherchen des BR mit internationalen Partnermedien
@@ -362,6 +392,8 @@ The podcast includes testimonies of 20 Survivors.
   https://freeourfeeds.com
 * European alternatives for digital products
   https://european-alternatives.eu
+* Save Social
+  https://savesocial.eu
 
 ## OpenSource
 * code.europa.eu , managed by @EC_OSPO now holds more than 200 #OpenSource projects with a total of 755 code repositories 
@@ -403,12 +435,16 @@ The podcast includes testimonies of 20 Survivors.
   https://umwelt.info/de/livestream
 * Berlin Hack & Tell
   https://bhnt.c-base.org/2025-01-28-no101-singularity-inauguration-hacks
+* ZenDiS Open Januar 2025
+  https://opencode.de/de/aktuelles/events/zendis-open-januar-111
 
 ## Und sonst so
 * anlässlich des 42-jährigen Bestehen des CCC wurden 12 Kunstprojekte, die positive Zukunftsvisionen entwickeln, mit 420 – 4200 € unterstützt 
   https://42.ccc.de
 
 ## Call for Participation
+* Open Data Day 2025 – Mini-Grants Open Call, bis 23.02.2025
+  https://blog.okfn.org/2025/02/12/open-data-day-2025-mini-grants-open-call/
 * Easterhegg 2025, bis Samstag, 01.03.2025:
   * https://events.ccc.de/2025/01/16/easterhegg-2025-call-for-participation/
 * Die FemNetzCon 2025 findet vom 4. bis 6. April 2025 in Neu-Ulm im temporärhaus statt, Anmeldeschluss: 24. Februar 2025!
