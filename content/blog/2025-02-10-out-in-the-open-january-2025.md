@@ -45,6 +45,8 @@ Dass Umfrageergebnissen das Wahlverhalten beeinflussen, belegt
 [dieser Deutschlandfunk-Artikel](https://www.deutschlandfunk.de/bundestagswahl-umfragen-100.html) und mahnt daher zur Vorsicht mit den Vorhersagen. Es ist nicht immer absehbar, ob sie zu einem [Bandwagon-Effekt (Mitläufereffekt)](https://de.wikipedia.org/wiki/Mitl%C3%A4ufereffekt) führen oder ob eher die [Underdog](https://en.wikipedia.org/wiki/Underdog)-Hypothese (Außenseitereffekt) greift. Ein Signaleffekt besteht im jeden Fall und die Tendenz zur [Selbsterfüllenden Prophezeiung](https://de.wikipedia.org/wiki/Selbsterf%C3%BCllende_Prophezeiung). Und damit auch die Verleitung, Umfragen versuchen zu manipulieren (wenn auch vielleicht nicht so dreist, wie [hier offengelegt](https://www.mimikama.org/manipulierte-grafik-umfrageergebnisse-gefaelscht/)).
 
 ### Wahlenentscheidungshilfen
+Faktenchecks und Analysen bietet der [Wahlfang](https://reporter4you.de/wahlfang/) der Reporterfabrik.  
+
 Anna Biselli [kritisiert auf netzpolitik](https://netzpolitik.org/2025/wahlpruefsteine-parteien-definieren-wer-relevant-ist/), dass nur 30 Organisationen und Verbänden von den Parteien zugelassen worden sind, ihnen Fragen zu stellen. Aus diesen Frage-Antwort-Paaren ergeben sich die Wahlprüfsteine, über die man sich schnellen Überblick zu den Positionen der Parteien verschaffen kann. Durch diese enge Auswahl fehlten nun aber digitalpolitische Gruppen und ihre Themen. Daher gibt es von diesen nun eigene Angebote, denen sich weiter unten in diesem Blogpost noch gewidmet wird.
 
 Sowohl [Handelsblatt](https://www.handelsblatt.com/politik/deutschland/wahl-o-mat-2025-diese-sechs-alternativen-helfen-bei-der-wahlentscheidung-02/100104734.html) als auch [t-online](https://www.t-online.de/nachrichten/deutschland/bundestagswahl/id_100591238/wahl-o-mat-alternative-das-koennen-real-o-mat-wahl-kompass-und-co-.html) vergleichen die dieses Jahr verfügbaren digitalen Wahlentscheidungshelfer.
@@ -91,50 +93,32 @@ Der [Fediverse Activity Tracker](https://rstockm.github.io/fedipol/) bietet zwar
 erfasst aber Accounts von Parteien und Politikern im Fediverse (konkret Mastodon) und deren Aktivität. Technisch umgesetzt wurde dies als SPARQL-Abfrage auf den Wikidata-Einträge (Parteizugehörigkeit, aktives Amt) und den Accountlisten der Instanzen, die [hier](https://codeberg.org/open/fedipolitik) gepflegt werden. Man könnte also über diesen Weg in direkten Kontakt mit den Parteien und Kandidaten treten und seine Fragen los werden.
 
 #### Auf Basis von vergangenen Abstimmungsverhalten
-* Du kannst hier die Abstimmungen der letzten Legislaturperiode von 2021 - 2025 nachspielen, als wärst du selbst dabei gewesen! In der Auswertung siehst du, welche Parteien in deinem Sinne abgestimmt haben.
-  https://btw25.deinwal.de/home
-* Mit unserem Koalitionstracker haben wir drei Jahre lang die angekündigten Pläne der Ampel-Koalition überwacht. Die abschließende Auswertung zeigt: Nur jedes vierte Vorhaben wurde umgesetzt. 
-  https://fragdenstaat.de/artikel/exklusiv/2025/01/kaum-fortschritt-von-der-forschrittskoalition/
-  * https://real-o-mat.de
-    via https://bsky.app/profile/fragdenstaat.de/post/3lguk7d5o3c2j
-    https://chaos.social/@fragdenstaat/113917768794771407
-    https://real-o-mat.de/methodik/
+In Wahlprogrammen kann man viel versprechen, aber wie sah das tatsächliche Abstimmungsverhalten von Parteien bzw. deren Abgeordneten in der vergangene Legislatur aus? Bei [DeinWal zur Bundestagswahl 2025](https://btw25.deinwal.de/home) kann man die Abstimmungen selbst nochmal durchspielen und mit denen der Parteien vergleichen. 
+
+Der [Real-O-Mat](https://real-o-mat.de/) von [FragDenStaat](https://fragdenstaat.de/) funktioniert nach dem gleichen Ansatz. Auf einer eigenen Unterseite wird trotzdem nochmal ausführlich [auf Zielsetzung und Methodik](https://real-o-mat.de/methodik/) eingangen, da es zum Teil zu Verwirrung und Kritik an den als überraschend empfundenen Ergebnissen gegeben hat. Durch die Fraktionsdisziplin oder im Fall der Regierung der notwendigen Koalitionstreue zum Erzielen von Mehrheiten im Parlament müssen Parteien / Abgeordnete im Zuge gefundener Kompromisse manchmal auch entgegen ihrer eigentlichen Meinung abstimmen. Das sollte man entsprechend beachten, wenn man die finale Auswertung betrachtet und im Zweifelsfall nochmal den Kontext von Entscheidungsfindungen betrachten. Das Abstimmungsverhalten hat trotzdem eine Aussagekraft, da es Rückschlüsse auf das Verhandlungsgeschick einzelner Parteien zulässt. Im Idealfall sollte in der Gesamtsumme aller Abstimmungen immer noch das Profil der Partei sichtbar sein. Wenn man sich aber zu häufig nicht gegen seine Koalitionspartner hat durchsetzen können (bzw. diesen Kompromisse hat abringen können) und stattdessen eher ein Krötenschluckautomat ist, dann nützen die besten Absichten im Wahlprogramm nichts. Am Ende ist ein:e Abgeordnete:r im Bundestag nach [Artikel 38 GG](https://de.wikipedia.org/wiki/Artikel_38_des_Grundgesetzes_f%C3%BCr_die_Bundesrepublik_Deutschland) "lediglich seinem Gewissen unterworfen". Und wenn man meint dauerhaft gegen seine Überzeugung abstimmen zu müssen, nur um seinen Posten zu behalten, dann sollte man es besser ganz sein lassen.
+
+Die Abstimmungen der für einen relevanten Abgeordneten kann man zudem auf [abgeordnetenwatch.de](https://www. abgeordnetenwatch.de/) nachvollziehen, indem man auf das Profil des jeweiligen Abgeordneten geht und dort den Reiter "Abstimmungen" öffnet.
 
 #### Sonstige
-* postill-o-mat
-  https://www.der-postillon.com/2025/02/postill-o-mat-bundestagswahl-2025.html
-* radikal-o-mat.de
-  https://radikal-o-mat.de/index.html
-* Mietwucher-Check
-  https://www.mietwucher.app/de
-  https://www.mdr.de/nachrichten/deutschland/gesellschaft/mietwucher-app-linke-leipzig-erfurt-mietminderung-rueckzahlung-104.html
-
-#### Weitere Faktenchecks
-* whatthefact.info
-  https://www.whatthefact.info/uebersicht.html
-* WAHLFANG - Die Bundestagswahl im Netz: Hintergründe und Entscheidungshilfen
-  https://reporter4you.de/wahlfang/
+Der Vollständigkeit halber sollen hier auch noch einige "Wahlhilfen" genannt werden, die entweder nicht ganz ernst gemeint sind (wie der [postill-o-mat](https://www.der-postillon.com/2025/02/postill-o-mat-bundestagswahl-2025.html)) oder auch parteipolitisch gefärbt sind (wie der [radikal-o-mat.de](https://radikal-o-mat.de/index.html) von den Linken). Von den Linken in Auftrag gegeben wurde auch der [Mietwucher-Check](https://www.mietwucher.app/de), der aber auch beim [Mieterbund positiv aufgenommen wurde](https://www.mdr.de/nachrichten/deutschland/gesellschaft/mietwucher-app-linke-leipzig-erfurt-mietminderung-rueckzahlung-104.html).
 
 ### Forderungen Digitalpolitik
-* Die Zukunft der Digitalpolitik 
-  * 1/3: Transformation offen & innovativ gestalten
-    https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-1/3-transformation-offen-innovativ-gestalten/
-  * 2/3: Handlungsfähigkeit stärken & Vertrauen zurückgewinnen
-    https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-2/3-handlungsf%C3%A4higkeit-st%C3%A4rken-vertrauen-zur%C3%BCckgewinnen/  
-  * 3/3: Demokratie schützen & Zivilgesellschaft stärken
-    https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-3/3-demokratie-sch%C3%BCtzen-zivilgesellschaft-st%C3%A4rken/
-* Forderungen des „Bits & Bäume“-Bündnisses zur Bundestagswahl 2025
-  https://bits-und-baeume.org/forderungen/
-  via https://mastodon.social/@ioew/113906510724968748
-* Civic Data Lab: Digitalpolitik zur Bundestagswahl 2025: Ambition oder vier weitere Jahre Stillstand?
-  https://civic-data.de/bundestagswahl/
+Zur Zukunft der Digitalpolitik hat unser Träger, die [Open Knowledge Foundation](https://okfn.de/) in drei Blogposts Forderungen an die nächste Bundesregierung formuliert. [Im ersten Teil](https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-1/3-transformation-offen-innovativ-gestalten/) geht es um die Forderung, die digitale Transformation offen zu gestalten, d.h. auf Open-Source-Ökosysteme als resiliente digitale Infrastruktur zu setzen, sowie auf moderne und zukunftsfähige Datenmanagementsysteme verbunden mit einem Rechtsanspruch auf Open Data.  Digitalpolitik sollte generell als Gesellschaftspolitik verstanden werden. 
+
+[Im zweiten Teil](https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-2/3-handlungsf%C3%A4higkeit-st%C3%A4rken-vertrauen-zur%C3%BCckgewinnen/) der Reihe wird die Forderung nach einem Bundes-Transparenzgesetz erneuert, das die bereitwillige Veröffentlichung staatlicher Informationen festschreiben soll. Zudem sollte der §5 des Urheberrechtsgesetzes in der Art modernisiert werden, dass die Definition davon, was ein amtliches Werk ist, viele Nutzungs- und Lizenzunsicherheiten bereits von Vornherein ausräumt. Es sollte zudem Grundsatz gefolgt werden: weniger Projektförderung, mehr Strukturförderung (also weniger Leuchtturmprojekte sondern langfristige Finanzierung von Infrastrukturen). Kommunen sollten mehr unterstützt werden, Kompetenzen aufzubauen, um zumindest informierte Entscheidungen bei öffentliche Ausschreibungen treffen zu können. Hier würde auch der organisierte Austausch über Best Practices und mehr kommunale Kooperationen auch zusammen mit der Zivilgesellschaft vor Ort helfen. So ließe sich auch das Vertrauen in die Institutionen wieder stärken.
+
+[Der letzte Teil](https://okfn.de/blog/2025/01/die-zukunft-der-digitalpolitik-3/3-demokratie-sch%C3%BCtzen-zivilgesellschaft-st%C3%A4rken/) beschäftigt sich mit der Rolle der Zivilgesellschaft und der Förderung von demokratischen Teilhabe. Dazu wird eine Reform des Gemeinnützigkeitsrechts vorgeschlagen, die für mehr Rechtssicherheit für gemeinnützige Organisationen sorgen soll. Klarere Regeln für die Anerkennung der Gemeinnützigkeit von Open-Source-Projekten würden ebenfalls helfen. Mit der Einführung eines Freiwilliges Soziales Jahr Digital könnten besonders junge Menschen mit Interesse an Digitalthemen gezielt gefördert werden. Dabei könnten gleich Open Educational Resources (OER) stärker gefördert werden. Generell sollte die Zivilgesellschaft stärker in Entscheidungsprozesse eingebunden werden, in dem sie z.B. in Entscheidungsgremien fest entsendet wird.
+
+Auch das ["Bits & Bäume"](https://bits-und-baeume.org/)-Bündnis hat [seine digitalpolitschen Forderungen](https://bits-und-baeume.org/forderungen/) formuliert: auch sie fordern ein Bundestransparenzgesetz und die Förderung von Open Source im Sinne von "Public Money – Public Code!“ zur Erlangung souveräner digitaler Infrastrukturen. Sie legen aber auch den Schwerpunkt auf eine ressourcenarme Digitalisierung, d.h. z.B. den Ressourcenverbrauch von künstlicher Intelligenz (KI) über den gesamten Lebenszyklus transparent zu machen oder auch durch nachhaltige öffentliche Förderung passende Innovationsanreize gesetzt werden. Digitalisierung macht auch nicht an Ländergrenzen halt, so dass entsprechend die EU-Lieferkettenrichtlinie umgesetzt werden muss, Wissens- und Technologietransfer in der Entwicklungszusammenarbeit priorisiert werden muss und Plattformarbeiter:innen besser geschützt werden müssen, indem die Europäische Richtlinie zur Plattformarbeit umgesetzt wird. 
+
+Oliver Bott, Projektmanager im Bereich "Digitalisierte Gesellschaft" der Stiftung Mercator, [analysiert kritisch auf dem Blog von Civic Data Lab](https://civic-data.de/bundestagswahl/) wie sich die Parteien in ihren Wahlprogrammen zu Themen wie Transparenz und Offene Daten, Kulturwandel hin zum Digitaler Staat und Rolle der Zivilgesellschaft positionieren.
 
 ### Wahlenentscheidungshilfen Digitalpolitik
-* Digital-O-Mat
-  https://digitalomat25.de
-  https://codeberg.org/kdv/digital-o-mat/
-* Digital-Thesen-Check von D64 zur Bundestagswahl 2025
-  https://digital25.d-64.org
+Noch etwas systematscher verfährt der [Digital-Thesen-Check von D64 zur Bundestagswahl 2025](https://digital25.d-64.org), der die Positionen der einzelnen Parteien in ihren Wahlprogrammen zu 8 digitalpolitischen Thesen (Open Data by Default, Open Source Beschaffung, Gesichterkennung, Vorratsdatenspeicherung, IT-Sicheheit, Hass im Netz, Anonymität im Netz, Barrierfreiheit) zuordnet.
+
+Der [Digital-O-Mat](https://digitalomat25.de) des [Kleindatenvereins](https://kleindatenverein.org) prüft analog zum Wahl-O-Mat 11 Digitale Themen ab. Der Code des Tools steht konsequenterweise auch [Open Source](https://codeberg.org/kdv/digital-o-mat/).
+
+  
 * Bitkomat
   https://www.bitkom.org/Bitkomat-Bundestagswahl
 
