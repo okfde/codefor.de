@@ -118,28 +118,31 @@ Noch etwas systematscher verfährt der [Digital-Thesen-Check von D64 zur Bundest
 
 Der [Digital-O-Mat](https://digitalomat25.de) des [Kleindatenvereins](https://kleindatenverein.org) prüft analog zum Wahl-O-Mat 11 Digitale Themen ab. Der Code des Tools steht konsequenterweise auch [Open Source](https://codeberg.org/kdv/digital-o-mat/).
 
-  
-* Bitkomat
-  https://www.bitkom.org/Bitkomat-Bundestagswahl
+20 Fragen hat der [Bitkomat](https://bitkomat.de/2025-bund/) im Angebot. Im [Bitkomat Check](https://www.bitkom.org/Bitkomat-Check-zur-Bundestagswahl) gibt es zudem Interviews mit Parteivertretern sowohl [hier](https://www.bitkom.org/bundestagswahl-2025) die Forderung der Bitkom.
 
 ## Transparenz
-* Ende von FragDenStaat in Papierform, denn Presse, das sind auch Online-Medien.
-  https://mastodon.social/users/tazgetroete/statuses/113820503945834070
-* Spitzenkandidaten schweigen zu Aktienvermögen: Experten sehen die Gefahr von Interessenkonflikten
-  https://www.zdf.de/nachrichten/politik/deutschland/bundestagswahl-kanzlerkandidaten-vermoegen-geld-aktien-100.html
-* Der Mann der Großkonzerne: Das Lobby-Netzwerk von Friedrich Merz
-  https://correctiv.org/aktuelles/wirtschaft/2025/01/28/bester-mann-der-grosskonzerne-das-lobby-netzwerk-von-friedrich-merz/
+Wie gehen Politiker mit potenziellen Interessenkonflikten um? [Correctiv](https://correctiv.org/) hat das [Lobby-Netzwerk von Friedrich Merz untersucht](https://correctiv.org/aktuelles/wirtschaft/2025/01/28/bester-mann-der-grosskonzerne-das-lobby-netzwerk-von-friedrich-merz/). Der CDU-Slogan "Fleiß müsse wieder im Geldbeutel spürbar werden" sagt nicht aus, in wessen Geldbeutel. Welche Interessen wird Merz vertreten, wenn er Bundeskanzler werden sollte, wenn jetzt schon das CDU-Wahlprogramm teils wortgenau mit Forderungen der Chemie- und Metallindustrie übereinstimmt?
+
+In einem ZDF-Beitrag [wird zudem bemängelt](https://www.zdf.de/nachrichten/politik/deutschland/bundestagswahl-kanzlerkandidaten-vermoegen-geld-aktien-100.html), dass die Spitzenkandidaten der Parteien teilweise nicht ihre Aktienvermögen transparent offen legen. Wenn es nach Abgeordnetenwatch geht, sollte daher nach französischem Vorbild das Vermögen von Regierungsmitgliedern verpflichtend offengelegt werden, um mögliche Interessenskonflikte sichtbar zu machen.
 
 ## Entwicklungen in den USA
-  * DOGE: Elon Musks Team füttert sensible US-Regierungsdaten an KI
-    https://www.heise.de/news/DOGE-Elon-Musks-Team-fuettert-sensible-US-Regierungsdaten-an-KI-10273602.html
-  * US-Regierung setzt Arbeit von Verbraucherschutzbehörde aus
-    https://www.zeit.de/politik/ausland/2025-02/usa-trump-sparplaene-cfpb-musk-verbraucherschutzbehoerde
-  * Staatsstreich ist kein "Bürokratieabbau"
-    https://bsky.app/profile/thereallorenzmeyer.bsky.social/post/3lhq4ixhnak2m
-  * Archivists Work to Identify and Save the Thousands of Datasets Disappearing From Data.gov
-    https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/
-    https://framapiaf.org/@macgraveur/113921743152922311
+Ein Vorgeschmack, was auch bei uns drohen könnte, zeigen die Entwicklung nach der Amtsübernahme von Donald Trump in den USA. Dass gewisse der eigenen Ideologie unliebsame Inhalte von Regierungsseiten entfernt werden (z.B. zu Klimawandel und Geschlechterpolitik), kannte man schon aus der ersten Amtszeit. So versuchen derzeit Aktivisten [Datensätze zu retten](https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/), die gerade von data.gov verschwinden. Neben dem [Austieg aus der Weltgesundheitsorganisation (WHO)](https://www.t-online.de/nachrichten/ausland/internationale-politik/id_100580470/trump-beschliesst-austritt-der-usa-aus-der-who-das-trifft-die-welt-hart.html), die damit nicht nur tiefe Finanzlöcher reißt, [setzt die US-Regierung, konkret Elon Musk, nun auch die Arbeit der Verbraucherschutzbehörde aus](https://www.zeit.de/politik/ausland/2025-02/usa-trump-sparplaene-cfpb-musk-verbraucherschutzbehoerde). Elon Musks Abteilung für Regierungseffizienz (Department of Government Efficiency" ("DOGE")) ist es auch, das [eine KI mit sensiblen US-Regierungsdaten füttern möchte](https://www.heise.de/news/DOGE-Elon-Musks-Team-fuettert-sensible-US-Regierungsdaten-an-KI-10273602.html), um so massive Kostensenkungen abzuleiten. Zuvor erhielt er schon {Zugang zu sämtlichen Daten des Zahlungssystems des US-Finanzministeriums}(https://www.welt.de/politik/ausland/article255317954/Elon-Musk-erhaelt-Zugang-zum-Zahlungssystem-des-US-Finanzministeriums-und-damit-zu-sensiblen-Daten.html), und damit zu persönlichen Daten von Millionen von Amerikanern, die Gelder von der Regierung erhalten, wie z.B. aus der Sozialversicherung oder Steuerrückzahlungen. Ob es dabei zu möglichen Interessenskonflikten (wie z.B. Einblick in Wirtschaftsdaten von Konkurrenten von Musks Firmen) kommt, möchte Musk für sich selbst entscheiden. Man nennt es auch Realsatire. [heise hat zusammengefasst](https://www.golem.de/news/buerokratischer-staatsstreich-wie-elon-musk-us-behoerden-demontiert-2502-193029-5.html), zu welchen Daten Musk bereits Zugriff erlangt hat. [Der gesamte Artikel](https://www.golem.de/news/buerokratischer-staatsstreich-wie-elon-musk-us-behoerden-demontiert-2502-193029.html) beschreibt den de faco vollzogenen [kalten Staatsstreich](https://www.rnd.de/politik/elon-musk-staatsstreich-wie-der-tesla-chef-die-us-regierung-unterwandert-EJLGSXVUTFDHPIPFC3M7LC2STY.html), während die Tagesschau und anderen Medien verharmlosend [noch von "Bürokratieabbau" sprechen](https://bsky.app/profile/thereallorenzmeyer.bsky.social/post/3lhq4ixhnak2m).
+
+In Deutschland deuten sich bei einem Regierungswechsel [ähnliche Bestebungen an](https://bsky.app/profile/denniskberlin.bsky.social/post/3lhol4puub223).
+
+## Datenhandel außer Kontrolle
+* Millionen von Standortdaten aus Apps fließen an Datenhändler ab - das zeigen Recherchen des BR mit internationalen Partnermedien
+  https://www.tagesschau.de/investigativ/br-recherche/standortdaten-apps-datenhandel-100.html
+  * 380 Millionen Standortdaten aus 137 Ländern: Ein bislang unbekannter Datensatz zeigt so umfangreich wie nie zuvor Gefahren des globalen Datenhandels
+    https://netzpolitik.org/2025/databroker-files-neuer-datensatz-enthuellt-40-000-apps-hinter-standort-tracking/
+  * Die Karte zeigt Daten einer Stunde. 
+    https://ard.social/@br_data/113830803391096702
+  * Wetter Online listet mehr als 800 Firmen auf, mit denen das Unternehmen Daten teilt. “Ich glaube, es ist unmöglich, bei zum Beispiel 850 Empfängern noch irgendwie nachzuvollziehen, wer diese Unternehmen tatsächlich sind", sagt der Datenschutz-Jurist Martin Baumann von @noybeu
+    https://ard.social/@br_data/113830810833634407
+  * Jetzt testen: Wurde mein Handy-Standort verkauft?
+    https://netzpolitik.org/2024/databroker-files-jetzt-testen-wurde-mein-handy-standort-verkauft/
+* Subaru: Autos gehackt – und riesige Sammlung mit Standortdaten entdeckt
+  https://www.heise.de/news/Dank-Javascript-Autos-von-Subaru-liessen-sich-aus-der-Ferne-uebernehmen-10254605.html
 
 ## Digitale Souveränität
 * Facebook sperrt Links zu Instagram-Alternative Pixelfed
@@ -164,19 +167,6 @@ Der [Digital-O-Mat](https://digitalomat25.de) des [Kleindatenvereins](https://kl
 * Save Social
   https://savesocial.eu
 
-## Datenhandel außer Kontrolle
-* Millionen von Standortdaten aus Apps fließen an Datenhändler ab - das zeigen Recherchen des BR mit internationalen Partnermedien
-  https://www.tagesschau.de/investigativ/br-recherche/standortdaten-apps-datenhandel-100.html
-  * 380 Millionen Standortdaten aus 137 Ländern: Ein bislang unbekannter Datensatz zeigt so umfangreich wie nie zuvor Gefahren des globalen Datenhandels
-    https://netzpolitik.org/2025/databroker-files-neuer-datensatz-enthuellt-40-000-apps-hinter-standort-tracking/
-  * Die Karte zeigt Daten einer Stunde. 
-    https://ard.social/@br_data/113830803391096702
-  * Wetter Online listet mehr als 800 Firmen auf, mit denen das Unternehmen Daten teilt. “Ich glaube, es ist unmöglich, bei zum Beispiel 850 Empfängern noch irgendwie nachzuvollziehen, wer diese Unternehmen tatsächlich sind", sagt der Datenschutz-Jurist Martin Baumann von @noybeu
-    https://ard.social/@br_data/113830810833634407
-  * Jetzt testen: Wurde mein Handy-Standort verkauft?
-    https://netzpolitik.org/2024/databroker-files-jetzt-testen-wurde-mein-handy-standort-verkauft/
-* Subaru: Autos gehackt – und riesige Sammlung mit Standortdaten entdeckt
-  https://www.heise.de/news/Dank-Javascript-Autos-von-Subaru-liessen-sich-aus-der-Ferne-uebernehmen-10254605.html
 
 ## Open Data
 * Wege der Metadaten
