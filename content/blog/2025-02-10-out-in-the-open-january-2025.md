@@ -11,6 +11,8 @@ og_image: out-in-the-open-2025-01-header.jpg
 type: blog
 ---
 
+Disclaimer: wegen der anstehenden Bundestagswahl sind diesmal auch Quellen, die erst im Februar erschienen sind, mit eingeflossen.
+
 ## 80 Jahre Befreiung von Auschwitz
 Am 27. Januar jährte sich die [Befreiung](https://de.wikipedia.org/wiki/Befreiung_des_Konzentrationslagers_Auschwitz) des Konzentrationslagers Auschwitz](https://www.wikidata.org/wiki/Q663764) zum 80-ten Mal. [Im Podcast des Auschwitz Memorials](https://www.youtube.com/watch?v=-6IFHxqGgdE) kann man mehr über die Vorbereitung der Befreiungsoperation und ihre eigentliche Durchführung erfahren, bei der schließliche 7.500 Gefangene, darunter 500 Kinder befreit werden konnten. Die wenigen erhalten gebliebenen [Personalbögen, so genannten "Stärkebüchern" und Arbeitseinsatzprofilen](https://www.auschwitz.org/en/museum/about-the-available-data/registers-and-cards/) dokumentieren die grausame Lagerverwaltungsmachinerie. Dass solche Dokumente überhaupt digitalisiert vorliegen ist auch vielen Freiwilligen zu verdanken. So haben in der diesjährigen Every-Name-Counts-Challenge des [Arolsen Archives](https://arolsen-archives.org) rund 60.000 Freiwillige geholfen, [über 80.000 Dokumente zu digitalisieren](https://arolsen-archives.org/news/gigantischer-erfolg-der-everynamecounts-challenge-zum-80-jahrestag-der-auschwitz-befreiung/), wie z.B. solche [Häftlings-Personal-Karten](https://eguide.arolsen-archives.org/archiv/anzeige/haeftlings-personal-karte/). Auf der [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu) finden sich [Metadaten]((https://portal.ehri-project.eu/units/de-002409-de_its_1_1_2)) zu weiteren Datensätzen. Digitale Werkzeuge, die im Zuge ihrer Forschung entstanden sind, stehen zudem Open Source [auf Github](https://github.com/EHRI/ehri-data-analysis-tools). Auf [victims.auschwitz.org](https://victims.auschwitz.org) lässt sich die Chronologie der Deportationen nachvollziehen.
 
@@ -28,7 +30,7 @@ Dabei hat bereits 1969 der spätere Bundespräsident [Walter Scheel erkannt](htt
 Stattdessen denken die Parteien nur von der Wand bis zur Tapete und überbieten sich in ihrem Aktionismus damit, wer mehr abschiebt. In ihrer Analyse der repräsentativen R+V-Langzeitstudie ["Die Ängste der Deutschen"](https://www.die-aengste-der-deutschen.de/) kommt Professorin Borucki zum Schluss: "Ein respektloser und taktisch motivierter Umgang untereinander verstärkt das Misstrauen in die Politik insgesamt." 
 
 ## Bundestagswahl 2025
-Tim Fangmeyer hat [eine Linksammlung](https://hackmd.okfn.de/bundestagswahl_2025_linksammlung?view) mit den wichtigsten Informationen zum Bundestagswahlkampf 2025 [zusammengestellt](https://norden.social/@datenschatz/113935378940409183).
+Tim Fangmeyer hat [eine Linksammlung](https://hackmd.okfn.de/bundestagswahl_2025_linksammlung?view) mit den wichtigsten Informationen zum Bundestagswahlkampf 2025 [zusammengestellt](https://norden.social/@datenschatz/113935378940409183). Im Folgenden wird es daher auch zu Überschneidungen aber auch Ergänzungen kommen.
 
 ### Prognosen
 Bei [wahlen.info](https://www.wahlen.info/demokratie/umfrageinstitute/) kann man sich einen Überblick über die in Deutschland aktiven Umfrageinstitute verschaffen. Die Seite thematisiert dabei auch deren Finanzierung, Eigentümerstuktur und teilweise nachgesagter Nähe zu Parteien, um so deren Unabhängigkeit bei ihren Prognosen besser beurteilen zu können.
@@ -43,22 +45,27 @@ Dass Umfrageergebnissen das Wahlverhalten beeinflussen, belegt
 [dieser Deutschlandfunk-Artikel](https://www.deutschlandfunk.de/bundestagswahl-umfragen-100.html) und mahnt daher zur Vorsicht mit den Vorhersagen. Es ist nicht immer absehbar, ob sie zu einem [Bandwagon-Effekt (Mitläufereffekt)](https://de.wikipedia.org/wiki/Mitl%C3%A4ufereffekt) führen oder ob eher die [Underdog](https://en.wikipedia.org/wiki/Underdog)-Hypothese (Außenseitereffekt) greift. Ein Signaleffekt besteht im jeden Fall und die Tendenz zur [Selbsterfüllenden Prophezeiung](https://de.wikipedia.org/wiki/Selbsterf%C3%BCllende_Prophezeiung). Und damit auch die Verleitung, Umfragen versuchen zu manipulieren (wenn auch vielleicht nicht so dreist, wie [hier offengelegt](https://www.mimikama.org/manipulierte-grafik-umfrageergebnisse-gefaelscht/)).
 
 ### Wahlenentscheidungshilfen
-* Wahlprüfsteine: Parteien definieren, wer relevant ist: Doch in diesem Jahr darf nur ein exklusiver Club aus 30 Organisationen und Verbänden Fragen stellen. Digitalpolitische Gruppen fehlen komplett.
-  https://netzpolitik.org/2025/wahlpruefsteine-parteien-definieren-wer-relevant-ist/
-* Wahl-O-Mat 2025: Diese sechs Alternativen helfen bei der Wahlentscheidung
-  https://www.handelsblatt.com/politik/deutschland/wahl-o-mat-2025-diese-sechs-alternativen-helfen-bei-der-wahlentscheidung-02/100104734.html  
-* Bundestagswahl 2025: Wahl-O-Mat-Alternativen: Parteiprogramme vergleichen
-  https://www.t-online.de/nachrichten/deutschland/bundestagswahl/id_100591238/wahl-o-mat-alternative-das-koennen-real-o-mat-wahl-kompass-und-co-.html
+Anna Biselli [kritisiert auf netzpolitik](https://netzpolitik.org/2025/wahlpruefsteine-parteien-definieren-wer-relevant-ist/), dass nur 30 Organisationen und Verbänden von den Parteien zugelassen worden sind, ihnen Fragen zu stellen. Aus diesen Frage-Antwort-Paaren ergeben sich die Wahlprüfsteine, über die man sich schnellen Überblick zu den Positionen der Parteien verschaffen kann. Durch diese enge Auswahl fehlten nun aber digitalpolitische Gruppen und ihre Themen. Daher gibt es von diesen nun eigene Angebote, denen sich weiter unten in diesem Blogpost noch gewidmet wird.
 
-#### Auf Basis der Parteiprogramme bzw. direkte Antworten der Parteien
-* Wahl-o-Mat: 
-  https://www.bpb.de/themen/wahl-o-mat/ 
-* Wahlswiper: 
-  https://www.voteswiper.org/de
-* Wahl-Kompass
-  https://wahl-kompass.de/de/
-* steuer-o-mat
-  https://www.smartsteuer.de/online/steuer-o-mat/
+Sowohl [Handelsblatt](https://www.handelsblatt.com/politik/deutschland/wahl-o-mat-2025-diese-sechs-alternativen-helfen-bei-der-wahlentscheidung-02/100104734.html) als auch [t-online](https://www.t-online.de/nachrichten/deutschland/bundestagswahl/id_100591238/wahl-o-mat-alternative-das-koennen-real-o-mat-wahl-kompass-und-co-.html) vergleichen die dieses Jahr verfügbaren digitalen Wahlentscheidungshelfer.
+
+In den nächsten Abschnitten soll dennoch diese und weitere Alternativen aufgegriffen werden. Sie werden getrennt nach ihrem Ansatz behandelt.  
+
+#### Auf Basis der Parteiprogramme / direkten Antworten der Parteien
+Beim [Wahl-O-Mat](https://www.bpb.de/themen/wahl-o-mat/) der [Bundeszentrale für politische Bildung (bpb)](https://www.bpb.de/) werden von auf Grundlage der Partei- und Wahlprogramme 38 relevante Thesen formuliert und den Parteien zur Beantwortung zugesandt. Der genaue Prozess [ist hier dokumentiert](https://www.bpb.de/themen/wahl-o-mat/45292/die-entstehung-eines-wahl-o-mat/). Thesen kann man zustimmen, ablehnen oder als neutral bewerten. Thesen, die einem besonders wichtig sind, kann man doppelt gewichten. Einem Nutzer in unserem Code-for-Germany-Netzwerks ist allerdings aufgefallen, dass die Seite ein Tracking-Pixel nutzt. Das Wahl-o-mat Team konnte aber glauhaft versichern, dass das Pixel nur zum Zählen der Zugriffe dient und dass die IP-Adressen der Nutzenden in keinem Fall gespeichert werden. Stattdessen wird eine zufällige ID vergeben, die keinen Bezug zur IP hat. Die Anonymität ist somit defintiv gewährleistet.
+
+Ähnlich funktioniert der [Wahlswiper](https://www.voteswiper.org/de/deutschland/bundestagswahl-2025). Dieser hat ebenfalls 38 Fragen an die Parteien gestellt. Sie durfen sie aber nur mit "Ja" oder "Nein" beantworten, enthalten war nicht möglich.
+
+Von Prof. Dr. Norbert Kersting (Universität Münster) und seinem wissenschaftlichen Team wurde der [Wahl-Kompass](https://wahl-kompass.de/de/) entwickelt. Auch bilden die Parteiprogrammen aber auch die Antworten der Parteien zu den daraus abgeleiteten Thesen die Basis. Im Gegensatz zu den beiden bisher behandelten Tools kann man hier wie in einem richtigen Fragebogen auf einer Skala seine Stärke der Zustimmung oder Ablehnung bzw. auch neutrale oder keine Meinung ausdrücken. Die eigene Position als auch die der Parteien wird schließlich in einem Diagramm in einem links/rechts-progressiv/konservativ-Schema eingeordnet, Einzelpositionen lassen sich aber auch vergleichen.  
+  
+Der [steuer-o-mat](https://www.smartsteuer.de/online/steuer-o-mat/) der smartsteuer GmbH hat aus den Wahlprogrammen 18 Fragen speziell zur Steuerpolitik abgeleitet. Diese wurden den Parteien aber nicht extra vorgelegt sondern man hat die Antworten aus den Aussagen in den Programmen abgeleitet.
+
+#### Chatten mit Wahlprogammen
+Bei [Wahlweise](https://wahlweise.info/) kann man übergreifend mit den Wahlprogrammen der Parteien chatten. Da das Tool KI-basiert ist, fehlen allerdings in den Antworten Verweise auf die konkreten Textstellen in den jeweiligen Programmen und sollte daher immer Zweifel nochmal selbst nachgelesen werden.
+
+Auch bei [wahl.chat](https://wahl.chat) werden die Antworten auf Grundlage der Informationen in den öffentlich zugänglichen Partei- und Wahlprogrammen durch eine KI generiert. Die Seite weist entsprechend darauf hin, dass somit Antworten nie offizielle Parteiaussagen sein können, sie komplexe politische Positionen eventuell nicht umfassend abbilden, sie unter Umständen ungenau oder Fehlinterpretationen sein können. 
+
+Der [Wahl-O-Tron 3.000](https://chatgpt.com/g/g-67a49465bb3c8191bc1b107914316b52-bundestagswahl-2025), konfiguriert von Christoph Lauer (von Bündis90/Die Grünen) mit den Wahlprogramme der Parteien zur Bundestagswahl 2025, setzt direkt auf ChatGPT auf.
 
 #### Wahlprogrammanalysen
 * Wahl-O-Mat-Auswertung Bundestagswahl 2025: Parteienlandkarte
@@ -73,11 +80,6 @@ Dass Umfrageergebnissen das Wahlverhalten beeinflussen, belegt
   https://www.nabu.de/umwelt-und-ressourcen/gesellschaft-und-politik/deutschland/wahl25/BTW25Analyse.html
 * GermanZero Faktencheck
   https://germanzero.de/faktencheck
-* KI-Chatten mit Parteiprogammen
-  * https://wahlweise.info
-  * https://wahl.chat
-  * Wahl-o-tron
-    https://chatgpt.com/g/g-67a49465bb3c8191bc1b107914316b52-bundestagswahl-2025
 
 #### Auf Basis der Kandidierenden
 * abgeordnetenwatch kandidierendencheck
