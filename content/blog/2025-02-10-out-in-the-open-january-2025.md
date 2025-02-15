@@ -68,32 +68,27 @@ Auch bei [wahl.chat](https://wahl.chat) werden die Antworten auf Grundlage der I
 Der [Wahl-O-Tron 3.000](https://chatgpt.com/g/g-67a49465bb3c8191bc1b107914316b52-bundestagswahl-2025), konfiguriert von Christoph Lauer (von Bündis90/Die Grünen) mit den Wahlprogramme der Parteien zur Bundestagswahl 2025, setzt direkt auf ChatGPT auf.
 
 #### Wahlprogrammanalysen
-* Wahl-O-Mat-Auswertung Bundestagswahl 2025: Parteienlandkarte
-  https://www.dkriesel.com/blog/2025/0206_wahl-o-mat-auswertung_bundestagswahl_2025_parteienlandkarte
-* Reformvorschläge der Parteien zur Bundestagswahl 2025: Finanzielle Auswirkungen
-  https://ftp.zew.de/pub/zew-docs/gutachten/Bundestagswahlprogramme_ZEW_2025.pdf
-* Wen würden die Steuerpläne der Parteien entlasten?
-  https://de.statista.com/infografik/33786/veraenderung-des-verfuegbaren-jahreseinkommens-eines-musterhaushaltes-nach-parteiprogramm/
-* WWF Zukunftswahl-Check zur Bundestagswahl 2025
-  https://www.wwf.de/themen-projekte/politische-arbeit/bundestagswahl-2025/wwf-zukunftswahl-check-2025
-* NABU-Check zur Bundestagswahl: Bewertung der Parteiprogramme zu Natur, Klima und Ehrenamt
-  https://www.nabu.de/umwelt-und-ressourcen/gesellschaft-und-politik/deutschland/wahl25/BTW25Analyse.html
-* GermanZero Faktencheck
-  https://germanzero.de/faktencheck
+David Kriesel hat aus den Anworten der Parteien beim Wahl-O-Maten eine [Parteienlandkarte](https://www.dkriesel.com/blog/2025/0206_wahl-o-mat-auswertung_bundestagswahl_2025_parteienlandkarte) (Cluster-Graphen) errechnet, weist aber selbst auf die methodischen Schwächen seines Ansatzes hin. 
+
+Das Leibniz-Zentrum für Europäische Wirtschaftsforschung (ZEW) hat die Reformvorschläge der Parteien zur Bundestagswahl 2025 hinsichtlich ihrer finanziellen Auswirkungen [untersucht](https://ftp.zew.de/pub/zew-docs/gutachten/Bundestagswahlprogramme_ZEW_2025.pdf) - wen würden die Steuerpläne der Parteien entlasten? Der Datenjournalist René Bocksch vom statistischen Bundesamt hat die Daten des ZEW zur besseren Veranschaulichungen [auf einen Musterhaushalt heruntergerechnet](https://de.statista.com/infografik/33786/veraenderung-des-verfuegbaren-jahreseinkommens-eines-musterhaushaltes-nach-parteiprogramm/).
+
+Der [WWF](https://www.wwf.de/) hat die Parteien in seinem [Zukunftswahl-Check](https://www.wwf.de/themen-projekte/politische-arbeit/bundestagswahl-2025/wwf-zukunftswahl-check-2025) hinsichtlich ihrer Aussagen in ihren Wahlprogrammen zu Klimaschutz und biologischer Vielfalt bewertet, aber auch ihre Haltung zur Reform der Schuldenbremse als notwendige Voraussetzung für die Umsetzbarkeit der anderen Forderungen.  
+
+Im [NABU-Check](https://www.nabu.de/umwelt-und-ressourcen/gesellschaft-und-politik/deutschland/wahl25/BTW25Analyse.html) werden neben Umweltthemen auch die Unterstützung von Zivilgesellschaft und Ehrenamt abgeprüft.
+
+[GermanZero](https://germanzero.de/) unterzieht in den Wahlprogrammen aber auch im Wahlkampf geäußerten Aussagen [einem Faktencheck](https://germanzero.de/faktencheck).
+
+[Campact](https://www.campact.de/) bietet mit seinem [LGBTQ*-Check zur Wahl 2025](https://blog.campact.de/2025/02/lgbtq-queerpolitik-zur-bundestagswahl-2025/) Einblick in die Haltung der einzelnen Parteien zu den Rechten queerer Personen.
 
 #### Auf Basis der Kandidierenden
-* abgeordnetenwatch kandidierendencheck
-  https://www.kandidierendencheck.de/bundestag
-* Aktuell nur Direktkandidierende Wahlkreis Tübingen Bundestagswahl 2025
-  https://app.voto.vote/de
-* CORRECTIV.Sunlight – der Kandidierenden-Check
-  https://correctiv.org/projekte/sunlight/
-* Der große Volksverpetzer-Check: Welcher Kandidat für ein AFD-Verbot ist
-  https://www.volksverpetzer.de/analyse/afd-verbot-check/
-* Fediverse Activity Tracker
-  https://rstockm.github.io/fedipol/
-  https://codeberg.org/open/fedipolitik
+[abgeordnetenwatch](https://www.abgeordnetenwatch.de/) hat allen zur Bundestagswahl antretenden Kandidaten die gleichen 18 Fragen gestellt. Im [Kandidierendencheck](https://www.kandidierendencheck.de/bundestag) kann man die gleichen Fragen beantworten (mit stimme zu, lehne ab oder neutral) und bekommt nach Angabe seiner PLZ die Übereinstimmungen zu den Abgeordneten im Wahlkreis aufgeschlüsselt.
 
+Die App [Voto](https://app.voto.vote/de) bietet zwar nur den [Check für die Kandidaten im Wahlkreis Tübingen](https://app.voto.vote/de/app/14204442) an, die Fragen und die Parteizugehörigkeit der Antwortenden kann aber darüber hinaus trotzdem etwas Orientierung geben.
+
+Da es kein anderer Kandidatencheck gemacht hat, fragt der [Volksverpetzer](https://www.volksverpetzer.de/) in [seinem Check](https://www.volksverpetzer.de/analyse/afd-verbot-check/) ab, welcher Kandidat für ein AFD-Verbot ist.
+
+Der [Fediverse Activity Tracker](https://rstockm.github.io/fedipol/) bietet zwar keinen direkten Kandidaten-Check, 
+erfasst aber Accounts von Parteien und Politikern im Fediverse (konkret Mastodon) und deren Aktivität. Technisch umgesetzt wurde dies als SPARQL-Abfrage auf den Wikidata-Einträge (Parteizugehörigkeit, aktives Amt) und den Accountlisten der Instanzen, die [hier](https://codeberg.org/open/fedipolitik) gepflegt werden. Man könnte also über diesen Weg in direkten Kontakt mit den Parteien und Kandidaten treten und seine Fragen los werden.
 
 #### Auf Basis von vergangenen Abstimmungsverhalten
 * Du kannst hier die Abstimmungen der letzten Legislaturperiode von 2021 - 2025 nachspielen, als wärst du selbst dabei gewesen! In der Auswertung siehst du, welche Parteien in deinem Sinne abgestimmt haben.
