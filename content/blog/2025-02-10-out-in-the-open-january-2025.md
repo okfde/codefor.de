@@ -19,7 +19,7 @@ Trotz dieses Gedenktages, der auch im Bundestag begangen wurde, nahm die CDU/CSU
 
 Warum solcher rechter Populismus dennoch erfolgreich ist, thematisieren [Petter Törnberg](https://bsky.app/profile/pettertornberg.bsky.social/post/3lfpdx72sls2n) und Juliana Chueri [in ihrem Forschungsbericht](https://journals.sagepub.com/doi/10.1177/19401612241311886), der Desinformation und rechtsradikalen Populismus in 26 Ländern an Hand 32 Millionen Politiker-Tweets untersucht hat. Sie kommen zum Schluss, dass es ein symbiotisches Verhältnis zwischen Populisten und der Aufmerksamkeitsökonomie der Clickbait-Medien gibt. Dabei werden die radikalen Ansichten / Lügen immer dreister verbreitet. 
 
-Die Erkenntnisse lassen sich auch auf Talkshows übertragen, sei es bei [der Auswahl ihrer Gäste](https://bsky.app/profile/woutvanart.bsky.social/post/3lhcb2viygs2c), als auch der gesetzten Themen, z.B. [beim Kanzelkandidatenduell](https://bsky.app/profile/peterjelinek.bsky.social/post/3lhssgwqxns2r), bei der Sicherheit mehr Raum einnahm, als die tatsächliche Entwicklung der letzten Jahre rechtfertigen würde und dagegen über die Klimapoliti gerade mal anderthalb Minuten gesprochen wurde. Kritischer Journalismus findet nicht mehr statt. Wie auch, wenn Redaktionen und Moderator:innen jahrelang im Geschäft sind, eigene Produktionsfirmen haben und mit ihrer sozioökonomischen Stellung kaum noch Bezug zum normalen Volk haben (Priviligierte interviewen Priviligierte, wie man Unpriviligierten noch mehr wegnehmen kann). Der Deutsche Kulturrat schlägt vor, dass Talkshows [eine einjähige Pause einlegen und ihre Konzepte grundlegend überarbeiten sollten](https://www.t-online.de/nachrichten/deutschland/gesellschaft/id_83898652/nach-maischberger-eklat-kulturrat-empfiehlt-einjaehrige-talkshow-pause.html).
+Die Erkenntnisse lassen sich auch auf Talkshows übertragen, sei es bei [der Auswahl ihrer Gäste](https://bsky.app/profile/woutvanart.bsky.social/post/3lhcb2viygs2c), als auch der gesetzten Themen, z.B. [beim Kanzelkandidatenduell](https://bsky.app/profile/peterjelinek.bsky.social/post/3lhssgwqxns2r), bei der Sicherheit mehr Raum einnahm, als [die tatsächliche Entwicklung der letzten Jahre](https://bsky.app/profile/robertboni.bsky.social/post/3lhoyrrpbmc2h) rechtfertigen würde und dagegen über die Klimapolitik gerade mal anderthalb Minuten gesprochen wurde. Kritischer Journalismus findet nicht mehr statt. Wie auch, wenn Redaktionen und Moderator:innen jahrelang im Geschäft sind, eigene Produktionsfirmen haben und mit ihrer sozioökonomischen Stellung kaum noch Bezug zum normalen Volk haben (Priviligierte interviewen Priviligierte, wie man Unpriviligierten noch mehr wegnehmen kann). Der Deutsche Kulturrat schlägt vor, dass Talkshows [eine einjähige Pause einlegen und ihre Konzepte grundlegend überarbeiten sollten](https://www.t-online.de/nachrichten/deutschland/gesellschaft/id_83898652/nach-maischberger-eklat-kulturrat-empfiehlt-einjaehrige-talkshow-pause.html).
 
 Gepaart mit dem Umstand, dass auch moderne Wahlkampfkampagnen immer stärker datengetrieben ausrichtet sind, höhlt dies unsere Demokratie weiter aus. So sammeln Parteien große Datenmengen über ihre potenziellen Wähler und leiten aus ihnen zielgruppengerechte Ansprachen ab, wie [die Untersuchung](https://www.cambridge.org/core/journals/government-and-opposition/article/understanding-the-modern-election-campaign-analysing-campaign-eras-through-financial-transparency-disclosures-at-the-2019-uk-general-election/F84A189B4BC3B1A9B5CCA02AFCB3C98E) der Ausgaben der Parteien zur Wahl 2019 in Großbritanien ergeben haben.    
 
@@ -28,19 +28,19 @@ Dabei hat bereits 1969 der spätere Bundespräsident [Walter Scheel erkannt](htt
 Stattdessen denken die Parteien nur von der Wand bis zur Tapete und überbieten sich in ihrem Aktionismus damit, wer mehr abschiebt. In ihrer Analyse der repräsentativen R+V-Langzeitstudie ["Die Ängste der Deutschen"](https://www.die-aengste-der-deutschen.de/) kommt Professorin Borucki zum Schluss: "Ein respektloser und taktisch motivierter Umgang untereinander verstärkt das Misstrauen in die Politik insgesamt." 
 
 ## Bundestagswahl 2025
-* Linksammlung mit den wichtigsten Infos zum Bundestagswahlkampf 2025
-  https://hackmd.okfn.de/bundestagswahl_2025_linksammlung?view
-  via https://norden.social/@datenschatz/113935378940409183
+Tim Fangmeyer hat [eine Linksammlung](https://hackmd.okfn.de/bundestagswahl_2025_linksammlung?view) mit den wichtigsten Informationen zum Bundestagswahlkampf 2025 [zusammengestellt](https://norden.social/@datenschatz/113935378940409183).
 
 ### Prognosen
-* wahlkreisprognose.de
-  https://www.wahlkreisprognose.de
-* zweitstimme.org
-  https://zweitstimme.org
-* YouGov
-  https://yougov.de
-* election.de
-  https://www.election.de/
+Bei [wahlen.info](https://www.wahlen.info/demokratie/umfrageinstitute/) kann man sich einen Überblick über die in Deutschland aktiven Umfrageinstitute verschaffen. Die Seite thematisiert dabei auch deren Finanzierung, Eigentümerstuktur und teilweise nachgesagter Nähe zu Parteien, um so deren Unabhängigkeit bei ihren Prognosen besser beurteilen zu können.
+
+Auf [wahlkreisprognose.de](https://www.wahlkreisprognose.de/) kann man sich die Trends für die Wahlkreise auf [Bundesebene](https://www.wahlkreisprognose.de/trends-im-bund/) als auch detailiert auf [Bundesland-Ebene](https://www.wahlkreisprognose.de/laendertrends/) ansehen. 
+
+Ein sechsköpfiges Team aus Politikwissenschaftler:innen, das durch die Deutsche Forschungsgemeinschaft (DFG) gefördert wird, entwickelt wissenschaftliche Wahlprognosen auf [zweitstimme.org](https://zweitstimme.org/).
+
+Der Hamburger Informatiker Matthias Moehl bietet mit [election.de](https://www.election.de/) eine weitere Wahlprognose, die auf einem eigenen Projektionsverfahren basiert, an.
+
+Dass Umfrageergebnissen das Wahlverhalten beeinflussen, belegt
+[dieser Deutschlandfunk-Artikel](https://www.deutschlandfunk.de/bundestagswahl-umfragen-100.html) und mahnt daher zur Vorsicht mit den Vorhersagen. Es ist nicht immer absehbar, ob sie zu einem [Bandwagon-Effekt (Mitläufereffekt)](https://de.wikipedia.org/wiki/Mitl%C3%A4ufereffekt) führen oder ob eher die [Underdog](https://en.wikipedia.org/wiki/Underdog)-Hypothese (Außenseitereffekt) greift. Ein Signaleffekt besteht im jeden Fall und die Tendenz zur [Selbsterfüllenden Prophezeiung](https://de.wikipedia.org/wiki/Selbsterf%C3%BCllende_Prophezeiung). Und damit auch die Verleitung, Umfragen versuchen zu manipulieren (wenn auch vielleicht nicht so dreist, wie [hier offengelegt](https://www.mimikama.org/manipulierte-grafik-umfrageergebnisse-gefaelscht/)).
 
 ### Wahlenentscheidungshilfen
 * Wahlprüfsteine: Parteien definieren, wer relevant ist: Doch in diesem Jahr darf nur ein exklusiver Club aus 30 Organisationen und Verbänden Fragen stellen. Digitalpolitische Gruppen fehlen komplett.
