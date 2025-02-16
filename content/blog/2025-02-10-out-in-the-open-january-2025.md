@@ -232,32 +232,13 @@ In der Europäischen Union war 2024 der Anteil fossiler Energien am Strommix [so
 In einer [Online-Umfrage](https://energiemiteinander.de/questionnaire/864/results) haben etwa 18.000 Teilnehmende angegeben, was ihnen bei der Energiepolitik nach der Wahl wichtig ist. Der  Mehrheit ist das Ziel eines klimaneutralen Energiesystems bis 2045 wichtig, 53% wären auch bereit einen höheren Tariff dafür zu bezahlen.  
 
 ## Mobilität
-* Laden von E-Autos deutlich günstiger als Tanken
-  https://www.tagesschau.de/wirtschaft/elektroauto-kosten-strom-100.html
-* Trajectools 2.4 release
-  https://anitagraser.com/2025/01/11/trajectools-2-4-release/
-* DB HAFAS mgate.exe Endpoint will be permanently shut off in the coming days. 
-  https://github.com/schildbach/public-transport-enabler/issues/610
-  * Alternativen
-    https://github.com/derhuerst/db-rest/issues/60
-* VDV: Ist-Daten-Schnittstellen: Downloads
-  https://www.vdv.de/i-d-s-downloads.aspx
-* Greenpeace Verkehrsszenario
-  https://www.greenpeace.de/publikationen/greenpeace-verkehrsszenario
-* Gedenkversammlung und Gedenkfahrt für Andreas Mandalka alias Natenom
-  https://www.fahrradstadt-pforzheim.de/index.php/2025/01/15/02-februar-2025-gedenkfahrt-fuer-natenom/
-  https://www.criticalmaps.net/map#7/49.593/8.597
-* Unser interaktiver Unfallatlas zeigt, wo im Laufe der letzten Jahre auf unseren Straßen #Verkehrsunfälle mit Fußgänger-Beteiligung passiert sind
-  https://unfallatlas.statistikportal.de
-  via https://social.bund.de/@destatis/113910513702193989
-* City of Toronto publishes new transportation datasets that highlight travel trends and support traffic management actions
-  https://www.toronto.ca/news/city-of-toronto-publishes-new-transportation-datasets-that-highlight-travel-trends-and-support-traffic-management-actions/
-  https://open.toronto.ca/dataset/traffic-volumes-midblock-vehicle-speed-volume-and-classification-counts/
-* WoBahn: Eine Web-App, die die ungefähren Standorte aller U-Bahn-Linien in Wien anzeigt.
-  https://wobahn.vasc.cloud/
-  https://www.data.gv.at/katalog/application/191ccc29-fdf2-4837-af85-08b59c74d1da
-  https://github.com/vascYT/WoBahn
-  via https://mastodon.social/@datagvat/113939448752239121
+[Das Vergleichsportal Verivox hat errechnet](https://www.tagesschau.de/wirtschaft/elektroauto-kosten-strom-100.html), dass das Laden eines E-Autos zu Hause um 47% billiger war, als einen Benziner aufzutanken und immer noch 38% billiger als Diesel zu tanken. 
+
+Am 30. Januar 2024 starb der Fahrradaktivist [Natenom](https://de.wikipedia.org/wiki/Natenom), bürgerlich Andreas Mandalka, nachdem er auf dem Rad von einem Autofahrer in einem Unfall von hinten angefahren wurde. [In einer stillen Gedenkfahrt](https://www.fahrradstadt-pforzheim.de/index.php/2025/01/15/02-februar-2025-gedenkfahrt-fuer-natenom/) gedachten ihm am 2. Februar in und um Pforzheim hunderte Fahrradfahrer:innen. Frank Hellriegel vom Allgemeinen Deutschen Fahrrad-Club (ADFC) reiste dazu extra aus Leipzig an. Mit dieser Gedenkaktion soll auch darauf aufmerksam gemacht werden, dass es viel mehr sichere Radwege braucht.
+
+Die alte HAFAS API der Deutschen Bahn [wird bald nicht mehr verfügbar sein](https://github.com/schildbach/public-transport-enabler/issues/610). Das bedeutet, dass alle Programme, die sie bisher für die programmatische Abfrage von Ankünfte, Abfahrten und generell Fahrplanauskünften genutzt haben, wie z.B. [db-rest](https://github.com/derhuerst/db-rest/issues/60) auf Alternativen wie z.B. die API des [db-vendo-client](https://github.com/public-transport/db-vendo-client/blob/main/docs/db-apis.md) wechseln müssen. Die neuen APIs haben aber deutlich niedrigere Rate-Limits, so dass geeignete Strategien gesucht werden müssen, diese einhalten zu können. 
+
+[WoBahn](https://wobahn.vasc.cloud/) ist eine neue [Web-App](https://www.data.gv.at/katalog/application/191ccc29-fdf2-4837-af85-08b59c74d1da), die die [Wiener Linien Echtzeitdaten](https://www.data.gv.at/katalog/dataset/522d3045-0b37-48d0-b868-57c99726b1c4) nutzt, um die [ungefähren Standorte](https://mastodon.social/@datagvat/113939448752239121) aller U-Bahn-Linien in Wien anzuzeigen. Die App steht auch [Open Source auf Github](https://github.com/vascYT/WoBahn).
 
 ## Karten
 * Seit Jahresbeginn haben mindestens 1.361.000 Menschen bundesweit gegen rechts demonstriert
