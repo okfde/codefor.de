@@ -154,6 +154,11 @@ Der Programmierer Sven Seeberg ist der erste Stipendiat des in der Münchner Ver
 
 Nicht digital souverän ist dagegen das Schweizer Bundesamt für Bauten und Logistik (BBL): dieses muss weitere drei Jahre mindestens 93 Millionen Euro und optional noch bis zu 58 Millionen Euro an Microsoft [für zeitlich befristete Softwarelizenzen zahlen](https://www.heise.de/news/Massive-Abhaengigkeit-Schweiz-mietet-Microsoft-Software-ohne-Ausschreibung-10251262.html). Der Auftrag dazu wurde ohne bei solchen Umfängen üblicher Ausschreibung vergeben und zwar mit folgender Begründung: "Aufgrund von Interoperabilitäts- und Kompatibilitätsanforderungen, der tiefen Integration in die bestehende Systemlandschaft sowie den vielschichtigen Abhängigkeiten bei den Fachanwendungen gibt es derzeit keine Alternative, mit der der anforderungsgemäße und lückenlose Betrieb sichergestellt werden könnte."
 
+## Smart City
+Im Rahmen des Förderprogramms [Smart Cities](https://www.smart-city-dialog.de/programme-und-projekte/modellprojekte-smart-cities) sind seit 2019 inzwischen 650 Einzelmaßnahmen in 73 Modellprojekten entstanden und zeigen [aus Sicht der Parlamentarischen Staatssekretärin Elisabeth Kaiser](https://background.tagesspiegel.de/smart-city-und-stadtentwicklung/briefing/mit-smart-cities-als-nationalem-ansatz-weit-vorne), dass auch deren Skalierung und langfristige Verstetigung funktionieren kann. Sie weist darauf hin, dass der Bund verfassungsrechtlich Kommunen nur in Modellprojekten direkt fördern darf (so aber notwendige Impulse setzen kann), flächendeckende Maßnahmen müssten die Bundesländer selber stemmen. Von den bis Juni 2024 so entstandenen 186 Lösungen konnten 112 erfolgreich auch in andere Kommunen übertragen werden. Für den langfristigen Betrieb muss man nun aber, noch bevor die Förderung ausläuft, geeignete Organisations- und Betriebsmodelle finden, bei denen die stadteigenen Betriebe oder professionelle Dienstleister aus der IT-Wirtschaft einbezogen werden müssen.
+
+[In seiner letzten Sitzung](https://www.linkedin.com/posts/ralfkaeck_ozg-konsultationsprozess-digitalstrategie-activity-7288482916823683072-krSP) hat der IT-Planungsrat [das Zielbild der OZG-Rahmenarchitektur](https://www.digitale-verwaltung.de/Webs/DV/DE/onlinezugangsgesetz/rahmenarchitektur/ozg-rahmenarchitektur/ozg-rahmenarchitektur-node.html) beschlossen, unter anderem mit der Vision: "Alle Daten und Informationen sind aktuell, vollständig, konsistent, maschinenlesbar und werden bei der Übertragung Ende-zu-Ende verschlüsselt."
+
 ## Open Data
 * Wege der Metadaten
   https://open-north.de/blog/2025-01-09_harvesting/
@@ -342,13 +347,6 @@ Nicht digital souverän ist dagegen das Schweizer Bundesamt für Bauten und Logi
   via https://social.bund.de/@Umweltbundesamt/113871454026224537
 * Datenabfluss bei Gesundheitsunternehmen: Dänen bangen um sensible Informationen
   https://www.heise.de/news/Datenabfluss-bei-Gesundheitsunternehmen-Daenen-bangen-um-sensible-Informationen-10254683.html
-  
-## Smart City
-* Über 650 Einzelmaßnahmen aus 73 Modellprojekten würden zeigen, wie Deutschland Smart-City-Lösungen skaliert und langfristig verstetigt.
-  https://background.tagesspiegel.de/smart-city-und-stadtentwicklung/briefing/mit-smart-cities-als-nationalem-ansatz-weit-vorne
-* Der IT-Planungsrat  hat in seiner letzten Sitzung das Zielbild der OZG-Rahmenarchitektur beschlossen
-  https://www.linkedin.com/posts/ralfkaeck_ozg-konsultationsprozess-digitalstrategie-activity-7288482916823683072-krSP
-  https://www.digitale-verwaltung.de/Webs/DV/DE/onlinezugangsgesetz/rahmenarchitektur/ozg-rahmenarchitektur/ozg-rahmenarchitektur-node.html
 
 ## KI
 * Eine neue Plattform macht die Arbeit des österreichischen Nationalrats mithilfe von großen Sprachmodellen greifbar: parlament.fyi nutzt künstliche Intelligenz, um politische Debatten und Abstimmungen verständlich zusammen zu fassen und mit verschiedenen sprachlichen Labels zu versehen. Die Originalquellen bleiben dabei erhalten.
