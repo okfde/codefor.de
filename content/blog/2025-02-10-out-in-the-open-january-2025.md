@@ -241,19 +241,10 @@ Die alte HAFAS API der Deutschen Bahn [wird bald nicht mehr verfügbar sein](htt
 [WoBahn](https://wobahn.vasc.cloud/) ist eine neue [Web-App](https://www.data.gv.at/katalog/application/191ccc29-fdf2-4837-af85-08b59c74d1da), die die [Wiener Linien Echtzeitdaten](https://www.data.gv.at/katalog/dataset/522d3045-0b37-48d0-b868-57c99726b1c4) nutzt, um die [ungefähren Standorte](https://mastodon.social/@datagvat/113939448752239121) aller U-Bahn-Linien in Wien anzuzeigen. Die App steht auch [Open Source auf Github](https://github.com/vascYT/WoBahn).
 
 ## Karten
-* Seit Jahresbeginn haben mindestens 1.361.000 Menschen bundesweit gegen rechts demonstriert
-  https://datawrapper.dwcdn.net/p3Ttm/992/
-  https://taz.de/Karte-der-Demos-gegen-Rechts/!6067645/
-  https://www.volksverpetzer.de/aktuelles/demo-karte-2025-9-2/
-  https://www.demokrateam.org/report/
-  * Auf unseren Aufruf für Plakate gegen Rechts haben uns hunderte Einsendungen erreicht: Plakate für eine radikal vielfältige demokratische Gesellschaft. Über 300 sind hier zu sehen und können für nicht-kommerzielle Zwecke frei verwendet werden.
-  https://verlagegegenrechts.de/plakate-gegen-rechts
-* GSPy - A New Toolbox And Data Standard For Geophysical Datasets
-  https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.907614/full
-  https://techhub.social/@GregCocks/113924595007454566
-* MapsForEurope: Viel Open Data!
-  https://geoobserver.de/2025/01/31/mapsforeurope-viel-open-data/
-  https://www.mapsforeurope.org/access-data
+Der GeoObserver macht auf das Angebot von [Open Maps For Europe 2 (OME2)](https://www.mapsforeurope.org/access-data) 
+aufmerksam, das amtliche Geokatasterdaten als Open Data bereitstellt. Allerdings muss man sich einen Zugangstoken per Mail zuschicken lassen, um die APIs mit diesen dann nutzen zu können, wie weiter [auf dem Blog beschrieben ist](https://geoobserver.de/2025/01/31/mapsforeurope-viel-open-data/) und man auch [in den offiziellen FAQs](https://www.mapsforeurope.org/frequently-asked-questions) nachlesen kann. 
+
+Seit Jahresbeginn haben mindestens 1.750.000 (Stand 16.2.2025) Menschen bundesweit gegen rechts demonstriert, wie die taz in ihrer [Karte der Demos gegen Rechts](https://taz.de/Karte-der-Demos-gegen-Rechts/!6067645/) dokumentiert. Auch [Volksverpetzer](https://www.volksverpetzer.de/aktuelles/demo-karte-2025-9-2/), [demos-gegen-rechts.de](https://demos-gegen-rechts.de) und [DemokraTEAM](https://www.demokrateam.org/report/) erfassen die Demos. Nach dem Aufruf der [Verlage gegen Rechts](https://verlagegegenrechts.de/) für Plakate gegen Rechts sind hunderte Einsendungen eingegangen: [Über 300 dieser eingesendeten Plakate](https://verlagegegenrechts.de/plakate-gegen-rechts) können nun für nicht-kommerzielle Zwecke frei verwendet werden.
 
 ## Finanzen
 * Vergleichsportal der Bafin für Girokonten ist online
@@ -309,8 +300,8 @@ Die alte HAFAS API der Deutschen Bahn [wird bald nicht mehr verfügbar sein](htt
 
 ## Call for Participation
 * Open Data Day 2025 – Mini-Grants Open Call, bis 23.02.2025
-  https://blog.okfn.org/2025/02/12/open-data-day-2025-mini-grants-open-call/
-* Easterhegg 2025, bis Samstag, 01.03.2025:
+  * https://blog.okfn.org/2025/02/12/open-data-day-2025-mini-grants-open-call/
+* Easterhegg 2025, Einreichungen bis 01.03.2025:
   * https://events.ccc.de/2025/01/16/easterhegg-2025-call-for-participation/
 * Die FemNetzCon 2025 findet vom 4. bis 6. April 2025 in Neu-Ulm im temporärhaus statt, Anmeldeschluss: 24. Februar 2025!
   * https://de.wikipedia.org/wiki/Wikipedia:WikiProjekt_FemNetz/FemNetzCon_2025
