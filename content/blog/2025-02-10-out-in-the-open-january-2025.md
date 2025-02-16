@@ -14,7 +14,7 @@ type: blog
 Disclaimer: wegen der anstehenden Bundestagswahl sind diesmal auch Quellen, die erst im Februar erschienen sind, mit eingeflossen.
 
 ## 80 Jahre Befreiung von Auschwitz
-Am 27. Januar jährte sich die [Befreiung](https://de.wikipedia.org/wiki/Befreiung_des_Konzentrationslagers_Auschwitz) des Konzentrationslagers Auschwitz](https://www.wikidata.org/wiki/Q663764) zum 80-ten Mal. [Im Podcast des Auschwitz Memorials](https://www.youtube.com/watch?v=-6IFHxqGgdE) kann man mehr über die Vorbereitung der Befreiungsoperation und ihre eigentliche Durchführung erfahren, bei der schließliche 7.500 Gefangene, darunter 500 Kinder befreit werden konnten. Die wenigen erhalten gebliebenen [Personalbögen, so genannten "Stärkebüchern" und Arbeitseinsatzprofilen](https://www.auschwitz.org/en/museum/about-the-available-data/registers-and-cards/) dokumentieren die grausame Lagerverwaltungsmachinerie. Dass solche Dokumente überhaupt digitalisiert vorliegen ist auch vielen Freiwilligen zu verdanken. So haben in der diesjährigen Every-Name-Counts-Challenge des [Arolsen Archives](https://arolsen-archives.org) rund 60.000 Freiwillige geholfen, [über 80.000 Dokumente zu digitalisieren](https://arolsen-archives.org/news/gigantischer-erfolg-der-everynamecounts-challenge-zum-80-jahrestag-der-auschwitz-befreiung/), wie z.B. solche [Häftlings-Personal-Karten](https://eguide.arolsen-archives.org/archiv/anzeige/haeftlings-personal-karte/). Auf der [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu) finden sich [Metadaten]((https://portal.ehri-project.eu/units/de-002409-de_its_1_1_2)) zu weiteren Datensätzen. Digitale Werkzeuge, die im Zuge ihrer Forschung entstanden sind, stehen zudem Open Source [auf Github](https://github.com/EHRI/ehri-data-analysis-tools). Auf [victims.auschwitz.org](https://victims.auschwitz.org) lässt sich die Chronologie der Deportationen nachvollziehen.
+Am 27. Januar jährte sich die [Befreiung](https://de.wikipedia.org/wiki/Befreiung_des_Konzentrationslagers_Auschwitz) des [Konzentrationslagers Auschwitz](https://www.wikidata.org/wiki/Q663764) zum 80-ten Mal. [Im Podcast des Auschwitz Memorials](https://www.youtube.com/watch?v=-6IFHxqGgdE) kann man mehr über die Vorbereitung der Befreiungsoperation und ihre eigentliche Durchführung erfahren, bei der schließliche 7.500 Gefangene, darunter 500 Kinder befreit werden konnten. Die wenigen erhalten gebliebenen [Personalbögen, so genannten "Stärkebüchern" und Arbeitseinsatzprofilen](https://www.auschwitz.org/en/museum/about-the-available-data/registers-and-cards/) dokumentieren die grausame Lagerverwaltungsmachinerie. Dass solche Dokumente überhaupt digitalisiert vorliegen ist auch vielen Freiwilligen zu verdanken. So haben in der diesjährigen Every-Name-Counts-Challenge des [Arolsen Archives](https://arolsen-archives.org) rund 60.000 Freiwillige geholfen, [über 80.000 Dokumente zu digitalisieren](https://arolsen-archives.org/news/gigantischer-erfolg-der-everynamecounts-challenge-zum-80-jahrestag-der-auschwitz-befreiung/), wie z.B. solche [Häftlings-Personal-Karten](https://eguide.arolsen-archives.org/archiv/anzeige/haeftlings-personal-karte/). Auf der [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu) finden sich [Metadaten]((https://portal.ehri-project.eu/units/de-002409-de_its_1_1_2)) zu weiteren Datensätzen. Digitale Werkzeuge, die im Zuge ihrer Forschung entstanden sind, stehen zudem Open Source [auf Github](https://github.com/EHRI/ehri-data-analysis-tools). Auf [victims.auschwitz.org](https://victims.auschwitz.org) lässt sich die Chronologie der Deportationen nachvollziehen.
 
 ## Politische Debattenkultur
 Trotz dieses Gedenktages, der auch im Bundestag begangen wurde, nahm die CDU/CSU-Fraktion gerade mal zwei Tage später billigend in Kauf, dass ihr Entschließungsantrag zur massiven Verschärfung der deutschen Migrationspolitik [in der namentlichen Abstimmung](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=941) nur durch die Stimmen der rechtsextremen AfD eine Mehrheit finden konnte. Gleiches gelang ihr am 31. Januar dann zum Glück nicht mit ihrem sogenannten ["Zustrombegrenzungsgesetz"](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=946). Beides zudem Gesetze, die entweder europäisches Recht bzw. nationales Recht brechen würden, wie auch [Der Paritätische Gesamtverband ausführt](https://www.der-paritaetische.de/alle-meldungen/rechtliche-und-praktische-probleme-des-zustrombegrenzungsgesetzes/).
@@ -146,7 +146,7 @@ Wer nur Cloud Dienste nutzen möchte, die europäischen Richtlinien unterliegen,
 
 Wer seine privaten Fotos und Videos in der Cloud verwalten möchte und nicht auf den Komfort verzichten möchte, den Dienste wie Google Photos oder iCloud geboten haben, kann nun auf die Open Source Lösung [immich](https://immich.app) (Quellcode auf [Github](https://github.com/immich-app/immich)) wechseln, die man datenschutzfreundlich selbst hosten kann.
 
-Das [Zentrum für Digitale Souveränität der Öffentlichen Verwaltung (ZenDiS)](https://zendis.de/) hat eben sein einjähriges Bestehen [gefeiert](https://www.linkedin.com/posts/zendis_digitalesouveraeunitaeut-zendis-opendesk-ugcPost-7285674237799862272-CY2e). Pünktlich zum Geburtstag wurde auch der [Relaunch](https://zendis.de/ressourcen/opencode-relaunch-vom-softwareverzeichnis-zur-plattform-fuer-die-digitale-souveraenitaet) von [openCode](https://opencode.de/de) fertig, auf der man weiterhin Open-Source-Lösungen für die öffentliche Verwaltung entdecken bzw. innerhalb der Verwaltungs-Community gemeinsam weiterentwickeln kann. 
+Das [Zentrum für Digitale Souveränität der Öffentlichen Verwaltung (ZenDiS)](https://zendis.de/) hat eben sein einjähriges Bestehen [gefeiert](https://www.linkedin.com/posts/zendis_digitalesouveraeunitaeut-zendis-opendesk-ugcPost-7285674237799862272-CY2e). Pünktlich zum Geburtstag wurde auch der [Relaunch](https://zendis.de/ressourcen/opencode-relaunch-vom-softwareverzeichnis-zur-plattform-fuer-die-digitale-souveraenitaet) von [openCode](https://opencode.de/de) fertig, auf der man weiterhin Open-Source-Lösungen für die öffentliche Verwaltung entdecken bzw. innerhalb der Verwaltungs-Community gemeinsam weiterentwickeln kann. Eine Videoaufzeichnung der Veranstaltung sowie die Präsentation der Vortragenden findet man [hier](https://opencode.de/de/aktuelles/events/zendis-open-januar-111#veranstaltungsdokumentation).
 
 Auf europäischer Ebene beeinhaltet [code.europa.eu](https://code.europa.eu/) nun mehr als 200 Open Source Projekte, die sich wiederum in 755 Code Repositories zergliedern, wie auf [interoperable-europe berichtet wird](https://interoperable-europe.ec.europa.eu/collection/ec-ospo/news/spotlight-projects).
 
@@ -202,51 +202,34 @@ Noch mehr Bilder findet man im [Marburger Bildarchiv](https://www.uni-marburg.de
 Eine Einführung in Open Science gibt der [folgende Vortrag](https://jekelylab.github.io/ELTE_Open_Science_28Jan2025.html#/title-slide).
 
 ## Klima
-* Haben Sie es in Ihrem Ort gemerkt? 2024 war es so warm wie nie
-  https://www.zeit.de/wissen/2025-01/deutscher-wetterdienst-temperatur-niederschlag-2024
-  via https://social.bund.de/@DeutscherWetterdienst/113765328453141955
-* Die Einnahmen aus dem #Emissionshandel lagen in 🇩🇪2024 bei rund 18,5 Mrd. Euro (2023: 18,4 Mrd.). Die Erlöse fließen vollständig in den #Klima- & Transformationsfonds & leisten einen Beitrag zur Erreichung der #energie- & klimapolitischen Ziele
-  https://www.umweltbundesamt.de/presse/pressemitteilungen/einnahmen-aus-dem-emissionshandel-erneut-auf
-  via https://social.bund.de/@Umweltbundesamt/113787540036520801
-* Im Wärmesektor ist die Entwicklung meiner Meinung nach übrigens besser, als viele Berichte nahelegen. 
-  https://mastodon.social/@mkreutzfeldt/113787687617187823
-* Project Respira: Open Innovation for Environmental Justice in Asunción
-  https://blog.okfn.org/2025/01/07/project-respira-open-innovation-for-environmental-justice-in-asuncion/
-* EU-Klimadienst: Globale Erwärmung 2024 durchbricht 1,5-Grad-Marke
-  https://www.faz.net/aktuell/politik/eu-klimadienst-globale-erwaermung-lag-2024-im-schnitt-bei-1-6-grad-110222277.html
-* Außer Kontrolle geratene Waldbrände in Kalifornien sind so üblich geworden, dass die New York Times mit einem eigenen Dashboard begonnen hat, die Größe und den Fortschritt bei der Eindämmung der größten Feuer live zu verfolgen.
-  https://norden.social/@datenschatz/113802961074656783
-* Great (and scary) visualization of 2024 daily temperatures compared to prior years by the BBC today
-  https://www.bbc.com/news/articles/cd7575x8yq5o
-  via https://fediscience.org/@hausfath/113805481473869158
-* Antarctic sea ice extent reached record or near-record low values for a second year in a row. From June to October, the monthly extent ranked second lowest behind 2023, and lowest in November. 
-  https://climate.copernicus.eu/global-climate-highlights-2024
-  via https://masto.ai/@CopernicusECMWF/113808787712884769
-* Last month was the 2nd-warmest December globally, after '23, 0.76°C above the 1991-2020 average and 1.69°C above the pre-industrial level
-  https://climate.copernicus.eu/surface-air-temperature-december-2024?utm_source=socialmedia&utm_medium=ma&utm_campaign=surface-air-temperature-december-2024
-  via https://masto.ai/@CopernicusECMWF/113820451301452615
-* Briefbaukasten
-  https://my-friday.org/thema/briefbaukasten/
-  via https://climatejustice.social/@myfriday/113842679043970769
-* climate.gov is a good repository of research and records detailing our planet's warming atmosphere and it's impacts.  
-  https://www.climate.gov
-  via https://mastodon.sdf.org/@danielbowmaniel/113844377186871230
-* Climate Reanalyzer: Daily Sea Surface Temperature
-  https://climatereanalyzer.org/clim/sst_daily/?dm_id=world2
-* SmartBalkon: Intelligente Feinstaub- und Luftqualitätsüberwachung
-  https://medium.com/@ozcanertan/smartbalkon-intelligente-feinstaub-und-luftqualit%C3%A4ts%C3%BCberwachung-9bfd94a6d53b
-* Eine sehr gute Grafik, die uns zeigt wie radikal die Erwärmung unserer Erde voranschreitet. Lag die globale Temperatur vor 2000 kaum einmal über 1,5 Grad im Vergleich zum vorindustriellen Niveau, so taten es 2024 bereits die meisten Tage des Jahres.
-  https://bsky.app/profile/marcuswadsak.bsky.social/post/3lgl3pbf77c2t
-* Digitaler Meilenstein im Umwelt- und Naturschutz – das neue Portal umwelt.info
-  https://www.umweltbundesamt.de/presse/pressemitteilungen/digitaler-meilenstein-im-umwelt-naturschutz-das
-  https://www.deutschlandfunk.de/neues-portal-des-umweltbundesamts-interview-dirk-messner-100.html
+### Globale Erwärmung
+Nach [Auswertung des Deutschen Wetterdienstes (DWD)](https://www.schweizer-illustrierte.ch/style/lifestyle/sauber-weich-hygienisch-darum-gehort-salz-in-eure-waschmaschine-343723) war das vergangene Jahr 2024 erneut das wärmste je gemessene. Zeit Online bietet zur besseren Veranschaulichung der Daten unter anderem eine [Deutschlandkarte an](https://www.zeit.de/wissen/2025-01/deutscher-wetterdienst-temperatur-niederschlag-2024).
 
-## Energie
-* Energiepolitik nach der Wahl: Was ist dir wichtig?
-  https://energiemiteinander.de/questionnaire/864/Energiepolitik_nach_der_Wahl_Was_ist_dir_wichtig
-  via https://social.cologne/@P4FKoeln/113825316514038844
-* Fast die Hälfte des Stroms in der EU kommt aus erneuerbaren Energien
-  https://www.tagesspiegel.de/wirtschaft/fossile-brennstoffe-verlieren-einfluss-fast-die-halfte-des-stroms-in-der-eu-kommt-aus-erneuerbaren-energien-13069960.html
+Global wurde 2024 erstmals die 1,5-Grad-Temperaturschwelle überschritten, damit ist das [1,5-Grad-Ziel](https://de.wikipedia.org/wiki/1,5-Grad-Ziel) zwar noch nicht gerissen, da dieses sich auf einen Langzeitdurchschnitt über Jahrzehnte bezieht, bringt uns dieser Gefahr aber deutlich näher. Im [BBC-Bericht](https://www.bbc.com/news/articles/cd7575x8yq5o) sind einige Grafiken enthalten, die den Ernst der Lage verdeutlichen, unter anderem auch [dieses Diagramm](https://bsky.app/profile/marcuswadsak.bsky.social/post/3lgl3pbf77c2t), das die Verteilung der Abweichungen der Tagestemparaturen vom präindustriellen Mittel über die letzten 85 Jahre zeigt. So lagen 2024 die meisten Tage über der 1,5 Grad Abweichung. Allein der letzte Dezember war laut [Copernicus-Auswertung des ERA5-Datensatzes](https://climate.copernicus.eu/surface-air-temperature-december-2024) der zweitwärmste nach 2023 mit 1,69 °C über den Dezember-Temparatur-Durchnitt der Jahre 1850 bis 1900. 
+
+Auf der Seite des [Climate Reanalyzers](https://climatereanalyzer.org/clim/sst_daily/?dm_id=world2) des Klimawandelinstituts der Universität Maine sieht man die täglichen Oberflächentemparaturen der Meere. Fährt man mit der Maus die rechte Skala mit den Jahreszahlen entlang, ist auch hier ein besorgniseregender Trend zu erkennen.
+
+Weitere Details kann man dem [jährlichen Klimabericht entnehmen](https://climate.copernicus.eu/global-climate-highlights-2024), unter anderem dass die Ausdehnung des Meereseis am Südpol auf nahezu auf dem gleichen niedrigen Stand wie 2023 [geblieben ist](https://masto.ai/@CopernicusECMWF/113808787712884769). 
+
+Derzeit ist [climate.gov](https://www.climate.gov) noch eine verlässliche Quelle zu Forschungsdaten über die Erderwärmung, aber nach dem Regierungswechsel [fürchten einige, dass sich Desinformation mehren könnte](https://mastodon.sdf.org/@danielbowmaniel/113844377186871230).
+
+Auch Waldbrände, wie die in und um Los Angeles im Januar, werden durch den Klimawandel wahrscheinlicher, [wie eine neue Attributionsstudie berechnet hat](https://www.tagesschau.de/wissen/klima/klimawandel-waldbraende-kalifornien-100.html). Brandursache ist meist absichtliche oder fahrlässige Brandstiftung, nur 5% entstehen durch Blitzeinschlag. Über Monate ausgetrocknete Wälder bilden nun aber leicht brennbares Material und starke Winde sorgen zusätzlich dafür, dass sich die Feuer schnell ausbreiten können. 
+
+## Monitoring Luftqualität
+In der Stadt Asunción in Paraguay nimmt die Luftverschmutzung von Jahr zu Jahr zu. Mit dem Projekt [Project Respira](https://proyectorespira.net), das von der Mozilla-Stiftung gefördert wird, soll nun mit Hilfe von Open Data und der [Zusammenarbeit von Zivilgesellschaft, Wissenschaft und der Open-Source-Gemeinde](https://blog.okfn.org/2025/01/07/project-respira-open-innovation-for-environmental-justice-in-asuncion/) Luftqualitäts-Vorhersagen mittels  Machine Learning errechnet werden. Diese sollen der Bevölkerung über eine Webseite, aber auch durch Chatbots und Social-Media-Bots bereitgestellt werden, so dass sie informierte Entscheidungen treffen, auf wann sie ihre Aktiviäten im Freien legen, um ihre Gesundheit am besten zu schützen.   
+
+[Ertan Özcan](https://medium.com/@ozcanertan/smartbalkon-intelligente-feinstaub-und-luftqualit%C3%A4ts%C3%BCberwachung-9bfd94a6d53b) berichtet von seinem OpenData- und IoT-Projekt in Köln, mit dem er einfach die Feinstaubbelastung und Luftqualität von seinem Balkon aus überwachen kann.
+
+### Positive Meldungen
+Die Suchmaschine für Umwelt- & Naturschutz-Wissen, [umwelt.info](https://umwelt.info), ist am 27.1. [offiziell freigegeben wurden](https://www.umweltbundesamt.de/presse/pressemitteilungen/digitaler-meilenstein-im-umwelt-naturschutz-das). Man kann sich die Aufzeichnung des Launch-Events [hier anschauen](https://umwelt.info/de/livestream). Mehr Hintergründe gibt es im [Deutschlandfunk-Interview](https://www.deutschlandfunk.de/neues-portal-des-umweltbundesamts-interview-dirk-messner-100.html) mit dem Umweltbundesamt-Präsidenten Dirk Messner. Wie man mit den Suchergebnissen arbeiten kann, [zeigt ein Artikel am Beispiel von Flusspegeldaten](https://umwelt.info/de/artikel/flussmessstellen-deutschland).
+
+Die 2024 aus dem Emissionshandel erzielten Rekordeinnahmen von 18,5 Milliarden Euro [fließen vollständig](https://www.umweltbundesamt.de/presse/pressemitteilungen/einnahmen-aus-dem-emissionshandel-erneut-auf) in den [Klima- & Transformationsfonds](https://www.bundesregierung.de/breg-de/aktuelles/ktf-sondervermoegen-2207614) und leisten so ihren Beitrag zur Erreichung der energie- und klimapolitischen Ziele, wie z.B. mehr Klimaschutz, Technologieförderung und sozialen Ausgleich.
+
+[Wie Malte Kreutzfeld ausführt](https://mastodon.social/@mkreutzfeldt/113787687617187823), ist die Entwicklung im Wärmesektor deutlich besser, als die allgemeine Wahrnehmung vermuten lässt. So werden in 2/3 der Neubauten mittlerweile Wärmepumpen verbaut, der Anteil an Wärmepumpen im Bestand blieb stabil bei 27%, obwohl weniger verkauft wurden. In der Absatzstatistik fehlen allerdings noch die Wärmepumpen, die noch von 2023 im Lager waren und erst jetzt verbaut wurden, sowie die Luft-Luft-Wärmepumpen, die fast 25% der Förderanträgen der KfW ausmachen. Zudem ist die neue KfW-Förderung erst schrittweise angelaufen.
+
+In der Europäischen Union war 2024 der Anteil fossiler Energien am Strommix [so klein wie noch nie gewesen](https://www.tagesspiegel.de/wirtschaft/fossile-brennstoffe-verlieren-einfluss-fast-die-halfte-des-stroms-in-der-eu-kommt-aus-erneuerbaren-energien-13069960.html). Laut einem Bericht der Denkfabrik Ember wurden unter 10% des Stroms durch Kohle erzeugt, 16% durch Gas, sowie etwa 4% aus Öl oder Müllverbrennung. 24% wurden aus Atomkraft gedeckt. Dagegen stehen 11% Strom aus Solarenergie und 17% aus Windkraft. Die restlichen knapp 20% kamen aus Wasserkraft und Biomasse. Damit kommt fast die Hälfte des Stroms aus erneuerbaren Energien.
+
+In einer [Online-Umfrage](https://energiemiteinander.de/questionnaire/864/results) haben etwa 18.000 Teilnehmende angegeben, was ihnen bei der Energiepolitik nach der Wahl wichtig ist. Der  Mehrheit ist das Ziel eines klimaneutralen Energiesystems bis 2045 wichtig, 53% wären auch bereit einen höheren Tariff dafür zu bezahlen.  
 
 ## Mobilität
 * Laden von E-Autos deutlich günstiger als Tanken
@@ -336,12 +319,8 @@ Eine Einführung in Open Science gibt der [folgende Vortrag](https://jekelylab.g
   https://blog.okfn.org/2025/01/22/the-tech-we-want-reflecting-on-the-super-election-year-2024/
 * NIAM 2025
   https://news-infographics-analytics-maps.media/2025.html
-* umwelt.info Launch Event
-  https://umwelt.info/de/livestream
 * Berlin Hack & Tell
   https://bhnt.c-base.org/2025-01-28-no101-singularity-inauguration-hacks
-* ZenDiS Open Januar 2025
-  https://opencode.de/de/aktuelles/events/zendis-open-januar-111
 
 ## Und sonst so
 * anlässlich des 42-jährigen Bestehen des CCC wurden 12 Kunstprojekte, die positive Zukunftsvisionen entwickeln, mit 420 – 4200 € unterstützt 
