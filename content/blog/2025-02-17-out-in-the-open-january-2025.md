@@ -1,7 +1,7 @@
 ---
 title: "Civic Ungehorsam – Out in the Open Januar 2025"
 author: "Jörg Reichert (Code for Leipzig)"
-date: '2025-02-10T08:00:00+02:00'
+date: '2025-02-17T08:00:00+02:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
 topic: community
 images:
