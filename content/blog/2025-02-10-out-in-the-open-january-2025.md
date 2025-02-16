@@ -168,19 +168,20 @@ Alle (aktuell: 385.163) geologischen Bohrungen in Schleswig-Holstein kann man [�
 
 In Moers haben die [Frequenzmessungen](https://www.offenesdatenportal.de/dataset/fubgangerinnen-und-fubganger-auf-der-steinstrabe-in-moers-im-jahr-2024) zu Fußgängerinnen und Fußgängern in der Fußgängerzone in der Moerser Innenstadt für das Jahr 2024 in das Open Data Portal der Stadt Eingang gefunden.
 
+Mit der Python-Konsolen-Anwendung [DCAT Catalog Check](https://code.schleswig-holstein.de/opendata/dcat-catalog-check), die letzten Monat Open Source veröffentlicht wurde, kann man die Gültigkeit von Verlinkungen in DCAT-Katalogen (also Open Data Portale bzw. -Kataloge, die ihre Daten und Dienste gemäß dem Metadatenmodellstandard [Data Catalogue Vocabulary (DCAT)](https://www.w3.org/TR/vocab-dcat-3/) beschreiben) überprüfen.  
+
 Mit der [OpenPLZ API](https://www.data.gv.at/katalog/application/c7210abd-1460-4be4-9469-83235a092a8c) können Straßen- und Postleitzahldaten (inklusive Gemeindedaten) für Deutschland, Liechtenstein, Schweiz und Österreich über eine [offene REST-API-Schnittstelle](https://openplzapi.org/swagger/index.html) abgefragt werden.
 
-Das Land Berlin bietet einkommensschwachen Menschen zahlreiche Aktivitäten in den Bereichen Kultur, Sport, Bildung und Freizeit ermäßigt oder sogar kostenlos an. Viele Menschen kennen diese Angebote nicht, obwohl sie sogar [in einem offenen Datensatz](https://daten.berlin.de/datensaetze/simple_search_wwwberlindesensozialessozialesicherungbnberlinticketsangebote) beschrieben werden. Beim CityLab Berlin hat man es sich daher [zur Aufgabe gemacht](https://citylab-berlin.org/de/blog/mit-fairgnuegen-berlin/), deren Sichtbarkeit durch eine eigene Recherche-App zu erhöhen. Doch diesmal sollte, nicht wie sonst, eine separat gehostete Prototyp-App entstehen, sondern die App direkt unter der berlin.de Domäne laufen. Die Herausforderung, den engen gestalterischen Look-&-Feel-Vorgaben zu genügen, wurde gemeistert und nun kann [Fairgnügen](https://fairgnuegen.berlin.de) von allen genutzt werden.  
+Das Land Berlin bietet einkommensschwachen Menschen zahlreiche Aktivitäten in den Bereichen Kultur, Sport, Bildung und Freizeit ermäßigt oder sogar kostenlos an. Viele Menschen kennen diese Angebote nicht, obwohl sie sogar [in einem offenen Datensatz](https://daten.berlin.de/datensaetze/simple_search_wwwberlindesensozialessozialesicherungbnberlinticketsangebote) beschrieben werden. Beim CityLab Berlin hat man es sich daher [zur Aufgabe gemacht](https://citylab-berlin.org/de/blog/mit-fairgnuegen-berlin/), deren Sichtbarkeit durch eine eigene Recherche-App zu erhöhen. Doch diesmal sollte, nicht wie sonst, eine separat gehostete Prototyp-App entstehen, sondern die App direkt unter der berlin.de Domäne laufen. Die Herausforderung, den engen gestalterischen Look-&-Feel-Vorgaben zu genügen, wurde gemeistert und nun viel [Fairgnügen](https://fairgnuegen.berlin.de)!  
 
-## Linked Open Data
-* Linked Data Operations Flow Tool (Arbeitstitel): 
-  Benjamin Degenhart: Overhead reduzieren, der sonst durch Programmierumgebung aufsetzen, Libraries finden entsteht
-  https://console.foerderfunke.org
-  https://www.youtube.com/watch?v=1muHHA0Q8cQ
-  https://www.linkedin.com/posts/benjamin-ditel_mapping-the-requirements-for-benefits-from-activity-7287778691231670272--zj5
-  https://github.com/Citizen-Knowledge-Graph/console
-* DCAT Catalog Check
-  https://code.schleswig-holstein.de/opendata/dcat-catalog-check
+## Datenpräsentation
+Erst geeignete Visualisierungen und Interaktionsmöglichkeiten helfen Daten überhaupt begreifbar zu machen. Eine Einführung in diese Kunst, das Unsichtbare sichtbar zu machen, [gibt Anna Meide in der neuesten ODIS-Kolumne](https://citylab-berlin.org/de/blog/open-data-and-the-city-die-odis-kolumne-5/). 
+
+Viele spannende Visualisierungen zu aktuellen Themen enthält auch wieder der [Data Vis Dispatch](https://blog.datawrapper.de/data-vis-dispatch-january-28-2025/).
+
+Tief eintauchen kann man mit [dieser etwas anderen Büchersuche](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/).
+
+Auf der Blog "Soziale Wirkung" wird das nützliche Open Source Werkzeug [Quarto](https://quarto.org) ausführlich [vorgestellt](https://blog.soziale-wirkung.de/2025/01/22/reproduzierbares-reporting-von-datenanalysen-mit-quarto/). Mit ihm lassen sich Datenanalysen (wahlweise in R, Python, Julia oder Observable) in Dokumente und Präsentationen, die man mit Markdown schreibt, einbetten. Sie lassen sich schließlich als HTML oder PDF, aber auch als Word-Dokument oder PowerPoint sowie für [Revealjs](https://revealjs.com) und noch in viele andere Output-Formate exportieren. Quatro-Dokumente können modular aufgebaut werden, so dass man gut mit Vorlagen arbeiten kann. Zudem gibt es inzwischen zahlreiche Erweiterungen, wie z.B. [Closeread](https://closeread.dev) für das Erstellen von Daten-Storys.
 
 ## Wikiverse
 * Cleaning Up Legacy Data: From Wikipedia Links to Wikidata IDs in Open Library
@@ -201,25 +202,8 @@ Das Land Berlin bietet einkommensschwachen Menschen zahlreiche Aktivitäten in d
 * den Wikidata-basierten Zugfahrt-Sehenswürdigkeiten-Anzeiger: 
   https://wikirailline.de.cool/
 
-## Datenanalyse
-* Reproduzierbares Reporting von Datenanalysen mit Quarto
-  https://blog.soziale-wirkung.de/2025/01/22/reproduzierbares-reporting-von-datenanalysen-mit-quarto/
-  https://quarto.org
-  https://closeread.dev
-* Data Vis Dispatch, January 28: Snowfall, astronauts, and electricity
-  https://blog.datawrapper.de/data-vis-dispatch-january-28-2025/
-* https://phiresky.github.io/isbn-visualization/
-  https://phiresky.github.io/isbn-visualization/
-  https://github.com/phiresky/isbn-visualization
-  via https://vis.social/@gka/113934587379915015
-
-* ODIS Datenvisualisierung
-  https://citylab-berlin.org/de/blog/open-data-and-the-city-die-odis-kolumne-5/
-
-
 ## Open access
 Das [Public Domain Image Archive](https://pdimagearchive.org) enthält gemeinfreie Bilder zum Weiternutzen, Nele Hirsch findet das [sehr hilfreich](https://fedilab.de/@nele/113797129803490576).
-
 
 * Release of the French Ph.D. database
   https://tdelcey.github.io/becoming_economists_page/news/french_release/
