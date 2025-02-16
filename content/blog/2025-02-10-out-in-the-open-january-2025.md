@@ -247,56 +247,39 @@ aufmerksam, das amtliche Geokatasterdaten als Open Data bereitstellt. Allerdings
 Seit Jahresbeginn haben mindestens 1.750.000 (Stand 16.2.2025) Menschen bundesweit gegen rechts demonstriert, wie die taz in ihrer [Karte der Demos gegen Rechts](https://taz.de/Karte-der-Demos-gegen-Rechts/!6067645/) dokumentiert. Auch [Volksverpetzer](https://www.volksverpetzer.de/aktuelles/demo-karte-2025-9-2/), [demos-gegen-rechts.de](https://demos-gegen-rechts.de) und [DemokraTEAM](https://www.demokrateam.org/report/) erfassen die Demos. Nach dem Aufruf der [Verlage gegen Rechts](https://verlagegegenrechts.de/) für Plakate gegen Rechts sind hunderte Einsendungen eingegangen: [Über 300 dieser eingesendeten Plakate](https://verlagegegenrechts.de/plakate-gegen-rechts) können nun für nicht-kommerzielle Zwecke frei verwendet werden.
 
 ## Finanzen
-* Vergleichsportal der Bafin für Girokonten ist online
-  https://www.heise.de/news/6900-Modelle-im-Blick-Vergleichsportal-der-Bafin-fuer-Girokonten-ist-online-10244057.html
-  https://kontenvergleich.bafin.de/de
-* Open letter to the ECB Governing Council calling on greener monetary policy
-  https://reclaimfinance.org/site/en/2025/01/28/open-letter-to-the-ecb-governing-council-calling-on-greener-monetary-policy/
+Das [Vergleichsportal](https://kontenvergleich.bafin.de/de) der Bafin für Girokonten [ist online](https://www.heise.de/news/6900-Modelle-im-Blick-Vergleichsportal-der-Bafin-fuer-Girokonten-ist-online-10244057.html).
+
+Ein [offener Brief](https://reclaimfinance.org/site/en/2025/01/28/open-letter-to-the-ecb-governing-council-calling-on-greener-monetary-policy/) fordert von der Europäischen Zentralbank (EZB) eine grünere Geldpolitik. 
 
 ## Medizin
-* Dicke Bretter, diesmal zum Stand der Technik und der Gesetze bei Gesundheitsdaten
-  https://chaosradio.de/cr287-dicke-bretter-diesmal-zum-stand-der-technik-und-der-gesetze-bei-gesundheitsdaten
-* Offener Brief: Fünf Schritte zu mehr Vertrauen in die ePA
-  https://www.inoeg.de/offenerbrief-epa-2025/
-* UBA startet neues Internetportal “Humanarzneimittel und Umwelt” mit Infos für pharmazeutisches & medizinisches Personal (u.a. Lehrmaterial für Fortbildungen) aber auch Tipps für Verbraucherinnen & Verbraucher
-  https://www.umweltbundesamt.de/themen/entsorgung-von-arzneimitteln-verbessern
-  via https://social.bund.de/@Umweltbundesamt/113871454026224537
-* Datenabfluss bei Gesundheitsunternehmen: Dänen bangen um sensible Informationen
-  https://www.heise.de/news/Datenabfluss-bei-Gesundheitsunternehmen-Daenen-bangen-um-sensible-Informationen-10254683.html
+Auch in Form [eines Offenen Briefes](https://www.inoeg.de/offenerbrief-epa-2025/) sind die fünf Forderungen an den Gesundheitsministers formuliert, um das Vertrauen in die elektronische Patientenakte (ePA) zu erhöhen. Darunter auch die Forderung, alle Quelltexte zu veröffentlichen und eine Testumgebung bereitzustellen, damit die digitale Zivilgesellschaft eine belastbare Bewertung von Sicherheitsrisiken vornehmen kann. 
+
+Berichte, [wie den aus Dänemark](https://www.heise.de/news/Datenabfluss-bei-Gesundheitsunternehmen-Daenen-bangen-um-sensible-Informationen-10254683.html), wo bei einem Datenleck persönliche Patientendaten öffentich wurden, sollten Warnung genug sein. 
+
+[In einem weiteren offenen Brief](https://inoeg.codeberg.page/openletter1223.html), auf den in der [Dicke Bretter](https://chaosradio.de/cr287-dicke-bretter-diesmal-zum-stand-der-technik-und-der-gesetze-bei-gesundheitsdaten) Podcastfolge verlinkt wurde, wird generell die Digitalisierung im Gesundheitswesen thematisiert und in 10 Prüfsteine die Mindestanforderungen formuliert.  
 
 ## KI
-* Eine neue Plattform macht die Arbeit des österreichischen Nationalrats mithilfe von großen Sprachmodellen greifbar: parlament.fyi nutzt künstliche Intelligenz, um politische Debatten und Abstimmungen verständlich zusammen zu fassen und mit verschiedenen sprachlichen Labels zu versehen. Die Originalquellen bleiben dabei erhalten.
-  https://www.parlament.fyi
-  https://www.mcaviti.net/parlamentarischer-ueberblick/
-  via https://norden.social/users/datenschatz/statuses/113820525628630025
-* Studie: Big Tech schreibt sich die KI-Standards selbst
-  https://netzpolitik.org/2025/studie-big-tech-schreibt-sich-die-ki-standards-selbst/
-* GPT Modelle/Projekte die entweder von bzw. für die öffentliche Verwaltung entwickelt wurde.
-  https://gruene.social/@Gerbsen/113838500544649722
-* Warum KI-Tools kritisches Denken verkümmern lassen
-  https://www.telepolis.de/features/Warum-KI-Tools-kritisches-Denken-verkuemmern-lassen-10247194.html
-  https://www.mdpi.com/2075-4698/15/1/6
-* AI Act: Wie die Ausnahmen in der KI-Verordnung landeten
-  https://netzpolitik.org/2025/ai-act-wie-die-ausnahmen-in-der-ki-verordnung-landeten/
-* LLMs für deutsche Texte
-  https://www.hinterding.com/blog/german-language-and-llms/
-  https://www.hinterding.com/blog/llm-vergleich/
-* GeoAI in der öffentlichen Verwaltung
-  https://medium.com/@ozcanertan/geoai-in-der-%C3%B6ffentlichen-verwaltung-ccd43528d0a7
-* Das Ökosystem der KI-Basismodelle: Wie Daten, Energie und menschliche Arbeit KI-Basismodelle formen
-  https://www.reframetech.de/wissensseite-basismodelle/
+Die neue Plattform [parlament.fyi](https://www.parlament.fyi) fasst politische Debatten und Abstimmungen im österreichischen Nationalrat [mit Hilfe von großen Sprachmodellen zusammen](https://www.mcaviti.net/parlamentarischer-ueberblick/) und versieht sie mit Labels. Dabei bleiben die Originalquellen erhalten.
+
+[In diesem Mastodon-Thread](https://gruene.social/@Gerbsen/113838500544649722) werden GPT Modelle/Projekte, die entweder von bzw. für die öffentliche Verwaltung entwickelt wurden, gesammelt.
+
+[Ertan Özcan diskutiert](https://medium.com/@ozcanertan/geoai-in-der-%C3%B6ffentlichen-verwaltung-ccd43528d0a7) die Möglichkeiten von GeoAI in der öffentlichen Verwaltung, wie automatisierte Kartierung (inklusive Objekterkennung), prädiktive Analysen wie Hochwassersimulationen und Umweltüberwachung wie Luftqualitätsdatenanalyse, Effiziente Stadtplanung (Optimierung der Standortwahl, Verkehrssteuerung).
+
+Im reframeTech-Projekt der Bertelsmannstiftung gibt eine Wissensseite [einen Überblick über das Ökosystem von KI-Basismodellen](https://www.reframetech.de/wissensseite-basismodelle/).
+
+Ingo Hinterding [vergleicht](https://www.hinterding.com/blog/german-language-and-llms/) frei verfügbare Large Language Models (LLMs) hinsichtlich ihrer Eignung für deutschsprachige Texte. Diese hängt stark vom jeweiligen Anwendungsfall ab. Die getesteten LLMs werden [hier gegenüber gestellt](https://www.hinterding.com/blog/llm-vergleich/).
+
+Mit dem AI Act sollten die Grundrechte aller EU-Bürger:innen vor den Gefahren sogenannter Künstlicher Intelligenz geschützt werden. Die Forschungsgruppe Corporate Europe Observatory bemängelt nun aber, dass sich die Unternehmen die Normen für KI-Systeme [quasi selbst schreiben](https://netzpolitik.org/2025/studie-big-tech-schreibt-sich-die-ki-standards-selbst/). Wenn nun die ersten Regeln aus dem AI Act Anfang Februar in Kraft treten, sind auch viele Schlupflöcher enthalten, [legt dieser Gastbeitrag offen](https://netzpolitik.org/2025/ai-act-wie-die-ausnahmen-in-der-ki-verordnung-landeten/). 
+
+KI-Tools zu nutzen ist bequem. Doch eine [neue Studie](https://www.mdpi.com/2075-4698/15/1/6) des Zentrums für Strategische Unternehmensvorausschau und Nachhaltigkeit der SBS Swiss Business School [zeigt auch die negativen Folgen](https://www.telepolis.de/features/Warum-KI-Tools-kritisches-Denken-verkuemmern-lassen-10247194.html) auf die Fähigkeit zum kritischen Denken.  
 
 ## Recap
-* On January 14th, 2025, the Open Knowledge Foundation brought together leading voices from around the world to reflect on the Super Election Year 2024, during which 3.7 billion people voted in 72 countries
-  https://blog.okfn.org/2025/01/22/the-tech-we-want-reflecting-on-the-super-election-year-2024/
-* NIAM 2025
-  https://news-infographics-analytics-maps.media/2025.html
-* Berlin Hack & Tell
-  https://bhnt.c-base.org/2025-01-28-no101-singularity-inauguration-hacks
+Mitglieder aus dem Open Knowledge Foundation Netzwerk [schilderten am 14. Januar in einem Online-Meeting](https://blog.okfn.org/2025/01/22/the-tech-we-want-reflecting-on-the-super-election-year-2024/) ihre Eindrücke zu den in ihren jeweiligen Ländern durchgeführten Wahlen und den Gefahren von KI und Desinformation während der Wahlkämpfe, aber auch z.B. fehlende offene Daten zu den angetretenen Kandidaten.  
+
+Die entstandenen Projekte beim Berlin Hack & Tell [sind hier gelistet](https://bhnt.c-base.org/2025-01-28-no101-singularity-inauguration-hacks).
 
 ## Und sonst so
-* anlässlich des 42-jährigen Bestehen des CCC wurden 12 Kunstprojekte, die positive Zukunftsvisionen entwickeln, mit 420 – 4200 € unterstützt 
-  https://42.ccc.de
+Anlässlich des 42-jährigen Bestehens des CCC wurden [12 Kunstprojekte](https://42.ccc.de), die positive Zukunftsvisionen entwickeln, mit 420€ bis 4200€ unterstützt. 
 
 ## Call for Participation
 * Open Data Day 2025 – Mini-Grants Open Call, bis 23.02.2025
