@@ -174,7 +174,7 @@ Mit der [OpenPLZ API](https://www.data.gv.at/katalog/application/c7210abd-1460-4
 
 Das Land Berlin bietet einkommensschwachen Menschen zahlreiche Aktivitäten in den Bereichen Kultur, Sport, Bildung und Freizeit ermäßigt oder sogar kostenlos an. Viele Menschen kennen diese Angebote nicht, obwohl sie sogar [in einem offenen Datensatz](https://daten.berlin.de/datensaetze/simple_search_wwwberlindesensozialessozialesicherungbnberlinticketsangebote) beschrieben werden. Beim CityLab Berlin hat man es sich daher [zur Aufgabe gemacht](https://citylab-berlin.org/de/blog/mit-fairgnuegen-berlin/), deren Sichtbarkeit durch eine eigene Recherche-App zu erhöhen. Doch diesmal sollte, nicht wie sonst, eine separat gehostete Prototyp-App entstehen, sondern die App direkt unter der berlin.de Domäne laufen. Die Herausforderung, den engen gestalterischen Look-&-Feel-Vorgaben zu genügen, wurde gemeistert und nun viel [Fairgnügen](https://fairgnuegen.berlin.de)!  
 
-## Datenpräsentation
+## Der Zauber der Dataviz(ards)
 Erst geeignete Visualisierungen und Interaktionsmöglichkeiten helfen Daten überhaupt begreifbar zu machen. Eine Einführung in diese Kunst, das Unsichtbare sichtbar zu machen, [gibt Anna Meide in der neuesten ODIS-Kolumne](https://citylab-berlin.org/de/blog/open-data-and-the-city-die-odis-kolumne-5/). 
 
 Viele spannende Visualisierungen zu aktuellen Themen enthält auch wieder der [Data Vis Dispatch](https://blog.datawrapper.de/data-vis-dispatch-january-28-2025/).
@@ -184,37 +184,22 @@ Tief eintauchen kann man mit [dieser etwas anderen Büchersuche](https://phiresk
 Auf der Blog "Soziale Wirkung" wird das nützliche Open Source Werkzeug [Quarto](https://quarto.org) ausführlich [vorgestellt](https://blog.soziale-wirkung.de/2025/01/22/reproduzierbares-reporting-von-datenanalysen-mit-quarto/). Mit ihm lassen sich Datenanalysen (wahlweise in R, Python, Julia oder Observable) in Dokumente und Präsentationen, die man mit Markdown schreibt, einbetten. Sie lassen sich schließlich als HTML oder PDF, aber auch als Word-Dokument oder PowerPoint sowie für [Revealjs](https://revealjs.com) und noch in viele andere Output-Formate exportieren. Quatro-Dokumente können modular aufgebaut werden, so dass man gut mit Vorlagen arbeiten kann. Zudem gibt es inzwischen zahlreiche Erweiterungen, wie z.B. [Closeread](https://closeread.dev) für das Erstellen von Daten-Storys.
 
 ## Wikiverse
-* Cleaning Up Legacy Data: From Wikipedia Links to Wikidata IDs in Open Library
-  https://blog.rayberger.org/cleaning-up-legacy-wikipedia-links
-* SPINACH Wikidata Agent
-  It‘s fascinating how well the SPINACH tool works in many cases. It generates #SPARQL queries for #Wikidata from questions in natural language using an #LLM. 
-  https://spinach.genie.stanford.edu
-  https://arxiv.org/abs/2407.11417
-  via https://mastodon.xyz/@johl/113842985245428866
-* Initially, it was not clear what revenue model Wikipedia would get
-  https://post.lurk.org/@rra/113873611500414068
-* Wiki-Spiele: Von Chuck Norris zur Philosophie in wie vielen Klicks?
-  https://blog.wikimedia.de/2025/01/09/wiki-spiele/
-* Wikidata: Ein praktisches Werkzeug für gemeinnützige Organisationen
-  https://civic-data.de/wikidata/
-  https://civic-data.de/app/uploads/wikidata.pdf
-  https://cividata.org/de/
-* den Wikidata-basierten Zugfahrt-Sehenswürdigkeiten-Anzeiger: 
-  https://wikirailline.de.cool/
+An ein vielleicht nicht allzu bekanntes Detail aus den Anfängen der Wikipedia [erinnert ein Nutzer auf Mastodon](https://post.lurk.org/@rra/113873611500414068): so wurde ein Jahr nach Gründung in Erwägung gezogen, mit dem Einbinden von Werbeanzeigen den Weiterbetrieb zu finanzieren. Erst ein Streik der spanischen Editoren und dem angedohten Abzweigen einer eigenen Spanischen Wikipedia-Variante, lenkte der Gründer Jimmy Wales ein, und bewahrte die Gemeinnützigkeit des Projekts.
+
+Im Januar stellte Jona Hölderle im Rahmen eines [Civic Data](https://cividata.org/de/) Lab [Expresso-Talks](https://www.youtube.com/watch?v=tL7cj6h6YZk) vor, wie Nichtregierungsorganisationen (NGOs) offene Daten (und im Speziellen Wikidata) sinnvoll nutzen und vernetzen können. Die [Präsentation](https://civic-data.de/app/uploads/wikidata.pdf) ist auch im [Nachbericht](https://civic-data.de/wikidata/) verlinkt. 
+
+Jens Ohlig hat den [SPINACH Wikidata Agent](https://spinach.genie.stanford.edu) für sich [entdeckt](https://mastodon.xyz/@johl/113842985245428866), um mit dem LLM bequem in natürlicher Sprache Wikidata-SPARQL-Abfragen generieren zu können.
+
+Einen anderen Ansatz, SPARQL-Abfragen zu strukturieren und auszuführen, verfolgt Benjamin Degenhart mit [semOps](https://console.foerderfunke.org). Mit diesem Werkzeug werden Operation als Datenfluss modelliert, wie er [in einem Video vorstellt](https://www.youtube.com/watch?v=1muHHA0Q8cQ).
+
+Wie man Wikipedia und Wikidata auch spielerisch nutzen kann, stellen Corinna Schuster und Patrick Wildermann an Hand der Beispiele [Notable People](https://tjukanovt.github.io/notable-people) (ein Globus mit Geburtsorten berühmter Personen) und [Wikipedia Speedruns](https://wikispeedruns.com) (möglichst schnell (bzw. wenigen Klicks) von einem vorgegebenen Wikipedia-Artikel zu einem ebenfalls vorgegebenen Ziel-Wikipedia-Artikel durch das geschickte Verfolgen von Verlinkungen navigieren) in ihrem [Blogpost](https://blog.wikimedia.de/2025/01/09/wiki-spiele/) vor. Ein weitere Anwendung ist dieser [Wikidata-basierte Zugfahrt-Sehenswürdigkeiten-Anzeiger](https://wikirailline.de.cool/).
 
 ## Open access
 Das [Public Domain Image Archive](https://pdimagearchive.org) enthält gemeinfreie Bilder zum Weiternutzen, Nele Hirsch findet das [sehr hilfreich](https://fedilab.de/@nele/113797129803490576).
 
-* Release of the French Ph.D. database
-  https://tdelcey.github.io/becoming_economists_page/news/french_release/
-  https://zenodo.org/records/14713202
-  https://tdelcey.github.io/becoming_economists_page/documentation/french/
-  via https://mastodon.social/@agoutsmedt/113867280521806465
-* Bildarchiv Foto Marburg bietet kostenfreie Nutzung von mehr als einer Million Kunstbildern
-  https://www.uni-marburg.de/de/aktuelles/news/2025/
-  via https://openbiblio.social/@georgfischer/113877967183606836
-* Open Science in (In)Action: Why, What, and How
-  https://jekelylab.github.io/ELTE_Open_Science_28Jan2025.html#/title-slide
+Noch mehr Bilder findet man im [Marburger Bildarchiv](https://www.uni-marburg.de/de/fotomarburg): dank einer [OpenAccess-Initiative](https://openbiblio.social/@georgfischer/113877967183606836) in Folge der Urheberrechtsnovelle 2021 [findet man seit Januar](https://www.uni-marburg.de/de/aktuelles/news/2025/bildarchiv) nun dort 1,2 Millionen Fotografien kostenlos und unter freier Lizenz.
+
+Eine Einführung in Open Science gibt der [folgende Vortrag](https://jekelylab.github.io/ELTE_Open_Science_28Jan2025.html#/title-slide).
 
 ## Klima
 * Haben Sie es in Ihrem Ort gemerkt? 2024 war es so warm wie nie
