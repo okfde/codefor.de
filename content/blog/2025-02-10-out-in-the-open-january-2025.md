@@ -131,42 +131,28 @@ Ein Vorgeschmack, was auch bei uns drohen könnte, zeigen die Entwicklung nach d
 In Deutschland deuten sich bei einem Regierungswechsel [ähnliche Bestebungen an](https://bsky.app/profile/denniskberlin.bsky.social/post/3lhol4puub223).
 
 ## Datenhandel außer Kontrolle
-* Millionen von Standortdaten aus Apps fließen an Datenhändler ab - das zeigen Recherchen des BR mit internationalen Partnermedien
-  https://www.tagesschau.de/investigativ/br-recherche/standortdaten-apps-datenhandel-100.html
-  * 380 Millionen Standortdaten aus 137 Ländern: Ein bislang unbekannter Datensatz zeigt so umfangreich wie nie zuvor Gefahren des globalen Datenhandels
-    https://netzpolitik.org/2025/databroker-files-neuer-datensatz-enthuellt-40-000-apps-hinter-standort-tracking/
-  * Die Karte zeigt Daten einer Stunde. 
-    https://ard.social/@br_data/113830803391096702
-  * Wetter Online listet mehr als 800 Firmen auf, mit denen das Unternehmen Daten teilt. “Ich glaube, es ist unmöglich, bei zum Beispiel 850 Empfängern noch irgendwie nachzuvollziehen, wer diese Unternehmen tatsächlich sind", sagt der Datenschutz-Jurist Martin Baumann von @noybeu
-    https://ard.social/@br_data/113830810833634407
-  * Jetzt testen: Wurde mein Handy-Standort verkauft?
-    https://netzpolitik.org/2024/databroker-files-jetzt-testen-wurde-mein-handy-standort-verkauft/
-* Subaru: Autos gehackt – und riesige Sammlung mit Standortdaten entdeckt
-  https://www.heise.de/news/Dank-Javascript-Autos-von-Subaru-liessen-sich-aus-der-Ferne-uebernehmen-10254605.html
+Mit dem Transatlantischen Datenabkommen wollte die EU-Kommission gewährleisten, dass die Daten der EU-Bürger:innen, auch wenn sie Apps aus den USA nutzen, dennoch vergleichbaren Datenschutzregeln wie in der EU unterliegen. Nach Antritt der Trump-Administration droht nun das in den USA zusändige Aufsichtsgremium, das Privacy and Civil Liberties Oversight Board (PCLOB) [handlungsunfähig gemacht zu werden](https://netzpolitik.org/2025/nach-amtsantritt-von-trump-transatlantisches-datenabkommen-bekommt-erste-risse/), da nun einzelne, einst von den Demokraten entsandte, Mitglieder gezwungen werden, von ihrem Amt zurückzutreten.
+
+Recherchen des BR zusammen mit internationalen Partnermedien [legen offen](https://www.tagesschau.de/investigativ/br-recherche/standortdaten-apps-datenhandel-100.html), dass Millionen von Standortdaten an Datenhändler abgeflossen sind. Der vom US-Datenhändler Datastream als kostenloses Anschauungsmaterial weitergegebe Datensatz enthält 380 Millionen Standorte von 47 Millionen Nutzern aus 137 Ländern an einem Tag im Juli 2024. Aus den Daten ist neben den Werbe-Kennungen (Mobile-Advertising-IDs) auch ersichtlich, aus welchen der insgesamt 40.000 Apps die Standorte jeweils mutmaßlich stammen, darunter Apps wie Wetter Online, Focus Online und Kleinanzeigen. Die App-Anbieter teilen die Informationen in Echtzeit an Vermarkter von Online-Werbeanzeigen, aber auch an Unternehmen mit anderen Motiven. Die Datenschutzbestimmungen von Wetter Online listen 850 Firmen, denen es die Daten weitergibt, auch außerhalb der EU nach USA, Hongkong, Singapur oder Brasilien. In einem langen [Netzpolitik-Artikel](https://netzpolitik.org/2025/databroker-files-neuer-datensatz-enthuellt-40-000-apps-hinter-standort-tracking/) wird auf weitere Details eingangen, unter anderem wurden die App-Betreiber um eine Stellungnahme gebeten. Martin Baumann von der Datenschutzorganisation [noyb](https://noyb.eu/) spricht von einem "enormen Kontrollverlust". Mit dem [Databroker-Checker](https://netzpolitik.org/2024/databroker-files-jetzt-testen-wurde-mein-handy-standort-verkauft/) kann man überprüfen, ob die eigene Werbe-ID im besagten Datensatz vorkommt.
+
+Vergleichbar mit dem bei 38C3 publik gemachten VW-Datenleak wurden nun auch bei Subaru [eine riesige Standortdaten-Sammlung entdeckt](https://www.heise.de/news/Dank-Javascript-Autos-von-Subaru-liessen-sich-aus-der-Ferne-uebernehmen-10254605.html). 
 
 ## Digitale Souveränität
-* Facebook sperrt Links zu Instagram-Alternative Pixelfed
-  https://www.heise.de/news/Beispiellos-gewachsen-Facebook-sperrt-Links-zu-Instagram-Alternative-Pixelfed-10237505.html
-* Regardless of what happens with TikTok, I'm still focused on shipping https://loops.video to the world, and open sourcing the entire platform!
-  https://loops.video
-  via https://mastodon.social/@dansup/113841956808397142
-* immich: Self-hosted photo and video management solution
-  https://immich.app
-  https://github.com/immich-app/immich
-* Massive Abhängigkeit: Schweiz mietet Microsoft-Software ohne Ausschreibung
-  https://www.heise.de/news/Massive-Abhaengigkeit-Schweiz-mietet-Microsoft-Software-ohne-Ausschreibung-10251262.html
-* Nach Amtsantritt von Trump: Transatlantisches Datenabkommen bekommt erste Risse
-  https://netzpolitik.org/2025/nach-amtsantritt-von-trump-transatlantisches-datenabkommen-bekommt-erste-risse/
-* 1 Jahr ZenDiS@Work
-  https://www.linkedin.com/posts/zendis_digitalesouveraeunitaeut-zendis-opendesk-ugcPost-7285674237799862272-CY2e
-* Um die Macht der Tech-Bosse zu brechen, arbeiten Entwickler an alternativen Sozialen Medien. Wie könnten die Plattformen der Zukunft funktionieren?
-  https://taz.de/Zukunft-Sozialer-Medien/!6061808/
-  https://freeourfeeds.com
-* European alternatives for digital products
-  https://european-alternatives.eu
-* Save Social
-  https://savesocial.eu
+Mit dem internationalen Aufruf ["Free our Feeds"](https://freeourfeeds.com/), untersützt unter anderen von der Führung von Wikimedia und Mozilla, soll eine Stiftung entstehen, die ein offenes Ökosystem für soziale Medien auf Basis von Open Source und offener Protokolle [etablieren möchte](https://taz.de/Zukunft-Sozialer-Medien/!6061808/), das nicht von einzelnen Firmen oder Millardären kontrolliert - "Protokolle statt Plattformen". Über die Stiftung soll Geld für die Expansion eines solchen Ökosystems eingesammelt werden. In eine ähnliche Richtung geht auch der deutsche Aufruf ["Soziale Netzwerke als demokratische Kraft retten"](https://savesocial.eu).
 
+Dass die großen Plattformen solche freien Alternativen gar nicht mögen, zeigt sich daran, dass Facebook nun Links zur Instagram-Alternative [Pixelfed](https://de.wikipedia.org/wiki/Pixelfed) (Instanzen z.B. [pixelfed.de](https://pixelfed.de) und [pixelfed.social](https://pixelfed.social)) als Spam markiert und [sperrt](https://www.heise.de/news/Beispiellos-gewachsen-Facebook-sperrt-Links-zu-Instagram-Alternative-Pixelfed-10237505.html). Gleiches hatte Twitter / X schon zuvor mit Links zur Alternative [Mastodon](https://de.wikipedia.org/wiki/Mastodon_(Soziales_Netzwerk)) getan. Von Pixelfed wird übrigens bald mit [loops.video](https://loops.video/help-center/frequently-asked-questions) auch eine Alternative zur Kurzvideo-Plattform Tiktok geben.
+
+Wer nur Cloud Dienste nutzen möchte, die europäischen Richtlinien unterliegen, wird auf der Seite [European alternatives for digital products](https://european-alternatives.eu) fündig. 
+
+Wer seine privaten Fotos und Videos in der Cloud verwalten möchte und nicht auf den Komfort verzichten möchte, den Dienste wie Google Photos oder iCloud geboten haben, kann nun auf die Open Source Lösung [immich](https://immich.app) (Quellcode auf [Github](https://github.com/immich-app/immich)) wechseln, die man datenschutzfreundlich selbst hosten kann.
+
+Das [Zentrum für Digitale Souveränität der Öffentlichen Verwaltung (ZenDiS)](https://zendis.de/) hat eben sein einjähriges Bestehen [gefeiert](https://www.linkedin.com/posts/zendis_digitalesouveraeunitaeut-zendis-opendesk-ugcPost-7285674237799862272-CY2e). Pünktlich zum Geburtstag wurde auch der [Relaunch](https://zendis.de/ressourcen/opencode-relaunch-vom-softwareverzeichnis-zur-plattform-fuer-die-digitale-souveraenitaet) von [openCode](https://opencode.de/de) fertig, auf der man weiterhin Open-Source-Lösungen für die öffentliche Verwaltung entdecken bzw. innerhalb der Verwaltungs-Community gemeinsam weiterentwickeln kann. 
+
+Auf europäischer Ebene beeinhaltet [code.europa.eu](https://code.europa.eu/) nun mehr als 200 Open Source Projekte, die sich wiederum in 755 Code Repositories zergliedern, wie auf [interoperable-europe berichtet wird](https://interoperable-europe.ec.europa.eu/collection/ec-ospo/news/spotlight-projects).
+
+Der Programmierer Sven Seeberg ist der erste Stipendiat des in der Münchner Verwaltung neu eingeführten [Open-Source-Sabbaticals](https://www.heise.de/news/Nach-LiMux-Aus-Muenchen-startet-erstes-Open-Source-Sabbatical-10266582.html). In diesem kann er nun im ersten Halbjahr 2025 weisungsungebunden und freigestellt von anderen Verpflichtungen an einem Open-Source-Projekt arbeiten, das der Stadt und der Allgemeinheit zugutekommt. 
+
+Nicht digital souverän ist dagegen das Schweizer Bundesamt für Bauten und Logistik (BBL): dieses muss weitere drei Jahre mindestens 93 Millionen Euro und optional noch bis zu 58 Millionen Euro an Microsoft [für zeitlich befristete Softwarelizenzen zahlen](https://www.heise.de/news/Massive-Abhaengigkeit-Schweiz-mietet-Microsoft-Software-ohne-Ausschreibung-10251262.html). Der Auftrag dazu wurde ohne bei solchen Umfängen üblicher Ausschreibung vergeben und zwar mit folgender Begründung: "Aufgrund von Interoperabilitäts- und Kompatibilitätsanforderungen, der tiefen Integration in die bestehende Systemlandschaft sowie den vielschichtigen Abhängigkeiten bei den Fachanwendungen gibt es derzeit keine Alternative, mit der der anforderungsgemäße und lückenlose Betrieb sichergestellt werden könnte."
 
 ## Open Data
 * Wege der Metadaten
@@ -363,15 +349,6 @@ In Deutschland deuten sich bei einem Regierungswechsel [ähnliche Bestebungen an
 * Der IT-Planungsrat  hat in seiner letzten Sitzung das Zielbild der OZG-Rahmenarchitektur beschlossen
   https://www.linkedin.com/posts/ralfkaeck_ozg-konsultationsprozess-digitalstrategie-activity-7288482916823683072-krSP
   https://www.digitale-verwaltung.de/Webs/DV/DE/onlinezugangsgesetz/rahmenarchitektur/ozg-rahmenarchitektur/ozg-rahmenarchitektur-node.html
-
-## OpenSource
-* code.europa.eu , managed by @EC_OSPO now holds more than 200 #OpenSource projects with a total of 755 code repositories 
-  https://interoperable-europe.ec.europa.eu/collection/ec-ospo/news/spotlight-projects
-  via https://ec.social-network.europa.eu/@EC_DIGIT/113844579158255964
-* vollständig überarbeiteten Version von openCode live gegangen
-  https://www.linkedin.com/posts/zendis_vor-wenigen-tagen-sind-wir-mit-einer-vollst%C3%A4ndig-activity-7287762101639471105-g63a
-* München startet erstes Open-Source-Sabbatical
-  https://www.heise.de/news/Nach-LiMux-Aus-Muenchen-startet-erstes-Open-Source-Sabbatical-10266582.html
 
 ## KI
 * Eine neue Plattform macht die Arbeit des österreichischen Nationalrats mithilfe von großen Sprachmodellen greifbar: parlament.fyi nutzt künstliche Intelligenz, um politische Debatten und Abstimmungen verständlich zusammen zu fassen und mit verschiedenen sprachlichen Labels zu versehen. Die Originalquellen bleiben dabei erhalten.
