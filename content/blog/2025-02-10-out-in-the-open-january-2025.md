@@ -126,9 +126,9 @@ Wie gehen Politiker mit potenziellen Interessenkonflikten um? [Correctiv](https:
 In einem ZDF-Beitrag [wird zudem bemängelt](https://www.zdf.de/nachrichten/politik/deutschland/bundestagswahl-kanzlerkandidaten-vermoegen-geld-aktien-100.html), dass die Spitzenkandidaten der Parteien teilweise nicht ihre Aktienvermögen transparent offen legen. Wenn es nach Abgeordnetenwatch geht, sollte daher nach französischem Vorbild das Vermögen von Regierungsmitgliedern verpflichtend offengelegt werden, um mögliche Interessenskonflikte sichtbar zu machen.
 
 ## Entwicklungen in den USA
-Ein Vorgeschmack, was auch bei uns drohen könnte, zeigen die Entwicklung nach der Amtsübernahme von Donald Trump in den USA. Dass gewisse der eigenen Ideologie unliebsame Inhalte von Regierungsseiten entfernt werden (z.B. zu Klimawandel und Geschlechterpolitik), kannte man schon aus der ersten Amtszeit. So versuchen derzeit Aktivisten [Datensätze zu retten](https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/), die gerade von data.gov verschwinden. Neben dem [Austieg aus der Weltgesundheitsorganisation (WHO)](https://www.t-online.de/nachrichten/ausland/internationale-politik/id_100580470/trump-beschliesst-austritt-der-usa-aus-der-who-das-trifft-die-welt-hart.html), die damit nicht nur tiefe Finanzlöcher reißt, [setzt die US-Regierung, konkret Elon Musk, nun auch die Arbeit der Verbraucherschutzbehörde aus](https://www.zeit.de/politik/ausland/2025-02/usa-trump-sparplaene-cfpb-musk-verbraucherschutzbehoerde). Elon Musks Abteilung für Regierungseffizienz (Department of Government Efficiency" ("DOGE")) ist es auch, das [eine KI mit sensiblen US-Regierungsdaten füttern möchte](https://www.heise.de/news/DOGE-Elon-Musks-Team-fuettert-sensible-US-Regierungsdaten-an-KI-10273602.html), um so massive Kostensenkungen abzuleiten. Zuvor erhielt er schon {Zugang zu sämtlichen Daten des Zahlungssystems des US-Finanzministeriums}(https://www.welt.de/politik/ausland/article255317954/Elon-Musk-erhaelt-Zugang-zum-Zahlungssystem-des-US-Finanzministeriums-und-damit-zu-sensiblen-Daten.html), und damit zu persönlichen Daten von Millionen von Amerikanern, die Gelder von der Regierung erhalten, wie z.B. aus der Sozialversicherung oder Steuerrückzahlungen. Ob es dabei zu möglichen Interessenskonflikten (wie z.B. Einblick in Wirtschaftsdaten von Konkurrenten von Musks Firmen) kommt, möchte Musk für sich selbst entscheiden. Man nennt es auch Realsatire. [heise hat zusammengefasst](https://www.golem.de/news/buerokratischer-staatsstreich-wie-elon-musk-us-behoerden-demontiert-2502-193029-5.html), zu welchen Daten Musk bereits Zugriff erlangt hat. [Der gesamte Artikel](https://www.golem.de/news/buerokratischer-staatsstreich-wie-elon-musk-us-behoerden-demontiert-2502-193029.html) beschreibt den de faco vollzogenen [kalten Staatsstreich](https://www.rnd.de/politik/elon-musk-staatsstreich-wie-der-tesla-chef-die-us-regierung-unterwandert-EJLGSXVUTFDHPIPFC3M7LC2STY.html), während die Tagesschau und anderen Medien verharmlosend [noch von "Bürokratieabbau" sprechen](https://bsky.app/profile/thereallorenzmeyer.bsky.social/post/3lhq4ixhnak2m).
+Ein Vorgeschmack, was auch bei uns drohen könnte, zeigen die Entwicklung nach der Amtsübernahme von Donald Trump in den USA. Dass gewisse der eigenen Ideologie unliebsame Inhalte von Regierungsseiten entfernt werden (z.B. zu Klimawandel und Geschlechterpolitik), kannte man schon aus der ersten Amtszeit. So versuchen derzeit Aktivisten [Datensätze zu retten](https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/), die gerade von data.gov verschwinden. Neben dem [Austieg aus der Weltgesundheitsorganisation (WHO)](https://www.t-online.de/nachrichten/ausland/internationale-politik/id_100580470/trump-beschliesst-austritt-der-usa-aus-der-who-das-trifft-die-welt-hart.html), die damit nicht nur tiefe Finanzlöcher reißt, [setzt die US-Regierung, konkret Elon Musk, nun auch die Arbeit der Verbraucherschutzbehörde aus](https://www.zeit.de/politik/ausland/2025-02/usa-trump-sparplaene-cfpb-musk-verbraucherschutzbehoerde). Elon Musks Abteilung für Regierungseffizienz (Department of Government Efficiency" ("DOGE")) ist es auch, das [eine KI mit sensiblen US-Regierungsdaten füttern möchte](https://www.heise.de/news/DOGE-Elon-Musks-Team-fuettert-sensible-US-Regierungsdaten-an-KI-10273602.html), um so massive Kostensenkungen abzuleiten. Zuvor erhielt er schon [Zugang zu sämtlichen Daten des Zahlungssystems des US-Finanzministeriums](https://www.welt.de/politik/ausland/article255317954/Elon-Musk-erhaelt-Zugang-zum-Zahlungssystem-des-US-Finanzministeriums-und-damit-zu-sensiblen-Daten.html), und damit zu persönlichen Daten von Millionen von Amerikanern, die Gelder von der Regierung erhalten, wie z.B. aus der Sozialversicherung oder Steuerrückzahlungen. Ob es dabei zu möglichen Interessenskonflikten (wie z.B. Einblick in Wirtschaftsdaten von Konkurrenten von Musks Firmen) kommt, möchte Musk für sich selbst entscheiden. Man nennt es auch Realsatire. [heise hat zusammengefasst](https://www.golem.de/news/buerokratischer-staatsstreich-wie-elon-musk-us-behoerden-demontiert-2502-193029-5.html), zu welchen Daten Musk bereits Zugriff erlangt hat. [Der gesamte Artikel](https://www.golem.de/news/buerokratischer-staatsstreich-wie-elon-musk-us-behoerden-demontiert-2502-193029.html) beschreibt den de faco vollzogenen [kalten Staatsstreich](https://www.rnd.de/politik/elon-musk-staatsstreich-wie-der-tesla-chef-die-us-regierung-unterwandert-EJLGSXVUTFDHPIPFC3M7LC2STY.html), während die Tagesschau und anderen Medien verharmlosend [noch von "Bürokratieabbau" sprechen](https://bsky.app/profile/thereallorenzmeyer.bsky.social/post/3lhq4ixhnak2m). [Eryk Salvaggio analysiert auf Tech Policy Press](https://www.techpolicy.press/anatomy-of-an-ai-coup/) den Coup (englisch für Staatsstreich / Putsch) auch hinsichtlich des Ansatzes Politik bzw. demokratische Entscheidungsprozesse durch KI zu ersetzen. Bereits 2018 wurde in der taz geschrieben, [dass Musk einen guten James-Bond-Bösewicht abgegeben würde](https://taz.de/Tech-Milliardaer-Elon-Musk/!5524189/).
 
-In Deutschland deuten sich bei einem Regierungswechsel [ähnliche Bestebungen an](https://bsky.app/profile/denniskberlin.bsky.social/post/3lhol4puub223).
+In Deutschland deutet sich bei einem Regierungswechsel eine Konstellation aus [Trumpeltier](https://www.stupidedia.org/stupi/Trumpeltier) mit [digitalen Einflüsterer an](https://bsky.app/profile/denniskberlin.bsky.social/post/3lhol4puub223).
 
 ## Datenhandel außer Kontrolle
 Mit dem Transatlantischen Datenabkommen wollte die EU-Kommission gewährleisten, dass die Daten der EU-Bürger:innen, auch wenn sie Apps aus den USA nutzen, dennoch vergleichbaren Datenschutzregeln wie in der EU unterliegen. Nach Antritt der Trump-Administration droht nun das in den USA zusändige Aufsichtsgremium, das Privacy and Civil Liberties Oversight Board (PCLOB) [handlungsunfähig gemacht zu werden](https://netzpolitik.org/2025/nach-amtsantritt-von-trump-transatlantisches-datenabkommen-bekommt-erste-risse/), da nun einzelne, einst von den Demokraten entsandte, Mitglieder gezwungen werden, von ihrem Amt zurückzutreten.
@@ -160,32 +160,17 @@ Im Rahmen des Förderprogramms [Smart Cities](https://www.smart-city-dialog.de/p
 [In seiner letzten Sitzung](https://www.linkedin.com/posts/ralfkaeck_ozg-konsultationsprozess-digitalstrategie-activity-7288482916823683072-krSP) hat der IT-Planungsrat [das Zielbild der OZG-Rahmenarchitektur](https://www.digitale-verwaltung.de/Webs/DV/DE/onlinezugangsgesetz/rahmenarchitektur/ozg-rahmenarchitektur/ozg-rahmenarchitektur-node.html) beschlossen, unter anderem mit der Vision: "Alle Daten und Informationen sind aktuell, vollständig, konsistent, maschinenlesbar und werden bei der Übertragung Ende-zu-Ende verschlüsselt."
 
 ## Open Data
-* Wege der Metadaten
-  https://open-north.de/blog/2025-01-09_harvesting/
-* Public Domain Image Archive
-  https://pdimagearchive.org
-  via https://fedilab.de/@nele/113797129803490576
-* 385.163 Bohrungen in Schleswig-Holstein
-  https://opendata.schleswig-holstein.de/dataset/bohrungen-in-schleswig-holstein
-  via https://norden.social/@MisterOpenData/113867091415340712
-  * NIBIS Kartenserver - Niedersächsisches Bodeninformationssystem (mit Daten auch für Hamburg, Bremen, Schleswig-Holstein)
-    https://nibis.lbeg.de/cardomap3/
-* ODIS Datenvisualisierung
-  https://citylab-berlin.org/de/blog/open-data-and-the-city-die-odis-kolumne-5/
-* Frequenzmessungen als Open Data: Fußgängerinnen und Fußgänger in der Fußgängerzone in der Moerser Innenstadt für das Jahr 2024
-  https://www.offenesdatenportal.de/dataset/fubgangerinnen-und-fubganger-auf-der-steinstrabe-in-moers-im-jahr-2024
-  via https://bsky.app/profile/derarndt.bsky.social/post/3lgfhwcrnek2v
-* Mit Fairgnügen, Berlin!
-  https://citylab-berlin.org/de/blog/mit-fairgnuegen-berlin/
-  https://fairgnuegen.berlin.de
-* Zensus 2022: Ergebnisse zu Bevölkerung und Wohnungen liegen jetzt für Wahlkreise zur Bundestagswahl 2025 vor
-  https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/01/PD25_037_12.html
-* Neues #opendata Tool von @openpotato OpenPLZ API - ein öffentliches Straßen- und Postleitzahlverzeichnis (inklusive Gemeindedaten) für DE, LI, die CH und Österreich über eine offene REST-API-Schnittstelle verfügbar macht - verwendet offene Daten der @statistik.at 
-  https://www.data.gv.at/katalog/application/c7210abd-1460-4be4-9469-83235a092a8c
-  via https://mastodon.social/@datagvat/113939408532877926
-* Das Berliner Open-Data-Handbuch
-  https://berlinonline.github.io/open-data-handbuch/
-  via https://www.linkedin.com/posts/tursics_opendata-opendata-govdata-activity-7291048119763410945-N9Uk
+Mister Open Data [erklärt auf seinem Blog](https://open-north.de/blog/2025-01-09_harvesting/), was es mit dem “Harvesting” auf sich hat.
+
+Die Daten zu Gebäude- und Wohnungszählung sowie der Personenerhebung aus dem Zensus 2022 [sind nun für jeden der 299 Wahlkreise in Deutschland verfügbar](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/01/PD25_037_12.html). Diese Daten können durchaus interessant für Politik, Wahlforschung und Wahlberichterstattung sein. 
+
+Alle (aktuell: 385.163) geologischen Bohrungen in Schleswig-Holstein kann man [übrigens](https://norden.social/@MisterOpenData/113867091415340712) auch über das Open Data Portal [beziehen](https://opendata.schleswig-holstein.de/dataset/bohrungen-in-schleswig-holstein). Auf dem [Kartenserver](https://nibis.lbeg.de/cardomap3/) des Niedersächsisches Bodeninformationssystems (NIBIS), der auch Daten für Hamburg, Bremen und eben Schleswig-Holstein zeigt, kann man sich diese Bohrungen auch auf einer Karte einblenden lassen.
+
+In Moers haben die [Frequenzmessungen](https://www.offenesdatenportal.de/dataset/fubgangerinnen-und-fubganger-auf-der-steinstrabe-in-moers-im-jahr-2024) zu Fußgängerinnen und Fußgängern in der Fußgängerzone in der Moerser Innenstadt für das Jahr 2024 in das Open Data Portal der Stadt Eingang gefunden.
+
+Mit der [OpenPLZ API](https://www.data.gv.at/katalog/application/c7210abd-1460-4be4-9469-83235a092a8c) können Straßen- und Postleitzahldaten (inklusive Gemeindedaten) für Deutschland, Liechtenstein, Schweiz und Österreich über eine [offene REST-API-Schnittstelle](https://openplzapi.org/swagger/index.html) abgefragt werden.
+
+Das Land Berlin bietet einkommensschwachen Menschen zahlreiche Aktivitäten in den Bereichen Kultur, Sport, Bildung und Freizeit ermäßigt oder sogar kostenlos an. Viele Menschen kennen diese Angebote nicht, obwohl sie sogar [in einem offenen Datensatz](https://daten.berlin.de/datensaetze/simple_search_wwwberlindesensozialessozialesicherungbnberlinticketsangebote) beschrieben werden. Beim CityLab Berlin hat man es sich daher [zur Aufgabe gemacht](https://citylab-berlin.org/de/blog/mit-fairgnuegen-berlin/), deren Sichtbarkeit durch eine eigene Recherche-App zu erhöhen. Doch diesmal sollte, nicht wie sonst, eine separat gehostete Prototyp-App entstehen, sondern die App direkt unter der berlin.de Domäne laufen. Die Herausforderung, den engen gestalterischen Look-&-Feel-Vorgaben zu genügen, wurde gemeistert und nun kann [Fairgnügen](https://fairgnuegen.berlin.de) von allen genutzt werden.  
 
 ## Linked Open Data
 * Linked Data Operations Flow Tool (Arbeitstitel): 
@@ -223,12 +208,19 @@ Im Rahmen des Förderprogramms [Smart Cities](https://www.smart-city-dialog.de/p
   https://closeread.dev
 * Data Vis Dispatch, January 28: Snowfall, astronauts, and electricity
   https://blog.datawrapper.de/data-vis-dispatch-january-28-2025/
-* Ihttps://phiresky.github.io/isbn-visualization/
+* https://phiresky.github.io/isbn-visualization/
   https://phiresky.github.io/isbn-visualization/
   https://github.com/phiresky/isbn-visualization
   via https://vis.social/@gka/113934587379915015
 
+* ODIS Datenvisualisierung
+  https://citylab-berlin.org/de/blog/open-data-and-the-city-die-odis-kolumne-5/
+
+
 ## Open access
+Das [Public Domain Image Archive](https://pdimagearchive.org) enthält gemeinfreie Bilder zum Weiternutzen, Nele Hirsch findet das [sehr hilfreich](https://fedilab.de/@nele/113797129803490576).
+
+
 * Release of the French Ph.D. database
   https://tdelcey.github.io/becoming_economists_page/news/french_release/
   https://zenodo.org/records/14713202
