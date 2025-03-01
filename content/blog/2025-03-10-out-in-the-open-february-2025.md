@@ -119,11 +119,15 @@ type: blog
   https://kweeg.at/#zdf
   https://kweeg.at/2025/02/02/open-data-transparenz-nachvollziehbarkeit/
   via https://mastodon.social/@datagvat/114065518021723199
+* Wie Uruguay die Energie-Revolution schaffte
+  https://www.zdf.de/nachrichten/politik/ausland/uruguay-energiewende-erneuerbare-energien-windkraft-wasserkraft-100.html
 
 ## Gesundheit
 * Ever wondered how is the Nutri-Score calculated ? Let's have a closer look 
   https://world.openfoodfacts.org/new-nutriscore
   via https://mastodon.social/@openfoodfacts/114042343401137082
+* Pflegebedürftige in Hessen müssen immer tiefer in die Tasche greifen: Die Eigenanteile in Pflegeheimen sind 2024 erneut um bis zu 10,5 Prozent gestiegen. Der Verband der Ersatzkassen warnt vor einem wachsenden Armutsrisiko.
+  https://www.hessenschau.de/gesellschaft/eigenanteil-im-pflegeheim-erneut-stark-gestiegen-v1,pflegeheim-hessen-kosten-100.html
 
 ## KI
 * AI Act: Was er regelt und wen er betrifft
@@ -191,6 +195,12 @@ type: blog
   https://fragdenstaat.de/artikel/exklusiv/2025/02/beraterberichte/
   * Geschätzt 2.600 Berater*innen arbeiten für die Bundesregierung. Hätten sie ein Ministerium, wäre es eines der größten
     https://bsky.app/profile/fragdenstaat.de/post/3lj7xfgsz2k2c
+* Wie intransparente Parteispenden das Vertrauen in die Politik schwächen
+  https://www.faz.net/aktuell/wirtschaft/intransparente-parteispenden-warum-die-korruption-in-deutschland-zunimmt-110289207.html
+* Gescheitertes Transparenzgesetz: Eine verpasste Jahrhundertchance
+  https://netzpolitik.org/2025/gescheitertes-transparenzgesetz-eine-verpasste-jahrhundertchance/
+* Ampelregierung machte Hunderte Ausnahmen bei Personalentscheidungen
+  https://www.zeit.de/politik/deutschland/2025-02/ampel-regierung-personal-entscheidung-ausnahmen-linke-reichinnek
 
 ## USA
 * Project2025 specifically noted NOAA as a target, as well. The Heritage Foundation’s 900-page right-wing playbook called the agency “one of the main drivers of the #climate change alarm industry” and recommended it be “dismantled and many of its functions eliminated” and instead #privatized
@@ -264,6 +274,8 @@ type: blog
     https://www.djv.de/news/pressemitteilungen/press-detail/djv-kritisiert-kleine-anfrage-von-friedrich-merz/
   * Zu den verfassungsrechtlichen Anforderungen an die Kommunikation aus dem Parlament
     https://verfassungsblog.de/anfrage-bundestag-informationhandeln/
+  * Wie eine Lobbygruppe den Wahlkampf verzerrt
+    https://blog.campact.de/2025/02/insm-lobbygruppe-wahlkampf-bundestagswahl/
 * Wir starten das Justiz-Projekt Wie verwundbar ist die deutsche Justiz?
   https://verfassungsblog.de/wir-starten-das-justiz-projekt/
   https://verfassungsblog.de/justiz-projekt/
