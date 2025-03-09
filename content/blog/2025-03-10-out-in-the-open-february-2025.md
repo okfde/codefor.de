@@ -68,33 +68,23 @@ Die Meinungsfreiheit, die sie meinen: nämlich nur die eigene, also [Hofberichte
 Alles also im Sinne von [König Trump](https://www.nbcnews.com/politics/donald-trump/king-trump-rcna192912) und [seinem Größenwahn](https://bsky.app/profile/arminwolf.at/post/3lj2ygbi62i24). Richter, die sich dem entgegenstellen, [werden mit Gestapo-Methoden massiv eingeschüchtert](https://bewegung.social/users/neuSoM/statuses/114059570021763446).
 
 ## Transparenz
-[Wes Brot ich ess, des Lied ich sing](https://de.wiktionary.org/wiki/wes_Brot_ich_ess,_des_Lied_ich_sing) scheint auch das Prinzip bei den Deal-Makern der großen Tech-Firmen zu lauten, denn wie [eine Recherche vom Observer ergeben hat](https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests), geht Google autokratischen Regimen wie Russland und China gerne zur Hand, ihre Zensurgesuche gegen missliebige Inhalte zu erfüllen. Wenn "Würde" nur noch im Satz "Was würde ich alles für Geld tun" vorkommt. Gleiches lässt sich auch über das ["Phantom von Prag"](https://taz.de/Milliardaer-auf-fossiler-Einkaufstour/!6062173/) sagen.
-
 "Es könnte auf absehbare Zeit das letzte mal gewesen sein, dass es eine progressive Mehrheit im Parlament für echte Transparenz gab", [so urteilt Netzpolitik](https://netzpolitik.org/2025/gescheitertes-transparenzgesetz-eine-verpasste-jahrhundertchance/) über die verpasste Chance, das eigentlich schon fertige Bundes-Transparenzgesetz, nicht noch über die Ziellinie gebracht zu haben.
 
 Aber wahrscheinlich fürchtet man sich weiterhin vor zu viel Transparenz, z.B. bei [den schnell noch kurz vor Regierungswechsel verbeamteten Mitarbeitenden](https://www.zeit.de/politik/deutschland/2025-02/ampel-regierung-personal-entscheidung-ausnahmen-linke-reichinnek) oder zu [den staatlichen Beratungsaufträgen](https://fragdenstaat.de/artikel/exklusiv/2025/02/beraterberichte/), für die es Dank FragDenStaat nun eine extra [Datenbank](https://fragdenstaat.de/daten/beraterberichte/) gibt, um auf den Daten aus den Originaldokumenten suchen zu können. Hätten die Berater:innen ein eigenes Ministerium, [wäre es eines der größten](https://bsky.app/profile/fragdenstaat.de/post/3lj7xfgsz2k2c).
 
 ## Digitale Souveränität
-* I’m quite confused when I hear my fellow European citizens worry about our dependence on American Big Tech
-  https://manganiello.social/notice/ArBvkj20YVOrW8hTH6
-* Demokratie vs. Plattformmacht: Ein Aufruf zur politischen Gestaltung
-  https://bits-und-baeume.org/blog/demokratie_vs_plattformmacht/
-* Digitaler Kolonialismus: Die stille Machtübernahme am Meeresgrund
-  https://netzpolitik.org/2025/digitaler-kolonialismus-die-stille-machtuebernahme-am-meeresgrund/
-* Encrypted Apple iCloud option (ADP) is being pulled for UK customers. Because only criminals use e2e encryption, this will only hurt criminals. 
-  https://www.bbc.com/news/articles/cgj54eq4vejo
-  via https://infosec.exchange/@wdormann/114042605073837909
-* Sovereign Cloud Stack im eGovernment-Podcast
-  https://egovernment-podcast.com/egov209-scs-update/
-* Gaia-X ist tot, lang lebe 8ra?
-  https://www.computerwoche.de/article/3821798/gaia-x-ist-tot-lang-lebe-8ra.html
+[Wes Brot ich ess, des Lied ich sing](https://de.wiktionary.org/wiki/wes_Brot_ich_ess,_des_Lied_ich_sing) scheint auch das Prinzip bei den Deal-Makern der großen Tech-Firmen zu lauten, denn wie [eine Recherche vom Observer ergeben hat](https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests), geht Google autokratischen Regimen wie Russland und China gerne zur Hand, ihre Zensurgesuche gegen missliebige Inhalte zu erfüllen. Wenn "Würde" nur noch im Satz "Was würde ich alles für Geld tun" vorkommt.
+
+Auch Regierungen greifen die digitale Souveränität an, wenn sie, wie die britische, Menschen, die Ende-zu-Ende-Verschlüsselung nutzen wollen, generell [unter Kriminalitätsverdacht stellt](https://infosec.exchange/@wdormann/114042605073837909) und nun gegenüber Apple durchgesetzt hat, dass die Option "Encrypted Apple iCloud" (ADP) für Apple-Cloud-Nutzer in Großbritannien [nicht zur Verfügung steht](https://www.bbc.com/news/articles/cgj54eq4vejo). Damit schafft sie gleich auch noch eine Präsidenzfall für andere Staaten.
+
+[Fabio Manganiello erinnert daran](https://manganiello.social/notice/ArBvkj20YVOrW8hTH6), dass die amerikanische Tech-Industrie viel stärker von europäischen Talenten abhängig ist, als wir das allgemeinhin glauben. Hätten wir kohärente Förderprogramme in Europa, könnten diese Talente ähnlich erfolgreiche Unternehmen auch auf unserem Kontinent aufbauen. "Die digitale Zukunft selbst in die Hand nehmen" [fordern auch Johanna Graf von Germanwatch und Jan-David Franke von Wikimedia Deutschland](https://bits-und-baeume.org/blog/demokratie_vs_plattformmacht/), um den Gefahren "politischer, medialer und ökonomischer Macht im Bereich von digitalen Plattformen" für die Demokratie effektiv entgegenzuwirken. Denn sonst schreitet der "Digitale Kolonialismus" weiter ungehindert voran, wie z.B. bei [der Kontrolle von Unterseekabeln](https://netzpolitik.org/2025/digitaler-kolonialismus-die-stille-machtuebernahme-am-meeresgrund/).
 
 ## Verwaltungsdigitalisierung
-* Zähe Verwaltungsdigitalisierung: Normenkontrollrat will föderale Hürden überwinden
-  https://netzpolitik.org/2025/zaehe-verwaltungsdigitalisierung-normenkontrollrat-will-foederale-huerden-ueberwinden/
-  via https://openbiblio.social/@esthermenhard/114002019549276937
-  * im Thread: Vorsätzliche Ignoranz: Von den Hindernissen digitaler Transformation und Schrödingers Katze
-    https://rsw.beck.de/aktuell/daily/meldung/detail/vorsaetzliche-ignoranz-justiz-behoerden-digitale-transformation-studie
+[Nextcloud](https://nextcloud.com/de/) wird das [Gaia-X](https://de.wikipedia.org/wiki/Gaia-X)-Konsortium verlassen, da vom ursprünglichen Ziel, vergeichbare Cloud-Dienste wie Amazon oder Microsoft zu schaffen, [kaum mehr was übrig ist](https://www.computerwoche.de/article/3821798/gaia-x-ist-tot-lang-lebe-8ra.html), und die Politik inzwischen auf die neue Initiative [8ra](https://www.8ra.com) setzt, die Vision, Mission und einzelnen Projekte des [IPCEI-CIS](https://www.bmwk.de/Redaktion/DE/Artikel/Industrie/ipcei-cis.html) vereinen soll. Bleibt abzuwarten, ob man aus den Fehlern der Vergangenheit gelernt hat.
+
+Ein Update zum Stand des [Sovereign Cloud Stacks (SCS)](https://sovereigncloudstack.org/de/), einer anderen Cloud-Initiative, gibt Felix Kronlage-Dammers von der [Open Source Business Alliance](https://osb-alliance.de) (OSBA) [im eGovernment-Podcast](https://egovernment-podcast.com/egov209-scs-update/).
+
+[In einem Gutachten](https://www.normenkontrollrat.bund.de/Webs/NKR/DE/veroeffentlichungen/gutachten/_documents/2025-02-03-nkr-gutachten-gaap.html) kommt der Normenkontrollrat zum Schluss, dass sich das durch föderale Strukturen bedingte Problem der "Aufgabenzersplitterung" bei der Umsetzung der Verwaltungsdigitalisierung auch ohne eine "übergroße Staatsreform" [lösen ließe](https://netzpolitik.org/2025/zaehe-verwaltungsdigitalisierung-normenkontrollrat-will-foederale-huerden-ueberwinden/), indem man einfach nur den Spielraum nutzt, den das Grundgesetz lässt. Thomas Fricke ist allerdings [skeptisch](https://openbiblio.social/@thomasfricke@23.social/114002088517944446) und verweist auf das Phänomen der ["Vorsätzlichen Ignoranz"](https://rsw.beck.de/aktuell/daily/meldung/detail/vorsaetzliche-ignoranz-justiz-behoerden-digitale-transformation-studie)
 
 ## Open Source
 * Software zur Durchführung von Wahlen muss Open Source sein
