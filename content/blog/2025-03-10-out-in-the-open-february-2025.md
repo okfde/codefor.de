@@ -25,53 +25,30 @@ Psychologische Effekte, wie das [Minimalgruppenparadigma](https://de.wikipedia.o
 Auf [Mimikama](https://www.mimikama.org/) hat man deswegen ein [Dossier](https://www.mimikama.org/populismus-und-extremismus/) zusammengestellt, wie wie man populistische Taktiken erkennt und wie man gezielt gegen sie argumentieren kann.
 
 ## Offene Gesellschaft
-* CDU macht jetzt auf AfD und feuert 551 Fragen zu gemeinnützigen Orgas (oder was sie dafür halten) raus – angeführt von Merz & Dobrindt. 
-  https://dserver.bundestag.de/btd/20/150/2015035.pdf
-  via https://digitalcourage.social/@padeluun/114065387653792821
-  * Die Überschrift weist den Weg für die kommenden 4 Jahre: Mit der Lüge, Zivilgesellschaft müsse "politisch neutral" sein,
-    https://bsky.app/profile/arnesemsrott.bsky.social/post/3liyy6ot27227
-  * Ich habe die kleine Anfrage der Union für taz.de länger eingeordnet. 
-    https://taz.de/CDU-delegitimiert-NGOs/!6072216/
-    via https://bsky.app/profile/arnesemsrott.bsky.social/post/3lj2yww4ht22g
-  * "Die CDU/CSU hätte diese Zeit und Energie nutzen können, um sich selbstkritisch zu hinterfragen, wieso sie bei den Protesten der Zivilgesellschaft gegen Rechts mitgemeint waren"
-    https://fedifreu.de/@Datenpunks/114069711120174729
-  * "Wenn man Demokratiefeinde finanziert, aber Demokratiefreunde nicht, sagt das viel."
-    https://www.mdr.de/nachrichten/deutschland/politik/afd-parteigelder-zur-haelfte-staatlich-finanziert-100.html
-    via https://mastodon.social/@ewolff/114069507476160325
-  * Merz gegen uns alle: Angriff auf die Zivilgesellschaft abwehren!
-    https://aktion.campact.de/gemeinnuetzigkeit/cdu-angriff-auf-zivilgesellschaft/teilnehmen?utm_campaign=angriff-auf-zivilgesellschaft&utm_medium=recommendation
-  * Wie hoch ist der Anteil der Spenden aus der Wirtschaft oder von parteinahen Stiftungen an den Verein Bundesverband der Deutschen Industrie e.V.?
-    https://bsky.app/profile/thankyouforthefish.bsky.social/post/3lj3vjwyxns2w
-  * parteinahen Stiftungen
-    https://bsky.app/profile/larswienand.bsky.social/post/3lj3rhfuaak2u
-  * Liste der CDU Unterstützer
-    https://bsky.app/profile/jdoeschner.bsky.social/post/3lj5hasskl22h
-  * Panorama: Die 551 Fragen der Union: Ganz normal oder Einschüchterung?  - hier anschauen
-    https://bsky.app/profile/beyond-ideology.bsky.social/post/3ljadaghm3k24
-  * Die neue correctiv.org Recherche zeigt, wie die CDU schon länger nach rechts gerückt wird. Dabei spielen altbekannte Akteure außerhalb der Partei eine Rolle, etwa Wirtschaftslobbyisten und PR-Macher wie von der INSM. 
-    https://correctiv.org/aktuelles/parteien/2025/02/11/die-rechtstreiber-welche-hardliner-die-cdu-nach-rechts-ziehen/
-    via https://bsky.app/profile/lobbycontrol.bsky.social/post/3lhxxy33c4k24
-  * Kleine Anfrage der Unionsfraktion zu NGO: Unsere Antworten auf die Fragen zu CORRECTIV
-    https://correctiv.org/in-eigener-sache/2025/02/26/kleine-anfrage-der-unionsfraktion-zu-ngo-unsere-antworten-auf-die-fragen-zu-correctiv/
-  * DJV kritisiert Kleine Anfrage von Friedrich Merz
-    https://www.djv.de/news/pressemitteilungen/press-detail/djv-kritisiert-kleine-anfrage-von-friedrich-merz/
-  * Zu den verfassungsrechtlichen Anforderungen an die Kommunikation aus dem Parlament
-    https://verfassungsblog.de/anfrage-bundestag-informationhandeln/
-  * Wie eine Lobbygruppe den Wahlkampf verzerrt
-    https://blog.campact.de/2025/02/insm-lobbygruppe-wahlkampf-bundestagswahl/
-* Genossen­schaften für eine offene Gesellschaft
-  https://genossenschaften.digital/genossenschaften-fuer-eine-offene-gesellschaft
-* Handeln statt hadern
-  https://fragdenstaat.de/aktionen/handeln-statt-hadern/
-* Wir starten das Justiz-Projekt Wie verwundbar ist die deutsche Justiz?
-  https://verfassungsblog.de/wir-starten-das-justiz-projekt/
-  https://verfassungsblog.de/justiz-projekt/
+Mit ihrer kleinen Anfrage ["Politische Neutralität staatlich geförderter Organisationen"](https://dserver.bundestag.de/btd/20/150/2015035.pdf), die just einen Tag nach der Bundestagwahl veröffentlicht wurde, setzt die CDU unter Führung von Merz und Dobrindt eine erste Duftmarke, wie sie unliebsame Kritiker einschüchtern und mundtot machen möchte. Mit den ["551 Fragen zu gemeinnützigen Orgas (oder was sie dafür halten)"](https://digitalcourage.social/@padeluun/114065387653792821) wird ["die staatliche Demokratieförderung unter Beschuss genommen"](https://bsky.app/profile/arnesemsrott.bsky.social/post/3liyy6ot27227).
+    
+Statt sich also ["selbstkritisch zu hinterfragen, wieso sie bei den Protesten der Zivilgesellschaft gegen Rechts mitgemeint waren"](https://fedifreu.de/@Datenpunks/114069711120174729), wird im Papier von "Schattenstruktur, die mit staatlichen Geldern indirekt Politik betreibt" geraunt, also einem angeblichen ["Staat im Staate (Deep State)"](https://de.wikipedia.org/wiki/Staat_im_Staate).
+
+Der Deutsche Journalisten-Verband (DJV) [übt massive Kritik](https://www.djv.de/news/pressemitteilungen/press-detail/djv-kritisiert-kleine-anfrage-von-friedrich-merz/) an diesen "in Fragen gegossenen Unterstellungen", die von den Beteiligten "nur als Drohung empfunden" werden können.  
+
+Die auch in [diesem Panorama-Beitrag](https://www.ndr.de/fernsehen/sendungen/panorama/archiv/2025/Die-551-Fragen-der-Union-Ganz-normal-oder-Einschuechterung-,kleineanfrage120.html) zur Wort kommende Sophie Schönberger, Professorin für Öffentliches Recht an der Heinrich-Heine-Universität Düsseldorf,
+[ordnet beim Verfassungsblog ein](https://verfassungsblog.de/anfrage-bundestag-informationhandeln/), dass "das Fragerecht der Fraktionen, das aus Art. 38 Abs. 1 S. 2 GG folgt, ein parlamentarisches Recht zur Kontrolle der Regierung ist". Da der Großteil der Fragen "sich ausschließlich gegen bestimmte NGOs" richte, hätte daher die Bundestagspräsidentin die Anfrage "zum Schutz der Grundrechte der betroffenen Vereinigungen in dieser Form zurückweisen müssen und nicht veröffentlichen dürfen".
+
+Die in der Anfrage beschuldigten Organisationen haben inzwischen auch reagiert. Sie hat Correctiv die konkret an sie gestellten Fragen [hier beantwortet](https://correctiv.org/in-eigener-sache/2025/02/26/kleine-anfrage-der-unionsfraktion-zu-ngo-unsere-antworten-auf-die-fragen-zu-correctiv/), da sie nichts zu verbergen haben. Einige der aufgeführten Vereine, wie z.B. die [Omas gegen Rechts](https://www.omas-gegen-rechts.org) waren dabei noch nie als gemeinnützig eingestuft gewesen, bekamen somit zu keinem Zeitpunkt staatliche Zuwendungen. Ein der [Oma-Mitgründerin war zudem selbst in der CDU](https://taz.de/551-Fragen-im-Bundestag/!6069900/) und wehren sich nun mit einer [Petition](https://innn.it/anmerzvonomas). Auch das betroffene Campact hat [eine solche gestartet](https://aktion.campact.de/gemeinnuetzigkeit/cdu-angriff-auf-zivilgesellschaft/teilnehmen), um "diesen Angriff auf die Zivilgesellschaft abzuwehren".
+
+Ein Gutes hat die Anfrage, denn sie verschafft ([ungewollt](https://de.wikipedia.org/wiki/Streisand-Effekt)) den darin benannten Organisationen mehr Aufmerksamkeit und ist eine Empfehlung für die nächste Spende und das nächste Engagement. Sie lässt sich ergänzen durch die Liste der Mitzeichnenden des offenen Briefs ["Genossen­schaften für eine offene Gesellschaft"](https://genossenschaften.digital/genossenschaften-fuer-eine-offene-gesellschaft). 
+
+## Wer im Glashaus sitzt...
+Wer Fragen stellt, sollte sich auch Fragen gefallen lassen, wie z.B. zu ["Spenden aus der Wirtschaft oder von parteinahen Stiftungen an den Verein Bundesverband der Deutschen Industrie e.V."](https://bsky.app/profile/thankyouforthefish.bsky.social/post/3lj3vjwyxns2w), zu ["parteinahen Stiftungen"](https://bsky.app/profile/larswienand.bsky.social/post/3lj3rhfuaak2u), zu [den vielen e.Vs. beim Wirtschaftwarntag](https://bsky.app/profile/jdoeschner.bsky.social/post/3lj5hasskl22h), zu den ["irreführenden und rückwärtsgewandten Lobbybotschaften" der Initiative Neue Soziale Marktwirtschaft (INSM)](https://blog.campact.de/2025/02/insm-lobbygruppe-wahlkampf-bundestagswahl/) und anderen ["Rechtstreibern"](https://correctiv.org/aktuelles/parteien/2025/02/11/die-rechtstreiber-welche-hardliner-die-cdu-nach-rechts-ziehen/).
+ 
+"Wenn man Demokratiefeinde finanziert, aber Demokratiefreunde nicht, sagt das viel.", [sagt Eberhard Wolff](https://mastodon.social/@ewolff/114069507476160325) als Reaktion auf die Recherche des MDRs, dass sich "keine andere im Bundestag vertretene Partei prozentual so stark aus staatlichen Geldern finanziert wie die AfD. So lag der Anteil öffentlicher Mittel an ihren gesamten Einnahmen 2022 bei fast 45 Prozent."
+
+Um nicht [wie das Kaninchen vor der Schlange](https://de.wiktionary.org/wiki/wie_ein_Kaninchen_vor_der_Schlange_stehen) zu stehen und damit den "Antidemokraten das Feld zu überlassen" heißt es also ["handeln statt hadern"](https://fragdenstaat.de/aktionen/handeln-statt-hadern/), Widerstand durch Informationsfreiheitsanfragen, investigative Recherchen, Beratung, Gegenrechtsschutz und Klagen.
 
 ## Geschichte wiederholt sich?
-* 33%
-  https://33-prozent.com
-* Schon wieder
-  https://datajournal.org/schon-wieder/
+Der Titel der Webseite ["33%"](https://33-prozent.com) spielt darauf an, dass "die NSDAP zum Zeitpunkt der Machtübernahme durch Hitler gerade einmal 33% hatte". "Nur wenn wir uns damit beschäftigen, wie es damals angefangen hat, können wir unsere Demokratie davor beschützen, dass so etwas noch einmal passiert". Ähnlich wie Luis Haitzer und seine Unterstützenden stellt Michael Kreil in seinem ["Schon wieder"](https://datajournal.org/schon-wieder/) die historischen Parallelen gegenüber, so weit sie sich schon ziehen lassen und schreibt sie aber auch als Mahnung fiktiv bis ins Jahr 2030 fort. 
+
+Um den Entwicklungen entgegenzuwirken, hat der [Verfassungsblog](https://verfassungsblog.de/) das [Justiz-Projekt](https://verfassungsblog.de/justiz-projekt/) als [Forschungsprojekt initiiert](https://verfassungsblog.de/wir-starten-das-justiz-projekt/), um auf die Verwundbarkeit der unabhängigen und unparteiischen Justiz in Bund und Ländern aufmerksam zu machen, damit noch frühzeitig entsprechende Sicherheitsvorkehrungen getroffen werden können. 
 
 ## USA
 * Project2025 specifically noted NOAA as a target, as well. The Heritage Foundation’s 900-page right-wing playbook called the agency “one of the main drivers of the #climate change alarm industry” and recommended it be “dismantled and many of its functions eliminated” and instead #privatized
