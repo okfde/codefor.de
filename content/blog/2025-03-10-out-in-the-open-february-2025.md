@@ -87,15 +87,11 @@ Ein Update zum Stand des [Sovereign Cloud Stacks (SCS)](https://sovereigncloudst
 [In einem Gutachten](https://www.normenkontrollrat.bund.de/Webs/NKR/DE/veroeffentlichungen/gutachten/_documents/2025-02-03-nkr-gutachten-gaap.html) kommt der Normenkontrollrat zum Schluss, dass sich das durch föderale Strukturen bedingte Problem der "Aufgabenzersplitterung" bei der Umsetzung der Verwaltungsdigitalisierung auch ohne eine "übergroße Staatsreform" [lösen ließe](https://netzpolitik.org/2025/zaehe-verwaltungsdigitalisierung-normenkontrollrat-will-foederale-huerden-ueberwinden/), indem man einfach nur den Spielraum nutzt, den das Grundgesetz lässt. Thomas Fricke ist allerdings [skeptisch](https://openbiblio.social/@thomasfricke@23.social/114002088517944446) und verweist auf das Phänomen der ["Vorsätzlichen Ignoranz"](https://rsw.beck.de/aktuell/daily/meldung/detail/vorsaetzliche-ignoranz-justiz-behoerden-digitale-transformation-studie)
 
 ## Open Source
-* Software zur Durchführung von Wahlen muss Open Source sein
-  https://osb-alliance.de/verbands-news/software-zur-durchfuehrung-von-wahlen-muss-open-source-sein
-* Öffentliche Verwaltung: Ruf nach klaren Kriterien zur Open-Source-Beschaffung
-  https://www.heise.de/news/Oeffentliche-Verwaltung-Ruf-nach-klaren-Kriterien-zur-Open-Source-Beschaffung-10278793.html
-* Förderung für Software-Prototypen
-  https://besserwissen.podigee.io/127-prototypefund
-* Wir freuen uns, Details darüber zu teilen, wie der Sovereign Tech Fund in die Modernisierung der Kerntechnologie von OpenStreetMap investiert.
-  https://www.sovereign.tech/de/tech/openstreetmap
-  via https://mastodon.social/@sovtechfund/114081204407254308
+"Jede kritische digitale Infrastruktur des Staates muss Open Source sein" [erwartet die Open Source Business Alliance von der nächsten Bundesregierung](https://osb-alliance.de/verbands-news/software-zur-durchfuehrung-von-wahlen-muss-open-source-sein), so auch die Software zur Durchführung von Wahlen, wie es der Chaos Computer Club bereits seit 2017 fordert. Und dies muss entsprechend auch im Vergaberecht verankert werden. Dazu braucht es aber auch [klarere Kriterien zur Beschaffung](https://www.heise.de/news/Oeffentliche-Verwaltung-Ruf-nach-klaren-Kriterien-zur-Open-Source-Beschaffung-10278793.html).
+
+Der [Sovereign Tech Fund](https://www.sovereign.tech/) teilt erste [Details](https://mastodon.social/@sovtechfund/114081204407254308), wie er in die Modernisierung der Kerntechnologie von OpenStreetMap [investiert](https://www.sovereign.tech/de/tech/openstreetmap).
+
+Im wöchentlichen Technologie-Podcast "Besser Wissen" war Ende Februar [das Prototypfund-Team zu Gast](https://besserwissen.podigee.io/127-prototypefund).   
 
 ## Open Data
 * Wie das Archiv der sozialen Demokratie Teile des Internets archiviert
