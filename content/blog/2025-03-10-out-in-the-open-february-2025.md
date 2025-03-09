@@ -104,6 +104,8 @@ In Frankfurt am Main wurde das bisher selbstentwickelte Open-Data-Portal mit der
 
 Daten generell dort auffindbar zu machen und anzuzeigen, wo sie (geografisch) relevant sind, [wird im Open Data Forum diskutiert](https://discourse.opencode.de/t/bundesdaten-auch-in-landesportalen/3775). Es kann nicht sein, dass man als Nutzer die Verwaltungsstrukturen kennen zu müssen und sich die Informationen einzeln zusammensuchen muss, nur weil die verschiedenen Open-Data-Portale strikt nach Verantwortlichkeiten getrennt sind.   
 
+Mit dem [DCAT-AP.de Analyzer](https://github.com/tifa365/dcatapde_ai_analyzer) hat Tim Fangmeyer den für das Datenportal Zürich und die Schweiz entwickelten [OGD Auto AI Analyzer](https://github.com/machinelearningZH/ogd_ai-analyzer) an den deutschen DCAT-AP.de Standard [angepasst](https://www.linkedin.com/pulse/daten-t%25C3%25BCv-ki-basierte-qualit%25C3%25A4tssicherung-von-portalen-tim-fangmeyer-45saf/). Damit lassen sich die vielen Metadaten in deutschen Open-Data-Portalen automatisiert analysieren und ihre Qualität kontinuierlich sicherstellen.
+
 Auf der Konferenz [New Techniques and Technologies for official Statistics (NTTS)](https://cros.ec.europa.eu/ntts2025) in Brüssel wird es vom 11. bis 13. März wieder um neue Technologien und Methoden für die amtliche Statistik gehen. Wahlatlas hat bereits angekündigt, dort etwas über [Bienenschwarmdiagramme](https://norden.social/@wahlatlas/113979869475337250) zur Darstellung von Mieten nach Städten erzählen zu wollen.
 
 ## Gesundheit
@@ -152,27 +154,21 @@ Auch viele Unternehmen bekennen sich zu ihrer Verantwortung und haben [einen App
 Auch ein von Prominenten unterzeichneter [Offener Brief](https://klima-retten.jetzt) fordert die kommende Bundesregierung auf, Verantwortung für konsequentem Klimaschutz zu übernehmen, für eine Politik einzutreten, die Lösungen statt Polemik präsentiert und sich nicht der rechten Stimmungsmache gegen bezahlbaren Klimaschutz ergibt.
 
 ## KI
-* AI Act: Was er regelt und wen er betrifft
-  https://www.mpg.de/24096506/faq-was-regelt-der-ai-act
-* 162 Terabyte geklaut: Meta betreibt illegales Torrenting für KI-Training
-  https://winfuture.de/news,148694.html
-* Dürfen wir Ihre Informationen durch unsere KI jagen?
-  https://netzpolitik.org/2025/privatsphaere-duerfen-wir-ihre-informationen-durch-unsere-ki-jagen/
-* Sturmflut-KI: Machine Learning kann beim Küstenschutz helfen
-  https://www.heise.de/news/Sturmflut-KI-Machine-Learning-kann-beim-Kuestenschutz-helfen-10285327.html
-* Ressourcenverbrauch von Artificial Intelligence
-  https://thomasfricke.de/post/energy-resource-ai-de/
-* KI-Chronik 2024: Die wichtigsten Sprachmodelle im Überblick
-  https://www.linkedin.com/pulse/ki-chronik-2024-die-wichtigsten-sprachmodelle-im-tim-fangmeyer-cwwhf
-* Daten-TÜV: KI-basierte Qualitätssicherung von Open-Data Portalen
-  https://www.linkedin.com/pulse/daten-t%25C3%25BCv-ki-basierte-qualit%25C3%25A4tssicherung-von-portalen-tim-fangmeyer-45saf/
-  https://github.com/tifa365/dcatapde_ai_analyzer
-  https://github.com/machinelearningZH/ogd_ai-analyzer  
-* Artikel „Assessing SPARQL capabilities of Large Language Models“ nun in den Workshop-Proceedings von NLP4KGc@SEMANTiCS24 veröffentlicht 
-  https://cc-eti.org/artikel-assessing-sparql-capabilities-of-large-language-models/
-  https://arxiv.org/abs/2409.05925
-* Aider is AI pair programming in your terminal
-  https://aider.chat
+Um die Häufigkeit und die Höhe von Sturmfluten besser vorhersagen zu können, hat die Universität Hamburg [eine sogenannte Sturmflut-KI antrainiert](https://www.heise.de/news/Sturmflut-KI-Machine-Learning-kann-beim-Kuestenschutz-helfen-10285327.html).  
+
+Das Open-Source Tech-Unternehmen HuggingFace hat eine tabellarische Übersicht der wichtigsten KI-Modelle erstellt, die Tim Fangmeyer [noch etwas getunt hat](https://www.linkedin.com/pulse/ki-chronik-2024-die-wichtigsten-sprachmodelle-im-tim-fangmeyer-cwwhf). Es zeichnet sich 2024 ein bemerkenswerter Trend ab: Open-Source-Modelle stehen in enger Konkurrenz zu kommerziellen Modellen.
+
+Das [LLM-KG-Bench-Framework](https://github.com/AKSW/LLM-KG-Bench) ist ein am [InfAI e. V.](https://infai.org) entwickeltes Werkzeug zum automatisierten Bewerten der Fähigkeiten von LLMs mit Wissensgraphen umzugehen, der zugehörige Artikel ["Assessing SPARQL capabilities of Large Language Models"](https://cc-eti.org/artikel-assessing-sparql-capabilities-of-large-language-models/) wurde nun veröffentlicht.
+
+Mit [Aider](https://aider.chat) kann man LLM-assistiert im lokalen Git-Repository programmieren. Zu in Prompts formulierten Programmieraufgaben lädt und installiert Aider über die LLM-API automatisch die benötigten Bibliotheken und kopiert den generierten Code in lokale Dateien. Diese werden durch nachfolgende Prompts entsprechend wieder aufgegriffen und erweitert. Sollte durch eine Änderungsanforderung die Anwendung nicht mehr funktionieren, reicht unter Umständen einfach nur der Prompt "Behebe den Bug", un der Fehler wird in der bestehenden Codebasis behoben.    
+
+Thomas Fricke versucht [in seinem Artikel](https://thomasfricke.de/post/energy-resource-ai-de/) einen Realitätsabgleich für den Ausbau von KI-Rechenzentren. Der sich abzeichnende Energie-, Wasser-, Flächen- und Materialverbrauch hat einen gewaltigen Einfluss auf die Umwelt und stellt damit in einer Kosten-Nutzen-Rechnung den KI-Hype in Gänze in Frage.
+
+Neben diesem Klima-Aspekt stellt die Daten-Gier ein weiteres Problem dar. So kam heraus, dass Meta [illegales Torrenting für KI-Training betreibt](https://winfuture.de/news,148694.html) und dabei 162 Terabyte geklaut hat. Aus Bequemlichkeit, Gewohnheit und Unbedachtheit verdrängen auch viele bei der Nutzung von KI-Systemen (sofern man sie überhaupt als solche wahrnimmt) Datenschutzfragen und teilen unbesorgt personenbezogene sowie firmeninterne Daten, [die zunehmend zum Rohmaterial für generative KI umfunktioniert werden](https://netzpolitik.org/2025/privatsphaere-duerfen-wir-ihre-informationen-durch-unsere-ki-jagen/). Wasser auf die Mühlen der [Post-Privacy](https://de.wikipedia.org/wiki/Post-Privacy)-Anhänger wie 
+dem ehemaligen CEO von Google, Eric Schmidt, der bereits 2009 seine weltfremde Haltung zu Privatssphäre offenbarte:
+["If You Have Something You Don't Want Anyone To Know, Maybe You Shouldn't Be Doing It"](https://www.huffpost.com/entry/google-ceo-on-privacy-if_n_383105). 
+
+Der am 2. Februar [in Kraft getretene AI Act](https://www.mpg.de/24096506/faq-was-regelt-der-ai-act) stellt für alle 27 Mitgliedstaaten einheitliche Regeln auf, für welche KI-Systeme in der Europäischen Union (EU) der Verkauf und Verwendung erlaubt oder eben verboten sind.
 
 ## Kultur
 Mit der App [GLAMorous Europe](https://www.glam-europe.de) lässt sich europäisches Kulturerbe entdecken. [Im Interview](https://tech-news.wikimedia.de/2025/02/05/glam-rockers/) erzählen Anne und Gerd vom [Digitalwarenkombinat](https://digitalwarenkombinat.de) über die Hintergründe, z.B. über den Einsatz von Wikidata.
@@ -184,20 +180,10 @@ Die Kooperationen zeitgenössischer Musiker:innen bildet der [Music Collab Explo
 Beim [Narrenschiff](https://de.wikipedia.org/wiki/Das_Narrenschiff_(Brant)) handelt es sich um eine spätmittelalterliche Moralsatire, erstmalig 1494 als Buch gedruckt. Der [Karl-Berbuer](https://de.wikipedia.org/wiki/Karl_Berbuer)-Brunnen in Köln ist auch unter diesem Namen bekannt, [wurde 1987 errichtet und 2023 aufwändig saniert](https://www.stadt-koeln.de/artikel/71540/index.html). Ertan Özcan hat nun diesen Brunnen für die ehrenamtliche Denkmalkarte [Denkmal 4D Köln](https://codeforcologne.github.io/Denkmal-4D-Koeln/) als Digitalzwilling [aufgenommen](https://de.linkedin.com/posts/ertan-%C3%B6zcan-73bb3399_digitalheritage-digitaltwin-narrenschiff-activity-7299576650457894914-dtl2).
 
 ## Recap
-* NIAM 2025
-  https://news-infographics-analytics-maps.media/2025.html
-* FOSDEM 2025
-  https://volkerkrause.eu/2025/02/08/kde-fosdem2025.html
-* New Techniques and Technologies for Statistics (NTTS) - Sammlung Zusammenfassung der Einreichungen von der Statistik-Konferenz
-  https://cros.ec.europa.eu/book-page/ntts-materials
-* Data Reuse Days 2025
-  https://www.wikidata.org/wiki/Event:Data_Reuse_Days_2025
-  https://www.youtube.com/watch?v=tSnEFCyKJsU&list=PLduaHBu_3ejMPb2P_3XWnLH4K14f7wGRd
+Von der NIAM-Konferenz im Januar finden sich nun die Video-Mitschnitte [auf der Webseite](https://news-infographics-analytics-maps.media/2025.html). Seine Eindrücke von der diesjährigen FOSDEM hat Volker Krause [im Blog geschildert](https://volkerkrause.eu/2025/02/08/kde-fosdem2025.html). Von den [Data Reuse Days 2025](https://www.wikidata.org/wiki/Event:Data_Reuse_Days_2025) gibt es [eine Playlist bei Youtube](https://www.youtube.com/watch?v=tSnEFCyKJsU&list=PLduaHBu_3ejMPb2P_3XWnLH4K14f7wGRd)
 
 ## Und sonst so?
-* The Data Detox Bar Experience
-  https://tacticaltech.org/data-detox-bar-experience/
-  via https://mastodon.cc/users/info_activism/statuses/114063701169608543
+In der interaktiven [Data Detox Bar Experience](https://tacticaltech.org/data-detox-bar-experience/) sollen Teilnehmende lernen, ihre digitalen Gewohnheiten zu [hinterfragen](https://mastodon.cc/users/info_activism/statuses/114063701169608543) und versuchen, ihre Spuren, die sie in der Online-Welt hinterlassen, zu minimieren.
 
 ## Call for Participation
 * Ein neuer EU-Haushalt, der zu unseren Zukunftsplänen passt
@@ -205,7 +191,7 @@ Beim [Narrenschiff](https://de.wikipedia.org/wiki/Das_Narrenschiff_(Brant)) hand
 * HackathOERn vom 28. bis 30. April in Göttingen, Ideen können bis Sonntag, 23.03.2025, eingereicht werden
   * https://edu-sharing-network.org/hackathoern-projekt/
 
-## Veranstaltungen
+## Veranstaltungen ([Kalendar/Karte](https://events.codeforleipzig.de))
 * Samstag, 01.03.2025, bis Samstag, 08.03.2025, 23:59, online: **Open Data Day 2025** <a title='Kalendereintrag Open Data Day 2025' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3BlbiBEYXRhIERheSAyMDI1Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwMzA5VDEzMzczNFoNCkRUU1RBUlQ6MjAyNTAzMDFUMDAwMDAwDQpEVEVORDoyMDI1MDMwOFQyMzU5NTkNClNVTU1BUlk6T3BlbiBEYXRhIERheSAyMDI1DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL29wZW5kYXRhZGF5Lm9yZy9kZS9ldmVudHMvMjAyNS8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://opendataday.org/de/events/2025/
 * Samstag, 01.03.2025, 09:00-16:00, IT-Referat der Stadt München, Qubes Gebäude, Agnes-Pockels-Bogen 33, 80992 München: **Open Data Day 2025 in München** <a title='Kalendereintrag Open Data Day 2025 in München' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3BlbiBEYXRhIERheSAyMDI1IGluIE3DvG5jaGVuLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwMzA5VDEzMzczNFoNCkRUU1RBUlQ6MjAyNTAzMDFUMDkwMDAwDQpEVEVORDoyMDI1MDMwMVQxNjAwMDANClNVTU1BUlk6T3BlbiBEYXRhIERheSAyMDI1IGluIE3DvG5jaGVuDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL211ZW5jaGVuLmRpZ2l0YWwvdmVyYW5zdGFsdHVuZ2VuL29wZW4tZGF0YS1kYXktMjAyNS5odG1sDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOklULVJlZmVyYXQgZGVyIFN0YWR0IE3DvG5jaGVuXCwgUXViZXMgR2Viw6R1ZGVcLCBBZ25lcy1Qb2NrZWxzLUJvZ2VuIDMzXCwgODA5OTIgTcO8bmNoZW4NCkdFTzo0OC4xNzQwMjkzNTsxMS41MzM2NzgyOTc0ODU4NDYNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
