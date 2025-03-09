@@ -134,31 +134,22 @@ Das Robert-Koch-Institut (RKI) und das Umweltbundesamt (UBA) arbeiten im [AMELAG
 Von der EU-Kommision gibt es hier wenig Unterstützung, im Gegenteil, unter dem Vorwand vom Bürokratieabbau soll die EU-Lieferkettenrichtlinie "vereinfacht" werden, die Rechtsaußen-Fraktionen im EU-Parlament möchten am liebsten den "Green Deal" ganz abräumen. Der [Appell Lieferkettenrichtlinie](https://appell-lieferkettenrichtlinie.de) und seine Unterzeichnenden stellen sich dem entgegen und betont, dass diese Richtlinie für fairen Wettbewerb und einheitliche Regeln sorgt und sicherstellt, dass durch Unternehmen Menschenrechte und Umweltstandards global geachtet werden müssen.
 
 ## Energie
-* kWEEG | Monatliche Messwerte einer regionalen erneuerbaren Energiegemeinschaft
-  https://www.opendataportal.at/katalog/de/dataset/kweeg
-  https://kweeg.at/#zdf
-  https://kweeg.at/2025/02/02/open-data-transparenz-nachvollziehbarkeit/
-  via https://mastodon.social/@datagvat/114065518021723199
-* Wie Uruguay die Energie-Revolution schaffte
-  https://www.zdf.de/nachrichten/politik/ausland/uruguay-energiewende-erneuerbare-energien-windkraft-wasserkraft-100.html
+Das [kWEEG Dashboard](https://kweeg.at/#zdf) visualisiert die Messdaten einer regionalen Energiegemeinschaft im Waldviertel. Anfang Februar hatte sich diese [entschlossen](https://kweeg.at/2025/02/02/open-data-transparenz-nachvollziehbarkeit/) als erste Energiegemeinschaft Österreichs ihre monatlichen Messwerte auf dem [opendataportal.at zu veröffentlichen](https://www.opendataportal.at/katalog/de/dataset/kweeg).
+
+Uruguay als kleines Land ohne eigene entsprechende Rohstoffvorkommen war auf den Import fossiler Brennstoffe angewiesen. Nach zahlreichen Stromausfällen 2008 entschloss man sich, um diese Abhängigkeiten zu beenden, fortan massiv auf erneuerbaren Energien zu setzen, indem man es unter anderem auch für Unternehmen attraktiv machte, in diesen Sektor zu investieren. So konnten letztes Jahr [90 Prozent der benötigten Energie aus erneuerbaren Quellen gedeckt werden](https://www.zdf.de/nachrichten/politik/ausland/uruguay-energiewende-erneuerbare-energien-windkraft-wasserkraft-100.html), im September sogar tagesweise zu 100%.
 
 ## Klima
-* Global Water Monitor - 2024 Summary Report
-  https://www.globalwater.online/globalwater/report/index.html
-* Wie viel gibt der Bund für Klimaanpassung aus? – Eine Annäherung
-  https://www.umweltbundesamt.de/wie-viel-gibt-der-bund-fuer-klimaanpassung-aus-eine-0
-* Integrated risk analyses as part of national climate risk assessments: lessons learnt from the climate risk assessment of Germany
-  https://www.emerald.com/insight/content/doi/10.1108/ijccsm-10-2023-0128/full/html
-* Temperatures at north pole 20C above average and beyond ice melting point
-  https://www.theguardian.com/environment/2025/feb/04/temperatures-at-north-pole-20c-above-average-and-beyond-ice-melting-point
-* Angemessen hohes Klimageld führt zu Akzeptanz von CO2-Bepreisung
-  https://www.diw.de/de/diw_01.c.935832.de/angemessen_hohes_klimageld_fuehrt_zu_akzeptanz_von_co2-bepreisung.html
-* Klima nicht den Rechten überlassen! Offener Brief an die neue Bundesregierung 2025
-  https://klima-retten.jetzt
-* Appell an die deutsche Politik: Ein Grundkonsens für Klimaschutz und Wettbewerbsfähigkeit
-  https://www.zukunftswirtschaft.org
-* Klimaforschung: Das große Tauen
-  https://www.klimareporter.de/erdsystem/das-grosse-tauen
+Der [zusammenfassende Bericht des Global Water Monitor 2024](https://www.globalwater.online/globalwater/report/index.html) dokumentiert die aktuelle Lage: neue Temparaturrekorde, nahmen Niederschlagsextreme, Überschwemmungen, Dürren und Wirbelstürme in 2024 weiter zu. Wasser-bezogene Katastrophen verursachten 8.700 Tote, vertrieb 40 Millionen Menschen von ihren Wohnorten und verursachte Schadenskosten von mehr als 550 Milliarden US-Dollar. Austrocknende Seen und sinkende Grundwasserspiegel einerseits, Hochwasser durch Starkregenereignisse andererseits. Auch 2025 macht der fortschreitende Klimawandel Extremwetterlagen immer wahrscheinlicher.  
+
+Im Januar lag die Temparatur am Nordpol [20 Grad über dem üblichen Mittel](https://www.theguardian.com/environment/2025/feb/04/temperatures-at-north-pole-20c-above-average-and-beyond-ice-melting-point) und auch über den Schmelzpunkt. Forscher erwarten, dass innerhalb der nächsten zwei Jahrzehnten die Arktis in den Sommermonaten komplett eisfrei sein wird. [Wie eine weitere Studie offenbart](https://www.klimareporter.de/erdsystem/das-grosse-tauen), sind weltweit seit der Jahrtausendwende die Gletscher um fünf Prozent geschrumpft, die Alpen haben in diesem Zeitraum sogar 40% ihres Gletschereises verloren.
+
+Eine Auswertung der in Deutschland vorgenommenen Klimarisikobewertungen [hat ergeben](https://www.emerald.com/insight/content/doi/10.1108/ijccsm-10-2023-0128/full/html), dass integrierte Analysen einen umfassenderen Überblick über Risikodynamik, (räumliche) Muster und Handlungsbedarfe geben und so praktische Hinweise für die Entscheidungsfindung auf nationaler Ebene liefern können.
+
+[Mit einer neuen Methodik](https://www.umweltbundesamt.de/wie-viel-gibt-der-bund-fuer-klimaanpassung-aus-eine-0) hat das Umweltbundesamt die Ausgaben für Klima-Anpassungsaktivitäten an Hand der Auswertung des Bundeshaushaltsplan 2022 geschätzt: nach dieser waren in 255 Haushaltstiteln zwischen 2,1 Mrd. Euro und 3,4 Mrd. Euro für die Anpassung eingestellt. Zwischen 2000 und 2021 sind dagegen laut einer Studie der Bundesregierung mindestens 145 Mrd. Euro klimawandelbezogene Schäden entstanden, meist durch Überschwemmungen und Hochwasser. Jährlich ergeben sich also etwa 6,6 Mrd. Euro als Schadenssumme. Eine vom Deutschen Institut für Wirtschaft (DIW) durchgeführten Studie ergab, dass angesichts steigender CO2-Preise ein sozialer Ausgleich, etwa in Form eines Klimageldes, essentiell für die Akzeptanz solcher Bepreisung sind.
+
+Auch viele Unternehmen bekennen sich zu ihrer Verantwortung und haben [einen Appell an die deutsche Politik formuliert](https://www.zukunftswirtschaft.org), Klimaschutz und Wettbewerbsfähigkeit miteinander zu vereinen, dazu gehören aus ihrer Sicht verlässliche staatlicher Rahmenbedingungen, gezielte öffentlicher Investitionen und politische Unterstützung.
+
+Auch ein von Prominenten unterzeichneter [Offener Brief](https://klima-retten.jetzt) fordert die kommende Bundesregierung auf, Verantwortung für konsequentem Klimaschutz zu übernehmen, für eine Politik einzutreten, die Lösungen statt Polemik präsentiert und sich nicht der rechten Stimmungsmache gegen bezahlbaren Klimaschutz ergibt.
 
 ## KI
 * AI Act: Was er regelt und wen er betrifft
