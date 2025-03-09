@@ -51,33 +51,21 @@ Der Titel der Webseite ["33%"](https://33-prozent.com) spielt darauf an, dass "d
 Um den Entwicklungen entgegenzuwirken, hat der [Verfassungsblog](https://verfassungsblog.de/) das [Justiz-Projekt](https://verfassungsblog.de/justiz-projekt/) als [Forschungsprojekt initiiert](https://verfassungsblog.de/wir-starten-das-justiz-projekt/), um auf die Verwundbarkeit der unabhängigen und unparteiischen Justiz in Bund und Ländern aufmerksam zu machen, damit noch frühzeitig entsprechende Sicherheitsvorkehrungen getroffen werden können. 
 
 ## USA
-* Project2025 specifically noted NOAA as a target, as well. The Heritage Foundation’s 900-page right-wing playbook called the agency “one of the main drivers of the #climate change alarm industry” and recommended it be “dismantled and many of its functions eliminated” and instead #privatized
-  https://www.fastcompany.com/91274927/trump-wants-to-dismantle-the-agency-that-provides-weather-forecasts-it-will-make-your-life-worse
-  via https://fediscience.org/@petersuber/114014058069030470 (mehr Angriff im Mastodon-Thread gesammelt)
-* "Project 2025": Wie Trump dem Plan zur Aushöhlung der Demokratie folgt
-  https://www.moment.at/story/project-2025-umgesetzt/
-* The foundations of America’s prosperity are being dismantled: Federal scientists warn that Americans could feel the effects of the new administration's devastating cuts for decades to come.
-  https://www.technologyreview.com/2025/02/21/1112274/the-foundations-of-americas-prosperity-are-being-dismantled/
-* The Trump administrations on open access to research
-  https://cyber.harvard.edu/hoap/The_Trump_administrations_on_open_access_to_research
-* GitHub Is Showing the Trump Administration Scrubbing Government Web Pages in Real Time
-  https://www.404media.co/github-is-showing-the-trump-administration-scrubbing-government-web-pages-in-real-time/
-* My US government data hoarding page is up and ready with links and torrents
-  https://tech.lgbt/@Lydie/113974846377097452
-* Energy transition: US Secretary of Energy spreads misinformation about Germany
-  https://table.media/en/climate/feature/energy-transition-us-secretary-of-energy-spreads-misinformation-about-germany/
-* After a judge blocked a #Trump executive order, Elon #Musk shared a post with his more than 200 million followers on #X that included the judge’s daughter’s name, photo and job, allegedly at the Department of #Education
-  https://www.nytimes.com/2025/02/21/opinion/musk-doge-personal-data.html?unlocked_article_code=1.y04.9Xpj.G6bhZK21cNZh
-  via https://bewegung.social/users/neuSoM/statuses/114059570021763446
-* Autoritär eingestellte Akteure wünschen sich Hofberichterstattung
-  https://bsky.app/profile/kattascha.bsky.social/post/3lizpn3sbcs22
-* Jeff Bezos Washington Post
-  https://bsky.app/profile/beimwort.bsky.social/post/3lj3ula4ae223
-* Golf oder Leben
-  Die Auswirkungen der Klimakrise sind längst da. Landwirt:innen sind stark betroffen. Um damit umgehen zu können, brauchen sie Daten und Informationen - blöd nur, wenn deine Regierung aus Klimawandel-Leugner:innen besteht und diese Infos löscht. 
-  https://morgen.moment.at/p/golf-oder-leben
-* Dieses KI-Video hat kein 14jähriger mit Größenwahn gepostet, sondern der Präsident der USA.
-  https://bsky.app/profile/arminwolf.at/post/3lj2ygbi62i24
+Das ["Project 2025"](https://de.wikipedia.org/wiki/Project_2025) der Heritage Foundation bildet das Drehbuch, ["die USA in einen christlich-nationalistischen Staat umzubauen"](https://www.moment.at/story/project-2025-umgesetzt/). Der von Ehrenamtlichen gestemmte [Project 2025 Tracker](https://www.project2025.observer) gleicht die bisher erlassenen Dekrete und Maßnahmen Donald Trumps mit dem 920 Seiten langen Plan ab. 
+
+Peter Suber sammelt in [diesem Mastodon-Thread](https://fediscience.org/@petersuber/113874200243958520) speziell Angriffe auf die Forschungsfreiheit, so auch den auf den [Nationalen Wetterdienst NOAA](https://fediscience.org/@petersuber/114014058069030470), der als Treiber der "Climate Change Alarm Industry" ausgemacht wurde und entsprechend verkleinert und [privatisiert werden soll](https://www.fastcompany.com/91274927/trump-wants-to-dismantle-the-agency-that-provides-weather-forecasts-it-will-make-your-life-worse). Wettervorhersagen wird es also nur noch für Regionen geben, für die sich der Aufwand für die Datenerfassung für private Firmen lohnt. Den Klimawandel wird dies nicht stoppen, nur die Fähigkeit sich frühzeitig z.B. beim nächsten Hurrikan vorbereiten zu können erheblich schwächen. Mehr noch, [es werden aktiv Daten gelöscht](https://www.commondreams.org/news/trump-usda), die Bauern bisher bei der Klimawandelanpassung geholfen haben.
+
+Stattdessen verbreitet der neue Minister für Energie in seiner Antrittsansprache [Falschbehauptungen](https://table.media/en/climate/feature/energy-transition-us-secretary-of-energy-spreads-misinformation-about-germany/) über die in Deutschland angestoßene Energiewende. 
+
+Die Webseite der US-amerikanischen Digitalagentur wird in einem Github-Repository gepflegt. [404 Media macht darauf aufmerksam](https://www.404media.co/github-is-showing-the-trump-administration-scrubbing-government-web-pages-in-real-time/), dass man an Hand der Git-Commits nun in Echtzeit sehen kann, wie sie sukzessive von "woken" Inhalten "befreit" wird.
+
+Als Gegenbewegung werden solche Inhalte von [Ehrenamtlichen](https://tech.lgbt/@Lydie/113974846377097452) in [Torrent](https://de.wikipedia.org/wiki/BitTorrent)-Netzwerken vor der Löschung gerettet. 
+
+Die Grundpfeiler für Amerikas Wohlstand werden für Jahrzehnte beschädigt sein, [warnen Forschende](https://www.technologyreview.com/2025/02/21/1112274/the-foundations-of-americas-prosperity-are-being-dismantled/), wenn die Einschnitte im Bildungsbereich so weitergehen. Aber scheinbar ist es wichtiger den IQ der Bevölkerung unter dem der Regierenden zu bringen, ähnlich der Verordnung, [dass in Washington kein Haus höher als das Capitol sein darf](https://wikide.org/de/Height_of_Buildings_Act_of_1910).
+
+Die Meinungsfreiheit, die sie meinen: nämlich nur die eigene, also [Hofberichterstattung](https://bsky.app/profile/kattascha.bsky.social/post/3lizpn3sbcs22). Wie gut, dass führende Medien wie die Washington Post sich in den Händen von Milliardären wie Jeff Bezos befinden, und er Meinungen, die dem Narrativ von freien Märkten widersprechen, [keinen Raum mehr geben wird](https://bsky.app/profile/beimwort.bsky.social/post/3lj3ula4ae223). Wobei der Trumpsche [Merkantilismus](https://de.wikipedia.org/wiki/Merkantilismus) gerade dem Konzept des freien Handels entgegensteht. Aber alles eine Frage des richtigen [Neusprechs](https://de.wikipedia.org/wiki/Neusprech) (gibt auch guten Blog [gleichen Namens](https://neusprech.org)): Oligopole und Zolle sind freier Wettbewerb.
+
+Alles also im Sinne von [König Trump](https://www.nbcnews.com/politics/donald-trump/king-trump-rcna192912) und [seinem Größenwahn](https://bsky.app/profile/arminwolf.at/post/3lj2ygbi62i24). Richter, die sich dem entgegenstellen, [werden mit Gestapo-Methoden massiv eingeschüchtert](https://bewegung.social/users/neuSoM/statuses/114059570021763446).
 
 ## Transparenz
 * Revealed: Google facilitated Russia and China’s censorship requests
