@@ -68,21 +68,11 @@ Die Meinungsfreiheit, die sie meinen: nämlich nur die eigene, also [Hofberichte
 Alles also im Sinne von [König Trump](https://www.nbcnews.com/politics/donald-trump/king-trump-rcna192912) und [seinem Größenwahn](https://bsky.app/profile/arminwolf.at/post/3lj2ygbi62i24). Richter, die sich dem entgegenstellen, [werden mit Gestapo-Methoden massiv eingeschüchtert](https://bewegung.social/users/neuSoM/statuses/114059570021763446).
 
 ## Transparenz
-* Revealed: Google facilitated Russia and China’s censorship requests
-  https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests
-* Beraterberichte-Datenbank: Wie Berater*innen vom Staat Hunderte Millionen Euro kassieren
-  https://fragdenstaat.de/artikel/exklusiv/2025/02/beraterberichte/
-  * Geschätzt 2.600 Berater*innen arbeiten für die Bundesregierung. Hätten sie ein Ministerium, wäre es eines der größten
-    https://bsky.app/profile/fragdenstaat.de/post/3lj7xfgsz2k2c
-* Wie intransparente Parteispenden das Vertrauen in die Politik schwächen
-  https://www.faz.net/aktuell/wirtschaft/intransparente-parteispenden-warum-die-korruption-in-deutschland-zunimmt-110289207.html
-* Gescheitertes Transparenzgesetz: Eine verpasste Jahrhundertchance
-  https://netzpolitik.org/2025/gescheitertes-transparenzgesetz-eine-verpasste-jahrhundertchance/
-* Ampelregierung machte Hunderte Ausnahmen bei Personalentscheidungen
-  https://www.zeit.de/politik/deutschland/2025-02/ampel-regierung-personal-entscheidung-ausnahmen-linke-reichinnek
-* Milliardär auf fossiler Einkaufstour
-  https://taz.de/Milliardaer-auf-fossiler-Einkaufstour/!6062173/
+[Wes Brot ich ess, des Lied ich sing](https://de.wiktionary.org/wiki/wes_Brot_ich_ess,_des_Lied_ich_sing) scheint auch das Prinzip bei den Deal-Makern der großen Tech-Firmen zu lauten, denn wie [eine Recherche vom Observer ergeben hat](https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests), geht Google autokratischen Regimen wie Russland und China gerne zur Hand, ihre Zensurgesuche gegen missliebige Inhalte zu erfüllen. Wenn "Würde" nur noch im Satz "Was würde ich alles für Geld tun" vorkommt. Gleiches lässt sich auch über das ["Phantom von Prag"](https://taz.de/Milliardaer-auf-fossiler-Einkaufstour/!6062173/) sagen.
 
+"Es könnte auf absehbare Zeit das letzte mal gewesen sein, dass es eine progressive Mehrheit im Parlament für echte Transparenz gab", [so urteilt Netzpolitik](https://netzpolitik.org/2025/gescheitertes-transparenzgesetz-eine-verpasste-jahrhundertchance/) über die verpasste Chance, das eigentlich schon fertige Bundes-Transparenzgesetz, nicht noch über die Ziellinie gebracht zu haben.
+
+Aber wahrscheinlich fürchtet man sich weiterhin vor zu viel Transparenz, z.B. bei [den schnell noch kurz vor Regierungswechsel verbeamteten Mitarbeitenden](https://www.zeit.de/politik/deutschland/2025-02/ampel-regierung-personal-entscheidung-ausnahmen-linke-reichinnek) oder zu [den staatlichen Beratungsaufträgen](https://fragdenstaat.de/artikel/exklusiv/2025/02/beraterberichte/), für die es Dank FragDenStaat nun eine extra [Datenbank](https://fragdenstaat.de/daten/beraterberichte/) gibt, um auf den Daten aus den Originaldokumenten suchen zu können. Hätten die Berater:innen ein eigenes Ministerium, [wäre es eines der größten](https://bsky.app/profile/fragdenstaat.de/post/3lj7xfgsz2k2c).
 
 ## Digitale Souveränität
 * I’m quite confused when I hear my fellow European citizens worry about our dependence on American Big Tech
