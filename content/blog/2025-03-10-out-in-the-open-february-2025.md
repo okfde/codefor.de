@@ -36,7 +36,7 @@ Die auch in [diesem Panorama-Beitrag](https://www.ndr.de/fernsehen/sendungen/pan
 
 Die in der Anfrage beschuldigten Organisationen haben inzwischen auch reagiert. Sie hat Correctiv die konkret an sie gestellten Fragen [hier beantwortet](https://correctiv.org/in-eigener-sache/2025/02/26/kleine-anfrage-der-unionsfraktion-zu-ngo-unsere-antworten-auf-die-fragen-zu-correctiv/), da sie nichts zu verbergen haben. Einige der aufgeführten Vereine, wie z.B. die [Omas gegen Rechts](https://www.omas-gegen-rechts.org) waren dabei noch nie als gemeinnützig eingestuft gewesen, bekamen somit zu keinem Zeitpunkt staatliche Zuwendungen. Ein der [Oma-Mitgründerin war zudem selbst in der CDU](https://taz.de/551-Fragen-im-Bundestag/!6069900/) und wehren sich nun mit einer [Petition](https://innn.it/anmerzvonomas). Auch das betroffene Campact hat [eine solche gestartet](https://aktion.campact.de/gemeinnuetzigkeit/cdu-angriff-auf-zivilgesellschaft/teilnehmen), um "diesen Angriff auf die Zivilgesellschaft abzuwehren".
 
-Ein Gutes hat die Anfrage, denn sie verschafft ([ungewollt](https://de.wikipedia.org/wiki/Streisand-Effekt)) den darin benannten Organisationen mehr Aufmerksamkeit und ist eine Empfehlung für die nächste Spende und das nächste Engagement. Sie lässt sich ergänzen durch die Liste der Mitzeichnenden des offenen Briefs ["Genossen­schaften für eine offene Gesellschaft"](https://genossenschaften.digital/genossenschaften-fuer-eine-offene-gesellschaft). 
+Ein Gutes hat die Anfrage, denn sie verschafft ([ungewollt](https://de.wikipedia.org/wiki/Streisand-Effekt)) den darin benannten Organisationen mehr Aufmerksamkeit und ist eine Empfehlung für die nächste Spende und das nächste Engagement. Sie lässt sich ergänzen durch die Liste der Mitzeichnenden des offenen Briefs ["Genossen­schaften für eine offene Gesellschaft"](https://genossenschaften.digital/genossenschaften-fuer-eine-offene-gesellschaft) und den Einträgen in [Cividata](https://cividata.org/de/deutschland/).
 
 ## Wer im Glashaus sitzt...
 Wer Fragen stellt, sollte sich auch Fragen gefallen lassen, wie z.B. zu ["Spenden aus der Wirtschaft oder von parteinahen Stiftungen an den Verein Bundesverband der Deutschen Industrie e.V."](https://bsky.app/profile/thankyouforthefish.bsky.social/post/3lj3vjwyxns2w), zu ["parteinahen Stiftungen"](https://bsky.app/profile/larswienand.bsky.social/post/3lj3rhfuaak2u), zu [den vielen e.Vs. beim Wirtschaftwarntag](https://bsky.app/profile/jdoeschner.bsky.social/post/3lj5hasskl22h), zu den ["irreführenden und rückwärtsgewandten Lobbybotschaften" der Initiative Neue Soziale Marktwirtschaft (INSM)](https://blog.campact.de/2025/02/insm-lobbygruppe-wahlkampf-bundestagswahl/) und anderen ["Rechtstreibern"](https://correctiv.org/aktuelles/parteien/2025/02/11/die-rechtstreiber-welche-hardliner-die-cdu-nach-rechts-ziehen/).
@@ -94,43 +94,26 @@ Der [Sovereign Tech Fund](https://www.sovereign.tech/) teilt erste [Details](htt
 Im wöchentlichen Technologie-Podcast "Besser Wissen" war Ende Februar [das Prototypfund-Team zu Gast](https://besserwissen.podigee.io/127-prototypefund).   
 
 ## Open Data
-* Wie das Archiv der sozialen Demokratie Teile des Internets archiviert
-  https://katharinabrunner.de/2025/02/wie-das-archiv-der-sozialen-demokratie-teile-des-internets-archiviert/
-* NRW veröffentlicht Erfahrungsbericht zu Open Data – mehr Fragen als Antworten
-  https://okfn.de/blog/2025/02/nrw-ver%C3%B6ffentlicht-erfahrungsbericht-zu-open-data-mehr-fragen-als-antworten/
-  https://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMV18-3513.pdf
-* Bienenschwarmdiagramm zur Darstellung von Mieten nach Städten
-  https://norden.social/@wahlatlas/113979869475337250
-* Frankfurt am Main: Relaunch für Open-Data-Portal
-  https://www.kommune21.de/k21-meldungen/relaunch-fuer-open-data-portal/
-* Wuppertal: Datenplattform gestartet
-  https://www.kommune21.de/k21-meldungen/datenplattform-gestartet/
-* Die größten Non-Profit-Organisationen Deutschlands
-  https://cividata.org/de/deutschland/
-* Gemeinsame Dokumente für allgemeine Themen
-  https://discourse.opencode.de/t/gemeinsame-dokumente-fuer-allgemeine-themen/3754
-  * Bundesdaten auch in Landesportalen?
-    https://discourse.opencode.de/t/bundesdaten-auch-in-landesportalen/3775
-* Zweiter Bericht der Bundesregierung über die Fortschritte bei der Bereitstellung von offenen Daten 
-  https://dserver.bundestag.de/btd/20/150/2015020.pdf
+Der zweite ["Open-Data-Fortschritts- und Evaluierungsbericht"](https://dserver.bundestag.de/btd/20/150/2015020.pdf) kommt [zu einem ernüchernden Fazit](https://www.bundestag.de/presse/hib/kurzmeldungen-1053448): ein Großteil der Behörden komme ihren gesetzlichen Verpflichtungen nicht in ausreichendem Maße nach, das Bereitstellungsniveau ist quantitativ und qualitativ sehr unterschiedlich, es fehlen etablierte Prozesse zur Datenbereitstellung, sofern überhaupt ein Überblick darüber besteht, welche veröffentlichungspflichtigen Datensätze überhaupt vorhanden sind. Von einer Datenkultur des "Open by Default" ist man weit entfernt, Open Data hat einfach keine Priorität, rechtliche Unsicherheiten tun ein Übriges.
 
-## Open Science
-* Open Science Practices in Integrated Assessment Models
-  https://open-research-europe.ec.europa.eu/articles/5-12
+Auch der von NRW veröffentlichte [Erfahrungsbericht](https://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMV18-3513.pdf) zu Open Data beinhaltet aus Sicht der Open Knowledge Foundation Deutschland [mehr Fragen als Antworten](https://okfn.de/blog/2025/02/nrw-ver%C3%B6ffentlicht-erfahrungsbericht-zu-open-data-mehr-fragen-als-antworten/).
+
+Die auf der neuen Datenplattform in Wuppertal bereitgestellten Messwerte stammen von Sensoren und Messstationen, die von der Stadt und anderen Kooperationspartnern als offene Daten bereitgestellt wurden. Die zunächst [als Prototyp gestartete](https://www.kommune21.de/k21-meldungen/datenplattform-gestartet/) Plattform [DigiTal Daten](https://digitaldaten.wuppertal.de/) stellt diese in Echtzeit dar. Bürgerinnen und Bürger sind aufgerufen, Feedback zu geben.
+
+In Frankfurt am Main wurde das bisher selbstentwickelte Open-Data-Portal mit der Plattform des Statistikportals [konsolidiert](https://www.kommune21.de/k21-meldungen/relaunch-fuer-open-data-portal/). 
+
+Daten generell dort auffindbar zu machen und anzuzeigen, wo sie (geografisch) relevant sind, [wird im Open Data Forum diskutiert](https://discourse.opencode.de/t/bundesdaten-auch-in-landesportalen/3775). Es kann nicht sein, dass man als Nutzer die Verwaltungsstrukturen kennen zu müssen und sich die Informationen einzeln zusammensuchen muss, nur weil die verschiedenen Open-Data-Portale strikt nach Verantwortlichkeiten getrennt sind.   
+
+Auf der Konferenz [New Techniques and Technologies for official Statistics (NTTS)](https://cros.ec.europa.eu/ntts2025) in Brüssel wird es vom 11. bis 13. März wieder um neue Technologien und Methoden für die amtliche Statistik gehen. Wahlatlas hat bereits angekündigt, dort etwas über [Bienenschwarmdiagramme](https://norden.social/@wahlatlas/113979869475337250) zur Darstellung von Mieten nach Städten erzählen zu wollen.
 
 ## Kultur
-* Entdecke mit GLAMorous Europe europäisches Kulturerbe!
-  https://www.glam-europe.de
-  * GLAM Rockers
-    https://tech-news.wikimedia.de/2025/02/05/glam-rockers/
-* Konzertleben in Wien 1780–1830
-  https://www.data.gv.at/katalog/application/ef8ee101-bcf0-41d9-9c8c-34d069122626
-* The Music Collab Explorer is a web app for discovering collabs between musical artists.
-  https://github.com/KaeruCT/music-collab-explorer
-* Narrenschiff - Ein Denkmal, das zum Nachdenken anregt
-  https://de.linkedin.com/posts/ertan-%C3%B6zcan-73bb3399_digitalheritage-digitaltwin-narrenschiff-activity-7299576650457894914-dtl2
-  https://lumalabs.ai/embed/5d4345ea-c57d-4b0c-b237-34ac64f2368c?mode=sparkles&background=%23ffffff&color=%23000000&showTitle=true&loadBg=true&logoPosition=bottom-left&infoPosition=bottom-right&cinematicVideo=undefined&showMenu=true
+Mit der App [GLAMorous Europe](https://www.glam-europe.de) lässt sich europäisches Kulturerbe entdecken. [Im Interview](https://tech-news.wikimedia.de/2025/02/05/glam-rockers/) erzählen Anne und Gerd vom [Digitalwarenkombinat](https://digitalwarenkombinat.de) über die Hintergründe, z.B. über den Einsatz von Wikidata.
 
+Vom Forschungsprojekt ["Konzertleben in Wien 1780–1830"](https://musikwissenschaft.univie.ac.at/forschung/projekte/aktuelle-projekte/konzertleben-in-wien-1780-1830/) sind auf der [Projektseite](https://viennaconcertlife.mxth.at) die ersten Ergebnisse zu sehen, die Metadaten findet man [im Open-Data-Portal](https://www.data.gv.at/katalog/application/ef8ee101-bcf0-41d9-9c8c-34d069122626).
+
+Die Kooperationen zeitgenössischer Musiker:innen bildet der [Music Collab Explorer](https://github.com/KaeruCT/music-collab-explorer) ab. Die Daten dazu stammen aus dem [MusicBrainz](https://musicbrainz.org) Projekt.  
+
+Beim [Narrenschiff](https://de.wikipedia.org/wiki/Das_Narrenschiff_(Brant)) handelt es sich um eine spätmittelalterliche Moralsatire, erstmalig 1494 als Buch gedruckt. Der [Karl-Berbuer](https://de.wikipedia.org/wiki/Karl_Berbuer)-Brunnen in Köln ist auch unter diesem Namen bekannt, [wurde 1987 errichtet und 2023 aufwändig saniert](https://www.stadt-koeln.de/artikel/71540/index.html). Ertan Özcan hat nun diesen Brunnen für die ehrenamtliche Denkmalkarte [Denkmal 4D Köln](https://codeforcologne.github.io/Denkmal-4D-Koeln/) als Digitalzwilling [aufgenommen](https://de.linkedin.com/posts/ertan-%C3%B6zcan-73bb3399_digitalheritage-digitaltwin-narrenschiff-activity-7299576650457894914-dtl2).
 
 ## Mobilität
 * Erstes Jahr ohne tote Fußgänger: Diese Stadt zeigt, was Tempo 30 kann
