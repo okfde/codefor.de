@@ -7,8 +7,6 @@ status: Laufend
 draft: false #set to 'false'
 
 links:
-- url: https://www.baumbie.org/ #add url
-  name: Baumbie
 - url: https://github.com/codeforbielefeld/baumbie #add url
   name: Code
 
