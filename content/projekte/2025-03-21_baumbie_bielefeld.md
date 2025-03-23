@@ -1,21 +1,21 @@
 ---
 layout: project #do not change
-lab: [bielefeld] #change into your city/lab
+lab: [bielefeld] 
 imgname: bielefeld/baumbie_design.png #add file to assets/projects/your city
 title: Bäume in Bielefeld zum Sprechen bringen mit Baumbie #project title
 status: Laufend
-draft: false #set to 'false'
+draft: false
 
 links:
-- url: https://github.com/codeforbielefeld/baumbie #add url
+- url: https://github.com/codeforbielefeld/baumbie 
   name: Code
 
 collaborators:
-- name: Daniel # change
+- name: Daniel 
   links:
-  - url: https://www.linkedin.com/in/danielbarooney/ # correct URL
+  - url: https://www.linkedin.com/in/danielbarooney/ 
     name: Linkedin
-- name: Andreas # change
+- name: Andreas 
   links:
   - url: https://de.linkedin.com/in/andreas-kansy-2ab747254
     name: Linkedin
