@@ -13,7 +13,7 @@ type: blog
 
 ## Verschwörhaus
 
-Der im [letzten Out-In-The-Open-Blogbeitrag]({{< ref "/content/blog/2022-06-09-out-in-the-open-may-2022.md" >}}) bereits erwähnte Konflikt um das Verschwörhaus Ulm ist weiter eskaliert: Nachdem die Ehrenamtlichen sich nicht darauf einlassen wollten, die jahrelang aufgebaute Marke "Verschwörhaus" (und den mit ihr verbundenen Werte-Versprechen) der Stadt zu überlassen, wurden sie nun aus den bisherigen Räumlichkeiten [geworfen](https://verschwoerhaus.de/das-verschwoerhaus-zieht-um/).
+Der im [letzten Out-In-The-Open-Blogbeitrag]({{< ref "2022-06-09-out-in-the-open-may-2022.md" >}}) bereits erwähnte Konflikt um das Verschwörhaus Ulm ist weiter eskaliert: Nachdem die Ehrenamtlichen sich nicht darauf einlassen wollten, die jahrelang aufgebaute Marke "Verschwörhaus" (und den mit ihr verbundenen Werte-Versprechen) der Stadt zu überlassen, wurden sie nun aus den bisherigen Räumlichkeiten [geworfen](https://verschwoerhaus.de/das-verschwoerhaus-zieht-um/).
 
 An dieses Thema auch knüpft die Pilotfolge eines neuen Podcasts in der deutschsprachigen CodeFor-Community an. [Andreas Hubel](https://twitter.com/saerdnaer) und [Stefan Kaufmann](https://twitter.com/_stk) sprechen in ["Leuchttürme und Fassaden"](https://video.codefor.de/w/7eu8fTq1FGMnrEycgt3JKM) über die Hintergründe der aktuellen Geschehnisse. Viel Spaß beim Anhören! 
 
