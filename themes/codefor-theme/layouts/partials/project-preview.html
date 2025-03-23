@@ -1,7 +1,7 @@
-  <a  class="project-preview-card" href="{{.Permalink}}">
     <div class="card border-dark h-100 project-preview-card"
        data-name="{{ .Title }}"
        data-date="{{ substr .File.BaseFileName 0 10 }}">
+       <a  href="{{.Permalink}}">
     <div class="card-header border-bottom-0 bg-white ">
       <ul class="d-flex list-unstyled justify-content-end m-0 p-0 tags">
         {{ range (.Param "tags") }}
@@ -52,5 +52,5 @@
         <a class="text-danger no-underline lab-link"></a>
       <span class="text-right status">{{.Params.status}}</span>
     </div>
+  </a>
   </div>
-</a>
