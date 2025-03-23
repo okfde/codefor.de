@@ -2,7 +2,7 @@
 layout: project #do not change
 lab: [bielefeld] 
 imgname: bielefeld/baumbie_design.png #add file to assets/projects/your city
-title: Bäume in Bielefeld zum Sprechen bringen mit Baumbie #project title
+title: BaumBie #project title
 status: Laufend
 draft: false
 
