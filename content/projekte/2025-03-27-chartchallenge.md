@@ -1,7 +1,7 @@
 ---
 layout: project #do not change
 lab: [bielefeld] 
-imgname: bielefeld/chartchallenge.png #add file to assets/projects/your city
+imgname: bielefeld/chartchallenge.jpg #add file to assets/projects/your city
 title: 30 Day Chart Challenge Bielefeld #project title
 status: Laufend
 draft: false
@@ -38,7 +38,7 @@ Unter dem Hashtag #30DayChartChallenge teilen weltweit Designer:innen, Data Scie
 
 **Unser Ziel:** Wir wollen als Code-for-Bielefeld-Netzwerk mitmachen! Unser Ziel: Jeden Tag mindestens einen Chart veröffentlichen, und zwar immer mit Daten aus Bielefeld. Dazu sind alle Bielefelder:innen eingeladen. Damit wollen wir zum Nachdenken anregen: Welche Datenquellen gibt es hier? Welche Daten kannst du scrapen, selbst erheben, oder aus größeren Datensätzen filtern? Es gibt keine Grenzen. Wir sind gespannt, auf wie viele verschiedene Weisen wir Neues über unsere Stadt lernen werden. Bist du dabei?
  
-**So kannst du mitmachen:** Trag dich unten in die Tabelle ein. Es können gerne mehrere Personen pro Tag mitmachen – je mehr desto besser. Poste den Chart auf Social Media, markiere Code for Bielefeld, und nutze die Hastags #30DayChartChallenge und #30DayBielefeldinData
+**So kannst du mitmachen:** Trag dich unten in die Tabelle ein. Es können gerne mehrere Personen pro Tag mitmachen – je mehr desto besser. Poste den Chart auf Social Media, nenne die Datenquelle und die genutzten Tools, markiere Code for Bielefeld, und nutze die Hastags #30DayChartChallenge und #30DayBielefeldinData
 Wenn du nicht selbst posten möchtest, dann schicke deinen Chart und eine kurze Beschreibung an codeforbie@gmail.com – am besten ein oder zwei Tage im Voraus.
  
 **Inspiration für Datenquellen (gerne ergänzen):**
