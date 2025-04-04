@@ -11,6 +11,214 @@ og_image: out-in-the-open-2025-03-header.jpg
 type: blog
 ---
 
+## Open Data
+* Welche hochwertigen Datensätze bietet Deutschland an?
+  https://www.govdata.de/suche/daten/reporting-zu-hochwertigen-datensatzen-an-die-eu-kommission-februar-2025
+  via https://social.bund.de/@opendata/114120183077147157
+* Ergebnisse der Sondierungen von CDU, CSU und SPD
+  https://fragdenstaat.de/dokumente/256683-ergebnisse-der-sondierungen-von-cdu-csu-und-spd/
+* Antwort der Bundesregierung auf die kleine Anfrage der Unionsfraktion "Politische Neutralität staatlich geförderter Organisationen"
+  https://fragdenstaat.de/dokumente/256699-antwort-der-bundesregierung-auf-die-kleine-anfrage-der-unionsfraktion-politische-neutralitaet-staatlich-gefoerderter-organisationen/
+* Open Data – ein Städtevergleich
+  https://www.egovernment.de/open-data-ein-staedtevergleich-a-68153a4afc9752a2935a8d150e8f265f/
+* The state of Open Humanitarian Data 2025
+  https://data.humdata.org/dataset/2048a947-5714-4220-905b-e662cbcd14c8/resource/651edd52-d14c-4a23-a48c-f69b9aa7b1c9/download/the-state-of-open-humanitarian-data-2025.pdf
+  via https://mastodon.social/@jmcastagnetto/114197265805439002
+
+## Wikipedia
+* 3 Millionen Artikel in der deutschsprachigen Wikipedia!
+  https://social.wikimedia.de/@wikimediaDE/114222882441376079
+* Gemeinsam mehr erreichen: Freies Wissen als Grundlage der Zusammenarbeit zwischen Wikimedia und anderen Ehrenamtsinitiativen
+  https://zenodo.org/records/15104365
+
+## Visualisierungen
+* Data Vis Dispatch, March 18
+  https://www.datawrapper.de/blog/data-vis-dispatch-march-18-2025
+* The rise and fall of the social media platform Flickr: Implications for nature recreation research
+  https://www.sciencedirect.com/science/article/pii/S221307802500026X
+
+## Karten
+* Denkmäler aus Flensburg in 3D modelliert
+  https://tursics.github.io/opendataday2025/
+  via https://toot.berlin/@tursics/114088205517617619
+  * paar weitere Features hinzu gefügt
+    https://tifa365.github.io/karte_3d_denkmaeler_flensburg/
+    via https://norden.social/users/datenschatz/statuses/114092069997755678
+  * Eine ähnliche Karte noch für das Herzogtum Lauenburg
+    https://tifa365.github.io/karte_3d_denkmaeler_sh/
+    via https://norden.social/users/datenschatz/statuses/114092913776067360
+  * Geo-Dateiformate für archäologische Kulturdenkmale für Schleswig-Holstein, Kreise und kreisfreie Städte
+    https://opendata.tomkyle.net/denkmallisten/archaeologie
+    via https://norden.social/@tomkyle/114093826916357766
+* Komoot aufgekauft
+  via https://en.osm.town/@richardf/114196764264677476
+* Interaktive Karte: Panik, Provokation, Schallwaffen: Was geschah bei der Großdemo in Belgrad?
+  https://netzpolitik.org/2025/panik-provokation-schallwaffen-was-geschah-bei-der-grossdemo-in-belgrad/
+* Surveillance under Surveillance
+  https://media.ccc.de/v/clt25-186-openstreetmap-ist-keine-karte
+  https://sunders.uber.space
+  via https://gruene.social/@Gerbsen/114213068898191350
+
+## Verwaltungsdigitalisierung
+* "Wenn 16 Leute etwas über einen Fluss transportieren wollen, würden wir nicht auf die Idee kommen, alle ein eigenes Boot zu bauen. Stattdessen bauen wir gemeinsam eine Brücke. Bei 16 Bundesländern sieht die Realität in der Softwareentwicklung aber oft anders aus."
+  Warum das so ist erklärt uns Jonas Bostelmann in seiner Keynote.
+  https://file.ki.lgln.niedersachsen.dev/f/d9d2022df2a94aac9574/
+  via https://mastodon.social/@PrototypeFund/114098021290928037
+* "Die Pflege dieser Stammdaten ist aber wirklich üble Bodenarbeit, mit deren Anordnung sich niemand schmücken kann. Auch deshalb übernimmt niemand die Verantwortung dafür, dass das in den vergangenen 20 Jahren versäumt wurde. Das muss jetzt aber geschehen. Sonst kommen wir mit keiner digitalen Anwendung voran."
+  https://www.golem.de/news/verwaltungsdigitalisierung-der-bund-muss-standards-setzen-2503-193830-3.html
+
+## Digitalpolitische Forderungen an den Bundesregierung
+* Bündnis F5: Resiliente digitale Infrastruktur: 20 Forderungen an die Bundesregierung
+  https://buendnis-f5.de/assets/data/F5_DigitaleInfrastruktur_onepager.pdf
+  via https://social.wikimedia.de/@wikimediaDE/114109482962453061
+* Diese digitalpolitischen Ziele müssen in den Koalitionsvertrag
+  https://netzpolitik.org/2025/forderungen-aus-der-zivilgesellschaft-diese-digitalpolitischen-ziele-muessen-in-den-koalitionsvertrag/
+* Eine digitale Brandmauer errichten
+  https://d-64.org/digitale-brandmauer/
+* Offener Brief – Demokratie schützen, Gemeinwohl fördern
+  https://digitalegesellschaft.de/2025/03/offener-brief-demokratie-schuetzen-gemeinwohl-foerdern/
+* Ein Appell von Wissenschaftlerinnen und Wissenschaftlern in Deutschland an die Politik
+  https://www.bayceer.uni-bayreuth.de/s4f/de/top/o2/stat.php
+* Lippenbekenntnisse schaffen keine digitale Souveränität
+  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/lippenbekenntnisse-schaffen-keine-digitale-souveraenitaet
+
+## Und wie es tatsächlich läuft
+* Neues Digitalministerium: "Das BSI wird dann nach der Logik das "Bundesamt für spontanen Datenreichtum" und das BMD wird Leuchtturm. Mehr Satire geht echt nicht mehr."
+  https://www.lto.de/recht/hintergruende/h/koalitionsverhandlungen-digitales-datenschutz-ki-digital-ministerium
+  via https://mastodon.social/@bkastl/114219769206059436
+  * Update: doch kein Digitalministerium?
+    https://www.heise.de/news/Koalitionsverhandlungen-Digitalministerium-verschwunden-10327789.html?seite=all
+* Kommentar zur Schwarz-Roten Digitalpolitik: Bullshit-Bingo reloaded
+  https://www.heise.de/meinung/Kommentar-zur-Schwarz-Roten-Digitalpolitik-Bullshit-Bingo-reloadad-10331650.html
+
+## Digitale Souveränität
+* #UnplugTrump: Mach dich digital unabhängig von Trump und Big Tech - 30 Tipps
+  https://www.kuketz-blog.de/unplugtrump-mach-dich-digital-unabhaengig-von-trump-und-big-tech/
+* Kein Aprilscherz: Google Cloud und BSI schließen Kooperationsvereinbarung für sichere Cloud-Lösungen in der öffentlichen Verwaltung
+  https://cloud.google.com/blog/de/topics/offentlicher-sektor/google-cloud-bsi
+  via https://gruene.social/@norbert/114117226128613782
+* Ein interessanter Beschluss, den die Ministerpräsident*innen da gefasst haben.
+  via https://social.tchncs.de/@kaffeeringe/114161009390996871
+* Knitting Our Internet - an interactive journey through the history of the Internet, and a collective rethinking of its future.
+  https://ournet.rocks
+  via https://chaos.social/@tbsprs/114172766223692155
+* Sieg für die Internetfreiheit: Google muss seinen Chrome-Browser verkaufen
+  https://tuta.com/de/blog/google-must-sell-chrome-in-antitrust-case
+* So wirst du unabhängig von Tech-Milliardären
+  https://netzpolitik.org/2025/unplugtrump-so-wirst-du-unabhaengig-von-tech-milliardaeren/
+* Entgoogle das Internet
+  https://degooglisons-internet.org/de/
+* Digitaler Kolonialismus
+  https://netzpolitik.org/2025/293-on-the-record-digitaler-kolonialismus/
+* Cloud Genossenschaft 101 in Gründung
+  https://101lab.it/101cloud/geno.html
+  via https://23.social/users/thomasfricke/statuses/114244874956536880
+
+## Überwachung
+* "die Verfahrensübergreifende Recherche- und Analyseplattform (Vera) von Palantir in Bayern befindet seit dem 25. Dezember 2024 im Echtbetrieb. Über einen bereits abgeschlossenen Mantelrahmenvertrag könnte die Software für die Polizei in ganz Deutschland zum Einsatz kommen"
+  https://www.heise.de/news/Palantir-als-Interimsloesung-Bundesrat-fordert-schnellen-Einsatz-fuer-die-Polizei-10325605.html
+  https://www.golem.de/news/bundesratsbeschluss-analysesoftware-der-polizei-soll-gesundheitsdaten-auswerten-2503-194605.html
+
+## Transparenz
+* CDU und CSU möchten in der kommenden Koalition das Informationsfreiheitsgesetz abschaffen
+  https://taz.de/Angriff-auf-Informationsfreiheit/!6074493/
+  via https://chaos.social/users/fragdenstaat/statuses/114239039359516147
+  * Breiter Aufschrei für Erhalt der Informationsfreiheit
+    https://netzpolitik.org/2025/angriff-auf-die-demokratie-breiter-aufschrei-fuer-erhalt-der-informationsfreiheit/
+  * Petition: SPD, keine Koalition ohne Informationsfreiheit!
+    https://weact.campact.de/petitions/spd-keine-koalition-ohne-informationsfreiheit
+  * Amthor spielt  Informationsfreiheit gegen Auskunftsrechte der Presse aus
+    https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Debatte-um-Informationsfreiheit-Amthor-spricht-von-Maerchenstunde,ifgamthor100.html
+    via https://chaos.social/@fragdenstaat/114240968745266882
+  * Warum das IFG bei manchen Politikern unbeliebt ist? Weil darüber Unterlagen ans Licht kommen, die solche Geschichten erzählen: Wie Philipp Amthor zum Türöffner für Augustus Intelligence wurde
+    https://bewegung.social/@a_watch/114244570300997658
+
+## Open Source
+* Seit kurzem können wir im Gericht #LibreOffice nutzen, Ende des Jahres wird es Pflicht. Der Umstieg fiel uns leicht, da wir es auch zu Hause nutzen. Und von unseren Kolleg:innen hat auch noch keine:r gemurrt.
+  https://social.schleswig-holstein.de/@gerichteSH/114148472098419012
+* Linux gehört nicht zur Strategie der Bundesdruckerei
+  https://www.swr.de/swrkultur/wissen/aemter-ohne-microsoft-warum-behoerden-freie-software-nutzen-wollen-das-wissen-2025-03-11-100.html
+  via https://social.tchncs.de/@sfritz/114206072200769752
+* The French government announced a new OSS project simply called Docs
+  https://docs.numerique.gouv.fr
+  via https://mastodon.social/@mrchrisadams/114172548977736428
+* Kalendar
+  via https://norden.social/@MisterOpenData/114196269502732428
+
+## Wirtschaft
+* der Economist bringt die Gefahr stetig wachsender leistungsloser Einkommen auf den Punkt
+  https://digitalcourage.social/users/klischka/statuses/114091031244004001
+* Discover European products and services
+  https://www.goeuropean.org
+  via https://darmstadt.social/@stvo/114208998659531721
+
+## Energie
+* Wärme aus dem Tunnel - wie U-Bahnen Wohnungen heizen können
+  https://www.fr.de/wirtschaft/waerme-aus-dem-tunnel-wie-bahnen-wohnungen-heizen-koennen-zr-93594492.html
+* How Bangladesh rolled out the world’s largest off-grid solar programme
+  https://theprogressplaybook.com/2025/03/10/how-bangladesh-rolled-out-the-worlds-largest-off-grid-solar-programme/
+
+## Mobilität
+* Wie steht’s um den ÖPNV in Deutschland?
+  https://www.greenpeace.de/klimaschutz/mobilitaet/staedteranking-oepnv-vergleich-zeigt-stillstand
+
+## Klima
+* Auswirkungen der Klimakrise: Schokoladenpreis auf Rekordniveau
+  https://taz.de/Auswirkungen-der-Klimakrise/!6070417/
+* Antwort auf eine Kleine Anfrage zur Klimawirkung der Bundes-IT geht jedoch nun hervor: Der Bund bleibt weit hinter den eigenen Zielen zurück und hat sie in Teilen sogar kaum verfolgt.
+  https://netzpolitik.org/2025/nachhaltigkeitsziele-bund-scheitert-an-gruener-it/
+* Krefelder Forscher: Kein Ende des Insektensterbens in Sicht
+  https://www.riffreporter.de/de/umwelt/krefelder-studie-insektensterben-biodiversitaet-naturschutz-deutschland
+* NASA: Meeresspiegel im vergangenen Jahr unerwartet stark angestiegen
+  https://www.heise.de/news/NASA-Meeresspiegel-im-vergangenen-Jahr-unerwartet-stark-angestiegen-10315761.html
+* Treibhausgasemissionszahlen 2024 & Projektionsdaten bis 2023: Gesetzliches Emissionsbudget wird eingehalten, Handlungsbedarf weiter bei Verkehr, Gebäuden & natürl. Senken.
+  https://www.umweltbundesamt.de/publikationen/treibhausgas-projektionen-2025-ergebnisse-kompakt
+  via https://social.bund.de/@Umweltbundesamt/114160146151735262
+
+## Citizen Science
+* Citizen Science: Es muss nicht gleich ein Königsgrab sein
+  https://skeptix.org/2025/03/11/citizen-science-es-muss-nicht-gleich-ein-koenigsgrab-sein/
+* Das Citizen-Science-Projekt "Frosch im Wassertropfen“ untersuchte im vergangenen Jahr mit tatkräftiger Unterstützung der Bevölkerung die Amphibienvielfalt in Österreich anhand ihrer DNA-Spuren
+  https://www.uibk.ac.at/de/newsroom/2025/auf-der-spur-der-amphibien-in-osterreich/
+
+## KI
+* "stop forcing AI into fucking everything"
+  https://climatejustice.social/@disco3000/114097851390590100
+* Unterhaltung und Seelenfrieden
+  https://chaos.social/users/netzpolitik_feed/statuses/114109394108699968
+* A well-funded Moscow-based global ‘news’ network has infected Western artificial intelligence tools worldwide with Russian propaganda
+  https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global
+* DOGE accidentally revealed its plans
+  https://carhenge.club/users/skiles/statuses/114203147063483693
+* Kluger-Hans-Effekt: Wenn KI-Systeme aus den falschen Gründen Recht haben
+  https://www.telepolis.de/features/Kluger-Hans-Effekt-Wenn-KI-Systeme-aus-den-falschen-Gruenden-Recht-haben-10323963.html
+* Auf der Plattform Lernende Systeme können Sie in einem spannenden Quiz herausfinden, wie gut Sie zwischen Fakt und Fiktion unterscheiden können.
+  https://www.zaki-brandenburg.info/ki-verstehen/ki-interaktiv/ki-bildquiz-der-plattform-lernende-systeme
+* Vulgar Display of Power
+  https://tante.cc/2025/03/28/vulgar-display-of-power/
+  via https://tldr.nettime.org/@tante/114239319373302306
+* Neuer LLM-Jailbreak: Mit psychologischem Gaslighting gegen KI-Filter
+  https://www.heise.de/news/Neuer-LLM-Jailbreak-Psychologe-nutzt-Gaslighting-gegen-KI-Filter-10332571.html
+
+## Recap
+* NPA144 
+  https://digitalegesellschaft.de/2025/03/npa144-im-fediverse/
+* EU Open Data Days 2025 
+  https://data.europa.eu/en/euopendatadays#open-data-days-nav-tab-table-1299
+* Mit offenen Parlamentsdaten zu mehr Transparenz, Innovation und Mitwirkung
+  https://media.ccc.de/v/dgwk2025-56347-mit-offenen-parlamentsdat#t=4
+  via https://fosstodon.org/users/andreasamsler/statuses/114189646037588351
+* data.gv.at Open Data Hackathon
+  https://metalab.at/wiki/OpenDataHackathon
+* Chemnitzer Linuxtage
+  https://media.ccc.de/c/clt25
+* FOSSGIS 2025
+  https://media.ccc.de/c/fossgis2025
+* 13. Fachkongress des IT-Planungsrats
+  https://www.it-planungsrat.de/der-it-planungsrat/fachkongress/13-fachkongress-2025-in-niedersachsen
+* Demo Day der 16. Runde Prototype Fund
+  https://www.youtube.com/watch?v=OH5w99wv8fc
+
 ## Veranstaltungen ([Kalendar/Karte](https://events.codeforleipzig.de))
 * Donnerstag, 03.04.2025, 08:00-14:00, online: **Girls'Day Online Events** <a title='Kalendereintrag Girls'Day Online Events' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vR2lybHMnRGF5IE9ubGluZSBFdmVudHMvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTAzMDlUMTMzNzM0Wg0KRFRTVEFSVDoyMDI1MDQwM1QwODAwMDANCkRURU5EOjIwMjUwNDAzVDE0MDAwMA0KU1VNTUFSWTpHaXJscydEYXkgT25saW5lIEV2ZW50cw0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cuZ2lybHMtZGF5LmRlL1JhZGFyP2xhdD0wJmxvbj0wJmxvY2FsaXR5PSZrZXl3b3Jkcz1wcm9ncmFtbWllcmVuJnNvcnRCeT0mc29ydERlc2M9ZmFsc2UmcGFnZT0xJnBhZ2VTaXplPTMwJnJhZGl1cz0yMCZna3o9JmluaXRpYXRpdmVJZD0wJmNhdGVnb3J5SWRzPSZtaW5pbXVtRnJlZVBsYWNlcz0xJm1heGltdW1GcmVlUGxhY2VzPS0xJm1pbmltdW1QYXJ0aWNpcGFudHNBZ2U9MCZvbmx5U3Vic2NyaWJhYmxlPWZhbHNlJm9ubHlBY2Nlc3NpYmxlPWZhbHNlJm9ubHlFbWJlZGRlZD1mYWxzZSZvbmx5VmlydHVhbD10cnVlJm9ubHlOb252aXJ0dWFsPWZhbHNlJm9yZ2FuaXplcklkPTAmZnJlZVBsYWNlcz1taW5kZXN0ZW5zKzEmbG9jYXRpb25UeXBlPWRpZ2l0YWwrJTJGK3ZvbStSZWNobmVyK2F1cyZ3YXJtU3RhcnQ9dHJ1ZSZmb3I9ZXZlbnQNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://www.girls-day.de/Radar?lat=0&lon=0&locality=&keywords=programmieren&sortBy=&sortDesc=false&page=1&pageSize=30&radius=20&gkz=&initiativeId=0&categoryIds=&minimumFreePlaces=1&maximumFreePlaces=-1&minimumParticipantsAge=0&onlySubscribable=false&onlyAccessible=false&onlyEmbedded=false&onlyVirtual=true&onlyNonvirtual=false&organizerId=0&freePlaces=mindestens+1&locationType=digital+%2F+vom+Rechner+aus&warmStart=true&for=event
