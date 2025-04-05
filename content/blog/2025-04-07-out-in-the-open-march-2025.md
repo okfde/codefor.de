@@ -118,6 +118,7 @@ type: blog
 * "die Verfahrensübergreifende Recherche- und Analyseplattform (Vera) von Palantir in Bayern befindet seit dem 25. Dezember 2024 im Echtbetrieb. Über einen bereits abgeschlossenen Mantelrahmenvertrag könnte die Software für die Polizei in ganz Deutschland zum Einsatz kommen"
   https://www.heise.de/news/Palantir-als-Interimsloesung-Bundesrat-fordert-schnellen-Einsatz-fuer-die-Polizei-10325605.html
   https://www.golem.de/news/bundesratsbeschluss-analysesoftware-der-polizei-soll-gesundheitsdaten-auswerten-2503-194605.html
+  https://netzpolitik.org/2025/palantir-wer-jetzt-bei-peter-thiel-software-kauft-hat-wirklich-nichts-verstanden/
 
 ## Transparenz
 * CDU und CSU möchten in der kommenden Koalition das Informationsfreiheitsgesetz abschaffen
@@ -132,6 +133,10 @@ type: blog
     via https://chaos.social/@fragdenstaat/114240968745266882
   * Warum das IFG bei manchen Politikern unbeliebt ist? Weil darüber Unterlagen ans Licht kommen, die solche Geschichten erzählen: Wie Philipp Amthor zum Türöffner für Augustus Intelligence wurde
     https://bewegung.social/@a_watch/114244570300997658
+  * Mehr Transparenz, nicht weniger: Eine Stärkung der Informationsfreiheit und eine funktionierende digitale Verwaltung sind essenziell – für Bürger*innen ebenso wie für Behörden. Arne Semsrott erklärt im WDR, warum es ein Rückschritt wäre das IFG abzuschaffen:
+    https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/informationsfreiheitsgesetz-kernpfeiler-der-demokratie-100.html
+* Ausnahme für den Finanzsektor: Wie Teile der Finanzlobby europäische Sorgfaltspflichten aushebelten
+  https://www.finanzwende.de/themen/finanzlobbyismus/ausnahme-fuer-den-finanzsektor
 
 ## Open Source
 * Seit kurzem können wir im Gericht #LibreOffice nutzen, Ende des Jahres wird es Pflicht. Der Umstieg fiel uns leicht, da wir es auch zu Hause nutzen. Und von unseren Kolleg:innen hat auch noch keine:r gemurrt.
@@ -151,6 +156,9 @@ type: blog
 * Discover European products and services
   https://www.goeuropean.org
   via https://darmstadt.social/@stvo/114208998659531721
+* Big Tech sind heute schon zu groß und zu mächtig – und dringen beinahe unbemerkt in den Finanzsektor ein. Was man dagegen tun kann? Unser neuer Bericht zeigt Handlungsmöglichkeiten auf
+  https://www.finanzwende-recherche.de/unsere-themen/digitalisierung-finanzsektor/big-techs-im-finanzwesen/
+  via https://bsky.app/profile/fw-recherche.bsky.social/post/3ll4gs3ir7c2b
 
 ## Energie
 * Wärme aus dem Tunnel - wie U-Bahnen Wohnungen heizen können
@@ -174,6 +182,27 @@ type: blog
 * Treibhausgasemissionszahlen 2024 & Projektionsdaten bis 2023: Gesetzliches Emissionsbudget wird eingehalten, Handlungsbedarf weiter bei Verkehr, Gebäuden & natürl. Senken.
   https://www.umweltbundesamt.de/publikationen/treibhausgas-projektionen-2025-ergebnisse-kompakt
   via https://social.bund.de/@Umweltbundesamt/114160146151735262
+* Studie: Stadtbäume in Los Angeles absorbieren viel mehr CO2 als erwartet
+  https://oekonews.at/studie-stadtbaeume-in-los-angeles-absorbieren-viel-mehr-co2-als-erwartet+2400+1224973
+* Klimageld-Rechner
+  https://klimageld-rechner.com
+* Der neu sanierte Gendarmenmarkt in Berlin ist eine 14.000qm Steinwüste, die sich im Sommer brutal aufheizen wird
+  https://bsky.app/profile/ingwarpero.bsky.social/post/3lkd7tdqi7c25
+  * passend dazu: https://www.der-postillon.com/2025/03/gendarmenmarkt.html
+  * der berühmte Place de la Concorde wird von einer grauen Steinwüste in einen grünen "Gartenplatz" und eine Fußgängerzone verwandelt. 50% des Platzes sollen entsiegelt und Wiesen, Blumen & 131 Bäume gepflanzt werden, was im Sommer den Boden um 8 Grad abkühlt
+    https://bsky.app/profile/ingwarpero.bsky.social/post/3llety2jzks2g
+* Ozeane auch in der Tiefe so warm wie nie
+  https://www.tagesschau.de/wissen/klima/meere-temperatur-100.html
+* Dürremonitor Deutschland
+  https://www.ufz.de/index.php?de=37937
+  https://bsky.app/profile/terliwetter.bsky.social/post/3lljxqywync2e
+* An mindestens 15 Orten stehen in Dänemark Bänke, die auf die Höhe von 1,35m eingestellt sind, auf die der Meeresspiegel bis zum Jahr 2100 steigen könnte
+  https://bsky.app/profile/infokomposter.bsky.social/post/3llomi22mfk2o
+
+## Journalismus
+* Das Netzwerk Recherche veröffentlicht einen praktischen Leitfaden zu Grundlagen des Investigativjournalismus 
+  https://netzwerkrecherche.org/international/guide-investigativjournalismus/
+  via https://bsky.app/profile/medienmagazin-m.bsky.social/post/3lkd5dqsye22w
 
 ## Citizen Science
 * Citizen Science: Es muss nicht gleich ein Königsgrab sein
