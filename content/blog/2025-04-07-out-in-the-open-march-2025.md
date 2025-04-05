@@ -24,6 +24,8 @@ type: blog
 * The state of Open Humanitarian Data 2025
   https://data.humdata.org/dataset/2048a947-5714-4220-905b-e662cbcd14c8/resource/651edd52-d14c-4a23-a48c-f69b9aa7b1c9/download/the-state-of-open-humanitarian-data-2025.pdf
   via https://mastodon.social/@jmcastagnetto/114197265805439002
+* Brandenburgs Open-Data-Portal DatenAdler wurde unter der Federführung des Ministeriums der Justiz und für Digitales (MdJD) fertiggestellt 
+  https://www.linkedin.com/posts/digitalagentur-brandenburg-gmbh_datenadler-datenadler-dabb-activity-7302228796517068800-0_km
 
 ## Wikipedia
 * 3 Millionen Artikel in der deutschsprachigen Wikipedia!
@@ -52,12 +54,18 @@ type: blog
     via https://norden.social/@tomkyle/114093826916357766
 * Komoot aufgekauft
   via https://en.osm.town/@richardf/114196764264677476
+  * Bending Spoons Acquires komoot
+    https://www.businesswire.com/news/home/20250320568940/en/Bending-Spoons-Acquires-komoot
 * Interaktive Karte: Panik, Provokation, Schallwaffen: Was geschah bei der Großdemo in Belgrad?
   https://netzpolitik.org/2025/panik-provokation-schallwaffen-was-geschah-bei-der-grossdemo-in-belgrad/
 * Surveillance under Surveillance
   https://media.ccc.de/v/clt25-186-openstreetmap-ist-keine-karte
   https://sunders.uber.space
   via https://gruene.social/@Gerbsen/114213068898191350
+* Die Bodenrichtwerte 2025 für die Stadt Düren sind jetzt verfügbar
+  https://www.aachener-zeitung.de/lokales/region-dueren/dueren/die-bodenrichtwerte-2025-fuer-die-stadt-dueren-sind-jetzt-verfuegbar/48201160.html
+  https://www.boris.nrw.de/boris-nrw/?lang=de
+  https://www.bodenrichtwerte-boris.de/boris-d/?lang=de
 
 ## Verwaltungsdigitalisierung
 * "Wenn 16 Leute etwas über einen Fluss transportieren wollen, würden wir nicht auf die Idee kommen, alle ein eigenes Boot zu bauen. Stattdessen bauen wir gemeinsam eine Brücke. Bei 16 Bundesländern sieht die Realität in der Softwareentwicklung aber oft anders aus."
@@ -66,6 +74,8 @@ type: blog
   via https://mastodon.social/@PrototypeFund/114098021290928037
 * "Die Pflege dieser Stammdaten ist aber wirklich üble Bodenarbeit, mit deren Anordnung sich niemand schmücken kann. Auch deshalb übernimmt niemand die Verantwortung dafür, dass das in den vergangenen 20 Jahren versäumt wurde. Das muss jetzt aber geschehen. Sonst kommen wir mit keiner digitalen Anwendung voran."
   https://www.golem.de/news/verwaltungsdigitalisierung-der-bund-muss-standards-setzen-2503-193830-3.html
+* Kommunale und Landes-IT-DL sprechen über das Big Picture der Verwaltungsdigitalisierung
+  https://egovernment-podcast.com/egov214-big-picture-ekom21/
 
 ## Digitalpolitische Forderungen an den Bundesregierung
 * Bündnis F5: Resiliente digitale Infrastruktur: 20 Forderungen an die Bundesregierung
@@ -81,6 +91,8 @@ type: blog
   https://www.bayceer.uni-bayreuth.de/s4f/de/top/o2/stat.php
 * Lippenbekenntnisse schaffen keine digitale Souveränität
   https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/lippenbekenntnisse-schaffen-keine-digitale-souveraenitaet
+* Entwicklungslinien der Verwaltungsdigitalisierung in Deutschland der letzten 25 Jahre
+  https://agoradigital.de/uploads/25-03-18_SHI_ADT_Entwicklungslinien.pdf
 
 ## Und wie es tatsächlich läuft
 * Neues Digitalministerium: "Das BSI wird dann nach der Logik das "Bundesamt für spontanen Datenreichtum" und das BMD wird Leuchtturm. Mehr Satire geht echt nicht mehr."
@@ -97,6 +109,8 @@ type: blog
 * Kein Aprilscherz: Google Cloud und BSI schließen Kooperationsvereinbarung für sichere Cloud-Lösungen in der öffentlichen Verwaltung
   https://cloud.google.com/blog/de/topics/offentlicher-sektor/google-cloud-bsi
   via https://gruene.social/@norbert/114117226128613782
+  * Harsche Kritik an BSI-Kooperation mit Google
+    https://www.channelpartner.de/a/harsche-kritik-an-bsi-kooperation-mit-google,3764192
 * Ein interessanter Beschluss, den die Ministerpräsident*innen da gefasst haben.
   via https://social.tchncs.de/@kaffeeringe/114161009390996871
 * Knitting Our Internet - an interactive journey through the history of the Internet, and a collective rethinking of its future.
@@ -113,12 +127,20 @@ type: blog
 * Cloud Genossenschaft 101 in Gründung
   https://101lab.it/101cloud/geno.html
   via https://23.social/users/thomasfricke/statuses/114244874956536880
+* Was "digitale Souveränität" für die öffentliche Verwaltung bedeutet
+  https://netzpolitik.org/2025/jenseits-des-marketingbegriffs-was-digitale-souveraenitaet-fuer-die-oeffentliche-verwaltung-bedeutet/
+* Plattformen gegen offenes Internet: Das Digitale ist das Echte
+  https://www.derstandard.at/story/3000000261454/plattformen-gegen-offenes-internet-das-digitale-ist-das-echte
+* Demokratisch kontrollierte Alternativen gegen technologische Abhängigkeit
+  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/demokratisch-kontrollierte-alternativen-gegen-technologische-abhaengigkeit
 
 ## Überwachung
 * "die Verfahrensübergreifende Recherche- und Analyseplattform (Vera) von Palantir in Bayern befindet seit dem 25. Dezember 2024 im Echtbetrieb. Über einen bereits abgeschlossenen Mantelrahmenvertrag könnte die Software für die Polizei in ganz Deutschland zum Einsatz kommen"
   https://www.heise.de/news/Palantir-als-Interimsloesung-Bundesrat-fordert-schnellen-Einsatz-fuer-die-Polizei-10325605.html
   https://www.golem.de/news/bundesratsbeschluss-analysesoftware-der-polizei-soll-gesundheitsdaten-auswerten-2503-194605.html
   https://netzpolitik.org/2025/palantir-wer-jetzt-bei-peter-thiel-software-kauft-hat-wirklich-nichts-verstanden/
+* Koalitionsverhandlungen: Gruselprogramm für Grund und Freiheitsrechte
+  https://netzpolitik.org/2025/koalitionsverhandlungen-gruselprogramm-fuer-grund-und-freiheitsrechte/
 
 ## Transparenz
 * CDU und CSU möchten in der kommenden Koalition das Informationsfreiheitsgesetz abschaffen
@@ -135,8 +157,18 @@ type: blog
     https://bewegung.social/@a_watch/114244570300997658
   * Mehr Transparenz, nicht weniger: Eine Stärkung der Informationsfreiheit und eine funktionierende digitale Verwaltung sind essenziell – für Bürger*innen ebenso wie für Behörden. Arne Semsrott erklärt im WDR, warum es ein Rückschritt wäre das IFG abzuschaffen:
     https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/informationsfreiheitsgesetz-kernpfeiler-der-demokratie-100.html
+  * Union will Informationsfreiheitsgesetz abschaffen
+    https://fragdenstaat.de/artikel/exklusiv/2025/03/union-will-informationsfreiheitsgesetz-abschaffen/
+  * Union plan Abschaffung des Informationsfreiheitsgesetzes
+    https://netzwerkrecherche.org/blog/union-plant-abschaffung-des-informationsfreiheitsgesetzes/
+  * Der Deutsche Journalisten-Verband warnt die Union davor, das Informationsfreiheitsgesetz abzuschaffen oder abzuschwächen.
+    https://www.djv.de/news/pressemitteilungen/press-detail/djv-warnt-vor-gesetzesaenderung/
 * Ausnahme für den Finanzsektor: Wie Teile der Finanzlobby europäische Sorgfaltspflichten aushebelten
   https://www.finanzwende.de/themen/finanzlobbyismus/ausnahme-fuer-den-finanzsektor
+* Senkung der Gastro-Mehrwertsteuer wirft Fragen zu Lobby-Verbindungen der Union auf
+  https://www.foodwatch.org/de/senkung-der-gastro-mehrwertsteuer-wirft-fragen-zu-lobby-verbindungen-der-union-auf
+* Trumps Vordenker im Bundestag
+  https://correctiv.org/aktuelles/lobbyismus/2025/03/19/heritage-foundation-trumps-verbuendete-im-bundestag/
 
 ## Open Source
 * Seit kurzem können wir im Gericht #LibreOffice nutzen, Ende des Jahres wird es Pflicht. Der Umstieg fiel uns leicht, da wir es auch zu Hause nutzen. Und von unseren Kolleg:innen hat auch noch keine:r gemurrt.
@@ -198,6 +230,14 @@ type: blog
   https://bsky.app/profile/terliwetter.bsky.social/post/3lljxqywync2e
 * An mindestens 15 Orten stehen in Dänemark Bänke, die auf die Höhe von 1,35m eingestellt sind, auf die der Meeresspiegel bis zum Jahr 2100 steigen könnte
   https://bsky.app/profile/infokomposter.bsky.social/post/3llomi22mfk2o
+* Bodenfeuchteviewer
+  https://www.dwd.de/DE/fachnutzer/landwirtschaft/5_bofeuview/_node.html
+* Giess Bielefeld
+  https://github.com/codeforbielefeld/baumbie
+* Wo sind die 2600 Milliarden Tonnen Wasser hin?
+  https://www.spiegel.de/wissenschaft/klimawandel-wo-sind-die-2600-milliarden-tonnen-wasser-hin-a-00373276-5b2a-4d29-9424-07579003df19?giftToken=46b3e387-8635-47d1-b115-d0e4276af683
+* Eine neue interaktive Karte zeigt bei Starkregen detailliert Gefahrenzonen in zwölf Bundesländern.
+  https://www.klimareporter.de/technik/zu-nah-am-wasser-gebaut
 
 ## Journalismus
 * Das Netzwerk Recherche veröffentlicht einen praktischen Leitfaden zu Grundlagen des Investigativjournalismus 
@@ -217,6 +257,8 @@ type: blog
   https://chaos.social/users/netzpolitik_feed/statuses/114109394108699968
 * A well-funded Moscow-based global ‘news’ network has infected Western artificial intelligence tools worldwide with Russian propaganda
   https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global
+  * Russland manipuliert wohl westliche Chatbots für seine Propaganda
+    https://www.spiegel.de/ausland/chatgpt-und-perplexity-ai-russland-manipuliert-westliche-chatbots-fuer-seine-propaganda-a-7e276236-cac3-4f35-8ad4-40eaba1c8caf
 * DOGE accidentally revealed its plans
   https://carhenge.club/users/skiles/statuses/114203147063483693
 * Kluger-Hans-Effekt: Wenn KI-Systeme aus den falschen Gründen Recht haben
@@ -228,6 +270,8 @@ type: blog
   via https://tldr.nettime.org/@tante/114239319373302306
 * Neuer LLM-Jailbreak: Mit psychologischem Gaslighting gegen KI-Filter
   https://www.heise.de/news/Neuer-LLM-Jailbreak-Psychologe-nutzt-Gaslighting-gegen-KI-Filter-10332571.html
+* Der Erfinder des Web kritisiert den Hype um generative KI scharf
+  https://www.derstandard.de/story/3000000261183/der-erfinder-des-web-kritisiert-den-hype-um-generative-ki-scharf
 
 ## Recap
 * NPA144 
