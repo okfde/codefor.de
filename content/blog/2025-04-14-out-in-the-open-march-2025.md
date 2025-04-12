@@ -1,7 +1,7 @@
 ---
 title: "Blackrot – Out in the Open März 2025"
 author: "Jörg Reichert (Code for Leipzig)"
-date: '2025-04-07T08:00:00+02:00'
+date: '2025-04-14T08:00:00+02:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
 topic: community
 images:
@@ -16,49 +16,46 @@ Die Antwort auf die Frage, welche [hochwertigen Datensätze](https://www.govdata
 
 In einer von einer Unternehmensberatung [beauftragten Erhebung](https://www.finatycs.de/news-items/offene-daten-okosysteme) wurden die Open-Data-Warehouses von 20 größten deutschen Städten hinsichtlich Quantität, verwendeten Dateiformaten, inhaltlichen Kategorien [analysiert](https://www.egovernment.de/open-data-ein-staedtevergleich-a-68153a4afc9752a2935a8d150e8f265f/). Die Auswertung ergab dabei, dass für Hamburg mit Abstand die meisten Datensätze vorliegen, auf ihren eigenem Datenportal mit über 8.000, in den von GovData zusammengeharvesteten Metadaten wurden sogar über 23.000 Quellen mit Hamburg-Bezug identifiziert. Die Erhebung stellte weiter fest, dass die meisten Daten in den Datenportalen in den Bereich "Umwelt und Klima" fallen, am häufigsten werden Geodaten bereitgestellt. Bei den Dateiformaten führt CSV, leider werden aber auch noch viele Datensätze als HTML oder PDF veröffentlich, die dadurch nur bedingt maschinenlesbar sind. Die Autoren der Studie bemängeln zudem die mangelnde Vielfalt der Datensätze, die zum Teil schlechte Auffindbarkeit und die großen Unterschiede bei Quantität und Qualität zwischen den Städten. 
 
-Ob nun wirklich jede Stadt und jedes Bundesland ein eigenes Datenportal braucht, ist trotzdem fraglich. Sie fühlen sich an wie das Konzept von (kuratierten) Linklisten und Webverzeichnissen (analog zu Telefonbuch und Gelbe Seiten) aus den 90-ern und 2000-ern, die dann aber schnell von [Suchmaschinen](https://www.drweb.de/kleine-geschichte-der-suchmaschinen/) abgelöst worden sind. Webseiten selbst können z.B. durch entsprechende Angabe von [Metatags](https://de.wikipedia.org/wiki/Meta-Element) ihre Auffindbarkeit für die Crawler von Suchmaschinen und damit auch ihr Ranking in den Suchergebnissen verbessern. Ähnliches sollte auch Ziel für offene Datensätze sein, indem sie Standards folgen, ihre umfassende Metadaten-Angaben vorhanden und gepflegt sind. Derart self-contained ist es dann egal, wo sie initial veröffentlicht werden. Vielleicht gibt es in den üblichen Suchmaschinen irgendwann auch einen [Suchoperator](https://t3n.de/news/google-suche-tipps-und-tricks-537407/) speziell für Open-Data.  
+Ob nun wirklich jede Stadt und jedes Bundesland ein eigenes Datenportal braucht, ist trotzdem fraglich. Sie fühlen sich an wie das Konzept von (kuratierten) Linklisten und Webverzeichnissen (analog zu Telefonbuch und Gelbe Seiten) aus den 90-ern und 2000-ern, die dann aber schnell von [Suchmaschinen](https://www.drweb.de/kleine-geschichte-der-suchmaschinen/) abgelöst worden sind. Webseiten selbst können z.B. durch entsprechende Angabe von [Metatags](https://de.wikipedia.org/wiki/Meta-Element) ihre Auffindbarkeit für die Crawler von Suchmaschinen und damit auch ihr Ranking in den Suchergebnissen verbessern. Ähnliches sollte auch Ziel für offene Datensätze sein, indem sie Standards folgen, ihre umfassende Metadaten-Angaben vorhanden und gepflegt sind. Derart selbstbeschreibend (self-contained) ist es dann egal, wo sie initial veröffentlicht werden. Vielleicht gibt es in den üblichen Suchmaschinen irgendwann auch einen [Suchoperator](https://t3n.de/news/google-suche-tipps-und-tricks-537407/) speziell für Open-Data.
 
-Wie auch immer, in Brandenburg geht mit [DatenAdler](https://offene.daten-brandenburg.de/) nun ebenfalls ein Open-Data-Portal an den Start. Zu mindestens wurde dafür die bestehende Open-Source-Software von [open.bydata.de](https://open.bydata.de/home?locale=de) nachgenutzt.
+Wie auch immer, in Brandenburg ist mit dem [DatenAdler](https://offene.daten-brandenburg.de/) ein weiteres Landes-Open-Data-Portal gelandet. Wenigstens wurde dafür die bestehende Open-Source-Software von [open.bydata.de](https://open.bydata.de/home?locale=de) nachgenutzt.
 
 Im jährlichen Zustandbericht über [Open Humanitarian Data](https://data.humdata.org/dataset/2048a947-5714-4220-905b-e662cbcd14c8/resource/651edd52-d14c-4a23-a48c-f69b9aa7b1c9/download/the-state-of-open-humanitarian-data-2025.pdf) wird die drohende nachlassende Verfügbarkeit von Daten beklagt. Speziell Informationen darüber wie (globale) Krisen konkret welche Menschen betreffen. Sie werden aber benötigt, um humanitäre Hilfsangebote gezielt steuern zu können. Auf [Humanitarian Data Exchange (HDX)](https://data.humdata.org) haben im Jahr 2024 216 aktive Organizationen etwa 2.500 Datensätze neu eingestellt, die den Krisen von Afghanistan zu Gaza und Sudan zugeordnet werden können. Die Daten decken Angaben zu Bildungs- und Gesundheitseinrichtungen, aber auch Bevölkerungszahlen und Straßen ab. Sie erfassen Abweichungen bei der landwirtschaftlichen Produktion und Auswirkungen von Überflutungen. 
 
-## Transparenz
-* Antwort der Bundesregierung auf die kleine Anfrage der Unionsfraktion "Politische Neutralität staatlich geförderter Organisationen"
-  https://fragdenstaat.de/dokumente/256699-antwort-der-bundesregierung-auf-die-kleine-anfrage-der-unionsfraktion-politische-neutralitaet-staatlich-gefoerderter-organisationen/
-* Ergebnisse der Sondierungen von CDU, CSU und SPD
-  https://fragdenstaat.de/dokumente/256683-ergebnisse-der-sondierungen-von-cdu-csu-und-spd/
-* Koalitionsvertrag (Entwurf)
-  https://fragdenstaat.de/dokumente/258046-koalitionsvertrag-cdu-csu-spd-2025-entwurf/
-* Koalitionsvertrag
-  https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag_2025.pdf
-* CDU und CSU möchten in der kommenden Koalition das Informationsfreiheitsgesetz abschaffen
-  https://taz.de/Angriff-auf-Informationsfreiheit/!6074493/
-  via https://chaos.social/users/fragdenstaat/statuses/114239039359516147
-  * Breiter Aufschrei für Erhalt der Informationsfreiheit
-    https://netzpolitik.org/2025/angriff-auf-die-demokratie-breiter-aufschrei-fuer-erhalt-der-informationsfreiheit/
-  * Petition: SPD, keine Koalition ohne Informationsfreiheit!
-    https://weact.campact.de/petitions/spd-keine-koalition-ohne-informationsfreiheit
-  * Amthor spielt  Informationsfreiheit gegen Auskunftsrechte der Presse aus
-    https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Debatte-um-Informationsfreiheit-Amthor-spricht-von-Maerchenstunde,ifgamthor100.html
-    via https://chaos.social/@fragdenstaat/114240968745266882
-  * Warum das IFG bei manchen Politikern unbeliebt ist? Weil darüber Unterlagen ans Licht kommen, die solche Geschichten erzählen: Wie Philipp Amthor zum Türöffner für Augustus Intelligence wurde
-    https://bewegung.social/@a_watch/114244570300997658
-  * Mehr Transparenz, nicht weniger: Eine Stärkung der Informationsfreiheit und eine funktionierende digitale Verwaltung sind essenziell – für Bürger*innen ebenso wie für Behörden. Arne Semsrott erklärt im WDR, warum es ein Rückschritt wäre das IFG abzuschaffen:
-    https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/informationsfreiheitsgesetz-kernpfeiler-der-demokratie-100.html
-  * Union will Informationsfreiheitsgesetz abschaffen
-    https://fragdenstaat.de/artikel/exklusiv/2025/03/union-will-informationsfreiheitsgesetz-abschaffen/
-  * Union plan Abschaffung des Informationsfreiheitsgesetzes
-    https://netzwerkrecherche.org/blog/union-plant-abschaffung-des-informationsfreiheitsgesetzes/
-  * Der Deutsche Journalisten-Verband warnt die Union davor, das Informationsfreiheitsgesetz abzuschaffen oder abzuschwächen.
-    https://www.djv.de/news/pressemitteilungen/press-detail/djv-warnt-vor-gesetzesaenderung/
-  * Update 9.4.: IFG wird nicht abgeschafft!
-    https://fragdenstaat.de/artikel/exklusiv/2025/04/ifg-wird-nicht-abgeschafft/
-* Senkung der Gastro-Mehrwertsteuer wirft Fragen zu Lobby-Verbindungen der Union auf
-  https://www.foodwatch.org/de/senkung-der-gastro-mehrwertsteuer-wirft-fragen-zu-lobby-verbindungen-der-union-auf
-* Ausnahme für den Finanzsektor: Wie Teile der Finanzlobby europäische Sorgfaltspflichten aushebelten
-  https://www.finanzwende.de/themen/finanzlobbyismus/ausnahme-fuer-den-finanzsektor
-* Trumps Vordenker im Bundestag
-  https://correctiv.org/aktuelles/lobbyismus/2025/03/19/heritage-foundation-trumps-verbuendete-im-bundestag/
+## Digitalpolitische Forderungen an den Bundesregierung
+Während im auf FragDenStaat Anfang März veröffentlichten [Sondierungspapier](https://fragdenstaat.de/dokumente/256683-ergebnisse-der-sondierungen-von-cdu-csu-und-spd/) noch schwammig von "Digitalisierung voranbringen" gesprochen wurde, haben zivilgesellschaftliche Organisationen konkrete Forderungen an die kommende Bundesregierung formuliert. [Netzpolitik](https://netzpolitik.org/2025/forderungen-aus-der-zivilgesellschaft-diese-digitalpolitischen-ziele-muessen-in-den-koalitionsvertrag/) hat die wichtigsten zusammengestellt und auch jeweils ihre Chancen, Eingang in den Koalitionsvertrag zu finden, bewertet.
+Einen Entwurf für ein [Bundes-Transparenzgesetz](https://transparenzgesetz.de/) (und den damit verbundenen Rechtsanspruch auf Open Data) gäbe es dabei schon. Für eine erfolgreiche Verwaltungsdigitalisierung braucht es mehr Ressourcen und mehr technische Kompetenzen. Datenschutz und IT-Sicherheit muss bei allen Entscheidungen mitgedacht werden. Verstärkt auf Open-Source-Software zu setzen ist neben Regulierung der großen Plattformen ein Weg um sich aus der Abhängigkeit von Tech-Unternehmen aus den USA und China zu befreien. Für die 30 Organisationen muss dies Teil der [digitalen Brandmauer](https://d-64.org/digitale-brandmauer/) sein. Diese wendet sich auch gegen Massenüberwachung und setzt sich für den Erhalt der Ende-zu-Ende-Verschlüsselung ein. In [einem offenen Brief](https://digitalegesellschaft.de/2025/03/offener-brief-demokratie-schuetzen-gemeinwohl-foerdern/) wird des Weiteren die Förderung dezentraler digitaler Plattformen angeregt. Ähnliche Punkte finden sich im [Forderungspapier vom Bündnis F5](https://buendnis-f5.de/assets/data/F5_DigitaleInfrastruktur_onepager.pdf). Nicht zu vergessen ist auch der Aspekt von Umwelt- und Klimaschutz, der nicht nur in der Digitalisierung (durch anhaltende KI-Verblendung) kaum noch ein Rolle zu spielen scheint. Ein [Appell von Wissenschaftlerinnen und Wissenschaftlern](https://www.bayceer.uni-bayreuth.de/s4f/de/top/o2/stat.php) erinnert daran, dieses Thema weiterhin sehr ernst zu nehmen.  
+
+## Und wie es tatsächlich lief
+"Das Informationsfreiheitsgesetz in der bisherigen Form wollen wir hingegen abschaffen." - dieser Satz stand im Rahmen der Koalitionsverhandlungen aufgesetzten [Papier](https://fragdenstaat.de/dokumente/258024-koalitionsverhandlungen-cdu-csu-spd-ag-9-buerokratierueckbau-staatsmodernisierung-moderne-justiz/) der Arbeitsgruppe "Bürokratierückbau, Staatsmodernisierung, Moderne Justiz", [wie FragDenStaat mit Erschrecken auffiel](https://fragdenstaat.de/artikel/exklusiv/2025/03/union-will-informationsfreiheitsgesetz-abschaffen/). Diese Union-Forderung war zu diesem Zeitpunkt noch nicht mit der SPD geeint. Verhandlungsführer für die Union war Philipp Amthor, dessen Lobby-Tätigkeiten selbst einmal [im Visier des IFG standen](https://bewegung.social/@a_watch/114244570300997658). Auf [Netzpoltik](https://netzpolitik.org/2025/angriff-auf-die-demokratie-breiter-aufschrei-fuer-erhalt-der-informationsfreiheit/) ist die folgende breite Kritik zahlreicher Organisationen, wie unter anderem dem [Deutschen Journalisten-Verband](https://www.djv.de/news/pressemitteilungen/press-detail/djv-warnt-vor-gesetzesaenderung/) und [Netzwerk Rechereche](https://netzwerkrecherche.org/blog/union-plant-abschaffung-des-informationsfreiheitsgesetzes/), dokumentiert. FragDenStaat selbst [hatte eine Petition gestartet](https://weact.campact.de/petitions/spd-keine-koalition-ohne-informationsfreiheit), die die SPD in die Pflicht nahm, dem unter keinen Umständen zustimmen. Mehr als 400.000 Menschen haben sie unterschrieben. [Und der Protest hat gewirkt](https://fragdenstaat.de/artikel/exklusiv/2025/04/ifg-wird-nicht-abgeschafft/): im [finalen Stand](https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag_2025.pdf) des Koalitionsvertrags steht nun: "Das Informationsfreiheitsgesetz in der bisherigen Form wollen wir mit einem Mehrwert für Bürgerinnen und Bürger und Verwaltung reformieren". Dagegen soll allerdings das nationale Lieferkettensorgfaltspflichtengesetz abgeschafft werden und auch der Satz "Wir verschlanken das Umwelt-Informationsgesetz" hat es leider in den Vertragstext geschafft.
+
+Im Kapitel "Digitales" des Koalitionsvertrags finden sich einige markante Sätze: "Wir wollen eine Kultur der Datennutzung und des Datenteilens, die Datenökonomie etabliert, auf Innovation setzt und Grund- und Freiheitsrechte schützt. Dafür beseitigen wir Rechtsunsicherheiten, heben Datenschätze, fördern Daten-Ökosysteme und setzen auf Datensouveränität." und "Wir schaﬀen die Grundlage, um Regelwerke, für die es sachgemäß ist, in einem Datengesetzbuch zusammenzufassen. Wir verfolgen den Grundsatz 'public money, public data' und gewährleisten dabei durch Datentreuhänder Vertrauen in Datenmanagement und hohe Datenqualität." Auch "KI-Sprunginnovationen" und "Digital-Only" findet man im Text. Hintertüren hält man sich offen mit Formulierungen wie "Wo es möglich ist, schaﬀen wir einen Rechtsanspruch auf Open Data bei staatlichen Einrichtungen". Organisatorisch soll die "Bundesdatenschutzbeauftragte" in "Bundesbeauftragte für Datennutzung, Datenschutz und Informationsfreiheit" umbenannt werden und aus der letzten Seite des Vertrags geht hervor, dass es ein Ministerium für "Digitalisierung und Staatsmodernisierung" unter CDU-Führung geben soll.
+
+## Verwaltungsdigitalisierung
+* Entwicklungslinien der Verwaltungsdigitalisierung in Deutschland der letzten 25 Jahre
+  https://agoradigital.de/uploads/25-03-18_SHI_ADT_Entwicklungslinien.pdf
+
+* "Wenn 16 Leute etwas über einen Fluss transportieren wollen, würden wir nicht auf die Idee kommen, alle ein eigenes Boot zu bauen. Stattdessen bauen wir gemeinsam eine Brücke. Bei 16 Bundesländern sieht die Realität in der Softwareentwicklung aber oft anders aus."
+  Warum das so ist erklärt uns Jonas Bostelmann in seiner Keynote.
+  https://file.ki.lgln.niedersachsen.dev/f/d9d2022df2a94aac9574/
+  via https://mastodon.social/@PrototypeFund/114098021290928037
+* "Die Pflege dieser Stammdaten ist aber wirklich üble Bodenarbeit, mit deren Anordnung sich niemand schmücken kann. Auch deshalb übernimmt niemand die Verantwortung dafür, dass das in den vergangenen 20 Jahren versäumt wurde. Das muss jetzt aber geschehen. Sonst kommen wir mit keiner digitalen Anwendung voran."
+  https://www.golem.de/news/verwaltungsdigitalisierung-der-bund-muss-standards-setzen-2503-193830-3.html
+* Kommunale und Landes-IT-DL sprechen über das Big Picture der Verwaltungsdigitalisierung
+  https://egovernment-podcast.com/egov214-big-picture-ekom21/
+
+## Überwachung
+Die Koalitionsverhandlungen ließen schon Schlimmes für Grund und Freiheitsrechte [erahnen](https://netzpolitik.org/2025/koalitionsverhandlungen-gruselprogramm-fuer-grund-und-freiheitsrechte/). Tatsächlich in den Koalitionsvertrag geschafft hat es der Satz "Für bestimmte Zwecke sollen unsere Sicherheitsbehörden, unter Berücksichgung verfassungsrechtlicher Vorgaben und digitaler Souveränität, die automatisierte Datenrecherche und -analyse sowie den nachträglichen biometrischen Abgleich mit öﬀentlich zugänglichen Internetdaten, auch mittels Künstlicher Intelligenz, vornehmen können" und mit "Wir führen eine verhältnismäßige und europa- und verfassungsrechtskonforme dreimonage Speicherpflicht für IP-Adressen und Portnummern ein, um diese einem Anschlussinhaber zuordnen zu können." auch die Vorratsdatenspeicherung.
+
+Die Grundlagen für die Umsetzung existieren bereits. Sie befindet sich die bisher in Bayern nur pilotierte [Verfahrensübergreifende Recherche- und Analyseplattform (Vera)](https://police-it.net/category/polizeiliche-informationssysteme/recherche-analyse-auswertung-polizei/vera-verfahrensuebergreifende-recherche-und-analyse) von [Palantir](https://de.wikipedia.org/wiki/Palantir_Technologies) seit dem 25. Dezember 2024 [im Echtbetrieb](https://www.heise.de/news/Palantir-als-Interimsloesung-Bundesrat-fordert-schnellen-Einsatz-fuer-die-Polizei-10325605.html). Und über den bereits abgeschlossenen Mantelrahmenvertrag könnte die Software auch deutschlandweit ausgerollt werden. Auch Gesundheitsdaten sollen in ihr für die Bestimmung des Gefährungspotenzial möglicher Täter [ausgewertet werden können](https://www.golem.de/news/bundesratsbeschluss-analysesoftware-der-polizei-soll-gesundheitsdaten-auswerten-2503-194605.html). Großaktionär von Palantir ist übrigens der erklärte Demokratiefend Peter Thiel, [vielleicht ist das keine so gute Idee](https://netzpolitik.org/2025/palantir-wer-jetzt-bei-peter-thiel-software-kauft-hat-wirklich-nichts-verstanden/).
+ml
+
+## Lobbyismus
+In die Koaltionsvertrag Eingang gefunden hat auch diese Regelung: "Die Umsatzsteuer für Speisen in der Gastronomie wird zum 01.01.2026 dauerhaft auf sieben Prozent reduziert." Für Foodwatch hätte eine sinnvollere Mehrwertsteuer-Reform Verbraucher:innen entlasten und zudem gesunde Ernährung gefördert. Stattdessen scheint es eher [ein Milliardengeschenk an die Gastro-Lobby zu sein](https://www.foodwatch.org/de/senkung-der-gastro-mehrwertsteuer-wirft-fragen-zu-lobby-verbindungen-der-union-auf).
+
+Auch auf EU-Ebene ist die Einflussnahme ein Dauerthema. So ist der Umstand, dass der Finanzsektor weitgehend vom europäischen Lieferkettengesetz und somit von Sorgfaltspflichten für Umwelt und Menschenrechte ausgenommen ist, ein "Erfolg" umfangreicher Lobbyarbeit. Mit dem "Omnibus"-Paket [sollen diese nun sogar dauerhaft festgeschrieben werden](https://www.finanzwende.de/themen/finanzlobbyismus/ausnahme-fuer-den-finanzsektor). 
+
+Auch die [Heritage Foundation](https://de.wikipedia.org/wiki/Heritage_Foundation), Drahtzieher des [Project 2025](https://de.wikipedia.org/wiki/Project_2025), strecken ihre Tentakel nach Europa und Deutschland aus, die hier auch schon [freudig ergriffen wurden](https://correctiv.org/aktuelles/lobbyismus/2025/03/19/heritage-foundation-trumps-verbuendete-im-bundestag/).
 
 ## Digitale Souveränität
 * #UnplugTrump: Mach dich digital unabhängig von Trump und Big Tech - 30 Tipps
@@ -90,51 +87,6 @@ Im jährlichen Zustandbericht über [Open Humanitarian Data](https://data.humdat
   https://www.derstandard.at/story/3000000261454/plattformen-gegen-offenes-internet-das-digitale-ist-das-echte
 * Demokratisch kontrollierte Alternativen gegen technologische Abhängigkeit
   https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/demokratisch-kontrollierte-alternativen-gegen-technologische-abhaengigkeit
-
-## Digitalpolitische Forderungen an den Bundesregierung
-* Bündnis F5: Resiliente digitale Infrastruktur: 20 Forderungen an die Bundesregierung
-  https://buendnis-f5.de/assets/data/F5_DigitaleInfrastruktur_onepager.pdf
-  via https://social.wikimedia.de/@wikimediaDE/114109482962453061
-* Diese digitalpolitischen Ziele müssen in den Koalitionsvertrag
-  https://netzpolitik.org/2025/forderungen-aus-der-zivilgesellschaft-diese-digitalpolitischen-ziele-muessen-in-den-koalitionsvertrag/
-* Eine digitale Brandmauer errichten
-  https://d-64.org/digitale-brandmauer/
-* Offener Brief – Demokratie schützen, Gemeinwohl fördern
-  https://digitalegesellschaft.de/2025/03/offener-brief-demokratie-schuetzen-gemeinwohl-foerdern/
-* Ein Appell von Wissenschaftlerinnen und Wissenschaftlern in Deutschland an die Politik
-  https://www.bayceer.uni-bayreuth.de/s4f/de/top/o2/stat.php
-* Lippenbekenntnisse schaffen keine digitale Souveränität
-  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/lippenbekenntnisse-schaffen-keine-digitale-souveraenitaet
-* Entwicklungslinien der Verwaltungsdigitalisierung in Deutschland der letzten 25 Jahre
-  https://agoradigital.de/uploads/25-03-18_SHI_ADT_Entwicklungslinien.pdf
-
-## Und wie es tatsächlich läuft
-* Neues Digitalministerium: "Das BSI wird dann nach der Logik das "Bundesamt für spontanen Datenreichtum" und das BMD wird Leuchtturm. Mehr Satire geht echt nicht mehr."
-  https://www.lto.de/recht/hintergruende/h/koalitionsverhandlungen-digitales-datenschutz-ki-digital-ministerium
-  via https://mastodon.social/@bkastl/114219769206059436
-  * Update: doch kein Digitalministerium?
-    https://www.heise.de/news/Koalitionsverhandlungen-Digitalministerium-verschwunden-10327789.html?seite=all
-* Kommentar zur Schwarz-Roten Digitalpolitik: Bullshit-Bingo reloaded
-  https://www.heise.de/meinung/Kommentar-zur-Schwarz-Roten-Digitalpolitik-Bullshit-Bingo-reloadad-10331650.html
-
-## Verwaltungsdigitalisierung
-* "Wenn 16 Leute etwas über einen Fluss transportieren wollen, würden wir nicht auf die Idee kommen, alle ein eigenes Boot zu bauen. Stattdessen bauen wir gemeinsam eine Brücke. Bei 16 Bundesländern sieht die Realität in der Softwareentwicklung aber oft anders aus."
-  Warum das so ist erklärt uns Jonas Bostelmann in seiner Keynote.
-  https://file.ki.lgln.niedersachsen.dev/f/d9d2022df2a94aac9574/
-  via https://mastodon.social/@PrototypeFund/114098021290928037
-* "Die Pflege dieser Stammdaten ist aber wirklich üble Bodenarbeit, mit deren Anordnung sich niemand schmücken kann. Auch deshalb übernimmt niemand die Verantwortung dafür, dass das in den vergangenen 20 Jahren versäumt wurde. Das muss jetzt aber geschehen. Sonst kommen wir mit keiner digitalen Anwendung voran."
-  https://www.golem.de/news/verwaltungsdigitalisierung-der-bund-muss-standards-setzen-2503-193830-3.html
-* Kommunale und Landes-IT-DL sprechen über das Big Picture der Verwaltungsdigitalisierung
-  https://egovernment-podcast.com/egov214-big-picture-ekom21/
-
-## Überwachung
-* "die Verfahrensübergreifende Recherche- und Analyseplattform (Vera) von Palantir in Bayern befindet seit dem 25. Dezember 2024 im Echtbetrieb. Über einen bereits abgeschlossenen Mantelrahmenvertrag könnte die Software für die Polizei in ganz Deutschland zum Einsatz kommen"
-  https://www.heise.de/news/Palantir-als-Interimsloesung-Bundesrat-fordert-schnellen-Einsatz-fuer-die-Polizei-10325605.html
-  https://www.golem.de/news/bundesratsbeschluss-analysesoftware-der-polizei-soll-gesundheitsdaten-auswerten-2503-194605.html
-  https://netzpolitik.org/2025/palantir-wer-jetzt-bei-peter-thiel-software-kauft-hat-wirklich-nichts-verstanden/
-* Koalitionsverhandlungen: Gruselprogramm für Grund und Freiheitsrechte
-  https://netzpolitik.org/2025/koalitionsverhandlungen-gruselprogramm-fuer-grund-und-freiheitsrechte/
-
 
 ## Wikipedia
 * 3 Millionen Artikel in der deutschsprachigen Wikipedia!
