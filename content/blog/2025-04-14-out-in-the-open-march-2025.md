@@ -118,24 +118,16 @@ Auf den Chemnitzer Linuxtagen wurde unter anderem die ["Surveillance under Surve
 
 ## Klima
 ### Emissionen
-* Treibhausgasemissionszahlen 2024 & Projektionsdaten bis 2023: Gesetzliches Emissionsbudget wird eingehalten, Handlungsbedarf weiter bei Verkehr, Gebäuden & natürl. Senken.
-  https://www.umweltbundesamt.de/publikationen/treibhausgas-projektionen-2025-ergebnisse-kompakt
-  via https://social.bund.de/@Umweltbundesamt/114160146151735262
-* Antwort auf eine Kleine Anfrage zur Klimawirkung der Bundes-IT geht jedoch nun hervor: Der Bund bleibt weit hinter den eigenen Zielen zurück und hat sie in Teilen sogar kaum verfolgt.
-  https://netzpolitik.org/2025/nachhaltigkeitsziele-bund-scheitert-an-gruener-it/
-* Studie: Stadtbäume in Los Angeles absorbieren viel mehr CO2 als erwartet
-  https://oekonews.at/studie-stadtbaeume-in-los-angeles-absorbieren-viel-mehr-co2-als-erwartet+2400+1224973
+Die Publikation ["Treibhausgas-Projektionen 2025 – Ergebnisse kompakt"](https://www.umweltbundesamt.de/publikationen/treibhausgas-projektionen-2025-ergebnisse-kompakt) erklärt die langfristige Emissionsentwicklung. So wird das gesetzliche Emissionsbudget zwar eingehalten, [Handlungsbedarf besteht weiter](https://social.bund.de/@Umweltbundesamt/114160146151735262) bei Verkehr, Gebäuden & natürlichen Senken. Und wie es aus einer Kleinen Anfrage hervorgeht, [auch bei der Bundes-IT](https://netzpolitik.org/2025/nachhaltigkeitsziele-bund-scheitert-an-gruener-it/).
+
+[Eine neue Studie](https://oekonews.at/studie-stadtbaeume-in-los-angeles-absorbieren-viel-mehr-co2-als-erwartet+2400+1224973) unter Einbindung von Luftqualitätssensoren hat an Hand von Messungen in der Innenstadt von Los Angeles ermittelt, dass dort Grünflächen und insbesondere Stadtbäume, insbesondere während ihrer Wachstumsperiode, überraschende 60% der CO2-Emissionen ausgleichen konnte.
 
 ### Erwärmung
-* Der neu sanierte Gendarmenmarkt in Berlin ist eine 14.000qm Steinwüste, die sich im Sommer brutal aufheizen wird
-  https://bsky.app/profile/ingwarpero.bsky.social/post/3lkd7tdqi7c25
-  * passend dazu: https://www.der-postillon.com/2025/03/gendarmenmarkt.html
-  * der berühmte Place de la Concorde wird von einer grauen Steinwüste in einen grünen "Gartenplatz" und eine Fußgängerzone verwandelt. 50% des Platzes sollen entsiegelt und Wiesen, Blumen & 131 Bäume gepflanzt werden, was im Sommer den Boden um 8 Grad abkühlt
-    https://bsky.app/profile/ingwarpero.bsky.social/post/3llety2jzks2g
+Erkenntnisse, von denen man in Berlin weit entfernt zu sein scheint. Der gerade neu sanierte Gendarmenmarkt [ist eine baumlose 14.000qm Steinwüste](https://bsky.app/profile/ingwarpero.bsky.social/post/3lkd7tdqi7c25). Im Thread wird auch auf historische Aufnahme des Platzes Bezug genommen, wo er deutlich grüner gestaltet war. In der jetzigen Gestalt wird er sich im Sommer stark aufheizen. Dem kann man eigentlich nur noch [mit schwarzen Humor begegnen](https://www.der-postillon.com/2025/03/gendarmenmarkt.html). In Paris soll dagegen [50% des Place de la Concorde entsiegelt](https://bsky.app/profile/ingwarpero.bsky.social/post/3llety2jzks2g) und durch das Pflanzen von Wiesen, Blumen und 131 Bäume in einen grünen "Gartenplatz" und eine Fußgängerzone verwandelt werden. Durch diese Maßnahmen wird im Sommer der Boden um 8 Grad abkühlt.
+
+### Weltmeere
 * Ozeane auch in der Tiefe so warm wie nie
   https://www.tagesschau.de/wissen/klima/meere-temperatur-100.html
-
-### Steigender Meeresspiegel
 * NASA: Meeresspiegel im vergangenen Jahr unerwartet stark angestiegen
   https://www.heise.de/news/NASA-Meeresspiegel-im-vergangenen-Jahr-unerwartet-stark-angestiegen-10315761.html
 * An mindestens 15 Orten stehen in Dänemark Bänke, die auf die Höhe von 1,35m eingestellt sind, auf die der Meeresspiegel bis zum Jahr 2100 steigen könnte
