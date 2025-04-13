@@ -52,6 +52,8 @@ In die Koaltionsvertrag Eingang gefunden hat auch diese Regelung: "Die Umsatzste
 
 Auch auf EU-Ebene ist die Einflussnahme ein Dauerthema. So ist der Umstand, dass der Finanzsektor weitgehend vom europäischen Lieferkettengesetz und somit von Sorgfaltspflichten für Umwelt und Menschenrechte ausgenommen ist, ein "Erfolg" umfangreicher Lobbyarbeit. Mit dem "Omnibus"-Paket [sollen diese nun sogar dauerhaft festgeschrieben werden](https://www.finanzwende.de/themen/finanzlobbyismus/ausnahme-fuer-den-finanzsektor). 
 
+Die Finanzwende-Studie ["Die Finanzdienste von Apple, Google und Co.: Ein gefährlich guter Deal"](https://www.finanzwende-recherche.de/wp-content/uploads/Studie_Big_Tech_Die-Finanzdienste-von-Apple-Google-und-Co.pdf) thematisiert, wie die großen Tech-Player mit ihren Diensten wie Paypal, Alipay, Apple Pay und Google Pay nicht nur wertvolle Daten über Kunden sammeln sondern systematisch die EU von sich [abhängig gemacht haben](https://www.finanzwende-recherche.de/unsere-themen/digitalisierung-finanzsektor/big-techs-im-finanzwesen/). Die traditionelle Finanzaufsicht greift dabei kaum und birgt damit Risiken für die Finanzstabilität, gerade bei den aktuellen Entwicklungen in den USA. Es muss daher das bestehende Wettbewerbsrecht aktiv angewendet und öffentliche Alternativen [geschaffen werden](https://bsky.app/profile/fw-recherche.bsky.social/post/3ll4gs3ir7c2b).
+
 Auch die [Heritage Foundation](https://de.wikipedia.org/wiki/Heritage_Foundation), Drahtzieher des [Project 2025](https://de.wikipedia.org/wiki/Project_2025), strecken ihre Tentakel nach Europa und Deutschland aus, die hier auch schon [freudig ergriffen wurden](https://correctiv.org/aktuelles/lobbyismus/2025/03/19/heritage-foundation-trumps-verbuendete-im-bundestag/) - Brüder im Geiste.
 
 ## Digitale Souveränität
@@ -62,7 +64,7 @@ Auch die [Heritage Foundation](https://de.wikipedia.org/wiki/Heritage_Foundation
 ["Unser Internet stricken" ("Knitting Our Internet")](https://ournet.rocks) ist eine interaktive Reise durch die Geschichte des Internets um auch aktuelle Entwicklungen hinsichtlicher zunehmender Zentralisierung, Überwachungskapitalismus und Umweltschädigung kritisch zu hinterfragen. Auch Gerold Riedmann wagt [in seinem Essay](https://www.derstandard.at/story/3000000261454/plattformen-gegen-offenes-internet-das-digitale-ist-das-echte) einen Blick zurück, als das Internet als geschlossene Plattform gestartet ist. Heute dominieren erneut geschlossene Plattformen, die für sich jeweils die Deutungshoheit beanspruchen. Zu mindestens wurde nun erreicht, [dass Google seinen Chrome-Browser verkaufen muss](https://tuta.com/de/blog/google-must-sell-chrome-in-antitrust-case).
 
 ### Was jeder einzelne tun kann
-Netzpolitik hat dankenswerterweise die Alternativen [zusammengetragen](https://netzpolitik.org/2025/unplugtrump-so-wirst-du-unabhaengig-von-tech-milliardaeren/), die man für Soziale Netzwerke, Suchmaschinen, Browser, E-Mail, Messenger, Videokonferenzsysteme, Karten und Navigation, Textverarbeitung und Tabellenkalkulation, Betriebssysteme, App-Stores aber auch für Hardware prinzipiell bestehen. Mehr Tipps gibt es auf dem [Kuketz-Blog](https://www.kuketz-blog.de/unplugtrump-mach-dich-digital-unabhaengig-von-trump-und-big-tech/). Der gemeinnützige französische Verein Framasoft [listet die Alternativen](https://degooglisons-internet.org/de/), die unter seinem Dach entstanden sind.
+Netzpolitik hat dankenswerterweise die Alternativen [zusammengetragen](https://netzpolitik.org/2025/unplugtrump-so-wirst-du-unabhaengig-von-tech-milliardaeren/), die man für Soziale Netzwerke, Suchmaschinen, Browser, E-Mail, Messenger, Videokonferenzsysteme, Karten und Navigation, Textverarbeitung und Tabellenkalkulation, Betriebssysteme, App-Stores aber auch für Hardware prinzipiell bestehen. Mehr Tipps gibt es auf dem [Kuketz-Blog](https://www.kuketz-blog.de/unplugtrump-mach-dich-digital-unabhaengig-von-trump-und-big-tech/). Der gemeinnützige französische Verein Framasoft [listet die Alternativen](https://degooglisons-internet.org/de/), die unter seinem Dach entstanden sind. Auf der Seite [goeuropean.org](https://www.goeuropean.org) werden von der Community Alternativen nicht nur zu digitalen Produkten [gesammelt](https://darmstadt.social/@stvo/114208998659531721).
 
 Jeder Beitrag gegen den [Digitalen Kolonialismus](https://netzpolitik.org/2025/293-on-the-record-digitaler-kolonialismus/) hilft.
 
@@ -77,65 +79,41 @@ Da Microsoft die Daten seiner Kunden zunehmend in die Cloud verlegt und seine So
 
 An anderer Stelle wird dagegen die flächendeckende Einführung von Linux behindert, [weil "Linux gehört nicht zur Strategie der Bundesdruckerei"](https://social.tchncs.de/@sfritz/114206072200769752).
 
-## Journalismus
-* ZDF Mediathek nun auf StreamingOS
-  https://www.dwdl.de/hauptstadtstudio/101816/das_digitale_doppelleben_des_zdf_wer_bin_ich_und_wenn_ja_wie_viele/
-  https://github.com/zdf-opensource?tab=repositories
+## KI
+### Zwischen (Self-)Affirmation und Affiliationsbedürfnis
+"Wie können wir Seriosität so simulieren, dass wir mit Wagniskapital in Milliardenhöhe vollgepumpt werden?" scheint der Ansatz der heutigen KI-Entwicklung zu sein. [Und er wird belohnt](https://netzpolitik.org/2025/halluzinationsverhinderungswerkzeugkasten-ki-maerchen-und-die-wirklichkeit/), denn nicht die Maschinen halluzinieren sondern wir Menschen wollen wie bei Büchern und Filmen einfach nur gut belogen werden, damit wir glauben können, was wir glauben wollen, ohne uns anstrengen zu müssen. 
+
+[Kluger-Hans-Effekt](https://de.wikipedia.org/wiki/Kluger_Hans) oder auch das Gedankenexperiment [Chinesisches Zimmer](https://de.wikipedia.org/wiki/Chinesisches_Zimmer) zeigen den Unterschied zwischen Auswendiglernen und tatsächlichen Verständnis auf. So können dann KI-Systeme [aus den falschen Gründen Recht haben](https://www.telepolis.de/features/Kluger-Hans-Effekt-Wenn-KI-Systeme-aus-den-falschen-Gruenden-Recht-haben-10323963.html), was nur auffällt, wenn die Aufgabenstellung leicht variiert wird, so dass die Mustererkennung nicht mehr greift.  
+  
+Auch der Erfinder des Web, Tim Berners-Lee, [mahnt](https://www.derstandard.de/story/3000000261183/der-erfinder-des-web-kritisiert-den-hype-um-generative-ki-scharf): "Fragen Sie eine KI immer: 'Für wen arbeitest du?' und 'Wessen Interessen verfolgst du mit deinen Entscheidungen?'".
+
+Aber so lange der KI-Hype zieht, wird auf Teufel-komm-raus KI-fiziert, wie beim KI-Phone der Telekom. Wenn es so weiter geht, gibt es bald keine KI-freien Alternativen mehr - von daher der Appell: ["stop forcing AI into fucking everything"](https://climatejustice.social/@disco3000/114097851390590100).
+
+### Macht, Manipulation und Kontrolle
+Bisher hat es OpenAI unterbunden, wenn Nutzer Bilder im Stile bestimmter Künstler generieren wollte, aus der Befürchtung heraus, Urheberrechtsklagen an den Hals zu bekommen. Diese Hemmung fallen nun langsam, auch um weiterhin für Investoren attraktiv zu bleiben, und man hat einen ersten Präzedenzfall geschaffen, indem nun doch den Stil von [Studio Ghibli](https://de.wikipedia.org/wiki/Studio_Ghibli), eines japanischen Zeichentrickfilmstudios, imitieren kann. Mit der Gewissheit des [Rechts des Stärkeren](https://tante.cc/2025/03/28/vulgar-display-of-power/) wird nun die kreative Arbeit anderer in Kapital akkumuliert.
+
+[Wie eine Studie der Organisation NewsGuard ergab](https://www.spiegel.de/ausland/chatgpt-und-perplexity-ai-russland-manipuliert-westliche-chatbots-fuer-seine-propaganda-a-7e276236-cac3-4f35-8ad4-40eaba1c8caf), enthielt mehr als ein Drittel der Antworten von KI-Chatbots wie ChatGPT prorussische Falschinformationen. Dieses sogenannte LLM-Grooming [geht auf das Prawda-Netzwerk aus Moskau zurück](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global).
+
+Wie anfällig LLMs für Manipulationen sind, konnte der deutsche Psychologen Luke Bölling [beweisen](https://www.heise.de/news/Neuer-LLM-Jailbreak-Psychologe-nutzt-Gaslighting-gegen-KI-Filter-10332571.html), indem er mit [Gaslighting](https://de.wikipedia.org/wiki/Gaslighting)-Jailbreaks die eingebauten Sicherheitsfilter der Chatbots, um z.B. keine Anleitungen für die Herstellung für chemische Kampfstoffe auszugeben, umgehen konnte.
+
+Auf der Plattform [Lernende Systeme](https://www.zaki-brandenburg.info/ki-verstehen/ki-interaktiv/ki-bildquiz-der-plattform-lernende-systeme) kann sich selbst testen, wie gut man darin ist, KI-generierte von echten Fotos zu unterscheiden.
+
+## Recherche
 * Das Netzwerk Recherche veröffentlicht einen praktischen Leitfaden zu Grundlagen des Investigativjournalismus 
   https://netzwerkrecherche.org/international/guide-investigativjournalismus/
   via https://bsky.app/profile/medienmagazin-m.bsky.social/post/3lkd5dqsye22w
-
-## Wirtschaft
-* der Economist bringt die Gefahr stetig wachsender leistungsloser Einkommen auf den Punkt
-  https://digitalcourage.social/users/klischka/statuses/114091031244004001
-* Discover European products and services
-  https://www.goeuropean.org
-  via https://darmstadt.social/@stvo/114208998659531721
-* Big Tech sind heute schon zu groß und zu mächtig – und dringen beinahe unbemerkt in den Finanzsektor ein. Was man dagegen tun kann? Unser neuer Bericht zeigt Handlungsmöglichkeiten auf
-  https://www.finanzwende-recherche.de/unsere-themen/digitalisierung-finanzsektor/big-techs-im-finanzwesen/
-  via https://bsky.app/profile/fw-recherche.bsky.social/post/3ll4gs3ir7c2b
-
-
-## KI
-* "stop forcing AI into fucking everything"
-  https://climatejustice.social/@disco3000/114097851390590100
-* Unterhaltung und Seelenfrieden
-  https://chaos.social/users/netzpolitik_feed/statuses/114109394108699968
-* A well-funded Moscow-based global ‘news’ network has infected Western artificial intelligence tools worldwide with Russian propaganda
-  https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global
-  * Russland manipuliert wohl westliche Chatbots für seine Propaganda
-    https://www.spiegel.de/ausland/chatgpt-und-perplexity-ai-russland-manipuliert-westliche-chatbots-fuer-seine-propaganda-a-7e276236-cac3-4f35-8ad4-40eaba1c8caf
-* DOGE accidentally revealed its plans
-  https://carhenge.club/users/skiles/statuses/114203147063483693
-* Kluger-Hans-Effekt: Wenn KI-Systeme aus den falschen Gründen Recht haben
-  https://www.telepolis.de/features/Kluger-Hans-Effekt-Wenn-KI-Systeme-aus-den-falschen-Gruenden-Recht-haben-10323963.html
-* Auf der Plattform Lernende Systeme können Sie in einem spannenden Quiz herausfinden, wie gut Sie zwischen Fakt und Fiktion unterscheiden können.
-  https://www.zaki-brandenburg.info/ki-verstehen/ki-interaktiv/ki-bildquiz-der-plattform-lernende-systeme
-* Vulgar Display of Power
-  https://tante.cc/2025/03/28/vulgar-display-of-power/
-  via https://tldr.nettime.org/@tante/114239319373302306
-* Neuer LLM-Jailbreak: Mit psychologischem Gaslighting gegen KI-Filter
-  https://www.heise.de/news/Neuer-LLM-Jailbreak-Psychologe-nutzt-Gaslighting-gegen-KI-Filter-10332571.html
-* Der Erfinder des Web kritisiert den Hype um generative KI scharf
-  https://www.derstandard.de/story/3000000261183/der-erfinder-des-web-kritisiert-den-hype-um-generative-ki-scharf
+* Data Vis Dispatch, March 18
+  https://www.datawrapper.de/blog/data-vis-dispatch-march-18-2025
+* The rise and fall of the social media platform Flickr: Implications for nature recreation research
+  https://www.sciencedirect.com/science/article/pii/S221307802500026X
+* Citizen Science: Es muss nicht gleich ein Königsgrab sein
+  https://skeptix.org/2025/03/11/citizen-science-es-muss-nicht-gleich-ein-koenigsgrab-sein/
 
 ## Wikipedia
 * 3 Millionen Artikel in der deutschsprachigen Wikipedia!
   https://social.wikimedia.de/@wikimediaDE/114222882441376079
 * Gemeinsam mehr erreichen: Freies Wissen als Grundlage der Zusammenarbeit zwischen Wikimedia und anderen Ehrenamtsinitiativen
   https://zenodo.org/records/15104365
-
-## Citizen Science
-* Citizen Science: Es muss nicht gleich ein Königsgrab sein
-  https://skeptix.org/2025/03/11/citizen-science-es-muss-nicht-gleich-ein-koenigsgrab-sein/
-* Das Citizen-Science-Projekt "Frosch im Wassertropfen“ untersuchte im vergangenen Jahr mit tatkräftiger Unterstützung der Bevölkerung die Amphibienvielfalt in Österreich anhand ihrer DNA-Spuren
-  https://www.uibk.ac.at/de/newsroom/2025/auf-der-spur-der-amphibien-in-osterreich/
-
-## Visualisierungen
-* Data Vis Dispatch, March 18
-  https://www.datawrapper.de/blog/data-vis-dispatch-march-18-2025
-* The rise and fall of the social media platform Flickr: Implications for nature recreation research
-  https://www.sciencedirect.com/science/article/pii/S221307802500026X
 
 ## Karten
 * Denkmäler aus Flensburg in 3D modelliert
@@ -165,23 +143,17 @@ An anderer Stelle wird dagegen die flächendeckende Einführung von Linux behind
   https://www.boris.nrw.de/boris-nrw/?lang=de
   https://www.bodenrichtwerte-boris.de/boris-d/?lang=de
 
-
 ## Klima
-* Auswirkungen der Klimakrise: Schokoladenpreis auf Rekordniveau
-  https://taz.de/Auswirkungen-der-Klimakrise/!6070417/
-* Antwort auf eine Kleine Anfrage zur Klimawirkung der Bundes-IT geht jedoch nun hervor: Der Bund bleibt weit hinter den eigenen Zielen zurück und hat sie in Teilen sogar kaum verfolgt.
-  https://netzpolitik.org/2025/nachhaltigkeitsziele-bund-scheitert-an-gruener-it/
-* Krefelder Forscher: Kein Ende des Insektensterbens in Sicht
-  https://www.riffreporter.de/de/umwelt/krefelder-studie-insektensterben-biodiversitaet-naturschutz-deutschland
-* NASA: Meeresspiegel im vergangenen Jahr unerwartet stark angestiegen
-  https://www.heise.de/news/NASA-Meeresspiegel-im-vergangenen-Jahr-unerwartet-stark-angestiegen-10315761.html
+### Emissionen
 * Treibhausgasemissionszahlen 2024 & Projektionsdaten bis 2023: Gesetzliches Emissionsbudget wird eingehalten, Handlungsbedarf weiter bei Verkehr, Gebäuden & natürl. Senken.
   https://www.umweltbundesamt.de/publikationen/treibhausgas-projektionen-2025-ergebnisse-kompakt
   via https://social.bund.de/@Umweltbundesamt/114160146151735262
+* Antwort auf eine Kleine Anfrage zur Klimawirkung der Bundes-IT geht jedoch nun hervor: Der Bund bleibt weit hinter den eigenen Zielen zurück und hat sie in Teilen sogar kaum verfolgt.
+  https://netzpolitik.org/2025/nachhaltigkeitsziele-bund-scheitert-an-gruener-it/
 * Studie: Stadtbäume in Los Angeles absorbieren viel mehr CO2 als erwartet
   https://oekonews.at/studie-stadtbaeume-in-los-angeles-absorbieren-viel-mehr-co2-als-erwartet+2400+1224973
-* Klimageld-Rechner
-  https://klimageld-rechner.com
+
+### Erwärmung
 * Der neu sanierte Gendarmenmarkt in Berlin ist eine 14.000qm Steinwüste, die sich im Sommer brutal aufheizen wird
   https://bsky.app/profile/ingwarpero.bsky.social/post/3lkd7tdqi7c25
   * passend dazu: https://www.der-postillon.com/2025/03/gendarmenmarkt.html
@@ -189,11 +161,17 @@ An anderer Stelle wird dagegen die flächendeckende Einführung von Linux behind
     https://bsky.app/profile/ingwarpero.bsky.social/post/3llety2jzks2g
 * Ozeane auch in der Tiefe so warm wie nie
   https://www.tagesschau.de/wissen/klima/meere-temperatur-100.html
+
+### Steigender Meeresspiegel
+* NASA: Meeresspiegel im vergangenen Jahr unerwartet stark angestiegen
+  https://www.heise.de/news/NASA-Meeresspiegel-im-vergangenen-Jahr-unerwartet-stark-angestiegen-10315761.html
+* An mindestens 15 Orten stehen in Dänemark Bänke, die auf die Höhe von 1,35m eingestellt sind, auf die der Meeresspiegel bis zum Jahr 2100 steigen könnte
+  https://bsky.app/profile/infokomposter.bsky.social/post/3llomi22mfk2o
+
+### Dürre
 * Dürremonitor Deutschland
   https://www.ufz.de/index.php?de=37937
   https://bsky.app/profile/terliwetter.bsky.social/post/3lljxqywync2e
-* An mindestens 15 Orten stehen in Dänemark Bänke, die auf die Höhe von 1,35m eingestellt sind, auf die der Meeresspiegel bis zum Jahr 2100 steigen könnte
-  https://bsky.app/profile/infokomposter.bsky.social/post/3llomi22mfk2o
 * Bodenfeuchteviewer
   https://www.dwd.de/DE/fachnutzer/landwirtschaft/5_bofeuview/_node.html
 * Giess Bielefeld
@@ -203,16 +181,25 @@ An anderer Stelle wird dagegen die flächendeckende Einführung von Linux behind
 * Eine neue interaktive Karte zeigt bei Starkregen detailliert Gefahrenzonen in zwölf Bundesländern.
   https://www.klimareporter.de/technik/zu-nah-am-wasser-gebaut
 
-## Energie
+## Artensterben
+* Krefelder Forscher: Kein Ende des Insektensterbens in Sicht
+  https://www.riffreporter.de/de/umwelt/krefelder-studie-insektensterben-biodiversitaet-naturschutz-deutschland
+* Das Citizen-Science-Projekt "Frosch im Wassertropfen“ untersuchte im vergangenen Jahr mit tatkräftiger Unterstützung der Bevölkerung die Amphibienvielfalt in Österreich anhand ihrer DNA-Spuren
+  https://www.uibk.ac.at/de/newsroom/2025/auf-der-spur-der-amphibien-in-osterreich/
+
+### Wirtschaft
+* Auswirkungen der Klimakrise: Schokoladenpreis auf Rekordniveau
+  https://taz.de/Auswirkungen-der-Klimakrise/!6070417/
+* Klimageld-Rechner
+  https://klimageld-rechner.com
+
+## Mobilität und Energie
+* Wie steht’s um den ÖPNV in Deutschland?
+  https://www.greenpeace.de/klimaschutz/mobilitaet/staedteranking-oepnv-vergleich-zeigt-stillstand
 * Wärme aus dem Tunnel - wie U-Bahnen Wohnungen heizen können
   https://www.fr.de/wirtschaft/waerme-aus-dem-tunnel-wie-bahnen-wohnungen-heizen-koennen-zr-93594492.html
 * How Bangladesh rolled out the world’s largest off-grid solar programme
   https://theprogressplaybook.com/2025/03/10/how-bangladesh-rolled-out-the-worlds-largest-off-grid-solar-programme/
-
-## Mobilität
-* Wie steht’s um den ÖPNV in Deutschland?
-  https://www.greenpeace.de/klimaschutz/mobilitaet/staedteranking-oepnv-vergleich-zeigt-stillstand
-
 
 ## Recap
 * NPA144 
