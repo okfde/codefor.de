@@ -116,6 +116,8 @@ Nach einer Alternative müssen sich die Benutzer der beliebten Outdoor-Routenpla
 
 Auf den Chemnitzer Linuxtagen wurde unter anderem die ["Surveillance under Surveillance"-Karte](https://sunders.uber.space) in [einem Vortrag](https://media.ccc.de/v/clt25-186-openstreetmap-ist-keine-karte) [vorgestellt](https://gruene.social/@Gerbsen/114213068898191350).  
 
+Nur durch Aufgabe der Sektorziele, wie der Ziele im Sektor Verkehr, konnte Deutschland zuletzt zu mindestens rechnerisch seine Klimaziele erreichen. Dass man immer noch so sehr abhängig vom Auto ist, zeigt eine neue Greenpeace-Analyse, die den Zugang zum öffentlichen Nahverkehr untersucht hat. Aus [der interaktiven Karte](https://www.greenpeace.de/klimaschutz/mobilitaet/staedteranking-oepnv-vergleich-zeigt-stillstand) ist leicht das große Stadt-Land-Gefälle ersichtlich, aber auch eine schlechte finanzielle Ausstattung von Kommunen und die jeweiligen politischen Rahmenbedingungen wirken sich auf das ÖPNV-Angebot aus.
+
 ## Klima
 ### Emissionen
 Die Publikation ["Treibhausgas-Projektionen 2025 – Ergebnisse kompakt"](https://www.umweltbundesamt.de/publikationen/treibhausgas-projektionen-2025-ergebnisse-kompakt) erklärt die langfristige Emissionsentwicklung. So wird das gesetzliche Emissionsbudget zwar eingehalten, [Handlungsbedarf besteht weiter](https://social.bund.de/@Umweltbundesamt/114160146151735262) bei Verkehr, Gebäuden & natürlichen Senken. Und wie es aus einer Kleinen Anfrage hervorgeht, [auch bei der Bundes-IT](https://netzpolitik.org/2025/nachhaltigkeitsziele-bund-scheitert-an-gruener-it/).
@@ -126,64 +128,28 @@ Die Publikation ["Treibhausgas-Projektionen 2025 – Ergebnisse kompakt"](https:
 Erkenntnisse, von denen man in Berlin weit entfernt zu sein scheint. Der gerade neu sanierte Gendarmenmarkt [ist eine baumlose 14.000qm Steinwüste](https://bsky.app/profile/ingwarpero.bsky.social/post/3lkd7tdqi7c25). Im Thread wird auch auf historische Aufnahme des Platzes Bezug genommen, wo er deutlich grüner gestaltet war. In der jetzigen Gestalt wird er sich im Sommer stark aufheizen. Dem kann man eigentlich nur noch [mit schwarzen Humor begegnen](https://www.der-postillon.com/2025/03/gendarmenmarkt.html). In Paris soll dagegen [50% des Place de la Concorde entsiegelt](https://bsky.app/profile/ingwarpero.bsky.social/post/3llety2jzks2g) und durch das Pflanzen von Wiesen, Blumen und 131 Bäume in einen grünen "Gartenplatz" und eine Fußgängerzone verwandelt werden. Durch diese Maßnahmen wird im Sommer der Boden um 8 Grad abkühlt.
 
 ### Weltmeere
-* Ozeane auch in der Tiefe so warm wie nie
-  https://www.tagesschau.de/wissen/klima/meere-temperatur-100.html
-* NASA: Meeresspiegel im vergangenen Jahr unerwartet stark angestiegen
-  https://www.heise.de/news/NASA-Meeresspiegel-im-vergangenen-Jahr-unerwartet-stark-angestiegen-10315761.html
-* An mindestens 15 Orten stehen in Dänemark Bänke, die auf die Höhe von 1,35m eingestellt sind, auf die der Meeresspiegel bis zum Jahr 2100 steigen könnte
-  https://bsky.app/profile/infokomposter.bsky.social/post/3llomi22mfk2o
+Nicht nur die Meeresoberfläche war im vergangenen Jahr so heiß wie nie (im Schnitt 0,6 Grad wärmer als in der Zeit von 1980 bis 2010), sondern auch die Temparaturen der obersten zweitausend Meter des Meerwassers waren im Jahr 2024 [dramatisch](https://www.tagesschau.de/wissen/klima/meere-temperatur-100.html). Und das hat Folgen: wärmeres Wasser dehnt sich stärker aus und trägt neben dem Abschmelzen der Polkappen somit zum steigenden Meeresspiegel bei. Wie die NASA [beobachtet hat](https://www.heise.de/news/NASA-Meeresspiegel-im-vergangenen-Jahr-unerwartet-stark-angestiegen-10315761.html), hat sich das Verhältnis der beiden Effekten umgekehrt. Nun macht die Ausdehnung durch Wärme zwei Drittel des Anstiegs aus. Auch im Meer selbst leiden Tiere und Pflanzen unter den dauerhaft neuen Bedingungen, zum einen, weil sie an bestimmte Temperaturen angepasst sind zum anderen aber auch an den in wärmeren Wasser sinkenden Sauerstoffgehalt. Wie sich der Meeresanstieg auf Küstenorte auswirken wird, hat Dänemark an mindestens 15 Orten im Land durch eine ungewöhnliche Maßnahme veranschaulicht: an ihnen stehen Sitzebänke, [die auf eine Höhe von 1,35 Meter eingestellt sind](https://bsky.app/profile/infokomposter.bsky.social/post/3llomi22mfk2o), also genau die Höhe, auf die der Meeresspiegel bis zum Jahr 2100 steigen könnte.
 
-### Dürre
-* Dürremonitor Deutschland
-  https://www.ufz.de/index.php?de=37937
-  https://bsky.app/profile/terliwetter.bsky.social/post/3lljxqywync2e
-* Bodenfeuchteviewer
-  https://www.dwd.de/DE/fachnutzer/landwirtschaft/5_bofeuview/_node.html
-* Giess Bielefeld
-  https://github.com/codeforbielefeld/baumbie
-* Wo sind die 2600 Milliarden Tonnen Wasser hin?
-  https://www.spiegel.de/wissenschaft/klimawandel-wo-sind-die-2600-milliarden-tonnen-wasser-hin-a-00373276-5b2a-4d29-9424-07579003df19?giftToken=46b3e387-8635-47d1-b115-d0e4276af683
-* Eine neue interaktive Karte zeigt bei Starkregen detailliert Gefahrenzonen in zwölf Bundesländern.
-  https://www.klimareporter.de/technik/zu-nah-am-wasser-gebaut
+### Wetterextreme
+Die steigenden Meeresoberflächentemparaturen bringen auch den Wasserkreislauf auf der Erde aus dem Gleichgewicht, wodurch Überschwemmungen, Wirbelstürme und Dürren zunehmen. Der [Dürremonitor Deutschland](https://www.ufz.de/index.php?de=37937) als auch der [Bodenfeuchteviewer](https://www.dwd.de/DE/fachnutzer/landwirtschaft/5_bofeuview/_node.html) des Deutschen Wetterdienstes (DWD) dokumentieren gerade die im vergangenen März extrem trockenen Oberböden in Deutschland. Dass dies ein dauerhaftes Problem ist, belegt eine Science-Studie, die herausgefunden hat, dass weltweit seit der Jahrtausendwende die Bodenfeuchte [um insgesamt rund 2600 Milliarden Tonnen gesunken ist](https://www.spiegel.de/wissenschaft/klimawandel-wo-sind-die-2600-milliarden-tonnen-wasser-hin-a-00373276-5b2a-4d29-9424-07579003df19?giftToken=46b3e387-8635-47d1-b115-d0e4276af683). Ein Umstand, der noch verstärkt wird, wenn Landwirte mangels fallenden Regens das Grundwasser abpumpen, um mit ihm ihre Felder zu bewässern. Gleichzeitig nimmt aber trotzdem auch die Wahrscheinlichkeit für Starkregenereignisse zu. So zeigt [eine neue interaktive Karte](https://www.klimareporter.de/technik/zu-nah-am-wasser-gebaut) detailliert die Gefahrenzonen in zwölf Bundesländern.
 
-## Artensterben
-* Krefelder Forscher: Kein Ende des Insektensterbens in Sicht
-  https://www.riffreporter.de/de/umwelt/krefelder-studie-insektensterben-biodiversitaet-naturschutz-deutschland
-* Das Citizen-Science-Projekt "Frosch im Wassertropfen“ untersuchte im vergangenen Jahr mit tatkräftiger Unterstützung der Bevölkerung die Amphibienvielfalt in Österreich anhand ihrer DNA-Spuren
-  https://www.uibk.ac.at/de/newsroom/2025/auf-der-spur-der-amphibien-in-osterreich/
+### Artensterben
+Das Citizen-Science-Projekt "Frosch im Wassertropfen" [untersuchte](https://www.uibk.ac.at/de/newsroom/2025/auf-der-spur-der-amphibien-in-osterreich/) im vergangenen Jahr die Vielfalt von Amphibien in Österreich und zwar allein an Hand von gefundenen DNA-Spuren in Wasserproben. Dass sich auch das Insektensterben weiter ungebremst fortsetzt [haben neueste Untersuchungen Krefelder Forscher ergeben](https://www.riffreporter.de/de/umwelt/krefelder-studie-insektensterben-biodiversitaet-naturschutz-deutschland).
 
 ### Wirtschaft
-* Auswirkungen der Klimakrise: Schokoladenpreis auf Rekordniveau
-  https://taz.de/Auswirkungen-der-Klimakrise/!6070417/
-* Klimageld-Rechner
-  https://klimageld-rechner.com
+Die Auswirkungen der der Klimakrise spüren die Menschen inzwischen auch deutlich im Geldbeutel: wegen Kakao-Missernten [befindet sich der Schokoladenpreis auf Rekordniveau](https://taz.de/Auswirkungen-der-Klimakrise/!6070417/). Wenn in Folge Kleinbauern den Kakao-Anbau ganz aufgeben sowie generell Börsen-Spekulationen mit tropischen Produkten wie Kakao, Kaffee und Palmöl werden die Preise in Zukunft weiter steigen lassen.
 
-## Mobilität und Energie
-* Wie steht’s um den ÖPNV in Deutschland?
-  https://www.greenpeace.de/klimaschutz/mobilitaet/staedteranking-oepnv-vergleich-zeigt-stillstand
-* Wärme aus dem Tunnel - wie U-Bahnen Wohnungen heizen können
-  https://www.fr.de/wirtschaft/waerme-aus-dem-tunnel-wie-bahnen-wohnungen-heizen-koennen-zr-93594492.html
-* How Bangladesh rolled out the world’s largest off-grid solar programme
-  https://theprogressplaybook.com/2025/03/10/how-bangladesh-rolled-out-the-worlds-largest-off-grid-solar-programme/
+Die Emissionen müssen also dringend runter, um den Klimawandel zu verlangsamen. Um dafür Anreize zu schaffen wurde unter anderem der Emissionshandel eingeführt, bei dem Unternehmen für jede ausgestoßene Tonne Kohlenstoffdioxid den sogenannten CO2-Preis zahlen müssen. Diese Mehrkosten werden aber in der Regel versucht auf die Endverbraucher:innen umzulegen. Um solche finanzielle Belastung abzumildern ohne die beabsichtigte Lenkungswirkung zu stören, könnte ein Klimageld helfen, das leider bisher nicht eingeführt wurde. Mit dem in dieser [MAITHINK-X-Folge](https://www.zdf.de/play/shows/mai-think-x-die-show-102/maithink-x-klimapolitik-100) vorgestellten [Klimageld-Rechner](https://klimageld-rechner.com) kann man sich die Höhe trotzdem schonmal für den eigenen Haushalt ausrechnen.
 
 ## Recap
-* NPA144 
-  https://digitalegesellschaft.de/2025/03/npa144-im-fediverse/
-* EU Open Data Days 2025 
-  https://data.europa.eu/en/euopendatadays#open-data-days-nav-tab-table-1299
-* Mit offenen Parlamentsdaten zu mehr Transparenz, Innovation und Mitwirkung
-  https://media.ccc.de/v/dgwk2025-56347-mit-offenen-parlamentsdat#t=4
-  via https://fosstodon.org/users/andreasamsler/statuses/114189646037588351
-* data.gv.at Open Data Hackathon
-  https://metalab.at/wiki/OpenDataHackathon
-* Chemnitzer Linuxtage
-  https://media.ccc.de/c/clt25
-* FOSSGIS 2025
-  https://media.ccc.de/c/fossgis2025
-* 13. Fachkongress des IT-Planungsrats
-  https://www.it-planungsrat.de/der-it-planungsrat/fachkongress/13-fachkongress-2025-in-niedersachsen
-* Demo Day der 16. Runde Prototype Fund
-  https://www.youtube.com/watch?v=OH5w99wv8fc
+* [Netzpolitischer Abend #144 Videos](https://digitalegesellschaft.de/2025/03/npa144-im-fediverse/)
+* [EU Open Data Days 2025](https://data.europa.eu/en/euopendatadays#open-data-days-nav-tab-table-1299)
+* [Video OpenParlData.ch vom Winterkongress 2025](https://media.ccc.de/v/dgwk2025-56347-mit-offenen-parlamentsdat#t=4)
+* [data.gv.at Open Data Hackathon Ergebnisse](https://metalab.at/wiki/OpenDataHackathon)
+* [Chemnitzer Linuxtage Videos](https://media.ccc.de/c/clt25)
+* [FOSSGIS 2025 Videos](https://media.ccc.de/c/fossgis2025)
+* [13. Fachkongress des IT-Planungsrats - Vortragsfolien zum Herunterladen](https://www.it-planungsrat.de/der-it-planungsrat/fachkongress/13-fachkongress-2025-in-niedersachsen)
+* [Demo Day der 16. Runde Prototype Fund Videos](https://www.youtube.com/watch?v=OH5w99wv8fc)
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Dienstag, 01.04.2025, 20:00-22:00, c-base, Rungestraße 20, 10179 Berlin und auch online: **145. Netzpolitischer Abend** <a title='Kalendereintrag 145. Netzpolitischer Abend' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vMTQ1LiBOZXR6cG9saXRpc2NoZXIgQWJlbmQvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTA0MTJUMTQzMDI0Wg0KRFRTVEFSVDoyMDI1MDQwMVQyMDAwMDANCkRURU5EOjIwMjUwNDAxVDIyMDAwMA0KU1VNTUFSWToxNDUuIE5ldHpwb2xpdGlzY2hlciBBYmVuZA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9kaWdpdGFsZWdlc2VsbHNjaGFmdC5kZS8yMDI1LzAzLzE0NS1uZXR6cG9saXRpc2NoZXItYWJlbmQvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOmMtYmFzZVwsIFJ1bmdlc3RyYcOfZSAyMFwsIDEwMTc5IEJlcmxpbiB1bmQgYXVjaCBvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
