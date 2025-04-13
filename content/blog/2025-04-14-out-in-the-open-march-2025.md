@@ -106,32 +106,15 @@ Eine wilde und faszinierende Zusammenstellung von datenjournalistischen Visualis
 Am 25. März wurde die 3-Millionen-Artikel-Marke in der deutschsprachigen Wikipedia [geknackt](https://social.wikimedia.de/@wikimediaDE/114222882441376079) und damit genau 30 Jahre, nachdem das erste Wiki-System überhaupt im Internet [verfügbar gemacht wurde](https://de.wikipedia.org/wiki/Wiki#%E2%80%9EWikiWikiWeb%E2%80%9C).
 
 ## Karten
-* Denkmäler aus Flensburg in 3D modelliert
-  https://tursics.github.io/opendataday2025/
-  via https://toot.berlin/@tursics/114088205517617619
-  * paar weitere Features hinzu gefügt
-    https://tifa365.github.io/karte_3d_denkmaeler_flensburg/
-    via https://norden.social/users/datenschatz/statuses/114092069997755678
-  * Eine ähnliche Karte noch für das Herzogtum Lauenburg
-    https://tifa365.github.io/karte_3d_denkmaeler_sh/
-    via https://norden.social/users/datenschatz/statuses/114092913776067360
-  * Geo-Dateiformate für archäologische Kulturdenkmale für Schleswig-Holstein, Kreise und kreisfreie Städte
-    https://opendata.tomkyle.net/denkmallisten/archaeologie
-    via https://norden.social/@tomkyle/114093826916357766
-* Komoot aufgekauft
-  via https://en.osm.town/@richardf/114196764264677476
-  * Bending Spoons Acquires komoot
-    https://www.businesswire.com/news/home/20250320568940/en/Bending-Spoons-Acquires-komoot
-* Interaktive Karte: Panik, Provokation, Schallwaffen: Was geschah bei der Großdemo in Belgrad?
-  https://netzpolitik.org/2025/panik-provokation-schallwaffen-was-geschah-bei-der-grossdemo-in-belgrad/
-* Surveillance under Surveillance
-  https://media.ccc.de/v/clt25-186-openstreetmap-ist-keine-karte
-  https://sunders.uber.space
-  via https://gruene.social/@Gerbsen/114213068898191350
-* Die Bodenrichtwerte 2025 für die Stadt Düren sind jetzt verfügbar
-  https://www.aachener-zeitung.de/lokales/region-dueren/dueren/die-bodenrichtwerte-2025-fuer-die-stadt-dueren-sind-jetzt-verfuegbar/48201160.html
-  https://www.boris.nrw.de/boris-nrw/?lang=de
-  https://www.bodenrichtwerte-boris.de/boris-d/?lang=de
+Am diesjährigen Open Data Day in Flensburg hat Thomas Tursics [die Gelegenheit genutzt](https://toot.berlin/@tursics/114088205517617619), die Denkmäler aus Flensburg [in 3D zu modellieren](https://tursics.github.io/opendataday2025/). Wie es sich für OpenSource gehört, [hat Tim Fangmeyer](https://norden.social/users/datenschatz/statuses/114092069997755678) diese gleich um noch [ein paar Features ergänzt](https://tifa365.github.io/karte_3d_denkmaeler_flensburg/) und auf gleicher technischer Basis eine ähnliche Karte für das [Herzogtum Lauenburg](https://tifa365.github.io/karte_3d_denkmaeler_sh/) [angelegt](https://norden.social/users/datenschatz/statuses/114092913776067360). Carsten Witt hat die [Denkmaldaten als GeoJSON](https://opendata.tomkyle.net/denkmallisten/archaeologie) [beigesteuert](https://norden.social/@tomkyle/114093826916357766), da sie im Open-Data-Portal selbst nur als CSV bzw. JSON angeboten werden. 
+
+Im zentralen [Informationssystem für Grundstückswerte in Nordrhein-Westfalen](https://www.boris.nrw.de/boris-nrw/?lang=de) werden jedes Jahr die neuen Bodenrichtwerte für NRW veröffentlicht. Für die Stadt Düren sind diese bereits [freigeschaltet](https://www.aachener-zeitung.de/lokales/region-dueren/dueren/die-bodenrichtwerte-2025-fuer-die-stadt-dueren-sind-jetzt-verfuegbar/48201160.html). Mit [BORIS-D](https://www.bodenrichtwerte-boris.de/boris-d/?lang=de) sollen solche Daten, also Bodenrichtwerte der Gutachterausschüsse für Grundstückswerte, auch bundeslandübergreifend einheitlich und im Web leicht zugänglich gemacht werden.
+
+Nach einer Alternative müssen sich die Benutzer der beliebten Outdoor-Routenplanungs-App Komoot umsehen. Diese wurde nämlich durch die Firma Bending Spoons aufgekauft und [deren Gebahren](https://en.osm.town/@richardf/114196764264677476) bei ihren bisherigen Übernahmen verheißt nichts Gutes.
+
+Über [eine interaktive Karte](https://netzpolitik.org/2025/panik-provokation-schallwaffen-was-geschah-bei-der-grossdemo-in-belgrad/) wurde versucht, die Ereignisse bei der Großdemo in Belgrad am 15. März nachzuvollziehen. Videoaufnahmen und Augenzeugenberichte legen nahe, dass die Regierung [Schallwaffen](https://de.wikipedia.org/wiki/Long-Range_Acoustic_Device) gegen die Demonstraten eingesetzt haben könnte. 
+
+Auf den Chemnitzer Linuxtagen wurde unter anderem die ["Surveillance under Surveillance"-Karte](https://sunders.uber.space) in [einem Vortrag](https://media.ccc.de/v/clt25-186-openstreetmap-ist-keine-karte) [vorgestellt](https://gruene.social/@Gerbsen/114213068898191350).  
 
 ## Klima
 ### Emissionen
