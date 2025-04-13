@@ -98,22 +98,12 @@ Wie anfällig LLMs für Manipulationen sind, konnte der deutsche Psychologen Luk
 
 Auf der Plattform [Lernende Systeme](https://www.zaki-brandenburg.info/ki-verstehen/ki-interaktiv/ki-bildquiz-der-plattform-lernende-systeme) kann sich selbst testen, wie gut man darin ist, KI-generierte von echten Fotos zu unterscheiden.
 
-## Recherche
-* Das Netzwerk Recherche veröffentlicht einen praktischen Leitfaden zu Grundlagen des Investigativjournalismus 
-  https://netzwerkrecherche.org/international/guide-investigativjournalismus/
-  via https://bsky.app/profile/medienmagazin-m.bsky.social/post/3lkd5dqsye22w
-* Data Vis Dispatch, March 18
-  https://www.datawrapper.de/blog/data-vis-dispatch-march-18-2025
-* The rise and fall of the social media platform Flickr: Implications for nature recreation research
-  https://www.sciencedirect.com/science/article/pii/S221307802500026X
-* Citizen Science: Es muss nicht gleich ein Königsgrab sein
-  https://skeptix.org/2025/03/11/citizen-science-es-muss-nicht-gleich-ein-koenigsgrab-sein/
+## Recherche und Wissen
+Der im letzten Jahr vom [Global Investigative Journalism Network (GIJN)](https://gijn.org/) veröffentlichte [Guide](https://gijn.org/resource/guide-introduction-investigative-journalism/) zu Grundlagen des Investigativjournalismus liegt nun auch [in deutscher Übersetzung vor](https://netzwerkrecherche.org/international/guide-investigativjournalismus/). 
 
-## Wikipedia
-* 3 Millionen Artikel in der deutschsprachigen Wikipedia!
-  https://social.wikimedia.de/@wikimediaDE/114222882441376079
-* Gemeinsam mehr erreichen: Freies Wissen als Grundlage der Zusammenarbeit zwischen Wikimedia und anderen Ehrenamtsinitiativen
-  https://zenodo.org/records/15104365
+Eine wilde und faszinierende Zusammenstellung von datenjournalistischen Visualisierungen finden sich mal wieder im [Data Vis Dispatch](https://www.datawrapper.de/blog/data-vis-dispatch-march-18-2025).
+
+Am 25. März wurde die 3-Millionen-Artikel-Marke in der deutschsprachigen Wikipedia [geknackt](https://social.wikimedia.de/@wikimediaDE/114222882441376079) und damit genau 30 Jahre, nachdem das erste Wiki-System überhaupt im Internet [verfügbar gemacht wurde](https://de.wikipedia.org/wiki/Wiki#%E2%80%9EWikiWikiWeb%E2%80%9C).
 
 ## Karten
 * Denkmäler aus Flensburg in 3D modelliert
