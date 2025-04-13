@@ -45,7 +45,7 @@ Beim [egovernment Podcast](https://egovernment-podcast.com/egov214-big-picture-e
 ## Überwachung
 Die Koalitionsverhandlungen ließen schon Schlimmes für Grund und Freiheitsrechte [erahnen](https://netzpolitik.org/2025/koalitionsverhandlungen-gruselprogramm-fuer-grund-und-freiheitsrechte/). Tatsächlich in den Koalitionsvertrag geschafft hat es der Satz "Für bestimmte Zwecke sollen unsere Sicherheitsbehörden, unter Berücksichgung verfassungsrechtlicher Vorgaben und digitaler Souveränität, die automatisierte Datenrecherche und -analyse sowie den nachträglichen biometrischen Abgleich mit öﬀentlich zugänglichen Internetdaten, auch mittels Künstlicher Intelligenz, vornehmen können" und mit "Wir führen eine verhältnismäßige und europa- und verfassungsrechtskonforme dreimonage Speicherpflicht für IP-Adressen und Portnummern ein, um diese einem Anschlussinhaber zuordnen zu können." auch die Vorratsdatenspeicherung.
 
-Die Grundlagen für die Umsetzung existieren bereits. Sie befindet sich die bisher in Bayern nur pilotierte [Verfahrensübergreifende Recherche- und Analyseplattform (Vera)](https://police-it.net/category/polizeiliche-informationssysteme/recherche-analyse-auswertung-polizei/vera-verfahrensuebergreifende-recherche-und-analyse) von [Palantir](https://de.wikipedia.org/wiki/Palantir_Technologies) seit dem 25. Dezember 2024 [im Echtbetrieb](https://www.heise.de/news/Palantir-als-Interimsloesung-Bundesrat-fordert-schnellen-Einsatz-fuer-die-Polizei-10325605.html). Und über den bereits abgeschlossenen Mantelrahmenvertrag könnte die Software auch deutschlandweit ausgerollt werden. Auch Gesundheitsdaten sollen in ihr für die Bestimmung des Gefährungspotenzial möglicher Täter [ausgewertet werden können](https://www.golem.de/news/bundesratsbeschluss-analysesoftware-der-polizei-soll-gesundheitsdaten-auswerten-2503-194605.html). Großaktionär von Palantir ist übrigens der erklärte Demokratiefend Peter Thiel, [vielleicht ist das keine so gute Idee](https://netzpolitik.org/2025/palantir-wer-jetzt-bei-peter-thiel-software-kauft-hat-wirklich-nichts-verstanden/).
+Die Grundlagen für die Umsetzung existieren bereits. Sie befindet sich die bisher in Bayern nur pilotierte [Verfahrensübergreifende Recherche- und Analyseplattform (Vera)](https://police-it.net/category/polizeiliche-informationssysteme/recherche-analyse-auswertung-polizei/vera-verfahrensuebergreifende-recherche-und-analyse) von [Palantir](https://de.wikipedia.org/wiki/Palantir_Technologies) seit dem 25. Dezember 2024 [im Echtbetrieb](https://www.heise.de/news/Palantir-als-Interimsloesung-Bundesrat-fordert-schnellen-Einsatz-fuer-die-Polizei-10325605.html). Und über den bereits abgeschlossenen Mantelrahmenvertrag könnte die Software auch deutschlandweit ausgerollt werden. Auch Gesundheitsdaten sollen in ihr für die Bestimmung des Gefährungspotenzial möglicher Täter [ausgewertet werden können](https://www.golem.de/news/bundesratsbeschluss-analysesoftware-der-polizei-soll-gesundheitsdaten-auswerten-2503-194605.html). Großaktionär von Palantir ist übrigens der erklärte Demokratiefeind Peter Thiel, [vielleicht ist das keine so gute Idee](https://netzpolitik.org/2025/palantir-wer-jetzt-bei-peter-thiel-software-kauft-hat-wirklich-nichts-verstanden/).
 
 ## Lobbyismus
 In die Koaltionsvertrag Eingang gefunden hat auch diese Regelung: "Die Umsatzsteuer für Speisen in der Gastronomie wird zum 01.01.2026 dauerhaft auf sieben Prozent reduziert." Für Foodwatch hätte eine sinnvollere Mehrwertsteuer-Reform Verbraucher:innen entlasten und zudem gesunde Ernährung gefördert. Stattdessen scheint es eher [ein Milliardengeschenk an die Gastro-Lobby zu sein](https://www.foodwatch.org/de/senkung-der-gastro-mehrwertsteuer-wirft-fragen-zu-lobby-verbindungen-der-union-auf).
@@ -55,35 +55,70 @@ Auch auf EU-Ebene ist die Einflussnahme ein Dauerthema. So ist der Umstand, dass
 Auch die [Heritage Foundation](https://de.wikipedia.org/wiki/Heritage_Foundation), Drahtzieher des [Project 2025](https://de.wikipedia.org/wiki/Project_2025), strecken ihre Tentakel nach Europa und Deutschland aus, die hier auch schon [freudig ergriffen wurden](https://correctiv.org/aktuelles/lobbyismus/2025/03/19/heritage-foundation-trumps-verbuendete-im-bundestag/) - Brüder im Geiste.
 
 ## Digitale Souveränität
-* #UnplugTrump: Mach dich digital unabhängig von Trump und Big Tech - 30 Tipps
-  https://www.kuketz-blog.de/unplugtrump-mach-dich-digital-unabhaengig-von-trump-und-big-tech/
-* Kein Aprilscherz: Google Cloud und BSI schließen Kooperationsvereinbarung für sichere Cloud-Lösungen in der öffentlichen Verwaltung
-  https://cloud.google.com/blog/de/topics/offentlicher-sektor/google-cloud-bsi
-  via https://gruene.social/@norbert/114117226128613782
-  * Harsche Kritik an BSI-Kooperation mit Google
-    https://www.channelpartner.de/a/harsche-kritik-an-bsi-kooperation-mit-google,3764192
-* Ein interessanter Beschluss, den die Ministerpräsident*innen da gefasst haben.
-  via https://social.tchncs.de/@kaffeeringe/114161009390996871
-* Knitting Our Internet - an interactive journey through the history of the Internet, and a collective rethinking of its future.
-  https://ournet.rocks
-  via https://chaos.social/@tbsprs/114172766223692155
-* Sieg für die Internetfreiheit: Google muss seinen Chrome-Browser verkaufen
-  https://tuta.com/de/blog/google-must-sell-chrome-in-antitrust-case
-* So wirst du unabhängig von Tech-Milliardären
-  https://netzpolitik.org/2025/unplugtrump-so-wirst-du-unabhaengig-von-tech-milliardaeren/
-* Entgoogle das Internet
-  https://degooglisons-internet.org/de/
-* Digitaler Kolonialismus
-  https://netzpolitik.org/2025/293-on-the-record-digitaler-kolonialismus/
-* Cloud Genossenschaft 101 in Gründung
-  https://101lab.it/101cloud/geno.html
-  via https://23.social/users/thomasfricke/statuses/114244874956536880
-* Was "digitale Souveränität" für die öffentliche Verwaltung bedeutet
-  https://netzpolitik.org/2025/jenseits-des-marketingbegriffs-was-digitale-souveraenitaet-fuer-die-oeffentliche-verwaltung-bedeutet/
-* Plattformen gegen offenes Internet: Das Digitale ist das Echte
-  https://www.derstandard.at/story/3000000261454/plattformen-gegen-offenes-internet-das-digitale-ist-das-echte
-* Demokratisch kontrollierte Alternativen gegen technologische Abhängigkeit
-  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/demokratisch-kontrollierte-alternativen-gegen-technologische-abhaengigkeit
+### In der öffentliche Verwaltung
+[Laut Kulturwissenschaftler Michael Seemann](https://netzpolitik.org/2025/jenseits-des-marketingbegriffs-was-digitale-souveraenitaet-fuer-die-oeffentliche-verwaltung-bedeutet/) kann nur von echter digitaler Souveränität gesprochen werden, wenn die eingesetzten Dienste "nicht der Kontrolle durch staatliche oder private Akteuren bedürfen". Für die öffentlichen Verwaltung heißt das, wie es der IT-Planungsrat formuliert hatte, "Wechselmöglichkeit, Gestaltungsfähigkeit, Einfluss auf IT-Anbieter". Für Stefan Kaufmann gehören dazu auch der Aufbau entsprechender Entscheidungskompetenzen in der Verwaltung selbst. Keine Lösung dagegen ist der Ruf nach "nationalen Champions", denn damit bleibt das eigentliche Problem, dass Technologie von wenigen Riesenkonzernen kontrolliert wird, [weiterhin bestehen](https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/demokratisch-kontrollierte-alternativen-gegen-technologische-abhaengigkeit). Echte Alternative können nur demokratisch legitimierter Akteure sein, die im Sinne gesellschaftlich wünschenswerte Ziele agieren und sich nicht an der Ressourcenverschwendung im imaginären Wettrennen der Weltregionen und Egos beteiligen. Dass das Bundesamt für Sicherheit in der Informationstechnik (BSI) eine Kooperationsvereinbarung mit der Google Cloud für sichere Cloud-Lösungen in der öffentlichen Verwaltung geschlossen hat, [trägt jedenfalls nicht dazu bei](https://www.channelpartner.de/a/harsche-kritik-an-bsi-kooperation-mit-google,3764192). Selbst auf der Ministerpräsidentenkonferenz hat man erkannt, dass es stattdessen [verbindliche offene Standards](https://social.tchncs.de/@kaffeeringe/114161009390996871) braucht. Besser dagegen ist, dass mit der [101cloud](https://101lab.it/) nun [eine Cloud-Genossenschaft gegründet werden soll](https://101lab.it/101cloud/geno.html), die ihren Nutzenden gehört. 
+
+## Offenes Internet in Gefahr
+["Unser Internet stricken" ("Knitting Our Internet")](https://ournet.rocks) ist eine interaktive Reise durch die Geschichte des Internets um auch aktuelle Entwicklungen hinsichtlicher zunehmender Zentralisierung, Überwachungskapitalismus und Umweltschädigung kritisch zu hinterfragen. Auch Gerold Riedmann wagt [in seinem Essay](https://www.derstandard.at/story/3000000261454/plattformen-gegen-offenes-internet-das-digitale-ist-das-echte) einen Blick zurück, als das Internet als geschlossene Plattform gestartet ist. Heute dominieren erneut geschlossene Plattformen, die für sich jeweils die Deutungshoheit beanspruchen. Zu mindestens wurde nun erreicht, [dass Google seinen Chrome-Browser verkaufen muss](https://tuta.com/de/blog/google-must-sell-chrome-in-antitrust-case).
+
+### Was jeder einzelne tun kann
+Netzpolitik hat dankenswerterweise die Alternativen [zusammengetragen](https://netzpolitik.org/2025/unplugtrump-so-wirst-du-unabhaengig-von-tech-milliardaeren/), die man für Soziale Netzwerke, Suchmaschinen, Browser, E-Mail, Messenger, Videokonferenzsysteme, Karten und Navigation, Textverarbeitung und Tabellenkalkulation, Betriebssysteme, App-Stores aber auch für Hardware prinzipiell bestehen. Mehr Tipps gibt es auf dem [Kuketz-Blog](https://www.kuketz-blog.de/unplugtrump-mach-dich-digital-unabhaengig-von-trump-und-big-tech/). Der gemeinnützige französische Verein Framasoft [listet die Alternativen](https://degooglisons-internet.org/de/), die unter seinem Dach entstanden sind.
+
+Jeder Beitrag gegen den [Digitalen Kolonialismus](https://netzpolitik.org/2025/293-on-the-record-digitaler-kolonialismus/) hilft.
+
+## Open Source
+* Seit kurzem können wir im Gericht #LibreOffice nutzen, Ende des Jahres wird es Pflicht. Der Umstieg fiel uns leicht, da wir es auch zu Hause nutzen. Und von unseren Kolleg:innen hat auch noch keine:r gemurrt.
+  https://social.schleswig-holstein.de/@gerichteSH/114148472098419012
+* Linux gehört nicht zur Strategie der Bundesdruckerei
+  https://www.swr.de/swrkultur/wissen/aemter-ohne-microsoft-warum-behoerden-freie-software-nutzen-wollen-das-wissen-2025-03-11-100.html
+  via https://social.tchncs.de/@sfritz/114206072200769752
+* The French government announced a new OSS project simply called Docs
+  https://docs.numerique.gouv.fr
+  via https://mastodon.social/@mrchrisadams/114172548977736428
+* Kalendar
+  via https://norden.social/@MisterOpenData/114196269502732428
+
+## Journalismus
+* ZDF Mediathek nun auf StreamingOS
+  https://www.dwdl.de/hauptstadtstudio/101816/das_digitale_doppelleben_des_zdf_wer_bin_ich_und_wenn_ja_wie_viele/
+  https://github.com/zdf-opensource?tab=repositories
+* Das Netzwerk Recherche veröffentlicht einen praktischen Leitfaden zu Grundlagen des Investigativjournalismus 
+  https://netzwerkrecherche.org/international/guide-investigativjournalismus/
+  via https://bsky.app/profile/medienmagazin-m.bsky.social/post/3lkd5dqsye22w
+
+## Wirtschaft
+* der Economist bringt die Gefahr stetig wachsender leistungsloser Einkommen auf den Punkt
+  https://digitalcourage.social/users/klischka/statuses/114091031244004001
+* Discover European products and services
+  https://www.goeuropean.org
+  via https://darmstadt.social/@stvo/114208998659531721
+* Big Tech sind heute schon zu groß und zu mächtig – und dringen beinahe unbemerkt in den Finanzsektor ein. Was man dagegen tun kann? Unser neuer Bericht zeigt Handlungsmöglichkeiten auf
+  https://www.finanzwende-recherche.de/unsere-themen/digitalisierung-finanzsektor/big-techs-im-finanzwesen/
+  via https://bsky.app/profile/fw-recherche.bsky.social/post/3ll4gs3ir7c2b
+
+
+## KI
+* "stop forcing AI into fucking everything"
+  https://climatejustice.social/@disco3000/114097851390590100
+* Unterhaltung und Seelenfrieden
+  https://chaos.social/users/netzpolitik_feed/statuses/114109394108699968
+* A well-funded Moscow-based global ‘news’ network has infected Western artificial intelligence tools worldwide with Russian propaganda
+  https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global
+  * Russland manipuliert wohl westliche Chatbots für seine Propaganda
+    https://www.spiegel.de/ausland/chatgpt-und-perplexity-ai-russland-manipuliert-westliche-chatbots-fuer-seine-propaganda-a-7e276236-cac3-4f35-8ad4-40eaba1c8caf
+* DOGE accidentally revealed its plans
+  https://carhenge.club/users/skiles/statuses/114203147063483693
+* Kluger-Hans-Effekt: Wenn KI-Systeme aus den falschen Gründen Recht haben
+  https://www.telepolis.de/features/Kluger-Hans-Effekt-Wenn-KI-Systeme-aus-den-falschen-Gruenden-Recht-haben-10323963.html
+* Auf der Plattform Lernende Systeme können Sie in einem spannenden Quiz herausfinden, wie gut Sie zwischen Fakt und Fiktion unterscheiden können.
+  https://www.zaki-brandenburg.info/ki-verstehen/ki-interaktiv/ki-bildquiz-der-plattform-lernende-systeme
+* Vulgar Display of Power
+  https://tante.cc/2025/03/28/vulgar-display-of-power/
+  via https://tldr.nettime.org/@tante/114239319373302306
+* Neuer LLM-Jailbreak: Mit psychologischem Gaslighting gegen KI-Filter
+  https://www.heise.de/news/Neuer-LLM-Jailbreak-Psychologe-nutzt-Gaslighting-gegen-KI-Filter-10332571.html
+* Der Erfinder des Web kritisiert den Hype um generative KI scharf
+  https://www.derstandard.de/story/3000000261183/der-erfinder-des-web-kritisiert-den-hype-um-generative-ki-scharf
 
 ## Wikipedia
 * 3 Millionen Artikel in der deutschsprachigen Wikipedia!
@@ -131,45 +166,6 @@ Auch die [Heritage Foundation](https://de.wikipedia.org/wiki/Heritage_Foundation
   https://www.boris.nrw.de/boris-nrw/?lang=de
   https://www.bodenrichtwerte-boris.de/boris-d/?lang=de
 
-## Open Source
-* Seit kurzem können wir im Gericht #LibreOffice nutzen, Ende des Jahres wird es Pflicht. Der Umstieg fiel uns leicht, da wir es auch zu Hause nutzen. Und von unseren Kolleg:innen hat auch noch keine:r gemurrt.
-  https://social.schleswig-holstein.de/@gerichteSH/114148472098419012
-* Linux gehört nicht zur Strategie der Bundesdruckerei
-  https://www.swr.de/swrkultur/wissen/aemter-ohne-microsoft-warum-behoerden-freie-software-nutzen-wollen-das-wissen-2025-03-11-100.html
-  via https://social.tchncs.de/@sfritz/114206072200769752
-* The French government announced a new OSS project simply called Docs
-  https://docs.numerique.gouv.fr
-  via https://mastodon.social/@mrchrisadams/114172548977736428
-* Kalendar
-  via https://norden.social/@MisterOpenData/114196269502732428
-
-## Journalismus
-* ZDF Mediathek nun auf StreamingOS
-  https://www.dwdl.de/hauptstadtstudio/101816/das_digitale_doppelleben_des_zdf_wer_bin_ich_und_wenn_ja_wie_viele/
-  https://github.com/zdf-opensource?tab=repositories
-* Das Netzwerk Recherche veröffentlicht einen praktischen Leitfaden zu Grundlagen des Investigativjournalismus 
-  https://netzwerkrecherche.org/international/guide-investigativjournalismus/
-  via https://bsky.app/profile/medienmagazin-m.bsky.social/post/3lkd5dqsye22w
-
-## Wirtschaft
-* der Economist bringt die Gefahr stetig wachsender leistungsloser Einkommen auf den Punkt
-  https://digitalcourage.social/users/klischka/statuses/114091031244004001
-* Discover European products and services
-  https://www.goeuropean.org
-  via https://darmstadt.social/@stvo/114208998659531721
-* Big Tech sind heute schon zu groß und zu mächtig – und dringen beinahe unbemerkt in den Finanzsektor ein. Was man dagegen tun kann? Unser neuer Bericht zeigt Handlungsmöglichkeiten auf
-  https://www.finanzwende-recherche.de/unsere-themen/digitalisierung-finanzsektor/big-techs-im-finanzwesen/
-  via https://bsky.app/profile/fw-recherche.bsky.social/post/3ll4gs3ir7c2b
-
-## Energie
-* Wärme aus dem Tunnel - wie U-Bahnen Wohnungen heizen können
-  https://www.fr.de/wirtschaft/waerme-aus-dem-tunnel-wie-bahnen-wohnungen-heizen-koennen-zr-93594492.html
-* How Bangladesh rolled out the world’s largest off-grid solar programme
-  https://theprogressplaybook.com/2025/03/10/how-bangladesh-rolled-out-the-worlds-largest-off-grid-solar-programme/
-
-## Mobilität
-* Wie steht’s um den ÖPNV in Deutschland?
-  https://www.greenpeace.de/klimaschutz/mobilitaet/staedteranking-oepnv-vergleich-zeigt-stillstand
 
 ## Klima
 * Auswirkungen der Klimakrise: Schokoladenpreis auf Rekordniveau
@@ -208,28 +204,16 @@ Auch die [Heritage Foundation](https://de.wikipedia.org/wiki/Heritage_Foundation
 * Eine neue interaktive Karte zeigt bei Starkregen detailliert Gefahrenzonen in zwölf Bundesländern.
   https://www.klimareporter.de/technik/zu-nah-am-wasser-gebaut
 
-## KI
-* "stop forcing AI into fucking everything"
-  https://climatejustice.social/@disco3000/114097851390590100
-* Unterhaltung und Seelenfrieden
-  https://chaos.social/users/netzpolitik_feed/statuses/114109394108699968
-* A well-funded Moscow-based global ‘news’ network has infected Western artificial intelligence tools worldwide with Russian propaganda
-  https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global
-  * Russland manipuliert wohl westliche Chatbots für seine Propaganda
-    https://www.spiegel.de/ausland/chatgpt-und-perplexity-ai-russland-manipuliert-westliche-chatbots-fuer-seine-propaganda-a-7e276236-cac3-4f35-8ad4-40eaba1c8caf
-* DOGE accidentally revealed its plans
-  https://carhenge.club/users/skiles/statuses/114203147063483693
-* Kluger-Hans-Effekt: Wenn KI-Systeme aus den falschen Gründen Recht haben
-  https://www.telepolis.de/features/Kluger-Hans-Effekt-Wenn-KI-Systeme-aus-den-falschen-Gruenden-Recht-haben-10323963.html
-* Auf der Plattform Lernende Systeme können Sie in einem spannenden Quiz herausfinden, wie gut Sie zwischen Fakt und Fiktion unterscheiden können.
-  https://www.zaki-brandenburg.info/ki-verstehen/ki-interaktiv/ki-bildquiz-der-plattform-lernende-systeme
-* Vulgar Display of Power
-  https://tante.cc/2025/03/28/vulgar-display-of-power/
-  via https://tldr.nettime.org/@tante/114239319373302306
-* Neuer LLM-Jailbreak: Mit psychologischem Gaslighting gegen KI-Filter
-  https://www.heise.de/news/Neuer-LLM-Jailbreak-Psychologe-nutzt-Gaslighting-gegen-KI-Filter-10332571.html
-* Der Erfinder des Web kritisiert den Hype um generative KI scharf
-  https://www.derstandard.de/story/3000000261183/der-erfinder-des-web-kritisiert-den-hype-um-generative-ki-scharf
+## Energie
+* Wärme aus dem Tunnel - wie U-Bahnen Wohnungen heizen können
+  https://www.fr.de/wirtschaft/waerme-aus-dem-tunnel-wie-bahnen-wohnungen-heizen-koennen-zr-93594492.html
+* How Bangladesh rolled out the world’s largest off-grid solar programme
+  https://theprogressplaybook.com/2025/03/10/how-bangladesh-rolled-out-the-worlds-largest-off-grid-solar-programme/
+
+## Mobilität
+* Wie steht’s um den ÖPNV in Deutschland?
+  https://www.greenpeace.de/klimaschutz/mobilitaet/staedteranking-oepnv-vergleich-zeigt-stillstand
+
 
 ## Recap
 * NPA144 
