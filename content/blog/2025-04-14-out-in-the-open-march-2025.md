@@ -67,16 +67,15 @@ Netzpolitik hat dankenswerterweise die Alternativen [zusammengetragen](https://n
 Jeder Beitrag gegen den [Digitalen Kolonialismus](https://netzpolitik.org/2025/293-on-the-record-digitaler-kolonialismus/) hilft.
 
 ## Open Source
-* Seit kurzem können wir im Gericht #LibreOffice nutzen, Ende des Jahres wird es Pflicht. Der Umstieg fiel uns leicht, da wir es auch zu Hause nutzen. Und von unseren Kolleg:innen hat auch noch keine:r gemurrt.
-  https://social.schleswig-holstein.de/@gerichteSH/114148472098419012
-* Linux gehört nicht zur Strategie der Bundesdruckerei
-  https://www.swr.de/swrkultur/wissen/aemter-ohne-microsoft-warum-behoerden-freie-software-nutzen-wollen-das-wissen-2025-03-11-100.html
-  via https://social.tchncs.de/@sfritz/114206072200769752
-* The French government announced a new OSS project simply called Docs
-  https://docs.numerique.gouv.fr
-  via https://mastodon.social/@mrchrisadams/114172548977736428
-* Kalendar
-  via https://norden.social/@MisterOpenData/114196269502732428
+Gerichte in Schleswig-Holstein [können nun die Office-Alternative LibreOffice nutzen](https://social.schleswig-holstein.de/@gerichteSH/114148472098419012), Ende des Jahres wird es sogar Pflicht. 
+
+In Kooperation zwischen der ministeriellen Direktion für Digitales der französischen Regierung und dem deutschen ZenDiS wird mit [Docs](https://docs.numerique.gouv.fr/) eine Open-Source-Kollaboration-Software [entwickelt](https://mastodon.social/@mrchrisadams/114172548977736428), die eine Alternative zu Tools wie Notion darstellt.
+
+Auch für offene Kalender-Lösungen gibt es schon [diverse Ansätze](https://norden.social/@MisterOpenData/114196269502732428), vornehmlich natürlich [Mobilizon](https://mobilizon.org).
+
+Da Microsoft die Daten seiner Kunden zunehmend in die Cloud verlegt und seine Software wie wie Outlook, Office und Teams sich nicht mehr kaufen sondern nur per Abomodell mieten lassen wird, [sehen sich erste Behörden nach freien Software-Alternativen um](https://www.swr.de/swrkultur/wissen/aemter-ohne-microsoft-warum-behoerden-freie-software-nutzen-wollen-das-wissen-2025-03-11-100.html).
+
+An anderer Stelle wird dagegen die flächendeckende Einführung von Linux behindert, [weil "Linux gehört nicht zur Strategie der Bundesdruckerei"](https://social.tchncs.de/@sfritz/114206072200769752).
 
 ## Journalismus
 * ZDF Mediathek nun auf StreamingOS
