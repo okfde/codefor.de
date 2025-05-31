@@ -1,5 +1,5 @@
 ---
-title: "? – Out in the Open Mai 2025"
+title: "Zukunftsschutzgebiet – Out in the Open Mai 2025"
 author: "Jörg Reichert (Code for Leipzig)"
 date: '2025-06-09T08:00:00+02:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
