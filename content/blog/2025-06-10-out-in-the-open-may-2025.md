@@ -1,7 +1,7 @@
 ---
 title: "Zukunftsschutzgebiet – Out in the Open Mai 2025"
 author: "Jörg Reichert (Code for Leipzig)"
-date: '2025-06-09T08:00:00+02:00'
+date: '2025-06-10T08:00:00+02:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
 topic: community
 images:
@@ -50,6 +50,12 @@ type: blog
   https://dokumente.landtag.rlp.de/landtag/xml-dokumente/
 * Bundestag First Said
   https://ruhr.social/@bt_first_said@mastodon.social
+* Pollux Political Corpora (PoliCorp) is an open resource for accessing and analysing processed political text data.
+  https://demo-pollux.gesis.org
+  via https://polsci.social/@fidpol/114595186307300519
+* Spannende Neuigkeiten! Stadt-Bonn-OParl v1.6.0 ist da!
+  https://bonn.social/@goern/114592438056151066
+  https://codeberg.org/machdenstaat/stadt-bonn-oparl
 
 ## Openness
 * Open Science: Spannende Veranstaltungen zu #OpenPeerReview, #OpenData, #OpenAccess und #Forschungsdatenmanagement 
@@ -88,10 +94,15 @@ type: blog
   https://www.news4teachers.de/2025/05/digitales-desaster-t-systems-laesst-schulplattform-des-landes-fallen-wie-logineo-zum-millionengrab-wurde/
 * "Das ist eine brillante, wie brutale und disziplinierende Idee: das neue #Digitalministerium sollte in Kooperation mit den Ländern systematisch erheben, welche Digitalisierungsprojekte in den letzten zehn Jahren, mit welchem Budgets gestartet wurden, welche davon erfolgreich waren und welche gescheitert sind, inklusive Beratungsaufträge an die Big Five und was aus solchen konkret herausgekommen ist)."
   https://de.linkedin.com/posts/max-von-grafenstein-208a8632_schulcloud-logineo-200-millionen-projekt-activity-7329426379802820610-IOhu
+* Das Prinzip Offenheit in der Entwicklung und Kommunikation der Corona-Warn-App
+  https://link.springer.com/article/10.1365/s35764-025-00555-4
+  via https://social.tchncs.de/@CCTG/114587521980622941
 
 ## Digitalisierung
 * Organisationserlass: Aufgaben des neuen Digitalministeriums 
   https://de.linkedin.com/posts/gerber-daniel_organisationserlass-des-bundeskanzlers-activity-7325776927313584128-mETd
+* National-Once-Only-Technical-System: Staatsvertrag für "Datenautobahn"
+  https://netzpolitik.org/2025/national-once-only-technical-system-staatsvertrag-fuer-datenautobahn/
 * Hilfestellung für Digitalisierungsprojekte: Der Data-Governance-Wegweiser für Behörden
   https://reset.org/hilfestellung-digitalisierungsprojekte-data-governance-wegweiser-vorgestellt/
 * Digitaler Zwilling des Staates: Rechtliche Architektur für eine modellbasierte Staatsmodernisierung
@@ -129,12 +140,21 @@ type: blog
   https://www.theguardian.com/environment/2025/may/29/almost-40-of-worlds-glaciers-already-doomed-due-to-climate-crisis-study
 * Climate Change and the Escalation of Global Extreme Heat
   https://www.climatecentral.org/report/climate-change-and-the-escalation-of-global-extreme-heat-2025
+* Die Welt realisiert das Ausmass der Katastrophe im Wallis
+  https://www.srf.ch/news/schweiz/internationale-presseberichte-die-welt-realisiert-das-ausmass-der-katastrophe-im-wallis
+  * Warum die Gefahr von Bergstürzen steigt
+    https://www.zdfheute.de/video/umwelt-klimawandel-bergsturz-100.html
+* Bits & Bäume zum Koalitionsvertrag: Wolkig, wenig heiter
+  https://bits-und-baeume.org/blog/auswertung_koalitionsvertrag/
 
 ## Visualisierung
 * Wie man Daten zum Sprechen bringen kann
   https://rudolphina.univie.ac.at/podcast-folge-12-wie-man-daten-zum-sprechen-bringen-kann
 * Data Vis Dispatch, May 20: Maps, government spending, and the Arctic
   https://www.datawrapper.de/blog/data-vis-dispatch-may-20-2025
+* Mietenentwicklung auf Stadtteilebene und in Verbindung mit den dortigen Einkommen
+  https://www.zeit.de/wirtschaft/2025-05/mietpreise-immobilien-deutschland-staedte-stadtteile?freebie=2704b06f
+  via https://mastodon.social/@lovinurbanism/114591382609756754
 
 ## Karten
 * Oh no. Microsoft is gonna turn off Bing Aerial Imagery for #OpenStreetMap in ca 2 months??!?!? 
@@ -241,6 +261,8 @@ type: blog
   https://www.deutschlandfunk.de/magazin-cicero-veroeffentlicht-vollstaendiges-verfassungsschutzgutachten-ueber-die-afd-104.html
 * Was im AfD-Gutachten steht (und was nicht)
   https://correctiv.org/aktuelles/debatte-um-afd-verbot/2025/05/15/was-im-afd-gutachten-steht-und-was-nicht/
+* AfD-Verbot Beweise
+  https://afd-verbot.de/beweise
 
 ## USA
 * Update. "The Latest #Trump and #DOGE Casualty: #Energy Data."
@@ -261,6 +283,9 @@ type: blog
 * Diesmal geht’s um die Frage: Wie beeinflusst der geopolitische Wettkampf zwischen den USA, China und anderen Mächten den globalen Zugang zu Wissen? 
   https://www.deutschlandfunkkultur.de/wissen-im-geopolitischen-wettkampf-droht-ein-digitaler-eiserner-vorhang-100.html
   via https://social.wikimedia.de/@wikimediaDE/114527777705246690
+* 100 Hours to Save America’s Forecasts, Weather and Climate Livestream 
+  https://www.youtube.com/watch?app=desktop&v=r58FtmM4sDY
+  via https://social.tchncs.de/@antux/114602201134630120
 
 ## Security
 * RSS feed for CISA KEV vulnerabilities, powered by Vulnerability-Lookup:
@@ -307,6 +332,8 @@ type: blog
   https://taz.de/Probleme-bei-Auslaenderbehoerden/!6090705/
 * Irreführung bei nachhaltigen Fonds: 150 Milliarden Euro unter falschem Etikett
   https://correctiv.org/aktuelles/klimawandel/2025/05/15/irrefuehrung-bei-nachhaltigen-fonds-150-milliarden-euro-unter-falschem-etikett/
+* Schufa will transparenter werden
+  https://www.tagesspiegel.de/wirtschaft/finanzen/neue-gerichtsurteile-machen-druck-muss-die-schufa-negative-eintrage-schneller-loschen-13605901.html
 
 ## Recap
 * re:publica
@@ -318,10 +345,20 @@ type: blog
     https://re-publica.com/de/session/von-fax-scans-und-unlesbaren-tabellen-welche-daten-braucht-die-aktive-zivilgesellschaft-vom
   * Offenheit von Technologie und Gesellschaft – Midlife-Crisis eines populären Begriffs?
     https://re-publica.com/de/session/offenheit-von-technologie-und-gesellschaft-midlife-crisis-eines-populaeren-begriffs
+  * Frank Karlitschek (Nextcloud) - So baut man ein nachhaltiges Open Source Unternehmen
+    https://www.youtube.com/watch?v=MykWi0Bmr_Y
   * Community data centers – Towards locally owned infrastructures for an equitable and sustainable digital future
     https://re-publica.com/de/session/community-data-centers-towards-locally-owned-infrastructures-equitable-and-sustainable
   * Public AI – Digitale Infrastruktur für das Gemeinwohl neu denken
     https://re-publica.com/de/session/public-ai-digitale-infrastruktur-fuer-das-gemeinwohl-neu-denken
+  * Coding the Urban Commons: Herausforderungen ko-produktiver Stadtgestaltung in der Smart City
+    https://re-publica.com/de/session/coding-urban-commons-herausforderungen-ko-produktiver-stadtgestaltung-der-smart-city
+  * Von Glut und Geschichte zu Merz’ Kanzlerauftritt und Wildbergers Digitalplänen
+    https://stefanpfeiffer.blog/2025/05/29/von-glut-und-geschichte-zu-merz-kanzlerauftritt-und-wildbergers-digitalplanen-rp25/
+  * Fediverse, Mastodon und SaveSocial – der Kampf um ein demokratisches Netz 
+    https://stefanpfeiffer.blog/2025/05/30/fediverse-mastodon-und-savesocial-der-kampf-um-ein-demokratisches-netz-rp25/
+  * Logbuch Re:publica 2025
+    https://fragmentansichten.de/2025/05/31/logbuch-republica-2025/
 * Berliner Open Data Day
   * Das nimmt Kai Dolata mit
     https://de.linkedin.com/posts/kaidolata_boddy25-opendata-noopendatabau-activity-7329155829633327104-WG3X
@@ -335,7 +372,9 @@ type: blog
     https://open.spotify.com/episode/3HXGMZWcEFLk7DA8jK3Nls?si=7CL9cCo9TV-oQdbBsSNeJw&nd=1&dlsi=6faee5650582438f
   * CORRECTIV.Lokal Konferenz: Sieben Forderungen für einen starken Lokaljournalismus
     https://correctiv.org/in-eigener-sache/2025/05/28/sieben-forderungen-um-lokaljournalismus-zu-verbessern/
-    
+* Wikidata and Sister Projects
+  * https://www.wikidata.org/wiki/Event:Wikidata_and_Sister_Projects#Sessions    
+
 ## Call for Contribution
 * Piazza, Workshop-Ideen bis 02.06.2025
   * https://okfn.de/blog/2025/04/piazza-konferenz-2025-call-for-workshops/
