@@ -21,6 +21,10 @@ type: blog
   https://github.com/StatistischesBundesamt/GENESIS-Online
 * O News Program, When Art Thou On?
   https://blog.johl.io/o-news-program-when-art-thou-on/
+* open Register API
+  https://www.linkedin.com/posts/joel-rose_das-deutsche-handelsregister-war-bisher-ein-activity-7335637037271687168-LbpG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAE1E7kBK7jlfeaqVLGSFQVifXYiLOqhCBQ
+  https://docs.openregister.de/introduction?trk=public_post_comment-text
+  * Kommentar Tim: "Die Plattform bunddev bietet seit einigen Jahren eine für jeden offene Open Source Schnittstelle: https://github.com/bundesAPI/handelsregister"
 
 ### Neue Daten
 * Der Landkreis DonauRies stellt ab sofort #Daten auf open.bydata.de bereit.
@@ -32,6 +36,11 @@ type: blog
   https://norden.social/@datenschatz/114660447255822534
 * Datenatlas Zivilgesellschaft
   https://datenkatalog.datenatlas-zivilgesellschaft.de/app/home
+  https://datenatlas-zivilgesellschaft.de/de/start
+  * Offene Daten für das Gemeinwohl: Der Datenatlas Zivilgesellschaft ist online
+    https://datenatlas-zivilgesellschaft.de/de/ueber-uns/aktuelles/der-datenatlas-zivilgesellschaft-ist-online
+  * Der neue Datenatlas Zivilgesellschaft ist jetzt live! 
+    https://www.linkedin.com/posts/mario-wiedemann-a5887b30_der-neue-datenatlas-zivilgesellschaft-ist-activity-7340702292628676608-b56Z
 * Neues LKW-Verkehrsportal mit Open Data!: TollCollect hat ein interaktives Analyse-Tool für Mautdaten entwickelt.
   https://company.toll-collect.de/de/presse/pressemitteilungen/start-des-lkw-verkehrsportals-visualisierung-von-mautdaten-erleichtert-verkehrsmanagement/
   via https://social.bund.de/@opendatabund/114732258594062411
@@ -42,7 +51,6 @@ type: blog
   * From Vienna to the world: launch of citizen science campaign to measure #trees and map carbon
     https://iiasa.ac.at/news/jun-2025/from-vienna-to-world-launch-of-citizen-science-campaign-to-measure-trees-and-map
     via https://climatejustice.social/@tuxom/114733969499829281
-
 
 ### Linked Open Data
 * Hat schon mal jemand im größeren Stil Open Data (bzw. dessen Metadaten) mit Wikidata IDs verknüpft, um so aus Open Data -> Linked Open Data zu machen? 
@@ -57,7 +65,6 @@ type: blog
   https://norden.social/@datenschatz/114703503631657810
   * https://hoerspiele.dra.de
   * Alternativen: http://www.hördat.de, https://www.phonostar.de/radio/hoerspiel/hoerspiel/liste
-
 
 ## Digitale Souveränität
 * Digitale Souveränität ist ein Luftschloss
@@ -89,6 +96,9 @@ type: blog
 * Nach Thüringen will auch Schleswig-Holstein die Open-Source-Videokonferenzlösung OpenTalk in den Landesbehörden ausrollen
   https://www.heise.de/news/Videokonferenz-Tool-Nach-Thueringen-setzt-Schleswig-Holstein-auf-OpenTalk-10424605.html
   via https://social.heise.de/@heiseonline/114733484634951385
+* CVE in der Krise – Europas Weckruf für digitale Unabhängigkeit
+  https://ag.kritis.info/2025/06/05/cve-in-der-krise-europas-weckruf-fuer-digitale-unabhaengigkeit/
+  via https://bsky.app/profile/honkhase.bsky.social/post/3lqx5mu4qac2b
 
 ## Verwaltungsdigitalisierung
 * Grundgesetzänderung für Digitalisierung: "Die Infrastruktur für föderale Lösungen soll einheitlich sein"
@@ -96,6 +106,12 @@ type: blog
 * Digitale Verwaltung in Berlin - Strukturelle Probleme beim ITDZ und dem Senat
   https://dielinke.berlin/zusammenschluesse/lag-netzpolitik/detail/digitale-verwaltung-in-berlin-strukturelle-probleme-beim-itdz-und-dem-senat/
   via https://linke.social/@digitale_linke/114655976460950317
+
+## Visualisierungen
+* Zunahme Satelliten
+  https://bsky.app/profile/achwalter.bsky.social/post/3lqveg5wp422j
+* A friendly guide to choosing a chart type
+  https://www.datawrapper.de/blog/chart-types-guide
 
 ## Karten
 * Modeling And Analyzing Urban Networks And Amenities With OSMnx
@@ -105,6 +121,8 @@ type: blog
   https://osmnx.readthedocs.io/en/stable/
 * StreetComplete Multiplatform
   https://nlnet.nl/project/StreetComplete-multiplatform/
+* Speed up your analytics with the new MovingPandas 0.22 and Trajectools 2.6
+  https://anitagraser.com/2025/05/17/speed-up-your-analytics-with-the-new-movingpandas-0-22-and-trajectools-2-6/
 
 ## Mobilität
 * Adding public transport data to Transitous
@@ -210,6 +228,9 @@ type: blog
   https://mastodon.social/@VeroniqueB99/114632989910725775
 * "Half the tree of life": ecologists’ horror as nature reserves are emptied of insects
   https://www.theguardian.com/environment/2025/jun/03/climate-species-collapse-ecology-insects-nature-reserves-aoe
+* Vom Verschwinden: Ein Kunst-Forschungsprojekt zum Artenschutz in Leipzig zum Mitmachen
+  https://www.l-iz.de/kultur/lebensart/2025/06/vom-verschwinden-kunst-forschungsprojekt-artenschutz-leipzig-mitmachen-625910
+  https://vomverschwinden.de
 
 ## Transparenz
 * Bundesrechnungshof: Spahn verpulverte Milliarden
@@ -220,6 +241,8 @@ type: blog
   via https://chaos.social/@vsberichte/114665781971857124
 * Asylpolitik: Gericht: Auswärtiges Amt muss Lageberichte herausgeben
   https://www.tagesspiegel.de/berlin/asylpolitik-gericht-auswartiges-amt-muss-lageberichte-herausgeben-13849267.html  
+* Zu viel Geld, zu wenig Kontrolle: Bundesrechnungshof fordert Reform bei Bundeswehr
+  https://correctiv.org/bundesrechnungshof/2025/06/03/zu-viel-geld-zu-wenig-kontrolle-bundesrechnungshof-fordert-reform-bei-bundeswehr/
 
 ## USA
 * Climate.gov, which supports public education on climate science, will soon no longer publish new content
@@ -244,6 +267,10 @@ type: blog
 * AI Narrative Breakdown. A Critical Assessment of Power and Promise
   https://dl.acm.org/doi/10.1145/3715275.3732083
   via https://mastodon.bits-und-baeume.org/@Rainer_Rehak/114738515355919133
+* Semantic Search Evaluation Framework
+  https://github.com/machinelearningZH/semantic-search-eval
+* CURSOR
+  https://www.cursor.com
 
 ## Barrierefreiheit
 * Leichte Sprache
@@ -263,16 +290,44 @@ type: blog
   https://bonn.social/@bonndigital/114675536942045343
 * ESWC 2025 
   https://2025.eswc-conferences.org
+* Presentation & Expert Roundtable: ‘From Software to Society — Openness in a Changing World’
+  https://blog.okfn.org/2025/06/03/expert-roundtable-from-software-to-society-openness-in-a-changing-world/
+* Dataweek
+  https://www.dataweek.de/
+  https://www.youtube.com/@dataweekleipzig/streams
+* Re:publica
+  https://reset.org/wie-steht-es-um-die-digitale-gesellschaft-unsere-highlights-der-republica-2025-zum-nachschauen/
+
+## Und sonst so
+* Map of GitHub
+  https://anvaka.github.io/map-of-github/#2/0/0
 
 ## Fristen
 * Förderung 100xDigital, bis 7.7., 12 Uhr
   https://www.deutsche-stiftung-engagement-und-ehrenamt.de/foerderung/100xdigital/
+* EnviroInfo 2025: Open Data, Open Science, and Open Society for a sustainable future
+  https://enviroinfo2025.gi.de/call-for-papers
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * https://digitalegesellschaft.de/2025/06/148-netzpolitischer-abend/
+* https://pretalx.c3voc.de/chaos-feminist-convention-2025/schedule/
 * The Tech We People Online Summit 
   https://docs.google.com/forms/d/e/1FAIpQLSd3OJ98orq4Og8ZoNBTcxa71Maqut6W1xmrSiRTQUFtz13lug/viewform
 * https://bits-und-baeume.org/posts/sommerabend_2025/
+* Dienstag, 01.07.2025, 09:00, bis Samstag, 05.07.2025, 18:00, Pfadfinderheim Welfenhof, III. Koppelweg 6, 38518 Gifhorn: **Hacken Open Air 2::25** <a title='Kalendereintrag Hacken Open Air 2::25' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSGFja2VuIE9wZW4gQWlyIDI6OjI1Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNjA3VDA5MTkzNVoNCkRUU1RBUlQ6MjAyNTA3MDFUMDkwMDAwDQpEVEVORDoyMDI1MDcwNVQxODAwMDANClNVTU1BUlk6SGFja2VuIE9wZW4gQWlyIDI6OjI1DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2hhY2tlbm9wZW5haXIuZGUvaW5kZXguaHRtbA0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpQZmFkZmluZGVyaGVpbSBXZWxmZW5ob2ZcLCBJSUkuIEtvcHBlbHdlZyA2XCwgMzg1MTggR2lmaG9ybg0KR0VPOjUyLjQ2Mjg5OTE1OzEwLjYwNDU4NDQxNjI4NjU4OA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://hackenopenair.de/index.html
+* Dienstag, 01.07.2025, 10:00-16:30, Startplatz Köln, Im Mediapark 5, 50670 Köln: **Klimaaktiv-Event – Barcamp kommunaler Klimaschutz** <a title='Kalendereintrag Klimaaktiv-Event – Barcamp kommunaler Klimaschutz' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vS2xpbWFha3Rpdi1FdmVudCDigJMgQmFyY2FtcCBrb21tdW5hbGVyIEtsaW1hc2NodXR6Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNjA3VDA5MTkzNVoNCkRUU1RBUlQ6MjAyNTA3MDFUMTAwMDAwDQpEVEVORDoyMDI1MDcwMVQxNjMwMDANClNVTU1BUlk6S2xpbWFha3Rpdi1FdmVudCDigJMgQmFyY2FtcCBrb21tdW5hbGVyIEtsaW1hc2NodXR6DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpZnUuZGUvdmVyYW5zdGFsdHVuZ2VuLzIwMjUtMDctMDEva2xpbWFha3Rpdi1ldmVudC1iYXJjYW1wLWtvbW11bmFsZXIta2xpbWFzY2h1dHoNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046U3RhcnRwbGF0eiBLw7ZsblwsIEltIE1lZGlhcGFyayA1XCwgNTA2NzAgS8O2bG4NCkdFTzo1MC45NDg2ODA4OzYuOTQ0NzU4MQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://difu.de/veranstaltungen/2025-07-01/klimaaktiv-event-barcamp-kommunaler-klimaschutz
+* Freitag, 04.07.2025, 09:15, bis Sonntag, 06.07.2025, 17:30, Kulturhaus Eidelstedt, Alte Elbgaustraße 12, 22523 Hamburg: **Chaos Feminist Convention** <a title='Kalendereintrag Chaos Feminist Convention' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ2hhb3MgRmVtaW5pc3QgQ29udmVudGlvbi8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI1MDYwN1QwOTE5MzVaDQpEVFNUQVJUOjIwMjUwNzA0VDA5MTUwMA0KRFRFTkQ6MjAyNTA3MDZUMTczMDAwDQpTVU1NQVJZOkNoYW9zIEZlbWluaXN0IENvbnZlbnRpb24NCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vZXZlbnRzLmhhZWNrc2VuLm9yZy9jZmMyNS8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046S3VsdHVyaGF1cyBFaWRlbHN0ZWR0XCwgQWx0ZSBFbGJnYXVzdHJhw59lIDEyXCwgMjI1MjMgSGFtYnVyZw0KR0VPOjUzLjYwNzM4MTg7OS45MDMyMTg0DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://events.haecksen.org/cfc25/
+* Freitag, 04.07.2025, 16:00, bis Sonntag, 06.07.2025, 18:00, Aaccelerator, Blezingerstraße 15, 73430 Aalen: **FAT25 - Always watching** <a title='Kalendereintrag FAT25 - Always watching' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRkFUMjUgLSBBbHdheXMgd2F0Y2hpbmcvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTA2MDdUMDkxOTM1Wg0KRFRTVEFSVDoyMDI1MDcwNFQxNjAwMDANCkRURU5EOjIwMjUwNzA2VDE4MDAwMA0KU1VNTUFSWTpGQVQyNSAtIEFsd2F5cyB3YXRjaGluZw0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9oYWNrd2Vyay5mdW4vc3RhcnQNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046QWFjY2VsZXJhdG9yXCwgQmxlemluZ2Vyc3RyYcOfZSAxNVwsIDczNDMwIEFhbGVuDQpHRU86NDguODU0NDMyOTsxMC4wOTA2MzQ3DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://hackwerk.fun/start
+* Freitag, 04.07.2025, 17:30, bis Sonntag, 06.07.2025, 12:00, Jugendherberge Otto-Moericke-Turm Konstanz, Zur Allmannshöhe 16, 78464 Konstanz: **CorrelCon 2025 + 10 Jahre CorrelAid** <a title='Kalendereintrag CorrelCon 2025 + 10 Jahre CorrelAid' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ29ycmVsQ29uIDIwMjUgKyAxMCBKYWhyZSBDb3JyZWxBaWQvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTA2MDdUMDkxOTM1Wg0KRFRTVEFSVDoyMDI1MDcwNFQxNzMwMDANCkRURU5EOjIwMjUwNzA2VDEyMDAwMA0KU1VNTUFSWTpDb3JyZWxDb24gMjAyNSArIDEwIEphaHJlIENvcnJlbEFpZA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9jb3JyZWxhaWQub3JnL3ZlcmFuc3RhbHR1bmdlbi9jb3JyZWxjb24yMDI1Lw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpKdWdlbmRoZXJiZXJnZSBPdHRvLU1vZXJpY2tlLVR1cm0gS29uc3RhbnpcLCBadXIgQWxsbWFubnNow7ZoZSAxNlwsIDc4NDY0IEtvbnN0YW56DQpHRU86NDcuNjg3MTYzMjs5LjIwMzM0NjINCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+  * https://correlaid.org/veranstaltungen/correlcon2025/
+* Mittwoch, 09.07.2025, 20:00-21:30, online: **Open Transport Meetup: Holger Bruch - Deutschlandweiter GTFS Feed aus DELFI NeTEx Daten** <a title='Kalendereintrag Open Transport Meetup: Holger Bruch - Deutschlandweiter GTFS Feed aus DELFI NeTEx Daten' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3BlbiBUcmFuc3BvcnQgTWVldHVwOiBIb2xnZXIgQnJ1Y2ggLSBEZXV0c2NobGFuZHdlaXRlciBHVEZTIEZlZWQgYXVzIERFTEZJIE5lVEV4IERhdGVuLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNjA3VDA5MTkzNVoNCkRUU1RBUlQ6MjAyNTA3MDlUMjAwMDAwDQpEVEVORDoyMDI1MDcwOVQyMTMwMDANClNVTU1BUlk6T3BlbiBUcmFuc3BvcnQgTWVldHVwOiBIb2xnZXIgQnJ1Y2ggLSBEZXV0c2NobGFuZHdlaXRlciBHVEZTIEZlZWQgYXVzIERFTEZJIE5lVEV4IERhdGVuDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2hhY2ttZC5va2ZuLmRlL29wZW50cmFuc3BvcnRtZWV0dXANCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://hackmd.okfn.de/opentransportmeetup
+* Donnerstag, 10.07.2025, 11:00-12:00, online: **openCode Connect Juli 2025: GA-Lotse – Zukunftsfähige Verwaltungsdigitalisierung für Gesundheitsämter** <a title='Kalendereintrag openCode Connect Juli 2025: GA-Lotse – Zukunftsfähige Verwaltungsdigitalisierung für Gesundheitsämter' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vb3BlbkNvZGUgQ29ubmVjdCBKdWxpIDIwMjU6IEdBLUxvdHNlIOKAkyBadWt1bmZ0c2bDpGhpZ2UgVmVyd2FsdHVuZ3NkaWdpdGFsaXNpZXJ1bmcgZsO8ciBHZXN1bmRoZWl0c8OkbXRlci8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI1MDYwN1QwOTE5MzVaDQpEVFNUQVJUOjIwMjUwNzEwVDExMDAwMA0KRFRFTkQ6MjAyNTA3MTBUMTIwMDAwDQpTVU1NQVJZOm9wZW5Db2RlIENvbm5lY3QgSnVsaSAyMDI1OiBHQS1Mb3RzZSDigJMgWnVrdW5mdHNmw6RoaWdlIFZlcndhbHR1bmdzZGlnaXRhbGlzaWVydW5nIGbDvHIgR2VzdW5kaGVpdHPDpG10ZXINCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vb3BlbmNvZGUuZGUvZGUvYWt0dWVsbGVzL2V2ZW50cy9vcGVuY29kZS1jb25uZWN0LWp1bGktMjAyNS00NTY0DQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://opencode.de/de/aktuelles/events/opencode-connect-juli-2025-4564
 * Regelmäßige OKLab-Treffen
   * Flensburg: jeden Mittwoch, 18:00, Aktivitetshuset, Hinterhaus, Norderstraße 49, Flensburg <a title='Kalendereintrag Code for Flensburg - Weekly Meetup' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVkVWRU5ULy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNTMxVDE1MzQzOVoNCkRUU1RBUlQ6MjAyNTA2MDRUMTgwMDAwDQpEVEVORDoyMDI1MDMwNFQyMTAwMDANClNVTU1BUlk6T0tMYWIgRmxlbnNidXJnDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2NvZGVmb3IuZGUvZmxlbnNidXJnLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpBa3Rpdml0ZXRzaHVzZXRcLCBOb3JkZXJzdHJhw59lIDQ5XCwgMjQ5MzkgRmxlbnNidXJnDQpHRU86NTQuNzkxNTkxNzg1OTg1ODQ0OzkuNDMxMjQ5NjAxNjA5NjY1DQpSUlVMRTpGUkVRPVdFRUtMWTtVTlRJTD0yMDI1MTIzMTtJTlRFUlZBTD0xO0JZREFZPVdFDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
     * https://codefor.de/flensburg/
