@@ -1,0 +1,24 @@
+---
+title: "Solarpunk – Out in the Open Juni 2025"
+author: "Jörg Reichert (Code for Leipzig)"
+date: '2025-07-04T08:00:00+02:00'
+excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
+topic: community
+images:
+- imgname: out-in-the-open-2025-06-header.jpg
+  attribution: <a href="https://pixabay.com/photos/open-open-sign-leipzig-9631853/">Foto</a> von <a href="https://pixabay.com/users/sannsie-40193152/">sannsie</a> auf <a href="https://pixabay.com/">Pixabay</a>
+og_image: out-in-the-open-2025-06-header.jpg
+type: blog
+---
+## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
+* Regelmäßige OKLab-Treffen
+  * Flensburg: jeden Mittwoch, 18:00, Aktivitetshuset, Hinterhaus, Norderstraße 49, Flensburg <a title='Kalendereintrag Code for Flensburg - Weekly Meetup' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVkVWRU5ULy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNTMxVDE1MzQzOVoNCkRUU1RBUlQ6MjAyNTA2MDRUMTgwMDAwDQpEVEVORDoyMDI1MDMwNFQyMTAwMDANClNVTU1BUlk6T0tMYWIgRmxlbnNidXJnDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2NvZGVmb3IuZGUvZmxlbnNidXJnLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpBa3Rpdml0ZXRzaHVzZXRcLCBOb3JkZXJzdHJhw59lIDQ5XCwgMjQ5MzkgRmxlbnNidXJnDQpHRU86NTQuNzkxNTkxNzg1OTg1ODQ0OzkuNDMxMjQ5NjAxNjA5NjY1DQpSUlVMRTpGUkVRPVdFRUtMWTtVTlRJTD0yMDI1MTIzMTtJTlRFUlZBTD0xO0JZREFZPVdFDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+    * https://codefor.de/flensburg/
+  * Köln: jeden ersten Montag im Monat, 19:00, Hackländerstr. 2 (Wikipedia Lokal K) <a title='Kalendereintrag Code for Cologne - Biweekly Meetup' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVkVWRU5ULy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNTMxVDE1MzQzOVoNCkRUU1RBUlQ6MjAyNTA2MDJUMTkwMDAwDQpEVEVORDoyMDI1MDYwMlQyMjAwMDANClNVTU1BUlk6Q29kZSBmb3IgQ29sb2duZQ0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cubWVldHVwLmNvbS9kZS1ERS9jb2RlZm9yY29sb2duZS8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046V2lraXBlZGlhIExva2FsIEtcLCBIYWNrbMOkbmRlcnN0ciAyXCwgNTA4MjUgS8O2bG4NCkdFTzo1MC45NTU2MDExOzYuOTEwMzkxDQpSUlVMRTpGUkVRPU1PTlRITFk7VU5USUw9MjAyNTEyMzE7SU5URVJWQUw9MTtCWURBWT1NTw0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+    * https://www.meetup.com/de-DE/codeforcologne/
+  * Leipzig: jeden Mittwoch, 19:00, Peterssteinweg 14 (Basislager) <a title='Kalendereintrag OKLab Leipzig - Weekly Meetup' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVkVWRU5ULy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNTMxVDE1MzQzOVoNCkRUU1RBUlQ6MjAyNTA2MDRUMTkwMDAwDQpEVEVORDoyMDI1MDYwNFQyMjAwMDANClNVTU1BUlk6T0tMYWIgTGVpcHppZw0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cubWVldHVwLmNvbS9kZS1ERS9va2xhYi1sZWlwemlnLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpCYXNpc2xhZ2VyIENvd29ya2luZyBMZWlwemlnXCwgUGV0ZXJzc3RlaW53ZWcgMTRcLCAwNDEwNyBMZWlwemlnDQpHRU86NTEuMzMyMDc0NDsxMi4zNzM1Mzk5DQpSUlVMRTpGUkVRPVdFRUtMWTtVTlRJTD0yMDI1MTIzMTtJTlRFUlZBTD0xO0JZREFZPVdFDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+    * https://www.meetup.com/de-DE/oklab-leipzig/
+  * Münster: jeden Dienstag, 19:30, Cafe SpecOps network, Aegidiimarkt 5, 48155 Münster <a title='Kalendereintrag Code for Münster' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVkVWRU5ULy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNTMxVDE1MzQzOVoNCkRUU1RBUlQ6MjAyNTA2MDNUMTkzMDAwDQpEVEVORDoyMDI1MDMwNFQyMjAwMDANClNVTU1BUlk6Q29kZSBmb3IgTcO8bnN0ZXINCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vd3d3Lm1lZXR1cC5jb20vZGUtREUvY29kZS1mb3ItbXVuc3Rlci8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046Q2FmZSBTcGVjT3BzIG5ldHdvcmtcLCBBZWdpZGlpbWFya3QgNVwsIDQ4MTU1IE3DvG5zdGVyDQpHRU86NTEuOTYwNzE2Mjs3LjYyMjQ3MzINClJSVUxFOkZSRVE9V0VFS0xZO1VOVElMPTIwMjUxMjMxO0lOVEVSVkFMPTE7QllEQVk9VFUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+    * https://www.meetup.com/de-DE/code-for-munster/
+  * Niederrhein: jeden Dienstag, 20:00, online <a title='Kalendereintrag Code for Niederrhein - Weekly Online Meetup' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVkVWRU5ULy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNTMxVDE1MzQzOVoNCkRUU1RBUlQ6MjAyNTA2MDNUMjAwMDAwDQpEVEVORDoyMDI1MDYwM1QyMjAwMDANClNVTU1BUlk6Q29kZSBmb3IgTmllZGVycmhlaW4NCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vd3d3LmNvZGVmb3JuaWVkZXJyaGVpbi5kZS90ZXJtaW5lLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNClJSVUxFOkZSRVE9V0VFS0xZO1VOVElMPTIwMjUxMjMxO0lOVEVSVkFMPTE7QllEQVk9VFUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+    * https://www.codeforniederrhein.de/termine/
