@@ -12,59 +12,192 @@ type: blog
 ---
 
 ## Open Data
-* Neu in der OpenData-Familie: Verwaltungsgebiete 1:25.000 (VG25)
-  https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-25-000-stand-31-12-vg25.html
-  via https://social.bund.de/@BKG/114268256354054597
-* Die TopPlusOpen wurde aktualisiert!
-  https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2025/250409_TopPlusOpen.html
-  via https://social.bund.de/@BKG/114307223064610375
-* Schuldatenbank 4.0
-  https://norden.social/@oklabflensburg/114311981038803966
-  * Schulkarte für Schleswig-Holstein
-    https://schulkarte.oklabflensburg.de
-    via https://norden.social/@tomkyle/114312067684938704
-  * Nun sind alle 900 Schulen in Schleswig-Holstein mit Basisdaten in Wikidata eingetragen
-    https://norden.social/@MisterOpenData/114370089614039019
-* Gesucht: Listen von Landtagsabgeordneten möglichst aller Landtage (Landesparlamente) und Liste von Bundestagsabgeordneten
-  https://gruene.social/@marian/114323611229782857
-* Open Content: A practical guide to using CC licenses
-  https://irights.info/artikel/open-content-a-practical-guide-to-using-cc-licenses/32506#more-32506
-  via: https://mastodon.social/@irightsinfo/114340564800850609
-  * https://mastodon.social/@leibnizopenscience/114382224901801731
-* Kriminalitätsstatistik für Schleswig-Holstein 2024
-  https://opendata.schleswig-holstein.de/dataset/?tags=Kriminalit%C3%A4tsstatistik
-  via https://norden.social/@MisterOpenData/114353172541209506
-* Erster Entwurf einer interaktiven Bauplanauskunft, um Baupläne in Schleswig-Holstein digital und leicht zugänglich zu machen
-  https://bauplanauskunft.oklabflensburg.de
-  via https://norden.social/@oklabflensburg/114365549603076229
-* Die Freiheitsrechte klagt für den Rechtsanspruch auf Open Data
-  https://freiheitsrechte.org/themen/demokratie/open-data
-  via https://social.wikimedia.de/@wikimediaDE/114387795053536283
-* openByte Use Cases
-  https://oc.bydata.de/using/usecases
-  via https://www.linkedin.com/posts/dimitri-ravin_opendata-bayern-ugcPost-7316382539282042881-ULKn
-* Allerletzte Folge von "Statistisch gesehen"
-  https://statistisch-gesehen.captivate.fm/episode/was-zahlt-wenns-ums-zuhause-geht
-* OGD Cockpit
-  https://www.ogdcockpit.eu/OGD_Cockpit
-* DoorCE - Data Opener Central Europe
-  https://www.interreg-central.eu/projects/doorce/
-  https://www.linkedin.com/company/doorce?trk=public_post-text
-  * https://www.data.gv.at/wp-content/uploads/2023/07/Open_Data_Guideline.pdf
-* Sucht man aber über die Plattform der EU, deren Daten aus Deutschland eigentlich von GovData gecrawled, sind es gleich 3000 Datensätze mehr, nämlich rund 9000. 
-  https://norden.social/@datenschatz/114410461868067037
-* Moby releases hundreds of pieces of music "to provide free instrumental music for creators. any creators. all creators".
-  https://mobygratis.com
-  via https://social.vivaldi.net/@brucelawson/114426195519871758
-* Wie kann #OpenData für Bürger:innen, Wirtschaft & Verwaltung einen größeren Mehrwert bieten? Dieser Frage gehen Forschende der #TUDresden in einer aktuellen Umfrage nach.
-  https://tu-dresden.de/tu-dresden/newsportal/news/offene-daten-besser-sichtbar-und-nutzbar-machen-tud-wirtschaftsinformatiker-starten-online-umfrage
-  via https://wisskomm.social/@tudresden/114436908598097360
+### Nutzung
+Im Rahmen des Forschungsprojekts "Open Data für Bürger, Wirtschaft und Verwaltung" an der Technischen Universität Dresden (TUD) soll unter anderem untersucht werden, "welche Faktoren die Nutzung von Open-Data-Portalen maßgeblich beeinflussen und inwiefern persönliche Merkmale der Nutzerinnen und Nutzer die Erst- und Wiedernutzung von Open Data begünstigen oder hemmen". Dazu wurde [eine Online-Umfrage gestartet](https://tu-dresden.de/tu-dresden/newsportal/news/offene-daten-besser-sichtbar-und-nutzbar-machen-tud-wirtschaftsinformatiker-starten-online-umfrage), an der interessierte Dresdner Bürgerinnen und Bürger teilnehmen können.
 
-## Koalitionsvertrag
-* Koalitionsvertrag: Eine Reform der Gemeinnützigkeit?
-  https://radiocorax.de/das-gemeinnuetzigkeitsgesetz-braucht-eine-reform/
-* Koalitionsvertrag gefährdet Rechtsstaat
-  https://www.rav.de/publikationen/mitteilungen/mitteilung/koalitionsvertrag-gefaehrdet-rechtsstaat-1124
+Wie offene Daten in Bayern bereits genutzt werden, lässt sich in einer [Sammlung konkreter Anwendungsfällen](https://oc.bydata.de/using/usecases) des [open.bydata competence center](https://oc.bydata.de) entdecken. 
+
+### Lizensierung
+Allerdings ist leider nicht alles was frei abrufbar ist auch wirklich open: So kann man den Jahresbericht der Bundespolizei von 2023 zwar online frei herunterladen, allerdings hat sich die Behörde "alle Rechte vorbehalten" und somit bedarf jede Form der Weiterverwendung in Presse oder Forschung einer schriftlichen Erlaubnis. Die Gesellschaft für Freiheitsrechte möchte das nicht hinnehmen und [klagt nun für den Rechtsanspruch auf Open Data](https://freiheitsrechte.org/themen/demokratie/open-data), mit der Hoffnung, einen Präzedenzfall für Open-Data in Deutschland zu schaffen, wenn rechtlich geklärt wird, "dass jede Person einen konkreten Anspruch auf die freie Nutzung staatlich veröffentlichter Informationen hat – ohne besonderen Verwendungszweck".
+
+Das Open-Access-Buch [Creative Commons Public License (CCPL): Kommentar und Handbuch für die Rechtspraxis](https://www.scienceopen.com/hosted-document?doi=10.24921/2025.94115974) nimmt die erste [umfassende juristische Analyse](https://mastodon.social/@leibnizopenscience/114382224901801731) der Creative Commons-Lizenzen (unter anderem mit Bezügen zum Bürgerlichen Gesetzbuch (BGB)) vor. Mit dem [Open Content Leitfaden von Dr. Till Kreutzer (pdf)](https://irights.info/wp-content/uploads/2025/01/Open-Content_final_web.pdf) vom [iRights e.V.](https://irights.info/) gibt es auch [eine analoge Einordnung in englischer Sprache](https://mastodon.social/@irightsinfo/114340564800850609).
+
+### Neue bzw. aktualisierte Geodaten
+Der unter CC-BY-4.0-Lizenz veröffentlichte Datensatz [Verwaltungsgebiete 1:25 000 (VG25)](https://gdz.bkg.bund.de/index.php/default/verwaltungsgebiete-1-25-000-stand-31-12-vg25.html) enthält die Verwaltungseinheiten aller hierarchischen Verwaltungsebenen der Bundesrepublik Deutschland "vom Staat bis zu den Gemeinden mit den jeweiligen Verwaltungsgrenzen, statistischen Schlüsselzahlen, den Namen der Verwaltungseinheiten sowie der spezifischen Bezeichnungen der Verwaltungsebenen" [mit Stand zum 31.12.2024](https://social.bund.de/@BKG/114268256354054597).
+
+Die Daten des [TopPlusOpen](https://sg.geodatenzentrum.de/web_public/gdz/dokumentation/deu/TopPlusOpen.pdf) Angebots des Bundesamts für Kartografie und Geodäsie (BKG) enthalten [nach einem Update](https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2025/250409_TopPlusOpen.html) neben diversen Verbesserungen nun auch die amtlichen Geodaten von Sachsen-Anhalt und Schleswig-Holstein. Sie sind Open Data als Web Map Service (WMS) und als Web Map Tile Service (WMTS) beziehbar.
+
+### Open Data in Schleswig-Holstein
+Das [OKLab Flensburg](https://codefor.de/flensburg/) wollte im Zuge ihrer Entwicklung eine [Schulkarte für Schleswig-Holstein](https://schulkarte.oklabflensburg.de) die Schulen gleich über ihre Schulnummer als Externe ID in Wikidata zu integrieren und [fragte auf Mastodon nach Unterstützung](https://norden.social/@oklabflensburg/114311981038803966). Über diese Verknüpfung wäre es möglich, die Karte mit Fotos der Schulen aus WikiCommons [anzureichern](https://norden.social/@tomkyle/114312067684938704). Mister Open Data konnte zum Glück helfen, und hat die 900 Schulen [mit ihren Basisinformationen in Wikidata angelegt](https://norden.social/@MisterOpenData/114370089614039019).
+
+Ein [weiteres Projekt](https://bauplanauskunft.oklabflensburg.de) des OKLabs versucht sich an einer interaktiver Bauplanauskunft, um Baupläne in Schleswig-Holstein [digital und leicht zugänglich zu machen](https://norden.social/@oklabflensburg/114365549603076229).
+
+Was man wohl mit den [Daten der polizeilichen Kriminalitätsstatistik Schleswig-Holsteins](https://opendata.schleswig-holstein.de/dataset/?tags=Kriminalit%C3%A4tsstatistik), die nun für 2024 maschinenlesbar im Open Data Portal [vorliegen](https://norden.social/@MisterOpenData/114353172541209506), anstellen könnte?
+
+### Methodik
+Wie [Datenschatz feststellen musste](https://norden.social/@datenschatz/114410461868067037) weisen [Govdata](https://www.govdata.de/suche?hvd=has_hvd) und  [data.europa.eu](https://data.europa.eu/data/datasets?locale=en&query=&page=179&filter=datasets&minScoring=0&is_hvd=true&country=de&minDate&maxDate&limit=50) eine unterschiedliche Anzahl an Treffern für deutsche High Value Datasets (HVD) aus.
+
+Das Aufdecken und Beheben solcher Inkonsistenzen ist auch Teil eines kontinuierlichen Datenmonitorings, welches im Projekt [Open Government Data (OGD) Cockpit](https://www.ogdcockpit.eu/OGD_Cockpit) genutzte [Vorgehensmodell](https://www.kdz.eu/de/wissen/studien/open-government-vorgehensmodell) vorsieht.
+
+Ein weiteres Projekt, [DoorCE - Data Opener Central Europe](https://www.interreg-central.eu/projects/doorce/), will Zugänglichkeit und Aktualität durch lokale Open Data Hubs sowie [weiteren Strategien und Werkzeugen](https://www.linkedin.com/company/doorce) fördern.
+
+Um an eine aktuelle Liste von Landtagsabgeordneten und Bundestagsabgeordneten zu kommen, ist auch immer [noch nicht ganz einfach](https://gruene.social/@marian/114323611229782857).
+
+Einlick in die Methodik einer Bevölkerungsbefragung geben die Gäste [in der allerletzten Folge](https://statistisch-gesehen.captivate.fm/episode/was-zahlt-wenns-ums-zuhause-geht) des schweizer Podcasts "Statistisch gesehen". 
+
+### Berichte vom Hackday Moers und vom Open Data Barcamp
+Im Vorfeld der [Hackdays Moers](https://www.codeforniederrhein.de/hackday-2025/), die dieses Jahr ihr 10-jähiges Jubiläum [feierten](https://rp-online.de/nrw/staedte/moers/moers-alle-infos-zum-jubilaeums-hackday-im-april_aid-125484853), wurde das unterstützende [Code for Niederrhein](https://www.codeforniederrhein.de) in der Regionalpresse[vorgestellt](https://archive.ph/UfsvQ). Fotos und Präsentationen der zweitägigen Veranstaltung selbst sind [hier einsehbar](https://wakelet.com/wake/Zhe3jMiQXtTOVFd816KNB). Nach dem eher Verwaltungs-Crowd-pleasenden und daher sehr KI-huldigenden ersten Tag war der zweite Tag eher klassisch Community-getrieben auf Open Data, speziell dem aktuellen Umsetzungsstand von Linked Open Data ausgerichtet.
+
+Nur ein paar Tage später trafen zum Teil die gleichen Akteure beim [Open Data Barcamp](https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/4-open-data-barcamp-2025-einladungsseite) in Erfurt wieder aufeinander. Die Sessions wurden [in Pads dokumentiert](https://pad.bonn.digital/p/OpenData25):
+* [Petra Schwerdtfeger (Smart City Beauftragte Aschaffenburg): Das (Open) Data Ökosystem (Bsp. Stadt Aschaffenburg)](https://pad.bonn.digital/p/OpenData25_Paganini_S1)
+* [Daniel Höhmann (De Fakto Politik): Das KPI Dashboard für Deutschland](https://pad.bonn.digital/p/OpenData25_Schumann_S3)
+* [Mario Wiedemann (Bertelsmann Stiftung), Damian Paderta: Der Datenatlas Zivilgesellschaft](https://pad.bonn.digital/p/OpenData25_Paganini_S3)
+* [Ben Gläser, Benjamin Degenhart (Förderfunke): Die Rezepte zu den Zutaten liefern - Das Potential von machinenlesbaren Regeln](https://pad.bonn.digital/p/OpenData25_Schumann_S2)
+* [Jan Taubitz, Luca Vellage: Digitale Gesetzgebung- Stellungnahmen als Open Data](https://pad.bonn.digital/p/OpenData25_Paganini_S2)
+* [Stefan Kaufmann (Wikimedia Deutschland e. V.): Entzaubert generative KI!](https://pad.bonn.digital/p/OpenData25_Paganini_S4)
+* [umwelt.info: Es lebe die Datenvielfalt](https://pad.bonn.digital/p/OpenData25_Liszt_S1)
+* [Roland Judas: Knowledge Graphs](https://pad.bonn.digital/p/OpenData25_Liszt_S3)
+* [Holger Bruch: Mobilitätsdaten teilen aus kommunaler Sicht](https://pad.bonn.digital/p/OpenData25_Liszt_S4)
+* [Bernhard Krabina - OGD Cockpit](https://pad.bonn.digital/p/OpenData25_Bach_S2)
+* [Bernhard Krabina - Open Data EU- Projekt Door CE](https://pad.bonn.digital/p/OpenData25_Bach_S3)
+* [Betül Özdemir (Open Data Beauftragte Berlin): Open Data Governance Framework](https://pad.bonn.digital/p/OpenData25_Schumann_S1)
+* [Leo Preu (CorrelAid) - Open Data nicht im Fokus - Wie offene Daten in Zivilgesellschaftlichen Datenprojekten nebenbei entstehen - Open Data als (Teil-) Output in der Zivilgesellschaft](https://pad.bonn.digital/p/OpenData25_Schumann_S4)
+* [Stefan Kaufmann (Wikimedia Deutschland e. V.): Praxisaustausch Linked Open Data und semantische Interoperabilität](https://pad.bonn.digital/p/OpenData25_Bach_S4)
+* [Victoria Boeck (IBM iX): Shared Data als Türöffner für Open Data](https://pad.bonn.digital/p/OpenData25_Bach_S1)
+* [Stephan Venus (Venus GmbH), Oliver Rauh: Social Knowledge Graph](https://pad.bonn.digital/p/OpenData25_Liszt_S2)
+
+## Digitalpolitik
+* Koalitionsvertrag: Das planen Union und SPD in der Netzpolitik
+  https://netzpolitik.org/2025/koalitionsvertrag-das-planen-union-und-spd-in-der-netzpolitik/
+  * Überwachung, Datenschatzsuche und viel KI
+    https://taz.de/Digitalpolitik-im-Koalitionsvertrag/!6083045/
+  * Koalitionsvertrag: The Good, the Bad and the Ugly
+    https://www.socialmediawatchblog.de/koalitionsvertrag-the-good-the-bad-and-the-ugly/
+* 46. Sitzung des IT-Planungsrates
+  https://egovernment-podcast.com/egov216-46-itplr/
+* egovernment Podcast Monatsschau 04/25
+  https://egovernment-podcast.com/egov217-monatsschau-04-25/
+
+## Digitale Souveränität
+* BWI & ZenDiS schließen Rahmenvertrag über souveräne Kommunikations- und Kollaborationslösungen
+  https://zendis.de/ressourcen/bwi-und-zendis-schliessen-rahmenvertrag-ueber-souveraene-kommunikations-und-kollaborationsloesungen
+  via https://social.bund.de/@zendis/114280109378281048
+* Interview: "Wir müssen nicht digital souverän werden"
+  https://netzpolitik.org/2025/interview-wir-muessen-nicht-digital-souveraen-werden/
+  via https://chaos.social/@netzpolitik_feed/114283951629305233
+* US-Clouds bleiben trotz EU-Servern und Verschlüsselung angreifbar – rechtlich, technisch und geopolitisch. Digitale Souveränität? Eher Illusion
+  https://www.kuketz-blog.de/server-in-der-eu-und-eigene-schluessel-schuetzt-das-vor-us-zugriffen/
+  via https://social.tchncs.de/@kuketzblog/114303585772140204
+* Digital Open Public Space, Offenheit als Default
+  https://netzpolitik.org/2025/neues-aus-dem-fernsehrat-111-es-braucht-oeffentlich-rechtliche-regenmacher/
+  via https://chaos.social/@netzpolitik_feed/114318816271712378
+  * Das neue Gutachten des ZDF zum "Digital Public Value" liefert spannende Antworten – und rückt Open Content in den Fokus. 
+    https://social.wikimedia.de/@wikimediaDE/114348290319257531
+  * Weil kaum jemand Zeit hat, die 100+ Seiten der Studie zu Potenzialen für Digitalen Public Value im ZDF zu lesen, hier ein kurzer Thread mit den drei zentralen Botschaften
+    https://chaos.social/@leonido/114320176058078817
+* Die Sicherheit digitaler Systeme hängt von der Qualität der Komponenten ihrer Lieferkette ab
+  https://opencode.de/de/ssdlc
+  https://social.bund.de/@zendis/114341200994586777
+* Zentrum für digitale Souveränität: Ohne Strategie ist es nur ein Feigenblatt
+  https://netzpolitik.org/2025/zentrum-fuer-digitale-souveraenitaet-ohne-strategie-ist-es-nur-ein-feigenblatt/
+* Verwaltung in der Cloud: Bund macht sich abhängig von Amazon und Co.
+  https://netzpolitik.org/2025/verwaltung-in-der-cloud-bund-macht-sich-abhaengig-von-amazon-und-co/
+  * Kosten für Clouddienste werden massiv unterschätzt
+    https://www.golem.de/news/bundescloud-kosten-fuer-clouddienste-werden-massiv-unterschaetzt-2504-195505.html
+    via https://gruene.social/@norbert/114375957989926175
+* Landesprogramm Offene Innovation: Call for Concepts 2025
+  https://digitalhub.sh/de/call-for-concept-zum-landesprogramm-offene-innovation_allgemein
+* Die GI fordert nun in ihrer neusten Pressemitteilung die flächendeckende Implementierung von openDesk für die gesamte deutsche Verwaltung innerhalb der nächsten Legislatur. 
+  https://gi.de/meldung/milliarden-einsparpotenzial-gi-arbeitskreise-fordern-verbindlichen-rollout-von-opendesk
+
+## Open Source
+* ZOOOM-Initiative: "Die Zukunft gehört Open Source"
+  https://reset.org/die-zukunft-gehoert-open-source/
+* The EU Open Source Solutions Catalogue is now live
+  https://interoperable-europe.ec.europa.eu/interoperable-europe/news/eu-open-source-solutions-catalogue-now-live
+* Weltpolitik: Was die Politik von Open-Source-Communitys lernen kann
+  https://www.golem.de/news/weltpolitk-was-die-politik-von-open-source-communitys-lernen-kann-2504-195046.html
+* Patricio Del Boca: ‘What we need is concrete tech for the people who need it, and nothing else’
+  https://blog.okfn.org/2025/04/28/patricio-del-boca-what-we-need-is-concrete-tech-for-the-people-who-need-it-and-nothing-else/
+
+## Transparenz
+* Bericht: Macht des Bundeskartellamts soll beschränkt werden
+  https://www.msn.com/de-de/politik/beh%C3%B6rde/bericht-macht-des-bundeskartellamts-soll-beschr%C3%A4nkt-werden/ar-AA1ChxAS
+* Prüfungsaufgaben dürfen nicht privatisiert & kapitalisiert werden
+  https://fragdenstaat.de/kampagnen/verschlusssache-pruefung/
+  via https://chaos.social/@fragdenstaat/114301269950199345
+* Wie Lobbyist:innen versuchten, den Koalitionsvertrag mitzuschreiben
+  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/wie-lobbyistinnen-versuchten-den-koalitionsvertrag-mitzuschreiben
+* Unions-Regierungspersonal: LobbyControl warnt vor Interessenkonflikten
+  https://www.lobbycontrol.de/pressemitteilung/unions-regierungspersonal-lobbycontrol-warnt-vor-interessenkonflikten-120720/
+
+## Rechtsextremismus
+* Im Berliner Bezirk Neukölln wird ein Bericht zum Rechtsextremismus zurückgezogen – wohl aus Angst vor CDU und AfD. Dann veröffentlicht ihn eben die taz.
+  https://taz.de/Rechtsextremismus-Bericht-in-Neukoelln/!6085022/
+* Für AfD-Verbotsverfahren: Linke will vollständigen Einblick ins Geheim-Gutachten
+  https://www.fr.de/politik/geheim-gutachten-fuer-afd-verbotsverfahren-linke-will-vollstaendigen-einblick-ins-zr-93711355.html
+
+## Überwachung
+* EU-Konzept: So sollen die Alterskontrollen im Netz ablaufen
+  https://netzpolitik.org/2025/eu-konzept-so-sollen-die-alterskontrollen-im-netz-ablaufen/
+* Grundrecht auf Digitale Integrität
+  https://www.digitale-gesellschaft.ch/event/netzpolitischer-abend-zu-digitale-integritaet/
+* Verbunddateien, Datenbanken, Auskunftssysteme: Sensible Informationen über Menschen aus Polizeisystemen soll Palantir künftig zusammenrühren dürfen
+  https://netzpolitik.org/2025/automatisierte-rasterfahndung-tuer-zu-fuer-palantir-und-co/
+* Hackathon: IRS und DOGE wollen Steuerdaten der US-Bürger in Palantir heben
+  https://www.heise.de/news/Hackathon-IRS-und-DOGE-wollen-Steuerdaten-der-US-Buerger-in-Palantir-heben-10349796.html
+* Keine Palantir-Konkurrenz in Sicht
+  https://netzpolitik.org/2025/polizeidatenbanken-keine-palantir-konkurrenz-in-sicht/
+* Hier werden Protestierende mit Gesichtserkennung verfolgt
+  https://netzpolitik.org/2025/biometrie-weltweit-hier-werden-protestierende-mit-gesichtserkennung-verfolgt/
+* Eine Glaskugel für die Polizei
+  https://jungle.world/artikel/2025/16/palantir-ueberwachung-eine-glaskugel-fuer-die-polizei
+
+## USA
+* Massive, Unarchivable Datasets of Cancer, Covid, and Alzheimer's Research Could Be Lost Forever
+  https://www.404media.co/nih-archives-repositories-marked-for-review-for-potential-modification/
+  via https://fediscience.org/@petersuber/114286033270529174
+* Whistleblower reveals evidence on how Elon Musk's DOGE team extracted 10 GB of sensitive data about American citizens from a government agency, and then deleted accounts and logs to cover their tracks.
+  https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security
+  via https://mastodon.social/@randahl/114346914464423816
+* CVE-Aus abgewendet, Schwachstellendatenbank der EU geht an den Start
+  https://www.heise.de/news/Nach-drohendem-CVE-Aus-Schwachstellendatenbank-der-EU-geht-an-den-Start-10354324.html
+* "Trump’s War on Measurement Means Losing Data on Drug Use, Maternal Mortality, Climate Change and More"
+  https://www.propublica.org/article/trump-doge-data-collection-hhs-epa-cdc-maternal-mortality
+  via https://fediscience.org/@petersuber/114360159587312186
+* "With the recent announcement that numerous datasets — such as those from #NOAA — are scheduled for decommissioning in May, #PANGAEA has opened its archive to help safeguard these valuable resources. If you become aware of any endangered datasets, please don't hesitate to contact us. PANGAEA data!"
+  https://pangaea.de
+  via https://fediscience.org/@petersuber/114359552828366397
+* Deutsche Forscher retten US-Datenbestände
+  https://www.tagesschau.de/investigativ/mdr/usa-forschung-datensicherung-100.html
+* U.S. climate data websites go dark
+  https://www.science.org/content/article/us-climate-data-websites-go-dark
+* Wer in die USA einreist, muss sich einer Gefühlserkennung durch KI stellen
+  https://www.derstandard.at/story/3000000266068/wer-in-die-usa-einreist-muss-sich-einer-gefuehlserkennung-durch-ki-stellen
+* Defend the Internet Archive. Protect the Wayback Machine.
+  https://chaos.social/@mschabhuettl/114391528726376847
+  * Internet Archive wehrt sich gegen "existenzgefährdende" Klage der Musikindustrie
+    https://www.derstandard.at/story/3000000266915/internet-archive-wehrt-sich-gegen-existenzgefaehrdende-klage-der-musikindustrie
+* Reaktion auf US-Zölle: Big Tech besteuern würde Trump treffen
+  https://taz.de/Reaktion-auf-US-Zoelle/!6077524/
+* Today, we have fined Apple and Meta for breaching the Digital Markets Act. 
+  https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1085
+  via https://ec.social-network.europa.eu/@EUCommission/114387327556178812
+  * 700 Millionen Euro Strafe gegen Apple und Meta
+    https://www.tagesschau.de/wirtschaft/unternehmen/apple-meta-eu-millionenstrafen-100.html
+  * Millionenschwere Wettbewerbsstrafen für Apple und Meta
+    https://netzpolitik.org/2025/digital-markets-act-millionenschwere-wettbewerbsstrafen-fuer-apple-und-meta/
+* EZB warnt vor Marktmacht von drei US-Anbietern in Europa
+  https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/geld-ezb-warnt-vor-marktmacht-von-drei-us-anbietern-in-europa/100120875.html
+  via https://bsky.app/profile/finanzwende.bsky.social/post/3lnfoqcgmac2r
+* US dismisses all authors of National Climate Assessment, email says
+  https://www.msn.com/en-us/news/politics/us-dismisses-all-authors-of-national-climate-assessment-email-says/ar-AA1DQX1u
+* Peter Suber on science in danger: “Host your open and uncensored research in more than one place and preferably more than one country.”
+  https://www.zbw-mediatalk.eu/2025/04/peter-suber-on-science-in-danger-host-your-open-and-uncensored-research-in-more-than-one-place-and-preferably-more-than-one-country/
+* The Trump administration is dismantling cancer research
+  https://www.splinter.com/national-cancer-institute-apparently-shouldnt-bother-with-all-that-pesky-science
+  via https://med-mastodon.com/@luckytran/114428268562907780
+
 
 ## Klima
 * Das 1,5-Grad-Ziel nach dem Übereinkommen von Paris
@@ -178,89 +311,6 @@ type: blog
   https://app.freifahren.org
   via https://chaos.social/@tbsprs/114422644904057761
 
-## Kultur
-* "Da stehe ich nun" – Wenn Daten zu flüstern beginnen: Kunst, KI und die Stimme Wiens
-  https://www.data.gv.at/2025/04/18/da-stehe-ich-nun-wenn-daten-zu-fluestern-beginnen-kunst-ki-und-die-stimme-wiens/
-  https://da-stehe-ich-nun.palacz.at
-* Interaktive Zeitreise: Neue Augmented-Reality-Stationen in der Oberlausitz machen Geschichte lebendig
-  https://sachsen.tourismusnetzwerk.info/2025/04/07/interaktive-zeitreise-neue-augmented-reality-stationen-in-der-oberlausitz-machen-geschichte-lebendig/
-  via https://www.linkedin.com/posts/urban-digital-de_in-der-oberlausitz-erm%C3%B6glichen-neue-augmented-reality-stationen-activity-7317788979087466496-xPpX
-* RaDiHum20 spricht mit Verterter*innen der Humanities@NFDI
-  https://radihum20.de/radihum20-spricht-mit-verterterinnen-der-humanitiesnfdi/
-* Wir haben ein neues #OpenGLAM Feature: Auf einer Übersichtsseite stellen wir einen Gesamtabzug der #Metadaten von Berliner Einrichtungen bereit.
-  https://www.digis-online.de/objects/berlinOpenGLAMdata/
-  via https://openbiblio.social/@digiSberlin/114352892890117038
-
-## Digitalpolitik
-* Koalitionsvertrag: Das planen Union und SPD in der Netzpolitik
-  https://netzpolitik.org/2025/koalitionsvertrag-das-planen-union-und-spd-in-der-netzpolitik/
-  * Überwachung, Datenschatzsuche und viel KI
-    https://taz.de/Digitalpolitik-im-Koalitionsvertrag/!6083045/
-  * Koalitionsvertrag: The Good, the Bad and the Ugly
-    https://www.socialmediawatchblog.de/koalitionsvertrag-the-good-the-bad-and-the-ugly/
-* 46. Sitzung des IT-Planungsrates
-  https://egovernment-podcast.com/egov216-46-itplr/
-* egovernment Podcast Monatsschau 04/25
-  https://egovernment-podcast.com/egov217-monatsschau-04-25/
-
-## Digitale Souveränität
-* BWI & ZenDiS schließen Rahmenvertrag über souveräne Kommunikations- und Kollaborationslösungen
-  https://zendis.de/ressourcen/bwi-und-zendis-schliessen-rahmenvertrag-ueber-souveraene-kommunikations-und-kollaborationsloesungen
-  via https://social.bund.de/@zendis/114280109378281048
-* Interview: "Wir müssen nicht digital souverän werden"
-  https://netzpolitik.org/2025/interview-wir-muessen-nicht-digital-souveraen-werden/
-  via https://chaos.social/@netzpolitik_feed/114283951629305233
-* US-Clouds bleiben trotz EU-Servern und Verschlüsselung angreifbar – rechtlich, technisch und geopolitisch. Digitale Souveränität? Eher Illusion
-  https://www.kuketz-blog.de/server-in-der-eu-und-eigene-schluessel-schuetzt-das-vor-us-zugriffen/
-  via https://social.tchncs.de/@kuketzblog/114303585772140204
-* Digital Open Public Space, Offenheit als Default
-  https://netzpolitik.org/2025/neues-aus-dem-fernsehrat-111-es-braucht-oeffentlich-rechtliche-regenmacher/
-  via https://chaos.social/@netzpolitik_feed/114318816271712378
-  * Das neue Gutachten des ZDF zum "Digital Public Value" liefert spannende Antworten – und rückt Open Content in den Fokus. 
-    https://social.wikimedia.de/@wikimediaDE/114348290319257531
-  * Weil kaum jemand Zeit hat, die 100+ Seiten der Studie zu Potenzialen für Digitalen Public Value im ZDF zu lesen, hier ein kurzer Thread mit den drei zentralen Botschaften
-    https://chaos.social/@leonido/114320176058078817
-* Die Sicherheit digitaler Systeme hängt von der Qualität der Komponenten ihrer Lieferkette ab
-  https://opencode.de/de/ssdlc
-  https://social.bund.de/@zendis/114341200994586777
-* Zentrum für digitale Souveränität: Ohne Strategie ist es nur ein Feigenblatt
-  https://netzpolitik.org/2025/zentrum-fuer-digitale-souveraenitaet-ohne-strategie-ist-es-nur-ein-feigenblatt/
-* Verwaltung in der Cloud: Bund macht sich abhängig von Amazon und Co.
-  https://netzpolitik.org/2025/verwaltung-in-der-cloud-bund-macht-sich-abhaengig-von-amazon-und-co/
-  * Kosten für Clouddienste werden massiv unterschätzt
-    https://www.golem.de/news/bundescloud-kosten-fuer-clouddienste-werden-massiv-unterschaetzt-2504-195505.html
-    via https://gruene.social/@norbert/114375957989926175
-* Landesprogramm Offene Innovation: Call for Concepts 2025
-  https://digitalhub.sh/de/call-for-concept-zum-landesprogramm-offene-innovation_allgemein
-* Die GI fordert nun in ihrer neusten Pressemitteilung die flächendeckende Implementierung von openDesk für die gesamte deutsche Verwaltung innerhalb der nächsten Legislatur. 
-  https://gi.de/meldung/milliarden-einsparpotenzial-gi-arbeitskreise-fordern-verbindlichen-rollout-von-opendesk
-
-## Open Source
-* ZOOOM-Initiative: "Die Zukunft gehört Open Source"
-  https://reset.org/die-zukunft-gehoert-open-source/
-* The EU Open Source Solutions Catalogue is now live
-  https://interoperable-europe.ec.europa.eu/interoperable-europe/news/eu-open-source-solutions-catalogue-now-live
-* Weltpolitik: Was die Politik von Open-Source-Communitys lernen kann
-  https://www.golem.de/news/weltpolitk-was-die-politik-von-open-source-communitys-lernen-kann-2504-195046.html
-* Patricio Del Boca: ‘What we need is concrete tech for the people who need it, and nothing else’
-  https://blog.okfn.org/2025/04/28/patricio-del-boca-what-we-need-is-concrete-tech-for-the-people-who-need-it-and-nothing-else/
-
-## Überwachung
-* EU-Konzept: So sollen die Alterskontrollen im Netz ablaufen
-  https://netzpolitik.org/2025/eu-konzept-so-sollen-die-alterskontrollen-im-netz-ablaufen/
-* Grundrecht auf Digitale Integrität
-  https://www.digitale-gesellschaft.ch/event/netzpolitischer-abend-zu-digitale-integritaet/
-* Verbunddateien, Datenbanken, Auskunftssysteme: Sensible Informationen über Menschen aus Polizeisystemen soll Palantir künftig zusammenrühren dürfen
-  https://netzpolitik.org/2025/automatisierte-rasterfahndung-tuer-zu-fuer-palantir-und-co/
-* Hackathon: IRS und DOGE wollen Steuerdaten der US-Bürger in Palantir heben
-  https://www.heise.de/news/Hackathon-IRS-und-DOGE-wollen-Steuerdaten-der-US-Buerger-in-Palantir-heben-10349796.html
-* Keine Palantir-Konkurrenz in Sicht
-  https://netzpolitik.org/2025/polizeidatenbanken-keine-palantir-konkurrenz-in-sicht/
-* Hier werden Protestierende mit Gesichtserkennung verfolgt
-  https://netzpolitik.org/2025/biometrie-weltweit-hier-werden-protestierende-mit-gesichtserkennung-verfolgt/
-* Eine Glaskugel für die Polizei
-  https://jungle.world/artikel/2025/16/palantir-ueberwachung-eine-glaskugel-fuer-die-polizei
-
 ## Karten / Geo-Daten
 * The Earth Observation API
   https://eoapi.dev
@@ -298,69 +348,22 @@ type: blog
 * COORDINATE ME 2025 ist ein internationaler Wikidata-Wettbewerb rund um Geodaten
   https://m.wikidata.org/wiki/Wikidata:Events/Coordinate_Me_2025/de
 
-## USA
-* Massive, Unarchivable Datasets of Cancer, Covid, and Alzheimer's Research Could Be Lost Forever
-  https://www.404media.co/nih-archives-repositories-marked-for-review-for-potential-modification/
-  via https://fediscience.org/@petersuber/114286033270529174
-* Whistleblower reveals evidence on how Elon Musk's DOGE team extracted 10 GB of sensitive data about American citizens from a government agency, and then deleted accounts and logs to cover their tracks.
-  https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security
-  via https://mastodon.social/@randahl/114346914464423816
-* CVE-Aus abgewendet, Schwachstellendatenbank der EU geht an den Start
-  https://www.heise.de/news/Nach-drohendem-CVE-Aus-Schwachstellendatenbank-der-EU-geht-an-den-Start-10354324.html
-* "Trump’s War on Measurement Means Losing Data on Drug Use, Maternal Mortality, Climate Change and More"
-  https://www.propublica.org/article/trump-doge-data-collection-hhs-epa-cdc-maternal-mortality
-  via https://fediscience.org/@petersuber/114360159587312186
-* "With the recent announcement that numerous datasets — such as those from #NOAA — are scheduled for decommissioning in May, #PANGAEA has opened its archive to help safeguard these valuable resources. If you become aware of any endangered datasets, please don't hesitate to contact us. PANGAEA data!"
-  https://pangaea.de
-  via https://fediscience.org/@petersuber/114359552828366397
-* Deutsche Forscher retten US-Datenbestände
-  https://www.tagesschau.de/investigativ/mdr/usa-forschung-datensicherung-100.html
-* U.S. climate data websites go dark
-  https://www.science.org/content/article/us-climate-data-websites-go-dark
-* Wer in die USA einreist, muss sich einer Gefühlserkennung durch KI stellen
-  https://www.derstandard.at/story/3000000266068/wer-in-die-usa-einreist-muss-sich-einer-gefuehlserkennung-durch-ki-stellen
-* Defend the Internet Archive. Protect the Wayback Machine.
-  https://chaos.social/@mschabhuettl/114391528726376847
-  * Internet Archive wehrt sich gegen "existenzgefährdende" Klage der Musikindustrie
-    https://www.derstandard.at/story/3000000266915/internet-archive-wehrt-sich-gegen-existenzgefaehrdende-klage-der-musikindustrie
-* Reaktion auf US-Zölle: Big Tech besteuern würde Trump treffen
-  https://taz.de/Reaktion-auf-US-Zoelle/!6077524/
-* Today, we have fined Apple and Meta for breaching the Digital Markets Act. 
-  https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1085
-  via https://ec.social-network.europa.eu/@EUCommission/114387327556178812
-  * 700 Millionen Euro Strafe gegen Apple und Meta
-    https://www.tagesschau.de/wirtschaft/unternehmen/apple-meta-eu-millionenstrafen-100.html
-  * Millionenschwere Wettbewerbsstrafen für Apple und Meta
-    https://netzpolitik.org/2025/digital-markets-act-millionenschwere-wettbewerbsstrafen-fuer-apple-und-meta/
-* EZB warnt vor Marktmacht von drei US-Anbietern in Europa
-  https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/geld-ezb-warnt-vor-marktmacht-von-drei-us-anbietern-in-europa/100120875.html
-  via https://bsky.app/profile/finanzwende.bsky.social/post/3lnfoqcgmac2r
-* US dismisses all authors of National Climate Assessment, email says
-  https://www.msn.com/en-us/news/politics/us-dismisses-all-authors-of-national-climate-assessment-email-says/ar-AA1DQX1u
-* Peter Suber on science in danger: “Host your open and uncensored research in more than one place and preferably more than one country.”
-  https://www.zbw-mediatalk.eu/2025/04/peter-suber-on-science-in-danger-host-your-open-and-uncensored-research-in-more-than-one-place-and-preferably-more-than-one-country/
-* The Trump administration is dismantling cancer research
-  https://www.splinter.com/national-cancer-institute-apparently-shouldnt-bother-with-all-that-pesky-science
-  via https://med-mastodon.com/@luckytran/114428268562907780
 
-## Transparenz
-* Bericht: Macht des Bundeskartellamts soll beschränkt werden
-  https://www.msn.com/de-de/politik/beh%C3%B6rde/bericht-macht-des-bundeskartellamts-soll-beschr%C3%A4nkt-werden/ar-AA1ChxAS
-* Prüfungsaufgaben dürfen nicht privatisiert & kapitalisiert werden
-  https://fragdenstaat.de/kampagnen/verschlusssache-pruefung/
-  via https://chaos.social/@fragdenstaat/114301269950199345
-* Wie Lobbyist:innen versuchten, den Koalitionsvertrag mitzuschreiben
-  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/wie-lobbyistinnen-versuchten-den-koalitionsvertrag-mitzuschreiben
-* Unions-Regierungspersonal: LobbyControl warnt vor Interessenkonflikten
-  https://www.lobbycontrol.de/pressemitteilung/unions-regierungspersonal-lobbycontrol-warnt-vor-interessenkonflikten-120720/
-
-## Manipulation
-* Das Netz verschmutzt. Und die schiere Menge an digitalem Müll, der unser Geist täglich ausgesetzt ist, hinterlässt Spuren
-  https://netzpolitik.org/2025/trugbild-die-vermuellung-der-welt/
-* Kauf dich krank – Wie der Materialismus unser Wohlbefinden zerstört
-  https://www.telepolis.de/features/Kauf-dich-krank-Wie-der-Materialismus-unser-Wohlbefinden-zerstoert-10341950.html
-* Gefühlskiller Social Media.
-  https://www.arte.tv/de/videos/122232-000-A/gefuehlskiller-social-media/
+## Kultur
+* "Da stehe ich nun" – Wenn Daten zu flüstern beginnen: Kunst, KI und die Stimme Wiens
+  https://www.data.gv.at/2025/04/18/da-stehe-ich-nun-wenn-daten-zu-fluestern-beginnen-kunst-ki-und-die-stimme-wiens/
+  https://da-stehe-ich-nun.palacz.at
+* Interaktive Zeitreise: Neue Augmented-Reality-Stationen in der Oberlausitz machen Geschichte lebendig
+  https://sachsen.tourismusnetzwerk.info/2025/04/07/interaktive-zeitreise-neue-augmented-reality-stationen-in-der-oberlausitz-machen-geschichte-lebendig/
+  via https://www.linkedin.com/posts/urban-digital-de_in-der-oberlausitz-erm%C3%B6glichen-neue-augmented-reality-stationen-activity-7317788979087466496-xPpX
+* RaDiHum20 spricht mit Verterter*innen der Humanities@NFDI
+  https://radihum20.de/radihum20-spricht-mit-verterterinnen-der-humanitiesnfdi/
+* Wir haben ein neues #OpenGLAM Feature: Auf einer Übersichtsseite stellen wir einen Gesamtabzug der #Metadaten von Berliner Einrichtungen bereit.
+  https://www.digis-online.de/objects/berlinOpenGLAMdata/
+  via https://openbiblio.social/@digiSberlin/114352892890117038
+* Moby releases hundreds of pieces of music "to provide free instrumental music for creators. any creators. all creators".
+  https://mobygratis.com
+  via https://social.vivaldi.net/@brucelawson/114426195519871758
 
 ## Journalismus
 * Wie aus Zahlen Geschichten werden. Datenjournalismus bietet die Chance, komplexe Themen verständlich und zugänglich zu machen.
@@ -384,6 +387,15 @@ type: blog
 * Krankenkassen: Auswertung von Patientendaten: Ärzte kritisieren "Schleppnetzfahndung"
   https://www.mdr.de/nachrichten/deutschland/panorama/elektronische-patientenakte-abrechnungsdaten-krankenkassen-100.html
 * 
+
+## Manipulation
+* Das Netz verschmutzt. Und die schiere Menge an digitalem Müll, der unser Geist täglich ausgesetzt ist, hinterlässt Spuren
+  https://netzpolitik.org/2025/trugbild-die-vermuellung-der-welt/
+* Kauf dich krank – Wie der Materialismus unser Wohlbefinden zerstört
+  https://www.telepolis.de/features/Kauf-dich-krank-Wie-der-Materialismus-unser-Wohlbefinden-zerstoert-10341950.html
+* Gefühlskiller Social Media.
+  https://www.arte.tv/de/videos/122232-000-A/gefuehlskiller-social-media/
+
 
 ## AIforbibbsch
 * Der AI Act der EU schreibt demnächst eine Zertifizierung für KI vor. Ein großer Spaß im Land des TÜV. Es sind noch viele Fragen offen.
@@ -413,11 +425,6 @@ type: blog
   https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musks-xai-allegedly-powers-colossus-supercomputer-facility-using-illegal-generators
   via https://social.rebellion.global/@ExtinctionR/114324168786363196
 
-## Rechtsextremismus
-* Im Berliner Bezirk Neukölln wird ein Bericht zum Rechtsextremismus zurückgezogen – wohl aus Angst vor CDU und AfD. Dann veröffentlicht ihn eben die taz.
-  https://taz.de/Rechtsextremismus-Bericht-in-Neukoelln/!6085022/
-* Für AfD-Verbotsverfahren: Linke will vollständigen Einblick ins Geheim-Gutachten
-  https://www.fr.de/politik/geheim-gutachten-fuer-afd-verbotsverfahren-linke-will-vollstaendigen-einblick-ins-zr-93711355.html
 
 ## Recap
 * Easterhegg 2025
@@ -439,16 +446,6 @@ type: blog
 * GeoDialog Berlin
   https://www.linkedin.com/posts/technologiestiftung_geodialog-geodaten-opendata-activity-7318256933163929600-cmjh
 
-### Bericht vom Hackday Moers
-* Entzaubert generative KI.pdf
-  https://commons.wikimedia.org/wiki/File:2025-04-05_hackdaymoers_Entzaubert_generative_KI.pdf
-* Fotos und Präsentationen
-  https://wakelet.com/wake/Zhe3jMiQXtTOVFd816KNB
-* Bei diesem Verein kann jeder zum Hacker werden
-  https://www.nrz.de/lokales/moers-und-umland/article408676913/moers-bei-diesem-verein-kann-jeder-zum-hacker-werden.html
-
-### Bericht vom Open Data Barcamp
-* Sessiondokumentationen: https://pad.bonn.digital/p/OpenData25
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Montag, 05.05.2025, 09:15, bis Mittwoch, 07.05.2025, 17:30, online: **Energietage 2025** <a title='Kalendereintrag Energietage 2025' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRW5lcmdpZXRhZ2UgMjAyNS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI1MDUwNVQyMjExMTFaDQpEVFNUQVJUOjIwMjUwNTA1VDA5MTUwMA0KRFRFTkQ6MjAyNTA1MDdUMTczMDAwDQpTVU1NQVJZOkVuZXJnaWV0YWdlIDIwMjUNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vd3d3LmVuZXJnaWV0YWdlLmRlL2tvbmdyZXNzL2dlc2FtdHByb2dyYW1tLmh0bWwNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
