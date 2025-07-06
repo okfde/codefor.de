@@ -81,14 +81,11 @@ Mehrere Arbeitskreise der Gesellschaft für Informatik (GI) [fordern einen verbi
 Ein vom ZDF-Verwaltungsrat in Auftrag gegegebenes [Gutachten](https://www.zdf.de/unternehmen/organisation/gremien/verwaltungsrat/digitaler-public-value-des-zdf-100.html) untersucht die Potenziale eines infrastrukturellen digitalen öffentlichen Mehrwerts (Digitaler Public Value) des ZDF. Es enthält unter anderem den Vorschlag "Offenheit als Default" zu etablieren, also Vorrang für Open-Source-Software und [freie Lizenzen für öffentlich-rechtliche Inhalte](https://social.wikimedia.de/@wikimediaDE/114348290319257531). Mehr Hintergründe gibt es sowohl [im Interview mit dem Studienleiter](https://netzpolitik.org/2025/neues-aus-dem-fernsehrat-111-es-braucht-oeffentlich-rechtliche-regenmacher/) als auch [diesem Mastodon-Thread](https://chaos.social/@leonido/114320176058078817).
 
 ## Open Source
-* ZOOOM-Initiative: "Die Zukunft gehört Open Source"
-  https://reset.org/die-zukunft-gehoert-open-source/
-* The EU Open Source Solutions Catalogue is now live
-  https://interoperable-europe.ec.europa.eu/interoperable-europe/news/eu-open-source-solutions-catalogue-now-live
-* Weltpolitik: Was die Politik von Open-Source-Communitys lernen kann
-  https://www.golem.de/news/weltpolitk-was-die-politik-von-open-source-communitys-lernen-kann-2504-195046.html
-* Patricio Del Boca: ‘What we need is concrete tech for the people who need it, and nothing else’
-  https://blog.okfn.org/2025/04/28/patricio-del-boca-what-we-need-is-concrete-tech-for-the-people-who-need-it-and-nothing-else/
+Die Europäische Kommission hat den [EU Open Source Solutions Catalogue (EU OSS Catalogue)](https://interoperable-europe.ec.europa.eu/interoperable-europe/news/eu-open-source-solutions-catalogue-now-live) veröffentlicht, der aktuell über 640 Lösungen aus den nationalen und lokalen der Open-Source-Katalogen der EU-Mitgliedsstaaten zentral vorhält.  
+
+[In seinem Meinungsbeitrag](https://www.golem.de/news/weltpolitk-was-die-politik-von-open-source-communitys-lernen-kann-2504-195046.html) fasst Thorsten Müller auf golem zusammen, was die Politik von Open-Source-Communitys lernen kann: "Transparenz statt Hinterzimmer, Willkommenskultur statt Abschottung – und vor allem Enthusiasmus".
+
+Patricio Del Boca von der Open Knowledge Foundation [kritisiert den aktuellen Trend](https://blog.okfn.org/2025/04/28/patricio-del-boca-what-we-need-is-concrete-tech-for-the-people-who-need-it-and-nothing-else/), Software over-zu-engineeren. Komplexe Big-Tech-Frameworks, die eigentliche für hohe Lastszenarien konzipiert wurden, werden adaptiert, obwohl es für den konkreten Anwendungsfal auch eine einfache Lösung getan hätte. Zugängliche und nachhaltige Software ist dagegen offen und kostengünstig, ihre Weiterentwicklung und Pflege hängt nicht von großen Firmen ab und muss nicht aller zwei Jahren neugeschrieben werden, weil keiner mehr die Komplexität durchblickt, der nächste große Versionssprung ansteht, oder die abhängigen proprietären Software-Komponenten nicht weiterentwickelt werden.
 
 ## Transparenz
 * Bericht: Macht des Bundeskartellamts soll beschränkt werden
