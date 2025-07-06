@@ -132,52 +132,22 @@ In vielen EU-Ländern laufen Zahlungen im E-Commerce nur noch über Visa, Master
 Sicherheitslücken in Software-(Bibliotheken) werden in der Common Vulnerabilities and Exposures (Allgemeine Schwachstellen und Gefährdungen) (CVE) Datenbank gesammelt. Diese wird von der MITRE Corporation aus dem US-Bundesstaat Virginia betrieben, der durch die Budget-Kürzung nun aber die Stilllegung [drohte](https://www.heise.de/news/US-Kuerzungen-CVE-Liste-koennte-sofort-stoppen-10353326.html). Deswegen hat man in der EU nun schnell [eine eigene Datenbank](https://euvd.enisa.europa.eu) an den Start gebracht.
 
 ## Klima
-* Das 1,5-Grad-Ziel nach dem Übereinkommen von Paris
-  https://www.umweltbundesamt.de/themen/klima-energie/internationale-klimapolitik/uebereinkommen-von-paris/das-15-grad-ziel-nach-dem-uebereinkommen-von-paris#was-passiert-wenn-wir-15-grad-uberschreiten-gibt-es-danach-noch-einen-weg-zuruck
-  via: https://social.bund.de/users/Umweltbundesamt/statuses/114341139322549061
-* Studie enthüllt Klimasünder: Fünf Firmen verursachten neun Billionen Dollar Schaden
-  https://www.derstandard.at/story/3000000266819/studie-enthuellt-klimasuender-fuenf-firmen-verursachten-neun-billionen-dollar-schaden
-* Newsletter Klimafolgen und Anpassung
-  https://www.umweltbundesamt.de/service/newsletter/archiv/newsletter-klimafolgen-anpassung-nr-95
+Das Umweltbundesamt (UBA) [erinnert](https://www.umweltbundesamt.de/themen/klima-energie/internationale-klimapolitik/uebereinkommen-von-paris/das-15-grad-ziel-nach-dem-uebereinkommen-von-paris#was-passiert-wenn-wir-15-grad-uberschreiten-gibt-es-danach-noch-einen-weg-zuruck) in seinem [Positionspapier](https://www.umweltbundesamt.de/sites/default/files/medien/11901/dokumente/20250415_uba50_factsheet_1komma5_grad_ziel_final.pdf) daran, dass sich die weltweiten Klimaschutzanstrengungen weiterhin konsequent am 1,5-°C-Ziel ausrichten müssen.
 
-### Koalitionsvertrag
-* DIW Berlin: Mit Koalitionsvertrag sind Klimaziele nicht erreichbar
-  https://www.diw.de/de/diw_01.c.945793.de/mit_koalitionsvertrag_sind_klimaziele_nicht_erreichbar.html
-  via https://climatejustice.global/@S4F_BeBb/114309284980355784
-* Wieviel bzw. wenig Klima steckt im Koalitionsvertrag?
-  https://derklimablog.de/politik/wieviel-bzw-wenig-klima-steckt-im-koalitionsvertrag/
-* Fehlanreize
-  https://climatejustice.global/@GermanZeroHH/114325522268497067
-* Koalitionsvertrag: Die wahre Bedeutung von 14 Sätzen zu Klima und Verkehr
-  https://www.heise.de/meinung/Koalitionsvertrag-Die-wahre-Bedeutung-von-14-Saetzen-zu-Klima-und-Verkehr-10350190.html
+Eine [Nature-Studie](https://www.nature.com/articles/s41586-025-08751-3.epdf?sharing_token=-W4gIU-paklo2x5Dxc1aEdRgN0jAjWel9jnR3ZoTv0PNVn5qNJQAINIGB8Dl-ZFRseL9v-xVGqFBTn1TeHE_3suoldP1UeB7tpqGEXIPnB6CXEabSe10J-Hp4wPb_0dVroZAJy1CbY0LG2oWrt0cL0NsewcQ2OLTS4VVUAVhznrcYJvpOOkzc7t_lvKL9aDVv-QRbEe2Eha_cwsRNxNqC16QT8065do1lLj0vzxXH0o%3D) hat sich dem Problem angenommen, dass Unternehmen sich allzu leicht aus der Verantwortung für die von ihnen lokal verursachten Klimaschäden ziehen können, indem sie auf den Klimawandel als globales Phänomen verweisen. Mit der in der Studie vorgestellten Methodik [ließ sich nun nachweisen](https://www.derstandard.at/story/3000000266819/studie-enthuellt-klimasuender-fuenf-firmen-verursachten-neun-billionen-dollar-schaden), dass allein fünf Firmen  neun Billionen Dollar Schaden verursachten.
   
 ### Wirtschaftliche Auswirkungen
-* Klimawandel: Globale Erwärmung könnte uns 40 Prozent des Wohlstands kosten
-  https://www.telepolis.de/features/Klimawandel-Globale-Erwaermung-koennte-uns-40-Prozent-des-Wohlstands-kosten-10338618.html
-* Climate crisis on track to destroy capitalism, warns top insurer
-  https://www.theguardian.com/environment/2025/apr/03/climate-crisis-on-track-to-destroy-capitalism-warns-allianz-insurer
-  via https://mastodon.online/@tinoeberl/114298064522579741
+Die Schäden des Klimawandels für Weltwirtschaft werden bisher massiv unterschätzt. Die neue Studie [Reconsidering the macroeconomic damage of severe warming](https://iopscience.iop.org/article/10.1088/1748-9326/adbd58) korrigiert bisherige Prognosen, die nur die Ursachen des Wetters im eigenen Land betrachtet haben, nach oben, indem nun auch globale Auswirkungen extremer Wetterereignisse auf die Versorgungsketten beachtet werden. Nach den neuen Berechnungen könnte die globale Erwärmung uns nun [40 Prozent des Wohlstands kosten](https://www.telepolis.de/features/Klimawandel-Globale-Erwaermung-koennte-uns-40-Prozent-des-Wohlstands-kosten-10338618.html).
+
+[Laut Allianz-Vorstand Günther Thallinger](https://www.theguardian.com/environment/2025/apr/03/climate-crisis-on-track-to-destroy-capitalism-warns-allianz-insurer) sind durch die steigenden Schäden durch Extremwetter ganze Regionen bereits unversicherbar geworden - ohne diesen Versicherungsschutz werden aber Kredite, Investitionen und Immobilienmärkte riskanter. 
 
 ### Daten
-* The March 2025 Climate Bulletin is out. It was the warmest March on record for Europe and the second-warmest March globally, with a global average surface air temperature of 14.06°C, 1.60°C above the pre-industrial level for March. 
-  https://climate.copernicus.eu/surface-air-temperature-march-2025?utm_source=socialmedia&utm_medium=ma&utm_campaign=surface-air-temperature-march-2025
-  via https://masto.ai/@CopernicusECMWF/114301137639241712
-* The European State of the Climate 2024 report is out
-  https://climate.copernicus.eu/esotc/2024
-  via https://masto.ai/@CopernicusECMWF/114340783906418216
-* So schnell wie Europa erhitzt sich kein Erdteil
-  https://taz.de/Erderwaermung/!6079151/
-* März 2025 knackt europäischen Wärmerekord
-  https://www.scinexx.de/news/geowissen/maerz-2025-knackt-europaeischen-waermerekord/
-  via https://climatejustice.social/@tuxom/114360542704219711
-* Die Liste – Extremwetter 2025 Klimakatastrophe live
-  https://derklimablog.de/wissen/die-liste-extremwetter-2025-klimakatastrophe-live/
-* Die internationalen WMO-Modelle bestätigen die saisonale DWD-Vorhersage zu einem wärmeren Frühsommer und Sommer in Deutschland
-  https://www.dwd.de/DE/leistungen/jahreszeitenvorhersage/karten.html
-  via https://social.bund.de/@DeutscherWetterdienst/114391603081881235
-* Open Risk Academy course 
-  https://www.openriskacademy.com/login/index.php
-  via https://mastodon.social/@openrisk/114383717038964237
+Der März 2025 war in Europa [der wärmste je gemessene März](https://www.scinexx.de/news/geowissen/maerz-2025-knackt-europaeischen-waermerekord/) und weltweit gesehen, der [zweitwärmste](https://masto.ai/@CopernicusECMWF/114301137639241712). ["So schnell wie Europa erhitzt sich kein Erdteil"](https://taz.de/Erderwaermung/!6079151/), zu diesem Fazit kommt der gemeinsame [Bericht für 2024](https://climate.copernicus.eu/esotc/2024) des EU-Klimadiensts Copernicus und der Weltorganisation für Meteorologie (WMO). Die internationalen WMO-Modelle [bestätigen](https://social.bund.de/@DeutscherWetterdienst/114391603081881235) die saisonale DWD-Vorhersage zu einem wärmeren Frühsommer und Sommer in Deutschland.
+
+Der Klimablog sammelt [monatsweise](https://derklimablog.de/wissen/die-liste-extremwetter-2025-klimakatastrophe-live/) die weltweiten Extremwetterereignisse 2025, da viele Medien kaum mehr darüber berichten. 
+e-extremwetter-2025-klimakatastrophe-live/
+
+Im Kurs der [Open Risk Academy](https://www.openriskacademy.com) wird den Teilnehmenden das Open-Data-Universum des Copernicus-Programms [näher gebracht](https://mastodon.social/@openrisk/114383717038964237).
 
 ### Citizen Science
 * designing an effective citizen-based environmental monitoring campaign
