@@ -88,21 +88,13 @@ Die Europäische Kommission hat den [EU Open Source Solutions Catalogue (EU OSS 
 Patricio Del Boca von der Open Knowledge Foundation [kritisiert den aktuellen Trend](https://blog.okfn.org/2025/04/28/patricio-del-boca-what-we-need-is-concrete-tech-for-the-people-who-need-it-and-nothing-else/), Software over-zu-engineeren. Komplexe Big-Tech-Frameworks, die eigentliche für hohe Lastszenarien konzipiert wurden, werden adaptiert, obwohl es für den konkreten Anwendungsfal auch eine einfache Lösung getan hätte. Zugängliche und nachhaltige Software ist dagegen offen und kostengünstig, ihre Weiterentwicklung und Pflege hängt nicht von großen Firmen ab und muss nicht aller zwei Jahren neugeschrieben werden, weil keiner mehr die Komplexität durchblickt, der nächste große Versionssprung ansteht, oder die abhängigen proprietären Software-Komponenten nicht weiterentwickelt werden.
 
 ## Transparenz
-* Bericht: Macht des Bundeskartellamts soll beschränkt werden
-  https://www.msn.com/de-de/politik/beh%C3%B6rde/bericht-macht-des-bundeskartellamts-soll-beschr%C3%A4nkt-werden/ar-AA1ChxAS
-* Prüfungsaufgaben dürfen nicht privatisiert & kapitalisiert werden
-  https://fragdenstaat.de/kampagnen/verschlusssache-pruefung/
-  via https://chaos.social/@fragdenstaat/114301269950199345
-* Wie Lobbyist:innen versuchten, den Koalitionsvertrag mitzuschreiben
-  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/wie-lobbyistinnen-versuchten-den-koalitionsvertrag-mitzuschreiben
-* Unions-Regierungspersonal: LobbyControl warnt vor Interessenkonflikten
-  https://www.lobbycontrol.de/pressemitteilung/unions-regierungspersonal-lobbycontrol-warnt-vor-interessenkonflikten-120720/
+abgeordnetenwatch.de hat mit zahlreichen Beteiligten gesprochen, die an den Koalitionsverhandlungen teilgenommen haben und [konnte so nun ganz gut dokumentieren](https://www.abgeordnetenwatch.de/recherchen/lobbyismus/wie-lobbyistinnen-versuchten-den-koalitionsvertrag-mitzuschreiben), wie teilweise dreist und aggressiv Lobbyvertreter:innen vorgegangen sind, um ihre Positionen im Koalitionsvertrag unterzubringen. Und mit der schließlichen Auswahl des Regierungspersonals [zeichnen sich schon jetzt weitere Interessenkonflikte ab](https://www.lobbycontrol.de/pressemitteilung/unions-regierungspersonal-lobbycontrol-warnt-vor-interessenkonflikten-120720/). 
 
-## Rechtsextremismus
-* Im Berliner Bezirk Neukölln wird ein Bericht zum Rechtsextremismus zurückgezogen – wohl aus Angst vor CDU und AfD. Dann veröffentlicht ihn eben die taz.
-  https://taz.de/Rechtsextremismus-Bericht-in-Neukoelln/!6085022/
-* Für AfD-Verbotsverfahren: Linke will vollständigen Einblick ins Geheim-Gutachten
-  https://www.fr.de/politik/geheim-gutachten-fuer-afd-verbotsverfahren-linke-will-vollstaendigen-einblick-ins-zr-93711355.html
+[FragDenStaat veröffentlicht kostenlos](https://fragdenstaat.de/kampagnen/verschlusssache-pruefung/) die alten Prüfungsaufgaben von 2012 bis 2024 für Hauptschul-, Realschulabschluss und Abitur, derzeit knapp 600 Prüfungen aus zehn Bundesländern. Denn nur in Niedersachsen, Sachsen-Anhalt, Schleswig-Holstein und teilweise Bayern können Schüler:innen alte Prüfungen kostenlos herunterladen, in NRW, Sachsen-Anhalt und Mecklenburg-Vorpommern zu mindestens über Schulportale. In allen anderen Fällen bleiben nur teure Angebote von privaten Verlagen, die sich nicht alle zur Prüfungsvorbereitung leisten können.
+  
+Aus rechtlichen Bedenken zu angeblich fehlender politischer Neutralität hat das Bezirksamt Neukölln einen Rechtsextremismus-Bericht [zurückgezogen](https://taz.de/Rechtsextremismus-Bericht-in-Neukoelln/!6085022/), die taz veröffentlicht den [Bericht zu rechtsextremen Aktivitäten in Neukölln](https://download.taz.de/ 25-03-27_Erster-Bericht-Zu-Rechtsextremen-Aktivitaeten-In-Neukoelln.pdf) dennoch.
+  
+Der Verfassungsschutz stuft nach jahrelanger Arbeit in einem Gutachten die gesamte AfD als gesichert rechtsextrem ein, [wollte das zugehörige Gutachten aber nicht veröffentlichen](https://www.fr.de/politik/geheim-gutachten-fuer-afd-verbotsverfahren-linke-will-vollstaendigen-einblick-ins-zr-93711355.html), inzwischen wurden die über 1100 Seiten aber von diversen Medien [geleakt](https://archive.org/details/AFD-Gutachten-Verfassungsschutz).
 
 ## Überwachung
 * EU-Konzept: So sollen die Alterskontrollen im Netz ablaufen
