@@ -150,33 +150,16 @@ e-extremwetter-2025-klimakatastrophe-live/
 Im Kurs der [Open Risk Academy](https://www.openriskacademy.com) wird den Teilnehmenden das Open-Data-Universum des Copernicus-Programms [näher gebracht](https://mastodon.social/@openrisk/114383717038964237).
 
 ### Citizen Science
-* designing an effective citizen-based environmental monitoring campaign
-  https://www.youtube.com/watch?v=Jt_OB772sYc&list=PLiTq8yqkwNd1q2sXZ6LyF7tp3Ewh3hY_0&index=3&t=1s
-  via https://mastodon.social/@citiobs/114397958236741685
-* Mein Baum: Stadtbäume melden und schützen!
-  https://www.bund-naturschutz.de/aktionen/mein-baum
+[Ein zweiteiliger Workshop](https://www.youtube.com/watch?v=Jt_OB772sYc&list=PLiTq8yqkwNd1q2sXZ6LyF7tp3Ewh3hY_0&index=1) des Projekts [CitiObs](https://citiobs.eu) führt in die [grundlegenden Schritte](https://mastodon.social/@citiobs/114397958236741685) für die Durchführung einer Umweltmonitoring-Kampagne ein, vom Setzen der Ziele, über die Auswahl geeigneter Sensorik und Community-Management bis zum Story-Telling mit den gemessenen Daten. 
 
-### Trockenheit
-* 10.000 Quadratmeter Wald abgebrannt
-  https://www.l-iz.de/melder/wortmelder/2025/04/10-000-quadratmeter-wald-abgebrannt-622613
-* Undichte Leitungen und versteckte Entwässerungssysteme: Wird in Europa das Wasser knapp, liegt es auch an menschengemachter Verschwendung
-  https://www.nzz.ch/wissenschaft/wasserverschwendung-in-europa-italien-und-deutschlands-kampf-gegen-verluste-ld.1880231
+Über die kostenlose BUND-App ["Mein Baum"](https://www.bund-naturschutz.de/aktionen/mein-baum) können Bürger die Standorte von Bäume eintragen, Eigenschaften wie Art, (geschätzte) Höhe und Stammumfang hinterlegen als auch Vitalitätsdaten (z.B. Zustand von Baumkrone und Baumscheibe) angeben sowie Fotos hochladen.
 
-## Energie
-* Spannende Vorträge zum Strom-Herkunftsnachweisregister, zur Wärmewende, zu strombasierten Kraftstoffen und zum Wasserstoffhochlauf gab es diese Woche bei der 7️. HKNR-Fachtagung zu aktuellen Entwicklungen bei den Herkunftsnachweisen für grüne Energie
-  https://social.bund.de/@Umweltbundesamt/114280555705073536
-* Kaum jemand bekommt es mit, aber gerade tobt der Kampf darum, dass die Energiewende auch in Bürgerhand bleibt. Das kannst du jetzt akut tun. 
-  https://www.volksverpetzer.de/aktuelles/buerger-statt-bosse-energiewende/
-  via https://digitalcourage.social/@Volksverpetzer/114308195956068591
-* High Noon beim Laden für Haus-Stromspeicher
-  https://www.klimareporter.de/strom/high-noon-beim-laden-fuer-hausstromspeicher
-* Gesellschaftliche Unterstützung für eine erfolgreiche Wärmewende: Handbuch zur gesellschaftlichen Beteiligung in der kommunalen Wärmewende
-  https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/2025_uba_handbuch_waermewende_barrierefrei.pdf
-  via https://mastodon.social/@oekoinstitut/114301525166818620
-* 35 Prozent mehr: Wärmepumpen-Branche mit starkem Jahresstart
-  https://www.zfk.de/energie/waerme/waermepumpen-mit-starkem-jahresstart-branche-fordert-klare-politische-signale
-* Erneuerbare Energien haben 2024 neuen Ausbaurekord erreicht
-  https://www.forschung-und-wissen.de/nachrichten/umwelt/erneuerbare-energien-haben-2024-neuen-ausbaurekord-erreicht-133710038
+## Energie- und Wärmewende
+Auch wenn erneuerbare Energien 2024 weltweit gesehen einen neuen Ausbaurekord [erreicht haben](https://www.forschung-und-wissen.de/nachrichten/umwelt/erneuerbare-energien-haben-2024-neuen-ausbaurekord-erreicht-133710038) (getragen vor allem durch China), müsste die Ausbaurate noch viel höher sein, um die Pariser Klimaziele halten zu können.
+
+Die zunehmend selbstbestimmte Energiewende, also die von Bürgern getragene Erzeugung und Nutzung erneuerbarer Energie, bei der der einzelne Geld sparen, das Netz entlasten und somit auch das Klima schonen kann, ist den großen Energiekonzernen ein Dorn im Auge. In einem Positionspapier zu den Koalitionsverhandlungen fordern sie eine Neubewertung der Energiewende, bei der sie "lieber wieder ein zentralisiertes Energiesystem mit mehr Gaskraftwerken und einer Streichung der Vergütung für eingespeisten Strom aus Solaranlagen hätten." In einem [Gastbeitrag bei Volksverpetzer](https://www.volksverpetzer.de/aktuelles/buerger-statt-bosse-energiewende/) wird auf die sich inzwischen bietenden Möglichkeiten der Energiespeicher verwiesen und mit weiteren Scheinargumenten aufgeräumt. Und mit dem Ansatz, an sonnigen Tagen alle Solarstromspeicher erst um die Mittagsstunden zu laden (prognosebasierte Batterieladung), schleift man nicht nur die Solarspitze ab sondern verlängert mit diesem ["High-noon-Laden"](https://www.klimareporter.de/strom/high-noon-beim-laden-fuer-hausstromspeicher) auch die Lebensdauer der Batterien.
+
+Auch die Wärmewende kommt voran: so meldete der Bundesverband Wärmepumpe einen zum Vergleichszeitraum im Vorjahr [um 35 Prozent gestiegenen Absatz](https://www.zfk.de/energie/waerme/waermepumpen-mit-starkem-jahresstart-branche-fordert-klare-politische-signale) an Geräten im ersten Quartal. Von der neuen Bundesregierung erwartet man sich vorallem Planungssicherheit.
 
 ## Mobilität
 * Das Deutschlandticket hat seit seiner Einführung rund 560 Mio. Autofahrten ersetzt und 2,3 Mio. Tonnen CO2 eingespart – so eine Studie für die #Verkehrsministerkonferenz.
