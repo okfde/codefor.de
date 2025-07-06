@@ -97,20 +97,15 @@ Aus rechtlichen Bedenken zu angeblich fehlender politischer Neutralität hat das
 Der Verfassungsschutz stuft nach jahrelanger Arbeit in einem Gutachten die gesamte AfD als gesichert rechtsextrem ein, [wollte das zugehörige Gutachten aber nicht veröffentlichen](https://www.fr.de/politik/geheim-gutachten-fuer-afd-verbotsverfahren-linke-will-vollstaendigen-einblick-ins-zr-93711355.html), inzwischen wurden die über 1100 Seiten aber von diversen Medien [geleakt](https://archive.org/details/AFD-Gutachten-Verfassungsschutz).
 
 ## Überwachung
-* EU-Konzept: So sollen die Alterskontrollen im Netz ablaufen
-  https://netzpolitik.org/2025/eu-konzept-so-sollen-die-alterskontrollen-im-netz-ablaufen/
-* Grundrecht auf Digitale Integrität
-  https://www.digitale-gesellschaft.ch/event/netzpolitischer-abend-zu-digitale-integritaet/
-* Verbunddateien, Datenbanken, Auskunftssysteme: Sensible Informationen über Menschen aus Polizeisystemen soll Palantir künftig zusammenrühren dürfen
-  https://netzpolitik.org/2025/automatisierte-rasterfahndung-tuer-zu-fuer-palantir-und-co/
-* Hackathon: IRS und DOGE wollen Steuerdaten der US-Bürger in Palantir heben
-  https://www.heise.de/news/Hackathon-IRS-und-DOGE-wollen-Steuerdaten-der-US-Buerger-in-Palantir-heben-10349796.html
-* Keine Palantir-Konkurrenz in Sicht
-  https://netzpolitik.org/2025/polizeidatenbanken-keine-palantir-konkurrenz-in-sicht/
-* Hier werden Protestierende mit Gesichtserkennung verfolgt
-  https://netzpolitik.org/2025/biometrie-weltweit-hier-werden-protestierende-mit-gesichtserkennung-verfolgt/
-* Eine Glaskugel für die Polizei
-  https://jungle.world/artikel/2025/16/palantir-ueberwachung-eine-glaskugel-fuer-die-polizei
+Die EU möchte über eine App für bestimmte Inhalte im Internet Alterskontrollen durchführen, indem über sie Personalausweis und eventuell auch das Gesicht gescannt werden soll. Die [technische Spezifikation](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification) liegt bereits auf Github. Bei netzpolitik [sieht man die anonyme Internet-Nutzung bedroht](https://netzpolitik.org/2025/eu-konzept-so-sollen-die-alterskontrollen-im-netz-ablaufen/).
+
+[Viele Länder nutzen bereits automatisierte Gesichtserkennung, um Proteste und Demonstrationen zu überwachen und zu unterdrücken](https://netzpolitik.org/2025/biometrie-weltweit-hier-werden-protestierende-mit-gesichtserkennung-verfolgt/). Auch in Deutschland darf bei tatsächlichen Straftaten das Gesichtserkennungssystem (GES) des Bundeskriminalamtes mit Aufnahmen von Demonstrationen gefüttert werden. Die neue Bundesregierung möchte den Abgleich auf öffentlich einsehbaren Bildern aus dem Internet erweitern.
+
+"Automatisierte Datenrecherchen und -analysen, sowie "KI-basierte" Analysebefugnisse verspricht der Koalitionsvertragung Ordnungsbehörden und der Strafverfolgung. Die Software Gotham der US-Firma Palantir, die verspricht aus solchen Analysen Verdachtsmomente und Prognosen zu liefern, [ist bereits in Hessen, NRW und Bayern im Einsatz](https://jungle.world/artikel/2025/16/palantir-ueberwachung-eine-glaskugel-fuer-die-polizei). Digitale Souveränität scheint hier keine Rolle zu spielen, europäische Alternativen [sind jedenfalls nicht bekannt](https://netzpolitik.org/2025/polizeidatenbanken-keine-palantir-konkurrenz-in-sicht/). 
+
+Alle Steuerdaten (Name, Adresse, Sozialversicherungsnummer und vieles mehr) aller US-Bürger schnell und unkompliziert [an einem Ort abrufen](https://www.heise.de/news/Hackathon-IRS-und-DOGE-wollen-Steuerdaten-der-US-Buerger-in-Palantir-heben-10349796.html) - nicht nur, dass dieser Ort in der Palantir-Software Foundry sein soll, eine solcher zentraler Zugriff stellt auch einen Single Point of Failure dar.
+
+Das Recht auf körperliche und geistige Unversehrtheit [sollte nach Meinung von Jorgo Ananiadis](https://www.digitale-gesellschaft.ch/event/netzpolitischer-abend-zu-digitale-integritaet/), Präsident der Schweizer Piratenpartei, um das Grundrecht auf Digitale Integrität erweitert werden, also "Sicherheit im digitalen Raum, Schutz vor der Nutzung von persönlichen Daten, ein Recht auf ein offline Leben und das Recht vergessen zu werden".
 
 ## USA
 * Massive, Unarchivable Datasets of Cancer, Covid, and Alzheimer's Research Could Be Lost Forever
