@@ -162,39 +162,19 @@ Die zunehmend selbstbestimmte Energiewende, also die von Bürgern getragene Erze
 Auch die Wärmewende kommt voran: so meldete der Bundesverband Wärmepumpe einen zum Vergleichszeitraum im Vorjahr [um 35 Prozent gestiegenen Absatz](https://www.zfk.de/energie/waerme/waermepumpen-mit-starkem-jahresstart-branche-fordert-klare-politische-signale) an Geräten im ersten Quartal. Von der neuen Bundesregierung erwartet man sich vorallem Planungssicherheit.
 
 ## Mobilität
-* Das Deutschlandticket hat seit seiner Einführung rund 560 Mio. Autofahrten ersetzt und 2,3 Mio. Tonnen CO2 eingespart – so eine Studie für die #Verkehrsministerkonferenz.
-  https://taz.de/Positive-Effekte-durch-Deutschlandticket/!6080092/
-  via https://mastodon.online/@tinoeberl/114291442600343638
-  * Schwarz-rote Einigung: Deutschlandticket bleibt langfristig
-    https://www.t-online.de/nachrichten/deutschland/id_100672554/deutschlandticket-bleibt-ueber-2025-hinaus-bestehen.html
-* Deutsche lassen das Auto immer öfter stehen
-  https://www.tagesschau.de/inland/gesellschaft/studie-verkehrsaufkommen-100.html
-  https://www.n-tv.de/panorama/Immer-mehr-Staedter-lassen-das-Auto-stehen-article25699957.html
-* Schöner Landtagsantrag zu MobiDataBW
-  via https://mastodon.social/@_tillwe_/114314211504481793
-* Projekt AIAMO
-  https://www.l-iz.de/wirtschaft/mobilitaet/2025/04/verkehrssteuerung-mit-ki-leipzig-landau-modellstadte-621937
-  via https://eupolicy.social/@achimkla/114319025033073794
-* Flixtrain gedeiht weiter – nur nicht ganz so wie gedacht
-  https://derklimablog.de/mobilitaet/flixtrain-gedeiht-weiter-nur-nicht-ganz-so-wie-gedacht/
-* Zählstellen in Dortmund
-  https://open-data.dortmund.de/explore/dataset/verkehrszaehlung-zaehlstellenplan/information/?disjunctive.no&disjunctive.zwert1&disjunctive.jahr&disjunctive.anzahlz&disjunctive.2023&disjunctive.2022&disjunctive.2021&disjunctive.2020&disjunctive.2019&disjunctive.2018&disjunctive.2017&disjunctive.2016&disjunctive.2015&disjunctive.2014&disjunctive.2013&disjunctive.2012&disjunctive.2011&disjunctive.2010&disjunctive.2009&disjunctive.2008&disjunctive.2007&disjunctive.2006&disjunctive.2005&disjunctive.2004&disjunctive.2003&disjunctive.2002&disjunctive.2001&disjunctive.2000&disjunctive.1999&disjunctive.1998&disjunctive.aktionsraum&disjunctive.sozialraum&disjunctive.unterbezirk&disjunctive.statistischer_bezirk&disjunctive.stadtbezirk&disjunctive.stadtbezirk_nr&disjunctive.statistischer_bezirk_nr&disjunctive.unterbezirk_nr&disjunctive.sozialraum_nr&disjunctive.aktionsraum_nr
-  via https://ruhr.social/@DortmundData/114346545035375877
-* 258.205 Parkplätze - So viele Stellflächen hat Wien laut Flächen-Mehrzweckkarte – algorithmisch vermessen, visualisiert, aufgeschlüsselt bis zur letzten Lücke.
-  https://www.data.gv.at/katalog/application/e37a396e-04fc-42a5-acf0-e3d4260cdfd0
-  via https://mastodon.social/@datagvat/114359073824043067
-* Flugrouten am BER
-  https://mastodon.social/@freiefunken/114324288928846050
-* Wie weit kommst du in 60 Minuten vom Kölner Dom – mit der Bahn (rot) oder dem Auto (blau)?
-  https://commutetimemap.com/map?places=50.943163%253B6.957417%253B0%253B3600%253B%2523ff0000&places=50.943111%253B6.957597%253B1%253B3600%253B%25234173f4
-  via https://social.cologne/@siklist/114376978429515990
-* Open-Data und Verkehr
-  https://www.pc-fluesterer.info/wordpress/2025/04/27/open-data-und-verkehr/
-* Reisen zwischen Großstädten: Bahn schlägt Auto und Flugzeug
-  https://www.spiegel.de/auto/mobilitaet-in-deutschland-bahn-gefragtestes-verkehrsmittel-zwischen-grossstaedten-a-90e0782d-021c-4bda-9957-36c10a698319
-* Freifahren App
-  https://app.freifahren.org
-  via https://chaos.social/@tbsprs/114422644904057761
+Durch das Deutschlandticket konnten seit Einführung 560 Millionen Autofahrten durch Fahrten mit Bus und Bahn ersetzt und damit 2,3 Millionen Tonnen CO₂ [eingespart werden](https://taz.de/Positive-Effekte-durch-Deutschlandticket/!6080092/), zeigt ein Bericht für die Verkehrsministerkonferenz der Länder. Mittlerweile besitzen rund 14,5 Millionen Menschen in Deutschland das Ticket, 26% in Städten und Umland, 12% im ländlichen Raum. Zum Glück bleibt das Deutschland-Ticket [nun auch langfristig](https://www.t-online.de/nachrichten/deutschland/id_100672554/deutschlandticket-bleibt-ueber-2025-hinaus-bestehen.html).
+
+Auch eine Analyse anonymisierter Mobilfunk-Nutzungsdaten [hat ergeben](https://www.spiegel.de/auto/mobilitaet-in-deutschland-bahn-gefragtestes-verkehrsmittel-zwischen-grossstaedten-a-90e0782d-021c-4bda-9957-36c10a698319), dass auf der Mehrheit der Städteverbindungen die Bahn (trotz Verspätungen) das gefragteste Verkehrsmittel ist. 
+
+Leider kann der ÖPNV nicht überall in Deutschland mit der Reichweite des Autos mithalten, wie [dieser Mastodon-Post](https://social.cologne/@siklist/114376978429515990) in einer Auswertung über [CommuteTimemap](https://commutetimemap.com/) beispielhaft zeigt.
+
+Innerhalb von Städten [verliert dagegen das Auto weiter an Bedeutung](https://www.tagesschau.de/inland/gesellschaft/studie-verkehrsaufkommen-100.html), wie eine umfassende [Erhebung (pdf)](https://tu-dresden.de/bu/verkehr/ivs/srv/ressourcen/dateien/SrV2023_Gerike_Ergebnisse.pdf?lang=de) der Technischen Universität Dresden zur Mobilität in Städten (SrV 2023) belegt. Die Menschen gehen immer häufiger zu Fuß.
+
+Im badenwürtembergischen Landtag wurde [dieser interessante Fragenkatalog](https://www.landtag-bw.de/resource/blob/562476/9b947876caacf1cb6dc2365df6d6c80d/17_8463_D.pdf) zur "Zukunft der Mobilitätsdaten in Baden-Württemberg – Ausbau, Nutzung und Potenziale von MobiData BW" [eingereicht](https://mastodon.social/@_tillwe_/114314211504481793) und inzwischen vom Ministerium für Verkehr auch beantwortet.
+
+Elias Gander wollte wissen, wie viele Parkplätze es in Wien gibt? In [seinem Blogbeitrag](https://elias-gander.github.io/2025-3-11-wiener-parkplaetze) beschreibt er, wie er bei der Zählung vorgegangen ist. Entstanden ist eine [Online-Karte](https://elias-gander.github.io/data-visualization/wiener-parkplaetze/), deren Quellcode auch [offen auf Github steht](https://github.com/elias-gander/WienerParkplaetze), inzwischen auch verlinkt auf [data.gv.at](https://www.data.gv.at/katalog/application/e37a396e-04fc-42a5-acf0-e3d4260cdfd0), wo auch der maßgebliche Datensatz, die [Vektordaten von Wiens Flächen-Mehrzweckkarte](https://www.data.gv.at/katalog/dataset/7cf0da04-1f77-4321-929e-78172c74aa0b), zu finden ist.
+
+Kann man in Berlin die nächste Nacht bei offenem Fenster schlafen oder würde man vom Lärm von vom BER startenden Flugzeugen gestört? Diese Frage sollte diese Nutzerin auf Mastodon mittels Open Data [geklärt haben](https://mastodon.social/@freiefunken/114324288928846050) - Erkenntnis: die Windrichtung ist am Ende vielleicht sogar ausschlaggebender neben als die gewählten Flugrouten.
 
 ## Karten / Geo-Daten
 * The Earth Observation API
