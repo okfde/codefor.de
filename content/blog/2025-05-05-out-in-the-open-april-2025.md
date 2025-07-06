@@ -108,50 +108,28 @@ Alle Steuerdaten (Name, Adresse, Sozialversicherungsnummer und vieles mehr) alle
 Das Recht auf körperliche und geistige Unversehrtheit [sollte nach Meinung von Jorgo Ananiadis](https://www.digitale-gesellschaft.ch/event/netzpolitischer-abend-zu-digitale-integritaet/), Präsident der Schweizer Piratenpartei, um das Grundrecht auf Digitale Integrität erweitert werden, also "Sicherheit im digitalen Raum, Schutz vor der Nutzung von persönlichen Daten, ein Recht auf ein offline Leben und das Recht vergessen zu werden".
 
 ## USA
-* Massive, Unarchivable Datasets of Cancer, Covid, and Alzheimer's Research Could Be Lost Forever
-  https://www.404media.co/nih-archives-repositories-marked-for-review-for-potential-modification/
-  via https://fediscience.org/@petersuber/114286033270529174
-* Whistleblower reveals evidence on how Elon Musk's DOGE team extracted 10 GB of sensitive data about American citizens from a government agency, and then deleted accounts and logs to cover their tracks.
-  https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security
-  via https://mastodon.social/@randahl/114346914464423816
-* CVE-Aus abgewendet, Schwachstellendatenbank der EU geht an den Start
-  https://www.heise.de/news/Nach-drohendem-CVE-Aus-Schwachstellendatenbank-der-EU-geht-an-den-Start-10354324.html
-* "Trump’s War on Measurement Means Losing Data on Drug Use, Maternal Mortality, Climate Change and More"
-  https://www.propublica.org/article/trump-doge-data-collection-hhs-epa-cdc-maternal-mortality
-  via https://fediscience.org/@petersuber/114360159587312186
-* "With the recent announcement that numerous datasets — such as those from #NOAA — are scheduled for decommissioning in May, #PANGAEA has opened its archive to help safeguard these valuable resources. If you become aware of any endangered datasets, please don't hesitate to contact us. PANGAEA data!"
-  https://pangaea.de
-  via https://fediscience.org/@petersuber/114359552828366397
-* Deutsche Forscher retten US-Datenbestände
-  https://www.tagesschau.de/investigativ/mdr/usa-forschung-datensicherung-100.html
-* U.S. climate data websites go dark
-  https://www.science.org/content/article/us-climate-data-websites-go-dark
-* Wer in die USA einreist, muss sich einer Gefühlserkennung durch KI stellen
-  https://www.derstandard.at/story/3000000266068/wer-in-die-usa-einreist-muss-sich-einer-gefuehlserkennung-durch-ki-stellen
-* Defend the Internet Archive. Protect the Wayback Machine.
-  https://chaos.social/@mschabhuettl/114391528726376847
-  * Internet Archive wehrt sich gegen "existenzgefährdende" Klage der Musikindustrie
-    https://www.derstandard.at/story/3000000266915/internet-archive-wehrt-sich-gegen-existenzgefaehrdende-klage-der-musikindustrie
-* Reaktion auf US-Zölle: Big Tech besteuern würde Trump treffen
-  https://taz.de/Reaktion-auf-US-Zoelle/!6077524/
-* Today, we have fined Apple and Meta for breaching the Digital Markets Act. 
-  https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1085
-  via https://ec.social-network.europa.eu/@EUCommission/114387327556178812
-  * 700 Millionen Euro Strafe gegen Apple und Meta
-    https://www.tagesschau.de/wirtschaft/unternehmen/apple-meta-eu-millionenstrafen-100.html
-  * Millionenschwere Wettbewerbsstrafen für Apple und Meta
-    https://netzpolitik.org/2025/digital-markets-act-millionenschwere-wettbewerbsstrafen-fuer-apple-und-meta/
-* EZB warnt vor Marktmacht von drei US-Anbietern in Europa
-  https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/geld-ezb-warnt-vor-marktmacht-von-drei-us-anbietern-in-europa/100120875.html
-  via https://bsky.app/profile/finanzwende.bsky.social/post/3lnfoqcgmac2r
-* US dismisses all authors of National Climate Assessment, email says
-  https://www.msn.com/en-us/news/politics/us-dismisses-all-authors-of-national-climate-assessment-email-says/ar-AA1DQX1u
-* Peter Suber on science in danger: “Host your open and uncensored research in more than one place and preferably more than one country.”
-  https://www.zbw-mediatalk.eu/2025/04/peter-suber-on-science-in-danger-host-your-open-and-uncensored-research-in-more-than-one-place-and-preferably-more-than-one-country/
-* The Trump administration is dismantling cancer research
-  https://www.splinter.com/national-cancer-institute-apparently-shouldnt-bother-with-all-that-pesky-science
-  via https://med-mastodon.com/@luckytran/114428268562907780
+### Überwachung und Kontrolle
+[Nur dank eines Whistleblowers kam ans Licht](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security), dass über Elon Musks DOGE-Agentur sensible Daten über US-Bürger abgezweigt wurden, das Löschen der Zugrifflogs und der agierenden Accounts sollte die Spuren verwischen. Der Whistleblower [wurde daraufhin bedroht](https://mastodon.social/@randahl/114346914464423816).
 
+Beim US-Grenzschutz [setzt man begeistert](https://www.derstandard.at/story/3000000266068/wer-in-die-usa-einreist-muss-sich-einer-gefuehlserkennung-durch-ki-stellen) immer mehr KI-Systeme ein. Neben dem Scannen der Social-Media-Feeds der gerade kontrollierten Person in Echtzeit sollen ihre Emotion detektiert werden.
+
+### Datenlöschungen
+Forschungsdatensätze zu Krebs, Covid und Alzheimer [drohen massenweise verloren zu gehen](https://fediscience.org/@petersuber/114286033270529174). Zudem werden massiv Stellen in der Forschung [abgebaut](https://med-mastodon.com/@luckytran/114428268562907780). Messdaten zu Drogenkonsum, Kindersterblichkeit, Klimawandel und anderem [sollen nicht mehr erfasst werden](https://www.propublica.org/article/trump-doge-data-collection-hhs-epa-cdc-maternal-mortality). Die 400 Betragenden zur Klimawandelbewertung [wurden freigestellt](https://www.reuters.com/sustainability/cop/trump-administration-dismisses-all-authors-key-climate-report-email-says-2025-04-28/). Die Webseiten der regionalen Klimazentren [waren kurzzeitig offline](https://www.science.org/content/article/us-climate-data-websites-go-dark), ihr Budget soll spätestens 2026 gestrichen werden.
+
+Das vom Bremer Alfred-Wegener-Institut betriebene Informationssystem [PANGAEA](https://pangaea.de) soll nun [helfen](https://fediscience.org/@petersuber/114359552828366397), die Daten des US-Wetterdienstes NOAA [zu retten](https://www.tagesschau.de/investigativ/mdr/usa-forschung-datensicherung-100.html).
+
+Peter Suber, Berater für Open Access an der Harvard-Bibliothek, [empfiehlt Forschenden](https://www.zbw-mediatalk.eu/2025/04/peter-suber-on-science-in-danger-host-your-open-and-uncensored-research-in-more-than-one-place-and-preferably-more-than-one-country/) ihre offenen, unzensierten Datensätze an mehreren Stellen zuveröffentlichen, am besten auch in mehreren Ländern.
+
+Aber nicht nur die staatliche Seite fährt Angriffe auf offene Daten. Auch die Musikindustrie versucht es mal wieder, in dem es das [Internet Archive](https://archive.org), speziell die [Wayback Machine](https://web.archive.org/web/), mit ihrer Klage [in seiner Existenz bedroht](https://www.derstandard.at/story/3000000266915/internet-archive-wehrt-sich-gegen-existenzgefaehrdende-klage-der-musikindustrie).
+
+### Marktmacht
+Die Europäische Kommission [verhängt 700 Millionen Euro Wettbewerbsstrafen](https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1085) gegen Apple und Meta, weil diese mit ihren [Geschäftsgebaren](https://netzpolitik.org/2025/digital-markets-act-millionenschwere-wettbewerbsstrafen-fuer-apple-und-meta/) gegen den Digital Markets Act (DMA) [verstoßen](https://www.tagesschau.de/wirtschaft/unternehmen/apple-meta-eu-millionenstrafen-100.html).
+
+In vielen EU-Ländern laufen Zahlungen im E-Commerce nur noch über Visa, Mastercard und Paypal, was diesen drei US-Anbietern in Europa eine ungeheuere Marktmacht bescherrt, [vor der nun auch die Europäische Zentralbank warnt](https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/geld-ezb-warnt-vor-marktmacht-von-drei-us-anbietern-in-europa/100120875.html). Finanzwende [erinnert daran](https://bsky.app/profile/finanzwende.bsky.social/post/3lnfoqcqnjk2r), dass in der EU gerade mal 9 nationale Kartensystem gibt, 13 EU-Länder besitzen kein eigenes.
+
+Über eine Digitalsteuer auf die großen US-Digitalkonzerne könnte man sich für die US-Zölle [geeignet revanchieren](https://taz.de/Reaktion-auf-US-Zoelle/!6077524/).
+
+Sicherheitslücken in Software-(Bibliotheken) werden in der Common Vulnerabilities and Exposures (Allgemeine Schwachstellen und Gefährdungen) (CVE) Datenbank gesammelt. Diese wird von der MITRE Corporation aus dem US-Bundesstaat Virginia betrieben, der durch die Budget-Kürzung nun aber die Stilllegung [drohte](https://www.heise.de/news/US-Kuerzungen-CVE-Liste-koennte-sofort-stoppen-10353326.html). Deswegen hat man in der EU nun schnell [eine eigene Datenbank](https://euvd.enisa.europa.eu) an den Start gebracht.
 
 ## Klima
 * Das 1,5-Grad-Ziel nach dem Übereinkommen von Paris
