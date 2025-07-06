@@ -67,48 +67,18 @@ Nur ein paar Tage später trafen zum Teil die gleichen Akteure beim [Open Data B
 * [Stephan Venus (Venus GmbH), Oliver Rauh: Social Knowledge Graph](https://pad.bonn.digital/p/OpenData25_Liszt_S2)
 
 ## Digitalpolitik
-* Koalitionsvertrag: Das planen Union und SPD in der Netzpolitik
-  https://netzpolitik.org/2025/koalitionsvertrag-das-planen-union-und-spd-in-der-netzpolitik/
-  * Überwachung, Datenschatzsuche und viel KI
-    https://taz.de/Digitalpolitik-im-Koalitionsvertrag/!6083045/
-  * Koalitionsvertrag: The Good, the Bad and the Ugly
-    https://www.socialmediawatchblog.de/koalitionsvertrag-the-good-the-bad-and-the-ugly/
-* 46. Sitzung des IT-Planungsrates
-  https://egovernment-podcast.com/egov216-46-itplr/
-* egovernment Podcast Monatsschau 04/25
-  https://egovernment-podcast.com/egov217-monatsschau-04-25/
+[netzpolitik](https://netzpolitik.org/2025/koalitionsvertrag-das-planen-union-und-spd-in-der-netzpolitik/), [taz](https://taz.de/Digitalpolitik-im-Koalitionsvertrag/!6083045/) und [SocialMediaWatchBlog](https://www.socialmediawatchblog.de/koalitionsvertrag-the-good-the-bad-and-the-ugly/) haben den finalen Koalitionsvertrag hinsichtlich der geplanten Netzpolitik durchleuchtet. Mit Vorratsdatenspeicherung, Videoüberwachung, Gesichtserkennung, biometrische Internetfahndung und Staatstrojanern wurden der Massenüberwachung Tür und Tor geöffnet. Bürokratieabbau und Regulierungsvereinfachungen, die potenziell den Verbraucherschutz schleift, gleiches gilt für den Datenschutz "im Interesse der Wirtschaft". Künstliche Intelligenz soll die Verwaltung effizienter machen - in den Niederlanden musste allerdings die Regierung ein Bußgeld in Millionenhöhe zahlen, als herauskam, dass die algorithmenbasierte Entscheidung über Kindergeld einen Teil der Anspruchsberechtigen rassistisch diskriminiert hatte. Wenigstens bleibt aber das Informationsfreiheitsgesetz bestehen. Desweiteren werden Behörden zum Datenaustausch untereinander angehalten, eine Bürgerkonto und eine digitale Identität soll Pflicht werden, die Registermodernisierung weiter voranschreiten. Der Koalitionsvertrag wurde neben anderen Digitalthemen auch in der [eGovernment Podcast Monatschau](https://egovernment-podcast.com/egov217-monatsschau-04-25/) besprochen.   
 
 ## Digitale Souveränität
-* BWI & ZenDiS schließen Rahmenvertrag über souveräne Kommunikations- und Kollaborationslösungen
-  https://zendis.de/ressourcen/bwi-und-zendis-schliessen-rahmenvertrag-ueber-souveraene-kommunikations-und-kollaborationsloesungen
-  via https://social.bund.de/@zendis/114280109378281048
-* Interview: "Wir müssen nicht digital souverän werden"
-  https://netzpolitik.org/2025/interview-wir-muessen-nicht-digital-souveraen-werden/
-  via https://chaos.social/@netzpolitik_feed/114283951629305233
-* US-Clouds bleiben trotz EU-Servern und Verschlüsselung angreifbar – rechtlich, technisch und geopolitisch. Digitale Souveränität? Eher Illusion
-  https://www.kuketz-blog.de/server-in-der-eu-und-eigene-schluessel-schuetzt-das-vor-us-zugriffen/
-  via https://social.tchncs.de/@kuketzblog/114303585772140204
-* Digital Open Public Space, Offenheit als Default
-  https://netzpolitik.org/2025/neues-aus-dem-fernsehrat-111-es-braucht-oeffentlich-rechtliche-regenmacher/
-  via https://chaos.social/@netzpolitik_feed/114318816271712378
-  * Das neue Gutachten des ZDF zum "Digital Public Value" liefert spannende Antworten – und rückt Open Content in den Fokus. 
-    https://social.wikimedia.de/@wikimediaDE/114348290319257531
-  * Weil kaum jemand Zeit hat, die 100+ Seiten der Studie zu Potenzialen für Digitalen Public Value im ZDF zu lesen, hier ein kurzer Thread mit den drei zentralen Botschaften
-    https://chaos.social/@leonido/114320176058078817
-* Die Sicherheit digitaler Systeme hängt von der Qualität der Komponenten ihrer Lieferkette ab
-  https://opencode.de/de/ssdlc
-  https://social.bund.de/@zendis/114341200994586777
-* Zentrum für digitale Souveränität: Ohne Strategie ist es nur ein Feigenblatt
-  https://netzpolitik.org/2025/zentrum-fuer-digitale-souveraenitaet-ohne-strategie-ist-es-nur-ein-feigenblatt/
-* Verwaltung in der Cloud: Bund macht sich abhängig von Amazon und Co.
-  https://netzpolitik.org/2025/verwaltung-in-der-cloud-bund-macht-sich-abhaengig-von-amazon-und-co/
-  * Kosten für Clouddienste werden massiv unterschätzt
-    https://www.golem.de/news/bundescloud-kosten-fuer-clouddienste-werden-massiv-unterschaetzt-2504-195505.html
-    via https://gruene.social/@norbert/114375957989926175
-* Landesprogramm Offene Innovation: Call for Concepts 2025
-  https://digitalhub.sh/de/call-for-concept-zum-landesprogramm-offene-innovation_allgemein
-* Die GI fordert nun in ihrer neusten Pressemitteilung die flächendeckende Implementierung von openDesk für die gesamte deutsche Verwaltung innerhalb der nächsten Legislatur. 
-  https://gi.de/meldung/milliarden-einsparpotenzial-gi-arbeitskreise-fordern-verbindlichen-rollout-von-opendesk
+Der Begriff "Digitale Souveränität" ist zu überladen, meint der Politikwissenschaftler Thorsten Thiel [im netzpolitik-Interview](https://netzpolitik.org/2025/interview-wir-muessen-nicht-digital-souveraen-werden/) und würde den Fokus lieber auf Autonomie und Demokratisierung legen. Wenn die EU entschiedener regulieren würde, würde auch auffallen, dass sich deren Produkte nicht umbedingt durchgesetzt haben, weil sie die besten sind, sondern nur weil ihre Marktmacht nicht begrenzt wurde und so europäische Anbieter kaum Chancen hatten.
+
+Inzwischen werben US-Cloud-Anbieter damit, dass man seine Daten nur in Rechenzentren innerhalb der EU speichern zu können und die Wartung der Server nur von Personal durchführen zu lassen, die auch in der EU leben. [In seinem Blog belegt Mike Kuketz](https://www.kuketz-blog.de/server-in-der-eu-und-eigene-schluessel-schuetzt-das-vor-us-zugriffen/), dass die so angeblich erzielte "Digitale Souveränität" dennoch eine Illusion bleibt.
+
+[Mangels eigener personeller und finanzieller Ressourcen](https://www.golem.de/news/bundescloud-kosten-fuer-clouddienste-werden-massiv-unterschaetzt-2504-195505.html) sowie fehlenden Leitlinien, gibt sich die öffentliche Verwaltung aber gerne der Illusion hin und [macht sich weiter von den Cloud-Diensten aus Übersee abhängig](https://netzpolitik.org/2025/verwaltung-in-der-cloud-bund-macht-sich-abhaengig-von-amazon-und-co/).  
+
+Mehrere Arbeitskreise der Gesellschaft für Informatik (GI) [fordern einen verbindlichen openDesk-Rollout](https://gi.de/meldung/milliarden-einsparpotenzial-gi-arbeitskreise-fordern-verbindlichen-rollout-von-opendesk) in der gesamten Verwaltung im Laufe der aktuellen Legislaturperiode. Durch die überraschende Abberufung der bisherigen Geschäftsführerin des Zentrums für digitale Souveränität (ZenDIS) [besteht aus Sicht von netzpolitik](https://netzpolitik.org/2025/zentrum-fuer-digitale-souveraenitaet-ohne-strategie-ist-es-nur-ein-feigenblatt/) allerdings die Gefahr, dass keine strategische Weiterentwicklung des Open-Source-Ansatzes mehr erfolgt, zu der z.B. Strategiepapiere wie [Sichere Softwarelieferketten](https://opencode.de/de/ssdlc) bisher [beigetragen haben](https://social.bund.de/@zendis/114341200994586777).
+
+Ein vom ZDF-Verwaltungsrat in Auftrag gegegebenes [Gutachten](https://www.zdf.de/unternehmen/organisation/gremien/verwaltungsrat/digitaler-public-value-des-zdf-100.html) untersucht die Potenziale eines infrastrukturellen digitalen öffentlichen Mehrwerts (Digitaler Public Value) des ZDF. Es enthält unter anderem den Vorschlag "Offenheit als Default" zu etablieren, also Vorrang für Open-Source-Software und [freie Lizenzen für öffentlich-rechtliche Inhalte](https://social.wikimedia.de/@wikimediaDE/114348290319257531). Mehr Hintergründe gibt es sowohl [im Interview mit dem Studienleiter](https://netzpolitik.org/2025/neues-aus-dem-fernsehrat-111-es-braucht-oeffentlich-rechtliche-regenmacher/) als auch [diesem Mastodon-Thread](https://chaos.social/@leonido/114320176058078817).
 
 ## Open Source
 * ZOOOM-Initiative: "Die Zukunft gehört Open Source"
