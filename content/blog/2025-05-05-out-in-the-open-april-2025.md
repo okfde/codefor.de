@@ -176,43 +176,30 @@ Elias Gander wollte wissen, wie viele Parkplätze es in Wien gibt? In [seinem Bl
 
 Kann man in Berlin die nächste Nacht bei offenem Fenster schlafen oder würde man vom Lärm von vom BER startenden Flugzeugen gestört? Diese Frage sollte diese Nutzerin auf Mastodon mittels Open Data [geklärt haben](https://mastodon.social/@freiefunken/114324288928846050) - Erkenntnis: die Windrichtung ist am Ende vielleicht sogar ausschlaggebender neben als die gewählten Flugrouten.
 
-## Karten / Geo-Daten
-* The Earth Observation API
-  https://eoapi.dev
-  https://github.com/developmentseed/eoapi-k8s
-  via https://23.social/@pantierra/114275176054974079
-* Visualisierung von OpenStreemap, bei der außer baulich getrennten Radwegen keinerlei Verkehrsinfrastruktur angezeigt wird
-  https://social.tchncs.de/@advancingu/114284696227901370
-* Hindernisse für offene Geodateninfrastruktur – und wie man sie umgehen kann
-  https://prototypefund.de/hindernisse-fuer-offene-geodateninfrastrukturen/
-* Cloud-Optimized Geospatial Formats Guide
-  https://guide.cloudnativegeo.org
-  via https://23.social/@pantierra/114307302899064104
-* Your name in Landsat
-  https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/
-  via https://fosstodon.org/@LisaHornung/114382344837279916
-* #30DayChartChallenge
-  https://fosstodon.org/tags/30DayChartChallenge
-* Sichtbarkeitsanalyse
-  https://www.linkedin.com/posts/soeren-etler_open-data-f%C3%BCr-mehr-sichtbarkeit-aber-wie-ugcPost-7315714957331816449-sH6E
-* Erstmals können auf GovData die Daten auf einer Karte angezeigt werden. 
-  https://www.linkedin.com/posts/govdata-de_opendata-ogd-itplr-activity-7318356830353522688-ebcq
-* Ein Datensatz des Bundesinstitut für Bau-, Stadt- und Raumforschung BBSR zur Erholungsfläche je Einwohner zeigt die Unterschiede auf
-  https://geoportal.de/map.html?map=tk_06-naherholungsflaeche
-  via https://www.linkedin.com/posts/gdi-de_metadaten-geodaten-activity-7318193920151085056-cwdZ
-* Standorte von Energieanlagen (Offshore und Küste)
-  https://mdi-de.org/mdi-de/?Map/layerIds=1001,layerlist-654,Windkraftanlagen_Offshore_Kueste,mastr_pv_5km_buff&visibility=true,false,true,true&transparency=0,0,0,0&Map/center=%5B412449.2314113826,5986077.248518662%5D&Map/zoomLevel=3
-  via https://de.linkedin.com/pulse/standorte-von-energieanlagen-offshore-und-k%C3%BCste-mdi-de-rnime
-* NASA Flights Map Critical Minerals From Skies
-  https://science.nasa.gov/earth/nasa-flights-map-critical-minerals-from-skies-above-western-us/
-  https://popo.jpl.nasa.gov/mmgis-aviris/?mission=GEMx
-  via https://techhub.social/@GregCocks/114417374102321076
-* Oh no. Microsoft is gonna turn off Bing Aerial Imagery for #OpenStreetMap in ca 2 months?
-  https://community.openstreetmap.org/t/discontinued-services-bing-maps-rest-services/117308/30
-  via https://machteburch.social/@MDradelt/114438248209551430
-* COORDINATE ME 2025 ist ein internationaler Wikidata-Wettbewerb rund um Geodaten
-  https://m.wikidata.org/wiki/Wikidata:Events/Coordinate_Me_2025/de
+## Karten
+### Geodaten
+Die Klassiker "Daten und Code unter Verschluss", "Inkompatible Formate und Schnittstellen", "Fehlende Auffindbarkeit", "Mangel an Ressourcen" (Zeit und Geld), "Ungenutzte Kooperationen" werden als ["Hindernisse für offene Geodateninfrastruktur"](https://prototypefund.de/hindernisse-fuer-offene-geodateninfrastrukturen/) benannt.
 
+Eine legale Quelle für das Mappen für OpenStreetMap war bisher die [Bing™ Maps Imagery API](https://learn.microsoft.com/en-us/bingmaps/rest-services/imagery/). Leider schaltet Microsoft diese freie Dienste [bis Ende Juni 2025 ab](https://community.openstreetmap.org/t/discontinued-services-bing-maps-rest-services/117308/30). Es zeigt sich hier also, wie wichtig es ist, [offene Daten von offiziellen Stellen zu bekommen](https://machteburch.social/@MDradelt/114438248209551430) und nicht vom Good-Will von Firmen abhängig zu sein.
+
+Auch Wettbewerbe wie der Wettbewerb [COORDINATE ME 2025](https://m.wikidata.org/wiki/Wikidata:Events/Coordinate_Me_2025/de) tragen dazu bei bestehende Geodaten-Objekte zu verbessern bzw. auch neue zu erfassen, in dem Fall bei der Wikidata.
+
+Um den Datenmengen aus Satellitenaufnahmen Herr zu werden, braucht es zum einen geeignete Datenformate (der [Cloud-Optimized Geospatial Formats Guide](https://guide.cloudnativegeo.org) stellt die wichtigsten vor) als auch Anwendungen wie [https://eoapi.dev](eoAPI), die die Mittel bereitstellt, auf den Daten arbeiten zu können, und auch [frei erweitert werden kann](https://github.com/developmentseed/eoapi-k8s).
+
+Erstmals können auf GovData georeferenzierte Daten [auf einer Karte angezeigt werden](https://www.linkedin.com/posts/govdata-de_opendata-ogd-itplr-activity-7318356830353522688-ebcq), diese Vorschau soll das Stöbern in den Beständen einfacher machen. 
+
+### Anwendungen
+In [einer Diskussion](https://social.tchncs.de/@advancingu/114284696227901370) über die Visualisierung von baulich getrennten Radwegen findet auch die [Karte](https://tilda-geo.de/regionen/radinfra) von [Radinfrastruktur Deutschland](https://radinfra.de) Erwähnung.
+
+Für den vom Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR) [bereitgestellten Datensatz](https://www.linkedin.com/posts/gdi-de_metadaten-geodaten-activity-7318193920151085056-cwdZ) zur Erholungsfläche je Einwohner kann man sich auch prima über deren [Anwendung INKAR](https://www.inkar.de) einen Karte zusammenklicken, die die deutschlandweiten Unterschiede [anschaulich darstellt](https://geoportal.de/map.html?map=tk_06-naherholungsflaeche).
+
+Anschaulich ist auch ist [dieser Anwendungsfall](https://www.linkedin.com/posts/soeren-etler_open-data-f%C3%BCr-mehr-sichtbarkeit-aber-wie-ugcPost-7315714957331816449-sH6E): Eine [Karte](https://domblicke.soerenetler.de) zeigt alle Orte in Magdeburg an, von denen man den Dom sehen kann.
+
+Die [Standorte von Energieanlagen](https://de.linkedin.com/pulse/standorte-von-energieanlagen-offshore-und-k%C3%BCste-mdi-de-rnime) (Offshore und Küste) findet man auf [folgender Karte](https://mdi-de.org/mdi-de/?Map/layerIds=1001,layerlist-654,Windkraftanlagen_Offshore_Kueste,mastr_pv_5km_buff&visibility=true,f.alse,true,true&transparency=0,0,0,0&Map/center=%5B412449.2314113826,5986077.248518662%5D&Map/zoomLevel=3)
+
+Ein spielerischen Zugang findet ["Your name in Landsat"](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/), bei der Namen aus Luftaufnahmen, die jeweils wie ein Buchstabe aussehen, [zusammengesetzt werden](https://fosstodon.org/@LisaHornung/114382344837279916).
+
+Weitere kreative Karten kann man über das Hashtag [#30DayChartChallenge](https://fosstodon.org/tags/30DayChartChallenge) entdecken und vielleicht auch selbst beitragen.
 
 ## Kultur
 * "Da stehe ich nun" – Wenn Daten zu flüstern beginnen: Kunst, KI und die Stimme Wiens
