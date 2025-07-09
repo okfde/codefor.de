@@ -201,25 +201,16 @@ Ein spielerischen Zugang findet ["Your name in Landsat"](https://landsat.gsfc.na
 
 Weitere kreative Karten kann man über das Hashtag [#30DayChartChallenge](https://fosstodon.org/tags/30DayChartChallenge) entdecken und vielleicht auch selbst beitragen.
 
-## Kultur
-* "Da stehe ich nun" – Wenn Daten zu flüstern beginnen: Kunst, KI und die Stimme Wiens
-  https://www.data.gv.at/2025/04/18/da-stehe-ich-nun-wenn-daten-zu-fluestern-beginnen-kunst-ki-und-die-stimme-wiens/
-  https://da-stehe-ich-nun.palacz.at
-* Interaktive Zeitreise: Neue Augmented-Reality-Stationen in der Oberlausitz machen Geschichte lebendig
-  https://sachsen.tourismusnetzwerk.info/2025/04/07/interaktive-zeitreise-neue-augmented-reality-stationen-in-der-oberlausitz-machen-geschichte-lebendig/
-  via https://www.linkedin.com/posts/urban-digital-de_in-der-oberlausitz-erm%C3%B6glichen-neue-augmented-reality-stationen-activity-7317788979087466496-xPpX
-* RaDiHum20 spricht mit Verterter*innen der Humanities@NFDI
-  https://radihum20.de/radihum20-spricht-mit-verterterinnen-der-humanitiesnfdi/
-* Wir haben ein neues #OpenGLAM Feature: Auf einer Übersichtsseite stellen wir einen Gesamtabzug der #Metadaten von Berliner Einrichtungen bereit.
-  https://www.digis-online.de/objects/berlinOpenGLAMdata/
-  via https://openbiblio.social/@digiSberlin/114352892890117038
-* Moby releases hundreds of pieces of music "to provide free instrumental music for creators. any creators. all creators".
-  https://mobygratis.com
-  via https://social.vivaldi.net/@brucelawson/114426195519871758
+Karten kommen auch oft im Datenjournalismus zum Einsatz, um so "komplexe Themen verständlich und zugänglich zu machen". In [interaktiven Erzählformaten](https://www.bjv.de/blog/bjvreport-datenjournalismus-storytelling-beispiele/) lassen sich die bei der Analyse großer Datensätze entdeckten Geschichten dem Leser näher bringen. Wie z.B. beim [Grundsteuer-Rechner](https://grundsteuer.mainpost.de) für Unterfranken, bei dem nach Eingabe wesentlicher Daten die Höhe der Grundsteuer individuell ermittelt werden kann. Eine interaktive Karte zeigt zudem die regionalen Unterschiede bei den Hebesätzen.
 
-## Journalismus
-* Wie aus Zahlen Geschichten werden. Datenjournalismus bietet die Chance, komplexe Themen verständlich und zugänglich zu machen.
-  https://www.bjv.de/blog/bjvreport-datenjournalismus-storytelling-beispiele/
+## Kultur
+[Was kommt dabei raus](https://www.data.gv.at/2025/04/18/da-stehe-ich-nun-wenn-daten-zu-fluestern-beginnen-kunst-ki-und-die-stimme-wiens/), wenn man die Open-Data-GeoJSON-Datei mit den Standorten, Beschreibungen und Fotos öffentlicher Kunstwerke Wiens der OpenAI-API als Teil eines Prompts übergibt, der daraus pro Standort jeweils einen sinnierenden Monolog im Stile eines klassischen Noir-Detektivs erzeugen soll, der dann noch über ein Open Source Text-to-Speech-System mit entsprechenden Timbre wiedergegeben wird?: die Anwendung ["Da stehe ich nun"](https://da-stehe-ich-nun.palacz.at).
+
+Das digis stellt neuerdings [eine Übersicht](https://www.digis-online.de/objects/berlinOpenGLAMdata/) an Metadaten je Berliner Kultureinrichtungen als regelmäßig aktualisierte Zip-Dateien [bereit](https://openbiblio.social/@digiSberlin/114352892890117038). So soll die Sichtbarkeit erhöht und der Zugriff auf deren offenen Daten erleichtert werden.
+
+Forschungsdaten besser auffindbar, zugänglich, interoperabel und nachnutzbar zu machen, ist auch das Anliegen der Nationalen Forschungsdateninfrastruktur (NFDI), die aus 26 Konsortien besteht. Vier davon, NFDI4Culture, NFDI4Memory, NFDI4Objects und Text+, gehören unter das Dach der "Humanities in der NFDI" und stellen sich in dieser [RaDiHum20-Folge](https://radihum20.de/radihum20-spricht-mit-verterterinnen-der-humanitiesnfdi/) vor.
+
+Auf [mobygratis.com] stellt der Musiker Moby Instrumentalmusik frei ins Netz, damit andere sie für ihre eigene kreative Arbeit nutzen können. [Einzige Auflagen sind](https://social.vivaldi.net/@brucelawson/114426195519871758), sie weder fürs Bewerben von rechtsgerichteter Politik noch tierischer Produkte zu verwenden.  
 
 ## Wirtschaft
 * Pilotprojekt Grundeinkommen: kein Rückzug vom Arbeitsmarkt, aber bessere mentale Gesundheit
@@ -235,11 +226,6 @@ Weitere kreative Karten kann man über das Hashtag [#30DayChartChallenge](https:
 * Oxfam beklagt starken Anstieg von Managergehältern
   https://www.spiegel.de/wirtschaft/soziales/deutschland-oxfam-beklagt-starken-anstieg-von-managergehaeltern-a-7d6751b9-0962-4490-85dd-512b3c978dd1?sara_ref=re-so-app-sh
 
-## Gesundheitsdaten
-* Krankenkassen: Auswertung von Patientendaten: Ärzte kritisieren "Schleppnetzfahndung"
-  https://www.mdr.de/nachrichten/deutschland/panorama/elektronische-patientenakte-abrechnungsdaten-krankenkassen-100.html
-* 
-
 ## Manipulation
 * Das Netz verschmutzt. Und die schiere Menge an digitalem Müll, der unser Geist täglich ausgesetzt ist, hinterlässt Spuren
   https://netzpolitik.org/2025/trugbild-die-vermuellung-der-welt/
@@ -247,7 +233,6 @@ Weitere kreative Karten kann man über das Hashtag [#30DayChartChallenge](https:
   https://www.telepolis.de/features/Kauf-dich-krank-Wie-der-Materialismus-unser-Wohlbefinden-zerstoert-10341950.html
 * Gefühlskiller Social Media.
   https://www.arte.tv/de/videos/122232-000-A/gefuehlskiller-social-media/
-
 
 ## AIforbibbsch
 * Der AI Act der EU schreibt demnächst eine Zertifizierung für KI vor. Ein großer Spaß im Land des TÜV. Es sind noch viele Fragen offen.
