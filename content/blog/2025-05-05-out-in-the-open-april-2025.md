@@ -224,54 +224,22 @@ Dem Gegenüber [prognostiziert eine PwC-Studie](https://www.pwc.de/de/pressemitt
 Zeit also, bestehende Überzeugungen, Machtstrukturen und Menschenbilder stärker zu hinterfragen und so z.B. der Idee, Einkommen und Arbeit zu trennen, eine Chance zu geben: Die [Auswertung des Pilotprojekts Grundeinkommen](https://www.diw.de/de/diw_01.c.945347.de/publikationen/wochenberichte/2025_15_1/pilotprojekt_grundeinkommen__kein_rueckzug_vom_arbeitsmarkt__aber_bessere_mentale_gesundheit.html) hat nämlich ergeben, dass sich die an dem Feldexperiment Teilnehmenden weiter sorgsam mit ihrem Geld umgehen und sich auch weder vermehrt vom Arbeitsmarkt zurückgezogen noch ihre Arbeitsstunden signifikant reduziert haben. Dagegen steigerte sich in der Zeit ihre mentale Gesundheit sowie ihr subjektiv empfundenes Wohlbefinden. Es somit die Ergebnisse, zu denen die jüngst in den USA durchgeführten Feldexperimente als auch ein staatliches finnisches Experiment bestätigt und [wiederlegt somit das Klischee der angeblichen Sozialen Hängematte](https://www.l-iz.de/politik/kassensturz/2025/04/auswertung-fur-das-pilotprojekt-grundeinkommen-feldstudie-mythos-soziale-hangematte-621827).
 
 ## AIforbibbsch
-* Der AI Act der EU schreibt demnächst eine Zertifizierung für KI vor. Ein großer Spaß im Land des TÜV. Es sind noch viele Fragen offen.
-  https://machteburch.social/@Marcel/114292288206496701
-  Artikel nicht mehr online
-* TÜV SÜD zertifiziert KI-Managementsysteme nach ISO/IEC 42001
-  https://www.tuvsud.com/de-de/presse-und-medien/2025/april/tuev-sued-zertifiziert-ki-managementsysteme-nach-iso-iec-42001
-* Open Source: Teil-humanoider Roboter Axon zum Selberdrucken für 1300 US-Dollar
-  https://www.heise.de/news/Axon-der-teil-humanoide-Open-Source-Roboter-aus-dem-3D-Drucker-10352030.html
-  https://github.com/plomek/Axon-Robot?tab=readme-ov-file
-* Weniger Klicks im Web? EU-Kommission untersucht Googles KI-Übersichten
-  https://www.heise.de/news/Weniger-Klicks-im-Web-EU-Kommission-untersucht-Googles-KI-Uebersichten-10356981.html
-  * Googles KI-Suche lässt Traffic auf Webseiten massiv einbrechen
-    https://www.onlinehaendler-news.de/ki-tech/unternehmen/google-ki-suche-traffic-webseiten-massiv-einbrechen
-* LG: Smart-TVs sollen Emotionen der Zuschauer überwachen und per KI auswerten
-  https://www.heise.de/news/LG-Smart-TVs-sollen-Emotionen-der-Zuschauer-ueberwachen-und-per-KI-auswerten-10357123.html
+Der [Open-Source-Roboter Axon](https://github.com/plomek/Axon-Robot) kann in seiner humanodier Erscheinungsform Arme und Kopf bewegen und umherfahren. Durch seine KI-Spracherkennung lässt er sich auch durch verbale Befehle steuern, kann aber auch über Eingaben auf einer Webseite bewegt werden. Weitere Fragen lassen sich von ihm über die LLM-Integration beantworten. Die Hardware des Roboters [kann man komplett selbst 3D-drucken](https://www.heise.de/news/Axon-der-teil-humanoide-Open-Source-Roboter-aus-dem-3D-Drucker-10352030.html), die benötigten CAD- und STL-Dateien liegen wie der Quellcode unter "Creative Commons Attribution-NonCommercial 4.0 International"-Lizenz veröffentlicht.
 
-### Energieverbrauch
-* Bis 2030: Internationale Energieagentur rechnet mit Verdopplung des Stromverbrauchs für Datenzentren
-  https://www.spiegel.de/wirtschaft/internationale-energieagentur-rechnet-mit-verdopplung-des-stromverbrauchs-fuer-datenzentren-a-465eedf6-3223-4cf3-8268-4c56171d4842
-* "Die Energieverbräuche durch KI gehen durch die Decke"
-  https://taz.de/Stromfresser-Kuenstliche-Intelligenz/!6077262/
-* Der KI-Hype und der damit verbundene Bau-Boom bei Rechenzentren befeuern den globalen Energieverbrauch
-  https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works
-  via https://mamot.fr/@roofjoke/114318836882710940
-* Elon Musk’s xAI is running 35 methane gas burning turbines (enough for a small city) while only having a permit for 15
-  https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musks-xai-allegedly-powers-colossus-supercomputer-facility-using-illegal-generators
-  via https://social.rebellion.global/@ExtinctionR/114324168786363196
+Dadurch, dass Suchmaschinen wie Google zunehmend Suchtreffer mit KI-generierten Zusammenfassungen der Inhalte aus den durch sie verlinkten Webseiten anreichern, sinkt der Bedarf der Nutzer, die eigentliche Webseite zu besuchen. Einige von ihnen haben so [im letzten Jahr 70 bis gar 90 Prozent ihres Traffics verloren](https://www.onlinehaendler-news.de/ki-tech/unternehmen/google-ki-suche-traffic-webseiten-massiv-einbrechen). Mit Folgen für die Betreiber dieser Seiten, wenn sie sich durch Werbeeinnahmen finanzieren und auf die Klicks angewiesen sind. [Die EU-Kommission prüft nun](https://www.heise.de/news/Weniger-Klicks-im-Web-EU-Kommission-untersucht-Googles-KI-Uebersichten-10356981.html), ob dadurch Verstöße gegen EU-Urheberrechtsvorschriften vorliegen, unlauterer Wettbewerb nach Digital Markets Act (DMA) bzw. Digital Services Act (DSA) betrieben und/oder der Schutz der Medienvielfalt (im EU-Medienfreiheitsgesetz geregelt) verletzt wird.
 
+Die EU-KI-Verordnung untersagt zum Glück die automatische Erkennung von Emotionen als nicht zulässige Überwachungstechnik. So bleiben uns hier die neuen LG-Smart-TVs erspart, [die genau eine solche KI-basierte Auswertung der Fernsehenden vornehmen möchte](https://www.heise.de/news/LG-Smart-TVs-sollen-Emotionen-der-Zuschauer-ueberwachen-und-per-KI-auswerten-10357123.html), um Personalisierung und Targeting für ihre Werbekunden zu optimieren (bzw. deren Unterbewusstsein durch emotionalisierende Ansprache kontextabhängig zu manipulieren).
+
+Die Internationale Energieagentur [rechnet mit einer Verdopplung](https://www.spiegel.de/wirtschaft/internationale-energieagentur-rechnet-mit-verdopplung-des-stromverbrauchs-fuer-datenzentren-a-465eedf6-3223-4cf3-8268-4c56171d4842) des Stromverbrauchs für Datenzentren bis 2030 (von denen auch immer mehr gebaut werden müssen). Neben 5G-Mobilfunk und Streaming ist auch KI nicht unschuldig daran, einmal durch das stete Neutrainieren, [aber auch für die immer aufwändigere Abwehr von KI-basierten Angriffen auf die IT-Infrastruktur](https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works). Inwieweit die KI selbst dazu beitragen kann, ihre Energieeffizenz von Datenzentren zu verbessern, bleibt abzuwarten. Derzeit kommt der Strom noch von z.B. [Methan-ausstoßenden Gas-Turbinen](https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musks-xai-allegedly-powers-colossus-supercomputer-facility-using-illegal-generators). Erschwerend [fehlen exakten Zahlen zum KI-Stromverbrauch](https://taz.de/Stromfresser-Kuenstliche-Intelligenz/!6077262/), da Berichtspflichten dazu fehlen. Da der Einsatz von KI auch ein Gefühl von Modernität (siehe Werbekritik oben) vermittelt, wird sie auch an Stellen eingebaut, an denen sie nicht sinnvoll ist, aber eben den Energieverbrauch zusätzlich anheizt. 
 
 ## Recap
-* Easterhegg 2025
-  https://media.ccc.de/b/conferences/easterhegg/2025
-* Frictionless Summit documentation
-  https://blog.okfn.org/2025/04/07/frictionless-summit-review-the-recording-and-learn-about-the-next-steps-for-frictionless-data/
-  via https://fosstodon.org/@okfn/114298543182752259
-* FSFE-Fachtag "Public Money? Public Code! in der Praxis"
-  https://fsfe.org/news/2025/news-20250409-01.html
-  via https://mastodon.social/@johas/114308904808218078
-* Dresden Nexus Conference 2025
-  http://dresden-nexus-conference.org/media-centre/news/die-hoehepunkte-der-dresden-nexus-conference-2025-nachhaltige-ressourcen-und-kunst-im-dialog-fuer-eine-bessere-zukunft
-* Who Owns Free Knowledge?
-  https://www.weizenbaum-institut.de/news/detail/who-owns-free-knowledge-report/
-* Civic Coding-Schlaglicht auf dem transform_D Summit
-  https://www.civic-coding.de/angebote/meldungen/transform-d-summit-wir-waren-dabei-civic-coding-roadshow
-* Prototype Fund Newsletter
-  https://te917244a.emailsys1a.net/mailing/172/8285572/0/98cda8b751/index.html
-* GeoDialog Berlin
-  https://www.linkedin.com/posts/technologiestiftung_geodialog-geodaten-opendata-activity-7318256933163929600-cmjh
-
+* [Easterhegg 2025](https://media.ccc.de/b/conferences/easterhegg/2025)
+* [Frictionless Summit documentation](https://blog.okfn.org/2025/04/07/frictionless-summit-review-the-recording-and-learn-about-the-next-steps-for-frictionless-data/)
+* [FSFE-Fachtag "Public Money? Public Code! in der Praxis"](https://fsfe.org/news/2025/news-20250409-01.html)
+* [Who Owns Free Knowledge?](https://www.weizenbaum-institut.de/news/detail/who-owns-free-knowledge-report/)
+* [Civic Coding-Schlaglicht auf dem transform_D Summit](https://www.civic-coding.de/angebote/meldungen/transform-d-summit-wir-waren-dabei-civic-coding-roadshow)
+* [Prototype Fund Newsletter](https://te917244a.emailsys1a.net/mailing/172/8285572/0/98cda8b751/index.html)
+* [GeoDialog Berlin](https://www.linkedin.com/posts/technologiestiftung_geodialog-geodaten-opendata-activity-7318256933163929600-cmjh)
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Montag, 05.05.2025, 09:15, bis Mittwoch, 07.05.2025, 17:30, online: **Energietage 2025** <a title='Kalendereintrag Energietage 2025' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRW5lcmdpZXRhZ2UgMjAyNS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI1MDUwNVQyMjExMTFaDQpEVFNUQVJUOjIwMjUwNTA1VDA5MTUwMA0KRFRFTkQ6MjAyNTA1MDdUMTczMDAwDQpTVU1NQVJZOkVuZXJnaWV0YWdlIDIwMjUNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vd3d3LmVuZXJnaWV0YWdlLmRlL2tvbmdyZXNzL2dlc2FtdHByb2dyYW1tLmh0bWwNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
