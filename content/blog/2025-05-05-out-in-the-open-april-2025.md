@@ -213,26 +213,15 @@ Forschungsdaten besser auffindbar, zugänglich, interoperabel und nachnutzbar zu
 Auf [mobygratis.com] stellt der Musiker Moby Instrumentalmusik frei ins Netz, damit andere sie für ihre eigene kreative Arbeit nutzen können. [Einzige Auflagen sind](https://social.vivaldi.net/@brucelawson/114426195519871758), sie weder fürs Bewerben von rechtsgerichteter Politik noch tierischer Produkte zu verwenden.  
 
 ## Wirtschaft
-* Pilotprojekt Grundeinkommen: kein Rückzug vom Arbeitsmarkt, aber bessere mentale Gesundheit
-  https://www.diw.de/de/diw_01.c.945347.de/publikationen/wochenberichte/2025_15_1/pilotprojekt_grundeinkommen__kein_rueckzug_vom_arbeitsmarkt__aber_bessere_mentale_gesundheit.html
-  via https://www.l-iz.de/politik/kassensturz/2025/04/auswertung-fur-das-pilotprojekt-grundeinkommen-feldstudie-mythos-soziale-hangematte-621827
-* Wiens Kassasturz: Wie die finanzielle Lage der Stadt wirklich aussieht
-  https://www.derstandard.at/story/3000000265488/wiens-kassasturz-wie-die-finanzielle-lage-der-stadt-wirklich-aussieht
-  mit Erwähnung von Offenerhaushalt.at, 
-  via https://www.linkedin.com/posts/krabina_wiens-kassasturz-wie-die-finanzielle-lage-activity-7317780868654149633-YF21
-* Kommunen verzeichnen im Jahr 2024 Rekorddefizit von 24,8 Milliarden Euro
-  https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/04/PD25_126_71137.html
-  https://www.tagesschau.de/wirtschaft/kommunen-schulden-100.html
-* Oxfam beklagt starken Anstieg von Managergehältern
-  https://www.spiegel.de/wirtschaft/soziales/deutschland-oxfam-beklagt-starken-anstieg-von-managergehaeltern-a-7d6751b9-0962-4490-85dd-512b3c978dd1?sara_ref=re-so-app-sh
+Laut einer [Oxfam-Analyse](https://www.oxfam.de/presse/pressemitteilungen/2025-04-30-ceo-gehaelter-steigen-56-mal-so-stark-loehne-beschaeftigten) stiegen die Gehälter deutscher Spitzenmanager 2024 [30-mal so stark](https://www.spiegel.de/wirtschaft/soziales/deutschland-oxfam-beklagt-starken-anstieg-von-managergehaeltern-a-7d6751b9-0962-4490-85dd-512b3c978dd1?sara_ref=re-so-app-sh) wie die Reallöhne aller Beschäftigten. Die Zahlen zu den Vorständen stammen aus von S&P Capital IQ zusammengetragene öffentlich verfügbaren Unternehmen-Finanzdaten, die zu den Arbeitnehmern aus den [Global Wage Reports 2024-2025 der International Labour Organisation (ILO)](https://www.ilo.org/publications/flagship-reports/global-wage-report-2024-25-wage-inequality-decreasing-globally).
 
-## Manipulation
-* Das Netz verschmutzt. Und die schiere Menge an digitalem Müll, der unser Geist täglich ausgesetzt ist, hinterlässt Spuren
-  https://netzpolitik.org/2025/trugbild-die-vermuellung-der-welt/
-* Kauf dich krank – Wie der Materialismus unser Wohlbefinden zerstört
-  https://www.telepolis.de/features/Kauf-dich-krank-Wie-der-Materialismus-unser-Wohlbefinden-zerstoert-10341950.html
-* Gefühlskiller Social Media.
-  https://www.arte.tv/de/videos/122232-000-A/gefuehlskiller-social-media/
+Gleichzeitig [meldet das Statistische Bundesamt](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/04/PD25_126_71137.html) für 2024 das "höchste kommunale Finanzierungsdefizit seit der deutschen Vereinigung im Jahr 1990". Bei der [Einordnung der Zahlen](https://www.tagesschau.de/wirtschaft/kommunen-schulden-100.html) wird aber einseitig auf die Kostenseite (gestiegene Sozialausgaben und Personalkosten) geschaut, statt auch zu fragen, warum diese entstanden sind (wenn Leute Jobs hätten, von denen sie leben können, bräuchten sie keine Sozialleistungen, wenn Unternehmen angemessene Steuern bezahlen würde (das Geld für die Managergehälter ist ja da), hätte der Staat die Einnahmen, um seine Personalkosten zu decken).
+
+Auch die österreichische Stadt Wien meldete für das letzte Jahr [ein Defizit von mehr als 1,6 Milliarden Euro](https://www.derstandard.at/story/3000000265488/wiens-kassasturz-wie-die-finanzielle-lage-der-stadt-wirklich-aussieht). Insgesamt knapp 20 Milliarden Euro gibt die Gemeinde pro Jahr aus. Wohin dieses Geld fließt, kann man interaktiv auf [offenerhaushalt.at](https://www.offenerhaushalt.at) [erkunden](https://www.linkedin.com/posts/krabina_wiens-kassasturz-wie-die-finanzielle-lage-activity-7317780868654149633-YF21). Dass die Kosten für Gesundheit, Bildung und Soziales so steigen, liegt an dem Umstand, dass in Wien seit 1989 um rund eine halbe Million Menschen mehr wohnen und sich auch der demografische Wandel zunehmend auswirkt. Während Ausgaben jährlich um 6 bis 10 Prozent steigen, erhöhten sich die Einnahmen nur um 4-5% - das kann sich nicht ausgehen. 
+
+Dem Gegenüber [prognostiziert eine PwC-Studie](https://www.pwc.de/de/pressemitteilungen/2024/globale-werbeerloese-werden-voraussichtlich-bis-2026-die-marke-von-einer-billion-us-dollar-ueberschreiten.html) für dieses Jahr weltweite Ausgaben für Werbung über eine Billion US-Dollar, für 2028 ist bereits eine Verdoppelung zu 2020 absehbar. [Im Artikel](https://www.telepolis.de/features/Kauf-dich-krank-Wie-der-Materialismus-unser-Wohlbefinden-zerstoert-10341950.html), der diese Studie auch erwähnt, wirft grundsätzliche Fragen auf, mit welchen (und nach wessen) Prioritäten wie gewirtschaftet wird. 
+
+Zeit also, bestehende Überzeugungen, Machtstrukturen und Menschenbilder stärker zu hinterfragen und so z.B. der Idee, Einkommen und Arbeit zu trennen, eine Chance zu geben: Die [Auswertung des Pilotprojekts Grundeinkommen](https://www.diw.de/de/diw_01.c.945347.de/publikationen/wochenberichte/2025_15_1/pilotprojekt_grundeinkommen__kein_rueckzug_vom_arbeitsmarkt__aber_bessere_mentale_gesundheit.html) hat nämlich ergeben, dass sich die an dem Feldexperiment Teilnehmenden weiter sorgsam mit ihrem Geld umgehen und sich auch weder vermehrt vom Arbeitsmarkt zurückgezogen noch ihre Arbeitsstunden signifikant reduziert haben. Dagegen steigerte sich in der Zeit ihre mentale Gesundheit sowie ihr subjektiv empfundenes Wohlbefinden. Es somit die Ergebnisse, zu denen die jüngst in den USA durchgeführten Feldexperimente als auch ein staatliches finnisches Experiment bestätigt und [wiederlegt somit das Klischee der angeblichen Sozialen Hängematte](https://www.l-iz.de/politik/kassensturz/2025/04/auswertung-fur-das-pilotprojekt-grundeinkommen-feldstudie-mythos-soziale-hangematte-621827).
 
 ## AIforbibbsch
 * Der AI Act der EU schreibt demnächst eine Zertifizierung für KI vor. Ein großer Spaß im Land des TÜV. Es sind noch viele Fragen offen.
