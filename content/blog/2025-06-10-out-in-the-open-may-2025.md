@@ -77,36 +77,25 @@ Berichte mit verlässliche Daten zu Energie, sei es zu Öl, Gas oder erneuerbare
 Eine eindrucksvolle Form [des Protests](https://social.tchncs.de/@antux/114602201134630120): 100 Stunden Wetter- und Klimaforschung [im Livestream](https://www.youtube.com/watch?app=desktop&v=r58FtmM4sDY) mit allgemein verständlichen Präsentationen von über 200 US-amerikanischen Metreologen und Klimaforschern zu deren Arbeit und Forschung, deren Zukunft durch die geplanten drastischen Budgetkürzungen bedroht ist.
 
 ## Digitale Souveränität
-* "Meilenstein für digitale Souveränität": 20 Jahre Open Document Format (ODF)
-  https://www.heise.de/news/Meilenstein-fuer-digitale-Souveraenitaet-20-Jahre-Open-Document-Format-ODF-10370728.html
-* Milliarden-Einsparpotenzial: GI-Arbeitskreise fordern verbindlichen Rollout von openDesk
-  https://gi.de/meldung/milliarden-einsparpotenzial-gi-arbeitskreise-fordern-verbindlichen-rollout-von-opendesk 
-* Dass MetaGer nicht nur weiter bestehen kann, sondern sogar eine neue Suchmaschine entwickelt, liegt vor allem auch daran, dass wir so viele Mitglieder für den SUMA-EV gewonnen haben
-  https://suma-ev.social/@MetaGer/114459820701611045
-* Stuttgart nutzt digitale Plattform Nextcloud für effiziente Zusammenarbeit
-  https://www.cio.de/article/3977218/stuttgart-nutzt-digitale-plattform-fur-effiziente-zusammenarbeit.html
-  * Künftig wird die Landeshauptstadt #Stuttgart ihren eigenen Source Code auf #openCode einbringen
-    https://de.linkedin.com/posts/thomas-b%C3%B6nig-ba09b016_stuttgart-opencode-opensource-activity-7323251396353380353-0DMv
-* Für welche Bundesländer gibt es Mastodon-Server? Ich habe diese gefunden. 5 Länder betrieben selbst Server. Für 6 weitere Länder gibt es Firmen oder Privatleute, die einen Server betreiben.
-  https://norden.social/@MisterOpenData/114487712481263934
-* "In Deutschland bekennen sich viele Politiker lautstark zur digitalen Souveränität. Doch wenn es ernst wird, bleiben nur leere Worte. Es ist erschreckend, wie wenig Substanz hinter diesen Bekenntnissen steckt."
-  https://social.tchncs.de/@kuketzblog/114574633210957989
-* Digitales Desaster: T-Systems lässt Schulplattform des Landes fallen – Wie Logineo zum Millionengrab wurde
-  https://www.news4teachers.de/2025/05/digitales-desaster-t-systems-laesst-schulplattform-des-landes-fallen-wie-logineo-zum-millionengrab-wurde/
-* "Das ist eine brillante, wie brutale und disziplinierende Idee: das neue #Digitalministerium sollte in Kooperation mit den Ländern systematisch erheben, welche Digitalisierungsprojekte in den letzten zehn Jahren, mit welchem Budgets gestartet wurden, welche davon erfolgreich waren und welche gescheitert sind, inklusive Beratungsaufträge an die Big Five und was aus solchen konkret herausgekommen ist)."
-  https://de.linkedin.com/posts/max-von-grafenstein-208a8632_schulcloud-logineo-200-millionen-projekt-activity-7329426379802820610-IOhu
-* Das Prinzip Offenheit in der Entwicklung und Kommunikation der Corona-Warn-App
-  https://link.springer.com/article/10.1365/s35764-025-00555-4
-  via https://social.tchncs.de/@CCTG/114587521980622941
-* From Software to Society — Openness in a changing world
-  https://okfn.de/blog/2025/05/from-software-to-society-openness-in-a-changing-world/
-* RSS feed for CISA KEV vulnerabilities, powered by Vulnerability-Lookup:
-  https://www.vulnerability-lookup.org/user-manual/feed-syndication/#most-recent-entries-from-known-exploited-vulnerabilities
-  via https://fosstodon.org/@cedric/114502389098508912
-* Der Amazon-Konzern weigert sich, die Cloud-Verträge mit dem Schweizer Staat öffentlich zu machen
-  https://netzpolitik.org/2025/digitale-souveraenitaet-amazon-will-cloud-vertraege-in-der-schweiz-geheim-halten/
-  via https://chaos.social/@netzpolitik_feed/114549769789391457
+Die Meldung, dass die [Bundeswehr für ihre private Cloud nun auf Google setzt](https://www.heise.de/news/Bundeswehr-setzt-auf-Google-Cloud-10397414.html), kommentiert der Kuketz-Blog mit [den folgenden Worten](https://social.tchncs.de/@kuketzblog/114574633210957989): "In Deutschland bekennen sich viele Politiker lautstark zur digitalen Souveränität. Doch wenn es ernst wird, bleiben nur leere Worte. Es ist erschreckend, wie wenig Substanz hinter diesen Bekenntnissen steckt."
 
+Denn solange der Quellcode einer Technologie geheim und unter Kontrolle eines Konzerns bleibt, kann man nur von "Souveränitätswashing" sprechen, wie es Netzpolitik [in einem Artikel formuliert](https://netzpolitik.org/2025/digitale-souveraenitaet-amazon-will-cloud-vertraege-in-der-schweiz-geheim-halten/), der thematisiert, dass der sich Amazon aktuell weigert, die Cloud-Verträge mit dem Schweizer Staat öffentlich zu machen (obwohl der Staat selbst grünes Licht für die Veröffentlichung gegeben hatte).
+
+Auch das andere Extrem, eine komplette proprietäre Individualentwicklung ist der falsche Weg, wie man an der Schulplattform Logineo eigentlich [endlich sehen müsste](https://www.news4teachers.de/2025/05/digitales-desaster-t-systems-laesst-schulplattform-des-landes-fallen-wie-logineo-zum-millionengrab-wurde/). Obwohl (oder gerade weil) nie richtig fertig geworden, werden in ihre (Fertig-/Weiter-)Entwicklung seit über 10 Jahren 200 Millionen Euro versenkt. Und der Ausstieg des IT-Dienstleisters T-Systems aus dem Vertrag zur geplanten Sanierung macht nun alles noch schlimmer, es droht das komplette aus. 
+
+Kai Gärtner schlägt daher vor, dass das Digitalministerium doch mal evaluieren sollte, ob nicht eine bestehende Lösung eines anderen Bundeslandes zum Standard erklärt und in NRW ausgerollt werden sollte, oder, [wie Max von Grafenstein findet](https://de.linkedin.com/posts/max-von-grafenstein-208a8632_schulcloud-logineo-200-millionen-projekt-activity-7329426379802820610-IOhu), noch genereller vorgehen: bundesweit alle Digitalisierungsprojekte (inklusive Beratungsaufträgen an die großen Cloud-Provider) der letzten 10 Jahre hinsichtlich Bugdet, Erfolg oder Misserfolg auszuwerten und die erfolgreichen davon in den anderen Bundesländern ausrollen.
+
+Das Standardisierung bereits bei den Daten beginnt zeigt sich am Open Document Format (ODF), welches am 1. Mai 2005 vom Standardisierungsgremium OASIS als internationaler Standard für ein quelloffenes Dateiformat für Textdokumente, Präsentationen und Tabellen anerkannt wurde. Die Document Foundation feiert nun den 20. Geburtstag etwas überschwenglich als "Meilenstein für digitale Souveränität". Denn auch Microsoft OOXML besteht weiterhin und die beiden Formate lassen immer noch nicht in jedem Fall verlustfrei ineinander überführen. Dennoch hat sich der IT-Planungsrat durchgerungen, ["ODF bis 2027 zum Standard für den Dokumentenaustausch in der öffentlichen Verwaltung zu machen"](https://www.heise.de/news/Meilenstein-fuer-digitale-Souveraenitaet-20-Jahre-Open-Document-Format-ODF-10370728.html). 
+
+Auch Nextcloud ist odt standardmäßig auf die ODF-Formate vorkonfiguriert. Auf diese Lösung dürfen sich die Beschäftigten der Stuttgarter Stadtverwaltung als neues Werkzeug zum gemeinschaftlichen Bearbeiten von Dokumenten in der Cloud [freuen](https://www.cio.de/article/3977218/stuttgart-nutzt-digitale-plattform-fur-effiziente-zusammenarbeit.html). Zudem wollen die Stuttgarter von ihnen selbst entwickelten Programmcode ab sofort [als Open Source auf OpenCode teilen](https://de.linkedin.com/posts/thomas-b%C3%B6nig-ba09b016_stuttgart-opencode-opensource-activity-7323251396353380353-0DMv), auch im Sinne von Wissenteilen und Innovationsförderung. 
+
+Fünf Jahre nach dem ersten Release und zwei Jahre nach ihrer Abschaltung schaut ein Team des RKI im Open-Access-Artikel ["Das Prinzip Offenheit in der Entwicklung und Kommunikation der Corona-Warn-App"](https://link.springer.com/article/10.1365/s35764-025-00555-4) zurück, wie ihre offene Entwicklung ihr genützt hat und was in künftigen Projekten dennoch besser machen könnte.
+
+Die neue OKF-Studie [From Software to Society: Openness in a Changing World](https://okfn.de/publikationen/fromsoftwaretosociety/) untersucht [die Herausforderungen](https://okfn.de/blog/2025/05/from-software-to-society-openness-in-a-changing-world/), die die aktuelle Weltlage an das Konzept der Offenheit stellt. So sollte man sich klar darüber sein, was man mit der Offenheit überhaupt bezwecken möchte. Zudem sollte Maßnahmen ergriffen werden, dass Offenheit nicht zur Einbahnstraße wird, bestehende Machtstrukturen nicht zementiert werden und die Werte der Ersteller geachtet werden. Denn die Gefahren sind klar: idealistisch geteilten Software und Daten werden von Großkonzernen vereinnahmt ohne dass sie irgendwas zurückgeben, im Gegenteil, es hilft ihnen ihre Kosten zu senken und ihre Gewinne weiter zu maximieren. Die eigene propietäre Software lässt sich leicht mit den Ideen aus der Community weiter verbessern und dann weiterhin teuer verkaufen / vermieten, ohne dass die Community etwas davon hätte. Offene Software lässt sich ohne Auflage auch von Feinden der offenen Gesellschaft für ihre Zwecke missbrauchen, wenn nicht durch entsprechende Lizenzierungsmodelle (und deren Durchsetzung) dem Einhalt gebietet.
+
+Auch genossenschaftliche Modelle oder generell die Finanzierung über Mitgliedsbeiträge können helfen langfristig den Erhalt und die Weiterentwicklung einer Software abzusichern, [wie z.B. bei der Meta-Suchmaschine MetaGer](https://suma-ev.social/@MetaGer/114459820701611045), die sich komplett werbefrei nutzen lässt und nun auch [mit Nolm eine eigene Suchmaschine entwickelt](https://suma-ev.de/pressemitteilung-vom-15-4-2025-metager-betreiber-praesentieren-die-entwicklung-einer-suchmaschine-auf-basis-des-open-web-index/), die auf dem europäischen [Open Web Index (OWI)](https://openwebindex.eu) basiert.
+
+Viele der Mastodon-Instanzen werden ehrenamtlich oder von Firmen betrieben. Gerade die ehrenamtlichen sind dabei auf Spenden angewiesen, um Serverkosten und den Zeitaufwand für die Moderation und Wartung finanzieren zu könnne. Es sollte daher auch Teil der digitalen Daseinsfürsorge sein, dass der Staat auch Instanzen zur Verfügung stellt. [Nach einer Analyse](https://norden.social/@MisterOpenData/114487712481263934) besteht da noch Ausbaubedarf.
 
 ## Digitalisierung
 * Organisationserlass: Aufgaben des neuen Digitalministeriums 
