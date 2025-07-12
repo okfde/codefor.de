@@ -27,7 +27,7 @@ Der neue kostenlosen Kurs ["Quality and Consistent Data with the Open Data Edito
 ## Linked Open Data
 Wie beim Open Data Ranking bereits angesprochen, hat Berlin Linked Open Data für sich entdeckt. [Mit Unterstützung](https://de.linkedin.com/posts/juliaschabos_opendata-linkedopendata-lod-activity-7329146892896903168-bSko) der Open Data Informationsstelle Berlin (ODIS), Berlin Online, der Senatskanzlei Berlin sowie der Staatskanzlei Schleswig-Holstein und der Open Knowledge Foundation Deutschland e. V. sind nun die [Berliner Haushaltsdaten jetzt als Linked Open Data verfügbar](https://berlin.github.io/lod-budget/) und wurde auch auf dem [Berliner Open Data Day 2025](https://daten.berlin.de/artikel/berlin-open-data-day-2025) vorgestellt. Wie man konkrete Fragestellungen, wie z.B. wo es im Jahr 2023 in Berlin ungeplant zu Mehrausgaben gekommen ist, mit den Haushaltsdaten beantworten, zeigt diese [Datengeschichte](https://odis-berlin.de/aktuelles/2025-04-16-datengeschichten-aufwendungen/) des ODIS.
 
-Wie Linked Data bei dem Umgang mit Straßennamen helfen kann, [führt Stefan in seinem Blogbeitrag aus](https://stefan.bloggt.es/2025/05/what-is-in-a-street-name-schoener-leben-mit-linked-data/). Dann stellen unterschiedliche Schreibweisen bzw. Mehrdeutigkeiten kein Problem mehr da, ist die Zuordnung zu Personen, nach der Straße benannt wurde, eindeutig möglich, können die zugehörigen geografischen Geometrien aufgelöst werden und zum Beispiel für den (Neu-)Zuschnitt von Wahlbezirken (bzw. deren Darstellung im Datenjournalismus) rangezogen werden.
+Wie Linked Data bei dem Umgang mit Straßennamen helfen kann, [führt Stefan in seinem Blogbeitrag aus](https://stefan.bloggt.es/2025/05/what-is-in-a-street-name-schoener-leben-mit-linked-data/). Dann stellen unterschiedliche Schreibweisen bzw. Mehrdeutigkeiten kein Problem mehr da, ist die Zuordnung zu Personen, nach der Straße benannt wurde, eindeutig möglich, können die zugehörigen geografischen Geometrien aufgelöst werden und zum Beispiel für den (Neu-)Zuschnitt von Wahlbezirken (bzw. deren Darstellung im Datenjournalismus) rangezogen werden. Etwas übertrieben hat es [dieser Däne](https://mastodon.cloud/@brodersen/114564204781215779), der einen [Routenplaner](https://navne.findvej.dk) geschrieben hat, der Straßen bevorzugt, die nach Frauen benamt worden sind.
 
 Nach dem Verkauf von Sketchfab müssen viele Terrabyte Daten von freien 3D-Modellen nun woanders gespeichert werden. Da es auf vielen Servern der Community noch ungenutzten Speicherplatz gibt, würde es sich anbieten, die Daten dezentral auf diesen zu speichern. Nur wie findet man sie dann wieder? [OKLab Köln](https://codefor.de/koeln/) möchte dies mit [ihren Prototyp](https://codeforcologne.github.io/linked-distributed-data/) (auch [Open Source auf Github](https://github.com/codeforcologne/linked-distributed-data/) zu finden) lösen, indem dieser die verteilten Daten mit JSON-LD vernetzt.
 
@@ -131,46 +131,23 @@ Neben Informationen zu Landbedeckung und Landnutzung enthält das [Landbedeckung
 Das Landesamt für Geoinformation und Landentwicklung Baden-Württemberg haben eine [Tutorial-Serie](https://www.youtube.com/playlist?list=PLBUaj9k27wgGgfpc3vpH_pL6P8MkfL6PZ) zu offenen Geodaten gestartet, [um zu erklären](https://de.linkedin.com/posts/landesamt-f%C3%BCr-geoinformation-und-landentwicklung-baden-w%C3%BCrttemberg_download-von-offenen-geodaten-opendata-activity-7310948703358320641-r6IH), wie man das [Open GeoData-Portal](https://www.lgl-bw.de/Produkte/Open-Data) bedient und was man mit den Daten alles anstellen kann.
 
 ## Mobilität
-* lars' transport maps
-  https://larstransportmaps.com
-  via https://mastodon.social/@larstransportworld/114448314891160866
-* Jetzt für alle: Das Gutachten zu den möglichen Streckenreaktivierungen in MV.
-  https://fragdenstaat.de/dokumente/271150-untersuchung-zum-fahrgastpotenzial-moglicher-streckenreaktivierungen-in-mecklenburg-vorpommern/
-  via https://zug.network/@mabamv/114456705826867826
-* Stuttgart setzt Scan-Autos gegen Falschparker ein
-  https://www.telepolis.de/features/Stuttgart-setzt-Scan-Autos-gegen-Falschparker-ein-10374884.html
-* So close, yet so far: A new method for identification of high-impact missing links in pedestrian networks
-  https://www.sciencedirect.com/science/article/abs/pii/S0198971525000432
-  via https://datasci.social/@mszll/114499318450197559
-* Themenmonat Mai: Mobilität und Gesundheitsrisiken
-  https://www.mobil-auf-deine-weise.de/themenmonate/mai/
-  https://www.mobil-auf-deine-weise.de
-* Die Busfahrer fehlen - und das hat Folgen
-  https://www.tagesschau.de/wirtschaft/arbeitsmarkt/oepnv-busfahrer-nachwuchsmangel-100.html
-* In Hamburg wurde an einer stark befahrenen Straße geschaut, wie viele Zufußgehende diese in 24 Stunden überqueren.
-  https://iceshrimp.de/notes/a81l2l2tpjzo337x
-* Auswertung Fahrradwege Thüringen
-  https://social.tchncs.de/@advancingu/114547827928931672
-  * https://tilda-geo.de/regionen/bb-kampagne?map=11%2F52.397%2F13.034&config=bv3m8i.5ount1.36q&v=2
-  * https://tilda-geo.de
-* working route planner for Denmark that refuses to drive on roads named after men
-  https://navne.findvej.dk
-  via https://mastodon.cloud/@brodersen/114564204781215779
-* Erweitertes Buchungssystem: Wie Bahnfahren in Europa einfacher wird
-  https://www.tagesschau.de/wirtschaft/verbraucher/bahn-internationale-tickets-100.html
-* GehCheck
-  https://gehcheck.werdenktwas.de/page/app
+[Lars' transport maps](https://larstransportmaps.com) zeigt jetzt [aktualisiert](https://mastodon.social/@larstransportworld/114448314891160866) die Zugverbindungs-Diagramme für 11 europäische Länder.
 
-## Energie
-* eGon-data – Datenpipeline für das deutsche #Energiesystem
-  https://reiner-lemoine-institut.de/tool/egon-data/
-  via https://wisskomm.social/@RL_Institut/114500049447353401
-* Willkommen in Feldheim - Energieautarker Ort der Stadt Treuenbrietzen im Landkreis Potsdam-Mittelmark - 12 Cent für eine Kilowattstunde Strom
-  https://mil.brandenburg.de/sixcms/media.php/9/NEF_Feldheim.pdf
-  https://www.spiegel.de/wirtschaft/soziales/feldheim-in-brandenburg-warum-dieses-dorf-nur-12-cent-fuer-strom-bezahlt-a-980172a0-da2b-450a-9768-4a3f6b681cfd
-  via https://chaos.social/@kattascha/114502479599711117
-* Welche Auswirkungen hätten Strompreiszonen in Deutschland?
-  https://www.basicthinking.de/blog/2025/05/05/strompreiszonen-deutschland/
+Statt wie jetzt für grenzüberschreitende Zug-Fahrten Tickets einzeln kaufen zu müssen, [soll dies ab Herbst deutlich einfacher werden](https://www.tagesschau.de/wirtschaft/verbraucher/bahn-internationale-tickets-100.html). So soll über die deutsche Bahn-App zunächst Österreich und Schweiz, ein paar Monate später weitere Länder angebunden werden.
+
+Über eine FragDenStaat-Anfrage wird eine [Untersuchung zum Fahrgastpotenzial möglicher Streckenreaktivierungen in Mecklenburg-Vorpommern](https://fragdenstaat.de/dokumente/271150-untersuchung-zum-fahrgastpotenzial-moglicher-streckenreaktivierungen-in-mecklenburg-vorpommern/) für alle zugänglich.
+  
+Eine Gefahr für die Verkehrswende ist dagegen der sich [abzeichnende Mangel an Busfahrer:innen](https://www.tagesschau.de/wirtschaft/arbeitsmarkt/oepnv-busfahrer-nachwuchsmangel-100.html), ohne Gegenmaßnahmen, wird er den Ausbau des ÖPNV und die Steigerungen der Fahrgastzahlen spürbar ausbremsen.  
+
+Falschparker sind ein Ärgernis für alle Verkehrsbeteiligten. Während bei der Parkraumüberwachung zu Fuß gerade mal 50 Fahrzeuge pro Stunde kontrolliert werden können, sind es mit Scan-Fahrzeugen, [wie sie nun in Stuttgart zum Einsatz kommen sollen](https://www.telepolis.de/features/Stuttgart-setzt-Scan-Autos-gegen-Falschparker-ein-10374884.html), bis zu 1000 (je Scan-Auto). 
+  
+Nachdem in Hamburg für eine stark befahrenen Straße [festgestellt wurde](https://iceshrimp.de/notes/a81l2l2tpjzo337x), dass Zufußgehende gerade mal 8,6 Sekunden Grün bekamen, während die Grünphase für die Autos 50 Sekunden jeweils währte, hat man diese nun auf ein Verhältnis 14 Sekunden für KFZ- und 15 Sekunden für Fußverkehr geändert und möchte dies - Bettelampel adé - nach und nach auf alle Ampeln im Stadtgebiet ausrollen.
+
+[In einem Artikel](https://www.sciencedirect.com/science/article/abs/pii/S0198971525000432) wird ein Open-Source-Algorithmus vorgestellt, mit dem sich fehlende Verbindungslinien im Fußwegenetz (testweise für die Stadt Charlotte in North Carolina, USA) aufspüren lassen, die aber die Konnektivität deutlich erhöhen würden.
+
+Mit [GehCheck-App](https://gehcheck.werdenktwas.de/page/app) fürs Handy lassen sich Gefahren und Hindernisse beim alltäglichen Gehen leicht und schnell festhalten. Das so gesammelte wird auf einer Web-Karte sichtbar gemacht.
+
+Das Forschungsprojekt ["Mobil auf Deine Weise"](https://www.mobil-auf-deine-weise.de) möchte über eine Studie herausfinden, wie die Mobilität in Berlin gesünder und gerechter werden kann. Für Mai hat man sich dem Thema [Mobilität und Gesundheitsrisiken](https://www.mobil-auf-deine-weise.de/themenmonate/mai/) gewidmet, also Luftverschmutzung, Lärm, Barrieren, Unfälle, Bewegungsmangel und Flächenversiegelung.
 
 ## Klima
 * Monatliche Sonnenscheindauer in Deutschland im April
@@ -211,6 +188,17 @@ Das Landesamt für Geoinformation und Landentwicklung Baden-Württemberg haben e
   https://bits-und-baeume.org/blog/auswertung_koalitionsvertrag/
 * Irreführung bei nachhaltigen Fonds: 150 Milliarden Euro unter falschem Etikett
   https://correctiv.org/aktuelles/klimawandel/2025/05/15/irrefuehrung-bei-nachhaltigen-fonds-150-milliarden-euro-unter-falschem-etikett/
+
+## Energie
+* eGon-data – Datenpipeline für das deutsche #Energiesystem
+  https://reiner-lemoine-institut.de/tool/egon-data/
+  via https://wisskomm.social/@RL_Institut/114500049447353401
+* Willkommen in Feldheim - Energieautarker Ort der Stadt Treuenbrietzen im Landkreis Potsdam-Mittelmark - 12 Cent für eine Kilowattstunde Strom
+  https://mil.brandenburg.de/sixcms/media.php/9/NEF_Feldheim.pdf
+  https://www.spiegel.de/wirtschaft/soziales/feldheim-in-brandenburg-warum-dieses-dorf-nur-12-cent-fuer-strom-bezahlt-a-980172a0-da2b-450a-9768-4a3f6b681cfd
+  via https://chaos.social/@kattascha/114502479599711117
+* Welche Auswirkungen hätten Strompreiszonen in Deutschland?
+  https://www.basicthinking.de/blog/2025/05/05/strompreiszonen-deutschland/
 
 ## Open Hardware
 * Open Source Hardware seminar an TU Berlin
@@ -273,7 +261,6 @@ Das Landesamt für Geoinformation und Landentwicklung Baden-Württemberg haben e
   https://www.linkedin.com/posts/robert-haase-2349a8163_euaiact-openaccess-activity-7332999232091492352-gJQp
   https://scads.github.io/ki-kompetenz-training-2025/intro.html
   https://github.com/ScaDS/ki-kompetenz-training-2025/
-
 
 ## Recap
 * re:publica
