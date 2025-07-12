@@ -94,8 +94,6 @@ abgeordnetenwatch.de hat mit zahlreichen Beteiligten gesprochen, die an den Koal
   
 Aus rechtlichen Bedenken zu angeblich fehlender politischer Neutralität hat das Bezirksamt Neukölln einen Rechtsextremismus-Bericht [zurückgezogen](https://taz.de/Rechtsextremismus-Bericht-in-Neukoelln/!6085022/), die taz veröffentlicht den [Bericht zu rechtsextremen Aktivitäten in Neukölln](https://download.taz.de/25-03-27_Erster-Bericht-Zu-Rechtsextremen-Aktivitaeten-In-Neukoelln.pdf) dennoch.  
 
-Der Verfassungsschutz stuft nach jahrelanger Arbeit in einem Gutachten die gesamte AfD als gesichert rechtsextrem ein, [wollte das zugehörige Gutachten aber nicht veröffentlichen](https://www.fr.de/politik/geheim-gutachten-fuer-afd-verbotsverfahren-linke-will-vollstaendigen-einblick-ins-zr-93711355.html), inzwischen wurden die über 1100 Seiten aber von diversen Medien [geleakt](https://archive.org/details/AFD-Gutachten-Verfassungsschutz).
-
 ## Überwachung
 Die EU möchte über eine App für bestimmte Inhalte im Internet Alterskontrollen durchführen, indem über sie Personalausweis und eventuell auch das Gesicht gescannt werden soll. Die [technische Spezifikation](https://github.com/eu-digital-identity-wallet/av-doc-technical-specification) liegt bereits auf Github. Bei Netzpolitik [sieht man die anonyme Internet-Nutzung bedroht](https://netzpolitik.org/2025/eu-konzept-so-sollen-die-alterskontrollen-im-netz-ablaufen/).
 
