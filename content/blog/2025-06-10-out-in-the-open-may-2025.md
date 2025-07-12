@@ -12,38 +12,24 @@ type: blog
 ---
 
 ## Open Data
-* Offene Daten besser sichtbar und nutzbar machen: TUD-Wirtschaftsin­formatiker starten Online-Umfrage
-  https://tu-dresden.de/tu-dresden/newsportal/news/offene-daten-besser-sichtbar-und-nutzbar-machen-tud-wirtschaftsinformatiker-starten-online-umfrage
-* Free course "Quality and Consistent Data with the Open Data Editor"
-  https://schoolofdata.org/#course
-  via https://fosstodon.org/@okfn/114478444041719198
-* Gibt es noch mehr Bundesländer, die offene Daten und Transparenz in der Verfassung stehen haben?
-  https://norden.social/@MisterOpenData/114465963413721730
-* Jetzt bis 18. Juli 2025 mitreden: EU startet öffentliche Konsultation zur Strategie für eine europäische Datenunion
-  https://www.data.gv.at/2025/05/23/eu-konsultation/
-  https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14541-European-Data-Union-Strategy_de
-* Unlock the Vault: Wie man die Daten der Bundes-Förderdatenbank befreit
-  https://de.linkedin.com/pulse/unlock-vault-wie-man-die-daten-der-befreit-tim-fangmeyer-sumvf
-* Der Datensatz umfasst Fragen und Antworten zum Eurovision Song Contest (ESC) 
-  https://data.bs.ch/explore/dataset/100417/information/
-* Challenge von #BMI und #BMWK, um ein konkretes #Datenmodell für die Erforschung von #PostCovid 
-  https://de.linkedin.com/posts/henriette-litta-b9583959_dateninstitut-daten-bmi-activity-7325813886912237570-YPek
-* Open Data Ranking – Update 2025
-  https://okfn.de/blog/2025/05/open-data-ranking-update-2025/
+[2024](https://okfn.de/blog/2024/05/das-erste-open-data-ranking-ist-erschienen/) hat die [OKF](https://okfn.de/) erstmals alle deutschen Bundesländer nach ihrem Open-Data-Umsetzungsstand in eine Rangfolge gebracht.
+Bei der Neubewertung ein Jahr später hat es in dieser allerdings kaum Bewegung gegeben. Schleswig-Holstein, Berlin und Nordrhein-Westfalen führen weiterhin [die Liste](https://opendataranking.de) an. In diesen Bundesländern bzw. einen Stadtstaat trifft man auf vergleichsweise gute Rahmenbedingungen für Open Data und es wird aktiv an ihrer weiteren Verbesserung gearbeitet, sei es durch erste Linked-Open-Data-Initiativen im nördlichesten Bundesland und in der Hauptstadt, aber auch durch die Einführung einer neuen Richtlinie, über die Fachverfahren aus Kommunen und anderen Behörden automatisch ans schleswig-holsteiner Datenportal anzuschließen sind. Im Saarland gibt es nun zu mindestens einen Open-Data-Paragraphen, der die Schaffung einer Open-Data-Informationsstelle festschreibt und eine weitere Rechtsverordnung vorsieht. Ein Schritt weiter ist man in Brandenburg, dort nahm die Open-Data-Informationsstelle schon die Arbeit auf. Zudem wurde Anfang des Jahres das Landes-Datenportal unter Nachnutzung der bayrischen Softwarelösung grundlegend überarbeitet. Bei allen anderen Bundesländern gab es keine nennenswerten Änderungen. [Schleswig-Holstein](https://freirecht.de/g/VerfSH:53) und [Hamburg](https://www.anwalt24.de/gesetze/verf_hh/56) sind immer noch die einzigen, [die ihre Verwaltungen zu offenen Daten und Transparenz in ihrer Landesverfassung verpflichten](https://norden.social/@MisterOpenData/114465963413721730). Der bundesweite Rechtsanspruch auf Open Data ist zwar im Koalitionsvertrag abgeschwächt verankert, das Papier geduldig ist, zeigt sich allerdings daran, dass die schon bestehende Veröffentlichungspflicht für Bundesbehörden gemäß § 12a EGovG nicht umgesetzt wird, wie es aus dem [Fortschrittsbericht des Bundes](https://www.publikationen-bundesregierung.de/pp-de/publikationssuche/finanzpolitik-bericht-2025-2341858) herauszulesen ist.
+
+An der von der EU gestarteten öffentliche [Konsultation zur Strategie für eine europäische Datenunion](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14541-European-Data-Union-Strategy_de) kann man sich noch bis zum 18. Juli [beteiligen](https://www.data.gv.at/2025/05/23/eu-konsultation/).
+
+Im Zuge der Gründungsvorbereitung des Dateninstituts wurde [ein Wettbewerb zur Entwicklung ein konkretes Datenmodell für die Erforschung von PostCovid](https://www.bmi.bund.de/DE/themen/it-und-digitalpolitik/it-des-bundes/dateninstitut/dateninstitut-node.html) vom Innen- und Wirtschaftsministerum gemeinsam ausgelobt. Die Idee des Dateninstituts scheint inzwischen eher tot zu sein, der Wettbewerb [hat dagegen einige wertvolle Erkenntnisse für den Umgang mit Daten erbracht](https://de.linkedin.com/posts/henriette-litta-b9583959_dateninstitut-daten-bmi-activity-7325813886912237570-YPek). 
+tivity-7325813886912237570-YPek
+
+Die [Online-Bundes-Förderdatenbank](https://www.foerderdatenbank.de/FDB/DE/Home/home.html) gibt Auskunft über die Förderprogramme des Bundes, der Länder und der Europäischen Union. Leider können ihre Einträge weder über eine offizielle Schnittstelle noch über eine Sammel-Download maschinenlesbar abgerufen werden. Also müssen sie doch wieder über [einen Scraper](https://github.com/tifa365/foerderdatenbank_scraper), wie ihn Tim Fangmeyer geschrieben hat und [hier vorstellt](https://de.linkedin.com/pulse/unlock-vault-wie-man-die-daten-der-befreit-tim-fangmeyer-sumvf), befreit werden. Wie man in den Kommentaren vom LinkedIn-Beitrag sieht, hat man bei CorrelAid hat man witzigerweise ebenfalls einen solchen [Scraper](https://github.com/CorrelAid/cdl_funding_crawler) geschrieben und dort sich, nach Rechtsberatung, auch entschieden, die so scrapten Daten zu veröffentlichen.  
+
+Der neue kostenlosen Kurs ["Quality and Consistent Data with the Open Data Editor"](https://schoolofdata.org/course-quality-and-consistent-data-with-open-data-editor/) der [School of Data](https://schoolofdata.org/) richtet sich speziell an Nicht-Techniker gerichtet, die mit tabellarischen Daten arbeiten. 
 
 ## Linked Open Data
-* Linked open haushaltsdaten
-  https://berlin.github.io/lod-budget/
-  via https://chaos.social/@jk/114517373356068959
-  * Die Berliner Haushaltsdaten sind jetzt als Linked Open Data verfügbar – vernetzt, standardisiert, maschinenlesbar.
-    https://de.linkedin.com/posts/juliaschabos_opendata-linkedopendata-lod-activity-7329146892896903168-bSko
-  * Wo ist es im Berliner Haushalt im Jahr 2023 ungeplant zu Mehrausgaben gekommen?
-    https://odis-berlin.de/aktuelles/2025-04-16-datengeschichten-aufwendungen/
-* What is in a street name – Schoener leben mit Linked Data
-  https://stefan.bloggt.es/2025/05/what-is-in-a-street-name-schoener-leben-mit-linked-data/
-  via https://chaos.social/@stk/114508169919593815
-* Verteilte Daten vernetzen mit JSON-LD
-  https://github.com/codeforcologne/linked-distributed-data
+Wie beim Open Data Ranking bereits angesprochen, hat Berlin Linked Open Data für sich entdeckt. [Mit Unterstützung](https://de.linkedin.com/posts/juliaschabos_opendata-linkedopendata-lod-activity-7329146892896903168-bSko) der Open Data Informationsstelle Berlin (ODIS), Berlin Online, der Senatskanzlei Berlin sowie der Staatskanzlei Schleswig-Holstein und der Open Knowledge Foundation Deutschland e. V. sind nun die [Berliner Haushaltsdaten jetzt als Linked Open Data verfügbar](https://berlin.github.io/lod-budget/) und wurde auch auf dem [Berliner Open Data Day 2025](https://daten.berlin.de/artikel/berlin-open-data-day-2025) vorgestellt. Wie man konkrete Fragestellungen, wie z.B. wo es im Jahr 2023 in Berlin ungeplant zu Mehrausgaben gekommen ist, mit den Haushaltsdaten beantworten, zeigt diese [Datengeschichte](https://odis-berlin.de/aktuelles/2025-04-16-datengeschichten-aufwendungen/) des ODIS.
+
+Wie Linked Data bei dem Umgang mit Straßennamen helfen kann, [führt Stefan in seinem Blogbeitrag aus](https://stefan.bloggt.es/2025/05/what-is-in-a-street-name-schoener-leben-mit-linked-data/). Dann stellen unterschiedliche Schreibweisen bzw. Mehrdeutigkeiten kein Problem mehr da, ist die Zuordnung zu Personen, nach der Straße benannt wurde, eindeutig möglich, können die zugehörigen geografischen Geometrien aufgelöst werden und zum Beispiel für den (Neu-)Zuschnitt von Wahlbezirken (bzw. deren Darstellung im Datenjournalismus) rangezogen werden.
+
+Nach dem Verkauf von Sketchfab müssen viele Terrabyte Daten von freien 3D-Modellen nun woanders gespeichert werden. Da es auf vielen Servern der Community noch ungenutzten Speicherplatz gibt, würde es sich anbieten, die Daten dezentral auf diesen zu speichern. Nur wie findet man sie dann wieder? [OKLab Köln](https://codefor.de/koeln/) möchte dies mit [ihren Prototyp](https://codeforcologne.github.io/linked-distributed-data/) (auch [Open Source auf Github](https://github.com/codeforcologne/linked-distributed-data/) zu finden) lösen, indem dieser die verteilten Daten mit JSON-LD vernetzt.
 
 ## Offene Parlamentsdaten
 * der erste landtag mit maschinenlesbaren plenarprotokollen ist rlp
