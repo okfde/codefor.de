@@ -114,37 +114,21 @@ Lesen wir also die Diagramme des [Datawrapper Data Vis Dispatch vom 20. Mai](htt
 [Mit den interaktiven Visualisierung auf Zeit-Online](https://www.zeit.de/wirtschaft/2025-05/mietpreise-immobilien-deutschland-staedte-stadtteile) kann man die hinsichtlich Mietpreisen teuersten und günstigsten Stadtteile Deutschlands entdecken.
 
 ## Karten
-* Oh no. Microsoft is gonna turn off Bing Aerial Imagery for #OpenStreetMap in ca 2 months??!?!? 
-  https://machteburch.social/@MDradelt/114438248209551430
-  https://community.openstreetmap.org/t/discontinued-services-bing-maps-rest-services/117308/30
-* Mit einer interaktiven Karte macht die Initiative Data4Mods auf ausbeuterische Bedingungen im Tech-Outsourcing aufmerksam. Sie visualisiert Datenflüsse und Arbeitsbeziehungen zwischen teils milliardenschweren Outsourcing-Firmen und dutzenden Standorten in Afrika. 
-  https://netzpolitik.org/2025/interaktive-karte-das-globale-outsourcing-hinter-sozialen-medien-und-ki/
-  via https://chaos.social/@netzpolitik_feed/114461695944227727
-* High Spatial-Resolution Satellite Mapping Of Suspended Particulate Matter In Global Coastal Waters Using Particle Composition-Adaptive Algorithms
-  https://tssmapping.projects.earthengine.app/view/sscmap
-  via https://techhub.social/@GregCocks/114490036160025197
-* "Er hat die Karten-Plattform Restor gegründet, auf der sich der ökologische Fußabdruck vieler Produkte unseres täglichen Lebens bestimmen lässt."
-  https://restor.eco/de/?lat=26&lng=14.23&zoom=3
-  via https://www.3sat.de/wissen/nano/250506-science-date-tom-crowther-nano-100.html
-* Every Door
-  https://f-droid.org/de/packages/info.zverev.ilya.every_door/
-  via https://federated.press/@geak/114562237832262315
-* Landbedeckungsmodell Deutschland, Stand 2021 (LBM-DE 2021) + Verwaltungsgebiete im Maßstab 1:25 000
-  https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2025/250519_LBMDE2021.html
-  via https://social.bund.de/@opendatabund/114579396409664873
-* Von wo sieht man den Magdeburger Dom?
-  https://de.linkedin.com/posts/soeren-etler_von-wo-sieht-man-den-magdeburger-dom-activity-7328731003340865536-ao0u
-  https://domblicke.soerenetler.de/
-  https://soerenetler.de/de/blog/domblicke/
-* Open GeoData Tutorials
-  https://www.youtube.com/playlist?list=PLBUaj9k27wgGgfpc3vpH_pL6P8MkfL6PZ
-  https://www.lgl-bw.de/Produkte/Open-Data
-  via https://de.linkedin.com/posts/landesamt-f%C3%BCr-geoinformation-und-landentwicklung-baden-w%C3%BCrttemberg_download-von-offenen-geodaten-opendata-activity-7310948703358320641-r6IH
-* Visualisierung von Poststandorten
-  https://tifa365.github.io/postautomaten_app/?trk=public_post_comment-text
-  via https://de.linkedin.com/posts/timfangmeyer_wenn-der-automat-den-mensch-ersetzt-activity-7330142390332055552-YHj7
-* Aktuelle und abgeschlossene Bauprojekte in Berlin, Chemnitz, Frankfurt, Hamburg, Leipzig/Halle, München, Mainz/Wiesbaden
-  https://www.dafmap.de/d/berlin.html
+[Eine interaktive Karte](https://netzpolitik.org/2025/interaktive-karte-das-globale-outsourcing-hinter-sozialen-medien-und-ki/) der Initiative Data4Mods macht das globale Outsourcing hinter Sozialen Medien und KI durch Visualisierung von Datenflüsse und Arbeitsbeziehungen. Entstanden ist die Karte auf Basis einer Befragung dutzender afrikanischer Content-Moderator:innen und Datenarbeiter:innen, dabei ist die Karte bei weitem nicht vollständig, einige bekannte Branchengrößen fehlen, die Outsourcing-Branche ist notorisch intransparent. Viele der Betroffenen empfinden ihre Arbeitsbedingungen als "moderne Sklaverei".
+
+Tom Crowther hat die Karten-Plattform [Restor](https://restor.eco/de) gegründet, auf der sich der ökologische Fußabdruck vieler Produkte unseres täglichen Lebens [bestimmen lässt](https://www.3sat.de/wissen/nano/250506-science-date-tom-crowther-nano-100.html).
+
+Aktuelle und abgeschlossene Bauprojekte in Berlin, Chemnitz, Frankfurt, Hamburg, Leipzig/Halle, München sowie Mainz/Wiesbaden findet man auf [der Karte des Deutschen Architekturforums](https://www.dafmap.de/d/berlin.html) als rote Flächen bzw. Haussymbole.
+
+Eine mit Datawrapper umgesetzte [Visualisierung von Poststandorten](https://tifa365.github.io/postautomaten_app/) soll auch zeigen, wie Postautomaten, die von der Bundesnetzagentur offiziell als Filialen anerkannt wurden, [zunehmend Personal ersetzen](https://de.linkedin.com/posts/timfangmeyer_wenn-der-automat-den-mensch-ersetzt-activity-7330142390332055552-YHj7)
+
+"Von wo sieht man den Magdeburg Dom?" - Diese Frage beantwortet die Karte [Domblicke](https://domblicke.soerenetler.de/). Warum man das überhaupt wissen wollen könnte, erklärt Sören Etler [auf seinem Blog](https://soerenetler.de/de/blog/domblicke/).
+
+Über die Mobil-App [Every Door](https://wiki.openstreetmap.org/wiki/Every_Door) sollen Nutzer mithelfen können, Daten zu Einrichtungen und Läden in der OpenStreetMap aktuell zu halten.
+
+Neben Informationen zu Landbedeckung und Landnutzung enthält das [Landbedeckungsmodell Deutschland, Stand 2021 (LBM-DE 2021)](https://www.bkg.bund.de/SharedDocs/Produktinformationen/BKG/DE/P-2025/250519_LBMDE2021.html) auch noch die prozentuale Angabe von Versiegelungs- und Vegetationsgrad für jedes Objekt.
+
+Das Landesamt für Geoinformation und Landentwicklung Baden-Württemberg haben eine [Tutorial-Serie](https://www.youtube.com/playlist?list=PLBUaj9k27wgGgfpc3vpH_pL6P8MkfL6PZ) zu offenen Geodaten gestartet, [um zu erklären](https://de.linkedin.com/posts/landesamt-f%C3%BCr-geoinformation-und-landentwicklung-baden-w%C3%BCrttemberg_download-von-offenen-geodaten-opendata-activity-7310948703358320641-r6IH), wie man das [Open GeoData-Portal](https://www.lgl-bw.de/Produkte/Open-Data) bedient und was man mit den Daten alles anstellen kann.
 
 ## Mobilität
 * lars' transport maps
