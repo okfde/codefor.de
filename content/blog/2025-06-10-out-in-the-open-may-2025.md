@@ -59,27 +59,22 @@ Die Initiative "Politische Schönheit" sammelt auf der Seite [afd-verbot.de](htt
 Die Gesellschaft für Freiheitsrechte [hat inzwischen begonnen](https://freiheitsrechte.org/themen/demokratie/afd-gutachten), selbst ein Gutachten zu einer möglichen Verfassungswidrigkeit der AfD zu erstellen und hofft es im Frühsommer 2026 veröffentlichen zu können. 
 
 ## USA
-* Update. "The Latest #Trump and #DOGE Casualty: #Energy Data."
-  https://www.propublica.org/article/the-latest-trump-and-doge-casualty-energy-data
-  via https://fediscience.org/@petersuber/114456542581736692
-* Donald Trump’s Information Warfare Against America
-  https://www.thebulwark.com/p/donald-trump-information-warfare-privacy-federal-data
-  via https://fediscience.org/@petersuber/114468267610702383
-* Trump admin ends extreme weather database that has tracked cost of disasters since 1980
-  https://edition.cnn.com/2025/05/08/climate/noaa-ends-disaster-database
-  via https://chaos.social/@fuzzyleapfrog/114478331029014321
-* Kudos to the Environmental Defense Fund (#EDF, @edf) for using the Freedom of Information Act (#FOIA) to obtain the latest greenhouse gas inventory from the Environment Protection Agency (#EPA), and making it #OpenAccess. 
-  https://fediscience.org/@petersuber/114478056046123428
-* Dieser Putsch findet mit Software statt – und nicht mit Panzern
-  https://correctiv.org/aktuelles/denkanstoss/2025/05/13/dieser-putsch-findet-mit-software-statt-und-nicht-mit-panzern/
-* Wikipedia: Der US-Angriff auf das freie Wissen hat begonnen
-  https://www.rnd.de/wirtschaft/us-angriff-auf-wikipedia-wie-ernst-steht-es-um-die-freie-enzyklopaedie-NR6CKS3NRBDNTHJ23JMCF5IF24.html
-* Diesmal geht’s um die Frage: Wie beeinflusst der geopolitische Wettkampf zwischen den USA, China und anderen Mächten den globalen Zugang zu Wissen? 
-  https://www.deutschlandfunkkultur.de/wissen-im-geopolitischen-wettkampf-droht-ein-digitaler-eiserner-vorhang-100.html
-  via https://social.wikimedia.de/@wikimediaDE/114527777705246690
-* 100 Hours to Save America’s Forecasts, Weather and Climate Livestream 
-  https://www.youtube.com/watch?app=desktop&v=r58FtmM4sDY
-  via https://social.tchncs.de/@antux/114602201134630120
+Auf Bulwark wird die aktuelle Datenpolitik der US-Regierung [treffend zusammengefasst](https://www.thebulwark.com/p/donald-trump-information-warfare-privacy-federal-data): Inhalte, die ihr nicht in den Kram passen (Impfung, Gender, Klima und neuerdings auch [Energie](https://www.propublica.org/article/the-latest-trump-and-doge-casualty-energy-data)), werden zurückgehalten oder gar gelöscht, während gleichzeitig massiv Daten über Personen gesammelt werden, die verteufelt bzw. marginalisiert werden sollen. 
+
+Für correctiv ist das ein Putsch, [der nicht mit Panzern sondern mit Software vollzogen wird](https://correctiv.org/aktuelles/denkanstoss/2025/05/13/dieser-putsch-findet-mit-software-statt-und-nicht-mit-panzern/), der Software von Palantir.
+
+Seit einigen Monaten sieht sich zudem die freie Enzyklopädie Wikipedia Kampagnen aus dem Trump-Umfeld ausgesetzt. Zuletzt versucht der Trump-nahe US-Staatsanwalt Ed Martin mit seinen Anfragen zu redaktionellen Prozesse und Sicherheitsmaßnahmen die Gemeinnützigkeit von Wikipedia [in Frage zu stellen](https://www.rnd.de/wirtschaft/us-angriff-auf-wikipedia-wie-ernst-steht-es-um-die-freie-enzyklopaedie-NR6CKS3NRBDNTHJ23JMCF5IF24.html), würde sie aberkannt werden, wäre auch die Steuerbefreiung in den USA dahin.
+
+Ob ein digitaler Eiserner Vorhang droht, der den globalen Zugang zu Wissen einschränkt, diskutierten die Teilnehmenden dieser  [Wissen.Macht.Gerechtigkeit-Podcast-Folge](https://www.deutschlandfunkkultur.de/wissen-im-geopolitischen-wettkampf-droht-ein-digitaler-eiserner-vorhang-100.html).
+
+Die Datenbank, in der bisher die Kosten von Unwettereignissen seit 1980 erfasst wurden, [soll abgeschaltet werden](https://edition.cnn.com/2025/05/08/climate/noaa-ends-disaster-database).
+
+[Dank](https://fediscience.org/@petersuber/114478056046123428) einer [Anfrage](https://www.edf.org/freedom-information-act-documents-epas-greenhouse-gas-inventory) nach Freedom of Information Act (entspricht einer Informationsfreiheitsanfrage) konnten die letzten Treibhausgasemissionsdaten der Umweltschutzbehörde Open Access gestellt werden. 
+
+Berichte mit verlässliche Daten zu Energie, sei es zu Öl, Gas oder erneuerbare Energien
+[https://www.propublica.org/article/the-latest-trump-and-doge-casualty-energy-data]
+
+Eine eindrucksvolle Form [des Protests](https://social.tchncs.de/@antux/114602201134630120): 100 Stunden Wetter- und Klimaforschung [im Livestream](https://www.youtube.com/watch?app=desktop&v=r58FtmM4sDY) mit allgemein verständlichen Präsentationen von über 200 US-amerikanischen Metreologen und Klimaforschern zu deren Arbeit und Forschung, deren Zukunft durch die geplanten drastischen Budgetkürzungen bedroht ist.
 
 ## Digitale Souveränität
 * "Meilenstein für digitale Souveränität": 20 Jahre Open Document Format (ODF)
