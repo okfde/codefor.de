@@ -98,78 +98,20 @@ Auch genossenschaftliche Modelle oder generell die Finanzierung über Mitgliedsb
 Viele der Mastodon-Instanzen werden ehrenamtlich oder von Firmen betrieben. Gerade die ehrenamtlichen sind dabei auf Spenden angewiesen, um Serverkosten und den Zeitaufwand für die Moderation und Wartung finanzieren zu könnne. Es sollte daher auch Teil der digitalen Daseinsfürsorge sein, dass der Staat auch Instanzen zur Verfügung stellt. [Nach einer Analyse](https://norden.social/@MisterOpenData/114487712481263934) besteht da noch Ausbaubedarf.
 
 ## Digitalisierung
-* Organisationserlass: Aufgaben des neuen Digitalministeriums 
-  https://de.linkedin.com/posts/gerber-daniel_organisationserlass-des-bundeskanzlers-activity-7325776927313584128-mETd
-* National-Once-Only-Technical-System: Staatsvertrag für "Datenautobahn"
-  https://netzpolitik.org/2025/national-once-only-technical-system-staatsvertrag-fuer-datenautobahn/
-* Hilfestellung für Digitalisierungsprojekte: Der Data-Governance-Wegweiser für Behörden
-  https://reset.org/hilfestellung-digitalisierungsprojekte-data-governance-wegweiser-vorgestellt/
-* Digitaler Zwilling des Staates: Rechtliche Architektur für eine modellbasierte Staatsmodernisierung
-  https://negz.org/publikation/digitaler-zwilling-des-staates/
-  via https://de.linkedin.com/posts/urban-digital-de_digitaler-zwilling-des-staates-negz-impulspapier-activity-7320325571492610048-kDML
+Bei der [Analyse des Organisationserlass](https://www.linkedin.com/posts/stefan-heumann-4194a34a_organisationserlass-des-bundeskanzlers-activity-7325759849206616064-OLFj) für das neue Digitalministerium findet Stefan Heumann es unter anderem problematisch, dass die Datenpolitik im Innenministerim verbleibt.
 
+Bund und Länder könnten bald [eine zentrale Datenaustausch-Infrastruktur auf Behördenebene aufbauen](https://netzpolitik.org/2025/national-once-only-technical-system-staatsvertrag-fuer-datenautobahn/), wenn nach dem Kabinettsbeschluss auch Bundestag und Bundesländer noch zustimmen.
 
-## Open Hardware
-* Open Source Hardware seminar an TU Berlin
-  https://www.tu.berlin/qw/studium-lehre/lehrveranstaltungen/oshs-open-source-hardware-seminar
-  https://mastodon.social/@mntmn/114477430360540295
-* Open-Hardware-Braille-"Drucker"
-  https://www.braillerap.org/en/#page-top
-  via https://chaos.social/@stk/114524001534843195
-* Wie können Batteriespeicher reparierbar, umwelt- und menschenfreundlich gebaut werden? Das Flow Battery Research Collective arbeitet an einer #OpenHardware FLOW-Batterie
-  https://hardware.prototypefund.de/offene-flow-zellen-wie-batterien-reparierbar-werden/
-  via https://chaos.social/@openhardware/114539714835112662
+Mit dem [Data-Governance-Wegweiser](https://data-governance-wegweiser.super.site) stellen Forschende des [HIIG](https://www.hiig.de) ein kostenlosen Leitfaden zum sinnvollen und rechtssicheren Umgang mit Daten für Behörden [veröffentlicht](https://reset.org/hilfestellung-digitalisierungsprojekte-data-governance-wegweiser-vorgestellt/) bereit.
 
-
-## Klima
-* Monatliche Sonnenscheindauer in Deutschland im April
-  In Deutschland war der April 2025 viel sonniger als der April 2024. Sonnenscheindauer April 2025: 244,0 Stunden Sonnenscheindauer April 2024: 151,6 Stunden
-  https://www.energy-charts.info/charts/climate_monthly_average/chart.htm?l=de&c=DE&month=04&source=sun_dur
-  via https://wisskomm.social/@energy_charts_d/114442225555613746
-* A Grim Signal: Atmospheric CO2 Soared in 2024
-  https://insideclimatenews.org/news/24042025/global-carbon-dioxide-concentration-in-atmosphere-soared-2024/
-* Hier wurden zwei Arten verglichen, Klimadaten zu präsentieren: (1) steigende Temperaturkurven, (2) fror unser örtlicher See zu oder nicht. Zweiteres führt zu einem höheren Dringlichkeitsempfinden. Da ließe sich jetzt draus lernen, z.B. im Lokaljournalismus. 
-  https://grist.org/science/break-through-climate-apathy-data-visualization-lake-freezing-study/
-  via https://climatejustice.social/@leadohm/114465225686515974
-* Derzeit legt die EU ihre Klimaziele für 2035/40 fest. Eine neue Analyse des @climateactiontr zeigt: Nur das ehrgeizigste Szenario ist mit 1,5°C vereinbar. Die EU läuft Gefahr ihr 2050-Klimaziel zu reißen! 
-  https://climateactiontracker.org/blog/eu-missing-in-action/
-  via https://chaos.social/@fff/114499606193105478
-* Jetzt wissenschaftlich belegt: Die USA versinken. Und zwar die 28 größten Städte. Vergleichbare Probleme auch in Asien. Wissenschaftler, meine den Grund in USA ausfindig gemacht zu haben.
-  https://www.telepolis.de/features/Jetzt-wissenschaftlich-belegt-Die-USA-versinken-10382150.html
-  via https://social.heise.de/users/telepolis/statuses/114500897364171242
-* Neue App schätzt Feinstaubbelastung beim Radfahren und Gehen
-  https://www.heise.de/news/Neue-App-misst-Feinstaubbelastung-beim-Radfahren-und-Gehen-10387001.html
-  https://www.feinstaub-dosimetrie.de
-* Tag der Klima-Demokratie
-  https://tagderklimademokratie.de/dialog/
-* Jahrhundertsommer 2025? Dieser Sommer droht alle Rekorde zu sprengen
-  https://www.t-online.de/nachrichten/panorama/wetter/id_100671794/jahrhundertsommer-2025-dieses-jahr-droht-alle-rekorde-zu-sprengen.html
-* Aktuelle Studien mit einem hoffnungsvollen Blick aufs Klima
-  https://steadyhq.com/de/treibhauspost/posts/9580f333-0420-4311-978e-0a3e9d53efe9
-* Klimadashboard Xhain: Klimawandel in Friedrichshain-Kreuzberg
-  https://www.klimadashboard-xhain.de
-* Almost 40% of world’s glaciers already doomed due to climate crisis – study
-  https://www.theguardian.com/environment/2025/may/29/almost-40-of-worlds-glaciers-already-doomed-due-to-climate-crisis-study
-* Climate Change and the Escalation of Global Extreme Heat
-  https://www.climatecentral.org/report/climate-change-and-the-escalation-of-global-extreme-heat-2025
-* Die Welt realisiert das Ausmass der Katastrophe im Wallis
-  https://www.srf.ch/news/schweiz/internationale-presseberichte-die-welt-realisiert-das-ausmass-der-katastrophe-im-wallis
-  * Warum die Gefahr von Bergstürzen steigt
-    https://www.zdfheute.de/video/umwelt-klimawandel-bergsturz-100.html
-* Bits & Bäume zum Koalitionsvertrag: Wolkig, wenig heiter
-  https://bits-und-baeume.org/blog/auswertung_koalitionsvertrag/
-* Irreführung bei nachhaltigen Fonds: 150 Milliarden Euro unter falschem Etikett
-  https://correctiv.org/aktuelles/klimawandel/2025/05/15/irrefuehrung-bei-nachhaltigen-fonds-150-milliarden-euro-unter-falschem-etikett/
-
+Die Idee eines digitalen Zwillings der rechtlichen Struktur von Staat und Verwaltung ist Gegenstand des Impulspapiers [Rechtliche Architektur für eine modellbasierte Staatsmodernisierung](https://negz.org/publikation/digitaler-zwilling-des-staates/), das ein kooperatives Planungstool vorschlägt, mit dem sich ausgehend von der Visualisierung der bestehenden juristische Strukturen als Modell, [diese transparenter und effektiver umgestalten ließen](https://de.linkedin.com/posts/urban-digital-de_digitaler-zwilling-des-staates-negz-impulspapier-activity-7320325571492610048-kDML). 
 
 ## Visualisierung
-* Wie man Daten zum Sprechen bringen kann
-  https://rudolphina.univie.ac.at/podcast-folge-12-wie-man-daten-zum-sprechen-bringen-kann
-* Data Vis Dispatch, May 20: Maps, government spending, and the Arctic
-  https://www.datawrapper.de/blog/data-vis-dispatch-may-20-2025
-* Mietenentwicklung auf Stadtteilebene und in Verbindung mit den dortigen Einkommen
-  https://www.zeit.de/wirtschaft/2025-05/mietpreise-immobilien-deutschland-staedte-stadtteile?freebie=2704b06f
-  via https://mastodon.social/@lovinurbanism/114591382609756754
+["Verstehen wir wirklich, was uns Grafiken und Diagramme sagen wollen?"](https://rudolphina.univie.ac.at/podcast-folge-12-wie-man-daten-zum-sprechen-bringen-kann) ist die zentrale Forschungsfrage des Projekts [Talking Charts](https://talking-charts.vda.univie.ac.at/talkingcharts.html). Wie lassen sich also komplexe Informationen so aufbereiten, um intuitiv verständlich zu sein, wenn schon einfachste Diagramme in Nutzertests oft unterschiedlich interpretiert werden?
+
+Lesen wir also die Diagramme des [Datawrapper Data Vis Dispatch vom 20. Mai](https://www.datawrapper.de/blog/data-vis-dispatch-may-20-2025) alle richtig, z.B. den Vergleich der Staatausgaben (oder bräuchte man beispielsweise bei der Bewertung der Gesundheitsausgaben noch mehr Hintergrundwissen, um die Unterschiede zwischen Deutschland und USA korrekt einzuordnen)? 
+
+[Mit den interaktiven Visualisierung auf Zeit-Online](https://www.zeit.de/wirtschaft/2025-05/mietpreise-immobilien-deutschland-staedte-stadtteile) kann man die hinsichtlich Mietpreisen teuersten und günstigsten Stadtteile Deutschlands entdecken.
 
 ## Karten
 * Oh no. Microsoft is gonna turn off Bing Aerial Imagery for #OpenStreetMap in ca 2 months??!?!? 
@@ -246,6 +188,57 @@ Viele der Mastodon-Instanzen werden ehrenamtlich oder von Firmen betrieben. Gera
 * Welche Auswirkungen hätten Strompreiszonen in Deutschland?
   https://www.basicthinking.de/blog/2025/05/05/strompreiszonen-deutschland/
 
+## Klima
+* Monatliche Sonnenscheindauer in Deutschland im April
+  In Deutschland war der April 2025 viel sonniger als der April 2024. Sonnenscheindauer April 2025: 244,0 Stunden Sonnenscheindauer April 2024: 151,6 Stunden
+  https://www.energy-charts.info/charts/climate_monthly_average/chart.htm?l=de&c=DE&month=04&source=sun_dur
+  via https://wisskomm.social/@energy_charts_d/114442225555613746
+* A Grim Signal: Atmospheric CO2 Soared in 2024
+  https://insideclimatenews.org/news/24042025/global-carbon-dioxide-concentration-in-atmosphere-soared-2024/
+* Hier wurden zwei Arten verglichen, Klimadaten zu präsentieren: (1) steigende Temperaturkurven, (2) fror unser örtlicher See zu oder nicht. Zweiteres führt zu einem höheren Dringlichkeitsempfinden. Da ließe sich jetzt draus lernen, z.B. im Lokaljournalismus. 
+  https://grist.org/science/break-through-climate-apathy-data-visualization-lake-freezing-study/
+  via https://climatejustice.social/@leadohm/114465225686515974
+* Derzeit legt die EU ihre Klimaziele für 2035/40 fest. Eine neue Analyse des @climateactiontr zeigt: Nur das ehrgeizigste Szenario ist mit 1,5°C vereinbar. Die EU läuft Gefahr ihr 2050-Klimaziel zu reißen! 
+  https://climateactiontracker.org/blog/eu-missing-in-action/
+  via https://chaos.social/@fff/114499606193105478
+* Jetzt wissenschaftlich belegt: Die USA versinken. Und zwar die 28 größten Städte. Vergleichbare Probleme auch in Asien. Wissenschaftler, meine den Grund in USA ausfindig gemacht zu haben.
+  https://www.telepolis.de/features/Jetzt-wissenschaftlich-belegt-Die-USA-versinken-10382150.html
+  via https://social.heise.de/users/telepolis/statuses/114500897364171242
+* Neue App schätzt Feinstaubbelastung beim Radfahren und Gehen
+  https://www.heise.de/news/Neue-App-misst-Feinstaubbelastung-beim-Radfahren-und-Gehen-10387001.html
+  https://www.feinstaub-dosimetrie.de
+* Tag der Klima-Demokratie
+  https://tagderklimademokratie.de/dialog/
+* Jahrhundertsommer 2025? Dieser Sommer droht alle Rekorde zu sprengen
+  https://www.t-online.de/nachrichten/panorama/wetter/id_100671794/jahrhundertsommer-2025-dieses-jahr-droht-alle-rekorde-zu-sprengen.html
+* Aktuelle Studien mit einem hoffnungsvollen Blick aufs Klima
+  https://steadyhq.com/de/treibhauspost/posts/9580f333-0420-4311-978e-0a3e9d53efe9
+* Klimadashboard Xhain: Klimawandel in Friedrichshain-Kreuzberg
+  https://www.klimadashboard-xhain.de
+* Almost 40% of world’s glaciers already doomed due to climate crisis – study
+  https://www.theguardian.com/environment/2025/may/29/almost-40-of-worlds-glaciers-already-doomed-due-to-climate-crisis-study
+* Climate Change and the Escalation of Global Extreme Heat
+  https://www.climatecentral.org/report/climate-change-and-the-escalation-of-global-extreme-heat-2025
+* Die Welt realisiert das Ausmass der Katastrophe im Wallis
+  https://www.srf.ch/news/schweiz/internationale-presseberichte-die-welt-realisiert-das-ausmass-der-katastrophe-im-wallis
+  * Warum die Gefahr von Bergstürzen steigt
+    https://www.zdfheute.de/video/umwelt-klimawandel-bergsturz-100.html
+* Bits & Bäume zum Koalitionsvertrag: Wolkig, wenig heiter
+  https://bits-und-baeume.org/blog/auswertung_koalitionsvertrag/
+* Irreführung bei nachhaltigen Fonds: 150 Milliarden Euro unter falschem Etikett
+  https://correctiv.org/aktuelles/klimawandel/2025/05/15/irrefuehrung-bei-nachhaltigen-fonds-150-milliarden-euro-unter-falschem-etikett/
+
+## Open Hardware
+* Open Source Hardware seminar an TU Berlin
+  https://www.tu.berlin/qw/studium-lehre/lehrveranstaltungen/oshs-open-source-hardware-seminar
+  https://mastodon.social/@mntmn/114477430360540295
+* Open-Hardware-Braille-"Drucker"
+  https://www.braillerap.org/en/#page-top
+  via https://chaos.social/@stk/114524001534843195
+* Wie können Batteriespeicher reparierbar, umwelt- und menschenfreundlich gebaut werden? Das Flow Battery Research Collective arbeitet an einer #OpenHardware FLOW-Batterie
+  https://hardware.prototypefund.de/offene-flow-zellen-wie-batterien-reparierbar-werden/
+  via https://chaos.social/@openhardware/114539714835112662
+
 ## Kultur
 * And a new scrollytelling datavis project announcing the Getty's Provenance database 
   https://www.getty.edu/tracingart/
@@ -296,6 +289,7 @@ Viele der Mastodon-Instanzen werden ehrenamtlich oder von Firmen betrieben. Gera
   https://www.linkedin.com/posts/robert-haase-2349a8163_euaiact-openaccess-activity-7332999232091492352-gJQp
   https://scads.github.io/ki-kompetenz-training-2025/intro.html
   https://github.com/ScaDS/ki-kompetenz-training-2025/
+
 
 ## Recap
 * re:publica
