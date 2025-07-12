@@ -32,34 +32,54 @@ Wie Linked Data bei dem Umgang mit Straßennamen helfen kann, [führt Stefan in 
 Nach dem Verkauf von Sketchfab müssen viele Terrabyte Daten von freien 3D-Modellen nun woanders gespeichert werden. Da es auf vielen Servern der Community noch ungenutzten Speicherplatz gibt, würde es sich anbieten, die Daten dezentral auf diesen zu speichern. Nur wie findet man sie dann wieder? [OKLab Köln](https://codefor.de/koeln/) möchte dies mit [ihren Prototyp](https://codeforcologne.github.io/linked-distributed-data/) (auch [Open Source auf Github](https://github.com/codeforcologne/linked-distributed-data/) zu finden) lösen, indem dieser die verteilten Daten mit JSON-LD vernetzt.
 
 ## Offene Parlamentsdaten
-* der erste landtag mit maschinenlesbaren plenarprotokollen ist rlp
-  https://dokumente.landtag.rlp.de/landtag/xml-dokumente/
-* Bundestag First Said
-  https://ruhr.social/@bt_first_said@mastodon.social
-* Pollux Political Corpora (PoliCorp) is an open resource for accessing and analysing processed political text data.
-  https://demo-pollux.gesis.org
-  via https://polsci.social/@fidpol/114595186307300519
-* Spannende Neuigkeiten! Stadt-Bonn-OParl v1.6.0 ist da!
-  https://bonn.social/@goern/114592438056151066
-  https://codeberg.org/machdenstaat/stadt-bonn-oparl
+["KRAken"](https://codeberg.org/machdenstaat/stadt-bonn-oparl), Abkürzung für "Kommunaler Recherche-Assistent", ist ein [neues Werkzeug](https://bonn.social/@goern/114592438056151066), um die kommunalen Ratsinformationen der Stadt Bonn, über den [OParl](https://oparl.org)-Schnittstelle zu extrahieren, in maschinenlesbare Form zu transformieren, mit mit LLMs zu klassifizieren und zusammenzufassen und diese so aufbereiteten Daten auch wieder über APIs bereitzustellen.
 
-## Openness
-* Open Science: Spannende Veranstaltungen zu #OpenPeerReview, #OpenData, #OpenAccess und #Forschungsdatenmanagement 
-  https://pollux-fid.de
-  via https://polsci.social/@fidpol/114470813021247228
-* From Software to Society — Openness in a changing world
-  https://okfn.de/blog/2025/05/from-software-to-society-openness-in-a-changing-world/
-  
-## Open Hardware
-* Open Source Hardware seminar an TU Berlin
-  https://www.tu.berlin/qw/studium-lehre/lehrveranstaltungen/oshs-open-source-hardware-seminar
-  https://mastodon.social/@mntmn/114477430360540295
-* Open-Hardware-Braille-"Drucker"
-  https://www.braillerap.org/en/#page-top
-  via https://chaos.social/@stk/114524001534843195
-* Wie können Batteriespeicher reparierbar, umwelt- und menschenfreundlich gebaut werden? Das Flow Battery Research Collective arbeitet an einer #OpenHardware FLOW-Batterie
-  https://hardware.prototypefund.de/offene-flow-zellen-wie-batterien-reparierbar-werden/
-  via https://chaos.social/@openhardware/114539714835112662
+Ein Bundesland südlicher, in Rheinland-Pfalz, werden Plenarprotokolle [maschinenlesbar als XML-Dateien zum Download angeboten](https://dokumente.landtag.rlp.de/landtag/xml-dokumente/). 
+
+Mehr ein Kunstprojekt ist der Mastodon-Bot [Bundestag First Said](https://mastodon.social/@bt_first_said), der 2021 noch als Twitter-Bot [gestartet war](https://schneuer.online/blog/projekt-bundestag-first-said/) und die Open-Data-API des Bundestags nutzt, um detektieren, ob ein in einer protokollierten Debatte verwendetes Wort zum allerersten Mal im Bundestag gesagt wurde. Der Code [ist Open Source](https://github.com/ungeschneuer/plenum_first_said).
+
+Ein bisschen mehr mit Bundestagsprotokollen macht der Demonstrator [Political Corpora (PoliCorp)](https://demo-pollux.gesis.org) vom [Fachinformationsdienst (FID) Politikwissenschaft - Pollux](https://pollux-fid.de), bei diesem wird z.B. Named Entity Recognition (NER) auf die Texte angewendet, um Personen, Organisationen und Orte in ihnen zu markieren. 
+
+## Transparenz
+Nicht all Meinungsbildungs- und Entscheidungsprozesse finden öffentlich im Parlament statt. Dabei ist die ["Transparenz über das Handeln der Regierung ein wesentlicher Baustein der Demokratie"](https://correctiv.org/aktuelles/auskunftsrechte/2025/05/09/wurde-christian-lindners-mailpostfach-geloescht/). Das Bundesarchivgesetz sieht daher auch vor, dass Unterlagen der Regierung ins Bundesarchiv übergehen müssen. Das sollte in Zeiten von Digitalisierung auch für E-Mail-Fächer, Kalenderdaten und Chatverläufe von Regierungsmitgliedern gelten. Bundesminsterien legen das Gesetz zum Teil anders aus und löschen diese Daten mit Verweis, dass die relevanten Informationen aus den Original-Quellen gesondert veraktet und diese dann nur archiviert werden müssten. Wie die Fördergeldaffäre im Bildungsministerium letztes Jahr gezeigt hat, reicht das nicht aus. Die von abgeordnetenwatch.de freigeklagte [SMS-Nachrichten-Verlauf](https://www.abgeordnetenwatch.de/recherchen/lobbyismus/das-sind-die-porschegate-sms-von-christian-lindner-und-oliver-blume) zwischen Porsche-Chef Oliver Blume und dem damaligen Finanzminister Christian Lindner helfen eben bei der Bewertung, inwieweit sich ein Politiker an seinen [Amtseid](https://de.wikipedia.org/wiki/Amtseid#Bundesrepublik_Deutschland) hält, oder doch das "Wohle des deutschen Volkes" in "Wohle meines Lobbyfreundes" uminterpretiert.
+
+Auch wenn Schuldner ihre ausstehenden Beträge längst beglichen haben, bleiben die zugehörigen bei der Schufa hinterlegten Negativmeldungen drei Jahr lang gespeichert und führen so weiter zu Nachteilen bei Vertragsabschlüssen auf Grund der dann immer noch schlechteren Kreditwürdigkeitsangabe. [In mehreren Fällen](https://www.tagesspiegel.de/wirtschaft/finanzen/neue-gerichtsurteile-machen-druck-muss-die-schufa-negative-eintrage-schneller-loschen-13605901.html) forderten Gerichte nun eine schnellere Löschung solcher Einträge. In einem weiteren Urteil aus März verbot das Landgericht Bamberg der privaten Wirtschaftsauskunftei zudem die automatisierte Berechnung des Bonitätsscore. Dessen intransparente Errechnung aus bis zu 250 Faktoren wird schon länger kritisiert, auch weil unklar ist, mit welcher Gewichtung Aussagen zu Anzahl von Girokonten und Kreditkarten, unpünktlich bezahlte Rechnungen oder Mahnungen einfließen. Als Reaktion auf die Kritik hat die Schufa den Score nun überarbeitet und die Anzahl der Kriterien auf 12 begrenzt. Ab Herbst 2025 sollen zudem Verbraucher jederzeit digital und kostenfrei ihre Daten bei der Schufa einsehen können. Gegen die Urteile der Gerichte ist sie trotzdem in Berufung gegangen.
+
+In Magdeburg mussten in kürzester Zeit [zwei](https://www.magdeburg.de/Kurzmen%C3%BC/Start/index.php?object=tx,698.45313.1&&oNavID=37.1025) [Brücken](https://www.magdeburg.de/index.php?FID=698.41091.1&object=tx%7C698.41091.1) aus Sicherheitsgründen wegen entdeckten massiven Schäden gesperrt werden. Die [FragDenStaat-Anfragen](https://machteburch.social/@JensWinter/114535304491264858) nach den Untersuchungsergebnissen hat das Tiefbauamt in beiden Fällen zügig beantwortet.
+
+## AfD-Verbot
+Der Verfassungsschutz stuft nach jahrelanger Arbeit in einem Gutachten die gesamte AfD als gesichert rechtsextrem ein, [wollte das zugehörige Gutachten aber nicht veröffentlichen](https://www.fr.de/politik/geheim-gutachten-fuer-afd-verbotsverfahren-linke-will-vollstaendigen-einblick-ins-zr-93711355.html), am 13. Mai wurden die über 1100 Seiten aber von diversen Medien [geleakt](https://archive.org/details/AFD-Gutachten-Verfassungsschutz).
+
+Aus den zuvor schon öffentlich gemachten Auszügen ließen sich [bereits Belege zur Verfassungsfeindlichkeit der AfD](https://fragdenstaat.de/artikel/exklusiv/2025/05/afd-gutachten-ausschnitt-verfassungsfeindlich/) finden.
+
+[correctiv wundert sich auch](https://correctiv.org/aktuelles/debatte-um-afd-verbot/2025/05/15/was-im-afd-gutachten-steht-und-was-nicht/), was alles nicht (bzw. sehr knapp) im AfD-Gutachten des Verfassungsschutzes steht: sowohl für Umsturz- und Gewaltphantasien innerhalb und im Vorfeld der Partei als auch für ausländische Einflüsse gibt es in Medien veröffentlichte Belege.
+
+Die Initiative "Politische Schönheit" sammelt auf der Seite [afd-verbot.de](https://afd-verbot.de/beweise) ebenfalls Beweise für die verfassungsfeindlichkeit der Partei.
+
+Die Gesellschaft für Freiheitsrechte [hat inzwischen begonnen](https://freiheitsrechte.org/themen/demokratie/afd-gutachten), selbst ein Gutachten zu einer möglichen Verfassungswidrigkeit der AfD zu erstellen und hofft es im Frühsommer 2026 veröffentlichen zu können. 
+
+## USA
+* Update. "The Latest #Trump and #DOGE Casualty: #Energy Data."
+  https://www.propublica.org/article/the-latest-trump-and-doge-casualty-energy-data
+  via https://fediscience.org/@petersuber/114456542581736692
+* Donald Trump’s Information Warfare Against America
+  https://www.thebulwark.com/p/donald-trump-information-warfare-privacy-federal-data
+  via https://fediscience.org/@petersuber/114468267610702383
+* Trump admin ends extreme weather database that has tracked cost of disasters since 1980
+  https://edition.cnn.com/2025/05/08/climate/noaa-ends-disaster-database
+  via https://chaos.social/@fuzzyleapfrog/114478331029014321
+* Kudos to the Environmental Defense Fund (#EDF, @edf) for using the Freedom of Information Act (#FOIA) to obtain the latest greenhouse gas inventory from the Environment Protection Agency (#EPA), and making it #OpenAccess. 
+  https://fediscience.org/@petersuber/114478056046123428
+* Dieser Putsch findet mit Software statt – und nicht mit Panzern
+  https://correctiv.org/aktuelles/denkanstoss/2025/05/13/dieser-putsch-findet-mit-software-statt-und-nicht-mit-panzern/
+* Wikipedia: Der US-Angriff auf das freie Wissen hat begonnen
+  https://www.rnd.de/wirtschaft/us-angriff-auf-wikipedia-wie-ernst-steht-es-um-die-freie-enzyklopaedie-NR6CKS3NRBDNTHJ23JMCF5IF24.html
+* Diesmal geht’s um die Frage: Wie beeinflusst der geopolitische Wettkampf zwischen den USA, China und anderen Mächten den globalen Zugang zu Wissen? 
+  https://www.deutschlandfunkkultur.de/wissen-im-geopolitischen-wettkampf-droht-ein-digitaler-eiserner-vorhang-100.html
+  via https://social.wikimedia.de/@wikimediaDE/114527777705246690
+* 100 Hours to Save America’s Forecasts, Weather and Climate Livestream 
+  https://www.youtube.com/watch?app=desktop&v=r58FtmM4sDY
+  via https://social.tchncs.de/@antux/114602201134630120
 
 ## Digitale Souveränität
 * "Meilenstein für digitale Souveränität": 20 Jahre Open Document Format (ODF)
@@ -83,6 +103,15 @@ Nach dem Verkauf von Sketchfab müssen viele Terrabyte Daten von freien 3D-Model
 * Das Prinzip Offenheit in der Entwicklung und Kommunikation der Corona-Warn-App
   https://link.springer.com/article/10.1365/s35764-025-00555-4
   via https://social.tchncs.de/@CCTG/114587521980622941
+* From Software to Society — Openness in a changing world
+  https://okfn.de/blog/2025/05/from-software-to-society-openness-in-a-changing-world/
+* RSS feed for CISA KEV vulnerabilities, powered by Vulnerability-Lookup:
+  https://www.vulnerability-lookup.org/user-manual/feed-syndication/#most-recent-entries-from-known-exploited-vulnerabilities
+  via https://fosstodon.org/@cedric/114502389098508912
+* Der Amazon-Konzern weigert sich, die Cloud-Verträge mit dem Schweizer Staat öffentlich zu machen
+  https://netzpolitik.org/2025/digitale-souveraenitaet-amazon-will-cloud-vertraege-in-der-schweiz-geheim-halten/
+  via https://chaos.social/@netzpolitik_feed/114549769789391457
+
 
 ## Digitalisierung
 * Organisationserlass: Aufgaben des neuen Digitalministeriums 
@@ -94,6 +123,19 @@ Nach dem Verkauf von Sketchfab müssen viele Terrabyte Daten von freien 3D-Model
 * Digitaler Zwilling des Staates: Rechtliche Architektur für eine modellbasierte Staatsmodernisierung
   https://negz.org/publikation/digitaler-zwilling-des-staates/
   via https://de.linkedin.com/posts/urban-digital-de_digitaler-zwilling-des-staates-negz-impulspapier-activity-7320325571492610048-kDML
+
+
+## Open Hardware
+* Open Source Hardware seminar an TU Berlin
+  https://www.tu.berlin/qw/studium-lehre/lehrveranstaltungen/oshs-open-source-hardware-seminar
+  https://mastodon.social/@mntmn/114477430360540295
+* Open-Hardware-Braille-"Drucker"
+  https://www.braillerap.org/en/#page-top
+  via https://chaos.social/@stk/114524001534843195
+* Wie können Batteriespeicher reparierbar, umwelt- und menschenfreundlich gebaut werden? Das Flow Battery Research Collective arbeitet an einer #OpenHardware FLOW-Batterie
+  https://hardware.prototypefund.de/offene-flow-zellen-wie-batterien-reparierbar-werden/
+  via https://chaos.social/@openhardware/114539714835112662
+
 
 ## Klima
 * Monatliche Sonnenscheindauer in Deutschland im April
@@ -132,6 +174,9 @@ Nach dem Verkauf von Sketchfab müssen viele Terrabyte Daten von freien 3D-Model
     https://www.zdfheute.de/video/umwelt-klimawandel-bergsturz-100.html
 * Bits & Bäume zum Koalitionsvertrag: Wolkig, wenig heiter
   https://bits-und-baeume.org/blog/auswertung_koalitionsvertrag/
+* Irreführung bei nachhaltigen Fonds: 150 Milliarden Euro unter falschem Etikett
+  https://correctiv.org/aktuelles/klimawandel/2025/05/15/irrefuehrung-bei-nachhaltigen-fonds-150-milliarden-euro-unter-falschem-etikett/
+
 
 ## Visualisierung
 * Wie man Daten zum Sprechen bringen kann
@@ -237,47 +282,6 @@ Nach dem Verkauf von Sketchfab müssen viele Terrabyte Daten von freien 3D-Model
 * Drei Gedanken zum Datenjournalismus
   https://de.linkedin.com/pulse/drei-gedanken-zum-datenjournalismus-john-mark-s--uow5e
 
-## AfD-Verbot
-* Die veröffentlichte Belegliste des Verfassungsschutzes dokumentiert 37 öffentlich nachvollziehbare Beispiele für die verfassungsfeindliche Ausrichtung der AfD auf Bundesebene
-  https://freiheitsrechte.org/themen/demokratie/afd-gutachten
-  via https://chaos.social/@fragdenstaat/114465302879285229
-* Hier sind die ersten Belege zur Verfassungsfeindlichkeit der AfD
-  https://fragdenstaat.de/artikel/exklusiv/2025/05/afd-gutachten-ausschnitt-verfassungsfeindlich/
-* Magazin "Cicero" veröffentlicht vollständiges Verfassungsschutzgutachten über die AfD
-  https://www.deutschlandfunk.de/magazin-cicero-veroeffentlicht-vollstaendiges-verfassungsschutzgutachten-ueber-die-afd-104.html
-* Was im AfD-Gutachten steht (und was nicht)
-  https://correctiv.org/aktuelles/debatte-um-afd-verbot/2025/05/15/was-im-afd-gutachten-steht-und-was-nicht/
-* AfD-Verbot Beweise
-  https://afd-verbot.de/beweise
-
-## USA
-* Update. "The Latest #Trump and #DOGE Casualty: #Energy Data."
-  https://www.propublica.org/article/the-latest-trump-and-doge-casualty-energy-data
-  via https://fediscience.org/@petersuber/114456542581736692
-* Donald Trump’s Information Warfare Against America
-  https://www.thebulwark.com/p/donald-trump-information-warfare-privacy-federal-data
-  via https://fediscience.org/@petersuber/114468267610702383
-* Trump admin ends extreme weather database that has tracked cost of disasters since 1980
-  https://edition.cnn.com/2025/05/08/climate/noaa-ends-disaster-database
-  via https://chaos.social/@fuzzyleapfrog/114478331029014321
-* Kudos to the Environmental Defense Fund (#EDF, @edf) for using the Freedom of Information Act (#FOIA) to obtain the latest greenhouse gas inventory from the Environment Protection Agency (#EPA), and making it #OpenAccess. 
-  https://fediscience.org/@petersuber/114478056046123428
-* Dieser Putsch findet mit Software statt – und nicht mit Panzern
-  https://correctiv.org/aktuelles/denkanstoss/2025/05/13/dieser-putsch-findet-mit-software-statt-und-nicht-mit-panzern/
-* Wikipedia: Der US-Angriff auf das freie Wissen hat begonnen
-  https://www.rnd.de/wirtschaft/us-angriff-auf-wikipedia-wie-ernst-steht-es-um-die-freie-enzyklopaedie-NR6CKS3NRBDNTHJ23JMCF5IF24.html
-* Diesmal geht’s um die Frage: Wie beeinflusst der geopolitische Wettkampf zwischen den USA, China und anderen Mächten den globalen Zugang zu Wissen? 
-  https://www.deutschlandfunkkultur.de/wissen-im-geopolitischen-wettkampf-droht-ein-digitaler-eiserner-vorhang-100.html
-  via https://social.wikimedia.de/@wikimediaDE/114527777705246690
-* 100 Hours to Save America’s Forecasts, Weather and Climate Livestream 
-  https://www.youtube.com/watch?app=desktop&v=r58FtmM4sDY
-  via https://social.tchncs.de/@antux/114602201134630120
-
-## Security
-* RSS feed for CISA KEV vulnerabilities, powered by Vulnerability-Lookup:
-  https://www.vulnerability-lookup.org/user-manual/feed-syndication/#most-recent-entries-from-known-exploited-vulnerabilities
-  via https://fosstodon.org/@cedric/114502389098508912
-
 ## KIdioten
 * DKB und OpenAI wollen Weg zur KI-basierten Bank freimachen
   https://www.cio.de/article/3980121/dkb-und-openai-wollen-den-weg-zur-ki-basierten-bank-freimachen.html
@@ -308,27 +312,6 @@ Nach dem Verkauf von Sketchfab müssen viele Terrabyte Daten von freien 3D-Model
   https://www.linkedin.com/posts/robert-haase-2349a8163_euaiact-openaccess-activity-7332999232091492352-gJQp
   https://scads.github.io/ki-kompetenz-training-2025/intro.html
   https://github.com/ScaDS/ki-kompetenz-training-2025/
-
-## Transparenz
-* Wurde Christian Lindners Mailpostfach gelöscht?
-  https://correctiv.org/aktuelles/auskunftsrechte/2025/05/09/wurde-christian-lindners-mailpostfach-geloescht/
-* Christian Lindner SMSen an Porsche-Chef Oliver Blume
-  https://mastodon.social/@mkreutzfeldt/114578448745564026
-* Das sind die Porschegate-SMS von Christian Lindner und Oliver Blume
-  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/das-sind-die-porschegate-sms-von-christian-lindner-und-oliver-blume
-* Informationsfreiheit zu Untersuchungen von Magdeburger Brücken angefragt
-  https://machteburch.social/@JensWinter/114535304491264858
-* Der Amazon-Konzern weigert sich, die Cloud-Verträge mit dem Schweizer Staat öffentlich zu machen
-  https://netzpolitik.org/2025/digitale-souveraenitaet-amazon-will-cloud-vertraege-in-der-schweiz-geheim-halten/
-  via https://chaos.social/@netzpolitik_feed/114549769789391457
-* Gesetzgebungsprozess: Keine Zeit für Zivilgesellschaft
-  https://fragdenstaat.de/artikel/exklusiv/2024/05/stellungnahmefristen-interessensverbande-zu-wenig-zeit/
-* Hessische Ausländerbehörden: Arbeit faktisch eingestellt
-  https://taz.de/Probleme-bei-Auslaenderbehoerden/!6090705/
-* Irreführung bei nachhaltigen Fonds: 150 Milliarden Euro unter falschem Etikett
-  https://correctiv.org/aktuelles/klimawandel/2025/05/15/irrefuehrung-bei-nachhaltigen-fonds-150-milliarden-euro-unter-falschem-etikett/
-* Schufa will transparenter werden
-  https://www.tagesspiegel.de/wirtschaft/finanzen/neue-gerichtsurteile-machen-druck-muss-die-schufa-negative-eintrage-schneller-loschen-13605901.html
 
 ## Recap
 * re:publica
