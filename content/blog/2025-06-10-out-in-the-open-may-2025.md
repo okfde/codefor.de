@@ -58,6 +58,8 @@ Die Initiative "Politische Schönheit" sammelt auf der Seite [afd-verbot.de](htt
 
 Die Gesellschaft für Freiheitsrechte [hat inzwischen begonnen](https://freiheitsrechte.org/themen/demokratie/afd-gutachten), selbst ein Gutachten zu einer möglichen Verfassungswidrigkeit der AfD zu erstellen und hofft es im Frühsommer 2026 veröffentlichen zu können. 
 
+Und wer sich daran stört, dass Vertretern der AfD zur besten Sendezeit eine Plattform gegeben und ihren offensichtlichen Lügen nicht widersprochen wird, sollte die [Möglichkeit einer Programmbeschwerde](https://freiburg.social/@DocM/114443613833706710) nutzen.
+
 ## USA
 Auf Bulwark wird die aktuelle Datenpolitik der US-Regierung [treffend zusammengefasst](https://www.thebulwark.com/p/donald-trump-information-warfare-privacy-federal-data): Inhalte, die ihr nicht in den Kram passen (Impfung, Gender, Klima und neuerdings auch [Energie](https://www.propublica.org/article/the-latest-trump-and-doge-casualty-energy-data)), werden zurückgehalten oder gar gelöscht, während gleichzeitig massiv Daten über Personen gesammelt werden, die verteufelt bzw. marginalisiert werden sollen. 
 
@@ -112,6 +114,15 @@ Die Idee eines digitalen Zwillings der rechtlichen Struktur von Staat und Verwal
 Lesen wir also die Diagramme des [Datawrapper Data Vis Dispatch vom 20. Mai](https://www.datawrapper.de/blog/data-vis-dispatch-may-20-2025) alle richtig, z.B. den Vergleich der Staatausgaben (oder bräuchte man beispielsweise bei der Bewertung der Gesundheitsausgaben noch mehr Hintergrundwissen, um die Unterschiede zwischen Deutschland und USA korrekt einzuordnen)? 
 
 [Mit den interaktiven Visualisierung auf Zeit-Online](https://www.zeit.de/wirtschaft/2025-05/mietpreise-immobilien-deutschland-staedte-stadtteile) kann man die hinsichtlich Mietpreisen teuersten und günstigsten Stadtteile Deutschlands entdecken.
+
+Wie sich der Journalismus und speziell der Datenjournalismus auch durch KI verändern wird, [reflektiert hier John Mark](https://de.linkedin.com/pulse/drei-gedanken-zum-datenjournalismus-john-mark-s--uow5e) nach Lektüre des Buches "Handbuch Daten und KI im Journalismus". Bei allem Potenzial, kann man sich, wie der Autor, bei mancher Entwicklung auch einfach nur fragen: "Wollen wir das?". 
+
+## Kultur
+In [einer Datenvisualisierung](https://www.getty.edu/tracingart/) von Provenienzdatenbankeinträgen kann man die wechselnden Besitzverhältnisse eines Kunstwerks über die Zeit nachvollziehen. 
+
+Ein umfangreiches Datenset [historischer Zeitungen](https://www.linkedin.com/posts/danielvanstrien_finally-caught-up-on-some-long-overdue-documentation-activity-7326167384937930752-hIz6) aus dem Europeana-Archiv mit Annotationen zu detektierten und klassifizierten Elemente (z.B. Foto, Karte, Karikatur, Überschrift, Anzeige) sowie OCR-Konfidenz-Scores steht auf HuggingFace [frei zum Download](https://huggingface.co/datasets/biglam/europeana_newspapers). 
+
+[The Painted Planet](https://hicsuntleones.nl/paintedplanet/?country=Q55&scape=city) verortet [dank Wikidata](https://wikis.world/@wikidata/114549957595247603) Landschaftsmotive historischer Gemälde auf einer Karte.
 
 ## Karten
 [Eine interaktive Karte](https://netzpolitik.org/2025/interaktive-karte-das-globale-outsourcing-hinter-sozialen-medien-und-ki/) der Initiative Data4Mods macht das globale Outsourcing hinter Sozialen Medien und KI durch Visualisierung von Datenflüsse und Arbeitsbeziehungen. Entstanden ist die Karte auf Basis einer Befragung dutzender afrikanischer Content-Moderator:innen und Datenarbeiter:innen, dabei ist die Karte bei weitem nicht vollständig, einige bekannte Branchengrößen fehlen, die Outsourcing-Branche ist notorisch intransparent. Viele der Betroffenen empfinden ihre Arbeitsbedingungen als "moderne Sklaverei".
@@ -195,96 +206,44 @@ Auch Texte in [Punktschrift](https://de.wikipedia.org/wiki/Blindenschrift) lasse
 
 An der TU Berlin können Studenten ab September ein [Seminar zu Open-Source-Hardware](https://www.tu.berlin/qw/studium-lehre/lehrveranstaltungen/oshs-open-source-hardware-seminar) belegen, eventuell ist auch eine [Nebenhörerschaft](https://mastodon.social/@mntmn/114477430360540295) möglich.
 
-## Kultur
-* And a new scrollytelling datavis project announcing the Getty's Provenance database 
-  https://www.getty.edu/tracingart/
-  via https://mstdn.social/users/arnicas/statuses/114521909794973032
-* The Painted Planet: using Wikidata to connect artworks to geography. It’s open culture in action
-  https://hicsuntleones.nl/paintedplanet/?country=Q55&scape=city
-  via https://wikis.world/@wikidata/114549957595247603
-* GLAM-focused AI work
-  https://www.linkedin.com/posts/danielvanstrien_finally-caught-up-on-some-long-overdue-documentation-activity-7326167384937930752-hIz6
-
-## Medien
-* Programmbeschwerde
-  https://gruene.social/@MBrandtner/114439325417171260
-  https://freiburg.social/@DocM/114443613833706710
-* "Es wäre die Aufgabe von Journalist:innen, die trübe Hülle des Begriffs Bürokratieabbau abzuschälen und freizulegen, was darunter liegt."
-  https://uebermedien.de/105496/buerokratieabbau/
-  via https://mastodon.social/@annskaja/114579046638993308
-* Drei Gedanken zum Datenjournalismus
-  https://de.linkedin.com/pulse/drei-gedanken-zum-datenjournalismus-john-mark-s--uow5e
-
 ## KIdioten
-* DKB und OpenAI wollen Weg zur KI-basierten Bank freimachen
-  https://www.cio.de/article/3980121/dkb-und-openai-wollen-den-weg-zur-ki-basierten-bank-freimachen.html
-  via https://gruene.social/@Gerbsen/114477496444876410
-* "Zurzeit verdient niemand Geld mit KI"
-  https://www.trailer-ruhr.de/ki-streikt-nicht-thema-0525
-  via https://systemli.social/@anneroth/114476840439167912
-* KI-System rekonstruiert Gesichter aus DNA
-  https://www.heise.de/news/Software-kann-mithilfe-von-KI-Gesichter-aus-dem-Erbgut-rekonstruieren-10380879.html
-* The goal of the companies who run AIs is to ...
-  https://mastodon.social/@courtcan/114510187145932176
-* "wie verhindern wir, dass wir unser verhalten an die zurückgespiegelten und gestreamlineten erwartungen der llms anpassen?"
-  https://fnordon.de/@mspro/114504676710000770
-  via https://fnordon.de/@mspro/114504811865585568
-* On “Vibe Coding”
-  "If GenAI tools share one thing it probably is the disdain for excellence and skill."
-  https://tante.cc/2025/05/23/on-vibe-coding/
-* Durstige KI: Wie viel Wasser braucht Künstliche Intelligenz? 
-  https://www.hna.de/welt/wie-viel-wasser-braucht-kuenstliche-intelligenz-durstige-ki-zr-93749007.html
-* Second Opinion, ein Framework des AI for Media Network zur KI-gestützten Inhalts-Überprüfung von KI-erzeugten Texten
-  https://interaktiv.br.de/second-opinion-demo/index.html
-* Generative KI für die Verwaltung?
-  https://www.linkedin.com/posts/stefan-kaufmann-7a8b54224_digitaleverwaltung-ki-opendata-activity-7333465071139864576-oo7t
-  https://commons.wikimedia.org/wiki/File:Generative_KI_f%C3%BCr_die_Verwaltung%3F_2025.pdf
-* semantic-search-eval
-  https://github.com/machinelearningZH/semantic-search-eval
-* KI-Kompetenz-Training 2025
-  https://www.linkedin.com/posts/robert-haase-2349a8163_euaiact-openaccess-activity-7332999232091492352-gJQp
-  https://scads.github.io/ki-kompetenz-training-2025/intro.html
-  https://github.com/ScaDS/ki-kompetenz-training-2025/
+### Kompetenz
+In [Generative KI für die Verwaltung? (pdf)](https://upload.wikimedia.org/wikipedia/commons/0/0e/Generative_KI_f%C3%BCr_die_Verwaltung%3F_2025.pdf) [kritisiert Stefan Kaufmann](https://www.linkedin.com/posts/stefan-kaufmann-7a8b54224_digitaleverwaltung-ki-opendata-activity-7333465071139864576-oo7t) den Hype um [Generative KI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) und Large Language Models als Heilsbringer für die öffentliche Verwaltung, erklärt den Unterschied zu [Symbolischer KI](https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence) und wann man welche von ihnen, wenn überhaupt, anwenden sollte.
+
+Noch mehr KI-Wissen (aber vielleicht weniger kritisch) kann man mit den Lern-Materialien aus [KI-Kompetenz-Training 2025](https://scads.github.io/ki-kompetenz-training-2025/intro.html), die auch hier [auf Github](https://github.com/ScaDS/ki-kompetenz-training-2025/) zu finden sind.
+
+### Tools
+Mit [Second Opinion](https://interaktiv.br.de/second-opinion-demo/index.html) lassen sich ein Ausgangstext und die KI-generierte Zusammenfassung von einer zweiten KI vergleichen, um mögliche Unstimmigkeiten aufzudecken.
+
+Mit dem [Semantic Search Evaluation Framework](https://github.com/machinelearningZH/semantic-search-eval) lässt sich die Qualität der verschiedenen Generativen KIs (HuggingFace, OpenAI, BM25, u.a.) vergleichen, da diese je nach Anwendungsfall unterschiedlich gut geeignet sind.
+
+### Gefährliche Anwendungsfälle
+Mit der chinesischen Software Difface lassen sich [Gesichter aus DNA mittels KI rekonstruieren](https://www.heise.de/news/Software-kann-mithilfe-von-KI-Gesichter-aus-dem-Erbgut-rekonstruieren-10380879.html). Das Potenzial für Missbrauch haben die Forscher selbst schon erkannt. Die Direktbank DKB [kooperiert mit OpenAI](https://www.cio.de/article/3980121/dkb-und-openai-wollen-den-weg-zur-ki-basierten-bank-freimachen.html), um interne Prozesse mit KI zu optimieren, man denkt aber schon darüber danach die KI über die automatisierte Vergabe von Krediten entscheiden zu lassen. Was soll da schon schief gehen?
+
+### Zweifelhafte Motivation der Firmen
+Das [Konfuzius-Zitat](https://klugwort.de/zitat/gib-einem-mann-einen-fisch-konfuzius): "Gib einem Mann einen Fisch und du ernährst ihn für einen Tag. Lehre einen Mann zu fischen und du ernährst ihn für sein Leben." sollte man beherzigen, wenn man mal wieder zu schnell zum KI-Chat greift. Aus [Bequemlichkeit](https://tante.cc/2025/05/23/on-vibe-coding/) wird [Abhängigkeit](https://mastodon.social/@courtcan/114510187145932176), [Überanpassung](https://fnordon.de/@mspro/114504811865585568) und letzlich [Entmächtigung](https://www.trailer-ruhr.de/ki-streikt-nicht-thema-0525).
 
 ## Recap
-* re:publica
-  * Playlist
-    https://www.youtube.com/@republica/playlists
-  * OKF auf der re:public
-    https://okfn.de/blog/2025/05/triff-die-okf-auf-der-republica-2025/
-  * Von Fax-Scans und unlesbaren Tabellen – welche Daten braucht die Zivilgesellschaft
-    https://re-publica.com/de/session/von-fax-scans-und-unlesbaren-tabellen-welche-daten-braucht-die-aktive-zivilgesellschaft-vom
-  * Offenheit von Technologie und Gesellschaft – Midlife-Crisis eines populären Begriffs?
-    https://re-publica.com/de/session/offenheit-von-technologie-und-gesellschaft-midlife-crisis-eines-populaeren-begriffs
-  * Frank Karlitschek (Nextcloud) - So baut man ein nachhaltiges Open Source Unternehmen
-    https://www.youtube.com/watch?v=MykWi0Bmr_Y
-  * Community data centers – Towards locally owned infrastructures for an equitable and sustainable digital future
-    https://re-publica.com/de/session/community-data-centers-towards-locally-owned-infrastructures-equitable-and-sustainable
-  * Public AI – Digitale Infrastruktur für das Gemeinwohl neu denken
-    https://re-publica.com/de/session/public-ai-digitale-infrastruktur-fuer-das-gemeinwohl-neu-denken
-  * Coding the Urban Commons: Herausforderungen ko-produktiver Stadtgestaltung in der Smart City
-    https://re-publica.com/de/session/coding-urban-commons-herausforderungen-ko-produktiver-stadtgestaltung-der-smart-city
-  * Von Glut und Geschichte zu Merz’ Kanzlerauftritt und Wildbergers Digitalplänen
-    https://stefanpfeiffer.blog/2025/05/29/von-glut-und-geschichte-zu-merz-kanzlerauftritt-und-wildbergers-digitalplanen-rp25/
-  * Fediverse, Mastodon und SaveSocial – der Kampf um ein demokratisches Netz 
-    https://stefanpfeiffer.blog/2025/05/30/fediverse-mastodon-und-savesocial-der-kampf-um-ein-demokratisches-netz-rp25/
-  * Logbuch Re:publica 2025
-    https://fragmentansichten.de/2025/05/31/logbuch-republica-2025/
-* Berliner Open Data Day
-  * Das nimmt Kai Dolata mit
-    https://de.linkedin.com/posts/kaidolata_boddy25-opendata-noopendatabau-activity-7329155829633327104-WG3X
-  * Das nimmt Rick Trojahn mit
-    https://de.linkedin.com/posts/ricktrojahn_boddy25-opendata-ki-activity-7329179450451886080-hI_P
-* Open Data Barcamp
-  https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/4-kommunales-open-data-barcamp-2025-nach-va
-  via https://de.linkedin.com/posts/mario-wiedemann-a5887b30_odb25-activity-7330937292192116736-8Opv
-* correctiv Lokalkonferenz
-  * Warum sollte ich trotzdem im Lokaljournalismus anfangen?
-    https://open.spotify.com/episode/3HXGMZWcEFLk7DA8jK3Nls?si=7CL9cCo9TV-oQdbBsSNeJw&nd=1&dlsi=6faee5650582438f
-  * CORRECTIV.Lokal Konferenz: Sieben Forderungen für einen starken Lokaljournalismus
-    https://correctiv.org/in-eigener-sache/2025/05/28/sieben-forderungen-um-lokaljournalismus-zu-verbessern/
-* Wikidata and Sister Projects
-  * https://www.wikidata.org/wiki/Event:Wikidata_and_Sister_Projects#Sessions    
+### re:publica
+Die jährlichen Zusammenkunft der Digital-Bohème auf der re:publica ist in [zahlreichen Vorträgen](https://www.youtube.com/@republica/playlists) dokumentiert, einige davon auch mit Openess-Bezug:
+  * [OKF auf der re:public](https://okfn.de/blog/2025/05/triff-die-okf-auf-der-republica-2025/)
+  * [Von Fax-Scans und unlesbaren Tabellen – welche Daten braucht die Zivilgesellschaft](https://re-publica.com/de/session/von-fax-scans-und-unlesbaren-tabellen-welche-daten-braucht-die-aktive-zivilgesellschaft-vom)
+  * [Offenheit von Technologie und Gesellschaft – Midlife-Crisis eines populären Begriffs?](https://re-publica.com/de/session/offenheit-von-technologie-und-gesellschaft-midlife-crisis-eines-populaeren-begriffs)
+  * [Frank Karlitschek (Nextcloud) - So baut man ein nachhaltiges Open Source Unternehmen](https://www.youtube.com/watch?v=MykWi0Bmr_Y)    
+  * [Community data centers – Towards locally owned infrastructures for an equitable and sustainable digital future](https://re-publica.com/de/session/community-data-centers-towards-locally-owned-infrastructures-equitable-and-sustainable)
+  * [Public AI – Digitale Infrastruktur für das Gemeinwohl neu denken](https://re-publica.com/de/session/public-ai-digitale-infrastruktur-fuer-das-gemeinwohl-neu-denken)
+  * [Coding the Urban Commons: Herausforderungen ko-produktiver Stadtgestaltung in der Smart City](https://re-publica.com/de/session/coding-urban-commons-herausforderungen-ko-produktiver-stadtgestaltung-der-smart-city)
+
+Mit Stefan Pfeiffers Impressionen [Teil 1](https://stefanpfeiffer.blog/2025/05/29/von-glut-und-geschichte-zu-merz-kanzlerauftritt-und-wildbergers-digitalplanen-rp25/) und [Teil2](https://stefanpfeiffer.blog/2025/05/30/fediverse-mastodon-und-savesocial-der-kampf-um-ein-demokratisches-netz-rp25/) und [Logbuch Re:publica 2025](https://fragmentansichten.de/2025/05/31/logbuch-republica-2025/) gibt es persönliche Berichte von der Konferenz.
+
+### Berliner Open Data Day (BODDY) 2025
+Was nahmen Teilnehmende für sich als Erkenntnisse mit: einmal [Kai Dolata](https://de.linkedin.com/posts/kaidolata_boddy25-opendata-noopendatabau-activity-7329155829633327104-WG3X) und einmal [Rick Trojahn](https://de.linkedin.com/posts/ricktrojahn_boddy25-opendata-ki-activity-7329179450451886080-hI_P).
+
+### correctiv Lokalkonferenz
+Neben den [sieben Forderungen für einen starken Lokaljournalismus](https://correctiv.org/in-eigener-sache/2025/05/28/sieben-forderungen-um-lokaljournalismus-zu-verbessern/) wurde im [Druckausgleich-Podcast](https://open.spotify.com/episode/3HXGMZWcEFLk7DA8jK3Nls?si=7CL9cCo9TV-oQdbBsSNeJw&nd=1&dlsi=6faee5650582438f) auch nochmal Werbung dafür gemacht, den Einstieg in den lokalen Journalismus doch zu wagen.
+
+### Wikidata and Sister Projects 
+4 Tage von Diskussionen und Workshops, [die hier dokumentiert sind](https://www.wikidata.org/wiki/Event:Wikidata_and_Sister_Projects#Sessions).
 
 ## Call for Contribution
 * Piazza, Workshop-Ideen bis 02.06.2025
