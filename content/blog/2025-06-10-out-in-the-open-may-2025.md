@@ -150,46 +150,41 @@ Mit [GehCheck-App](https://gehcheck.werdenktwas.de/page/app) fürs Handy lassen 
 Das Forschungsprojekt ["Mobil auf Deine Weise"](https://www.mobil-auf-deine-weise.de) möchte über eine Studie herausfinden, wie die Mobilität in Berlin gesünder und gerechter werden kann. Für Mai hat man sich dem Thema [Mobilität und Gesundheitsrisiken](https://www.mobil-auf-deine-weise.de/themenmonate/mai/) gewidmet, also Luftverschmutzung, Lärm, Barrieren, Unfälle, Bewegungsmangel und Flächenversiegelung.
 
 ## Klima
+### Politik
+Bits & Bäume fasst [in einem Blogbeitrag](https://bits-und-baeume.org/blog/auswertung_koalitionsvertrag/) die Aspekte des Koalitionsvertrags zusammen, die für die Organisationen in ihrem Trägerkreis relevant erscheinen: ein Schwanken zwischen "doch nicht so schlimm", wie erwartet, bis zu "doch so schlimm".
+
+Eine [Analyse des Climate Action Tracker](https://climateactiontracker.org/blog/eu-missing-in-action/) zeigt, dass die EU dabei ist, ihre Klimaziele für 2040 und für 2050 [zu reißen](https://chaos.social/@fff/114499606193105478). Sie kritisiert auch den Vorstoß der neuen Bundesregierung, CO2-Zertifikate sich anrechnen lassen zu können, als unzulässiges Unterlaufen der ehrgeizigen Reduktionsziele.
+
+Eine neue Leitlinie der Europäischen Wertpapier- und Marktaufsichtsbehörde (ESMA) sorgt nun dafür, dass viele Fonds und ETFs Begriffe wie "Klima" oder "grün" aus ihren Namen streichen müssen, weil deren Nachhaltigkeitsversprechen nach dieser Leitlinie als irreführend oder als nicht eindeutig belegt gelten, wie [eine gemeinsame Recherche von CORRECTIV und Finanztip ergeben hat](https://correctiv.org/aktuelles/klimawandel/2025/05/15/irrefuehrung-bei-nachhaltigen-fonds-150-milliarden-euro-unter-falschem-etikett/). Mindestens 150 Milliarden Euro Geldanlagen sind betroffen.
+
+### Hitze
+Wissenschaftler [zeigen sich besorgt darüber](https://insideclimatenews.org/news/24042025/global-carbon-dioxide-concentration-in-atmosphere-soared-2024/), dass sie den großen Sprung beim Anstieg der CO2-Konzentration im letzten Jahr nicht vollständig erklären können, es deutet darauf hin, dass die CO2-Absorption von Wäldern und Mooren langsam an ihre Grenzen kommt. Zudem kommen die Spitzen bei der Oberflächentemperaturen und der starke Rückgang des Polareises.   
+
+Dass auf ein trockenes Frühjahr häufig besonders heiße Sommermonate folgen, liegt daran, dass sich trockene Böden schneller aufheizen und so auch die Luft über ihnen. Luftmassen zirkulieren nicht in einem stabilen Hochdruckgebiet, es wird zu einer Hitzerglocke, da die heiße Luft nicht entweichen kann sondern noch weiter erhitzt wird. So droht Deutschland 2025 [wieder ein extremer Hitzesommer](https://www.t-online.de/nachrichten/panorama/wetter/id_100671794/jahrhundertsommer-2025-dieses-jahr-droht-alle-rekorde-zu-sprengen.html). 
+
+In den Untersuchungszeitraum des Berichts ["Climate Change and the Escalation of Global Extreme Heat: Assessing and Addressing the Risks (2025)"](https://www.climatecentral.org/report/climate-change-and-the-escalation-of-global-extreme-heat-2025) fallen das weltweit heißeste Jahr und der heißeste Januar, die je aufgezeichnet worden sind. So hat etwa die Hälfte der Weltbevölkerung in den letzten 12 Monaten mindestens 30 Tage mit extremer Hitze durchgemacht, in 195 Ländern / Regionen der Welt hat sich Zahl der Hitzetage verdoppelt, alle 67 Extremhitzeereignisse ließen sich auf den Klimawandel zurückführen. 
+
+### Gletscherschmelze
+Die totale Zerstörung des Dorfs Blatten im Schweizer Wallis Ende Mai als Folge der Millionen Tonnen Geröll und Eis, die die abgegangene Lawine des eingestürzten Gletschers ins Lötschental getragen hat, [beschäftigt auch die internationale Presse](https://www.srf.ch/news/schweiz/internationale-presseberichte-die-welt-realisiert-das-ausmass-der-katastrophe-im-wallis). Ein Grafikvideo erklärt, [warum die Gefahr solcher Bergstürze steigt](https://www.zdfheute.de/video/umwelt-klimawandel-bergsturz-100.html).
+
+[Eine Studie zeigt](https://www.theguardian.com/environment/2025/may/29/almost-40-of-worlds-glaciers-already-doomed-due-to-climate-crisis-study), dass fast 40% aller weltweiten Gletscher wegen der Klimakrise verschwunden sind.    
+
+### Tools
+Das neue [Klimadashboard Xhain](https://www.klimadashboard-xhain.de) erlaubt nun einen Einblick in aktuelle Klimadaten und Klimaktivitäten des Berliner Bezirks Friedrichshain-Kreuzberg.
+
+Mit der [Goffi-App](https://www.feinstaub-dosimetrie.de) soll sich die inhalierten Feinstaubmenge beim Radfahren und Gehen [abschätzen lassen](https://www.heise.de/news/Neue-App-misst-Feinstaubbelastung-beim-Radfahren-und-Gehen-10387001.html).  
+
+### Berichterstattung
+Wie spricht man angemessen über die Klimakrise, wie gelingt gute Klimakommunikation, die Menschen nicht mit düstere Botschaften verschreckt sondern mit "Do more good"- statt "Do less bad"-Botschaften stärker motiviert, das thematisiert unter anderem [dieser Treibhauspost-Newsletter](https://steady.page/de/treibhauspost/posts/9580f333-0420-4311-978e-0a3e9d53efe9).
+
+Regionale, persönliche Bezüge herzustellen, [hilft ebenso die Klima-Apathie zu durchbrechen](https://grist.org/science/break-through-climate-apathy-data-visualization-lake-freezing-study/), so ist die Tatsache, dass der See vor Ort die letzten Jahre nicht mehr zufror, [viel eindrücklicher](https://climatejustice.social/@leadohm/114465225686515974) als eine abstrakte steigende Temperaturkurve. 
+
+## Energie
 * Monatliche Sonnenscheindauer in Deutschland im April
   In Deutschland war der April 2025 viel sonniger als der April 2024. Sonnenscheindauer April 2025: 244,0 Stunden Sonnenscheindauer April 2024: 151,6 Stunden
   https://www.energy-charts.info/charts/climate_monthly_average/chart.htm?l=de&c=DE&month=04&source=sun_dur
   via https://wisskomm.social/@energy_charts_d/114442225555613746
-* A Grim Signal: Atmospheric CO2 Soared in 2024
-  https://insideclimatenews.org/news/24042025/global-carbon-dioxide-concentration-in-atmosphere-soared-2024/
-* Hier wurden zwei Arten verglichen, Klimadaten zu präsentieren: (1) steigende Temperaturkurven, (2) fror unser örtlicher See zu oder nicht. Zweiteres führt zu einem höheren Dringlichkeitsempfinden. Da ließe sich jetzt draus lernen, z.B. im Lokaljournalismus. 
-  https://grist.org/science/break-through-climate-apathy-data-visualization-lake-freezing-study/
-  via https://climatejustice.social/@leadohm/114465225686515974
-* Derzeit legt die EU ihre Klimaziele für 2035/40 fest. Eine neue Analyse des @climateactiontr zeigt: Nur das ehrgeizigste Szenario ist mit 1,5°C vereinbar. Die EU läuft Gefahr ihr 2050-Klimaziel zu reißen! 
-  https://climateactiontracker.org/blog/eu-missing-in-action/
-  via https://chaos.social/@fff/114499606193105478
-* Jetzt wissenschaftlich belegt: Die USA versinken. Und zwar die 28 größten Städte. Vergleichbare Probleme auch in Asien. Wissenschaftler, meine den Grund in USA ausfindig gemacht zu haben.
-  https://www.telepolis.de/features/Jetzt-wissenschaftlich-belegt-Die-USA-versinken-10382150.html
-  via https://social.heise.de/users/telepolis/statuses/114500897364171242
-* Neue App schätzt Feinstaubbelastung beim Radfahren und Gehen
-  https://www.heise.de/news/Neue-App-misst-Feinstaubbelastung-beim-Radfahren-und-Gehen-10387001.html
-  https://www.feinstaub-dosimetrie.de
-* Tag der Klima-Demokratie
-  https://tagderklimademokratie.de/dialog/
-* Jahrhundertsommer 2025? Dieser Sommer droht alle Rekorde zu sprengen
-  https://www.t-online.de/nachrichten/panorama/wetter/id_100671794/jahrhundertsommer-2025-dieses-jahr-droht-alle-rekorde-zu-sprengen.html
-* Aktuelle Studien mit einem hoffnungsvollen Blick aufs Klima
-  https://steadyhq.com/de/treibhauspost/posts/9580f333-0420-4311-978e-0a3e9d53efe9
-* Klimadashboard Xhain: Klimawandel in Friedrichshain-Kreuzberg
-  https://www.klimadashboard-xhain.de
-* Almost 40% of world’s glaciers already doomed due to climate crisis – study
-  https://www.theguardian.com/environment/2025/may/29/almost-40-of-worlds-glaciers-already-doomed-due-to-climate-crisis-study
-* Climate Change and the Escalation of Global Extreme Heat
-  https://www.climatecentral.org/report/climate-change-and-the-escalation-of-global-extreme-heat-2025
-* Die Welt realisiert das Ausmass der Katastrophe im Wallis
-  https://www.srf.ch/news/schweiz/internationale-presseberichte-die-welt-realisiert-das-ausmass-der-katastrophe-im-wallis
-  * Warum die Gefahr von Bergstürzen steigt
-    https://www.zdfheute.de/video/umwelt-klimawandel-bergsturz-100.html
-* Bits & Bäume zum Koalitionsvertrag: Wolkig, wenig heiter
-  https://bits-und-baeume.org/blog/auswertung_koalitionsvertrag/
-* Irreführung bei nachhaltigen Fonds: 150 Milliarden Euro unter falschem Etikett
-  https://correctiv.org/aktuelles/klimawandel/2025/05/15/irrefuehrung-bei-nachhaltigen-fonds-150-milliarden-euro-unter-falschem-etikett/
 
-## Energie
 * eGon-data – Datenpipeline für das deutsche #Energiesystem
   https://reiner-lemoine-institut.de/tool/egon-data/
   via https://wisskomm.social/@RL_Institut/114500049447353401
