@@ -180,20 +180,13 @@ Wie spricht man angemessen über die Klimakrise, wie gelingt gute Klimakommunika
 Regionale, persönliche Bezüge herzustellen, [hilft ebenso die Klima-Apathie zu durchbrechen](https://grist.org/science/break-through-climate-apathy-data-visualization-lake-freezing-study/), so ist die Tatsache, dass der See vor Ort die letzten Jahre nicht mehr zufror, [viel eindrücklicher](https://climatejustice.social/@leadohm/114465225686515974) als eine abstrakte steigende Temperaturkurve. 
 
 ## Energie
-* Monatliche Sonnenscheindauer in Deutschland im April
-  In Deutschland war der April 2025 viel sonniger als der April 2024. Sonnenscheindauer April 2025: 244,0 Stunden Sonnenscheindauer April 2024: 151,6 Stunden
-  https://www.energy-charts.info/charts/climate_monthly_average/chart.htm?l=de&c=DE&month=04&source=sun_dur
-  via https://wisskomm.social/@energy_charts_d/114442225555613746
+Eine Folge der geringen Niederschläge im Frühjahr ist die gestiegene monatliche Sonnenscheindauer, [hier z.B. für April](https://wisskomm.social/@energy_charts_d/114442225555613746), das ist zu mindestens gut für die Solarstromerzeugung.  
 
-* eGon-data – Datenpipeline für das deutsche #Energiesystem
-  https://reiner-lemoine-institut.de/tool/egon-data/
-  via https://wisskomm.social/@RL_Institut/114500049447353401
-* Willkommen in Feldheim - Energieautarker Ort der Stadt Treuenbrietzen im Landkreis Potsdam-Mittelmark - 12 Cent für eine Kilowattstunde Strom
-  https://mil.brandenburg.de/sixcms/media.php/9/NEF_Feldheim.pdf
-  https://www.spiegel.de/wirtschaft/soziales/feldheim-in-brandenburg-warum-dieses-dorf-nur-12-cent-fuer-strom-bezahlt-a-980172a0-da2b-450a-9768-4a3f6b681cfd
-  via https://chaos.social/@kattascha/114502479599711117
-* Welche Auswirkungen hätten Strompreiszonen in Deutschland?
-  https://www.basicthinking.de/blog/2025/05/05/strompreiszonen-deutschland/
+Im Dorf [Feldheim](https://mil.brandenburg.de/sixcms/media.php/9/NEF_Feldheim.pdf) nahe der Stadt Treuenbrietzen im Landkreis Potsdam-Mittelmark zahlt man nur 12 Cent für eine Kilowattstunde Strom, also ein Drittel des deutschen Durchschnittspreis. Möglich, weil es Strom und Wärme [vollständig selbst produzieren kann](https://www.fischundfleisch.com/powercloud/12-cent-je-kw-h-wie-erneuerbare-energien-den-strom-billiger-machen-89522).
+
+Durch die [Einführung von Strompreiszonen](https://www.basicthinking.de/blog/2025/05/05/strompreiszonen-deutschland/) in Deutschland könnten regionalen Unterschieden bei Ausbau von erneuerbaren Energien und überhaupt prinzipieller Verfügbarkeit bestimmter Quellen (mehr Wind im Norden, mehr Sonne im Süden) Rechnung getragen werden, Anreize für kürzere Übertragungswege werden geschaffen und damit positive Effekte für die Netzstabilität erzielt. 
+
+Mit dem Open-Source-Werkzeug [eGon-data](https://reiner-lemoine-institut.de/tool/egon-data/) lassen sich Energiesysteme modellieren, analysieren (z.B. freie Netzkapazitäten bestimmen) und optimieren (z.B. hinsichtlich Netz- und Speicherausbau).  
 
 ## Open Hardware
 * Open Source Hardware seminar an TU Berlin
