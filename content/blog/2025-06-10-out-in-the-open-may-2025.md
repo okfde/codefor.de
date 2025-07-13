@@ -189,15 +189,11 @@ Durch die [Einführung von Strompreiszonen](https://www.basicthinking.de/blog/20
 Mit dem Open-Source-Werkzeug [eGon-data](https://reiner-lemoine-institut.de/tool/egon-data/) lassen sich Energiesysteme modellieren, analysieren (z.B. freie Netzkapazitäten bestimmen) und optimieren (z.B. hinsichtlich Netz- und Speicherausbau).  
 
 ## Open Hardware
-* Open Source Hardware seminar an TU Berlin
-  https://www.tu.berlin/qw/studium-lehre/lehrveranstaltungen/oshs-open-source-hardware-seminar
-  https://mastodon.social/@mntmn/114477430360540295
-* Open-Hardware-Braille-"Drucker"
-  https://www.braillerap.org/en/#page-top
-  via https://chaos.social/@stk/114524001534843195
-* Wie können Batteriespeicher reparierbar, umwelt- und menschenfreundlich gebaut werden? Das Flow Battery Research Collective arbeitet an einer #OpenHardware FLOW-Batterie
-  https://hardware.prototypefund.de/offene-flow-zellen-wie-batterien-reparierbar-werden/
-  via https://chaos.social/@openhardware/114539714835112662
+[FLOW-Batterien](https://de.wikipedia.org/wiki/Redox-Flow-Batterie) sind wartbar und reparierbar, es werden in der Regel keine Nanomaterialien (z.B. bei Lithiumbatterien) benötigt, die nach 10 Jahren zu Müll werden, dafür ist ihr technischer Aufbau allerdings komplexer und anfälliger für Fehlfunktionen, hohe Kosten für Haftung und Markeinführung erschweren es zusätzlich. Das [Flow Battery Research Collective (FBRC)](https://fbrc.dev) glaubt trotzdem an das Potenzial des Ansatzes und daher ein Kit entwickelt, um mit 3D-druckbarer Open Source Hardware, [die Infrastrukturfür den Betrieb von FLOW-Batterien zu demokratisieren](https://hardware.prototypefund.de/offene-flow-zellen-wie-batterien-reparierbar-werden/).
+
+Auch Texte in [Punktschrift](https://de.wikipedia.org/wiki/Blindenschrift) lassen sich inzwischen mittels eines [Open-Hardware-Braille-"Drucker"](https://www.braillerap.org/) erzeugen.
+
+An der TU Berlin können Studenten ab September ein [Seminar zu Open-Source-Hardware](https://www.tu.berlin/qw/studium-lehre/lehrveranstaltungen/oshs-open-source-hardware-seminar) belegen, eventuell ist auch eine [Nebenhörerschaft](https://mastodon.social/@mntmn/114477430360540295) möglich.
 
 ## Kultur
 * And a new scrollytelling datavis project announcing the Getty's Provenance database 
