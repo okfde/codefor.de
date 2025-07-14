@@ -40,20 +40,13 @@ Die offenen Daten, die für den Landkreis Donau-Ries vorliegen, [findet man seit
 Im April wurde er schon auf dem Open Data Barcamp vorgestellt, am 17.6. ist er [auch offiziell freigegeben](https://datenatlas-zivilgesellschaft.de/de/ueber-uns/aktuelles/der-datenatlas-zivilgesellschaft-ist-online), der [Datenatlas Zivilgesellschaft](https://datenkatalog.datenatlas-zivilgesellschaft.de/app/home), ein Metadatenkatalog über offene Datensätze, die zivilgesellschaftlichen Organisationen auf ihren eigenen Seiten bereitstellen und die nun an einer zentralen Anlaufstelle auffindbar gemacht werden. 
 
 ## Linked Open Data
-* Hat schon mal jemand im größeren Stil Open Data (bzw. dessen Metadaten) mit Wikidata IDs verknüpft, um so aus Open Data -> Linked Open Data zu machen? 
-  https://norden.social/@datenschatz/114612335477055788
-  https://norden.social/users/datenschatz/statuses/114612675828595768
-  https://toot.berlin/@tursics/114615978271632699
-  https://toot.berlin/users/tursics/statuses/114615929104338908
-  https://toot.berlin/users/tursics/statuses/114615908483253426
-* Wer war wie oft bei Lanz? – Schoener Leben mit Linked Data
-  https://stefan.bloggt.es/2025/06/wer-war-wie-oft-bei-lanz-schoener-leben-mit-linked-data/
-* Hörspiel-Datenbank als LOD?
-  https://norden.social/@datenschatz/114703503631657810
-  * https://hoerspiele.dra.de
-  * Alternativen: http://www.hördat.de, https://www.phonostar.de/radio/hoerspiel/hoerspiel/liste
-* Linked Open Data in der Praxis
-  https://www.technologiestiftung-berlin.de/downloads/linked-open-data-in-der-praxis
+Die Studie [Linked Open Data in der Praxis](https://www.technologiestiftung-berlin.de/downloads/linked-open-data-in-der-praxis) erklärt nicht nur die Prinzipien von Linked-Open-Data sondern geht auch auf Erfahrungen und identifizierte Herausforderungen die am Beispiel des konkreten Umsetzungprojekts [Berliner Organigramme](https://organigramme.odis-berlin.de) ein.
+  
+Wie wär's mit empirischer statt anektoditischer Evidenz? - mit systematischer Erfassung als Linked Data kann man so die (Über-)Häufigkeit von Talkshow-Gästen [auch konkret belegen](https://stefan.bloggt.es/2025/06/wer-war-wie-oft-bei-lanz-schoener-leben-mit-linked-data/) und auch noch ein paar weitere Auswertungen machen (wenn z.B. über Parteizugehörigenkeit zum Zeitpunkt des Auftritts).
+
+Die [ARD-Hörspiel-Datenbank](https://hoerspiele.dra.de) ist leider nicht Open Data, beklagt [Datenschatz](https://norden.social/@datenschatz/114703503631657810), ließen sich doch mit den Daten Entitäten wie Titel, Themen und Beteiligte auf Wikidata verknüpfen. Seit [Ende 2000](https://de.wikipedia.org/wiki/H%C3%B6rDat) gibt es schon die [HörDat](http://www.hoerdat.de), leider aber auch nicht mit API, könnte jedoch eventuell gut scrapbar sein.
+
+Was wären generell gute Prozesse, um (halb-)automatisiert Open Data in Linked Open Data zu überführen, wird in [dieser Diskussion zusammengetragen](https://norden.social/@datenschatz/114612335477055788).
 
 ## Digitale Souveränität
 * Digitale Souveränität ist ein Luftschloss
