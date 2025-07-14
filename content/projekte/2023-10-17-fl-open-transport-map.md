@@ -2,8 +2,8 @@
 layout: project
 lab: [flensburg]
 imgname: flensburg/screenshot_transport_map.jpg
-title: Nahverkehr der Stadt Flensburg
-status: Sucht Mitstreiter
+title: Stadtplan mit dem Nahverkehr in Flensburg
+status: Sucht ehrenamtlich Engagierte
 showcase: true
 draft: false
 
@@ -13,15 +13,17 @@ links:
   name: GitHub
 - url: https://overpass-turbo.eu
   name: Datenquelle
-- url: https://nahverkehr-flensburg.de
+- url: https://nahverkehr.oklabflensburg.de
   name: Website
 
 collaborators:
+- name: David Bornemann
+- name: Felix-Claudius Dietz
 - name: Aurelius Wendelken
 - name: Roald Christesen
 
 tags:
-- Gesellschaft
+- Mobilität
 
 ---
 

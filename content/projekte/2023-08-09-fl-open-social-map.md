@@ -3,7 +3,7 @@ layout: project
 lab: [flensburg]
 imgname: flensburg/screenshot_dashboard.jpg
 title: Sozialatlas der Stadt Flensburg
-status: Sucht Mitstreiter
+status: Sucht ehrenamtlich Engagierte
 showcase: true
 draft: false
 
@@ -19,16 +19,13 @@ links:
   name: Aktueller Entwicklungstand
 
 collaborators:
+- name: David Bornemann
+- name: Felix-Claudius Dietz
 - name: Aurelius Wendelken
-
 - name: Roald Christesen
-
 - name: Chantal Butenberg
-
 - name: Steffen Kunst
-
 - name: Gosia Tutaj
-
 - name: Gabi Ritter
 
 tags:

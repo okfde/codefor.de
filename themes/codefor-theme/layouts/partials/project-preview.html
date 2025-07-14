@@ -1,7 +1,7 @@
-  <div class="card border-dark h-100 project-preview-card"
+    <div class="card border-dark h-100 project-preview-card"
        data-name="{{ .Title }}"
-       data-date="{{ substr .File.BaseFileName 0 10 }}"
-       href="{{.Permalink}}">
+       data-date="{{ substr .File.BaseFileName 0 10 }}">
+       <a  href="{{.Permalink}}">
     <div class="card-header border-bottom-0 bg-white ">
       <ul class="d-flex list-unstyled justify-content-end m-0 p-0 tags">
         {{ range (.Param "tags") }}
@@ -24,7 +24,7 @@
       {{ end }}
     </ul>
     </div>
-
+  
     <div class="card-body p-4">
         {{- if (and (not (eq .Params.imgname nil)) (fileExists (printf "static/projects/%s" .Params.imgname ))) -}}
         <img class="project-image" src="/projects/{{ .Params.imgname }}"  alt="Screenshot {{ .Title }}">
@@ -52,4 +52,5 @@
         <a class="text-danger no-underline lab-link"></a>
       <span class="text-right status">{{.Params.status}}</span>
     </div>
+  </a>
   </div>

@@ -3,7 +3,7 @@ layout: project
 lab: [flensburg]
 imgname: flensburg/spielplaetze_in_flensburg.jpg
 title: Spielplatzkarte der Stadt Flensburg
-status: Sucht Kreative
+status: Sucht ehrenamtlich Engagierte
 showcase: true
 draft: false
 
@@ -15,14 +15,11 @@ links:
   name: Website
 
 collaborators:
-- name: Aurelius Wendelken
-
+- name: Felix-Claudius Dietz
 - name: Roald Christesen
-
 - name: Alexander Eichhorn
-
+- name: Aurelius Wendelken
 - name: Steffen Kunst
-
 - name: Gabi Ritter
 
 tags:

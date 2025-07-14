@@ -3,7 +3,7 @@ layout: project
 lab: [flensburg]
 imgname: flensburg/screenshot_bildungsatlas.jpg
 title: Bildungsatlas Flensburg
-status: Sucht Mitstreiter
+status: Sucht ehrenamtlich Engagierte
 showcase: true
 draft: false
 

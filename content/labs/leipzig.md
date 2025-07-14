@@ -15,7 +15,7 @@ aliases:
 members:
 - name: Jörg Reichert
   username_github: joergreichert
-- name: Lisa-Marie Steckel
+- name: Lisa Marie Steckel
   username_github: vrifox
 - name: Erik Oltmann
   username_github: ErikOrtmann

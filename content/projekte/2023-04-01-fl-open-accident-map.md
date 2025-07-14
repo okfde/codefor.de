@@ -3,7 +3,7 @@ layout: project
 lab: [flensburg]
 imgname: flensburg/screenshot_unfallkarte.jpg
 title: Unfallkarte der Stadt Flensburg
-status: Sucht Mitstreiter
+status: Sucht ehrenamtlich Engagierte
 showcase: true
 draft: false
 
@@ -13,10 +13,12 @@ links:
   name: GitHub
 - url: https://unfallatlas.statistikportal.de
   name: Datenquelle
-- url: https://open-accident-map.de
+- url: https://unfallkarte.oklabflensburg.de
   name: Website
 
 collaborators:
+- name: David Bornemann
+- name: Felix-Claudius Dietz
 - name: Aurelius Wendelken
 
 tags:

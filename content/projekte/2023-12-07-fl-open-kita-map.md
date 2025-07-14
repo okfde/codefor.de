@@ -3,7 +3,7 @@ layout: project
 lab: [flensburg]
 imgname: flensburg/screenshot_kitafinder_flensburg.jpg
 title: Kitafinder Flensburg
-status: Sucht Mitstreiter
+status: Sucht ehrenamtlich Engagierte
 showcase: true
 draft: false
 
@@ -18,6 +18,7 @@ links:
 
 collaborators:
 - name: David Bornemann
+- name: Felix-Claudius Dietz
 - name: Aurelius Wendelken
 - name: Roald Christesen
 - name: Chantal Butenberg
