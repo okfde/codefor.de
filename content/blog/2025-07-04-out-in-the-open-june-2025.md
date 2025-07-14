@@ -24,39 +24,22 @@ Auch für das Handelsregister gibt es keine offzielle API, so dass immer wieder 
 
 "Um welche Uhrzeit kommen heute die Tagesthemen?" - um an diese Information schnell zu kommen, betrieb Jens Ohlig einen Webseiten-Scraper. Nachdem die ARD letztes Jahr umfassend ihren Webauftritt umgebaut hat, ging dieser allerdings nicht mehr. Da für einen öffentlich-rechtlichen Rundfunk das Prinzip "Öffentliches Geld, öffentliches Gut" gelten sollte, wurde der Zugang zu einer öffentlichen Programm-API angefragt. Nach einigem Hin-und-Her, [wie er auf seiner Blog beschreibt](https://blog.johl.io/o-news-program-when-art-thou-on/), bekam er schließlich den Zugang und damit geht auch wieder seine [Single-serving site](https://www.johl.io/tagesthemen/).
 
-### Neue Daten
-* Der Landkreis DonauRies stellt ab sofort #Daten auf open.bydata.de bereit.
-  https://www.donau-ries-aktuell.de/gesellschaft/landkreis-donau-ries-startet-eigene-open-data-praesenz-auf-bayerischem-datenportal
-  via https://social.bund.de/@opendatabund/114624793285225565
-* Polizei Berlin veröffentlicht künftig Daten zu Diebstählen an und aus Kraftfahrzeugen
-  https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1568055.php
-  https://www.rbb24.de/panorama/beitrag/2025/06/berlin-polizei-daten-diebstahl-kfz-autos-teile.html
-  https://norden.social/@datenschatz/114660447255822534
-* Datenatlas Zivilgesellschaft
-  https://datenkatalog.datenatlas-zivilgesellschaft.de/app/home
-  https://datenatlas-zivilgesellschaft.de/de/start
-  * Offene Daten für das Gemeinwohl: Der Datenatlas Zivilgesellschaft ist online
-    https://datenatlas-zivilgesellschaft.de/de/ueber-uns/aktuelles/der-datenatlas-zivilgesellschaft-ist-online
-  * Der neue Datenatlas Zivilgesellschaft ist jetzt live! 
-    https://www.linkedin.com/posts/mario-wiedemann-a5887b30_der-neue-datenatlas-zivilgesellschaft-ist-activity-7340702292628676608-b56Z
-* Neues LKW-Verkehrsportal mit Open Data!: TollCollect hat ein interaktives Analyse-Tool für Mautdaten entwickelt.
-  https://company.toll-collect.de/de/presse/pressemitteilungen/start-des-lkw-verkehrsportals-visualisierung-von-mautdaten-erleichtert-verkehrsmanagement/
-  via https://social.bund.de/@opendatabund/114732258594062411
-* Neue opendata Anwendung: Wiener Straßenbäume -  Visualisierung der Straßenbaumdichte und einzelnen Straßenbäume im Wiener Stadtgebiet 
-  https://www.data.gv.at/katalog/de/dataset/3f0a34c4-1ccf-418b-afaf-5b943e0fbd0a
-  https://elias-gander.github.io/data-visualization/wiener-strassenbaeume/
-  via https://mastodon.social/@datagvat/114732135681732935
-  * From Vienna to the world: launch of citizen science campaign to measure #trees and map carbon
-    https://iiasa.ac.at/news/jun-2025/from-vienna-to-world-launch-of-citizen-science-campaign-to-measure-trees-and-map
-    via https://climatejustice.social/@tuxom/114733969499829281
-* Nutzung öffentlicher Sportstätten im Bezirk Pankow (Nutzer, Flächen, Einrichtungen)
-  https://daten.berlin.de/datensaetze/sportnutzung-offentlicher-sportstatten-im-bezirk-pankow-nutzer-flachen-einrichtungen
-  via https://mastodontech.de/@opendataberlin/114748163049617611
-* Wärmeverbrauch von Liegenschaften, die von der Gebäudemanagement Schleswig-Holstein (GMSH) bewirtschaftet werden nach Standort und Jahr (ab 2019)
-  https://opendata.schleswig-holstein.de/dataset/waermeverbrauch-liegenschaften
-  via https://norden.social/@MisterOpenData/114777613996939910
+## Neue Daten
+Nachdem keine negative Effekte nach Offenlegung der Fahrraddiebstahldaten [zu beobachten waren](https://www.rbb24.de/panorama/beitrag/2025/06/berlin-polizei-daten-diebstahl-kfz-autos-teile.html) (z.B. mehr Diebstähle durch eventuell erkannte Patterns in den Daten), stellt nun die Polizei Berlin auch die Daten zu [Autodiebstählen](https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1568055.php) öffentlich. Die Daten wurden inzwischen auch schon [beispielhaft vom ODIS ausgewertet](https://odis-berlin.de/aktuelles/2025-06-25-datenperle-kfz/).
 
-### Linked Open Data
+Mit [dem Start](https://company.toll-collect.de/de/presse/pressemitteilungen/start-des-lkw-verkehrsportals-visualisierung-von-mautdaten-erleichtert-verkehrsmanagement/) des [Lkw-Verkehrsportals](https://company.toll-collect.de/de/produkte-loesungen/daten-geoinformationssysteme/lkw-verkehrsportal/) bekommt man nicht nur eine interaktive [Analyse-Möglichkeit](https://webgis.toll-collect.de/portal/apps/dashboards/562b5db5dafb48e99aa43613dad99357) für Mautdaten sondern kann über den "Open-Data"-Reiter auf der Seite auch die Rohdaten herunterladen, über [den Eintrag in der Mobilithek](https://mobilithek.info/offers/842428852563836928) findet man auch die zugehörigen Metadaten.
+
+Mit einer [neuen Anwendung](https://elias-gander.github.io/data-visualization/wiener-strassenbaeume/) lassen sich die Straßenbaumdichte und einzelnen Straßenbäume im Wiener Stadtgebiet visualisieren. Quellcode und die genutzten Daten sind beim [data.gv.at-Eintrag](https://www.data.gv.at/katalog/de/dataset/3f0a34c4-1ccf-418b-afaf-5b943e0fbd0a) verlinkt. Von Wien aus wurde auch die weltweite Bürgerwissenschaften-Kampagne ["TreeQuest"](https://c4cweb.main.geo-wiki.org) [lanziert](https://climatejustice.social/@tuxom/114733969499829281), in der unter Nutzung einer App mitgeholfen werden soll, Durchmesser und Höhe von Bäumen zu messen, um daraus zu errechnen, wieviel CO2 sie jeweils binden. 
+
+Wie hoch ist der Wärmeverbrauch von Liegenschaften, diese Frage kann nun für solche, die vom Gebäudemanagement Schleswig-Holstein (GMSH) bewirtschaftet werden, standortgenau mit [den Daten vom Open-Data-Portal](https://opendata.schleswig-holstein.de/dataset/waermeverbrauch-liegenschaften) beantwortet werden.
+
+Für den Berliner Bezirk Pankow lassen sich jetzt [Angaben zu Nutzung und Ausstattung öffentlicher Sportstätten](https://daten.berlin.de/datensaetze/sportnutzung-offentlicher-sportstatten-im-bezirk-pankow-nutzer-flachen-einrichtungen) ergründen. 
+
+Die offenen Daten, die für den Landkreis Donau-Ries vorliegen, [findet man seit Ende Mai](https://www.donau-ries-aktuell.de/gesellschaft/landkreis-donau-ries-startet-eigene-open-data-praesenz-auf-bayerischem-datenportal) über das bayerische Open-Data-Portal [open.bydata.de](https://lk-donau-ries.bydata.de/?locale=de), z.B. eine Übersicht [zu besonderen Apfel- und Birnensorten in Nordschwaben](https://lk-donau-ries.bydata.de/datasets/https-open-bydata-de-dataset-aepfel-und-birnen~~1?locale=de). 
+
+Im April wurde er schon auf dem Open Data Barcamp vorgestellt, am 17.6. ist er [auch offiziell freigegeben](https://datenatlas-zivilgesellschaft.de/de/ueber-uns/aktuelles/der-datenatlas-zivilgesellschaft-ist-online), der [Datenatlas Zivilgesellschaft](https://datenkatalog.datenatlas-zivilgesellschaft.de/app/home), ein Metadatenkatalog über offene Datensätze, die zivilgesellschaftlichen Organisationen auf ihren eigenen Seiten bereitstellen und die nun an einer zentralen Anlaufstelle auffindbar gemacht werden. 
+
+## Linked Open Data
 * Hat schon mal jemand im größeren Stil Open Data (bzw. dessen Metadaten) mit Wikidata IDs verknüpft, um so aus Open Data -> Linked Open Data zu machen? 
   https://norden.social/@datenschatz/114612335477055788
   https://norden.social/users/datenschatz/statuses/114612675828595768
@@ -305,7 +288,7 @@ Auch für das Handelsregister gibt es keine offzielle API, so dass immer wieder 
   https://www.insidehighered.com/news/government/science-research-policy/2025/06/10/preserving-federal-data-trump-trying-purge
   via https://fediscience.org/@petersuber/114659526316269177
 
-## KI
+## Grand Prompted Theft Automated
 * Zero-click AI data leak flaw uncovered in Microsoft 365 Copilot
   https://www.bleepingcomputer.com/news/security/zero-click-ai-data-leak-flaw-uncovered-in-microsoft-365-copilot/
 * "LLM users also struggled to accurately quote their own work. While LLMs offer immediate convenience, our findings highlight potential cognitive costs"
