@@ -57,39 +57,20 @@ Janou Feikens, Community Managerin beim Zentrum für Digitale Souveränität (Ze
 
 Microsofts (unbezahlter) Support für Windows 10 endet am 14. Oktober 2025, viele Rechner können auf Windows 11 auf Grund der hohen Systemanforderungen des Nachfolgers nicht aktualisiert werden, wären also Elektroschrott. [Aber das muss nicht sein](https://mastodon.bits-und-baeume.org/@bits_und_baeume/114703984136670626), es gibt gute freie Alternativen zur Daten- und Resourcenkrake Windows, auf die die Initiative [End Of 10](https://endof10.org/de/) aufmerksam und den Umstieg so leicht wie möglich machen möchte.
 
-## Verwaltungsdigitalisierung
-* Grundgesetzänderung für Digitalisierung: "Die Infrastruktur für föderale Lösungen soll einheitlich sein"
-  https://netzpolitik.org/2025/grundgesetzaenderung-fuer-digitalisierung-die-infrastruktur-fuer-foederale-loesungen-soll-einheitlich-sein/
-* Digitale Verwaltung in Berlin - Strukturelle Probleme beim ITDZ und dem Senat
-  https://dielinke.berlin/zusammenschluesse/lag-netzpolitik/detail/digitale-verwaltung-in-berlin-strukturelle-probleme-beim-itdz-und-dem-senat/
-  via https://linke.social/@digitale_linke/114655976460950317
-
 ## Visualisierungen
-* Zunahme Satelliten
-  https://bsky.app/profile/achwalter.bsky.social/post/3lqveg5wp422j
-* A friendly guide to choosing a chart type
-  https://www.datawrapper.de/blog/chart-types-guide
+Den exponentionellen Anstieg der Satelliten, die die Erde umkreisen, [visualisiert](https://www.youtube.com/watch?v=WWNClUJPCiA) eindrucksvoll [The Brain Maze](https://thebrainmaze.info).
 
-## Karten
-* Modeling And Analyzing Urban Networks And Amenities With OSMnx
-  https://onlinelibrary.wiley.com/doi/10.1111/gean.70009
-  via https://techhub.social/@GregCocks/114664178843224850
-  https://github.com/gboeing/osmnx
-  https://osmnx.readthedocs.io/en/stable/
-* StreetComplete Multiplatform
-  https://nlnet.nl/project/StreetComplete-multiplatform/
-* Speed up your analytics with the new MovingPandas 0.22 and Trajectools 2.6
-  https://anitagraser.com/2025/05/17/speed-up-your-analytics-with-the-new-movingpandas-0-22-and-trajectools-2-6/
-* Der Mindestlohn soll erhöht werden. Unsere interaktive Karte zeigt, wie er sich potentiell regional auswirkt
-  https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Mindestloehne/karte-mindestloehne.html
-  via https://social.bund.de/@destatis/114754699731992691
-* Die digitale Berliner Luftkarte – so war Luftqualität an Ihrem Ort 2024
-  https://www.berlin.de/sen/uvk/umwelt/luft/luftqualitaet/digitale-berliner-luftkarte/
-  https://luftqualitaet.netlify.app
-  via https://www.linkedin.com/posts/benjamin-sternkopf-a423b336a_die-digitale-berliner-luftkarte-wie-war-ugcPost-7341486156842205184-lLbG
-* WFS-Explorer - Visualisiere, analysiere und exportiere WFS-Daten direkt im Browser.
-  https://wfsexplorer.odis-berlin.de
-  via https://troet.cafe/@hanshack/114788385967284925
+Wie man den geeignete Diagramm-Darstellung für seinen Daten findet, [erklärt Lisa Charlotte Muth](https://www.datawrapper.de/blog/chart-types-guide) im [Datawrapper](https://www.datawrapper.de/)-Blog.
+
+Wie die [Berliner Umweltgerechtigkeitsanalyse](https://www.umweltgerechtigkeit-berlin.de/umweltgerechtigkeit-in-berlin/konzeption/) belegt, leben in Gebieten mit schlechter Luftqualität häufig Menschen, die eh schon sozial benachteiligt sind. Über die [Digitale Berliner Luftkarte](https://www.berlin.de/sen/uvk/umwelt/luft/luftqualitaet/digitale-berliner-luftkarte/) können die Berliner für 2024 erkunden, wie gut oder schlecht die Luft an ihrem Wohn- oder Arbeitsort war.
+
+## Open Access
+* Das Buch kommentiert zum ersten Mal den Lizenztext der Creative Commons Public License und leistet somit einen wichtigen Beitrag zur Rechtspraxis mit Creative Commons-Lizenzen
+  https://www.scienceopen.com/hosted-document?doi=10.24921/2025.94115974
+  via https://mastodon.social/@leibnizopenscience/114675716664936039
+* Genossenschaftliche Organisation von nachhaltiger Mobilität
+  https://link.springer.com/book/10.1007/978-3-658-47315-0
+  via https://ruhr.social/@laubblaeser/114751531792914725
 
 ## Mobilität
 * Adding public transport data to Transitous
@@ -115,45 +96,6 @@ Microsofts (unbezahlter) Support für Windows 10 endet am 14. Oktober 2025, viel
 * 5 Jahre Open Energy Ontology
   https://wisskomm.social/@RL_Institut/114664957120522525
 
-## Kultur
-* Museums Open Data Search
-  http://dev.harald-klinke.de/MuseumsOpenData/
-  via https://det.social/@HxxxKxxx/114623227920050784
-* Die Folien zu meinem Vortrag "FAIR, really? Zur Nutzbarkeit von Kulturerbedaten" auf der #bibliocon2025 sind jetzt online
-  https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19891
-  via https://openbiblio.social/@awinkler/114766428331434761
-
-## Citizen Science
-* Forschung für alle – Wie Citizen Science die Wissenschaft stärkt
-  https://www.deutschlandfunk.de/forschung-fuer-alle-wie-citizen-science-die-wissenschaft-staerkt-100.html
-* Wildtiere im Zoo Heidelberg
-  https://www.inaturalist.org/projects/wildtiere-im-zoo-heidelberg?tab=stats
-  via https://mastodon.social/@Tapirus/114699818052620955
-* Das Citizen Science-Projekt #HummelChallenge startet erneut am 20. Juni.
-  https://www.thuenen.de/de/newsroom/presse/pressemitteilungen/detailansicht?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews_preview%5D=7587&cHash=abfd4d0e0ae998dcb0f36a37b2c15fb5
-  https://wisskomm.social/@Thuenen_aktuell/114703338779335695
-
-
-## Open Access
-* Das Buch kommentiert zum ersten Mal den Lizenztext der Creative Commons Public License und leistet somit einen wichtigen Beitrag zur Rechtspraxis mit Creative Commons-Lizenzen
-  https://www.scienceopen.com/hosted-document?doi=10.24921/2025.94115974
-  via https://mastodon.social/@leibnizopenscience/114675716664936039
-* Genossenschaftliche Organisation von nachhaltiger Mobilität
-  https://link.springer.com/book/10.1007/978-3-658-47315-0
-  via https://ruhr.social/@laubblaeser/114751531792914725
-
-
-## Open Hardware
-* Die neuen Ökodesignregeln schließen die Zivilgesellschaft an relevanten Stellen aus.
-  https://www.heise.de/news/Oekodesign-Verordnung-EU-weicht-Richtlinie-fuer-Displayreparaturen-auf-10464442.html
-  via https://chaos.social/@mavo/114772613601701735
-
-## Parlamentsdaten
-* Der Kommunale Recherche-Assistent für Bonner Ratsdokumente wird noch mächtiger
-  https://bonn.social/@goern/114663157683951044
-  https://codeberg.org/machdenstaat/stadt-bonn-oparl
-  https://pypi.org/project/stadt-bonn-oparl/
-
 ## Klima
 * Climate Analytics: Climate Action Tracker mid-year update: NDC analysis
   https://unfccc-events.azureedge.net/SB62_106539/agenda?_gl=1*1p1slwh*_ga*MTEzNzYyODgwMS4xNzUwMzUwNjcz*_ga_7ZZWT14N79*czE3NTAzNTA2NzIkbzEkZzEkdDE3NTAzNTA3MzYkajYwJGwwJGgw
@@ -171,6 +113,9 @@ Microsofts (unbezahlter) Support für Windows 10 endet am 14. Oktober 2025, viel
   https://zacklabe.com/climate-viz-of-the-month/
 * The great acceleration debate
   https://www.theclimatebrink.com/p/the-great-acceleration-debate
+* Die neuen Ökodesignregeln schließen die Zivilgesellschaft an relevanten Stellen aus.
+  https://www.heise.de/news/Oekodesign-Verordnung-EU-weicht-Richtlinie-fuer-Displayreparaturen-auf-10464442.html
+  via https://chaos.social/@mavo/114772613601701735
 
 ### Hitze
 * An heißen Tagen einen kühlen Kopf bewahren - Stadt Neuss veröffentlicht Coole Karte
@@ -233,6 +178,24 @@ Microsofts (unbezahlter) Support für Windows 10 endet am 14. Oktober 2025, viel
   https://www.l-iz.de/kultur/lebensart/2025/06/vom-verschwinden-kunst-forschungsprojekt-artenschutz-leipzig-mitmachen-625910
   https://vomverschwinden.de
 
+## Citizen Science
+* Das Citizen Science-Projekt #HummelChallenge startet erneut am 20. Juni.
+  https://www.thuenen.de/de/newsroom/presse/pressemitteilungen/detailansicht?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews_preview%5D=7587&cHash=abfd4d0e0ae998dcb0f36a37b2c15fb5
+  https://wisskomm.social/@Thuenen_aktuell/114703338779335695
+* Wildtiere im Zoo Heidelberg
+  https://www.inaturalist.org/projects/wildtiere-im-zoo-heidelberg?tab=stats
+  via https://mastodon.social/@Tapirus/114699818052620955
+* Forschung für alle – Wie Citizen Science die Wissenschaft stärkt
+  https://www.deutschlandfunk.de/forschung-fuer-alle-wie-citizen-science-die-wissenschaft-staerkt-100.html
+
+## Kultur
+* Museums Open Data Search
+  http://dev.harald-klinke.de/MuseumsOpenData/
+  via https://det.social/@HxxxKxxx/114623227920050784
+* Die Folien zu meinem Vortrag "FAIR, really? Zur Nutzbarkeit von Kulturerbedaten" auf der #bibliocon2025 sind jetzt online
+  https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19891
+  via https://openbiblio.social/@awinkler/114766428331434761
+
 ## Transparenz
 * Bundesrechnungshof: Spahn verpulverte Milliarden
   https://fragdenstaat.de/artikel/exklusiv/2025/06/spahn-brh/
@@ -248,6 +211,13 @@ Microsofts (unbezahlter) Support für Windows 10 endet am 14. Oktober 2025, viel
   https://www.tagesspiegel.de/berlin/asylpolitik-gericht-auswartiges-amt-muss-lageberichte-herausgeben-13849267.html  
 * Zu viel Geld, zu wenig Kontrolle: Bundesrechnungshof fordert Reform bei Bundeswehr
   https://correctiv.org/bundesrechnungshof/2025/06/03/zu-viel-geld-zu-wenig-kontrolle-bundesrechnungshof-fordert-reform-bei-bundeswehr/
+
+## Überwachung
+* Atlas-der-Zivilgesellschaft
+  https://www.brot-fuer-die-welt.de/fileadmin/mediapool/Atlas_der_Zivilgesellschaft/2025/Atlas-der-Zivilgesellschaft-2025_Online.pdf
+  via https://chaos.social/@Freiheitsrechte/114749638407137484
+  * LIBERTIES RULE OF LAW REPORT 2025
+    https://www.liberties.eu/f/vdxw3e
 
 ## USA
 * Climate.gov, which supports public education on climate science, will soon no longer publish new content
@@ -291,13 +261,6 @@ Microsofts (unbezahlter) Support für Windows 10 endet am 14. Oktober 2025, viel
   via https://chaos.social/@fragdenstaat/114789980061016217
 * Gesetzliche Grundlagen und Pflichten für barrierefreie Websites
   https://www.aktion-mensch.de/inklusion/barrierefreiheit/barrierefreie-website/gesetzliche-pflichten
-
-## Überwachung
-* Atlas-der-Zivilgesellschaft
-  https://www.brot-fuer-die-welt.de/fileadmin/mediapool/Atlas_der_Zivilgesellschaft/2025/Atlas-der-Zivilgesellschaft-2025_Online.pdf
-  via https://chaos.social/@Freiheitsrechte/114749638407137484
-  * LIBERTIES RULE OF LAW REPORT 2025
-    https://www.liberties.eu/f/vdxw3e
 
 ## Recap
 * Creative Bureaucracy Festival 
