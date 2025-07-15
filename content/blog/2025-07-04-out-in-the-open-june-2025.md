@@ -49,38 +49,13 @@ Die [ARD-Hörspiel-Datenbank](https://hoerspiele.dra.de) ist leider nicht Open D
 Was wären generell gute Prozesse, um (halb-)automatisiert Open Data in Linked Open Data zu überführen, wird in [dieser Diskussion zusammengetragen](https://norden.social/@datenschatz/114612335477055788).
 
 ## Digitale Souveränität
-* Digitale Souveränität ist ein Luftschloss
-  https://www.nd-aktuell.de/artikel/1191607.it-infrastruktur-digitale-souveraenitaet-ist-ein-luftschloss.html
-  via https://systemli.social/users/anneroth/statuses/114614154192071873
-* Rechenzentren in Brandenburg: Kritik an Amazon-Investition in Brandenburg
-  https://www.maz-online.de/politik/regional/netzpolitikerin-anke-domscheit-berg-kritisiert-amazon-investition-in-brandenburg-SWHWMHCYKNELVL7ZGGKV4JYXTU.html
-  via https://linke.social/@ankedb/114665134240985935
-* Open statt ausgeliefert: Wie das ZenDiS Alternativen zur IT-Abhängigkeit etablieren will
-  https://www.connect-professional.de/markt/wie-das-zendis-alternativen-zur-it-abhaengigkeit-etablieren-will.334033.html
-* Plattformen und Journalismus: Die Entkernung der Demokratie
-  https://digitalpolitik.ghost.io/plattformen-und-journalismus-die-entkernung-der-demokratie/
-* Ende Windows 10 Support: Lieber Linux statt teurer neuer Rechner
-  https://endof10.org/de/
-  https://mastodon.bits-und-baeume.org/@bits_und_baeume/114703984136670626
-* Community-Mindset als Schlüssel zur digitalen Souveränität - Janou Feikens (ZenDis) im Gespräch
-  https://forschungsimpuls.podigee.io/8-community-mindset-als-schlussel-zur-digitalen-souveranitat-janou-feikens-zendis-im-gesprach
-* Solidarisches Preppen: Wenn schon Apokalypse, dann gemeinsam
-  https://www.nd-aktuell.de/artikel/1191971.polykrise-solidarisches-preppen-wenn-schon-apokalypse-dann-gemeinsam.html
-* PDF nach PDF/A-Konvertierer
-  https://pdf-konverter.ga-lotse.de
-  https://gitlab.opencode.de/ga-lotse/ga-lotse-code/-/tree/main/apps/pdf-converter-portal?ref_type=heads
-  via https://mastodon.social/@bkastl/114709916501003965
-* Instagram sperrt Accounts politischer Organisationen
-  https://netzpolitik.org/2025/moderation-gone-wild-instagram-sperrt-accounts-politischer-organisationen/
-* Die vagen Open-Source-Pläne der EU-Kommission
-  https://netzpolitik.org/2025/open-internet-stack-die-vagen-open-source-plaene-der-eu-kommission/
-  via https://eupolicy.social/@sraible/114710824543667766
-* Nach Thüringen will auch Schleswig-Holstein die Open-Source-Videokonferenzlösung OpenTalk in den Landesbehörden ausrollen
-  https://www.heise.de/news/Videokonferenz-Tool-Nach-Thueringen-setzt-Schleswig-Holstein-auf-OpenTalk-10424605.html
-  via https://social.heise.de/@heiseonline/114733484634951385
-* CVE in der Krise – Europas Weckruf für digitale Unabhängigkeit
-  https://ag.kritis.info/2025/06/05/cve-in-der-krise-europas-weckruf-fuer-digitale-unabhaengigkeit/
-  via https://bsky.app/profile/honkhase.bsky.social/post/3lqx5mu4qac2b
+Bereits letztes Jahr wurden von einigen politischen Organisationen und Parteiverbänden [die Instagram-Accounts aus nicht nachvollziehbaren Gründen zeitweise oder dauerhaft gesperrt](https://netzpolitik.org/2025/moderation-gone-wild-instagram-sperrt-accounts-politischer-organisationen/), obwohl dies nach dem Digital Services Act der EU gut begründet sein muss. Einige posten deshalb auch parallel ihre Beiträge auf Mastodon.   
+
+Janou Feikens, Community Managerin beim Zentrum für Digitale Souveränität (ZenDiS), berichtet im Forschungsimpuls-Podcast über die gestiegenen Nutzeranzahl bei [Open CoDE](https://opencode.de/de), was den Community-Aufbau ausmacht und auch über das geplante [Kommunales Open Source Board](https://os-board.opencode.de).
+
+[OpenTalk](https://docs.opentalk.eu/de/user/) ist ein Open-Source-Videokonferenzsystem, das nun nach Thüringen auch in den Landesbehörden von Schleswig-Holstein [ausgerollt werden soll](https://www.heise.de/news/Videokonferenz-Tool-Nach-Thueringen-setzt-Schleswig-Holstein-auf-OpenTalk-10424605.html).
+
+Microsofts (unbezahlter) Support für Windows 10 endet am 14. Oktober 2025, viele Rechner können auf Windows 11 auf Grund der hohen Systemanforderungen des Nachfolgers nicht aktualisiert werden, wären also Elektroschrott. [Aber das muss nicht sein](https://mastodon.bits-und-baeume.org/@bits_und_baeume/114703984136670626), es gibt gute freie Alternativen zur Daten- und Resourcenkrake Windows, auf die die Initiative [End Of 10](https://endof10.org/de/) aufmerksam und den Umstieg so leicht wie möglich machen möchte.
 
 ## Verwaltungsdigitalisierung
 * Grundgesetzänderung für Digitalisierung: "Die Infrastruktur für föderale Lösungen soll einheitlich sein"
