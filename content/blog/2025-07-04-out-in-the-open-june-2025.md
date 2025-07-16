@@ -64,28 +64,19 @@ Wie man den geeignete Diagramm-Darstellung für seinen Daten findet, [erklärt L
 
 Wie die [Berliner Umweltgerechtigkeitsanalyse](https://www.umweltgerechtigkeit-berlin.de/umweltgerechtigkeit-in-berlin/konzeption/) belegt, leben in Gebieten mit schlechter Luftqualität häufig Menschen, die eh schon sozial benachteiligt sind. Über die [Digitale Berliner Luftkarte](https://www.berlin.de/sen/uvk/umwelt/luft/luftqualitaet/digitale-berliner-luftkarte/) können die Berliner für 2024 erkunden, wie gut oder schlecht die Luft an ihrem Wohn- oder Arbeitsort war.
 
-## Open Access
-* Das Buch kommentiert zum ersten Mal den Lizenztext der Creative Commons Public License und leistet somit einen wichtigen Beitrag zur Rechtspraxis mit Creative Commons-Lizenzen
-  https://www.scienceopen.com/hosted-document?doi=10.24921/2025.94115974
-  via https://mastodon.social/@leibnizopenscience/114675716664936039
-* Genossenschaftliche Organisation von nachhaltiger Mobilität
-  https://link.springer.com/book/10.1007/978-3-658-47315-0
-  via https://ruhr.social/@laubblaeser/114751531792914725
-
 ## Mobilität
-* Adding public transport data to Transitous
-  https://volkerkrause.eu/2025/06/14/transitous-adding-data.html
-* Unfallkarte Hamburg
-  https://unfallkarte-hamburg.de
-  via https://mastodon.social/@preya/114693680031678838
-* ADFC-Fahrradklima-Test 2024: Alle Ergebnisse im Überblick
-  https://fahrradklima-test.adfc.de/ergebnisse
-* Railfinder
-  https://www.railfinder.eu
-  via https://mastodon.social/@stefanlindbohm/114733502859245671
-* Let's make our cities bikeable!
-  https://www.bikeable.ch
-  via https://chaos.social/@dbrgn/114767170160626096
+[Transitous](https://transitous.org/) ist ein von der Community betriebener Routing-Dienst auf Basis von OpenSource und OpenData. 
+Rückgrat der Anwendung ist die Verfügbarkeit von maschinenlesbaren Fahrplandaten in [GTFS](https://gtfs.org)-Format. Aktuell sind über 1800 Soll-Fahrpläne aus über 55 Ländern integriert. [Wie Volker Krause weiter schreibt](https://volkerkrause.eu/2025/06/14/transitous-adding-data.html), ist das Integrieren neuer Quellen nur eine Frage von wenigen zu ändernden JSON-Konfigurationszeilen. Um auch Verspätungen anzeigen zu können, müssen noch [GTFS Realtime (RT)](https://gtfs.org/documentation/realtime/reference/) APIs angebunden werden, die Fahrplandaten um geänderte Abfahrt- / Ankunftszeiten oder auch nur Verspätungshinweistexte ergänzt. Transitous kann auch die Daten von Verleihsystemen für Fahrräder, Autos und anderes anzeigen, dazu müssen diese über ihre [GFBS](https://github.com/MobilityData/gbfs)-Feeds angebunden werden. Für On-Demand-Dienste wie z.B. Rufbusse gibt es den relativ neuen [GTFS-Flex](https://gtfs.org/community/extensions/flex/) Standard und dieser wird schon von Transitous unterstützt. Auch nicht zu vergessen sind die Daten von OpenStreetMap als wichtige Quelle für das Funktionieren der Anwendung.
+
+Ein intermodaler Routingdienst, der Angebote sichtbar macht, ist eine gute Grundlage für das Vorantreiben nachhaltiger Mobilität und damit der notwendigen Mobilitätswende. Das Open-Access-Buch ["Genossenschaftliche Organisation von nachhaltiger Mobilität"](https://link.springer.com/book/10.1007/978-3-658-47315-0) beleuchtet dazu ergänzend, wie überhaupt solche Mobilitätsangebote geschaffen und am Ende auch angenommen und genutzt werden. Denn nur durch gute Geschäftsmodelle, die Potenziale, Chancen und Herausforderungen hinsichtlich z.B. Zahlungsbereitschaften, psychologische Einflussfaktoren und anderen Rahmenbedingungen verstanden und gelöst haben, kann das Zusammenspiel von stabilem Angebot und stabiler Nachfrage dauerhaft sichern. Dazu fließen im Buch auch die Erkenntnisse aus den Realexperimenten vom Forschungsprojekt [GenoMobil](https://www.zukunft-nachhaltige-mobilitaet.de/genomobil-genossenschaften-als-organisationsform-fuer-eine-sozial-oekologische-transformation-integrierter-mobilitaet/) ein.
+
+Das Fahrrad ist ein wichtiger Baustein der Verkehrswende, aber auch wenn sich die Attraktivität Fahrrad zu fahren laut aktuellem [ADFC-Fahrradklima-Test 2024](https://fahrradklima-test.adfc.de/ergebnisse) leicht verbessert hat, ist das Gesamtergebnis immer noch unbefriedigend, vor allem fehlende Fahr-Sicherheit (zu schmale Radwege, Falschparker) und Diebstähle sind immer noch Probleme.
+
+In der Schweiz kann man über die App [Bikeable](https://www.bikeable.ch) nicht nur Spots mit negativen Eigenschaften sondern auch Stellen, die als sehr positiv wahrgenommen werden, in [einer Karte](https://www.bikeable.ch/map) eintragen. Die Meldungen werden sich von den Verantwortlichen [tatsächlich auch zu Herzen genommen](https://chaos.social/@dbrgn/114767170160626096) und Veränderungen angestoßen.
+
+In der [Unfallkarte Hamburg](https://unfallkarte-hamburg.de) können Unfälle mit Fahrradbeteiligung an der Beteiligungart "RF" identifziert werden. Die Karte selbst konnte Moritz Stückler mit Hilfe mehrerer Informationsfreiheitsgesetz(IFG)-Anfragen mit den Daten aus der polizeilichen Unfalldatenbank für die Jahre 2009 bis 2024 [bestücken](https://mastodon.social/@preya/114693680031678838). Im Gegensatz zu den Daten vom Statistischen Bundesamt, sind auch alle Unfälle ohne Personenschaden erfasst. Der Quellcode der Anwendung [ist Open Source](https://github.com/preya/unfallkarte-hamburg).
+
+Mit der noch im [Beta-Stadium](https://mastodon.social/@stefanlindbohm/114733502859245671) befindlichen App [Railfinder](https://www.railfinder.eu) können europaweit Zugverbindungen gesucht werden. Tickets sind allerdings aktuell nur innerhalb Deutschlands, den Benelux-Staaten, Frankreich, Italien sowie mit Start/Ziel in den jeweils angrenzenden Ländern buchbar.
 
 ## Energie
 * Zum ersten Mal überhaupt hat die Solarenergie weltweit mehr Strom erzeugt als die Atomenergie. Solarenergie ist nun die viertgrößte Stromquelle weltweit geworden.
