@@ -95,29 +95,15 @@ In der [Zeit-Online-Datenstory](https://www.zeit.de/wissen/umwelt/2025-06/klimag
 Weitere offene Klimadaten kann man über das [Climate Data Center (CDC) des Deutschen Wetterdienstes](https://www.dwd.de/DE/leistungen/cdc/cdc_ueberblick-klimadaten.html) beziehen.
 
 ### Hitze
-* An heißen Tagen einen kühlen Kopf bewahren - Stadt Neuss veröffentlicht Coole Karte
-  https://www.neuss.de/news/2025/05/22/an-heissen-tagen-einen-kuehlen-kopf-bewahren-stadt-neuss-veroeffentlicht-coole-karte
-  via https://norden.social/@datenschatz/114648595275891121
-* Hitzeaktionsplan für Hamburg: Nicht für alle gibt es genug Schatten
-  https://taz.de/Hitzeaktionsplan-fuer-Hamburg/!6090238/
-* Zweiter Hitze-Check der Deutschen Umwelthilfe: Mehr als 12 Millionen Menschen in deutschen Städten von extremer Hitze betroffen
-  https://www.duh.de/presse/pressemitteilungen/pressemitteilung/zweiter-hitze-check-der-deutschen-umwelthilfe-mehr-als-12-millionen-menschen-in-deutschen-staedten-v/
-  https://www.klimareporter.de/gesellschaft/extreme-hitzebelastung-fuer-mehr-als-zwoelf-millionen-stadtbewohner
-* Stadtspaziergänge ohne Hitze-Stress: Diese App navigiert dich durch den Schatten
-  https://t3n.de/news/stadtspaziergaenge-ohne-hitze-stress-app-navigiert-dich-durch-den-schatten-1638540/
-  https://heal.openrouteservice.org/#/place/@8.68112,49.410757,12
-  https://heigit.org/new-paper-accessibility-for-pedestrians-under-heat-stress-the-example-of-heidelberg-germany/
-  https://heigit.org/heal/
-* zu heiß heute?
-  https://zuheissheute.de
-  https://github.com/isithot/iihrn-website
-  https://github.com/isithot/isithotrightnow
-  via https://23.social/@axiomer/114778883801375955
-* Hitzefrei für Reiche
-  https://taz.de/Klimagerechtigkeit-in-Berlin/!6093956/
-  via https://mastodon.social/@YannikAcht/114778449344844928
-* Bäume kühlen Städte besser als bisher angenommen
-  https://www.swissinfo.ch/ger/b%C3%A4ume-k%C3%BChlen-st%C3%A4dte-besser-als-bisher-angenommen/89563903
+Der [zweiter Hitze-Check der Deutschen Umwelthilfe (DUH)](https://www.duh.de/presse/pressemitteilungen/pressemitteilung/zweiter-hitze-check-der-deutschen-umwelthilfe-mehr-als-12-millionen-menschen-in-deutschen-staedten-v/) zeigt wie "ungleich Hitzebelastung und Hitzeschutz in Städten verteilt sind". Neben Bodenversiegelung und Grünflächenvolumen wurden nun auch die Oberflächentemperatur und die Bevölkerungsdichte als Kriterien [aufgenommen](https://www.klimareporter.de/gesellschaft/extreme-hitzebelastung-fuer-mehr-als-zwoelf-millionen-stadtbewohner), mit diesen ließ sich rasterweise ein Hitzebetroffenheitsindex (HBI) bilden. Die DUH fordert "verbindliche Mindestgrünanteile auf jedem Grundstück, Gebäude und im öffentlichen Raum".
+
+Eine [Datenanalyse der taz belegt](https://taz.de/Klimagerechtigkeit-in-Berlin/!6093956/) die Ungleichheit auch für Berlin, auch hier müssen ärmere Menschen in den heißesten Gegenden der Stadt leben. In Hamburg gibt es zwar nun einen 179-Seiten-starken [Hitzeaktionsplan](https://www.hamburg.de/politik-und-verwaltung/behoerden/sozialbehoerde/themen/gesundheit/gesundheitsfoerderung/hitzeschutz/hitzeaktionsplan-hamburg-1061706), wie aber die taz [kritisiert](https://taz.de/Hitzeaktionsplan-fuer-Hamburg/!6090238/), sind nicht alle der Maßnahmen für alle Betroffenen gleichermaßen zugänglich. 
+
+Ob [Erfrischungskarte](https://erfrischungskarte.odis-berlin.de/) in Berlin, ["Kühle Orte"-Karte](https://geoportal-hamburg.de/kuehle-orte/) in Hamburg oder [neuerdings](https://www.neuss.de/news/2025/05/22/an-heissen-tagen-einen-kuehlen-kopf-bewahren-stadt-neuss-veroeffentlicht-coole-karte) die [Coole Karte](https://opendata.rhein-kreis-neuss.de/explore/embed/dataset/stadt-neuss-coole-karte/site/), Datenschatz [fragt sich](https://norden.social/@datenschatz/114648595275891121), ob es jedesmal eine Neuentwicklung bedarft hätte.
+
+[Noch einen Schritt weiter](https://t3n.de/news/stadtspaziergaenge-ohne-hitze-stress-app-navigiert-dich-durch-den-schatten-1638540/) geht die [Routing-App](https://heal.openrouteservice.org/) aus dem [HEAL-Projekt](https://heigit.org/heal/), für die beispielhaft der [OpenRouteService](https://openrouteservice.org) für Heidelberg so angepasst wurde, dass Fußgänger [verzugsweiße über schattige, kühle Wege navigiert werden](https://heigit.org/new-paper-accessibility-for-pedestrians-under-heat-stress-the-example-of-heidelberg-germany/), vorzugsweise wohl auch über Strecken, an denen Bäume sind, denn wie Forscher in Lausanne herausfanden, könnten bisherige Modelle die kühlende Wirkung von Bäumen [deutlich unterschätzt haben](https://www.swissinfo.ch/ger/b%C3%A4ume-k%C3%BChlen-st%C3%A4dte-besser-als-bisher-angenommen/89563903).
+
+Einfach und effektiv ist wieder eine sogenannte [Single-serving site](https://en.wikipedia.org/wiki/Single-serving_site) - [Ist es heute zu heiß?](https://zuheissheute.de) nutzt die offenen Daten vom Deutschen Wetterdienst, um für einen Ort anzuzeigen, ob die Temperatur gerade über den Durchschnitt liegt. Grundlage für die Umsetzung war die vorhandene Open Source [Frontend-](https://github.com/isithot/iihrn-website) und [Backend-Implementierung](https://github.com/isithot/isithotrightnow) von [isithotrightnow.com](https://isithotrightnow.com).
 
 ### Wasserknappheit
 * BUND-Studie: Grundwasserlage offenbar in jedem zweiten Landkreis kritisch
@@ -240,28 +226,13 @@ Weitere offene Klimadaten kann man über das [Climate Data Center (CDC) des Deut
   https://www.aktion-mensch.de/inklusion/barrierefreiheit/barrierefreie-website/gesetzliche-pflichten
 
 ## Recap
-* Creative Bureaucracy Festival 
-  https://creativebureaucracy.org/de
-* Gemeinsam Open-Source-Apps entwickeln, um Europas Digitale Souveränität zu stärken – das stand vom 2. – 4. Juni im Mittelpunkt der #HackDays in Paris
-  https://social.bund.de/@zendis/114635403300499735
-* Barcamp Open Science
-  https://www.barcamp-open-science.eu
-* Netzwerk Recherche 2025
-  https://nr25.sched.com
-* Rückblick zum Open-Data-Barcamp in Erfurt
-  https://www.youtube.com/watch?v=TnZnOFZwk2Q
-  https://bonn.social/@bonndigital/114675536942045343
-* ESWC 2025 
-  https://2025.eswc-conferences.org
-* Presentation & Expert Roundtable: ‘From Software to Society — Openness in a Changing World’
-  https://blog.okfn.org/2025/06/03/expert-roundtable-from-software-to-society-openness-in-a-changing-world/
-* Dataweek
-  https://www.dataweek.de/
-  https://www.youtube.com/@dataweekleipzig/streams
-* Re:publica
-  https://reset.org/wie-steht-es-um-die-digitale-gesellschaft-unsere-highlights-der-republica-2025-zum-nachschauen/
-* QGIS User Conf 2025 videos have landed!
-  https://anitagraser.com/2025/06/25/qgis-user-conf-2025-videos-have-landed/
+* [Creative Bureaucracy Festival](https://creativebureaucracy.org/de) 
+* [Barcamp Open Science](https://www.barcamp-open-science.eu)
+* [Netzwerk Recherche 2025](https://nr25.sched.com)
+* [ESWC 2025](https://2025.eswc-conferences.org) 
+* [From Software to Society — Openness in a Changing World](https://blog.okfn.org/2025/06/03/expert-roundtable-from-software-to-society-openness-in-a-changing-world/)
+* [Dataweek](https://www.dataweek.de/) mit [Streams von den Konfererenztagen](https://www.youtube.com/@dataweekleipzig/streams)
+* [QGIS User Conf 2025](https://anitagraser.com/2025/06/25/qgis-user-conf-2025-videos-have-landed/) Videos
 
 ## Und sonst so
 * Map of GitHub
