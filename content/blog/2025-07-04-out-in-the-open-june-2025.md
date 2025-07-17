@@ -105,32 +105,17 @@ Ob [Erfrischungskarte](https://erfrischungskarte.odis-berlin.de/) in Berlin, ["K
 
 Einfach und effektiv ist wieder eine sogenannte [Single-serving site](https://en.wikipedia.org/wiki/Single-serving_site) - [Ist es heute zu heiß?](https://zuheissheute.de) nutzt die offenen Daten vom Deutschen Wetterdienst, um für einen Ort anzuzeigen, ob die Temperatur gerade über den Durchschnitt liegt. Grundlage für die Umsetzung war die vorhandene Open Source [Frontend-](https://github.com/isithot/iihrn-website) und [Backend-Implementierung](https://github.com/isithot/isithotrightnow) von [isithotrightnow.com](https://isithotrightnow.com).
 
-### Wasserknappheit
-* BUND-Studie: Grundwasserlage offenbar in jedem zweiten Landkreis kritisch
-  https://www.spiegel.de/wissenschaft/natur/grundwasser-lage-offenbar-in-jedem-zweiten-landkreis-kritisch-a-e945d747-c9c9-410b-afb6-0f9a20e9b49b
-* Wasserversorgung: Städte- und Gemeindebund warnt vor Knappheit
-  https://www.deutschlandfunk.de/staedte-und-gemeindebund-warnt-vor-knappheit-106.html
-  via https://troet.cafe/@Soweitsogut/114698905546580005
+Nicht nur in Folge der Hitze und Dürre der letzten Jahre, sondern auch durch Übernutzung ist die Grundwasserlage inzwischen in jedem zweiten Landkreis [kritisch](https://www.spiegel.de/wissenschaft/natur/grundwasser-lage-offenbar-in-jedem-zweiten-landkreis-kritisch-a-e945d747-c9c9-410b-afb6-0f9a20e9b49b), zu dem Schluss ist die [Studie vom Frankfurter Institut für sozial-ökologische Forschung (ISOE)](https://www.bund.net/fileadmin/user_upload_bund/publikationen/fluesse/grundwasserstress-deutschland-studie-wasser-analyse-strukturell-entnahme-landkreise-bund-isoe-2025.pdf) in Auftrag vom BUND gekommen. Nur die erforderlichen 8 Millionen Euro für Klimaanpassung [können die Kommunen nicht allein aufwänden](https://www.deutschlandfunk.de/staedte-und-gemeindebund-warnt-vor-knappheit-106.html).
 
 ### Klima Tools
-* 10 957 Klimadashboards zeigen, wo die Regionen in der Klimawende stehen
-  https://klimadashboard.de/regions
-  via https://social.bund.de/@DeutscherWetterdienst/114703432716707260
-* ReKIS - Klima-Steckbriefe
-  https://rekis.hydro.tu-dresden.de/kommunal/#Steckbriefe
-  via https://dresden.network/@bundsachsen/114635978276487940
-* Climate Action Navigator (CAN)
-  https://climate-action.heigit.org/webapp/dashboard
-  via https://social.anoxinon.de/@theogeo6/114664113030669911
-* Aachen: SchwarmMessRad sammelt Umweltdaten
-  https://www.kommune21.de/k21-meldungen/schwarmmessrad-sammelt-umweltdaten/
+Das Institut für Straßenwesen (ISAC) an der RWTH Aachen und ihre Partner wollen mit dem [neuen Projekt SchwarmMessRad](https://www.kommune21.de/k21-meldungen/schwarmmessrad-sammelt-umweltdaten/) über kostenlos verteilte Lastenrädern, in den mobilen Sensoren angebracht sind, in Echtzeit detaillierte Daten zu Feinstaub, Oberflächentemperatur und Ozon messen.
+
+Im ebenfalls [neuen Projekt auf klimadashboard.de](https://klimadashboard.de/regions) zeigen 10.957 Dashboards, wo die einzelnen Regionen in Deutschland in der Klimawende stehen.
 
 ### Klima und Medien
-* Information Pollution Is Undermining Climate Progress
-  https://www.project-syndicate.org/commentary/information-pollution-must-not-stall-critical-climate-action-by-lili-fuhr-and-stephanie-hankey-2025-06
-  via https://mastodon.cc/@info_activism/114635172756150385
-* Gletschersturz und Medienkrise
-  https://derklimablog.de/politik/gletschersturz-und-medienkrise/
+Trotz großer Zustimmung in der Bevölkerung passiert hinsichtlich Klimaschutz ziemlich wenig. Das liegt auch an der [Information Pollution](https://en.wikipedia.org/wiki/Information_pollution), der wir tagtäglich ausgesetzt sind und die uns von den eigentlich relevanten Dinge [viel zu sehr ablenken lassen](https://www.project-syndicate.org/commentary/information-pollution-must-not-stall-critical-climate-action-by-lili-fuhr-and-stephanie-hankey-2025-06), ganz im Interesse, die vom Status Quo weiter profitieren wollen. 
+
+Der Klimablog spricht in diesem Zusammenhang [von einer Medienkrise](https://derklimablog.de/politik/gletschersturz-und-medienkrise/).
 
 ## Artensterben
 * 76 percent drop in insect biomass between 1989 and 2016
