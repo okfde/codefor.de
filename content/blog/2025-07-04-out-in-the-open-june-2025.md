@@ -79,34 +79,20 @@ In der [Unfallkarte Hamburg](https://unfallkarte-hamburg.de) können Unfälle mi
 Mit der noch im [Beta-Stadium](https://mastodon.social/@stefanlindbohm/114733502859245671) befindlichen App [Railfinder](https://www.railfinder.eu) können europaweit Zugverbindungen gesucht werden. Tickets sind allerdings aktuell nur innerhalb Deutschlands, den Benelux-Staaten, Frankreich, Italien sowie mit Start/Ziel in den jeweils angrenzenden Ländern buchbar.
 
 ## Energie
-* Zum ersten Mal überhaupt hat die Solarenergie weltweit mehr Strom erzeugt als die Atomenergie. Solarenergie ist nun die viertgrößte Stromquelle weltweit geworden.
-  https://mastodon.social/@peterjelinek/114623642651417106
-* Energy Charts Talks 2. Juni 2025: Erzeugungsspitzen durch PV und Wind
-  https://www.youtube.com/watch?v=G4jV1-YCZCc
-  via https://wisskomm.social/@energy_charts_d/114620981853038621
-* 5 Jahre Open Energy Ontology
-  https://wisskomm.social/@RL_Institut/114664957120522525
+Batteriespeicher sind inzwischen billig genug, so dass Solarstrom in den sonnigsten Regionen der Welt zu fast jeder Tageszeit mit den Preisen anderer Energieträger mithalten kann, wie [ein Ember-Bericht nachgerechnet hat](https://ember-energy.org/latest-updates/24-hour-solar-now-economically-viable-for-the-worlds-sunniest-regions/). 
+
+Wie man mit den Erzeugungsspitzen durch Photovoltaik und Wind umgehen kann, hat Leonhard Probst vom Fraunhofer-Institut für Solare Energiesysteme ISE [in den Energy Charts Talks am 2. Juni 2025 erklärt](https://www.youtube.com/watch?v=G4jV1-YCZCc). Die Daten stammen von [ENTSO-E](https://transparency.entsoe.eu)
+
+Das [Reiner Lemoine Institut](https://reiner-lemoine-institut.de) feiert 5 Jahre [Open Energy Ontology](https://openenergyplatform.org/ontology/), Teil der [Open Energy Platform](https://github.com/OpenEnergyPlatform), in den nächsten Monaten [mit ersten Nutzenden-Meeting](https://wisskomm.social/@RL_Institut/114664957120522525).
 
 ## Klima
-* Climate Analytics: Climate Action Tracker mid-year update: NDC analysis
-  https://unfccc-events.azureedge.net/SB62_106539/agenda?_gl=1*1p1slwh*_ga*MTEzNzYyODgwMS4xNzUwMzUwNjcz*_ga_7ZZWT14N79*czE3NTAzNTA2NzIkbzEkZzEkdDE3NTAzNTA3MzYkajYwJGwwJGgw
-  via https://social.cologne/@GeorgEhring/114711177574415603
-* Scrollen Sie sich durch 485 Millionen Jahre Erdgeschichte
-  https://www.zeit.de/wissen/umwelt/2025-06/klimageschichte-veraenderung-temperatur-entwicklung-daten?freebie=eb85d194
-  via https://vis.social/@gka/114715001398282028
-  https://vis.social/@gka/114726890226903215
-* Klimadaten zum direkten Download
-  https://www.dwd.de/DE/leistungen/cdc/cdc_ueberblick-klimadaten.html
-  via https://nrw.social/@maexchen1/114761080613902235
-* Klimaextreme am Mittelmeer: "Wenn das die Zukunft ist, dann haben wir ein ernsthaftes Problem"
-  https://www.riffreporter.de/de/umwelt/mittelmeer-klimakrise-prognosen-zukunft-waldbraende-duerre-massensterben-loesungen
-* Climate Viz of the Month
-  https://zacklabe.com/climate-viz-of-the-month/
-* The great acceleration debate
-  https://www.theclimatebrink.com/p/the-great-acceleration-debate
-* Die neuen Ökodesignregeln schließen die Zivilgesellschaft an relevanten Stellen aus.
-  https://www.heise.de/news/Oekodesign-Verordnung-EU-weicht-Richtlinie-fuer-Displayreparaturen-auf-10464442.html
-  via https://chaos.social/@mavo/114772613601701735
+Der [Jahres-Zwischenbilanz](https://climateactiontracker.org/press/release-mid-year-check-on-climate-plans-not-much-to-analyse/) (auch als [Video](https://unfccc.int/event/climate-analytics-4)) des [Climate Action Trackers](https://climateactiontracker.org/) beklagt die [Lethargie](https://social.cologne/@GeorgEhring/114711177574415603) der Staaten, die weder ihre Anstrengungen vergrößern, die Ziele für 2030 noch zu erreichen, noch sich ambitionierte Ziel für 2035 setzen. Beim Überschreiten der Kipppunkte drohen drastische Folgen für Menschen und das globale Ökosystem.
+
+Eine hitzige Debatte entfachte der Artikel ["The World Is Warming Up. And It’s Happening Faster"](https://www.nytimes.com/2025/06/26/climate/climate-heat-intensity.html) über die Beschleunigung der Erderwärmung. Die Kritiker sagen, dass kurzfristige Schwankungen überbewertet werden, Zeke Hausfather belegt aber in [seinem Beitrag auf The Climate Brink](https://www.theclimatebrink.com/p/the-great-acceleration-debate) klar an mehreren Faktoren, dass dem definitiv nicht so ist.
+  
+In der [Zeit-Online-Datenstory](https://www.zeit.de/wissen/umwelt/2025-06/klimageschichte-veraenderung-temperatur-entwicklung-daten) kann man nachvollziehen, wie in 485 Millionen Jahre Erdgeschichte sich die Temperatur verändert hat, vor etwa 125.000 bis 115.000 Jahren war es das letzte Mal so warm wie jetzt. Die [Daten](https://www.ncei.noaa.gov/products/paleoclimatology) für die Rekonstruktion stammen aus [weltweiten Bohrungen](https://vis.social/@gka/114726890226903215). 
+
+Weitere offene Klimadaten kann man über das [Climate Data Center (CDC) des Deutschen Wetterdienstes](https://www.dwd.de/DE/leistungen/cdc/cdc_ueberblick-klimadaten.html) beziehen.
 
 ### Hitze
 * An heißen Tagen einen kühlen Kopf bewahren - Stadt Neuss veröffentlicht Coole Karte
