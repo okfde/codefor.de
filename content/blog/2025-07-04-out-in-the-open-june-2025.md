@@ -118,47 +118,30 @@ Trotz großer Zustimmung in der Bevölkerung passiert hinsichtlich Klimaschutz z
 Der Klimablog spricht in diesem Zusammenhang [von einer Medienkrise](https://derklimablog.de/politik/gletschersturz-und-medienkrise/).
 
 ## Artensterben
-* 76 percent drop in insect biomass between 1989 and 2016
-  https://mastodon.social/@VeroniqueB99/114632989910725775
-* "Half the tree of life": ecologists’ horror as nature reserves are emptied of insects
-  https://www.theguardian.com/environment/2025/jun/03/climate-species-collapse-ecology-insects-nature-reserves-aoe
-* Vom Verschwinden: Ein Kunst-Forschungsprojekt zum Artenschutz in Leipzig zum Mitmachen
-  https://www.l-iz.de/kultur/lebensart/2025/06/vom-verschwinden-kunst-forschungsprojekt-artenschutz-leipzig-mitmachen-625910
-  https://vomverschwinden.de
+Der Evolutionsbiologe Daniel Janzen misst das Vorkommen von Insekten seit den 70-er Jahren, speziell im Guanacaste-Nationalpark auf Costa-Rica, also in an sich unberührter Natur und selbst dort ist innerhalb des letzten 50 Jahre die Biodiversität [quasi zusammengebrochen](https://www.theguardian.com/environment/2025/jun/03/climate-species-collapse-ecology-insects-nature-reserves-aoe). Ein Ergebnis, dass schon die [Krefelder Studie](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809) 2017 belegte und auch mit Fotos [dokumentierte](https://mastodon.social/@VeroniqueB99/114632989910725775).
+
+Beim Kunst-Forschungsprojekt ["Vom Verschwinden"](https://vomverschwinden.de) soll künstlerische, wissenschaftliche und philosophische Zugänge zum Thema in einer "wilden" Bibliothek in Form von Fotos, Bildern, Gedichten, Erlebnisberichten, Laborpapieren, Essays und Videokunst zu Insekten [zusammengetragen werden](https://www.l-iz.de/kultur/lebensart/2025/06/vom-verschwinden-kunst-forschungsprojekt-artenschutz-leipzig-mitmachen-625910). Jeder kann mitmachen.
 
 ## Citizen Science
-* Das Citizen Science-Projekt #HummelChallenge startet erneut am 20. Juni.
-  https://www.thuenen.de/de/newsroom/presse/pressemitteilungen/detailansicht?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews_preview%5D=7587&cHash=abfd4d0e0ae998dcb0f36a37b2c15fb5
-  https://wisskomm.social/@Thuenen_aktuell/114703338779335695
-* Wildtiere im Zoo Heidelberg
-  https://www.inaturalist.org/projects/wildtiere-im-zoo-heidelberg?tab=stats
-  via https://mastodon.social/@Tapirus/114699818052620955
-* Forschung für alle – Wie Citizen Science die Wissenschaft stärkt
-  https://www.deutschlandfunk.de/forschung-fuer-alle-wie-citizen-science-die-wissenschaft-staerkt-100.html
+Das Thünen-Institut hatte dieses Jahr das Citizen Science-Projekt "Hummel Challenge" [neu aufgelegt](https://www.thuenen.de/de/newsroom/presse/pressemitteilungen/detailansicht?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews_preview%5D=7587&cHash=abfd4d0e0ae998dcb0f36a37b2c15fb5), bei man vom 20. Juni bis 3. Juli diese Tierchen mit der App [ObsIdentify](https://observation.org/apps/obsidentify/) bestimmen und melden konnten. 
+
+Über eine andere App, [iNaturalist](https://www.inaturalist.org/), sollen interessierte Besucher des Heidelberger Zoos [Wildtiere auf dem Gelände dokumentieren](https://www.inaturalist.org/projects/wildtiere-im-zoo-heidelberg?tab=stats).
+
+In der Folge ["Forschung für alle – Wie Citizen Science die Wissenschaft stärkt"](https://www.deutschlandfunk.de/forschung-fuer-alle-wie-citizen-science-die-wissenschaft-staerkt-100.html) des Deutschlandfunk-Podcasts "Campus und Karriere" sprechen die Interviewten nicht nur darüber, wie Bürgerwissenschaftler helfen können, Daten zu sammeln und auch bei deren Auswertung zu unterstützen, sondern selbst auch eigene Anliegen in die Forschung tragen zu dürfen. 
 
 ## Kultur
-* Museums Open Data Search
-  http://dev.harald-klinke.de/MuseumsOpenData/
-  via https://det.social/@HxxxKxxx/114623227920050784
-* Die Folien zu meinem Vortrag "FAIR, really? Zur Nutzbarkeit von Kulturerbedaten" auf der #bibliocon2025 sind jetzt online
-  https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19891
-  via https://openbiblio.social/@awinkler/114766428331434761
+Mit Hürden und Optimierungspotenzial bei der Erfassung und Bereitstellung digitaler Daten speziell im Kulturerbesektor befasst sich der [Vortrag](https://opus4.kobv.de/opus4-bib-info/frontdoor/index/index/docId/19891) von Alexander Winkler im Track zu "Faire Kulturdaten: offene Datenkulturen", z.B. Datenangebote von Anfang an hinsichtlich [ihrer tatsächlichen Nutzbarkeit](https://openbiblio.social/@awinkler/114766428331434761) für nicht idealisierte Nutzer:innen zu denken,
+
+Auf den offenen Daten verschiedener Museen [zu suchen](https://bsky.app/profile/harald-klinke.de/post/3lqqyki6f322t) ist mit diesem [neuen Angebot](http://dev.harald-klinke.de/MuseumsOpenData/) möglich. 
 
 ## Transparenz
-* Bundesrechnungshof: Spahn verpulverte Milliarden
-  https://fragdenstaat.de/artikel/exklusiv/2025/06/spahn-brh/
-  https://bewegung.social/@lobbycontrol/114738315337370403
-  * Untersuchungsbericht komplett bekannt geworden: 
-    https://www.tagesspiegel.de/politik/untersuchungsbericht-komplett-bekannt-geworden-jens-spahn-log-offenbar-in-der-masken-affare-13973597.html
-    https://chaos.social/@fragdenstaat/114796227659129337
-    https://fragdenstaat.de/dokumente/271857-bericht-der-sachverstaendigen-beraterin-dr-margaretha-sudhof-ungeschwaerzt/
-* Verfassungs­schutz­berichte
-  https://verfassungsschutzberichte.de/berichte
-  via https://chaos.social/@vsberichte/114665781971857124
-* Asylpolitik: Gericht: Auswärtiges Amt muss Lageberichte herausgeben
-  https://www.tagesspiegel.de/berlin/asylpolitik-gericht-auswartiges-amt-muss-lageberichte-herausgeben-13849267.html  
-* Zu viel Geld, zu wenig Kontrolle: Bundesrechnungshof fordert Reform bei Bundeswehr
-  https://correctiv.org/bundesrechnungshof/2025/06/03/zu-viel-geld-zu-wenig-kontrolle-bundesrechnungshof-fordert-reform-bei-bundeswehr/
+Die Masken sind gefallen, zu mindestens für den ["Maskenbericht"](https://fragdenstaat.de/dokumente/271857-bericht-der-sachverstaendigen-beraterin-dr-margaretha-sudhof-ungeschwaerzt/) (alias "Sudhof-Bericht"), der bisher nur mit Schwärzungen vorlag. Die nun sichtbaren Stellen offenbaren keine Geschäftsgeheimnisse (der bisher vorgeschobene Grund für die Auslassungen) sondern dokumentieren die [fragwürdige Entscheidungen](https://bewegung.social/@lobbycontrol/114738315337370403) des damaligen Gesundheitsministers Jens Spahn bei der Maskenbeschaffung, die laut Bericht zur damaligen Marktlage [völlig überteuert eingekauft worden sind](https://www.tagesspiegel.de/politik/untersuchungsbericht-komplett-bekannt-geworden-jens-spahn-log-offenbar-in-der-masken-affare-13973597.html).
+
+[Ein Prüfbericht](https://fragdenstaat.de/artikel/exklusiv/2025/06/spahn-brh/) des Bundesrechnungshof kritisiert zudem den gewährten Corona-Versorgungsaufschlag, dessen Einführung sich schon auf keine validen Belastungsdaten gestützt habe und dann tatsächlich kein nachhaltige Wirkung für die so geförderten Krankenhäuser während der Pandemie erzielt hat. Aus Sicht des Rechnungshofs sind mit dieser "unwirtschaftlichen" Maßnahme nicht nur 3,1 Milliarden Euro verschwendet sondern auch ein "dysfunktionales System am Laufen gehalten" und "notwendige Reformen verzögert worden".
+
+Mit Geld gut zu wirtschaften fallen Bundesverteidigungsministerium und Bundeswehr auch sehr schwer, wie ebenfalls der Bundesrechnungshof [in einem Sonderbericht bemängelt](https://correctiv.org/bundesrechnungshof/2025/06/03/zu-viel-geld-zu-wenig-kontrolle-bundesrechnungshof-fordert-reform-bei-bundeswehr/). Vielleicht sollte erst das Loch im Topf geflickt werden, bevor man noch mehr Wasser reingießt. Also dysfunktionale, verantwortungslos verschwenderische (Macht-)Strukturen abbauen.
+
+Der im Juni offiziell erschienene neue Verfassungsschutzbericht ist nun auch mit auf der ehrenamtlichen Seite [verfassungsschutzberichte.de](https://verfassungsschutzberichte.de/) digital durchsuchbar.
 
 ## Überwachung
 * Atlas-der-Zivilgesellschaft
