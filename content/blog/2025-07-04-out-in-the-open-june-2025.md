@@ -158,31 +158,19 @@ Wie [barrieren-gutachten.de](https://barrieren-gutachten.de) zeigt, dass 187 von
 Gut verständliche Texte sind dabei auch [eine Form von Barrierefreiheit](https://www.initiative-barrierefreiheit.de/barrierefreie-texte-so-gestalten-sie-inhalte-verstaendlich-fuer-alle/). Die [eGovernment-Podcast-Folge aus Juni](https://egovernment-podcast.com/egov220-leichte-sprache/) beschäftigt sich mit dem Konzept "Leichte Sprache" im Behördenkontext.
 
 ## Grand Prompted Theft Automated
-* Zero-click AI data leak flaw uncovered in Microsoft 365 Copilot
-  https://www.bleepingcomputer.com/news/security/zero-click-ai-data-leak-flaw-uncovered-in-microsoft-365-copilot/
-* "LLM users also struggled to accurately quote their own work. While LLMs offer immediate convenience, our findings highlight potential cognitive costs"
-  https://arxiv.org/abs/2506.08872
-  via https://tldr.nettime.org/@tante/114692671546735648
-  via https://chaos.social/@mavo/114794308715380350
-* Immobilienplattform trainierte heimlich KI-Modell mit Kundenmails
-  https://netzpolitik.org/2025/berliner-datenschutzbehoerde-prueft-immobilienplattform-trainierte-heimlich-ki-modell-mit-kundenmails/
-  via https://chaos.social/@netzpolitik_feed/114709990501640301
-* KI-Suche für Gesichter breitet sich ungehindert aus
-  https://netzpolitik.org/2025/behoerden-schauen-zu-ki-suche-fuer-gesichter-breitet-sich-ungehindert-aus/
-  * Facial Recognition to Target Pride in Hungary: Civil Society Orgs Call On The EU to Commit to Rights and Rule of Law
-    https://www.liberties.eu/en/stories/hungary-facial-recognition-pride/45453
-* AI Narrative Breakdown. A Critical Assessment of Power and Promise
-  https://dl.acm.org/doi/10.1145/3715275.3732083
-  via https://mastodon.bits-und-baeume.org/@Rainer_Rehak/114738515355919133
-* Semantic Search Evaluation Framework
-  https://github.com/machinelearningZH/semantic-search-eval
-* CURSOR
-  https://www.cursor.com
-* Licenses, "Signals" and genAI Scrapers
-  https://stefan.bloggt.es/2025/06/licenses-signals-and-genai-scrapers/
-* Google’s emissions up 51% as AI electricity demand derails efforts to go green
-  https://www.theguardian.com/technology/2025/jun/27/google-emissions-ai-electricity-demand-derail-efforts-green
+Dahin ist das einstige Ziel von Google, Emissionen zu senken und "grün" zu werden. Mit jedes Jahr 27% mehr Strombedarf (vor allem getrieben durch das Trainieren und Betreiben generativer KI-Systeme) wird das auch nichts. Seit 2019 sind die CO2-Emissionen [um 51% gestiegen](https://www.theguardian.com/technology/2025/jun/27/google-emissions-ai-electricity-demand-derail-efforts-green). Die Internationale Energiebehörde erwartet für 2030, dass 4,5% der weltweiten Energieerzeugung nur für Rechenzentren benötigt werden wird. Schon jetzt wird sich deren Energiebedarf von 2022 auf 2026 auf 1000 Terrawatt-Stunden verdoppeln, was etwa dem gesamten Strombedarf von Japan entspricht. 
 
+Der EU AI Act verbietet KI-Systeme, "die Datenbanken zur Gesichtserkennung durch das ungezielte Auslesen von Gesichtsbildern aus dem Internet oder von Überwachungsaufnahmen erstellen oder erweitern". Verstöße werden mit empflindlichen Geldstrafen geahndet. Stört nur niemanden. Inzwischen sind weitere Anbieter solcher Foto-Rückwärtssuchen entstanden, [die damit auch offen im Netz werben](https://netzpolitik.org/2025/behoerden-schauen-zu-ki-suche-fuer-gesichter-breitet-sich-ungehindert-aus/). Eine Gefahr für die Demokratie, da allein mit dem Bewusstsein, dass es solche Suchmöglichkeiten gibt, Menschen davon abhalten könnte, z.B. an Demonstrationen teilzunehmen. So tatsächlich auch schon geschehen in Ungarn, das Echtzeitgesichtserkennung für die Pride-Parade [erlaubt hatte](https://www.liberties.eu/en/stories/hungary-facial-recognition-pride/45453). 
+
+Auch Immobilienplattformen nehmen es mit Datenschutz nicht so genau und [trainierten KI-Modelle mit Hilfe von Kunden-E-Mails](https://netzpolitik.org/2025/berliner-datenschutzbehoerde-prueft-immobilienplattform-trainierte-heimlich-ki-modell-mit-kundenmails/).
+
+Mit einer neuen [Zero-Click](https://en.wikipedia.org/wiki/Exploit_(computer_security)#Zero-click)-Attacke, die nun den Namen[EchoLeak](https://www.bleepingcomputer.com/news/security/zero-click-ai-data-leak-flaw-uncovered-in-microsoft-365-copilot/) bekommen hat, lassen sich geheime interne Daten durch einen in einer E-Mail eingebetteten versteckten Prompt stehlen. 
+
+"Zeitgeist AI", [so nennt Rainer Rehak die Narrative](https://mastodon.bits-und-baeume.org/@Rainer_Rehak/114738515355919133) in seinem [Artikel](https://dl.acm.org/doi/10.1145/3715275.3732083), die sich um die Verheißungen des Einsatzes generativer KI in allen Lebenslagen entsponnen haben.
+
+Die KI soll uns klüger machen, doch die in [einer Studie](https://arxiv.org/abs/2506.08872) am MIT Media Lab untersuchten LLM-Nutzer schnitten in neurologischen, sprachlich- und verhaltensbezogenen Tests [deutlich schlechter ab](https://www.media.mit.edu/publications/your-brain-on-chatgpt/). Die Studie spricht von "Kognitiver Schuld", die sich aufbaue, wenn sich Menschen allein auf die Ausgaben der Chat-KI verlassen, statt sich Wissen aktiv zu erarbeiten, kritisch zu hinterfragen und so das gelernte tatsächlich zu verinnerlichen.
+
+Lizenzen und Urheberrecht stehen durch generative KI [vor großen Herausforderungen](https://verbraucherportal-bw.de/,Lde/Startseite/Verbraucherschutz/Das+Urheberrecht+und+die+Fallen+bei+Nutzung+von+generativer+KI). Wenn mit Nutzungsbeschränkung versehene Daten durch den KI-Fleischwolf gedreht werden, ist das Ergebnis nicht urheberrechtlich geschützt, da es von keinem Menschen erzeugt wurde. Nur starke Ähnlichkeiten können in Einzelfallentscheidungen Konsequenzen nachsichziehen. Bei der Creative Commons macht man sich dennoch Gedanken, wie man das Konzept der Lizenzen für den KI-Kontext aktualisieren könnte, und schlägt mit den [CC Signals](https://creativecommons.org/ai-and-the-commons/cc-signals/) einen Weg vor, wie Autoren, Künstler, u.a. für ihre Werke festlegen können sollen, wie sie von KI-Systemen genutzt werden dürfen. [Für Stefan](https://stefan.bloggt.es/2025/06/licenses-signals-and-genai-scrapers/) könnte dies aber zu einem Rattenschwanz an ungewollten Folgen führen.
 
 ## Recap
 * [Creative Bureaucracy Festival](https://creativebureaucracy.org/de) 
@@ -194,8 +182,7 @@ Gut verständliche Texte sind dabei auch [eine Form von Barrierefreiheit](https:
 * [QGIS User Conf 2025](https://anitagraser.com/2025/06/25/qgis-user-conf-2025-videos-have-landed/) Videos
 
 ## Und sonst so
-* Map of GitHub
-  https://anvaka.github.io/map-of-github/#2/0/0
+Was wäre, wenn Programmierbibliotheken [Ländereien bilden würden](https://anvaka.github.io/map-of-github/#2/0/0)?
 
 ## Fristen
 * Förderung 100xDigital, bis 07.07.2025, 12 Uhr
