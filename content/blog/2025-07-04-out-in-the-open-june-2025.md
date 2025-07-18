@@ -117,6 +117,11 @@ Trotz großer Zustimmung in der Bevölkerung passiert hinsichtlich Klimaschutz z
 
 Der Klimablog spricht in diesem Zusammenhang [von einer Medienkrise](https://derklimablog.de/politik/gletschersturz-und-medienkrise/).
 
+### USA
+Das US-Portal Climate.gov, das sich klimawissenschaftlicher Bildung verschrieben hat, [wird bald keine neuen Inhalte veröffentlichen](https://www.theguardian.com/us-news/2025/jun/11/climate-website-shut-down-noaa). Die 10 Personen, die die Seite bisher betreut haben, wurden alle entlassen. 
+  
+Keine neues Wissen zu bekommen ist das ein, bestehendes Wissen aktiv zu löschen das noch viel Schlimmere. Zahlreiche Initiativen, wie z.B. das [Open Environmental Data Project (OEDP)](https://www.openenvironmentaldata.org/about), [versuchen zu retten](https://www.insidehighered.com/news/government/science-research-policy/2025/06/10/preserving-federal-data-trump-trying-purge), was noch zu retten ist.
+
 ## Artensterben
 Der Evolutionsbiologe Daniel Janzen misst das Vorkommen von Insekten seit den 70-er Jahren, speziell im Guanacaste-Nationalpark auf Costa-Rica, also in an sich unberührter Natur und selbst dort ist innerhalb des letzten 50 Jahre die Biodiversität [quasi zusammengebrochen](https://www.theguardian.com/environment/2025/jun/03/climate-species-collapse-ecology-insects-nature-reserves-aoe). Ein Ergebnis, dass schon die [Krefelder Studie](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0185809) 2017 belegte und auch mit Fotos [dokumentierte](https://mastodon.social/@VeroniqueB99/114632989910725775).
 
@@ -143,19 +148,14 @@ Mit Geld gut zu wirtschaften fallen Bundesverteidigungsministerium und Bundesweh
 
 Der im Juni offiziell erschienene neue Verfassungsschutzbericht ist nun auch mit auf der ehrenamtlichen Seite [verfassungsschutzberichte.de](https://verfassungsschutzberichte.de/) digital durchsuchbar.
 
-## Überwachung
-* Atlas-der-Zivilgesellschaft
-  https://www.brot-fuer-die-welt.de/fileadmin/mediapool/Atlas_der_Zivilgesellschaft/2025/Atlas-der-Zivilgesellschaft-2025_Online.pdf
-  via https://chaos.social/@Freiheitsrechte/114749638407137484
-  * LIBERTIES RULE OF LAW REPORT 2025
-    https://www.liberties.eu/f/vdxw3e
+Im [CIVICUS-Monitor](https://monitor.civicus.org) sind die Länder der Erde auf einer Karte danach eingefärbt, wie gut oder schlecht sie Meinungs- und Versammlungsfreiheit garantieren. Für [Deutschland](https://monitor.civicus.org/country/germany/) sind diese Freiheit inzwischen auch nur als "eingeschränkt" klassifiziert. Der aktuelle ["Atlas der Zivilgesellschaft"](https://www.brot-fuer-die-welt.de/themen/atlas-der-zivilgesellschaft/) (auch als [PDF](https://www.brot-fuer-die-welt.de/fileadmin/mediapool/Atlas_der_Zivilgesellschaft/2025/Atlas-der-Zivilgesellschaft-2025_Online.pdf)) zeigt, dass weltweit der Rechtsstaat weiter unter Druck gerät. Ergänzt werden seine Aussagen durch den ["Liberties Rule of Law Report 2025"](https://www.liberties.eu/f/vdxw3e), der die gelebte Umsetzung (oder Nicht-Umsetzung) von Rechtsstaatlichkeit, Demokratie und Grundrechte in der Europäischen Union bewertet.
 
-## USA
-* Climate.gov, which supports public education on climate science, will soon no longer publish new content
-  https://www.theguardian.com/us-news/2025/jun/11/climate-website-shut-down-noaa
-* Preserving the Federal Data Trump Is Trying to Purge
-  https://www.insidehighered.com/news/government/science-research-policy/2025/06/10/preserving-federal-data-trump-trying-purge
-  via https://fediscience.org/@petersuber/114659526316269177
+## Barrierefreiheit
+Seit dem 28. Juni 2025 gilt nun das [Barrierefreiheitsstärkungsgesetz (BFSG)](https://bfsg-gesetz.de), welches europäisches in nationales Recht umsetzt. Produkte und Dienstleistungen, die nach diesem Stichtag in den Umlauf gebracht werden, [müssen barrierefrei](https://www.aktion-mensch.de/inklusion/barrierefreiheit/barrierefreie-website/gesetzliche-pflichten) nach den Vorgaben des [European Accessibility Act](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/union-equality-strategy-rights-persons-disabilities-2021-2030/european-accessibility-act_en) sein, also z.B. auch die Webseiten von Firmen und Behörden.
+
+Wie [barrieren-gutachten.de](https://barrieren-gutachten.de) zeigt, dass 187 von 188 Webseiten öffentlicher Stellen schon an den seit 2021 geltenden Barrierefreiheits-Gesetzen [scheitern](https://chaos.social/@fragdenstaat/114789980061016217).
+
+Gut verständliche Texte sind dabei auch [eine Form von Barrierefreiheit](https://www.initiative-barrierefreiheit.de/barrierefreie-texte-so-gestalten-sie-inhalte-verstaendlich-fuer-alle/). Die [eGovernment-Podcast-Folge aus Juni](https://egovernment-podcast.com/egov220-leichte-sprache/) beschäftigt sich mit dem Konzept "Leichte Sprache" im Behördenkontext.
 
 ## Grand Prompted Theft Automated
 * Zero-click AI data leak flaw uncovered in Microsoft 365 Copilot
@@ -183,15 +183,6 @@ Der im Juni offiziell erschienene neue Verfassungsschutzbericht ist nun auch mit
 * Google’s emissions up 51% as AI electricity demand derails efforts to go green
   https://www.theguardian.com/technology/2025/jun/27/google-emissions-ai-electricity-demand-derail-efforts-green
 
-## Barrierefreiheit
-* Leichte Sprache
-  https://egovernment-podcast.com/egov220-leichte-sprache/
-* Barrierefreiheitsstärkungsgesetz
-* Keine einzige Seite erfüllt alle gesetzlichen Standards – 187 von 188 Websites öffentlicher Stellen scheitern an den seit 2021 geltenden Barrierefreiheits-Gesetzen,
-  https://barrieren-gutachten.de
-  via https://chaos.social/@fragdenstaat/114789980061016217
-* Gesetzliche Grundlagen und Pflichten für barrierefreie Websites
-  https://www.aktion-mensch.de/inklusion/barrierefreiheit/barrierefreie-website/gesetzliche-pflichten
 
 ## Recap
 * [Creative Bureaucracy Festival](https://creativebureaucracy.org/de) 
