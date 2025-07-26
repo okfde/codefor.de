@@ -42,6 +42,10 @@ type: blog
 * Ein neuer IÖW Datensatz dokumentiert die Entwicklungen in der hausärztlichen Versorgung über 11 Jahre
   https://data.fdz.ioer.de/dataset.xhtml?persistentId=doi:10.71830/7N8G1E
   https://wisskomm.social/@ioer/114873026580818573
+* Die Welt des Freien Wissens
+  https://upload.wikimedia.org/wikipedia/commons/8/83/2025-07-02_BMUKN_Die_Welt_des_Freien_Wissens.pdf
+* eco Podcast zu Datenspende und Open Source
+  https://www.eco.de/news/eco-podcast-zu-datenspende-und-open-source/
 
 ## Open Hardware
 * Open hardware desktop 3D printing is dead - you just don't know it yet
@@ -65,6 +69,9 @@ type: blog
   via https://norden.social/@datenschatz/114847098427880644
 * Hardware-Spenden: "Weil es der Staat nicht gebacken bekommt"
   https://netzpolitik.org/2025/hardware-spenden-weil-es-der-staat-nicht-gebacken-bekommt/
+* Open Source Maintainer Burn Out ist real
+  https://bsky.app/profile/derhoermeyer.bsky.social/post/3ltlvgjdr3c26
+  https://open.spotify.com/episode/1LLald1NSJoUiYgw9dthiV?si=Lr1xdtpAQHaJ5Sol0kV9zg&nd=1&dlsi=62bcdb74c3c4433f
 
 ## Citizen Science
 * Gaming Cancer: How Citizen Science Games Could Help Cure Disease
@@ -92,6 +99,8 @@ type: blog
   via https://mastodon.social/@ReginaMuehlich/114875018810725147
 * Der CISPE-Verband europäischer Cloudanbieter zieht vors EU-Gericht, weil die Kommission den milliardenschweren Kauf von VMware durch Broadcom genehmigt hat.
   https://www.heise.de/news/Broadcoms-VMware-Uebernahme-EU-Cloudanbieter-verklagen-die-Kommission-10499025.html
+* Microsoft lässt die Cloud des US-Verteidigungsministeriums durch chinesische Software-Ingenieure warten
+  https://www.borncity.com/blog/2025/07/16/krass-microsoft-laesst-die-cloud-des-us-verteidigungsministeriums-durch-chinesische-software-ingenieure-warten/
 
 ## Verwaltungsdigitalisierung
 * Open Source hat im Bund keine Lobby
@@ -103,6 +112,8 @@ type: blog
   https://egovernment-podcast.com/egov224-kern-ux/
 * Das erste Jahr des ersten Beirats des deutschen Digital Services Coordinators neigt sich dem Ende zu. Zeit für ein Zwischenfazit sowie einen Ausblick auf die Zukunft des Digital Services Act und die Rolle der Zivilgesellschaft.
   https://netzpolitik.org/2025/geschichten-aus-dem-dsc-beirat-wie-trumps-drohungen-europaeische-grundrechte-gefaehrden/
+* Wildwuchs an parallelen Lösungen
+  https://www.spiegel.de/politik/deutschland/bundesrechnungshof-kritisiert-geldverschwendung-bei-digitalisierung-a-706ea431-18f0-4183-b4b0-5fbc64996cac?s=09
 
 ## Dashboards
 * "Ein öffentlich zugängliches Verwaltungs-Dashboard stellt keinen Selbstzweck dar, sondern fungiert als Werkzeug, mit dem auf Basis der bereitgestellten Daten gezielte Maßnahmen vorangetrieben und deren Fortschritt kontrolliert werden können."
@@ -117,6 +128,8 @@ type: blog
 * Der Historical Tech Tree zeigt drei Millionen Jahre Innovation visuell als interaktive Karte und zeigt, wie 2000 Erfindungen miteinander verbunden sind.
   https://www.heise.de/news/Web-Tipps-Technik-Stammbaum-10479184.html
   https://www.historicaltechtree.com
+* Data Vis Dispatch, July 8: 200th edition — behind the scenes, Q&A, and new features
+  https://www.datawrapper.de/blog/data-vis-dispatch-july-8-2025
 
 ## Karten
 * Today the German Federal Employment Agency published its annual data set on salaries for 21,859,958 employees.
@@ -125,6 +138,12 @@ type: blog
 * The WFS Explorer
   https://wfsexplorer.odis-berlin.de
   via https://troet.cafe/@hanshack/114788385967284925
+  * Berliner WFS-Explorer für Hamburg adaptiert
+    https://www.linkedin.com/posts/timfangmeyer_ich-habe-den-letzte-woche-ver%C3%B6ffentlichten-activity-7348604412803584002-qbY5
+    https://tifa365.github.io/wfs-explorer.hamburg
+  * GeoExplorer Update, nun u.a. mit WFS-Explorer
+    https://www.linkedin.com/posts/hans-hack-001683303_the-geoexplorer-just-got-an-update-the-ugcPost-7347909233717264384-NuvQ
+    https://geoexplorer.odis-berlin.de
 * Urban Mining Kataster
   https://concular.de/digitaler-blick-fuer-die-stadtentwicklung-concular-startet-urban-mining-kataster-deutschland-fuer-staedte-und-kommunen/
   https://urbanminingkataster.de
@@ -139,6 +158,13 @@ type: blog
   via https://mastodon.social/@quad9dns/114902199658368313
 * Vector Tiles are deployed on OpenStreetMap.org
   https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/
+* anymap
+  https://github.com/opengeos/anymap
+  https://anymap.dev
+  LiDAR support: https://www.linkedin.com/posts/giswqs_geospatial-mapping-potree-activity-7349306242512613376-jsPf
+* Boden ist Leben – und wird zur Mangelware. Jährlich gehen 100 Mio. Hektar fruchtbares Land verloren. In der Messkampagne CROPEX25 untersuchte das DLR mit Partnern vier Monate lang Böden, Pflanzen und Atmosphäre bei München – aus der Luft, am Boden und via Satellit
+  https://bsky.app/profile/dlr-de.bsky.social/post/3luphg3frus2t
+  https://www.dlr.de/de/aktuelles/nachrichten/2025/testfluege-ueber-bayern-liefern-daten-fuer-neue-erdbeobachtungsmissionen
 
 ## Mobilität
 * Regenampel
@@ -156,6 +182,8 @@ type: blog
   https://mastodon.social/@kottke/114858598236589522  
 * "Kühle Spur" - Deutschlands erster an den Klimawandel angepasster Radweg 
   https://www.zalf.de/de/aktuelles/Seiten/Pressemitteilungen/BTU-Fahrradweg-ZALF.aspx
+  * Cool Way: Beschattete Wanderwege für heiße Tage
+    https://www.linkedin.com/posts/soeren-etler_cool-way-beschattete-wanderwege-f%C3%BCr-hei%C3%9Fe-activity-7345355805837189122-I2s4
   via https://wisskomm.social/@ZALF_leibniz/114862291046113181
 * Evaluationsergebnisse GOW30
   https://www.zukunft-mobilitaet.net/174605/analyse/evaluation-tempo30-hauptstrassennetz-amsterdam-gow30/
@@ -193,8 +221,6 @@ type: blog
   Nicht #Energiekosten oder #Bürokratie sind das größte Risiko für die deutsche #Industrie, sondern die Folgen des #Klimawandels.
   https://www.zeit.de/wirtschaft/2025-07/klimakrise-deutschland-industrie-klimaschaeden-energie-buerokratie
   via https://mastodon.online/@tinoeberl/114841644930402668
-* KliX³-Toolbox!
-  https://klix3.de/toolbox/willkommen/
 * Attributionsforschung & Klima(un)gerechtigkeit
   https://s4f-podcast.de/2025/07/folge-37-attributionsforschung-klimaungerechtigkeit/
 * Der Elbe geht das Wasser aus
@@ -208,6 +234,10 @@ type: blog
   https://www.telepolis.de/features/Tegelwippen-Wie-Staedte-sich-besser-an-den-Klimawandel-anpassen-koennen-10494670.html
 * Erdüberlastungstag immer früher: Menschen haben natürliche Ressourcen für 2025 aufgebraucht
   https://taz.de/Erdueberlastungstag-immer-frueher/!6103493/
+* Diese Landkreise haben die höchsten Schäden durch Extremwetter
+  https://correctiv.org/aktuelles/klimawandel/2025/07/10/diese-landkreise-haben-die-hoechsten-schaeden-durch-extremwetter/
+* Der Emissionshandel funktioniert – oder auch nicht
+  https://www.klimareporter.de/europaeische-union/der-emissionshandel-funktioniert-oder-auch-nicht
 
 ### Hitze
 * Hitztage über die Jahre
@@ -228,6 +258,13 @@ type: blog
   https://apps.socib.es/subregmed-indicators/ocean_temperature.htm
   via https://dju.social/@DerKlimablog/114808495936878862
 
+### Tools
+* KliX³-Toolbox!
+  https://klix3.de/toolbox/willkommen/
+* BaumBie
+  * GiessDenKiez für Bielefeld
+    https://www.linkedin.com/posts/codeforbi_bald-ist-es-so-weit-baumbie-startet-offiziell-ugcPost-7348765289301389314-rWE4
+
 ## Energie
 * Subventionsabbau bei Kohle und Öl führt zu mehr Wohlstand
   https://www.handelsblatt.com/unternehmen/energie/fossile-brennstoffe-subventionsabbau-beikohle-und-oel-fuehrt-zu-mehr-wohlstand/100139110.html
@@ -240,6 +277,8 @@ type: blog
   https://www.fr.de/wirtschaft/energie-revolution-kommt-indien-vollzieht-turnaround-und-uebertrifft-europa-zr-93840306.html
 * Studie: Ökostrom fällt rasant unter Preis von Öl und Gas
   https://www.stuttgarter-nachrichten.de/inhalt.studie-oekostrom-faellt-rasant-unter-preis-von-oel-und-gas.05ec40b7-1e9a-4347-a0c9-a1d526e9000e.html
+* So viele Verbraucher wechseln Energieanbieter wie noch nie
+  https://www.zeit.de/news/2025-07/13/so-viele-verbraucher-wechseln-energieanbieter-wie-noch-nie
 
 ## KI, Vibe und Gesang
 * Google's training data includes all your personal data already
@@ -273,6 +312,10 @@ type: blog
   https://f13-os.de
 * Messen mit zweierlei Maß
   https://infosec.exchange/@koehntopp/114913099276601064
+* Model Context Protocol (MCP) in der Praxis
+  https://github.com/codeforcologne/Lab/blob/master/mcp.pdf
+* LLMoin kann jetzt bundesweit von Ländern und Kommunen genutzt werden
+  https://www.dataport-kommunal.de/aktuell/news/nachricht/llmoin-kann-jetzt-bundesweit-von-laendern-und-kommunen-genutzt-werden/
 
 ## Bürokratieabbau
 * Bürokratieabbau kontra Naturschutz in Brandenburg
@@ -288,8 +331,14 @@ type: blog
   * Eine Kanzlei geht nun diesen Weg: "Strafanzeige gegen Herrn Bundesminister Spahn wegen Untreue"
     https://ax-vergaberecht.de/strafanzeige-gegen-herrn-bundesminister-spahn-wegen-untreue/
     via https://mastodon.social/@KathrinBB/114817794848757273
+* Netzwerk mit Nebenwirkungen: Jens Spahn und der Milliardär
+  https://correctiv.org/aktuelles/gesundheit/2025/07/22/netzwerk-mit-nebenwirkungen-jens-spahn-und-der-milliardaer/
 * Medien und Medizinsoftware: Der Profiteur von Spahns Politik
   https://correctiv.org/lobbyismus-2/2025/07/25/medien-und-medizinsoftware-der-profiteur-von-spahns-politik-nius-gotthardt/
+* Diese Milliarden könnten wir uns Spahn
+  https://fragdenstaat.de/artikel/exklusiv/2025/07/die-milliarden-konnten-wir-uns-spahn/  
+  * Machtarroganz
+    https://bsky.app/profile/mkueper.de/post/3ltbyla5ad22k  
 * Mehr "Mut zu Transparenz" im Digitalausschuss - Forderung nach Öffentliche Sitzungen im Digitalausschuss
   https://d-64.org/mut-zu-transparenz/
   https://www.ccc.de/system/uploads/369/original/OffenerBrief_TrasparenzADi.pdf
@@ -301,6 +350,11 @@ type: blog
   https://www.zdfheute.de/politik/deutschland/spd-koalitionsverhandlungen-lobbyverbaende-klima-energie-100.html
 * Versorgungsanstalt des Bundes und der Länder (VBL) ist die betriebliche Altersvorsorge für Angestellte des öffentlichen Diensts - Wo genau das Geld angelegt ist, ist unklar.
   https://fragdenstaat.de/artikel/klagen/2023/01/vbl-klage/
+* Cum-Cum-Betrug: Der Steuerraub geht weiter
+  https://www.dw.com/de/cum-cum-betrug-und-cum-cum-geschaefte-der-steuerraub-geht-weiter-steuertricks-banken-v2/a-73370908
+* Spürnasen-Erfolg: Mit einer Beschwerde beim EU-Transparenzregister haben wir zahlreiche falsche Angaben von Unternehmen und Verbänden aufgedeckt
+  https://www.corporateeurope.org/en/complaint-47-million-changes-lobby-register
+  via https://bsky.app/profile/lobbycontrol.bsky.social/post/3lu6dgdiyec2d
 
 ## Gefahr von Rechts
 * Naives Verständnis eines neutralen Journalismus
@@ -356,9 +410,36 @@ type: blog
   https://egovernmentwettbewerb.de/publikumsvoting/
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
-* https://thereisno.camp
-  https://social.milchreislieferei.de/@thereisnocamp/114806951961221215
-* https://wikimedia.eventyay.com/talk/wikimania2025/talk/ZHHQYV/
+* Dienstag, 05.08.2025, 20:00-22:00, c-base, Rungestraße 20, 10179 Berlin und auch online: **Netzpolitischer Abend** <a title='Kalendereintrag Netzpolitischer Abend' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTmV0enBvbGl0aXNjaGVyIEFiZW5kLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNzI2VDIxMjAyM1oNCkRUU1RBUlQ6MjAyNTA4MDVUMjAwMDAwDQpEVEVORDoyMDI1MDgwNVQyMjAwMDANClNVTU1BUlk6TmV0enBvbGl0aXNjaGVyIEFiZW5kDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpZ2l0YWxlZ2VzZWxsc2NoYWZ0LmRlL2ZlYXR1cmVkX2l0ZW0vbmV0enBvbGl0aXNjaGVyLWFiZW5kLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpjLWJhc2VcLCBSdW5nZXN0cmHDn2UgMjBcLCAxMDE3OSBCZXJsaW4gdW5kIGF1Y2ggb25saW5lDQpHRU86NTIuNTEyOTczNTsxMy40MjAxMzEzDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://digitalegesellschaft.de/featured_item/netzpolitischer-abend/
+* Donnerstag, 07.08.2025, 18:00-21:00, WikiBär Wikipedia, Köpenicker Straße 45, 10179 Berlin: **Jugend editiert** <a title='Kalendereintrag Jugend editiert' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSnVnZW5kIGVkaXRpZXJ0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNzI2VDIxMjAyM1oNCkRUU1RBUlQ6MjAyNTA4MDdUMTgwMDAwDQpEVEVORDoyMDI1MDgwN1QyMTAwMDANClNVTU1BUlk6SnVnZW5kIGVkaXRpZXJ0DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy53aWtpbWVkaWEuZGUvdmVyYW5zdGFsdHVuZ2VuL2p1Z2VuZC1lZGl0aWVydC8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046V2lraULDpHIgV2lraXBlZGlhXCwgS8O2cGVuaWNrZXIgU3RyYcOfZSA0NVwsIDEwMTc5IEJlcmxpbg0KR0VPOjUyLjUwMjY3NzA2MjkzNjA3OzEzLjQzOTI1MDM0ODcyMTU0NA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://www.wikimedia.de/veranstaltungen/jugend-editiert/
+* Donnerstag, 07.08.2025, 19:31-19:31, online: **Bits und Bäume Community Treffen** <a title='Kalendereintrag Bits und Bäume Community Treffen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQml0cyB1bmQgQsOkdW1lIENvbW11bml0eSBUcmVmZmVuLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNzI2VDIxMjAyM1oNCkRUU1RBUlQ6MjAyNTA4MDdUMTkzMTAwDQpEVEVORDoyMDI1MDgwN1QxOTMxMDANClNVTU1BUlk6Qml0cyB1bmQgQsOkdW1lIENvbW11bml0eSBUcmVmZmVuDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2JpdHMtdW5kLWJhZXVtZS5vcmcvdGVybWluZS8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://bits-und-baeume.org/termine/
+* Samstag, 09.08.2025, 14:00-18:00, c-base, Rungestraße 20, 10179 Berlin: **Linux install Party - endof10** <a title='Kalendereintrag Linux install Party - endof10' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTGludXggaW5zdGFsbCBQYXJ0eSAtIGVuZG9mMTAvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTA3MjZUMjEyMDIzWg0KRFRTVEFSVDoyMDI1MDgwOVQxNDAwMDANCkRURU5EOjIwMjUwODA5VDE4MDAwMA0KU1VNTUFSWTpMaW51eCBpbnN0YWxsIFBhcnR5IC0gZW5kb2YxMA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9jLWJhc2Uub3JnL2NhbGVuZGFyLyN2aWV3PW1vbnRoJmRhdGU9MjAyNS0wOC0wMSZldmVudD01Y2ZmMDU4Yy1kMjM2LTQwYjMtODExNi1iZGMzNzRmY2IzNGENCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046Yy1iYXNlXCwgUnVuZ2VzdHJhw59lIDIwXCwgMTAxNzkgQmVybGluDQpHRU86NTIuNTEyOTczNTsxMy40MjAxMzEzDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://c-base.org/calendar/#view=month&date=2025-08-01&event=5cff058c-d236-40b3-8116-bdc374fcb34a
+* Freitag, 15.08.2025, 16:00, bis Sonntag, 17.08.2025, 16:00, Bitwäscherei, Neue Hard 12, 8005 Zürich (Schweiz): **Jugend hackt Zürich 2025** <a title='Kalendereintrag Jugend hackt Zürich 2025' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSnVnZW5kIGhhY2t0IFrDvHJpY2ggMjAyNS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI1MDcyNlQyMTIwMjNaDQpEVFNUQVJUOjIwMjUwODE1VDE2MDAwMA0KRFRFTkQ6MjAyNTA4MTdUMTYwMDAwDQpTVU1NQVJZOkp1Z2VuZCBoYWNrdCBaw7xyaWNoIDIwMjUNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vYW5tZWxkdW5nLmp1Z2VuZGhhY2t0Lm9yZy9zY2h3ZWl6L2poemgyMDI1Lw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpCaXR3w6RzY2hlcmVpXCwgTmV1ZSBIYXJkIDEyXCwgODAwNSBaw7xyaWNoIChTY2h3ZWl6KQ0KR0VPOjQ3LjM4NzAzMTY7OC41MjA0MDI0DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://anmeldung.jugendhackt.org/schweiz/jhzh2025/
+* Samstag, 16.08.2025, 09:30, bis Sonntag, 17.08.2025, 17:00, Hochschule Bonn-Rhein-Sieg, Grantham-Allee 20, 53757 Sankt Augustin: **FrOSCon** <a title='Kalendereintrag FrOSCon' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRnJPU0Nvbi8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI1MDcyNlQyMTIwMjNaDQpEVFNUQVJUOjIwMjUwODE2VDA5MzAwMA0KRFRFTkQ6MjAyNTA4MTdUMTcwMDAwDQpTVU1NQVJZOkZyT1NDb24NCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vZnJvc2Nvbi5vcmcNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046SG9jaHNjaHVsZSBCb25uLVJoZWluLVNpZWdcLCBHcmFudGhhbS1BbGxlZSAyMFwsIDUzNzU3IFNhbmt0IEF1Z3VzdGluDQpHRU86NTAuNzc5NTYwMjAwMDAwMDA2OzcuMTgyMTcwMTI4NzMwOTI1DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://froscon.org
+* Donnerstag, 21.08.2025, 12:00-12:30, online: **CDL Espresso Talk | Quereinstieg in Data Science: Von der Soziologie zu Daten für die Zivilgesellschaft** <a title='Kalendereintrag CDL Espresso Talk | Quereinstieg in Data Science: Von der Soziologie zu Daten für die Zivilgesellschaft' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ0RMIEVzcHJlc3NvIFRhbGsgfCBRdWVyZWluc3RpZWcgaW4gRGF0YSBTY2llbmNlOiBWb24gZGVyIFNvemlvbG9naWUgenUgRGF0ZW4gZsO8ciBkaWUgWml2aWxnZXNlbGxzY2hhZnQvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTA3MjZUMjEyMDIzWg0KRFRTVEFSVDoyMDI1MDgyMVQxMjAwMDANCkRURU5EOjIwMjUwODIxVDEyMzAwMA0KU1VNTUFSWTpDREwgRXNwcmVzc28gVGFsayB8IFF1ZXJlaW5zdGllZyBpbiBEYXRhIFNjaWVuY2U6IFZvbiBkZXIgU296aW9sb2dpZSB6dSBEYXRlbiBmw7xyIGRpZSBaaXZpbGdlc2VsbHNjaGFmdA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9jb3JyZWxhaWQub3JnL3ZlcmFuc3RhbHR1bmdlbi9lc3ByZXNzb19xdWVyZWluc3RpZWdfZGF0YXNjaWVuY2U/dmlld1R5cGU9bGlzdA0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+  * https://correlaid.org/veranstaltungen/espresso_quereinstieg_datascience?viewType=list
+* Donnerstag, 21.08.2025, 15:00, bis Montag, 25.08.2025, 12:00, Jugendzeltplatz Bonn, Venner Str. 54, 53177 Bonn: **Hack'n'Sun** <a title='Kalendereintrag Hack'n'Sun' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSGFjayduJ1N1bi8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI1MDcyNlQyMTIwMjNaDQpEVFNUQVJUOjIwMjUwODIxVDE1MDAwMA0KRFRFTkQ6MjAyNTA4MjVUMTIwMDAwDQpTVU1NQVJZOkhhY2snbidTdW4NCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vdGVja2lkcy5vcmcvYmxvZy8yMDI1LzAzL2hhY2tuc3VuLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpKdWdlbmR6ZWx0cGxhdHogQm9ublwsIFZlbm5lciBTdHIuIDU0XCwgNTMxNzcgQm9ubg0KR0VPOjUwLjY4MTA4NDs3LjEzMzM5OQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://teckids.org/blog/2025/03/hacknsun/
+* Samstag, 23.08.2025, 10:00, bis Sonntag, 24.08.2025, 17:00, Hannover Congress Centrum (HCC), Theodor-Heuss-Platz 1-3, 30175 Hannover: **Maker Faire Hannover** <a title='Kalendereintrag Maker Faire Hannover' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTWFrZXIgRmFpcmUgSGFubm92ZXIvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTA3MjZUMjEyMDIzWg0KRFRTVEFSVDoyMDI1MDgyM1QxMDAwMDANCkRURU5EOjIwMjUwODI0VDE3MDAwMA0KU1VNTUFSWTpNYWtlciBGYWlyZSBIYW5ub3Zlcg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9tYWtlci1mYWlyZS5kZS9oYW5ub3Zlci8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046SGFubm92ZXIgQ29uZ3Jlc3MgQ2VudHJ1bSAoSENDKVwsIFRoZW9kb3ItSGV1c3MtUGxhdHogMS0zXCwgMzAxNzUgSGFubm92ZXINCkdFTzo1Mi4zNzczOTYyNjI5MjE5Njs5Ljc2OTIxNjI3NTY2NzA3OQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://maker-faire.de/hannover/
+* Montag, 25.08.2025, 18:00, bis Sonntag, 31.08.2025, 22:00, LABOR e.V. Hackspace Bochum, Alleestraße 50, 44793 Bochum: **20 Jahre Labor** <a title='Kalendereintrag 20 Jahre Labor' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vMjAgSmFocmUgTGFib3IvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTA3MjZUMjEyMDIzWg0KRFRTVEFSVDoyMDI1MDgyNVQxODAwMDANCkRURU5EOjIwMjUwODMxVDIyMDAwMA0KU1VNTUFSWToyMCBKYWhyZSBMYWJvcg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93aWtpLmRhcy1sYWJvci5vcmcvdy8yMF9qYWhyZV9sYWJvcg0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpMQUJPUiBlLlYuIEhhY2tzcGFjZSBCb2NodW1cLCBBbGxlZXN0cmHDn2UgNTBcLCA0NDc5MyBCb2NodW0NCkdFTzo1MS40ODA5NDI2OzcuMjA4NjAyOA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://wiki.das-labor.org/w/20_jahre_labor
+* Dienstag, 26.08.2025, 11:30-12:30, online: **CorrelCompact | Open Data für Non-Profits: Schätze finden und nutzen** <a title='Kalendereintrag CorrelCompact | Open Data für Non-Profits: Schätze finden und nutzen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ29ycmVsQ29tcGFjdCB8IE9wZW4gRGF0YSBmw7xyIE5vbi1Qcm9maXRzOiBTY2jDpHR6ZSBmaW5kZW4gdW5kIG51dHplbi8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI1MDcyNlQyMTIwMjNaDQpEVFNUQVJUOjIwMjUwODI2VDExMzAwMA0KRFRFTkQ6MjAyNTA4MjZUMTIzMDAwDQpTVU1NQVJZOkNvcnJlbENvbXBhY3QgfCBPcGVuIERhdGEgZsO8ciBOb24tUHJvZml0czogU2Now6R0emUgZmluZGVuIHVuZCBudXR6ZW4NCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vY29ycmVsYWlkLm9yZy92ZXJhbnN0YWx0dW5nZW4vY2MyNS1vcGVuZGF0YT92aWV3VHlwZT1saXN0DQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://correlaid.org/veranstaltungen/cc25-opendata?viewType=list
+* Dienstag, 26.08.2025, 19:30-21:00, online: **OSM Radinfra-Mapathon #3** <a title='Kalendereintrag OSM Radinfra-Mapathon #3' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT1NNIFJhZGluZnJhLU1hcGF0aG9uICMzLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNzI2VDIxMjAyM1oNCkRUU1RBUlQ6MjAyNTA4MjZUMTkzMDAwDQpEVEVORDoyMDI1MDgyNlQyMTAwMDANClNVTU1BUlk6T1NNIFJhZGluZnJhLU1hcGF0aG9uICMzDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL29zbWNhbC5vcmcvZXZlbnQvMzg0Mi8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://osmcal.org/event/3842/
+* Mittwoch, 27.08.2025, 09:00, bis Sonntag, 31.08.2025, 18:00, Zeltplatz Gunzenberg an der Talsperre Pöhl, Hauptstraße 38, 08543 Pöhl: **thereisno.camp** <a title='Kalendereintrag thereisno.camp' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vdGhlcmVpc25vLmNhbXAvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTA3MjZUMjEyMDIzWg0KRFRTVEFSVDoyMDI1MDgyN1QwOTAwMDANCkRURU5EOjIwMjUwODMxVDE4MDAwMA0KU1VNTUFSWTp0aGVyZWlzbm8uY2FtcA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly90aGVyZWlzbm8uY2FtcA0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpaZWx0cGxhdHogR3VuemVuYmVyZyBhbiBkZXIgVGFsc3BlcnJlIFDDtmhsXCwgSGF1cHRzdHJhw59lIDM4XCwgMDg1NDMgUMO2aGwNCkdFTzo1MC41Mzg3OTI5NTsxMi4xODUyMzU4OTU4NDcwMjUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+  * https://thereisno.camp
+* Donnerstag, 28.08.2025, 11:00-12:00, online: **openCode Connect August 2025: Sovereign Cloud Stack – Die Basis für Digitale Souveränität in der Cloud** <a title='Kalendereintrag openCode Connect August 2025: Sovereign Cloud Stack – Die Basis für Digitale Souveränität in der Cloud' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vb3BlbkNvZGUgQ29ubmVjdCBBdWd1c3QgMjAyNTogU292ZXJlaWduIENsb3VkIFN0YWNrIOKAkyBEaWUgQmFzaXMgZsO8ciBEaWdpdGFsZSBTb3V2ZXLDpG5pdMOkdCBpbiBkZXIgQ2xvdWQvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTA3MjZUMjEyMDIzWg0KRFRTVEFSVDoyMDI1MDgyOFQxMTAwMDANCkRURU5EOjIwMjUwODI4VDEyMDAwMA0KU1VNTUFSWTpvcGVuQ29kZSBDb25uZWN0IEF1Z3VzdCAyMDI1OiBTb3ZlcmVpZ24gQ2xvdWQgU3RhY2sg4oCTIERpZSBCYXNpcyBmw7xyIERpZ2l0YWxlIFNvdXZlcsOkbml0w6R0IGluIGRlciBDbG91ZA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9vcGVuY29kZS5kZS9kZS9ha3R1ZWxsZXMvZXZlbnRzL29wZW5jb2RlLWNvbm5lY3QtYXVndXN0LTIwMjUtNDc4NQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+  * https://opencode.de/de/aktuelles/events/opencode-connect-august-2025-4785
+* Donnerstag, 28.08.2025, 12:00, bis Sonntag, 31.08.2025, 12:00, Jugendraum, K 61, 56459 Todtenberg, Rotenhain, Westerburg: **WAMP - Das Camp im Westerwald** <a title='Kalendereintrag WAMP - Das Camp im Westerwald' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vV0FNUCAtIERhcyBDYW1wIGltIFdlc3RlcndhbGQvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTA3MjZUMjEyMDIzWg0KRFRTVEFSVDoyMDI1MDgyOFQxMjAwMDANCkRURU5EOjIwMjUwODMxVDEyMDAwMA0KU1VNTUFSWTpXQU1QIC0gRGFzIENhbXAgaW0gV2VzdGVyd2FsZA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly90aGVyZWlzbm8uY2FtcA0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpKdWdlbmRyYXVtXCwgSyA2MVwsIDU2NDU5IFRvZHRlbmJlcmdcLCBSb3RlbmhhaW5cLCBXZXN0ZXJidXJnDQpHRU86NTAuNjAzNzg7Ny44ODEyNg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://thereisno.camp
 * Regelmäßige OKLab-Treffen
   * Berlin: jeden zweiten oder dritten Montag im Monat, 19:00-22:00, WikiBär, Köpenicker Straße 45, 10179 Berlin: **Code for Berlin** <a title='Kalendereintrag Code for Berlin' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ29kZSBmb3IgQmVybGluLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNjI5VDExMjkyM1oNCkRUU1RBUlQ6MjAyNTA3MjFUMTkwMDAwDQpEVEVORDoyMDI1MDcyMVQyMjAwMDANClNVTU1BUlk6Q29kZSBmb3IgQmVybGluDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy5tZWV0dXAuY29tL29rLWxhYi1iZXJsaW4NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046V2lraULDpHJcLCBLw7ZwZW5pY2tlciBTdHJhw59lIDQ1XCwgMTAxNzkgQmVybGluDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
     * https://www.meetup.com/ok-lab-berlin
