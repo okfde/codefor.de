@@ -46,12 +46,33 @@ type: blog
   https://upload.wikimedia.org/wikipedia/commons/8/83/2025-07-02_BMUKN_Die_Welt_des_Freien_Wissens.pdf
 * eco Podcast zu Datenspende und Open Source
   https://www.eco.de/news/eco-podcast-zu-datenspende-und-open-source/
+* 1 Jahr Open Data Forum
+  https://www.linkedin.com/posts/bundesverwaltungsamtde_kompetenzzentrumopendata-bundesverwaltungsamt-activity-7357027369733263360-5u4Y
+* Open Data Fortschrittsbericht
+  https://www.linkedin.com/posts/bundesverwaltungsamtde_bundesverwaltungsamt-opendata-transparenz-activity-7354446635227119617-xquL
+  https://www.linkedin.com/posts/activity-7354546631930695680-8BfK
+* Wie Deutschland bei Open Data aufholen kann
+  https://www.aufruhr-magazin.de/digitalisierte-gesellschaft/open-data-von-bund-und-laendern-mehr-transparenz-fuer-die-demokratie/
+* Berlin: Frisch veröffentlicht: Trinkwasserbrunnen als WFS
+  https://daten.berlin.de/datensaetze/trinkwasserbrunnen-wfs-47dba2c3
+  https://mastodontech.de/users/opendataberlin/statuses/114949174522023748
+
+## Linked Open Data
+* 2. Barcamp zu Haushaltsdaten als Linked Open Data in Berlin
+  https://okfn.de/blog/2025/07/2.-barcamp-zu-haushaltsdaten-als-linked-open-data-in-berlin/
+
+## Kommunalwahlen
+* bonn-o-mat.de
+  https://bonn-o-mat.de
 
 ## Open Hardware
 * Open hardware desktop 3D printing is dead - you just don't know it yet
   https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/
 * Der Lautsprecherhersteller Teufel hat die Baupläne für einen Lautsprecher unter eine Open-Source-Lizenz gestellt
   https://www.heise.de/hintergrund/Die-Entwickler-des-Open-Source-Lautsprechers-Teufel-Mynd-im-Interview-10490607.html?seite=all
+* selbstgebautes ESP32‑E‑Ink Wetter‑Dashboard
+  https://www.linkedin.com/posts/soeren-etler_mein-selbstgebautes-esp32eink-wetterdashboard-activity-7356336354076549123-90XY
+  https://github.com/lmarzen/esp32-weather-epd
 
 ## Community
 * Ein Rechercheteam der FAS hat rund 1.000 zufällig ausgewählte Wikipedia-Artikel KI-unterstützt auf Fehler untersucht. Das Ergebnis dokumentiert, wie schwierig es ist, Millionen von Artikeln aktuell zu halten
@@ -72,6 +93,10 @@ type: blog
 * Open Source Maintainer Burn Out ist real
   https://bsky.app/profile/derhoermeyer.bsky.social/post/3ltlvgjdr3c26
   https://open.spotify.com/episode/1LLald1NSJoUiYgw9dthiV?si=Lr1xdtpAQHaJ5Sol0kV9zg&nd=1&dlsi=62bcdb74c3c4433f
+* When We Get Komooted
+  https://bikepacking.com/plog/when-we-get-komooted/
+  https://mastodon.social/@mariafarrell/114941651924521605
+
 
 ## Citizen Science
 * Gaming Cancer: How Citizen Science Games Could Help Cure Disease
@@ -79,6 +104,8 @@ type: blog
 * Eine neue Onlinekarte zeigt, welche seltenen Pflanzenarten auf dem Stadtgebiet von Winterthur noch gedeihen
   https://www.tagesanzeiger.ch/biodiversitaet-in-winterthur-die-vielfalt-an-pflanzen-hat-uns-ueberrascht-769763105700
   via https://wisskomm.social/@FloraIncognita_DE/114873034988152893
+* Free course: Citizen science and global biodiversity
+  https://www.open.edu/openlearn/science-maths-technology/citizen-science-and-global-biodiversity/content-section-overview?active-tab=content-tab
 
 ## Digitale Souveränität
 * Alternativen zu X, Instagram und Co.
@@ -101,6 +128,16 @@ type: blog
   https://www.heise.de/news/Broadcoms-VMware-Uebernahme-EU-Cloudanbieter-verklagen-die-Kommission-10499025.html
 * Microsoft lässt die Cloud des US-Verteidigungsministeriums durch chinesische Software-Ingenieure warten
   https://www.borncity.com/blog/2025/07/16/krass-microsoft-laesst-die-cloud-des-us-verteidigungsministeriums-durch-chinesische-software-ingenieure-warten/
+* Schleswig-Holstein auf dem Weg zur digitalen Souveränität - Die ganze Doku | ARTE
+  Mit Cloud-Zwang, Software-Abos und willkürlichem Support-Ende machen Software-Monopolisten ihre Kunden wirtschaftlich und technisch von sich abhängig. Eine Gegenstrategie bietet sogenannte quelloffene oder Open-Source-Software.
+  https://www.arte.tv/de/videos/128167-000-A/schleswig-holstein-auf-dem-weg-zur-digitalen-souveraenitaet/
+* A sovereign tech fund at the European level
+  https://eu-stf.openforumeurope.org
+  https://mastodon.social/@PrototypeFund/114931590747583964
+* Digitale Souveränität: Argumentationshilfe für resiliente IT-Entscheidungen
+  https://www.golem.de/news/digitale-souveraenitaet-argumentationshilfe-fuer-resiliente-it-entscheidungen-2507-198470.html
+* Wie verändert #openDesk die Zusammenarbeit? 
+  https://social.bund.de/@zendis/114952523511877158
 
 ## Verwaltungsdigitalisierung
 * Open Source hat im Bund keine Lobby
@@ -114,6 +151,14 @@ type: blog
   https://netzpolitik.org/2025/geschichten-aus-dem-dsc-beirat-wie-trumps-drohungen-europaeische-grundrechte-gefaehrden/
 * Wildwuchs an parallelen Lösungen
   https://www.spiegel.de/politik/deutschland/bundesrechnungshof-kritisiert-geldverschwendung-bei-digitalisierung-a-706ea431-18f0-4183-b4b0-5fbc64996cac?s=09
+* Wie man ein neues Ministerium zusammenbaut
+  https://chaosradio.de/cr301-dicke-bretter-diesmal-ueber-die-schwarz-schwarz-roten-und-ihr-neues-digitalministerium
+* Smart City: Hunderte Anwendungen, aber wer bezahlt?
+  https://www.sz-dossier.de/tiefgaenge/smart-city-hunderte-anwendungen-aber-wer-bezahlt-2e10530b
+  https://www.linkedin.com/posts/helen-bielawa-051902145_322-von-667-smart-city-projekten-haben-irgendwas-activity-7355850828949168132-jH0J
+  * Marchitecture or Marketecture
+    https://en.wikipedia.org/wiki/Marketecture
+    https://social.tchncs.de/@fkr/114941541726409649
 
 ## Dashboards
 * "Ein öffentlich zugängliches Verwaltungs-Dashboard stellt keinen Selbstzweck dar, sondern fungiert als Werkzeug, mit dem auf Basis der bereitgestellten Daten gezielte Maßnahmen vorangetrieben und deren Fortschritt kontrolliert werden können."
@@ -165,6 +210,11 @@ type: blog
 * Boden ist Leben – und wird zur Mangelware. Jährlich gehen 100 Mio. Hektar fruchtbares Land verloren. In der Messkampagne CROPEX25 untersuchte das DLR mit Partnern vier Monate lang Böden, Pflanzen und Atmosphäre bei München – aus der Luft, am Boden und via Satellit
   https://bsky.app/profile/dlr-de.bsky.social/post/3luphg3frus2t
   https://www.dlr.de/de/aktuelles/nachrichten/2025/testfluege-ueber-bayern-liefern-daten-fuer-neue-erdbeobachtungsmissionen
+* Berlin gärtnert
+  https://www.linkedin.com/posts/senmvku_die-neue-plattform-berlin-g%C3%A4rtnert-activity-7355924239905886208-RLNy
+  http://berlin.de/gaertnern
+  https://berlingaertnert.odis-berlin.de
+  https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2025/pressemitteilung.1585200.php
 
 ## Mobilität
 * Regenampel
@@ -206,6 +256,13 @@ type: blog
 * Fahrrad-Unfallorte
   https://fahrrad-unfallorte.de
   via https://gruene.social/@tosch/114909815927568640
+* Unser Unfallkalender zeigt jetzt auch, an welchen Tagen in den vergangenen vier Jahren besonders viele E-Scooter-Fahrende verunglückt sind.
+  https://service.destatis.de/DE/verkehrsunfallkalender/
+  https://social.bund.de/@destatis/114946438433984398
+* Helsinki goes a full year without a traffic death
+  https://yle.fi/a/74-20174831
+* Unfallkarte Verstehen und Nutzen
+  https://changing-cities.org/how-to-unfalldaten/
 
 ## Klima
 * Weniger Staus, weniger Luftverschmutzung, weniger Unfälle - New Yorks 6 Monate alten Staugebühren haben vielleicht die schnellste Umweltverbesserung in der Geschichte der USA bewirkt
@@ -238,6 +295,28 @@ type: blog
   https://correctiv.org/aktuelles/klimawandel/2025/07/10/diese-landkreise-haben-die-hoechsten-schaeden-durch-extremwetter/
 * Der Emissionshandel funktioniert – oder auch nicht
   https://www.klimareporter.de/europaeische-union/der-emissionshandel-funktioniert-oder-auch-nicht
+* Alle Staaten sind verpflichtet, das Klima zu schützen.
+  https://perspective-daily.de/article/3840-na-toll-jetzt-muss-man-wieder-hoffnung-haben/GNZi9b98
+  https://fediscience.org/@rahmstorf/114946893446442989
+* Verbesserte Pollenflugvorhersagen: DWD baut vollautomatisches Messnetz auf
+  https://www.stern.de/news/verbesserte-pollenflugvorhersagen--dwd-baut-vollautomatisches-messnetz-auf-35938652.html
+* Ist Klimaschutz wirklich "out"?
+  https://www.derstandard.at/story/3000000279384/ist-klimaschutz-wirklich-out
+* Unversichert in der Klimakrise: Kommunale Gebäude ohne Schutz
+  https://correctiv.org/aktuelles/klimawandel/2025/07/29/unversichert-in-der-klimakrise-kommunale-gebaeude-ohne-schutz/
+* The 3-30-300 🌳 rule
+  https://bsky.app/profile/ec.europa.eu/post/3lvatsl5tgs2p
+  https://environment.ec.europa.eu/strategy/biodiversity-strategy-2030_en
+
+### Zoll-Deal
+* Fracking-LNG aus den USA schadet dem Klima noch mehr als Kohle, ermitteln Forschende. 
+  https://social.cologne/@GeorgEhring/114936425956134322
+  https://www.deutschlandfunk.de/energiedeal-mit-den-usa-was-bedeutet-das-fuer-europa-dr-claudia-kempert-diw-100.html
+  https://social.cologne/@GeorgEhring/114936656324016535
+* Fossiler Zoll-Deal: "Krone der Absurdität"
+  https://www.klimareporter.de/europaeische-union/fossiler-zoll-deal-krone-der-absurditaet
+* TTIP per Handschlag?
+  https://bewegung.social/@lobbycontrol/114947421563945893
 
 ### Hitze
 * Hitztage über die Jahre
@@ -252,6 +331,12 @@ type: blog
 * Hamburg: Wissen der Menschen vor Ort in den Klimaanpassungsplan einbeziehen
   https://klimaanpassung-nord.beteiligung.hamburg/#/contributions/map
   via https://norden.social/@lobidu/114794791583262819
+* Ein neues Klimamodell des Alfred-Wegener-Instituts zeigt, wie stark #Hitze, #Starkregen und andere #Extremwetterereignisse bis 2100 regional zunehmen könnten.
+  https://www.focus.de/earth/deutsche-forscher-zeigen-unsere-klimazukunft_2c847ca6-2d35-4de9-bb12-03698aa6c71e.html
+* HRC – Hitzetool
+  https://hrc-hitzetool.ioer.info
+  https://www.gebaeudeforum.de/themenschwerpunkt/
+  https://wisskomm.social/@ioer/114942114923013502
 
 ### Ozeane
 * Sub-regional Mediterranean sea indicators
@@ -264,10 +349,14 @@ type: blog
 * BaumBie
   * GiessDenKiez für Bielefeld
     https://www.linkedin.com/posts/codeforbi_bald-ist-es-so-weit-baumbie-startet-offiziell-ugcPost-7348765289301389314-rWE4
+* Ein TU-Forschungsprojekt entwickelt Lösungen, um Leckagen in Trinkwassernetzen automatisiert, schnell und präzise zu erkennen
+  https://www.tu.berlin/news/pressemitteilung/mit-high-tech-gegen-die-wassserkrise
 
 ## Energie
 * Subventionsabbau bei Kohle und Öl führt zu mehr Wohlstand
   https://www.handelsblatt.com/unternehmen/energie/fossile-brennstoffe-subventionsabbau-beikohle-und-oel-fuehrt-zu-mehr-wohlstand/100139110.html
+* Energiebedingte CO2-Emissionen seit 2010 um 29,6 % gesunken
+  https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/07/PD25_274_32421.html?nn=2110
 * Helfen lokale Strompreise gegen Engpässe im Stromnetz?
   https://www.klimareporter.de/strom/helfen-lokale-strompreise-gegen-engpaesse-im-stromnetz
   https://www.agora-energiewende.de/daten-tools/agorameter/locational/map/power_price/
@@ -279,6 +368,24 @@ type: blog
   https://www.stuttgarter-nachrichten.de/inhalt.studie-oekostrom-faellt-rasant-unter-preis-von-oel-und-gas.05ec40b7-1e9a-4347-a0c9-a1d526e9000e.html
 * So viele Verbraucher wechseln Energieanbieter wie noch nie
   https://www.zeit.de/news/2025-07/13/so-viele-verbraucher-wechseln-energieanbieter-wie-noch-nie
+* Bundes-Milliarden für den Umweltschutz – 2024: großer Teil geht für Atommüll drauf
+  https://www.bundesumweltministerium.de/ministerium/struktur/finanzen
+  https://bsky.app/profile/annikajoeres.bsky.social/post/3lvctzlbfwk22
+  
+
+## Kultur
+* Der Arbeitskreis Digitale Kunstgeschichte lädt ab August zu einer monatlichen Mittagspause ein
+  https://digitale-kunstgeschichte.de
+  https://fedihum.org/@digitale_kunstgeschichte
+  https://mastodon.social/@kunstgeschichte/114935480540942124
+* Die KZ-Gedenkstätte Dachau hat einen virtuellen 360-Grad-Rundgang durch das Gelände entwickelt. 
+  https://www.sueddeutsche.de/muenchen/dachau/kz-gedenkstaette-dachau-360-grad-rundgang-panoramen-erinnerungsarbeit-internet-li.3287211
+
+## Wirtschaft
+* Kommunale Finanzen – Größtes Defizit in der Geschichte der Bundesrepublik
+  https://www.bertelsmann-stiftung.de/de/themen/aktuelle-meldungen/2025/juli/kommunale-finanzen-groesstes-defizit-in-der-geschichte-der-bundesrepublik
+* Studie: Deshalb ist Chinas Industriepolitik so erfolgreich
+  https://www.surplusmagazin.de/studie-china-industriepolitik-technologie-vorsprung-subventionen/
 
 ## KI, Vibe und Gesang
 * Google's training data includes all your personal data already
@@ -316,6 +423,34 @@ type: blog
   https://github.com/codeforcologne/Lab/blob/master/mcp.pdf
 * LLMoin kann jetzt bundesweit von Ländern und Kommunen genutzt werden
   https://www.dataport-kommunal.de/aktuell/news/nachricht/llmoin-kann-jetzt-bundesweit-von-laendern-und-kommunen-genutzt-werden/
+* The Hater's Guide To The AI Bubble
+  https://www.wheresyoured.at/the-haters-gui/
+  https://chaos.social/@stk/114938228748938132
+* Per API oder Web-App: EcoLogits schätzt Ressourcenverbrauch von Sprachmodellen
+  https://reset.org/api-web-app-ecologits-schatzt-ressourcenverbrauch-sprachmodellen/
+* frictionlessness and "AI"
+  https://tante.cc/2025/07/30/friction-and-not-being-touched/
+* China verstärkt KI-Offensive mit neuen Open-Source-Modellen
+  https://www.telepolis.de/features/China-verstaerkt-KI-Offensive-mit-neuen-Open-Source-Modellen-10504672.html
+* NuExtract 2.0 is a VLM specialized in extracting structured information (JSON output) from texts, PDFs, scans, etc.
+  https://nuextract.ai
+  https://www.linkedin.com/posts/patrick-fleith_time-to-extract-what-you-need-from-your-pdfs-activity-7353668961906925568-HD9Q
+* Supervision
+  https://www.linkedin.com/posts/skalskip92_computervision-objectdetection-opensource-activity-7355515936860209152-zCp4
+  https://github.com/roboflow/supervision
+* KI entwirft Bauplan für einen Beton, der das Klima schützen soll
+  https://t3n.de/news/ki-allegro-fm-entwirft-co2-bindenden-beton-1698873/
+* SPINACH Wikidata Agent
+  https://spinach.genie.stanford.edu
+  https://mastodon.social/@kai_naumann/114937508659590647
+* Schockierende Zahlen: Bericht enthüllt Umweltauswirkungen von KI
+  https://www.basicthinking.de/blog/2025/07/30/ki-umweltbericht/
+* Civic Data Lab Datenlabor: Wie gut funktioniert KI-gestützte Session-Dokumentation?
+  https://civic-data.de/ki-session-dokumentation-im-test-smartphone-vs-profi-mikrofon-datenschutzkonformer-workflow/
+* Ein KI-Agent von ChatGPT hat offenbar eine Captcha-Checkbox im Internet ausgehebelt – und sogar sein Vorgehen kommentiert
+  https://www.basicthinking.de/blog/2025/07/30/ki-chatgpt-agent-captcha/
+* Neue EU-Regeln fordern Transparenz von KI-Modell-Anbietern
+  https://www.tagesspiegel.de/gesellschaft/medien/kunstliche-intelligenz-neue-eu-regeln-fordern-transparenz-von-ki-modell-anbietern-14123351.html
 
 ## Bürokratieabbau
 * Bürokratieabbau kontra Naturschutz in Brandenburg
@@ -339,6 +474,11 @@ type: blog
   https://fragdenstaat.de/artikel/exklusiv/2025/07/die-milliarden-konnten-wir-uns-spahn/  
   * Machtarroganz
     https://bsky.app/profile/mkueper.de/post/3ltbyla5ad22k  
+* Amt durch Stimmenkauf?: Noch mehr Anschuldigungen gegen Caroline Bosbach
+  https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_100844060/caroline-bosbach-jetzt-wird-ihr-stimmenkauf-vorgeworfen.html
+* #Clankriminalität
+  https://www.clankriminalitaet.de
+  https://bewegung.social/users/a_watch/statuses/114952259663550747
 * Mehr "Mut zu Transparenz" im Digitalausschuss - Forderung nach Öffentliche Sitzungen im Digitalausschuss
   https://d-64.org/mut-zu-transparenz/
   https://www.ccc.de/system/uploads/369/original/OffenerBrief_TrasparenzADi.pdf
@@ -355,6 +495,18 @@ type: blog
 * Spürnasen-Erfolg: Mit einer Beschwerde beim EU-Transparenzregister haben wir zahlreiche falsche Angaben von Unternehmen und Verbänden aufgedeckt
   https://www.corporateeurope.org/en/complaint-47-million-changes-lobby-register
   via https://bsky.app/profile/lobbycontrol.bsky.social/post/3lu6dgdiyec2d
+* Das sind die Abgeordneten, die vom Bundestag in den Lobbyismus wechselten
+  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/das-sind-die-abgeordneten-die-vom-bundestag-in-den-lobbyismus-wechselten
+* erstmals wird damit strategische Korruption in Deutschland strafrechtlich geahndet
+  https://mastodon.social/@transparency_de/114942170946126735
+  https://bewegung.social/@lobbycontrol/114942909402505424
+  https://www.zdfheute.de/politik/deutschland/aserbaidschan-affaere-lintner-bestechung-urteil-100.html
+* Die IT des Bundes ist "nicht bedarfsgerecht geschützt" und "nicht auf die aktuellen Bedrohungen vorbereitet"
+  https://chaos.social/@andre_meister/114942518955593417
+  https://netzpolitik.org/wp-upload/2025/07/2025-07-02_BRH_Resilienz-der-staatlichen-Kernfunktionen.pdf
+* Bald greifen die neuen EU-Regeln für politische Online-Werbung
+  https://netzpolitik.org/2025/targeting-und-transparenz-bald-greifen-die-neuen-eu-regeln-fuer-politische-online-werbung/
+  https://cdn.netzpolitik.org/wp-upload/2025/07/2025-07-25_BMDS_RefE_Politische-Werbung.pdf
 
 ## Gefahr von Rechts
 * Naives Verständnis eines neutralen Journalismus
@@ -373,6 +525,13 @@ type: blog
 * Radio geeks reveal how to access crucial hurricane data after US Department of Defense cut it off
   https://www.theregister.com/2025/07/21/ssmis_satellite_decoder
   via https://fediscience.org/@petersuber/114898414211520775
+* Vorauseilendes Schweigen
+  https://www.mdr.de/altpapier/das-altpapier-4268.html
+* Public Health Map uses freely available, openly accessible, federal data to illustrate the local health capacity consequences of rapidly changing policies under this Administration.
+  https://theimpactproject.org/public-health-map/
+  https://sciences.social/@csmarcum/114949468374970178
+* Online Safety Act: Wikipedia could ‘introduce cap’ on British visitors
+  https://www.msn.com/en-gb/money/technology/online-safety-act-wikipedia-could-introduce-cap-on-british-visitors-amid-osa-high-court-challenge/ar-AA1Jrz5d
 
 ## Überwachung
 * Bargeld-Tracking
@@ -381,6 +540,14 @@ type: blog
   https://netzpolitik.org/2025/gesichtserkennung-und-ki-innenminister-dobrindt-plant-neues-sicherheitspaket/
   https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/sicherheitspaket-2-0-palantir-statt-grundrechtsschutz
   https://d-64.social/@erik/114907221422900823
+* Das Überwachungsimperium
+  https://www.blaetter.de/ausgabe/2025/august/das-ueberwachungsimperium
+* Die Gesellschaft für Freiheitsrechte hat heute mit Unterstützung des Chaos Computer Clubs Verfassungsbeschwerde gegen die automatisierte polizeiliche Datenanalyse in Bayern erhoben
+  https://www.ccc.de/de/updates/2025/palantir-bayern
+* Was die Software von Palantir eigentlich macht und warum die GFF das Mittel einer Verfassungsbeschwerde gewählt hat, hat uns Franziska Görlitz von der GFF im Gespräch erzählt.
+  https://radiocorax.de/verfassungsbeschwerde-gegen-einsatz-von-palantir-bei-der-bayrischen-polizei/
+* Die gefährliche und umstrittene Welt von Palantir
+  https://taz.de/ARD-Doku/!6099626/
 
 ## Recap
 * FSiC2025
@@ -390,6 +557,9 @@ type: blog
   https://www.transparency.de/aktuelles/detail/article/jahrestreffen-kommunale-mitglieder-2025
 * Relive The Tech People Want Summit: 2025 Documentation
   https://blog.okfn.org/2025/07/17/relive-the-tech-people-want-summit-2025-documentation/
+* CODING.WATERKANT
+  https://coding.waterkant.sh
+  https://www.linkedin.com/posts/jonas-dagefoerde_ki-digitalisierung-publicai-ugcPost-7354522232443809793-sNXv
 
 ## Und sonst so
 * Permacomputing – The Screenless Office
@@ -410,8 +580,8 @@ type: blog
   https://egovernmentwettbewerb.de/publikumsvoting/
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
-* Dienstag, 05.08.2025, 20:00-22:00, c-base, Rungestraße 20, 10179 Berlin und auch online: **Netzpolitischer Abend** <a title='Kalendereintrag Netzpolitischer Abend' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTmV0enBvbGl0aXNjaGVyIEFiZW5kLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNzI2VDIxMjAyM1oNCkRUU1RBUlQ6MjAyNTA4MDVUMjAwMDAwDQpEVEVORDoyMDI1MDgwNVQyMjAwMDANClNVTU1BUlk6TmV0enBvbGl0aXNjaGVyIEFiZW5kDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpZ2l0YWxlZ2VzZWxsc2NoYWZ0LmRlL2ZlYXR1cmVkX2l0ZW0vbmV0enBvbGl0aXNjaGVyLWFiZW5kLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpjLWJhc2VcLCBSdW5nZXN0cmHDn2UgMjBcLCAxMDE3OSBCZXJsaW4gdW5kIGF1Y2ggb25saW5lDQpHRU86NTIuNTEyOTczNTsxMy40MjAxMzEzDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
-  * https://digitalegesellschaft.de/featured_item/netzpolitischer-abend/
+* Dienstag, 05.08.2025, 20:00-22:00, c-base, Rungestraße 20, 10179 Berlin und auch online: **Netzpolitisches Grillen** <a title='Kalendereintrag Netzpolitischer Abend' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTmV0enBvbGl0aXNjaGVyIEFiZW5kLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNzI2VDIxMjAyM1oNCkRUU1RBUlQ6MjAyNTA4MDVUMjAwMDAwDQpEVEVORDoyMDI1MDgwNVQyMjAwMDANClNVTU1BUlk6TmV0enBvbGl0aXNjaGVyIEFiZW5kDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpZ2l0YWxlZ2VzZWxsc2NoYWZ0LmRlL2ZlYXR1cmVkX2l0ZW0vbmV0enBvbGl0aXNjaGVyLWFiZW5kLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpjLWJhc2VcLCBSdW5nZXN0cmHDn2UgMjBcLCAxMDE3OSBCZXJsaW4gdW5kIGF1Y2ggb25saW5lDQpHRU86NTIuNTEyOTczNTsxMy40MjAxMzEzDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://digitalegesellschaft.de/2025/07/netzpolitisches-grillen-2/
 * Donnerstag, 07.08.2025, 18:00-21:00, WikiBär Wikipedia, Köpenicker Straße 45, 10179 Berlin: **Jugend editiert** <a title='Kalendereintrag Jugend editiert' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSnVnZW5kIGVkaXRpZXJ0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNzI2VDIxMjAyM1oNCkRUU1RBUlQ6MjAyNTA4MDdUMTgwMDAwDQpEVEVORDoyMDI1MDgwN1QyMTAwMDANClNVTU1BUlk6SnVnZW5kIGVkaXRpZXJ0DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy53aWtpbWVkaWEuZGUvdmVyYW5zdGFsdHVuZ2VuL2p1Z2VuZC1lZGl0aWVydC8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046V2lraULDpHIgV2lraXBlZGlhXCwgS8O2cGVuaWNrZXIgU3RyYcOfZSA0NVwsIDEwMTc5IEJlcmxpbg0KR0VPOjUyLjUwMjY3NzA2MjkzNjA3OzEzLjQzOTI1MDM0ODcyMTU0NA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://www.wikimedia.de/veranstaltungen/jugend-editiert/
 * Donnerstag, 07.08.2025, 19:31-19:31, online: **Bits und Bäume Community Treffen** <a title='Kalendereintrag Bits und Bäume Community Treffen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQml0cyB1bmQgQsOkdW1lIENvbW11bml0eSBUcmVmZmVuLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNzI2VDIxMjAyM1oNCkRUU1RBUlQ6MjAyNTA4MDdUMTkzMTAwDQpEVEVORDoyMDI1MDgwN1QxOTMxMDANClNVTU1BUlk6Qml0cyB1bmQgQsOkdW1lIENvbW11bml0eSBUcmVmZmVuDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2JpdHMtdW5kLWJhZXVtZS5vcmcvdGVybWluZS8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
