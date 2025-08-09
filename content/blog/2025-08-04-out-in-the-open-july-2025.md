@@ -63,24 +63,24 @@ Wem die WikiData-Abfragesprache SPARQL und die Recherche der dafür gegebenenfal
 Ein stromsparendes Wetterdashboard auf Basis eines ESP32-Mikrocontrollers und eines 7,5 Zoll E‑Ink-Displays (wie in einem E-Book Reader verwendet) [hat Sören Etler](https://www.linkedin.com/posts/soeren-etler_mein-selbstgebautes-esp32eink-wetterdashboard-activity-7356336354076549123-90XY) auf Grundlage [eines bestehenden Open Source Projekts](https://github.com/lmarzen/esp32-weather-epd) für sich selbst gebaut.
 
 ## Community
-* Ein Rechercheteam der FAS hat rund 1.000 zufällig ausgewählte Wikipedia-Artikel KI-unterstützt auf Fehler untersucht. Das Ergebnis dokumentiert, wie schwierig es ist, Millionen von Artikeln aktuell zu halten
-  https://netzpolitik.org/2025/recherche-der-frankfurter-allgemeinen-sonntagszeitung-wie-hunderte-entdeckte-fehler-in-der-wikipedia-ihre-glaubwuerdigkeit-staerken/
-  https://www.faz.net/aktuell/wirtschaft/wikipedia-ist-nicht-mehr-aktuell-und-hat-viele-fehler-110575350.html
-  via https://chaos.social/@netzpolitik_feed/114810486448269207
+Rund 1.000 zufällig ausgewählte Wikipedia-Artikel hat die Frankfurter Allgemeiner Sonntagszeitung (FAS) mit KI-Unterstützung auf Fehler [untersucht](https://www.faz.net/aktuell/wirtschaft/wikipedia-ist-nicht-mehr-aktuell-und-hat-viele-fehler-110575350.html). Die Auswertung ergab, dass mindestens 20 Prozent der Seiten Informationen enthalten, die nicht mehr aktuell sind, sowie dass es fast nochmal so viele Seiten mit Angaben gibt, die noch nie gestimmt haben. Zurückführend sei dies auf die stagnierende Anzahl an Autoren bei steigender Menge an zu pflegender Artikel. Was vielleicht im ersten Moment gegen die Wikipedia sprechen würde, [sieht Netzpolitik](https://netzpolitik.org/2025/recherche-der-frankfurter-allgemeinen-sonntagszeitung-wie-hunderte-entdeckte-fehler-in-der-wikipedia-ihre-glaubwuerdigkeit-staerken/) im Gegenteil als beste Werbung für deren Community: denn diese reagierte souverän, und legte als erstes [eine Tabelle](https://de.wikipedia.org/wiki/Benutzer:Redrobsche/FAS-Wikipedia) für die von vom FAS-Artikel bemängelten Artikel an, die dann sukzessive abgearbeitet wurde. Parallel wurden mögliche Lösungsansätze [diskutiert](https://de.wikipedia.org/wiki/Wikipedia_Diskussion:Kurier#FAS-Artikel_zur_Zuverl%C3%A4ssigkeit_der_Wikipedia_-_und_eine_Challenge). Am Ende bleibt die unabänderliche Erkenntnis: "Wissen ist und bleibt eine endlose und kollektive Aufgabe."
+
+Die [90-9-1-Regel](https://www.nngroup.com/articles/participation-inequality/?_kx=g8JrMovcpcb7Ktea3b4jHWDlHyOSgCULKtQdpBgGk4E.WQgA9C) besagt, dass in den meisten Online-Communities 90% der Nutzer nur Konsumenten sind, 9% zu mindestens ein wenig Inhalte beisteuern und 1% sich für die meisten Aktivitäten verantwortlich zeichnet. Neben dem allgemeinen Repräsentanzproblem stellt das eine Community auch vor ein Nachhaltigkeitsproblem, wenn Nutzerzahlen steigen, der Berg an Aufgaben (Maintenance, Komplexität, Erwartungen an neue Features, Support und Performanz erfüllt werden wollen) ebenfalls wächst, das aufgebaute Vertrauen nicht verspielt werden soll, dies aber von einer nur wenig wachsenden Gruppen Aktiver erfüllt werden soll. Wie nun die Betreiber von  iOverlander [schmerzlich lernen müssen](https://www.hereandthere.club/post/ioverlanders-pivot-shows-the-cost-of-community-driven-tech). Und auch eben auch die Nutzer, die lernen müssen, dass man ab einen bestimmten Punkt nicht mehr alles kostenlos bekommen kann, da ab einer bestimmten Komplexität Anwendungen nicht mehr nur ehrenamtlich betrieben werden können, sondern ein Full-Time-Job sind, von denen Leute dann auch leben können müssen.
+
+Im schlimmsten Fall [läuft es wie bei Komoot](https://bikepacking.com/plog/when-we-get-komooted/), wo die jahrelang auch durch die Community mit Herzblut aufgebaute Werte schließlich gewinnbringend verscherbelt werden und der neue Betreiber vom Vertrauen / Image der bisherige Anwendung zehrend, Qualität (und damit Kosten) senkt ([Enshittification](https://mastodon.social/@mariafarrell/114941651924521605)) und ggf. sogar Preise erhöht, um den maximalen Gewinn für sich herauszuziehen, zu mindestens so lange, wie eine so im Niedergang befindliche Plattform überhaupt noch Nutzer halten kann und sich Alternativen wie [wanderer.to](https://wanderer.to) noch nicht etabliert haben (bevor sie vielleicht das gleiche Schicksal ereilt).
+
+
 * Umfrage für Engagierte in #Initiativen für nachhaltige Lebensweisen
   https://www.ioew.de/projekt/rolle_von_emotionen_in_sozialen_innovationen_fuer_nachhaltigen_konsum
   via https://mastodon.social/@ioew/114827902194516617
-* The 90-9-1 rule
-  https://www.hereandthere.club/post/ioverlanders-pivot-shows-the-cost-of-community-driven-tech
-  via https://norden.social/@datenschatz/114847098427880644
 * Hardware-Spenden: "Weil es der Staat nicht gebacken bekommt"
   https://netzpolitik.org/2025/hardware-spenden-weil-es-der-staat-nicht-gebacken-bekommt/
+
 * Open Source Maintainer Burn Out ist real
   https://bsky.app/profile/derhoermeyer.bsky.social/post/3ltlvgjdr3c26
   https://open.spotify.com/episode/1LLald1NSJoUiYgw9dthiV?si=Lr1xdtpAQHaJ5Sol0kV9zg&nd=1&dlsi=62bcdb74c3c4433f
-* When We Get Komooted
-  https://bikepacking.com/plog/when-we-get-komooted/
-  https://mastodon.social/@mariafarrell/114941651924521605
+
+
 * What would a something-something-digital-NGO look like that would be able to pick up the fight from
   https://chaos.social/@stk/114825627154853200
   https://chaos.social/@stk/114825621182061366
