@@ -12,29 +12,31 @@ type: blog
 ---
 
 ## Open Data
-### Open Data Fortschritt
-* Open Data Fortschrittsbericht
-  https://www.linkedin.com/posts/bundesverwaltungsamtde_bundesverwaltungsamt-opendata-transparenz-activity-7354446635227119617-xquL
-  https://www.linkedin.com/posts/activity-7354546631930695680-8BfK
-* Wie Deutschland bei Open Data aufholen kann
-  https://www.aufruhr-magazin.de/digitalisierte-gesellschaft/open-data-von-bund-und-laendern-mehr-transparenz-fuer-die-demokratie/
-* Open data success is being driven by collaboration—fueled by shared incentives and supported by strong governance
-  https://www.linuxfoundation.org/research/pathways-to-open-data?hsLang=en
-  via https://social.lfx.dev/@linuxfoundation/114863086176978195
-* Endpunkte-Raten bei Repositoriensysteme
-  https://openbiblio.social/@awinkler/114810567090692048
+### Open-Data-Portal-Verbesserungspotenzial 
+Eric Börner [untersuchte](https://link.springer.com/article/10.1365/s40702-025-01202-7), vor welche Barrieren Open-Data-Portale die Entwickler von Open-Data-basierten Anwendungen immer noch stellen. Die Hürden lassen sich dabei auf die einzelnen Phasen der Open-Data-Wertschöpfungskette herunterbrechen. 
 
-### Open Data Beteiligung
-* Umfrage: Wie zufrieden seid ihr mit den Suchergebnissen auf #GovData?
-  https://fitko.lamapoll.de/Nutzendenbefragung-GOVDATA
-  via https://social.bund.de/@opendata/114823369987675095
-* öffentliche Konsultation der EU-Kommission zur EU-Datenstrategie
-  https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14541-European-Data-Union-Strategy_de
-  via https://social.bund.de/@opendata/114861690151036141
-* 1 Jahr Open Data Forum
-  https://www.linkedin.com/posts/bundesverwaltungsamtde_kompetenzzentrumopendata-bundesverwaltungsamt-activity-7357027369733263360-5u4Y
-* eco Podcast zu Datenspende und Open Source
-  https://www.eco.de/news/eco-podcast-zu-datenspende-und-open-source/
+Im ersten Schritt, dem Finden geeigneter Datensätze, gaben die Interviewten an, immer noch große Probleme haben, an die von ihnen gesuchten Daten zu gelangen. Sei es weil sie über die bestehende Suchfunktion der Portal nicht ausgegeben werden, weil z.B. eine Verschlagwortung auch mit Synonymen fehlt, die Daten über mehrere Portale verstreut erst zusammengetragen werden müssen, oder schlicht, weil die Datensätze tatsächlich fehlen. Als Gegenmaßnahmen wird hier vorgeschlagen, die Such- und Filterfunktionen deutlich auszubauen und die Möglichkeit zu schaffen, Datensätze bei der Stadt konkret anfragen zu können. Proaktiv sollten die Städte im Vorfeld schon ein Bedarfserhebung vornehmen, um die sicherlich knappen personellen Ressourcen auf die Erhebung und Pflege der relevanten Datensätze zu lenken. Allgemein profitiert hier die Datenerfassung in der Phase 0 von einer [gut geleitete Dateneingabe](https://www.fokus.fraunhofer.de/de/dps/news/piveau_07-2025.html). Zudem sollten die durch die [Durchführungsordnung](https://www.govdata.de/informationen/hochwertige-datensaetze) bereits identifizierten hochwertigen Datensätze in jedem Open Data Portal auch als solche markiert werden. 
+
+In der nächsten Phase, der Aufbereitung der Daten, erschweren die mangelnde Verständlichkeit, Qualität und Verknüpfbarkeit der Daten die Arbeit der Nutzenden. Hier würde es schon helfen, wenn die üblichen Standards für Datenformat und -beschreibung genutzt und eingehalten würden, eindeutige Identifikatoren auch bei Aktualisierungen stabil bleiben und semantisch gleiche Entitäten in unterschiedlichen Datensätze dieselben IDs bekommen, um so ihre Verlinkung zu ermöglichen. Datensätze in Open-Data-Portalen sollten generell versioniert sein und auch die alten Versionen dort vorgehalten werden, um Änderungen über die Zeit nachvollziehbar zu machen. Um Qualität und Vergleichbar von Datensätze beurteilen zu können, sind zudem die jeweils verwendeten Messmethoden bzw. -umstände zu dokumentieren (z.B. die Lage der Sensoren für die Luftqualitätsmessung).
+
+Als Unterstützung für die eigentliche Anwendungsentwicklungsphase wird vorgeschlagen, auf den Open-Data-Portalen schon bestehende Anwendungen bzw. Anwendungsideen an den Datensätze zu verlinken, vielleicht sogar ein Forum einzurichten, in denen sich Entwickler austauschen können, sowie häufig gestellte Fragen auf einer entsprechenden FAQ-Seite zu sammeln. Die Daten nicht nur zum Download sondern auch über APIs bereitzustellen ist ebenfalls ein häufig geäußerter Wunsch, dem noch nicht viele Portale nachkommen. Diese könnten die Anwendungen direkt als Datenquellen zu nutzen, statt sich selbst um Datenhaltung und die (manuelle) Aktualisierung kümmern zu müssen. Und wenn Schnittstellen vorhanden sind, sollte deren Existenz und deren Benutzung auch dokumentiert werden, damit niemand [Endpunkte-Raten](https://openbiblio.social/@awinkler/114810567090692048) machen muss. 
+
+Um überhaupt die Mühen der Entwicklung einer Open-Data-Anwendung auf sich nehmen zu wollen, muss absehbar sein, dass der längfristige Betrieb auch gewährleistet werden kann. Datensätze, die nach Veröffentlichung nicht mehr aktualisiert werden, widersprüchliche Lizenzierung, häufige (und meist auch unangekündigte) Datenformats- oder auch Schnittstellenänderungen, die jeweils eine Anpassung der Anwendung nach sich ziehen, sind Risiken, die schon im Vorfeld ausgeräumt gehören. Die Stadt kann den Betrieb auch unterstützen, indem sie selbst Möglichkeit zum Hosting der Anwendung anbieten und auch die Nutzung der App bewerben, indem diese auf einem App-Portal der Stadt prominent platziert wird.  
+
+### Formen der Open Data Beteiligung
+Neben den gezielten Interviews, wie sie für die eben vorgestellte Studie geführt wurden, können natürlich auch [anonyme Umfragen](https://fitko.lamapoll.de/Nutzendenbefragung-GOVDATA) eingesetzt werden, um die Zufriedenheit seiner Nutzenden abzufragen, in dem Fall [von GovData](https://social.bund.de/@opendata/114823369987675095). 
+
+Ein Jahr gibt es nun schon das [Open Data Forum](https://discourse.opencode.de/c/opendata/755). Damit nicht immer dieselben schreiben (müssen) und die Threadlängen auch häufiger mal > 1 werden, möchte man das Forum vor allem in der Zivilgesellschaft [bekannter machen](https://www.linkedin.com/posts/bundesverwaltungsamtde_kompetenzzentrumopendata-bundesverwaltungsamt-activity-7357027369733263360-5u4Y).
+
+Von 23. Mai bis 20. Juli hatten Interessierte Zeit für die zu entwickelnde EU-Datenstrategie der EU-Kommission über einen Fragebogen ihre Anliegen und Gedanken zur Gestaltung der EU-Datenwirtschaft [einzubringen](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14541-European-Data-Union-Strategy_de). Von den gerade mal 171 eingegangen Rückmeldungen kamen mit 34 knapp 20% aus Deutschland. Länderübergreifend haben sich jeweils 10% Nichtregierungsorganisationen und Privatbürger [beteiligt](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14541-European-Data-Union-Strategy/public-consultation_de), Unternehmen und Wirtschaftsverbände kommen dagegen zusammen auf 58%.  
+
+In [dieser einstündigen Folge](https://www.eco.de/news/eco-podcast-zu-datenspende-und-open-source/) des eco-Podcasts "Das Ohr am Netz" geht es um eine ganz andere der Art der Beteiligung, nämlich die freiweilige Datenspende, um so beispielsweise medizinische Forschung und die Stadtplanung von morgen voranzubringen. Mit geeigneter Aggregation und Anonymisierung gäbe es auch keinen Personenbezug mehr und mann könnte sie somit auch als Open Data veröffentlichen.
+
+### Open Data Fortschritt
+[Ein Bericht der Linux Foundation](https://www.linuxfoundation.org/research/pathways-to-open-data?hsLang=en) hat die Diskussionen zum Aufbau von Open Data Infrastrukturen
+in der Session auf World Open Innovation Conference ausgewertet und drei wesentliche Aspekte identifiziert. Zum einen braucht es klare Verantwortlichkeiten und damit einhergehend das Recht, auch Auflagen für Zugang und Umgang setzen zu dürfen, aber eben auch die Pflicht, sich um die Pflege der Daten zu kümmern. Gleichzeitig bedarf es Anreize zur Zusammenarbeit, Daten zu teilen, Daten kollaborativ zu verbessern, und zwar so, dass es ein faires Geben und Nehmen ist und nicht nur eine Seite Daten beisteuert. Um die Einhaltung dieser Fairness und das Austarieren der Interessen zu gewährleisten braucht es entsprechend starke Organisationsstrukturen. 
+
+Das Bundesverwaltungsamt (BVA) hat nochmal die wesentliche Punkte des zweiten [Open-Data-Fortschrittsberichts](https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2025/02/open-data-fortschrittsbericht.html) (vom Februar 2025) auf LinkedIn [zusammengefasst](https://www.linkedin.com/posts/bundesverwaltungsamtde_bundesverwaltungsamt-opendata-transparenz-activity-7354446635227119617-xquL) und auch in Bezug zum [Open Data Ranking](https://opendataranking.de) gesetzt. Die Ergebnisse des Rankings wurden auch im Magazin der Mercator-Stiftung [herangezogen](https://www.aufruhr-magazin.de/digitalisierte-gesellschaft/open-data-von-bund-und-laendern-mehr-transparenz-fuer-die-demokratie/), um zu verstehen, "wie Deutschland bei Open Data aufholen kann".
 
 ### Open Data Wissen
 * how to use Open Data from the city
@@ -158,6 +160,9 @@ type: blog
   https://egovernment-podcast.com/egov225-gov-as-a-platform/
 * Wie man ein neues Ministerium zusammenbaut
   https://chaosradio.de/cr301-dicke-bretter-diesmal-ueber-die-schwarz-schwarz-roten-und-ihr-neues-digitalministerium
+* Bündelung von Online-Services: Sachsen-Anhalt will Vorreiter sein
+  https://www.sz-dossier.de/dossiers/digitalwende/2025-07-15-dienstag
+  https://www.linkedin.com/posts/matthias-punz-805b17175_w%C3%A4hrend-der-bund-noch-an-konzepten-arbeitet-activity-7350763024237883394-lker
 
 ### Praxis
 * KERN UX, ein UX-Standard für die deutsche Verwaltung
@@ -388,6 +393,10 @@ type: blog
 * BaumBie
   * GiessDenKiez für Bielefeld
     https://www.linkedin.com/posts/codeforbi_bald-ist-es-so-weit-baumbie-startet-offiziell-ugcPost-7348765289301389314-rWE4
+ * Smartphone und Gießkanne: Bielefelder Initiative startet Kampagne für Baum-Paten
+   https://www.nw.de/lokal/bielefeld/mitte/24144608_Smartphone-und-Giesskanne-Bielefelder-Initiative-startet-Kampagne-fuer-Baum-Paten.html
+ * https://www.baumbie.org
+   https://www.baumbie.org/baumbie
 * Ein TU-Forschungsprojekt entwickelt Lösungen, um Leckagen in Trinkwassernetzen automatisiert, schnell und präzise zu erkennen
   https://www.tu.berlin/news/pressemitteilung/mit-high-tech-gegen-die-wassserkrise
 
@@ -492,6 +501,8 @@ type: blog
 * The Hater's Guide To The AI Bubble
   https://www.wheresyoured.at/the-haters-gui/
   https://chaos.social/@stk/114938228748938132
+* For the first time, this report reveals emerging tensions in the narrative around AI
+  https://report2025.seismic.org
 
 ### KI in der Verwaltung
 * Neuer KI-Assistenz F13
@@ -500,6 +511,11 @@ type: blog
   https://f13-os.de
 * LLMoin kann jetzt bundesweit von Ländern und Kommunen genutzt werden
   https://www.dataport-kommunal.de/aktuell/news/nachricht/llmoin-kann-jetzt-bundesweit-von-laendern-und-kommunen-genutzt-werden/
+
+### AI Act
+* EU AI Act: Das Ende der geheimen KI-Trainingsdaten
+  https://www.schieb.de/eu-ai-act-das-ende-der-geheimen-ki-trainingsdaten
+* 
 
 ### Neue Modelle und Tools
 * China verstärkt KI-Offensive mit neuen Open-Source-Modellen
@@ -578,6 +594,9 @@ type: blog
   https://fragdenstaat.de/artikel/klagen/2023/01/vbl-klage/
 
 ## Politik
+* Positionspapier der Geoinformationswirtschaft zur 21. Legislaturperiode
+  https://ddgi.de/2025/07/23/positionspapier-der-geoinformationswirtschaft-zur-21-legislaturperiode/
+
 ### Bürokratieabbau
 * Bürokratieabbau kontra Naturschutz in Brandenburg
   https://www.deutschlandfunk.de/buerokratieabbau-kontra-naturschutz-in-brandenburg-100.html
@@ -665,6 +684,8 @@ type: blog
   https://egovernmentwettbewerb.de/publikumsvoting/
 * culture.explore(data) - An Open Cultural Data Hackathon, Staatsbibliothek zu Berlin, 07.10.2025 - 08-10.2025, Anmeldung bis 15.09.2025
   * https://lab.sbb.berlin/culture-explore-data/
+* PIAZZA 2025, Anmeldung von Workshops bis 15.09.2025
+  * https://piazza-konferenz.de/jetzt-anmelden-25/
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Dienstag, 05.08.2025, 20:00-22:00, c-base, Rungestraße 20, 10179 Berlin und auch online: **Netzpolitisches Grillen** <a title='Kalendereintrag Netzpolitisches Grillen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTmV0enBvbGl0aXNjaGVzIEdyaWxsZW4vL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTA4MDJUMTkyMTE5Wg0KRFRTVEFSVDoyMDI1MDgwNVQyMDAwMDANCkRURU5EOjIwMjUwODA1VDIyMDAwMA0KU1VNTUFSWTpOZXR6cG9saXRpc2NoZXMgR3JpbGxlbg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9kaWdpdGFsZWdlc2VsbHNjaGFmdC5kZS8yMDI1LzA3L25ldHpwb2xpdGlzY2hlcy1ncmlsbGVuLTIvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOmMtYmFzZVwsIFJ1bmdlc3RyYcOfZSAyMFwsIDEwMTc5IEJlcmxpbiB1bmQgYXVjaCBvbmxpbmUNCkdFTzo1Mi41MTI5NzM1OzEzLjQyMDEzMTMNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
