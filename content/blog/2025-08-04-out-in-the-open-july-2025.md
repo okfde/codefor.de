@@ -168,58 +168,40 @@ Dass ein an einem OSM-Elemente verlinkte WikiData-Eintrag auf Klick direkt in ei
 
 ## Mobilität
 ### ÖPNV
-* Streckennetz Deutsche Bahn aktuelle Daten?
-  https://social.bund.de/@opendata/114823485843318220
-* Zugfahrplan - Mit Daten von opendata.ch einen Fahrplan erstellen. 
-  https://gnulinux.ch/zugfahrplan
-  via https://social.anoxinon.de/@gnulinux/114895595879050613
-* Transitous Hack Weekend July 2025
-  https://volkerkrause.eu/2025/07/19/transitous-hack-weekend-july-2025.html
-* BuildMyTransit is a web app to design, visualize, and simulate New York City subway systems
-  https://buildmytransit.nyc
-  https://mastodon.social/@kottke/114858598236589522  
+Vom [Transitous Hack Weekend](https://github.com/public-transport/transitous/wiki/Transitous-Hack-Weekend-Berlin,-July-2025) Mitte Juli in Berlin berichtet Volker Krause [auf seinem Blog](https://volkerkrause.eu/2025/07/19/transitous-hack-weekend-july-2025.html).
+
+[Wahlatlas wünscht sich](https://social.bund.de/@opendata/114823485843318220) ein aktualisiertes maschinenlesbares Streckennetz der Deutsche Bahn. Aber scheinbar gibt es diese Daten nur noch [regionenweise](https://mobilithek.info/offers?searchString=%22schienennetz%22&page=2) bei der Mobilithek.
+
+Wie man mit den Daten vom Schweizer [opendata.ch](https://opendata.ch/de/) eine Zugfahrplan auf der Kommandozeile erzeugen kann, [demonstriert Philipp Seitzinger](https://gnulinux.ch/zugfahrplan).
+
+Das U-Bahn-System New Yorks [simulativ verändern](https://mastodon.social/@kottke/114858598236589522) lässt sich mit [BuildMyTransit.nyc](https://buildmytransit.nyc)
 
 ### Wetter und Klima
-* Scrollytelling: Wie gelingt klimafreundliche Mobilität vor Ort?
-  https://krauses.pageflow.io/emw-zeigen-was-moeglich-ist
-  https://www.umweltbundesamt.de/themen/uba-scrollytelling-europas-staedte-machen-mobil
-* "Kühle Spur" - Deutschlands erster an den Klimawandel angepasster Radweg 
-  https://www.zalf.de/de/aktuelles/Seiten/Pressemitteilungen/BTU-Fahrradweg-ZALF.aspx
-  * Cool Way: Beschattete Wanderwege für heiße Tage
-    https://www.linkedin.com/posts/soeren-etler_cool-way-beschattete-wanderwege-f%C3%BCr-hei%C3%9Fe-activity-7345355805837189122-I2s4
-  via https://wisskomm.social/@ZALF_leibniz/114862291046113181
-* Regenampel
-  https://regenampel.de
-  via https://mastodon.pub.solar/@marc/114810263783366892
+Neues Wort gelernt: Scrollytelling. Eben mit dieser Erzähltechnik [wird anschaulich dargelegt](https://krauses.pageflow.io/emw-zeigen-was-moeglich-ist), wie die [Europäische Mobilitätswoche](https://www.umweltbundesamt.de/themen/uba-scrollytelling-europas-staedte-machen-mobil) zum Gelingen klimafreundlicher Mobilität vor Ort beiträgt.
+
+In der Lausitz gibt es mit der ["Kühlen Spur"](https://www.lausitzerseenland.de/de/erleben/radfahren/thematische-tagestouren/artikel-kuehle-spur-auf-schattigen-wegen-durch-die-lausitzer-seenlandschaft.html) Deutschlands ersten an den Klimawandel [angepassten Radweg](https://www.zalf.de/de/aktuelles/Seiten/Pressemitteilungen/BTU-Fahrradweg-ZALF.aspx). 
+
+Wer lieber wandert, kann zu mindestens schon mal den Prototypen ["Cool Way"](https://github.com/soerenetler/schatten_in_konstanz) nutzen, dieser [weist](https://soerenetler.de/de/blog/cool_ways/) beschattete Wanderwege für heiße Tage [aus](https://www.linkedin.com/posts/soeren-etler_cool-way-beschattete-wanderwege-f%C3%BCr-hei%C3%9Fe-activity-7345355805837189122-I2s4).
+
+Wann muss ich mit dem Fahrrad losfahren, um nicht noch in den Regen kommen? - diese Frage [beantwortet](https://mastodon.pub.solar/@marc/114810263783366892) die [Regenampel](https://regenampel.de), einfach Start-Ziel sowie die Fahrgeschwindigkeit angeben.
 
 ### Radverkehr
-* RULES: Ursachen für Regelverstöße im Radverkehr 
-  https://www.regelverstoesse.de
-  https://www.adfc.de/neuigkeit/wie-sicher-fuehlen-sich-radfahrende-in-der-stadt
-  https://www.mobilitaetsforum.bund.de/DE/Themen/Wissenspool/Projekte/NRVP/NRVP_23-25/NRVP_Uni-Freiburg_RULES_2024-2026.html
-  via https://leipzig.adfc.de/neuigkeit/wie-sicher-ist-radfahren-in-leipzig-fuer-dich
-* Warum sollten Radwege ausgebaut werden? Eine neue Studie liefert Antworten
-  https://www.pnas.org/doi/10.1073/pnas.2422334122
-  via https://verkehrswende.social/@CCitiesOrg/114895486746137939
-* Warum nach Jahren noch kein Kilometer Radschnellweg gebaut ist
-  https://www.mdr.de/nachrichten/deutschland/politik/geplante-radschnellwege-sachsen-anhalt-thueringen-foerderung-102.html
+Das Forschungsprojekt [RULES](https://www.mobilitaetsforum.bund.de/DE/Themen/Wissenspool/Projekte/NRVP/NRVP_23-25/NRVP_Uni-Freiburg_RULES_2024-2026.html) untersucht die Ursachen für Regelverstöße von und gegenüber Radfahrenden. Entsprechende anonyme Meldungen über auch selbst begangener Verstöße kann man auf [dieser Karte](https://www.regelverstoesse.de) eintragen und auch die Gründe für sein Verhalten [angeben](https://leipzig.adfc.de/neuigkeit/wie-sicher-ist-radfahren-in-leipzig-fuer-dich). So wird beispielsweise lieber auch Gehwegen gefahren, wenn die Straße als [nicht sicher wahrgenommen wird](https://www.adfc.de/neuigkeit/wie-sicher-fuehlen-sich-radfahrende-in-der-stadt).  
+
+Obwohl [Studien](https://www.pnas.org/doi/10.1073/pnas.2422334122) klar [belegen](https://verkehrswende.social/@CCitiesOrg/114895486746137939), warum Radwege weiter ausgebaut werden sollten, eben weil Radfahren und zu Fuß gehen das Klima schont und die persönliche Gesundheit stärkt, werden auch mangels politischen Willens [kaum Radschnellwege gebaut](https://www.mdr.de/nachrichten/deutschland/politik/geplante-radschnellwege-sachsen-anhalt-thueringen-foerderung-102.html). 
 
 ### Unfälle
-* Fahrrad-Unfallorte
-  https://fahrrad-unfallorte.de
-  via https://gruene.social/@tosch/114909815927568640
-* Unser Unfallkalender zeigt jetzt auch, an welchen Tagen in den vergangenen vier Jahren besonders viele E-Scooter-Fahrende verunglückt sind.
-  https://service.destatis.de/DE/verkehrsunfallkalender/
-  https://social.bund.de/@destatis/114946438433984398
-* Unfallkarte Verstehen und Nutzen
-  https://changing-cities.org/how-to-unfalldaten/
+Changing Cities hat [eine Anleitung geschrieben](https://changing-cities.org/how-to-unfalldaten/), wie man Verkehrs-Unfalldaten findet, sinnvoll aufbereitet, um gefährliche Stellen sichtbar zu machen und so politische Veränderungen anzustoßen.
+
+Eine solche Aufbereitung speziell für Radunfälle bietet z.B. [Fahrrad-Unfallorte](https://fahrrad-unfallorte.de).
+
+Der [Kalender der Verkehrsunfälle](https://service.destatis.de/DE/verkehrsunfallkalender/) vom Statistischen Bundesamt weist nun auch aus, an welchen Tagen in den vergangenen vier Jahren besonders viele E-Scooter-Fahrende [verunglückt sind]( https://social.bund.de/@destatis/114946438433984398). 
 
 ### Verkehrssicherheit
-* Helsinki goes a full year without a traffic death
-  https://yle.fi/a/74-20174831
-* Evaluationsergebnisse GOW30
-  https://www.zukunft-mobilitaet.net/174605/analyse/evaluation-tempo30-hauptstrassennetz-amsterdam-gow30/
-  via https://verkehrswende.social/@zukunftmobil/114857583188556519
+Was ein Stadt-weites 30 km/h Geschwindigkeitslimit bringt, [zeigen die Daten aus Helsinki](https://yle.fi/a/74-20174831), denn hier gab seit Juli 2024 keinen einzigen Verkehrstoten mehr.
+
+Auch die [Evaluationsergebnisse GOW30](https://www.zukunft-mobilitaet.net/174605/analyse/evaluation-tempo30-hauptstrassennetz-amsterdam-gow30/) aus der Einführung von Tempo 30 in einem großen Teil des Amsterdamer Hauptstraßennetzes ab Dezember 2023 weisen in diese Richtung. 
+
 * VCD-Schulwege-Check
   https://www.vcd.org/artikel/vcd-schulwege-check
 
