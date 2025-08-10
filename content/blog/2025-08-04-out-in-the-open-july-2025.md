@@ -202,113 +202,66 @@ Was ein Stadt-weites 30 km/h Geschwindigkeitslimit bringt, [zeigen die Daten aus
 
 Auch die [Evaluationsergebnisse GOW30](https://www.zukunft-mobilitaet.net/174605/analyse/evaluation-tempo30-hauptstrassennetz-amsterdam-gow30/) aus der Einführung von Tempo 30 in einem großen Teil des Amsterdamer Hauptstraßennetzes ab Dezember 2023 weisen in diese Richtung. 
 
-* VCD-Schulwege-Check
-  https://www.vcd.org/artikel/vcd-schulwege-check
+Bis Ende Juli 2025 lief der Aufruf vom [VCD-Schulwege-Check](https://www.vcd.org/artikel/vcd-schulwege-check) an Eltern, Familienangehörige und Aktive, risikoreiche Orte auf der virtuellen Deutschlandkarte [schulwege.de](https://www.schulwege.de/) einzutragen. Eine Veröffentlichung der Ergebnisse ist für September geplant und sollen Argumente liefern für sichere Schulwege für mehr selbstständige Mobilität, Tempo 30 als Regelgeschwindigkeit innerorts und das Ziel der Vision Zero, also keine Verkehrstoten mehr im Straßenverkehr. 
 
 ## Klima
 ### Klimagerechtigkeit
-* Attributionsforschung & Klima(un)gerechtigkeit
-  https://s4f-podcast.de/2025/07/folge-37-attributionsforschung-klimaungerechtigkeit/
-* Erdüberlastungstag immer früher: Menschen haben natürliche Ressourcen für 2025 aufgebraucht
-  https://taz.de/Erdueberlastungstag-immer-frueher/!6103493/
-* Ist Klimaschutz wirklich "out"?
-  https://www.derstandard.at/story/3000000279384/ist-klimaschutz-wirklich-out
+[Der Erdüberlastungstag ist jedes Jahr früher](https://taz.de/Erdueberlastungstag-immer-frueher/!6103493/), dieses Jahr wurden rein rechnerisch bereits am 24. Juli alle natürlichen Ressourcen, die die Natur in einem Jahr produzieren kann, verbraucht.
+
+[Dabei wird Klimaschutz weltweit von großen Mehrheiten unterstützt](https://www.derstandard.at/story/3000000279384/ist-klimaschutz-wirklich-out). Laut Gallup-Umfragen glauben aber nur 43 Prozent der Unterstützenden, dass ihre Mitmenschen auch bereit wären, etwas für das Klima zu tun. Es geht also nicht um die Frage "Klimaschutz ja oder nein", sondern um das wie und wann von Maßnahmen und den strategischen Umgang mit Verzögerern und Verhinderern.  
+
+"Wie ungerecht ist die Klimakrise und was kann uns die Attributionsforschung zu diesem Thema lehren?" Diese Frage erörtert der Scientists for Future Podcast [im Gespräch](https://s4f-podcast.de/2025/07/folge-37-attributionsforschung-klimaungerechtigkeit/) mit der Forscherin Friederike Otto.
 
 ### Rechtssprechung
-* IGH sieht "nachhaltige Umwelt" als Menschenrecht
-  https://www.tagesschau.de/ausland/europa/igh-gutachten-klima-102.html
-* Alle Staaten sind verpflichtet, das Klima zu schützen.
-  https://perspective-daily.de/article/3840-na-toll-jetzt-muss-man-wieder-hoffnung-haben/GNZi9b98
-  https://fediscience.org/@rahmstorf/114946893446442989
+Der Internationale Gerichtshof (IGH) hat in seinem Gutachten eine "saubere, gesunde und nachhaltige Umwelt" [als Menschenrecht bezeichnet](https://www.tagesschau.de/ausland/europa/igh-gutachten-klima-102.html). Er verlangt entsprechend [von allen Staaten](https://perspective-daily.de/article/3840-na-toll-jetzt-muss-man-wieder-hoffnung-haben/GNZi9b98) mehr Einsatz gegen den Klimawandel. Die Erfolgschancen laufender und zukünftiger Klagen könnten jetzt deutlich steigen, da sich Gerichte eben auf die ausformulierten Rechtsstandards des IGH-Gutachtens nun berufen können. Der IGH selbst hatte schon angedeutet, dass betroffene Länder Reparationszahlungen von den Verursachern einfordern könnten.
 
 ### Pollenflug
-* Das europäische Copernicus-Programm zur Überwachung der Erdatmosphäre stellte dieses Jahr im Mai ein Rekordhoch an Birkenpollen fest, hauptsächlich im Nordosten Europas
-  https://taz.de/Effekte-der-Klimakrise/!6098724/
-  https://atmosphere.copernicus.eu/cams-air-boreal-spring-2025
-* Verbesserte Pollenflugvorhersagen: DWD baut vollautomatisches Messnetz auf
-  https://www.stern.de/news/verbesserte-pollenflugvorhersagen--dwd-baut-vollautomatisches-messnetz-auf-35938652.html
+Das europäische [Copernicus-Programm](https://atmosphere.copernicus.eu/cams-air-boreal-spring-2025) zur Überwachung der Erdatmosphäre hat für Mai diesen Jahres ein Rekordhoch an Birkenpollen [festgestellt](https://taz.de/Effekte-der-Klimakrise/!6098724/). Durch den Klimawandel beginnt die Phase des Pollenflugs immer früher, damit steigt auch das Pollenaufkommen, auch Mastjahre der Bäume häufen sich, in diesen produzierten Bäume besonders viel Pollen. Die Pollen werden zudem immer aggressiver, da Ozon und Kohlenstoffdioxid in der Luft bei ihnen eine Schutzreaktion auslösen, wodurch mehr Eiweiß freigesetzt wird, der wiederum allergisch wirkt.
+
+Der Deutsche Wetterdienst (DWD) baut gerade [ein vollautomatisches Messnetz auf](https://www.stern.de/news/verbesserte-pollenflugvorhersagen--dwd-baut-vollautomatisches-messnetz-auf-35938652.html), um seine Pollenflugvorhersagen zu verbessern.
 
 ### Wirtschaft
-* Diese Landkreise haben die höchsten Schäden durch Extremwetter
-  https://correctiv.org/aktuelles/klimawandel/2025/07/10/diese-landkreise-haben-die-hoechsten-schaeden-durch-extremwetter/
-* Die unterschätzte Bedrohung für die deutsche Industrie
-  Nicht #Energiekosten oder #Bürokratie sind das größte Risiko für die deutsche #Industrie, sondern die Folgen des #Klimawandels.
-  https://www.zeit.de/wirtschaft/2025-07/klimakrise-deutschland-industrie-klimaschaeden-energie-buerokratie
-  via https://mastodon.online/@tinoeberl/114841644930402668
-* Unversichert in der Klimakrise: Kommunale Gebäude ohne Schutz
-  https://correctiv.org/aktuelles/klimawandel/2025/07/29/unversichert-in-der-klimakrise-kommunale-gebaeude-ohne-schutz/
+Nicht die viel bejammerten Energiekosten und Bürokratie sind die größte Bedrohung für die deutsche Industrie, sondern die gern verdrängten [Folgen des Klimawandels](https://www.zeit.de/wirtschaft/2025-07/klimakrise-deutschland-industrie-klimaschaeden-energie-buerokratie). So sanken die Erträge von Getreide und Mais in den Dürrejahren 2018, 2019 und 2022 um bis zu 25 Prozent. Auch Lieferketten sind von den schwereren Auswirkungen an anderen Stellen in der Welt [betroffen](https://mastodon.online/@tinoeberl/114841644930402668). Und von den 33 Milliarden Euro Schäden bei der Flutkatastrophe im Ahrtal waren gerade mal ein Drittel versichert. [Wie correctiv recherchiert hat](https://correctiv.org/aktuelles/klimawandel/2025/07/29/unversichert-in-der-klimakrise-kommunale-gebaeude-ohne-schutz/), versichern manche Kommunen wegen zu hoher Kosten ihre Gebäude schon gar nicht mehr gegen Extremwetter. Im Katastrophenfall dürfen dann Bund und Steuerzahler zahlen. Ebenfalls von correctiv stammt [die Datenauswertung](https://correctiv.org/aktuelles/klimawandel/2025/07/10/diese-landkreise-haben-die-hoechsten-schaeden-durch-extremwetter/) der zerstörerischsten Extremwetter-Ereignisse in Deutschland zwischen 2002-2022. So waren vor allem Rheinland-Pfalz, Bayern und Sachsen und konkret die Mittel- und Hochgebirge am stärksten betroffen.
 
 ### Hitze
-* Ein neues Klimamodell des Alfred-Wegener-Instituts zeigt, wie stark #Hitze, #Starkregen und andere #Extremwetterereignisse bis 2100 regional zunehmen könnten.
-  https://www.focus.de/earth/deutsche-forscher-zeigen-unsere-klimazukunft_2c847ca6-2d35-4de9-bb12-03698aa6c71e.html
-* Temperaturanomalie Juni
-  https://norden.social/@grimm/114827939254712564
-* Hitztage über die Jahre
-  https://norden.social/@datenschatz/114782572564792178
-* Sommer 2025 in Europa: Schon jetzt dreimal mehr Hitzetote durch Klimawandel
-  https://www.tagesschau.de/wissen/klima/bilanz-hitzetote-europa-100.html
-* Hamburg: Wissen der Menschen vor Ort in den Klimaanpassungsplan einbeziehen
-  https://klimaanpassung-nord.beteiligung.hamburg/#/contributions/map
-  via https://norden.social/@lobidu/114794791583262819
-* HRC – Hitzetool
-  https://hrc-hitzetool.ioer.info
-  https://www.gebaeudeforum.de/themenschwerpunkt/
-  https://wisskomm.social/@ioer/114942114923013502
+Das neue Klimamodell des Alfred-Wegener-Instituts kann [in 9km Auflösung zeigen](https://www.focus.de/earth/deutsche-forscher-zeigen-unsere-klimazukunft_2c847ca6-2d35-4de9-bb12-03698aa6c71e.html), wie stark Hitze, Starkregen und andere Extremwetterereignisse bis 2100 regional zunehmen könnten.
+
+Der Juni in Deutschland war [drei Grad wärmer](https://norden.social/@grimm/114827939254712564) als das langjährige Mittel zwischen 1961 und 1990. Etwas, was sich auch in der Entwicklung der Anzahl der Hitzetage pro Jahr von 1965 bis 2024 [zeigt](https://norden.social/@datenschatz/114782572564792178).
+
+[Eine Schnellstudie hat ergeben](https://www.tagesschau.de/wissen/klima/bilanz-hitzetote-europa-100.html), dass die Juni-Hitzewelle in Europa schon jetzt zu dreimal mehr Hitzetote geführt hat, da durch den Klimawandel die Temperaturen noch höher waren.
+
+Mit den [neuen Hitzetools](https://hrc-hitzetool.ioer.info) vom IÖR lassen sich Hitzeanpassungsmaßnahmen im [Freiraum](https://hrc-hitzetool.ioer.info/tool_freiflaechen.php) und in [Wohngebäuden](https://hrc-hitzetool.ioer.info/tool_gebaeude.php) bewerten. Mehr Hintergründe gibt es im Dossier [Klimaresilienz](https://www.gebaeudeforum.de/themenschwerpunkt/) vom [Gebäudeforum klimaneutral](https://www.gebaeudeforum.de/). 
+
+Hamburg möchte das Wissen der Menschen vor Ort in ihren Klimaanpassungsplan einbeziehen und fragt in [seinem Beteiligungstool](https://klimaanpassung-nord.beteiligung.hamburg/#/contributions/map) sowohl persönliche Betroffenheit als auch Umsetzungsideen ab.
 
 ### Wasser
-* Sub-regional Mediterranean sea indicators
-  https://apps.socib.es/subregmed-indicators/ocean_temperature.htm
-  via https://dju.social/@DerKlimablog/114808495936878862
-* Der Elbe geht das Wasser aus
-  https://taz.de/Niedrigwasser-durch-Klimakrise/!6098381/
-* Gletscherschmelze: reusing older #data for a new purpose
-  https://www.nature.com/articles/s41467-025-59293-1
-  https://scitechdaily.com/scientists-just-turned-dusty-navy-photos-into-a-climate-time-bomb/
-  via https://fediscience.org/@petersuber/114829371931327463
+Neben der steigenden Oberflächentemperatur ist die noch viel stärker [steigende Temperaturen der Ozeane](https://apps.socib.es/subregmed-indicators/ocean_temperature.htm), z.B. des Mittelmeeres, [noch viel besorgniseregender](https://dju.social/@DerKlimablog/114808495936878862). 
+
+Gleichzeitig werden für die Elbe neue Rekord-Tiefstände [verzeichnet](https://taz.de/Niedrigwasser-durch-Klimakrise/!6098381/). Durch das Niedrigwasser konnten Schiffe nur mit halber oder ein Viertel ihrer normalen Fracht fahren.
+
+Wissenschaftler haben alte Navy-Fotografien unter anderen Gesichtspunkten [ausgewertet](https://scitechdaily.com/scientists-just-turned-dusty-navy-photos-into-a-climate-time-bomb/). Die wiederentdeckten Luftaufnahmen der Antarktis von 1966 helfen nun die Dynamiken des Zusammenbrechens der Eisschichten [besser zu verstehen](https://www.nature.com/articles/s41467-025-59293-1), und was das für die steigenden Meeresspiegel bedeutet.
 
 ### Maßnahmen
-* Paris kühlt sich während der Hitzewelle dank der Begrünung ab
-  https://www.derstandard.at/story/3000000277731/paris-kuehlt-sich-waehrend-der-hitzewelle-dank-der-begruenung-ab
-  passend dazu: https://muenchen.social/@joerg_spengler/114821519844802872
-* Wie sich Spaniens Städte gegen Extremhitze wappnen
-  https://www.deutschlandfunk.de/wie-sich-spaniens-staedte-gegen-extremhitze-wappnen-100.html
-* "Tegelwippen" – Wie Städte sich besser an den Klimawandel anpassen können
-  https://www.telepolis.de/features/Tegelwippen-Wie-Staedte-sich-besser-an-den-Klimawandel-anpassen-koennen-10494670.html
-* The 3-30-300 🌳 rule
-  https://bsky.app/profile/ec.europa.eu/post/3lvatsl5tgs2p
-  https://environment.ec.europa.eu/strategy/biodiversity-strategy-2030_en
-* Weniger Staus, weniger Luftverschmutzung, weniger Unfälle - New Yorks 6 Monate alten Staugebühren haben vielleicht die schnellste Umweltverbesserung in der Geschichte der USA bewirkt
-  https://www.theguardian.com/us-news/2025/jul/09/new-york-city-congestion-pricing-trump
-  via https://social.tchncs.de/@kaffeeringe/114827845644367664
+Die getroffenen Maßnahmen zur stärkeren Begrünung Paris' zeigen Wirkung: gerade bei sommerlicher Hitze [senkt sie Temperaturen deutlich](https://www.derstandard.at/story/3000000277731/paris-kuehlt-sich-waehrend-der-hitzewelle-dank-der-begruenung-ab). Auch in Spanien werden [ähnliche Maßnahmen ergriffen](https://www.deutschlandfunk.de/wie-sich-spaniens-staedte-gegen-extremhitze-wappnen-100.html).
+
+Dass Bodenversiegelung mehrfach problematisch ist, [rückt immer stärker ins Bewusstsein](https://www.telepolis.de/features/Tegelwippen-Wie-Staedte-sich-besser-an-den-Klimawandel-anpassen-koennen-10494670.html). Neben Hitze verhindern sie auch das Versickern von Regenwasser. Also mehr entsiegeln! Was in den Niederlanden Tegelwippen genannt wird, haben Studierende der Hochschule für Gesellschaftsgestaltung in Koblenz als ["Abpflastern"](https://www.abpflastern.de) nach Deutschland geholt.
+
+Nachdem wir schon die 90-9-1 Regel hatten, geht es jetzt um die [3-30-300 Regel](https://bsky.app/profile/ec.europa.eu/post/3lvatsl5tgs2p): jeder sollte von seinem Zuhause mindestens 3 Bäume sehen können, die unmittelbare Nachbarschaft sollte mindestens 30 Prozent Baumkronenbedeckung aufweisen und die nächste Grünfläche / Park sollte nur maximal 300 Meter entfernt sein. Wo die EU in der Umsetzung ihrer [Biodiversitätsstrategie 2030](https://environment.ec.europa.eu/strategy/biodiversity-strategy-2030_en) kann man über einen entsprechenden [Tracker](https://dopa.jrc.ec.europa.eu/kcbd/actions-tracker/) verfolgen.
+
+Gerade mal 6 Monate ist es her, dass die USA [Staugebühren](https://www.forschungsinformationssystem.de/servlet/is/387487/) eingeführt haben, und schon jetzt haben sie zu weniger Staus, weniger Luftverschmutzung und weniger Unfällen [geführt](https://www.theguardian.com/us-news/2025/jul/09/new-york-city-congestion-pricing-trump).
 
 ### Emissionshandel
-* Umweltbundesamt stellt Bericht über Emissionshandel vor
-  https://www.tagesschau.de/multimedia/sendung/tagesthemen/video-1487086.html
-* Der Emissionshandel funktioniert – oder auch nicht
-  https://www.klimareporter.de/europaeische-union/der-emissionshandel-funktioniert-oder-auch-nicht
+Inwieweit das komplexe marktwirtschaftliche Instrument des Emissionshandel (inzwischen auch schon 20 Jahre) wirklich die CO2-Emissionen senkt, lässt sich immer noch [nicht genau beziffern](https://www.klimareporter.de/europaeische-union/der-emissionshandel-funktioniert-oder-auch-nicht), da auch andere Effekte zur Reduktion beigetragen haben. Beim Umweltbundesamt (UBA) sieht man die Entwicklung [trotzdem positiv](https://www.umweltbundesamt.de/presse/pressemitteilungen/20-jahre-europaeischer-emissionshandel-deutsche). Klar ist aber auch die Lasten für die, die keine Ausweichmöglichkeiten, [fair verteilen und sozial abfedern muss](https://www.tagesschau.de/multimedia/sendung/tagesthemen/video-1487086.html), z.B. über ein Klimageld, damit sowohl die Akzeptanz als die gewünschte Steuerungswirkung erhalten bleiben.
 
 ### Tools
-* KliX³-Toolbox!
-  https://klix3.de/toolbox/willkommen/
-* BaumBie
-  * GiessDenKiez für Bielefeld
-    https://www.linkedin.com/posts/codeforbi_bald-ist-es-so-weit-baumbie-startet-offiziell-ugcPost-7348765289301389314-rWE4
- * Smartphone und Gießkanne: Bielefelder Initiative startet Kampagne für Baum-Paten
-   https://www.nw.de/lokal/bielefeld/mitte/24144608_Smartphone-und-Giesskanne-Bielefelder-Initiative-startet-Kampagne-fuer-Baum-Paten.html
- * https://www.baumbie.org
-   https://www.baumbie.org/baumbie
-* Ein TU-Forschungsprojekt entwickelt Lösungen, um Leckagen in Trinkwassernetzen automatisiert, schnell und präzise zu erkennen
-  https://www.tu.berlin/news/pressemitteilung/mit-high-tech-gegen-die-wassserkrise
+Über die [KliX³-Toolbox](https://klix3.de/toolbox/willkommen/) kann man sich seinen individuellen Klimaplan zusammenstellen und auch die Daten seiner jährlichen CO2-Bilanz anonymisiert für eine Langzeitstudie spenden.
+
+Mit [BaumBie](https://www.baumbie.org/baumbie) hat nun [Code for Bielefeld](https://www.linkedin.com/posts/codeforbi_bald-ist-es-so-weit-baumbie-startet-offiziell-ugcPost-7348765289301389314-rWE4) eine Baumgieß-App für ihre Stadt [offziell an den Start gebracht](https://www.nw.de/lokal/bielefeld/mitte/24144608_Smartphone-und-Giesskanne-Bielefelder-Initiative-startet-Kampagne-fuer-Baum-Paten.html).
+
+In einem [TU-Forschungsprojekt](https://www.tu.berlin/news/pressemitteilung/mit-high-tech-gegen-die-wassserkrise) werden Lösungen entwickelt, um Leckagen in Trinkwassernetzen automatisiert zu erkennen.
 
 ### Zoll-Deal
-* Fracking-LNG aus den USA schadet dem Klima noch mehr als Kohle, ermitteln Forschende. 
-  https://social.cologne/@GeorgEhring/114936425956134322
-  https://www.deutschlandfunk.de/energiedeal-mit-den-usa-was-bedeutet-das-fuer-europa-dr-claudia-kempert-diw-100.html
-  https://social.cologne/@GeorgEhring/114936656324016535
-* Fossiler Zoll-Deal: "Krone der Absurdität"
-  https://www.klimareporter.de/europaeische-union/fossiler-zoll-deal-krone-der-absurditaet
-* TTIP per Handschlag?
-  https://bewegung.social/@lobbycontrol/114947421563945893
+In dem von der EU mit den USA geschlossenen Zoll-Deal hat sich die EU verpflichtet, bis zum Ende der aktuellen US-amerikanischen Legislatur (also 3 Jahre) Energieimporte im Wert von 750 Milliarden US-Dollar abzunehmen, vor allem Flüssigerdgas (LNG), Erdöl aber auch Uran - ein [klimapolitischer Totalschaden](https://www.klimareporter.de/europaeische-union/fossiler-zoll-deal-krone-der-absurditaet). [Denn Forschende haben errechnet](https://www.deutschlandfunk.de/energiedeal-mit-den-usa-was-bedeutet-das-fuer-europa-dr-claudia-kempert-diw-100.html), dass das Fracking-LNG dem Klima noch mehr schade, als Kohle. Ein Papier der US-Regierung deutet außerdem an, dass die USA den Zoll-Deal im Sinne des jahrelang von Aktivisten bekämpften TTIP-Abkommens [interpretieren wollen](https://bewegung.social/@lobbycontrol/114947421563945893).
 
 ## Energie
 ### Energiewende
