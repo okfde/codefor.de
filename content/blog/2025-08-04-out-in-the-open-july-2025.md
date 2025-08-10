@@ -84,42 +84,28 @@ Wer mehr über Citizen Science erfahren möchte, kann nun [diesen freien Online-
 
 ## Digitale Souveränität
 ### Verwaltung 
-* Digitale Souveränität für Kommunen: Was bringt es, unabhängig zu sein?
-  https://www.treffpunkt-kommune.de/digitale-souveraenitaet-was-bringt-es-digital-unabhaengig-zu-sein/
-* Schleswig-Holstein auf dem Weg zur digitalen Souveränität - Die ganze Doku | ARTE
-  Mit Cloud-Zwang, Software-Abos und willkürlichem Support-Ende machen Software-Monopolisten ihre Kunden wirtschaftlich und technisch von sich abhängig. Eine Gegenstrategie bietet sogenannte quelloffene oder Open-Source-Software.
-  https://www.arte.tv/de/videos/128167-000-A/schleswig-holstein-auf-dem-weg-zur-digitalen-souveraenitaet/
-* Wie verändert #openDesk die Zusammenarbeit? 
-  https://social.bund.de/@zendis/114952523511877158
+In einem [kurzen arte-Beitrag](https://www.arte.tv/de/videos/128167-000-A/schleswig-holstein-auf-dem-weg-zur-digitalen-souveraenitaet/) wird an ein paar Beispielen gezeigt, wie man sich in Schleswig-Holstein mit Open Source digital souverän machen möchte. Vorgestellt wird die Software-Suite [Firemon 112](https://www.firemon112.de) zur Einsatzvorbereitung und -verwaltung für Feuerwehren, die [hier von den Kamaraden selbst offen entwickelt wird](https://bitbucket.org/gladder/workspace/projects/F1). Aber auch der Einsatz von LibreOffice und Linux in der schleswig-holsteiner Verwaltung wird angesprochen.
+
+Die Open Source Business Alliance hat [hier nochmal zusammengefasst](https://www.treffpunkt-kommune.de/digitale-souveraenitaet-was-bringt-es-digital-unabhaengig-zu-sein/), warum es gerade für Kommunen wichtig ist, digital unabhängig zu sein.
+
+Ein [Promo-Video](https://social.bund.de/@zendis/114952523511877158) des [ZenDiS](https://www.zendis.de) veranschaulicht schön, wie [OpenDesk](https://www.opendesk.eu/de) die Zusammenarbeit in der Öffentlichen Verwaltung zum Besseren verändern kann. 
 
 ### Alternativen
-* Alternativen zu X, Instagram und Co.
-  https://blog.wikimedia.de/2025/07/03/fediverse/
-  * passend dazu: Ist dieses Fediverse mit Mastodon eine Alternative zu Meta, X & Co.? Wir fragten Stephanie Henkel
-    https://www.l-iz.de/leben/gesellschaft/2025/07/ist-dieses-fediverse-mit-mastodon-eine-alternative-zu-meta-x-co-wir-fragten-stephanie-henkel-629146
-  * Was machen Universitäten im Fediverse, wie zufrieden sind sie und wer fehlt? Das habe ich recherchiert und die 42 (sic!) größten deutschen Universitäten befragt.  
-    https://www.riffreporter.de/de/technik/hochschulen-fediverse-mastodon-wissenschaftskommunikation-social-media
-    https://www.deutschlandfunk.de/x-frei-wie-hochschulen-ihre-social-media-praesenz-neu-organisieren-100.html
-    https://reporter.social/@pikarl/114895547755049953
-* OpenProject + XWiki als Privacy-First Alternative zu Atlassians Jira & Confluence
-  https://www.openproject.org/blog/open-source-jira-confluence-alternative/
-  via https://fosstodon.org/@openproject/114782562871553258
+Franziska Kelch stellt auf dem [Wikipedia-Blog](https://blog.wikimedia.de/2025/07/03/fediverse/) Alternativen zu den großen Social-Media-Plattformen von BigTech vor: [Mastodon](https://joinmastodon.org/de) statt Elon Musks X, [Pixelfed](https://pixelfed.org) statt Metas Instagram, [PeerTube](https://joinpeertube.org/de/) statt Googles Youtube, [Loops](https://loops.video) statt dem chinesischen TikTok, [BookWyrm](https://joinbookwyrm.com/de/) statt Amazons Goodreads, [Friendica](https://friendi.ca) statt Zuckerbergs Facebook. Mehr Einblicke ins Fediverse gibt Ückück [in diesem Online-Artikel](https://www.l-iz.de/leben/gesellschaft/2025/07/ist-dieses-fediverse-mit-mastodon-eine-alternative-zu-meta-x-co-wir-fragten-stephanie-henkel-629146).
+
+Andererseits [fremdeln](https://www.riffreporter.de/de/technik/hochschulen-fediverse-mastodon-wissenschaftskommunikation-social-media) viele Hochschulen immer noch mit dem Fediverse, weil es ihre Erwartungen an die gewünschte (und von X gewohnte) Reichweite nicht erfüllt. Wie im [Deutschlandfunk-Beitrag](https://www.deutschlandfunk.de/x-frei-wie-hochschulen-ihre-social-media-praesenz-neu-organisieren-100.html) nachzuhören, geben viele Unis dem [Matthäus-Effekt](https://de.wikipedia.org/wiki/Matth%C3%A4us-Effekt) nach und gehen zwar von X weg, aber dann doch wieder zu den großen kommerziellen Plattform wie LinkedIn von Microsoft oder Instagram von Meta, statt eigene Fediverse-Instanzen zu hosten und so vielleicht etwas zum Erreichen einer [kritischen Masse](https://de.wikipedia.org/wiki/Kritische_Masse_(Spieltheorie)) beizutragen. 
+
+Auch Atlassian hat sich mit seinen Lösungen JIRA und Confluence zu einem Platzhirsch entwickelt, dass die Nutzenden inzwischen kräftig im Geldbeutel spüren. Auch die Möglichkeiten des On-Premise-Hostings wurden bereits 2022 eingestellt, Cloudzwang mit Lizenzgebühren pro Nutzer und Monat ist lukrativer für den Anbieter. Mit [OpenProject](https://www.openproject.org/) und [XWiki](https://www.xwiki.org/) haben nun zwei Projekte [eine Partnerschaft geschlossen](https://www.openproject.org/de/blog/open-source-jira-confluence-alternative/), um eine datenschutzfreundlichere, kostengünstigere, integrierte Open Source Alternative für Projekt- und Wissensmanagement anbieten zu können.
 
 ### Big Tech
-* Ein Microsoft-Manager hat nun aber unter Eid bestätigt: Eine Garantie, dass keine Daten an US-Behörden weitergegeben werden, ist nicht möglich." 
-  https://www.itmagazine.ch/artikel/85137/Unter_Eid_Microsoft_kann_Schutz_vor_Cloud_Act_nicht_garantieren.html
-  via https://mastodon.social/@ReginaMuehlich/114875018810725147
-* Der CISPE-Verband europäischer Cloudanbieter zieht vors EU-Gericht, weil die Kommission den milliardenschweren Kauf von VMware durch Broadcom genehmigt hat.
-  https://www.heise.de/news/Broadcoms-VMware-Uebernahme-EU-Cloudanbieter-verklagen-die-Kommission-10499025.html
-* Microsoft lässt die Cloud des US-Verteidigungsministeriums durch chinesische Software-Ingenieure warten
-  https://www.borncity.com/blog/2025/07/16/krass-microsoft-laesst-die-cloud-des-us-verteidigungsministeriums-durch-chinesische-software-ingenieure-warten/
+Nicht, dass man es sich nicht eh schon längst hätte denken können, aber ein Microsoft-Manager [musste nun unter Eid zugegeben](https://www.itmagazine.ch/artikel/85137/Unter_Eid_Microsoft_kann_Schutz_vor_Cloud_Act_nicht_garantieren.html), dass eine Garantie, keine Daten an US-Behörden weiterzugegeben, nicht gegeben werden könne. Doppelt pikant in diesem Zusammenhang auch, sparfüchsig wie man ist, hatte Microsoft die Wartung von im US-Verteidigungsministerium eingesetzten Computersystemen an Software-Ingenieure in China [ausgelagert](https://www.propublica.org/article/microsoft-digital-escorts-pentagon-defense-department-china-hackers). 
+
+Aufgabe von [Wettbewerbsbehörden](https://de.wikipedia.org/wiki/Wettbewerbsbeh%C3%B6rde) sollte es eigentlich sein, zu verhindern, dass Unternehmen in marktbeherrschende Stellung kommen und so den fairen Wettbewerb gefährden. Beim Kauf von VMware durch Broadcom hat man aus unerfindlichen Gründen diese Gefahr nicht gesehen, in Folge kam es zu drastischen Kostensteigerungen. Der CISPE-Verband europäischer Cloudanbieter hat daher nun Klage beim EU-Gericht gegen die Genehmigung der EU-Kommission [eingereicht](https://www.heise.de/news/Broadcoms-VMware-Uebernahme-EU-Cloudanbieter-verklagen-die-Kommission-10499025.html).
 
 ### Wirtschaft
-* A sovereign tech fund at the European level
-  https://eu-stf.openforumeurope.org
-  https://mastodon.social/@PrototypeFund/114931590747583964
-* Digitale Souveränität: Argumentationshilfe für resiliente IT-Entscheidungen
-  https://www.golem.de/news/digitale-souveraenitaet-argumentationshilfe-fuer-resiliente-it-entscheidungen-2507-198470.html
+Auch in Unternehmen halten Entscheider aus Bequemlichkeit an der Nutzung von BigTech-Lösung fest. Auf Golem gibt es [ein paar Argumentationshilfen](https://www.golem.de/news/digitale-souveraenitaet-argumentationshilfe-fuer-resiliente-it-entscheidungen-2507-198470.html) für Mitarbeiter solcher Firmen, wie sie Wagenburg-Mentalität, Feature-FOMO und Angst vor angeblichen zusätzlichen Aufwand und Kosten mit stragisch kluger Kommunikation durchbrechen können und stattdessen Risiko- und Chancenbewusstsein fördern. 
+
+Das OpenForumEurope [führt aus](https://eu-stf.openforumeurope.org), warum es neben nationalen Initiativen wie dem Prototypfund in Deutschland und der Schweiz auch einen Fördertopf für souveräne Technologie auch auf europäischer Ebene braucht und was für die Umsetzung benötigt wird.
 
 ## Verwaltungsdigitalisierung
 ### Struktur
