@@ -73,7 +73,7 @@ Eine [Umfrage des IÖW](https://ioew.eu.qualtrics.com/jfe/form/SV_9p2bGbTwrASUtd
 
 ["Weil es der Staat nicht gebacken bekommt"](https://netzpolitik.org/2025/hardware-spenden-weil-es-der-staat-nicht-gebacken-bekommt/) war die Motivation des Vereins "Computertruhe", ehrenamtlich Hardware-Spenden aufzubereiten um sie dann an Bedürftige zu verschenken.
 
-[Stefan wundert sich](https://chaos.social/@stk/114825621182061366), warum so viele Forschende, Nichtregierungsorganisationen und Communities eigentlich besseren Wissens die [neoliberale Ideologie](https://de.wikipedia.org/wiki/Neoliberalismus) so sehr verinnerlicht haben, dass sie selbst im Bereich von Forschung, gesellschaftlichem Auftrag und Ehrenamt Maßstäbe wirtschaftlicher Nützlichkeit anlegen, in Quantitäten wie Followerzahlen, Reichweite und Leads denken, statt solche Logiken kritisch in Frage zu stellen. Wie müsste stattdessen [eine idealtypische NGO aussehen](https://chaos.social/@stk/114825627154853200), die angriffslustig sich gegen Zeitgeist und Trends stellt? Die für ihre Werte einsteht, und nicht nur pflichtschuldig "Gemeinwohl" irgendwo dranklebt, aber sonst im allgemeinen Alles-mit-KI-Strom mitschwimmt, aus Verblendung oder Angst, sonst vom Fördermitteltrog vertrieben zu werden.
+[Stefan wundert sich](https://chaos.social/@stk/114825621182061366), warum so viele Forschende, Nichtregierungsorganisationen und Communities eigentlich besseren Wissens die [neoliberale Ideologie](https://de.wikipedia.org/wiki/Neoliberalismus) so sehr verinnerlicht haben, dass sie selbst im Bereich von Forschung, gesellschaftlichem Auftrag und Ehrenamt Maßstäbe wirtschaftlicher Nützlichkeit anlegen, in Quantitäten wie Followerzahlen, Reichweite und Leads denken, statt solche Logiken kritisch in Frage zu stellen. Aber Einbildung ist ja bekanntlich auch eine Form von Bildung. Wie müsste stattdessen [eine idealtypische NGO aussehen](https://chaos.social/@stk/114825627154853200), die angriffslustig sich gegen Zeitgeist und Trends stellt? Die für ihre Werte einsteht, und nicht nur pflichtschuldig "Gemeinwohl" irgendwo dranklebt, aber sonst im allgemeinen Alles-mit-KI-Strom mitschwimmt, aus Verblendung oder Angst, sonst vom Fördermitteltrog vertrieben zu werden.
 
 ## Citizen Science
 Als [Homo ludens](https://de.wikipedia.org/wiki/Homo_ludens) sind wir geborene Problemlöser. Wir man dies nutzen kann, damit Bürgerwissenschaftler:innen neue Erkenntnisse quasi erspielen, die dann helfen, Krankheiten wie Krebs besser zu heilen, beleuchtet Professor Jeff Yoshimi [in seinem Artikel "Gaming Cancer"](https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/). Vorgestellt werden [EteRNA](https://www.sciencegamecenter.org/games/eterna), ein Sudoku-ähnliches Spiel, um RNA-Strukturen zu erzeugen, [Foldit](https://fold.it), an das Legespiel Bonsai angelehnt, um [Proteinfaltung](https://de.wikipedia.org/wiki/Proteinfaltung) zu simulieren, sowie [Nanocrafter](https://nanocrafter.org), ein Puzzlespiel mit synthesierbaren DNA-Fragmenten. 
@@ -130,70 +130,41 @@ Für die im Förderprogramm "Modellprojekte Smart Cities" entstanden Apps, Platt
 Es drängt sich der Verdacht auf, dass manche Software oftmals nur aus Marketinggründen entwickelt worden ist, man spricht hier auch von [Marchitecture bzw. Marketecture](https://social.tchncs.de/@fkr/114941541726409649). 
 
 ## Dashboards
-* "Ein öffentlich zugängliches Verwaltungs-Dashboard stellt keinen Selbstzweck dar, sondern fungiert als Werkzeug, mit dem auf Basis der bereitgestellten Daten gezielte Maßnahmen vorangetrieben und deren Fortschritt kontrolliert werden können."
-  https://norden.social/@datenschatz/114810578991655170
-  * Forführend zu APIs und Monitoring / Warn-Apps
-    https://chaos.social/users/stk/statuses/114842147394518694
-* Interaktive Visualisierungen mit Open Data sollen zu einem smarteren, grüneren und widerstandsfähigeren Tourismus in Europa beitragen.
-  https://www.heise.de/news/EU-Dashboard-soll-Wandel-im-europaeischen-Tourismus-Oekosystem-visualisieren-10493782.html
-  https://tourism-dashboard.ec.europa.eu/?lng=de&ctx=tourism
+Verwaltungs-Dashboards verbreiten inzwischen auch wie ein Krebsgeschwür. Dabei wird [der Teil mit](https://norden.social/@datenschatz/114810578991655170) "aus den mit den Daten gewonnenen Erkenntnissen gezielte Maßnahmen voranzutreiben und deren Fortschritt / Erfolg dauerhaft auch über die Dashboards zu kontrollieren und gegebenenfalls nachzusteuern" meist "vergessen". So zombien sie so vor sich hin. An anderer Stelle lässt man sich [lieber überraschen](https://chaos.social/users/stk/statuses/114842147394518694), statt lokal Sensoren auszubringen, deren Messungen über APIs in Warn-Apps zu integrieren und über geeignet gewählte Schwellwerte dann proaktiv zu alamieren, wenn diese überschritten werden.
+
+Die interaktive Visualisierungen von Daten und Indikatoren des [EU-Tourismus-Dashboards](https://tourism-dashboard.ec.europa.eu/?lng=de&ctx=tourism) sollen den Tourismus in Europa [nachhaltiger machen](https://www.heise.de/news/EU-Dashboard-soll-Wandel-im-europaeischen-Tourismus-Oekosystem-visualisieren-10493782.html), zu mindestens wenn die politischen Entscheider auch drauf schauen und dann die richtigen Maßnahmen ergreifen (oder von Umweltverbänden auf Grund der Daten entsprechend Druck bekommen). Auch Touristen könnten mit Blick auf die Zahlen vielleicht ihr Reiseverhalten überdenken.
 
 ## Visualisierungen
-* Der Historical Tech Tree zeigt drei Millionen Jahre Innovation visuell als interaktive Karte und zeigt, wie 2000 Erfindungen miteinander verbunden sind.
-  https://www.heise.de/news/Web-Tipps-Technik-Stammbaum-10479184.html
-  https://www.historicaltechtree.com
-* Data Vis Dispatch, July 8: 200th edition — behind the scenes, Q&A, and new features
-  https://www.datawrapper.de/blog/data-vis-dispatch-july-8-2025
+Der [Historical Tech Tree](https://www.historicaltechtree.com) zeigt in einer interaktiven Karte etwa 2000 Innovationen der letzten drei Millionen Jahre Innovation und wie sie [miteinander verbunden sind](https://www.heise.de/news/Web-Tipps-Technik-Stammbaum-10479184.html).
+
+Zur 200-ten Jubiläumsausgabe des [Data Vis Dispatch](https://www.datawrapper.de/blog/data-vis-dispatch-july-8-2025) wird hinter die Kulissen geschaut, die häufigsten Fragen beantwortet und auf die in Zukunft geplanten Features geschaut.
 
 ## Karten
 ### Darstellungen
-* Today the German Federal Employment Agency published its annual data set on salaries for 21,859,958 employees.
-  https://mastodon.social/@chwoma/114891592291040868
-  https://codeberg.org/chwoma/entgelt_maps_2024
-* Einwohnerzähler
-  https://atlas.zensus2022.de
-  via https://norden.social/@destatis@social.bund.de/114850757064166345
-* Ein neuer IÖW Datensatz dokumentiert die Entwicklungen in der hausärztlichen Versorgung über 11 Jahre
-  https://data.fdz.ioer.de/dataset.xhtml?persistentId=doi:10.71830/7N8G1E
-  https://wisskomm.social/@ioer/114873026580818573
-* Urban Mining Kataster
-  https://concular.de/digitaler-blick-fuer-die-stadtentwicklung-concular-startet-urban-mining-kataster-deutschland-fuer-staedte-und-kommunen/
-  https://urbanminingkataster.de
-  via https://wisskomm.social/@ioer/114829264343656098
+Die Agentur für Arbeit hat die jährlichen Daten zu den Gehältern von fast 22 Millionen Angestellten. [Als Karte dargestellt](https://mastodon.social/@chwoma/114891592291040868), erkennt man leicht die Automobilhersteller-Standorte.
+
+Mit dem [Einwohnerzähler](https://atlas.zensus2022.de) kann man sich für jeden beliebigen Ort in Deutschland anzeigen lassen, wie viele Menschen in dessen 5km-Umkreis [wohnen](https://norden.social/@destatis@social.bund.de/114850757064166345).
+
+Wie sich die hausärztliche Versorgung von 2011 bis 2022 verändert hat, dokumentiert [ein neuer IÖW Datensatz](https://data.fdz.ioer.de/dataset.xhtml?persistentId=doi:10.71830/7N8G1E), die Einordnung und Visualisierungen als Karte [können](https://wisskomm.social/@ioer/114873026580818573) dem bereits letzten Jahr veröffenlichten [Artikel](https://rur.oekom.de/index.php/rur/article/view/2278/5094) entnommen werden. 
+
+Das [Urban Mining Kataster](https://urbanminingkataster.de) visualisiert den Materialbestand von rund 52 Millionen Gebäuden in ganz Deutschland. Welche Baumaterialien verbaut wurden und wie hoch das Treibhauspotenzial (Global Warming Potential, GWP) ist, lässt sich ebenfalls in der interaktiven 3D-Karte für jedes Gebäude [abfragen](https://concular.de/digitaler-blick-fuer-die-stadtentwicklung-concular-startet-urban-mining-kataster-deutschland-fuer-staedte-und-kommunen/). An Hand der Forschung und der [Daten des IÖR](https://wisskomm.social/@ioer/114829264343656098) kann das Potenzial für eine ressourcenschonende Kreislaufbauwirtschaft abgeschätzt werden.
 
 ### Pflanzen
-* Boden ist Leben – und wird zur Mangelware. Jährlich gehen 100 Mio. Hektar fruchtbares Land verloren. In der Messkampagne CROPEX25 untersuchte das DLR mit Partnern vier Monate lang Böden, Pflanzen und Atmosphäre bei München – aus der Luft, am Boden und via Satellit
-  https://bsky.app/profile/dlr-de.bsky.social/post/3luphg3frus2t
-  https://www.dlr.de/de/aktuelles/nachrichten/2025/testfluege-ueber-bayern-liefern-daten-fuer-neue-erdbeobachtungsmissionen
-* Berlin gärtnert
-  https://www.linkedin.com/posts/senmvku_die-neue-plattform-berlin-g%C3%A4rtnert-activity-7355924239905886208-RLNy
-  http://berlin.de/gaertnern
-  https://berlingaertnert.odis-berlin.de
-  https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2025/pressemitteilung.1585200.php
+Jährlich gehen weltweit 100 Millionen Hektar fruchtbares Land [verloren](https://bsky.app/profile/dlr-de.bsky.social/post/3luphg3frus2t). Das Deutsches Zentrum für Luft- und Raumfahrt (DLR) hat in der Messkampagne CROPEX25 vier Monate lang Böden, Pflanzen und Atmosphäre bei München [untersucht](https://www.dlr.de/de/aktuelles/nachrichten/2025/testfluege-ueber-bayern-liefern-daten-fuer-neue-erdbeobachtungsmissionen). Mit den gewonnenen Erkenntnissen sollen nachhaltige Landwirtschaft, Klimaschutz und Ernährungssicherheit vorangebracht werden.
+
+Wer sich in Berlin für Kleingärtnerei [interessiert](http://berlin.de/gaertnern), wird auf der neuen Plattform ["Berlin gärtnert"](https://berlingaertnert.odis-berlin.de) der [Open Data Informationsstelle (ODIS)](https://odis-berlin.de/projekte/2025-06-berlingaertnert/) fündig. Auf der Gartenkarte sind nicht nur die vielfältige Projekten [verzeichnet](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2025/pressemitteilung.1585200.php), auch ein Veranstaltungskalender und Gartentyp-Selbsttest sowie weitere umfangreiche Informationen werden [mitgeliefert](https://www.linkedin.com/posts/senmvku_die-neue-plattform-berlin-g%C3%A4rtnert-activity-7355924239905886208-RLNy).
 
 ### Tools
-* The WFS Explorer
-  https://wfsexplorer.odis-berlin.de
-  via https://troet.cafe/@hanshack/114788385967284925
-  * Berliner WFS-Explorer für Hamburg adaptiert
-    https://www.linkedin.com/posts/timfangmeyer_ich-habe-den-letzte-woche-ver%C3%B6ffentlichten-activity-7348604412803584002-qbY5
-    https://tifa365.github.io/wfs-explorer.hamburg
-  * GeoExplorer Update, nun u.a. mit WFS-Explorer
-    https://www.linkedin.com/posts/hans-hack-001683303_the-geoexplorer-just-got-an-update-the-ugcPost-7347909233717264384-NuvQ
-    https://geoexplorer.odis-berlin.de
-* mapping realtime events onto a view of the Earth
-  https://github.com/Quad9DNS/GlobeOfWonder
-  via https://mastodon.social/@quad9dns/114902199658368313
-* anymap
-  https://github.com/opengeos/anymap
-  https://anymap.dev
-  LiDAR support: https://www.linkedin.com/posts/giswqs_geospatial-mapping-potree-activity-7349306242512613376-jsPf
+Wer die Geodaten hinter einer [WFS](https://de.wikipedia.org/wiki/Web_Feature_Service)-Schnittstelle sich mal schnell auf einer Karte anzeigen lassen möchte, wird ebenfalls vom ODIS geholfen. Mit dem [WFS Explorer](https://wfsexplorer.odis-berlin.de) muss man nun nicht zwangsweise gigabyteweise QGIS herunterladen, sondern braucht nur noch ein Browser. Weitere Features der Lösung sind [hier aufgelistet](https://troet.cafe/@hanshack/114788385967284925). Damit nicht nur Berlin was von dem Angebot hat, hat Tim Fangmeyer [kurzerhand](https://www.linkedin.com/posts/timfangmeyer_ich-habe-den-letzte-woche-ver%C3%B6ffentlichten-activity-7348604412803584002-qbY5) den Open Source Code beispielhaft für [Hamburg adaptiert](https://tifa365.github.io/wfs-explorer.hamburg). Allein für die starke [Verschränkung](https://www.linkedin.com/posts/hans-hack-001683303_the-geoexplorer-just-got-an-update-the-ugcPost-7347909233717264384-NuvQ) der Berliner Vorlage mit deren [GeoExplorer](https://geoexplorer.odis-berlin.de) bei der Freitextsuche musste eine andere Lösung gefunden werden. Nachnutzung lohnt sich!
+
+Mit der [Open Source](https://github.com/opengeos/anymap) Python-Bibliothek [AnyMap](https://anymap.dev) lassen sich interaktive Karten erstellen und bald auch über den WebGL-Renderer [Potree](https://potree.github.io) LiDAR-Daten [visualisieren](https://www.linkedin.com/posts/giswqs_geospatial-mapping-potree-activity-7349306242512613376-jsPf).
+
+Ebenfalls mit WebGL schafft es der [Globe Of Wonder](https://github.com/Quad9DNS/GlobeOfWonder) in Echtzeit Ereignisse auf einen Globus [zu projezieren](https://mastodon.social/@quad9dns/114902199658368313). 
 
 ### OpenStreetMap
-* Vector Tiles are deployed on OpenStreetMap.org
-  https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/
-* Neues OSM WikiData Feature
-  https://en.osm.town/@seav/114876057104275231
+[Vector tiles](https://en.wikipedia.org/wiki/Vector_tiles) sind die speicherärme und flexible Alternative zu vorgerenderten Bitmap-Tiles. Nun hat man auch bei OpenStreetMap (OSM) auf diesen Ansatz [umgestellt](https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/). 
+
+Dass ein an einem OSM-Elemente verlinkte WikiData-Eintrag auf Klick direkt in ein menschenlesbare Vorschau [umgewandelt wird](https://en.osm.town/@seav/114876057104275231), ist ein weiteres neu eingeführtes Feature. 
 
 ## Mobilität
 ### ÖPNV
