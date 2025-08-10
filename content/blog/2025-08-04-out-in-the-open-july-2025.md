@@ -265,32 +265,21 @@ In dem von der EU mit den USA geschlossenen Zoll-Deal hat sich die EU verpflicht
 
 ## Energie
 ### Energiewende
-* Bundes-Milliarden für den Umweltschutz – 2024: großer Teil geht für Atommüll drauf
-  https://www.bundesumweltministerium.de/ministerium/struktur/finanzen
-  https://bsky.app/profile/annikajoeres.bsky.social/post/3lvctzlbfwk22
-* Subventionsabbau bei Kohle und Öl führt zu mehr Wohlstand
-  https://www.handelsblatt.com/unternehmen/energie/fossile-brennstoffe-subventionsabbau-beikohle-und-oel-fuehrt-zu-mehr-wohlstand/100139110.html
-* Energiebedingte CO2-Emissionen seit 2010 um 29,6 % gesunken
-  https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/07/PD25_274_32421.html?nn=2110
-* Indien erreicht Ziele des Pariser Klimaabkommens fünf Jahre vor Ablauf der Frist
-  https://www.fr.de/wirtschaft/energie-revolution-kommt-indien-vollzieht-turnaround-und-uebertrifft-europa-zr-93840306.html
+[Laut Statistischen Bundesamt](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/07/PD25_274_32421.html?nn=2110) sind die energiebedingten CO2-Emissionen seit 2010 um 29,6 Prozent gesunken. Dagegen stagnieren die Emissionen aus dem Straßenverkehr seit 2020. 
+
+[Eine neue ZEW-Studie zeigt](https://www.handelsblatt.com/unternehmen/energie/fossile-brennstoffe-subventionsabbau-beikohle-und-oel-fuehrt-zu-mehr-wohlstand/100139110.html), dass der Subventionsabbau bei Kohle und Öl zu mehr Wohlstand führen würde. 
+
+Wie sehr das in die Kosten geht, wenn man auf die falschen Energieträger setzt, zeigt [das Budget des Bundesumweltministeriums](https://www.bundesumweltministerium.de/ministerium/struktur/finanzen), in dem 1,4 Mrd für die Zwischen- und Endlagerung radioaktiver Abfälle als Ausgaben ausgewiesen sind. Auch wenn die Kosten [zum Großteil aus dem Kenfo-Fonds gedeckt werden](https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3lvd4akj7vc2i), in den die AKW-Betreiber eingezahlt haben, und somit nur ein Bruchteil beim Steuerzahler hängen bleibt, sind die Kosten doch enorm.
 
 ### Preisanreize
-* Studie: Ökostrom fällt rasant unter Preis von Öl und Gas
-  https://www.stuttgarter-nachrichten.de/inhalt.studie-oekostrom-faellt-rasant-unter-preis-von-oel-und-gas.05ec40b7-1e9a-4347-a0c9-a1d526e9000e.html
-* So viele Verbraucher wechseln Energieanbieter wie noch nie
-  https://www.zeit.de/news/2025-07/13/so-viele-verbraucher-wechseln-energieanbieter-wie-noch-nie
-* Helfen lokale Strompreise gegen Engpässe im Stromnetz?
-  https://www.klimareporter.de/strom/helfen-lokale-strompreise-gegen-engpaesse-im-stromnetz
-  https://www.agora-energiewende.de/daten-tools/agorameter/locational/map/power_price/
+Etwa 91 Prozent der letztes Jahr in Betrieb genommenen Ökostromprojekte [sind laut einer Studie](https://www.stuttgarter-nachrichten.de/inhalt.studie-oekostrom-faellt-rasant-unter-preis-von-oel-und-gas.05ec40b7-1e9a-4347-a0c9-a1d526e9000e.html) günstiger als ihre fossilen Alternativen wie Öl und Gas. Dem Bericht der Internationalen Agentur für Erneuerbare Energien (Irena) zufolge sind auch die Kosten für Batteriespeicher seit 2010 um 93 Prozent gesunken. Engpass bleibt weiterhin der Infrastrukturausbau (Netze und Speicher). Auch die Abhängigkeit von China bei Solarmodulen und Batteriespeichern könnte sich in Zukunft geopolitisch (und damit potenziell auch kostenmäßig) problematisch werden.
+
+Sowohl im Strom- als auch im Gas-Bereich haben letztes Jahr laut Angaben der Bundesnetzagentur noch nie sind so viele Verbraucherinnen und Verbraucher ihren Vertrag bzw. Lieferanten [gewechselt](https://www.zeit.de/news/2025-07/13/so-viele-verbraucher-wechseln-energieanbieter-wie-noch-nie). Die Grundversorgung beim örtlichen Stadtwerk zu verlassen, kann mehrere hundert Euro Ersparnis im Jahr ausmachen. Unterstützung beim Wechsel gibt es beispielsweise von der [Verbraucherzentrale](https://www.verbraucherzentrale.de/wissen/energie/preise-tarife-anbieterwechsel/so-klappt-der-wechsel-zu-einem-neuen-energieanbieter-85945) als auch von [Finanztip](https://www.finanztip.de/stromanbieter-wechseln/).
 
 ### Datenzugang
-* Neue Zahlen zum Smart-Meter-Einbau sind da. Sie sind nicht gut.
-  https://www.cleantech.ing/p/too-low-to-meter-95ee7e56047d7e44
-* MaStR4all - Zugang zu Daten der Energiewirtschaft verbessern
-  https://reiner-lemoine-institut.de/projekt/mastr4all-zugang-zu-daten-der-energiewirtschaft-verbessern/
-  https://reiner-lemoine-institut.de/tool/open_mastr/
-  https://github.com/OpenEnergyPlatform/open-MaStR
+Der Einbau intelligenter Messsysteme [stockt](https://www.cleantech.ing/p/too-low-to-meter-95ee7e56047d7e44). Dabei sind solche Smart-Meter-Systeme Voraussetzung für die flexible Stromproduktion und -verbrauch nach aktuelle Lage von Angebot und Nachfrage. Aktuell sind gerade mal drei Prozent aller Systeme in Deutschland mit Smart Meter ausgestattet, dabei ist das ausgegebene Ziel für 2032 90 Prozent.
+
+Das Open-Source-Python-Programm ["Open MaStR"](https://github.com/OpenEnergyPlatform/open-MaStR) soll Forschende und Data Scientists den Zugang zu den Daten des Marktstammdatenregisters (MaStR) [erleichern](https://reiner-lemoine-institut.de/tool/open_mastr/), wie es z.B. beim [Monitor Windenergie Deutschland](https://goal100.org/monitor) bereits erfolgreich [gelungen ist](https://reiner-lemoine-institut.de/projekt/mastr4all-zugang-zu-daten-der-energiewirtschaft-verbessern/).
 
 ## Kultur
 * Der Arbeitskreis Digitale Kunstgeschichte lädt ab August zu einer monatlichen Mittagspause ein
