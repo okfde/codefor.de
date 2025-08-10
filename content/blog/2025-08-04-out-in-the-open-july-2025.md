@@ -100,7 +100,7 @@ Auch Atlassian hat sich mit seinen Lösungen JIRA und Confluence zu einem Platzh
 ### Big Tech
 Nicht, dass man es sich nicht eh schon längst hätte denken können, aber ein Microsoft-Manager [musste nun unter Eid zugegeben](https://www.itmagazine.ch/artikel/85137/Unter_Eid_Microsoft_kann_Schutz_vor_Cloud_Act_nicht_garantieren.html), dass eine Garantie, keine Daten an US-Behörden weiterzugegeben, nicht gegeben werden könne. Doppelt pikant in diesem Zusammenhang auch, sparfüchsig wie man ist, hatte Microsoft die Wartung von im US-Verteidigungsministerium eingesetzten Computersystemen an Software-Ingenieure in China [ausgelagert](https://www.propublica.org/article/microsoft-digital-escorts-pentagon-defense-department-china-hackers). 
 
-Aufgabe von [Wettbewerbsbehörden](https://de.wikipedia.org/wiki/Wettbewerbsbeh%C3%B6rde) sollte es eigentlich sein, zu verhindern, dass Unternehmen in marktbeherrschende Stellung kommen und so den fairen Wettbewerb gefährden. Beim Kauf von VMware durch Broadcom hat man aus unerfindlichen Gründen diese Gefahr nicht gesehen, in Folge kam es zu drastischen Kostensteigerungen. Der CISPE-Verband europäischer Cloudanbieter hat daher nun Klage beim EU-Gericht gegen die Genehmigung der EU-Kommission [eingereicht](https://www.heise.de/news/Broadcoms-VMware-Uebernahme-EU-Cloudanbieter-verklagen-die-Kommission-10499025.html).
+Aufgabe von [Wettbewerbsbehörden](https://de.wikipedia.org/wiki/Wettbewerbsbeh%C3%B6rde) sollte es eigentlich sein, zu verhindern, dass Unternehmen in marktbeherrschende Stellung kommen und so den fairen Wettbewerb gefährden. Beim Kauf von VMware durch Broadcom hat man aus unerfindlichen Gründen (auch wieder Matthäus-Effekt?) diese Gefahr nicht gesehen, in Folge kam es zu drastischen Kostensteigerungen. Der CISPE-Verband europäischer Cloudanbieter hat daher nun Klage beim EU-Gericht gegen die Genehmigung der EU-Kommission [eingereicht](https://www.heise.de/news/Broadcoms-VMware-Uebernahme-EU-Cloudanbieter-verklagen-die-Kommission-10499025.html).
 
 ### Wirtschaft
 Auch in Unternehmen halten Entscheider aus Bequemlichkeit an der Nutzung von BigTech-Lösung fest. Auf Golem gibt es [ein paar Argumentationshilfen](https://www.golem.de/news/digitale-souveraenitaet-argumentationshilfe-fuer-resiliente-it-entscheidungen-2507-198470.html) für Mitarbeiter solcher Firmen, wie sie Wagenburg-Mentalität, Feature-FOMO und Angst vor angeblichen zusätzlichen Aufwand und Kosten mit stragisch kluger Kommunikation durchbrechen können und stattdessen Risiko- und Chancenbewusstsein fördern. 
@@ -109,34 +109,25 @@ Das OpenForumEurope [führt aus](https://eu-stf.openforumeurope.org), warum es n
 
 ## Verwaltungsdigitalisierung
 ### Struktur
-* Open Source hat im Bund keine Lobby
-  https://www.golem.de/news/digitalisierung-open-source-hat-im-bund-keine-lobby-2507-197269.html
-  via https://social.osb-alliance.de/@OSBA/114829201166983479
-* Government as a Platform – Deutschlandstack?
-  https://egovernment-podcast.com/egov225-gov-as-a-platform/
-* Wie man ein neues Ministerium zusammenbaut
-  https://chaosradio.de/cr301-dicke-bretter-diesmal-ueber-die-schwarz-schwarz-roten-und-ihr-neues-digitalministerium
-* Bündelung von Online-Services: Sachsen-Anhalt will Vorreiter sein
-  https://www.sz-dossier.de/dossiers/digitalwende/2025-07-15-dienstag
-  https://www.linkedin.com/posts/matthias-punz-805b17175_w%C3%A4hrend-der-bund-noch-an-konzepten-arbeitet-activity-7350763024237883394-lker
+In Anbetracht der Entwicklungen und verpassten Chancen der letzten Jahre [kommt man bei Golem zum Schluss](https://www.golem.de/news/digitalisierung-open-source-hat-im-bund-keine-lobby-2507-197269.html), dass Open Source keine Lobby im Bund hat. Dieser Einschätzung schließt sich auch [die Mehrheit](https://social.osb-alliance.de/@OSBA/114829201166983479) der Teilnehmenden der darauf aufbauenden Umfrage an. Große Skepsis herrscht auch über die Intensionen des neuen Digitalministeriums. In der [Podcastfolge](https://chaosradio.de/cr301-dicke-bretter-diesmal-ueber-die-schwarz-schwarz-roten-und-ihr-neues-digitalministerium) von Dicke Bretter wird darüber gesprochen, was ein Digitalministerium leisten soll und wie überhaupt neue Ministerien entstehen und wie ihr Aufbau ist.
+
+Über das Konzept "Deutschlandstack" - Government as a Platform wird [beim eGovernment Podcast philosophiert](https://egovernment-podcast.com/egov225-gov-as-a-platform/).
+
+Während andere noch am Konzepteschreiben sind, möchte Sachsen-Anhalt beim Bündeln von Online-Services [Vorreiter sein](https://www.linkedin.com/posts/matthias-punz-805b17175_w%C3%A4hrend-der-bund-noch-an-konzepten-arbeitet-activity-7350763024237883394-lker).
 
 ### Praxis
-* KERN UX, ein UX-Standard für die deutsche Verwaltung
-  https://egovernment-podcast.com/egov224-kern-ux/
-* Das erste Jahr des ersten Beirats des deutschen Digital Services Coordinators neigt sich dem Ende zu. Zeit für ein Zwischenfazit sowie einen Ausblick auf die Zukunft des Digital Services Act und die Rolle der Zivilgesellschaft.
-  https://netzpolitik.org/2025/geschichten-aus-dem-dsc-beirat-wie-trumps-drohungen-europaeische-grundrechte-gefaehrden/
-* eGovernment Podcast Monatsschau 07/25
-  https://egovernment-podcast.com/egov226-monatsschau-07-25/
+[KERN UX](https://www.kern-ux.de) ist ein [UX](https://de.wikipedia.org/wiki/User_Experience)-Standard und Baukastensystem für die deutsche Verwaltung mit dem Prinzipien wie z.B. Barrierefreiheit und vereinheitlichtes [Look and Feel](https://de.wikipedia.org/wiki/Look_and_Feel) in die vom und für den Bund entwickelte Software imprägniert werden sollen. Mehr über dieses Designsystem und die Bedeutung von User Experience erfährt man [in dieser eGovernment-Podcast-Folge](https://egovernment-podcast.com/egov224-kern-ux/).
 
+In einer anderen Folge des Podcasts, der [Rückschau auf den Monat Juli](https://egovernment-podcast.com/egov226-monatsschau-07-25/), geht es unter andem um den [Deutschland-Index der Digitalisierung](https://www.oeffentliche-it.de/deutschland-index/) und die begonnene Umsetzung der Registermodernisierung.
+
+Ein Jahr ist der [Beirat des deutschen Digital Services Coordinators](https://www.dsc.bund.de/DSC/DE/1DSC/Beirat/start.html) im Amt. Das Gremium aus Zivilgesellschaft, Forschung und Wirtschaft begleitet die Durchsetzung des Digital Services Act (DSA). Auf Grund politischer Mehrheitsverhältnisse ist die Zivilgesellschaft im Beirat nicht so stark vertreten, wie sie sein könnte, dabei wurden und werden viele der wegweisenden gerichtlichen Verfahren gegen die großen Plattformen, die unter das DSA fallen, vor allem von NGOs ausgefochten, [wie im Zwischenfazit betont wird](https://netzpolitik.org/2025/geschichten-aus-dem-dsc-beirat-wie-trumps-drohungen-europaeische-grundrechte-gefaehrden/). Leider droht die Durchsetzung europäischen Rechts zunehmend als Verhandlungsmasse im Handelsstreit mit den USA unter die Räder zu kommen.
+  
 ### Fehlende Strategie
-* Wildwuchs an parallelen Lösungen
-  https://www.spiegel.de/politik/deutschland/bundesrechnungshof-kritisiert-geldverschwendung-bei-digitalisierung-a-706ea431-18f0-4183-b4b0-5fbc64996cac?s=09
-* Smart City: Hunderte Anwendungen, aber wer bezahlt?
-  https://www.sz-dossier.de/tiefgaenge/smart-city-hunderte-anwendungen-aber-wer-bezahlt-2e10530b
-  https://www.linkedin.com/posts/helen-bielawa-051902145_322-von-667-smart-city-projekten-haben-irgendwas-activity-7355850828949168132-jH0J
-  * Marchitecture or Marketecture
-    https://en.wikipedia.org/wiki/Marketecture
-    https://social.tchncs.de/@fkr/114941541726409649
+Für die im Förderprogramm "Modellprojekte Smart Cities" entstanden Apps, Plattformen und Projekte ist noch völlig offen, wer und wie sie nach dem Ende der Förderzeitraum weiter finanziert werden sollen, geschweige denn sie auf andere Kommune auszurollen, [hat Helen Bielawa für das SZ-Dossier analysiert](https://www.linkedin.com/posts/helen-bielawa-051902145_322-von-667-smart-city-projekten-haben-irgendwas-activity-7355850828949168132-jH0J).
+
+[Für den Bundesrechnungshof](https://www.spiegel.de/politik/deutschland/bundesrechnungshof-kritisiert-geldverschwendung-bei-digitalisierung-a-706ea431-18f0-4183-b4b0-5fbc64996cac?s=09) liegt es vor allem an den "mangelnden tiefergehenden Analysen der Ausgangssituation", dass die Bundesverwaltung bei der Digitalisierung nicht vom Fleck kommt, trotz drei Digitalstrategien. Stattdessen zahlreiche Parallelentwicklungen, und weiteres hinterher geworfenes Geld für Projekte, deren Scheitern schon vor Jahren als sehr wahrscheinlich eingestuft wurde und dann tatsächlich auch gescheitert sind.
+
+Es drängt sich der Verdacht auf, dass manche Software oftmals nur aus Marketinggründen entwickelt worden ist, man spricht hier auch von [Marchitecture bzw. Marketecture](https://social.tchncs.de/@fkr/114941541726409649). 
 
 ## Dashboards
 * "Ein öffentlich zugängliches Verwaltungs-Dashboard stellt keinen Selbstzweck dar, sondern fungiert als Werkzeug, mit dem auf Basis der bereitgestellten Daten gezielte Maßnahmen vorangetrieben und deren Fortschritt kontrolliert werden können."
