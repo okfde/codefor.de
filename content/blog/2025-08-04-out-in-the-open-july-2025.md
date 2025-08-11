@@ -282,58 +282,37 @@ Der Einbau intelligenter Messsysteme [stockt](https://www.cleantech.ing/p/too-lo
 Das Open-Source-Python-Programm ["Open MaStR"](https://github.com/OpenEnergyPlatform/open-MaStR) soll Forschende und Data Scientists den Zugang zu den Daten des Marktstammdatenregisters (MaStR) [erleichern](https://reiner-lemoine-institut.de/tool/open_mastr/), wie es z.B. beim [Monitor Windenergie Deutschland](https://goal100.org/monitor) bereits erfolgreich [gelungen ist](https://reiner-lemoine-institut.de/projekt/mastr4all-zugang-zu-daten-der-energiewirtschaft-verbessern/).
 
 ## Kultur
-* Der Arbeitskreis Digitale Kunstgeschichte lädt ab August zu einer monatlichen Mittagspause ein
-  https://digitale-kunstgeschichte.de
-  https://fedihum.org/@digitale_kunstgeschichte
-  https://mastodon.social/@kunstgeschichte/114935480540942124
-* Die KZ-Gedenkstätte Dachau hat einen virtuellen 360-Grad-Rundgang durch das Gelände entwickelt. 
-  https://www.sueddeutsche.de/muenchen/dachau/kz-gedenkstaette-dachau-360-grad-rundgang-panoramen-erinnerungsarbeit-internet-li.3287211
+Der Arbeitskreis [Digitale Kunstgeschichte](https://digitale-kunstgeschichte.de) lädt ab sofort jeden ersten Freitag im Monat 13 Uhr für 45 Minutn [zu einer monatlichen Mittagspause](https://mastodon.social/@kunstgeschichte/114935480540942124) ein.
 
-## Wirtschaft
-* Kommunale Finanzen – Größtes Defizit in der Geschichte der Bundesrepublik
-  https://www.bertelsmann-stiftung.de/de/themen/aktuelle-meldungen/2025/juli/kommunale-finanzen-groesstes-defizit-in-der-geschichte-der-bundesrepublik
-* Studie: Deshalb ist Chinas Industriepolitik so erfolgreich
-  https://www.surplusmagazin.de/studie-china-industriepolitik-technologie-vorsprung-subventionen/
+Ein virtueller [360-Grad-Rundgang](https://www.kz-gedenkstaette-dachau.de/historischer-ort/360-rundgang-panoramen-der-erinnerung/) durch das Gelände der KZ-Gedenkstätte Dachau [ist nun möglich](https://www.sueddeutsche.de/muenchen/dachau/kz-gedenkstaette-dachau-360-grad-rundgang-panoramen-erinnerungsarbeit-internet-li.3287211).
 
 ## KI, Vibe und Gesang
 ### Rechtsprechung
-* Neue EU-Regeln fordern Transparenz von KI-Modell-Anbietern
-  https://www.tagesspiegel.de/gesellschaft/medien/kunstliche-intelligenz-neue-eu-regeln-fordern-transparenz-von-ki-modell-anbietern-14123351.html
-* US-Urheberrecht: KI darf weiter Bücher lesen
-  https://netzpolitik.org/2025/us-urheberrecht-ki-darf-weiter-buecher-lesen/
-* Messen mit zweierlei Maß
-  https://infosec.exchange/@koehntopp/114913099276601064
+Am 2. August traten nun die ersten wesentlichen Verordnungen des [EU AI Act](https://artificialintelligenceact.eu/implementation-timeline/) in Kraft und [zwingen](https://www.schieb.de/eu-ai-act-das-ende-der-geheimen-ki-trainingsdaten) nun alle Anbieter von Allzweck-KI-Systemen, [offenzulegen](https://www.tagesspiegel.de/gesellschaft/medien/kunstliche-intelligenz-neue-eu-regeln-fordern-transparenz-von-ki-modell-anbietern-14123351.html), mit welchen Trainingsdaten sie ihre Modelle trainiert haben. Haken an der Sache: die Durchsetzung liegt bei den nationalen Behörden und in Deutschland befindet sich die KI-Aufsicht weiterhin erst im Aufbau. Vollständige Konformität wird von den Anbietern aber eh erst ab 2026 (für komplett neue Anwendungen) bzw. 2027 (für bereits bestehende) verlangt. Es besteht aber die Hoffnung, dass nun ein fairer Markt für Trainingsdaten entstehen könnte.
+
+Zwei Gerichte in den USA haben erstmals Urteile zur nicht-genehmigten Nutzung urheberrechtlicher Werke für den Training von LLMs [gesprochen](https://netzpolitik.org/2025/us-urheberrecht-ki-darf-weiter-buecher-lesen/). In beiden Fällen zu Gunsten der KI-Anbieter, weil im einen Fall belegt werden konnte, dass eine Sperre das Reproduzieren der verarbeiteten Bücher verhindern soll und es sich somit um Fair Use handele. Im zweiten Fall wurde das Gefahrenpotenzial gesehen, dass das Überschwemmen des Marktes mit generierten Büchern erheblichen finanziellen Schaden anrichtet, die Kläger hätten ihre Argumente nicht gut genug dargelegt.  
+
+KIs darf also weiter ungestraft Bücher kopieren (weil sonst würde sie ja nicht mehr funktionieren und das wäre ja unfair), während man für Fachliteratur für Aus- und Weiterbildung weiterhin blechen darf? - [Messen mit zweierlei Maß](https://infosec.exchange/@koehntopp/114913099276601064).
 
 ### Privatssphäre
-* Google's training data includes all your personal data already
-  https://mastodon.social/@ekis/114787048664654222
-* Neue Folge der Reihe "KI verstehen" vom Deutschlandfunk zu KI und Privatsphäre - inkl. dem Projekt "Private Prompts" aus der Prototype Fund Runde 16
-  https://www.ardaudiothek.de/episode/urn:ard:episode:9b24641ebe39df6f/
-  via https://mastodon.social/@PrototypeFund/114828253194888127
-* Anleitung wie man Gemini nach dem neusten Android Update den Zugriff auf die weiteren Apps zu verweigern
-  https://tuta.com/de/blog/how-to-disable-gemini-on-android
-* Model Context Protocol (MCP) in der Praxis
-  https://github.com/codeforcologne/Lab/blob/master/mcp.pdf
+Die [neue Folge](https://www.ardaudiothek.de/episode/urn:ard:episode:9b24641ebe39df6f/) der Reihe "KI verstehen" vom Deutschlandfunk widmet sich dem Thema Privatsphäre, unter anderem darüber welche persönlichen Daten Menschen alles so mit Chatbots direkt oder indirekt teilen. Das vom Prototype Fund geförderte Projekt ["Private Prompts"](https://privateprompts.org) wird als eine Maßnahme vorgestellt, datensparsamer LLMs zu nutzen. 
 
-### Missbrauch
-* Anstieg Bot-Zugriffe auf Open Data Portal
-  https://norden.social/@MisterOpenData/114828298944951481 
-* Ein KI-Agent von ChatGPT hat offenbar eine Captcha-Checkbox im Internet ausgehebelt – und sogar sein Vorgehen kommentiert
-  https://www.basicthinking.de/blog/2025/07/30/ki-chatgpt-agent-captcha/
+Das die Modelle unter die DSGVO fallende Daten enthalten, obwohl sie diese eigentlich beim Training rausfiltern müssten, [beweist auch dieses Beispiel](https://mastodon.social/@ekis/114787048664654222). Denn auch wenn Impressumsseiten öffentlich einsehbar sind, dürfen sie nicht verarbeitet werden.
+
+Um so wichtiger, bewusst Maßnahmen zu ergreifen, wenn man das Betriebssystem-Update einen mit mehr KI-Tools beglücken möchte: die [folgende Anleitung](https://tuta.com/de/blog/how-to-disable-gemini-on-android) zeigt, wie man Gemini, das nach dem neusten Android Update uns bei der Bedienung der anderen installierten Apps "helfen" möchte, den Zugriff aktiv wieder entzieht.
+
+Beim Code for Cologne hat man sich etwas näher mit dem [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro) (MCP) [auseinander gesetzt](https://github.com/codeforcologne/Lab/blob/master/mcp.pdf), wo man eben auch aufpassen, was man so lokal als Datenquelle [anbindet](https://www.trendmicro.com/vinfo/de/security/news/cybercrime-and-digital-threats/mcp-security-network-exposed-servers-are-backdoors-to-your-private-data). 
 
 ### Maschine statt Mensch?
-* Lieber KI als Beamte?
-  https://www.republik.ch/2025/07/10/lieber-ki-als-beamte
-  via https://systemli.social/@anneroth/114834617603660288
-* "The Velvet Sundown": Wie eine KI-Band echten Musikern Konkurrenz macht
-  https://www.rnd.de/wirtschaft/the-velvet-sundown-wie-ki-die-musikindustrie-herausfordert-QVV2GMJSANG4LKIL3IX5BEMNMY.html?utm_source=firefox-newtab-de-de
-  via https://chaos.social/@mavo/114893160334453080
-* Bericht: AWS baut Hunderte von Stellen ab
-  https://www.heise.de/news/Bericht-AWS-baut-Hunderte-von-Stellen-ab-10491887.html
-* Programmierer wenden ChatGPT den Rücken zu
-  https://www.telepolis.de/features/Programmierer-wenden-ChatGPT-den-Ruecken-zu-10491352.html
-* bribecoding
-  https://hexa.club/@phooky/114875438934842074
+[Adrienne Fichter erinnert daran](https://www.republik.ch/2025/07/10/lieber-ki-als-beamte), dass Beamte, ganz im Sinne Max Webers, für ihr durch regel­basierte Verfahren normiertes Handeln rechenschafts­pflichtig sein sollten. Generative KI-Modelle, die für dieselben Eingaben jedesmal statistisch neue Antworten produzieren, stehen einem solchen Determinismus diametrial entgegen.
+
+Derweil werden immer mehr Stellen bei AWS, Microsoft, Google [abgebaut](https://www.heise.de/news/Bericht-AWS-baut-Hunderte-von-Stellen-ab-10491887.html), denn trotz Umsatz- und Gewinnsteigerungen, muss das Mantra "Kosten sparen und Abhängigkeit von menschlicher Arbeitskraft verringern" weiter bedient werden.
+
+Eine [Studie](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/) hat herausgefunden, dass (erfahrene) Entwickler, wenn sie KI einsetzen durften, glaubten im Vorfeld dadurch 24% schneller zu werden, tatsächlich hatten sie aber 20% länger gebraucht, in ihrer Wahrnehmung dachten sie hinterher aber immer noch, dass sie 20% schneller als sonst waren.
+
+Vielleicht statt Vibe Coding doch wieder lieber [Bribe Coding](https://hexa.club/@phooky/114875438934842074)?
+
+Je mehr KI-Musik die Streamimg-Plattformen [flutet](https://www.rnd.de/wirtschaft/the-velvet-sundown-wie-ki-die-musikindustrie-herausfordert-QVV2GMJSANG4LKIL3IX5BEMNMY.html), desto kleiner wird der Anteil der Einnahmen für echte Musikschaffende. Retorten-Sound und -Lyrics scheinen viele der Hörer nicht zu stören (vor allem, wenn sie nicht wissen, dass es KI generiert ist). 
 
 ## Dystopia
 * Über 90 Prozent der Studierenden nutzen im Studium KI. Ex­per­t*in­nen und Beteiligte streiten, ob das der Lehre und dem Lernen hilft oder schadet.
@@ -354,10 +333,6 @@ Das Open-Source-Python-Programm ["Open MaStR"](https://github.com/OpenEnergyPlat
 * LLMoin kann jetzt bundesweit von Ländern und Kommunen genutzt werden
   https://www.dataport-kommunal.de/aktuell/news/nachricht/llmoin-kann-jetzt-bundesweit-von-laendern-und-kommunen-genutzt-werden/
 
-### AI Act
-* EU AI Act: Das Ende der geheimen KI-Trainingsdaten
-  https://www.schieb.de/eu-ai-act-das-ende-der-geheimen-ki-trainingsdaten
-* 
 
 ### Neue Modelle und Tools
 * China verstärkt KI-Offensive mit neuen Open-Source-Modellen
@@ -438,6 +413,8 @@ Das Open-Source-Python-Programm ["Open MaStR"](https://github.com/OpenEnergyPlat
 ## Politik
 * Positionspapier der Geoinformationswirtschaft zur 21. Legislaturperiode
   https://ddgi.de/2025/07/23/positionspapier-der-geoinformationswirtschaft-zur-21-legislaturperiode/
+* bonn-o-mat.de
+  https://bonn-o-mat.de
 
 ### Bürokratieabbau
 * Bürokratieabbau kontra Naturschutz in Brandenburg
@@ -452,10 +429,6 @@ Das Open-Source-Python-Programm ["Open MaStR"](https://github.com/OpenEnergyPlat
   via https://social.vivaldi.net/@StefanMuenz/114896039600051881
 * rechter Gewalt unterschätzt
   https://www.zeit.de/gesellschaft/2025-07/todesopfer-rechter-gewalt-faelle-statistik-personen
-
-## Kommunalwahlen NRW
-* bonn-o-mat.de
-  https://bonn-o-mat.de
 
 ## USA
 * datarescueproject.org 
