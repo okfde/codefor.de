@@ -287,6 +287,28 @@ Der Arbeitskreis [Digitale Kunstgeschichte](https://digitale-kunstgeschichte.de)
 Ein virtueller [360-Grad-Rundgang](https://www.kz-gedenkstaette-dachau.de/historischer-ort/360-rundgang-panoramen-der-erinnerung/) durch das Gelände der KZ-Gedenkstätte Dachau [ist nun möglich](https://www.sueddeutsche.de/muenchen/dachau/kz-gedenkstaette-dachau-360-grad-rundgang-panoramen-erinnerungsarbeit-internet-li.3287211).
 
 ## KI, Vibe und Gesang
+### Anwendungsfälle
+Ein Grundlagenmodell wurde trainiert, physikalische Interaktionen zwischen Atomen [besser zu verstehen](https://t3n.de/news/ki-allegro-fm-entwirft-co2-bindenden-beton-1698873/). Die Simulationen ergaben, dass sich theoretisch wiederstandsfähigerer Beton, der zudem auch eine Kohlenstoffsenke sein, hergestellt werden könnte.
+
+Wie Barcamp-Sessions mit LLMs automatisch ohne Datenschutzverstöße dokumentiert werden können, wurde beispielhaft am Civic Data Lab Barcamp getestet, [jetzt liegen die Ergebnisse über den Gesamtprozess vor](https://civic-data.de/ki-session-dokumentation-im-test-smartphone-vs-profi-mikrofon-datenschutzkonformer-workflow/).
+
+### KI in der Verwaltung
+Eine Funktionstaste, die man nicht auf seiner Tastatur findet: der neue KI-Assistenz [F13](https://f13-os.de) (auch [Open Source](https://gitlab.opencode.de/f13)) soll Verwaltungen Textverarbeitung, Recherche und Wissensmanagement [unterstützen](https://social.bund.de/@zendis/114907530245674869). Er kann auf eigener Infrastruktur betrieben werden und man einstellen, welches LLM es nutzen soll (z.B. als Alternative Mistral). 
+
+Auch das KI-Assistenzsystem LLMoin, einst von und für die Hamburger Verwaltung entwickelt, wird nun auch [in Niedersachsen](https://www.mi.niedersachsen.de/startseite/aktuelles/presseinformationen/ki-basierter-verwaltungsassistent-llmoin-jetzt-auch-fur-kommunen-in-niedersachsen-verfugbar-243512.html) und [Rheinland-Pfalz](https://www.dataport-kommunal.de/aktuell/news/nachricht/llmoin-kann-jetzt-bundesweit-von-laendern-und-kommunen-genutzt-werden/) ausgerollt und kann im Prinzip auch bundesweit auch von anderen Ländern und Kommunen genutzt werden.
+
+### Neue Modelle und Tools
+Das LLM [NuExtract 2.0](https://nuextract.ai) ist [spezialisiert](https://www.linkedin.com/posts/patrick-fleith_time-to-extract-what-you-need-from-your-pdfs-activity-7353668961906925568-HD9Q) auf das Extrahieren strukturierter Informationen (als JSON-Ausgabe) aus Textdokumente, PDFs, Scans, usw.
+
+[Supervision](https://github.com/roboflow/supervision) ist eine Open-Source-Python-Bibliothek, die das Schreiben von Software zur Objekt-Detektierung in Bildern und Videos sowie anderer Computer-Vision-Anwendungsfälle erleichtert. 
+
+Chinesische Firmen veröffentlichen [leistungsstarke KI-Systeme als Open Source](https://www.telepolis.de/features/China-verstaerkt-KI-Offensive-mit-neuen-Open-Source-Modellen-10504672.html), als Teil ihrer Strategie, technologisch unabhängig zu werden.
+
+### Ressourcenverbrauch
+Ein [Umweltbericht](https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai) von Mistral AI [dokumentiert](https://www.basicthinking.de/blog/2025/07/30/ki-umweltbericht/), dass für KI-Training und die millionenfache Nutzung ihres Chatbots in 18 Monaten 20.400 Tonnen CO2 emittiert (entspricht Jahresemissionen von 4500 Verbrennerautos) und 281.000 Kubikmeter Wasser (entspricht 112 gefüllten olympischen Schwimmbecken) verbraucht wurden. Über 85% der Emissionen entsteht immer noch beim Training selbst.
+
+Wie Mistral schlägt [GenAI Impact](https://genai-impact.org) eine [Lebenszyklusanalyse vor](https://reset.org/api-web-app-ecologits-schatzt-ressourcenverbrauch-sprachmodellen/) (also z.B. zu Bewerten, ob ein (Neu-)Training im Bezug zum erwarteten Output ökologisch vertretbar ist), auch wenn ihr eigenes Tool [EcoLogits](https://ecologits.ai/latest/) nur den Verbrauch im laufenden Betrieb über API oder direkt im Browser misst.
+
 ### Rechtsprechung
 Am 2. August traten nun die ersten wesentlichen Verordnungen des [EU AI Act](https://artificialintelligenceact.eu/implementation-timeline/) in Kraft und [zwingen](https://www.schieb.de/eu-ai-act-das-ende-der-geheimen-ki-trainingsdaten) nun alle Anbieter von Allzweck-KI-Systemen, [offenzulegen](https://www.tagesspiegel.de/gesellschaft/medien/kunstliche-intelligenz-neue-eu-regeln-fordern-transparenz-von-ki-modell-anbietern-14123351.html), mit welchen Trainingsdaten sie ihre Modelle trainiert haben. Haken an der Sache: die Durchsetzung liegt bei den nationalen Behörden und in Deutschland befindet sich die KI-Aufsicht weiterhin erst im Aufbau. Vollständige Konformität wird von den Anbietern aber eh erst ab 2026 (für komplett neue Anwendungen) bzw. 2027 (für bereits bestehende) verlangt. Es besteht aber die Hoffnung, dass nun ein fairer Markt für Trainingsdaten entstehen könnte.
 
@@ -315,46 +337,11 @@ Vielleicht statt Vibe Coding doch wieder lieber [Bribe Coding](https://hexa.club
 Je mehr KI-Musik die Streamimg-Plattformen [flutet](https://www.rnd.de/wirtschaft/the-velvet-sundown-wie-ki-die-musikindustrie-herausfordert-QVV2GMJSANG4LKIL3IX5BEMNMY.html), desto kleiner wird der Anteil der Einnahmen für echte Musikschaffende. Retorten-Sound und -Lyrics scheinen viele der Hörer nicht zu stören (vor allem, wenn sie nicht wissen, dass es KI generiert ist). 
 
 ## Dystopia
-* Über 90 Prozent der Studierenden nutzen im Studium KI. Ex­per­t*in­nen und Beteiligte streiten, ob das der Lehre und dem Lernen hilft oder schadet.
-  https://taz.de/Kuenstliche-Intelligenz-an-Universitaeten/!6098917/
-* frictionlessness and "AI"
-  https://tante.cc/2025/07/30/friction-and-not-being-touched/
-* The Hater's Guide To The AI Bubble
-  https://www.wheresyoured.at/the-haters-gui/
-  https://chaos.social/@stk/114938228748938132
-* For the first time, this report reveals emerging tensions in the narrative around AI
-  https://report2025.seismic.org
+Schnelles Feedback für Studenten durch KI-Tutoren, weniger stupide Aufgaben, denn die kann ja die KI erledigen und generelle Entlastung bei der Arbeit, das sind die erhofften und zum Teil vielleicht auch erreichten Effekten, durch den Einsatz generativer KI-Systeme an den Universität. [Inzwischen nutzen 90 Prozent der Studierenden im Studium KI](https://taz.de/Kuenstliche-Intelligenz-an-Universitaeten/!6098917/). Hausarbeiten enthalten zum Teil keinen einzigen selbst geschriebenen Satz mehr. Grundlegende Kulturtechniken verstehendes Lesen längerer Texte und die Fähigkeit eigene schlüssige Argumentationsketten zu entwickeln (und das vorgesetzte kritisch ins Frage zu stellen) werden dabei zunehmend "de-skilled", weniger Netzwerkbildung im Gehirn, weniger Identifikation mit seinen Schreiberzeugnissen kommen hinzu. Aber aus Bequemlichkeit, (vermeintlicher) Konkurrenzdruck und der Angst vor dem Fall-Behind macht man doch mit. Nur weil nun alle schneller rennen, werden ohne wirkliche strukturelle Verbesserungen, am Ende, [wenn die Musik aus](https://de.wikipedia.org/wiki/Reise_nach_Jerusalem), immer noch nicht Platz für alle sein. An den Unis ist man inzwischen dazu übergegangen, das Wissen mehr durch zu haltende Präsentationen und mündliche Prüfungen abzuprüfen.
 
-### KI in der Verwaltung
-* Neuer KI-Assistenz F13
-  https://social.bund.de/@zendis/114907530245674869
-  https://gitlab.opencode.de/f13
-  https://f13-os.de
-* LLMoin kann jetzt bundesweit von Ländern und Kommunen genutzt werden
-  https://www.dataport-kommunal.de/aktuell/news/nachricht/llmoin-kann-jetzt-bundesweit-von-laendern-und-kommunen-genutzt-werden/
+Aus den Umfrageergebnissen des [Seismic Report 2025](https://report2025.seismic.org) (auch als [pdf](https://report2025.seismic.org/media/documents/On_the_Razors_Edge_Seismic_Report_2025.pdf)) zeichnet sich ab, dass Menschen inzwischen stärker annehmen, dass KI ihr Leben zum Schlechteren verändern wird, insbesondere bei zwischenmenschlichen Beziehungen. 
 
-
-### Neue Modelle und Tools
-* China verstärkt KI-Offensive mit neuen Open-Source-Modellen
-  https://www.telepolis.de/features/China-verstaerkt-KI-Offensive-mit-neuen-Open-Source-Modellen-10504672.html
-* NuExtract 2.0 is a VLM specialized in extracting structured information (JSON output) from texts, PDFs, scans, etc.
-  https://nuextract.ai
-  https://www.linkedin.com/posts/patrick-fleith_time-to-extract-what-you-need-from-your-pdfs-activity-7353668961906925568-HD9Q
-* Supervision
-  https://www.linkedin.com/posts/skalskip92_computervision-objectdetection-opensource-activity-7355515936860209152-zCp4
-  https://github.com/roboflow/supervision
-
-### Anwendungsfälle
-* KI entwirft Bauplan für einen Beton, der das Klima schützen soll
-  https://t3n.de/news/ki-allegro-fm-entwirft-co2-bindenden-beton-1698873/
-* Civic Data Lab Datenlabor: Wie gut funktioniert KI-gestützte Session-Dokumentation?
-  https://civic-data.de/ki-session-dokumentation-im-test-smartphone-vs-profi-mikrofon-datenschutzkonformer-workflow/
-
-### Ressourcenverbrauch
-* Schockierende Zahlen: Bericht enthüllt Umweltauswirkungen von KI
-  https://www.basicthinking.de/blog/2025/07/30/ki-umweltbericht/
-* Per API oder Web-App: EcoLogits schätzt Ressourcenverbrauch von Sprachmodellen
-  https://reset.org/api-web-app-ecologits-schatzt-ressourcenverbrauch-sprachmodellen/
+Keine Gegenrede, keine Widersprüche ertragen müssen, keine große Kompromisse eingehen müssen, jeder Wunsch wird ohne Verzögerung erfüllt - [verlernen wir Reibung / Brüche auszuhalten](https://tante.cc/2025/07/30/friction-and-not-being-touched/)? Sind Chatbots nach Haustieren (die auch schon nie wiedersprochen haben) der neue Partnerersatz?
 
 ## Transparenz
 ### Günstlingswirtschaft
