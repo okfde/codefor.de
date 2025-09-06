@@ -12,9 +12,16 @@ type: blog
 ---
 
 ## Open Data
+* Challenge NRW Wahl
+  https://docs.google.com/document/d/1rcFztfOnn9rtjhgVgKKJX-SiqsLehuJDHpsU-qUy0sM/edit?tab=t.0#heading=h.7gmye4vq0kw3
+  https://drive.google.com/drive/folders/1Le0pqdcepjrD0b2FPJwCqyFR7WDDQrHN
+  https://www.demokratie-wegweiser.de/
 ## Neue Daten
 * Der Haushalt der Stadt Leipzig ist jetzt als Open Data verfügbar!
   https://gruene.social/@depressiveRobot/115101124581775201
+* Kulturkataster Berlin
+  https://kulturkataster.berlin
+  https://www.technologiestiftung-berlin.de/projekte/berliner-kulturkataster
 ### Deutsche Bahn
 * Abschaltung des DB-Open-Data-Portals - Hobbyprojekt stabiler
   https://chaos.social/@stk/114972405067523383
@@ -40,6 +47,8 @@ type: blog
 ## Visualisierung
 * Datenkompetenz am Schlüsselbund
   https://citylab-berlin.org/de/blog/datenkompetenz-am-schluesselbund/
+* Wo Berlins private Pools stehen – und was das über die Stadt verrät
+  https://interaktiv.tagesspiegel.de/lab/wo-berlins-private-pools-stehen-und-was-das-uber-die-stadt-verraet-luftbilder-hitze-wasser-ungleichheit-datenanalyse/
 
 ## Open Access
 * Belgisches Gericht ordnet Sperre der Open Library des Internet Archive an
@@ -140,8 +149,9 @@ type: blog
 * Digitalministerium: Bayerische Kommunen führen bei digitaler Verwaltung
   https://www.heise.de/news/Digitalministerium-Bayerische-Kommunen-fuehren-bei-digitaler-Verwaltung-10626707.html
 
-
 ## Karten
+* Umfrage Geodaten
+  https://umfragen.evasys.frankfurt-university.de/evasys/public/online/index/index?online_php=&p=geodaten-umfrage&ONLINEID=471651572774326331399320645899210680587343
 * MitmachMap – Mit offenen Tools einen digitalen Plan mit 360-Grad-Fotos erstellen
   https://ev-akademie-wittenberg.de/diskurs/mitmachmap-die-anleitung/
   https://ev-akademie-wittenberg.de/aktivitaeten/offene-software-offene-gesellschaft/
@@ -159,6 +169,9 @@ type: blog
   https://heigit.org/identifying-infrastructure-gaps-with-road-surface-dataset/
 * Markmacht von Booking.com: Alternativ kann man Hotels etwa über ­OpenStreetMap suchen
   https://taz.de/Sammelklage-gegen-Bookingcom/!6107471/
+* Demokratie-Wegweiser
+  https://www.demokratie-wegweiser.de/karte-hilfe/
+
 
 ## Mobilität
 * Temporary Road Closures Database and API
@@ -305,7 +318,7 @@ type: blog
 * So wenig aus dem Infrastruktur-Topf soll in den Kommunen ankommen
   https://correctiv.org/aktuelles/wirtschaft/2025/08/27/so-wenig-aus-dem-infrastruktur-topf-soll-in-den-kommunen-ankommen/
 
-## KI
+## KI essen Seele auf
 ### AI Act
 * EU-Kommission stellt KI-Verordnung scharf: Bürokratie vs. Grundrechteschutz
   https://www.heise.de/hintergrund/EU-Kommission-stellt-KI-Verordnung-scharf-Buerokratie-vs-Grundrechteschutz-10489282.html?seite=all
