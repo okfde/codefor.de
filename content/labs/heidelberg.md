@@ -5,16 +5,19 @@ lab: OK Lab Heidelberg
 lat: 49.40768
 long: 8.69079
 markerposition: left
-inactive: true
+inactive: false
 
 aliases:
 - /heidelberg
 - /hd
 
 members:
+- name: Stephan Frenzel
+  username_github: sfrenzel
+- name: Jaro Eiermann
+  username_github:
 - name: Jasper Schmidt
   username_github:
-  username_twitter:
 - name: Mandy Reinhardt
   username_github: mandyr
 
@@ -24,12 +27,11 @@ links:
 - name: Twitter
   url: https://twitter.com/OKL_HD
 
-
 leads:
-- name: Jasper Schmidt
-  url: mailto:jasper.schmidt@dai-heidelberg.de
-- name: Mandy Reinhardt
-  url: mailto:ok-lab@mandyr.de
+- name: Stephan Frenzel
+  url: mailto:sfrenzel@kybeidos.de
+- name: Jaro Eiermann
+  url: mailto:jaro.eiermann@googlemail.com
 
 ---
 
