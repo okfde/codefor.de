@@ -312,6 +312,8 @@ type: blog
 ## Wissenschaft
 * Medizinische Forschung geht am tatsächlichen Bedarf oft vorbei
   https://idw-online.de/de/news857180
+  * Vom Interessanten zum Relevanten
+    https://gdch.app/article/vom-interessanten-zum-relevanten-4152834
 
 ## Kultur
 * Ein virtueller Spaziergang durch das digitalisierte Berliner Kulturerbe
