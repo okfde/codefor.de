@@ -12,39 +12,27 @@ type: blog
 ---
 
 ## Open Data
-* Challenge NRW Wahl
-  https://docs.google.com/document/d/1rcFztfOnn9rtjhgVgKKJX-SiqsLehuJDHpsU-qUy0sM/edit?tab=t.0#heading=h.7gmye4vq0kw3
-  https://drive.google.com/drive/folders/1Le0pqdcepjrD0b2FPJwCqyFR7WDDQrHN
-  https://www.demokratie-wegweiser.de/
-* Ergebnisse der Studie „Black Box Bildung“
-  https://okfn.de/blog/2025/08/ergebnisse-der-studie-black-box-bildung/
-## Neue Daten
-* Der Haushalt der Stadt Leipzig ist jetzt als Open Data verfügbar!
-  https://gruene.social/@depressiveRobot/115101124581775201
-* Kulturkataster Berlin
-  https://kulturkataster.berlin
-  https://www.technologiestiftung-berlin.de/projekte/berliner-kulturkataster
-### Deutsche Bahn
-* Abschaltung des DB-Open-Data-Portals - Hobbyprojekt stabiler
-  https://chaos.social/@stk/114972405067523383
-### Stories
-* Herzstillstand, wenn jede Sekunde zählt. Wie Daten und Journalismus Leben retten können
-  https://civic-data.de/herzstillstand-wenn-jede-sekunde-zaehlt-wie-daten-und-journalismus-leben-retten-koennen/
-### Wikidata
-* How Wikidata is Coding for Humanity
-  https://www.stephenharrison.com/p/how-wikidata-is-coding-for-humanity
-  https://mastodon.online/@nightrose/114975934318995485
-* wikidata-graph-builder
-  https://angryloki.github.io/wikidata-graph-builder/
-## Linked Open Data
-* Ab jetzt können die DCAT-AP.de-Metadaten auf govdata nicht nur als RDF, sondern auch als TTL, RDF und JsonLD angeschaut (mit Syntaxhighlighting) und heruntergeladen werden.
-  https://www.linkedin.com/posts/govdata-de_govdata-opendata-ogd-activity-7358093573382201347-kUuO
-* Hydrantenmapping in OpenStreetMap – Schoener leben mit Fast-Linked-Open-Data
-  https://stefan.bloggt.es/2025/08/hydrantenmapping-in-openstreetmap-schoener-leben-mit-fast-linked-open-data/
-## Schuldaten
-* Woher stammen eigentlich die Daten von dem ehrenamtlich erstellten, deutschlandweiten Schulverzeichnis https://jedeschule.codefor.de/?
-  https://cloud.okfn.de/s/K3SzwNjysWxfKfq
-  https://norden.social/@datenschatz/115116429891221118
+Mit der interaktiven Web-Story [notfallrettung.swr.de](https://notfallrettung.swr.de/) des [SWR Data Lab](https://www.swr.de/home/swr-data-lab-team-100.html) lässt sich herausfinden, wie gut (und vor allem schnell) die Reanimationskette (also Notfallerkennung, die Reanimation durch Laien bis zur schließlich professionellen Versorgung) vor Ort organisiert ist, wenn man selbst entweder als Betroffene:r oder Helfende:r auf die Notfallrettung bei z.B. einem Herzstillstand angewiesen ist. Welchen Rechercheaufwand die beteiligten (Daten-)Journalisten betreiben mussten, beleuchtet dieser [Hintergrundbericht](https://civic-data.de/herzstillstand-wenn-jede-sekunde-zaehlt-wie-daten-und-journalismus-leben-retten-koennen/). Da die vom [Deutsche Reanimationsregister](https://www.reanimationsregister.de) gesammelten Informationen nicht öffentlich zugänglich sind, mussten Daten selbst erhoben, validiert und kontextualisiert werden. Die offenbarten Datenlücken wurden den verantwortlichen Stellen zurückgespielt. 
+
+### Haushaltdaten
+In Leipzig sind [Finanz- und Ergebnishaushalt](https://opendata.leipzig.de/dataset/?tags=Doppelhaushalt) endlich [Open Data](https://gruene.social/@depressiveRobot/115101124581775201), eine deutliche Verbesserung gegenüber 3600-seitigen [PDFs](https://www.leipzig.de/buergerservice-und-verwaltung/stadtverwaltung/haushalt-und-finanzen#c340660), aber immer noch weit weg vom Linked-Open-Data-Ideal. 
+
+### Schuldaten
+Die im Rahmen der Kurzstudie [Black Box Bildung](https://okfn.de/publikationen/black-box-bildung/) von der [Open Knowledge Foundation](https://okfn.de/) befragten zehn Expert:innen kamen [einhellig zum Schluss](https://okfn.de/blog/2025/08/ergebnisse-der-studie-black-box-bildung/), dass es als Grundvoraussetzung ein Umdenken in der Organisation von Schulen und Schulbehörden braucht, um so über eine solche Entlastung der Schulleitung und der Lehrenden (auch durch mehr Personal und Finanzen) überhaupt die Handlungsspielräume zu schaffen, Datenkompetenzen aufbauen zu können und einen Kulturwandel hinsichtlich Lern-, Fehler- und Problemlösungskultur vollziehen zu können. Mit einheitlichen Softwarelösungen aber auch den Schulen mehr gewährter Prozessanpassungsautonomie fiele es dann auch leichter, Stammdaten über Schulen und sogar Leistungsdaten (z.B. Veränderung der Grundkompetenzen wie Lese- und Schreibfähigkeit) regelmäßig, systematisch detailliert und mit den Daten anderer Schulen vergleichbar zu erfassen. 
+
+Aktuell werden die Stammdaten von Schulen (Name, Standort, Schulform, Träger) in Deutschland immer noch von Ehrenamtlichen zusammengetragen und aktualisiert, [soweit überhaupt möglich](https://norden.social/@datenschatz/115116429891221118).
+
+### Metadaten
+[Ab jetzt](https://www.linkedin.com/posts/govdata-de_govdata-opendata-ogd-activity-7358093573382201347-kUuO) können die DCAT-AP.de-Metadaten auf [GovData](https://www.govdata.de/) nicht nur als RDF, sondern auch als TTL, RDF und JsonLD angeschaut (mit Syntaxhighlighting) und heruntergeladen werden.
+
+Seinen persönlichen Entscheidungsbaum, wie er überprüft, ob DCAT-Datensätze noch aktuell sind, hat [Jesper Zedlitz im Open Data Forum auf Open Code geteilt](https://discourse.opencode.de/t/datensaetze-auf-aktualitaet-pruefen/4329).
+
+In der täglichen Arbeit merkt man schnell, [wie sehr immer noch](https://discourse.opencode.de/t/teile-einer-stadt-als-lod/4286) ein abgestimmtes einheitliches Vokabular fehlt, um eine städteübergreifende Vergleichbarkeit für die Kommunalstatistik zu ermöglichen. So ist beispielsweise die Zergliederung von Räumen nicht standardisiert, die eine Stadt aggregiert ihre Bezirke in Stadtteile, in anderen Städte bestehen dagegen Bezirke aus Stadtteilen. Nicht klare Festlegungen in der Spezifikation verstärken zusätzlich Unsicherheiten, welche Felder mit welchen Vokabularieren zu befüllen, entsprechend [bildet sich Wildwuchs](https://discourse.opencode.de/t/raumbezug-in-dcat-ap-de/4299) bzw. [Interpretationsspielräume](https://discourse.opencode.de/t/verweis-auf-dashboard/4294). Wichtig daher in Standardisierungsgremien regelmäßige Konsolidierungen durchzuführen (also nicht oder kaum genutzte Felder wieder entfernen bzw. mit anderen zusammenlegen, um Komplexität zu reduzieren; das am häufigste genutzten Vokabular als Standard festlegen, um Varianz einzudämmen; aber auch neue Felder / Konzepte einführen, wenn in der Praxis neue Bedarfe aufgetaucht sind, die sich durch die bisherigen Strukturen nur behelfsmäßig modellieren ließen).
+
+## Wikidata
+[Wikidata](https://www.wikidata.org/), einst 2012 gestartet, um Fakten sprachunabhängig für die 300 Wikipedia-Instanzen zentral referenzierbar zu haben, wird inzwischen auch in zahlreichen anderen Digitalprojekten direkt oder als eigene Dateninstanz genutzt. Sei es, um den geeigneten Ansprechpartner zu finden, wie in [Govdirectory](https://www.govdirectory.org) und in [Every Politican](https://www.wikidata.org/wiki/Wikidata:WikiProject_every_politician), oder auch als Bibliothekskatalog in [Inventaire](https://inventaire.io/), mit dem unter anderem auf einer Karte tracken, wem man gerade ein Buch verliehen hat. Im [Gespräch](https://www.stephenharrison.com/p/how-wikidata-is-coding-for-humanity) mit Stephen Harrison weist Lydia Pintscher allerdings auf das Ungleichgewicht hin, dass die knapp 116 Millionen Wikidata-Einträge aktuell von nur 25.000 monatlich Aktiven gepflegt werden. Dabei ist das Bearbeiten der Einträge auf für Nicht-Programmierende auch durch Tools wie [Mix'n'Match](https://mix-n-match.toolforge.org/#/) sehr niederschwellig.
+
+Schöne Referenzketten zwischen Wikidata-Einträgen lassen sich mit dem [Wikidara Graph Builder](https://angryloki.github.io/wikidata-graph-builder/) visualisieren.
 
 ## Visualisierung
 * Datenkompetenz am Schlüsselbund
@@ -174,8 +162,13 @@ type: blog
   https://heigit.org/identifying-infrastructure-gaps-with-road-surface-dataset/
 * Markmacht von Booking.com: Alternativ kann man Hotels etwa über ­OpenStreetMap suchen
   https://taz.de/Sammelklage-gegen-Bookingcom/!6107471/
-* Demokratie-Wegweiser
+* Der Demokratie-Wegweiser ist in einer neuen Version online
+  https://www.linkedin.com/posts/demokratie-wegweiser_neuer-demokratie-wegweiser-jetzt-testen-activity-7374711918197891072-RQEd
+  https://www.demokratie-wegweiser.de/
+  https://karte.demokratie-wegweiser.de
   https://www.demokratie-wegweiser.de/karte-hilfe/
+* Hydrantenmapping in OpenStreetMap – Schoener leben mit Fast-Linked-Open-Data
+  https://stefan.bloggt.es/2025/08/hydrantenmapping-in-openstreetmap-schoener-leben-mit-fast-linked-open-data/
 
 ## Mobilität
 * Temporary Road Closures Database and API
