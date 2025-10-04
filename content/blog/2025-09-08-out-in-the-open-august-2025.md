@@ -35,49 +35,35 @@ In der täglichen Arbeit merkt man schnell, [wie sehr immer noch](https://discou
 Schöne Referenzketten zwischen Wikidata-Einträgen lassen sich mit dem [Wikidara Graph Builder](https://angryloki.github.io/wikidata-graph-builder/) visualisieren.
 
 ## Visualisierung
-* Datenkompetenz am Schlüsselbund
-  https://citylab-berlin.org/de/blog/datenkompetenz-am-schluesselbund/
-* Wo Berlins private Pools stehen – und was das über die Stadt verrät
-  https://interaktiv.tagesspiegel.de/lab/wo-berlins-private-pools-stehen-und-was-das-uber-die-stadt-verraet-luftbilder-hitze-wasser-ungleichheit-datenanalyse/
+Etwa 23.000 private Bassins ließen sich mittels KI auf Luftbildern Berlins aufspüren. Ihre Ausbaustufe und räumliche Verteilung verraten, dass nicht unbedingt nur Geld sondern vor allem Platz eine Rolle spielt und ensprechend vermehrt am Stadtrand zu finden sind. Ausgehend von [einem Studierenden-Projekt](https://uclab.fh-potsdam.de/mapping/water/), das untersuchen wollte, wie fair der Zugang zu kühlendem Nass in Berlin verteilt ist, hat man [in der Datenanalyse vom Tagesspiegel](https://interaktiv.tagesspiegel.de/lab/wo-berlins-private-pools-stehen-und-was-das-uber-die-stadt-verraet-luftbilder-hitze-wasser-ungleichheit-datenanalyse/) auch viel Wert auf Ursachenanalyse gelegt, wie fehlende bzw. zu teure öffentliche Bäder, fehlende kühle Orte in Berlin, aber auch Ausdruck von [Geltungskonsum](https://de.wikipedia.org/wiki/Geltungskonsum) oder auch Ausgleich zu fehlenden finanziellen Möglichkeiten um zu verreisen.
+
+Daten haptisch erfahrbar machen, war Ziel [eines Workshops](https://citylab-berlin.org/de/blog/datenkompetenz-am-schluesselbund/), an dessen Ende die Teilnehmenden die Klassifikation der von ihnen erhobenen Daten (z.B. tägliche Smartphone-Bildschirmzeit) auf Form, Größe und Farbe auf Acrylglas-Schlüsselanhängern kodiert haben.
 
 ## Open Access
-* Belgisches Gericht ordnet Sperre der Open Library des Internet Archive an
-  https://www.heise.de/news/Belgisches-Gericht-ordnet-Sperre-der-Open-Library-des-Internet-Archive-an-10507895.html
-  * "Ein LLM mit Anna‘s Archive und Sci-Hub zu füttern ist okay, aber Du darfst da nicht ran."
-    https://infosec.exchange/@isotopp/114963159668145924
-* Forschung ohne Schranken: Mecklenburg-Vorpommern stellt Open-Access-Konzept vor
-  https://www.heise.de/news/Freier-Zugang-zu-Forschung-Mecklenburg-Vorpommern-investiert-in-Open-Access-10512085.html
-* BiomarkerKB Project
-  https://cthoyt.com/2025/08/22/bioregistry-and-biomarkerkb.html
-  https://biomarkerkb.org
-  https://scholar.social/@cthoyt/115071936208293974
-* Einführung in Qualitative Sozialforschung
-  https://klinkhardt.de/sites/default/files/sonst-pdf/9783781561885grasschieferdeckerqualitative.pdf
-  https://eduresearch.social/@verbundfdb/115095685136530714
-* Fälschungen in der Forschung nehmen zu
-  https://www.tagesschau.de/wissen/forschung/organisierter-wissenschaftsbetrug-100.html
+Damit wissenschaftliche Veröffentlichungen aus Forschungsprojekten, in die öffentliche Gelder geflossen sind. nicht hinter Bezahlschranken landen, hate Mecklenburg-Vorpommern eine Open-Access-Strategie für Wissenschaft und Forschung [beschlossen](https://www.heise.de/news/Freier-Zugang-zu-Forschung-Mecklenburg-Vorpommern-investiert-in-Open-Access-10512085.html).
+
+[BiomarkerKB](https://biomarkerkb.org) ist eine de [FAIR-Prinzipien](https://de.wikipedia.org/wiki/FAIR-Prinzipien) folgende Datenbank für [Biomarker](https://de.wikipedia.org/wiki/Biomarker), in der die Wissenschafts-Community auch die zu Grunde liegenden Ontologien [weiterentwickeln können](https://cthoyt.com/2025/08/22/bioregistry-and-biomarkerkb.html).
+
+Der Sammelband ["Einführung in Qualitative Sozialforschung"](https://klinkhardt.de/sites/default/files/sonst-pdf/9783781561885grasschieferdeckerqualitative.pdf) ist Open Access und enthält unter anderem [einen Beitrag darüber](https://eduresearch.social/@verbundfdb/115095685136530714), warum Forschungsdatenmanagement der Schlüssel für gute wissenschaftlicher Praxis ist - da durch sie Daten nachvollziehbar dokumentiert, sicher gespeichert und so auch nach Projektende für andere Forschende sowie Studierende nachnutzbar gemacht werden.
+
+## Wissenschaftsbetrieb
+Weltweit nehmen Herz-Kreislauf-Erkrankungen, Suchterkrankungen oder Diabetes stark zu, nur die Gesundheitsforschung hat, [wie eine Langzeitstudie nun belegt](https://idw-online.de/de/news857180), bislang ihren Fokus nicht entsprechend angepasst. Gründe dafür sind, dass die Forschung hauptsächlich in westlichen Ländern statt, Diabetes aber vor allem in Südamerika und in einigen asiatischen Ländern die Ausmaße einer Volkskrankheit annimmt. Zudem zeichnet sich die hohe Abhängigkeit von öffentlicher US-Förderung durch die sich gerade vollziehenden politischen Veränderungen in den USA als zukünftiges großes Problem ab. Ein Grund mehr, viel stärker auf Open Science und verpflichtendes Daten-Sharing zu setzen.
+
+Eben diese wirtschaftlichen Zwänge zeigen, welch hohes Gut die [Wissenschaftsfreiheit](https://de.wikipedia.org/wiki/Akademische_Freiheit) ist, und doch geht diese Freiheit mit der Verantwortung jeden Forschenden einher, nicht nur persönlichen nischigen Leidenschaften zu folgen sondern auch immer [die gesamtgesellschaftliche Relevanz im Blick zu behalten](https://gdch.app/article/vom-interessanten-zum-relevanten-4152834).
+
+Leider sind die Anzahl an Publikationen und Referenzen immer noch die (leicht messbaren) Hauptkriterien für die Vergabe von Fördergeldern. Aus diesem Publikationsdruck und anderen karrieristischen Beweggründen werfen immer mehr Forschende ihren Ethos über Bord. Bei Analyse des Umstands, dass immer häufiger Fachartikel zurückgezogen werden, weil sie als Fälschungen oder als gekauft entlavt wurden, [offenbarte sich](https://www.tagesschau.de/wissen/forschung/organisierter-wissenschaftsbetrug-100.html), dass in ihnen die gleichen gefälschten Statistiken und Diagramme auftauchten. Auf eine neue korrekte Veröffentlichung kommen inzwischen 10 gefälschte, hier kann man zurecht von "industriellen Ausmaßen" sprechen. Bei den Möglichkeiten, die KI inzwischen bietet, auch kein großer zeitliche Aufwand mehr, ganz im Gegensatz zum Aufdecken. Derweil fließen die gefakten Artikel ins Trainingset der KIs selbst und replizieren sich ungehindert weiter.
 
 ## Open Source
-* "Is it really FOSS?" zeigt, welche Software wirklich frei und offen ist – und welche Anbieter nur mit dem Begriff werben.
-  https://www.heise.de/news/Web-Tipps-Wie-Open-Source-ist-ein-Projekt-10498298.html
-  https://isitreallyfoss.com
-* BMW, VW und Mercedes: Deutsche Autobauer treiben Open-Source-Einsatz voran
-  https://www.heise.de/news/Autonomes-Fahren-Co-Deutsche-Autobauer-treiben-Open-Source-Einsatz-voran-10510857.html
-* Flohmarkt
-  https://codeberg.org/flohmarkt/flohmarkt
-  https://pandas.social/@panda/115077361602177644
-  https://adminforge.de/tools/flohmarkt-ein-marktplatz-im-fediverse/
-  https://mastodon.de/@knix/115122509955420411
-* Usability und Zielgruppenfokus in Open-Source-Projekten — Evaluation der Prototype Fund Runden 15 & 16
-  https://www.prototypefund.de/blog/usability-und-zielgruppenfokus-in-open-source-projekten-erkenntnisse-aus-den-prototype-fund-runden-15-16
+Mehr Schein als Sein liegt auch bei mancher Software vor, die sich selbst als offen oder frei bewirbt. Die Webseite [Is it really FOSS?](https://isitreallyfoss.com) hat da bei über 80 Projekten etwas genau hingeschaut, und den ein oder anderen Fall von "Open Washing" [entdeckt](https://www.heise.de/news/Web-Tipps-Wie-Open-Source-ist-ein-Projekt-10498298.html).
+
+Das [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)-Protokoll kommt bei [dieser Implementierung](https://codeberg.org/flohmarkt/flohmarkt) einer [Flohmarkt-Anwendung](https://flohmarkt.adminforge.de) zum Einsatz, also einer föderierten Open-Souce-Alternative zu [Kleinanzeigen, eBay & Co. im Fediverse](https://mastodon.de/@knix/115122509955420411).
+
+Beim Prototyp Fund hat man die Projekte der letzten beiden Förderrunden hinsichtlich Usability und Zielgruppenerreichung [analysiert](https://www.prototypefund.de/blog/usability-und-zielgruppenfokus-in-open-source-projekten-erkenntnisse-aus-den-prototype-fund-runden-15-16) und ein breite Streuung feststellen müssen.
 
 ## Citizen Science
-* Forscher suchen Katzen-Videos
-  https://www.n-tv.de/wissen/Forscher-suchen-Katzen-Videos-article25943680.html
-  via https://mas.to/@nemo/114983208859893723
-* Habt ihr bereits KI in euren Citizen-Science-Projekten eingesetzt? 
-  https://www.soscisurvey.de/KI-Citizen-Science/
-  https://wisskomm.social/@wissenschaftimdialog/115094104748732287
+Katzen-Videos for Good - Forschende [rufen dazu](https://mas.to/@nemo/114983208859893723) auf, entsprechende Videos mit ihnen zu teilen, sie möchten aus ihnen Körpersprache, Pfotenpräferenz und Schwanzhaltung von Katzen [analysieren](https://www.n-tv.de/wissen/Forscher-suchen-Katzen-Videos-article25943680.html).
+
+Eine [Umfrage](https://www.soscisurvey.de/KI-Citizen-Science/) möchte [wissen](https://wisskomm.social/@wissenschaftimdialog/115094104748732287), ob man schon KI in einem seiner Citizen-Science-Projekten eingesetzt hat.
 
 ## Digitale Souveränität
 * Ausgegoogelt? Ecosia und Qwant starten ersten europäischen Suchindex
@@ -301,12 +287,6 @@ Schöne Referenzketten zwischen Wikidata-Einträgen lassen sich mit dem [Wikidar
     https://iopscience.iop.org/article/10.1088/1748-9326/adfa3b
   * Physics-Based Indicators for the Onset of an AMOC Collapse Under Climate Change
     https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022651
-
-## Wissenschaft
-* Medizinische Forschung geht am tatsächlichen Bedarf oft vorbei
-  https://idw-online.de/de/news857180
-  * Vom Interessanten zum Relevanten
-    https://gdch.app/article/vom-interessanten-zum-relevanten-4152834
 
 ## Kultur
 * Ein virtueller Spaziergang durch das digitalisierte Berliner Kulturerbe
