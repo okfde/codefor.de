@@ -128,42 +128,26 @@ Um die [Standard-Instanz](https://nominatim.openstreetmap.org/) von kostenlosen 
 Wie schnell kostenlose Map-Dienste überlastet sein können, hat der Entwickler hinter [OpenFreeMap](https://openfreemap.org) für den Fall [wplace.live](https://wplace.live), einer neuen kollaborativen Zeichen-Plattform, in seinem Blog [dokumentiert](https://blog.hyperknot.com/p/openfreemap-survived-100000-requests). Durch einen unerwartet rasanten Nutzerzuwachs hatte diese über 100.000 Requests in der Sekunde verursacht. Inzwischen nutzt sie aber eine eigene OpenFreeMap-Instanz, so dass die öffentliche Instanz wieder entlastet ist. 
 
 ## Mobilität
-* Temporary Road Closures Database and API
-  https://github.com/Archit1706/temporary-road-closures
-  https://closures.osm.ch
-  https://www.openstreetmap.org/user/Archit%20Rathod/diary/407192
-  https://fedifreu.de/@thomas/115025623251347296
-* Den Kindern bleibt immer weniger Raum zum gefahrlosen Spielen.
-  https://www.deutschlandfunkkultur.de/vom-sandhaufen-zur-kletterlandschaft-wie-viel-oeffentl-raum-gehoert-den-kindern-100.html
-  via https://climatejustice.global/@GermanZeroHH/114977583381421756
-* Darum kommen Züge so oft zu spät
-  https://www.deutschlandfunk.de/deutsche-bahn-verspaetung-zug-gruende-puenktlichkeit-100.html
-* Verkehrswende in Paris: Blick in die Zukunft
-  https://taz.de/Verkehrswende-in-Paris/!6105200/
-* Die Deutschen haben immer mehr Autos
-  https://www.n-tv.de/wirtschaft/Die-Deutschen-haben-immer-mehr-Autos-article25978745.html
-* verschleppte e-Mobilität
-  https://mastodon.social/@schrotthaufen/115108103748965584
-  * Verquickung von Autoindustrie und Politik als Gefahr
-    https://www.deutschlandfunkkultur.de/wolfgang-muenchau-kaputt-das-ende-des-deutschen-wirtschaftswunders-100.html
-  * öffentliche Konsultation noch bis 10.10.2025 möglich: Revision of the CO2 emission standards for cars and vans
-    https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14765-Revision-of-the-CO2-emission-standards-for-cars-and-vans_de
-* Documentation for DB InfraGO's OpenStation API
-  https://github.com/dbinfrago/openstation-docs
+Laut [Zahlen des Statistischen Bundesamts](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_N044_46_85.html?nn=2110) hat 2025 mit 49,3 Millionen zugelassener PKWs einen neuen Höchstzustand erreicht. Gerade mal 3,3 Prozent davon sind reine E-Fahrzeuge. Die höchste PKW-Dichten weisen die Flächenländer Saarland (646 pro 1.000 Einwohner:innen), Rheinland-Pfalz (641) und Bayern (635) auf, die niedrigste die Stadtstaaten Berlin (334), Bremen (427) und Hamburg (435) auf Grund des dichten ÖPNV-Netzes. Auch wenn die CO2-Emissionen um 13,8% gegenüber 2019 gesunken sind, hätten sie doch noch viel stärker sinken können. Bessere Luft, weniger Lärm und mehr Sicherheit sind weitere Aspekte, die beispielweise Paris durch seine Verkehrswende [geschafft hat](https://taz.de/Verkehrswende-in-Paris/!6105200/), während Kindern in Deutschland immer [weniger Raum zum gefahrlosen Spielen bleibt](https://www.deutschlandfunkkultur.de/vom-sandhaufen-zur-kletterlandschaft-wie-viel-oeffentl-raum-gehoert-den-kindern-100.html).
+
+Dass die e-Mobilität in Deutschland [weiter verschleppt wird](https://mastodon.social/@schrotthaufen/115108103748965584), liegt auch an der [Verquickung von Autoindustrie und Politik](https://www.deutschlandfunkkultur.de/wolfgang-muenchau-kaputt-das-ende-des-deutschen-wirtschaftswunders-100.html). Bleibt nichts anderes, als bei Öffentlichen Konsultation [wie dieser](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14765-Revision-of-the-CO2-emission-standards-for-cars-and-vans_de), die noch bis 10. Oktober geöffnet ist, argumentativ dagegenzuhalten, damit die CO2-Emissionsvorgaben für Neuwagen und VANs nicht weiter aufgeweicht werden.
+
+Aktuelle Straßensperrungen und Baustellen in Echtzeit auch OpenStreetMap basierten Naviagtions-Apps [anzeigen zu können](https://fedifreu.de/@thomas/115025623251347296), hat sich das beim Google Summer of Code entstandene [Open Source](https://github.com/Archit1706/temporary-road-closures) Projekt [Temporary Road Closures Database and API](https://www.openstreetmap.org/user/Archit%20Rathod/diary/407192) vorgenommen. Eine erste Demo kann [hier](https://closures.osm.ch) angesehen werden.
+
+Die marode Infrastruktur ist nicht das Hauptproblem für die vielen Verspätungen im Bahnverkehr, 2024 gingen stattdessen ["mehr als die Hälfte aller Verspätungen auf ein zu volles Netz und zu knapp bemessene Fahrpläne zurück"](https://www.deutschlandfunk.de/deutsche-bahn-verspaetung-zug-gruende-puenktlichkeit-100.html). Ein mit zunehmenden Zugverkehr nicht gleichzeitig mitgewachsenes Schienennetz lässt keine Puffer. Die unterlassenen Investitionen in Streckennetz und Personal für den einst geplanten Börsengang rächen sich nun bitterlich.
+
+Wie man die Daten von Bahnhöfen kommt, verrät die [Dokumentation](https://github.com/dbinfrago/openstation-docs) der DB InfraGO OpenStation API.
 
 ## Energie
-* MapYourGrid
-  https://mapyourgrid.org
-  https://www.youtube.com/watch?v=6rcMVXc2lwc
-  via https://urbanists.social/@TrufiAssoc/114981989358866841
-* Solarmodul mit recyceltem Glas funktioniert genauso gut wie ein neues
-  https://www.basicthinking.de/blog/2025/08/13/solarmodule-recyceltes-glas/
-* Die Vorgaben für das von Wirtschaftsministerin Reiche bestellte Energie-Monitoring sind mangelhaft, ergibt eine Analyse. Untersucht würden auch Szenarien, die das verfassungsrechtlich untermauerte Klimaziel gar nicht einhalten.
-  https://www.klimareporter.de/strom/energiepolitik-mit-und-ohne-klimaziel
-* Germany’s Salt‑and‑Air Battery: A Clean‑Power Revolution Without Lithium
-  https://medium.com/@wind.amiraz/germanys-salt-and-air-battery-a-clean-power-revolution-without-lithium-1711c324267f
-* Boom bei Batteriespeichern: Deutschland auf dem Weg zum Speicherzentrum
-  https://www.telepolis.de/features/Boom-bei-Batteriespeichern-Deutschland-auf-dem-Weg-zum-Speicherzentrum-10626267.html
+Energieversorgung ist wie ÖPNV Vorraussetzung für die Regionalentwicklung. Die Initiative [MapYourGrid](https://mapyourgrid.org) ruft daher dazu auf, [gemeinsam Stromnetze mappen](https://urbanists.social/@TrufiAssoc/114981989358866841) - denn nur was sichtbar ist, kann auch verbessert werden.
+
+Ein Beitrag zur Kreislaufwirtschaft könnten Solarmodule [aus recyceltem Glas leisten](https://www.basicthinking.de/blog/2025/08/13/solarmodule-recyceltes-glas/).
+
+Auch für Salzwasser­batterie zeichnet sich ab, dass sie bald für bestimmte Anwendungsfälle eine saubere weil Lithium freie Alternative [sein können](https://medium.com/@wind.amiraz/germanys-salt-and-air-battery-a-clean-power-revolution-without-lithium-1711c324267f).
+
+Und der Markt für Batteriespeicher in Deutschland [boomt](https://www.telepolis.de/features/Boom-bei-Batteriespeichern-Deutschland-auf-dem-Weg-zum-Speicherzentrum-10626267.html) dank sinkenden Preisen und steigender Nachfrage. Zukünftig wird es außerdem möglich sein Netzstrom zwischenzuspeichern und per Direktvermarktung zu verkaufen.
+
+Eine [GermanWatch-Kurzstudie](https://www.germanwatch.org/sites/default/files/2025-07/Germanwatch_Kurzstudie%20Energiewende-Monitoring_final.pdf) bemängelt die Vorgaben für das von Wirtschaftsministerin Reiche bestellte Energie-Monitoring: so würden auch Szenarien untersucht, die das verfassungsrechtlich untermauerte Ziel, bis 2045 Klimaneutralität zu werden, gar nicht einhalten. Es würde einseitig versucht, Kosteneinsparung durch das Bremsen des Erneuerbaren-Ausbaus und durch mehr fossile Energienutzung zu finden, statt die Strom-Verteilnetze zu modernisieren und auszubauen und so die Energiewende kosteneffizient zu beschleunigen. Dezentrale Energietechnik wie Photovoltaik und Speicher werden schon seit Jahrzehnten systematisch unterschätzt, wie die Internationalen Energieagentur IEA in ihren "World Energy Outlooks" jährlich dokumentiert. Sowohl Photovoltaik und Windenergie wachsen exponentiell, gepaart mit dem Preisverfall beim Batteriespeicher. Das Erneuerbaren-Ziel weiterhin als unrealistisch und völlig überzogen zu bezeichnen, wie es die Ministerin tue, kann ebenso wie das Setzen auf Gaskraftwerke und Wasserstoff entweder nur durch Ideologie und/oder mit Interessen-geleiteten Einflüssen erklärt werden. Nicht zu unrecht wird daher nachdem Altmaier-Knick nun ein "Reiche-Knick" [befürchtet](https://www.klimareporter.de/strom/energiepolitik-mit-und-ohne-klimaziel). 
 
 ## Klima
 ### Finanzen
