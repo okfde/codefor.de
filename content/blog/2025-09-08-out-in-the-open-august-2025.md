@@ -98,45 +98,34 @@ Nach einem Windows-Update werden Office-Dateien per Voreinstellung automatisch i
 Amnesty International hat aus Menschenrechts-Sicht [Gründe ausformuliert](https://www.amnesty.org/en/documents/pol30/0226/2025/en/), die Marktdominanz von Google, Meta, Microsoft, Amazon und Apple [endlich zu brechen](https://digitalcourage.social/@digitalcourage/115135031461683892), da sie eben auch massenhaft Daten sammeln, Hass und Desinformation verstärken oder zu mindestens billigend in Kauf nehmen, die Politik beeinflussen und Alternativen zu sich aktiv blockieren.
 
 ## Verwaltungsdigitalisierung
-* 25 Jahre Verwaltungsdigitalisierung
-  https://egovernment-podcast.com/egov227-25-jahre-digvw/
-* Handlungsfähigkeit und Vertrauen zusammendenken – Anregungen für die Staatsmodernisierung
-  https://okfn.de/blog/2025/08/handlungsf%C3%A4higkeit-und-vertrauen-zusammendenken-anregungen-f%C3%BCr-die-staatsmodernisierung/
-  https://okfn.de/files/publikationen/2025-08-19_staatsmodernisierung.pdf
-* Der Kulturpass für 18-Jährige soll eingestellt werden. Unter anderem wegen der 30 Millionen Euro IT-Kosten pro Jahr. 
-  https://www.linkedin.com/posts/stefan-kaufmann-7a8b54224_der-kulturpass-f%C3%BCr-18-j%C3%A4hrige-soll-eingestellt-activity-7365371867286663170--_tj
-* eGovernment Podcast Monatsschau 08/25
-  https://egovernment-podcast.com/egov229-monatsschau-08-25/
-* Digitalministerium: Bayerische Kommunen führen bei digitaler Verwaltung
-  https://www.heise.de/news/Digitalministerium-Bayerische-Kommunen-fuehren-bei-digitaler-Verwaltung-10626707.html
+Die Open Knowledge Foundation hat [Anregungen](https://okfn.de/files/publikationen/2025-08-19_staatsmodernisierung.pdf) für eine Staatsmodernisierungsagenda [veröffentlicht](https://okfn.de/blog/2025/08/handlungsf%C3%A4higkeit-und-vertrauen-zusammendenken-anregungen-f%C3%BCr-die-staatsmodernisierung/). Das Vertrauen der Bürger in den Staat zu erhalten bzw. zurückzugewinnen sollte dabei Grundlage für die Handlungsfähigkeit des Staates sein. Transparenz, Partizipation und der Schutz von Grund- und Menschenrechten sollten dabei nicht als bürokratischen Hindernisse sondern im Gegenteil als Chance für alle betrachtet werden. 
+
+Die meisten Behördensachen online erledigen kann man [vor allem in bayerischen Kommunen](https://www.heise.de/news/Digitalministerium-Bayerische-Kommunen-fuehren-bei-digitaler-Verwaltung-10626707.html), das [Dashboard Digitale Verwaltung](https://dashboard.digitale-verwaltung.de/verfuegbarkeit/verwaltungsleistungen) zeigt auf einer deutschlandweiten Karte an Hand einer Farbskala die Ausbaustufen in den anderen Kommunen - nach NRW und Hamburg eröffnet sich da bei allen anderen  schnell ein Graben.
+
+Der eGovernment Podcast schaut [in seiner Folge 227](https://egovernment-podcast.com/egov227-25-jahre-digvw/) mit Experten auf 25 Jahre Verwaltungsdigitalisierung in Deutschland zurück, mit zu ziehenden Lehren aus der Vergangenheit, aber auch positiven Beispielen.
 
 ## Karten
-* Umfrage Geodaten
-  https://umfragen.evasys.frankfurt-university.de/evasys/public/online/index/index?online_php=&p=geodaten-umfrage&ONLINEID=471651572774326331399320645899210680587343
-* MitmachMap – Mit offenen Tools einen digitalen Plan mit 360-Grad-Fotos erstellen
-  https://ev-akademie-wittenberg.de/diskurs/mitmachmap-die-anleitung/
-  https://ev-akademie-wittenberg.de/aktivitaeten/offene-software-offene-gesellschaft/
-* hosting custom geocoding with Nominatim Photon just got easier
-  https://nominatim.org/2025/08/13/photon-exports-renewed.html
-  https://mastodon.social/@jakobmiksch/115028661997605921
-* Multimediales IfL-Projekt erzählt Geschichten von Migration und Transformation
-  https://experience.arcgis.com/experience/7fcccca57b1c4aa5ae358a72b64fbfe5/page/Stadtplan_Silke
-  https://wisskomm.social/@Leibniz_IfL/115032015709606755
-* OpenFreeMap survived 100,000 requests per second
-  https://blog.hyperknot.com/p/openfreemap-survived-100000-requests
-  https://openfreemap.org
-  https://wplace.live
-* Identifying infrastructure gaps with road surface dataset
-  https://heigit.org/identifying-infrastructure-gaps-with-road-surface-dataset/
-* Markmacht von Booking.com: Alternativ kann man Hotels etwa über ­OpenStreetMap suchen
-  https://taz.de/Sammelklage-gegen-Bookingcom/!6107471/
-* Der Demokratie-Wegweiser ist in einer neuen Version online
-  https://www.linkedin.com/posts/demokratie-wegweiser_neuer-demokratie-wegweiser-jetzt-testen-activity-7374711918197891072-RQEd
-  https://www.demokratie-wegweiser.de/
-  https://karte.demokratie-wegweiser.de
-  https://www.demokratie-wegweiser.de/karte-hilfe/
-* Hydrantenmapping in OpenStreetMap – Schoener leben mit Fast-Linked-Open-Data
-  https://stefan.bloggt.es/2025/08/hydrantenmapping-in-openstreetmap-schoener-leben-mit-fast-linked-open-data/
+### Anwendungen
+Die multimediale StoryMap ["Stadt in Bewegung"](https://leibniz-ifl.de/presse/details/leipzig-im-wandel) des Instituts für Länderkunde erzählt Geschichten von Migration und Transformation an Hand von drei Biografien [auf der Karte von Leipzig](https://experience.arcgis.com/experience/7fcccca57b1c4aa5ae358a72b64fbfe5/page/Stadtplan_Silke).
+
+Auf [Demokratie-Wegweiser](https://www.demokratie-wegweiser.de/) kann man herausfinden, wer sein seine politischen Ansprechpersonen vor Ort sind. [In der neuen Version](https://www.linkedin.com/posts/demokratie-wegweiser_neuer-demokratie-wegweiser-jetzt-testen-activity-7374711918197891072-RQEd) kann man nun auch direkt nach den Namen der Personen suchen und springt auf den Wahlkreis auf der Karte. Die Bedienung der Karte ist auch nochmal [hier erklärt](https://www.demokratie-wegweiser.de/karte-hilfe/).
+
+### Mitmach-Angebote
+[Wie man](https://ev-akademie-wittenberg.de/diskurs/mitmachmap-die-anleitung/) mit quelloffenen, freien Werkzeigen wie OpenStreetMap und Umap in unter zwei Stunden [einen digitalen Stadtplan](https://ev-akademie-wittenberg.de/diskurs/mitmachmap/) mit wichtigen Orten, die man sich mit Klick auf einen Marker in 360 Grad Rundumsicht anschauen kann, gestalten kann, wurde in einem von der Evangelischen Akademie Sachsen-Anhalt organisierten Workshops beim Konficamp 2025 in Nürtingen gezeigt. Die Akademie bietet [weitere Workshops](https://ev-akademie-wittenberg.de/aktivitaeten/offene-software-offene-gesellschaft/) zu offener Software an.
+
+An Hand einer Fallstudie aus Mosambik wird [in dieser Schritt-für-Schritt-Anleitung](https://heigit.org/identifying-infrastructure-gaps-with-road-surface-dataset/) gezeigt, wie man aus einem Straßenobflächen-Datensatz Lücken in der Zugänglichkeit von Regionen aber auch Lücken in der Erfassung von OpenStreetMap selbst finden kann.
+
+Wer sich an [folgender Umfrage](https://umfragen.evasys.frankfurt-university.de/evasys/public/online/index/index?online_php=&p=geodaten-umfrage&ONLINEID=471651572774326331399320645899210680587343) beteiligt, kann mithelfen, dass Nutzungsarten und Bedarfe sowie Qualitäts- und Versorgungslücken von Geodaten in Deutschland besser verstanden werden, und entsprechend Erfassung und Qualitätssicherung zu priorisieren und zu verbessern.
+
+### OpenStreetMap
+Kartellbehörden haben bereits vor 10 Jahren die Bestpreisklausel von Booking.com als kartellrechtswidrig eingestuft.
+Diese hat Hotels daran gebunden, dass sie ihre Zimmer nicht günstiger als auf der Plattform anbieten durften. Sowohl der Bundesgerichtshof (BGH) (2021) und der Europäische Gerichtshof (2024) bestätigten dies. 2024 hat Booking schließlich diese Klausel abgeschafft. Dennoch haben nun über 15 Tausend Hoteliers über ihren europäischen Dachverband Hotrec eine Sammelklage eingereicht, in der sie rückwirkend für die letzten 20 Jahre Schadenersatz von Booking.com fordern. Die Sichtbarkeit, die eine Buchungsplattform einerseits den Hotels verschafft und andererseits eine zentrale Anlaufstelle für Übernachtungssuchende darstellt, hätte man auch bei OpenStreetMap, wie [der taz-Artikel](https://taz.de/Sammelklage-gegen-Bookingcom/!6107471/) im letzten Abschnitt auch erwähnt.
+
+Einen Deep-Dive in Hydrantenmapping in OpenStreetMap in Kombination mit WikiCommons [gibt Stefan auf seinem Blog](https://stefan.bloggt.es/2025/08/hydrantenmapping-in-openstreetmap-schoener-leben-mit-fast-linked-open-data/).
+
+Um die [Standard-Instanz](https://nominatim.openstreetmap.org/) von kostenlosen Geocoding-Diensten wie Nominatim zu entlasten und ein paar Freiheiten beim Rate-Limiting zu bekommen, lohnt es sich, diese Dienste einfach selbst zu hosten. Mit der neuesten Version von Nominatim Photon [wird das nun noch einfacher](https://nominatim.org/2025/08/13/photon-exports-renewed.html).  
+
+Wie schnell kostenlose Map-Dienste überlastet sein können, hat der Entwickler hinter [OpenFreeMap](https://openfreemap.org) für den Fall [wplace.live](https://wplace.live), einer neuen kollaborativen Zeichen-Plattform, in seinem Blog [dokumentiert](https://blog.hyperknot.com/p/openfreemap-survived-100000-requests). Durch einen unerwartet rasanten Nutzerzuwachs hatte diese über 100.000 Requests in der Sekunde verursacht. Inzwischen nutzt sie aber eine eigene OpenFreeMap-Instanz, so dass die öffentliche Instanz wieder entlastet ist. 
 
 ## Mobilität
 * Temporary Road Closures Database and API
