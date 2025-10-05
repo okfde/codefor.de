@@ -66,54 +66,36 @@ Katzen-Videos for Good - Forschende [rufen dazu](https://mas.to/@nemo/1149832088
 Eine [Umfrage](https://www.soscisurvey.de/KI-Citizen-Science/) möchte [wissen](https://wisskomm.social/@wissenschaftimdialog/115094104748732287), ob man schon KI in einem seiner Citizen-Science-Projekten eingesetzt hat.
 
 ## Digitale Souveränität
-* Ausgegoogelt? Ecosia und Qwant starten ersten europäischen Suchindex
-  https://www.basicthinking.de/blog/2025/08/08/ecosia-qwant-europaeischer-suchindex/
-* "Open Source by Default" im Vergaberecht!
-  https://osb-alliance.de/publikationen/statements/stellungnahme-zum-entwurf-des-gesetzes-zur-beschleunigung-der-vergabe-oeffentlicher-auftraege
-  https://social.osb-alliance.de/@OSBA/114987520649223270
-* "Wir dürfen Digitale Souveränität nicht an an die Wirtschaft delegieren. Digitale Souveränität ist eine Staatsaufgabe, die sich aus der Pflicht zur Daseinsvorsorge ableitet. Und die ist nicht verhandelbar."
-  https://social.bund.de/@zendis/115027674842907728
-* Deutschland setzt weiter auf US-Konzerne und macht sich politisch erpressbar – Zeit für einen Kurswechsel!
-  https://digitalcourage.de/blog/2025/digitale-souveranitaet-bsi
-* Informationssammlung zur Beschaffung von Freier Software
-  https://gitlab.opencode.de/vergabe-von-open-source-software-oss/informationssammlung
-  https://programm.froscon.org/2025/system/event_attachments/attachments/000/000/892/original/2025-08-16-FrOSCon-2025-Viel-Public-Money-wenig-Public-Code.pdf
-  https://23.social/@DieVera/115061724446650088
-* Die Landesregierung erweitert ihre E-Government-Infrastruktur zu einem "Schleswig-Holstein-Stack"
-  https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2025/III/250820_cds_xroad
-  https://mastodon.social/@bkastl/115065314824449358
-* Wenn der Deutschland-Stack neu entwickelt wird, auf was stackt er dann drauf?
-  https://amt.social/@BjoernBeck/115063225214382877
-* Unabhängig von Big Tech – Alternative Apps, eMail- und andere IT-Dienste
-  https://www.deutschlandfunk.de/unabhaengig-von-big-tech-alternative-apps-email-und-andere-it-dienste-100.html
-* Bundesregierung: Deutschland ist in Technologiebereichen von US-Firmen abhängig
-  https://www.heise.de/news/Bundesregierung-Deutschland-ist-in-Technologiebereichen-von-US-Firmen-abhaengig-10590651.html
-* Souveränitäts-Washing wird zum Problem
-  https://www.zendis.de/media/pages/newsroom/publikationen/souveraenitaets-washing/751a2c5eb1-1755243871/zendis-whitepaper-souveraenitaets-washing.pdf
-  https://social.osb-alliance.de/@OSBA/115060705759287714
-* Kommunaler Notbetrieb
-  https://kommunaler-notbetrieb.de/uebersichtskarte/
-  https://netzpolitik.org/2025/ransomware-und-it-stoerungen-wir-brauchen-ein-kommunales-lagebild-zur-informationssicherheit/
-  https://social.tchncs.de/@jela/115089860536087976
-* Offener Brief an Claudia Plattner (BSI): Digitale Souveränität für Deutschland und Europa ist möglich!
-  https://osb-alliance.de/pressemitteilungen/offener-brief-claudia-plattner-bsi-digitale-souveraenitaet-ist-moeglich
-  * BSI-Chefin Plattner erntet Widerspruch
-    https://netzpolitik.org/2025/digitale-souveraenitaet-bsi-chefin-plattner-erntet-widerspruch/
-* Eine Stadt stürzt ins Funkloch
-  https://www.tagesschau.de/wirtschaft/stadt-ohne-empfang-100.html
-* Android: Google verbietet anonyme Apps
-  https://www.heise.de/news/Android-Google-verbietet-anonyme-Apps-10617479.html
-  https://www.androidauthority.com/android-developer-verification-requirements-3590911/
-  https://chaos.social/@grote/115095360358705273
-* 80 Prozent der Technik auch in privaten Solaranlagen stammt aus China und kann von dort fern gesteuert werden. Und es gibt Sicherheitslücken noch und nöcher. 
-  https://chaos.social/@evawolfangel/115088268644821505
-* Windows: MS Word speichert jetzt automatisch in die Cloud
-  https://www.heise.de/news/Windows-MS-Word-speichert-jetzt-automatisch-in-die-Cloud-10623681.html
-* Verbraucher suchen Alternativen zu US-Tech-Produkten
-  https://www.heise.de/hintergrund/Verbraucher-suchen-Alternativen-zu-US-Tech-Produkten-10626788.html
-* Breaking up with Big Tech: A human rights-based argument for tackling Big Tech’s market power
-  https://www.amnesty.org/en/documents/pol30/0226/2025/en/
-  via https://digitalcourage.social/@digitalcourage/115135031461683892
+### Anspruch und Wirklichkeit
+Eine der Präsidentin des Bundesamts für Sicherheit in der Informationstechnik (BSI) [in einem Interview](https://www.heise.de/news/BSI-Praesidentin-Digitale-Souveraenitaet-fuer-Deutschland-vorerst-unerreichbar-10517756.html) fälschlich unterstellten Aussage, dass "Digitale Souveränität für Deutschland vorerst unerreichbar" sei, provizierte [einen offenen Brief](https://osb-alliance.de/pressemitteilungen/offener-brief-claudia-plattner-bsi-digitale-souveraenitaet-ist-moeglich) von der Open Source Business Alliance (OSBA) an sie. In [ihrer Antwort](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Presse/Antwort_offenerBrief_OSBA.pdf.pdf?__blob=publicationFile&v=7) auf diesen stellte sie sie dies richtig, betonte aber auch, dass man sich mit dem Umstand, dass "Big Tech Companies einen großen Vorsprung haben, insbesondere was Investitionen in die (Weiter-)Entwicklung von Schlüsseltechnologien betrifft", als Realität akzeptieren müsse.
+
+Ob dieser Technologievorsprung rechtfertigt, in Kauf zu nehmen, dass die über solche Software in der Cloud gespeicherten Daten bei US-Sicherheitsbehörden landen könnten, sollte dann doch diskutiert werden. 
+
+Auch in einem [Gesetzesentwurf zur Beschleunigung der Vergabe öffentlicher Aufträge](https://www.heise.de/news/Bundesregierung-Deutschland-ist-in-Technologiebereichen-von-US-Firmen-abhaengig-10590651.html) findet sich nichts, wie die Bundesregierung die von ihr einst im Koalitionsvertrag festgeschriebene Digitale Souveränität erreichnen will, was die OSBA [in einer Stellungnahme](https://osb-alliance.de/publikationen/statements/stellungnahme-zum-entwurf-des-gesetzes-zur-beschleunigung-der-vergabe-oeffentlicher-auftraege) zurecht kritisiert. Sie fordert, dass die Marktmacht als größter IT-Einkäufer in Deutschland genutzt und ["Open Source by Default"](https://social.osb-alliance.de/@OSBA/114987520649223270), also die vorrangige Beschaffung von Open Source Software, im Vergaberecht endlich umgesetzt werden sollte. 
+
+### Open und Souveränitäts Washing
+Johanna Gramlich und Marco Holz von der [Föderalen IT-Kooperation (FITKO)](https://www.fitko.de) haben in [ihrem Vortrag](https://programm.froscon.org/2025/system/event_attachments/attachments/000/000/892/original/2025-08-16-FrOSCon-2025-Viel-Public-Money-wenig-Public-Code.pdf) auf der FrOSCon fünf Thesen ausformuliert, warum aus ihrer Sicht die aktive Partizipation der Verwaltung am FOSS-Ökosystem immer wieder scheitert. So werden unter anderem politische Vorgaben aktiv ignoriert und es fehlt generell Erfahrung mit Open-Source-Beschaffung. Daher werden [hier](https://gitlab.opencode.de/vergabe-von-open-source-software-oss/informationssammlung) nun Informationen und Hilfestellungen rund um die Vergabe von Freier Software in der Öffentlichen Verwaltung zusammengetragen. Auch "Open Washing" wird als Problem benannt, wenn z.B. Software nur auf Open-Source basiert, selbst aber nicht wieder Open Source ist. 
+
+[Ein Whitepaper](https://www.zendis.de/media/pages/newsroom/publikationen/souveraenitaets-washing/751a2c5eb1-1755243871/zendis-whitepaper-souveraenitaets-washing.pdf) identiziert das gleiche Muster bei Cloud Diensten, wenn z.B. die Delos Cloud von SAP betrieben wird, aber die zu Grunde liegende Technologie weiterhin Microsoft Azure und Microsoft 365 bleibt - aus Sicht des OSBA klassisches ["Souveränitäts-Washing"](https://social.osb-alliance.de/@OSBA/115060705759287714).
+
+Man macht es sich zu einfach. Alexander Pockrandt, Geschäftsführer ZenDiS, [meint dazu](https://social.bund.de/@zendis/115027674842907728): "Wir dürfen Digitale Souveränität nicht an an die Wirtschaft delegieren. Digitale Souveränität ist eine Staatsaufgabe, die sich aus der Pflicht zur Daseinsvorsorge ableitet. Und die ist nicht verhandelbar."
+
+### X-Stack
+Björn Beck nimmt [das Papier "Impulse für einen offenen, interoperablen und europäisch anschlussfähigen Deutschland-Stack"](https://www.egovernment.de/deutschland-stack-schleswig-holstein-legt-impulspapier-vor-a-c0dd28cbc12086a305f57a354a19cf5d/) aus Schleswig-Holstein zum Anlass, [zu hinterfragen](https://amt.social/@BjoernBeck/115063225214382877), was dieser überhaupt stacken (aufsetzen) wird. Denn Neues zu entwickeln fällt leicht, nur eine Strategie wie die laufenden Bestandsyssteme integriert werden sollen (denn alles zu ersetzen würde ewig dauern) fehlt. Aus seiner Sicht müssen Daten- und Anwendungsschicht stärker separiert werden. Ohne Fundament kann man Beschlüsse und Buzzwords auch einfach stecken lassen.
+
+Der Standard [X-Road](https://x-road.global) (wohl Crossroad gesprochen) aus Estland wird nun im Rahmen des "Schleswig-Holstein-Stacks" im nördlichsten Bundesland mit Hilfe erster Pilotprojekte und konkreter Anwendungsszenarien [ausgerollt](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2025/III/250820_cds_xroad), so dass "Land und Kommunen künftig Daten sicher, effizient und rechtlich einwandfrei austauschen können".
+
+### (IT-)Versorgungs-Sicherheit
+Auf Initiative des Kasslers Informationssicherheitsbeauftragten Jens Lange werden auf der Seite ["Kommunaler Notbetrieb"](https://kommunaler-notbetrieb.de) (und auch auf [einer Karte](https://kommunaler-notbetrieb.de/uebersichtskarte/)) werden IT-Ausfälle in deutschen Kommunen erfasst (soweit sie öffentlich zu gänglich dokumentiert wurden). Die Hintergründe zur Entstehung des Projekts erläutert er [im Interview mit Netzpolitik](https://netzpolitik.org/2025/ransomware-und-it-stoerungen-wir-brauchen-ein-kommunales-lagebild-zur-informationssicherheit/).
+
+In Bad Wildbad im Nordschwarzwald gibt es seit zwei Monaten [kein Mobilfunknetz mehr](https://www.tagesschau.de/wirtschaft/stadt-ohne-empfang-100.html), da die dafür benötigten Funkmasten abgebaut wurden, ohne dass sich die Netzanbieter rechtzeitig um einen geeigneten neuen Standort für neue Masten gekümmert haben. Die Mobilfunk-Netzabdeckung in Deutschland ist rein privatwirtschaftlich organisiert und keine kommunale Aufgabe, die Stadt selbst ist wie die Anwohnenden betroffen und kann wie diese auch nicht mal mittels Sonderkündigungsrecht die laufenden Mobilfunkverträge kündigen.
+
+### Big Techs Marktmacht
+Nach einem Windows-Update werden Office-Dateien per Voreinstellung automatisch in der Cloud (also bei One-Drive) [gespeichert](https://www.heise.de/news/Windows-MS-Word-speichert-jetzt-automatisch-in-die-Cloud-10623681.html) und dort direkt von der KI (Copilot) verarbeitet. Nutzer, die das nicht möchten, müssen selbst aktiv entweder die automatische Speicherung  bzw. den Speicherort in den Einstellungen ändern.
+
+[Ab 2027](https://www.heise.de/news/Android-Google-verbietet-anonyme-Apps-10617479.html) können auf Geräten mit Android-Betriebssytem nur noch Anwendungen installiert werden, die bei Google signiert wurden. Google stellt dies als Sicherheitsmaßnahme dar, obwohl es ausdrücklich keine inhaltliche Prüfung der signierten Apps vornimmt. App-Entwickler müssen sich aber zwingend bei Google mit Vorlage ihres Lichtbildausweises [registrieren lassen](https://www.androidauthority.com/android-developer-verification-requirements-3590911/). Apps lassen sich damit auch nicht mehr anonym, also ohne Nutzung des Play Stores, auf einem Android-Gerät installieren. Kritiker sehen in der Entscheidung Googles den Versuch, sich, trotz der von manchen Staaten geplanten Vorschrift, auch alternative App-Stores zuzulassen, weiterhin Einfluss und Daten auf den Geräten zu sichern. De facto würde das auch das Aus für alternative App-Stores wie F-Droid bedeuten und einen Verstoß gegen den europäischen Digital Markets Act (DMA) sowieso.
+
+Amnesty International hat aus Menschenrechts-Sicht [Gründe ausformuliert](https://www.amnesty.org/en/documents/pol30/0226/2025/en/), die Marktdominanz von Google, Meta, Microsoft, Amazon und Apple [endlich zu brechen](https://digitalcourage.social/@digitalcourage/115135031461683892), da sie eben auch massenhaft Daten sammeln, Hass und Desinformation verstärken oder zu mindestens billigend in Kauf nehmen, die Politik beeinflussen und Alternativen zu sich aktiv blockieren.
 
 ## Verwaltungsdigitalisierung
 * 25 Jahre Verwaltungsdigitalisierung
