@@ -147,21 +147,36 @@ Auch für Salzwasser­batterie zeichnet sich ab, dass sie bald für bestimmte An
 
 Und der Markt für Batteriespeicher in Deutschland [boomt](https://www.telepolis.de/features/Boom-bei-Batteriespeichern-Deutschland-auf-dem-Weg-zum-Speicherzentrum-10626267.html) dank sinkenden Preisen und steigender Nachfrage. Zukünftig wird es außerdem möglich sein Netzstrom zwischenzuspeichern und per Direktvermarktung zu verkaufen.
 
-Eine [GermanWatch-Kurzstudie](https://www.germanwatch.org/sites/default/files/2025-07/Germanwatch_Kurzstudie%20Energiewende-Monitoring_final.pdf) bemängelt die Vorgaben für das von Wirtschaftsministerin Reiche bestellte Energie-Monitoring: so würden auch Szenarien untersucht, die das verfassungsrechtlich untermauerte Ziel, bis 2045 Klimaneutralität zu werden, gar nicht einhalten. Es würde einseitig versucht, Kosteneinsparung durch das Bremsen des Erneuerbaren-Ausbaus und durch mehr fossile Energienutzung zu finden, statt die Strom-Verteilnetze zu modernisieren und auszubauen und so die Energiewende kosteneffizient zu beschleunigen. Dezentrale Energietechnik wie Photovoltaik und Speicher werden schon seit Jahrzehnten systematisch unterschätzt, wie die Internationalen Energieagentur IEA in ihren "World Energy Outlooks" jährlich dokumentiert. Sowohl Photovoltaik und Windenergie wachsen exponentiell, gepaart mit dem Preisverfall beim Batteriespeicher. Das Erneuerbaren-Ziel weiterhin als unrealistisch und völlig überzogen zu bezeichnen, wie es die Ministerin tue, kann ebenso wie das Setzen auf Gaskraftwerke und Wasserstoff entweder nur durch Ideologie und/oder mit Interessen-geleiteten Einflüssen erklärt werden. Nicht zu unrecht wird daher nachdem Altmaier-Knick nun ein "Reiche-Knick" [befürchtet](https://www.klimareporter.de/strom/energiepolitik-mit-und-ohne-klimaziel). 
+Eine [GermanWatch-Kurzstudie](https://www.germanwatch.org/sites/default/files/2025-07/Germanwatch_Kurzstudie%20Energiewende-Monitoring_final.pdf) bemängelt die Vorgaben für das von Wirtschaftsministerin Reiche bestellte Energie-Monitoring: so würden auch Szenarien untersucht, die das verfassungsrechtlich untermauerte Ziel, bis 2045 Klimaneutralität zu werden, gar nicht einhalten. Es würde einseitig versucht, Kosteneinsparung durch das Bremsen des Erneuerbaren-Ausbaus und durch mehr fossile Energienutzung zu finden, statt die Strom-Verteilnetze zu modernisieren und auszubauen und so die Energiewende kosteneffizient zu beschleunigen. Dezentrale Energietechnik wie Photovoltaik und Speicher werden schon seit Jahrzehnten systematisch unterschätzt, wie die Internationalen Energieagentur IEA in ihren "World Energy Outlooks" jährlich dokumentiert. Sowohl Photovoltaik und Windenergie wachsen exponentiell, gepaart mit dem Preisverfall beim Batteriespeicher. Das Erneuerbaren-Ziel weiterhin als unrealistisch und völlig überzogen zu bezeichnen, wie es die Ministerin tue, kann ebenso wie das Setzen auf Gaskraftwerke und Wasserstoff entweder nur durch Ideologie und/oder mit Interessen-geleiteten Einflüssen erklärt werden. Nicht zu unrecht wird daher nach dem "Altmaier-Knick" nun ein "Reiche-Knick" [befürchtet](https://www.klimareporter.de/strom/energiepolitik-mit-und-ohne-klimaziel). 
 
 ## Klima
-### Finanzen
-* Klima-Finanzpolitik: Initiative fordert grüne Regel statt Schuldenbremse
-  https://www.fr.de/politik/schuldenbremse-klima-finanzpolitik-initiative-fordert-gruene-regel-statt-93865718.html
-### Plastikmüll
-* Mikroplastik ist noch bedrohlicher als angenommen, warnen For­sche­r:in­nen – und hoffen auf die am Dienstag beginnende UN-Plastikkonferenz in Genf.
-  https://taz.de/Konferenz-soll-Loesungen-finden/!6101836/
-* Fische voller Plastik: Dieses Schiffsunglück zeigt, wie dringend das UN-Abkommen ist
-  https://www.freitag.de/autoren/the-guardian/plastik-im-meer-ein-schiffunsglueck-zeigt-dass-wir-dieses-un-abkommen-brauchen
-* UN-Abkommen gegen Plastikmüll vorerst gescheitert
-  https://www.tagesschau.de/ausland/plastik-abkommen-scheitern-100.html
-* UBA-Präsident Dirk Messner zum (vorerst) gescheiterten UN-Abkommen gegen Plastikmüll
-  https://social.bund.de/@Umweltbundesamt/115032010397158787
+### Wirtschaft
+Dass Energiewende und solide Staatsfinanzen miteinander vereinbar sind, beweisen die [Berechnungen](https://www.degruyterbrill.com/document/doi/10.1515/pwp-2025-0010/html) des [Potsdam-Institut für Klimafolgenforschung](https://www.pik-potsdam.de/de). Nach ihrer "grün-goldenen Schuldenregel" sind zusätzliche Staatsschulden in einem Umfang erlaubt, wie sie zur Verringerung CO2-Emissionen beitragen (z.B. messbar der Höhe des CO2-Preises) und in in der Folge auch Klimaschäden (und die damit Kosten) verhinderten. So würden bei den Investitionen nicht die Kosten sondern der Nutzen ins Zentrum der Betrachtung gestellt werden. ["Für Deutschland sind danach bei strikter Einhaltung der gesetzten Ziele im Bereich für Klimaschutz bis 2030 insgesamt 161 Milliarden Euro neue Schulden vertretbar und auch ökonomisch sinnvoll."](https://www.fr.de/politik/schuldenbremse-klima-finanzpolitik-initiative-fordert-gruene-regel-statt-93865718.html)
+
+"Climateflation", also Preissprünge bei Lebensmitteln, wie sie von klimabedingten Ernteausfällen ausgelöst werden, beschäftigen zunehmen die Europäische Zentralbank (EZB), die die Inflationsziele für die Eurozone gefährden. 
+
+Das [Ranking](https://gain-new.crc.nd.edu/ranking) der [Global Adaptation Initiative (GAIN)](https://gain.nd.edu/about/) misst, wie widerstandsfähig Länder gegenüber den Folgen des Klimawandels [sein werden](https://www.klimareporter.de/international/klimawandel-als-auswanderungsgrund). Daraus lassen sich schon zukünftige Migrationswellen ablesen.
+
+Auch in Deutschland sind immer mehr Beschäftigte den Folgen der Klimakrise ausgeliefert. Laut den Zahlen der Internationalen Arbeitsorganisation sind die hitzebedingten Todesfälle am Arbeitsplatz in der EU seit der Jahrtausendwende um 42 Prozent gestiegen, [wie Jacobin berichtet](https://jacobin.de/artikel/hitzeschutz-arbeitsschutz-hitzewelle-hitzefrei).
+
+[Eine Studie](https://www.technologiestiftung-berlin.de/downloads/daten-fuer-die-kreislaufwirtschaft) der Technologiestiftung Berlin hat untersucht wie das Veröffentlichen und Teilen von mehr Daten die Effizienz und Nachverfolgbarkeit in der Kreislaufwirtschaft verbessern können, einerseits bei Stoffstromerfassung, andererseits bei den [4 Rs (Reduce, Reuse, Recycle, Recover)](https://www.din.de/de/forschung-und-innovation/themen/circular-economy/normenrecherche/modell-der-r-strategien). Neben Berliner Strategien geht sie auch auf EU-Initiativen und den [digitalen Produktpass](https://www.bundesumweltministerium.de/umweltpolitische-digitalagenda/so-funktioniert) ein.
+
+### Hitze
+Nach konservativen Schätzungen, die nur die direkten Folgen einbeziehen, gehen der deutschen Wirtschaft jährlich [10 Milliarden Euro durch Hitze und Dürren verloren](https://www.manager-magazin.de/hbm/hitzewellen-wie-unternehmen-sich-anpassen-an-den-klimawandel-a-49aad06a-3649-4349-aeaf-5af42600af97). Würde man die Folgen der Unterbrechungen der Lieferketten miteinbeziehen, wäre der Wert noch deutlich höher. Und die Ausfällen werden zukünftig noch steigen.
+
+[Fakt ist](https://www.tagesschau.de/faktenfinder/hitze-mythen-klima-100.html), dass die Anzahl der heißen Tage und auch der Tropennächte (Temperaturen >= 20°C) stetig zugenommen hat, besonders in den letzten 15 Jahren.
+
+Wissenschaftler vom Deutsche Zentrum für Luft- und Raumfahrt (DLR) haben die [durchschnittlichen Oberflächentemperaturen](https://www.dlr.de/de/aktuelles/nachrichten/2025/dlr-zeigt-hohe-hitzebelastung-in-deutschen-grossstaedten) der Sommermonate Juni, Juli und August von 2013 bis 2024 für über 70 Großstädte aus thermalen Aufnahmen US-amerikanischer Landsat-Satelliten [untersucht](https://www.heise.de/news/Satellitendaten-DLR-weist-hohe-Hitzebelastung-in-deutschen-Grossstaedten-nach-10538728.html). Die Daten sollten für langfristige städteplanerische Eingriffe herangezogen werden, um die identifizierten Hitzeinseln zu verringern.
+
+Für [Baden-Württemberg](https://norden.social/@datenschatz/115044942677682202) und für [Dortmund](https://ruhr.social/@DortmundData/115071750811857320) gibt es nun auch eine Übersicht zu kühle Orte.
+
+### Versiegelung
+Ursache für die Hitze ist auch die zunehmende Versiegelung. So nahm [laut Statistischem Bundesamt (Destatis)](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_286_412.html?nn=2110) die Siedlungs- und Verkehrsfläche in den Jahren 2020 bis 2023 im Mittel durchschnittlich um 51 Hektar zu, [und zwar pro Tag](https://www.tagesschau.de/inland/gesellschaft/bebauung-deutschland-siedlungsflaeche-100.html).
+
+Wie aus einer [Recherche](https://fragdenstaat.de/artikel/exklusiv/2025/08/parkplatz-mit-aussicht-auf-hitzschlag/) von FragDenStaat und dem Karlsruher Institut für Technologie (KIT) [hervorgeht](https://www.tagesschau.de/inland/gesellschaft/parkplaetze-klimaschutz-100.html), werden die Vorgaben zur Begrünung, sofern sie in den Bebauungsplänen festgeschrieben sind, oft unzureichend kontrolliert. So sind dann vielleicht Bäume auf dem Parkplatz gepflanzt, aber nicht die vorgeschriebenen Großkronigen. In der zugehröigen [SWR-Story "Zugepflastert! Wie schützen wir unsere Städte vor dem Hitzekollaps"](https://www.ardmediathek.de/video/story/wie-schuetzen-wir-staedte-vor-hitze/swr/Y3JpZDovL3N3ci5kZS9hZXgvbzIyNTk0NzA ) wurde zudem mit moderne Messtechnik wie sich Hitzetage im Körper auswirken.
+
+Neben Entsiegelung, Verringerung der Verkehrsfläche z.B. durch Umsetzung der Verkehrswende oder auch ein Umdenken bei der Zersiedelung durch Einfamilienhäuser, könnte auch neuartiger [Kühlbeton](https://www.tagesschau.de/wissen/forschung/kuehlender-beton-100.html) für die verbleibende notwendige Bebauung helfen.
+
 ### Trockenheit
 * Wasserspiegel des Groß Glienicker See wird ohne gezielte Gegenmaßnahmen weiter sinken
   https://www.rbb24.de/panorama/beitrag/2025/07/gross-glienicker-see-klimawandel-seenschwund-loesung.html
@@ -171,70 +186,30 @@ Eine [GermanWatch-Kurzstudie](https://www.germanwatch.org/sites/default/files/20
   https://gdz.bkg.bund.de/index.php/default/interaktive-atlanten/duerreatlas.html
 * Die Wasserkarte ist ein Projekt der Wassermeisterei Hoher Fläming in Zusammenarbeit mit der Zukunftsschusterei/Stadt Bad Belzig
   https://www.linkedin.com/posts/zukunftsschusterei-bad-belzig-mpsc_die-wasserkarte-bodenfeuchte-monitoring-ugcPost-7363490210447351808-rXWK
-### Versiegelung
-* Flächenverbrauch in Deutschland: Täglich mehr als 50 Hektar für neue Gebäude und Straßen
-  https://www.tagesschau.de/inland/gesellschaft/bebauung-deutschland-siedlungsflaeche-100.html
-* Warum Parkplätze zum Klima-Problem werden
-  https://www.tagesschau.de/inland/gesellschaft/parkplaetze-klimaschutz-100.html
-### Lebensraumzerstörung
-* Die Pflanzenwelt schwindet
-  https://www.klimareporter.de/erdsystem/die-pflanzenwelt-schwindet
-### Wasser
 * 12,75 Milliarden Kubikmeter Wassereinsatz in Betrieben
   https://www.heise.de/hintergrund/Zahlen-bitte-12-75-Milliarden-Kubikmeter-Wassereinsatz-in-Betrieben-10509653.html
+
 ### Bäume
 * Der kleine Klimabaum-Check
   https://taz.de/Klimaanpassung-im-urbanen-Raum/!6102634/
 * Stadtbäume: Wie sie unsere Städte kühlen und schützen
   https://www.oekologisch-unterwegs.de/klimawandel/1000-stadtbaeume-schutzfunktion-fuer-staedte-strassenbaeume.html
-### Kreislaufwirtschaft
-* Sieben Leben dank Kreislaufwirtschaft
-  https://www.technologiestiftung-berlin.de/downloads/daten-fuer-die-kreislaufwirtschaft
-### Wirtschaft
-* Boom trotz Krise: Deutsche GreenTech-Branche weiter auf Wachstumskurs
-  https://www.umweltbundesamt.de/presse/pressemitteilungen/boom-trotz-krise-deutsche-greentech-branche-weiter
-* Wie die Regierung den Klima- und Transformationsfonds zweckentfremdet
-  https://www.sueddeutsche.de/politik/klimaschutz-ktf-zertifikate-kritik-gruene-li.3301024?reduced=true
-* Klimawandel wird für die EZB zum Inflationsrisiko
-  https://www.msn.com/de-de/finanzen/top-stories/klimawandel-wird-f%C3%BCr-die-ezb-zum-inflationsrisiko/ar-AA1KOdXf
-### Hitze
-* Deutlich mehr heiße Tage als früher
-  https://www.tagesschau.de/faktenfinder/hitze-mythen-klima-100.html
-* Hitze kostet uns Milliarden
-  https://www.manager-magazin.de/hbm/hitzewellen-wie-unternehmen-sich-anpassen-an-den-klimawandel-a-49aad06a-3649-4349-aeaf-5af42600af97
-* Parkplatz mit Aussicht auf Hitzschlag
-  https://fragdenstaat.de/artikel/exklusiv/2025/08/parkplatz-mit-aussicht-auf-hitzschlag/
-* Zugepflastert! Wie schützen wir unsere Städte vor dem Hitzekollaps
-  https://www.ardmediathek.de/video/story/wie-schuetzen-wir-staedte-vor-hitze/swr/Y3JpZDovL3N3ci5kZS9hZXgvbzIyNTk0NzA  
-* Kühle Orte Baden-Württemberg
-  https://apps.apple.com/de/app/k%C3%BChle-orte-baden-w%C3%BCrttemberg/id6748610721
-  https://norden.social/@datenschatz/115044942677682202
-* Kühle Orte Dortmund
-  https://open-data.dortmund.de/map/kuhle_orte/?location=12,51.50789,7.47036&basemap=a8bade
-  https://ruhr.social/@DortmundData/115071750811857320
-* Satellitendaten: DLR weist hohe Hitzebelastung in deutschen Großstädten nach
-  https://www.heise.de/news/Satellitendaten-DLR-weist-hohe-Hitzebelastung-in-deutschen-Grossstaedten-nach-10538728.html
-  https://www.dlr.de/de/aktuelles/nachrichten/2025/dlr-zeigt-hohe-hitzebelastung-in-deutschen-grossstaedten
-* Kühlender Beton als Lösung gegen Hitze
-  https://www.tagesschau.de/wissen/forschung/kuehlender-beton-100.html
+* Die Pflanzenwelt schwindet
+  https://www.klimareporter.de/erdsystem/die-pflanzenwelt-schwindet
+
+
 ### Gletscherschmelze
 * Spitzbergens Gletscher sind dramatisch geschmolzen
   https://www.tagesschau.de/wissen/klima/norwegen-spitzbergen-gletscher-schmelze-100.html
 * Antarktis vor einem Kipppunkt?
   https://www.tagesschau.de/wissen/antarktis-forscher-warnen-100.html
+
 ### Meeresspiegelanstieg
 * 30 Jahre alte Prognosen zum Meeresspiegelanstieg überraschend präzise
   https://www.heise.de/news/Kliamwandel-Prognosen-zum-Meeresspiegelanstieg-ueberraschend-praezise-eingetreten-10599249.html
 * Deutschland im Klimawandel
   https://social.bund.de/@DeutscherWetterdienst/115088995522167233
-### Ranking
-* ND-GAIN Country Index summarizes a country's vulnerability to climate change
-  https://gain-new.crc.nd.edu/ranking
-  https://www.klimareporter.de/international/klimawandel-als-auswanderungsgrund
-  https://libranet.de/display/0b6b25a8-4c16f65c-89f76fefc7afecc3
-### Arbeitsbedingungen
-* Immer mehr Beschäftigte in Deutschland sind den Folgen der Klimakrise ausgeliefert
-  https://jacobin.de/artikel/hitzeschutz-arbeitsschutz-hitzewelle-hitzefrei
+
 ### AMOC
 * Kollabiert die Atlantische meridionale Umwälzzirkulation (AMOC)?
   https://www.tagesschau.de/klimawandel-kollabiert-der-golfstrom-100.html
@@ -242,6 +217,17 @@ Eine [GermanWatch-Kurzstudie](https://www.germanwatch.org/sites/default/files/20
     https://iopscience.iop.org/article/10.1088/1748-9326/adfa3b
   * Physics-Based Indicators for the Onset of an AMOC Collapse Under Climate Change
     https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022651
+
+### Plastikmüll
+* Mikroplastik ist noch bedrohlicher als angenommen, warnen For­sche­r:in­nen – und hoffen auf die am Dienstag beginnende UN-Plastikkonferenz in Genf.
+  https://taz.de/Konferenz-soll-Loesungen-finden/!6101836/
+* Fische voller Plastik: Dieses Schiffsunglück zeigt, wie dringend das UN-Abkommen ist
+  https://www.freitag.de/autoren/the-guardian/plastik-im-meer-ein-schiffunsglueck-zeigt-dass-wir-dieses-un-abkommen-brauchen
+* UN-Abkommen gegen Plastikmüll vorerst gescheitert
+  https://www.tagesschau.de/ausland/plastik-abkommen-scheitern-100.html
+* UBA-Präsident Dirk Messner zum (vorerst) gescheiterten UN-Abkommen gegen Plastikmüll
+  https://social.bund.de/@Umweltbundesamt/115032010397158787
+
 
 ## Kultur
 * Ein virtueller Spaziergang durch das digitalisierte Berliner Kulturerbe
