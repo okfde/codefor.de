@@ -177,57 +177,31 @@ Wie aus einer [Recherche](https://fragdenstaat.de/artikel/exklusiv/2025/08/parkp
 
 Neben Entsiegelung, Verringerung der Verkehrsfläche z.B. durch Umsetzung der Verkehrswende oder auch ein Umdenken bei der Zersiedelung durch Einfamilienhäuser, könnte auch neuartiger [Kühlbeton](https://www.tagesschau.de/wissen/forschung/kuehlender-beton-100.html) für die verbleibende notwendige Bebauung helfen.
 
-### Trockenheit
-* Wasserspiegel des Groß Glienicker See wird ohne gezielte Gegenmaßnahmen weiter sinken
-  https://www.rbb24.de/panorama/beitrag/2025/07/gross-glienicker-see-klimawandel-seenschwund-loesung.html
-* Dürremonitor mit höherer Auflösung und interaktiven Daten zu Bodenfeuchte, Klima & Umwelt
-  https://social.bund.de/@BKG/115105334210720017
-  https://www.ufz.de/index.php?de=37937
-  https://gdz.bkg.bund.de/index.php/default/interaktive-atlanten/duerreatlas.html
-* Die Wasserkarte ist ein Projekt der Wassermeisterei Hoher Fläming in Zusammenarbeit mit der Zukunftsschusterei/Stadt Bad Belzig
-  https://www.linkedin.com/posts/zukunftsschusterei-bad-belzig-mpsc_die-wasserkarte-bodenfeuchte-monitoring-ugcPost-7363490210447351808-rXWK
-* 12,75 Milliarden Kubikmeter Wassereinsatz in Betrieben
-  https://www.heise.de/hintergrund/Zahlen-bitte-12-75-Milliarden-Kubikmeter-Wassereinsatz-in-Betrieben-10509653.html
-
 ### Bäume
-* Der kleine Klimabaum-Check
-  https://taz.de/Klimaanpassung-im-urbanen-Raum/!6102634/
-* Stadtbäume: Wie sie unsere Städte kühlen und schützen
-  https://www.oekologisch-unterwegs.de/klimawandel/1000-stadtbaeume-schutzfunktion-fuer-staedte-strassenbaeume.html
-* Die Pflanzenwelt schwindet
-  https://www.klimareporter.de/erdsystem/die-pflanzenwelt-schwindet
+Ohne den Schatten von Bäumen und ihrer Wasserverdunstung heizen sich die Städte immer weiter auf, [Tino Eberl klärt über Nutzen von und Mythen zu Stadtbäumen auf](https://www.oekologisch-unterwegs.de/klimawandel/1000-stadtbaeume-schutzfunktion-fuer-staedte-strassenbaeume.html). Der [taz Klimabaum-Check](https://taz.de/Klimaanpassung-im-urbanen-Raum/!6102634/) untersucht welche Arten Hitze und Trockenheit am besten trotzen können.
 
+Weil wir aber weltweit zu viel Biomasse entnehmen, zu viele Lebensräume zerstören und zu viele Flächen entwalden, ist die Funktionsfähigkeit der Biosphäre neben dem Klima und damit die Stabilität unseres Planeten [stark gefährdet](https://www.klimareporter.de/erdsystem/die-pflanzenwelt-schwindet).
 
-### Gletscherschmelze
-* Spitzbergens Gletscher sind dramatisch geschmolzen
-  https://www.tagesschau.de/wissen/klima/norwegen-spitzbergen-gletscher-schmelze-100.html
-* Antarktis vor einem Kipppunkt?
-  https://www.tagesschau.de/wissen/antarktis-forscher-warnen-100.html
+### Trockenheit
+Der [Dürreatlas](https://gdz.bkg.bund.de/index.php/default/interaktive-atlanten/duerreatlas.html) vom Bundesamt für Kartographie und Geodäsie (BKG) [hat](https://social.bund.de/@BKG/115105334210720017) auf die neue Version des [UFZ-Dürremonitors](https://www.ufz.de/index.php?de=37937) umgestellt und profitiert dadurch von dessen höherer Auflösung. Darüber hinaus lassen sich weitere Daten zu Bodenfeuchte, Klima und Umwelt interaktiv entdecken.
 
-### Meeresspiegelanstieg
-* 30 Jahre alte Prognosen zum Meeresspiegelanstieg überraschend präzise
-  https://www.heise.de/news/Kliamwandel-Prognosen-zum-Meeresspiegelanstieg-ueberraschend-praezise-eingetreten-10599249.html
-* Deutschland im Klimawandel
-  https://social.bund.de/@DeutscherWetterdienst/115088995522167233
+Das Citizen Science Projekt [Wassermeisterei](https://wassermeisterei.org) im Hoher Fläming (einer der trockensten Region Deutschlands) hat in Zusammenarbeit mit der [Zukunftsschusterei](https://zukunftsschusterei.de) aus Bad Belzig eine [Wasserkarte](https://wasserkarte.badbelzig-klimadaten.de) (als Teil der Plattform [Klimadaten Bad Belzig](https://badbelzig-klimadaten.de)) entwickelt und nun [veröffentlicht](https://zukunftsschusterei.de/bodenfeuchte-wasserkarte-veroeffentlicht/), in der die Messdaten der im Gebiet installierten Bodenfeuchte-Sensoren dargestellt werden. Es soll über die Zeit ein regionales Bodenfeuchtesensoren-Netzwerk mit 100 Messstationen entstehen, über das die Faktoren in Abhängigkeit von der jeweiligen Bodenart und Humusgehalt [identifiziert werden sollen](https://www.linkedin.com/posts/zukunftsschusterei-bad-belzig-mpsc_die-wasserkarte-bodenfeuchte-monitoring-ugcPost-7363490210447351808-rXWK), die beeinflussen, dass Wasser länger oder kürzer im Boden bleibt. 
 
-### AMOC
-* Kollabiert die Atlantische meridionale Umwälzzirkulation (AMOC)?
-  https://www.tagesschau.de/klimawandel-kollabiert-der-golfstrom-100.html
-  * Shutdown of northern Atlantic overturning after 2100 following deep mixing collapse in CMIP6 projections
-    https://iopscience.iop.org/article/10.1088/1748-9326/adfa3b
-  * Physics-Based Indicators for the Onset of an AMOC Collapse Under Climate Change
-    https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022651
+Nicht weit weg, in Potsdam, ist in den letzten Jahrzehnten der Wasserspiegel des Groß Glienicker Sees [um ganze zwei Meter gefallen](https://www.rbb24.de/panorama/beitrag/2025/07/gross-glienicker-see-klimawandel-seenschwund-loesung.html). Und wird ohne Gegenmaßnahmen weiter fallen, da er sich nur aus Grundwasser speist, und durch die durch den Klimawandel bedingten steigenden Temperaturen die Verdunstung steigt. Ein Möglichkeit wäre, überschüssiges Wasser aus der Havel in den See zu leiten.
+
+Trotz des notorischen Wassermangels in Brandenburg sollen dennoch immer mehr Rechenzentren [in der Region angesiedelt werden](https://taz.de/Boom-der-Serverfarmen/!6099850/). Dabei wird der weltweite Wasserverbrauch durch KI-Rechenzentren von 4,2 auf 6,6 Milliarden m³ [bis 2027 steigen](https://www.heise.de/hintergrund/Zahlen-bitte-12-75-Milliarden-Kubikmeter-Wassereinsatz-in-Betrieben-10509653.html).
+
+### Gletscherschmelze, Meeresspiegelanstieg und AMOC
+Die Gletscherschmelze in Spitzbergen [übertraf "alle bisherigen Beobachtungen"](https://www.tagesschau.de/wissen/klima/norwegen-spitzbergen-gletscher-schmelze-100.html): allein im Sommer 2024 ist etwa ein Prozent der gesamten Eismasse verloren gegangen, der Großteil innerhalb von nur sechs Wochen.
+
+Der Rückgang des Packeises, die Verlangsamung der Meeresströmung und das Abschmelzen des antarktischen Eisschilds sind Teile eines "schnellen, ineinandergreifenden und teils selbstverstärkenden Wandels", [durch den der Meeresspiegel massiv steigen könnte](https://www.tagesschau.de/wissen/antarktis-forscher-warnen-100.html).
+
+Eine Analyse von Erdbeobachtungsdaten über die Zeit [hat ergeben](https://www.heise.de/news/Kliamwandel-Prognosen-zum-Meeresspiegelanstieg-ueberraschend-praezise-eingetreten-10599249.html), dass die in den 1990er Jahren getroffenen Vorhersagen zum Anstieg des Meeresspiegels ziemlich präzise eingetreten sind. Das lässt die derzeitigen Prognosen als um so bedrohlicher erscheinen. Auch in Deutschland ist der Meeresspiegelanstieg [bereits messbar](https://social.bund.de/@DeutscherWetterdienst/115088995522167233) und erfordert wie die anderen bereits sich vollziehenden Veränderungen eine [erweiterte Kommunikation](https://www.dwd.de/DE/leistungen/faktenpapier_extremwetter/neue-methode-klimatrends.html).
+
+Auch der Kollaps der Atlantischen meridionale Umwälzzirkulation (AMOC) ist [wahrscheinlicher als bislang angenommen](https://www.tagesschau.de/klimawandel-kollabiert-der-golfstrom-100.html), der Kipppunke wäre bereits ein bis zwei Jahrzehnten erreicht und würde dann im nächsten Jahrhundert unumkehrbar eintreten.
 
 ### Plastikmüll
-* Mikroplastik ist noch bedrohlicher als angenommen, warnen For­sche­r:in­nen – und hoffen auf die am Dienstag beginnende UN-Plastikkonferenz in Genf.
-  https://taz.de/Konferenz-soll-Loesungen-finden/!6101836/
-* Fische voller Plastik: Dieses Schiffsunglück zeigt, wie dringend das UN-Abkommen ist
-  https://www.freitag.de/autoren/the-guardian/plastik-im-meer-ein-schiffunsglueck-zeigt-dass-wir-dieses-un-abkommen-brauchen
-* UN-Abkommen gegen Plastikmüll vorerst gescheitert
-  https://www.tagesschau.de/ausland/plastik-abkommen-scheitern-100.html
-* UBA-Präsident Dirk Messner zum (vorerst) gescheiterten UN-Abkommen gegen Plastikmüll
-  https://social.bund.de/@Umweltbundesamt/115032010397158787
-
+Die Kunststoffproduktion hat sich seit den 70-ern bis 2020 auf auf 367 Millionen Tonnen im Jahr versiebenfacht und könnte [bis 2050 weiter auf 600 Millionen Tonnen im Jahr steigen](https://www.tagesschau.de/ausland/plastik-abkommen-scheitern-100.html). Von den 8,3 Milliarden Tonnen bislang produzierten Kunststoff entfallen 6,3 Milliarden Tonnen Abfall, größtenteils auf Deponien zu finden, 152 Millionen Tonnen Plastikabfälle gelangten nach Schätzungen in Flüsse und Ozeane. Dort vergiften sie das Ökosystem und kommen über Nahrungsketten auch in den menschlichen Körper und [verursachen Krankheiten](https://taz.de/Konferenz-soll-Loesungen-finden/!6101836/). Dennoch ist nun die UN-Plastikkonferenz in Genf (vorerst) gescheitert, weil die Ölproduzierenden Länder nicht auf ihre Gewinne mit Plastik verzichten mögen.
 
 ## Kultur
 * Ein virtueller Spaziergang durch das digitalisierte Berliner Kulturerbe
