@@ -203,75 +203,32 @@ Auch der Kollaps der Atlantischen meridionale Umwälzzirkulation (AMOC) ist [wah
 ### Plastikmüll
 Die Kunststoffproduktion hat sich seit den 70-ern bis 2020 auf auf 367 Millionen Tonnen im Jahr versiebenfacht und könnte [bis 2050 weiter auf 600 Millionen Tonnen im Jahr steigen](https://www.tagesschau.de/ausland/plastik-abkommen-scheitern-100.html). Von den 8,3 Milliarden Tonnen bislang produzierten Kunststoff entfallen 6,3 Milliarden Tonnen Abfall, größtenteils auf Deponien zu finden, 152 Millionen Tonnen Plastikabfälle gelangten nach Schätzungen in Flüsse und Ozeane. Dort vergiften sie das Ökosystem und kommen über Nahrungsketten auch in den menschlichen Körper und [verursachen Krankheiten](https://taz.de/Konferenz-soll-Loesungen-finden/!6101836/). Dennoch ist nun die UN-Plastikkonferenz in Genf (vorerst) gescheitert, weil die Ölproduzierenden Länder nicht auf ihre Gewinne mit Plastik verzichten mögen.
 
-## Kultur
-* Ein virtueller Spaziergang durch das digitalisierte Berliner Kulturerbe
-  https://openbiblio.social/@awinkler/114971182211720823
-  https://zenodo.org/records/15691614
-* Mit Dialekt-App die Sprache erforschen
-  https://www.heise.de/news/Pfiatdi-Tschuess-Ade-Mit-Dialekt-App-die-Sprache-erforschen-10538844.html
-  https://dialektapp.bayern/
-
-## Wirtschaft
-* So wenig aus dem Infrastruktur-Topf soll in den Kommunen ankommen
-  https://correctiv.org/aktuelles/wirtschaft/2025/08/27/so-wenig-aus-dem-infrastruktur-topf-soll-in-den-kommunen-ankommen/
-
 ## KI essen Seele auf
-### AI Act
-* EU-Kommission stellt KI-Verordnung scharf: Bürokratie vs. Grundrechteschutz
-  https://www.heise.de/hintergrund/EU-Kommission-stellt-KI-Verordnung-scharf-Buerokratie-vs-Grundrechteschutz-10489282.html?seite=all
-* AI-Act: Was heißt das jetzt?
-  https://mailing.101lab.it/archive/cc934328-0167-4dcb-ae16-418012b29259
-  https://mastodon.social/@101lab/114975025934633428
-* Es fehlt an Personal und die Anzahl der Verfahren ist noch sehr überschaubar.
-  https://netzpolitik.org/2025/bilanz-nach-einem-jahr-neue-aufsicht-ueber-digitale-dienste-hat-vier-verfahren-eingeleitet/
-### Wikipedia
-* Wikipedia reagiert auf KI-Flut mit angepasster Richtlinie zur Schnelllöschung
-  https://www.heise.de/news/Wikipedia-reagiert-auf-KI-Flut-mit-neuer-Richtlinie-zur-Schnellloeschung-10510841.html
-### Security
-* KI trifft Open Data: Neue Ansätze für den Schutz kritischer Infrastrukturen
-  https://www.cyberagentur.de/presse/atara-startet-ki-gestuetzte-analyse-oeffentlicher-daten-fuer-mehr-cybersicherheit/
-* KI-gestützte Cyberangriffe: Russische Angreifer setzen LLMs für Malware ein
-  https://www.heise.de/news/KI-gestuetzte-Cyberangriffe-Experten-beobachten-zunehmenden-LLM-Einsatz-10539423.html
 ### GPT-5
-* GPT-5: OpenAI veröffentlicht neues Sprachmodell für ChatGPT
-  https://www.heise.de/news/GPT-5-OpenAI-veroeffentlicht-neues-Sprachmodell-fuer-ChatGPT-10513244.html
-* GPT-5 mixt Cocktails: Sicherheitsforscher knacken OpenAIs Selbstbeschränkungen
-  https://www.heise.de/news/GPT-5-mixt-Cocktails-Sicherheitsforscher-knacken-OpenAIs-Selbstbeschraenkungen-10517146.html
-* Warum GPT-5 so polarisiert
-  https://www.heise.de/news/Warum-GPT-5-so-polarisiert-10530890.html
-* GPT-5 ersetzt das Modell 4o – und Tausende Menschen reagieren, als sei die beste Freundin gestorben
-  https://www.socialmediawatchblog.de/wahn-psychosen-suizid-die-dunkelste-seite-von-ki/
-## Energie
-* Der Energieverbrauch von Künstlicher Intelligenz - Eine detaillierte Analyse der Forschung von Maximilian Dauner
-  https://werkbank-digital.de/blog/der-energieverbrauch-von-knstlicher-intelligenz
-## Arbeitsbedingungen
-* Die KI-Revolution frisst ihre Gig-Worker
-  https://taz.de/Ausbeutung-im-Tech-Sektor/!6102646/
-* Die Maschine übernimmt unsere Stimme
-  https://taz.de/KI-und-Hoerbuecher/!6106289/
-  * Persönlichkeitsrecht: Synchronstimme ist vor KI-Nachahmung geschützt
-    https://www.heise.de/news/Persoenlichkeitsrecht-Synchronstimme-ist-vor-KI-Nachahmung-geschuetzt-10623565.html
+[Ein c't 3003 Video](https://www.heise.de/news/Warum-GPT-5-so-polarisiert-10530890.html) versucht zu ergründen, warum GPT-5 so zwiespaltig aufgenommen wird. Unter anderem weil man nicht mehr zu verwendende Modell wählen kann und man somit unter Umständen die Antwort nicht mehr vom besten Modell beantwortet bekommt. Größte Kritik löste aber aus, dass das neue Modell nun meist [deutlich knapper und sachlicher antwortet](https://www.socialmediawatchblog.de/wahn-psychosen-suizid-die-dunkelste-seite-von-ki/) - man hatte sich wohl schon zu sehr an die [Sycophancy](https://en.wikipedia.org/wiki/Sycophancy) in den Chatbot-Anworten gewöhnt. Der damit verbundene [ELIZA-Effekt](https://de.wikipedia.org/wiki/ELIZA-Effekt) kann sich im schlimmsten Fall zu einer [Chatbot-Psychose](https://en.wikipedia.org/wiki/Chatbot_psychosis) ausweiten.
+
 ### Deskilling
-* KI in der Medizin: Ärzte verlieren wohl schnell Fähigkeiten bei Krebsvorsorge
-  https://www.heise.de/news/KI-in-der-Medizin-Aerzte-verlieren-wohl-schnell-Faehigkeiten-bei-Krebsvorsorge-10519686.html
-  * Geht eine KI zum Arzt, Diagnose: Algorithmusstörungen
-    https://www.basicthinking.de/blog/2025/08/18/ki-arzt-diagnose/
-* Darum ist KI wirklich gefährlich
-  https://www.heise.de/news/c-t-3003-Darum-ist-KI-wirklich-gefaehrlich-10585252.html
-* Gell-Mann amnesia effect
-  https://en.wikipedia.org/wiki/Gell-Mann_amnesia_effect
-  https://mastodon.social/@datenwolf@chaos.social/115123918051291393
-### MCP
-* KI-Agenten: Sprachmodelle bedienen eigenständig Software
-  https://www.heise.de/news/KI-Agenten-Sprachmodelle-bedienen-eigenstaendig-Software-c-t-uplink-10530901.html
-* An MCP (Model Context Protocol) Server to provide LLM access to PUDL Data?
-  https://github.com/orgs/catalyst-cooperative/discussions/4560
-  https://mastodon.energy/@catalystcoop/115072813232726246
-### Kurse
-* deeplearning.ai
-  https://learn.deeplearning.ai
-  * Claude Code: A Highly Agentic Coding Assistant
-    https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/
+Den ersten Nachweis des [Deskilling](https://en.wikipedia.org/wiki/Deskilling)-Effekts im klinischen Alltag hat nun [eine Studie](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(25)00133-5/abstract) erbracht, wie [heise](https://www.heise.de/news/KI-in-der-Medizin-Aerzte-verlieren-wohl-schnell-Faehigkeiten-bei-Krebsvorsorge-10519686.html) als auch [Basic Thinking](https://www.basicthinking.de/blog/2025/08/18/ki-arzt-diagnose/) aufgegriffen haben. 
+
+Wenn man sich mal wieder über die schlechten Antworten der LLM in Fachgebieten, in denen man sich selbst gut auskennt, ärgert, in anderen Themenbereichen meint, die Antworten wären gut, dann sollte man an den [Gell-Mann amnesia effect](https://en.wikipedia.org/wiki/Gell-Mann_amnesia_effect) denken, [an den Enno Park erinnert](https://mastodon.social/@datenwolf@chaos.social/115123918051291393).  
+
+### Vandalismus
+Wenn (Maschinen-)Intelligenz auf menschliche Bösartigkeit trifft: Russische Angreifer [setzen zunehmend LLMs für Cyberangriffe ein](https://www.heise.de/news/KI-gestuetzte-Cyberangriffe-Experten-beobachten-zunehmenden-LLM-Einsatz-10539423.html), 
+
+Um der zunehmenden Flut KI-generierter minderwertiger Inhalte etwas entgegegensetzen zu können, ermöglicht nun Wikipedia mit einer angepassten Richtlinie [ihre Schnelllöschung](https://www.heise.de/news/Wikipedia-reagiert-auf-KI-Flut-mit-neuer-Richtlinie-zur-Schnellloeschung-10510841.html).
+
+### Wissen
+[c’t uplink](https://www.heise.de/news/KI-Agenten-Sprachmodelle-bedienen-eigenstaendig-Software-c-t-uplink-10530901.html) diskutiert Nutzen und Risiken von Model Context Protocol (MCP), bei dem Sprachmodelle eigenständig Software und Webseiten bedienen können.
+
+Auf [deeplearning.ai](https://learn.deeplearning.ai) gibt es Lernkurse wie [Claude Code: A Highly Agentic Coding Assistant](https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/).
+
+Maximilian Dauner [analysiert detailliert](https://werkbank-digital.de/blog/der-energieverbrauch-von-knstlicher-intelligenz) den aktuellen Forschungsstand zum Energieverbrauch von Künstlicher Intelligenz, auch in Abhängigkeit der Genauigkeit/Leistung der Modelle, der kognitiven Last der gestellten Frage, beim initialen (und wiederkehrenden) Training, die Kühlung der Rechenzentren (die zu dem noch sehr wasserintensiv ist), Abbau seltener Erden für die Chips, Halbleiterfertigung, mehr Elektronikschrott, der entsteht, weil leistungsfähigere Hardware die alte ersetzt.
+Es muss Bewusstsein (z.B. über eine Art Nährwerttabelle für KI-Modelle) als auch Anreize geschaffen werden, um vom Paradima der immer größeren Allzweck-Modelle abzuweichen und besser auf kleine, hochspezialisierte und damit auch energieeffiziente Modelle setzen.
+
+### Arbeitsbedingungen
+Mehr Flexibilität, aber auch mehr Unsicherheit, haben Gig-Worker, die mit viel manueller Arbeit zur Qualität der großer Sprachmodelle beitragen. Schlechte Bezahlung und schlechte Arbeitsbedingungen [sind in der Branche leider üblich](https://taz.de/Ausbeutung-im-Tech-Sektor/!6102646/).
+
+Das Landgericht Berlin [hat im August entschieden](https://www.heise.de/news/Persoenlichkeitsrecht-Synchronstimme-ist-vor-KI-Nachahmung-geschuetzt-10623565.html), dass das Persönlichkeitsrecht auch die Stimme eines Synchronsprechers schützt. Somit ist deren Nachahmung durch KI und anschließend öffentlichen Verwendung nicht ohne Einwilligung des Betroffenen erlaubt.
 
 ## Überwachung
 * "Watching You": Dokumentarfilm zeigt die Welt von Palantir und Alex Karp
