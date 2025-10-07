@@ -81,7 +81,7 @@ Johanna Gramlich und Marco Holz von der [Föderalen IT-Kooperation (FITKO)](http
 Man macht es sich zu einfach. Alexander Pockrandt, Geschäftsführer ZenDiS, [meint dazu](https://social.bund.de/@zendis/115027674842907728): "Wir dürfen Digitale Souveränität nicht an an die Wirtschaft delegieren. Digitale Souveränität ist eine Staatsaufgabe, die sich aus der Pflicht zur Daseinsvorsorge ableitet. Und die ist nicht verhandelbar."
 
 ### X-Stack
-Björn Beck nimmt [das Papier "Impulse für einen offenen, interoperablen und europäisch anschlussfähigen Deutschland-Stack"](https://www.egovernment.de/deutschland-stack-schleswig-holstein-legt-impulspapier-vor-a-c0dd28cbc12086a305f57a354a19cf5d/) aus Schleswig-Holstein zum Anlass, [zu hinterfragen](https://amt.social/@BjoernBeck/115063225214382877), was dieser überhaupt stacken (aufsetzen) wird. Denn Neues zu entwickeln fällt leicht, nur eine Strategie wie die laufenden Bestandsyssteme integriert werden sollen (denn alles zu ersetzen würde ewig dauern) fehlt. Aus seiner Sicht müssen Daten- und Anwendungsschicht stärker separiert werden. Ohne Fundament kann man Beschlüsse und Buzzwords auch einfach stecken lassen.
+Björn Beck nimmt [das Papier "Impulse für einen offenen, interoperablen und europäisch anschlussfähigen Deutschland-Stack"](https://www.egovernment.de/deutschland-stack-schleswig-holstein-legt-impulspapier-vor-a-c0dd28cbc12086a305f57a354a19cf5d/) aus Schleswig-Holstein zum Anlass, [zu hinterfragen](https://amt.social/@BjoernBeck/115063225214382877), was dieser überhaupt stacken (aufsetzen) wird. Denn Neues zu entwickeln fällt leicht, nur eine Strategie wie die laufenden Bestandsyssteme integriert werden sollen (denn alles zu ersetzen würde ewig dauern) fehlt. Aus seiner Sicht müssen Daten- und Anwendungsschicht stärker separiert werden. Ohne Fundament kann man solche Beschlüsse und Buzzwords auch einfach stecken lassen.
 
 Der Standard [X-Road](https://x-road.global) (wohl Crossroad gesprochen) aus Estland wird nun im Rahmen des "Schleswig-Holstein-Stacks" im nördlichsten Bundesland mit Hilfe erster Pilotprojekte und konkreter Anwendungsszenarien [ausgerollt](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2025/III/250820_cds_xroad), so dass "Land und Kommunen künftig Daten sicher, effizient und rechtlich einwandfrei austauschen können".
 
@@ -147,7 +147,7 @@ Auch für Salzwasser­batterie zeichnet sich ab, dass sie bald für bestimmte An
 
 Und der Markt für Batteriespeicher in Deutschland [boomt](https://www.telepolis.de/features/Boom-bei-Batteriespeichern-Deutschland-auf-dem-Weg-zum-Speicherzentrum-10626267.html) dank sinkenden Preisen und steigender Nachfrage. Zukünftig wird es außerdem möglich sein Netzstrom zwischenzuspeichern und per Direktvermarktung zu verkaufen.
 
-Eine [GermanWatch-Kurzstudie](https://www.germanwatch.org/sites/default/files/2025-07/Germanwatch_Kurzstudie%20Energiewende-Monitoring_final.pdf) bemängelt die Vorgaben für das von Wirtschaftsministerin Reiche bestellte Energie-Monitoring: so würden auch Szenarien untersucht, die das verfassungsrechtlich untermauerte Ziel, bis 2045 Klimaneutralität zu werden, gar nicht einhalten. Es würde einseitig versucht, Kosteneinsparung durch das Bremsen des Erneuerbaren-Ausbaus und durch mehr fossile Energienutzung zu finden, statt die Strom-Verteilnetze zu modernisieren und auszubauen und so die Energiewende kosteneffizient zu beschleunigen. Dezentrale Energietechnik wie Photovoltaik und Speicher werden schon seit Jahrzehnten systematisch unterschätzt, wie die Internationalen Energieagentur IEA in ihren "World Energy Outlooks" jährlich dokumentiert. Sowohl Photovoltaik und Windenergie wachsen exponentiell, gepaart mit dem Preisverfall beim Batteriespeicher. Das Erneuerbaren-Ziel weiterhin als unrealistisch und völlig überzogen zu bezeichnen, wie es die Ministerin tue, kann ebenso wie das Setzen auf Gaskraftwerke und Wasserstoff entweder nur durch Ideologie und/oder mit Interessen-geleiteten Einflüssen erklärt werden. Nicht zu unrecht wird daher nach dem "Altmaier-Knick" nun ein "Reiche-Knick" [befürchtet](https://www.klimareporter.de/strom/energiepolitik-mit-und-ohne-klimaziel). 
+Eine [GermanWatch-Kurzstudie](https://www.germanwatch.org/sites/default/files/2025-07/Germanwatch_Kurzstudie%20Energiewende-Monitoring_final.pdf) bemängelt die Vorgaben für das von Wirtschaftsministerin Reiche bestellte Energie-Monitoring: so würden auch Szenarien untersucht, die das verfassungsrechtlich untermauerte Ziel, bis 2045 Klimaneutralität zu werden, gar nicht einhalten. Es würde einseitig versucht, Kosteneinsparung durch das Bremsen des Erneuerbaren-Ausbaus und durch mehr fossile Energienutzung zu finden, statt die Strom-Verteilnetze zu modernisieren und auszubauen und so die Energiewende kosteneffizient zu beschleunigen. Dezentrale Energietechnik wie Photovoltaik und Speicher werden schon seit Jahrzehnten systematisch unterschätzt, wie die Internationalen Energieagentur IEA in ihren "World Energy Outlooks" jährlich dokumentiert. Sowohl Photovoltaik und Windenergie wachsen exponentiell, gepaart mit dem Preisverfall beim Batteriespeicher. Das Erneuerbaren-Ziel weiterhin als unrealistisch und völlig überzogen zu bezeichnen, wie es die Ministerin tue, kann ebenso wie das Setzen auf Gaskraftwerke und Wasserstoff entweder nur durch Ideologie und/oder mit [Interessen-geleiteten Einflüssen](https://taz.de/Energiepolitik-der-Union/!6101985/) erklärt werden. Nicht zu unrecht wird daher nach dem "Altmaier-Knick" nun ein "Reiche-Knick" [befürchtet](https://www.klimareporter.de/strom/energiepolitik-mit-und-ohne-klimaziel). 
 
 ## Klima
 ### Wirtschaft
@@ -231,82 +231,41 @@ Mehr Flexibilität, aber auch mehr Unsicherheit, haben Gig-Worker, die mit viel 
 Das Landgericht Berlin [hat im August entschieden](https://www.heise.de/news/Persoenlichkeitsrecht-Synchronstimme-ist-vor-KI-Nachahmung-geschuetzt-10623565.html), dass das Persönlichkeitsrecht auch die Stimme eines Synchronsprechers schützt. Somit ist deren Nachahmung durch KI und anschließend öffentlichen Verwendung nicht ohne Einwilligung des Betroffenen erlaubt.
 
 ## Überwachung
-* "Watching You": Dokumentarfilm zeigt die Welt von Palantir und Alex Karp
-  https://www.heise.de/hintergrund/Interview-Der-Regisseur-zu-Watching-You-Die-Welt-von-Palantir-und-Alex-Karp-9740576.html
-  * Hyperbandrauschen: PALANTIR!
-    https://hybr.de/2025/08/06/palantir/
-  * Palantirs Software für die Polizei ist den Recherchen nach zu folgern also nicht so alternativlos wie von einigen Sicherheitsbehörden dargestellt
-    https://www.tagesschau.de/investigativ/ndr/palantir-polizei-daten-software-100.html
-* Gesetzentwurf für die Neuregelung biometrischer Fernüberwachung
-  https://algorithmwatch.org/de/biometrische-uberwachung-rechtsbruchen/
-  https://chaos.social/@algorithmwatch/114986425707768566
-* 20 years ago, it was a scandal that Google started to track which links you clicked on the search-results page
-  https://web.archive.org/web/20051119012842/http://mboffin.com/post.aspx?id=1830
-  https://mamot.fr/@pluralistic/115052838970219468
-* eID: The Bigger Picture
-  https://dnip.ch/2025/08/25/eid-the-bigger-picture/
-  https://infosec.exchange/@adfichter/115087957096289909
-* Hessen setzt als erstes Bundesland Live-Gesichtserkennung ein
-  https://netzpolitik.org/2025/als-erstes-bundesland-hessen-setzt-live-gesichtserkennung-ein/
+Honkhase und ajuvo haben sich Anfang August [90 Minuten Zeit genommen](https://hybr.de/2025/08/06/palantir/), die relevanten Dinge run um PALANTIR zusammenzutragen. Anders als oft dargestellt, [gäbe es](https://www.tagesschau.de/investigativ/ndr/palantir-polizei-daten-software-100.html) durchaus digital souveräne Palantir-Alternativen.
+
+Doch Überwachungsgelüste stechen Sicherheitsbedenken: [Bereits seit dem 10. Juli](https://netzpolitik.org/2025/als-erstes-bundesland-hessen-setzt-live-gesichtserkennung-ein/) läuft mit der automatisierten Echtzeit-Gesichtserkennung im Bahnhofsviertel von Frankfurt am Main ein System aus 50 Kameras, deren Bilder via KI mit Fotos gesuchter Personen abgeglichen werden. In Hessen darf zudem Videoüberwachung in polizeilich definierten "Angsträumen" eingesetzt werden, so dass eine Ausweitung auch nur noch eine Frage der Zeit ist. Ein Gesetzesentwurf auf Bundesebene [zielt außerdem darauf ab](https://algorithmwatch.org/de/biometrische-uberwachung-rechtsbruchen/), eine Datenbank aus öffentlich im Internet auffindbaren Fotos (Familienfotos, Selfies, Profilfotos) aufzubauen, um auch diese, in Palantir gefüttert, für die Massenüberwachung nutzen zu können.  
+
+Vor 20 Jahren [war es noch ein Skandal](https://mamot.fr/@pluralistic/115052838970219468), als Google begann zu tracken, wer welche Links auf der Suchergebnisseite geklickt hat. 
 
 ## Transparenz
-* Wirtschaftsministerium will Verkauf von Ölspeichern geheimhalten
-  https://fragdenstaat.de/artikel/klagen/2025/08/wirtschaftsministerium-will-verkauf-von-olspeichern-geheimhalten/
-* Wirtschaftsministerin Reiche setzt für ihre Energiepolitik auf ein Institut, das für seine Nähe zur fossilen Energiewirtschaft berüchtigt ist.
-  https://taz.de/Energiepolitik-der-Union/!6101985/
-* Verstößt Brandenburg gegen sein Anti-Korruptionsgesetz?
-  https://fragdenstaat.de/artikel/exklusiv/2025/08/neuer-job-fur-mr-tesla-verstosst-brandenburg-gegen-sein-anti-korruptionsgesetz/
-* Sudhof-Bericht weist auf Firma in Sachsen hin
-  https://www.tagesschau.de/inland/innenpolitik/maskenaffaere-sachsen-100.html
-  https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/maskendeal-corona-spahn-sudhof-bericht-sachsen-100.html
-* Posten für Freunde
-  https://correctiv.org/aktuelles/lobbyismus/2025/08/11/posten-fuer-freunde/
-* Österreich: Wir laden zum Reinfeiern in die Informationsfreiheit ein!
-  https://www.informationsfreiheit.at/2025/08/25/einladung-reinfeiern-in-die-informationsfreiheit/
-  https://bsky.app/profile/infofreiheit.bsky.social/post/3lxeyzpja7k2b
-* Alle wichtigen Dokumente zum möglichen AfD-Verbot
-  https://correctiv.org/aktuelles/debatte-um-afd-verbot/2025/08/08/alle-wichtigen-dokumente-zum-moeglichen-afd-verbot/
-* Armutsdaten verschwinden aus der Statistik: Offener Brief an das Statistische Bundesamt
-  https://gks-consult.de/armutsdaten-mikrozensus-brief-stabu/
-* Österreich: Der Ex-Kanzler, seine Freunde und ihr rechtes Mediennetzwerk
-  https://www.falter.at/zeitung/20250826/der-ex-kanzler-seine-freunde-und-ihr-rechtes-mediennetzwerk
+Die größte Betreiber-Firma von Öl- und Tanklagern in Deutschland, und damit kritische Energie-Infrastruktur, [klammheimlich](https://fragdenstaat.de/artikel/klagen/2025/08/wirtschaftsministerium-will-verkauf-von-olspeichern-geheimhalten/) an einen US-amerikanischen Energiekonzern zu verkaufen, sollte bei den Entwicklungen in den USA als auch den Erfahrungen mit Gazprom-Gasspeichern eigentlich ein No-Go sein.
+
+Dass das Statistische Bundesamt die Mikrozensus-Kern-(MZ-Kern)-Daten nach Bundesmedian rückwirkend ab 2020 von ihren Seiten gelöscht hat, [stößt auf Unverständnis bei Armutsforschern](https://gks-consult.de/armutsdaten-mikrozensus-brief-stabu/). Die Begründung, "die Veröffentlichung unterschiedlicher Ergebnisse zu ein und demselben vermeintlichen Sachverhalt" vermeiden zu wollen, ist unwissenschaftlich, da zwar der Standard MZ-SILC EU-weit vergleichbar ist, eine viel kleinere Stichprobe nutzt, als der MZ-Kern, der damit detaillierte regionale und soziodemografische Analysen ermöglicht. Vor allem brisant: für 2023 berechnet der MZ-SILC eine Armutsquote von 15,5%, der MZ-Kern jedoch 16,6%, also rund eine Million mehr von Armut betroffene Menschen, bei der größeren Stichprobe von MZ die wohl wahrscheinlichere Zahl. 
+
+Man wartet nur noch sehnsüchtig auf den Abspa(h)nn diesen schlechten Films: eine bei Start der Ausschreibung nicht mal gegründete Firma bekommt am 14. April 2021 als eine von 37 Firmen [einen Millionen-Auftrag](https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/maskendeal-corona-spahn-sudhof-bericht-sachsen-100.html). Branchenkenntnisse bei medizinischer Schutzausrüstung kann man den Gründern nicht nachweisen, wohl aber Nähe zur CDU. Auch schon vor der Pandemie gab es fragwürdige Entscheidungen im Gesundheitsminsterium, z.B. zwei Personalbesetzungen, [bei der Loyalität wohl wichtiger war als Kompetenz](https://correctiv.org/aktuelles/lobbyismus/2025/08/11/posten-fuer-freunde/).
+
+Bevor irgendwelche Pap(p)enheimer und Schleichers ihr noch zur Macht verhelfen, sollte doch ein AfD-Verbot angestrebt werden, auch schon um ihr damit die Förderung mit Steuergeldern abzuschneiden. Correctiv hat Anträge, Gutachten und Gerichtsentscheidungen zu einem solchen möglichen Verbotsverfahren [kompakt und übersichtlich zusammengestellt](https://correctiv.org/aktuelles/debatte-um-afd-verbot/2025/08/08/alle-wichtigen-dokumente-zum-moeglichen-afd-verbot/).
 
 ## USA
-* ICE detention dashboard
-  https://watchice.org
-  https://github.com/lockdown-systems/icewatch
-* Data that taxpayers have paid for and rely on is disappearing
-  https://theconversation.com/data-that-taxpayers-have-paid-for-and-rely-on-is-disappearing-heres-how-its-happening-and-what-you-can-do-about-it-251787
-* Whistleblower: DOGE hat Daten zu allen Menschen in den USA in die Cloud kopiert
-  https://www.heise.de/news/Whistleblower-DOGE-hat-Daten-zu-allen-Menschen-in-den-USA-in-die-Cloud-kopiert-10622689.html
+Die [ICE Detention Map](https://watchice.org) (Implementierung auch [Open Source](https://github.com/lockdown-systems/icewatch)) zeigt die Anzahl vorsorglich Inhaftierter in den USA, für die ihr Aufhaltsstatus und eine mögliche Abschiebung geprüft wird.  
+
+Laut Whisteblowern [beschuldigen](https://www.heise.de/news/Whistleblower-DOGE-hat-Daten-zu-allen-Menschen-in-den-USA-in-die-Cloud-kopiert-10622689.html) die US-Sozialkasse hunderte Millionen hochsensible Daten auf ungeschützten Server in die Cloud kopiert zu haben.
+
+An anderer Stellen werden dagegen [massenweise Daten gelöscht](https://theconversation.com/data-that-taxpayers-have-paid-for-and-rely-on-is-disappearing-heres-how-its-happening-and-what-you-can-do-about-it-251787), obwohl für ihre Erhebung einst Steuergeld geflossen ist.
 
 ## Recap
-* Wikimania Nairobi: https://wikimedia.eventyay.com/talk/wikimania2025/schedule/
-  * Wikidata: We want our data to be reused. But do we really?
-    https://wikimedia.eventyay.com/talk/wikimania2025/talk/NAPHP9/
-* Barcamp Open Science 2025: From Threats to Collective Resilience
-  * https://www.zbw-mediatalk.eu/2025/08/barcamp-open-science-2025-from-threats-to-collective-resilience/
-* What Hackers Yearn 2025
-  * https://media.ccc.de/c/WHY2025
-* FrOSCon 2025
-  * https://media.ccc.de/c/froscon2025
-  * https://metalhead.club/@ChrisMcZork/115055270560194917
-* AI Literacy Workshop
-  * https://www.youtube.com/watch?v=y_EZjTm5Bn4
-  * https://fosstodon.org/@okfn/115057455865382255
-* HOPE16
-  * https://www.youtube.com/watch?v=2xuoa3PLMvU&list=PLlg8We3ePxcPG0FRTcEEdsViRevFjikIU
+* [Wikimania Nairobi](https://wikimedia.eventyay.com/talk/wikimania2025/schedule/): 
+  * z.B. [Wikidata: We want our data to be reused. But do we really?](https://wikimedia.eventyay.com/talk/wikimania2025/talk/NAPHP9/)
+* [Barcamp Open Science 2025: From Threats to Collective Resilience](https://www.zbw-mediatalk.eu/2025/08/barcamp-open-science-2025-from-threats-to-collective-resilience/)
+* [What Hackers Yearn 2025](https://media.ccc.de/c/WHY2025)
+* [FrOSCon 2025](https://media.ccc.de/c/froscon2025)
+* [AI Literacy Workshop](https://www.youtube.com/watch?v=y_EZjTm5Bn4)
+* [HOPE16](https://www.youtube.com/watch?v=2xuoa3PLMvU&list=PLlg8We3ePxcPG0FRTcEEdsViRevFjikIU)
 
 ## Und sonst so
-* Das Buchstabenmuseum in Berlin muss leider schließen
-  https://chaos.social/@ubahnverleih/114964415494415828
-  https://www.buchstabenmuseum.de
-* Passierschein A38
-  https://github.com/Kamik423/passierschein-a38
-  https://mastodon.social/@SherlockHans/115054249599178753
-* livestream von der ISS
-  https://www.youtube.com/watch?v=fO9e9jnhYK8
-  https://tldr.nettime.org/@bini_adamczak/115096835953707731
+Den Passierschein A38 gibt es nun endlich auch [in LaTeX](https://github.com/Kamik423/passierschein-a38).
+
+[Rund um die Uhr](https://tldr.nettime.org/@bini_adamczak/115096835953707731) kann man den Blick von der ISS auf die Erde in diesem [4K Livestream](https://www.youtube.com/watch?v=fO9e9jnhYK8) genießen.
 
 ## Fristen
 * culture.explore(data) - An Open Cultural Data Hackathon, Staatsbibliothek zu Berlin, 07.10.2025 - 08-10.2025, Anmeldung bis 15.09.2025
