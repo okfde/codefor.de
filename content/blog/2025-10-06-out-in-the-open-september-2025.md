@@ -12,31 +12,30 @@ type: blog
 ---
 
 ## Open Data
-* Historische Bodenrichtwerte Dortmund - Was kostete ein Grundstück
-  https://open-data.dortmund.de/explore/?disjunctive.keyword&disjunctive.details.jahr&sort=title&refine.publisher=Gutachterausschuss+f%C3%BCr+Grundst%C3%BCckswerte+in+der+Stadt+Dortmund&q=Bodenrichtwertkarten
-  via https://ruhr.social/users/DortmundData/statuses/115133319382755638
-* Zweites Open Data Fachforum 2025: Wie setzen wir Open Data technisch um? Und jährlich grüßt das Murmeltier?
-  https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2025/FF2_TU.html
-* Gibt es bereits eine Seite, die die Schließung zentraler Infrastruktur (Sportplätze, Bibliotheken, Freibäder) in Deutschland sammelt und auf einer Karte monitored? 
-  https://norden.social/@datenschatz/115150767797953872
-* Agent-First API Design
-  https://görn.name/posts/agent-firstapidesignforparliamentarymeetingdata/
-  https://bonn.social/@goern/115173946605337103
-* Mit der EU-ID lassen sich innerhalb der Europäischen Union alle Organisationen (Unternehmen, Vereine, etc.) eindeutig bezeichnen. Seit gestern kann man die EU-ID auch bei @wikidata eintragen. 
-  https://open-north.de/blog/2025-09-17_euid/
-* Parlamentsdaten in Brandenburg als XML
-  https://chaos.social/@jk/115261022686978547
-  https://www.parlamentsdokumentation.brandenburg.de/portal/browse.tt.html
-* CSW2DCAT-Bridge
-  https://gitlab.opencode.de/sh/zit/opendata/csw2dcat
-  https://norden.social/@MisterOpenData/115293410714095712
+### Open Data Governance
+Die Fragen nach technischer Umsetzung von Open Data über Verwaltungsgrenzen hinweg ist auch nach Jahren kommunaler Praxis immer noch ein Dauerbrenner. So auch [beim zweiten Open Data Fachforum 2025](https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2025/FF2_TU.html) des Kompetenzzentrum Open Data (CCOD), wo es wiedermal um das Hosting von Daten, Nachnutzungs- und Individualiserungsmöglichkeiten von Katalog-Software, Data-Sharing und den Bedarf nach mehr Schnittstellen ging. Die Bundesnetzagentur versucht jedenfalls bei ihrem internen Datenmanagement die Anforderungen an Open Data bei jedem Schritt mitzudenken, in dem ein hausweiter Standard für das Erheben und Teilen von Daten zum Einsatz kommt.
 
-## Linked Open Data
+Zu [Open Data Governance](https://www.smartcountry.berlin/de/programm/programmueberblick#eventdate--Open-Data-Governance-Framework-%E2%80%94-zwischen-interner-Steuerung-und-offener-Bereitstellung--9b9833f5-fbd2-44f1-9457-742b454f4d58) sprach auch die Landesbeauftragte für Open Data in Berlin auf der Smart Country Convention, von strukturierten Dateninventur bis zur Veröffentlichung auf dem Open Data Portal (oder auch nur zur internen Bereitstellung) braucht es während der Prozesse entlang des Lebenszyklus von Daten klare Rollen und Verantwortlichkeiten, aber auch unterstützende Technologien und Werkzeuge, die die systematische Datendokumentation und den Datenaustausch begünstigen. 
+
+Auf der Convention wurde auch [die Betaversion](https://testphase.rechtsinformationen.bund.de) des neuen Rechtsinformationsportal des Bundes [vorgestellt](https://www.smartcountry.berlin/de/programm/programmueberblick#eventdate--Rechtsinformationen-als-Open-Data-mit-dem-neuen-Rechtsinformationsportal-des-Bundes--e1e5e7ea-5bf9-484f-922e-cf1e6392e579). Auf dem Portal sollen künftig Rechtsinformationen als Open Data bereitgestellt werden. 
+
+### Parlamentsdaten
+So ein bisschen mehr Open Data ([nach langem warten](https://chaos.social/@jk/115261022686978547)) gibt es nun vom Landtag Brandenburg, die Personendaten (auch denen u.a. hervorgeht, wer wann Mitglied des Landtages war) [gibt es bald als XML-Datei](https://www.parlamentsdokumentation.brandenburg.de/portal/browse.tt.html). 
+
+Während manche noch ein einzelnen Dateien denken, die sich Menschen ab und zu mal über Download-Links auf Web-Seiten herunterladen, bewegen sich inzwischen viele autonome (KI-)Agenten im Netz, die da ganz andere Anforderungen haben. Gerade um ihre Token-Limits nicht zu sprengen, muss eine Antwort auf ihre Abfrage möglichst passgenau sein. Über einen Request erst an die ID(s) zu kommen, um mit ihnen dann weitere Requests zu starten, von deren Responses man am Ende jeweils 10 Prozent benötigt, belastet auch die Server. Deswegen [fordert Christoph Görn](https://bonn.social/@goern/115173946605337103) ein Umdenken hinzu [Agent-First API Design](https://görn.name/posts/agent-firstapidesignforparliamentarymeetingdata/), das semantische Abfragen erlaubt und nennt dazu auch positive Beispiele wie die [govinfo API](https://www.govinfo.gov/features/api-related-document-service) und die [Plural Open API](https://docs.openstates.org/api-v3/) aus den USA sowie die [UK Parliament API](https://developer.parliament.uk) aus Großbritannien.  
+
+### Linked Open Data
 * das Konzept Linked Open Data besser Nicht-Techis/Nicht-Infowissenschaftler*innen vermitteln
   https://openbiblio.social/@david/115146573143711650 
 * Im Linked Data Service der Deutsche Nationalbibliothek gibt es ein neues Angebot. Der neue SPARQL-Endpunkt erlaubt die semantische Abfrage unserer Daten.
   https://openbiblio.social/@DNB_Aktuelles/115259268611516752
   https://sparql.dnb.de
+
+### Praxis
+* Gibt es bereits eine Seite, die die Schließung zentraler Infrastruktur (Sportplätze, Bibliotheken, Freibäder) in Deutschland sammelt und auf einer Karte monitored? 
+  https://norden.social/@datenschatz/115150767797953872
+* Mit der EU-ID lassen sich innerhalb der Europäischen Union alle Organisationen (Unternehmen, Vereine, etc.) eindeutig bezeichnen. Seit gestern kann man die EU-ID auch bei @wikidata eintragen. 
+  https://open-north.de/blog/2025-09-17_euid/
 * Staticat: Ein kleines Tool zum Erstellen statischer Open-Data-Kataloge
   https://discourse.opencode.de/t/staticat-ein-kleines-tool-zum-erstellen-statischer-open-data-kataloge/4347
   https://github.com/hriebl/staticat
@@ -84,6 +83,9 @@ type: blog
   https://egovernment-podcast.com/egov232-monatsschau-09-25/
 * Wer Suchalgorithmen kontrolliert, kontrolliert den Zugang zum Wissen der Welt, zu unserer Geschichte und wie sie erinnert wird
   https://freewebsearch.org/de/statement-anke-domscheitberg/
+* Offen, vernetzt, beteiligt: Die KielRegion macht Beteiligung einfach — und Open Source
+  https://www.smartcountry.berlin/de/programm/programmueberblick#eventdate--Offen,-vernetzt,-beteiligt:-Die-KielRegion-macht-Beteiligung-einfach-%E2%80%94--und-Open-Source--1ef61b32-dadf-4e1d-a905-cef34c147bf9
+
 
 ## Open Source
 * Open Source Monitor 2025
@@ -93,84 +95,6 @@ type: blog
 * animation library gsap frei 
   https://gsap.com/pricing/
   via https://fosstodon.org/@gorgonzola/115281979276420050
-
-
-## Politik
-* Grundrechte im Digitalen
-  https://www.wikimedia.de/wp-content/uploads/2025/09/Grundrechte-im-Digitalen.pdf
-* Das Anti-NGO-Narrativ: Wie versucht wird, die Zivilgesellschaft zu delegimitieren
-  https://www.maecenata.eu/2025/09/10/das-anti-ngo-narrativ-wie-versucht-wird-die-zivilgesellschaft-zu-delegimitieren/
-  https://mastodon.social/@transparency_de/115179549067857299
-  * https://bewegung.social/@lobbycontrol/115186366085506083
-* Neue Studie: Wer steckt hinter den Kampagnen gegen die Zivilgesellschaft?
-  https://www.lobbycontrol.de/aus-der-lobbywelt/neue-studie-wer-steckt-hinter-den-kampagnen-gegen-die-zivilgesellschaft-122514/
-* Neschwitz: AfD-Sympathisant verliert Wahl – obwohl er allein auf dem Zettel stand
-  https://www.volksverpetzer.de/aktuelles/neschwitz-verliert-wahl/
-* Merz Mythen Counter
-  https://neunund20.de/merzmythen
-
-## Transparenz
-* Österreich: Die Informationsfreiheit ist da – was wollen Sie vom Staat wissen?
-  https://www.derstandard.at/story/3000000284290/die-informationsfreiheit-ist-da-was-wollen-sie-vom-staat-wissen
-  * Forum Informationsfreiheit im fediverse
-    https://fedi.at/@informationsfreiheit/115225761193166524
-* EU-Kommission: Von der Leyens Signal-Client löscht Nachrichten automatisch
-  https://www.heise.de/news/Signal-Messenger-Von-der-Leyen-hat-Auto-Delete-fuer-Nachrichten-voreingestellt-10628216.html
-* Maskenaffäre
-  https://mastodon.social/@lassesonnerein/115145996870114424
-  https://bewegung.social/@lobbycontrol/115146682999915748
-* Wie Jens Spahn hunderte Millionen Euro verbrannte
-  https://correctiv.org/dasspahnnetzwerk/2025/09/15/wie-jens-spahn-hunderte-millionen-euro-verbrannte/
-* Bundesrechnungshof rügt Gesundheitsministerium wegen fehlender Nachweise
-  https://correctiv.org/aktuelles/bundesrechnungshof/2025/09/24/bundesrechnungshof-ruegt-gesundheitsministerium-wegen-fehlender-nachweise/
-* Das Ende des Klinik-Atlas: Weniger Wissen für Patient:innen, mehr Macht für Lobbys
-  https://taz.de/Nina-Warken-will-den-Klinik-Atlas-einstellen-und-hilft-so-Lobbyisten-statt-Patienten/!6109079/
-  https://www.zeit.de/2025/39/bundes-klinik-atlas-gesundheitsministerium-nina-warken-karl-lauterbach
-  * Bundes-Klinik-Atlas: "Es muss immer um die bestmögliche Versorgung von Patienten gehen"
-    https://netzpolitik.org/2025/bundes-klinik-atlas-es-muss-immer-um-die-bestmoegliche-versorgung-von-patienten-gehen/
-* Lageberichte des Auswärtigen Amtes: 1:0 für Informationsfreiheit
-  https://www.proasyl.de/news/lageberichte-des-auswaertigen-amtes-10-fuer-informationsfreiheit/
-* Data Act: EU-Gesetz soll Daten befreien
-  https://www.heise.de/hintergrund/Data-Act-EU-Gesetz-soll-Daten-befreien-10641336.html
-  * FAQ zum EU Data Act – mehr Rechte für Verbraucher?
-    https://www.heise.de/news/FAQ-zum-EU-Data-Act-mehr-Rechte-fuer-Verbraucher-10643571.html
-    https://digital-strategy.ec.europa.eu/en/library/commission-publishes-frequently-asked-questions-about-data-act
-* Scheinwerfer: Umweltkriminalität
-  https://www.transparency.de/fileadmin/Redaktion/Publikationen/2025/Scheinwerfer-106_Umweltkriminalitaet.pdf
-  via https://mastodon.social/@transparency_de/115275714225034295
-* Leipziger Transparenzsatzung: Nach Jahren fand die Stadtverwaltung eine Ausrede
-  https://www.l-iz.de/politik/leipzig/2025/09/leipziger-transparenzsatzung-jahre-stadtverwaltung-ausrede-632868
-  https://www.l-iz.de/politik/leipzig/2025/10/der-stadtrat-tagte-vor-2028-leipzig-keine-transparenzsatzung-635458
-
-
-### Lobbyismus
-* Zähne gezogen: Wirtschaftsministerium schafft Lieferkettengesetz faktisch ab
-  https://www.heise.de/news/Zaehne-gezogen-Wirtschaftsministerium-schafft-Lieferkettengesetz-faktisch-ab-10673015.html
-* 10 Jahre Vortrag -Tragedy of the Horizon: A Call for Global Financial Reform
-  https://www.tragedyofthehorizon.org
-
-## Überwachung
-* Internes Protokoll: Dänemark will Chatkontrolle durchdrücken
-  https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/
-  * Der Kampf gegen die Chatkontrolle braucht dich jetzt!
-    https://chat-kontrolle.eu/index.php/2025/10/02/der-kampf-gegen-die-chatkontrolle-braucht-dich-jetzt/
-  * Der Kampf gegen die Chatkontrolle braucht dich
-    https://digitalegesellschaft.de/2025/10/der-kampf-gegen-die-chatkontrolle-braucht-dich/
-  * Die Chatkontrolle gefährdet die Demokratie
-    https://netzpolitik.org/2025/eu-ueberwachungsplaene-die-chatkontrolle-gefaehrdet-die-demokratie/
-  * Aus Sicherheitsgründen: Bundesregierung muss der Chatkontrolle eine Absage erteilen
-    https://www.ccc.de/de/updates/2025/absage-chatkontrolle
-* Palantir-Gesetze missachten Vorgaben aus Karlsruhe
-  https://netzpolitik.org/2025/automatisierte-datenanalyse-palantir-gesetze-missachten-vorgaben-aus-karlsruhe/#netzpolitik-pw
-
-## USA
-* Mehr als 40 Organisationen fordern von Ursula von der Leyen mehr Resilienz gegenüber Druck aus Washington. EU-Recht dürfe nicht einfach aufgegeben werden.
-  https://www.heise.de/news/Zivilgesellschaft-vs-BigTech-EU-soll-nicht-vor-Trump-Drohungen-einknicken-10628664.html
-* Energy Dept. adds ‘climate change’ and ‘emissions’ to banned words list
-  https://www.politico.com/news/2025/09/28/energy-department-climate-change-emissions-banned-words-00583649
-  via https://climatejustice.global/@parents4future/115288899434266091
-
-## Open Source
 * Freizügige Lizenzierung als Selbstausbeutung?
   https://toot.cat/@zkat/115129958258018665
 
@@ -283,6 +207,80 @@ type: blog
 * GLAMorous Europe: Das Tinder für Kunst-Fans
   https://blog.wikimedia.de/2025/09/11/glamorous-europe/
 
+## Politik
+* Grundrechte im Digitalen
+  https://www.wikimedia.de/wp-content/uploads/2025/09/Grundrechte-im-Digitalen.pdf
+* Das Anti-NGO-Narrativ: Wie versucht wird, die Zivilgesellschaft zu delegimitieren
+  https://www.maecenata.eu/2025/09/10/das-anti-ngo-narrativ-wie-versucht-wird-die-zivilgesellschaft-zu-delegimitieren/
+  https://mastodon.social/@transparency_de/115179549067857299
+  * https://bewegung.social/@lobbycontrol/115186366085506083
+* Neue Studie: Wer steckt hinter den Kampagnen gegen die Zivilgesellschaft?
+  https://www.lobbycontrol.de/aus-der-lobbywelt/neue-studie-wer-steckt-hinter-den-kampagnen-gegen-die-zivilgesellschaft-122514/
+* Neschwitz: AfD-Sympathisant verliert Wahl – obwohl er allein auf dem Zettel stand
+  https://www.volksverpetzer.de/aktuelles/neschwitz-verliert-wahl/
+* Merz Mythen Counter
+  https://neunund20.de/merzmythen
+
+## Transparenz
+* Österreich: Die Informationsfreiheit ist da – was wollen Sie vom Staat wissen?
+  https://www.derstandard.at/story/3000000284290/die-informationsfreiheit-ist-da-was-wollen-sie-vom-staat-wissen
+  * Forum Informationsfreiheit im fediverse
+    https://fedi.at/@informationsfreiheit/115225761193166524
+* EU-Kommission: Von der Leyens Signal-Client löscht Nachrichten automatisch
+  https://www.heise.de/news/Signal-Messenger-Von-der-Leyen-hat-Auto-Delete-fuer-Nachrichten-voreingestellt-10628216.html
+* Maskenaffäre
+  https://mastodon.social/@lassesonnerein/115145996870114424
+  https://bewegung.social/@lobbycontrol/115146682999915748
+* Wie Jens Spahn hunderte Millionen Euro verbrannte
+  https://correctiv.org/dasspahnnetzwerk/2025/09/15/wie-jens-spahn-hunderte-millionen-euro-verbrannte/
+* Bundesrechnungshof rügt Gesundheitsministerium wegen fehlender Nachweise
+  https://correctiv.org/aktuelles/bundesrechnungshof/2025/09/24/bundesrechnungshof-ruegt-gesundheitsministerium-wegen-fehlender-nachweise/
+* Das Ende des Klinik-Atlas: Weniger Wissen für Patient:innen, mehr Macht für Lobbys
+  https://taz.de/Nina-Warken-will-den-Klinik-Atlas-einstellen-und-hilft-so-Lobbyisten-statt-Patienten/!6109079/
+  https://www.zeit.de/2025/39/bundes-klinik-atlas-gesundheitsministerium-nina-warken-karl-lauterbach
+  * Bundes-Klinik-Atlas: "Es muss immer um die bestmögliche Versorgung von Patienten gehen"
+    https://netzpolitik.org/2025/bundes-klinik-atlas-es-muss-immer-um-die-bestmoegliche-versorgung-von-patienten-gehen/
+* Lageberichte des Auswärtigen Amtes: 1:0 für Informationsfreiheit
+  https://www.proasyl.de/news/lageberichte-des-auswaertigen-amtes-10-fuer-informationsfreiheit/
+* Data Act: EU-Gesetz soll Daten befreien
+  https://www.heise.de/hintergrund/Data-Act-EU-Gesetz-soll-Daten-befreien-10641336.html
+  * FAQ zum EU Data Act – mehr Rechte für Verbraucher?
+    https://www.heise.de/news/FAQ-zum-EU-Data-Act-mehr-Rechte-fuer-Verbraucher-10643571.html
+    https://digital-strategy.ec.europa.eu/en/library/commission-publishes-frequently-asked-questions-about-data-act
+* Scheinwerfer: Umweltkriminalität
+  https://www.transparency.de/fileadmin/Redaktion/Publikationen/2025/Scheinwerfer-106_Umweltkriminalitaet.pdf
+  via https://mastodon.social/@transparency_de/115275714225034295
+* Leipziger Transparenzsatzung: Nach Jahren fand die Stadtverwaltung eine Ausrede
+  https://www.l-iz.de/politik/leipzig/2025/09/leipziger-transparenzsatzung-jahre-stadtverwaltung-ausrede-632868
+  https://www.l-iz.de/politik/leipzig/2025/10/der-stadtrat-tagte-vor-2028-leipzig-keine-transparenzsatzung-635458
+
+### Lobbyismus
+* Zähne gezogen: Wirtschaftsministerium schafft Lieferkettengesetz faktisch ab
+  https://www.heise.de/news/Zaehne-gezogen-Wirtschaftsministerium-schafft-Lieferkettengesetz-faktisch-ab-10673015.html
+* 10 Jahre Vortrag -Tragedy of the Horizon: A Call for Global Financial Reform
+  https://www.tragedyofthehorizon.org
+
+## Überwachung
+* Internes Protokoll: Dänemark will Chatkontrolle durchdrücken
+  https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/
+  * Der Kampf gegen die Chatkontrolle braucht dich jetzt!
+    https://chat-kontrolle.eu/index.php/2025/10/02/der-kampf-gegen-die-chatkontrolle-braucht-dich-jetzt/
+  * Der Kampf gegen die Chatkontrolle braucht dich
+    https://digitalegesellschaft.de/2025/10/der-kampf-gegen-die-chatkontrolle-braucht-dich/
+  * Die Chatkontrolle gefährdet die Demokratie
+    https://netzpolitik.org/2025/eu-ueberwachungsplaene-die-chatkontrolle-gefaehrdet-die-demokratie/
+  * Aus Sicherheitsgründen: Bundesregierung muss der Chatkontrolle eine Absage erteilen
+    https://www.ccc.de/de/updates/2025/absage-chatkontrolle
+* Palantir-Gesetze missachten Vorgaben aus Karlsruhe
+  https://netzpolitik.org/2025/automatisierte-datenanalyse-palantir-gesetze-missachten-vorgaben-aus-karlsruhe/#netzpolitik-pw
+
+## USA
+* Mehr als 40 Organisationen fordern von Ursula von der Leyen mehr Resilienz gegenüber Druck aus Washington. EU-Recht dürfe nicht einfach aufgegeben werden.
+  https://www.heise.de/news/Zivilgesellschaft-vs-BigTech-EU-soll-nicht-vor-Trump-Drohungen-einknicken-10628664.html
+* Energy Dept. adds ‘climate change’ and ‘emissions’ to banned words list
+  https://www.politico.com/news/2025/09/28/energy-department-climate-change-emissions-banned-words-00583649
+  via https://climatejustice.global/@parents4future/115288899434266091
+
 ## Aiaiai
 * Mit Apertus präsentiert die Schweiz ein LLM mit 15 Billionen Token
   https://www.all-ai.de/news/top-news24/lama-schweiz-ki
@@ -310,30 +308,24 @@ type: blog
   https://www.heise.de/news/Problem-Workslop-Wie-KI-Einsatz-die-Produktivitaet-in-Firmen-erstickt-10667638.html
 
 ## Recap
-* MRMCD25: https://media.ccc.de/c/mrmcd25
-* Datenspuren: https://media.ccc.de/c/DS2025
-* Jugend Hackt Bern: https://media.ccc.de/v/jhch-56373-jugend-hackt-bern-projektpras
+* [MRMCD25](https://media.ccc.de/c/mrmcd25) 
+* [Datenspuren](https://media.ccc.de/c/DS2025) 
+* [Jugend Hackt Bern](https://media.ccc.de/v/jhch-56373-jugend-hackt-bern-projektpras) 
 * Videos zu den 51. Energy-Charts Talks: 
   * https://www.youtube.com/watch?v=7isFCv6IX4w
   * https://www.youtube.com/watch?v=WNxSiVR2lKc
-* Digitale Woche Dortmund: https://www.youtube.com/live/NzKdDqoCQSI
-* Open-Access-Tage 2025: https://zenodo.org/communities/open-access-tage-2025-konstanz/records?q=&l=list&p=1&s=10&sort=newest
-* GeoAI Workshop Recording: Data Preprocessing, Segmentation Models, and Inference: https://www.linkedin.com/posts/giswqs_geospatial-geoai-ai-activity-7372325205249269761-wbAm
-* SciCAR-Konferenz: https://www.linkedin.com/posts/john-mark-s_auch-dieses-mal-hat-die-scicar-konferenz-ugcPost-7371092045513527297--LBc
-* Smart Country Convention: https://www.smartcountry.berlin/de/programm/programmueberblick
+* [Digitale Woche Dortmund](https://www.youtube.com/live/NzKdDqoCQSI) 
+* [Open-Access-Tage 2025](https://zenodo.org/communities/open-access-tage-2025-konstanz/records?q=&l=list&p=1&s=10&sort=newest) 
+* [GeoAI Workshop Recording](https://www.linkedin.com/posts/giswqs_geospatial-geoai-ai-activity-7372325205249269761-wbAm): Data Preprocessing, Segmentation Models, and Inference
+* [SciCAR-Konferenz](https://www.linkedin.com/posts/john-mark-s_auch-dieses-mal-hat-die-scicar-konferenz-ugcPost-7371092045513527297--LBc) 
+* [Smart Country Convention](https://www.smartcountry.berlin/de/programm/programmueberblick)
 
 ## Fristen
-* 2. Open Source Hardware Konferenz (OSHOP 2025), Einreichungen bis 10.10.2025
-  * https://www.oshop-network.de/konferenz-2025/
-* FOSDEM 2026, Einreichungen bis 12.10.2025
-  * https://fosdem.org/2026/news/2025-09-21-call-for-participation/
-* 39C3 – Call for Participation, Einreichungen bis 24.10.2025 (23:59 UTC)
-  * https://content.events.ccc.de/cfp/39c3/index.de.html
-* International Online Conference "The Art Museum in the Digital Age – 2026", Einreichungen bis 02.11.2025
-  * https://www.belvedere.at/en/digitalmuseum2026
-  * https://www.belvedere.at/sites/default/files/2025-09/CFP_2026_The%20Art%20Museum%20in%20the%20Digital%20Age.pdf
-* Jahrgang 02 des PrototypeFund, Bewerbung bis 30.11.2025
-  * https://www.prototypefund.de/blog/bewerbt-euch-jetzt-fuer-jahrgang-02
+* 2. Open Source Hardware Konferenz (OSHOP 2025), [Einreichungen bis 10.10.2025](https://www.oshop-network.de/konferenz-2025/)
+* FOSDEM 2026, [Einreichungen bis 12.10.2025](https://fosdem.org/2026/news/2025-09-21-call-for-participation/)
+* 39C3 – Call for Participation, [Einreichungen bis 24.10.2025](https://content.events.ccc.de/cfp/39c3/index.de.html) (23:59 UTC)
+* International Online Conference "The Art Museum in the Digital Age – 2026", [Einreichungen bis 02.11.2025](https://www.belvedere.at/en/digitalmuseum2026)
+* Jahrgang 02 des PrototypeFund, [Bewerbung bis 30.11.2025](https://www.prototypefund.de/blog/bewerbt-euch-jetzt-fuer-jahrgang-02)
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Mittwoch, 01.10.2025, bis Freitag, 31.10.2025, 23:59, online: **Hacktoberfest** <a title='Kalendereintrag Hacktoberfest' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSGFja3RvYmVyZmVzdC8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI1MTAwNFQxMzM4MDFaDQpEVFNUQVJUOjIwMjUxMDAxVDAwMDAwMA0KRFRFTkQ6MjAyNTEwMzFUMjM1OTU5DQpTVU1NQVJZOkhhY2t0b2JlcmZlc3QNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vaGFja3RvYmVyZmVzdC5jb20NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>

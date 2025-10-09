@@ -268,23 +268,14 @@ Den Passierschein A38 gibt es nun endlich auch [in LaTeX](https://github.com/Kam
 [Rund um die Uhr](https://tldr.nettime.org/@bini_adamczak/115096835953707731) kann man den Blick von der ISS auf die Erde in diesem [4K Livestream](https://www.youtube.com/watch?v=fO9e9jnhYK8) genießen.
 
 ## Fristen
-* culture.explore(data) - An Open Cultural Data Hackathon, Staatsbibliothek zu Berlin, 07.10.2025 - 08-10.2025, Anmeldung bis 15.09.2025
-  * https://lab.sbb.berlin/culture-explore-data/
-* PIAZZA 2025, Anmeldung von Workshops bis 15.09.2025
-  * https://piazza-konferenz.de/jetzt-anmelden-25/
-* Community-Voting zum Open Source Wettbewerb 2025, bis 30.09.2025
-  https://open-source-wettbewerb.de/voting/
-* Wiki Loves Monuments, Einreichungen bis 30.09.2025
-  * https://de.wikipedia.org/wiki/Wikipedia:Wiki_Loves_Monuments_2025/Deutschland
-* Grimme Online Award 2025, die Abstimmung ist bis zum 01. Oktober 2025, 23:59 Uhr möglich
-  * https://w1.grimme-online-award.de/goa/voting/ext_voting.pl
-  * https://www.grimme-online-award.de/2025/nominierte
-* FragDenStaat Winter School, Anmeldefrist bis 01.10.2025
-  * https://fragdenstaat.de/aktionen/winterschool/
-* Prompted Pasts? Visuelle Geschichtsdarstellungen zwischen Illustration und KI, Einreichungen bis 01.10.2025
-  * https://www.hsozkult.de/event/id/event-156927
-* DigAMus Award 2025 - Stimmt bis 22.09.2025 22:00 für die besten digitalen Museumsprojekte aus der Longlist 2025 ab
-  * https://digamus-award.de/voting/
+* culture.explore(data) - An Open Cultural Data Hackathon, Staatsbibliothek zu Berlin, 07.10.2025 - 08-10.2025, [Anmeldung bis 15.09.2025](https://lab.sbb.berlin/culture-explore-data/)
+* PIAZZA 2025, [Anmeldung von Workshops bis 15.09.2025](https://piazza-konferenz.de/jetzt-anmelden-25/)
+* DigAMus Award 2025 - Stimmt [bis 22.09.2025 22:00](https://digamus-award.de/voting/) für die besten digitalen Museumsprojekte aus der Longlist 2025 ab
+* Community-Voting zum Open Source Wettbewerb 2025, [bis 30.09.2025](https://open-source-wettbewerb.de/voting/)
+* Wiki Loves Monuments, [Einreichungen bis 30.09.2025](https://de.wikipedia.org/wiki/Wikipedia:Wiki_Loves_Monuments_2025/Deutschland)
+* [Grimme Online Award 2025](https://www.grimme-online-award.de/2025/nominierte), die [Abstimmung](https://w1.grimme-online-award.de/goa/voting/ext_voting.pl) ist bis zum 01. Oktober 2025, 23:59 Uhr möglich
+* FragDenStaat Winter School, [Anmeldefrist bis 01.10.2025](https://fragdenstaat.de/aktionen/winterschool/)
+* Prompted Pasts? Visuelle Geschichtsdarstellungen zwischen Illustration und KI, [Einreichungen bis 01.10.2025](https://www.hsozkult.de/event/id/event-156927)
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Dienstag, 02.09.2025, 20:00-22:00, c-base, Rungestraße 20, 10179 Berlin und auch online: **149. Netzpolitischer Abend** <a title='Kalendereintrag 149. Netzpolitischer Abend' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vMTQ5LiBOZXR6cG9saXRpc2NoZXIgQWJlbmQvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTEwMDRUMTIxNTAyWg0KRFRTVEFSVDoyMDI1MDkwMlQyMDAwMDANCkRURU5EOjIwMjUwOTAyVDIyMDAwMA0KU1VNTUFSWToxNDkuIE5ldHpwb2xpdGlzY2hlciBBYmVuZA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9kaWdpdGFsZWdlc2VsbHNjaGFmdC5kZS8yMDI1LzA4LzE0OS1uZXR6cG9saXRpc2NoZXItYWJlbmQvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOmMtYmFzZVwsIFJ1bmdlc3RyYcOfZSAyMFwsIDEwMTc5IEJlcmxpbiB1bmQgYXVjaCBvbmxpbmUNCkdFTzo1Mi41MTI5NzM1OzEzLjQyMDEzMTMNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
