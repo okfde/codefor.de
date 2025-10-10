@@ -20,42 +20,29 @@ Zu [Open Data Governance](https://www.smartcountry.berlin/de/programm/programmue
 Auf der Convention wurde auch [die Betaversion](https://testphase.rechtsinformationen.bund.de) des neuen Rechtsinformationsportal des Bundes [vorgestellt](https://www.smartcountry.berlin/de/programm/programmueberblick#eventdate--Rechtsinformationen-als-Open-Data-mit-dem-neuen-Rechtsinformationsportal-des-Bundes--e1e5e7ea-5bf9-484f-922e-cf1e6392e579). Auf dem Portal sollen künftig Rechtsinformationen als Open Data bereitgestellt werden. 
 
 ### Parlamentsdaten
-So ein bisschen mehr Open Data ([nach langem warten](https://chaos.social/@jk/115261022686978547)) gibt es nun vom Landtag Brandenburg, die Personendaten (auch denen u.a. hervorgeht, wer wann Mitglied des Landtages war) [gibt es bald als XML-Datei](https://www.parlamentsdokumentation.brandenburg.de/portal/browse.tt.html). 
+So ein bisschen mehr Open Data ([nach langem warten](https://chaos.social/@jk/115261022686978547)) gibt es nun vom Landtag Brandenburg, die Personendaten (auch denen u.a. hervorgeht, wer wann Mitglied des Landtages war) [gibt es bald als XML-Datei](https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w8/inf/ab_0001/65.pdf). 
 
 Während manche noch ein einzelnen Dateien denken, die sich Menschen ab und zu mal über Download-Links auf Web-Seiten herunterladen, bewegen sich inzwischen viele autonome (KI-)Agenten im Netz, die da ganz andere Anforderungen haben. Gerade um ihre Token-Limits nicht zu sprengen, muss eine Antwort auf ihre Abfrage möglichst passgenau sein. Über einen Request erst an die ID(s) zu kommen, um mit ihnen dann weitere Requests zu starten, von deren Responses man am Ende jeweils 10 Prozent benötigt, belastet auch die Server. Deswegen [fordert Christoph Görn](https://bonn.social/@goern/115173946605337103) ein Umdenken hinzu [Agent-First API Design](https://görn.name/posts/agent-firstapidesignforparliamentarymeetingdata/), das semantische Abfragen erlaubt und nennt dazu auch positive Beispiele wie die [govinfo API](https://www.govinfo.gov/features/api-related-document-service) und die [Plural Open API](https://docs.openstates.org/api-v3/) aus den USA sowie die [UK Parliament API](https://developer.parliament.uk) aus Großbritannien.  
 
 ### Linked Open Data
-* das Konzept Linked Open Data besser Nicht-Techis/Nicht-Infowissenschaftler*innen vermitteln
-  https://openbiblio.social/@david/115146573143711650 
-* Im Linked Data Service der Deutsche Nationalbibliothek gibt es ein neues Angebot. Der neue SPARQL-Endpunkt erlaubt die semantische Abfrage unserer Daten.
-  https://openbiblio.social/@DNB_Aktuelles/115259268611516752
-  https://sparql.dnb.de
+In diesem [Mastodon-Thread](https://openbiblio.social/@david/115146573143711650) sammeln sich Links und Ideen darüber, wie man das Konzept Linked Open Data Nicht-Techikern / Nicht-Informationswissenschaftler:innen besser vermitteln könnte.
+
+Ein [neuer SPARQL-Endpunkt](https://sparql.dnb.de) erlaubt die [semantische Abfrage](https://openbiblio.social/@DNB_Aktuelles/115259268611516752) der Daten der Deutsche Nationalbibliothek.
 
 ### Praxis
-* Gibt es bereits eine Seite, die die Schließung zentraler Infrastruktur (Sportplätze, Bibliotheken, Freibäder) in Deutschland sammelt und auf einer Karte monitored? 
-  https://norden.social/@datenschatz/115150767797953872
-* Mit der EU-ID lassen sich innerhalb der Europäischen Union alle Organisationen (Unternehmen, Vereine, etc.) eindeutig bezeichnen. Seit gestern kann man die EU-ID auch bei @wikidata eintragen. 
-  https://open-north.de/blog/2025-09-17_euid/
-* Staticat: Ein kleines Tool zum Erstellen statischer Open-Data-Kataloge
-  https://discourse.opencode.de/t/staticat-ein-kleines-tool-zum-erstellen-statischer-open-data-kataloge/4347
-  https://github.com/hriebl/staticat
+Mit der EU-ID lassen sich innerhalb der Europäischen Union alle Organisationen (Unternehmen, Vereine, etc.) eindeutig bezeichnen. Die Tatsache, dass man die EU-ID nun auch bei Wikidata eintragen kann, nimmt Jesper Zedlitz zum Anlass diese Kennung [im Detail zu erläutern](https://open-north.de/blog/2025-09-17_euid/).
+
+Für einen Open-Data-Bestand schnell eine statische Webseite [generieren lassen](https://discourse.opencode.de/t/staticat-ein-kleines-tool-zum-erstellen-statischer-open-data-kataloge/4347) kann man mit dem Python-Skript [Staticat](https://github.com/hriebl/staticat). Das Tool kommt bereits für die Erzeugung der Inhalte des [Open-Data-Katalogs
+der Hansestadt Lübeck](https://opendata.luebeck.de) zum Einsatz.
+
+In Deutschland werden die Kommunen systematisch von Bund und Ländern kaputt gespart. In Folge müssen zunehmend zentrale Infrastruktur, wie Sportplätze, Bibliotheken und Freibäder schließen. Davon berichten allerdings nur die jeweiligen Lokalmedien, [eine bundesweite Darstellung fehlt](https://norden.social/@datenschatz/115150767797953872).
 
 ## Statistik
-* Bevölkerungsentwicklung der Bundesländer in 35 Jahre nach Wiedervereinigung
-  https://www.destatis.de/DE/Themen/Querschnitt/35-Jahre-Deutsche-Einheit/_inhalt.html
-  via https://social.bund.de/users/destatis/statuses/115133223152957071
-* Bevölkerung nach Altersgruppen
-  https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_N048_13.html?nn=2110
-  via https://social.bund.de/@destatis/115138881001933190
-* So verhalten sich Einkommen, Wohnungsleerstand und Miete in den 400 Kreisen in Deutschland (2022)
-  https://github.com/StatistischesBundesamt/Stat.Woche2025
-  https://norden.social/@wahlatlas/115151543977072443
+Zum Jubiläum von 35 Jahre Wiedervereinigung schaut das Statistische Bundesamt [auf die Bevölkerungsentwicklung](https://www.destatis.de/DE/Themen/Querschnitt/35-Jahre-Deutsche-Einheit/_inhalt.html) der Bundesländer [in diesem Zeitraum](https://social.bund.de/users/destatis/statuses/115133223152957071). So hatten die Neuen Bundesländer 2024 16 Prozent weniger Einwohner als noch 1990, strukturell ist hier nun der Anteil Älterer auch deutlich höher als im restlichen Bundesgebiet, einzig die großen Städte haben an Bevökerung gewonnen und dort ist der Altersdurchschnitt noch ausgewogen.
 
-## Open Hardware
-* Open Printer
-  https://www.crowdsupply.com/open-tools/open-printer
-* Das EnVKG darf die Zivilgesellschaft nicht benachteiligen
-  https://okfn.de/blog/2025/09/das-envkg-darf-die-zivilgesellschaft-nicht-benachteiligen/
+Auch wenn der Begriff "Alterspyramide" umgangssprachlich weiter für die Statistik der [Altersstruktur](https://de.wikipedia.org/wiki/Altersstruktur) einer Bevölkerung zwischen 0 und 100 verwendet wird, hat sich die Form der Häufigkeitsverteilung in Westeuropa und speziell der Bundesrepublik schon lang in Richtung (überspitzte) Zwiebelform entwickelt. In Folge erreichen [13,4 Millionen Erwerbstätige](https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_N048_13.html?nn=2110) (und damit etwa ein Drittel aller Erwerbspersonen) in den nächsten 15 Jahre das gesetzliche Rentenalter von 67 Jahren. Die nachkommenden Generationen werden diese Babyboomer-Jahrgänge als Beitragszahler in die gesetzliche Rentenkasse zahlenmäßig nicht ersetzen können.  
+
+Wahlatlas [hat in einem Diagramm visualisiert](https://norden.social/@wahlatlas/115151543977072443), wie verfügbares Einkommen der Privathaushalt mit Wohnungsleerstand und Miete in den 400 Kreisen in Deutschland (2022) in Zusammenhang stehen, [der Quellcode steht auf Github](https://github.com/StatistischesBundesamt/Stat.Woche2025).
 
 ## Digitale Souveränität
 * Neue Fachgruppe Open Source bringt Wirtschaft und Verwaltung in Schleswig-Holstein zusammen
@@ -86,7 +73,6 @@ Während manche noch ein einzelnen Dateien denken, die sich Menschen ab und zu m
 * Offen, vernetzt, beteiligt: Die KielRegion macht Beteiligung einfach — und Open Source
   https://www.smartcountry.berlin/de/programm/programmueberblick#eventdate--Offen,-vernetzt,-beteiligt:-Die-KielRegion-macht-Beteiligung-einfach-%E2%80%94--und-Open-Source--1ef61b32-dadf-4e1d-a905-cef34c147bf9
 
-
 ## Open Source
 * Open Source Monitor 2025
   https://www.bitkom.org/Open-Source-Monitor-2025
@@ -97,6 +83,12 @@ Während manche noch ein einzelnen Dateien denken, die sich Menschen ab und zu m
   via https://fosstodon.org/@gorgonzola/115281979276420050
 * Freizügige Lizenzierung als Selbstausbeutung?
   https://toot.cat/@zkat/115129958258018665
+
+## Open Hardware
+* Open Printer
+  https://www.crowdsupply.com/open-tools/open-printer
+* Das EnVKG darf die Zivilgesellschaft nicht benachteiligen
+  https://okfn.de/blog/2025/09/das-envkg-darf-die-zivilgesellschaft-nicht-benachteiligen/
 
 ## Karten
 * Panoramax - The free alternative to photo-mapping territories
@@ -308,6 +300,7 @@ Während manche noch ein einzelnen Dateien denken, die sich Menschen ab und zu m
   https://www.heise.de/news/Problem-Workslop-Wie-KI-Einsatz-die-Produktivitaet-in-Firmen-erstickt-10667638.html
 
 ## Recap
+* [Temporärhaus Monatsrückblick August 2025](https://temporaerhaus.de/monatsrueckblick-august-25-tausend-fotos-hundert-luftaufnahmen/)
 * [MRMCD25](https://media.ccc.de/c/mrmcd25) 
 * [Datenspuren](https://media.ccc.de/c/DS2025) 
 * [Jugend Hackt Bern](https://media.ccc.de/v/jhch-56373-jugend-hackt-bern-projektpras) 
@@ -318,6 +311,7 @@ Während manche noch ein einzelnen Dateien denken, die sich Menschen ab und zu m
 * [Open-Access-Tage 2025](https://zenodo.org/communities/open-access-tage-2025-konstanz/records?q=&l=list&p=1&s=10&sort=newest) 
 * [GeoAI Workshop Recording](https://www.linkedin.com/posts/giswqs_geospatial-geoai-ai-activity-7372325205249269761-wbAm): Data Preprocessing, Segmentation Models, and Inference
 * [SciCAR-Konferenz](https://www.linkedin.com/posts/john-mark-s_auch-dieses-mal-hat-die-scicar-konferenz-ugcPost-7371092045513527297--LBc) 
+* [Worldwide OTP Summit 2025 Helsinki](https://media.ccc.de/c/otp2025)
 * [Smart Country Convention](https://www.smartcountry.berlin/de/programm/programmueberblick)
 
 ## Fristen
