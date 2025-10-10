@@ -45,44 +45,28 @@ Auch wenn der Begriff "Alterspyramide" umgangssprachlich weiter für die Statist
 Wahlatlas [hat in einem Diagramm visualisiert](https://norden.social/@wahlatlas/115151543977072443), wie verfügbares Einkommen der Privathaushalt mit Wohnungsleerstand und Miete in den 400 Kreisen in Deutschland (2022) in Zusammenhang stehen, [der Quellcode steht auf Github](https://github.com/StatistischesBundesamt/Stat.Woche2025).
 
 ## Digitale Souveränität
-* Neue Fachgruppe Open Source bringt Wirtschaft und Verwaltung in Schleswig-Holstein zusammen
-  https://osb-alliance.de/featured/neue-fachgruppe-open-source-schleswig-holstein
-* "Code und Kontext" Podcast - Leonhard Kugler vom ZenDiS über das Thema digitale Souveränität
-  https://www.podcasts-online.org/de/code-und-kontext-1783571053
-* Schleswig-Holstein drängt auf Digitalabgabe
-  https://netzpolitik.org/2025/druck-auf-bundesregierung-schleswig-holstein-draengt-auf-digitalabgabe/
-* Trotz Kritik an Open Source: SH setzt Software-Umstellung fort
-  https://www.ndr.de/nachrichten/schleswig-holstein/trotz-kritik-an-open-source-sh-setzt-software-umstellung-fort,opensource-104.html
-* Neuer npm-Großangriff: Hunderte Pakete mit selbst-vermehrender Malware infiziert
-  https://www.heise.de/news/Neuer-NPM-Grossangriff-Selbst-vermehrende-Malware-infiziert-Dutzende-Pakete-10651111.html
-  * Nach npm-Großangriff: Github verschärft Sicherheitsmaßnahmen
-    https://www.heise.de/news/Nach-npm-Grossangriff-Github-verschaerft-Sicherheitsmassnahmen-10668152.html
-* Android: Entwickler-Verifizierung – weniger Offenheit, mehr Kontrolle
-  https://www.kuketz-blog.de/android-entwickler-verifizierung-weniger-offenheit-mehr-kontrolle/
-  * Google's dev registration plan 'will end the F-Droid project'
-    https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/
-    https://www.heise.de/news/F-Droid-Neue-Entwickler-Regeln-koennten-Aus-fuer-alternative-App-Stores-bedeuten-10673640.html
-* ebenbürtige Alternativen zur Adobe Creative Cloud
-  https://digitalcourage.social/@synapsenkitzler/115255161549774296
-  https://github.com/KenneyNL/Adobe-Alternatives
-  https://didae.eu
-* eGovernment Podcast Monatsschau 09/26
-  https://egovernment-podcast.com/egov232-monatsschau-09-25/
-* Wer Suchalgorithmen kontrolliert, kontrolliert den Zugang zum Wissen der Welt, zu unserer Geschichte und wie sie erinnert wird
-  https://freewebsearch.org/de/statement-anke-domscheitberg/
-* Offen, vernetzt, beteiligt: Die KielRegion macht Beteiligung einfach — und Open Source
-  https://www.smartcountry.berlin/de/programm/programmueberblick#eventdate--Offen,-vernetzt,-beteiligt:-Die-KielRegion-macht-Beteiligung-einfach-%E2%80%94--und-Open-Source--1ef61b32-dadf-4e1d-a905-cef34c147bf9
+Im Wirtschaftsinformatik-Podcast "Code und Kontext" [spricht Christian Drumm mit Leonhard Kugler](https://www.podcasts-online.org/de/code-und-kontext-1783571053) vom ZenDiS über die Relevanz von Digitaler Souveränität und Open Source sowie die Initiativen, die es in der Verwaltunsgdigitalisierung in Deutschland bereits gibt. 
+
+In [seiner Monatsschau für September](https://egovernment-podcast.com/egov232-monatsschau-09-25/) vom Government Podcast wird das Thema ebenfalls aufgegriffen.
+
+### Schleswig-Holstein
+Digitalisierungsminister Dirk Schrödter [hält unbeirrt](https://www.ndr.de/nachrichten/schleswig-holstein/trotz-kritik-an-open-source-sh-setzt-software-umstellung-fort,opensource-104.html) an der Software-Umstellung fest, bei der in Schleswig-Holstein die Systeme von Polizei, Justiz und Co. auf Open-Source und damit weg von Microsoft gewechselt werden sollen. Um diese Transformation zu beschleunigen wurde außerdem einen Fachgruppe Open Source ins Leben gerufen, die den Ideenaustausch zwischen Wirtschaft und Verwaltung als auch die schließliche Umsetzung befördern soll. Zusätzlich drängt das Bundesland mit einer Initiative im Bundesrat die Bundesregierung, eine [Digitalabgabe auf BigTech](https://netzpolitik.org/2025/druck-auf-bundesregierung-schleswig-holstein-draengt-auf-digitalabgabe/) endlich umzusetzen.
+
+Wie Open Source auch Bürgerbeteiligung vereinfacht, wird in [diesem Vortrag](https://www.smartcountry.berlin/de/programm/programmueberblick#eventdate--Offen,-vernetzt,-beteiligt:-Die-KielRegion-macht-Beteiligung-einfach-%E2%80%94--und-Open-Source--1ef61b32-dadf-4e1d-a905-cef34c147bf9) am Beispiel der Region um Kiel auf der Smart Country Convention erläutert.  
+
+### Marktbeherrschung
+Mike Kuketz ordnet den von Google mit dem (Schein-)Argument "Sicherheit" begründeten geplanten Verifizierungszwang für App-Entwickler [auf seinem Blog ein](https://www.kuketz-blog.de/android-entwickler-verifizierung-weniger-offenheit-mehr-kontrolle/). [Wie heise berichtet](https://www.heise.de/news/F-Droid-Neue-Entwickler-Regeln-koennten-Aus-fuer-alternative-App-Stores-bedeuten-10673640.html), sieht ein Vorstandsmitglied von F-Droid, einem alternativen App-Store, der bisher selbst solche App-Verifizierung durchgeführt, diesen von der Google-Entscheidung [in seiner Existenz bedroht](https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/), da sie in der Tat weder an Stelle der Entwickler die Identitäts-Verifizierung durchführen noch das von den Entwicklern selbst verlangen könnten.
+
+[Hier](https://github.com/KenneyNL/Adobe-Alternatives) werden Alternativen zu Adobe Produkten wie Creative Cloud, Photoshop, Illustrator, Lightroom und anderen Anwendungsfällen aus Fotografie und Bilderstellung bzw. -bearbeitung zusammengetragen. Auch die OER-Plattform [Digital Didactics in Art Education](https://didae.eu) unterhält eine Werkzeug-Liste für Kunst und Kunstvermittlung. Im [Mastodon-Thread](https://digitalcourage.social/@synapsenkitzler/115255161549774296) kann man noch mehr solcher Angebote entdecken.
 
 ## Open Source
-* Open Source Monitor 2025
-  https://www.bitkom.org/Open-Source-Monitor-2025
-  https://www.bitkom.org/sites/main/files/2025-09/Bitkom-Studienbericht-Open-Source-Monitor-2025.pdf
-  https://social.bund.de/users/zendis/statuses/115269243009085524
-* animation library gsap frei 
-  https://gsap.com/pricing/
-  via https://fosstodon.org/@gorgonzola/115281979276420050
-* Freizügige Lizenzierung als Selbstausbeutung?
-  https://toot.cat/@zkat/115129958258018665
+Die beliebte Animations-Bibliothek [GSAP](ttps://gsap.com/pricing/) ist September unter eine freie Lizenz [gestellt worden](https://fosstodon.org/@gorgonzola/115281979276420050).
+
+[Kat regt eine Diskussion darüber an](https://toot.cat/@zkat/115129958258018665), ob Open-Source-Entwickler, die ihren Code unter freizügigen Lizenzen veröffentlichen, vielleicht so ihr Ziel von hoher Verbreitung (und damit verbundenen Fame) erreichen, damit aktiv zu ihrer Selbstausbeutung beitragen.
+
+Funktionalität, Sicherheit und eine nachvollziehbare Urheberschaft zeichnen gute Open Source Software aus, ist eines der Fazits des neuen [Open Source Monitor 2025](https://www.bitkom.org/sites/main/files/2025-09/Bitkom-Studienbericht-Open-Source-Monitor-2025.pdf), einen Bericht den die Bitkom [aller zwei Jahre aktualisiert](https://www.bitkom.org/Open-Source-Monitor-2025) und dessen wesentlichen Punkte das ZenDiS [hier zusammengefasst hat](https://social.bund.de/@zendis/115269241247329413).
+
+Keine Selbstverständlichkeit, zumal das Open Source Ökosystem immer stärker Angriffe ausgesetzt ist, wie zuletzt Mitte September, als [hunderte NPM-Pakete](https://www.heise.de/news/Neuer-NPM-Grossangriff-Selbst-vermehrende-Malware-infiziert-Dutzende-Pakete-10651111.html) von einem [Computerwurm](https://de.wikipedia.org/wiki/Computerwurm) angegriffen worden sind. Als Reaktion darauf verschärft Github [seine Sicherheitsmaßnahmen](https://www.heise.de/news/Nach-npm-Grossangriff-Github-verschaerft-Sicherheitsmassnahmen-10668152.html) bei Veröffentlichung solcher Pakete.
 
 ## Open Hardware
 * Open Printer
