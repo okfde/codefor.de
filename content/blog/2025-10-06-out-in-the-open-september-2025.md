@@ -102,35 +102,34 @@ Im August waren [laut Energy-Charts-Auswertung](https://wisskomm.social/@energy_
 Fakten, von denen sich IM "Sprechpuppe" jedoch nicht beirren lässt. In ihrem Papier "Klimaneutral werden - wettbewerbsfähig bleiben" hat das Bundesministerium für Wirtschaft und Energie "Zehn wirtschafts- und wettbewerbsfreundliche Schlüsselmaßnahmen" formuliert, die [nach näherer Analyse von Malte Kreutzfeldt](https://mastodon.social/@mkreutzfeldt/115253135104518452) in Sprache als Inhalt doch sehr an ein Papier von EON und RWE aus dem Frühjahr erinnern (und witziger bzw. eher traurigerweise zudem im Widerspruch zum zeitgleich veröffentlichten [Monitoring-Bericht "Energiewende. Effizient. Machen."](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Publikationen/Energie/energiewende-effizient-machen.pdf?__blob=publicationFile&v=16)) des Kölner Energiewirtschaftlichen Instituts (ewi) stehen. Selbst die Fachabteilungen im Wirtschaftsministerium waren von den Vorschlägen der Ministerin überrascht, denn in die Ausarbeitung waren sie nicht einbezogen gewesen. 
 
 ## Klima
-* Eisgigant A23a stirbt plötzlich im Zeitraffer
-  https://taz.de/Schmelzendes-Eis/!6111113/
-* Polarstern-Expeditions-Tagebuch
-  https://follow-polarstern.awi.de
-  https://mstdn.social/users/MBergmann/statuses/115147417438342347
-* Systematic attribution of heatwaves to the emissions of carbon majors
-  https://www.nature.com/articles/s41586-025-09450-9
-  https://www.klimareporter.de/erdsystem/konzerne-heizen-hitzewellen-an
-* Wird es den Medien zu heiß? - Wie schlimm es wirklich um den Klimajournalismus steht
-  https://www.journalist.de/werkstatt/werkstatt-detail/wird-es-den-medien-zu-heiss
-* "The RePlaybook: A Field Guide to the Climate and Information Crisis"
-  https://tacticaltech.org/replaybook/
-* Klimafolgenforschung: Sieben von neun Öko-Limits gesprengt
-  https://taz.de/Klimafolgenforschung/!6111733/
-* Wissenschaftler sehen immer größere Gefahren durch Extremwetter
-  https://www.spiegel.de/wissenschaft/klimakrise-experten-warnen-vor-mehr-extremwetter-durch-globale-erwaermung-a-32f141ea-29af-4483-a5f5-09aeb81e58bd
-* KI-Modell sagt Hitzebelastung in Städten voraus
-  https://www.tagesschau.de/wissen/klima/ki-berechnet-hitze-in-staedten-100.html
-* +3 Grad bis 2050? Neuer Klimabericht: Kommt alles NOCH schlimmer?
-  https://www.youtube.com/watch?v=VmQSlIYOIQE
-* Belastung der Erde steigt - nun auch saure Meere
-  https://www.zdfheute.de/panorama/klimawandel-belastungsgrenze-erde-forscher-100.html
-* Demolition Atlas Europe: Unnötig abgerissen, Klimaziele verfehlt?
-  https://correctiv.org/demolition-atlas-europe/2025/09/26/abriss-emissionen-klimaziele-wohnraum/
-  https://abriss-atlas.de
-* A record-breaking and astonishingly expansive marine heat wave is underway in the Pacific Ocean
-  https://www.accuweather.com/en/climate/the-blob-is-back-except-this-time-it-stretches-across-the-entire-north-pacific/1817847
-* Farmers in India’s Punjab are suffering from the worst floods in four decades
-  https://www.aljazeera.com/features/2025/9/22/restart-from-scratch-flood-hit-indian-farmers-look-at-swelling-losses  
+### Belastungsgrenzen am Limit
+Ein [gemeinsamer Aufruf](https://www.dpg-physik.de/veroeffentlichungen/publikationen/stellungnahmen-der-dpg/klima-energie/klimaaufruf/stellungnahme) von Deutscher Metrologischer Gesellschaft (DMG) und Deutscher Physikalischen Gesellschaft (DPG) drängt zum Handeln: Ergebnisse von Klimamodellen zeigen eine deutliche Beschleunigung der globalen Erwärmung, so dass bereits 2050 im Worst Case die Durchschnittstemperatur 3 Grad über dem Durchschnitt der vorindustriellen Zeit liegen könnte. Die Hintergründe und was das bedeutet erklärt niederschwellig diese [Quarks-Folge](https://www.youtube.com/watch?v=VmQSlIYOIQE). Keine Spinnereien einer Weltuntergangs-Sekte sondern leider durchaus realistisch angesichts des Umstands, dass Deutschland und viele weitere Staaten weiterhin viel zu viel CO₂ emittierten und die Politik versucht die Klimaziele noch weiter aufzuweichen.
+
+Die Versauerung der Meere ist schon [derart vorangeschritten](https://taz.de/Klimafolgenforschung/!6111733/), dass sie zunehmend ihre stabilisierende Rolle im Erdsystem verlieren, so dass damit bereits die siebte von neun planetaren Grenzen [als überschritten betrachtet werden kann](https://www.zdfheute.de/panorama/klimawandel-belastungsgrenze-erde-forscher-100.html), wie der ["Planetary Health Check 2025"-Bericht](https://www.planetaryhealthcheck.org) des Potsdamer Instituts für Klimafolgenforschung (PIK) konstatiert. 
+
+### Extremwetter
+Die zunehmende Erwärmung macht Wetterextreme wie Hitzewellen, Überschwemmungen oder Waldbrände viel wahrscheinlicher, wie schon ["die beispiellose Häufung von Wärmerekordjahren im letzten Jahrzehnt"](https://www.spiegel.de/wissenschaft/klimakrise-experten-warnen-vor-mehr-extremwetter-durch-globale-erwaermung-a-32f141ea-29af-4483-a5f5-09aeb81e58bd) zeigt, wie der DWD auf dem diesjährigen [Extremwetter-Kongress](https://extremwetterkongress.org) erinnert. 
+
+Die Verantwortung für die ursächlichen Treibhausgasemissionen lässt sich auf wenige Konzerne eingrenzen. Dabei ist die weltweite Dokumentation von Hitzewellen [lückenhaft](https://www.klimareporter.de/erdsystem/konzerne-heizen-hitzewellen-an) - so stammten von den 200 in einer [Studie](https://www.nature.com/articles/s41586-025-09450-9) untersuchten Ereignissen gerade mal 9 aus Afrika, Lateinamerika, Karibik, obwohl diese Regionen ja gerade von Hitze betroffen sind. 
+
+Der [Welt-Risiko-Bericht](https://weltrisikobericht.de) und speziell der Welt-Risiko-Index weist das Katastrophenrisiko durch extreme Naturereignisse und negative Klimawandelfolgen für 193 Länder der Welt aus. Indem es Anfälligkeit als auch Fähigkeiten zur Bewältigung der Folgen bestimmt, kann und sollte er Entscheidungsträger:innen zur schnellen Orientierung dienen.
+
+Während es Deutschland zwar [keinen neuen Rekordsommer](https://www.morgenpost.de/panorama/article409862471/kein-rekordsommer-dwd-zieht-bilanz-zu-wetter-und-klimawandel.html) gegeben hat, ist weltweit der Klimawandel in Form von [Hitzwellen über dem Pazifik](https://www.accuweather.com/en/climate/the-blob-is-back-except-this-time-it-stretches-across-the-entire-north-pacific/1817847) (die zum heißesten je gemessenen Sommer in Japan führten) als auch [schwersten Überflutungen in Indien seit Jahrzehnten](https://www.aljazeera.com/features/2025/9/22/restart-from-scratch-flood-hit-indian-farmers-look-at-swelling-losses) nachweisbar.
+
+Mit einem KI-Modell der Universität Freiburg und des Karlsruher Instituts für Technologie (KIT) kann man nicht nur die aktuelle Hitzebelastung für deutsche Städte [simulieren](https://www.tagesschau.de/wissen/klima/ki-berechnet-hitze-in-staedten-100.html), sondern auch die Auswirkungen verschiedener Klimaszenarien im Jahr 2100. Stadtplaner können auf Grundlage dieser Analysen frühzeitige proaktive Klimaanpassungen einleiten. 
+
+### Das große Schmelzen
+Dank eines digitalen [Expeditions-Tagebuchs](https://follow-polarstern.awi.de) kann man die Arktis-Reisen des Forschungsschiffs "Polarstern" nachverfolgen. Gemessen wurden unter anderem Eisdicke und Schmelzgeschwindigkeit. Neben dem generell festgestellten großen Rückgang, war das starke Abschmelzen auch der älteren Eismassen, das eigentlich als widerstandsfähiger galt, doch überraschend. [Als besonders besorgniserregend](https://www.futurezone.de/science/article676572/arktis-forscher-beobachten-seltsame-veraenderungen-duestere-zukunft-vermutet.html) stuften die Forschenden allerdings den damit verbundenen Verlust der Lebensräume für Algen ein. Als Teil der Nahrungskette kann ihre Verschwinden eine ökologische Katastrophe nach sich ziehen. 
+
+Britische Forscher [haben dokumentiert](https://taz.de/Schmelzendes-Eis/!6111113/), wie der einst gößten Eisberg der Welt, A23a, dieses Jahr quasi im Zeitraffer stirbt und ganz zu verschwinden droht.
+
+### Bauwende
+Mit dem von den Architects For Future ins Leben gerufenen [Abriss-Atlas](https://abriss-atlas.de) kann man deutschlandweit von Abriss bedrohte oder kürzlich abgerissene Gebäuden dokumentieren. So sollen auch die Fälle erfasst werden, die das Statistische Bundesamt in seinen ausgewiesenen ca. 14.000 Gebäudeabrissen pro Jahr nicht erfasst hat, weil eben nicht überall in Deutschland Abrissgenehmigungen erforderlich sind. Die eigentliche Motivation des Atlases besteht allerdings darin, darauf aufmerksam zu machen, dass jährlich 230 Millionen Tonnen Abfälle durch Gebäudeabrisse anfallen, immerhin 55% des Gesamtabfalls. Dabei könnten diese deutlich reduziert werden, wenn stattdessen die bestehende Bausubstanz saniert werden würde. Damit würden auch die CO2-Emissionen entfallen, die bei Abriss und Neubau entstehen. Aber solange solche externen Effekte nicht als zu zahlende Kosten in einer Bilanz auftauchen, ist es für Wohnungsbaufirmen der Neubau günstiger als die Sanierung, wie Correctiv [an einem Fall in Freiburg dokumentiert](https://correctiv.org/demolition-atlas-europe/2025/09/26/abriss-emissionen-klimaziele-wohnraum/). Im Gegenteil, Wohnungsbaugesellschaft machen sogar Gewinn, wenn sie billigen Wohnraum abreißen lassen, und den Mietern teureren Ersatzwohnraum anbieten, wie ein weiterer Correctiv-Artikel auch an Hand der Abriss-Atlas-Daten [belegen](https://correctiv.org/aktuelles/klimawandel/2024/09/30/abriss-von-wohnraum-erzielt-millionengewinn/) konnte.
+
+### Klimajournalismus in der Krise
+Auf "Sagen was ist, auch, wenn es wehtut." erweitert Jürgen Döschner, Mitgründer vom Netzwerk Klimajournalismus, die legendäre Rudolf-Augstein-Aussage "Sagen was ist", [und kritisiert](https://www.journalist.de/werkstatt/werkstatt-detail/wird-es-den-medien-zu-heiss), dass viele Medien sich dem Verdrängungsmodus ihrer Lesenden anpassen. Statt ein ständiger Katastrophen-Newsticker zu sein, sollte guter Klimajournalismus in allen Ressorts verankert sein, und dort Zusammenhänge (z.B. Ahrtalkatastrophe als Folge der Erhitzung des Mittelmeer) als auch prominent thematisieren, wie unter Lobbyeinfluss stehende Politik(er) als auch bezahlte Kampagnen wirksamen Klimaschutz weiter versuchen zu verschleppen (indem z.B. das Verbrenner-Verbot torpediert wird). 
+
+Der Leitfaden ["The RePlaybook: A Field Guide to the Climate and Information Crisis"](https://tacticaltech.org/replaybook/) von Tactical Tech hat die Erkenntnisse von 30 Organisationen und Aktiven zusammengetragen, einerseits wie man Versuche der Ablenkung und Missinformation als solche erkennen und andererseits ihnen mit wirksam Gegenstrategien entgegentreten kann.  
 
 ## Citizen Science
 * Citizen Science zu Wildpflanzen: Unterwegs für die Thuner Flora
