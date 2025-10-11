@@ -131,57 +131,28 @@ Auf "Sagen was ist, auch, wenn es wehtut." erweitert Jürgen Döschner, Mitgrün
 
 Der Leitfaden ["The RePlaybook: A Field Guide to the Climate and Information Crisis"](https://tacticaltech.org/replaybook/) von Tactical Tech hat die Erkenntnisse von 30 Organisationen und Aktiven zusammengetragen, einerseits wie man Versuche der Ablenkung und Missinformation als solche erkennen und andererseits ihnen mit wirksam Gegenstrategien entgegentreten kann.  
 
-## Citizen Science
-* Citizen Science zu Wildpflanzen: Unterwegs für die Thuner Flora
-  https://www.uniaktuell.unibe.ch/2025/unterwegs_fuer_die_thuner_flora/index_ger.html
-* Wissen der Vielen – Forschungspreis für Citizen Science: Preisträger:innen 2025
-  https://www.mitforschen.org/forschungspreis/preistraegerinnen2025
-
 ## Gesundheit
-* Widerspruchsgenerator: Neues Online-Tool hilft bei Ärger mit der Pflegeeinstufung
-  https://www.rnd.de/gesundheit/widerspruchsgenerator-neues-online-tool-hilft-bei-aerger-mit-der-pflegeeinstufung-6WHYUKC7JNEUDBUPIPAD5INUJM.html
-  https://www.verbraucherzentrale.de/gesundheit-pflege/pflegegradrechner-lohnt-sich-ein-pflegeantrag-oder-ein-widerspruch-93979
-  https://www.verbraucherzentrale.nrw/pressemeldungen/gesundheit-pflege/neuer-widerspruchsgenerator-fuer-die-richtige-pflegeeinstufung-109939
-* Das Ende des Klinik-Atlas: Weniger Wissen für Patient:innen, mehr Macht für Lobbys
-  https://taz.de/Nina-Warken-will-den-Klinik-Atlas-einstellen-und-hilft-so-Lobbyisten-statt-Patienten/!6109079/
-  https://www.zeit.de/2025/39/bundes-klinik-atlas-gesundheitsministerium-nina-warken-karl-lauterbach
-  * Bundes-Klinik-Atlas: "Es muss immer um die bestmögliche Versorgung von Patienten gehen"
-    https://netzpolitik.org/2025/bundes-klinik-atlas-es-muss-immer-um-die-bestmoegliche-versorgung-von-patienten-gehen/
+Über den erst 2024 online genommenen [Klinik-Atlas](https://bundes-klinik-atlas.de) können sich Patienten über die Behandlungsqualität von Kliniken informieren - bald wohl konnten, weil die neue Gesundheitsministerin [plant ihn schon wieder abzuschaffen](https://taz.de/Nina-Warken-will-den-Klinik-Atlas-einstellen-und-hilft-so-Lobbyisten-statt-Patienten/!6109079/). Dabei war die derzeitige Umsetzung auf Grund von Lobby-Kompromissen schon unter ihrem Potenzial geblieben. Bleiben nur das offzielle [Deutsche Krankenhausverzeichnis](https://dkgev.deutsches-krankenhaus-verzeichnis.de/app/suche) von der [Deutsche Krankenhausgesellschaft](https://de.wikipedia.org/wiki/Deutsche_Krankenhausgesellschaft) (gegründet von den Krankenhäusern selbst) sowie einige Klinik-Verzeichnisdienste von Privatfirmen, deren Objektivität man in Zweifel ziehen sollte. Aber [es fehlt einfach der (politische) Wille für Transparenz](https://www.zeit.de/2025/39/bundes-klinik-atlas-gesundheitsministerium-nina-warken-karl-lauterbach), die Branche selbst hat wenig Interesse an informierten Patienten und fürchtet eine "Art Krankenhausreform von unten". Thomas Moormann, zuständig für die Themen Gesundheit und Pflege beim Verbraucherzentrale Bundesverband, erklärt im Interview mit Netzpolitik, dass schon ein Fehler war, dass das Gesundheitsministerium als Träger des Atlas eingesetzt wurde und keine unabhängige Stelle. Letztlich sollte es um die "bestmögliche Versorgung der Patientinnen und Patienten gehen", und nicht aus politischen Gründen "mittelmäßige oder schlechte Versorgungsqualität zu verbergen".
+
+Weil in der gesetzlichen Pflegeversicherung für das kommende Jahr 2026 eine Lücke von rund zwei Milliarden Euro klafft, [überlegt die Bundesregierung](https://www.tagesschau.de/inland/gesellschaft/pflegestufe-koalition-100.html), den Pflegegrad 1 ganz zu streichen. Damit würden den derzeit fast 900.000 Berechtigten finanzielle Zuschüsse gestrichen werden, auch mit potenziellen Folgen für die pflegenden Angehörigen. Dabei ist die Pflegeeinstufung an sich schon eine Lotterie, die von der jeweiligen Begutachtung vom Medizinischen Dienst abhängt. Mit dem [Pflegegradrechner](https://www.verbraucherzentrale.de/gesundheit-pflege/pflegegradrechner-lohnt-sich-ein-pflegeantrag-oder-ein-widerspruch-93979) der Verbraucherzentrale kann man vorab schon abschätzen lassen, ob sich ein Pflegeantrag oder ein Widerspruch lohnt, letzteren kann mit dann gleich mit dem neuen [Widerspruchsgenerator](https://www.verbraucherzentrale.nrw/pressemeldungen/gesundheit-pflege/neuer-widerspruchsgenerator-fuer-die-richtige-pflegeeinstufung-109939) erzeugen, wie [dieser Artikel berichtet](https://www.rnd.de/gesundheit/widerspruchsgenerator-neues-online-tool-hilft-bei-aerger-mit-der-pflegeeinstufung-6WHYUKC7JNEUDBUPIPAD5INUJM.html).
 
 ## Kultur
-* Kulturkataster Berlin
-  https://kulturkataster.berlin
-  https://www.technologiestiftung-berlin.de/projekte/berliner-kulturkataster
-  https://www.technologiestiftung-berlin.de/profil/blog/3x-nachgehakt-daniel-jakobson-von-kulturraum-berlin
-  https://kulturerbenetz.berlin/kulturkataster-1-0/
-  https://unendlichemoeglichkeiten.de/de/projekte/kulturkataster
-  https://kulturraeume.berlin
-* A synthetic global database of archaeological radiocarbon dates
-  https://opencontext.org/projects/cdd78c10-e6da-42ef-9829-e792ce55bdd6
-  https://opencontext.org/query/?cat=oc-gen-cat-c14-sample&proj=197-p3k14c&type=subjects&geodeep=9#tab=0/ovgrd=oc/zm=2/ov=sqr/bm=MapBox_Dark/aq=197-p3k14c/lat=25.2/lng=12.7
-  via https://hcommons.social/@opencontext/115135845985424299
-* Shared knowledge graphs as a tool in recovering cultural heritage - Wikidata für die Provenienzforschung
-  https://www.youtube.com/watch?v=nkUjnDEZuYU
-  via https://social.wikimedia.de/users/wikimediaDE/statuses/115146557561866949
-* FactGrid, ein Projekt des Forschungszentrums Gotha der Universität Erfurt, bietet Historikern, die mit Daten arbeiten, eine interessante Alternative zu Wikidata
-  https://database.factgrid.de/wiki/Hauptseite
-  https://openbiblio.social/@JuedStudien/115174190817159078
-* GLAMorous Europe: Das Tinder für Kunst-Fans
-  https://blog.wikimedia.de/2025/09/11/glamorous-europe/
+Die digitale Karte [Kulturkataster Berlin](https://kulturkataster.berlin) zeigt nicht nur die bestehende Kulturorte in der Hauptstadt, [sondern hilft auch beim Erschließung neuer Räume](https://www.technologiestiftung-berlin.de/projekte/berliner-kulturkataster). Bei einem breiten Kulturbegriff, unter dem auch Clubs, Open-Air-Flächen aber auch Probe- und Projekträume fallen, enthält das Kataster, Stand August 2025, [etwa 1.500 Kulturorten in 14 Kategorien](https://www.technologiestiftung-berlin.de/profil/blog/3x-nachgehakt-daniel-jakobson-von-kulturraum-berlin).
 
-## Politik
-* Grundrechte im Digitalen
-  https://www.wikimedia.de/wp-content/uploads/2025/09/Grundrechte-im-Digitalen.pdf
-* Das Anti-NGO-Narrativ: Wie versucht wird, die Zivilgesellschaft zu delegimitieren
-  https://www.maecenata.eu/2025/09/10/das-anti-ngo-narrativ-wie-versucht-wird-die-zivilgesellschaft-zu-delegimitieren/
-  https://mastodon.social/@transparency_de/115179549067857299
-  * https://bewegung.social/@lobbycontrol/115186366085506083
-* Neue Studie: Wer steckt hinter den Kampagnen gegen die Zivilgesellschaft?
-  https://www.lobbycontrol.de/aus-der-lobbywelt/neue-studie-wer-steckt-hinter-den-kampagnen-gegen-die-zivilgesellschaft-122514/
-* Neschwitz: AfD-Sympathisant verliert Wahl – obwohl er allein auf dem Zettel stand
-  https://www.volksverpetzer.de/aktuelles/neschwitz-verliert-wahl/
-* Merz Mythen Counter
-  https://neunund20.de/merzmythen
+166.000 [radiokohlenstoffdatierte](https://de.wikipedia.org/wiki/Radiokarbonmethode) archälogische Funde aus der ganzen Welt [wurden](https://hcommons.social/@opencontext/115135845985424299) nun [als Open Data veröffentlicht](https://opencontext.org/projects/cdd78c10-e6da-42ef-9829-e792ce55bdd6), [eine Visualisierung als Karte](https://opencontext.org/query/?cat=oc-gen-cat-c14-sample&proj=197-p3k14c&type=subjects&geodeep=9#tab=0/ovgrd=oc/zm=2/ov=sqr/bm=MapBox_Dark/aq=197-p3k14c/lat=25.2/lng=12.7) gibt es auch.
+
+Wie sich mit Wikidata als Wissensgraphen komplexe Eigentümerhistorien visualisieren oder fragmentierte Datenbestände verknüpfen lassen, hat Laurel Zuckerman [in seinem Vortrag](https://www.youtube.com/watch?v=nkUjnDEZuYU) an einigen Beispielen aus der Provenienzforschung [demonstriert](https://social.wikimedia.de/users/wikimediaDE/statuses/115146557561866949).
+
+[FactGrid](https://database.factgrid.de/wiki/Hauptseite), ein Projekt des Forschungszentrums Gotha der Universität Erfurt, ist eine Alternative zu Wikidata [speziell optimiert auf die Bedürfnisse von Historikern](https://openbiblio.social/@JuedStudien/115174190817159078), nutzt unter der Haube auch Wikibase als Speicher und SPARQL als Abfragesprache.
+
+## Angriffe auf die Zivilgesellschaft
+Die neue Publikation ["Das Anti-NGO-Narrativ"](https://www.maecenata.eu/2025/09/10/das-anti-ngo-narrativ-wie-versucht-wird-die-zivilgesellschaft-zu-delegimitieren/) klärt faktenbasiert auf, wie die Narrative hinter den delegitimierenden Vorwürfen gegen zivilgesellschaftlichen Organisationen funktionieren. Wie Lobbycontrol auf Mastodon [geteilt hat](https://bewegung.social/@lobbycontrol/115186366085506083), hat DeSmog auch einen solchen Fall [dokumentiert](https://www.desmog.com/2025/09/11/epp-linked-tax-group-collaborated-far-right-party-criminal-complaints/). Lobbycontrol selbst hat nun auch eine Studie [herausgebracht](https://www.lobbycontrol.de/aus-der-lobbywelt/neue-studie-wer-steckt-hinter-den-kampagnen-gegen-die-zivilgesellschaft-122514/), die beleuchtet, wer hinter den Angriffe auf die Zivilgesellschaft steckt.
+
+### Lobbyismus
+* Zähne gezogen: Wirtschaftsministerium schafft Lieferkettengesetz faktisch ab
+  https://www.heise.de/news/Zaehne-gezogen-Wirtschaftsministerium-schafft-Lieferkettengesetz-faktisch-ab-10673015.html
+* 10 Jahre Vortrag -Tragedy of the Horizon: A Call for Global Financial Reform
+  https://www.tragedyofthehorizon.org
 
 ## Transparenz
 * Österreich: Die Informationsfreiheit ist da – was wollen Sie vom Staat wissen?
@@ -210,12 +181,6 @@ Der Leitfaden ["The RePlaybook: A Field Guide to the Climate and Information Cri
 * Leipziger Transparenzsatzung: Nach Jahren fand die Stadtverwaltung eine Ausrede
   https://www.l-iz.de/politik/leipzig/2025/09/leipziger-transparenzsatzung-jahre-stadtverwaltung-ausrede-632868
   https://www.l-iz.de/politik/leipzig/2025/10/der-stadtrat-tagte-vor-2028-leipzig-keine-transparenzsatzung-635458
-
-### Lobbyismus
-* Zähne gezogen: Wirtschaftsministerium schafft Lieferkettengesetz faktisch ab
-  https://www.heise.de/news/Zaehne-gezogen-Wirtschaftsministerium-schafft-Lieferkettengesetz-faktisch-ab-10673015.html
-* 10 Jahre Vortrag -Tragedy of the Horizon: A Call for Global Financial Reform
-  https://www.tragedyofthehorizon.org
 
 ## Überwachung
 * Internes Protokoll: Dänemark will Chatkontrolle durchdrücken
@@ -287,6 +252,10 @@ Der Leitfaden ["The RePlaybook: A Field Guide to the Climate and Information Cri
 * Jahrgang 02 des PrototypeFund, [Bewerbung bis 30.11.2025](https://www.prototypefund.de/blog/bewerbt-euch-jetzt-fuer-jahrgang-02)
 
 ## Und sonst so
+* Grundrechte im Digitalen
+  https://www.wikimedia.de/wp-content/uploads/2025/09/Grundrechte-im-Digitalen.pdf
+* Merz Mythen Counter
+  https://neunund20.de/merzmythen
 * https://timeguessr.com/ und https://openguessr.com/ und https://www.foodguessr.com
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
