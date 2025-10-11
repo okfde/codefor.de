@@ -97,14 +97,9 @@ Gustav Neustadt vom Datawrapper [kommt in seiner Analyse](https://www.datawrappe
 [Auf Initiative](https://oldenburg.social/@gruppe_fuer_oldenburg/115207176284251764) der Gruppe "Für Oldenburg" können Menschen in einer [Digitalen Bürgerbeteiligung](https://ringbuslinie.fuer-oldenburg.de) Vorschläge für Bushaltestellen und Routen-Verläufe teilen, in dem sie auf der digitalen Karte Marker hinzufügen oder auch wieder entfernen. So wird Verkehrspolitik transparent und partizipativ.
 
 ## Energie
-* Öffentliche Nettostromerzeugung in Deutschland im August 2025
-  https://energy-charts.info/charts/energy/chart.htm?l=de&c=DE&month=08&legendItems=1x3p0e&chartColumnSorting=descending
-  via https://wisskomm.social/@energy_charts_d/115135091185672042
-* Saisonaler Anteil der Solarenergie an der öffentlichen Nettostromerzeugung und Last in der europäischen Union im meteorologischen Sommer
-  https://energy-charts.info/charts/renewable_share/chart.htm?l=de&c=EU&share=solar_share&interval=season&year=-1&season=2
-  via https://wisskomm.social/@energy_charts_d/115135087544174508
-* Auffällige Ähnlichkeiten vom 10-Punkte-Plan von Reiche zum Energiemonitoring und einem Papier von RWE und EON
-  https://mastodon.social/@mkreutzfeldt/115253135104518452
+Im August waren [laut Energy-Charts-Auswertung](https://wisskomm.social/@energy_charts_d/115135091185672042) Sonne und Wind (Festland) die [größten Nettostromerzeuger](https://energy-charts.info/charts/energy/chart.htm?l=de&c=DE&month=08&legendItems=1x3p0e&chartColumnSorting=descending) in Deutschland. In den letzten 10 Jahren ist europaweit im meteorologischen Sommer der [Anteil der Solarenergie](https://energy-charts.info/charts/renewable_share/chart.htm?l=de&c=EU&share=solar_share&interval=season&year=-1&season=2) an der Stromerzeugung von 5,5 % auf 18,5 % [gestiegen](https://wisskomm.social/@energy_charts_d/115135087544174508). 
+
+Fakten, von denen sich IM "Sprechpuppe" jedoch nicht beirren lässt. In ihrem Papier "Klimaneutral werden - wettbewerbsfähig bleiben" hat das Bundesministerium für Wirtschaft und Energie "Zehn wirtschafts- und wettbewerbsfreundliche Schlüsselmaßnahmen" formuliert, die [nach näherer Analyse von Malte Kreutzfeldt](https://mastodon.social/@mkreutzfeldt/115253135104518452) in Sprache als Inhalt doch sehr an ein Papier von EON und RWE aus dem Frühjahr erinnern (und witziger bzw. eher traurigerweise zudem im Widerspruch zum zeitgleich veröffentlichten [Monitoring-Bericht "Energiewende. Effizient. Machen."](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Publikationen/Energie/energiewende-effizient-machen.pdf?__blob=publicationFile&v=16)) des Kölner Energiewirtschaftlichen Instituts (ewi) stehen. Selbst die Fachabteilungen im Wirtschaftsministerium waren von den Vorschlägen der Ministerin überrascht, denn in die Ausarbeitung waren sie nicht einbezogen gewesen. 
 
 ## Klima
 * Eisgigant A23a stirbt plötzlich im Zeitraffer
@@ -148,6 +143,11 @@ Gustav Neustadt vom Datawrapper [kommt in seiner Analyse](https://www.datawrappe
   https://www.rnd.de/gesundheit/widerspruchsgenerator-neues-online-tool-hilft-bei-aerger-mit-der-pflegeeinstufung-6WHYUKC7JNEUDBUPIPAD5INUJM.html
   https://www.verbraucherzentrale.de/gesundheit-pflege/pflegegradrechner-lohnt-sich-ein-pflegeantrag-oder-ein-widerspruch-93979
   https://www.verbraucherzentrale.nrw/pressemeldungen/gesundheit-pflege/neuer-widerspruchsgenerator-fuer-die-richtige-pflegeeinstufung-109939
+* Das Ende des Klinik-Atlas: Weniger Wissen für Patient:innen, mehr Macht für Lobbys
+  https://taz.de/Nina-Warken-will-den-Klinik-Atlas-einstellen-und-hilft-so-Lobbyisten-statt-Patienten/!6109079/
+  https://www.zeit.de/2025/39/bundes-klinik-atlas-gesundheitsministerium-nina-warken-karl-lauterbach
+  * Bundes-Klinik-Atlas: "Es muss immer um die bestmögliche Versorgung von Patienten gehen"
+    https://netzpolitik.org/2025/bundes-klinik-atlas-es-muss-immer-um-die-bestmoegliche-versorgung-von-patienten-gehen/
 
 ## Kultur
 * Kulturkataster Berlin
@@ -198,11 +198,6 @@ Gustav Neustadt vom Datawrapper [kommt in seiner Analyse](https://www.datawrappe
   https://correctiv.org/dasspahnnetzwerk/2025/09/15/wie-jens-spahn-hunderte-millionen-euro-verbrannte/
 * Bundesrechnungshof rügt Gesundheitsministerium wegen fehlender Nachweise
   https://correctiv.org/aktuelles/bundesrechnungshof/2025/09/24/bundesrechnungshof-ruegt-gesundheitsministerium-wegen-fehlender-nachweise/
-* Das Ende des Klinik-Atlas: Weniger Wissen für Patient:innen, mehr Macht für Lobbys
-  https://taz.de/Nina-Warken-will-den-Klinik-Atlas-einstellen-und-hilft-so-Lobbyisten-statt-Patienten/!6109079/
-  https://www.zeit.de/2025/39/bundes-klinik-atlas-gesundheitsministerium-nina-warken-karl-lauterbach
-  * Bundes-Klinik-Atlas: "Es muss immer um die bestmögliche Versorgung von Patienten gehen"
-    https://netzpolitik.org/2025/bundes-klinik-atlas-es-muss-immer-um-die-bestmoegliche-versorgung-von-patienten-gehen/
 * Lageberichte des Auswärtigen Amtes: 1:0 für Informationsfreiheit
   https://www.proasyl.de/news/lageberichte-des-auswaertigen-amtes-10-fuer-informationsfreiheit/
 * Data Act: EU-Gesetz soll Daten befreien
