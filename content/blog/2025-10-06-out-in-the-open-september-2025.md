@@ -131,6 +131,11 @@ Auf "Sagen was ist, auch, wenn es wehtut." erweitert Jürgen Döschner, Mitgrün
 
 Der Leitfaden ["The RePlaybook: A Field Guide to the Climate and Information Crisis"](https://tacticaltech.org/replaybook/) von Tactical Tech hat die Erkenntnisse von 30 Organisationen und Aktiven zusammengetragen, einerseits wie man Versuche der Ablenkung und Missinformation als solche erkennen und andererseits ihnen mit wirksam Gegenstrategien entgegentreten kann.  
 
+### Kurzsichtigkeit
+Anlässlich des 10. Jahrestages des Vortrags "Tragedy of the Horizon: A Call for Global Financial Reform", den damaligen Vorsitzende der Bank von England, Mark Carney, vor dem Oberhaus des britischen Parlaments gehalten hat, [wurde eine Webseite eingerichtet](https://www.tragedyofthehorizon.org). Sie thematisiert, dass gerade im Finanzsektor Langzeitrisiken in tagesaktuellen Entscheidung weiterhin kaum Beachtung finden. Im Gegenteil es wird wieder verstärkt in klimaschädliche Industrien investiert. Das zeigt, das man die vermeintliche Selbstregulierung vergessen kann, stattdessen es verbindliche Vorgeben muss und die Zentralbanken ihre Geldpolitik ganz klar an den Klimazielen auszurichten hat.
+
+Die aktuelle [Scheinwerfer-Publikation](https://www.transparency.de/fileadmin/Redaktion/Publikationen/2025/Scheinwerfer-106_Umweltkriminalitaet.pdf) hat sich das Thema Umweltkriminalität als Schwerpunktthema genommen. Mit jährlich 281 Milliarden US-Dollar, die in den Taschen der organisierten Kriminalität landen, bleibt die illegale Ausbeutung der Umwelt ein florierendes Geschäft. Was jetzt schon versucht wird dagegen zu unternehmen, was noch geplant ist und was es noch braucht, [formulieren verschiedene Akteure aus](https://mastodon.social/@transparency_de/115275714225034295).
+
 ## Gesundheit
 Über den erst 2024 online genommenen [Klinik-Atlas](https://bundes-klinik-atlas.de) können sich Patienten über die Behandlungsqualität von Kliniken informieren - bald wohl konnten, weil die neue Gesundheitsministerin [plant ihn schon wieder abzuschaffen](https://taz.de/Nina-Warken-will-den-Klinik-Atlas-einstellen-und-hilft-so-Lobbyisten-statt-Patienten/!6109079/). Dabei war die derzeitige Umsetzung auf Grund von Lobby-Kompromissen schon unter ihrem Potenzial geblieben. Bleiben nur das offzielle [Deutsche Krankenhausverzeichnis](https://dkgev.deutsches-krankenhaus-verzeichnis.de/app/suche) von der [Deutsche Krankenhausgesellschaft](https://de.wikipedia.org/wiki/Deutsche_Krankenhausgesellschaft) (gegründet von den Krankenhäusern selbst) sowie einige Klinik-Verzeichnisdienste von Privatfirmen, deren Objektivität man in Zweifel ziehen sollte. Aber [es fehlt einfach der (politische) Wille für Transparenz](https://www.zeit.de/2025/39/bundes-klinik-atlas-gesundheitsministerium-nina-warken-karl-lauterbach), die Branche selbst hat wenig Interesse an informierten Patienten und fürchtet eine "Art Krankenhausreform von unten". Thomas Moormann, zuständig für die Themen Gesundheit und Pflege beim Verbraucherzentrale Bundesverband, erklärt im Interview mit Netzpolitik, dass schon ein Fehler war, dass das Gesundheitsministerium als Träger des Atlas eingesetzt wurde und keine unabhängige Stelle. Letztlich sollte es um die "bestmögliche Versorgung der Patientinnen und Patienten gehen", und nicht aus politischen Gründen "mittelmäßige oder schlechte Versorgungsqualität zu verbergen".
 
@@ -148,17 +153,21 @@ Wie sich mit Wikidata als Wissensgraphen komplexe Eigentümerhistorien visualisi
 ## Angriffe auf die Zivilgesellschaft
 Die neue Publikation ["Das Anti-NGO-Narrativ"](https://www.maecenata.eu/2025/09/10/das-anti-ngo-narrativ-wie-versucht-wird-die-zivilgesellschaft-zu-delegimitieren/) klärt faktenbasiert auf, wie die Narrative hinter den delegitimierenden Vorwürfen gegen zivilgesellschaftlichen Organisationen funktionieren. Wie Lobbycontrol auf Mastodon [geteilt hat](https://bewegung.social/@lobbycontrol/115186366085506083), hat DeSmog auch einen solchen Fall [dokumentiert](https://www.desmog.com/2025/09/11/epp-linked-tax-group-collaborated-far-right-party-criminal-complaints/). Lobbycontrol selbst hat nun auch eine Studie [herausgebracht](https://www.lobbycontrol.de/aus-der-lobbywelt/neue-studie-wer-steckt-hinter-den-kampagnen-gegen-die-zivilgesellschaft-122514/), die beleuchtet, wer hinter den Angriffe auf die Zivilgesellschaft steckt.
 
-### Lobbyismus
-* Zähne gezogen: Wirtschaftsministerium schafft Lieferkettengesetz faktisch ab
-  https://www.heise.de/news/Zaehne-gezogen-Wirtschaftsministerium-schafft-Lieferkettengesetz-faktisch-ab-10673015.html
-* 10 Jahre Vortrag -Tragedy of the Horizon: A Call for Global Financial Reform
-  https://www.tragedyofthehorizon.org
+Während die Zivilgesellschaft also angeblich einen linken Deep-State bildet, können Unternehmensverbände nach Belieben ihren Interessen durchsetzen. So hat das Wirtschaftsministerium die Exportbehörde angewiesen, Unternehmensberichte nicht mehr zu prüfen, angeblich um Unternehmen vor überbordender Bürokratie zu schützen, [faktisch wird so das Lieferkettengesetz abgeschafft](https://www.heise.de/news/Zaehne-gezogen-Wirtschaftsministerium-schafft-Lieferkettengesetz-faktisch-ab-10673015.html).
 
 ## Transparenz
-* Österreich: Die Informationsfreiheit ist da – was wollen Sie vom Staat wissen?
-  https://www.derstandard.at/story/3000000284290/die-informationsfreiheit-ist-da-was-wollen-sie-vom-staat-wissen
-  * Forum Informationsfreiheit im fediverse
-    https://fedi.at/@informationsfreiheit/115225761193166524
+Das Forum Informationsfreiheit ist anlässlich der [Einführung](https://www.derstandard.at/story/3000000284290/die-informationsfreiheit-ist-da-was-wollen-sie-vom-staat-wissen) des Grundrechts auf Zugang zu Informationen in Österreich (aka Informationsfreiheitsgesetz) nun auch [mit einem Account bei Mastodon vertreten](https://fedi.at/@informationsfreiheit/115225761193166524). Daneben sind weitere Inhalte unter [informationsfreiheit.at](https://www.informationsfreiheit.at/), [offenevergaben.at](https://offenevergaben.at/) (zum Nachvollziehen von Auftragsvergaben der öffentlichen Hand) zu finden. Bei [fragdenstaat.at](https://fragdenstaat.at/) hat man verpasst die Domäne fragdensta.at zu registrieren, aber analog zum deutschen Pendant kann man hier auch Informationsbegehren an Behörden und staatliche Unternehmen stellen.
+
+Das Auswärtige Amt veröffentlicht seine Lageberichte zu Asylverfahren nur geschwärzt, angeblich um internationale Beziehungen zu schützen. So fehlen aber wichtige Informationen, die nachvollziehbar machen würde, womit eine Abschiebung gerechtfertigt wird. PRO ASYL und FragDenStaat [haben dagegen geklagt und gewonnen](https://www.proasyl.de/news/lageberichte-des-auswaertigen-amtes-10-fuer-informationsfreiheit/), die Berichte gibt es aber immer noch nicht ungeschwärzt, weil das Urteil noch nicht rechtskräftig ist, da die Bundesregierung hat Antrag auf Zulassung der Berufung gestellt hat. 
+
+Doe Stadt Leipzig hatte schon eine Informationsfreiheitssatzung, bevor das Sächsischen Transparenzgesetz 2023 in Kraft getreten ist. Dieses hätte die Stadt nun eigentlich als Transparenzsatzung [kommunal umsetzen müssen](https://www.l-iz.de/politik/leipzig/2025/09/leipziger-transparenzsatzung-jahre-stadtverwaltung-ausrede-632868), für deren Vollzug fehlen nun aber angeblich die organisatorischen, personellen und technischen Voraussetzungen - man hatte sie aber schon gar nicht erst im Haushalt eingeplant. [Vor 2028 wird es nun eine solche Satzung geben](https://www.l-iz.de/politik/leipzig/2025/10/der-stadtrat-tagte-vor-2028-leipzig-keine-transparenzsatzung-635458). Aus Kostengründen Transparenz zu opfern, könnte generell ein unschönes Muster auf kommunaler Ebene werden.
+
+* Data Act: EU-Gesetz soll Daten befreien
+  https://www.heise.de/hintergrund/Data-Act-EU-Gesetz-soll-Daten-befreien-10641336.html
+  * FAQ zum EU Data Act – mehr Rechte für Verbraucher?
+    https://www.heise.de/news/FAQ-zum-EU-Data-Act-mehr-Rechte-fuer-Verbraucher-10643571.html
+    https://digital-strategy.ec.europa.eu/en/library/commission-publishes-frequently-asked-questions-about-data-act
+
 * EU-Kommission: Von der Leyens Signal-Client löscht Nachrichten automatisch
   https://www.heise.de/news/Signal-Messenger-Von-der-Leyen-hat-Auto-Delete-fuer-Nachrichten-voreingestellt-10628216.html
 * Maskenaffäre
@@ -168,19 +177,7 @@ Die neue Publikation ["Das Anti-NGO-Narrativ"](https://www.maecenata.eu/2025/09/
   https://correctiv.org/dasspahnnetzwerk/2025/09/15/wie-jens-spahn-hunderte-millionen-euro-verbrannte/
 * Bundesrechnungshof rügt Gesundheitsministerium wegen fehlender Nachweise
   https://correctiv.org/aktuelles/bundesrechnungshof/2025/09/24/bundesrechnungshof-ruegt-gesundheitsministerium-wegen-fehlender-nachweise/
-* Lageberichte des Auswärtigen Amtes: 1:0 für Informationsfreiheit
-  https://www.proasyl.de/news/lageberichte-des-auswaertigen-amtes-10-fuer-informationsfreiheit/
-* Data Act: EU-Gesetz soll Daten befreien
-  https://www.heise.de/hintergrund/Data-Act-EU-Gesetz-soll-Daten-befreien-10641336.html
-  * FAQ zum EU Data Act – mehr Rechte für Verbraucher?
-    https://www.heise.de/news/FAQ-zum-EU-Data-Act-mehr-Rechte-fuer-Verbraucher-10643571.html
-    https://digital-strategy.ec.europa.eu/en/library/commission-publishes-frequently-asked-questions-about-data-act
-* Scheinwerfer: Umweltkriminalität
-  https://www.transparency.de/fileadmin/Redaktion/Publikationen/2025/Scheinwerfer-106_Umweltkriminalitaet.pdf
-  via https://mastodon.social/@transparency_de/115275714225034295
-* Leipziger Transparenzsatzung: Nach Jahren fand die Stadtverwaltung eine Ausrede
-  https://www.l-iz.de/politik/leipzig/2025/09/leipziger-transparenzsatzung-jahre-stadtverwaltung-ausrede-632868
-  https://www.l-iz.de/politik/leipzig/2025/10/der-stadtrat-tagte-vor-2028-leipzig-keine-transparenzsatzung-635458
+
 
 ## Überwachung
 * Internes Protokoll: Dänemark will Chatkontrolle durchdrücken
