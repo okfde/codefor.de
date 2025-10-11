@@ -76,42 +76,25 @@ Erst so kann die Vision einer [FabCity](https://fab.city) gelingen. Vorbilder wi
 Bei der internationalen [Open Repair Alliance](https://openrepair.org/) hat man das Thema [Open Data](https://openrepair.org/open-data/) im Blick und arbeitet mit dem [Open Repair Data Standard (ORDS)](https://openrepair.org/open-data/open-standard/) an einem generellen Austauschformat für alle Informationen, die sich um Reparaturen drehen, z.B. 
 der [Dokumentation](https://openrepair.org/open-data/how-to-get-started/) durchgeführter Reparaturen. 
 
-Das Geschäftsgebahren der meisten Tinten-Drucker-Hersteller ist ein Ärgerniss. So werden die Geräte selbst meist unter Selbstkostenpreis verkauft, dafür ist dann die Druckertinte, die man regelmäßig nachkaufen muss, besonders teuer. Zudem erschweren die Hersteller bewusst die Verwendung inoffizieller Tintenpatronen. Um sich aus dieser Abhängigkeit zu befreien, plant ein Team aus Paris [einen Open Hardware Drucker zu konzipieren](https://www.crowdsupply.com/open-tools/open-printer).
+Das Geschäftsgebahren der meisten Tinten-Drucker-Hersteller ist ein Ärgernis. So werden die Geräte selbst meist unter Selbstkostenpreis verkauft, dafür ist dann die Druckertinte, die man regelmäßig nachkaufen muss, besonders teuer. Zudem erschweren die Hersteller bewusst die Verwendung inoffizieller Tintenpatronen. Um sich aus dieser Abhängigkeit zu befreien, plant ein Team aus Paris [einen Open Hardware Drucker zu konzipieren](https://www.crowdsupply.com/open-tools/open-printer).
 
 ## Karten
-* Panoramax - The free alternative to photo-mapping territories
-  Im Sinne von geo-commons, da StreetView (Google) und Mapillary aufgekauft von Meta
-  https://panoramax.fr/
-  * Tracking Contribution
-    https://en.osm.town/@PanoramaxContribs
-    https://tzovar.as/panoramax-bot/
-* Welchen Bedarf an Geodaten gibt es? Die GDI-DE führt eine große Umfrage durch:
-  https://www.gdi-de.org/geodaten-umfrage
-  https://umfragen.evasys.frankfurt-university.de/evasys/public/online/index/index?online_php=&p=geodaten-umfrage&ONLINEID=203747265096748495513497636968905405010611
-  via https://norden.social/@MisterOpenData/115133742896442239
-* Vector tiles coming to DuckDB
-  https://spatialists.ch/posts/2025/09/10-vector-tiles-coming-to-duckdb/
-* Road Surface Data
-  https://data.humdata.org/organization/heidelberg-institute-for-geoinformation-technology
-  https://data.humdata.org
-  https://mastodon.social/@heigit/115190387042675355
-* Ak­ti­vis­t:in­nen kartieren im Netz Orte, an denen Waffen und Militärgerät gefertigt werden
-  https://taz.de/Online-Atlas-gegen-Militarisierung/!6110288/
-  https://orte-der-aufruestung.de
-* GeoDesk 2.0
-  https://www.geodesk.com/2025/09/30/geodesk-2-0
+Einst als Crowd-Sourcing-Alternative zu Google Street View geschaffen, wurde [Mapillary](https://en.wikipedia.org/wiki/Mapillary) (und damit auch die Daten) mit dem Verkauf 2020 an Meta auch von den großen Fünf einverleibt. Mit [Panoramax](https://panoramax.fr/) gibt es einen neuen Versuch der ursprünglichen Idee von Geo-Commons wieder Geltung zur Verschaffung. Ein [Mastodon-Bot](https://en.osm.town/@PanoramaxContribs) (letzlich [ein Python-Skript](https://codeberg.org/gedankenstuecke/panoramax-mastodon-bot/), wie der Autor [hier erklärt](https://tzovar.as/panoramax-bot/)) informiert über die täglichen Aktualisierung auf der Plattform.
+
+Im [Online-Atlas "Orte der Aufrüstung"](https://orte-der-aufruestung.de) kann man kollaborativ kartiert, wo überall in Deutschland Waffen und Militärgerät gefertigt werden. Damit soll [die zunehmende Militarisierung kritisiert werden](https://taz.de/Online-Atlas-gegen-Militarisierung/!6110288/). Statt Rüstungsunternehmen noch reicher zu machen, sollten besser Wege aus dem [Wettrüsten](https://de.wikipedia.org/wiki/Wettr%C3%BCsten) gefunden werden. Dafür protestieren kann man an den gemappten Orte.
+
+Seit Version 1.4. unterstützt DuckDB [nun auch Vector Tiles](https://spatialists.ch/posts/2025/09/10-vector-tiles-coming-to-duckdb/). 
+
+Ein [neues Major-Release](https://www.geodesk.com/2025/09/30/geodesk-2-0) gibt es von GeoDesk, das neben dem überarbeiteten Format des Geographic Object Library (GOL) viele Performanzverbesserung mit sich bringt. Eben dieses GOL ist Kern von GeoDesk, um mit OpenStreetMap-Datenstände arbeiten zu können, ohne sie dafür erst aufgeblasen in eine relationale Datenbank pumpen zu müssen.
 
 ## Mobilität
-* Wer Straßen sät wird Verkehr ernten
-  https://www.deutschlandfunk.de/stau-auto-verkehr-mobilitaetswende-100.html
-* Digitale Bürgerbeteiligung bei Bushaltestellen in Oldenburg
-  https://oldenburg.social/@gruppe_fuer_oldenburg/115207176284251764
-  https://ringbuslinie.fuer-oldenburg.de
-* Most public space is for cars, not kids
-  https://www.datawrapper.de/blog/public-green-spaces-germany
-* Mobilität messbar machen ist das Ziel des Projektes mobi.mapr des Baden-Württemberg Instituts für Nachhaltige Mobilität
-  https://mastodon.online/@alexander_kaaselias/115271022001333987
-  https://bw-im.de/mm1/
+Die alte Weisheit "Wer Straßen sät, wird Verkehr ernten" wird immer wieder erfolgreich neu ignoriert, [wie zuletzt bei der Eröffnung der A100 in Berlin](https://www.deutschlandfunk.de/stau-auto-verkehr-mobilitaetswende-100.html). Menschen, die zuvor sich mit den Alternativen (ÖPNV, Fahrrad) irgendwie arrangieren konnten, erhoffen sich einen Zeitgewinn durch den neuen Mobilitätsweg, um Ende dann doch nur im Stau zu stehen ([Braess-Paradoxon](https://de.wikipedia.org/wiki/Braess-Paradoxon)). Neben der so verlorenen Zeit, schlagen außerdem zusätzliche Kosten für Treibstoff und die steigenden CO2/Feinstaub/Lärm-Emissionen zu Buche. Es braucht Anreize für ein anderes Mobilitätsverhalten, wie z.B. die Stadt der kurzen Wege ([15-Minuten-Stadt](https://15-minuten-stadt.de)).
+
+Gustav Neustadt vom Datawrapper [kommt in seiner Analyse](https://www.datawrapper.de/blog/public-green-spaces-germany), wie viel Platz Grünflächen im Vergleich zu Verkehr in deutschen Städten eingeräumt wird, zum Schluss, dass der öffentliche Raum hauptsächlich für Autos und nicht für Kinder ist.
+
+["Wie gut ist mein Ort angebunden und wie komme ich dort mit welchem Verkehrsmittel wie schnell an mein Ziel?"](https://mastodon.online/@alexander_kaaselias/115271022001333987) - diese Fragen der alltäglichen Mobilität beantwortet das Projekt [mobi.mapr](https://bw-im.de/mm1/) des Baden-Württembergischen Instituts für Nachhaltige Mobilität.
+
+[Auf Initiative](https://oldenburg.social/@gruppe_fuer_oldenburg/115207176284251764) der Gruppe "Für Oldenburg" können Menschen in einer [Digitalen Bürgerbeteiligung](https://ringbuslinie.fuer-oldenburg.de) Vorschläge für Bushaltestellen und Routen-Verläufe teilen, in dem sie auf der digitalen Karte Marker hinzufügen oder auch wieder entfernen. So wird Verkehrspolitik transparent und partizipativ.
 
 ## Energie
 * Öffentliche Nettostromerzeugung in Deutschland im August 2025
@@ -308,6 +291,9 @@ Das Geschäftsgebahren der meisten Tinten-Drucker-Hersteller ist ein Ärgerniss.
 * 39C3 – Call for Participation, [Einreichungen bis 24.10.2025](https://content.events.ccc.de/cfp/39c3/index.de.html) (23:59 UTC)
 * International Online Conference "The Art Museum in the Digital Age – 2026", [Einreichungen bis 02.11.2025](https://www.belvedere.at/en/digitalmuseum2026)
 * Jahrgang 02 des PrototypeFund, [Bewerbung bis 30.11.2025](https://www.prototypefund.de/blog/bewerbt-euch-jetzt-fuer-jahrgang-02)
+
+## Und sonst so
+* https://timeguessr.com/ und https://openguessr.com/ und https://www.foodguessr.com
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Mittwoch, 01.10.2025, bis Freitag, 31.10.2025, 23:59, online: **Hacktoberfest** <a title='Kalendereintrag Hacktoberfest' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSGFja3RvYmVyZmVzdC8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI1MTAwNFQxMzM4MDFaDQpEVFNUQVJUOjIwMjUxMDAxVDAwMDAwMA0KRFRFTkQ6MjAyNTEwMzFUMjM1OTU5DQpTVU1NQVJZOkhhY2t0b2JlcmZlc3QNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vaGFja3RvYmVyZmVzdC5jb20NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
