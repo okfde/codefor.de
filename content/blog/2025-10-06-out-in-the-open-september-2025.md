@@ -134,6 +134,8 @@ Der Leitfaden ["The RePlaybook: A Field Guide to the Climate and Information Cri
 ### Kurzsichtigkeit
 Anlässlich des 10. Jahrestages des Vortrags "Tragedy of the Horizon: A Call for Global Financial Reform", den damaligen Vorsitzende der Bank von England, Mark Carney, vor dem Oberhaus des britischen Parlaments gehalten hat, [wurde eine Webseite eingerichtet](https://www.tragedyofthehorizon.org). Sie thematisiert, dass gerade im Finanzsektor Langzeitrisiken in tagesaktuellen Entscheidung weiterhin kaum Beachtung finden. Im Gegenteil es wird wieder verstärkt in klimaschädliche Industrien investiert. Das zeigt, das man die vermeintliche Selbstregulierung vergessen kann, stattdessen es verbindliche Vorgeben muss und die Zentralbanken ihre Geldpolitik ganz klar an den Klimazielen auszurichten hat.
 
+"Aus den Augen, aus dem Sinn" scheint auch der Hintergrund der Anordnung der US-Energie-Behörde an seine Mitarbeitenden zu sein, Wörter wie "Klimawandel", "grün" und "Dekarbonisierung" in ihrer öffentlichen Kommunikationen [nicht mehr zu verwenden](https://www.politico.com/news/2025/09/28/energy-department-climate-change-emissions-banned-words-00583649). Die Liste der zu vermeidenden Begriffe, auf der schon "Emissionen", "Energiewende", "Nachhaltigkeit", "saubere / schmutzige Energie", "CO2-Fußabdruck" stehen, weil sie nicht der Ausrichtung und Prioritätensetzung der Verwaltung stehen, wächst damit weiter an. 
+
 Die aktuelle [Scheinwerfer-Publikation](https://www.transparency.de/fileadmin/Redaktion/Publikationen/2025/Scheinwerfer-106_Umweltkriminalitaet.pdf) hat sich das Thema Umweltkriminalität als Schwerpunktthema genommen. Mit jährlich 281 Milliarden US-Dollar, die in den Taschen der organisierten Kriminalität landen, bleibt die illegale Ausbeutung der Umwelt ein florierendes Geschäft. Was jetzt schon versucht wird dagegen zu unternehmen, was noch geplant ist und was es noch braucht, [formulieren verschiedene Akteure aus](https://mastodon.social/@transparency_de/115275714225034295).
 
 ## Gesundheit
@@ -155,76 +157,68 @@ Die neue Publikation ["Das Anti-NGO-Narrativ"](https://www.maecenata.eu/2025/09/
 
 Während die Zivilgesellschaft also angeblich einen linken Deep-State bildet, können Unternehmensverbände nach Belieben ihren Interessen durchsetzen. So hat das Wirtschaftsministerium die Exportbehörde angewiesen, Unternehmensberichte nicht mehr zu prüfen, angeblich um Unternehmen vor überbordender Bürokratie zu schützen, [faktisch wird so das Lieferkettengesetz abgeschafft](https://www.heise.de/news/Zaehne-gezogen-Wirtschaftsministerium-schafft-Lieferkettengesetz-faktisch-ab-10673015.html).
 
+Wie wichtig die Stimmen aus der Zivilgesellschaft sind, sieht man auch an einem von mehr als 40 Nicht-Regierungsorganisationen unterzeichneter [offener Brief](https://static.algorithmwatch.org/share/NGO-Letter-to-von-der-Leyen-on-defending-digital-sovereignty.pdf) an die EU-Kommissionspräsidentin Ursula von der Leyen, der im Kontext des schon wieder Einknickens vor dem Druck aus Washington beim Durchsetzen von EU-Recht gegenüber US-(Tech)-Firmen, fordert: "Die europäische Demokratie und die Rechte und Freiheiten der europäischen Bürger sind nicht zu verkaufen, für keinen Preis der Welt".
+
 ## Transparenz
+### Informationsfreiheit
 Das Forum Informationsfreiheit ist anlässlich der [Einführung](https://www.derstandard.at/story/3000000284290/die-informationsfreiheit-ist-da-was-wollen-sie-vom-staat-wissen) des Grundrechts auf Zugang zu Informationen in Österreich (aka Informationsfreiheitsgesetz) nun auch [mit einem Account bei Mastodon vertreten](https://fedi.at/@informationsfreiheit/115225761193166524). Daneben sind weitere Inhalte unter [informationsfreiheit.at](https://www.informationsfreiheit.at/), [offenevergaben.at](https://offenevergaben.at/) (zum Nachvollziehen von Auftragsvergaben der öffentlichen Hand) zu finden. Bei [fragdenstaat.at](https://fragdenstaat.at/) hat man verpasst die Domäne fragdensta.at zu registrieren, aber analog zum deutschen Pendant kann man hier auch Informationsbegehren an Behörden und staatliche Unternehmen stellen.
 
 Das Auswärtige Amt veröffentlicht seine Lageberichte zu Asylverfahren nur geschwärzt, angeblich um internationale Beziehungen zu schützen. So fehlen aber wichtige Informationen, die nachvollziehbar machen würde, womit eine Abschiebung gerechtfertigt wird. PRO ASYL und FragDenStaat [haben dagegen geklagt und gewonnen](https://www.proasyl.de/news/lageberichte-des-auswaertigen-amtes-10-fuer-informationsfreiheit/), die Berichte gibt es aber immer noch nicht ungeschwärzt, weil das Urteil noch nicht rechtskräftig ist, da die Bundesregierung hat Antrag auf Zulassung der Berufung gestellt hat. 
 
 Doe Stadt Leipzig hatte schon eine Informationsfreiheitssatzung, bevor das Sächsischen Transparenzgesetz 2023 in Kraft getreten ist. Dieses hätte die Stadt nun eigentlich als Transparenzsatzung [kommunal umsetzen müssen](https://www.l-iz.de/politik/leipzig/2025/09/leipziger-transparenzsatzung-jahre-stadtverwaltung-ausrede-632868), für deren Vollzug fehlen nun aber angeblich die organisatorischen, personellen und technischen Voraussetzungen - man hatte sie aber schon gar nicht erst im Haushalt eingeplant. [Vor 2028 wird es nun eine solche Satzung geben](https://www.l-iz.de/politik/leipzig/2025/10/der-stadtrat-tagte-vor-2028-leipzig-keine-transparenzsatzung-635458). Aus Kostengründen Transparenz zu opfern, könnte generell ein unschönes Muster auf kommunaler Ebene werden.
 
-* Data Act: EU-Gesetz soll Daten befreien
-  https://www.heise.de/hintergrund/Data-Act-EU-Gesetz-soll-Daten-befreien-10641336.html
-  * FAQ zum EU Data Act – mehr Rechte für Verbraucher?
-    https://www.heise.de/news/FAQ-zum-EU-Data-Act-mehr-Rechte-fuer-Verbraucher-10643571.html
-    https://digital-strategy.ec.europa.eu/en/library/commission-publishes-frequently-asked-questions-about-data-act
+Wenn man die lästige Transparenz ganz umgehen möchte, kann man es auch wie die EU-Kommission machen, die per Leitlinie ihren Mitarbeitenden [empfiehlt](https://www.heise.de/news/Signal-Messenger-Von-der-Leyen-hat-Auto-Delete-fuer-Nachrichten-voreingestellt-10628216.html), bei Instant-Messagern automatisches Löschen von Nachrichten einzustellen. Versuchte Einflussnahmen über Chats kann dann niemand mehr nachvollziehen.
 
-* EU-Kommission: Von der Leyens Signal-Client löscht Nachrichten automatisch
-  https://www.heise.de/news/Signal-Messenger-Von-der-Leyen-hat-Auto-Delete-fuer-Nachrichten-voreingestellt-10628216.html
-* Maskenaffäre
-  https://mastodon.social/@lassesonnerein/115145996870114424
-  https://bewegung.social/@lobbycontrol/115146682999915748
-* Wie Jens Spahn hunderte Millionen Euro verbrannte
-  https://correctiv.org/dasspahnnetzwerk/2025/09/15/wie-jens-spahn-hunderte-millionen-euro-verbrannte/
-* Bundesrechnungshof rügt Gesundheitsministerium wegen fehlender Nachweise
-  https://correctiv.org/aktuelles/bundesrechnungshof/2025/09/24/bundesrechnungshof-ruegt-gesundheitsministerium-wegen-fehlender-nachweise/
+### Data Act
+Am 12. September trat der [Data Act der EU](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202302854) in Kraft. Mit ihm können nun Verbraucher:innen von Herstellern und Diensteanbietern die Herausgabe von nicht-personenbezogenen Daten und Metadaten [verlangen](https://www.heise.de/hintergrund/Data-Act-EU-Gesetz-soll-Daten-befreien-10641336.html), die während der Nutzung von Produkten und Dienste entstanden sind. Dazu gehören z.B. die Sensordaten, die ein Fahrzeug in der Cloud speichert, aber auch Daten von smarten IoT-Geräten (z.B. Haushaltsgeräte, Fitness-Tracker, Home-Automation, direkt genutzte Cloud-Dienste) Nicht betroffenen vom Freigabezwang sind Daten, die der Dateninhaber aus den Rohdaten selbst abgeleitet hat, als z.B. durch eigene Analysen auf den Daten und andere Nachprozessierungen. Sofern vertraglich geregelt, können die Daten auch Dritten entgeltlich zur Verfügung gestellt werden, das war auch explizit ein Anliegen der EU-Verordnung als der EU-Datenstrategie, damit den Handel mit großen Datenmengen zu fördern. Aufwändig für die Firmen, besonders die kleinen Firmen, wird die Klassifizierung der Daten, ob sie personenbezogen (und damit DSGVO-relevant) sind oder nicht (und damit herausgabepflichtig). [heise](https://www.heise.de/news/FAQ-zum-EU-Data-Act-mehr-Rechte-fuer-Verbraucher-10643571.html) als auch die [EU-Kommision](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-frequently-asked-questions-about-data-act) selbst hat zum Gesetz nochmal die häufigsten Frage-Antwort-Paar zusammengestellt.
 
+### Berlin Spahn GAU
+[Im Zuge einer Spiegelrecherche](https://mastodon.social/@lassesonnerein/115145996870114424) ist nun das erste Foto aufgetaucht, dass Jens Spahn an jenem Abend im Oktober 2020 unmaskiert mit anderen Teilnehmern beim Spendendinner in Leipzig zeigt. Hätte er sich am folgenden Tag nicht Corona-positiv in Quarantäne begeben müssen, wäre dies wohl nie öffentlich geworden. So reiht sich diese ["unzureichenden Trennung zwischen Amt und Privatem "](https://bewegung.social/@lobbycontrol/115146682999915748) ein in die Liste fragwürdiger Entscheidungen und anderer Unregelmäßigkeit, wie den nun [aufgedeckten Fall](https://correctiv.org/dasspahnnetzwerk/2025/09/15/wie-jens-spahn-hunderte-millionen-euro-verbrannte/) von für hunderte Millionen Euro eingekaufte Covid-Arzneimitteln, die am Ende entsorgt werden mussten. Oder die milliardenschwere Digitalisierungs-Projekte E-Rezept und E-Patientenakte, bei denen der Bundesrechnungshof [nun rügt](https://correctiv.org/aktuelles/bundesrechnungshof/2025/09/24/bundesrechnungshof-ruegt-gesundheitsministerium-wegen-fehlender-nachweise/), dass keine Wirtschaftlichkeitsprüfungen durchgeführten worden und ein Aufsichtsrat bei der Gematik erst mit großem Verzug eingesetzt wurde.
 
 ## Überwachung
-* Internes Protokoll: Dänemark will Chatkontrolle durchdrücken
-  https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/
-  * Der Kampf gegen die Chatkontrolle braucht dich jetzt!
-    https://chat-kontrolle.eu/index.php/2025/10/02/der-kampf-gegen-die-chatkontrolle-braucht-dich-jetzt/
-  * Der Kampf gegen die Chatkontrolle braucht dich
-    https://digitalegesellschaft.de/2025/10/der-kampf-gegen-die-chatkontrolle-braucht-dich/
-  * Die Chatkontrolle gefährdet die Demokratie
-    https://netzpolitik.org/2025/eu-ueberwachungsplaene-die-chatkontrolle-gefaehrdet-die-demokratie/
-  * Aus Sicherheitsgründen: Bundesregierung muss der Chatkontrolle eine Absage erteilen
-    https://www.ccc.de/de/updates/2025/absage-chatkontrolle
-* Palantir-Gesetze missachten Vorgaben aus Karlsruhe
-  https://netzpolitik.org/2025/automatisierte-datenanalyse-palantir-gesetze-missachten-vorgaben-aus-karlsruhe/#netzpolitik-pw
+Auch wenn die von der dänischen EU-Ratspräsidentschaft [geplante](https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/) anlasslose Chatkontrolle [am Nein Deutschlands erstmal gescheitert ist](https://www.mdr.de/nachrichten/welt/politik/eu-chatkontrolle-messenger-ueberwachung-whatsapp-telegram-kinderporno-100.html), hat die Diskussion der letzten Wochen gezeigt, wie viel Druck aus der Zivilgesellschaft [dafür nötig war](https://netzpolitik.org/2025/eu-ueberwachungsplaene-die-chatkontrolle-gefaehrdet-die-demokratie/). Chatkontrolle ist durch die E-Privacy-Richtlinie verboten, doch währt die Diskussion über Chatkontrolle und Client-Side-Scanning schon seit drei Jahren, und wird nicht der letzte Versuch gewesen sein, diese durchzudrücken.
 
-## USA
-* Mehr als 40 Organisationen fordern von Ursula von der Leyen mehr Resilienz gegenüber Druck aus Washington. EU-Recht dürfe nicht einfach aufgegeben werden.
-  https://www.heise.de/news/Zivilgesellschaft-vs-BigTech-EU-soll-nicht-vor-Trump-Drohungen-einknicken-10628664.html
-* Energy Dept. adds ‘climate change’ and ‘emissions’ to banned words list
-  https://www.politico.com/news/2025/09/28/energy-department-climate-change-emissions-banned-words-00583649
-  via https://climatejustice.global/@parents4future/115288899434266091
+Das Bundesverfassungsgerichts in Karlsruhe hat bereits 2023 in einem Urteil sehr enge Grenzen für die automatisierte Analyse von polizeiliche Daten gesetzt. Nordrhein-Westfalen, Hessen, Bayern und bald auch Baden-Württemberg sind jedenfalls mit ihrem Einsatz von Palantirsoftware und den zugehörigen Landesgesetzen [nicht verfassungskonform](https://netzpolitik.org/2025/automatisierte-datenanalyse-palantir-gesetze-missachten-vorgaben-aus-karlsruhe/).
+
+Für die Autoren der Wikimedia-Publikation ["Grundrechte im Digitalen"](https://www.wikimedia.de/wp-content/uploads/2025/09/Grundrechte-im-Digitalen.pdf) stellen Grundrechte, wie z.B. das Grundgesetz formuliert, konkrete Schutzversprechen dar, die uns Freiheit, Gleichberechtigung und Würde garantieren. Dies müsse auch gegenüber digitalen Technologien gelten. Trotz rasanter technologischer Entwicklungen müssen digitaler Grundrechte kontinuierlich reflektiert, weiterentwickelt und vor allem vor Bedrohung geschützt werden.
 
 ## Aiaiai
-* Mit Apertus präsentiert die Schweiz ein LLM mit 15 Billionen Token
-  https://www.all-ai.de/news/top-news24/lama-schweiz-ki
-* Künstliche Intelligenz und Freies Wissen
-  https://www.wikimedia.de/wp-content/uploads/2025/09/KI-und-Freies-Wissen.pdf
-* Die fossile Industrie liebt KI
-  https://bits-und-baeume.org/blog/ki_und_gas/
-* Eine Studie zeigt: KI-Chatbots liefern bei Nachrichtenthemen doppelt so oft falsche Antworten wie noch vor einem Jahr, inzwischen in 35 Prozent der Fälle.
-  https://www.20min.ch/story/falschinformation-chatbots-verbreiten-immer-haeufiger-falschmeldungen-103411508
-  * Wie KI das Internet immer schlechter macht
-    https://www.basicthinking.de/blog/2025/09/24/wie-ki-das-internet-immer-schlechter-macht/
-* "Bislang sind wir nicht gut darin gewesen, kreative Menschen fair zu entlohnen"
-  https://www.heise.de/news/Web-Erfinder-Berners-Lee-fordert-Mikrozahlungen-als-Ausgleich-fuers-KI-Training-10643782.html
-* KI-Hype zeigt: Wir müssen Open Source und dezentrale Dienste schützen
-  https://reset.org/ki-features-umgehen-open-source-walled-garden-entkommen/
-* Bei nachhaltiger KI geht es um mehr als grüne Rechenzentren
-  https://reset.org/bei-nachhaltiger-ki-geht-es-um-mehr-als-gruene-rechenzentren/#transparenz
-* Klickarbeiter im KI-Training: Wie sich Datenarbeiter:innen gegen Ausbeutung wehren
-  https://civic-data.de/klickarbeiter-ki-training/
-* Wenn wir das Denken an die KI auslagern
-  https://taz.de/Kuenstliche-Intelligenz/!6110053/
-* Überraschende Studienergebnisse: Wie ChatGPT wirklich genutzt wird
-  https://www.basicthinking.de/blog/2025/09/26/studienergebnisse-chatgpt/
-* Problem Workslop: Wie KI-Einsatz die Produktivität in Firmen erstickt
-  https://www.heise.de/news/Problem-Workslop-Wie-KI-Einsatz-die-Produktivitaet-in-Firmen-erstickt-10667638.html
+### Open Source
+Beim vom ETH Zürich, der EPFL und dem Supercomputing-Zentrum CSCS entwickelten [Sprachmodell Apertus](https://www.all-ai.de/news/top-news24/lama-schweiz-ki) sind Quellcode, Trainingsdaten und der gesamte Trainings-/Entwicklungsprozess komplett offengelegt. 
+
+Wie wichtig es ist, Open-Source-Software und dezentrale Dienste als Alternativen zu haben, um den geschlossenen Ökosystemen der großen Hersteller [zu entkommen](https://reset.org/ki-features-umgehen-open-source-walled-garden-entkommen/), zeigt sich am zunehmenden Trend, dass diese ungefragt immer mehr KI-Funktionen in ihre Lösungen einbauen, ohne das man dies ausschalten könnte, weil man aus ethischen Gründen deren Entwicklung und Verbreitung nicht unterstützen möchte.
+
+### Umweltbelastung
+Wer an der KI-Nadel hängt, braucht regelmäßig Stoffzufuhr, damit er weiter im Trip in den bunten Bilder einer "KI-Nation", "ungeahnte Wirtschaftskräften", "Verwaltungsrevolution" und "KI-Sprunginnovationen" schwelgen kann. Die (Gas-)Dealer von der Fossilindustrie [stehen jedenfalls schon Spalier](https://bits-und-baeume.org/blog/ki_und_gas/).
+
+Um als nachhaltig klassifiziert zu werden, muss der gesamte Lebenszyklus einer KI betrachtet werden. Nur dafür [braucht es verlässliche, vergleichbare Daten](https://reset.org/bei-nachhaltiger-ki-geht-es-um-mehr-als-gruene-rechenzentren/), und nicht irgendwelche von den Firmen selbst kuratierten Daten, die sie gut dastehen lassen.
+
+### Arbeit
+Wie die Zivilgesellschaft im Globalen Süden und die Klickarbeiter:innen selbst sich für eine Verbesserung ihrer prekären Arbeitsbedingungen ein, dokumentiert [dieser Civic Data Lab Blogbeitrag](https://civic-data.de/klickarbeiter-ki-training/) an einigen Fällen.
+
+Für Tim Berners-Lee ist das Urheberrecht in vielerlei Hinsicht gescheitert, man hat immer noch keinen geeigneten Weg gefunden, "kreative Menschen fair zu entlohnen". Ein Möglichkeit könnten Mikrozahlungen sein, eine Idee, die schon seit Jahren existiert, sich aber, wie z.B. der [GNU Taler](https://www.taler.net/de/index.html) bisher nicht wirklich durchsetzen konnte. Einen. neuen Anlauf die Gründung befindliche Stiftung [x402 Foundation](https://www.x402.org), die einen offenen Internetstandard für digitale Zahlungen im Netz [entwickeln möchte](https://www.it-administrator.de/x402-Basis-Internet-natives-Geld-Cloudflare-Coinbase).
+
+### Qualität
+Auch bedingt durch den grundlegenden Strategiewechsel der meisten KI-Chatbots, trotz Unsicherheit immer eine Antwort zu liefern, hat sich der Anteil an falschen Informationen bei Antworten zu Fragen zu aktuellen Nachrichtenthemen [nach einer Untersuchung von Newsguard](https://www.newsguardtech.com/de/ai-monitor/audit-chatbots-verdoppeln-in-einem-jahr-den-anteil-an-antworten-mit-falschen-informationen/), von 18% im August 2024 auf 35% im August 2025 nahezu verdoppelt.
+
+Mangelnde Qualität bei den Quellenangaben musste auch [eine Studie](https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php) des Tow Center for Digital Journalism [feststellen](https://www.basicthinking.de/blog/2025/09/24/wie-ki-das-internet-immer-schlechter-macht/): in über 60 Prozent der Fälle waren diese von den KI‑Suchmaschinen ungenau oder gar falsch angegeben. Wenn man sich nicht nur auf die Medienkompetenz auf Nutzerseite verlassen möchte, sollte man technische Maßnahmen ergreifen, die beispielsweise KI-Antworten als unsicher markieren.
+
+### KI Workslop
+Die Abkürzung des einen ist die Mehrarbeit des anderen. So könnte man die Erkenntnis [einer noch nicht veröffentlichten Studie](https://www.heise.de/news/Problem-Workslop-Wie-KI-Einsatz-die-Produktivitaet-in-Firmen-erstickt-10667638.html) zusammenfassen, bei der die Nacharbeiten, die durch KI-generierte Dokumente innerhalb eines Teams anfallen, Dokumente, die zwar so schnell erstellt sind, das bei näherer Prüfung (durch den Kollegen) dann doch seine Fehler offenbart. Ein Umstand, der auch auf die Stimmung und die Zusammenarbeit im Team drückt.
+
+"Selbst denken ist schwer und voraussetzungsvoll", meint Udo Kords [in seinem taz-Essay](https://taz.de/Kuenstliche-Intelligenz/!6110053/). Denn es braucht die Dinge, die in unserer Gesellschaft immer knapper werden: Ruhe, Zeit, Konzentration, Ausdauer und den Wunsch nach dem Erlangen von [Selbstkompetenz](https://de.wikipedia.org/wiki/Selbstkompetenz). Kein Wunder also, dass immer mehr Menschen zum KI-Chatbot greifen, und sich mit Heuristiken durchs Leben zu mogeln. Dabei müssten wir uns viel eher der Herausforderung stellen, zu lernen, "technische Innovationen sinnvoll zu nutzen", und sich auch manchmal dieser bewusst zu verweigern, um eben nicht "Zuschauer der eigenen Entmündigung" zu werden. 
+
+Die Wikimedia sieht in [ihrem Impulspapier zu Künstlicher Intelligenz und Freiem Wissen](https://www.wikimedia.de/wp-content/uploads/2025/09/KI-und-Freies-Wissen.pdf) in generativer KI mehr Fluch als Segen. So eignet sich zwar für Aufgaben mit "verrauschten" Eingaben und offenen Problemstellungen, bei denen Fehler, die aus ihrem Arbeiten mit statistischen Wahrscheinlichkeiten entstehen, leicht erkennbar bzw. tolerierbar sind. Leider wird diese Form der KI leider auch in Bereichen verwendet, in denen symbolische KI, also der Logik-basierte Ansatz, viel besser geeignet ist, wenn es also um den Aufbau von gesichertem Wissen geht, wie es sich Wikipedia und Wikidata zum Ziel gesetzt haben. Dazu muss die Erfassung und Pflege von strukturierten Daten weiter ausgebaut werden. Wichtig ist, sich immer wieder klar zu machen, dass der Einsatz von KI durch uns gestaltbar ist, auch wenn große Unternehmen uns anderes glauben machen wollen, um selbst ihren Vorsprung einseitig weiter auszubauen.
+
+### Konformität
+Die Auswertung von ChatGPT-Chatprotokollen von 1,5 Millionen Nutzern zwischen Mai 2024 und Juni 2025 in [einer Studie](https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf) der Universitäten Havard und Duke sowie OpenAI, [hat ergeben](https://www.basicthinking.de/blog/2025/09/26/studienergebnisse-chatgpt/), dass in 73 Prozent der Fälle private Anliegen im Vordergrund standen, während ein Jahr zuvor sich diese mit der beruflichen Nutzung die Waage hilt. Neben Fragen nach praktischen Anleitungen und der Unterstützung beim Verfassen von Texten nimmt die Informationssuche einen immer größeren Teil ein. Produktkaufberatung und KI-Psychotherapie sind mit jeweils 2% noch nicht so stark vertreten.  
+
+[In ihrer Kolumne](https://netzpolitik.org/2025/breakpoint-individuell-uniform/) bei Netzpolitik widmet sich Carla Siepmann dem Widerspruch von Individualismus und Konformität und wie die Algorithmen von Social Media Verhalten belohnt, welches am häufigsten auftritt, während Abweichendem Unsichtbarkeit droht. Trends verstärken den [Anpassungsdruck](https://de.wikipedia.org/wiki/Gruppenzwang), auch für Firmen ist es einfacher, wenn alle das Gleiche wollen. 
+
+## Und sonst so
+Die Aussagen von Friedrich Merz im ZDF-Sommer-Interview wurden vom Im [correctiv Faktencheck](https://correctiv.org/faktencheck/) einer [Prüfung unterzogen](https://correctiv.org/faktencheck/hintergrund/2025/09/05/sommerinterview-mit-friedrich-merz-aussagen-zu-krankheitstagen-und-arbeitszeiten-im-faktencheck/) und so einige Übertreibungen, Halbwahrheiten, und Irreführungen des Kanzlers entlarvt. Mehr solcher Desinformationen kann man auf dem [Merz-Mythen-Counter](https://neunund20.de/merzmythen) zusammentragen helfen.
+
+Eine Fähigkeit, die man zunehmend auch Faktenchecker benötigt: bei [TimeGuessr](https://timeguessr.com/) muss man für ein gezeigtes Foto Ort und Jahr richtig errraten. Noch etwas schwieriger ist [OpenGuessr](https://openguessr.com), bei den man eine zufällige Google-Street-View-Ansicht richtig verorten muss. Bei [FoodGuessr](https://www.foodguessr.com) muss man für an Hand von  Bild und Zutaten- und Zubereitungsbeschreibung das Land erraten, aus der das Gericht stammt.
 
 ## Recap
 * [Temporärhaus Monatsrückblick August 2025](https://temporaerhaus.de/monatsrueckblick-august-25-tausend-fotos-hundert-luftaufnahmen/)
@@ -247,13 +241,6 @@ Doe Stadt Leipzig hatte schon eine Informationsfreiheitssatzung, bevor das Säch
 * 39C3 – Call for Participation, [Einreichungen bis 24.10.2025](https://content.events.ccc.de/cfp/39c3/index.de.html) (23:59 UTC)
 * International Online Conference "The Art Museum in the Digital Age – 2026", [Einreichungen bis 02.11.2025](https://www.belvedere.at/en/digitalmuseum2026)
 * Jahrgang 02 des PrototypeFund, [Bewerbung bis 30.11.2025](https://www.prototypefund.de/blog/bewerbt-euch-jetzt-fuer-jahrgang-02)
-
-## Und sonst so
-* Grundrechte im Digitalen
-  https://www.wikimedia.de/wp-content/uploads/2025/09/Grundrechte-im-Digitalen.pdf
-* Merz Mythen Counter
-  https://neunund20.de/merzmythen
-* https://timeguessr.com/ und https://openguessr.com/ und https://www.foodguessr.com
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Mittwoch, 01.10.2025, bis Freitag, 31.10.2025, 23:59, online: **Hacktoberfest** <a title='Kalendereintrag Hacktoberfest' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSGFja3RvYmVyZmVzdC8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI1MTAwNFQxMzM4MDFaDQpEVFNUQVJUOjIwMjUxMDAxVDAwMDAwMA0KRFRFTkQ6MjAyNTEwMzFUMjM1OTU5DQpTVU1NQVJZOkhhY2t0b2JlcmZlc3QNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vaGFja3RvYmVyZmVzdC5jb20NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
