@@ -52,19 +52,29 @@ Für Projekte sieht das dann z.B. so aus:
 
 ``` yaml
 ---
-layout: project #do not change
-lab: [berlin] #change into your city/lab
-imgname: #add file to assets/projects/your city
-title: Titel #project title
+layout: project  # do not change
+lab: [berlin]    # change into your city/lab
+imgname:         # add file to static/projects/your city
+title: Titel     # project title
 status: Laufend
-draft: true #set to 'false'
+draft: true      # set to 'false'
 
 
 links:
-- url: #add url
+- url:           # add url
   name: Website
-- url: #add url
+- url:           # add url
   name: Code
+
+collaborators:
+- name: Kai      # change
+  links:
+  - url: https://github.com/Kai   # change, remove or add more
+    name: GitHub
+- name: Olf      # change
+
+tags:
+- Mobilität      # change or remove
 
 ---
 <!--short project description here-->
@@ -132,12 +142,13 @@ Voraussetzungen
 - lokale installation von git [quick start git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - lokale installation von hugo [quick start hugo](https://gohugo.io/getting-started/installing/) **Achtung, wir benötigen `Hugo Extended`**
 
-1. Das codeforde repository clonen `git clone https://github.com/okfde/codefor.de`
-2. einen neuen branch anlegen `git checkout -b NEUER_BRANCH`
-3. einen neuen Artikel anlegen (zb blogpost) `hugo new blog/JJJJ-MM-TT-einzigartigername.md` (inhalt siehe [3 Euer Inhalt](#3-euer-inhalt))
-4. Mindestens ein Bild im Verzeichnis `static/blog` einfügen (bei Labs und Projekten nicht nötig) und den Dateinamen in den Metadaten im Blogpost unter `imgname` einfügen.
-5. Mit `hugo -D` passiert ein wenig hugo magic und im `public` Ordner `blog/JJJJ-MM-TT-einzigartigername.html` ist dein Artikel wie er später auf der Website aussehen wird.
-6. Dateien zu git hinzufügen `git add blog/JJJJ-MM-TT-einzigartigername.md blog/tollesbild.jpg`
-7. commiten `git commit -m "Hier die Commit-Nachricht, z.B. add Blogeintrag zu xyz"`
-8. pushen `git push`
-9. Pull Request stellen wie in [5 Der Pull Request](#5-der-pull-request)
+1. Das [codeforde repository forken](https://git-scm.com/book/de/v2/GitHub-Mitwirken-an-einem-Projekt)
+2. Den codeforde repository fork clonen `git clone https://github.com/NUTZER_NAME/codefor.de`
+3. Einen neuen Branch anlegen `git checkout -b NEUER_BRANCH`
+4. Einen neuen Artikel anlegen (z.B. Blogpost) `hugo new blog/JJJJ-MM-TT-einzigartigername.md` (Inhalt siehe [3 Euer Inhalt](#3-euer-inhalt))
+5. Mindestens ein Bild im Verzeichnis `static/blog` einfügen (bei Labs und Projekten nicht nötig) und den Dateinamen in den Metadaten im Blogpost unter `imgname` einfügen.
+6. Mit `hugo serve` passiert ein wenig hugo magic und es startet ein lokaler Webserver, der meistens unter http://localhost:1313/ erreichbar ist und die neue Seite zeigt. Im Dateisystem ist unter `public/blog/JJJJ-MM-TT-einzigartigername.html` dein Artikel.
+7. Dateien zu git hinzufügen `git add content/blog/JJJJ-MM-TT-einzigartigername.md static/blog/tollesbild.jpg`
+8. commiten `git commit -m "Hier die Commit-Nachricht, z.B. add Blogeintrag zu xyz"`
+9. pushen `git push --set-upstream origin NEUER_BRANCH`
+10. Pull Request stellen wie in [5 Der Pull Request](#5-der-pull-request)
