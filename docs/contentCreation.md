@@ -143,7 +143,7 @@ Voraussetzungen
 - lokale installation von hugo [quick start hugo](https://gohugo.io/getting-started/installing/) **Achtung, wir benötigen `Hugo Extended`**
 
 1. Das [okfde/codefor.de repository forken](https://git-scm.com/book/de/v2/GitHub-Mitwirken-an-einem-Projekt)
-2. Den codeforde repository fork clonen `git clone https://github.com/NUTZER_NAME/codefor.de`
+2. Den okfde/codefor.de repository fork clonen `git clone https://github.com/GITHUB_NUTZER_NAME/codefor.de` und ins Verzeichnis wechseln `cd codefor.de`
 3. Einen neuen Branch anlegen `git checkout -b NEUER_BRANCH`
 4. Einen neuen Artikel anlegen (z.B. Blogpost) `hugo new blog/JJJJ-MM-TT-einzigartigername.md` (Inhalt siehe [3 Euer Inhalt](#3-euer-inhalt))
 5. Mindestens ein Bild im Verzeichnis `static/blog` einfügen (bei Labs und Projekten nicht nötig) und den Dateinamen in den Metadaten im Blogpost unter `imgname` einfügen.
