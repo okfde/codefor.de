@@ -4,7 +4,7 @@ lab: [berlin]    # change into your city/lab
 imgname:         # add file to static/projects/your city
 title: Titel     # project title
 status: Laufend
-draft: true      # set to 'false'
+draft: true      # set to false
 
 
 links:
