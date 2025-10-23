@@ -64,10 +64,10 @@ Du möchtest dich einbringen? Es gibt verschiedene Möglichkeiten, bei uns mitzu
 In unserem Slack diskutieren wir, teilen Ressourcen, finden neue
 Projekte und verabreden uns zu bundesweiten Treffen. Dort kannst
 du Fragen stellen und Gleichgesinnte finden. Schick uns eine formlose
-Nachricht an <a href="mailto:info@codefor.de">info@codefor.de</a>
+Nachricht mit einem Satz zu dir an <a href="mailto:community@codefor.de">community@codefor.de</a>
 und wir nehmen dich auf.
 
-{{< button-center href="mailto:info@codefor.de?subject=Online-Community" class="mb-6 mt-3">}}
+{{< button-center href="mailto:community@codefor.de?subject=Online-Community" class="mb-6 mt-3">}}
 Email senden
 {{</ button-center >}}
 
