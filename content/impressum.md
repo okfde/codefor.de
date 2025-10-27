@@ -28,10 +28,11 @@ Impressum
 	<dd>DE278022128</dd>
 </dl>
 <dl>
-	<dt>EMail:</dt>
-	<dd><a href="mailto:info@codefor.de">info@codefor.de</a></dd>
+	<dt>EMail des Trägervereins Open Knowledge Foundation e. V.:</dt>
+	<dd><a href="mailto:info@okfn.de">info@okfn.de</a></dd>
 	<dt>Telefon:</dt>
 	<dd><a href="tel:+49 30 97894230">+49 30 97894230</a></dd>
+	<dt>Wenn ihr inhaltliche Fragen habt oder mitmachen möchtet, schaut auf der <a href="https://codefor.de/community">Community-Seite</a> vorbei.</dt>
 
 </dl>
 
