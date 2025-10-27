@@ -64,17 +64,13 @@ Du möchtest dich einbringen? Es gibt verschiedene Möglichkeiten, bei uns mitzu
 In unserem Slack diskutieren wir, teilen Ressourcen, finden neue
 Projekte und verabreden uns zu bundesweiten Treffen. Dort kannst
 du Fragen stellen und Gleichgesinnte finden. Schick uns eine formlose
-Nachricht mit einem Satz zu dir an <a href="mailto:community@codefor.de">community@codefor.de</a>
-und wir nehmen dich auf.
-
-{{< button-center href="mailto:community@codefor.de?subject=Online-Community" class="mb-6 mt-3">}}
-Email senden
-{{</ button-center >}}
+Nachricht mit einem Satz zu dir an <a href="mailto:community@codefor.de?subject=Online-Community">community@codefor.de</a>
+und wir nehmen dich auf. Bitte wundere dich nicht, wenn es nicht sofort passiert und gib uns ein bisschen Zeit, um deine Anfrage zu bearbeiten.
 
 
 ### Besuche ein Lab in deiner Nähe
 
-Über die Karte kommst du zu den Unterseiten der einzelnen Labs. Dort erfährst du mehr über Termine und Ansprechpartner\*innen.
+Über die Karte kommst du zu den Unterseiten der einzelnen Labs. Dort erfährst du mehr über Termine und Ansprechpartner\*innen. Die Labs werden von Ehrenamtlichen betrieben, daher sind nicht alle Labs immer gleichmäßig aktiv.
 {{< labmap-overview >}}
 
 ### Unterstütze unsere Arbeit
@@ -91,12 +87,3 @@ Wie lassen sich Daten öffnen, und warum ist das wichtig für Verwaltungen? Lies
 {{< button-center href="https://opendata.okfn.de/" target="_blank" class="mb-6 mt-3">}}
 Open Data Knowledge Hub
 {{</ button-center >}}
-
-### Noch Fragen?
-
-Schreib uns eine Nachricht an info@codefor.de, wir freuen uns von dir zu hören!
-
-{{< button-center href="mailto:info@codefor.de?subject=Kontakt" class="mb-6 mt-3">}}
-Email senden
-{{</ button-center >}}
-{{</ paragraph-center  >}}
