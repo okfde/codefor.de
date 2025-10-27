@@ -18,11 +18,12 @@ Community-Veranstaltungen.
 
 ## Spenden via Überweisung
 Deine Spenden gehen an den Trägerverein von Code for Germany, die
-Open Knowledge Foundation Deutschland e.V. Für Spenden über 300
+Open Knowledge Foundation Deutschland e. V. Für Spenden über 300
 Euro jährlich stellen wir eine Spendenbestätigung aus, regulär am
 Anfang des nächsten Kalenderjahres. Damit diese bei dir ankommt,
 gib deine Email- oder Postadresse in der Überweisung an oder
-kontaktiere uns via Email an info@codefor.de.
+kontaktiere die Open Knowledge Foundation Deutschland 
+via Email an info@okfn.de mit dem Betreff "Spende Code for Germany".
 
 Unsere Bankverbindung für einmalige Spenden und Daueraufträge ist:
 
