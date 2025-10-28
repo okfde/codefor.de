@@ -103,9 +103,8 @@ Konzernen, arbeiten nachhaltig und gemeinwohlorientiert.
 Mit unserer Expertise unterstützen wir Menschen in der Verwaltung
 auf ihrem Weg zu einer nachhaltigen Digitalisierung. Interessierte
 Verwaltungsmitarbeiter\*innen informieren sich in der [Open Data
-Knowledgebase](https://opendata.okfn.de/), kontaktieren ihre 
-[lokale Community](/community) oder schreiben
-uns eine [Nachricht](mailto:info@codefor.de?subject=Kontakt).
+Knowledgebase](https://opendata.okfn.de/) und kontaktieren ihre 
+[lokale Community](/community).
 
 Gerne teilen wir unser Wissen im Dialog auf Augenhöhe, als Ehrenamtliche
 meist außerhalb regulärer Bürozeiten. Wie gute Zusammenarbeit
@@ -140,9 +139,8 @@ Von den Expert\*innen von Code for Germany erfahren Politiker\*innen
 mehr über nachhaltig wirksame digitale Lösungsansätze für
 Herausforderungen in ihren Wahlkreisen und stärken den Dialog mit
 Bewohner\*innen. Interessierte Politiker\*innen informieren sich in
-der [Open Data Knowledgebase](https://opendata.okfn.de/), kontaktieren ihre
-[lokale Community](/community) oder schreiben
-uns eine [Nachricht](mailto:info@codefor.de?subject=Kontakt).
+der [Open Data Knowledgebase](https://opendata.okfn.de/) und kontaktieren ihre
+[lokale Community](/community).
 
 ### Unternehmen
 

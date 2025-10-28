@@ -22,11 +22,11 @@ Code for Germany ist ein Projekt der Open Knowledge Foundation Deutschland, in d
 
 ### 2. Organisation der Labs
 
-Für die Gründung eines neuen Labs wird zunächst die Open Knowledge Foundation (info@codefor.de) kontaktiert. In gemeinsamen Gesprächen wird evaluiert, ob eine Gründung infrage kommt und für beide Seiten sinnvoll ist. Die Projektleitung konsultiert hierfür auch den Community Rat. Bei positiver Entscheidung wird das neue Lab von Seiten der OKF bei der Ansprache möglicher Interessent\*innen und strategischer Partner\*innen in der Organisation einer Auftaktveranstaltung unterstützt.
-
 Die Lab Leads organisieren und entwickeln die Labs in ihren Städten. Sie organisieren Veranstaltungen, indem sie sich um Räumlichkeiten und Einladungen kümmern. Sie unterstützen dabei eine örtliche Community in ihren Labs aufzubauen, indem sie Interessierte ansprechen und einladen und eine Atmosphäre schaffen, die einladend für neue Teilnehmenden ist. Sie sind primäre Ansprechpartner\*innen für die lokale Community und für die Open Knowledge Foundation. Lab Leads werden innerhalb der Labs bestimmt, dies kann per Wahl oder nach Konsensprinzip auf einem Lab Treffen erfolgen. Dies muss aber zuvor über die internen Kanäle mindestens zwei Wochen vorher angekündigt werden. Es sollte mindestens zwei Lab Leads geben, die sich gegenseitig vertreten und die Aufgaben teilen. Die Code For Labs und ihre Teilnehmenden sprechen und handeln in eigenem Namen. Ein Verweis auf die Open Knowledge Foundation und Code for Germany ist ausdrücklich erwünscht.
 
 Die Lab Leads sind für die Organisation des Labs und der Veranstaltungen verantwortlich. Sie sind Ansprechpartner oder Ansprechpartnerinnen für ihr Lab und für die Projektleitung von Code for Germany. Die OK Labs und ihre Teilnehmenden sprechen und handeln in eigenem Namen. Ein Verweis auf die Open Knowledge Foundation und Code for Germany ist ausdrücklich erwünscht.
+
+Für die Gründung eines neuen Labs wird zunächst die Open Knowledge Foundation (community@codefor.de) kontaktiert. In gemeinsamen Gesprächen wird evaluiert, ob eine Gründung infrage kommt und für beide Seiten sinnvoll ist. Die Projektleitung konsultiert hierfür auch den Community Rat. Bei positiver Entscheidung wird das neue Lab von Seiten der OKF bei der Ansprache möglicher Interessent\*innen und strategischer Partner\*innen in der Organisation einer Auftaktveranstaltung unterstützt.
 
 ### 3. Repräsentation und Community Rat
 
