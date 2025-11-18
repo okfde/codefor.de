@@ -19,8 +19,6 @@ links:
   url: https://twitter.com/CodeforRuhr
 - name: GitHub
   url: https://github.com/codeforruhrgebiet
-- name: OpenRuhr.de
-  url: https://openruhr.de
 
 leads:
 - name: Benedict
