@@ -25,10 +25,6 @@ members:
 #   username_twitter: <twitter_user_name>
 
 links:
-- name: Webseite
-  url: http://codeforosnabrueck.org/
-  top: true
-
 - name: GetTogether
   url: https://gettogether.community/code-for-osnabr%C3%BCck/
   top: true

@@ -40,8 +40,6 @@ members:
 
 
 links:
-- name: Webseite
-  url: https://opendatal.de/
 - name: Mailingliste
   url: http://lists.devtal.de/mailman/listinfo/opendatal
 - name: GitHub
