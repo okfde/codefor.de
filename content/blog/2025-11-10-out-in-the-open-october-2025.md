@@ -28,6 +28,8 @@ type: blog
   https://www.linkedin.com/posts/ocbydata_opendata-bytethesystem-opendata-activity-7384480457435844610-ltWT
 * GovData arbeitet derzeit dran, den Musterdatenkatalog der Bertelsmann Stiftung zu übernehmen
   https://www.linkedin.com/posts/govdata-de_govdata-musterdatenkatalog-opendata-ugcPost-7388596768575229952-8svW
+* Open Data Literacy: Neuer Lernpfad Open Data verfügbar!
+  https://www.linkedin.com/posts/bundesverwaltungsamtde_opendata-datenkompetenzen-opendata-activity-7382351233551867904-4X8n
 
 ### Linked Open Data
 * Checkliste: Linked Open Data für Verwaltungen
