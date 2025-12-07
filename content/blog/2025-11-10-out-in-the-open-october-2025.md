@@ -173,6 +173,9 @@ type: blog
   via https://mastodon.social/@mkreutzfeldt/115451820051817165
 * Die Liste – Extremwetter 2025 Klimakatastrophe live
   https://derklimablog.de/wissen/die-liste-extremwetter-2025-klimakatastrophe-live/
+* Abpflastern – von Grau zu Grün: Gemeinsam entsiegeln wir unsere Stadt!
+  https://climatejustice.global/@GermanZeroHH/115469569985085571
+  https://abpflastern.beteilige.me/#/
 ### Finanzen
 * The only comprehensive database of fossil fuel divestment commitments made by institutions worldwide
   https://divestmentdatabase.org
@@ -242,6 +245,10 @@ type: blog
   https://fragdenstaat.de/artikel/klagen/2025/10/klage-red-bull-brandenburg/
 * Bundestag kommt mit Veröffentlichung von Nebeneinkünften nicht hinterher
   https://www.abgeordnetenwatch.de/recherchen/nebentaetigkeiten/bundestag-kommt-mit-veroeffentlichung-von-nebeneinkuenften-nicht-hinterher
+* Gesundheitsministerium versuche, Pressevertreter*innen nur selektiv Zugang zu Informationen zu gewähren, IFG befreit sie
+  https://chaos.social/@fragdenstaat/115468458833463812
+  https://fragdenstaat.de/anfrage/hintergrundgespraeche-mit-journalist-innen/
+
 ### Sicherheit
 * Suche Entspannung, finde Datenleck
   https://zerforschung.org/posts/sihot/
