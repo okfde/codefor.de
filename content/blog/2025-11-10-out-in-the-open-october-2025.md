@@ -103,6 +103,8 @@ type: blog
   https://social.osb-alliance.de/@OSBA/115383104580902445
 * GA-Lotse
   https://www.smartcountry.berlin/de/programm/programmueberblick#eventdate--Zero-Trust-in-Eigenregie:-Vorstellung-GA%E2%80%93Lotse--5f50dc79-e20f-4153-966a-fe338635baf1
+* Open Source-Software: geteilt oder geschlossen?
+  https://sharecast.podigee.io/7-6-open-source-software-geteilt-oder-geschlossen
 ### End of Windows 10
 * Die Umstellung auf Windows 11 kostet Sachsen-Anhalts Behörden über vier Millionen Euro – und sorgt für tausende verschrottete Geräte.
   https://www.mdr.de/nachrichten/sachsen-anhalt/landespolitik/windows-elf-umstellung-kosten-vier-millionen-104.html
@@ -121,6 +123,9 @@ type: blog
   https://deutschland-stack.gov.de/beteiligung/
 * Deutschland-Stack: Was ist drin, im Baukausten für die digitale Verwaltung?
   https://netzpolitik.org/2025/deutschland-stack-was-ist-drin-im-baukausten-fuer-die-digitale-verwaltung/
+* D-Stack Home
+  https://gitlab.opencode.de/dstack/d-stack-home
+  https://gitlab.opencode.de/dstack/d-stack-home/-/issues?sort=created_date&state=opened&first_page_size=100
 ### Mastodon
 * Liste Mastodon Accounts Bundesbehörden (DE)
   https://mastodon-listen.playground.54gradsoftware.de/?liste=bundesbehoerden-DE
@@ -176,6 +181,8 @@ type: blog
 * Abpflastern – von Grau zu Grün: Gemeinsam entsiegeln wir unsere Stadt!
   https://climatejustice.global/@GermanZeroHH/115469569985085571
   https://abpflastern.beteilige.me/#/
+* oekom: Open Access: Unsere 10 meistgelesenen E-Books
+  https://www.oekom.de/beitrag/open-access-unsere-10-meistgelesenen-e-books-406
 ### Finanzen
 * The only comprehensive database of fossil fuel divestment commitments made by institutions worldwide
   https://divestmentdatabase.org
