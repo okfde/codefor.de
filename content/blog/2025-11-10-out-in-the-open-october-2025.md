@@ -38,102 +38,75 @@ Wissenschaftler tauschen sich zunehmend öffentlich in angeregten Diskussionen a
 Das Umweltbundesamt (UBA) hat die "Berliner Erklärung über den offenen Zugang zu wissenschaftlichem Wissen" [unterzeichnet](https://www.umweltbundesamt.de/themen/umweltbundesamt-unterzeichnet-berliner-erklaerung). Es verpflichtet sich damit, seine Publikationen in seinem Publikationsserver [openUMWELT](https://openumwelt.de/home) dauerhaft zur Verfügung zu stellen.
   
 ## Digitalpolitik
-* Monitor Digital­politik
-  https://www.bitkom.org/Monitor-Digitalpolitik
-* Teile der Netzneutralität könnten demnächst auf den Prüfstand kommen
-  https://netzpolitik.org/2025/digital-networks-act-entscheidender-herbst-fuer-netzneutralitaet/
-* Digital Fairness Act: Große Wünsche für mehr Verbraucherschutz im Netz
-  https://netzpolitik.org/2025/digital-fairness-act-grosse-wuensche-fuer-mehr-verbraucherschutz-im-netz/
-* Digital-Omnibus-Gesetz: Datenschutz: Bundesregierung will kleine Änderungen mit großer Wirkung
-  https://www.heise.de/news/Datenschutz-Bundesregierung-will-kleine-Aenderungen-mit-grosser-Wirkung-10965609.html
-* Bundesrechnungshof: Verwaltungsdigitalisierung droht zu scheitern – Ministerium wiegelt ab
-  https://correctiv.org/aktuelles/bundesrechnungshof/2025/10/10/bundesrechnungshof-warnt-verwaltungsdigitalisierung-droht-zu-scheitern-ministerium-wiegelt-ab/
+Der [Monitor Digital­politik](https://www.bitkom.org/Monitor-Digitalpolitik) vom IT-Branchenverband Bitkom gibt interaktiv Auskunft darüber, wie die einzelnen Ressorts der schwarz-roten Bundesregierung hinsichtlich ihrer geplanten digitalpolitischen Maßnahmen vorankommen.
+
+Dabei droht mit NOOTS (Nationales Once Only Technical System) ein zentraler Baustein Registermodernisierung zu scheitern. Aus Sicht des Bundesrechnungshofs fehlen sowohl eine gesicherte Finanzierung als auch ein tragfähiges Risikomanagement. Sollten die geplanten Meilensteine in der Umsetzung nicht rechtzeitig erreicht werden, droht zudem der Entzug der 275 Millionen Euro aus dem EU-Wiederaufbauplan. Und da [nach Correctiv-Recherchen](https://correctiv.org/aktuelles/bundesrechnungshof/2025/10/10/bundesrechnungshof-warnt-verwaltungsdigitalisierung-droht-zu-scheitern-ministerium-wiegelt-ab/) im Bundes-Haushalt bisher nur 129 von eigentlich 441 Millionen Euro abgesichert sind, ist dies nicht unwahrscheinlich.
+
+Die vor zehn Jahren von der EU gesetzlich festgeschriebe Netzneutralität soll im Rahmen des geplanten Digital Network Act (DNA) [in Teilen auf den Prüfstein](https://netzpolitik.org/2025/digital-networks-act-entscheidender-herbst-fuer-netzneutralitaet/). Spezialdienste wie garantiert latenzfreie medizinische Eingriffe übers Internet könnten dabei als Einfallstor dienen, bezahlte Überholspuren (Datenmaut) noch salonfähig zu machen und so das Prinzip eines freien Netzes, indem kein Datenverkehr bevorzugt noch diskriminiert wird, als solches in Frage zu stellen.
+
+Bessere Absichten verfolgt dagegen der ebenfalls [geplante Digital Fairness Act](https://netzpolitik.org/2025/digital-fairness-act-grosse-wuensche-fuer-mehr-verbraucherschutz-im-netz/), mit die EU Verbraucher stärker vor so genannten[Dark Patterns](https://de.wikipedia.org/wiki/Dark_Pattern) schützen möchte. Mit solchen Design-Konzepten versuchen manche E-Commerce-Anbieter Nutzende in ihren Konsumentscheidungen zu manipulieren.
 
 ## Digitale Souveränität
-* Wer Suchalgorithmen kontrolliert, kontrolliert den Zugang zum Wissen der Welt, zu unserer Geschichte und wie sie erinnert wird
-  https://freewebsearch.org/de/statement-anke-domscheitberg/
-* Cloud Sovereignty Framework
-  https://social.bund.de/@zendis/115452100903407687
-* Offiziell gegründet: EU-Konsortium für Digitale Gemeingüter (DC-EDIC)
-  https://social.bund.de/@zendis/115457991248595693
-## US-Software
-* Die US-Regierung nutzt Software als Druckmittel
-  https://social.bund.de/@zendis/115371537917426022
-* Amazon Web Services: Globale Störung am Montagmorgen
-  https://www.heise.de/news/Amazon-Web-Services-Globale-Stoerung-10778963.html
-  * Alle abhängig von Amazon (und Google und Microsoft)
-    https://www.zeit.de/digital/internet/2025-10/amazon-cloud-ausfall-digitale-infrastruktur-abhaengigkeit-internet
-* Störung bei Microsofts Cloud: Ausfälle bei Outlook und Co. gemeldet
-  https://www.heise.de/news/Stoerung-bei-Microsofts-Cloud-Ausfaelle-bei-Outlook-und-Co-gemeldet-10963686.html
-* Zugriffe durch Drittstaaten bei Delos Cloud möglich
-  https://www.golem.de/news/innenministerium-baden-wuerttemberg-zugriffe-durch-drittstaaten-bei-delos-cloud-moeglich-2510-201397.html
-  * Kann eine SAP-Microsoft-Cloud mit deutschem Rechenzentrum souverän sein?
-    https://digitalrechte.de/news/kann-eine-sap-microsoft-cloud-mit-deutschem-rechenzentrum-souveraen-sein-baden-wuertemberg-sagt-nein
-* Die Macht der Tech-Giganten
-  https://www.ardmediathek.de/video/monitor/die-macht-der-tech-giganten-trumps-waffe-gegen-europa/das-erste/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYWFhNDkwYzYtYmMyNS00MmVlLWJkODUtYjBkMmZkNGI1ZGE0
-  via https://social.osb-alliance.de/@OSBA/115423105024099178
-* Bayern plant ein Milliardenprojekt für die Verwaltung mit der Microsoft-Cloud.
-  https://social.osb-alliance.de/@OSBA/115446584978759097
-* Strafgerichtshof ersetzt Microsoft durch deutsche Lösung
-  https://www.handelsblatt.com/technik/it-internet/software-strafgerichtshof-ersetzt-microsoft-durch-deutsche-loesung/100166382.html
-  via https://chaos.social/@markus_netzpolitik/115461776255889971
-  * Internationaler Strafgerichtshof wirft Microsoft raus
-    https://www.heise.de/news/Internationaler-Strafgerichtshof-wirft-Microsoft-raus-10964080.html
-* Politik im Dienst von Big Tech
-  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/politik-im-dienst-von-big-tech
-* US Botschaft interveniert vor Digitalgipfel zu Digitale Souveränität
-  https://digitalrechte.de/news/us-botschaft-interveniert-vor-digitalgipfel-zu-digitale-souveraenitaet
-### Open Source
-* Schleswig-Holstein fördert mit seinem „Landesprogramm Offene Innovationen“ Open-Source-Projekte – und die 17 Gewinner für 2025 stehen fest
-  https://digitalhub.sh/de/schleswig-holstein-finanziert-17-open-source-projekte-zur-staerkung-der-digitalen-souveraenitaet
-  https://social.osb-alliance.de/@OSBA/115383104580902445
-* GA-Lotse
-  https://www.smartcountry.berlin/de/programm/programmueberblick#eventdate--Zero-Trust-in-Eigenregie:-Vorstellung-GA%E2%80%93Lotse--5f50dc79-e20f-4153-966a-fe338635baf1
-* Open Source-Software: geteilt oder geschlossen?
-  https://sharecast.podigee.io/7-6-open-source-software-geteilt-oder-geschlossen
-### End of Windows 10
-* Die Umstellung auf Windows 11 kostet Sachsen-Anhalts Behörden über vier Millionen Euro – und sorgt für tausende verschrottete Geräte.
-  https://www.mdr.de/nachrichten/sachsen-anhalt/landespolitik/windows-elf-umstellung-kosten-vier-millionen-104.html
-  via https://social.osb-alliance.de/@OSBA/115372136406368087 
-* Winboat
-  https://www.heise.de/news/Geht-wirklich-Photoshop-unter-Linux-10710828.html
-  https://www.winboat.app
-* Was tun, wenn der Computer nicht für Windows 11 geeignet ist?
-  https://netzpolitik.org/2025/von-windows-10-auf-linux-was-tun-wenn-der-computer-nicht-fuer-windows-11-geeignet-ist/
-* Digitalministerium ratlos: Keine Strategie für Umstieg auf Windows 11
-  https://netzpolitik.org/2025/digitalministerium-ratlos-keine-strategie-fuer-umstieg-auf-windows-11/
-### Deutschlandstack
-* Deutschlandstack – Mehr Chance als Risiko?
-  https://egovernment-podcast.com/egov234-deutschlandstack-scss25/
-* Konsultation 01.11. bis 30.11.
-  https://deutschland-stack.gov.de/beteiligung/
-* Deutschland-Stack: Was ist drin, im Baukausten für die digitale Verwaltung?
-  https://netzpolitik.org/2025/deutschland-stack-was-ist-drin-im-baukausten-fuer-die-digitale-verwaltung/
-* D-Stack Home
-  https://gitlab.opencode.de/dstack/d-stack-home
-  https://gitlab.opencode.de/dstack/d-stack-home/-/issues?sort=created_date&state=opened&first_page_size=100
-### Mastodon
-* Liste Mastodon Accounts Bundesbehörden (DE)
-  https://mastodon-listen.playground.54gradsoftware.de/?liste=bundesbehoerden-DE
-  via https://hachyderm.io/users/sabrinkmann/statuses/115316535595730277
-* Liste Mastodon Accounts Landesbehörden und Landesregierungen (DE)
-  https://mastodon-listen.playground.54gradsoftware.de/?liste=landesbehoerden-regierungen-DE
-* Grimme Online Award 2025: Mastodon stellvertretend für die Idee des Fediverse
-  https://www.grimme-online-award.de/2025/preistraeger/preistraeger-detail/d/mastodon-stellvertretend-fuer-die-idee-des-fediverse-1
-* Mastowall
-  https://rstockm.github.io/mastowall/
-  via https://chaos.social/@rstockm/115329089498616205
-* Werde Fediforscher
-  https://digitalcourage.de/fediforscher
-* Loops Joins the Fediverse
-  https://blog.joinloops.org/loops-joins-the-fediverse/
-* Ein lebensnahes Social Media Tool zur Vermittlung von Daten- und Medienkompetenz
-  https://info.instaclone.de
+### Einflussnahme
+Die [#FreeWebSearch-Charta](https://freewebsearch.org/de/freewebsearch-charta/) formuliert 10 Prinzipien für eine am Gemeinwohl ausgerichtete Websuche. Aus ihrer Sicht ist der Zugang zu Informationen ein Menschenrecht und kann nur durch eine Internetsuche als öffentliches Gut gewährleistet werden.
 
-## Energie
-* Mit dieser Studie lösen sich die Folgekosten der Energiewende in Luft auf
-  https://www.n-tv.de/wirtschaft/Mit-dieser-Studie-loesen-sich-die-Folgekosten-der-Energiewende-in-Luft-auf-article26070819.html
-  via https://digitalcourage.social/@midide/115305907822440689
+Wie abhängig deutsche Behörden und Unternehmen schon von einzelnen Software-Unternehmen sind, thematisiert das Poltik-Magazin Monitor in ["Die Macht der Tech-Giganten"](https://www.ardmediathek.de/video/monitor/die-macht-der-tech-giganten-trumps-waffe-gegen-europa/das-erste/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYWFhNDkwYzYtYmMyNS00MmVlLWJkODUtYjBkMmZkNGI1ZGE0).
+
+Kein Wunder also, dass die US-Regierung inzwischen auch Export-Kontrollen für Software [als Drohung einsetzt](https://social.bund.de/@zendis/115371537917426022), um ihre Interessen beim Handelsstreit mit der EU durchzusetzen. 
+
+So hat die EU die geplante Digitalsteuer auf Eis gelegt, sehr zum Unmut einiger mittelständiger Unternehmen, [wie beispielweise Petter Neby](https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/politik-im-dienst-von-big-tech), der mehr Rückgrat von der EU bei der Durchsetzung von Maßnahmen gegen die Monopolmacht von BigTech erwartet hätte.
+
+Auch im Vorfeld des Digitalgipfels zur Digitalen Souveränität versuchte die US-Botschaft, [die Themensetzung zu beeinflussen](https://digitalrechte.de/news/us-botschaft-interveniert-vor-digitalgipfel-zu-digitale-souveraenitaet). Am Ende muss man sich nicht wundern, bei den beschlossenen Maßnahmen nur ein Souveränitäts-Washing rauskommt.
+
+Die Frage "Kann eine SAP-Microsoft-Cloud mit deutschem Rechenzentrum souverän sein?" beantwortet inzwischen die Landesregierung in Baden-Württemberg [auch mit "Nein"](https://digitalrechte.de/news/kann-eine-sap-microsoft-cloud-mit-deutschem-rechenzentrum-souveraen-sein-baden-wuertemberg-sagt-nein), denn durch den US-Cloud-Act, können US-Sicherheitsbehörden weiterhin Microsoft anweisen, [Datenabfluss in seine Software einzubauen](https://www.golem.de/news/innenministerium-baden-wuerttemberg-zugriffe-durch-drittstaaten-bei-delos-cloud-moeglich-2510-201397.html) oder es zwingen, seine Geschäfte mit der Delos GmbH einzustellen, wodurch die keine notwendigen Updates eingespielt und damit die Cloud unsicher werden würde.
+
+Im Nachbar-Bundesland scheint das niemand zu stören, da wird weiterhin ein Milliardenprojekt für die Verwaltung mit der Microsoft-Cloud geplant, die Open Source Business Alliance hat [einen offenen Brief initiert](https://social.osb-alliance.de/@OSBA/115446584978759097), die 1 Milliarde Euro doch lieber in Open-Source-Lösungen zu investieren.
+
+Dabei gab es doch schon genügend Schüsse vor den Bug, um endlich mal umzudenken: So wurde dem Chefankläger Karim Khan im Mai diesen Jahres von Microsoft (auf Anweisung Donald Trumps) einfach sein E-Mail-Zugang gesperrt. Als Reaktion ist nun der Internationale Strafgerichtshof (IStGH) [auf OpenDesk vom Zentrum für Digitale Souveränität (Zendis) gewechselt](https://www.heise.de/news/Internationaler-Strafgerichtshof-wirft-Microsoft-raus-10964080.html).
+
+### Störungen
+Die globalen Ausfälle diverser Internet-Dienste am 20. Oktober morgens direkt zum Wochenstart [gingen auf das Konto des Cloud-Dienstes Amazon Web Services](https://www.heise.de/news/Amazon-Web-Services-Globale-Stoerung-10778963.html). Und das, obwohl gerade Cloud-Dienste immer mit ihrer hohen Ausfallsicherheit durch die globale Verteilung in verschiedenen Rechenzentren werben. Dennoch hatte ein DNS-Fehler in Virginia an der US-Ostküste [weltweite Auswirkungen](https://www.zeit.de/digital/internet/2025-10/amazon-cloud-ausfall-digitale-infrastruktur-abhaengigkeit-internet/komplettansicht).
+
+Doch Amazon war nicht der einzige BigTech-Player, der im Oktober nicht so zuverlässig war. Probleme bei Microsofts Cloud-Lösung Azure, speziell dessen [Content Delivery Networks](https://de.wikipedia.org/wiki/Content_Delivery_Network) (CDN), [führten Ende Oktober ebenfalls zu Ausfällen](https://www.heise.de/news/Stoerung-bei-Microsofts-Cloud-Ausfaelle-bei-Outlook-und-Co-gemeldet-10963686.html) bei Outlook und anderen MS-Diensten.
+
+Wenn das Netz durch Monopolbildung durch nicht so dezentral ist.
+
+### End of Windows 10
+Da das neue Windows 11 nicht auf älteren Rechner läuft, [kommen allein auf die Behörden in Sachsen-Anhalt](https://www.mdr.de/nachrichten/sachsen-anhalt/landespolitik/windows-elf-umstellung-kosten-vier-millionen-104.html) nach dem Ende der Updates für Windows 10 im Oktober Kosten von über vier Millionen Euro für die Anschaffung neuer Geräte zu. Diese Kosten sowie die tausenden verschrottete Rechner könnte man sich sparen, würde man die Chance nutzen [und gleich auf Open-Source-Alternativen wechseln](https://social.osb-alliance.de/@OSBA/115372136406368087).
+
+Auf Bundesebene sieht es nicht besser aus: [dort weiß man nicht mal](https://netzpolitik.org/2025/digitalministerium-ratlos-keine-strategie-fuer-umstieg-auf-windows-11/), welche Behörden und wie viele Rechner von der Umstellung betroffen sind. Microsoft stellt zwar noch weiter Sicherheits-Updates für Windows 10 bereit, für die allerdings nun zusätzliche Kosten anfallen können.
+
+Die Initiative "End of 10" [bietet Workshops an](https://netzpolitik.org/2025/von-windows-10-auf-linux-was-tun-wenn-der-computer-nicht-fuer-windows-11-geeignet-ist/), um seinen Rechner und Daten von Windows 10 auf eine Linux-Distribution zu migrieren.
+
+Dennoch scheuen noch viele den Umstieg, weil sie noch Anwendungen hängen, die vermeintlich nur unter Windows laufen. Dabei lassen sich mit [Wine](https://www.winehq.org) schon länger viele Programme auch unter Linux zum Laufen bringen und für ganze schwere Fälle, wie z.B. Photoshop scheint es nun mit [WinBoat](https://www.winboat.app) auch eine Lösung zu geben, wie [c't 3003 in diesem Video getestet hat](https://www.heise.de/news/Geht-wirklich-Photoshop-unter-Linux-10710828.html).
+
+### Open Source
+Im Rahmen des Landesprogramms Offene Innovation [finanziert Schleswig-Holstein](https://digitalhub.sh/de/schleswig-holstein-finanziert-17-open-source-projekte-zur-staerkung-der-digitalen-souveraenitaet) in diesem Jahr weitere 17 Open-Source-Lösungen mit insgesamt knapp drei Millionen Euro. Diese Projekte wurden am 14. Oktober von einer Jury als s würdig befunden, am besten die konkreten Herausforderungen in den öffentlichen Institutionen, Bildungseinrichtungen und gemeinnützigen Organisationen des Bundeslandes adressieren zu können.
+
+[ShareCast](https://sharecast.podigee.io/), den Podcast rund ums Datenteilen, gibt es seit dem 1. Juli diesen Jahres und veröffentlich etwa aller drei Wochen eine neue Folge. In der [sechsten Episode](https://sharecast.podigee.io/7-6-open-source-software-geteilt-oder-geschlossen) vom 14. Oktober ging es um Open Source-Software, wie genau hier zusammengearbeitet und geteilt wird, und auch um Konfliktlinien innerhalb dieser Welt "freier Software".
+
+### Deutschlandstack
+[Netzpolitik erklärt](https://netzpolitik.org/2025/deutschland-stack-was-ist-drin-im-baukausten-fuer-die-digitale-verwaltung/), was das Prestigeprojekt des neu gegründeten Ministeriums für Digitales und Staatsmodernisierung, der Deutschland-Stack und seine zentralen Basiskomponenten überhaupt sind. Noch wirkt vieles sehr schwammig. Zu mindest gibt es im November über die neue [Einstiegsseite](https://deutschland-stack.gov.de) die Möglichkeit für die interessierte Öffentlichkeit, [Feedback zu geben](https://deutschland-stack.gov.de/beteiligung/) zum initialen Entwurf der Standards und Technologien. Im zugehörigen [Open-Code-Projekt](https://gitlab.opencode.de/dstack/d-stack-home) gibt es zudem einen offenen [Issue-Tracker](https://gitlab.opencode.de/dstack/d-stack-home/-/issues?sort=created_date&state=opened&first_page_size=100).
+
+Auf dem SCS-Summit 2025 hat der eGovernment Podcast mit Gästen und Publikumsbeteiligung [Chancen und Risiken des Deutschland Stack erörtert](https://egovernment-podcast.com/egov234-deutschlandstack-scss25/).
+
+### EU-Maßnahmen
+Mit dem neuen ["Cloud Sovereignty Framework"](https://commission.europa.eu/document/download/09579818-64a6-4dd5-9577-446ab6219113_en?filename=Cloud-Sovereignty-Framework.pdf) hat die EU die Kriterien [definiert](https://social.bund.de/@zendis/115452100903407687), wonach die Souveränität von Cloud-Diensten bewertet werden kann.
+
+Das [EU-Konsortium für Digitale Gemeingüter (DC-EDIC)](https://digital-strategy.ec.europa.eu/en/policies/edic) wurde am 29. Oktober [offiziell gegründet](https://social.bund.de/@zendis/115457991248595693), um die EU-Mitgliedsstaaten zu befähigen, länderübergreifend an eben solche Projekten arbeiten zu können.
+
+### Mastodon
+Beim diesjährigen Grimme Online Award wurde Mastodon stellvertretend für die Idee des Fediverse [ausgezeichnet](https://www.grimme-online-award.de/2025/preistraeger/preistraeger-detail/d/mastodon-stellvertretend-fuer-die-idee-des-fediverse-1).
+
+Hoffentlich auch eine Motiviation für Organisationen und Behörden, die noch nicht im Fediverse aktiv sind, dies zu ändern. Samuel Brinkmann hat sowohl eine Auflistung der bestehenden Mastodon-Accounts von [Bundesbehörden](https://mastodon-listen.playground.54gradsoftware.de/?liste=bundesbehoerden-DE) als auch auch [Landesbehörden und Landesregierungen](https://mastodon-listen.playground.54gradsoftware.de/?liste=landesbehoerden-regierungen-DE) in Deutschland [erstellt](https://hachyderm.io/users/sabrinkmann/statuses/115316535595730277).
+  
+Und auch den Aufmerksamkeitsspannenlimitierten fehlt mit der Tiktok-Alternative Loops nun eine Ausrede, nicht zu wechseln, denn diese ist nun offziell dem Fediverse [beigetreten](https://blog.joinloops.org/loops-joins-the-fediverse/). Es kann mit jeder ActivityPub-basierten Plattform interagieren. 
+
+Für die Twitterwall gibt es mit der [Mastowall](https://rstockm.github.io/mastowall/) dank Ralf Stockmann [eine Entsprechung](https://chaos.social/@rstockm/115329089498616205).
+
+[Instaclone](https://info.instaclone.de) imitiert Aussehen und Funktionalität von Instagram, um Schülern in der Sekundarstufe lebensnah Daten- und Medienkompetenz in Social-Media zu vermitteln. 
+
+Von DigitakCourage [gibt es einen Aufruf](https://digitalcourage.de/fediforscher), Fediforscher zu werden und hat dazu ein paar Forschungsfragen gestellt, seine gewonnene Erkenntnisse soll man dann über das Hashtag #fediforschung teilen.
 
 ## Karten
 * Authoritative Data is Not More Right Just Because It’s Authoritative
@@ -196,6 +169,12 @@ Das Umweltbundesamt (UBA) hat die "Berliner Erklärung über den offenen Zugang 
   via https://mamot.fr/@roofjoke/115371595751772613
 * Ein bisschen Kinderarbeit ist okay
   https://fragdenstaat.de/artikel/exklusiv/2025/10/ein-bisschen-kinderarbeit-ist-okay/?pk_campaign=mastodon
+## Energie
+* Mit dieser Studie lösen sich die Folgekosten der Energiewende in Luft auf
+  https://www.n-tv.de/wirtschaft/Mit-dieser-Studie-loesen-sich-die-Folgekosten-der-Energiewende-in-Luft-auf-article26070819.html
+  via https://digitalcourage.social/@midide/115305907822440689
+
+
 
 ## Journalismus
 * Wie man ein Stöckchen hält
@@ -208,6 +187,9 @@ Das Umweltbundesamt (UBA) hat die "Berliner Erklärung über den offenen Zugang 
   https://www.telepolis.de/article/Antibiotikaresistenz-Die-stille-Pandemie-eskaliert-10761042.html
 * Innenraumluft: Dicke Luft – die unbekannte Produktivitätsbremse
   https://www.wiwo.de/technologie/forschung/innenraumluft-dicke-luft-die-unbekannte-produktivitaetsbremse/100167056.html
+* GA-Lotse
+  https://www.smartcountry.berlin/de/programm/programmueberblick#eventdate--Zero-Trust-in-Eigenregie:-Vorstellung-GA%E2%80%93Lotse--5f50dc79-e20f-4153-966a-fe338635baf1
+
 
 ## Kultur
 * Was bringt ein Hackathon mit Kulturdaten?
@@ -355,13 +337,10 @@ Das Umweltbundesamt (UBA) hat die "Berliner Erklärung über den offenen Zugang 
   https://bsky.app/profile/yoran.com/post/3m4knnv3mes2y
 
 ## Fristen
-* NIAM 2026, CfP bis 15.11.2025
-  https://norden.social/users/cartocalypse/statuses/115383434798594910
-* The Weizenbaum Journal of the Digital Society, CfP bis 17.11.2025
-  https://www.weizenbaum-institut.de/news/detail/special-issue-celebrating-60-years-of-eliza-critical-pasts-and-futures-of-ai/
+* [NIAM 2026, CfP](https://norden.social/users/cartocalypse/statuses/115383434798594910) bis 15.11.2025
+* The Weizenbaum Journal of the Digital Society, [CfP bis 17.11.2025](https://www.weizenbaum-institut.de/news/detail/special-issue-celebrating-60-years-of-eliza-critical-pasts-and-futures-of-ai/)
 * Jahrgang 02 des PrototypeFund, [Bewerbung bis 30.11.2025](https://www.prototypefund.de/blog/bewerbt-euch-jetzt-fuer-jahrgang-02)
-* Open Rail Association auf FOSDEM 2026, CfP bis 30.11.2025
-  https://github.com/OpenRailAssociation/FOSDEM
+* Open Rail Association auf FOSDEM 2026, [CfP bis 30.11.2025](https://github.com/OpenRailAssociation/FOSDEM)
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Samstag, 01.11.2025, bis Sonntag, 30.11.2025, 23:59, online: **30DayMapChallenge** <a title='Kalendereintrag 30DayMapChallenge' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vMzBEYXlNYXBDaGFsbGVuZ2UvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTExMDhUMTY0NjI3Wg0KRFRTVEFSVDoyMDI1MTEwMVQwMDAwMDANCkRURU5EOjIwMjUxMTMwVDIzNTk1OQ0KU1VNTUFSWTozMERheU1hcENoYWxsZW5nZQ0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly8zMGRheW1hcGNoYWxsZW5nZS5jb20NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
