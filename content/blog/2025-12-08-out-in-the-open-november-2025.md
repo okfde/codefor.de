@@ -427,6 +427,8 @@ type: blog
   https://fedihum.org/@SODa/115621073070660200
 
 ## Wirtschaft / Gesellschaft
+* Neuer Oxfam-Bericht: Vermögen von EU-Milliardären wuchs in der ersten Jahreshälfte um mehr als 400 Milliarden Euro
+  https://www.l-iz.de/politik/kassensturz/2025/10/neuer-oxfam-bericht-vermogen-eu-milliardare-erste-jahreshalft-400-milliarden-euro-635966
 * Wachsende wirtschaftliche Ungleichheit: Das ist demokratiegefährdend
   https://taz.de/Wachsende-wirtschaftliche-Ungleichheit/!6126371/
 * Überbrückungsfonds

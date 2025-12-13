@@ -12,45 +12,31 @@ type: blog
 ---
 
 ## Open Data
-* Clima Tricorder
-  https://clima-tricorder.netlify.app
-  via https://mastodon.social/@alfonsoAIData/115309484090182781
-* Die Datenlizenz Deutschland als DDR der Lizenzen
-  https://stefan.bloggt.es/2025/10/probleme-mit-dcat-ap-de-heute-lizenzen/  
-* Udemy-Kurs "Offene Daten - offenes Wissen" - ein Einführungskurs zu offenen Daten für Verwaltungen und NGOs. 
-  https://www.udemy.com/course/offenedaten/?referralCode=E146C220CCD3CFC097B6
-  via https://mastodon.social/@krabina/115380216411265859
-* We talk about openness, but hardly anyone looks inside the box. 
-  https://mstdn.science/@serhii/115412135665281632
-* Zürich: Launch of the Public Data Lab
-  https://spatialists.ch/posts/2025/10/26-launch-of-the-public-data-lab/
-* Unsere Datenhighlights des Monats Oktober: Wanderwege & Radtouren in Bayern
-  https://www.linkedin.com/posts/ocbydata_opendata-bytethesystem-opendata-activity-7384480457435844610-ltWT
-* GovData arbeitet derzeit dran, den Musterdatenkatalog der Bertelsmann Stiftung zu übernehmen
-  https://www.linkedin.com/posts/govdata-de_govdata-musterdatenkatalog-opendata-ugcPost-7388596768575229952-8svW
-* Open Data Literacy: Neuer Lernpfad Open Data verfügbar!
-  https://www.linkedin.com/posts/bundesverwaltungsamtde_opendata-datenkompetenzen-opendata-activity-7382351233551867904-4X8n
+Bereits 2017 entstand der erste [Muster-Datenkatalog](https://www.opendataportal.at/katalog/de/dataset/muster-datenkatalog-stadte#additional-info), damals noch für den Österreichischen Städtebund. Er sollte Städten als Orientierung dienen, welche Daten sich von ihnen in welcher Form sinnvoll als Open Data bereitstellen lassen. Die Idee wurde für Deutschland zunächst als [Prototyp](https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/projektnachrichten/musterdatenkatalog-welche-offenen-daten-stellen-kommunen-zur-verfuegung) für Nordrhein-Westfahlen 2019 aufgegriffen. Die [Version 4.0](https://github.com/bertelsmannstift/Musterdatenkatalog-V4/tree/main/musterdatenkatalog) enthielt 2023 dann schon etwa [350 Kommunen]((https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/der-neue-musterdatenkatalog-mehr-kommunen-und-neue-struktur)) bundesweit. 2025 ist er auf fast 30.000 Datensätze [angewachsen](https://www.bertelsmann-stiftung.de/de/unsere-projekte/smart-country/musterdatenkatalog). Die weitere Pflege des Katalogs [übernimmt nun](https://www.linkedin.com/posts/govdata-de_govdata-musterdatenkatalog-opendata-ugcPost-7388596768575229952-8svW) Deutschlands nationales Metadatenportal für Open Government Data, GovData. Die Weisheit der Masse (Crowdsouring) soll [mithelfen](https://daten.musterdatenkatalog.de), die Qualität des Katalogs stetig zu verbessern. 
+
+open.bydata [leistet seinen Beitrag](https://www.linkedin.com/posts/ocbydata_opendata-bytethesystem-opendata-activity-7384480457435844610-ltWT), in dem sie in ihren Datenhighlights für Oktober beispielhaft Datensätze zu Wanderwegen und Radtouren in Bayern vorstellen. 
+
+Trotz steigender Zahl offener Datensätze lässt deren (Nach-)Nutzung noch zu wünschen übrig, wie [die Auswertung](https://mstdn.science/@serhii/115412135665281632) einer Studie zu mindestens für den Forschungsbereich Biomedizin [zeigte](https://www.sciencedirect.com/science/article/abs/pii/S1751157725000999?via%3Dihub). 
+
+Das [neugegründete](https://spatialists.ch/posts/2025/10/26-launch-of-the-public-data-lab/) Public Data Lab [(PDL)](https://publicdatalab.ch) in Zürich möchte Daten sammeln und analysieren, um besser zu verstehen, wodurch Veränderungen getrieben werden und wie die Gesellschaft auf sie reagiert. Durch aus diesen Daten abgeleiteten Indikatoren sollen Lebensqualität messbar und informierte Entscheidungen unterstützt werden. Kreative Veranstaltungsformate sollen das Bewusstsein für das Zusammenspiel solcher Indikatoren auch in der breiten Öffentlichkeit schärfen.  
+
+Stefan [erinnert daran](https://stefan.bloggt.es/2025/10/probleme-mit-dcat-ap-de-heute-lizenzen/), dass die DCAT-AP.de-Lizenzliste keine "Positivliste" aller auch jetzt noch zulässigen Lizenzen sein sollte und somit längst als deprecated markierte Lizenz(-versionen) entsprechend auch nicht neuen Datensätzen zugeordnet werden sollten.
+
+### Wissen
+Im kostenlosen Udemy-Kurs ["Offene Daten - offenes Wissen"](https://www.udemy.com/course/offenedaten/) erklärt Bernhard Krabina in knapp 75 Minuten neben der Motivation für und den Grundlagen von offenen Daten auch wie man selbst einen Datenkatalog systematisch aufbauen kann.
+
+Nicht ganz so offen ist der [Lernpfad Open Data](https://www.linkedin.com/posts/bundesverwaltungsamtde_opendata-datenkompetenzen-opendata-activity-7382351233551867904-4X8n), den das Kompetenzzentrum Open Data gemeinsam mit der Open Data Koordinatorin Josephine Bernickel und das Haus Boppard der Bundesakademie für öffentliche Verwaltung e.V. erarbeitet haben. Dieser steht nur jenen zur Verfügung, die auch Zugang zur Lernplattform ILIAS haben.
 
 ### Linked Open Data
-* Checkliste: Linked Open Data für Verwaltungen
-  https://okfn.de/blog/2025/10/checkliste-linked-open-data-f%C3%BCr-verwaltungen/
-  https://okfn.de/publikationen/checkliste-lod/
-* Knowledge Graphs with MediaWiki
-  https://de.slideshare.net/slideshow/knowledge-graphs-with-mediawiki-krabina-ijckg-2025/283834728
-  via https://mastodon.social/@krabina/115388863250584243
-* Mehr digitales Gemeinwohl durch Wiki-Projekte – Wikidata wird als Digital Public Good anerkannt
-  https://blog.wikimedia.de/2025/10/29/wikidata-wird-als-digital-public-good-anerkannt/
+Die Open Knowledge Foundation hat [eine Checkliste](https://okfn.de/publikationen/checkliste-lod/) zusammengetragen, die die Bedingungen für eine gelingende Veröffentlichung von Linked Open Data für Verwaltungen [ausformuliert](https://okfn.de/blog/2025/10/checkliste-linked-open-data-f%C3%BCr-verwaltungen/). An sich klassisches Projektmanagement, also Analyse schon bestehender Lösungen, Anforderungserhebung, Identifizieren und Einbeziehen von Stakeholdern, Festlegen von Arbeitspaketen Verantwortlichkeiten, Kompetenzaufbau, Fokusierung auf eine gut abgegrenzte Fragestellung, Feedbackschleifen.
 
-## Open Science
-* Archive fediverse conversations to Zenodo 
-  https://indieweb.social/@bonfire/115337763879300622
-* UBA unterzeichnet "Berliner Erklärung über den offenen Zugang zu wissenschaftlichem Wissen"
-  https://www.umweltbundesamt.de/themen/umweltbundesamt-unterzeichnet-berliner-erklaerung
+Wie man Wissensgraphen mit MediaWiki aufbauen und kuratieren kann, zeigt [die folgende Präsentation](https://de.slideshare.net/slideshow/knowledge-graphs-with-mediawiki-krabina-ijckg-2025/283834728). Das hier auch erwähnt WikiData, selbst ein Wissengraph, wurde Im Oktober als [Digital Public Good anerkannt](https://blog.wikimedia.de/2025/10/29/wikidata-wird-als-digital-public-good-anerkannt/).
 
-## Statistik
-* Neuer Oxfam-Bericht: Vermögen von EU-Milliardären wuchs in der ersten Jahreshälfte um mehr als 400 Milliarden Euro
-  https://www.l-iz.de/politik/kassensturz/2025/10/neuer-oxfam-bericht-vermogen-eu-milliardare-erste-jahreshalft-400-milliarden-euro-635966
+### Open Science
+Wissenschaftler tauschen sich zunehmend öffentlich in angeregten Diskussionen auf Social Media aus. Um auch aus dieser Quelle korrekt zitieren zu können, [kann man bald](https://indieweb.social/@bonfire/115337763879300622) mit dem Open Science Network 1.0 Fediverse-Unterhaltungen nach Zenodo archivieren. Alle Beteiligten werden entsprechend als Co-Autoren erfasst. 
 
+Das Umweltbundesamt (UBA) hat die "Berliner Erklärung über den offenen Zugang zu wissenschaftlichem Wissen" [unterzeichnet](https://www.umweltbundesamt.de/themen/umweltbundesamt-unterzeichnet-berliner-erklaerung). Es verpflichtet sich damit, seine Publikationen in seinem Publikationsserver [openUMWELT](https://openumwelt.de/home) dauerhaft zur Verfügung zu stellen.
+  
 ## Digitalpolitik
 * Monitor Digital­politik
   https://www.bitkom.org/Monitor-Digitalpolitik
