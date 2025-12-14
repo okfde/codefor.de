@@ -212,26 +212,23 @@ Die KI-Verordnung der EU verbietet im Artikel 5 "Datenbanken zur Gesichtserkennu
 
 ## Künstliche Aufgeregtheit
 ### Neue Software  
-* KI-Browser Comet von Perplexity nun frei verfügbar
-  https://social.heise.de/users/heiseonline/statuses/115316789121300040
-  * Verlieren wir durch KI die unabhängige Presse?
-    https://www.telepolis.de/article/Verlieren-wir-durch-KI-die-unabhaengige-Presse-10777722.html
-* Gemini 2.5 Computer Use – optimiert für die Browsernutzung
-  https://www.heise.de/news/Gemini-2-5-Computer-Use-Googles-KI-nutzt-den-Browser-10736985.html
+[Ein Gutachten](https://www.die-medienanstalten.de/service/gutachten/ki-suchmaschinen/) im Auftrag der Medienanstalten zeigt die Auswirkungen auf die Meinungsvielfalt, wenn KI-Anwendungen zunehmend in Suchmaschinen integriert werden. und ihre Auswirkungen auf die Meinungsvielfalt. Die zu Grunde liegenden Daten wurden im Mai 2025 erhoben und [zeigen bis zu 50 Prozent Traffic-Verluste](https://www.telepolis.de/article/Verlieren-wir-durch-KI-die-unabhaengige-Presse-10777722.html), ein Riesenproblem für alle Anbieter, die sich über auf ihren Seiten geschaltet Werbung finanzieren. Bei reinen KI-Angeboten wie Perplexity.ai oder ChatGPT fehlen die Quellenangaben gleich ganz. Perplexity geht inzwischen soweit, mit [Comet](https://social.heise.de/users/heiseonline/statuses/115316789121300040) einen eigenen Browser frei anzubieten, der auf Wunsch auch noch das eigene E-Mail-Postfach und Dokumentenablage mit für die Suche zu analysieren. 
+
+Gemini und Claude besitzen inzwischen [einen Computer-Use-Modus](https://www.heise.de/news/Gemini-2-5-Computer-Use-Googles-KI-nutzt-den-Browser-10736985.html), mit dem sie den Browser selbst steuern können und so als Agent Formulare ausfüllen, sich durch Webseiten klicken und Inhalte scrollen können. 
+
+OpenAIs neue Video-Generierungs-App Sora2 findet der c't 3003 Test [beeindruckend und unangenehm zugleich](https://www.heise.de/news/Sora-2-ist-beeindruckend-und-unangenehm-10777838.html). [Bei Basic Thinking](https://www.basicthinking.de/blog/2025/10/06/sora-ki-app-openai/) sieht man sie als KI-App für Deepfakes, auch schon weil nach Vorstellungen von OpenAI Rechteinhaber der Verwendung ihres Materials ausdrücklich widersprechen zu haben, um nicht bei Sora verwurstet zu werden. Auch wenn die Vorgeschaltete Verifizierung DeepFakes vorbeugen soll, ist der Missbrauch jetzt schon absehbar. Juristen waren jetzt schon, dass Fakes von "historischen Figuren" von OpenAI genutzt werden, [um die Grenzen des Persönlichkeitsrechts auszuloten](https://www.freitag.de/autoren/the-guardian/dating-mit-heinrich-viii-auf-sora-2-wie-viel-deepfake-darf-ki). Und politisch wird Sora bereits missbraucht, wie der Fall mit eines Video von Jugendlichen, die sich in einer Talkshow kritisch zur deutschen Migrationspolitik äußern, [zeigt](https://correctiv.org/faktencheck/2025/10/22/vermeintliche-talkshow-mit-jugendlichen-ueber-migrationspolitik-ist-ki-fake/).
+
+
+  
 * Das Wikidata Embedding-Projekt zeigt, dass KI-Systeme nicht zwingend von Big Tech abhängen müssen.
   https://blog.wikimedia.de/2025/10/01/wikidata-embedding-projekt-geht-live/
   via https://social.wikimedia.de/@wikimediaDE/115389067686651255
-* Sora 2 ist beeindruckend (und unangenehm)
-  https://www.heise.de/news/Sora-2-ist-beeindruckend-und-unangenehm-10777838.html
-  * Sora: Eine KI-App für Deepfakes – von OpenAI
-    https://www.basicthinking.de/blog/2025/10/06/sora-ki-app-openai/
-  * Juristen warnen davor, dass OpenAI "historische Figuren" benutze, um die Grenzen des Persönlichkeitsrechts auszutesten  
-    https://www.freitag.de/autoren/the-guardian/dating-mit-heinrich-viii-auf-sora-2-wie-viel-deepfake-darf-ki
-  * Vermeintliche Talkshow mit Jugendlichen über Migrationspolitik ist KI-Fake
-    https://correctiv.org/faktencheck/2025/10/22/vermeintliche-talkshow-mit-jugendlichen-ueber-migrationspolitik-ist-ki-fake/
+
 * OpenMates
   https://github.com/glowingkitty/OpenMates
   via https://chaos.social/@tbsprs/115453445569184986
+
+
 ### Wissen
 * E-Learning "KI-Kompetenzen für das Gemeinwohl"
   https://moodle.gi.de/moodle/
@@ -244,6 +241,8 @@ Die KI-Verordnung der EU verbietet im Artikel 5 "Datenbanken zur Gesichtserkennu
   https://www.heise.de/news/Lokale-KI-Modelle-sind-jetzt-brauchbar-und-auf-dieser-Hardware-laufen-sie-10864518.html
 * Den gesamten Lebenszyklus im Blick: Tipps für nachhaltigere KI-Entwicklung und -Nutzung
   https://reset.org/den-gesamten-lebenszyklus-im-blick-tipps-fuer-nachhaltigere-ki-entwicklung-und-nutzung/
+
+
 ### Jobverlust
 * Replacement.AI
   https://replacement.ai
@@ -253,6 +252,8 @@ Die KI-Verordnung der EU verbietet im Artikel 5 "Datenbanken zur Gesichtserkennu
   https://www.youtube.com/watch?v=675d_6WGPbo
 * KI spart kaum Arbeitszeit
   https://taz.de/Studien-belegen-dass-der-Einsatz-von-KI-keine-Effizienzgewinne-in-Unternehmen-bringt/!6125562/
+
+
 ### Slop
 * KI - Der Tod des Internets
   https://www.arte.tv/de/videos/122187-000-A/ki-der-tod-des-internets/
@@ -269,6 +270,8 @@ Die KI-Verordnung der EU verbietet im Artikel 5 "Datenbanken zur Gesichtserkennu
   https://shitpost.trade/users/xyla/statuses/115310603490897961
 * Karpathy's U-Turn on Vibe Coding: From Enthusiast to Critic
   https://www.linkedin.com/posts/dr-jeffrey-funk-a979435_technology-innovation-artificialintelligence-activity-7386358384255692801-vWL-
+
+
 ### Sicherheit
 * Data Poisoning bei LLMs: Feste Zahl Gift-Dokumente reicht für Angriff
   https://www.heise.de/news/Data-Poisoning-bei-LLMs-Feste-Zahl-Gift-Dokumente-reicht-fuer-Angriff-10764834.html
