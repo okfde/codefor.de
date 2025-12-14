@@ -109,17 +109,15 @@ Für die Twitterwall gibt es mit der [Mastowall](https://rstockm.github.io/masto
 Von DigitakCourage [gibt es einen Aufruf](https://digitalcourage.de/fediforscher), Fediforscher zu werden und hat dazu ein paar Forschungsfragen gestellt, seine gewonnene Erkenntnisse soll man dann über das Hashtag #fediforschung teilen.
 
 ## Karten
-* Authoritative Data is Not More Right Just Because It’s Authoritative
-  https://www.openstreetmap.org/user/tordans/diary/407524
-* Versatiles Free satellite map data
-  https://versatiles.org/satellite_demo/
-  via https://mastodon.social/@VersaTiles/115338107124210064
-* BR-Analyse zeigt Grad der Zerstörung im Gazastreifen
-  https://www.br.de/nachrichten/deutschland-welt/br-analyse-zeigt-grad-der-zerstoerung-im-gazastreifen,V0Fa6Vo
-* Geocomputation with Python
-  https://py.geocompx.org
-* Mapping Underground Structures with 3D Scans
-  https://wilkinson.graphics/blog/2025-10-25-3d-mapping/
+Das [HeiGIT (Heidelberg Institute for Geoinformation Technology)](https://heigit.org/) hat zusammen mit dem [Bundesamt für Kartographie und Geodäsie (BKG)](https://www.bkg.bund.de/DE/Home/home.html) in einer [Studie](https://heigit.org/enhancing-osm-data-quality-analysis-the-thematic-accuracy-of-land-cover-in-germany-displayed-in-the-ohsome-dashboard/), die im Rahmen ihres [Projekts zur Bewertung der Qualität von OpenStreetMap](https://heigit.org/openstreetmap-quality/) entstanden ist, die Abweichungen bei den Daten zur Landbedeckung und Landnutzung zwischen OpenStreetMap und dem offiziellen [CORINE Land Cover (CLC)](https://metadaten.uba.de/smartfinder-client/?lang=de#/search?filter=&term=CORINE&core=) Daten bestimmt. Sie können in den Dashboards zur [OSM History And Quality Analysis](https://dashboard.ohsome.org/en/#backend=oqtApi&topic=land-cover&indicators=mapping-saturation) näher betrachtet werden. So stimmen die OSM-Daten in 80% in machen Bereichen sogar in 90% der Fällen mit den offiziellen Daten überein.[Tobias Jordans](https://github.com/tordans) von [Fix My City](https://fixmycity.de) erinnert allerdings daran, [dass die offiziellen Daten nicht automatisch richtiger sind](https://www.openstreetmap.org/user/tordans/diary/407524), nur weil sie offiziell sind. In OpenStreetMap lassen sich schnell Korrekturen vornehmen und sind durch den Dokumentationsprozess auch nachvollziehbar, während bei den offiziell veröffentlichten Datensätze solche Korrekuren weder vorgesehen noch möglich sind. Sie kommen dann erst beim nächsten Release-Zyklus, der ein oder mehere Jahre in der Zukunft liegt.
+
+[Versatiles](https://versatiles.org) als OpenSource-Lösung für die Erzeugung, Verteilung und Nutzen von Kartenkacheldaten [hat](https://mastodon.social/@VersaTiles/115338107124210064) einen [ersten Prototypen](https://versatiles.org/satellite_demo/) veröffentlicht, der freie Aufnahmen von Satelliten und Befliegungen ([Orthofotos](https://de.wikipedia.org/wiki/Orthofoto)) nutzt.
+
+Auf solchen Fotos basieren auch die [BR-Analysen](https://www.br.de/nachrichten/deutschland-welt/br-analyse-zeigt-grad-der-zerstoerung-im-gazastreifen,V0Fa6Vo), die den Grad der Zerstörung im Gazastreifen nach zwei Jahren Krieg auswerten. 
+
+Henry Wilkinson [beschreibt auf seinem Blog den Prozess](https://wilkinson.graphics/blog/2025-10-25-3d-mapping/), mit dem er die Daten aus den mit dem LIDAR-Sensor seines Smartphones erzeugten 3D-Scans von unterirdischen Bauten (z.B. U-Bahn-Stationen, Einkaufscenter) in die OpenStreetMap übertragen bekommen hat.
+
+Einblick in die Geodatenanalyse mit OpenSource-Software bietet das Open-Access-Buch [Geocomputation with Python](https://py.geocompx.org).
 
 ## Mobilität
 * Warum bei der Bahn zwei Tickets für eine Fahrt teils günstiger sind als eins
