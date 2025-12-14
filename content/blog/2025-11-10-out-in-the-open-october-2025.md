@@ -120,14 +120,9 @@ Henry Wilkinson [beschreibt auf seinem Blog den Prozess](https://wilkinson.graph
 Einblick in die Geodatenanalyse mit OpenSource-Software bietet das Open-Access-Buch [Geocomputation with Python](https://py.geocompx.org).
 
 ## Mobilität
-* Warum bei der Bahn zwei Tickets für eine Fahrt teils günstiger sind als eins
-  https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/bahn-hack-tickets-lukas-weihrauch-100.html
-* VeloNest: Finde verlässliche Fahrradparkplätze, bevor du ankommst.
-  https://velonest.ch/
-  via https://swiss.social/@joshuabeny1999/115445253743441141
-* Themenmonat Oktober: Sicher unterwegs?!
-  https://www.mobil-auf-deine-weise.de/themenmonate/oktober/
-  via https://mastodon.social/@ioew/115446504124870911
+[Mobil auf deine Weise](https://www.mobil-auf-deine-weise.de/) widmete sich im Oktober dem Thema [Verkehrssicherheit](https://www.mobil-auf-deine-weise.de/themenmonate/oktober/). Neben vielen Statistiken zu Unfällen, Verkehrstoten, Verkehrsflächenanteile, werden auch Konzepte wie "Vision Zero" (keine Verkehrstoten mehr) und "8 to 80 Cities" (Barrierfreiheit für 8-jährige als auch 80-jährige) vorgestellt.
+
+Lukas Weihrauch hat mit [BetterBahn](https://betterbahn.de) eine OpenSource-App entwickelt, mit der man mit so genanntem "Split Ticketing" Geld beim Bahnfahren [sparen kann](https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/bahn-hack-tickets-lukas-weihrauch-100.html). Denn da die Bahn ihre Preise nach Auslastung der Züge berechnet, kann es unter Umständen günstiger sein, nicht den direkten Zug zwischen zwei Städten zu nehmen, sondern besser zwei oder mehr Teilstrecken zu buchen. So lassen sich bis zu 50 Euro für eine Fahrt sparen. Die App nutzt einen Algorithmus, um eben solche Fälle aufzuspüren. Aber statt ihr kompliziertes Ticket- und Preissystem in Frage zu stellen, ist die Bahn selbst nicht mal dazu bereit, die Auslastungsdaten über eine API frei zur Verfügung zu stellen. Die ist nur Geschäftspartnern vorbehalten.  
 
 ## Klima
 * 10 Years Post Paris
