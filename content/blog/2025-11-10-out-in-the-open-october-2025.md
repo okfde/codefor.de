@@ -202,14 +202,13 @@ Dann doch lieber den Datentransfer von Satelliten mitschneiden, da sind wenigste
 [Offen wie ein Scheunentor](https://zerforschung.org/posts/sihot/) ist auch die Buchungssoftware, die manche Hotels (auch große Ketten) einsetzen, wie Zerforschung mit Erschrecken feststellen musste.
 
 ## Überwachung
-* Petition: Keine Nutzung der Software "Gotham" von Palantir in Baden-Württemberg
-  https://petitionen.landtag-bw.de/Petitionen/Details/b64b8bd2-08aa-40e2-83f1-1c1f85187da4
-* Verhaltensscanner im Mannheim: Hier wird die Überwachung getestet, die so viele Städte wollen
-  https://netzpolitik.org/2025/verhaltensscanner-im-mannheim-hier-wird-die-ueberwachung-getestet-die-so-viele-staedte-wollen/
-* EU arbeitet an ausufernder Vorratsdatenspeicherung
-  https://netzpolitik.org/2025/interne-dokumente-eu-arbeitet-an-ausufernder-vorratsdatenspeicherung/
-* Biometrische Überwachung: "Körperdaten sind keine freie Verfügungsmasse"
-  https://netzpolitik.org/2025/biometrische-ueberwachung-koerperdaten-sind-keine-freie-verfuegungsmasse/
+"Zugang zu Daten für eine wirksame Strafverfolgung" - die EU möchte die Vorratsdatenspeicherung von Verbindungsdaten [neu auflegen](https://netzpolitik.org/2025/interne-dokumente-eu-arbeitet-an-ausufernder-vorratsdatenspeicherung/). Betroffen wären Messenger und verschlüsselte Kommunikation generell. Auch ein Ausweis-Zwang für Mobilfunk-Anschlüsse wird diskutiert. 
+
+Videoüberwachung mit KI-gestützter Verhaltenserkennung wird in Mannheim [schon seit sieben Jahren getestet](https://netzpolitik.org/2025/verhaltensscanner-im-mannheim-hier-wird-die-ueberwachung-getestet-die-so-viele-staedte-wollen/), mit nachweisbaren Auswirkungen auf das Verhalten der Menschen. Trotz des langen Testzeitraums, kann die Polizei die Nutzen nicht belegen: "Der für das Projekt ablesbare Erfolg besteht in der stetigen Weiterentwicklung des Systems und kann zum derzeitigen Projektstand nicht mit Kennzahlen dargestellt werden".
+
+Die KI-Verordnung der EU verbietet im Artikel 5 "Datenbanken zur Gesichtserkennung durch das ungezielte Auslesen von Gesichtsbildern aus dem Internet oder von Überwachungsaufnahmen" zu erstellen oder zu erweitern. Und ohne solche Datenbanken ist eine polizeilichen Nutzung von biometrischen Daten aus Internetquellen [nachweislich nicht praktikabel](https://netzpolitik.org/2025/biometrische-ueberwachung-koerperdaten-sind-keine-freie-verfuegungsmasse/). Hindert das Bundesinnenministerium nicht daran, es immer wieder mit neuen Gesetzesvorstößen neu zu versuchen.
+
+[Eine Petition](https://petitionen.landtag-bw.de/Petitionen/Details/b64b8bd2-08aa-40e2-83f1-1c1f85187da4) macht sich dafür stark, die Nutzung der Software “Gotham” von Palantir in Baden-Württemberg einzustellen.
 
 ## Künstliche Aufgeregtheit
 ### Neue Software  
