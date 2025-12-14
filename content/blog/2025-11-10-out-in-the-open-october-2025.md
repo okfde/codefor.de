@@ -125,49 +125,30 @@ Einblick in die Geodatenanalyse mit OpenSource-Software bietet das Open-Access-B
 Lukas Weihrauch hat mit [BetterBahn](https://betterbahn.de) eine OpenSource-App entwickelt, mit der man mit so genanntem "Split Ticketing" Geld beim Bahnfahren [sparen kann](https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/bahn-hack-tickets-lukas-weihrauch-100.html). Denn da die Bahn ihre Preise nach Auslastung der Züge berechnet, kann es unter Umständen günstiger sein, nicht den direkten Zug zwischen zwei Städten zu nehmen, sondern besser zwei oder mehr Teilstrecken zu buchen. So lassen sich bis zu 50 Euro für eine Fahrt sparen. Die App nutzt einen Algorithmus, um eben solche Fälle aufzuspüren. Aber statt ihr kompliziertes Ticket- und Preissystem in Frage zu stellen, ist die Bahn selbst nicht mal dazu bereit, die Auslastungsdaten über eine API frei zur Verfügung zu stellen. Die ist nur Geschäftspartnern vorbehalten.  
 
 ## Klima
-* 10 Years Post Paris
-  https://ca1-eci.edcdn.com/reports/10-Years-Post-Paris_Report_2025.pdf
-  via https://mastodon.social/@mkreutzfeldt/115451820051817165
-* Die Liste – Extremwetter 2025 Klimakatastrophe live
-  https://derklimablog.de/wissen/die-liste-extremwetter-2025-klimakatastrophe-live/
-* Abpflastern – von Grau zu Grün: Gemeinsam entsiegeln wir unsere Stadt!
-  https://climatejustice.global/@GermanZeroHH/115469569985085571
-  https://abpflastern.beteilige.me/#/
-* oekom: Open Access: Unsere 10 meistgelesenen E-Books
-  https://www.oekom.de/beitrag/open-access-unsere-10-meistgelesenen-e-books-406
-### Finanzen
-* The only comprehensive database of fossil fuel divestment commitments made by institutions worldwide
-  https://divestmentdatabase.org
-  https://fossilfreeberlin.wordpress.com
-* Warum unser Geld ein unterschätzter Hebel für den Klimaschutz ist
-  https://www.riffreporter.de/de/umwelt/klimaschutz-nachhaltige-banken-konto-wechseln
+Auf [Abpflastern – von Grau zu Grün: Gemeinsam entsiegeln wir unsere Stadt!](https://abpflastern.beteilige.me) können alle Hamburger Flächen eintragen, die sie selbst entsiegelt haben, oder auch Flächen [vorschlagen](https://climatejustice.global/@GermanZeroHH/115469569985085571), die entsiegelt werden sollten. Bundesweit gibt es auch [einen Wettbewerb](https://www.schulen-pflastern-ab.de) speziell für Schulen.
+
+Der Bericht [10 Years Post Paris](https://ca1-eci.edcdn.com/reports/10-Years-Post-Paris_Report_2025.pdf) enthält zum Glück auch viele positive Entwicklungen, die sich seit der Klimakonferenz in Paris 2015 dann doch [vollzogen haben](https://mastodon.social/@mkreutzfeldt/115451820051817165).
+
+[oekom stellt](https://www.oekom.de/beitrag/open-access-unsere-10-meistgelesenen-e-books-406) seine 10 meistgelesenen Open-Access-E-Books zu Klima, Artenvielfalt, Mobilität, Nachhaltigkeit und Demokratie näher vor.
+
+### Extremwetter
+Vor zehn Jahren wurde auch die Forschungsinitiative "World Weather Attribution" gegründet. Mitbegründerin Friederike Otto [schaut im Interview zurück](https://www.klimareporter.de/erdsystem/extremwetter-haengen-linear-mit-der-globalen-erwaermung-zusammen). So konnte die Attributionsforschung nachweisen, dass Extremwetter linear mit der globalen Erwärmung zusammenhängen. 
+
+[Diese Liste](https://derklimablog.de/wissen/die-liste-extremwetter-2025-klimakatastrophe-live/) enthält allein die weltweiten Extremwetter, die sich 2025 ereignet haben.
+
 ### Kipppunkte
-* Welt überschreitet ersten Klima-Kipppunkt: Korallenriffe sind nahezu unausweichlich dem Niedergang geweiht
-  https://www.scinexx.de/news/geowissen/welt-ueberschreitet-ersten-klima-kipppunkt/
-  via https://climatejustice.social/@tuxom/115367440149205024 
-* 10 Jahren World Weather Attribution
-  https://www.klimareporter.de/erdsystem/extremwetter-haengen-linear-mit-der-globalen-erwaermung-zusammen
-* Stärkster Anstieg des Meeresspiegels seit 4000 Jahren
-  https://www.heise.de/news/Staerkster-Anstieg-des-Meeresspiegels-seit-4000-Jahren-10778640.html
-* Mit jetzt beschlossenen Fangmengen haben wir den Dorsch wohl verloren, sagt Meeresbiologe Rainer Froese
-  https://www.deutschlandfunk.de/eu-fangquote-todesurteil-fuer-den-dorsch-der-ostsee-interview-rainer-froese-100.html
-  via https://climatejustice.global/@parents4future/115458124285816116
-* Forscherteam sieht Erde auf dem Weg ins Klima-Chaos
-  https://taz.de/Report-zu-Vitalzeichen-des-Planeten/!6125313/
-  * "State of the climate" 2025: Vitalparameter der Erde verschlechtern sich, Wissenschaft zeigt Pfade für lebenswerte Zukunft
-    https://www.pik-potsdam.de/de/aktuelles/nachrichten/state-of-the-climate-2025-vitalparameter-der-erde-verschlechtern-sich-wissenschaft-zeigt-pfade-fuer-lebenswerte-zukunft
-### Entkernung des EU-Lieferkettengesetzes
-* Kritische Rohstoffe und Menschenrechte
-  https://netzpolitik.org/2025/kritische-rohstoffe-und-menschenrechte-ursula-von-der-leyen-muss-wort-halten/
-  via https://mamot.fr/@roofjoke/115371595751772613
-* Ein bisschen Kinderarbeit ist okay
-  https://fragdenstaat.de/artikel/exklusiv/2025/10/ein-bisschen-kinderarbeit-ist-okay/?pk_campaign=mastodon
-## Energie
-* Mit dieser Studie lösen sich die Folgekosten der Energiewende in Luft auf
-  https://www.n-tv.de/wirtschaft/Mit-dieser-Studie-loesen-sich-die-Folgekosten-der-Energiewende-in-Luft-auf-article26070819.html
-  via https://digitalcourage.social/@midide/115305907822440689
+[Laut einer Studie](https://www.heise.de/news/Staerkster-Anstieg-des-Meeresspiegels-seit-4000-Jahren-10778640.html) erleben wir gerade den stärksten Anstieg des Meeresspiegels seit 4000 Jahren. Er ist dabei nur einer der 22 (von insgesamt 34) lebenswichtigen Vitalparametern, für die der diesjährige [State of the climate report](https://www.pik-potsdam.de/de/aktuelles/nachrichten/state-of-the-climate-2025-vitalparameter-der-erde-verschlechtern-sich-wissenschaft-zeigt-pfade-fuer-lebenswerte-zukunft) ein Rekordniveau verzeichnet. Er führt aber auch die [Maßnahmenpakete auf](https://taz.de/Report-zu-Vitalzeichen-des-Planeten/!6125313/) (wie rascher Ausstieg aus fossilen Brennstoffen, Schutz und die Wiederherstellung von Ökosystemen sowie Reduzierung von Lebensmittelverlusten und -abfällen), mit denen man effektiv gegensteuern könnte. 
 
+Für die Korallenriffe ist jedoch der Klima-Kipppunkt [wohl endgültig überschritten](https://www.scinexx.de/news/geowissen/welt-ueberschreitet-ersten-klima-kipppunkt/).
 
+Die Dorsch-Bestände in der Ostsee waren schon stark gefährdet, doch mit [den nun beschlossenen Fangmengen](https://www.deutschlandfunk.de/eu-fangquote-todesurteil-fuer-den-dorsch-der-ostsee-interview-rainer-froese-100.html) ist absehbar, dass es schon Ende nächsten Jahres keinen mehr geben wird.
+
+### Finanzen
+Eine [Studie von urgewald](https://cloud.urgewald.org/index.php/s/7GJAkNcQeCFtW4A?dir=/&editing=false&openfile=true) hat aufgedeckt, dass viele Banken weiterhin mit Milliarden Öl- und Gasprojekte finanzieren. Somit haben wir als Sparer einen [nicht zu unterschätzenden Einfluss darauf](https://www.riffreporter.de/de/umwelt/klimaschutz-nachhaltige-banken-konto-wechseln), bei welcher Bank wir unser Geld anlegen. Der [Fair Finance Guide](https://www.fairfinanceguide.de/ffg-d/bewertung/) hilft dabei, die geeignete Bank zu finden. 
+
+Die [Divestment Database](https://divestmentdatabase.org) listet weltweit Institutionen und Fonds, die bewusst nicht in fossile Industrien investieren. Eine [Initiative aus Berlin](https://fossilfreeberlin.wordpress.com) setzt sich dafür ein, dass auch der deutsche Staat seine Anlagen am Finanzmarkt (für z.B. Pensionsrücklagen seiner Beamten) fossilfrei macht.
+
+Mit dezentralen Lösungen als dritte Säule bei der Energieversorgung lässt sich [nach Aussagen einer Studie](https://www.n-tv.de/wirtschaft/Mit-dieser-Studie-loesen-sich-die-Folgekosten-der-Energiewende-in-Luft-auf-article26070819.html) der Wirtschaftsberater von Roland Berger sowohl Geld sparen als auch die Versorgungssicherheit erhöhen. Die anderen beiden Säulen sind fossile und erneuerbare Energien. Der Strommarkt braucht wieder Preissignale, die Ordnung zwischen Stromerzeugung und Stromverbrauch schaffen.
 
 ## Journalismus
 * Wie man ein Stöckchen hält
