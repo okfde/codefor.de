@@ -234,58 +234,37 @@ Reset stellt einen [kleinen Leitfaden](https://reset.org/den-gesamten-lebenszykl
 
 c't 3003 hat mit z.B. Qwen 3 4B 2507, Mistral Small 3.2, GPT‑OSS 120B [brauchbare Open-Weights-KI-Modelle gefunden](https://www.heise.de/news/Lokale-KI-Modelle-sind-jetzt-brauchbar-und-auf-dieser-Hardware-laufen-sie-10864518.html), die man auch auf eigener Hardware laufen lassen kann.
 
-### Jobverlust
-* Replacement.AI
-  https://replacement.ai
-* Yale-Studie: KI vernichtet keine Jobs im großen Stil
-  https://www.heise.de/news/Yale-Studie-KI-vernichtet-keine-Jobs-im-grossen-Stil-10748392.html
-* Tristan Harris – The Dangers of Unregulated AI on Humanity & the Workforce
-  https://www.youtube.com/watch?v=675d_6WGPbo
-* KI spart kaum Arbeitszeit
-  https://taz.de/Studien-belegen-dass-der-Einsatz-von-KI-keine-Effizienzgewinne-in-Unternehmen-bringt/!6125562/
-
+### Jobverlust?
+[Eine Yale-Studie belegt](https://t3n.de/news/yale-studie-ki-jobs-1711344/), dass die Einführung von ChatGPT den US-Arbeitsmarkt bisher kaum verändert hat. Denn Erfahrung schlägt immer noch Grundwissen. Verschiedene Studien [haben außerdem ergeben](https://taz.de/Studien-belegen-dass-der-Einsatz-von-KI-keine-Effizienzgewinne-in-Unternehmen-bringt/!6125562/), dass der Einsatz von KI keine Effizienzgewinne in Unternehmen bringt. Dass der unregulierte Einsatz von Generativer KI trotzdem gefährlich für den Arbeitsmarkt und die Menschheit selbst werden kann, [diskutieren Jon Stewart und Tristan Harris](https://www.youtube.com/watch?v=675d_6WGPbo) in der Daily Show. Satirisch überspitzt bringt es die Seite [Replacement.AI](https://replacement.ai) auf den Punkt.
 
 ### Sloppy Risk
-* KI - Der Tod des Internets
-  https://www.arte.tv/de/videos/122187-000-A/ki-der-tod-des-internets/
-  via https://chaos.social/@nastja/115337809711965837
-* walled gardens
-  https://social.coop/@smallcircles/115346648043847369
-* Wikipedia: Bot-Traffic tarnt sich zunehmend als menschlich
-  https://www.heise.de/news/Wikipedia-Bot-Traffic-tarnt-sich-zunehmend-als-menschlich-10778492.html
-* Wie KI die Sprache von Schülern verändert und Diskussionen verflacht
-  https://www.heise.de/meinung/n-report-Projekt-Wie-KI-die-Sprache-von-Schuelerinnen-und-Schuelern-veraendert-10751927.html
-* Dekolonialisierung von KI: Die Bots sollen indigene Sprachen lernen
-  https://taz.de/Dekolonialisierung-von-KI/!6122421/
-* All modern digital infrastructure + AI
-  https://shitpost.trade/users/xyla/statuses/115310603490897961
-* Karpathy's U-Turn on Vibe Coding: From Enthusiast to Critic
-  https://www.linkedin.com/posts/dr-jeffrey-funk-a979435_technology-innovation-artificialintelligence-activity-7386358384255692801-vWL-
+Eine Filmemacher Mario Sixtus [geht den Ursachen nach](https://www.arte.tv/de/videos/122187-000-A/ki-der-tod-des-internets/), warum das Internet immer mehr von KI-generierten Müll überschwemmt wird. 
 
+Anfang des Jahres noch hat Andrej Karpathy, einer der Gründer von OpenAI, den Begriff "Vibe Coding" geprägt, also das Vorgehen, bei dem man allein mit natürlichsprachigen Prompts sich prototypisch Software für ein Wochenendprojekt zusammenschustert. Inzwischen ist er selbst wieder zu handgeschriebenen Programmieren [zurückgewechselt](https://futurism.com/artificial-intelligence/inventor-vibe-coding-doesnt-work). Für den MIT-Computerwissenschaftler Daniel Jackson führt Vibe-Coding einerseits zu fehlerhaften unsicheren Programmcode und andererseits zu einer neuen Generation von Programmierern, die nicht mehr in Lage sind, weder die Angreifbarkeit dieses Codes zu erkennen noch zu beheben. [Die Abwandlung](https://shitpost.trade/users/xyla/statuses/115310603490897961) eines bekannten Cartoons veranschaulicht diesen Umstand.
+
+Aber auch bei Nicht-Programmierern hinterlässt die Verwendung von Chatbots ihre Spuren: [so fielen](https://www.heise.de/meinung/n-report-Projekt-Wie-KI-die-Sprache-von-Schuelerinnen-und-Schuelern-veraendert-10751927.html) bei einem Schüler-Journalismus-Wettbewerb einer Jurorin zunehmend wiederkehrende Formulierungen in den Texten auf, nicht weil sie von KI generiert worden sind, sondern weil die Autor:innen selbst schon begonnen haben, in eigenen Texten den KI-Sprech zu übernehmen. Nicht nur das Sprachgebrach dadurch verödet, auch geht die Fähigkeit verloren, Dinge selbst zu durchdenken und mit eigenen Worten zu erlären und so tatsächlich zu beweisen, dass man es wirklich verstanden hat.
+
+Die Weltsicht von den dominierenden Chatbot-Modellen ist klar eine westliche, was sich entsprechend bei Anfragen vor allem bei KI-Bildgeneratoren niederschlägt. Aber auch bei Sprachen und Sprachausgaben wird die Standardisierung zunehmend als störend empfunden. So hat Chile hat nun [ein eigenes KI-Sprachmodell entwickelt](https://taz.de/Dekolonialisierung-von-KI/!6122421/), das stärker lokale Sprachen und Kulturen berücksichtigt, da man den argentinischen Akzent von ChatGPT satt hat. Nur, Latam-GPT, läuft am Ende auch in einem Rechenzentrum in der staubtrockenen Atacama-Wüste, und verbraucht ebenfalls viel Wasser.
+
+Um die Wikipedia-Sperren für Bots zu umgehen, versuchen diese nun häufiger [als menschliche Benutzer zu erscheinen](https://www.heise.de/news/Wikipedia-Bot-Traffic-tarnt-sich-zunehmend-als-menschlich-10778492.html), um weiterhin die Inhalte von Wikipedia-Artikel wegscrapen zu können, mit denen dann wieder die LLMs nachtrainiert werden können, damit am Ende die Nutzer immer mehr die Chatbots nutzen, statt die Wikipedia-Artikels direkt anzusurfen. Keine Wunder also die Zahlen der menschlichen Besucher zurückgehen und mit ihnen auch die Autoren, weil das Bewusstsein schwindet, woher die Inhalte kommen und das sie ja auch zusammengetragen und gepflegt werden müssen. Solche [Walled Gardens](https://social.coop/@smallcircles/115346648043847369) führen auch dazu, dass es immer unattraktiver wird, Quellcode OpenSource und Daten als OpenData zu stellen, wenn sie am Ende von BigTech für ihre Zweck verhaptstückt werden.
 
 ### Sicherheit
-* Data Poisoning bei LLMs: Feste Zahl Gift-Dokumente reicht für Angriff
-  https://www.heise.de/news/Data-Poisoning-bei-LLMs-Feste-Zahl-Gift-Dokumente-reicht-fuer-Angriff-10764834.html
-* KI-Training mit personenbezogenen Daten
-  https://podcastindex.org/podcast/5439143
-  via https://mastodon.social/@DFN/115371354928091703
-* Die Datenschutzkonferenz hat heute eine Orientierungshilfe zu KI-Systemen mit Retrieval Augmented Generation (RAG) veröffentlicht. 
-  https://www.datenschutzkonferenz-online.de/orientierungshilfen.html
-  via https://social.bund.de/@dsk/115388417586506650
+Ein bisher größtes Experiment zu Data Poisoning während des Pre-Trainings hat ergeben, dass schon etwas 250 vergifteter Dokumente [ausreichen](https://www.heise.de/news/Data-Poisoning-bei-LLMs-Feste-Zahl-Gift-Dokumente-reicht-fuer-Angriff-10764834.html), um eine Backdoor in ein LLM einzuschleusen und zwar unabhängig von der Gesamtgröße des Trainingsdatensatzes.
+
+Was Poising gilt, gilt natürlich auch für personbezogene Daten. Im Podcast Weggeforscht [diskutiert](https://podcastindex.org/podcast/5439143) die Forschungsstelle Recht im DFN über mögliche [Rechtsgrundlagen](https://mastodon.social/@DFN/115371354928091703) für das KI-Training. 
+
+Auf den [Konferenzen der unabhängigen
+Datenschutzaufsichtsbehörden des Bundes und der Länder](https://www.datenschutzkonferenz-online.de/) werden regelmäig Entschließungen und [Orientierungshilfen](https://www.datenschutzkonferenz-online.de/orientierungshilfen.html) veröffentlicht. Im Oktober gab es [Hinweise](https://www.datenschutzkonferenz-online.de/media/oh/DSK_OH_RAG.pdf) wie beim Einsatz von Retrieval Augmented Generation (RAG) die Risiken für etroffenen verringert werden können. 
+
 
 ## Recap
-* FediDay
-  https://chaos.social/@digiges/115378485507423667
-* WikidataCon:
-  https://pretalx.com/wikidatacon-2025/
-* Open Transport Community Conference 2025
-  https://volkerkrause.eu/2025/10/25/open-transport-community-conference-2025.html
-* RadioTux Sendung Oktober 2025, u.a. über Nextcloud Community Conference 2025
-  https://www.radiotux.de/index.php?/archives/8110-RadioTux-Sendung-Oktober-2025.html
+* [FediDay](https://chaos.social/@digiges/115378485507423667)
+* [WikidataCon](https://pretalx.com/wikidatacon-2025/)
+* [Open Transport Community Conference 2025](https://volkerkrause.eu/2025/10/25/open-transport-community-conference-2025.html)
+* [RadioTux Sendung Oktober 2025](https://www.radiotux.de/index.php?/archives/8110-RadioTux-Sendung-Oktober-2025.html), u.a. über Nextcloud Community Conference 2025
 
 ## Und sonst so
-* Digitalisierung als Outsourcing an die Kundschaft
-  https://bsky.app/profile/yoran.com/post/3m4knnv3mes2y
+Gabriel Yoran thematisiert [im Interview](https://www.philomag.de/artikel/gabriel-yoran-uns-wurde-bauhaus-versprochen-und-wir-haben-ikea-bekommen) mit dem Philosophie-Magazin, dass Unternehmen und Behörden zunehmend Aufgaben, für die sie eigenlich zuständig wären, dank Digitalisierung einfach an ihre Kunden bzw. Bürger [auslagern](https://bsky.app/profile/yoran.com/post/3m4knnv3mes2y). Ein [Konzept](https://de.wikipedia.org/wiki/Arbeitender_Kunde), dass es auch ohne Digitalisierung schon länger gibt.
 
 ## Fristen
 * [NIAM 2026, CfP](https://norden.social/users/cartocalypse/statuses/115383434798594910) bis 15.11.2025
