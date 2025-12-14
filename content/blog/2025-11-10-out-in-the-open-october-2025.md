@@ -171,38 +171,35 @@ Objektbeschreibungen sind Basisarbeit, aber leider auch sehr zeitintensiv und au
 Die Universitäts- und Landesbibliothek Halle hat 2007 begonnen, seine Bestände zu digitalisieren. Von den fünf Millionen Bände ist dies bisher für 150.000 Werke geschehen. Durch Zufall wurde dabei nun ein Pergamentfragment aus dem 9. Jahrhundert [entdeckt](https://www.zeit.de/news/2025-10/31/halle-digitalisiert-bibliothek-pergamentfragment-entdeckt), dass sich im Einband eines anderen Buches versteckt hatte.
 
 ## Transparenz
-* Geheimdienst schnüffelt bei NGOs
-  https://fragdenstaat.de/artikel/exklusiv/2025/10/geheimdienst-untersucht-zivilgesellschaft/
-* Gesetzentwurf zur Grundsicherung: Jetzt kommt Hartz V
-  https://fragdenstaat.de/artikel/exklusiv/2025/10/jetzt-kommt-hartz-v/
-* Grundrauschen des Misstrauens gegenüber Staat und Verwaltung: Diskussion zum sächsischen Transparenzgesetz
-  https://www.l-iz.de/politik/leipzig/2025/10/grundrauschen-des-misstrauens-gegenuber-staat-und-verwaltung-diskussion-sachsisches-transparenzgesetz-video-637565
-* Red Bulls geheime Verträge in Brandenburg
-  https://fragdenstaat.de/artikel/klagen/2025/10/klage-red-bull-brandenburg/
-* Bundestag kommt mit Veröffentlichung von Nebeneinkünften nicht hinterher
-  https://www.abgeordnetenwatch.de/recherchen/nebentaetigkeiten/bundestag-kommt-mit-veroeffentlichung-von-nebeneinkuenften-nicht-hinterher
-* Gesundheitsministerium versuche, Pressevertreter*innen nur selektiv Zugang zu Informationen zu gewähren, IFG befreit sie
-  https://chaos.social/@fragdenstaat/115468458833463812
-  https://fragdenstaat.de/anfrage/hintergrundgespraeche-mit-journalist-innen/
+### Entkernung des EU-Lieferkettengesetzes
+Mit dem deutschen Lieferkettengesetz sollen seit 2023 Menschenrechtsverletzungen in den Lieferketten von Unternehmen verhindert werden. Die aktuelle Regierung möchte das Gesetz deutlich abzuschwächen, der Kanzler am liebsten ganz abschaffen, weil angeblich zu viel bürokratische Belastung und Wettbewerbsbenachteiligung für deutsche Unternehmen. Im Wirtschaftsministerim konnte man es nicht mal abwarten, bis das entsprechende Gesetz in Kraft tritt und gab Ende September eine E-Mail-Weisung an das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) aus, das noch bestehende Gesetz [besonders auszulegen](https://fragdenstaat.de/artikel/exklusiv/2025/10/ein-bisschen-kinderarbeit-ist-okay/). Diese Weisung wurde durch eine Informationsfreiheitsanfrage öffentlich. Das jetzt schon schwächere EU-Lieferkettengesetz, das an Stelle des deutschen Gesetzes tritt, wird zudem [weiter verwässert](https://netzpolitik.org/2025/kritische-rohstoffe-und-menschenrechte-ursula-von-der-leyen-muss-wort-halten/).
+
+### Unliebsames Auf-die-Fingerschauen
+"Transparenz ist quasi das Gegenteil von Herrschaftswissen", [meint Aiko Kempen](https://www.l-iz.de/politik/leipzig/2025/10/grundrauschen-des-misstrauens-gegenuber-staat-und-verwaltung-diskussion-sachsisches-transparenzgesetz-video-637565) im Rahmen einer Diskussionsveranstaltung zur Verschiebung des Sächsischen Transparenzgesetzes.
+
+Bernhard W. Wegener beschreibt bereits 2006 in seiner Habilitationsschrift "Der geheime Staat – Arkantradition und Informationsfreiheitsrecht" die staatliche Verschwiegenheit als Erbe der monarchischer Herrschaft ist. So erklärt es sich auch, dass brisante Dokumente erst gar nicht erst veraktet werden. Seit Inkrafttreten des Informationsfreiheitsgesetzes im Jahr 2006 wachsen Giftschränke mit solchen unverakteten Dokumenten. Bis sie dann doch plötzich auftauchen, [wie Ende September](https://www.abgeordnetenwatch.de/recherchen/informationsfreiheit/die-giftschraenke-der-bundesregierung) ein Gesprächsvermerk im Vorfeld eines Gerichtstermins zur Ostseepipeline Nord Stream 2. Bei weitem nicht der einzige Fall von dann doch wiedergefundenen Dokumenten.
+
+Auch das Gesundheitsministerium [hat versucht](https://chaos.social/@fragdenstaat/115468458833463812), ohne ersichtlichen Grund Pressevertretern nur selektiv Zugang zu Informationen zu gewähren. Es musste erst das Informationsfreiheitsgesetz (IFG) [bemüht werden](https://fragdenstaat.de/anfrage/hintergrundgespraeche-mit-journalist-innen/), um sie zu befreien.
+
+Obwohl das Grundwasser in Brandenburg immer knapper wird, wollen die Getränkehersteller Red Bull und Rauch dennoch hier ihre Produktion erweitern. FragDenStaat [verklagt nun](https://fragdenstaat.de/artikel/klagen/2025/10/klage-red-bull-brandenburg/) die Stadt Baruth/Mark, weil diese die Einsicht in die Verträge mit den Unternehmen verweigert.
+
+Bundesministerien haben seit 2020 im sogenannten "Haber-Verfahren" etwa 1.200 zivilgesellschaftliche Organisationen und 1.300 natürliche Personen, die Fördermittel beim Bund beantragt hatten, vom Bundesamt für Verfassungsschutz überprüfen lassen, ohne dass diese davon in Kenntnis gesetzt worden sind noch die Gelegenheit bekommen hätten, gegen die so erhobenen Gründe, warum sie nicht gefördert werden sollen, Einspruch einlegen zu können. [FragDenStaat prüft derzeit](https://fragdenstaat.de/artikel/exklusiv/2025/10/geheimdienst-untersucht-zivilgesellschaft/), wie sich Betroffene wehren können.
+
+### Lobbyismus
+Vor 20 Jahren wurde der Verein Lobbycontrol [gegründet](https://bewegung.social/@lobbycontrol/115384298212059763). Auch durch [dessen Druck](https://www.lobbycontrol.de/verein/staerken-wir-was-uns-verbindet-unsere-demokratie-122685/) gibt es inzwischen ein Lobbyregister, Regeln für Abgeordnete mit Nebentätigkeiten und eine Karenzzeit zwischen Mandatsende und Aufnahme einer Tätigkeit in der freien Wirtschaft.
+
+Auch wichtige regelmäßige Analysen, [wie diese](https://www.lobbycontrol.de/macht-der-digitalkonzerne/eu-lobbyausgaben-der-digitalindustrie-auf-rekordniveau-122920/), die offenlegt, dass die EU-Lobbyausgaben der Digitalindustrie auf Rekordniveau liegen, verdanken wir dem Verein.
+
+Fehlende Digitalisierung ist bei der Umsetzung der Transparenzregeln ein wahrer Hemmschuh. So fehlen bei rund einem Drittel der Abgeordneten immer noch Angaben zu Nebeneinkünften und Unternehmensbeteiligungen, weil diese derzeit noch über ein 20-seitiges PDF-Formular von jedem einzelnen Abgeordneten übermittelt werden - macht insgesamt zu prüfende 12.600 Seiten. 2026 soll es dieser Prozess durch ein elektronisches Portal [abgelöst werden](https://www.abgeordnetenwatch.de/recherchen/nebentaetigkeiten/bundestag-kommt-mit-veroeffentlichung-von-nebeneinkuenften-nicht-hinterher).
+
+Im Lobbyregister müssen Interessenverbände alle Vorhaben eintragen, auf die sie Einfluss nehmen wollen. Die Stiftung Familienunternehmen, deren Namen irreführend ist, da hinter ihm zahlreiche deutsche Milliardenkonzerne stehen, möchte gerne die Wegzugbesteuerung "reformieren", die sie ihr ein Dorn Auge ist, da sie die Verlagerung von Vermögen ins Ausland unattraktiv macht. Da die Stiftung dieses Thema aber nicht im Lobbyregister angegeben hat, prüft nun die Bundestagsverwaltung einen möglichen Verstoß gegen das Lobbyregister-Gesetz. Dass Vertreter des Wirtschaftsministeriums und die Minsterin selbst [bei zentralen Lobbytreffen](https://fragdenstaat.de/artikel/exklusiv/2025/10/reiche-beraet-reiche/) Tipps geben, wie man durch gezielte politische Einflussnahme Steuersenkungen schneller herbeiführen könne, setzt dem ganzen noch die Krone auf und verstößt außerdem gegen das Neutralitätsgebot, das ein Ministerim einzuhalten hat.
 
 ### Sicherheit
-* Suche Entspannung, finde Datenleck
-  https://zerforschung.org/posts/sihot/
-  via https://chaos.social/@zerforschung/115339950947920534
-* Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data
-  https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/
-* IFG-Ablehnung des Tages: Die Bundesregierung hat "Eckpunkte zur Erhöhung der Cybersicherheit" beschlossen. Die dürfen wir nicht lesen, weder per Presserecht noch per IFG.
-  https://chaos.social/@andre_meister/115371828608356727
-### Lobbyismus
-* Reiche berät Reiche
-  https://fragdenstaat.de/artikel/exklusiv/2025/10/reiche-beraet-reiche/
-* 20 Jahre Lobbycontrol
-  https://www.lobbycontrol.de/verein/staerken-wir-was-uns-verbindet-unsere-demokratie-122685/
-  via https://bewegung.social/@lobbycontrol/115384298212059763
-* Wenn Dokumente offiziell nicht existieren: Die Giftschränke der Bundesregierung
-  https://www.abgeordnetenwatch.de/recherchen/informationsfreiheit/die-giftschraenke-der-bundesregierung
-* EU-Lobbyausgaben der Digitalindustrie auf Rekordniveau
-  https://www.lobbycontrol.de/macht-der-digitalkonzerne/eu-lobbyausgaben-der-digitalindustrie-auf-rekordniveau-122920/
+Die von der Bundesregierung beschlossenen "Eckpunkte zur Erhöhung der Cybersicherheit" [sind so dermaßen sicher](https://chaos.social/@andre_meister/115371828608356727), die kann man nicht mal per Presserecht noch per IFG lesen.
+
+Dann doch lieber den Datentransfer von Satelliten mitschneiden, da sind wenigstens Anrufe, Texte und auch selbst die Kommunikation vom US-Militär [unverschlüsselt](cdn.website-start.de/proxy/apps/otea5i/uploads/gleichzwei/instances/35152F5E-FE22-4A35-AC9E-CE5EA2CACECE/wcinstances/epaper/9d881c5a-93a8-4540-bffa-7b4372f09af0/pdf/Regena-Liste-Indikationen-2015.pdf).
+
+[Offen wie ein Scheunentor](https://zerforschung.org/posts/sihot/) ist auch die Buchungssoftware, die manche Hotels (auch große Ketten) einsetzen, wie Zerforschung mit Erschrecken feststellen musste.
 
 ## Überwachung
 * Petition: Keine Nutzung der Software "Gotham" von Palantir in Baden-Württemberg
