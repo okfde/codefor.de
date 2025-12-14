@@ -150,20 +150,10 @@ Die [Divestment Database](https://divestmentdatabase.org) listet weltweit Instit
 
 Mit dezentralen Lösungen als dritte Säule bei der Energieversorgung lässt sich [nach Aussagen einer Studie](https://www.n-tv.de/wirtschaft/Mit-dieser-Studie-loesen-sich-die-Folgekosten-der-Energiewende-in-Luft-auf-article26070819.html) der Wirtschaftsberater von Roland Berger sowohl Geld sparen als auch die Versorgungssicherheit erhöhen. Die anderen beiden Säulen sind fossile und erneuerbare Energien. Der Strommarkt braucht wieder Preissignale, die Ordnung zwischen Stromerzeugung und Stromverbrauch schaffen.
 
-## Journalismus
-* Wie man ein Stöckchen hält
-  https://www.mdr.de/altpapier/das-altpapier-4384.html
-* Neues Playbook für community-zentrierte Wahlberichterstattung 
-  https://correctiv.org/in-eigener-sache/2025/10/02/neues-playbook-fuer-community-zentrierte-wahlberichterstattung/
-
 ## Gesundheit
-* Antibiotikaresistenz: Die stille Pandemie eskaliert
-  https://www.telepolis.de/article/Antibiotikaresistenz-Die-stille-Pandemie-eskaliert-10761042.html
-* Innenraumluft: Dicke Luft – die unbekannte Produktivitätsbremse
-  https://www.wiwo.de/technologie/forschung/innenraumluft-dicke-luft-die-unbekannte-produktivitaetsbremse/100167056.html
-* GA-Lotse
-  https://www.smartcountry.berlin/de/programm/programmueberblick#eventdate--Zero-Trust-in-Eigenregie:-Vorstellung-GA%E2%80%93Lotse--5f50dc79-e20f-4153-966a-fe338635baf1
+[Indoor CO2 Map](https://www.indoorco2map.com/) zeigt, dass ausgerechnet in vielen Klassenräumen und Arztpraxen die Luft [sehr schlecht ist](https://www.wiwo.de/technologie/forschung/innenraumluft-dicke-luft-die-unbekannte-produktivitaetsbremse/100167056.html). Dabei könnte korrektes Lüften helfen sowohl Ansteckungsrisikon in den Wartezimmer der Praxen zu senken, als auch konzentriertes Lernen in den Schulen wieder zu ermöglichen.
 
+[Nach aktuellen Untersuchungen](https://www.telepolis.de/article/Antibiotikaresistenz-Die-stille-Pandemie-eskaliert-10761042.html) der Weltgesundheitsorganisation (WHO) werden in den kommenden 25 Jahren antibiotikaresistente Bakterien weltweit für 39 Millionen Todesfälle verantwortlich sein. Gleichzeitig steigt der Antibiotikaeinsatz sowohl beim Menschen als auch in der Viehzucht, auch bedingt durch die gestiegene Fleischnachfrage in Entwicklungsregionen wie China und Thailand. Dagegen sinken die Zulassungszahlen antibakterieller Medikamente, auf Grund mangelnder Investitionen und Zulassungsraten neuer Antibiotika verlassen vor allem große Pharmaunternehmen den Markt.
 
 ## Kultur
 * Was bringt ein Hackathon mit Kulturdaten?
