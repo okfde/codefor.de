@@ -47,7 +47,7 @@ Die vor zehn Jahren von der EU gesetzlich festgeschriebe Netzneutralität soll i
 Bessere Absichten verfolgt dagegen der ebenfalls [geplante Digital Fairness Act](https://netzpolitik.org/2025/digital-fairness-act-grosse-wuensche-fuer-mehr-verbraucherschutz-im-netz/), mit die EU Verbraucher stärker vor so genannten[Dark Patterns](https://de.wikipedia.org/wiki/Dark_Pattern) schützen möchte. Mit solchen Design-Konzepten versuchen manche E-Commerce-Anbieter Nutzende in ihren Konsumentscheidungen zu manipulieren.
 
 ## Digitale Souveränität
-### Einflussnahme
+### MAGA-Kost
 Die [#FreeWebSearch-Charta](https://freewebsearch.org/de/freewebsearch-charta/) formuliert 10 Prinzipien für eine am Gemeinwohl ausgerichtete Websuche. Aus ihrer Sicht ist der Zugang zu Informationen ein Menschenrecht und kann nur durch eine Internetsuche als öffentliches Gut gewährleistet werden.
 
 Wie abhängig deutsche Behörden und Unternehmen schon von einzelnen Software-Unternehmen sind, thematisiert das Poltik-Magazin Monitor in ["Die Macht der Tech-Giganten"](https://www.ardmediathek.de/video/monitor/die-macht-der-tech-giganten-trumps-waffe-gegen-europa/das-erste/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtYWFhNDkwYzYtYmMyNS00MmVlLWJkODUtYjBkMmZkNGI1ZGE0).
@@ -218,30 +218,21 @@ Gemini und Claude besitzen inzwischen [einen Computer-Use-Modus](https://www.hei
 
 OpenAIs neue Video-Generierungs-App Sora2 findet der c't 3003 Test [beeindruckend und unangenehm zugleich](https://www.heise.de/news/Sora-2-ist-beeindruckend-und-unangenehm-10777838.html). [Bei Basic Thinking](https://www.basicthinking.de/blog/2025/10/06/sora-ki-app-openai/) sieht man sie als KI-App für Deepfakes, auch schon weil nach Vorstellungen von OpenAI Rechteinhaber der Verwendung ihres Materials ausdrücklich widersprechen zu haben, um nicht bei Sora verwurstet zu werden. Auch wenn die Vorgeschaltete Verifizierung DeepFakes vorbeugen soll, ist der Missbrauch jetzt schon absehbar. Juristen waren jetzt schon, dass Fakes von "historischen Figuren" von OpenAI genutzt werden, [um die Grenzen des Persönlichkeitsrechts auszuloten](https://www.freitag.de/autoren/the-guardian/dating-mit-heinrich-viii-auf-sora-2-wie-viel-deepfake-darf-ki). Und politisch wird Sora bereits missbraucht, wie der Fall mit eines Video von Jugendlichen, die sich in einer Talkshow kritisch zur deutschen Migrationspolitik äußern, [zeigt](https://correctiv.org/faktencheck/2025/10/22/vermeintliche-talkshow-mit-jugendlichen-ueber-migrationspolitik-ist-ki-fake/).
 
+### Alternativen
+[OpenMates](https://openmates.org) möchte [eine OpenSource-Alternative](https://github.com/glowingkitty/OpenMates) zu ChatGPT, Claude und Co. sein, die aber viel Wert auf Datenschutz und Datensicherheit legt und kompatibel zu zahlreichen KI-Modelle ist. Die frühe Aplha-Version kommt noch ohne Apps aus, kann aber schon getestet werden   
 
-  
-* Das Wikidata Embedding-Projekt zeigt, dass KI-Systeme nicht zwingend von Big Tech abhängen müssen.
-  https://blog.wikimedia.de/2025/10/01/wikidata-embedding-projekt-geht-live/
-  via https://social.wikimedia.de/@wikimediaDE/115389067686651255
-
-* OpenMates
-  https://github.com/glowingkitty/OpenMates
-  via https://chaos.social/@tbsprs/115453445569184986
-
+Auch das [Wikidata Embedding-Projekt](https://blog.wikimedia.de/2025/10/01/wikidata-embedding-projekt-geht-live/) zeigt, dass KI-Systeme nicht zwingend von Big Tech abhängen müssen.
 
 ### Wissen
-* E-Learning "KI-Kompetenzen für das Gemeinwohl"
-  https://moodle.gi.de/moodle/
-  via https://mas.to/@CivicDataLab/115305000516769329
-* Der "Wann-ist-GenAI-sinnvoll-Werkzeugkasten": Stefan Kaufmann über KI in der Verwaltung
-  https://reset.org/der-wann-ist-genai-sinnvoll-werkzeugkasten-stefan-kaufmann-ueber-ki-in-der-verwaltung/
-* Wege zu fairer und offener KI-Governance
-  https://www.weizenbaum-institut.de/news/detail/wege-zu-fairer-und-offener-ki-governance/
-* Lokale KI-Modelle sind jetzt brauchbar (und auf dieser Hardware laufen sie)
-  https://www.heise.de/news/Lokale-KI-Modelle-sind-jetzt-brauchbar-und-auf-dieser-Hardware-laufen-sie-10864518.html
-* Den gesamten Lebenszyklus im Blick: Tipps für nachhaltigere KI-Entwicklung und -Nutzung
-  https://reset.org/den-gesamten-lebenszyklus-im-blick-tipps-fuer-nachhaltigere-ki-entwicklung-und-nutzung/
+Im [Civic-Data-Lab Lernraum](https://moodle.gi.de/moodle/) findet man den neuen kostenlosen E-Learning-Kurs ["KI-Kompetenzen für das Gemeinwohl"](https://moodle.gi.de/moodle/enrol/index.php?id=18).
 
+Für Stefan Kaufmann von Wikimedia Deutschland ist GenAI in der öffentlichen Verwaltung [oft fehl am Platz](https://reset.org/der-wann-ist-genai-sinnvoll-werkzeugkasten-stefan-kaufmann-ueber-ki-in-der-verwaltung/), nicht nur wegen Halluzinationen, AI-Slop und einem enormen Ressourcenverbrauch. Stattdessen sollte man lieber zu symbolischer KI und Linked Open Data greifen.
+
+Die Ergebnisse der Konferenz im März 2025 von Weizenbaum-Institut, Berlin University Alliance (BUA) und Wikimedia organisierte Konferenz "Yes, we are open!? Künstliche Intelligenz verantwortungsvoll gestalten" liegen nun [in aufbereiteter Form vor](https://www.weizenbaum-institut.de/news/detail/wege-zu-fairer-und-offener-ki-governance/): ein  [Policy Paper](https://www.weizenbaum-library.de/handle/id/950) für Entscheidungsträger und ein [Diskussionspapier](https://www.doi.org/10.34669/WI.DP/51) für die Fachcommunity.
+
+Reset stellt einen [kleinen Leitfaden](https://reset.org/den-gesamten-lebenszyklus-im-blick-tipps-fuer-nachhaltigere-ki-entwicklung-und-nutzung/) für ein nachhaltigere KI-Entwicklung und -Nutzung mit den Blick auf den gesamten Lebenszyklus bereit, falls man die Eingangsfrage "Brauche ich wirklich KI?" denn tatsächlich mit "ja" beantwortet hat. 
+
+c't 3003 hat mit z.B. Qwen 3 4B 2507, Mistral Small 3.2, GPT‑OSS 120B [brauchbare Open-Weights-KI-Modelle gefunden](https://www.heise.de/news/Lokale-KI-Modelle-sind-jetzt-brauchbar-und-auf-dieser-Hardware-laufen-sie-10864518.html), die man auch auf eigener Hardware laufen lassen kann.
 
 ### Jobverlust
 * Replacement.AI
@@ -254,7 +245,7 @@ OpenAIs neue Video-Generierungs-App Sora2 findet der c't 3003 Test [beeindrucken
   https://taz.de/Studien-belegen-dass-der-Einsatz-von-KI-keine-Effizienzgewinne-in-Unternehmen-bringt/!6125562/
 
 
-### Slop
+### Sloppy Risk
 * KI - Der Tod des Internets
   https://www.arte.tv/de/videos/122187-000-A/ki-der-tod-des-internets/
   via https://chaos.social/@nastja/115337809711965837
