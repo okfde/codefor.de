@@ -156,22 +156,19 @@ Mit dezentralen Lösungen als dritte Säule bei der Energieversorgung lässt sic
 [Nach aktuellen Untersuchungen](https://www.telepolis.de/article/Antibiotikaresistenz-Die-stille-Pandemie-eskaliert-10761042.html) der Weltgesundheitsorganisation (WHO) werden in den kommenden 25 Jahren antibiotikaresistente Bakterien weltweit für 39 Millionen Todesfälle verantwortlich sein. Gleichzeitig steigt der Antibiotikaeinsatz sowohl beim Menschen als auch in der Viehzucht, auch bedingt durch die gestiegene Fleischnachfrage in Entwicklungsregionen wie China und Thailand. Dagegen sinken die Zulassungszahlen antibakterieller Medikamente, auf Grund mangelnder Investitionen und Zulassungsraten neuer Antibiotika verlassen vor allem große Pharmaunternehmen den Markt.
 
 ## Kultur
-* Was bringt ein Hackathon mit Kulturdaten?
-  https://musermeku.org/kultur-hackathon/
-* Minimaldatensatz-Empfehlung für Museen und Sammlungen (MDS v1.1)
-  https://wiki.deutsche-digitale-bibliothek.de/spaces/DFD/pages/120422678/Minimaldatensatz-Empfehlung+f%C3%BCr+Museen+und+Sammlungen+MDS+v1.1
-  via https://openbiblio.social/@digiSberlin/115411241498455033
-* XRONOS: An Open Data Infrastructure for Archaeological Chronology
-  https://journal.caa-international.org/articles/10.5334/jcaa.191
-  via https://archaeo.social/@joeroe/115463591315846408
-* Halle digitalisiert Bibliothek – Pergamentfragment entdeckt
-  https://www.zeit.de/news/2025-10/31/halle-digitalisiert-bibliothek-pergamentfragment-entdeckt
-* Best Match: Neues Tool für die Langzeitarchivierung
-  https://www.digis-berlin.de/best-match-neues-tool-fuer-die-langzeitarchivierung/
-* Objektbeschreibungen sind Basisarbeit. Zum neuen ML-Feature in musdb
-  https://zenodo.org/records/17378243
-* Drama Corpora Project
-  https://radihum20.de/radihum-spricht-mit-frank-fischer-peer-trilcke-und-julia-jennifer-beine-vom-dracor-projekt/
+Nach dem Ende der Coding da Vinci Reihe Ende 2022 gab es Anfang Oktober in Berlin mal wieder einen Kulturdaten-Hackathon. Angelika Schoder vom Kulturmagazin musermeku hat dies zum Anlass genommen, die Dos & Don’ts beim Veranstalten solcher Hackathons [aufzuschreiben](https://musermeku.org/kultur-hackathon/).
+
+Das Projekt [Drama Corpora (DraCor)](https://dracor.org) wertet hauptsächlich europäische Dramenstoffe von der Antiken bis in die Neuzeit digital aus und stellt die Analysen auch als Linked Open Data bereit. In der Oktober-Folge vom RaDiHum20-Podcast [wird erzählt](https://radihum20.de/radihum-spricht-mit-frank-fischer-peer-trilcke-und-julia-jennifer-beine-vom-dracor-projekt/), wie aus einem kleinen gemeinsamen Forschungsinteresse eine internationale Infrastruktur wurde. 
+
+Eine Open-Data-Infrastruktur ist auch [XRONOS](https://xronos.ch), nur für chronometrische Daten in der Archäologie, wie [diese Fallstudie](https://journal.caa-international.org/articles/10.5334/jcaa.191) vorstellt.
+
+Mit dem neuen Werkzeug [Best Match](https://ewig.zib.de/best-match/) lassen sich Metadaten und Masterdateien bei der Prüfung von Datenlieferung an das Langzeitarchivierungssystem EWIG [zuordnen](https://www.digis-berlin.de/best-match-neues-tool-fuer-die-langzeitarchivierung/)
+
+Mit der [neuen Version](https://openbiblio.social/@digiSberlin/115411241498455033) der [Minimaldatensatz-Empfehlung](https://wiki.deutsche-digitale-bibliothek.de/spaces/DFD/pages/120422678/Minimaldatensatz-Empfehlung+f%C3%BCr+Museen+und+Sammlungen+MDS+v1.1) der Deutschen Digitalen Bibliothek sollen Museen und Sammlungen noch besser befähigt werden ihre Daten online so zu veröffentlichen, dass dabei sowohl relevante Standards eingehalten als auch die Inhalte in leicht verständlicher, niedrigschwelliger Form vermittelt werden. 
+
+Objektbeschreibungen sind Basisarbeit, aber leider auch sehr zeitintensiv und aufwändig. Das neue ML-Feature in musdb soll die Arbeit [nun erleichern](https://zenodo.org/records/17378243).
+
+Die Universitäts- und Landesbibliothek Halle hat 2007 begonnen, seine Bestände zu digitalisieren. Von den fünf Millionen Bände ist dies bisher für 150.000 Werke geschehen. Durch Zufall wurde dabei nun ein Pergamentfragment aus dem 9. Jahrhundert [entdeckt](https://www.zeit.de/news/2025-10/31/halle-digitalisiert-bibliothek-pergamentfragment-entdeckt), dass sich im Einband eines anderen Buches versteckt hatte.
 
 ## Transparenz
 * Geheimdienst schnüffelt bei NGOs
