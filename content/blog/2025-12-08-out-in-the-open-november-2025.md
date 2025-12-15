@@ -46,6 +46,13 @@ type: blog
 * Data Hub Berlin - Die zentrale & modulare Infrastruktur für Datenprojekte. Für eine digitale Verwaltung, die wirkt.
   https://data-hub.berlin
 
+### Adventskalendar
+* Open Data Adventskalender
+  https://de.linkedin.com/posts/open-data-adventskalender_odadvent-christmaslights-opendata-activity-7401907000139214849-dG4D
+  https://www.linkedin.com/company/open-data-adventskalender
+* 24 Türchen für eine nachhaltige und sozial-gerechte Digitalisierung
+  https://mastodon.bits-und-baeume.org/@bits_und_baeume/115645742714424719
+
 ### Wikiverse
 * Wiki Radio
   https://www.monkeon.co.uk/wikiradio/
@@ -312,6 +319,8 @@ type: blog
   https://science.orf.at/stories/3232893/
 * Abwasser von Schlachthöfen: Antibiotikaresistente Keime im Bach – Behörden prüfen nicht
   https://taz.de/Abwasser-von-Schlachthoefen/!6128415/
+* Sorge ums Trinkwasser: Ohne neue Reinigungsverfahren kommen weiter Medikamentenreste in die Umwelt
+  https://www.riffreporter.de/de/technik/wasseraufbereitung-spurenschadstoffe-klaeranlage-eu-richtlinie-pharmaindustrie  
 * Themenmonat November: Luftschadstoffe und die Gesundheit 
   https://www.mobil-auf-deine-weise.de/themenmonate/november/
 ### Recycling
@@ -326,7 +335,7 @@ type: blog
 * Permacomputing – Warum es höchste Zeit ist, dass Permakultur auch in der digitalen Welt Wurzeln schlägt
   https://reset.org/permacomputing-warum-es-hoechste-zeit-ist-dass-permakultur-auch-in-der-digitalen-welt-wurzeln-schlaegt/
 
-## KIrre
+## Völlig KIrre
 ### Blasenbildung
 * KI-Zirkus der Bundesregierung, ihre Buzzwords lassen uns ratloser zurück als sonst.
   https://chaos.social/@netzpolitik_feed/115473961422207642
@@ -562,6 +571,8 @@ type: blog
   https://mastodon.social/@leibnizopenscience/115627450764265276
 * OSBA Connect 2025 - Innovationsbooster Open Source
   https://www.youtube.com/live/oBUoYPT09Gc
+* Linked Open Data Barcamp Bielefeld 2025
+  https://pad.okfn.de/p/LOD-Barcamp-Bielefeld
 
 ## Und sonst so
 * Are We Trek Yet?
@@ -578,7 +589,8 @@ type: blog
   * https://informatik2026.gi.de/CfP.html
 * re:publica, Einreichungen bis 15.01.2026
   * https://re-publica.com/de/cfp-berlin
-
+* Munich Open Data Challenge 2026, Einreichungen von 07.01.2026 bis 11.02.2026 möglich
+  https://datengartln.de/challenge/
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Dienstag, 02.12.2025, 10:00-11:30, online: **Umwege zu besseren LIDO-Daten. Workflows externer Normdatenanreicherung** <a title='Kalendereintrag Umwege zu besseren LIDO-Daten. Workflows externer Normdatenanreicherung' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVW13ZWdlIHp1IGJlc3NlcmVuIExJRE8tRGF0ZW4uIFdvcmtmbG93cyBleHRlcm5lciBOb3JtZGF0ZW5hbnJlaWNoZXJ1bmcvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTEyMTJUMjIzODM0Wg0KRFRTVEFSVDoyMDI1MTIwMlQxMDAwMDANCkRURU5EOjIwMjUxMjAyVDExMzAwMA0KU1VNTUFSWTpVbXdlZ2UgenUgYmVzc2VyZW4gTElETy1EYXRlbi4gV29ya2Zsb3dzIGV4dGVybmVyIE5vcm1kYXRlbmFucmVpY2hlcnVuZw0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cuZGlnaXMtYmVybGluLmRlL3dvcmtzaG9wLXVtd2VnZS16dS1iZXNzZXJlbi1saWRvLWRhdGVuLXdvcmtmbG93cy1leHRlcm5lci1ub3JtZGF0ZW5hbnJlaWNoZXJ1bmcvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
