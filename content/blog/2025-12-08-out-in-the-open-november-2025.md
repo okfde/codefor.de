@@ -45,35 +45,14 @@ Damit man wissensmäßig kein Spargeltarzan bleibt, gab es im Workshop [From Zer
 [An drei Beispielen](https://www.youtube.com/watch?v=QL8JewqoXTs) zeigt Prof. Björn Brembs vom Institut für Zoologie in Regensburg, wie sie die Veröffentlichung von Linked Open Data mit einem Skript [automatisiert haben](https://mastodon.social/@brembs/115565388224201930). Die so erzeugten FAIRen Datenpakete enthalten neben dem Rohdaten, auch die Daten zur Qualitätskontrolle als auch Verlinkung zu relevanter Software und Datenmodellen. 
 
 ## Verwaltungsdigitalisierung
-* Zielbild
-  https://bmds.bund.de/ministerium/zielbild
-  https://chaos.social/@stk/115470613874314090
-  * Aus »Leuchtturmprojekten« werden »Durchbruchsprojekte«
-    https://www.nd-aktuell.de/artikel/1195253.zielbild-digitalministerium-viel-laerm-um-nichts.html
-* Hebel zur Entlastung oder nächste KI-Falle? Automatisierung und Robotic im öffentlichen Dienst
-  https://de.linkedin.com/pulse/hebel-zur-entlastung-oder-n%C3%A4chste-ki-falle-und-robotic-ertan-%C3%B6zcan-oeqre
+Alter Wein in neuen Schläuchen? - das Bundesministerium für Digitales und Staatsmodernisierung hat sich ein neues [Zielbild](https://bmds.bund.de/ministerium/zielbild) gegeben. [Für Anne Roth](https://www.nd-aktuell.de/artikel/1195253.zielbild-digitalministerium-viel-laerm-um-nichts.html) viel Lärm um nichts, aus den bestehenden "Leuchtturmprojekten" werden im neuen Marketingsprech "Durchbruchsprojekte", deren Ziele sind nicht mal konkret ausformuliert, geschweige wie sie den Bürgern (und nicht nur Unternehmen) nützen könnten. Als eher ein Darmdurchbruch oder [eine andere Verballhornung](https://chaos.social/@stk/115470613874314090).
+
+Viel (technologischer) Aktionismus, wenig Substanz droht auch beim Hinterhergelaufe von öffentlichen Verwaltungen bei Buzzwords wie Generative KI und Automatisierung Robotic Process Automation (RPA). Ein kopfloses Huhn mag noch ein paar Meter laufen können, aber eben nicht viel weiter. Ertan Özcan fordert daher einen stragischen Ansatz und stellt an Hand von Beispielen etwa aus Kopenhagen und Pennsylvania [in seinem Artikel](https://de.linkedin.com/pulse/hebel-zur-entlastung-oder-n%C3%A4chste-ki-falle-und-robotic-ertan-%C3%B6zcan-oeqre) Chancen und Risiken von Automatisierung in Behörden gegenüber.
 
 ## Digital-Omnibus-Gesetz
-* Datenschutz: Bundesregierung will kleine Änderungen mit großer Wirkung
-  https://www.heise.de/news/Datenschutz-Bundesregierung-will-kleine-Aenderungen-mit-grosser-Wirkung-10965609.html
-* Digitaler Omnibus: EU-Kommission strebt offenbar Kahlschlag beim Datenschutz an
-  https://netzpolitik.org/2025/digitaler-omnibus-eu-kommission-strebt-offenbar-kahlschlag-beim-datenschutz-an-update/
-* EU-Kommission will Datenschutzgrundverordnung und KI-Regulierung schleifen
-  https://netzpolitik.org/2025/digitaler-omnibus-eu-kommission-will-datenschutzgrundverordnung-und-ki-regulierung-schleifen/
-* EU Commission internal draft would wreck core principles of the GDPR
-  https://noyb.eu/en/eu-commission-about-wreck-core-principles-gdpr
-* Die Woche, in der die Omnibusse rollten
-  https://netzpolitik.org/2025/kw-46-die-woche-in-der-die-omnibusse-rollten/
-* Press Release: Commission’s Digital Omnibus is a major rollback of EU digital protections
-  https://edri.org/our-work/commissions-digital-omnibus-is-a-major-rollback-of-eu-digital-protections/
-  https://eupolicy.social/@edri/115576734235295283
-* Digitaler Omnibus: Wie Medien aus Angst vor Komplexität eine Debatte verzerren
-  https://netzpolitik.org/2025/digitaler-omnibus-wie-medien-aus-angst-vor-komplexitaet-eine-debatte-verzerren/
-  https://mamot.fr/@roofjoke/115588018212866083
-* EU-Kommission plant digitale Identität für Unternehmen
-  https://netzpolitik.org/2025/european-business-wallet-eu-kommission-plant-digitale-identitaet-fuer-unternehmen/
-* Die EU muss hart erkämpften Schutz für digitale Menschenrechte bewahren
-  https://digitalcourage.de/blog/2025/offener-brief-digitaler-omnibus
+Mit dem geplanten Digital-Omnibus-Gesetz wirft die EU-Kommission den Datenschutz de facto vor den Bus. Mit [ihren 20 Seiten Reformideen](https://www.heise.de/news/Datenschutz-Bundesregierung-will-kleine-Aenderungen-mit-grosser-Wirkung-10965609.html) für die DSGVO ist die Bundesregierung durchaus auch ein Treiber, z.B. was Ausweitung des "berechtigten Interessse" der Anbieter oder eine "relative Anonymisierung" (die eine theoretische Deanonymisierung durch dem Verarbeitenden selbst nicht zur Verfügung stehenden Daten erlauben würde) angeht. Die entsprechenden Entwürfe zu [Data-Act und Datenschutzgrundverordnung (DSGVO)](https://cdn.netzpolitik.org/wp-upload/2025/11/EU-Kommission-Digital-Omnibus-A-Data-Act-und-DSGVO.pdf) und [KI](https://cdn.netzpolitik.org/wp-upload/2025/11/EU-Kommission-Digital-Omnibus-B-KI.pdf) liegen [inzwischen vor](https://netzpolitik.org/2025/digitaler-omnibus-eu-kommission-will-datenschutzgrundverordnung-und-ki-regulierung-schleifen/). So dient der Datenschutz mal wieder als Ausrede, um von der mangelnden Innovationskraft abzulenken. Vielleicht haben diejenigen, die immer im Datenschutz den Haupthindergrund sehen, selbst einen negativen [Busfaktor](https://de.wikipedia.org/wiki/Truck_Number)?
+
+Auch für Max Schrems von [noyb](https://noyb.eu/) helfen die Entwürfe nicht den kleinen Unternehmen, wie sie vorgeben, sondern doch nur wieder BigTech, dafür würden sie [die Kernanliegen der DSGVO zerstören](https://noyb.eu/en/eu-commission-about-wreck-core-principles-gdpr). Auch das [European Digital Rights (EDRi)](https://edri.org/our-work/commissions-digital-omnibus-is-a-major-rollback-of-eu-digital-protections/) und [Digitalcourage](https://digitalcourage.de/blog/2025/offener-brief-digitaler-omnibus) warnen eindringlich vor der geplanten Aushöhlung des jahrelang erkämpften digitalen Datenschutzes. Die Hauptmedien [verzerren aus Sicht von Netzpolitik](https://netzpolitik.org/2025/digitaler-omnibus-wie-medien-aus-angst-vor-komplexitaet-eine-debatte-verzerren/) dagegen die Debatte über das geplante Gesetzespaket durch unzulässige Komplexreduktion und erwecken dadurch den Eindruck, [es würde nur](https://mamot.fr/@roofjoke/115588018212866083) um die Regulierung von Cookie-Bannern gehen.
 
 ## Digitale Souveränität
 ### USA
