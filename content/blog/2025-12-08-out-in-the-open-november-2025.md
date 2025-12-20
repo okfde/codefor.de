@@ -12,54 +12,37 @@ type: blog
 ---
 
 ## Open Data
-### Berlin
-* Berlin Abitur-Ergebnisse 2025
-  https://daten.berlin.de/datensaetze/abitur-ergebnisse-2025-1612167
-  https://mastodontech.de/@opendataberlin/115472936087296843
-* awesome-berlin-data
-  https://github.com/tifa365/awesome-berlin-data
-  https://norden.social/@datenschatz/115479863387690335
-* Kliniken in Berlin, die Schwangerschaftsabbrüche vornehmen
-  https://mastodontech.de/@opendataberlin/115487093585258277
-* Leistungsberichte der Berliner Hochschulen 2023
-  https://mastodontech.de/@opendataberlin/115572030037018051
+### Open Data auf Mastodon
+Schon seit Mitte des Jahres kann man dem Mastodon-Bot [OpenDataBerlin](https://mastodontech.de/@opendataberlin) folgen, um immer informiert über Neuveröffentlichung auf dem Open-Daten-Portal zu bleiben. So wurden beispielsweise in den letzten Wochen die [Berlin Abitur-Ergebnisse 2025](https://daten.berlin.de/datensaetze/abitur-ergebnisse-2025-1612167) online [gestellt](https://mastodontech.de/@opendataberlin/115472936087296843), aber auch die [Leistungsberichte der Berliner Hochschulen 2023](https://mastodontech.de/@opendataberlin/115572030037018051) sowie Daten über [Kliniken in Berlin, die Schwangerschaftsabbrüche vornehmen](https://mastodontech.de/@opendataberlin/115487093585258277), um nur einige zu nennen. Während der Bot für Berlin nach Account-Beschreibung von der Zivilgesellschaft betrieben wird, kümmert sich das Open Data Team in Dortmund selbst um die Einträge auf [ihrem Mastodon-Account](https://ruhr.social/@DortmundData). Auf dem [Konto des bayerischen Open ByData Competence Centers](https://mastodon.social/@ocbydata) finden sich ebenfalls regelmäßig Open Data Highlights.
+
+### Adventskalender
+Die nette Tradition eines Online-Adventskalenders, hinter dessen Türchen sich jeden Tag ein (idealerweise komplett neuveröffentlichter) Datensatz versteckt, haben nicht alle der einst Beiteiligten durchgehalten. Allein das [Schweizer Open Data Uhrwerk](https://www.linkedin.com/company/open-data-adventskalender) schlägt auch dieses Jahr bis zum 24-ten jeweils einen Datensatz zum Entdecken vor, wie zum Beispiel hier die Daten zum [Stromverbrauch vom Kanton Basel](https://de.linkedin.com/posts/open-data-adventskalender_odadvent-christmaslights-opendata-activity-7401907000139214849-dG4D) hübsch verpackt in Reimform.
+
+Keine offene Daten aber verschiedene Wege zum Erreichen einer nachhaltigen und sozial-gerechten Digitalisierung werden im Adventskalender der Initiative Bits und Bäume [vorgestellt](https://mastodon.bits-und-baeume.org/@bits_und_baeume/115645742714424719).
+
 ### Datenarbeit
-* Kooperative Datenarbeit. Synergien durch FAIRness und openness
-  https://zenodo.org/records/16970805
-* Ein Traum vom offenen Wissen: Datenteilen in der Wissenschaft
-  https://sharecast.podigee.io/8-7-ein-traum-vom-offenen-wissen-datenteilen-in-der-wissenschaft
-* Digitale Souveränität: Entscheiden, wie man teilt
-  https://sharecast.podigee.io/9-8-digitale-souveraenitaet-entscheiden-wie-man-teilt
-* Über Liebe auf den zweiten Blick: Wie Datenplattformen wie CIVITAS/CORE das urbane Datenmanagement revolutionieren können
-  https://citylab-berlin.org/de/blog/ueber-liebe-auf-den-zweiten-blick-wie-datenplattformen-wie-civitas-core-das-urbane-datenmanagement-revolutionieren-koennen/
-* Kleiner Werkstattbericht "Musterdatenkatalog
-  https://www.linkedin.com/posts/govdata-de_govdata-musterdatenkatalog-opendata-ugcPost-7388596768575229952-8svW
+Tim hat für Berlin eine initiale Liste von Open-Data-Quellen, -APIs, Werkzeugen und Anwendungen in [dieser Markdown-Datei](https://github.com/tifa365/awesome-berlin-data) auf Github [zusammentragen](https://norden.social/@datenschatz/115479863387690335). Wem noch Einträge fehlen, möge diese gern über Pull-Requests zur Aufnahme in die Liste vorschlagen.
 
-### Linked Open Data
-* From Zero to SPARQL. Eine Einführung in die Abfrage von Wissensgraphen
-  https://metadaten.community/t/from-zero-to-sparql-eine-einfuehrung-in-die-abfrage-von-wissensgraphen/919
-* Automating Linked Open Data Publication
-  https://www.youtube.com/watch?v=QL8JewqoXTs
-  https://mastodon.social/@brembs/115565388224201930
+Der Umzug des Musterdatenkatalogs zu GovData kommt derweil voran: [ein kleiner Werkstattbericht](https://www.linkedin.com/posts/govdata-de_govdata-musterdatenkatalog-opendata-ugcPost-7388596768575229952-8svW) gibt Auskunft darüber, was in den letzten Wochen hinter den Kulissen so los war.
 
-### Open Data Infrastruktur
-* Data Hub Berlin - Die zentrale & modulare Infrastruktur für Datenprojekte. Für eine digitale Verwaltung, die wirkt.
-  https://data-hub.berlin
+Um das Erstellen bzw. Beschreiben von Datensätze (und deren Metadaten), deren kontinuierlichen Pflege aber auch Zugriffs-Berechtigungsmanagement und Darstellung so einfach wie möglich zu machen, braucht es gutes Tooling. Ein solches möchte die Open-Source-Datenplattorms-Software [CIVITAS/CORE](https://www.civitasconnect.digital/civitas-core/) sein. Das sie das trotz Komplexität ist, wird im [Citylab-Berlin-Podcast](https://citylab-berlin.org/de/blog/ueber-liebe-auf-den-zweiten-blick-wie-datenplattformen-wie-civitas-core-das-urbane-datenmanagement-revolutionieren-koennen/) diskutiert.
 
-### Adventskalendar
-* Open Data Adventskalender
-  https://de.linkedin.com/posts/open-data-adventskalender_odadvent-christmaslights-opendata-activity-7401907000139214849-dG4D
-  https://www.linkedin.com/company/open-data-adventskalender
-* 24 Türchen für eine nachhaltige und sozial-gerechte Digitalisierung
-  https://mastodon.bits-und-baeume.org/@bits_und_baeume/115645742714424719
+Um an vollendet-veredelte Spitzendaten zu gelangen hat die Technologiestiftung, zu der das Citylab gehört, ihrerseits mit dem [Data Hub Berlin](https://data-hub.berlin) einen ersten Prototypen an den Start gebracht, der einen Stack aus Open-Source-Software-Tools vorschlägt, mit denen sich die Anforderungen an eine modulare Datenplattform abdecken lassen: von Datenspeicherung, über Datenanalyse und Berechtigungsmanagement, zu Datenvisualisierung und Kartendarstellungen.
+
+### Daten teilen
+Der schon im letzten Blogpost vorgestellte Podcast Sharecast widmet sich [in Folge 7](https://sharecast.podigee.io/8-7-ein-traum-vom-offenen-wissen-datenteilen-in-der-wissenschaft) dem Datenteilen in der Wissenschaft mit dem Leitbild der OpenScience und offenes Wissen, hinterfragt aber [in der anschließenden Folge](https://sharecast.podigee.io/9-8-digitale-souveraenitaet-entscheiden-wie-man-teilt) kritisch, ob allzu unbedachtes Teilen von Daten die eigene digitale Souveränität weiter untergraben könnte, wenn diese an BigTech abfließen.
 
 ### Wikiverse
-* Wiki Radio
-  https://www.monkeon.co.uk/wikiradio/
-  https://www.heise.de/news/Web-Tipps-Akustische-Wikimedia-Fundstuecke-11074521.html
-* OpenData Award für #CARLA
-  https://carla.hmt-leipzig.de
-  https://openbiblio.social/@JensB/115587608151348977
+Wie man durch FAIRness und Openness in der kooperative Datenarbeit Synergien erzielen kann, thematisierte Andreas Winkler [in seinem Impulsvortrag](https://zenodo.org/records/16970805) im Rahmen der digiS-Jahreskonferenz 2025 auch an Hand von Beispielen gelungener Kollaborationen im Wikiverse.
+
+[CARLA](https://carla.hmt-leipzig.de) ist eine Datenbank, die Informationen und Unterlagen zu Studierenden, Lehrenden und weiteren Angehörigen am Leipziger Konservatorium (der heutigen Hochschule für Musik und Theater "Felix Mendelssohn Bartholdy" (HMT)) in der Zeit zwischen 1843 und 1918 [enthält](https://de.wikisource.org/wiki/Historische_Studierendenunterlagen_der_HMT_Leipzig). Für deren "herausragende Erschließung, Vernetzung und Zugänglichmachung von Forschungsdaten zur Hochschulgeschichte" [erzielte die HMT](https://www.hmt-leipzig.de/news-events/3-preis-fuer-hmt-projekt-carla) im November den 3. Platz beim [SaxFDM Open Data Award](https://saxfdm.de/open-data-award-2025/).
+
+Auf [Wiki Radio](https://www.monkeon.co.uk/wikiradio/) werden akustische Inhalte der Wikimedia Commons nach Zufallsprinzip [abgespielt](https://www.heise.de/news/Web-Tipps-Akustische-Wikimedia-Fundstuecke-11074521.html). Der Schöpfer der Seite hat sich dabei von [WikiTok](https://wikitok.net), die zufällige Wikipedia-Artikel in einem Endlos-Bildlaufformat ähnlich wie TikTok anzeigt, inspirieren lassen.
+
+### Linked Open Data
+Damit man wissensmäßig kein Spargeltarzan bleibt, gab es im Workshop [From Zero to SPARQL](https://metadaten.community/t/from-zero-to-sparql-eine-einfuehrung-in-die-abfrage-von-wissensgraphen/919) eine Einführung in die Abfrage von Wissensgraphen. Die Folien kann man sich [hier](https://doi.org/10.5281/zenodo.17368769) noch anschauen.
+
+[An drei Beispielen](https://www.youtube.com/watch?v=QL8JewqoXTs) zeigt Prof. Björn Brembs vom Institut für Zoologie in Regensburg, wie sie die Veröffentlichung von Linked Open Data mit einem Skript [automatisiert haben](https://mastodon.social/@brembs/115565388224201930). Die so erzeugten FAIRen Datenpakete enthalten neben dem Rohdaten, auch die Daten zur Qualitätskontrolle als auch Verlinkung zu relevanter Software und Datenmodellen. 
 
 ## Verwaltungsdigitalisierung
 * Zielbild
