@@ -115,20 +115,15 @@ Den ganzen November lief wieder die ["30 Day Map Challenge"](https://30daymapcha
 Bei der interaktiven Karten ["Parking or Playground"](https://www.hanshack.com/parking/) kann man sich für einen beliebigen 1km-Radius-Kartenausschnitt von Berlin ausgeben, wie gerecht die Flächen zwischen Parkplätzen, Spielplätzen und Grünlagen [aufgeteilt sind](https://troet.cafe/@hanshack/115536038904124002).
 
 ## Mobilität
-* Autogipfel im Kanzleramt: BNW kritisiert Rückwärtsgang bei der Mobilitätswende
-  https://www.bnw-bundesverband.de/autogipfel-im-kanzleramt-bnw-kritisiert-rueckwaertsgang-bei-der-mobilitaetswende
-* In Deutschland gibt es fast so viele Stehzeuge wie Fahrzeuge
-  https://www.spiegel.de/auto/auto-mehr-pkw-in-deutschland-aber-fahrleistung-nimmt-ab-a-4ee02943-fe8e-44ef-8963-3f019837ad0b
-* Rutometro — the Project Redefining Public Transport in Mexico
-  https://www.trufi-association.org/rutometro-redefining-public-transport-in-mexico/
-  https://urbanists.social/@TrufiAssoc/115606066386240364
-* Paris Vorher / Nachher
-  https://verkehrswende.social/@x_tof/115624862888295835
-  https://mastodon.social/@cmconseils/115616453811325078
-* Mobilitätsgeld statt Pendlerpauschale
-  https://background.tagesspiegel.de/verkehr-und-smart-mobility/briefing/mobilitaetsgeld-statt-pendlerpauschale
-* pendler-innen+pendlersaldo-an-der-bevoelkerung-gesamt+gemeinden-und-staedte-und-landkreise+2023+karte
-  https://www.wegweiser-kommune.de/daten/pendler-innen+pendlersaldo-an-der-bevoelkerung-gesamt+gemeinden-und-staedte-und-landkreise+2023+karte
+[Ein Video](https://mastodon.social/@cmconseils/115616453811325078) zeigt in einer Minute an Hand von 20 ausgewählten Straßen in Paris, wie durch die Reduktion von Parkplätzen und dem Pflanzen von Bäumen und Sträuchern an ihrer Stelle die Aufenthaltsqualität angehoben werden konnte.
+
+Laut der vom Bundesverkehrsministeriums beauftragte Studie ["Mobilität in Deutschland"](https://www.mobilitaet-in-deutschland.de/pdf/MiD2023_Ergebnisbericht.pdf) werden in Deutschland Autos im Durchschnitt pro Tag [immer weniger bewegt](https://www.spiegel.de/auto/auto-mehr-pkw-in-deutschland-aber-fahrleistung-nimmt-ab-a-4ee02943-fe8e-44ef-8963-3f019837ad0b), fast die Hälfte aller Autos wird an einem durchschnittlichen Tag überhaupt nicht bewegt, 2008 waren es bloß ein Drittel.
+
+Mit Fortbestehen der Pendlerpauschale und dem Dienstwagenprivileg werden aber weiterhin die nicht nachhaltigen Fortbewegungsarten bevorzugt, von denen zudem überdurchschnittlich Besserverdienende mehr profitieren. [Für die Agora Verkehrswende](https://background.tagesspiegel.de/verkehr-und-smart-mobility/briefing/mobilitaetsgeld-statt-pendlerpauschale) wäre ein Mobilitätsgeld statt der Pendlerpauschale sinnvoller gewesen, weil sozial gerechter und besser für den Staatshaushalt. Über dieses hätte man auch die Förderung nach Wahl des Verkehrsmittels staffeln können. So bleibt Deutschland [eine Pendlerrepublik](https://www.wegweiser-kommune.de/daten/pendler-innen+pendlersaldo-an-der-bevoelkerung-gesamt+gemeinden-und-staedte-und-landkreise+2023+karte).
+
+Die Regierung redet sich ja gerne heraus, dass sie Politik im Sinne der Wirtschaft machen würde. Das dies nicht stimmt, zeigte der Autogipfel im Kanzleramt: so kritisierte selbst BMW [den Rückwärtsgang bei der Mobilitätswende](https://www.bnw-bundesverband.de/autogipfel-im-kanzleramt-bnw-kritisiert-rueckwaertsgang-bei-der-mobilitaetswende), den das Abschwächen der Flottengrenzwerte auf EU-Ebene bedeutet. Denn die Industrie braucht vor allem Verlässlichkeit in der Planung und kein ideologiegetriebenes Hü-und-Hott. Vor allem wenn der Verkehrssektor schon seit Jahren alle Sektor- und Klimaziele reißt.
+
+Im globalen Süden fehlen oftmals Daten zum öffentlichen Personennahverkehr oder sind nicht frei zugänglich. Mexiko ist eines der Länder, die kaum ausgebauten ÖPNV und hohe Verkehrsemissionen haben. Die Trufi Association will das mit ihren Partnern Codeando México und dem Humanitarian OpenStreetMap Team (HOT) mit der Multi-City-App Rutometro [ändern](https://www.trufi-association.org/rutometro-redefining-public-transport-in-mexico/) und Haltestellen, Fahrpläne und Routen als GTFS-Daten [bereitstellen](https://urbanists.social/@TrufiAssoc/115606066386240364).
 
 ## Energie
 * Reine Solardrohne hebt ohne Pufferkondensator oder Batterie ab
