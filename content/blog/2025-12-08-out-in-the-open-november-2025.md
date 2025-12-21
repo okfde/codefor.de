@@ -54,58 +54,40 @@ Mit dem geplanten Digital-Omnibus-Gesetz wirft die EU-Kommission den Datenschutz
 
 Auch für Max Schrems von [noyb](https://noyb.eu/) helfen die Entwürfe nicht den kleinen Unternehmen, wie sie vorgeben, sondern doch nur wieder BigTech, dafür würden sie [die Kernanliegen der DSGVO zerstören](https://noyb.eu/en/eu-commission-about-wreck-core-principles-gdpr). Auch das [European Digital Rights (EDRi)](https://edri.org/our-work/commissions-digital-omnibus-is-a-major-rollback-of-eu-digital-protections/) und [Digitalcourage](https://digitalcourage.de/blog/2025/offener-brief-digitaler-omnibus) warnen eindringlich vor der geplanten Aushöhlung des jahrelang erkämpften digitalen Datenschutzes. Die Hauptmedien [verzerren aus Sicht von Netzpolitik](https://netzpolitik.org/2025/digitaler-omnibus-wie-medien-aus-angst-vor-komplexitaet-eine-debatte-verzerren/) dagegen die Debatte über das geplante Gesetzespaket durch unzulässige Komplexreduktion und erwecken dadurch den Eindruck, [es würde nur](https://mamot.fr/@roofjoke/115588018212866083) um die Regulierung von Cookie-Bannern gehen.
 
+Die Bewegung [People vs. BigTech](https://peoplevsbig.tech) fordert [bei einem Protest](https://bewegung.social/@lobbycontrol/115576111035854793) die EU-Kommissionspräsidentin Ursula von der Leyen auf, für Europa zu kämpfen und nicht für die Interessen von Trump und Co.
+
 ## Digitale Souveränität
 ### USA
-Auf der interaktiven Webseite [authoritarian-stack.info](https://www.authoritarian-stack.info) zeigen Wissenschaftler:innen das Netzwerk aus Personen und Firmen, deren privaten Plattformen immer mehr staatliche Funktionen in den USA übernehmen und wie sich dieser "Authoritarian Stack" [auch nach Europa ausweitet](https://netzpolitik.org/2025/interaktive-webseite-wie-autoritaere-tech-netzwerke-die-europaeische-souveraenitaet-gefaehrden/). 
+Auf der interaktiven Webseite [authoritarian-stack.info](https://www.authoritarian-stack.info) zeigen Wissenschaftler:innen das Netzwerk aus Personen und Firmen, deren privaten Plattformen immer mehr staatliche Funktionen in den USA übernehmen und wie sich dieser "Authoritarian Stack" [auch nach Europa ausweitet](https://netzpolitik.org/2025/interaktive-webseite-wie-autoritaere-tech-netzwerke-die-europaeische-souveraenitaet-gefaehrden/).
+
+Wie es sich auswirkt, wenn man nicht den Interessen der USA entspricht zeigt der folgende Fall. Weil er als Richter am Internationalen Strafgerichtshof gegen den israelischen Premierminister Benjamin Netanjahu und den Verteidigungsminister Yoav Gallant wegen Kriegsverbrechen und Verbrechen gegen die Menschlichkeit im Kontext der Zerstörung des Gazastreifens Haftbefehle mit erlassen hatte, wurde der Franzose Nicolas Guillou vom US-Finanzministerium wie seine Richter- und Staatsanwalts-Kollegen mit Sanktionen belegt. Dadurch wurden seine Konten z.B. bei Amazon, Airbnb oder PayPal geschlossen. Da American Express, Visa und Mastercard de facto über ein Monopol in Europa verfügen, seinen Online-Zahlungstransaktionen für ihn auch nicht mehr möglich.
 
 Die Deutsche Forschungsgemeinschaft (DFG) [hat eine Initiative gestartet](https://www.heise.de/news/US-Clouds-Deutsche-Forschungsgemeinschaft-will-Daten-aus-dem-Ausland-heimholen-10966079.html), wichtige Forschungsdaten aus ausländischen Cloud-Speichern, speziell solchen von US-Anbietern, herauszulösen. Perspektivisch soll nun eine European Open Science Cloud (EOSC) aufgebaut werden. 
 
 ### Deutschland
-Manche lernen es nie - Bayern möchte trotz dieser Entwicklungen seine Behörden dennoch mit Microsoft 365 [ausstatten](https://www.heise.de/news/Vertrag-soll-bis-Jahresende-stehen-Bayern-will-in-die-Microsoft-Cloud-11066618.html). Neben Preisgabe der digitalen Souveränität drohen Lizenzkosten in Milliardenhöhe, Geld, welches dann zudem für den Aufbau einer eigenen (auch personellen) IT-Infrastruktur [fehlt](https://mastodon.social/@RichardHeigl/115570840524942039). Mit [der jüngst](https://www.heise.de/news/Office-Alternative-aus-Deutschland-von-Ionos-und-Nextcloud-ist-jetzt-verfuegbar-11067303.html) veröffentlichten ["Ionos Nextcloud Workspace"](https://www.ionos.de/office-loesungen/nextcloud-workspace) Lösung hätte es dabei nicht nur eine souveränere sondern auch kostengünstigere Alternative gegeben. Und mit [OpenDesk](https://www.opendesk.eu/de) gäbe es sogar noch eine weitere Alternative zur Alternative. Diese wird [im Interview](https://user.space/e009-interview-mit-zendis/) mit Zendis auf dem Podcast ["Urlaub im Userspace"](https://user.space) vorgestellt. Auf dem [SCS-Summit 2025](https://sovereigncloudstack.org/insights/scs-summit-2025/) wurde zudem die [Diskussion](https://egovernment-podcast.com/egov234-deutschlandstack-scss25/) über Chancen und Risiken des [Deutschland-Stacks](https://deutschland-stack.gov.de) aufgezeichnet. Und in nur vier Minuten bekommt man [im Video](https://digitalcourage.video/w/p4VBLACzX1sFG1YfVs1JEB) anschaulich das Fediverse als Alternative zu den gängigen Social-Media-Plattformen erklärt.
+Manche lernen es nie - Bayern möchte trotz dieser Entwicklungen seine Behörden dennoch mit Microsoft 365 [ausstatten](https://www.heise.de/news/Vertrag-soll-bis-Jahresende-stehen-Bayern-will-in-die-Microsoft-Cloud-11066618.html). Neben Preisgabe der digitalen Souveränität drohen Lizenzkosten in Milliardenhöhe, Geld, welches dann zudem für den Aufbau einer eigenen (auch personellen) IT-Infrastruktur [fehlt](https://mastodon.social/@RichardHeigl/115570840524942039). Mit [der jüngst](https://www.heise.de/news/Office-Alternative-aus-Deutschland-von-Ionos-und-Nextcloud-ist-jetzt-verfuegbar-11067303.html) veröffentlichten ["Ionos Nextcloud Workspace"](https://www.ionos.de/office-loesungen/nextcloud-workspace) Lösung hätte es dabei nicht nur eine souveränere sondern auch kostengünstigere Alternative gegeben. Und mit [OpenDesk](https://www.opendesk.eu/de) gäbe es sogar noch eine weitere Alternative zur Alternative. Diese wird [im Interview](https://user.space/e009-interview-mit-zendis/) mit Zendis auf dem Podcast ["Urlaub im Userspace"](https://user.space) vorgestellt. Auf dem [SCS-Summit 2025](https://sovereigncloudstack.org/insights/scs-summit-2025/) wurde zudem die [Diskussion](https://egovernment-podcast.com/egov234-deutschlandstack-scss25/) über Chancen und Risiken des [Deutschland-Stacks](https://deutschland-stack.gov.de) aufgezeichnet.
 
 ### Netzinfrastruktur
-* Droht der digitale Blackout? KI und Internet am Limit
-  https://www.arte.tv/de/videos/120435-000-A/droht-der-digitale-blackout/
-* WLAN-Absage: Bundesregierung will das obere 6-GHz-Band dem Mobilfunk zuweisen
-  https://www.heise.de/news/WLAN-Absage-Bundesregierung-will-das-obere-6-GHz-Band-dem-Mobilfunk-zuweisen-10965779.html
-  * Kommentar: Dauerzank um 6 GHz
-    https://www.heise.de/meinung/Kommentar-Dauerzank-um-6-GHz-11082932.html
+Rechenzentren, Router, Mikroelektronik, Untersehkabel (und inzwischen auch Satelliten) - von all dem hängt der Internetverkehr ab, über denen auch der elektronische Zahlung abgewickelt werden. Neurologische Punkte also, bei deren Ausfall alles zum Stehen kommen würde. Schlecht also, dass vieles davon in den Händen von autoriäten Kräften liegt - droht uns der digitale Blackout fragt daher [diese Arte-Dokumentation](https://www.arte.tv/de/videos/120435-000-A/droht-der-digitale-blackout/). Der KI-Hype trägt sein Übriges bei, was man an den [steigenden Preisen](https://futurezone.at/produkte/ram-preise-krise-engpass-speicher-anstieg-nachfrage-ki-rechenzentren/403106380) für Grafikkarten und Arbeitsspeicher (RAM) sehen kann. Anreize, die dafür sorgen, dass nichts Bezahlbares mehr für den Privatkundenbereich übrig bleibt.  
 
+Auf um die Frequenzbereiche für die Drahtloskommunikation toben die Verteilungskämpfe. Beim neuen 6 GHz-Band will sich nun das Digitalministerium [dafür einsetzen](https://www.heise.de/news/WLAN-Absage-Bundesregierung-will-das-obere-6-GHz-Band-dem-Mobilfunk-zuweisen-10965779.html), dass der gesamte obere Bereich dieses Bandes Mobilfunkbetreiber vorbehalten bleibt, ein Lobbyerfolg der Mobilfunk-Anbieter, denn für diese würde schnelles WLAN ihre Preise für große Datenvolumen [bedrohen](https://www.heise.de/meinung/Kommentar-Dauerzank-um-6-GHz-11082932.html).
 
-### Initiativen
-* Offene Netzwerke und Demokratische Öffentlichkeiten
-  https://offene-netzwerke.eu
-  https://eupolicy.social/@offene_netzwerke/115544001048868827
-  * Forderungen
-    https://offene-netzwerke.eu/forderungen/
-  * Bündnis "Offene Netzwerke und demokratische Öffentlichkeiten"
-    https://digitalegesellschaft.de/2025/11/buendnis-offene-netzwerke-und-demokratische-oeffentlichkeiten/
-* Declaration of Digital Independence
-  https://digitalindependence.eu
+### Gipfel zur Europäischen Digitalen Souveränität
+Das Bündnis ["Offene Netzwerke und demokratische Öffentlichkeiten"](https://offene-netzwerke.eu) hat anlässlich des Gipfels zur Europäischen Digitalen Souveränität am 18. November in Berlin [seine Forderungen](https://offene-netzwerke.eu/forderungen/) an die Bundesregierung in einer Online-Pressekonferenz [vorgestellt](https://digitalegesellschaft.de/2025/11/buendnis-offene-netzwerke-und-demokratische-oeffentlichkeiten/). So soll mit einem aufzulegenden Fediverse Fund dessen Weiterentwicklung mit jährlich 30 Millionen abzusichern. Des Weiteren sieht das so genannte Plus-1-Prinzip vor, dass öffentliche Institutionen auf mindestens einer offenen Social-Media-Plattform mit vergleichbarem finanziellen und strukturellen Aufwand präsent zu sein, wie sie es derzeit bei den geschlossenen Plattformen von BigTech sind. In ihrer dritten Forderung geht es darum, dass Organisationen, die Fediverse-Instanzen oder Freie-Software-Infrastruktur ohne
+Gewinnerzielungsabsicht fördern oder betreiben, ihre Gemeinnützigkeit anerkannt und damit Rechtssicherheit bekommen. Schließlich wird nun gefordert, eine europäische dezentrale, interoperable Medienplattform zu schaffen und diese  unter Einbeziehung der Zivilgesellschaft demokratisch zu betreiben.
 
-### Gipfel zur Europäischen Digitalen Souveränität: 
-* Kehrtwende für die „Innovationsführerschaft“
-  https://netzpolitik.org/2025/gipfel-zur-europaeischen-digitalen-souveraenitaet-kehrtwende-fuer-die-innovationsfuehrerschaft/
-* Souveränitätsgipfel: Abhängigkeiten endlich wirksam reduzieren
-  https://buendnis-f5.de/publikationen/2025-11-17-souveraenitaetsgipfel
-* Livestream
-  https://mastodon.social/@sovtechfund/115570980608630840
-* Souveränitätsgipfel: Merz und Macron proben den Schulterschluss
-  https://www.heise.de/news/Souveraenitaetsgipfel-Merz-und-Macron-proben-den-Schulterschluss-11083979.html
-* Der Gipfel der IT-Abgehängten
-  https://www.golem.de/news/digitale-europaeische-souveraenitaet-der-gipfel-der-it-abgehaengten-2511-202333.html
-* Gestern mein Interview zum desaströsen „Gipfel für europäische digitale Souveränität“
-  https://www.ardmediathek.de/video/br24/interview-prof-martin-andree-zur-digitalen-zukunft/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDE4ODQ0QTAvc2VjdGlvbi9kMDFkYzU3OC0xZTRkLTRhYjItYTNlNS01N2FjOGRjZDU0ODk
-  https://mastodon.social/@martinandree/115577278477387010
-### Monopole
-* Tolle Aktion von @PeopleVsBigTech 
-  https://www.lobbycontrol.de/macht-der-digitalkonzerne/das-google-monopol-zerschlagen-120865/
-  https://bewegung.social/@lobbycontrol/115576111035854793
-* Wegweisendes Urteil: Meta hat kein Social-Media-Monopol
-  https://www.heise.de/news/Wegweisendes-Urteil-Meta-hat-kein-Social-Media-Monopol-11083987.html
-* Digitaler Rückfall in die 90er: US-Sanktionen treffen französischen Richter
-  https://www.heise.de/news/Wie-ein-franzoesischer-Richter-von-den-USA-digital-abgeklemmt-wurde-11087453.html
-  https://fnordon.de/@mspro/115605019793618839
+Und das [Bündnis F5](https://buendnis-f5.de/), bestehend aus den fünf Organisationen [Reporter ohne Grenzen](https://www.reporter-ohne-grenzen.de/), [Algorithm Watch](https://algorithmwatch.org/de), [Wikimedia Deutschland](https://www.wikimedia.de), [Open Knowledge Foundation Deutschland](https://okfn.de) und der [Gesellschaft für Freiheitsrechte](https://freiheitsrechte.org), fordert in ihrer [Pressmitteilung](https://buendnis-f5.de/publikationen/2025-11-17-souveraenitaetsgipfel) von der Bundesregierung ein klares Bekenntnis zu Nachhaltigkeit sowie zu Grund- und Menschenrechten und den dafür notwendigen Durchsetzung beschlossener Digitalgesetze sowie umfassenden Investitionen in ein europäisches digitales Ökosystem.
+
+[Eine digitale Unabhängigkeitserklärung](https://digitalindependence.eu) haben die Mitglieder des europäischen Open-Source-Industrieverbandes [APELL](https://apell.info) in Form eines offenen Briefes vorgelegt, den man mitzeichnen kann. 
+
+Die Videos von Reden und Panels vom eigentlichen Gipfel kann man sich auf der Seite de Digitalministeriums [nochmal anschauen](https://bmds.bund.de/aktuelles/eu-summit).
+
+Im Gegensatz zu den meisten Medien sieht der Medienwissenschaftler Prof. Martin Andree von der Universiät Köln den Digitalgipfel [als Desaster an](https://www.ardmediathek.de/video/br24/interview-prof-martin-andree-zur-digitalen-zukunft/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDE4ODQ0QTAvc2VjdGlvbi9kMDFkYzU3OC0xZTRkLTRhYjItYTNlNS01N2FjOGRjZDU0ODk). Der Elefant im Raum wurde, eben die Monopolstellung der großen Digitalkonzerne wurde nicht angesprochen. Man traue sich nicht zur US-Regierung in Konfrontation zu gehen. Aber nur durch mutige Regulierung wäre wahrer Wettbewerb und digitale Souveränität möglich. Stattdessen sollen im ausgerufenen Rennen um die "Innovationsführerschaft" innereuropäische Regularien [geschleift werden](https://netzpolitik.org/2025/gipfel-zur-europaeischen-digitalen-souveraenitaet-kehrtwende-fuer-die-innovationsfuehrerschaft/). Die Zivilgesellschaft bleibt mit ihren Anliegen Zaungast.
+
+### Social Media
+In einem jahrelangen Rechtsstreit über die Monopolstellung von Meta in den sozialen Medien, den die US-Kartellbehörde Federal Trade Commission (FTC) angestrengt hatte, ist der Konzern [nun als Sieger vom Platz gegangen](https://www.heise.de/news/Wegweisendes-Urteil-Meta-hat-kein-Social-Media-Monopol-11083987.html). Das zuständige Bundesgericht hatte mit Verweis auf Tiktok den Vorwurf als unbegründet zurückgewiesen. Damit ist auch die mögliche Zerschlagung von Meta vom Tisch.
+
+Bleibt nur, proaktiv, wo es geht, sich der Marktmacht zu entziehen: in nur vier Minuten bekommt man [im Video](https://digitalcourage.video/w/p4VBLACzX1sFG1YfVs1JEB) anschaulich das Fediverse als Alternative zu den gängigen Social-Media-Plattformen erklärt.
 
 ## Open Source
 * Rückblick auf das LibreOffice-Projekt und die Community: Oktober 2025
