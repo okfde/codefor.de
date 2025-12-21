@@ -103,44 +103,16 @@ Antibiotikaresistenzen [nehmen weltweit zu](https://www.rki.de/DE/Themen/Infekti
 Das WikiData-Projekt [Medicine](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine) arbeitet an strukturierten Daten über Krankheiten, Medikamenten, Behandlungen und menschlicher Anatomie und [sucht nach Mitstreitern](https://wikis.world/@wikidata/115565036776294010), die helfen wollen, die zugehörigen Ontologie weiter zu verfeinern.
 
 ## Weltraum
-* NASA-Openscapes
-  https://nasa-openscapes.github.io/champions#champions-program-details
-  https://openscapes.org
-  https://techhub.social/@GregCocks/115470167253264016
-* Copernicus Data Space Ecosystem
-  https://dataspace.copernicus.eu
-  https://norden.social/@kilevra/115504726836922492
-* GEPOS® steht als OpenData-Dienst gebührenfrei ohne Nutzerregistrierung unter der Datenlizenz CC-BY 4.0 zur Verfügung.
-  https://gepos.sapos.de/nutzung/
-  https://chaos.social/@stk/115532810572677183
-  https://chaos.social/@stk/115532774922205963
+Europa hat erfolgreich den Sentinel-1D-Satelliten [erfolgreich ins All gebracht](https://www.esa.int/Newsroom/Press_Releases/Copernicus_Sentinel-1D_erreicht_mit_Ariane_6_seine_Umlaufbahn). Er wird nach Inbetriebnahme den 14 Jahren alten Sentinel-1A ersetzen und dann zusammen mit 1C weiter Erdbeobachtungsdaten liefern, die dann kostenlos auf [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu) zugänglich sein werden.
+
+Die Daten des deutschen Satelliten-basierten Positionsbestimmungsdienstes (GEPOS) [können als Open Data](https://gepos.sapos.de/nutzung/) über ein GNSS-Empfänger kostenlos ohne Nutzerregistrierung empfangen werden. Die Korrekturdaten werden über NTRIP und DAB+ übertragen. Ein Alternative für die, deren bisher genutzten Korrekturdienste [abgeschaltet werden](https://chaos.social/@stk/115532774922205963).
+
+Im jährlichen [Mentorenprogramm](https://openscapes.github.io/series/program-summary) der NASA für Open-Data-Forschungsteams [werden diesmal](https://techhub.social/@GregCocks/115470167253264016) Erdbeobachtungsdaten in den Mittelpunkt gerückt. Mit [Openscapes](https://openscapes.org) kann gemeinsam mit den Daten gearbeitet und neue Daten geteilt werden.
 
 ## Karten
-* ohsameDB will succeed OSHDB as backbone of the ohsome framework. 
-  https://heigit.org/moving-to-ohsomedb/
-  https://mastodon.social/@heigit/115620828174000348
+Den ganzen November lief wieder die ["30 Day Map Challenge"](https://30daymapchallenge.com), bei der man für jeden Tag eine neue Herausforderung / neues Thema gestellt bekommt, wie oder was man für eine Karte-Darstellung/-Anwendung bauen soll. Dabei sind einige interessante Projekt entstanden, beispielhaft unter dem entsprechenden Schlagwort auf der [Mastodon-Hauptinstanz](https://mastodon.social/tags/30DayMapChallenge), auf [LinkedIn](https://www.linkedin.com/feed/hashtag/30daymapchallenge2025), auf [Github](https://github.com/search?q=30daymapchallenge2025&type=repositories), davon zwei herausgepickte Beispiele: [Häuser nach Alter eingefärbt](https://www.linkedin.com/posts/ertan-%C3%B6zcan-73bb3399_30daymapchallenge2025-30daymapchallenge-urbanmap-activity-7393381336952041472-kBr7) und [Online GeoParquet Visualizer](https://spatialists.ch/posts/2025/11/11-online-geoparquet-visualizer/)
 
-### 30 Day Map Challenge
-* Bäume in Erlangen
-  https://osna.social/@joliyea/115476834306173848
-* Radwege mit Beleuchtung in Wuppertal
-  https://osna.social/@joliyea/115481680882523346
-* Online GeoParquet Visualizer
-  https://spatialists.ch/posts/2025/11/11-online-geoparquet-visualizer/
-  https://mapstodon.space/@spatialists/115532941097015822
-* Von Alarm bis vor Ort bei Feueralarmen in Berlin
-  https://osna.social/@joliyea/115561099466795124
-* 542 Planungsgebiete Berlin
-  https://osna.social/@joliyea/115561539613554522
-* Accesibility Map Köln
-  https://www.linkedin.com/posts/ertan-%C3%B6zcan-73bb3399_30daymapchallenge2025-30daymapchallenge-opensource-activity-7392695900961361921-TLYB
-* Urban Map Köln
-  https://www.linkedin.com/posts/ertan-%C3%B6zcan-73bb3399_30daymapchallenge2025-30daymapchallenge-urbanmap-activity-7393381336952041472-kBr7
-* Wikidata / OSM Query
-  https://www.linkedin.com/posts/ertan-%C3%B6zcan-73bb3399_30daymapchallenge2025-opendata-wikidata-ugcPost-7397380425331126272-YbG7
-### Flächengerechtigkeit
-* How Is Public Space Shared in Your Neighborhood?
-  https://troet.cafe/@hanshack/115536038904124002
+Bei der interaktiven Karten ["Parking or Playground"](https://www.hanshack.com/parking/) kann man sich für einen beliebigen 1km-Radius-Kartenausschnitt von Berlin ausgeben, wie gerecht die Flächen zwischen Parkplätzen, Spielplätzen und Grünlagen [aufgeteilt sind](https://troet.cafe/@hanshack/115536038904124002).
 
 ## Mobilität
 * Autogipfel im Kanzleramt: BNW kritisiert Rückwärtsgang bei der Mobilitätswende
