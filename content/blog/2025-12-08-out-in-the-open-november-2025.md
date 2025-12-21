@@ -140,7 +140,7 @@ Die 10 aktuellsten und drängendsten [Erkenntnisse](https://10insightsclimate.sc
 
 Die Basisfakten zum Klimawandel, die in der Wissenschaft unumstritten sind, fasst das [Klimafaktenpapier 2025](https://www.klimafaktenpapier.de/Klimafaktenpapier2025.pdf) zusammen, oder einfach in 24 Worten: Er ist real - Wir sind die Ursache - Er ist gefährlich - Die Fachleute sind sich einig - Wir können etwas tun - Die Meisten wollen mehr Klimaschutz.
 
-Eine unabhängige Bewertung, wie sehr die Regierungen weltweit das liefern, was einst im Paris-Abkommen gefordert wurde, nimmt der[Lancet Countdown on health and climate change](https://www.thelancet.com/countdown-health-climate) vor. [Rein rechnerisch](https://dju.social/@DerKlimablog/115480556809914824) kostet Untätigkeit beim Klimaschutz pro Minute einem Menschen weltweit das Leben.
+Eine unabhängige Bewertung, wie sehr die Regierungen weltweit das liefern, was einst im Paris-Abkommen gefordert wurde, nimmt der[Lancet Countdown on health and climate change](https://www.thelancet.com/countdown-health-climate) vor. [Rein rechnerisch](https://dju.social/@DerKlimablog/115480556809914824) kostet Untätigkeit beim Klimaschutz pro Minute einem Menschen weltweit das Leben. Dennoch wurde seit 2015 auch in Deutschland das ein oder andere geschafft, [woran auch Malte Kreutzfeld erinnert](https://mastodon.social/@mkreutzfeldt/115623593214222087), und es zeigt, was möglich ist, wenn man denn will.
 
 ### Extreme 2025
 Der globale CO2-Ausstoß 2025 ist [weiter gestiegen](https://www.tagesschau.de/wissen/klima/global-carbon-budget-2025-100.html), denn auch wenn er in der EU und China konstant bleibt oder gar leicht sinkt, legen [nach dem neuen Bericht](https://www.klimareporter.de/erdsystem/globale-co2-emissionen-von-wegen-trendwende) des Global Carbon Projects die USA um fast zwei, Indien knapp 1,5 Prozent und die restlichen Länder zusammen um mehr als ein Prozent zu.
@@ -151,23 +151,13 @@ Iran droht bald der völlige Zusammenbruch der Grundwasserreserven, welcher zu e
 Ein Verschärfung des Insektensterbens hätte dramatische Folgen für die Lebensmittelsicherheit (auch weltweit, weil die reichen Länder dann die Lebensmittel den eh schon schwer gebeutelten Ländern wegkaufen würde). Eine Simulation zeigt, wie dies in Europa 24 Milliarden Euro Schaden [verursachen würde](https://web.de/magazine/wissen/klima/teuer-europa-insektensterben-41586838). Der Mehrheit der EU-Politikern ist aber das Hemd näher als die Hose, anders kann man sich ihr Abstimmungsverhalten bei "Nature Restoration Law" und "Sustainable Use Regulation" nicht erklären, der kurzfristige Erhalt der Gewinne in der Landwirtschaft und das Erhalten des Wohlwollen von Bauern / Endverbraucher und damit der eigenen Wiederwahl werden stärker gewichtet. Viele sind vielleicht auch schon in einem Alter, wo sie eh nur noch die Kartoffeln von unten anschauen, wenn der Shit den Fan hittet - nach mir die Sinnflut.
 
 Dabei bietet Klimaschutz [sogar Chancen](https://www.kfw.de/%C3%9Cber-die-KfW/Newsroom/Aktuelles/Pressemitteilungen-Details_867584.html), die Wettbewerbsfähigkeit und Wiederstandfähigkeit der deutschen Wirtschaft zu stärken, wie eine Reihe von [Studien](https://www.kfw.de/%C3%9Cber-die-KfW/Service/Download-Center/Konzernthemen/Research/Studien-und-Materialien/) belegen. Der globale Markt für saubere Technologien wächst jedenfalls stetig - Deutschland hat bereits einen Anteil von 13% bei den weltweiten Green-Tech-Exporten.
-  
-### Desinformation
-* COP 30 - Desinformation zum Klimawandel: Lügen statt nur Leugnen
-  https://www.deutschlandfunk.de/cop30-wie-klimadesinformation-klimapolitik-sabotiert-100.html
 
-### Politik
-* EU-Staaten einigen sich auf abgeschwächtes Klimaziel
-  https://www.zeit.de/wissen/umwelt/2025-11/eu-staaten-einigen-sich-auf-abgeschwaechtes-klimaziel-gxe
-* Haushalte und Unternehmen müssen ab 2026 keine Gasspeicherumlage mehr zahlen. Der Bund finanziert die jährlichen Kosten künftig aus dem Klima- und Transformationsfonds.
-  https://www.zeit.de/politik/deutschland/2025-11/gasspeicherumlage-bundestag-entlastung-gas-verbraucher
-* Lieferkettengesetz
-  * Europas Lieferkettengesetze galten als Meilenstein beim Schutz von Menschenrechten, jetzt werden sie dem „Bürokratieabbau“ geopfert.
-    https://netzpolitik.org/2025/kritische-rohstoffe-und-menschenrechte-ursula-von-der-leyen-muss-wort-halten/
-* Industrieverband: DIHK will deutsche Klimaziele infrage stellen
-  https://table.media/climate/thema-des-tages/industrieverband-dihk-will-deutsche-klimaziele-infrage-stellen
-* Die letzten 10 Jahre
-  https://mastodon.social/@mkreutzfeldt/115623610603913729  
+### Politikversagen
+UN-Informationsexpertin Charlotte Scaddan [beklagt](https://www.deutschlandfunk.de/cop30-wie-klimadesinformation-klimapolitik-sabotiert-100.html), dass Kritiker von Klimapolitik nicht nur den Klimawandel leugnen, sondern aktiv mit falschen Narrativen und mit Zweifeln-an-Fakten-säen Öffentlichkeit und Entscheidungsträger versuchen zu manipulieren.
+
+Die Deutsche Industrie- und Handelskammer (DIHK) stellt mit ihrem [DIHK-Positionspapier zum Klimaschutz ](https://www.dihk.de/resource/blob/139712/d4cadc37591037c24b88b823d4227777/klimaschutzbeschluss-data.pdf) die deutsche Klimaziele [in Frage](https://table.media/climate/thema-des-tages/industrieverband-dihk-will-deutsche-klimaziele-infrage-stellen), und möchte, dass man sich nur an den Klimaschutzanstrengungen der wichtigsten wirtschaftlichen Wettbewerber ausrichtet.
+
+Und die Politik beugt sich den Wirtschaftsinteressen: Europas Lieferkettengesetze werden dem "Bürokratieabbau" [geopfert](https://netzpolitik.org/2025/kritische-rohstoffe-und-menschenrechte-ursula-von-der-leyen-muss-wort-halten/). Und die Kosten für die abgeschaffte Gasspeicherumlage zu finanzieren, werden einfach das Geld aus dem Klima- und Transformationsfonds [zweckentfremdet](https://www.zeit.de/politik/deutschland/2025-11/gasspeicherumlage-bundestag-entlastung-gas-verbraucher). Und kurz vor der COP in Brasilien haben sich die EU-Umweltminister [auf ein deutlich abgeschwächtes Klimaziel für 2040 geeinigt](https://www.zeit.de/wissen/umwelt/2025-11/eu-staaten-einigen-sich-auf-abgeschwaechtes-klimaziel-gxe).
 
 ### Anwendungen
 * ReKIS KOMMUNAL
