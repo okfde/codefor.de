@@ -136,20 +136,38 @@ Fernwärme aus dem Fluß, dies ermöglichen hocheffiziente Großwärmepumpen, [i
 
 ## Klima
 ### Wissenschaft
-* Was sind die aktuellsten und dringendsten Erkenntnisse der Klimawissenschaft?
-  https://10insightsclimate.science
-  https://mastodon.social/@science0matters/115468050466839530
-* Klimafaktenpapier 2025
-  https://www.klimafaktenpapier.de/Klimafaktenpapier2025.pdf
-  https://wisskomm.social/@TROPOS/115492375130627780
-* The Lancet Countdown on health and climate change
-  https://www.thelancet.com/countdown-health-climate
-  https://dju.social/@DerKlimablog/115480556809914824
-* Globaler CO2-Ausstoß 2025 weiter gestiegen
-  https://www.tagesschau.de/wissen/klima/global-carbon-budget-2025-100.html
-  * Globale CO₂-Emissionen: Von wegen Trendwende
-    https://www.klimareporter.de/erdsystem/globale-co2-emissionen-von-wegen-trendwende
+Die 10 aktuellsten und drängendsten [Erkenntnisse](https://10insightsclimate.science) der Klimawissenschaft für 2025/2026 und welche politischen Maßnahmen jeweils daraus folgen müssten: neue Wärmerekorde 2023/24 machen die CO2-Emissionsreduktion umso notwendiger, die Erhitzung der Meere - Risikoplanung für Küsten  erfordlich, Landfläche als Kohlenstoffsenke fällt zunehmend aus - die Art Flächennutzung muss dringend überdacht werden, Verlust der Biodiversität - man muss weg von Monokulturen, Verlust von Grundwasser - wasserschonendere Landwirtschaft, Häufung von Dengue-Fieber - globales Krankheiten-Monitoring, klimabedingte Produktivitäts- und Einkommensverluste - andere Arbeitszeiten / Hitzeschutz, CO₂ muss aus der Atmosphäre entfernt werden - technische Maßnahmen ersetzen nicht die Emissionsreduktion, Emissionshandel - Glaubwürdigkeit über Ablasshandel, koordinierter ressourübergreifender Politikmaßnahmenmix statt Einzelmaßnahmen.
 
+Die Basisfakten zum Klimawandel, die in der Wissenschaft unumstritten sind, fasst das [Klimafaktenpapier 2025](https://www.klimafaktenpapier.de/Klimafaktenpapier2025.pdf) zusammen, oder einfach in 24 Worten: Er ist real - Wir sind die Ursache - Er ist gefährlich - Die Fachleute sind sich einig - Wir können etwas tun - Die Meisten wollen mehr Klimaschutz.
+
+Eine unabhängige Bewertung, wie sehr die Regierungen weltweit das liefern, was einst im Paris-Abkommen gefordert wurde, nimmt der[Lancet Countdown on health and climate change](https://www.thelancet.com/countdown-health-climate) vor. [Rein rechnerisch](https://dju.social/@DerKlimablog/115480556809914824) kostet Untätigkeit beim Klimaschutz pro Minute einem Menschen weltweit das Leben.
+
+### Extreme 2025
+Der globale CO2-Ausstoß 2025 ist [weiter gestiegen](https://www.tagesschau.de/wissen/klima/global-carbon-budget-2025-100.html), denn auch wenn er in der EU und China konstant bleibt oder gar leicht sinkt, legen [nach dem neuen Bericht](https://www.klimareporter.de/erdsystem/globale-co2-emissionen-von-wegen-trendwende) des Global Carbon Projects die USA um fast zwei, Indien knapp 1,5 Prozent und die restlichen Länder zusammen um mehr als ein Prozent zu.
+
+Iran droht bald der völlige Zusammenbruch der Grundwasserreserven, welcher zu einer verheerenden Dürre führen würde. Schon seit 2021 besteht die Wasserknappheit im Land, es es wird eine Evakuierung der Hauptstadt Teheran, gar eine komplette Verlegung der Stadt erwogen. Landesweite soziale Unruhen werden immer wahrscheinlicher.
+
+### Wirtschaft
+Ein Verschärfung des Insektensterbens hätte dramatische Folgen für die Lebensmittelsicherheit (auch weltweit, weil die reichen Länder dann die Lebensmittel den eh schon schwer gebeutelten Ländern wegkaufen würde). Eine Simulation zeigt, wie dies in Europa 24 Milliarden Euro Schaden [verursachen würde](https://web.de/magazine/wissen/klima/teuer-europa-insektensterben-41586838). Der Mehrheit der EU-Politikern ist aber das Hemd näher als die Hose, anders kann man sich ihr Abstimmungsverhalten bei "Nature Restoration Law" und "Sustainable Use Regulation" nicht erklären, der kurzfristige Erhalt der Gewinne in der Landwirtschaft und das Erhalten des Wohlwollen von Bauern / Endverbraucher und damit der eigenen Wiederwahl werden stärker gewichtet. Viele sind vielleicht auch schon in einem Alter, wo sie eh nur noch die Kartoffeln von unten anschauen, wenn der Shit den Fan hittet - nach mir die Sinnflut.
+
+Dabei bietet Klimaschutz [sogar Chancen](https://www.kfw.de/%C3%9Cber-die-KfW/Newsroom/Aktuelles/Pressemitteilungen-Details_867584.html), die Wettbewerbsfähigkeit und Wiederstandfähigkeit der deutschen Wirtschaft zu stärken, wie eine Reihe von [Studien](https://www.kfw.de/%C3%9Cber-die-KfW/Service/Download-Center/Konzernthemen/Research/Studien-und-Materialien/) belegen. Der globale Markt für saubere Technologien wächst jedenfalls stetig - Deutschland hat bereits einen Anteil von 13% bei den weltweiten Green-Tech-Exporten.
+  
+### Desinformation
+* COP 30 - Desinformation zum Klimawandel: Lügen statt nur Leugnen
+  https://www.deutschlandfunk.de/cop30-wie-klimadesinformation-klimapolitik-sabotiert-100.html
+
+### Politik
+* EU-Staaten einigen sich auf abgeschwächtes Klimaziel
+  https://www.zeit.de/wissen/umwelt/2025-11/eu-staaten-einigen-sich-auf-abgeschwaechtes-klimaziel-gxe
+* Haushalte und Unternehmen müssen ab 2026 keine Gasspeicherumlage mehr zahlen. Der Bund finanziert die jährlichen Kosten künftig aus dem Klima- und Transformationsfonds.
+  https://www.zeit.de/politik/deutschland/2025-11/gasspeicherumlage-bundestag-entlastung-gas-verbraucher
+* Lieferkettengesetz
+  * Europas Lieferkettengesetze galten als Meilenstein beim Schutz von Menschenrechten, jetzt werden sie dem „Bürokratieabbau“ geopfert.
+    https://netzpolitik.org/2025/kritische-rohstoffe-und-menschenrechte-ursula-von-der-leyen-muss-wort-halten/
+* Industrieverband: DIHK will deutsche Klimaziele infrage stellen
+  https://table.media/climate/thema-des-tages/industrieverband-dihk-will-deutsche-klimaziele-infrage-stellen
+* Die letzten 10 Jahre
+  https://mastodon.social/@mkreutzfeldt/115623610603913729  
 
 ### Anwendungen
 * ReKIS KOMMUNAL
@@ -167,37 +185,12 @@ Fernwärme aus dem Fluß, dies ermöglichen hocheffiziente Großwärmepumpen, [i
   * Play the tiny game turning asphalt into green friends
     https://hanshack.com/p2t
     https://troet.cafe/@hanshack/115508785678459978
-### Wirtschaft
-* Klimaschutz bietet Chancen, um die Wettbewerbsfähigkeit und Resilienz der deutschen Wirtschaft zu stärken
-  https://www.kfw.de/%C3%9Cber-die-KfW/Newsroom/Aktuelles/Pressemitteilungen-Details_867584.html
-### Politik
-* EU-Staaten einigen sich auf abgeschwächtes Klimaziel
-  https://www.zeit.de/wissen/umwelt/2025-11/eu-staaten-einigen-sich-auf-abgeschwaechtes-klimaziel-gxe
-* Haushalte und Unternehmen müssen ab 2026 keine Gasspeicherumlage mehr zahlen. Der Bund finanziert die jährlichen Kosten künftig aus dem Klima- und Transformationsfonds.
-  https://www.zeit.de/politik/deutschland/2025-11/gasspeicherumlage-bundestag-entlastung-gas-verbraucher
-* Lieferkettengesetz
-  * Europas Lieferkettengesetze galten als Meilenstein beim Schutz von Menschenrechten, jetzt werden sie dem „Bürokratieabbau“ geopfert.
-    https://netzpolitik.org/2025/kritische-rohstoffe-und-menschenrechte-ursula-von-der-leyen-muss-wort-halten/
-* Industrieverband: DIHK will deutsche Klimaziele infrage stellen
-  https://table.media/climate/thema-des-tages/industrieverband-dihk-will-deutsche-klimaziele-infrage-stellen
-* Die letzten 10 Jahre
-  https://mastodon.social/@mkreutzfeldt/115623610603913729  
+
 ### Bauwende
 * Initiative HouseEurope! - statt Abriss und Neubau bestehende Gebäude erhalten, sanieren und umbauen
   https://citizens-initiative.europa.eu/initiatives/details/2025/000001_en
   https://climatejustice.social/@psy4f/115552897762502633
-### Extreme
-* Iran sitzt auf dem Trockenen
-  https://taz.de/Iran-sitzt-auf-dem-Trockenen/!6124340/
-* Der bisher relativ niederschlagsarme November ließ die #Bodenfeuchte verbreitet sinken
-  https://bsky.app/profile/dwdderwetterdienst.bsky.social/post/3m5lo7dpkj227
-  https://www.dwd.de/DE/fachnutzer/landwirtschaft/5_bofeuview/_node.html
-### Biodiversität
-* Insektensterben könnte in Europa 24 Milliarden Euro Schaden verursachen
-  https://web.de/magazine/wissen/klima/teuer-europa-insektensterben-41586838
-### Desinformation
-* COP 30 - Desinformation zum Klimawandel: Lügen statt nur Leugnen
-  https://www.deutschlandfunk.de/cop30-wie-klimadesinformation-klimapolitik-sabotiert-100.html
+
 
 ## Umwelt
 ### Verschmutzung
