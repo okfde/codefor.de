@@ -56,25 +56,13 @@ Auch für Max Schrems von [noyb](https://noyb.eu/) helfen die Entwürfe nicht de
 
 ## Digitale Souveränität
 ### USA
-* Deutsche Forschungsgemeinschaft will Daten aus US-Clouds holen 
-  https://www.heise.de/news/US-Clouds-Deutsche-Forschungsgemeinschaft-will-Daten-aus-dem-Ausland-heimholen-10966079.html
-* Authoritarian Stack
-  https://netzpolitik.org/2025/interaktive-webseite-wie-autoritaere-tech-netzwerke-die-europaeische-souveraenitaet-gefaehrden/
-  https://www.authoritarian-stack.info
-### Manche lernen es nie
-* Bayern will seine Behörden mit Microsoft 365 ausstatten. Kritiker rechnen mit Lizenzkosten in Milliardenhöhe und warnen vor dem Verlust digitaler Souveränität.
-  https://www.heise.de/news/Vertrag-soll-bis-Jahresende-stehen-Bayern-will-in-die-Microsoft-Cloud-11066618.html
-  * Was bedeutet der #Microsoft-Deal der Bayerischen Staatsregierung? Dass über fünf Jahre 1 Mrd. Euro für den Aufbau einer eigenen IT-Industrie in #Bayern fehlen. 
-    https://mastodon.social/@RichardHeigl/115570840524942039
-### Alternativen
-* Office-Alternative aus Deutschland von Ionos und Nextcloud ist jetzt verfügbar
-  https://www.heise.de/news/Office-Alternative-aus-Deutschland-von-Ionos-und-Nextcloud-ist-jetzt-verfuegbar-11067303.html
-* Das Fediverse-Erklärvideo in vier Minuten von Elena Rossini (deutsch)
-  https://digitalcourage.video/w/p4VBLACzX1sFG1YfVs1JEB
-### Deutschland-Stack
-* Der Deutschland-Stack – mehr Chance als Risiko?
-  https://egovernment-podcast.com/egov234-deutschlandstack-scss25/
-  https://social.bund.de/@zendis/115525102437494858
+Auf der interaktiven Webseite [authoritarian-stack.info](https://www.authoritarian-stack.info) zeigen Wissenschaftler:innen das Netzwerk aus Personen und Firmen, deren privaten Plattformen immer mehr staatliche Funktionen in den USA übernehmen und wie sich dieser "Authoritarian Stack" [auch nach Europa ausweitet](https://netzpolitik.org/2025/interaktive-webseite-wie-autoritaere-tech-netzwerke-die-europaeische-souveraenitaet-gefaehrden/). 
+
+Die Deutsche Forschungsgemeinschaft (DFG) [hat eine Initiative gestartet](https://www.heise.de/news/US-Clouds-Deutsche-Forschungsgemeinschaft-will-Daten-aus-dem-Ausland-heimholen-10966079.html), wichtige Forschungsdaten aus ausländischen Cloud-Speichern, speziell solchen von US-Anbietern, herauszulösen. Perspektivisch soll nun eine European Open Science Cloud (EOSC) aufgebaut werden. 
+
+### Deutschland
+Manche lernen es nie - Bayern möchte trotz dieser Entwicklungen seine Behörden dennoch mit Microsoft 365 [ausstatten](https://www.heise.de/news/Vertrag-soll-bis-Jahresende-stehen-Bayern-will-in-die-Microsoft-Cloud-11066618.html). Neben Preisgabe der digitalen Souveränität drohen Lizenzkosten in Milliardenhöhe, Geld, welches dann zudem für den Aufbau einer eigenen (auch personellen) IT-Infrastruktur [fehlt](https://mastodon.social/@RichardHeigl/115570840524942039). Mit [der jüngst](https://www.heise.de/news/Office-Alternative-aus-Deutschland-von-Ionos-und-Nextcloud-ist-jetzt-verfuegbar-11067303.html) veröffentlichten ["Ionos Nextcloud Workspace"](https://www.ionos.de/office-loesungen/nextcloud-workspace) Lösung hätte es dabei nicht nur eine souveränere sondern auch kostengünstigere Alternative gegeben. Und mit [OpenDesk](https://www.opendesk.eu/de) gäbe es sogar noch eine weitere Alternative zur Alternative. Diese wird [im Interview](https://user.space/e009-interview-mit-zendis/) mit Zendis auf dem Podcast ["Urlaub im Userspace"](https://user.space) vorgestellt. Auf dem [SCS-Summit 2025](https://sovereigncloudstack.org/insights/scs-summit-2025/) wurde zudem die [Diskussion](https://egovernment-podcast.com/egov234-deutschlandstack-scss25/) über Chancen und Risiken des [Deutschland-Stacks](https://deutschland-stack.gov.de) aufgezeichnet. Und in nur vier Minuten bekommt man [im Video](https://digitalcourage.video/w/p4VBLACzX1sFG1YfVs1JEB) anschaulich das Fediverse als Alternative zu den gängigen Social-Media-Plattformen erklärt.
+
 ### Netzinfrastruktur
 * Droht der digitale Blackout? KI und Internet am Limit
   https://www.arte.tv/de/videos/120435-000-A/droht-der-digitale-blackout/
@@ -82,6 +70,8 @@ Auch für Max Schrems von [noyb](https://noyb.eu/) helfen die Entwürfe nicht de
   https://www.heise.de/news/WLAN-Absage-Bundesregierung-will-das-obere-6-GHz-Band-dem-Mobilfunk-zuweisen-10965779.html
   * Kommentar: Dauerzank um 6 GHz
     https://www.heise.de/meinung/Kommentar-Dauerzank-um-6-GHz-11082932.html
+
+
 ### Initiativen
 * Offene Netzwerke und Demokratische Öffentlichkeiten
   https://offene-netzwerke.eu
@@ -92,7 +82,8 @@ Auch für Max Schrems von [noyb](https://noyb.eu/) helfen die Entwürfe nicht de
     https://digitalegesellschaft.de/2025/11/buendnis-offene-netzwerke-und-demokratische-oeffentlichkeiten/
 * Declaration of Digital Independence
   https://digitalindependence.eu
-## Gipfel zur Europäischen Digitalen Souveränität: 
+
+### Gipfel zur Europäischen Digitalen Souveränität: 
 * Kehrtwende für die „Innovationsführerschaft“
   https://netzpolitik.org/2025/gipfel-zur-europaeischen-digitalen-souveraenitaet-kehrtwende-fuer-die-innovationsfuehrerschaft/
 * Souveränitätsgipfel: Abhängigkeiten endlich wirksam reduzieren
@@ -106,7 +97,7 @@ Auch für Max Schrems von [noyb](https://noyb.eu/) helfen die Entwürfe nicht de
 * Gestern mein Interview zum desaströsen „Gipfel für europäische digitale Souveränität“
   https://www.ardmediathek.de/video/br24/interview-prof-martin-andree-zur-digitalen-zukunft/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDE4ODQ0QTAvc2VjdGlvbi9kMDFkYzU3OC0xZTRkLTRhYjItYTNlNS01N2FjOGRjZDU0ODk
   https://mastodon.social/@martinandree/115577278477387010
-## Monopole
+### Monopole
 * Tolle Aktion von @PeopleVsBigTech 
   https://www.lobbycontrol.de/macht-der-digitalkonzerne/das-google-monopol-zerschlagen-120865/
   https://bewegung.social/@lobbycontrol/115576111035854793
