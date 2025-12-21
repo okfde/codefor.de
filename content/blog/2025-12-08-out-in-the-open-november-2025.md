@@ -126,15 +126,13 @@ Die Regierung redet sich ja gerne heraus, dass sie Politik im Sinne der Wirtscha
 Im globalen Süden fehlen oftmals Daten zum öffentlichen Personennahverkehr oder sind nicht frei zugänglich. Mexiko ist eines der Länder, die kaum ausgebauten ÖPNV und hohe Verkehrsemissionen haben. Die Trufi Association will das mit ihren Partnern Codeando México und dem Humanitarian OpenStreetMap Team (HOT) mit der Multi-City-App Rutometro [ändern](https://www.trufi-association.org/rutometro-redefining-public-transport-in-mexico/) und Haltestellen, Fahrpläne und Routen als GTFS-Daten [bereitstellen](https://urbanists.social/@TrufiAssoc/115606066386240364).
 
 ## Energie
-* Reine Solardrohne hebt ohne Pufferkondensator oder Batterie ab
-  https://www.heise.de/news/Suedafrikanischer-Ingenieur-baut-reine-Solardrohne-10968236.html
-* China installiert Wind- und Solaranlagen in halsbrecherischem Tempo
-  https://www.heise.de/news/China-installiert-Wind-und-Solaranlagen-in-halsbrecherischem-Tempo-11056816.html
-* Viele Städte planen Großwärmepumpen-Projekte
-  https://www.hanshack.com/parking/
-  https://www.klimareporter.de/gebaeude/der-rhein-heizt-die-wohnung
-* Bidirektionales Laden: Wird E-Autofahren bald kostenlos?
-  https://www.basicthinking.de/blog/2025/11/18/bidirektionales-laden-wird-e-autofahren-bald-kostenlos/
+Während hierzulande noch einige von Kernfusion und kleinen Kernreaktoren schwadronieren, schafft China Fakten und baut sowohl Wind- als Solaranlagen [systematisch weiter aus](https://www.heise.de/news/China-installiert-Wind-und-Solaranlagen-in-halsbrecherischem-Tempo-11056816.html). Inzwischen wurde über 1 Terawatt an Solarleistung installiert, allein in der ersten Jahreshälfte wurden 212 Gigawatt Solarenergie und 52 Gigawatt Windkraft zugebaut. 
+
+Dass man sogar mit reinem Solarstrom eine Drohne betreiben kann, ohne zusätzliche Batterie oder Pufferkondensator, hat ein südafrikanischer Ingenieur [bewiesen](https://www.heise.de/news/Suedafrikanischer-Ingenieur-baut-reine-Solardrohne-10968236.html).
+
+Mit dem Bundestag verabschiedeten Gesetzesentwurf werden Elektroautos rechtlich mit stationären Batteriespeichern [gleichgestellt](https://www.basicthinking.de/blog/2025/11/18/bidirektionales-laden-wird-e-autofahren-bald-kostenlos/), da die Netzentgelte für bidirektionales Laden entfallen. Als dezentrale Speicher würden sie mit dazu beitragen, die Stromnetze zu stabilisieren, hinsichtlich Stromschwankungen und Preisspitzen. Voraussetzung sind allerdings Smart Meter für die dynamischen Stromtarife, deren Ausbau hat den Politik verschleppt, und auch Wechselrichter, da nur mit diesen Strom vom Auto ins Stromnetz gespeist werden kann, was die meiste Ladenstationen oder Autos nicht ab Werk können und teuer nachgerüstet werden müsste.
+
+Fernwärme aus dem Fluß, dies ermöglichen hocheffiziente Großwärmepumpen, [in Mannheim entsteht Deutschlands größte](https://www.klimareporter.de/gebaeude/der-rhein-heizt-die-wohnung), andere Städte planen ähnliche Projekte.
 
 ## Klima
 ### Wissenschaft
@@ -151,6 +149,8 @@ Im globalen Süden fehlen oftmals Daten zum öffentlichen Personennahverkehr ode
   https://www.tagesschau.de/wissen/klima/global-carbon-budget-2025-100.html
   * Globale CO₂-Emissionen: Von wegen Trendwende
     https://www.klimareporter.de/erdsystem/globale-co2-emissionen-von-wegen-trendwende
+
+
 ### Anwendungen
 * ReKIS KOMMUNAL
   https://rekis.hydro.tu-dresden.de/kommunal/
