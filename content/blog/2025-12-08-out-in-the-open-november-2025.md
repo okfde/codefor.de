@@ -65,10 +65,16 @@ Wie es sich auswirkt, wenn man nicht den Interessen der USA entspricht zeigt der
 Die Deutsche Forschungsgemeinschaft (DFG) [hat eine Initiative gestartet](https://www.heise.de/news/US-Clouds-Deutsche-Forschungsgemeinschaft-will-Daten-aus-dem-Ausland-heimholen-10966079.html), wichtige Forschungsdaten aus ausländischen Cloud-Speichern, speziell solchen von US-Anbietern, herauszulösen. Perspektivisch soll nun eine European Open Science Cloud (EOSC) aufgebaut werden. 
 
 ### Deutschland
-Manche lernen es nie - Bayern möchte trotz dieser Entwicklungen seine Behörden dennoch mit Microsoft 365 [ausstatten](https://www.heise.de/news/Vertrag-soll-bis-Jahresende-stehen-Bayern-will-in-die-Microsoft-Cloud-11066618.html). Neben Preisgabe der digitalen Souveränität drohen Lizenzkosten in Milliardenhöhe, Geld, welches dann zudem für den Aufbau einer eigenen (auch personellen) IT-Infrastruktur [fehlt](https://mastodon.social/@RichardHeigl/115570840524942039). Mit [der jüngst](https://www.heise.de/news/Office-Alternative-aus-Deutschland-von-Ionos-und-Nextcloud-ist-jetzt-verfuegbar-11067303.html) veröffentlichten ["Ionos Nextcloud Workspace"](https://www.ionos.de/office-loesungen/nextcloud-workspace) Lösung hätte es dabei nicht nur eine souveränere sondern auch kostengünstigere Alternative gegeben. Und mit [OpenDesk](https://www.opendesk.eu/de) gäbe es sogar noch eine weitere Alternative zur Alternative. Diese wird [im Interview](https://user.space/e009-interview-mit-zendis/) mit Zendis auf dem Podcast ["Urlaub im Userspace"](https://user.space) vorgestellt. Auf dem [SCS-Summit 2025](https://sovereigncloudstack.org/insights/scs-summit-2025/) wurde zudem die [Diskussion](https://egovernment-podcast.com/egov234-deutschlandstack-scss25/) über Chancen und Risiken des [Deutschland-Stacks](https://deutschland-stack.gov.de) aufgezeichnet.
+Manche lernen es nie - Bayern möchte trotz dieser Entwicklungen seine Behörden dennoch mit Microsoft 365 [ausstatten](https://www.heise.de/news/Vertrag-soll-bis-Jahresende-stehen-Bayern-will-in-die-Microsoft-Cloud-11066618.html). Neben Preisgabe der digitalen Souveränität drohen Lizenzkosten in Milliardenhöhe, Geld, welches dann zudem für den Aufbau einer eigenen (auch personellen) IT-Infrastruktur [fehlt](https://mastodon.social/@RichardHeigl/115570840524942039). Mit [der jüngst](https://www.heise.de/news/Office-Alternative-aus-Deutschland-von-Ionos-und-Nextcloud-ist-jetzt-verfuegbar-11067303.html) veröffentlichten ["Ionos Nextcloud Workspace"](https://www.ionos.de/office-loesungen/nextcloud-workspace) Lösung hätte es dabei nicht nur eine souveränere sondern auch kostengünstigere Alternative gegeben. Und mit [OpenDesk](https://www.opendesk.eu/de) gäbe es sogar noch eine weitere Alternative zur Alternative. Diese wird [im Interview](https://user.space/e009-interview-mit-zendis/) mit Zendis auf dem Podcast ["Urlaub im Userspace"](https://user.space) vorgestellt. Anleitungen, wie man es aufsetzt gibt es [hier](https://www.opendesk.eu/de/blog/open-desk-selber-hosten) und [hier](https://gitlab.opencode.de/thlv/opendesk-quickstart/-/tree/main/minimal-installation_opendesk-k3s). Und LibreOffice [gibt es ja auch noch](https://de.blog.documentfoundation.org/2025/11/01/rueckblick-auf-das-libreoffice-projekt-und-die-community-oktober-2025/).
+
+Auf dem [SCS-Summit 2025](https://sovereigncloudstack.org/insights/scs-summit-2025/) wurde zudem die [Diskussion](https://egovernment-podcast.com/egov234-deutschlandstack-scss25/) über Chancen und Risiken des [Deutschland-Stacks](https://deutschland-stack.gov.de) aufgezeichnet.
+
+Auf Initiative der Stadt Dortmund, des Verbands für Kommunales Management (KGSt) und des ZenDiS ist das [Kommunale Open-Source-Board](https://os-board.opencode.de) als neues Gremium [entstanden](https://social.bund.de/@zendis/115497522944248217), in dem Open-Source-Expertise von und für Kommunen gebündelt und gefördert werden soll.
+
+Das solche Open-Source-Software nicht nur für die Verwaltung selbst sein muss, zeigt die Vereinsverwaltung ["vereinfacht"](https://vereinfacht.digital), die im Auftrag der Gemeinde Süderbrarup im Kreis Schleswig-Flensburg in Schleswig-Holstein [Open-Source entwickelt wird](https://github.com/vereinfacht/vereinfacht) (auch [gemirrort](https://gitlab.opencode.de/sh/digitalhub-sh/landesprogramm-offene-innovationen/vereinfacht-buchhaltung-fuer-vereine) auf OpenCode verfügbar), finanziert im Rahmen des Landesprogramm Offene Innovationen 2024.
 
 ### Netzinfrastruktur
-Rechenzentren, Router, Mikroelektronik, Untersehkabel (und inzwischen auch Satelliten) - von all dem hängt der Internetverkehr ab, über denen auch der elektronische Zahlung abgewickelt werden. Neurologische Punkte also, bei deren Ausfall alles zum Stehen kommen würde. Schlecht also, dass vieles davon in den Händen von autoriäten Kräften liegt - droht uns der digitale Blackout fragt daher [diese Arte-Dokumentation](https://www.arte.tv/de/videos/120435-000-A/droht-der-digitale-blackout/). Der KI-Hype trägt sein Übriges bei, was man an den [steigenden Preisen](https://futurezone.at/produkte/ram-preise-krise-engpass-speicher-anstieg-nachfrage-ki-rechenzentren/403106380) für Grafikkarten und Arbeitsspeicher (RAM) sehen kann. Anreize, die dafür sorgen, dass nichts Bezahlbares mehr für den Privatkundenbereich übrig bleibt.  
+Rechenzentren, Router, Mikroelektronik, Unterseekabel (und inzwischen auch Satelliten) - von all dem hängt der Internetverkehr ab, über denen auch der elektronische Zahlung abgewickelt werden. Neurologische Punkte also, bei deren Ausfall alles zum Stehen kommen würde. Schlecht also, dass vieles davon in den Händen von autoriäten Kräften liegt - droht uns der digitale Blackout fragt daher [diese Arte-Dokumentation](https://www.arte.tv/de/videos/120435-000-A/droht-der-digitale-blackout/). Der KI-Hype trägt sein Übriges bei, was man an den [steigenden Preisen](https://futurezone.at/produkte/ram-preise-krise-engpass-speicher-anstieg-nachfrage-ki-rechenzentren/403106380) für Grafikkarten und Arbeitsspeicher (RAM) sehen kann. Anreize, die dafür sorgen, dass nichts Bezahlbares mehr für den Privatkundenbereich übrig bleibt.  
 
 Auf um die Frequenzbereiche für die Drahtloskommunikation toben die Verteilungskämpfe. Beim neuen 6 GHz-Band will sich nun das Digitalministerium [dafür einsetzen](https://www.heise.de/news/WLAN-Absage-Bundesregierung-will-das-obere-6-GHz-Band-dem-Mobilfunk-zuweisen-10965779.html), dass der gesamte obere Bereich dieses Bandes Mobilfunkbetreiber vorbehalten bleibt, ein Lobbyerfolg der Mobilfunk-Anbieter, denn für diese würde schnelles WLAN ihre Preise für große Datenvolumen [bedrohen](https://www.heise.de/meinung/Kommentar-Dauerzank-um-6-GHz-11082932.html).
 
@@ -89,30 +95,12 @@ In einem jahrelangen Rechtsstreit über die Monopolstellung von Meta in den sozi
 
 Bleibt nur, proaktiv, wo es geht, sich der Marktmacht zu entziehen: in nur vier Minuten bekommt man [im Video](https://digitalcourage.video/w/p4VBLACzX1sFG1YfVs1JEB) anschaulich das Fediverse als Alternative zu den gängigen Social-Media-Plattformen erklärt.
 
-## Open Source
-* Rückblick auf das LibreOffice-Projekt und die Community: Oktober 2025
-  https://de.blog.documentfoundation.org/2025/11/01/rueckblick-auf-das-libreoffice-projekt-und-die-community-oktober-2025/
-* Start des Kommunalen Open-Source-Boards
-  https://social.bund.de/@zendis/115497522944248217
-* openDesk auf K3s selber hosten
-  https://www.opendesk.eu/de/blog/open-desk-selber-hosten
-  https://metalhead.club/@ex@chaos.social/115509193558920897
-  * minimal-installation_opendesk-k3s
-    https://gitlab.opencode.de/thlv/opendesk-quickstart/-/tree/main/minimal-installation_opendesk-k3s
-* vereinfacht
-  https://gitlab.opencode.de/sh/digitalhub-sh/landesprogramm-offene-innovationen/vereinfacht-buchhaltung-fuer-vereine
-
 ## Gesundheit
-* ePA für alle - Daten für alle? Deutschland im Zwiespalt zwischen digitalen Chancen und reellen Gefahren
-  https://www.datenschutz.rlp.de/epa-fuer-alle
-* Wikidata Medicine
-  https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine
-  https://wikis.world/@wikidata/115565036776294010
-* Während die Industrie den schnellen und kostenlosen Zugang zu Gesundheitsdaten für Innovation fordert, pochen Ärzte auf Kontrolle und klare ethische Regeln.
-  https://www.heise.de/news/Arzt-zu-KI-Co-Digitale-Werkzeuge-muessen-in-der-Hand-der-Medizin-bleiben-11090873.html
-* Trends bei Antibiotikaresistenzen und -verbrauch: Interview Tim Eckmanns
-  https://www.deutschlandfunk.de/trends-bei-antibiotikaresistenzen-und-verbrauch-interview-tim-eckmanns-100.html
-  https://bsky.app/profile/rki.de/post/3m62gnby44k27
+Die Diskussion von Vertreter:innen aus Zivilgesellschaft, Ärzteschaft, Verbraucherschutz, Krankenkassen, Wissenschaft und Politik über die bisherigen Erfahrungen mit der elektronischen Patientenakte (ePA) und die zukünftige Perspektive im Kontext von Europäischen Gesundsdatenraum (EHDS) und KI für die Wahrung des Schutzes von sensiblen Patientendaten kann noch im aufgezeichneten Livestream [nachgeschaut werden](https://www.datenschutz.rlp.de/epa-fuer-alle). Die Begehrlichkeit der Industrie nach den Daten dürfen das Vertrauen im Patienten-Arzt-Verhältnis [nicht zerstören](https://www.heise.de/news/Arzt-zu-KI-Co-Digitale-Werkzeuge-muessen-in-der-Hand-der-Medizin-bleiben-11090873.html), vor allem wenn die vermeintlich Innovation nur in verzichtbaren Wellness-Apps mündet.
+
+Antibiotikaresistenzen [nehmen weltweit zu](https://www.rki.de/DE/Themen/Infektionskrankheiten/Antibiotikaresistenz/waaw-2025.html), allein 2021 gab es global [eine Million Todesfälle](https://bsky.app/profile/rki.de/post/3m62gnby44k27). Anlässlich der Welt-Antibiotika­woche im November gab es vom Robert-Koch-Institut (RKI) eine Übersicht zu aktuellen Trends bei Anti­biotika­resistenzen und -ver­brauch in Deutschland, auch [beim Deutschlandfunk zum nachhören](https://www.deutschlandfunk.de/trends-bei-antibiotikaresistenzen-und-verbrauch-interview-tim-eckmanns-100.html).
+
+Das WikiData-Projekt [Medicine](https://www.wikidata.org/wiki/Wikidata:WikiProject_Medicine) arbeitet an strukturierten Daten über Krankheiten, Medikamenten, Behandlungen und menschlicher Anatomie und [sucht nach Mitstreitern](https://wikis.world/@wikidata/115565036776294010), die helfen wollen, die zugehörigen Ontologie weiter zu verfeinern.
 
 ## Weltraum
 * NASA-Openscapes
