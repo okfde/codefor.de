@@ -44,6 +44,15 @@ Damit man wissensmäßig kein Spargeltarzan bleibt, gab es im Workshop [From Zer
 
 [An drei Beispielen](https://www.youtube.com/watch?v=QL8JewqoXTs) zeigt Prof. Björn Brembs vom Institut für Zoologie in Regensburg, wie sie die Veröffentlichung von Linked Open Data mit einem Skript [automatisiert haben](https://mastodon.social/@brembs/115565388224201930). Die so erzeugten FAIRen Datenpakete enthalten neben dem Rohdaten, auch die Daten zur Qualitätskontrolle als auch Verlinkung zu relevanter Software und Datenmodellen. 
 
+## Kultur
+Auf der Digital Turn Tagung [diskutierten](https://fedihum.org/@SODa/115621073070660200) Forschende und Expert:innen aus Data Science & GLAMs, wie Big Data, digitale Methoden & KI Provenienz-, Sammlungs- und Kunstmarktforschung verändern. Die Beiträge [erscheinen offen auf Zenodo](https://zenodo.org/communities/digital-turn/records?q=&l=list&p=1&s=10&sort=newest).
+
+Als [Schattenbibliotheken](https://de.wikipedia.org/wiki/Schattenbibliothek) werden Webseiten bezeichnet, die Paywalls, Science Tracking und andere Zugangskontrollen umgehen, um dennoch an wissenschaftliche Literatur digital zu gelangen. Obwohl nicht legal, decken sie die weltweiten Veröffentlichungen immer umfassender und erfreuen sich wachsender Beliebtheit. In regelmäßigen Online-Treffen soll sich nun mit dem Phänomen [beschäftigt werden](https://social.biblionik.org/@lambo/statuses/01KABCJP31H6AZ84WW5NMFDJ2E).
+
+Der Online-Straßenatlas [Itiner-e](https://itiner-e.org) kartiert [nach dem letzten Update](https://www.heise.de/news/Fast-300-000-km-Mit-Abstand-umfangreichste-Karte-der-Roemerstrassen-online-11069074.html) nun fast 300.000 km des Straßennetzes des Römische Reiches zum Zeitpunkt seiner größten Ausdehnung um das Jahr 150 herum.
+
+Das ostsächsiche [Mühlrose/Miłoraz](https://de.wikipedia.org/wiki/M%C3%BChlrose) in der Lausitz wird wohl das letzte Dorf in Deutschland [gewesen sein](https://chaos.social/@ubahnverleih/115560900261981164), das für einen Braunkohletagebau abgebaggert wird. [Ein Blogpost](https://blattspinat.com/posts/das-letzte-dorf/) dokumentiert nun fotografisch den erfolgten Rückbau der letzten 10 Jahre.
+
 ## Verwaltungsdigitalisierung
 Alter Wein in neuen Schläuchen? - das Bundesministerium für Digitales und Staatsmodernisierung hat sich ein neues [Zielbild](https://bmds.bund.de/ministerium/zielbild) gegeben. [Für Anne Roth](https://www.nd-aktuell.de/artikel/1195253.zielbild-digitalministerium-viel-laerm-um-nichts.html) viel Lärm um nichts, aus den bestehenden "Leuchtturmprojekten" werden im neuen Marketingsprech "Durchbruchsprojekte", deren Ziele sind nicht mal konkret ausformuliert, geschweige wie sie den Bürgern (und nicht nur Unternehmen) nützen könnten. Als eher ein Darmdurchbruch oder [eine andere Verballhornung](https://chaos.social/@stk/115470613874314090).
 
@@ -186,6 +195,122 @@ Die Erkenntnis, dass die Extraktion und Wiederverwendung von Ressourcen aus Elek
 
 Letztlich muss aber das Anreizsystem der Verschwendung überwunden werden, und beispielweise wie das [Konzept Permacomputing](https://reset.org/permacomputing-warum-es-hoechste-zeit-ist-dass-permakultur-auch-in-der-digitalen-welt-wurzeln-schlaegt/) im Bereich Digitalisierung langlebige Hardware und geringen Energieverbrauch fördert. Statt sich großkotzig etwas darauf einzubilden, sich immer schon das neuste Gadget leisten zu können, einfach mit dem Bestehenden auskommen und dieses trotzdem kreativ in seiner Verwendung neuzuentdecken.  
 
+## Wirtschaft / Gesellschaft
+* Neuer Oxfam-Bericht: Vermögen von EU-Milliardären wuchs in der ersten Jahreshälfte um mehr als 400 Milliarden Euro
+  https://www.l-iz.de/politik/kassensturz/2025/10/neuer-oxfam-bericht-vermogen-eu-milliardare-erste-jahreshalft-400-milliarden-euro-635966
+* Wachsende wirtschaftliche Ungleichheit: Das ist demokratiegefährdend
+  https://taz.de/Wachsende-wirtschaftliche-Ungleichheit/!6126371/
+* Überbrückungsfonds
+  https://ueberbrueckungsfonds.de
+  https://chaos.social/@fragdenstaat/115620988377606696
+
+## Arbeitsmarkt
+* Jobcenter-Stories: Das Geschäft mit den Arbeitslosen
+  https://fragdenstaat.de/artikel/exklusiv/2025/11/das-geschaft-mit-den-arbeitslosen/
+* Um mal ins Verhältnis zu setzen, was „früher“ als Arbeiter möglich war:
+  https://chaos.social/@qwertziop/115620825183418369
+
+## Finanzmarkt
+* Digitaler Euro: Während das Parlament streitet, geht die Entwicklung weiter
+  https://netzpolitik.org/2025/digitaler-euro-waehrend-das-parlament-streitet-geht-die-entwicklung-weiter/
+* Europäische PayPal-Alternative: Bezahldienst Wero für Online-Einkäufe gestartet
+  https://www.heise.de/news/Europaeische-PayPal-Alternative-Bezahldienst-Wero-fuer-Online-Einkaeufe-gestartet-11082022.html
+* Sparkassenchef: Digitaler Euro ist Türöffner für Big-Tech-Player
+  https://www.heise.de/news/Sparkassenchef-Digitaler-Euro-ist-Tueroeffner-fuer-Big-Tech-Player-11088363.html
+  https://social.heise.de/@heiseonline/115594438941159680
+
+## Transparenz
+* Die Vorhabenlisten der Bundesministerien
+  https://fragdenstaat.de/artikel/exklusiv/2025/11/was-sonst-ausser-sozialer-harte-und-auslanderfeindlichkeit/
+* Rechtskämpfe um Informationsfreiheit
+  https://www.evangelisch.de/inhalte/249236/05-11-2025/forschungsprojekt-soll-informationsfreiheit-staerken
+  https://chaos.social/@fragdenstaat/115508056900747956
+* Entwürfe und Kostenschätzung für das Bundestransparenzgesetz der vergangenen Ampelregierung
+  https://fragdenstaat.de/artikel/klagen/2025/10/entwurf-transparenzgesetz-klage/
+  https://chaos.social/@fragdenstaat/115524785710575646
+* Die Versorgungsanstalt des Bundes und der Länder (VBL) ist auskunftspflichtig
+  https://fragdenstaat.de/artikel/klagen/2025/11/wir-kampfen-weiter-fur-die-offenlegung-offentlicher-kapitalanlagen/
+* Steueroasen Watch
+  https://steueroasen.watch
+  https://chaos.social/@arnesemsrott/115549797764087218
+  * Interaktive Karte: Das Steueroasen-Verzeichnis
+    https://fragdenstaat.de/artikel/exklusiv/2025/11/das-steueroasen-verzeichnis/
+  * Steueroasen Minesweeper
+    https://fragdenstaat.de/aktionen/steuer-minesweeper/
+    https://chaos.social/@fragdenstaat/115592396270562276
+* Eine EU-Transparenzdatenbank soll öffentlich besser nachvollziehbar machen, wie Online-Dienste Inhalte moderieren. Doch eine aktuelle Studie zeigt grundlegende Mängel auf und warnt: Die Datenbank kann, so wie sie aufgebaut ist, ihre Ziele gar nicht erreichen
+  https://netzpolitik.org/2025/studie-zum-digital-services-act-transparenzdatenbank-fuer-online-dienste-erfuellt-ziele-nicht/
+  https://chaos.social/@netzpolitik_feed/115566147323878515
+* Reisen, Rüstung, Guttenberg: Wie Elnet Politik und Unternehmen zusammenbringt
+  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/wie-elnet-politik-und-unternehmen-zusammenbringt
+* Bundesrechnungshof könnte »komplette Prüfungsabteilung« verlieren
+  https://bewegung.social/@a_watch/115605735917998629
+* Gerhard Schröder und der Verdacht auf Aktenklau
+  https://correctiv.org/transparenz/2025/11/26/gerhard-schroeder-wladimir-putin-und-der-verdacht-auf-aktenklau/
+* Das ist das Netzwerk der "Stiftung Familienunternehmen", als Google-Sheet, auf Basis der Recherchen von Greenpeace. Enjoy
+  https://bsky.app/profile/sixtus.net/post/3m6enzo5bm22v
+  https://docs.google.com/spreadsheets/d/1qQ1ZWevmpRQUrsZli7qxMcQ4J6j7sT0TglU4MCcDLR0/edit?gid=356429414#gid=356429414
+* Steuerflucht von Unternehmen: Vorzugsbehandlung für Big Tech
+  https://taz.de/Steuerregel-abgeschafft-Vorzugsbehandlung-fuer-Big-Tech-im-Bundestag/!6131238/
+* „Weißes Gold“: Verscharrt statt recycelt
+  https://correctiv.org/aktuelles/europa-aktuelles/2025/11/17/weisses-gold-verscharrt-statt-recycelt/
+
+## Journalismus
+* Geschichte des Onlinejournalismus
+  https://www.mdr.de/altpapier/das-altpapier-4416.html
+* Strengthening Public Interest Media in the Age of GenAI
+  https://medium.com/@TheDataTank/strengthening-public-interest-media-in-the-age-of-genai-976ff27698e4
+* Papertrail - Lokale Tageszeitungen in deinem Landkreis
+  https://tifa365.github.io/papertrail/
+
+## Meinungsbeeinflussung
+* Juristin zu politischem Targeting: Meta, Google und Co. wollen Grenzen austesten
+  https://www.heise.de/news/Juristin-zu-politischem-Targeting-Meta-Google-und-Co-wollen-Grenzen-austesten-11056205.html
+* Zivilgesellschaft unter Druck
+  https://www.youtube.com/watch?v=8hMxVgqSfpE
+  https://bewegung.social/@lobbycontrol/115501850697772316
+
+## Demokratie
+* Demokratiekompass
+  https://correctiv.org/in-eigener-sache/2025/11/07/correctiv-startet-den-demokratiekompass-ein-neues-format-fuer-gelebte-demokratie/
+  https://bsky.app/profile/correctiv.org/post/3m525rko52k2r
+
+## Überwachung
+* Surveillance under Surveillance
+  https://sunders.hamburg.ccc.de
+  https://23.social/@kantorkel/115480284095570399
+* Manufacturer issues remote kill command to disable smart vacuum after engineer blocks it from collecting data — user revives it with custom hardware and Python scripts to run offline
+  https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline
+  https://mastodon.online/@tinoeberl/115480282083170464
+* Standortdaten von EU-Personal gehandelt
+  https://www.tagesschau.de/investigativ/br-recherche/standortdaten-eu-spionage-risiko-100.html
+  * Databroker Files: Datenhändler verkaufen metergenaue Standortdaten von EU-Personal
+    https://netzpolitik.org/2025/databroker-files-datenhaendler-verkaufen-metergenaue-standortdaten-von-eu-personal/
+* Bundesdatenschutzbehörde erkennt ersten Dienst gegen die Cookie-Banner-Flut an
+  https://www.heise.de/news/Bundesdatenschutzbehoerde-erkennt-ersten-Dienst-gegen-die-Cookie-Banner-Flut-an-11056908.html
+* Palantir in Baden-Württemberg: Polizei soll mit deinen Daten Software trainieren dürfen
+  https://netzpolitik.org/2025/palantir-in-baden-wuerttemberg-polizei-soll-mit-deinen-daten-software-trainieren-duerfen/
+  * Grüne geben Polizeidaten für Palantir frei
+    https://netzpolitik.org/2025/baden-wuerttemberg-gruene-geben-polizeidaten-fuer-palantir-frei/
+* Aus für offenes WLAN? Vorratsdatenspeicherung gefährdet digitale Teilhabe
+  https://www.heise.de/news/Aus-fuer-offenes-WLAN-Vorratsdatenspeicherung-gefaehrdet-digitale-Teilhabe-11074279.html
+* EU-Staaten einigen sich auf freiwillige Chatkontrolle
+  https://netzpolitik.org/2025/interne-dokumente-eu-staaten-einigen-sich-auf-freiwillige-chatkontrolle/
+  * Mehr Chats können überwacht werden
+    https://www.mpg.de/25771706/chatkontrolle-eu-rat-client-side-scanning
+* Gericht: Biometrische Kontrolle bei Online-Prüfungen ist Grundrechtseingriff
+  https://www.heise.de/news/OLG-Urteil-Biometrische-Ueberwachung-bei-Online-Pruefungen-ist-rechtswidrig-11083924.html
+* WhatsApp-Daten: Eure Nummer, euer Gesicht, euer Profil – alles abrufbar - Die 3,5 Milliarden Profile sind der größte Datenabfluss der Geschichte
+  https://peertube.heise.de/w/41a11b34-4467-46ac-a85d-3dd57974ab3b
+* Dieser Text ist eine Pflichtlektüre für alle Parlamentarier:innen Europas. Um diese geräuschlose Einnistung von #Palantir-Software in den Verwaltungsinfrastrukturen zu verstehen, die gerade passiert... Und um diese zu stoppen. 
+  https://monde-diplomatique.de/artikel/!6113232
+  https://infosec.exchange/@adfichter/115626582547272822
+
+
+## Informelle Selbstbestimmung
+* Das Grundrecht auf digitale Integrität und sein Erfolg in der Schweiz
+  https://netzpolitik.org/2025/menschenrechte-das-grundrecht-auf-digitale-integritaet-und-sein-erfolg-in-der-schweiz/
+
 ## Völlig KIrre
 ### Blasenbildung
 * KI-Zirkus der Bundesregierung, ihre Buzzwords lassen uns ratloser zurück als sonst.
@@ -257,145 +382,6 @@ Letztlich muss aber das Anreizsystem der Verschwendung überwunden werden, und b
 ### Alternative Ansätze
 * Die nächste KI-Generation: Kompakt, hybrid und autonom
   https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/kompakt-hybrid-und-autonom
-
-
-## Journalismus
-* Geschichte des Onlinejournalismus
-  https://www.mdr.de/altpapier/das-altpapier-4416.html
-* Strengthening Public Interest Media in the Age of GenAI
-  https://medium.com/@TheDataTank/strengthening-public-interest-media-in-the-age-of-genai-976ff27698e4
-* Papertrail - Lokale Tageszeitungen in deinem Landkreis
-  https://tifa365.github.io/papertrail/
-
-## Kultur
-* mainzed wird 10 Jahre alt!
-  https://fedihum.org/@mainzed/115501464647753042
-* Fast 300.000 km: Mit Abstand umfangreichste Karte der Römerstraßen online
-  https://www.heise.de/news/Fast-300-000-km-Mit-Abstand-umfangreichste-Karte-der-Roemerstrassen-online-11069074.html
-* Wikimedia Polska strengthens the link between open cultural data and art research
-  https://outreach.wikimedia.org/wiki/GLAM/Newsletter/October_2025/Contents/Poland_report
-  https://det.social/@HxxxKxxx/115532285006123954
-* Digitalisate der Leipziger Testamente jetzt online
-  https://www.compgen.de/2025/11/digitalisate-der-leipziger-testamente-jetzt-online/
-* Mühlrose/Miłoraz ist das letzte Dorf, welches für die Braunkohle abgebaggert wird
-  https://blattspinat.com/posts/das-letzte-dorf/
-  https://chaos.social/@ubahnverleih/115560900261981164
-* Schattenbibliotheken – schwer zu fassen, aber wichtig zu wissen!
-  https://social.biblionik.org/@lambo/statuses/01KABCJP31H6AZ84WW5NMFDJ2E
-* Digital Turn. Sammlungen – Provenienzen – Märkte
-  https://zenodo.org/communities/digital-turn/records?q=&l=list&p=1&s=10&sort=newest
-  https://fedihum.org/@SODa/115621073070660200
-
-## Wirtschaft / Gesellschaft
-* Neuer Oxfam-Bericht: Vermögen von EU-Milliardären wuchs in der ersten Jahreshälfte um mehr als 400 Milliarden Euro
-  https://www.l-iz.de/politik/kassensturz/2025/10/neuer-oxfam-bericht-vermogen-eu-milliardare-erste-jahreshalft-400-milliarden-euro-635966
-* Wachsende wirtschaftliche Ungleichheit: Das ist demokratiegefährdend
-  https://taz.de/Wachsende-wirtschaftliche-Ungleichheit/!6126371/
-* Überbrückungsfonds
-  https://ueberbrueckungsfonds.de
-  https://chaos.social/@fragdenstaat/115620988377606696
-
-## Arbeitsmarkt
-* Jobcenter-Stories: Das Geschäft mit den Arbeitslosen
-  https://fragdenstaat.de/artikel/exklusiv/2025/11/das-geschaft-mit-den-arbeitslosen/
-* Um mal ins Verhältnis zu setzen, was „früher“ als Arbeiter möglich war:
-  https://chaos.social/@qwertziop/115620825183418369
-
-## Finanzmarkt
-* Digitaler Euro: Während das Parlament streitet, geht die Entwicklung weiter
-  https://netzpolitik.org/2025/digitaler-euro-waehrend-das-parlament-streitet-geht-die-entwicklung-weiter/
-* Europäische PayPal-Alternative: Bezahldienst Wero für Online-Einkäufe gestartet
-  https://www.heise.de/news/Europaeische-PayPal-Alternative-Bezahldienst-Wero-fuer-Online-Einkaeufe-gestartet-11082022.html
-* Sparkassenchef: Digitaler Euro ist Türöffner für Big-Tech-Player
-  https://www.heise.de/news/Sparkassenchef-Digitaler-Euro-ist-Tueroeffner-fuer-Big-Tech-Player-11088363.html
-  https://social.heise.de/@heiseonline/115594438941159680
-  
-
-## Transparenz
-* Die Vorhabenlisten der Bundesministerien
-  https://fragdenstaat.de/artikel/exklusiv/2025/11/was-sonst-ausser-sozialer-harte-und-auslanderfeindlichkeit/
-* Rechtskämpfe um Informationsfreiheit
-  https://www.evangelisch.de/inhalte/249236/05-11-2025/forschungsprojekt-soll-informationsfreiheit-staerken
-  https://chaos.social/@fragdenstaat/115508056900747956
-* Entwürfe und Kostenschätzung für das Bundestransparenzgesetz der vergangenen Ampelregierung
-  https://fragdenstaat.de/artikel/klagen/2025/10/entwurf-transparenzgesetz-klage/
-  https://chaos.social/@fragdenstaat/115524785710575646
-* Die Versorgungsanstalt des Bundes und der Länder (VBL) ist auskunftspflichtig
-  https://fragdenstaat.de/artikel/klagen/2025/11/wir-kampfen-weiter-fur-die-offenlegung-offentlicher-kapitalanlagen/
-* Steueroasen Watch
-  https://steueroasen.watch
-  https://chaos.social/@arnesemsrott/115549797764087218
-  * Interaktive Karte: Das Steueroasen-Verzeichnis
-    https://fragdenstaat.de/artikel/exklusiv/2025/11/das-steueroasen-verzeichnis/
-  * Steueroasen Minesweeper
-    https://fragdenstaat.de/aktionen/steuer-minesweeper/
-    https://chaos.social/@fragdenstaat/115592396270562276
-* Eine EU-Transparenzdatenbank soll öffentlich besser nachvollziehbar machen, wie Online-Dienste Inhalte moderieren. Doch eine aktuelle Studie zeigt grundlegende Mängel auf und warnt: Die Datenbank kann, so wie sie aufgebaut ist, ihre Ziele gar nicht erreichen
-  https://netzpolitik.org/2025/studie-zum-digital-services-act-transparenzdatenbank-fuer-online-dienste-erfuellt-ziele-nicht/
-  https://chaos.social/@netzpolitik_feed/115566147323878515
-* Reisen, Rüstung, Guttenberg: Wie Elnet Politik und Unternehmen zusammenbringt
-  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/wie-elnet-politik-und-unternehmen-zusammenbringt
-* Bundesrechnungshof könnte »komplette Prüfungsabteilung« verlieren
-  https://bewegung.social/@a_watch/115605735917998629
-* Gerhard Schröder und der Verdacht auf Aktenklau
-  https://correctiv.org/transparenz/2025/11/26/gerhard-schroeder-wladimir-putin-und-der-verdacht-auf-aktenklau/
-* Das ist das Netzwerk der "Stiftung Familienunternehmen", als Google-Sheet, auf Basis der Recherchen von Greenpeace. Enjoy
-  https://bsky.app/profile/sixtus.net/post/3m6enzo5bm22v
-  https://docs.google.com/spreadsheets/d/1qQ1ZWevmpRQUrsZli7qxMcQ4J6j7sT0TglU4MCcDLR0/edit?gid=356429414#gid=356429414
-* Steuerflucht von Unternehmen: Vorzugsbehandlung für Big Tech
-  https://taz.de/Steuerregel-abgeschafft-Vorzugsbehandlung-fuer-Big-Tech-im-Bundestag/!6131238/
-* „Weißes Gold“: Verscharrt statt recycelt
-  https://correctiv.org/aktuelles/europa-aktuelles/2025/11/17/weisses-gold-verscharrt-statt-recycelt/
-
-## Meinungsbeeinflussung
-* Juristin zu politischem Targeting: Meta, Google und Co. wollen Grenzen austesten
-  https://www.heise.de/news/Juristin-zu-politischem-Targeting-Meta-Google-und-Co-wollen-Grenzen-austesten-11056205.html
-* Zivilgesellschaft unter Druck
-  https://www.youtube.com/watch?v=8hMxVgqSfpE
-  https://bewegung.social/@lobbycontrol/115501850697772316
-
-## Demokratie
-* Demokratiekompass
-  https://correctiv.org/in-eigener-sache/2025/11/07/correctiv-startet-den-demokratiekompass-ein-neues-format-fuer-gelebte-demokratie/
-  https://bsky.app/profile/correctiv.org/post/3m525rko52k2r
-
-## Überwachung
-* Surveillance under Surveillance
-  https://sunders.hamburg.ccc.de
-  https://23.social/@kantorkel/115480284095570399
-* Manufacturer issues remote kill command to disable smart vacuum after engineer blocks it from collecting data — user revives it with custom hardware and Python scripts to run offline
-  https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline
-  https://mastodon.online/@tinoeberl/115480282083170464
-* Standortdaten von EU-Personal gehandelt
-  https://www.tagesschau.de/investigativ/br-recherche/standortdaten-eu-spionage-risiko-100.html
-  * Databroker Files: Datenhändler verkaufen metergenaue Standortdaten von EU-Personal
-    https://netzpolitik.org/2025/databroker-files-datenhaendler-verkaufen-metergenaue-standortdaten-von-eu-personal/
-* Bundesdatenschutzbehörde erkennt ersten Dienst gegen die Cookie-Banner-Flut an
-  https://www.heise.de/news/Bundesdatenschutzbehoerde-erkennt-ersten-Dienst-gegen-die-Cookie-Banner-Flut-an-11056908.html
-* Palantir in Baden-Württemberg: Polizei soll mit deinen Daten Software trainieren dürfen
-  https://netzpolitik.org/2025/palantir-in-baden-wuerttemberg-polizei-soll-mit-deinen-daten-software-trainieren-duerfen/
-  * Grüne geben Polizeidaten für Palantir frei
-    https://netzpolitik.org/2025/baden-wuerttemberg-gruene-geben-polizeidaten-fuer-palantir-frei/
-* Aus für offenes WLAN? Vorratsdatenspeicherung gefährdet digitale Teilhabe
-  https://www.heise.de/news/Aus-fuer-offenes-WLAN-Vorratsdatenspeicherung-gefaehrdet-digitale-Teilhabe-11074279.html
-* EU-Staaten einigen sich auf freiwillige Chatkontrolle
-  https://netzpolitik.org/2025/interne-dokumente-eu-staaten-einigen-sich-auf-freiwillige-chatkontrolle/
-  * Mehr Chats können überwacht werden
-    https://www.mpg.de/25771706/chatkontrolle-eu-rat-client-side-scanning
-* Gericht: Biometrische Kontrolle bei Online-Prüfungen ist Grundrechtseingriff
-  https://www.heise.de/news/OLG-Urteil-Biometrische-Ueberwachung-bei-Online-Pruefungen-ist-rechtswidrig-11083924.html
-* WhatsApp-Daten: Eure Nummer, euer Gesicht, euer Profil – alles abrufbar - Die 3,5 Milliarden Profile sind der größte Datenabfluss der Geschichte
-  https://peertube.heise.de/w/41a11b34-4467-46ac-a85d-3dd57974ab3b
-* Dieser Text ist eine Pflichtlektüre für alle Parlamentarier:innen Europas. Um diese geräuschlose Einnistung von #Palantir-Software in den Verwaltungsinfrastrukturen zu verstehen, die gerade passiert... Und um diese zu stoppen. 
-  https://monde-diplomatique.de/artikel/!6113232
-  https://infosec.exchange/@adfichter/115626582547272822
-
-
-## Informelle Selbstbestimmung
-* Das Grundrecht auf digitale Integrität und sein Erfolg in der Schweiz
-  https://netzpolitik.org/2025/menschenrechte-das-grundrecht-auf-digitale-integritaet-und-sein-erfolg-in-der-schweiz/
-
-
 
 ## Recap
 * Digital Democracy Day 2025
