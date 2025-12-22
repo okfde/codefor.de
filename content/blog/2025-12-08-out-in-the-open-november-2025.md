@@ -265,28 +265,10 @@ In Deutschland [hat ein Gericht geurteilt](https://www.heise.de/news/OLG-Urteil-
 
 ## Völlig KIrre
 ### Blasenbildung
-* KI-Zirkus der Bundesregierung, ihre Buzzwords lassen uns ratloser zurück als sonst.
-  https://chaos.social/@netzpolitik_feed/115473961422207642
-* Eine Schrottblase bedroht die Geldblase
-  https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-ai-slop-koennte-die-ki-blase-platzen-lassen-a-e7be1ad9-8053-4c75-a12a-bf5aa7929bb3?giftToken=85d1a9e1-087a-42af-8394-8e701c32b349
-* Entlassungswellen und Rekordgewinne in den USA – der "Jobless Boom" durch KI
-  https://www.heise.de/news/KI-Boom-US-Gewinne-steigen-sprunghaft-an-fast-eine-Million-Stellen-fallen-weg-11071503.html
-* Zwangsbeglückt
-  https://mamot.fr/@ploum/115570591212570288
-  * Microsoft Exec Asks: Why Aren't More People Impressed With AI?
-    https://uk.pcmag.com/ai/161396/microsoft-exec-asks-why-arent-more-people-impressed-with-ai
-* Warum KI eine Blase ist – und was das mit digitaler Souveränität zu tun hat
-  https://www.heise.de/news/Warum-KI-eine-Blase-ist-und-was-das-mit-digitaler-Souveraenitaet-zu-tun-hat-11089348.html
-* GenAI verschlingt 40 Milliarden Dollar – ohne messbaren Nutzen
-  https://www.telepolis.de/article/GenAI-verschlingt-40-Milliarden-Dollar-ohne-messbaren-Nutzen-11071758.html
-### Verblendung
-* The LLMentalist Effect
-  https://eldritch.cafe/@Tattie/115471948737378653
-* Sei ein Esel
-  https://netzpolitik.org/2025/degitalisierung-sei-ein-esel/
-### AI Act
-* Wird sich die KI-Regulierung verzögern?
-  https://netzpolitik.org/2025/ai-act-wird-sich-die-ki-regulierung-verzoegern/
+"Die selben Firmen, die die Plattformökonomie dominieren, dominieren jetzt KI – und das ist kein Zufall." [findet Frederike Kaltheuner](https://www.heise.de/news/Warum-KI-eine-Blase-ist-und-was-das-mit-digitaler-Souveraenitaet-zu-tun-hat-11089348.html) im Podcast. Entgegen aller Versprechungen haben Unternehmen für die Art von KI, die gerade so gehypt wird, also generative KI auf der Basis von Transformer-Modellen, bisher kaum sinnvolle Anwendungsfälle gefunden. Denn Chatbots und Bildgeneratoren haben eben nur ein sehr enges Anwendungsfeld. Und wenn die KI-Blase platzt, wird der Großteil KI-Infrastruktur wertlos, da sie für nichts anderes verwendet werden kann. Die hunderte Milliarden Dollars, die jetzt schon für sinnvollere Investitionen fehlen, sind dann mit futsch. [Für Christian Stöcker](https://www.spiegel.de/wissenschaft/technik/kuenstliche-intelligenz-ai-slop-koennte-die-ki-blase-platzen-lassen-a-e7be1ad9-8053-4c75-a12a-bf5aa7929bb3?giftToken=85d1a9e1-087a-42af-8394-8e701c32b349) ist die erste KI-Blase, die finanzielle, und die zweite, die Schrott -Content-Blase. Inzwischen übertrifft die Menge KI-generierter Artikel die Menge von Menschen geschriebenen Artikeln.
+
+Laut [einer Studie des Massachusetts Institute of Technology (MIT)](https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf) erzielen 95 Prozent der Unternehmen trotz ihre Investitionen in Höhe von 30 bis 40 Milliarden Dollar in generative KI [keine Rendite](https://www.telepolis.de/article/GenAI-verschlingt-40-Milliarden-Dollar-ohne-messbaren-Nutzen-11071758.html).
+
 ### Rechenzentren
 * Umfrage zu Rechenzentren: Die Mehrheit folgt dem Hype nicht
   https://netzpolitik.org/2025/umfrage-zu-rechenzentren-die-mehrheit-folgt-dem-hype-nicht/
