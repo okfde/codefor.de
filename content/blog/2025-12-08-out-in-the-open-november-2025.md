@@ -214,48 +214,31 @@ Um Manipulation durch personalisierte politische Werbung einzuschränken, hat di
 
 ## Transparenz
 ### Gesetze
-* Entwürfe und Kostenschätzung für das Bundestransparenzgesetz der vergangenen Ampelregierung
-  https://fragdenstaat.de/artikel/klagen/2025/10/entwurf-transparenzgesetz-klage/
-  https://chaos.social/@fragdenstaat/115524785710575646
-* Rechtskämpfe um Informationsfreiheit
-  https://www.evangelisch.de/inhalte/249236/05-11-2025/forschungsprojekt-soll-informationsfreiheit-staerken
-  https://chaos.social/@fragdenstaat/115508056900747956
-* Die Versorgungsanstalt des Bundes und der Länder (VBL) ist auskunftspflichtig
-  https://fragdenstaat.de/artikel/klagen/2025/11/wir-kampfen-weiter-fur-die-offenlegung-offentlicher-kapitalanlagen/
+Deutschland ist, wenn man die [Entwürfe und Kostenschätzung](https://fragdenstaat.de/artikel/klagen/2025/10/entwurf-transparenzgesetz-klage/) für das von der Ampelregierung geplante Bundestransparenzgesetz erst unter nach Klage auf Informationszugang [bekommt](https://chaos.social/@fragdenstaat/115524785710575646). Und die so offen gewordene Kostenanalyse des Statistischen Bundesamts zeigt auch, dass die Kosten definitiv kein Hinderungsgrund sind. Wohl eher die damit verbundene proaktive Veröffentlichungspflicht und die Angst vor kritischen, informierten Bürgern.
+
+Das Forschungsprojekt "Rechtskämpfe um Informationsfreiheit" [will nun untersuchen](https://www.evangelisch.de/inhalte/249236/05-11-2025/forschungsprojekt-soll-informationsfreiheit-staerken), auf welchen Grundlagen Behörden Informationen zur Verschlusssache erklären. Ob es wirklich gerechtfertig ist, oder ob einfach nur wie im Fall der NSU-Akten, den Protokollen des Corona-Krisenstabes, Lageberichte des Auswärtigen Amts oder gar externen Gutachten einfach unbequeme Wahrheiten [geheimhalten werden sollen](https://chaos.social/@fragdenstaat/115508056900747956) oder keine Angriffsfläche in unangenehmen Diskussion geboten werden soll. Ergebnis des Projekts sollen auch konkrete Vorschläge sein, "wie die Informationsfreiheit rechtlich gestärkt und gegen politische Angriffe resilient gemacht werden kann".
+
+"Kapitalanlagen öffentlicher Einrichtungen müssen nachvollziehbar und überprüfbar sein", die Versorgungsanstalt des Bundes und der Länder (VBL), die die betriebliche Altersvorsorge von mehr als fünf Millionen Angestellten des öffentlichen Diensts  verwaltet, wollte aber die Auskunft verweigern. Das Urteil des Verwaltungsgerichts Karlsruhe hält nun fest, dass Portfolioangaben als Umweltinformationen einzuordnen und damit auskunftspflicht sind, beschränkt sie aber mit Hinweis auf mögliche Wahrung von Betriebs- und Geschäftsgeheimnissen nur auf die EU-rechtlichen nachhaltigkeitsbezogenen Offenlegungspflichten, wie sie für normale Finanzdienstleister gilt. Um keine Präsdenzfall für solche Hintertüren zu schaffen [klagt daher FragDenStaat weiter](https://fragdenstaat.de/artikel/klagen/2025/11/wir-kampfen-weiter-fur-die-offenlegung-offentlicher-kapitalanlagen/).
 
 ### Nachvollziehbarkeit
-* Die Vorhabenlisten der Bundesministerien
-  https://fragdenstaat.de/artikel/exklusiv/2025/11/was-sonst-ausser-sozialer-harte-und-auslanderfeindlichkeit/
-* Eine EU-Transparenzdatenbank soll öffentlich besser nachvollziehbar machen, wie Online-Dienste Inhalte moderieren. Doch eine aktuelle Studie zeigt grundlegende Mängel auf und warnt: Die Datenbank kann, so wie sie aufgebaut ist, ihre Ziele gar nicht erreichen
-  https://netzpolitik.org/2025/studie-zum-digital-services-act-transparenzdatenbank-fuer-online-dienste-erfuellt-ziele-nicht/
-  https://chaos.social/@netzpolitik_feed/115566147323878515
-* Gerhard Schröder und der Verdacht auf Aktenklau
-  https://correctiv.org/transparenz/2025/11/26/gerhard-schroeder-wladimir-putin-und-der-verdacht-auf-aktenklau/
+Über das Informationsfreiheitsgesetz hat FragDenStaat bei allen Bundesministerien die Vorhabenlisten für die Jahre 2025 und 2026 [angefragt](https://fragdenstaat.de/artikel/exklusiv/2025/11/was-sonst-ausser-sozialer-harte-und-auslanderfeindlichkeit/). Bis Gesundheits- und das Verkehrsministerium haben alle Ministerien ihre interne Planungen offengelegt, so dass man sehen kann, an welchen Gesetzen oder Reformen sie aktuell arbeiten.
+
+Die EU-Transparenzdatenbank, die eigentlich öffentlich besser nachvollziehbar machen soll, wie Online-Dienste Inhalte moderieren, kann so wie sie konzipiert ist, diese Ziele gar nicht erreichen, [kritisiert eine Studie](https://netzpolitik.org/2025/studie-zum-digital-services-act-transparenzdatenbank-fuer-online-dienste-erfuellt-ziele-nicht/).
 
 ### Steuervermeidung
-* Steueroasen Watch
-  https://steueroasen.watch
-  https://chaos.social/@arnesemsrott/115549797764087218
-  * Interaktive Karte: Das Steueroasen-Verzeichnis
-    https://fragdenstaat.de/artikel/exklusiv/2025/11/das-steueroasen-verzeichnis/
-  * Steueroasen Minesweeper
-    https://fragdenstaat.de/aktionen/steuer-minesweeper/
-    https://chaos.social/@fragdenstaat/115592396270562276
-* Steuerflucht von Unternehmen: Vorzugsbehandlung für Big Tech
-  https://taz.de/Steuerregel-abgeschafft-Vorzugsbehandlung-fuer-Big-Tech-im-Bundestag/!6131238/
+Jede Gemeinde in Deutschland darf die Höhe der Gewerbesteuer selbst festlegen. Was einmal dafür gedacht war, dass wirtschaftsschwache Regionen, damit Unternehmen zur Ansiedelung bei ihnen zu bewegen und so zu helfen ihre Standortnachteile auszugleichen, ist inzwischen zu einem Unterbietungswettbewerb zwischen Gemeinden geworden. Mit dem Effekt, dass nach Schätzungen den öffentlichen Kassen in Deutschland insgesamt rund eine Milliarde Euro verloren gehen. Geld, das für Spielplätze, Straßenreinigung und Schulsanierungen fehlt. Die interaktive Karte [steueroasen.watch](https://steueroasen.watch) (und auch [ein Spiel](https://fragdenstaat.de/aktionen/steuer-minesweeper/)) möchte nun auf diesen Missstand [aufmerksam machen](https://fragdenstaat.de/artikel/exklusiv/2025/11/das-steueroasen-verzeichnis/). Sie zeigt 37 Gemeinden mit besonders niedrigen Steuersätzen. DAX-Konzerne, Prominente, Profi-Sportler haben ihren "Firmensitz" in solche deutsche Steueroasen verlegt. Ein wirksame Gegenmaßnahme wäre, die Untergrenze für den Gewerbesteuerhebesatz deutlich zu erhöhen und zwar bundesweit. Oder eben nur Firmensitze erlauben, wo auch wirklich die [wirtschaftlichen Tätigkeit](https://www.aussenwirtschaftslupe.de/der-steuerliche-ort-einer-wirtschaftlichen-taetigkeit-110583) stattfindet, damit könnten solche Briefkastenfirmen nicht mehr weiterexistieren. Bei einigen Fällen liegt aber schon so offensichtliche Steuerhinterziehung vor, so dass sie jetzt schon ohne eine solche Gesetzesänderung verfolgt werden könnten. 
+
+Eine Gesetzesregelung hatte 2017 dem Gebahren von internalen Großkonzernen einen Riegel vorgeschoben, über firmeninternen Lizenzgebühren Gewinne von einer Firmentochter in Deutschland an eine andere Tochter in ein Niedrigsteuerland wie Irland zu verschieben. Bereits 2024 hatte die Finanzverwaltung angeordnet, dass für US-Firmen, sogar rückwirkend bis 2018, eine Ausnahme bei dieser Lizenzschranke zu machen ist. Nun hat die aktuelle Regierungskoalition die Regelung [ganz gestrichen](https://taz.de/Steuerregel-abgeschafft-Vorzugsbehandlung-fuer-Big-Tech-im-Bundestag/!6131238/), wahrscheinlich auf Druck aus Washington.
 
 ### Steuergeldverschwendung
-* Bundesrechnungshof könnte »komplette Prüfungsabteilung« verlieren
-  https://bewegung.social/@a_watch/115605735917998629
-* Jobcenter-Stories: Das Geschäft mit den Arbeitslosen
-  https://fragdenstaat.de/artikel/exklusiv/2025/11/das-geschaft-mit-den-arbeitslosen/
+Obwohl Prüfaufgaben immer umfangreicher werden, z.B. bei Rüstungsvorhaben, Bahn und Infrastruktur, will die Bundesregierung beim Bundesrechnungshof [sparen](https://bewegung.social/@a_watch/115605735917998629), der selbst regelmäßig die Ausgabenpolitik und Verschwendung der Regierung kritisiert. Durch die Sparmaßnahme könnte nun eine ganze Prüfabteilung wegfallen (und ein lästiger Kritiker geschwächt werden).
+
+Aus der Statistik, aus dem Sinn: Arbeitslose werden in teils sinnlose Weiterbildungsmaßnahmen gesteckt, wo alle Beteiligten wissen, dass sie nicht dabei helfen werden, die Betroffene in reguläre Arbeit zu bringen. Aber so gelten offiziell derzeit rund 3 Millionen Menschen als arbeitslos, mit denen, die in Maßnahmen stecken, wären es 3,5 Millionen. Und für die kaum kontrollierte Weiterbildungsindustrie ein lukratives Geschäft: die Kunden liefern die Behörden, bezahlt wird nach Anzahl der Teilnehmenden. Der Bundesrechnungshof (BRH) hat bereits 2022 festgestellt, das etwa 74 Prozent der vorab eingekauften Kursplätze überhaupt nicht genutzt wurden und damit 350 Millionen Euro Steuergeld leistungslos den Besitzer gewechselt haben. Und 2025 kritisierte BRH in einem weiteren Bericht, dass die Fördermaßnahmen der Jobcenter nicht "ausreichend, zielgenau und intensiv" sind. Bei FragDenStaat [kommen nun Menschen](https://fragdenstaat.de/artikel/exklusiv/2025/11/das-geschaft-mit-den-arbeitslosen/), die vom Bürgergeld leben und eben an solchen Maßnahmen teilnehmen mussten und müssen, zu Wort.
 
 ### Lobbyismus
-* Reisen, Rüstung, Guttenberg: Wie Elnet Politik und Unternehmen zusammenbringt
-  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/wie-elnet-politik-und-unternehmen-zusammenbringt
-* Das ist das Netzwerk der "Stiftung Familienunternehmen", als Google-Sheet, auf Basis der Recherchen von Greenpeace. Enjoy
-  https://bsky.app/profile/sixtus.net/post/3m6enzo5bm22v
-  https://docs.google.com/spreadsheets/d/1qQ1ZWevmpRQUrsZli7qxMcQ4J6j7sT0TglU4MCcDLR0/edit?gid=356429414#gid=356429414
+Der "gemeinnützige" Verein Elnet hatte laut Eintrag im Lobbyregister des Bundestags 2024 ein Lobbybudget von mehr als einer Million Euro im Jahr 2024, beschäftigt neun Interessenvertreter:innen und wird von einer Vielzahl von Privatpersonen, Stiftungen, institutionellen Partnern und Unternehmen unterstützt. Die höchste Spende kommt laut Registereintrag 2024 mit über einer Million Euro von Elnets amerikanischen Schwesterorganisation: Friends of Elnet, kurz Felnet. Für Konferenzen und Projekte gab es im gleichen Jahr zwischen 190.000 und 230.000 Euro öffentliche Gelder. Im Frühling 2022 reisen auf Einladung und Kosten des Vereins zehn Bundestagsabgeordnete nach Israel, um sich dort Rüstungsgüter präsentieren zu lassen, über deren Beschaffung sie später entscheiden werden. Tatsächlich werden sie auch beschafft und Elnet reklamiert dies in einem Video als Erfolg für sich. [Nach Recherchen von AbgeordnetenWatch](https://www.abgeordnetenwatch.de/recherchen/lobbyismus/wie-elnet-politik-und-unternehmen-zusammenbringt) lud keine andere Organisation so viele Abgeordnete zu solchen Rüstungsreisen ein wie eben Elnet. Spenden erfolgen aber angeblich trotzdem ohne Gegenleistung, auf der eigenen Webseite wird aber mit dem exklusiven Zugang zu israelischen und europäischen Entscheidungsträger:innen geworben.
+
+Auf der Basis [einer Recherche von Greenpeace](https://bsky.app/profile/sixtus.net/post/3m6enzo5bm22v) wurden die Mitglieder des Netzwerks der "Stiftung Familienunternehmen" übersichtlich in [einer Tabelle](https://docs.google.com/spreadsheets/d/1qQ1ZWevmpRQUrsZli7qxMcQ4J6j7sT0TglU4MCcDLR0/edit?gid=356429414#gid=356429414) zusammengetragen.
 
 ## Überwachung
 * Surveillance under Surveillance
@@ -363,32 +346,16 @@ Um Manipulation durch personalisierte politische Werbung einzuschränken, hat di
   https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/kompakt-hybrid-und-autonom
 
 ## Recap
-* Digital Democracy Day 2025
-  https://zukunftd.org/digital-democracy-day-2025-stream-2
-* Das war die „Zugang gestalten!“ 2025 zu KI und Kulturerbe
-  https://irights.info/artikel/zugang-gestalten-2025-ki-und-kulturerbe/32705
-* OSBA Connect 2025 - Innovationsbooster Open Source
-  https://www.youtube.com/live/oBUoYPT09Gc
-* ecoCompute conference
-  https://www.eco-compute.io
-* OKNRW 25
-  * Fediwall
-    https://fediwall.social/?tags=oknrw,oknrw25,oknrw2025,offenekommunen&accounts=offenekommunen@nrw.social&hide=nsfw,bots
-    https://plasmatrap.com/notes/afbdjmq5b3
-* FIfF Jahrestagung 2025
-  https://www.youtube.com/watch?v=_cxPjMxQ_JA&
-  https://gsis.at/meetings/fiffkon25/
-* NooK 25
-  https://media.ccc.de/c/nook25
-* Digital Green Tech Konferenz 2025
-  https://www.youtube.com/live/sjDeBaDKsbg
-  https://www.youtube.com/live/X9MrweFs_t4 
-* UN Open Science and Open Scholarship Conference 2025
-  https://mastodon.social/@leibnizopenscience/115627450764265276
-* OSBA Connect 2025 - Innovationsbooster Open Source
-  https://www.youtube.com/live/oBUoYPT09Gc
-* Linked Open Data Barcamp Bielefeld 2025
-  https://pad.okfn.de/p/LOD-Barcamp-Bielefeld
+* [Digital Democracy Day 2025](https://zukunftd.org/digital-democracy-day-2025-stream-2)
+* [Zugang gestalten: KI und Kulturerbe](https://irights.info/artikel/zugang-gestalten-2025-ki-und-kulturerbe/32705)
+* [OSBA Connect 2025: Innovationsbooster Open Source](https://www.youtube.com/live/oBUoYPT09Gc)
+* [ecoCompute conference](https://www.eco-compute.io)
+* [OKNRW 25 Fediwall](https://fediwall.social/?tags=oknrw,oknrw25,oknrw2025,offenekommunen&accounts=offenekommunen@nrw.social&hide=nsfw,bots)
+* [FIfF Jahrestagung](https://gsis.at/meetings/fiffkon25/) 2025: [Video](https://www.youtube.com/watch?v=_cxPjMxQ_JA&)
+* [NooK 25](https://media.ccc.de/c/nook25)
+* [Digital Green Tech Konferenz](https://digitalgreentech.de/veranstaltungen/detail/digital-greentech-konferenz-2025) 2025: [Tag 1](https://www.youtube.com/watch?v=DTYMs7Wdj0c) und [Tag 2](https://www.youtube.com/watch?v=C2sdLIvOXjw)
+* [UN Open Science and Open Scholarship Conference 2025](https://mastodon.social/@leibnizopenscience/115627450764265276)
+* [Linked Open Data Barcamp Bielefeld 2025](https://pad.okfn.de/p/LOD-Barcamp-Bielefeld)  
 
 ## Und sonst so
 * Are We Trek Yet?
