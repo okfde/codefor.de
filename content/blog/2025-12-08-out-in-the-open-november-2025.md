@@ -241,35 +241,33 @@ Der "gemeinnützige" Verein Elnet hatte laut Eintrag im Lobbyregister des Bundes
 Auf der Basis [einer Recherche von Greenpeace](https://bsky.app/profile/sixtus.net/post/3m6enzo5bm22v) wurden die Mitglieder des Netzwerks der "Stiftung Familienunternehmen" übersichtlich in [einer Tabelle](https://docs.google.com/spreadsheets/d/1qQ1ZWevmpRQUrsZli7qxMcQ4J6j7sT0TglU4MCcDLR0/edit?gid=356429414#gid=356429414) zusammengetragen.
 
 ## Überwachung
-* Surveillance under Surveillance
-  https://sunders.hamburg.ccc.de
-  https://23.social/@kantorkel/115480284095570399
-* Manufacturer issues remote kill command to disable smart vacuum after engineer blocks it from collecting data — user revives it with custom hardware and Python scripts to run offline
-  https://www.tomshardware.com/tech-industry/big-tech/manufacturer-issues-remote-kill-command-to-nuke-smart-vacuum-after-engineer-blocks-it-from-collecting-data-user-revives-it-with-custom-hardware-and-python-scripts-to-run-offline
-  https://mastodon.online/@tinoeberl/115480282083170464
-* Standortdaten von EU-Personal gehandelt
-  https://www.tagesschau.de/investigativ/br-recherche/standortdaten-eu-spionage-risiko-100.html
-  * Databroker Files: Datenhändler verkaufen metergenaue Standortdaten von EU-Personal
-    https://netzpolitik.org/2025/databroker-files-datenhaendler-verkaufen-metergenaue-standortdaten-von-eu-personal/
-* Bundesdatenschutzbehörde erkennt ersten Dienst gegen die Cookie-Banner-Flut an
-  https://www.heise.de/news/Bundesdatenschutzbehoerde-erkennt-ersten-Dienst-gegen-die-Cookie-Banner-Flut-an-11056908.html
+### Tracking
+In der Europäischen Union konnte man sich bislang nicht gegen den Druck aus der Werbeindustrie zu schärfen Gesetzen oder gar einem Verbot von Tracking im Internet durchringen. [Nun sind Fälle bekannt geworden](https://netzpolitik.org/2025/databroker-files-datenhaendler-verkaufen-metergenaue-standortdaten-von-eu-personal/), in denen Datenhändler metergenaue Standortdaten von EU-Personal verkaufen. Damit ist nicht nur eine [Spionage-Risiko](https://www.tagesschau.de/investigativ/br-recherche/standortdaten-eu-spionage-risiko-100.html) verbunden, sondern auch Gefahren für Einflussnahmen, Einschüchterungs- und Erpressungsversuche von Abgeordneten usw.
+
+Etwas, was die Werbeindustrie auch nicht mag, ist mit dem Browser-Plugin [Consenter](https://www.consenter.eu/de) nun erstmalig von der Bundesdatenschutzbehörde offiziell anerkannt worden: ein [Dienst](https://www.heise.de/news/Bundesdatenschutzbehoerde-erkennt-ersten-Dienst-gegen-die-Cookie-Banner-Flut-an-11056908.html) zur automatischen (Nicht-)Einwilligung in Browser-Cookies.
+
+Der CCC Hamburg [betreibt nun](https://23.social/@kantorkel/115480284095570399) eine Instant von [Surveillance under Surveillance](https://sunders.hamburg.ccc.de), eine Karte, auf der Überwachungskameras in Hamburg erfasst werden.
+
+### Palantir
 * Palantir in Baden-Württemberg: Polizei soll mit deinen Daten Software trainieren dürfen
   https://netzpolitik.org/2025/palantir-in-baden-wuerttemberg-polizei-soll-mit-deinen-daten-software-trainieren-duerfen/
   * Grüne geben Polizeidaten für Palantir frei
     https://netzpolitik.org/2025/baden-wuerttemberg-gruene-geben-polizeidaten-fuer-palantir-frei/
-* Aus für offenes WLAN? Vorratsdatenspeicherung gefährdet digitale Teilhabe
-  https://www.heise.de/news/Aus-fuer-offenes-WLAN-Vorratsdatenspeicherung-gefaehrdet-digitale-Teilhabe-11074279.html
+* Dieser Text ist eine Pflichtlektüre für alle Parlamentarier:innen Europas. Um diese geräuschlose Einnistung von #Palantir-Software in den Verwaltungsinfrastrukturen zu verstehen, die gerade passiert... Und um diese zu stoppen. 
+  https://monde-diplomatique.de/artikel/!6113232
+  https://infosec.exchange/@adfichter/115626582547272822
+
+### Chatkontrolle
 * EU-Staaten einigen sich auf freiwillige Chatkontrolle
   https://netzpolitik.org/2025/interne-dokumente-eu-staaten-einigen-sich-auf-freiwillige-chatkontrolle/
   * Mehr Chats können überwacht werden
     https://www.mpg.de/25771706/chatkontrolle-eu-rat-client-side-scanning
-* Gericht: Biometrische Kontrolle bei Online-Prüfungen ist Grundrechtseingriff
-  https://www.heise.de/news/OLG-Urteil-Biometrische-Ueberwachung-bei-Online-Pruefungen-ist-rechtswidrig-11083924.html
 * WhatsApp-Daten: Eure Nummer, euer Gesicht, euer Profil – alles abrufbar - Die 3,5 Milliarden Profile sind der größte Datenabfluss der Geschichte
   https://peertube.heise.de/w/41a11b34-4467-46ac-a85d-3dd57974ab3b
-* Dieser Text ist eine Pflichtlektüre für alle Parlamentarier:innen Europas. Um diese geräuschlose Einnistung von #Palantir-Software in den Verwaltungsinfrastrukturen zu verstehen, die gerade passiert... Und um diese zu stoppen. 
-  https://monde-diplomatique.de/artikel/!6113232
-  https://infosec.exchange/@adfichter/115626582547272822
+
+### Grundrechte
+* Gericht: Biometrische Kontrolle bei Online-Prüfungen ist Grundrechtseingriff
+  https://www.heise.de/news/OLG-Urteil-Biometrische-Ueberwachung-bei-Online-Pruefungen-ist-rechtswidrig-11083924.html
 * Das Grundrecht auf digitale Integrität und sein Erfolg in der Schweiz
   https://netzpolitik.org/2025/menschenrechte-das-grundrecht-auf-digitale-integritaet-und-sein-erfolg-in-der-schweiz/
 
@@ -358,22 +356,16 @@ Auf der Basis [einer Recherche von Greenpeace](https://bsky.app/profile/sixtus.n
 * [Linked Open Data Barcamp Bielefeld 2025](https://pad.okfn.de/p/LOD-Barcamp-Bielefeld)  
 
 ## Und sonst so
-* Are We Trek Yet?
-  https://arewetrekyet.com
-  https://www.heise.de/news/Web-Tipps-Star-Trek-Technik-im-Reality-Check-11074507.html
-* "überholtes" Schulwissen
-  https://überholt.schule
-  https://mastodon.social/@preya/115581423358033869
+[Are We Trek Yet?](https://arewetrekyet.com) beantwortet die Frage, welche der in den Star-Trek-Serien und Filmen gezeigten Technologien es nun [tatsächlich gibt oder bald geben wird](https://www.heise.de/news/Web-Tipps-Star-Trek-Technik-im-Reality-Check-11074507.html)?
+
+Nach Angabe seines Abschlussjahres, erfährt man auf [überholt.schule](https://überholt.schule), welches von den bis dahin vermittelten Schulwissen [inzwischen überholt ist](https://mastodon.social/@preya/115581423358033869).
 
 ## Fristen
-* Die Digitale Gesellschaft lädt am 20. und 21. Februar 2026 zum neunten Winterkongress in die Rote Fabrik in Zürich ein, Einreichungen bis 07.12.2025
-  https://www.digitale-gesellschaft.ch/2025/11/02/winterkongress-vom-20-und-21-februar-2026-call-for-participation/
-* Informatik Festival, Einreichungen bis 15.12.2025
-  * https://informatik2026.gi.de/CfP.html
-* re:publica, Einreichungen bis 15.01.2026
-  * https://re-publica.com/de/cfp-berlin
-* Munich Open Data Challenge 2026, Einreichungen von 07.01.2026 bis 11.02.2026 möglich
-  https://datengartln.de/challenge/
+* [Winterkongress](https://www.digitale-gesellschaft.ch/2025/11/02/winterkongress-vom-20-und-21-februar-2026-call-for-participation/) der Digitalen Gesellschaft Schweiz, Einreichungen bis 07.12.2025
+* [Informatik Festival](https://informatik2026.gi.de/CfP.html), Einreichungen bis 15.12.2025
+* [re:publica](https://re-publica.com/de/cfp-berlin), Einreichungen bis 15.01.2026
+* [Munich Open Data Challenge 2026](https://datengartln.de/challenge/), Einreichungen von 07.01.2026 bis 11.02.2026 möglich
+  
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Dienstag, 02.12.2025, 10:00-11:30, online: **Umwege zu besseren LIDO-Daten. Workflows externer Normdatenanreicherung** <a title='Kalendereintrag Umwege zu besseren LIDO-Daten. Workflows externer Normdatenanreicherung' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVW13ZWdlIHp1IGJlc3NlcmVuIExJRE8tRGF0ZW4uIFdvcmtmbG93cyBleHRlcm5lciBOb3JtZGF0ZW5hbnJlaWNoZXJ1bmcvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNTEyMTJUMjIzODM0Wg0KRFRTVEFSVDoyMDI1MTIwMlQxMDAwMDANCkRURU5EOjIwMjUxMjAyVDExMzAwMA0KU1VNTUFSWTpVbXdlZ2UgenUgYmVzc2VyZW4gTElETy1EYXRlbi4gV29ya2Zsb3dzIGV4dGVybmVyIE5vcm1kYXRlbmFucmVpY2hlcnVuZw0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cuZGlnaXMtYmVybGluLmRlL3dvcmtzaG9wLXVtd2VnZS16dS1iZXNzZXJlbi1saWRvLWRhdGVuLXdvcmtmbG93cy1leHRlcm5lci1ub3JtZGF0ZW5hbnJlaWNoZXJ1bmcvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
