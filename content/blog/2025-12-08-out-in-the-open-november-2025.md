@@ -169,29 +169,22 @@ Das Tool [Überflutungsvorsorge](https://geoportal-hamburg.de/ueberflutungsvorso
 
 ## Umwelt
 ### Verschmutzung
-* Ewigkeitschemikalien im Wasser
-  https://taz.de/Ewigkeitschemikalien-im-Wasser/!6111023/
-  * Ewigkeitschemikalien
-    https://detektor.fm/wirtschaft/brand-eins-podcast-ferdinand-somorowsky-ewigkeitschemikalien
-* Kläranlagen entfernen Großteil von Mikroplastik
-  https://science.orf.at/stories/3232893/
-* Abwasser von Schlachthöfen: Antibiotikaresistente Keime im Bach – Behörden prüfen nicht
-  https://taz.de/Abwasser-von-Schlachthoefen/!6128415/
-* Sorge ums Trinkwasser: Ohne neue Reinigungsverfahren kommen weiter Medikamentenreste in die Umwelt
-  https://www.riffreporter.de/de/technik/wasseraufbereitung-spurenschadstoffe-klaeranlage-eu-richtlinie-pharmaindustrie  
-* Themenmonat November: Luftschadstoffe und die Gesundheit 
-  https://www.mobil-auf-deine-weise.de/themenmonate/november/
+"Mobil auf deine Weise" hatte für ihren Themenmonat November [viel Wissenswertes](https://www.mobil-auf-deine-weise.de/themenmonate/november/) zu Luftschadstoffe und wie sie unsere Gesundheit gefährden zusammengetragen.
+
+Auch unser Wasser zunehmend mit Stoffen belastet, die dort nicht reingehören. So werden in der Masttierhaltung exzessiv Antibiotika eingesetzt. Antibiotikaresistente Keime werden dann über das Schlachthofabwasser in den nächstbesten Bach oder Fluß abgeleitet. [Durch eine Gesetzeslücke](https://taz.de/Abwasser-von-Schlachthoefen/!6128415/) wird deren Wasser noch nicht routinemäßig auf solche Keime untersucht, denn eigentlich sollten die Betriebe selbst diese mit z.B. einer Ozonierungsanlage aus ihrem Abwasser entfernen.
+
+Aber auch das Abwasser von Privathaushalten enthält gefährliche Reste von Medikamenten und Kosmetika, die nur mit neuen Reinigungsverfahren in den Kläranlagen [rausgefiltert werden können](https://www.riffreporter.de/de/technik/wasseraufbereitung-spurenschadstoffe-klaeranlage-eu-richtlinie-pharmaindustrie). Die Pharmaindustrie weigert sich allerdings, sich an den Kosten dafür zu beteiligen.
+
+Ewigkeitschemikalien wie PFAS kommen wegen ihrer fett- und wasserabweisend Eigenschaft in zahlreichen Produkten zum Einsatz. [In 42 der 46 Stichproben](https://taz.de/Ewigkeitschemikalien-im-Wasser/!6111023/), die deutschlandweit von Juni bis Oktober durchgeführt wurden, ließen sie sich nachweisen, an einigen Standorten wurden gar die Grenzwerte überschritten, so dass an diesen empfohlen wird, dass Kinder kein Leitungswasser mehr trinken sollten. Denn über die Zeit reichern sich die Chemikalien in Leber und Fettgewebe an und können das Immunsystem schwächen. Von drastischen Urteile gegen Chemiefirmen-Manager wie in Italien oder gar einem Verbot von PFAS sind wir Deutschland leider weit weg. Aber eben diesen politischen Druck bräuchte es auf die Firmen, [nach Meinung von Ferdinand Somorowsky](https://taz.de/Ewigkeitschemikalien-im-Wasser/!6111023/), damit diese biologisch abbaubare Alternativen entwickeln würden.
+
 ### Recycling
-* Elektroschrott-Recycling: Bundestag vereinfacht Rückgabe
-  https://www.heise.de/news/Elektroschrott-Recycling-Bundestag-vereinfacht-Rueckgabe-11068997.html
-* A Growing Number of ‘Repair Cafes’ Are Popping Up Around the World to Curb Consumer Waste
-  https://insideclimatenews.org/news/11112025/todays-climate-repair-cafe-consumer-waste/
-* Wie viel Verpackungsmüll verursachen wir in Deutschland? Wie viel Prozent werden recycelt? Stöbere im DataCube vom @Umweltbundesamt und finde aktuelle Zahlen und Daten zum Thema Abfall und Recycling.
-  https://datacube.uba.de/?fs%5B0%5D=Themen,0%7CRessourcen%20und%20Abfall%23RESOURCES_WASTE%23&pg=0&fc=Themen&bp=true&snb=6
-  https://social.bund.de/@umwelt_info/115604753909855706
-### Nachhaltigkeit
-* Permacomputing – Warum es höchste Zeit ist, dass Permakultur auch in der digitalen Welt Wurzeln schlägt
-  https://reset.org/permacomputing-warum-es-hoechste-zeit-ist-dass-permakultur-auch-in-der-digitalen-welt-wurzeln-schlaegt/
+Wie viel Verpackungsmüll fällt in Deutschland an wie viel Prozent davon werden recycelt - [solche und andere Fragen](https://social.bund.de/@umwelt_info/115604753909855706) kann man sich mit [den Daten aus dem DataCube](https://datacube.uba.de/?fs%5B0%5D=Themen,0%7CRessourcen%20und%20Abfall%23RESOURCES_WASTE%23&pg=0&fc=Themen&bp=true&snb=7) des Umweltbundesamtes beantworten.
+
+Weltweit entstehen [immer mehr Repair Cafés](https://insideclimatenews.org/news/11112025/todays-climate-repair-cafe-consumer-waste/), also Orte, an denen Menschen kostenlos ihre Geräte reparieren lassen können, und leisten somit ihren Beitrag, den Wegwerfmüll wenigsten ein bisschen einzudämmen. 
+
+Die Erkenntnis, dass die Extraktion und Wiederverwendung von Ressourcen aus Elektroaltgeräten wertvoll für die Kreislaufwirtschaft sind, setzt sich so langsam durch. Der Bundestag [vereinfacht nun die Rückgabe von Elektroschrott](https://www.heise.de/news/Elektroschrott-Recycling-Bundestag-vereinfacht-Rueckgabe-11068997.html), damit dieser nicht aus Bequemlichkeit im Hausmüll landet, sondern eben potenziell noch teilweise recyclt werden kann oder zu mindestens sachgerecht entsorgt wird.
+
+Letztlich muss aber das Anreizsystem der Verschwendung überwunden werden, und beispielweise wie das [Konzept Permacomputing](https://reset.org/permacomputing-warum-es-hoechste-zeit-ist-dass-permakultur-auch-in-der-digitalen-welt-wurzeln-schlaegt/) im Bereich Digitalisierung langlebige Hardware und geringen Energieverbrauch fördert. Statt sich großkotzig etwas darauf einzubilden, sich immer schon das neuste Gadget leisten zu können, einfach mit dem Bestehenden auskommen und dieses trotzdem kreativ in seiner Verwendung neuzuentdecken.  
 
 ## Völlig KIrre
 ### Blasenbildung
