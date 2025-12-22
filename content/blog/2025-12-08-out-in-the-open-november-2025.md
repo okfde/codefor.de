@@ -67,14 +67,17 @@ Die Bewegung [People vs. BigTech](https://peoplevsbig.tech) fordert [bei einem P
 
 ## Digitale Souveränität
 ### USA
+Die Deutsche Forschungsgemeinschaft (DFG) [hat eine Initiative gestartet](https://www.heise.de/news/US-Clouds-Deutsche-Forschungsgemeinschaft-will-Daten-aus-dem-Ausland-heimholen-10966079.html), wichtige Forschungsdaten aus ausländischen Cloud-Speichern, speziell solchen von US-Anbietern, herauszulösen. Perspektivisch soll nun eine European Open Science Cloud (EOSC) aufgebaut werden.
+
 Auf der interaktiven Webseite [authoritarian-stack.info](https://www.authoritarian-stack.info) zeigen Wissenschaftler:innen das Netzwerk aus Personen und Firmen, deren privaten Plattformen immer mehr staatliche Funktionen in den USA übernehmen und wie sich dieser "Authoritarian Stack" [auch nach Europa ausweitet](https://netzpolitik.org/2025/interaktive-webseite-wie-autoritaere-tech-netzwerke-die-europaeische-souveraenitaet-gefaehrden/).
 
 Wie es sich auswirkt, wenn man nicht den Interessen der USA entspricht zeigt der folgende Fall. Weil er als Richter am Internationalen Strafgerichtshof gegen den israelischen Premierminister Benjamin Netanjahu und den Verteidigungsminister Yoav Gallant wegen Kriegsverbrechen und Verbrechen gegen die Menschlichkeit im Kontext der Zerstörung des Gazastreifens Haftbefehle mit erlassen hatte, wurde der Franzose Nicolas Guillou vom US-Finanzministerium wie seine Richter- und Staatsanwalts-Kollegen mit Sanktionen belegt. Dadurch wurden seine Konten z.B. bei Amazon, Airbnb oder PayPal geschlossen. Da American Express, Visa und Mastercard de facto über ein Monopol in Europa verfügen, seinen Online-Zahlungstransaktionen für ihn auch nicht mehr möglich.
 
-Die Deutsche Forschungsgemeinschaft (DFG) [hat eine Initiative gestartet](https://www.heise.de/news/US-Clouds-Deutsche-Forschungsgemeinschaft-will-Daten-aus-dem-Ausland-heimholen-10966079.html), wichtige Forschungsdaten aus ausländischen Cloud-Speichern, speziell solchen von US-Anbietern, herauszulösen. Perspektivisch soll nun eine European Open Science Cloud (EOSC) aufgebaut werden. 
+## Finanzmarkt
+Der von einem Verbund von 31 europäischen Banken als Paypal-Alternative eingerichtete Bezahldienst Wero kann nun auch [beim Online-Bezahlen genutzt werden](https://www.heise.de/news/Europaeische-PayPal-Alternative-Bezahldienst-Wero-fuer-Online-Einkaeufe-gestartet-11082022.html). Wero als aus der Privatwirtschaft initiiertes Projekt steht in Konkurrenz zum von der Europäischen Zentralbank [geplanten Digitalen Euro](https://netzpolitik.org/2025/digitaler-euro-waehrend-das-parlament-streitet-geht-die-entwicklung-weiter/). Im europäischen Parlament wird nun darüber gestritten, ob es den digitale Euro nur offline oder auch online, also kontobasiert geben soll. Letzeres würde vielen klassischen Geschäftsbanken das Geschäft kaputt machen, weil man dann kein Girokonto mehr benötigten würde. In diesem Zusammenhang muss man vielleicht auch [die Kritik des Sparkassenchefs](https://www.heise.de/news/Sparkassenchef-Digitaler-Euro-ist-Tueroeffner-fuer-Big-Tech-Player-11088363.html) am Digitalen Euro neu bewerten, der durch diesen einen Türöffner für Big-Tech und damit die digitale Souveränität zusätzlich geschwächt sieht. Doch eine gute Regulierung z.B. bei Zahlungs-Apps und den Umgang mit Zahlungstransaktionsdaten kann den Gefahren von Monopolbildung und Missbrauch entgegenwirken.
 
 ### Deutschland
-Manche lernen es nie - Bayern möchte trotz dieser Entwicklungen seine Behörden dennoch mit Microsoft 365 [ausstatten](https://www.heise.de/news/Vertrag-soll-bis-Jahresende-stehen-Bayern-will-in-die-Microsoft-Cloud-11066618.html). Neben Preisgabe der digitalen Souveränität drohen Lizenzkosten in Milliardenhöhe, Geld, welches dann zudem für den Aufbau einer eigenen (auch personellen) IT-Infrastruktur [fehlt](https://mastodon.social/@RichardHeigl/115570840524942039). Mit [der jüngst](https://www.heise.de/news/Office-Alternative-aus-Deutschland-von-Ionos-und-Nextcloud-ist-jetzt-verfuegbar-11067303.html) veröffentlichten ["Ionos Nextcloud Workspace"](https://www.ionos.de/office-loesungen/nextcloud-workspace) Lösung hätte es dabei nicht nur eine souveränere sondern auch kostengünstigere Alternative gegeben. Und mit [OpenDesk](https://www.opendesk.eu/de) gäbe es sogar noch eine weitere Alternative zur Alternative. Diese wird [im Interview](https://user.space/e009-interview-mit-zendis/) mit Zendis auf dem Podcast ["Urlaub im Userspace"](https://user.space) vorgestellt. Anleitungen, wie man es aufsetzt gibt es [hier](https://www.opendesk.eu/de/blog/open-desk-selber-hosten) und [hier](https://gitlab.opencode.de/thlv/opendesk-quickstart/-/tree/main/minimal-installation_opendesk-k3s). Und LibreOffice [gibt es ja auch noch](https://de.blog.documentfoundation.org/2025/11/01/rueckblick-auf-das-libreoffice-projekt-und-die-community-oktober-2025/).
+Manche lernen es nie - Bayern möchte seine Behörden mit Microsoft 365 [ausstatten](https://www.heise.de/news/Vertrag-soll-bis-Jahresende-stehen-Bayern-will-in-die-Microsoft-Cloud-11066618.html). Neben Preisgabe der digitalen Souveränität drohen Lizenzkosten in Milliardenhöhe, Geld, welches dann zudem für den Aufbau einer eigenen (auch personellen) IT-Infrastruktur [fehlt](https://mastodon.social/@RichardHeigl/115570840524942039). Mit [der jüngst](https://www.heise.de/news/Office-Alternative-aus-Deutschland-von-Ionos-und-Nextcloud-ist-jetzt-verfuegbar-11067303.html) veröffentlichten ["Ionos Nextcloud Workspace"](https://www.ionos.de/office-loesungen/nextcloud-workspace) Lösung hätte es dabei nicht nur eine souveränere sondern auch kostengünstigere Alternative gegeben. Und mit [OpenDesk](https://www.opendesk.eu/de) gäbe es sogar noch eine weitere Alternative zur Alternative. Diese wird [im Interview](https://user.space/e009-interview-mit-zendis/) mit Zendis auf dem Podcast ["Urlaub im Userspace"](https://user.space) vorgestellt. Anleitungen, wie man es aufsetzt gibt es [hier](https://www.opendesk.eu/de/blog/open-desk-selber-hosten) und [hier](https://gitlab.opencode.de/thlv/opendesk-quickstart/-/tree/main/minimal-installation_opendesk-k3s). Und LibreOffice [gibt es ja auch noch](https://de.blog.documentfoundation.org/2025/11/01/rueckblick-auf-das-libreoffice-projekt-und-die-community-oktober-2025/).
 
 Auf dem [SCS-Summit 2025](https://sovereigncloudstack.org/insights/scs-summit-2025/) wurde zudem die [Diskussion](https://egovernment-podcast.com/egov234-deutschlandstack-scss25/) über Chancen und Risiken des [Deutschland-Stacks](https://deutschland-stack.gov.de) aufgezeichnet.
 
@@ -123,6 +126,8 @@ Den ganzen November lief wieder die ["30 Day Map Challenge"](https://30daymapcha
 
 Bei der interaktiven Karten ["Parking or Playground"](https://www.hanshack.com/parking/) kann man sich für einen beliebigen 1km-Radius-Kartenausschnitt von Berlin ausgeben, wie gerecht die Flächen zwischen Parkplätzen, Spielplätzen und Grünlagen [aufgeteilt sind](https://troet.cafe/@hanshack/115536038904124002).
 
+Den Umstand, dass wir immer mehr [Einzeitungskreisen](https://de.wikipedia.org/wiki/Einzeitungskreis) haben, hat Tim [hier schön visualiert](https://tifa365.github.io/papertrail/).
+
 ## Mobilität
 [Ein Video](https://mastodon.social/@cmconseils/115616453811325078) zeigt in einer Minute an Hand von 20 ausgewählten Straßen in Paris, wie durch die Reduktion von Parkplätzen und dem Pflanzen von Bäumen und Sträuchern an ihrer Stelle die Aufenthaltsqualität angehoben werden konnte.
 
@@ -169,7 +174,9 @@ Die Deutsche Industrie- und Handelskammer (DIHK) stellt mit ihrem [DIHK-Position
 Und die Politik beugt sich den Wirtschaftsinteressen: Europas Lieferkettengesetze werden dem "Bürokratieabbau" [geopfert](https://netzpolitik.org/2025/kritische-rohstoffe-und-menschenrechte-ursula-von-der-leyen-muss-wort-halten/). Und die Kosten für die abgeschaffte Gasspeicherumlage zu finanzieren, werden einfach das Geld aus dem Klima- und Transformationsfonds [zweckentfremdet](https://www.zeit.de/politik/deutschland/2025-11/gasspeicherumlage-bundestag-entlastung-gas-verbraucher). Und kurz vor der COP in Brasilien haben sich die EU-Umweltminister [auf ein deutlich abgeschwächtes Klimaziel für 2040 geeinigt](https://www.zeit.de/wissen/umwelt/2025-11/eu-staaten-einigen-sich-auf-abgeschwaechtes-klimaziel-gxe). Und auch COP30 endete quasi [mit einem Nicht-Ergebnis](https://www.tagesschau.de/wissen/klima/klimakonferenz/analyse-cop30-ergebnisse-100.html), man konnte sich auf keinen Fahrplan zum Ausstieg aus Kohle, Öl und Gas einigen, auch der Entwaldungs-Stopp-Plan fand kein Eingang ins Abschlussdokument. Der Beschluss, die Finanzmittel zur Anpassung an die Klimakrise bis 2035 zu verdreifachen, erfolgte, ohne Festlegen, was überhaupt der Basiswert für 2025 sei, mit dem dann multipliziert werden soll.
 
 ### Aktivismus
-Die Baubranche ist für 40% der Treibhausgase verantwortlich und trägt außerdem zur Versiegelung von Landflächen bei. Die europäische Bürgerinitiative [HouseEurope!](https://www.houseeurope.eu) setzt sich deshalb dafür ein, den Erhalt bestehender Gebäude durch Sanierung / Umbau klar gegenüber dem Abriss / Neubau  zu bevorzugen. Man kann sich noch an der Unterschriftensammlung [beteiligen](https://www.architects4future.de/portfolio/projekte/houseeurope). Die Psychologists for Future [ergänzen noch](https://climatejustice.social/@psy4f/115552897762502633), dass man Bestehendes mehr wertschätzen solle und auch den Traum vom Eigenheim hinterfragen und kreativ nach neuen Wegen suchen solle.
+Die Baubranche ist für 40% der Treibhausgase verantwortlich und trägt außerdem zur Versiegelung von Landflächen bei. Zudem machen die auf Baustellen und beim Abriss von Gebäuden jährlich entstehenden 200 Millionen Tonnen Müll mehr als die Hälfte des gesamten jährlichen Müllaufkommens in Deutschland aus. Und die fachgerechte Entsorgung oder gar Wiederverwendbarmachung von Bauschutt nach Kreislaufwirtschaftsgesetz ist teuer. Kosten, die sich manchen gerne sparen, und den lassen ihn illegal über Abfallhändel im Nachbarland Tschechien entsorgen, wie jetzt [eine CORRECTIV.Europe-Recherche aufdeckte](https://correctiv.org/aktuelles/europa-aktuelles/2025/11/17/weisses-gold-verscharrt-statt-recycelt/).
+
+Auch deshalb setzt sich die europäische Bürgerinitiative [HouseEurope!](https://www.houseeurope.eu) dafür ein, dass der Erhalt bestehender Gebäude durch Sanierung / Umbau klar gegenüber dem Abriss / Neubau zu bevorzugen sei. Man kann sich noch an der Unterschriftensammlung [beteiligen](https://www.architects4future.de/portfolio/projekte/houseeurope). Die Psychologists for Future [ergänzen noch](https://climatejustice.social/@psy4f/115552897762502633), dass man Bestehendes mehr wertschätzen solle und auch den Traum vom Eigenheim hinterfragen und kreativ nach neuen Wegen suchen solle.
 
 Die Bürgerinitiative [BaumEntscheid](https://www.baumentscheid.de) hatte einen nach monatelang ehrenamtlicher Arbeit entstandenen Gesetzesentwurf an den Berliner Senat abgegeben, nach dem der Baumbestand in Berlin bis 2040 mehr als verdoppelt werden soll, so dass dann über eine Million Bäume stehen sollen. Das Gesetz wurde nun tatsächlich [beschlossen](https://www.zeit.de/politik/deutschland/2025-11/berlin-klimawandel-baeume-gesetz-gruen-milliarden). Allerdings sind nach Straßenbaumzustandsbericht die Hälfte der Berliner Bäume geschädigt (auch weil zu wenig Geld für Pflege und Unterhalt investiert wird und diese jüngst sogar auf Null gekürzt worden sind), es wurden zuletzt mehr Bäume gefällt, als welche neugepflanzt wurden. [Fraglich](https://www.rbb24.de/politik/beitrag/2025/11/berlin-abgeordnetenhaus-baumentscheid-sondersitzung-stadtbaeume.html) ist auch, ob man bei den bestehenden Nutzungsansprüchen überhaupt genügend Standorte für die zusätzlichen Pflanzungen finden wird. Die Ansprüche wird man also zwingend zunehmend in Frage stellen müssen. In Hans Hacks [Parking-2-Tree-Spiel](https://hanshack.com/p2t) kann man jetzt schon virtuell Parkplätze zu Baumscheiben [umwandeln](https://troet.cafe/@hanshack/115508785678459978).
 
@@ -193,43 +200,39 @@ Weltweit entstehen [immer mehr Repair Cafés](https://insideclimatenews.org/news
 
 Die Erkenntnis, dass die Extraktion und Wiederverwendung von Ressourcen aus Elektroaltgeräten wertvoll für die Kreislaufwirtschaft sind, setzt sich so langsam durch. Der Bundestag [vereinfacht nun die Rückgabe von Elektroschrott](https://www.heise.de/news/Elektroschrott-Recycling-Bundestag-vereinfacht-Rueckgabe-11068997.html), damit dieser nicht aus Bequemlichkeit im Hausmüll landet, sondern eben potenziell noch teilweise recyclt werden kann oder zu mindestens sachgerecht entsorgt wird.
 
-Letztlich muss aber das Anreizsystem der Verschwendung überwunden werden, und beispielweise wie das [Konzept Permacomputing](https://reset.org/permacomputing-warum-es-hoechste-zeit-ist-dass-permakultur-auch-in-der-digitalen-welt-wurzeln-schlaegt/) im Bereich Digitalisierung langlebige Hardware und geringen Energieverbrauch fördert. Statt sich großkotzig etwas darauf einzubilden, sich immer schon das neuste Gadget leisten zu können, einfach mit dem Bestehenden auskommen und dieses trotzdem kreativ in seiner Verwendung neuzuentdecken.  
+Letztlich muss aber das Anreizsystem der Verschwendung überwunden werden, und beispielweise wie das [Konzept Permacomputing](https://reset.org/permacomputing-warum-es-hoechste-zeit-ist-dass-permakultur-auch-in-der-digitalen-welt-wurzeln-schlaegt/) im Bereich Digitalisierung langlebige Hardware und geringen Energieverbrauch fördert. Statt sich großkotzig etwas darauf einzubilden, sich immer schon das neuste Gadget leisten zu können, einfach mit dem Bestehenden auskommen und dieses trotzdem kreativ in seiner Verwendung neuzuentdecken.
 
 ## Wirtschaft / Gesellschaft
-* Neuer Oxfam-Bericht: Vermögen von EU-Milliardären wuchs in der ersten Jahreshälfte um mehr als 400 Milliarden Euro
-  https://www.l-iz.de/politik/kassensturz/2025/10/neuer-oxfam-bericht-vermogen-eu-milliardare-erste-jahreshalft-400-milliarden-euro-635966
-* Wachsende wirtschaftliche Ungleichheit: Das ist demokratiegefährdend
-  https://taz.de/Wachsende-wirtschaftliche-Ungleichheit/!6126371/
-* Überbrückungsfonds
-  https://ueberbrueckungsfonds.de
-  https://chaos.social/@fragdenstaat/115620988377606696
+Der [neue Oxfam-Bericht](https://www.oxfam.de/presse/pressemitteilungen/2025-10-09-vermoegen-eu-milliardaerinnen-waechst-erster-jahreshaelfte-um) "A European Agenda to Tax the Super-Rich" deckt auf, das allein in der EU das Gesamtvermögen von Milliardär:innen in der ersten Hälfte dieses Jahres um mehr als 400 Milliarden Euro gestiegen ist. Kein Wunder bei den zahlreichen Steuerprivilegien, Spanien hat als einziges Land eine Vermögenssteuer, zehn EU-Länder haben keine Erbschaftssteuer, ein europäisches Vermögensregister, aus dem man ablesen könnte, wer welche Vermögen überhaupt hat, fehlt. Und diese Entwicklung ist, wie der Bericht auch dokumentiert, ein Folge jahrzehntelanger bewusster politischer Entscheidungen. Die dadurch entstehende wachsende wirtschaftliche Ungleichheit [wirkt zunehmend demokratiegefährdend](https://taz.de/Wachsende-wirtschaftliche-Ungleichheit/!6126371/), denn warum sollte man auch einem Staat und einer Demokratie vertrauen, die sich nicht für einen einsetzt.
 
-## Arbeitsmarkt
-* Jobcenter-Stories: Das Geschäft mit den Arbeitslosen
-  https://fragdenstaat.de/artikel/exklusiv/2025/11/das-geschaft-mit-den-arbeitslosen/
-* Um mal ins Verhältnis zu setzen, was „früher“ als Arbeiter möglich war:
-  https://chaos.social/@qwertziop/115620825183418369
+Wie z.B. bei lokalen Demokratie-Initiativen: Trotz staatlicher Förderzusagen fließen die Gelder durch politische Verzögerungen erst Monate später, doch Raummieten und Gehälter müssen weiter bezahlt werden. Damit das nicht das Aus für Projekte bedeutet, die wichtige Arbeit für Teilhabe und soziale Gerechtigkeit leisten, wurde von FragDenStaat und Campact ein [Überbrückungsfonds](https://ueberbrueckungsfonds.de) eingerichtet, der die finanziellen Mittel als zinsloses Darlehen vorstreckt. Sobald die eigentlichen Fördergelder da sind, können diese dann wieder zurück in den Fonds fließen und stehen anderen betroffenen Projekten zur Verfügung. Es lohnt sich also für den Fonds zu spenden.
 
-## Finanzmarkt
-* Digitaler Euro: Während das Parlament streitet, geht die Entwicklung weiter
-  https://netzpolitik.org/2025/digitaler-euro-waehrend-das-parlament-streitet-geht-die-entwicklung-weiter/
-* Europäische PayPal-Alternative: Bezahldienst Wero für Online-Einkäufe gestartet
-  https://www.heise.de/news/Europaeische-PayPal-Alternative-Bezahldienst-Wero-fuer-Online-Einkaeufe-gestartet-11082022.html
-* Sparkassenchef: Digitaler Euro ist Türöffner für Big-Tech-Player
-  https://www.heise.de/news/Sparkassenchef-Digitaler-Euro-ist-Tueroeffner-fuer-Big-Tech-Player-11088363.html
-  https://social.heise.de/@heiseonline/115594438941159680
+## Meinungsbeeinflussung
+Ein [Lobbycontrol-Videobeitrag](https://www.youtube.com/watch?v=8hMxVgqSfpE) zeigt, wer alles hinter den Kampagnen gegen die Zivilgesellschaft und Nichtregierungsorganisationen steckt, die dazugehörende Studie gibt es [hier zum Nachlesen](https://www.lobbycontrol.de/aus-der-lobbywelt/neue-studie-wer-steckt-hinter-den-kampagnen-gegen-die-zivilgesellschaft-122514/). 
+
+Um Manipulation durch personalisierte politische Werbung einzuschränken, hat die EU eigentlich die Verordnung über Transparenz und Targeting politischer Werbung (TTPW‑VO) als Ergänzung zum Digital Services Act, die schärfere Regeln für politische Anzeigen im Netz vorsieht. So muss nun für jede Anzeige ersichtlich sein, wer und wieviel dafür bezahlt hat und auf welchen Daten das Targeting beruht. Die Durchsetzung dieser Regeln [lässt noch zu wünschen übrig](https://www.heise.de/news/Juristin-zu-politischem-Targeting-Meta-Google-und-Co-wollen-Grenzen-austesten-11056205.html), zumal die Plattformen teilweise auch vortäuschen, Maßnahmen zu ergreifen. Und die Formen der politischen Einflussnahme verändern sich, klassische Wahlwerbung wird ergänzt oder gar abgelöst durch bezahlte Influencer-Inhalte oder geschalteten bewusst zugespitzten Inhalten, die die Engagement-Loop-fördernden Algorithmen der Plattformen bedienen.
 
 ## Transparenz
-* Die Vorhabenlisten der Bundesministerien
-  https://fragdenstaat.de/artikel/exklusiv/2025/11/was-sonst-ausser-sozialer-harte-und-auslanderfeindlichkeit/
-* Rechtskämpfe um Informationsfreiheit
-  https://www.evangelisch.de/inhalte/249236/05-11-2025/forschungsprojekt-soll-informationsfreiheit-staerken
-  https://chaos.social/@fragdenstaat/115508056900747956
+### Gesetze
 * Entwürfe und Kostenschätzung für das Bundestransparenzgesetz der vergangenen Ampelregierung
   https://fragdenstaat.de/artikel/klagen/2025/10/entwurf-transparenzgesetz-klage/
   https://chaos.social/@fragdenstaat/115524785710575646
+* Rechtskämpfe um Informationsfreiheit
+  https://www.evangelisch.de/inhalte/249236/05-11-2025/forschungsprojekt-soll-informationsfreiheit-staerken
+  https://chaos.social/@fragdenstaat/115508056900747956
 * Die Versorgungsanstalt des Bundes und der Länder (VBL) ist auskunftspflichtig
   https://fragdenstaat.de/artikel/klagen/2025/11/wir-kampfen-weiter-fur-die-offenlegung-offentlicher-kapitalanlagen/
+
+### Nachvollziehbarkeit
+* Die Vorhabenlisten der Bundesministerien
+  https://fragdenstaat.de/artikel/exklusiv/2025/11/was-sonst-ausser-sozialer-harte-und-auslanderfeindlichkeit/
+* Eine EU-Transparenzdatenbank soll öffentlich besser nachvollziehbar machen, wie Online-Dienste Inhalte moderieren. Doch eine aktuelle Studie zeigt grundlegende Mängel auf und warnt: Die Datenbank kann, so wie sie aufgebaut ist, ihre Ziele gar nicht erreichen
+  https://netzpolitik.org/2025/studie-zum-digital-services-act-transparenzdatenbank-fuer-online-dienste-erfuellt-ziele-nicht/
+  https://chaos.social/@netzpolitik_feed/115566147323878515
+* Gerhard Schröder und der Verdacht auf Aktenklau
+  https://correctiv.org/transparenz/2025/11/26/gerhard-schroeder-wladimir-putin-und-der-verdacht-auf-aktenklau/
+
+### Steuervermeidung
 * Steueroasen Watch
   https://steueroasen.watch
   https://chaos.social/@arnesemsrott/115549797764087218
@@ -238,42 +241,21 @@ Letztlich muss aber das Anreizsystem der Verschwendung überwunden werden, und b
   * Steueroasen Minesweeper
     https://fragdenstaat.de/aktionen/steuer-minesweeper/
     https://chaos.social/@fragdenstaat/115592396270562276
-* Eine EU-Transparenzdatenbank soll öffentlich besser nachvollziehbar machen, wie Online-Dienste Inhalte moderieren. Doch eine aktuelle Studie zeigt grundlegende Mängel auf und warnt: Die Datenbank kann, so wie sie aufgebaut ist, ihre Ziele gar nicht erreichen
-  https://netzpolitik.org/2025/studie-zum-digital-services-act-transparenzdatenbank-fuer-online-dienste-erfuellt-ziele-nicht/
-  https://chaos.social/@netzpolitik_feed/115566147323878515
-* Reisen, Rüstung, Guttenberg: Wie Elnet Politik und Unternehmen zusammenbringt
-  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/wie-elnet-politik-und-unternehmen-zusammenbringt
+* Steuerflucht von Unternehmen: Vorzugsbehandlung für Big Tech
+  https://taz.de/Steuerregel-abgeschafft-Vorzugsbehandlung-fuer-Big-Tech-im-Bundestag/!6131238/
+
+### Steuergeldverschwendung
 * Bundesrechnungshof könnte »komplette Prüfungsabteilung« verlieren
   https://bewegung.social/@a_watch/115605735917998629
-* Gerhard Schröder und der Verdacht auf Aktenklau
-  https://correctiv.org/transparenz/2025/11/26/gerhard-schroeder-wladimir-putin-und-der-verdacht-auf-aktenklau/
+* Jobcenter-Stories: Das Geschäft mit den Arbeitslosen
+  https://fragdenstaat.de/artikel/exklusiv/2025/11/das-geschaft-mit-den-arbeitslosen/
+
+### Lobbyismus
+* Reisen, Rüstung, Guttenberg: Wie Elnet Politik und Unternehmen zusammenbringt
+  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/wie-elnet-politik-und-unternehmen-zusammenbringt
 * Das ist das Netzwerk der "Stiftung Familienunternehmen", als Google-Sheet, auf Basis der Recherchen von Greenpeace. Enjoy
   https://bsky.app/profile/sixtus.net/post/3m6enzo5bm22v
   https://docs.google.com/spreadsheets/d/1qQ1ZWevmpRQUrsZli7qxMcQ4J6j7sT0TglU4MCcDLR0/edit?gid=356429414#gid=356429414
-* Steuerflucht von Unternehmen: Vorzugsbehandlung für Big Tech
-  https://taz.de/Steuerregel-abgeschafft-Vorzugsbehandlung-fuer-Big-Tech-im-Bundestag/!6131238/
-* „Weißes Gold“: Verscharrt statt recycelt
-  https://correctiv.org/aktuelles/europa-aktuelles/2025/11/17/weisses-gold-verscharrt-statt-recycelt/
-
-## Journalismus
-* Geschichte des Onlinejournalismus
-  https://www.mdr.de/altpapier/das-altpapier-4416.html
-* Strengthening Public Interest Media in the Age of GenAI
-  https://medium.com/@TheDataTank/strengthening-public-interest-media-in-the-age-of-genai-976ff27698e4
-* Papertrail - Lokale Tageszeitungen in deinem Landkreis
-  https://tifa365.github.io/papertrail/
-
-## Meinungsbeeinflussung
-* Juristin zu politischem Targeting: Meta, Google und Co. wollen Grenzen austesten
-  https://www.heise.de/news/Juristin-zu-politischem-Targeting-Meta-Google-und-Co-wollen-Grenzen-austesten-11056205.html
-* Zivilgesellschaft unter Druck
-  https://www.youtube.com/watch?v=8hMxVgqSfpE
-  https://bewegung.social/@lobbycontrol/115501850697772316
-
-## Demokratie
-* Demokratiekompass
-  https://correctiv.org/in-eigener-sache/2025/11/07/correctiv-startet-den-demokratiekompass-ein-neues-format-fuer-gelebte-demokratie/
-  https://bsky.app/profile/correctiv.org/post/3m525rko52k2r
 
 ## Überwachung
 * Surveillance under Surveillance
@@ -305,9 +287,6 @@ Letztlich muss aber das Anreizsystem der Verschwendung überwunden werden, und b
 * Dieser Text ist eine Pflichtlektüre für alle Parlamentarier:innen Europas. Um diese geräuschlose Einnistung von #Palantir-Software in den Verwaltungsinfrastrukturen zu verstehen, die gerade passiert... Und um diese zu stoppen. 
   https://monde-diplomatique.de/artikel/!6113232
   https://infosec.exchange/@adfichter/115626582547272822
-
-
-## Informelle Selbstbestimmung
 * Das Grundrecht auf digitale Integrität und sein Erfolg in der Schweiz
   https://netzpolitik.org/2025/menschenrechte-das-grundrecht-auf-digitale-integritaet-und-sein-erfolg-in-der-schweiz/
 
