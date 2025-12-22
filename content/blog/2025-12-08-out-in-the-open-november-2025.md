@@ -249,27 +249,19 @@ Etwas, was die Werbeindustrie auch nicht mag, ist mit dem Browser-Plugin [Consen
 Der CCC Hamburg [betreibt nun](https://23.social/@kantorkel/115480284095570399) eine Instant von [Surveillance under Surveillance](https://sunders.hamburg.ccc.de), eine Karte, auf der Überwachungskameras in Hamburg erfasst werden.
 
 ### Palantir
-* Palantir in Baden-Württemberg: Polizei soll mit deinen Daten Software trainieren dürfen
-  https://netzpolitik.org/2025/palantir-in-baden-wuerttemberg-polizei-soll-mit-deinen-daten-software-trainieren-duerfen/
-  * Grüne geben Polizeidaten für Palantir frei
-    https://netzpolitik.org/2025/baden-wuerttemberg-gruene-geben-polizeidaten-fuer-palantir-frei/
-* Dieser Text ist eine Pflichtlektüre für alle Parlamentarier:innen Europas. Um diese geräuschlose Einnistung von #Palantir-Software in den Verwaltungsinfrastrukturen zu verstehen, die gerade passiert... Und um diese zu stoppen. 
-  https://monde-diplomatique.de/artikel/!6113232
-  https://infosec.exchange/@adfichter/115626582547272822
+Der Landtag in Baden-Württemberg hat im November [ein neues Polizeigesetz beschlossen](https://netzpolitik.org/2025/baden-wuerttemberg-gruene-geben-polizeidaten-fuer-palantir-frei/), und damit auch die automatisierte polizeiliche Datenanalyse mit Palantir-Software. Mit der lapidaren Begründung "KI-Anwendungen benötigen […] zur Entwicklung und zum Testen realitätsnahe Trainingsdaten."  wurden über eine so genannte Experimentierklausel "die Nutzung polizeispezifischer – in aller Regel auch personenbezogener – Daten" auch außerhalb von rein wissenschaftlichen Forschungsarbeiten freigegeben, also auch für kommerzielle Unternehmen. Informationelle Selbstbestimmung setzt zwar den Grundsatz der Zweckbindung voraus, aber Innovation über alles.
+
+"Die Techno-Autokraten wissen, dass man, um Macht auszuüben, keine Wahlen gewinnen muss – sondern nur Verträge abschließen". "Wenn Palantir für die Erfüllung von Regierungsaufgaben unentbehrlich geworden ist, wenn die Drohnen von Anduril zum Nato-Standard werden", dann werden hoheitliche Aufgaben nicht "mehr von demokratischen Institutionen ausgeübt, sondern von einer technischen Kapazität unter der Kontrolle von Privateigentümern", nur ein paar [Kernaussage aus Francesca Brias Monde-Diplomatique-Artikel](https://monde-diplomatique.de/artikel/!6113232). Für Adrienne Fichter [eine Pflichtlektüre](https://infosec.exchange/@adfichter/115626582547272822) für die EU-Parlamentarier:innen, in der Hoffnung das sie diesen Prozess noch aufhalten.
 
 ### Chatkontrolle
-* EU-Staaten einigen sich auf freiwillige Chatkontrolle
-  https://netzpolitik.org/2025/interne-dokumente-eu-staaten-einigen-sich-auf-freiwillige-chatkontrolle/
-  * Mehr Chats können überwacht werden
-    https://www.mpg.de/25771706/chatkontrolle-eu-rat-client-side-scanning
-* WhatsApp-Daten: Eure Nummer, euer Gesicht, euer Profil – alles abrufbar - Die 3,5 Milliarden Profile sind der größte Datenabfluss der Geschichte
-  https://peertube.heise.de/w/41a11b34-4467-46ac-a85d-3dd57974ab3b
+Die EU-Staaten haben sich auf [eine freiwillige Chatkontrolle geeinigt](https://netzpolitik.org/2025/interne-dokumente-eu-staaten-einigen-sich-auf-freiwillige-chatkontrolle/), obwohl die nach EU-Recht auch verboten ist, ihr Nutzen ist nicht nachgewiesen, das Schadens- und Missbrauchspotenzial dagegen ist groß. Für Carmela Troncoso, Direktorin am Max-Planck-Institut für Sicherheit und Privatsphäre, werden nun Sicherheit und Privatsphäre unverhältnismäßig geschwächt. So bleibt beim vorgesehenen Client-Side-Scanning die Ende-zu-Ende-Verschlüsselung zwar bestehen, die wird aber unterlaufen, da die Inhalte vor der Verschlüsselung auf sexuellen Kindermissbrauch untersucht werden, und dabei jetzt nicht nur Links und Bilder sondern auch Textnachrichten und Videos. Mit auch Gefahr für False-Positives-Meldungen.
+
+Wiener Forscher haben alle WhatsApp-Nummern [abgerufen](https://peertube.heise.de/w/41a11b34-4467-46ac-a85d-3dd57974ab3b). Die 3,5 Milliarden Profile inklusive Profilbilder und andere Daten sind der größte Datenabfluss der Geschichte.
 
 ### Grundrechte
-* Gericht: Biometrische Kontrolle bei Online-Prüfungen ist Grundrechtseingriff
-  https://www.heise.de/news/OLG-Urteil-Biometrische-Ueberwachung-bei-Online-Pruefungen-ist-rechtswidrig-11083924.html
-* Das Grundrecht auf digitale Integrität und sein Erfolg in der Schweiz
-  https://netzpolitik.org/2025/menschenrechte-das-grundrecht-auf-digitale-integritaet-und-sein-erfolg-in-der-schweiz/
+Immer mehr Schweizer Kantone [verankern das neues Grundrecht auf digitale Integrität](https://netzpolitik.org/2025/menschenrechte-das-grundrecht-auf-digitale-integritaet-und-sein-erfolg-in-der-schweiz/) in ihren verweiligen Kantons­verfassungen. Das Konzept der digitalen Integrität umfasst das Recht auf Vergessenwerden, ein Offline-Leben, auf Informationssicherheit, nicht von einer Maschine beurteilt zu werden, nicht überwacht, vermessen und analysiert zu werden sowie dem Schutz vor Verwendung von Daten ohne Zustimmung.
+
+In Deutschland [hat ein Gericht geurteilt](https://www.heise.de/news/OLG-Urteil-Biometrische-Ueberwachung-bei-Online-Pruefungen-ist-rechtswidrig-11083924.html), dass die biometrische Kontrollen, die Hochschulen bei Online-Prüfungen (vor allem während der Corona-Pandemie) eingesetzt haben, um die Identität des Prüflings sicherzustellen und Betrugsversuche zu verhindern, ein Grundrechtseingriff waren und sind. Auch weil die dafür eingesetzte Software die biometrische Daten an die AWS-Cloud weiterleitet hat und die Studenten keine Wahl hatten, wenn sie nicht exmatrikuliert werden wollten.
 
 ## Völlig KIrre
 ### Blasenbildung
