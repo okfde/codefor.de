@@ -157,30 +157,15 @@ UN-Informationsexpertin Charlotte Scaddan [beklagt](https://www.deutschlandfunk.
 
 Die Deutsche Industrie- und Handelskammer (DIHK) stellt mit ihrem [DIHK-Positionspapier zum Klimaschutz ](https://www.dihk.de/resource/blob/139712/d4cadc37591037c24b88b823d4227777/klimaschutzbeschluss-data.pdf) die deutsche Klimaziele [in Frage](https://table.media/climate/thema-des-tages/industrieverband-dihk-will-deutsche-klimaziele-infrage-stellen), und möchte, dass man sich nur an den Klimaschutzanstrengungen der wichtigsten wirtschaftlichen Wettbewerber ausrichtet.
 
-Und die Politik beugt sich den Wirtschaftsinteressen: Europas Lieferkettengesetze werden dem "Bürokratieabbau" [geopfert](https://netzpolitik.org/2025/kritische-rohstoffe-und-menschenrechte-ursula-von-der-leyen-muss-wort-halten/). Und die Kosten für die abgeschaffte Gasspeicherumlage zu finanzieren, werden einfach das Geld aus dem Klima- und Transformationsfonds [zweckentfremdet](https://www.zeit.de/politik/deutschland/2025-11/gasspeicherumlage-bundestag-entlastung-gas-verbraucher). Und kurz vor der COP in Brasilien haben sich die EU-Umweltminister [auf ein deutlich abgeschwächtes Klimaziel für 2040 geeinigt](https://www.zeit.de/wissen/umwelt/2025-11/eu-staaten-einigen-sich-auf-abgeschwaechtes-klimaziel-gxe).
+Und die Politik beugt sich den Wirtschaftsinteressen: Europas Lieferkettengesetze werden dem "Bürokratieabbau" [geopfert](https://netzpolitik.org/2025/kritische-rohstoffe-und-menschenrechte-ursula-von-der-leyen-muss-wort-halten/). Und die Kosten für die abgeschaffte Gasspeicherumlage zu finanzieren, werden einfach das Geld aus dem Klima- und Transformationsfonds [zweckentfremdet](https://www.zeit.de/politik/deutschland/2025-11/gasspeicherumlage-bundestag-entlastung-gas-verbraucher). Und kurz vor der COP in Brasilien haben sich die EU-Umweltminister [auf ein deutlich abgeschwächtes Klimaziel für 2040 geeinigt](https://www.zeit.de/wissen/umwelt/2025-11/eu-staaten-einigen-sich-auf-abgeschwaechtes-klimaziel-gxe). Und auch COP30 endete quasi [mit einem Nicht-Ergebnis](https://www.tagesschau.de/wissen/klima/klimakonferenz/analyse-cop30-ergebnisse-100.html), man konnte sich auf keinen Fahrplan zum Ausstieg aus Kohle, Öl und Gas einigen, auch der Entwaldungs-Stopp-Plan fand kein Eingang ins Abschlussdokument. Der Beschluss, die Finanzmittel zur Anpassung an die Klimakrise bis 2035 zu verdreifachen, erfolgte, ohne Festlegen, was überhaupt der Basiswert für 2025 sei, mit dem dann multipliziert werden soll.
+
+### Aktivismus
+Die Baubranche ist für 40% der Treibhausgase verantwortlich und trägt außerdem zur Versiegelung von Landflächen bei. Die europäische Bürgerinitiative [HouseEurope!](https://www.houseeurope.eu) setzt sich deshalb dafür ein, den Erhalt bestehender Gebäude durch Sanierung / Umbau klar gegenüber dem Abriss / Neubau  zu bevorzugen. Man kann sich noch an der Unterschriftensammlung [beteiligen](https://www.architects4future.de/portfolio/projekte/houseeurope). Die Psychologists for Future [ergänzen noch](https://climatejustice.social/@psy4f/115552897762502633), dass man Bestehendes mehr wertschätzen solle und auch den Traum vom Eigenheim hinterfragen und kreativ nach neuen Wegen suchen solle.
+
+Die Bürgerinitiative [BaumEntscheid](https://www.baumentscheid.de) hatte einen nach monatelang ehrenamtlicher Arbeit entstandenen Gesetzesentwurf an den Berliner Senat abgegeben, nach dem der Baumbestand in Berlin bis 2040 mehr als verdoppelt werden soll, so dass dann über eine Million Bäume stehen sollen. Das Gesetz wurde nun tatsächlich [beschlossen](https://www.zeit.de/politik/deutschland/2025-11/berlin-klimawandel-baeume-gesetz-gruen-milliarden). Allerdings sind nach Straßenbaumzustandsbericht die Hälfte der Berliner Bäume geschädigt (auch weil zu wenig Geld für Pflege und Unterhalt investiert wird und diese jüngst sogar auf Null gekürzt worden sind), es wurden zuletzt mehr Bäume gefällt, als welche neugepflanzt wurden. [Fraglich](https://www.rbb24.de/politik/beitrag/2025/11/berlin-abgeordnetenhaus-baumentscheid-sondersitzung-stadtbaeume.html) ist auch, ob man bei den bestehenden Nutzungsansprüchen überhaupt genügend Standorte für die zusätzlichen Pflanzungen finden wird. Die Ansprüche wird man also zwingend zunehmend in Frage stellen müssen. In Hans Hacks [Parking-2-Tree-Spiel](https://hanshack.com/p2t) kann man jetzt schon virtuell Parkplätze zu Baumscheiben [umwandeln](https://troet.cafe/@hanshack/115508785678459978).
 
 ### Anwendungen
-* ReKIS KOMMUNAL
-  https://rekis.hydro.tu-dresden.de/kommunal/
-  https://social.sachsen.de/@lfulg/115485334363664084
-* Starkregen in Hamburg: Neues Tool zeigt mögliche Wasserstände an
-  https://www.ndr.de/nachrichten/hamburg/starkregen-in-hamburg-neues-tool-zeigt-moegliche-wasserstaende-an,starkregen-126.html
-  https://geoportal-hamburg.de/wasseratlas/
-  https://geoportal-hamburg.de/ueberflutungsvorsorge/
-### Aktivismus
-* Berlin pflanzt Hunderttausende Bäume – für mehrere Milliarden Euro - Basis für Gesetz stammt aus Bürgerinitiative BaumEntscheid
-  https://www.zeit.de/politik/deutschland/2025-11/berlin-klimawandel-baeume-gesetz-gruen-milliarden
-  * Berlin soll bis 2040 mehr als doppelt so viele Bäume bekommen
-    https://www.rbb24.de/politik/beitrag/2025/11/berlin-abgeordnetenhaus-baumentscheid-sondersitzung-stadtbaeume.html
-  * Play the tiny game turning asphalt into green friends
-    https://hanshack.com/p2t
-    https://troet.cafe/@hanshack/115508785678459978
-
-### Bauwende
-* Initiative HouseEurope! - statt Abriss und Neubau bestehende Gebäude erhalten, sanieren und umbauen
-  https://citizens-initiative.europa.eu/initiatives/details/2025/000001_en
-  https://climatejustice.social/@psy4f/115552897762502633
-
+Das Tool [Überflutungsvorsorge](https://geoportal-hamburg.de/ueberflutungsvorsorge/) zeigt für Hamburg [mögliche Wasserstände](https://www.ndr.de/nachrichten/hamburg/starkregen-in-hamburg-neues-tool-zeigt-moegliche-wasserstaende-an,starkregen-126.html) nach Starkregenereignissen an und ergänzt damit das Angebot der schon bestehenden [Starkregengefahrenkarte](https://geoportal-hamburg.de/wasseratlas/?Map/layerIds=1043,28988,28989&visibility=true,true,true&transparency=0,0,0&Map/center=[564404.4102227523,5923931.753197047]&Map/zoomLevel=8). Für Mitteldeutschland sind solche Informationen in der Anwendung [ReKIS KOMMUNAL](https://rekis.hydro.tu-dresden.de/kommunal/), aus ihr kann man aber weitere Informationen entnehmen, wie sich das Klima in der Region verändern wird und wie die Anpassung [daran gelingen kann](https://social.sachsen.de/@lfulg/115485334363664084).
 
 ## Umwelt
 ### Verschmutzung
