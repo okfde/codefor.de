@@ -269,53 +269,24 @@ In Deutschland [hat ein Gericht geurteilt](https://www.heise.de/news/OLG-Urteil-
 
 Laut [einer Studie des Massachusetts Institute of Technology (MIT)](https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf) erzielen 95 Prozent der Unternehmen trotz ihre Investitionen in Höhe von 30 bis 40 Milliarden Dollar in generative KI [keine Rendite](https://www.telepolis.de/article/GenAI-verschlingt-40-Milliarden-Dollar-ohne-messbaren-Nutzen-11071758.html).
 
-### Rechenzentren
-* Umfrage zu Rechenzentren: Die Mehrheit folgt dem Hype nicht
-  https://netzpolitik.org/2025/umfrage-zu-rechenzentren-die-mehrheit-folgt-dem-hype-nicht/
-* Lidl-Mutter Schwarz-Gruppe baut KI-Rechenzentrum für 11 Milliarden Euro
-  https://www.heise.de/news/Lidl-Mutter-Schwarz-Gruppe-baut-KI-Rechenzentrum-fuer-11-Milliarden-Euro-11081570.html
-* Wie man sich gegen Rechenzentren wehrt: ein Leitfaden für lokale Initiativen in Europa
-  https://algorithmwatch.org/de/rechenzentren-ein-leitfaden/
-  https://chaos.social/@algorithmwatch/115609061494499840   
-* Germany’s Data Center Boom is Pushing the Power Grid to its Limits
-  https://algorithmwatch.org/en/germany-data-center-boom/
+Statt den Herstellern von (Spezial-)Hardware auf den Leim zu gehen, deren Absätze davon profitieren, wenn alle nach mehr, größer, schneller, neuartiger streben, [zeigen alternative Ansätze](https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/kompakt-hybrid-und-autonom), die auch die Methoden statistischer (also generativer) und logischer (also Wissensgraphen-basierter) KI geschickt kombinieren, dass man auch mit kleinen Sprachmodellen (SLMs) oder gar Tiny Recursive Models (TRM) vergleichbar gute Ergebnisse wie die großen Sprachmodelle (LLMs) erzielen kann. Voraussetzung sind kompakte, hochwertig annotierte Daten und Beschränkungen auf gut abgestecktes Anwendungsgebiet, was für den industriellen Gebrauch aber meist auch völlig ausreicht. Durch die Spezialisierung kommt es dann auch zu weniger Halluzinationen. Und das Ganze läuft auf normaler Hardware mit moderaten Energieverbrauch.
 
-### Vertrauen
-* Im neuen Devlog zeigt Data Scientist Malte Barth, wie wir unserem KI-Assistenten BärGPT beibringen, bei jeder Antwort auf die verwendeten Dokumente zu verweisen und warum Transparenz ein Schlüssel zum Vertrauensaufbau in KI-Systeme ist
-  https://citylab-berlin.org/de/blog/baergpt-devlog-2-quellenangaben/
-  https://mastodontech.de/@citylabberlin/115503635580960203
+### Rechenzentren
+Eine repräsentative Umfrage in mehreren europäischen Ländern zeigt, dass die Mehrheit der Befragten den zusätzlichen Strom- und Wasserverbrauch neu zu bauender Rechenzentren [sehr kritisch sieht](https://netzpolitik.org/2025/umfrage-zu-rechenzentren-die-mehrheit-folgt-dem-hype-nicht/#netzpolitik-pw) und sich mehr Regulierung wünscht, da sie Sorge um Energiepreise und Wasserverfügbarkeit haben. Es formieren sich immer mehr Initiativen aus der lokalen Bevölkerung, um die gigantischen Ressourcenverbräuche und weitere negativen Auswirkungen zu dokumentieren. AlgorithmWatch hat [einen Leitfaden zusammengestellt](https://algorithmwatch.org/de/rechenzentren-ein-leitfaden/), mit welchen Schritten man sich gegen solche Rechenzentren wehren kann oder zu mindestens ihre Ausgestaltung soweit reglementiert, dass die Folgen für die jeweilige Region abgemildert werden. [In Frankfurt am Main](https://algorithmwatch.org/de/rechenzentren-strompreise/) bringen die Rechenzentren schon jetzt das örtliche Stromnetz an sein Limit, der Verbrauch fossiler Energien wie Gas steigt, Bauland wird knapp. Auch in Lübbenau im eh schon trockenen Brandenburg, wird der von der Schwarz-Gruppe für 11 Milliarden Euro geplante [KI-Rechenzentrumsneubau](https://www.heise.de/news/Lidl-Mutter-Schwarz-Gruppe-baut-KI-Rechenzentrum-fuer-11-Milliarden-Euro-11081570.html) mit seinen Bedarf nach Wasser für die Kühlung die Lage noch verschärfen.
+
 ### Anwendungen
-* Wie CAIMed Diagnosen verbessern will
-  https://www.heise.de/news/KI-Update-Deep-Dive-Wie-CAIMed-Diagnosen-verbessern-will-11067457.html
-* NotebookLM adds Deep Research and support for more source types
-  https://blog.google/technology/google-labs/notebooklm-deep-research-file-types/
-* KI-Bildgenerator: Google stellt Nano Banana Pro vor
-  https://www.heise.de/news/KI-Bildgenerator-Google-stellt-Nano-Banana-Pro-vor-11086102.html
-* "Alles-App" Qwen: Alibabas Griff nach der KI-Vorherrschaft
-  https://www.telepolis.de/article/Alles-App-Qwen-Alibabas-Griff-nach-der-KI-Vorherrschaft-11089961.html
-* KI-gestützte Handschriftenerkennung macht Akten deutscher Kolonialgeschichte durchsuchbar
-  https://makura.de/diskurse-analysen/text-entziffert
+Beim diesjähigen Bundeswettbewerbs Künstliche Intelligenz (BWKI) [wurden Projekte ausgezeichnet](https://www.heise.de/news/Siegerin-des-Bundeswettbewerbs-KI-Perspektivwechsel-fuer-Sprachmodelle-11082237.html), die sich beispielweise mit der Auswertung von CT-Perfusionsdaten von Schlaganfallpatienten, der nicht-invasive Blutzuckerspiegelbestimmung oder auch dem Generieren neuer gregorianische Choralmelodien beschäftigt haben. Aber auch Grundlagenforschung, bei der ein Sprachmodell darauf trainiert wurde, Texten rückwärts zu erzeugen, wurden ausgezeichnet.
+
+[Beim niedersächsische KI-Forschungszentrum CAIMed](https://www.heise.de/news/KI-Update-Deep-Dive-Wie-CAIMed-Diagnosen-verbessern-will-11067457.html) beschäftigt man sich mit personalisierten Diagnosen von Krankheiten aber auch Unterstützung beim Finden geeigneter Therapieansätzen mit Hilfe der Mustererkennung von KI und konzentriert sich dabei schwerpunktmäßig auf Onkologie, Herz-Kreislauf- und Lungenmedizin sowie Infektionsmedizin.
+
+Mit der Anwendung "R 1001 Reichskolonialamt" gibt es für in deutscher Kurrentschrift verfasste Akten aus der Kolonialzeit Volltext durchsuchen. Als Ergebnis bekommt man sowohl die Transkription als auch die Originalakte, so dass man auch auf etwaige Fehler prüfen kann.  
+
+[BärGPT](https://citylab-berlin.org/de/projects/baergpt/) soll Verwaltungsmitarbeitende in Berlin bei ihrer täglichen Routinearbeit entlasten. Neben Textarbeit (Korrektur, Schnellzusammenfassung, Verfassen / Beantworten von E-Mails) werden ebenso Recherche in hochgeladenen Dokumenten als auch Ideengenerierung unterstützt. Der Chatbot selbst basiert rein auf Open Source-Komponenten, es kann im eigenen Rechenzentrum betrieben werden, das zu verwendende LLM lässt sich konfiguieren. Im Citylab-Blog [wird beschrieben](https://citylab-berlin.org/de/blog/baergpt-devlog-2-quellenangaben/), wie man es geschafft hat, bei den generierten Antworten auch die jeweiligen Quellenangaben zu integrieren. Diese sollen das Vertrauen in die Anwendung erhöhen.
+
 ### Missbrauch
-* Philosoph: KI ist kein Werkzeug, sondern ein Machtinstrument
-  https://www.heise.de/news/Philosoph-KI-ist-kein-Werkzeug-sondern-ein-Machtinstrument-11071893.html
-* Die israelische Armee soll ein KI-gestütztes System eingesetzt haben, um Ziele in Gaza zu markieren. Die Fehlerraten solcher Technologien seien groß, warnt der Verein „Forum InformatikerInnen für Frieden“ und fordert deren Ächtung
-  https://netzpolitik.org/2024/interview-mit-rainer-rehak-die-nutzung-solcher-ki-systeme-muss-als-kriegsverbrechen-eingestuft-werden/
-* Google Antigravity Exfiltrates Data
-  https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data
-  https://toot.cafe/@codepo8/115621419775749596
-### Recht
-* GEMA vs. OpenAI: Niederlage für ChatGPT vor Münchner Gericht
-  https://www.heise.de/news/GEMA-vs-OpenAI-Niederlage-fuer-ChatGPT-vor-Muenchner-Gericht-11073532.html
-  * GEMA klagt erfolgreich gegen OpenAI
-    https://netzpolitik.org/2025/grundsatzentscheidung-gema-klagt-erfolgreich-gegen-openai/
-* KI und Datenschutz: Aktuelle Urteile und Handlungsempfehlungen
-  https://stiftungdatenschutz.org/veranstaltungen/unsere-veranstaltungen-detailansicht/ki-und-datenschutz-aktuelle-urteile-und-handlungsempfehlungen-629
-### Wissen
-* Siegerin des Bundeswettbewerbs KI: Perspektivwechsel für Sprachmodelle
-  https://www.heise.de/news/Siegerin-des-Bundeswettbewerbs-KI-Perspektivwechsel-fuer-Sprachmodelle-11082237.html
-### Alternative Ansätze
-* Die nächste KI-Generation: Kompakt, hybrid und autonom
-  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/kompakt-hybrid-und-autonom
+Rainer Mühlhoff, Professor für "Ethik und kritische Theorien der Künstlichen Intelligenz" [schlägt gemeinsam](https://www.heise.de/news/Philosoph-KI-ist-kein-Werkzeug-sondern-ein-Machtinstrument-11071893.html) mit Juristin Hanna Ruschemeier vor, in Forschungsprojekten das Zweckbindungsprinzip des Datenschutzes auch auf trainierte Modelle auszuweiten, so dass diese dann nicht mehr andere Kontexte wandern können (z.B. Modelle aus Medizinforschung oder Marketingskamapgnen die dann aber auf einmal für die Bewertung von Bewerbern genutzt werden). 
+
+Der Einsatz KI-gestützter Systeme zur Auswahl militärischer Ziele [sollte nach Meinung von Rainer Rehak](https://netzpolitik.org/2024/interview-mit-rainer-rehak-die-nutzung-solcher-ki-systeme-muss-als-kriegsverbrechen-eingestuft-werden/) vom  Verein "Forum InformatikerInnen für Frieden" als Kriegsverbrechen geächtet werden. Neben Fehlklassifikationen, tragen solche autonomen Waffensysteme bei, Gewalt nicht nur weiter zu enthemmen sondern auch zu skalieren. Die Verantwortung dafür wird zersteut. Und die Grundfrage, ob man die Milliarden, die man in solche Systeme steckt, nicht besser Friedensbemühungen, in soziale Infrastrukturen und andere kriegsverhindernde Maßnahmen stecken sollte, muss man auch stellen.  
 
 ## Recap
 * [Digital Democracy Day 2025](https://zukunftd.org/digital-democracy-day-2025-stream-2)
