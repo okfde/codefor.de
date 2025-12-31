@@ -32,6 +32,16 @@ type: blog
   https://www.linkedin.com/posts/ertan-%C3%B6zcan-73bb3399_kaemln-ratsinformation-civictech-activity-7401001300420620288-zyEh
 * Auszeichnung für herausragenden Onlinekurs
   https://www.rwth-aachen.de/go/id/brhhrd
+* Große Supermarktketten: Grüne fordern Pflicht-App für Preisvergleich
+  https://www.tagesschau.de/wirtschaft/gruene-lebensmittel-preise-app-100.html
+  https://chaos.social/@uli/115791432888124282
+* From Linked Open Data to Collections as Data: A Reproducible Framework Using Federated Queries
+  https://ital.corejournals.org/index.php/ital/article/view/17432
+* Endlich maschinenlesbare Urteile!: Open Access für Juristen
+  https://media.ccc.de/v/39c3-endlich-maschinenlesbare-urteile-open-access-fur-juristen
+* Powering Transparency: Open Data across Parliaments
+  https://pretalx.wikimedia.de/39c3-2025/talk/N98UMH/
+  https://pad.okfn.de/p/OpenParlData39C3
 
 ## Statistik
 * Der am Mittwoch von der Regierung beschlossene Armuts- und Reichtumsbericht verschleiert die wahren Probleme, kritisiert Armutsforscher Christoph Butterwegge.
@@ -44,6 +54,10 @@ type: blog
   https://www.destatis.de/DE/Presse/Pressekonferenzen/2025/bevvorausberechnung/bevvorausberechnung-einladung.html
 * Neuer World Inequality Report
   https://bsky.app/profile/treibhauspost.bsky.social/post/3m7ncxkoco22v
+* List of lists of the best data visualizations of 2025
+  https://www.datawrapper.de/blog/data-vis-dispatch-december-30-2025
+* In 2024, 8.2% of people in the EU lived in households spending 40% or more of their disposable income on housing. 
+  https://www.instagram.com/p/DSmhG6dDg_h/
 
 ## Digitale Souveränität
 * Offene Plattform, geschlossene Zukunft: Wie Microsoft in Schulen einzieht
@@ -54,6 +68,13 @@ type: blog
   https://en.reset.org/a-future-vision-of-data-centres-from-big-tech-builds-to-community-owned-cooperatives/
 * Digitales Vergesellschaften
   https://ruhr.social/@sonjalemke/115719051561648496
+* Dänisches Digitalministerium kehrt Microsoft den Rücken
+  https://www.heise.de/news/Von-Word-und-Excel-zu-LibreOffice-Daenisches-Ministerium-verabschiedet-Microsoft-10438683.html
+* Komoot: Wie Kapital die Community in die Irre führt
+  https://netzpolitik.org/2025/komoot-wie-kapital-die-community-in-die-irre-fuehrt/
+* Digital Independence Day
+  https://di.day
+  https://norden.social/@OTTENSERGESTALTEN/115796240211697742
 
 ### Schandfleck Schlandstack
 * Der Deutschland-Stack: Ein guter Ansatz mit vielen offenen Fragen
@@ -77,6 +98,10 @@ type: blog
 * Ich hätte nicht gedacht, dass Handelsabkommen unser Recht auf Reparatur untergraben
   https://tacd.org/wp-content/uploads/TACD-Source-Code-Report-DIGITAL_edited.pdf
   https://bsky.app/profile/annacavazzini.bsky.social/post/3m6yw2z5jos2z
+* DOGE's Cuts Increased Federal Spending By 6%
+  https://prolib.substack.com/p/doges-cuts-increased-federal-spending
+* A post-American, enshittification-resistant internet
+  https://media.ccc.de/v/39c3-a-post-american-enshittification-resistant-internet
 
 ## Verwaltungsdigitalisierung
 * Datenatlas der Bundesdruckerei: Verwaltungsmodernisierung von vorvorgestern
@@ -92,6 +117,13 @@ type: blog
 * Deutschlands digitaler Rückstand: Wenn Briefe und Faxe noch Staatsdoktrinen sind
   https://www.telepolis.de/article/Deutschlands-digitaler-Rueckstand-Wenn-Briefe-und-Faxe-noch-Staatsdoktrinen-sind-11116640.html
 
+
+## Nutze deinen Einfluss
+* Power Cycles statt Burnout – Wie Einflussnahme nicht verpufft
+  https://media.ccc.de/v/39c3-power-cycles-statt-burnout-wie-einflussnahme-nicht-verpufft
+* Hacking Karlsruhe - 10 years later
+  https://media.ccc.de/v/39c3-hacking-karlsruhe-10-years-later
+
 ## Digitaler Omnibus
 * Datenschutzkonferenz kritisiert Pläne der EU-Kommission
   https://netzpolitik.org/2025/reform-der-dsgvo-datenschutzkonferenz-kritisiert-plaene-der-eu-kommission/
@@ -104,6 +136,8 @@ type: blog
   https://unfug.social/@nightdice/115730457939912782
 * Ö1-Interview mit Max Schrems über den Digitalen Omnibus
   https://bsky.app/profile/noyb.eu/post/3m73mkrvgnh2f
+* Throwing your rights under the Omnibus: How the EU's reform agenda threatens to erase a decade of digital rights
+  https://media.ccc.de/v/39c3-throwing-your-rights-under-the-omnibus-how-the-eu-s-reform-agenda-threatens-to-erase-a-decade-of-digital-rights
 
 ## OpenSource
 * Valve: HDMI-Forum blockiert weiter HDMI 2.1 für Linux
@@ -134,6 +168,18 @@ type: blog
   https://correctiv.org/aktuelles/sicherheit-und-verteidigung/2025/12/17/neue-deutsche-kriegsmaschine-miliaer-aufruestung-bundeswehr-verteidigung/
 * Großer Datensatz zu Steueroasen – Sachsen-Anhalt betroffen?
   https://www.zeit.de/news/2025-12/26/grosser-datensatz-zu-steueroasen-sachsen-anhalt-betroffen
+* Amtsgeheimnis raus, Datenhalde rein: was die Informationsfreiheit in Österreich bringt
+  https://media.ccc.de/v/39c3-amtsgeheimnis-raus-datenhalde-rein-was-die-informationsfreiheit-in-osterreich-bringt
+* Ein Dokument wie ein Fiebertraum: Die "Akte AfD" führt uns vor Augen, woran wir uns schon gewöhnt haben.
+  https://steady.page/de/vernunft-und-ekstase/posts/563600fc-9994-4a53-9bad-01a831477507
+  https://climatejustice.global/@parents4future/115804860700017748
+  * Die Geschichte hinter der Geschichte: Wie wir mehr als 1100 AfD-Zitate digitalisierten
+    https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten-a-4d872db2-e64e-4f4a-92fc-8548117654d5
+    https://norden.social/@wahlatlas/115809310767682926
+* Wer hat Angst vor dem Neutralitätsgebot?
+  https://media.ccc.de/v/39c3-wer-hat-angst-vor-dem-neutralitatsgebot
+* Geheimsache Domains: Ohne Transparenz keine Sicherheit
+  https://fragdenstaat.de/artikel/exklusiv/2025/12/geheimsache-domains/
 ### Lobbyismus
 * Die Gentechnik-Reform der EU zwingt Konsumenten Nahrungsmittel auf, die sie nicht wollen. Saatgutkonzerne werden ihre Macht durch Patente erweitern.
   https://taz.de/EU-Einigung-zu-Gentechnik-Lebensmitteln/!6135201/
@@ -152,6 +198,14 @@ type: blog
   https://www.ardmediathek.de/video/falsche-diagnosen-boese-ueberraschung-in-deiner-krankenakte/boese-ueberraschung-in-deiner-krankenakte/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOTI0ZTJiNjItNTY4MS00N2RjLWFkMTctZjM3NTdjNzA5YWI4
 * Krankenkassen wollen einheitliches Portal für Arzttermine
   https://www.heise.de/news/Krankenkassen-wollen-einheitliches-Portal-fuer-Arzttermine-11124309.html
+* 39C3: Wie sich international sicher auf klinischen Daten rechnen lässt
+  https://www.heise.de/hintergrund/39C3-Wie-sich-international-sicher-auf-klinischen-Daten-rechnen-laesst-11125646.html
+* "KI", Digitalisierung und Longevity als Fix für ein kaputtes Gesundheitssystem?
+  https://media.ccc.de/v/39c3-ki-digitalisierung-und-longevity-als-fix-fur-ein-kaputtes-gesundheitssystem
+* Elektronische Patientenakte: Scheitern mit jahrelanger Ansage
+  https://www.golem.de/news/elektronische-patientenakte-scheitern-mit-jahrelanger-ansage-2512-203686.html
+* Schlechte Karten - IT-Sicherheit im Jahr null der ePA für alle
+  https://media.ccc.de/v/39c3-schlechte-karten-it-sicherheit-im-jahr-null-der-epa-fur-alle
 
 ## Kultur
 * Zugang zu kulturellen Gütern im digitalen Wandel
@@ -241,6 +295,10 @@ type: blog
   https://bsky.app/profile/helge.at/post/3madtgnsntk2c
 * CYCLING CITIES - Der Film
   https://www.youtube.com/watch?v=R5jQc1jXLAU
+* What Makes Bike-Sharing Work?: Insights from 43 Million Kilometers of European Cycling Data
+  https://media.ccc.de/v/39c3-what-makes-bike-sharing-work-insights-from-43-million-kilometers-of-european-cycling-data
+  * Bike Sharing Flows
+    https://bikesharingflowmap.de
 
 ## Klima
 * Wie schon im Amazonas: Tropenwälder stoßen inzwischen mehr CO₂ aus, als sie aufnehmen
@@ -265,6 +323,23 @@ type: blog
   https://bsky.app/profile/michaelbonvalot.bsky.social/post/3m7a76na4v22m
 * Manometer! Wie man den Druck aus der klimapolitischen Debatte nehmen kann
   https://www.derstandard.at/story/3000000298717/wie-man-den-druck-aus-der-klimapolitischen-debatte-nehmen-kann
+* Unequal evidence and impacts, limits to adaptation: Extreme Weather in 2025
+  https://www.worldweatherattribution.org/unequal-evidence-and-impacts-limits-to-adaptation-extreme-weather-in-2025/
+  https://bsky.app/profile/frediotto.bsky.social/post/3mb7ux2z5dc2c
+* Wie die Erderwärmung Extremwetterereignisse 2025 beeinflusst hat
+  https://www.deutschlandfunk.de/wie-hat-die-erderwaermung-extremwetterereignisse-2025-beeinflusst-100.html
+* Der Klimawandel ist in den Alpen besonders deutlich spürbar: steigende Temperaturen, weniger Schnee. Eine BR-Datenanalyse zeigt, was das für den Wintersport bedeutet.
+  https://schnee-war-gestern.interaktiv.br.de
+* Wenn der Amoc zusammenbricht: "Es droht ein langer, arktischer Winter"
+  https://www.t-online.de/nachrichten/panorama/wetter/id_101038446/klima-entwicklung-in-deutschland-droht-ein-langer-arktischer-winter-.html?utm_source=app-push
+* Klimaforscherin: "Es werden noch viel mehr Lebensmittel viel teurer werden"
+  https://www.derstandard.de/story/3000000301472/klimaforscherin-es-werden-noch-viel-mehr-lebensmittel-viel-teurer-werden
+* Cosmic ray, the Climate Catastrophe and Trains
+  https://media.ccc.de/v/39c3-ccc-t-cosmic-ray-the-climate-catastrophe-and-trains
+* Klimaupdate mit dem FragDenStaat Climate Helpdesk
+  https://media.ccc.de/v/39c3-brennende-walder-und-kommentarspalten-klimaupdate-mit-bits-baume-und-dem-fragdenstaat-climate-helpdesk
+* Fossile Industrie liebt KI!
+  https://media.ccc.de/v/39c3-fossile-industrie-liebt-ki
 
 ## Überwachung
 * Neues Polizeigesetz: Berlin wirft die Freiheit weg
@@ -280,8 +355,20 @@ type: blog
 * Gutachten bescheinigt Paypal Datenschutzverstöße, Paypal weist Vorwürfe zurück
   https://www.heise.de/news/PayPal-Gutachten-Viele-Maengel-beim-Datenschutz-11111140.html
   https://netzpolitik.org/2025/fintech-und-datenschutz-paypal-sammelt-die-sexuellen-vorlieben-von-kunden/
+* Blackbox Palantir
+  https://media.ccc.de/v/39c3-blackbox-palantir
+  https://norden.social/@SketchnotesAG/115807720415323287
 
 ## AI Bundyt
+* Cartography of generative AI
+  https://cartography-of-generative-ai.net
+* a media-almost-archaeology on data that is too dirty for "AI"
+  https://media.ccc.de/v/39c3-a-media-almost-archaeology-on-data-that-is-too-dirty-for-ai
+  https://too-dirty-to-be-trained.net
+* Energieeffizienzregister für Rechenzentren (RZReg)
+  https://www.bundeswirtschaftsministerium.de/RZReg/rechenzentrums-register.html
+  https://23.social/@thomasfricke/115810045804082547
+
 ### Neue Modelle
 * Neue, offene Modellfamilie aus Frankreich: Mistral 3 ist da
   https://www.heise.de/news/Mistral-3-Vier-neue-KI-Modelle-aus-Frankreich-11100853.html
@@ -315,6 +402,10 @@ type: blog
   https://bsky.app/profile/beyond-ideology.bsky.social/post/3m6trkxieks2v
 * Nimmersatter Stromfresser: Die Chancen und Risiken von KI für die Umwelt
   https://www.basicthinking.de/blog/2025/12/05/stromfresser-chancen-risiken-ki-fuer-umwelt/
+* AI-generated content in Wikipedia - a tale of caution
+  https://media.ccc.de/v/39c3-ai-generated-content-in-wikipedia-a-tale-of-caution
+* Programmierte Kriegsverbrechen?: Über KI-Systeme im Kriegseinsatz in Gaza und warum IT-Fachleute sich dazu äußern müssen
+  https://media.ccc.de/v/39c3-programmierte-kriegsverbrechen-uber-ki-systeme-im-kriegseinsatz-in-gaza-und-warum-it-fachleute-sich-dazu-auern-mussen
 ### Finanzen
 * KI-Steuer: Die größte Umverteilung des 21. Jahrhunderts?
   https://www.basicthinking.de/blog/2025/12/17/ki-steuer-die-groesste-umverteilung-des-21-jahrhunderts/
@@ -329,6 +420,8 @@ type: blog
   https://www.blaetter.de/ausgabe/2026/januar/fortschrittsfalle-ki
 * Das Ende des Denkens – Über das Lesen und KI
   https://54books.de/das-ende-des-denkens-ueber-das-lesen-und-ki/
+* KI und menschliches Denken: Illusion der Lösungsfreude
+  https://taz.de/KI-und-menschliches-Denken/!6140445/
 
 ## Recap
 * [Netzpolitischer Abend](https://fair.tube/w/p/gUyTnD4bDXczGEmxzyyHVP?playlistPosition=1)
@@ -338,6 +431,8 @@ type: blog
   * API
     https://api.events.ccc.de/congress/2025/v2/docs#tag/Conference/operation/apiv2_routers_conference_get_conference
     via https://chaos.social/@keywan/115694912615855576
+  * https://commons.wikimedia.org/wiki/Category:39C3
+  * https://media.ccc.de/c/39c3
 
 ## Und sonst?
 * The next total solar eclipses. Time to book your tickets!
