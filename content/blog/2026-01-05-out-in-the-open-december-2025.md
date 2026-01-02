@@ -12,61 +12,60 @@ type: blog
 ---
 
 ## Open Data
+### Tag der Gemeinfreiheit 2026
+Jeder Neujahrstag ist gleichzeitig auch der ([Public Domain Day](https://de.wikipedia.org/wiki/Public_Domain_Day)). An diesem werden die in der EU bisher durch Urheberrechte geschützten Werke von Personen, deren Todesjahr 70 Jahre vor dem vergangenen Jahr liegt, [in die Gemeinfreiheit entlassen](https://netzpolitik.org/2026/public-domain-day-diese-werke-sind-ab-heute-gemeinfrei/), also im aktuellen Fall z.B. von Schriftsteller Thomas Mann, Wissenschaftler Albert Einstein, Maler Max Pechstein und Komponist Arthur Honegger, die alle 1955 gestorben waren. Eine [vollständigere internationale Liste](https://en.wikipedia.org/wiki/2025_in_public_domain) findet sich auf der Wikipedia sowie im [Blog vom Internet Archive](https://blog.archive.org/public-domain-day-2026/). Aus ihr kann man entnehmen, dass es in anderen Ländern auch andere Jahres-Regelungen gibt sowie in den USA Werke 95 Jahre nach Erscheinungsjahr gemeinfrei werden, wie z.B. nun der Film "Der blaue Engel" und Agatha Christies Roman "Mord im Pfarrhaus", die beide 1930 erschienen sind. [Wie hier betont wird](https://jun.legal/2025/10/09/public-domain-day-2026-gemeinfrei-aber-nicht-rechtefrei/), muss man dennoch beachten, dass nur das Original nicht mehr geschützt ist, (spätere) Reproduktionen (z.B. Fotografien oder hochauflösenden Digitalisate des Werkes, kommentierte Fassungen sowie Übersetzungen in andere Sprachen) unterliegen weiterhin dem Urheberrecht. Auch Marken- und Namesrecht sowie das postmortale Persönlichkeitsrecht können bedingen, dass man sich die Zustimmung der Rechtenachfolger vor Verwendung erst einholen muss. Konnten alle Bedenken geklärt werden, können die Originalinhalte im Fall von Texten beispielweise auf Projekten wie [Wikisource](https://de.wikisource.org/wiki/Hauptseite) und [Projekt Gutenberg](https://www.projekt-gutenberg.org/info/texte/index.html) für die Nachnutzung veröffentlicht werden, wie Lukas Metzger [im Wikimedia-Blog ausführt](https://blog.wikimedia.de/2026/01/01/public-domain-day-2026/).
+
+### Linked Open Data
+Wie man quellenübergreifende Linked-Open-Data-Abfragen reproduzierbar speichern und darstellen kann, [zeigt dieser Artikel](https://ital.corejournals.org/index.php/ital/article/view/17432/11955). Grundidee ist, SPARQL-Abfragen als [Jupyter-Notebooks](https://github.com/semanticnoodles/federated-cad/tree/main/notebooks) zu speichern und diese mit Tools wie [Binder](https://mybinder.org) und [CollectionBuilder](https://collectionbuilder.github.io) verlinkbar und auf verschiedene Weise navigierbar (z.B. als Wortwolke, Zeitstrahl oder Karte) zu machen.
+
+Beispiele werden gerne zur Veranschaulichung von grundlegenden Konzepten genutzt, in der Hoffnung, dass Betrachtende / Lernende davon [abstrahieren können](https://de.wikipedia.org/wiki/Abstraktion#Merkmale_der_Abstraktionsf%C3%A4higkeit). So sollte das [Organigramm-Tool](https://www.technologiestiftung-berlin.de/projekte/organigramm-tool) einfach nur beispielhaft zeigen, wie man Eigenschaften und Beziehungen zwischen Entitäten modellieren und maschinell auswerten kann. Also z.B. dann abfragen kann, welche Rollen welche Personen abdecken, wie viele Referate sich unter einer Abteilung befinden, wo altersmäßig vielleicht bald ein Braindrain droht usw. [Nur leider verstellt](https://chaos.social/@stk/115758054108858373) das konkrete Beispiel und die grafische Darstellung den Blick auf das eigentliche Kernanliegen, die Daten als solche. Es geht eben nicht darum, dass sich jemand einmal im Jahr hinsetzt und die aktuelle Organisationsstruktur im Diagramm-Editor jedesmal neu erfasst und aufmalt. Denn die dafür notwendigen Daten liegen (hoffentlich) in Form eines Verzeichnisdienst eh schon vor und lassen sich über das [LDAP](https://de.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol)-Protokoll auslesen und die schöne grafische Darstellung als Organigramm ist Dank verfügbarer Graphen-Layout-Algorithmen auch automatisierbar. Der Graph ließe sich wiederum beispielweise textuell in [Graphviz DOT](https://graphviz.gitlab.io/doc/info/lang.html) speichern, Open Source Tools wie [Gephi](https://gephi.org) können solche Formate [wiederum importieren](https://docs.gephi.org/desktop/User_Manual/Import/GraphViz_DOT_Format) und anschließend visualisieren und analysieren, wie [hier](https://orgmapper.com/gephi-tutorial/) oder [hier](https://gephi.org/quickstart/) in Tutorials beschrieben. Aber nochmal daran erinnert, es geht um generell darum, jede Form von Daten in der Verwaltung unter der Anwendung von Linked-Open-Data-Konzepten so maschinell zu speichern und bereitzustellen, dass man sie (durch Verwendung standardisierten Vokabulars / Ontologien (z.B. Rollenbezeichnungen)) mit anderen Daten verknüpfen und auswerten sowie sie in verschiedene Formate und über diese in geeignete Darstellungen (z.B. Organigramm) überführen kann.
+
+### Wissen
 * Der neue "Kompass" der Citizen Science D-A-CH-AG bietet Orientierung, wie man Open-Data-Prinzipien von Anfang an umsetzt
   https://zenodo.org/records/17802533
   https://wisskomm.social/@wissenschaftimdialog/115684680733274465
+* Auszeichnung für herausragenden Onlinekurs
+  https://www.rwth-aachen.de/go/id/brhhrd
+
+### Parlamentsdaten
 * Open-Data-Fortschritte in Rheinland-Pfalz
   https://parlamentsrevue.de/2025/12/14/ltr007/
   * Der Landtag hat das Offene-Daten-Gesetz Rheinland-Pfalz beschlossen
     https://www.linkedin.com/posts/mastdrlp_offenedaten-opendata-digitalisierung-activity-7404813746713546752-Z5P0/
 * Sachsen-Anhalts Gesetzblätter gibt's nur gedruckt oder als PDF hinter einer saftigen Paywall bei einem privaten Verlag
   https://mastodon.online/@denes/115735163917621062
-* OKFN Newsletter End-of-Year 2025
-  https://blog.okfn.org/2025/12/18/okfn-newsletter-end-of-year-2025/
-* OKF Jahresrückblick: Das war unser Jahr 2025!
-  https://okfn.de/blog/2025/12/okf-jahresr%C3%BCckblick-das-war-unser-jahr-2025/
-* LOD-Organigramm-Editor - nicht verstanden?
-  https://chaos.social/@stk/115758054108858373
 * RATISA - Kölner Ratsinformationssystem
   https://github.com/ErtanOz/RATISA_Koeln-Ratinformation-System-Assistent
   https://www.linkedin.com/posts/ertan-%C3%B6zcan-73bb3399_kaemln-ratsinformation-civictech-activity-7401001300420620288-zyEh
-* Auszeichnung für herausragenden Onlinekurs
-  https://www.rwth-aachen.de/go/id/brhhrd
-* Große Supermarktketten: Grüne fordern Pflicht-App für Preisvergleich
-  https://www.tagesschau.de/wirtschaft/gruene-lebensmittel-preise-app-100.html
-  https://chaos.social/@uli/115791432888124282
-* From Linked Open Data to Collections as Data: A Reproducible Framework Using Federated Queries
-  https://ital.corejournals.org/index.php/ital/article/view/17432
-* Endlich maschinenlesbare Urteile!: Open Access für Juristen
-  https://media.ccc.de/v/39c3-endlich-maschinenlesbare-urteile-open-access-fur-juristen
 * Powering Transparency: Open Data across Parliaments
   https://pretalx.wikimedia.de/39c3-2025/talk/N98UMH/
   https://pad.okfn.de/p/OpenParlData39C3
-* Celebrate the Public Domain with the Internet Archive: 2026
-  https://blog.archive.org/public-domain-day-2026/
-* Tag der Gemeinfreiheit 2026: Das Wissen ist frei!
-  https://blog.wikimedia.de/2026/01/01/public-domain-day-2026/
-  * Der nächste Public Domain Day am 1. Januar 2026 bringt eine neue Welle an Herausforderungen und Chancen mit sich. In der EU treten die Werke all jener in die Gemeinfreiheit ein, die 1955 verstorben sind, was den Fokus über die Bildende Kunst hinaus erweitert:
-    https://jun.legal/2025/10/09/public-domain-day-2026-gemeinfrei-aber-nicht-rechtefrei/
-  * Public Domain Day: Diese Werke sind ab heute gemeinfrei
-    https://netzpolitik.org/2026/public-domain-day-diese-werke-sind-ab-heute-gemeinfrei/
+
 ## Statistik
-* Der am Mittwoch von der Regierung beschlossene Armuts- und Reichtumsbericht verschleiert die wahren Probleme, kritisiert Armutsforscher Christoph Butterwegge.
-  https://taz.de/Armutsforscher-zum-Reichtumsbericht/!6133814/
-* Paritätische Studie zur Wohnarmut in Deutschland zeigt: Wohnkosten treiben Armutszahlen von 13 auf 18,4 Millionen
-  https://www.der-paritaetische.de/alle-meldungen/paritaetische-studie-zur-wohnarmut-in-deutschland-zeigt-wohnkosten-treiben-armutszahlen-von-13-auf-184-millionen/
-* Deutschland hat eine Wohnungslosenkrise. Seit 2021 hat sich die Zahl der Wohnungslosen fast verdreifacht. 
-  https://web.de/magazine/politik/inland/wohnungslosigkeit-krise-unsichtbar-bleibt-41666216  
-* Pressekonferenz "Bevölkerung im Wandel: Ergebnisse der 16. koordinierten Bevölkerungsvorausberechnung"
-  https://www.destatis.de/DE/Presse/Pressekonferenzen/2025/bevvorausberechnung/bevvorausberechnung-einladung.html
-* Neuer World Inequality Report
-  https://bsky.app/profile/treibhauspost.bsky.social/post/3m7ncxkoco22v
 * List of lists of the best data visualizations of 2025
   https://www.datawrapper.de/blog/data-vis-dispatch-december-30-2025
+* Bevölkerung im Wandel: Ergebnisse der 16. koordinierten Bevölkerungsvorausberechnung
+  https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsvorausberechnung/annahmen_ergebnisse_16te_kBv.html
+
+### Armut
+* Der am Mittwoch von der Regierung beschlossene Armuts- und Reichtumsbericht verschleiert die wahren Probleme, kritisiert Armutsforscher Christoph Butterwegge.
+  https://taz.de/Armutsforscher-zum-Reichtumsbericht/!6133814/
+* Neuer World Inequality Report
+  https://bsky.app/profile/treibhauspost.bsky.social/post/3m7ncxkoco22v
+
+### Wohnkosten
+* Paritätische Studie zur Wohnarmut in Deutschland zeigt: Wohnkosten treiben Armutszahlen von 13 auf 18,4 Millionen
+  https://www.der-paritaetische.de/alle-meldungen/paritaetische-studie-zur-wohnarmut-in-deutschland-zeigt-wohnkosten-treiben-armutszahlen-von-13-auf-184-millionen/
 * In 2024, 8.2% of people in the EU lived in households spending 40% or more of their disposable income on housing. 
   https://www.instagram.com/p/DSmhG6dDg_h/
+* Deutschland hat eine Wohnungslosenkrise. Seit 2021 hat sich die Zahl der Wohnungslosen fast verdreifacht. 
+  https://web.de/magazine/politik/inland/wohnungslosigkeit-krise-unsichtbar-bleibt-41666216  
+
+### Politik
 * Aber hier Leben? Nein danke! …oder doch? Wie wir der autoritären Zuspitzung begegnen können.
   https://media.ccc.de/v/39c3-aber-hier-leben-nein-danke-oder-doch-wie-wir-der-autoritaren-zuspitzung-begegnen-konnen
+* Power Cycles statt Burnout – Wie Einflussnahme nicht verpufft
+  https://media.ccc.de/v/39c3-power-cycles-statt-burnout-wie-einflussnahme-nicht-verpufft
 
 ## Digitale Souveränität
 * Offene Plattform, geschlossene Zukunft: Wie Microsoft in Schulen einzieht
@@ -84,6 +83,8 @@ type: blog
 * Digital Independence Day
   https://di.day
   https://norden.social/@OTTENSERGESTALTEN/115796240211697742
+* Auf die Dauer hilft nur Power: Herausforderungen für dezentrale Netzwerke aus Sicht der Soziologie
+  https://media.ccc.de/v/39c3-auf-die-dauer-hilft-nur-power-herausforderungen-fur-dezentrale-netzwerke-aus-sicht-der-soziologie
 
 ### Schandfleck Schlandstack
 * Der Deutschland-Stack: Ein guter Ansatz mit vielen offenen Fragen
@@ -127,11 +128,11 @@ type: blog
   https://www.telepolis.de/article/Deutschlands-digitaler-Rueckstand-Wenn-Briefe-und-Faxe-noch-Staatsdoktrinen-sind-11116640.html
 
 
-## Nutze deinen Einfluss
-* Power Cycles statt Burnout – Wie Einflussnahme nicht verpufft
-  https://media.ccc.de/v/39c3-power-cycles-statt-burnout-wie-einflussnahme-nicht-verpufft
+## Rechtssprechung
 * Hacking Karlsruhe - 10 years later
   https://media.ccc.de/v/39c3-hacking-karlsruhe-10-years-later
+* Endlich maschinenlesbare Urteile!: Open Access für Juristen
+  https://media.ccc.de/v/39c3-endlich-maschinenlesbare-urteile-open-access-fur-juristen
 
 ## Digitaler Omnibus
 * Datenschutzkonferenz kritisiert Pläne der EU-Kommission
@@ -189,6 +190,12 @@ type: blog
   https://media.ccc.de/v/39c3-wer-hat-angst-vor-dem-neutralitatsgebot
 * Geheimsache Domains: Ohne Transparenz keine Sicherheit
   https://fragdenstaat.de/artikel/exklusiv/2025/12/geheimsache-domains/
+  * Verlorene Domains, offene Türen: Was alte Behördendomains verraten
+    https://media.ccc.de/v/39c3-verlorene-domains-offene-turen-was-alte-behordendomains-verraten
+* Große Supermarktketten: Grüne fordern Pflicht-App für Preisvergleich
+  https://www.tagesschau.de/wirtschaft/gruene-lebensmittel-preise-app-100.html
+  https://chaos.social/@uli/115791432888124282
+
 ### Lobbyismus
 * Die Gentechnik-Reform der EU zwingt Konsumenten Nahrungsmittel auf, die sie nicht wollen. Saatgutkonzerne werden ihre Macht durch Patente erweitern.
   https://taz.de/EU-Einigung-zu-Gentechnik-Lebensmitteln/!6135201/
