@@ -48,10 +48,9 @@ Die Faustregel, dass Haushalte höchstens ein Drittel des Einkommens für die Mi
 Der sinkende Bestand an Sozialwohnungen, bedingt durch rückläufige Förderung des Baus solcher Wohnungen seit 2006 und den Umstand, dass sie nur befristete Zeit als Sozialwohnung angeboten werden müssen, tragen auch mit zur [Verschärfung der Wohnungslosenkrise in Deutschland bei](https://web.de/magazine/politik/inland/wohnungslosigkeit-krise-unsichtbar-bleibt-41666216). So hat sich die Zahl der Wohnungslosen seit 2021 fast verdreifacht. Hohe Mieten und Zwangskündigungen wegen Nicht-Zahlung der hohen Energiekosten sind weitere Gründe. Nur ein System aus Notunterkünften verhindert, dass aus Wohnungslosen Obdachlose werden. Doch wegen klammer Kassen haben einige Kommunen schon bei der Wohnungslosenhilfe gekürzt. Der Koalitionsvertrag sieht zwar vor, die Investitionen in den sozialen Wohnungsbau schrittweise wieder zu erhöhen, aber aus Sicht der Sozialverbänden viel zu wenig.
 
 ## Politik
-* Aber hier Leben? Nein danke! …oder doch? Wie wir der autoritären Zuspitzung begegnen können.
-  https://media.ccc.de/v/39c3-aber-hier-leben-nein-danke-oder-doch-wie-wir-der-autoritaren-zuspitzung-begegnen-konnen
-* Power Cycles statt Burnout – Wie Einflussnahme nicht verpufft
-  https://media.ccc.de/v/39c3-power-cycles-statt-burnout-wie-einflussnahme-nicht-verpufft
+Der [Vortrag](https://media.ccc.de/v/39c3-aber-hier-leben-nein-danke-oder-doch-wie-wir-der-autoritaren-zuspitzung-begegnen-konnen) von [Polylux](https://polylux.network/de) auf dem Congress setzt die demografischen Entwicklungen in den neuen Bundesländern mit den aktuellen Prognosen für die in 2026 anstehenden Landtagswahlen in Sachsen-Anhalt und Mecklemburg-Vorpommern in Beziehung: sinkende Bevölkerungszahlen, steigender Altersdurchschnitt, sinkender Frauenanteil, immer weniger Kinder und Fachkräftemangel sind der Nährboden für die autoritären Kräfte. Mit mehr Sichtbarkeit für die Gegenstimmen können die bestehenden Narrativen verändert werden und auch mit moralischer als auch finanzieller Unterstützung kann man die noch existierenden Netzwerke vor Ort stärken.
+
+In einem [weiteren Vortrag](https://media.ccc.de/v/39c3-power-cycles-statt-burnout-wie-einflussnahme-nicht-verpufft) widmeten sich zwei Ex-Insiderinnen aus dem Digitalausschuss und Bundestag der Frage, welche Hebel die (digitale) Zivilgesellschaft sinnvoll und effektiv nutzen können, um sich bei Abgeordneten (und deren Team) trotz unterschiedlichen Themenkompetenz und Sachstandswissen sowie knapper Zeit trotzdem Gehör zu verschaffen, ohne dabei selbst aufgerieben zu werden.
 
 ## Digitale Souveränität
 * Offene Plattform, geschlossene Zukunft: Wie Microsoft in Schulen einzieht
