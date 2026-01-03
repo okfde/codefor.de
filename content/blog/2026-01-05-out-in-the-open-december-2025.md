@@ -104,24 +104,11 @@ Das Faxen noch lange nicht dicke hat die deutsche Verwaltung. Diese hält aus Da
 Als Zivilgesellschaft und Politik selber souverän überprüfen können, ob Richter:innen das Recht auch wirklich im Sinne der Legislative anwenden, geht nur, wenn die zugehörigen Urteile frei zugänglich sind, meinen die Vortragenden [diesen Talks](https://media.ccc.de/v/39c3-endlich-maschinenlesbare-urteile-open-access-fur-juristen). Von den über einer Million Urteilen allein in 2024 sind gerade mal geschätzt 10.000 bei der von einem gemeinnützigen Verein betriebenen Plattform [openjur.de](https://openjur.de) offen verfügbar. Weitere 20.000 gibt es nur hinter Paywall, weitere 10.000 kann man bei einem Verlag erwerben. Ein offizielles Angebot gibt es keines. Auf [offeneurteile.de](https://www.offeneurteile.de) kann man, gestützt durch gemeinnützigen Organisationen und Unternehmen wie openjur.de, Anita Legal GmbH, FragDenStaat und Transparency International Deutschland e. V., ein Anfrage zur Veröffentlichung eines Urteils stellen. Die Plattform kümmert sich dann um die Kommunikation mit der Gerichtsverwaltung und stellt dann das hoffentlich so befreite Urteil auf openjur.de. Alles Krücken, weil es keine verbindliche Pflicht gibt, Urteile Open Access zu stellen und damit im Prinzip auch gegen die Grundsätze der Rechtsstaatlichkeit verstößt.
 
 ## Digitaler Omnibus
-* Datenschutzkonferenz kritisiert Pläne der EU-Kommission
-  https://netzpolitik.org/2025/reform-der-dsgvo-datenschutzkonferenz-kritisiert-plaene-der-eu-kommission/
-* Digitaler Omnibus Eine Praxisperspektive – Elisabeth Niekrenz
-  https://fair.tube/w/s3tqyvUhHTJ9Mc1GD6BUxY
-* Digital Omnibus: First Analysis of Select GDPR and ePrivacy Proposals by the Commission
-  https://noyb.eu/en/digital-omnibus-first-analysis-select-gdpr-and-eprivacy-proposals-commission
-* "In Deutschland ist der Datenschutz der Blitzableiter dafür geworden, dass man das mit der Digitalisierung nicht schafft."
-  https://netzpolitik.org/2025/dsgvo-reform-beim-datenschutz-ist-deutschland-inzwischen-dem-silicon-valley-naeher-als-dem-rest-der-eu/
-  https://unfug.social/@nightdice/115730457939912782
-* Ö1-Interview mit Max Schrems über den Digitalen Omnibus
-  https://bsky.app/profile/noyb.eu/post/3m73mkrvgnh2f
-* Throwing your rights under the Omnibus: How the EU's reform agenda threatens to erase a decade of digital rights
-  https://media.ccc.de/v/39c3-throwing-your-rights-under-the-omnibus-how-the-eu-s-reform-agenda-threatens-to-erase-a-decade-of-digital-rights
+Thomas Lohninger und Ralf Bendrath arbeiten [in ihrem Vortrag](https://media.ccc.de/v/39c3-throwing-your-rights-under-the-omnibus-how-the-eu-s-reform-agenda-threatens-to-erase-a-decade-of-digital-rights#t=1718) auf dem Congress heraus, wie die Omnibus-Plänen der EU-Kommission die in den letzten 10 Jahre durch die Zivilgesellschaft erkämpften Digitalrechte wieder zurückdrehen könnte. Auch bei Open Data drohen Rückschritte (ab 28:30 im Video), da die Empfehlung, Standardlizenzen zu nutzen gestrichen wurde, also auch eine Passage ergänzt wurde, das Behörden für große Unternehmen Sonderbedingungen für die Nutzung der offenen Daten festlegen dürfen sollen, was die Open Definition aufweichen würde, die solche Restriktionen nicht vorsieht. Gefährlich könnte auch der geplante Digital Networks Act werden, da er potenziell die [Netzneutralität](https://de.wikipedia.org/wiki/Netzneutralit%C3%A4t) in Frage stellt. 
 
-## OpenSource
-* Valve: HDMI-Forum blockiert weiter HDMI 2.1 für Linux
-  https://www.heise.de/news/Valve-HDMI-Forum-blockiert-weiter-HDMI-2-1-fuer-Linux-11107364.html
+Eine umfangreiche Analyse des Gesetzesvorschlag [gibt es von noyb](https://noyb.eu/en/digital-omnibus-first-analysis-select-gdpr-and-eprivacy-proposals-commission). Im [Interview](https://netzpolitik.org/2025/dsgvo-reform-beim-datenschutz-ist-deutschland-inzwischen-dem-silicon-valley-naeher-als-dem-rest-der-eu/) kritisiert Max Schrems von noyb auch die "riesige Compliance-Industrie [in Deutschland], die immer neue "Probleme" zum Überleben braucht". Diese und Anwälte können mit Unsicherheit für Unternehmen aktuell sehr viel Geld verdienen. Die Datenschutzrechte aus der DSGVO wie Zweckbindung, Transparenz, Datenrichtigkeit oder Datenminimierung haben gerade durch das Aufkommen von KI nochmal an Relevanz gewonnen, weil es nun viel leichter passieren kann, das z.B. über Personen unrichtige Behauptungen von Chatbots ausgegeben werden. Diese Rechte und auch das Auskunftsrecht jetzt abräumen zu wollen, nur weil sie für die KI-System scheinbar nicht umsetzbar sind und damit der "Innovation" im Weg stünde, sind für Schrems jedenfalls keine validen Argumenten.
 
+[Für Rechtsanwältin Elisabeth Niekrenz](https://fair.tube/w/s3tqyvUhHTJ9Mc1GD6BUxY) entstehen aus ihrer Sicht durch die schwammigen Vorgaben des Digitalen Omnibus Anreize für Unternehmen Datenschutz nicht ernst zu nehmen. Die Zivilgesellschaft warnt zurecht vor massiver Deregulierung und Abbau des Grundrechtsschutzes im Digitalen Raum, da Hemmung beim Einfordern von Betroffenenrechten entstehen, Entscheidungen von Systemen automatisiert in sensiblen Bereichen getroffen werden, ohne diese ausreichend transparent zu machen.
 
 ## Transparenz
 * 3-Monate Informationsfreiheit Österreich: Was befreit wurde, Was geheim bleibt
