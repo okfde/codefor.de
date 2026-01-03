@@ -99,10 +99,9 @@ Wenn nach Regierungswechseln und Ressortneuzuschnitten Behörden ihre Namen und 
 Das Faxen noch lange nicht dicke hat die deutsche Verwaltung. Diese hält aus Datenschutzgründen weiter an Brief und Fax fest, wie in einem Erfahrungsbericht auf Telepolis [geschildert wird](https://www.telepolis.de/article/Deutschlands-digitaler-Rueckstand-Wenn-Briefe-und-Faxe-noch-Staatsdoktrinen-sind-11116640.html).
 
 ## Rechtssprechung
-* Hacking Karlsruhe - 10 years later
-  https://media.ccc.de/v/39c3-hacking-karlsruhe-10-years-later
-* Endlich maschinenlesbare Urteile!: Open Access für Juristen
-  https://media.ccc.de/v/39c3-endlich-maschinenlesbare-urteile-open-access-fur-juristen
+[Einen Einblick](https://media.ccc.de/v/39c3-hacking-karlsruhe-10-years-later) in ihre Erfahrungen geben die Vertreter:innen verschiedener zivilgesellschaftlicher Organisationen, die sie in ihren Prozessen beim Verfassungsgericht Karlsruhe in den letzten 10 Jahren gesammelt haben. Und ziehen Bilanz, was strategische Prozessführung (z.B. mit gezielten Verfassungsbeschwerden) wirklich gebracht hat.
+
+Als Zivilgesellschaft und Politik selber souverän überprüfen können, ob Richter:innen das Recht auch wirklich im Sinne der Legislative anwenden, geht nur, wenn die zugehörigen Urteile frei zugänglich sind, meinen die Vortragenden [diesen Talks](https://media.ccc.de/v/39c3-endlich-maschinenlesbare-urteile-open-access-fur-juristen). Von den über einer Million Urteilen allein in 2024 sind gerade mal geschätzt 10.000 bei der von einem gemeinnützigen Verein betriebenen Plattform [openjur.de](https://openjur.de) offen verfügbar. Weitere 20.000 gibt es nur hinter Paywall, weitere 10.000 kann man bei einem Verlag erwerben. Ein offizielles Angebot gibt es keines. Auf [offeneurteile.de](https://www.offeneurteile.de) kann man, gestützt durch gemeinnützigen Organisationen und Unternehmen wie openjur.de, Anita Legal GmbH, FragDenStaat und Transparency International Deutschland e. V., ein Anfrage zur Veröffentlichung eines Urteils stellen. Die Plattform kümmert sich dann um die Kommunikation mit der Gerichtsverwaltung und stellt dann das hoffentlich so befreite Urteil auf openjur.de. Alles Krücken, weil es keine verbindliche Pflicht gibt, Urteile Open Access zu stellen und damit im Prinzip auch gegen die Grundsätze der Rechtsstaatlichkeit verstößt.
 
 ## Digitaler Omnibus
 * Datenschutzkonferenz kritisiert Pläne der EU-Kommission
