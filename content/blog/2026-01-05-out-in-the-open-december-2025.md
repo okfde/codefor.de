@@ -160,12 +160,11 @@ Ein hochkomplexes und fehleranfälliges Abrechnungssystem sorgt dafür, dass Är
 Der Secure Multiparty Computation Ansatz zeigt, dann man auch datensparsam auf Gesundheitsdaten [forschen kann](https://www.heise.de/hintergrund/39C3-Wie-sich-international-sicher-auf-klinischen-Daten-rechnen-laesst-11125646.html).
 
 ## Kultur
-* Zugang zu kulturellen Gütern im digitalen Wandel
-  https://radihum20.de/radihum20-spricht-mit-ursula-frohne-und-reinold-schmuecker/
-* FAIRe Vokabulare und Normdaten für Museen und Sammlungen
-  https://zenodo.org/records/17950403
-* Kölner Kultur Adventskalender 2025
-  https://digitalheritagelab.com/cologne-culture-advent-calendar-2025/
+Wie die Digitalisierung in Museen, Archive und Sammlungen neue Zugänge eröffnet und gleichzeitig unabsichtlich neue Barrieren erzeugt, wird in der jüngsten Folge des Digital Humanities Podcast RaDiHum20 [besprochen](https://radihum20.de/radihum20-spricht-mit-ursula-frohne-und-reinold-schmuecker/).
+
+Der Bericht ["FAIRe Vokabulare und Normdaten für Museen und Sammlungen"](https://zenodo.org/records/17950403) stellt eine Reihe von einschlägigen Vokabularen für die Sammlungsdokumentation vor.
+
+Der digitale [Kölner Kultur Adventskalender 2025](https://digitalheritagelab.com/cologne-culture-advent-calendar-2025/) inszenierte in der vergangenen Adventszeit im Dezember jeden Tag einen Kunst- und Denkmalschatz Kölns auf ein ganz spezielle Art und Weise.
 
 ## Energie
 * Auf Wärmepumpen-Partys soll die Nachbarschaft von Wärmepumpen überzeugt werden
