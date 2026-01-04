@@ -135,7 +135,7 @@ Hannah Vos and Vivian Kube von FragDenStaat erklären [in ihrem Vortrag](https:/
 ### Deutscher Trumpismus
 Gewöhnt haben wir uns auch schon an diese beiden hier. Wäre er Fußballtrainer, hätten die Medien ihn längst nieder geschrieben und er wäre schon lange entlassen, so kann er sein Schandwerk ungestört weiter treiben, [der Podcast Firewall rekonstruiert](https://www.spiegel.de/politik/deutschland/jens-spahn-eine-karriere-in-der-grauzone-podcast-firewall-a-5df277b5-854a-41b4-92d2-d5fe1753abb7), wie Jens Spahn so aufsteigen und alle Affären (z.B. Kauf seiner Villa, private Investments und Maskenbeschaffung) überstehen konnte und welche Rolle sein Netzwerk dabei spielt.
 
-Schrapnellentapir, ich hör dir trapsen: die deutsche Wirtschaftsministerin Katharina Reiche will am Gipfel "Moving Mountains", einem exklusiven Treffen von Politikern und Investoren im österreichischen Seefeld in den Tiroler Bergen, nur als Privatperson teilgenommen haben. Blöd nur, dass sie in der 80-seitigen Broschüre der Konferenz explizit als "Bundesministerin für Wirtschaft und Energie" ausgewiesen wird. Als Reaktion auf auf die [Kleine Anfrage](https://dip.bundestag.de/vorgang/teilnahme-der-bundesministerin-f%C3%BCr-wirtschaft-und-energie-katherina-reiche-an/328456) der Grünen, beharrt das Ministerium aber trotzdem weiterhin, dass die Teilnahme rein privat gewesen wäre.
+Schrapnellentapir, ick hör dir trapsen: die deutsche Wirtschaftsministerin Katharina Reiche will am Gipfel "Moving Mountains", einem exklusiven Treffen von Politikern und Investoren im österreichischen Seefeld in den Tiroler Bergen, nur als Privatperson teilgenommen haben. Blöd nur, dass sie in der 80-seitigen Broschüre der Konferenz explizit als "Bundesministerin für Wirtschaft und Energie" ausgewiesen wird. Als Reaktion auf auf die [Kleine Anfrage](https://dip.bundestag.de/vorgang/teilnahme-der-bundesministerin-f%C3%BCr-wirtschaft-und-energie-katherina-reiche-an/328456) der Grünen, beharrt das Ministerium aber trotzdem weiterhin, dass die Teilnahme rein privat gewesen wäre.
 
 ### Lobbyismus
 Bereits 1982 war geplant, das gesamte Telefonnetz der BRD auf Glasfaser umzustellen. Nur wurde das Vorhaben nach dem Regierungswechsel [gestoppt](https://jacobin.de/artikel/internet-glasfaser-cdu-kohl-rotfunk-infrastruktur-computer-rechner) und lieber flächendeckend veraltete Koaxial-Kupferkabel verlegt, als technische Voraussetzung für die Einführung des Privatfernsehens. Mit Folgen bis heute - erfolgten 2021 gerade mal bei 15 Prozent der Breitbanddatenübertragung mittels Glasfaser, waren es 2024 immerhin an die 40 Prozent, aber immer noch deutlich unter dem EU-Durchschnitt von fast 70 Prozent.
@@ -146,30 +146,18 @@ Die Einigung der EU-Institutionen bei der Gentechnik-Reform sieht vor, dass die 
 Das Deutschland die deutliche Abschwächung des EU-Lieferkettengesetzes unterstützt, war selbst regierungsintern umstritten, wie nun interne Dokumente [offen legen](https://www.focus.de/earth/lieferkettengesetz-im-entscheidenden-moment-sagt-der-deutsche-vertreter-nichts_e7c610b9-5f6e-48e2-9515-94fbc1062edd.html), selbst der gefundene Kompromiss zwischen den Koalitionspartnern wurde im entscheidenden Abstimmungsmoment nicht eingehalten, die Abschwächung war auch schon nur durch eine rechte Mehrheit im EU-Parlament [zu Stande gekommen](https://www.heise.de/news/EU-einigt-sich-auf-abgeschwaechtes-Lieferkettengesetz-11107721.html).
 
 ### Bundespolitik
-* Die neue deutsche Kriegsmaschine
-  https://correctiv.org/aktuelles/sicherheit-und-verteidigung/2025/12/17/neue-deutsche-kriegsmaschine-miliaer-aufruestung-bundeswehr-verteidigung/
-* Große Supermarktketten: Grüne fordern Pflicht-App für Preisvergleich
-  https://www.tagesschau.de/wirtschaft/gruene-lebensmittel-preise-app-100.html
-  https://chaos.social/@uli/115791432888124282
-* Jobcenter-Stories: Die Weiterbildungslotterie
-  https://fragdenstaat.de/artikel/exklusiv/2025/12/die-weiterbildungslotterie/
+[Interne Dokumente](https://correctiv.org/aktuelles/sicherheit-und-verteidigung/2025/12/17/neue-deutsche-kriegsmaschine-miliaer-aufruestung-bundeswehr-verteidigung/) aus dem Verteidigungsministerium zeigen, wie in den kommenden Jahren rund 400 Milliarden Euro in Munition und in neue Waffensysteme fließen sollen, ohne das für Experten und Bundestagsabgeordnete nachvollziehbar wäre, was die Kriterien waren, die zu den Einträgen auf dieser Bestellliste führten, und warum in 40 Fällen keine Ausschreibung gemacht wurde.
+
+Uli König von den Piraten greift die Forderung der Grünen nach einer App, die die aktuellen Preise aller Produkte aller Supermärkte [anzeigen soll](https://www.tagesschau.de/wirtschaft/gruene-lebensmittel-preise-app-100.html), auf und [erweitert sie](https://chaos.social/@uli/115791432888124282) um die Forderung, solche Informationen unabhängig von einer App direkt als Open Data zu veröffentlichen. Dabei sollten auch gleiche alle Pflichtangaben auf der Packung maschinenlesbar zugänglich gemacht werden. Für die Preise von Aldi Nord gibt es tatsächlich schon einen als Hobbyprojekt betriebenen [Mastodon-Bot](https://chaos.social/@AldiNordWatch), der deren Webseite scrapt und die Preisveränderung regelmäßig dokumentiert. Und für die maschinenlesbaren Packungsangaben kann man [Open Food Facts](https://de.openfoodfacts.org) nutzen, zu der man auch selbst beitragen kann.
 
 ## Gesundheit
-* Digitalstrategie: Krankenkassen wollen mehr Zugang zu Daten, Ärzte warnen
-  https://www.heise.de/news/Digitalstrategie-Krankenkassen-wollen-mehr-Zugang-zu-Daten-Aerzte-warnen-11110993.html
-* Falsche Diagnosen – Böse Überraschung in deiner Krankenakte?
-  https://www.ardmediathek.de/video/falsche-diagnosen-boese-ueberraschung-in-deiner-krankenakte/boese-ueberraschung-in-deiner-krankenakte/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOTI0ZTJiNjItNTY4MS00N2RjLWFkMTctZjM3NTdjNzA5YWI4
-* Krankenkassen wollen einheitliches Portal für Arzttermine
-  https://www.heise.de/news/Krankenkassen-wollen-einheitliches-Portal-fuer-Arzttermine-11124309.html
-* 39C3: Wie sich international sicher auf klinischen Daten rechnen lässt
-  https://www.heise.de/hintergrund/39C3-Wie-sich-international-sicher-auf-klinischen-Daten-rechnen-laesst-11125646.html
-* "KI", Digitalisierung und Longevity als Fix für ein kaputtes Gesundheitssystem?
-  https://media.ccc.de/v/39c3-ki-digitalisierung-und-longevity-als-fix-fur-ein-kaputtes-gesundheitssystem
-  https://www.heise.de/news/39C3-KI-Longevity-und-die-Illusion-vom-reparierbaren-Gesundheitssystem-11125463.html
-* Elektronische Patientenakte: Scheitern mit jahrelanger Ansage
-  https://www.golem.de/news/elektronische-patientenakte-scheitern-mit-jahrelanger-ansage-2512-203686.html
-* Schlechte Karten - IT-Sicherheit im Jahr null der ePA für alle
-  https://media.ccc.de/v/39c3-schlechte-karten-it-sicherheit-im-jahr-null-der-epa-fur-alle
+Für die Vorständin der Kassenärztliche Vereinigung Niedersachsen (KVN) Nicole Löhr gehören personalisierte Patientendaten nicht in die Hände von Krankenkassen. Durch die Daten in der elektronischen Patientenakte (ePA) [kamen Begehrlichkeiten](https://www.heise.de/news/Digitalstrategie-Krankenkassen-wollen-mehr-Zugang-zu-Daten-Aerzte-warnen-11110993.html) beim Spitzenverband der gesetzlichen Krankenkassen auf, selber als "digitale Lotsen" auftreten und personalisierte Präventions- und Versorgungsangebote entwickeln und anbieten zu wollen. Aus Sicht der Ärzte eine klare Kompetenzüberschreitung, bei zum einen die Schweigepflicht der Ärzte in Gefahr gerät, zum anderen potenziell Kosteneinsparung stärker ins Gewicht fallen als das Patientenwohl. Aber bei der GKV hat man noch [ganz viele andere Ideen](https://www.heise.de/news/Krankenkassen-wollen-einheitliches-Portal-fuer-Arzttermine-11124309.html), wie man mit Digitalisierung weiter optimieren könnte, z.B. wenn Menschen ihre Symptome und Beschwerden einfach in eine App eingeben und danach nach Dringlichkeit einen Termin zugeordnet bekommen. Patientenschützer klassifizieren diese Vorschläge als "Selbstüberschätzung". 
+
+Wie eine Mischung aus naiver Technikgläubigkeit, libertärer Ideologie und systematischem Ausblenden sozialer Ungleichheiten von den tatsächlich zu ergreifenden Maßnahmen zum Erhalt eines auch noch in Zukunft funktionierenden Gesundheitssystem [ablenken](https://www.heise.de/news/39C3-KI-Longevity-und-die-Illusion-vom-reparierbaren-Gesundheitssystem-11125463.html), thematisierte Manuel Hofmann [in seinem Vortrag](https://media.ccc.de/v/39c3-ki-digitalisierung-und-longevity-als-fix-fur-ein-kaputtes-gesundheitssystem) auf dem 39. Chaos Communication Congress.
+
+Ein hochkomplexes und fehleranfälliges Abrechnungssystem sorgt dafür, dass Ärzte auf Grund von Stress, Unwissenheit und manchmal auch aus fragwürdigen Motiven falsche Diagnosen in Patienten eintragen. [Eine ARD-Doku schildert](https://www.ardmediathek.de/video/falsche-diagnosen-boese-ueberraschung-in-deiner-krankenakte/boese-ueberraschung-in-deiner-krankenakte/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtOTI0ZTJiNjItNTY4MS00N2RjLWFkMTctZjM3NTdjNzA5YWI4), welche Folgen für betroffene Patienten entstehen und wie die ePA das Problem sogar verschärfen könnte. Zumal die ePA [nicht so sicher ist](https://media.ccc.de/v/39c3-schlechte-karten-it-sicherheit-im-jahr-null-der-epa-fur-alle), wie sein sollte.
+
+Der Secure Multiparty Computation Ansatz zeigt, dann man auch datensparsam auf Gesundheitsdaten [forschen kann](https://www.heise.de/hintergrund/39C3-Wie-sich-international-sicher-auf-klinischen-Daten-rechnen-laesst-11125646.html).
 
 ## Kultur
 * Zugang zu kulturellen Gütern im digitalen Wandel
@@ -393,16 +381,10 @@ Das Deutschland die deutliche Abschwächung des EU-Lieferkettengesetzes unterst�
 * [Netzpolitischer Abend](https://fair.tube/w/p/gUyTnD4bDXczGEmxzyyHVP?playlistPosition=1)
 * [Open Science Conference 2025](https://www.zbw-mediatalk.eu/2025/12/open-science-conference-2025-shaping-a-bright-future-for-open-science-and-ai/)
 * [Citizen Science – Gemeinsam forschen! Gemeinsam in Bewegung bringen!](https://www.idiv.de/de/citizen-science-gemeinsam-forschen/)
-* Congress
-  * API
-    https://api.events.ccc.de/congress/2025/v2/docs#tag/Conference/operation/apiv2_routers_conference_get_conference
-    via https://chaos.social/@keywan/115694912615855576
-  * https://commons.wikimedia.org/wiki/Category:39C3
-  * https://media.ccc.de/c/39c3
+* [Congress](https://media.ccc.de/c/39c3) / [API](https://api.events.ccc.de/congress/2025/v2/docs#tag/Conference/operation/apiv2_routers_conference_get_conference) / [Fotos](https://commons.wikimedia.org/wiki/Category:39C3)
 
 ## Und sonst?
-* The next total solar eclipses. Time to book your tickets!
-  https://vis.social/@infobeautiful/115719202661538129
+Wer nicht bis 2081 auf die nächste totale Sonnenfinsterniss in Deutschland warten möchte, sieht [in dieser Darstellung](https://vis.social/@infobeautiful/115719202661538129), wo man andernorts auf der Welt eine solche dieses Jahr bestaunen kann.
 
 ## Fristen
 * [re:publica](https://re-publica.com/de/cfp-berlin), Einreichungen bis 15.01.2026
