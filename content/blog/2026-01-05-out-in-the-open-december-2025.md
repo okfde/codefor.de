@@ -167,29 +167,15 @@ Der Bericht ["FAIRe Vokabulare und Normdaten für Museen und Sammlungen"](https:
 Der digitale [Kölner Kultur Adventskalender 2025](https://digitalheritagelab.com/cologne-culture-advent-calendar-2025/) inszenierte in der vergangenen Adventszeit im Dezember jeden Tag einen Kunst- und Denkmalschatz Kölns auf ein ganz spezielle Art und Weise.
 
 ## Energie
-* Auf Wärmepumpen-Partys soll die Nachbarschaft von Wärmepumpen überzeugt werden
-  https://www.heise.de/news/Mit-Spass-zur-Energiewende-Waermepumpen-Partys-liegen-im-Trend-11102973.html
-* Startschuss für Lithiumproduktion in Deutschland - Milliardenfinanzierung für Leuchtturmprojekt Lionheart steht
-  https://www.iwr.de/news/startschuss-fuer-lithiumproduktion-in-deutschland-milliardenfinanzierung-fuer-leuchtturmprojekt-lionheart-steht-news39446
-  https://mastodon.green/@VQuaschning/115672272422102569
-* Eigenheim energetisch sanieren: Forschungsprojekt zeigt Informationsbedarf und hilft mit Online-Wegweiser
-  https://www.ioew.de/presse/pressemitteilungen/eigenheim-energetisch-sanieren-forschungsprojekt-zeigt-informationsbedarf-und-hilft-mit-online-wegweiser
-  https://building-dialogue.rl-institut.de
-  https://mastodon.social/@ioew/115723158646687778
-* Umstrittenes Gutachten zur Energiewende: Greenpeace wirft Reiche Manipulation vor
-  https://taz.de/Umstrittenes-Gutachten-zur-Energiewende/!6138830/
-  https://bsky.app/profile/ftummescheit.bsky.social/post/3ma4yvq5wyk2a
-* Was tun, wenn falsche Einträge im Marktstammdatenregister die Auswertung ruinieren?
-  https://tino-eberl.de/vibe-coding/fehler-im-marktstammdatenregister-fehlerkorrektur-zur-laufzeit/
-  https://mastodon.online/@tinoeberl/115740747567410332
-* Goal100: Mit Open Data die Energiewende tracken und optimieren
-  https://datenatlas-zivilgesellschaft.de/de/ueber-uns/aktuelles/goal100-mit-open-data-die-energiewende-tracken-und-optimieren-3
-  https://www.linkedin.com/posts/mario-wiedemann-a5887b30_deutschland-will-bis-2030-mindestens-80-activity-7401598587698270208-VaM2
-* Report: Importabhängigkeit bei sauberen Energiegütern – Marktversagen und Politikinstrumente
-  https://ariadneprojekt.de/publikation/report-importabhaengigkeit-bei-sauberen-energieguetern-marktversagen-und-politikinstrumente/
-  https://bsky.app/profile/annacavazzini.bsky.social/post/3m75mv4vhqk2c
-* Wenn die Betreiberfirma das Stromnetz nicht rausrückt
-  https://correctiv.org/aktuelles/klimawandel/2025/12/03/wenn-die-betreiberfirma-das-stromnetz-nicht-rausrueckt/
+Der Solarenergie-Förderverein Deutschland e. V. (SFV) [organisiert](https://www.heise.de/news/Mit-Spass-zur-Energiewende-Waermepumpen-Partys-liegen-im-Trend-11102973.html) so genannte "Wärmepumpen-Partys", also Informationsveranstaltungen als Hausbesuch bei Menschen, die bereits eine Wärmepumpe betreiben. Ehrenamtliche können sich auch als "Wärmepumpenbotschafter" ausbilden lassen.
+
+Das Forschungsprojekt ["building-dialogue"](https://building-dialogue.rl-institut.de) hilft mit einem Online-Wegweiser, wie man sein Eigenheim energetisch [richtig saniert](https://www.ioew.de/presse/pressemitteilungen/eigenheim-energetisch-sanieren-forschungsprojekt-zeigt-informationsbedarf-und-hilft-mit-online-wegweiser).
+
+Das [Datenprojekt Goal100](https://datenatlas-zivilgesellschaft.de/de/ueber-uns/aktuelles/goal100-mit-open-data-die-energiewende-tracken-und-optimieren-3) zeigt in Form eines [öffentlichen Dashboards](https://goal100.org/monitor) den Status aller Windenergieprojekte in Deutschland von Beantragung bis Inbetriebnahme. Auch als [OpenData verfügbar](https://datenkatalog.datenatlas-zivilgesellschaft.de/app/data-catalog/goal100-105281-zenodo-17592700). Die Daten sind eine Aufbereitung von Daten aus dem Marktstammdatenregister (MaStR).
+
+Greenpeace hat das ursprünglich an das Ministerium geleitete Gutachten und die veröffentliche Fassung verglichen und [28 Abweichungen gefunden](https://taz.de/Umstrittenes-Gutachten-zur-Energiewende/!6138830/), die weit über redaktionelle Veränderungen hinausgehen und kritische Aussagen des Originalberichts abgeschwächt haben. Auch das Fazit wurde vom Ministerium selbst erst in das Gutachten [geschrieben](https://bsky.app/profile/ftummescheit.bsky.social/post/3ma4yvq5wyk2a). Und das Gutachten dient nun als Grundlage für Milliardenentscheidungen. 
+
+Der [Ariadne-Report](https://ariadneprojekt.de/publikation/report-importabhaengigkeit-bei-sauberen-energieguetern-marktversagen-und-politikinstrumente/) konstatiert Deutschlands Importabhängigkeit bei sauberen Energiegütern. Aus ihrer Sicht Folge eines Marktversagens (also aktuelle Übermacht Chinas bei den Transformationstechnologien wie Solaranlagen, Batterien, usw.), dem mit gezielen Maßnahmen entgegen gewirkt werden müsse, um die inländische Produktion zu fördern.
 
 ## Karten
 * GlobalBuildingAtlas: 3D-Modelle aller 2,8 Milliarden Gebäude der Welt auf GitHub
