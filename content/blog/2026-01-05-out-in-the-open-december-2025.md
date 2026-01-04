@@ -178,64 +178,40 @@ Greenpeace hat das ursprünglich an das Ministerium geleitete Gutachten und die 
 Der [Ariadne-Report](https://ariadneprojekt.de/publikation/report-importabhaengigkeit-bei-sauberen-energieguetern-marktversagen-und-politikinstrumente/) konstatiert Deutschlands Importabhängigkeit bei sauberen Energiegütern. Aus ihrer Sicht Folge eines Marktversagens (also aktuelle Übermacht Chinas bei den Transformationstechnologien wie Solaranlagen, Batterien, usw.), dem mit gezielen Maßnahmen entgegen gewirkt werden müsse, um die inländische Produktion zu fördern.
 
 ## Karten
-* GlobalBuildingAtlas: 3D-Modelle aller 2,8 Milliarden Gebäude der Welt auf GitHub
-  https://www.heise.de/news/GlobalBuildingAtlas-3D-Modelle-aller-2-8-Milliarden-Gebaeude-der-Welt-auf-GitHub-11101307.html
-* After 8 years in development, Martin v1.0 is here: Martin is a tile server able to generate and serve vector tiles on the fly from large PostGIS databases, PMTiles (local or remote), and MBTiles files, 
-  https://maplibre.org/martin/introduction.html
-  https://github.com/maplibre/martin/releases/tag/martin-v1.0.0
-* Introducing QGIS2VectorTiles!
-  https://plugins.qgis.org/plugins/QGIS2VectorTiles/
-  https://mastodon.social/@JossefKanter/115699733389155957
-* Mapterhorn
-  https://mapterhorn.com
-  https://mastodon.online/@ck2/115722622688451522
-* This tool visualizes near real-time (NRT) satellite-based fire perimeters, active portions of fire perimeters (fire lines), and active fire pixel detections for the current year
-  https://www.earthdata.nasa.gov/dashboard/tools/fire-event-explorer
-  https://techhub.social/@GregCocks/115732727595297592
-* Maptime Berlin 2025 im CityLAB Recap 
-  https://escaping.space/SITES/map.html
-  https://www.linkedin.com/posts/citylab-berlin_maptime-berlin-2025-im-citylab-recap-ugcPost-7399453518564315138-wWYw
-* Watrify
-  https://www.watrify.de
-  https://oc.bydata.de/using/usecases/watrify
-  https://www.linkedin.com/posts/ocbydata_bytethesystem-opendata-openbydata-activity-7403723774552088576-5URU
-* Masterportal Tipps und Tricks
-  https://github.com/technologiestiftung/masterportal-tricks-n-tips/
-  https://www.linkedin.com/posts/hans-hack-001683303_masterportal-tipps-tricks-f%C3%BCr-das-activity-7404821541684817920-x9v8
+Ein Forschungsteam der Technischen Universität (TU) München [hat die 3D-Modelle](https://www.heise.de/news/GlobalBuildingAtlas-3D-Modelle-aller-2-8-Milliarden-Gebaeude-der-Welt-auf-GitHub-11101307.html) aller 2,8 Milliarden Gebäude der Welt, von denen im Jahr 2019 Satellitenbilder vorlagen, als Open Data [auf GitHub veröffentlicht](https://github.com/zhu-xlab/GlobalBuildingAtlas). Man kann sie sich auch [über diesen Viewer](https://tubvsig-so2sat-vm1.srv.mwn.de) auf einer Karte anzeigen lassen.
+
+Nach 8 Jahren Entwicklung wurde nun die [Version 1.0](https://github.com/maplibre/martin/releases/tag/martin-v1.0.0) des Tileservers [Martin](https://maplibre.org/martin/introduction.html) veröffentlicht, der in der Lage ist Vector Tiles dynamisch aus großen PostGIS-Datenbanken zu erzeugen.
+
+Auch für QGIS gibt es jetzt [ein Plugin](https://plugins.qgis.org/plugins/QGIS2VectorTiles/), mit dem man seine Geo-Daten als Vector Tiles Paket [ausliefern kann](https://mastodon.social/@JossefKanter/115699733389155957).
+
+[Opendata-Geländekacheln](https://mastodon.online/@ck2/115722622688451522), die meisten 1m-Auflösung, stellt [Mapterhorn](https://mapterhorn.com) bereit.
+
+Öffentliche Wasserspender in seiner Nähe finden [kann man](https://www.linkedin.com/posts/ocbydata_bytethesystem-opendata-openbydata-activity-7403723774552088576-5URU) mit der als [Use-Case](https://oc.bydata.de/using/usecases/watrify) beim open bydata competence center vorgestellten [Watrify](https://www.watrify.de).
+
+Tipps & Tricks beim Umgang mit dem Masterportal, einer Open-Source-Software für Kartenportale, [sammelt](https://www.linkedin.com/posts/hans-hack-001683303_masterportal-tipps-tricks-f%C3%BCr-das-activity-7404821541684817920-x9v8) die Open Data Informationsstelle Berlin (ODIS) ab sofort [in einem Github-Repository](https://github.com/technologiestiftung/masterportal-tricks-n-tips/).
 
 ## Mobilität
-* hiBike Release: New Greenness, Detours, and Summary Features for Improved Bikeability Analysis
-  https://heigit.org/hibike-release-greenness-detours/
-  https://climate-action.heigit.org/dashboard
-  https://mastodon.social/@heigit/115694451456598268 
-* Aus für Verbrenner-Aus: Die EU schaufelt das Grab für ihre eigene Industrie
-  https://www.derstandard.at/story/3000000300374/aus-fuer-verbrenner-aus-die-eu-schaufelt-das-grab-fuer-ihre-eigene-industrie
-* Was sind eigentlich hocheffiziente Verbrenner?
-  https://www.mdr.de/wissen/naturwissenschaften-technik/die-verkehrswende-und-die-diskussion-um-hocheffiziente-verbrenner-was-ist-das-100.html
-* ADAC warnt nach eingeleiteter Abkehr vom Verbrenner-Aus vor Aufweichen der Klimaschutzsziele im Verkehrsbereich
-  https://www.deutschlandfunk.de/adac-warnt-nach-eingeleiteter-abkehr-vom-verbrenner-aus-vor-aufweichen-der-klimaschutzsziele-im-verk-100.html
-* Themenmonat Dezember: Gerechtigkeit 
-  https://www.mobil-auf-deine-weise.de/themenmonate/dezember/
-* Großbaustelle der Bahn zwischen Berlin und Hamburg. Was bedeutet sie für Pendlerinnen und Pendler?
-  https://norden.social/@wahlatlas/115740190592673319
-  https://pretalx.news-infographics-analytics-maps.media/2026/talk/REJB9C/
-* ARD-Doku "Pendler-Stress – Eine Nation auf Achse"
-  https://www.ardmediathek.de/video/pendler-stress-eine-nation-auf-achse/pendler-stress-eine-nation-auf-achse/ndr/Y3JpZDovL25kci5kZS9iNDNiN2M3My04MmExLTQ1YTYtOGFkNS05MjExNWQ0ZWZkYTNfZ2FuemVTZW5kdW5n
-  https://agora-thinktanks.social/@agoraverkehr/115740114035891252
-* Vom Wohnungsbau bis zu grünen Freiflächen: Potenziale großer Parkplätze 
-  https://www.bbsr.bund.de/BBSR/DE/startseite/topmeldungen/parkplaetze-umnutzen.html
-* Can we infer citywide traffic speeds without sensors or proprietary data?
-  https://heigit.org/new-paper-estimating-road-speed-classes-integrating-openstreetmap-and-street-view-imagery-for-missing-data-imputation/
-  https://mastodon.social/@heigit/115762472115532334
-* Verspätungen 2025 an über 100 europäischen Bahnhöfen: Sogar italienische Züge sind pünktlicher als deutsche
-  https://chuuchuu.com/2025wrapped
-  https://bsky.app/profile/helge.at/post/3madtgnsntk2c
-* CYCLING CITIES - Der Film
-  https://www.youtube.com/watch?v=R5jQc1jXLAU
-* What Makes Bike-Sharing Work?: Insights from 43 Million Kilometers of European Cycling Data
-  https://media.ccc.de/v/39c3-what-makes-bike-sharing-work-insights-from-43-million-kilometers-of-european-cycling-data
-  * Bike Sharing Flows
-    https://bikesharingflowmap.de
+### Verbrenner-Aus-Aus
+Statt den Autoherstellern die dringend notwendige Planungssicherheit zu liefern, fährt die EU mit dem Absagen des Verbrenner-Aus weiter zweigleisig. Nur ohne den nötigen Druck auf Unternehmen, sich zu transformieren, wird China seine Marktmacht weiter ungestört ausbauen können. Die vielleicht kurzfristig gesicherten Arbeitsplätze in der Automobilindustrie werden sich später [um so mehr rächen](https://www.derstandard.at/story/3000000300374/aus-fuer-verbrenner-aus-die-eu-schaufelt-das-grab-fuer-ihre-eigene-industrie). Und die Klimafolgen sind da nicht mal mitbedacht. Und das die Politik eben nicht im Sinne der Mehrheit der Wirtschaft handelt, zeigt sich auch an der Kritik, die z.B. [vom ADAC kommt](https://www.deutschlandfunk.de/adac-warnt-nach-eingeleiteter-abkehr-vom-verbrenner-aus-vor-aufweichen-der-klimaschutzsziele-im-verk-100.html). Und was die viel beschworenen hocheffiziente Verbrenner sein sollen, [kann auch niemand sagen](https://www.mdr.de/wissen/naturwissenschaften-technik/die-verkehrswende-und-die-diskussion-um-hocheffiziente-verbrenner-was-ist-das-100.html). Denn die physikalische Grenzen überwinden werden sie auch nicht können, und damit immer ineffizienter sein, als E-Autos.
+
+### Pendeln
+Durch die [Generalsanierung](https://hamburg-berlin.deutschebahn.com/home.html) der Bahnstrecke zwischen Berlin und Hamburg, ist diese Verbindung von 1. August 2025 bis 30. April 2026 komplett gesperrt. Ein Vollkatastrophe für Pendler:innen, wie [die Infografik](https://pretalx.news-infographics-analytics-maps.media/2026/talk/REJB9C/) von Katharina Stipp zeigt. Denn weder von Ludwigslust, Wittenberge noch Schwerin sind Berlin als auch Hamburg in zwei Stunden mit der Bahn oder dem Schienenersatzverkehr erreichbar.
+
+Die ARD-Doku ["Pendler-Stress - Eine Nation auf Achse"](https://www.ardmediathek.de/video/pendler-stress-eine-nation-auf-achse/pendler-stress-eine-nation-auf-achse/ndr/Y3JpZDovL25kci5kZS9iNDNiN2M3My04MmExLTQ1YTYtOGFkNS05MjExNWQ0ZWZkYTNfZ2FuemVTZW5kdW5n) zeigt, wie sehr Staus, unzuverlässiger ÖPNV und lange Wege den Alltag vieler Pendelnder belasten. Die Agora Verkehrswende fordert auch deswegen, dass Arbeitswege [fairer gefördert](https://www.agora-verkehrswende.de/veroeffentlichungen/arbeitswege-fairer-foerdern) werden müssen.
+
+### Radfahren
+Das neue [hiBike Release](https://heigit.org/hibike-release-greenness-detours/) als Teil des [Climate Action Navigator](https://climate-action.heigit.org/dashboard) bringt einige neue Features zur Bestimmung von Fahrradfreundlichkeit von Straßen bzw. Gebieten mit sich.
+
+Was macht Fahrradverleihsystem attraktiv? Ein Einblick in 43 Millionen Kilometer europäischer Fahrraddaten lässt einige Schlüsse zu, die Ergebnisse des dazugehörigen [Forschungsartikels](https://doi.org/10.1007/s11116-025-10661-2) wurde auch nochmal auf dem Congress [vorgestellt](https://media.ccc.de/v/39c3-what-makes-bike-sharing-work-insights-from-43-million-kilometers-of-european-cycling-data). Die Karte [Bike Sharing Flows](https://bikesharingflowmap.de) zeigt alle Verleihstationen von Nextbike in Europa (je größer die Punkte, desto mehr ausleihbare Räder, je grüner, desto intensiver genutzt). Die Rohdaten gibt es auf [Github](https://github.com/TUMFTM/european-bike-sharing-dataset).
+
+### Verteilungsgerechtigkeit
+Im Dezember hat man sich auf [Mobil auf deine Weise](https://www.mobil-auf-deine-weise.de/) mit dem Thema [Gerechtigkeit](https://www.mobil-auf-deine-weise.de/themenmonate/dezember/) in der Mobilität auseinander gesetzt. Neben Flächengerechtigkeit (also wie viel Verkehrsfläche bekommen Auto, Rad und Fußgänger) und Kosten (Pkw-Parkplätze kosten weniger als ihr Betrieb) geht es auch um Teilhabemöglichkeiten, Sichtbarkeit und Wertschätzung verschiedener sozialer Gruppen.
+
+Zwei neue BBSR-Studien beschreiben unterschiedliche Wege, wie Städte große Parkplatzflächen [umgestalten können](https://www.bbsr.bund.de/BBSR/DE/startseite/topmeldungen/parkplaetze-umnutzen.html): einmal [analytisch](https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/bbsr-online/2025/bbsr-online-054-2025.html) aber auch an [konkrete Beispiele aus ganz Deutschland](https://www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/sonderveroeffentlichungen/2025/transformation-grossflaechiger-parkplaetze.html).
+
+Ein [Forschungs-Paper](https://heigit.org/new-paper-estimating-road-speed-classes-integrating-openstreetmap-and-street-view-imagery-for-missing-data-imputation/) zeigt, wie man mit Hilfe von OpenStreetMap- und Straßenbefahrungs-Daten die Lücken bei der Erfassung von Geschwindigkeitsbegrenzungen für Straßenabschnitte schließen kann.
+
+Eine statistische Auswertung zu Zugverspätungen in Europa für das Jahr 2025 liefert [chu chuu](https://chuuchuu.com/2025wrapped) - warum ist Deutschland [auf der Karte](https://bsky.app/profile/helge.at/post/3madtgnsntk2c) nur so rot?.
 
 ## Klima
 * Wie schon im Amazonas: Tropenwälder stoßen inzwischen mehr CO₂ aus, als sie aufnehmen
