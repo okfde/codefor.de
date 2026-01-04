@@ -111,53 +111,48 @@ Eine umfangreiche Analyse des Gesetzesvorschlag [gibt es von noyb](https://noyb.
 [Für Rechtsanwältin Elisabeth Niekrenz](https://fair.tube/w/s3tqyvUhHTJ9Mc1GD6BUxY) entstehen aus ihrer Sicht durch die schwammigen Vorgaben des Digitalen Omnibus Anreize für Unternehmen Datenschutz nicht ernst zu nehmen. Die Zivilgesellschaft warnt zurecht vor massiver Deregulierung und Abbau des Grundrechtsschutzes im Digitalen Raum, da Hemmung beim Einfordern von Betroffenenrechten entstehen, Entscheidungen von Systemen automatisiert in sensiblen Bereichen getroffen werden, ohne diese ausreichend transparent zu machen.
 
 ## Transparenz
-* 3-Monate Informationsfreiheit Österreich: Was befreit wurde, Was geheim bleibt
-  https://www.informationsfreiheit.at/2025/12/05/3-monate-informationsfreiheit/
-* Neuer Schufa-Score: Auskunftei verspricht mehr Transparenz
-  https://netzpolitik.org/2025/neuer-schufa-score-auskunftei-verspricht-mehr-transparenz/
-  * Neuer Schufa-Score – was sich nun für Millionen Deutsche ändert
-    https://www.sueddeutsche.de/wirtschaft/schufa-kredite-banken-auskunftei-datenschutz-li.3345507?reduced=true
-* Speicherdauer von Bonitätsdaten - Bundesgerichtshof hebt Urteil gegen Schufa auf
-  https://www.heise.de/news/Speicherdauer-von-Bonitaetsdaten-Bundesgerichtshof-hebt-Urteil-gegen-Schufa-auf-11124488.html
-* Wirecard-Skandal: EY muss nach BGH-Urteil die Hosen runterlassen
-  https://www.heise.de/news/Wirecard-Skandal-Wirtschaftspruefer-EY-muss-laut-BGH-alle-Unterlagen-offenlegen-11114231.html  
-* Jobcenter-Stories: Die Weiterbildungslotterie
-  https://fragdenstaat.de/artikel/exklusiv/2025/12/die-weiterbildungslotterie/
-* Villa, Masken, Investments: Jens Spahn – eine Karriere in der Grauzone
-  https://www.spiegel.de/politik/deutschland/jens-spahn-eine-karriere-in-der-grauzone-podcast-firewall-a-5df277b5-854a-41b4-92d2-d5fe1753abb7
-  https://social.tchncs.de/@earlybird445/115758489226421705
-* Ministerin in Bedrängnis: Reiche war als "Ihre Exzellenz" beim Tiroler VIP-Gipfel
-  https://www.spiegel.de/politik/deutschland/katherina-reiche-wurde-in-broschuere-als-bundesministerin-vorgestellt-moving-mountains-treffen-a-510a8a7d-fa8b-4a05-a9f4-d2bf11cb055f
-* Gericht schützt Pressefreiheit: Recherche "Geheimplan gegen Deutschland" steht, zwei Klagen gegen CORRECTIV sind gescheitert
-  https://correctiv.org/in-eigener-sache/2025/12/19/gericht-correctiv-recherche-geheimplan-gegen-deutschland-klagen-gescheitert/
+### Österreich
+[Drei Monate](https://www.informationsfreiheit.at/2025/12/05/3-monate-informationsfreiheit/) nach Einführung des Informationsfreiheitgesetzes in Österreich ist der befürchtete Ansturm auf die Behörden ausgeblieben. Sind dann doch nicht alles reaktante Bürger da draußen, die die Verwaltung mit ihren Anfragen nerven wollen. Dafür konnte dank des Gesetzes Spesenabrechnungen, Kostenaufschlüsselungen, interne Richtlinien und geheime Verträge befreit werden. Vor allem Journalist:innen die neuen Anfragemöglichkeiten. Einge Anfragen wurden nur teilweise beantwortet (z.B. mit Verweis auf Geschäftsgeheimis oder Sicherheitsbedenken), andere gar nicht. Es gab auch die Erfahrung, dass eine Anfrage, die einmal mittels IFG und einmal als Presseanfrage gestellt wurde, problematischerweise als Presseanfrage viel schneller beantwortet wurde. Im [Congress-Talk](https://media.ccc.de/v/39c3-amtsgeheimnis-raus-datenhalde-rein-was-die-informationsfreiheit-in-osterreich-bringt) wird nochmal der lange Weg bis zur Abschaffung des Amtsgeheimnisses skizziert. Es wird aber auch auf Probleme eingangen, wie z.B., dass es keinen IFG-Beauftragten gibt, keine Kontrolle der Veröffentlichungspflichten, betroffene Dritte werden vorab schon informiert, es gab Fälle, wo Dokumente vor Rausgabe einfach gelöscht wurden, die Ausnahmen von der Informationspflicht sind zu schwammig geregelt und können daher im Zweifel gegen die Herausgabe ausgelegt werden.
+
+### Schufa
+[Ab März 2026](https://netzpolitik.org/2025/neuer-schufa-score-auskunftei-verspricht-mehr-transparenz/) führt die Schutzgemeinschaft für allgemeine Kreditsicherung (Schufa) einen neuen Score zur Kreditwürdigkeitsbewertung ein, der dann statt der 250 bisher nur noch auf 12 Kriterien basieren soll und damit nachvollziehbarer wird. Ab Ende März 2026 kann man dann sogar über einen Account seinen Score kostenlos abrufen und sein Zustandekommen nachvollziehen können. Bereits seit dem 3.12. kann man in der noch laufenden Betaphase schon bonitätsrelevanten Daten einsehen.
+
+Wie lange die Schufa speichern darf, dass jemand seine Rechnungen nicht (fristgerecht) bezahlt hat, hängt von der Quelle der Daten ab, hat nun der deutsche Bundesgerichtshof [entschieden](https://www.heise.de/news/Speicherdauer-von-Bonitaetsdaten-Bundesgerichtshof-hebt-Urteil-gegen-Schufa-auf-11124488.html). Wenn Informationen aus öffentlichen Verzeichnissen gelöscht werden, müsse auch die Schufa diese bei sich löschen, bei Daten aus anderen Quellen, z.B. von den Schuldern selbst, darf im konkreten Fall abgewogen werden und die Daten dürfen bis zu drei Jahre gespeichert werden, in besonderen Fällen (z.B. einfach nur eine einzige Rechnung übersehen) auch nur anderthalb Jahre.
+
+### Finanzen
+Die Wirtschaftsprüfungsgesellschaft EY (vormals Ernst & Young) war von 2009 bis 2019 für die Prüfung der Jahres- und Konzernabschlüssen des Zahlungsdienstleisters Wirecard AG zuständig. Dieser war 2020 spektakuär [insolvent geworden](https://de.wikipedia.org/wiki/Wirecard#Insolvenz). Ein Urteil des Bundesgerichtshofs verpflichtet nun die Wirtschaftsprüfer auch interne Arbeitspapiere den Insolvenzverwaltern aushändigen zu müssen. Denn auch schon vor 2020 gab es Ungereimtheiten, EY wurde bereits 2023 wegen Pflichtverletzungen mit einer Geldbuße von 500.000 Euro belegt.
+
+Ein mehr als ein Terabyte großer von Nordrhein-Westfahlen angekaufter Datensatz enthält Informationen zu Beteiligungen von Deutschen in Offshore-Steueroasen, dokumentieren also Steuerhinterziehungen [im großen Stil](https://www.zeit.de/news/2025-12/26/grosser-datensatz-zu-steueroasen-sachsen-anhalt-betroffen).
+
+### Zivilgesellschaft
+Zwei Klagen gegen die in der correctiv-Recherche ["Geheimplan gegen Deutschland"](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treffen/) vorgenommene journalistische Einordnung des Treffens hochrangige AfD-Politiker, Rechtsextreme, Unternehmer und anderer im November 2023 in einem Potsdamer Hotel bei dem Martin Sellner das Konzept der "Remigration" vorstellte, [wurde nun abgewiesen](https://correctiv.org/in-eigener-sache/2025/12/19/gericht-correctiv-recherche-geheimplan-gegen-deutschland-klagen-gescheitert/).
+
+Hannah Vos and Vivian Kube von FragDenStaat erklären [in ihrem Vortrag](https://media.ccc.de/v/39c3-wer-hat-angst-vor-dem-neutralitatsgebot) auf dem Congress den verfassungsrechtlichen Hintergrund des Neutralitätsgebots. Nach deutschem Gemeinnützigkeitsrecht dürfen sich gemeinnützige Organisationenen sich nicht parteipolitisch betätigen. Nur ab wann etwas parteipolitisch ist, lässt sich immer schwieriger abgrenzen, wenn einzelne Parteien mit ihren Aussagen und Handeln selbst gegen das Grundgesetz und gegen Menschenrechte handeln, und es daher auch ein Gebot der Zivilcourage ist, sie dafür zu kritisieren. Mit [Gegenrechtsschutz](https://gegenrechtsschutz.de) gibt es ein Angebot, sich gegen Rechtsmissbrauch zur Wehr zu setzen.
+
+### Verbotsverfahren
+"PDFs sind der Ort, an den Daten zum Sterben gehen." - das AfD-Gutachten des Verfassungsschutzes, das Belege für die Verfassungsfeindlichkeit der Partei sammelte, gab es nur als 1108 schlecht gescannte Seiten PDF. Die Datenjournalisten haben ihren Weg [dokumentiert](https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten-a-4d872db2-e64e-4f4a-92fc-8548117654d5), wie sie in teils mühsamer Handarbeit den Inhalt aus diesen Scans als maschinenlesbar befreithaben, um so schließlich auf Basis dieser [eine interaktive Anwendung](https://www.spiegel.de/politik/deutschland/afd-ist-rechtsextrem-hier-sind-die-belege-des-verfassungsschutzes-a-b5fa40e4-a54e-410a-8cc7-ade35d09f77c) programmieren zu können, mit der sich die mehr als 1100 Zitate aus Reden, Posts und Publikationen von Parteifunktionären nach z.B. Begriffen und Personen durchsuchen lassen. Auch Robert Misik [hat auf seinem Blog](https://steady.page/de/vernunft-und-ekstase/posts/563600fc-9994-4a53-9bad-01a831477507) die Zitate aus dem Gutachten analysiert und stellt selbst fest, wie sehr man sich schon an diese verachtende Sprache gewöhnt hat und meint "Die Gewöhnung ist der größte Feind der Zivilisiertheit".
+
+### Deutscher Trumpismus
+Gewöhnt haben wir uns auch schon an diese beiden hier. Wäre er Fußballtrainer, hätten die Medien ihn längst nieder geschrieben und er wäre schon lange entlassen, so kann er sein Schandwerk ungestört weiter treiben, [der Podcast Firewall rekonstruiert](https://www.spiegel.de/politik/deutschland/jens-spahn-eine-karriere-in-der-grauzone-podcast-firewall-a-5df277b5-854a-41b4-92d2-d5fe1753abb7), wie Jens Spahn so aufsteigen und alle Affären (z.B. Kauf seiner Villa, private Investments und Maskenbeschaffung) überstehen konnte und welche Rolle sein Netzwerk dabei spielt.
+
+Schrapnellentapir, ich hör dir trapsen: die deutsche Wirtschaftsministerin Katharina Reiche will am Gipfel "Moving Mountains", einem exklusiven Treffen von Politikern und Investoren im österreichischen Seefeld in den Tiroler Bergen, nur als Privatperson teilgenommen haben. Blöd nur, dass sie in der 80-seitigen Broschüre der Konferenz explizit als "Bundesministerin für Wirtschaft und Energie" ausgewiesen wird. Als Reaktion auf auf die [Kleine Anfrage](https://dip.bundestag.de/vorgang/teilnahme-der-bundesministerin-f%C3%BCr-wirtschaft-und-energie-katherina-reiche-an/328456) der Grünen, beharrt das Ministerium aber trotzdem weiterhin, dass die Teilnahme rein privat gewesen wäre.
+
+### Lobbyismus
+Bereits 1982 war geplant, das gesamte Telefonnetz der BRD auf Glasfaser umzustellen. Nur wurde das Vorhaben nach dem Regierungswechsel [gestoppt](https://jacobin.de/artikel/internet-glasfaser-cdu-kohl-rotfunk-infrastruktur-computer-rechner) und lieber flächendeckend veraltete Koaxial-Kupferkabel verlegt, als technische Voraussetzung für die Einführung des Privatfernsehens. Mit Folgen bis heute - erfolgten 2021 gerade mal bei 15 Prozent der Breitbanddatenübertragung mittels Glasfaser, waren es 2024 immerhin an die 40 Prozent, aber immer noch deutlich unter dem EU-Durchschnitt von fast 70 Prozent.
+
+Die Einigung der EU-Institutionen bei der Gentechnik-Reform sieht vor, dass die Kennzeichnungspflicht für zahlreiche Gentechnikpflanzen in Nahrungsmitteln [gekippt wird](https://taz.de/EU-Einigung-zu-Gentechnik-Lebensmitteln/!6135201/). Noch muss im EU-Rat final für die Reform gestimmt werden, sollte sie aber kommen, würden die Saatgutkonzerne noch mehr Macht gewinnen, da sich Gentech-Pflanzen patentieren lassen. Züchter dürfen dann dieses Saatgut nur mit Erlaubnis der Rechteinhaber weiterentwickeln. Mit [Terminator-Technologien](https://de.wikipedia.org/wiki/Genetic_Use_Restriction_Technology), bei denen die Samen solcher Pflanzen direkt unfruchtbar sind, wäre der Fall sogar direkt ausgeschlossen. Die biologische Vielfalt würde so oder so gefährdet. Auch wenn sich Gen-manipulierte unkontrolliert ausbreiten und dabei nicht-patentierte Pflanzen immer weiter verdrängen, wäre das der Fall. Die Konzerne würden sich wahrscheinlich eine Kombination aus beiden Effekten wünschen: patientierte Pflanzen verdrängen alle anderen, können aber von den Landwirte selbst nicht vermehrt werden.
+
+### Lieferkettengesetz
+Das Deutschland die deutliche Abschwächung des EU-Lieferkettengesetzes unterstützt, war selbst regierungsintern umstritten, wie nun interne Dokumente [offen legen](https://www.focus.de/earth/lieferkettengesetz-im-entscheidenden-moment-sagt-der-deutsche-vertreter-nichts_e7c610b9-5f6e-48e2-9515-94fbc1062edd.html), selbst der gefundene Kompromiss zwischen den Koalitionspartnern wurde im entscheidenden Abstimmungsmoment nicht eingehalten, die Abschwächung war auch schon nur durch eine rechte Mehrheit im EU-Parlament [zu Stande gekommen](https://www.heise.de/news/EU-einigt-sich-auf-abgeschwaechtes-Lieferkettengesetz-11107721.html).
+
+### Bundespolitik
 * Die neue deutsche Kriegsmaschine
   https://correctiv.org/aktuelles/sicherheit-und-verteidigung/2025/12/17/neue-deutsche-kriegsmaschine-miliaer-aufruestung-bundeswehr-verteidigung/
-* Großer Datensatz zu Steueroasen – Sachsen-Anhalt betroffen?
-  https://www.zeit.de/news/2025-12/26/grosser-datensatz-zu-steueroasen-sachsen-anhalt-betroffen
-* Amtsgeheimnis raus, Datenhalde rein: was die Informationsfreiheit in Österreich bringt
-  https://media.ccc.de/v/39c3-amtsgeheimnis-raus-datenhalde-rein-was-die-informationsfreiheit-in-osterreich-bringt
-* Ein Dokument wie ein Fiebertraum: Die "Akte AfD" führt uns vor Augen, woran wir uns schon gewöhnt haben.
-  https://steady.page/de/vernunft-und-ekstase/posts/563600fc-9994-4a53-9bad-01a831477507
-  https://climatejustice.global/@parents4future/115804860700017748
-  * Die Geschichte hinter der Geschichte: Wie wir mehr als 1100 AfD-Zitate digitalisierten
-    https://www.spiegel.de/politik/deutschland/afd-wie-wir-das-gutachten-des-verfassungsschutzes-durchsuchbar-machten-a-4d872db2-e64e-4f4a-92fc-8548117654d5
-    https://norden.social/@wahlatlas/115809310767682926
-* Wer hat Angst vor dem Neutralitätsgebot?
-  https://media.ccc.de/v/39c3-wer-hat-angst-vor-dem-neutralitatsgebot
 * Große Supermarktketten: Grüne fordern Pflicht-App für Preisvergleich
   https://www.tagesschau.de/wirtschaft/gruene-lebensmittel-preise-app-100.html
   https://chaos.social/@uli/115791432888124282
-
-### Lobbyismus
-* Die Gentechnik-Reform der EU zwingt Konsumenten Nahrungsmittel auf, die sie nicht wollen. Saatgutkonzerne werden ihre Macht durch Patente erweitern.
-  https://taz.de/EU-Einigung-zu-Gentechnik-Lebensmitteln/!6135201/
-* Lahmes Internet? Helmut Kohl ist schuld!
-  https://jacobin.de/artikel/internet-glasfaser-cdu-kohl-rotfunk-infrastruktur-computer-rechner
-### Lieferkettengesetz
-* EU einigt sich auf abgeschwächtes Lieferkettengesetz
-  https://www.heise.de/news/EU-einigt-sich-auf-abgeschwaechtes-Lieferkettengesetz-11107721.html
-* EU-Ärger: Im entscheidenden Moment sagt der deutsche Vertreter einfach nichts
-  https://www.focus.de/earth/lieferkettengesetz-im-entscheidenden-moment-sagt-der-deutsche-vertreter-nichts_e7c610b9-5f6e-48e2-9515-94fbc1062edd.html
+* Jobcenter-Stories: Die Weiterbildungslotterie
+  https://fragdenstaat.de/artikel/exklusiv/2025/12/die-weiterbildungslotterie/
 
 ## Gesundheit
 * Digitalstrategie: Krankenkassen wollen mehr Zugang zu Daten, Ärzte warnen
