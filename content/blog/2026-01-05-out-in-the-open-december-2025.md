@@ -214,45 +214,36 @@ Ein [Forschungs-Paper](https://heigit.org/new-paper-estimating-road-speed-classe
 Eine statistische Auswertung zu Zugverspätungen in Europa für das Jahr 2025 liefert [chu chuu](https://chuuchuu.com/2025wrapped) - warum ist Deutschland [auf der Karte](https://bsky.app/profile/helge.at/post/3madtgnsntk2c) nur so rot?.
 
 ## Klima
-* Wie schon im Amazonas: Tropenwälder stoßen inzwischen mehr CO₂ aus, als sie aufnehmen
-  https://www.tagesspiegel.de/wissen/wie-schon-im-amazonas-tropenwalder-stossen-inzwischen-mehr-co2-aus-als-sie-aufnehmen-15004884.html
-* Ambitionierte Pfade zur Klimaneutralität in Deutschland sind möglich
-  https://www.oeko.de/news/aktuelles/ambitionierte-pfade-zur-klimaneutralitaet-in-deutschland-sind-moeglich/
-* Wir bieten 1 Million Euro für einen Klima-Nobelpreis
-  https://de.blog.ecosia.org/klima-nobelpreis/
-  https://climatejustice.social/@psy4f/115719294362701879
-* Der Klima- und Transformationsfonds benachteiligt private Haushalte – zu dem Ergebnis kommt eine wissenschaftliche Denkfabrik.
-  https://taz.de/Klima--und-Transformationsfonds/!6138828/
-* Humify: Wie ein Startup Böden heilen und CO2 speichern will
-  https://www.cleanthinking.de/humify-boeden-heilen-massenhaft-co2-speichern/ 
-* Prognose zur Gletscherschmelze: Weltweit könnten schon bald Tausende Gletscher schmelzen
-  https://www.nature.com/articles/s41558-025-02513-9
-  https://www.spiegel.de/wissenschaft/gletscherschmelze-weltweit-koennten-schon-bald-tausende-gletscher-schmelzen-a-1331985c-5a36-4e1e-a653-6256bbaa4251#ref=rss
-  https://bsky.app/profile/newsforfuture.bsky.social/post/3ma27c4k2wy2z
-* Überraschung des Jahres 2025: Die unterschätzte Revolution
-  https://www.klimareporter.de/strom/die-unterschaetzte-revolution
-* Die Süßwasserreserven in Europa versiegen wegen der Klimakrise! 
-  https://www.theguardian.com/environment/2025/nov/29/climate-crisis-depleting-europe-groundwater-reserves-analysis
-  https://bsky.app/profile/michaelbonvalot.bsky.social/post/3m7a76na4v22m
-* Manometer! Wie man den Druck aus der klimapolitischen Debatte nehmen kann
-  https://www.derstandard.at/story/3000000298717/wie-man-den-druck-aus-der-klimapolitischen-debatte-nehmen-kann
-* Unequal evidence and impacts, limits to adaptation: Extreme Weather in 2025
-  https://www.worldweatherattribution.org/unequal-evidence-and-impacts-limits-to-adaptation-extreme-weather-in-2025/
-  https://bsky.app/profile/frediotto.bsky.social/post/3mb7ux2z5dc2c
-* Wie die Erderwärmung Extremwetterereignisse 2025 beeinflusst hat
-  https://www.deutschlandfunk.de/wie-hat-die-erderwaermung-extremwetterereignisse-2025-beeinflusst-100.html
-* Der Klimawandel ist in den Alpen besonders deutlich spürbar: steigende Temperaturen, weniger Schnee. Eine BR-Datenanalyse zeigt, was das für den Wintersport bedeutet.
-  https://schnee-war-gestern.interaktiv.br.de
-* Wenn der Amoc zusammenbricht: "Es droht ein langer, arktischer Winter"
-  https://www.t-online.de/nachrichten/panorama/wetter/id_101038446/klima-entwicklung-in-deutschland-droht-ein-langer-arktischer-winter-.html?utm_source=app-push
-* Klimaforscherin: "Es werden noch viel mehr Lebensmittel viel teurer werden"
-  https://www.derstandard.de/story/3000000301472/klimaforscherin-es-werden-noch-viel-mehr-lebensmittel-viel-teurer-werden
-* Cosmic ray, the Climate Catastrophe and Trains
-  https://media.ccc.de/v/39c3-ccc-t-cosmic-ray-the-climate-catastrophe-and-trains
-* Klimaupdate mit dem FragDenStaat Climate Helpdesk
-  https://media.ccc.de/v/39c3-brennende-walder-und-kommentarspalten-klimaupdate-mit-bits-baume-und-dem-fragdenstaat-climate-helpdesk
-* Fossile Industrie liebt KI!
-  https://media.ccc.de/v/39c3-fossile-industrie-liebt-ki
+### Gletscherschmelze
+Eine interaktive [BR-Datenanalyse](https://schnee-war-gestern.interaktiv.br.de) zeigt, was der Klimawandel für den Wintersport in den Alpen bedeutet.
+
+[Forschende prognostizieren](https://www.spiegel.de/wissenschaft/gletscherschmelze-weltweit-koennten-schon-bald-tausende-gletscher-schmelzen-a-1331985c-5a36-4e1e-a653-6256bbaa4251#ref=rss), dass je nach Ausmaß der Erderwärmung weltweit schon im Zeitraum von 2041 bis 2055 bald jährlich zwischen 2000 und 4000 Gletscher verschwinden könnten. Im Jahr 2100 könnte Mitteleuropa nur noch 20 Gletscher haben und weltweit gäbe weniger als zehn Prozent der heutigen Gletscher.
+
+### Wasser
+[Die Analyse von Satellitenaufnahmen](https://www.theguardian.com/environment/2025/nov/29/climate-crisis-depleting-europe-groundwater-reserves-analysis) von April 2002 bis Dezember 2024 hat ergeben, dass Europa wegen der Klimakrise drastisch Grundwasser verliert. 
+
+Wie man mit kosmischen Neutronen, [Cosmic-Ray Neutron-Sensing](https://www.ufz.de/index.php?de=48530), die Bodenfeuchte bestimmen kann. Das Prinzip wurde schon in den 1980-ern entdeckt, jetzt erst sind die Kosten für die Technik soweit gesunken, das es auch eingesetzt werden kann. Wie man auch [im Vortrag](https://media.ccc.de/v/39c3-ccc-t-cosmic-ray-the-climate-catastrophe-and-trains) auf dem Congress sieht, können die Messgeräte nicht invasiv auch in Zügen, Schiffen oder auch Zeppelins verbaut werden kann, um flächendeckend zu messen.  
+
+### Folgen
+Bisher tragen Winde vom Atlantik feuchte und milde Luft nach Mitteleuropa. Wenn sich diese Amoc-Strömungen weiter abschwächen, könnte ein stabiles Hochdruckgebiet über Osteuropa durch die Rotation Kaltluft vom Nordpol und Sibirien nach Mitteleuropa [schaufeln](https://www.t-online.de/nachrichten/panorama/wetter/id_101038446/klima-entwicklung-in-deutschland-droht-ein-langer-arktischer-winter-.html). Wenn das Meereis weiter schmilzt, gelangt zudem auch mehr warme Luft der Ozeane in die Stratosphäre und störe die Polarwinde, die dadurch auch nach Süden, also ebenfalls nach Mitteleuropa gelangen können.
+
+Die Klimakrise bedroht auch die Ernährungssicherheit und die Entwicklung der Lebensmittelpreise. Schon in der Vergangenheit haben schwere Dürren in Spanien zu Knappheit bei Gemüse und Obst in den Supermärkten auch in Großbritannien geführt. Olivenöl, Kaffee und Kakao sind jetzt schon weltweit teurer geworden. [Es zeichnet sich ab](https://www.derstandard.de/story/3000000301472/klimaforscherin-es-werden-noch-viel-mehr-lebensmittel-viel-teurer-werden), dass in Zukunft noch mehr Lebensmittel viel teurer werden.
+
+### 2025
+Fast alle weltweit neugebauten Kraftwerke sind erneuerbar, das Comeback der Atomkraft bleibt aus, Elektromobilität ist in der Fläche angekommen und der Greentech-Markt wächst global sind nur einige [der positiven Überraschung des Jahres 2025](https://www.klimareporter.de/strom/die-unterschaetzte-revolution).
+
+2025 ist wohl nach vorläufigen Zahlen das zweitwärmste Jahr seit Wetteraufzeichnung. Durch die Klimakrise fallen Extremwettereignisse wie der Hurrikan "Melissa" im Oktober [viel stärker aus](https://www.deutschlandfunk.de/wie-hat-die-erderwaermung-extremwetterereignisse-2025-beeinflusst-100.html). Die verursachten Schäden in Jamaika machen mehr als 40% seines Inlandsprodukts aus. Die Folgen des menschengemachten Klimawandels sind zudem extrem ungleich verteilt, geografisch als auch sozial. Es trifft meist den globalen und Süden und die eh schon Marginalisierten. Aber selbst schon genaue wissenschaftliche Erkenntnisse über Zusammenhänge [hängen davon ab](https://www.worldweatherattribution.org/unequal-evidence-and-impacts-limits-to-adaptation-extreme-weather-in-2025/), wie weit der globale Norden ein Interesse hat, in ihre Erforschung zu investieren.
+
+### Politik
+Effizienz und Suffizienz oder doch lieber Technologie? [Ein Studie](https://www.oeko.de/news/aktuelles/ambitionierte-pfade-zur-klimaneutralitaet-in-deutschland-sind-moeglich/) hat beide Strategien untersucht. Ihre Modellierungen haben ergeben, dass die Bruttoemissionen des CARETech-Ansatzes rund 20 Millionen Tonnen über jenen vom CARESupreme-Szenario liegen. Letzteres setzt auf Resourcenschonung und sinkenden Energieverbrauch und Konsum mit dem Ziel eines Nullwachstums ab 2035 und ist damit besser für das Ziel der Klimaneutralität geeignet als die Alternative, die mehr Energiebedarf bedeuten würde.
+
+Da CARESupreme aber viel mehr gesellschaftliche Anstrengung bedeutet und dafür auch Macht und Privilegien aufgegeben werden müsste, ist es fraglich, ob dieses Pfad konsequent eingeschlagen wird. Schon am Umgang mit dem Klima- und Transformationsfonds (KTF), der eigentlich das wichtigste finanzielle Steuerungsinstrument für die Klimaneutralität sein soll, sieht man, dass soziale Aspekte nahezu ignoriert und stattdessen vor allem Unternehmen und Wohlhabende begünstigt werden, wie eine Analyse der wissenschaftlichen Denkfabrik Zukunft KlimaSozial [nachweist](https://taz.de/Klima--und-Transformationsfonds/!6138828/).
+
+Mit dem "Manometer!" messen Klimafakten und Der STANDARD nach Selbstbeschreibung monatlich den gesellschaftlichen Druck in der deutschsprachigen Klimadebatte. [In der zweiten Ausgabe](https://www.derstandard.at/story/3000000298717/wie-man-den-druck-aus-der-klimapolitischen-debatte-nehmen-kann) werden die Ergebnisse der COP thematisiert.
+
+Auf dem Congress wurde [in einem Vortrag](https://media.ccc.de/v/39c3-brennende-walder-und-kommentarspalten-klimaupdate-mit-bits-baume-und-dem-fragdenstaat-climate-helpdesk) der [FragDenStaat Climate Helpdesk](https://fragdenstaat.de/aktionen/climate-helpdesk/) vorgestellt sowie einige der schon durchgeführten Klimarecherchen auf Grundlage der befreiten Umweltinformationen. 
+
+Es gibt zwar schon mit dem Right Livelihood Award den [Alternativen Nobelpreis](https://www.swp.de/panorama/right-livelihood-award-2025-alternativer-nobelpreis-was-ist-das-warum-gibt-es-den-preis-78486819.html), der ins Leben gerufen wurde, weil bereits 1980 abgelehnt wurde, zusätzliche Nobelpreise für Ökologie sowie für die Überwindung von Armut zu vergeben. Nun gibt es einen [neuerlichen Versuch](https://de.blog.ecosia.org/klima-nobelpreis/) von ecosia einen Klima-Nobelpreis bei den offiziellen Nobelpreisen unterzubringen, um eben dem Klimathema die Geltung zu verschaffen, die es benötigt.
 
 ## Überwachung
 * Neues Polizeigesetz: Berlin wirft die Freiheit weg
@@ -283,6 +274,8 @@ Eine statistische Auswertung zu Zugverspätungen in Europa für das Jahr 2025 li
 * Energieeffizienzregister für Rechenzentren (RZReg)
   https://www.bundeswirtschaftsministerium.de/RZReg/rechenzentrums-register.html
   https://23.social/@thomasfricke/115810045804082547
+* Fossile Industrie liebt KI!
+  https://media.ccc.de/v/39c3-fossile-industrie-liebt-ki
 
 ### Neue Modelle
 * Neue, offene Modellfamilie aus Frankreich: Mistral 3 ist da
