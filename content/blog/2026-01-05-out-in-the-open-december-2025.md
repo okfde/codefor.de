@@ -60,7 +60,7 @@ In Dänemark [plant dagegen](https://www.heise.de/news/Von-Word-und-Excel-zu-Lib
 
 Ein Teil der Neujahrsvorsätze sollte es für 2026 deshalb auch sein, den inneren Schweinehund zu überwinden, und von Big-Tech-Lösungen zu demokratiefreundlichen digitalen Alternativen zu wechseln. Um dabei zu helfen, wurde auf dem Chaos Communication Congress dafür der [Digital Independence Day](https://di.day) (DI-Day) ausgerufen. Jeden ersten Sonntag im Monat soll man nun in Angriff nehmen, Dienst für Dienst umzustellen, dafür gibt es auch regionale [Unterstützungsangebote](https://termine.di.day).
 
-Das Aufrechterhalten dezentraler Netzwerke ist nicht so sehr ein technisches als ein organisatorisches Problem. Denn zunächst braucht es hierfür Menschen und Organisationen, die auch ohne direkten Vorteil bereit sind einen Teil der Infrastruktur zu tragen, was ein Mindestmaß an Zeit und Geld bedarf. Was schnell zu einem [Kollektivgutproblem](https://de.wikipedia.org/wiki/Trittbrettfahrerproblem) bei der Selbstorganisation wird: Team - "toll, ein anderer machts". Die dadurch bedingte Tendenz zur Zentralisierung erkennt man auch bei Mastodon: 7750 Server für 9,5 Millionen Konten (wie man aus den Statistiken des [Fediverse Observers](https://mastodon.fediverse.observer/stats) ablesen kann), davon konzentrieren sich [laut Vortrag](https://media.ccc.de/v/39c3-auf-die-dauer-hilft-nur-power-herausforderungen-fur-dezentrale-netzwerke-aus-sicht-der-soziologie#t=1661) des Soziologen Marco Wähner 80 Prozent der Nutzenden auf 14 Server-Instanzen. 33 Prozent aller Accounts wurden auf der bekanntesten Instanz mstdn.social angelegt. Damit mehr Organisationen, Vereinen und NGOs solche Server betreiben bräuchte es einerseits strukturelle Förderung andererseits aber auch eine Rechtssprechung, die die Förderung digitaler Infrastrukturen als gemeinnützigen Zweck anerkennt und so die Rechtsunsicherheit für die Betreiber ausräumt. Eine Tatsache, vor der man die Augen auch nicht verschließen sollte: von den Ende 2023 einst 2,6 Millionen aktiven Nutzern sind Ende 2025 noch 760.000 übrig (wie man in den Diagrammen von [Mastodon Analytics](https://mastodon-analytics.com) ablesen kann). Quantität ist sicher nicht alles, und man sollte auch nicht mit Anbietern versuchen zu konkurrieren, die mit süchtigmachenden Algorithmen ihre Nutzenden möglichst lange auf ihren Plattformen halten und vielleicht zu mehr aber nicht unbedingt immer hochwertigen Reaktionen verleiten, aber Sichtbarkeit und Relevanz sind dann doch noch Kriterien, um sich auf einer Plattform zu engagieren. Hier könnte eventuell eine Verpflichtung helfen, dass öffentliche Einrichtungen mindestens ein vollbespielten Account auf Mastodon haben sollten.
+Das Aufrechterhalten dezentraler Netzwerke ist nicht so sehr ein technisches als ein organisatorisches Problem. Denn zunächst braucht es hierfür Menschen und Organisationen, die auch ohne direkten Vorteil bereit sind einen Teil der Infrastruktur zu tragen, was ein Mindestmaß an Zeit und Geld bedarf. Was schnell zu einem [Kollektivgutproblem](https://de.wikipedia.org/wiki/Trittbrettfahrerproblem) bei der Selbstorganisation wird: Team - "toll, ein anderer machts". Die dadurch bedingte Tendenz zur Zentralisierung erkennt man auch bei Mastodon: 7750 Server für 9,5 Millionen Konten (wie man aus den Statistiken des [Fediverse Observers](https://mastodon.fediverse.observer/stats) ablesen kann), davon konzentrieren sich [laut Vortrag](https://media.ccc.de/v/39c3-auf-die-dauer-hilft-nur-power-herausforderungen-fur-dezentrale-netzwerke-aus-sicht-der-soziologie) des Soziologen Marco Wähner 80 Prozent der Nutzenden auf 14 Server-Instanzen. 33 Prozent aller Accounts wurden auf der bekanntesten Instanz mstdn.social angelegt. Damit mehr Organisationen, Vereinen und NGOs solche Server betreiben bräuchte es einerseits strukturelle Förderung andererseits aber auch eine Rechtssprechung, die die Förderung digitaler Infrastrukturen als gemeinnützigen Zweck anerkennt und so die Rechtsunsicherheit für die Betreiber ausräumt. Eine Tatsache, vor der man die Augen auch nicht verschließen sollte: von den Ende 2023 einst 2,6 Millionen aktiven Nutzern sind Ende 2025 noch 760.000 übrig (wie man in den Diagrammen von [Mastodon Analytics](https://mastodon-analytics.com) ablesen kann). Quantität ist sicher nicht alles, und man sollte auch nicht mit Anbietern versuchen zu konkurrieren, die mit süchtigmachenden Algorithmen ihre Nutzenden möglichst lange auf ihren Plattformen halten und vielleicht zu mehr aber nicht unbedingt immer hochwertigen Reaktionen verleiten, aber Sichtbarkeit und Relevanz sind dann doch noch Kriterien, um sich auf einer Plattform zu engagieren. Hier könnte eventuell eine Verpflichtung helfen, dass öffentliche Einrichtungen mindestens ein vollbespielten Account auf Mastodon haben sollten.
 
 ### Vergesellschaften
 Zur digitalen Infrastruktur gehören nicht nur Software und Social Media sondern eben auch Mobilfunkmasten, Glasfasernetze und Rechenzentren. Auf Mastodon [gab es eine Diskussion darüber](https://ruhr.social/@sonjalemke/115719051561648496), wie sich diese ebenfalls vergesellschaften, also in öffentlichen Eigentum überführen ließen, um sie so aus der Profitlogik raus und in die Bedürfnisbefriedigung der Allgemeinheit rein zu bekommen.
@@ -104,7 +104,7 @@ Das Faxen noch lange nicht dicke hat die deutsche Verwaltung. Diese hält aus Da
 Als Zivilgesellschaft und Politik selber souverän überprüfen können, ob Richter:innen das Recht auch wirklich im Sinne der Legislative anwenden, geht nur, wenn die zugehörigen Urteile frei zugänglich sind, meinen die Vortragenden [diesen Talks](https://media.ccc.de/v/39c3-endlich-maschinenlesbare-urteile-open-access-fur-juristen). Von den über einer Million Urteilen allein in 2024 sind gerade mal geschätzt 10.000 bei der von einem gemeinnützigen Verein betriebenen Plattform [openjur.de](https://openjur.de) offen verfügbar. Weitere 20.000 gibt es nur hinter Paywall, weitere 10.000 kann man bei einem Verlag erwerben. Ein offizielles Angebot gibt es keines. Auf [offeneurteile.de](https://www.offeneurteile.de) kann man, gestützt durch gemeinnützigen Organisationen und Unternehmen wie openjur.de, Anita Legal GmbH, FragDenStaat und Transparency International Deutschland e. V., ein Anfrage zur Veröffentlichung eines Urteils stellen. Die Plattform kümmert sich dann um die Kommunikation mit der Gerichtsverwaltung und stellt dann das hoffentlich so befreite Urteil auf openjur.de. Alles Krücken, weil es keine verbindliche Pflicht gibt, Urteile Open Access zu stellen und damit im Prinzip auch gegen die Grundsätze der Rechtsstaatlichkeit verstößt.
 
 ## Digitaler Omnibus
-Thomas Lohninger und Ralf Bendrath arbeiten [in ihrem Vortrag](https://media.ccc.de/v/39c3-throwing-your-rights-under-the-omnibus-how-the-eu-s-reform-agenda-threatens-to-erase-a-decade-of-digital-rights#t=1718) auf dem Congress heraus, wie die Omnibus-Plänen der EU-Kommission die in den letzten 10 Jahre durch die Zivilgesellschaft erkämpften Digitalrechte wieder zurückdrehen könnte. Auch bei Open Data drohen Rückschritte (ab 28:30 im Video), da die Empfehlung, Standardlizenzen zu nutzen gestrichen wurde, also auch eine Passage ergänzt wurde, das Behörden für große Unternehmen Sonderbedingungen für die Nutzung der offenen Daten festlegen dürfen sollen, was die Open Definition aufweichen würde, die solche Restriktionen nicht vorsieht. Gefährlich könnte auch der geplante Digital Networks Act werden, da er potenziell die [Netzneutralität](https://de.wikipedia.org/wiki/Netzneutralit%C3%A4t) in Frage stellt. 
+Thomas Lohninger und Ralf Bendrath arbeiten [in ihrem Vortrag](https://media.ccc.de/v/39c3-throwing-your-rights-under-the-omnibus-how-the-eu-s-reform-agenda-threatens-to-erase-a-decade-of-digital-rights) auf dem Congress heraus, wie die Omnibus-Plänen der EU-Kommission die in den letzten 10 Jahre durch die Zivilgesellschaft erkämpften Digitalrechte wieder zurückdrehen könnte. Auch bei Open Data drohen Rückschritte (ab 28:30 im Video), da die Empfehlung, Standardlizenzen zu nutzen gestrichen wurde, also auch eine Passage ergänzt wurde, das Behörden für große Unternehmen Sonderbedingungen für die Nutzung der offenen Daten festlegen dürfen sollen, was die Open Definition aufweichen würde, die solche Restriktionen nicht vorsieht. Gefährlich könnte auch der geplante Digital Networks Act werden, da er potenziell die [Netzneutralität](https://de.wikipedia.org/wiki/Netzneutralit%C3%A4t) in Frage stellt. 
 
 Eine umfangreiche Analyse des Gesetzesvorschlag [gibt es von noyb](https://noyb.eu/en/digital-omnibus-first-analysis-select-gdpr-and-eprivacy-proposals-commission). Im [Interview](https://netzpolitik.org/2025/dsgvo-reform-beim-datenschutz-ist-deutschland-inzwischen-dem-silicon-valley-naeher-als-dem-rest-der-eu/) kritisiert Max Schrems von noyb auch die "riesige Compliance-Industrie [in Deutschland], die immer neue "Probleme" zum Überleben braucht". Diese und Anwälte können mit Unsicherheit für Unternehmen aktuell sehr viel Geld verdienen. Die Datenschutzrechte aus der DSGVO wie Zweckbindung, Transparenz, Datenrichtigkeit oder Datenminimierung haben gerade durch das Aufkommen von KI nochmal an Relevanz gewonnen, weil es nun viel leichter passieren kann, das z.B. über Personen unrichtige Behauptungen von Chatbots ausgegeben werden. Diese Rechte und auch das Auskunftsrecht jetzt abräumen zu wollen, nur weil sie für die KI-System scheinbar nicht umsetzbar sind und damit der "Innovation" im Weg stünde, sind für Schrems jedenfalls keine validen Argumenten.
 
@@ -222,7 +222,7 @@ Eine interaktive [BR-Datenanalyse](https://schnee-war-gestern.interaktiv.br.de) 
 ### Wasser
 [Die Analyse von Satellitenaufnahmen](https://www.theguardian.com/environment/2025/nov/29/climate-crisis-depleting-europe-groundwater-reserves-analysis) von April 2002 bis Dezember 2024 hat ergeben, dass Europa wegen der Klimakrise drastisch Grundwasser verliert. 
 
-Wie man mit kosmischen Neutronen, [Cosmic-Ray Neutron-Sensing](https://www.ufz.de/index.php?de=48530), die Bodenfeuchte bestimmen kann. Das Prinzip wurde schon in den 1980-ern entdeckt, jetzt erst sind die Kosten für die Technik soweit gesunken, das es auch eingesetzt werden kann. Wie man auch [im Vortrag](https://media.ccc.de/v/39c3-ccc-t-cosmic-ray-the-climate-catastrophe-and-trains) auf dem Congress sieht, können die Messgeräte nicht invasiv auch in Zügen, Schiffen oder auch Zeppelins verbaut werden kann, um flächendeckend zu messen.  
+Wie man mit kosmischen Neutronen, [Cosmic-Ray Neutron-Sensing](https://www.ufz.de/index.php?de=48530), die Bodenfeuchte bestimmen kann. Das Prinzip wurde schon in den 1980-ern entdeckt, aber jetzt erst ist die Technik soweit erschwinglich geworden, dass es auch eingesetzt werden kann. Wie man auch [im Vortrag](https://media.ccc.de/v/39c3-ccc-t-cosmic-ray-the-climate-catastrophe-and-trains) auf dem Congress sieht, können die Messgeräte nicht invasiv auch in Zügen, Schiffen oder auch Zeppelins verbaut werden kann, um flächendeckend zu messen.  
 
 ### Folgen
 Bisher tragen Winde vom Atlantik feuchte und milde Luft nach Mitteleuropa. Wenn sich diese Amoc-Strömungen weiter abschwächen, könnte ein stabiles Hochdruckgebiet über Osteuropa durch die Rotation Kaltluft vom Nordpol und Sibirien nach Mitteleuropa [schaufeln](https://www.t-online.de/nachrichten/panorama/wetter/id_101038446/klima-entwicklung-in-deutschland-droht-ein-langer-arktischer-winter-.html). Wenn das Meereis weiter schmilzt, gelangt zudem auch mehr warme Luft der Ozeane in die Stratosphäre und störe die Polarwinde, die dadurch auch nach Süden, also ebenfalls nach Mitteleuropa gelangen können.
@@ -246,90 +246,57 @@ Auf dem Congress wurde [in einem Vortrag](https://media.ccc.de/v/39c3-brennende-
 Es gibt zwar schon mit dem Right Livelihood Award den [Alternativen Nobelpreis](https://www.swp.de/panorama/right-livelihood-award-2025-alternativer-nobelpreis-was-ist-das-warum-gibt-es-den-preis-78486819.html), der ins Leben gerufen wurde, weil bereits 1980 abgelehnt wurde, zusätzliche Nobelpreise für Ökologie sowie für die Überwindung von Armut zu vergeben. Nun gibt es einen [neuerlichen Versuch](https://de.blog.ecosia.org/klima-nobelpreis/) von ecosia einen Klima-Nobelpreis bei den offiziellen Nobelpreisen unterzubringen, um eben dem Klimathema die Geltung zu verschaffen, die es benötigt.
 
 ## Überwachung
-* Neues Polizeigesetz: Berlin wirft die Freiheit weg
-  https://netzpolitik.org/2025/neues-polizeigesetz-berlin-wirft-die-freiheit-weg/
-  https://www.rbb24.de/politik/beitrag/2025/12/berlin-abgeordnetenhaus-neues-polizeigesetz-beschlossen.html
-  https://c-tube.c-base.org/w/mvzmzQJop2Ga229wH2uvnK
-* Die Schweiz war klüger: Der Tech-Konzern Palantir blitzte ab
-  https://www.republik.ch/2025/12/08/wie-hartnaeckig-palantir-die-schweiz-umwarb 
-* Databroker Files: Handy-Daten exponieren Begleiter von Emmanuel Macron
-  https://netzpolitik.org/2025/databroker-files-handy-daten-exponieren-begleiter-von-emmanuel-macron/
-  * Sicherheitsbehörden und Databroker: Bundesregierung macht Datenkauf zum Staatsgeheimnis
-    https://netzpolitik.org/2025/sicherheitsbehoerden-und-databroker-bundesregierung-macht-datenkauf-zum-staatsgeheimnis/
-* Gutachten bescheinigt Paypal Datenschutzverstöße, Paypal weist Vorwürfe zurück
-  https://www.heise.de/news/PayPal-Gutachten-Viele-Maengel-beim-Datenschutz-11111140.html
-  https://netzpolitik.org/2025/fintech-und-datenschutz-paypal-sammelt-die-sexuellen-vorlieben-von-kunden/
-* Blackbox Palantir
-  https://media.ccc.de/v/39c3-blackbox-palantir
-  https://norden.social/@SketchnotesAG/115807720415323287
-* The Last of Us - Fighting the EU Surveillance Law Apocalypse
-  https://media.ccc.de/v/39c3-the-last-of-us-fighting-the-eu-surveillance-law-apocalypse
+### Palantir
+Ein [Graphic Recording](https://norden.social/@SketchnotesAG/115807720415323287) fasst den Inhalt [des Vortrags](https://media.ccc.de/v/39c3-blackbox-palantir) über die Blackbox Palantir schaulich zusammen. 
+
+[Ein interner Bericht](https://www.republik.ch/2025/12/08/wie-hartnaeckig-palantir-die-schweiz-umwarb) der Schweizer Armee führt alle relevanten Argumente auf, warum man als souveräner Staat Software von Palantir nicht einsetzen sollte, vor allem weil unklar ist, wer am Ende alles auf die mit Palantir geteilten Daten zugreifen könne. Man gerate in Abhängigkeit eines US-Anbieters, der auch mit Geldern der CIA gegründet wurde, und droht so Daten­hoheit und der nationalen Souveränität zu verlieren. Zumal der Einsatz der Software wahrscheinlich eh illegal sei, da die gesetzliche Grundlage für die Nutzung fehle. Und schließlich dürfe der politische Schaden und Vertrauensverlust nicht unterschätzt werden.
+
+### Gesetze
+Durch die Novelle des Berliner Polizeigesetzes Künftig darf die Polizei dortn nun unter anderem auch festinstallierte Kameras betreiben, die Bilder per KI auswerten, [aber auch vieles mehr](https://netzpolitik.org/2025/neues-polizeigesetz-berlin-wirft-die-freiheit-weg/), wie Verhaltensscanner, Gesichtersuche, Palantir-artige Datenanalysen, leichter Telefone und Laptops [überwachen können](https://www.rbb24.de/politik/beitrag/2025/12/berlin-abgeordnetenhaus-neues-polizeigesetz-beschlossen.html) (also Staatstrojaner, [für den deren Aufspielen](https://c-tube.c-base.org/w/mvzmzQJop2Ga229wH2uvnK) die Polizei künftig heimlich in Wohnungen einbrechen darf). [Auch auf EU-Ebene](https://media.ccc.de/v/39c3-the-last-of-us-fighting-the-eu-surveillance-law-apocalypse) attakiert die EU-Kommission mit ihrer internen "ProtectEU"-Sicherheitsstrategie Verschlüsselung, strebt wieder verpflichtende Vorratsspeicherung an und stärkt Europol and Frontex.
+
+### Datenhandel
+[Databroker verhökern](https://netzpolitik.org/2025/databroker-files-handy-daten-exponieren-begleiter-von-emmanuel-macron/) die Standortdaten von Millionen Menschen in Frankreich, inklusive denen von Geheimdienst- und Militärpersonal.
+
+Dass auch deutsche Sicherheitsbehörden auf solche Standortdaten zugreifen, will die Bundesregierung [nicht ausschließen](https://netzpolitik.org/2025/sicherheitsbehoerden-und-databroker-bundesregierung-macht-datenkauf-zum-staatsgeheimnis/), obwohl die Behörden dazu rechtlich nicht ermächtigt sind und damit der Ankauf dieser Daten potenziell verfassungswidrig ist.
+
+Datenschutz-Expert:innen fordern schon lange, zu verbieten, Finanztransaktionsdaten für Werbezwecke nutzen zu dürfen. [Ein Gutachten bescheinigt](https://netzpolitik.org/2025/fintech-und-datenschutz-paypal-sammelt-die-sexuellen-vorlieben-von-kunden/) Paypal nun solche [Datenschutzverstöße](https://www.heise.de/news/PayPal-Gutachten-Viele-Maengel-beim-Datenschutz-11111140.html), weil es sensible Daten ohne explizite Einwilligung speichert, und sich auch vorbehält, diese auch an Dritte weiterzugeben.
 
 ## AI Bundyt
-* Cartography of generative AI
-  https://cartography-of-generative-ai.net
-* a media-almost-archaeology on data that is too dirty for "AI"
-  https://media.ccc.de/v/39c3-a-media-almost-archaeology-on-data-that-is-too-dirty-for-ai
-  https://too-dirty-to-be-trained.net
-* Energieeffizienzregister für Rechenzentren (RZReg)
-  https://www.bundeswirtschaftsministerium.de/RZReg/rechenzentrums-register.html
-  https://23.social/@thomasfricke/115810045804082547
-* Fossile Industrie liebt KI!
-  https://media.ccc.de/v/39c3-fossile-industrie-liebt-ki
+### Wissen
+Alle Zusammenhänge, die man zu generativer KI kennen muss, auf einer [großen Themenkarte](https://cartography-of-generative-ai.net) vereint: Datensätze, Prinzip der Imitation, Fein-Tuning, Filtern, Start-Ups, Rechenkapazität, Rohmaterialien, Bergbauindustrie, Energie, Fossile Treibstoffe, CO2-Ausstoß, Hitze, Wasserverbrauch, Abfall, exponentielles Wachstum, 
+  
+Beim Aufbereiten von Daten für das Training von KIs werden diese zunächst von Ausreißern bereinigt. Aber wer legt fest, was [Abweichungen](https://too-dirty-to-be-trained.net) von der Norm sind? Mit welchen automatisierten Heuristiken die Daten gefiltert werden, so dass sie dann hinterher "gut genug" sind? Das thematisiert [dieser Vortrag](https://media.ccc.de/v/39c3-a-media-almost-archaeology-on-data-that-is-too-dirty-for-ai) auf dem CCC. Kleidergrößen aus Asien erscheinen potentiell unplausibel in den USA. Solche von sozioöknomisch kulturellen Hintergründen beeinflussten Entscheidungen werden jedenfalls dauerhaft in die technologische Infrastruktur der Zukunft fließen.
 
-### Neue Modelle
-* Neue, offene Modellfamilie aus Frankreich: Mistral 3 ist da
-  https://www.heise.de/news/Mistral-3-Vier-neue-KI-Modelle-aus-Frankreich-11100853.html
-* ChatGPT Images: OpenAI stellt neues Bildgenerierungsmodell GPT-Image-1.5 vor
-  https://www.heise.de/news/ChatGPT-Images-OpenAI-stellt-neues-Bildgenerierungsmodell-GPT-Image-1-5-vor-11118546.html
-* DeepSeek demütigt mit DeepSeekMath-V2 die Konkurrenz
-  https://www.linkedin.com/posts/andreas-becker-ba479535b_openai-und-google-haben-ab-heute-ein-massives-activity-7400613988356485120-eUGy
-### Neue Tools
-* API-first multi-agent coding assistant with CodeAct tool calling and first-class terminal support.
-  https://github.com/Furisto/construct
-  https://www.linkedin.com/posts/thomas-schubart_ive-been-building-construct-an-open-source-ugcPost-7401245293507293184-ETue
-* KI:connect.nrw, eine Weboberfläche die anonymen Zugang zu generativer KI 
-  https://chat.kiconnect.nrw/
-  https://bsky.app/profile/sell-hhu.bsky.social/post/3m7zcxciuzk2g
-* Slop Evader ist eine kostenlose Browsererweiterung, das KI-Inhalte ausblenden
-  https://www.basicthinking.de/blog/2025/12/13/browsererweiterung-ki-inhalte/
-* Waterfox positioniert sich als KI-freie Firefox-Alternative
-  https://www.heise.de/news/Waterfox-positioniert-sich-als-KI-freie-Firefox-Alternative-11121736.html
+### Neue Modelle und Tools
+Die [mit Mistral 3 veröffentlichten](https://www.heise.de/news/Mistral-3-Vier-neue-KI-Modelle-aus-Frankreich-11100853.html) neuen Open-Weight-Modelle sollen es mit der Konkurrenz aus den USA und China aufnehmen können. Das größte Modell besteht aus 675 Milliarden Parametern.
+
+Über [KI:connect.nrw](https://kiconnect.pages.rwth-aachen.de/pages/theproject/) bekommen alle Hochschulen in NRW über eine [Weboberfläche](https://chat.kiconnect.nrw/) "einen zentralen, skalierbaren und kosteneffizienten Zugang zu kommerziellen KI-Diensten". Derzeit sind Mistral Small 3.2 24B und OpenAI GPT OSS 120B angeschlossen, weitere Modelle sollen aber noch folgen. Über [Open Source-KI.nrw](https://www.oski.nrw) bekommt auch Zugang zu Open-Weight-Modellen, welche an Hochschulen in NRW gehosted werden.
+
+### Umwelt
+Betreiber von Rechenzentren mit einer nicht redundanten Nennanschlussleistung von 300 kW oder höher sind gemäß §13 Absatz 1 Satz 1 des Energieeffizienzgesetzes (EnEfG) [verpflichtet](https://23.social/@thomasfricke/115810045804082547), Informationen über sich als auch bestimmte Energieverbrauchsdaten an das [Energieeffizienzregister für Rechenzentren](https://www.bundeswirtschaftsministerium.de/RZReg/rechenzentrums-register.html) (Rechenzentrumsregister - RZReg) zu melden.
+
+Wenn's einmal läuft - KI in-Kontinent: in ganz Europa sollen neue Großrechenzentren entstehen, dank dem Hype um generative KI [darf die fossile Industrie](https://media.ccc.de/v/39c3-fossile-industrie-liebt-ki) ihre Infrastruktur weiter ausbauen, denn der enorme Energiebedarf wächst schneller als erneuerbare Energiequellen geschaffen werden können.
+
 ### Missbrauch
-* KI-Urheberrechtsstreit eskaliert: OpenAI muss Chatprotokolle offenlegen
-  https://www.heise.de/news/KI-Modelle-New-York-Times-klagt-gegen-Perplexity-Meta-schliesst-Lizenzabkommen-11104846.html
-* Studien: KI-Modelle können im Chat politische Präferenzen verändern
-  https://www.heise.de/news/KI-Chatbots-koennen-politische-Praeferenzen-staerker-aendern-als-Wahlwerbung-11103912.html
-* Safeguarding Open Science from exploitative practices
-  https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004851
-  https://fediscience.org/@petersuber/115741669672454094
-* Milliarden Euro gegen Migration: KI an der Grenze
-  https://taz.de/Milliarden-Euro-gegen-Migration/!6135349/
-* The Great AI Bubble
-  https://broligarchy.substack.com/p/the-great-ai-bubble
-  https://bsky.app/profile/beyond-ideology.bsky.social/post/3m6trkxieks2v
-* Nimmersatter Stromfresser: Die Chancen und Risiken von KI für die Umwelt
-  https://www.basicthinking.de/blog/2025/12/05/stromfresser-chancen-risiken-ki-fuer-umwelt/
-* AI-generated content in Wikipedia - a tale of caution
-  https://media.ccc.de/v/39c3-ai-generated-content-in-wikipedia-a-tale-of-caution
-* Programmierte Kriegsverbrechen?: Über KI-Systeme im Kriegseinsatz in Gaza und warum IT-Fachleute sich dazu äußern müssen
-  https://media.ccc.de/v/39c3-programmierte-kriegsverbrechen-uber-ki-systeme-im-kriegseinsatz-in-gaza-und-warum-it-fachleute-sich-dazu-auern-mussen
-### Finanzen
-* KI-Steuer: Die größte Umverteilung des 21. Jahrhunderts?
-  https://www.basicthinking.de/blog/2025/12/17/ki-steuer-die-groesste-umverteilung-des-21-jahrhunderts/
-* "Die US-Politik ist darauf ausgerichtet, dass die KI-Wette aufgehen wird"
-  https://www.wiwo.de/politik/konjunktur/markus-brunnermeier-warnt-vor-ki-blase-an-den-finanzmaerkten/100160130.html
+OpenAI muss nun nach einem Gerichtsentscheid 20 Millionen anonymisierte Chatprotokolle [für eine Überprüfung freigeben](https://www.heise.de/news/KI-Modelle-New-York-Times-klagt-gegen-Perplexity-Meta-schliesst-Lizenzabkommen-11104846.html), in der nachvollzogen werden soll, ob ChatGPT tatsächlich durch Urheberrecht geschützte Artikel der New York Times Wort für Wort ausgegeben hat. Auch in anderen Klagen gegen KI-Firmen geht nicht unbedingt darum, die Nutzung generell zu untersagen, diese aber durch entsprechende Lizenzabkommen bezahlt zu bekommen.
+
+Das Generieren von ganzen Artikeln mit LLM gilt in der Wikipedia weiterhin als Vandalismus. Einige Edits lassen sich allerdings nur mit Aufwand als KI-halluziniert entlarven. Beispielweise als Referenz genutzte ISBN-Nummern, die aber auf nicht existierende Bücher zeigen. Wie man solche aufspürt, zeigte Mathias Schindler [in seinem Vortrag](https://media.ccc.de/v/39c3-ai-generated-content-in-wikipedia-a-tale-of-caution). Das Tool dazu ist selbst mit KI geschrieben, es geht also nicht darum KI zu verteufeln, aber schon zu fragen, aus welcher Motivation heraus, Menschen (massenweise) KI-Artikel erzeugen: ist es Ignoranz gegenüber möglichen Halluzinationen, wird Nicht-Wissen versucht zu kompensieren, versucht man massenweise Artikel entsprechend einem Agenda-Setting zu verändern oder sind es andere Gründe.  
+
+Es tauchen immer häufiger LLM-generierte Forschungsartikel auf. Ihren Input beziehen sie aus den Open Access Datenbanken. Daraus den Schluss zu ziehen, den Zugang deswegen einzuschränken, [wäre aber völlig falsch](https://fediscience.org/@petersuber/115741669672454094). Wie man Open Science und Forschungsintegrität sinnvoll ausbalancieren, diskutiert [dieser Artikel](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004851).
+
+[Eine Analyse](https://www.heise.de/news/KI-Chatbots-koennen-politische-Praeferenzen-staerker-aendern-als-Wahlwerbung-11103912.html) von Umfragen und Versuchen mit manipulierten Chatbots in den USA, in Großbritannien und Polen im Vorfeld dortiger Wahlen haben teilweise ergeben, dass solche KI-generierten Inhalte die Präferenzen von Wählenden um bis zu 10 Prozentpunkte verändern können.
+
+### Militär
+Es ist in der Verantwortung von IT-Fachleuten, mit ihrem Wissen KI-Systeme im Kriegseinsatz zu kritisieren, die neben ihren so schon problematischen Funktionen auch noch erweiterte oder gänzlich andere Funktionen erfüllen, als öffentlich und politisch kommuniziert wird, meint Rainer Rehak in [seinem Vortrag](https://media.ccc.de/v/39c3-programmierte-kriegsverbrechen-uber-ki-systeme-im-kriegseinsatz-in-gaza-und-warum-it-fachleute-sich-dazu-auern-mussen) auf dem Congress. Das im Aufbau befindliche KI-Grenzkontrollsystem [wäre ein solches System](https://taz.de/Milliarden-Euro-gegen-Migration/!6135349/).
+
 ### Ethischer und gesellschaftlicher Umgang  
-* White Paper "Solidarische Praxis entlang der Nutzung von KI verankern"
-  https://demokratische-ki.de/white-paper-ki-solidaritaet/
-* Künstliche Intelligenz versus Menschen: Streng dich doch mal an
-  https://taz.de/Kuenstliche-Intelligenz-versus-Menschen/!6134586/
-* Erste Studien bezeugen: Der Mensch wird dümmer durch KI
-  https://www.blaetter.de/ausgabe/2026/januar/fortschrittsfalle-ki
-* Das Ende des Denkens – Über das Lesen und KI
-  https://54books.de/das-ende-des-denkens-ueber-das-lesen-und-ki/
-* KI und menschliches Denken: Illusion der Lösungsfreude
-  https://taz.de/KI-und-menschliches-Denken/!6140445/
+["Wenn du denkst, du denkst, dann denkst du nur, du denkst"](https://de.wikipedia.org/wiki/Wenn_du_denkst%2C_du_denkst%2C_dann_denkst_du_nur%2C_du_denkst_(Lied)): erste Studien bezeugen, dass der Mensch durch KI  die Fähigkeit zum kritischen Denken sukzessive verliert und damit dümmer wird. Die Blätter plädieren daher für eine [philosophische Medienkompetenz](https://www.blaetter.de/ausgabe/2026/januar/fortschrittsfalle-ki). 
+
+Mit Bezug auch auf diese Studie fürchtet sich Lin Hierse vor der "Entwertung menschengemachter Dinge und dem Verlust von gegenseitigem Interesse", wenn nur noch das Ergebnis zählt und nicht mehr der Lösungsweg, wenn man keine Lust mehr am eigenständigen Denken hat.
+
+Lesen dient ebennicht allein dem Wissenserwerb, [sondern eben auch](https://54books.de/das-ende-des-denkens-ueber-das-lesen-und-ki/) dem Nachvollziehen Gedanken anderer, über das wir unsere Gedanken wiederum selbst reflektieren können. Die Zweifel, die damit einhergehen können, sehen "zuversichtlich falsche" Chatbots, die Eindeutigkeit über Richtigkeit stellen, nicht vor. 
+
+Das White Paper ["Solidarische Praxis entlang der Nutzung von KI verankern"](https://demokratische-ki.de/wp-content/uploads/2025/12/2025-12-KI-und-Solidaritaet-White-Paper.pdf) enthält einige Reflexionsfragen, die man sich vor und bei Nutzung von (generativer) KI stellen sollte. 
 
 ## Recap
 * [Netzpolitischer Abend](https://fair.tube/w/p/gUyTnD4bDXczGEmxzyyHVP?playlistPosition=1)
