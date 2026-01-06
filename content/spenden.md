@@ -38,6 +38,7 @@ Unsere Bankverbindung für einmalige Spenden und Daueraufträge ist:
   <dd>Code for Germany</dd>
 </dl>
 
+<!--
 ## Spenden via Betterplace
 Du kannst uns auch über die Spendenplattform Betterplace.org
 unterstützen. Dann erhältst du deine Spendenbestätigung nicht von
@@ -63,3 +64,4 @@ uns, sondern direkt von Betterplace.org.
 <div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/donate/platform/projects/66473-unterstuetze-die-open-knowledge-labs">Jetzt Spenden für „Unterstütze die Open Knowledge Labs!" bei unserem Partner betterplace.org</a></strong></div>
 
 {{< /paragraph-center  >}}
+-->
