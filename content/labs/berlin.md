@@ -188,6 +188,8 @@ links:
   url: https://chaos.social/@codeforbe
 - name: Github
   url: https://github.com/codeforberlin
+- name: Kalender (.ics)
+  url: https://codeforberlin.github.io/calendar/ok-lab-berlin.ics
 
 feeds:
 - type: ical
