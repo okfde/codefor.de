@@ -57,11 +57,12 @@ Conduct.
 {{< headline-brackets-h1 color="blue" id="map" >}}
 Finde ein Lab in deiner Nähe
 {{< /headline-brackets-h1 >}}
-Du möchtest dich einbringen? Wir freuen uns auf dich! Unsere Labs sind die erste Anlaufstelle für alle Interessierten. Über die Karte kommst du zu den Unterseiten der einzelnen Labs. Dort erfährst du mehr über Termine und Ansprechpartner\*innen. Die Labs werden von Ehrenamtlichen betrieben, daher sind nicht alle Labs immer gleichmäßig aktiv.   
+Unsere Labs sind die erste Anlaufstelle für alle Interessierten. Über die Karte kommst du zu den Unterseiten der einzelnen Labs. Dort erfährst du mehr über Termine und Ansprechpartner\*innen. Die Labs werden von Ehrenamtlichen betrieben, daher sind nicht alle Labs immer gleichmäßig aktiv.   
 {{< labmap-overview >}}
-
-### Erstmal einlesen: Erfahre mehr über Offene Daten
-Wie lassen sich Daten öffnen, und warum ist das wichtig für Verwaltungen? Lies Grundlagen, finde Argumente, Handreichungen und Use Cases auf dem Knowledge Hub der Open Knowledge Foundation Deutschland.
+<br>
+<br>
+### Erfahre mehr über Offene Daten
+Wenn du ins Thema Openness einsteigst, hast du vielleicht ein paar unbeantwortete Fragen: Wie lassen sich Daten öffnen, und warum ist das wichtig für Verwaltungen? Lies Grundlagen, finde Argumente, Handreichungen und Use Cases auf dem Knowledge Hub der Open Knowledge Foundation Deutschland.
 
 {{< button-center href="https://opendata.okfn.de/" target="_blank" class="mb-6 mt-3">}}
 Open Data Knowledge Hub
