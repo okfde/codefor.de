@@ -70,7 +70,7 @@ und wir nehmen dich auf. Bitte wundere dich nicht, wenn es nicht sofort passiert
 
 ### Besuche ein Lab in deiner Nähe
 
-Über die Karte kommst du zu den Unterseiten der einzelnen Labs. Dort erfährst du mehr über Termine und Ansprechpartner\*innen. Die Labs werden von Ehrenamtlichen betrieben, daher sind nicht alle Labs immer gleichmäßig aktiv.
+Über die Karte kommst du zu den Unterseiten der einzelnen Gruppen. Dort erfährst du mehr über Termine und Ansprechpartner\*innen. Die Labs werden von Ehrenamtlichen betrieben, daher sind nicht immer alle aktiv.
 {{< labmap-overview >}}
 
 ### Unterstütze unsere Arbeit
