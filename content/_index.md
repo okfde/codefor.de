@@ -79,8 +79,8 @@ Zivilgesellschaft, aus Verwaltung und Politik. Wir inspirieren
 einander, arbeiten zusammen und lernen voneinander.
 
 **Wir stecken in vielen Netzwerken.** Die Ehrenamtlichen bei Code for
-Germany engagieren zu gemeinnützigen Themen wie Klimaschutz, Offenes Wissen und 
-Netzpolitik in internationalen Strukturen, bundesweiten Vereinen 
+Germany engagieren sich zu gemeinnützigen Themen wie Klimaschutz, Offenes 
+Wissen und Netzpolitik in internationalen Strukturen, bundesweiten Vereinen 
 und kommunalen Netzwerken.  
 
 {{< headline-brackets-h2 color="blue" class="mt-6 mb-3" >}}
