@@ -57,7 +57,7 @@ Conduct.
 {{< headline-brackets-h1 color="blue" id="map" >}}
 Finde ein Lab in deiner Nähe
 {{< /headline-brackets-h1 >}}
-Unsere Labs sind die erste Anlaufstelle für alle Interessierten. Über die Karte kommst du zu den Unterseiten der einzelnen Labs. Dort erfährst du mehr über Termine und Ansprechpartner\*innen. Die Labs werden von Ehrenamtlichen betrieben, daher sind nicht alle Labs immer gleichmäßig aktiv.   
+Unsere Labs sind die erste Anlaufstelle für alle Interessierten. Über die Karte kommst du zu den Unterseiten der einzelnen Gruppen. Dort erfährst du mehr über Termine und Ansprechpartner\*innen. Die Labs werden von Ehrenamtlichen betrieben, daher sind nicht immer alle aktiv.   
 {{< labmap-overview >}}
 <br>
 <br>
