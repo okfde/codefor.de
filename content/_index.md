@@ -26,9 +26,8 @@ den Wert von Offenen Daten und leisten Überzeugungsarbeit für eine
 nachhaltige Digitalisierung der Verwaltung.
 
 Wir haben rund 20 regionale Gruppen, die sich regelmäßig in lokalen
-OK Labs, kurz für Open Knowledge Labs, treffen. In unserer
-Online-Community auf der Plattform Slack tauschen wir uns bundesweit
-aus. Schau vorbei in unserer [Community](/community)!
+OK Labs, kurz für Open Knowledge Labs, treffen. Finde deine Community in 
+einem [Lab](/community#labs) in deiner Nähe!
 
 <figure>
 <iframe 
@@ -43,10 +42,8 @@ frameborder="0" allowfullscreen></iframe>
 </figure>
 
 Code for Germany hat sein rechtliches Zuhause bei dem gemeinnützigen
-Verein [Open Knowledge Foundation Deutschland](https://okfn.de). Hauptamtliche des
-Vereins helfen dabei, unser ehrenamtliches Netzwerk zu koordinieren.
-Als Teil des Netzwerks [Code for All](https://codeforall.org) sind wir mit gleichgesinnten
-Organisationen in der ganzen Welt vernetzt.
+Verein [Open Knowledge Foundation Deutschland](https://okfn.de) und zählt 
+zum internationalen Netzwerk [Code for All](https://codeforall.org).
 
 {{< headline-brackets-h2 color="blue" class="mt-6 mb-3" >}}
 Unsere Vision
@@ -81,11 +78,10 @@ Hacker\*innen-Szene, dem digitalen Ehrenamt, der engagierten
 Zivilgesellschaft, aus Verwaltung und Politik. Wir inspirieren
 einander, arbeiten zusammen und lernen voneinander.
 
-**Wir stecken in vielen Netzwerken.** Im globalen Netzwerk von <a href="https://codeforall.org/">Code
-for All</a> sind wir mit Civic-Tech-Organisationen auf der ganzen Welt
-verbunden. Durch unseren Trägerverein [Open Knowledge Foundation
-Deutschland](https://okfn.de) sind wir Teil des internationalen Open Knowledge
-Netzwerks.
+**Wir stecken in vielen Netzwerken.** Die Ehrenamtlichen bei Code for
+Germany engagieren sich zu gemeinnützigen Themen wie Klimaschutz, Offenes 
+Wissen und Netzpolitik in internationalen Strukturen, bundesweiten Vereinen 
+und kommunalen Netzwerken.  
 
 {{< headline-brackets-h2 color="blue" class="mt-6 mb-3" >}}
 Informationen für Verbündete und solche, die es werden wollen
@@ -104,7 +100,7 @@ Mit unserer Expertise unterstützen wir Menschen in der Verwaltung
 auf ihrem Weg zu einer nachhaltigen Digitalisierung. Interessierte
 Verwaltungsmitarbeiter\*innen informieren sich in der [Open Data
 Knowledgebase](https://opendata.okfn.de/) und kontaktieren ihre 
-[lokale Community](/community).
+[lokale Community](/community#labs).
 
 Gerne teilen wir unser Wissen im Dialog auf Augenhöhe, als Ehrenamtliche
 meist außerhalb regulärer Bürozeiten. Wie gute Zusammenarbeit
@@ -152,22 +148,21 @@ einer [Spende](/spenden) unterstützen.
 ### Privatpersonen
 
 Interessierte Menschen landen wir herzlich ein, unsere Projekte zu
-durchstöbern, zu verwenden, und weiterzuentwickeln. Wir freuen uns
-auch sehr über [Spenden](/spenden). Falls du überlegst, dich auch zu engagieren,
-wirf einen Blick auf unsere [Community](/community).
+durchstöbern, zu verwenden, und weiterzuentwickeln. Falls du überlegst, dich auch zu engagieren,
+wirf einen Blick auf unsere [Community](/community) und schau vorbei 
+in einem Lab in deiner Nähe. 
 
 {{< headline-brackets-h2 color="red" class="mt-6 mb-3" >}}
 Jetzt die Befreiung von Daten unterstützen!
 {{</ headline-brackets-h2 >}}
 
 {{< landing-callout >}}
-**Kurz und bündig: Fünf Maßnahmen, die uns zu mehr Open Data verhelfen**
+**Kurz und bündig: Vier Maßnahmen, die uns zu mehr Open Data verhelfen**
 
 - Offene Daten, in maschinenlesbarem Format, zur Verfügung stellen
 - Langfristige Fördergelder für die Erschließung Offener Daten bereitstellen
 - [Anwendungen](/projekte) aus Offenen Daten in die eigene Arbeit einbinden und weiterentwickeln
 - Eigene Expertise in unserer [Community](/community) teilen
-- Code for Germany mit einer [Spende](/spenden) unterstützen
 {{</ landing-callout >}}
 {{</ paragraph-center >}}
 
