@@ -8,7 +8,6 @@ images:
    - imgname: FOS_Logo_Quadrat.png
 og-image: /static/blog/FOS_Logo_Quadrat.png
 og-description: "Wir haben bereits alles, was wir brauchen, um Open Government durchzusetzen: Die Theorie, die Werkzeuge, die Menschen und den Gestaltungswillen."
-published: true
 ---
 
 # Resiliente Städte mit Open Government - Das Forum Offene Stadt 2020
