@@ -4,7 +4,6 @@ title: OK Lab Köln
 lat: 50.9554784
 long: 6.9104529
 markerposition: left
-projectsorder: reverse
 
 aliases:
 - /koeln

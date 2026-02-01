@@ -10,28 +10,6 @@ aliases:
 - /münchen
 - /m
 
-## LHM Marsstr. 22
-#lat: 48.14356
-#long: 11.55792
-
-
-## LMU Oettingenstr
-#lat: 48.150638
-#long: 11.594601
-
-## Werk1
-#lat: 48.125022947
-#long: 11.605757474
-
-## Münchner Merkur
-#lat: 48.1442919
-#long: 11.5683318
-
-## muCCC, Schleißheimer Str.
-#lat: 48.153701
-#long: 11.560801
-
-
 links:
 - name: Termine und Mitglieder - Meetup
   url: http://www.meetup.com/code-for-muenchen/

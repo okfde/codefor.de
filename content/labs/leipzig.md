@@ -8,10 +8,6 @@ markerposition: left
 aliases:
 - /leipzig
 
-#h4c: true #this lab was part of hack your city
-
-#special: true #this lab gets spcecial marker (digital refugee lab)
-
 links:
 - name: Meetup
   url: https://www.meetup.com/de-DE/oklab-leipzig/

@@ -10,8 +10,6 @@ aliases:
 - /giessen
 - /gi
 
-showsignup: false
-
 links:
 - name: Meetup
   url: http://www.meetup.com/OK-Lab-Gießen/

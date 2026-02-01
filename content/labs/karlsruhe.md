@@ -5,13 +5,10 @@ lat: 49.013397
 long: 8.404370
 markerposition: left
 ExternalProjectsUrl: https://ok-lab-karlsruhe.de/projects/projectlist.json
-#h4c: true
 
 aliases:
 - /karlsruhe
 - /ka
-
-#special: true #this lab gets spcecial marker (digital refugee lab)
 
 links:
 

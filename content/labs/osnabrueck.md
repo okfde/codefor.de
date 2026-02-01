@@ -5,7 +5,6 @@ lab: OK Lab Osnabrück
 lat: 52.2668370
 long: 8.0497410
 markerposition: left
-showsignup: false
 inactive: true
 
 aliases:
@@ -24,19 +23,12 @@ links:
 - name: Twitter
   url: https://twitter.com/codeforosna
   top: true
-
-# - name: <name>
-#   url: <url>
-#   top: true | false
-
+  
 leads:
 - name: Peer Wagner
   url: https://twitter.com/wagnerpeer
 - name: Julia
   url: https://twitter.com/joliyea
-
-# - name:
-#   url:
 
 ---
 

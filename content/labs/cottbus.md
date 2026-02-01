@@ -3,8 +3,7 @@ city: Cottbus
 title: Code for Cottbus
 lat: 51.76892
 long: 14.32216
-markerposition: left # left | right
-showsignup: true # true | false
+markerposition: left 
 inactive: true
 
 aliases:

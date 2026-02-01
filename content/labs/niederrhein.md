@@ -5,7 +5,6 @@ lab: OK Lab Niederrhein
 lat: 51.481604
 long: 6.640815
 markerposition: left
-showsignup: false
 
 aliases:
 - /niederrhein

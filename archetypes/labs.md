@@ -4,7 +4,6 @@ title: Code for Beispiel # Name des Labs. Zb Überschrift der lab-seite
 lat: 53
 long: 8
 markerposition: left # left | right
-showsignup: true # true | false
 
 links:
 - name: Webseite

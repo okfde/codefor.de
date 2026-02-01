@@ -3,7 +3,6 @@ city: Erlangen
 title: OK Lab Erlangen
 lab: OK Lab Erlangen
 markerposition: right
-showsignup: true
 hide: true
 
 aliases:

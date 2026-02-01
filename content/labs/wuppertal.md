@@ -5,7 +5,6 @@ title: OK Lab Wuppertal
 lat: 51.26687
 long: 7.14539
 markerposition: right
-h4c: true
 inactive: true
 
 aliases:
