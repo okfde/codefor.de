@@ -9,20 +9,6 @@ inactive: true
 aliases:
 - /chemnitz
 
-members:
-
-- name: Morris Jobke
-  username_twitter: MorrisJbk
-  username_github: MorrisJobke
-- name: Tobias Gall
-  username_twitter: symptog
-  username_github: symptog
-- name: Ronny Hartenstein
-  username_twitter: rhflow_de
-  username_github: ronnyhartenstein
-- name: Benedikt Geißler
-  username_github: benediktg5
-
 links:
 - name: Webseite
   url: http://codeforchemnitz.de/
