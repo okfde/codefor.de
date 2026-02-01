@@ -3,9 +3,9 @@ needsLeafletCss: true
 ---
 {{< headline-icon icon="icon-bracket.svg" color="blue" >}}
 
-{{< headline-brackets-h1 color="red"  >}}
+{{< headline-brackets-h1 color="red" >}}
 Unsere Community
-{{< /headline-brackets-h1  >}}
+{{< /headline-brackets-h1 >}}
 
 
 
@@ -87,3 +87,5 @@ Wie lassen sich Daten öffnen, und warum ist das wichtig für Verwaltungen? Lies
 {{< button-center href="https://opendata.okfn.de/" target="_blank" class="mb-6 mt-3">}}
 Open Data Knowledge Hub
 {{</ button-center >}}
+
+{{</ paragraph-center >}}
