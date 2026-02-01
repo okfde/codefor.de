@@ -9,30 +9,6 @@ aliases:
 - /heilbronn
 - /hn
 
-members:
-- name: Adrian Stabiszewski
-  username_github: grundid
-  username_twitter: nitegate
-- name: Jonathan Günz
-  username_github: harmoniemand
-  username_twitter: harmoniemand
-- name: Leandro
-  username_twitter: _LeoDJ
-- name: Franz Imschweiler
-- name: Steffen Jung
-  username_github: gravima
-- name: Felix Ebert
-  username_github: felixebert
-  username_twitter: femeb
-- name: Valentin Fischer
-  username_twitter: TheVale98
-- name: Joas Schilling
-  username_twitter: nickvergessen
-- name: Lukas Himsel
-  username_github: lukas-h
-- name: Patrick Hahn
-  username_twitter: patrick24651
-
 links:
 - name: Meetup
   url: https://www.meetup.com/de-DE/codeforhn/

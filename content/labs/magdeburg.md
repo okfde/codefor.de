@@ -8,16 +8,6 @@ aliases:
 - /magdeburg
 - /md
 
-members:
-
-- name: Jens Winter-Hübenthal
-  username_github: JensWinter
-  username_twitter: JensWinter
-
-- name: Anton Müller
-  username_github: TheRojam
-  username_twitter: TheRojam
-
 links:
 
 - name: Meetup

@@ -6,14 +6,6 @@ long: 8
 markerposition: left # left | right
 showsignup: true # true | false
 
-members:
-- name: Maria Member
-  username_github: codeforbeispiel
-  username_twitter: codeforbeispiel
-- name: ""
-  username_github: andereruser
-  username_twitter: andereruser
-
 links:
 - name: Webseite
   url: https://code-for-beispiel.de

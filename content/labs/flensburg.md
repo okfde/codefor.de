@@ -9,15 +9,6 @@ aliases:
 - /flensburg
 - /fl
 
-members:
-- name: Felix-Claudius Dietz
-- name: Roald Christesen
-- name: Chantal Butenberg
-- name: David Bornemann
-- name: Oliver Lemke-Lohnert
-- name: Aurelius Wendelken
-
-
 links:
 - name: Website
   url: https://oklabflensburg.de

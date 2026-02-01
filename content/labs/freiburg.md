@@ -9,12 +9,6 @@ aliases:
 - /freiburg
 - /fr
 
-members:
-
-- name: Andreas Pawelke
-  username_github: Idna12
-  username_twitter: pa_wela
-
 links:
 
 - name: Meetup

@@ -11,16 +11,6 @@ aliases:
 - /heidelberg
 - /hd
 
-members:
-- name: Stephan Frenzel
-  username_github: sfrenzel
-- name: Jaro Eiermann
-  username_github:
-- name: Jasper Schmidt
-  username_github:
-- name: Mandy Reinhardt
-  username_github: mandyr
-
 links:
 - name: Pad
   url: https://pad.ccc-mannheim.de/p/OKL-HD_Portal

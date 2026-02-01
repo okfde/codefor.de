@@ -10,39 +10,6 @@ aliases:
 - /bielefeld
 - /bi
 
-members:
-
-- name: Meike Wocken
-  username-github: micky-m
-  username-twitter: CountessOfCount
-
-- name: Daniel 
-  links:
-  - url: https://www.linkedin.com/in/danielbarooney/ 
-    name: Linkedin
-- name: Andreas 
-  links:
-  - url: https://de.linkedin.com/in/andreas-kansy-2ab747254
-    name: Linkedin
-- name: Helen
-  links:
-  - url: https://de.linkedin.com/in/helen-bielawa-051902145
-    name: Linkedin
-- name: Vilia
-  links:
-  - url: https://www.vilia-zeisig.com/
-    name: Webseite
-- name: Henriette
-  links:
-  - url: https://de.linkedin.com/in/henriette-hellweg
-    name: Linkedin
-
-- name: Florian Gellert
-  username-github: gllrt
-  username-twitter: fgllrt
-
-
-
 links:
 - name: Meetup
   url: http://www.meetup.com/Code-For-Bielefeld//

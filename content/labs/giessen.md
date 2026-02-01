@@ -12,38 +12,6 @@ aliases:
 
 showsignup: false
 
-members:
-- name: Jan Ameli
-  username_github: jpameli
-
-- name: Christian Schulze
-  username_github: ChristianSch
-
-- name: Christian Oechler
-  username_github: COechler
-
-- name: Tobias Schwalm
-  username_github: tobiasschwalm
-
-- name: Christian Heigele
-  username_github: cheigele
-
-- name: Prof. Dr. Martin Przewloka
-
-- name: Marco Schäfer
-  username_github: msfr
-
-- name: Katharina Dort
-
-- name: Julian Schmitt
-  username_github: juschmitt
-
-- name: Florian Kolb
-  username_github: toxic2302
-
-- name: Vincent Elliott Wagner
-  username_github: serofax
-
 links:
 - name: Meetup
   url: http://www.meetup.com/OK-Lab-Gießen/

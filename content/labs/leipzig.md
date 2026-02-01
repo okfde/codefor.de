@@ -12,20 +12,6 @@ aliases:
 
 #special: true #this lab gets spcecial marker (digital refugee lab)
 
-members:
-- name: Jörg Reichert
-  username_github: joergreichert
-- name: Lisa Marie Steckel
-  username_github: vrifox
-- name: Erik Oltmann
-  username_github: ErikOrtmann
-- name: Marvin Frommhold
-  username_github: depressiveRobot
-- name: Daniel Gerber
-  username_github: gerbsen
-- name: Sebastian Peters
-  username_github: sepe81
-
 links:
 - name: Meetup
   url: https://www.meetup.com/de-DE/oklab-leipzig/

@@ -10,11 +10,6 @@ aliases:
 - /kaiserslautern
 - /kl
 
-members:
-- name: Marius Henkel
-  username-github: rausnehmkeil
-  username-twitter: rausnehmkeil
-
 links:
 - name: Twitter
   url: http://twitter.com/codeforkl

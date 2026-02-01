@@ -10,11 +10,6 @@ inactive: true
 aliases:
 - /mecklenburg-vorpommern
 
-members:
-- name: Michael Milz
-  username_github: michamilz
-  username_twitter: micha_milz
-
 links:
 - name: Mailingliste
   url: https://listi.jpberlin.de/mailman/listinfo/codeformv

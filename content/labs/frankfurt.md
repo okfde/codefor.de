@@ -9,16 +9,6 @@ inactive: true
 aliases:
 - /frankfurt
 
-members:
-
-- name: Mischa Zöller
-  username_github: zoeller
-  username_twitter: zoellerm
-
-- name: Bogomir Engel
-  username_github: aCandidMind
-  username_twitter: aCandidMind
-
 links:
 
 - name: Meetup

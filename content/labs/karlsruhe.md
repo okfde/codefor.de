@@ -13,8 +13,6 @@ aliases:
 
 #special: true #this lab gets spcecial marker (digital refugee lab)
 
-members: []
-
 links:
 
 - name: Webseite

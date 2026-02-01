@@ -9,20 +9,6 @@ inactive: true
 aliases:
 - /jena
 
-members:
-
-- name: Achim
-  username_github: ahzf
-  username_twitter: ahzf
-- name: Andreas
-  username_twitter: nunAmen
-- name: Melanie
-- name: Mirko
-  username_twitter: fnchh
-- name: Robert
-  username_twitter: p1ng0ut
-- name: Richardo
-
 links:
 
 - name: Website

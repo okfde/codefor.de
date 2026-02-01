@@ -11,11 +11,6 @@ aliases:
 - /cottbus
 - /cb
 
-members:
-- name: "Benji"
-  username_github: fortrieb
-  username_twitter: fortrieb
-
 links:
 - name: Webseite
   url: https://okcb.de

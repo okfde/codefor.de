@@ -8,10 +8,6 @@ markerposition: right
 aliases:
 - /forst
 
-members:
-
-- name: Sebastian Kürten
-
 links:
 
 - name: Website

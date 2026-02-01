@@ -10,39 +10,6 @@ inactive: true
 aliases:
 - /hannover
 
-members:
-
-#- name: Sven Pfennig
-#  username_github: 0xE282B0
-#  username_twitter: NicolajKirchhof
-
-- name: Holger Biermann
-  username_github: qompa
-  username_twitter: qompacom
-
-- name: Jan Sauer
-  username_github: jansauer
-  username_twitter: jansauer
-
-- name: Nikolaus Pohle
-  username_github: npohle
-  username_twitter: npohle
-
-- name: Nicolaj Kirchhof
-  username_github: nicolajkirchhof
-  username_twitter: nicolajkirchhof
-
-- name: Björn Vofrei
-  username_github: typedance
-  username_twitter: typedance
-
-- name: Anna Kasprzik
-  username_github: annakasprzik
-
-- name: Christoph Banke
-  username_github: christophbanke
-  username_twitter: christophbanke
-
 links:
 - name: Slack
   url: https://openknowledgegermany.slack.com/messages/hannover/

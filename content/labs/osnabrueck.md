@@ -12,18 +12,6 @@ aliases:
 - /osnabrueck
 - /os
 
-members:
-- name: Peer Wagner
-  username_github: wagnerpeer
-  username_twitter: wagnerpeer
-- name: Julia
-  username_github: joliyea
-  username_twitter: joliyea
-
-# - name: <name>
-#   username_github: <github_user_name>
-#   username_twitter: <twitter_user_name>
-
 links:
 - name: GetTogether
   url: https://gettogether.community/code-for-osnabr%C3%BCck/

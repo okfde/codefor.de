@@ -10,9 +10,6 @@ inactive: true
 aliases:
 - /potsdam
 
-members: []
-
-
 links:
 
 - name: GetTogether

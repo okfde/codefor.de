@@ -11,34 +11,6 @@ inactive: true
 aliases:
 - /wuppertal
 
-members:
-
-- name: Nico Heßler
-  username_github: exmatrikulator
-  username_twitter: Exmatrikulat0r
-- name: Daniel Fisher
-  username_github: lennybacon
-  username_twitter: lennybacon
-- name: Christopher Reinbothe
-  username_github: phsieben
-  username_twitter: phneutral
-- name: Bastian Pertz
-  username_github: Samisdat
-  username_twitter: Samisdat
-- name: Sam Zeini
-  username_github: SamZeini
-  username_twitter: SZeini
-- name: Ralf Glörfeld
-  username_github: sn0wdiver
-  username_twitter: sn0wdiwer
-- name: Cathy Klappert
-  username_twitter: CathyKlappert
-- name: Jan Niko Kirschbaum
-- name: Silvio Katzmann
-  username_github: iamsilvio
-  username_twitter: skat
-
-
 links:
 - name: Mailingliste
   url: http://lists.devtal.de/mailman/listinfo/opendatal
