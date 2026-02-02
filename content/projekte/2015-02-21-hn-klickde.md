@@ -18,7 +18,6 @@ collaborators:
     name: twitter
   - url: https://github.com/grundid
     name: github
-collaborators:
 - name: Code for America's 2013 fellowship team
   links:
   - url: http://www.codeforamerica.org/
