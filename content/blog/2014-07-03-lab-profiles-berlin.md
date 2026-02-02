@@ -24,7 +24,7 @@ Das Lab in Berlin sprudelt nur so von Ideen und es kommen auch immer wieder neue
 
 [CC-BY-AT-2.0]: https://creativecommons.org/licenses/by/2.0/deed.de
 [Wolfgang Staudt]: https://www.flickr.com/photos/wolfgangstaudt/
-[Berliner OK Lab]: {{< ref "/berlin" >}}
+[Berliner OK Lab]: {{< ref "/labs/berlin" >}}
 [solidarischer Landwirtschaft]: https://ernte-teilen.org
 [Bebauungspläne]: http://buergerbautstadt.de
 [Open Data Day 2014]: http://vimeo.com/87885835
