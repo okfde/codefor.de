@@ -24,7 +24,7 @@
       {{ end }}
     </ul>
     </div>
-  
+
     <div class="card-body p-4">
         {{- if (and (not (eq .Params.imgname nil)) (fileExists (printf "static/projects/%s" .Params.imgname ))) -}}
         <img class="project-image" src="/projects/{{ .Params.imgname }}"  alt="Screenshot {{ .Title }}">
@@ -33,16 +33,7 @@
         {{- end -}}
       <a class="text-dark no-underline project-link" href="{{.Permalink}}"><h3 class="title">{{.Title}}</h3></a>
       <div class="text-dark description" >
-        {{ if (isset .Params "Excerpt") }}
-         {{ if (gt (len .Params.Excerpt) 0)}}
-            {{ .Params.Excerpt | truncate 200 }}
-          {{ else }}
-            {{ .Summary | truncate 200 }}
-          {{ end }}
-        {{ else }}
           {{ .Summary | truncate 200 }}
-        {{ end }}
-
       </div>
     </div>
     <div class="card-footer border-top-0 bg-white d-flex justify-content-between">
