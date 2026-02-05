@@ -8,7 +8,6 @@ images:
    - imgname: WaterDataCommons_pictureby_shridhar_vashistha_unsplash.jpg
 og-image: /static/blog/WaterDataCommons_pictureby_shridhar_vashistha_unsplash.jpg
 og-description: "Daten und Informationen zu Wasser visualisieren und zur Verfügung stellen. Aufbau einer Water Data Commons zur Unterstützung des Rechts auf Wasser."
-published: true
 ---
 
 # Water Data Commons - Neues Kooperationsprojekt mit Code-for-All-Partnern

@@ -8,7 +8,6 @@ images:
    - imgname: hackathon-leitfaden.png
 og-image: /static/blog/hackathon-leitfaden.png
 og-description: "Hackathons versprechen oft mehr, als sie einlösen können."
-published: true
 ---
 
 # How to Hackathon – Wann und wie Hackathons kommunalen Verwaltungen helfen können 

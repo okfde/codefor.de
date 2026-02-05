@@ -9,7 +9,6 @@ images:
    - imgname: Town_Picture_by_john_moeses_bauan_unsplash.jpg
 og-image: /blog/Town_Picture_by_john_moeses_bauan_unsplash.jpg
 og-description: "Einladung zu einem gemeinsamen Webinar mit dem Deutschen Städtetag am 30. Juni zu unserem Handbuch Krisenresilienz."
-published: true
 ---
 
 # Webinar: Resiliente Kommunalverwaltungen - wie agieren wir krisenfest und flexibel?
