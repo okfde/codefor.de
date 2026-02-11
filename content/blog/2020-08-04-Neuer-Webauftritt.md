@@ -8,7 +8,6 @@ images:
    - imgname: Neue Webseite.png
 og-image: /static/blog/Neue Webseite.png
 og-description: "Neue Webseite - rundum überarbeitet und mit frischem Design!"
-published: true
 ---
 
 # Neuer Webauftritt

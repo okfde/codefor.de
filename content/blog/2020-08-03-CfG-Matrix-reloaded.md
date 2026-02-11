@@ -7,7 +7,6 @@ images:
    - imgname: Matrix_photo_by_markus_spiske_unsplash.jpg
 og-image: /static/blog/Matrix_photo_by_markus_spiske_unsplash.jpg
 og-description: "Was ist die Matrix von Code for Germany und wie wollen wir sie gestalten? Fragen und mögliche Antworten für unsere Projektentwicklung."
-published: true
 ---
 Unser Netzwerk ist viel gewachsen in den letzten Jahren, inzwischen sind wir ca. 500 Ehrenamtliche und der Zuwachs in unserer Community hat uns tolle neue Perspektiven und Ideen ermöglicht. Zusätzlich gab es bei der [Open Knowledge Foundation (OKF)](https://okfn.de/) Personalwechsel bei den Betreuenden von Code for Germany. Mit diesen Veränderungen haben sich auch die Meinungen und Wünsche zu Code for Germany erweitert oder Schwerpunkte verschoben. Diese Möglichkeit möchten wir nutzen und haben intern einen Prozess angestoßen, in dem wir uns in den nächsten Monaten damit beschäftigen möchten, unsere Ziele zu präzisieren, wie wir diese erreichen und vermitteln möchten und unsere eigenen Organisationsstrukturen als Netzwerk zu verbessern. Kurzum: Wir bearbeiten unsere Matrix.
 

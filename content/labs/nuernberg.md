@@ -10,13 +10,6 @@ aliases:
 - /nuernberg
 - /nürnberg
 
-members:
-- name: Lukas Himsel
-  username_github: lukas-h
-- name: Karen Tamrazyan
-  username_github: karentamrazyan
-  username_twitter: karentamrazyan
-
 links:
 - name: GitHub
   url: https://github.com/opendata-nuernberg

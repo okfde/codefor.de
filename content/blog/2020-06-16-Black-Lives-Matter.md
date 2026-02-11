@@ -7,7 +7,6 @@ images:
    - imgname: CodeforAll-Main Logo - White Background.png
 og-image: /static/blog/CodeforAll-Main Logo - White Background.png
 og-description: "Regierungen und Technologien sollten für alle da sein, nicht nur für die Privilegierten. Es liegt an uns allen, diese Systeme zu korrigieren."
-published: true
 ---
 
 # Black Lives Matter — Erklärung von Code for All

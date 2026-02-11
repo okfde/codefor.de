@@ -4,9 +4,6 @@ lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/portablelinkedprofiles.png
 title: Portable Linked Profiles
 
-excerpt:
-  PLP proposes a pattern for the creation, storage, listing and representation of public profile data.
-
 links:
 - url: https://github.com/hackers4peace/plp-docs
   name: Dokumentation

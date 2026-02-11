@@ -9,7 +9,6 @@ images:
    - imgname: ok-lab-berlin-rueckblick-2020/fran-jacquier-tmuArUNS1TI-unsplash.png
 og-image: /blog/ok-lab-berlin-rueckblick-2020/fran-jacquier-tmuArUNS1TI-unsplash.png
 og-description: "Ein Rückblick auf 8 spannende Vorträge aus dem Bereiche Open Data und Civic Tech"
-published: true
 ---
 
 Das Jahr 2020 geht zu Ende und auch für uns im Berliner Open Knowledge Lab ist so einiges anders gelaufen, als wir uns das ursprünglich vorgestellt haben. Eine Sache die wir und vorgenommen haben - nämlich jeden Monat Expert\*innen zu uns ins Lab einzuladen, konnten wir trotzdem verwirklichen, nur halt virtuell. Das Social-Distancing hat sogar dazu geführt, dass wir deutlich internationaler gedacht haben und nicht nur Gäste aus Berlin, sondern aus der ganzen Welt hatten. In diesem Blogpost wollen wir die Vorträge noch einmal Revue passieren lassen.
