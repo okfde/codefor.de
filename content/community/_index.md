@@ -63,7 +63,7 @@ Unsere Labs sind die erste Anlaufstelle für alle Interessierten. Über die Kart
 <br>
 
 ### Erfahre mehr über Offene Daten
-Wenn du ins Thema Openness einsteigst, hast du vielleicht ein paar unbeantwortete Fragen: Wie lassen sich Daten öffnen, und warum ist das wichtig für Verwaltungen? Lies Grundlagen, finde Argumente, Handreichungen und Use Cases auf dem Knowledge Hub der Open Knowledge Foundation Deutschland.
+Wenn du in den Themenbereich Open Data und Civic Tech einsteigst, hast du vielleicht ein paar unbeantwortete Fragen: Wie lassen sich Daten öffnen, und warum ist das wichtig für Verwaltungen? Lies Grundlagen, finde Argumente, Handreichungen und Use Cases auf dem Knowledge Hub der Open Knowledge Foundation Deutschland.
 
 {{< button-center href="https://opendata.okfn.de/" target="_blank" class="mb-6 mt-3">}}
 Open Data Knowledge Hub
