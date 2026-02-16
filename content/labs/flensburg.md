@@ -31,7 +31,7 @@ leads:
   url: mailto:roald@grain.one
 
 - name: Kontakt Allgemein
-  url: mailto:oklabflensburg@grain.one
+  url: mailto:info@oklabflensburg.de
 
 
 ---
