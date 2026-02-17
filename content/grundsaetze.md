@@ -29,12 +29,12 @@ Die Menschen in den Labs sind für die Organisation ihres Labs und ihrer Veranst
 
 ## Code of Conduct
 
-Bei Code for Germany gilt der [https://okfn.de/codeofconduct/] (Code of Conduct (Verhaltenskodex) der Open Knowledge Foundation Deutschland). 
+Bei Code for Germany gilt der (https://okfn.de/codeofconduct/)[Code of Conduct (Verhaltenskodex) der Open Knowledge Foundation Deutschland].
 
 Der Code of Conduct regelt das Verhalten untereinander im Netzwerk Code for Germany sowie das Auftreten nach außen der Menschen, die sich im Rahmen von Code for Germany engagieren. Wer an Angeboten des Netzwerks teilnimmt, über die Kommunikationskanäle kommuniziert und/oder anderweitig als Teil des Code-for-Germany-Netzwerks in Erscheinung tritt, erkennt diesen Code of Conduct als verbindlich an. 
   
 Die Organisator\*innen in den Labs, vor Ort und online, sind für die Einhaltung des Code of Conducts verantwortlich und sorgen entsprechend dafür, dass eine Umgebung geschaffen wird, die einen respektvollen Umgang miteinander ermöglicht.   
   
-Labs können ihren eigenen Code of Conduct haben, der darf jedoch nicht weniger Schutz bieten als der [Code of Conduct der Open Knowledge Foundation] (https://okfn.de/codeofconduct/](Code of Conduct der Open Knowledge Foundation Deutschland)). 
+Labs können ihren eigenen Code of Conduct haben, der darf jedoch nicht weniger Schutz bieten als der (https://okfn.de/codeofconduct/)[Code of Conduct der Open Knowledge Foundation]. 
 
 {{< /paragraph-center  >}}
