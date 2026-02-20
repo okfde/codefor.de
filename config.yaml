@@ -43,11 +43,6 @@ menu:
     name: Blog
     url: /blog/
     weight: 5
-  - identifier: spenden
-    pageRef: spenden
-    name: Spenden
-    url: /spenden/
-    weight: 7
 
 frontmatter:
   date: [":filename", ":default"]
