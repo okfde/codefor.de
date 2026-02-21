@@ -115,6 +115,7 @@ type: blog
 * Verwaltungsmodernisierungshackathon
   https://deutschland-was-geht.org
   https://chaos.social/@stk/115939398172400578
+  * https://www.heise.de/news/SPRIND-Buergerhackathon-Deutschland-was-nervt-11150475.html
 * Digital Omnibus Report V2: Analysis of Select GDPR and ePrivacy Proposals by the Commission
   https://noyb.eu/en/digital-omnibus-report-v2-analysis-select-gdpr-and-eprivacy-proposals-commission
 
@@ -320,6 +321,8 @@ type: blog
   https://www.zdfheute.de/wirtschaft/oellager-deutschland-tanquid-trump-usa-kontrolle-warren-100.html
 * Maskenaffäre: Gericht verhandelt wegen Steuerhinterziehung in Millionenhöhe
   https://www.zeit.de/wirtschaft/2026-01/maskenaffaere-maskendeal-muenchen-gericht-steuerhinterziehung-millionen-gxe
+* Das durchgesickerte AfD-"Regierungsprogramm" für Sachsen-Anhalt und seine Sprengkraft für Bildung, Forschung und Föderalismus: eine Analyse.
+  https://www.jmwiarda.de/blog/2026/01/29/ein-bundesland-als-versuchslabor
 ### Security by obscurity?
 * Energiesenatorin Giffey fordert Schutz sensibler Daten zur Infrastruktur
   https://www.deutschlandfunk.de/energiesenatorin-giffey-fordert-schutz-sensibler-daten-zur-infrastruktur-100.html
