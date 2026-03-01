@@ -22,6 +22,19 @@ type: blog
 * Umweltnavi API Documentation
   https://github.com/tifa365/umweltnavi-api-documentation
   https://norden.social/@datenschatz/116053526145951016
+* OpenFactBook
+  https://openfactbook.org/about/
+* MCP Server for Berlin Open Data
+  https://github.com/tifa365/berlin-opendata-mcp
+  https://norden.social/@datenschatz/116149896596751990
+* die berliner cdu-spd-landesregierung will den #datenschutz und die #informationsfreiheit aushöhlen. 
+  https://pardok.parlament-berlin.de/portala/browse.tt.html
+  https://chaos.social/@jk/116150255446802537
+* bunddev für R
+  https://www.linkedin.com/posts/lilith-wittmann_%C3%B6ffentliche-daten-sind-%C3%BCberall-aber-ugcPost-7427668539823738880-0CwX
+* Govdata OGD
+  https://www.linkedin.com/posts/govdata-de_opendata-ogd-itplr-activity-7426352736226578432-3O6B
+
 
 ### Datenpraxis
 * Folge 12 – Datenteilen politisch steuern: Eine Herausforderung
@@ -44,6 +57,10 @@ type: blog
   https://social.bund.de/@destatis/115999800733330833
 * Data Vis Dispatch, February 10: Winter Olympics
   https://www.datawrapper.de/blog/data-vis-dispatch-february-10-2026
+* Ohne Abstimmung: Sattes Lohn-Plus: Abgeordnete knacken die nächste Marke
+  https://www.t-online.de/nachrichten/deutschland/id_101147976/bundestag-abgeordnete-bekommen-fast-500-euro-mehr-im-monat.html
+* Hohe Mieten: Jede siebte Kommune in Europa zu teuer für Pflegekräfte
+  https://correctiv.org/aktuelles/2026/02/17/mieten-kaufen-immobilien-preise-wohnen-europa-lokal/
 
 ## Wahlen
 * Wahl-O-Mat Baden-Württemberg Open Data
@@ -54,6 +71,10 @@ type: blog
   * Wahlversprechen-Faktencheck für die Landtagswahl in Baden-Württemberg
     https://www.swr.de/swraktuell/baden-wuerttemberg/koalition-gruene-cdu-welche-vorhaben-hat-die-landesregierung-umgesetzt-100.html?ziel=schnittstellen-fur-offentlich-relevante-daten-seite-20
     https://social.tchncs.de/@zockbursche/116101771926396951
+  * kandidierendencheck Baden-Württemberg 2026
+    https://www.abgeordnetenwatch.de/blog/wahlen/die-spitzenkandidierenden-im-check-wer-folgt-der-parteilinie-wer-setzt-eigene-akzente
+  * Regierungscheck: Was hat die Landesregierung Baden-Württemberg umgesetzt?
+    https://www.swr.de/swraktuell/baden-wuerttemberg/koalition-gruene-cdu-welche-vorhaben-hat-die-landesregierung-umgesetzt-100.html
 * Kein Wahlomat für Kommunalwahl in Bayern
   https://www.augsburger-allgemeine.de/bayern/kommunalwahl-2026-bayern-warum-es-keinen-wahl-o-mat-gibt-17-02-113391004
 * Jetzt Briefwahl beantragen
@@ -100,6 +121,8 @@ type: blog
   https://social.bund.de/@zendis/116023197163782048
 * Der Autoritäre Block: Die Verflechtung von Big Tech und Staatsmacht
   https://www.rosalux.de/news/id/54438
+* Keep Android Open
+  https://keepandroidopen.org/open-letter/
 ### USA
 * Federal Data Is Disappearing.
   https://www.notus.org/trump-white-house/federal-data-is-disappearing
@@ -116,6 +139,13 @@ type: blog
 * Open Source lebt nicht vom „Read-only“
   https://wechange.coop/2026/02/18/petition-open-source/
   https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland
+* What happens when a large open source project dies?
+  https://nesbitt.io/2026/02/21/whale-fall.html
+
+### Open Hardware
+* Kabinettsbeschluss zum ÖkodesignG: Wichtige Fortschritte für Reparaturinitiativen
+  https://okfn.de/blog/2026/02/kabinettsbeschluss-zum-%C3%B6kodesigng-wichtige-fortschritte-f%C3%BCr-reparaturinitiativen/
+
 
 ## Digitalisierung
 * Trotz Sicherheitsbedenken: Düsseldorfer Stadtrat will anonyme digitale Abstimmungen
@@ -126,6 +156,16 @@ type: blog
   https://netzpolitik.org/2026/ki-und-datenschutz-wo-der-digitale-omnibus-der-eu-gerade-hinrollt/
 * Digitaler Euro: Einführung kostet die EU-Banken Milliarden
   https://www.heise.de/news/Digitaler-Euro-Einfuehrung-kostet-die-EU-Banken-Milliarden-11183340.html
+* „Den gläsernen Bürger nicht nur rechtlich, sondern auch technisch verhindern“
+  https://netzpolitik.org/2026/interview-zu-personenkennzeichen-den-glaesernen-buerger-nicht-nur-rechtlich-sondern-auch-technisch-verhindern/
+* Digitalminister plant bundesweite Bürger-App
+  https://www.heise.de/news/Das-wird-krass-Digitalminister-plant-bundesweite-Buerger-App-11192475.html
+* Stellungnahme des Bündnis F5 zum Digitalen Omnibus
+  https://okfn.de/blog/2026/02/stellungnahme-des-b%C3%BCndnis-f5-zum-digitalen-omnibus/
+
+## Gesundheit
+* Gesundheitsdatengau verhindern
+  https://www.ccc.de/de/updates/2026/fdz-gesundheitsdaten
 
 ## Karten
 * GIS dissolution
@@ -141,6 +181,9 @@ type: blog
   https://nominatim.org/2026/02/11/photon-1.0-released.html
 * Owning Your Workout Data with Java, Quarkus, and PostGIS
   https://www.the-main-thread.com/p/java-quarkus-apple-health-gpx-postgis
+* a small web tool to generate GeoJSON from OpenStreetMap public transport route relations.
+  https://openstreetmap.tools/public_transport_geojson/
+  https://hachyderm.io/@edward/116144674417539022
 
 ## Mobilität
 * Leider geil: Internetspiel nimmt Bahnstrecke Chemnitz-Leipzig aufs Korn
@@ -157,23 +200,84 @@ type: blog
 ## Energie
 * Energiewende-Monitor
   https://social.tchncs.de/@wpschill/116050931540273487
-* Attacke auf den Ausbau der Erneuerbaren Energien, Teil 1: Das sogenannte Netzpaket
-  https://www.l-iz.de/wirtschaft/metropolregion/2026/02/attacke-auf-den-ausbau-der-erneuerbaren-energien-teil-1-sogenannte-netzpaket-647936
-  https://www.l-iz.de/wirtschaft/metropolregion/2026/02/attacke-auf-den-ausbau-der-erneuerbaren-energien-teil-2-schildburgerstreich-namens-agnes-648033
+* Afrika wird zum wichtigsten Wachstumsmotor im globalen Solarmarkt
+  https://www.dmz-news.online/2026/02/18/afrika-wird-zum-wichtigsten-wachstumsmotor-im-globalen-solarmarkt/
+* Energieversprechen seit 70 Jahren verfehlt: Vor 2050 ist Kernfusion in Deutschland nicht zu erwarten
+  https://www.l-iz.de/bildung/forschung/2026/02/energieversprechen-seit-70-jahren-verfehlt-vor-2050-kernfusion-deutschland-nicht-zu-erwarten-647845
+  * How solar outgrew expectations
+    https://mastodon.social/@343max/116110396839769845
+  * Atom-Pläne mit neuartigen Reaktoren „fern jeder Realität“
+    https://www.vdi-nachrichten.com/technik/energie/die-langfristige-entwicklung-der-kernenergie-zwischen-erwartung-und-realitaet/
+
+### Reiches Netzpaket
 * Reiches "Netzpaket": Gutachter sehen Verstoß gegen europäisches Recht  
   https://www.t-online.de/heim-garten/aktuelles/id_101134784/netzpaket-von-reiche-europarechtlich-unzulaessig.html
   * Wir kommen zu einem Debakel, das der Maut 2.0 ähnelt
     https://www.focus.de/earth/netzpaket-reiche-energiewende-wir-kommen-zu-einem-debakel-das-der-maut-2-0-aehnelt_329ee221-5ad1-4f6f-a7a8-325e2a822ca3.html
   * Gundel Gaukeley
     https://bsky.app/profile/corisprotte.bsky.social/post/3mfcecngkpc2k
+* Attacke auf den Ausbau der Erneuerbaren Energien, Teil 1: Das sogenannte Netzpaket
+  https://www.l-iz.de/wirtschaft/metropolregion/2026/02/attacke-auf-den-ausbau-der-erneuerbaren-energien-teil-1-sogenannte-netzpaket-647936
+  https://www.l-iz.de/wirtschaft/metropolregion/2026/02/attacke-auf-den-ausbau-der-erneuerbaren-energien-teil-2-schildburgerstreich-namens-agnes-648033
 * Ökostrom: Was Reiches Netzpaket für Sachsen bedeutet
   https://www.diesachsen.de/wirtschaft/oekostrom-was-reiches-netzpaket-fuer-sachsen-bedeutet-3106105
 * Baustopp für Wind und Solar: Ein Frontalangriff auf die Energiewende?
   https://www.basicthinking.de/blog/2026/02/12/baustopp-fuer-wind-und-solar-ein-frontalangriff-auf-die-energiewende/
-* Afrika wird zum wichtigsten Wachstumsmotor im globalen Solarmarkt
-  https://www.dmz-news.online/2026/02/18/afrika-wird-zum-wichtigsten-wachstumsmotor-im-globalen-solarmarkt/
-* Energieversprechen seit 70 Jahren verfehlt: Vor 2050 ist Kernfusion in Deutschland nicht zu erwarten
-  https://www.l-iz.de/bildung/forschung/2026/02/energieversprechen-seit-70-jahren-verfehlt-vor-2050-kernfusion-deutschland-nicht-zu-erwarten-647845
+* EEG-Entwurf geleakt – komplette Streichung der Förderung privater Photovoltaik-Anlagen vorgesehen
+  https://www.pv-magazine.de/2026/02/26/eeg-entwurf-geleakt-komplette-streichung-der-foerderung-privater-photovoltaik-anlagen-vorgesehen/
+
+### Heizungsgsetz
+* Heizen soll wieder Spaß machen
+  https://taz.de/Neues-Heizungsgesetz/!6157772/
+* Wie die Gaslobby das Heizungsgesetz entkernt hat
+  https://www.lobbycontrol.de/lobbyismus-und-klima/wie-die-gaslobby-das-heizungsgesetz-entkernt-hat-109931/
+  * https://bewegung.social/@lobbycontrol/116126316997275001
+  * Gaslobby-Netzwerke
+    https://bewegung.social/@lobbycontrol/116131915640009754
+  * fossiles Energiekombinat 
+    https://23.social/@thomasfricke/116131103583326244
+* So will die Koalition die Regeln für Heizungen ändern
+  https://www.tagesschau.de/inland/innenpolitik/gebaeudemodernisierung-eckpunkte-heizungsgesetz-100.html
+* Dieses Heizungsgesetz bringt niemandem etwas
+  https://www.capital.de/wirtschaft-politik/eckpunkte-des-heizungsgesetz--diese-reform-bringt-niemandem-etwas-37167088.html
+* Neues Heizungsgesetz: Zwei-Personen-Haushalte müssten jährlich 350 Euro mehr zahlen
+  https://www.iwkoeln.de/presse/iw-nachrichten/ralph-henger-malte-kueper-zwei-personen-haushalte-muessten-jaehrlich-350-euro-mehr-zahlen.html
+* Journalismusversagen
+  https://mastodon.green/@buergerwerke/116131625516591537
+* Gekipptes Gebäudeenergiegesetz: In den Dreißigerjahren kommt die Quittung
+  https://www.spiegel.de/wissenschaft/mensch/gebaeudeenergiegesetz-in-den-dreissigerjahren-kommt-die-quittung-a-edb302e0-88b6-42d4-b12f-d811948c3706#ref=rss
+* Der Grüngas-Irrsinn
+  https://mastodon.social/@somlu1968/116137339020043478
+* Forschende sehen "katastrophale Verwässerung"
+  https://www.tagesschau.de/wissen/klima/reaktionen-gebaeudemodernisierungsgesetz-wissenschaft-100.html
+* Geschenk an Gaslobby stoppen! Heizen muss klimafreundlich und bezahlbar sein.
+  https://aktion.bund.net/gaslobby-geschenk-stoppen
+* Faktencheck zur Wahl: Heizen mit „grünem Öl“ statt Wärmepumpe
+  https://table.media/climate/analyse/faktencheck-zur-wahl-heizen-mit-gruenem-oel-statt-waermepumpe
+* Für die 65% Grüngasquote bräuchte man in Bayern das 1,5x der gesamten landwirtschaftliche Fläche Bayerns.
+  https://mastodon.social/@peterjelinek/116143118866855263
+* Biotreppe ins Desaster
+  https://www.captain-futura.de/2026/02/27/19811/
+  https://mastodon.social/@captainfutura/116141947621789736
+* Solarer Vollstopp, vorgetäuschte Heiz-Freiheit und eine Koalition, die von RWE abschreibt
+  https://klimareporter.de/gebaeude/solarer-vollstopp-vorgetaeuschte-heiz-freiheit-und-eine-koalition-die-von-rwe-abschreibt
+* ein paar Prostimmen
+  * Grüner Landesminister hält Reiches Netzpaket für vernünftig
+    https://www.handelsblatt.com/politik/deutschland/energiewende-gruener-landesminister-haelt-reiches-netzpaket-fuer-vernuenftig/100203967.html
+  * Reiche und die große Lebenslüge der Erneuerbare-Energien-Branche
+    https://www.handelsblatt.com/meinung/kommentare/kommentar-reiche-und-die-grosse-lebensluege-der-erneuerbare-energien-branche/100201914.html
+* Katherina Reiches Bekenntnis zu den Klimazielen ist lächerlich
+  https://www.handelsblatt.com/meinung/kommentare/kommentar-katherina-reiches-bekenntnis-zu-den-klimazielen-ist-laecherlich/100203407.html
+* Soziale Folgen des GMG-Entwurfs, IV mit Brigitte Knopf, Zukunft KlimaSozial
+  https://www.deutschlandfunk.de/soziale-folgen-des-gmg-entwurfs-iv-mit-brigitte-knopf-zukunft-klimasozial-100.html
+* Heizungsreform 2026: Regierungsaussagen im Check
+  https://correctiv.org/aktuelles/klimawandel/2026/02/27/heizungsreform-heizungsgesetz-2026-regierungsaussagen-im-check/
+* Die Wärmewende wird kaltgestellt
+  https://www.energiezukunft.eu/erneuerbare-energien/waermewende/die-waermewende-wird-kaltgestellt
+* Änderungen beim Heizungsgesetz: Wird es für Mieter jetzt teuer?
+  https://www1.wdr.de/nachrichten/heizungsgesetz-was-bedeutet-das-fuer-mieter-100.html
+* Heizungsgesetz: Schwarz-Rot sägt die Wärmewende ab
+  https://www.surplusmagazin.de/geg-reform-heizungsgesetz-kritik-warmepumpen/
 
 ## Klima
 * EU plant Lockerungen bei Emissionshandel: Der Markt regelt's nicht
@@ -188,6 +292,18 @@ type: blog
   https://www.fr.de/wissen/experte-warnt-wir-veraendern-die-stratosphaere-in-einen-nie-dagewesenen-zustand-zr-94164864.html
 * China has planted so many trees around the Taklamakan Desert that it's turned this 'biological void' into a carbon sink
   https://www.livescience.com/planet-earth/plants/china-has-planted-so-many-trees-around-the-taklamakan-desert-that-its-turned-this-biological-void-into-a-carbon-sink
+* Handbuch Umweltkosten: Klimaschutz rechnet sich Das „Handbuch Umweltkosten – Methodenkonvention 4.0“ drückt in Geldwerten aus, welche Schäden durch deutsche Treibhausgase und andere Umwelteffekte entstehen – und durch ambitionierte Klima- und Umweltpolitik vermieden werden können.
+  https://www.umweltbundesamt.de/publikationen/handbuch-umweltkosten
+  https://social.bund.de/@Umweltbundesamt/116126328983891699
+* Global Greening: Wie der globale Wandel die Vegetation Richtung Nordosten verschiebt
+  https://www.l-iz.de/bildung/forschung/2026/02/global-greening-648487
+  https://greenwave.earth
+* Heftige Niederschläge haben im Jänner, Februar in Spanien und Portugal große Zerstörungen angerichtet
+  https://science.orf.at/stories/3234377/
+* Loading the DICE Against Pensions
+  https://carbontracker.org/reports/loading-the-dice-against-pensions/
+* Climate change is accelerating but nature is slowing down
+  https://www.sciencedaily.com/releases/2026/02/260217005714.htm
 
 ## Kultur
 * 1300 Jahre alte Weltchronik in Katharinenkloster auf dem Sinai entdeckt
@@ -195,11 +311,28 @@ type: blog
 * Bibliotheksgeschichte zum Mitmachen
   https://www.saxorum.de/mitmachen/bibliotheksgeschichte-zum-mitmachen
   https://openbiblio.social/@slubdresden/116096237734395497
+* artresearch.net
+  https://artresearch.net/resource/:start
+  https://det.social/@HxxxKxxx/116127620848958856
+* archaeo3d.de
+  https://archaeo3d.de
+  https://dresden.network/@Zahlenzauberin/116132870399842975
+* Gute Nachrichten für offenes Kulturerbe: Das Bundesarchiv unterstützt das Open Heritage Statement!
+  https://openheritagestatement.org/statement
+  https://social.wikimedia.de/@wikimediaDE/116141191533923213
+* SODa Semantic Co-Working Space
+  https://fedihum.org/@SODa/116138107202652735
+* Archäologische Schätze der Ukraine als 3D-Projekt gerettet
+  https://www.nordisch.info/panorama/klasse-aktion-archaeologische-schaetze-der-ukraine-als-3d-projekt-gerettet/
 
-## Journalismus
+## Journalismus und Demokratie
 * "Keine Sendezeit für Antidemokraten", fordern Medienschaffende und Forscher
   https://www.derstandard.de/story/3000000308864/afd-chef-chrupalla-in-ard-talk-appell-gegen-normalisierung-der-extrem-rechten
   https://bsky.app/profile/politicalbeauty.bsky.social/post/3medixewaus25
+* Die Arroganz der Macht
+  https://www.t-online.de/nachrichten/tagesanbruch/id_101146816/politiker-fuerchten-das-volk-.html
+* Was die Übernahme von Warner für CNN bedeuten könnte
+  https://www.zdfheute.de/politik/ausland/warner-bros-paramount-netflix-uebernahme-cnn-trump-usa-100.html
 
 ## Transparenz
 * Korruptionswahrnehmungsindex (Corruption Perceptions Index, CPI) 2025
@@ -215,12 +348,26 @@ type: blog
   https://correctiv.org/aktuelles/kampf-um-wasser/2026/02/03/wie-die-industrie-den-rhein-mit-unbekannten-stoffen-verschmutzt/
 * Benjamin Brake arbeitete im Ministerium an der Regulierung von Künstlicher Intelligenz. Jetzt setzt er sich für ihre Deregulierung ein.
   https://www.abgeordnetenwatch.de/recherchen/lobbyismus/ex-abteilungsleiter-wechselt-zur-tech-lobby
+* Rücktrittsforderung an AfD-Personalchef: Vetternwirtschaft ist der gordische Knoten
+  https://taz.de/Ruecktrittsforderung-an-AfD-Personalchef/!6157504/
+  https://chaos.social/@lalonsander/116130949643068571
+  * „Family and Friends“: Tracker zur Vetternwirtschaft bei der AfD
+    https://correctiv.org/aktuelles/kandidierenden-check/2026/02/27/afd-vetternwirtschaft-tracker-uebersicht-grafik-aktuell/
+* Jmail reimagines Jeffrey Epstein's publicly released emails as an interactive Gmail-style inbox
+  https://jmail.world
+  https://mas.to/@nemo/116143369433801220
+* Angriffe auf Zivilgesellschaft: Die Extremismusklausel ist zurück
+  https://fragdenstaat.de/artikel/exklusiv/2026/02/angriffe-auf-zivilgesellschaft/
 
 ## Überwachung
 * Chatkontrolle stoppen
   https://chat-kontrolle.eu/index.php/2026/02/01/aufruf-eprivacy-luecke-schliessen/
   * Achtung: Protest-Emails an Europaabgeordnete gegen die #Chatkontrolle 1.0  werden wohl bald automatisiert rausgefiltert.
     https://eupolicy.social/@pneutig/116047234421815328
+  * Update zur Chatkontrolle 1.0
+    https://digitalegesellschaft.de/2026/02/update-zur-chatkontrolle-1-0/  
+    https://digitalegesellschaft.de/2026/02/nein-zur-massenhaften-ueberwachung-unserer-nachrichten-durch-big-tech/
+    https://chat-kontrolle.eu/index.php/2026/02/23/offener-brief-nein-zur-chatkontrolle-1-0/
 * Palantir is suing us. Us, the Republik Magazin. 
   https://infosec.exchange/@adfichter/116057480580052663
 * Innenausschuss in Sachsen-Anhalt winkt massiv kritisiertes Palantir-Gesetz unverändert durch
@@ -233,6 +380,8 @@ type: blog
   https://mastodon.social/@wchr/116102884658851646
 * Anfrage zu https://einfach-machen.gov.de  ist gescheitert 
   https://fragdenstaat.de/anfrage/einreichungen-aus-dem-einfachmachen-portal-1/1079630/anhang/ifgbescheidname28012026_geschwaerzt.pdf
+* CCC zum Entwurf des sächsischen Polizeigesetzes: Das ist eine „Blaupause für den Überwachungsstaat“
+  https://www.l-iz.de/politik/sachsen/2026/02/ccc-zum-entwurf-des-sachsischen-polizeigesetzes-blaupause-fur-uberwachungsstaat-648862
 
 ## The daily KInk
 ### Neue Tools
@@ -242,6 +391,8 @@ type: blog
   https://www.heise.de/news/Anthropic-stellt-Claude-Opus-4-6-mit-Agent-Teams-vor-11167133.html
 * GPT-5.3-Codex: OpenAI stellt neues Coding-Modell vor
   https://www.heise.de/news/GPT-5-3-Codex-OpenAI-stellt-neues-Coding-Modell-vor-11167502.html
+* Nano Banana 2 bringt Pro-Funktionen für Gratis-Nutzer
+  https://www.heise.de/news/Nano-Banana-2-bringt-Pro-Funktionen-fuer-Gratis-Nutzer-11192662.html
 ### Bildung
 * Kopflos unterwegs: KI-Kompetenzen in Schulen und für die Schulentwicklung
   https://www.heise.de/news/Orientierungspapier-kritisiert-aktuelle-Lage-von-KI-im-Bildungssystem-11160508.html
@@ -261,6 +412,8 @@ type: blog
   https://www.heise.de/news/KI-Agenten-spielen-roemisches-Brettspiel-und-ermitteln-so-dessen-Regeln-11171367.html
 * KI-gestützte Orchestrierung von Wissensgraphen
   https://github.com/weberius/staedtepartnerschaften
+* machine-learning-lernt-aus-daten-wer-seine-activity
+  https://www.linkedin.com/posts/peter-hense-%F0%9F%87%BA%F0%9F%87%A6%F0%9F%87%AE%F0%9F%87%B1%F0%9F%87%AA%F0%9F%87%BA-19861318_machine-learning-lernt-aus-daten-wer-seine-activity-7430351157333663744-F4G9
 ### Auswirkung in der Medizin
 * KI in der Medizin: Effizienz vs. Ethik
   https://www.zdfheute.de/video/heute-journal/rieken-ki-medizin-100.html
@@ -277,6 +430,13 @@ type: blog
   https://www.heise.de/news/Manipulierte-Strassenschilder-Wenn-das-autonome-Auto-Fussgaenger-umfaehrt-11162744.html
 * KI-Agenten: Popularität steigt rasant – trotz mangelnder Sicherheit
   https://www.heise.de/news/KI-Agenten-Popularitaet-steigt-rasant-trotz-mangelnder-Sicherheit-11184780.html
+* Höhere Kosten und längere Ausfallzeiten durch KI-Integration
+  https://www.golem.de/news/ai-first-unternehmen-hoehere-kosten-und-laengere-ausfallzeiten-durch-ki-integration-2602-205793.html
+* Claude: KI-Chatbot für Cyberangriff auf mexikanische Regierung genutzt
+  https://www.heise.de/news/Claude-KI-Chatbot-fuer-Cyberangriff-auf-mexikanische-Regierung-genutzt-11190396.html
+* Facial recognition error prompts police to arrest Asian man for burglary 100 miles away
+  https://www.theguardian.com/technology/2026/feb/25/facial-recognition-error-prompts-police-to-arrest-asian-man-for-burglary-100-miles-away
+  https://mamot.fr/@roofjoke/116136228318085740
 ### Auswirkung auf Arbeit
 * 80 Prozent der Firmen nutzen KI: Microsoft warnt vor gefährlicher Schatten-KI
   https://www.heise.de/news/80-Prozent-der-Firmen-nutzen-KI-Microsoft-warnt-vor-gefaehrlicher-Schatten-KI-11172238.html
@@ -286,6 +446,10 @@ type: blog
 * Studie: Wenn KI nicht weniger, sondern mehr Arbeit macht
   https://www.tagesschau.de/wissen/forschung/ki-arbeitsintensitaet-folgen-100.html
   https://www.golem.de/news/arbeitsverdichtung-ki-macht-nicht-weniger-arbeit-sondern-mehr-2602-205204.html
+* KI am Arbeitsplatz kann in mehr Arbeit und Burnout enden
+  https://www.br.de/nachrichten/wissen/ki-am-arbeitsplatz-kann-in-mehr-arbeit-und-burnout-enden,VBfwSwR
+* Burger King führt den KI-Assistenten "Patty" ein. Er hört über Headsets mit und bewertet, wie freundlich das Personal ist.
+  https://www.telepolis.de/article/Burger-King-laesst-KI-mithoeren-und-benotet-wie-nett-das-Personal-ist-11192133.html
 ### Auswirkungen auf Programmieren
 * Rely On AI And Get Left Behind
   https://codemanship.wordpress.com/2026/02/21/is-comprehension-debt-in-your-risk-register/
@@ -310,6 +474,17 @@ type: blog
   https://correctiv.org/aktuelles/kuenstliche-intelligenz/2026/02/05/deutschlands-neue-ki-rechenzentren-bald-auch-in-ihrer-nachbarschaft-so-erkennen-sie-die-fabriken/
 * Die übersehenen Umweltfolgen durch KI
   https://www.deutschlandfunk.de/systemische-umweltrisiken-von-ki-interview-mit-lena-hoffmann-gi-100.html
+### Auswirkung auf die Wirtschaft
+* AI Added ‘Basically Zero’ to US Economic Growth Last Year, Goldman Sachs Says
+  https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380
+* Anthropic wirft chinesischen Unternehmen unlautere Praktiken vor
+  https://www.heise.de/news/Anthropic-wirft-chinesischen-Unternehmen-unlautere-Praktiken-vor-11186816.html
+* Nervöse Börsen: Gedankenexperiment über KI lässt Techaktien sacken
+  https://www.heise.de/news/Nervoese-Boersen-Gedankenexperiment-ueber-KI-laesst-Techaktien-sacken-11187688.html
+* Everyone in AI is building the wrong thing for the same reason
+  https://www.joanwestenberg.com/everyone-in-ai-is-building-the-wrong-thing-for-the-same-reason/
+* SAPs KI-Wette wackelt
+  https://www.golem.de/news/joule-saps-ki-wette-wackelt-2602-205842.html
 ### Moralischer Meltdown
 * Wer gern cheated und Shortcuts nimmt, liebt Chatbots.
   https://mastodon.wurzelmann.at/@mimrma/116062078768592309
@@ -317,11 +492,27 @@ type: blog
   https://tante.cc/2026/02/14/diffusion-of-responsibility/
 * ChatGPT-Boykott: Diese Kampagne fordert, Abos bei OpenAI zu kündigen
   https://t3n.de/news/chatgpt-boykott-kampagne-openai-1729228/
+  * Anthropic widersetzt sich Forderung von US-Verteidigungsministerium
+    https://www.zeit.de/politik/ausland/2026-02/anthropic-ki-technik-us-verteidigungsministerium-hegseth
+* KI ist keine Revolution sondern eine seltsame Rettungsaktion des Kapitalismus
+  https://www.mariusmichusch.de/ki-ist-keine-revolution-sondern-eine-verzweifelte-rettungsaktion-des-kapitalismus/
+  https://hessen.social/@mariusmichusch/116148127916197997
+* OpenClaw: KI-Agent ohne Leitplanken?
+  https://www.surplusmagazin.de/openclaw-ki-aya-jaff-startup-openai/
 
 ## Und sonst so
 * version of wikipedia you can doomscroll
   https://xikipedia.org
   via https://infosec.exchange/users/rebane2001/statuses/115998023365214091
+
+## Recap
+* OKNRW Barcamp 2025 – Science Track-Sammelband
+  https://oknrw.de/oknrw-barcamp-2025-science-track-sammelband/
+  und Rückblick: https://oknrw.de/rueckblende-oknrw-barcamp-2025/
+* FOSDEM '26
+  https://fosdem.org/2026/schedule/events/
+* eGovernment Podcast Monatsschau
+  https://egovernment-podcast.com/egov252-monatsschau-02-26/
 
 ## Fristen
 * Dritte Runde des Landesprogramms Offene Innovation in Schleswig-Holstein gestartet, bis 28.04.2026
@@ -329,72 +520,77 @@ type: blog
 * CfP für die spring(); break, 15.03.2026
   https://pretalx.das-labor.org/spring-break-2026/cfp
 
-## Recap
-* OKNRW Barcamp 2025 – Science Track-Sammelband
-  https://oknrw.de/oknrw-barcamp-2025-science-track-sammelband/
-  und Rückblick: https://oknrw.de/rueckblende-oknrw-barcamp-2025/
-
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
-* Sonntag, 01.03.2026, online: **Digital Independence Day** <a title='Kalendereintrag Digital Independence Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjIyVDEwNTE1NVoNCkRUU1RBUlQ6MjAyNjAzMDFUMDAwMDAwDQpEVEVORDoyMDI2MDMwMVQyMzU5NTkNClNVTU1BUlk6RGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpLmRheQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Sonntag, 01.03.2026, online: **Digital Independence Day** <a title='Kalendereintrag Digital Independence Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjAzMDFUMDAwMDAwDQpEVEVORDoyMDI2MDMwMVQyMzU5NTkNClNVTU1BUlk6RGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpLmRheQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://di.day
-* Sonntag, 01.03.2026, bis Sonntag, 08.03.2026, 23:59, online: **Open Data Day 2026** <a title='Kalendereintrag Open Data Day 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3BlbiBEYXRhIERheSAyMDI2Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjIyVDEwNTE1NVoNCkRUU1RBUlQ6MjAyNjAzMDFUMDAwMDAwDQpEVEVORDoyMDI2MDMwOFQyMzU5NTkNClNVTU1BUlk6T3BlbiBEYXRhIERheSAyMDI2DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL29wZW5kYXRhZGF5Lm9yZy9kZS9ldmVudHMvMjAyNi8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+* Sonntag, 01.03.2026, bis Sonntag, 08.03.2026, 23:59, online: **Open Data Day 2026** <a title='Kalendereintrag Open Data Day 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3BlbiBEYXRhIERheSAyMDI2Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjAzMDFUMDAwMDAwDQpEVEVORDoyMDI2MDMwOFQyMzU5NTkNClNVTU1BUlk6T3BlbiBEYXRhIERheSAyMDI2DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL29wZW5kYXRhZGF5Lm9yZy9kZS9ldmVudHMvMjAyNi8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://opendataday.org/de/events/2026/
-* Montag, 02.03.2026, 14:00-17:00, Raum Oxford (04G01), Staatsbibliothek zu Berlin, Unter den Linden 8, 10117  Berlin und auch online: **Datencafé: Automatische Texterkennung mit eScriptorium** <a title='Kalendereintrag Datencafé: Automatische Texterkennung mit eScriptorium' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGF0ZW5jYWbDqTogQXV0b21hdGlzY2hlIFRleHRlcmtlbm51bmcgbWl0IGVTY3JpcHRvcml1bS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDIyMlQxMDUxNTVaDQpEVFNUQVJUOjIwMjYwMzAyVDE0MDAwMA0KRFRFTkQ6MjAyNjAzMDJUMTcwMDAwDQpTVU1NQVJZOkRhdGVuY2Fmw6k6IEF1dG9tYXRpc2NoZSBUZXh0ZXJrZW5udW5nIG1pdCBlU2NyaXB0b3JpdW0NCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vbGFiLnNiYi5iZXJsaW4vZGF0ZW5jYWZlLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpSYXVtIE94Zm9yZCAoMDRHMDEpXCwgU3RhYXRzYmlibGlvdGhlayB6dSBCZXJsaW5cLCBVbnRlciBkZW4gTGluZGVuIDhcLCAxMDExNyAgQmVybGluIHVuZCBhdWNoIG9ubGluZQ0KR0VPOjUyLjUxNzUzODg5MjAwMDc3OzEzLjM5MTYyMDQ3NjM5NTY3Mw0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+* Montag, 02.03.2026, 14:00-17:00, Raum Oxford (04G01), Staatsbibliothek zu Berlin, Unter den Linden 8, 10117  Berlin und auch online: **Datencafé: Automatische Texterkennung mit eScriptorium** <a title='Kalendereintrag Datencafé: Automatische Texterkennung mit eScriptorium' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGF0ZW5jYWbDqTogQXV0b21hdGlzY2hlIFRleHRlcmtlbm51bmcgbWl0IGVTY3JpcHRvcml1bS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDMwMVQyMDM0MjRaDQpEVFNUQVJUOjIwMjYwMzAyVDE0MDAwMA0KRFRFTkQ6MjAyNjAzMDJUMTcwMDAwDQpTVU1NQVJZOkRhdGVuY2Fmw6k6IEF1dG9tYXRpc2NoZSBUZXh0ZXJrZW5udW5nIG1pdCBlU2NyaXB0b3JpdW0NCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vbGFiLnNiYi5iZXJsaW4vZGF0ZW5jYWZlLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpSYXVtIE94Zm9yZCAoMDRHMDEpXCwgU3RhYXRzYmlibGlvdGhlayB6dSBCZXJsaW5cLCBVbnRlciBkZW4gTGluZGVuIDhcLCAxMDExNyAgQmVybGluIHVuZCBhdWNoIG9ubGluZQ0KR0VPOjUyLjUxNzUzODg5MjAwMDc3OzEzLjM5MTYyMDQ3NjM5NTY3Mw0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://lab.sbb.berlin/datencafe/
-* Dienstag, 03.03.2026, 13:00-13:45, online: **Das Open Heritage Statement** <a title='Kalendereintrag Das Open Heritage Statement' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGFzIE9wZW4gSGVyaXRhZ2UgU3RhdGVtZW50Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjIyVDEwNTE1NVoNCkRUU1RBUlQ6MjAyNjAzMDNUMTMwMDAwDQpEVEVORDoyMDI2MDMwM1QxMzQ1MDANClNVTU1BUlk6RGFzIE9wZW4gSGVyaXRhZ2UgU3RhdGVtZW50DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy53aWtpbWVkaWEuZGUvdmVyYW5zdGFsdHVuZ2VuL2Rhcy1vcGVuLWhlcml0YWdlLXN0YXRlbWVudC8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+* Dienstag, 03.03.2026, 13:00-13:45, online: **Das Open Heritage Statement** <a title='Kalendereintrag Das Open Heritage Statement' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGFzIE9wZW4gSGVyaXRhZ2UgU3RhdGVtZW50Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjAzMDNUMTMwMDAwDQpEVEVORDoyMDI2MDMwM1QxMzQ1MDANClNVTU1BUlk6RGFzIE9wZW4gSGVyaXRhZ2UgU3RhdGVtZW50DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy53aWtpbWVkaWEuZGUvdmVyYW5zdGFsdHVuZ2VuL2Rhcy1vcGVuLWhlcml0YWdlLXN0YXRlbWVudC8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://www.wikimedia.de/veranstaltungen/das-open-heritage-statement/
-* Dienstag, 03.03.2026, 20:00-22:00, c-base, Rungestraße 20, 10179 Berlin und auch online: **154. Netzpolitischer Abend** <a title='Kalendereintrag 154. Netzpolitischer Abend' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vMTU0LiBOZXR6cG9saXRpc2NoZXIgQWJlbmQvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjAyMjJUMTA1MTU1Wg0KRFRTVEFSVDoyMDI2MDMwM1QyMDAwMDANCkRURU5EOjIwMjYwMzAzVDIyMDAwMA0KU1VNTUFSWToxNTQuIE5ldHpwb2xpdGlzY2hlciBBYmVuZA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9kaWdpdGFsZWdlc2VsbHNjaGFmdC5kZS8yMDI2LzAyLzE1NC1uZXR6cG9saXRpc2NoZXItYWJlbmQvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOmMtYmFzZVwsIFJ1bmdlc3RyYcOfZSAyMFwsIDEwMTc5IEJlcmxpbiB1bmQgYXVjaCBvbmxpbmUNCkdFTzo1Mi41MTI5NzM1OzEzLjQyMDEzMTMNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Dienstag, 03.03.2026, 14:00, bis Donnerstag, 05.03.2026, 17:00, Messe Karlsruhe, Messeallee 1, 76287  Rheinstetten: **IT-TRANS – Die Internationale Fachmesse mit Kongressplattform für digitale Mobilität** <a title='Kalendereintrag IT-TRANS – Die Internationale Fachmesse mit Kongressplattform für digitale Mobilität' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSVQtVFJBTlMg4oCTIERpZSBJbnRlcm5hdGlvbmFsZSBGYWNobWVzc2UgbWl0IEtvbmdyZXNzcGxhdHRmb3JtIGbDvHIgZGlnaXRhbGUgTW9iaWxpdMOkdC8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDMwMVQyMDM0MjRaDQpEVFNUQVJUOjIwMjYwMzAzVDE0MDAwMA0KRFRFTkQ6MjAyNjAzMDVUMTcwMDAwDQpTVU1NQVJZOklULVRSQU5TIOKAkyBEaWUgSW50ZXJuYXRpb25hbGUgRmFjaG1lc3NlIG1pdCBLb25ncmVzc3BsYXR0Zm9ybSBmw7xyIGRpZ2l0YWxlIE1vYmlsaXTDpHQNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vd3d3Lml0LXRyYW5zLm9yZy9kZS8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046TWVzc2UgS2FybHNydWhlXCwgTWVzc2VhbGxlZSAxXCwgNzYyODcgIFJoZWluc3RldHRlbg0KR0VPOjQ4Ljk4MDg2NDY7OC4zMzA0MTY2OTk5OTk5OTkNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+  * https://www.it-trans.org/de/
+* Dienstag, 03.03.2026, 20:00-22:00, c-base, Rungestraße 20, 10179 Berlin und auch online: **154. Netzpolitischer Abend** <a title='Kalendereintrag 154. Netzpolitischer Abend' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vMTU0LiBOZXR6cG9saXRpc2NoZXIgQWJlbmQvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjAzMDFUMjAzNDI0Wg0KRFRTVEFSVDoyMDI2MDMwM1QyMDAwMDANCkRURU5EOjIwMjYwMzAzVDIyMDAwMA0KU1VNTUFSWToxNTQuIE5ldHpwb2xpdGlzY2hlciBBYmVuZA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9kaWdpdGFsZWdlc2VsbHNjaGFmdC5kZS8yMDI2LzAyLzE1NC1uZXR6cG9saXRpc2NoZXItYWJlbmQvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOmMtYmFzZVwsIFJ1bmdlc3RyYcOfZSAyMFwsIDEwMTc5IEJlcmxpbiB1bmQgYXVjaCBvbmxpbmUNCkdFTzo1Mi41MTI5NzM1OzEzLjQyMDEzMTMNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://digitalegesellschaft.de/2026/02/154-netzpolitischer-abend/
-* Mittwoch, 04.03.2026, 20:00-21:30, online: **Open Transport Meetup: Organic Maps - Public Transport for everyone** <a title='Kalendereintrag Open Transport Meetup: Organic Maps - Public Transport for everyone' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3BlbiBUcmFuc3BvcnQgTWVldHVwOiBPcmdhbmljIE1hcHMgLSBQdWJsaWMgVHJhbnNwb3J0IGZvciBldmVyeW9uZS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDIyMlQxMDUxNTVaDQpEVFNUQVJUOjIwMjYwMzA0VDIwMDAwMA0KRFRFTkQ6MjAyNjAzMDRUMjEzMDAwDQpTVU1NQVJZOk9wZW4gVHJhbnNwb3J0IE1lZXR1cDogT3JnYW5pYyBNYXBzIC0gUHVibGljIFRyYW5zcG9ydCBmb3IgZXZlcnlvbmUNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vaGFja21kLm9rZm4uZGUvb3BlbnRyYW5zcG9ydG1lZXR1cA0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Mittwoch, 04.03.2026, 20:00-21:30, online: **Open Transport Meetup: Organic Maps - Public Transport for everyone** <a title='Kalendereintrag Open Transport Meetup: Organic Maps - Public Transport for everyone' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3BlbiBUcmFuc3BvcnQgTWVldHVwOiBPcmdhbmljIE1hcHMgLSBQdWJsaWMgVHJhbnNwb3J0IGZvciBldmVyeW9uZS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDMwMVQyMDM0MjRaDQpEVFNUQVJUOjIwMjYwMzA0VDIwMDAwMA0KRFRFTkQ6MjAyNjAzMDRUMjEzMDAwDQpTVU1NQVJZOk9wZW4gVHJhbnNwb3J0IE1lZXR1cDogT3JnYW5pYyBNYXBzIC0gUHVibGljIFRyYW5zcG9ydCBmb3IgZXZlcnlvbmUNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vaGFja21kLm9rZm4uZGUvb3BlbnRyYW5zcG9ydG1lZXR1cA0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://hackmd.okfn.de/opentransportmeetup
-* Donnerstag, 05.03.2026, 10:00-14:00, Offenen Kanal Flensburg, Sankt-Jürgen-Straße 95, 24937 Flensburg: **Mit Offene Daten, Vorträge und Vernetzung** <a title='Kalendereintrag Mit Offene Daten, Vorträge und Vernetzung' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTWl0IE9mZmVuZSBEYXRlblwsIFZvcnRyw6RnZSB1bmQgVmVybmV0enVuZy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDIyMlQxMDUxNTVaDQpEVFNUQVJUOjIwMjYwMzA1VDEwMDAwMA0KRFRFTkQ6MjAyNjAzMDVUMTQwMDAwDQpTVU1NQVJZOk1pdCBPZmZlbmUgRGF0ZW5cLCBWb3J0csOkZ2UgdW5kIFZlcm5ldHp1bmcNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vb3BlbmRhdGFkYXktZmxlbnNidXJnLmRlDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOk9mZmVuZW4gS2FuYWwgRmxlbnNidXJnXCwgU2Fua3QtSsO8cmdlbi1TdHJhw59lIDk1XCwgMjQ5MzcgRmxlbnNidXJnDQpHRU86NTQuNzkxNjIwNzs5LjQ0MjI2NTINCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Donnerstag, 05.03.2026, 10:00-14:00, Offenen Kanal Flensburg, Sankt-Jürgen-Straße 95, 24937 Flensburg: **Mit Offene Daten, Vorträge und Vernetzung** <a title='Kalendereintrag Mit Offene Daten, Vorträge und Vernetzung' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTWl0IE9mZmVuZSBEYXRlblwsIFZvcnRyw6RnZSB1bmQgVmVybmV0enVuZy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDMwMVQyMDM0MjRaDQpEVFNUQVJUOjIwMjYwMzA1VDEwMDAwMA0KRFRFTkQ6MjAyNjAzMDVUMTQwMDAwDQpTVU1NQVJZOk1pdCBPZmZlbmUgRGF0ZW5cLCBWb3J0csOkZ2UgdW5kIFZlcm5ldHp1bmcNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vb3BlbmRhdGFkYXktZmxlbnNidXJnLmRlDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOk9mZmVuZW4gS2FuYWwgRmxlbnNidXJnXCwgU2Fua3QtSsO8cmdlbi1TdHJhw59lIDk1XCwgMjQ5MzcgRmxlbnNidXJnDQpHRU86NTQuNzkxNjIwNzs5LjQ0MjI2NTINCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://opendataday-flensburg.de
-* Donnerstag, 05.03.2026, 11:00-12:00, online: **CorrelCompact: Wirkungsbericht für die Tonne? Wirkungsdaten besser aufbereiten** <a title='Kalendereintrag CorrelCompact: Wirkungsbericht für die Tonne? Wirkungsdaten besser aufbereiten' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ29ycmVsQ29tcGFjdDogV2lya3VuZ3NiZXJpY2h0IGbDvHIgZGllIFRvbm5lPyBXaXJrdW5nc2RhdGVuIGJlc3NlciBhdWZiZXJlaXRlbi8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDIyMlQxMDUxNTVaDQpEVFNUQVJUOjIwMjYwMzA1VDExMDAwMA0KRFRFTkQ6MjAyNjAzMDVUMTIwMDAwDQpTVU1NQVJZOkNvcnJlbENvbXBhY3Q6IFdpcmt1bmdzYmVyaWNodCBmw7xyIGRpZSBUb25uZT8gV2lya3VuZ3NkYXRlbiBiZXNzZXIgYXVmYmVyZWl0ZW4NCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vY29ycmVsYWlkLm9yZy92ZXJhbnN0YWx0dW5nZW4vY2MyNi13aXJrdW5nc2JlcmljaHQNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+* Donnerstag, 05.03.2026, 11:00-12:00, online: **CorrelCompact: Wirkungsbericht für die Tonne? Wirkungsdaten besser aufbereiten** <a title='Kalendereintrag CorrelCompact: Wirkungsbericht für die Tonne? Wirkungsdaten besser aufbereiten' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ29ycmVsQ29tcGFjdDogV2lya3VuZ3NiZXJpY2h0IGbDvHIgZGllIFRvbm5lPyBXaXJrdW5nc2RhdGVuIGJlc3NlciBhdWZiZXJlaXRlbi8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDMwMVQyMDM0MjRaDQpEVFNUQVJUOjIwMjYwMzA1VDExMDAwMA0KRFRFTkQ6MjAyNjAzMDVUMTIwMDAwDQpTVU1NQVJZOkNvcnJlbENvbXBhY3Q6IFdpcmt1bmdzYmVyaWNodCBmw7xyIGRpZSBUb25uZT8gV2lya3VuZ3NkYXRlbiBiZXNzZXIgYXVmYmVyZWl0ZW4NCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vY29ycmVsYWlkLm9yZy92ZXJhbnN0YWx0dW5nZW4vY2MyNi13aXJrdW5nc2JlcmljaHQNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://correlaid.org/veranstaltungen/cc26-wirkungsbericht
-* Donnerstag, 05.03.2026, 18:00-21:00, WikiBär Wikipedia, Köpenicker Straße 45, 10179 Berlin: **Jugend editiert** <a title='Kalendereintrag Jugend editiert' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSnVnZW5kIGVkaXRpZXJ0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjIyVDEwNTE1NVoNCkRUU1RBUlQ6MjAyNjAzMDVUMTgwMDAwDQpEVEVORDoyMDI2MDMwNVQyMTAwMDANClNVTU1BUlk6SnVnZW5kIGVkaXRpZXJ0DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy53aWtpbWVkaWEuZGUvdmVyYW5zdGFsdHVuZ2VuL2p1Z2VuZC1lZGl0aWVydC8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046V2lraULDpHIgV2lraXBlZGlhXCwgS8O2cGVuaWNrZXIgU3RyYcOfZSA0NVwsIDEwMTc5IEJlcmxpbg0KR0VPOjUyLjUwMjY3NzA2MjkzNjA3OzEzLjQzOTI1MDM0ODcyMTU0NA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+* Donnerstag, 05.03.2026, 18:00-21:00, WikiBär Wikipedia, Köpenicker Straße 45, 10179 Berlin: **Jugend editiert** <a title='Kalendereintrag Jugend editiert' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSnVnZW5kIGVkaXRpZXJ0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjAzMDVUMTgwMDAwDQpEVEVORDoyMDI2MDMwNVQyMTAwMDANClNVTU1BUlk6SnVnZW5kIGVkaXRpZXJ0DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy53aWtpbWVkaWEuZGUvdmVyYW5zdGFsdHVuZ2VuL2p1Z2VuZC1lZGl0aWVydC8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046V2lraULDpHIgV2lraXBlZGlhXCwgS8O2cGVuaWNrZXIgU3RyYcOfZSA0NVwsIDEwMTc5IEJlcmxpbg0KR0VPOjUyLjUwMjY3NzA2MjkzNjA3OzEzLjQzOTI1MDM0ODcyMTU0NA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://www.wikimedia.de/veranstaltungen/jugend-editiert/
-* Donnerstag, 05.03.2026, 19:31-20:30, online: **Bits & Bäume Community Vernetzungstreffen** <a title='Kalendereintrag Bits & Bäume Community Vernetzungstreffen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQml0cyAmIELDpHVtZSBDb21tdW5pdHkgVmVybmV0enVuZ3N0cmVmZmVuLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjIyVDEwNTE1NVoNCkRUU1RBUlQ6MjAyNjAzMDVUMTkzMTAwDQpEVEVORDoyMDI2MDMwNVQyMDMwMDANClNVTU1BUlk6Qml0cyAmIELDpHVtZSBDb21tdW5pdHkgVmVybmV0enVuZ3N0cmVmZmVuDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2Rpc2NvdXJzZS5iaXRzLXVuZC1iYWV1bWUub3JnL3QvMjAyNS0wMy0wNi1vbmxpbmUtY29tbXVuaXR5LXRyZWZmZW4tMTktMzEtdWhyLzE2MDINCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+* Donnerstag, 05.03.2026, 19:31-20:30, online: **Bits & Bäume Community Vernetzungstreffen** <a title='Kalendereintrag Bits & Bäume Community Vernetzungstreffen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQml0cyAmIELDpHVtZSBDb21tdW5pdHkgVmVybmV0enVuZ3N0cmVmZmVuLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjAzMDVUMTkzMTAwDQpEVEVORDoyMDI2MDMwNVQyMDMwMDANClNVTU1BUlk6Qml0cyAmIELDpHVtZSBDb21tdW5pdHkgVmVybmV0enVuZ3N0cmVmZmVuDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2Rpc2NvdXJzZS5iaXRzLXVuZC1iYWV1bWUub3JnL3QvMjAyNS0wMy0wNi1vbmxpbmUtY29tbXVuaXR5LXRyZWZmZW4tMTktMzEtdWhyLzE2MDINCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://discourse.bits-und-baeume.org/t/2025-03-06-online-community-treffen-19-31-uhr/1602
-* Freitag, 06.03.2026, 13:00-13:45, online: **NFDI4Objects, Forschungsdateninfrastruktur für materielle Hinterlassenschaften aus Menschheits- und Umweltgeschichte (Anja Gerber)** <a title='Kalendereintrag NFDI4Objects, Forschungsdateninfrastruktur für materielle Hinterlassenschaften aus Menschheits- und Umweltgeschichte (Anja Gerber)' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTkZESTRPYmplY3RzXCwgRm9yc2NodW5nc2RhdGVuaW5mcmFzdHJ1a3R1ciBmw7xyIG1hdGVyaWVsbGUgSGludGVybGFzc2Vuc2NoYWZ0ZW4gYXVzIE1lbnNjaGhlaXRzLSB1bmQgVW13ZWx0Z2VzY2hpY2h0ZSAoQW5qYSBHZXJiZXIpLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjIyVDEwNTE1NVoNCkRUU1RBUlQ6MjAyNjAzMDZUMTMwMDAwDQpEVEVORDoyMDI2MDMwNlQxMzQ1MDANClNVTU1BUlk6TkZESTRPYmplY3RzXCwgRm9yc2NodW5nc2RhdGVuaW5mcmFzdHJ1a3R1ciBmw7xyIG1hdGVyaWVsbGUgSGludGVybGFzc2Vuc2NoYWZ0ZW4gYXVzIE1lbnNjaGhlaXRzLSB1bmQgVW13ZWx0Z2VzY2hpY2h0ZSAoQW5qYSBHZXJiZXIpDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpZ2l0YWxlLWt1bnN0Z2VzY2hpY2h0ZS5kZS9ha3R1ZWxsZXMvbHVuY2gtYW5kLWxlYXJuLXp1ci1kaWdpdGFsZW4ta3Vuc3RnZXNjaGljaHRlLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Freitag, 06.03.2026, 13:00-13:45, online: **NFDI4Objects, Forschungsdateninfrastruktur für materielle Hinterlassenschaften aus Menschheits- und Umweltgeschichte (Anja Gerber)** <a title='Kalendereintrag NFDI4Objects, Forschungsdateninfrastruktur für materielle Hinterlassenschaften aus Menschheits- und Umweltgeschichte (Anja Gerber)' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTkZESTRPYmplY3RzXCwgRm9yc2NodW5nc2RhdGVuaW5mcmFzdHJ1a3R1ciBmw7xyIG1hdGVyaWVsbGUgSGludGVybGFzc2Vuc2NoYWZ0ZW4gYXVzIE1lbnNjaGhlaXRzLSB1bmQgVW13ZWx0Z2VzY2hpY2h0ZSAoQW5qYSBHZXJiZXIpLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjAzMDZUMTMwMDAwDQpEVEVORDoyMDI2MDMwNlQxMzQ1MDANClNVTU1BUlk6TkZESTRPYmplY3RzXCwgRm9yc2NodW5nc2RhdGVuaW5mcmFzdHJ1a3R1ciBmw7xyIG1hdGVyaWVsbGUgSGludGVybGFzc2Vuc2NoYWZ0ZW4gYXVzIE1lbnNjaGhlaXRzLSB1bmQgVW13ZWx0Z2VzY2hpY2h0ZSAoQW5qYSBHZXJiZXIpDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpZ2l0YWxlLWt1bnN0Z2VzY2hpY2h0ZS5kZS9ha3R1ZWxsZXMvbHVuY2gtYW5kLWxlYXJuLXp1ci1kaWdpdGFsZW4ta3Vuc3RnZXNjaGljaHRlLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://digitale-kunstgeschichte.de/aktuelles/lunch-and-learn-zur-digitalen-kunstgeschichte/
-* Freitag, 06.03.2026, 19:00, bis Sonntag, 08.03.2026, 21:00, WIR-Haus, Wilhelmstraße 189, 42489 Wülfrath: **Hack im Pott** <a title='Kalendereintrag Hack im Pott' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSGFjayBpbSBQb3R0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjIyVDEwNTE1NVoNCkRUU1RBUlQ6MjAyNjAzMDZUMTkwMDAwDQpEVEVORDoyMDI2MDMwOFQyMTAwMDANClNVTU1BUlk6SGFjayBpbSBQb3R0DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2hhY2tpbXBvdHQuZGUNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046V0lSLUhhdXNcLCBXaWxoZWxtc3RyYcOfZSAxODlcLCA0MjQ4OSBXw7xsZnJhdGgNCkdFTzo1MC40Njg1MjkxNzQ1NjQ5MzU7NC40MzY5NTEyNTk1NzcwMjkNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Freitag, 06.03.2026, 14:00, bis Sonntag, 08.03.2026, 14:00, Institut für Ur- und Frühgeschichte, Christian-Albrechts-Universität, Raum 148 (PC-Labor), Johanna-Mestorf-Straße 6, 24118  Kiel: **Archaeogaming Hackathon Kiel** <a title='Kalendereintrag Archaeogaming Hackathon Kiel' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQXJjaGFlb2dhbWluZyBIYWNrYXRob24gS2llbC8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDMwMVQyMDM0MjRaDQpEVFNUQVJUOjIwMjYwMzA2VDE0MDAwMA0KRFRFTkQ6MjAyNjAzMDhUMTQwMDAwDQpTVU1NQVJZOkFyY2hhZW9nYW1pbmcgSGFja2F0aG9uIEtpZWwNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vZGlrb3BhLm5ldC8yMDI2LzAxL2Fua3VlbmRpZ3VuZy1hcmNoYWVvZ2FtaW5nLWhhY2thdGhvbi1raWVsLTYtOC0zLTIwMjYvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOkluc3RpdHV0IGbDvHIgVXItIHVuZCBGcsO8aGdlc2NoaWNodGVcLCBDaHJpc3RpYW4tQWxicmVjaHRzLVVuaXZlcnNpdMOkdFwsIFJhdW0gMTQ4IChQQy1MYWJvcilcLCBKb2hhbm5hLU1lc3RvcmYtU3RyYcOfZSA2XCwgMjQxMTggIEtpZWwNCkdFTzo1NC4zMzkyMjAzOzEwLjEyNDM3ODkNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+  * https://dikopa.net/2026/01/ankuendigung-archaeogaming-hackathon-kiel-6-8-3-2026/
+* Freitag, 06.03.2026, 19:00, bis Sonntag, 08.03.2026, 21:00, WIR-Haus, Wilhelmstraße 189, 42489 Wülfrath: **Hack im Pott** <a title='Kalendereintrag Hack im Pott' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSGFjayBpbSBQb3R0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjAzMDZUMTkwMDAwDQpEVEVORDoyMDI2MDMwOFQyMTAwMDANClNVTU1BUlk6SGFjayBpbSBQb3R0DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2hhY2tpbXBvdHQuZGUNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046V0lSLUhhdXNcLCBXaWxoZWxtc3RyYcOfZSAxODlcLCA0MjQ4OSBXw7xsZnJhdGgNCkdFTzo1MC40Njg1MjkxNzQ1NjQ5MzU7NC40MzY5NTEyNTk1NzcwMjkNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://hackimpott.de
-* Samstag, 07.03.2026, bis Freitag, 13.03.2026, 23:59, online: **Open Data Day 2025** <a title='Kalendereintrag Open Data Day 2025' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3BlbiBEYXRhIERheSAyMDI1Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjIyVDEwNTE1NVoNCkRUU1RBUlQ6MjAyNjAzMDdUMDAwMDAwDQpEVEVORDoyMDI2MDMxM1QyMzU5NTkNClNVTU1BUlk6T3BlbiBEYXRhIERheSAyMDI1DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL29wZW5kYXRhZGF5Lm9yZw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Samstag, 07.03.2026, bis Freitag, 13.03.2026, 23:59, online: **Open Data Day 2025** <a title='Kalendereintrag Open Data Day 2025' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3BlbiBEYXRhIERheSAyMDI1Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjAzMDdUMDAwMDAwDQpEVEVORDoyMDI2MDMxM1QyMzU5NTkNClNVTU1BUlk6T3BlbiBEYXRhIERheSAyMDI1DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL29wZW5kYXRhZGF5Lm9yZw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://opendataday.org
-* Samstag, 07.03.2026, 10:00-18:00, Offenen Kanal Flensburg, Sankt-Jürgen-Straße 95, 24937 Flensburg: **Mit offenen Karten: Ein Hackathon mit Kartenanwendungen im Fokus** <a title='Kalendereintrag Mit offenen Karten: Ein Hackathon mit Kartenanwendungen im Fokus' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTWl0IG9mZmVuZW4gS2FydGVuOiBFaW4gSGFja2F0aG9uIG1pdCBLYXJ0ZW5hbndlbmR1bmdlbiBpbSBGb2t1cy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDIyMlQxMDUxNTVaDQpEVFNUQVJUOjIwMjYwMzA3VDEwMDAwMA0KRFRFTkQ6MjAyNjAzMDdUMTgwMDAwDQpTVU1NQVJZOk1pdCBvZmZlbmVuIEthcnRlbjogRWluIEhhY2thdGhvbiBtaXQgS2FydGVuYW53ZW5kdW5nZW4gaW0gRm9rdXMNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vb3BlbmRhdGFkYXktZmxlbnNidXJnLmRlDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOk9mZmVuZW4gS2FuYWwgRmxlbnNidXJnXCwgU2Fua3QtSsO8cmdlbi1TdHJhw59lIDk1XCwgMjQ5MzcgRmxlbnNidXJnDQpHRU86NTQuNzkxNjIwNzs5LjQ0MjI2NTINCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Samstag, 07.03.2026, 10:00-18:00, Offenen Kanal Flensburg, Sankt-Jürgen-Straße 95, 24937 Flensburg: **Mit offenen Karten: Ein Hackathon mit Kartenanwendungen im Fokus** <a title='Kalendereintrag Mit offenen Karten: Ein Hackathon mit Kartenanwendungen im Fokus' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTWl0IG9mZmVuZW4gS2FydGVuOiBFaW4gSGFja2F0aG9uIG1pdCBLYXJ0ZW5hbndlbmR1bmdlbiBpbSBGb2t1cy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDMwMVQyMDM0MjRaDQpEVFNUQVJUOjIwMjYwMzA3VDEwMDAwMA0KRFRFTkQ6MjAyNjAzMDdUMTgwMDAwDQpTVU1NQVJZOk1pdCBvZmZlbmVuIEthcnRlbjogRWluIEhhY2thdGhvbiBtaXQgS2FydGVuYW53ZW5kdW5nZW4gaW0gRm9rdXMNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vb3BlbmRhdGFkYXktZmxlbnNidXJnLmRlDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOk9mZmVuZW4gS2FuYWwgRmxlbnNidXJnXCwgU2Fua3QtSsO8cmdlbi1TdHJhw59lIDk1XCwgMjQ5MzcgRmxlbnNidXJnDQpHRU86NTQuNzkxNjIwNzs5LjQ0MjI2NTINCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://opendataday-flensburg.de
-* Mittwoch, 11.03.2026, 13:00, bis Donnerstag, 12.03.2026, 13:15, Umweltbundesamt, Wörlitzer Platz 1, 06844 Dessau-Roßlau: **From niche to centre: mainstreaming circular lifestyles in European cities** <a title='Kalendereintrag From niche to centre: mainstreaming circular lifestyles in European cities' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRnJvbSBuaWNoZSB0byBjZW50cmU6IG1haW5zdHJlYW1pbmcgY2lyY3VsYXIgbGlmZXN0eWxlcyBpbiBFdXJvcGVhbiBjaXRpZXMvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjAyMjJUMTA1MTU1Wg0KRFRTVEFSVDoyMDI2MDMxMVQxMzAwMDANCkRURU5EOjIwMjYwMzEyVDEzMTUwMA0KU1VNTUFSWTpGcm9tIG5pY2hlIHRvIGNlbnRyZTogbWFpbnN0cmVhbWluZyBjaXJjdWxhciBsaWZlc3R5bGVzIGluIEV1cm9wZWFuIGNpdGllcw0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cudW13ZWx0YnVuZGVzYW10LmRlL2ZhY2hrb25mZXJlbnotdm9uLWRlci1uaXNjaGUtaW5zLXplbnRydW0temlya3VsYWVyZQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpVbXdlbHRidW5kZXNhbXRcLCBXw7ZybGl0emVyIFBsYXR6IDFcLCAwNjg0NCBEZXNzYXUtUm/Dn2xhdQ0KR0VPOjUxLjg0MjUwMDg1OzEyLjIzOTM1MDU5Mjk4ODUyMg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+* Mittwoch, 11.03.2026, 11:00-16:00, online: **The Future of Open Data** <a title='Kalendereintrag The Future of Open Data' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVGhlIEZ1dHVyZSBvZiBPcGVuIERhdGEvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjAzMDFUMjAzNDI0Wg0KRFRTVEFSVDoyMDI2MDMxMVQxMTAwMDANCkRURU5EOjIwMjYwMzExVDE2MDAwMA0KU1VNTUFSWTpUaGUgRnV0dXJlIG9mIE9wZW4gRGF0YQ0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9va2ZuLm9yZy9lbi9ldmVudHMvdGhlLWZ1dHVyZS1vZi1vcGVuLWRhdGEvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://okfn.org/en/events/the-future-of-open-data/
+* Mittwoch, 11.03.2026, 13:00, bis Donnerstag, 12.03.2026, 13:15, Umweltbundesamt, Wörlitzer Platz 1, 06844 Dessau-Roßlau: **From niche to centre: mainstreaming circular lifestyles in European cities** <a title='Kalendereintrag From niche to centre: mainstreaming circular lifestyles in European cities' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRnJvbSBuaWNoZSB0byBjZW50cmU6IG1haW5zdHJlYW1pbmcgY2lyY3VsYXIgbGlmZXN0eWxlcyBpbiBFdXJvcGVhbiBjaXRpZXMvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjAzMDFUMjAzNDI0Wg0KRFRTVEFSVDoyMDI2MDMxMVQxMzAwMDANCkRURU5EOjIwMjYwMzEyVDEzMTUwMA0KU1VNTUFSWTpGcm9tIG5pY2hlIHRvIGNlbnRyZTogbWFpbnN0cmVhbWluZyBjaXJjdWxhciBsaWZlc3R5bGVzIGluIEV1cm9wZWFuIGNpdGllcw0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cudW13ZWx0YnVuZGVzYW10LmRlL2ZhY2hrb25mZXJlbnotdm9uLWRlci1uaXNjaGUtaW5zLXplbnRydW0temlya3VsYWVyZQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpVbXdlbHRidW5kZXNhbXRcLCBXw7ZybGl0emVyIFBsYXR6IDFcLCAwNjg0NCBEZXNzYXUtUm/Dn2xhdQ0KR0VPOjUxLjg0MjUwMDg1OzEyLjIzOTM1MDU5Mjk4ODUyMg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://www.umweltbundesamt.de/fachkonferenz-von-der-nische-ins-zentrum-zirkulaere
-* Donnerstag, 12.03.2026, 19:00-21:00, Marstall | Lesesaal Patente & Normen, TIB – Technische Informationsbibliothek, Welfengarten 1a, 30167 Hannover: **Datenatlas - Im Dickicht der digitalen Verwaltung** <a title='Kalendereintrag Datenatlas - Im Dickicht der digitalen Verwaltung' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGF0ZW5hdGxhcyAtIEltIERpY2tpY2h0IGRlciBkaWdpdGFsZW4gVmVyd2FsdHVuZy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDIyMlQxMDUxNTVaDQpEVFNUQVJUOjIwMjYwMzEyVDE5MDAwMA0KRFRFTkQ6MjAyNjAzMTJUMjEwMDAwDQpTVU1NQVJZOkRhdGVuYXRsYXMgLSBJbSBEaWNraWNodCBkZXIgZGlnaXRhbGVuIFZlcndhbHR1bmcNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vdGVjaG5pay1zYWxvbi5kZS8yMDI2LzAzLzEyL2RhdGVuYXRsYXMuaHRtbA0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpNYXJzdGFsbCB8IExlc2VzYWFsIFBhdGVudGUgJiBOb3JtZW5cLCBUSUIg4oCTIFRlY2huaXNjaGUgSW5mb3JtYXRpb25zYmlibGlvdGhla1wsIFdlbGZlbmdhcnRlbiAxYVwsIDMwMTY3IEhhbm5vdmVyDQpHRU86NTIuMzgyMDQ0MTU5ODU4Mjg7OS43MjAyNTM0NDI1ODUwMzMNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Donnerstag, 12.03.2026, 14:00-15:30, online: **Podiumsdiskussion: Wie sollte eine faire Finanzierung von Open Access aussehen?** <a title='Kalendereintrag Podiumsdiskussion: Wie sollte eine faire Finanzierung von Open Access aussehen?' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vUG9kaXVtc2Rpc2t1c3Npb246IFdpZSBzb2xsdGUgZWluZSBmYWlyZSBGaW5hbnppZXJ1bmcgdm9uIE9wZW4gQWNjZXNzIGF1c3NlaGVuPy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDMwMVQyMDM0MjRaDQpEVFNUQVJUOjIwMjYwMzEyVDE0MDAwMA0KRFRFTkQ6MjAyNjAzMTJUMTUzMDAwDQpTVU1NQVJZOlBvZGl1bXNkaXNrdXNzaW9uOiBXaWUgc29sbHRlIGVpbmUgZmFpcmUgRmluYW56aWVydW5nIHZvbiBPcGVuIEFjY2VzcyBhdXNzZWhlbj8NCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vYmxvZ3MuZnUtYmVybGluLmRlL29wZW4tcmVzZWFyY2gtYmVybGluLzIwMjYvMDIvMjcvcXVvLXZhZGlzLWZhaXJlLWZpbmFuemllcnVuZy1vcGVuLWFjY2Vzcy8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://blogs.fu-berlin.de/open-research-berlin/2026/02/27/quo-vadis-faire-finanzierung-open-access/
+* Donnerstag, 12.03.2026, 19:00-21:00, Marstall | Lesesaal Patente & Normen, TIB – Technische Informationsbibliothek, Welfengarten 1a, 30167 Hannover: **Datenatlas - Im Dickicht der digitalen Verwaltung** <a title='Kalendereintrag Datenatlas - Im Dickicht der digitalen Verwaltung' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGF0ZW5hdGxhcyAtIEltIERpY2tpY2h0IGRlciBkaWdpdGFsZW4gVmVyd2FsdHVuZy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDMwMVQyMDM0MjRaDQpEVFNUQVJUOjIwMjYwMzEyVDE5MDAwMA0KRFRFTkQ6MjAyNjAzMTJUMjEwMDAwDQpTVU1NQVJZOkRhdGVuYXRsYXMgLSBJbSBEaWNraWNodCBkZXIgZGlnaXRhbGVuIFZlcndhbHR1bmcNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vdGVjaG5pay1zYWxvbi5kZS8yMDI2LzAzLzEyL2RhdGVuYXRsYXMuaHRtbA0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpNYXJzdGFsbCB8IExlc2VzYWFsIFBhdGVudGUgJiBOb3JtZW5cLCBUSUIg4oCTIFRlY2huaXNjaGUgSW5mb3JtYXRpb25zYmlibGlvdGhla1wsIFdlbGZlbmdhcnRlbiAxYVwsIDMwMTY3IEhhbm5vdmVyDQpHRU86NTIuMzgyMDQ0MTU5ODU4Mjg7OS43MjAyNTM0NDI1ODUwMzMNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://technik-salon.de/2026/03/12/datenatlas.html
-* Montag, 16.03.2026, 10:00, bis Dienstag, 17.03.2026, 17:30, bUm – Raum für solidarisches Miteinander, Paul-Lincke-Ufer 21, 10999 Berlin: **FOSS Backstage** <a title='Kalendereintrag FOSS Backstage' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRk9TUyBCYWNrc3RhZ2UvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjAyMjJUMTA1MTU1Wg0KRFRTVEFSVDoyMDI2MDMxNlQxMDAwMDANCkRURU5EOjIwMjYwMzE3VDE3MzAwMA0KU1VNTUFSWTpGT1NTIEJhY2tzdGFnZQ0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly8yNi5mb3NzLWJhY2tzdGFnZS5kZQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpiVW0g4oCTIFJhdW0gZsO8ciBzb2xpZGFyaXNjaGVzIE1pdGVpbmFuZGVyXCwgUGF1bC1MaW5ja2UtVWZlciAyMVwsIDEwOTk5IEJlcmxpbg0KR0VPOjUyLjQ5Mzc5MzI7MTMuNDI5NjYxMQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+* Montag, 16.03.2026, 10:00, bis Dienstag, 17.03.2026, 17:30, bUm – Raum für solidarisches Miteinander, Paul-Lincke-Ufer 21, 10999 Berlin: **FOSS Backstage** <a title='Kalendereintrag FOSS Backstage' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRk9TUyBCYWNrc3RhZ2UvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjAzMDFUMjAzNDI0Wg0KRFRTVEFSVDoyMDI2MDMxNlQxMDAwMDANCkRURU5EOjIwMjYwMzE3VDE3MzAwMA0KU1VNTUFSWTpGT1NTIEJhY2tzdGFnZQ0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly8yNi5mb3NzLWJhY2tzdGFnZS5kZQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpiVW0g4oCTIFJhdW0gZsO8ciBzb2xpZGFyaXNjaGVzIE1pdGVpbmFuZGVyXCwgUGF1bC1MaW5ja2UtVWZlciAyMVwsIDEwOTk5IEJlcmxpbg0KR0VPOjUyLjQ5Mzc5MzI7MTMuNDI5NjYxMQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://26.foss-backstage.de
-* Mittwoch, 18.03.2026, 20:00-21:30, online: **Open Transport Meetup: OpenTNF - a geopackage based INSPIRE DS TN data format for roadnetworks** <a title='Kalendereintrag Open Transport Meetup: OpenTNF - a geopackage based INSPIRE DS TN data format for roadnetworks' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3BlbiBUcmFuc3BvcnQgTWVldHVwOiBPcGVuVE5GIC0gYSBnZW9wYWNrYWdlIGJhc2VkIElOU1BJUkUgRFMgVE4gZGF0YSBmb3JtYXQgZm9yIHJvYWRuZXR3b3Jrcy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDIyMlQxMDUxNTVaDQpEVFNUQVJUOjIwMjYwMzE4VDIwMDAwMA0KRFRFTkQ6MjAyNjAzMThUMjEzMDAwDQpTVU1NQVJZOk9wZW4gVHJhbnNwb3J0IE1lZXR1cDogT3BlblRORiAtIGEgZ2VvcGFja2FnZSBiYXNlZCBJTlNQSVJFIERTIFROIGRhdGEgZm9ybWF0IGZvciByb2FkbmV0d29ya3MNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vaGFja21kLm9rZm4uZGUvb3BlbnRyYW5zcG9ydG1lZXR1cA0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Mittwoch, 18.03.2026, 20:00-21:30, online: **Open Transport Meetup: OpenTNF - a geopackage based INSPIRE DS TN data format for roadnetworks** <a title='Kalendereintrag Open Transport Meetup: OpenTNF - a geopackage based INSPIRE DS TN data format for roadnetworks' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3BlbiBUcmFuc3BvcnQgTWVldHVwOiBPcGVuVE5GIC0gYSBnZW9wYWNrYWdlIGJhc2VkIElOU1BJUkUgRFMgVE4gZGF0YSBmb3JtYXQgZm9yIHJvYWRuZXR3b3Jrcy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDMwMVQyMDM0MjRaDQpEVFNUQVJUOjIwMjYwMzE4VDIwMDAwMA0KRFRFTkQ6MjAyNjAzMThUMjEzMDAwDQpTVU1NQVJZOk9wZW4gVHJhbnNwb3J0IE1lZXR1cDogT3BlblRORiAtIGEgZ2VvcGFja2FnZSBiYXNlZCBJTlNQSVJFIERTIFROIGRhdGEgZm9ybWF0IGZvciByb2FkbmV0d29ya3MNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vaGFja21kLm9rZm4uZGUvb3BlbnRyYW5zcG9ydG1lZXR1cA0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://hackmd.okfn.de/opentransportmeetup
-* Freitag, 20.03.2026, 17:00, bis Samstag, 21.03.2026, 18:00, tba,  , 60311 Frankfurt/Main: **Datendialog** <a title='Kalendereintrag Datendialog' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGF0ZW5kaWFsb2cvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjAyMjJUMTA1MTU1Wg0KRFRTVEFSVDoyMDI2MDMyMFQxNzAwMDANCkRURU5EOjIwMjYwMzIxVDE4MDAwMA0KU1VNTUFSWTpEYXRlbmRpYWxvZw0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9jb3JyZWxhaWQub3JnL3ZlcmFuc3RhbHR1bmdlbi9kYXRlbmRpYWxvZy1tYXIyMDI2DQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOnRiYVwsICBcLCA2MDMxMSBGcmFua2Z1cnQvTWFpbg0KR0VPOjUwLjExMDY0NDQ7OC42ODIwOTE3DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+* Freitag, 20.03.2026, 17:00, bis Samstag, 21.03.2026, 18:00, tba,  , 60311 Frankfurt/Main: **Datendialog** <a title='Kalendereintrag Datendialog' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGF0ZW5kaWFsb2cvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjAzMDFUMjAzNDI0Wg0KRFRTVEFSVDoyMDI2MDMyMFQxNzAwMDANCkRURU5EOjIwMjYwMzIxVDE4MDAwMA0KU1VNTUFSWTpEYXRlbmRpYWxvZw0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9jb3JyZWxhaWQub3JnL3ZlcmFuc3RhbHR1bmdlbi9kYXRlbmRpYWxvZy1tYXIyMDI2DQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOnRiYVwsICBcLCA2MDMxMSBGcmFua2Z1cnQvTWFpbg0KR0VPOjUwLjExMDY0NDQ7OC42ODIwOTE3DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://correlaid.org/veranstaltungen/datendialog-mar2026
-* Samstag, 21.03.2026, 09:00-16:00, IT-Referat der Stadt München, Qubes Gebäude, Agnes-Pockels-Bogen 33, 80992 München: **Open Data Day 2026 in München** <a title='Kalendereintrag Open Data Day 2026 in München' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3BlbiBEYXRhIERheSAyMDI2IGluIE3DvG5jaGVuLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjIyVDEwNTE1NVoNCkRUU1RBUlQ6MjAyNjAzMjFUMDkwMDAwDQpEVEVORDoyMDI2MDMyMVQxNjAwMDANClNVTU1BUlk6T3BlbiBEYXRhIERheSAyMDI2IGluIE3DvG5jaGVuDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL211ZW5jaGVuLmRpZ2l0YWwvdmVyYW5zdGFsdHVuZ2VuL29wZW4tZGF0YS1kYXktMjAyNi5odG1sDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOklULVJlZmVyYXQgZGVyIFN0YWR0IE3DvG5jaGVuXCwgUXViZXMgR2Viw6R1ZGVcLCBBZ25lcy1Qb2NrZWxzLUJvZ2VuIDMzXCwgODA5OTIgTcO8bmNoZW4NCkdFTzo0OC4xNzQwMjkzNTsxMS41MzM2NzgyOTc0ODU4NDYNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Samstag, 21.03.2026, 09:00-16:00, IT-Referat der Stadt München, Qubes Gebäude, Agnes-Pockels-Bogen 33, 80992 München: **Open Data Day 2026 in München** <a title='Kalendereintrag Open Data Day 2026 in München' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3BlbiBEYXRhIERheSAyMDI2IGluIE3DvG5jaGVuLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjAzMjFUMDkwMDAwDQpEVEVORDoyMDI2MDMyMVQxNjAwMDANClNVTU1BUlk6T3BlbiBEYXRhIERheSAyMDI2IGluIE3DvG5jaGVuDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL211ZW5jaGVuLmRpZ2l0YWwvdmVyYW5zdGFsdHVuZ2VuL29wZW4tZGF0YS1kYXktMjAyNi5odG1sDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOklULVJlZmVyYXQgZGVyIFN0YWR0IE3DvG5jaGVuXCwgUXViZXMgR2Viw6R1ZGVcLCBBZ25lcy1Qb2NrZWxzLUJvZ2VuIDMzXCwgODA5OTIgTcO8bmNoZW4NCkdFTzo0OC4xNzQwMjkzNTsxMS41MzM2NzgyOTc0ODU4NDYNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://muenchen.digital/veranstaltungen/open-data-day-2026.html
-* Dienstag, 24.03.2026, 19:30-21:00, online: **Verkehrswende-Meetup** <a title='Kalendereintrag Verkehrswende-Meetup' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVmVya2VocnN3ZW5kZS1NZWV0dXAvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjAyMjJUMTA1MTU1Wg0KRFRTVEFSVDoyMDI2MDMyNFQxOTMwMDANCkRURU5EOjIwMjYwMzI0VDIxMDAwMA0KU1VNTUFSWTpWZXJrZWhyc3dlbmRlLU1lZXR1cA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93aWtpLm9wZW5zdHJlZXRtYXAub3JnL3dpa2kvVmVya2VocnN3ZW5kZS1NZWV0dXAjTWVldHVwcw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Dienstag, 24.03.2026, 19:30-21:00, online: **Verkehrswende-Meetup** <a title='Kalendereintrag Verkehrswende-Meetup' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVmVya2VocnN3ZW5kZS1NZWV0dXAvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjAzMDFUMjAzNDI0Wg0KRFRTVEFSVDoyMDI2MDMyNFQxOTMwMDANCkRURU5EOjIwMjYwMzI0VDIxMDAwMA0KU1VNTUFSWTpWZXJrZWhyc3dlbmRlLU1lZXR1cA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93aWtpLm9wZW5zdHJlZXRtYXAub3JnL3dpa2kvVmVya2VocnN3ZW5kZS1NZWV0dXAjTWVldHVwcw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://wiki.openstreetmap.org/wiki/Verkehrswende-Meetup#Meetups
-* Mittwoch, 25.03.2026, 09:00-14:30, SBB CFF FFS – Hauptsitz, HS1, Hilfikerstrasse 1, 3014 Bern: **opentransportdata.swiss Community Day** <a title='Kalendereintrag opentransportdata.swiss Community Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vb3BlbnRyYW5zcG9ydGRhdGEuc3dpc3MgQ29tbXVuaXR5IERheS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDIyMlQxMDUxNTVaDQpEVFNUQVJUOjIwMjYwMzI1VDA5MDAwMA0KRFRFTkQ6MjAyNjAzMjVUMTQzMDAwDQpTVU1NQVJZOm9wZW50cmFuc3BvcnRkYXRhLnN3aXNzIENvbW11bml0eSBEYXkNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vb3BlbnRyYW5zcG9ydGRhdGEuc3dpc3MvZGUvMjUtbWFlcnotMjAyNi1vcGVudHJhbnNwb3J0ZGF0YS1zd2lzcy1jb21tdW5pdHktZGF5Lw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpTQkIgQ0ZGIEZGUyDigJMgSGF1cHRzaXR6XCwgSFMxXCwgSGlsZmlrZXJzdHJhc3NlIDFcLCAzMDE0IEJlcm4NCkdFTzo0Ni45Njc4MjAxOzcuNDYzMTY4OA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+* Mittwoch, 25.03.2026, 09:00-14:30, SBB CFF FFS – Hauptsitz, HS1, Hilfikerstrasse 1, 3014 Bern: **opentransportdata.swiss Community Day** <a title='Kalendereintrag opentransportdata.swiss Community Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vb3BlbnRyYW5zcG9ydGRhdGEuc3dpc3MgQ29tbXVuaXR5IERheS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDMwMVQyMDM0MjRaDQpEVFNUQVJUOjIwMjYwMzI1VDA5MDAwMA0KRFRFTkQ6MjAyNjAzMjVUMTQzMDAwDQpTVU1NQVJZOm9wZW50cmFuc3BvcnRkYXRhLnN3aXNzIENvbW11bml0eSBEYXkNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vb3BlbnRyYW5zcG9ydGRhdGEuc3dpc3MvZGUvMjUtbWFlcnotMjAyNi1vcGVudHJhbnNwb3J0ZGF0YS1zd2lzcy1jb21tdW5pdHktZGF5Lw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpTQkIgQ0ZGIEZGUyDigJMgSGF1cHRzaXR6XCwgSFMxXCwgSGlsZmlrZXJzdHJhc3NlIDFcLCAzMDE0IEJlcm4NCkdFTzo0Ni45Njc4MjAxOzcuNDYzMTY4OA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://opentransportdata.swiss/de/25-maerz-2026-opentransportdata-swiss-community-day/
-* Mittwoch, 25.03.2026, 10:00, bis Samstag, 28.03.2026, 16:45, Zentrales Hörsaalgebäude (ZHG), Georg-August-Universität Göttingen, Platz der Göttinger Sieben 5, 37073 Göttingen: **FOSSGIS** <a title='Kalendereintrag FOSSGIS' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRk9TU0dJUy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDIyMlQxMDUxNTVaDQpEVFNUQVJUOjIwMjYwMzI1VDEwMDAwMA0KRFRFTkQ6MjAyNjAzMjhUMTY0NTAwDQpTVU1NQVJZOkZPU1NHSVMNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vZm9zc2dpcy1rb25mZXJlbnouZGUvMjAyNi8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046WmVudHJhbGVzIEjDtnJzYWFsZ2Viw6R1ZGUgKFpIRylcLCBHZW9yZy1BdWd1c3QtVW5pdmVyc2l0w6R0IEfDtnR0aW5nZW5cLCBQbGF0eiBkZXIgR8O2dHRpbmdlciBTaWViZW4gNVwsIDM3MDczIEfDtnR0aW5nZW4NCkdFTzo1MS41NDA5Mjs5LjkzNTgxDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+* Mittwoch, 25.03.2026, 10:00, bis Samstag, 28.03.2026, 16:45, Zentrales Hörsaalgebäude (ZHG), Georg-August-Universität Göttingen, Platz der Göttinger Sieben 5, 37073 Göttingen: **FOSSGIS** <a title='Kalendereintrag FOSSGIS' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRk9TU0dJUy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDMwMVQyMDM0MjRaDQpEVFNUQVJUOjIwMjYwMzI1VDEwMDAwMA0KRFRFTkQ6MjAyNjAzMjhUMTY0NTAwDQpTVU1NQVJZOkZPU1NHSVMNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vZm9zc2dpcy1rb25mZXJlbnouZGUvMjAyNi8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046WmVudHJhbGVzIEjDtnJzYWFsZ2Viw6R1ZGUgKFpIRylcLCBHZW9yZy1BdWd1c3QtVW5pdmVyc2l0w6R0IEfDtnR0aW5nZW5cLCBQbGF0eiBkZXIgR8O2dHRpbmdlciBTaWViZW4gNVwsIDM3MDczIEfDtnR0aW5nZW4NCkdFTzo1MS41NDA5Mjs5LjkzNTgxDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://fossgis-konferenz.de/2026/
-* Freitag, 27.03.2026, 15:30, bis Sonntag, 29.03.2026, 14:00, Museum Schnütgen, Cäcilienstraße 29–33, 50667 Köln: **Art History Loves Wiki 2026** <a title='Kalendereintrag Art History Loves Wiki 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQXJ0IEhpc3RvcnkgTG92ZXMgV2lraSAyMDI2Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjIyVDEwNTE1NVoNCkRUU1RBUlQ6MjAyNjAzMjdUMTUzMDAwDQpEVEVORDoyMDI2MDMyOVQxNDAwMDANClNVTU1BUlk6QXJ0IEhpc3RvcnkgTG92ZXMgV2lraSAyMDI2DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RlLndpa2lwZWRpYS5vcmcvd2lraS9XaWtpcGVkaWE6QXJ0X0hpc3RvcnlfTG92ZXNfV2lraQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpNdXNldW0gU2NobsO8dGdlblwsIEPDpGNpbGllbnN0cmHDn2UgMjnigJMzM1wsIDUwNjY3IEvDtmxuDQpHRU86NTAuOTM0NzkxMjs2Ljk1MTY2MzINCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Freitag, 27.03.2026, 15:30, bis Sonntag, 29.03.2026, 14:00, Museum Schnütgen, Cäcilienstraße 29–33, 50667 Köln: **Art History Loves Wiki 2026** <a title='Kalendereintrag Art History Loves Wiki 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQXJ0IEhpc3RvcnkgTG92ZXMgV2lraSAyMDI2Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjAzMjdUMTUzMDAwDQpEVEVORDoyMDI2MDMyOVQxNDAwMDANClNVTU1BUlk6QXJ0IEhpc3RvcnkgTG92ZXMgV2lraSAyMDI2DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RlLndpa2lwZWRpYS5vcmcvd2lraS9XaWtpcGVkaWE6QXJ0X0hpc3RvcnlfTG92ZXNfV2lraQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpNdXNldW0gU2NobsO8dGdlblwsIEPDpGNpbGllbnN0cmHDn2UgMjnigJMzM1wsIDUwNjY3IEvDtmxuDQpHRU86NTAuOTM0NzkxMjs2Ljk1MTY2MzINCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://de.wikipedia.org/wiki/Wikipedia:Art_History_Loves_Wiki
-* Freitag, 27.03.2026, 16:00-19:00, Freie Universität Berlin, Hörsaal 1a, Habelschwerdter Allee 45, 14195 Berlin: **Abschlussveranstaltung Gesunde und gerechte Mobilität für alle in Berlin** <a title='Kalendereintrag Abschlussveranstaltung Gesunde und gerechte Mobilität für alle in Berlin' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQWJzY2hsdXNzdmVyYW5zdGFsdHVuZyBHZXN1bmRlIHVuZCBnZXJlY2h0ZSBNb2JpbGl0w6R0IGbDvHIgYWxsZSBpbiBCZXJsaW4vL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjAyMjJUMTA1MTU1Wg0KRFRTVEFSVDoyMDI2MDMyN1QxNjAwMDANCkRURU5EOjIwMjYwMzI3VDE5MDAwMA0KU1VNTUFSWTpBYnNjaGx1c3N2ZXJhbnN0YWx0dW5nIEdlc3VuZGUgdW5kIGdlcmVjaHRlIE1vYmlsaXTDpHQgZsO8ciBhbGxlIGluIEJlcmxpbg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cuaW9ldy5kZS92ZXJhbnN0YWx0dW5nL2dlc3VuZGUtdW5kLWdlcmVjaHRlLW1vYmlsaXRhZXQtZnVlci1hbGxlLWluLWJlcmxpbg0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpGcmVpZSBVbml2ZXJzaXTDpHQgQmVybGluXCwgSMO2cnNhYWwgMWFcLCBIYWJlbHNjaHdlcmR0ZXIgQWxsZWUgNDVcLCAxNDE5NSBCZXJsaW4NCkdFTzo1Mi40NTE5MTQ1OTk5OTk5OTU7MTMuMjg4MjQ5Mg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+* Freitag, 27.03.2026, 16:00-19:00, Freie Universität Berlin, Hörsaal 1a, Habelschwerdter Allee 45, 14195 Berlin: **Abschlussveranstaltung Gesunde und gerechte Mobilität für alle in Berlin** <a title='Kalendereintrag Abschlussveranstaltung Gesunde und gerechte Mobilität für alle in Berlin' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQWJzY2hsdXNzdmVyYW5zdGFsdHVuZyBHZXN1bmRlIHVuZCBnZXJlY2h0ZSBNb2JpbGl0w6R0IGbDvHIgYWxsZSBpbiBCZXJsaW4vL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjAzMDFUMjAzNDI0Wg0KRFRTVEFSVDoyMDI2MDMyN1QxNjAwMDANCkRURU5EOjIwMjYwMzI3VDE5MDAwMA0KU1VNTUFSWTpBYnNjaGx1c3N2ZXJhbnN0YWx0dW5nIEdlc3VuZGUgdW5kIGdlcmVjaHRlIE1vYmlsaXTDpHQgZsO8ciBhbGxlIGluIEJlcmxpbg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cuaW9ldy5kZS92ZXJhbnN0YWx0dW5nL2dlc3VuZGUtdW5kLWdlcmVjaHRlLW1vYmlsaXRhZXQtZnVlci1hbGxlLWluLWJlcmxpbg0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpGcmVpZSBVbml2ZXJzaXTDpHQgQmVybGluXCwgSMO2cnNhYWwgMWFcLCBIYWJlbHNjaHdlcmR0ZXIgQWxsZWUgNDVcLCAxNDE5NSBCZXJsaW4NCkdFTzo1Mi40NTE5MTQ1OTk5OTk5OTU7MTMuMjg4MjQ5Mg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://www.ioew.de/veranstaltung/gesunde-und-gerechte-mobilitaet-fuer-alle-in-berlin
-* Freitag, 27.03.2026, 16:00-19:00, Das Labor, Alleestraße 50, 44793 Bochum: **spring(); break;** <a title='Kalendereintrag spring(); break;' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vc3ByaW5nKClcOyBicmVha1w7Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjIyVDEwNTE1NVoNCkRUU1RBUlQ6MjAyNjAzMjdUMTYwMDAwDQpEVEVORDoyMDI2MDMyN1QxOTAwMDANClNVTU1BUlk6c3ByaW5nKClcOyBicmVha1w7DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3dpa2kuZGFzLWxhYm9yLm9yZy93L1ZlcmFuc3RhbHR1bmcvc3ByaW5nYnJlYWtfMjAyNg0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpEYXMgTGFib3JcLCBBbGxlZXN0cmHDn2UgNTBcLCA0NDc5MyBCb2NodW0NCkdFTzo1Mi40NTE5MTQ1OTk5OTk5OTU7MTMuMjg4MjQ5Mg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+* Freitag, 27.03.2026, 16:00-19:00, Das Labor, Alleestraße 50, 44793 Bochum: **spring(); break;** <a title='Kalendereintrag spring(); break;' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vc3ByaW5nKClcOyBicmVha1w7Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjAzMjdUMTYwMDAwDQpEVEVORDoyMDI2MDMyN1QxOTAwMDANClNVTU1BUlk6c3ByaW5nKClcOyBicmVha1w7DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3dpa2kuZGFzLWxhYm9yLm9yZy93L1ZlcmFuc3RhbHR1bmcvc3ByaW5nYnJlYWtfMjAyNg0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpEYXMgTGFib3JcLCBBbGxlZXN0cmHDn2UgNTBcLCA0NDc5MyBCb2NodW0NCkdFTzo1Mi40NTE5MTQ1OTk5OTk5OTU7MTMuMjg4MjQ5Mg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://wiki.das-labor.org/w/Veranstaltung/springbreak_2026
-* Samstag, 28.03.2026, 09:00, bis Sonntag, 29.03.2026, 18:00, Technische Universität Chemnitz, Zentrales Hörsaal- und Seminargebäude, Reichenhainer Straße 90, 09126 Chemnitz: **Chemnitzer Linux-Tage** <a title='Kalendereintrag Chemnitzer Linux-Tage' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ2hlbW5pdHplciBMaW51eC1UYWdlLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjIyVDEwNTE1NVoNCkRUU1RBUlQ6MjAyNjAzMjhUMDkwMDAwDQpEVEVORDoyMDI2MDMyOVQxODAwMDANClNVTU1BUlk6Q2hlbW5pdHplciBMaW51eC1UYWdlDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2NoZW1uaXR6ZXIubGludXgtdGFnZS5kZS8yMDI2L2RlDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOlRlY2huaXNjaGUgVW5pdmVyc2l0w6R0IENoZW1uaXR6XCwgWmVudHJhbGVzIEjDtnJzYWFsLSB1bmQgU2VtaW5hcmdlYsOkdWRlXCwgUmVpY2hlbmhhaW5lciBTdHJhw59lIDkwXCwgMDkxMjYgQ2hlbW5pdHoNCkdFTzo1MC44MTM1MjgyOzEyLjkyOTIwNjYxOTQwMTMxDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+* Samstag, 28.03.2026, 09:00, bis Sonntag, 29.03.2026, 18:00, Technische Universität Chemnitz, Zentrales Hörsaal- und Seminargebäude, Reichenhainer Straße 90, 09126 Chemnitz: **Chemnitzer Linux-Tage** <a title='Kalendereintrag Chemnitzer Linux-Tage' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ2hlbW5pdHplciBMaW51eC1UYWdlLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjAzMjhUMDkwMDAwDQpEVEVORDoyMDI2MDMyOVQxODAwMDANClNVTU1BUlk6Q2hlbW5pdHplciBMaW51eC1UYWdlDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2NoZW1uaXR6ZXIubGludXgtdGFnZS5kZS8yMDI2L2RlDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOlRlY2huaXNjaGUgVW5pdmVyc2l0w6R0IENoZW1uaXR6XCwgWmVudHJhbGVzIEjDtnJzYWFsLSB1bmQgU2VtaW5hcmdlYsOkdWRlXCwgUmVpY2hlbmhhaW5lciBTdHJhw59lIDkwXCwgMDkxMjYgQ2hlbW5pdHoNCkdFTzo1MC44MTM1MjgyOzEyLjkyOTIwNjYxOTQwMTMxDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://chemnitzer.linux-tage.de/2026/de
-* Samstag, 28.03.2026, 10:00-23:59, : **Tag des offenen Hackspace** <a title='Kalendereintrag Tag des offenen Hackspace' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVGFnIGRlcyBvZmZlbmVuIEhhY2tzcGFjZS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDIyMlQxMDUxNTVaDQpEVFNUQVJUOjIwMjYwMzI4VDEwMDAwMA0KRFRFTkQ6MjAyNjAzMjhUMjM1OTU5DQpTVU1NQVJZOlRhZyBkZXMgb2ZmZW5lbiBIYWNrc3BhY2UNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vbWQuY2NjLW1hbm5oZWltLmRlL3Rkb2gtc3BhY2VzMjYNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+* Samstag, 28.03.2026, 10:00-23:59, : **Tag des offenen Hackspace** <a title='Kalendereintrag Tag des offenen Hackspace' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVGFnIGRlcyBvZmZlbmVuIEhhY2tzcGFjZS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDMwMVQyMDM0MjRaDQpEVFNUQVJUOjIwMjYwMzI4VDEwMDAwMA0KRFRFTkQ6MjAyNjAzMjhUMjM1OTU5DQpTVU1NQVJZOlRhZyBkZXMgb2ZmZW5lbiBIYWNrc3BhY2UNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vbWQuY2NjLW1hbm5oZWltLmRlL3Rkb2gtc3BhY2VzMjYNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://md.ccc-mannheim.de/tdoh-spaces26
-* Mittwoch, 01.04.2026, online: **Digital Independence Day** <a title='Kalendereintrag Digital Independence Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjIyVDEwNTE1NVoNCkRUU1RBUlQ6MjAyNjA0MDFUMDAwMDAwDQpEVEVORDoyMDI2MDQwMVQyMzU5NTkNClNVTU1BUlk6RGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpLmRheQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Mittwoch, 01.04.2026, online: **Digital Independence Day** <a title='Kalendereintrag Digital Independence Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjA0MDFUMDAwMDAwDQpEVEVORDoyMDI2MDQwMVQyMzU5NTkNClNVTU1BUlk6RGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpLmRheQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://di.day
-* Freitag, 03.04.2026, 15:00, bis Montag, 06.04.2026, 15:30, Universität Koblenz, Universitätsstraße 1, 56070 Koblenz-Metternich: **Easterhegg 2026** <a title='Kalendereintrag Easterhegg 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRWFzdGVyaGVnZyAyMDI2Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjIyVDEwNTE1NVoNCkRUU1RBUlQ6MjAyNjA0MDNUMTUwMDAwDQpEVEVORDoyMDI2MDQwNlQxNTMwMDANClNVTU1BUlk6RWFzdGVyaGVnZyAyMDI2DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2VoMjMuZWFzdGVyaGVnZy5ldQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpVbml2ZXJzaXTDpHQgS29ibGVuelwsIFVuaXZlcnNpdMOkdHNzdHJhw59lIDFcLCA1NjA3MCBLb2JsZW56LU1ldHRlcm5pY2gNCkdFTzo1MC4zNjM1ODU0OzcuNTU4MzA3Njk5OTk5OTk5DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+* Freitag, 03.04.2026, 15:00, bis Montag, 06.04.2026, 15:30, Universität Koblenz, Universitätsstraße 1, 56070 Koblenz-Metternich: **Easterhegg 2026** <a title='Kalendereintrag Easterhegg 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRWFzdGVyaGVnZyAyMDI2Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjA0MDNUMTUwMDAwDQpEVEVORDoyMDI2MDQwNlQxNTMwMDANClNVTU1BUlk6RWFzdGVyaGVnZyAyMDI2DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2VoMjMuZWFzdGVyaGVnZy5ldQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpVbml2ZXJzaXTDpHQgS29ibGVuelwsIFVuaXZlcnNpdMOkdHNzdHJhw59lIDFcLCA1NjA3MCBLb2JsZW56LU1ldHRlcm5pY2gNCkdFTzo1MC4zNjM1ODU0OzcuNTU4MzA3Njk5OTk5OTk5DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://eh23.easterhegg.eu
+* Freitag, 10.04.2026, bis Samstag, 11.04.2026, HPI Campus II, August-Bebel-Str. 88, 14482 Potsdam: **Hack HPI 2026 - Agriculture, Climate & Tech** <a title='Kalendereintrag Hack HPI 2026 - Agriculture, Climate & Tech' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSGFjayBIUEkgMjAyNiAtIEFncmljdWx0dXJlXCwgQ2xpbWF0ZSAmIFRlY2gvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjAzMDFUMjAzNDI0Wg0KRFRTVEFSVDoyMDI2MDQxMFQxNDAwMDANCkRURU5EOjIwMjYwNDExVDE0MDAwMA0KU1VNTUFSWTpIYWNrIEhQSSAyMDI2IC0gQWdyaWN1bHR1cmVcLCBDbGltYXRlICYgVGVjaA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9oYWNraHBpLm9yZw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpIUEkgQ2FtcHVzIElJXCwgQXVndXN0LUJlYmVsLVN0ci4gODhcLCAxNDQ4MiBQb3RzZGFtDQpHRU86NTIuMzkyMTU2MTk5OTk5OTk1OzEzLjEyNDU2OTY5OTk5OTk5OQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://hackhpi.org
 * Regelmäßige OKLab-Treffen
   * Berlin: jeden zweiten oder dritten Montag im Monat, 19:00-22:00, WikiBär, Köpenicker Straße 45, 10179 Berlin: **Code for Berlin** <a title='Kalendereintrag Code for Berlin' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ29kZSBmb3IgQmVybGluLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNjI5VDExMjkyM1oNCkRUU1RBUlQ6MjAyNTA3MjFUMTkwMDAwDQpEVEVORDoyMDI1MDcyMVQyMjAwMDANClNVTU1BUlk6Q29kZSBmb3IgQmVybGluDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy5tZWV0dXAuY29tL29rLWxhYi1iZXJsaW4NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046V2lraULDpHJcLCBLw7ZwZW5pY2tlciBTdHJhw59lIDQ1XCwgMTAxNzkgQmVybGluDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
     * https://www.meetup.com/ok-lab-berlin
