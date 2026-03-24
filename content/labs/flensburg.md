@@ -13,9 +13,6 @@ links:
 - name: Website
   url: https://oklabflensburg.de
 
-- name: Twitter
-  url: https://twitter.com/oklabflensburg
-
 - name: Mastodon
   url: https://norden.social/@oklabflensburg
 

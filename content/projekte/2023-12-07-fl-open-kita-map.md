@@ -13,7 +13,7 @@ links:
   name: GitHub
 - url: https://www.flensburg.de/media/custom/2306_2545_1.PDF
   name: Datenquelle
-- url: https://kitas-in-flensburg.de
+- url: https://kitakarte.oklabflensburg.de
   name: Website
 
 collaborators:
