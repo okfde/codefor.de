@@ -4,7 +4,6 @@ lab: [berlin] #needed for Aggregation on Lab-Page
 imgname: berlin/ernteteilen.png
 title: Ernte Teilen
 showcase: true
-excerpt:
 
 links:
 - url: https://ernte-teilen.org

@@ -5,30 +5,13 @@ lab: OK Lab Osnabrück
 lat: 52.2668370
 long: 8.0497410
 markerposition: left
-showsignup: false
 inactive: true
 
 aliases:
 - /osnabrueck
 - /os
 
-members:
-- name: Peer Wagner
-  username_github: wagnerpeer
-  username_twitter: wagnerpeer
-- name: Julia
-  username_github: joliyea
-  username_twitter: joliyea
-
-# - name: <name>
-#   username_github: <github_user_name>
-#   username_twitter: <twitter_user_name>
-
 links:
-- name: Webseite
-  url: http://codeforosnabrueck.org/
-  top: true
-
 - name: GetTogether
   url: https://gettogether.community/code-for-osnabr%C3%BCck/
   top: true
@@ -40,19 +23,12 @@ links:
 - name: Twitter
   url: https://twitter.com/codeforosna
   top: true
-
-# - name: <name>
-#   url: <url>
-#   top: true | false
-
+  
 leads:
 - name: Peer Wagner
   url: https://twitter.com/wagnerpeer
 - name: Julia
   url: https://twitter.com/joliyea
-
-# - name:
-#   url:
 
 ---
 

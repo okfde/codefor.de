@@ -3,9 +3,9 @@ needsLeafletCss: true
 ---
 {{< headline-icon icon="icon-bracket.svg" color="blue" >}}
 
-{{< headline-brackets-h1 color="red"  >}}
+{{< headline-brackets-h1 color="red" >}}
 Unsere Community
-{{< /headline-brackets-h1  >}}
+{{< /headline-brackets-h1 >}}
 
 
 
@@ -35,8 +35,8 @@ In der digitalen engagierten Zivilgesellschaft ist unglaublich viel Expertise vo
 {{</quote>}}
 </div>
 
-Unsere Community zählt rund 300 Menschen, die ihre Expertise für
-Code for Germany einsetzen. Fast alle engagieren sich ehrenamtlich. Wir
+Unsere Community zählt rund 300 Menschen, die ihre Expertise ehrenamtlich für
+Code for Germany einsetzen. Wir
 treffen uns in lokalen Labs und online.
 
 In unserer Community schaffen wir gemeinnützige Projekte wie
@@ -54,49 +54,19 @@ bei uns mitmacht, online und vor Ort, akzeptiert unseren Code of
 Conduct.
 <br>
 <br>
-{{< headline-brackets-h1 color="blue" id="mitmachen" >}}
-Wie du mitmachen kannst
+{{< headline-brackets-h1 color="blue" id="labs" >}}
+Finde ein Lab in deiner Nähe
 {{< /headline-brackets-h1 >}}
-Du möchtest dich einbringen? Es gibt verschiedene Möglichkeiten, bei uns mitzumachen. Wir freuen uns auf dich! 
-
-### Komm in unsere Online-Community
-
-In unserem Slack diskutieren wir, teilen Ressourcen, finden neue
-Projekte und verabreden uns zu bundesweiten Treffen. Dort kannst
-du Fragen stellen und Gleichgesinnte finden. Schick uns eine formlose
-Nachricht an <a href="mailto:info@codefor.de">info@codefor.de</a>
-und wir nehmen dich auf.
-
-{{< button-center href="mailto:info@codefor.de?subject=Online-Community" class="mb-6 mt-3">}}
-Email senden
-{{</ button-center >}}
-
-
-### Besuche ein Lab in deiner Nähe
-
-Über die Karte kommst du zu den Unterseiten der einzelnen Labs. Dort erfährst du mehr über Termine und Ansprechpartner\*innen.
+Unsere Labs sind die erste Anlaufstelle für alle Interessierten. Über die Karte kommst du zu den Unterseiten der einzelnen Gruppen. Dort erfährst du mehr über Termine und Ansprechpartner\*innen. Die Labs werden von Ehrenamtlichen betrieben, daher sind nicht immer alle aktiv.   
 {{< labmap-overview >}}
-
-### Unterstütze unsere Arbeit
-
-Hilf uns dabei, eine offene und gerechte digitale Zukunft für alle zu schaffen.
-
-{{< button-center href="/spenden" class="mb-6 mt-3" >}}
-Spenden
-{{</ button-center >}}
+<br>
+<br>
 
 ### Erfahre mehr über Offene Daten
-Wie lassen sich Daten öffnen, und warum ist das wichtig für Verwaltungen? Lies Grundlagen, finde Argumente, Handreichungen und Use Cases auf dem Knowledge Hub der Open Knowledge Foundation Deutschland.
+Wenn du in den Themenbereich Open Data und Civic Tech einsteigst, hast du vielleicht ein paar unbeantwortete Fragen: Wie lassen sich Daten öffnen, und warum ist das wichtig für Verwaltungen? Lies Grundlagen, finde Argumente, Handreichungen und Use Cases auf dem Knowledge Hub der Open Knowledge Foundation Deutschland.
 
 {{< button-center href="https://opendata.okfn.de/" target="_blank" class="mb-6 mt-3">}}
 Open Data Knowledge Hub
 {{</ button-center >}}
 
-### Noch Fragen?
-
-Schreib uns eine Nachricht an info@codefor.de, wir freuen uns von dir zu hören!
-
-{{< button-center href="mailto:info@codefor.de?subject=Kontakt" class="mb-6 mt-3">}}
-Email senden
-{{</ button-center >}}
-{{</ paragraph-center  >}}
+{{</ paragraph-center >}}

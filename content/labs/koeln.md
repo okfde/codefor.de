@@ -4,30 +4,9 @@ title: OK Lab Köln
 lat: 50.9554784
 long: 6.9104529
 markerposition: left
-projectsorder: reverse
 
 aliases:
 - /koeln
-
-members:
-
-- name: Marcel Belledin
-  username_github: marcel12bell
-  username_twitter: MarcelBelledin
-
-- name: Tim Becker
-  username_github: a2800276
-
-- name: Wolfram Eberius
-  username_github: weberius
-  username_twitter: eberius
-
-- name: Christoph Finke
-  username_github: chfinke
-  username_twitter: chfinke
-
-- name: Martin Over
-  username_github: OpenDEM
 
 links:
 - name: Termine

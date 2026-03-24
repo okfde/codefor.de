@@ -4,15 +4,6 @@ title: Code for Beispiel # Name des Labs. Zb Überschrift der lab-seite
 lat: 53
 long: 8
 markerposition: left # left | right
-showsignup: true # true | false
-
-members:
-- name: Maria Member
-  username_github: codeforbeispiel
-  username_twitter: codeforbeispiel
-- name: ""
-  username_github: andereruser
-  username_twitter: andereruser
 
 links:
 - name: Webseite

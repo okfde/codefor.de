@@ -7,7 +7,6 @@ images:
    - imgname: Monitor_with_Smiley_picture by_eta_unsplash.jpg
 og-image: /static/blog/Monitor_with_Smiley_picture by_eta_unsplash.jpg
 og-description: "FOSS hat viele Vorteile, kann aber für Menschen, die sich nicht täglich damit beschäftigen, schwer aufzufinden und zu beurteilen sein. Kann eine Plattform dabei helfen?"
-published: true
 ---
 Die Open Source Business Alliance und Vitako haben [mitgeteilt](https://osb-alliance.de/featured/osb-alliance-und-vitako-planen-portal-zur-sammlung-von-open-source-fuer-die-oeffentliche-verwaltung) eine Plattform zur Sammlung und zum Austausch von Open-Source-Software für die öffentliche Verwaltung einzurichten. Was kann die Gründung einer solchen Plattform für Freie und Offene Software (FOSS) von und für die öffentliche Verwaltung nach dem Vorbild von z. B. [code.gov](https://code.gov/) aus den USA bewirken? Wie kann ein solches Vorhaben erfolgreich sein? Die öffentliche IT-Landschaft in Deutschland zeigt: Die Einrichtung an sich wird kaum etwas ändern, wenn sie nicht an bestimmte Bedingungen geknüpft wird.
 

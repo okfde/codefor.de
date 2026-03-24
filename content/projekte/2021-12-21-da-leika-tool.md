@@ -17,4 +17,4 @@ collaborators:
 
 ---
 
-Der [Leistungskatalog der öffentlichen Verwaltung (LeiKa)](https://de.wikipedia.org/wiki/LeiKa) ist ein Verzeichnis aller Verwaltungsleistungen, die von Bund, Ländern und den Kommunen erbracht werden. Der LeiKa definiert für jede Verwaltungsleistung (z.B. die [Anmeldung der Beförderung von unversteuertem Bier](https://opengovtech.de/leika/#urn:de:fim:leika:leistung:99102112000000)) eine eindeutige ID (z.B. `99102112000000`). Dieses Tool macht den Leistungskatalog einfach durchsuchbar und läd zum Stöbern ein.
+Der [Leistungskatalog der öffentlichen Verwaltung (LeiKa)](https://de.wikipedia.org/wiki/LeiKa) ist ein Verzeichnis aller Verwaltungsleistungen, die von Bund, Ländern und den Kommunen erbracht werden. Der LeiKa definiert für jede Verwaltungsleistung (z.B. die [Anmeldung der Beförderung von unversteuertem Bier](https://opengovtech.de/leika/#urn:de:fim:leika:leistung:99102112000000)) eine eindeutige ID (z.B. `99102112000000`). Dieses Tool macht den Leistungskatalog einfach durchsuchbar und lädt zum Stöbern ein.

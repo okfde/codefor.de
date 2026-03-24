@@ -5,7 +5,6 @@ title: OK Lab Fläming
 lat: 52.1427265
 long: 12.5951797
 markerposition: right
-h4c: true
 
 aliases:
 - /flaeming

@@ -8,27 +8,6 @@ aliases:
 - /muenster
 - /ms
 
-members:
-
-- name: Gerald Pape
-  username_github: ubergesundheit
-
-- name: Tobias Bradtke
-  username_github: webwurst
-
-- name: Yannic Schencking
-  username_github: jahnique
-
-- name: Thomas Werner
-  username_github: tomsrocket
-  username_twitter: toms_rocket
-
-- name: Christian Römer
-  username_github: thunfischtoast
-
-- name: Thomas Terstiege
-  username_github: silberzwiebel
-
 links:
 - name: Webseite
   url: https://codeformuenster.org/

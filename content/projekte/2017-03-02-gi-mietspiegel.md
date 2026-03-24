@@ -7,13 +7,13 @@ status: Datensammlung, Konzeptionierung, Sucht Mitmacher
 
 links:
 - url: https://github.com/CodeForGiessen/mietspiegel
-name: Repository auf Github
+  name: Repository auf Github
 
 collaborators:
 - name: Florian Kolb
-links:
-- url: https://github.com/toxic2302
-name: GitHub
+  links:
+  - url: https://github.com/toxic2302
+    name: GitHub
 
 tags:
 - Gesellschaft

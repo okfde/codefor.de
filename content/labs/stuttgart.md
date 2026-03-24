@@ -9,37 +9,6 @@ inactive: true
 aliases:
 - /stuttgart
 
-members:
-- name: Rajko Zschiegner
-  username_twitter: ricki_z
-  username_github: ricki-z
-
-- name: David Lackovic
-
-- name: Ewald Thoma
-
-- name: Frank Riedel
-  username_twitter: riedelwerk
-  username_github: riedelwerk
-
-- name: Martin Weis
-  username_github: Marwe
-
-- name: Andreas Madsack
-  username_twitter: mfandreas
-  username_github: mfa
-
-- name: rashfael
-  username_github: rashfael
-
-- name: Fritz Mielert
-  username_twitter: mielert
-  username_github: mielert
-
-- name: Christian Kuhn
-  username_twitter: ChrizKu
-  username_github: ChrizKu
-
 links:
 - name: GetTogether
   url: https://events.sensor.community/ok-lab-stuttgart/

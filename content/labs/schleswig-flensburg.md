@@ -9,24 +9,6 @@ markerposition: right
 aliases:
 - /schleswig-flensburg
 
-members:
-
-- name: Frank Radzio
-  username_github: DasNordlicht
-  username_twitter: dasnordlicht
-  email: frank.radzio@nucleon-ev.eu
-
-- name: Jens Vorwerg
-  url: https://forum.iot-usergroup.de/u/nordrunner
-  email: jens.vorwerg@nucleon-ev.eu
-
-- name: Marcel Radzio
-  username_github: mtrnord
-  username_twitter: mtrnord
-
-- name: Heinrich Rode
-  email: heinrich.rode@nucleon-ev.eu
-
 links:
 
 - name: Homepage (Nucleon e.V.)
