@@ -13,7 +13,7 @@ Grundsätze
 {{< paragraph-center  >}}
 ## Mission Statement
 
-Code for Germany ist ein Netzwerk von ehrenamtlich engagierten Menschen, die sich für eine gemeinwohlorientierte digitale Zukunft einsetzen. Wir setzen uns mit dem Stand der Digitalisierung in unserer Stadt, Kommune und Region auseinander. Wir bauen hilfreiche Soft- und Hardware-Projekte. Wir analysieren aktuelle technologische Entwicklungen nach ihrem Nutzen für die Gesellschaft. Wir zeigen den Wert von Offenen Daten und leisten Überzeugungsarbeit für eine nachhaltige Digitalisierung der Verwaltung. 
+Code For Germany ist ein Netzwerk von Gruppen ehrenamtlich engagierter Freiwilliger, die ihre Fähigkeiten nutzen, um ihre Städte und das gesellschaftliche Miteinander positiv zu gestalten. Sie setzen sich für mehr Transparenz, Offene Daten und Partizipation in ihren Städten ein. Sie vermitteln insbesondere zwischen Zivilgesellschaft, Verwaltung und Politik und nutzen ihre Fähigkeiten, um die Kommunikation zwischen diesen zu verbessern und notwendige Impulse zu setzen, damit die Möglichkeiten der offenen und freien Digitalisierung so vielen Menschen wie möglich zugute kommen.
 
 ## Vision
 
