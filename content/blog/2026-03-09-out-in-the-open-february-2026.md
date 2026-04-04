@@ -382,6 +382,8 @@ type: blog
   https://fragdenstaat.de/anfrage/einreichungen-aus-dem-einfachmachen-portal-1/1079630/anhang/ifgbescheidname28012026_geschwaerzt.pdf
 * CCC zum Entwurf des sächsischen Polizeigesetzes: Das ist eine „Blaupause für den Überwachungsstaat“
   https://www.l-iz.de/politik/sachsen/2026/02/ccc-zum-entwurf-des-sachsischen-polizeigesetzes-blaupause-fur-uberwachungsstaat-648862
+* Der Aufstieg der Datenkraken
+  https://www.ardmediathek.de/video/Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzAwODRhZDc4LWJhNTQtNDM0NS1iM2Y3LTcxNzM0OTA3ZGRjNA
 
 ## The daily KInk
 ### Neue Tools

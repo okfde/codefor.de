@@ -237,6 +237,8 @@ type: blog
   https://verbraucherschutzforum.berlin/2026-01-03/langsamer-aber-sicherer-studie-belegt-deutliche-vorteile-von-tempo-30-in-staedten-401933/
 * Mobilitätsdaten: Deutsche Carsharing-Anbieter fürchten um ihre Existenz
   https://www.heise.de/news/Mobilitaetsdaten-Deutsche-Carsharing-Anbieter-fuerchten-um-ihre-Existenz-11156121.html
+* Does Your Car Actually Save Time? Use the Social Speed Calculator to Find Out
+  https://en.reset.org/does-your-car-actually-save-time-use-the-social-speed-calculator-to-find-out/
 
 ## Energie
 * energiepolitische Unabhängigkeitserklärung Europas
