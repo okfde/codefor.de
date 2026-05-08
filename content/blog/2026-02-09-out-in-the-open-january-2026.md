@@ -12,34 +12,29 @@ type: blog
 ---
 
 ## Open Data
-* Man kann herausbekommen, wer einen Eintrag im GND angelegt hat
-  https://norden.social/@MisterOpenData/115858976334166381
-* Organisationsplan der Berliner Senatsverwaltung für Bildung, Jugend und Familie
-  https://mastodontech.de/@opendataberlin/115899500932742640
+### Datentauchen 
+Am 15. Januar feierte die Online-Enzyklopädie Wikipedia ihren [25. Geburtstag](https://de.wikipedia.org/wiki/Wikipedia:25_Jahre_Wikipedia). Wie Markus Reuter schön in [seiner "Liebeserklärung" schreibt](https://netzpolitik.org/2026/wikipedia-wird-25-ein-anderes-internet-ist-moeglich/), verkörpert sie "die Idee eines Internets, in dem wir kooperativ, gemeinnützig und international zusammenarbeiten". Und sie zeigt, dass eine solche "Wissensallmende" eben auch erfolgreich sein kann, ohne kommerziell werden zu müssen, und es eben nicht unbedingt Verlage und bezahlte Autoren braucht, um eine Sammlung objektiver Artikel zu schaffen und aktuell zu halten. 
+
+Die [Gemeinsame Normdatei (GND)](https://de.wikipedia.org/wiki/Gemeinsame_Normdatei) ist ein Verzeichnis eindeutiger Schlagworte, mit denen Literatur- und inzwischen auch jedmögliche (Online-)Informationsquellen zu kategorisieren sind. Mit dem [GND-Explorer](https://explore.gnd.network) kann man nach GND-Entitäten suchen und zwischen ihren Verknüpfungen untereinander navigieren. Über die "Katalogisierende Institution" kann man auch [herausbekommen](https://norden.social/@MisterOpenData/115858976334166381) wer einen Eintrag im GND angelegt hat. Tim hat darauf aufbauend [analysiert](https://github.com/tifa365/wer-macht-die-gnd), wer die 10 Millionen Normdatensätze hauptsächlich katalogisiert und pflegt.
+
+Den [stetig aktualisierten](https://mastodontech.de/@opendataberlin/115899500932742640) offiziellen [Organisationsplan](https://www.berlin.de/sen/bjf/ueber-uns/leitung/organigramm/) der Senatsverwaltung für Bildung, Jugend und Familie in Berlin gibt es auch Linked Open Data in Form einer JSON, die dem [Berliner Organisationsvokabular](https://berlin.github.io/lod-vocabulary/berorgs/) folgt und die Organisationseinheiten, Rollen und Personen über URIs eindeutig identifizierbar und mit Organigrammen anderer Behörden verknüpfbar macht.
+  
 ### Open Government
-* GovDirectoy: added 8 new countries, almost 8,000 organizations and over 13,000 contact points.
-  https://wikis.world/@govdirectory/115832903927354058
-* Der Evaluationsbericht zum Offene-Daten-Gesetz Schleswig-Holstein wurde veröffentlicht
-  https://www.landtag.ltsh.de/infothek/wahl20/drucks/03900/drucksache-20-03901.pdf
-  https://norden.social/@MisterOpenData/115903378554004888
+Zu Schleswig-Holsteins Offene-Daten-Gesetz und zugehörigem Open-Data-Portal wurde ein 166 Seiten starker [Evaluationsbericht](https://www.landtag.ltsh.de/infothek/wahl20/drucks/03900/drucksache-20-03901.pdf) vom Deutsches Forschungsinstitut für öffentliche Verwaltung veröffentlicht. Dabei wurden Bereitstellung und Veröffentlichungsfrequenz, Veröffentlichungsaufwand, Datenqualität sowie Nutzung und Nutzungsfreundlichkeit des Portals untersucht. Nach Auswertung der interviewten Beschäftigten der Open-Data-Leitstelle sind die formulierten Ziele des Gesetzes bisher nur mäßig erreicht worden. Entsprechend wird empfohlen, in den datenbereitstellenden Stellen die Datenkompetenz der Angestellten weiter zu erhöhen und sind aus Sicht der Autoren auch gesetzliche Anpassungen notwendig, um die Bereitstellung von Daten zu fördern und Unsicherheiten z.B. bei der Vergabe von Lizenzen abzubauen und die Einhaltung von Qualitätsstandards auch auf kommunaler Ebene gezielt durch z.B. Schulungen zu unterstützen.
+
+Auf [Govdirectory](https://www.govdirectory.org/) werden von Freiwilligen die offiziellen Online-Konten und Webseiten von Botschaften und Behörden zusammengetragen. [2025 kamen](https://wikis.world/@govdirectory/115832903927354058) 8 neue Staaten, fast 8.000 Organisationen und über 13.000 Kontakte neu hinzu.
+
 ### Parlamente
-* Das gemeinsame Archiv der Landtage, der sog. #Parlamentsspiegel , ist nach Ansicht der Landtagspräsident:innen eine urheberrechtlich geschützte Datenbank. Wollen wir das Archiv mal freiklagen?
-  https://mastodon.social/@_m/115860429494824380
-* RIS Hersteller Statistiken
-  https://github.com/konstin/ris-vendor-stats
-  https://data.codefor.de/admin/content/systems
-  https://chaos.social/@datenschatz@norden.social/115910329944015701
-* https://stateparl.de bereitet schon seit Jahren alle Plenarprotokolle aller 16 Landtage auf. 345 Mio. Wörter seit 2000, mit API und Forschungsdatensatz.
-  https://stateparl.de
-  https://chaos.social/@filter/115933072622928098
+(Meta-)Daten und Dokumente aus dem [Parlamentsspiegel](https://www.parlamentsspiegel.de/), gemeinsames Archiv der Landtage, werden weiterhin nicht freizugänglich gemacht, weil es nach Ansicht der Landtagspräsident:innen eine urheberrechtlich geschützte Datenbank handelt und damit unter [§4](https://www.gesetze-im-internet.de/urhg/__4.html) als auch §87 [a](https://www.gesetze-im-internet.de/urhg/__87a.html),[b](https://www.gesetze-im-internet.de/urhg/__87b.html),[c](https://www.gesetze-im-internet.de/urhg/__87c.html),[d](https://www.gesetze-im-internet.de/urhg/__87d.html),[e](https://www.gesetze-im-internet.de/urhg/__87e.html) Urheberrechtgesetz fällt. Markus Drenger [regt an](https://mastodon.social/@_m/115860429494824380), dagegen zu klagen. Denn das Gesetz für die Nutzung von Daten des öffentlichen Sektors (Datennutzungsgesetz - DNG) schließt im Absatz 5 explizit die Anwendung des §87b aus. Und auch die Verordnung zu hochwertigen Datensätze (HVD-VO) könnte als Argument für die freie Veröffentlichung gezogen werden.
+
+Das von Volkswagenstiftung, FU Berlin und der Berlin University Alliance geförderte und aus einer Bachelor-Arbeit entstandene Projekt [StateParl](https://stateparl.de) macht [seit Jahren](https://chaos.social/@filter/115933072622928098) die Plenarprotokolle aller 16 Landtage einfach zugänglich, z.B. über eine Online-Suche aber auch einer API, deren Zugang man beim Entwickler anfragen kann bzw. durch [eine Registrierung beim GESIS](https://search.gesis.org/research_data/SDN-10.7802-2854) erreichen kann. Wie es bereits in Forschung und Journalismus genutzt wurde, zeigen die [Fallstudien](https://stateparl.de/case-studies).
+
+[Wie kommt man](https://norden.social/@datenschatz/115910329931048175) an eine öffentliche Liste der Ratsinformationssystem-Websiten deutscher Kommunen: im OParl-Projekt wurde [eine unvollständige Liste](https://github.com/OParl/resources/blob/main/endpoints.yml) zu den jeweiligen APIs ein paar Jahre gepflegt, für das [RIS Vendor Stats](https://konstin.github.io/ris-vendor-stats/) Projekt läuft der Scraper noch wöchentlich und erzeugt JSON- und [CSV](https://github.com/konstin/ris-vendor-stats/blob/master/results-2026-01-25.csv)-Datei mit Zuordnung Stadt zu Hersteller, die Webseite weist aber auch hier darauf hin, dass die Daten Fehler enthalten, da der Crawler sowohl nicht immer das RIS der richtigen Kommune zuordnen kann, als auch viele Städte und Kommunen fehlen. Am aktuellsten sind wohl die Daten aus der [Poliscope-API](https://poliscope.de/blog/api-ratsinformationssysteme), diese benötigt allerdings Authentifizierung. Alternativ könnte man sukzessiv über die Stadt/Land/Gemeinde-Suche sich für allen deutschen Städten die Links zum jeweiligen RIS extrahieren.
+
 ### Open Data und Zugangskontrolle
-* Confronting the Challenges of Sensitive Open Data
-  https://katinamagazine.org/content/article/open-knowledge/2026/confronting-the-challenges-of-sensitive-open-data
-* Daten teilen, ohne sie herauszugeben? Die transaktionsbasierte Datentreuhand
-  https://sharecast.podigee.io/12-11-daten-teilen-ohne-sie-herauszugeben-die-transaktionsbasierte-datentreuhand
-## Offenes Wissen
-* Wikipedia wird 25: Ein anderes Internet ist möglich
-  https://netzpolitik.org/2026/wikipedia-wird-25-ein-anderes-internet-ist-moeglich/
+Ein [Datentreuhänder](https://de.wikipedia.org/wiki/Datentreuh%C3%A4nder) soll als Instanz den vertrauensvollen, neutralen Datenaustauschs zwischen einem Datengeber und einem Datennutzer ermöglichen, bei dem die Rechte jeweiligen Seite gewahrt werden (auf Geberseite z.B. personenbezogenen Daten nur pseudonomisiert herausgeben, nur bestimmte Granularität anbieten, um wirtschaftlichen Vorteil zu wahren, auf Nehmerseite: Identität gegenüber Datengeber nicht preis geben müssen). Je nach Ausgestaltung kann der Treuhänder allerdings selbst so große Datensätze über verschiedene Datengeber hinweg ansammeln (Datensilo-Modell). Möchte man dies nicht, sollte man sich für das transaktionale Modell entscheiden, welches in dieser [ShareCast-Folge](https://sharecast.podigee.io/12-11-daten-teilen-ohne-sie-herauszugeben-die-transaktionsbasierte-datentreuhand) näher vorgestellt wird. So zirkulieren dann nur die Analyseergebnisse und nicht die Rohdaten selbst.  
+
+In Ländern wie den USA gibt es keine GDPR, so dass es häufiger passieren kann, dass in z.B. veröffentlichen Polizeieinsatzdaten auch personenbezogene Daten enthalten sein können. Die International Indigenous Data Sovereignty Interest Group hat daher analog zu FAIR [die CARE-Prinzipien entwickelt](https://katinamagazine.org/content/article/open-knowledge/2026/confronting-the-challenges-of-sensitive-open-data) - "Collective Benefit, Authority to Control, Responsibility, and Ethics", um das Bewusstsein der Verantwortlichen zu solchen sensiblen offenen Daten (Sensitive Open Data) zu schärfen und vulnerable Gruppen besser zu schützen.  
 
 ## Statistik
 * Oxfam: Milliardäre häufen Reichtum so schnell an wie nie
