@@ -55,14 +55,21 @@ Also noch mehr Belastung für die Kommunen.
 
 ## Digitale Souveränität
 ### Behörden
-* Schleswig-Holstein: Open Source ist praxistauglich trotz Umstellungsproblemen
-  https://www.heise.de/news/Schleswig-Holstein-Open-Source-ist-praxistauglich-trotz-Umstellungsproblemen-11131005.html
-* Softwarewechsel bei Behörden: Es geht auch ohne Microsoft
-  https://www.spiegel.de/netzwelt/web/digitale-souveraenitaet-es-geht-auch-ohne-microsoft-a-395903c2-7109-48a7-91df-52997d27d569
-* Frankreich sagt Microsoft Teams und Zoom den Kampf an
-  https://www.heise.de/news/Frankreich-ersetzt-MS-Teams-und-Zoom-durch-eigene-Videokonferenzsoftware-11155120.html
-* Open Source Strategie für das Land Berlin
-  https://www.berlin.de/moderne-verwaltung/_assets/02_anlage-rs_open-source-strategie-fuer-das-land-berlin_20260114.pdf?ts=1768477958
+Mit dem Open-Source-Videokonferenz-System [Visio](https://lasuite.numerique.gouv.fr/produits/visio) sollen [in französischen Behörden](https://www.heise.de/news/Frankreich-ersetzt-MS-Teams-und-Zoom-durch-eigene-Videokonferenzsoftware-11155120.html) bis 2027 200.000 Beamte nicht mehr eine US-Software wie Zoom nutzen müssen. Zudem spart dies erheblich Lizenzkosten und ist integriert mit anderen Werkzeugen aus der digitalen Arbeitsumgebung [La Suite](https://lasuite.numerique.gouv.fr).
+
+"Es macht keinen Sinn, mit unseren Lizenzgebühren länger den technologischen Fortschritt anderswo in der Welt zu finanzieren, wenn wir gleichzeitig mit unseren öffentlichen Budgets auch unseren Digitalstandort stärken können.", begründet der schleswig-holsteiner Digitalisierungsminister die Notwendigkeit des Umstiegs von Verwaltung und Justiz auf Open-Source-Software, auch wenn dort eine "massive Beeinträchtigung der Gerichte" befürchtet wird. An Vorbereitung und Kommunikation kann also noch gearbeitet werden.
+
+Auch eine Befragung von Behörden und Unternehmen hat erheben, dass große Organisationen weitgehend auf Microsoft Office verzichten können. Einige Spezialanwendung in öffentlichen Verwaltungen gebe es zwar noch, die auf Basis der Office-Produkten arbeitet, diese sollen aber in Zukunft auch noch sukzessive abgelöst werden. Denn solche Erweiterungen können auch durch beauftragte IT-Dienstleister für LibreOffice und Co. gebaut werden. Vordergründig sehen natürlich viele die Kosteneinsparungen, aber das österreichische Bundesheer hat die digitale Souveräntität als Hauptbeweggrund genannt. Dennoch wünschen sich viele Umsteiger eine tiefe Integration der Open-Source-Lösungen untereinander. Noch werden sie eher als Flickenteppich wahrgenommen. Einem österreichischen Dienstleister im Gesundheitswesen war es zudem wichtig, ihre Software weiterhin selbst hosten und betreiben zu können, was nicht mit der Cloud-Strategie der großen Anbieter vereinbar gewesen wäre.
+
+Die [Open Source Strategie für das Land Berlin](https://www.berlin.de/moderne-verwaltung/_assets/02_anlage-rs_open-source-strategie-fuer-das-land-berlin_20260114.pdf) sieht sieben strategische Maßnahmen vor, um dessen Digitale Souveränität und Innovationskraft zu stärken: 
+* Aufbau von Open Source Kompetenzen bei den Verwaltungsmitarbeitenden durch gezielte Schulungen und Anwendung des Gelernten einfach durch vermehrte Nutzung von OpenSource im Alltag
+* darauf aufbauend soll zu eigenem Engagement im Open Source Ökosystem angeregt werden (von Berichten von Fehlern oder Verbesserungsvorschlägen bis hin zu selbst beigesteuerten Quellcode oder gar eigenen OpenSource-Projekten)
+* Implementierung von Open Source Governance und Kommunikation, z.B. durch das Ausformulieren von Leitlinien und Best Practices beim Einsatz von OpenSource hinsichtlich Risiken und dem Einhalten von rechtlichen Vorgaben 
+* Bei der Identifikation von kritischen Softwareabhängigkeiten sollen auch Risiken in diversen Bereichen bewertet werden, von Datensicherheit, über mögliche Vendor-Lock-in, bis hin zu Aufwandsabschätzungen, zu Alternativen zu wechseln, mit dem Ziel kritische Abhängigkeiten im Softwarebestand immer weiter zu verringern
+* die Nutzung Open Source in der Behörden-IT-Landschaft soll dadurch gestärkt werden, indem eine Inventarliste über aktuell genutzte Software kontinuierlich gepflegt wird, Möglichkeiten geschaffen werden, in Testumgebungen neue Software auszuprobieren und außerdem die Standardisierung in den Fachverfahren durch Ablösung proprietärer Software durch OpenSource weiter vorangetrieben werden soll
+* bis 2031 sollen im Land Berlin mindestens 50% der jährlichen Ausgaben aller Softwarebeschaffungen auf Open Source lizensierte Software oder Services entfallen, dazu müssen bestehende Leitfäden und Vergabekriterien für die Beschaffung angepasst werden 
+* das IT-Dienstleistungszentrum Berlin (ITDZ) als zentraler IT-Dienstleister der Berliner Verwaltung berät und unterstützt bei Einführung und Betrieb von OpenSource-Software
+
 ### EU
 * Konsultation: EU-Kommission arbeitet an neuer Open-Source-Strategie
   https://netzpolitik.org/2026/konsultation-eu-kommission-arbeitet-an-neuer-open-source-strategie/
