@@ -70,6 +70,8 @@ Die [Open Source Strategie für das Land Berlin](https://www.berlin.de/moderne-v
 * bis 2031 sollen im Land Berlin mindestens 50% der jährlichen Ausgaben aller Softwarebeschaffungen auf Open Source lizensierte Software oder Services entfallen, dazu müssen bestehende Leitfäden und Vergabekriterien für die Beschaffung angepasst werden 
 * das IT-Dienstleistungszentrum Berlin (ITDZ) als zentraler IT-Dienstleister der Berliner Verwaltung berät und unterstützt bei Einführung und Betrieb von OpenSource-Software
 
+Die ehrenamtliche (Mit-)Arbeit an OpenSource-Projekten, auch als elementarer Baustein zur Erreichung digitaler Souveränität, wird in Deutschland bisher weder steuer- noch förderrechtlich als Ehrenamt anerkannt. Andere Länder sind da weiter. Boris Hinzer hat deshalb [eine entsprechende Petition](https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland) beim Petitionsausschuss des Deutscher Bundestag eingereicht, die online mitgezeichnet werden kann.
+
 ### EU
 Auch auf EU-Ebene wird an einer [neuen Open-Source-Strategie gearbeitet](https://netzpolitik.org/2026/konsultation-eu-kommission-arbeitet-an-neuer-open-source-strategie/). Die EU-Kommission wünscht sich mehr Kommerzialisierung und legt besonderes Augenmerk auf den Einsatz bei kritischer Infrastruktur  und hatte Anfang Januar [eine Konsultation gestartet](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16213-European-Open-Digital-Ecosystems_en). Denn vielen Open-Source-Projekten fehlen nachhaltige Geschäftsmodelle und Professionalisierung. Neben Geld- und Zeitspenden braucht es mehr Unterstützung der Entwickler:innen durch die Kommission. Nur wenn die EU-Kommission Führung übernimmt, trauen sich IT-Abteilungen endlich aktiv werden, um ihre "Microsoft-Müdigkeit" durch geeignete alternative Open-Source-Lösungen zu überwinden.
 
@@ -105,27 +107,14 @@ Wenn Du nicht mehr weiter weißt, veranstalte den nächsten Hackathon-Scheiß - 
 
 Für das [EinfachMachen-Portal](https://einfach-machen.gov.de/), das optisch und inhaltlich eine gewisse Überscheidung zum Hackathon hat, stehen laut der Antwort auf eine [IFG-Anfrage](https://fragdenstaat.de/anfrage/fragen-budgetierung-planung-und-mitarbeiteranzahl-zu-https-einfach-machen-gov-de/) 2025 und 2026 7,6 Millionen Euro Budget zur Verfügung. 1 Mio Euro wurde bereits für Entwicklung und Betrieb an extern beauftragte ausgezahlt. Etwa 20 Mitarbeitende aus 3 Abteilungen waren/sind in die Konzeption und Umsetzung des Portals einbezogen (gewesen). Auch hier bleibt abzuwarten, welche und wie viele der gemeldeten Anliegen am Ende je umgesetzt werden.
 
-## Open Source
-* Petition: Anerkennung von Open-Source-Arbeit als Ehrenamt in Deutschland
-  https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland
-
 ## Open Science
-* Meet-the-Data
-  https://www.forschungsdaten-bildung.de/training-beratung/meet-the-data/
-* Open Science – Open Principles
-  https://ilias.uni-marburg.de/ilias.php?baseClass=illmpresentationgui&obj_id=535502&ref_id=4265670
-  https://mastodon.social/@leibnizopenscience/115893574663387135
-* A Blueprint for Open Science: How Transatlantic Teams Built and Deployed Knowledge Graphs to Enable Biological (AI) Models
-  https://europepmc.org/article/PPR/PPR1126462
+In der Online-Veranstaltungsreihe [Meet-the-Data](https://www.forschungsdaten-bildung.de/training-beratung/meet-the-data/) stellen Forschende und Mitarbeitende aus Forschungsdatenzentren ausgewählte Datenbestände vor gehen darauf ein, auf welche Besonderheiten Forschende, Lehrende und Studierende achten sollten, wenn sie sie für ihre eigene Forschung, Lehre bzw. Abschlussarbeiten nutzen wollen. 
+  
+Das Lern-Modul ["Open Science – Open Principles"](https://ilias.uni-marburg.de/ilias.php?baseClass=illmpresentationgui&obj_id=535502&ref_id=4265670) steht nun auf der Plattform ILIAS [offen und kostenlos bereit](https://mastodon.social/@leibnizopenscience/115893574663387135).
 
-## Citizen Science
-* ECSA 10 principles
-  https://open-research-europe.ec.europa.eu/articles/5-128/v2
-  https://mastodon.social/@mhaklay/115861268882494149
-* 2025 in Citizen Science – The Biggest Year Yet!
-  https://science.unistellar.com/blog/2025-in-citizen-science-the-biggest-year-yet/
-* Astronomen entdecken erdähnlichen Planeten in der Nachbarschaft
-  https://www.spiegel.de/wissenschaft/astronomie-erdaehnlicher-planet-in-der-nachbarschaft-entdeckt-a-39fb2419-9cfe-4e26-8352-4fc9a0fceea5
+In sieben Projekten haben teilnehmende Teams aus Oktober 2025 im NVIDIA - AWS Open Data Knowledge Graph Hackathon Lösungen entwickelt, in denen biomedizinische Wissensgraphen auf Basis von offenen Daten erstellt, validiert und live gesetzt - welche nachahmenswerte Praktiken sich dabei herauskristalisiert haben, beleuchtet nun [ein Artikel](https://europepmc.org/article/PPR/PPR1126462).
+
+Mit [über 15.000 Beobachtungen](https://science.unistellar.com/blog/2025-in-citizen-science-the-biggest-year-yet/) von Hobby Astronomen war das Jahr 2025 das bisher ergiebigste für das SETI Unistellar Network Projekt. Auch die Entdeckung eines 146 Lichtjahre entfernten erdähnlichen Planeten basierte auf Hinweisen von Bürgerwissenschaftlern, die im Projekt ["Planet Hunters"](https://en.wikipedia.org/wiki/Planet_Hunters) bestehende Daten von Weltraumteleskopen nochmal nach Auffälligkeiten durchsucht haben.
 
 ## Open Hardware
 * Prusa's new self-made "Open Community License" shows why you shouldn't do that.

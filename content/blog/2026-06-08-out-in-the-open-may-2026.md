@@ -6,7 +6,7 @@ excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data
 topic: community
 images:
 - imgname: out-in-the-open-2026-05-header.jpg
-  attribution: <a href="https://pixabay.com/photos/open-open-sign-leipzig-9890496/">Foto</a> von <a href="https://pixabay.com/users/sannsie-40193152/">sannsie</a> auf <a href="https://pixabay.com/">Pixabay</a>
+  attribution: <a href="https://pixabay.com/photos/sign-store-tobacco-shop-parcel-shop-10293918/">Foto</a> von <a href="https://pixabay.com/users/sannsie-40193152/">sannsie</a> auf <a href="https://pixabay.com/">Pixabay</a>
 og_image: out-in-the-open-2026-05-header.jpg
 type: blog
 ---
