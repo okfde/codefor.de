@@ -163,39 +163,27 @@ Momentan müssen Wind- und Solaranlagen noch ausgeschaltet werden, wenn sie mehr
 Während das deutsche Wirtschaftsministerium verbindliche Energieeffizienzziele [wieder streichen möchte](https://klimareporter.de/deutschland/wirtschaftsministerium-will-vom-energiesparen-abruecken), zeigt Zürichs [2000-Watt-Experiment](https://de.wikipedia.org/wiki/2000-Watt-Gesellschaft), wie man entlang der Planetaren Grenzen [leben kann](https://www.swissinfo.ch/ger/klimaanpassung/z%C3%BCrichs-2000-watt-experiment-wie-es-sich-entlang-der-planetaren-grenzen-lebt/90582941). 2000 Watt Dauerleistung pro Person (= 17.500 KWh pro Jahr) bedeutet ein Drittel weniger Energie (Strom, Wärme, Mobilität) verbrauchen, als bisher. Die Bewohner der Baugenossenschaft Hunziker Areal praktizieren dies aber schon seit 2015. Auch ein soziales Experiment, denn die Änderungen von Gewohnheiten fällt nicht immer leicht.
 
 ## Klima
-* Was bringen Klimaklagen? (Roda Verheyen, Juristin), Teil 1
-  https://lagedernation.org/podcast/ldn460-was-bringen-klimaklagen-roda-verheyen-juristin-teil-1/
-* Schritt für Schritt zur energetischen Sanierung: Hilfreiche Tools und unabhängige Beratung
-  https://www.ioew.de/publikation/schritt_fuer_schritt_zur_energetischen_sanierung
-* In der Substanz ist der Klimaschutz in Deutschland – die Energiewirtschaft ausgenommen – in den letzten Jahren nicht vorangekommen. Das legt die vom Thinktank Agora Energiewende heute vorgelegte vorläufige Klimabilanz für 2025 offen.
-  https://klimareporter.de/deutschland/selbst-das-wetter-liess-den-klimaschutz-im-stich
-* UN-Bericht zur Finanzierung von Natur: 30 zu 1 für Naturzerstörung
-  https://taz.de/UN-Bericht-zur-Finanzierung-von-Natur/!6147757/
-* Wie holen wir CO2 wieder aus der Atmosphäre?
-  https://taz.de/Klimakrise/!6140865/
+Verkehr- und Gebäudesektor überziehen ihre jährlichen Klimavorgaben [immer schlimmer](https://klimareporter.de/deutschland/selbst-das-wetter-liess-den-klimaschutz-im-stich) (Verkehr 2025: um 2 Mio auf 145 Mio Tonnen und damit 28 Mio Tonnen zuviel, Gebäude: 14 Mio Tonnen zuviel), Deutschland wird damit seine Pflichten aus der EU-Klimaschutzverordnung voraussichtlich um 224 Millionen Tonnen CO2 überziehen, die mit 34 Milliarden Euro teuren CO2-Emissionsrechten dann zu kompensieren wäre. Statt die strukturellen Probleme in den beiden Sektoren zu lösen, werden aber der europäische Emissionshandel für Gebäude und Verkehr auf 2028 verschoben und das Verbrennerverbots ab 2035 versucht zu kippen.
+
+Wenn Legislative und Executive bocken, kann uns nur noch die Judikative retten?: die Juristen Roda Verheyen stellt [im Gespräch im Lage der Nation Podcast](https://lagedernation.org/podcast/ldn460-was-bringen-klimaklagen-roda-verheyen-juristin-teil-1/) jedenfalls fest, dass die sozialogische Forschung klar belegen kann, dass Klimaklagen aktuell wesentlicher, wenn nicht der einzige, Treiber für die Durchsetzung eigentlich vereinbarter Klimaziele (z.B. Pariser Klimaabkommen) ist.
+
+Laut einem Bericht des Umweltprogramms der Vereinten Nationen (Unep) fließt deutlich mehr Geld in die Zerstörung der Natur als in den Naturschutz. Dabei würde der Investitionsbedarf in den nachhaltigen Anbau von Kaffee, Palmöl oder Soja gerade mal einem halben Prozent der globalen Wirtschaftsleistungen entsprechen.
+
+[Schritt für Schritt zur energetischen Sanierung: Hilfreiche Tools und unabhängige Beratung](https://www.ioew.de/publikation/schritt_fuer_schritt_zur_energetischen_sanierung) - nachdem im ersten Schritt sich ein Überblick über Energieverbrauch verschafft wurde, werden im zweiten Schritt Fragen zu potenzielle Maßnahmen und passenden Fördermöglichkeiten geklärt, im dritten Schritt gesetzlichen Anforderungen und Finanzierung recherchiert um gut vorbereitet im vierten Schritt eine kostenpflichtige Energieberatung mit Hausbegehung in Anspruch zu nehmen, um darauf aufbauend einen individueller Sanierungsfahrplan (iSFP) zu erstellen.
+
+38 Milliarden Tonnen CO2 stößt die Menschheit jährlich in die Atmosphäre aus. Die wichtigste Maßnahme bleibt: Emissionen senken. Dennoch, ganz ohne CO2-Entnahme aus der Atmosphäre wird es nicht gehen. Die Verfahren Aufforstung, Gesteigerte Gesteinsverwitterung, Direct Air Capture, Bioenergie mit CO2-Abscheidung, Künstliche Photosynthese, Pflanzenkohle werden hinsichtlich Umsetzbarkeit und Kosten [in der taz bewertet](https://taz.de/Klimakrise/!6140865/).
+
+[Eine Studie](https://www.nature.com/articles/s44284-025-00378-9.epdf?sharing_token=dWl64x-yjzhLOweBS9bxodRgN0jAjWel9jnR3ZoTv0MuiQeged9nirnKZDR3B23RiE6mWvRHZyaj6JqdcNK0jyJjRfwpDeLyhOyOkQau775g8ZwvqFQOZFlbSMNh0poH97LdsewxMroQR3ycovmQjwHQdY0745YGDQLWj9yIl-U%3D) einer Flora-Incognita-Arbeitsgruppe [zeigt](https://wisskomm.social/@FloraIncognita_DE/115898586174502927), dass Pflanzen-Beobachtungen (80 Millionen Datenpunkte) detaillierte Klima- und Bodenbedingungen in 326 europ. Städten widerspiegeln, und somit Pflanzen als "lebende Umweltsensoren" dienen.
 
 ### Hitze
-* Mit offenen Karten - Städte angesichts von Hitzewellen
-  https://www.arte.tv/de/videos/125533-012-A/mit-offenen-karten/
-  https://det.social/@kloeffi/115909149554827661
-* Ozeane nahmen 2025 Rekordmenge an Wärme auf – zum neunten Mal in Folge
-  https://www.spiegel.de/wissenschaft/natur/klimawandel-ozeane-nahmen-2025-rekordmenge-an-waerme-auf-neuntes-mal-in-folge-a-efa2e493-0227-4118-81fe-8fb42d546cf4
-* Climate change eclipses La Niña cooling in Australia to drive extreme heatwave and heightened fire risk
-  https://www.worldweatherattribution.org/climate-change-eclipses-la-nina-cooling-in-australia-to-drive-extreme-heatwave-and-heightened-fire-risk/
+Welche Ideen Städte weltweit entwickelt haben, um den Umstand zu begegnen, dass sie bis 2050 dreimal so oft monatelang Temperaturen von über 35 Grad haben könnten, erfährt im [arte-Beitrag](https://www.arte.tv/de/videos/125533-012-A/mit-offenen-karten/) von "Mit offenen Karten".
 
-### Flora
-* Den Bäumen zuhören: TreeMon überwacht Pflanzen über Mikrofone
-  https://reset.org/den-baeumen-zuhoeren-treemon-ueberwacht-pflanzen-ueber-mikrofone/
-* Können Pflanzen als "lebende Umweltsensoren" dienen? 80 Millionen Datenpunkte später ist klar: Ja.
-  https://www.nature.com/articles/s44284-025-00378-9.epdf?sharing_token=dWl64x-yjzhLOweBS9bxodRgN0jAjWel9jnR3ZoTv0MuiQeged9nirnKZDR3B23RiE6mWvRHZyaj6JqdcNK0jyJjRfwpDeLyhOyOkQau775g8ZwvqFQOZFlbSMNh0poH97LdsewxMroQR3ycovmQjwHQdY0745YGDQLWj9yIl-U%3D
-  https://wisskomm.social/@FloraIncognita_DE/115898586174502927
+[Einer neuen Studie](https://www.spiegel.de/wissenschaft/natur/klimawandel-ozeane-nahmen-2025-rekordmenge-an-waerme-auf-neuntes-mal-in-folge-a-efa2e493-0227-4118-81fe-8fb42d546cf4) zufolge haben Ozeane 2025 eine Rekordmenge an Wärme aufgenommen, zum 9. Mal in Folge, dabei hat sich die Wärmezunahme in den vergangenen 20 Jahren zudem verstärkt. Viele Extremwetterereignisse des letzten Jahres lassen sich auf diese Erwärmung zurückführen. 
+
+Der Südosten Australiens [durchlebte](https://www.worldweatherattribution.org/climate-change-eclipses-la-nina-cooling-in-australia-to-drive-extreme-heatwave-and-heightened-fire-risk/) Anfang 2026 die schlimmsten Hitzewelle seit 6 Jahren, mit entsprechend gestiegenen Risiko für sich ausbreitende Waldbrände.
 
 ### Luftqualität
-* 2014-2024: A decade of air quality improvements in Europe
-  https://atmosphere.copernicus.eu/2014-2024-decade-air-quality-improvements-europe
-  https://masto.ai/@CopernicusECMWF/115853124631588936
-* Studie in New York: City-Maut sorgt für saubere Luft
-  https://www.tagesschau.de/wissen/klima/auswertung-city-maut-new-york-100.html
+Durch die Einführung einer City-Maut in New York, Manhattan, vor einem Jahr ist die Luftverschmutzung [drastisch gesunken](https://www.tagesschau.de/wissen/klima/auswertung-city-maut-new-york-100.html), die befürchtete Verlagerung des Verkehrs in ärmer Viertel ist ausgeblieben. Auch in Europa hat sich die Luftqualität zwischen 2014 und 2024 [deutlich verbessert](https://atmosphere.copernicus.eu/2014-2024-decade-air-quality-improvements-europe), die Ozonwerte bleiben aber problematisch. 
 
 ## Journalismus
 * "Erstmals fließt jeder zweite deutsche Werbe-Euro an Google, Amazon & Meta"
