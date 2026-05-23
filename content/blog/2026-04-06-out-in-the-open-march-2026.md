@@ -291,8 +291,6 @@ type: blog
 * The INSPIRE Directive for geodata interoperability and sharing is set to be simplified.
   https://spatialists.ch/posts/2026/03/26-geo-beyond-inspire/
   https://mapstodon.space/@spatialists/116297983961743858
-* München Rewind
-  https://tifa365.github.io/muenchen.rewind/
 * TimeTiles: Reusable components and widgets for time-dependent geodata
   https://www.prototypefund.de/en/projects/timetiles
 

@@ -131,77 +131,27 @@ Welchen Software-Stack man für seinen Anwendungsfall einer netzunabhängige Fun
 
 Eine [Live-Karte](https://meshmap.net) zeigt die Knoten, die dem offiziellen Meshtastic MQTT-Server derzeit bekannt sind. Im [Github-Repositorium der Karte](https://github.com/brianshea2/meshmap.net?tab=readme-ov-file#faqs)) wird auch die Frage beantwortet, wie man sein eigenes Gerät auf die Karte bekommt.
 
-## Journalismus
-* "Erstmals fließt jeder zweite deutsche Werbe-Euro an Google, Amazon & Meta"
-  https://www.mdr.de/altpapier/das-altpapier-4492.html
-  https://newsie.social/@altpapier/115893105701015091
-* Presserat-Rüge: Irreführende Berichterstattung der WELT über NGOs
-  https://www.lobbycontrol.de/aus-der-lobbywelt/presserat-ruege-irrefuehrende-berichterstattung-der-welt-ueber-ngos-123791/
-* Report zum Fediverse: Chancen des Fediverse für Journalismus
-  https://www.swr.de/unternehmen/innovation/whitepaper-fediverse-100.html
-
-## Gesundheit
-* Ausgelagerte Arztabrechnungen gefährden Datenschutz
-  https://www.mdr.de/nachrichten/deutschland/politik/arztrechnung-finanzdienstleister-gesundheitsdaten-factoring-schufa-100.html
-  * discord outsourced their age verification to some vendor.
-    https://infosec.exchange/@paco/115925556526000488  
-* Pflegekräfteabwanderung hat Folgen für Lebenserwartung
-  https://www.zew.de/presse/pressearchiv/pflegekraefteabwanderung-hat-folgen-fuer-lebenserwartung
-* Landgericht Berlin: Doctolib wegen Irreführung der Versicherten gerügt
-  https://netzpolitik.org/2026/landgericht-berlin-doctolib-wegen-irrefuehrung-der-versicherten-geruegt/
-* Die PubMed-Falle: Deutschlands gefährlicher Datenpoker in der Medizin
-  https://www.heise.de/news/Die-PubMed-Falle-Deutschlands-gefaehrlicher-Datenpoker-in-der-Medizin-11155637.html
-* Berlin: Undurchsichtige Gesundheitsdatenbank-Pläne nach Brandbrief vorerst gestoppt
-  https://netzpolitik.org/2026/berlin-undurchsichtige-gesundheitsdatenbank-plaene-nach-brandbrief-vorerst-gestoppt/
-* Resistenzen jenseits von Antibiotika
-  https://www.pharmazeutische-zeitung.de/resistenzen-jenseits-von-antibiotika-161871/
-
-## Kultur
-* Denkmaltopographie
-  https://norden.social/@stadt_land_erleben@mastodon.social/115844607795771605
-* Visuelle Wissenschaftskommunikation für die Archäologie 
-  https://dnlhenn.github.io/AmrumROOTS/
-  https://pretalx.news-infographics-analytics-maps.media/2026/talk/ZCDKFR/
-* As an Open Data DPG, Software Heritage collects, preserves, and shares all public software source code, ensuring it remains accessible for everyone in the long term.
-  https://www.digitalpublicgoods.net/r/software-heritage
-  https://mastodon.social/@dpgalliance/115933184436620920
-
 ## Karten
-* Auf einer 3D-Karte sowie im DFX- & GML-Format könnt ihr euch #Geometriedaten aus Dortmund ansehen 
-  https://dortmund.bg.geoplex.de/v/DOLOD2/
-  https://ruhr.social/@DortmundData/115847174901587076
-* Wo sind Sparkassen nahe an Tiefgaragen – Schoener leben mit Linked Open Data
-  https://stefan.bloggt.es/2026/01/wo-sind-sparkassen-nahe-an-tiefgaragen-schoener-leben-mit-linked-open-data/
-* München rewind
-  https://tifa365.github.io/muenchen.rewind/
-  https://norden.social/@datenschatz/115875416161740796
-* Mietvergleich
-  https://service.destatis.de/DE/konferenzen/NIAM2026/mietvergleich.html
-  https://norden.social/@wahlatlas/115881494295677231
-  https://norden.social/@destatis@social.bund.de/115881649649985377
-* Wo sich Einheimische erholen und Reisende tummeln – Eine neue Karte digitaler Spuren für Deutschland
-  https://www.ioer.de/presse/aktuelles/digitale-spuren-in-der-landschaft
-* Kreismonitor Schleswig-Holstein
-  https://www.statistik-nord.de/fileadmin/download/kreismonitor/atlas.html
-  https://norden.social/@StatistikamtNord/115892689648719970
-* MapToPoster
-  https://github.com/originalankur/maptoposter
-  https://hachyderm.io/@sabrinkmann/115966540110682373
+Mit der [interaktiven Kartenanwendung](https://service.destatis.de/DE/konferenzen/NIAM2026/mietvergleich.html) des Statitischen Bundesamts kann man [prüfen](https://social.bund.de/@destatis/115881649694369830), wie hoch die durchschnittliche Nettokaltmiete für kleinere oder größere, jüngere oder ältere Wohnungen in einem Stadtgebiet sind. Grundlage für die Berechnung ist der Zensus 2022. Die Anwwendung ist [für einen Lightning Talk](https://norden.social/@wahlatlas/115881494295677231) auf der NIAM-Konferenz entstanden.
+
+66 Millionen öffentliche Social-Media-Beiträge aus 15 Jahren flossen in [diese hochauflösende Karte Deutschlands](https://www.ioer.de/presse/aktuelles/digitale-spuren-in-der-landschaft) ein - sie soll zeigen, welche Ausflugsziele Einheimische sowie auch nicht aus Deutschland stammende Tourist:innen laut ihrer Aussagen auf den sozialen Plattformen gerne besuchen. Roh- und Metadaten gibt es [hier](https://data.fdz.ioer.de/dataset.xhtml?persistentId=doi:10.71830/VDMUWW).
+
+Auf einer [3D-Karte](https://dortmund.bg.geoplex.de/v/DOLOD2/) sowie im DFX- & GML-Format kann man sich Geometriedaten aus Dortmund [ansehen](https://ruhr.social/@DortmundData/115847174901587076). 
+
+Das Bedenken möglicher unterschiedlicher Schreibweisen beim Filtern nach Objekten in der OpenStreetMap entfällt, wenn man in der Overpass-API-Suche [auf eindeutige IDs gehen kann](https://stefan.bloggt.es/2026/01/wo-sind-sparkassen-nahe-an-tiefgaragen-schoener-leben-mit-linked-open-data/), von daher immer passende Wikidata-Entitäten an den Objekten verlinken.
+
+Mit dem Projekt ["City Map Poster Generator"](https://github.com/originalankur/maptoposter) kann man sich für einen Kartenausschnitt verschiedene hübsche Darstellungen [erzeugen lassen](https://hachyderm.io/@sabrinkmann/115966540110682373).
 
 ## Mobilität
-* Jeder dritte Neuwagen war 2025 ein SUV
-  https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article695fa98a9c2c98991fda4ac9/jeder-dritte-neuwagen-war-2025-ein-suv.html
-* The Miser Plan
-  https://miserplan.carrd.co
-  https://climatejustice.global/@GermanZeroHH/115904909278871651
-* Transitous Hack Weekend January 2025
-  https://volkerkrause.eu/2026/01/17/transitous-hack-weekend-january-2026.html
-* Langsamer – aber sicherer: Studie belegt deutliche Vorteile von Tempo 30 in Städten
-  https://verbraucherschutzforum.berlin/2026-01-03/langsamer-aber-sicherer-studie-belegt-deutliche-vorteile-von-tempo-30-in-staedten-401933/
-* Mobilitätsdaten: Deutsche Carsharing-Anbieter fürchten um ihre Existenz
-  https://www.heise.de/news/Mobilitaetsdaten-Deutsche-Carsharing-Anbieter-fuerchten-um-ihre-Existenz-11156121.html
-* Does Your Car Actually Save Time? Use the Social Speed Calculator to Find Out
-  https://en.reset.org/does-your-car-actually-save-time-use-the-social-speed-calculator-to-find-out/
+Der ["Social Speed Calculator"](https://cleancitiescampaign.org/research-list/driving-a-car-is-shockingly-slow/) ermittelt, ob Autofahren in der Stadt wirklich Zeit spart. Denn neben der reine Zeit, um von A nach B zu kommen, kommen nicht nur noch die Zeit für die Suche eines Parkplatzes sondern [auch der Zeitaufwand](https://reset.org/spart-autofahren-wirklich-zeit-der-social-speed-calculator-berechnet-deinen-realen-zeitaufwand/), das Auto zur Inspektion und zur Reparatur zu schaffen, sowie der Anteil des Lohns ausgedrückt in Arbeitszeit, der in den Unterhalt des Fahrzeug (Steuern, Reparaturen) fließt. Auch gesamtwirtschaftlich geht Zeit verloren: Zeit, die für den Bau und Unterhalt von Straßen aufgewendet werden muss (die in anderen Bereichen sinnvoller eingesetzt wäre), Lebenszeit, die verloren geht, durch schlechte Luftqualität, Risiken von Verkehrsunfällen, depressiv machende Betonwüsten statt Grünflächen, usw. Dann vielleicht doch lieber "fußgängerfreundliche Städte und zuverlässige öffentliche Verkehrsmittel".
+
+Dass ein generelles Tempo 30 in Städten zu kaum Zeitverlust führt, dafür aber die Zahl der Verkehrsunfälle, hat [eine Untersuchung der Björn-Steiger-Stiftung ergeben](https://verbraucherschutzforum.berlin/2026-01-03/langsamer-aber-sicherer-studie-belegt-deutliche-vorteile-von-tempo-30-in-staedten-401933/).
+
+Aber wer braucht Fakten, wenn man mit höherem Tempolimit und mehr Straßen und Autobahnen gefühlt schneller ist. Gleiches gilt für das Sicherheits- und Komfort-Gefühl (und [ein paar weitere nicht-rationale Gründe](https://www.t-online.de/mobilitaet/recht-und-verkehr/id_82402798/darum-sind-suv-so-erfolgreich-wirtschaftspsychologe-erklaert.html), die man nicht so gerne zugibt), die Kosten für höhren Spritverbrauch, Zeit und Nerven für kompliziertere Parkplatzsuche und schlechter Umweltbilanz ausstechen: Im vergangenen Jahr [war jedes dritte neu zugelassene Auto in Deutschland ein SUV](https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article695fa98a9c2c98991fda4ac9/jeder-dritte-neuwagen-war-2025-ein-suv.html), in absoluten Zahlen 950.000 Fahrzeuge. Damit wuchs der Gesamtfahrzeugbestand zum 1. Oktober 2025 auf 7,1 Millionen SUVs (von 49,6 Millionen zugelassenen Fahrzeugen insgesamt).
+
+Der Bundesverband Carsharing (bcs) [befürchtet](https://www.heise.de/news/Mobilitaetsdaten-Deutsche-Carsharing-Anbieter-fuerchten-um-ihre-Existenz-11156121.html), dass die von einem Gesetzentwurf geforderte Freigabe von auch dynamischen Mobilitätsdaten, dazu führen könnte, dass in- und ausländische Wettbewerber die Geschäftsmodelle der bisherigen Anbieter dadurch einfach analysieren und angreifen könnten. Angebote auf dem Land, die bislang durch Überschüsse aus dem städtischen querfinanziert wurden, könnten durch den Kostendruck und durch Konzentrationsbewegungen auf besonders lukrative Standorte wegfallen. Strohmann-Argumente, denn Google und Apple kaufen jetzt schon massenweise Verkehrsinformationen, ohne dass dies Wissen der Allgemeinheit zu Gute kommen würde. Durch mehr Transparenz kann dagegen die digitale Verkehrswende beschleunigt werden (multimodules Routing, das digital souverän eben nicht nur von Google oder Apple abhängt), tatsächliche Bedarfe offen gelegt werden, und die Grundversorgung in ländlichen Gebieten mit politisch vorgegebener Quotierung trotzdem sichergestellt werden könnte, dann braucht es keine Geschäftsmodelle, die sich nur durch Geheimniskrämerei halten können.
+
+Miser, Gründer und Organisator der Micromobility-NYC-Community, hat [einen Plan](https://miserplan.carrd.co) für die Verkehrswende in New York aufgestellt, auch mit Anleihen bei guten Vorbildern aus Europa.
 
 ## Energie
 * energiepolitische Unabhängigkeitserklärung Europas
@@ -254,6 +204,43 @@ Eine [Live-Karte](https://meshmap.net) zeigt die Knoten, die dem offiziellen Mes
   https://masto.ai/@CopernicusECMWF/115853124631588936
 * Studie in New York: City-Maut sorgt für saubere Luft
   https://www.tagesschau.de/wissen/klima/auswertung-city-maut-new-york-100.html
+
+## Journalismus
+* "Erstmals fließt jeder zweite deutsche Werbe-Euro an Google, Amazon & Meta"
+  https://www.mdr.de/altpapier/das-altpapier-4492.html
+  https://newsie.social/@altpapier/115893105701015091
+* Presserat-Rüge: Irreführende Berichterstattung der WELT über NGOs
+  https://www.lobbycontrol.de/aus-der-lobbywelt/presserat-ruege-irrefuehrende-berichterstattung-der-welt-ueber-ngos-123791/
+* Report zum Fediverse: Chancen des Fediverse für Journalismus
+  https://www.swr.de/unternehmen/innovation/whitepaper-fediverse-100.html
+
+## Gesundheit
+* Ausgelagerte Arztabrechnungen gefährden Datenschutz
+  https://www.mdr.de/nachrichten/deutschland/politik/arztrechnung-finanzdienstleister-gesundheitsdaten-factoring-schufa-100.html
+  * discord outsourced their age verification to some vendor.
+    https://infosec.exchange/@paco/115925556526000488  
+* Pflegekräfteabwanderung hat Folgen für Lebenserwartung
+  https://www.zew.de/presse/pressearchiv/pflegekraefteabwanderung-hat-folgen-fuer-lebenserwartung
+* Landgericht Berlin: Doctolib wegen Irreführung der Versicherten gerügt
+  https://netzpolitik.org/2026/landgericht-berlin-doctolib-wegen-irrefuehrung-der-versicherten-geruegt/
+* Die PubMed-Falle: Deutschlands gefährlicher Datenpoker in der Medizin
+  https://www.heise.de/news/Die-PubMed-Falle-Deutschlands-gefaehrlicher-Datenpoker-in-der-Medizin-11155637.html
+* Berlin: Undurchsichtige Gesundheitsdatenbank-Pläne nach Brandbrief vorerst gestoppt
+  https://netzpolitik.org/2026/berlin-undurchsichtige-gesundheitsdatenbank-plaene-nach-brandbrief-vorerst-gestoppt/
+* Resistenzen jenseits von Antibiotika
+  https://www.pharmazeutische-zeitung.de/resistenzen-jenseits-von-antibiotika-161871/
+
+## Kultur
+* Denkmaltopographie
+  https://norden.social/@stadt_land_erleben@mastodon.social/115844607795771605
+* Visuelle Wissenschaftskommunikation für die Archäologie 
+  https://dnlhenn.github.io/AmrumROOTS/
+  https://pretalx.news-infographics-analytics-maps.media/2026/talk/ZCDKFR/
+* As an Open Data DPG, Software Heritage collects, preserves, and shares all public software source code, ensuring it remains accessible for everyone in the long term.
+  https://www.digitalpublicgoods.net/r/software-heritage
+  https://mastodon.social/@dpgalliance/115933184436620920
+
+
 
 ## Transparenz
 * So kam es zur Absenkung der Luftverkehrssteuer
