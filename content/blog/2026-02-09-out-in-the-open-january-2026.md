@@ -154,21 +154,13 @@ Der Bundesverband Carsharing (bcs) [befürchtet](https://www.heise.de/news/Mobil
 Miser, Gründer und Organisator der Micromobility-NYC-Community, hat [einen Plan](https://miserplan.carrd.co) für die Verkehrswende in New York aufgestellt, auch mit Anleihen bei guten Vorbildern aus Europa.
 
 ## Energie
-* energiepolitische Unabhängigkeitserklärung Europas
-  https://klimareporter.de/strom/fossile-fuellhoerner-zivile-c-parteien-und-energiesicherheit-von-nebenan
-* Effizienzvorschriften: Wirtschaftsministerium will vom Energiesparen abrücken
-  https://klimareporter.de/deutschland/wirtschaftsministerium-will-vom-energiesparen-abruecken
-* Durch den hohen Anteil alternativer Energien lohne sich die Kohleförderung nicht mehr: Leag stoppt Braunkohle-Förderung in Welzow-Süd schon drei Jahre früher
-  https://www.rbb24.de/wirtschaft/beitrag/2026/01/leag-ende-tagebau-welzow-sued-cottbus-2030.html
-* Nordsee soll "größter Energie-Hub der Welt" werden
-  https://www.heise.de/news/Nordsee-soll-groesster-Energie-Hub-der-Welt-werden-11155010.html
-* BEWEGT – Die Energiewende-Gesellschaft
-  https://www.energiewende-gesellschaft.de
-  https://mastodon.social/@ioew/115972021254458062
-* Deutschland verliert Strom für hunderte Millionen Euro – die Lösung gibt es bereits
-  https://www.focus.de/earth/deutschland-verliert-300-millionen-euro-strom-die-loesung-gibt-es-bereits_637eb820-dc07-4d55-8aa2-d8c724ba9827.html
-* Zürichs 2000-Watt-Experiment – wie es sich entlang der Planetaren Grenzen lebt
-  https://www.swissinfo.ch/ger/klimaanpassung/z%C3%BCrichs-2000-watt-experiment-wie-es-sich-entlang-der-planetaren-grenzen-lebt/90582941
+Auf [BEWEGT - die Energiewende Gesellschaft](https://www.energiewende-gesellschaft.de) zeigt mit Informationen zu 35 Forschungsprojekte, zahlreiche Publikationen, 100 Expert:innen als Ansprechpersonen, Online-Tools, Erklärvideos und Dashboards, [wie vielfältig](https://mastodon.social/@ioew/115972021254458062) die Forschung zu Energiewende und Gesellschaft bereits ist.
+
+Da sich durch den hohen Anteil alternativer Energien die Kohleförderung nicht mehr lohne, stoppt die Leag die Braunkohle-Förderung in Welzow-Süd schon [drei Jahre früher als geplant](https://www.rbb24.de/wirtschaft/beitrag/2026/01/leag-ende-tagebau-welzow-sued-cottbus-2030.html).
+
+Momentan müssen Wind- und Solaranlagen noch ausgeschaltet werden, wenn sie mehr Strom produzieren, als aktuell benötigt bzw. transportiert und gespeichert werden kann. Neben dem Netzbau soll daher die derzeitige Speicherkapazität von 25 Gigawattstunden (GWh) auf 100 GWh in 2030 und etwa 200 GWh in 2045 erweitert werden. [Focus stellt](https://www.focus.de/earth/deutschland-verliert-300-millionen-euro-strom-die-loesung-gibt-es-bereits_637eb820-dc07-4d55-8aa2-d8c724ba9827.html) die Vor- und Nachteile der verschiedenen Typen von Batteriespeichern vor.
+
+Während das deutsche Wirtschaftsministerium verbindliche Energieeffizienzziele [wieder streichen möchte](https://klimareporter.de/deutschland/wirtschaftsministerium-will-vom-energiesparen-abruecken), zeigt Zürichs [2000-Watt-Experiment](https://de.wikipedia.org/wiki/2000-Watt-Gesellschaft), wie man entlang der Planetaren Grenzen [leben kann](https://www.swissinfo.ch/ger/klimaanpassung/z%C3%BCrichs-2000-watt-experiment-wie-es-sich-entlang-der-planetaren-grenzen-lebt/90582941). 2000 Watt Dauerleistung pro Person (= 17.500 KWh pro Jahr) bedeutet ein Drittel weniger Energie (Strom, Wärme, Mobilität) verbrauchen, als bisher. Die Bewohner der Baugenossenschaft Hunziker Areal praktizieren dies aber schon seit 2015. Auch ein soziales Experiment, denn die Änderungen von Gewohnheiten fällt nicht immer leicht.
 
 ## Klima
 * Was bringen Klimaklagen? (Roda Verheyen, Juristin), Teil 1
