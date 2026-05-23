@@ -117,31 +117,19 @@ In sieben Projekten haben teilnehmende Teams aus Oktober 2025 im NVIDIA - AWS Op
 Mit [über 15.000 Beobachtungen](https://science.unistellar.com/blog/2025-in-citizen-science-the-biggest-year-yet/) von Hobby Astronomen war das Jahr 2025 das bisher ergiebigste für das SETI Unistellar Network Projekt. Auch die Entdeckung eines 146 Lichtjahre entfernten erdähnlichen Planeten basierte auf Hinweisen von Bürgerwissenschaftlern, die im Projekt ["Planet Hunters"](https://en.wikipedia.org/wiki/Planet_Hunters) bestehende Daten von Weltraumteleskopen nochmal nach Auffälligkeiten durchsucht haben.
 
 ## Open Hardware
-* Prusa's new self-made "Open Community License" shows why you shouldn't do that.
-  https://www.youtube.com/watch?v=IOvW3UBAPgo
-  https://chaos.social/@mavo/115841977130451110
-* Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life
-  https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/
-  https://hachyderm.io/@BenjaminHCCarr/115855727076663859
-  * https://www.heise.de/news/Bose-Lautsprecher-SoundTouch-Abschaltung-entschaerft-und-verschoben-11134096.html
-    https://social.heise.de/@heiseonline/115859199130267797
-  * Es kann so einfach sein: Bose öffnet API und rettet tausende Lautsprecher vor dem Elektroschrott
-    https://reset.org/es-kann-einfach-sein-bose-offnet-api-rettet-tausende-lautsprecher-vor-elektroschrott/
-  * "Bose is open-sourcing THE API of its old smart speakers instead of bricking them" 
-    https://chaos.social/@mavo/115939116134280259
-* Recht auf Reparatur kommt – Ersatzteile für Jahre gesichert
-  https://www.heise.de/news/Recht-auf-Reparatur-kommt-Ersatzteile-fuer-Jahre-gesichert-11142241.html
-* How to build a Lora solar node (WIP)
-  https://cryptpad.fr/code/#/2/code/view/u1VaqnWs0jvLT6qRDUipwyGw4G4xOmyqymF20y4gLvc/embed/present/
-  https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-solar-powerd-lora-node
-  https://floss.social/@rwv/115903991300093370
-* PODEST
-  https://okfn.de/blog/2026/01/projektstart-podest-offene-hardware-f%C3%BCr-eine-demokratische-energiewende/
-  https://okfn.de/projekte/podest/
-* MeshCore vs Meshtastic A Practical Comparison
-  https://brokensignal.tv/pages/meshcore-vs-meshtastic.html
-  https://meshmap.net
-  https://meshmap.openaprs.de
+Prusa hat mit der [Open Community License (OCL)](https://blog.prusa3d.com/de/open-sourcing-von-core-one-cad-dateien-unter-der-neuen-open-community-lizenz-ocl_127290/) eine eigene Lizenz eingeführt. Sie soll aus deren Sicht die Lücken, die traditionelle Softwarelizenzen bei der Anwendung auf physische Hardware hinterlassen, schließen. Sie gilt dabei nicht für die bereits gekauften physischen Produkte, sondern nur für die CAD-Dateien, Designs und den Quellcode und die aus diesen erzeugten physischen Artefakten. Thomas Sanladerer nimmt in [seinem Erklärvideo](https://www.youtube.com/watch?v=IOvW3UBAPgo) die neue Lizenz unter die Lupe, erläutert dabei auch die Unterschiede zwischen Design, Gebrauchsmuster, Patent, Urheberschutz sowie eingetragene Marke, und kommt zum Fazit, dass sie in ihrer aktuellen Form noch nicht das leistet, was sie verspricht, da sie noch nicht klar darüber ist, was eigentlich lizenzisiert wird. Und die Lizenz muss sich nun erst ihre allgemeine Erkennung erarbeiten. Bestehende Lizenzen wie die [CERN-OHL](https://de.wikipedia.org/wiki/CERN_Open_Hardware_Licence) hätten diese schon gehabt und haben sich schon als rechtlich robust erwiesen.
+
+Die OKFN hat das Projekt [PODEST](https://okfn.de/projekte/podest/) (steht für "Potentiale von Open Source Hardware für die dezentrale Energieversorgung") [gestartet](https://okfn.de/blog/2026/01/projektstart-podest-offene-hardware-f%C3%BCr-eine-demokratische-energiewende/). In ihm soll die nächsten drei Jahre erforscht werden, "wie Open Source Hardware einen konkreten Beitrag zu einer gerechteren, partizipativeren und resilienteren Energiewende leisten kann". Denn trotz vieler engagierter Einzelprojekte wie z.B. [LibreSolar](https://libre.solar) und [Windkit](https://git.erni-kollektiv.org/erni/windkit), fehlt das Wissen über Strategien, sie zu skalieren und Menschen zu befähigen, solche Technologien zu verstehen und einzusetzen, so dass sie wiederum selbst auch anderen Menschen bei ihrer Verwendung helfen könnten.
+
+Das Bundesjustizministerium, verantwortlich auch für Verbraucherschutz, hat einen Entwurf zur Umsetzung der [EU-Richtlinie](https://data.consilium.europa.eu/doc/document/ST-15408-2023-INIT/en/pdf) zum Recht auf Reparatur an Bundesländer und Verbände zur Kommentierung [geschickt](https://www.heise.de/news/Recht-auf-Reparatur-kommt-Ersatzteile-fuer-Jahre-gesichert-11142241.html), damit die EU-Richtlinie fristgerecht am 31.7. diesen Jahres als nationales Recht in Kraft treten kann. Dadurch werden unter anderem Hersteller verpflichtet, Ersatzteile entsprechend der erwarteten Lebensdauer des jeweiligen Produkts vorzuhalten, auch wenn die Produktion der Produktversion schon ausgelaufen ist, bei Handys sind das sieben Jahre, bei Waschmaschinen 10 Jahre. 
+
+Bei smarten Geräten, betrifft das aber nicht nur die Hardware, auch die zugehörige (Cloud-)Software-Infrastruktur müsste so lange weiter laufen, vor allem, wenn ohne sie die Geräte nicht mehr sinnvoll genutzt werden können. Vor diesem Problem standen nun Besitzer der Bose SoundTouch-Lautsprecher, die aus Sicht des Herstellers ihr [Produktlebenszyklusende erreicht haben](https://www.bose.com/soundtouch-end-of-life) und deswegen angekündigt wurde, den Cloud-Support für diese veraltete Produktgeneration abzuschalten. Nach großer Kritik wird nun aber zu mindestens die API [offengelegt](https://reset.org/es-kann-einfach-sein-bose-offnet-api-rettet-tausende-lautsprecher-vor-elektroschrott/), mit der die WLAN-fähigen Lautsprecher angesprochen werden können, mit der könnte eine Open-Source-Community die Funktionen des abgeschalteten Cloud-Dienste durch eigene Implementierungen [ersetzen, so die Hoffnung](https://www.heise.de/news/Bose-Lautsprecher-SoundTouch-Abschaltung-entschaerft-und-verschoben-11134096.html), und so die Geräte vor ihrer Elektroschrottifizierung retten.
+
+Auf dem 39C3 gab es [eine Session](https://events.ccc.de/congress/2025/hub/en/event/detail/build-your-own-solar-powerd-lora-node), in der gezeigt wurde, wie man die Stromversorgung eines Mikrocontrollers, der mit einem LoRa-Netzwerk verbunden ist, allein durch Sonnenenergie sicherstellen kann. Nun gibt es auch eine verschriftliche [Schritt-für-Schritt-Anleitung](https://cryptpad.fr/code/#/2/code/view/u1VaqnWs0jvLT6qRDUipwyGw4G4xOmyqymF20y4gLvc/embed/present/), die kontinuierlich verbessert werden kann. 
+
+Welchen Software-Stack man für seinen Anwendungsfall einer netzunabhängige Funkanwendung zum Aufbau eines dezentralen Funknetzes am besten nutzt, [Meshtastic](https://de.wikipedia.org/wiki/Meshtastic) oder [MeshCore](https://de.wikipedia.org/wiki/MeshCore), diskutiert [dieser praktische Vergleich](https://brokensignal.tv/pages/meshcore-vs-meshtastic.html).
+
+Eine [Live-Karte](https://meshmap.net) zeigt die Knoten, die dem offiziellen Meshtastic MQTT-Server derzeit bekannt sind. Im [Github-Repositorium der Karte](https://github.com/brianshea2/meshmap.net?tab=readme-ov-file#faqs)) wird auch die Frage beantwortet, wie man sein eigenes Gerät auf die Karte bekommt.
 
 ## Journalismus
 * "Erstmals fließt jeder zweite deutsche Werbe-Euro an Google, Amazon & Meta"
