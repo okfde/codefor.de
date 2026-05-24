@@ -185,94 +185,56 @@ Der Südosten Australiens [durchlebte](https://www.worldweatherattribution.org/c
 ### Luftqualität
 Durch die Einführung einer City-Maut in New York, Manhattan, vor einem Jahr ist die Luftverschmutzung [drastisch gesunken](https://www.tagesschau.de/wissen/klima/auswertung-city-maut-new-york-100.html), die befürchtete Verlagerung des Verkehrs in ärmer Viertel ist ausgeblieben. Auch in Europa hat sich die Luftqualität zwischen 2014 und 2024 [deutlich verbessert](https://atmosphere.copernicus.eu/2014-2024-decade-air-quality-improvements-europe), die Ozonwerte bleiben aber problematisch. 
 
-## Journalismus
-* "Erstmals fließt jeder zweite deutsche Werbe-Euro an Google, Amazon & Meta"
-  https://www.mdr.de/altpapier/das-altpapier-4492.html
-  https://newsie.social/@altpapier/115893105701015091
-* Presserat-Rüge: Irreführende Berichterstattung der WELT über NGOs
-  https://www.lobbycontrol.de/aus-der-lobbywelt/presserat-ruege-irrefuehrende-berichterstattung-der-welt-ueber-ngos-123791/
-* Report zum Fediverse: Chancen des Fediverse für Journalismus
-  https://www.swr.de/unternehmen/innovation/whitepaper-fediverse-100.html
-
 ## Gesundheit
-* Ausgelagerte Arztabrechnungen gefährden Datenschutz
-  https://www.mdr.de/nachrichten/deutschland/politik/arztrechnung-finanzdienstleister-gesundheitsdaten-factoring-schufa-100.html
-  * discord outsourced their age verification to some vendor.
-    https://infosec.exchange/@paco/115925556526000488  
-* Pflegekräfteabwanderung hat Folgen für Lebenserwartung
-  https://www.zew.de/presse/pressearchiv/pflegekraefteabwanderung-hat-folgen-fuer-lebenserwartung
-* Landgericht Berlin: Doctolib wegen Irreführung der Versicherten gerügt
-  https://netzpolitik.org/2026/landgericht-berlin-doctolib-wegen-irrefuehrung-der-versicherten-geruegt/
-* Die PubMed-Falle: Deutschlands gefährlicher Datenpoker in der Medizin
-  https://www.heise.de/news/Die-PubMed-Falle-Deutschlands-gefaehrlicher-Datenpoker-in-der-Medizin-11155637.html
-* Berlin: Undurchsichtige Gesundheitsdatenbank-Pläne nach Brandbrief vorerst gestoppt
-  https://netzpolitik.org/2026/berlin-undurchsichtige-gesundheitsdatenbank-plaene-nach-brandbrief-vorerst-gestoppt/
-* Resistenzen jenseits von Antibiotika
-  https://www.pharmazeutische-zeitung.de/resistenzen-jenseits-von-antibiotika-161871/
+Nach der Machtübernahme der Trump-Administration kann man sich nicht mehr darauf verlassen, dass die weltgrößte medizinische Literaturdatenbank PubMed, die in den USA betreut wird, auch weiterhin zuverlässig lebenswichtige Forschungsdaten liefern wird. Der Gesundheitsbehörde sollen die Gelder um 40% gekürzt werden, Web-Seiten-Inhalte werden gelöscht, ein Expertengremium wurde aufgelöst und Zugänge zur Datenbank für Forschende aus bestimmten Ländern blockiert. März 2025 war die Datenbank sogar einen Tag lang komplett offline. Die Deutsche Zentralbibliothek für Medizin (ZB MED) möchte deshalb ["mit dem Projekt Open Life Science Publication Database (OLSPub) eine offene, zuverlässige und nachhaltige europäische Alternative zu PubMed schaffen"](https://www.heise.de/news/Die-PubMed-Falle-Deutschlands-gefaehrlicher-Datenpoker-in-der-Medizin-11155637.html). Denn aktuell spiegeln die Europe PMC und das ZB-MED-Suchportal Livivo nur die Inhalte der PubMed, fällt diese aus, könne man nur noch auf die Altdatenbestände zugreifen, aktuelle medizinischer Publikationen würden dann fehlen. Die Bundesregierung hatte ein Sofortbudget von rund 30 Millionen Euro bereitgestellt, um die europäische Datensouveränität zu stärken, nur leider sind keine Gelder für die ZB MED und den Aufbau unabhängiger Alternativen vorgesehen. Zwei Projektanträge für die Umsetzung der OLSPub sind bereits abgelehnt worden. 
+  
+In Berlin sollte eine zentrale Gesundheitsdatenbank an der Charité aufgebaut werden. Doch da weder klar definiert wurde,was die Zwecke der Datenbank sind und wie sensible personenbezogene Daten geschützt werden sollen, vor allem da eine "staatenübergreifende Nutzung" vorgesehen war, wurden nach zahlreicher Kritik diese Pläne nun [vorerst gestoppt](https://netzpolitik.org/2026/berlin-undurchsichtige-gesundheitsdatenbank-plaene-nach-brandbrief-vorerst-gestoppt/). 
+  
+Dass beim Online-Terminvermittler Doctolib auch bei der expliziten Suche nach freie Termine nur für gesetzlich Versicherte suchen, trotzdem kostenpflichtige Sprechstunden (die sich als solche erst kurz vor der Buchung als solche entpuppem) in der Trefferliste anzeigt, betrachtet der Verbraucherschutzzentrale Bundesverband (vzbv) als Irreführung und hat dagegen geklagt und [vom Landgericht Berlin Recht bekommen](https://netzpolitik.org/2026/landgericht-berlin-doctolib-wegen-irrefuehrung-der-versicherten-geruegt/). Da Doctolib gegen das Urteil in Berufung geht, ist es allerdings noch nicht rechtskräftig. 
+
+Arzt-Praxen lagern zunehmend die Rechnungsstellung an private Abrechnungs-Dienstleister ([Factoring](https://de.wikipedia.org/wiki/Factoring)) aus, dabei werden allerdings auch unter Umständen [sensible Gesundheitsdaten übertragen](https://www.mdr.de/nachrichten/deutschland/politik/arztrechnung-finanzdienstleister-gesundheitsdaten-factoring-schufa-100.html), die bei den Firmen formal keiner Schweigeverpflichtung und keinem Zeugnisverweigerungsrecht mehr unterliegen und dort zudem potenziell gehackt werden können. Von daher wäre es besser, solche Abrechnung über ärztlich geleitete Vereine oder Genossenschaften abzuwickeln, für die diese Verpflichtung weiterhin gelten.
 
 ## Kultur
-* Denkmaltopographie
-  https://norden.social/@stadt_land_erleben@mastodon.social/115844607795771605
-* Visuelle Wissenschaftskommunikation für die Archäologie 
-  https://dnlhenn.github.io/AmrumROOTS/
-  https://pretalx.news-infographics-analytics-maps.media/2026/talk/ZCDKFR/
-* As an Open Data DPG, Software Heritage collects, preserves, and shares all public software source code, ensuring it remains accessible for everyone in the long term.
-  https://www.digitalpublicgoods.net/r/software-heritage
-  https://mastodon.social/@dpgalliance/115933184436620920
+[Moderne Wissenschaftskommunikation](https://media.ccc.de/v/2026-7-visuelle-wissenschaftskommunikation-fur-die-archaologie): Auf der Nordseeinsel Amrum ist man auf historische Siedlungen aus der Wikingerzeit gestoßen. Durch eine multimediale Inszenierung mit Hilfe [animierter und interaktiver Karten](https://dnlhenn.github.io/AmrumROOTS/) und 3D-Visualisierungen von Grabhügel, Häuser und Wallungen wird die Vergangenheit an Hand visuell erzählter Geschichten erlebbar.
 
+Bewahrenswertes Wissen steckt nicht nur in Büchern sondern inzwischen auch in Software-Quellcode, deswegen wird solcher nun im [Software Heritage Archive](https://www.digitalpublicgoods.net/r/software-heritage) systematisch gesammelt und zugänglich gemacht.
 
+## Journalismus
+Die aktuelle [Online-Kolumne Altpapier](https://www.mdr.de/altpapier/das-altpapier-4492.html) beim MDR thematisiert, dass 
+Medien und Journalismus in einer Finanzierungskrise stecken, mit der Folge, dass die Zahl hauptberuflicher Journalisten von in den letzten 20 Jahren von 48.000 auf 40.000 gesunken ist. Damit steigen auch die Anreize statt auf Qualität lieber auf [Junk News](https://weisses-rauschen.de/2026/01/08/junk-news-klebstoff-der-oeffentlichkeit/) zu setzen, die lässt sich schnell und billig produzieren, bedient niedere Instinkte, hält die Menschen auf den Plattformen, so dass man ihnen viel Werbung ausspielen kann. Der Werbemarkt wächst zwar so, aber nur wenige profitieren davon, denn Stand jetzt ["fließt jeder zweite deutsche Werbe-Euro an Google, Amazon & Meta"](https://diemediaagenturen.de/pressemitteilungen/die-mediaagenturen-jeder-zweite-werbeeuro-fliesst-2026-an-drei-globale-plattformen/). Dass Medien so kaum ihre Rolle als [Vierte Rolle](https://de.wikipedia.org/wiki/Vierte_Gewalt) nicht ausfüllen können mit entsprechenden Folgen für die Entwicklung der Demokratie liegt auf der Hand.
+
+Leichteres Spiel für Kampagnen-Journalismus von rechts, auch wenn nun die irreführende Berichterstattung der WELT über NGOs [eine Rüge](https://www.lobbycontrol.de/aus-der-lobbywelt/presserat-ruege-irrefuehrende-berichterstattung-der-welt-ueber-ngos-123791/) vom Presserat bekommen hat. Ob das Mittel dieser negativen Öffentlichkeit ausreicht, ist fraglich, vor allem, wenn sich die betreffenden Medien weigern, ihre Artikel entsprechend zu korrigieren bzw. Gegendarstellungen zu publizieren. Plattformen wie NIUS haben erst gar nicht den Pressekodex unterzeichnet und entziehen sich damit der freiwilligen Selbstkontrolle des Presserats, der prüft ob journalistische Sorgfaltspflichten eingehalten wurden. 
+
+Statt sich immer noch auf monopolistischen Plattformen wie X, Instagram und Co. herumzutreiben und dort nach Ideen für journalistische Berichterstattung zu suchen, sollte endlich das Potenzial des Fediverse erkannt werden. Im Rahmen des Förderprogramms [Reinvent Social Platforms](https://www.swr.de/unternehmen/innovation/case-reinvent-social-media-platforms-100.html) haben das Media Lab Bayern und das SWR X Lab wurde dieses [untersucht](https://www.swr.de/unternehmen/innovation/whitepaper-fediverse-100.html). Die identifizierten Chancen, Herausforderungen und konkreten Lösungsansätzen kann man nun einem [60-seitigen Bericht](https://www.swr.de/unternehmen/innovation/fediverse-whitepaper-100.pdf) entnehmen.
 
 ## Transparenz
-* So kam es zur Absenkung der Luftverkehrssteuer
-  https://correctiv.org/aktuelles/politik-2/2026/01/06/so-kam-es-zur-absenkung-der-luftverkehrssteuer/
-* FragDenStaat-Spiel
-  https://fragdenstaat.de/spiel/
-  https://mastodon.social/users/alexanderlehmann_net/statuses/115821748923905285
-* Wie die Finanzlobby Verbraucher- und Umweltschutz attackiert
-  https://www.finanzwende.de/themen/finanzlobbyismus/lobbyregister-auswertungen/finanzlobby-analyse-2026
-  https://bewegung.social/@lobbycontrol/115847749684197883
-* Die Minister haben "beschlossen, den Bericht zur Chatkontrolle nicht zur Veröffentlichung freizugeben", da eine Bekanntgabe "den offenen Meinungsaustausch und die freie Meinungsbildung im Rahmen der IMK beeinträchtigen" würde
-  https://fragdenstaat.de/anfrage/bericht-effektive-ausgestaltung-der-regelungen-zum-erlass-von-aufdeckungsanordnungen-in-der-csa-vo/#nachricht-1072313
-  https://chaos.social/@andre_meister/115847776687846695
-* "Mr. Tesla": CMS-Beratertätigkeit von Ex-Minister bleibt untersagt
-  https://rsw.beck.de/aktuell/daily/meldung/detail/vg-potsdam-vg2l1148-25-tesla-landesregierung-ex-minister-berater-steinbach
-  https://fragdenstaat.de/artikel/exklusiv/2025/08/neuer-job-fur-mr-tesla-verstosst-brandenburg-gegen-sein-anti-korruptionsgesetz/  
-* Anwendung schädlicher Pflanzenschutzmittel: Auswertung der Deutschen Umwelthilfe offenbart massive Defizite bei der Kontrolle hochgiftiger Pestizide
-  https://www.duh.de/presse/pressemitteilungen/pressemitteilung/anwendung-schaedlicher-pflanzenschutzmittel-auswertung-der-deutschen-umwelthilfe-offenbart-massive-d/
-* CDU-Fraktion: Die Akten zur Berliner Fördergeldaffäre
-  https://fragdenstaat.de/artikel/exklusiv/2026/01/die-akten-zur-berliner-fordergeldaffare/
-* Merkwürdige Spende an die Berliner CDU: Kreisverband Charlottenburg-Wilmersdorf erhält Zuwendung von 20.000 Euro
-  https://checkpoint.tagesspiegel.de/langmeldung/37JlxTdOxDpxBZCfYzXJyp
-* Der Verein R21 kritisiert die staatliche Unterstützung linker NGOs. Ein Gutachten stellt nun fest, dass die Förderung von R21 selbst fragwürdig ist.
-  https://taz.de/Rechtsgutachten-zu-CDU-Thinktank/!6147646/
-* Finde Brandenburgs Windgeld!
-  https://fragdenstaat.de/aktionen/windgeld-check/
-* Debanking und die GLS
-  https://klimareporter.de/finanzen-wirtschaft/debanking-und-die-gls
-* Trump-Spender übernimmt Kontrolle über deutsche Öllager
-  https://www.zdfheute.de/wirtschaft/oellager-deutschland-tanquid-trump-usa-kontrolle-warren-100.html
-* Maskenaffäre: Gericht verhandelt wegen Steuerhinterziehung in Millionenhöhe
-  https://www.zeit.de/wirtschaft/2026-01/maskenaffaere-maskendeal-muenchen-gericht-steuerhinterziehung-millionen-gxe
-* Das durchgesickerte AfD-"Regierungsprogramm" für Sachsen-Anhalt und seine Sprengkraft für Bildung, Forschung und Föderalismus: eine Analyse.
-  https://www.jmwiarda.de/blog/2026/01/29/ein-bundesland-als-versuchslabor
+### Angriffe Verbraucher- und Umweltschutz
+Finanzwende legt in ihrer jährlichen [Finanzlobby-Analyse](https://www.finanzwende.de/fileadmin/user_upload/Themen/Finanzlobbyismus/Dauerbeschallung_in_UEberzahl_-_Finanzlobby-Analyse_2026.pdf) offen, [wer in der Finanzlobby wie arbeitet](https://www.finanzwende.de/themen/finanzlobbyismus/lobbyregister-auswertungen/finanzlobby-analyse-2026). 456 Lobbyist:innen stehen gerade mal 42 Abgeordnete im Finanzausschuss gegenüber, 15 Millionen Euro stehen der Finanzlobby jährlich zur Verfügung. So setzen sich laut Lobbyregister 25 Konzerne, Verbände und Agenturen dafür ein, die Wartefrist bei der Restschuldversicherung zu kippen (in der Zeit können Verbraucher sich informieren, ob diese Versicherung überhaupt Sinn für sie macht), dem standen mit dem Bundesverband der Verbraucherzentralen, der Verbraucherzentrale NordrheinWestfalen und der Bürgerbewegung Finanzwende nur drei zivilgesellschaftliche Organisationen entgegen. Auch die gezielten Angriffe auf das Lieferkettengesetz sind im Lobbyregister gut dokumentiert. Private-Equity-Firmen kaufen sich verstärkt in den Markt für Steuerberatung mit Folgen für die unabhängige Beratung. Gegen die Versuche der Politik diesem Ausverkauf der Steuerberatung wird heftig lobbyiert, leider auch erfolgreich, die Klarstellungen vom Fremdbesitzverbot (also dem Beteiligungsverbot reiner Finanzinvestoren an Steuerberatungen) sind erstmal vom Tisch.
+
+[Eine Auswertung](https://www.duh.de/presse/pressemitteilungen/pressemitteilung/anwendung-schaedlicher-pflanzenschutzmittel-auswertung-der-deutschen-umwelthilfe-offenbart-massive-d/) der Deutschen Umwelthilfe hat ergeben, dass in mehreren flächenmäßig großen Bundesländern 2024 die Kontrollquote bei der Anwendung von Pestiziden unter einem Prozent lag.
+
+CORRECTIV konnte interne Unterlagen aus dem Bundesverkehrsministerium [auswerten](https://correctiv.org/aktuelles/politik-2/2026/01/06/so-kam-es-zur-absenkung-der-luftverkehrssteuer/), aus denen hervorgeht, dass sich das Ministerium als Anwalt der Luftfahrtbranche verstand, und sich entschieden für die Absenkung der Luftverkehrsteuer einsetzte, mit der Begründung, dass die Nachfrage nach Flügen eh nicht zurückgehen sondern sich nur ins Ausland vorlagern würde, und dann kann man auch lieber den Luftverkehrsstandort Deutschland mit niedrigen Abgaben attraktiv halten - klassische [Race to the bottom](https://de.wikipedia.org/wiki/Race_to_the_bottom) auf Kosten der Umwelt also.
+
+### Berlin und Brandenburg
+Nach dem Terrorangriff der Hamas am 7. Oktober 2023 stellte die Berliner Regierung jährlich zehn Millionen Euro für "Projekte gegen Antisemitismus und zur Förderung des interreligiösen Dialogs" bereit. Inzwischen stehen Vorwürfe im Raum, dass ein wesentlicher Teil des Geldes vom von der Berliner CDU geleiteten Kultursenat nach parteipolitischem Interesse verteilt (bzw. auch nicht verteilt - im ersten Jahr blieb ein Drittel des Geldes ungenutzt trotz vorliegener Förderanträge) worden ist. FragDenStaat hat unter Verweis auf das Informationsfreiheitsgesetz alle Dokumente zu dieser Affäre angefragt und [veröffentlicht diese jetzt vollständig](https://fragdenstaat.de/artikel/exklusiv/2026/01/die-akten-zur-berliner-fordergeldaffare/). Neben der Unterteilung in politisch genehme und poltisch umstritten, haben einzelnde CDU-Verantwortliche potenzielle Geld-Empfänger einfach persönlich mit auf die Liste gesetzt, auch wenn deren Beitrag zur Antisemitismusbekämpfung eher fraglich ist und sie zum Teil die geforderten Eigenmittelanteile gar nicht aufbringen konnten.
+
+Betreiber von Windenergie- und Solarfreiflächenanlagen in Brandenburg müssen seit 2019 die umliegenden Gemeinden an ihren Gewinnen beteiligen, bei Windrädern wären das bis zu 30.000 Euro jährlich. Nur ob sie das auch wirklich tun, ist völlig intransparent. So kommen die Gelder bei den Gemeinden nicht oder nur teilweise an, so fehlen einzelnen Gemeiden bis zu 90% der ihnen zustehenden Einnahmen. Geld, das dann z.B. für Kindergärten fehlt. Seit Inkrafttreten des Gesetzes 2019 wurde vom Land Brandenburg keine einzige Kontrolle durchgeführt und damit auch noch kein Bußgeld verhängt, obwohl die pro Windrad 100.000 Euro hoch sein kann. Gemeindeübergreifende Daten zu den tatsächlichen Auszahlungen liegen dem Land auch nicht vor. So wird nicht nur die finanzielle Entlastung von Kommunen und ihren Bürger:innen, sondern auch die Steigerung deren Akzeptanz für die Energiewende verpasst. FragDenStaat hat deshalb den [Windgeld-Check](https://fragdenstaat.de/aktionen/windgeld-check/) ins Leben gerufen, bei dem Menschen an ihre Gemeinde Anfragen nach Umweltinformationsgesetz zu den Einnahmen und Ausgaben aus Beteiligungsgesetzen stellen sollen. Es ist geplant, das Projekt in den kommenden Monaten auch auf andere Bundesländer auszuweiten.
+
 ### Security by obscurity?
-* Energiesenatorin Giffey fordert Schutz sensibler Daten zur Infrastruktur
-  https://www.deutschlandfunk.de/energiesenatorin-giffey-fordert-schutz-sensibler-daten-zur-infrastruktur-100.html
-  https://chaos.social/@arnesemsrott/115841553689880015
-* Streit um öffentliche Netzdaten: „Senat will nur von seinem Versagen ablenken“
-  https://www.morgenpost.de/berlin/article410864974/streit-um-oeffentliche-netzdaten-senat-will-nur-von-seinem-versagen-ablenken.html
-  https://chaos.social/@fragdenstaat/115859430254591952
-* Resilienz oder Stromausfall: Berlins Infrastrukturproblem hat eine technische Lösung
-  https://ag.kritis.info/2026/01/15/n-1-oder-stromausfall-berlins-infrastrukturproblem-hat-eine-technische-loesung/
-* Bundestag stimmt über Kritis-Dachgesetz ab – Informationen über kritische Infrastruktur sollen eingeschränkt werden
-  https://www.deutschlandfunk.de/bundestag-stimmt-ueber-kritis-dachgesetz-ab-informationen-ueber-kritische-infrastruktur-sollen-einge-100.html
-  * Abstimmungsverhalten
-    https://chaos.social/@andre_meister/115978485119970054
-* Für resiliente Infrastruktur ist Transparenz die Antwort, nicht das Problem.
-  https://fragdenstaat.de/newsletter/archive/presse-newsletter/archiv/2026/1/29/636/
-  https://okfn.de/blog/2026/01/transparenz-ist-nicht-das-problem-%C3%B6ffentliche-stellen-brauchen-widerstandsf%C3%A4hige-strukturen-und-informationsmanagement/
-* Blackout in Deutschland – wie geschützt ist das Land? Die Notfallpläne aller Bundesländer im Check
-  https://correctiv.org/aktuelles/infrastruktur/2026/01/07/blackout-deutschland-notfallplaene-bundeslaender-stromausfall/
+Den Anschlag auf die Stromversorgung in Berlin nimmt die Politik zum Anlass, Transparenz schleifen zu wollen, vermeintlich um sensible Daten zur städtischen Infrastruktur zu schützen. [So meinte](https://www.deutschlandfunk.de/energiesenatorin-giffey-fordert-schutz-sensibler-daten-zur-infrastruktur-100.html) die Berliner Senatorin für Wirtschaft, Energie und Betriebe, Franziska Giffey, dass "in der Vergangenheit Transparenz vor Sicherheit gegangen sei. Das müsse sich ändern. Im Zweifel müsse Sicherheit stärker als Freiheit gewichtet werden". [Für Arne Semsrott](https://www.morgenpost.de/berlin/article410864974/streit-um-oeffentliche-netzdaten-senat-will-nur-von-seinem-versagen-ablenken.html) von FragDenStaat will der Senat mit einer solchen Argumentation nur von seinem eigenen Versagen ablenken. Für die AG Kritis [liegt die eigentliche Antwort](https://ag.kritis.info/2026/01/15/n-1-oder-stromausfall-berlins-infrastrukturproblem-hat-eine-technische-loesung/) nicht in Überwachung oder Geheimhaltung, sondern in technischer Resilienz. Auch wenn Investitionen in Redundanz kostenintensiv sind, sind sie jedoch die einzigen Maßnahmen, die solche Versorgungsausfälle tatsächlich verhindern können. Leider sind CDU und SPD völlig uneinsichtig, und schränken nun [mit der Abstimmung](https://www.deutschlandfunk.de/bundestag-stimmt-ueber-kritis-dachgesetz-ab-informationen-ueber-kritische-infrastruktur-sollen-einge-100.html) über das Kritis-Dachgesetz im Bundestag [den Zugang zu Informationen über kritische Infrastruktur ein](https://chaos.social/@andre_meister/115978485119970054). "Dabei ist ein besserer Informationsfluss für die Erstellung eines großen Lagebilds im Krisenfall unabdingbar", wie die Open Knowledge Foundation [in einer Stellungname argumentiert](https://okfn.de/blog/2026/01/transparenz-ist-nicht-das-problem-%C3%B6ffentliche-stellen-brauchen-widerstandsf%C3%A4hige-strukturen-und-informationsmanagement/), "denn auch nichtstaatliche Akteur:innen spielen bei Prävention und Versorgung eine große Rolle und müssen darüber hinaus in der Lage sein, die Vorkehrungen des Staates überprüfen zu können". [Für FragDenStaat](https://fragdenstaat.de/newsletter/archive/presse-newsletter/archiv/2026/1/29/636/) ermöglichen "offene Daten (Open data) im Krisenfall nicht nur Rettungskräften und Helfenden ein präziseres Bild der betroffenen Gebiete und Schutzmöglichkeiten, sondern vereinfachen es auch für die Bürger*innen, sich auf Krisen vorzubereiten und zum Beispiel rechtzeitig Übersicht über Notunterkünfte, Schutzräume oder Trinkbrunnen zu gewinnen".
+
+Und gerade hier hapert es, [wie eine große Abfrage von CORRECTIV](https://correctiv.org/aktuelles/infrastruktur/2026/01/07/blackout-deutschland-notfallplaene-bundeslaender-stromausfall/) bei allen Bundesländern zeigt, wie unterschiedlich sie auf den Ernstfall vorbereitet sind. Zwar sind die Bundesländer für den Katastrophenschutz verantwortlich, diese delegieren die konkrete Umsetzung an ihre Landkreise. Manche Bundesländer gaben auf die CORRECTIV-Anfrage aus Sicherheitsgründen keine Auskünfte.
+
+### FragDenStaat
+Mit dem [FragDenStaat-Spiel](https://fragdenstaat.de/spiel/) kann man [nachspielen](https://mastodon.social/users/alexanderlehmann_net/statuses/115821748923905285), wie FragDenStaat funktioniert (Kampagnen, Recherchen, Klagen, Spenden einwerben, Investitionen in Hardware und Personal, usw.).
+
+Behörden sind manchmal sehr kreativ, wenn es um Gründe geht, warum man manche Sachen nicht veröffentlichen möchte, so auch [beim Bericht zur Chatkontrolle](https://chaos.social/@andre_meister/115847776687846695): eine Bekanntgabe würde "den offenen Meinungsaustausch und die freie Meinungsbildung im Rahmen der Innenministerkonferenz (IMK) beeinträchtigen".
+
+### Autoritarismus
+Der offiziell gemeinnützige Verein R21, der letztes Jahr selbst lautstark gegen staatliche Förderung linker NGOs wetterte, soll ab 2026 jährlich 500.000 Euro Förderung bekommen. Ein Gutachten der Frankfurter Kanzlei Winheller [argumentiert aber](https://taz.de/Rechtsgutachten-zu-CDU-Thinktank/!6147646/), dass R21 nach aktueller Rechtslage die Kriterien für Gemeinnützigkeit nicht erfülle, da er eindeutig parteipolitisch agiere, und weder wissenschaftlich fundiert arbeite noch bürgerschaftliches Engagement fördere. Der Vereinsvorsitzende Andreas Rödder ist zudem mit Forderungen nach einer Öffnung gegenüber der AfD aufgefallen.
+
+Im durchgesickerte [AfD-"Regierungsprogramm"-Entwurf](https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/afd-wahl-programm-entwurf-102.html) für Sachsen-Anhalt nehmen Bildungs- und Wissenschaftspolitik gerade einmal 18 der 156 Seiten ein, für Dr. Jan-Martin Wiarda [zeigen sie dennoch exemplarisch](https://www.jmwiarda.de/blog/2026/01/29/ein-bundesland-als-versuchslabor), was im Falle einer Regierungsübernahme zu erwarten wäre: nur noch 25 Prozent der Schüler sollen aufs Gymnasium, Flüchtlingskinder sollen in Sonderklassen, "Heilpflanzenpädagogik" und der Heimatkundeunterricht gestärkt werden, der Bologna-Prozess rückabgewickelt werden. Wie SPD-Wissenschaftsminister Armin Willingmann kommentiert: "Nach der Lektüre kann keiner mehr sagen, man habe nicht gewusst, was die AfD vorhat, wenn sie hier im Land die Macht ergreift".
+
 
 ## Überwachung
 * Vorratsdatenspeicherung: Warum das geplante Gesetz der Bundesregierung problematisch ist
@@ -368,7 +330,7 @@ Durch die Einführung einer City-Maut in New York, Manhattan, vor einem Jahr ist
   https://www.heise.de/news/Klage-gegen-Google-KI-Falsche-Such-Infos-koennen-Unterlassung-rechtfertigen-11160308.html
 
 ## Recap:
-* [NIAM 2026](https://streaming.media.ccc.de/niam2026)
+* [NIAM 2026](https://media.ccc.de/c/niam2026)
 * [Bits & Bäume Neujahrsempfang](https://www.youtube.com/watch?v=OPEZWKs5jN4)
   * Rückschau Bits-und-Bäume-Neujahresempfang 2026
     https://www.hierkiosk.de/post/28.BuB-Neujahresempfang/
