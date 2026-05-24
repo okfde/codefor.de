@@ -12,55 +12,33 @@ type: blog
 ---
 
 ## Open Data
-* Im Open-Data-Portal Schleswig-Holstein gibt es seit heute neue maschinenlesbare Daten zum Thema Wasserabfluss
-  https://opendata.schleswig-holstein.de/dataset/?res_format=grid_ascii
-  https://norden.social/@MisterOpenData/116001439575576403
-* Was heisst eigentlich „maschinenlesbar“ – und weiss das auch der Gesetzgeber?
-  https://stefan.bloggt.es/2026/02/was-heisst-eigentlich-maschinenlesbar-und-weiss-das-auch-der-gesetzgeber/
-* Frisch veröffentlicht: „Städtebauliche Dichte - GFZ 2008 (PLR) - [WMS]"
-  https://mastodontech.de/@opendataberlin/116018458278792499
-* Umweltnavi API Documentation
-  https://github.com/tifa365/umweltnavi-api-documentation
-  https://norden.social/@datenschatz/116053526145951016
-* OpenFactBook
-  https://openfactbook.org/about/
-* MCP Server for Berlin Open Data
-  https://github.com/tifa365/berlin-opendata-mcp
-  https://norden.social/@datenschatz/116149896596751990
-* die berliner cdu-spd-landesregierung will den #datenschutz und die #informationsfreiheit aushöhlen. 
-  https://pardok.parlament-berlin.de/portala/browse.tt.html
-  https://chaos.social/@jk/116150255446802537
-* bunddev für R
-  https://www.linkedin.com/posts/lilith-wittmann_%C3%B6ffentliche-daten-sind-%C3%BCberall-aber-ugcPost-7427668539823738880-0CwX
-* Govdata OGD
-  https://www.linkedin.com/posts/govdata-de_opendata-ogd-itplr-activity-7426352736226578432-3O6B
+Wer Informatik studiert hat, kennt in der Regel die [Wissenspyramide](https://de.wikipedia.org/wiki/Wissen#Organisationstheoretischer_Ansatz), je nach Darstellung gibt es manchmal unterhalb der Datenschicht noch die "Symbole" und überhalb der Wissenschicht noch die "Weisheit". Zudem gibt es noch die [Semiotik](https://de.wikipedia.org/wiki/Semiotik) (Zeichen- und Bedeutungslehren). Im Kontext von Open Data und den zugehörigen Gesetzen, die Behörden zur Bereitstellung solcher verpflichten wird mit einer gewissen Unschärfe von "Dokumenten", "Daten" und "maschinenlesbaren Daten" gesprochen. Stefan [kritisiert das](https://stefan.bloggt.es/2026/02/was-heisst-eigentlich-maschinenlesbar-und-weiss-das-auch-der-gesetzgeber/) in seinem Blogbeitrag. Nur ab wann sind Daten maschinenlesbar - ist ein eingescanntes Excel maschinenlesbar, bloß weil man OCR und eine KI drüber jagen könnte, die die Inhalte irgendwie wieder strukturiert als Zahlen und Zeichenketten ausgeben kann? Oder sollte man sich doch die Mühe machen, das Original Excel als CSV-Datei bereitzustellen, in der garantiert keine OCR-Erkennungsfehler und keine nicht deterministischen KI-Hallunizationen enthalten sind. Oder noch besser als strukturiertes JSON mit verlinkten Ontologien für die Spaltenköpfe sowie weiterführenden Metdaten, damit wirklich klar wird, mit welcher Systematik und unter welchem Kontext die Daten erfasst / gemessen worden sind. Macht natürlich mehr Arbeit beim Bereitstellen. Man muss nicht so weit wie Stefan gehen, und Daten mit Fakten gleichsetzen, was eine Form von Wahrheit und Objektivität impliziert, die in manchen Fällen gar nicht gewährleistet werden kann, sondern einfach nur [intersubjektive](https://de.wikipedia.org/wiki/Intersubjektivit%C3%A4t) [Vereinbarung und Interpretationen](https://de.linkedin.com/pulse/understanding-truth-objectivity-data-marco-wobben-qf0uc) sind, wie bei denen im letzten Zensus veröffentlichten Bevölkerungszahlen, die garantiert falsch sind, einfach bedingt durch Fluchtbewegungen und Meldedefizite (fehlende Abmeldung bei Umzug ins Ausland), aber immer noch besser als gar keine Daten und genau genug, um grundlegende Trends abzuleiten, auch wenn der Verteilungsschlüssel für die Gelder vom Bund an die Städte an der Einwohnerzahl hängt. Doch zurück zum Daten-Thema selbst, klar kann man über Bilder und Videos Bild- und Objekterkennung jagen, über Audio-Dateien ein Transkriptions-Werkzeug und über Texte Named Entity Recognition (NER) und andere linguistische Werkzeuge, die aus ihnen strukturierte Daten ableiten, aber das entbindet die Daten-bereitstellenden Stellen nicht davon, von vornherein schon auf ihrer Seite, die Daten so strukturiert wie möglich bereitzustellen, vielleicht auch KI assistiert aber am Ende doch nochmal manuell verifiziert und zusätzlich noch die Ausgangsrohquelle, statt sich darauf zu verlassen, dass die Konsumenten der Daten schon irgendwie mit irgendwelchen KI-Tools in ihre gedumpte Datenmüllhalde bringen.
 
+Dr. Jesper Zedlitz [ist beeindruckt](https://norden.social/@MisterOpenData/116052930375604398) vom Detailreichtum [der Karte](https://umweltportal.niedersachsen.de/karte?) des neuen [Umweltportal aus Niedersachsen](https://umweltportal.niedersachsen.de), Tim hat [die Endpunkte](https://norden.social/@datenschatz/116053526145951016) der dafür genutzten API [dokumentiert](https://github.com/tifa365/umweltnavi-api-documentation), damit man leichter an die besagten Daten kommt. 
 
-### Datenpraxis
-* Folge 12 – Datenteilen politisch steuern: Eine Herausforderung
-  https://zevedi.de/sharecast-folge-12-datenteilen-politisch-steuern-eine-herausforderung/
-* Einblicke in anderthalb Jahre Datenpraxis nach Abschluss der ersten Phase des Civic Data Lab
-  https://www.technologiestiftung-berlin.de/profil/blog/3-x-nachgehakt-angela-berger-vom-civic-data-lab
+Tim hat einen [MCP Server](https://github.com/tifa365/berlin-opendata-mcp) geschrieben, mit dem man die über 2500 Datensätze im Berliner Open-Data-Portal über die
+6 MCP-Tools Datensatz-Suche, Details, Kategorien, Tags, Analyse und Katalog-Statistiken und entsprechend übergebenen Parametern [auswerten kann](https://norden.social/@datenschatz/116149896596751990) (bzw. für eine Abfrage wie "Welche Kita-Daten gibt es in Berlin?" erkennt das Modell schon selbstständig, dass es das an CKAN-API angebundene Such-Tool mit dem Suchparameter "Kita" aufrufen muss).
 
-### Daten aus dem Bundestag
-* bt-to ist eine Open Source Projekt, das die Bundestags-Tagesordnung als JSON und iCal-Feed bereitstellt
-  https://api.hutt.io/bt-to/
-  https://norden.social/@datenschatz/116099168340568921
-* Die Dokumentation der Bundestagpetitionen ist jetzt auch teil der Awesome-Bundestag Sammlung
-  https://github.com/tifa365/awesome-bundestag
-  https://norden.social/@datenschatz/116107650428463983
-  https://norden.social/@datenschatz/116107552025353763
+Michael Bücker hat aufbauend auf der jahrelangen ehrenamtlichen Arbeit von [bund.dev](https://bund.dev) ein [R-Paket](https://cran.r-project.org/web/packages/bunddev/index.html) veröffentlicht das 33 deutsche Behörden-APIs über eine einheitliche Schnittstelle [zugänglich macht](https://www.linkedin.com/posts/lilith-wittmann_%C3%B6ffentliche-daten-sind-%C3%BCberall-aber-ugcPost-7427668539823738880-0CwX). Eigentlich wäre es ja Aufgabe der Bundesverwaltung solche gut dokumentierten API offiziell bereitzustellen, aber naja.
+
+Nachdem im letzten Monat die Bundesregierung den Anschlag auf die Stromversorgung zum Anlass genommen hat, die Transparenz bei kritischer Infrastruktur einzuschränken, sollen aus dem gleichen Grund auch auf Stadtstaat-Ebene in einer dringlichen Sitzung das Berliner Informationsfreiheitsgesetzes (IFG), die Open Data Verordnung sowie der Datenschutz ["angepasst"](https://pardok.parlament-berlin.de/portala/vorgang/V-445139) werden - also ausgehöhlt und eingeschränkt, um so angeblich die kritische Infrastruktur in Berlin besser zu schützen.
+
+Der neue [EU-Open-Data-Maturity-Report](https://data.europa.eu/de/open-data-maturity/2025#country-profiles/country_DE/maturity-level-segmentation) ist veröffentlich worden, dank [weniger selbstkritischer Bewertung](https://www.linkedin.com/posts/govdata-de_opendata-ogd-itplr-activity-7426352736226578432-3O6B) beim Ausfüllen des Fragebogens als letztes Jahr, erziel Deutschland diesmal deutlich mehr Punkte.
+
+Das [OpenFactBook](https://openfactbook.org/about/) trägt ehrenamtlich die wichtigsten aktuellen Daten über 254 Staaten und Gebiete zusammen, so auch über [Deutschland](https://openfactbook.org/countries/germany/).
+
+Anderthalb Jahren gibt es nun das [Civic Data Lab](https://civic-data.de). Im [Interview](https://www.technologiestiftung-berlin.de/profil/blog/3-x-nachgehakt-angela-berger-vom-civic-data-lab) geht Angela Berger auf die wichtigsten Erkenntnisse ein. So hat sich ergeben, dass die meisten Organisation schon damit ausgelastet sind, die Daten für ihr eigenes Projekt und ihre individuellen Gegebenheiten aufzubereiten, so dass bisher eine weitere Aufbereitung zur Nachnutzung für andere Organisationen hinten runtergefallen ist. Um in Datenprojekten aus einer bundesweiten Perspektive lokale Dinge auswerten und visualieren zu können, braucht es zudem kommunale Partner. Und eben Vernetzung und offene Daten, da man ja nicht mit jeder einzelnen Kommune sprechen kann.
+
+Tim hat [eine API](https://github.com/tifa365/bundestagpetitionen-api) für das [Portal des Petitionsausschusses](https://epetitionen.bundestag.de) definiert, mit der man [abrufen kann](https://norden.social/@datenschatz/116107552025353763), welche Petitionen gerade laufen oder wie viele Mitzeichnungen sie haben. Sie ist nun auch in seiner kuratierte Liste von offenen Datenquellen, APIs, Tools, Anwendungen und Ressourcen zum Deutschen Bundestag, [awesome-bundestag](https://github.com/tifa365/awesome-bundestag), verlinkt.
+
+Für die Bundestag Tagesordnung gibt bzw. gab es mit [bt-to](https://api.hutt.io/bt-to/) eine inoffizielle iCal-, JSON-, XML- und CSV-API. Gab, denn leider hat der Bundestag seinen Endpunkt geändert, und der Projekt-Maintainer aber die Änderungen nicht nachgezogen, auch den [Pull-Request](https://github.com/hutt/bt-to/pull/7), den Tim [gestellt hat](https://norden.social/@datenschatz/116099168340568921), wurde noch nicht eingemergt.
 
 ## Statistik und Visualisierung
-* Der Bierabsatz der deutschen Brauereien und Bierlager ist im Jahr 2025 gegenüber dem Vorjahr um 6,0 % auf rund 7,8 Milliarden Liter gesunken
-  https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/02/PD26_037_73.html
-  https://social.bund.de/@destatis/115999800733330833
-* Data Vis Dispatch, February 10: Winter Olympics
-  https://www.datawrapper.de/blog/data-vis-dispatch-february-10-2026
-* Ohne Abstimmung: Sattes Lohn-Plus: Abgeordnete knacken die nächste Marke
-  https://www.t-online.de/nachrichten/deutschland/id_101147976/bundestag-abgeordnete-bekommen-fast-500-euro-mehr-im-monat.html
-* Hohe Mieten: Jede siebte Kommune in Europa zu teuer für Pflegekräfte
-  https://correctiv.org/aktuelles/2026/02/17/mieten-kaufen-immobilien-preise-wohnen-europa-lokal/
+Der Bierabsatz der deutschen Brauereien und Bierlager ist im Jahr 2025 gegenüber dem Vorjahr [um 6,0 % auf rund 7,8](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/02/PD26_037_73.html) Milliarden Liter gesunken, der stärkste Absatzrückgang seit Beginn der Aufzeichnung im Jahr 1993.
+
+Ab dem 1. Juli dürfen sich die 630 Bundestagsabgeordneten [über 4,2 Prozent mehr Geld](https://www.t-online.de/nachrichten/deutschland/id_101147976/bundestag-abgeordnete-bekommen-fast-500-euro-mehr-im-monat.html) freuen, also monatlich 497 Euro mehr. Abstimmt musste darüber nicht, da die Bezüge automatisch an den gesamtdeutschen Nominallohnindex gekoppelt sind. So bekommen die Abgeordneten nun monatlich 12.330 Euro brutto. Da die Pensionsansprüche auch an die Diäten gekoppelt sind, erhöhen sich diese auch. Pro Mandatsjahr 2,5 Prozent der jeweiligen Diät, nach einer vollen Legislator also 10%, also etwa 1.233 Euro - zum Vergleich: Normalverdiener müssten rund 30 Jahre lang arbeiten, um eine ebenso hohe gesetzliche Rente zu bekommen. Bei der Schwerstarbeit, regelmäßig gegen zu hohe Sozialstaatsausgaben und gegen Bürgergeldempfänger zu hetzen, absolut verdient.
+
+[Eine Auswertung](https://correctiv.org/aktuelles/2026/02/17/mieten-kaufen-immobilien-preise-wohnen-europa-lokal/) von Mieten und Kaufpreise aus allen knapp 100.000 EU-Städten und Gemeinden von CORRECTIV.Europe zeigt an welchen Orten selbst ein mittleres Gehalt wie das von Pflegekräften nicht reicht, um sich die Miete für bzw. den Kauf von einer kleine Wohnung (45 m²) zu leisten. Vor allem Großstädte sind betroffen. In Deutschland müsste man z.B. in Berlin 50%, in München 47%, in Köln und Stuttgart um die 40% vom Einkommen für die Miete aufwänden. Mit Folgen für Gesellschaft und Wirtschaft, wenn Nachwuchskräfte keine für sie bezahlbaren Wohnungen finden bzw. in ihren Jobs deswegen höhere Löhne fordern müssen.
 
 ## Wahlen
 * Wahl-O-Mat Baden-Württemberg Open Data
