@@ -235,121 +235,64 @@ Der offiziell gemeinnützige Verein R21, der letztes Jahr selbst lautstark gegen
 
 Im durchgesickerte [AfD-"Regierungsprogramm"-Entwurf](https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/afd-wahl-programm-entwurf-102.html) für Sachsen-Anhalt nehmen Bildungs- und Wissenschaftspolitik gerade einmal 18 der 156 Seiten ein, für Dr. Jan-Martin Wiarda [zeigen sie dennoch exemplarisch](https://www.jmwiarda.de/blog/2026/01/29/ein-bundesland-als-versuchslabor), was im Falle einer Regierungsübernahme zu erwarten wäre: nur noch 25 Prozent der Schüler sollen aufs Gymnasium, Flüchtlingskinder sollen in Sonderklassen, "Heilpflanzenpädagogik" und der Heimatkundeunterricht gestärkt werden, der Bologna-Prozess rückabgewickelt werden. Wie SPD-Wissenschaftsminister Armin Willingmann kommentiert: "Nach der Lektüre kann keiner mehr sagen, man habe nicht gewusst, was die AfD vorhat, wenn sie hier im Land die Macht ergreift".
 
-
 ## Überwachung
-* Vorratsdatenspeicherung: Warum das geplante Gesetz der Bundesregierung problematisch ist
-  https://www.deutschlandfunk.de/kritik-am-e-evidence-paket-und-der-vorratsspeicherung-int-klaus-landefeld-100.html
-* Innenministerium: Unbürokratisch überwachen
-  https://netzpolitik.org/2026/innenministerium-unbuerokratisch-ueberwachen/
-* Überwachungsfirmen können Menschen mit "anonymen" Werbe-IDs ausspionieren
-  https://netzpolitik.org/2026/adint-ueberwachungsfirmen-koennen-menschen-mit-anonymen-werbe-ids-ausspionieren/
-* E-Evidence: Bundestag erleichtert internationalen Zugriff auf Daten in der Cloud
-  https://www.heise.de/news/E-Evidence-Bundestag-erleichtert-internationalen-Zugriff-auf-Daten-in-der-Cloud-11161014.html
+Firmen im Bereich advertising-based Intelligence (ADINT) haben sich darauf spezialisiert, Daten aus der Online-Werbeindustrie für nationale und europäische Sicherheitsbehörden aufzubereiten. [So werben sie damit](https://netzpolitik.org/2026/adint-ueberwachungsfirmen-koennen-menschen-mit-anonymen-werbe-ids-ausspionieren/), dass sie mit einer hoher Trefferquote Personen hinter pseudonymen Werbe-IDs identifizieren könnten. Inzwischen werden nicht nur staatliche Akteure umworben, sondern die Dienste auch privaten Finanzinstituten angeboten.
 
-### USA
-* Minneapolis: ICE-Beamte tragen GoPros und Smart Glasses von Meta
-  https://www.heise.de/news/Minneapolis-ICE-Beamte-tragen-GoPros-und-Smart-Glasses-von-Meta-11142832.html
-* US-Einwanderungsbehörde: Mit Palantir und Paragon auf Migrantenjagd
-  https://netzpolitik.org/2026/us-einwanderungsbehoerde-mit-palantir-und-paragon-auf-migrantenjagd/
-* ELITE
-  https://www.404media.co/here-is-the-user-guide-for-elite-the-tool-palantir-made-for-ice/
-  https://chaos.social/@HonkHase/115987757877306499
+Palantirs für 25,5 Millionen Euro entwickelte "ImmigrationOS" greift auf Daten der Sozialversicherungs‑, der Steuer- und der Migrationsbehörden sowie staatlicher Wählerverzeichnisse zu, um der US-Einwanderungsbehörde ICE bei ihren Massenfestnahmen [zu assistieren](https://netzpolitik.org/2026/us-einwanderungsbehoerde-mit-palantir-und-paragon-auf-migrantenjagd/). Ein weiteres Werkzeug, das Palentir ICE zur Verfügung stellt, [heißt ELITE](https://chaos.social/@HonkHase/115987757877306499), das ein Karte mit möglichen Deportationszielen anzeigt, für die jeweils ein Konfidenz-Score ermittelt wurde. Auch hardwaremäßig sind die ICE-Leute gut versorgt, konstante Videoüberwachung während Razzien [werden dank](https://www.heise.de/news/Minneapolis-ICE-Beamte-tragen-GoPros-und-Smart-Glasses-von-Meta-11142832.html) KI-basierte GoPro-Kameras und smarte Brillen von Meta möglich, wo das Videomaterial ausgewertet und gespeichert wird, weiß keiner. 
  
 ## SgladschdglAI
-### Anwendungen
-* iMogul: KI-gestützte Analyse von Drehbüchern
-  https://www.heise.de/news/iMogul-KI-gestuetzte-Analyse-von-Drehbuechern-11128308.html
-* Confer: Signal-Gründer startet sicheren KI-Chatbot
-  https://www.heise.de/news/Confer-Signal-Gruender-startet-sicheren-KI-Chatbot-11143395.html
-* Euria: Was kann der neue Schweizer KI-Assistent?
-  https://www.deeds.ch/post/euria-der-sicherste-kostenlose-ki-assistent-f%C3%BCr-den-b%C3%BCroalltag
-* KI findet in Hubble-Fotos über 800 Anomalien, Dutzende entziehen sich Erklärung
-  https://www.heise.de/news/KI-findet-in-Hubble-Fotos-ueber-800-Anomalien-Dutzende-entziehen-sich-Erklaerung-11158144.html
-* Nvidia veröffentlicht drei Open-Weight-KI-Modelle für die Wettervorhersage
-  https://www.heise.de/news/Nvidia-veroeffentlicht-drei-Open-Source-KI-Modelle-fuer-die-Wettervorhersage-11155403.html
 ### Umgang
-* Verantwortungsvolle Nutzung von generativer KI: AlgorithmWatch schlägt diese Richtlinien vor
-  https://algorithmwatch.org/de/generative-ki-richtlinie/
-* Generative KI: Finger weg von Bildgeneratoren
-  https://netzpolitik.org/2026/generative-ki-finger-weg-von-bildgeneratoren/
-### Arbeit
-* Studie: KI-Modelle scheitern an echten Arbeitsaufgaben
-  https://www.golem.de/news/studie-ki-modelle-scheitern-an-echten-arbeitsaufgaben-2601-204046.html
-* KI-Einsatz: Anspruchsvolle Aufgaben werden delegiert, Routine bleibt
-  https://www.heise.de/news/KI-Einsatz-Anspruchsvolle-Aufgaben-werden-delegiert-Routine-bleibt-11143664.html
-* Kaum Mehrwert in Firmen: Ist KI doch eine Enttäuschung?
-  https://www.heise.de/news/KI-enttaeuscht-bislang-die-CEO-Hoffnungen-11147892.html
-* Angestellte nutzen mit KI gesparte Zeit, um KI-Ergebnisse zu korrigieren
-  https://www.heise.de/news/Angestellte-nutzen-mit-KI-gesparte-Zeit-um-KI-Ergebnisse-zu-korrigieren-11152462.html
+AlgorithmWatch schlägt für den verantwortungsvolle Nutzung von generativer KI [folgende Richtlinien vor](https://algorithmwatch.org/de/generative-ki-richtlinie/): Verhältnismäßigkeit (was ist der Zweck, gibt es Alternativen), Sicherheit (welchen Daten darf ich der KI geben), Qualitätssicherung (framing, biases, Korrektheit, hat man genug Expertise, um die Qualität der Ausgabe zu beurteilen), Transparenz (offenlegen, wo und welchem Umfang KI eingesetzt wurde).
+  
 ### Keine eigene Leistung - keine Belohnung 
-* Gericht streicht Honorar: KI-Einsatz führt zu Unverwertbarkeit eines Gutachtens
-  https://www.heise.de/news/Gericht-streicht-Honorar-KI-Einsatz-fuehrt-zu-Unverwertbarkeit-eines-Gutachtens-11135211.html
-  https://www.rv.hessenrecht.hessen.de/bshe/document/LARE250001670
-  https://www.lto.de/recht/nachrichten/n/lg-darmstadt-zu-sachverstaendigen-19o52716-gutachten-ki
-* Wer KI-generierte Texte als eigene Leistung ausgibt, riskiert die Note "ungenügend".
-  https://www.heise.de/news/Gericht-ChatGPT-in-der-Schule-ist-auch-ohne-explizites-Verbot-eine-Taeuschung-11136541.html
-  https://social.heise.de/@heiseonline/115869096381653988
+Weil ein medizinischer Sachverständiger Teile seines Gutachtens [mit KI erstellt hat](https://www.lto.de/recht/nachrichten/n/lg-darmstadt-zu-sachverstaendigen-19o52716-gutachten-ki), ohne dies jedoch kenntlich zu machen, hat [ein Landgericht](https://www.rv.hessenrecht.hessen.de/bshe/document/LARE250001670) ihm [die Vergütung verweigert](https://www.heise.de/news/Gericht-streicht-Honorar-KI-Einsatz-fuehrt-zu-Unverwertbarkeit-eines-Gutachtens-11135211.html).
+
+Auch das Verwaltungsgericht Hamburg [hat bestätigt](https://www.heise.de/news/Gericht-ChatGPT-in-der-Schule-ist-auch-ohne-explizites-Verbot-eine-Taeuschung-11136541.html), dass der Einsatz von KI bei Hausarbeiten und Leistungsnachweisen in der Schule als Täuschungsversuch gewertet werden kann.
+
 ### Negative Folgen für Software-Entwicklung
-* Software as Fast Fashion
-  https://tante.cc/2026/01/15/software-as-fast-fashion/
-* "AI eats Software": Warum SaaS-Aktien an der Wall Street crashen
-  https://www.heise.de/news/AI-eats-Software-Warum-SaaS-Aktien-an-der-Wall-Street-crashen-11150650.html
-* Das drohende Ende von Open-Source-Projekten durch LLMs am Beispiel von Tailwind CSS
-  https://www.leitmedium.de/2026/01/09/das-drohende-ende-von-opensource-projekten-durch-llms-am-beispiel-von-tailwind/
+Ein Parasit, der sein Wirt tötet: Caspar Clemens Mierau [beleuchte exemplarisch](https://www.leitmedium.de/2026/01/09/das-drohende-ende-von-opensource-projekten-durch-llms-am-beispiel-von-tailwind/) am Fall von Tailwind CSS, wie LLMs Open Source Projekte zerstören. Tailwind musste kürzlich 75% seiner Belegschaft entlassen, weil das bisherige Geschäftsmodell, sich über kostenpflichtige Zusatzangebote wie vorgefertigte Design-Vorlagen und Sponsor-Möglichkeiten sich zu finanzieren, nicht mehr funktioniert, auch weil immer weniger Menschen die Seiten des Projekts direkt ansurfen und so gar nicht diese Angebote kennen. Warum sollten sie auch, wenn Chatbots schon die notwendigen Informationen, die diese aus Dokumentation und Quellcode extrahiert hat, ausspuckt. So wird aber der eigentlichen Quellenlieferant und dessen Arbeit (Lernen, Feedback-Schleifen, Diskussionen und Entscheidungen über die kontinuierliche Verbesserung, Community-Management) unsichtbar. Tailwind als Framework erfreut sich in der Verwendung immer noch großer Beliebtheit, nur nehmen viele die weitere Existenz einfach als Selbstverständlichkeit hin. Bis irgendwann die Weiterentwicklung aufgegeben wird. Aber noch finden die Parasiten ja noch genügend Wirtstiere, deren offener Code und Texte sich ausbeuten lassen.  
+
+Software-Entwicklung erlebt gerade eine [Fastfashisierung](https://tante.cc/2026/01/15/software-as-fast-fashion/). Es geht nicht mehr um Qualität, Langlebigkeit und Nachhaltigkeit, sondern um die schnelle Lösung, gerade gut genug, dass sie irgendwie funktioniert, auf Kosten auf Energieverbrauch, Stabilität, Performanz, Fehlerfreiheit, Datensicherheit und Wartbarkeit, aber braucht man ja nicht, kann sich mit Vibe Coding schnell eine neue generieren.
+
 ### Narrative
-* Das Wesen des (KI-)Hypes: Betäubungsmittel für den Verstand
-  https://www.golem.de/news/das-wesen-des-ki-hypes-betaeubungsmittel-fuer-den-verstand-2601-204343.html
-* Broligarchie
-  https://www.jacobin.de/artikel/tech-broligarchie-cyberlibertarismus-aya-jaff
-### Spekulationsblase
-* Die größte Blase der Geschichte: Warum der nächste Börsen-Crash alles übertreffen könnte
-  https://monikadobberstein.substack.com/p/die-grote-blase-der-geschichte-warum
-* Die Tulpenspekulation vor 400 Jahren erinnert an die KI-Blase
-  https://www.surplusmagazin.de/erste-spekulationsblase-tulpenblase-kiblase/
-* Bringt Open Source die KI-Blase bald zum Platzen?
-  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/bringt-open-source-die-ki-blase-bald-zum-platzen
-### Sicherheit und Missbrauch
-* KI und Security: Zero-Day-Exploits durch KI sind bereits Realität
-  https://www.heise.de/hintergrund/KI-und-Security-Zero-Day-Exploits-durch-KI-sind-bereits-Realitaet-11151838.html
-* KI-Fakes aus Auschwitz: Die falschen Bilder des Holocaust
-  https://www.srf.ch/news/international/kuenstliche-intelligenz-wie-wir-mit-ki-bildern-aus-auschwitz-getaeuscht-werden-sollen
+Aya Jaff [kritisiert in ihrem Buch](https://www.jacobin.de/artikel/tech-broligarchie-cyberlibertarismus-aya-jaff) Broligarchie den Cyberlibertarismus als Ideologie, "die Marktgläubigkeit, Innovationsfetisch und Staatsverachtung verbindet". Wir sollten die Big-Tech-Definitionen von Innovation und Fortschritt stärker hinterfragen. Bloss weil etwas Nachfrage generiert ist es lange noch nicht sinnvoll / ethisch.
+  
+### Spekulationsblasen
+Prof. Dr. Monika Dobberstein fasst die Warnsignale zusammen, die Analysten, Journalist:innen und Historiker:innen heute sehen, mit Parallelen zu 1929, dass der nächste Börsen-Crash alles übertreffen könnte. Ein sich selbst stabilisierenden Kreislauf aus Kapital, Schulden, Versprechen und gegenseitigen Abhängigkeiten gestützt von einem Medienhype und politischer Passivität bergen eine systemische Gefahr für die (US-)Wirtschaft. Denn klar ist auch, wenn die Blasen "Künstliche Intelligenz" und "Kryptowährungen" platzen, wenn nicht die Verursacher für den Schaden aufkommen, sie werden als vermeintlich systemrelevant gerettet, die Gesellschaft dagegen wird die Lasten in Form von Sparprogramme, soziale Verwerfungen, politische Radikalisierung zu tragen haben. Martin Seng erinnert [auf Surplus daran](https://www.surplusmagazin.de/erste-spekulationsblase-tulpenblase-kiblase/), dass es solche Hypes und Spekulationsblasen es schon vor 400 Jahren gegegeben hat, nämlich bei der [Tulpenmanie](https://de.wikipedia.org/wiki/Tulpenmanie).
+
+### Sicherheit
+In ["On the Coming Industrialisation of Exploit Generation with LLMs"](https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/) dokumentiert Sean Heelan [detailiert](https://github.com/SeanHeelan/anamnesis-release/) sein Experiment, mit KI Sicherheitslücken industriemäßig aufspüren und ausnutzen zu können. Denn limitierende Faktor sind nicht Personen sondern die eingesetzten LLM Tokens. Die LLMs waren in der Lage in relativer kurzer Zeit für verschiedene Szenarien diverse [Exploits](https://de.wikipedia.org/wiki/Exploit) für die Schwachstellen zu erzeugen, ohne dabei nachweislich auf irgendwelche Vorarbeiten zugegriffen zu haben. Mit [diesen Skalierungsmöglichkeiten](https://www.heise.de/hintergrund/KI-und-Security-Zero-Day-Exploits-durch-KI-sind-bereits-Realitaet-11151838.html) kann also fast jede daher gelaufene Ganovenbande mit wenig Aufwand sich solche Angriffswerkzeuge generieren lassen. Aber das können natürlich auch die Verteidiger tun. Denn die bestehenden Methoden, sich gegen solche Angriffe zu wehren, reichen prinzipiell schon aus, dass Problem ist eher, "diese Security in die Fläche bekommen".
+
+### Missbrauch
+"Emotionen sind Klicks und damit bares Geld", [deswegen fluten](https://www.srf.ch/news/international/kuenstliche-intelligenz-wie-wir-mit-ki-bildern-aus-auschwitz-getaeuscht-werden-sollen) Content-Farmen soziale Medien mit KI-generierten Bildern des Holocausts, um mit minimalem Aufwand maximale Reichweite zu erreichen. Wasser auf die Mühlen von Holocaust-Leugner, denn wenn man nicht mehr unterscheiden kann, was wahr und was Lüge ist, dann glaubt man am Ende gar nichts mehr, dann wird Geschichte zur Fiktion.
+
 ### KI-Bot-Scraping
-* Statt Scraping: KI-Firmen schließen Verträge mit Wikipedia für Datenzugriff
-  https://www.heise.de/news/Wikipedia-Vertraege-mit-Mistral-Perplexity-Co-fuer-KI-Trainingszugriff-11142912.html
-* Bots sollen im großen Stil die Daten von OpenStreetMap abgreifen. Das kostet Geld und gefährdet das Projekt
-  https://www.heise.de/news/OpenStreetMaps-sorgt-sich-Tausende-KI-Bots-erfassen-Daten-11156876.html
+Damit die Wikipedia nicht unter der Last der KI-Bots, die systematisch Inhalte von ihren Seiten scrapen, zusammenbricht, [drängt die Wikimedia Foundation](https://www.heise.de/news/Wikipedia-Vertraege-mit-Mistral-Perplexity-Co-fuer-KI-Trainingszugriff-11142912.html) nun die KI-Firmen für ihre Zugriffe eine separate Schnittstelle (API) zu nutzen, die speziell für solche automatisierten, strukturierten Abfragen geschaffen wurde. Offizielle Zahlen zu den Verträgen zwischen KI-Firmen und Wikipedia gibt es aber nicht.
+  
+Auch die OpenStreetMap [leidet unter den KI-Scrapern](https://www.heise.de/news/OpenStreetMaps-sorgt-sich-Tausende-KI-Bots-erfassen-Daten-11156876.html), deren maßenhaften Aufrufe wie ein DDoS-Angriff wirken. Last, die viel Geld kostet, wenn die Server-Infrastruktur des Hosting-Providers entsprechend skaliert werden muss, und das Projekt als solches gefährden.
+
 ### Notwehr
-* Schutz für Wissensgraphen: Forscher machen gestohlene Daten für KI unbrauchbar
-  https://www.golem.de/news/schutz-fuer-wissensgraphen-forscher-machen-gestohlene-daten-fuer-ki-unbrauchbar-2601-203870.html
-  https://mastodon.social/@bkastl/115849615062595392
-* The end of the curl bug-bounty
-  https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/
-* Why India’s plan to make AI companies pay for training data should go global
-  https://restofworld.org/2026/india-ai-data-license-fee/
-* KI-Fehler vor Gericht: Unternehmen können sich gegen falsche Google-Infos wehren
-  https://www.heise.de/news/Klage-gegen-Google-KI-Falsche-Such-Infos-koennen-Unterlassung-rechtfertigen-11160308.html
+Manchen Open-Source-Projekte haben so genannte Bug-Bounty-Programme, die Menschen monetär belohnen sollen, die Fehler und Sicherheitslücken in der Software melden oder gar Pull-Requests stellen, die diese beheben. Bei cURL stellt man das Bug-Bounty-Programm nun ein, da sich das Projekt mit massenweise mit KI-generierte Meldungen solcher vermeintlicher Schwachstellen konfrontiert sah. Diese zu prüfen, kostete den Maintainer des Projekt viel zeitlichen Aufwand und Nerven und am Ende haben sich gerade mal 5% der Meldungen als echt herausgestellt. 
+
+Der Aufbau von Wissensgraphen ist kostenintensiv, um ihre Arbeit vor LLMs zu schützen, haben Forscher verschiedener chinesischer Universitäten [eine Methode entwickelt](https://www.golem.de/news/schutz-fuer-wissensgraphen-forscher-machen-gestohlene-daten-fuer-ki-unbrauchbar-2601-203870.html), bei der glaubwürdige, aber falsche Informationen in die Graphen injiziert werden. Nur wer den passenden kryptografischen Schlüssel hat, kann diese gezielten Verunreinigung wieder herausfiltern. Ohne diesen Filter sinkt die Genauigkeit der Ausgaben auf 5 Prozent. Anomalie-Detektoren könnten dabei auch nur 4 Prozent der vergifteten Daten entdecken.
+
+In Indien [soll es per Gesetz](https://restofworld.org/2026/india-ai-data-license-fee/) eine Gebühr geben, die KI-Firmen zahlen sollen, wenn sie urheberrechtlich geschützte Daten für das Trainieren ihrer LLMs nutzen. Damit bekommen die Content-Ersteller eine faire Entlohnung und die Firmen ersparen sich lange Gerichtsverfahren. 
+
+Mit dem Trend, dass Suchmaschine (speziell Google) mit KI-Zusammenfassungen von Web-Seiten generieren und die eigentliche Web-Seite kaum noch angesurft wird, wo man vielleicht feststellen würde, dass die Zusammenfassung fehlerhaft war, steigt auch das Risiko, dass Firmen / Anbieter von Dienstleistungen und Produkte wegen solchen fehlerhaften Angabe im Wettbewerb benachteiligt werden. Das Landgericht Frankfurt [stufte nun](https://www.heise.de/news/Klage-gegen-Google-KI-Falsche-Such-Infos-koennen-Unterlassung-rechtfertigen-11160308.html) solche KI-Fehler als potenzielle Wettbewerbsbehinderung ein und gibt damit Firmen die Möglichkeit, sich so mit dem Kartellrecht gegen falsche KI-Texte wehren zu können.
 
 ## Recap:
 * [NIAM 2026](https://media.ccc.de/c/niam2026)
-* [Bits & Bäume Neujahrsempfang](https://www.youtube.com/watch?v=OPEZWKs5jN4)
-  * Rückschau Bits-und-Bäume-Neujahresempfang 2026
-    https://www.hierkiosk.de/post/28.BuB-Neujahresempfang/
+* Bits & Bäume Neujahrsempfang [Video](https://www.youtube.com/watch?v=OPEZWKs5jN4) und [Rückschau](https://www.hierkiosk.de/post/28.BuB-Neujahresempfang/)
 
 ## Und sonst so?
-* City in the cloud - Data on the ground
-  https://www.architekturmuseum.de/ausstellungen/city-in-the-cloud/
-* Moltbook: KI-Agenten drehen frei auf Reddit-Klon
-  https://www.heise.de/news/KI-Agenten-diskutieren-auf-Reddit-Klon-Menschen-duerfen-zuschauen-11161385.html
+Die Ausstellung ["City in the cloud - Data on the ground"](https://www.architekturmuseum.de/ausstellungen/city-in-the-cloud/) läuft noch bis Anfang März im Architekturmuseum in München und widmet sich den unsichtbaren Infrastrukturen, wie Unterseekabel, Glasfasernetzen, Rechenzentren mit ihrem Verbrauch an Energie und Wasser, den ökologischen und gesellschaftlichen Folgen beim Abbau kritischer Rohstoffe. Schließlich geht es noch darum, wie die Daten genutzt werden, für Überwachungskapitalismus oder doch als öffentliche Infrastruktur und Instrument, um Bürger:innen zu stärken.
 
 ## Fristen
 * [Munich Open Data Challenge 2026](https://datengartln.de/challenge/), Einreichungen von 07.01.2026 bis 11.02.2026 möglich
-* "Climate & Political Influence in The Age of Information Crises" Online Mastercourse, Anmeldung bis 20.02.2026 
-  https://exposingtheinvisible.org/en/news/influence-mastercourse-2026/
-* correctiv Lokal Konferenz, Einreichungen bis 01.03.2026
-  https://lokal.correctiv.org/crowdnewsroom/call-for-participation-1-1
-* Call for Papers für den Berlin Open Data Day, Einreichungen bis 27.02.2026
-  https://mein.berlin.de/projekte/module/umfrage-178-2/
-
+* ["Climate & Political Influence in The Age of Information Crises" Online Mastercourse](https://exposingtheinvisible.org/en/news/influence-mastercourse-2026/), Anmeldung bis 20.02.2026 
+* [correctiv Lokal Konferenz](https://lokal.correctiv.org/crowdnewsroom/call-for-participation-1-1), Einreichungen bis 01.03.2026
+* Call for Papers für den [Berlin Open Data Day](https://mein.berlin.de/projekte/module/umfrage-178-2/), Einreichungen bis 27.02.2026
+  
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Sonntag, 01.02.2026, online: **Digital Independence Day** <a title='Kalendereintrag Digital Independence Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMjAyVDIxNTYxOFoNCkRUU1RBUlQ6MjAyNjAyMDFUMDAwMDAwDQpEVEVORDoyMDI2MDIwMVQyMzU5NTkNClNVTU1BUlk6RGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpLmRheQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://di.day
