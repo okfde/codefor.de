@@ -41,22 +41,11 @@ Ab dem 1. Juli dürfen sich die 630 Bundestagsabgeordneten [über 4,2 Prozent me
 [Eine Auswertung](https://correctiv.org/aktuelles/2026/02/17/mieten-kaufen-immobilien-preise-wohnen-europa-lokal/) von Mieten und Kaufpreise aus allen knapp 100.000 EU-Städten und Gemeinden von CORRECTIV.Europe zeigt an welchen Orten selbst ein mittleres Gehalt wie das von Pflegekräften nicht reicht, um sich die Miete für bzw. den Kauf von einer kleine Wohnung (45 m²) zu leisten. Vor allem Großstädte sind betroffen. In Deutschland müsste man z.B. in Berlin 50%, in München 47%, in Köln und Stuttgart um die 40% vom Einkommen für die Miete aufwänden. Mit Folgen für Gesellschaft und Wirtschaft, wenn Nachwuchskräfte keine für sie bezahlbaren Wohnungen finden bzw. in ihren Jobs deswegen höhere Löhne fordern müssen.
 
 ## Wahlen
-* Wahl-O-Mat Baden-Württemberg Open Data
-  https://github.com/tifa365/wahlomat-bw-2026
-  https://norden.social/@datenschatz/116042119084950433
-  * Wahlomat
-    https://www.wahl-o-mat.de/bw2026/app/main_app.html
-  * Wahlversprechen-Faktencheck für die Landtagswahl in Baden-Württemberg
-    https://www.swr.de/swraktuell/baden-wuerttemberg/koalition-gruene-cdu-welche-vorhaben-hat-die-landesregierung-umgesetzt-100.html?ziel=schnittstellen-fur-offentlich-relevante-daten-seite-20
-    https://social.tchncs.de/@zockbursche/116101771926396951
-  * kandidierendencheck Baden-Württemberg 2026
-    https://www.abgeordnetenwatch.de/blog/wahlen/die-spitzenkandidierenden-im-check-wer-folgt-der-parteilinie-wer-setzt-eigene-akzente
-  * Regierungscheck: Was hat die Landesregierung Baden-Württemberg umgesetzt?
-    https://www.swr.de/swraktuell/baden-wuerttemberg/koalition-gruene-cdu-welche-vorhaben-hat-die-landesregierung-umgesetzt-100.html
-* Kein Wahlomat für Kommunalwahl in Bayern
-  https://www.augsburger-allgemeine.de/bayern/kommunalwahl-2026-bayern-warum-es-keinen-wahl-o-mat-gibt-17-02-113391004
-* Jetzt Briefwahl beantragen
-  https://wahlbrief.de
+Zur Landtagswahl in Baden-Württemberg gibt es wieder den [offiziellen Wahl-o-maten](https://www.wahl-o-mat.de/bw2026/app/main_app.html), Tim hat dessen Inhalt [maschinenlesbar](https://github.com/tifa365/wahlomat-bw-2026) als [CSV extrahiert](https://norden.social/@datenschatz/116042119084950433) und zudem noch eine [Übereinstimmungsmatrix](https://htmlpreview.github.io/?https://github.com/tifa365/wahlomat-bw-2026/blob/main/visualisierungen/uebereinstimmungsmatrix.html) und einen [Parteienvergleich](https://htmlpreview.github.io/?https://github.com/tifa365/wahlomat-bw-2026/blob/main/visualisierungen/parteienvergleich.html) visualisiert. Vom SWR gibt es [eine Übersicht](https://www.swr.de/swraktuell/baden-wuerttemberg/koalition-gruene-cdu-welche-vorhaben-hat-die-landesregierung-umgesetzt-100.html), welche Vorhaben aus dem Koalitionsvertrag von 2021 die letzte grün-schwarze umgesetzt hat, Open Data wird als [nur teilweise umgesetzt](https://www.swr.de/swraktuell/baden-wuerttemberg/koalition-gruene-cdu-welche-vorhaben-hat-die-landesregierung-umgesetzt-100.html?ziel=schnittstellen-fur-offentlich-relevante-daten-seite-20) bewertet. Wie sich Direktkandidierende konkret sich zu zu 15 zentralen politischen Thesen positionieren, macht der [Kandidierendencheck](https://www.abgeordnetenwatch.de/blog/wahlen/die-spitzenkandidierenden-im-check-wer-folgt-der-parteilinie-wer-setzt-eigene-akzente) von AbgeordnetenWatch sichtbar 
+
+[Aus Kapazitätsgründen](https://www.augsburger-allgemeine.de/bayern/kommunalwahl-2026-bayern-warum-es-keinen-wahl-o-mat-gibt-17-02-113391004) gibt es von Bundes für politische Bildung keinen Wahl-o-maten zur Kommunalwahl in Bayern Anfang März, es wird aber auf den [München-O-Mat](https://muenchen-o-mat.de/) des Bund der Deutschen Katholischen Jugend verwiesen.
+
+Von den FragDenStaat gibt es ein [Unterstützungsangebot](https://wahlbrief.de), um die Briefwahlunterlagen vom Bürgeramt am Hauptwohnsitz digital anzufordern.
 
 ## Digitale Souveränität
 * EU nimmt staatliches Satellitenkommunikationssystem Govsatcom in Betrieb
