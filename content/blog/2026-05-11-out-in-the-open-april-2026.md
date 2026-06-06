@@ -495,6 +495,12 @@ type: blog
 * Fediday, bis 14.06.2026
   https://ctalx.c-base.org/fediday-2026/cfp
 
+## Veranstaltungen zu sortieren
+* Know Your Rights! 🧐 Civic Education and the Classroom: An Open Day at Spore Initiative.
+  https://spore-initiative.org/en/programming/participate/know-your-rights
+* Open Hardware Summit
+  https://2026.oshwa.org  
+
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Sonntag, 03.05.2026, online: **Digital Independence Day** <a title='Kalendereintrag Digital Independence Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNTAzVDA4MzgzOVoNCkRUU1RBUlQ6MjAyNjA1MDNUMDAwMDAwDQpEVEVORDoyMDI2MDUwM1QyMzU5NTkNClNVTU1BUlk6RGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpLmRheQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://di.day
