@@ -125,8 +125,6 @@ type: blog
   https://mastodon.social/@ocbydata/116294651168022618
 * OER erstellen mit H5P
   https://winoda.de/2026/03/11/oer-erstellen-mit-h5p/
-* CSV on the Web
-  https://csvw.org
 
 ## Visualisierungen
 * Landtagswahlergebnisse in Baden-Württemberg 

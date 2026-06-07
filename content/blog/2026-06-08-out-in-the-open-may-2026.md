@@ -38,6 +38,8 @@ type: blog
 * Prototype Fund Projekte, z.B. Object-Oriented Linked Data (OO-LD): Linked Data Framework auf Basis von JSON-SCHEMA und JSON-LD
   https://www.prototypefund.de/projects/object-oriented-linked-data-oo-ld
   https://mastodon.social/@PrototypeFund/116673862280909957
+* Open Data Verordnung in Berlin – wir fordern mehr statt weniger Klarheit!
+  https://okfn.de/blog/2026/05/open-data-verordnung-in-berlin-wir-fordern-mehr-statt-weniger-klarheit/
 
 ### Datenjournalismus
 * Daten aus der NSDAP-Mitgliederdkartei. 
@@ -45,6 +47,8 @@ type: blog
   * Katapult und Correctiv wollten die Suche im NSDAP-Archiv schnell zugänglich machen – ohne Bezahlschranke. Dabei haben sie die Quellenprüfung vergessen.
     https://taz.de/NSDAP-Mitgliederkartei/!6180276/
     via https://mastodon.social/users/cutterkom/statuses/116606613781127664
+  * Aufarbeitung von Fehlern: Veröffentlichung von digitaler NSDAP-Mitgliederkartei
+    https://correctiv.org/in-eigener-sache/2026/05/14/aufarbeitung-fehlern-veroeffentlichung-digitaler-nsdap-mitgliederkartei/
 * Donated blood saves lives every day, but Germany barely has enough
   https://www.datawrapper.de/blog/blood-donations-germany
 
@@ -87,6 +91,16 @@ type: blog
   via https://social.heise.de/@heiseonline/116670053785322855
 * Mitgestaltung ist kein 'Nice-to-have', sondern entscheidend für die Zukunft von wechange.de
   https://wechange.de/cms/2026/05/29/mitgestaltung-ist-kein-nice-to-have-sondern-entscheidend-fuer-die-zukunft-von-wechange-de/
+* Souveränität ist eine Vergabeentscheidung: Das von SVA angeführte Konsortium mit Codesphere und Schwarz Digits ist unter den Gewinnern der KI-Plattform des BMDS
+  https://www.sva.de/de/news/souveraenitaet-ist-eine-vergabeentscheidung-das-von-sva-angefuehrte-konsortium-mit-codesphere
+  * kritisieren
+* Für 250 Millionen Euro: Bund schafft neue Abhängigkeiten von IT-Konzernen
+  https://netzpolitik.org/2026/fuer-250-millionen-euro-bund-schafft-neue-abhaengigkeiten-von-it-konzernen/
+* Bayrisches Digitalministerium startet Projekt für digitale Souveränität // Minister Dr. Mehring will „souveränen Arbeitsplatz“
+  https://www.stmd.bayern.de/digitalministerium-startet-projekt-fuer-digitale-souveraenitaet-minister-dr-mehring-will-souveraenen-arbeitsplatz/?seite=35680
+* Meet EuroOffice, Europe’s bold alternative to Microsoft 365 promising sovereignty and control
+  https://www.windowscentral.com/software-apps/meet-eurooffice-europes-bold-alternative-to-microsoft-365-promising-sovereignty-and-control
+  via https://bsky.app/profile/dondahlmann.de/post/3mn3tomzubs2t
 ### Social Media
 * W Social uncovered: the reality behind the hype
   https://blog.elenarossini.com/w-social-uncovered-the-reality-behind-the-hype/
@@ -107,6 +121,10 @@ type: blog
   https://www.republik.ch/2026/05/09/willkommen-in-der-welt-der-dunklen-aufklaerer
 * Was ist Slopaganda?
   https://www.woz.ch/kolumnen/2026/05/08/slopaganda-was-ist-slopaganda
+* AfD und CDU streichen Fördergelder: "Demokratie Leben" stirbt im Ilm-Kreis
+  https://taz.de/AfD-und-CDU-streichen-Foerdergelder/!6183111/
+* Fördergelder für Anti-Extremismusprojekt gestoppt
+  https://www.tagesschau.de/investigativ/report-mainz/foerderstopp-bmi-radikale-toechter-100.html
 
 ## Open Source
 * FCast
@@ -136,11 +154,17 @@ type: blog
   https://www.heise.de/hintergrund/Missing-Link-Aus-fuer-De-Mail-warum-das-das-eingekringelte-e-besiegte-11305218.html
 * Die viel beworbenen "Datenlabore" in allen Bundesministerien stellen sich als Flop heraus, berichtet Tagesspiegel Background heute.
   https://chaos.social/@stk/116646948941396852
+* Ein Jahr nach Gründung: Im Digitalministerium sind immer noch mehr als 100 Stellen unbesetzt
+  https://www.tagesspiegel.de/politik/ein-jahr-nach-grundung-im-digitalministerium-sind-immer-noch-mehr-als-100-stellen-unbesetzt-15581413.html
+* Bürger-Hackathon soll Verwaltung vereinfachen
+  https://www.zeit.de/news/2026-05/18/buerger-hackathon-soll-verwaltung-vereinfachen
 ### KI wird uns alle retten
 * Statt Datenstrategie: Digitalministerium will KI-Agenten für die Verwaltung
   https://netzpolitik.org/2026/statt-datenstrategie-digitalministerium-will-ki-agenten-fuer-die-verwaltung/
 * Digitalministerkonferenz: Wildberger will Datenschutz für KI-Einsatz in der Verwaltung schleifen  
   https://netzpolitik.org/2026/digitalministerkonferenz-wildberger-will-datenschutz-fuer-ki-einsatz-in-der-verwaltung-schleifen/
+* Digitales Gremienmanagement in deutschen Großstadten, Ratsinformationssysteme, Datenstrukturen und KI-Potenziale.
+  https://www.linkedin.com/posts/ertan-%C3%B6zcan-73bb3399_%F0%9D%97%A3%F0%9D%97%BF%C3%A4%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB%F0%9D%98%80%F0%9D%98%83%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%B4%F0%9D%97%B2-%F0%9D%98%87%F0%9D%98%82%F0%9D%97%BA-activity-7457503674861428736-Eb--
 ### Spark
 * Was ist eigentlich die SPARK-Plattform?
   https://stefan.bloggt.es/2026/05/was-ist-eigentlich-die-spark-plattform/
@@ -150,11 +174,15 @@ type: blog
   https://chaos.social/@stk/116563464145500482
 * Der Löwenanteil des Systems ist bislang einfach noch gar nicht auf OpenCoDE
   https://chaos.social/@stk/116611844685580740
+* In den meisten aktuellen Einsatzszenarien in der Öffentlichen Verwaltung aber auch in Unternehmen ist "KI" das Gegenteil von Innovation.
+  https://www.linkedin.com/posts/tante_was-ist-eigentlich-die-spark-plattform-activity-7462087739015049216-TrZj/
 
 ## Politik
 * Sammlung von Links zu politischen Entitäten, die im Fediverse präsent sind.
   https://codeberg.org/open/fedipolitik
   via https://norden.social/@coastgnu/116522854951936174
+* Erbschaftssteuer-Rechner (Österreich)
+  https://www.erbschaftssteuer-rechner.at
 
 ## Karten
 * Reparaturcafés
@@ -210,6 +238,9 @@ type: blog
 * Ergebnis des Rückbaus von gemeinnuetziger #bahn infrastruktur ueber jahrzehnte seit der "privatisierung" der "Deutschen Bundesbahn" 1994
   https://www.iwkoeln.de/studien/matthias-diermeier-konrad-doliesen-melinda-fremerey-hendrik-boehmer-jan-felix-engler-jan-wendt-geographien-der-unzufriedenheit-daseinsvorsorge.html
   via https://chaos.social/@blazr/116668254764145578
+* Der Potsdamer Linke-Aktivist Eric Wätke hat derweil auf eigene Initiative gezeigt, wie es besser gehen könnte: Unter potsdam.transparenz.cool hat er eine interaktive Karte entwickelt, auf der geplante Radwegmaßnahmen sichtbar sind.
+  potsdam.transparenz.cool 
+  https://www.tagesspiegel.de/potsdam/landeshauptstadt/neues-radwegekonzept-in-potsdam-linke-kritisiert-burgerbeteiligung--und-bietet-hilfe-an-15559694.html
 
 ## Energie
 * Gaskostenrechner
@@ -217,6 +248,8 @@ type: blog
   via https://mastodon.social/@why_not/116506388353037086
 * Gemeinsam gegen Gas
   https://fragdenstaat.de/aktionen/climate-helpdesk/gemeinsam-gegen-gas/
+* Das Ziel, dass Deutschland im Jahr 2045 klimneutral sein soll, hat Katherina Reiche inzwischen offenbar ganz offiziell aufgegeben.
+  https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mmtnt5gki22j
 * Energy Sharing kommt mit §42c EnWG: Ab dem 01.06.2026 wird es deutlich einfacher, überschüssigen Strom aus der eigenen Anlage regional zu verkaufen.
   https://mastodon.social/@ioew/116521165923510035
 * Das Bundeskartellamt übt scharfe Kritik am Entwurf des Kraftwerksgesetzes von Bundeswirtschaftsministerin Katherina Reiche (CDU)
@@ -226,8 +259,15 @@ type: blog
     https://www.telepolis.de/article/Kartellamt-zerlegt-Reiches-Kraftwerksgesetz-11290659.html
 * Das Bundesverfassungsgericht wird nach Klagen das sogenannte "Gebäudemodernisierungsgesetz" wohl in der Luft zerreißen, — aber bis dahin wird Zeit vergehen, Schaden angerichtet.
   https://climatejustice.global/@parents4future/116596813689329954
+  * Kabinett beschließt neues Heizungsgesetz
+    https://www.spiegel.de/wirtschaft/service/heizungsgesetz-bundesregierung-bringt-erneute-reform-auf-den-weg-a-94f6213a-4232-4389-a1a1-6c4f8f2de83c
+    via https://bsky.app/profile/lobbycontrol.bsky.social/post/3mlqnc6oe5227
   * Prüfbericht zur Berechnung der deutschen Treibhausgasemissionen für das Jahr 2025 und zu den Projektionsdaten 2026
     https://expertenrat-klima.de/publikationen/pruefbericht-zur-berechnung-der-deutschen-treibhausgasemissionen-fuer-das-jahr-2025-und-zu-den-projektionsdaten-2026
+  * Heizungsgesetz: Kabinett beschließt umstrittenen Entwurf ohne Rechtsprüfung
+    https://www.msn.com/de-de/nachrichten/politik/heizungsgesetz-kabinett-beschlie%C3%9Ft-umstrittenen-entwurf-ohne-rechtspr%C3%BCfung/ar-AA23G6Uk
+* Energieministerkonferenz: Länder stellen sich gegen Reiches Energie-Reformpläne
+  https://www.sueddeutsche.de/wirtschaft/energieministerkonferenz-laender-stellen-sich-gegen-reiches-energie-reformplaene-dpa.urn-newsml-dpa-com-20090101-260522-930-113816
 * im ersten Quartal 2026 mehr als 2 GWh neue Batterie-Speicherkapazität in Betrieb genommen – 67 % mehr als im Vorjahreszeitraum.
   https://www.elektro.net/129111/rekordzubau-bei-batteriespeichern/
   via https://digitalcourage.social/@BlumeEvolution/116559611772184179
@@ -259,6 +299,8 @@ type: blog
   https://www.deutschlandfunk.de/waermepumpe-im-altbau-funktioniert-in-grossbritannien-sogar-im-schloss-100.html
 * Und ich will ein T-Shirt, auf dem “Technogieoffen”.
   https://mastodon.social/@chrisstoecker/116670097870349926
+* Warum will Katherina Reiche die Energiewende ausbremsen? Mit Petra Pinzler
+  https://www.youtube.com/watch?v=S4XIAPV2Sw8
 
 ## Ernährung
 * Hungerkrise durch Irankrieg: Ausgedüngt
@@ -282,6 +324,12 @@ type: blog
   https://www.heise.de/news/Niedersachsen-Datenabfluss-bei-Wirtschaftsprueferverein-im-Gesundheitswesen-11297772.html
 * Pharma-Produktion in Europa: Warum der Plan an der Finanzierung scheitern könnte
   https://www.telepolis.de/article/Pharma-Produktion-in-Europa-Warum-der-Plan-an-der-Finanzierung-scheitern-koennte-11303081.html
+* Angehörigenpflege: 86 Prozent der Pflegebedürftigen werden zu Hause gepflegt
+  https://www.rechtsdepesche.de/angehoerigenpflege-86-prozent-zu-hause/
+* Kritik an Warkens Begründung für Milliarden-Lücke in der Pflegeversicherung
+  https://www.fr.de/politik/in-der-pflegeversicherung-kritik-an-warkens-begruendung-fuer-milliarden-luecke-94299684.html
+* Geplante Zugriffsrechte der Krankenkassen auf die ePA bringen Ärzte in Wallung
+  https://www.aerztezeitung.de/Wirtschaft/Geplante-Zugriffsrechte-der-Kassen-auf-die-ePA-bringen-Aerzte-in-Wallung--463029.html
 
 ## Kreislaufwirtschaft
 * Erstmals haben Mitglieder ehrenamtlicher Reparaturinitiativen umfangreichen Anspruch auf Ersatzteile und Reparaturinformationen
@@ -306,10 +354,22 @@ type: blog
   https://zentrum-klimaanpassung.de/mediathek/angepasst-der-podcast-des-zentrum-klimaanpassung
 * Untersuchung von Allianz Trade: Studie: Hitze zunehmendes Problem für Wirtschaft
   https://www.zdfheute.de/wirtschaft/hitze-wirtschaft-produktivitaet-energie-studie-100.html
+* Die Klima-Desinformations-Maschine rollt
+  https://steady.page/de/der-uuberblick/posts/e79ba560-2b44-42ba-843f-a52d5722139b
+* Irische Achtzehnjährige kämpft mit preisgekrönter Erfindung gegen Mikroplastik-Krise
+  https://de.euronews.com/2026/05/11/irische-achtzehnjahrige-kampft-mit-preisgekronter-erfindung-gegen-mikroplastik-krise
+  https://www.irishtimes.com/environment/climate-crisis/2026/05/11/ty-changed-my-life-leaving-cert-student-wins-global-prize-for-microplastics-filter/
+* Hottest May day on record in UK as temperatures pass 34C
+  https://www.bbc.com/news/articles/c8xwwpkrgj1o
+* Wasser aus Nationalpark: Sprudelfirmen dürfen laut Behörde nicht mehr abpumpen
+  https://www.swr.de/swraktuell/rheinland-pfalz/trier/streit-um-nationalpark-wasser-sprudelfirmen-duerfen-laut-behoerde-nicht-mehr-abpumpen-100.html
+
 ## Finanzen
 * Bargeld? Wie wichtig ist das denn?
   https://stiftungdatenschutz.org/veroeffentlichungen/datenschutz-im-fokus/datenschutz-im-fokus-detailansicht/bargeld-wie-wichtig-ist-das-denn-699
   via https://social.bund.de/@DS_Stiftung/116522482828569462
+* Wirtschaft: Online bezahlen ohne Visa, Paypal und Co.
+  https://correctiv.org/aktuelles/wirtschaft/2026/05/07/online-bezahlen-ohne-visa-paypal-und-co/
 * Schuldner der Welt, vereinigt euch!
   54 Länder geben mehr für Schulden als für Bildung aus. Jetzt schließen sich Schuldnerstaaten erstmals zusammen – als Gegenmacht zu den Gläubigern.
   https://www.telepolis.de/article/Schuldner-der-Welt-vereinigt-euch-11288381.html
@@ -336,7 +396,8 @@ type: blog
 * OpenSubtitles.org — the largest multi‑language subtitle DB: no registration to download,
   https://www.opensubtitles.org/en/search/subs
   via https://mas.to/@nemo/116664220952702346
-
+* KI entziffert Keilschrift: Mit künstlicher Intelligenz in die Töpfe Babylons schauen
+  https://www.deutschlandfunk.de/ki-kuenstliche-intelligenz-uebersetzung-keilschrift-babylon-100.html
 
 ## Transparenz
 * Ein geleaktes 108-seitiges Dokument zeigt: Bund, Länder und Kommunen planen massive Einschnitte in der Kinder- und Jugendhilfe – ohne öffentliche Debatte.
@@ -355,6 +416,28 @@ type: blog
   https://www.tagesschau.de/inland/regional/sachsen/ermittlungen-hundt-insolvenzen-100.html
   * Nach Verdacht auf Insolvenzstraftaten: Berlins Chef-Digitalisierer Matthias Hundt bittet um seine Entlassung
     https://www.tagesspiegel.de/berlin/nach-verdacht-auf-insolvenzstraftaten-berlins-chef-digitalisierer-matthias-hundt-bittet-um-seine-entlassung-15641688.html
+  * Zurückgetreten, zurückgerudert, doch entlassen – und jetzt gibt’s wohl 72.000 Euro
+    https://www.spiegel.de/politik/matthias-hundt-digitalstaatssekretaer-tritt-zurueck-rudert-zurueck-und-wird-entlassen-a-9169cb07-357e-4fcd-99c3-dcae33937219
+  * "An seiner alten Wirkungsstätte in Dresden galt er als Hochstapler."
+    https://bsky.app/profile/holgi.bsky.social/post/3mn2pjxg2xs2d
+* Gesetzgebung transparent: Vermittlungsausschuss folgt dem Beispiel von FragDenStaat
+  https://fragdenstaat.de/artikel/eigener-sache/2026/05/vermittlungsausschuss-folgt-dem-beispiel-von-fragdenstaat/
+* KARA KUTU: Mit Civic-Tech Zensur enthüllen
+  https://correctiv.org/in-eigener-sache/2026/05/04/kara-kutu-mit-civic-tech-zensur-enthuellen/
+* AfD und die Neonazis: Abgeordnete finanzieren rechtsextremes Treffen
+  https://correctiv.org/aktuelles/neue-rechte/2026/05/08/afd-neonazis-thueringen-jungeuropa-treffen-2026/
+* CDU-Wirtschaftsministerin Reiche heuert Berater an – 2,2 Millionen für die eigene PR jährlich
+  https://www.fr.de/politik/cdu-wirtschaftsministerin-reiche-heuert-berater-an-millionen-fuer-eigene-pr-jaehrlich-94299402.html
+  https://www.fr.de/politik/reiche-ministerium-vergibt-gigantischen-millionen-auftrag-an-werbeagentur-zr-94319666.html
+
+## Lobbyismus
+* Reiche-Ministerium sorgt mit Lobby-Video für Empörung – "ganz neue Dimension"
+  https://www.braunschweiger-zeitung.de/politik/article412107466/reiche-ministerium-sorgt-mit-lobby-video-fuer-empoerung-ganz-neue-dimension.html
+  * Das Teilen eines Videos der Lobbygruppe Initiative Neue Soziale Marktwirtschaft (INSM) durch das Bundeswirtschaftsministerium unter Ministerin Katherina Reiche (CDU) sorgt für Streit.
+    https://www.volksstimme.de/deutschland-und-welt/wirtschaft/streit-um-lobby-botschaft-zur-wirtschaft-4256778
+* Big Tech Lobbylandkarte
+  https://lobbylandkarte.digitalrechte.de
+  via https://bsky.app/profile/beckedahl.eurosky.social/post/3mlaqjca64k2y
 
 ## Journalismus
 * Der öffentlich-rechtliche Rundfunk sollte aufklären statt nach unten zu treten, Lügen zu verbreiten und Stimmung gegen arme Menschen zu machen.
@@ -377,6 +460,10 @@ type: blog
 * Bürger stoppen "fossiles Rechenzentrum" in Maintal
   https://www.spiegel.de/wirtschaft/maintal-buergerprotest-stoppt-fossiles-rechenzentrum-bei-frankfurt-a-4c318c68-1cb6-4907-a0b6-5d2866e03781?giftToken=08fc10e3-b52d-4a9b-9df6-324369947544
   https://23.social/@thomasfricke/116628484140263822
+* BREAKING: Der Adenauer fährt an Schulen vor und indoktriniert die Jugendlichen mit Humanismus & Demokratie.
+  https://bsky.app/profile/politicalbeauty.bsky.social/post/3mlprx7r7ek2d
+* Bau von Rechenzentren: Die Proteste von Anwohnern werden zunehmen
+  https://www.deutschlandfunk.de/proteste-gegen-rechenzentren-cordula-kropp-soziologin-uni-stuttgart-100.html
 
 ## Überwachung
 * Welche Apps und Smart-Home-Geräte sammeln deine Daten — und was kannst du dagegen tun?
@@ -389,6 +476,14 @@ type: blog
   via https://social.tchncs.de/@kuketzblog/116550999545821894
 * Was steckt eigentlich drin im "Sicherheitspaket 2.0"?
   https://fedifreu.de/@Sicherheit_ohne_Ueberwachung/116622962632573624
+* Was NGOs gegen automatischen Gesichtsabgleich haben, Interview Markus Beckedahl
+  https://www.deutschlandfunk.de/was-ngos-gegen-automatischen-gesichtsabgleich-haben-interview-markus-beckedahl-100.html
+* Verfassungsschutz setzt auf Palantir-Alternative
+  https://www.tagesschau.de/investigativ/ndr-wdr/verfassungsschutz-palantir-100.html
+* ICE Agents Have List of 20 Million People on Their iPhones Thanks to Palantir
+  https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/
+* Nach CORRECTIV-Recherche: Linke fordert, Deutschlands Zusammenarbeit mit Europol zu überprüfen
+  https://correctiv.org/aktuelles/europa-aktuelles/2026/05/26/nach-correctiv-recherche-linke-fordert-deutschlands-zusammenarbeit-mit-europol-zu-ueberpruefen/
 
 ## Sicherheit
 * Massiver Datendiebstahl in Litauen
@@ -403,6 +498,8 @@ type: blog
 ## KI
 * KI und das Orakel von Delphi: Warum beide mit Deutung statt Wissen arbeiten
   https://www.telepolis.de/article/KI-und-das-Orakel-von-Delphi-Warum-beide-mit-Deutung-statt-Wissen-arbeiten-11311093.html
+* Jetzt wird Google von der Suchmaschine zur Antwortmaschine
+  https://www.tagesanzeiger.ch/google-search-ai-ersetzt-blaue-links-ab-sofort-776954306306
 ### Wikiverse
 * AI + Wikidata - serving open knowledge - PoliLoom attempts to automatically extract unstructured information from sources like Wikipedia, to add to Wikidata as - you guessed it - structured information.
   https://everypolitician.org/about/contribute/poliloom/
@@ -437,19 +534,29 @@ type: blog
   https://www.telepolis.de/article/Wie-KI-beginnt-den-Menschen-zu-veraendern-11305338.html
 * Kampf dem KI-Training: Immer mehr Nachrichtenseiten sperren Wayback Machine aus
   https://social.heise.de/@heiseonline/116639536287665884
-* Company accidentally spent $500 million on Claude AI in one month after forgetting usage limits
-  https://techstartups.com/2026/05/28/company-accidentally-spent-500-million-on-claude-ai-in-one-month-after-forgetting-usage-limits/
-  via https://dair-community.social/users/timnitGebru/statuses/116664117796381623
 * Unlawful by design: Exposing the human rights costs of generative AI - Amnesty International
   https://www.amnesty.org/en/documents/pol40/0996/2026/en/
   via https://toot.cafe/@baldur/116669162614205303
+* Im Kreislauf des Misstrauens
+  https://zeitung.faz.net/data/833/reader/reader.html#!preferred/0/package/833/pub/1141/page/11/content/154281
+  via https://bsky.app/profile/hedwigrichter.bsky.social/post/3mmzcymj5k227
+### Kosten
+* Company accidentally spent $500 million on Claude AI in one month after forgetting usage limits
+  https://techstartups.com/2026/05/28/company-accidentally-spent-500-million-on-claude-ai-in-one-month-after-forgetting-usage-limits/
+  via https://dair-community.social/users/timnitGebru/statuses/116664117796381623
+* Sechs Monate nach Einführung: Microsoft nimmt Entwicklern Claude Code wieder weg
+  https://t3n.de/news/microsoft-nimmt-entwicklern-claude-code-nach-monaten-wieder-weg-1742686/
 ### Ressourcenverbrauch
 * Rechenzentrum in Georgia entnimmt unbemerkt 110 Millionen Liter Wasser
   https://www.heise.de/news/Rechenzentrum-in-Georgia-entnimmt-unbemerkt-110-Millionen-Liter-Wasser-11290889.html
+* US-Stromerzeuger dreht wegen Rechenzentren 50.000 Menschen den Saft ab
+  https://www.n-tv.de/wirtschaft/US-Stromerzeuger-dreht-wegen-Rechenzentren-50-000-Menschen-den-Saft-ab-id30819866.html
 ### Finanzen
 * Now you can keep track of how many billions the AI companies are losing on AI. 
   https://isaiprofitable.com
   via https://mastodon.social/@MikeElgan/116628156172886406
+* $9 Trillion Collapse Machine
+  https://znetwork.org/znetarticle/9-trillion-collapse-machine/
 ### Maßnahmen
 * KI-Papers bei arXiv: Sperre bei erstem Verstoß
   https://www.heise.de/news/KI-Papers-bei-arXiv-Sperre-bei-erstem-Verstoss-11296035.html
@@ -469,10 +576,19 @@ type: blog
 * Boddy
   * Zeitreise mindestens 10 Jahre zurueck 
     https://chaos.social/@stk/116651464396611844
+    https://www.linkedin.com/posts/stefan-kaufmann-7a8b54224_boddy26-ugcPost-7465868512134254593-cXFA/
+* Open Hardware Summit
+  https://www.youtube.com/playlist?list=PLN2I5IwhHQ4pM4CL1MtvIW4Nc7xitNRfi
+* Berlin MapTime
+  https://www.linkedin.com/posts/hans-hack-001683303_maptime-maps-beyond-the-screen-what-ugcPost-7457333448345825280-ZTr0/
+* 5. Open Data Barcamp der Bertelsmann Stiftung 
+  https://www.linkedin.com/posts/buerge-uprak_opendata-odb26-ugcPost-7465368366308814848-Ty23/
 
 ## Fristen
 * Call for Applications (Interim TAB), 8.6.
   https://container.gov.de/call-for-applications-form/
+* Fediday, bis 14.06.2026
+  https://ctalx.c-base.org/fediday-2026/cfp
 * Ko-Pionier-Preis: Besser nach­nutzen, bis 15.07.2026
   https://reform-staat.org/?reform_experiments=ko-pionier-preis
 * Chaotischer Catalysator Stipendium
@@ -497,10 +613,6 @@ type: blog
   https://meta.wikimedia.org/wiki/WikiKult_Netzwerktreffen_2026
 * 30.6./1.7. BMDS richtet SPARK-Hackathon aus
   https://bmds.bund.de/aktuelles/pressemitteilungen/detail/ki-fuer-schnellere-genehmigungen-bmds-richtet-spark-hackathon-aus
-
-## Fristen
-* Fediday, bis 14.06.2026
-  https://ctalx.c-base.org/fediday-2026/cfp
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Montag, 01.06.2026, 09:00-18:00, Lokschuppen Marburg, Rudolf-Bultmann-Straße 4h, 35039 Marburg: **Kongress: Digitale Städte – Digitale Regionen** <a title='Kalendereintrag Kongress: Digitale Städte – Digitale Regionen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vS29uZ3Jlc3M6IERpZ2l0YWxlIFN0w6RkdGUg4oCTIERpZ2l0YWxlIFJlZ2lvbmVuLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNTAzVDA4MzgzOVoNCkRUU1RBUlQ6MjAyNjA2MDFUMDkwMDAwDQpEVEVORDoyMDI2MDYwMVQxODAwMDANClNVTU1BUlk6S29uZ3Jlc3M6IERpZ2l0YWxlIFN0w6RkdGUg4oCTIERpZ2l0YWxlIFJlZ2lvbmVuDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpZ2l0YWxlcy5oZXNzZW4uZGUvdWViZXItdW5zL3ZlcmFuc3RhbHR1bmdlbi9kaWdpdGFsZS1zdGFlZHRlLWRpZ2l0YWxlLXJlZ2lvbmVuLTMNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046TG9rc2NodXBwZW4gTWFyYnVyZ1wsIFJ1ZG9sZi1CdWx0bWFubi1TdHJhw59lIDRoXCwgMzUwMzkgTWFyYnVyZw0KR0VPOjUwLjgxNjY2NjU7OC43Nzg0NDk2MTgwMDQyNg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
