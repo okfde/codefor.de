@@ -45,62 +45,46 @@ Zur Landtagswahl in Baden-Württemberg gibt es wieder den [offiziellen Wahl-o-ma
 
 [Aus Kapazitätsgründen](https://www.augsburger-allgemeine.de/bayern/kommunalwahl-2026-bayern-warum-es-keinen-wahl-o-mat-gibt-17-02-113391004) gibt es von Bundes für politische Bildung keinen Wahl-o-maten zur Kommunalwahl in Bayern Anfang März, es wird aber auf den [München-O-Mat](https://muenchen-o-mat.de/) des Bund der Deutschen Katholischen Jugend verwiesen.
 
-Von den FragDenStaat gibt es ein [Unterstützungsangebot](https://wahlbrief.de), um die Briefwahlunterlagen vom Bürgeramt am Hauptwohnsitz digital anzufordern.
+Von FragDenStaat gibt es ein [Unterstützungsangebot](https://wahlbrief.de), um die Briefwahlunterlagen vom Bürgeramt am Hauptwohnsitz digital anzufordern.
 
 ## Digitale Souveränität
-* EU nimmt staatliches Satellitenkommunikationssystem Govsatcom in Betrieb
-  https://www.heise.de/news/EU-hat-Govsatcom-gestartet-Sichere-Satellitenkommunikation-fuer-Regierungen-11162883.html
-* Wie groß ist der Bedarf nach einer Genossenschaft für NGOs und Social Economy zur Selbstversorgung mit digitaler Infrastruktur & IT-Dienstleistungen?
-  https://101lab.it/101cloud/coop/
-  https://mastodon.social/@101lab/116006994936247022
-### Verwaltung
-* Operation Souveränität: Bundestag plant Befreiungsschlag von Microsoft & Co.
-  https://www.heise.de/news/Operation-Souveraenitaet-Bundestag-plant-Befreiungsschlag-von-Microsoft-Co-11162849.html
-* Die Bundesverwaltung hat im vergangenen Jahr 481,4 Mio. € für Microsoft-Lizenzen ausgegeben
-  https://gruene.social/@RebeccaLenhard/116057976055309028
-* Open Source Initiative der Thüringer Landesverwaltung
-  https://www.ardmediathek.de/video/mdr-thueringen-journal/open-source-alternativen-zu-microsoft-und-co/mdr/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy82MjlmY2E3YS04MTJiLTQ4NTItOThiOS0wN2MzODc3NzA5YmQ
-  https://mastodon.social/@hophophop/116068480404899854
-* Seit Monaten wird Bayerns Regierung wegen ihrer Microsoft-Verhandlungen kritisiert. Jetzt kommt raus: Microsoft-Verträge ohne Ausschreibung gibt es schon seit Jahren.
-  https://www.golem.de/news/digitale-souveraenitaet-in-bayern-noch-mehr-geld-fuer-microsoft-2602-205215.html
-* Digitale Souveränität beginnt mit Machen.
-  https://norden.social/@dirkschroedter/116098388351737173
-### Social Media
-* Digitalorganisationen fordern europäische Souveränität auch bei sozialen Medien
-  https://bewegung.social/@neuSoM/116045528037601788
-  https://cloud.wechange.de/s/xxDo5s7medGkNgA
-  https://cloud.wechange.de/s/trSHoiHo77kpn6b
-* Gefesselt vom Feed: Wie Google, Meta und Co. Regeln für Social-Media-Apps verhindern wollen
-  https://www.lobbycontrol.de/macht-der-digitalkonzerne/gefesselt-vom-feed-wie-google-meta-co-regeln-fuer-social-media-apps-verhindern-wollen-124022/
-  * Die Monopolisierung der Aufmerksamkeit
-    https://www.frankfurter-hefte.de/artikel/die-monopolisierung-der-aufmerksamkeit-4764/
-  * Big-Tech-Lobbying: Erst machen, dann lieber nicht reguliert werden
-    https://netzpolitik.org/2026/big-tech-lobbying-erst-machen-dann-lieber-nicht-reguliert-werden/
-  * Vor kurzem hat Meta auf seinen Plattformen politische Werbung verboten.
-    https://netzpolitik.org/2026/werbung-auf-instagram-das-wort-demokratie-kann-problematisch-sein/
-* Die Debatte um ein Mindestalter für Social Media geht am Problem vorbei
-  https://23.social/@linuzifer/116053242161241132
-  * Falsch abgebogen? Australiens Social-Media-Verbot kein Vorbild
-    https://www.heise.de/news/Falsch-abgebogen-Australiens-Social-Media-Verbot-kein-Vorbild-11174227.html
-### BigTech
-* Gastbeitrag zum Thema "Souveränitäts-Washing"
-  https://www.itmagazine.ch/artikel/86412/Souveraenitaets-Washing_bei_Cloud-Diensten.html
-  https://social.bund.de/@zendis/116023197163782048
-* Der Autoritäre Block: Die Verflechtung von Big Tech und Staatsmacht
-  https://www.rosalux.de/news/id/54438
-* Keep Android Open
-  https://keepandroidopen.org/open-letter/
 ### USA
-* Federal Data Is Disappearing.
-  https://www.notus.org/trump-white-house/federal-data-is-disappearing
-  https://fediscience.org/@petersuber/116024142638804971
-* Digitale Geiselhaft: Warum Europa den Stecker zu den USA kaum ziehen kann
-  https://www.heise.de/news/Digitale-Geiselhaft-Warum-Europa-den-Stecker-zu-den-USA-kaum-ziehen-kann-11172280.html
-* Neuer Konflikt: USA will europäische Plattformgesetze aushebeln
-  https://www.heise.de/news/Freedom-gov-US-Aussenministerium-plant-VPN-Portal-fuer-Europa-11182385.html
-* Bericht: USA haben Finanzierung von Technik für Internetfreiheit eingestellt
-  https://www.heise.de/news/Bericht-USA-haben-Finanzierung-von-Technik-gegen-Internetblockaden-eingestellt-11182963.html
-### Open Source
+Forschende schätzen, dass seit der erneuten Amtsübernahme Trumps über 3.000 Datensätze aus den amtlichen Statistiken [nicht mehr abrufbar sind](https://www.notus.org/trump-white-house/federal-data-is-disappearing), sei es, weil der öffentliche Zugang zu ihnen gesperrt wurde oder gar Daten zu bestimmten Sachverhalten inzwischen überhaupt [nicht mehr gesammelt werden](https://fediscience.org/@petersuber/116024142638804971).  
+
+Auch die Finanzierung von Projekten, die sich gegen Internetzensur und Internetsperren engagieren (indem sie z.B. Software für anonymes Surfen und Chatten bereitstellen), [wurde von der US-Regierungen gestoppt](https://www.heise.de/news/Bericht-USA-haben-Finanzierung-von-Technik-gegen-Internetblockaden-eingestellt-11182963.html). Die Projekte sind dadurch gezwungen, sich personell und in Aufgabenumfang einzuschränken, sofern sie, wenn sie keine neuen Geldquellen finden, überhaupt weitermachen können.
+
+Wofür stattdessen Geld da ist: [ein staatlich betriebenes VPN-Internetportal](https://www.heise.de/news/Freedom-gov-US-Aussenministerium-plant-VPN-Portal-fuer-Europa-11182385.html), mit denen Europäer weiterhin auf Inhalte zugreifen können, obwohl sie auf Grundlage von europäischen und nationalen Gesetzen in Europa gesperrt sind, weil z.B. Hassrede oder Terrorpropaganda enthalten. Solche EU-Schutzmaßnahmen betrachtet die US-Regierung dagegen als Versuch konservative Meinungen zu zensieren.
+
+### BigTech
+[Mit der Inbetriebnahme](https://www.heise.de/news/EU-hat-Govsatcom-gestartet-Sichere-Satellitenkommunikation-fuer-Regierungen-11162883.html) des europäischen Satellitenkommunikationssystems Govsatcom sollen nun zu mindestens Regierungen und Militär in Europa über zunächst 8 eigene Satelliten verschlüsselt kommunizieren können, ohne dafür auf SpaceX angewiesen zu sein.
+
+Denn, [wie Francesca Bria betont](https://www.rosalux.de/news/id/54438), ist Infrastruktur nie neutral, vor allem, wenn sich ihre Ausgestaltung nicht mehr demokratisch legitimerten Aushandlungsprozessen unterwerfen muss, sondern sich Staaten und Gesellschaft deren Regeln durch die US-Firmen diktieren lassen und damit von den Ideologen hinter ihnen, die so den weltweiten Umbau im Sinne der ["Dunklen Aufklärung"](https://de.wikipedia.org/wiki/Neoreaktion%C3%A4re_Bewegung) ungestört weitertreiben können.
+
+Dem mit dem gestiegenen Bewusstsein für die Gefahren digitaler Abhängigkeit entstandenen Vertrauensverlust versuchen die großen Cloud-Anbieter mit einigen (Pseudo-)Maßnahmen entgegenzuwirken, wie z.B. dem Versprechen von "Datengrenzen", Bau von Rechenzentren in Europa, Gründung von Tochterfirmen vor Ort mit lokalem Personal usw. Bei näherem Hinsehen entpuppt sich allerdings vieles davon als "Souveränitäts-Washing", wie Lutz Niemeyer vom Zentrum für Digitale Souveränität der Öffentlichen Verwaltung (ZendiS) [in seinem Gastbeitrag warnt](https://www.itmagazine.ch/artikel/86412/Souveraenitaets-Washing_bei_Cloud-Diensten.html). Denn die Firmen gehören weiterhin zur US-Mutter und damit dem US-Gesetz, die Software ist so geschrieben, dass eine Migration zu einem Anbieter immer noch erschwert wird, so dass man immer noch bei Betrieb und Weiterentwicklung auf den ursprünglichen Anbieter angewiesen ist, auch weil der Quellcode immer noch unter Verschluss gehalten wird.
+
+Auf der Webseite der Initiative [Keep Android Open](https://keepandroidopen.org/de/) ist [ein offener Brief](https://keepandroidopen.org/open-letter/) veröffentlicht worden, der von Google fordert, die Registrierungspflicht für Android-App-Entwickler nicht einzuführen, in den Dialog mit der Zivilgesellschaft zu treten und sich zur Plattformneutralität zu bekennen. Wenn es nach Google geht, sollen ab September 2026 alle Apps blockiert werden, deren Entwickler sich nicht bei ihnen offiziell registriert haben, vorgeblich aus Sicherheitsgründen. Aus Sicht der Petenten reichen aber die bestehenden Sicherheitsvorkehrungen völlig aus. Für die Registrierung müssen Entwickler neben einer einmaligen Gebühr von 25 Dollar auch mit ihrem Personalausweis ihre Identität nachweisen. Bei den derzeitigen weltweiten autoritären Entwicklungen eine Gefahr für die Betroffenen, die bisher Apps über den F-Droid-Store oder direkt als apk-Download anbieten konnten, ohne sich offenbaren zu müssen. Alle Käufer, die sich bewusst für ein Android-Handy entschieden haben, weil sie dort beliebige Apps installieren können, sind vor den Kopf gestoßen, wenn nun nachträglich die Bedingung geändert werden und Google als alleiniger Gatekeeper entscheiden möchte, welche Apps installiert werden dürfen und welche nicht.  
+
+### Verwaltung
+[Eine neu gegründete Kommission](https://www.heise.de/news/Operation-Souveraenitaet-Bundestag-plant-Befreiungsschlag-von-Microsoft-Co-11162849.html) soll das bestehende digitale Ökosystem des Bundestags hinsichtlich Sicherheit, digitaler Abhängigkeit und Nutzerfreundlich prüfen. Die gesammelten Erkenntnisse sollen ab Mai in eine umfassende Digitalstrategie münden. Für die Opposition fehlt aber immer noch ein wirkliches Bekenntnis zu Open-Source-Software, noch immer werden nur Windows-Rechner an MdBs ausgegeben, eine Strategie zur konsequenten Umstellung, die vielleicht auch den einen oder anderen zwänge, sich umgewöhnen zu müssen, würde nicht verfolgt.
+
+Macht der Gewohnheit und Rahmenvertrag sei dank, sind derweil die Ausgaben der Bundesverwaltung für Microsoft-Lizenzen von 274,1 Millionen Euro (2023), 347,7 Millionen Euro (2024) auf nun 481,4 Millionen Euro im Jahr 2025 [weiter gestiegen](https://www.stern.de/news/bund-hat-2025-ueber-481-millionen-euro-fuer-microsoft-lizenzen-ausgegeben-37118816.html). Und da sind nicht mal die Ausgaben der Länder und Kommunen enthalten. 
+
+[Wie nun auch rauskam](https://www.golem.de/news/digitale-souveraenitaet-in-bayern-noch-mehr-geld-fuer-microsoft-2602-205215.html), schließt der Freistaat Bayern seit einigen Jahren mit Microsoft Unified-Support-Verträge ab, mit ihnen wurde auch der Abrechnungsmodus geändert, wodurch sich beispielweise die Ausgaben in der bayerischen Staatskanzlei um 900% erhöht haben (von 27 Tausend auf fast 250 Tausend Euro). Zudem werden diese Verträge meist ohne eine öffentliche Ausschreibung vergeben, da durch den geschlossenen Quellcode eh kein anderer Dienstleister die Anpassungsaufgaben übernehmen könnte. Die Gesamtausgaben für die Microsoft-Unified-Support-Verträge werden von der bayrischen Regierung mit Verweis auf angebliche Geschäftsgeheimnisse unter Verschluss gehalten.
+
+Besser läuft es in Schleswig-Holstein, die tatsächlich auch bei der Umstellung auf Open-Source [ins Machen kommen](https://norden.social/@dirkschroedter/116098388351737173), auch die Thüringer Landesverwaltung [möchte mit seiner Initiative diesem Beispiel folgen](https://www.ardmediathek.de/video/mdr-thueringen-journal/open-source-alternativen-zu-microsoft-und-co/mdr/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy82MjlmY2E3YS04MTJiLTQ4NTItOThiOS0wN2MzODc3NzA5YmQ).
+
+### Social Media
+[In einem Schreiben](https://digitalcourage.de/pressemitteilungen/2026/souveraenitaet-bei-sozialen-medien) an die Hochschulen haben sich 20 Organisationen und Firmen dafür ausgesprochen, dass Mastodon von allen öffentlichen Einrichtungen eingesetzt wird, die soziale Medien nutzen. Rund 60 deutschen Hochschulen nutzen schon Mastodon und PeerTube für eine von Werbung und undurchsichtige Algorithmen freie Wissenschaftskommunikation.
+
+Mit dem Inkrafttreten der Verordnung über die Transparenz und das Targeting politischer Werbung (TTPA) im Oktober 2025 sollen in der EU demokratische Wahlen vor verdeckten Einflussnahmen geschützt werden, auch in Reaktion auf den Cambridge-Analytica-Skandal. Die Verordnung verbietet dabei nicht politische Werbung, fordert nur Transparenz über die Finanzierung und das Targeting. Facebook hat daraufhin als Trotzreaktion rigoros jegliche politische Werbung verboten. [Die letzten Monate](https://netzpolitik.org/2026/werbung-auf-instagram-das-wort-demokratie-kann-problematisch-sein/) haben gezeigt, dass das Verbot auch NGOs stark trifft, da Facebook allein willkürlich entscheiden kann, was politische Werbung ist und was nicht. 
+
+Der EU Digital Fairness Act soll die [Dark Patterns](https://de.wikipedia.org/wiki/Dark_Pattern) der großen Plattformen regulieren, [dagegen lobbyieren diese allerdings](https://netzpolitik.org/2026/big-tech-lobbying-erst-machen-dann-lieber-nicht-reguliert-werden/), auch [mit Deck-Organisationen](https://www.lobbycontrol.de/macht-der-digitalkonzerne/gefesselt-vom-feed-wie-google-meta-co-regeln-fuer-social-media-apps-verhindern-wollen-124022/) wie EU-Tech-Lopp. Dabei hat der Medienwissenschaftler Martin Andree von der Universität Köln [in seiner Studie](https://www.frankfurter-hefte.de/artikel/die-monopolisierung-der-aufmerksamkeit-4764/) belegen können, dass die Social-Media-Apps von BigTech fast die gesamte Aufmerksamkeit von den Nutzenden digitaler Endgeräte bekommen. 
+
+[Für Linus Neumann](https://23.social/@linuzifer/116053242161241132) vom CCC lenkt die Debatte über ein Social-Media-Verbot für Kinder und Jugendliche vom eigentlichen Problem ab - dass man Firmen Geschäftsmodelle erlaubt, die auf Manipulation und Suchtverhalten ihrer Nutzenden basieren, ähnlich wie beim Glückspiel, ganz unabhängig vom Alter. [Die Umsetzung](https://www.heise.de/news/Falsch-abgebogen-Australiens-Social-Media-Verbot-kein-Vorbild-11174227.html) der Altersverifizierung in Australien zeigt, dass diese Prüfungen meist eh umgangen werden, dafür die Plattformen nun auch noch an die Daten aus Gesichtsscans und Ausweisinformationen der Geprüften kommen, die potenziell auch noch unkontrolliert abfließen könnten. 
+
+Am Ende hilft am besten doch nur Hilfe zur Selbsthilfe: Die Genossenschaft [101coop](https://101.coop) soll NGOs mit digitaler Infrastruktur & IT-Dienstleistungen versorgen.
+
+## Open Source Hard- und Software
 * Fluxer: A Swedish Discord alternative that's open source
   https://feddit.org/post/25853089
 * Open Source lebt nicht vom „Read-only“
@@ -108,11 +92,8 @@ Von den FragDenStaat gibt es ein [Unterstützungsangebot](https://wahlbrief.de),
   https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland
 * What happens when a large open source project dies?
   https://nesbitt.io/2026/02/21/whale-fall.html
-
-### Open Hardware
 * Kabinettsbeschluss zum ÖkodesignG: Wichtige Fortschritte für Reparaturinitiativen
   https://okfn.de/blog/2026/02/kabinettsbeschluss-zum-%C3%B6kodesigng-wichtige-fortschritte-f%C3%BCr-reparaturinitiativen/
-
 
 ## Digitalisierung
 * Trotz Sicherheitsbedenken: Düsseldorfer Stadtrat will anonyme digitale Abstimmungen
