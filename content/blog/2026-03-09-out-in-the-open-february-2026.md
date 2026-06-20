@@ -134,37 +134,24 @@ Bis 2045 müssen die deutschen Emissionen bei null liegen. Da sich durch das neu
 
 LobbyControl hat bereits 2023 das Wirken diverser Gaslobbyverbände wie BDEW, DVGW, Zukunft Gas und H2vorOrt [untersucht](https://www.lobbycontrol.de/lobbyismus-und-klima/wie-die-gaslobby-das-heizungsgesetz-entkernt-hat-109931/). Die Gasindustrie hat viel zur verlieren, denn noch heizen 50 Prozent der Haushalte in Deutschland noch immer mit Gas. Würde das Heizen mit Öl und Gas auslaufen, würden diese Einnahmen wegbrechen und große Teile der bestehenden Gasinfrastruktur obsolet werden. Das würde auch die Stadtwerke treffen, denen die Gasverteilnetze gehören und für sie derzeit eine hohe Einnahmequelle darstellen. Hinter der Gaslobby stehen also Gasförder- und Handelskonzerne wie Wintershall, VNG, das Gazprom-Nachfolgeunternehmen SEFE, Netzbetreiber wie Open Grid Europe oder Eon sowie Thüga als Anteilseigner zahlreicher Stadtwerke. Zudem der Hauseigentümerverband Haus und Grund sowie die Lobby der (Gas-)Heizungsbauer. Sie alle wollen ihr Geschäftsmodell Heizen mit Gas um jeden Preis erhalten, allein 2021 wurden 40 Millionen Euro für Lobbyarbeit ausgegeben. Und die Lobby ist bestens verquickt mit Seitenwechslern [von CDU](https://bewegung.social/@lobbycontrol/116131915640009754) als [auch SPD](https://bewegung.social/@lobbycontrol/116126316997275001). Bengt Bergt gilt sogar als Erfinder der Grüngasquote. Und die ehemalige Grünen-Politikerin Kerstin Andreae ist Hauptgeschäftsführerin des BDEW.
 
-[Aus Textnachrichten](https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101213062/katherina-reiche-ministerium-bestellt-wohl-lobby-argumente-fuer-kraftwerke.html) zwischen Wirtschaftsministerium und dem Energiekonzern EnBW, die dem Spiegel vorliegen, geht hervor, dass das Ministerium sich die Zuarbeit von Argumente für Gaskraftwerke von EnBW erfragt hat. Batteriespeicher würden jedenfalls nach den Vorschägen bei der Umsetzung der Kraftwerkstrategie (also der Sicherung der Stromversorgung in wind- und sonnenarmen Zeiten) deutlich benachteiligt werden.
+[Aus Textnachrichten](https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101213062/katherina-reiche-ministerium-bestellt-wohl-lobby-argumente-fuer-kraftwerke.html) zwischen Wirtschaftsministerium und dem Energiekonzern EnBW, die dem Spiegel vorliegen, geht hervor, dass das Ministerium sich die Zuarbeit von Argumente für Gaskraftwerke von EnBW erfragt hat. Batteriespeicher würden jedenfalls nach den Vorschägen bei der Umsetzung der Kraftwerkstrategie (also der Sicherung der Stromversorgung in wind- und sonnenarmen Zeiten) deutlich benachteiligt werden. Auch von RWE gibt es ein solches [Positionspapier](https://www.lobbyregister.bundestag.de/media/fb/79/696601/Stellungnahme-Gutachten-SG2602190015.pdf) mit ähnlicher Schlagseite.
 
 Correctiv hat die viele der im Zuge der Debatte um das Gebäudeenergiegesetz getätigten Aussagen von Verhandlern und Regierungsmitgliedern in ihrem Faktencheck als falsch oder zu mindestens irreführend [entlarvt](https://correctiv.org/aktuelles/klimawandel/2026/02/27/heizungsreform-heizungsgesetz-2026-regierungsaussagen-im-check/).
 
 Leider arbeiten nicht alle Medien so sorgfältig, noch immer werden die Narrative, die einst die Bild-Zeitung (zum Springer-Konzern gehörend, der Hauptaktionär ist KKR, der auch umfangreich in fossile Energieträger investiert) [eins zu eins übernommen](https://www.lobbycontrol.de/lobbyismus-und-klima/springer-konzern-nutzte-hauptaktionaer-kkr-den-medienkonzern-fuer-politische-einflussnahme-118529/).
 
 ## Klima
-* EU plant Lockerungen bei Emissionshandel: Der Markt regelt's nicht
-  https://taz.de/Geplante-Lockerungen-der-EU-Emissionshandel-hat-als-Klimaschutzinstrument-versagt/!6151799/
-* Schutzschirm für Protest – Spende für die Unterstützung der Angeklagten im § 129-Prozess und anderen Betroffenen von politischer Repression
-  https://raz-ev.org/schutzschirm-fuer-protest-spende-fuer-die-unterstuetzung-der-angeklagten-im-%C2%A7129-prozess-und-anderen-betroffenen-von-politischer-repression/
-* Klima - Im Würgegriff der Ölkonzerne
-  https://det.social/@kloeffi/116095769954054019
-* Letter to the informal European Council meeting: Under pressure, Europe’s industry needs direction, not deregulation
-  https://caneurope.org/letter-europes-industry-needs-direction-not-deregulation/
-* Tausende Satelliten umkreisen die Erde und verglühen nach kurzer Lebensdauer. Was dabei in der Atmosphäre passiert, könnte unser Klima für immer verändern.
-  https://www.fr.de/wissen/experte-warnt-wir-veraendern-die-stratosphaere-in-einen-nie-dagewesenen-zustand-zr-94164864.html
-* China has planted so many trees around the Taklamakan Desert that it's turned this 'biological void' into a carbon sink
-  https://www.livescience.com/planet-earth/plants/china-has-planted-so-many-trees-around-the-taklamakan-desert-that-its-turned-this-biological-void-into-a-carbon-sink
-* Handbuch Umweltkosten: Klimaschutz rechnet sich Das „Handbuch Umweltkosten – Methodenkonvention 4.0“ drückt in Geldwerten aus, welche Schäden durch deutsche Treibhausgase und andere Umwelteffekte entstehen – und durch ambitionierte Klima- und Umweltpolitik vermieden werden können.
-  https://www.umweltbundesamt.de/publikationen/handbuch-umweltkosten
-  https://social.bund.de/@Umweltbundesamt/116126328983891699
-* Global Greening: Wie der globale Wandel die Vegetation Richtung Nordosten verschiebt
-  https://www.l-iz.de/bildung/forschung/2026/02/global-greening-648487
-  https://greenwave.earth
-* Heftige Niederschläge haben im Jänner, Februar in Spanien und Portugal große Zerstörungen angerichtet
-  https://science.orf.at/stories/3234377/
-* Loading the DICE Against Pensions
-  https://carbontracker.org/reports/loading-the-dice-against-pensions/
-* Climate change is accelerating but nature is slowing down
-  https://www.sciencedaily.com/releases/2026/02/260217005714.htm
+Mit dem vor mehr als 20 Jahren eingeführten [Europäische Emissionshandel (ETS)](https://de.wikipedia.org/wiki/EU-Emissionshandel)) sollten klimaschädliche Technologie teurer gemacht und so eine Lenkungswirkung hin zu Investionen in emissionsärmere Technologien erzielt werden. Möglich machen sollten das Zertifikate, die Industrien anteilig zu ihren immer noch ausgestoßenen Emissionen als Berechtigung kaufen müssen. Jahrelang waren (auch durch Lobbyarbeit der betroffenen Unternehmen) die Preise niedrig und haben [kaum entsprechende Anreize gesetzt](https://taz.de/Geplante-Lockerungen-der-EU-Emissionshandel-hat-als-Klimaschutzinstrument-versagt/!6151799/), das ändert sich nun, die Preise haben sich seit 2016 verzehnfacht, und schon versuchen die ersten Unternehmen dafür zu lobbyieren, die Vorgaben des Emissionshandels aufzuweichen. 
+
+Das Umweltbundesamt sellt mit dem ["Handbuch Umweltkosten – Methodenkonvention 4.0"](https://www.umweltbundesamt.de/publikationen/handbuch-umweltkosten) umfassend aktualisierte Umweltkostensätze für Treibhausgase und andere Schadstoffe sowie verschiedene Wirtschaftsaktivitäten zur Verfügung. Umweltkostensätze übersetzen sowohl den Nutzen als auch den Schaden, der entsteht, wenn Umweltschutz beachtet bzw. eben auch vernachlässigt wird, in Geldeinheiten und ermöglicht bessere Management- und Investitionsentscheidungen sowohl bei Unternehmen aber auch bei der Ausgestaltung von Gesetzen. Nach dieser Bewertung ziehen allein im Jahr 2024 die in Deutschland verursachten Treibhausgasemissionen  [Schäden im Wert von 647 Milliarden Euro](https://social.bund.de/@Umweltbundesamt/116126328983891699) für heutige und künftige Generationen nach sich.
+
+[The Green Wave](https://greenwave.earth) ist die interaktive Visualisierung einer Studie, die die Veränderung des Schwerpunkts der globalen Vegetation innerhalb der letzten Jahrzehnte [berechnet hat](https://www.l-iz.de/bildung/forschung/2026/02/global-greening-648487). Die Auswertung hat ergeben, dass sich die Vegetation Richtung Nordosten auf der Weltkugel verschoben hat. Eine Hypothese dafür ist, dass längere Vegetationsperioden und mildere Winter die Grünphase auf der Nordhalbkugel verlängert haben. Zunehmendes CO₂ in der Atmosphäre fördert zudem die Photosynthese und könnte damit auch die Ostverschiebung erklären, da dort Länder wie Indien und China sich befinden, die aktuell immer noch die meisten CO₂-Emissionen verursachen. 
+
+14.300 aktive Satelliten umkreisten die Erde Anfang des Jahres, vor 20 Jahre waren es gerade einmal 871. Viele von ihnen sind technologisch schnell überholt und müssen ersetzt werden, dazu werden die alten gezielt zum Absturz gebracht, damit sie in der Stratosphäre verglühen und kein Weltraumschrott werden. Nur beim Verglühen werden Partikel freigesetzt, [die dann beeinflussen können](https://www.fr.de/wissen/experte-warnt-wir-veraendern-die-stratosphaere-in-einen-nie-dagewesenen-zustand-zr-94164864.html), wie Sonnenlicht absorbiert oder gestreut wird, und auch die Zirkulation in dieser Luftschicht stört, mit unabsehbaren Folgen für das Klima.
+
+Der Klimawandel beschleunigt sich immer mehr, aber die Anpassung von Flora und Fauna hat sich seit 1970 [um ein Drittel verlangsamt](https://www.sciencedaily.com/releases/2026/02/260217005714.htm). Fatal für ein Ökosystem, dass durch ständigen Austausch und Anpassung eigentlich dynamisch und widerstandsfähig bleiben sollte. Aber durch die menschlichen Einfluss sind Habitate verloren gegangen und die Biodiversität gesunken, somit fehlen die Arten, die in die Regionen einwandern könnten, in denen sich das Klima gerade ändert.
+
+Eine Analyse von Weltwetterattributionsforschern [belegt](https://science.orf.at/stories/3234377/), dass die Tage mit den heftigsten Niederschlägen in Südwesteuropa durch den Klimawandel um ein Drittel nasser geworden sind. 
 
 ## Kultur
 * 1300 Jahre alte Weltchronik in Katharinenkloster auf dem Sinai entdeckt
