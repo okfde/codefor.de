@@ -124,57 +124,21 @@ Wie aus einem geleakten [Gesetzesentwurf](https://table.media/assets/climate/ref
 Gutachter sehen im Netzpaket [ein Verstoß gegen EU-Recht](https://www.t-online.de/heim-garten/aktuelles/id_101134784/netzpaket-von-reiche-europarechtlich-unzulaessig.html) (VO (EU) 2019/943 Art. 13 (Redispatch)). Das regelt, dass Netzanschlüsse auch bei Engpässen möglich bleiben sollen, Einschränkungen dürfen nur zeitweise gelten und es muss faire Ausgleichsregelungen geben. Da aber Netzbetreiber nach Vorstellung des Netzpakets einfach selbst Gebiete zeitliche unbegrenzt und ohne konkrete Begründung als kapazitätslimitiert kennzeichnen können. Auch die Möglichkeit für die Netzbetreiber, einer Anlage den Anschluss zu verweigern, wenn diese sich nicht bereit erklärt, auf Ausgleichzahlungen verzichten, widerspricht geltenden EU-Gesetzen, die nur einen freiwilligen Verzicht vorsieht.
 
 ### Heizungsgsetz
-* Heizen soll wieder Spaß machen
-  https://taz.de/Neues-Heizungsgesetz/!6157772/
-* Wie die Gaslobby das Heizungsgesetz entkernt hat
-  https://www.lobbycontrol.de/lobbyismus-und-klima/wie-die-gaslobby-das-heizungsgesetz-entkernt-hat-109931/
-  * https://bewegung.social/@lobbycontrol/116126316997275001
-  * Gaslobby-Netzwerke
-    https://bewegung.social/@lobbycontrol/116131915640009754
-  * fossiles Energiekombinat 
-    https://23.social/@thomasfricke/116131103583326244
-* So will die Koalition die Regeln für Heizungen ändern
-  https://www.tagesschau.de/inland/innenpolitik/gebaeudemodernisierung-eckpunkte-heizungsgesetz-100.html
-* Dieses Heizungsgesetz bringt niemandem etwas
-  https://www.capital.de/wirtschaft-politik/eckpunkte-des-heizungsgesetz--diese-reform-bringt-niemandem-etwas-37167088.html
-* Neues Heizungsgesetz: Zwei-Personen-Haushalte müssten jährlich 350 Euro mehr zahlen
-  https://www.iwkoeln.de/presse/iw-nachrichten/ralph-henger-malte-kueper-zwei-personen-haushalte-muessten-jaehrlich-350-euro-mehr-zahlen.html
-* Journalismusversagen
-  https://mastodon.green/@buergerwerke/116131625516591537
-* Gekipptes Gebäudeenergiegesetz: In den Dreißigerjahren kommt die Quittung
-  https://www.spiegel.de/wissenschaft/mensch/gebaeudeenergiegesetz-in-den-dreissigerjahren-kommt-die-quittung-a-edb302e0-88b6-42d4-b12f-d811948c3706#ref=rss
-* Der Grüngas-Irrsinn
-  https://mastodon.social/@somlu1968/116137339020043478
-* Forschende sehen "katastrophale Verwässerung"
-  https://www.tagesschau.de/wissen/klima/reaktionen-gebaeudemodernisierungsgesetz-wissenschaft-100.html
-* Geschenk an Gaslobby stoppen! Heizen muss klimafreundlich und bezahlbar sein.
-  https://aktion.bund.net/gaslobby-geschenk-stoppen
-* Faktencheck zur Wahl: Heizen mit „grünem Öl“ statt Wärmepumpe
-  https://table.media/climate/analyse/faktencheck-zur-wahl-heizen-mit-gruenem-oel-statt-waermepumpe
-* Für die 65% Grüngasquote bräuchte man in Bayern das 1,5x der gesamten landwirtschaftliche Fläche Bayerns.
-  https://mastodon.social/@peterjelinek/116143118866855263
-* Biotreppe ins Desaster
-  https://www.captain-futura.de/2026/02/27/19811/
-  https://mastodon.social/@captainfutura/116141947621789736
-* Solarer Vollstopp, vorgetäuschte Heiz-Freiheit und eine Koalition, die von RWE abschreibt
-  https://klimareporter.de/gebaeude/solarer-vollstopp-vorgetaeuschte-heiz-freiheit-und-eine-koalition-die-von-rwe-abschreibt
-* ein paar Prostimmen
-  * Grüner Landesminister hält Reiches Netzpaket für vernünftig
-    https://www.handelsblatt.com/politik/deutschland/energiewende-gruener-landesminister-haelt-reiches-netzpaket-fuer-vernuenftig/100203967.html
-  * Reiche und die große Lebenslüge der Erneuerbare-Energien-Branche
-    https://www.handelsblatt.com/meinung/kommentare/kommentar-reiche-und-die-grosse-lebensluege-der-erneuerbare-energien-branche/100201914.html
-* Katherina Reiches Bekenntnis zu den Klimazielen ist lächerlich
-  https://www.handelsblatt.com/meinung/kommentare/kommentar-katherina-reiches-bekenntnis-zu-den-klimazielen-ist-laecherlich/100203407.html
-* Soziale Folgen des GMG-Entwurfs, IV mit Brigitte Knopf, Zukunft KlimaSozial
-  https://www.deutschlandfunk.de/soziale-folgen-des-gmg-entwurfs-iv-mit-brigitte-knopf-zukunft-klimasozial-100.html
-* Heizungsreform 2026: Regierungsaussagen im Check
-  https://correctiv.org/aktuelles/klimawandel/2026/02/27/heizungsreform-heizungsgesetz-2026-regierungsaussagen-im-check/
-* Die Wärmewende wird kaltgestellt
-  https://www.energiezukunft.eu/erneuerbare-energien/waermewende/die-waermewende-wird-kaltgestellt
-* Änderungen beim Heizungsgesetz: Wird es für Mieter jetzt teuer?
-  https://www1.wdr.de/nachrichten/heizungsgesetz-was-bedeutet-das-fuer-mieter-100.html
-* Heizungsgesetz: Schwarz-Rot sägt die Wärmewende ab
-  https://www.surplusmagazin.de/geg-reform-heizungsgesetz-kritik-warmepumpen/
+[Mit geplanten Reform des Gebäudeenergiegesetzes]( https://www.tagesschau.de/inland/innenpolitik/gebaeudemodernisierung-eckpunkte-heizungsgesetz-100.html) soll die Vorgabe, dass neue Heizungen zu mindestens 65 Prozent mit Erneuerbaren Energien betrieben werden müssen, abgeschafft werden. Somit ist der Einbau von Gas- oder Ölheizung wieder erlaubt. Die Förderung für eine energetische Sanierung von Gebäuden oder auch Wärmepumpen sei aber bis mindestens 2029 sichergestellt. Ab 2029 müssen Heizungen zudem mit einem "zunehmenden Anteil CO2-neutraler Brennstoffe" betrieben werden, in der ersten Stufe zunächst mit 10%, in dritten Stufe 2040 auf 60%. 
+
+Zu solchen Grüngasen gehören unter anderem Biomethan oder auch aus erneuerbaren Energien hergestellter grüner Wasserstoff. Haken dabei: diese Energieträger sind [sowohl selten als auch teuer](https://www.capital.de/wirtschaft-politik/eckpunkte-des-heizungsgesetz--diese-reform-bringt-niemandem-etwas-37167088.html). Allein für die 65% Grüngasquote bräuchte man in Bayern [das 1,5-fache](https://bsky.app/profile/lisa-badum.de/post/3mfr4dqxmjc2u) der gesamten landwirtschaftliche Fläche des Freistaats. Und das mit Strom erst produzierte Gas wird für die Heizung verfeuert, statt mit dem Strom direkt eine Wärmepumpe anzutreiben. Durch steigender CO2-Preise in der Europäischen Union wird Gas zusätzlich teurer. Und je weniger Gasheizungen es gibt desto teurer werden die Netzkosten für die noch verbliebenen Gasheizungen. 
+
+[Und für Mieter könnte es dann teuer werden](https://www1.wdr.de/nachrichten/heizungsgesetz-was-bedeutet-das-fuer-mieter-100.html), denn sie sind abhängig davon, für welche Lösung sich ihr Vermieter entschieden hat. Und für den ist Ersatz einer alten mit einer neuen Gasheizung billiger, da er ja einen Teil der höheren Betriebskosten in Form von steigenden Nebenkosten auf den Mieter umlegen kann. Die Beimischungsquoten könnten zu einer 25-prozentigen Preissteigerung führen, also bis zu 450 Euro mehr pro Haushalt im Jahr.
+
+Bis 2045 müssen die deutschen Emissionen bei null liegen. Da sich durch das neue Heizungsgesetz ein höherer CO₂-Austoß abzeichne, kann man davon ausgehen, dass Deutschland die europäischen Klimaschutzvorgaben für Gebäude und Verkehr voraussichtlich verfehlen werde, damit, so schätzt die Agora Energiewende, [drohen Strafzahlungen](https://www.spiegel.de/wissenschaft/mensch/gebaeudeenergiegesetz-in-den-dreissigerjahren-kommt-die-quittung-a-edb302e0-88b6-42d4-b12f-d811948c370) von bis 38 Mrd. Euro Anfang der 2030er Jahre. Geld, welches dann beim deutschen Steuerzahler zusätzlich eingezogen wird.
+
+LobbyControl hat bereits 2023 das Wirken diverser Gaslobbyverbände wie BDEW, DVGW, Zukunft Gas und H2vorOrt [untersucht](https://www.lobbycontrol.de/lobbyismus-und-klima/wie-die-gaslobby-das-heizungsgesetz-entkernt-hat-109931/). Die Gasindustrie hat viel zur verlieren, denn noch heizen 50 Prozent der Haushalte in Deutschland noch immer mit Gas. Würde das Heizen mit Öl und Gas auslaufen, würden diese Einnahmen wegbrechen und große Teile der bestehenden Gasinfrastruktur obsolet werden. Das würde auch die Stadtwerke treffen, denen die Gasverteilnetze gehören und für sie derzeit eine hohe Einnahmequelle darstellen. Hinter der Gaslobby stehen also Gasförder- und Handelskonzerne wie Wintershall, VNG, das Gazprom-Nachfolgeunternehmen SEFE, Netzbetreiber wie Open Grid Europe oder Eon sowie Thüga als Anteilseigner zahlreicher Stadtwerke. Zudem der Hauseigentümerverband Haus und Grund sowie die Lobby der (Gas-)Heizungsbauer. Sie alle wollen ihr Geschäftsmodell Heizen mit Gas um jeden Preis erhalten, allein 2021 wurden 40 Millionen Euro für Lobbyarbeit ausgegeben. Und die Lobby ist bestens verquickt mit Seitenwechslern [von CDU](https://bewegung.social/@lobbycontrol/116131915640009754) als [auch SPD](https://bewegung.social/@lobbycontrol/116126316997275001). Bengt Bergt gilt sogar als Erfinder der Grüngasquote. Und die ehemalige Grünen-Politikerin Kerstin Andreae ist Hauptgeschäftsführerin des BDEW.
+
+[Aus Textnachrichten](https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101213062/katherina-reiche-ministerium-bestellt-wohl-lobby-argumente-fuer-kraftwerke.html) zwischen Wirtschaftsministerium und dem Energiekonzern EnBW, die dem Spiegel vorliegen, geht hervor, dass das Ministerium sich die Zuarbeit von Argumente für Gaskraftwerke von EnBW erfragt hat. Batteriespeicher würden jedenfalls nach den Vorschägen bei der Umsetzung der Kraftwerkstrategie (also der Sicherung der Stromversorgung in wind- und sonnenarmen Zeiten) deutlich benachteiligt werden.
+
+Correctiv hat die viele der im Zuge der Debatte um das Gebäudeenergiegesetz getätigten Aussagen von Verhandlern und Regierungsmitgliedern in ihrem Faktencheck als falsch oder zu mindestens irreführend [entlarvt](https://correctiv.org/aktuelles/klimawandel/2026/02/27/heizungsreform-heizungsgesetz-2026-regierungsaussagen-im-check/).
+
+Leider arbeiten nicht alle Medien so sorgfältig, noch immer werden die Narrative, die einst die Bild-Zeitung (zum Springer-Konzern gehörend, der Hauptaktionär ist KKR, der auch umfangreich in fossile Energieträger investiert) [eins zu eins übernommen](https://www.lobbycontrol.de/lobbyismus-und-klima/springer-konzern-nutzte-hauptaktionaer-kkr-den-medienkonzern-fuer-politische-einflussnahme-118529/).
 
 ## Klima
 * EU plant Lockerungen bei Emissionshandel: Der Markt regelt's nicht
