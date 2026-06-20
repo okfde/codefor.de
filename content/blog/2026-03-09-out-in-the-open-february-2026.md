@@ -82,38 +82,26 @@ Der EU Digital Fairness Act soll die [Dark Patterns](https://de.wikipedia.org/wi
 
 [Für Linus Neumann](https://23.social/@linuzifer/116053242161241132) vom CCC lenkt die Debatte über ein Social-Media-Verbot für Kinder und Jugendliche vom eigentlichen Problem ab - dass man Firmen Geschäftsmodelle erlaubt, die auf Manipulation und Suchtverhalten ihrer Nutzenden basieren, ähnlich wie beim Glückspiel, ganz unabhängig vom Alter. [Die Umsetzung](https://www.heise.de/news/Falsch-abgebogen-Australiens-Social-Media-Verbot-kein-Vorbild-11174227.html) der Altersverifizierung in Australien zeigt, dass diese Prüfungen meist eh umgangen werden, dafür die Plattformen nun auch noch an die Daten aus Gesichtsscans und Ausweisinformationen der Geprüften kommen, die potenziell auch noch unkontrolliert abfließen könnten. 
 
+Auch die Instant-Messaging/Voice-Over-IP-Plattform Discord führt ab März 2026 eine Altersverifikation ein, mit [Fluxer](https://fluxer.app) gibt es aber [eine Alternative](https://www.tech2geek.net/fluxer-the-open-source-alternative-to-discord/) aus Schweden, die [Open Source ist](https://github.com/fluxerapp/fluxer), aktuell noch mit einem zentralen Server, soll aber in Zukunft auch [förderiert funktionieren](https://feddit.org/post/25853089).
+
 Am Ende hilft am besten doch nur Hilfe zur Selbsthilfe: Die Genossenschaft [101coop](https://101.coop) soll NGOs mit digitaler Infrastruktur & IT-Dienstleistungen versorgen.
 
 ## Open Source Hard- und Software
-* Fluxer: A Swedish Discord alternative that's open source
-  https://feddit.org/post/25853089
-* Open Source lebt nicht vom „Read-only“
-  https://wechange.coop/2026/02/18/petition-open-source/
-  https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland
-* What happens when a large open source project dies?
-  https://nesbitt.io/2026/02/21/whale-fall.html
-* Kabinettsbeschluss zum ÖkodesignG: Wichtige Fortschritte für Reparaturinitiativen
-  https://okfn.de/blog/2026/02/kabinettsbeschluss-zum-%C3%B6kodesigng-wichtige-fortschritte-f%C3%BCr-reparaturinitiativen/
+Andrew Nesbitt [zeichnet auf seinem Blog](https://nesbitt.io/2026/02/21/whale-fall.html) an einigen Beispielen nach, was passiert, wenn große Open-Source-Projekt sterben, sei es weil die Hauptentwickler wegen z.B. Burnout aufgeben, die Firma hinter dem Projekt die Lizenz ändert, oder interne Streitereien: von Leichenfledderei bis fortlaufende Neubesiedlung in Form von Forks und Forks von Forks, die aber durchaus das Open-Source-Ökosystem bereichern können, wenn irgendwann der dadurch entstehende Wildwuchs auch wieder konsoldiert wird. Am Ende braucht es Menschen, die kontuierlich an solchen Projekten arbeiten können. Boris Hinzer, Vizepräsident der TYPO3 Association, hat deswegen [eine Petition](https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland) gestartet, [die fordert](https://wechange.coop/2026/02/18/petition-open-source/), dass Open-Source-Arbeit als Ehrenamt in Deutschland anerkannt wird. Diese Einstuftung würde Aufwandsentschädigung, Spenden und Zuwendungen erleichtern, die Haftung klarer geregelt und das persönliche Haftungsrisiko bei durch Fehlern in der Software entstandene Schäden deutlich begrenzt.
+
+Im überarbeiteten Entwurf des Ökodesign-Gesetzes (ÖkodesignG) [wurden viele Kritikpunkte aufgegriffen](https://okfn.de/blog/2026/02/kabinettsbeschluss-zum-%C3%B6kodesigng-wichtige-fortschritte-f%C3%BCr-reparaturinitiativen/). Maßnahmen wie die Einführung der Eigenerklärung für Reparaturinitiativen, niedrigschwelligen Nachweis eines geeigneten Versicherungsschutzes und eine Übersicht der zu erbringende Nachweise machen den Zugang zu Ersatzteilen und Reparaturinformationen für nicht-gewerbliche Reparateure verbindlicher und praxistauglicher.
 
 ## Digitalisierung
-* Trotz Sicherheitsbedenken: Düsseldorfer Stadtrat will anonyme digitale Abstimmungen
-  https://netzpolitik.org/2026/trotz-sicherheitsbedenken-duesseldorfer-stadtrat-will-anonyme-digitale-abstimmungen/
-* Digitale Demokratie: Ostdeutsche Kleinstädte hängen den Westen ab
-  https://www.heise.de/news/Digitale-Demokratie-Ostdeutsche-Kleinstaedte-haengen-den-Westen-ab-11173651.html
-* KI und Datenschutz: Wo der Digitale Omnibus der EU gerade hinrollt
-  https://netzpolitik.org/2026/ki-und-datenschutz-wo-der-digitale-omnibus-der-eu-gerade-hinrollt/
-* Digitaler Euro: Einführung kostet die EU-Banken Milliarden
-  https://www.heise.de/news/Digitaler-Euro-Einfuehrung-kostet-die-EU-Banken-Milliarden-11183340.html
-* „Den gläsernen Bürger nicht nur rechtlich, sondern auch technisch verhindern“
-  https://netzpolitik.org/2026/interview-zu-personenkennzeichen-den-glaesernen-buerger-nicht-nur-rechtlich-sondern-auch-technisch-verhindern/
-* Digitalminister plant bundesweite Bürger-App
-  https://www.heise.de/news/Das-wird-krass-Digitalminister-plant-bundesweite-Buerger-App-11192475.html
-* Stellungnahme des Bündnis F5 zum Digitalen Omnibus
-  https://okfn.de/blog/2026/02/stellungnahme-des-b%C3%BCndnis-f5-zum-digitalen-omnibus/
+In seiner [zweiten Stellungnahme](https://okfn.de/files/publikationen/2026-02-13_F5_OmnibusKommentierung.pdf) zum Digitalen Omnibuspaket der EU-Kommission
+fordert das Bündnis F5 den objektiven Personenbezug zu erhalten, rechtliche
+Schlupflöcher zu verhindern, die Schutzstandards für pseudonymisierte Daten nicht
+administrativ abzusenken, das Forschungsprivileg klar zu begrenzen, Auskunftsrechte vor missbräuchlicher Einschränkung zu schützen, klare Regeln für KI-Datenverarbeitung auszuformulieren, statt nur pauschale Öffnungsklauseln vorzusehen, sensibler Daten auch im KI-Kontext konsequent zu schützen sowie die Nutzung von offenen Standardlizenzen zu stärken, statt mit eigenen Lizenzen die Herausgabe von offenen Daten an besondere Bedingungen und Kosten zu binden und damit das Prinzip Open-by-Default zu unterlaufen.
 
-## Gesundheit
-* Gesundheitsdatengau verhindern
-  https://www.ccc.de/de/updates/2026/fdz-gesundheitsdaten
+Im Forschungsprojekt "Erfolgsfaktoren lokaler E-Partizipation" wurden in einer Studie über 10.000 Kommunen befragt, von denen 2390 auch geantwortet haben. [Die Auswertung hat ergeben](https://www.heise.de/news/Digitale-Demokratie-Ostdeutsche-Kleinstaedte-haengen-den-Westen-ab-11173651.html), dass gerade die ostdeutschen Klein- und Mittelstädte deutlich häufiger digitale Beteiligung anbieten. Hauptmotivation dieser Städte war es, "überhaupt die absolute Zahl der Beteiligten zu erhöhen". Während in den Großstädten eher bei großen Transformationsthemen wie Verkehrswende und Klima beteiligt wird und dort auch eigene Personalstellen zur Verfügung stehen, müssen die städtischen Angestellten in den kleineren Kommunen die Beteiligungsprozesse nebenbei stemmen und dort geht es auch eher um Themen wie Beseitigung von Schlaglöchern und die Gestaltung des Dorfplatzes.
+  
+2009 stoppte das Bundesverfassungsgericht die Verwendung der seit 1999 eingesetzten Wahlcomputer mit der Begründung, dass gemäß Grundgesetz alle wesentlichen Schritte einer Wahl ohne besondere Kenntnisse öffentlich überprüfbar sein müssten. Der Düsseldorfer Stadtrat will nun jedoch wieder anonyme digitale Abstimmungen zulassen. Trotz technologischen Fortschritt besteht aber weiterhin das Problem, dass man der eingesetzen Software vertrauen muss, Wahlstimmen wären nur mit Pseudonymen gekennzeichnet überprüfbar und neuauszählbar, damit riskiere man aber die Deanonymisierung. Die eingesetzte Software OpenSlides diskutiert in ihrem [Konzept für geheime Wahlen](https://github.com/OpenSlides/OpenSlides/wiki/DE%3AKonzept-geheime-Wahlen-mit-OpenSlides) auch die verschiedene Angriffsszenarien.
+
+Mit dem "bereichsspezifische Personenkennzeichen" als Einweg-Kennzeichen versucht man in Österreich den gläsernen Bürger nicht nur rechtlich, sondern auch technisch [zu verhindern](https://netzpolitik.org/2026/interview-zu-personenkennzeichen-den-glaesernen-buerger-nicht-nur-rechtlich-sondern-auch-technisch-verhindern/). Trotzdem könnten Behörden digital untereinander Daten mit Bürger-Bezug austauschen. Damit bräuchte es keine lebenslange Steuer-ID, die Deutschland gerade plant für jeden Bürger ab Geburt einzuführen.
 
 ## Karten
 * GIS dissolution
