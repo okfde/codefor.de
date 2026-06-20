@@ -116,33 +116,12 @@ Der zweigleisige Ausbau und die Elektrifizierung der der Bahnstrecke Chemnitz-Le
 Das [Radnetz-Monitoring](https://changing-cities.org/radnetz-monitoring-2025/) für Berlin von Changing Cities dokumentiert den Stillstand bei nur 6,8 Prozent teilweiser Fertigstellung des Radnetzes in 8 Jahren, obwohl nach Mobilitätsgesetz das ein Radnetz 2030 ein Länge von 2.700 km haben sollte.
 
 ## Energie
-* Energiewende-Monitor
-  https://social.tchncs.de/@wpschill/116050931540273487
-* Afrika wird zum wichtigsten Wachstumsmotor im globalen Solarmarkt
-  https://www.dmz-news.online/2026/02/18/afrika-wird-zum-wichtigsten-wachstumsmotor-im-globalen-solarmarkt/
-* Energieversprechen seit 70 Jahren verfehlt: Vor 2050 ist Kernfusion in Deutschland nicht zu erwarten
-  https://www.l-iz.de/bildung/forschung/2026/02/energieversprechen-seit-70-jahren-verfehlt-vor-2050-kernfusion-deutschland-nicht-zu-erwarten-647845
-  * How solar outgrew expectations
-    https://mastodon.social/@343max/116110396839769845
-  * Atom-Pläne mit neuartigen Reaktoren „fern jeder Realität“
-    https://www.vdi-nachrichten.com/technik/energie/die-langfristige-entwicklung-der-kernenergie-zwischen-erwartung-und-realitaet/
+Wolf-Peter Schill [analysiert die Trends](https://social.tchncs.de/@wpschill/116050931540273487), die sich aus den aktuellen Zahlen des [DIW Energiewende-Monitors](https://www.diw.de/de/diw_01.c.997303.de/diw_energiewende-monitor.html) ablesen lassen. So schreitet der Ausbau der erneuerbaren Energien zwar voran, ist aber aktuell immer noch weit von den 2030-Zielen entfernt, vor allem bei Windkraft, speziell auf dem Meer, fehlen noch Anlagen. Auch Wärmepumpen und Elektrofahrzeugen gibt es noch zu wenige. Bei den Batteriespeichern sind die Hälfte noch allein im Heimbereich, hier fehlt der Zubau industrieller Großspeicher. Aber die Richtung stimmt und es gibt keinen Grund auf die Bremse zu treten. Leider gibt es immer noch Ewiggestrige, die die Lösung aller Energieprobleme im Bau von Kernfusionskraftwerken sehen. Diese werden zwat seit Jahrzehnten für "in einigen Jahren" angekündigt, vor 2050 [wird es nach seriöser wissenschaftlicher Einschätzung](https://www.l-iz.de/bildung/forschung/2026/02/energieversprechen-seit-70-jahren-verfehlt-vor-2050-kernfusion-deutschland-nicht-zu-erwarten-647845) keines geben. Auch Pläne zu neuartigen Atomreaktoren werden als ["fern jeder Realität"](https://www.vdi-nachrichten.com/technik/energie/die-langfristige-entwicklung-der-kernenergie-zwischen-erwartung-und-realitaet/). Entsprechend sollten öffentliche Mittel besser in Technologien mit kurzfristigem Nutzungspotenzial investiert werden. Die Solarenergie [übertrifft sogar alle Erwartungen](https://mastodon.social/@343max/116110396839769845). So wuchs in Afrika im Jahr 2025 [die Solarkapazität um 17 Prozent](https://www.dmz-news.online/2026/02/18/afrika-wird-zum-wichtigsten-wachstumsmotor-im-globalen-solarmarkt/), dabei sind noch nicht mal alle bereits installierten Module ans Netz angeschlossen.
 
 ### Reiches Netzpaket
-* Reiches "Netzpaket": Gutachter sehen Verstoß gegen europäisches Recht  
-  https://www.t-online.de/heim-garten/aktuelles/id_101134784/netzpaket-von-reiche-europarechtlich-unzulaessig.html
-  * Wir kommen zu einem Debakel, das der Maut 2.0 ähnelt
-    https://www.focus.de/earth/netzpaket-reiche-energiewende-wir-kommen-zu-einem-debakel-das-der-maut-2-0-aehnelt_329ee221-5ad1-4f6f-a7a8-325e2a822ca3.html
-  * Gundel Gaukeley
-    https://bsky.app/profile/corisprotte.bsky.social/post/3mfcecngkpc2k
-* Attacke auf den Ausbau der Erneuerbaren Energien, Teil 1: Das sogenannte Netzpaket
-  https://www.l-iz.de/wirtschaft/metropolregion/2026/02/attacke-auf-den-ausbau-der-erneuerbaren-energien-teil-1-sogenannte-netzpaket-647936
-  https://www.l-iz.de/wirtschaft/metropolregion/2026/02/attacke-auf-den-ausbau-der-erneuerbaren-energien-teil-2-schildburgerstreich-namens-agnes-648033
-* Ökostrom: Was Reiches Netzpaket für Sachsen bedeutet
-  https://www.diesachsen.de/wirtschaft/oekostrom-was-reiches-netzpaket-fuer-sachsen-bedeutet-3106105
-* Baustopp für Wind und Solar: Ein Frontalangriff auf die Energiewende?
-  https://www.basicthinking.de/blog/2026/02/12/baustopp-fuer-wind-und-solar-ein-frontalangriff-auf-die-energiewende/
-* EEG-Entwurf geleakt – komplette Streichung der Förderung privater Photovoltaik-Anlagen vorgesehen
-  https://www.pv-magazine.de/2026/02/26/eeg-entwurf-geleakt-komplette-streichung-der-foerderung-privater-photovoltaik-anlagen-vorgesehen/
+Wie aus einem geleakten [Gesetzesentwurf](https://table.media/assets/climate/referentenentwurf-netzanschlusspaket.pdf) ("Netzpaket") hervor geht, plant das Wirtschaftsministerium, den sogenannten Anschlussvorrang für erneuerbare Energien abzuschaffen. Denn mit dem geplanten "Redispatch-Vorbehalt" müssen Netzbetreiber nur noch solche erneuerbaren Anlagenbetreiber anschließen, die von sich aus auf finanzielle Entschädigung für die abgeregelten Energiemengen verzichten, wenn sie also mehr Strom produzieren, als ins Netz eingespeist werden kann. Dies würde aber den Ausbau erneuerbarer Energie in netzschwachen Regionen ausbremsen, da Investoren mit höheren Risiko kalkulieren müssten. Fossile Kraftwerke werden dahingegen weiter durch Entschädigungszahlungen abgesichert. Ein klare Marktverzerrung. Die Redispatch-Kosten [müssten stattdessen](https://www.l-iz.de/wirtschaft/metropolregion/2026/02/attacke-auf-den-ausbau-der-erneuerbaren-energien-teil-2-schildburgerstreich-namens-agnes-648033) auf die Netzbetreiber umgelegt werden, ohne dass diese die Kosten an die Kunden weitergeben dürfen. Nur so würde erst der nötige Druck auf sie entstehen, die Netze endlich schnell auszubauen und zu digitalisieren. Und auch die [Allgemeinen Netzentgeltsystematik Strom (AgNes)Vorschläge](https://www.bundesnetzagentur.de/DE/Beschlusskammern/GBK/Ebene1_Rahmen/AgNes/start.html) der Bundesnetzagentur setzen die völlig falschen Anreize beim Speicherausbau. Denn um die hohen Netzgebühren gleichmäßiger zu verteilen, sollen Speicher nun auch diese Kosten mittragen. Die Gebühren sind aber gerade durch die Abregelungskosten so hoch und (zusätzliche) Speicher würden eigentlich helfen diesen Redispatchbedarf zu verringern und damit die Kosten senken. Nur mit der nun geplanten zusätzlichen Kostenbelastung der Speicher wird man gerade den gegenteiligen Effekt bekommen.   
+
+Gutachter sehen im Netzpaket [ein Verstoß gegen EU-Recht](https://www.t-online.de/heim-garten/aktuelles/id_101134784/netzpaket-von-reiche-europarechtlich-unzulaessig.html) (VO (EU) 2019/943 Art. 13 (Redispatch)). Das regelt, dass Netzanschlüsse auch bei Engpässen möglich bleiben sollen, Einschränkungen dürfen nur zeitweise gelten und es muss faire Ausgleichsregelungen geben. Da aber Netzbetreiber nach Vorstellung des Netzpakets einfach selbst Gebiete zeitliche unbegrenzt und ohne konkrete Begründung als kapazitätslimitiert kennzeichnen können. Auch die Möglichkeit für die Netzbetreiber, einer Anlage den Anschluss zu verweigern, wenn diese sich nicht bereit erklärt, auf Ausgleichzahlungen verzichten, widerspricht geltenden EU-Gesetzen, die nur einen freiwilligen Verzicht vorsieht.
 
 ### Heizungsgsetz
 * Heizen soll wieder Spaß machen
