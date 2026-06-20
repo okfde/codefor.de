@@ -104,34 +104,16 @@ Im Forschungsprojekt "Erfolgsfaktoren lokaler E-Partizipation" wurden in einer S
 Mit dem "bereichsspezifische Personenkennzeichen" als Einweg-Kennzeichen versucht man in Österreich den gläsernen Bürger nicht nur rechtlich, sondern auch technisch [zu verhindern](https://netzpolitik.org/2026/interview-zu-personenkennzeichen-den-glaesernen-buerger-nicht-nur-rechtlich-sondern-auch-technisch-verhindern/). Trotzdem könnten Behörden digital untereinander Daten mit Bürger-Bezug austauschen. Damit bräuchte es keine lebenslange Steuer-ID, die Deutschland gerade plant für jeden Bürger ab Geburt einzuführen.
 
 ## Karten
-* GIS dissolution
-  https://spatialists.ch/posts/2026/02/01-gis-dissolution/
-* How to Download and Visualize NASA-ISRO NISAR Data in QGIS | Step-by-Step Tutorial
-  https://www.youtube.com/watch?v=oRTplHPf_T0
-  https://github.com/opengeos/qgis-nasa-earthdata-plugin
-  https://science.nasa.gov/mission/nisar/
-  https://techhub.social/@GregCocks/116009692607077562
-* Maproulette Challenges
-  https://maproulette.org/browse/challenges
-* Photon 1.0.0 released
-  https://nominatim.org/2026/02/11/photon-1.0-released.html
-* Owning Your Workout Data with Java, Quarkus, and PostGIS
-  https://www.the-main-thread.com/p/java-quarkus-apple-health-gpx-postgis
-* a small web tool to generate GeoJSON from OpenStreetMap public transport route relations.
-  https://openstreetmap.tools/public_transport_geojson/
-  https://hachyderm.io/@edward/116144674417539022
+Geoinformationssysteme (GIS) sind in den letzten Jahren immer modularer geworden, dank Docker kann man sich die passende lauffähige Infastruktur leicht zusammenkonfigurieren, und mit KI-Chatbots fallen nun auch die Syntaxbarrieren, wie man die richtige Anfrage stellt. Für [Bill Dollins bleibt](https://blog.geomusings.com/2026/01/28/post-gis-revisited/) nun die einzige zu überwindende Barriere, die Fähigkeit, die fachliche Problemstellung gründlich verstanden zu haben, wie man iterativ gute (natürlichsprachige) Abfragen stellt und man auch in der Lage ist zu erkennen (und verifizieren zu können), ob das so erhaltene Ergebnis überhaupt korrekt ist. Fehler in der Prozesskette zu finden, wird die große Herausforderung werden.
+
+Wie man NASA-ISRO [NISAR](https://science.nasa.gov/mission/nisar/) Satellitendaten in QGIS (mit einem [Plugin](https://github.com/opengeos/qgis-nasa-earthdata-plugin)) herunterlädt und die in ihnen enthaltenen Bodenfeuchtedaten darstellt, [erklärt](https://techhub.social/@GregCocks/116009692607077562) eine [Schritt-für-Schritt-Anleitung](https://www.youtube.com/watch?v=oRTplHPf_T0).
 
 ## Mobilität
-* Leider geil: Internetspiel nimmt Bahnstrecke Chemnitz-Leipzig aufs Korn
-  https://www.mdr.de/nachrichten/sachsen/chemnitz/chemnitz-stollberg/satire-spiel-ausbau-elektrifizierung-bahnstrecke-leipzig-100.html
-* Ein Dashboard zu den Verspätungen & Ausfällen bei der Bahn
-  https://verspaetung.net
-  https://mastodon.social/@lorz/116047623507756141
-* OpenStop App
-  https://openstop.app
-  https://mastodon.social/@eliasp/116098075786480842
-* Radnetz-Monitoring Berlin
-  https://changing-cities.org/radnetz-monitoring-2025/
+Mit dem Dashboard [verspaetung.net](https://verspaetung.net) dokumentiert der Journalist Lorenz Matzat [systematisch](https://lorenzmatzat.substack.com/p/verspaetung-punkt-net) Verspätungen (ab 5 Minuten) und Ausfällen bei der Deutschen Bahn in den nächsten 60 Minuten an 18 Bahnhöfen. Dazu werden alle Züge gezählt, die einseits in diesem Zeitraum planmässig hätten eintreffen und/oder abfahren sollen als auch die tatsächlich eintreffenden Züge, deren Ankunft/Abfahrt laut Fahrplan aber in der Vergangenheit liegt. Die Datengrundlage stammt vom [Open-Data-Angebot](https://developers.deutschebahn.com/db-api-marketplace/apis/product/timetables) der Bahn selbst.
+
+Der zweigleisige Ausbau und die Elektrifizierung der der Bahnstrecke Chemnitz-Leipzig lässt weiterhin auf sich warten, letztere was dabei sogar schon 1933 vom Sächsischen Landtag kurz vor seiner Auflösung beschlossen worden. [Ein Internetspiel](https://www.mdr.de/nachrichten/sachsen/chemnitz/chemnitz-stollberg/satire-spiel-ausbau-elektrifizierung-bahnstrecke-leipzig-100.html) nimmt nun die Farce aus endlosen Bahngipfeln, fehlenden Budget und Bauverzögerungen satierisch aufs Korn.
+
+Das [Radnetz-Monitoring](https://changing-cities.org/radnetz-monitoring-2025/) für Berlin von Changing Cities dokumentiert den Stillstand bei nur 6,8 Prozent teilweiser Fertigstellung des Radnetzes in 8 Jahren, obwohl nach Mobilitätsgesetz das ein Radnetz 2030 ein Länge von 2.700 km haben sollte.
 
 ## Energie
 * Energiewende-Monitor
