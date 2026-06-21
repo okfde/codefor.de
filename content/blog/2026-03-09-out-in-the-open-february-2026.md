@@ -154,33 +154,22 @@ Der Klimawandel beschleunigt sich immer mehr, aber die Anpassung von Flora und F
 Eine Analyse von Weltwetterattributionsforschern [belegt](https://science.orf.at/stories/3234377/), dass die Tage mit den heftigsten Niederschlägen in Südwesteuropa durch den Klimawandel um ein Drittel nasser geworden sind. 
 
 ## Kultur
-* 1300 Jahre alte Weltchronik in Katharinenkloster auf dem Sinai entdeckt
-  https://www.derstandard.de/story/3000000307343/1300-jahre-alte-weltchronik-in-katharinenkloster-auf-dem-sinai-entdeckt
-* Bibliotheksgeschichte zum Mitmachen
-  https://www.saxorum.de/mitmachen/bibliotheksgeschichte-zum-mitmachen
-  https://openbiblio.social/@slubdresden/116096237734395497
-* artresearch.net
-  https://artresearch.net/resource/:start
-  https://det.social/@HxxxKxxx/116127620848958856
-* archaeo3d.de
-  https://archaeo3d.de
-  https://dresden.network/@Zahlenzauberin/116132870399842975
-* Gute Nachrichten für offenes Kulturerbe: Das Bundesarchiv unterstützt das Open Heritage Statement!
-  https://openheritagestatement.org/statement
-  https://social.wikimedia.de/@wikimediaDE/116141191533923213
-* SODa Semantic Co-Working Space
-  https://fedihum.org/@SODa/116138107202652735
-* Archäologische Schätze der Ukraine als 3D-Projekt gerettet
-  https://www.nordisch.info/panorama/klasse-aktion-archaeologische-schaetze-der-ukraine-als-3d-projekt-gerettet/
+Weniger als 1 % der Kulturerbe-Institutionen weltweit haben eine Open-Access-Policy für digitalisiertes Kulturerbe implementiert. Das von Creative Commons initiierte [Open Heritage Statement](https://openheritagestatement.org) ist ein weltweiter Aufruf für einen gerechten Zugang zum gemeinfreien Kulturerbe im digitalen Umfeld. Es wurde derzeit von ca. 70 von Organisationen und Initiativen unterschrieben. Wikimedia Deutschland gehört zu den Erstunterzeichnenden. Nun unterstützt [auch das Bundesarchiv](https://social.wikimedia.de/@wikimediaDE/116141191533923213) den Aufruf.
+
+Der [SODa Semantic Co-Working Space](https://sammlungen.io/kb/scs) des [Datenkompetenzzentrum für wissenschaftliche Universitätssammlungen](https://sammlungen.io) ist ein modularer "Werkzeugkasten", der den gesamten sammlungsbezogenen Forschungsdatenlebenszyklus unterstützt. [Mit Tools](https://fedihum.org/@SODa/116138107202652735) wie der Forschungsumgebung WissKI, OpenRefine, Nextcloud-Integration, OnlyOffice, draw.io und JupyterHub gelingt der schnelle Einstieg und verbessert die Zusammenarbeit durch interoperable Standards. 
+
+Das Saxorum, das Landeskundeportal der Sächsische Landes- und Universitätsbibliothek Dresden (SLUB), verspricht [Bibliotheksgeschichte zum Mitmachen](https://openbiblio.social/@slubdresden/116096237734395497): hilf mit, aus den digitalisierten historischen Fremden-Büchern die 16.300 Gäste zu entziffern. 
+
+[Eine neue 3D-Ausstellung](https://tapestry.cyark.org/content/ukraine-museum) macht [das bedrohte kulturelle Erbe](https://www.nordisch.info/panorama/klasse-aktion-archaeologische-schaetze-der-ukraine-als-3d-projekt-gerettet/) der Ukraine einer breiten Öffentlichkeit in Form hochauflösende 3D-Modelle [virtuell zugänglich](https://cyark.org/whoweare/blog/?p=new-virtual-museum-brings-ukrainian-heritage-to-the-world).
+
+[artresearch.net](https://artresearch.net/) bietet Zugang zu Millionen von Fotografien von Kunstwerken sowie zu kunsthistorischen Dokumenten.
 
 ## Journalismus und Demokratie
-* "Keine Sendezeit für Antidemokraten", fordern Medienschaffende und Forscher
-  https://www.derstandard.de/story/3000000308864/afd-chef-chrupalla-in-ard-talk-appell-gegen-normalisierung-der-extrem-rechten
-  https://bsky.app/profile/politicalbeauty.bsky.social/post/3medixewaus25
-* Die Arroganz der Macht
-  https://www.t-online.de/nachrichten/tagesanbruch/id_101146816/politiker-fuerchten-das-volk-.html
-* Was die Übernahme von Warner für CNN bedeuten könnte
-  https://www.zdfheute.de/politik/ausland/warner-bros-paramount-netflix-uebernahme-cnn-trump-usa-100.html
+Hunderte Medienschaffende und Forschende [unterstützen](https://www.derstandard.de/story/3000000308864/afd-chef-chrupalla-in-ard-talk-appell-gegen-normalisierung-der-extrem-rechten) als Reaktion auf die Caren-Miosga-Sendung mit dem Titel "Ist Trump ein Vorbild für Deutschland, Herr Chrupalla?" einen ["Appell für einen demokratischen und humanistischen Diskurs in den Medien"](https://appell2026.de). Er fordert die Medien(-redaktionen) auf im Sinne des Programmauftrags im Medienstaatsvertrags menschenfeindliche und antidemokratische Ideologie als solche zu benennen und deutlich zurückzuweisen, statt sie zu verharmlosen und gar als mögliche Alternative zu einer demokratischen und auf humanistischen Werten basierenden Gesellschaftsordnung darzustellen. Man wundert sich einfach nur noch, wie eine aus mehreren Menschen bestehende Redaktion einen solchen Sendungstitel als geeignet befinden können. Wer sich an den Werten des Grundgesetzes orientiert, ist nicht parteiisch oder unausgewogen, und muss entsprechend auch nicht Inhalten und Personen eine Bühne bilden, die sich diesen offen entgegenstellen.
+
+In den USA hat die Mediengruppe Paramount das Medienunternehmen Warner [übernommen](https://www.zdfheute.de/politik/ausland/warner-bros-paramount-netflix-uebernahme-cnn-trump-usa-100.html). Zu Warner gehört auch der Nachrichtensender CNN. Schon nach der Übernahme des Senders CBS durch Paramount gab es personelle und redaktionelle Entscheidungen hin zu einer trumpfreundlicheren Berichterstattung.
+
+Knapp 40 Prozent der Menschen in Deutschland, in Ostdeutschland sogar 49 Prozent, sind unzufrieden, wie die repräsentative Demokratie aktuell funktioniert. Viele fühlen sich eben nicht repräsentiert und vertrauen dem Politikbetrieb nicht. Bürgerräten haben sich in vielen anderen europäischen Ländern aber auch schon hierzulande auf kommunaler und Bundesland-Ebene als gute Beteiligungsform erwiesen. Frei von Partei- und Lobbyzwängen erarbeiten diskursiv zufällig (aber trotzdem repräsentativ) geloste gewöhnliche Menschen Empfehlungen für die Lösung einer vorgegebenen Problemstellung. Unter der Ampelregierung wurde ein Bürgerrat auch auf Bundesebene eingesetzt. Die 160 Mitglieder hatten vor zwei Jahren in ihrem Abschlussbericht neun konkrete Vorschläge unterbreitet, wie gesunde, faire und nachhaltige Ernährung für 83 Millionen Menschen gelingen könnte. [Bisher wurde keiner dieser Vorschläge umgesetzt](https://www.t-online.de/nachrichten/tagesanbruch/id_101146816/politiker-fuerchten-das-volk-.html), weil sich keine Mehrheiten für sie im zuständigen Ausschusses gefunden hätten. Bundestagspräsidentin Julia Klöckner hat Ende November 2025 sogar die Stabsstelle Bürgerräte im Bundestag ganz aufgelöst, obwohl im Koalitionsvertrag dessen Fortsetzung festgeschrieben hatte. Besser kann man nicht dokumentieren, wie egal den Politikern ihr Volk ist.
 
 ## Transparenz
 * Korruptionswahrnehmungsindex (Corruption Perceptions Index, CPI) 2025
