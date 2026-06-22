@@ -172,55 +172,34 @@ In den USA hat die Mediengruppe Paramount das Medienunternehmen Warner [übernom
 Knapp 40 Prozent der Menschen in Deutschland, in Ostdeutschland sogar 49 Prozent, sind unzufrieden, wie die repräsentative Demokratie aktuell funktioniert. Viele fühlen sich eben nicht repräsentiert und vertrauen dem Politikbetrieb nicht. Bürgerräten haben sich in vielen anderen europäischen Ländern aber auch schon hierzulande auf kommunaler und Bundesland-Ebene als gute Beteiligungsform erwiesen. Frei von Partei- und Lobbyzwängen erarbeiten diskursiv zufällig (aber trotzdem repräsentativ) geloste gewöhnliche Menschen Empfehlungen für die Lösung einer vorgegebenen Problemstellung. Unter der Ampelregierung wurde ein Bürgerrat auch auf Bundesebene eingesetzt. Die 160 Mitglieder hatten vor zwei Jahren in ihrem Abschlussbericht neun konkrete Vorschläge unterbreitet, wie gesunde, faire und nachhaltige Ernährung für 83 Millionen Menschen gelingen könnte. [Bisher wurde keiner dieser Vorschläge umgesetzt](https://www.t-online.de/nachrichten/tagesanbruch/id_101146816/politiker-fuerchten-das-volk-.html), weil sich keine Mehrheiten für sie im zuständigen Ausschusses gefunden hätten. Bundestagspräsidentin Julia Klöckner hat Ende November 2025 sogar die Stabsstelle Bürgerräte im Bundestag ganz aufgelöst, obwohl im Koalitionsvertrag dessen Fortsetzung festgeschrieben hatte. Besser kann man nicht dokumentieren, wie egal den Politikern ihr Volk ist.
 
 ## Transparenz
-* Korruptionswahrnehmungsindex (Corruption Perceptions Index, CPI) 2025
-  https://www.transparency.de/cpi/cpi-2025
-* Rechnungshof-Jahresbericht: Managementfehler und dubiose Beschlüsse bei Dataport Phoenix
-  https://www.golem.de/news/rechnungshof-jahresbericht-managementfehler-und-dubiose-beschluesse-bei-dataport-phoenix-2602-205486.html
-* Reiches Dienstwagen fuhr 1300 Kilometer ohne Reiche
-  https://www.spiegel.de/politik/deutschland/katherina-reiche-liess-bei-vip-gipfel-in-tirol-dienstwagen-1300-kilometer-leer-fahren-a-38c6834d-a9e3-4f2d-9939-3ccee14fbce8
-  https://bewegung.social/@lobbycontrol/116103937810708392
-* Open Access: Der Preis für freie Wissenschaft
-  https://fragdenstaat.de/artikel/exklusiv/2026/02/der-preis-fur-freie-wissenschaft/
-* Umweltverschmutzung: Das unsichtbare Gift im Rhein
-  https://correctiv.org/aktuelles/kampf-um-wasser/2026/02/03/wie-die-industrie-den-rhein-mit-unbekannten-stoffen-verschmutzt/
-* Benjamin Brake arbeitete im Ministerium an der Regulierung von Künstlicher Intelligenz. Jetzt setzt er sich für ihre Deregulierung ein.
-  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/ex-abteilungsleiter-wechselt-zur-tech-lobby
-* Rücktrittsforderung an AfD-Personalchef: Vetternwirtschaft ist der gordische Knoten
-  https://taz.de/Ruecktrittsforderung-an-AfD-Personalchef/!6157504/
-  https://chaos.social/@lalonsander/116130949643068571
-  * „Family and Friends“: Tracker zur Vetternwirtschaft bei der AfD
-    https://correctiv.org/aktuelles/kandidierenden-check/2026/02/27/afd-vetternwirtschaft-tracker-uebersicht-grafik-aktuell/
-* Jmail reimagines Jeffrey Epstein's publicly released emails as an interactive Gmail-style inbox
-  https://jmail.world
-  https://mas.to/@nemo/116143369433801220
-* Angriffe auf Zivilgesellschaft: Die Extremismusklausel ist zurück
-  https://fragdenstaat.de/artikel/exklusiv/2026/02/angriffe-auf-zivilgesellschaft/
+Bereits die 2011 eingeführte [Extremismusklausel](https://de.wikipedia.org/wiki/Extremismusklausel), wurde vom Dresdner Verwaltungsgericht als rechtswidrig eingestuft, da zu unbestimmt war, nach welchen Kriterien zu entscheiden sei, ob Partner der geförderten Organisation sich zu den Zielen des Grundgesetzes bekennen, und was überhaupt als extremistisch und demokratiefeindlich gilt. Anfang 2014 wurde die Klausel wieder abgeschafft. Nun ist sie leider [wieder zurück](https://fragdenstaat.de/artikel/exklusiv/2026/02/angriffe-auf-zivilgesellschaft/). So sollen geförderte Organisationen nicht nur ihre Kooperationspartner sondern auch Teilnehmende ihrer Veranstaltungen überprüfen (wie auch immer das zu bewerkstelligen ist). Dazu passt, dass Daten von zivilgesellschaftlichen Organisationen und Privatpersonen, die Fördermittel beim Bund beantragen, jetzt schon in großer Zahl an das Bundesamt für Verfassungsschutz zur Überprüfung geschickt werden. FragDenStaat stellt Musteranträge zur Verfügung, mit denen man beim Verfassungsschutz und den zuständigen Ministerien abfragen kann, was mit den eigenen Daten passiert ist.
+
+Dass sich die Zivilgesellschaft in Deutschland als wichtige Kontrollinstanz zunehmend Angriffen in Form von Diffamierungsnarrativen ausgesetzt sieht, wurde auch bei der Veröffentlichung des  [Korruptionswahrnehmungsindex](https://www.transparency.de/cpi/cpi-2025) (Corruption Perceptions Index, CPI) 2025 am 10. Februar thematisiert. Aus dem Index kann man ablesen, dass Korruption weltweit zunimmt. Heute sind es nur noch fünf Länder, die mehr als 80 Punkte erreichen, vor zehn Jahren waren es noch zwölf. Deutschland hat sich gegenüber dem Vorjahr zwar um 2 Punkte auf nun 77 Punkte verbessert, fällt aber in der Korruptionsbekämpfung zurück. 
+
+Über die AfD, die in der Vergangenheit gerne den anderen Parteien vorgeworfen hat, Vetternwirtschaft zu betreiben, [sind zahlreiche Fälle](https://taz.de/Ruecktrittsforderung-an-AfD-Personalchef/!6157504/) aus ihren Landesverbänden bekannt geworden, in denen Abgeordnete  eigene Verwandte oder die ihrer Parteikollegen beschäftigen. In Sachsen-Anhalt besteht auch Verdacht der Scheinbeschäftigung, da 22 AfD-Abgeordnete 156 Mitarbeitende haben, während die 40 Abgeordneten der CDU mit 125 auskommen. Das alles auf Kosten des Steuerzahlers. [Correctiv zeigt](https://correctiv.org/aktuelles/kandidierenden-check/2026/02/27/afd-vetternwirtschaft-tracker-uebersicht-grafik-aktuell/) alle bislang bekannten Filz-Fälle.
+
+Dataport, staatlichen Dienstleister und Anstalt des öffentlichen Rechts (AöR), sollte mit dem Open-Source-Projekt Phoenix seit 2012 eine Alternative zu Microsoft 365 speziell für Behörden bauen. Viel Steuergeld floss nur Ergebnisse ließen weiterhin auf sich warten. Schlesig-Holstein stieg schließlich aus dem Projekt aus und wurde auch ohne Dataport Vorreiter in Sachen Open Source. Der Jahresbericht des Hamburger Rechnungshofs [bestätigt nun](https://www.golem.de/news/rechnungshof-jahresbericht-managementfehler-und-dubiose-beschluesse-bei-dataport-phoenix-2602-205486.html) das Missmanagement bei Dataport. 
+
+Wissenschaftsverlage wie Elsevier, Springer Nature oder Wiley bekommen von Hochschulen Geld dafür, dass sie Forschungsergebnisse veröffentlichen. Durch den Umstand, dass jede Uni die Preis mit den Verlagen neu aushandeln musste und es entsprechend keine Transparenz über die Preispolitik gab, stiegen in den 2000er die Kosten fürs Publizieren immer weiter an. Als Reaktion schloss man sich man zum Konsortium [DEAL](https://deal-konsortium.de/) zusammen, damit dieses mit den Verlagen neue Verträge aushandeln konnte, die auch [öffentlich einsehbar](https://deal-konsortium.de/vertraege) waren, so dass nun für alle Wissenschaftsbetriebe die gleichen Preise galten. So stieg auch die Quote der Open-Access-Artikel auf 67%, [doch Kosten für die Publikation blieben hoch](https://fragdenstaat.de/artikel/exklusiv/2026/02/der-preis-fur-freie-wissenschaft/). Dass die Verlage nicht entmachtet werden, liegt auch an der Unkultur, dass man als Wissenschaftler:in nur als etwas gilt, wenn man in einer der großen Fachzeitschriften veröffentlichen durfte. Mit [arxiv](https://arxiv.org) gibt es allerdings auch eine Open-Access-Online-Zeitschrift, bei der eine freiwillige Redaktion die Qualitätsprüfung organisiert und weder Autoren noch Lesende dafür bezahlen müssen.
+
+Im Rhein werden immer häufiger teils unbekannte Chemikalien [nachgewiesen](https://correctiv.org/aktuelles/kampf-um-wasser/2026/02/03/wie-die-industrie-den-rhein-mit-unbekannten-stoffen-verschmutzt/), von denen keiner weiß, welcher Auswirkungen sie haben. Eingeleitet werden sie von ansässigen Industriefirmen, aber niemand zwingt sie dazu, das detailliert offenzulegen. Nun müssen Forschende aus Steuermitteln finanziert mühsam herausfinden, welche Stoffe das sind und ob sie schädlich sind. Obwohl nach nationalem und EU-Recht das Vorsorgeprinzip gilt, wehren sich die Firmen gegen die geplante EU-Verordnung, nach der sie sich an den Kosten für eine stärkere Aufbereitung von Abwasser beteiligen müssten.
 
 ## Überwachung
-* Chatkontrolle stoppen
-  https://chat-kontrolle.eu/index.php/2026/02/01/aufruf-eprivacy-luecke-schliessen/
-  * Achtung: Protest-Emails an Europaabgeordnete gegen die #Chatkontrolle 1.0  werden wohl bald automatisiert rausgefiltert.
-    https://eupolicy.social/@pneutig/116047234421815328
-  * Update zur Chatkontrolle 1.0
-    https://digitalegesellschaft.de/2026/02/update-zur-chatkontrolle-1-0/  
-    https://digitalegesellschaft.de/2026/02/nein-zur-massenhaften-ueberwachung-unserer-nachrichten-durch-big-tech/
-    https://chat-kontrolle.eu/index.php/2026/02/23/offener-brief-nein-zur-chatkontrolle-1-0/
-* Palantir is suing us. Us, the Republik Magazin. 
-  https://infosec.exchange/@adfichter/116057480580052663
-* Innenausschuss in Sachsen-Anhalt winkt massiv kritisiertes Palantir-Gesetz unverändert durch
-  https://netzpolitik.org/2026/automatisierte-datenanalyse-innenausschuss-in-sachsen-anhalt-winkt-massiv-kritisiertes-palantir-gesetz-unveraendert-durch/
-* Der Referentenentwurf zur IP-Adressspeicherung des Justizministeriums setzt auf Generalverdacht: Drei Monate anlasslose Überwachung für alle!
-  https://d-64.org/stellungnahme-vds/
-  https://d-64.social/@D64eV/116086422108044278
-* Österreichisches Innenministerium nutzt Überwachungssoftware von zwielichtiger Firma, will nicht darüber reden
-  https://www.derstandard.at/story/3000000309258/innenministerium-nutzt-ueberwachungssoftware-von-zwielichtiger-firma-will-nicht-darueber-reden
-  https://mastodon.social/@wchr/116102884658851646
-* Anfrage zu https://einfach-machen.gov.de  ist gescheitert 
-  https://fragdenstaat.de/anfrage/einreichungen-aus-dem-einfachmachen-portal-1/1079630/anhang/ifgbescheidname28012026_geschwaerzt.pdf
-* CCC zum Entwurf des sächsischen Polizeigesetzes: Das ist eine „Blaupause für den Überwachungsstaat“
-  https://www.l-iz.de/politik/sachsen/2026/02/ccc-zum-entwurf-des-sachsischen-polizeigesetzes-blaupause-fur-uberwachungsstaat-648862
-* Der Aufstieg der Datenkraken
-  https://www.ardmediathek.de/video/Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzAwODRhZDc4LWJhNTQtNDM0NS1iM2Y3LTcxNzM0OTA3ZGRjNA
+Die so genannte "Chatkontrolle 1.0" ist eine befristete Ausnahmeregelung von der ePrivacy-Richtlinie, welche aktuell noch das anlasslose und massenhafte Durchleuchten von privaten Nachrichten erlaubt. Das wird insbesondere durch US-amerikanische Big-Tech-Unternehmen genutzt. Sie läuft eigentlich am 3. April 2026 aus, könnte aber vom Europäische Parlament weiter verlängert werden. Der der deutsche [Digitale Gesellschaft e. V.](https://chat-kontrolle.eu/index.php/2026/02/01/aufruf-eprivacy-luecke-schliessen/), EDRi und andere zivilgesellschaftliche Organisationen appellieren in [einem offenen Brief](https://chat-kontrolle.eu/index.php/2026/02/23/offener-brief-nein-zur-chatkontrolle-1-0/) deshalb [an die Europaabgeordneten](https://digitalegesellschaft.de/2026/02/update-zur-chatkontrolle-1-0/), die Verlängerung [zu stoppen](https://digitalegesellschaft.de/2026/02/nein-zur-massenhaften-ueberwachung-unserer-nachrichten-durch-big-tech/),  um so die willkürlicher oder ungerichteter Überwachung unserer digitalen Kommunikation endlich zu beenden. 
+
+Wie Google, Facebook, Amazon und Co. dank personenbezogener Daten zu den mächtigsten und gefährlichsten Firmen der Welt wurden, zeigt die Dokumentation ["Der Aufstieg der Datenkraken"](https://www.ardmediathek.de/video/Y3JpZDovL3pkZi5kZS9QUk9EMS9TQ01TXzAwODRhZDc4LWJhNTQtNDM0NS1iM2Y3LTcxNzM0OTA3ZGRjNA).
+
+Auch auf nationaler Ebene versucht man es immer wieder: ein Referentenentwurf des Justizministeriums sieht die Einführung einer dreimonatigen Speicherpflicht sämtlicher IP-Adressen aus Netzwerkverkehren vor, um so die Personen hinter ihnen leicher ermitteln zu können. Für D64 stellt dies einen anlassloser Grundrechtseingriff in die Privatsphäre und stellt alle Bürger:innen unter generellen Tatverdacht. Der digitalpolitischer Verein nennt [in seiner Stellungnahme](https://d-64.org/stellungnahme-vds/) mit "Sicherungsanordnung bei konkreten Bedarf" und "Quick-Freeze" auch zwei grundrechtsschonendere Alternativen.
+
+Das geplante Polizeigesetz in Sachsen-Anhalt, welches Analysen riesiger Datenmengen bei der Polizei erlaubt, wurde [von dessen Innenausschuss beschlossen](https://netzpolitik.org/2026/automatisierte-datenanalyse-innenausschuss-in-sachsen-anhalt-winkt-massiv-kritisiertes-palantir-gesetz-unveraendert-durch/), obwohl die Vorgaben aus Karlsruhe nur unzureichend umgesetzt werden. Die massive Kritik daran wurde einfach ignoriert. Ob später Software von Palantir zum Einsatz ist noch nicht entschieden. 
+
+Und Palantir mag es nicht, wenn man sie kritisiert, wie sich an der Klage gegen das Schweizer Republik Magazin [zeigt](https://infosec.exchange/@adfichter/116057480580052663), die es gewagt haben, darüber zu berichten, warum sich die Schweizer Armee gegen Palantir entschieden hat. 
+
+Noch nicht verabschiedet, aber [als Entwurf](https://www.l-iz.de/politik/sachsen/2026/02/ccc-zum-entwurf-des-sachsischen-polizeigesetzes-blaupause-fur-uberwachungsstaat-648862) vorgelegt wurde die Novelle des Sächsischen Polizeigesetzes (SächsPDVG). Der Chaos Computer Club Dresden sieht in ihr einen "erneuten Angriff auf die informationelle Selbstbestimmung, die rechtsstaatlich gebotene Gewaltenteilung sowie als Gefahr für eine offene und demokratische Gesellschaft". 
+
+Mit welcher Software letzlich die Massenüberwachung umgesetzt wird, ist nicht entscheiden, denn das Prinzip bleibt ja das gleiche. 
+
+Das Österreichische Innenministerium [hat mit Tangles ein Tool von einer zwielichtigen Firma gekauft](https://www.derstandard.at/story/3000000309258/innenministerium-nutzt-ueberwachungssoftware-von-zwielichtiger-firma-will-nicht-darueber-reden), das auch von der US-Abschiebebehörde ICE benutzt wird, was nur zufällig über den Fund von EU-Vergabeunterlagen herauskam. Nachfragen (auch über IFG), ob auch auch das Zusatzmodul Webloc Teil des Kaufs war, werden vom Ministerium [abgeblockt](https://mastodon.social/@wchr/116102884658851646).
 
 ## The daily KInk
 ### Neue Tools
@@ -339,25 +318,17 @@ Knapp 40 Prozent der Menschen in Deutschland, in Ostdeutschland sogar 49 Prozent
 * OpenClaw: KI-Agent ohne Leitplanken?
   https://www.surplusmagazin.de/openclaw-ki-aya-jaff-startup-openai/
 
-## Und sonst so
-* version of wikipedia you can doomscroll
-  https://xikipedia.org
-  via https://infosec.exchange/users/rebane2001/statuses/115998023365214091
-
 ## Recap
-* OKNRW Barcamp 2025 – Science Track-Sammelband
-  https://oknrw.de/oknrw-barcamp-2025-science-track-sammelband/
-  und Rückblick: https://oknrw.de/rueckblende-oknrw-barcamp-2025/
-* FOSDEM '26
-  https://fosdem.org/2026/schedule/events/
-* eGovernment Podcast Monatsschau
-  https://egovernment-podcast.com/egov252-monatsschau-02-26/
+* OKNRW Barcamp 2025 – [Science Track-Sammelband](https://oknrw.de/oknrw-barcamp-2025-science-track-sammelband/) und [Rückblick](https://oknrw.de/rueckblende-oknrw-barcamp-2025/)
+* [FOSDEM '26](https://fosdem.org/2026/schedule/events/)
+* [eGovernment Podcast Monatsschau](https://egovernment-podcast.com/egov252-monatsschau-02-26/)
+
+## Und sonst so
+Wenn schon [Doomscrollen](https://infosec.exchange/users/rebane2001/statuses/115998023365214091), dann [gehaltvoll](https://xikipedia.org).
 
 ## Fristen
-* Dritte Runde des Landesprogramms Offene Innovation in Schleswig-Holstein gestartet, bis 28.04.2026
-  https://osb-alliance.de/featured/dritte-runde-des-landesprogramms-offene-innovation-in-schleswig-holstein-gestartet
-* CfP für die spring(); break, 15.03.2026
-  https://pretalx.das-labor.org/spring-break-2026/cfp
+* Dritte Runde des Landesprogramms [Offene Innovation](https://osb-alliance.de/featured/dritte-runde-des-landesprogramms-offene-innovation-in-schleswig-holstein-gestartet) in Schleswig-Holstein gestartet, Bewerbung bis 28.04.2026
+* CfP für die [spring(); break](https://pretalx.das-labor.org/spring-break-2026/cfp) bis 15.03.2026
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Sonntag, 01.03.2026, online: **Digital Independence Day** <a title='Kalendereintrag Digital Independence Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwMzAxVDIwMzQyNFoNCkRUU1RBUlQ6MjAyNjAzMDFUMDAwMDAwDQpEVEVORDoyMDI2MDMwMVQyMzU5NTkNClNVTU1BUlk6RGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpLmRheQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
