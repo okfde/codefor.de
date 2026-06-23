@@ -202,59 +202,37 @@ Mit welcher Software letzlich die Massenüberwachung umgesetzt wird, ist nicht e
 Das Österreichische Innenministerium [hat mit Tangles ein Tool von einer zwielichtigen Firma gekauft](https://www.derstandard.at/story/3000000309258/innenministerium-nutzt-ueberwachungssoftware-von-zwielichtiger-firma-will-nicht-darueber-reden), das auch von der US-Abschiebebehörde ICE benutzt wird, was nur zufällig über den Fund von EU-Vergabeunterlagen herauskam. Nachfragen (auch über IFG), ob auch auch das Zusatzmodul Webloc Teil des Kaufs war, werden vom Ministerium [abgeblockt](https://mastodon.social/@wchr/116102884658851646).
 
 ## The daily KInk
-### Neue Tools
-* Spielwelten per Mausklick: Googles neues KI-Tool lässt Gaming-Aktien purzeln
-  https://www.heise.de/news/Spielwelten-per-Mausklick-Googles-neues-KI-Tool-laesst-Gaming-Aktien-purzeln-11161887.html
-* Anthropic stellt Claude Opus 4.6 mit Agent Teams vor
-  https://www.heise.de/news/Anthropic-stellt-Claude-Opus-4-6-mit-Agent-Teams-vor-11167133.html
-* GPT-5.3-Codex: OpenAI stellt neues Coding-Modell vor
-  https://www.heise.de/news/GPT-5-3-Codex-OpenAI-stellt-neues-Coding-Modell-vor-11167502.html
-* Nano Banana 2 bringt Pro-Funktionen für Gratis-Nutzer
-  https://www.heise.de/news/Nano-Banana-2-bringt-Pro-Funktionen-fuer-Gratis-Nutzer-11192662.html
 ### Bildung
-* Kopflos unterwegs: KI-Kompetenzen in Schulen und für die Schulentwicklung
-  https://www.heise.de/news/Orientierungspapier-kritisiert-aktuelle-Lage-von-KI-im-Bildungssystem-11160508.html
-  https://www.forumbd.de/blog/orientierungspapier-zu-ki-bezogenen-schulleitungsfortbildungen-in-deutschland/
-* Large Language Models: Die Mathematik hinter Transformers
-  https://www.heise.de/blog/Large-Language-Models-Die-Mathematik-hinter-Transformers-11070751.html
-* Mozilla Data Collective
-  https://datacollective.mozillafoundation.org
-  https://mastodon.social/@jmcastagnetto/116041905197727986
-* Supercharge by AI exhibition
-  https://tacticaltech.org/supercharged-by-ai-experience/
-  https://mastodon.cc/@info_activism/116006661136835201
+Der [heise-Artikel](https://www.heise.de/blog/Large-Language-Models-Die-Mathematik-hinter-Transformers-11070751.html) erklärt die mathematischen Hintergründe der Transformer-Architektur, die sichin allen Large Language Models findet.
+
+Mit der Plattform [Mozilla Data Collective (MDC)](https://datacollective.mozillafoundation.org) gibt es nun neben Hugging Face und Zenodo eine weitere Möglichkeit (große) (Trainings-)Datensätze und Open-Weight-KI-Modelle kostenlos als Open Data zu teilen.
+
+Die Ausstellung ["Supercharge by AI"](https://tacticaltech.org/supercharged-by-ai-experience/) lädt ein zur Diskussion darüber, wie (Generative) KI die Zunahme von Betrug, Belästigung, Polarisierung und Meinungsbeeinflussung weiter begünstigt. Durch ihre Aufmachung [eignet sich](https://mastodon.cc/@info_activism/116006661136835201) die Ausstellung besonders für Bibliotheken, Gemeinschaftszentren, Universitäten, Festivals und Museen. Tactical Tech stellt dazu die Materialien bereit. 
+
 ### Anwendung
-* Klimaforschung: Wissenschaftler tracken Eisberg-Lebenszyklus mit KI
-  https://www.heise.de/news/Klimaforschung-Wissenschaftler-tracken-Eisberg-Lebenszyklus-mit-KI-11167700.html
-* Nach über 1500 Jahren: KI-Agenten ermitteln Regeln von römischem Brettspiel
-  https://www.heise.de/news/KI-Agenten-spielen-roemisches-Brettspiel-und-ermitteln-so-dessen-Regeln-11171367.html
-* KI-gestützte Orchestrierung von Wissensgraphen
-  https://github.com/weberius/staedtepartnerschaften
-* machine-learning-lernt-aus-daten-wer-seine-activity
-  https://www.linkedin.com/posts/peter-hense-%F0%9F%87%BA%F0%9F%87%A6%F0%9F%87%AE%F0%9F%87%B1%F0%9F%87%AA%F0%9F%87%BA-19861318_machine-learning-lernt-aus-daten-wer-seine-activity-7430351157333663744-F4G9
+Eine neues KI-System des British Antarctic Survey (BAS) identifiziert einzelne Eisberge in Satellitenbildern und kann in nachfolgenden Satellitenaufnahmen [tracken](https://www.heise.de/news/Klimaforschung-Wissenschaftler-tracken-Eisberg-Lebenszyklus-mit-KI-11167700.html), wie sie abschmelzen, wie sie in neue kleinere Eisbergfragmente zerbrechen oder sich durch Kollisionen mit anderen vereinigen. So entstehen vollständige "Stammbäume". Die Erkenntnisse über ihre Bewegung tragen zur Verbesserung der globalen Klima- und Ozeanmodelle bei.
+  
+Durch KI-Agenten ließen sich die Regeln des über 1500 Jahre alten römischem Brettspiels "Ludus Coriovalli" [rekonstruieren](https://www.heise.de/news/KI-Agenten-spielen-roemisches-Brettspiel-und-ermitteln-so-dessen-Regeln-11171367.html). Das Spiel kann nun auch [online](https://ludii.games/details.php?keyword=Ludus%20Coriovalli) nachgespielt werden. 
+
+Im OKLab Köln ist ein [Proof-Of-Concept](https://github.com/weberius/staedtepartnerschaften) entstanden, der durch Wissensgraphen, KI-gestützte Analyse und interaktive Visualisierung das weltweite Netzwerk an Städtepartnerschaften sichtbar machen soll, sowie deren historische, kulturelle und politische Motive analysiert. 
+
 ### Auswirkung in der Medizin
 * KI in der Medizin: Effizienz vs. Ethik
   https://www.zdfheute.de/video/heute-journal/rieken-ki-medizin-100.html
-* ChatGPT als Arzt-Ersatz? Studie zeigt ernüchternde Ergebnisse
-  https://www.heise.de/news/ChatGPT-als-Arzt-Ersatz-Studie-zeigt-ernuechternde-Ergebnisse-11170499.html
-* Wie „Künstliche Intelligenz“ unser Gesundheitswesen verändern soll – und welche Fragen das aufwirft
-  https://netzpolitik.org/2026/digitalisierungsstrategie-wie-kuenstliche-intelligenz-unser-gesundheitswesen-veraendern-soll-und-welche-fragen-das-aufwirft/
+
+Die [Oxford-Studie](https://www.nature.com/articles/s41591-025-04074-y) "Reliability of LLMs as medical assistants for the general public: a randomized preregistered study", haben gezeigt, dass Chatbots, die aus einer Angabe von medizinischen Symptomen sowohl vorliegende Krankheiten als auch Handlungsempfehlungen ableiten sollen, [nur schlecht damit ungehen können](https://www.heise.de/news/ChatGPT-als-Arzt-Ersatz-Studie-zeigt-ernuechternde-Ergebnisse-11170499.html), wenn die Fragenden ihnen zum Teil nur unvollständige Informationen geben bzw. auch die Antworten des Bots missverstanden haben, die sich irreführende Nachfragen schließlich fortpflanzen. 
+
+Bundesgesundheitsministerium [hält das nicht davon ab](https://netzpolitik.org/2026/digitalisierungsstrategie-wie-kuenstliche-intelligenz-unser-gesundheitswesen-veraendern-soll-und-welche-fragen-das-aufwirft/), in ihrem "Update der Digitalisierungsstrategie für das Gesundheitswesen und die Pflege" vorallem KI und Automatisierung die Abhilfe dafür sein sollen, dass durch den demografischen Wandel immer mehr Patienten auf immer weniger Ärzte kommen.
+
+Ob die vermeintlichen Effizienzgewinne wirklich allen zu Gute kommen, ist längst nicht ausgemacht, vor allem wenn so das [zwischenmenschliche](https://www.zdfheute.de/video/heute-journal/rieken-ki-medizin-100.html) Arzt-Patienten-Verhältnis weiter wegrationalisiert wird. 
+
 ### Sicherheit
-* Warum Moltbot beeindruckt, aber Sicherheitsexperten warnen
-  https://t3n.de/news/moltbot-ki-assistent-sicherheitsrisiken-warnung-1727149/
-  * OpenClaw im Selbstversuch: Was das gehypte Tool so magisch macht
-    https://www.derstandard.at/story/3000000309082/openclaw-im-selbstversuch-was-das-gehypte-tool-so-magisch-macht?ref=article
-* Manipulierte-Straßenschilder: Wenn das autonome Auto Fußgänger umfährt
-  https://www.heise.de/news/Manipulierte-Strassenschilder-Wenn-das-autonome-Auto-Fussgaenger-umfaehrt-11162744.html
-* KI-Agenten: Popularität steigt rasant – trotz mangelnder Sicherheit
-  https://www.heise.de/news/KI-Agenten-Popularitaet-steigt-rasant-trotz-mangelnder-Sicherheit-11184780.html
-* Höhere Kosten und längere Ausfallzeiten durch KI-Integration
-  https://www.golem.de/news/ai-first-unternehmen-hoehere-kosten-und-laengere-ausfallzeiten-durch-ki-integration-2602-205793.html
-* Claude: KI-Chatbot für Cyberangriff auf mexikanische Regierung genutzt
-  https://www.heise.de/news/Claude-KI-Chatbot-fuer-Cyberangriff-auf-mexikanische-Regierung-genutzt-11190396.html
-* Facial recognition error prompts police to arrest Asian man for burglary 100 miles away
-  https://www.theguardian.com/technology/2026/feb/25/facial-recognition-error-prompts-police-to-arrest-asian-man-for-burglary-100-miles-away
-  https://mamot.fr/@roofjoke/116136228318085740
+Ein Tool, was man besser nicht oder [nur auf einen Zweitrechner](https://t3n.de/news/moltbot-ki-assistent-sicherheitsrisiken-warnung-1727149/) ohne sensiblen Daten installieren sollte: [OpenClaw](https://openclaw.ai) (frühere Namen Clawdbot und Moltbot). Denn durch Installation gibt man diesem KI-Chatbot Komplettzugriff auf den Rechner und seine Daten. Zusammenfassen von Mails (deren Absendern dazu nicht zugestimmt haben), aber auch (proaktives!) Verfassen von Nachrichten, Bestellen von Warenartikeln über den ferngesteuerten Browser dank Zugriff auf den Passwortmanager. OpenClaw ist [selbst mit KI geschrieben](https://www.derstandard.at/story/3000000309082/openclaw-im-selbstversuch-was-das-gehypte-tool-so-magisch-macht?ref=article), ob die 6600 Commits allein im Januar 2026 gereviewt und verstanden sind, weiß keiner. Dass es OpenClaw nicht als käufliches Produkt gibt, liegt auf der Hand, denn dann müsste der Anbieter dafür haften, wenn etwas außer Kontrolle gerät.
+
+Der AI Agent Index 2025 zeigt dennoch [die wachsende Beliebtheit](https://www.heise.de/news/KI-Agenten-Popularitaet-steigt-rasant-trotz-mangelnder-Sicherheit-11184780.html) Agentischer Systeme, obwohl weiterhin Verhaltensstandards und Verantwortlichkeiten ungeklärt sind. Ausreichend Informationen zur Produktsicherheit gibt es von den Anbietern jedenfalls nicht.
+
+Größere potenziellen Angriffsflächen, Datenabflüsse, höheres Risiko für DDoS-Angriffe, längerer Ausfallzeiten, mehr Zeitaufwand, um Sicherheitsvorfälle aufzuarbeiten, ergeben sich einerseits durch Attacken durch von KI-basierten Schädlingen von außen (wie z.B. [beim Angriff](https://www.heise.de/news/Claude-KI-Chatbot-fuer-Cyberangriff-auf-mexikanische-Regierung-genutzt-11190396.html) auf die mexikanische Behördennetzwerke), aber auch durch Sicherheitslücken durch KI generierten Code in der eigenen Software, bzw. versehentlich offenen Schnittstellen zu internen KI-Systemen andererseits. Durch die zusätzliche Last, die KI-Scraping verursacht, [steigen auch die Infrastrukturkosten](https://www.golem.de/news/ai-first-unternehmen-hoehere-kosten-und-laengere-ausfallzeiten-durch-ki-integration-2602-205793.html) für Unternehmen. Indirekte Kosten ergeben sich durch Kunden, die man verärgert oder gar verliert, weil die eigene Seite langsam lädt oder zeitweise gar nicht aufrufbar ist, oder durch Vibe-Coding auch zu viele Fehler enthält und auf unperformanten Code basiert. KI-Systeme sind zudem anfällig für Prompt-Injection, nicht nur textuell, sondern auch bei der Bilderkennung, wie manipulierte Straßenschilder bei autonomen Fahrzeuge [bewiesen haben](https://www.heise.de/news/Manipulierte-Strassenschilder-Wenn-das-autonome-Auto-Fussgaenger-umfaehrt-11162744.html).
+
 ### Auswirkung auf Arbeit
 * 80 Prozent der Firmen nutzen KI: Microsoft warnt vor gefährlicher Schatten-KI
   https://www.heise.de/news/80-Prozent-der-Firmen-nutzen-KI-Microsoft-warnt-vor-gefaehrlicher-Schatten-KI-11172238.html
