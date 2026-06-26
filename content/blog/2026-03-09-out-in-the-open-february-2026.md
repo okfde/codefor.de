@@ -164,6 +164,8 @@ Das Saxorum, das Landeskundeportal der Sächsische Landes- und Universitätsbibl
 
 [artresearch.net](https://artresearch.net/) bietet Zugang zu Millionen von Fotografien von Kunstwerken sowie zu kunsthistorischen Dokumenten.
 
+Online-Nachrichten-Webseiten haben begonnen [die Scraper des The Internet Archives Wayback Machine zu blocken](https://www.techdirt.com/2026/02/13/news-publishers-are-now-blocking-the-internet-archive-and-we-may-all-regret-it/), aus Angst davor, dass KI-Scraper von dort aus ihre Inhalte zentral prozessieren können. Damit macht KI den Mechanismus kaputt, mit dem der kultuelle Schatz von sich stetig ändernden Online-Inhalte, durch das Internet Archive bisher dokumentiert wurde.
+
 ## Journalismus und Demokratie
 Hunderte Medienschaffende und Forschende [unterstützen](https://www.derstandard.de/story/3000000308864/afd-chef-chrupalla-in-ard-talk-appell-gegen-normalisierung-der-extrem-rechten) als Reaktion auf die Caren-Miosga-Sendung mit dem Titel "Ist Trump ein Vorbild für Deutschland, Herr Chrupalla?" einen ["Appell für einen demokratischen und humanistischen Diskurs in den Medien"](https://appell2026.de). Er fordert die Medien(-redaktionen) auf im Sinne des Programmauftrags im Medienstaatsvertrags menschenfeindliche und antidemokratische Ideologie als solche zu benennen und deutlich zurückzuweisen, statt sie zu verharmlosen und gar als mögliche Alternative zu einer demokratischen und auf humanistischen Werten basierenden Gesellschaftsordnung darzustellen. Man wundert sich einfach nur noch, wie eine aus mehreren Menschen bestehende Redaktion einen solchen Sendungstitel als geeignet befinden können. Wer sich an den Werten des Grundgesetzes orientiert, ist nicht parteiisch oder unausgewogen, und muss entsprechend auch nicht Inhalten und Personen eine Bühne bilden, die sich diesen offen entgegenstellen.
 
@@ -217,9 +219,6 @@ Durch KI-Agenten ließen sich die Regeln des über 1500 Jahre alten römischem B
 Im OKLab Köln ist ein [Proof-Of-Concept](https://github.com/weberius/staedtepartnerschaften) entstanden, der durch Wissensgraphen, KI-gestützte Analyse und interaktive Visualisierung das weltweite Netzwerk an Städtepartnerschaften sichtbar machen soll, sowie deren historische, kulturelle und politische Motive analysiert. 
 
 ### Auswirkung in der Medizin
-* KI in der Medizin: Effizienz vs. Ethik
-  https://www.zdfheute.de/video/heute-journal/rieken-ki-medizin-100.html
-
 Die [Oxford-Studie](https://www.nature.com/articles/s41591-025-04074-y) "Reliability of LLMs as medical assistants for the general public: a randomized preregistered study", haben gezeigt, dass Chatbots, die aus einer Angabe von medizinischen Symptomen sowohl vorliegende Krankheiten als auch Handlungsempfehlungen ableiten sollen, [nur schlecht damit ungehen können](https://www.heise.de/news/ChatGPT-als-Arzt-Ersatz-Studie-zeigt-ernuechternde-Ergebnisse-11170499.html), wenn die Fragenden ihnen zum Teil nur unvollständige Informationen geben bzw. auch die Antworten des Bots missverstanden haben, die sich irreführende Nachfragen schließlich fortpflanzen. 
 
 Bundesgesundheitsministerium [hält das nicht davon ab](https://netzpolitik.org/2026/digitalisierungsstrategie-wie-kuenstliche-intelligenz-unser-gesundheitswesen-veraendern-soll-und-welche-fragen-das-aufwirft/), in ihrem "Update der Digitalisierungsstrategie für das Gesundheitswesen und die Pflege" vorallem KI und Automatisierung die Abhilfe dafür sein sollen, dass durch den demografischen Wandel immer mehr Patienten auf immer weniger Ärzte kommen.
@@ -234,67 +233,12 @@ Der AI Agent Index 2025 zeigt dennoch [die wachsende Beliebtheit](https://www.he
 Größere potenziellen Angriffsflächen, Datenabflüsse, höheres Risiko für DDoS-Angriffe, längerer Ausfallzeiten, mehr Zeitaufwand, um Sicherheitsvorfälle aufzuarbeiten, ergeben sich einerseits durch Attacken durch von KI-basierten Schädlingen von außen (wie z.B. [beim Angriff](https://www.heise.de/news/Claude-KI-Chatbot-fuer-Cyberangriff-auf-mexikanische-Regierung-genutzt-11190396.html) auf die mexikanische Behördennetzwerke), aber auch durch Sicherheitslücken durch KI generierten Code in der eigenen Software, bzw. versehentlich offenen Schnittstellen zu internen KI-Systemen andererseits. Durch die zusätzliche Last, die KI-Scraping verursacht, [steigen auch die Infrastrukturkosten](https://www.golem.de/news/ai-first-unternehmen-hoehere-kosten-und-laengere-ausfallzeiten-durch-ki-integration-2602-205793.html) für Unternehmen. Indirekte Kosten ergeben sich durch Kunden, die man verärgert oder gar verliert, weil die eigene Seite langsam lädt oder zeitweise gar nicht aufrufbar ist, oder durch Vibe-Coding auch zu viele Fehler enthält und auf unperformanten Code basiert. KI-Systeme sind zudem anfällig für Prompt-Injection, nicht nur textuell, sondern auch bei der Bilderkennung, wie manipulierte Straßenschilder bei autonomen Fahrzeuge [bewiesen haben](https://www.heise.de/news/Manipulierte-Strassenschilder-Wenn-das-autonome-Auto-Fussgaenger-umfaehrt-11162744.html).
 
 ### Auswirkung auf Arbeit
-* 80 Prozent der Firmen nutzen KI: Microsoft warnt vor gefährlicher Schatten-KI
-  https://www.heise.de/news/80-Prozent-der-Firmen-nutzen-KI-Microsoft-warnt-vor-gefaehrlicher-Schatten-KI-11172238.html
-* Firm Data on AI - forecasting AI will boost productivity by 1.4%
-  https://www.nber.org/papers/w34836
-  https://tldr.nettime.org/@tante/116079709866264832
-* Studie: Wenn KI nicht weniger, sondern mehr Arbeit macht
-  https://www.tagesschau.de/wissen/forschung/ki-arbeitsintensitaet-folgen-100.html
-  https://www.golem.de/news/arbeitsverdichtung-ki-macht-nicht-weniger-arbeit-sondern-mehr-2602-205204.html
-* KI am Arbeitsplatz kann in mehr Arbeit und Burnout enden
-  https://www.br.de/nachrichten/wissen/ki-am-arbeitsplatz-kann-in-mehr-arbeit-und-burnout-enden,VBfwSwR
-* Burger King führt den KI-Assistenten "Patty" ein. Er hört über Headsets mit und bewertet, wie freundlich das Personal ist.
-  https://www.telepolis.de/article/Burger-King-laesst-KI-mithoeren-und-benotet-wie-nett-das-Personal-ist-11192133.html
-### Auswirkungen auf Programmieren
-* Rely On AI And Get Left Behind
-  https://codemanship.wordpress.com/2026/02/21/is-comprehension-debt-in-your-risk-register/
-* I Started Programming When I Was 7. I'm 50 Now, and the Thing I Loved Has Changed
-  https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/
-* AI agent "contributes" PR to matplotlib - PR gets rejected - AI agent 'writes and publishes blog to shame the maintainer'
-  https://swecyb.com/@anderseknert/116056950299738296
-### Auswirkungen auf Wissenschaft
-* Denken wird ineffizient: Warum selbst Forscher die Kontrolle an KI abgeben
-  https://www.telepolis.de/article/KI-in-der-Bildung-Warum-das-Denken-ueberfluessig-wird-11166565.html
-* Science Is Drowning in AI Slop
-  https://www.theatlantic.com/science/2026/01/ai-slop-science-publishing/685704/
-### Auswirkungen auf das Internet
-* Web design in the early 2000s: Every 100ms of latency on page load costs visitors. Web design in the late 2020s: Let's add a 10-second delay while Cloudflare checks that you are capable of ticking a checkbox in front of every page load.
-  https://infosec.exchange/@david_chisnall/116052768520528267
-* Künstliche Intelligenz läutet das Ende des Internets ein, wie wir es kennen. Außerdem treibt KI die Entkernung der Demokratie voran.
-  https://taz.de/Kuenstliche-Intelligenz-Das-Ende-des-Internets-und-die-Entkernung-der-Demokratie/!6155291/
-* News Publishers Are Now Blocking The Internet Archive, And We May All Regret It
-  https://www.techdirt.com/2026/02/13/news-publishers-are-now-blocking-the-internet-archive-and-we-may-all-regret-it/
-### Auswirkungen auf die Umwelt
-* Deutschlands neue KI-Rechenzentren: So erkennen Sie die Fabriken in Ihrer Nachbarschaft
-  https://correctiv.org/aktuelles/kuenstliche-intelligenz/2026/02/05/deutschlands-neue-ki-rechenzentren-bald-auch-in-ihrer-nachbarschaft-so-erkennen-sie-die-fabriken/
-* Die übersehenen Umweltfolgen durch KI
-  https://www.deutschlandfunk.de/systemische-umweltrisiken-von-ki-interview-mit-lena-hoffmann-gi-100.html
-### Auswirkung auf die Wirtschaft
-* AI Added ‘Basically Zero’ to US Economic Growth Last Year, Goldman Sachs Says
-  https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380
-* Anthropic wirft chinesischen Unternehmen unlautere Praktiken vor
-  https://www.heise.de/news/Anthropic-wirft-chinesischen-Unternehmen-unlautere-Praktiken-vor-11186816.html
-* Nervöse Börsen: Gedankenexperiment über KI lässt Techaktien sacken
-  https://www.heise.de/news/Nervoese-Boersen-Gedankenexperiment-ueber-KI-laesst-Techaktien-sacken-11187688.html
-* Everyone in AI is building the wrong thing for the same reason
-  https://www.joanwestenberg.com/everyone-in-ai-is-building-the-wrong-thing-for-the-same-reason/
-* SAPs KI-Wette wackelt
-  https://www.golem.de/news/joule-saps-ki-wette-wackelt-2602-205842.html
+[Neue Sicherheitsrisiken entstehen auch](https://www.heise.de/news/80-Prozent-der-Firmen-nutzen-KI-Microsoft-warnt-vor-gefaehrlicher-Schatten-KI-11172238.html), wenn Mitarbeitende in Firmen KI-Tools ohne Wissen ihrer IT-Abteilung verwenden. Aus einer in einer Studie [durchgeführten Befragung](https://www.hoover.org/research/firm-data-ai) von etwa 6000 Unternehmensverantwortlichen hat zudem ergeben, dass die Produktivität im Durchschnitt gerade mal um 1,4 Prozent gehoben wird. Forscher einer anderen Studie haben herausgefunden, dass KI unter Umständen nicht weniger, [sondern mehr Arbeit macht](https://www.tagesschau.de/wissen/forschung/ki-arbeitsintensitaet-folgen-100.html), weil Menschen sich durch fremde Aufgabengebiete zutrauten, die Ergebnisse am Ende doch von den eigentlich zuständigen mühsam nachkorrigiert werden mussten, oder aber auch weil die scheinbar höhere Geschwindigkeit durch Prompts auch die Erwartungen anheizt, dann auch mehr schaffen zu müssen, wodurch sich [die Arbeitsdichte weiter steigert](https://www.golem.de/news/arbeitsverdichtung-ki-macht-nicht-weniger-arbeit-sondern-mehr-2602-205204.html), natürliche Pausen wegfallen. Langfristig droht so eine wachsende kognitive Belastung und letzlich [sogar der Burnout](https://www.br.de/nachrichten/wissen/ki-am-arbeitsplatz-kann-in-mehr-arbeit-und-burnout-enden,VBfwSwR), wenn nur noch die anspruchsvollen Aufgaben übrig bleiben. Besonders pervers wird es, wenn Unternehmen zur Überwachung und Dauerbewertung ihrer Mitarbeitenden einsetzen, so wie Burger King mit dem [KI-Assistenten "Patty"](https://www.telepolis.de/article/Burger-King-laesst-KI-mithoeren-und-benotet-wie-nett-das-Personal-ist-11192133.html) inzwischen die Freundlichkeit bzw. die Einhaltung von Sprachregelungen seines Service-Personals kontrolliert.
+
 ### Moralischer Meltdown
-* Wer gern cheated und Shortcuts nimmt, liebt Chatbots.
-  https://mastodon.wurzelmann.at/@mimrma/116062078768592309
-* Diffusion of Responsibility
-  https://tante.cc/2026/02/14/diffusion-of-responsibility/
-* ChatGPT-Boykott: Diese Kampagne fordert, Abos bei OpenAI zu kündigen
-  https://t3n.de/news/chatgpt-boykott-kampagne-openai-1729228/
-  * Anthropic widersetzt sich Forderung von US-Verteidigungsministerium
-    https://www.zeit.de/politik/ausland/2026-02/anthropic-ki-technik-us-verteidigungsministerium-hegseth
-* KI ist keine Revolution sondern eine seltsame Rettungsaktion des Kapitalismus
-  https://www.mariusmichusch.de/ki-ist-keine-revolution-sondern-eine-verzweifelte-rettungsaktion-des-kapitalismus/
-  https://hessen.social/@mariusmichusch/116148127916197997
-* OpenClaw: KI-Agent ohne Leitplanken?
-  https://www.surplusmagazin.de/openclaw-ki-aya-jaff-startup-openai/
+Bernd Müller skizziert die vier Schritte, mit den Kontrolle an die KI abgegeben wird: zunächst wird der Prozess des Lernens aufgegeben, es geht nur noch um das Ergebnis, nicht mehr um den Weg dahin, das ist bequem und schnell (wie früher bei der Klassenarbeit in der Schule beim Banknachbarn abzuschreiben - [Cheater mögen ChatGPT](https://mastodon.wurzelmann.at/@mimrma/116062078768592309)), trägt aber dazu bei, dass Denkmuskel zunehmend erschlafft, damit sinken die Fähigkeiten sich längere Zeit konzentrieren zu können, sich tief in Problemstellungen hinein denken zu können, und mangels Übung auch das Ausbilden von Problemlösestrategien. Zeit ist Geld und aus der Logik heraus, nicht langsamer sein zu dürfen als seine Mitbewerber, ist es (zu mindestens kurzfristig) gesehen, völlig rational, das Selberdenken vollends aufzugeben, [wie es führende Forschende inzwischen sogar zugeben](https://www.telepolis.de/article/KI-in-der-Bildung-Warum-das-Denken-ueberfluessig-wird-11166565.html). Selbst der erste Schritt "Zieldefinition" und der letzte Schritt "Ergebnisbewertung" werden an die (generative) KI ausgelagert. "Dinge verstehen wollen" wird zum reinen Liebhaberobjekt für Idealisten. 
+
+Inzwischen ist auch rausgekommen, dass der Präsident von OpenAI und seine Frau jeweils 12,5 Millionen Dollar an die MAGA-Bewegung gespendet haben, und dass die Abschiebebehörde ICE ChatGPT nutzt, um die Lebensläufe von Bewerbern zu durchleuchten. [Eine Kampagne fordert nun](https://t3n.de/news/chatgpt-boykott-kampagne-openai-1729228/) zu einem ChatGPT-Boykott auf, indem man seine Abos bei OpenAI kündigen soll.
 
 ## Recap
 * OKNRW Barcamp 2025 – [Science Track-Sammelband](https://oknrw.de/oknrw-barcamp-2025-science-track-sammelband/) und [Rückblick](https://oknrw.de/rueckblende-oknrw-barcamp-2025/)
