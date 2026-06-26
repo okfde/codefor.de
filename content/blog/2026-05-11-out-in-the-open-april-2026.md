@@ -61,8 +61,6 @@ type: blog
 
 ## Digitale Souveränität
 ### Mobile
-* Dein Handy wird bald nicht mehr dir gehören
-  https://keepandroidopen.org/de/
 * Personalausweis auf dem Handy
   https://mastodon.social/@bkastl/116358324613651089
   * Behörde für abgesicherte Ausweise geknackt – Millionen Franzosen betroffen
@@ -422,6 +420,8 @@ type: blog
   https://netzpolitik.org/2026/ki-risiken-breites-buendnis-warnt-vor-verwaesserten-ki-regeln/
 * Deutsch-kanadische KI-Freundschaft: Aleph Alpha und Cohere sollen fusionieren
   https://www.heise.de/news/Eine-politische-Ehe-Aleph-Alpha-und-Cohere-verhandeln-ueber-Fusion-11253023.html
+* Positionspapier: Grundwerte in der digitalisierten Gesellschaft
+  https://d-64.org/grundwerte-ki-2-0/
 ### Kriminalität
 * US-Amerikaner verlieren 2025 fast 21 Milliarden US-Dollar durch Cybercrime
   https://www.heise.de/news/US-Amerikaner-verlieren-2025-fast-21-Milliarden-US-Dollar-durch-Cybercrime-11249768.html

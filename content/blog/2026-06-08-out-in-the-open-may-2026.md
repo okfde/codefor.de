@@ -101,6 +101,8 @@ type: blog
 * Meet EuroOffice, Europe’s bold alternative to Microsoft 365 promising sovereignty and control
   https://www.windowscentral.com/software-apps/meet-eurooffice-europes-bold-alternative-to-microsoft-365-promising-sovereignty-and-control
   via https://bsky.app/profile/dondahlmann.de/post/3mn3tomzubs2t
+* US tech firms share Dutch regulator officials’ names with senate
+  https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/
 ### Social Media
 * W Social uncovered: the reality behind the hype
   https://blog.elenarossini.com/w-social-uncovered-the-reality-behind-the-hype/
@@ -500,6 +502,8 @@ type: blog
   https://www.telepolis.de/article/KI-und-das-Orakel-von-Delphi-Warum-beide-mit-Deutung-statt-Wissen-arbeiten-11311093.html
 * Jetzt wird Google von der Suchmaschine zur Antwortmaschine
   https://www.tagesanzeiger.ch/google-search-ai-ersetzt-blaue-links-ab-sofort-776954306306
+* Ronny Chieng Tells Harvard to "Destroy AI" as Graduates Cheer
+  https://www.harvardmagazine.com/commencement/class-day-ronny-chieng-harvard
 ### Wikiverse
 * AI + Wikidata - serving open knowledge - PoliLoom attempts to automatically extract unstructured information from sources like Wikipedia, to add to Wikidata as - you guessed it - structured information.
   https://everypolitician.org/about/contribute/poliloom/

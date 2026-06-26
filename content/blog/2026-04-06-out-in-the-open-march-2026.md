@@ -185,8 +185,6 @@ type: blog
   https://www.heise.de/news/GrapheneOS-Microsoft-Authenticator-unterstuetzt-sicheres-Android-OS-nicht-11200269.html
 * Google führt eine Registrierungspflicht für alle Android-App-Entwickler ein. Laut Android-Chef beugt sich der Konzern damit unter anderem politischem Druck.
   https://www.heise.de/news/Android-Chef-zu-Sideloading-und-Registrierung-Die-Warnungen-sind-unzureichend-11209012.html
-* Keep Android Open
-  https://keepandroidopen.org
 
 ## Energie
 ### Gebäudeenergiegesetz
