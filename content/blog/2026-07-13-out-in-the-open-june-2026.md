@@ -20,6 +20,14 @@ type: blog
 * Storage media quartet
   https://chaos.social/@harvey/116686286136591013
   https://github.com/dla-marbach/dla-datentraeger-quartett
+* Musterdatenkatalog für Kommunen hat ein neues Zuhause gefunden
+  https://musterdatenkatalog.de/index.html
+  https://social.bund.de/@opendata/116683043279616434
+* OpenData und Seekarten in Deutschland
+  https://github.com/quantenschaum/mapping/blob/20ba44b1a7e34532c7e2001e610fd870c2956a8e/docs/opendata.md
+  https://digitalcourage.social/@derfopps/116720297012434364
+* Open Data macht Umwelt sichtbar: Offene Daten als Grundlage für Umweltwissen und Innovation
+  https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2026/BB_TdU.html
 
 ### Linked Open Data
 * Object-Oriented Linked Data (OO-LD): Linked Data Framework auf Basis von JSON-SCHEMA und JSON-LD
@@ -29,6 +37,18 @@ type: blog
 ## Open Source
 * Physiker aus Wernigerode entwickelt ehrenamtlich Software
   https://www.ardmediathek.de/video/mdr-sachsen-anhalt-heute/physiker-aus-wernigerode-entwickelt-ehrenamtlich-software/mdr/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy9kYmI2OGFmNy1hYTkwLTQ3NTItOWIzZS03NzA0MjM2OWJhZTA
+* FOSS unterstützen: Hinter den Kulissen
+  https://www.prototypefund.de/blog/hinter-den-kulissen
+* Nextcloud Hub 26 Spring: Euro-Office fordert Collabora heraus
+  https://www.heise.de/news/Nextcloud-Hub-26-Spring-Euro-Office-fordert-Collabora-heraus-11321897.html
+* Die Stadt Glücksburg (Ostsee) – ausgezeichnet als Cultural Pearl 2026 – ist die erste Kommune mit einem eigenen Portal auf kulturbytes, dem neuen Portal für Veranstaltungen und Kulturorte. Vielen Dank an die Kulturverwaltung Glücksburg für das Vertrauen. kulturbytes ist freie Software, entwickelt vom @oklabflensburg und steht allen Kulturaktiven kostenlos zur Verfügung.
+  https://kulturbytes.de/
+  https://norden.social/@kulturbytes/116724431082962973
+* Backup all your repositories with Ease
+  https://gickup.dev
+  https://social.heise.de/@ct_Magazin/116730699493641025
+* Vorreiter, Verwaltung und politischer Rückhalt: Wie Open Source in die Schulen kommt
+  https://netzpolitik.org/2026/vorreiter-verwaltung-und-politischer-rueckhalt-wie-open-source-in-die-schulen-kommt/
 
 ## Open Hardware
 * Wind-MPPT
@@ -42,7 +62,15 @@ type: blog
   https://www.rki.de/grippeweb
   via https://social.bund.de/@RKI/116680057687372248
 
+## Parlamente
+* Open Parlament TV: Zeit für ein Update: Wir haben weitere 20.000 Redebeiträge aus den Jahren 2009-2013 auf der Open Parliament TV Plattform zugänglich gemacht
+  https://openparliament.tv/aktuelles/deutscher-bundestag-redebeitraege-der-17-wahlperiode-2009-2013-durchsuchbar/
+  https://mstdn.social/@OpenParlTV/116719955338243572
+
 ## Verwaltungsdigitalisierung
+* Deutsche Eudi-Wallet: Einblicke in ein verkorkstes Projekt
+  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/einblicke-in-ein-verkorkstes-projekt
+  https://mastodon.social/@bkastl/116713104841713839
 ### SPARK-Hackathon
 * Beschäftigungstherapie und Theater
   https://tldr.nettime.org/users/tante/statuses/116668991736103329
@@ -59,9 +87,20 @@ type: blog
 ## Energie
 * Open-source is becoming strategic infrastructure in Europe — especially in energy - At Open Energy Transition, we believe energy models should be transparent, collaborative & accessible.
   https://mastodon.social/@OpenEnergyTransition/116686557043038825
-
+* EnergySharing im Praxistest
+  https://mastodon.social/@ioew/116724749415885495
+* Alle europäischen Länder haben im meteorologischen Frühling 2026 neue Rekorde bei der Solarstromerzeugung erzielt.
+  https://energy-charts.info/charts/energy/chart.htm?l=de&c=EU&interval=season&season=1&year=-1&legendItems=pyn
+  https://wisskomm.social/@energy_charts_d/116729868254321199
 
 ## Klima
+* Hitze-Check 2026 der Deutschen Umwelthilfe: Fast eine Million Bäume aus deutschen Städten verschwunden
+  https://www.duh.de/presse/pressemitteilungen/pressemitteilung/hitze-check-2026-der-deutschen-umwelthilfe-fast-eine-million-baeume-aus-deutschen-staedten-verschwund/
+  * Hunderttausende Bäume haben die Städte verlassen
+    https://klimareporter.de/gesellschaft/hunderttausende-baeume-haben-die-staedte-verlassen
+* Eichenprozessionsspinner plagt Berlin-Brandenburg – Gericht ordnet Bekämpfung an
+  https://www.berliner-zeitung.de/article/eichenprozessionsspinner-cottbus-urteil-berlin-rekordbefall-10134563
+  https://dju.social/@DerKlimablog/116726231070057350
 ### Kühle Orte
 * Wien
   wien.gv.at/umwelt/coole-zonen 
@@ -78,10 +117,16 @@ type: blog
   https://www.theguardian.com/world/2026/jun/03/sixty-thousand-love-letters-germany-archive-volunteers
   https://liebesbriefarchiv.de
   https://openbiblio.social/@awinkler/116688567135716976
+* Kritik im Datenraum. Graph-Theorie für eine digitale kritische Museologie
+  https://lisa.gerda-henkel-stiftung.de/engagierte_kunstgeschichte_fuchsgruber
+  https://social.wikimedia.de/@wikimediaDE/116720503065228510
 
 ## Finanzen
 * Städtetag schockiert: Pflegereform belastet Kommunen massiv
   https://www.diesachsen.de/gesundheit/staedtetag-schockiert-pflegereform-belastet-kommunen-massiv-3144129
+* Gratis E-Book "Faire Steuern"
+  https://perspective-daily.de/article/faire-steuern-pdf
+  https://social.perspective-daily.de/@PerspectiveDaily/116726379924790979
 
 ## Gesundheit
 * Digital Health: Erfahrungen mit E-Rezept, E-Patientenakte und Heilberufsausweis
@@ -102,12 +147,27 @@ type: blog
   https://www.abgeordnetenwatch.de/recherchen/lobbyismus/baerbel-bas-weicht-schutzregeln-fuer-saisonarbeiterinnen-auf
 * EU-Ombudsfrau rügt Brüssel: Von der Leyen darf Chats nicht automatisch löschen
   https://www.heise.de/news/EU-Ombudsfrau-ruegt-Bruessel-Von-der-Leyen-darf-Chats-nicht-automatisch-loeschen-11320672.html
+* Bundesregierung erteilt mehr Transparenz eine Absage
+  https://www.heise.de/news/Bundesregierung-erteilt-mehr-Transparenz-eine-Absage-11319610.html
+* Guter Grund Vorträge
+  https://guter-grund.info/vortraege/
+* Jetzt online: unsere neue #Klimaklagen-Datenbank – 221 Verfahren seit 2006, erstmals zentral erfasst, stetig aktualisiert und frei durchsuchbar. 
+  https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/aykut/klimawende-ausblick/klimaklagen-datenbank/datenbank.html
+  https://mastodon.social/@esrah_unihh/116726007963922262
+* Mit "Nachgeliefert" lassen sich alle Regierungspressekonferenzen seit 2014 systematisch durchsuchen, Wortnennungen vergleichen, Anfragen nach IFG oder Presserecht stellen oder Ihr trackt eure Themen.
+  https://fragdenstaat.de/artikel/exklusiv/2026/06/uber-klima-wird-gesprochen-wenn-es-brennt/?pk_campaign=mastodon
+  https://chaos.social/@fragdenstaat/116726675361606515
 
 ## Demokratie
 * DemokRADtour
   https://ostdeutschland.de/startseite.html
 * Forscher: Kneipensterben ist schlecht für die Demokratie
   https://www.diesachsen.de/soziales/forscher-kneipensterben-ist-schlecht-fuer-die-demokratie-3143053
+
+## Journalimus
+* The RePlaybook: A Field Guide to the Climate and Information Crisis
+  https://tacticaltech.org/replaybook/
+  https://mastodon.cc/@info_activism/116725751160558903
 
 ## Überwachung
 * Thüringen plant ein neues Polizeigesetz
@@ -120,7 +180,11 @@ type: blog
 * CDU, SPD und BSW wollen Überwachung in Sachsen ausweiten
   https://netzpolitik.org/2026/smartphones-hacken-gesichter-scannen-cdu-spd-und-bsw-wollen-ueberwachung-in-sachsen-ausweiten/
 
-## KI
+## Entfremdete Intelligenz
+### Fremde Federn
+* AI turns this single bullet point into a long email I can pretend I wrote
+  AI makes a single bullet point out of this long email I can pretend I read
+  https://mastodon.social/@Sheril/116720919490343442
 ### Grenzen
 * Stroop-Effekt: KI-Modelle scheitern an klassischem Aufmerksamkeitstest
   https://www.heise.de/news/Stroop-Effekt-KI-Modelle-versagen-bei-klassischem-Aufmerksamkeitstest-11317071.html
@@ -145,12 +209,31 @@ type: blog
   https://sciences.social/@MSchnetker/116674158399393154
 * US-Senator plant Gesetz für 50-Prozent-Aktiensteuer auf OpenAI, Anthropic und xAI. Ein Staatsfonds soll Bürgern Dividenden zahlen.
   https://www.telepolis.de/article/Bernie-Sanders-will-50-Prozent-der-KI-Aktien-in-oeffentliche-Hand-bringen-11318656.html
+## Ressourcenbelastung
+* Open Context (https://opencontext.org) is now getting slammed with 3x more traffic than normal.
+  https://scholar.social/@ekansa/116722821761382323
+* Der hohe Bedarf an Speicherkapazitäten für KI-Rechenzentren sorgt aktuell auch bei Verbraucherinnen und Verbrauchern für gestiegene Preise für Speichermedien.
+  https://social.bund.de/@destatis/116736045140963571
+## Gerichtsurteile
+* A court in Munich declared that Google is liable for their "AI summaries" and all its hallucinations
+  https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/
+  https://tldr.nettime.org/@tante/116724678506655962
+  * Nobody needs AI to search the Internet, court says in ruling against Google
+    https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/
+    https://mastodon.social/@arstechnica/116726961728397799
+
 
 ## Recap
 * Dataweek
   https://www.youtube.com/@dataweekleipzig/streams
 * GPN
   https://media.ccc.de/b/conferences/gpn/gpn24
+* Netzwerk Recherche – Jahreskonferenz 2026
+  https://www.youtube.com/playlist?list=PL3k-vp8y4t2vs290Estf4mZAC1fxnK-cz
+
+## Termine
+* Erzählcafé für #Reparatur-bewegte Menschen, 8.7.
+  https://mastodon.social/@ioew/116720637604311953
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Freitag, 03.07.2026, 11:00, bis Sonntag, 05.07.2026, 17:15, Aaccelerator, Blezingerstraße 15, 73430 Aalen: **FAT26** <a title='Kalendereintrag FAT26' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRkFUMjYvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA2MDhUMjAxOTM3Wg0KRFRTVEFSVDoyMDI2MDcwM1QxMTAwMDANCkRURU5EOjIwMjYwNzA1VDE3MTUwMA0KU1VNTUFSWTpGQVQyNg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9oYWNrd2Vyay5mdW4NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046QWFjY2VsZXJhdG9yXCwgQmxlemluZ2Vyc3RyYcOfZSAxNVwsIDczNDMwIEFhbGVuDQpHRU86NDguODU0NDMyOTsxMC4wOTA2MzQ3DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>

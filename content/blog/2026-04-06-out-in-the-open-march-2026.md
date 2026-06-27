@@ -421,7 +421,7 @@ type: blog
 * Europa investiert Milliarden in Palantir – trotz Warnungen vor Überwachung und US-Einfluss
   https://www.derstandard.at/story/3000000312610/europa-investiert-milliarden-in-palantir-trotz-warnungen-vor-ueberwachung-und-us-einfluss
 
-## KI
+## Why Kick KI
 ### DeepFakes
 * Das Deepfake Projekt
   https://deepfake-project.com/de/
@@ -530,6 +530,12 @@ type: blog
   https://www.wissenschafftzukunft-kiel.de/de/science_comes_to_town/_engagement_projekte/co-creation.php
 * Dritte Runde des Landesprogramms Offene Innovation in Schleswig-Holstein gestartet, bis 28.04.2026
   https://osb-alliance.de/featured/dritte-runde-des-landesprogramms-offene-innovation-in-schleswig-holstein-gestartet
+
+## Termine
+* WikiProjects Days (19.–21. Juni)
+  https://www.wikidata.org/wiki/Event:WikiProjects_Days_2026
+* 10 Jahre Hacklabor Schwerin!, 27.6.
+  https://www.hacklabor.de/2026/06/10-jahre-hacklabor/
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Freitag, 03.04.2026, 15:00, bis Montag, 06.04.2026, 15:30, Universität Koblenz, Universitätsstraße 1, 56070 Koblenz-Metternich: **Easterhegg 2026** <a title='Kalendereintrag Easterhegg 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRWFzdGVyaGVnZyAyMDI2Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNDA0VDEzMTYwNloNCkRUU1RBUlQ6MjAyNjA0MDNUMTUwMDAwDQpEVEVORDoyMDI2MDQwNlQxNTMwMDANClNVTU1BUlk6RWFzdGVyaGVnZyAyMDI2DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2VoMjMuZWFzdGVyaGVnZy5ldQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpVbml2ZXJzaXTDpHQgS29ibGVuelwsIFVuaXZlcnNpdMOkdHNzdHJhw59lIDFcLCA1NjA3MCBLb2JsZW56LU1ldHRlcm5pY2gNCkdFTzo1MC4zNjM1ODU0OzcuNTU4MzA3Njk5OTk5OTk5DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>

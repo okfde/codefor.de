@@ -415,7 +415,7 @@ type: blog
 * Power without accountability: The Palantir manifesto
   https://donmoynihan.substack.com/p/palantir-wants-power-without-accountability
 
-## KI
+## ai;dr
 * Breites Bündnis warnt vor verwässerten KI-Regeln
   https://netzpolitik.org/2026/ki-risiken-breites-buendnis-warnt-vor-verwaesserten-ki-regeln/
 * Deutsch-kanadische KI-Freundschaft: Aleph Alpha und Cohere sollen fusionieren

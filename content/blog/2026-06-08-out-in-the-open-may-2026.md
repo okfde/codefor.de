@@ -497,7 +497,7 @@ type: blog
 * Wie SSD-Zugriffszeiten zum digitalen Fingerabdruck werden
   https://www.heise.de/news/Webbrowser-koennen-Informationen-durch-SSD-Zugriffszeiten-ausspaehen-11311895.html
 
-## KI
+## No-BrAIner
 * KI und das Orakel von Delphi: Warum beide mit Deutung statt Wissen arbeiten
   https://www.telepolis.de/article/KI-und-das-Orakel-von-Delphi-Warum-beide-mit-Deutung-statt-Wissen-arbeiten-11311093.html
 * Jetzt wird Google von der Suchmaschine zur Antwortmaschine
@@ -613,6 +613,8 @@ type: blog
 * Lange Nacht der Wissenschaften Berlin
   https://www.langenachtderwissenschaften.de
   z.B. https://future-energy-lab.de/events/lange-n8-der-wissenschaften-26/
+* Lange Nacht der Wissenschaften Dresden, 26.6.
+  https://tu-dresden.de/forschung-transfer/wissenschaftskommunikation/veranstaltungsformate/die-lange-nacht-der-wissenschaften
 * 11.-12.06. #WikiKult Netzwerktreffen, Thema "Wikidata in Kulturerbeinstitutionen” 
   https://meta.wikimedia.org/wiki/WikiKult_Netzwerktreffen_2026
 * 30.6./1.7. BMDS richtet SPARK-Hackathon aus
