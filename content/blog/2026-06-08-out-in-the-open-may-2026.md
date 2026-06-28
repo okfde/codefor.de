@@ -619,6 +619,8 @@ type: blog
   https://tu-dresden.de/forschung-transfer/wissenschaftskommunikation/veranstaltungsformate/die-lange-nacht-der-wissenschaften
 * 11.-12.06. #WikiKult Netzwerktreffen, Thema "Wikidata in Kulturerbeinstitutionen” 
   https://meta.wikimedia.org/wiki/WikiKult_Netzwerktreffen_2026
+* 10 Jahre Hacklabor Sommerfest, 27.6.
+  https://www.hacklabor.de/2026/06/10-jahre-hacklabor/
 * 30.6./1.7. BMDS richtet SPARK-Hackathon aus
   https://bmds.bund.de/aktuelles/pressemitteilungen/detail/ki-fuer-schnellere-genehmigungen-bmds-richtet-spark-hackathon-aus
 

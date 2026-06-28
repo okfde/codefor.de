@@ -40,6 +40,8 @@ type: blog
   via https://mastodon.social/@PrototypeFund/116673862280909957
 
 ## Open Source
+* LibreOffice: Erste technische Details zum großen Umbau
+  https://www.heise.de/news/Erste-Details-LibreOffice-fuer-den-Browser-und-als-App-11313851.html
 * Physiker aus Wernigerode entwickelt ehrenamtlich Software
   https://www.ardmediathek.de/video/mdr-sachsen-anhalt-heute/physiker-aus-wernigerode-entwickelt-ehrenamtlich-software/mdr/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy9kYmI2OGFmNy1hYTkwLTQ3NTItOWIzZS03NzA0MjM2OWJhZTA
 * FOSS unterstützen: Hinter den Kulissen
@@ -59,6 +61,7 @@ type: blog
 * Sampling, processing, and sequencing sound and music directly in HTML.
   https://hyperblam.how
   https://front-end.social/@heydon/116792973320353577
+
 
 ## Open Hardware
 * Wind-MPPT
@@ -125,6 +128,8 @@ type: blog
   https://www.heise.de/news/Android-Google-nennt-Zeitplan-fuer-Entwickler-Verifizierung-und-erste-App-Stores-11338038.html
 * Bund in der Abhängigkeitsfalle: Kostenexplosion bei Microsoft-Lizenzen
   https://www.heise.de/news/Bund-in-der-Abhaengigkeitsfalle-Kostenexplosion-bei-Microsoft-Lizenzen-11343398.html
+* Open-Source-Revolution bei Computerchips: Die Schweiz spielt eine Schlüsselrolle
+  https://www.swissinfo.ch/ger/schweizer-ki/open-source-revolution-bei-computerchips-die-schweiz-spielt-eine-schl%C3%BCsselrolle/91106648
 
 ## Energie
 * Open-source is becoming strategic infrastructure in Europe — especially in energy - At Open Energy Transition, we believe energy models should be transparent, collaborative & accessible.
@@ -147,12 +152,19 @@ type: blog
   https://social.bund.de/@bmv/116736117872259496
 * C-ITS: Mit einem ESP32 Ampeln, Straßenbahnen und Autos tracken
   https://media.ccc.de/v/glt26-688-c-its-mit-einem-esp32-ampeln-straenbahnen-und-autos-tracken
+* Linienbusse fotografieren in Frankfurt Hunderte Falschparker
+  https://www.spiegel.de/mobilitaet/bus-bahn/frankfurt-linienbusse-knipsen-hunderte-falschparker-a-4736758b-26d4-4653-80b5-b8ca22189ea3
+* Bahnhoroskop
+  https://bahnhoroskop.ggor.de/
+  https://bsky.app/profile/gregor.bsky.social/post/3mohwjw6ynk2b
 
 ## Klima
 * Hitze-Check 2026 der Deutschen Umwelthilfe: Fast eine Million Bäume aus deutschen Städten verschwunden
   https://www.duh.de/presse/pressemitteilungen/pressemitteilung/hitze-check-2026-der-deutschen-umwelthilfe-fast-eine-million-baeume-aus-deutschen-staedten-verschwund/
   * Hunderttausende Bäume haben die Städte verlassen
     https://klimareporter.de/gesellschaft/hunderttausende-baeume-haben-die-staedte-verlassen
+  * Hunderttausende Bäume haben die Städte verlassen
+    https://www.nd-aktuell.de/artikel/1200251.klimawandel-hunderttausende-baeume-haben-die-staedte-verlassen.html
 * Eichenprozessionsspinner plagt Berlin-Brandenburg – Gericht ordnet Bekämpfung an
   https://www.berliner-zeitung.de/article/eichenprozessionsspinner-cottbus-urteil-berlin-rekordbefall-10134563
   https://dju.social/@DerKlimablog/116726231070057350
@@ -174,6 +186,10 @@ type: blog
 * Hitzeinseln, Hitze-Plätze in Eurer Stadt auf Karte einzutragen
   https://maps.greenpeace.org/maps/gpde/stadtnatur/
   via https://mstdn.social/@XR_Nuernberg/116816906219083635
+* So sehr leidet Ihre Region unter Dürre
+  https://correctiv.org/aktuelles/klimawandel/2026/06/11/duerre-trockenheit-wassermangel-landwirtschaft-europa/
+* Ein einzelner Hitzetag kostet rund 431 Millionen Euro
+  https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-ein-einzelner-hitzetag-kostet-rund-431-millionen-euro/100231354.html
 ### Kühle Orte
 * Wien
   wien.gv.at/umwelt/coole-zonen 
@@ -207,6 +223,10 @@ type: blog
 * Stadtansichten auf #wikimediacommons strukturiert erschließen, Städte in #LOD verwandeln, die Ansichten – und den historischen Stadtraum! – les- und analysierbar machen
   https://commons.wikimedia.org/wiki/User:Awinkler3/Annotating_the_City
   https://openbiblio.social/@awinkler/116776936722791585
+* Stadtarchiv Potsdam startet Internet-Rechercheportal
+  https://www.tagesspiegel.de/potsdam/landeshauptstadt/online-in-die-vergangengheit-stadtarchiv-potsdam-startet-internet-rechercheportal-15742997.html
+* Forscher entdecken 5000 Jahre alten Prototyp von Stonehenge
+  https://www.tagesanzeiger.ch/stonehenge-5000-jahre-alte-holzanlage-in-bulford-entdeckt-678917771893
 
 ## Finanzen
 * Städtetag schockiert: Pflegereform belastet Kommunen massiv
@@ -218,12 +238,18 @@ type: blog
   https://kommunenamlimit.de
 * EU-Abgeordnete stimmen für Digitalen Euro
   https://netzpolitik.org/2026/alternative-zu-visa-paypal-und-co-eu-abgeordnete-stimmen-fuer-digitalen-euro/
+* Sie kaufen die Welt, wir zahlen den Preis – Unser Leben, ihr Profit
+  https://www.finanzwende.de/themen/finanzialisierung/unser-leben-ihr-profit
+* Die Berichterstattung zur (Aktienrente-) grenzt für mich an Medienversagen, und das ist gefährlich für uns alle:
+  https://bsky.app/profile/krokoquarius.bsky.social/post/3mp6jo2tg6k2a
 
 ## Gesundheit
 * Digital Health: Erfahrungen mit E-Rezept, E-Patientenakte und Heilberufsausweis
   https://www.heise.de/hintergrund/Erfahrungsbericht-TI-und-Praxis-Gut-gemeint-ist-nicht-gut-gemacht-11319514.html
 * Patientenvertreterin: "Wir haben bei der Digitalisierung den Überblick verloren"
   https://www.heise.de/hintergrund/Die-Digitalisierung-hat-grosses-Potenzial-fuer-Patientinnen-und-Patienten-11340915.html
+* Wenn Private Equity die Arztpraxis kauft
+  https://www.sueddeutsche.de/projekte/artikel/bayern/bayern-arztpraxen-kauf-private-equity-firmen-rendite-folgen-gesundheitswesen-e133717/?reduced=true
 
 ## Transparenz
 * Lange war der Vermittlungsausschuss die Dunkelkammer der Gesetzgebung. 2023 veröffentlichten wir erstmals die Stzungsprotokolle, um Transparenz zu schaffen. Jetzt zieht der Vermittlungsausschuss endlich selbst nach.
@@ -267,6 +293,8 @@ type: blog
   https://www.deutschlandfunk.de/jens-spahn-bestaetigt-teilnahme-an-veranstaltungen-von-peter-thiel-110.html
   * Spahn besucht seit Jahren vertrauliche Thiel-Treffen
     https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101300782/jens-spahn-besucht-seit-jahren-diskrete-thiel-treffen.html
+  * Jens Spahn verteidigt Teilnahme an »Dialog«-Treffen von Peter Thiel
+    https://www.zeit.de/politik/deutschland/2026-06/jens-spahn-dialog-netzwerk-peter-thiel-gxe
 * Gentechnik auf dem Teller – und keiner sagt's Dir
   https://www.telepolis.de/article/EU-Gentechnik-Forsa-Umfrage-zeigt-breiten-Protest-gegen-CRISPR-Plaene-11343019.html
   via https://social.heise.de/@telepolis/116808756796935202
@@ -277,6 +305,12 @@ type: blog
   https://fragdenstaat.de/aktionen/afd-datenbank/
   * Belege zum Rechtsgutachten: Darum ist die AfD verfassungswidrig
     https://fragdenstaat.de/artikel/exklusiv/2026/06/darum-ist-die-afd-verfassungswidrig/
+* Prozess um Spahns Maskendeal startet in Bonn
+  https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/audio-prozess-um-maskendeal-startet-in-bonn-100.html
+* Was hat sich durch das Österreichische Informationsfreiheitsgesetz eigentlich verändert?
+  https://tube.bawü.social/w/mSZNr1wmYw3iphJREHpkZ2
+* Guttenberg: Der Mann aller Märkte
+  https://correctiv.org/aktuelles/lobbyismus/2026/06/26/guttenberg-der-mann-aller-maerkte/
 
 ## Demokratie
 * DemokRADtour
@@ -294,8 +328,12 @@ type: blog
   https://mastodon.cc/@info_activism/116725751160558903
 * One Year of Publix: Our First Impact Report Is Here
   https://www.publix.de/en/news/impact-report-01
+* "Kulturwandel" oder Verflachung? Deutschlandfunk plant große Programmreform
+  https://uebermedien.de/117386/kulturwandel-oder-verflachung-deutschlandfunk-plant-grosse-programmreform/
 
 ## Überwachung
+* Deutsche Polizeibehörden setzen bei Ermittlungen mitunter auf die Dienste von Datenhändlern, wie BR-Recherchen zeigen
+  https://www.tagesschau.de/investigativ/br-recherche/standortdaten-handy-app-polizei-datenhandel-100.html
 * Thüringen plant ein neues Polizeigesetz
   https://thuerpagstoppen.noblogs.org
   https://digitalcourage.social/@digitalcourage/116675543480333136
@@ -318,9 +356,14 @@ type: blog
 * re:publica 26: Wir wissen wo du warst – weil Databroker deine Daten verkaufen
   https://youtu.be/QyFCa6RkqXM
   https://mamot.fr/@roofjoke/116800369731539239
+
 ## Entfremdete Intelligenz
 * 400-Milliarden-Parameter-Modell: Konsortium „Europa“ gewinnt KI-Wettbewerb
   https://www.heise.de/news/400-Milliarden-Parameter-Modell-Konsortium-Europa-gewinnt-KI-Wettbewerb-11339003.html
+* Lokales AI-Agent-Setup mit Ollama, Open WebUI und n8n (2026)
+  https://skill-sprinters.de/blog/tools/lokales-ai-agent-setup-ollama-open-webui-n8n-2026/
+* Bayern erlaubt generell KI-Einsatz bei Hochschul-Prüfungen
+  https://www.br.de/nachrichten/bayern/bayern-erlaubt-generell-ki-einsatz-bei-hochschul-pruefungen,VNLznOS
 ### Fremde Federn
 * AI turns this single bullet point into a long email I can pretend I wrote
   AI makes a single bullet point out of this long email I can pretend I read
@@ -328,21 +371,37 @@ type: blog
 * Bei Reden & Texten von Thüringens Ministerpräsident Voigt schlug ein Analysetool zehn mal mehr an als bei Beiträgen anderer Politiker*innen. Außerdem finden sich in einem Text mehrere Zitate, die nicht verifizert werden konnten
   https://www.deutschlandfunkkultur.de/wie-viel-ki-ist-in-den-texten-von-thueringens-mp-recherche-von-frag-den-staat-100.html
   https://chaos.social/@fragdenstaat/116742490224042491
+  * Als Reaktion auf die fragdenstaat.de Recherche zu den Texten von Mario Voigt hat die FAZ einen Gastbeitrag des Ministerpräsidenten depubliziert. 
+    https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/zum-ki-verdacht-bei-gastbeitrag-von-mario-voigt-200917046.html
+    https://bsky.app/profile/jonpeaceman.bsky.social/post/3mnwuvvjwkc22
 * Jetzt soll auch #Reiche KI für ihren Gastbeitrag in der FAZ genutzt haben. Nicht nur ein bisschen, sondern zu wahrscheinlich mehr als zwei Dritteln.
   https://dju.social/@DerKlimablog/116775852695840444
+* Die zerstörerischste Form von Plagiat: Was die KI- Paranoia bewirken kann
+  https://kulturundkontroverse859.substack.com/p/die-zerstorerischste-form-von-plagiat
+* Ein KI-Skandal erschüttert den Journalismus. Aber ist es überhaupt einer? Die Medienbranche ist geteilter Meinung
+  https://taz.de/KI-im-Journalismus/!6185296/
+  https://bsky.app/profile/jonpeaceman.bsky.social/post/3mos645sghs2u
 ### Grenzen
 * Stroop-Effekt: KI-Modelle scheitern an klassischem Aufmerksamkeitstest
   https://www.heise.de/news/Stroop-Effekt-KI-Modelle-versagen-bei-klassischem-Aufmerksamkeitstest-11317071.html
+* Digital-Me: Warum ich mehr bin als meine Daten
+  https://t2informatik.de/blog/digital-me-mehr-als-meine-daten/
 ### Sicherheit
 * Hackers are hijacking high-profile Instagram accounts by simply asking Meta's AI chatbot to change the email on the account. Meta's AI does it, hacker gets password reset code, they're in
   https://infosec.exchange/@josephcox/116675938948881868
 * Malware: KI erzeugt kaum aufhaltbaren Wurm
   https://www.heise.de/news/IT-Forscher-zeigen-anpassungsfaehigen-KI-Wurm-11318083.html
+* Cloned sites: the shopping scams that lead ChatGPT to fake stores
+  https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites
 ### Umweltbelastung
 * Claude Carbon
   https://reset.org/energie-vibe-coding-reduzieren-wie-claude-carbon-dir-helfen-kann/
   https://mastodon.social/@reset_org/116681324507923061
   https://github.com/gwittebolle/claude-carbon
+* Die Beweise für positive Klimaauswirkungen durch sogenannte „KI“ sind schwach, während die Klimaschäden klar belegt sind. Ein Bericht von AlgorithmWatch zeigt, wie Tech-Unternehmen Greenwashing betreiben
+  https://netzpolitik.org/2026/ki-klimaschwindel-und-greenwashing-big-tech-erklaert-das-problem-zur-loesung/
+* KI-Rechenzentren dürften 2030 einen Wasserverbrauch wie 1,3 Milliarden Menschen haben
+  https://www.derstandard.at/story/3000000323330/ki-rechenzentren-duerften-2030-einen-wasserverbrauch-wie-13-milliarden-menschen-haben
 ### Protest
 * Neue Rechenzentren: Das muss nicht sein
   https://www.nd-aktuell.de/artikel/1200073.kuenstliche-intelligenz-neue-rechenzentren-das-muss-nicht-sein.html
@@ -354,6 +413,8 @@ type: blog
 * PACT: Cloudflare will mit Browserherstellern böswilligen Traffic aussortieren
   https://www.heise.de/news/PACT-Cloudflare-will-mit-Browserherstellern-boeswilligen-Traffic-aussortieren-11340973.html
 ### Kapitalismus
+* Unternehmen vergisst Limits für KI-Nutzung, verbrennt halbe Milliarde Dollar in einem Monat
+  https://www.derstandard.at/story/3000000322988/unternehmen-vergisst-limits-fuer-ki-nutzung-verbrennt-halbe-milliarde-dollar-in-einem-monat
 * KI lieber "entfremdete Intelligenz" nennen
   https://sciences.social/@MSchnetker/116674158399393154
 * US-Senator plant Gesetz für 50-Prozent-Aktiensteuer auf OpenAI, Anthropic und xAI. Ein Staatsfonds soll Bürgern Dividenden zahlen.
@@ -362,6 +423,8 @@ type: blog
   https://jacobin.de/artikel/kohle-ki-kriegswirtschaft-rheinisches-revier
 * KI-Firmen kaufen Antiquariate leer – und vernichten die Bücher
   https://www.srf.ch/kultur/gesellschaft-religion/jagd-auf-alte-buecher-ki-firmen-kaufen-antiquariate-leer-und-vernichten-die-buecher
+  * Kaufen KI-Unternehmen deutsche Antiquariate leer?
+    https://www.literaturcafe.de/kaufen-ki-unternehmen-deutsche-antiquariate-leer/
 * Europe must choose between AI and climate goals, data center lobby says
   https://www.politico.eu/article/europe-choose-ai-climate-goals-data-center-chief-warns/
 * Prognose: 2028 wird KI-Coding teurer als Entwicklergehälter
@@ -400,6 +463,10 @@ type: blog
   https://www.youtube.com/playlist?list=PL3k-vp8y4t2vs290Estf4mZAC1fxnK-cz
 * Digital GreenTech – Umwelttechnik trifft Digitalisierung
   https://www.youtube.com/watch?v=kjrjNIZA4j4&t=12s
+
+## Fristen
+* FIfF-Konferenz 2026 - Call for Participation, 15.7. 23:59
+  https://www.fiff.de/termine/2026/fiff-konferenz-2026-call-for-papers/
 
 ## Termine
 * Erzählcafé für Reparatur-bewegte Menschen, 8.7.
