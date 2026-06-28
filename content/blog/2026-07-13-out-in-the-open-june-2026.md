@@ -28,6 +28,11 @@ type: blog
   https://digitalcourage.social/@derfopps/116720297012434364
 * Open Data macht Umwelt sichtbar: Offene Daten als Grundlage für Umweltwissen und Innovation
   https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2026/BB_TdU.html
+* Wie wichtig ist das Thema #Datenqualität in eurer Behörde?
+  https://discourse.opencode.de/t/online-umfrage-datenqualitaet-im-oeffentlichen-sektor/5456
+  https://social.bund.de/@opendatabund/116810079175270565
+* Open Data: European Bathing Water Quality
+  https://tobias.fellinger.wien/2026/06/24/open-data-european-bathing-water-quality/
 
 ### Linked Open Data
 * Object-Oriented Linked Data (OO-LD): Linked Data Framework auf Basis von JSON-SCHEMA und JSON-LD
@@ -49,6 +54,11 @@ type: blog
   https://social.heise.de/@ct_Magazin/116730699493641025
 * Vorreiter, Verwaltung und politischer Rückhalt: Wie Open Source in die Schulen kommt
   https://netzpolitik.org/2026/vorreiter-verwaltung-und-politischer-rueckhalt-wie-open-source-in-die-schulen-kommt/
+* Mastodon 4.6
+  https://blog.joinmastodon.org/2026/06/mastodon-4.6/
+* Sampling, processing, and sequencing sound and music directly in HTML.
+  https://hyperblam.how
+  https://front-end.social/@heydon/116792973320353577
 
 ## Open Hardware
 * Wind-MPPT
@@ -56,11 +66,23 @@ type: blog
   https://libre.solar/hardware/mppt-2420-hc.html
   https://hardware.prototypefund.de/three-grassroots-projects-for-the-energy-transition/
   via https://chaos.social/users/mavo/statuses/116675466359598006  
+* Bundestag beschließt Recht auf Reparatur von Elektrogeräte
+  https://www.heise.de/news/Bundestag-beschliesst-Recht-auf-Reparatur-von-Elektrogeraeten-11346119.html
 
-## Citizens Science
+## Open Science
+* Open Science TEDx Talk Heidi Seibold
+  https://www.youtube.com/watch?v=1iDCrBVOf8Q
+  https://mastodon.social/@leibnizopenscience/116810641359432643
+
+## Citizen Science
 * GrippeWeb ist ein Surveillance-Instrument des RKI zur Beobachtung von Atemwegserkrankungen. Es ist auf eure Meldungen angewiesen!
   https://www.rki.de/grippeweb
   via https://social.bund.de/@RKI/116680057687372248
+* Deutschsprachiges Handbuch zu Citizen Science erschienen
+  https://www.schiebener.net/wordpress/gemeinsam-forschen-buergerinnen-und-buerger-richtig-in-die-forschung-einbinden/
+* Mithilfe des #CitizenScience-Projekts @microbelix wollen Forscher:innen des @helmholtz_hips die #Biodiversität der Bodenbakterien für die Wirkstoffforschung erschließen
+  https://www.helmholtz-hzi.de/media-center/newsroom/news-detailseite/microbelix-der-erdboden-als-mikrobielle-schatzkiste/
+  https://helmholtz.social/@Helmholtz_HZI/116770071568726432
 
 ## Parlamente
 * Open Parlament TV: Zeit für ein Update: Wir haben weitere 20.000 Redebeiträge aus den Jahren 2009-2013 auf der Open Parliament TV Plattform zugänglich gemacht
@@ -71,9 +93,25 @@ type: blog
 * Deutsche Eudi-Wallet: Einblicke in ein verkorkstes Projekt
   https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/einblicke-in-ein-verkorkstes-projekt
   https://mastodon.social/@bkastl/116713104841713839
+  * EU-Kommission höhlt Schutzrechte bei digitaler Brieftasche aus
+    https://netzpolitik.org/2026/biometrische-passfotos-statt-pseudonyme-eu-kommission-hoehlt-schutzrechte-bei-digitaler-brieftasche-aus/
+* Trotz hoher Investitionen bleibt die digitale Verwaltung in Deutschland hinter den Erwartungen zurück. Das Problem sind nicht die Mittel, sondern die Strukturen
+  https://www.heise.de/hintergrund/Missing-Link-Warum-Deutschlands-Behoerden-bei-der-Digitalisierung-stagnieren-11331433.html
+  * EU-Digitalisierungsbericht 2026: Deutschland kommt nur mühsam voran
+    https://www.heise.de/news/EU-Digitalisierungsbericht-2026-Deutschland-kommt-nur-muehsam-voran-11335772.html
+* Deutschland-Stack: Bund und Länder feiern Durchbruch bei der Verbindlichkeit
+  https://www.heise.de/news/Deutschland-Stack-Bund-und-Laender-feiern-Durchbruch-bei-der-Verbindlichkeit-11336204.html
+* 50. Sitzung des IT-Planungsrates
+  https://egovernment-podcast.com/egov266_50-it-plr/
+* Organisationsversagen vs. Technikpanne
+  https://www.cyberkrisenmanagement.blog/organisationsversagen-vs-technikpanne/
+
 ### SPARK-Hackathon
 * Beschäftigungstherapie und Theater
   https://tldr.nettime.org/users/tante/statuses/116668991736103329
+  * Das BMDS laesst sich aber Zeit, auf meine IFG-Anfrage vom 12. Mai zu antworten. Gestern haben sie nach Ueberschreiten der gesetzlichen Frist und Mahnung nun geantwortet, dass sie ja gar keine „Plattform“ namens „SPARK“ haetten und daher mein Antrag zu ungenau ist. 
+    https://fragdenstaat.de/anfrage/haushaltsmittel-fuer-die-spark-plattform/
+    https://chaos.social/@stk/116811605835902358
 
 ## Digitale Souveränität
 * Millionen von Windows- und Linux-PC könnten bald nicht mehr booten, weil Microsoft Probleme mit wichtigen Zertifikaten hat.
@@ -83,6 +121,10 @@ type: blog
   https://digitalegesellschaft.de/2026/06/die-stecker-neu-stecken-digital-und-selbstbestimmt/
 * Musik-Streaming-Plattformen – Spotify-Alternativen Teil 1
   https://www.kuketz-blog.de/musik-streaming-plattformen-spotify-alternativen-teil-1/
+* Android-Verifizierung: Google bestätigt Zeitplan und nennt App-Stores
+  https://www.heise.de/news/Android-Google-nennt-Zeitplan-fuer-Entwickler-Verifizierung-und-erste-App-Stores-11338038.html
+* Bund in der Abhängigkeitsfalle: Kostenexplosion bei Microsoft-Lizenzen
+  https://www.heise.de/news/Bund-in-der-Abhaengigkeitsfalle-Kostenexplosion-bei-Microsoft-Lizenzen-11343398.html
 
 ## Energie
 * Open-source is becoming strategic infrastructure in Europe — especially in energy - At Open Energy Transition, we believe energy models should be transparent, collaborative & accessible.
@@ -92,6 +134,19 @@ type: blog
 * Alle europäischen Länder haben im meteorologischen Frühling 2026 neue Rekorde bei der Solarstromerzeugung erzielt.
   https://energy-charts.info/charts/energy/chart.htm?l=de&c=EU&interval=season&season=1&year=-1&legendItems=pyn
   https://wisskomm.social/@energy_charts_d/116729868254321199
+* Was hat es mit dynamischen Stromtarifen auf sich?
+  https://www.l-iz.de/wirtschaft/verbraucher/2026/06/energiewende-dritter-teil-dynamische-stromtarife-661732
+
+## Karten
+* 3000 x geoObserver-News & 14. Geburtstag!
+  https://geoobserver.de/2026/06/25/ein-gastbeitrag-3000-x-geoobserver-news-und-14-geburtstag/
+
+## Mobilität
+* Radnetze einfacher planen mit dem neuen QGIS-Plugin, kostenfrei & OpenSource
+  https://vision-velo.de/digirad-digitales-radverkehrskonzept/
+  https://social.bund.de/@bmv/116736117872259496
+* C-ITS: Mit einem ESP32 Ampeln, Straßenbahnen und Autos tracken
+  https://media.ccc.de/v/glt26-688-c-its-mit-einem-esp32-ampeln-straenbahnen-und-autos-tracken
 
 ## Klima
 * Hitze-Check 2026 der Deutschen Umwelthilfe: Fast eine Million Bäume aus deutschen Städten verschwunden
@@ -101,16 +156,43 @@ type: blog
 * Eichenprozessionsspinner plagt Berlin-Brandenburg – Gericht ordnet Bekämpfung an
   https://www.berliner-zeitung.de/article/eichenprozessionsspinner-cottbus-urteil-berlin-rekordbefall-10134563
   https://dju.social/@DerKlimablog/116726231070057350
+  * In Berlin sorgt die Ausbreitung der giftigen Eichenprozessionsspinner für Panik. Und die Politik? Reagiert spät und chaotisch.
+    https://taz.de/Eichenprozessionsspinner-in-Berlin/!6188536/
+* Codecarbon is a nice tool to get carbon emission metrics of your code. It can run offline, locally on machine.
+  https://github.com/mlco2/codecarbon
+  https://mastodon.social/@omkar_foss/116755034658094181
+* Nasa warnt vor El Niño: Pazifik-Temperaturen 6 Grad über dem Schnitt
+  https://www.telepolis.de/article/Nasa-warnt-vor-El-Nino-Pazifik-Temperaturen-6-Grad-ueber-dem-Schnitt-11337900.html
+* Satellitenaufnahmen: El Niño hat begonnen und wird immer stärker
+  https://www.heise.de/news/Satellitenaufnahmen-El-Nino-hat-begonnen-und-koennte-besonders-stark-werden-11337255.html
+* Stadtklimadashboard
+  https://stadtklimadashboard.de
+  https://wisskomm.social/@ioer/116776831237397788
+* 3,4 Millionen Beschäftigte arbeiten in der deutschen #GreenTech-Branche - 3x so viel wie in der Autoindustrie. Die Exportleistung ist 132 Mrd. Euro.
+  https://www.umweltbundesamt.de/themen/wirtschaft-konsum/wirtschaft-umwelt/wirtschaft-fuer-umwelt-klimaschutz/greentech-atlas-2025
+  https://openbiblio.social/@RenkeSiems/116814665715852247
+* Hitzeinseln, Hitze-Plätze in Eurer Stadt auf Karte einzutragen
+  https://maps.greenpeace.org/maps/gpde/stadtnatur/
+  via https://mstdn.social/@XR_Nuernberg/116816906219083635
 ### Kühle Orte
 * Wien
   wien.gv.at/umwelt/coole-zonen 
   via https://fedi.at/@tom/116673835685782442
+* Übersicht
+  https://social.chaotikum.org/@tvluke/116800110091614611
 ### Anpassung
 * München - Wie die autogerechte und steinerne Stadt zurückgedrängt werden soll.
   https://www.sueddeutsche.de/muenchen/muenchen-ludwigstrasse-umgestaltung-plaene-baeume-autofrei-li.3476568
+* Bremen fördert, dass Menschen Flächen entsiegeln
+  https://taz.de/Entsiegelung-in-Bremen/!6185922/
 ### USA
 * weltweit fortschrittlichste Netzwerk zur Ozeanüberwachung wird verschrottet
   https://norden.social/@Attac_Norden/116691649275866749
+* KI-Rechenzentrum: Trump-Regierung will Umweltklage gegen xAI beenden
+  https://www.golem.de/news/ki-rechenzentrum-trump-regierung-will-umweltklage-gegen-xai-beenden-2606-209932.html
+* DOGE fired NOAA's climate scientists. Those scientists just launched climate.us - a new hub for climate research, formerly Climate.gov"
+  https://www.climate.us
+  https://jasette.facil.services/@MichelPatrice/116813729992909946
 
 ## Kultur
 * Sixty thousand love letters and counting: volunteers help sift through vast German trove of devotion
@@ -120,6 +202,11 @@ type: blog
 * Kritik im Datenraum. Graph-Theorie für eine digitale kritische Museologie
   https://lisa.gerda-henkel-stiftung.de/engagierte_kunstgeschichte_fuchsgruber
   https://social.wikimedia.de/@wikimediaDE/116720503065228510
+* Künstliche Intelligenz soll Bairisch lernen
+  https://www.heise.de/news/Kuenstliche-Intelligenz-soll-Bairisch-lernen-11332176.html
+* Stadtansichten auf #wikimediacommons strukturiert erschließen, Städte in #LOD verwandeln, die Ansichten – und den historischen Stadtraum! – les- und analysierbar machen
+  https://commons.wikimedia.org/wiki/User:Awinkler3/Annotating_the_City
+  https://openbiblio.social/@awinkler/116776936722791585
 
 ## Finanzen
 * Städtetag schockiert: Pflegereform belastet Kommunen massiv
@@ -127,10 +214,16 @@ type: blog
 * Gratis E-Book "Faire Steuern"
   https://perspective-daily.de/article/faire-steuern-pdf
   https://social.perspective-daily.de/@PerspectiveDaily/116726379924790979
+* Kommunen am Limit
+  https://kommunenamlimit.de
+* EU-Abgeordnete stimmen für Digitalen Euro
+  https://netzpolitik.org/2026/alternative-zu-visa-paypal-und-co-eu-abgeordnete-stimmen-fuer-digitalen-euro/
 
 ## Gesundheit
 * Digital Health: Erfahrungen mit E-Rezept, E-Patientenakte und Heilberufsausweis
   https://www.heise.de/hintergrund/Erfahrungsbericht-TI-und-Praxis-Gut-gemeint-ist-nicht-gut-gemacht-11319514.html
+* Patientenvertreterin: "Wir haben bei der Digitalisierung den Überblick verloren"
+  https://www.heise.de/hintergrund/Die-Digitalisierung-hat-grosses-Potenzial-fuer-Patientinnen-und-Patienten-11340915.html
 
 ## Transparenz
 * Lange war der Vermittlungsausschuss die Dunkelkammer der Gesetzgebung. 2023 veröffentlichten wir erstmals die Stzungsprotokolle, um Transparenz zu schaffen. Jetzt zieht der Vermittlungsausschuss endlich selbst nach.
@@ -140,6 +233,8 @@ type: blog
   https://systemli.social/@anneroth/116684941827934040
 * Bundesbeauftragte: Informationsfreiheit soll ins Grundgesetz
   https://www.heise.de/news/Bundesbeauftragte-Informationsfreiheit-soll-ins-Grundgesetz-11317290.html
+* Neuer Bundesbeauftragter für Datenschutz und Informationsfreiheit gewählt: "Hennemann gilt als Vertreter eines wirtschaftsorientierten Datenschutzes, der Daten als ökonomisches Gut sieht und die Nutzung von Daten für Innovation und Geschäftsmodelle betont."
+  https://netzpolitik.org/2026/moritz-hennemann-neuer-bundesbeauftragter-fuer-datenschutz-und-informationsfreiheit-gewaehlt/
 * BfDI veröffentlicht erste bundesweite Repräsentativbefragung zur Informationsfreiheit. 
   https://www.bfdi.bund.de/DE/BfDI/Datenbarometer/Informationsfreiheit/Informationsfreiheit_node.html
   via https://chaos.social/@jk/116688505385548388
@@ -157,17 +252,48 @@ type: blog
 * Mit "Nachgeliefert" lassen sich alle Regierungspressekonferenzen seit 2014 systematisch durchsuchen, Wortnennungen vergleichen, Anfragen nach IFG oder Presserecht stellen oder Ihr trackt eure Themen.
   https://fragdenstaat.de/artikel/exklusiv/2026/06/uber-klima-wird-gesprochen-wenn-es-brennt/?pk_campaign=mastodon
   https://chaos.social/@fragdenstaat/116726675361606515
+* Die Aktivistin Martha Root hat Wolfram Weimers Frühwerk frei verfügbar gemacht – in der Bibliothek, deren Ausbau der Kulturstaatsminister stoppen will
+  https://taz.de/Veroeffentlichung-von-Weimers-Gedichten/!6186770/
+  https://pinkpower.lol/weimer/
+* Ein Zuarbeiter der konservativen Denkfabrik Republik 21 ist zum neuen Chefredenschreiber von Wirtschaftsministerin Katherina Reiche (CDU) avanciert
+  https://correctiv.org/aktuelles/parteien/2026/06/10/von-der-rechten-denkfabrik-zu-katherina-reiche/
+* Berlin: Informationsfreiheits-Fiasko mit Ansage
+  https://fragdenstaat.de/artikel/policy/2026/06/informationsfreiheits-fiasko-mit-ansage/
+* Verschlossene Auster 2026 geht an Berlins Regierenden Bürgermeister Kai Wegner
+  https://netzwerkrecherche.org/blog/verschlossene-auster-2026/
+* 20 Jahre Informationsfreiheitsgesetz: Transparenz nicht schwächen, sondern ausbauen
+  https://netzpolitik.org/2026/20-jahre-informationsfreiheitsgesetz-transparenz-nicht-schwaechen-sondern-ausbauen/
+* Nach Datenleck: Jens Spahn bestätigt Teilnahme an Veranstaltungen von Peter Thiel
+  https://www.deutschlandfunk.de/jens-spahn-bestaetigt-teilnahme-an-veranstaltungen-von-peter-thiel-110.html
+  * Spahn besucht seit Jahren vertrauliche Thiel-Treffen
+    https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101300782/jens-spahn-besucht-seit-jahren-diskrete-thiel-treffen.html
+* Gentechnik auf dem Teller – und keiner sagt's Dir
+  https://www.telepolis.de/article/EU-Gentechnik-Forsa-Umfrage-zeigt-breiten-Protest-gegen-CRISPR-Plaene-11343019.html
+  via https://social.heise.de/@telepolis/116808756796935202
+* Freiheitsrechte: "Das Ergebnis ist eindeutig: Die AfD ist verfassungswidrig." - 2.500 Belege in Gutachten
+  https://afd-gutachten.de
+  https://mastodon.social/@pruef_bw/116810255146816310
+* FragDenStaat AfD-Datenbank ist da - Jeder Beleg ist mit dem AfD-Gutachten von Freiheitsrechte verknüpft. 
+  https://fragdenstaat.de/aktionen/afd-datenbank/
+  * Belege zum Rechtsgutachten: Darum ist die AfD verfassungswidrig
+    https://fragdenstaat.de/artikel/exklusiv/2026/06/darum-ist-die-afd-verfassungswidrig/
 
 ## Demokratie
 * DemokRADtour
   https://ostdeutschland.de/startseite.html
+* sachsen-anhalt Weltoffen
+  https://sachsenanhalt-weltoffen.de
 * Forscher: Kneipensterben ist schlecht für die Demokratie
   https://www.diesachsen.de/soziales/forscher-kneipensterben-ist-schlecht-fuer-die-demokratie-3143053
+* Das Schweizer Parlament schafft die Grundlage für Versuche mit E-Collecting:
+  https://www.digitale-gesellschaft.ch/2026/06/19/e-collecting-parlament-macht-weg-frei-fuer-digitale-unterschriftensammlung-gemeinsame-medienmitteilung-der-stiftung-fuer-direkte-demokratie-und-der-digitalen-gesellschaft/
 
 ## Journalimus
 * The RePlaybook: A Field Guide to the Climate and Information Crisis
   https://tacticaltech.org/replaybook/
   https://mastodon.cc/@info_activism/116725751160558903
+* One Year of Publix: Our First Impact Report Is Here
+  https://www.publix.de/en/news/impact-report-01
 
 ## Überwachung
 * Thüringen plant ein neues Polizeigesetz
@@ -179,12 +305,31 @@ type: blog
     https://netzpolitik.org/2026/daten-schwarzmarkt-deutsche-polizei-nutzt-offenbar-rechtswidrig-databroker/
 * CDU, SPD und BSW wollen Überwachung in Sachsen ausweiten
   https://netzpolitik.org/2026/smartphones-hacken-gesichter-scannen-cdu-spd-und-bsw-wollen-ueberwachung-in-sachsen-ausweiten/
-
+  * Zivilgesellschaftliche Organisationen appellieren an die Fraktionen des Sächsischen Landtags, der geplanten Massenüberwachung nicht zuzustimmen
+    https://www.privatsphaere-leipzig.org/posts/2026-06-16-pm-novelle-polizeigesetz/
+  * Wer heute biometrische Massenüberwachung und #Verhaltensscanner legalisiert, baut Infrastruktur für den Techno-Faschismus von morgen. Abgeordnete von Sachsen: Stimmt dagegen!
+    https://www.ccc.de/de/updates/2026/stop-ueberwachungsmaschinerie-sachsen
+  * Polizeirechtsnovelle verabschiedet: Landtag ermöglicht massive Überwachung in Sachsen
+    https://netzpolitik.org/2026/polizeirechtsnovelle-verabschiedet-landtag-ermoeglicht-massive-ueberwachung-in-sachsen/
+* Palantir has lost a legal bid to force a Swiss magazine to publish its responses to articles detailing how the country’s government repeatedly rejected its services
+  https://infosec.exchange/@adfichter/116738333166484144
+* Neue Höchststände bei Polizeischüssen und Taser-Einsätzen
+  https://netzpolitik.org/2026/statistik-zu-polizeilichem-schusswaffengebrauch-neue-hoechststaende-bei-polizeischuessen-und-tasereinsaetzen/
+* re:publica 26: Wir wissen wo du warst – weil Databroker deine Daten verkaufen
+  https://youtu.be/QyFCa6RkqXM
+  https://mamot.fr/@roofjoke/116800369731539239
 ## Entfremdete Intelligenz
+* 400-Milliarden-Parameter-Modell: Konsortium „Europa“ gewinnt KI-Wettbewerb
+  https://www.heise.de/news/400-Milliarden-Parameter-Modell-Konsortium-Europa-gewinnt-KI-Wettbewerb-11339003.html
 ### Fremde Federn
 * AI turns this single bullet point into a long email I can pretend I wrote
   AI makes a single bullet point out of this long email I can pretend I read
   https://mastodon.social/@Sheril/116720919490343442
+* Bei Reden & Texten von Thüringens Ministerpräsident Voigt schlug ein Analysetool zehn mal mehr an als bei Beiträgen anderer Politiker*innen. Außerdem finden sich in einem Text mehrere Zitate, die nicht verifizert werden konnten
+  https://www.deutschlandfunkkultur.de/wie-viel-ki-ist-in-den-texten-von-thueringens-mp-recherche-von-frag-den-staat-100.html
+  https://chaos.social/@fragdenstaat/116742490224042491
+* Jetzt soll auch #Reiche KI für ihren Gastbeitrag in der FAZ genutzt haben. Nicht nur ein bisschen, sondern zu wahrscheinlich mehr als zwei Dritteln.
+  https://dju.social/@DerKlimablog/116775852695840444
 ### Grenzen
 * Stroop-Effekt: KI-Modelle scheitern an klassischem Aufmerksamkeitstest
   https://www.heise.de/news/Stroop-Effekt-KI-Modelle-versagen-bei-klassischem-Aufmerksamkeitstest-11317071.html
@@ -204,11 +349,23 @@ type: blog
 ### Alternativen
 * DuckDuckGo: KI-freie Suche boomt – jetzt als Standard
   https://www.heise.de/news/DuckDuckGo-KI-freie-Suche-boomt-jetzt-als-Standard-11317527.html
+* Zurück zu Buch und Stift: Norwegen verbannt KI aus Grundschulen
+  https://www.heise.de/news/Zurueck-zu-Buch-und-Stift-Norwegen-verbannt-KI-aus-Grundschulen-11339393.html
+* PACT: Cloudflare will mit Browserherstellern böswilligen Traffic aussortieren
+  https://www.heise.de/news/PACT-Cloudflare-will-mit-Browserherstellern-boeswilligen-Traffic-aussortieren-11340973.html
 ### Kapitalismus
 * KI lieber "entfremdete Intelligenz" nennen
   https://sciences.social/@MSchnetker/116674158399393154
 * US-Senator plant Gesetz für 50-Prozent-Aktiensteuer auf OpenAI, Anthropic und xAI. Ein Staatsfonds soll Bürgern Dividenden zahlen.
   https://www.telepolis.de/article/Bernie-Sanders-will-50-Prozent-der-KI-Aktien-in-oeffentliche-Hand-bringen-11318656.html
+* Von der Kohle zur KI-Kriegswirtschaft
+  https://jacobin.de/artikel/kohle-ki-kriegswirtschaft-rheinisches-revier
+* KI-Firmen kaufen Antiquariate leer – und vernichten die Bücher
+  https://www.srf.ch/kultur/gesellschaft-religion/jagd-auf-alte-buecher-ki-firmen-kaufen-antiquariate-leer-und-vernichten-die-buecher
+* Europe must choose between AI and climate goals, data center lobby says
+  https://www.politico.eu/article/europe-choose-ai-climate-goals-data-center-chief-warns/
+* Prognose: 2028 wird KI-Coding teurer als Entwicklergehälter
+  https://www.heise.de/news/Prognose-2028-wird-KI-Coding-teurer-als-Entwicklergehaelter-11343464.html
 ## Ressourcenbelastung
 * Open Context (https://opencontext.org) is now getting slammed with 3x more traffic than normal.
   https://scholar.social/@ekansa/116722821761382323
@@ -221,7 +378,18 @@ type: blog
   * Nobody needs AI to search the Internet, court says in ruling against Google
     https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/
     https://mastodon.social/@arstechnica/116726961728397799
-
+* Präzedenzfall Garfield AI: Wie ein Algorithmus das Gericht erobert
+  https://www.telepolis.de/article/Praezedenzfall-Garfield-AI-Wie-ein-Algorithmus-das-Gericht-erobert-11341806.html
+## Verantwortung
+* Die perfekte Ausrede: Warum wir die Schuld so gern auf KI schieben
+  https://www.telepolis.de/article/Die-perfekte-Ausrede-Warum-wir-die-Schuld-so-gern-auf-KI-schieben-11328396.html
+* Meredith Whittaker: "KI-Chatbots sind nicht eure Freunde"
+  https://www.telepolis.de/article/Meredith-Whittaker-KI-Chatbots-sind-nicht-eure-Freunde-11339577.html
+* Studie sieht systematische Verstöße gegen humanitäres Völkerrecht durch KI-Zielsysteme in Gaza
+  https://www.weizenbaum-institut.de/news/detail/studie-sieht-systematische-verstoesse-gegen-humanitaeres-voelkerrecht-durch-ki-zielsysteme-in-gaza/
+## Niedergang Demokratie
+* "KI"-Effizienzversprechen und der Niedergang der Demokratie
+  https://tante.cc/2026/06/16/ki-effizienzversprechen-und-der-niedergang-der-demokratie/
 
 ## Recap
 * Dataweek
@@ -230,10 +398,16 @@ type: blog
   https://media.ccc.de/b/conferences/gpn/gpn24
 * Netzwerk Recherche – Jahreskonferenz 2026
   https://www.youtube.com/playlist?list=PL3k-vp8y4t2vs290Estf4mZAC1fxnK-cz
+* Digital GreenTech – Umwelttechnik trifft Digitalisierung
+  https://www.youtube.com/watch?v=kjrjNIZA4j4&t=12s
 
 ## Termine
-* Erzählcafé für #Reparatur-bewegte Menschen, 8.7.
+* Erzählcafé für Reparatur-bewegte Menschen, 8.7.
   https://mastodon.social/@ioew/116720637604311953
+* Civic Coding-Accelerator, Bewerbungen bis 31.7.
+  https://www.civic-coding.de/angebote/accelerator
+* NPA 158
+  https://chaos.social/@digiges/116805139368526585
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Freitag, 03.07.2026, 11:00, bis Sonntag, 05.07.2026, 17:15, Aaccelerator, Blezingerstraße 15, 73430 Aalen: **FAT26** <a title='Kalendereintrag FAT26' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRkFUMjYvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA2MDhUMjAxOTM3Wg0KRFRTVEFSVDoyMDI2MDcwM1QxMTAwMDANCkRURU5EOjIwMjYwNzA1VDE3MTUwMA0KU1VNTUFSWTpGQVQyNg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9oYWNrd2Vyay5mdW4NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046QWFjY2VsZXJhdG9yXCwgQmxlemluZ2Vyc3RyYcOfZSAxNVwsIDczNDMwIEFhbGVuDQpHRU86NDguODU0NDMyOTsxMC4wOTA2MzQ3DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>

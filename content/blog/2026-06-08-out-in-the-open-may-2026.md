@@ -431,6 +431,8 @@ type: blog
 * CDU-Wirtschaftsministerin Reiche heuert Berater an – 2,2 Millionen für die eigene PR jährlich
   https://www.fr.de/politik/cdu-wirtschaftsministerin-reiche-heuert-berater-an-millionen-fuer-eigene-pr-jaehrlich-94299402.html
   https://www.fr.de/politik/reiche-ministerium-vergibt-gigantischen-millionen-auftrag-an-werbeagentur-zr-94319666.html
+  * Katherina Reiche veranschlagt 2,2 Millionen Euro jährlich für PR-Berater
+    https://www.wiwo.de/politik/deutschland/katherina-reiche-veranschlagt-22-millionen-euro-jaehrlich-fuer-pr-berater/100223470.html
 
 ## Lobbyismus
 * Reiche-Ministerium sorgt mit Lobby-Video für Empörung – "ganz neue Dimension"
