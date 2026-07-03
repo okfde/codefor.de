@@ -130,6 +130,12 @@ type: blog
   https://www.heise.de/news/Bund-in-der-Abhaengigkeitsfalle-Kostenexplosion-bei-Microsoft-Lizenzen-11343398.html
 * Open-Source-Revolution bei Computerchips: Die Schweiz spielt eine Schlüsselrolle
   https://www.swissinfo.ch/ger/schweizer-ki/open-source-revolution-bei-computerchips-die-schweiz-spielt-eine-schl%C3%BCsselrolle/91106648
+* Stop Killing The Internet
+  https://www.stopkillingtheinternet.com
+  https://mastodon.social/@digiges/116834094669218280
+  https://mastodon.social/@digiges/116834103936680224
+* How to choose digital tools (yes, you have a choice) in the age of AI
+  https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-june-2026/
 
 ## Energie
 * Open-source is becoming strategic infrastructure in Europe — especially in energy - At Open Energy Transition, we believe energy models should be transparent, collaborative & accessible.
@@ -157,6 +163,9 @@ type: blog
 * Bahnhoroskop
   https://bahnhoroskop.ggor.de/
   https://bsky.app/profile/gregor.bsky.social/post/3mohwjw6ynk2b
+* If you know of any open data schemes on signal timing around the world, please add a sentence in here!
+  https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination#Data
+  https://mastodon.social/@jakecoppinger/116825595797158642
 
 ## Klima
 * Hitze-Check 2026 der Deutschen Umwelthilfe: Fast eine Million Bäume aus deutschen Städten verschwunden
@@ -190,12 +199,24 @@ type: blog
   https://correctiv.org/aktuelles/klimawandel/2026/06/11/duerre-trockenheit-wassermangel-landwirtschaft-europa/
 * Ein einzelner Hitzetag kostet rund 431 Millionen Euro
   https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-ein-einzelner-hitzetag-kostet-rund-431-millionen-euro/100231354.html
+* Above-average sea surface temperatures across European seas at the end of June 2026
+  https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/above-average-sea-surface-temperatures-across-european-seas-end-june-2026
 ### Kühle Orte
+* Wo kühl?
+  https://www.wo-kuehl.de
+* Kühle-Orte.de
+  https://kühle-orte.de/
+  * z.B. Dresden
+    https://kühle-orte.de/kuehle-orte-karte-landeshauptstadt-dresden/
 * Wien
   wien.gv.at/umwelt/coole-zonen 
   via https://fedi.at/@tom/116673835685782442
 * Übersicht
   https://social.chaotikum.org/@tvluke/116800110091614611
+* Stuttgart
+  https://maps.stuttgart.de/kuehle_orte/
+* Leipzig
+  https://www.leipzig.de/leben-in-leipzig/gesundheit/vorsorge/gesundheitstipps-bei-hitze
 ### Anpassung
 * München - Wie die autogerechte und steinerne Stadt zurückgedrängt werden soll.
   https://www.sueddeutsche.de/muenchen/muenchen-ludwigstrasse-umgestaltung-plaene-baeume-autofrei-li.3476568
@@ -242,6 +263,8 @@ type: blog
   https://www.finanzwende.de/themen/finanzialisierung/unser-leben-ihr-profit
 * Die Berichterstattung zur (Aktienrente-) grenzt für mich an Medienversagen, und das ist gefährlich für uns alle:
   https://bsky.app/profile/krokoquarius.bsky.social/post/3mp6jo2tg6k2a
+* Bargeld-Verordnung: Wie die EU die Rolle des Bargelds stärken will
+  https://netzpolitik.org/2026/bargeld-verordnung-wie-die-eu-die-rolle-des-bargelds-staerken-will/
 
 ## Gesundheit
 * Digital Health: Erfahrungen mit E-Rezept, E-Patientenakte und Heilberufsausweis
@@ -309,8 +332,14 @@ type: blog
   https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/audio-prozess-um-maskendeal-startet-in-bonn-100.html
 * Was hat sich durch das Österreichische Informationsfreiheitsgesetz eigentlich verändert?
   https://tube.bawü.social/w/mSZNr1wmYw3iphJREHpkZ2
+  * Erwin Ernst Steinhammer – Informationsfreiheit in Österreich: Wie transparent ist der Staat wirklich?
+    https://podcast.mitmilchundzucker.at/informationsfreiheit-oesterreich-mit-erwin-ernst-steinhammer/
+    https://mitmilchundzucker.podigee.io/320-erwin-ernst-steinhammer
+    https://fedi.at/@informationsfreiheit/116833673307541602
 * Guttenberg: Der Mann aller Märkte
   https://correctiv.org/aktuelles/lobbyismus/2026/06/26/guttenberg-der-mann-aller-maerkte/
+* EU-Regeln: Warum neues Gen-Food bald unbemerkt im Supermarkt landet
+  https://www.telepolis.de/article/EU-Regeln-Warum-neues-Gen-Food-bald-unbemerkt-im-Supermarkt-landet-11343964.html
 
 ## Demokratie
 * DemokRADtour
@@ -356,6 +385,8 @@ type: blog
 * re:publica 26: Wir wissen wo du warst – weil Databroker deine Daten verkaufen
   https://youtu.be/QyFCa6RkqXM
   https://mamot.fr/@roofjoke/116800369731539239
+* Wie Bayern die Kontrolle über Palantir verliert
+  https://www.golem.de/news/bayerische-polizei-und-palantir-ist-der-einsatz-von-vera-teils-verfassungswidrig-2606-210271.html
 
 ## Entfremdete Intelligenz
 * 400-Milliarden-Parameter-Modell: Konsortium „Europa“ gewinnt KI-Wettbewerb
@@ -386,6 +417,8 @@ type: blog
   https://www.heise.de/news/Stroop-Effekt-KI-Modelle-versagen-bei-klassischem-Aufmerksamkeitstest-11317071.html
 * Digital-Me: Warum ich mehr bin als meine Daten
   https://t2informatik.de/blog/digital-me-mehr-als-meine-daten/
+* Ford hired AI and sacked humans. It backfired badly
+  https://www.independent.co.uk/tech/ford-ai-automation-humans-hiring-artificial-intelligence-b3004733.html
 ### Sicherheit
 * Hackers are hijacking high-profile Instagram accounts by simply asking Meta's AI chatbot to change the email on the account. Meta's AI does it, hacker gets password reset code, they're in
   https://infosec.exchange/@josephcox/116675938948881868
@@ -429,6 +462,8 @@ type: blog
   https://www.politico.eu/article/europe-choose-ai-climate-goals-data-center-chief-warns/
 * Prognose: 2028 wird KI-Coding teurer als Entwicklergehälter
   https://www.heise.de/news/Prognose-2028-wird-KI-Coding-teurer-als-Entwicklergehaelter-11343464.html
+* KI-Blase durchgerechnet: Erst zahlen, dann erschrecken!
+  https://www.metacheles.de/ki-blase-durchgerechnet-erst-zahlen-dann-erschrecken/
 ## Ressourcenbelastung
 * Open Context (https://opencontext.org) is now getting slammed with 3x more traffic than normal.
   https://scholar.social/@ekansa/116722821761382323
@@ -467,24 +502,58 @@ type: blog
 ## Fristen
 * FIfF-Konferenz 2026 - Call for Participation, 15.7. 23:59
   https://www.fiff.de/termine/2026/fiff-konferenz-2026-call-for-papers/
-
-## Termine
-* Erzählcafé für Reparatur-bewegte Menschen, 8.7.
-  https://mastodon.social/@ioew/116720637604311953
 * Civic Coding-Accelerator, Bewerbungen bis 31.7.
   https://www.civic-coding.de/angebote/accelerator
-* NPA 158
-  https://chaos.social/@digiges/116805139368526585
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
-* Freitag, 03.07.2026, 11:00, bis Sonntag, 05.07.2026, 17:15, Aaccelerator, Blezingerstraße 15, 73430 Aalen: **FAT26** <a title='Kalendereintrag FAT26' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRkFUMjYvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA2MDhUMjAxOTM3Wg0KRFRTVEFSVDoyMDI2MDcwM1QxMTAwMDANCkRURU5EOjIwMjYwNzA1VDE3MTUwMA0KU1VNTUFSWTpGQVQyNg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9oYWNrd2Vyay5mdW4NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046QWFjY2VsZXJhdG9yXCwgQmxlemluZ2Vyc3RyYcOfZSAxNVwsIDczNDMwIEFhbGVuDQpHRU86NDguODU0NDMyOTsxMC4wOTA2MzQ3DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
-  * https://hackwerk.fun
-* Freitag, 03.07.2026, 13:00-13:45, online: **artresearch.net. Wie vernetzen wir kunsthistorische Bildarchive? (Stefanie Schneider)** <a title='Kalendereintrag artresearch.net. Wie vernetzen wir kunsthistorische Bildarchive? (Stefanie Schneider)' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vYXJ0cmVzZWFyY2gubmV0LiBXaWUgdmVybmV0emVuIHdpciBrdW5zdGhpc3RvcmlzY2hlIEJpbGRhcmNoaXZlPyAoU3RlZmFuaWUgU2NobmVpZGVyKS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDYwOFQyMDE5MzdaDQpEVFNUQVJUOjIwMjYwNzAzVDEzMDAwMA0KRFRFTkQ6MjAyNjA3MDNUMTM0NTAwDQpTVU1NQVJZOmFydHJlc2VhcmNoLm5ldC4gV2llIHZlcm5ldHplbiB3aXIga3Vuc3RoaXN0b3Jpc2NoZSBCaWxkYXJjaGl2ZT8gKFN0ZWZhbmllIFNjaG5laWRlcikNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vZGlnaXRhbGUta3Vuc3RnZXNjaGljaHRlLmRlL2FrdHVlbGxlcy9sdW5jaC1hbmQtbGVhcm4tenVyLWRpZ2l0YWxlbi1rdW5zdGdlc2NoaWNodGUvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+* Donnerstag, 02.07.2026, 10:00, bis Sonntag, 05.07.2026, 18:30, Forum der Zukunft, Museumsinsel 1, 80538 München: **Festival der Zukunft** <a title='Kalendereintrag Festival der Zukunft' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRmVzdGl2YWwgZGVyIFp1a3VuZnQvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA3MDNUMTAxNDIxWg0KRFRTVEFSVDoyMDI2MDcwMlQxMDAwMDANCkRURU5EOjIwMjYwNzA1VDE4MzAwMA0KU1VNTUFSWTpGZXN0aXZhbCBkZXIgWnVrdW5mdA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cuZGV1dHNjaGVzLW11c2V1bS5kZS9mZXN0aXZhbC1kZXItenVrdW5mdA0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpGb3J1bSBkZXIgWnVrdW5mdFwsIE11c2V1bXNpbnNlbCAxXCwgODA1MzggTcO8bmNoZW4NCkdFTzo0OC4xMzE0MDExOTc2NDk4NjU7MTEuNTg1NTgzNTMxNzgxNTM4DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://www.deutsches-museum.de/festival-der-zukunft
+* Donnerstag, 02.07.2026, 19:31-19:31, online: **Bits und Bäume Community Treffen** <a title='Kalendereintrag Bits und Bäume Community Treffen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQml0cyB1bmQgQsOkdW1lIENvbW11bml0eSBUcmVmZmVuLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNzAzVDEwMTQyMVoNCkRUU1RBUlQ6MjAyNjA3MDJUMTkzMTAwDQpEVEVORDoyMDI2MDcwMlQxOTMxMDANClNVTU1BUlk6Qml0cyB1bmQgQsOkdW1lIENvbW11bml0eSBUcmVmZmVuDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2Rpc2NvdXJzZS5iaXRzLXVuZC1iYWV1bWUub3JnL3QvMjAyNi0wNy0wMi1vbmxpbmUtY29tbXVuaXR5LXRyZWZmZW4tMTktMzEtdWhyLzE2NjUNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://discourse.bits-und-baeume.org/t/2026-07-02-online-community-treffen-19-31-uhr/1665
+* Freitag, 03.07.2026, 13:00-13:45, online: **artresearch.net. Wie vernetzen wir kunsthistorische Bildarchive? (Stefanie Schneider)** <a title='Kalendereintrag artresearch.net. Wie vernetzen wir kunsthistorische Bildarchive? (Stefanie Schneider)' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vYXJ0cmVzZWFyY2gubmV0LiBXaWUgdmVybmV0emVuIHdpciBrdW5zdGhpc3RvcmlzY2hlIEJpbGRhcmNoaXZlPyAoU3RlZmFuaWUgU2NobmVpZGVyKS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDcwM1QxMDE0MjFaDQpEVFNUQVJUOjIwMjYwNzAzVDEzMDAwMA0KRFRFTkQ6MjAyNjA3MDNUMTM0NTAwDQpTVU1NQVJZOmFydHJlc2VhcmNoLm5ldC4gV2llIHZlcm5ldHplbiB3aXIga3Vuc3RoaXN0b3Jpc2NoZSBCaWxkYXJjaGl2ZT8gKFN0ZWZhbmllIFNjaG5laWRlcikNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vZGlnaXRhbGUta3Vuc3RnZXNjaGljaHRlLmRlL2FrdHVlbGxlcy9sdW5jaC1hbmQtbGVhcm4tenVyLWRpZ2l0YWxlbi1rdW5zdGdlc2NoaWNodGUvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://digitale-kunstgeschichte.de/aktuelles/lunch-and-learn-zur-digitalen-kunstgeschichte/
-* Montag, 06.07.2026, 13:00-14:00, online: **Von und mit Daten überzeugen: Datenstrategie in eurer Organisation umsetzen** <a title='Kalendereintrag Von und mit Daten überzeugen: Datenstrategie in eurer Organisation umsetzen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVm9uIHVuZCBtaXQgRGF0ZW4gw7xiZXJ6ZXVnZW46IERhdGVuc3RyYXRlZ2llIGluIGV1cmVyIE9yZ2FuaXNhdGlvbiB1bXNldHplbi8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDYwOFQyMDE5MzdaDQpEVFNUQVJUOjIwMjYwNzA2VDEzMDAwMA0KRFRFTkQ6MjAyNjA3MDZUMTQwMDAwDQpTVU1NQVJZOlZvbiB1bmQgbWl0IERhdGVuIMO8YmVyemV1Z2VuOiBEYXRlbnN0cmF0ZWdpZSBpbiBldXJlciBPcmdhbmlzYXRpb24gdW1zZXR6ZW4NCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vY29ycmVsYWlkLm9yZy92ZXJhbnN0YWx0dW5nZW4vY2MyNi1kYXRlbnN0cmF0ZWdpZQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+* Freitag, 03.07.2026, 18:00-22:00, temporärhaus, Augsburger Straße 23–25, 89231 Neu-Ulm: **10 Jahre temporärhaus – kleine Feier!** <a title='Kalendereintrag 10 Jahre temporärhaus – kleine Feier!' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vMTAgSmFocmUgdGVtcG9yw6RyaGF1cyDigJMga2xlaW5lIEZlaWVyIS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDcwM1QxMDE0MjFaDQpEVFNUQVJUOjIwMjYwNzAzVDE4MDAwMA0KRFRFTkQ6MjAyNjA3MDNUMjIwMDAwDQpTVU1NQVJZOjEwIEphaHJlIHRlbXBvcsOkcmhhdXMg4oCTIGtsZWluZSBGZWllciENCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vdGVtcG9yYWVyaGF1cy5kZS96ZWhuLWphaHJlLXRlbXBvcmFlcmhhdXMtZnVlbmZ6ZWhuLWphaHJlLWRhdGFsb3ZlLXdpci1mZWllcm4vDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOnRlbXBvcsOkcmhhdXNcLCBBdWdzYnVyZ2VyIFN0cmHDn2UgMjPigJMyNVwsIDg5MjMxIE5ldS1VbG0NCkdFTzo1Mi40OTY4MjMxNTsxMy40NTE1NTU1NjQ5Mzg4MTUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+  * https://temporaerhaus.de/zehn-jahre-temporaerhaus-fuenfzehn-jahre-datalove-wir-feiern/
+* Freitag, 03.07.2026, 18:00, bis Sonntag, 05.07.2026, 20:00, Aaccelerator, Blezingerstraße 15, 73430 Aalen: **FAT26 - Learning the Alphabet with the Hackwerk** <a title='Kalendereintrag FAT26 - Learning the Alphabet with the Hackwerk' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRkFUMjYgLSBMZWFybmluZyB0aGUgQWxwaGFiZXQgd2l0aCB0aGUgSGFja3dlcmsvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA3MDNUMTAxNDIxWg0KRFRTVEFSVDoyMDI2MDcwM1QxODAwMDANCkRURU5EOjIwMjYwNzA1VDIwMDAwMA0KU1VNTUFSWTpGQVQyNiAtIExlYXJuaW5nIHRoZSBBbHBoYWJldCB3aXRoIHRoZSBIYWNrd2Vyaw0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9oYWNrd2Vyay5mdW4vc3RhcnQNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046QWFjY2VsZXJhdG9yXCwgQmxlemluZ2Vyc3RyYcOfZSAxNVwsIDczNDMwIEFhbGVuDQpHRU86NDguODU0NDMyOTsxMC4wOTA2MzQ3DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://hackwerk.fun/start
+* Samstag, 04.07.2026, 10:30-20:00, Universität Tübingen - Gebäude auf dem Sand, Sand 14, 72076 Tübingen: **Tübix - Tübinger Linuxtag** <a title='Kalendereintrag Tübix - Tübinger Linuxtag' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVMO8Yml4IC0gVMO8YmluZ2VyIExpbnV4dGFnLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNzAzVDEwMTQyMVoNCkRUU1RBUlQ6MjAyNjA3MDRUMTAzMDAwDQpEVEVORDoyMDI2MDcwNFQyMDAwMDANClNVTU1BUlk6VMO8Yml4IC0gVMO8YmluZ2VyIExpbnV4dGFnDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy50dWViaXgub3JnLzIwMjYvcHJvZ3JhbW0vDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOlVuaXZlcnNpdMOkdCBUw7xiaW5nZW4gLSBHZWLDpHVkZSBhdWYgZGVtIFNhbmRcLCBTYW5kIDE0XCwgNzIwNzYgVMO8YmluZ2VuDQpHRU86NDguNTM0NDI7OS4wNzExMg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://www.tuebix.org/2026/programm/
+* Sonntag, 05.07.2026, online: **Digital Independence Day** <a title='Kalendereintrag Digital Independence Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNzAzVDEwMTQyMVoNCkRUU1RBUlQ6MjAyNjA3MDVUMDAwMDAwDQpEVEVORDoyMDI2MDcwNVQyMzU5NTkNClNVTU1BUlk6RGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpLmRheQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+  * https://di.day
+* Montag, 06.07.2026, 13:00-14:00, online: **Von und mit Daten überzeugen: Datenstrategie in eurer Organisation umsetzen** <a title='Kalendereintrag Von und mit Daten überzeugen: Datenstrategie in eurer Organisation umsetzen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVm9uIHVuZCBtaXQgRGF0ZW4gw7xiZXJ6ZXVnZW46IERhdGVuc3RyYXRlZ2llIGluIGV1cmVyIE9yZ2FuaXNhdGlvbiB1bXNldHplbi8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDcwM1QxMDE0MjFaDQpEVFNUQVJUOjIwMjYwNzA2VDEzMDAwMA0KRFRFTkQ6MjAyNjA3MDZUMTQwMDAwDQpTVU1NQVJZOlZvbiB1bmQgbWl0IERhdGVuIMO8YmVyemV1Z2VuOiBEYXRlbnN0cmF0ZWdpZSBpbiBldXJlciBPcmdhbmlzYXRpb24gdW1zZXR6ZW4NCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vY29ycmVsYWlkLm9yZy92ZXJhbnN0YWx0dW5nZW4vY2MyNi1kYXRlbnN0cmF0ZWdpZQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://correlaid.org/veranstaltungen/cc26-datenstrategie
-* Mittwoch, 08.07.2026, 10:00-11:30, online: **22. Open Data Netzwerktreffen** <a title='Kalendereintrag 22. Open Data Netzwerktreffen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vMjIuIE9wZW4gRGF0YSBOZXR6d2Vya3RyZWZmZW4vL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA2MDhUMjAxOTM3Wg0KRFRTVEFSVDoyMDI2MDcwOFQxMDAwMDANCkRURU5EOjIwMjYwNzA4VDExMzAwMA0KU1VNTUFSWToyMi4gT3BlbiBEYXRhIE5ldHp3ZXJrdHJlZmZlbg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cuYmVydGVsc21hbm4tc3RpZnR1bmcuZGUvZGUvdW5zZXJlLXByb2pla3RlL2RhdGVuLWZ1ZXItZGllLWdlc2VsbHNjaGFmdC9wcm9qZWt0bmFjaHJpY2h0ZW4vZGFzLWtvbW11bmFsZS1vcGVuLWRhdGEtbmV0endlcmt0cmVmZmVuDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+* Montag, 06.07.2026, 14:00-17:00, Raum Oxford (04G01), Staatsbibliothek zu Berlin, Unter den Linden 8, 10117  Berlin und auch online: **Datencafé: MultiSlavDict - Historische slawische Wörterbücher durchsuchen und auswerten** <a title='Kalendereintrag Datencafé: MultiSlavDict - Historische slawische Wörterbücher durchsuchen und auswerten' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGF0ZW5jYWbDqTogTXVsdGlTbGF2RGljdCAtIEhpc3RvcmlzY2hlIHNsYXdpc2NoZSBXw7ZydGVyYsO8Y2hlciBkdXJjaHN1Y2hlbiB1bmQgYXVzd2VydGVuLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNzAzVDEwMTQyMVoNCkRUU1RBUlQ6MjAyNjA3MDZUMTQwMDAwDQpEVEVORDoyMDI2MDcwNlQxNzAwMDANClNVTU1BUlk6RGF0ZW5jYWbDqTogTXVsdGlTbGF2RGljdCAtIEhpc3RvcmlzY2hlIHNsYXdpc2NoZSBXw7ZydGVyYsO8Y2hlciBkdXJjaHN1Y2hlbiB1bmQgYXVzd2VydGVuDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2xhYi5zYmIuYmVybGluL2RhdGVuY2FmZS8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046UmF1bSBPeGZvcmQgKDA0RzAxKVwsIFN0YWF0c2JpYmxpb3RoZWsgenUgQmVybGluXCwgVW50ZXIgZGVuIExpbmRlbiA4XCwgMTAxMTcgIEJlcmxpbiB1bmQgYXVjaCBvbmxpbmUNCkdFTzo1Mi41MTc1Mzg4OTIwMDA3NzsxMy4zOTE2MjA0NzYzOTU2NzMNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+  * https://lab.sbb.berlin/datencafe/
+* Dienstag, 07.07.2026, 14:00-15:00, online: **Diskurs am Dienstag: Radverkehrsdaten und -planung in Barcelona - Von Zählstellen bis Citizen Science** <a title='Kalendereintrag Diskurs am Dienstag: Radverkehrsdaten und -planung in Barcelona - Von Zählstellen bis Citizen Science' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlza3VycyBhbSBEaWVuc3RhZzogUmFkdmVya2VocnNkYXRlbiB1bmQgLXBsYW51bmcgaW4gQmFyY2Vsb25hIC0gVm9uIFrDpGhsc3RlbGxlbiBiaXMgQ2l0aXplbiBTY2llbmNlLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNzAzVDEwMTQyMVoNCkRUU1RBUlQ6MjAyNjA3MDdUMTQwMDAwDQpEVEVORDoyMDI2MDcwN1QxNTAwMDANClNVTU1BUlk6RGlza3VycyBhbSBEaWVuc3RhZzogUmFkdmVya2VocnNkYXRlbiB1bmQgLXBsYW51bmcgaW4gQmFyY2Vsb25hIC0gVm9uIFrDpGhsc3RlbGxlbiBiaXMgQ2l0aXplbiBTY2llbmNlDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpZnUuZGUvdmVyYW5zdGFsdHVuZ2VuLzIwMjYtMDctMDcvZGlza3Vycy1hbS1kaWVuc3RhZy1yYWR2ZXJrZWhyc2RhdGVuLXVuZC1wbGFudW5nLWluLWJhcmNlbG9uYQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+  * https://difu.de/veranstaltungen/2026-07-07/diskurs-am-dienstag-radverkehrsdaten-und-planung-in-barcelona
+* Dienstag, 07.07.2026, 20:00-22:00, c-base, Rungestraße 20, 10179 Berlin und auch online: **158. Netzpolitischer Abend** <a title='Kalendereintrag 158. Netzpolitischer Abend' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vMTU4LiBOZXR6cG9saXRpc2NoZXIgQWJlbmQvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA3MDNUMTAxNDIxWg0KRFRTVEFSVDoyMDI2MDcwN1QyMDAwMDANCkRURU5EOjIwMjYwNzA3VDIyMDAwMA0KU1VNTUFSWToxNTguIE5ldHpwb2xpdGlzY2hlciBBYmVuZA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9kaWdpdGFsZWdlc2VsbHNjaGFmdC5kZS8yMDI2LzA2LzE1OC1uZXR6cG9saXRpc2NoZXItYWJlbmQvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOmMtYmFzZVwsIFJ1bmdlc3RyYcOfZSAyMFwsIDEwMTc5IEJlcmxpbiB1bmQgYXVjaCBvbmxpbmUNCkdFTzo1Mi41MTI5NzM1OzEzLjQyMDEzMTMNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+  * https://digitalegesellschaft.de/2026/06/158-netzpolitischer-abend/
+* Mittwoch, 08.07.2026, 10:00-11:30, online: **22. Open Data Netzwerktreffen** <a title='Kalendereintrag 22. Open Data Netzwerktreffen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vMjIuIE9wZW4gRGF0YSBOZXR6d2Vya3RyZWZmZW4vL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA3MDNUMTAxNDIxWg0KRFRTVEFSVDoyMDI2MDcwOFQxMDAwMDANCkRURU5EOjIwMjYwNzA4VDExMzAwMA0KU1VNTUFSWToyMi4gT3BlbiBEYXRhIE5ldHp3ZXJrdHJlZmZlbg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cuYmVydGVsc21hbm4tc3RpZnR1bmcuZGUvZGUvdW5zZXJlLXByb2pla3RlL2RhdGVuLWZ1ZXItZGllLWdlc2VsbHNjaGFmdC9wcm9qZWt0bmFjaHJpY2h0ZW4vZGFzLWtvbW11bmFsZS1vcGVuLWRhdGEtbmV0endlcmt0cmVmZmVuDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/das-kommunale-open-data-netzwerktreffen
+* Donnerstag, 09.07.2026, 10:00-11:00, online: **CC-Lizenzen nutzen und verstehen** <a title='Kalendereintrag CC-Lizenzen nutzen und verstehen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ0MtTGl6ZW56ZW4gbnV0emVuIHVuZCB2ZXJzdGVoZW4vL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA3MDNUMTAxNDIxWg0KRFRTVEFSVDoyMDI2MDcwOVQxMDAwMDANCkRURU5EOjIwMjYwNzA5VDExMDAwMA0KU1VNTUFSWTpDQy1MaXplbnplbiBudXR6ZW4gdW5kIHZlcnN0ZWhlbg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9vcGVuLWFjY2Vzcy5uZXR3b3JrL2ZvcnRiaWxkZW4vb3Blbi1hY2Nlc3MtdGFsay9vYXRhbGstYW0tMDktanVsaS0yMDI2DQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://open-access.network/fortbilden/open-access-talk/oatalk-am-09-juli-2026
+* Donnerstag, 09.07.2026, 18:00, bis Sonntag, 12.07.2026, 16:30, Campelse e.V., Alte Försterei Borgsdorf 1, 14828 Görzke: **Tech Utopia (FLINTA* only)** <a title='Kalendereintrag Tech Utopia (FLINTA* only)' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVGVjaCBVdG9waWEgKEZMSU5UQSogb25seSkvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA3MDNUMTAxNDIxWg0KRFRTVEFSVDoyMDI2MDcwOVQxODAwMDANCkRURU5EOjIwMjYwNzEyVDE2MzAwMA0KU1VNTUFSWTpUZWNoIFV0b3BpYSAoRkxJTlRBKiBvbmx5KQ0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9sb2NhbC1pdC5vcmcvYmFyY2FtcDIwMjYvI3RlY2h1dG9waWENCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046Q2FtcGVsc2UgZS5WLlwsIEFsdGUgRsO2cnN0ZXJlaSBCb3Jnc2RvcmYgMVwsIDE0ODI4IEfDtnJ6a2UNCkdFTzo1Mi4xNDA5NDYzOzEyLjM0NTg4MDUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+  * https://local-it.org/barcamp2026/#techutopia
+* Donnerstag, 09.07.2026, 18:00, bis Sonntag, 12.07.2026, 13:30, Zeltplatz Messerschmidmühle, Messerschmidmühle St 2127, 94157 Maresberg: **VVoid Camp 2026** <a title='Kalendereintrag VVoid Camp 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVlZvaWQgQ2FtcCAyMDI2Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNzAzVDEwMTQyMVoNCkRUU1RBUlQ6MjAyNjA3MDlUMTgwMDAwDQpEVEVORDoyMDI2MDcxMlQxMzMwMDANClNVTU1BUlk6VlZvaWQgQ2FtcCAyMDI2DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy52dm9pZC5jYW1wDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOlplbHRwbGF0eiBNZXNzZXJzY2htaWRtw7xobGVcLCBNZXNzZXJzY2htaWRtw7xobGUgU3QgMjEyN1wsIDk0MTU3IE1hcmVzYmVyZw0KR0VPOjQ4Ljc3MTYyODg1NjUyMjcxOzEzLjQ1NzQ2ODU2MTUxNzI4OA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://www.vvoid.camp
+* Mittwoch, 15.07.2026, 14:00, bis Mittwoch, 22.07.2026, 01:00, Hylkedam, Hylkedamvej 54, 5591 Gelsted (Dänemark): **Bornhack** <a title='Kalendereintrag Bornhack' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQm9ybmhhY2svL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA3MDNUMTAxNDIxWg0KRFRTVEFSVDoyMDI2MDcxNVQxNDAwMDANCkRURU5EOjIwMjYwNzIyVDAxMDAwMA0KU1VNTUFSWTpCb3JuaGFjaw0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9ib3JuaGFjay5kay9ib3JuaGFjay0yMDI2Lw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpIeWxrZWRhbVwsIEh5bGtlZGFtdmVqIDU0XCwgNTU5MSBHZWxzdGVkIChEw6RuZW1hcmspDQpHRU86NTUuMzg1NjAxOzkuOTM5MDc0DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://bornhack.dk/bornhack-2026/
+* Donnerstag, 16.07.2026, 11:00-12:00, online: **openCode Connect Juli 2026: IKT-Architekturrichtlinie Berlin** <a title='Kalendereintrag openCode Connect Juli 2026: IKT-Architekturrichtlinie Berlin' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vb3BlbkNvZGUgQ29ubmVjdCBKdWxpIDIwMjY6IElLVC1BcmNoaXRla3R1cnJpY2h0bGluaWUgQmVybGluLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNzAzVDEwMTQyMVoNCkRUU1RBUlQ6MjAyNjA3MTZUMTEwMDAwDQpEVEVORDoyMDI2MDcxNlQxMjAwMDANClNVTU1BUlk6b3BlbkNvZGUgQ29ubmVjdCBKdWxpIDIwMjY6IElLVC1BcmNoaXRla3R1cnJpY2h0bGluaWUgQmVybGluDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL29wZW5jb2RlLmRlL2RlL2FrdHVlbGxlcy9ldmVudHMvb3BlbmNvZGUtY29ubmVjdC1qdWxpLTIwMjYtNTk1Nw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
+  * https://opencode.de/de/aktuelles/events/opencode-connect-juli-2026-5957
+* Donnerstag, 16.07.2026, 19:00-21:00, online: **Jugend editiert (online)** <a title='Kalendereintrag Jugend editiert (online)' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSnVnZW5kIGVkaXRpZXJ0IChvbmxpbmUpLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNzAzVDEwMTQyMVoNCkRUU1RBUlQ6MjAyNjA3MTZUMTkwMDAwDQpEVEVORDoyMDI2MDcxNlQyMTAwMDANClNVTU1BUlk6SnVnZW5kIGVkaXRpZXJ0IChvbmxpbmUpDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy53aWtpbWVkaWEuZGUvdmVyYW5zdGFsdHVuZ2VuL2p1Z2VuZC1lZGl0aWVydC1vbmxpbmUvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://www.wikimedia.de/veranstaltungen/jugend-editiert-online/
+* Freitag, 17.07.2026, 11:00, bis Samstag, 18.07.2026, 23:00, Stadtteilzentrum Nordstadt -Bürgerschule-, Klaus-Müller-Kilian-Weg 2, 30167 Hannover und auch online: **Hackover 2026 - Die große Jubiläumsgala** <a title='Kalendereintrag Hackover 2026 - Die große Jubiläumsgala' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSGFja292ZXIgMjAyNiAtIERpZSBncm/Dn2UgSnViaWzDpHVtc2dhbGEvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA3MDNUMTAxNDIxWg0KRFRTVEFSVDoyMDI2MDcxN1QxMTAwMDANCkRURU5EOjIwMjYwNzE4VDIzMDAwMA0KU1VNTUFSWTpIYWNrb3ZlciAyMDI2IC0gRGllIGdyb8OfZSBKdWJpbMOkdW1zZ2FsYQ0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9oYWNrb3Zlci5kZS9wb3N0cy8yMDI2LzAxLzA4LzEwMC1qYWhyZS1oYWNrb3Zlci8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046U3RhZHR0ZWlsemVudHJ1bSBOb3Jkc3RhZHQgLULDvHJnZXJzY2h1bGUtXCwgS2xhdXMtTcO8bGxlci1LaWxpYW4tV2VnIDJcLCAzMDE2NyBIYW5ub3ZlciB1bmQgYXVjaCBvbmxpbmUNCkdFTzo1Mi4zODgxMTY5OzkuNzE3OTM0Nw0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://hackover.de/posts/2026/01/08/100-jahre-hackover/
+* Dienstag, 21.07.2026, 09:00, bis Samstag, 25.07.2026, 18:00, Pfadfinderheim Welfenhof, III. Koppelweg 6, 38518 Gifhorn: **Hacken Open Air 2026** <a title='Kalendereintrag Hacken Open Air 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSGFja2VuIE9wZW4gQWlyIDIwMjYvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA3MDNUMTAxNDIxWg0KRFRTVEFSVDoyMDI2MDcyMVQwOTAwMDANCkRURU5EOjIwMjYwNzI1VDE4MDAwMA0KU1VNTUFSWTpIYWNrZW4gT3BlbiBBaXIgMjAyNg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9oYWNrZW5vcGVuYWlyLmRlDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOlBmYWRmaW5kZXJoZWltIFdlbGZlbmhvZlwsIElJSS4gS29wcGVsd2VnIDZcLCAzODUxOCBHaWZob3JuDQpHRU86NTIuNDYyODk5MTU7MTAuNjA0NTg0NDE2Mjg2NTg4DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://hackenopenair.de
+* Samstag, 25.07.2026, 12:45, bis Sonntag, 26.07.2026, 17:15, IPAI Foundation gGmbH, Im Zukunftspark 11/13, 74076 Heilbronn: **KI Festival 2026** <a title='Kalendereintrag KI Festival 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vS0kgRmVzdGl2YWwgMjAyNi8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDcwM1QxMDE0MjFaDQpEVFNUQVJUOjIwMjYwNzI1VDEyNDUwMA0KRFRFTkQ6MjAyNjA3MjZUMTcxNTAwDQpTVU1NQVJZOktJIEZlc3RpdmFsIDIwMjYNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vaXBhaS1mb3VuZGF0aW9uLmFpL2tpLWZlc3RpdmFsLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpJUEFJIEZvdW5kYXRpb24gZ0dtYkhcLCBJbSBadWt1bmZ0c3BhcmsgMTEvMTNcLCA3NDA3NiBIZWlsYnJvbm4NCkdFTzo0OS4xNTU3NzgyOzkuMjA3NjY4DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://ipai-foundation.ai/ki-festival/
+* Dienstag, 28.07.2026, 19:30-21:00, online: **OSM-Verkehrswende #77** <a title='Kalendereintrag OSM-Verkehrswende #77' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT1NNLVZlcmtlaHJzd2VuZGUgIzc3Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNzAzVDEwMTQyMVoNCkRUU1RBUlQ6MjAyNjA3MjhUMTkzMDAwDQpEVEVORDoyMDI2MDcyOFQyMTAwMDANClNVTU1BUlk6T1NNLVZlcmtlaHJzd2VuZGUgIzc3DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3dpa2kub3BlbnN0cmVldG1hcC5vcmcvd2lraS9WZXJrZWhyc3dlbmRlLU1lZXR1cCNNZWV0dXBzDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://wiki.openstreetmap.org/wiki/Verkehrswende-Meetup#Meetups
+* Mittwoch, 29.07.2026, 14:00-15:00, online: **Die Top 5 Open Source Alternativen für den Büroalltag** <a title='Kalendereintrag Die Top 5 Open Source Alternativen für den Büroalltag' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGllIFRvcCA1IE9wZW4gU291cmNlIEFsdGVybmF0aXZlbiBmw7xyIGRlbiBCw7xyb2FsbHRhZy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDcwM1QxMDE0MjFaDQpEVFNUQVJUOjIwMjYwNzI5VDE0MDAwMA0KRFRFTkQ6MjAyNjA3MjlUMTUwMDAwDQpTVU1NQVJZOkRpZSBUb3AgNSBPcGVuIFNvdXJjZSBBbHRlcm5hdGl2ZW4gZsO8ciBkZW4gQsO8cm9hbGx0YWcNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vZm9yc2NodW5nc2RhdGVuLXRodWVyaW5nZW4uZGUvdmVyYW5zdGFsdHVuZy9jbC1vcGVuLXNvdXJjZS1kZS5odG1sDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://forschungsdaten-thueringen.de/veranstaltung/cl-open-source-de.html
+* Donnerstag, 06.08.2026, 18:00-21:00, WikiBär Wikipedia, Köpenicker Straße 45, 10179 Berlin: **Jugend editiert** <a title='Kalendereintrag Jugend editiert' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSnVnZW5kIGVkaXRpZXJ0Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNzAzVDEwMTQyMVoNCkRUU1RBUlQ6MjAyNjA4MDZUMTgwMDAwDQpEVEVORDoyMDI2MDgwNlQyMTAwMDANClNVTU1BUlk6SnVnZW5kIGVkaXRpZXJ0DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy53aWtpbWVkaWEuZGUvdmVyYW5zdGFsdHVuZ2VuL2p1Z2VuZC1lZGl0aWVydC8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046V2lraULDpHIgV2lraXBlZGlhXCwgS8O2cGVuaWNrZXIgU3RyYcOfZSA0NVwsIDEwMTc5IEJlcmxpbg0KR0VPOjUyLjUwMjY3NzA2MjkzNjA3OzEzLjQzOTI1MDM0ODcyMTU0NA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
+  * https://www.wikimedia.de/veranstaltungen/jugend-editiert/
 * Regelmäßige OKLab-Treffen
   * Berlin: jeden zweiten oder dritten Montag im Monat, 19:00-22:00, WikiBär, Köpenicker Straße 45, 10179 Berlin: **Code for Berlin** <a title='Kalendereintrag Code for Berlin' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ29kZSBmb3IgQmVybGluLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNjI5VDExMjkyM1oNCkRUU1RBUlQ6MjAyNTA3MjFUMTkwMDAwDQpEVEVORDoyMDI1MDcyMVQyMjAwMDANClNVTU1BUlk6Q29kZSBmb3IgQmVybGluDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy5tZWV0dXAuY29tL29rLWxhYi1iZXJsaW4NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046V2lraULDpHJcLCBLw7ZwZW5pY2tlciBTdHJhw59lIDQ1XCwgMTAxNzkgQmVybGluDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
     * https://www.meetup.com/ok-lab-berlin
