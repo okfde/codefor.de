@@ -33,6 +33,8 @@ type: blog
   https://social.bund.de/@opendatabund/116810079175270565
 * Open Data: European Bathing Water Quality
   https://tobias.fellinger.wien/2026/06/24/open-data-european-bathing-water-quality/
+* MCP-Server im Praxistest mit Berlins offenen Daten
+  https://odis-berlin.de/aktuelles/2026-06-29-mcp-server/
 
 ### Linked Open Data
 * Object-Oriented Linked Data (OO-LD): Linked Data Framework auf Basis von JSON-SCHEMA und JSON-LD
@@ -248,6 +250,8 @@ type: blog
   https://www.tagesspiegel.de/potsdam/landeshauptstadt/online-in-die-vergangengheit-stadtarchiv-potsdam-startet-internet-rechercheportal-15742997.html
 * Forscher entdecken 5000 Jahre alten Prototyp von Stonehenge
   https://www.tagesanzeiger.ch/stonehenge-5000-jahre-alte-holzanlage-in-bulford-entdeckt-678917771893
+* Rename this - Wie Berliner Straßennamen Geschichte schreiben
+  https://odis-berlin.de/aktuelles/2026-06-27-stra%C3%9Fenumbenennung_scrolly/
 
 ## Finanzen
 * Städtetag schockiert: Pflegereform belastet Kommunen massiv
@@ -504,6 +508,9 @@ type: blog
   https://www.fiff.de/termine/2026/fiff-konferenz-2026-call-for-papers/
 * Civic Coding-Accelerator, Bewerbungen bis 31.7.
   https://www.civic-coding.de/angebote/accelerator
+* FediDay
+  https://ctalx.c-base.org/fediday-2026/
+
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Donnerstag, 02.07.2026, 10:00, bis Sonntag, 05.07.2026, 18:30, Forum der Zukunft, Museumsinsel 1, 80538 München: **Festival der Zukunft** <a title='Kalendereintrag Festival der Zukunft' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRmVzdGl2YWwgZGVyIFp1a3VuZnQvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA3MDNUMTAxNDIxWg0KRFRTVEFSVDoyMDI2MDcwMlQxMDAwMDANCkRURU5EOjIwMjYwNzA1VDE4MzAwMA0KU1VNTUFSWTpGZXN0aXZhbCBkZXIgWnVrdW5mdA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cuZGV1dHNjaGVzLW11c2V1bS5kZS9mZXN0aXZhbC1kZXItenVrdW5mdA0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpGb3J1bSBkZXIgWnVrdW5mdFwsIE11c2V1bXNpbnNlbCAxXCwgODA1MzggTcO8bmNoZW4NCkdFTzo0OC4xMzE0MDExOTc2NDk4NjU7MTEuNTg1NTgzNTMxNzgxNTM4DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>

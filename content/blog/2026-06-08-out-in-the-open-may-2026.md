@@ -51,6 +51,8 @@ type: blog
     https://correctiv.org/in-eigener-sache/2026/05/14/aufarbeitung-fehlern-veroeffentlichung-digitaler-nsdap-mitgliederkartei/
 * Donated blood saves lives every day, but Germany barely has enough
   https://www.datawrapper.de/blog/blood-donations-germany
+* Kriminalitätsbelastete Orte in Berlin – eine Datenanalyse
+  https://odis-berlin.de/aktuelles/2026-05-15-kbo-datenrecherche-blogpost/
 
 ## Civic Science
 * Meine Wald KI

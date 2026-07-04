@@ -12,104 +12,39 @@ type: blog
 ---
 
 ## Open Data
-* Die Authors Alliance hat eine neue, umfangreiche FAQ-Liste zum Thema Open Data veröffentlicht.
-  https://www.authorsalliance.org/resources/open-data/
-  https://mastodon.social/@leibnizopenscience/116158763285764912
-* DCAT DataServices
-  https://open-north.de/blog/2026-03-12_dataservice/
-  https://norden.social/@MisterOpenData/116220695962567294
-* DCAT Geometrien
-  https://open-north.de/blog/2026-03-15_dcat_spatial/
-* Open data is more than just a data set
-  https://www.prototypefund.de/en/blog/open-data-is-more-than-just-a-data-set
-* DWD Open Data Bereitstellung verbesserungswürdig
-  https://chaos.social/@blazr/116323448267023923
-* What the (open) data?! Warum Datennutzung Gestaltung braucht
-  https://www.technologiestiftung-berlin.de/profil/blog/what-the-open-data-warum-datennutzung-gestaltung-braucht
-* Offene Daten besser nutzen: Wie KI das Data Handling vereinfacht
-  https://www.technologiestiftung-berlin.de/profil/blog/offene-daten-besser-nutzen-wie-ki-das-data-handling-vereinfacht
-* Open Data Day essay #1: ‘Data is a goldmine, if you share it’
-  https://blog.okfn.org/2026/03/24/open-data-day-essay-1-data-is-a-goldmine-if-you-share-it/
-* Open Data Day essay #2: ‘From OPEN to FAIR’
-  https://blog.okfn.org/2026/03/24/open-data-day-essay-2-from-open-to-fair/
-* Open Data Day essay #3: ‘Datagraver’
-  https://blog.okfn.org/2026/03/24/open-data-day-essay-3-datagraver/
-* Open Data Day essay #4: ‘Open access and open data alone are not enough’
-  https://blog.okfn.org/2026/03/24/open-data-day-essay-4-open-access-and-open-data-alone-are-not-enough/
-* Open Data Day essay #5: ‘Decisions under the public eye: a promising set of open data’
-  https://blog.okfn.org/2026/03/24/open-data-day-essay-5-decisions-under-the-public-eye-a-promising-set-of-open-data/
+### Nutzung
+Damit die Verbreitung von offenen Daten nicht am Frust der Nutzenden zerschellt, [schlägt](https://www.technologiestiftung-berlin.de/profil/blog/what-the-open-data-warum-datennutzung-gestaltung-braucht) die ODIS Berlin das [Open-Data-Engagement-Shell-Framework (ODES)](https://odis-berlin.de/projekte/2026_03_odes_framework/) als Orientierung für Datenbereitstellende vor. In Anlehnung an die Ebenen Daten, Informationen und Wissen in der Wissenspyramide sollen bei ODES die Anforderungen an die Datenkompetenz [von Schale zu Schale](https://odis-berlin.de/ressourcen/how_to_odes_framework/#das-odes-schalenmodell-als-poster) sinken. So ist die Analyse der Rohdaten meist nur Datenwissenschaftlern und Programmierern zugänglich. Mit den ersten immer noch sehr technischen Visualisierungen erschließt man Domänenexperten wie Stadtplaner:innen als Zielgruppe. Mit kontextualisierten Visualisierung verringert sich die Informationsdichte soweit, dass auch die interessierte Fachöffentlichkeit wie z.B. NGOs in der Lage ist, die Daten zu verstehen. Im höchsten Reifegrad holen anschauliche Erzählungen und in sie eingewobene interaktive Visualisierungen auf Basis der Daten auch einfache Bürger:innen ab, ohne dass sie dafür besonderes Vorwissen benötigen. Während Datenanaysten Wert auf standardisierte Datenformate und gute sowie vollständige Metadaten legen, brauchen die technisch weniger visierten Zielgruppen z.B. Informationen zu Ansprechpartnern, denen sie Nachfragen stellen können, sowie Erläuterungstexte zu Fachbegriffen, Einordnungen der Daten zu vergangenen bzw. vergleichbaren Datensätze, um die Unterschiede und Veränderungen über die Zeit besser einordnen zu können. Einen klaren Bezug zu ihren jeweiligen Lebensrealitäten und aus den Ergebnissen aufbereitete Handlungsoptionen für zu treffenden Entscheidungen suchen Verantwortungsträger in Verwaltungen und Unternehmen, wie auch Bürger:innen für ihre Lebensplanung. 
 
+LLM-Chatbots können eine gute Unterstützung sein, um passende Datensätze für die eigene Problemfrage zu finden, und erste Explorationen auf diesen zu machen, sei es Fachbegriffe und Attribute erklären, als eine Aufwandsschätzung abzugeben, wie lange ein Bereinigungs- und Analyseprozess dauern würde. Auch Abfagen erstellen zu können, ohne die Syntax der jeweiligen Abfragesprache (z.B. SQL, SPAQL, OverpassQL) in- und auswändig kennen zu müssen, ist eine Hilfe. Auch bei den ersten Schritte beim Coden von Datenauswertungen und -visualisierungen kann man sich von ihnen dialogisch unter die Arme greifen lassen. Der [Blogeintrag](https://www.technologiestiftung-berlin.de/profil/blog/offene-daten-besser-nutzen-wie-ki-das-data-handling-vereinfacht) von ODIS gibt aber auch zu bedenken, dass alle Ergebnisse, die eine solche KI liefert, immer unbedingt überprüft werden sollten, da durch Halluzinationen Datenpunkte hinzugedichtet worden sein könnten, aber auch Informationen vorenthalten werden könnten, die sich nur durch gezieltes Nachfragen offenbaren lassen. Die fehlende Reproduzierbarkeit ist im wissenschaftlichen Kontext ebenfalls ein Problem. Und fehlende Datenqualität kann auch die KI nicht kompensieren. Und vor jeder Chat-Anfragen sollte man sich fragen, ob man mit ihr den hohen Wasser- und Strombedarf von Rechenzentren damit legitimieren möchte.
+
+### Bereitstellung
+Daten in einer Excel-Datei zu erfassen, ist vergleichsweise einfach. Sie aber auch so aufzubereiten, dass sie andere auch inhaltlich verstehen und wiederverwenden kann, sie keine Fehler und Inkonsistenzen mehr enthalten, ist aufwändige und zeitintensive Arbeit, die gerne übersehen wird. Da bestimmte Datensätze nur durch die Zivilgesellschaft erfasst werden, weil offzielle Stellen sie nicht erfassen (wollen), müssen solche Hürden abgebaut werden. Dazu braucht es [nach Meinung von Johannes Filter](https://www.prototypefund.de/en/blog/open-data-is-more-than-just-a-data-set) besseres Tooling, das über das Darstellen im Bearbeiten im Tabellenformat hinausgeht und stattdessen besser zur jeweiligen Charakteristik des jeweiligen Datensatz passt, seien es Zeitreihendaten und/oder auch Daten mit geografischen Bezug. Sein [mit finanzieller Hilfe](https://www.prototypefund.de/en/projects/timetiles) des Prototyp Fund gefördertes Projekt [TimeTiles](https://timetiles.io/) soll dazu ein Beitrag leisten. Das Ergebnis kann man beispielhaft [an den Daten](https://timetiles.io/de/explore?lat=52.4101&lng=13.2773&zoom=7.6&datasets=3) der Berliner Versammlungsbehörde sehen (die auch schon für die App [Polizei Stressi](https://polizeistressi.de) für eine Kalendardarstellung verwendet worden sind), die entsprechend des aktuellen Kartenausschnitts gefiltert werden können, und mit Klick auf eine Säule im Diagram sich auch zeitlich weiter eingrenzen lassen. 
+
+Die Authors Alliance hat eine neue, umfangreiche [FAQ-Liste](https://www.authorsalliance.org/resources/open-data/) für potenzielle Bereitstellende für Open Data [veröffentlicht](https://mastodon.social/@leibnizopenscience/116158763285764912), die mit den üblichen Bedenken aufräumt.
+
+
+Auch die Art und Weise, wie der Deutsche Wetterdienst offene Daten bereitstellt, wird [als verbesserungswürdig empfunden](https://chaos.social/@blazr/116323448267023923).
+
+### Open Data Day Essays
+Die Open State Foundation und Open Nederland haben eine Blogserie dem Open Data Day gewidmet. [Der erste Blogeintrag](https://blog.okfn.org/2026/03/24/open-data-day-essay-1-data-is-a-goldmine-if-you-share-it/) zeigt den Wert von offenen Daten an Hand dreier Beispiele: so stellt ein regionales Klimam-Dashboard Datensätze über Sektor- und Regierungszuständigkeitsgrenzen hinweg bereit, politische Entscheidungsträge haben damit eine zentrale aktuell gehaltene Anlaufstelle und müssen nicht ihrerseits die Daten erst zusammenklauben. Als zweites Beispiel dient eine freie App, in der eine durch eine Community gepflegt Karte, angezeigt wird, in der Orte verzeichnet sind, an denen man gut Sonnenlicht tanken und damir sein Wohlbefinden steigern kann. Grundlage bilden Gebäudedaten, Geländenhöhendaten sowie Straßendaten. In einem dritten Beispiel haben Daten ineffizientes Regierungshandeln offenbart. Die Daten mussten dazu von Journalisten vor Gericht erklagt werden, da die inzwischen ehemalige niederländische Agrarminsterin sie gerne weiter unter Verschluss gehalten hätte. Die für Politiker unbequeme Transparenz dient am Ende dem Wohl der Gemeinschaft, da durch sie sie politisches Handeln überprüfbar und rechtfertigspflichtig bleibt. 
+
+[Der zweite Beitrag](https://blog.okfn.org/2026/03/24/open-data-day-essay-2-from-open-to-fair/) vom Rijksmuseum beschäftigt sich mit den FAIR-Prinzipien und den neuen Herausforderungen durch KI-Scrapern. So weisen sie auf das von der Universitätsbibliothek Virginia entwickelt [Archival AI Protocol](https://library.virginia.edu/news/2026/protecting-what-remains-introducing-uva-archival-ai-protocol) hin, dass den verantwortungsvollen Umgang mit Daten erzwingen möchte, und KI-Scraper ausschließt, die Daten einfach nur ohne Kontext einsammeln wollen.
+
+Politische Debatten wieder tatsachenbasiert führen, mit Verweis auf vorhandenen offene Daten, [fordert der dritte Beitrag](https://blog.okfn.org/2026/03/24/open-data-day-essay-3-datagraver/). Gerade, wenn mal wieder populistisch mehr Polizei wegen angeblich steigener Kriminalität gefordert wird, obwohl die offiziellen Statistiken eine sinkende Anzahl von Straftaten belegen.
+
+
+Die [Barcelona Erklärung](https://barcelona-declaration.org/) zu offenen Forschungsdaten by Default wurde zwar von über 130 Institutionen weltweit unterzeichnet. Aber wie [der vierte Beitrag](https://blog.okfn.org/2026/03/24/open-data-day-essay-4-open-access-and-open-data-alone-are-not-enough/) der Blogreihe kritisiert, werden wichtige (Such-)Informationen weiterhin allein in geschlossenen kommerziellen System gepflegt. Open Access und Open Data reichen nicht, auch die Metadaten müssen offen sein.
+
+[Der abgeschließende Blogeintrag fordert](https://blog.okfn.org/2026/03/24/open-data-day-essay-5-decisions-under-the-public-eye-a-promising-set-of-open-data/), dass Entscheidungen von Regierung und Verwaltung proaktiv, rechtlich verpflichtend, vollumfänglich, zentral einheitlichen Standards folgend und an für Bürger:innen erwartbaren Stellen offen gelegt werden müssen. Nur über eine solche Offenheit werden Journalist:innen und Bürger:innen in die Lage versetzt, vermutete Inkonsistenzen zwischen versprochenen und tatsächlichen Verwaltungshandeln als berechtigt oder unberechtigt identifizieren zu können.
+  
 ### Linked Open Data
+Dr. Jesper Zedlitz erinnert an die Möglichkeiten, dass man bei Daten im Data Catalog Vocabulary (DCAT) sowohl [DataServices](https://open-north.de/blog/2026-03-12_dataservice/) (also z.B. API-Endpunkte und Downloadquellen) als auch einen [möglichen Raumbezug](https://open-north.de/blog/2026-03-15_dcat_spatial/) angeben kann.
+
 * Open Tool Registries! Resolving the Directory Paradox with Wikidata
   https://dhq.digitalhumanities.org/vol/20/1/000838/000838.html
 * European Cultural Heritage Optimised Linked Open Tools (ECHOLOT) - Building the Future of Cultural Heritage Data in Europe.
   https://mastodon.social/@ECHOLOT_Project
   https://mastodon.social/@ECHOLOT_Project/116181551112197277
-
-### Berliner Transparenzgesetz geschliffen
-* die berliner cdu-spd-landesregierung will den datenschutz und die informationsfreiheit aushöhlen. 
-  https://chaos.social/@jk/116160718366206240
-* Nach Fördermittelaffäre: CDU will Transparenz beschneiden
-  https://fragdenstaat.de/artikel/exklusiv/2026/03/berliner-cdu-will-auskunftsanspruche-einschranken/
-* Beschneidung der Informationsfreiheit: Senat macht das Licht aus
-  https://taz.de/Beschneidung-der-Informationsfreiheit/!6159724/
-* Informationsfreiheitsgesetz: Berliner Senat will mehr Überwachung und weniger Transparenz
-  https://www.sueddeutsche.de/politik/ifg-gesetzesaenderung-berlin-spd-verwaltung-li.3447817?reduced=true
-* Im Namen der Sicherheit staatliche Transparenz zu verringern, und Informationsrechte der Bürger zu beschneiden, steht derzeit hoch im Kurs.
-  https://chaos.social/@digiges/116199165525228166
-  * Missing Link: Auf der Spree schwimmt eine Infrastrukturschutz-Ente
-    https://www.heise.de/hintergrund/Missing-Link-Auf-der-Spree-schwimmt-eine-Infrastrukturschutz-Ente-11202843.html
-* Finger Weg vom Berliner IFG: 38 Organisationen fordern: Informationsfreiheit in Berlin nicht abschaffen!
-  https://fragdenstaat.de/artikel/policy/2026/03/34-organisationen-fordern-berliner-informationsfreiheitsgesetz-staken-nicht-schwachen/
-* Warum Berliner Politikern das IFG ein Dorn im Auge ist
-  https://chaos.social/@besendorf/116167530629454618
-* Berlin: Widerstand gegen Aushöhlung der Informationsfreiheit und Datenschutzabbau
-  https://netzpolitik.org/2026/berlin-widerstand-gegen-aushoehlung-der-informationsfreiheit-und-datenschutzabbau/
-* Alles zum aktuellen Gesetzentwurf in einer Minute
-  https://chaos.social/@fragdenstaat/116204409118611277
-* Petition
-  https://weact.campact.de/petitions/finger-weg-vom-berliner-informationsfreiheitsgesetz
-* Die Berliner Beauftragte für Datenschutz und Informationsfreiheit, Meike Kamp, kritisiert die geplanten Änderungen am Berliner Datenschutzgesetz und dem Berliner Informationsfreiheitsgesetz. 
-  https://www.datenschutz-berlin.de/pressemitteilung/beauftragte-kritisiert-geplante-aenderungen-an-informationsfreiheit-und-datenschutzgesetz/
-* Berliner Senat beschneidet Informationsfreiheit – und ignoriert Expertise und Petition
-  https://blog.wikimedia.de/2026/03/31/berlins-informationsfreiheit-petition/
-* Die Einschränkung des Berliner IFG ist ein Skandal & die Vorgehensweise von CDU & SPD ein Rückschritt. 
-  https://chaos.social/@fragdenstaat/116301392815165119
-* Berlin: Die Mehrheit aus CDU & SPD hat die Änderung des Informationsfreiheitsgesetzes (IFG) beschlossen
-  https://www.youtube.com/live/URiHsFhu_1U?t=23830s
-  https://chaos.social/@tbsprs/116323304441272402
-* Im Namen der Sicherheit: Berliner Senat beschneidet Informationsfreiheit
-  https://netzpolitik.org/2026/im-namen-der-sicherheit-berliner-senat-beschneidet-informationsfreiheit/
-* IFG-Einschränkungen: Sicherheit gegen Transparenz – ein gefährlicher Trend
-  https://fragdenstaat.de/artikel/policy/2026/04/thuringen-und-sh-abschaffen/
-* Verwandte Themen
-  * Journalismus in der Türkei: Informationsfreiheit in einem unfreien System
-    https://taz.de/Journalismus-in-der-Tuerkei/!6161669/
-    https://mastodon.online/@denes/116220666652319145
-  * Bürgerhaushalt in Leipzig auf Grund schwieriger Finanzlage für zwei Jahre ausgesetzt 
-    https://mastodon.social/@mephisto976/116290263558402860
-
-### USA
-* Things Fall Apart: Lessons from a Defunded Data Repository
-  https://datascience.codata.org/articles/10.5334/dsj-2026-009
-  https://fediscience.org/@petersuber/116165675319249367
-
-### Offenes Wissen
-* OER und OEP in immersiven Lernsettings: Erfahrungen aus dem Projekt „VRiver – Rettet die Fische!“
-  https://open-educational-resources.de/oer-und-oep-in-immersiven-lernsettings-das-projekt-vriver-rettet-die-fische/
-* 25 Jahre deutschsprachige Wikipedia
-  https://social.wikimedia.de/@wikimediaDE/116238227698144164
-
-### Open Source
-* Meilenstein für klimafreundliche Luftfahrt: UNICADO hat mit #TUBerlin & Partnern eine einzigartige #OpenSource -Plattform für den Flugzeugvorentwurf geschaffen
-  https://www.tu.berlin/nachrichtendetails/meilenstein-fuer-klimafreundliche-luftfahrt
-  https://unicado.pages.rwth-aachen.de/unicado.gitlab.io/
-  https://git.rwth-aachen.de/unicado/unicado-package
-  https://wisskomm.social/@tuberlin/116209620074564684
-* The world's first Open Source Endowment - Truly sustainable funding for critical OSS through a community‑driven endowment
-  https://endowment.dev
-* München RIS KI-Suche (Beta-Version)
-  https://ki.muenchen.de/ki-systeme/riski
 
 ### Apps
 * ParlAT: Accessing Open Data of the Austrian Parliament with R
@@ -125,6 +60,28 @@ type: blog
   https://mastodon.social/@ocbydata/116294651168022618
 * OER erstellen mit H5P
   https://winoda.de/2026/03/11/oer-erstellen-mit-h5p/
+
+### USA
+* Things Fall Apart: Lessons from a Defunded Data Repository
+  https://datascience.codata.org/articles/10.5334/dsj-2026-009
+  https://fediscience.org/@petersuber/116165675319249367
+
+## Offenes Wissen
+* OER und OEP in immersiven Lernsettings: Erfahrungen aus dem Projekt „VRiver – Rettet die Fische!“
+  https://open-educational-resources.de/oer-und-oep-in-immersiven-lernsettings-das-projekt-vriver-rettet-die-fische/
+* 25 Jahre deutschsprachige Wikipedia
+  https://social.wikimedia.de/@wikimediaDE/116238227698144164
+
+## Open Source
+* Meilenstein für klimafreundliche Luftfahrt: UNICADO hat mit #TUBerlin & Partnern eine einzigartige #OpenSource -Plattform für den Flugzeugvorentwurf geschaffen
+  https://www.tu.berlin/nachrichtendetails/meilenstein-fuer-klimafreundliche-luftfahrt
+  https://unicado.pages.rwth-aachen.de/unicado.gitlab.io/
+  https://git.rwth-aachen.de/unicado/unicado-package
+  https://wisskomm.social/@tuberlin/116209620074564684
+* The world's first Open Source Endowment - Truly sustainable funding for critical OSS through a community‑driven endowment
+  https://endowment.dev
+* München RIS KI-Suche (Beta-Version)
+  https://ki.muenchen.de/ki-systeme/riski
 
 ## Visualisierungen
 * Landtagswahlergebnisse in Baden-Württemberg 
@@ -375,6 +332,48 @@ type: blog
     https://www.finanzwende.de/themen/verbraucherschutz/schufa/finanzwende-wirkt-schufa-score-wird-endlich-transparenter
 * Rüstungsdeals per SMS? Verteidigungsministerium will Chatverläufe nicht herausgeben
   https://correctiv.org/aktuelles/sicherheit-und-verteidigung/2026/03/27/ruestungsdeals-per-sms-verteidigungsministerium-will-chatverlaeufe-nicht-herausgeben/
+### Berliner Transparenzgesetz geschliffen
+* die berliner cdu-spd-landesregierung will den datenschutz und die informationsfreiheit aushöhlen. 
+  https://chaos.social/@jk/116160718366206240
+* Nach Fördermittelaffäre: CDU will Transparenz beschneiden
+  https://fragdenstaat.de/artikel/exklusiv/2026/03/berliner-cdu-will-auskunftsanspruche-einschranken/
+* Beschneidung der Informationsfreiheit: Senat macht das Licht aus
+  https://taz.de/Beschneidung-der-Informationsfreiheit/!6159724/
+* Informationsfreiheitsgesetz: Berliner Senat will mehr Überwachung und weniger Transparenz
+  https://www.sueddeutsche.de/politik/ifg-gesetzesaenderung-berlin-spd-verwaltung-li.3447817?reduced=true
+* Im Namen der Sicherheit staatliche Transparenz zu verringern, und Informationsrechte der Bürger zu beschneiden, steht derzeit hoch im Kurs.
+  https://chaos.social/@digiges/116199165525228166
+  * Missing Link: Auf der Spree schwimmt eine Infrastrukturschutz-Ente
+    https://www.heise.de/hintergrund/Missing-Link-Auf-der-Spree-schwimmt-eine-Infrastrukturschutz-Ente-11202843.html
+* Finger Weg vom Berliner IFG: 38 Organisationen fordern: Informationsfreiheit in Berlin nicht abschaffen!
+  https://fragdenstaat.de/artikel/policy/2026/03/34-organisationen-fordern-berliner-informationsfreiheitsgesetz-staken-nicht-schwachen/
+* Warum Berliner Politikern das IFG ein Dorn im Auge ist
+  https://chaos.social/@besendorf/116167530629454618
+* Berlin: Widerstand gegen Aushöhlung der Informationsfreiheit und Datenschutzabbau
+  https://netzpolitik.org/2026/berlin-widerstand-gegen-aushoehlung-der-informationsfreiheit-und-datenschutzabbau/
+* Alles zum aktuellen Gesetzentwurf in einer Minute
+  https://chaos.social/@fragdenstaat/116204409118611277
+* Petition
+  https://weact.campact.de/petitions/finger-weg-vom-berliner-informationsfreiheitsgesetz
+* Die Berliner Beauftragte für Datenschutz und Informationsfreiheit, Meike Kamp, kritisiert die geplanten Änderungen am Berliner Datenschutzgesetz und dem Berliner Informationsfreiheitsgesetz. 
+  https://www.datenschutz-berlin.de/pressemitteilung/beauftragte-kritisiert-geplante-aenderungen-an-informationsfreiheit-und-datenschutzgesetz/
+* Berliner Senat beschneidet Informationsfreiheit – und ignoriert Expertise und Petition
+  https://blog.wikimedia.de/2026/03/31/berlins-informationsfreiheit-petition/
+* Die Einschränkung des Berliner IFG ist ein Skandal & die Vorgehensweise von CDU & SPD ein Rückschritt. 
+  https://chaos.social/@fragdenstaat/116301392815165119
+* Berlin: Die Mehrheit aus CDU & SPD hat die Änderung des Informationsfreiheitsgesetzes (IFG) beschlossen
+  https://www.youtube.com/live/URiHsFhu_1U?t=23830s
+  https://chaos.social/@tbsprs/116323304441272402
+* Im Namen der Sicherheit: Berliner Senat beschneidet Informationsfreiheit
+  https://netzpolitik.org/2026/im-namen-der-sicherheit-berliner-senat-beschneidet-informationsfreiheit/
+* IFG-Einschränkungen: Sicherheit gegen Transparenz – ein gefährlicher Trend
+  https://fragdenstaat.de/artikel/policy/2026/04/thuringen-und-sh-abschaffen/
+* Verwandte Themen
+  * Journalismus in der Türkei: Informationsfreiheit in einem unfreien System
+    https://taz.de/Journalismus-in-der-Tuerkei/!6161669/
+    https://mastodon.online/@denes/116220666652319145
+  * Bürgerhaushalt in Leipzig auf Grund schwieriger Finanzlage für zwei Jahre ausgesetzt 
+    https://mastodon.social/@mephisto976/116290263558402860
 
 ## Demokratie
 * Umbau des Programms "Demokratie leben"
