@@ -53,45 +53,19 @@ Open Educational Resources (OER), also offene Lernmaterialien, lassen sich ohne 
 
 Ein Schritt weiter ging man im Projekt ["VRiver – Rettet die Fische!"](https://www.oer-strategie.de/projects/vriver-rettet-die-fische-vr-angebote-als-oer-aus-der-hydrologie-bereitstellen/), indem nicht nur ein Virtual Reality (VR) Szenario [als OER](https://dlc.sh/lernangebot/6033) bereitgestellt wurde, sondern auch Offene Praktiken für die Lehre (OEP) als begleitender "Materialkoffer" Lehrende dabei [unterstützen sollen](https://open-educational-resources.de/oer-und-oep-in-immersiven-lernsettings-das-projekt-vriver-rettet-die-fische/), das VR-Szenario konkret in eigene Lehr-Lern-Settings zu integrieren.
 
-## Open Source
-* Meilenstein für klimafreundliche Luftfahrt: UNICADO hat mit #TUBerlin & Partnern eine einzigartige #OpenSource -Plattform für den Flugzeugvorentwurf geschaffen
-  https://www.tu.berlin/nachrichtendetails/meilenstein-fuer-klimafreundliche-luftfahrt
-  https://unicado.pages.rwth-aachen.de/unicado.gitlab.io/
-  https://git.rwth-aachen.de/unicado/unicado-package
-  https://wisskomm.social/@tuberlin/116209620074564684
-* The world's first Open Source Endowment - Truly sustainable funding for critical OSS through a community‑driven endowment
-  https://endowment.dev
-* München RIS KI-Suche (Beta-Version)
-  https://ki.muenchen.de/ki-systeme/riski
-
 ## Visualisierungen
-* Landtagswahlergebnisse in Baden-Württemberg 
-  https://visquill.com/gallery/?example=bw-elections
-  https://www.linkedin.com/posts/benjamin-niedermann_badenwaesrttemberg-landtagswahl2026-election-activity-7436667120576520192-H-iU
-  https://hachyderm.io/@sabrinkmann/116210505964728892
-* WikiCity Deutschland — eine 3D‑Skyline, in der jedes Gebäude einen Artikel repräsentiert. Je häufiger ein Artikel aufgerufen wurde, desto höher ist der Wolkenkratzer.
-  https://tifa365.github.io/wikicity-deutschland/
-  https://norden.social/@datenschatz/116274313836188591
+Eine nette [Visualisierung](https://visquill.com/gallery/?example=bw-elections) der Landtagswahlergebnisse in Baden-Württemberg hat Dr. Benjamin Niedermann mit seiner Visualisierungsbibliothek [VisQuill](https://visquill.com/visquill) erstellt, [ein Video](https://www.youtube.com/watch?v=mP46WCb0DBk) erklärt, wie man mit der Karte interagieren kann.
+
+In der 3D‑Skyline in [WikiCity Deutschland](https://tifa365.github.io/wikicity-deutschland/) ist ein Gebäude um so höher, je häufiger der Wikipedia-Artikel aufgerufen wurde, [den es repräsentiert](https://norden.social/@datenschatz/116274313836188591).
 
 ## Verwaltungsdigitalisierung
-* Verwaltung am Limit: Warum billige IT-Sparpläne den Staat teuer zu stehen kommen
-  https://www.heise.de/news/Verwaltung-am-Limit-Warum-billige-IT-Sparplaene-den-Staat-teuer-zu-stehen-kommen-11196169.html
-* Wir arbeiten derzeit an einem Prototyp. Ein Mastodon-Client speziell für öffentliche Einrichtungen und generell große Organisationen
-  https://hachyderm.io/@sabrinkmann/116164320539934326
-  https://nx40575.your-storageshare.de/apps/forms/s/GRWcG2J6JkiqeHPsiiapFJkL
-* Schleswig-Holstein: Gesetz zur Beschleunigung der Digitalisierung (Digitalisierungsbeschleunigungsgesetz - DigiBeschlG)
-  https://www.landtag.ltsh.de/infothek/wahl20/drucks/04200/drucksache-20-04202.pdf
-  https://norden.social/@MisterOpenData/116181346314471052
-* Panne bei Digitalisierung: Nach Software-Debakel in Sachsen: Wohl auch Bußgeldstelle in Sachsen-Anhalt betroffen
-  https://www.mdr.de/nachrichten/deutschland/politik/software-umstellung-sachsen-anhalt-buerokratie-chaos-bussgelder-100.html
-* Satire
-  https://klausprogrammieren.com
-  https://mastodon.social/@bkastl/116216863384066101
-* neue Beratertreppe
-  https://mastodon.social/@bkastl/116217632599242525
-* Datenatlas - Im Dickicht der digitalen Verwaltung
-  https://www.youtube.com/watch?v=h4LK6fFH8Xw
-  https://chaos.social/@Lilith/116217517515669741
+Am 12. März diskutierten Lilith Wittmann (IT-Sicherheitsexpertin) und David Zellhöfer (Professur für Digitale Innovation in der öffentlichen Verwaltung, Hochschule für Wirtschaft und Recht Berlin) darüber, warum bei der Verwaltungsdigitalisierung in Deutschland Anspruch und Wirklichkeit so weit auseinander klaffen. Im Gespräch wurden dann die strukturelle Inkompetenz (viele der Verantwortlichen sind Juristen, also ohne IT-Hintergrund) sowie Fehlanreize, die durch Auslagern von Aufgaben an externe Beraterfirmen entstehen. Rahmenverträge über buchbare Personentage setzen hier eher den Anreiz, möglichst viele Personen unterzubringen, künstlich Aufwände in die Höhe zu treiben und nicht fertig zu werden. Die öffentliche Verwaltung bzw. die öffentlichen Gelder werden zu einem Selbstbedienungsladen für diese ["Beratertreppe"](https://mastodon.social/@bkastl/116217632599242525). Die [New Public Management](https://de.wikipedia.org/wiki/%C3%96ffentliche_Reformverwaltung) Ideologie trägt ein Weiteres dazu bei, kurzfristiges Geldverdienen über langfristige gesunde Strukturentwicklung zu stellen, wie man am Beispiel der [Bundesdruckerei](https://de.wikipedia.org/wiki/Bundesdruckerei) sehen kann, die 1994 privatisiert wurde (2000 wurde dann auch noch die 100% Beteiligung des Bundes an eine Investorengruppe [verkauft](https://www.bundesfinanzministerium.de/Monatsberichte/2019/01/Inhalte/Kapitel-3-Analysen/3-7-beteiligungsbilanz-bundesdruckerei_pdf.pdf?__blob=publicationFile&v=3), später an zwei Vermögensverwaltungsgesellschaften, um eine Insolvenz abzuwenden), seit 2009 aber wieder in Staatsbesitz ist, und zuletzt negativ in den Schlagezeilen war, weil das Großprojekt Datenatlas Bund [gescheitert ist](https://www.heise.de/news/Aus-fuer-Datenatlas-Bund-25-Millionen-Euro-Grab-der-Verwaltungsdigitalisierung-11150881.html), trotz (oder vielleicht auch wegen) bereits investierter 25 Millionen Euro und vollmundigen Versprechungen. [Der Zielkonklikt](https://de.wikipedia.org/wiki/%C3%96ffentlich-private_Partnerschaft#Zielkonflikt) zwischen Gewinnmaximierung und Gemeinwohlorientierung im Monopol der öffentlichen Daseinsvorsorge führt meist zur Verschlechterung des Leistungsangebotes, am untersten Punkt ist die öffentliche Hand gezwungen, es teuer wieder zurückzukaufen. 
+
+Und Kostendruck und Personalnot in den öffentlichen Verwaltungen werden durch den demografische Wandel in den nächsten Jahren [noch größer](https://www.heise.de/news/Verwaltung-am-Limit-Warum-billige-IT-Sparplaene-den-Staat-teuer-zu-stehen-kommen-11196169.html). Statt mit weiteren Kostenkürzungen zu reagieren, noch mehr Brain Drain an externe Beratung zuzulassen oder darauf zu hoffen, dass KI schon irgendwie das alles automatisieren wird, braucht es grundlegende Verbesserungen in der Wertschöpfungskette, bei der Kosten-Nutzen übergreifend betrachtet werden, Führungskräfte nicht mehr für die Größe ihres Apparates belohnt werden, sondern echte Anreize geschaffen werden, Prozesse durch Digitalisierung zu verschlanken. Damit am Ende Verwaltungsdigitalisierung nicht so aussieht, [wie in dieser Satire](https://klausprogrammieren.com). Leider kein Scherz [sind die Probleme](https://www.mdr.de/nachrichten/deutschland/politik/software-umstellung-sachsen-anhalt-buerokratie-chaos-bussgelder-100.html) bei der Zuordnung von Zahlungs-Eingängen und beim Bearbeiten von Zahlungsausgängen, die verschiedene Behörden und Einrichtungen in Sachsen und wohl auch Sachsen-Anhalt seit Monaten haben. Durch den Umstieg auf eine neue Software bei der Landeskasse, kann nicht mehr kontrolliert werden, ob Bußgelder rechtzeitig beglichen worden sind. Hochschulen haben keinen Überblick mehr über gezahlte Semesterbeiträge (von den Studierenden müssen nun einzeln Überweisungsbelege angefordert werden, die beweisen, dass sie im nächsten Semester eingeschrieben sind), nicht verbeamtete Mitarbeitende erhalten teilweise keine Gehaltszahlungen (die dann daraufhin teilsweise ihre Vermieter bitten mussten, ihre Miete später zahlen zu können).
+
+Schleswig-Holstein möchte mit einem [Digitalisierungsbeschleunigungsgesetz](https://www.landtag.ltsh.de/infothek/wahl20/drucks/04200/drucksache-20-04202.pdf) notwendige Rechtsänderungen auf Landesebene vornehmen, die digitale Verfahrenswege ermöglichen und Digitalisierungshemmnisse und -hürden abbauen, die bisher durch fehlende Regelungen und rechtlicher Unsicherheiten bestehen. Das betrifft auch die erweiterte Bereitstellung von Daten der öffentlichen Verwaltung und Rechtssicherheit ihrer Nutzung durch die freie Wirtschaft. Außerdem soll das Once-Only-Prinzip stärker in die Umsetzung gebracht werden.
+
+Um für die weitere Verbesserung eines [Mastodon-Client-Prototypen](https://hachyderm.io/@sabrinkmann/116164320539934326), der speziell für die Social-Media-Außenkommunikation von öffentlichen Einrichtungen angepasst ist, beizutragen, kann man [folgende Umfrage](https://nx40575.your-storageshare.de/apps/forms/s/GRWcG2J6JkiqeHPsiiapFJkL) ausfüllen. Es geht hier Features, wie Beiträge im Voraus planen zu können, Auswertungen und Analysen durchführen können, Rollen-und-Rechte-Konzept, mit einem Ticketsystem noch offene Antworten tracken können, und vieles mehr.
 
 ## Digitale Souveränität
 * Offene digitale Infrastrukturen: Grundvoraussetzung für demokratische Resilienz und wirtschaftliche Souveränität
@@ -123,6 +97,17 @@ Ein Schritt weiter ging man im Projekt ["VRiver – Rettet die Fische!"](https:/
   https://www.heise.de/news/GrapheneOS-Microsoft-Authenticator-unterstuetzt-sicheres-Android-OS-nicht-11200269.html
 * Google führt eine Registrierungspflicht für alle Android-App-Entwickler ein. Laut Android-Chef beugt sich der Konzern damit unter anderem politischem Druck.
   https://www.heise.de/news/Android-Chef-zu-Sideloading-und-Registrierung-Die-Warnungen-sind-unzureichend-11209012.html
+
+## Open Source
+* Meilenstein für klimafreundliche Luftfahrt: UNICADO hat mit #TUBerlin & Partnern eine einzigartige #OpenSource -Plattform für den Flugzeugvorentwurf geschaffen
+  https://www.tu.berlin/nachrichtendetails/meilenstein-fuer-klimafreundliche-luftfahrt
+  https://unicado.pages.rwth-aachen.de/unicado.gitlab.io/
+  https://git.rwth-aachen.de/unicado/unicado-package
+  https://wisskomm.social/@tuberlin/116209620074564684
+* The world's first Open Source Endowment - Truly sustainable funding for critical OSS through a community‑driven endowment
+  https://endowment.dev
+* München RIS KI-Suche (Beta-Version)
+  https://ki.muenchen.de/ki-systeme/riski
 
 ## Energie
 ### Gebäudeenergiegesetz
