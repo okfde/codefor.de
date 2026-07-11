@@ -279,7 +279,7 @@ type: blog
   https://www.sueddeutsche.de/projekte/artikel/bayern/bayern-arztpraxen-kauf-private-equity-firmen-rendite-folgen-gesundheitswesen-e133717/?reduced=true
 
 ## Transparenz
-* Lange war der Vermittlungsausschuss die Dunkelkammer der Gesetzgebung. 2023 veröffentlichten wir erstmals die Stzungsprotokolle, um Transparenz zu schaffen. Jetzt zieht der Vermittlungsausschuss endlich selbst nach.
+* Lange war der Vermittlungsausschuss die Dunkelkammer der Gesetzgebung. 2023 veröffentlichten wir erstmals die Sitzungsprotokolle, um Transparenz zu schaffen. Jetzt zieht der Vermittlungsausschuss endlich selbst nach.
   https://fragdenstaat.de/artikel/eigener-sache/2026/05/vermittlungsausschuss-folgt-dem-beispiel-von-fragdenstaat/
   https://chaos.social/@fragdenstaat/116680838611322809
 * Was fehlt: Betrachtungen und Recherchen zur Rolle privater Stiftungen für die digitalpolitische Zivilgesellschaft.
