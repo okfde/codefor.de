@@ -85,86 +85,22 @@ Der Bundestag hat die EU-Vorgaben zum Datenzugang (Data Act-Durchführungsgesetz
 
 Der [Regierungsentwurf](https://www.bmjv.de/SharedDocs/Gesetzgebungsverfahren/DE/2026_Foerderung_Reparatur_von_Waren.html) für ein Gesetz zur Förderung der Reparatur von Waren [sieht auch](https://www.heise.de/news/Fixen-statt-schrotten-Bundesregierung-bringt-Recht-auf-Reparatur-auf-den-Weg-11224535.html) ein Verbot von softwareseitige Sperren oder anderen technische Maßnahmen vor, die eine Reparatur durch unabhängige Werkstätten bzw. die Verwendung von 3D-Druck-Komponenten [behindern würden](https://www.tagesschau.de/inland/recht-auf-reparatur-bundeskabinett-100.html). Durch die geplante [Modernisierung des Produkthaftungsrechts](https://www.bundestag.de/dokumente/textarchiv/2026/kw10-de-produkthaftungsrecht-1150448) soll nun auch Software in die Produkthaftung einbezogen werden, da durch Software-Updates und Anbindung von Cloud-Diensten Hersteller auch nach Inverkehrbringen noch Kontrolle über ihr Produkt ausüben. So schließen Produkthaftung und Recht-auf-Reparatur direkt einander an, wie man auch [am Fall der smarten Saugroboter](https://www.heise.de/news/Vorwerk-schaltet-Neato-Cloud-ab-Tausende-Nutzer-fordern-Open-Source-Loesung-11206147.html) von Vorwerk sieht, wo aus Datenschutz- und Sicherheitsgründen der inzwischen veraltete Cloud-Dienst abgeschaltet wurde, ein Open-Source-Freigabe aber, trotz Protest tausender Nutzer, bisher nicht vorgesehen ist.
 
-## Open Source
-* Meilenstein für klimafreundliche Luftfahrt: UNICADO hat mit #TUBerlin & Partnern eine einzigartige #OpenSource -Plattform für den Flugzeugvorentwurf geschaffen
-  https://www.tu.berlin/nachrichtendetails/meilenstein-fuer-klimafreundliche-luftfahrt
-  https://unicado.pages.rwth-aachen.de/unicado.gitlab.io/
-  https://git.rwth-aachen.de/unicado/unicado-package
-  https://wisskomm.social/@tuberlin/116209620074564684
-* The world's first Open Source Endowment - Truly sustainable funding for critical OSS through a community‑driven endowment
-  https://endowment.dev
-* München RIS KI-Suche (Beta-Version)
-  https://ki.muenchen.de/ki-systeme/riski
-
 ## Energie
 ### Gebäudeenergiegesetz
-* Solarer Vollstopp, vorgetäuschte Heiz-Freiheit und eine Koalition, die von RWE abschreibt - Grünes Gas und Grünöl seien keine Lösung, zudem viel zu knapp und teuer.
-  https://klimareporter.de/gebaeude/solarer-vollstopp-vorgetaeuschte-heiz-freiheit-und-eine-koalition-die-von-rwe-abschreibt
-* Katherina Reiche wird mit Fakten zu ihrem Teuer-Heizen-Gesetz konfrontiert. 
-  https://gruene.social/@badumlisa/116159557029004258
-* Die Solarfalle der Katherina Reiche
-  https://www.heise.de/meinung/Die-Solarfalle-der-Katherine-Reiche-11193734.html
-  https://social.tchncs.de/@kuketz/116158544079250102
-* Die große Grüngas-Illusion: Wie Lobbyisten die Energiewende sabotieren
-  https://www.telepolis.de/article/Die-grosse-Gruengas-Illusion-Wie-Lobbyisten-die-Energiewende-sabotieren-11192429.html
-* Realitätscheck Energiepolitik von Katherina Reiche
-  https://climatejustice.global/@S4F/116181306342607029
-* Das neue Heizungsgesetz ist ein Mittelfinger für Klima und Mietende!
-  https://www.youtube.com/watch?v=HYXT9Rg-JFw  
-* Was bedeuten die Eckpunkte des #gebaudemodernisierungsgesetzes für deutsche Industrieunternehmen?
-  https://agora-thinktanks.social/@AgoraInd/116238248027419392
-* 57. Energy-Charts Talks 02.03.2026: Welche Folgen hat der Übergang vom GEG zum GMG
-  https://www.youtube.com/watch?v=C7CWEBN1zZw
-* Stecke ich in der Gaskostenfalle?
-  https://gaskostenfalle.de
-  https://climatejustice.social/@KlimaLautern/116313293343419546
-* Wirtschaftsministerin Reiche: Energiewende rückwärts? - MONITOR
-  https://www.ardmediathek.de/video/monitor/katherina-reiche-energiewende-rueckwaerts/wdr/Y3JpZDovL3dkci5kZS9CZWl0cmFnLXNvcGhvcmEtODlmNWYyYTUtNDU4Ny00MmM2LWIzODQtY2QwMDJiOGRkN2Ix
-* mehr Kritik
-  * So vergeigt Katherina Reiche ein Zukunftsprojekt
-    https://www.spiegel.de/wissenschaft/mensch/katherina-reiche-so-vergeigt-die-union-ein-weiteres-zukunftsprojekt-kolumne-a-94e5ac30-f259-474e-ba8a-a50bc0e3e1ac?giftToken=38b28fbe-4b89-49e7-8b6b-1b4ccb8e376c
-  * "Kranke Selbstbedienung": Energie-Boss feuert gegen Ministerin Reiche
-    https://www.youtube.com/watch?v=QD84d4rAQ6Y
-  * Autoritäre Menschen treten nicht zurück
-    https://fedifreu.de/@abulling/116233339152870870
-    https://fedifreu.de/@abulling/116233997771480055
-  * unerwünschte Politikwechsel durch Einhornlösungen verschleppen
-    https://mastodon.social/@haekelschwein/116228211318209236
-### Energiewende
-* Eine große Mehrheit in der Bevölkerung unterstützt die Energiewende - Partizipation beginnt, wo Menschen tatsächlich mitentscheiden können
-  https://klimareporter.de/gesellschaft/partizipation-beginnt-wo-menschen-tatsaechlich-mitentscheiden-koennen
-* Deutliche Kritik des Europäischen Rechnungshofes: Energiegemeinschaften werden von den Mitgliedstaaten offensichtlich ausgebremst: Es fehlen klare Vorgaben.
-  https://www.ingenieur.de/technik/fachbereiche/energie/wie-gut-die-eu-energiegemeinschaften-unterstuetzen/
-* Transformation der Energieversorgung: Der Todeskampf der fossilen Wirtschaft
-  https://taz.de/Transformation-der-Energieversorgung/!6161399/
-* Die Wahrheit über Smart Meter ist BRUTAL: Die Enthüllung, die das BSI lieber verhindern würde!
-  https://www.youtube.com/watch?v=siupPpNpSKs
-* Energiekrise: Mobilität ohne fossile Energieträger
-  https://www.deutschlandfunk.de/energiekrise-mobilitaet-ohne-fossile-energietraeger-100.html
-* Der Energieschock erfordert eine grüne Industriestrategie
-  https://www.surplusmagazin.de/energieschock-inflation-grune-transformation-industrie/
+In den [57. Energy-Charts](https://www.youtube.com/watch?v=C7CWEBN1zZw) Talks erklärt Dr. Veit Bürger, welche Folgen der Übergang vom Gebäudeeneriegesetz (GEG) zum Gebäudemodernisierungsgesetz (GMG) hat. Unter anderem Kostenrisiken für Vermietenden und Mietende. Der [GermanZero e.V.](https://germanzero.de) stellt mit dem Portal [Gaskostenfalle](https://gaskostenfalle.de) einen Gaskosten-Rechner bereit, mit dem man sich ausrechnen kann, wie hoch die eigenen Heizkosten bis 2045 steigen werden. Denn mit der Heizrechnung wird automatisch auch das Netzentgelt bezahlt, also "den Aufpreis, den die Betreiberfirma des lokalen Gasnetzes für den Betrieb und Reparaturen aller Leitungen verlangt". Und bei gleich groß und gleich teuer bleibenden Gasnetzen können diese Gemeinkosten in Zukunft nur noch auf immer weniger Gas-Kunden (denn viele werden trotzdem auf die Wärmepumpe wechseln) umgelegt werden, so dass für den einzelnen die Preise nach Berechnungen des Fraunhofer Instituts IFAM sich bis 2035 sich mehr als verdoppeln könnten. Eine vierköpfige Familie müsste für die gleiche Heizleistung wie heute dann allein durch das Netzentgelt rund 2.000 Euro mehr fürs Heizen mit Erdgas bezahlen. Dass man später über die Gasleitungen auch mit CO2-neutralerem Biogasen und Wasserstoff Heizen kann, ist illusorisch, denn diese Energieträger sind knapp und teuer und werden zudem [vorallem in der (Chemie-)Industrie benötigt](https://agora-thinktanks.social/@AgoraInd/116238248027419392), da diese bestimmte Prozesse nicht elektrizieren kann. Die bessere Lösungen wäre dagegen, den [Stromnetzausbau weiter voranzutreiben](https://www.spiegel.de/wissenschaft/mensch/katherina-reiche-so-vergeigt-die-union-ein-weiteres-zukunftsprojekt-kolumne-a-94e5ac30-f259-474e-ba8a-a50bc0e3e1ac?giftToken=38b28fbe-4b89-49e7-8b6b-1b4ccb8e376c), damit der Strom aus erneuerbaren Energien und Batterien überall hin transportiert werden kann, und so direkt mit Strom statt mit verstromten Gas zu heizen. [Mit den Fakten konfrontiert](https://gruene.social/@badumlisa/116159557029004258), fallen der Ministerin nur Ausflüchte und Beschwichtungen ein, blöd, [wenn die Industrie-Lobbyinteressen](https://www.telepolis.de/article/Die-grosse-Gruengas-Illusion-Wie-Lobbyisten-die-Energiewende-sabotieren-11192429.html), die man vertritt, sich gegen das Wohl der Allgemeinheit richten. Aber mit Einhornlösungen wie Grüngastreppe und Co. lässt sich ja der [unerwünschte Politikwechsel](https://mastodon.social/@haekelschwein/116228211318209236) weiter verschleppen. Und es ist wohl weder zu erwarten, dass die Ministerin, selbst zur Einsicht kommt oder [gar von selbst zurücktritt](https://fedifreu.de/@abulling/116233339152870870), noch vom Kanzler oder Koalitionspartner zum Einlenken oder Rücktritt gedrängt wird, noch durch die (öffentlichen) so viel Druck bekommt, dass sie Verantwortungen übernehmen und Konsequenzen ziehen müsste. Und die paar Proteste von NGOs kann man ja aussitzen.
+
+### Energiewende auf Bremse
+Der Europäische Rechnungshof kritisiert sowohl Mitgliedsstaaten als auch die EU-Kommission selbst dafür, dass sie ihr Ziel, bis Ende 2025 in jeder Kommune über 10.000 Einwohner eine Energie-Gemeinschaft existieren solle, deutlich verfehlt hat. Anfang 2025 traf das gerade mal auf 27% solcher Kommunen zu. Damit ist absehbar, dass bis 2030 nur 4% statt der angestrebten 17% der Erzeugungskapazität für Solar- und Windenergie aus Bürgerhand kommt. [Grund seien](https://www.ingenieur.de/technik/fachbereiche/energie/wie-gut-die-eu-energiegemeinschaften-unterstuetzen/) fehlende Anreize und ungelöste regularische Aspekte (bei Registrierung und Überwachung solcher Gemeinschaften) sowie Verzögerungen bei Netzanschlüssen. 
+
+Auch der Smart-Meter-Rollout kommt in Deutschland seit Jahren nicht in Gang, [was aus Sicht des AkkuDoktors](https://www.youtube.com/watch?v=siupPpNpSKs) auf Regelchaos, falschen Entscheidungen und Inkompetenz beim Bundesamt für Sicherheit in der Informationstechnik (BSI) zurückzuführen ist.
+
+Angesichts der weltweiten Energiekrise auch verschärft durch den Krieg im Nahen Osten, rät die Internationale Energieagentur IEA dringend zu Verhaltensänderungen (wie mehr Homeoffice, mehr ÖPNV und  Carsharing, Tempolimit auf Autobahnen, weniger Flugreisen), um den Energieverbrauch rasch und dauerhaft zu senken. Diese sollten durch Regierungen durch eigenes vorbildhaftes Handeln als auch mit gezielten regulatorische Maßnahmen und Anreize befördert werden.
+
+Geerd-Dietger Hoffmann stellt sein im Rahmen des Prototyp Funds geförderte Tool [ProcPower](https://www.prototypefund.de/projects/procpower) vor. Als Teil des [Green Kernel](https://github.com/green-kernel) Projekts soll es den Energieverbrauch auf der Ebene von Prozessen und Diensten durch eine leichtgewichtige "Messschicht" unter Linux sichtbar machen. Damit hat man eine Diskussionsgrundlage über teure Hintergrundjob, langsame Abfragen, Vergleiche alternativer Implementierungen hinsichtlich Energiebedarf sowie Aufdecken höherer Energiebedarfe nach Software-Updates bzw. Konfigurationsänderungen.
+
 ### Batterien
-* Batterie-Technologien im Vergleich: Lithium, Natrium, Festkörper und Redox Flow
-  https://www.basicthinking.de/blog/2026/03/01/batterie-technologien-im-vergleich/
-* Forscher entwickeln Tofu-Batterie mit Lebensdauer von 328 Jahren
-  https://www.basicthinking.de/blog/2026/03/06/china-tofu-batterie-lebensdauer-328-jahre/
-* Magnesium-Sauerstoff-Batterien: Eine günstige Lithium-Alternative?
-  https://www.basicthinking.de/blog/2026/03/23/magnesium-sauerstoff-batterien/
-
-### Sonstiges
-* Den Energieverbrauch von Software sichtbar machen – Prozess für Prozess
-  https://www.prototypefund.de/blog/den-energieverbrauch-von-software-sichtbar-machen
-* Energieagentur dringt auf Tempolimit und Homeoffice
-  https://www.tagesschau.de/wirtschaft/verbraucher/iea-oelkrise-tempolimit-homeoffice-reserven-100.html
-
-## Geschichte
-* US-Nationalarchiv stellt NSDAP-Mitgliedsdaten online und erleichtert Ahnenforschung
-  https://www.derstandard.at/story/3000000313076/us-nationalarchiv-stellt-nsdap-mitgliedsdaten-online-und-erleichtert-ahnenforschung
-  * Mikrofilme der Karteikarten der NSDAP Mitglieder wurden vom US-Nationalarchiv in digitaler Form frei verfügbar gemacht
-    https://chaos.social/@eikeroesch/116234805671731556
-  * Online-Archiv zu NSDAP-Mitgliedern: So funktioniert die Suche
-    https://www.br.de/nachrichten/deutschland-welt/suche-im-online-archiv-zu-nsdap-mitgliedern-so-funktionierts,VEIoP0p
-  * https://catalog.archives.gov/id/12044361
+[Basic Thinking vergleicht](https://www.basicthinking.de/blog/2026/03/01/batterie-technologien-im-vergleich/) die verschiedenen Batterie-Technologien wie Lithium, Natrium, Festkörper sowie Redox Flow mit ihren Vor- und Nachteilen. Für Großspeichern könnte bald die von Forschern aus Hongkong entwickelte, wasserbasierte so genannte [Tofu-Batterie](https://www.basicthinking.de/blog/2026/03/06/china-tofu-batterie-lebensdauer-328-jahre/) mit extra
+langer Lebensdauer (= 120.000 Ladezyklen) in Frage kommen, oder auch [Magnesium-Sauerstoff-Batterien](https://www.basicthinking.de/blog/2026/03/23/magnesium-sauerstoff-batterien/) als mögliche günstige Lithium-Alternative, da sie ohne seltene Erden trotzdem eine extrem hohen Energiedichte aufweisen. 
 
 ## Mobilität
 * Travel Time Prediction from Sparse Open Data
@@ -244,6 +180,15 @@ Der [Regierungsentwurf](https://www.bmjv.de/SharedDocs/Gesetzgebungsverfahren/DE
 ### Kipppunkte
 * Veränderung des Golfstroms kündigt Kollaps einer großen Meeresströmung an
   https://www.derstandard.at/story/3000000311931/veraenderung-des-golfstroms-kuendigt-kollaps-einer-grossen-meeresstroemung-an
+
+## Geschichte
+* US-Nationalarchiv stellt NSDAP-Mitgliedsdaten online und erleichtert Ahnenforschung
+  https://www.derstandard.at/story/3000000313076/us-nationalarchiv-stellt-nsdap-mitgliedsdaten-online-und-erleichtert-ahnenforschung
+  * Mikrofilme der Karteikarten der NSDAP Mitglieder wurden vom US-Nationalarchiv in digitaler Form frei verfügbar gemacht
+    https://chaos.social/@eikeroesch/116234805671731556
+  * Online-Archiv zu NSDAP-Mitgliedern: So funktioniert die Suche
+    https://www.br.de/nachrichten/deutschland-welt/suche-im-online-archiv-zu-nsdap-mitgliedern-so-funktionierts,VEIoP0p
+  * https://catalog.archives.gov/id/12044361
 
 ## Journalismus
 * Diffamierung von NGOs: WELT will sich Presserats-Rüge entziehen
