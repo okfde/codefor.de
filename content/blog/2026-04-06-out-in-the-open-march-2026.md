@@ -147,43 +147,20 @@ Die Prognosedaten verschiedener Wettermodelle [deuten auf](https://www.tagesscha
 
 Der Golfstrom hat sich die letzten Jahrzehnte messbar immer weiter nach Norden verschoben, dass deckt sich [mit den Ergebnissen einer Simulation](https://www.derstandard.at/story/3000000311931/veraenderung-des-golfstroms-kuendigt-kollaps-einer-grossen-meeresstroemung-an), die nach einer langsamen Nordwanderung, ein sprunghaftes Verlagern nach Norden um 219km 25 Jahre vor dem kompletten Zusammenbruch der Atlantische meridionalen Umwälzzirkulation (AMOC) vorhersagt. Damit würde der Kipppunkt deutlich früher eintreten, als bisher angenommen.  
 
-## Geschichte
-* US-Nationalarchiv stellt NSDAP-Mitgliedsdaten online und erleichtert Ahnenforschung
-  https://www.derstandard.at/story/3000000313076/us-nationalarchiv-stellt-nsdap-mitgliedsdaten-online-und-erleichtert-ahnenforschung
-  * Mikrofilme der Karteikarten der NSDAP Mitglieder wurden vom US-Nationalarchiv in digitaler Form frei verfügbar gemacht
-    https://chaos.social/@eikeroesch/116234805671731556
-  * Online-Archiv zu NSDAP-Mitgliedern: So funktioniert die Suche
-    https://www.br.de/nachrichten/deutschland-welt/suche-im-online-archiv-zu-nsdap-mitgliedern-so-funktionierts,VEIoP0p
-  * https://catalog.archives.gov/id/12044361
-
 ## Journalismus
-* Diffamierung von NGOs: WELT will sich Presserats-Rüge entziehen
-  https://www.lobbycontrol.de/aus-der-lobbywelt/diffamierung-von-ngos-welt-will-sich-presserats-ruege-entziehen-124356/
-* Das Edelweiß-Netzwerk entlarvt mit einer Aktion die Doppelmoral rechter Medienmacher und -konsumenten
-  https://taz.de/Kampagne-gegen-Nius-und-Frauenhass/!6164260/
-* "CEO Said A Thing!" Journalism
-  https://karlbode.com/ceo-said-a-thing-journalism/
-  https://mastodon.social/@zeruch/116319054049708824
-* Warum „Nius“ in der Bundespressekonferenz nichts zu suchen hat!
-  https://www.volksverpetzer.de/aktuelles/nius-bundespressekonferenz/
-* Das Internet ist kein offenes Netzwerk mehr: Was das für Journalismus bedeutet – und welche Regeln es jetzt braucht. 
-  https://bsky.app/profile/klimajourno.bsky.social/post/3mhi4uy6dqc2w
-* Fernseh-Berichterstattung: Klimakrise erreicht TV-Publikum nicht
-  https://www.mdr.de/wissen/umwelt-klima/klimakrise-in-den-medien-erreicht-im-fernsehen-nicht-breite-masse-100.html
-* Ohne Haltung wären wir keine Journalisten, sondern Maschinen
-  https://www.dwdl.de/interviews/105952/ohne_haltung_waeren_wir_keine_journalisten_sondern_maschinen/
-* Fun Facts
-  https://tube.funfacts.de/home
-* Lokalmedien: Vorsicht, Lückenfüller!
-  https://netzwerkrecherche.org/blog/lokalmedien-vorsicht-lueckenfueller/
-* beabee ist Deine Plattform für Community-Journalismus.
-  https://beabee.io
+[Karl Bode kritisiert](https://karlbode.com/ceo-said-a-thing-journalism/), dass Journalisten sich zunehmend nicht mehr die Mühe machen, Aussagen von Wirtschafts-Lenkern einzuordnen und zu hinterfragen (oder sie gar wegen fehlender Relevanz oder Irreführung vielleicht einfach mal zu ignorieren), statt sie wie ein Papagei eins zu eins wiederzugeben. Scheinbar auch aus Angst, als parteiisch zu gelten, wird ungefiltert durchgereicht. Dabei schließen sich kritischer Journalismus,  präzise Recherche und Bewertung auf Grundlage demokratisch freiheitlicher Werte (= Haltung) und Objektivität und Neutralität nicht aus, so lange man unvoreingenommen und ergebnisoffen an Themen herangeht. Wie Georg Restle [im Interview betont](https://www.dwdl.de/interviews/105952/ohne_haltung_waeren_wir_keine_journalisten_sondern_maschinen/), wären Journalisten ohne Haltung nur Maschinen.  
 
-## Medizin
-* 10 Jahre Medizininformatik-Initiative: "Vernetzte Struktur statt Flickenteppich"
-  https://www.heise.de/news/10-Jahre-Medizininformatik-Initiative-Vernetzte-Struktur-statt-Flickenteppich-11222923.html
-* DNA als Festplatte: Forscher machen Erbgut wiederbeschreibbar
-  https://www.telepolis.de/article/DNA-als-Festplatte-Forscher-machen-Erbgut-wiederbeschreibbar-11211258.html
+Im [5-vor-12-Klima-Briefing](https://nachhaltig-in-graz.at/veranstaltung/5vor12-klima-briefing-733/) hat Medienwissenschaftler Martin Andree [seine Ideen angebracht](https://bsky.app/profile/klimajourno.bsky.social/post/3mhi4uy6dqc2w), durch welche Maßnahmen der Journalimus aus der Plattformlogik, die das freie Internet bedroht, herauskommen kann. Dazu gehört die Monopole zu öffnen, indem man z.B. Infrastruktur und Inhalte trennt, dazu gehört, die Infrastrukturen / Plattformen so zu gestalten, dass man zwischen verschiedenen Anbietern übergreifend kommunizieren und auch leicht wechseln kann. Plattformen wie Instagram dürften nicht mehr Outlinks verbieten können. Dafür müssten sie für strafbare Inhalte ihrer Nutzenden haften können. Außerdem müssten Gremien wie Plattformräte oder ähnliches eingeführt werden, in denen die Nutzenden der Plattformen ein Mitspracherecht bei der Ausgestaltung der Plattformen bekommen, speziell bei den Algorithmen, die über Sichtbarkeit und Relevanz entscheiden.
+
+[Forschenden haben ermittelt](https://www.mdr.de/wissen/umwelt-klima/klimakrise-in-den-medien-erreicht-im-fernsehen-nicht-breite-masse-100.html), dass Klimaberichterstattung vor allem in reinen Informationsformaten, wie Nachrichtensendungen und Reportagen, stattfindet, nur in 20 Prozent der Unterhaltungssendungen wird das Thema aufgegriffen. Damit werden kaum Menschen erreicht, die sich noch nicht aktiv mit Fragen des Klimawandels auseinandersetzen.
+
+Dabei zeigt das neue Format [Fun Facts](https://tube.funfacts.de/home), dass man kritische Inhalte tagesaktuell im Stile einer Late-Night-Show [auch witzig aufbereiten kann](https://www.br.de/nachrichten/kultur/fake-news-witzig-widerlegen-das-nachrichtenformat-fun-facts,VECvW7k). Das Ganze rein spendenbasiert, die täglich wechselnde Hosts verzichten zudem auf ihre Gage.
+
+Um sich mit seiner Leserschaft (bzw. auch Seher- oder Hörerschaft) besser zu vernetzen, braucht es ein Customer-(bzw. Community)-Relationship-Management (CRM) speziell für Journalismus. Mit [beabee](https://beabee.io) gibt es eine solche [Open Source entwickelte](https://github.com/beabee-communityrm) Plattform, die beispielsweise auch Fun Facts nutzt. Über sie lassen sich Spendenzahlungen abwickeln, als auch klassisches Community-Management, bei dem die Community mit den Machern interagieren kann und Themenvorschläge unterbreiten kann, Inhalte mit der Redaktion als auch untereinander diskutieren aber auch crowdsourcen kann. 
+
+Die WELT hat nachweislich Unwahrheiten über NGOs verbreitet, um diese zu diffamieren, [möchte sich nun aber der Presserats-Rüge entziehen](https://www.lobbycontrol.de/aus-der-lobbywelt/diffamierung-von-ngos-welt-will-sich-presserats-ruege-entziehen-124356/), nach der sie eine Gegendarstellung veröffentlichen müssten. [In einer Kunstaktion](https://taz.de/Kampagne-gegen-Nius-und-Frauenhass/!6164260/) hat das Edelweiß-Netzwerk Nutzer-Hasskommentare auf Nius-Artikel-Seiten, die sich gegen prominente Frauen bezogen, auf einem Laster mit einer Großbildleinwand durchs Berliner Regierungsviertel fahren lassen. Nur wurden die Schmähzitate so abgeändert, dass sie sich nun gegen Julian Reichelt als Kopf des Medienportals Nius richteten. Beleidigungen, die auf Nius von deren Redaktion toleriert und nicht gelöscht werden, provozierten nun Nius und Sympathisanten selbst, die (anfänglich ohne Wissen um den Ursprung der Zitate) mit Empörung reagierten, dadurch letzlich ihrer Doppelmoral entlarvt worden. [Für den Volkverpetzer](https://volksverpetzer.de/aktuelles/nius-bundespressekonferenz/) haben deswegen Vertreterinnen von Nius auch nichts in der Bundespressekonferenz zu suchen, denn Pressefreiheit zu bewahren, heißt auch, sie vor Angriffen von (lautstarken) Ideologen und Propagandisten zu schützen.
+
+[Netzwerk Recherche](https://netzwerkrecherche.org/blog/lokalmedien-vorsicht-lueckenfueller/) warnt im vierten [Greenhouse Report](https://netzwerkrecherche.org/wp-content/uploads/2026/03/Greenhouse-Report-4_web.pdf) vor einer weiteren Schwächung des Lokaljournalismus im ländlichen Raum. Interessengeleitete Gratismedien schwingen sich mit pseudojournalistische Inhalten als Sprachrohr einer Gegenöffentlichkeit auf und füllen die Lücken, die gedruckte Lokalzeitungen durch ihren Rückzug hinterlassen haben. Neben der Förderung von Medienkompetenz und der Entwicklung passender digitaler Formate schlägt der Bericht die Schaffung regionaler Rechercheverbünde vor, die Recherchen im Lokalen wieder stärken könnten.
 
 ## Transparenz
 * Buchhandlungen unter Verdacht – Verfassungsschutz und Kulturförderung
@@ -391,6 +368,10 @@ Der Golfstrom hat sich die letzten Jahrzehnte messbar immer weiter nach Norden v
   https://www.wissenschafftzukunft-kiel.de/de/science_comes_to_town/_engagement_projekte/co-creation.php
 * Dritte Runde des Landesprogramms Offene Innovation in Schleswig-Holstein gestartet, bis 28.04.2026
   https://osb-alliance.de/featured/dritte-runde-des-landesprogramms-offene-innovation-in-schleswig-holstein-gestartet
+
+## Und sonst so
+* DNA als Festplatte: Forscher machen Erbgut wiederbeschreibbar
+  https://www.telepolis.de/article/DNA-als-Festplatte-Forscher-machen-Erbgut-wiederbeschreibbar-11211258.html
 
 ## Termine
 * WikiProjects Days (19.–21. Juni)
