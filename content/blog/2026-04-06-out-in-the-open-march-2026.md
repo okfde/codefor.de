@@ -163,56 +163,16 @@ Die WELT hat nachweislich Unwahrheiten über NGOs verbreitet, um diese zu diffam
 [Netzwerk Recherche](https://netzwerkrecherche.org/blog/lokalmedien-vorsicht-lueckenfueller/) warnt im vierten [Greenhouse Report](https://netzwerkrecherche.org/wp-content/uploads/2026/03/Greenhouse-Report-4_web.pdf) vor einer weiteren Schwächung des Lokaljournalismus im ländlichen Raum. Interessengeleitete Gratismedien schwingen sich mit pseudojournalistische Inhalten als Sprachrohr einer Gegenöffentlichkeit auf und füllen die Lücken, die gedruckte Lokalzeitungen durch ihren Rückzug hinterlassen haben. Neben der Förderung von Medienkompetenz und der Entwicklung passender digitaler Formate schlägt der Bericht die Schaffung regionaler Rechercheverbünde vor, die Recherchen im Lokalen wieder stärken könnten.
 
 ## Transparenz
-* Buchhandlungen unter Verdacht – Verfassungsschutz und Kulturförderung
-  https://www.deutschlandfunkkultur.de/buchhandlungen-unter-verdacht-verfassungsschutz-und-kulturfoerderung-100.html
-* Verbraucherinnen und Verbraucher haben seit dieser Woche die Möglichkeit, transparenter zu erfahren, wie und auf welcher Grundlage die Schufa ihre Kreditwürdigkeit einstuft. Über ein neues Online-Portal können sie einen Zugang beantragen und dann den eigenen Score einsehen – inklusive der Kriterien, nach denen er berechnet wird.
-  https://www.rnd.de/wirtschaft/phishing-risiko-neues-schufa-login-ohne-zwei-faktor-authentifizierung-7FSMK4LMDZHXNOVAOZUM56XE7M.html
-  * Finanzwende wirkt: Schufa-Score wird endlich transparenter
-    https://www.finanzwende.de/themen/verbraucherschutz/schufa/finanzwende-wirkt-schufa-score-wird-endlich-transparenter
-* Rüstungsdeals per SMS? Verteidigungsministerium will Chatverläufe nicht herausgeben
-  https://correctiv.org/aktuelles/sicherheit-und-verteidigung/2026/03/27/ruestungsdeals-per-sms-verteidigungsministerium-will-chatverlaeufe-nicht-herausgeben/
+### Kulturkampf
+Wegen Verfassungsschutzrechtlichen Bedenken hat Kulturstaatsminister Weimer drei Buchhandlungen die Verleihung des Deutschen Buchhandlungspreises versagt. Die Buchhandlungen waren zuvor alle von einer unabhängigen Jury ausgewählt worden.[Im Interview](https://www.deutschlandfunkkultur.de/buchhandlungen-unter-verdacht-verfassungsschutz-und-kulturfoerderung-100.html) mit dem Deutschlandfunk erklärt Arne Semsrott von FragDenStaat das [Haberverfahren](https://de.wikipedia.org/wiki/Haber-Verfahren), auf welches sich der Minister beruft, und was daran problematisch ist, nämlich die völlige Intransparenz darüber, aus welchen Gründen die besagten Buchhandlungen als politische Extremisten eingestuft worden sind, oder ob nicht aus reiner Willkür in die Kunstfreiheit eingegriffen wird, weil einem bestimmten Meinungen nicht in den Kram passen.
+
+### Durchmarsch für die Rüstungsbeschaffung?
+[CORRECTIV recherchiert seit Monaten](https://correctiv.org/aktuelles/sicherheit-und-verteidigung/2026/03/27/ruestungsdeals-per-sms-verteidigungsministerium-will-chatverlaeufe-nicht-herausgeben/) zu Vergabepraktiken an Rüstungsunternehmen und möglichen Versuchen der Einflussnahme auf Entscheidungsprozesse und hat dazu über das Informationsfreiheitsgesetz (IFG) die Chatverläufe zwischen Ministeriums-Personal und Rüstungsunternehmen angefordert. Die Herausgabe wurde aber aus Bedenken über eine Beeinträchtigung der militärischen Sicherheit (Rückschlüsse auf Militärstrategie, Gefahr der Spionage und Sabotage) abgelehnt, aber auch weil sie die freie Willensbildung innerhalb der Regierung gefährdet sieht, wenn solche Korrespondenz veröffentlicht werden müsste. Heißt das nun, dass man mit diesem Totschlagargument jede Rechtfertigung über Rüstungsausgaben, die ja 2025 de facto von der Schuldenbremse ausgenommen wurden, abbügeln kann? Zumal Anfang 2026 zusätzlich Direktvergaben an Unternehmen "vereinfacht" hat, sie sich also nicht mehr in einem Wettbewerbsverfahren durchsetzen müssen sondern direkt vom Ministerum ausgewählt werden können. Nach welche Kriterien bleibt intransparent, mit eben dem Verweis auf die militärische Sicherheit.
+
 ### Berliner Transparenzgesetz geschliffen
-* die berliner cdu-spd-landesregierung will den datenschutz und die informationsfreiheit aushöhlen. 
-  https://chaos.social/@jk/116160718366206240
-* Nach Fördermittelaffäre: CDU will Transparenz beschneiden
-  https://fragdenstaat.de/artikel/exklusiv/2026/03/berliner-cdu-will-auskunftsanspruche-einschranken/
-* Beschneidung der Informationsfreiheit: Senat macht das Licht aus
-  https://taz.de/Beschneidung-der-Informationsfreiheit/!6159724/
-* Informationsfreiheitsgesetz: Berliner Senat will mehr Überwachung und weniger Transparenz
-  https://www.sueddeutsche.de/politik/ifg-gesetzesaenderung-berlin-spd-verwaltung-li.3447817?reduced=true
-* Im Namen der Sicherheit staatliche Transparenz zu verringern, und Informationsrechte der Bürger zu beschneiden, steht derzeit hoch im Kurs.
-  https://chaos.social/@digiges/116199165525228166
-  * Missing Link: Auf der Spree schwimmt eine Infrastrukturschutz-Ente
-    https://www.heise.de/hintergrund/Missing-Link-Auf-der-Spree-schwimmt-eine-Infrastrukturschutz-Ente-11202843.html
-* Finger Weg vom Berliner IFG: 38 Organisationen fordern: Informationsfreiheit in Berlin nicht abschaffen!
-  https://fragdenstaat.de/artikel/policy/2026/03/34-organisationen-fordern-berliner-informationsfreiheitsgesetz-staken-nicht-schwachen/
-* Warum Berliner Politikern das IFG ein Dorn im Auge ist
-  https://chaos.social/@besendorf/116167530629454618
-* Berlin: Widerstand gegen Aushöhlung der Informationsfreiheit und Datenschutzabbau
-  https://netzpolitik.org/2026/berlin-widerstand-gegen-aushoehlung-der-informationsfreiheit-und-datenschutzabbau/
-* Alles zum aktuellen Gesetzentwurf in einer Minute
-  https://chaos.social/@fragdenstaat/116204409118611277
-* Petition
-  https://weact.campact.de/petitions/finger-weg-vom-berliner-informationsfreiheitsgesetz
-* Die Berliner Beauftragte für Datenschutz und Informationsfreiheit, Meike Kamp, kritisiert die geplanten Änderungen am Berliner Datenschutzgesetz und dem Berliner Informationsfreiheitsgesetz. 
-  https://www.datenschutz-berlin.de/pressemitteilung/beauftragte-kritisiert-geplante-aenderungen-an-informationsfreiheit-und-datenschutzgesetz/
-* Berliner Senat beschneidet Informationsfreiheit – und ignoriert Expertise und Petition
-  https://blog.wikimedia.de/2026/03/31/berlins-informationsfreiheit-petition/
-* Die Einschränkung des Berliner IFG ist ein Skandal & die Vorgehensweise von CDU & SPD ein Rückschritt. 
-  https://chaos.social/@fragdenstaat/116301392815165119
-* Berlin: Die Mehrheit aus CDU & SPD hat die Änderung des Informationsfreiheitsgesetzes (IFG) beschlossen
-  https://www.youtube.com/live/URiHsFhu_1U?t=23830s
-  https://chaos.social/@tbsprs/116323304441272402
-* Im Namen der Sicherheit: Berliner Senat beschneidet Informationsfreiheit
-  https://netzpolitik.org/2026/im-namen-der-sicherheit-berliner-senat-beschneidet-informationsfreiheit/
-* IFG-Einschränkungen: Sicherheit gegen Transparenz – ein gefährlicher Trend
-  https://fragdenstaat.de/artikel/policy/2026/04/thuringen-und-sh-abschaffen/
-* Verwandte Themen
-  * Journalismus in der Türkei: Informationsfreiheit in einem unfreien System
-    https://taz.de/Journalismus-in-der-Tuerkei/!6161669/
-    https://mastodon.online/@denes/116220666652319145
-  * Bürgerhaushalt in Leipzig auf Grund schwieriger Finanzlage für zwei Jahre ausgesetzt 
-    https://mastodon.social/@mephisto976/116290263558402860
+In einer eilig anberaumten Abstimmung über das [Gesetz zur Änderung des Berliner Datenschutzgesetzes und weiterer Rechtsvorschriften](https://www.parlament-berlin.de/ados/19/IIIPlen/vorgang/d19-2999.pdf) am 26. März wurden neue Ausnahmen vom Informationsfreiheitsgesetz (IFG) [mit der Mehrheit von CDU und SPD durchgewunken](https://chaos.social/@tbsprs/116323304441272402). Als Grund diente der Anschlag auf das Berliner Stromnetz im Januar, weswegen nun durch die Maßnahmen die kritischer Infrastruktur gestärkt werden solle. Dabei hätten die schon bestehenden Ausnahmen nach Einschätzung von Experten dafür völlig ausgereicht. Durch die neue Regelungen [können nun Verwaltungen](https://blog.wikimedia.de/2026/03/31/berlins-informationsfreiheit-petition/) in Berlin pauschal Informationen über Einrichtungen aus 13 Bereichen (darunter Energie, Transport und Verkehr, Gesundheit, Wasser, Medien und Kultur) verweigern, wenn sie eine hohe Bedeutung für das Gemeinwesen haben, ohne prüfen zu müssen, ob überhaupt ein Sicherheitsrisiko besteht. Trotz umfangreichen Protests in Form eines von 38 zivilgesellschaftlichen Organisationen unterzeichneten [offenen Briefs](https://fragdenstaat.de/artikel/policy/2026/03/34-organisationen-fordern-berliner-informationsfreiheitsgesetz-staken-nicht-schwachen/), Kritik durch die [Berliner Datenschutzbeauftragten](https://www.datenschutz-berlin.de/pressemitteilung/beauftragte-kritisiert-geplante-aenderungen-an-informationsfreiheit-und-datenschutzgesetz/), einer [Petition](https://weact.campact.de/petitions/finger-weg-vom-berliner-informationsfreiheitsgesetz) sowie der [Anhörung von Sachverständigen](https://chaos.social/@fragdenstaat/116301392815165119) drei Tage vor Verabschiedung des Gesetzes, die im Nachgang nur noch als Showeinlage (oder gar Demütigung der Verfechter des IFG) klassifiziert werden kann, denn ersthaft wird zu diesem Zeitpunkt keiner der Entscheider mehr bereit gewesen sein, das Gesetz noch zu ändern. Bleibt also die starke Vermutung, dass der Anschlag im Januar der willkommene Anlass war, die Exekutive vor öffentlicher Kontrolle [wieder weitreichend abschirmen zu können](https://netzpolitik.org/2026/im-namen-der-sicherheit-berliner-senat-beschneidet-informationsfreiheit/). Dass in der Vergangenheit das IFG maßgeblich dazu beigetragen hat, [die CDU-Fördergeldaffäre offenzulegen](https://fragdenstaat.de/artikel/exklusiv/2026/03/berliner-cdu-will-auskunftsanspruche-einschranken/) oder den Doktorgrads von Franziska Giffey [abzuerkennen](https://chaos.social/@besendorf/116167530629454618), könnten Verschwörungstheorien sein - oder auch nicht.
+
+Die Vorgänge liefern jedenfalls auch anderen Bundesländern die dankbare Vorlage, auch bei sich mit ähnlichen Begründungen die Transparenz einzuschränken, [konkret in Schleswig-Holstein, Thüringen und Mecklenburg-Vorpommern](https://fragdenstaat.de/artikel/policy/2026/04/thuringen-und-sh-abschaffen/).
 
 ## Demokratie
 * Umbau des Programms "Demokratie leben"
