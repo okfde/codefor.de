@@ -175,20 +175,11 @@ In einer eilig anberaumten Abstimmung über das [Gesetz zur Änderung des Berlin
 Die Vorgänge liefern jedenfalls auch anderen Bundesländern die dankbare Vorlage, auch bei sich mit ähnlichen Begründungen die Transparenz einzuschränken, [konkret in Schleswig-Holstein, Thüringen und Mecklenburg-Vorpommern](https://fragdenstaat.de/artikel/policy/2026/04/thuringen-und-sh-abschaffen/).
 
 ## Demokratie
-* Umbau des Programms "Demokratie leben"
-  https://taz.de/Umbau-des-Programms-Demokratie-Leben/!6164747/
-  * Angriffe auf die Zivilgesellschaft: Bundesregierung schwächt Demokratiearbeit
-    https://fragdenstaat.de/artikel/exklusiv/2026/03/bundesregierung-schwacht-demokratiearbeit/
-  * 1.000 Erstunterzeichner:innen: Volle Breitseite gegen die Feinde der Demokratie
-    https://netzpolitik.org/2026/1-000-erstunterzeichnerinnen-volle-breitseite-gegen-die-feinde-der-demokratie/
-  * Offener Brief
-    https://drive.google.com/file/d/1HGOUZUVCAKxQJ0rFoa3LKsUsQADnmdqy/view
-    https://d-64.social/@D64eV/116300731300868430
-  * Das autoritäre Playbook gibt es vor: Erst Desinformation, dann Diffamierung und schließlich Defunding.
-    https://bewegung.social/@lobbycontrol/116301391440054919
-* "Radikale Töchter" - Demokratieförderung nach Gutsherrenart
-  https://fragdenstaat.de/artikel/exklusiv/2026/03/radikale-tochter/
-  https://www.deutschlandfunkkultur.de/foerderung-fuer-anti-extremismus-projekt-radikale-toechter-gestrichen-100.html
+In einem [offenen Brief](https://drive.google.com/file/d/1HGOUZUVCAKxQJ0rFoa3LKsUsQADnmdqy/view) an die Bundesfamilienministerin Karin Prien [wehren sich](https://netzpolitik.org/2026/1-000-erstunterzeichnerinnen-volle-breitseite-gegen-die-feinde-der-demokratie/) mehr als 1.000 Organisationen und Personen des öffentlichen Lebens gegen den Umgang der Bundesregierung mit der Zivilgesellschaft und dem Förderprogramm "Demokratie Leben!", bei dem die Familienministerin 200 Projekte [nicht mehr fördern möchte](https://taz.de/Umbau-des-Programms-Demokratie-Leben/!6164747/). Prien selbst bekannte, dass sie gesellschaftliche Vielfalt nicht als Förderziel sehe und Merz gab zu, dass er es auch als erwünschtes Ergebnis ansehe, wenn nicht mehr so viele linke Projekte Gelder bekämen. [Eine Auswertung von FragDenStaat](https://fragdenstaat.de/artikel/exklusiv/2026/03/bundesregierung-schwacht-demokratiearbeit/) zeigt, wie "Demokratie leben!" über Jahre [gezielt parlamentarisch](https://bewegung.social/@lobbycontrol/116301391440054919) unter Druck gesetzt wurde: Zwischen Januar 2020 und Februar 2026 wurden in den Landesparlamenten mindestens 36 schriftliche Anfragen gestellt, die sich explizit mit „Demokratie leben!“ befassen. Und auf Bundesebene haben allein in der laufenden Legislaturperiode AfD-Abgeordnete 13 Anfragen gestellt, die sich unter dem Stichwort „Bundesprogramm Demokratie leben!“ finden lassen. Die AfD wird sich jedenfalls über die Kürzungen freuen.
+ratiearbeit
+
+Die Bundeszentrale für politische Bildung (BpB) wollte im Januar die "Mut-Muskel-Workshops" der Organisation "Radikale Töchter" mit rund 300.000 Euro weiter fördern, nun hatte das Innenministerium ohne Begründung diese Förderung untersagt. [Interne Dokumente zeigen](https://fragdenstaat.de/artikel/exklusiv/2026/03/radikale-tochter/
+  https://www.deutschlandfunkkultur.de/foerderung-fuer-anti-extremismus-projekt-radikale-toechter-gestrichen-100.html), wie umstritten die Intervention des Ministeriums auch unter Beamt:innen gesehen wird.
 
 ## Überwachung
 * Schlappe für die Kommission: EU-Abgeordnete lassen Chatkontrolle durchfallen
@@ -302,24 +293,13 @@ Die Vorgänge liefern jedenfalls auch anderen Bundesländern die dankbare Vorlag
   https://www.tagesschau.de/wirtschaft/digitales/rechenzentren-fluch-segen-100.html
 
 ## Recap
-* Netzpolitscher Abend Österreich | Elevate Festival 2026 (Graz)
-  https://www.youtube.com/watch?v=_8heU46ItSg
-* 154. Netzpolitischer Abend
-  https://fair.tube/w/p/csP4s8ticJjfsMRCBSoD2R?playlistPosition=1
-* Winterkongress 2026
-  https://media.ccc.de/c/dgwk2026
-  * Stadt-Miete vs Land-Besitz. Was uns Wohnen über digitale Souveränität lehrt
-    https://media.ccc.de/v/dgwk2026-56533-stadt-miete-vs-land-besit
-* openCode Präsentationen
-  https://gitlab.opencode.de/open-code/veranstaltungen/-/tree/main/2026
-* FOSSGIS-Konferenz Göttingen
-  https://media.ccc.de/c/fossgis2026/fossgis2026
-* Recycling 4.0 – Smarte Sensorik und digitale Kreislaufprozesse für Bau- und Metallabfälle
-  https://www.youtube.com/watch?v=aoT7gA-FGcw
-* Chemnitzer Linux-Tage 2026
-  https://media.ccc.de/c/clt26
-  * Open Source an Schulen – der Versuch eines Überblicks
-    https://media.ccc.de/v/clt26-346-open-source-an-schulen-der-versuch-eines-uberblicks
+* [Netzpolitscher Abend Österreich | Elevate Festival 2026 (Graz)](https://www.youtube.com/watch?v=_8heU46ItSg)
+* [154. Netzpolitischer Abend](https://fair.tube/w/p/csP4s8ticJjfsMRCBSoD2R?playlistPosition=1)
+* [Winterkongress 2026](https://media.ccc.de/c/dgwk2026), z.B. mit dem Vortrag [Stadt-Miete vs Land-Besitz. Was uns Wohnen über digitale Souveränität lehrt](https://media.ccc.de/v/dgwk2026-56533-stadt-miete-vs-land-besit)
+* [openCode Präsentationen](https://gitlab.opencode.de/open-code/veranstaltungen/-/tree/main/2026)
+* [FOSSGIS-Konferenz Göttingen](https://media.ccc.de/c/fossgis2026/fossgis2026)
+* [Recycling 4.0 – Smarte Sensorik und digitale Kreislaufprozesse für Bau- und Metallabfälle](https://www.youtube.com/watch?v=aoT7gA-FGcw)
+* [Chemnitzer Linux-Tage 2026](https://media.ccc.de/c/clt26) z.B. mit dem Vortrag [Open Source an Schulen – der Versuch eines Überblicks](https://media.ccc.de/v/clt26-346-open-source-an-schulen-der-versuch-eines-uberblicks)
 
 ## Fristen
 * bis 7.4. Ein Preis für exzellente Forschung mit Citizen Science
