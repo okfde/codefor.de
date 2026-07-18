@@ -103,21 +103,20 @@ Geerd-Dietger Hoffmann stellt sein im Rahmen des Prototyp Funds geförderte Tool
 langer Lebensdauer (= 120.000 Ladezyklen) in Frage kommen, oder auch [Magnesium-Sauerstoff-Batterien](https://www.basicthinking.de/blog/2026/03/23/magnesium-sauerstoff-batterien/) als mögliche günstige Lithium-Alternative, da sie ohne seltene Erden trotzdem eine extrem hohen Energiedichte aufweisen. 
 
 ## Mobilität
-* Travel Time Prediction from Sparse Open Data
-  https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2628193
-  https://mas.to/@gboeing/116296054276292426
-* Citizen Science: Berliner*innen fordern besseren Zugang zu gesunder Mobilität
-  https://www.ioew.de/presse/pressemitteilungen/citizen-science-berlinerinnen-fordern-besseren-zugang-zu-gesunder-mobilitaet
-* Digitale Plattform zum In­formationsaustausch für den Verkehr beschlossen
-  https://www.bundestag.de/dokumente/textarchiv/2026/kw13-de-intelligente-verkehrssysteme-1156744
-* Wie öffentliches Laden günstiger werden kann
-  https://background.tagesspiegel.de/verkehr-und-smart-mobility/briefing/wie-oeffentliches-laden-guenstiger-werden-kann
-* Bahn.Bet - Auf Verspätungen wetten
-  https://bahn.bet
-* Trainspotter: Real-time Berlin public transport departure board with walk-time-aware color coding
-  https://github.com/momonala/trainspotter
-* Ladeinfrastruktur: Turbo an der Ladesäule
-  https://klimareporter.de/verkehr/turbo-an-der-ladesaeule
+### Elektrisierend
+Fanny Tausendteufel von der Agora Verkehrswende [fordert mehr Transparenz](https://background.tagesspiegel.de/verkehr-und-smart-mobility/briefing/wie-oeffentliches-laden-guenstiger-werden-kann) über die Preisbildung an öffentlichen E-Auto-Ladestationen. So könnten unzulässige Preisunterschiede schneller aufgedeckt werden, und für fairen Wettbewerb sorgen. EU-Regulierungen wie die AFIR (Alternative Fuels Infrastructure Regulation) schreiben Ladeinfrastrukturbetreiber bereits vor, dass sie ihre Ad-hoc-Preise veröffentlichen. Deutschland muss allerdings noch in nationales Recht umsetzen und z.B. festlegen, dass solche Daten in die Mobilithek hochgeladen müssen. Die dadurch nachvollziehbaren Preise für Ad-hoc-Laden würden dann den Wettbewerbsdruck auf die Anbieter von Vertragstarifen erhöhen, die derzeit noch mit bedingten Blockiergebühren und komplizierten Tarifmodelle die tatsächlichen Gesamtkosten verschleiern können, wodurch öffentliches Laden schnell auch zur Kostenfalle werden kann, wenn man den falschen Vertrag abgeschlossen hat, obwohl für den gleichen Ladepunkt eine günstige Alternative gegeben hätte. 
+
+Und der Lade-Infrastruktur-Ausbau schreitet weiter voran: nach Angaben der Bundesnetzagentur sind von den inzwischen rund 196.000 öffentlichen Ladepunkten in Deutschland etwa 50.000 Schnelllader. Sie ermöglichen längere Strecken mit Elektroautos zurücklegen zu können. Aber selbst an den Schnellladern muss man aktuell noch bis zu 30 Minuten warten, bis die Batterie auf 80% gefüllt ist, an normalen Stationen dauert das Laden mehrere Stunden. Eine neue Generation von Batterien und Ladegeräten, [die der chinesische Autokonzern BYD vorgestellt hat](https://klimareporter.de/verkehr/turbo-an-der-ladesaeule), soll das Laden durch eine Ladeleistung von 1.500 Kilowatt allerdings auf wenige Minuten verkürzen (zum Vergleich: derzeitige Schnelllader haben eine Leistung von 150 bis 400 KW, normale Stationen gerade 11 bis 22 KW). Aber auch hier muss erst die Infrastruktur ausgebaut werden, vor allem, weil die Flash Charger mit einem zusätzlichen Energiespeicher kombiniert werden müssen, um das lokale Netz nicht durch die hohe Ladeleistung zu überlasten.  
+
+### Intelligente Steuerung
+Im März wurde die Citizen-Science-Studie "Mobil auf Deine Weise", an der sich über 200 Bürger:innen beteiligt hatten, [abgeschlossen](https://www.ioew.de/presse/pressemitteilungen/citizen-science-berlinerinnen-fordern-besseren-zugang-zu-gesunder-mobilitaet). Das Forschungsprojekt der Freien Universität (FU) Berlin und dem Institut für ökologische Wirtschaftsforschung (IÖW) hatte untersucht, wie gesunde und gerechte Mobilität in Berlin gestaltet werden kann. Das [Forderungspapier](https://www.mobil-auf-deine-weise.de/forderungen) an die Politik sieht vor allem in der besseren Umsetzung der schon bestehenden Gesetze und Standards den größten Hebel.
+
+Der Gesetzentwurf "Neuregelung des Rechtsrahmens für intelligente Verkehrssysteme im Straßenverkehr und deren Schnittstellen zu anderen Verkehrsträgern und die Datenbereitstellung über den Nationalen Zugangspunkt“ [sieht vor](https://www.bundestag.de/dokumente/textarchiv/2026/kw13-de-intelligente-verkehrssysteme-1156744), dass alle Informationen, die z.B. für das Planen und Durchführen einer Reise durch Deutschland erforderlich sind, transparent und zuverlässig über einen nationalen Zugangspunkt digital bereitgestellt werden sollen. Er verpflichtet  Straßenbaubehörden und -betreiber Daten zu Sperrungen, Geschwindigkeitsbeschränkungen, Zufahrtsbedingungen von Brücken und Tunneln oder Baustellen in eben dieser Form an diesem Zugangspunkt zu hinterlegen. Von Verkehrsunternehmen werden neben Fahrzeugauslastungsdaten im Linienverkehr auch die Auslastung von Vorrangplätzen für Menschen mit Behinderungen in digitaler Form erwartet. Letzere Forderung zieht der Bundesrat allerdings als nicht umsetzbar in Zweifel, da diese meist nicht automatisiert gewonnen werden könnten.
+
+### Bahn
+Dass bei der Deutschen Bahn viele Züge zu spät sind und die Infrastruktur chrononisch unterfinanziert ist, greift [BahnBet](https://bahn.bet) satirisch in Form einer Wettplattform auf. Züge, Bahnverbindungen Verspätungen sind echt und man kann seinen Wetteinsatz mit der fiktiven Währung Caßh für die vermutete Verspätung eines Zuges platzieren. 
+
+Einen Echtzeitabfahrtsplan für Berliner Züge in der Nähe des eigenen Standorts bietet die Open Source Web-App [Trainspotter](https://github.com/momonala/trainspotter) zum Selberhosten. Abfahrten, die man von seiner Position aus wohl läuferisch nicht mehr zeitlich erreichen würde, werden rot markiert.
 
 ## Karten
 * Apple Look Around im Browser
