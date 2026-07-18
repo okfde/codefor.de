@@ -119,66 +119,33 @@ Dass bei der Deutschen Bahn viele Züge zu spät sind und die Infrastruktur chro
 Einen Echtzeitabfahrtsplan für Berliner Züge in der Nähe des eigenen Standorts bietet die Open Source Web-App [Trainspotter](https://github.com/momonala/trainspotter) zum Selberhosten. Abfahrten, die man von seiner Position aus wohl läuferisch nicht mehr zeitlich erreichen würde, werden rot markiert.
 
 ## Karten
-* Apple Look Around im Browser
-  https://lookmap.eu.pythonanywhere.com/
-  https://darmstadt.social/@marco/116189970247732348
-* Announcing DuckDB 1.5.0
-  https://duckdb.org/2026/03/09/announcing-duckdb-150
-  https://mastodon.social/@jakobmiksch/116200884559118971
-* NDVI (Normalized Difference Vegetation Index): Realisierung mit QGIS, Standard & Grenzen
-  https://geoobserver.de/2026/03/16/ndvi-realisierung-mit-qgis-standard-grenzen/
-* Introduction to the Geospatial Abstraction Library (GDAL) with the new CLI
-  https://videos.qwast-gis.com/w/3d61d71e-fb51-46c2-ae7f-936520859f94
-* The INSPIRE Directive for geodata interoperability and sharing is set to be simplified.
-  https://spatialists.ch/posts/2026/03/26-geo-beyond-inspire/
-  https://mapstodon.space/@spatialists/116297983961743858
-* TimeTiles: Reusable components and widgets for time-dependent geodata
-  https://www.prototypefund.de/en/projects/timetiles
+Auf der offenen Lernplattform [OpenCourseWare for GIS](https://courses.gisopencourseware.org) finden sich zahlreiches Videomaterial in verschiedenen Sprachen speziell zu Geografie-Informationssystemen und deren Bibliotheken und Werkzeugen. So wird beispielsweise im Kurs [Programming Basics for QGIS Users](https://courses.gisopencourseware.org/course/section.php?id=581) auch die neu strukturierten Kommandozeilenaufrufe der Geospatial Abstraction Library (GDAL) [vorgestellt](https://videos.qwast-gis.com/w/3d61d71e-fb51-46c2-ae7f-936520859f94). 
+
+Das ambitionierte Ziel der 2007 initiierte INSPIRE Richtlinie, um Umwelt-bezogene geografisch-räumliche Daten über die Grenzen der 27 EU-Mitgliedsländer hinweg auffindbar, zugänglich und interoperabel zu bekommen, mündete in einer Vielzahl neuer theoretischer Standards, die praktisch aber schwer zu implementieren waren und in Folge kaum oder falsch genutzt wurden. Wie Ralph Straumann dokumentiert, [plädiert Javier de la Torre, ](https://spatialists.ch/posts/2026/03/26-geo-beyond-inspire/), Gründer von CARTO, für das Nutzen bereits existierende Standard, wie GeoParquet, oder anderen in der Daten-Analyse etablierten Formaten, denn räumliche Daten sind am Ende nicht so speziell, wie immer getan wird. Durch diese Vereinfachung würden aber Geo-Daten ganz neuen Nutzergruppen zugänglich werden.
+
+Wie man in QGIS den Vegetationsindex NDVI (Normalized Difference Vegetation Index) unkompliziert mit dem Rasterrechner für Luftbilder berechnen kann, [zeigt der geoObserver](https://geoobserver.de/2026/03/16/ndvi-realisierung-mit-qgis-standard-grenzen/), benennt aber auch die Grenzen, denen man sich bewusst sein sollte. Unterschiedliche Überfliegungssituationen (andere Jahreszeit, andere Tageszeit, anderer Sonnenstand, längere Trockenperiode aber auch anderes Kameramodell und Aufnahmewinkel) führen zu unterschiedlichen Ergebnissen bzw. verfälschen sie auch, weil durch Schattenwurf Dächer z.B. als Grünflächen und vertrockneten Wiesen dagegen als versiegelte Flächen klassifiziert werden.
+
+Für den [Apple Look Around Viewer](https://lookmap.skzk.dev) (Implementierung ist [Open Source](https://github.com/sk-zk/lookaround-map)) wurde die Anfragen an Apples interne Map-API reverse-engineered, Apple Look Around Panorama-Aufnahmen auch auf anderen Plattformen nutzen können. Im Viewer ist auch jeweils die entsprechende Darstellungen in der Google Street View verlinkt.
 
 ## Klima
-* Forschungsvorhaben „Kommunalbefragung: Wo stehen die Kommunen bei der Anpassung an den Klimawandel und wie kommen sie zu multifunktionalen und transformativen Anpassungslösungen“
-  https://www.umweltbundesamt.de/publikationen/fortschritte-in-der-kommunalen-klimawandelanpassung
-* Handbuch Umweltkosten
-  https://www.umweltbundesamt.de/publikationen/handbuch-umweltkosten
-### Global
-* Warnung vor "Super-El-Niño": Droht ein globaler Hitzeschub?
-  https://www.tagesschau.de/wissen/klima/super-el-nino-100.html
-  * ‘Normal was left in the dust’: El Niño may return this year and make the planet even hotter
-    https://www.euronews.com/2026/03/03/normal-was-left-in-the-dust-el-nino-may-return-this-year-and-make-the-planet-even-hotter
-  * Super El Niño 2026: Wenn die Natur das fossile Casino sprengt
-    https://www.cleanthinking.de/super-el-nino-2026
-* The ocean is sending signals: Unusual currents hint at possible climate shifts
-  https://www.msn.com/en-us/weather/topstories/the-ocean-is-sending-signals-unusual-currents-hint-at-possible-climate-shifts/ar-AA1YJfAB
-* Moderate global warming does not rule out extreme global climate outcomes
-  https://www.nature.com/articles/s41586-026-10237-9
-### Dürre
-* Klimabilanz 2025: Trockenheit wird zunehmend zum Problem
-  https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy9lYmQ1OWM1OS05YmU3LTRjZTQtYWQ0ZC1iM2Y5NzBkNmZiM2E
-* Studie der TU München: Europas Wälder im Dauerstress
-  https://www.tagesschau.de/wissen/klima/klimawandel-wald-kohlenstoff-100.html
-* Deutschlands Wasserspeicher sind bedenklich leer, sagen Forschende
-  https://www.fr.de/wirtschaft/klimawandel-klima-folgen-deutschland-news-wirtschaft-landwirtschaft-bauern-wasser-mangel-speicher-zr-94229460.html
-* Wie sicher ist unser Wasser wirklich?
-  https://www.zdf.de/play/shows/mai-think-x-die-show-102/maithink-x-wasser-100
-* Neue Daten: Trinkwasserreserve hat auch in Deutschland abgenommen
-  https://www.deutschlandfunk.de/neue-daten-trinkwasserreserve-hat-auch-in-deutschland-abgenommen-106.html
-### Bits & Bäume Konferenz NRW
-* Forderungen für eine nachhaltige Digitalisierung an die NRW-Landespolitik: Für eine selbstbestimmte und gemeinwohlorientierte Digitalisierung in NRW in den planetaren Grenzen
-  https://bits-und-baeume.org/assets/images/pdfs/B&B_NRW_PolitischeForderungen_2026.pdf
-  https://mastodon.bits-und-baeume.org/@bits_und_baeume/116165819199543008
-* Interview zur Bits & Bäume Konferenz: 
-  https://netzpolitik.org/2026/interview-zur-bits-baeume-konferenz-wir-wollen-gemeinsam-darueber-diskutieren-welche-digitale-zukunft-wir-anstreben/  
 ### Politik
-* Klimaschutz tiefergelegt
-  https://klimareporter.de/deutschland/klimaschutz-tiefergelegt
-### Klima-Klagen
-* Die Deutsche Umwelthilfe will Autobauer vor dem Bundesgerichtshof zu einem Aus für Verbrenner zwingen
-  https://taz.de/DUH-Klimaklagen-gegen-Daimler-und-BMW/!6159213/
-* Klage erfolgreich: Regierung muss mehr für Klimaschutz tun
-  https://www.br.de/nachrichten/deutschland-welt/klage-erfolgreich-deutschland-muss-mehr-fuer-klimaschutz-tun,V9in4Yp
-### Kipppunkte
-* Veränderung des Golfstroms kündigt Kollaps einer großen Meeresströmung an
-  https://www.derstandard.at/story/3000000311931/veraenderung-des-golfstroms-kuendigt-kollaps-einer-grossen-meeresstroemung-an
+[Der Abschlussbericht](https://www.umweltbundesamt.de/publikationen/fortschritte-in-der-kommunalen-klimawandelanpassung) des Umweltbundesamts dokumentiert die zentralen Ergebnisse des Forschungsvorhabens "Kommunalbefragung: Wo stehen die Kommunen bei der Anpassung an den Klimawandel und wie kommen sie zu multifunktionalen und transformativen Anpassungslösungen?". So ist der im Forschungsprojekt entstandene [KomPass Anpassungsscanner](https://www.umweltbundesamt.de/Anpassungsscanner) die direkte Antwort auf den Bedarf vieler Kommunen, Aktivitäten und Handlungsbedingungen hinsichtlich Klimafolgenanpassung vor Ort bewerten zu können. Denn letzlich müssen Zielbilder entwickelt werden, die zu den jeweiligen lokalen Gegebenheit passen. Ob bereits ergriffenen Maßnahmen überhaupt Wirkung entfalten muss kontinuierlich überwacht und evaluiert werden. Ein solche Auswertung hilft der eigenen aber auch anderen Kommunen geeignete Maßnahmen zu priorisieren. Eine weitere Erkenntnis ist, dass relevantes Klimawandelanpassungswissen zwar vorhanden ist, aber zum Teil nur in einzelnen Kommunen, und der Wissenstransfer zu anderen zum Teil noch an der Datenaufbereitung scheitert. Verwaltungsstrukturen müssen auch soweit reformiert werden, so dass Querschnittsaufgaben nicht liegen bleiben, nur weil Zuständigkeiten nicht geklärt sind. Generell muss die Wissensvermittlung über Klimawandelanpassung bereits in der Ausbildung aber auch in der Berufspraxis fest verankert werden. Durch geeignete Weiterbildungsangebote, Austausch- und Reflexionsformate kann Wissens auch in die Breite getragen werden und dabei sichergestellt werden, dass soziale Dimensionen und Gerechtigkeitsfragen, die der Klimawandel mit sich bringt, auch bei den Anpassungsmaßnahmen immer mitbedacht werden. Und da Klimaanpassung Geld kostet (wenn auch weniger, als sie zu unterlassen), müssen Kommunen dennoch die jeweiligen Förderlandschaften in ihrem Bundesland beachten, über die sie schließlich an die notwendigen Fördermittel kommen können.
+
+Das Bundesverwaltungsgericht [hat geurteilt](https://www.br.de/nachrichten/deutschland-welt/klage-erfolgreich-deutschland-muss-mehr-fuer-klimaschutz-tun,V9in4Yp), dass die Maßnahmen des Bundes nicht ausreichen, um die Klimaziele bis 2030 zu erfüllen, und gab damit der Klage der Deutschen Umwelthilfe (DUH) gegen das Klimaschutzprogramm aus dem Jahr 2023 recht. Die "Ziellücke" von 30 Millionen Tonnen CO2-Äquivalenten, die zusätzlich gegenüber dem alten Programm nun erreicht werden muss, versucht das neue Klimaschutzprogramm [nach Einschätzung](https://klimareporter.de/deutschland/klimaschutz-tiefergelegt) von Joachim Wille nur mit "Luftbuchungen und Hoffnungswerten" zu erreichen, denn mit den Verschlimmbesserungen bei Heizung, EEG und Stromnetz-Ausbau, reichen die geplanten Maßnahmen nicht aus, um die notwendigen CO2-Einsparungen auch tatsächlich zu erreichen.
+
+Aber ständig neu zu klagen, kostet wertvolle Zeit, und wie man bei der [Klage gegen BMW und Mercedes-Benz](https://www.tagesschau.de/inland/bundesgerichtshof-klima-klage-bmw-mercedes-100.html), mit der die Deutsche Umwelthilfe erreichen wollte, dass die Autobauer ab 2030 keine Neuwagen mit Verbrennungsmotoren mehr verkaufen dürfen, sieht, können Gerichte nicht den politischen (und unternehmerischen) Unwillen kompensieren.
+
+Im Rahmen der [Bits & Bäume Konferenz 2026](https://netzpolitik.org/2026/interview-zur-bits-baeume-konferenz-wir-wollen-gemeinsam-darueber-diskutieren-welche-digitale-zukunft-wir-anstreben/  ) in NRW Anfang März wurden [Forderungen für eine nachhaltige Digitalisierung](https://bits-und-baeume.org/assets/images/pdfs/B&B_NRW_PolitischeForderungen_2026.pdf) an die Landespolitik gestellt. So sollen bei digitalen Infrastrukturen offene Standards und offene Software an Stelle proprietärer Lösungen zum Zuge kommen, um Lock-In-Fallen zu vermeiden. Zu einer solchen offenen Infrastruktur gehören auch die Daten. Auch in den Verwaltungen sollten Open Source Lösungen bevorzugt werden, bei Hard- und Software auf ressourcenschonende Beschaffung und Nutzungen geachtet werden, dazu gehört auch die Risiko-/Nutzen-Abschätzung bei der Verwendung von KI, die sich ja sowohl bei der Ansiedlung neuer Rechenzentren als beim Einsatz in Polizei-Data-Mining-Software niederschlägt.  
+
+### Dürre
+Bei der [Vorstellung der Klimabilanz 2025](https://www.ardmediathek.de/video/phoenix-vor-ort/vorstellung-der-klimabilanz-2025/phoenix/Y3JpZDovL3Bob2VuaXguZGUvNTE4NDQ0OQ) wurde Trockenheit als zunehmendes Problem benannt. So hatte Deutschland zum Jahresende 2025 [ein Defizit von rund 25 Milliarden Tonnen Wasser](https://www.fr.de/wirtschaft/klimawandel-klima-folgen-deutschland-news-wirtschaft-landwirtschaft-bauern-wasser-mangel-speicher-zr-94229460.html) im Vergleich zum Mittelwert seit 2002 (2023 lag das Defizit noch bei rund zehn Milliarden Tonnen). Durch den Klimawandel [wird mehr Wasser in der Luft gespeichert](https://www.deutschlandfunk.de/neue-daten-trinkwasserreserve-hat-auch-in-deutschland-abgenommen-106.html) und zurückgehalten und fehlt entsprechend im Untergrund. Durch regionale Unterschiede was die Menge an entnommenen Wasser als auch Niederschläge angeht, kann es also häufiger vorkommen, dass die Grenze von 20% (so viel darf man maximal vom Grundwasser entnehmen, ohne seine Neubildung zu gefährden), lokal gerissen wird, wie in [dieser Mai-Think-X-Folge](https://www.zdf.de/play/shows/mai-think-x-die-show-102/maithink-x-wasser-100) schön erklärt (und auch darauf hinweist, dass die Datenlage zu Wasserentnahmen schlecht ist, sie werden nur aller 3 Jahre erfasst). 
+
+Hitze und Trockenheit setzen auch Europas Wäldern zu. [Nach Modellrechnungen](https://www.tagesschau.de/wissen/klima/klimawandel-wald-kohlenstoff-100.html) könnte sich Brände und Schädlingsbefall bis zum Jahr 2100 mehr als verdoppeln. Schon heute sind vier von fünf Bäumen in Deutschland krank, denn durch Wassermangel geschwächte Bäume schaffen es nicht Schädlinge mit genug Harz abzuwehren.
+
+### Global
+Die Prognosedaten verschiedener Wettermodelle [deuten auf](https://www.tagesschau.de/wissen/klima/super-el-nino-100.html) ein sehr starkes El-Niño-Ereignis im Pazifik zwischen Juni und August, das dann bis November dauern könnte. Damit drohen bis ins nächste Jahr extreme Niederschläge in Südamerika, verheerende Dürren in Südostasien, viele Taifune in den Pazifikstaaten sowie globale Temperaturrekorde. In Europa würde man die Ernteausfälle in diesen betroffenen Regionen auf den globalen Nahrungsmittelmärkten und Lieferketten [verzögert](https://www.cleanthinking.de/super-el-nino-2026) in Form von Knappheit und damit verbundenen höheren Preisen merken.
+
+Der Golfstrom hat sich die letzten Jahrzehnte messbar immer weiter nach Norden verschoben, dass deckt sich [mit den Ergebnissen einer Simulation](https://www.derstandard.at/story/3000000311931/veraenderung-des-golfstroms-kuendigt-kollaps-einer-grossen-meeresstroemung-an), die nach einer langsamen Nordwanderung, ein sprunghaftes Verlagern nach Norden um 219km 25 Jahre vor dem kompletten Zusammenbruch der Atlantische meridionalen Umwälzzirkulation (AMOC) vorhersagt. Damit würde der Kipppunkt deutlich früher eintreten, als bisher angenommen.  
 
 ## Geschichte
 * US-Nationalarchiv stellt NSDAP-Mitgliedsdaten online und erleichtert Ahnenforschung
@@ -212,13 +179,11 @@ Einen Echtzeitabfahrtsplan für Berliner Züge in der Nähe des eigenen Standort
 * beabee ist Deine Plattform für Community-Journalismus.
   https://beabee.io
 
-## Forschung
-* DNA als Festplatte: Forscher machen Erbgut wiederbeschreibbar
-  https://www.telepolis.de/article/DNA-als-Festplatte-Forscher-machen-Erbgut-wiederbeschreibbar-11211258.html
-
-## Gesundheit
+## Medizin
 * 10 Jahre Medizininformatik-Initiative: "Vernetzte Struktur statt Flickenteppich"
   https://www.heise.de/news/10-Jahre-Medizininformatik-Initiative-Vernetzte-Struktur-statt-Flickenteppich-11222923.html
+* DNA als Festplatte: Forscher machen Erbgut wiederbeschreibbar
+  https://www.telepolis.de/article/DNA-als-Festplatte-Forscher-machen-Erbgut-wiederbeschreibbar-11211258.html
 
 ## Transparenz
 * Buchhandlungen unter Verdacht – Verfassungsschutz und Kulturförderung
