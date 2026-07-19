@@ -202,51 +202,19 @@ Die Investigativplattform Follow the Money, DER STANDARD und Medien aus weiteren
 In der niederländischen Gemeinde Heerlen testen Polizei und Frontex im mit 5 Millionen Euro aus dem aus dem europäischen COVID-Wiederaufbaufonds geförderten Projekt [Pulse-Twin](https://portico.urban-initiative.eu/european-urban-initiative/proactive-urban-livability-and-safety-engine-integrated-social-digital-twin-8294), wie man mit einem KI-gestützten System, Kriminalität und Störungen der öffentlichen Ordnung [vorhersagen kann](https://netzpolitik.org/2026/ki-vorhersagemodelle-niederlaendische-polizei-und-frontex-testen-konzept-des-digitalen-zwillings/). Der digitale Zwilling füttert sich aus kontinuierlich aktualisierte sozialen, statistischen und polizeilichen Datenquellen aus der realen Stadt, aus denen ein Algorithmus Wahrscheinlichkeiten für mögliche Ordnungsstörungen oder Straftaten errechnet, auf deren Grundlage Behörden dann "präventiv" handeln können sollen. Amnesty International sieht die Gefahr eines ethnischen Profilings, wenn schon in der Vergangenheit bestimmte Bevölkerungsgruppen oder Stadtteile unverhältnismäßig stark kontrolliert worden sind und daher gehäuft in historischen Polizeidaten auftauchen und somit diese Ressentiment-Muster in den auf ihnen angelernten Modellen reproduzieren.
 
 ## Why Kick KI
-### DeepFakes
-* Das Deepfake Projekt
-  https://deepfake-project.com/de/
-* Deepfakes, Stalking, Drohungen: Wie verbreitet digitale Gewalt wirklich ist
-  https://netzpolitik.org/2026/deepfakes-stalking-drohungen-wie-verbreitet-digitale-gewalt-wirklich-ist/
-* Sexualisierte Deepfakes: KI-Transparenz genügt nicht
-  https://www.republik.ch/2026/03/30/ctrl-der-fall-fernandes-ulmen-zeigt-ki-transparenz-genuegt-nicht
-  https://bsky.app/profile/adfichter.bsky.social/post/3mib35lbw222i
-### Knowledge Graphs und KI
-* Wie man Wissensgraphendaten für LLMs mithilfe von KI-gestützter Suche erschließt
-  https://www.youtube.com/watch?v=LtoM-0IhKnY&list=PL_4RxtD-BL5vIVHXcYlbtQIoY7c1qFNR_&index=4
-  https://social.wikimedia.de/@wikimediaDE/116166122059373227
-
-### Missbrauch
-* Can coding agents relicense open source through a “clean room” implementation of code?
-  https://simonwillison.net/2026/Mar/5/chardet/
-  https://fedi.simonwillison.net/@simon/116177606495989457
-* Wer räumt den giftigen KI-Müll weg?
-  https://www.heise.de/hintergrund/Kommentar-Wer-raeumt-den-giftigen-KI-Muell-weg-11195088.html
-* Kalifornien wird zum Vorreiter der KI-Regulierung
-  https://www.heise.de/news/Kalifornien-wird-zum-Vorreiter-der-KI-Regulierung-11242174.html
-* AI and the illegal war
-  https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/
-### Boykott
-* Quit ChatGPT: right now! Your subscription is bankrolling authoritarianism
-  https://www.theguardian.com/commentisfree/2026/mar/04/quit-chatgpt-subscription-boycott-silicon-valley
-  https://quitgpt.org
-* Bernie gegen Claude
-  https://www.youtube.com/watch?v=h3AtWdeu_G0
-  https://www.youtube.com/watch?v=qu2m7ePTsqY
+Wikidata als freie Wissensdatenbank macht strukturierte Daten für alle nutzbar. Mit dem [Wikidata Embedding Projekt](https://www.wikidata.org/wiki/Wikidata:Embedding_Project) werden diese Daten nun für LLMs [leichter zugänglich](https://social.wikimedia.de/@wikimediaDE/116166122059373227), was vor allem Open-Source-Entwickler:innen mit weniger Ressourcen zu Gute kommen soll. Denn bisher stellt die komplizierte Abfragesprache SPARQL eine große Hürde dar. Ein Vektordatenbank kombiniert mit einer semantische Suche, die trotzdem schnell genug ist, um Wissensgraphen mit rund 120 Millionen Einträgen durchsuchen zu können, [soll hier Abhilfe schaffen](https://www.youtube.com/watch?v=LtoM-0IhKnY&list=PL_4RxtD-BL5vIVHXcYlbtQIoY7c1qFNR_&index=4). Perspektivisch möchte man sich in Richtung  [GraphRAG](https://microsoft.github.io/graphrag/) entwickeln.
+  
+Der US-amerikanische Cybersicherheitsexperte [Bruce Schneier lobt](https://www.swissinfo.ch/ger/digitale-demokratie/ist-ki-doch-eine-kraft-f%C3%BCr-die-demokratie/90854924) das von der EPFL und der ETH Zürich entwickelte Sprachmodell [Apertus](https://apertvs.ai), den das KI-Modell aus der Schweiz zeige, dass eine eine KI auch ohne Profitinteresse und gestohlene Daten funktionieren kann und [somit der Demokratie](https://arxiv.org/pdf/2509.14233) und dem Gemeinwohl diene. Das Vertrauen der schweizer Bevölkerung in KI ist allerdings durchwachsen. Für die politische Philosophin Laetitia Ramelet bedroht vor allem KI, die dazu eingesetzt wird, unser Verhalten und Vorlieben zu analysieren, den demokratischen Willensbildungsprozess, den die so gewonnenen Erkenntnisse könnten Unternehmen und Politiker nutzen, um Menschen subtil in ihrem Sinne zu beeinflussen, indem sie irreführende aber sehr überzeugend klingende Inhalte ihnen unterschieben. 
 
 ### Angeblicher Nutzen
-* Neuer Report: „Die KI, die dem Klima hilft, unterscheidet sich stark von der KI, die viel Energie verbraucht“
-  https://reset.org/neuer-report-die-ki-die-dem-klima-hilft-unterscheidet-sich-stark-von-der-ki-die-viel-energie-verbraucht/
-  https://mastodon.social/@reset_org/116199424826915997
-* Wozu noch Anwalt und Arzt, wenn ChatGPT es kostenlos macht?
-  https://www.telepolis.de/article/Wozu-noch-Anwalt-und-Arzt-wenn-ChatGPT-es-kostenlos-macht-11206728.html  
-* Nach OpenAI und Microsoft: Perplexity stellt Gesundheits-KI vor
-  https://www.heise.de/news/Nach-OpenAI-und-Microsoft-Perplexity-stellt-Gesundheits-KI-vor-11220375.html
-* Companies go full AI — then the bill comes due
-  https://pivot-to-ai.com/2026/03/19/companies-go-full-ai-then-the-bill-comes-due/
-* KI und zwischenmenschliche Beziehungen
-  https://www.bitkom.org/Presse/Presseinformation/KI-kommt-in-Liebe-an
-* Sicherheitsexperten warnen: KI-Modelle zeigen zunehmend betrügerisches Verhalten
-  https://t3n.de/news/sicherheitsexperten-warnen-ki-modelle-zeigen-zunehmend-betruegerisches-verhalten-1736263/
+Eine neue Studie des Centre for Long-Term Resilience (CLTR), die dazu tausende Nutzer-Berichte über ihre Interaktionen mit KI-Chatbots und -Agenten ausgewertet hat, [legt offen](https://t3n.de/news/sicherheitsforscher-ki-modelle-1736263/), dass die Fälle, in denen die KI-Agenten gezielt Sicherheitskontrollen und Nutzervorgaben umgehen, um ihre Ziele zu erreichen, zwischen Oktober 2025 und März 2026 um das fünffache gestiegen ist. So haben Agenten zum Teil verbotenerweise massenweise E-Mails gelöscht oder um die Vorgabe, bestehenden Code nicht zu verändern, nicht selbst verletzen zu müssen, einfach einen weiteren Agenten erstellt, der dies dann doch getan hat. Ohne klare Regelung der Zugriffsrechte, Protokollierung der Aktionen und regelmäßiger Überprüfung der Ergebnisse wird hier schnell die Unternehmens-Compliance verletzt.
+
+Nicht auf den Arzttermin warten müssen oder die Kosten für den Anwalt sparen, [ChatGPT und Co. macht es vermeintlich möglich](https://www.telepolis.de/article/Wozu-noch-Anwalt-und-Arzt-wenn-ChatGPT-es-kostenlos-macht-11206728.html). Immer mehr Menschen nutzen LLMs für die Selbstdiagnose oder für die kostenlose Rechtsberatung oder gar zur Selbstverteidung vor Gericht. Dabei unterschätzen die Laien die tatsächliche Komplexität, konfrontieren aber die eigentlichen Ärzte, Anwälte und Richter mit vermeintlich schlüssigen Erkenntnissen, und stellen deren Expertise in Frage. Das kann einerseits ein wenig zur Demokratisierung und Abbau von Machtgefälle (Götter in weiß) beitragen, andererseits belastet es zusätzlich, plausibel klingende aber leider falsche Ausgaben zu erkennen und dann dem Patienten glaubhaft zu machen, dass die eigene jahrlange Ausbildung und Erfahrung doch mehr wert ist, als ein generierter Text. 
+
+Die KI-Firmen [befeuern dies noch zusätzlich](https://www.heise.de/news/Nach-OpenAI-und-Microsoft-Perplexity-stellt-Gesundheits-KI-vor-11220375.html), indem sie Gesundheits-KIs anbieten, die aus der Analyse von persönlichen Gesundheitsdaten aus Trackern und der Patientenakte Trainings- und Ernährungspläne ableiten sollen. Es wird zwar immer von den Herstellern betont, dass sie kein Ersatz für professionelle medizinische Beratung wären, um sich rechtlich abzusichern, aber spielt natürlich schon mit den Erwartungen der Nutzenden, sich Daten basiert selbst zu optimieren und vermeintlich mit Blick auf das angebotene Gesundheitsdashboard doch glaubt, Krankheiten  diagnostizieren oder gar selbst behandeln zu können.
+
+Oftmals wird, wenn man auf die negativen Folgen von KI auf die Umwelt (Energieverbrauch, Wasserverbrauch, Hardwareverbrauch) machen möchte, erwidert, dass die widerum mit KI erzielte Ressourceneffizienz diese Folgen mindestens wieder ausgleiche. Der Bericht ["The AI climate hoax"](https://beyondfossilfuels.org/wp-content/uploads/2026/02/AI-for-climate-claims-Report_FEB-2026_FINAL-2-16.pdf) widerlegt diese Behauptungen nun klar. [So konnte kein einziges Beispiel gefunden werden](https://reset.org/neuer-report-die-ki-die-dem-klima-hilft-unterscheidet-sich-stark-von-der-ki-die-viel-energie-verbraucht/), bei dem generative KI tatsächlich Emission reduziert hätte. Für viele Behauptungen fehlen wissenschaftliche Belege. Dafür sind die negativen Auswirkungen umso besser nachweislich dokumentiert. 
+
 ### Arbeit
 * KI-Nutzung führt bei Angestellten zu Brain Fry
   https://www.golem.de/news/arbeitswelt-ki-nutzung-fuehrt-bei-angestellten-zu-brain-fry-2603-206234.html
@@ -262,26 +230,59 @@ In der niederländischen Gemeinde Heerlen testen Polizei und Frontex im mit 5 Mi
   https://www.fr.de/wissen/ki-revolutioniert-die-arbeitswelt-tuev-warnt-vor-risiken-die-kaum-jemand-auf-dem-schirm-hat-94205803.html
 * Synchronsprecherin lehnt Netflix-Auftrag wegen KI-Klauseln ab
   https://www.heise.de/news/Synchronsprecher-sorgen-sich-wegen-KI-um-ihre-Rechte-11211599.html
+
+
+### Missbrauch
+* Can coding agents relicense open source through a “clean room” implementation of code?
+  https://simonwillison.net/2026/Mar/5/chardet/
+  https://fedi.simonwillison.net/@simon/116177606495989457
+* Wer räumt den giftigen KI-Müll weg?
+  https://www.heise.de/hintergrund/Kommentar-Wer-raeumt-den-giftigen-KI-Muell-weg-11195088.html
+* Kalifornien wird zum Vorreiter der KI-Regulierung
+  https://www.heise.de/news/Kalifornien-wird-zum-Vorreiter-der-KI-Regulierung-11242174.html
+* AI and the illegal war
+  https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/
+
+### DeepFakes
+* Das Deepfake Projekt
+  https://deepfake-project.com/de/
+* Deepfakes, Stalking, Drohungen: Wie verbreitet digitale Gewalt wirklich ist
+  https://netzpolitik.org/2026/deepfakes-stalking-drohungen-wie-verbreitet-digitale-gewalt-wirklich-ist/
+* Sexualisierte Deepfakes: KI-Transparenz genügt nicht
+  https://www.republik.ch/2026/03/30/ctrl-der-fall-fernandes-ulmen-zeigt-ki-transparenz-genuegt-nicht
+  https://bsky.app/profile/adfichter.bsky.social/post/3mib35lbw222i
+
 ### Macht
 * Künstliche Intelligenz und Abhängigkeit: Die Gesellschaft des Verschwindens
   https://taz.de/Kuenstliche-Intelligenz-Das-Ende-des-Internets-und-die-Entkernung-der-Demokratie/!6155291/
 * Anna-Verena Nosthoff über KI: "Das Silicon Valley kommt zu sich selbst"
   https://taz.de/Anna-Verena-Nosthoff-ueber-KI/!6163130/
+
+
+### Boykott
+* Quit ChatGPT: right now! Your subscription is bankrolling authoritarianism
+  https://www.theguardian.com/commentisfree/2026/mar/04/quit-chatgpt-subscription-boycott-silicon-valley
+  https://quitgpt.org
+* Bernie gegen Claude
+  https://www.youtube.com/watch?v=h3AtWdeu_G0
+  https://www.youtube.com/watch?v=qu2m7ePTsqY
+
 ### Blase
 * WTO warnt vor Ende des KI-Booms wegen Energiemangel
   https://www.heise.de/news/Energiehunger-bremst-Chip-Rausch-WTO-warnt-vor-Ende-des-KI-Booms-11220471.html
 * OpenAI stellt Sora ein: Das Ende von immer weiter und größer
   https://www.heise.de/hintergrund/OpenAI-stellt-Sora-ein-Das-Ende-von-immer-weiter-und-groesser-11223457.html
-### Apertus
-* Apertus
-  https://apertvs.ai
-* Apertus: Democratizing Open and Compliant LLMs for Global Language Environments
-  https://arxiv.org/pdf/2509.14233  
-* Ist KI doch eine Kraft für die Demokratie?
-  https://www.swissinfo.ch/ger/digitale-demokratie/ist-ki-doch-eine-kraft-f%C3%BCr-die-demokratie/90854924
+
+
 ### Umwelt
 * Wie Rechenzentren Utah trockenlegen
   https://www.tagesschau.de/wirtschaft/digitales/rechenzentren-fluch-segen-100.html
+
+
+
+
+
+
 
 ## Recap
 * [Netzpolitscher Abend Österreich | Elevate Festival 2026 (Graz)](https://www.youtube.com/watch?v=_8heU46ItSg)
