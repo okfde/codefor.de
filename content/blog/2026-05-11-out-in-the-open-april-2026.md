@@ -12,25 +12,37 @@ type: blog
 ---
 
 ## Open Data
-* Landtags-Wahlkreise 
-  https://norden.social/@datenschatz/116328574921480398
+
+
 * eGovernment Podcast vom Open Data Day München 2026
   https://egovernment-podcast.com/egov255-oddmuc26/
   * https://datengartln.de
     * München rewind
       https://tifa365.github.io/muenchen.rewind/
       https://norden.social/@datenschatz/115875416161740796
+
+
 * Auch wenn es DataService schon seit DCAT 2 gibt, unterstützen es erst wenige Bundesländer.
   https://norden.social/@MisterOpenData/116367630889212190
+* Gerüchten zufolge soll es im Herbst Neuerungen bei den HVD auf EU-Ebene geben.
+  https://norden.social/@MisterOpenData/116464370119812479
+
+
+* Landtags-Wahlkreise 
+  https://norden.social/@datenschatz/116328574921480398
+
+
 * Open Data API Landesparlament Berlin
   https://chaos.social/@jk/116379822659028898
 * PaZuFa
   https://codeberg.org/PaZuFa
   https://parlamentsrevue.de/2026/02/14/sfpzf/
-* Gerüchten zufolge soll es im Herbst Neuerungen bei den HVD auf EU-Ebene geben.
-  https://norden.social/@MisterOpenData/116464370119812479
+
+
 * Lokale Besluiten als geLinkte Open Data
   https://redpencil.io/projects/lblod
+
+
 
 ## Statistik
 * Interessanter Datensatz im Open-Data-Portal Schleswig-Holstein: über 128.000 Bezahl-Transaktionen zu Online-Diensten von Anfang 2025 bis heute
@@ -476,24 +488,16 @@ type: blog
   https://www.basicthinking.de/blog/2026/04/22/alternativen-zu-chatgpt-chatbots-aus-europa/
 
 ## Recap
-* Cables of Resistence (noch nicht veröffentlicht)
-  https://media.ccc.de/c/cor
-* Grazer Linuxtage 2026
-  https://media.ccc.de/c/glt26
-* EasterHegg 2026
-  https://media.ccc.de/c/eh23
-* LixCon 2026
-  https://media.ccc.de/c/lixcon2026
+* [Cables of Resistence](https://media.ccc.de/c/cor)
+* [Grazer Linuxtage 2026](https://media.ccc.de/c/glt26)
+* [EasterHegg 2026](https://media.ccc.de/c/eh23)
+* [LixCon 2026](https://media.ccc.de/c/lixcon2026)
 
 ## Fristen
-* Bits & Bäume Community Summit, bis 05.05.2026 23:59
-  https://pretalx.wikimedia.de/bitsbaeume2026/cfp
-* Bedarfe und Themenideen für den Campus Citizen Science 2026 bis 18.05.2026
-  https://www.mitforschen.org/campus-citizen-science-2026
-* Berlin Science Week, Einreichungsfrist bis 24.05.2026
-  https://berlinscienceweek.com/de
-* Fediday, bis 14.06.2026
-  https://ctalx.c-base.org/fediday-2026/cfp
+* [Bits & Bäume Community Summit](https://pretalx.wikimedia.de/bitsbaeume2026/cfp), bis 05.05.2026 23:59
+* Bedarfe und Themenideen für den [Campus Citizen Science](https://www.mitforschen.org/campus-citizen-science-2026) 2026 bis 18.05.2026
+* [Berlin Science Week](https://berlinscienceweek.com/de), Einreichungsfrist bis 24.05.2026
+* [Fediday](https://ctalx.c-base.org/fediday-2026/cfp), bis 14.06.2026
 
 ## Veranstaltungen zu sortieren
 * Know Your Rights! 🧐 Civic Education and the Classroom: An Open Day at Spore Initiative.

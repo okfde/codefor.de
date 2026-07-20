@@ -12,27 +12,29 @@ type: blog
 ---
 
 ## Open Data
-* New API Access on Human Data Index (HDX): Tabular Data Endpoints
-  https://centre.humdata.org/new-api-access-on-hdx-tabular-data-endpoints/
-* The open data centaurs: interacting with data via LLM-assisted structured queries
-  https://www.cottica.net/2026/06/02/the-open-data-centaurs-interacting-with-data-via-llm-assisted-structured-queries/
-  via https://mastodon.green/@alberto_cottica/116686754581037356
-* Storage media quartet
-  https://chaos.social/@harvey/116686286136591013
-  https://github.com/dla-marbach/dla-datentraeger-quartett
 * Musterdatenkatalog für Kommunen hat ein neues Zuhause gefunden
   https://musterdatenkatalog.de/index.html
   https://social.bund.de/@opendata/116683043279616434
+* Wie wichtig ist das Thema #Datenqualität in eurer Behörde?
+  https://discourse.opencode.de/t/online-umfrage-datenqualitaet-im-oeffentlichen-sektor/5456
+  https://social.bund.de/@opendatabund/116810079175270565
+* New API Access on Human Data Index (HDX): Tabular Data Endpoints
+  https://centre.humdata.org/new-api-access-on-hdx-tabular-data-endpoints/
+* Storage media quartet
+  https://chaos.social/@harvey/116686286136591013
+  https://github.com/dla-marbach/dla-datentraeger-quartett
 * OpenData und Seekarten in Deutschland
   https://github.com/quantenschaum/mapping/blob/20ba44b1a7e34532c7e2001e610fd870c2956a8e/docs/opendata.md
   https://digitalcourage.social/@derfopps/116720297012434364
 * Open Data macht Umwelt sichtbar: Offene Daten als Grundlage für Umweltwissen und Innovation
   https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2026/BB_TdU.html
-* Wie wichtig ist das Thema #Datenqualität in eurer Behörde?
-  https://discourse.opencode.de/t/online-umfrage-datenqualitaet-im-oeffentlichen-sektor/5456
-  https://social.bund.de/@opendatabund/116810079175270565
 * Open Data: European Bathing Water Quality
   https://tobias.fellinger.wien/2026/06/24/open-data-european-bathing-water-quality/
+
+### KI
+* The open data centaurs: interacting with data via LLM-assisted structured queries
+  https://www.cottica.net/2026/06/02/the-open-data-centaurs-interacting-with-data-via-llm-assisted-structured-queries/
+  via https://mastodon.green/@alberto_cottica/116686754581037356
 * MCP-Server im Praxistest mit Berlins offenen Daten
   https://odis-berlin.de/aktuelles/2026-06-29-mcp-server/
 
@@ -355,7 +357,7 @@ type: blog
 * Das Schweizer Parlament schafft die Grundlage für Versuche mit E-Collecting:
   https://www.digitale-gesellschaft.ch/2026/06/19/e-collecting-parlament-macht-weg-frei-fuer-digitale-unterschriftensammlung-gemeinsame-medienmitteilung-der-stiftung-fuer-direkte-demokratie-und-der-digitalen-gesellschaft/
 
-## Journalimus
+## Journalismus
 * The RePlaybook: A Field Guide to the Climate and Information Crisis
   https://tacticaltech.org/replaybook/
   https://mastodon.cc/@info_activism/116725751160558903
