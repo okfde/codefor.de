@@ -12,37 +12,21 @@ type: blog
 ---
 
 ## Open Data
+### Recap Open Data Day München 2026
+Torsten Frenzel vom eGovernment Podcast hat mit Teilnehmenden des Open Data Day München am 21. März 2026 [interessante Gespräche geführt](https://egovernment-podcast.com/egov255-oddmuc26/), unter anderem über die Zukunft offener Daten in Bayern und die inzwischen abgeschlossene [Schmankerl-Challenge](https://datengartln.de/challenge/). Tim, auch ein ehemaliger Coautor dieses Open-Data-Blogs, hat mit [seiner Einreichung](https://norden.social/@datenschatz/115875416161740796), dem Projekt [München rewind](https://tifa365.github.io/muenchen.rewind/), sowohl den dritten Platz der Jury als auch die Publikumspreis gewonnen, die [anderen 21 Beiträge](https://datengartln.de/schmankerl/) (in Form von interaktiven Karten und Scrollytelling-Geschichten) können sich hinsichtlich Vielfalt und Kreativität aber auch sehen lassen.
 
+### Lokale Verwaltungsentscheidungen als Linked Open Data
+[Local Decisions as Linked Open Data (LBLOD)](https://redpencil.io/projects/lblod) ist ein bereits 2015 gestartetes Projekt der Flämische Region (= Flandern) in Belgien, mit dem Ziel, den Datenaustausch zwischen lokaler Verwaltung, Flämischer Regierung und der interessierten Öffentlichkeit qualitativ zu verbessern. Inzwischen bildet ein Netz aus verteilten Anwendungen ein Ökosystem, dass auf Basis einer Linked Open Data Plattform funktioniert, dessen Kern ein domänenspezifisches Datenmodell und Linked-Data-Vokabularien bilden. Es gibt einen SPARQL-Endpunkt, über den man nach Informationen aus Gesprächsprotokollen und Beschlüssen suchen kann. Es ist auch eine [Anwendung](https://mandaten.lokaalbestuur.vlaanderen.be) entstanden, über die man nach lokalen Amtsträgern suchen kann. Um die Erstellung von Plenarprotokollen zu vereinfachen, wurde der [Say Editor](https://say-editor.com) entwickelt, der dem Protokollant während der Sitzung mit Textvorschlägen und Verlinkung auf bestehende Quellen unterstützt, aber vor allem die erkannten Worte im Protokoll semantisch annotiert und die getroffenen Entscheidungen hervorhebt und schließlich auch als offizielle Mitschrift veröffentlichen kann. Sein Quellcode ist wie bei allen anderen Anwendungen von LBLOD [Open Source bei Github einsehbar](https://github.com/lblod) und wird auch aktiv weiterentwickelt.
 
-* eGovernment Podcast vom Open Data Day München 2026
-  https://egovernment-podcast.com/egov255-oddmuc26/
-  * https://datengartln.de
-    * München rewind
-      https://tifa365.github.io/muenchen.rewind/
-      https://norden.social/@datenschatz/115875416161740796
+### Parlamentsdaten
+Der [Parlamentszusammenfasser](https://pazufa.de) versucht analog zum [Bundestagszusammenfasser](bundestagszusammenfasser.de) nun auch Deutschlands Landesparlamente transparenter zu machen. [In einer Podcastfolge](https://parlamentsrevue.de/2026/02/14/sfpzf/) der Parlamentsrevue wird das Projekt vorgestellt. Frontend, Backend und die Scraper für die jeweiligen Landesportale stehen [auch Open Source](https://codeberg.org/PaZuFa/parlamentszusammenfasser). 
 
+Damit man Inhalte nicht aus PDFs rausparsen muss, wären maschinelle Schnittestellen schon eine tolle Sache. In Berlin hat es nun [gerade mal 13 Jahre](https://chaos.social/@jk/116379822659028898) von Empfehlung bis tatsächlicher Umsetzung gedauert. Im zweiten Quartal 2026 soll nun tatsächliche ein Open API Zugriff auf die Inhalte der [Parlamentsdokumentation (PARDOK) des Abgeordnetenhauses von Berlin](https://pardok.parlament-berlin.de/portala/browse.tt.html) gewähren.
 
-* Auch wenn es DataService schon seit DCAT 2 gibt, unterstützen es erst wenige Bundesländer.
-  https://norden.social/@MisterOpenData/116367630889212190
-* Gerüchten zufolge soll es im Herbst Neuerungen bei den HVD auf EU-Ebene geben.
-  https://norden.social/@MisterOpenData/116464370119812479
+### Metadatenportale
+Das DCAT-Konzept [DataService](https://www.dcat-ap.de/def/dcatde/2.0/spec/#klasse-datenservice) gibt es schon seit Version 2, leider unterstützen es bisher nur wenige Bundesländer, [wie Dr. Jesper Zedlitz festgestellt hat](https://norden.social/@MisterOpenData/116367630889212190). DataService grenzt sich vom Konzept Distribution ab, bei letzteren werden die Daten als Dateidownload an einem Open-Data-Portal-Eintrag angeboten, DataServices sollen dagegen z.B. Schnittstellen beschreiben, über die Daten abgefragt werden können.  
 
-
-* Landtags-Wahlkreise 
-  https://norden.social/@datenschatz/116328574921480398
-
-
-* Open Data API Landesparlament Berlin
-  https://chaos.social/@jk/116379822659028898
-* PaZuFa
-  https://codeberg.org/PaZuFa
-  https://parlamentsrevue.de/2026/02/14/sfpzf/
-
-
-* Lokale Besluiten als geLinkte Open Data
-  https://redpencil.io/projects/lblod
-
-
+Seit spätestens Juni 2024 müssen eigentlich alle Mitgliedsstaaten der EU sogenannte High Value Datasets (HVD) veröffentlichen, nur [eine Filterung](https://open-north.de/blog/2026-04-24_hvd/) nach solchen Datensätze auf GovData zeigt, dass sich seitdem kaum was getan hat, so hat Open-Data-Portal Schleswig-Holstein immer noch nur 19 solcher Datensätze, obwohl die Durchführungsliste eine lange Liste von Themen zur Veröffentlichung vorsieht. Die mangelnde Umsetzung liegt möglicherweise auch an unklarer Verantwortlichkeit und [fehlender Kontrolle](https://norden.social/@datenschatz/116464096729490202) und Konsequenzen (angeblich drohen Strafzahlungen, aber bisher ist kein Fall bekannt, wo dies tatsächlich auch durchgesetzt wurde).
 
 ## Statistik
 * Interessanter Datensatz im Open-Data-Portal Schleswig-Holstein: über 128.000 Bezahl-Transaktionen zu Online-Diensten von Anfang 2025 bis heute
@@ -200,6 +184,8 @@ type: blog
 * Die Hälfte der europäischen Gemeinden hat weniger Einwohner als vor 60 Jahren
   https://correctiv.org/aktuelles/2026/04/21/die-haelfte-der-europaeischen-gemeinden-hat-weniger-einwohner-als-vor-60-jahren/
   https://cdn.correctiv.org/deployed-apps/CE_2026_population_map/
+* Landtags-Wahlkreise 
+  https://norden.social/@datenschatz/116328574921480398
 
 ## Artemis 2
 * Volle Auflösung und Metadaten
