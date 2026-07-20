@@ -225,51 +225,15 @@ Coole quelloffene Software-Bibliothek, blöderweise verbietet die Lizenz aber di
 
 Je nach Schätzung sind ein bis zwei Fünftel der Inhalte im Internet nicht mehr menschengemacht, zu mindestens nicht direkt, denn es sind immer noch Menschen (aus zum Teil zweifelhafter Motivation), die mit ihren Prompts deren Erzeugung mit Generativer KI anstoßen. Dabei hätten die Besitzer der Plattformen, auf denen diese Inhalte geteilt werden, [durchaus die Macht](https://www.heise.de/hintergrund/Kommentar-Wer-raeumt-den-giftigen-KI-Muell-weg-11195088.html), ihre Verbreitung zu beschränken, wenn sie denn wollten. So jedoch nimmt das Vertrauen in seriöse Medien weiter ab.
 
+Das [Deepfake Projekt](https://deepfake-project.com/de/vorgehen-ziele) der Universität Leipzig möchte ein interdisziplinäres Forschungsnetzwerk zur Problematik von Deepfakes, also dem mit Hilfe von Künstlicher Intelligenz (KI) Erstellen manipulierter, aber täuschend realistisch wirkender, audio-visuellen Medieninhalte, aufbauen. Zunächst nur für Internetpornografie verwendet, werden Techniken wie Gesichter im Original austauschen, Gesichtszüge verändern oder das Imitieren von Stimmen auch dazu verwendet, Menschen Aussagen in den Mund zu legen, die sie nie gesagt haben oder die Anwesenheit von Personen oder bestimmter Situationen in Videoaufnahmen vorgetäuscht, um Menschen zu diskreditieren und Meinungsbildungsprozesse zu beeinflussen, um poltisch daraus Kapital schlagen zu können. ["Vertrauen wird damit zur Ware, Währung, Simulation"](https://taz.de/Kuenstliche-Intelligenz-Das-Ende-des-Internets-und-die-Entkernung-der-Demokratie/!6155291/).
+
 Es braucht also solche verbindlichen politischen Vorgaben, wie sie der US-Bundestaat Kalifornien [nun plant](https://www.heise.de/news/Kalifornien-wird-zum-Vorreiter-der-KI-Regulierung-11242174.html). Gemäß diesem Dekret müssen Unternehmen bald nachweisen, dass sie Sicherheitsvorkehrungen getroffen haben, um den Missbrauch ihrer Technologien zu verhindern.
 
 Der US-Kriegsminister Pete Hegseth [hält überhaupt nichts](https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/) von Regulierung und möchte gerne weiter mit KI-Systemen automatisiert Angriffsziele wählen lassen, Fehlklassifizierung inklusive.
 
-### DeepFakes
-* Das Deepfake Projekt
-  https://deepfake-project.com/de/
-* Deepfakes, Stalking, Drohungen: Wie verbreitet digitale Gewalt wirklich ist
-  https://netzpolitik.org/2026/deepfakes-stalking-drohungen-wie-verbreitet-digitale-gewalt-wirklich-ist/
-* Sexualisierte Deepfakes: KI-Transparenz genügt nicht
-  https://www.republik.ch/2026/03/30/ctrl-der-fall-fernandes-ulmen-zeigt-ki-transparenz-genuegt-nicht
-  https://bsky.app/profile/adfichter.bsky.social/post/3mib35lbw222i
-* KI und zwischenmenschliche Beziehungen
-  https://www.bitkom.org/Presse/Presseinformation/KI-kommt-in-Liebe-an
+[Nach der Weigerung](https://taz.de/Anna-Verena-Nosthoff-ueber-KI/!6163130/) des US-Unternehmens Anthropic, dem Pentagon seine KI für die Entwicklung autonomer Waffensysteme und Massenüberwachung zur Verfügung zu stellen, ist OpenAI bereitwillig in die Lücke gesprungen. Nun gibt es einen [Boykottaufruf](https://quitgpt.org), sein Abo bei ChatGPT zu [kündigen](https://www.theguardian.com/commentisfree/2026/mar/04/quit-chatgpt-subscription-boycott-silicon-valley), damit man nicht weiter mit seinen Gebühren dazu beiträgt, den Ausbau des Autoritarismus zu unterstützen.
 
-### Macht
-* Künstliche Intelligenz und Abhängigkeit: Die Gesellschaft des Verschwindens
-  https://taz.de/Kuenstliche-Intelligenz-Das-Ende-des-Internets-und-die-Entkernung-der-Demokratie/!6155291/
-* Anna-Verena Nosthoff über KI: "Das Silicon Valley kommt zu sich selbst"
-  https://taz.de/Anna-Verena-Nosthoff-ueber-KI/!6163130/
-
-### Boykott
-* Quit ChatGPT: right now! Your subscription is bankrolling authoritarianism
-  https://www.theguardian.com/commentisfree/2026/mar/04/quit-chatgpt-subscription-boycott-silicon-valley
-  https://quitgpt.org
-* Bernie gegen Claude
-  https://www.youtube.com/watch?v=h3AtWdeu_G0
-  https://www.youtube.com/watch?v=qu2m7ePTsqY
-
-### Blase
-* WTO warnt vor Ende des KI-Booms wegen Energiemangel
-  https://www.heise.de/news/Energiehunger-bremst-Chip-Rausch-WTO-warnt-vor-Ende-des-KI-Booms-11220471.html
-* OpenAI stellt Sora ein: Das Ende von immer weiter und größer
-  https://www.heise.de/hintergrund/OpenAI-stellt-Sora-ein-Das-Ende-von-immer-weiter-und-groesser-11223457.html
-
-
-### Umwelt
-* Wie Rechenzentren Utah trockenlegen
-  https://www.tagesschau.de/wirtschaft/digitales/rechenzentren-fluch-segen-100.html
-
-
-
-
-
-
+[In einem Video](https://www.youtube.com/watch?v=h3AtWdeu_G0) hat US-Senator Bernie Sanders den Chatbot Claude befragt, welchen Einfluss KI auf unsere Privatssphäre hat. Die Antworten [sind entlarvend](https://www.nordbayern.de/schlagzeilen/bernie-sanders-macht-nagelprobe-mit-ki-so-gross-sind-die-gefahren-fur-gesellschaft-und-demokratie-1.15051212) und zeigen, wie groß das Problem für Demokratie und Gesellschaft jetzt schon sind. [Sanders fordert](https://www.youtube.com/watch?v=qu2m7ePTsqY) deshalb ein Moratorium gegen KI-Rechenzentren.
 
 ## Recap
 * [Netzpolitscher Abend Österreich | Elevate Festival 2026 (Graz)](https://www.youtube.com/watch?v=_8heU46ItSg)
@@ -281,22 +245,12 @@ Der US-Kriegsminister Pete Hegseth [hält überhaupt nichts](https://buttondown.
 * [Chemnitzer Linux-Tage 2026](https://media.ccc.de/c/clt26) z.B. mit dem Vortrag [Open Source an Schulen – der Versuch eines Überblicks](https://media.ccc.de/v/clt26-346-open-source-an-schulen-der-versuch-eines-uberblicks)
 
 ## Fristen
-* bis 7.4. Ein Preis für exzellente Forschung mit Citizen Science
-  https://www.mitforschen.org/ein-preis-fuer-exzellente-forschung-mit-citizen-science
-* bis 15.4. Co-Creation-Projekt von Science Comes to Town 2026.
-  https://www.wissenschafftzukunft-kiel.de/de/science_comes_to_town/_engagement_projekte/co-creation.php
-* Dritte Runde des Landesprogramms Offene Innovation in Schleswig-Holstein gestartet, bis 28.04.2026
-  https://osb-alliance.de/featured/dritte-runde-des-landesprogramms-offene-innovation-in-schleswig-holstein-gestartet
+* bis 07.04.2026: [Ein Preis für exzellente Forschung mit Citizen Science](https://www.mitforschen.org/ein-preis-fuer-exzellente-forschung-mit-citizen-science)
+* bis 15.04.2026: [Co-Creation-Projekt](https://www.wissenschafftzukunft-kiel.de/de/science_comes_to_town/_engagement_projekte/co-creation.php) von Science Comes to Town 2026.
+* bis 28.04.2026: Dritte Runde des Landesprogramms Offene Innovation in Schleswig-Holstein [gestartet](https://osb-alliance.de/featured/dritte-runde-des-landesprogramms-offene-innovation-in-schleswig-holstein-gestartet)
 
 ## Und sonst so
-* DNA als Festplatte: Forscher machen Erbgut wiederbeschreibbar
-  https://www.telepolis.de/article/DNA-als-Festplatte-Forscher-machen-Erbgut-wiederbeschreibbar-11211258.html
-
-## Termine
-* WikiProjects Days (19.–21. Juni)
-  https://www.wikidata.org/wiki/Event:WikiProjects_Days_2026
-* 10 Jahre Hacklabor Schwerin!, 27.6.
-  https://www.hacklabor.de/2026/06/10-jahre-hacklabor/
+Forschende der University of Missouri [ist es gelungen](https://www.telepolis.de/article/DNA-als-Festplatte-Forscher-machen-Erbgut-wiederbeschreibbar-11211258.html) in DNA gespeicherte Daten zu löschen bzw. mit neuen Daten zu überschreiben. Die DNA verwendet als digitale Festplatte hätte eine unglaublich große Speicherdichte und eine Haltbarkeit von Jahrtausenden.
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Freitag, 03.04.2026, 15:00, bis Montag, 06.04.2026, 15:30, Universität Koblenz, Universitätsstraße 1, 56070 Koblenz-Metternich: **Easterhegg 2026** <a title='Kalendereintrag Easterhegg 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRWFzdGVyaGVnZyAyMDI2Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNDA0VDEzMTYwNloNCkRUU1RBUlQ6MjAyNjA0MDNUMTUwMDAwDQpEVEVORDoyMDI2MDQwNlQxNTMwMDANClNVTU1BUlk6RWFzdGVyaGVnZyAyMDI2DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2VoMjMuZWFzdGVyaGVnZy5ldQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpVbml2ZXJzaXTDpHQgS29ibGVuelwsIFVuaXZlcnNpdMOkdHNzdHJhw59lIDFcLCA1NjA3MCBLb2JsZW56LU1ldHRlcm5pY2gNCkdFTzo1MC4zNjM1ODU0OzcuNTU4MzA3Njk5OTk5OTk5DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>

@@ -626,6 +626,12 @@ type: blog
 * 30.6./1.7. BMDS richtet SPARK-Hackathon aus
   https://bmds.bund.de/aktuelles/pressemitteilungen/detail/ki-fuer-schnellere-genehmigungen-bmds-richtet-spark-hackathon-aus
 
+## Termine
+* WikiProjects Days (19.–21. Juni)
+  https://www.wikidata.org/wiki/Event:WikiProjects_Days_2026
+* 10 Jahre Hacklabor Schwerin!, 27.6.
+  https://www.hacklabor.de/2026/06/10-jahre-hacklabor/
+
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Montag, 01.06.2026, 09:00-18:00, Lokschuppen Marburg, Rudolf-Bultmann-Straße 4h, 35039 Marburg: **Kongress: Digitale Städte – Digitale Regionen** <a title='Kalendereintrag Kongress: Digitale Städte – Digitale Regionen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vS29uZ3Jlc3M6IERpZ2l0YWxlIFN0w6RkdGUg4oCTIERpZ2l0YWxlIFJlZ2lvbmVuLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNjA4VDIwMTkzN1oNCkRUU1RBUlQ6MjAyNjA2MDFUMDkwMDAwDQpEVEVORDoyMDI2MDYwMVQxODAwMDANClNVTU1BUlk6S29uZ3Jlc3M6IERpZ2l0YWxlIFN0w6RkdGUg4oCTIERpZ2l0YWxlIFJlZ2lvbmVuDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpZ2l0YWxlcy5oZXNzZW4uZGUvdWViZXItdW5zL3ZlcmFuc3RhbHR1bmdlbi9kaWdpdGFsZS1zdGFlZHRlLWRpZ2l0YWxlLXJlZ2lvbmVuLTMNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046TG9rc2NodXBwZW4gTWFyYnVyZ1wsIFJ1ZG9sZi1CdWx0bWFubi1TdHJhw59lIDRoXCwgMzUwMzkgTWFyYnVyZw0KR0VPOjUwLjgxNjY2NjU7OC43Nzg0NDk2MTgwMDQyNg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://digitales.hessen.de/ueber-uns/veranstaltungen/digitale-staedte-digitale-regionen-3
