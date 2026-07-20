@@ -216,32 +216,18 @@ Die KI-Firmen [befeuern dies noch zusätzlich](https://www.heise.de/news/Nach-Op
 Oftmals wird, wenn man auf die negativen Folgen von KI auf die Umwelt (Energieverbrauch, Wasserverbrauch, Hardwareverbrauch) machen möchte, erwidert, dass die widerum mit KI erzielte Ressourceneffizienz diese Folgen mindestens wieder ausgleiche. Der Bericht ["The AI climate hoax"](https://beyondfossilfuels.org/wp-content/uploads/2026/02/AI-for-climate-claims-Report_FEB-2026_FINAL-2-16.pdf) widerlegt diese Behauptungen nun klar. [So konnte kein einziges Beispiel gefunden werden](https://reset.org/neuer-report-die-ki-die-dem-klima-hilft-unterscheidet-sich-stark-von-der-ki-die-viel-energie-verbraucht/), bei dem generative KI tatsächlich Emission reduziert hätte. Für viele Behauptungen fehlen wissenschaftliche Belege. Dafür sind die negativen Auswirkungen umso besser nachweislich dokumentiert. 
 
 ### Arbeit
-* KI-Nutzung führt bei Angestellten zu Brain Fry
-  https://www.golem.de/news/arbeitswelt-ki-nutzung-fuehrt-bei-angestellten-zu-brain-fry-2603-206234.html
-* Atlassian-Chef: KI ersetzt bei uns keine Menschen, aber wir feuern sie trotzdem
-  https://www.heise.de/news/Atlassian-Chef-KI-ersetzt-bei-uns-keine-Menschen-aber-wir-feuern-sie-trotzdem-11208681.html
-* Oracle startet offenbar Entlassungswelle
-  https://www.heise.de/news/Oracle-startet-offenbar-Entlassungswelle-11242635.html
-* Braucht OpenSource Softwareentwicklung wirklich KI?
-  https://chaos.social/@scy/116215942488758919
-* Das Ende der Nerds? Wie KI das Programmieren neu erfindet
-  https://www.telepolis.de/article/Das-Ende-der-Nerds-Wie-KI-das-Programmieren-neu-erfindet-11212482.html
-* KI revolutioniert die Arbeitswelt – TÜV warnt vor Risiken, die kaum jemand auf dem Schirm haben dürfte
-  https://www.fr.de/wissen/ki-revolutioniert-die-arbeitswelt-tuev-warnt-vor-risiken-die-kaum-jemand-auf-dem-schirm-hat-94205803.html
-* Synchronsprecherin lehnt Netflix-Auftrag wegen KI-Klauseln ab
-  https://www.heise.de/news/Synchronsprecher-sorgen-sich-wegen-KI-um-ihre-Rechte-11211599.html
+[Eine aktuelle Untersuchung](https://www.golem.de/news/arbeitswelt-ki-nutzung-fuehrt-bei-angestellten-zu-brain-fry-2603-206234.html) der Boston Consulting Group und Forschern von der University of California hat ergeben, dass die übermäßige Nutzung aber auch Überwachung von KI-Tools bei Angestellten zu mentaler Erschöpfung (in Form von Konzentrationsschwierigkeiten, Kopfschmerzen und damit einhergehend Schwierigkeiten bei der Entscheidungsfindung) führt. Dadurch, dass die Automatisierung eher nur noch die komplexen Aufgaben für die manuelle Bearbeitung übrig lässt, Unternehmen zusätzlich Druck auf ihre Mitarbeiter ausüben, indem sie quantitative Vorgaben zur Nutzung von KI machen, statt die tatsächlich messbaren Ergebnisse als eigentliche Leistungsindikator zu nehmen, senken die Motivation und Mitarbeiterbindung zusätzlich. [Auch der TÜV Rheinland fordert](https://www.fr.de/wissen/ki-revolutioniert-die-arbeitswelt-tuev-warnt-vor-risiken-die-kaum-jemand-auf-dem-schirm-hat-94205803.html), dass der Einsatz von KI nicht dazu führen darf, dass die Arbeitsintensität weiter steigt und warn zusätzlich vor der neuen Qualität von Cyberangriffen (ermöglicht durch KI), die z.B. bei Krankenhaus-IT auch Menschenleben gefährden kann.
 
+Die Reduzierung der Belegschaft um 10 Prozent (= 1600 Menschen) [bei Atlassian](https://www.heise.de/news/Atlassian-Chef-KI-ersetzt-bei-uns-keine-Menschen-aber-wir-feuern-sie-trotzdem-11208681.html) und [tausender Mitarbeitenden bei Oracle](https://www.heise.de/news/Oracle-startet-offenbar-Entlassungswelle-11242635.html) stehen nur beispielhaft dafür wie Firmen ihre Investitionen von Menschen in Richtung KI verlagern, auch weil das Anleger auf den Aktienmärken so erwarten. Aber die vermeintliche Kosteneinsparung kann auch nach hinten los gehen, wenn so viele Tokens für die LLM-Nutzung verwendet werden, dass man Ende des Monats [die Rechnung explodiert](https://pivot-to-ai.com/2026/03/19/companies-go-full-ai-then-the-bill-comes-due/), die Produktiviät und Einnahmen aber dann doch nicht so stark gestiegen sind, dass sie die Kosten wieder aufwiegen. Erste Unternehmen setzen ihren Angestellten inzwischen Limits beim KI-Gebrauch.
 
 ### Missbrauch
-* Can coding agents relicense open source through a “clean room” implementation of code?
-  https://simonwillison.net/2026/Mar/5/chardet/
-  https://fedi.simonwillison.net/@simon/116177606495989457
-* Wer räumt den giftigen KI-Müll weg?
-  https://www.heise.de/hintergrund/Kommentar-Wer-raeumt-den-giftigen-KI-Muell-weg-11195088.html
-* Kalifornien wird zum Vorreiter der KI-Regulierung
-  https://www.heise.de/news/Kalifornien-wird-zum-Vorreiter-der-KI-Regulierung-11242174.html
-* AI and the illegal war
-  https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/
+Coole quelloffene Software-Bibliothek, blöderweise verbietet die Lizenz aber die kommerzielle Nutzung? - Macht nichts, denn dank KI, kann man sie einfach auf Basis des bestehenden Codes neu schreiben lassen und unter einer genehmen Lizenz stellen. [Aber ab wann](https://simonwillison.net/2026/Mar/5/chardet/) handelt sich wirklich um eine reine Reimplementierung? Eigentlich nur, wenn die Neuimplementation keine Ableitung von bestehenden Code ist sondern nur auf Basis einer fachlichen Spezifikation erfolgte. Mit Werkzeugen wie [JPlag](https://github.com/jplag/JPlag) kann man zwar Plagiate erkennen, wird aber zunehmend schwieriger, wenn die KIs angewiesen wurden, ihre Spuren zu verwischen.
+
+Je nach Schätzung sind ein bis zwei Fünftel der Inhalte im Internet nicht mehr menschengemacht, zu mindestens nicht direkt, denn es sind immer noch Menschen (aus zum Teil zweifelhafter Motivation), die mit ihren Prompts deren Erzeugung mit Generativer KI anstoßen. Dabei hätten die Besitzer der Plattformen, auf denen diese Inhalte geteilt werden, [durchaus die Macht](https://www.heise.de/hintergrund/Kommentar-Wer-raeumt-den-giftigen-KI-Muell-weg-11195088.html), ihre Verbreitung zu beschränken, wenn sie denn wollten. So jedoch nimmt das Vertrauen in seriöse Medien weiter ab.
+
+Es braucht also solche verbindlichen politischen Vorgaben, wie sie der US-Bundestaat Kalifornien [nun plant](https://www.heise.de/news/Kalifornien-wird-zum-Vorreiter-der-KI-Regulierung-11242174.html). Gemäß diesem Dekret müssen Unternehmen bald nachweisen, dass sie Sicherheitsvorkehrungen getroffen haben, um den Missbrauch ihrer Technologien zu verhindern.
+
+Der US-Kriegsminister Pete Hegseth [hält überhaupt nichts](https://buttondown.com/creativegood/archive/ai-and-the-illegal-war/) von Regulierung und möchte gerne weiter mit KI-Systemen automatisiert Angriffsziele wählen lassen, Fehlklassifizierung inklusive.
 
 ### DeepFakes
 * Das Deepfake Projekt
@@ -251,13 +237,14 @@ Oftmals wird, wenn man auf die negativen Folgen von KI auf die Umwelt (Energieve
 * Sexualisierte Deepfakes: KI-Transparenz genügt nicht
   https://www.republik.ch/2026/03/30/ctrl-der-fall-fernandes-ulmen-zeigt-ki-transparenz-genuegt-nicht
   https://bsky.app/profile/adfichter.bsky.social/post/3mib35lbw222i
+* KI und zwischenmenschliche Beziehungen
+  https://www.bitkom.org/Presse/Presseinformation/KI-kommt-in-Liebe-an
 
 ### Macht
 * Künstliche Intelligenz und Abhängigkeit: Die Gesellschaft des Verschwindens
   https://taz.de/Kuenstliche-Intelligenz-Das-Ende-des-Internets-und-die-Entkernung-der-Demokratie/!6155291/
 * Anna-Verena Nosthoff über KI: "Das Silicon Valley kommt zu sich selbst"
   https://taz.de/Anna-Verena-Nosthoff-ueber-KI/!6163130/
-
 
 ### Boykott
 * Quit ChatGPT: right now! Your subscription is bankrolling authoritarianism
