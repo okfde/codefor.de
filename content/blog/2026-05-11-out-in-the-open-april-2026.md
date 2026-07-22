@@ -28,30 +28,30 @@ Das DCAT-Konzept [DataService](https://www.dcat-ap.de/def/dcatde/2.0/spec/#klass
 
 Seit spätestens Juni 2024 müssen eigentlich alle Mitgliedsstaaten der EU sogenannte High Value Datasets (HVD) veröffentlichen, nur [eine Filterung](https://open-north.de/blog/2026-04-24_hvd/) nach solchen Datensätze auf GovData zeigt, dass sich seitdem kaum was getan hat, so hat Open-Data-Portal Schleswig-Holstein immer noch nur 19 solcher Datensätze, obwohl die Durchführungsliste eine lange Liste von Themen zur Veröffentlichung vorsieht. Die mangelnde Umsetzung liegt möglicherweise auch an unklarer Verantwortlichkeit und [fehlender Kontrolle](https://norden.social/@datenschatz/116464096729490202) und Konsequenzen (angeblich drohen Strafzahlungen, aber bisher ist kein Fall bekannt, wo dies tatsächlich auch durchgesetzt wurde).
 
-## Statistik
-* Interessanter Datensatz im Open-Data-Portal Schleswig-Holstein: über 128.000 Bezahl-Transaktionen zu Online-Diensten von Anfang 2025 bis heute
-  https://opendata.schleswig-holstein.de/dataset/epayment-2026-03
-  https://norden.social/@MisterOpenData/116378991119209387
-* Detaillierte Inflationsdaten für März 2026 sind jetzt verfügbar
-  https://github.com/wahlatlas/api#plot-monthly-inflation-data-for-germany-using-restatis-for-easy-api-access-to-the-genesis-database
-  https://norden.social/@wahlatlas/116379020274631316
-* Visualisierung von Daten der Kulturstatistik: Entwicklung der Sendezeit von Musik- und Wortsendungen der Öffentlich-rechtlichen Rundfunkanstalten in Deutschland.
-  https://norden.social/@wahlatlas/116466669316439845
+### Visualisierung
+Um sich besser nachvollziehen zu könne, wie sich die detaillierte Inflationsdaten, die inzwischen auch für März 2026 vorliegen, über die Jahre entwickelt habe, hat Wahlatlas einige ausgewählte Positionen des Verbraucherpreisindex für Deutschland rund um Mobilität und Heizen [mit ggplot2 visualisiert](https://norden.social/@wahlatlas/116379020274631316), der Code für Abruf und Darstellung der Daten [ist OpenSource](https://github.com/wahlatlas/api#plot-monthly-inflation-data-for-germany-using-restatis-for-easy-api-access-to-the-genesis-database). Alternativ kann man sich eine individuelle Auswertung über die [Daten Genesis Tabelle im Web](https://www-genesis.destatis.de/datenbank/online/table/61111-0006) zusammenklicken.
+
+Mit den gleichen Tools wurde von ihm auch die Entwicklung der Sendezeit von Musik- und Wortsendungen aufgeschlüsselt nach Öffentlich-rechtlicher Rundfunksendeanstalt und Zeit [grafisch aufbereitet](https://norden.social/@wahlatlas/116466669316439845).  
 
 ## Open Source
-* Bund veröffentlicht lizenzfreie KI-Werkzeuge
-  https://www.heise.de/news/Public-Money-Public-Code-Bund-veroeffentlicht-KI-Module-fuer-die-Verwaltung-11243586.html
-* LibreOffice am Abgrund: Wie die Document Foundation ihre eigenen Gründer vor die Tür setzte
-  https://forum.linuxguides.de/core/index.php?article/54-libreoffice-am-abgrund-wie-die-document-foundation-ihre-eigenen-gr%C3%BCnder-vor-die/
-* Die Petition Anerkennung von Open-Source-Arbeit als Ehrenamt in Deutschland braucht noch Unterschriften
-  https://www.ehrenamt-opensource.de
-  https://podcasts.social/@egovpod/116363964134840517
+Das vom deutschen Unternehmen [Star Division](https://de.wikipedia.org/wiki/Star_Division) seit 1998 veröffentlichte [Star Office](https://de.wikipedia.org/wiki/StarOffice) (als billigere Alternative zu Microsoft Office, seit 1984 gab es bereits StarWriter als Word-Ersatz) wurde ein Jahr später von Sun Microsystems aufgekauft und unter dem Namen OpenOffice.org Open Source gestellt. StarOffice existierte aber als kommerzielle Variante mit propriertäten Komponenten weiter und profitierte gleichzeitig von den Kontributionen Freiwilliger bei den Open-Source-Anteilen. Nachdem Sun Microsystems Anfang 2010 von der Oracle Corporation aufgekauft wurde, verließen zahlreiche Entwickler die Firma aus Unzufriedenheit mit der Lizenz- und Personalpolitik des neuen Eigentümers und gründeten im Herbst des gleichen Jahres die [The Document Foundation](https://en.wikipedia.org/wiki/The_Document_Foundation) und spalteten sich mit LibreOffice von OpenOffice ab. Drei Jahre später übernahm die englische Firma Collabora das LibreOffice-Entwicklerteam von SUSE und vertreibt mit Collabora Office und Collabora Online selbst gebrandete Versionen von LibreOffice. Seit spätestens 2020 kriselt es allerdings in der Zusammenarbeit von Stiftung und Firma, was Fragen hinsichtlich Wirtschaftlichkeit (z.B. wo kommen die Einnahmen her, um die Entwickler zu bezahlen) als auch Vorgaben des deutschen Rechts, um als Stiftung weiterhin als gemeinnützig zu gelten, angeht (z.B. darf keine Werbung für ein kommerzielles Produkt machen). Im April ist der Streit nun eskaliert und 30 Collabora-Entwickler sind erstmal aus dem Entscheidungsgremien der Stiftung ausgeschlossen worden, weil vermutet wird, dass sie eher im Interesse ihrer Firma als im Sinne der Community abstimmen. In einem Blog-Beitrag im Linux Guide Community Forum wurde der Streit hauptsächlich aus Sicht von Collabora dokumentiert, um dieser Einseitigkeit entgegenzuwirken, [gibt es nun auch eine Variante](https://gnulinux.ch/libreoffice-am-abgrund), bei der ein Vertreter der Stiftung die einzelnen Absätzen kommentieren durfe, als auch abschließend nochmal der CEO von Collabora Productivity eine Stellungnahme zur Stellungnahme ablegen konnte. Im Kern geht es um die alte Frage, wer trägt, wie viel bei, wer stellt, wie viele Entwickler (die Stiftung hat erst in letzter Zeit begonnen, mehr Entwickler einzustellen), und hat die Gruppe, die die meisten Entwickler / Beiträge an der Software leistet, damit auch das höhere Stimmrecht? Und schließlich auch das grundlegende Problem, dass Open Source Software Entwicklung auch Geld kostet, die eben refinanziert werden muss, durch Spenden, aber eben auch durch Zusatzdienste (= kommerzielle Vaiante) oder andere Geschäftsmodelle  
+
 * OpenSource Software lebt vom gemeinsam daran arbeiten
   https://www.prototypefund.de/blog/lets-common-together
   https://mastodon.social/@PrototypeFund/116374178905683444
+
+* Die Petition Anerkennung von Open-Source-Arbeit als Ehrenamt in Deutschland braucht noch Unterschriften
+  https://www.ehrenamt-opensource.de
+  https://podcasts.social/@egovpod/116363964134840517
+
+* Bund veröffentlicht lizenzfreie KI-Werkzeuge
+  https://www.heise.de/news/Public-Money-Public-Code-Bund-veroeffentlicht-KI-Module-fuer-die-Verwaltung-11243586.html
+
+
 * The Integrity of Public Access to Federal Data: Evaluating Disruptions to Open Government Data, 2025-2026
   https://zenodo.org/records/19556076
   https://fediscience.org/@petersuber/116459869484926610
+
 * Microsoft veröffentlicht frühesten bekannten DOS-Quellcode
   https://www.heise.de/news/Microsoft-veroeffentlicht-fruehesten-bekannten-DOS-Quellcode-11277117.html
 
