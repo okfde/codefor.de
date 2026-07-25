@@ -123,27 +123,17 @@ Förderalismus sei Undank - [aktuelle Landtags-Wahlkreise-Geometrien](https://no
 [geoparquet-io](https://geoparquet.io) ist als Kommandozeilentool als auch Python-Bibliothek [nutzbar](https://spatialists.ch/posts/2026/04/06-geoparquet-io-fast-geoparquet-tool/), um GeoParquet-Dateien zu lesen, zu verändern und wieder rauszuschreiben, kann aber auch das Format aus z.B. WFS-Quellen [erzeugen](https://mapstodon.space/@spatialists/116358829424926440).
 
 ## Klima
-* Wie unterscheiden sich eigentlich die Klimarisiken innerhalb Deutschlands
-  https://klima-risiken.vislab.io
-  https://social.bund.de/@umwelt_info/116358229266226163
-  https://norden.social/@datenschatz/116358704310796251
-* Digitalisierung und Klimaschutz: Herausforderung oder Chance?
-  https://www.umweltbundesamt.de/themen/digitalisierung-klimaschutz-herausforderung-chance
-* Joghurt reist weiter als die meisten Menschen
-  https://www.telepolis.de/article/Joghurt-reist-weiter-als-die-meisten-Menschen-11258875.html
-* Cherry Blossom Forecast
-  https://n-kishou.com/corp/news-contents/sakura/?lang=en
-  https://climatejustice.global/@s4f_le/116425288120626310
-  https://climatejustice.global/@s4f_le/116443507882120321
-* Hyperlinks serve as digital "breadcrumbs", by following the trail we can uncover vast networks of climate disinformation.
-  https://tacticaltech.org/replaybook/
-  https://mastodon.cc/@info_activism/116448717155561653
-* Wie eine Stadt in Brandenburg um ihr Wasser kämpft – und gegen Red Bull
-  https://www.spiegel.de/wissenschaft/red-bull-fabrikprojekt-im-brandenburgischen-baruth-besorgt-bevoelkerung-a-becf249f-ce54-455e-8e10-0cfcb8445c37
-* What Exactly Is Green Coding, and Does GenAI Make It Easier
-  https://en.reset.org/what-exactly-is-green-coding-and-does-genai-make-it-easier-an-interview-with-max-westing-from-the-green-coding-project/
-* Klimaanpassung: Wie Beelitz seine Bürger mitnimmt
-  https://www.deutschlandfunk.de/klimaanpassung-wie-beelitz-seine-buerger-mitnimmt-100.html
+### Digitalisierung
+An Hand verschiedener Modellrechnungen [zeigt ein neuer Forschungsbericht](https://www.umweltbundesamt.de/themen/digitalisierung-klimaschutz-herausforderung-chance) im Auftrag des Umweltbundesamts, dass Digitalisierung eine sozial-ökologische Transformation nicht automatisch vorantreibt. Sie kann zwar durch Vermeidung von Material- und Güterströme und Nutzung erneuerbarer Energien durchaus positive Effekte haben, nur ohne gezielte Politik und entsprechend gesetzten Rahmenbedingungen nehmen CO₂-Emissionen insgesamt eher zu.
+
+Der "Blaue Engel für Software" zeichnet besonders ressourcen- und energiesparenden Quellcode aus. [Doch gleichen](https://en.reset.org/what-exactly-is-green-coding-and-does-genai-make-it-easier-an-interview-with-max-westing-from-the-green-coding-project/) die vermeintlichen Effizienzgewinne durch den Einsatz von KI den hohen Energieverbrauch für Training und den Betrieb der KI aus? Das Projekt [Enabling Green COmputing and DIGItal Transformation (ECO:DIGIT)](https://ecodigit.de) versucht dies zu berechnen.
+
+### Fehlentwicklungen
+Für die Produktion eines Joghurts 9.115 Kilometer, für die Produktion von Apfelmus 800km, 1500km jeweils für Schlagrahm in Dosenabfüllen, oder Nordseekrabbenpulen in Marokko für tausende Kilometer Transportweg [sind nur einige Beispiele](https://www.telepolis.de/article/Joghurt-reist-weiter-als-die-meisten-Menschen-11258875.html), die dazu beigetragen haben, dass sich der LKW-Verkehr seit 1991 fast verdoppelt hat. Dass das Ganze trotzdem ökonomisch ist, liegt an den Lohnkosten, einerseits für die meist osteuropäischen LKW-Fahrer, andererseits am Lohngefälle von Ausgangsland und jeweiligen ausgelagerten Land. Dass ein 40-Tonner LKW Schäden und Belastungen für die Straßen wie 40.000 PKW taucht in keiner Firmenbilanz auf, genauso wenig die Kosten der verursachten CO2-Emissionen. Sie werden ebenfalls auf die Allgemeinheit abgewälzt. Eine sinnvolle Regionalisierung der Produktion würde dagegen versuchen Wege zu verkürzen oder Güterverkehr ganz zu vermeiden. Dazu müsste sich auch das Konsumverhalten (z.B. weniger Retouren bei Online-Einkäufen, saisonale Lebensmittel) als auch Produktionsverhalten (langlebigere Produkte, Reparierbarkeit, sinnvoll zentralisierte oder dezentralisierte Versorgungsnetze) ändern.
+
+Red Bull kann [nach Zustimmung](https://www.rbb24.de/wirtschaft/beitrag/2025/04/brandenburg-teltow-flaeming-baruth-urstromquelle-red-bull-brause-energydrink-kritik-umwelt.html) der Stadtverordnetenversammlung in Baruth/Mark (Teltow-Fläming) seine Produktion weiter ausbauen. Schon jetzt darf der Getränkehersteller vertraglich zugesichert in Baruth jährlich bis zu 92 Prozent des jährlichen Grundwasser-Entnahmevolumens verwenden, damit bleiben 8 Prozent für die Trinkwasserversorgung der Bevölkerung. Auch wenn aktuell nur etwa 45 Prozent in Anspruch genommen werden, ist durch die Erweiterung eine Steigerung des Wasserbedarfs zu erwarten. Mit Fortschreiten des Klimawandels wird die verfügbare Wassermengen allerdings gerade in Trockenperioden stärker schwanken, ein Umstand, der scheinbar bei der Fördergenehmigung (an die städtischen Wasserbetrieb 25 Jahre gebunden sind) nicht berücksicht wurde.
+
+Durch den Klimawandel beginnt die Kirschblüte [immer früher](https://climatejustice.global/@s4f_le/116425292538804294).
 
 ## Citizen Science
 * Mothbox
