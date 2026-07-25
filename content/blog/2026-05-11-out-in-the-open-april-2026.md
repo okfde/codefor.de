@@ -33,79 +33,43 @@ Um sich besser nachvollziehen zu könne, wie sich die detaillierte Inflationsdat
 
 Mit den gleichen Tools wurde von ihm auch die Entwicklung der Sendezeit von Musik- und Wortsendungen aufgeschlüsselt nach Öffentlich-rechtlicher Rundfunksendeanstalt und Zeit [grafisch aufbereitet](https://norden.social/@wahlatlas/116466669316439845).  
 
+### Open Data in den USA auf dem absteigenden Ast
+Der Bericht ["The Integrity of Public Access to Federal Data: Evaluating Disruptions to Open Government Data, 2025-2026."](https://zenodo.org/records/19556076) zeigt Ausmaß und Methoden, wie in den USA allein von 2025 bis Anfang 2026 die Integrität von öffentlichen Behörden bereitgestellte Daten (Open Government Data) immer mehr [in Mitleidenschaft gezogen wird](https://fediscience.org/@petersuber/116459869484926610).
+
 ## Open Source
-Das vom deutschen Unternehmen [Star Division](https://de.wikipedia.org/wiki/Star_Division) seit 1998 veröffentlichte [Star Office](https://de.wikipedia.org/wiki/StarOffice) (als billigere Alternative zu Microsoft Office, seit 1984 gab es bereits StarWriter als Word-Ersatz) wurde ein Jahr später von Sun Microsystems aufgekauft und unter dem Namen OpenOffice.org Open Source gestellt. StarOffice existierte aber als kommerzielle Variante mit propriertäten Komponenten weiter und profitierte gleichzeitig von den Kontributionen Freiwilliger bei den Open-Source-Anteilen. Nachdem Sun Microsystems Anfang 2010 von der Oracle Corporation aufgekauft wurde, verließen zahlreiche Entwickler die Firma aus Unzufriedenheit mit der Lizenz- und Personalpolitik des neuen Eigentümers und gründeten im Herbst des gleichen Jahres die [The Document Foundation](https://en.wikipedia.org/wiki/The_Document_Foundation) und spalteten sich mit LibreOffice von OpenOffice ab. Drei Jahre später übernahm die englische Firma Collabora das LibreOffice-Entwicklerteam von SUSE und vertreibt mit Collabora Office und Collabora Online selbst gebrandete Versionen von LibreOffice. Seit spätestens 2020 kriselt es allerdings in der Zusammenarbeit von Stiftung und Firma, was Fragen hinsichtlich Wirtschaftlichkeit (z.B. wo kommen die Einnahmen her, um die Entwickler zu bezahlen) als auch Vorgaben des deutschen Rechts, um als Stiftung weiterhin als gemeinnützig zu gelten, angeht (z.B. darf keine Werbung für ein kommerzielles Produkt machen). Im April ist der Streit nun eskaliert und 30 Collabora-Entwickler sind erstmal aus dem Entscheidungsgremien der Stiftung ausgeschlossen worden, weil vermutet wird, dass sie eher im Interesse ihrer Firma als im Sinne der Community abstimmen. In einem Blog-Beitrag im Linux Guide Community Forum wurde der Streit hauptsächlich aus Sicht von Collabora dokumentiert, um dieser Einseitigkeit entgegenzuwirken, [gibt es nun auch eine Variante](https://gnulinux.ch/libreoffice-am-abgrund), bei der ein Vertreter der Stiftung die einzelnen Absätzen kommentieren durfe, als auch abschließend nochmal der CEO von Collabora Productivity eine Stellungnahme zur Stellungnahme ablegen konnte. Im Kern geht es um die alte Frage, wer trägt, wie viel bei, wer stellt, wie viele Entwickler (die Stiftung hat erst in letzter Zeit begonnen, mehr Entwickler einzustellen), und hat die Gruppe, die die meisten Entwickler / Beiträge an der Software leistet, damit auch das höhere Stimmrecht? Und schließlich auch das grundlegende Problem, dass Open Source Software Entwicklung auch Geld kostet, die eben refinanziert werden muss, durch Spenden, aber eben auch durch Zusatzdienste (= kommerzielle Vaiante) oder andere Geschäftsmodelle  
+Das vom deutschen Unternehmen [Star Division](https://de.wikipedia.org/wiki/Star_Division) seit 1998 veröffentlichte [Star Office](https://de.wikipedia.org/wiki/StarOffice) (als billigere Alternative zu Microsoft Office, seit 1984 gab es bereits StarWriter als Word-Ersatz) wurde ein Jahr später von Sun Microsystems aufgekauft und unter dem Namen OpenOffice.org Open Source gestellt. StarOffice existierte aber als kommerzielle Variante mit propriertäten Komponenten weiter und profitierte gleichzeitig von den Kontributionen Freiwilliger bei den Open-Source-Anteilen. Nachdem Sun Microsystems Anfang 2010 von der Oracle Corporation aufgekauft wurde, verließen zahlreiche Entwickler die Firma aus Unzufriedenheit mit der Lizenz- und Personalpolitik des neuen Eigentümers und gründeten im Herbst des gleichen Jahres die [The Document Foundation](https://en.wikipedia.org/wiki/The_Document_Foundation) und spalteten sich mit LibreOffice von OpenOffice ab. Drei Jahre später übernahm die englische Firma Collabora das LibreOffice-Entwicklerteam von SUSE und vertreibt mit Collabora Office und Collabora Online selbst gebrandete Versionen von LibreOffice. Seit spätestens 2020 kriselt es allerdings in der Zusammenarbeit von Stiftung und Firma, was Fragen hinsichtlich Wirtschaftlichkeit (z.B. wo kommen die Einnahmen her, um die Entwickler zu bezahlen) als auch Vorgaben des deutschen Rechts, um als Stiftung weiterhin als gemeinnützig zu gelten, angeht (z.B. darf keine Werbung für ein kommerzielles Produkt machen). Im April ist der Streit nun eskaliert und 30 Collabora-Entwickler sind erstmal aus dem Entscheidungsgremien der Stiftung ausgeschlossen worden, weil vermutet wird, dass sie eher im Interesse ihrer Firma als im Sinne der Community abstimmen. In einem Blog-Beitrag im Linux Guide Community Forum wurde der Streit hauptsächlich aus Sicht von Collabora dokumentiert, um dieser Einseitigkeit entgegenzuwirken, [gibt es nun auch eine Variante](https://gnulinux.ch/libreoffice-am-abgrund), bei der ein Vertreter der Stiftung die einzelnen Absätzen kommentieren durfe, als auch abschließend nochmal der CEO von Collabora Productivity eine Stellungnahme zur Stellungnahme ablegen konnte. Im Kern geht es um die alte Frage, wer trägt, wie viel bei, wer stellt, wie viele Entwickler (die Stiftung hat erst in letzter Zeit begonnen, mehr Entwickler einzustellen), und hat die Gruppe, die die meisten Entwickler / Beiträge an der Software leistet, damit auch das höhere Stimmrecht? Und schließlich auch das grundlegende Problem, dass Open Source Software Entwicklung auch Geld kostet, die eben refinanziert werden muss, durch Spenden, aber eben auch durch Zusatzdienste (= kommerzielle Vaiante) oder andere Geschäftsmodelle.   
 
-* OpenSource Software lebt vom gemeinsam daran arbeiten
-  https://www.prototypefund.de/blog/lets-common-together
-  https://mastodon.social/@PrototypeFund/116374178905683444
+Der Konflikt zeigt auch, wie wichtig gerade bei Open-Source-Entwicklung der Prozess beim gemeinsamen (Weiter-)Entwickeln ist, denn "no commons without community". Regelmäßige Feedback-Schleifen helfen, zu prüfen, ob man noch gleichen Ziele verfolgt oder das Verständnis, wie diese Ziele denn zu erreichen sind, noch übereinstimmen. Oder auch, ob sich inzwischen Ungleichgewichte bei Entscheidungsmacht und Aufgabenlast gebildet haben, die man ggf. auflösen muss. Alma und Max vom Projekt [Collectives](https://www.prototypefund.de/projects/nextcloud-community-dashboard) berichten, wie sie diesen Prozess [bei sich ausgestalten](https://www.prototypefund.de/blog/lets-common-together), um sich untereinander aber auch mit ihren Stakeholdern und Zielgruppen zu organisieren. Passenderweise soll ihr Tool gerade selbstorganisierte politische Gruppen und Communities in ihrer Kommunikation, Wissensaufbau und -teilen und generell Zusammenarbeit unterstützen.
 
-* Die Petition Anerkennung von Open-Source-Arbeit als Ehrenamt in Deutschland braucht noch Unterschriften
-  https://www.ehrenamt-opensource.de
-  https://podcasts.social/@egovpod/116363964134840517
+[Eine Petition](https://www.ehrenamt-opensource.de) fordert, Open-Source-Arbeit steuer- und förderrechtlich als Ehrenamt in Deutschland anzuerkennen, gleichrangig zu Vereinsarbeit, Jugendarbeit oder Mitwirken beim Technisches Hilfswerk (THW). Neben gesellschaftlicher Anerkennung, würden durch diese Gleichstellung einzelne Menschen oder auch Vereine, die sich in Open-Source-Projekten engagieren, dann davon profitieren, dass sie auch Spendenbescheinigungen ausstellen können (und Spender damit ihre Spenden von der Steuer absetzen). Einzelpersonen können 840 Euro Ehrenamtspauschale pro Jahr steuer- und sozialversicherungsfrei bekommen. Für gemeinnützige Organisationen bräuchten sowohl Körperschaft- als auch Gewerbesteuer auf deren ideellen Tätigkeiten, Zweckbetriebe und die Vermögensverwaltung nicht mehr zahlen. Auch die Haftungsbegrenzung für die Vorstände nach §31a BGB würde für rechtliche Sicherheit sorgen, gerade beim Betrieb von Software.
 
-* Bund veröffentlicht lizenzfreie KI-Werkzeuge
-  https://www.heise.de/news/Public-Money-Public-Code-Bund-veroeffentlicht-KI-Module-fuer-die-Verwaltung-11243586.html
+Auf der Plattform [code.europa.eu](https://code.europa.eu) kann man die [Open-Source-Entwicklungsprojekte](https://code.europa.eu/explore/projects/active) der EU-Kommission entdecken, darunter auch Software, mit den Unternehmen die gleichen Audits wie die EU-Datenschutzbeauftragten durchführen können, [um z.B. zu prüfen](https://netzpolitik.org/2026/grundrechte-zwei-insider-berichten-vom-europaeischen-datenschutzbeauftragten/), ob ihre Software den DSGVO-Vorgaben genügt.
 
-
-* The Integrity of Public Access to Federal Data: Evaluating Disruptions to Open Government Data, 2025-2026
-  https://zenodo.org/records/19556076
-  https://fediscience.org/@petersuber/116459869484926610
-
-* Microsoft veröffentlicht frühesten bekannten DOS-Quellcode
-  https://www.heise.de/news/Microsoft-veroeffentlicht-fruehesten-bekannten-DOS-Quellcode-11277117.html
 
 ## Digitale Souveränität
-### Mobile
-* Personalausweis auf dem Handy
-  https://mastodon.social/@bkastl/116358324613651089
-  * Behörde für abgesicherte Ausweise geknackt – Millionen Franzosen betroffen
-    https://www.heise.de/news/Behoerde-fuer-abgesicherte-Ausweise-geknackt-Millionen-Franzosen-betroffen-11270525.html
-### USA
-* Trump erkämpft sich Mitspracherecht bei Digitalgesetzen der EU
-  https://www.derstandard.at/story/3000000315397/trump-erkaempft-sich-mitspracherecht-bei-digitalgesetzen-der-eu
-  * Wie Donald Trump in Europas Gesetzgebung eingreift
-    https://www.handelsblatt.com/politik/international/eu-wie-donald-trump-in-europas-gesetzgebung-eingreift/100215062.html
-* New US Congress bill proposal requires all operating system providers to verify ages
-  https://www.gamingonlinux.com/2026/04/new-us-congress-bill-proposal-requires-all-operating-system-providers-to-verify-ages/
-* Kontosperrung von Antifa-Initiativen: Gefährdungsgrund Stolpersteine
-  https://taz.de/Kontosperrung-von-Antifa-Initiativen/!6172439/
 ### Datenkabelsalat
-* Den Tech-Bros den Kampf ansagen
-  https://taz.de/Bewegungstermine-in-Berlin/!6168423/
-* Widerstand gegen Big Tech: Konferenz will Aktivisten versammeln
-  https://www.heise.de/news/Konferenz-Cables-of-Resistance-Widerstand-gegen-Big-Tech-11255512.html
-* Konferenz gegen Big Tech: Raus aus der Ohnmacht
-  https://netzpolitik.org/2026/konferenz-gegen-big-tech-raus-aus-der-ohnmacht/
-* Widerstand in Berlin: Was Aktivisten gegen Big Tech planen
-  https://www.freitag.de/autoren/nina-scholz/konferenz-cables-of-resistance-in-berlin-was-aktivisten-gegen-big-tech-planen
-* Wie linke Tech-Gegner in Berlin einen Angriff planen
-  https://www.welt.de/politik/deutschland/plus69dc99fb0695c741e3c2b69a/konferenz-cables-of-resistance-wie-linke-tech-gegner-in-berlin-einen-angriff-planen.html
-### Heuschrecken
-* Event-Plattform Eventbrite entlässt einen großen Teil ihrer Mitarbeiter
-  https://www.heise.de/news/Event-Plattform-Eventbrite-entlaesst-einen-grossen-Teil-ihrer-Mitarbeiter-11257323.html
-### EU
-* Happy Birthday .eu: Europa feiert 20 Jahre digitale Identität
-  https://www.heise.de/news/Happy-Birthday-eu-Europa-feiert-20-Jahre-digitale-Identitaet-11249784.html
-* code.europa.eu
-  https://about.code.europa.eu
-  https://netzpolitik.org/2026/grundrechte-zwei-insider-berichten-vom-europaeischen-datenschutzbeauftragten/
-* Uneingelöstes Versprechen auf digitale Souveränität: Europäischer Bezahldienst Wero nutzt Amazon-Server
-  https://netzpolitik.org/2026/uneingeloestes-versprechen-auf-digitale-souveraenitaet-europaeischer-bezahldienst-wero-nutzt-amazon-server/
-* Europäische digitale Souveränität: "Jede Form von Abhängigkeit ist schlecht"
-  https://netzpolitik.org/2026/europaeische-digitale-souveraenitaet-jede-form-von-abhaengigkeit-ist-schlecht/
-* Bilanz zum Digital Markets Act: EU-Digitalgesetz ist kein Selbstläufer
-  https://netzpolitik.org/2026/bilanz-zum-digital-markets-act-eu-digitalgesetz-ist-kein-selbstlaeufer/
-### Plattformen
-* Dein E-Mail-Postfach weiß mehr über dich als du denkst:
-  https://www.kuketz-blog.de/unplugbigtech-e-mail-ohne-werbe-oekosystem-teil-4/
-  https://social.tchncs.de/@kuketzblog/116381599167155228
-* Bluesky zu Eurosky übertragen: So gelingt der Umzug auf EU-Server
-  https://www.basicthinking.de/blog/2026/04/23/bluesky-zu-eurosky-uebertragen/
-### Kommunikation ohne Telefonnetz und Internet
-* Wie kommuniziert man ohne Internet und 5G? Mesh-Netzwerke
-  https://www.arte.tv/de/videos/126484-047-A/tracks/
+Vom 10. bis 12. April trafen sich 750 Aktivist:innen, Gewerkschafter:innen, Forscher:innen und Künstler:innen auf der Konferenz ["Cables of Resistance"](https://cableresist.de) in Berlin, um darüber zu diskutieren, wie man sich gegen Big Tech [zur Wehr setzen kann](https://netzpolitik.org/2026/konferenz-gegen-big-tech-raus-aus-der-ohnmacht/). Seien es Lieferketten, an deren Anfang Rohstoffausbeutung unter prekären Arbeitsbedingungen und lokale Umweltfolgen stehen, enormer Strom- und Wasserverbrauch durch neue Rechenzentren, Digitale Gewalt oder KI, die eingesetzt vom Militär, auch zu physischer Gewalt führt, ohne lauten Protest und Widerstand wird sich nichts ändern. Um diesen besser zu organisieren, dazu diente die Vernetzung und der Austauch darüber, welche Strategien und Ansätze von Intitativen auch aus anderen Ländern am besten funktioniert haben. Da Kommunen über Bebauungspläne entscheiden, kann frühzeitiger Protest die Ansiedelung von Rechenzentren verhindern. Neben der radikale Verweigerung gegenüber der bestehenden Plattform, wurde auch aufgezeigt, wie digitale Infrastruktur auch [demokratisch organisiert werden könnte](https://www.freitag.de/autoren/nina-scholz/konferenz-cables-of-resistance-in-berlin-was-aktivisten-gegen-big-tech-planen), zur Not auch mit Vergesellschaftung von Monopolisten.
 
+Wie man mit Mesh-Netzwerke auch ohne Internet und 5G kommunizieren kann (weil man z.B. in Iran lebt und die Regierung die digitale Telekommunikation blockiert oder man Überwachung fürchten muss), [zeigt diese arte-Dokumentation](https://www.arte.tv/de/videos/126484-047-A/tracks/) an Hand einiger Projekte. 
+
+### USA
+Die EU-Kommission [hatte einst immer wieder betont](https://www.handelsblatt.com/politik/international/eu-wie-donald-trump-in-europas-gesetzgebung-eingreift/100215062.html), dass die Digitalgesetze nicht verwässert werden dürfen und somit ein Mitspracherecht der USA ausgeschlossen sei, doch unter Eindruck von angedrohten Zöllen, soll es nun ein [neues Gremium](https://netzpolitik.org/2026/neues-gremium-geplant-eu-will-trump-bei-digitalgesetzen-entgegenkommen/) als [Dialogplattform](https://www.derstandard.at/story/3000000315397/trump-erkaempft-sich-mitspracherecht-bei-digitalgesetzen-der-eu) geben, die "Missverständnis ausräumen" und die Zusammenarbeit zwischen den USA und den EU fördern soll. 
+
+Der US-Kongress [plant ein Gesetz](https://www.gamingonlinux.com/2026/04/us-operating-system-age-verification-bill-parents-decide-act-gets-published/), dass alle Betriebssysteme verpflichten würde, Alterskontrollen einzuführen.
+
+Da dem Bund der Antifaschistinnen und Antifaschisten (BdA) Treptow e. V. im Januar zum 31. März das Vereinskonto bei der Postbank gekündigt wurde, wollte dieser sein Konto zur Berliner Sparkasse umziehen. 5 Wochen nach Beantragung [wurde diese am 17. April dann ohne Begründung verweigert](https://taz.de/Kontosperrung-von-Antifa-Initiativen/!6172439/). Erst [durch Protest](https://berlin.vvn-bda.de/2026/04/die-berliner-sparkasse-lenkt-ein-der-bda-treptow-e-v-erhaelt-ein-vereinskonto/) wurde am 23. April dann doch noch die Zusage für die Kontoeröffnung erteilt. Nicht der einzige Verband, den es traf, auch in Leipzig hatte mal Probleme, ein Konto bei der Skatbank zu eröffnen und kam schließlich bei der Sparkasse Leipzig unter. Es steht der Verdacht im Raum, dass die Banken aus vorauseilenden Gehorsam, alle Gruppen, die "Antifa" im Namen führen, erstmal abzulehen, aus Angst, aus dem internationalen Finanzsystem Swift ausgeschlossen zu werden, nachdem die USA Ende letzten Jahres die "Antifa" als terroristische Gruppe eingestuft hat.
+
+### EU
+Die EU-Kommission legt [in einem Bericht](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_914) offen, wie sich der Digital Markets Act (DMA) in der Praxis [bislang bewährt hat](https://netzpolitik.org/2026/bilanz-zum-digital-markets-act-eu-digitalgesetz-ist-kein-selbstlaeufer/). Trotz vieler kleiner Verbesserungen, lässt die Durchsetzung des DMA noch zu wünschen übrig, vor allem wenn sich die großen Playern dann doch nicht an bestimmten Vorgaben halten, aber keine Sanktionen und Strafen fürchten müssen (auch mit Rückendeckung der EU und Nationalstaaten aus vermeintlich diplomatischer Rücksicht gegenüber den USA).
+
+Für Michiel Leenaars von der NLnet Foundation müssten aber Akteure zur Interoperabilität gezwungen werden und unwillige konsequent von der Marktteilnahme ausgeschlossen werden. Digitale Souveränität definiert sich dabei [nicht über die die Herkunft](https://netzpolitik.org/2026/europaeische-digitale-souveraenitaet-jede-form-von-abhaengigkeit-ist-schlecht/) einer Technologie, sondern über den Umstand, ob man ihr Regeln auflegen und ggf. durch einen Mitbewerber ersetzen kann. 
+
+Wie schwer das manchen noch fällt, sieht man am Europäischer Bezahldienst Wero, [der noch Amazon-Server nutzt](https://netzpolitik.org/2026/uneingeloestes-versprechen-auf-digitale-souveraenitaet-europaeischer-bezahldienst-wero-nutzt-amazon-server/). 
+
+### Plattformen
+Mike Kuketz ruft uns [in seiner UnplugBigTech-Reihe](https://www.kuketz-blog.de/unplugbigtech-e-mail-ohne-werbe-oekosystem-teil-4/) ins Bewusstsein, dass man mit der Wahl seines E-Mail-Konten-Anbieters diesem seine Beziehungs- und Verhaltensmuster offenbart, denn schon allein aus den Metadaten wird ersichtlich, mit wem man wie häufig, wann und von wo schreibt. Und auch die E-Mail-Inhalte sind zwar bei der Übertragung verschlüsselt, Firmen wie Google, Microsoft und Yahoo haben die Schlüssel, mit denen sie technisch gesehen, die E-Mails jederzeit entschlüsseln können, nach Schlüsselwörtern scannen und Input für anzuzeigende Werbung finden (PGP-Email-Ver- und Entschlüsselung im Client hat sich leider nicht breitenmäßig durchgesetzt). Und das ganze betrifft nicht einen selbst, sondern auch die (Meta-)Daten seiner Kommunikationspartner, die in der Inbox landen, obwohl diese bei einem anderen E-Mail-Provider sind. Von daher dann doch die paar Euro investieren und einen Anbieter wählen, der ohne Werbung auskommt. 
+
+Bending Spoon ist bekannt dafür im großen Stil digitale Dienste wie AOL, WeTransfer, Evernote oder Vimeo aufzukaufen und dann durch Kosteneinsparung vor allem beim Personal und Qualität und Anheben von Nutzungsgebühren auf Marge zu trimmen. Nachdem das italienische Unternehmen mit Meetup bereits Anfang 2024 eine verbreitete Veranstaltungsplattform sich einverleibt, im März diesen Jahres wurde nun auch die Übernahme von Eventbrite, einer Plattform mit ähnlicher Funktion, abgeschlossen. Auch dort wird nun ein [Großteil der Mitarbeitenden entlassen](https://www.heise.de/news/Event-Plattform-Eventbrite-entlaesst-einen-grossen-Teil-ihrer-Mitarbeiter-11257323.html). Vielleicht also ein guter Zeitpunkt auf [Mobilizon](https://fediversum.info/mobilizon/) als dezentrale und föderierte Alternative aus dem Fediverse zu wechseln, die auch das ActivityPub-Protokoll unterstützt. [Einige Instanzen](https://instances.mobilizon.org) gibt es auch schon, so dass man nicht zwingend selber eine hosten muss.
 
 ## Verwaltungsdigitalisierung
 * Bürger-App IFG-Anfragen
@@ -121,6 +85,8 @@ Das vom deutschen Unternehmen [Star Division](https://de.wikipedia.org/wiki/Star
   https://ruhr.social/@sonjalemke/116436406514769565
 * Als sei das Problem der Digitalpolitik, dass zu "wenig" Geld ausgegeben wird. Und nicht etwa, dass jede Menge Geld für unsinnige Projekte rausging und -geht.
   https://chaos.social/@stk/116442089198007049
+* Bund veröffentlicht lizenzfreie KI-Werkzeuge
+  https://www.heise.de/news/Public-Money-Public-Code-Bund-veroeffentlicht-KI-Module-fuer-die-Verwaltung-11243586.html
 
 ## Mobilität
 * Spart Autofahren wirklich Zeit? Der "Social Speed Calculator" berechnet deinen realen Zeitaufwand
@@ -478,6 +444,11 @@ Das vom deutschen Unternehmen [Star Division](https://de.wikipedia.org/wiki/Star
 * [Grazer Linuxtage 2026](https://media.ccc.de/c/glt26)
 * [EasterHegg 2026](https://media.ccc.de/c/eh23)
 * [LixCon 2026](https://media.ccc.de/c/lixcon2026)
+
+## Und sonst so?
+* Microsoft veröffentlicht frühesten bekannten DOS-Quellcode
+  https://www.heise.de/news/Microsoft-veroeffentlicht-fruehesten-bekannten-DOS-Quellcode-11277117.html
+
 
 ## Fristen
 * [Bits & Bäume Community Summit](https://pretalx.wikimedia.de/bitsbaeume2026/cfp), bis 05.05.2026 23:59
