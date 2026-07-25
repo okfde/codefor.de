@@ -101,42 +101,26 @@ Der Zwischenbericht zur Evaluation des Deutschlandtickets hat allein für das Ja
 [In den Kalendern](https://service.destatis.de/DE/verkehrsunfallkalender/) für die Jahre 2005, 2010, 2015, 2020, 2023-2025 lassen sich tageweise die deutschlandweite Anzahl an erfassten Unfälle wahlweise nach Alkoholeinfluss, nach Verkehrsmittel (Fahrrad, Motorrad, PkW) oder nach Verunglückten (Kinder, Fußgänger, E-Scooter-Fahrende) und mit Todesfolge auswerten. Für E-Scooter, Fahrrad, Motorrad werden zu dem die Sonnenstunden für den jeweiligen Tag angezeigt, um die Wahrscheinlichkeit an diesem Tag mit eben einen solchen Verkehrsmittel unterwegs gewesen zu sein, [zu kontextualisieren](https://norden.social/@wahlatlas/116437927302868072). In einer [weiteren Auswertung](https://www-genesis.destatis.de/datenbank/online/statistic/46241/table/46241-0011) wird jahrweise nach Unfallbeteiligte, Hauptverursacher des Unfalls, Geschlecht, Altersgruppen, Art der Verkehrsbeteiligung, Unfallkategorie und Ortslage aufgeschlüsselt. [Wahlatlas hat](https://norden.social/@wahlatlas/116432807124120460) für die Daten noch eine Visualisierung [programmiert](https://github.com/wahlatlas/api/blob/main/unfallbeteiligte2024_fahrrad_pedelec_geschlecht_alter.R).
 
 ## Karten
-* Vantage
-  https://vantage.krisenstab.net
-  https://v-a-n-t-a-g-e.github.io/territory/
-  https://chaos.social/@fidel/116329192840939108
-* Osterspaziergang & Streuobst erfassen?
-  https://geoobserver.de/2026/04/01/osterspaziergang-streuobst-erfassen/
-* geoparquet.io
-  https://geoparquet.io
-  https://spatialists.ch/posts/2026/04/06-geoparquet-io-fast-geoparquet-tool/
-  https://mapstodon.space/@spatialists/116358829424926440
-* Neue Badestellenkarte für Schleswig-Holstein!
-  https://badestellenkarte.oklabflensburg.de
-  https://github.com/oklabflensburg/open-bath-map
-  https://norden.social/@oklabflensburg/116367527016065015
-* Wohnort-Kompass
-  https://wohnortkompass.oklabflensburg.de
-  https://github.com/oklabflensburg/open-living-map
-  https://norden.social/@oklabflensburg/116443183457184355
-  https://norden.social/@oklabflensburg/116443027427609830
-* Neuer Datensatz verfügbar: Digitale farbige TrueOrthophotos Sommer 2023 (TrueDOP20RGB)
-  https://daten.berlin.de/datensaetze/digitale-farbige-trueorthophotos-sommer-2023-truedop20rgb-wms-1c8be8a1
-  https://mastodontech.de/@opendataberlin/116455429196369190
-* Warum Satelliten und OSINT die Militärdoktrin auf den Kopf stellen
-  https://www.telepolis.de/article/Warum-Satelliten-und-OSINT-die-Militaerdoktrin-auf-den-Kopf-stellen-11270272.html
-* Die Hälfte der europäischen Gemeinden hat weniger Einwohner als vor 60 Jahren
-  https://correctiv.org/aktuelles/2026/04/21/die-haelfte-der-europaeischen-gemeinden-hat-weniger-einwohner-als-vor-60-jahren/
-  https://cdn.correctiv.org/deployed-apps/CE_2026_population_map/
-* Landtags-Wahlkreise 
-  https://norden.social/@datenschatz/116328574921480398
+### Interaktiv
+Europas Gesamtbevölkerung wächst, aber nicht gleichmäßig, wie [eine kartenbasierte Data-Story](https://correctiv.org/aktuelles/2026/04/21/die-haelfte-der-europaeischen-gemeinden-hat-weniger-einwohner-als-vor-60-jahren/) von CORRECTIV.Europe zeigt. Während die großen Städte und ihre Vororte stark wachsen, hat jede fünfte ländliche Gemeinde zwischen 1961 und 2024 mehr als die Hälfte ihrer Bevölkerung verloren. Vor allem Spanien und Griechenland sind betroffen. Ähnliche Entwicklungen lassen sich auch für Deutschland nachvollziehen. Die Bebölkerungsverluste in den ehemaligen Ostblockstaaten sind ebenfalls deutlich erkennbar. Die Landflucht bedroht die Lebensqualität der Menschen auf dem Land, denn durch mangels Kunden und Arbeitskräfte müssen Bahnhöfe, Schulen, Bankfilialen, Lebensmittelläden und Krankenhäuser schließen. Die Überaltung in Folge der demografischen Entwicklung stellt eine weitere große Herausforderung dar. Ohne Zuwanderung wäre die Gesamtbevölkerung der EU bereits seit 2012 geschrumpft. 
 
-## Artemis 2
-* Volle Auflösung und Metadaten
-  https://images.nasa.gov/details/art002e009287
-  https://norden.social/@wahlatlas/116365358818496891
-* First Photos From NASA Moon Flyby Show Setting Earth and Eclipse
-  https://www.nytimes.com/2026/04/07/science/nasa-artemis-moon-flyby-photos.html?unlocked_article_code=1.ZVA.Ijim.GgROaG8CZcH3&smid=nytcore-ios-share
+[Wohnort-Kompass](https://wohnortkompass.oklabflensburg.de) des OKLab Flensburg [kombiniert](https://norden.social/@oklabflensburg/116443027427609830) offene Daten aus Klima, Luft, Verkehrssicherheit, Demografie, Alltagsnähe, Flächennutzung und ÖPNV. Je nach persönlicher Gewichtung ergibt sich eine Rangliste aus Gemeinden, die am ehesten diesen Präferenzen genügen. Die Quellen der Teil-Bepunktung kann je Gemeinde nachvollziehen. Bis zu drei Gemeinden kann man zudem direkt nebeneinander vergleichen. Der Quellcode der Anwendung [ist natürlich Open Source](https://github.com/oklabflensburg/open-living-map).
+
+Ebenfalls vom OKLab Flensburg stammt die neue [Badestellenkarte für Schleswig-Holstein](https://badestellenkarte.oklabflensburg.de). Sie hilft, Badestellen, Strände und wassernahe Orte [zu finden](https://norden.social/@oklabflensburg/116367527016065015), dabei auch noch die Wasserqualität einsehen zu können sowie ergänzend weitere wasserbezogenen POIs in der Nähe zu entdecken. Auch diese Anwendung [ist Open Source](https://github.com/oklabflensburg/open-bath-map).
+
+[GeoObserver regt an](https://geoobserver.de/2026/04/01/osterspaziergang-streuobst-erfassen/), bei seinem Osterspaziergang doch gleich auf der [interaktiven Karte](https://portal-streuobst.de/karte/) des [Streuobstwiesen Portal](https://portal-streuobst.de) die Obst- und Streuobstwiesen bei sich vor Ort, die auf der Karte noch fehlen, nachzutragen.
+
+### Datenverfügbarkeit
+Der Umstand, dass staatlichen Akteuren nicht mehr den exklusiven Zugang zu hochauflösende Satellitenbilder (in Echtzeit) haben und dem Aufkommen von [Open-Source-Intelligence (OSINT)](https://de.wikipedia.org/wiki/Open_Source_Intelligence) hat ambivalente Auswirkungen auf militärische Operationen, [wie ein Artikel bei Telepolis diskutiert](https://www.telepolis.de/article/Warum-Satelliten-und-OSINT-die-Militaerdoktrin-auf-den-Kopf-stellen-11270272.html). Einerseits könnten frühzeitig erkannte Entwicklungen diplomatische Reaktionen zur Verhinderung von Schlimmeren begünstigen, andererseits können sie auch das genaue Gegenteil bewirken, wenn vermeintliche Absichten aus dem Sichtbaren fehlinterpretiert werden und Konflikte dadurch eskalieren, weil auch der Druck durch die Echtzeitinformationen, schneller entscheiden zu müssen, steigt.
+
+Für Berlin liegen nun [digitale farbige TrueOrthophotomosaike](https://daten.berlin.de/datensaetze/digitale-farbige-trueorthophotos-sommer-2023-truedop20rgb-wms-1c8be8a1) (TrueDOP) aus den Befliegungen im Sommer 2023 mit einer Bodenauflösung von 20 cm vor.
+
+Förderalismus sei Undank - [aktuelle Landtags-Wahlkreise-Geometrien](https://norden.social/@datenschatz/116328574921480398) deutschlandweit? Träum' weiter!
+
+### Neue Werkzeuge
+[Vantage](https://vantage.krisenstab.net) ist ein Werkzeugkasten für Investigativjournalisten und Faktenchecker, um Fotos und Videos geografisch richtig zu verorten, indem diese auf 3D Modelle projeziert werden. Das Projekt wurde durch den Prototyp Fund [gefördert](https://chaos.social/@fidel/116329192840939108).
+
+[geoparquet-io](https://geoparquet.io) ist als Kommandozeilentool als auch Python-Bibliothek [nutzbar](https://spatialists.ch/posts/2026/04/06-geoparquet-io-fast-geoparquet-tool/), um GeoParquet-Dateien zu lesen, zu verändern und wieder rauszuschreiben, kann aber auch das Format aus z.B. WFS-Quellen [erzeugen](https://mapstodon.space/@spatialists/116358829424926440).
 
 ## Klima
 * Wie unterscheiden sich eigentlich die Klimarisiken innerhalb Deutschlands
@@ -426,7 +410,9 @@ Der Zwischenbericht zur Evaluation des Deutschlandtickets hat allein für das Ja
 ## Und sonst so?
 * Microsoft veröffentlicht frühesten bekannten DOS-Quellcode
   https://www.heise.de/news/Microsoft-veroeffentlicht-fruehesten-bekannten-DOS-Quellcode-11277117.html
-
+* Artemis 2 - Volle Auflösung und Metadaten
+  https://images.nasa.gov/details/art002e009287
+  https://norden.social/@wahlatlas/116365358818496891
 
 ## Fristen
 * [Bits & Bäume Community Summit](https://pretalx.wikimedia.de/bitsbaeume2026/cfp), bis 05.05.2026 23:59
