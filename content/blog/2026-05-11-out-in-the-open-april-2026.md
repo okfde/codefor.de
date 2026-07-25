@@ -79,38 +79,26 @@ Mit dem Projekt Spark hat das Bundesministerium für Digitales und Staatsmoderni
 [Seit 20 Jahren](https://chaos.social/@Lilith/116386882679894285) versucht Bayern versucht das Grundbuch zu digitalisieren. Geschafft haben sie es immer noch nicht, dafür ist das jahrlange Scheitern [nun dokumentiert](https://www.grundbuch.eu/nachrichten/). 
 
 ## Mobilität
-* Spart Autofahren wirklich Zeit? Der "Social Speed Calculator" berechnet deinen realen Zeitaufwand
-  https://reset.org/spart-autofahren-wirklich-zeit-der-social-speed-calculator-berechnet-deinen-realen-zeitaufwand/
-* "Schöne Wochenende"-Ticket-History
-  https://berlin.social/@mina/116426545254396483
-* Es gibt jetzt die Zahlen inkl. 2025 der Stadt Wien zu den Verkehrszählstellen, an denen auch langfristige Trends auf den Straßen abgelesen werden können.
-  https://ogd-wien.apps.garden/dtv
-  https://wien.rocks/@DieterKomendera/116432818954792488
-* Die Zahl der Unfallbeteiligten nach Geschlecht und Alter variiert stark für die Kategorien "Fahrrad ohne Hilfsmotor" versus "Pedelec"
-  https://www-genesis.destatis.de/datenbank/online/statistic/46241/table/46241-0011
-  https://github.com/wahlatlas/api/blob/main/unfallbeteiligte2024_fahrrad_pedelec_geschlecht_alter.R
-  https://norden.social/@wahlatlas/116432807124120460
-* Kalender der Verkehrsunfälle (auch mit Sonnenschein Stunden mit dazu)
-  https://service.destatis.de/DE/verkehrsunfallkalender/
-  https://norden.social/@wahlatlas/116437927302868072
-* Urbaner Puls – Passantenströme im Städtevergleich
-  https://github.com/byte-bayern/open-bydata-notebook-passantenzaehlung
-  https://mastodon.social/@ocbydata/116448430908006357
-* "Radwegestopp 2.0": Berliner Koalition streicht zentrale Ziele aus dem Mobilitätsgesetz
-  https://www.tagesspiegel.de/berlin/radwegestopp-20-berliner-koalition-streicht-zentrale-ziele-aus-dem-mobilitatsgesetz-15519293.html
-* Mitmach-Studie in Frankfurt (Oder): Wie kann Mobilität gesünder und gerechter werden?
-  https://www.mobil-in-ffo.de
-  https://www.radioeins.de/programm/sendungen/die_sonntagsfahrer/_/mitmach-studie-in-frankfurt--oder---wie-kann-mobilitaet-gesuende.html
-* Intercity Explorer
-  https://tifa365.github.io/intercity-explorer/
-  https://norden.social/@datenschatz/116481077992008722
-* Neues Branchengremium soll digitale Fahrgastinformation im ÖPNV stärken
-  https://www.newstix.de/index.php?site=actual&ref=RSS&entmsg=true&mid=4744844
-  https://mastodontech.de/@sprickw/116499504020640856
-* Der E-Automarkt erlebt 2026 einen spürbaren Aufschwung. Das gilt sowohl für neue als auch gebrauchte Elektroautos. Doch wer glaubt, dass allein die hohen Spritpreise dafür verantwortlich sind, der irrt
-  https://www.basicthinking.de/blog/2026/04/09/gebrauchte-elektroautos-2026/
-* Evaluierungsbericht: 2,5 Millionen Tonnen CO2 durch Deutschlandticket eingespart
-  https://www.deutschlandfunk.de/2-5-millionen-tonnen-co2-durch-deutschlandticket-eingespart-100.html
+### E-Mobilität
+Nach Elektroautos, egal ob neu oder gebraucht, [steigt die Nachfrage](https://www.basicthinking.de/blog/2026/04/09/gebrauchte-elektroautos-2026/), und das liegt nicht hauptsächlich an den aktuell hohen Spritpreisen, sondern an langfristigeren Faktoren wie mehr Modellauswahl, sinkende Preise durch mehr Wettbewerb und mehr technischen Fortschritt bei Reichweite und Batterien, die auch nach Jahren noch 80 bis 90 Prozent Kapazität besitzen und somit günstige und trotzdem nutzbare E-Autos auch auf dem Gebrauchtwagenmarkt zu haben sind. Trotzdem muss öffentliche Laden attraktiver werden (auch hinsichtlich Preistransparenz), damit nicht nur Eigenheimbesitzer profitieren.
+
+### Verkehrsströme
+Für Wien gibt es nun [ein Dashboard](https://ogd-wien.apps.garden/dtv), auf dem man pro Zählstelle den durchschnittliche Anzahl an Fahrzeugen pro Tag monatsweise für die letzten 6 Jahre anschauen kann, weiter aufschlüsselbar nach KFZ oder LKW, sowie nach Werktag / Wochenende oder nach einzelnem Wochentag, wodurch sich [auch langfristige Trends ablesen lassen](https://wien.rocks/@DieterKomendera/116432818954792488).
+
+Das [Jupyter-Notebook](https://github.com/byte-bayern/open-bydata-notebook-passantenzaehlung) "Urbaner Puls" des Open-Data-Kompetenzzentrums der Bayerische Agentur für Digitales [vergleicht](https://mastodon.social/@ocbydata/116448430908006357) die Passantenströme der Städte Würzburg, Augsburg und Bamberg in einer Data Story.
+
+### Städtischer Verkehr
+Auf der 5. DELFI‑Konferenz wurde der Aufbau eines Gremiums [beschlossen](https://www.newstix.de/index.php?site=actual&ref=RSS&entmsg=true&mid=4744844), welches Datenqualität, Standards und Prozesse digitaler Fahrgastinformationen im ÖPNV koordinieren soll, um sie trotz zunehmender Komplexität verlässlicher, konsistenter und verständlicher zu machen. Für Wolfgang Sprick sollten hierbei auch NGOs und Zivilgesellschaft [einbezogen werden](https://mastodontech.de/@sprickw/116499504020640856).
+
+In einer [Citizen-Science-Studie](https://www.mobil-in-ffo.de/die-studie/), die von April 2026 bis März 2027 läuft, soll herausgefunden wie die Mobilität in Frankfurt (Oder) und Umland gesünder und gerechter werden kann. Menschen aus der Region können sich so je nach Zeitbudget durch Ausfüllen von Fragebögen, Datenspender über Bewegungsarmband oder über die Mitarbeit in einer Forschungsgruppe [beteiligen](https://www.radioeins.de/programm/sendungen/die_sonntagsfahrer/_/mitmach-studie-in-frankfurt--oder---wie-kann-mobilitaet-gesuende.html).
+
+### Bahn
+Der Zwischenbericht zur Evaluation des Deutschlandtickets hat allein für das Jahr 2024 [errechnet](https://www.deutschlandfunk.de/2-5-millionen-tonnen-co2-durch-deutschlandticket-eingespart-100.html), das durch das Ticket 2,5 Millionen Tonnen CO2 eingespart wurden, unter anderem weil Umfragen zu Folge 12 bis 20 Prozent der PKW-Fahrten durch durch Bus und Bahn ersetzt wurden. Kurz vor der Erhöhung auf inzwischen 63€ pro Monat nutzten Anfang des Jahres 14,6 Millionen Menschen das Ticketangebot. Bleibt zu hoffen, dass nicht durch weitere Preissteigerungen dem Angebot das gleiche Schicksal droht [wie einst dem "Schöne Wochenende"-Ticket](https://berlin.social/@mina/116426545254396483).
+
+[Tim Fangmeyer hat](https://norden.social/@datenschatz/116481077992008722) Bahnhöfe und Zugverbindungen auf einer [interaktiven Karte](https://tifa365.github.io/intercity-explorer/) mit Wikipedia-, Wikidata-, [Bahnhof.de](https://www.bahnhof.de)-Einträgen und Abfahrtsdaten von Dr. Birte Friesels [dbf.finalrewind.org](https://dbf.finalrewind.org) verlinkt.
+
+### Unfallstatistik
+[In den Kalendern](https://service.destatis.de/DE/verkehrsunfallkalender/) für die Jahre 2005, 2010, 2015, 2020, 2023-2025 lassen sich tageweise die deutschlandweite Anzahl an erfassten Unfälle wahlweise nach Alkoholeinfluss, nach Verkehrsmittel (Fahrrad, Motorrad, PkW) oder nach Verunglückten (Kinder, Fußgänger, E-Scooter-Fahrende) und mit Todesfolge auswerten. Für E-Scooter, Fahrrad, Motorrad werden zu dem die Sonnenstunden für den jeweiligen Tag angezeigt, um die Wahrscheinlichkeit an diesem Tag mit eben einen solchen Verkehrsmittel unterwegs gewesen zu sein, [zu kontextualisieren](https://norden.social/@wahlatlas/116437927302868072). In einer [weiteren Auswertung](https://www-genesis.destatis.de/datenbank/online/statistic/46241/table/46241-0011) wird jahrweise nach Unfallbeteiligte, Hauptverursacher des Unfalls, Geschlecht, Altersgruppen, Art der Verkehrsbeteiligung, Unfallkategorie und Ortslage aufgeschlüsselt. [Wahlatlas hat](https://norden.social/@wahlatlas/116432807124120460) für die Daten noch eine Visualisierung [programmiert](https://github.com/wahlatlas/api/blob/main/unfallbeteiligte2024_fahrrad_pedelec_geschlecht_alter.R).
 
 ## Karten
 * Vantage
