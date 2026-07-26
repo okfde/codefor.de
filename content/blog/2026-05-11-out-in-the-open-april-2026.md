@@ -165,85 +165,21 @@ Den von Karin Prien geplanten Umbau des Förderprogramms "Demokratie Leben" [sol
 
 In Sachsen-Anhalt hat man eine zentrale Verfassungsreform [auf den Weg gebracht](https://bewegung.social/@campact/116459232946888160), die Gewaltenteilung schärft und Vetternwirtschaft erschwert. Ein Ministerpräsident kann künftig nicht mehr den Staatsvertrag mit dem ÖRR aufkündigen. Erste Maßnahmen also, um das Schlimmste zu verhindern, falls die AfD nach den Wahlen an die Macht kommen sollte.
 
-## Wirtschaft
-* Time-Lag der Folgen der Sperrung der Straße von Hormus
-  https://mastodon.social/@svenscholz/116363074826657898
-* Kein Dünger, kein Diesel, keine Ernte
-  https://www.telepolis.de/article/Kein-Duenger-kein-Diesel-keine-Ernte-11276215.html
-* Linke-Anfrage im Bundestag: Immer weniger vollwertige Postfilialen in Sachsen, aber mehr Beschwerden
-  https://www.l-iz.de/wirtschaft/verbraucher/2026/04/linke-anfrage-im-bundestag-immer-weniger-vollwertige-postfilialen-sachsen-aber-mehr-beschwerden-655378
-* Emails show Amazon colluding with other firms to raise prices, California authorities allege
-  https://www.theguardian.com/us-news/ng-interactive/2026/apr/20/amazon-sellers-price-raises-california
-* Rekordsprung bei Sprit lässt Tankrabatt verpuffen
-  https://www.handelsblatt.com/politik/deutschland/diesel-rekordsprung-bei-sprit-laesst-tankrabatt-verpuffen/100221461.html
-* Wie Genossen­schaften im Kampf gegen Tech-Imperien helfen könnten
-  https://jacobin.de/artikel/genossenschaften-tech-konzerne-infrastruktur-gewerkschaften
-
-## Wissenschaft
-* Open Science for Sovereignty: the Next Challenge 
-  https://www.youtube.com/watch?v=_OQUv19qBt8
-* Licensing Best Practices for Sharing Scientific Data
-  https://creativecommons.org/2026/04/20/licensing-best-practices-for-the-sharing-of-scientific-data/
-  https://mastodon.social/@avatter/116442969908985501
-* Die DNA als Datenspeicher?
-  https://www.leibniz-magazin.de/alle-artikel/magazindetail/newsdetails/die-dna-als-datenspeicher
-
 ## Transparenz
-* IFG-Einschränkungen: Sicherheit gegen Transparenz – ein gefährlicher Trend
-  https://fragdenstaat.de/artikel/policy/2026/04/thuringen-und-sh-abschaffen/
-* Informationsfreiheit: Thüringen will sich von Transparenz entlasten
-  https://netzpolitik.org/2026/informationsfreiheit-thueringen-will-sich-von-transparenz-entlasten/
-* CDU-Fördergeldaffäre: "Wir können uns darüber hinwegsetzen"
-  https://fragdenstaat.de/artikel/exklusiv/2026/04/cdu-fordermittel-chats/
-  https://chaos.social/@nadia_z/116374543745974156
-  * CDU-Fördergeldaffäre in Berlin: Diese Senatorin kann das nicht aussitzen
-    https://taz.de/CDU-Foerdergeldaffaere-in-Berlin/!6173319/
-* Darknet Diaries Deutsch: Fahrraddieben auf der Spur 
-  https://darknetdiaries.com/episode/153/
-  https://bikeindex.org/about
-  https://www.heise.de/news/Darknet-Diaries-Deutsch-Fahrraddieben-auf-der-Spur-Teil-2-11218316.html
-* Rechter Polizeiprofessor: Der Fall Stephan Maninger
-  https://fragdenstaat.de/artikel/exklusiv/2026/04/der-fall-stephan-maninger/
-* Mietenkataster in Planung: Berlin will Ver­mie­te­r:in­nen an Recht und Gesetz binden
-  https://taz.de/Mietenkataster-in-Planung/!6170316/
+Mit ihrem "Entlastungsgesetz" möchte die Thüringer Brombeerkoalition gleich noch ihre staatliche Transparenzpflichten [abwickeln](https://netzpolitik.org/2026/informationsfreiheit-thueringen-will-sich-von-transparenz-entlasten/). Weil angeblich Personal für das Schwärzen von Dokumenten fehle. Dabei offenbart sich einfach nur eine mangelnde Digitalisierung, bei Dokumente nicht nur automatisiert intern (und ggf. extern) veröffentlicht werden, sondern in ihnen bei Bedarf auch sensiblen Inhalte herausredigiert werden könnten.
+
+Wohl auch unter dem Eindruck der nahenden Wahl kündigt der Berliner Senat [ein Mietenkataster an](https://taz.de/Mietenkataster-in-Planung/!6170316/), in dem alle Mietverhältnisse in der Stadt systematisch erfasst und nach Verstößen automatisiert überprüft werden sollen. Mie­te­r:in­nen werden dann informiert, wenn die Mietpreisbremse nicht eingehalten wurde. Einklagen müssten sie ihr Recht dann immer noch selbst. 
 
 ## Überwachung
-* LinkedIn Is Illegally Searching Your Computer
-  https://browsergate.eu
-  https://graphics.social/@metin/116335353888270814
-* Rote Hilfe: Stellungnahmen gegen die bundesweiten Überwachungsgesetze
-  https://rote-hilfe.de/meldungen/stellungnahmen-gegen-die-bundesweiten-ueberwachungsgesetze
-* Digitale Überwachungsbefugnisse: Schwarz-rotes Sicherheitspaket "zum Großteil verfassungswidrig"
-  https://netzpolitik.org/2026/digitale-ueberwachungsbefugnisse-schwarz-rotes-sicherheitspaket-zum-grossteil-verfassungswidrig/
-* Das neue Thüringer Polizeiaufgabengesetz (PAG) der Brombeerkoalition reiht sich ein in eine Welle verschärfter Polizeigesetze
-  https://thuerpagstoppen.noblogs.org
-  https://digitalcourage.social/@digitalcourage/116374135290514417
-* Sachsen: Neues Polizeigesetz und die Kritik an KI & Palantir
-  https://la-presse.org/palantir-sachsen-polizeigesetz/
-* Petition: Stoppt Dobrindts Überwachungspläne – Nein zu Palantir & Co. für Polizei und Behörden!
-  https://algorithmwatch.org/de/stoppt-dobrindts-uberwachungsplane/
-* Rotlichtviertel Frankfurt am Main: Hier analysiert die Polizei jedes Gesicht
-  https://netzpolitik.org/2026/rotlichtviertel-frankfurt-am-main-hier-analysiert-die-polizei-jedes-gesicht/
-* Dritter Versuch: Bundesregierung beschließt anlasslose Vorratsdatenspeicherung
-  https://netzpolitik.org/2026/dritter-versuch-bundesregierung-beschliesst-anlasslose-vorratsdatenspeicherung/
-  * IP-Speicherung: Experten warnen vor Kostenfalle und geringem Sicherheitsgewinn
-    https://www.heise.de/news/Teure-digitale-Spurensuche-Milliardeninvestitionen-fuer-die-neue-IP-Speicherung-11272367.html
-* Kein Einschreiten gegen PimEyes: Klage gegen Hamburger Datenschutzbehörde
-  https://noyb.eu/de/no-action-taken-against-pimeyes-noyb-lawsuit-against-hamburg-dpa
-### Datenhandel
-* Gefährliche Apps · Im Netz der Datenhändler
-  https://www.ardmediathek.de/video/story/gefaehrliche-apps-im-netz-der-datenhaendler/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9hYmI2NzU1NC1kMWRjLTQxZWItODk0Yi1hZjZmN2QyNDEzZTdfb25saW5lYnJvYWRjYXN0
-### Altersverifikation
-* Die EU Age Verification App verwendet Elemente, die eigentlich eher so nach Terrorabwehr klingen:
-  https://mastodon.social/@bkastl/116409580841397181
-* Brussels launched an age checking app. Hackers say it takes 2 minutes to break it
-  https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/
-  https://mastodon.social/@zackwhittaker/116420253095786124
-### Palantir-Manifest
-* Ein Softwareunternehmen ruft öffentlich zur Errichtung einer neuen Weltordnung auf, garniert mit Positionen, die man nur rechtsextrem nennen kann. 
-  https://mastodon.social/@chrisstoecker/116430759325842642
-* Power without accountability: The Palantir manifesto
-  https://donmoynihan.substack.com/p/palantir-wants-power-without-accountability
+Die Gesellschaft für Freiheitsrechte (GFF) [bewertet](https://netzpolitik.org/2026/digitale-ueberwachungsbefugnisse-schwarz-rotes-sicherheitspaket-zum-grossteil-verfassungswidrig/) in ihrer [Stellungnahme](https://cdn.netzpolitik.org/wp-upload/2026/04/2026-04-GFF-Stellungnahme-Sicherheitspaket.pdf) das geplante Sicherheitspaket der Bundesregierung als "zum Großteil verfassungswidrig", weil es unter anderem biometrischen Fahndung im Internet vorsieht. AlgorithmWatch hat eine entsprechende Petition gegen das Gesetz [gestartet](https://algorithmwatch.org/de/stoppt-dobrindts-uberwachungsplane/).
+
+Im dritten Anlauf hat die Bundesregierung nun doch die anlasslose Vorratsdatenspeicherung [beschließen können](https://netzpolitik.org/2026/dritter-versuch-bundesregierung-beschliesst-anlasslose-vorratsdatenspeicherung/),  Internet-Zugangs-Anbieter müssen damit IP-Adressen und Port-Nummern sämtlicher Nutzer drei Monate lang speichern. Die beiden vorhergehenden Anläufe wurden jeweils wieder von Gerichten kassiert. Auch jetzt ist die Vereinbarkeit mit Verfassungs- und Europarecht fraglich. [Und die Kosten](https://www.heise.de/news/Teure-digitale-Spurensuche-Milliardeninvestitionen-fuer-die-neue-IP-Speicherung-11272367.html), die nun für die Anbieter entstehen, die Daten zu speichern, stehen in keinem Verhältnis zum vermeintlichen Sicherheitsgewinn.
+
+noyb hat eine Klage gegen die Hamburger Datenschutzbehörde [eingereicht](https://noyb.eu/de/no-action-taken-against-pimeyes-noyb-lawsuit-against-hamburg-dpa), weil diese sich weigert, gegen die Gesichtssuchmaschine PimEyes wirksame Maßnahmen zu ergreifen, mit der Begründung, dass das Unternehmen ja in Dubai ansässig sei. noyb sieht die Behörde trotzdem in der Pflicht, ihre Möglichkeiten auszuschöpfen und z.B. Gelder der Firma in Europa einzufrieren oder den Geschäftsführer in Georgien direkt zu belangen. PimEyes hat Milliarden Biometriedaten gesammelt und stellt diese Daten offen ins Netz und ermöglicht so Stalking und Massenüberwachung. Ein Betroffener aus Hamburg hatte deshalb bereits 2020 Beschwerde gegen die Firma bei der eben zuständigen Datenschutzbehörde eingelegt.
+
+Der [App-Entwurf](https://www.youtube.com/watch?v=ULFTrTznG7Y) Altersverifizierung zum Online-Schutz Minderjähriger sieht vor, das Nutzende ihr Gesicht [scannen lassen](https://netzpolitik.org/2026/gesichtsscan-und-handy-zwang-von-der-leyen-erklaert-alterskontroll-app-fuer-fertig/), damit die App dieses mit dem auf dem ebenfalls gescannten Personalausweis biometrisch vergleichen kann. Für eine Vielzahl der Risiken, die Kommissionspräsidentin in ihrer Rede anführte, die sich nun bekämpfen lassen sollen, hilft die Alterskontrolle überhaupt nicht, dafür stellt sie einen erheblich großen Einschnitt in das Grundrecht auf Teilhabe und Information dar. Zudem haben Sicherheitsexperten in der App, die eigentlich schon komplett einsatzbereit sein soll, [im offenen Quellcode](https://github.com/eu-digital-identity-wallet/av-app-android-wallet-ui) zahlreiche Datenschutz- und Datensicherheitsprobleme [gefunden](https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/). So werden sensible Daten ungeschützt auf dem Handy gespeichert und auch Authentifizierungsmechanismen der App lassen sich relativ leicht umgehen.
+
+Das Software-Unternehmen Palantir hat auf X ein "Manifest" [veröffentlicht](https://mastodon.social/@chrisstoecker/116430759325842642), dass tief in die rechtsextreme Weltsicht ihrer ["Dunklen Aufklärung"](https://de.wikipedia.org/wiki/Neoreaktion%C3%A4re_Bewegung) blicken lässt. Es sollte eigentlich als selbstverständlich gelten, dass deren Software hat in deutschen Behörden nichts zu suchen hat.
 
 ## ai;dr
 * Breites Bündnis warnt vor verwässerten KI-Regeln
