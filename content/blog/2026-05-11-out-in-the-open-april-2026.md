@@ -128,6 +128,8 @@ An Hand verschiedener Modellrechnungen [zeigt ein neuer Forschungsbericht](https
 
 Der "Blaue Engel für Software" zeichnet besonders ressourcen- und energiesparenden Quellcode aus. [Doch gleichen](https://en.reset.org/what-exactly-is-green-coding-and-does-genai-make-it-easier-an-interview-with-max-westing-from-the-green-coding-project/) die vermeintlichen Effizienzgewinne durch den Einsatz von KI den hohen Energieverbrauch für Training und den Betrieb der KI aus? Das Projekt [Enabling Green COmputing and DIGItal Transformation (ECO:DIGIT)](https://ecodigit.de) versucht dies zu berechnen.
 
+Mit der [Mothbox](https://digital-naturalism-laboratories.github.io/Mothbox/) (Mottenkasten) zum Selberbauen kann man Motten [beobachten](https://mastodon.social/@labcrafter/116397474852956088). Nach festgelegten Zeitplan wacht das Gerät in der Nacht aus dem Stromsparmodus auf und lockt die Tierchen mit hellem UV-Licht in den Kasten, wo hochauflösende Fotos von ihnen gemacht werden, die später mit z.B. BioCLIP ausgewertet und klassifiziert werden können.
+
 ### Fehlentwicklungen
 Für die Produktion eines Joghurts 9.115 Kilometer, für die Produktion von Apfelmus 800km, 1500km jeweils für Schlagrahm in Dosenabfüllen, oder Nordseekrabbenpulen in Marokko für tausende Kilometer Transportweg [sind nur einige Beispiele](https://www.telepolis.de/article/Joghurt-reist-weiter-als-die-meisten-Menschen-11258875.html), die dazu beigetragen haben, dass sich der LKW-Verkehr seit 1991 fast verdoppelt hat. Dass das Ganze trotzdem ökonomisch ist, liegt an den Lohnkosten, einerseits für die meist osteuropäischen LKW-Fahrer, andererseits am Lohngefälle von Ausgangsland und jeweiligen ausgelagerten Land. Dass ein 40-Tonner LKW Schäden und Belastungen für die Straßen wie 40.000 PKW taucht in keiner Firmenbilanz auf, genauso wenig die Kosten der verursachten CO2-Emissionen. Sie werden ebenfalls auf die Allgemeinheit abgewälzt. Eine sinnvolle Regionalisierung der Produktion würde dagegen versuchen Wege zu verkürzen oder Güterverkehr ganz zu vermeiden. Dazu müsste sich auch das Konsumverhalten (z.B. weniger Retouren bei Online-Einkäufen, saisonale Lebensmittel) als auch Produktionsverhalten (langlebigere Produkte, Reparierbarkeit, sinnvoll zentralisierte oder dezentralisierte Versorgungsnetze) ändern.
 
@@ -135,117 +137,33 @@ Red Bull kann [nach Zustimmung](https://www.rbb24.de/wirtschaft/beitrag/2025/04/
 
 Durch den Klimawandel beginnt die Kirschblüte [immer früher](https://climatejustice.global/@s4f_le/116425292538804294).
 
-## Citizen Science
-* Mothbox
-  https://digital-naturalism-laboratories.github.io/Mothbox/
-  https://mastodon.social/@labcrafter/116397474852956088
-* partX 2026: Jetzt bewerben
-  https://www.mitforschen.org/partX-2026
-* Warum diese Bücherei in Düsseldorf jetzt alle zum Mitforschen einlädt
-  https://rp-online.de/nrw/staedte/duesseldorf/stadtteile/unterrath/warum-diese-buecherei-in-duesseldorf-jetzt-alle-zum-mitforschen-einlaedt_aid-147168579
-
 ## Energie
-* A gorgeous interactive display of the global electricity system using open datasets
-  https://opengridworks.com/power-plants
-* Verband: Wasserkraft könnte Anteil am Strommix verdoppeln
-  https://www.heise.de/news/Verband-Wasserkraft-koennte-Anteil-am-Strommix-verdoppeln-11248056.html
-* Ölförderung stark rückläufig, Solar überholt alle
-  https://www.golem.de/news/iea-bericht-oelfoerderung-stark-ruecklaeufig-solar-ueberholt-alle-2604-207866.html
-### Batterien
-* Prof. Fichtner: Diese Lügen über Batterien kosten uns Milliarden
-  https://www.youtube.com/watch?v=CAwLEgeqKN0
-* Neuer chinesischer Akku soll E-Autos 1500 Kilometer weit bringen
-  https://www.spiegel.de/mobilitaet/auto/catl-neuer-akku-aus-china-verspricht-1500-kilometer-elektroauto-reichweite-a-4f804749-bd29-4bb2-962e-d1ea85774566
-* Die irre Entwicklung der Batterien in vier Grafiken
-  https://www.derstandard.de/story/3000000317605/die-irre-entwicklung-der-batterien-in-vier-grafiken?ref=article
-### Politik
-* In Bayern droht ein Totalstopp: Massive Kritik an Reiche-Plänen
-  https://www.t-online.de/heim-garten/aktuelles/id_101197566/reiches-plaene-fuer-solar-und-wind-bayern-kritisiert-geplante-vollbremsung-.html
-* Scheiternde Energiewende: Wirtschaftsministerin Reiche und die Rechenfehler
-  https://www.golem.de/news/scheiternde-energiewende-wirtschaftsministerin-reiche-und-die-rechenfehler-2604-207335.html
-  https://mastodon.social/@bkastl/116373111818031300
-  * Schluss mit der Selbsttäuschung in der Energiepolitik, Gastbeitrag Von Katherina Reich
-    https://www.faz.net/aktuell/wirtschaft/katherina-reiche-jetzt-ist-zeit-fuer-ernsthafte-energiepolitik-accg-200707552.html
-    https://mastodon.social/@peterjelinek/116375559939071922
-* Neues Heizungsgesetz: Reiche setzte sich für Grüngasquote ein – ohne Kostenprognose
-  https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-wirtschaftsministerium-weiss-nicht-was-gruengasquote-kostet-a-ec46d539-cabb-4532-9739-13bbb1318f5f
-  https://mastodon.social/users/sixtus/statuses/116384424183553164  
-* Was macht Katherina Reiche eigentlich beruflich?
-  https://www.spiegel.de/wissenschaft/mensch/katherina-reiche-was-macht-die-bundeswirtschaftsministerin-eigentlich-beruflich-a-2051bce7-081a-4b78-b40f-94c7877555c8?giftToken=524a64a9-9e92-4afd-b7ca-bd19e0e02b66
-* Katherina Reiche ist quasi die aktive Sterbehilfe für die deutsche Wirtschaft
-  https://dju.social/@DerKlimablog/116398574125179047
-* GEG weiter abgeschwächt
-  https://chaos.social/@fff/116488027178351052
-* PIK-Analyse: Biotreppe im Heizungsgesetz ist teuer und ungeeignet
-  https://www.deutschlandfunk.de/pik-analyse-biotreppe-im-heizungsgesetz-ist-teuer-und-ungeeignet-100.html
-### Die Filzlaus
-* Das Wirtschaftsministerium von Katherina Reiche hat beim EnBW-Konzern Vorschläge bestellt, die Batteriespeicher gegenüber Gaskraftwerken benachteiligen würden. 
-  https://bewegung.social/@a_watch/116407168451542593
-* Bremst die Regierung die Energiewende aus?
-  https://www.3sat.de/wissen/nano/260420-sendung-bremst-die-regierung-die-energiewende-aus-kritiker-warnen-nano-100.html
-  https://climatejustice.global/@chrisstoecker@mastodon.social/116441836284643293
-* Katherina Reiche:  "Ich war nie in der Gaslobby tätig."
-  https://bewegung.social/@a_watch/116458355936126819
-  https://bewegung.social/@lobbycontrol/116458756631317538
-* Wirtschaftswachstum durch Erneuerbare: Reiche lässt Studie zu Wind und Solar verschwinden
-  https://www.t-online.de/finanzen/energie/id_101226464/wirtschaftswachstum-durch-energiewende-reiche-laesst-studie-verschwinden.html
-  * "Versteckte Studie" des Wirtschaftsministeriums: Wind und Solar bringen Milliarden, Jobs und Wachstum
-    https://utopia.de/news/versteckte-studie-des-wirtschaftsministeriums-wind-und-solar-bringen-milliarden-jobs-und-wachstum_926395/
-* Treffer. Versenkt.
-  https://mastodon.social/@TwraSun/116465685905947952
-* Für die Kommunikation des Ministeriums, hat sich Katherina Reiche neue PR-Agenturen geangelt. Neben Scholz & Friends auch FGS Global. Und ratet mal, wer Mehrheitsgesellschaft von FGS Global ist? Richtig: Der amerikanische Fossilinvestor und langjährige Springer-Investor KKR
-  https://www.cleanthinking.de/katherina-reiches-selbsttaeuschung-faz/
-  https://bsky.app/profile/cleanthinking.bsky.social/post/3mixugiv4gs2t
-* E-Mails und Gesprächsprotokolle enthüllen, wie Vertreter der Gaskonzerne neue EU-Klimaregeln zu verwässern versuchen
-  https://www.spiegel.de/wissenschaft/methan-dokumente-zeigen-wie-gaskonzerne-den-klimaschutz-in-der-eu-ausbremsen-wollen-a-f7ec2615-a3cc-47ac-8a3d-1bac546f10ee
+Auf [OpenGridWorks](https://opengridworks.com/power-plants?lat=51.496230&lng=8.316439&z=5.218418&layers=tx%2Cdatacenters%2Chpoints%2CosmSubs%2CrowTx&panel=closed) kann man sich weltweit die Kraftwerke (auch Solar, Wind und Pumpspeicher) auf einer Karte ansehen, die unsere Stromversorgung aufrechterhalten. Inzwischen werden prototypisch auf der Karte auch Rechenzentren angezeigt. Die Daten stammen aus offenen Datenquellen, wie z.B. OpenStreetMap.
 
-## Gesundheit
-* Gesetzentwurf: So will Gesundheitsministerin Warken ihre Digitalstrategie umsetzen
-  https://netzpolitik.org/2026/gesetzentwurf-so-will-gesundheitsministerin-warken-ihre-digitalstrategie-umsetzen/
-* Die ePA ist im Moment nichts anderes als ein Sammelsurium an Dokumenten
-  https://www.heise.de/hintergrund/HAePPI-Wie-Hausaerzte-mit-Delegation-und-digitalen-Tools-mehr-Patienten-versorgen-11249958.html
-  https://social.heise.de/@heiseonline/116375904618215980
-* PDF-"Verschlüsselung" mit Geburtsdatum: Sicherheitstheater in der Medizin.
-  https://mastodon.social/@radiologe@chaos.social/116419103831516937
-  https://mastodon.social/users/bkastl/statuses/116430412870374018
-* BMG: "Viel volkswirtschaftliche Power" hinter Gesundheitsdatennutzung
-  https://www.heise.de/news/BMG-Viel-volkswirtschaftliche-Power-hinter-Gesundheitsdatennutzung-11264442.html
-* Europäischer Gesundheitsdatenraum: Deutschland muss Daten bereitstellen
-  https://www.heise.de/news/DMEA-2026-Gesundheitsministerium-draengt-auf-mehr-Datennutzung-11265672.html
-* Increasing Burdens Of Medical Debt And Bankruptcy Are Uniquely American
-  https://www.forbes.com/sites/joshuacohen/2026/04/05/increasing-burdens-of-medical-debt-and-bankruptcy-are-uniquely-american/
+Mit einem Anteil von 34 Prozent haben erneuerbare Energiequellen weltweit Kohle als den Hauptenergieträger [abgelöst](https://www.golem.de/news/iea-bericht-oelfoerderung-stark-ruecklaeufig-solar-ueberholt-alle-2604-207866.html), denn durch sinkende Kosten bei Solarenergie (-87% ggü. 2010), Windkraft an Land (-55% ggü. 2010) und Batteriespeicher (-93% ggü. 2010) wird ihr Einsatz immer wirtschaftlicher. Auch mit positiven Auswirkungen auf CO2-Emissionen, die dadurch weniger stark steigen. Durch die zunehmende Elektrifizierung kann auch die Ölproduktion zurückgefahren werden.
+
+### Batterien
+Auch bedingt dadurch, dass der Preis für Lithium-Ionen-Batterien seit 1991 um 99 Prozent [gefallen ist](https://www.derstandard.de/story/3000000317605/die-irre-entwicklung-der-batterien-in-vier-grafiken?ref=article), hat sich der Zubau solcher Batterien weltweit seit 2015 verzwanzigfacht. So fällt es immer leichter, überschüssige Sonnenenergie zu speichern, um sie ab dem späten Nachmittag wieder ins Stromnetz speisen zu können. Fossile Energiequellen werden so langsam aber sicher aus dem Markt gedrängt.
+
+Leider streuen Vertreter der Fossillobby in ihren letzten Zuckungen falsche Narrative, um ihr kaputtes Geschäftsmodell so lang wie möglich noch am Leben zu halten. Leider gehen ihnen noch zu viele Politiker auf den Leim und gefährden damit auch die Wettbewerbsfähigkeit Deutschlands. [In dieser Podcast-Folge](https://www.youtube.com/watch?v=CAwLEgeqKN0) "Geladen" räumt Prof. Maximilian Fichtner mit den gängisten Mythen über Elektroautos und Batterien auf.
+
+### Die Filzlaus
+Der Volksverpetzer unterzieht Katharina Reiches Gastbeitrag in der FAZ [einem Faktencheck](https://volksverpetzer.de/faktencheck/reiche-faz-energiewende/) und entlarvt, dass sie darin nur teilweise korrekte Einzelzahlen bewusst in falsche Kontexte einbettet, um so zu rechtfertigen, den EE-Ausbau zu verlangsamen, statt die eigentlichen Probleme und Kosten der Energiewende anzugehen. Dazu passt auch, dass die Ergebnisse einer vom Wirtschaftsministerium beauftragten Studie [nicht kommuniziert werden](https://www.t-online.de/finanzen/energie/id_101226464/wirtschaftswachstum-durch-energiewende-reiche-laesst-studie-verschwinden.html). Denn die Aussagen, dass der Ausbau erneuerbarer Energien die regionale Wertschöpfung in Deutschland verdoppeln könnte, würden ja der aktuellen Politik der Ministerin widersprechen. Stattdessen werden beim Energiekonzern EnBW Argumente für den Bau neuer Gaskraftwerke [bestellt](https://bewegung.social/@a_watch/116407168451542593). Das Lobbypapier, das diesen Vorgang offenlegt, wurde erst transparent, als der SPIEGEL nachfragte. Katherina Reiche (CDU) leugnet zudem ihre frühere Gaslobby-Tätigkeit, obwohl Einträge im Lobbyregister [eine klare Sprache sprechen](https://bewegung.social/@lobbycontrol/116458756631317538). Christian Stöcker [fasst im Interview](https://mastodon.social/@chrisstoecker/116441836239511031) mit 3sat nano nochmal zusammen, mit welchen Methoden Katherina Reiche gerade versucht, den Ausbau von erneuerbaren Energien und Speichern zu sabotieren. Dass immer mehr Kernaufgaben aus dem Ministerium an externe Berater auslagert werden, [passt zur Strategie](https://taz.de/Kritik-an-Reiches-Beraterplaenen/!6168575/), die berechtigten internen Widerstände gegen ihre Politik zu umgehen.  
 
 ## Geschichte
-* Durchsuchbare NSDAP-Mitgliederkartei hinter Paywall
-  https://norden.social/@datenschatz/116353101141245363
-* The web is disappearing: According to a Pew Research Center report, 26% of pages from 2013-2023 are no longer accessible.
-  https://archive.org/details/vanishing-culture-2026
-  https://mastodon.archive.org/@internetarchive/116461694735884004
-* Mapping the roots of digital art with data, not just narratives.
-  https://tracingdigital.art
-  https://det.social/@HxxxKxxx/116391830212864299
+26% der Webseiten zwischen 2013 bis 2023 sind inzwischen offline. Laut der Studie [Vanishing Culture: A Report on Our Fragile Cultural Record](https://archive.org/details/vanishing-culture-2026) konnten aber dank der Wayback Machine 16% davon wiederhergestellt werden, 56% wurden von ihr gesichert, bevor sie verschwanden und bleiben so [als kulturelles Zeitzeugnis für die Nachwelt erhalten](https://mastodon.archive.org/@internetarchive/116461694735884004).
+
+[Tracing Early Digital Art](https://tracingdigital.art/) erkundet und zeigt die frühen Anfängen Digitaler Kunst zwischen den 1960-ern bis in die frühen 2000-er Jahre durch datenbasierte Methoden, die chronologische, personelle als auch geografische Bezüge herstellt.
 
 ## Journalismus
-* In just four years, billionaire entrepreneur David Hoffmann has gained control of 131 titles around the country
-  https://c.im/@cdarwin/116358255455888823
-* ZDF übernimmt Trumps Sanktionslisten – und nennt es Compliance
-  https://www.telepolis.de/article/ZDF-uebernimmt-Trumps-Sanktionslisten-und-nennt-es-Compliance-11248328.html
-* Reiche-Lüge verbreitet: Warum ist die Tagesschau so schlecht bei Fakes der Regierung?
-  https://www.volksverpetzer.de/faktencheck/reiche-luege-tagesschau
-* Macht KI bald die Tageszeitung?
-  https://correctiv.org/aktuelles/medien/2026/04/07/macht-ki-bald-die-tageszeitung/
+[Der Volksverpetzer bemängelt](https://volksverpetzer.de/faktencheck/reiche-luege-tagesschau/) den Umgang der Tagesschau-Redaktion mit offensichtlichen Falschaussagen der Regierung. Statt He-said-she-said-Journalismus zu betreiben und Wahrheit und Lüge stehen "neutral" nebeneinander stehen zu lassen, erwartet von einem Qualitätsmedium eine ordentliche Einordnung des Gesagten.
+
+Eine neue Compliance-Richtlinie des ZDF besagt, dass man sich verpflichten müsse, nicht mit Personen zusammenzuarbeiten, die auf verschiedenen weltweiten Sanktions- und Terrorlisten stehen, wenn man für das ZDF arbeiten wolle. Dazu gehören auch die Sanktionslisten vom US-Außen- oder US-Finanzministerium, auf denen z.B. auch 11 der 18 Richter am Internationalen Strafgerichtshof in Den Haag stehen. Nach dem autoritären Umbau in den USA als vielleicht keine so gute Entscheidung, vor allem aber eine Entscheidung, die einer freien, unabhängigen Berichterstattung im Wege steht, wenn Mitarbeitende aus Angst die Schere schon im Kopf ansetzen, wenn sie eh als Freie eher prekär beschäftig sind, und mangels Beschwerdemanagement und Intransparenz Machtstrukturen im Sender ausgeliefert sind.
 
 ## Demokratie
-* Reform des Förderprogramms „Demokratie leben!“ bedroht Projekte und Vereinsarbeit – im Gespräch mit der Amadeu-Antonio-Stiftung
-  https://radiocorax.de/reform-des-foerderprogramms-demokratie-leben-bedroht-projekte-und-vereinsarbeit-im-gespraech-mit-der-amadeo-antonio-stiftung/
-* Zuständig in Karin Priens Umbau des Förderprogramms "Demokratie Leben." ist Staatssekretär Ingo Behnel. Der war unter Jens Spahn für die Maskenbeschaffung zuständig und persönlich an einigen der umstrittensten Vergaben beteiligt. 
-  https://www.spiegel.de/politik/deutschland/demokratie-leben-was-steckt-hinter-dem-grossen-umbau-bei-der-demokratiefoerderung-a-a4ae38bb-f852-4bf6-bd4b-48786102552e
-  https://bewegung.social/@lobbycontrol/116443494816349231
-* Kleine Anfragen #OpenData – Die Grünen befürchten, dass die Umstrukturierung des Demokratie-Förderprogramms „Demokratie Leben!“ über 200 Projekte gefährdet – und stellen 28 konkrete Fragen zur Zukunft des Programms.
-  https://diver.fyi/item/i-13poiq-de
-  https://mastodon.social/@diver_fyi/116448543005945671
-* Sachsen-Anhalt bringt eine zentrale Verfassungsreform auf den Weg
-  https://bewegung.social/@campact/116459232946888160
+Den von Karin Prien geplanten Umbau des Förderprogramms "Demokratie Leben" [soll Staatssekretär Ingo Behnel leiten](https://bewegung.social/@lobbycontrol/116443494816349231), früher unter Jens Spahn für die Maskenbeschaffung zuständig, und damit maßgeblich mitverantwortlich für die Milliardenschäden für die Steuerzahler und damit einhergehenden Vertrauensverlust in die Politik. Nun darf er Demokratieprojekten die Gelder kürzen. [In einer kleinen Anfragen](https://www.bundestag.de/presse/hib/kurzmeldungen-1167528) hat die Grünenfraktion im Bundestag 28 Fragen zur Zukunft des Förderprogramms gestellt, da die Umstrukturierung die Existenz von über 200 Projekte gefährdet. [Das Radio Corax sprach](https://radiocorax.de/reform-des-foerderprogramms-demokratie-leben-bedroht-projekte-und-vereinsarbeit-im-gespraech-mit-der-amadeo-antonio-stiftung/) mit Timo Reinfrank, aus dem Vorstand der Amadeu-Antonio-Stiftung, über die geplante Reform, was das konkret für die Stiftung bedeutet. 
+
+In Sachsen-Anhalt hat man eine zentrale Verfassungsreform [auf den Weg gebracht](https://bewegung.social/@campact/116459232946888160), die Gewaltenteilung schärft und Vetternwirtschaft erschwert. Ein Ministerpräsident kann künftig nicht mehr den Staatsvertrag mit dem ÖRR aufkündigen. Erste Maßnahmen also, um das Schlimmste zu verhindern, falls die AfD nach den Wahlen an die Macht kommen sollte.
 
 ## Wirtschaft
 * Time-Lag der Folgen der Sperrung der Straße von Hormus
@@ -288,10 +206,6 @@ Durch den Klimawandel beginnt die Kirschblüte [immer früher](https://climateju
   https://fragdenstaat.de/artikel/exklusiv/2026/04/der-fall-stephan-maninger/
 * Mietenkataster in Planung: Berlin will Ver­mie­te­r:in­nen an Recht und Gesetz binden
   https://taz.de/Mietenkataster-in-Planung/!6170316/
-
-## Lobbyismus
-* Die NGO LobbyControl kritisiert, dass Katherina Reiche Kernaufgaben aus dem Ministerium auslagert. Berater seien häufig als Lobbyisten tätig.
-  https://taz.de/Kritik-an-Reiches-Beraterplaenen/!6168575/
 
 ## Überwachung
 * LinkedIn Is Illegally Searching Your Computer

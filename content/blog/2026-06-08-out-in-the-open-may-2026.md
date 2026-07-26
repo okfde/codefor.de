@@ -42,6 +42,8 @@ type: blog
   https://okfn.de/blog/2026/05/open-data-verordnung-in-berlin-wir-fordern-mehr-statt-weniger-klarheit/
 
 ### Datenjournalismus
+* Durchsuchbare NSDAP-Mitgliederkartei hinter Paywall
+  https://norden.social/@datenschatz/116353101141245363
 * Daten aus der NSDAP-Mitgliederdkartei. 
   https://norden.social/@datenschatz/116574658272721926
   * Katapult und Correctiv wollten die Suche im NSDAP-Archiv schnell zugänglich machen – ohne Bezahlschranke. Dabei haben sie die Quellenprüfung vergessen.
