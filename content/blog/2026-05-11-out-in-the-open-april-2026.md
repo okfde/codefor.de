@@ -155,6 +155,8 @@ Der Volksverpetzer unterzieht Katharina Reiches Gastbeitrag in der FAZ [einem Fa
 
 [Tracing Early Digital Art](https://tracingdigital.art/) erkundet und zeigt die frühen Anfängen Digitaler Kunst zwischen den 1960-ern bis in die frühen 2000-er Jahre durch datenbasierte Methoden, die chronologische, personelle als auch geografische Bezüge herstellt.
 
+Tim Paterson hat 86-DOS 1980/81 im Alleingang geschrieben. [Pünktlich zum 45. Geburtstag](https://www.heise.de/news/Microsoft-veroeffentlicht-fruehesten-bekannten-DOS-Quellcode-11277117.html) ist nun der von Endlospapier digitalisierte Quellcode [Open Source gestellt worden](https://github.com/DOS-History/Paterson-Listings).
+
 ## Journalismus
 [Der Volksverpetzer bemängelt](https://volksverpetzer.de/faktencheck/reiche-luege-tagesschau/) den Umgang der Tagesschau-Redaktion mit offensichtlichen Falschaussagen der Regierung. Statt He-said-she-said-Journalismus zu betreiben und Wahrheit und Lüge stehen "neutral" nebeneinander stehen zu lassen, erwartet von einem Qualitätsmedium eine ordentliche Einordnung des Gesagten.
 
@@ -182,64 +184,19 @@ Der [App-Entwurf](https://www.youtube.com/watch?v=ULFTrTznG7Y) Altersverifizieru
 Das Software-Unternehmen Palantir hat auf X ein "Manifest" [veröffentlicht](https://mastodon.social/@chrisstoecker/116430759325842642), dass tief in die rechtsextreme Weltsicht ihrer ["Dunklen Aufklärung"](https://de.wikipedia.org/wiki/Neoreaktion%C3%A4re_Bewegung) blicken lässt. Es sollte eigentlich als selbstverständlich gelten, dass deren Software hat in deutschen Behörden nichts zu suchen hat.
 
 ## ai;dr
-* Breites Bündnis warnt vor verwässerten KI-Regeln
-  https://netzpolitik.org/2026/ki-risiken-breites-buendnis-warnt-vor-verwaesserten-ki-regeln/
-* Deutsch-kanadische KI-Freundschaft: Aleph Alpha und Cohere sollen fusionieren
-  https://www.heise.de/news/Eine-politische-Ehe-Aleph-Alpha-und-Cohere-verhandeln-ueber-Fusion-11253023.html
-* Positionspapier: Grundwerte in der digitalisierten Gesellschaft
-  https://d-64.org/grundwerte-ki-2-0/
-### Kriminalität
-* US-Amerikaner verlieren 2025 fast 21 Milliarden US-Dollar durch Cybercrime
-  https://www.heise.de/news/US-Amerikaner-verlieren-2025-fast-21-Milliarden-US-Dollar-durch-Cybercrime-11249768.html
-* 4 TB KI Trainingsdaten abgegriffen 
-  https://fortune.com/2026/04/02/mercor-ai-startup-security-incident-10-billion/
-  https://bsky.app/profile/honkhase.de/post/3mj2z3amysm2k
-* Why the AI backlash has turned violent
-  https://www.bloodinthemachine.com/p/why-the-ai-backlash-has-turned-violent
-  https://indieweb.social/@alineblankertz/116408362357654145
-### Von Bug Bounty to Beg Bountry
-* Durch KI überlastet: Kein Geld mehr für Bug-Reports an Open-Source-Projekte
-  https://www.golem.de/news/wichtiges-bug-bounty-programm-pausiert-ki-reports-ueberlasten-open-source-projekte-2604-207325.html
-* Nächste KI-Kapitulation: Nextcloud zahlt für gemeldete Lücken keine Prämien mehr
-  https://www.golem.de/news/naechste-ki-kapitulation-nextcloud-zahlt-fuer-gemeldete-luecken-keine-praemien-mehr-2604-207914.html
-  https://mastodon.social/@bkastl/116455191461863885
-### Anthropic-KI Mythos
-* Anthropic-KI Mythos: Dringende Warnung an US-Banken, BSI erwartet Umwälzungen
-  https://www.heise.de/news/Anthropic-KI-Mythos-Dringende-Warnung-an-US-Banken-BSI-erwartet-Umwaelzungen-11251450.html
+### Regulierung
+Die europäische Verbraucherschutzorganisation BEUC [warnt gemeinsam](https://netzpolitik.org/2026/ki-risiken-breites-buendnis-warnt-vor-verwaesserten-ki-regeln/) mit 31 anderen Organisationen in einem [offenen Brief](https://www.beuc.eu/sites/default/files/publications/BEUC-X-2026-029_Open_Joint_Letter_on_the_Digital_Omnibus_on_AI.pdf) die Verhandler des KI-Omnibus, ganze Sektoren (wie z.B. Medizin und Spielzeugindustrie) von der KI-Verordnung auszunehmen und somit Verbraucherschutz und Grundrechte für eine angebliche Vereinfachung opfern.
+
+D64 hat eine überarbeitete Neufassung ihres [Positionspapiers](https://d-64.org/wp-content/uploads/2026/04/20260413_KI-Grundwertepapier_Online.pdf) zur Vereinbarkeit von Künstlicher Intelligenz mit den Grundwerten Freiheit, Gerechtigkeit und Solidarität [veröffentlicht](https://d-64.org/grundwerte-ki-2-0/). Darin wird u.a. Transparenz über Entscheidungsprozesse, Klarstellen menschlicher Verantwortung, keine Dark Patterns wie die Förderung emotionaler Bindung zu KI-Systemen sowie die Vermeidung von Diskriminierung gefordert. Generell soll gemäß Solidaritätsprinzip, Effienzgewinne, die durch KI-Systeme, der Allgemeinheit zu Gute kommen und nicht nur einzelnen Akteuren.
+
 ### Die Geister, die man rief
-* Thoughtworks warnt: KI-Code wächst schneller als das Verständnis dafür
-  https://www.heise.de/news/Thoughtworks-warnt-KI-Code-waechst-schneller-als-das-Verstaendnis-dafuer-11258863.html
-* Die Speicherkrise materialisiert sich in den Zahlen der größten Smartphone-Prozessorzulieferer Qualcomm und Mediatek.
-  https://www.heise.de/news/Qualcomm-Mediatek-Smartphone-Herstellung-bricht-ein-11278850.html
-### Kaputte Geschäftsmodelle
-* Ein KI-Anhänger soll dank durchgängig aktiviertem Mikrofon ein Begleiter in allen Lebenslagen sein. Über das Geschäft mit der Einsamkeit.
-  https://taz.de/KI-Start-up-friendcom-Vom-Geschaeft-mit-der-Einsamkeit/!6163839/
-* Anthropic secretly installs spyware when you install Claude Desktop
-  https://www.thatprivacyguy.com/blog/anthropic-spyware/
+In ihrem aktuellen [Technologie Radar](https://www.thoughtworks.com/radar) mahnt ThoughtWorks vor der immer größer werdenden [kognitiven Schuld](https://www.thoughtworks.com/about-us/news/2026/combat-ai-cognitive-debt-radar-v34) (analog zu technischer Schuld), die sich aufbaue, wenn man sich mit generativer KI große Teile seiner Codebasis generiert lässt, ohne diesen im Entwickler-Team noch zu verstehen. Helfen kann hier nur eine [Rückbesinnung auf die Engineering-Grundlagen](https://www.heise.de/news/Thoughtworks-warnt-KI-Code-waechst-schneller-als-das-Verstaendnis-dafuer-11258863.html), nur angewendet auf die neuen Gegegebenheiten. Die Zeit, die man beim Coden spart, also stärker ins Spezifizieren (je genauer die Spec, desto weniger Interpretationsspielraum hat der Code-Generator) und ins Testen (um nun auch Fehler zu finden, die ein normaler Entwickler so nie gemacht hätte) zu investieren. Generell muss man beim System-Design nun eher dem [Zero-Trust-Prinzip](https://de.wikipedia.org/wiki/Zero_Trust_Security) folgen, da moderne Software 80 bis 90 Prozent aus Open-Source-Komponenten besteht, die potenziell zunehmend auch mit Hilfe von KI geschrieben werden und entsprechend unerwartete Fehler enthalten kann. Das gleiche gilt für mit KI immer schneller und mehr generierten Angreifer-Software, die versucht, in die eigenen Systeme einzudringen.
+
+### Von Bug Bounty to Beg Bountry
+[Bug-Bounty-Programme](https://de.wikipedia.org/wiki/Bug-Bounty-Programm) schreiben Belohnungen aus, wenn man Fehler in Software findet, meldet und im Bestfall sogar die Lösung für die Behebung mitliefert. Mit dem Aufkommen von generativer KI haben manche das als Geschäftsmodell für sich entdeckt, massenweise Schwachstellen an solche Programme zu melden. Nur kommen die Maintainer der betroffenen Projekte nicht mehr hinterher, zu prüfen, ob es sich tatsächlich um eine Schwachstelle handelt. Zudem wird zwar viele gemeldet, aber kaum Fixes angeboten. Als Konsequenz hat Internet Bug Bounty (IBB) sein Programm für weitere Einreichungen [gesperrt](https://www.golem.de/news/wichtiges-bug-bounty-programm-pausiert-ki-reports-ueberlasten-open-source-projekte-2604-207325.html), womit auch Projekt wie Node.js betroffen sind. Auch Nextcloud zahlt nun [aus den gleichen Gründen](https://www.golem.de/news/naechste-ki-kapitulation-nextcloud-zahlt-fuer-gemeldete-luecken-keine-praemien-mehr-2604-207914.html) keine Prämien mehr.
+
 ### Arbeitsbedingungen
-* Outsourcing und Ausbeutung: "Es gibt keine KI ohne Datenarbeit"
-  https://netzpolitik.org/2026/outsourcing-und-ausbeutung-es-gibt-keine-ki-ohne-datenarbeit/
-* Mehr arbeiten löst die Wirtschaftskrise nicht – KI zeigt, warum
-  https://www.basicthinking.de/blog/2026/04/24/ki-wirtschaftskrise/
-### Tools
-* Anthropic stellt Claude Design vor: KI-Werkzeug für Prototypen und Webseiten
-  https://www.heise.de/news/Anthropic-stellt-Claude-Design-vor-KI-Werkzeug-fuer-Prototypen-und-Webseiten-11262940.html
-### Liberitäre Ideologie
-* Libertäre Traumwelt: Ein Experiment mit gefährlichem Ausgang
-  https://www.telepolis.de/article/Libertaere-Traumwelt-Ein-Experiment-mit-gefaehrlichem-Ausgang-11255343.html
-### Anwendungen
-* Eine KI-gestützte Diagnose von Hautkrankheiten ist bislang nicht für alle Personengruppen zuverlässig. Ein DFKI-Projekt könnte Abhilfe schaffen
-  https://www.heise.de/news/DFKI-Projekt-KI-generierter-Hautkrebs-11265962.html
-  https://social.heise.de/@heiseonline/116442586204867467
-* ChatGPT erhält neue Bild-KI, die mitdenkt und im Web recherchiert
-  https://www.heise.de/news/ChatGPT-erhaelt-neue-Bild-KI-die-mitdenkt-und-im-Web-recherchiert-11266931.html
-* DeepSeek V4: Der stille Systemwechsel von Nvidia zu Huawei
-  https://www.telepolis.de/article/DeepSeek-V4-Der-stille-Systemwechsel-von-Nvidia-zu-Huawei-11271061.html
-### Alternativen
-* Ein Forscherteam der Tufts University hat eine neuro-symbolische KI entwickelt die den Energiebedarf beim Training um bis zu 99 Prozent reduzieren kann
-  https://www.basicthinking.de/blog/2026/04/06/neuro-symbolische-ki/
-* Brauchen wir noch ChatGPT? 4 KI-Chatbots aus Europa im Überblick
-  https://www.basicthinking.de/blog/2026/04/22/alternativen-zu-chatgpt-chatbots-aus-europa/
+Im Fachgespräch zum Thema Data Labeling wurde im Bundestag erstmals über die Arbeitsbedingungen von Datenarbeiter:innen hinter Künstlicher Intelligenz und Sozialen Medien [diskutiert](https://netzpolitik.org/2026/outsourcing-und-ausbeutung-es-gibt-keine-ki-ohne-datenarbeit/). Beim Labeling und bei der Content Moderation mit traumatisierenden Inhalte konfrontiert, selten Mindestlohn, teilweise ohne Arbeitsvertrag, ohne Sozialversicherung oder ohne Gesundheitsversorgung, Überwachung sowie Verletzung von Datenschutz, Ausbeutungszustände, die nur existieren können, wenn weiterhin in prekäre Beschäftung outgescourct werden kann, nicht nur in Dritte und Vierte Welt Ländern, sondern auch auf Microwork-Plattformen, auf der auch vulnerable Gruppe hierzulande Arbeit suchen. Helfen würde hier das Lieferkettengesetz, nur das wird gerade wieder ausgehöhlt.
 
 ## Recap
 * [Cables of Resistence](https://media.ccc.de/c/cor)
@@ -248,23 +205,13 @@ Das Software-Unternehmen Palantir hat auf X ein "Manifest" [veröffentlicht](htt
 * [LixCon 2026](https://media.ccc.de/c/lixcon2026)
 
 ## Und sonst so?
-* Microsoft veröffentlicht frühesten bekannten DOS-Quellcode
-  https://www.heise.de/news/Microsoft-veroeffentlicht-fruehesten-bekannten-DOS-Quellcode-11277117.html
-* Artemis 2 - Volle Auflösung und Metadaten
-  https://images.nasa.gov/details/art002e009287
-  https://norden.social/@wahlatlas/116365358818496891
+Die Fotos von der Mondmission Artemis 2 sind samt Metadaten von der NASA in voller Auflösung [veröffentlicht worden](https://images.nasa.gov/details/art002e009287).
 
 ## Fristen
 * [Bits & Bäume Community Summit](https://pretalx.wikimedia.de/bitsbaeume2026/cfp), bis 05.05.2026 23:59
 * Bedarfe und Themenideen für den [Campus Citizen Science](https://www.mitforschen.org/campus-citizen-science-2026) 2026 bis 18.05.2026
 * [Berlin Science Week](https://berlinscienceweek.com/de), Einreichungsfrist bis 24.05.2026
 * [Fediday](https://ctalx.c-base.org/fediday-2026/cfp), bis 14.06.2026
-
-## Veranstaltungen zu sortieren
-* Know Your Rights! 🧐 Civic Education and the Classroom: An Open Day at Spore Initiative.
-  https://spore-initiative.org/en/programming/participate/know-your-rights
-* Open Hardware Summit
-  https://2026.oshwa.org  
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Sonntag, 03.05.2026, online: **Digital Independence Day** <a title='Kalendereintrag Digital Independence Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNTAzVDA4MzgzOVoNCkRUU1RBUlQ6MjAyNjA1MDNUMDAwMDAwDQpEVEVORDoyMDI2MDUwM1QyMzU5NTkNClNVTU1BUlk6RGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpLmRheQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
@@ -331,6 +278,8 @@ Das Software-Unternehmen Palantir hat auf X ein "Manifest" [veröffentlicht](htt
   * https://wiki.muc.ccc.de/asm:26:start
 * Samstag, 23.05.2026, 10:00, bis Sonntag, 24.05.2026, 16:00, freiLand Potsdam, Friedrich-Engels-Straße 22, 14473 Potsdam: **MaiSpace 2026** <a title='Kalendereintrag MaiSpace 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTWFpU3BhY2UgMjAyNi8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDUwM1QwODM4MzlaDQpEVFNUQVJUOjIwMjYwNTIzVDEwMDAwMA0KRFRFTkQ6MjAyNjA1MjRUMTYwMDAwDQpTVU1NQVJZOk1haVNwYWNlIDIwMjYNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vY2ZwLmNjYy1wLm9yZy9tYWlzcGFjZS0yMDI2Lw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpmcmVpTGFuZCBQb3RzZGFtXCwgRnJpZWRyaWNoLUVuZ2Vscy1TdHJhw59lIDIyXCwgMTQ0NzMgUG90c2RhbQ0KR0VPOjUyLjM4OTQ1MTsxMy4wNzc3OTQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://cfp.ccc-p.org/maispace-2026/
+* Samstag, 23.05.2026, 09:00, bis Sonntag, 24.05.2026, 17:00, Open Hardware Summit, Straße des 17. Juni 136, 10623 Berlin
+  * https://2026.oshwa.org
 * Mittwoch, 27.05.2026, 19:00-20:30, online: **Community Workshop | Small is beautiful — using, adapting, and building small language models** <a title='Kalendereintrag Community Workshop | Small is beautiful — using, adapting, and building small language models' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ29tbXVuaXR5IFdvcmtzaG9wIHwgU21hbGwgaXMgYmVhdXRpZnVsIOKAlCB1c2luZ1wsIGFkYXB0aW5nXCwgYW5kIGJ1aWxkaW5nIHNtYWxsIGxhbmd1YWdlIG1vZGVscy8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDUwM1QwODM4MzlaDQpEVFNUQVJUOjIwMjYwNTI3VDE5MDAwMA0KRFRFTkQ6MjAyNjA1MjdUMjAzMDAwDQpTVU1NQVJZOkNvbW11bml0eSBXb3Jrc2hvcCB8IFNtYWxsIGlzIGJlYXV0aWZ1bCDigJQgdXNpbmdcLCBhZGFwdGluZ1wsIGFuZCBidWlsZGluZyBzbWFsbCBsYW5ndWFnZSBtb2RlbHMNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vY29ycmVsYWlkLm9yZy92ZXJhbnN0YWx0dW5nZW4vY29tbXVuaXR5X3dzX1NMTV9tYXkNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://correlaid.org/veranstaltungen/community_ws_SLM_may
 * Donnerstag, 28.05.2026, 09:00-16:00, Festsaal im Roten Rathaus, Rathausstraße 15, 10178 Berlin: **Berlin Open Data Day 2026** <a title='Kalendereintrag Berlin Open Data Day 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQmVybGluIE9wZW4gRGF0YSBEYXkgMjAyNi8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDUwM1QwODM4MzlaDQpEVFNUQVJUOjIwMjYwNTI4VDA5MDAwMA0KRFRFTkQ6MjAyNjA1MjhUMTYwMDAwDQpTVU1NQVJZOkJlcmxpbiBPcGVuIERhdGEgRGF5IDIwMjYNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vc3dlYXBldmVudC5jb20vYj9wPWJlcmxpbm9wZW5kYXRhZGF5MjAyNg0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpGZXN0c2FhbCBpbSBSb3RlbiBSYXRoYXVzXCwgUmF0aGF1c3N0cmHDn2UgMTVcLCAxMDE3OCBCZXJsaW4NCkdFTzo1Mi41MTgyNzE4OzEzLjQwNzgzMDg5OTk5OTk5OQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
