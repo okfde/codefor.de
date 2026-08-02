@@ -55,6 +55,8 @@ type: blog
     https://bsky.app/profile/beyond-ideology.bsky.social/post/3mpsmjltmks2a
   * Statement Helen Bielawa (Code for Bielefeld)
     https://www.linkedin.com/posts/helen-bielawa-051902145_das-bundesweite-ifg-droht-beschr%C3%A4nkt-zu-share-7486372282001555456-9ydx/
+  * Statement Barbara Metz (Deutsche Umwelthilfe)
+    https://imginn.com/p/DafSuUNMpGI/
   * "Der Staat schuldet den Bürgern Rechenschaft, nicht umgekehrt"
     https://www.faz.net/premium/einspruch/exklusiv/der-staat-schuldet-den-buergern-rechenschaft-nicht-umgekehrt-201014916.html
   * Kommentar: Ende der Informationsfreiheit: Das berechtigte Interesse des Souveräns
@@ -177,7 +179,7 @@ type: blog
   https://text.tchncs.de/hdvalentin/gebrauchte-technik
 * Ton an: So klingt Berlin an einem Dienstagmorgen - Jeder Lichtpuls ist ein echtes Ereignis aus offenen Daten
   https://mastodon.social/@infranode/116922908283632657
-  https://infranode.dev/?ref=fediverse
+  https://infranode.dev/
 * Warum wir auch 2026 noch über Parlamentsdaten reden müssen
   https://okfn.de/blog/2026/07/warum-wir-auch-2026-noch-%C3%BCber-parlamentsdaten-reden-m%C3%BCssen/
 * GODIN (Global Open Data Integration Network) 
@@ -197,6 +199,9 @@ type: blog
   https://www.linkedin.com/posts/bytethesystem-opendata-openbydata-share-7481290443708747777-uB8k/
 * Online-Konsultation für einen weiterentwickelten Rahmen für Open Data
   https://bmds.bund.de/themen/digitale-wirtschaft/daten/open-data/online-konsultation-open-data
+* Open Data Supertrumpf
+  https://tifa365.github.io/open-data-supertrumpf/
+  via https://norden.social/@datenschatz/117018537337703329
 
 ## Open Science
 * Data Papers 2.0: Reimagining the future of open science and reproducibility
@@ -257,6 +262,9 @@ type: blog
 * Folgt doch mal ein paar Forschungszentren, bevor die denken, ihre Zielgruppe sei auf Instagram zu finden
   https://helmholtz.social/directory
   via https://ruhr.social/@mardor/116922256619496521
+* VHS Fediverse
+  https://fedidevs.com/s/MTA1/
+  via https://vhs.social/@karlsruhe/117016299984916723
 
 ### USA
 * US-Urteil erschüttert das Fundament des transatlantischen Datentransfers
@@ -301,7 +309,7 @@ type: blog
 * Mit DEUKOS lassen sich die amtlichen 3D-Geodaten aller 16 Bundesländer erstmals über einen einheitlichen Workflow nutzen.
   https://www.linkedin.com/posts/gerd-knobling-35400122_jedes-bundesland-stellt-seine-geodaten-anders-share-7483577961762447360-6vNF/
 * Offene Geodaten für Winterthur: Wir unterstützen "Open by Default"
-  https://www.linkedin.com/posts/winterthur-opengovernmentdata-ogd-share-7482688857398927360-G5HZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAE1E7kBK7jlfeaqVLGSFQVifXYiLOqhCBQ
+  https://www.linkedin.com/posts/winterthur-opengovernmentdata-ogd-share-7482688857398927360-G5HZ/
 
 ## Mobilität
 * Wenn die Hitze die Straßenbahn stoppt: Leipzigs Straßenbahnnetz als Warnsignal für klimaresiliente Infrastruktur
@@ -341,6 +349,9 @@ type: blog
   https://www.linkedin.com/posts/valentin-gau%C3%9F-waiblingen_mobidata-opendata-mobilitaeutswende-share-7485342596219863040-riYI/
 * Die Berliner Platte: Mobilitätsdaten zum Anfassen
   https://citylab-berlin.org/blog/die-berliner-platte-mobilitaetsdaten-zum-anfassen/
+* ZDF-Doku „Unsere Bahn: geliebt, verflucht – gefährlich?“
+  https://mediathekviewweb.de/#query=Unsere%20Bahn%3A%20geliebt%2C%20verflucht%20%E2%80%93%20gef%C3%A4hrlich
+  via https://digitalcourage.social/@padeluun/117016009001852875
 
 ## Energie
 * Hunderte Milliarden Euro an Klimaschäden durch deutschen Solarstrom gespart
@@ -504,6 +515,10 @@ type: blog
   https://www.demokrateam.org
 * "Die größte Gefahr für die Demokratie geht derzeit von der Mitte aus"
   https://perspective-daily.de/article/5070-die-groesste-gefahr-fuer-die-demokratie-geht-derzeit-von-der-mitte-aus/probiere
+* Taktisch Wählen
+  https://taktisch-waehlen.de
+* Bündnis Ost
+  https://buendnisost.de
 
 ## Journalismus
 * Studie belegt: Wie BILD mit dem erfundenen "Heizungshammer" unsere Politik manipulierte
@@ -521,6 +536,8 @@ type: blog
   https://www.blaetter.de/ausgabe/2026/august/halbloyale-demokraten-wie-die-radikalitaet-der-afd-normalisiert-wird
 * oekom media impact hub: Das Ökosystem zur Unterstützung gemeinwohlorientierter Medienakteure & Startups.
   https://oekom-hub.de
+* Reine Ansichtssache
+  https://www.reine-ansichtssache.org
 
 ## Überwachung
 * Der Vorschlag, Cookie-Banner über den DigitalOmnibus abzuschaffen, soll gestrichen werden.
@@ -711,6 +728,8 @@ type: blog
   * https://di.day
 * Dienstag, 08.09.2026, 14:00-15:00, online: **Replication Games: Advancing Reproducibility with Open and Restricted Access Data** <a title='Kalendereintrag Replication Games: Advancing Reproducibility with Open and Restricted Access Data' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vUmVwbGljYXRpb24gR2FtZXM6IEFkdmFuY2luZyBSZXByb2R1Y2liaWxpdHkgd2l0aCBPcGVuIGFuZCBSZXN0cmljdGVkIEFjY2VzcyBEYXRhLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwODAxVDE5MTcxNloNCkRUU1RBUlQ6MjAyNjA5MDhUMTQwMDAwDQpEVEVORDoyMDI2MDkwOFQxNTAwMDANClNVTU1BUlk6UmVwbGljYXRpb24gR2FtZXM6IEFkdmFuY2luZyBSZXByb2R1Y2liaWxpdHkgd2l0aCBPcGVuIGFuZCBSZXN0cmljdGVkIEFjY2VzcyBEYXRhDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL29wZW5lY29ub21pY3MuemJ3LmV1L2NvZmZlZS1sZWN0dXJlcy1vbi1vcGVuLXNjaWVuY2UtZWR1Y2F0aW9uLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://openeconomics.zbw.eu/coffee-lectures-on-open-science-education/
+* Mittwoch, 09.09.2026, 09:30-17:00, MIZ Babelsberg, Stahnsdorfer Straße 107, 14482 Potsdam: **Inspiration Day 2026** <a title='Kalendereintrag Inspiration Day 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSW5zcGlyYXRpb24gRGF5IDIwMjYvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA4MDJUMTAyNzUzWg0KRFRTVEFSVDoyMDI2MDkwOVQwOTMwMDANCkRURU5EOjIwMjYwOTA5VDE3MDAwMA0KU1VNTUFSWTpJbnNwaXJhdGlvbiBEYXkgMjAyNg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9taXotYmFiZWxzYmVyZy5kZS92ZXJhbnN0YWx0dW5nZW4va2FsZW5kZXIvZGV0YWlscy9pbnNwaXJhdGlvbi1kYXktMjAyNi5odG1sDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOk1JWiBCYWJlbHNiZXJnXCwgU3RhaG5zZG9yZmVyIFN0cmHDn2UgMTA3XCwgMTQ0ODIgUG90c2RhbQ0KR0VPOjUyLjM5MTI5MzI7MTMuMTIyNzExDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
+  * https://miz-babelsberg.de/veranstaltungen/kalender/details/inspiration-day-2026.html
 * Regelmäßige OKLab-Treffen
   * Berlin: jeden zweiten oder dritten Montag im Monat, 19:00-22:00, WikiBär, Köpenicker Straße 45, 10179 Berlin: **Code for Berlin** <a title='Kalendereintrag Code for Berlin' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vQ29kZSBmb3IgQmVybGluLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjUwNjI5VDExMjkyM1oNCkRUU1RBUlQ6MjAyNTA3MjFUMTkwMDAwDQpEVEVORDoyMDI1MDcyMVQyMjAwMDANClNVTU1BUlk6Q29kZSBmb3IgQmVybGluDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy5tZWV0dXAuY29tL29rLWxhYi1iZXJsaW4NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046V2lraULDpHJcLCBLw7ZwZW5pY2tlciBTdHJhw59lIDQ1XCwgMTAxNzkgQmVybGluDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
     * https://www.meetup.com/ok-lab-berlin
