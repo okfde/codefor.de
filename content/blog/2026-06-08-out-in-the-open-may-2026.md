@@ -42,81 +42,19 @@ Moritz Kuhn hat sich [in seiner Datengeschichte](https://www.datawrapper.de/blog
 
 Die Open Data Informationsstelle Berlin (ODIS) hat die von der Berliner Polizei veröffentlichten genauen Lagekarten sogenannter kriminalitätsbelasteter Orte [einer Datenanalyse unterzogen](https://odis-berlin.de/aktuelles/2026-05-15-kbo-datenrecherche-blogpost/). Dabei stellte sich schon die Frage, nach welchen Kriterien Orte überhaupt als kriminalitätsbelastet klassifiziert wurden, wirklich evidenzbasiert oder doch nur den klischeehaften teils rassistischen Darstellungen in Medien und Öffentlichkeit folgend? Um eine Vergleichbarkeiten zwischen Stadtteilen wird oft mit Fallzahlen gearbeitet, doch diese differenzieren nicht nach Schwere der begangenen Delikte. Auch statistische Effekte wie z.B. der Rückgang von Fallzahlen nach der Legalisierung von Cannabis im April 2024 oder die Bevölkerungsdichte werden aus Sicht der Autoren zu wenig kontextualisiert.
 
-## Civic Science
-* Meine Wald KI
-  https://survey123.arcgis.com/share/ab033e05717f4dccae9f203b8d4f7772
-  via https://wisskomm.social/@MeineWaldKI/116600103279194888
-
 ## Digitale Souveränität
-* Digitalsteuer im Blick: EU-Parlament fordert Milliarden-Abgabe für Big Tech
-  https://www.heise.de/news/Digitalsteuer-im-Blick-EU-Parlament-fordert-Milliarden-Abgabe-fuer-Big-Tech-11279452.html
-* Let's Encrypt just temporarily stopped the issuance of certificates after an (so far not publicly disclosed) incident:
-  https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3
-  https://burningboard.net/@Larvitz/116540780286458457
-* AWS & Co.: Die gefährliche Macht der Cloud-Anbieter
-  https://www.greenpeace.de/klimaschutz/klimakrise/die-gefaehrliche-macht-der-cloud-anbieter
-* "Wettlauf nach unten": Karen Hao kritisiert europäischen KI-Kurs
-  https://netzpolitik.org/2026/wettlauf-nach-unten-karen-hao-kritisiert-europaeischen-ki-kurs/
-* Auf einem Berliner Cloud-Gipfel kollidierten komplexe staatliche Architekturvorgaben mit dem Tempo der Open-Source-Community.
-  https://www.heise.de/news/Cloud-KI-Co-Wie-der-Deutschland-Stack-digitale-Souveraenitaet-schaffen-soll-11303221.html
-* digitalrechte.de
-  https://digitalrechte.de
-  via https://chaos.social/@markus_netzpolitik/116617031709471309
-* "Was wäre, wenn Rechenzentren (digitalen) Communities gehören würden statt den großen Konzernen?""
-  https://norden.social/@JohannesStarke/116606361652602622
-* HateAid nach US-Einreiseverbot:
-  https://netzpolitik.org/2026/hateaid-nach-us-einreiseverbot-wir-sollten-nicht-fuerchten-muessen-vor-den-bus-geschubst-zu-werden/
-* AI Forensics gegen BigTech
-  https://netzpolitik.org/2026/ai-forensics-gegen-bigtech-es-kann-zu-vergeltungsmassnahmen-gegen-uns-kommen/
-* Für eine dreistellige Millionensumme sollen SAP und Telekom eine „KI-Cloud“ für die öffentliche Verwaltung bauen. Digitalminister Karsten Wildberger nennt das souverän. Unabhängig wird Deutschlands Verwaltung damit nicht, warnen Opposition und Fachleute.
-  https://chaos.social/@netzpolitik_feed/116645451087572213
-* Die Dominanz von Big Tech erfordert internationale Gegenwehr
-  https://jacobin.de/artikel/big-tech-KI-datacenter-meta-kenia
-* Das BMDS arbeitet an einer Neudefinition von "digitaler Souveränität"
-  https://social.osb-alliance.de/@OSBA/116651679522497597
-* Microsoft-Lizenzen: Bayern macht offenbar einen Rückzieher
-  https://www.golem.de/news/microsoft-lizenzen-bayern-macht-offenbar-einen-rueckzieher-2605-209087.html
-* VW kappt mit API-Änderung Besitzern Zugriff auf eigene Fahrzeugdaten
-  https://www.heise.de/news/VW-kappt-mit-API-Aenderung-Besitzern-Zugriff-auf-eigene-Fahrzeugdaten-11312757.html
-  via https://social.heise.de/@heiseonline/116670053785322855
-* Mitgestaltung ist kein 'Nice-to-have', sondern entscheidend für die Zukunft von wechange.de
-  https://wechange.de/cms/2026/05/29/mitgestaltung-ist-kein-nice-to-have-sondern-entscheidend-fuer-die-zukunft-von-wechange-de/
-* Souveränität ist eine Vergabeentscheidung: Das von SVA angeführte Konsortium mit Codesphere und Schwarz Digits ist unter den Gewinnern der KI-Plattform des BMDS
-  https://www.sva.de/de/news/souveraenitaet-ist-eine-vergabeentscheidung-das-von-sva-angefuehrte-konsortium-mit-codesphere
-  * kritisieren
-* Für 250 Millionen Euro: Bund schafft neue Abhängigkeiten von IT-Konzernen
-  https://netzpolitik.org/2026/fuer-250-millionen-euro-bund-schafft-neue-abhaengigkeiten-von-it-konzernen/
-* Bayrisches Digitalministerium startet Projekt für digitale Souveränität // Minister Dr. Mehring will „souveränen Arbeitsplatz“
-  https://www.stmd.bayern.de/digitalministerium-startet-projekt-fuer-digitale-souveraenitaet-minister-dr-mehring-will-souveraenen-arbeitsplatz/?seite=35680
-* Meet EuroOffice, Europe’s bold alternative to Microsoft 365 promising sovereignty and control
-  https://www.windowscentral.com/software-apps/meet-eurooffice-europes-bold-alternative-to-microsoft-365-promising-sovereignty-and-control
-  via https://bsky.app/profile/dondahlmann.de/post/3mn3tomzubs2t
-* US tech firms share Dutch regulator officials’ names with senate
-  https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/
-### Social Media
-* W Social uncovered: the reality behind the hype
-  https://blog.elenarossini.com/w-social-uncovered-the-reality-behind-the-hype/
-* "Re:publica mit Thema digitale Souveränität, Streams über Youtube, Social Media primär bei Meta und einer Partnerliste wie ein CDU-Parteitag passt sehr gut zur Souveränitätssimulation der deutschen Verwaltungen."
-  https://chaos.social/@moreentropy/116596629501776668
-### Mobile
-* Nicht-Androids ausgeschlossen
-  https://plexus.techlore.tech
-  https://nrw.social/@mo3hr3/116534341534880956
-* Gibt es ein Archiv um an alte /e/OS oder #LineageOS Images zu kommen, wo die Geräte heute nicht mehr unter support stehen, es aber damals official gab?
-  https://lineage-archive.timschumi.net
-  https://chaos.social/@ex/116566416040486623
-* Google plant ab September 2026 alle Android-Apps zu sperren, deren Entwicklerinnen und Entwickler sich dort nicht registriert, einen Vertrag unterzeichnet und bezahlt haben.
-  https://social.sachsen.de/@sdtb/116640210154115229
+### Deutschland
+Nach dem der Freistaat Bayern unter Führung des Finanzminsteriums eigentlich Verträge mit Microsoft aushandeln wollte, um Kommunen und Behörden mit MS Office 365 auszustatten, wurden diese Pläne nach interner und öffentlicher Kritik [nun doch fallen gelassen](https://www.golem.de/news/microsoft-lizenzen-bayern-macht-offenbar-einen-rueckzieher-2605-209087.html). Der Beschluss von der Ministerpräsidentenkonferenz, dass bis April 2027 Arbeitsplatzrechner mit digital souveräne Software-Alternativen auszustatten sind, hat sicherlich auch dazu beigetragen. Das bayrische Digitalministerium ist nun [damit beauftragt](https://www.stmd.bayern.de/digitalministerium-startet-projekt-fuer-digitale-souveraenitaet-minister-dr-mehring-will-souveraenen-arbeitsplatz/?seite=35680), solche Alternativen zu erproben und einzuführen.
 
-## Neofaschismus
-* Willkommen in der Welt der «Dunklen Aufklärer»
-  https://www.republik.ch/2026/05/09/willkommen-in-der-welt-der-dunklen-aufklaerer
-* Was ist Slopaganda?
-  https://www.woz.ch/kolumnen/2026/05/08/slopaganda-was-ist-slopaganda
-* AfD und CDU streichen Fördergelder: "Demokratie Leben" stirbt im Ilm-Kreis
-  https://taz.de/AfD-und-CDU-streichen-Foerdergelder/!6183111/
-* Fördergelder für Anti-Extremismusprojekt gestoppt
-  https://www.tagesschau.de/investigativ/report-mainz/foerderstopp-bmi-radikale-toechter-100.html
+[Digital souverän wird man nicht](https://chaos.social/@netzpolitik_feed/116645451087572213), indem man nur den Sklavenhalter austauscht. Leider folgt man im deutschen Digitalministerium dem Big-is-Beautiful-Narrativ und pampert nun statt amerikanischen Bigtech deutsches Bigtech. [Für 250 Millionen Euro](https://netzpolitik.org/2026/fuer-250-millionen-euro-bund-schafft-neue-abhaengigkeiten-von-it-konzernen/) sollen nun zu 70% ein Konsortium aus SAP und Telekom sowie zu 30% ein Konsortium bestehen [unter anderem aus Schwarz Digits (IT-Sparte der Schwarz-Gruppe) und SVA](https://www.sva.de/de/news/souveraenitaet-ist-eine-vergabeentscheidung-das-von-sva-angefuehrte-konsortium-mit-codesphere) eine "KI-Cloud" für die öffentliche Verwaltung bauen. Aber Souveränität ist ja am Ende auch nur eine Definitionssache, deswegen wird die nun vom Digitalministerium auch [neudefiniert](https://social.osb-alliance.de/@OSBA/116651679522497597).
+
+Während der Deutschland-Stack der Bundesregierung nicht hinterher kommt, das im Rahmen zweier Konsultationsverfahren eingereichte kritische Feedback (inklusive gefundener Probleme in den öffentlichen Entwicklungs-Repositorien) abzuarbeiten, hat die Open Source Wirtschaft auf dem  Sovereign Cloud Stack (SCS) Summit in Berlin Interoperabilitäts-Zertifizierungen für Container-Umgebungen [angekündigt](https://www.heise.de/news/Cloud-KI-Co-Wie-der-Deutschland-Stack-digitale-Souveraenitaet-schaffen-soll-11303221.html).
+
+### BigTech und Gegenwehr
+So lange die EU den Skalierungs-Narrativen der KI-Politik der USA [blind hinterherhechelt](https://netzpolitik.org/2026/wettlauf-nach-unten-karen-hao-kritisiert-europaeischen-ki-kurs/), statt bewusst einen eigenen Weg zu beschreiten, z.B. auf kleine spezialisierte KI-Modelle setzen und in den eigenen Wissensaufbau zu investieren, so lange viel von einer [Digitalsteuer für Big Tech](https://www.heise.de/news/Digitalsteuer-im-Blick-EU-Parlament-fordert-Milliarden-Abgabe-fuer-Big-Tech-11279452.html) zwar gesprochen wird, man im Handelsstreit wohl doch Zolldrohungen kleinbeigeben würde, so lange man es sich gefallen lässt, dass Vertreterinnen europäischer Organisationen [mit Kontosperrungen und US-Einreiseverbot belegt werden](https://netzpolitik.org/2026/hateaid-nach-us-einreiseverbot-wir-sollten-nicht-fuerchten-muessen-vor-den-bus-geschubst-zu-werden/) und US-Tech-Firmen die Namen von EU-Reguliersbeamten an den US-Senat [weitergegeben werden](https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/), so lange Personal fehlt, um den Digital Service Act durchzusetzen (und unterstützende Zivilgesellschaft [kaum geschützt wird](https://netzpolitik.org/2026/ai-forensics-gegen-bigtech-es-kann-zu-vergeltungsmassnahmen-gegen-uns-kommen/)), so lange bleibt die Macht von BigTech ungebrochen und unsere Abhängigkeit bestehen, schädliches Verhalten, sei es [im Umweltbereich](https://www.greenpeace.de/klimaschutz/klimakrise/die-gefaehrliche-macht-der-cloud-anbieter) oder [bei Arbeitsrechten](https://jacobin.de/artikel/big-tech-KI-datacenter-meta-kenia), ungesühnt. Mit dem [Zentrum für Digitalrechte und Demokratie](https://digitalrechte.de/) gibt es eine neue Initiative [von Markus Beckedahl](https://chaos.social/@markus_netzpolitik/116617031709471309), um einen Gegenöffentlichkeit zu schaffen, ob sie die breiten Massen erreicht, wird sich zeigen. Dass die re:publica aus Finanzierungs- und Sichtbarkeitszwängen über YouTube streamt, über Instagram teilt und sich von Firmen sponsern lässt, die auch die [Partnerliste eines CDU-Parteitags](https://chaos.social/@moreentropy/116596629501776668) hätte sein können. spricht Bände, auch wenn dadurch sicherlich auch kritische Formate umgesetzt werden konnten, das Dilemma bleibt.
+
+### Mobile
+Digital souverän auf dem Android-Handy zu sein, wird verunmöglicht, wenn Apps von Behörden nur Original-Google-Android als Betriebssystem [unterstützen wollen](https://nrw.social/@mo3hr3/116534341534880956). Auf [Plexus](https://plexus.techlore.tech) wird von der Community gepflegt, welche Apps auch entgooglisierten Androids laufen. Generell ist es immer noch [eine Herausforderung](https://chaos.social/@ex/116566416040486623), das eigene (ältere) Handy-Modell mit einem lauffähigen alternativen Betriebssystem zu matchen. Für LineageOS gibt es zu mindestens ein [Build Archiv](https://lineage-archive.timschumi.net). Dabei sind solche Betriebssysteme der einige Weg, um auch Apps nutzen zu können, deren Entwickler sich nicht [dem Registrierungszwang von Google](https://social.sachsen.de/@sdtb/116640210154115229), der ab September 2026 greift, unterwerfen wollen.
 
 ## Open Source
 * FCast
@@ -233,6 +171,9 @@ Die Open Data Informationsstelle Berlin (ODIS) hat die von der Berliner Polizei 
 * Der Potsdamer Linke-Aktivist Eric Wätke hat derweil auf eigene Initiative gezeigt, wie es besser gehen könnte: Unter potsdam.transparenz.cool hat er eine interaktive Karte entwickelt, auf der geplante Radwegmaßnahmen sichtbar sind.
   potsdam.transparenz.cool 
   https://www.tagesspiegel.de/potsdam/landeshauptstadt/neues-radwegekonzept-in-potsdam-linke-kritisiert-burgerbeteiligung--und-bietet-hilfe-an-15559694.html
+* VW kappt mit API-Änderung Besitzern Zugriff auf eigene Fahrzeugdaten
+  https://www.heise.de/news/VW-kappt-mit-API-Aenderung-Besitzern-Zugriff-auf-eigene-Fahrzeugdaten-11312757.html
+  via https://social.heise.de/@heiseonline/116670053785322855
 
 ## Energie
 * Gaskostenrechner
@@ -442,6 +383,16 @@ Die Open Data Informationsstelle Berlin (ODIS) hat die von der Berliner Polizei 
   https://radiocorax.de/d64-zu-presseaehnlichkeitsverbot-und-pflicht-zur-begrenzten-verweildauer-bei-oerr/
   https://d-64.social/@D64eV/116640231577843083
 
+## Neofaschismus
+* Willkommen in der Welt der «Dunklen Aufklärer»
+  https://www.republik.ch/2026/05/09/willkommen-in-der-welt-der-dunklen-aufklaerer
+* Was ist Slopaganda?
+  https://www.woz.ch/kolumnen/2026/05/08/slopaganda-was-ist-slopaganda
+* AfD und CDU streichen Fördergelder: "Demokratie Leben" stirbt im Ilm-Kreis
+  https://taz.de/AfD-und-CDU-streichen-Foerdergelder/!6183111/
+* Fördergelder für Anti-Extremismusprojekt gestoppt
+  https://www.tagesschau.de/investigativ/report-mainz/foerderstopp-bmi-radikale-toechter-100.html
+
 ## Zivilcourage
 * Remonstrationspflicht
   https://www.dbb.de/lexikon/themenartikel/r/remonstrationspflicht.html
@@ -490,6 +441,9 @@ Die Open Data Informationsstelle Berlin (ODIS) hat die von der Berliner Polizei 
   https://www.heise.de/news/Webbrowser-koennen-Informationen-durch-SSD-Zugriffszeiten-ausspaehen-11311895.html
 
 ## No-BrAIner
+* Meine Wald KI
+  https://survey123.arcgis.com/share/ab033e05717f4dccae9f203b8d4f7772
+  via https://wisskomm.social/@MeineWaldKI/116600103279194888
 * KI und das Orakel von Delphi: Warum beide mit Deutung statt Wissen arbeiten
   https://www.telepolis.de/article/KI-und-das-Orakel-von-Delphi-Warum-beide-mit-Deutung-statt-Wissen-arbeiten-11311093.html
 * Jetzt wird Google von der Suchmaschine zur Antwortmaschine
