@@ -12,34 +12,28 @@ type: blog
 ---
 
 ## Open Data
-* Linked Open Data mit CSVW und für Ratsprotokolle
-  https://stefan.bloggt.es/2026/05/linked-open-data-mit-csvw-und-fuer-ratsprotokolle/
-  * CSV on the Web
-    https://csvw.org
-* 4-teilige Guide-Serie geschrieben, wie ihr die Open-Data-Schnittstellen des DWD direkt mit #NodeJS nutzt
-  https://elektroelch.de/blog/wettervorhersagen-mit-daten-des-dwd-teil-1-4-uebersicht/ 
-  via https://mastodon.social/@Latz/116528147563435486
-* The Commodification of Sensitive Open Data
-  https://katinamagazine.org/content/article/open-knowledge/2026/the-commodification-of-sensitive-open-data
-* Pflege-Kernindikatoren: Pflege-Bezirksprofil Berlin-Charlottenburg-Wilmersdorf 2019-2023
-  https://daten.berlin.de/datensaetze/pflege-kernindikatoren-pflege-bezirksprofil-berlin-charlottenburg-wilmersdorf-2019-2023-1667662
-  via https://mastodontech.de/@opendataberlin/116532014420138951
-* Seit heute gibt es auch einen SPARQL Endpunkt für die ZDB (Zeitschriftendatenbank) inklusive der ISIL Adressdatei
-  https://sparql.dnb.de/zdb
-  via https://openbiblio.social/@nabatz/116595622896548036
-* falls man mal irgendwo eine Telefonnummer braucht, die gültig ist, aber wo niemand dran geht:
-  https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Nummerierung/_DL/mittlg148_2021.pdf?__blob=publicationFile&v=1
-  https://mastodon.de/@winniehell/116577286214434702
-* Modeling the impact of research data unavailability on science.
-  https://www.sciencedirect.com/science/article/pii/S1751157726000465
-  https://fediscience.org/@petersuber/116630375801918587
-* Im Rahmen seiner Bachelorarbeit führt Alexander Schratzberger (Uni Salzburg) eine Umfrage zu Open Data, INSPIRE, Copernicus & digitaler Souveränität durch.
-  https://mastodon.social/@datagvat/116639920997978787
-* Prototype Fund Projekte, z.B. Object-Oriented Linked Data (OO-LD): Linked Data Framework auf Basis von JSON-SCHEMA und JSON-LD
-  https://www.prototypefund.de/projects/object-oriented-linked-data-oo-ld
-  https://mastodon.social/@PrototypeFund/116673862280909957
-* Open Data Verordnung in Berlin – wir fordern mehr statt weniger Klarheit!
-  https://okfn.de/blog/2026/05/open-data-verordnung-in-berlin-wir-fordern-mehr-statt-weniger-klarheit/
+### Linked Open Data
+Der W3C-Standard [CSV on the Web (CSVW)](https://csvw.org) definiert, wie sich tabellenförmige Daten mit Semantik anreichern lassen. Eine [Online-Vorlesung](https://www.youtube.com/watch?v=uMEFHSsww6k) des britischen [Open Data Instituts (ODI)](https://theodi.org) zeigt beispielhaft, wie man diesen Reifegrad Schritt für Schritt erreicht. Dazu gehört eben auch der Schritt, das CSV so weit aufzuräumen, dass es sich danach sicher machinell automatisiert weiterverarbeiten lässt, wird gerne von offiziellen Stellen vergessen, [wie Stefan vermutet](https://stefan.bloggt.es/2026/05/linked-open-data-mit-csvw-und-fuer-ratsprotokolle/), auch weil sie immer noch zu selten in die Verlegenheit kommen, selbst mit solchen Daten zu arbeiten.
+
+[Seit dem 1. Juni](https://mastodon.social/@PrototypeFund/116673862194089788) läuft [die nächste Förderperiode](https://www.prototypefund.de/projects/jahrgaenge/jahrgang-02) vom [Prototype Fund](https://www.prototypefund.de). Unterstützt wird in dieser unter anderem [ein Projekt](https://www.prototypefund.de/projects/object-oriented-linked-data-oo-ld), das ein Framework für Software-Entwickler schaffen möchte, das Objekt-Orientierung und Linked Data basierend auf JSON-Schema und JSON-LD miteinander verknüpft.
+
+Die [Zeitschriftendatenbank (ZDB)](https://zdb-katalog.de/index.xhtml) der Deutschen Nationalbibliothek [bietet nun](https://openbiblio.social/@nabatz/116595622896548036) auch eine [SPAQRL-Schnittstelle](https://sparql.dnb.de/zdb) an.
+
+### Open Data in der Praxis
+[Eine vierteilige Blogserie](https://elektroelch.de/blog/wettervorhersagen-mit-daten-des-dwd-teil-1-4-uebersicht/) hat uns Lutz Schröer [vor den Latz geknallt](https://mastodon.social/@Latz/116528147563435486), in der er beschreibt, wie man die Open-Data-Schnittstele des Deutschen Wetterdienstes (DWD) über NodeJS nutzen kann, um über sie einfache Standortsuchen aber den Abruf von 
+[Model Output Statistics-MIX (MOSMIX)](https://www.dwd.de/DE/leistungen/met_verfahren_mosmix/met_verfahren_mosmix.html)-Vorhersagen zu bewerkstelligen.
+
+Gültige Telefonnummern, an die aber garantiert [niemand rangeht](https://mastodon.de/@winniehell/116577286214434702), sind die so genannten ["Drama Numbers"](https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Nummerierung/_DL/mittlg148_2021.pdf?__blob=publicationFile&v=1).
+
+### Open Data in der Forschung
+Im Rahmen seiner Bachelorarbeit ruft Alexander Schratzberger (Uni Salzburg) [dazu auf](https://mastodon.social/@datagvat/116639920997978787), an [seiner anonymen Umfrage](https://forms.office.com/e/qngMnXDWB3) zu Open Data in der europäischen Digital- & Geodatenpolitik, speziell zu Themen wie INSPIRE, Copernicus und digitaler Souveränität teilzunehmen.
+
+Welche ([kaskadierenden](https://fediscience.org/@petersuber/116630375801918587)) Auswirkungen sich ergeben, wenn Forschungsdaten in der Wissenschaft nicht mehr zur Verfügung stehen, hat [dieses Arbeitspapier](https://www.sciencedirect.com/science/article/pii/S1751157726000465) untersucht. Denn man als [Zwerge auf den Schultern von Riesen](https://de.wikipedia.org/wiki/Zwerge_auf_den_Schultern_von_Riesen). profitiert man von den Vorarbeiten anderer. Sind deren Ergebnisse nicht mehr nachvollziehbar, geht Zeit dafür verloren, sie mühevoll selbst neu zu reproduzieren, statt diese in die Gewinnung neuer Erkenntnisse auf Basis dieser stecken zu können.
+
+### Schutzbedürftigkeit von offenen Daten
+Die (ökonomischen) Begehrlichkeiten, die z.B. der zu schaffende Europäische Gesundheitsdatenraum weckt, sollten nicht einfach über die Rechte derer hinweggehen, aus deren Datensätze sich dieser speist. Dafür reicht eine individuelle Opt-Out-Möglichkeit nicht mehr aus. Vertretungsgruppen der Betroffenen sollten stattdessen [in die Lage versetzt werden](https://katinamagazine.org/content/article/open-knowledge/2026/the-commodification-of-sensitive-open-data), nicht nur auszuhandeln, welche Datenattribute nicht erfasst bzw. nachträglich entfernt werden, sondern auch sicherzustellen, dass die erzielten wirtschaftlichen Vorteile auch zurück an die Gemeinschaft fließen und nicht nur in die Taschen Weniger. Unter solchen Umständen ist dann auch die Bereitschaft größer, (auch persönliche) Daten zu teilen, wenn durch sie die notwendige Transparenz entsteht, zu einem gesamtgesellschaftlichen Nutzen beizutragen.
+
+Als Reaktion (oder willkommenen Vorwand) auf den Angriff auf die kritische Infrastruktur Berlins Anfang des Jahres wurden vom Berliner Abgeordnetenhaus Ende März nicht nur die stark kritisierten Einschränkungen des Berliner Informationsfreiheitsgesetzes durchgedrückt, sondern auch die dort definierten generellen Bereichsausnahmen in der Open Data Verordnung für proaktive Veröffentlichungen übernommen. Erfahrungen aus der Vergangenheit haben bereits gezeigt, dass Behörden unklare Gesetzes-Formulierungen gerne nutzen, um sich vor Veröffentlichungspflichten zu drücken. So breit, wie die KRITIS-Sektoren gefasst sind und der Umstand, das geheim gehalten wird, was überhaupt zu KRITIS gehört, eröffnet eben genau diese Unklarheit. Die Open Knowledge Foundation Deutschland [fordert daher](https://okfn.de/blog/2026/05/open-data-verordnung-in-berlin-wir-fordern-mehr-statt-weniger-klarheit/), die in der IFG-Änderung eingeführten Bereichsausnahmen nicht als pauschale Ausschlusskategorien in der Open-Data-Praxis fortzuschreiben. Entsprechend sollten in der Open Data Verordnung bestimmte Formulierungen wie z.B. "Informationen dürfen nicht bereitgestellt werden, ..." durch "" ersetzt werden durch z.B. "Informationen sind von einer Veröffentlichungspflicht ausgenommen, wen ...", die also klar machen, dass offene Daten kein Nice-to-have und die Ausnahmen eng gesteckt sind. Auch der Ausnahmebestand "Bodenpreise" lässt viel zu viel Interpretationsspielraum und sollte daher wieder gestrichen werden.
 
 ### Datenjournalismus
 * Durchsuchbare NSDAP-Mitgliederkartei hinter Paywall

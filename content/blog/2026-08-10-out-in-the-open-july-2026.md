@@ -254,6 +254,8 @@ type: blog
   https://www.basicthinking.de/blog/2026/07/20/ki-modelle-deutsche-unternehmen/
 * Digitale Souveränität im Verwaltungsalltag: Was bedeutet das konkret?
   https://citylab-berlin.org/blog/digitale-souveraenitaet-im-verwaltungsalltag-was-bedeutet-das-konkret/
+* Kriterien für Digitale Souveränität
+  https://souveränitätscheck.de
 
 ### Fediverse
 * How to get started as software developer for fediverse integration / software
@@ -291,6 +293,8 @@ type: blog
   https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-launches--public-interest-technology--pit--crew--t
 * Mit dem Abschluss des Vorprojekts „Datenlandkarte föderal“ liegt erstmals ein föderal nachnutzbarer Ansatz zur Beschreibung und Vernetzung von Datenressourcen in der öffentlichen Verwaltung vor.
   https://www.linkedin.com/posts/itplr-gemeinsamwirksam-digitalstrategie-share-7485292719431430145-MtaS/
+* eGovernment Podcast Monatsschau 07/26
+  https://egovernment-podcast.com/egov272-monatsschau-07-26/
 
 ## Karten
 * Weekly OSM 16.7.
@@ -519,6 +523,11 @@ type: blog
   https://taktisch-waehlen.de
 * Bündnis Ost
   https://buendnisost.de
+* Wahlen
+  * Wahlomat Sachsen-Anhalt
+    https://www.wahl-o-mat.de/sachsenanhalt2026/app/main_app.html
+  * weitere Wahlomaten folgen
+    https://archiv.wahl-o-mat.de
 
 ## Journalismus
 * Studie belegt: Wie BILD mit dem erfundenen "Heizungshammer" unsere Politik manipulierte
@@ -684,10 +693,14 @@ type: blog
 * Totale/Partielle Sonnenfinsternis Schattenverlauf am 12.8.
   https://datajournal.org/eclipse-2026/de/
   via https://chaos.social/@michaelkreil/117003257065398473
+  * Lange Nacht der Astronomie
+    https://www.lange-nacht-der-astronomie.de
 
 ## Fristen
 * NooK, bis 28.09.2026
   https://chaotikum.org/blog/2026/07/19/nook-2026-cfp/
+* Open Source Multitudes, CfP bis September 2026
+  https://open-source-multitudes.de/call-for-participation/
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Sonntag, 02.08.2026, online: **Digital Independence Day** <a title='Kalendereintrag Digital Independence Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwODAxVDE5MTcxNloNCkRUU1RBUlQ6MjAyNjA4MDJUMDAwMDAwDQpEVEVORDoyMDI2MDgwMlQyMzU5NTkNClNVTU1BUlk6RGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpLmRheQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
