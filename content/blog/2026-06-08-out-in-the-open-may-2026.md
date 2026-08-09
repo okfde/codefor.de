@@ -57,55 +57,35 @@ So lange die EU den Skalierungs-Narrativen der KI-Politik der USA [blind hinterh
 Digital souverän auf dem Android-Handy zu sein, wird verunmöglicht, wenn Apps von Behörden nur Original-Google-Android als Betriebssystem [unterstützen wollen](https://nrw.social/@mo3hr3/116534341534880956). Auf [Plexus](https://plexus.techlore.tech) wird von der Community gepflegt, welche Apps auch entgooglisierten Androids laufen. Generell ist es immer noch [eine Herausforderung](https://chaos.social/@ex/116566416040486623), das eigene (ältere) Handy-Modell mit einem lauffähigen alternativen Betriebssystem zu matchen. Für LineageOS gibt es zu mindestens ein [Build Archiv](https://lineage-archive.timschumi.net). Dabei sind solche Betriebssysteme der einige Weg, um auch Apps nutzen zu können, deren Entwickler sich nicht [dem Registrierungszwang von Google](https://social.sachsen.de/@sdtb/116640210154115229), der ab September 2026 greift, unterwerfen wollen.
 
 ## Open Source
-* FCast
-  https://github.com/futo-org/fcast
-  https://toot.fedilab.app/@apps/116546188818869831
-* Little Webby Press
-  https://little.webby.press/#!/press
-  https://social.soapdog.org/@soapdog/statuses/01KS4WN54P7FV34NZTHJ1K2P1M
-* Dumb Ways for an Open Source Project to Die
-  https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html
-* Firefox Just Saved Us All from Spammy Online PDF Tools
-  https://itsfoss.com/firefox-pdf-merge/
+[FCast](https://fcast.org) ist eine [Open-Source-Protokoll-Alternative](https://github.com/futo-org/fcast) zu Chromecast und AirPlay, die von Apps wie [CastLab](https://codeberg.org/tom79/CastLab) bereits unterstützt wird, um Videos [unabhängig vom TV-Gerät](https://toot.fedilab.app/@apps/116546188818869831) zu streamen.
+
+Mit [Little Webby Press](https://little.webby.press/) ist ein Open-Source-eBook-Generator, der aus Markdown-, Asciidoctor-, oder ReStructuredText-Dateien entweder eine epub-Datei oder eine zip-Datei aus HTML-Dateien [erzeugt](https://social.soapdog.org/@soapdog/statuses/01KS4WN54P7FV34NZTHJ1K2P1M), ohne dass man sich dafür einen Account anlegen muss.
+
+Um PDF-Dokumente zusammenzufügen, brauchte man bisher immer extra Lösungen (z.B. PDF-Printer oder werbeverseuchte Online-Dienste), ab Firefox Version 151 kann man nun PDF-Dateien [im Browser mergen](https://itsfoss.com/firefox-pdf-merge/)
+
+Andrew Nesbitt hat alle erdenkliche Weisen, wie ein Open-Source-Projekt sterben kann, [aufgeschrieben](https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html).
 
 ### LibreOffice
-* Zoff um Open-Source-Office-Lösungen
-  https://peertube.heise.de/w/57a8c2f8-e147-4dd7-91ef-27aaf8c311e2  
-* LibreOffice greift Google Docs und Microsoft 365 an
-  https://www.heise.de/news/Kurswechsel-LibreOffice-fuer-Browser-und-Smartphone-kommt-11309343.html
-* Kommentar: Mehr Office-Chaos, bitte
-  https://www.heise.de/meinung/Kommentar-Mehr-Office-Chaos-bitte-11311055.html
-  
+LibreOffice, Collabora, OnlyOffice und nun auch [Euro-Office](https://snoo.at/posts/euro-office.html) machen irgendwie das gleiche, so dass es von außen wie unnötige doppelte Arbeit, Kleinstaaterei und Ressourcenverschwendung wirkt. [Moritz Förster sieht darin aber die Stärke](https://www.heise.de/meinung/Kommentar-Mehr-Office-Chaos-bitte-11311055.html), dass so verschiedene Ideen parallel ausprobiert werden können, denn welche technische Ausrichtung sich am Ende als die Richtige herausstellt (z.B. WebAssembly vs. Server), weiß man vorab nicht. Und wie bei [Biodiversität](https://de.wikipedia.org/wiki/Biodiversit%C3%A4t) machen verschiedene Alternativen resilienter gegenüber sich verändernden Umständen.
 
-## Digitalisierung
-* Wie Augsburg mit smarten Bäumen, intelligenter Verkehrsführung und digitaler Bürgerbeteiligung die Stadt der Zukunft gestaltet
-  https://telemetrydeck.my.canva.site/augsburg-digital
-* Ende 2026 wird der letzte juristische Schritt vollzogen, die 2012 gestartete De-Mail aus dem Verkehr zu ziehen
-  https://www.heise.de/hintergrund/Missing-Link-Aus-fuer-De-Mail-warum-das-das-eingekringelte-e-besiegte-11305218.html
-* Die viel beworbenen "Datenlabore" in allen Bundesministerien stellen sich als Flop heraus, berichtet Tagesspiegel Background heute.
-  https://chaos.social/@stk/116646948941396852
-* Ein Jahr nach Gründung: Im Digitalministerium sind immer noch mehr als 100 Stellen unbesetzt
-  https://www.tagesspiegel.de/politik/ein-jahr-nach-grundung-im-digitalministerium-sind-immer-noch-mehr-als-100-stellen-unbesetzt-15581413.html
-* Bürger-Hackathon soll Verwaltung vereinfachen
-  https://www.zeit.de/news/2026-05/18/buerger-hackathon-soll-verwaltung-vereinfachen
+Nachdem LibreOffice zuletzt auf Grund des Konflikts über Stimmrechte und Arbeitslast zwischen Hauptentwicklerteam von Collabora und der Document Foundation (TDF) im Fokus stand, versucht die Stiftung [nun wieder vor die Welle zu kommen](https://www.heise.de/news/Kurswechsel-LibreOffice-fuer-Browser-und-Smartphone-kommt-11309343.html) und hat deswegen ein eigenes Team für Mobile-, Cloud- und Peer-to-Peer-Entwicklung gegründet, dass LibreOffice zusätzlich zum reinen Desktop-Einsatz auch für den Betrieb im Webbrowser, auf dem Smartphone und zum kollaboratives Arbeiten fit machen soll. So will man auch eine ernstzunehmende Alternative zu Google Docs und Microsoft 365 werden.  
+
+## Verwaltungs-Digitalisierung
+Im Digitalministerium warten [mehr als 100 Stellen](https://www.tagesspiegel.de/politik/ein-jahr-nach-grundung-im-digitalministerium-sind-immer-noch-mehr-als-100-stellen-unbesetzt-15581413.html) noch immer auf ihre Besetzung.
+
+Der Bundesrechnungshof [kritisiert](https://www.bundesrechnungshof.de/SharedDocs/Downloads/DE/Berichte/2026/datenlabore-1-volltext.pdf?__blob=publicationFile&v=2) die mangelnde Umsetzung der im Januar 2021 von der Bundesregierung beschlossenen Datenstrategie vorgesehenen Datenlabore. Denn ohne Data Governance in den meisten Bundesbehörden fehlt weiterhin ein wesentlicher Baustein für datenbasiertes Verwaltungshandeln. Des Weiteren wird die Gremienstruktur der Datenlabore kritisiert. Außerdem wurde oftmals keine Analyse der bestehenden Prozesse vorgenommen und die Rolle eines Open-Data-Koordinators (ODK) nicht ausgeprägt.
+
+Die 2012 schon mit vielen Konzeptionsfehlern als rechtsverbindliche Behördenmailsystem gestartete De-Mail wird zum 31. Dezember 2026 mangels Erfolg nun [endgültig eingestellt](https://www.heise.de/hintergrund/Missing-Link-Aus-fuer-De-Mail-warum-das-das-eingekringelte-e-besiegte-11305218.html).
+
+So lange oberflächliches großes Show-Abziehen und Hochglanz-Marketing-Kampagnen wichtiger sind, als das tatsächliche Bohren dicker Bretter, dann braucht man sich nicht wundern, dass die Verwaltungsdigitalisierung hierzulande kaum vom Fleck kommt. Auch der nun von Digitalministerium und der, bisher ihren eigenen Ansprüchen weit hinterher hinkenden Bundesagentur für Sprung-Innovation (SPRIN-D), [initiierte Bürger-Hackathon](https://www.zeit.de/news/2026-05/18/buerger-hackathon-soll-verwaltung-vereinfachen) gerahmt von Seiten wie [Deutschland, was geht](https://www.deutschland-was-geht.org) und dem [EinfachMachen-Portal](https://einfach-machen.gov.de), aus dem die besten Lösungen 2027 in die Bundesverwaltung [eingeführt werden sollen](https://www.sprind.org/deutschland-was-geht-mission), steht jetzt schon im Verdacht, wieder viel Geld für viel heiße Luft zu verbrennen.
+
 ### KI wird uns alle retten
-* Statt Datenstrategie: Digitalministerium will KI-Agenten für die Verwaltung
-  https://netzpolitik.org/2026/statt-datenstrategie-digitalministerium-will-ki-agenten-fuer-die-verwaltung/
-* Digitalministerkonferenz: Wildberger will Datenschutz für KI-Einsatz in der Verwaltung schleifen  
-  https://netzpolitik.org/2026/digitalministerkonferenz-wildberger-will-datenschutz-fuer-ki-einsatz-in-der-verwaltung-schleifen/
-* Digitales Gremienmanagement in deutschen Großstadten, Ratsinformationssysteme, Datenstrukturen und KI-Potenziale.
-  https://www.linkedin.com/posts/ertan-%C3%B6zcan-73bb3399_%F0%9D%97%A3%F0%9D%97%BF%C3%A4%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB%F0%9D%98%80%F0%9D%98%83%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%B4%F0%9D%97%B2-%F0%9D%98%87%F0%9D%98%82%F0%9D%97%BA-activity-7457503674861428736-Eb--
+Wissen strukturiert zu erfassen, wäre schon eine tolle Sache, denn viele Informationen stecken noch in physischen und digitalisierten Akten, PDF- und Word-Dokumenten, schlecht durchsuchbar, da nicht aufbereitet und nicht mit semantischen Daten angereichert. Aber wer Ordnung hält, ist ja eh nur zu faul zum Suchen, und warum den Daten-Messis ein bisschen Ordnung beibringen, [wenn das doch die KI einem abnehmen kann](https://netzpolitik.org/2026/statt-datenstrategie-digitalministerium-will-ki-agenten-fuer-die-verwaltung/). Gut, die ganzen LLM-Chatbots arbeiten nicht regelbasiert sondern auf statistischen Wahrscheinlichkeit und machen entsprechend Fehler (laut einer Studie der Europäischen Rundfunkunion im Oktober 2025 liegt die Fehlerquote bei etwa 45 Prozent), aber wer es bequem haben möchte, muss da eben Kompromisse machen, nicht wahr? Geistig arm, aber KI-sexy. Und lästige Hindernisse wie Datenschutz kann man dabei [gleich auch noch aus dem Weg räumen](https://netzpolitik.org/2026/digitalministerkonferenz-wildberger-will-datenschutz-fuer-ki-einsatz-in-der-verwaltung-schleifen/).
+
 ### Spark
-* Was ist eigentlich die SPARK-Plattform?
-  https://stefan.bloggt.es/2026/05/was-ist-eigentlich-die-spark-plattform/
-  https://mastodon.social/@stk@chaos.social/116563793881031690
-* Anfrage nach den Kosten von SPARK 
-  https://fragdenstaat.de/anfrage/haushaltsmittel-fuer-die-spark-plattform/
-  https://chaos.social/@stk/116563464145500482
-* Der Löwenanteil des Systems ist bislang einfach noch gar nicht auf OpenCoDE
-  https://chaos.social/@stk/116611844685580740
-* In den meisten aktuellen Einsatzszenarien in der Öffentlichen Verwaltung aber auch in Unternehmen ist "KI" das Gegenteil von Innovation.
-  https://www.linkedin.com/posts/tante_was-ist-eigentlich-die-spark-plattform-activity-7462087739015049216-TrZj/
+Ob der Funke (englisch: Spark) noch überspringt? Zu mindestens ist Spark ein beliebter Name für technische Systeme (z.B. bei [Apache Spark](https://de.wikipedia.org/wiki/Apache_Spark)). [SPARK](https://bmds.bund.de/themen/kuenstliche-intelligenz/ki-in-der-verwaltung/spark) heißt jedenfalls nun auch die zu entwickelnde KI-Plattform des Bundes, die [Open-Source KI-Module](https://gitlab.opencode.de/bmds/planungs-und-genehmigungsbeschleunigung) für die öffentliche Verwaltung bieten soll (der Großteil des System ist allerdings [noch gar nicht](https://chaos.social/@stk/116611844685580740) Open Source gestellt). Stefan hat sich das mal [etwas näher angesehen](https://stefan.bloggt.es/2026/05/was-ist-eigentlich-die-spark-plattform/). Im Grunde konvertiert das System in der jetzigen Ausbaustufe eingeworfene Antragsdokumente (unterstützt werden DOCX, PDF und PPTX) in Markdown-Dateien, um diese mit vorgefertigten Prompts im LLM auf Konsistenz und Plausibilität prüfen zu wollen. Womit sich seine Aussage, dass sich Antragsverfahren durch Agentic-AI-Systeme wie SPARK "um bis zu 80% beschleunigen lassen", belegen ließe, konnte der in einer Fragerunde mit dem Digitalministeriumsvertretern jedenfalls nicht überzeugend beantwortet werden. Überhaupt scheint es keine Prüfmarken zu geben, an Hand deren sich der Erfolg oder eben auch Nicht-Erfolg des Systems überhaupt messen ließe. Antworten, die möglichwerweise die Bevölkerung zu sehr verunsichern würden, genauso wie die Antwort auf [die IFG-Frage](https://fragdenstaat.de/anfrage/haushaltsmittel-fuer-die-spark-plattform/), wie viel SPARK denn überhaupt gekostet hat.
+
+[Es bleibt festzustellen](https://www.linkedin.com/posts/tante_was-ist-eigentlich-die-spark-plattform-activity-7462087739015049216-TrZj/): "In den meisten aktuellen Einsatzszenarien in der Öffentlichen Verwaltung aber auch in Unternehmen ist KI das Gegenteil von Innovation". Lieber weiter so mit den kaputten Prozessen und Denkweisen, die man mit KI-Kleister übermalt hat, damit das nicht so auffällt. Und warum sich unnötig mit dem Aufwand belasten, Probleme tatsächlich lösen zu wollen, wenn man beim nächsten Schnittchen-Event mit wichtigtuerischen Palaver auch so reüssieren kann.
 
 ## Politik
 * Sammlung von Links zu politischen Entitäten, die im Fediverse präsent sind.
