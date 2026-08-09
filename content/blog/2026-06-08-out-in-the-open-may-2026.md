@@ -126,64 +126,43 @@ Ein Radverkehrskonzept 2035 bestehend aus mehr als 250 Einzelmaßnahmen verteilt
 [Programmierschnittstellen (APIs)](https://de.wikipedia.org/wiki/Programmierschnittstelle) stabil und rückwärtskompatibel zu halten oder zu mindestens eine Abschaltung bzw. einen Versionssprung mit genügend Vorlauf prominent anzukündigen, damit den Nutzenden genügend Zeit bleibt, sich anzupassen, sollte eigentlich Usus sein. [Bei VW scheinbar nicht](https://www.heise.de/news/VW-kappt-mit-API-Aenderung-Besitzern-Zugriff-auf-eigene-Fahrzeugdaten-11312757.html), so dass die rittanbieter-Anwendungen nicht mehr an die notwendigen Echtzeit-Daten des aktuellen Ladezustand des Akkus kamen, die aber für die Optimierung des Ladeprozesses des Elektroauto in Kombination mit einem Home Assistant benötigten wurden. Inzwischen gibt es partielle Work-arounds, aber generell besteht das Problem, dass einige Hersteller keine freien Schnittstelle zu den Fahrzeugdaten anbieten, weswegen [eine Petition](https://www.change.org/p/eu-data-act-durchsetzen-autohersteller-m%C3%BCssen-uns-zugang-zu-unseren-fahrzeugdaten-geben) nun auch von diesen die Einhaltung des EU Data Acts fordert.
 
 ## Energie
-* Gaskostenrechner
-  gaskostenfalle.de/gaskostenrechner
-  via https://mastodon.social/@why_not/116506388353037086
-* Gemeinsam gegen Gas
-  https://fragdenstaat.de/aktionen/climate-helpdesk/gemeinsam-gegen-gas/
-* Das Ziel, dass Deutschland im Jahr 2045 klimneutral sein soll, hat Katherina Reiche inzwischen offenbar ganz offiziell aufgegeben.
-  https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mmtnt5gki22j
-* Energy Sharing kommt mit §42c EnWG: Ab dem 01.06.2026 wird es deutlich einfacher, überschüssigen Strom aus der eigenen Anlage regional zu verkaufen.
-  https://mastodon.social/@ioew/116521165923510035
-* Das Bundeskartellamt übt scharfe Kritik am Entwurf des Kraftwerksgesetzes von Bundeswirtschaftsministerin Katherina Reiche (CDU)
-  https://www.handelsblatt.com/politik/deutschland/energiewende-bundeskartellamt-ruegt-reiches-kraftwerksgesetz/100223240.html
-  via https://digitalcourage.social/@midide/116534314434927943
-  * Kartellamt zerlegt Reiches Kraftwerksgesetz
-    https://www.telepolis.de/article/Kartellamt-zerlegt-Reiches-Kraftwerksgesetz-11290659.html
-* Das Bundesverfassungsgericht wird nach Klagen das sogenannte "Gebäudemodernisierungsgesetz" wohl in der Luft zerreißen, — aber bis dahin wird Zeit vergehen, Schaden angerichtet.
-  https://climatejustice.global/@parents4future/116596813689329954
-  * Kabinett beschließt neues Heizungsgesetz
-    https://www.spiegel.de/wirtschaft/service/heizungsgesetz-bundesregierung-bringt-erneute-reform-auf-den-weg-a-94f6213a-4232-4389-a1a1-6c4f8f2de83c
-    via https://bsky.app/profile/lobbycontrol.bsky.social/post/3mlqnc6oe5227
-  * Prüfbericht zur Berechnung der deutschen Treibhausgasemissionen für das Jahr 2025 und zu den Projektionsdaten 2026
-    https://expertenrat-klima.de/publikationen/pruefbericht-zur-berechnung-der-deutschen-treibhausgasemissionen-fuer-das-jahr-2025-und-zu-den-projektionsdaten-2026
-  * Heizungsgesetz: Kabinett beschließt umstrittenen Entwurf ohne Rechtsprüfung
-    https://www.msn.com/de-de/nachrichten/politik/heizungsgesetz-kabinett-beschlie%C3%9Ft-umstrittenen-entwurf-ohne-rechtspr%C3%BCfung/ar-AA23G6Uk
-* Energieministerkonferenz: Länder stellen sich gegen Reiches Energie-Reformpläne
-  https://www.sueddeutsche.de/wirtschaft/energieministerkonferenz-laender-stellen-sich-gegen-reiches-energie-reformplaene-dpa.urn-newsml-dpa-com-20090101-260522-930-113816
-* im ersten Quartal 2026 mehr als 2 GWh neue Batterie-Speicherkapazität in Betrieb genommen – 67 % mehr als im Vorjahreszeitraum.
-  https://www.elektro.net/129111/rekordzubau-bei-batteriespeichern/
-  via https://digitalcourage.social/@BlumeEvolution/116559611772184179
-* Eine Studie des Wirtschaftsministeriums(!) zeigt, wie die Energiewende regionale Wirtschaften bereichert. Viele Städte und Landkreise könnten so Millionen Euro einnehmen
-  https://taz.de/Studie-zur-regionalen-Energiewende/!6177792/
-* Ein IRENA-Bericht vom Mai 2026 belegt, dass hybride Erneuerbare-Systeme mit Speicher die Preisschwelle für zuverlässige Rund-um-die-Uhr-Versorgung unterschritten haben.
-  https://denkstrom.org/artikel/irena-erneuerbare-247-kostenguenstiger-fossile-2026/
-* Energiewende stockt: Das Netz ist das eigentliche Problem
-  https://www.telepolis.de/article/Energiewende-stockt-Das-Netz-ist-das-eigentliche-Problem-11300808.html
-* Spannendes Interview des Mitteldeutschen Rundfunks mit Bruno Burger. Themen sind negative Strompreise, Batterien, Gaskraftwerke, Verkehrs- und Wärmewende, Wasserstoff, SMRs, Kernfusion u.v.m.
-  https://www.mdr.de/mdr-thueringen/audio-bruno-burger-100.html
-  via https://wisskomm.social/@energy_charts_d/116611382351401233
+### Gebäudemodernisierungsgesetz
+Offenheit bei Technologie [ist inzwischen](https://mastodon.social/@chrisstoecker/116670097870349926) ungefähr genauso positiv besetzt wie bei Beine, Rücken und Allerwertester.
+
+Ungeachtet aller Kritik hat das Bundeskabinett [das neue Heizungsgesetz](https://www.spiegel.de/wirtschaft/service/heizungsgesetz-bundesregierung-bringt-erneute-reform-auf-den-weg-a-94f6213a-4232-4389-a1a1-6c4f8f2de83c) beschlossen, nachdem nun "technologieoffen" neuer Gas- und Ölheizungen möglich ist. Dass das Gesetz verabschiedet wurde, ohne die Prüfung durch das Justizministerium [abzuwarten](https://www.msn.com/de-de/nachrichten/politik/heizungsgesetz-kabinett-beschlie%C3%9Ft-umstrittenen-entwurf-ohne-rechtspr%C3%BCfung/ar-AA23G6Uk), spricht Bände. Man will offensichtlich Fakten schaffen, weil schon zu erwarten ist, dass das Bundesverfassungsgericht nach Klagen dieses sogenannte "Gebäudemodernisierungsgesetz" wohl [in der Luft zerreißen wird](https://climatejustice.global/@parents4future/116596813689329954), aber bis dahin wird Zeit vergehen, Zeit in der es Verbraucherschutz, Unternehmen und Klima [massiv schaden](https://bsky.app/profile/lobbycontrol.bsky.social/post/3mlqnc6oe5227) wird.
+  
+Wie man dem [Prüfbericht zur Berechnung der deutschen Treibhausgasemissionen für das Jahr 2025 und zu den Projektionsdaten 2026](https://expertenrat-klima.de/publikationen/pruefbericht-zur-berechnung-der-deutschen-treibhausgasemissionen-fuer-das-jahr-2025-und-zu-den-projektionsdaten-2026) stehen wir beim Einhalten der Emissionsziele jetzt schon nicht gut da. Durch die Gesetzesänderung wird es noch schlimmer.  
+
+### Kraftwerksgesetz
+Auch der Entwurf des Kraftwerksgesetzes wird heftig vom Kartellamt kritisiert, denn es [benachteilige Batteriespeichersysteme](https://www.handelsblatt.com/politik/deutschland/energiewende-bundeskartellamt-ruegt-reiches-kraftwerksgesetz/100223240.html) und [bevorzuge Gaskraftwerke](https://www.telepolis.de/article/Kartellamt-zerlegt-Reiches-Kraftwerksgesetz-11290659.html). Die Wettbewerbshüter [bemängeln](https://digitalcourage.social/@midide/116534314434927943) die fehlende Technologieoffenheit. 
+
+Die FragDenStaat-Aktion ["Gemeinsam gegen Gas"](https://fragdenstaat.de/aktionen/climate-helpdesk/gemeinsam-gegen-gas/) möchte transparent machen, wo genau in Deutschland neue fossile Infrastruktur entstehen soll. Die Bundesregierung selbst will dies geheimhalten.
+
+[Das Abschließen](https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mmtnt5gki22j) eines 20 Jahre laufenden Liefervertrags mit Kanadas für die jährliche Abnahme von 1 Mio Tonne LNG-Flüssiggas zeigen zusätzlich, dass das Ziel Klimaneutralität bis 2045 erreichen zu wollen de facto aufgegeben wurde.
+
+### Energiewende
+Bezeichnend ist ebenso, dass sich bei der Energieministerkonferenz alle Bundesländer (also auch die CDU-geführten) gegen das geplante so genannte Netzpaket [ausgesprochen haben](https://www.sueddeutsche.de/wirtschaft/energieministerkonferenz-laender-stellen-sich-gegen-reiches-energie-reformplaene-dpa.urn-newsml-dpa-com-20090101-260522-930-113816). Dieses würde faktisch den Ausbau erneuerbare Energien abwürgen statt den eigentlich notwendigen Netzausbau [zu forcieren](https://www.telepolis.de/article/Energiewende-stockt-Das-Netz-ist-das-eigentliche-Problem-11300808.html) (die Energienetze könnte man sich dann mit [Grid2Poster](https://open-energy-transition.github.io/grid2poster/) auch im Posterformat ausdrucken).
+
+Selbst [eine Studie](https://taz.de/Studie-zur-regionalen-Energiewende/!6177792/) (einst vom Wirtschaftsministeriums selbst beauftragt) belegt, wie die Energiewende die regionale Wirtschaft bereichert. Die Modellrechnungen zeigen, dass 50.000 neue Arbeitsplätze entstehen und Landkreise wie Städte Millionen Euro einnehmen könnten.
+
+Durch den erzielten technischen Fortschritt der letzten Jahre und Jahrzehnte (z.B. durch Maria Telkes, [Pionierin der Solarenergie](https://www.arte.tv/de/videos/129881-000-A/maria-telkes-pionierin-der-solarenergie/)) haben hybride Erneuerbare-Systeme mit Speicher [laut IRENA-Bericht](https://www.irena.org/News/pressreleases/2026/May/24-7-Renewables-Outcompete-Fossil-Fuels-on-Costs-DE) aus Mai 2026 die Preisschwelle für eine zuverlässige Rund-um-die-Uhr-Versorgung [unterschritten](https://denkstrom.org/artikel/irena-erneuerbare-247-kostenguenstiger-fossile-2026/).
+  
+Vor allem durch Großspeicher getrieben: im ersten Quartal 2026 wurden mehr als 2 GWh neue Batterie-Speicherkapazität [in Betrieb genommen](https://www.elektro.net/129111/rekordzubau-bei-batteriespeichern/), und damit [67 Prozenz mehr](https://digitalcourage.social/@BlumeEvolution/116559611772184179) als im Vorjahreszeitraum.
+
+Durch § 42c EnWG wird es ab 01.06.2026 [deutlich einfacher](https://mastodon.social/@ioew/116521165923510035), überschüssigen Strom aus der eigenen Anlage regional zu verkaufen.
+
+Einen umfassenden Überblick zu aktuellen Entwicklungen bei negativen Strompreise, Batterien, Gaskraftwerke, Verkehrs- und Wärmewende, Wasserstoff, SMRs, Kernfusion u.v.m. gibt Prof. Bruno Burger vom Fraunhofer Institut ISE in Freiburg [im Interview](https://www.mdr.de/mdr-thueringen/audio-bruno-burger-100.html) mit dem Mitteldeutschen Rundfunk.
+
+Dennoch sollte man nicht die Augen verschließen vor dem Umstand, dass Deutschland [immer abhängiger](https://www.telepolis.de/article/China-bleibt-zentraler-Lieferant-Abhaengigkeit-in-Schluesselbranchen-steigt-11306366.html) von China-Importen wird, neben Medikamenten eben auch Akkus, Solarpanele sowie deren Vorprodukte wie seltenen Erden.
+
+### Wärmewende
 * Berlin startet eines der größten "Power-to-Heat"-Projekte Europas.
   https://klimareporter.de/gebaeude/ein-mega-tauchsieder-fuer-die-hauptstadt
 * In #Berlin gibt es viele Altbauquartiere. Das Projekt #WärmSchöN sucht am Bsp. Schöneberger Norden nach Lösungen für eine sozialverträgliche #Wärmewende.
   https://www.ioew.de/news/article/waermewende-in-altbauquartieren-forschungsprojekt-entwickelt-blaupausen-im-schoeneberger-norden
   https://mastodon.social/@ioew/116640266684944671
-* Trotz China-Strategie wird Deutschland immer abhängiger – bei Akkus, Medikamenten und Seltenen Erden steigen die Anteile dramatisch.
-  https://www.telepolis.de/article/China-bleibt-zentraler-Lieferant-Abhaengigkeit-in-Schluesselbranchen-steigt-11306366.html
-* Maria Telkes, Pionierin der Solarenergie
-  https://www.arte.tv/de/videos/129881-000-A/maria-telkes-pionierin-der-solarenergie/
-* Klimaschutz statt KI-Wahn
-  https://weact.campact.de/petitions/klimaschutz-statt-ki-wahn
-  https://chaos.social/@algorithmwatch/116647024521259102
-* Grid2Poster
-  https://open-energy-transition.github.io/grid2poster/
-  https://mapyourgrid.org
 * Wärmepumpe im Altbau - funktioniert in Großbritannien sogar im Schloss
   https://www.deutschlandfunk.de/waermepumpe-im-altbau-funktioniert-in-grossbritannien-sogar-im-schloss-100.html
-* Und ich will ein T-Shirt, auf dem “Technogieoffen”.
-  https://mastodon.social/@chrisstoecker/116670097870349926
-* Warum will Katherina Reiche die Energiewende ausbremsen? Mit Petra Pinzler
-  https://www.youtube.com/watch?v=S4XIAPV2Sw8
 
 ## Ernährung
 * Hungerkrise durch Irankrieg: Ausgedüngt
@@ -396,6 +375,9 @@ Ein Radverkehrskonzept 2035 bestehend aus mehr als 250 Einzelmaßnahmen verteilt
 * Meine Wald KI
   https://survey123.arcgis.com/share/ab033e05717f4dccae9f203b8d4f7772
   via https://wisskomm.social/@MeineWaldKI/116600103279194888
+* Klimaschutz statt KI-Wahn
+  https://weact.campact.de/petitions/klimaschutz-statt-ki-wahn
+  https://chaos.social/@algorithmwatch/116647024521259102
 * KI und das Orakel von Delphi: Warum beide mit Deutung statt Wissen arbeiten
   https://www.telepolis.de/article/KI-und-das-Orakel-von-Delphi-Warum-beide-mit-Deutung-statt-Wissen-arbeiten-11311093.html
 * Jetzt wird Google von der Suchmaschine zur Antwortmaschine
@@ -464,41 +446,21 @@ Ein Radverkehrskonzept 2035 bestehend aus mehr als 250 Einzelmaßnahmen verteilt
   https://www.heise.de/news/KI-Papers-bei-arXiv-Sperre-bei-erstem-Verstoss-11296035.html
 
 ## Recap
-* 2MR
-  https://2mr.social/vod/
-  https://watch.2mr.social/
-* NPA
-  https://fair.tube/c/npa/videos
-  * Medienschau zur #2MR – fehlt ein Beitrag?
-    https://berlin.social/@kingconsult/116533567503121462
-* re:publica
-  https://www.youtube.com/@republica/videos
-  * Triff die OKF auf der re:publica 2026!
-    https://okfn.de/blog/2026/05/triff-die-okf-auf-der-republica-2026/
-* Boddy
-  * Zeitreise mindestens 10 Jahre zurueck 
-    https://chaos.social/@stk/116651464396611844
-    https://www.linkedin.com/posts/stefan-kaufmann-7a8b54224_boddy26-ugcPost-7465868512134254593-cXFA/
-* Open Hardware Summit
-  https://www.youtube.com/playlist?list=PLN2I5IwhHQ4pM4CL1MtvIW4Nc7xitNRfi
-* Berlin MapTime
-  https://www.linkedin.com/posts/hans-hack-001683303_maptime-maps-beyond-the-screen-what-ugcPost-7457333448345825280-ZTr0/
-* 5. Open Data Barcamp der Bertelsmann Stiftung 
-  https://www.linkedin.com/posts/buerge-uprak_opendata-odb26-ugcPost-7465368366308814848-Ty23/
+* [2MR](https://2mr.social/vod/) + [Medienberichterstattung](https://berlin.social/@kingconsult/116533567503121462)
+* [Netzpolitischer Abend](https://fair.tube/c/npa/videos)
+* [re:publica](https://www.youtube.com/@republica/videos) (inklusive [OKF-Beiträgen](https://okfn.de/blog/2026/05/triff-die-okf-auf-der-republica-2026/))    
+* Berliner Open Data Day (Boddy), [Stefans Beobachtungen](https://www.linkedin.com/posts/stefan-kaufmann-7a8b54224_boddy26-ugcPost-7465868512134254593-cXFA/) inklusive [unguter Flashbacks](https://chaos.social/@stk/116651464396611844)    
+* [Open Hardware Summit](https://www.youtube.com/playlist?list=PLN2I5IwhHQ4pM4CL1MtvIW4Nc7xitNRfi)
+* [Berlin MapTime](https://www.linkedin.com/posts/hans-hack-001683303_maptime-maps-beyond-the-screen-what-ugcPost-7457333448345825280-ZTr0/)
+* [5. Open Data Barcamp der Bertelsmann Stiftung](https://www.linkedin.com/posts/buerge-uprak_opendata-odb26-ugcPost-7465368366308814848-Ty23/)
 
 ## Fristen
-* Call for Applications (Interim TAB), 8.6.
-  https://container.gov.de/call-for-applications-form/
-* Fediday, bis 14.06.2026
-  https://ctalx.c-base.org/fediday-2026/cfp
-* Ko-Pionier-Preis: Besser nach­nutzen, bis 15.07.2026
-  https://reform-staat.org/?reform_experiments=ko-pionier-preis
-* Chaotischer Catalysator Stipendium
-  https://chaos-stipendien.de/blog/2026/sommer-semester-2026/
-* MRMCD
-  https://events.ccc.de/2026/05/14/mrmcd2026/
-* kulturBdigital-Konferenz, bis 30.06.2026
-  https://www.kultur-b-digital.de/call-for-participation-kulturbdigital-konferenz-2026/
+* [container.gov interim Technical Advisory Board (TAB)](https://container.gov.de/call-for-applications-form/), Call for Applications, bis 08.06.2026
+* [Fediday](https://ctalx.c-base.org/fediday-2026/cfp), bis 14.06.2026
+* [Ko-Pionier-Preis](https://reform-staat.org/?reform_experiments=ko-pionier-preis): Besser nach­nutzen, bis 15.07.2026
+* [Chaotischer Catalysator Stipendium](https://chaos-stipendien.de/blog/2026/sommer-semester-2026/)
+* [MRMCD](https://events.ccc.de/2026/05/14/mrmcd2026/)
+* [kulturBdigital-Konferenz](https://www.kultur-b-digital.de/call-for-participation-kulturbdigital-konferenz-2026/), bis 30.06.2026
 
 ## Und sonst so
 * The Virtual OS Museum
@@ -519,8 +481,6 @@ Ein Radverkehrskonzept 2035 bestehend aus mehr als 250 Einzelmaßnahmen verteilt
   https://www.hacklabor.de/2026/06/10-jahre-hacklabor/
 * 30.6./1.7. BMDS richtet SPARK-Hackathon aus
   https://bmds.bund.de/aktuelles/pressemitteilungen/detail/ki-fuer-schnellere-genehmigungen-bmds-richtet-spark-hackathon-aus
-
-## Termine
 * WikiProjects Days (19.–21. Juni)
   https://www.wikidata.org/wiki/Event:WikiProjects_Days_2026
 * 10 Jahre Hacklabor Schwerin!, 27.6.
