@@ -183,68 +183,37 @@ Im Mai wurde durch ungewöhnlich hohen Wasserverbrauch, wohl bedingt durch die g
 Wasserrechte an Firmen für Jahrzehnte wurden noch in der Annahme vergeben, dass in Deutschland genügend Wasser vorhanden wäre. Die Fälle von Wasserknappheit zeigen, dass dem nicht so ist. Wird zudem mehr Wasser entnommen, als sich neubilden, droht nachfolgenden Generationen die Katastrophe. [Die sich ankündigende Knappheit](https://www.blaetter.de/ausgabe/2026/mai/knapp-und-kommerzialisiert-der-kampf-ums-wasser) signalisiert außerdem Firmen, dass sie mit dem knappen Gut hohe Profite erwirtschaftet werden können, wenn sich rechtzeitig entsprechende Förderrechte sichern.
 
 ## Gesundheit
-* OpenReception 1.0: Open-Source-Terminverwaltung für Arztpraxen ist fertig
-  https://www.heise.de/news/OpenReception-1-0-Open-Source-Terminverwaltung-fuer-Arztpraxen-ist-fertig-11277708.html
-  * Terminverwaltung: Warum die OpenReception-Entwickler auf Open Source setzen
-    https://www.heise.de/hintergrund/Terminbuchungssoftware-OpenReception-Entwickler-sehen-Ende-der-Passwort-Aera-11293916.html
-* Ärztetag: Klare Absage an kassengesteuerte Digitalisierung im Gesundheitswesen
-  https://www.heise.de/news/Aerztetag-Klare-Absage-an-kassengesteuerte-Digitalisierung-im-Gesundheitswesen-11294349.html
-* Ärzte wollen Schutz vor Reidentifizierung von Patienten und strengere KI-Regeln
-  https://www.heise.de/news/Aerztetag-fordert-strengere-Regeln-fuer-KI-und-Cloud-Nutzung-im-Gesundheitswesen-11295829.html
-* Hackerangriff: Daten von Zehntausenden Versicherten betroffen?
-  https://www.ndr.de/nachrichten/niedersachsen/hackerangriff-daten-von-zehntausenden-versicherten-betroffen,hackerangriff-132.html
-* Niedersachsen: Datenabfluss bei Wirtschaftsprüferverein im Gesundheitswesen
-  https://www.heise.de/news/Niedersachsen-Datenabfluss-bei-Wirtschaftsprueferverein-im-Gesundheitswesen-11297772.html
-* Pharma-Produktion in Europa: Warum der Plan an der Finanzierung scheitern könnte
-  https://www.telepolis.de/article/Pharma-Produktion-in-Europa-Warum-der-Plan-an-der-Finanzierung-scheitern-koennte-11303081.html
-* Angehörigenpflege: 86 Prozent der Pflegebedürftigen werden zu Hause gepflegt
-  https://www.rechtsdepesche.de/angehoerigenpflege-86-prozent-zu-hause/
-* Kritik an Warkens Begründung für Milliarden-Lücke in der Pflegeversicherung
-  https://www.fr.de/politik/in-der-pflegeversicherung-kritik-an-warkens-begruendung-fuer-milliarden-luecke-94299684.html
-* Geplante Zugriffsrechte der Krankenkassen auf die ePA bringen Ärzte in Wallung
-  https://www.aerztezeitung.de/Wirtschaft/Geplante-Zugriffsrechte-der-Kassen-auf-die-ePA-bringen-Aerzte-in-Wallung--463029.html
+[OpenReception](https://open-reception.org) ist [eine Open-Source-Terminverwaltung](https://www.heise.de/news/OpenReception-1-0-Open-Source-Terminverwaltung-fuer-Arztpraxen-ist-fertig-11277708.html) für Arztpraxen und Patienten und damit eine datenschutzfreundliche Alternative zu den üblichen kommerziellen Terminbuchungssystemen, die Kapital aus den Patientendaten versuchen zu schlagen. [Im Interview](https://www.heise.de/hintergrund/Terminbuchungssoftware-OpenReception-Entwickler-sehen-Ende-der-Passwort-Aera-11293916.html) erläutern die Entwickler ihre Motivation.
+
+Von den vom "Gesetz für Daten und digitale Innovation im Gesundheitswesen" (GeDIG) geplanten Zugriffsrechte für die Krankenkassen auf die elektronische Patientenakte (ePA) [sind Ärztinnen und Ärzte wenig begeistet](https://www.aerztezeitung.de/Wirtschaft/Geplante-Zugriffsrechte-der-Kassen-auf-die-ePA-bringen-Aerzte-in-Wallung--463029.html), denn als Kostenträger haben die Kassen möglicherweise nicht nur das Wohl des Patienten im Blick. [Deswegen sollten sie nicht](https://www.heise.de/news/Aerztetag-Klare-Absage-an-kassengesteuerte-Digitalisierung-im-Gesundheitswesen-11294349.html) über die medizinische Behandlung mitentscheiden können. Als weiteres Risiko sieht der Ärztetag die potenzielle Reidentifizierung von Patienten aus in der Cloud gespeicherten Daten, vor allem wenn dazu KI eingesetzt wird, und [fordern daher strengere Regeln](https://www.heise.de/news/Aerztetag-fordert-strengere-Regeln-fuer-KI-und-Cloud-Nutzung-im-Gesundheitswesen-11295829.html). 
+
+Wenn Externe Zugriffe auf sensible Gesundheitsdaten bekommen, birgt das immer eine zusätzlichen Angriffspunkt für Hacker, [wie der Angriff](https://www.ndr.de/nachrichten/niedersachsen/hackerangriff-daten-von-zehntausenden-versicherten-betroffen,hackerangriff-132.html) auf einen Verein zeigt, der Rezepte auf Wirtschaftlichkeit prüft. Auch wenn die Patientendaten anonymisiert waren, die Praxisdaten und Krankenkassendaten sind enthalten. Auf einer Leaksite wird mit Beispieldateien aus den gestohlen Daten mit der Veröffentlichung des gesamten 2,87 Terabyte großen Datensatzes [gedroht](https://www.heise.de/news/Niedersachsen-Datenabfluss-bei-Wirtschaftsprueferverein-im-Gesundheitswesen-11297772.html). 
+  
+Das Deutsche Institut für Wirtschaftsforschung (DIW) hat Daten des Sozio-oekonomischen Panel (SOEP) hinsichtlich Pflege in Deutschland ausgewertet. [Die Analyse hat unter anderem ergeben](https://www.rechtsdepesche.de/angehoerigenpflege-86-prozent-zu-hause/), dass 86 Prozent der Pflegebedürftigen zu Hause, und dort meist von Angehörigen, gepflegt werden. Verständlich also die Forderung an die Politik, die Angehörigenpflege finanziell zu stärken. Doch in der
+Pflegeversicherung klafft [jetzt schon eine Milliarden-Lücke](https://www.fr.de/politik/in-der-pflegeversicherung-kritik-an-warkens-begruendung-fuer-milliarden-luecke-94299684.html), die für 2027 vorausgesagten 7,5 Milliarden Euro steigen dann 2028 auf über 15 Milliarden Euro. Aktuell gelten 6 Millionen Menschen als pflegebedürftigt, die Zahl hatte sich bedingt durch die Neudefinition des Pflegebedürftigkeitsbegriff in 2017 damals verdoppelt. Es ist zu befürchten, dass nun noch strengere Einstufungen bei den Pflegegraden vorgenommen werden, weil die man sich nicht ausreichend traue, stattdessen Gutverdienende mit höheren Beitragsgrenzen stärker in die Pflicht zu nehmen.
+
+Dass immer wieder Engpässe bei der Medikamentenversorgungs auftreten, lässt die Erkenntnis bei europäischen Politikern reifen, zu mindestens die Produktion wichtiger Pharmazie wieder nach Europa zurückzuverlagern. Aber man hat sich schon so sehr an die billigen Medikamente aus China und Indien gewöhnt, dass dieses Unterfangen [an der Finanzierung scheitern könnte](https://www.telepolis.de/article/Pharma-Produktion-in-Europa-Warum-der-Plan-an-der-Finanzierung-scheitern-koennte-11303081.html).
 
 ## Ernährung
-* Hungerkrise durch Irankrieg: Ausgedüngt
-  https://taz.de/Hungerkrise-durch-Irankrieg/!6170846/
-* Carbon pollution is making food less nutritious
-  https://www.washingtonpost.com/climate-environment/interactive/2026/carbon-pollution-diluting-key-nutrients-food/
-  via https://social.vivaldi.net/@StefanMuenz/116507058295316164
+Die Blockade der Straße von Hormus treibt die Kosten für Lebensmittel weltweit nach oben. Neben den hohen Ölpreisen, die deren Transport verteuern, passierten bisher auch ein Drittel aller Düngermittel diese Meeresenge. Auch deren Preise werden also steigen. Während die erste Welt auch noch in der Lage sein wird, die höheren Preise zu bezahlen, [drohen Millionen Menschen](https://taz.de/Hungerkrise-durch-Irankrieg/!6170846/), die dieses Glück nicht haben, Hunger.
 
-## Finanzen
-* Bargeld? Wie wichtig ist das denn?
-  https://stiftungdatenschutz.org/veroeffentlichungen/datenschutz-im-fokus/datenschutz-im-fokus-detailansicht/bargeld-wie-wichtig-ist-das-denn-699
-  via https://social.bund.de/@DS_Stiftung/116522482828569462
-* Wirtschaft: Online bezahlen ohne Visa, Paypal und Co.
-  https://correctiv.org/aktuelles/wirtschaft/2026/05/07/online-bezahlen-ohne-visa-paypal-und-co/
-* Schuldner der Welt, vereinigt euch!
-  54 Länder geben mehr für Schulden als für Bildung aus. Jetzt schließen sich Schuldnerstaaten erstmals zusammen – als Gegenmacht zu den Gläubigern.
-  https://www.telepolis.de/article/Schuldner-der-Welt-vereinigt-euch-11288381.html
-  via https://social.heise.de/@telepolis/116555844232148003
-* Die EZB startet 2027 ein zwölfmonatiges Pilotprojekt zum digitalen Euro. Getestet werden Technik, Sicherheit und Zahlungsabläufe
-  https://www.ecb.europa.eu/euro/digital_euro/pilot/html/index.de.html
-  https://social.bund.de/@DS_Stiftung/116657063615066196
+[Die zunehmende CO2-Belastung](https://social.vivaldi.net/@StefanMuenz/116507058295316164) der Atmosphäre [senkt nachweislich](https://www.washingtonpost.com/climate-environment/interactive/2026/carbon-pollution-diluting-key-nutrients-food/) auch den Nährstoffgehalt unserer Nahrung.
 
 ## Juristerei
-* "Nerds of Law" Podcast mit Sean Fobbe
-  https://www.nerdsoflaw.com/2026/05/nerds-of-law-165-21-jahre-mit-sean-fobbe/
-  https://fediscience.org/@seanfobbe/116538838854411142
-* Im November 2024 eine EU-Richtlinie gegen Slapp-Klagen in Kraft getreten. Bis zum 7. Mai hätte sie in deutsches Recht umgesetzt werden sollen – doch das ist noch nicht passiert.
-  https://taz.de/SLAPP-Klagen/!6180281/
+Legal Data Science ist die Anwendung von datenwissenschaftlichen Methoden in der juristischen Domäne. [Seán Fobbe erklärkt](https://www.nerdsoflaw.com/2026/05/nerds-of-law-165-21-jahre-mit-sean-fobbe/) im Podcast "Nerds of Law" wie er solche Tools in der Praxis nutzt.
+
+[SLAPP-Klagen](https://de.wikipedia.org/wiki/SLAPP) dienen Unternehmen dazu, unliebsame Kritiker einzuschüchtern. Eine im November 2024 in Kraft getretene EU-Richtlinie soll gegen solche Klagen schützen. Leider hat es die Deutsche Bundesregierung [versäumt, sie in deutsches Recht zu gießen](https://taz.de/SLAPP-Klagen/!6180281/), obwohl die Frist dazu am 7. Mai abgelaufen ist.
 
 ## Kultur
-* From “On the Importance of Remembering Forgotten Books,” by Brad Bigelow.
-  https://archive.org/details/vanishing-culture-2026/page/43/
-  https://mastodon.archive.org/@internetarchive/116568586822233850
-* RaDiHum20 spricht mit Katrin Henzel und Simone Franz über Barrierearmut in digitalen Editionen und Forschungsdatenmanagement
-  https://radihum20.de/radihum20-spricht-mit-katrin-henzel-und-simone-franz/
-* WikiKult Handreichung
-  https://social.wikimedia.de/@wikimediaDE/116657109638488879
-* OpenSubtitles.org — the largest multi‑language subtitle DB: no registration to download,
-  https://www.opensubtitles.org/en/search/subs
-  via https://mas.to/@nemo/116664220952702346
-* KI entziffert Keilschrift: Mit künstlicher Intelligenz in die Töpfe Babylons schauen
-  https://www.deutschlandfunk.de/ki-kuenstliche-intelligenz-uebersetzung-keilschrift-babylon-100.html
+[OpenSubtitles.org](https://www.opensubtitles.org/en/search/subs) ist die größte mehrsprachige Film-Untertitel-Datenbank, [die man ohne Registrierung herunterladen kann](https://mas.to/@nemo/116664220952702346).
+
+Die [WikiKult Handreichung](https://commons.wikimedia.org/wiki/File:Wikidata_in_Museen,_Archiven_und_Bibliotheken.pdf) zeigt praxisnah an Hand konkreter Beispielprojekte, wie Kulturerbeinstitutionen ihre Sammlungen sichtbarer, vernetzbarer und nachnutzbar [machen können](https://social.wikimedia.de/@wikimediaDE/116657109638488879).
+
+[In der RaDiHum20-Folge vom 20. Mai](https://radihum20.de/radihum20-spricht-mit-katrin-henzel-und-simone-franz/) ging es um die Herausforderung, Forschungsdaten möglichst barrierarm digital bereitzustellen. 
+
+In [Vanishing Culture: A Report on Our Fragile Cultural Record](https://archive.org/details/vanishing-culture-2026/page/43/mode/2up) gehen die Autoren der Frage nach, warum es wichtig ist, vergessene Bücher wiederzuentdecken. Denn ihr Vergessen [lag oftmals nicht unbedingt daran](https://mastodon.archive.org/@internetarchive/116568586822233850), dass sie schlecht waren, sondern, dass sie nicht in den damaligen Zeitgeist bzw. in die politischen Umständen gepasst haben.    
+
+In Keilschrift verfasste Texte auf Tontafeln oder Töpfen aus dem alten Babylon lassen sich mit KI [leichter entziffern](https://www.deutschlandfunk.de/ki-kuenstliche-intelligenz-uebersetzung-keilschrift-babylon-100.html). 
 
 ## Transparenz
 * Ein geleaktes 108-seitiges Dokument zeigt: Bund, Länder und Kommunen planen massive Einschnitte in der Kinder- und Jugendhilfe – ohne öffentliche Debatte.
@@ -330,9 +299,6 @@ Wasserrechte an Firmen für Jahrzehnte wurden noch in der Annahme vergeben, dass
   https://bsky.app/profile/politicalbeauty.bsky.social/post/3mlprx7r7ek2d
 * Bau von Rechenzentren: Die Proteste von Anwohnern werden zunehmen
   https://www.deutschlandfunk.de/proteste-gegen-rechenzentren-cordula-kropp-soziologin-uni-stuttgart-100.html
-
-
-
 
 ## Überwachung
 * Welche Apps und Smart-Home-Geräte sammeln deine Daten — und was kannst du dagegen tun?
