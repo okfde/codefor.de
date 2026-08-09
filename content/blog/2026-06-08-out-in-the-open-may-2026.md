@@ -156,20 +156,31 @@ Einen umfassenden Überblick zu aktuellen Entwicklungen bei negativen Strompreis
 Dennoch sollte man nicht die Augen verschließen vor dem Umstand, dass Deutschland [immer abhängiger](https://www.telepolis.de/article/China-bleibt-zentraler-Lieferant-Abhaengigkeit-in-Schluesselbranchen-steigt-11306366.html) von China-Importen wird, neben Medikamenten eben auch Akkus, Solarpanele sowie deren Vorprodukte wie seltenen Erden.
 
 ### Wärmewende
-* Berlin startet eines der größten "Power-to-Heat"-Projekte Europas.
-  https://klimareporter.de/gebaeude/ein-mega-tauchsieder-fuer-die-hauptstadt
-* In #Berlin gibt es viele Altbauquartiere. Das Projekt #WärmSchöN sucht am Bsp. Schöneberger Norden nach Lösungen für eine sozialverträgliche #Wärmewende.
-  https://www.ioew.de/news/article/waermewende-in-altbauquartieren-forschungsprojekt-entwickelt-blaupausen-im-schoeneberger-norden
-  https://mastodon.social/@ioew/116640266684944671
-* Wärmepumpe im Altbau - funktioniert in Großbritannien sogar im Schloss
-  https://www.deutschlandfunk.de/waermepumpe-im-altbau-funktioniert-in-grossbritannien-sogar-im-schloss-100.html
+Die Power-to-Heat-Anlage, die gerade am Heizkraftwerk Berlin Mitte [gebaut wird](https://klimareporter.de/gebaeude/ein-mega-tauchsieder-fuer-die-hauptstadt), wird bei Inbetriebnahme Ende 2028 mit einer Leistung von 120 Megawatt einer der größten ihrer Art in Europa sein. Wie ein riesiger Tauchsieder soll sie dann überschüssigen Strom aus Wind- und Solaranlagen in Fernwärme umwandeln und damit den bisherigen fossilen Fernwärmeträger Erdgas ersetzen.
 
-## Ernährung
-* Hungerkrise durch Irankrieg: Ausgedüngt
-  https://taz.de/Hungerkrise-durch-Irankrieg/!6170846/
-* Carbon pollution is making food less nutritious
-  https://www.washingtonpost.com/climate-environment/interactive/2026/carbon-pollution-diluting-key-nutrients-food/
-  via https://social.vivaldi.net/@StefanMuenz/116507058295316164
+Das Forschungsprojekt [WärmSchöN](https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/beauftragte/klimaschutz/waermewende/artikel.1685453.php) soll am Beispiel des Berliner Quartier Schöneberger Norden [nach Lösungsansätzen suchen](https://www.ioew.de/news/article/waermewende-in-altbauquartieren-forschungsprojekt-entwickelt-blaupausen-im-schoeneberger-norden), wie die Wärmewende auch in Altbauten sozialverträglich gelingen kann, z.B. durch das [kooperative](https://mastodon.social/@ioew/116640266684944671) Finanzieren und Betreiben eines lokalen Wärmenetzes.
+
+Von einer Wärmepumpe im Altbau wird abgeraten, aber zu unrecht, des braucht nicht die perfekte Dämmung, denn eine moderate Vorlauftemperatur ist der eigentliche Schlüssel zum Erfolg, [wie auch der Einsatz in einem Schloss in Großbritannien zeigt](https://www.deutschlandfunk.de/waermepumpe-im-altbau-funktioniert-in-grossbritannien-sogar-im-schloss-100.html).
+
+## Klima
+### Politik
+Der Expertenrat für Klimafragen kommt in [seinem Prüfbericht](https://expertenrat-klima.de/fileadmin/ERK/Pressemitteilungen_Meldungen/ERK2026_Pr%C3%BCfbericht-2026_Pressemitteilung.pdf) zum Schluss, dass die Projektionsdaten 2026 die zu erwartenden Emissionsmengen bis 2030 unterschätzen und damit [davon auszugehen ist](https://www.telepolis.de/article/Expertenrat-zerlegt-Klimaschutzprogramm-der-Bundesregierung-11297437.html), dass der Emissionspfad um etwa 60 bis 100 Mt CO2-Äquivalente über dem zulässigen Emissionsbudget bis 2030 liegt und damit die Maßnahmen des Klimaschutzprogramm 2026 der Bundesregierung bei Weitem nicht ausreichen.
+
+Dass im neuen Sachstandsbericht des IPCC des bisherige Worst-Case-Szenario für die Erderwärmung verworfen wird (auf Grund positiver Entwicklung erneuerbarer Energien), nehmen Klimaleugner zum Anlass, in gezielten Desinformationskampagnen die deutscher Klimapolitik generell in Frage zu stellen, [wie im ÜÜberblick dokumentiert](https://steady.page/de/der-uuberblick/posts/e79ba560-2b44-42ba-843f-a52d5722139b).
+
+### Global
+Der [neue Atlas der Klima-Extreme](https://www.reklim.de/wissenstransfer/informationsprodukte/atlas-der-klimaextreme/inhalt-atlas-der-klimaextreme/) veranschaulicht, wie sich das Klima in den vergangenen Jahrzehnten [verändert hat](https://helmholtz.social/@awi/116533796297270693) und welche Auswirkungen bereits spürbar sind.
+
+Die atlantische Umwälzströmung AMOC könnte instabiler sein, als bisher angenommen, über die möglichen Folgen wird in [diesem Deutschlandfunk-Feature](https://www.deutschlandfunk.de/atlantikstroemung-amoc-kipppunkt-wie-fragil-ist-europas-waermepumpe-100.html) gesprochen.
+
+Und wenn das alles nicht schon schlimm genug wäre, hat der Umstand, dass immer mehr Satelliten ins All geschossen werden, Auswirkungen auf die Atmosphäre [wie ungeplantes Geoengineering](https://www.heise.de/news/Ungeplantes-Geoengineering-Aufbau-von-Starlink-Co-mit-Folgen-fuer-Atmosphaere-11294723.html), denn durch die Raketenstarts verbleiben Rußpartikeln für Jahre in der Atmosphäre und behindern so Sonnenstrahlen beim Durchkommen auf die Erde. Welche weitreichenden Auswirkungen sich dadurch kann bisher niemand vorhersagen.
+
+[Eine Untersuchung](https://www.zdfheute.de/wirtschaft/hitze-wirtschaft-produktivitaet-energie-studie-100.html) des Kreditversicherers Allianz Trade prognostiziert, dass die hitzebedingten wirtschaftlichen Einbußen in Deutschland sich bis zum Jahr 2030 auf rund 113 Milliarden Euro summieren könnten. 
+
+### Wasser
+Im Mai wurde durch ungewöhnlich hohen Wasserverbrauch, wohl bedingt durch die große Hitze, das Trinkwasser in Jülich [bedenklich knapp](https://www1.wdr.de/nrw/aachen-eifel/kreis-dueren/trinkwasser-knapp-juelich-100.html), so dass sogar das Wasserwerk der Nachbarkommune behelfsweise einspringen musste.
+
+Wasserrechte an Firmen für Jahrzehnte wurden noch in der Annahme vergeben, dass in Deutschland genügend Wasser vorhanden wäre. Die Fälle von Wasserknappheit zeigen, dass dem nicht so ist. Wird zudem mehr Wasser entnommen, als sich neubilden, droht nachfolgenden Generationen die Katastrophe. [Die sich ankündigende Knappheit](https://www.blaetter.de/ausgabe/2026/mai/knapp-und-kommerzialisiert-der-kampf-ums-wasser) signalisiert außerdem Firmen, dass sie mit dem knappen Gut hohe Profite erwirtschaftet werden können, wenn sich rechtzeitig entsprechende Förderrechte sichern.
 
 ## Gesundheit
 * OpenReception 1.0: Open-Source-Terminverwaltung für Arztpraxen ist fertig
@@ -193,33 +204,12 @@ Dennoch sollte man nicht die Augen verschließen vor dem Umstand, dass Deutschla
 * Geplante Zugriffsrechte der Krankenkassen auf die ePA bringen Ärzte in Wallung
   https://www.aerztezeitung.de/Wirtschaft/Geplante-Zugriffsrechte-der-Kassen-auf-die-ePA-bringen-Aerzte-in-Wallung--463029.html
 
-## Klima
-* neue Atlas der Klima-Extreme 
-  https://www.reklim.de/wissenstransfer/informationsprodukte/atlas-der-klimaextreme/inhalt-atlas-der-klimaextreme/
-  https://helmholtz.social/@awi/116533796297270693
-* Ungeplantes Geoengineering: Aufbau von Starlink & Co. mit Folgen für Atmosphäre
-  https://www.heise.de/news/Ungeplantes-Geoengineering-Aufbau-von-Starlink-Co-mit-Folgen-fuer-Atmosphaere-11294723.html
-* Kipppunkt im Atlantik: Wie fragil ist Europas Wärmepumpe?
-  https://www.deutschlandfunk.de/atlantikstroemung-amoc-kipppunkt-wie-fragil-ist-europas-waermepumpe-100.html
-* Expertenrat zerlegt Klimaschutzprogramm der Bundesregierung
-  https://www.telepolis.de/article/Expertenrat-zerlegt-Klimaschutzprogramm-der-Bundesregierung-11297437.html
-* Knapp und kommerzialisiert: Der Kampf ums Wasser
-  https://www.blaetter.de/ausgabe/2026/mai/knapp-und-kommerzialisiert-der-kampf-ums-wasser
-* Trinkwasser in Jülich knapp: Wasserwerk Aldenhoven springt ein
-  https://www1.wdr.de/nrw/aachen-eifel/kreis-dueren/trinkwasser-knapp-juelich-100.html
-* Neue Folge von „Angepasst?!"  – dem Podcast des Zentrum KlimaAnpassung – Boden und Klimaanpassung – Was unter unseren Füßen zählt
-  https://zentrum-klimaanpassung.de/mediathek/angepasst-der-podcast-des-zentrum-klimaanpassung
-* Untersuchung von Allianz Trade: Studie: Hitze zunehmendes Problem für Wirtschaft
-  https://www.zdfheute.de/wirtschaft/hitze-wirtschaft-produktivitaet-energie-studie-100.html
-* Die Klima-Desinformations-Maschine rollt
-  https://steady.page/de/der-uuberblick/posts/e79ba560-2b44-42ba-843f-a52d5722139b
-* Irische Achtzehnjährige kämpft mit preisgekrönter Erfindung gegen Mikroplastik-Krise
-  https://de.euronews.com/2026/05/11/irische-achtzehnjahrige-kampft-mit-preisgekronter-erfindung-gegen-mikroplastik-krise
-  https://www.irishtimes.com/environment/climate-crisis/2026/05/11/ty-changed-my-life-leaving-cert-student-wins-global-prize-for-microplastics-filter/
-* Hottest May day on record in UK as temperatures pass 34C
-  https://www.bbc.com/news/articles/c8xwwpkrgj1o
-* Wasser aus Nationalpark: Sprudelfirmen dürfen laut Behörde nicht mehr abpumpen
-  https://www.swr.de/swraktuell/rheinland-pfalz/trier/streit-um-nationalpark-wasser-sprudelfirmen-duerfen-laut-behoerde-nicht-mehr-abpumpen-100.html
+## Ernährung
+* Hungerkrise durch Irankrieg: Ausgedüngt
+  https://taz.de/Hungerkrise-durch-Irankrieg/!6170846/
+* Carbon pollution is making food less nutritious
+  https://www.washingtonpost.com/climate-environment/interactive/2026/carbon-pollution-diluting-key-nutrients-food/
+  via https://social.vivaldi.net/@StefanMuenz/116507058295316164
 
 ## Finanzen
 * Bargeld? Wie wichtig ist das denn?
@@ -340,6 +330,9 @@ Dennoch sollte man nicht die Augen verschließen vor dem Umstand, dass Deutschla
   https://bsky.app/profile/politicalbeauty.bsky.social/post/3mlprx7r7ek2d
 * Bau von Rechenzentren: Die Proteste von Anwohnern werden zunehmen
   https://www.deutschlandfunk.de/proteste-gegen-rechenzentren-cordula-kropp-soziologin-uni-stuttgart-100.html
+
+
+
 
 ## Überwachung
 * Welche Apps und Smart-Home-Geräte sammeln deine Daten — und was kannst du dagegen tun?
