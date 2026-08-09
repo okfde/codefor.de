@@ -87,73 +87,43 @@ Ob der Funke (englisch: Spark) noch überspringt? Zu mindestens ist Spark ein be
 
 [Es bleibt festzustellen](https://www.linkedin.com/posts/tante_was-ist-eigentlich-die-spark-plattform-activity-7462087739015049216-TrZj/): "In den meisten aktuellen Einsatzszenarien in der Öffentlichen Verwaltung aber auch in Unternehmen ist KI das Gegenteil von Innovation". Lieber weiter so mit den kaputten Prozessen und Denkweisen, die man mit KI-Kleister übermalt hat, damit das nicht so auffällt. Und warum sich unnötig mit dem Aufwand belasten, Probleme tatsächlich lösen zu wollen, wenn man beim nächsten Schnittchen-Event mit wichtigtuerischen Palaver auch so reüssieren kann.
 
-## Politik
-* Sammlung von Links zu politischen Entitäten, die im Fediverse präsent sind.
-  https://codeberg.org/open/fedipolitik
-  via https://norden.social/@coastgnu/116522854951936174
-* Erbschaftssteuer-Rechner (Österreich)
-  https://www.erbschaftssteuer-rechner.at
-
 ## Karten
-* Reparaturcafés
-  Deutschland: https://www.reparatur-initiativen.de/termine
-  Österreich: https://www.repaircafes.at
-  Schweiz: https://www.repair-cafe.ch/reparieren/
-  via https://social.tchncs.de/users/DerReparierer/statuses/116497932623007080  
-* How to get the Openstreetmap buildings/polygones from a list of addresses
-  https://katharinabrunner.de/2026/05/how-to-get-the-openstreetmap-buildings-polygones-from-a-list-of-addresses/
-* Hausnummern retten Leben - Leitstellensoftware, und die Navigation der Rettungsmittel arbeiten auch mit openstreetmap -Karten. 
-  https://mastodon.social/@andrmr/116549055088749730
-  * und die Community liefert
-    https://mastodon.social/@andrmr/116600835861060559
-* Wusstet ihr, dass ca. 80% aller Daten Geodaten sind?
-  https://informatik-hausfrau.de/2026/05/12/folge-63/
-  https://mastodon.social/@leaschoenberger/116565907208491456
-* LIDAR: fast schon Kunst 3, ein Youtube-Tutorial
-  https://geoobserver.de/2026/05/29/lidar-fast-schon-kunst-3-ein-youtube/
-* Kühle Orte Düsseldorf
-  http://duesseldorf.de/kuehle-orte
-  https://nrw.social/@Duesseldorf/116657447440656037
-* Wien - Coole Zone - Reinkommen und abkühlen
-  https://www.wien.gv.at/umwelt/coole-zonen
-* Digitale farbige TrueOrthophotos 2026 (DOP20RGBI) Berlin
-  https://daten.berlin.de/datensaetze/digitale-farbige-trueorthophotos-2026-dop20rgbi-9ff3159b
-  https://mastodontech.de/@opendataberlin/116671524639193129
+Das neubeschlossene Ökodesign-Gesetz [gewährt endlich](https://okfn.de/blog/2026/05/bundestag-st%C3%A4rkt-zivilgesellschaftliche-reparateure/) Mitglieder ehrenamtlicher Reparaturinitiativen umfangreichen Anspruch auf Ersatzteile und Reparaturinformationen. Repair Cafés können sich nun als fachkompetente Reparateure registrieren. Wo das nächste Reparaturcafé zu finden ist, plotten Karten für [Deutschland](https://www.reparatur-initiativen.de/termine), für 
+[Österreich](https://www.repaircafes.at) und für die [Schweiz](https://www.repair-cafe.ch/reparieren/). 
+
+Hausnummern können Leben retten - denn im ländlichen Raum fehlen schonmal die Hausnummern bei den Kartenanbietern, und dann verliert der gerufene Rettungsdienst wertvolle Zeit damit, erstmal die Straßen nach gemeldeten Adresse absuchen zu müssen. Einige Leitstellen- und Navigationsoftware in den Rettungswagen nutzen dazu auch OpenStreetMap (OSM). [Der Hinweis](https://mastodon.social/@andrmr/116549055088749730), dass in Sachsen-Anhalt noch viele Hausnummern in der OSM fehlen, hat tatsächlich etwas in der Community [bewirkt](https://mastodon.social/@andrmr/116600835861060559).
+
+In der [63. Folge](https://informatik-hausfrau.de/2026/05/12/folge-63/) des Podcasts "Informatik für die moderne Hausfrau" spricht Lea Schönberger mit Christine Lohr, Vermessungsingenieurin im Fachbereich Geoinformation der Stadt Mönchengladbach, über Geoinformationssysteme und wie sie entstehen. [So erfährt man](https://mastodon.social/@leaschoenberger/116565907208491456) unter anderem, dass ca. 80% aller Daten Geodaten sind.
+
+Wie man mit den Tools DuckDB und [QuackOSM](https://kraina-ai.github.io/quackosm/) für eine Liste von Adressen zu gehörigen Gebäude-Polygone aus OpenStreetMap extrahiert bekommt, [zeigt Katharina Brunner](https://katharinabrunner.de/2026/05/how-to-get-the-openstreetmap-buildings-polygones-from-a-list-of-addresses/).
+
+Wie sich aparte Geländemodell-Karten auf Basis von LiDAR-Daten mit R erstellen lassen, zeigt das beim Geoobserver [verlinkte Youtube-Video](https://geoobserver.de/2026/05/29/lidar-fast-schon-kunst-3-ein-youtube/).
+
+Die [neuen TrueOrthophotos](https://mastodontech.de/@opendataberlin/116671524639193129) für 2026 haben auch schon ihren Eingang bei [Luftbild Berlin](https://luftbilder.berlin.codefor.de) gefunden.
+
+Ein Übersicht zu kühlen Orten (wie klimatisierte Museen, Schwimmbäder, schattige Grünanlagen, Waldgebiete) gibt es [nun auch](https://nrw.social/@Duesseldorf/116657447440656037) für [Düsseldorf](http://duesseldorf.de/kuehle-orte) und [Wien](https://www.wien.gv.at/umwelt/coole-zonen).
 
 ## Mobilität
-* Neues Branchengremium soll digitale Fahrgastinformation im ÖPNV stärken
-  "Aber es wäre m.E. gut, Mitmacher nicht nur in der eigenen Branche zu suchen, NGOs und Open Data Community sollten einbezogen werden."
-  https://www.newstix.de/index.php?site=actual&ref=RSS&entmsg=true&mid=4744844
-  via https://mastodontech.de/@sprickw/116499504020640856
-* Drei Jahre Deutschlandticket: Forderungen nach ÖPNV-Ausbau
-  https://www.heise.de/news/Drei-Jahre-Deutschlandticket-Forderungen-nach-OePNV-Ausbau-11279244.html
-* Die S-Bahn kommt bei Google Maps nun etwas besser zur Geltung. Dafür bekommt Google einen Datenschatz.
-  https://www.handelsblatt.com/technik/it-internet/bahn-kooperation-google-maps-mit-kauf-button-fuer-s-bahnen-und-regionalzuege/100224717.html
-  via https://mastodon.social/@Handelsblatt@flipboard.com/116565124960144307
-* Nur noch ein Ticket: EU will internationale Zugreisen erleichtern
-  https://www.tagesschau.de/ausland/europa/eu-kommission-zugreisen-100.html
-  * One journey. One ticket. Full rights.
-    https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1056
-    https://ec.social-network.europa.eu/@EUCommission/116571974334663481
-* The next #MOTIS version will have leg alternatives
-  https://mastodon.social/@felixguendling/116572680137968442
-* RonnyRefund: Entschädigungen für Verspätungen mit dem Deutschland-Ticket schnell und einfach beantragen
-  https://ronnyrefund.de
-  via https://dresden.network/@jankosyk/116606596762473767
-* Schienennahverkehr fehlen 14 Milliarden: Regionalzüge: "In allen Bundesländern liegen Streichlisten"
-  https://www.zdfheute.de/wirtschaft/bahn-nahverkehr-regionalzuege-verkehrsminister-100.html
-* Digitale Plattform zum In­formationsaustausch für den Verkehr beschlossen
-  https://www.bundestag.de/dokumente/textarchiv/2026/kw13-de-intelligente-verkehrssysteme-1156744
-  https://troet.cafe/@Marwe/116641629101142260
-* Ergebnis des Rückbaus von gemeinnuetziger #bahn infrastruktur ueber jahrzehnte seit der "privatisierung" der "Deutschen Bundesbahn" 1994
-  https://www.iwkoeln.de/studien/matthias-diermeier-konrad-doliesen-melinda-fremerey-hendrik-boehmer-jan-felix-engler-jan-wendt-geographien-der-unzufriedenheit-daseinsvorsorge.html
-  via https://chaos.social/@blazr/116668254764145578
-* Der Potsdamer Linke-Aktivist Eric Wätke hat derweil auf eigene Initiative gezeigt, wie es besser gehen könnte: Unter potsdam.transparenz.cool hat er eine interaktive Karte entwickelt, auf der geplante Radwegmaßnahmen sichtbar sind.
-  potsdam.transparenz.cool 
-  https://www.tagesspiegel.de/potsdam/landeshauptstadt/neues-radwegekonzept-in-potsdam-linke-kritisiert-burgerbeteiligung--und-bietet-hilfe-an-15559694.html
-* VW kappt mit API-Änderung Besitzern Zugriff auf eigene Fahrzeugdaten
-  https://www.heise.de/news/VW-kappt-mit-API-Aenderung-Besitzern-Zugriff-auf-eigene-Fahrzeugdaten-11312757.html
-  via https://social.heise.de/@heiseonline/116670053785322855
+### Bahn
+Bis 2031 fehlen den Bundesländern 14 Milliarden Euro um den Schienennahverkehr in seinem jetzigen Umfang aufrecht erhalten zu können. Ohne das Geld müssten Zugverbindungen (Regionalzug, S-Bahn) [gestrichen werden](https://www.zdfheute.de/wirtschaft/bahn-nahverkehr-regionalzuege-verkehrsminister-100.html).
+
+[Ein Gutachten](https://www.iwkoeln.de/studien/matthias-diermeier-konrad-doliesen-melinda-fremerey-hendrik-boehmer-jan-felix-engler-jan-wendt-geographien-der-unzufriedenheit-daseinsvorsorge.html) hat die politischen Folgen ungleicher Daseinsvorsorge in den Bereichen Digitales, Gesundheit, Mobilität, Freizeit und Bildung in Deutschland analysiert. Es wurde dabei auch abgefragt, wie weit Mängel auch als Staatsversagen wahrgenommen werden und zur politischen Entfremdung beigetragen haben. Thema war auch der systematische Rückbau der Bahn-Infrastruktur seit der Privatisierung der Deutschen Bahn 1994.
+
+Die EU-Kommission hat einen [neuen Vorschlag](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1056) unterbreitet, wie man in Europa grenzübergreifend mit dem Zug unterwegs sein kann, [ohne dafür mehrere Tickets buchen zu müssen](https://www.tagesschau.de/ausland/europa/eu-kommission-zugreisen-100.html). 
+
+Tickets für den Regionalzug oder die S-Bahn können durch die jüngst geschlossene Kooperation zwischen Deutsche Bahn und Google jetzt auch über einen Kauf-Button in Google Maps [direkt bezogen werden](https://www.mz.de/leben/technik/google-maps-mit-kauf-button-fur-s-bahnen-und-regionalzuge-4249316). Google kann sich dabei über einen Datenschatz freuen, denn die DB liefert ihnen nun die Echtzeitdaten der Züge. Die Bahn erhofft sich mehr Fahrgäste durch den niederschwelligeren Zugang.
+
+### Deutschlandticket
+Nach drei Jahren Deutschlandticket wird sein volles Potenzial immer noch nicht vollausgeschöpft. Mehr Linien, längere Züge, dichtere Taktung, mehr Mobilitätsangebote auf dem Land, Zahlung eines Mobilitätsgelds statt der bisherigen Pendlerpauschale, Stabilisierung eines Preises, der attraktiv für den Nutzenden ist, aber immer noch genügend Geld für Betrieb, Qualität und Angebotserweiterung lässt, sind nur einige der [formulierten Forderungen](https://www.heise.de/news/Drei-Jahre-Deutschlandticket-Forderungen-nach-OePNV-Ausbau-11279244.html). Jede durch ein ÖPNV-Abo ersetzte Autofahrt ist ein Gewinn für das Klima und macht unabhängig von Ölimporten, deren Preisexplosion gerade durch erneute Einführung eines Tankrabatts für den motorisierten Individualverkehr (MIV) versucht wurde, abzufedern, was aber wieder sehr viel Steuergeld gekostet hat.
+
+Entschädigungen für Verspätungen mit dem Deutschland-Ticket zu beantragen ist auch so eine Ronny-Aufgabe. Denn nach EU-Fahrgastrechte-Verordnung (EU) 2021/782 können auch für dieses Ticket Fahrgastrechte für Verspätungen und Verspätungen durch Zugausfälle geltend gemacht werden. Das digitale Formular [RonnyRefund](https://ronnyrefund.de) hilft dabei, viele kleine Verspätungen dokumentiert über den Monat [zu sammeln](https://dresden.network/@jankosyk/116606596762473767) und dann gebündelt einzureichen, wenn man über die Bagatellgrenze von 4 Euro überschritten hat (als einzelne Entschädigung bekommt man jeweils 1,50 €).
+
+### Daten
+Die nächste MOTIS-Version wird [Umsteige-Optionen](https://mastodon.social/@felixguendling/116572680137968442) anzeigen können.
+
+Ein Radverkehrskonzept 2035 bestehend aus mehr als 250 Einzelmaßnahmen verteilt auf 274 Seiten kommentieren zu müssen, ist nicht gerade ein Beitrag zu einer niederschwelligen Bürgerbeteiligung. [Wie es besser geht](https://www.tagesspiegel.de/potsdam/landeshauptstadt/neues-radwegekonzept-in-potsdam-linke-kritisiert-burgerbeteiligung--und-bietet-hilfe-an-15559694.html), zeigt die interaktive Karte [Radverkehrskonzept Potsdam](https://potsdam.transparenz.cool), auf der man sich die Maßnahmen dann auch wirklich vorstellen kann.
+
+[Programmierschnittstellen (APIs)](https://de.wikipedia.org/wiki/Programmierschnittstelle) stabil und rückwärtskompatibel zu halten oder zu mindestens eine Abschaltung bzw. einen Versionssprung mit genügend Vorlauf prominent anzukündigen, damit den Nutzenden genügend Zeit bleibt, sich anzupassen, sollte eigentlich Usus sein. [Bei VW scheinbar nicht](https://www.heise.de/news/VW-kappt-mit-API-Aenderung-Besitzern-Zugriff-auf-eigene-Fahrzeugdaten-11312757.html), so dass die rittanbieter-Anwendungen nicht mehr an die notwendigen Echtzeit-Daten des aktuellen Ladezustand des Akkus kamen, die aber für die Optimierung des Ladeprozesses des Elektroauto in Kombination mit einem Home Assistant benötigten wurden. Inzwischen gibt es partielle Work-arounds, aber generell besteht das Problem, dass einige Hersteller keine freien Schnittstelle zu den Fahrzeugdaten anbieten, weswegen [eine Petition](https://www.change.org/p/eu-data-act-durchsetzen-autohersteller-m%C3%BCssen-uns-zugang-zu-unseren-fahrzeugdaten-geben) nun auch von diesen die Einhaltung des EU Data Acts fordert.
 
 ## Energie
 * Gaskostenrechner
@@ -243,11 +213,6 @@ Ob der Funke (englisch: Spark) noch überspringt? Zu mindestens ist Spark ein be
   https://www.fr.de/politik/in-der-pflegeversicherung-kritik-an-warkens-begruendung-fuer-milliarden-luecke-94299684.html
 * Geplante Zugriffsrechte der Krankenkassen auf die ePA bringen Ärzte in Wallung
   https://www.aerztezeitung.de/Wirtschaft/Geplante-Zugriffsrechte-der-Kassen-auf-die-ePA-bringen-Aerzte-in-Wallung--463029.html
-
-## Kreislaufwirtschaft
-* Erstmals haben Mitglieder ehrenamtlicher Reparaturinitiativen umfangreichen Anspruch auf Ersatzteile und Reparaturinformationen
-  https://okfn.de/blog/2026/05/bundestag-st%C3%A4rkt-zivilgesellschaftliche-reparateure/
-  via https://chaos.social/@mavo/116618837288375391
 
 ## Klima
 * neue Atlas der Klima-Extreme 
@@ -353,6 +318,13 @@ Ob der Funke (englisch: Spark) noch überspringt? Zu mindestens ist Spark ein be
 * Big Tech Lobbylandkarte
   https://lobbylandkarte.digitalrechte.de
   via https://bsky.app/profile/beckedahl.eurosky.social/post/3mlaqjca64k2y
+
+## Politik
+* Sammlung von Links zu politischen Entitäten, die im Fediverse präsent sind.
+  https://codeberg.org/open/fedipolitik
+  via https://norden.social/@coastgnu/116522854951936174
+* Erbschaftssteuer-Rechner (Österreich)
+  https://www.erbschaftssteuer-rechner.at
 
 ## Journalismus
 * Der öffentlich-rechtliche Rundfunk sollte aufklären statt nach unten zu treten, Lügen zu verbreiten und Stimmung gegen arme Menschen zu machen.
