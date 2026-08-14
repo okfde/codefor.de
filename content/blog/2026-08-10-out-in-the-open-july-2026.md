@@ -133,6 +133,8 @@ type: blog
 * Exklusiv: 3,5 Millionen Kunden hat Lottoland in Deutschland. Viele denken, sie würden dort tatsächlich Lotto spielen. Allerdings nehmen sie an illegalem Glücksspiel teil. Uns als Gesellschaft entgingen dadurch allein 2019-2023 mutmaßlich mehr als 400 Millionen Euro Steuern.
   https://lilithwittmann.medium.com/wie-lottoland-milliardenunternehmen-wurde-fd76b8b8eddc
   via https://chaos.social/@Lilith/116956213149091313
+  * Malta Gaming Authority
+    https://chaos.social/@Lilith/116588965772551120
   * Heise entschied, dieses Interview zu Hintergründen der Lottoland-Recherche nicht zu veröffentlichen
     https://lilithwittmann.medium.com/heise-entschied-sich-leider-kurzfristig-dieses-interview-zu-den-hintergruenden-meiner-recherche-c3c0aa91972e
     via https://mastodon.social/@Daniel_Pagenstecher/116964034996853186
