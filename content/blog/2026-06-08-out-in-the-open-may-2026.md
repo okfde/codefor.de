@@ -249,61 +249,38 @@ In einer gemeinsamen Stellungnahme haben die zivilgesellschaftlicher Organisatio
 "KARA KUTU" bedeutet auf türkisch "Schwarze Box" und ist der Name einer [von Correctiv gestarteten gemeinnützigen, unabhängigen und frei zugänglich Civic-Tech-Plattform](https://correctiv.org/in-eigener-sache/2026/05/04/kara-kutu-mit-civic-tech-zensur-enthuellen/), auf der Redaktionen, ihre Berichte dauerhaft und manipulationssicher als Primärquelle archivieren können. Eingriffe durch staatliche Zensurbehörden in die Texte können so durch einen Vergleich aufgedeckt werden. Das Archiv soll neben türkisch auch bald in arabisch und russisch angeboten werden.
 
 ## Neofaschismus
-* Willkommen in der Welt der «Dunklen Aufklärer»
-  https://www.republik.ch/2026/05/09/willkommen-in-der-welt-der-dunklen-aufklaerer
-* Was ist Slopaganda?
-  https://www.woz.ch/kolumnen/2026/05/08/slopaganda-was-ist-slopaganda
-* AfD und CDU streichen Fördergelder: "Demokratie Leben" stirbt im Ilm-Kreis
-  https://taz.de/AfD-und-CDU-streichen-Foerdergelder/!6183111/
-* Fördergelder für Anti-Extremismusprojekt gestoppt
-  https://www.tagesschau.de/investigativ/report-mainz/foerderstopp-bmi-radikale-toechter-100.html
+Die "Dunkle Aufklärung", auch unter dem Name [Neoreaktionäre Bewegung (NRx)](https://de.wikipedia.org/wiki/Neoreaktion%C3%A4re_Bewegung) bekannt, bildet den ideologischen Unterbau für Autoritäre weltweit, Demokratie Stück für Stück [abzubauen](https://www.republik.ch/2026/05/09/willkommen-in-der-welt-der-dunklen-aufklaerer).
+
+Kognitionswissenschaftler Michał Klincewicz prägt 2025 den Begriff "Slopaganda" für Content, der mittels generative KI massenweise produziert werden kann, und über soziale Medien global verbreitet wird, mit der Intention nicht nur Aufmerksamkeit zu bekommen sondern darüber auch [politisch Einfluss nehmen zu können](https://www.woz.ch/kolumnen/2026/05/08/slopaganda-was-ist-slopaganda). 
+
+Weil einzelne Vertreter der CDU auch für einen Antrag der AfD [gestimmt haben](https://taz.de/AfD-und-CDU-streichen-Foerdergelder/!6183111/), verzichtet der Ilm-Kreis auf 190.000 Euro Fördergeld von Bund und dem Land Thüringen, dass über das Projekt "Demokratie leben" für Teilhabe und Jugendarbeit zur Verfügung gestanden hätte. Der Antrag hatte die Streichung aller "Demokratie leben"-Mittel gefordert, da bei diesem angeblich Steuergeld "meist ideologisch gebunden eingesetzt" würde.
 
 ## Zivilcourage
-* Remonstrationspflicht
-  https://www.dbb.de/lexikon/themenartikel/r/remonstrationspflicht.html
-  https://chaos.social/@fragdenstaat/116538460973475649
-* #Grundgesetzlich: #14 #Gemeinnützigkeit, #Ehrenamt und die Bedrohung von Rechts: Attac-Anwalt Andreas Fisahn zur #Zivilgesellschaft unter Druck
-  https://grundgesetzlich.org/podcast/14-zivilgesellschaft-und-gemeinnuetzigkeit/
-  via https://digitalcourage.social/@c_th1/116551003721000880
-* Die Woche, in der die Zivilgesellschaft aufsteht
-  https://netzpolitik.org/2026/die-woche-in-der-die-zivilgesellschaft-aufsteht/
-* Bürger stoppen "fossiles Rechenzentrum" in Maintal
-  https://www.spiegel.de/wirtschaft/maintal-buergerprotest-stoppt-fossiles-rechenzentrum-bei-frankfurt-a-4c318c68-1cb6-4907-a0b6-5d2866e03781?giftToken=08fc10e3-b52d-4a9b-9df6-324369947544
-  https://23.social/@thomasfricke/116628484140263822
-* BREAKING: Der Adenauer fährt an Schulen vor und indoktriniert die Jugendlichen mit Humanismus & Demokratie.
-  https://bsky.app/profile/politicalbeauty.bsky.social/post/3mlprx7r7ek2d
-* Bau von Rechenzentren: Die Proteste von Anwohnern werden zunehmen
-  https://www.deutschlandfunk.de/proteste-gegen-rechenzentren-cordula-kropp-soziologin-uni-stuttgart-100.html
+Die [Remonstrationspflicht](https://www.dbb.de/lexikon/themenartikel/r/remonstrationspflicht.html) hält Verbeamtete im Öffentlichen Dienst gesetzlich dazu an, bei Bedenken gegen die Rechtmäßigkeit dienstlicher Anordnungen, sich diesen auch widersetzen zu dürfen. [In einem konkreten Fall](https://www.rbb24.de/politik/beitrag/2026/05/berliner-verwaltungsgericht-einreise-eu-buergerin-irland-pro-palaestina-protest.html), zu dem FragDenStaat auch die interne Kommunikation [veröffentlich hatte](https://chaos.social/@fragdenstaat/116538460973475649), hat sich das Widersetzen durch ein Gerichtsurteil als richtig bestätigt.
+
+Für die Errichtung eines Rechenzentrums in Maintal (Main-Kinzig) war für die unanhängige Stromversorgung auch ein extra Gaskraftwerk mitten im Stadtgebiet geplant, [nach Protesten](https://www.hessenschau.de/wirtschaft/rechenzentrum-in-maintal-proteste-bringen-projekt-ins-stocken-v2,maintal-rechenzentrum-gestoppt-100.html) wird nun nach einer alternativen Lösung gesucht. Solche Proteste werden [generell zunehmen](https://www.deutschlandfunk.de/proteste-gegen-rechenzentren-cordula-kropp-soziologin-uni-stuttgart-100.html), weil sich Anwohnende es sich nicht mehr gefallen lassen, wenn Rechenzentren ihre Versorgungssicherheit mit Strom und Wasser bedrohen, als auch durch den großen Flächenbedarf Grünflächen zerstört werden. In den USA gibt es [mit Erin Brockovich](https://brockovichdatacenter.com/news.html) eine prominente Aktivistin, die den Protest gegen den massiven Ausbau von KI-Rechenzentren organisiert.
+
+[Im Podcast "Grundgesetzlich"](https://grundgesetzlich.org/podcast/14-zivilgesellschaft-und-gemeinnuetzigkeit/) der [Gesellschaft für Freiheitsrechte](https://freiheitsrechte.org) spricht Prof. Dr. Andreas Fisahn, über Gemeinnützigkeit, Ehrenamt und die Bedrohung von Rechts. Als Anwalt von Attac versucht er deren 2014 aberkannte Gemeinnützigkeit (wegen angeblicher politischer Nicht-Neutralität) wieder zurückzugewinnen. Aus seiner Sicht ist die Zivilgesellschaft gerade was politisches Engagement angeht, nicht ausreichend geschützt. 
 
 ## Überwachung
-* Welche Apps und Smart-Home-Geräte sammeln deine Daten — und was kannst du dagegen tun?
-  https://datadoom.de
-  via https://social.tchncs.de/@kuketzblog/116526986450168109
-* Neues Polizeigesetz in Sachsen: „Nervt eure Abgeordneten!“ 
-  https://radiocorax.de/neues-polizeigesetz-in-sachsen-nervt-eure-abgeordneten/
-* Baden-Württemberg will 40 Prozent der Stellen beim Datenschutzbeauftragten streichen – gleichzeitig sollen Polizei und Behörden mehr digitale Überwachungsbefugnisse bekommen: KI-Videoüberwachung, biometrische Fernidentifikation, automatisierter Bildabgleich.
-  https://www.heise.de/news/Kahlschlag-beim-Datenschutz-Baden-Wuerttemberg-plant-massive-Stellenkuerzungen-11288492.html
-  via https://social.tchncs.de/@kuketzblog/116550999545821894
-* Was steckt eigentlich drin im "Sicherheitspaket 2.0"?
-  https://fedifreu.de/@Sicherheit_ohne_Ueberwachung/116622962632573624
-* Was NGOs gegen automatischen Gesichtsabgleich haben, Interview Markus Beckedahl
-  https://www.deutschlandfunk.de/was-ngos-gegen-automatischen-gesichtsabgleich-haben-interview-markus-beckedahl-100.html
-* Verfassungsschutz setzt auf Palantir-Alternative
-  https://www.tagesschau.de/investigativ/ndr-wdr/verfassungsschutz-palantir-100.html
-* ICE Agents Have List of 20 Million People on Their iPhones Thanks to Palantir
-  https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/
-* Nach CORRECTIV-Recherche: Linke fordert, Deutschlands Zusammenarbeit mit Europol zu überprüfen
-  https://correctiv.org/aktuelles/europa-aktuelles/2026/05/26/nach-correctiv-recherche-linke-fordert-deutschlands-zusammenarbeit-mit-europol-zu-ueberpruefen/
+[In diesem Thread](https://fedifreu.de/@Sicherheit_ohne_Ueberwachung/116622962632573624) erklärt das [Netzwerk "Sicherheit ohne Überwachung"](https://sicherheit-ohne-ueberwachung.org) welchen weitreichenden neuen digitalen Ermittlungsbefugnisse das "Sicherheitspaket 2.0" für Polizei und dem Bundesamt für Migration und Flüchtlinge (BAMF) vorsieht. Gerade der automatische biometrische Gesichtsabgleich mit freiverfügbaren Fotos aus dem Internet (z.B. aus Sozialen Medien) [steht in der Kritik](https://www.deutschlandfunk.de/was-ngos-gegen-automatischen-gesichtsabgleich-haben-interview-markus-beckedahl-100.html), vor allem, wenn diese von den Sicherheitsbehörden an externe Firmen weitergegeben werden und nicht auszudenken ist, wenn diese Technik in die Hände einer AfD-Landesregierung fiele, die damit gezielt Andersdenkende überwachen könnte.
+
+Europol, die Polizeibehörde der EU, hat [nach Aussagen ehemaliger Mitarbeitende](https://correctiv.org/datenschutz/2026/05/05/sie-schuetzen-das-gesetz-und-brechen-es-europols-schatten-it-aufgedeckt/) (bestätigt durch interne Dokumente und geleakten E-Mail-Verkehr) parallel zu den offiziellen Systemen eine "Schatten-IT-Umgebung" betrieben (geheim gehalten vor dem Europäischen Datenschutzbeauftragten) (und möglicherweise immer noch betrieben), in der man sich bewusst nicht an die rechtlich notwendigen Sicherheits- und Datenschutzvorkehrungen gehalten hat. So konnten auch von Personen Telefonverbindungsdaten, Ausweisdokumente sowie Finanz- und Standortdaten abgerufen und ausgewertet werden, ohne dass diese einer Straftat verdächtigt wurden. Es wurde zudem nicht protokolliert, wer welche Abfrage gemacht hat. Mit einer Anwendung names "Pressure Cooker" (Schnellkochtopf) ließen sich außerdem bei der Datenanalyse EU-Gesetze umgehen.
+
+[Nach Recherchen von WDR, NDR und SZ](https://www.tagesschau.de/investigativ/ndr-wdr/verfassungsschutz-palantir-100.html) hat der Bundesverfassungsschutz mit [ArgonOS](https://www.chapsvision.com/de/plattform/argonos/) von ChapsVision wohl eine eine Palantir-Alternative aus Frankreich eingekauft.
+
+Trotz steigender Zahl an Datenschutzbeschwerden durch KI-Anwendungen [will Baden-Württemberg](https://www.heise.de/news/Kahlschlag-beim-Datenschutz-Baden-Wuerttemberg-plant-massive-Stellenkuerzungen-11288492.html) 40 Prozent der Stellen beim Landes-Datenschutzbeauftragten streichen, Ressourcen die direkten Ansprechpartner für Startups und Bürger vor Ort dann fehlen. Dass die Kontrollinstanzen geschwächt werden und gleichzeitig die digitalen Überwachungsbefugnisse der Polizei hinsichtlich KI-Videoüberwachung und biometrischer Fernidentifikation ausgeweitet werden, wirkt jedenfalls nicht vertrauensbildend.
+
+Die Seite [DataDoom](https://datadoom.de) zeigt an, welche Firmen(-netzwerke) hinter den Apps, die man nutzt, stecken, und ob man besser wechseln sollte. Für den Wechsel wird einem ein Aktionsplan (z.B. Datenexport, welche Konfiguration beim neuen Tool vornehmen) angeboten.
 
 ## Sicherheit
-* Massiver Datendiebstahl in Litauen
-  https://www.heise.de/news/Massiver-Datendiebstahl-in-Litauen-11309035.html
-* Portugal hat einen neuen Rechtsrahmen für Cybersicherheit verabschiedet, er orientiert sich an der europäischen NIS2-Richtlinie. Diese Reform stärkt die Rolle der portugiesischen Behörde für Cybersecurity: ethisches Hacking ist somit nicht mehr strafbar.
-  https://www.arte.tv/de/videos/133466-000-A/portugal-ethische-hacker-gegen-cyberkriminalitaet/
-* Datenleck in der Schweiz: Offene Datenbanken bei Parkplatz-Überwachungsfirmen
-  https://www.heise.de/news/Datenleck-in-der-Schweiz-Offene-Datenbanken-bei-Parkplatz-Ueberwachungsfirmen-11310487.html
-* Wie SSD-Zugriffszeiten zum digitalen Fingerabdruck werden
-  https://www.heise.de/news/Webbrowser-koennen-Informationen-durch-SSD-Zugriffszeiten-ausspaehen-11311895.html
+In Litauen wurden mehr als 600.000 Datensätzen aus einem staatlichen Register [bei einem Cyberangriff abgegriffen](https://www.heise.de/news/Massiver-Datendiebstahl-in-Litauen-11309035.html). Solche Daten könnten nun für Betrug und Identitätsdiebstahl verwendet werden.
+
+Wie schnell sensible Daten durch eine Fehlkonfiguration ungeschützt im Netz stehen können, [zeigt das Datenleck](https://www.heise.de/news/Datenleck-in-der-Schweiz-Offene-Datenbanken-bei-Parkplatz-Ueberwachungsfirmen-11310487.html) bei Parkplatz-Überwachungsfirmen in der Schweiz.
+
+In Portugal ist [durch die Verabschiedung](https://www.arte.tv/de/videos/133466-000-A/portugal-ethische-hacker-gegen-cyberkriminalitaet/) eines neuen Rechtsrahmen für Cybersicherheit ethisches Hacking nicht mehr strafbar. Damit müssen solche [White Hats](https://de.wikipedia.org/wiki/White_hat) nicht mehr fürchten, selbst kriminalisiert zu werden, wenn sie Sicherheitslücken melden.
+
+Webseiten als auch Apps haben unterschiedliche SSD-Zugriffsmuster, worüber sie sich identifizieren lassen. Auf diese digitalen Fingerabdrücke können über den Web-Browser via Seitenkanalangriff, [mitgeschnitten werden](https://www.heise.de/news/Webbrowser-koennen-Informationen-durch-SSD-Zugriffszeiten-ausspaehen-11311895.html) und offenbaren Informationen über das Nutzerverhalten.
 
 ## No-BrAIner
 * Meine Wald KI
