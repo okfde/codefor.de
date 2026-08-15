@@ -283,78 +283,44 @@ In Portugal ist [durch die Verabschiedung](https://www.arte.tv/de/videos/133466-
 Webseiten als auch Apps haben unterschiedliche SSD-Zugriffsmuster, worüber sie sich identifizieren lassen. Auf diese digitalen Fingerabdrücke können über den Web-Browser via Seitenkanalangriff, [mitgeschnitten werden](https://www.heise.de/news/Webbrowser-koennen-Informationen-durch-SSD-Zugriffszeiten-ausspaehen-11311895.html) und offenbaren Informationen über das Nutzerverhalten.
 
 ## No-BrAIner
-* Meine Wald KI
-  https://survey123.arcgis.com/share/ab033e05717f4dccae9f203b8d4f7772
-  via https://wisskomm.social/@MeineWaldKI/116600103279194888
-* Klimaschutz statt KI-Wahn
-  https://weact.campact.de/petitions/klimaschutz-statt-ki-wahn
-  https://chaos.social/@algorithmwatch/116647024521259102
-* KI und das Orakel von Delphi: Warum beide mit Deutung statt Wissen arbeiten
-  https://www.telepolis.de/article/KI-und-das-Orakel-von-Delphi-Warum-beide-mit-Deutung-statt-Wissen-arbeiten-11311093.html
-* Jetzt wird Google von der Suchmaschine zur Antwortmaschine
-  https://www.tagesanzeiger.ch/google-search-ai-ersetzt-blaue-links-ab-sofort-776954306306
-* Ronny Chieng Tells Harvard to "Destroy AI" as Graduates Cheer
-  https://www.harvardmagazine.com/commencement/class-day-ronny-chieng-harvard
 ### Wikiverse
-* AI + Wikidata - serving open knowledge - PoliLoom attempts to automatically extract unstructured information from sources like Wikipedia, to add to Wikidata as - you guessed it - structured information.
-  https://everypolitician.org/about/contribute/poliloom/
-  https://wikis.world/@wikidata/116562648006760998
-* From Signals to Infrastructure: Strengthening the Commons for the AI Era
-  https://creativecommons.org/2026/05/13/from-signals-to-infrastructure-strengthening-the-commons-for-the-ai-era/
-  via https://chaos.social/@stk/116585714886841904
-### Softwareentwicklung
-* Kolumne 24 Vibe Coding: "Alle wissen, dass es Heimwerkerei gibt und dass sie nicht dasselbe ist wie Brückenkonstruktion"
-  https://norden.social/@wahlatlas/116551607434275923
-  * „Man bekommt [bei ChatGPT] auch eine viel freundlichere Antwort [als bei StackOverflow] 
-    https://norden.social/@wahlatlas/116551575362294364
-* "Mit KI-generiertem Code schaffen sich Unternehmen mitunter große Probleme. 70 Prozent der befragten Führungskräfte sagen in einer Studie, dass die Betreuung von Testumgebungen für sie mittlerweile eine größere Belastung darstellt als das Schreiben des Codes selbst"
-  https://www.cloudbees.com/lp/2026-state-of-code-abundance-report
-  via https://mastodon.social/@dennishorn/116613155178269967
-### Arbeit
-* Viel KI, nichts dahinter? Langzeitstudie „Arbeitswelten im Wandel“ zeigt: Darum werden deutsche Büros nicht effizienter
-  https://nachrichten.idw-online.de/2026/05/13/viel-ki-nichts-dahinter-langzeitstudie-arbeitswelten-im-wandel-zeigt-darum-werden-deutsche-bueros-nicht-effizienter
-### Rechtliches
-* Pflichten des EU AI Act
-  https://www.heise.de/news/EU-AI-Act-Was-bis-August-2026-in-Unternehmen-erledigt-sein-muss-11289663.html
-### Negative Folgen
-* Aus Angst von KI gehackt zu werden, schaltet die Gesundheitsbehörde in Großbritannien ihre Open-Source-Repos auf privat
-  https://www.newscientist.com/article/2524962-nhs-england-rushes-to-hide-software-over-ai-hacking-fears/
-  via https://mastodon.social/users/Edent/statuses/116499146658427751
-* Neben den Kosten für #OSM wirkt das Scrapen ähnlich wie ein #DDoS-Angriff und verschlechtert die Servicequalität für reguläre Nutzer.
-  https://www.heise.de/news/OpenStreetMaps-sorgt-sich-Tausende-KI-Bots-erfassen-Daten-11156876.html
-  https://mapstodon.space/@OSM_tourism/116526913831400129
-* just a 10-minute session with an AI assistant can lead to users significantly abandoning their own capacity for reasoning.
-  https://gizmodo.com/spending-just-10-minutes-with-ai-can-fry-your-brain-researchers-find-2000755701
-* Wie KI beginnt, den Menschen zu verändern
-  https://www.telepolis.de/article/Wie-KI-beginnt-den-Menschen-zu-veraendern-11305338.html
-* Kampf dem KI-Training: Immer mehr Nachrichtenseiten sperren Wayback Machine aus
-  https://social.heise.de/@heiseonline/116639536287665884
-* Unlawful by design: Exposing the human rights costs of generative AI - Amnesty International
-  https://www.amnesty.org/en/documents/pol40/0996/2026/en/
-  via https://toot.cafe/@baldur/116669162614205303
-* Im Kreislauf des Misstrauens
-  https://zeitung.faz.net/data/833/reader/reader.html#!preferred/0/package/833/pub/1141/page/11/content/154281
-  via https://bsky.app/profile/hedwigrichter.bsky.social/post/3mmzcymj5k227
-### Kosten
-* Company accidentally spent $500 million on Claude AI in one month after forgetting usage limits
-  https://techstartups.com/2026/05/28/company-accidentally-spent-500-million-on-claude-ai-in-one-month-after-forgetting-usage-limits/
-  via https://dair-community.social/users/timnitGebru/statuses/116664117796381623
-* Sechs Monate nach Einführung: Microsoft nimmt Entwicklern Claude Code wieder weg
-  https://t3n.de/news/microsoft-nimmt-entwicklern-claude-code-nach-monaten-wieder-weg-1742686/
-### Ressourcenverbrauch
-* Rechenzentrum in Georgia entnimmt unbemerkt 110 Millionen Liter Wasser
-  https://www.heise.de/news/Rechenzentrum-in-Georgia-entnimmt-unbemerkt-110-Millionen-Liter-Wasser-11290889.html
-* US-Stromerzeuger dreht wegen Rechenzentren 50.000 Menschen den Saft ab
-  https://www.n-tv.de/wirtschaft/US-Stromerzeuger-dreht-wegen-Rechenzentren-50-000-Menschen-den-Saft-ab-id30819866.html
+[PoliLoom](https://everypolitician.org/about/contribute/poliloom/) versucht automatisch (mit KI) aus unstrukturierte Informationen von Quellen wie Wikipedia strukturierte Informationen [abzuleiten](https://wikis.world/@wikidata/116562648006760998) und diese (wenn man dies im Wikipedia-Editor bestätigt) gleich bei Wikidata abzulegen. 
+
+[Letztes Jahr](https://creativecommons.org/2025/05/15/understanding-cc-licenses-and-ai-training-a-legal-primer/) wurde die Idee der [Creative Commons Signals](https://creativecommons.org/cc-signals/) vorgestellt, mit denen Schöpfer von Inhalten digital kommunizieren können, ob und unter welchen Bedingungen (Lizenzen) ihre Arbeit von KI-Systemen verwendet werden dürfen. Gleichzeitig kann man so nachverfolgen woher einzelne Angaben in KI-generierten Antworten herstammen. Aber seine Wünsche zu kommunzieren und zu hoffen, dass die KI-Scraper sie respektieren, reicht eben nicht, es braucht Mechanismen sie durchsetzen bzw. bei Verstößen sanktionieren zu können. Deswegen sollen die CC Signals nun [weiterentwickelt werden](https://creativecommons.org/2026/04/23/update-on-cc-signals-what-changed-and-why/) und [Werkzeuge geschaffen werden](https://creativecommons.org/2026/05/13/from-signals-to-infrastructure-strengthening-the-commons-for-the-ai-era/), mit denen Attribution aber einer Zugangskontrolle zu den Inhalten, die eine KI nicht so leicht umgehen kann, für Menschen aber immer noch offen genug bleibt. Denn das Ziel bleibt das gleiche: vielfältige qualititativ hochwertige Informationen im Sinne einer gemeinwohlorientierten KI ([Public Interest AI](https://publicinterest.ai)) vor einer Konzentration bei wenigen kommerziellen Akteuren, die dann den Zugang zu ihnen kontrollieren können, zu schützen. 
+
+### (Wissens-)Arbeit
+Antworten statt Links: [bei den geplanten Änderungen](https://www.tagesanzeiger.ch/google-suchmaschine-wird-zur-ai-plattform-umgebaut-584548224665) auf der Eintiegsseite von Google treten Suchtreffer in Form von Links zu Gunsten ineraktive KI-gestützter Inhalte [immer mehr in den Hintergrund](https://www.tagesanzeiger.ch/google-search-ai-ersetzt-blaue-links-ab-sofort-776954306306). Was bequem scheint und die eigentliche Quellenarbeit abnimmt, damit aber auch potenziell die notwendige [Quellenkritik](https://de.wikipedia.org/wiki/Quellenkritik), wenn die erstbeste Antwort als die einzig wahre nicht mehr hinterfragt, mit Macht für den Algorithmus, der entscheidet, welche die erstbeste ist (jetzt schon ein Problem beim Suchergebnisseranking). 
+
+Am 2. August 2026 treten die [Transparenzpflichten](https://bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/4_Transparenzpflichten/start.html) des EU AI Act in Kraft. Je nach Risiko-Klassifikation der eigenen KI-nutzenden Anwendung müssen Anbieter ihren Nutzenden offenlegen, dass bei der Bedienung KI im Hintergrund genutzt wird bzw. ausgelieferte Inhalte / Ergebnisse KI-generiert sind.
+
+Im Bericht ["The State of Code Abundance 2026"](https://www.cloudbees.com/lp/2026-state-of-code-abundance-report) von CloudBees listet die versteckten Risiken bei Betrieb, Verwaltung und Finanzen durch in Teilen KI-generierte Software auf Unternehmen zukommen können. Schon jetzt gibt es in Software-Team das Problem mit der [Code-Ownership](https://en.wikipedia.org/wiki/Code_ownership) - wer fühlt bzw. ist verantwortlich, wenn Fehler im nun nicht mehr persönlich geschriebenen Code entdeckt werden? Ab wann hat man genügend Vertrauen in die entwickelte Software, dass man sie produktiv nehmen kann? In der Zeit, die man mit KI spart, kann man noch mehr Code schreiben / generieren lassen, nur steigt so auch die Komplexität und der Überblick und damit die Kontrolle geht verloren. Ernsthafte Qualitätskontrolle durch Code-Reviews und ausreichend Testabdeckung (und diese über die Zeit aktuell zu halten) können kaum Schritt halten. Die Kosten, die man am Anfang der Kette eingespart hat, muss man nun am Ende der Kette investieren. 
+
 ### Finanzen
-* Now you can keep track of how many billions the AI companies are losing on AI. 
-  https://isaiprofitable.com
-  via https://mastodon.social/@MikeElgan/116628156172886406
-* $9 Trillion Collapse Machine
-  https://znetwork.org/znetarticle/9-trillion-collapse-machine/
-### Maßnahmen
-* KI-Papers bei arXiv: Sperre bei erstem Verstoß
-  https://www.heise.de/news/KI-Papers-bei-arXiv-Sperre-bei-erstem-Verstoss-11296035.html
+Ein Unternehmen hatte vergessen, ein Kostenoberlimit für die Nutzung von Anthropics Claude zu setzen, was dazu zu führte, dass auf der Monatsabrechnung [die Summe 500 Millionen Dollar](https://techstartups.com/2026/05/28/company-accidentally-spent-500-million-on-claude-ai-in-one-month-after-forgetting-usage-limits/) stand, weil seine Angestellten die LLM-Funktion exzessiv genutzt hatten. Auch bei Microsoft hat man nur sechs Monate nach Einführung von Claude den Entwicklern die Lizenzen [wieder weggenommen](https://t3n.de/news/microsoft-nimmt-entwicklern-claude-code-nach-monaten-wieder-weg-1742686/) (und damit den größten Kostenposten eliminiert) und dazu angehalten den Firmen-internen Copilot zu nutzen, wenn auch dieser noch nicht so gut ist, wie Claude.
+
+Auf der Webseite [Is AI Profitable Yet?](https://isaiprofitable.com) wird (ehrenamtlich) abgeschätzt, wie viel die führenden KI-Unternehmen bereits investiert haben und wie viel Umsatz tatsächlich mit der Technologie bisher erzielt haben. Da die Unternehmen untereinander verquickt sind, kann es teilweise aber auch zu Doppelzählung kommen. Außerdem steht zu den Einnahmen immer noch nicht genügend belastbare Informationen zur Verfügung. Aber auch schon so sieht, wie stark die Ausgaben die Einnahmen übertreffen, das derzeitige Verlustgeschäft als exorbitante Wette auf die Zukunft. Die systemischen Risiken, die sowohl bei einem "Erfolg" als auch mit einem Platzen der KI-Blase einhergehend, [werden zunehmend bewusst](https://znetwork.org/znetarticle/9-trillion-collapse-machine/). 
+
+### Negative Folgen
+[Aus Angst](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/), von KI gehackt zu werden, [schaltet die Gesundheitsbehörde](https://www.newscientist.com/article/2524962-nhs-england-rushes-to-hide-software-over-ai-hacking-fears/) in Großbritannien ihre Open-Source-Repos auf privat.
+
+[Tausende KI-Bots](https://www.heise.de/news/OpenStreetMaps-sorgt-sich-Tausende-KI-Bots-erfassen-Daten-11156876.html) versuchen regelmäßig Daten von der OpenStreetMap zu scrapen. Durch die so erzeugte Last müssen die Server nach oben skaliert werden, was zusätzliche Kosten verursacht. Die vielen Zugriffe haben eine Wirkung wie DDoS-Angriff und machen die Benutzung des Kartendienstes für normale Nutzer langsamer bis unmöglich (wenn z.B. als Gegenwehr ganze IP-Adressbereich als Gegenwehr geblockt werden müssen). Dabei gibt es die Daten auf [planet.openstreetmap.org](https://planet.openstreetmap.org) frei zum Download und müsste die Hauptseite [gar nicht mit Scrapen belasten](https://mapstodon.space/@OSM_tourism/116526913831400129).
+
+Die Scraper der Wayback Machine werden von immer mehr Nachrichtenseiten [blockiert](https://www.heise.de/news/Kampf-dem-KI-Training-Immer-mehr-Nachrichtenseiten-sperren-Wayback-Machine-aus-11305812.html) mit dem Ziel, dass KI-Systeme bei diesem Archiv-Dienst keine zentrale Anlaufstelle mehr zum Trainieren mit solchen Inhalten haben. Damit wird allerdings das eigentliche hehre Ziel der Seite torpediert, Webseiten-Versionsstände für die Nachwelt zu archivieren.
+
+Die Wissenschaftsplattform arXiv greift inzwischen auf rigeros durch: wer KI-generierte Papers als eigene Arbeit ausgibt und dort versucht hochzuladen, wird bei Entdeckung [mit einer sofortigen Sperre von einem Jahr belegt](https://www.heise.de/news/KI-Papers-bei-arXiv-Sperre-bei-erstem-Verstoss-11296035.html).
+
+Nicht nur, dass es für Lehrende an Universitäten immer schwerer wird, nachzuweisen, dass Hausarbeiten plagiiert wurden, [das latente Misstrauen](https://bsky.app/profile/hedwigrichter.bsky.social/post/3mmzcymj5k227), das beim Lesen in der Luft liegt und damit verloren gegangene Freude am intellektuellen Austausch wiegen noch schwerer.
+
+[Eine Studie](https://ai-project-website.github.io/AI-assistance-reduces-persistence/) belegt, dass bereits eine 10-minütige Sitzung mit einem KI-Assistenten ausreicht, dass die eigene Fähigkeit zu kritischem Urteilen und die Problemlösungskompetenz [signifikant abbaut](https://gizmodo.com/spending-just-10-minutes-with-ai-can-fry-your-brain-researchers-find-2000755701).
+
+Die Praktiken, unter den Daten gesammelt und KI-Modelle trainiert werden, sind nicht kompatibel mit der [Internationalen Menschenrechtscharta](https://de.wikipedia.org/wiki/Internationale_Menschenrechtscharta), stellt Amnesty International in [einem Bericht](https://www.amnesty.org/en/documents/pol40/0996/2026/en/) fest, denn sie bedrohen Meinungsfreiheit und das Recht auf Privatsphäre. Amnesty verlangt daher das Verbot von KI-Systemen, die auf solchen Praktiken beruhen.
+
+### Ressourcenverbrauch
+Nicht nur dass eine US-Serverfarm in der Nähe von Atlanta monatelang Wasser ungenehmigt insgesamt 110 Millionen Liter Wasser [entnommen hatte](https://www.heise.de/news/Rechenzentrum-in-Georgia-entnimmt-unbemerkt-110-Millionen-Liter-Wasser-11290889.html), es bezahlte auch die dafür fälligen 50.000 US-Dollar zunächst nicht, erst als Anwohnende sich über den ungewöhnlich niedrigen Wasserdruck beschwerten, fiel der Behörde auf, dass während der Umstellung auf Smart Meter, ein Anschluss seines Wissens bestand und ein zweiter nicht mit dem Kundenkonto des Unternehmens verknüpft war. Als größte Kunde der Gemeinde muss das Unternehmen aber keine Strafe fürchten. 
+
+Die Region um den Lake Tahoe nahe der Grenze zwischen Kalifornien und Nevada will der örtliche Stromanbieter ab Mai 2027 [nicht mehr versorgen](https://www.n-tv.de/wirtschaft/US-Stromerzeuger-dreht-wegen-Rechenzentren-50-000-Menschen-den-Saft-ab-id30819866.html), weil die Kapazitäten für Rechenzentren in Nevada gebraucht werden. Die 50.000 Bürger:innen stehen nun vor der Herausforderung einen neuen Anbieter zu finden, was dann für Stromkosten auf sie kommen, ist ebenfalls unklar.
+
+Das deutsche Energieeffizienzgesetz verpflichtet Rechenzentrumsbetreiber bisher, die Zahlen ihres Strom- und Wasserverbrauchs zu veröffentlichen. Auf Druck der Betreiber sollen nun aber Informationen zu Energieverbrauch und zu CO₂-Emissionen als "Geschäftsgeheimnis" nicht mehr veröffentlichungspflichtig sein. Das Wirtschaftsministerium hat dazu unterwürfig Passagen der Tech-Lobby-Forderungen teils wörtlich übernommen. Die Effizienzstandards für die Rechenzentren wurden dabei gleich auch noch abgesenkt, und somit auch die Anreize, keine Energie zu verschwenden. Um nicht tatenlos diesem Treiben zusehen zu müssen, hat AlgorithmWatch die Petition ["Klimaschutz statt KI-Wahn"](https://weact.campact.de/petitions/klimaschutz-statt-ki-wahn) gestartet, die zu mindestens mit [dazu geführt hat](https://chaos.social/@algorithmwatch/116647024521259102), dass die für den 27. Mai geplante Abstimmung wegen bestehenden Uneinigkeiten in der Koalition verschoben wurde. 
 
 ## Recap
 * [2MR](https://2mr.social/vod/) + [Medienberichterstattung](https://berlin.social/@kingconsult/116533567503121462)
@@ -365,6 +331,9 @@ Webseiten als auch Apps haben unterschiedliche SSD-Zugriffsmuster, worüber sie 
 * [Berlin MapTime](https://www.linkedin.com/posts/hans-hack-001683303_maptime-maps-beyond-the-screen-what-ugcPost-7457333448345825280-ZTr0/)
 * [5. Open Data Barcamp der Bertelsmann Stiftung](https://www.linkedin.com/posts/buerge-uprak_opendata-odb26-ugcPost-7465368366308814848-Ty23/)
 
+## Und sonst so
+[570 unterschiedliche](https://bitbang.social/@loadhigh/116602901295099756) Betriebssysteme (das älteste von 1948), für über 250 Plattformen vorkonfiguriert in virtuellen Umgebungen kann man sich beim [Virtual OS Museum](https://virtualosmuseum.org) herunterladen.
+
 ## Fristen
 * [container.gov interim Technical Advisory Board (TAB)](https://container.gov.de/call-for-applications-form/), Call for Applications, bis 08.06.2026
 * [Fediday](https://ctalx.c-base.org/fediday-2026/cfp), bis 14.06.2026
@@ -372,30 +341,6 @@ Webseiten als auch Apps haben unterschiedliche SSD-Zugriffsmuster, worüber sie 
 * [Chaotischer Catalysator Stipendium](https://chaos-stipendien.de/blog/2026/sommer-semester-2026/)
 * [MRMCD](https://events.ccc.de/2026/05/14/mrmcd2026/)
 * [kulturBdigital-Konferenz](https://www.kultur-b-digital.de/call-for-participation-kulturbdigital-konferenz-2026/), bis 30.06.2026
-
-## Und sonst so
-* The Virtual OS Museum
-  https://virtualosmuseum.org
-  via https://bitbang.social/@loadhigh/116602901295099756
-
-## Termine
-* Barcamp Open Science 2026, 10.6.
-  https://www.barcamp-open-science.eu
-* Lange Nacht der Wissenschaften Berlin
-  https://www.langenachtderwissenschaften.de
-  z.B. https://future-energy-lab.de/events/lange-n8-der-wissenschaften-26/
-* Lange Nacht der Wissenschaften Dresden, 26.6.
-  https://tu-dresden.de/forschung-transfer/wissenschaftskommunikation/veranstaltungsformate/die-lange-nacht-der-wissenschaften
-* 11.-12.06. #WikiKult Netzwerktreffen, Thema "Wikidata in Kulturerbeinstitutionen” 
-  https://meta.wikimedia.org/wiki/WikiKult_Netzwerktreffen_2026
-* 10 Jahre Hacklabor Sommerfest, 27.6.
-  https://www.hacklabor.de/2026/06/10-jahre-hacklabor/
-* 30.6./1.7. BMDS richtet SPARK-Hackathon aus
-  https://bmds.bund.de/aktuelles/pressemitteilungen/detail/ki-fuer-schnellere-genehmigungen-bmds-richtet-spark-hackathon-aus
-* WikiProjects Days (19.–21. Juni)
-  https://www.wikidata.org/wiki/Event:WikiProjects_Days_2026
-* 10 Jahre Hacklabor Schwerin!, 27.6.
-  https://www.hacklabor.de/2026/06/10-jahre-hacklabor/
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Montag, 01.06.2026, 09:00-18:00, Lokschuppen Marburg, Rudolf-Bultmann-Straße 4h, 35039 Marburg: **Kongress: Digitale Städte – Digitale Regionen** <a title='Kalendereintrag Kongress: Digitale Städte – Digitale Regionen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vS29uZ3Jlc3M6IERpZ2l0YWxlIFN0w6RkdGUg4oCTIERpZ2l0YWxlIFJlZ2lvbmVuLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwNjA4VDIwMTkzN1oNCkRUU1RBUlQ6MjAyNjA2MDFUMDkwMDAwDQpEVEVORDoyMDI2MDYwMVQxODAwMDANClNVTU1BUlk6S29uZ3Jlc3M6IERpZ2l0YWxlIFN0w6RkdGUg4oCTIERpZ2l0YWxlIFJlZ2lvbmVuDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpZ2l0YWxlcy5oZXNzZW4uZGUvdWViZXItdW5zL3ZlcmFuc3RhbHR1bmdlbi9kaWdpdGFsZS1zdGFlZHRlLWRpZ2l0YWxlLXJlZ2lvbmVuLTMNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046TG9rc2NodXBwZW4gTWFyYnVyZ1wsIFJ1ZG9sZi1CdWx0bWFubi1TdHJhw59lIDRoXCwgMzUwMzkgTWFyYnVyZw0KR0VPOjUwLjgxNjY2NjU7OC43Nzg0NDk2MTgwMDQyNg0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
@@ -462,6 +407,8 @@ Webseiten als auch Apps haben unterschiedliche SSD-Zugriffsmuster, worüber sie 
   * https://hadr.un-hack-bar.de
 * Freitag, 19.06.2026, 14:00, bis Sonntag, 21.06.2026, 16:00, Theater an der Parkaue, Parkaue 29, 10367 Berlin: **Jugend Hackt Berlin** <a title='Kalendereintrag Jugend Hackt Berlin' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vSnVnZW5kIEhhY2t0IEJlcmxpbi8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDYwOFQyMDE5MzdaDQpEVFNUQVJUOjIwMjYwNjE5VDE0MDAwMA0KRFRFTkQ6MjAyNjA2MjFUMTYwMDAwDQpTVU1NQVJZOkp1Z2VuZCBIYWNrdCBCZXJsaW4NCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vYW5tZWxkdW5nLmFscGFrYS5zcGFjZS9iZXJsaW4vaGFja2F0aG9uLTIwMjYvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOlRoZWF0ZXIgYW4gZGVyIFBhcmthdWVcLCBQYXJrYXVlIDI5XCwgMTAzNjcgQmVybGluDQpHRU86NTIuNTE2OTkzOzEzLjQ3NzIwMzENCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
   * https://anmeldung.alpaka.space/berlin/hackathon-2026/
+* Freitag, 19.06.2026, bis Sonntag 21.06.2026: **WikiProjects Days**
+  * https://www.wikidata.org/wiki/Event:WikiProjects_Days_2026
 * Dienstag, 23.06.2026, 09:00-10:00, online: **Data Storytelling mit KI: Kleine Helfer, damit deine Daten überzeugen** <a title='Kalendereintrag Data Storytelling mit KI: Kleine Helfer, damit deine Daten überzeugen' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGF0YSBTdG9yeXRlbGxpbmcgbWl0IEtJOiBLbGVpbmUgSGVsZmVyXCwgZGFtaXQgZGVpbmUgRGF0ZW4gw7xiZXJ6ZXVnZW4vL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA2MDhUMjAxOTM3Wg0KRFRTVEFSVDoyMDI2MDYyM1QwOTAwMDANCkRURU5EOjIwMjYwNjIzVDEwMDAwMA0KU1VNTUFSWTpEYXRhIFN0b3J5dGVsbGluZyBtaXQgS0k6IEtsZWluZSBIZWxmZXJcLCBkYW1pdCBkZWluZSBEYXRlbiDDvGJlcnpldWdlbg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9jb3JyZWxhaWQub3JnL3ZlcmFuc3RhbHR1bmdlbi93cy1za2FsYS1jYW1wdXMta2kNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://correlaid.org/veranstaltungen/ws-skala-campus-ki
 * Dienstag, 23.06.2026, 19:30-21:00, online: **Verkehrswende-Meetup** <a title='Kalendereintrag Verkehrswende-Meetup' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vVmVya2VocnN3ZW5kZS1NZWV0dXAvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA2MDhUMjAxOTM3Wg0KRFRTVEFSVDoyMDI2MDYyM1QxOTMwMDANCkRURU5EOjIwMjYwNjIzVDIxMDAwMA0KU1VNTUFSWTpWZXJrZWhyc3dlbmRlLU1lZXR1cA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93aWtpLm9wZW5zdHJlZXRtYXAub3JnL3dpa2kvVmVya2VocnN3ZW5kZS1NZWV0dXAvTWVldHVwXzIwMjYtMDYtMjMNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
@@ -474,8 +421,12 @@ Webseiten als auch Apps haben unterschiedliche SSD-Zugriffsmuster, worüber sie 
   * https://www.mitforschen.org/veranstaltungen/digitale-mittagspause
 * Freitag, 26.06.2026, 17:00-23:59, Living Lab Dresden, Andreas Pfitzmann Bau, Raum: 1020, Nöthnitzer Str. 46, 01187 Dresden: **Dresden Science Night 2026** <a title='Kalendereintrag Dresden Science Night 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRHJlc2RlbiBTY2llbmNlIE5pZ2h0IDIwMjYvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA2MDhUMjAxOTM3Wg0KRFRTVEFSVDoyMDI2MDYyNlQxNzAwMDANCkRURU5EOjIwMjYwNjI2VDIzNTk1OQ0KU1VNTUFSWTpEcmVzZGVuIFNjaWVuY2UgTmlnaHQgMjAyNg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9zY2Fkcy5haS9ldmVudC9sYW5nZS1uYWNodC1kZXItd2lzc2Vuc2NoYWZ0ZW4vZHJlc2Rlbi1zY2llbmNlLW5pZ2h0LTIwMjYvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOkxpdmluZyBMYWIgRHJlc2RlblwsIEFuZHJlYXMgUGZpdHptYW5uIEJhdVwsIFJhdW06IDEwMjBcLCBOw7Z0aG5pdHplciBTdHIuIDQ2XCwgMDExODcgRHJlc2Rlbg0KR0VPOjUxLjAyNTQ2MDc7MTMuNzIzMTA5DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://scads.ai/event/lange-nacht-der-wissenschaften/dresden-science-night-2026/
+* Samstag, 27.06.2026: **10 Jahre Hacklabor Schwerin**
+  * https://www.hacklabor.de/2026/06/10-jahre-hacklabor/
 * Dienstag, 30.06.2026, 13:15-14:45, online: **Der Forschungszugang nach Digital Services Act (DSA)** <a title='Kalendereintrag Der Forschungszugang nach Digital Services Act (DSA)' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGVyIEZvcnNjaHVuZ3N6dWdhbmcgbmFjaCBEaWdpdGFsIFNlcnZpY2VzIEFjdCAoRFNBKS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDYwOFQyMDE5MzdaDQpEVFNUQVJUOjIwMjYwNjMwVDEzMTUwMA0KRFRFTkQ6MjAyNjA2MzBUMTQ0NTAwDQpTVU1NQVJZOkRlciBGb3JzY2h1bmdzenVnYW5nIG5hY2ggRGlnaXRhbCBTZXJ2aWNlcyBBY3QgKERTQSkNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vYmxvZ3MuZnUtYmVybGluLmRlL29wZW4tcmVzZWFyY2gtYmVybGluL2NhdGVnb3J5L3ZlcmFuc3RhbHR1bmdzaGlud2Vpc2UvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
   * https://blogs.fu-berlin.de/open-research-berlin/category/veranstaltungshinweise/
+* Dienstag, 30.06.2026, bis Mittwoch, 01.07.2026: **SPARK-Hackathon**
+  * https://bmds.bund.de/aktuelles/pressemitteilungen/detail/ki-fuer-schnellere-genehmigungen-bmds-richtet-spark-hackathon-aus
 * Freitag, 03.07.2026, 11:00, bis Sonntag, 05.07.2026, 17:15, Aaccelerator, Blezingerstraße 15, 73430 Aalen: **FAT26** <a title='Kalendereintrag FAT26' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRkFUMjYvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA2MDhUMjAxOTM3Wg0KRFRTVEFSVDoyMDI2MDcwM1QxMTAwMDANCkRURU5EOjIwMjYwNzA1VDE3MTUwMA0KU1VNTUFSWTpGQVQyNg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9oYWNrd2Vyay5mdW4NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046QWFjY2VsZXJhdG9yXCwgQmxlemluZ2Vyc3RyYcOfZSAxNVwsIDczNDMwIEFhbGVuDQpHRU86NDguODU0NDMyOTsxMC4wOTA2MzQ3DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://hackwerk.fun
 * Freitag, 03.07.2026, 13:00-13:45, online: **artresearch.net. Wie vernetzen wir kunsthistorische Bildarchive? (Stefanie Schneider)** <a title='Kalendereintrag artresearch.net. Wie vernetzen wir kunsthistorische Bildarchive? (Stefanie Schneider)' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vYXJ0cmVzZWFyY2gubmV0LiBXaWUgdmVybmV0emVuIHdpciBrdW5zdGhpc3RvcmlzY2hlIEJpbGRhcmNoaXZlPyAoU3RlZmFuaWUgU2NobmVpZGVyKS8vaUNhbDRqIDEuMC8vRU4NCkJFR0lOOlZFVkVOVA0KRFRTVEFNUDoyMDI2MDYwOFQyMDE5MzdaDQpEVFNUQVJUOjIwMjYwNzAzVDEzMDAwMA0KRFRFTkQ6MjAyNjA3MDNUMTM0NTAwDQpTVU1NQVJZOmFydHJlc2VhcmNoLm5ldC4gV2llIHZlcm5ldHplbiB3aXIga3Vuc3RoaXN0b3Jpc2NoZSBCaWxkYXJjaGl2ZT8gKFN0ZWZhbmllIFNjaG5laWRlcikNCkxJTks7VkFMVUU9VUlEOmh0dHBzOi8vZGlnaXRhbGUta3Vuc3RnZXNjaGljaHRlLmRlL2FrdHVlbGxlcy9sdW5jaC1hbmQtbGVhcm4tenVyLWRpZ2l0YWxlbi1rdW5zdGdlc2NoaWNodGUvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOm9ubGluZQ0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
