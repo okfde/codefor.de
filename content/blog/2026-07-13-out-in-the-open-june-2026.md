@@ -12,36 +12,24 @@ type: blog
 ---
 
 ## Open Data
-* Musterdatenkatalog für Kommunen hat ein neues Zuhause gefunden
-  https://musterdatenkatalog.de/index.html
-  https://social.bund.de/@opendata/116683043279616434
-* Wie wichtig ist das Thema #Datenqualität in eurer Behörde?
-  https://discourse.opencode.de/t/online-umfrage-datenqualitaet-im-oeffentlichen-sektor/5456
-  https://social.bund.de/@opendatabund/116810079175270565
-* New API Access on Human Data Index (HDX): Tabular Data Endpoints
-  https://centre.humdata.org/new-api-access-on-hdx-tabular-data-endpoints/
-* Storage media quartet
-  https://chaos.social/@harvey/116686286136591013
-  https://github.com/dla-marbach/dla-datentraeger-quartett
-* OpenData und Seekarten in Deutschland
-  https://github.com/quantenschaum/mapping/blob/20ba44b1a7e34532c7e2001e610fd870c2956a8e/docs/opendata.md
-  https://digitalcourage.social/@derfopps/116720297012434364
-* Open Data macht Umwelt sichtbar: Offene Daten als Grundlage für Umweltwissen und Innovation
-  https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2026/BB_TdU.html
-* Open Data: European Bathing Water Quality
-  https://tobias.fellinger.wien/2026/06/24/open-data-european-bathing-water-quality/
+Der [Musterdatenkatalog für Kommunen](https://musterdatenkatalog.de/index.html) hat bei [GovData](https://www.govdata.de/) ein [neues Zuhause gefunden](https://social.bund.de/@opendata/116683043279616434).
 
-### KI
-* The open data centaurs: interacting with data via LLM-assisted structured queries
-  https://www.cottica.net/2026/06/02/the-open-data-centaurs-interacting-with-data-via-llm-assisted-structured-queries/
-  via https://mastodon.green/@alberto_cottica/116686754581037356
-* MCP-Server im Praxistest mit Berlins offenen Daten
-  https://odis-berlin.de/aktuelles/2026-06-29-mcp-server/
+Alle Verwaltungsmitarbeitenden sind aufgerufen, in [diesem Fragebogen](https://fitko.lamapoll.de/Datenqualit-t-im-ffentlichen-Sektor) zu bewerten, wie wichtig das Thema Datenqualität in ihrer jeweiligen Behörde ist. Die Ergebnisse der Umfrage sollen in ein Impulspapier [einfließen](https://discourse.opencode.de/t/online-umfrage-datenqualitaet-im-oeffentlichen-sektor/5456). Der so ermittelte Stellenwert, die organisatorische Verankerung, Maßnahmen zur Verbesserung, Dimensionen sowie den Reifegrad des Themas Datenqualität auf Bundes-, Länder- und kommunaler Ebene bilden dann die Arbeitsgrundlage für das Kompetenzteam "Data Governance". Dieses Team wurde aus Beteiligten verschiedener Bundesländer sowie des Bundes und der Kommunen im Rahmen des Schwerpunktthemas Datennutzung des IT-Planungsrats gerade aufgebaut.
 
-### Linked Open Data
-* Object-Oriented Linked Data (OO-LD): Linked Data Framework auf Basis von JSON-SCHEMA und JSON-LD
-  https://www.prototypefund.de/projects/object-oriented-linked-data-oo-ld
-  via https://mastodon.social/@PrototypeFund/116673862280909957
+Unter dem diesjährigen Motto "Climate Action" zeigt der Weltumwelttag die Bedeutung verlässlicher Informationen für Umwelt- und Klimaschutz. Umfangreiche offene und qualitätsgesicherte Daten [ermöglichen](https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2026/BB_TdU.html), den Zustand der Umwelt zu erfassen, Entwicklungen durch fundierte Analysen zu beobachten, deren unterschiedliche Bewertungen und Prognosen besser nachvollziehen zu machen und durch politische sowie gesellschaftliche Entscheidungen wirksame Maßnahmen abzuleiten. 
+
+Tobias Fellinger [zeigt Schritt für Schritt](https://tobias.fellinger.wien/2026/06/24/open-data-european-bathing-water-quality/), wie man für einen beliebigen (Urlaubs-)Ort in der EU die jährlichen Wasserqualitätsdaten von Badegewässern abrufen, klassifizieren und schließlich als farbige Marker auf einer Karte anzeigen lassen kann.
+
+[FreeNauticalChart.net](https://freenauticalchart.net/) ist nach Selbstbeschreibung "ein Open-Source- und Open-Data-Projekt, das kostenlose Seekarten für Segler, Wasser- und Kartografie-Enthusiasten sowie Entwickler bereitstellt. Es hat zum Ziel, amtliche Kartendaten leicht zugänglich zu machen. Es basiert auf Daten, die als Open Data verfügbar sind." Es gibt auch den deutlichen Hinweis, dass die Karten "nur zu Informations- und Referenzzwecken" dienen.
+"Sie sind nicht für die Navigation geeignet. Verwendung auf eigene Gefahr!" Doch wie [im Beitrag](https://github.com/quantenschaum/mapping/blob/20ba44b1a7e34532c7e2001e610fd870c2956a8e/docs/opendata.md) dokumentiert, dass nachdem das Projekt Beachtung und Anerkennug in einschlägigen Magazinen wie "Yacht" und "Segeln" als auch in der Community fand, das Bundesamt für Seeschifffahrt und Hydrographie (BSH) begann, Punktlotungen aus dem öffentlich zugänglichen Datenbestand zu entfernen, über restriktivere Servereinstellungen den Zugriff auf die Daten zu erschweren, sowie weitere Teile der Daten entfernt. Zudem wurde die Klausel "Die Verwendung der Daten zu Navigatonszwecken ist nicht gestattet." in die Nutzungsbedingungen neu aufgenommen. Nach Argumentation des BSH kann es keine Garantie für Daten geben, die Open-Data-Dienste aktuell zu halten, wäre zu großer Aufwand. Die Sachlage ist aber die, dass gesetzlich für die Freizeitschifffahrt die Papierkarte mit aktueller Berichtigung eh das einzig anerkannte Navigationsmittel bleibt, selbst lizensierte digitales Kartenprodukte sind somit ausgeschlossen, mal abgesehen davon, dass das BSH selbst für ihre über kommerziellen Lizenzen verkauften Daten ein Haftung für Qualität ausschließt. Länder wie die Niederlande und die USA zeigen allerdings, dass auch für die Navigation zugelassene offene Daten parallel zu kommerzielle (Verlag-)Angeboten existieren können. Es scheint nun nur noch eine Datennutzungsgesetz-(DNG)-/Geodatenzugangsgesetz-(GeoZG)-Klage gegen die zweckwidrige Nutzungsbeschränkung und faktische Unbenutzbarmachung der bereits offenen Daten helfen zu können. Denn die EU-Richtlinie 2019/1024 (Open-Data/PSI-Richtlinie) definiert Geodaten ausdrücklich als "hochwertige Datensätze", die in maschinenlesbarer Form, gebührenfrei und unter offenen Standardlizenzen bereitgestellt werden sollen. Daten, die mit Steuernmitteln erhoben wurde, sollten genauso wie es die Daten von BKG und DWD schon lange sind, lizenzfrei zur Verfügung stehen.
+
+Das Kartenquartettspiel für Speichermedien ist bei einer internen Schulung der Stabsstelle Digitales Archiv im DLA-Marbach [entstanden](https://chaos.social/@harvey/116686286136591013) und steht nun als Office-Serienbrief [OpenSource](https://github.com/dla-marbach/dla-datentraeger-quartett).
+
+Das Humanitarian Data Exchange (HDX) ist eine offene Plattform zum Teilen humanitäter Daten (durch die man [in den Data Grids](https://data.humdata.org/dashboards/overview-of-data-grids) browsen kann). Über eine [neue API](https://docs.humdata.org/build/hdx-apis/tabular-data-endpoints) lassen sich die tabellarischen Daten nun auch [programmatisch abrufen](https://centre.humdata.org/new-api-access-on-hdx-tabular-data-endpoints/). 
+
+[Statistical Data and Metadata eXchange (SDMX)](https://en.wikipedia.org/wiki/SDMX) ist eine Sammlung von Standards, wie man statistische Daten und ihre Metadaten normiert beschreiben sollte, um ihr Teilen/Austausch zwischen Organisatione zu erleichtern. Da LLMs nicht gut beim Auswerten quantitativer Daten ist, nimmt [OpenSDMX](https://github.com/ondata/opensdmx/tree/main) einen Umweg, und [erzeugt](https://www.cottica.net/2026/06/02/the-open-data-centaurs-interacting-with-data-via-llm-assisted-structured-queries/) aus einer natürlichsprachigen Anfrage nur die passende Abfrage auf die strukturierten SDMX-Daten [zu erzeugen und auszuführen](https://mastodon.green/@alberto_cottica/116686754581037356), statt zu versuchen die Daten direkt auszuwerten.
+
+Das ODIS Berlin [hat einige MCP-Server entwickelt](https://github.com/technologiestiftung/open-data-mcps#open-data-mcps-berlin), um Berlins offene Daten noch besser zu finden, analysieren und visualisieren zu können. [An Hand vieler Beispiele wird gezeigt](https://odis-berlin.de/aktuelles/2026-06-29-mcp-server/), wie die verschiedene Tools / Skills des MCP-Servers auch in Kombination genutzt werden können, um komplexe Anfragen, die neben dem reinen Abrufen der Daten auch deren Visualisierung und aggregierte Bereitstellung beinhaltet, bedienen zu können. Aber die Erfahrungen zeigen auch, dass alles mit der Struktur und Qualität der bereitgestellten Datensätze steht und fällt. Und die Notwendigkeit, die erzeugten Ergebnisse mit fachlichen Verständnis sowie Hintergrund- und Kontextwissen kritisch zu prüfen, bleibt bestehen. Ein geeignetes Testframework für die MCP-Server aufzubauen stellte sich als die größte Herausforderung heraus.
 
 ## Open Source
 * LibreOffice: Erste technische Details zum großen Umbau
@@ -496,23 +484,15 @@ type: blog
   https://tante.cc/2026/06/16/ki-effizienzversprechen-und-der-niedergang-der-demokratie/
 
 ## Recap
-* Dataweek
-  https://www.youtube.com/@dataweekleipzig/streams
-* GPN
-  https://media.ccc.de/b/conferences/gpn/gpn24
-* Netzwerk Recherche – Jahreskonferenz 2026
-  https://www.youtube.com/playlist?list=PL3k-vp8y4t2vs290Estf4mZAC1fxnK-cz
-* Digital GreenTech – Umwelttechnik trifft Digitalisierung
-  https://www.youtube.com/watch?v=kjrjNIZA4j4&t=12s
+* [Dataweek](https://www.youtube.com/@dataweekleipzig/streams)
+* [Gulaschprogrammiernacht (GPN)](https://media.ccc.de/b/conferences/gpn/gpn24)
+* [Netzwerk Recherche – Jahreskonferenz 2026](https://www.youtube.com/playlist?list=PL3k-vp8y4t2vs290Estf4mZAC1fxnK-cz)
+* [Digital GreenTech – Umwelttechnik trifft Digitalisierung](https://www.youtube.com/watch?v=kjrjNIZA4j4&t=12s)
 
 ## Fristen
-* FIfF-Konferenz 2026 - Call for Participation, 15.7. 23:59
-  https://www.fiff.de/termine/2026/fiff-konferenz-2026-call-for-papers/
-* Civic Coding-Accelerator, Bewerbungen bis 31.7.
-  https://www.civic-coding.de/angebote/accelerator
-* FediDay
-  https://ctalx.c-base.org/fediday-2026/
-
+* [FIfF-Konferenz 2026 - Call for Participation](https://www.fiff.de/termine/2026/fiff-konferenz-2026-call-for-papers/), bis 15.07. 23:59
+* [Civic Coding-Accelerator](https://www.civic-coding.de/angebote/accelerator), Bewerbungen bis 31.7.
+* [FediDay](https://ctalx.c-base.org/fediday-2026/)
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Donnerstag, 02.07.2026, 10:00, bis Sonntag, 05.07.2026, 18:30, Forum der Zukunft, Museumsinsel 1, 80538 München: **Festival der Zukunft** <a title='Kalendereintrag Festival der Zukunft' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRmVzdGl2YWwgZGVyIFp1a3VuZnQvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA3MDNUMTAxNDIxWg0KRFRTVEFSVDoyMDI2MDcwMlQxMDAwMDANCkRURU5EOjIwMjYwNzA1VDE4MzAwMA0KU1VNTUFSWTpGZXN0aXZhbCBkZXIgWnVrdW5mdA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cuZGV1dHNjaGVzLW11c2V1bS5kZS9mZXN0aXZhbC1kZXItenVrdW5mdA0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpGb3J1bSBkZXIgWnVrdW5mdFwsIE11c2V1bXNpbnNlbCAxXCwgODA1MzggTcO8bmNoZW4NCkdFTzo0OC4xMzE0MDExOTc2NDk4NjU7MTEuNTg1NTgzNTMxNzgxNTM4DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
