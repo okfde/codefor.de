@@ -31,58 +31,38 @@ Das Humanitarian Data Exchange (HDX) ist eine offene Plattform zum Teilen humani
 
 Das ODIS Berlin [hat einige MCP-Server entwickelt](https://github.com/technologiestiftung/open-data-mcps#open-data-mcps-berlin), um Berlins offene Daten noch besser zu finden, analysieren und visualisieren zu können. [An Hand vieler Beispiele wird gezeigt](https://odis-berlin.de/aktuelles/2026-06-29-mcp-server/), wie die verschiedene Tools / Skills des MCP-Servers auch in Kombination genutzt werden können, um komplexe Anfragen, die neben dem reinen Abrufen der Daten auch deren Visualisierung und aggregierte Bereitstellung beinhaltet, bedienen zu können. Aber die Erfahrungen zeigen auch, dass alles mit der Struktur und Qualität der bereitgestellten Datensätze steht und fällt. Und die Notwendigkeit, die erzeugten Ergebnisse mit fachlichen Verständnis sowie Hintergrund- und Kontextwissen kritisch zu prüfen, bleibt bestehen. Ein geeignetes Testframework für die MCP-Server aufzubauen stellte sich als die größte Herausforderung heraus.
 
-## Open Source
-* LibreOffice: Erste technische Details zum großen Umbau
-  https://www.heise.de/news/Erste-Details-LibreOffice-fuer-den-Browser-und-als-App-11313851.html
-* Physiker aus Wernigerode entwickelt ehrenamtlich Software
-  https://www.ardmediathek.de/video/mdr-sachsen-anhalt-heute/physiker-aus-wernigerode-entwickelt-ehrenamtlich-software/mdr/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy9kYmI2OGFmNy1hYTkwLTQ3NTItOWIzZS03NzA0MjM2OWJhZTA
-* FOSS unterstützen: Hinter den Kulissen
-  https://www.prototypefund.de/blog/hinter-den-kulissen
-* Nextcloud Hub 26 Spring: Euro-Office fordert Collabora heraus
-  https://www.heise.de/news/Nextcloud-Hub-26-Spring-Euro-Office-fordert-Collabora-heraus-11321897.html
-* Die Stadt Glücksburg (Ostsee) – ausgezeichnet als Cultural Pearl 2026 – ist die erste Kommune mit einem eigenen Portal auf kulturbytes, dem neuen Portal für Veranstaltungen und Kulturorte. Vielen Dank an die Kulturverwaltung Glücksburg für das Vertrauen. kulturbytes ist freie Software, entwickelt vom @oklabflensburg und steht allen Kulturaktiven kostenlos zur Verfügung.
-  https://kulturbytes.de/
-  https://norden.social/@kulturbytes/116724431082962973
-* Backup all your repositories with Ease
-  https://gickup.dev
-  https://social.heise.de/@ct_Magazin/116730699493641025
-* Vorreiter, Verwaltung und politischer Rückhalt: Wie Open Source in die Schulen kommt
-  https://netzpolitik.org/2026/vorreiter-verwaltung-und-politischer-rueckhalt-wie-open-source-in-die-schulen-kommt/
-* Mastodon 4.6
-  https://blog.joinmastodon.org/2026/06/mastodon-4.6/
-* Sampling, processing, and sequencing sound and music directly in HTML.
-  https://hyperblam.how
-  https://front-end.social/@heydon/116792973320353577
+Auf Open Parlament TV sind nun weitere 20.000 Bundestags-Redebeiträge aus den Jahren 2009-2013 [durchsuchbar](https://openparliament.tv/aktuelles/deutscher-bundestag-redebeitraege-der-17-wahlperiode-2009-2013-durchsuchbar/). Insgesamt existieren damit 100.000 Redebeiträge von 2009 bis heute.
 
+## Open Source
+Ein [MDR-Beitrag](https://www.ardmediathek.de/video/mdr-sachsen-anhalt-heute/physiker-aus-wernigerode-entwickelt-ehrenamtlich-software/mdr/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy9kYmI2OGFmNy1hYTkwLTQ3NTItOWIzZS03NzA0MjM2OWJhZTA) spricht mit dem Physiker Andreas Tille aus Wernigerode über seine Motivation, seit 1998 ehrenamtlich am freien Linux-Betriebssystem [Debian](https://de.wikipedia.org/wiki/Debian) mitzuentwickeln und dafür aktuell täglich 3 bis 4 Stunden seiner Freizeit zu investieren.
+
+Es gibt etwa 30.000 allgemeinbildenden Schulen (also Grund-, Haupt-, Real-, Gesamtschulen sowie Gymnasien u.a.) in Deutschland. Wie erfolgreiche Beispiele aus Lübeck und dem Landkreis Harz zeigen, geht die Einführung von Open Source für Schulsoftware meist auf die Initiative einzelner Lehrkräfte zurück. Dass dann auch langfristig bei solchen Lösungen geblieben wird, hängt aber am Ende auch von der Unterstützung von Stadtverwaltung, IT-Dienstleistern und generell der politischen Rückendeckung ab, denn Rechnerausgabe und Betrieb erfolgen immer mehr zentral, und wenn die lokalen Vorreiter und Kümmerer gehen, droht der Rückfall auf proprietäre Systeme, wenn Linux-Systeme nicht zentral angeboten werden. Dabei spricht der Vergleich der Lizenzkosten eine klare Sprache. Und mit Lösungen wie [Puavo](https://puavo.org) und [Linux-Muster](https://www.linuxmuster.net/de/home/) gibt es schon Linux speziell für Schulen mit zentraler Nutzerkontenverwaltung. Es gibt leider immer noch zu wenig Informationen darüber, an welchen Schulen wie Open Source schon eingesetzt wird, deswegen würde es helfen, wenn noch mehr Menschen diese [laufende Umfrage](https://survey.lamapoll.de/Open-Source-an-Schulen-) ausfüllen.
+
+Mit dem vom OKLab Flensburg entwickelten und betriebenen Portal [kulturbytes](https://kulturbytes.de/) (basierend auf der [Open-Source](https://github.com/sndcds/uranus)-Event-Management-Plattform [Uranus](https://sndcds.github.io/uranus-docs/uranus/)) lassen sich Veranstaltungen und Kulturorte pflegen. Die Stadt Glücksburg (Ostsee) (bzw. deren Kulturverwaltung) hat sich nun als erste Kommune [dafür entschieden](https://norden.social/@kulturbytes/116724431082962973), diese Lösung [offiziell zu nutzen](https://gluecksburg.kulturbytes.de).
+
+Das Team vom Prototype Fund [gewährt einen Blick](https://www.prototypefund.de/blog/hinter-den-kulissen) hinter die Kulissen und stellt ihre Arbeit, speziell die der FOSS-Projektbetreuung vor.
+
+In einem ersten [Strategiepapier](https://blog.documentfoundation.org/blog/2026/05/30/web-and-mobile-development-strategy-proposal/) stellt die Document Foundation vor, wie sie LibreOffice [zukunftsfähig machen möchte](https://www.heise.de/news/Erste-Details-LibreOffice-fuer-den-Browser-und-als-App-11313851.html). Auf Basis von Qt 6 und WebAssembly wird einer Browser-Version entwickelt, im dem Zuge soll auch eine neue responsive Benutzeroberfläche entstehen. Für die ebenfalls geplanten mobile Versionen für Android und iOS hofft man möglichst viel aus der Codebasis der Desktopanwendung wiederverwenden zu können. Ein gemeinsames Bearbeitung von Dokumenten soll zunächst eine klassische Client-Server-Architektur ermöglichen, als langfristige Vision steht aber auch ein Peer-to-Peer-Ansatz im Raum. Außerdem arbeitet man an einem eigenen Dokumentenserver, der sich mit der Desktop-Anwendung integrieren und die Arbeit mit remote gehosteten Dokumenten vereinfachen soll. Perspektivisch ließe sich dann über ihn auch die Zusammenarbeit und Vermittlung zwischen Clients koordinieren. 
+  
+Mit dem neuen Release ["Hub 26 Spring"](https://nextcloud.com/hub26-summer/) von Nextcloud ist unter anderem Euro-Office als zweite Office-Suite [mit an Board](https://www.heise.de/news/Nextcloud-Hub-26-Spring-Euro-Office-fordert-Collabora-heraus-11321897.html). Mit der neuen Komponente "Nextcloud Governance" lassen sich regulatorischen Vorgaben, wie die Kennzeichnung sensibler Inhalte oder die Archivierung besser abbilden.
+
+Mit [GickUp](https://gickup.dev) kann man die Inhalte seiner Code-Repositories bei Github, Gitlab, Gitea u.a. backuppen. Denn neben dem eigentlich Code enthalten sie meist ja auch Ticketsystem, Wiki und [weitere sicherungswürdige](https://social.heise.de/@ct_Magazin/116730699493641025) Konfigurationen. Ein so gezogenes Backup kann auch dazu verwendet werden, auf eine Plattform umzuziehen, z.B. von Github auf Gitlab.
+
+Deklarativ allein mit HTML-Code [Musik programmieren](https://front-end.social/@heydon/116792973320353577) geht mit [HyperBlam](https://hyperblam.how), die [Beispiele](https://hyperblam.how/examples/) zeigen, was möglich ist.
 
 ## Open Hardware
-* Wind-MPPT
-  https://libre.solar
-  https://libre.solar/hardware/mppt-2420-hc.html
-  https://hardware.prototypefund.de/three-grassroots-projects-for-the-energy-transition/
-  via https://chaos.social/users/mavo/statuses/116675466359598006  
-* Bundestag beschließt Recht auf Reparatur von Elektrogeräte
-  https://www.heise.de/news/Bundestag-beschliesst-Recht-auf-Reparatur-von-Elektrogeraeten-11346119.html
+Elektrogeräte müssen zukünftig (wieder) so beschaffen sein, dass sie reparierbar sind. Nicht tauschbare Akkus verstoßen damit gegen das gerade vom Bundestag [beschlossene neue Gesetz](https://www.heise.de/news/Bundestag-beschliesst-Recht-auf-Reparatur-von-Elektrogeraeten-11346119.html), dass die EU-Richtlinie mit dem Recht auf Reparatur national umsetzt. Hersteller werden außerdem verpflichtet Reparaturen für ihre Produkte während ihrer üblichen Lebensdauer zu einem angemessenen Preis anzubieten.
 
-## Open Science
-* Open Science TEDx Talk Heidi Seibold
-  https://www.youtube.com/watch?v=1iDCrBVOf8Q
-  https://mastodon.social/@leibnizopenscience/116810641359432643
+Folgende Projekte [hat die Jury](https://hardware.prototypefund.de/three-grassroots-projects-for-the-energy-transition/) für die Förderung in der dritten Runde des Prototype Fund Hardware im Rahmen des Projekts [OpenEnergy](https://energie-selbermachen.de) (und dem Motto "Energiewende von unten") ausgewählt: [D0ry](https://codeberg.org/magro/D0ry) (eine offene Mess- und Steuerungskomponente für Bürgerenergieanlagen auf LoRa-Basis), [Wind-MPPT](https://libre.solar/hardware/mppt-2420-hc.html) (Windgeneratoren mit der [richtig konfigurierten Schaltung](https://libre.solar/hardware/mppt-2420-hc.html) basierend auf [Libre Solar](https://libre.solar) im optimalen Betriebspunkt betreiben) und [dc-charging-station](https://github.com/securityinmobility/dc-charging-station) (Bausatz aus Open-Hardware-Komponenten für eine bidirektionale Ladesäule).  
 
-## Citizen Science
-* GrippeWeb ist ein Surveillance-Instrument des RKI zur Beobachtung von Atemwegserkrankungen. Es ist auf eure Meldungen angewiesen!
-  https://www.rki.de/grippeweb
-  via https://social.bund.de/@RKI/116680057687372248
-* Deutschsprachiges Handbuch zu Citizen Science erschienen
-  https://www.schiebener.net/wordpress/gemeinsam-forschen-buergerinnen-und-buerger-richtig-in-die-forschung-einbinden/
-* Mithilfe des #CitizenScience-Projekts @microbelix wollen Forscher:innen des @helmholtz_hips die #Biodiversität der Bodenbakterien für die Wirkstoffforschung erschließen
-  https://www.helmholtz-hzi.de/media-center/newsroom/news-detailseite/microbelix-der-erdboden-als-mikrobielle-schatzkiste/
-  https://helmholtz.social/@Helmholtz_HZI/116770071568726432
+## Open and Citizen Science
+Der Mitschnitt von [Heidi Seibolds](https://de.wikipedia.org/wiki/Heidi_Seibold) TEDx Talk aus vergangenem November ist nun [nachsehbar](https://www.youtube.com/watch?v=1iDCrBVOf8Q). Sie spricht darüber, wie die in OpenScience gelebten Werte wie Transparenz, Reproduzierbarkeit und Zusammenarbeit Wissenschaft und Forschung entscheidend voranbringen können (im Gegensatz zu den im geschlossenen Wissenschaftsbetrieb gesetzten Fehlanreizen wie [Publish or perish](https://de.wikipedia.org/wiki/Publish_or_perish), die leider Masse statt Klasse belohnen)
 
-## Parlamente
-* Open Parlament TV: Zeit für ein Update: Wir haben weitere 20.000 Redebeiträge aus den Jahren 2009-2013 auf der Open Parliament TV Plattform zugänglich gemacht
-  https://openparliament.tv/aktuelles/deutscher-bundestag-redebeitraege-der-17-wahlperiode-2009-2013-durchsuchbar/
-  https://mstdn.social/@OpenParlTV/116719955338243572
+Bei [GrippeWeb](https://www.rki.de/grippeweb) kann man einmal pro Woche melden, ob man selbst oder seine Kinder Atemwegserkrankung hatte. Dem RKI [helfen diese Beobachtungen](https://social.bund.de/@RKI/116680057687372248), das Infektionsgeschehen und sich daraus ergebenden Trends früh abschätzen zu können.
+
+Im Citizen-Science-Projekt [Microbelix](http://www.microbelix.de/) kann man Forscher:innen des [Helmholtz-Institut für Pharmazeutische Forschung Saarland (HIPS)](https://www.helmholtz-hzi.de/das-hzi/standorte/standort/hips/) helfen, die Biodiversität der Bodenbakterien für die Wirkstoffforschung [besser zu erschließen](https://www.helmholtz-hzi.de/media-center/newsroom/news-detailseite/microbelix-der-erdboden-als-mikrobielle-schatzkiste/).
+
+Es ist ein deutschsprachiges [Handbuch](https://doi.org/10.1007/978-3-662-69703-0) zu Citizen Science [erschienen](https://www.schiebener.net/wordpress/gemeinsam-forschen-buergerinnen-und-buerger-richtig-in-die-forschung-einbinden/), dass an Hand zahlreicher Fallbeispiele die "Gelingungsfaktoren" erklärt, wie man Bürgerinnen und Bürger richtig in die Forschung einbindet.
 
 ## Verwaltungsdigitalisierung
 * Deutsche Eudi-Wallet: Einblicke in ein verkorkstes Projekt
