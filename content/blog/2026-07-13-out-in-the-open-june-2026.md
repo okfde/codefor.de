@@ -33,6 +33,8 @@ Das ODIS Berlin [hat einige MCP-Server entwickelt](https://github.com/technologi
 
 Auf Open Parlament TV sind nun weitere 20.000 Bundestags-Redebeiträge aus den Jahren 2009-2013 [durchsuchbar](https://openparliament.tv/aktuelles/deutscher-bundestag-redebeitraege-der-17-wahlperiode-2009-2013-durchsuchbar/). Insgesamt existieren damit 100.000 Redebeiträge von 2009 bis heute.
 
+[Der Blog geoObserver feiert](https://geoobserver.de/2026/06/25/ein-gastbeitrag-3000-x-geoobserver-news-und-14-geburtstag/) sowohl seinen 14. Geburtstag als auch seinen 3000 Beitrag. Dabei ist er immer seinen Grundüberzeugungen treu geblieben: Open Data sind "Daten, die nicht im Schrank verstauben" und "Daten gehören in die Hände derer, die sie brauchen".
+
 ## Open Source
 Ein [MDR-Beitrag](https://www.ardmediathek.de/video/mdr-sachsen-anhalt-heute/physiker-aus-wernigerode-entwickelt-ehrenamtlich-software/mdr/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy9kYmI2OGFmNy1hYTkwLTQ3NTItOWIzZS03NzA0MjM2OWJhZTA) spricht mit dem Physiker Andreas Tille aus Wernigerode über seine Motivation, seit 1998 ehrenamtlich am freien Linux-Betriebssystem [Debian](https://de.wikipedia.org/wiki/Debian) mitzuentwickeln und dafür aktuell täglich 3 bis 4 Stunden seiner Freizeit zu investieren.
 
@@ -75,58 +77,32 @@ Alles nur auf die Technik schieben zu wollen, [greift oftmals zu kurz](https://w
 
 Wollen ist leider nicht gleich Können: die digitale Brieftasche [Eudi-Wallet](https://www.sprind.org/taten/strategische-projekte/eudi-wallet) soll als Vorzeigeprojekt der Bundesregierung herhalten, doch hinter dem breitbeinigen öffentlichen Auftreten [offenbaren sich](https://mastodon.social/@bkastl/116713104841713839) chaotisches Projektmanagement, fragwürdige technische Entscheidungen, Zeitverzug und sich abzeichnender mangelhafter Umsetzung, vor allem was Sicherheit angeht. Ungünstigerweise hat das eIDAS Committee auf EU-Ebene [jüngst die Entscheidung getroffen](https://netzpolitik.org/2026/biometrische-passfotos-statt-pseudonyme-eu-kommission-hoehlt-schutzrechte-bei-digitaler-brieftasche-aus/), dass auch biometrische Passbilder mit in die Wallet sollen, auch wenn man als Bürger auch die Möglichkeit zum Opt-Out bekommt. Dafür hat man das Feature "frei wählbare Pseudonyme" erstmal auf Eis gelegt. 
 
-We tried to run (bzw. jump), before we could walk (auf deutsch: "den zweiten Schritt vor dem ersten machen"): [Beschäftigungstherapie und Beteiligungs-/Innovationstheater](https://tldr.nettime.org/users/tante/statuses/116668991736103329) mit KI-Komponenten-Entwickeln in einem 2010er-Gedächtnis-Hackathon (das "preisgekrönt" aus der Ankündigung bezieht sich übrigens auf einen in Dubai gewonnenen Preis für von PwC und Capgemini gezimmerter agentischer KI). Vor der Auskunft, wie viel die SPARK-Plattform denn nun wirklich gekostet hat, versucht man sich [mit Manövern wie](https://chaos.social/@stk/116811605835902358), es gebe gar keine "Plattform" namens "SPARK", die Anfrage wäre zu ungenau, weiterhin zu drücken.
+We tried to run (bzw. jump), before we could walk (auf deutsch: "den zweiten Schritt vor dem ersten machen"): bei der ebenfalls von SPRIN-D, der Agentur für Sprunginnovation, verantworteten SPARK-Plattform, sollen mit [Beschäftigungstherapie und Beteiligungs-/Innovationstheater](https://tldr.nettime.org/users/tante/statuses/116668991736103329) mit KI-Komponenten-Entwickeln in einem 2010er-Gedächtnis-Hackathon (das "preisgekrönt" aus der Ankündigung bezieht sich übrigens auf einen in Dubai gewonnenen Preis für von PwC und Capgemini gezimmerter agentischer KI), ganz tolle Dinge durch die Community entstehen. Vor der Auskunft, wie viel die SPARK-Plattform denn nun wirklich gekostet hat, versucht man sich alledings [mit Manövern wie](https://chaos.social/@stk/116811605835902358), es gebe gar keine "Plattform" namens "SPARK", die Anfrage wäre zu ungenau, weiterhin zu drücken.
 
 ## Digitale Souveränität
-* Millionen von Windows- und Linux-PC könnten bald nicht mehr booten, weil Microsoft Probleme mit wichtigen Zertifikaten hat.
-  https://www.heise.de/ratgeber/Die-diversen-Probleme-von-Secure-Boot-und-ihre-Auswirkungen-11269241.html
-  via https://social.heise.de/@ct_Magazin/116690084269046315
-* Die Stecker neu stecken – digital und selbstbestimmt
-  https://digitalegesellschaft.de/2026/06/die-stecker-neu-stecken-digital-und-selbstbestimmt/
-* Musik-Streaming-Plattformen – Spotify-Alternativen Teil 1
-  https://www.kuketz-blog.de/musik-streaming-plattformen-spotify-alternativen-teil-1/
-* Android-Verifizierung: Google bestätigt Zeitplan und nennt App-Stores
-  https://www.heise.de/news/Android-Google-nennt-Zeitplan-fuer-Entwickler-Verifizierung-und-erste-App-Stores-11338038.html
-* Bund in der Abhängigkeitsfalle: Kostenexplosion bei Microsoft-Lizenzen
-  https://www.heise.de/news/Bund-in-der-Abhaengigkeitsfalle-Kostenexplosion-bei-Microsoft-Lizenzen-11343398.html
-* Open-Source-Revolution bei Computerchips: Die Schweiz spielt eine Schlüsselrolle
-  https://www.swissinfo.ch/ger/schweizer-ki/open-source-revolution-bei-computerchips-die-schweiz-spielt-eine-schl%C3%BCsselrolle/91106648
-* Stop Killing The Internet
-  https://www.stopkillingtheinternet.com
-  https://mastodon.social/@digiges/116834094669218280
-  https://mastodon.social/@digiges/116834103936680224
-* How to choose digital tools (yes, you have a choice) in the age of AI
-  https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-june-2026/
+Hat man für die Bezifferung der Kosten für Produkte und Dienstleistungen von Microsoft bisher immer noch die Ausgaben der Bundes-Ministerien und ihren direkt nachgeordneten Behörden betrachtet, wird für [eine umfassendere Datengrundlage](https://www.heise.de/news/Bund-in-der-Abhaengigkeitsfalle-Kostenexplosion-bei-Microsoft-Lizenzen-11343398.html) nun auch der Handelspartner-Rahmenvertrag der Zentralstelle IT-Beschaffung (ZIB) des Beschaffungsamtes einbezogen. Damit ergibt sich für 2025 ein Betrag von 481 Millionen Euro (für 2022 bei gleicher Berechnung: 211 Millionen Euro). Dass man sich entscheidend von dieser Abhängigkeit (und den massiven Kosten) löst, ist leider nicht in Sicht: gerade mal 8475 Lizenzen der Alternative OpenDesk werden produktiv in der Bundesverwaltung eingesetzt, der Großteil (7904) entfällt dabei allein auf das Agora-Projekt vom Robert-Koch-Institut (RKI), das Digitalministerium nutzt lächerliche 571 Lizenzen.
+
+[Auf dem Kuketz-Blog](https://www.kuketz-blog.de/musik-streaming-plattformen-spotify-alternativen-teil-1/) hat Matthias Eberl alternative Musik-Streaming/Kauf-Plattformen nicht nur auf Funktionsumfang und Preis sondern eben auch auf Nicht-Tracking und Tantiemen-Fairness gegenüber den Rechteinhabern untersucht.
+
+["Stop Killing The Internet"](https://www.stopkillingtheinternet.com) ist eine neue weltweite Bewegung, die sich für das Weiterbestehen eines offenen Internets einsetzt, welches aber durch Maßnahmen wie Altersverifikation, Identifikationspflicht und Endgeräteüberwachung von Staaten und Firmen schon jetzt bedroht ist. Die Schweizer Digitale Gesellschaft hat sich bereits angeschlossen und in [diesem Thread](https://mastodon.social/@digiges/116834094669218280) ergänzend ihre Forderungen aufgeschrieben.
 
 ## Energie
-* Open-source is becoming strategic infrastructure in Europe — especially in energy - At Open Energy Transition, we believe energy models should be transparent, collaborative & accessible.
-  https://mastodon.social/@OpenEnergyTransition/116686557043038825
-* EnergySharing im Praxistest
-  https://mastodon.social/@ioew/116724749415885495
-* Alle europäischen Länder haben im meteorologischen Frühling 2026 neue Rekorde bei der Solarstromerzeugung erzielt.
-  https://energy-charts.info/charts/energy/chart.htm?l=de&c=EU&interval=season&season=1&year=-1&legendItems=pyn
-  https://wisskomm.social/@energy_charts_d/116729868254321199
-* Was hat es mit dynamischen Stromtarifen auf sich?
-  https://www.l-iz.de/wirtschaft/verbraucher/2026/06/energiewende-dritter-teil-dynamische-stromtarife-661732
+Die gemeinnützige niederländische Organisation [Open Energy Transition (OET)](https://www.openenergytransition.org) sieht Open Source als strategischen Faktor für die europäische Infrastruktur, [gerade im Energiebereich](https://mastodon.social/@OpenEnergyTransition/116686557043038825). Deswegen sollten Energiemodell offen zugänglich sein, so dass an ihnen kollaborativ an ihnen gearbeitet werden kann. Sie selbst gehen [mit guten Beispiel](https://github.com/open-energy-transition) voran.
 
-## Karten
-* 3000 x geoObserver-News & 14. Geburtstag!
-  https://geoobserver.de/2026/06/25/ein-gastbeitrag-3000-x-geoobserver-news-und-14-geburtstag/
+[2025 startet](https://mastodon.social/@ioew/116724749415885495) die Gemeinde Bakum (Gemeinde im Landkreis Vechta in Niedersachsen) mit [Forum EnShare](https://future-energy-lab.de/projects/forum-enshare/) ein Pilotprojekt mit Netzbetreibern und lokaler Bürgerenergiegenossenschaft, um Energy Sharing, also gemeinschaftliche Nutzung von lokal erzeugtem Strom, in der Praxis [zu erproben](https://www.youtube.com/watch?v=KTugx-gBfOA). Seit 1. Juni 2026 ist Energy Sharing in Deutschland auch gesetzlich legalisiert. Die in § 42c EnWG geregelte Umsetzung könnte dennoch weiter vereinfacht werden.
+
+[Christof Korth erklärt](https://www.l-iz.de/wirtschaft/verbraucher/2026/06/energiewende-dritter-teil-dynamische-stromtarife-661732), wie dynamischen Stromtarife funktionieren. Im Gegensatz zu klassischen Stromtarife gibt es keinen festen Arbeitspreis, sondern ändert sich dynamisch im Tagesverlauf in Abhängigkeit von der Strombörse. So werden Anreize geschaffen, Verbräuche in Zeiten zu verlegen, in denen viel erneuerbarer, günstiger Strom vorhanden ist.
+
+[Wie die Energie-Charts belegen](https://wisskomm.social/@energy_charts_d/116729868254321199), gab es bei Solarstrom im metmeteorologischen Frühling 2026 in allen europäischen Länder [neue Rekorde](https://energy-charts.info/charts/energy/chart.htm?l=de&c=EU&interval=season&season=1&year=-1&legendItems=pyn).
 
 ## Mobilität
-* Radnetze einfacher planen mit dem neuen QGIS-Plugin, kostenfrei & OpenSource
-  https://vision-velo.de/digirad-digitales-radverkehrskonzept/
-  https://social.bund.de/@bmv/116736117872259496
-* C-ITS: Mit einem ESP32 Ampeln, Straßenbahnen und Autos tracken
-  https://media.ccc.de/v/glt26-688-c-its-mit-einem-esp32-ampeln-straenbahnen-und-autos-tracken
-* Linienbusse fotografieren in Frankfurt Hunderte Falschparker
-  https://www.spiegel.de/mobilitaet/bus-bahn/frankfurt-linienbusse-knipsen-hunderte-falschparker-a-4736758b-26d4-4653-80b5-b8ca22189ea3
-* Bahnhoroskop
-  https://bahnhoroskop.ggor.de/
-  https://bsky.app/profile/gregor.bsky.social/post/3mohwjw6ynk2b
-* If you know of any open data schemes on signal timing around the world, please add a sentence in here!
-  https://en.wikipedia.org/wiki/Traffic_light_control_and_coordination#Data
-  https://mastodon.social/@jakecoppinger/116825595797158642
+[DigiRad](https://vision-velo.de/digirad-digitales-radverkehrskonzept/) ist ein neues OpenSource-QGIS-Plugin, das verspricht, mit ihm Radnetze [einfacher planen zu können](https://social.bund.de/@bmv/116736117872259496).
+
+Auf den Grazer Linuxtagen 2026 haben Peter Pötzi und Michael Ehrenreich [in ihrem Vortrag](https://media.ccc.de/v/glt26-688-c-its-mit-einem-esp32-ampeln-straenbahnen-und-autos-tracken) gezeigt, wie man mit einem ESP32 Ampeln, Straßenbahnen und Autos tracken (sofern, wie in Graz, das [Cooperative Intelligent Transport System (C-ITS)](https://de.wikipedia.org/wiki/Cooperative_Intelligent_Transport_System) unterstützt wird) und sowohl auf einer Live-Karten visualisieren kann, als auch die Daten (z.B. Ampelschaltungen, Wartezeiten an Fußgängerübergängen) historisch in einem Grafana-Dashboard auswerten kann. Das Projekt sucht weitere Freiwillige, die solche C-ITS-Daten beisteuern.
+
+In Frankfurt am Main registrierten bereits 10 Linienbusse dank entsprechender Kamera-Ausstattung hunderte Falschparker [en passant](https://www.spiegel.de/mobilitaet/bus-bahn/frankfurt-linienbusse-knipsen-hunderte-falschparker-a-4736758b-26d4-4653-80b5-b8ca22189ea3). Weitere Busse sollen nun mit der Technik ausgestattet werden.
+
+Wem die offiziellen Verspätungsgründe der Bahn [nicht kreativ genug sind](https://bsky.app/profile/gregor.bsky.social/post/3mohwjw6ynk2b), dem wird durch [Bahnhoroskop](https://bahnhoroskop.ggor.de/) geholfen.
 
 ## Klima
 * Hitze-Check 2026 der Deutschen Umwelthilfe: Fast eine Million Bäume aus deutschen Städten verschwunden
