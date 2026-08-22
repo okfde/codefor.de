@@ -143,135 +143,84 @@ Aktuelle Satellitenaufnahmen [dokumentieren](https://www.heise.de/news/Satellite
 Die Klimawissenschaftler, die einst für das staatliche climate.gov gearbeitet haben, durch DOGE aber letztes Jahr gefeuert worden sind, [haben nun einfach](https://jasette.facil.services/@MichelPatrice/116813729992909946) ihr eigenes Portal für Klimaforschung gestartet: [climate.us](https://www.climate.us).
 
 ## Kultur
-* Sixty thousand love letters and counting: volunteers help sift through vast German trove of devotion
-  https://www.theguardian.com/world/2026/jun/03/sixty-thousand-love-letters-germany-archive-volunteers
-  https://liebesbriefarchiv.de
-  https://openbiblio.social/@awinkler/116688567135716976
-* Kritik im Datenraum. Graph-Theorie für eine digitale kritische Museologie
-  https://lisa.gerda-henkel-stiftung.de/engagierte_kunstgeschichte_fuchsgruber
-  https://social.wikimedia.de/@wikimediaDE/116720503065228510
-* Künstliche Intelligenz soll Bairisch lernen
-  https://www.heise.de/news/Kuenstliche-Intelligenz-soll-Bairisch-lernen-11332176.html
-* Stadtansichten auf #wikimediacommons strukturiert erschließen, Städte in #LOD verwandeln, die Ansichten – und den historischen Stadtraum! – les- und analysierbar machen
-  https://commons.wikimedia.org/wiki/User:Awinkler3/Annotating_the_City
-  https://openbiblio.social/@awinkler/116776936722791585
-* Stadtarchiv Potsdam startet Internet-Rechercheportal
-  https://www.tagesspiegel.de/potsdam/landeshauptstadt/online-in-die-vergangengheit-stadtarchiv-potsdam-startet-internet-rechercheportal-15742997.html
-* Forscher entdecken 5000 Jahre alten Prototyp von Stonehenge
-  https://www.tagesanzeiger.ch/stonehenge-5000-jahre-alte-holzanlage-in-bulford-entdeckt-678917771893
-* Rename this - Wie Berliner Straßennamen Geschichte schreiben
-  https://odis-berlin.de/aktuelles/2026-06-27-stra%C3%9Fenumbenennung_scrolly/
+Wikimedia Commons bietet mit dem Tool [Structured Data on Commons](https://commons.wikimedia.org/wiki/Commons:Structured_data) die Möglichkeit, Bilder / Fotos mit semantischen Annotation anzureichern. So lassen sich beispielsweise Stadtansichten (auch Stadtpläne) und die in ihnen sichtbaren Elemente [in Linked-Open-Data verwandeln](https://commons.wikimedia.org/wiki/User:Awinkler3/Annotating_the_City). In Kombinationen mit älteren Aufnahmen könnten so Veränderungen im historischen Stadtraum strukturiert [auswertbar werden](https://openbiblio.social/@awinkler/116776936722791585).
+
+Wie können in Kunstgeschichte und Museologie neben den üblichen Verdächtigen wie normierte Schlagworte, Geo-Koordinaten und Quellen, auch Kommentare, Kritiken, alternative Datenmodellierweisen und zusätzliche Fragestellungen ebenfalls als Linked Open Data [abgelegt werden](https://social.wikimedia.de/@wikimediaDE/116720503065228510), so dass diese in einem Wissensgraph im Datenraum auswertbar sind (und somit unterschiedliche Sichtweisen, Kategorisierungen und Bewertungen), diskutiert Lukas Fuchsgruber [in seinem Vortrag](https://lisa.gerda-henkel-stiftung.de/engagierte_kunstgeschichte_fuchsgruber).
+
+Auf einer [neuen Plattform](https://www.stadtarchiv-potsdam.findbuch.net/php/main.php) sind die Metadaten von rund 30.000 Archivalien aus 112 Beständen des Potsdamer Stadtarchivs [ab sofort online durchsuchbar](https://www.tagesspiegel.de/potsdam/landeshauptstadt/online-in-die-vergangengheit-stadtarchiv-potsdam-startet-internet-rechercheportal-15742997.html). Die Bestände selbst allerdings nicht, da diese teils wegen Aufwand, teils wegen rechtlichen Bedenken (noch) nicht digitalisiert sind. Mit dem Metadaten kann man aber wenigstens seinen physischen Besuch im Archiv vorbereiten. 
+
+Eine [Scrollytelling-Seite](https://hennignaomi.github.io/rename_this/) dokumentiert einige der Geschichten, die hinter den zahlreichen Straßen-(Rück-)Umbenennungen in Berlin [stecken](https://odis-berlin.de/aktuelles/2026-06-27-stra%C3%9Fenumbenennung_scrolly/).
+
+Der Landesverein für Heimatpflege in München hat eigens ein Sprachwissenschaftler [als KI-Dialekttrainer angestellt](https://www.heise.de/news/Kuenstliche-Intelligenz-soll-Bairisch-lernen-11332176.html), um in einem 3 Jahre laufenden Projekt die verschiedenen Varianten des bayrischen Dialekts zu erfassen. Die Hoffnung ist, dass die Sichtbarkeit und Wertschätzung regionaler Sprachformen gestärkt wird, wenn KIs besser Dialekte erkennen, unterscheiden und verarbeiten lernen.
+
+[Mehr als 60.000 Liebesbriefe](https://liebesbriefarchiv.de) wurden im [Citizen-Science-Projekts "Gruß & Kuss"](https://liebesbriefarchiv.de/en/project-gruss-kuss/what-is-gruss-kuss/) seit 1997 auch mit Hilfe von Freiwilligen gesammelt und digitalisiert, worüber nun auch [der Guardian berichtet](https://www.theguardian.com/world/2026/jun/03/sixty-thousand-love-letters-germany-archive-volunteers).
 
 ## Finanzen
-* Städtetag schockiert: Pflegereform belastet Kommunen massiv
-  https://www.diesachsen.de/gesundheit/staedtetag-schockiert-pflegereform-belastet-kommunen-massiv-3144129
-* Gratis E-Book "Faire Steuern"
-  https://perspective-daily.de/article/faire-steuern-pdf
-  https://social.perspective-daily.de/@PerspectiveDaily/116726379924790979
-* Kommunen am Limit
-  https://kommunenamlimit.de
-* EU-Abgeordnete stimmen für Digitalen Euro
-  https://netzpolitik.org/2026/alternative-zu-visa-paypal-und-co-eu-abgeordnete-stimmen-fuer-digitalen-euro/
-* Sie kaufen die Welt, wir zahlen den Preis – Unser Leben, ihr Profit
-  https://www.finanzwende.de/themen/finanzialisierung/unser-leben-ihr-profit
-* Die Berichterstattung zur (Aktienrente-) grenzt für mich an Medienversagen, und das ist gefährlich für uns alle:
-  https://bsky.app/profile/krokoquarius.bsky.social/post/3mp6jo2tg6k2a
-* Bargeld-Verordnung: Wie die EU die Rolle des Bargelds stärken will
-  https://netzpolitik.org/2026/bargeld-verordnung-wie-die-eu-die-rolle-des-bargelds-staerken-will/
+Mit dem bundesweiten Aktionstag ["Kommunen am Limit"](https://kommunenamlimit.de) am 22. Juni 2026 fordern Städte, Landkreise und Gemeinden von Bund und Länder eine Lösung für die katastrophale kommunale Finanzlage zu finden. Denn sie sind es, die die gesetzliche Pflichtaufgaben für Kommunen festlegen, ihre dauerhaft ausreichende Finanzierung aber nicht absichern. So bleibt immer weniger Geld für "freiwillige Aufgaben" und den laufenden Verwaltungsbetrieb.
 
-## Gesundheit
-* Digital Health: Erfahrungen mit E-Rezept, E-Patientenakte und Heilberufsausweis
-  https://www.heise.de/hintergrund/Erfahrungsbericht-TI-und-Praxis-Gut-gemeint-ist-nicht-gut-gemacht-11319514.html
-* Patientenvertreterin: "Wir haben bei der Digitalisierung den Überblick verloren"
-  https://www.heise.de/hintergrund/Die-Digitalisierung-hat-grosses-Potenzial-fuer-Patientinnen-und-Patienten-11340915.html
-* Wenn Private Equity die Arztpraxis kauft
-  https://www.sueddeutsche.de/projekte/artikel/bayern/bayern-arztpraxen-kauf-private-equity-firmen-rendite-folgen-gesundheitswesen-e133717/?reduced=true
+Pflegeplätze sind einer dieser Pflichtaufgaben und deren Kosten würden mit der geplanten Pflegereform um 1 Mrd. Euro pro Jahr [weiter steigen](https://www.diesachsen.de/gesundheit/staedtetag-schockiert-pflegereform-belastet-kommunen-massiv-3144129), welche zum Großteil von der Sozialhilfe über die Kommunen finanziert werden müssten, um die Lücke zwischen finanzielle Eigenanteil der Betroffenen und den tatsächlichen Kosten pro Platz zu schließen.
+
+Die von Greenpeace e.V. beauftragte Studie ["Wege aus der kommunalen Finanznot"](https://www.greenpeace.de/publikationen/Wege_aus_der_Finanznot.pdf) zeigt an zwei Varianten, wie die Einnahmen aus einer auf Bundeslandebene einzuführende Vermögungssteuer die kommunalen Finanzierungsdefizite schließen kann. Mit dem nötigen politischen Willen könnten entsprechende Gesetzesänderungen in den jeweiligen Landtagen mit einfacher Mehrheit beschlossen werden.
+
+Auch das Gratis E-Book ["Faire Steuern"](https://perspective-daily.de/article/faire-steuern-pdf), entstanden [in einer Kooperation](https://social.perspective-daily.de/@PerspectiveDaily/116726379924790979) von Perspective Daily und Fun Facts, sieht in einer faire Vermögen- und Erbschaftsteuer für die Reichsten, den Schlüssel, um endlich etwas gegen marode Infrastruktur, Schulen und Krankenhäuser tun zu können.
+
+Wie sich Finanzinvestoren inzwischen in die Infrastruktur unserer alltäglichen Daseinsversorgung einkaufen, [thematisiert Finanzwende](https://www.finanzwende.de/themen/finanzialisierung/unser-leben-ihr-profit). Sie kaufen Wohnungen, Pflegeheime, Arztpraxen und Agrarbetriebe, senken danach Kosten / Qualität (z.B. eingesparte Pflegekräfte, unterlassene Instandhaltungen) und/oder erhöhen Preise / Gebühren (z.B. Mieten, Pflegeplatzkosten).
+
+Auch die Medienberichterstattung zur Aktienrente [sollte kritischer sein](https://bsky.app/profile/krokoquarius.bsky.social/post/3mp6jo2tg6k2a) und stärker hinterfragen, ob die Diagnose überhaupt stimmt, wo die Gelder investiert werden und wie sicher die Anlageformen sind.
+
+Das Europäische Parlament hat für die Einführung des Digitalen Euros [gestimmt](https://netzpolitik.org/2026/alternative-zu-visa-paypal-und-co-eu-abgeordnete-stimmen-fuer-digitalen-euro/), die wird aber nicht vor 2029 erfolgen. Die Ausgestaltung von Haltelimits, Gebühren und Offline-Zahlungen werden noch in weiteren Verhandlungen festgelegt. Das Bargeld soll aber als gleichwertiges Bezahlungsmittel [erhalten bleiben](https://netzpolitik.org/2026/bargeld-verordnung-wie-die-eu-die-rolle-des-bargelds-staerken-will/) (auch als Rückfalloption bei einem Ausfall der Stromversorgung) und dafür Verkäufern das Aufstellen von "No Cash"-Schilder verboten werden.
 
 ## Transparenz
-* Lange war der Vermittlungsausschuss die Dunkelkammer der Gesetzgebung. 2023 veröffentlichten wir erstmals die Sitzungsprotokolle, um Transparenz zu schaffen. Jetzt zieht der Vermittlungsausschuss endlich selbst nach.
-  https://fragdenstaat.de/artikel/eigener-sache/2026/05/vermittlungsausschuss-folgt-dem-beispiel-von-fragdenstaat/
-  https://chaos.social/@fragdenstaat/116680838611322809
-* Was fehlt: Betrachtungen und Recherchen zur Rolle privater Stiftungen für die digitalpolitische Zivilgesellschaft.
-  https://systemli.social/@anneroth/116684941827934040
-* Bundesbeauftragte: Informationsfreiheit soll ins Grundgesetz
-  https://www.heise.de/news/Bundesbeauftragte-Informationsfreiheit-soll-ins-Grundgesetz-11317290.html
-* Neuer Bundesbeauftragter für Datenschutz und Informationsfreiheit gewählt: "Hennemann gilt als Vertreter eines wirtschaftsorientierten Datenschutzes, der Daten als ökonomisches Gut sieht und die Nutzung von Daten für Innovation und Geschäftsmodelle betont."
-  https://netzpolitik.org/2026/moritz-hennemann-neuer-bundesbeauftragter-fuer-datenschutz-und-informationsfreiheit-gewaehlt/
-* BfDI veröffentlicht erste bundesweite Repräsentativbefragung zur Informationsfreiheit. 
-  https://www.bfdi.bund.de/DE/BfDI/Datenbarometer/Informationsfreiheit/Informationsfreiheit_node.html
-  via https://chaos.social/@jk/116688505385548388
-* Wie das Arbeitsministerium eine Forderung des Agrarministeriums innerhalb von 30 Minuten akzeptierte
-  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/baerbel-bas-weicht-schutzregeln-fuer-saisonarbeiterinnen-auf
-* EU-Ombudsfrau rügt Brüssel: Von der Leyen darf Chats nicht automatisch löschen
-  https://www.heise.de/news/EU-Ombudsfrau-ruegt-Bruessel-Von-der-Leyen-darf-Chats-nicht-automatisch-loeschen-11320672.html
-* Bundesregierung erteilt mehr Transparenz eine Absage
-  https://www.heise.de/news/Bundesregierung-erteilt-mehr-Transparenz-eine-Absage-11319610.html
-* Guter Grund Vorträge
-  https://guter-grund.info/vortraege/
-* Jetzt online: unsere neue #Klimaklagen-Datenbank – 221 Verfahren seit 2006, erstmals zentral erfasst, stetig aktualisiert und frei durchsuchbar. 
-  https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/aykut/klimawende-ausblick/klimaklagen-datenbank/datenbank.html
-  https://mastodon.social/@esrah_unihh/116726007963922262
-* Mit "Nachgeliefert" lassen sich alle Regierungspressekonferenzen seit 2014 systematisch durchsuchen, Wortnennungen vergleichen, Anfragen nach IFG oder Presserecht stellen oder Ihr trackt eure Themen.
-  https://fragdenstaat.de/artikel/exklusiv/2026/06/uber-klima-wird-gesprochen-wenn-es-brennt/?pk_campaign=mastodon
-  https://chaos.social/@fragdenstaat/116726675361606515
-* Die Aktivistin Martha Root hat Wolfram Weimers Frühwerk frei verfügbar gemacht – in der Bibliothek, deren Ausbau der Kulturstaatsminister stoppen will
-  https://taz.de/Veroeffentlichung-von-Weimers-Gedichten/!6186770/
-  https://pinkpower.lol/weimer/
-* Ein Zuarbeiter der konservativen Denkfabrik Republik 21 ist zum neuen Chefredenschreiber von Wirtschaftsministerin Katherina Reiche (CDU) avanciert
-  https://correctiv.org/aktuelles/parteien/2026/06/10/von-der-rechten-denkfabrik-zu-katherina-reiche/
-* Berlin: Informationsfreiheits-Fiasko mit Ansage
-  https://fragdenstaat.de/artikel/policy/2026/06/informationsfreiheits-fiasko-mit-ansage/
-* Verschlossene Auster 2026 geht an Berlins Regierenden Bürgermeister Kai Wegner
-  https://netzwerkrecherche.org/blog/verschlossene-auster-2026/
-* 20 Jahre Informationsfreiheitsgesetz: Transparenz nicht schwächen, sondern ausbauen
-  https://netzpolitik.org/2026/20-jahre-informationsfreiheitsgesetz-transparenz-nicht-schwaechen-sondern-ausbauen/
-* Nach Datenleck: Jens Spahn bestätigt Teilnahme an Veranstaltungen von Peter Thiel
-  https://www.deutschlandfunk.de/jens-spahn-bestaetigt-teilnahme-an-veranstaltungen-von-peter-thiel-110.html
-  * Spahn besucht seit Jahren vertrauliche Thiel-Treffen
-    https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101300782/jens-spahn-besucht-seit-jahren-diskrete-thiel-treffen.html
-  * Jens Spahn verteidigt Teilnahme an »Dialog«-Treffen von Peter Thiel
-    https://www.zeit.de/politik/deutschland/2026-06/jens-spahn-dialog-netzwerk-peter-thiel-gxe
-* Gentechnik auf dem Teller – und keiner sagt's Dir
-  https://www.telepolis.de/article/EU-Gentechnik-Forsa-Umfrage-zeigt-breiten-Protest-gegen-CRISPR-Plaene-11343019.html
-  via https://social.heise.de/@telepolis/116808756796935202
-* Freiheitsrechte: "Das Ergebnis ist eindeutig: Die AfD ist verfassungswidrig." - 2.500 Belege in Gutachten
-  https://afd-gutachten.de
-  https://mastodon.social/@pruef_bw/116810255146816310
-* FragDenStaat AfD-Datenbank ist da - Jeder Beleg ist mit dem AfD-Gutachten von Freiheitsrechte verknüpft. 
-  https://fragdenstaat.de/aktionen/afd-datenbank/
-  * Belege zum Rechtsgutachten: Darum ist die AfD verfassungswidrig
-    https://fragdenstaat.de/artikel/exklusiv/2026/06/darum-ist-die-afd-verfassungswidrig/
-* Prozess um Spahns Maskendeal startet in Bonn
-  https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/audio-prozess-um-maskendeal-startet-in-bonn-100.html
-* Was hat sich durch das Österreichische Informationsfreiheitsgesetz eigentlich verändert?
-  https://tube.bawü.social/w/mSZNr1wmYw3iphJREHpkZ2
-  * Erwin Ernst Steinhammer – Informationsfreiheit in Österreich: Wie transparent ist der Staat wirklich?
-    https://podcast.mitmilchundzucker.at/informationsfreiheit-oesterreich-mit-erwin-ernst-steinhammer/
-    https://mitmilchundzucker.podigee.io/320-erwin-ernst-steinhammer
-    https://fedi.at/@informationsfreiheit/116833673307541602
-* Guttenberg: Der Mann aller Märkte
-  https://correctiv.org/aktuelles/lobbyismus/2026/06/26/guttenberg-der-mann-aller-maerkte/
-* EU-Regeln: Warum neues Gen-Food bald unbemerkt im Supermarkt landet
-  https://www.telepolis.de/article/EU-Regeln-Warum-neues-Gen-Food-bald-unbemerkt-im-Supermarkt-landet-11343964.html
+### 20 Jahre Informationsfreiheitsgesetz (IFG)
+Beim 8. Symposium zur Informationsfreiheit am 3. Juni wurde auch das 20-jährige Bestehen des Informationsfreiheitsgesetzes (IFG) gefeiert. Die [Bundesbeauftragte für Datenschutz und Informationsfreiheit](https://www.bfdi.bund.de/) Prof. Dr. Louisa Specht-Riemenschneider forderte in ihrer Eröffnungsrede [die Weiterentwicklung des IFG zu einem Transparenzgesetz](https://www.bfdi.bund.de/SharedDocs/Pressemitteilungen/DE/2026/09_Informationsfreiheit_Symposium.html). Noch besser wäre aber [eine Verankerung im Grundgesetz](https://www.heise.de/news/Bundesbeauftragte-Informationsfreiheit-soll-ins-Grundgesetz-11317290.html). Den jüngsten Beschränkungen der Transparenzpflichten in einigen Bundesländern stellte sich klar entgegen: "Als stabile liberale Demokratie muss sich Deutschland dem Trend zur Falsch- und Desinformation sowie zur Beschränkung von Transparenz entschieden entgegenstellen und die Chancen ausschöpfen, die das IFG zur Stärkung des Vertrauens der Bürgerinnen und Bürger in den Staat gerade in unruhigen Zeiten mit sich bringt." 
+
+In einer [repräsentativen Umfrage](https://www.bfdi.bund.de/DE/BfDI/Datenbarometer/Informationsfreiheit/Informationsfreiheit_node.html) mit 2.500 Teilnehmenden (Ergebnisse [leider nicht](https://chaos.social/@jk/116688505385548388) als 5-Sterne-Open-Data veröffentlicht) [bewerteten allerdings](https://netzpolitik.org/2026/20-jahre-informationsfreiheitsgesetz-transparenz-nicht-schwaechen-sondern-ausbauen/) nur 35 Prozent die Arbeit der Behörden tatsächlich als eher transparent und nachvollziehbar.
+
+Die derzeitige Bundesregierung möchte offensichtlich auch nichts an diesem Eindruck ändern, [wie die Antwort](https://www.heise.de/news/Bundesregierung-erteilt-mehr-Transparenz-eine-Absage-11319610.html) auf eine Kleine Anfrage zeigt.
+
+Ob der von der Unions-Fraktion vorgeschlagene und [am 25. Juni gewählte](https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-wahl-datenschutzbeauftragter-1184320) (ohne vorherige öffentliche Ausschreibung) neue Bundesbeauftragte für Datenschutz und Informationsfreiheit, Prof. Dr. Moritz Hennemann, der sein Amt am 1. Oktober antreten wird, so progressiv wie sein wird, wie seine Vorgängerin, [wird bei Netzpolitik](https://netzpolitik.org/2026/moritz-hennemann-neuer-bundesbeauftragter-fuer-datenschutz-und-informationsfreiheit-gewaehlt/) mit Blick auf seine bisherigen Publikationen. Expertise zum Thema Informationsfreiheit findet sich in diesen nicht, dafür seine Sicht auf Daten als ökonomisches Gut und Grundlage für Innovation und Geschäftsmodelle.
+
+### Berliner IFG
+Erste Erfahrungen mit dem geänderten Berliner Informationsfreiheitsgesetz zeigen, dass Behörden, wie im Vorfeld befürchtet, vom neuen Paragraph 2 Absatz 3 rege Gebrauch machen, um Anfragen mit Verweis auf kritische Infrastruktur abzulehnen. FragDenStaat einige negativ Highlights [der letzten Monate aufgelistet](https://fragdenstaat.de/artikel/policy/2026/06/informationsfreiheits-fiasko-mit-ansage/).
+
+Nur konsequent, dass Berlins Regierenden Bürgermeister Kai Wegner stellvertretend für den Berliner Senat auf der Netzwerk Recherche Jahreskonferenz die "Verschlossene Auster" als Negativpreis für den Informationsblockierer des Jahres [verliehen bekommen hat](https://netzwerkrecherche.org/blog/verschlossene-auster-2026/).
+
+### Österreich IFG
+Markus Hametner, freier Datenjournalist und Vorstandsmitglied des Forum Informationsfreiheit in Österreich, [berichtete bereits](https://tube.bawü.social/w/mSZNr1wmYw3iphJREHpkZ2) am 6. Mai im Rahmen der IFG Days in Stuttgart, welche Erfahrungen man im ersten halben Jahr nach Einführung des Österreichische Informationsfreiheitsgesetz gemacht hat.
+
+Im Podcast ["mit Milch und Zucker"](https://mitmilchundzucker.podigee.io/320-erwin-ernst-steinhammer) kam zudem Erwin Ernst Steinhammer vom Forum Informationsfreiheit zum gleichen Thema [zu Wort](https://podcast.mitmilchundzucker.at/informationsfreiheit-oesterreich-mit-erwin-ernst-steinhammer/).
+
+### Neue Dokumente
+In der neuen [Klimaklagen-Datenbank](https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/aykut/klimawende-ausblick/klimaklagen-datenbank/datenbank.html) sind derzeit 221 Verfahren seit 2006 [zentral erfasst und frei durchsuchbar](https://mastodon.social/@esrah_unihh/116726007963922262).
+
+Mit ["Nachgeliefert"](https://fragdenstaat.de/nachgeliefert/) lassen sich alle Regierungspressekonferenzen seit 2014 [systematisch durchsuchen](https://fragdenstaat.de/artikel/exklusiv/2026/06/uber-klima-wird-gesprochen-wenn-es-brennt/), Wortnennungen vergleichen, Anfragen nach IFG oder Presserecht stellen. Sie zeigen, dass Demonstrationen (z.B. beim Klima) beim Agenda-Setting helfen.
+
+Der Deutschen Nationalbibliothek [wurde von der Aktivistin Martha Root](https://taz.de/Veroeffentlichung-von-Weimers-Gedichten/!6186770/) der bislang vergriffene Lyrikband "Kopfpilz", Erstlingswerk des jetzigen Kulturstaatsministers Wolfram Weimer, auf den er wohl nicht mehr so stolz ist, sowohl physisch als [auch digital](https://pinkpower.lol/weimer/) übergeben. Zum Hintergrund: der Minister hatte den Erweiterungsbau der Bibliothek in Leipzig im März mit der Begründung gestoppt, dass die Sammlung gedruckter Werke nicht mehr zeitgemäß wäre, dafür gäbe es ja Digitalisierung.
+
+### Politik
+Über die von abgeordnetenwatch durch IFG angeforderten internen Kommunikation zwischen Landwirtschaftsministerium und Arbeitsministerium [wird ersichtlich](https://www.abgeordnetenwatch.de/recherchen/lobbyismus/baerbel-bas-weicht-schutzregeln-fuer-saisonarbeiterinnen-auf), wie in einem Gesetzestext aus einem "nicht" ein "nicht automatisch", wodurch nun den (meist ausländischen) Saisonarbeiter:innen die Miete vom Lohn abgezogen werden kann, was bisher verboten war. Eine weitere Änderung erlaubt jetzt zudem, das Angestellten 90 Tage statt bisher 70 Tage auf dem Feld beschäftigt werden dürfen, ohne dabei gesetzlich versichert werden zu müssen. Sie sind damit im Fall von Krankheit schlechter abgesichert.
+
+Die Europäische Bürgerbeauftragte Teresa Anjinho hat die EU-Kommission [offiziell gerügt](https://www.heise.de/news/EU-Ombudsfrau-ruegt-Bruessel-Von-der-Leyen-darf-Chats-nicht-automatisch-loeschen-11320672.html), da deren Präsidentin von der Leyen und weitere Mitglieder systematisch Signal-Nachrichten automatisch löschen lassen und mit ihnen vermutlich auch politisch brisante Absprachen verschwinden.
+
+### Gundel, Gustav & Klaas
+[Nach Recherchen von CORRECTIV](https://correctiv.org/aktuelles/parteien/2026/06/10/von-der-rechten-denkfabrik-zu-katherina-reiche/) ist mit Nils Hesse ein (ehemaliger) freier Mitarbeiter der konservativen Denkfabrik Republik 21 (R21) als Leiter des Referats für "Reden und strategische Kommunikation" im Bundeswirtschaftsministerium berufen worden. R21 unterstellte anderen NGOs parteipolitisch zu agieren, sieht sich aber inzwischen selbst dem Vorwurf ausgesetzt. (Anna Roth [regt trotzdem an](https://systemli.social/@anneroth/116684941827934040), dass es auch mehr Recherchen zur Rolle privater Stiftungen, die zivilgesellschaftliche NGOs fördern, geben sollen, vor allem wie sie auch deren Themensetzung beeinflussen.)
+
+[In einer weiteren Recherche](https://correctiv.org/aktuelles/lobbyismus/2026/06/26/guttenberg-der-mann-aller-maerkte/) widmet sich CORRECTIV den Geschäftsverbindungen des ehemaligen Verteidigungsminister Guttenberg, zu denen Trump-Vertraute, MAGA-Unterstützer und eben Peter Thiel gehören.
+
+[Recherchen von t-online (basierend auf einem Datenleck) belegen](https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101300782/jens-spahn-besucht-seit-jahren-diskrete-thiel-treffen.html), dass Jens Spahn Treffen des von Peter Thiel gegründeten Dialog-Forum auf Einladung besucht hat. [Spahn hat inzwischen](https://www.deutschlandfunk.de/jens-spahn-bestaetigt-teilnahme-an-veranstaltungen-von-peter-thiel-110.html) die Teilnahme an 5 Treffen zwischen 2018 und 2024 bestätigt und auch [verteidigt](https://www.zeit.de/politik/deutschland/2026-06/jens-spahn-dialog-netzwerk-peter-thiel-gxe).
+
+### Gentechnik
+[Mit der Reform des EU-Gentechnikrechts](https://www.telepolis.de/article/EU-Gentechnik-Forsa-Umfrage-zeigt-breiten-Protest-gegen-CRISPR-Plaene-11343019.html) müssen (dank erfolgreichem Lobbyieren der Industrie) Produkte, bei denen neue Gentechnik der "ersten Kategorie" (NGT1) zum Einsatz kam, ab 2028 nicht mehr als gentechnisch verändert gekennzeichnet werden. Dabei sprachen sich 92% der Befragten in einer von foodwatch in 2023 beauftragten Umfrage für eine Kennzeichnung solcher Produkte aus, damit sie die Wahlfreiheit behalten. Die Reform würde nun auch das europäische Vorsorgeprinzip gegen das US-Modell ersetzen, bei dem ein Betroffener selbst nachweisen muss, das sein Schaden durch Genveränderungen seines Essens verursacht worden ist (von dem er ja nicht mehr weiß, ob es verändert wurde). Zudem müssen neue Sorten durch die Gesetzesänderung [nicht mehr aufwändig](https://www.telepolis.de/article/EU-Regeln-Warum-neues-Gen-Food-bald-unbemerkt-im-Supermarkt-landet-11343964.html) vor ihrer Zulassung getestet werden, auch die Dokumentationspflichten, z.B. auf welchen Flächen welche Sorten verwendet werden, entfallen. Somit ist nicht mehr nachvollziehbar, ob durch Wind genveränderte Samen auf einem benachbarten Bio-Acker landen könnten. Die EU erlaubt künftig Patente auch auf die neuen Sorten und den Technologien, mit denen sie gezüchtet worden sind. Die Daten dazu sollen in einer öffentlichen Datenbank gepflegt werden.
+
+### AfD
+Das AfD-Gutachten der Gesellschaft für Freiheitsrechte [steht nun online](https://afd-gutachten.de) und enthält 2.500 Belege (unter anderem aus Social-Media- und Messenger-Kanälen), [dass die AfD verfassungswidrig ist](https://mastodon.social/@pruef_bw/116810255146816310). Die Belege können auch [in der Datenbank](https://fragdenstaat.de/aktionen/afd-datenbank/) von FragDenStaat transparent durchsucht und wenn passend auf einer Karte visualisiert werden. Auf einige der Belege wird [hier eingegangen](https://fragdenstaat.de/artikel/exklusiv/2026/06/darum-ist-die-afd-verfassungswidrig/).
 
 ## Demokratie
-* DemokRADtour
-  https://ostdeutschland.de/startseite.html
-* sachsen-anhalt Weltoffen
-  https://sachsenanhalt-weltoffen.de
-* Forscher: Kneipensterben ist schlecht für die Demokratie
-  https://www.diesachsen.de/soziales/forscher-kneipensterben-ist-schlecht-fuer-die-demokratie-3143053
-* Das Schweizer Parlament schafft die Grundlage für Versuche mit E-Collecting:
-  https://www.digitale-gesellschaft.ch/2026/06/19/e-collecting-parlament-macht-weg-frei-fuer-digitale-unterschriftensammlung-gemeinsame-medienmitteilung-der-stiftung-fuer-direkte-demokratie-und-der-digitalen-gesellschaft/
+Fallen Begegnungsorte (wie z.B. die lokale Kneipe) weg, an denen zuvor Menschen aufeinander getroffen sind, die sonst wenig miteinander zu tun hätten, [ist das schlecht für die Demokratie](https://www.diesachsen.de/soziales/forscher-kneipensterben-ist-schlecht-fuer-die-demokratie-3143053). So kann man sich nicht mehr über die Alltagsprobleme des jeweils anderen austauschen und so Lernen Verständnis für die Lebenssituation für sein Gegenüber aufzubringen, so fremd sie auch für einen selbst erscheinen mag.
 
-## Journalismus
-* The RePlaybook: A Field Guide to the Climate and Information Crisis
-  https://tacticaltech.org/replaybook/
-  https://mastodon.cc/@info_activism/116725751160558903
-* One Year of Publix: Our First Impact Report Is Here
-  https://www.publix.de/en/news/impact-report-01
-* "Kulturwandel" oder Verflachung? Deutschlandfunk plant große Programmreform
-  https://uebermedien.de/117386/kulturwandel-oder-verflachung-deutschlandfunk-plant-grosse-programmreform/
+Im Vorfeld der Landtagswahlen in Sachsen-Anhalt und Mecklemburg-Vorpommern organisieren einige Initiativen genau solche Austauchmöglichkeiten, wie z.B. die [DemokRADtour](https://ostdeutschland.de/startseite.html), deren Radtour durch viele Orte der beiden Bundesländer führt. Weitere Termine für Sachsen-Anhalt findet man in diesem Veranstaltungskalender](https://sachsenanhalt-weltoffen.de/#kalender) von Sachsen-Anhalt Weltoffen.
+
+In der Schweiz hat das dortige Parlament einer Revision des Bundesgesetzes über die politischen Rechte (BPR) zugestimmt, welches nun den Versuchsbetrieb für digitale Unterschriftensammlung (so genanntes E-Collecting ) bei Volksinitiativen und Referenden ermöglicht. Die Digitale Gesellschaft Schweiz und die Stiftung für direkte Demokratie [begrüßen dies](https://www.digitale-gesellschaft.ch/2026/06/19/e-collecting-parlament-macht-weg-frei-fuer-digitale-unterschriftensammlung-gemeinsame-medienmitteilung-der-stiftung-fuer-direkte-demokratie-und-der-digitalen-gesellschaft/), wenn bei der technischen Umsetzung die Prinzipien Datensparsamkeit, Dezentralität und Quelloffenheit eingehalten werden.
 
 ## Überwachung
 * Deutsche Polizeibehörden setzen bei Ermittlungen mitunter auf die Dienste von Datenhändlern, wie BR-Recherchen zeigen
