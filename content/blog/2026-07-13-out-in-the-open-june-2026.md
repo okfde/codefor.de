@@ -223,71 +223,56 @@ Im Vorfeld der Landtagswahlen in Sachsen-Anhalt und Mecklemburg-Vorpommern organ
 In der Schweiz hat das dortige Parlament einer Revision des Bundesgesetzes über die politischen Rechte (BPR) zugestimmt, welches nun den Versuchsbetrieb für digitale Unterschriftensammlung (so genanntes E-Collecting ) bei Volksinitiativen und Referenden ermöglicht. Die Digitale Gesellschaft Schweiz und die Stiftung für direkte Demokratie [begrüßen dies](https://www.digitale-gesellschaft.ch/2026/06/19/e-collecting-parlament-macht-weg-frei-fuer-digitale-unterschriftensammlung-gemeinsame-medienmitteilung-der-stiftung-fuer-direkte-demokratie-und-der-digitalen-gesellschaft/), wenn bei der technischen Umsetzung die Prinzipien Datensparsamkeit, Dezentralität und Quelloffenheit eingehalten werden.
 
 ## Überwachung
-* Deutsche Polizeibehörden setzen bei Ermittlungen mitunter auf die Dienste von Datenhändlern, wie BR-Recherchen zeigen
-  https://www.tagesschau.de/investigativ/br-recherche/standortdaten-handy-app-polizei-datenhandel-100.html
-* Thüringen plant ein neues Polizeigesetz
-  https://thuerpagstoppen.noblogs.org
-  https://digitalcourage.social/@digitalcourage/116675543480333136
-* Wenn Überwachungskapitalismus und Überwachungsstaat zusammenwachsen
-  https://netzpolitik.org/2026/online-werbung-wenn-ueberwachungskapitalismus-und-ueberwachungsstaat-zusammenwachsen/
-  * Deutsche Polizei nutzt offenbar rechtswidrig Databroker
-    https://netzpolitik.org/2026/daten-schwarzmarkt-deutsche-polizei-nutzt-offenbar-rechtswidrig-databroker/
-* CDU, SPD und BSW wollen Überwachung in Sachsen ausweiten
-  https://netzpolitik.org/2026/smartphones-hacken-gesichter-scannen-cdu-spd-und-bsw-wollen-ueberwachung-in-sachsen-ausweiten/
-  * Zivilgesellschaftliche Organisationen appellieren an die Fraktionen des Sächsischen Landtags, der geplanten Massenüberwachung nicht zuzustimmen
-    https://www.privatsphaere-leipzig.org/posts/2026-06-16-pm-novelle-polizeigesetz/
-  * Wer heute biometrische Massenüberwachung und #Verhaltensscanner legalisiert, baut Infrastruktur für den Techno-Faschismus von morgen. Abgeordnete von Sachsen: Stimmt dagegen!
-    https://www.ccc.de/de/updates/2026/stop-ueberwachungsmaschinerie-sachsen
-  * Polizeirechtsnovelle verabschiedet: Landtag ermöglicht massive Überwachung in Sachsen
-    https://netzpolitik.org/2026/polizeirechtsnovelle-verabschiedet-landtag-ermoeglicht-massive-ueberwachung-in-sachsen/
-* Palantir has lost a legal bid to force a Swiss magazine to publish its responses to articles detailing how the country’s government repeatedly rejected its services
-  https://infosec.exchange/@adfichter/116738333166484144
-* Neue Höchststände bei Polizeischüssen und Taser-Einsätzen
-  https://netzpolitik.org/2026/statistik-zu-polizeilichem-schusswaffengebrauch-neue-hoechststaende-bei-polizeischuessen-und-tasereinsaetzen/
-* re:publica 26: Wir wissen wo du warst – weil Databroker deine Daten verkaufen
-  https://youtu.be/QyFCa6RkqXM
-  https://mamot.fr/@roofjoke/116800369731539239
-* Wie Bayern die Kontrolle über Palantir verliert
-  https://www.golem.de/news/bayerische-polizei-und-palantir-ist-der-einsatz-von-vera-teils-verfassungswidrig-2606-210271.html
+### Datenhändler
+Wenn die Polizei auf Daten zugreift, die die Werbeindustrie gesammelt hat, dann wächst zusammen, was definitiv nicht zusammengehört, weil einzeln schon schlimm: Überwachungskapitalismus und Überwachungsstaat. Was schon bei ICE in den USA und unter Victor Orban in Ungarn praktiziert wurde, kann nun durch IFG-Anfrage für mindestens Mecklemburg-Vorpommern und Brandenburg [nachgewiesen werden](https://netzpolitik.org/2026/online-werbung-wenn-ueberwachungskapitalismus-und-ueberwachungsstaat-zusammenwachsen/). Dabei bestätigen Rechtswissenschaftler, dass der Ankauf solcher Standortdaten bei Datenhändler [nach aktuellem Stand rechtswidrig ist](https://netzpolitik.org/2026/daten-schwarzmarkt-deutsche-polizei-nutzt-offenbar-rechtswidrig-databroker/). Denn in der EU ist der Standortdaten-Verkauf ohne explizite Nutzenden-Einwilligung [verboten](https://www.tagesschau.de/investigativ/br-recherche/standortdaten-handy-app-polizei-datenhandel-100.html). Zur Vertiefung sei [der Talk zu den Databroker-Files](https://www.youtube.com/watch?v=QyFCa6RkqXM) von der diesjährigen re:publica empfohlen.
+
+### Bundesländer
+Trotz [zahlreichen](https://www.privatsphaere-leipzig.org/posts/2026-06-16-pm-novelle-polizeigesetz/) [Protest](https://www.ccc.de/de/updates/2026/stop-ueberwachungsmaschinerie-sachsen) haben CDU, SPD und BSW in Sachsen die [Polizeirechtsnovelle verabschiedet](https://netzpolitik.org/2026/polizeirechtsnovelle-verabschiedet-landtag-ermoeglicht-massive-ueberwachung-in-sachsen/). Das Gesetz tritt bereits am 1. Juli 2026 in Kraft. Die Novelle sieht eine Datenanalyse-Plattform mit ähnlichem Funktionsumfang wie Palantir Gotham vor, KI-gestützte Videoüberwachung (inklusive Verhaltenserkennung und biometrische Fernidentifizierung), Gesichter- und Stimmabgeleich mit Daten aus dem im Internet, Staatstrojaner für Quellen-TKÜ und verdeckte Kennzeichenscanner vor. Zu mindestens wurde die eigentlich geplante Einführung von Tasern noch zurückgenommen. Mit Blick [auf die Statistik](https://netzpolitik.org/2026/statistik-zu-polizeilichem-schusswaffengebrauch-neue-hoechststaende-bei-polizeischuessen-und-tasereinsaetzen/) aus anderen Bundesländern, die den Tasereinsatz erlauben, wohl eine gute Entscheidung, denn aus der geht hervor, dass Taser in 57% der Fälle gegen Unbewaffnete eingesetzt worden sind.
+
+Auch in Thüringen wird an einem neuen Polizeigesetz geschrieben, das ähnliche Befugnisse wie im sächsischen Nachbarbundesland vorsieht. Neben [der Stellungnahme von Digitalcourage e.V.](https://digitalcourage.de/blog/2026/stellungnahme-pag-thueringen), die die Grundrechte gefährdet sieht, käpmft auch das Bündnis [Thüringer Polizeiaufgabengesetz stoppen (ThürPAG stoppen!)](https://thuerpagstoppen.noblogs.org) gegen Autoritarismus und Massenüberwachung.
+
+Die Gesellschaft für Freiheitsrechte zusammen mit dem Chaos Computer Clubs (CCC) hatte bereits letztes Jahr [Verfassungsbeschwerde](https://www.ccc.de/updates/2025/palantir-bayern) gegen die bayerische Regierung eingereicht, weil diese aus ihrer Sicht, nicht ausreichend sicherstellt (sicherstellen kann), dass beim Data Mining mit ihrem Tool VeRA (dem Palantir Gotham zu Grunde liegt) keine Daten von unbeteiligten Personen einbezogen werden, und damit Transparenz, Zweckbindung und Grundrechtsschutz [nicht mehr gewährleisten](https://de.ghacks.net/2026/07/01/palantir-vera-bayern-polizei-kontrolle/).
+
+Auch in der Schweiz ist Palentir gerade nicht gut gelitten, ihr Versuch, die Veröffentlichung einer Gegendarstellung von ihnen im Schweizer Magazin Republik rechtlich zu erzwingen, die der Darstellung, dass die Schweizer Regierung wiederholt ihre Dienste abgelehnt, widersprechen wollte, [wurde vom Züricher Internationalen Handelsgericht in 22 von 23 Punkten abgelehnt](https://infosec.exchange/@adfichter/116738333166484144).
 
 ## Entfremdete Intelligenz
 * 400-Milliarden-Parameter-Modell: Konsortium „Europa“ gewinnt KI-Wettbewerb
   https://www.heise.de/news/400-Milliarden-Parameter-Modell-Konsortium-Europa-gewinnt-KI-Wettbewerb-11339003.html
 * Lokales AI-Agent-Setup mit Ollama, Open WebUI und n8n (2026)
   https://skill-sprinters.de/blog/tools/lokales-ai-agent-setup-ollama-open-webui-n8n-2026/
-* Bayern erlaubt generell KI-Einsatz bei Hochschul-Prüfungen
-  https://www.br.de/nachrichten/bayern/bayern-erlaubt-generell-ki-einsatz-bei-hochschul-pruefungen,VNLznOS
+
+
 ### Fremde Federn
-* AI turns this single bullet point into a long email I can pretend I wrote
-  AI makes a single bullet point out of this long email I can pretend I read
-  https://mastodon.social/@Sheril/116720919490343442
-* Bei Reden & Texten von Thüringens Ministerpräsident Voigt schlug ein Analysetool zehn mal mehr an als bei Beiträgen anderer Politiker*innen. Außerdem finden sich in einem Text mehrere Zitate, die nicht verifizert werden konnten
-  https://www.deutschlandfunkkultur.de/wie-viel-ki-ist-in-den-texten-von-thueringens-mp-recherche-von-frag-den-staat-100.html
-  https://chaos.social/@fragdenstaat/116742490224042491
-  * Als Reaktion auf die fragdenstaat.de Recherche zu den Texten von Mario Voigt hat die FAZ einen Gastbeitrag des Ministerpräsidenten depubliziert. 
-    https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/zum-ki-verdacht-bei-gastbeitrag-von-mario-voigt-200917046.html
-    https://bsky.app/profile/jonpeaceman.bsky.social/post/3mnwuvvjwkc22
-* Jetzt soll auch #Reiche KI für ihren Gastbeitrag in der FAZ genutzt haben. Nicht nur ein bisschen, sondern zu wahrscheinlich mehr als zwei Dritteln.
-  https://dju.social/@DerKlimablog/116775852695840444
-* Die zerstörerischste Form von Plagiat: Was die KI- Paranoia bewirken kann
-  https://kulturundkontroverse859.substack.com/p/die-zerstorerischste-form-von-plagiat
-* Ein KI-Skandal erschüttert den Journalismus. Aber ist es überhaupt einer? Die Medienbranche ist geteilter Meinung
-  https://taz.de/KI-im-Journalismus/!6185296/
-  https://bsky.app/profile/jonpeaceman.bsky.social/post/3mos645sghs2u
+Von Thüringens Ministerpräsident Mario Voigt erschien bei der Frankfurter Allgemeinen Zeitung (FAZ) im August 2025 ein Gastbeitrag über eine Social-Media-Sperre für Kinder und Jugendliche. Inzwischen wurden im Text mehrere referenzierte Zitate von Wissenschaftlern gefunden, deren Ursprung nicht nachvollzogen werden kann. Mutmaßlich wurden sie von einer (generativen) KI herhalluziniert. Es wurden zudem KI-Detektoren auf diesen Text und andere Reden & Texten von Voigt angesetzt und dieser schlug [zehn mal häufiger an](https://chaos.social/@fragdenstaat/116742490224042491), als bei Beiträgen von anderen Poltikern. In Konsequenz hat die FAZ den Beitrag von Voigt online [depubliziert](https://bsky.app/profile/jonpeaceman.bsky.social/post/3mnwuvvjwkc22) (vulgo gelöscht). Er ist Februar wurde Mario Voigt um seinen Doktortitel [erleichtert worden](https://www.mdr.de/nachrichten/thueringen/fragen-antworten,voigt-doktortitel-afd-misstrauensvotum-100.html), nachdem die Technische Universität Chemnitz nach einjähriger Prüfung  systematische Verstöße gegen wissenschaftliches Arbeiten und mangelnde Kennzeichnung von Quellen nachgewiesen hat.
+
+Inzwischen stehen auch zwei Gastbeiträge von Ministerin Reiche [unter KI-Verdacht](https://www.n-tv.de/der_tag/Bericht-Zwei-Gastbeitraege-von-Ministerin-Reiche-unter-KI-Verdacht-id31032828.html), beim ersten soll das erste Drittel vollständig KI-generiert sein, beim zweiten schätzungsweise 70% des Inhalts.
+
+Auch Digitalminister Karsten Wildberger (bzw. sein Ministerium) hat offen zugeben, [für Texte und Reden KI zu nutzen](https://www.zdfheute.de/politik/deutschland/wildberger-ki-einsatz-rede-texte-100.html), auch wenn er das den Zeitungen und Online-Portalen nicht transparent gemacht hat, angeblich, weil die KI nur assistierend analog zur Funktionalität eines Schreibprogramms zum Einsatz gekommen ist.
+
+Und doch macht es eben einen Unterschied, ob man sich nur bei einzelnen Formulierungen helfen lässt oder ganze Textpassagen generieren lässt und dann noch so faul ist, den so entstandenen Texte nicht noch einmal zu reviewen und die Zitatquellen zu prüfen, wie im Fall von Voigt.
+
+Beim Tagesspiegel hatte der ehemalige Chefredakteur und Herausgeber Stephan-Andreas Casdorff sich ganze Texte von einer KI schreiben lassen und diese unverändert als eigene Leistung veröffentlicht. Nach Aufdeckung dieses Umstands "pausiert" der Tagesspiegel die Zusammenarbeit mir ihm. Wenn Inhalte zweitrangig werden, es nur noch um "Content-Schrubberei" geht, also immer mehr Texte für mehr Abos, senkt das auch Hemmungen, zu betrügen und wirft grundsätzliche Fragen zum Einsatz von [KI im Journalismus](https://taz.de/KI-im-Journalismus/!6185296/) auf. Auch zu den Qualitätssicherungsprozessen, wenn selbst der Human-in-the-Loop fehlt. Erschreckend ist eher die Ansicht mancher Medienschaffende, die glauben, dass KI die "weltanschaulich neutraleren" Inhalte [fabrizieren würden](https://bsky.app/profile/jonpeaceman.bsky.social/post/3mos645sghs2u). Als wenn die KI-Trainingsdaten keinen Bias enthalten würden. Und Elon Musks Grok beweist, dass manche bei der Neutralität auch noch "nachhelfen". 
+
+[Das folgende Comic](https://mastodon.social/@Sheril/116720919490343442) fasst die beiden Seiten prägnant zusammen: "AI turns this single bullet point into a long email I can pretend I wrote" und "AI makes a single bullet point out of this long email I can pretend I read". Es geht nicht mehr um Verstehen (werden) wollen, sondern das Vortäuschen von Kompetenz bzw. dem Erfüllen von Bewertungsschemas, um sich mit minimalen Aufwand bestehende Vorteile zu erhalten oder neue zu verschaffen. Wenn man ehrlich wäre, könnte man sich einfach nur die reinen KI-Prompts zuschicken (würde KI-Rechenleistung sparen), und nur wenn einer der Seiten doch der Inhalt interessieren sollte, kann sie den Prompt auch ausführen. Allerdings könnte man dann nicht mehr die Privilegien gegenüber Berufsgruppen wie Bauarbeitern und Pflegekräfte rechtfertigen, die noch nicht physische Straßen mit KI generieren oder Alte mit KI waschen können (wobei humanoide Roboter auch schon in Entwicklung sind).
+
+Für Johannes Franzen [macht KI-Paranoia](https://kulturundkontroverse859.substack.com/p/die-zerstorerischste-form-von-plagiat), also den Umstand, dass man nicht mehr zwischen Original und Nachahmung unterscheiden kann und tendenziell bei allem die Authentizität angezweifelt wird, Menschen zynisch und gleichgültig und lässt Vertrauen weiter erodieren.
+
+In Bayern soll das Hochschulinnovationsgesetz [geändert werden](https://www.br.de/nachrichten/bayern/bayern-erlaubt-generell-ki-einsatz-bei-hochschul-pruefungen,VNLznOS), um den Einsatz von ChatGPT und vergleichbaren Tools bei Hochschul-Prüfungen generell zu erlauben. Ihre Verwendung soll aber an eine Kennzeichnungspflicht gebunden sein. Es wird aber langfristig neue Prüfungsformate geben müssen, um die tatsächliche Leistung der Studierenden messen zu können, wahrscheinlich mehr mündliche Prüfungen, damit aber auch mehr Aufwand für die Prüfenden. 
+
+Wahrscheinlich werden analog zum Aufkommen der Fotografie, durch die das realitätsgetreue Malen zwar an Bedeutung verloren hat, dadurch aber neue (surrealistische) Formen in der Malerei entstanden sind, auch durch die KI bestimmte Fähigkeiten an Relevanz verlieren (Rechtschreibung), dafür andere Fähigkeiten neu oder stärker in den Fokus (Textverständnis) rücken. Und bei manch alten Fähigkeiten wird sich am Ende doch herausstellt, dass sie weiter wichtig sind (z.B. Lernen durch Schreiben).
+
 ### Grenzen
-* Stroop-Effekt: KI-Modelle scheitern an klassischem Aufmerksamkeitstest
-  https://www.heise.de/news/Stroop-Effekt-KI-Modelle-versagen-bei-klassischem-Aufmerksamkeitstest-11317071.html
-* Digital-Me: Warum ich mehr bin als meine Daten
-  https://t2informatik.de/blog/digital-me-mehr-als-meine-daten/
-* Ford hired AI and sacked humans. It backfired badly
-  https://www.independent.co.uk/tech/ford-ai-automation-humans-hiring-artificial-intelligence-b3004733.html
+Der Stroop-Test prüft, wie gut man als Mensch in der Lage ist, eine automatische Reaktion zu unterdrücken. Dazu bekommen sie der Reihe nach Wörter gezeigt, bei den Wortlaut und Schriftfarbe voneinander abweichen, sie aber die richtige Schriftfarbe benennen müssen, was die meisten, wenn auch mit Zögern, schaffen. [Anders als die verbreiteten LLMs](https://www.heise.de/news/Stroop-Effekt-KI-Modelle-versagen-bei-klassischem-Aufmerksamkeitstest-11317071.html), deren Trefferquote schon bei 10 Wörtern auf 60%, bei 40 unter 20% fällt. Offensichtlich fällt es den Modelle schwer, unwesentliche Informationen wegzufiltern.
+
+Bei Ford hatte man sich auch gedacht, dass man sich durch KI hunderte Arbeiter sparen könnte und sie einfach mal entlassen. [Nachdem die Qualität massiv absackte](https://www.independent.co.uk/tech/ford-ai-automation-humans-hiring-artificial-intelligence-b3004733.html), nachdem man blind auf automatisierter KI-getriebener Inspektionssysteme vertraute hat, hat man nun doch einsehen, dass Menschen im Beurteilen komplexer Problemstellungen doch noch die Nase vorn haben. So wurden doch wieder die Spezialisten zurückgeholt. Bald verbessert sich die Qualität wieder. Erfahrung schlägt dann doch reines Faktenwissen. Fragt sich nur, ob man für eine Firma arbeiten möchte, die so respektlos mit seinen Mitarbeitenden umgeht.
+
 ### Sicherheit
-* Hackers are hijacking high-profile Instagram accounts by simply asking Meta's AI chatbot to change the email on the account. Meta's AI does it, hacker gets password reset code, they're in
-  https://infosec.exchange/@josephcox/116675938948881868
-* Malware: KI erzeugt kaum aufhaltbaren Wurm
-  https://www.heise.de/news/IT-Forscher-zeigen-anpassungsfaehigen-KI-Wurm-11318083.html
-* Cloned sites: the shopping scams that lead ChatGPT to fake stores
-  https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites
+Hacker konnten fremde Instagram-Profile [übernehmen](https://infosec.exchange/@josephcox/116675938948881868), in dem sie einfach Metas KI-Chatbot anwiesen, die E-Mail-Adresse des jeweiligen Accounts zu ändern (nämlich in eine, auf die sie Zugriff hatten). Dadurch gelangten sie an den Passwort-Resetcode und voilà: drin. 
+
+In der Informatik ist ein [Wurm](https://de.wikipedia.org/wiki/Computerwurm) ein Schadprogramm, dass in der Lage sich selbst zu vervielfältigen und auf weitere Rechner zu verbreiten. IT-Forscher haben nun unter Laborbedingungen mit KI einen Wurm erschaffen, der sich durch seine hohe Anpassungsfähigkeit [kaum aufhalten lässt](https://www.heise.de/news/IT-Forscher-zeigen-anpassungsfaehigen-KI-Wurm-11318083.html).
+  
+Die alte Betrugsmasche: Bestehende (Shopping-)Webseiten täuschend echt nachbauen, auf Domänen hosten, die so ähnlich klingen, wie die Original-Domäne und auf Vertipper der Nutzer hoffen (oder auf Suchmaschinen, die die Seite verlinken). Was bisher ziemlich aufwändig war, wird durch KI [zum KInderspiel](https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites). Zum Schaden der Kundschaft, wenn sie sich dort registriert und ihre Zahlungsdaten eingibt, oder auch schon, wenn sie die Anmeldedaten der Originalseite auf der Fakeseite eingeben (und keinen zweiten Faktor haben).
+
 ### Umweltbelastung
 * Claude Carbon
   https://reset.org/energie-vibe-coding-reduzieren-wie-claude-carbon-dir-helfen-kann/
@@ -297,9 +282,11 @@ In der Schweiz hat das dortige Parlament einer Revision des Bundesgesetzes über
   https://netzpolitik.org/2026/ki-klimaschwindel-und-greenwashing-big-tech-erklaert-das-problem-zur-loesung/
 * KI-Rechenzentren dürften 2030 einen Wasserverbrauch wie 1,3 Milliarden Menschen haben
   https://www.derstandard.at/story/3000000323330/ki-rechenzentren-duerften-2030-einen-wasserverbrauch-wie-13-milliarden-menschen-haben
+
 ### Protest
 * Neue Rechenzentren: Das muss nicht sein
   https://www.nd-aktuell.de/artikel/1200073.kuenstliche-intelligenz-neue-rechenzentren-das-muss-nicht-sein.html
+
 ### Alternativen
 * DuckDuckGo: KI-freie Suche boomt – jetzt als Standard
   https://www.heise.de/news/DuckDuckGo-KI-freie-Suche-boomt-jetzt-als-Standard-11317527.html
@@ -307,6 +294,7 @@ In der Schweiz hat das dortige Parlament einer Revision des Bundesgesetzes über
   https://www.heise.de/news/Zurueck-zu-Buch-und-Stift-Norwegen-verbannt-KI-aus-Grundschulen-11339393.html
 * PACT: Cloudflare will mit Browserherstellern böswilligen Traffic aussortieren
   https://www.heise.de/news/PACT-Cloudflare-will-mit-Browserherstellern-boeswilligen-Traffic-aussortieren-11340973.html
+
 ### Kapitalismus
 * Unternehmen vergisst Limits für KI-Nutzung, verbrennt halbe Milliarde Dollar in einem Monat
   https://www.derstandard.at/story/3000000322988/unternehmen-vergisst-limits-fuer-ki-nutzung-verbrennt-halbe-milliarde-dollar-in-einem-monat
@@ -326,12 +314,14 @@ In der Schweiz hat das dortige Parlament einer Revision des Bundesgesetzes über
   https://www.heise.de/news/Prognose-2028-wird-KI-Coding-teurer-als-Entwicklergehaelter-11343464.html
 * KI-Blase durchgerechnet: Erst zahlen, dann erschrecken!
   https://www.metacheles.de/ki-blase-durchgerechnet-erst-zahlen-dann-erschrecken/
-## Ressourcenbelastung
+
+### Ressourcenbelastung
 * Open Context (https://opencontext.org) is now getting slammed with 3x more traffic than normal.
   https://scholar.social/@ekansa/116722821761382323
 * Der hohe Bedarf an Speicherkapazitäten für KI-Rechenzentren sorgt aktuell auch bei Verbraucherinnen und Verbrauchern für gestiegene Preise für Speichermedien.
   https://social.bund.de/@destatis/116736045140963571
-## Gerichtsurteile
+
+### Gerichtsurteile
 * A court in Munich declared that Google is liable for their "AI summaries" and all its hallucinations
   https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/
   https://tldr.nettime.org/@tante/116724678506655962
@@ -340,14 +330,16 @@ In der Schweiz hat das dortige Parlament einer Revision des Bundesgesetzes über
     https://mastodon.social/@arstechnica/116726961728397799
 * Präzedenzfall Garfield AI: Wie ein Algorithmus das Gericht erobert
   https://www.telepolis.de/article/Praezedenzfall-Garfield-AI-Wie-ein-Algorithmus-das-Gericht-erobert-11341806.html
-## Verantwortung
+
+### Verantwortung
 * Die perfekte Ausrede: Warum wir die Schuld so gern auf KI schieben
   https://www.telepolis.de/article/Die-perfekte-Ausrede-Warum-wir-die-Schuld-so-gern-auf-KI-schieben-11328396.html
 * Meredith Whittaker: "KI-Chatbots sind nicht eure Freunde"
   https://www.telepolis.de/article/Meredith-Whittaker-KI-Chatbots-sind-nicht-eure-Freunde-11339577.html
 * Studie sieht systematische Verstöße gegen humanitäres Völkerrecht durch KI-Zielsysteme in Gaza
   https://www.weizenbaum-institut.de/news/detail/studie-sieht-systematische-verstoesse-gegen-humanitaeres-voelkerrecht-durch-ki-zielsysteme-in-gaza/
-## Niedergang Demokratie
+
+### Niedergang Demokratie
 * "KI"-Effizienzversprechen und der Niedergang der Demokratie
   https://tante.cc/2026/06/16/ki-effizienzversprechen-und-der-niedergang-der-demokratie/
 
