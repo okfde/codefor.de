@@ -65,28 +65,17 @@ Im Citizen-Science-Projekt [Microbelix](http://www.microbelix.de/) kann man Fors
 Es ist ein deutschsprachiges [Handbuch](https://doi.org/10.1007/978-3-662-69703-0) zu Citizen Science [erschienen](https://www.schiebener.net/wordpress/gemeinsam-forschen-buergerinnen-und-buerger-richtig-in-die-forschung-einbinden/), dass an Hand zahlreicher Fallbeispiele die "Gelingungsfaktoren" erklärt, wie man Bürgerinnen und Bürger richtig in die Forschung einbindet.
 
 ## Verwaltungsdigitalisierung
-* Deutsche Eudi-Wallet: Einblicke in ein verkorkstes Projekt
-  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/einblicke-in-ein-verkorkstes-projekt
-  https://mastodon.social/@bkastl/116713104841713839
-  * EU-Kommission höhlt Schutzrechte bei digitaler Brieftasche aus
-    https://netzpolitik.org/2026/biometrische-passfotos-statt-pseudonyme-eu-kommission-hoehlt-schutzrechte-bei-digitaler-brieftasche-aus/
-* Trotz hoher Investitionen bleibt die digitale Verwaltung in Deutschland hinter den Erwartungen zurück. Das Problem sind nicht die Mittel, sondern die Strukturen
-  https://www.heise.de/hintergrund/Missing-Link-Warum-Deutschlands-Behoerden-bei-der-Digitalisierung-stagnieren-11331433.html
-  * EU-Digitalisierungsbericht 2026: Deutschland kommt nur mühsam voran
-    https://www.heise.de/news/EU-Digitalisierungsbericht-2026-Deutschland-kommt-nur-muehsam-voran-11335772.html
-* Deutschland-Stack: Bund und Länder feiern Durchbruch bei der Verbindlichkeit
-  https://www.heise.de/news/Deutschland-Stack-Bund-und-Laender-feiern-Durchbruch-bei-der-Verbindlichkeit-11336204.html
-* 50. Sitzung des IT-Planungsrates
-  https://egovernment-podcast.com/egov266_50-it-plr/
-* Organisationsversagen vs. Technikpanne
-  https://www.cyberkrisenmanagement.blog/organisationsversagen-vs-technikpanne/
+Was nützen all die Vorgaben und Empfehlungen, [wenn es keine Verbindlichkeit gibt](https://www.heise.de/hintergrund/Missing-Link-Warum-Deutschlands-Behoerden-bei-der-Digitalisierung-stagnieren-11331433.html). Die meisten Kommunen sind unterfinanziert und Behördenleistungen zu digitalisieren wird leider immer noch als am ehesten verzichtbar angesehen. Und so lange die Beschlüsse vom IT-Planungsrat nur von "anstreben" sprechen, aber keine Berichtspflichten, keine Audits und schließlich keine Sanktionen bei Nicht- oder Schlechtumsetzung vorsehen, fehlt der nötige Druck für z.B. die Umsetzung einheitlicher Daten- und Schnittstellenstandards im Sinne der Zielarchitektur auch durchsetzen zu können. Dazu bräuchte es auch Organisationsstrukturen, die klare Verantwortlichkeiten definieren.
 
-### SPARK-Hackathon
-* Beschäftigungstherapie und Theater
-  https://tldr.nettime.org/users/tante/statuses/116668991736103329
-  * Das BMDS laesst sich aber Zeit, auf meine IFG-Anfrage vom 12. Mai zu antworten. Gestern haben sie nach Ueberschreiten der gesetzlichen Frist und Mahnung nun geantwortet, dass sie ja gar keine „Plattform“ namens „SPARK“ haetten und daher mein Antrag zu ungenau ist. 
-    https://fragdenstaat.de/anfrage/haushaltsmittel-fuer-die-spark-plattform/
-    https://chaos.social/@stk/116811605835902358
+Beim Deutschland-Stack soll es diese Verbindlichkeit nun geben, [zu mindestens ein bisschen](https://www.heise.de/news/Deutschland-Stack-Bund-und-Laender-feiern-Durchbruch-bei-der-Verbindlichkeit-11336204.html). Für eine überschaubare Anzahl von Basiskomponenten haben die 16 Bundesländer eine "verbindliche Anbindung und Flächendeckung" zugesagt, unter dem Vorbehalt, dass der Bund den Großteil der Kosten für Entwicklung und Betrieb dieser Komponenten übernimmt.
+
+Der eGovernment-Podcast hat die Beschlüsse der 50. Sitzung des IT-Planungsrat auch in seiner [neusten Podcast-Folge](https://egovernment-podcast.com/egov266_50-it-plr/) thematisiert.
+
+Alles nur auf die Technik schieben zu wollen, [greift oftmals zu kurz](https://www.cyberkrisenmanagement.blog/organisationsversagen-vs-technikpanne/): wenn die Prozesse fehlen, die steuern, was z.B. mit den Nachrichten passiert, die an ein E-Mail-Postfach geschickt worden sind, wenn die Person dahinter nicht mehr für die Verwaltung arbeitet. Oder wenn die gesamte IT ausfällt, weil jemand es für eine gute Idee hielt, für alles den gleichen externen Anbieter zu nutzen. Von außen sieht beides wie Technikversagen aus und wird auch so medial dargestellt, doch die Gründe liegen tiefer.
+
+Wollen ist leider nicht gleich Können: die digitale Brieftasche [Eudi-Wallet](https://www.sprind.org/taten/strategische-projekte/eudi-wallet) soll als Vorzeigeprojekt der Bundesregierung herhalten, doch hinter dem breitbeinigen öffentlichen Auftreten [offenbaren sich](https://mastodon.social/@bkastl/116713104841713839) chaotisches Projektmanagement, fragwürdige technische Entscheidungen, Zeitverzug und sich abzeichnender mangelhafter Umsetzung, vor allem was Sicherheit angeht. Ungünstigerweise hat das eIDAS Committee auf EU-Ebene [jüngst die Entscheidung getroffen](https://netzpolitik.org/2026/biometrische-passfotos-statt-pseudonyme-eu-kommission-hoehlt-schutzrechte-bei-digitaler-brieftasche-aus/), dass auch biometrische Passbilder mit in die Wallet sollen, auch wenn man als Bürger auch die Möglichkeit zum Opt-Out bekommt. Dafür hat man das Feature "frei wählbare Pseudonyme" erstmal auf Eis gelegt. 
+
+We tried to run (bzw. jump), before we could walk (auf deutsch: "den zweiten Schritt vor dem ersten machen"): [Beschäftigungstherapie und Beteiligungs-/Innovationstheater](https://tldr.nettime.org/users/tante/statuses/116668991736103329) mit KI-Komponenten-Entwickeln in einem 2010er-Gedächtnis-Hackathon (das "preisgekrönt" aus der Ankündigung bezieht sich übrigens auf einen in Dubai gewonnenen Preis für von PwC und Capgemini gezimmerter agentischer KI). Vor der Auskunft, wie viel die SPARK-Plattform denn nun wirklich gekostet hat, versucht man sich [mit Manövern wie](https://chaos.social/@stk/116811605835902358), es gebe gar keine "Plattform" namens "SPARK", die Anfrage wäre zu ungenau, weiterhin zu drücken.
 
 ## Digitale Souveränität
 * Millionen von Windows- und Linux-PC könnten bald nicht mehr booten, weil Microsoft Probleme mit wichtigen Zertifikaten hat.

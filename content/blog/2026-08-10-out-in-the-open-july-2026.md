@@ -585,7 +585,7 @@ type: blog
 * Geheimdienst-Gesetz: Maßlos, unkontrolliert und intransparent
   https://netzpolitik.org/2026/geheimdienst-gesetz-masslos-unkontrolliert-und-intransparent/
 
-## KI
+## AIddicted
 ### KI in der Software-Entwicklung
 * software-architektur.tv: Johannes Link und der Anti-GenAI-Aktivismus
   https://www.heise.de/news/software-architektur-tv-Johannes-Link-und-der-Anti-GenAI-Aktivismus-11347757.html
