@@ -105,68 +105,42 @@ In Frankfurt am Main registrierten bereits 10 Linienbusse dank entsprechender Ka
 Wem die offiziellen Verspätungsgründe der Bahn [nicht kreativ genug sind](https://bsky.app/profile/gregor.bsky.social/post/3mohwjw6ynk2b), dem wird durch [Bahnhoroskop](https://bahnhoroskop.ggor.de/) geholfen.
 
 ## Klima
-* Hitze-Check 2026 der Deutschen Umwelthilfe: Fast eine Million Bäume aus deutschen Städten verschwunden
-  https://www.duh.de/presse/pressemitteilungen/pressemitteilung/hitze-check-2026-der-deutschen-umwelthilfe-fast-eine-million-baeume-aus-deutschen-staedten-verschwund/
-  * Hunderttausende Bäume haben die Städte verlassen
-    https://klimareporter.de/gesellschaft/hunderttausende-baeume-haben-die-staedte-verlassen
-  * Hunderttausende Bäume haben die Städte verlassen
-    https://www.nd-aktuell.de/artikel/1200251.klimawandel-hunderttausende-baeume-haben-die-staedte-verlassen.html
-* Eichenprozessionsspinner plagt Berlin-Brandenburg – Gericht ordnet Bekämpfung an
-  https://www.berliner-zeitung.de/article/eichenprozessionsspinner-cottbus-urteil-berlin-rekordbefall-10134563
-  https://dju.social/@DerKlimablog/116726231070057350
-  * In Berlin sorgt die Ausbreitung der giftigen Eichenprozessionsspinner für Panik. Und die Politik? Reagiert spät und chaotisch.
-    https://taz.de/Eichenprozessionsspinner-in-Berlin/!6188536/
-* Codecarbon is a nice tool to get carbon emission metrics of your code. It can run offline, locally on machine.
-  https://github.com/mlco2/codecarbon
-  https://mastodon.social/@omkar_foss/116755034658094181
-* Nasa warnt vor El Niño: Pazifik-Temperaturen 6 Grad über dem Schnitt
-  https://www.telepolis.de/article/Nasa-warnt-vor-El-Nino-Pazifik-Temperaturen-6-Grad-ueber-dem-Schnitt-11337900.html
-* Satellitenaufnahmen: El Niño hat begonnen und wird immer stärker
-  https://www.heise.de/news/Satellitenaufnahmen-El-Nino-hat-begonnen-und-koennte-besonders-stark-werden-11337255.html
-* Stadtklimadashboard
-  https://stadtklimadashboard.de
-  https://wisskomm.social/@ioer/116776831237397788
-* 3,4 Millionen Beschäftigte arbeiten in der deutschen #GreenTech-Branche - 3x so viel wie in der Autoindustrie. Die Exportleistung ist 132 Mrd. Euro.
-  https://www.umweltbundesamt.de/themen/wirtschaft-konsum/wirtschaft-umwelt/wirtschaft-fuer-umwelt-klimaschutz/greentech-atlas-2025
-  https://openbiblio.social/@RenkeSiems/116814665715852247
-* Hitzeinseln, Hitze-Plätze in Eurer Stadt auf Karte einzutragen
-  https://maps.greenpeace.org/maps/gpde/stadtnatur/
-  via https://mstdn.social/@XR_Nuernberg/116816906219083635
-* So sehr leidet Ihre Region unter Dürre
-  https://correctiv.org/aktuelles/klimawandel/2026/06/11/duerre-trockenheit-wassermangel-landwirtschaft-europa/
-* Ein einzelner Hitzetag kostet rund 431 Millionen Euro
-  https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-ein-einzelner-hitzetag-kostet-rund-431-millionen-euro/100231354.html
-* Above-average sea surface temperatures across European seas at the end of June 2026
-  https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/above-average-sea-surface-temperatures-across-european-seas-end-june-2026
-### Kühle Orte
-* Wo kühl?
-  https://www.wo-kuehl.de
-* Kühle-Orte.de
-  https://kühle-orte.de/
-  * z.B. Dresden
-    https://kühle-orte.de/kuehle-orte-karte-landeshauptstadt-dresden/
-* Wien
-  wien.gv.at/umwelt/coole-zonen 
-  via https://fedi.at/@tom/116673835685782442
-* Übersicht
-  https://social.chaotikum.org/@tvluke/116800110091614611
-* Stuttgart
-  https://maps.stuttgart.de/kuehle_orte/
-* Leipzig
-  https://www.leipzig.de/leben-in-leipzig/gesundheit/vorsorge/gesundheitstipps-bei-hitze
+### Hitze
+Auf zwei Drittel der Fläche von Europa wurden seit 2012 schwere Dürrejahre verzeichnet, wie [eine Daten-Story](https://correctiv.org/aktuelles/klimawandel/2026/06/11/duerre-trockenheit-wassermangel-landwirtschaft-europa/) von CORRECTIV.Europe erstmals zeigt.
+
+Hitzeinseln und Hitze-Plätze der eigenen Stadt kann man auf dieser [Greenpeace-Karte](https://maps.greenpeace.org/maps/gpde/stadtnatur/) helfen zu [dokumentieren](https://mstdn.social/@XR_Nuernberg/116816906219083635).
+
+Eine [Analyse des Beratungsinstituts Prognos](https://www.prognos.com/de/projekt/arbeitsschutz-klimawandel-hitze-wirtschaft) hat errechnet, dass ein einzelner Hitzetag der deutschen Wirtschaft rund 431 Millionen Euro kostet, [97 Prozent davon durch sinkende Produktivität](https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-ein-einzelner-hitzetag-kostet-rund-431-millionen-euro/100231354.html).
+
+Neben übergreifenden Übersichten wie [Wo kühl?](https://www.wo-kuehl.de) und [Kühle-Orte.de](https://kühle-orte.de/), von denen sich auf die konkrete Stadt, wie z.B. [Dresden](https://kühle-orte.de/kuehle-orte-karte-landeshauptstadt-dresden/), navigieren lässt, bieten Städte wie beispielsweise [Wien](https://wien.gv.at/umwelt/coole-zonen), [Stuttgart](https://maps.stuttgart.de/kuehle_orte/) und [Leipzig](https://www.leipzig.de/leben-in-leipzig/gesundheit/vorsorge/gesundheitstipps-bei-hitze) auch jeweils selbst Informationen zu kühle Orte an, für andere Städte wie [Lübeck](https://social.chaotikum.org/@tvluke/116800110091614611) fehlen solche Angebote noch.  
+
+### Bäume
+Der [Hitze-Check 2026](https://www.duh.de/presse/pressemitteilungen/pressemitteilung/hitze-check-2026-der-deutschen-umwelthilfe-fast-eine-million-baeume-aus-deutschen-staedten-verschwund/) der Deutschen Umwelthilfe dokumentiert den massiven Baum- und Grünflächenverlust deutscher Städte. So sind zwischen 2018 bis 2025 in 195 größten Städten [900.000 Bäume verloren gegangen](https://klimareporter.de/gesellschaft/hunderttausende-baeume-haben-die-staedte-verlassen), gerade die Leistung (Schatten, CO2-Senke) alter Bäume ist nicht so schnell zu ersetzen. Auch der Hitzebetroffenheitsindex (ermittelt aus Versiegelung, Grünflächenvolumen, Oberflächentemperatur und Bevölkerungsdichte) [verschlechterte sich im Vergleich zum Vorjahr](https://www.nd-aktuell.de/artikel/1200251.klimawandel-hunderttausende-baeume-haben-die-staedte-verlassen.html).
+
+Neue Dimensionen erreicht auch der Befall der Bäume mit [Eichenprozessionsspinnern](https://de.wikipedia.org/wiki/Eichen-Prozessionsspinner), vor allem [in Berliner Bezirken](https://www.berliner-zeitung.de/article/eichenprozessionsspinner-cottbus-urteil-berlin-rekordbefall-10134563). Deren Monitoring zwischen 2020 und 2024 hat schon eine Verdoppelung gemessen. Unverständlich daher, dass die CDU Charlottenburg sich die Kosten für ihre Bekämpfung dieses Jahr [gespart hat](https://dju.social/@DerKlimablog/116726231070057350), was sich nun rächt. Dabei sind die Bezirke weiterhin [jeweils allein zuständig](https://taz.de/Eichenprozessionsspinner-in-Berlin/!6188536/), statt sich unter einander zu koordinieren und Ressourcen zu teilen, statt um sie zu konkurrieren. Auf die am stärksten betroffenen Bezirken kommen Kosten bis zu 500.000 Euro zu, Geld, das vom Budget für die Baumpflege abgeht.
+
 ### Anpassung
-* München - Wie die autogerechte und steinerne Stadt zurückgedrängt werden soll.
-  https://www.sueddeutsche.de/muenchen/muenchen-ludwigstrasse-umgestaltung-plaene-baeume-autofrei-li.3476568
-* Bremen fördert, dass Menschen Flächen entsiegeln
-  https://taz.de/Entsiegelung-in-Bremen/!6185922/
+München plant die Ludwigstraße inklusive Odeonsplatz [radikal umzugestaltet](https://www.sueddeutsche.de/muenchen/muenchen-ludwigstrasse-umgestaltung-plaene-baeume-autofrei-li.3476568). Die derzeit sechs Spuren sollen zu Gunsten von Radschnellwege und Promenade auf zwei reduziert werden. Dies soll die Hitze-begünstigende Steinwüste zurückdrängen. 
+
+Bremen beteiligt sich dieses Jahr am bundesweiten Wettbewerb ["Abpflastern"](https://www.abpflastern.de) und fördert somit Menschen, die Flächen [entsiegeln und anschließend begrünen](https://taz.de/Entsiegelung-in-Bremen/!6185922/). Schon mehrere Studien haben zudem belegt, dass grüne Infrastrukturen in Städten gegen Depression helfen.
+
+Das [Stadtklimadashboard](https://stadtklimadashboard.de) monitort die Kernindikatoren im Handlungsfeld Stadt- und Siedlungsentwicklung, die im Rahmen der Deutschen Anpassungsstrategie an den Klimawandel (DAS) identifiziert worden sind. So lassen darüber beispielsweise die [Erreichbarkeit von Grünflächen und der Anteil versiegelter Flächen](https://wisskomm.social/@ioer/116776831237397788) ablesen.
+
+Konservative versuchen gerne Umweltschutz und Wirtschaft [gegeneinander auszuspielen](https://openbiblio.social/@RenkeSiems/116814665715852247). Dabei arbeiten, wie die Zahlen aus dem [Greentech Atlas 2025](https://www.umweltbundesamt.de/themen/wirtschaft-konsum/wirtschaft-umwelt/wirtschaft-fuer-umwelt-klimaschutz/greentech-atlas-2025) belegen, mit inzwischen 3,4 Millionen Beschäftigten in der deutschen GreenTech-Branche 3-mal so viele wie in der Autoindustrie. Auch die Exportleistung von 132 Mrd. Euro muss sich nicht verstecken.
+
+[Codecarbon](https://github.com/mlco2/codecarbon) ist ein Tool, mit dem man die Emissionen [abschätzen kann](https://mastodon.social/@omkar_foss/116755034658094181), die der eigenen Code verursacht.
+
+### Meeresoberflächentemperaturen
+Wie stark die Meeresoberflächentemperaturen in Europa dieses Jahr von den Normalwerten abweichen illustriert beispielhaft [diese Copernicus-Karte für den 29. Juni](https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/above-average-sea-surface-temperatures-across-european-seas-end-june-2026). Die größte Abweichung mit +6°C über Normal wurde abei im westlichen Mittelmeer gemessen.
+
+Aktuelle Satellitenaufnahmen [dokumentieren](https://www.heise.de/news/Satellitenaufnahmen-El-Nino-hat-begonnen-und-koennte-besonders-stark-werden-11337255.html) den Beginn des Klimaphänomens El Niño. Dass die Temperaturen in den tieferen Schichten des tropischen Pazifiks mehr als 6°C über dem Durchschnitt liegen deuten auf ein besonders starken Verlauf hin.
+
 ### USA
-* weltweit fortschrittlichste Netzwerk zur Ozeanüberwachung wird verschrottet
-  https://norden.social/@Attac_Norden/116691649275866749
-* KI-Rechenzentrum: Trump-Regierung will Umweltklage gegen xAI beenden
-  https://www.golem.de/news/ki-rechenzentrum-trump-regierung-will-umweltklage-gegen-xai-beenden-2606-209932.html
-* DOGE fired NOAA's climate scientists. Those scientists just launched climate.us - a new hub for climate research, formerly Climate.gov"
-  https://www.climate.us
-  https://jasette.facil.services/@MichelPatrice/116813729992909946
+[Derweil zerstört](https://norden.social/@Attac_Norden/116691649275866749) die US-Regierung mit dem Abbau von 900 Tiefsee-Messinstrumente das weltweit fortschrittlichste Netzwerk zur Ozeanüberwachung. Die Erfassung wertvoller Daten wird der vermeintlichen Ersparnis von 48 Millionen Dollar geopfert. 
+
+[Das US-Justizministerium hat ein Gericht angewiesen](https://www.golem.de/news/ki-rechenzentrum-trump-regierung-will-umweltklage-gegen-xai-beenden-2606-209932.html), die Klage von Umweltorganisationen gegen xAI wegen Umweltverschmutzung durch Gasturbinen zu verwerfen, da sonst, bei Erfolg der Klage, angeblich die nationale Sicherheit bedroht wäre, wenn die KI-Rechenzentrum nicht den benötigten Strom bekämen.
+
+Die Klimawissenschaftler, die einst für das staatliche climate.gov gearbeitet haben, durch DOGE aber letztes Jahr gefeuert worden sind, [haben nun einfach](https://jasette.facil.services/@MichelPatrice/116813729992909946) ihr eigenes Portal für Klimaforschung gestartet: [climate.us](https://www.climate.us).
 
 ## Kultur
 * Sixty thousand love letters and counting: volunteers help sift through vast German trove of devotion
