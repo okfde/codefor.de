@@ -236,12 +236,6 @@ Die Gesellschaft für Freiheitsrechte zusammen mit dem Chaos Computer Clubs (CCC
 Auch in der Schweiz ist Palentir gerade nicht gut gelitten, ihr Versuch, die Veröffentlichung einer Gegendarstellung von ihnen im Schweizer Magazin Republik rechtlich zu erzwingen, die der Darstellung, dass die Schweizer Regierung wiederholt ihre Dienste abgelehnt, widersprechen wollte, [wurde vom Züricher Internationalen Handelsgericht in 22 von 23 Punkten abgelehnt](https://infosec.exchange/@adfichter/116738333166484144).
 
 ## Entfremdete Intelligenz
-* 400-Milliarden-Parameter-Modell: Konsortium „Europa“ gewinnt KI-Wettbewerb
-  https://www.heise.de/news/400-Milliarden-Parameter-Modell-Konsortium-Europa-gewinnt-KI-Wettbewerb-11339003.html
-* Lokales AI-Agent-Setup mit Ollama, Open WebUI und n8n (2026)
-  https://skill-sprinters.de/blog/tools/lokales-ai-agent-setup-ollama-open-webui-n8n-2026/
-
-
 ### Fremde Federn
 Von Thüringens Ministerpräsident Mario Voigt erschien bei der Frankfurter Allgemeinen Zeitung (FAZ) im August 2025 ein Gastbeitrag über eine Social-Media-Sperre für Kinder und Jugendliche. Inzwischen wurden im Text mehrere referenzierte Zitate von Wissenschaftlern gefunden, deren Ursprung nicht nachvollzogen werden kann. Mutmaßlich wurden sie von einer (generativen) KI herhalluziniert. Es wurden zudem KI-Detektoren auf diesen Text und andere Reden & Texten von Voigt angesetzt und dieser schlug [zehn mal häufiger an](https://chaos.social/@fragdenstaat/116742490224042491), als bei Beiträgen von anderen Poltikern. In Konsequenz hat die FAZ den Beitrag von Voigt online [depubliziert](https://bsky.app/profile/jonpeaceman.bsky.social/post/3mnwuvvjwkc22) (vulgo gelöscht). Er ist Februar wurde Mario Voigt um seinen Doktortitel [erleichtert worden](https://www.mdr.de/nachrichten/thueringen/fragen-antworten,voigt-doktortitel-afd-misstrauensvotum-100.html), nachdem die Technische Universität Chemnitz nach einjähriger Prüfung  systematische Verstöße gegen wissenschaftliches Arbeiten und mangelnde Kennzeichnung von Quellen nachgewiesen hat.
 
@@ -259,7 +253,7 @@ Für Johannes Franzen [macht KI-Paranoia](https://kulturundkontroverse859.substa
 
 In Bayern soll das Hochschulinnovationsgesetz [geändert werden](https://www.br.de/nachrichten/bayern/bayern-erlaubt-generell-ki-einsatz-bei-hochschul-pruefungen,VNLznOS), um den Einsatz von ChatGPT und vergleichbaren Tools bei Hochschul-Prüfungen generell zu erlauben. Ihre Verwendung soll aber an eine Kennzeichnungspflicht gebunden sein. Es wird aber langfristig neue Prüfungsformate geben müssen, um die tatsächliche Leistung der Studierenden messen zu können, wahrscheinlich mehr mündliche Prüfungen, damit aber auch mehr Aufwand für die Prüfenden. 
 
-Wahrscheinlich werden analog zum Aufkommen der Fotografie, durch die das realitätsgetreue Malen zwar an Bedeutung verloren hat, dadurch aber neue (surrealistische) Formen in der Malerei entstanden sind, auch durch die KI bestimmte Fähigkeiten an Relevanz verlieren (Rechtschreibung), dafür andere Fähigkeiten neu oder stärker in den Fokus (Textverständnis) rücken. Und bei manch alten Fähigkeiten wird sich am Ende doch herausstellt, dass sie weiter wichtig sind (z.B. Lernen durch Schreiben).
+Wahrscheinlich werden analog zum Aufkommen der Fotografie, durch die das realitätsgetreue Malen zwar an Bedeutung verloren hat, dadurch aber neue (surrealistische) Formen in der Malerei entstanden sind, auch durch die KI bestimmte Fähigkeiten an Relevanz verlieren (Rechtschreibung), dafür andere Fähigkeiten neu oder stärker in den Fokus (Textverständnis) rücken. Und bei manch alten Fähigkeiten wird sich am Ende doch herausstellt, dass sie weiter wichtig sind (z.B. Lernen durch Schreiben). In Norwegen [hat man genau deswegen](https://www.heise.de/news/Zurueck-zu-Buch-und-Stift-Norwegen-verbannt-KI-aus-Grundschulen-11339393.html) KI aus den Grundschulen verbannt, um den Negativtrend bei den nationalen Leistungstests zu stoppen. Das 2024 durchgesetzte Smartphone-Verbot an norwegischen Schulen hat zu mindestens schon nachweislich zu Verbesserungen geführt.
 
 ### Grenzen
 Der Stroop-Test prüft, wie gut man als Mensch in der Lage ist, eine automatische Reaktion zu unterdrücken. Dazu bekommen sie der Reihe nach Wörter gezeigt, bei den Wortlaut und Schriftfarbe voneinander abweichen, sie aber die richtige Schriftfarbe benennen müssen, was die meisten, wenn auch mit Zögern, schaffen. [Anders als die verbreiteten LLMs](https://www.heise.de/news/Stroop-Effekt-KI-Modelle-versagen-bei-klassischem-Aufmerksamkeitstest-11317071.html), deren Trefferquote schon bei 10 Wörtern auf 60%, bei 40 unter 20% fällt. Offensichtlich fällt es den Modelle schwer, unwesentliche Informationen wegzufiltern.
@@ -273,75 +267,44 @@ In der Informatik ist ein [Wurm](https://de.wikipedia.org/wiki/Computerwurm) ein
   
 Die alte Betrugsmasche: Bestehende (Shopping-)Webseiten täuschend echt nachbauen, auf Domänen hosten, die so ähnlich klingen, wie die Original-Domäne und auf Vertipper der Nutzer hoffen (oder auf Suchmaschinen, die die Seite verlinken). Was bisher ziemlich aufwändig war, wird durch KI [zum KInderspiel](https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites). Zum Schaden der Kundschaft, wenn sie sich dort registriert und ihre Zahlungsdaten eingibt, oder auch schon, wenn sie die Anmeldedaten der Originalseite auf der Fakeseite eingeben (und keinen zweiten Faktor haben).
 
-### Umweltbelastung
-* Claude Carbon
-  https://reset.org/energie-vibe-coding-reduzieren-wie-claude-carbon-dir-helfen-kann/
-  https://mastodon.social/@reset_org/116681324507923061
-  https://github.com/gwittebolle/claude-carbon
-* Die Beweise für positive Klimaauswirkungen durch sogenannte „KI“ sind schwach, während die Klimaschäden klar belegt sind. Ein Bericht von AlgorithmWatch zeigt, wie Tech-Unternehmen Greenwashing betreiben
-  https://netzpolitik.org/2026/ki-klimaschwindel-und-greenwashing-big-tech-erklaert-das-problem-zur-loesung/
-* KI-Rechenzentren dürften 2030 einen Wasserverbrauch wie 1,3 Milliarden Menschen haben
-  https://www.derstandard.at/story/3000000323330/ki-rechenzentren-duerften-2030-einen-wasserverbrauch-wie-13-milliarden-menschen-haben
+Gerade in Unternehmen, in denen mit sensiblen (Kunden-)Daten hantiert wird, ist ihre Verarbeitung in externen Clouds ein rechtliches No-Go. [Wie man stattdessen](https://skill-sprinters.de/blog/tools/lokales-ai-agent-setup-ollama-open-webui-n8n-2026/) ein lokales AI-Agent-Setup mit Ollama, Open WebUI und n8n aufbauen, bei dem die Daten nicht den eigenen Rechner verlassen, zeigt dieser Blogbeitrag. Auf die Hardware-Anforderungen wird auch eingegangen.
 
-### Protest
-* Neue Rechenzentren: Das muss nicht sein
-  https://www.nd-aktuell.de/artikel/1200073.kuenstliche-intelligenz-neue-rechenzentren-das-muss-nicht-sein.html
+### Umweltbelastung
+Das Tool [Claude Carbon](https://github.com/gwittebolle/claude-carbon) schätzt die CO2-Äquivalente, die mutmaßlich in einer Programmier-Session mit Claude Code in der eigenen Entwicklungsumgebung entstehen, ab. Die Berechungsgrundlage bilden die Anzahl der verwendeten Token sowie die Emissionsfaktoren aus [einer Studie](https://arxiv.org/abs/2505.09598) zur Inferenz von Sprachmodellen aus 2025, nach der das Sprachmodell Sonnet 1 Mio Input-Tokens 90 Gramm und 1 Mio Output-Tokens 1140 Gramm verursachen (von Anthrophic selbst gibt es leider keine Daten zum Energieverbrauch). [Als wichtigste Hebel](https://reset.org/energie-vibe-coding-reduzieren-wie-claude-carbon-dir-helfen-kann/) für die Senkung des Energieverbrauchs haben sich die Wahl des richtigen Modells für die richtige Aufgabe (für einfache Aufgaben reichen auch einfach Modelle), Prompt und Context filtern / komprimieren, um Tokens zu sparen, die MAX_THINKING_TOKENS für das "Erweiterte Denken" lassen sich ohne Qualitätsverluste einschränken.
+
+Der [Bericht](https://algorithmwatch.org/de/wp-content/uploads/2026/06/2026_Bericht_KI-Klimaschwindel_AlgorithmWatch.pdf) "Der KI-Klimaschwindel: Hinter den Kulissen des Big-Tech-Greenwashings" von AlgorithmWatch zeigt, dass die Klima-Versprechen von Big-Tech [nicht eingelöst werden können](https://netzpolitik.org/2026/ki-klimaschwindel-und-greenwashing-big-tech-erklaert-das-problem-zur-loesung/). Während die negativen Auswirkungen klar nachweisbar sind und zudem weiter zunehmen, stehen die vermeintlichen Belege für den "Netto-Klimanutzens" von KI auf tönerne Füßen und entpuppen sich oftmals als Versprechung, Behauptungen und Wunschdenken. Wie ein Spielsüchtiger wird auf die immer nächste Runde gehofft, in der man den großen Gewinn macht, der dann den bisherigen Schuldenberg auf einmal mehr als begleicht.
+
+Aber genau dieser "Schuldenberg" [wächst immer weiter](https://www.derstandard.at/story/3000000323330/ki-rechenzentren-duerften-2030-einen-wasserverbrauch-wie-13-milliarden-menschen-haben): so dürften KI-Rechenzentren 2030 einen Wasserverbrauch von 1,3 Milliarden Menschen und sowie mit 945 Terawattstunden (TWh) fast drei Prozent der globalen Stromnutzung ausmachen.  
+
+Verständlich also, dass der Protests gegen solchen Rechenzentren und KI inzwischen [immer lauter wird](https://www.nd-aktuell.de/artikel/1200073.kuenstliche-intelligenz-neue-rechenzentren-das-muss-nicht-sein.html). Vor allem in den USA sind Informationsseiten wie [AI Resist List](https://airesistlist.org), [Data Center Watch](https://www.datacenterwatch.org) und [Data Center Tracker](https://datacentertracker.org) entstanden.
 
 ### Alternativen
-* DuckDuckGo: KI-freie Suche boomt – jetzt als Standard
-  https://www.heise.de/news/DuckDuckGo-KI-freie-Suche-boomt-jetzt-als-Standard-11317527.html
-* Zurück zu Buch und Stift: Norwegen verbannt KI aus Grundschulen
-  https://www.heise.de/news/Zurueck-zu-Buch-und-Stift-Norwegen-verbannt-KI-aus-Grundschulen-11339393.html
-* PACT: Cloudflare will mit Browserherstellern böswilligen Traffic aussortieren
-  https://www.heise.de/news/PACT-Cloudflare-will-mit-Browserherstellern-boeswilligen-Traffic-aussortieren-11340973.html
+Bei vielen Suchmachinen werden standardmäßig für jede Suchanfrage ungefragt auch eine KI-Antwort sowie KI-Bilder generiert. Wer das explizit nicht möchte, hat bei [noai.duckduckgo.com](https://noai.duckduckgo.com) genau solche Funktionen ausgeschaltet. Laut eigener Aussage von DuckDuckGo sind die Aufrufe dieser KI-freien Suchen in den letzten Wochen [deutlich gestiegen](https://www.heise.de/news/DuckDuckGo-KI-freie-Suche-boomt-jetzt-als-Standard-11317527.html).
+
+[Mit Private Access Control Tokens (PACT)](https://www.heise.de/news/PACT-Cloudflare-will-mit-Browserherstellern-boeswilligen-Traffic-aussortieren-11340973.html) soll eine Technik entwickelt werden, mit der Browser gegenüber den angesurften Internetseiten ausweisen sollen, ob Menschen oder autorisierte KI-Agenten den Netzwerkverkehr verantworten werden.
 
 ### Kapitalismus
-* Unternehmen vergisst Limits für KI-Nutzung, verbrennt halbe Milliarde Dollar in einem Monat
-  https://www.derstandard.at/story/3000000322988/unternehmen-vergisst-limits-fuer-ki-nutzung-verbrennt-halbe-milliarde-dollar-in-einem-monat
-* KI lieber "entfremdete Intelligenz" nennen
-  https://sciences.social/@MSchnetker/116674158399393154
-* US-Senator plant Gesetz für 50-Prozent-Aktiensteuer auf OpenAI, Anthropic und xAI. Ein Staatsfonds soll Bürgern Dividenden zahlen.
-  https://www.telepolis.de/article/Bernie-Sanders-will-50-Prozent-der-KI-Aktien-in-oeffentliche-Hand-bringen-11318656.html
-* Von der Kohle zur KI-Kriegswirtschaft
-  https://jacobin.de/artikel/kohle-ki-kriegswirtschaft-rheinisches-revier
-* KI-Firmen kaufen Antiquariate leer – und vernichten die Bücher
-  https://www.srf.ch/kultur/gesellschaft-religion/jagd-auf-alte-buecher-ki-firmen-kaufen-antiquariate-leer-und-vernichten-die-buecher
-  * Kaufen KI-Unternehmen deutsche Antiquariate leer?
-    https://www.literaturcafe.de/kaufen-ki-unternehmen-deutsche-antiquariate-leer/
-* Europe must choose between AI and climate goals, data center lobby says
-  https://www.politico.eu/article/europe-choose-ai-climate-goals-data-center-chief-warns/
-* Prognose: 2028 wird KI-Coding teurer als Entwicklergehälter
-  https://www.heise.de/news/Prognose-2028-wird-KI-Coding-teurer-als-Entwicklergehaelter-11343464.html
-* KI-Blase durchgerechnet: Erst zahlen, dann erschrecken!
-  https://www.metacheles.de/ki-blase-durchgerechnet-erst-zahlen-dann-erschrecken/
+Der US-Senator Bernie Sanders möchte mit dem "American A.I. Sovereign Wealth Fund Act" [ein Gesetz einbringen](https://www.telepolis.de/article/Bernie-Sanders-will-50-Prozent-der-KI-Aktien-in-oeffentliche-Hand-bringen-11318656.html), nachdem die KI-Unternehmen eine einmalige Steuer von 50 Prozent auf ihre Aktien zahlen. Das so abgeschöpfte Geld soll in einen Staatsfonds fließen, und von dort direkt als Dividende an die Bevölkerung, um so Gesundheitsversorgung, Bildung und Wohnraum zu finanzieren. Da selbst Sam Altman zugibt, dass KI auf dem "kollektiven Wissen der Menschheit" basiert, sollte entsprechend eben diese Öffentlichkeit fair an denen damit erzielten Gewinnen beteiligt werden. 
 
-### Ressourcenbelastung
-* Open Context (https://opencontext.org) is now getting slammed with 3x more traffic than normal.
-  https://scholar.social/@ekansa/116722821761382323
-* Der hohe Bedarf an Speicherkapazitäten für KI-Rechenzentren sorgt aktuell auch bei Verbraucherinnen und Verbrauchern für gestiegene Preise für Speichermedien.
-  https://social.bund.de/@destatis/116736045140963571
+Während KI-Firmen im zivilen Bereich immer noch nach geeigneten Geschäftsmodellen suchen, ist KI für Militär und Geheimdienste längst [zur strategischen Schlüsseltechnologie aufgestiegen](https://jacobin.de/artikel/kohle-ki-kriegswirtschaft-rheinisches-revier). So soll der Markt allein in diesem Bereich in den USA bis 2028 einen Volumen von 39 Milliarden US-Dollar erreichen. Wie die Angriffe auf die AWS-Rechenzentren in den Vereinigten Arabischen Emiraten und Bahrain aber auch zeigen, macht das die Rechenzentren selbst auch zum Ziel des gegnerischen Militärs.
+
+Für das Trainieren ihrer Modelle brauchen die KI-Konzerne immer mehr Daten-Futter, das sie zusätzlich in sich hineingierschlunden können. [Es verdichten sich die Anzeichen](https://www.literaturcafe.de/kaufen-ki-unternehmen-deutsche-antiquariate-leer/), dass sie dazu palettenweise Antiquariate [leer kaufen](https://www.srf.ch/kultur/gesellschaft-religion/jagd-auf-alte-buecher-ki-firmen-kaufen-antiquariate-leer-und-vernichten-die-buecher). Nach der Digitalisierung wandern die Bücher direkt in die Tonne. Es wird vermutet, dass über den Umweg des physischen Buchs, die Firmen sich auf das Fair-Use-Prinzip im US-Urheberrecht berufen können, während beim direkten Kopieren digitaler Inhalte Schadensersatzklagen drohen.
+
+[Gartner prognostiziert](https://www.heise.de/news/Prognose-2028-wird-KI-Coding-teurer-als-Entwicklergehaelter-11343464.html), dass der Umstand, das KI-Chat-Anbieter zumehmend auf verbrauchsbasierte Abrechnungsmodelle umstellen, sowie der steigende Tokenverbrauch generell, spätestens 2028 dazu führen, dass die Einsparung von Entwickler-Stellen (und damit deren Löhne) durch die durch die verbliebenen Entwickler verursachten zusätzlichen Kosten wieder mehr als aufgefressen werden.
+
+Sascha Pallenberg hat einige große Zahlen und anschauliche Grafiken [in seinem Blogbeitrag zusammengetragen](https://www.metacheles.de/ki-blase-durchgerechnet-erst-zahlen-dann-erschrecken/), die zeigen der Ausmaß der [Gigantomanie](https://de.wikipedia.org/wiki/Gigantomanie) der ganzen KI-Wette laufen. So geben die großen Vier allein dieses Jahr 650 Milliarden US-Dollar für Rechenzentren und Hardware aus. 92 Prozent des bezifferten Wirtschaftswachstums in den USA beruhen auf Investitionen im KI-Bereich. Nur was nützt eine gestiegene Produktivität, durch die z.B. 80% mehr Mobile-Apps veröffentlicht werden, die am Ende aber niemand nutzt, weil der Tag weiterhin nur 24 Stunden hat, und damit keine Einnahmen generieren. Leider hat der Fetisch für große und wachsende Zahlen auch realwirtschaftliche Folgen.
+
+Die Rechenzentren-Lobby schürt derweil in Europa mit Zahlen und Rankings Ängste und fordert, die Klimaziele zu Gunsten von KI [zu vernachlässigen](https://www.politico.eu/article/europe-choose-ai-climate-goals-data-center-chief-warns/), weil man ja sonst hinter den USA und China zurückfallen und dadurch von diesen auf lange Zeit abhängig wäre.
 
 ### Gerichtsurteile
-* A court in Munich declared that Google is liable for their "AI summaries" and all its hallucinations
-  https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/
-  https://tldr.nettime.org/@tante/116724678506655962
-  * Nobody needs AI to search the Internet, court says in ruling against Google
-    https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/
-    https://mastodon.social/@arstechnica/116726961728397799
-* Präzedenzfall Garfield AI: Wie ein Algorithmus das Gericht erobert
-  https://www.telepolis.de/article/Praezedenzfall-Garfield-AI-Wie-ein-Algorithmus-das-Gericht-erobert-11341806.html
+[Ein Urteil](https://www.beck-aktuell.de/heute-im-recht/rechtsprechung/lg-muenchenI-26-o-869-26-google-ki-suchmaschine-haftung-2026-06-11) des Landgerichts München I macht Google für Falschaussagen in seinen generierten KI-Zusammenfassungen verantwortlich und damit auch haftbar. Im konkreten Fall wurden in einer solchen generierten Zusammenfassung als Teil der Antwort auf eine Suchanfrage einem Verlag unlautere Geschäftspraktiken unterstellt, für die sich in den verlinkten Quellen aber keine Belege fanden.
+
+[In einem anderen Fall](https://www.telepolis.de/article/Praezedenzfall-Garfield-AI-Wie-ein-Algorithmus-das-Gericht-erobert-11341806.html) wurde in einem Bagatellfall die Verteidung komplett durch eine KI-gestützte Kanzlei geführt. In den USA musste dagegen eine Bundesrichterin einen Prozess abbrechen, nachdem beide Streitparteien Gerichtsurteile als Belege angeführt hatten, die sich als herbeihalluziniert herausstellten.
 
 ### Verantwortung
-* Die perfekte Ausrede: Warum wir die Schuld so gern auf KI schieben
-  https://www.telepolis.de/article/Die-perfekte-Ausrede-Warum-wir-die-Schuld-so-gern-auf-KI-schieben-11328396.html
-* Meredith Whittaker: "KI-Chatbots sind nicht eure Freunde"
-  https://www.telepolis.de/article/Meredith-Whittaker-KI-Chatbots-sind-nicht-eure-Freunde-11339577.html
-* Studie sieht systematische Verstöße gegen humanitäres Völkerrecht durch KI-Zielsysteme in Gaza
-  https://www.weizenbaum-institut.de/news/detail/studie-sieht-systematische-verstoesse-gegen-humanitaeres-voelkerrecht-durch-ki-zielsysteme-in-gaza/
+KI als Effizienzmaschine [folgt der falschen Vorstellung](https://tante.cc/2026/06/16/ki-effizienzversprechen-und-der-niedergang-der-demokratie/), dass es für jedes Problem immer die eine "korrekte" Lösung gebe, die man nur mit genügend Rechenpower automatisiert ermitteln müsse. Demokratische Aushandlungsprozesse scheinen in diesem Verständnis als lästige Bremse. Dabei geht es gerade in solchen Prozessen darum, die Bedürfnisse, Ziele und Werte von Betroffenen abzuwägen, und dafür zu sorgen, dass sich eben Macht und Einfluss nicht bei einzelnen Gruppen konzentriert und Menschen vor systematischer Benachteiligung geschützt werden. Diese Teilhabe erzeugt Reibung und ist dauert seine Zeit, sichert aber langfristig, dass alle weiter friedlich zusammenleben können, weil sich alle als gesehen und respektiert fühlen können.
 
-### Niedergang Demokratie
-* "KI"-Effizienzversprechen und der Niedergang der Demokratie
-  https://tante.cc/2026/06/16/ki-effizienzversprechen-und-der-niedergang-der-demokratie/
+Hinter jeder Entscheidung steht am Ende ein Mensch, auch hinter der Entscheidung, das Entscheiden der KI zu überlassen. [Aber es ist eben auch bequem](https://www.telepolis.de/article/Die-perfekte-Ausrede-Warum-wir-die-Schuld-so-gern-auf-KI-schieben-11328396.html), die persönliche Verantwortung von sich zu schieben, und mit dem Finger auf Computer, Algorithmen und KI zeigen zu können. 
 
 ## Recap
 * [Dataweek](https://www.youtube.com/@dataweekleipzig/streams)
