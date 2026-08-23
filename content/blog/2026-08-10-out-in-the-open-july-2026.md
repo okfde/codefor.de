@@ -13,7 +13,7 @@ type: blog
 
 ## Transparenz
 ### Abschaffung IFG
-Nachdem der Versuch in den Koalitionsverhandlungen letztes Jahr noch von der Zivilgesellschaft erfolgreich abgewehrt werden konnte, haben sich die Gegner des Informationsfreiheitsgesetzes (IFG) jetzt erneut in Stellung gebracht. Versteckt als 32. Punkt von 34 anderen [Beschlüssen](https://www.bundesregierung.de/resource/blob/2196306/2445592/bc8e5e160d879f0bdd593121a96a45d2/2026-07-02-koaausschuss-data.pdf) des Koalitionsauschusses von SPD, CDU und CSU, wird davon gesprochen, dass das angebliche "komplizierte IFG" "verständlicher und transparenter" gemacht werden soll, sich "die Auskunftsrechte künftig auf natürliche Personen fokussieren" sollen, "die ein berechtigtes Interesse an einer Auskunft haben", der Personenkreis soll dabei auf "in Deutschland lebende Deutsche und Unionsbürger" beschränkt werden, Namen von Mitarbeitenden sollen konsequent geschwärzt werden, um sie vor Anfeindungen zu schützen, Bereiche wie "der Kritischen Infrastruktur, der Spionageabwehr, der Terrorismusbekämpfung oder
+Nachdem der Versuch in den Koalitionsverhandlungen letztes Jahr noch von der Zivilgesellschaft erfolgreich abgewehrt werden konnte, haben sich die Gegner des Informationsfreiheitsgesetzes (IFG) jetzt erneut in Stellung gebracht. Versteckt als 32. Punkt von 34 anderen (teils hirnrissigen) [Beschlüssen](https://www.bundesregierung.de/resource/blob/2196306/2445592/bc8e5e160d879f0bdd593121a96a45d2/2026-07-02-koaausschuss-data.pdf) des Koalitionsauschusses von SPD, CDU und CSU, wird davon gesprochen, dass das angebliche "komplizierte IFG" "verständlicher und transparenter" gemacht werden soll, sich "die Auskunftsrechte künftig auf natürliche Personen fokussieren" sollen, "die ein berechtigtes Interesse an einer Auskunft haben", der Personenkreis soll dabei auf "in Deutschland lebende Deutsche und Unionsbürger" beschränkt werden, Namen von Mitarbeitenden sollen konsequent geschwärzt werden, um sie vor Anfeindungen zu schützen, Bereiche wie "der Kritischen Infrastruktur, der Spionageabwehr, der Terrorismusbekämpfung oder
 auch der wissenschaftlichen Forschung" sollen vor Transparenz "geschützt" werden, die IFG-Gebühren sollen gemäß "Kostendeckungsprinzip" angepasst werden. Wie FragDenStaat [Punkt für Punkt darlegt](https://fragdenstaat.de/artikel/policy/2026/07/spd-und-union-planen-abschaffung-des-ifg/), bedeutet das defacto die Abschaffung der Informationsfreiheit. Denn dass nur noch "natürliche Personen" Anfragen stellen dürfen, schließt "juristische Personen", also Organisationen aber auch Pressevertreter aus. Und wer definiert, was ein "berechtigtes Interesse" ist? Die Schwärzung aller Mitarbeitendennamen schließt auch alle Entscheidungsträger ein, damit ist nicht mehr nachvollziehbar, wer für was verantwortlich ist und ob möglicherweise Interessenskonflikte vorliegen. Bisher waren IFG-Anfragen bei 500 Euro gedeckelt, dass nun tausende bis zehntausende Euro drohen könnten, hat eine abschreckende Wirkung und schließt Personen aus, die sich das nicht leisten können. Wie man in den Monaten nach Abschwächung des Berliner IFGs beobachten kann, wird die Ausweitung von Ausnahmefällen mit Verweis auf angebliche Schutzbedürftigkeit kritischer Infrastruktur auch auf Bundesebene dazu führen, dass man Anfragen großzügig in solche Ausnahmen hineininterpretiert und dann verweigert. [Zurecht sprechen](https://netzpolitik.org/2026/informationsfreiheit-schwarz-rot-plant-frontalangriff-auf-journalismus-und-transparenz/) Zivilgesellschaft, Journalisten und die Beauftragten für Informationsfreiheit vom "schwersten Angriff auf staatliche Transparenz".
 
 Auch die Konferenz der Informationsfreiheitsbeauftragten in Deutschland (IFK) lehnt die Pläne der Bundesregierung mit Nachdruck ab. Wie die Sächsische Datenschutz- und Transparenzbeauftragte Dr. Juliane Hundert [schön formuliert](https://www.datenschutz.sachsen.de/informationsfreiheitsbeauftragte-kritisieren-plaene-der-bundesregierung-zum-kahlschlag-in-der-informationsfreiheit-7937.html): "Informationsfreiheit und Transparenz sind kein Gnadenakt der Verwaltung, sondern Ausdruck einer modernen Demokratie."
@@ -78,63 +78,35 @@ Die Kommunen befinden sich in einer prekäre Finanzsituation, und doch wissen be
 Lisa Duschek vom Magazin MOMENT.at hatte die gängigen Mythen und Argumenten gegen Vermögens- und Erbschaftssteuern [einem Faktencheck unterzogen](https://www.moment.at/story/erbschaftssteuer-vermoegenssteuer-doppelbesteuerung/). Vor allem das Argument der Doppelbesteuerung wird gerne bemüht, dabei zeigt sich, dass Mehrfachbesteuerung ein üblicher Vorgang in Steuersystemen ist. Tatsächlich finanzieren aktuell hauptsächlich Steuern auf Einkommen das Gemeinwesen, während leistungslosen Vermögenszuwächse (aus Immobilien, Unternehmensanteilen, Kapitalerträgen und eben Erbschaften) viel niedriger besteuert werden als hohe Einkommen. 
 
 ## Open Data
-* Zehn Jahre temporärhaus, 15 Jahre datalove
-  https://temporaerhaus.de/zehn-jahre-temporaerhaus-fuenfzehn-jahre-datalove-wir-feiern/
-* Internet Radio
-  https://mastodon.social/@limebar/116858012736275906
-* Diese Seite zeigt das Radfahren in Bonn aus offenen Daten
-  https://lage.bonn.machdenstaat.de/fahrradfahren
-  via https://bonn.social/@goern/116868490133449144
-  * weitere Use Cases: https://lage.bonn.machdenstaat.de/bahn
-* Offener Brief zu Digitalen Omnibus: Wir fordern die Gesetzgeber auf, die Verwendung von Lizenzen auf Basis offener Standards für Informationen des öffentlichen Sektors zu schützen und damit einen der Eckpfeiler des europäischen #OpenData-Rahmens zu bewahren.
-  https://communia-association.org/2026/07/06/open-letter-protect-open-standard-licences-for-public-sector-information/
-  via https://eupolicy.social/@lilliiliev/116873592536502985
-* In unserem zweiten LinkedOpenData Use Case schauen wir auf das Besucherwachstum bayerischer Bibliotheken im Verhältnis zur Bevölkerungsentwicklung.
-  https://github.com/byte-bayern/open-bydata-lod-usecase-libraries
-  https://mastodon.social/@ocbydata/116877794937743876
-* Liste der Quellen und Anbieter für gebrauchte und wiederaufbereitete (refurbished) Computer, Notebooks, Macs, Apple-Geräte und Smartphones.
-  https://text.tchncs.de/hdvalentin/gebrauchte-technik
-* Ton an: So klingt Berlin an einem Dienstagmorgen - Jeder Lichtpuls ist ein echtes Ereignis aus offenen Daten
-  https://mastodon.social/@infranode/116922908283632657
-  https://infranode.dev/
-* Warum wir auch 2026 noch über Parlamentsdaten reden müssen
-  https://okfn.de/blog/2026/07/warum-wir-auch-2026-noch-%C3%BCber-parlamentsdaten-reden-m%C3%BCssen/
-* GODIN (Global Open Data Integration Network) 
-  https://godin.gleif.org
-  https://social.wikimedia.de/@wikimediaDE/116934791740706543
-* OGD Handbuch
-  https://openzh.github.io/ogd-handbook/
-  via https://swiss.social/@OpenDataZH/116997873204797711
-* Open-Parlament-TV-Redesign: Neue Startseite, Kontext-Filter und dynamische Vorschaubilder
-  https://openparliament.tv/aktuelles/plattform-redesign-neue-startseite-kontext-filter-und-dynamische-vorschaubilder/
-* Zahlreich, aber politisch kaum beachtet: Menschen, die selbst reparieren
-  https://okfn.de/blog/2026/07/zahlreich-aber-politisch-kaum-beachtet-menschen-die-selbst-reparieren/
-* MCP-Server im Praxistest mit Berlins offenen Daten
-  https://odis-berlin.de/aktuelles/2026-06-29-mcp-server/
-  https://github.com/technologiestiftung/open-data-mcps#getting-started--set-up
-* Linked Open Data in der Praxis: "Familienfreundliches München – Spielplätze mit nahegelegenen Toiletten und Cafés"
-  https://www.linkedin.com/posts/bytethesystem-opendata-openbydata-share-7481290443708747777-uB8k/
-* Online-Konsultation für einen weiterentwickelten Rahmen für Open Data
-  https://bmds.bund.de/themen/digitale-wirtschaft/daten/open-data/online-konsultation-open-data
-* Open Data Supertrumpf
-  https://tifa365.github.io/open-data-supertrumpf/
-  via https://norden.social/@datenschatz/117018537337703329
+### Politik
+Mehr als 30 Organisationen [fordern in einem offenen Brief](https://communia-association.org/2026/07/06/open-letter-protect-open-standard-licences-for-public-sector-information/) zum Digitalen Omnibus die Gesetzgeber auf, die Verwendung von Lizenzen auf Basis offener Standards für Informationen des öffentlichen Sektors zu schützen und damit einen der Eckpfeiler des europäischen Open-Data-Rahmens [zu bewahren](https://eupolicy.social/@lilliiliev/116873592536502985). Notwendig wurde diese Aufruf, weil in jüngsten Änderungs-Entwürfen leider die antiquierte Idee für rollenspezifischer Lizenzbedingungen für unterschiedliche Nutzergruppen auftauchte.
 
-## Open Science
-* Data Papers 2.0: Reimagining the future of open science and reproducibility
-  https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70434
-* science streets ist ein Wissenschaftskommunikationsprojekt, das Wissenschaft in den Alltag bringt
-  https://sciencestreets.de
-  via https://www.l-iz.de/bildung/forschung/2026/07/hirnforschung-an-der-litfasssaule-science-streets-wissenschafts-comics-leipziger-strassen-665004
+Noch bis zum 15. September 2026 hat man noch Zeit, sich an der [Online-Konsultation](https://bmds.bund.de/themen/digitale-wirtschaft/daten/open-data/online-konsultation-open-data) für einen weiterentwickelten Rahmen für Open Data zu beteiligen. Bei der Einreichung soll man sich dabei an den aufgelisteten 6 Leitfragen orientieren, Herausforderungen und Chancen mit Indikatoren, Änderung von Rahmenbedingungen, Priorisierung von Themen und Handlungsfelder, Transparenz- und Sicherheit ausbalancieren, Open-Data-Wertschöpfungsketten, Zielgruppenansprache, messbaren Zielvorgaben und -indikatoren sowie konkrete Maßnahmen oder Best Practices.
 
-## Statistik
-* Folgen aus falschen Lesen von Statistik: Regeln bei der Krankschreibung werden verschärft: AU-Bescheinigung ab erstem Krankheitstag wird Pflicht
-  https://www.stuttgarter-zeitung.de/politik/regeln-bei-der-krankschreibung-werden-verschaerft-au-bescheinigung-ab-erstem-krankheitstag-wird-pflicht-79265735.html
-  via https://mastodon.social/@andrmr/116849275175228397
-  * Telefon-AU-Aus & Co: "Irrsinn, der für Millionen zusätzliche Arztbesuche sorgt"
-    https://www.heise.de/news/Ende-der-Telefon-AU-Irrsinn-der-fuer-Millionen-zusaetzliche-Arztbesuche-sorgt-11352394.html
-* Data Wrapper launching a new plan with not one but two new visualization types, waterfall and dual-axis charts, tailored for specific audiences
-  https://mastodon.social/@datawrapper/116970432491798472
+### Linked Open Data in der Praxis
+Um das durchschnittliches Besucherwachstum in bayrischen Bibliotheken in Bayern im Verhältnis zur Bevölkerungsentwicklung zu analysieren, wurden die beiden Daten-Quellen in einem RDF-Wissensgraph [verknüpft und per SPARQL-Abfragen analysiert](https://mastodon.social/@ocbydata/116877794937743876). Man kann mit dem zugehörigen [Quellcode](https://github.com/byte-bayern/open-bydata-lod-usecase-libraries) selbst überpüfen, ob man auch Penzberg mit 336 Besuchen/1.000 Einwohner jährlich als Spitzenreiter errechnen kann.
+
+In München schnell und einfach Spielplätze [finden](https://www.linkedin.com/posts/bytethesystem-opendata-openbydata-share-7481290443708747777-uB8k/), die sowohl Toiletten als auch ein Café in direkter Nähe haben, kann man [mit diesen Wissengraph](https://github.com/byte-bayern/open-bydata-lod-usecase-family-spots), aus dem auch [eine interaktive Karte](https://raw.githack.com/byte-bayern/open-bydata-lod-usecase-family-spots/main/src/map.html) entstanden ist.
+
+### Reparieren
+Am 31. Juli tritt das sogenannte "Recht auf Reparatur" in Kraft. Mit der Studie [Zahlreich, aber politisch kaum beachtet: Menschen, die selbst reparieren](https://github.com/okfde/okfn.de/blob/main/static/files/publikationen/Eigenreparaturstudie_2026_final.pdf) liefern der Runde Tisch Reparatur und die Open Knowledge Foundation [erstmals Zahlen und Fakten](https://okfn.de/blog/2026/07/zahlreich-aber-politisch-kaum-beachtet-menschen-die-selbst-reparieren/) zur Eigenreparatur in Deutschland. So reparieren mehr als die Hälfte der 3.150 deutschlandweit Befragten Produkte selbst.
+
+Valentin Bachem pflegt auf seinem Blog [eine Liste](https://text.tchncs.de/hdvalentin/gebrauchte-technik) der Quellen und Anbieter für gebrauchte und wiederaufbereitete (refurbished) Computer, Notebooks, Macs, Apple-Geräte und Smartphones.
+
+### Parlamente
+Bereits im Jahr 2013 hieß es in der sogenannten Kremser Erklärung der Präsidentinnen und Präsidenten der deutschen Landtage, dass "die moderne Informationsgesellschaft und ihre Instrumente den Landesparlamenten die Chance bieten, die Bürgerinnen und Bürger in neuer Qualität zu informieren und zu beteiligen". [13 Jahre später](https://okfn.de/blog/2026/07/warum-wir-auch-2026-noch-%C3%BCber-parlamentsdaten-reden-m%C3%BCssen/) veröffentlicht mit Rheinland-Pfalz nur eines der 16 Bundesländer zumindest Plenarprotokolle als maschinenlesbare XML-Datei. Sonst gibt es nur unstrukturierte PDFs. Der politische Wille fehlt weiterhin, zivilgesellschaftliche Initiativen müssen sich mit PDF-Extraktoren und Web-Scraper in eigenen Projekten selbst behelfen, die dann brechen, wenn sich Seiten- und Dokumentenaufbau ändern.
+
+Das Open Parlament TV hat sich [ein Redesign gegönnt](https://openparliament.tv/aktuelles/plattform-redesign-neue-startseite-kontext-filter-und-dynamische-vorschaubilder/): neben neuer Startseite gibt es nun Kontext-Filter und dynamische Vorschaubilder.
+
+### Vernetzung
+Zürich hat seine Leitlinien für gut nutzbare OGD zu einem [Open Government Data (OGD) Handbuch](https://openzh.github.io/ogd-handbook/) ausgebaut. [Es konsolidiert](https://swiss.social/@OpenDataZH/116997873204797711) Vorgaben zu Daten, Metadaten und OGD-Prozessen.
+
+[Wikimedia ist](https://social.wikimedia.de/@wikimediaDE/116934791740706543) dem [Global Open Data Integration Network (GODIN)](https://godin.gleif.org) beigetreten, einem Netzwerk von Organisationen, die offene Daten über Plattformen und Systeme hinweg besser verknüpfen wollen. 
+
+### Berlin
+Die Berliner Stadtbezirke als [Online-Supertrumpf-Kartenspiel](https://tifa365.github.io/open-data-supertrumpf/) (basierend auf der [Analogvariante](https://odis-berlin.de/aktuelles/2024-12-11-blogpost-supertrumpf/) vom ODIS Berlin). Wähle aus den Eigenschaften Fläche, Einwohnerzahl, Prozentzahl der Straßen mit Frauennamen, Solarpotenzial, Luftqualität, Prozent der Versiegelung, Schnellimbissanzahl und durchnittliche Anfahrtszeit Rettungsdienst, die aus, von der man denkt, dass sie den besseren Wert als die die Bezirkskarte des Gegners hat. Gewinnt man, bekommt man beide Karten der Runde, wer irgendwann keine Karten hat, [hat verloren](https://de.wikipedia.org/wiki/Supertrumpf).
+
+[So klingt Berlin an einem Dienstagmorgen](https://mastodon.social/@infranode/116922908283632657): Jeder Lichtpuls ist ein echtes Ereignis aus offenen Daten: Zugabfahrten (DB live), belegte Ladesäulen, und die Feinstaub-Messung steuert die Klangfarbe des Grundtons. Ermöglicht durch [InfraNode](https://infranode.dev/), einer keylose Open-Data-API und ein MCP-Server für 84 deutsche Städte (67 Datenarten).
 
 ## Digitale Souveränität
 * TelefonSeelsorge: Statt auf einen großen Cloud-Anbieter setzt sie auf eine Open-Source-Plattform
@@ -231,6 +203,9 @@ Lisa Duschek vom Magazin MOMENT.at hatte die gängigen Mythen und Argumenten geg
   https://www.linkedin.com/posts/gerd-knobling-35400122_jedes-bundesland-stellt-seine-geodaten-anders-share-7483577961762447360-6vNF/
 * Offene Geodaten für Winterthur: Wir unterstützen "Open by Default"
   https://www.linkedin.com/posts/winterthur-opengovernmentdata-ogd-share-7482688857398927360-G5HZ/
+* Internet Radio
+  https://mastodon.social/@limebar/116858012736275906
+  * https://www.radio-browser.info
 
 ## Mobilität
 * Wenn die Hitze die Straßenbahn stoppt: Leipzigs Straßenbahnnetz als Warnsignal für klimaresiliente Infrastruktur
@@ -273,6 +248,10 @@ Lisa Duschek vom Magazin MOMENT.at hatte die gängigen Mythen und Argumenten geg
 * ZDF-Doku „Unsere Bahn: geliebt, verflucht – gefährlich?“
   https://mediathekviewweb.de/#query=Unsere%20Bahn%3A%20geliebt%2C%20verflucht%20%E2%80%93%20gef%C3%A4hrlich
   via https://digitalcourage.social/@padeluun/117016009001852875
+* Diese Seite zeigt das Radfahren in Bonn aus offenen Daten
+  https://lage.bonn.machdenstaat.de/fahrradfahren
+  via https://bonn.social/@goern/116868490133449144
+  * weitere Use Cases: https://lage.bonn.machdenstaat.de/bahn
 
 ## Energie
 * Hunderte Milliarden Euro an Klimaschäden durch deutschen Solarstrom gespart
@@ -380,6 +359,9 @@ Lisa Duschek vom Magazin MOMENT.at hatte die gängigen Mythen und Argumenten geg
   https://volksverpetzer.de/aktuelles/klimaschutz-el-nino-diese-grafik-sollte-auf-jede-titelseite/
 
 ## Gesundheit
+Und schon wieder das [Koalitionsausschuss-Papier von CDU, CSU und SPD](https://www.bundesregierung.de/resource/blob/2196306/2445592/bc8e5e160d879f0bdd593121a96a45d2/2026-07-02-koaausschuss-data.pdf), diesmal Punkt 11: "Die telefonische Krankschreibung wird abgeschafft und die unrichtige Ausstellung einer Arbeitsunfähigkeitsbescheinigung nach §278 StGB stärker bestraft. Wir führen eine verpflichtende Vorlage der AU-Bescheinigung ab dem ersten Tag der Erkrankung ... ein".
+Aus der Reihe, wie sehr kann man sein Volk hassen. Dabei war die telefonische Krankschreibung ursprünglich eingeführt worden, um Arztpraxen zu entlasten. [Wie dieser Arzt schreibt](https://mastodon.social/@andrmr/116849275175228397), wird er nun sogar eher die Patienten eher länger krank schreiben. Kassenärztliche Vereinigungen, Hausärzt:innen und Krankenkassen [sprechen unisono von Irrsinn](https://www.heise.de/news/Ende-der-Telefon-AU-Irrsinn-der-fuer-Millionen-zusaetzliche-Arztbesuche-sorgt-11352394.html). Das Zentralinstitut für die kassenärztliche Versorgung (Zi) führte bereits Anfang des Jahres den Anstieg der AU-Zahlen primär auf Meldeeffekte durch die 2022 eingeführte elektronische Krankmeldung sowie ein erhöhtes Infektionsgeschehen zurück, und damit eben nicht auf die Telefon-AU. Die Zahl der AU-Meldungen ist 2025 laut Gematik-Daten sogar wieder um neun Prozent zurückgegangen. Trotz all diesen Fakten unterstellen die Politiker der Koalition weiterhin der Bevölkerung tendenziell zu betrügen. Vielleicht sollten sie nicht immer von sich auf andere schließen?
+
 * Betriebsärzte sollen Zugriff auf die ePA bekommen
   https://www.golem.de/news/schweigen-als-zustimmung-betriebsaerzte-sollen-zugriff-auf-die-epa-bekommen-2607-210618.html
 * CDU/CSU und SPD entziehen Psychotherapiepraxen die Existenzgrundlage
