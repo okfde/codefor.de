@@ -109,63 +109,40 @@ Die Berliner Stadtbezirke als [Online-Supertrumpf-Kartenspiel](https://tifa365.g
 [So klingt Berlin an einem Dienstagmorgen](https://mastodon.social/@infranode/116922908283632657): Jeder Lichtpuls ist ein echtes Ereignis aus offenen Daten: Zugabfahrten (DB live), belegte Ladesäulen, und die Feinstaub-Messung steuert die Klangfarbe des Grundtons. Ermöglicht durch [InfraNode](https://infranode.dev/), einer keylose Open-Data-API und ein MCP-Server für 84 deutsche Städte (67 Datenarten).
 
 ## Digitale Souveränität
-* TelefonSeelsorge: Statt auf einen großen Cloud-Anbieter setzt sie auf eine Open-Source-Plattform
-  https://www.heise.de/hintergrund/Telefonseelsorge-Wir-wollten-nicht-einfach-Microsoft-ersetzen-11350353.html
-* Mecklenburg-Vorpommern verabschiedet sich von Microsoft: Mit Open-Source-Software will das Bundesland seine digitale Unabhängigkeit sichern
-  https://www.heise.de/news/Mecklenburg-Vorpommern-verabschiedet-sich-von-Microsoft-11352440.html
-  * Open-Source-Strategie: Mecklenburg-Vorpommern will auch Microsoft Office ablösen
-    https://www.heise.de/news/Open-Source-Strategie-Mecklenburg-Vorpommern-will-auch-Microsoft-Office-abloesen-11359864.html
-* empfehlenswerte VPN-Anbieter
-  https://www.kuketz-blog.de/empfehlenswerte-vpn-alternativen-zu-mullvad-und-proton/
-  via https://social.tchncs.de/@kuketzblog/116868675887215880
-* 2025 zahlte der Bund allein für Microsoft-Lizenzen 481 Mio. € und damit mehr als sechsmal so viel wie 2017. Das Zendis, das mit openDesk & openCode die Open-Source-Alternativen entwickelt, bekam im selben Jahr unter 4 Mio. € Auftragsvolumen
-  https://social.osb-alliance.de/@OSBA/116895247543003799
-* Europas Schutzschild gegen die Macht von Big Tech stärken
-  https://www.lobbycontrol.de/macht-der-digitalkonzerne/europas-schutzschild-gegen-die-macht-von-big-tech-starken-114126/
-* Darf sich eine Behörde bei einer Aussschreibung schon auf Open Source festlegen? Ja, sagt ein Gutachten der wissenschaftlichen Dienste des Bundestages!
-  https://osb-alliance.de/pressemitteilungen/bundestags-gutachten-schafft-klarheit-open-source-first-ist-vergaberechtlich-zulaessig
-  via https://social.osb-alliance.de/@OSBA/116928619770426231
-* openDesk als Notfallarbeitsplatz: Sozialversicherer ziehen positive Bilanz im Krisenfall-Verbundprojekt
-  https://www.zendis.de/newsroom/presse/pressemeldung-ckki-abschluss
-  * Die Deutsche Rentenversicherung und die Bundesagentur für Arbeit haben openDesk als Notfallarbeitsplatz getestet und für tauglich befunden.
-    https://www.heise.de/news/Microsoft-Alternative-openDesk-tauglich-fuer-den-Ernstfall-11374072.html
-* Offline Translator
-  https://blog.davidv.dev/posts/mobile-translator-video/
-  https://github.com/DavidVentura/offline-translator
-  via https://social.tchncs.de/@kunde_x/116967941213235003
-* Martin Andree vermisst die digitale Welt neu: Nicht Reichweiten, sondern die Nutzungszeit ist entscheidend
-  https://www.telepolis.de/article/Das-Internet-ist-viel-kleiner-als-wir-glauben-11379153.html
-* Abhängigkeit von großen Plattformen: Bitte alle aussteigen
-  https://taz.de/Abhaengigkeit-von-grossen-Plattformen/!6195096/
-* "Nicht für den Anspruch der Armee geeignet": Schweizer Militär mustert Microsoft aus
-  https://www.derstandard.de/story/3000000331258/nicht-fuer-den-anspruch-der-armee-geeignet-schweizer-militaer-mustert-microsoft-aus
-* Deutsche KI-Firmen nutzen US-Technik – trotz Souveränitätsversprechen
-  https://www.basicthinking.de/blog/2026/07/20/ki-modelle-deutsche-unternehmen/
-* Digitale Souveränität im Verwaltungsalltag: Was bedeutet das konkret?
-  https://citylab-berlin.org/blog/digitale-souveraenitaet-im-verwaltungsalltag-was-bedeutet-das-konkret/
-* Kriterien für Digitale Souveränität
-  https://souveränitätscheck.de
+### Behörden und Vereine
+Mecklenburg-Vorpommern [will sich schrittweise](https://www.heise.de/news/Mecklenburg-Vorpommern-verabschiedet-sich-von-Microsoft-11352440.html) von der Software großer Tech-Konzerne wie Microsoft trennen. Zentral ist dabei der Umstieg auf das Nextcloud-Ökosystem. Die ersten 5000 Beschäftigten wurden von Microsoft SharePoint schon umgezogen. Am Ende sollen alle 50.000 Mitarbeiter:innen des Landes auf die neue Plattform migriert werden. Die Windows-PCs durch Linux-Rechner ist allerdings erstmal noch nicht geplant, [dafür mittelfristig](https://www.heise.de/news/Open-Source-Strategie-Mecklenburg-Vorpommern-will-auch-Microsoft-Office-abloesen-11359864.html) der Abschied von Microsoft Office, man evaluiert derzeit die freien Alternativen.
+
+Die Deutsche Rentenversicherung und die Bundesagentur für Arbeit [haben erfolgreich getestet](https://www.heise.de/news/Microsoft-Alternative-openDesk-tauglich-fuer-den-Ernstfall-11374072.html), dass openDesk auch für Notfallarbeitsplätze geeignet ist. Solche Arbeitsplätze können unabhängig von der primären IT-Infrastruktur existieren, falls diese im Krisenfall ausfallen sollte.
+
+Die Schweizer Armee setzt ebenfalls auf OpenDesk, nachdem sie Microsoft schon wegen dem US-Cloud-Act [ausgemustert haben](https://www.derstandard.de/story/3000000331258/nicht-fuer-den-anspruch-der-armee-geeignet-schweizer-militaer-mustert-microsoft-aus).
+
+Ein Gutachten der wissenschaftlichen Dienste des Bundestages bestätigt, dass Behörden sich bei einer Aussschreibung schon auf Open Source [festlegen dürfen](https://osb-alliance.de/pressemitteilungen/bundestags-gutachten-schafft-klarheit-open-source-first-ist-vergaberechtlich-zulaessig). Es räumt somit [mit dem Mythos auf](https://social.osb-alliance.de/@OSBA/116928619770426231), dass eine Open-Source-Vorgabe sei vergaberechtlich nicht zulässig sei. Ganz im Gegenteil, laut Gutachten, ist sie sowohl wirtschaftlich als auch strategisch geboten.
+
+Nachdem Microsoft seit Mitte letzten Jahres keine kostenlose Lizenzen für gemeinnützige Organisationen mehr anbietet, mussten sich viele Vereine und NGOs neu orientieren. Bei der TelefonSeelsorge Deutschland e.V. hat man sich für Drupal als zentrales Content-Management-System, Mattermost als Chat-Tool und Nextcloud für den Dokumentenaustausch [entschieden](https://www.heise.de/hintergrund/Telefonseelsorge-Wir-wollten-nicht-einfach-Microsoft-ersetzen-11350353.html). Die Benutzeroberfläche ist eine Eigenentwicklung, da so die Arbeitsabläufe der TelefonSeelsorge am besten unterstützen lassen.
+
+### Open Source 
+Der Kuketz Blog hat alternative VPN-Anbieter [einem Praxis-Test unterzogen](https://www.kuketz-blog.de/empfehlenswerte-vpn-alternativen-zu-mullvad-und-proton/), nachdem Teile der Geschäftsführung der zwei beliebtesten VPN-Lösungen mit zweifelhaften politischen Ansichten aufgefallen sind.
+
+Wer eine datenschutzfreundliche Alternative zu Google Lens sucht, dem sei der [Offline Translator](https://github.com/DavidVentura/offline-translator) von David Ventura [empfohlen](https://social.tchncs.de/@kunde_x/116967941213235003), mit dem sich sogar auf seinem Handy Videos [live übersetzen lassen kann](https://blog.davidv.dev/posts/mobile-translator-video/).
+
+### Social-Media-Plattformen
+Viele freuen sich, wenn ihre Seite eine hohe Reichweite hat, aber wie man beispielhaft an Spiegel Online sieht, erreicht das Nachrichtenportal mehr als die Hälfte der Deutschen Bevölkerung, eine Person verbringt jedoch im Durchschnitt gerade mal in Summe 14 Minuten im Monat auf deren Seiten. Der Kölner Medienwissenschaftler Martin Andree hat deshalb die aggregierte Internet-Nutzungsdauer von 8.000 repräsentativ ausgewählten Personen [als die relevantere Größe gemessen](https://www.telepolis.de/article/Das-Internet-ist-viel-kleiner-als-wir-glauben-11379153.html). Die Auswertung zeigt, dass sich trotz der prinzipiellen Vielfalt des Internets (es gibt z.B. fast 18 Millionen Domainen mit der Endung ".de") die Aufmerksamkeit nur auf ein klitzekleinen Bruchteil davon konzentriert (500 (= 0,4%) der de-Domämen bekommen 86% der Aufmerksamkeit (= Verweildauer)). Allein Google, YouTube, Facebook, Instagram und WhatsApp vereinen 40% der Nutzungszeit auf sich. Der errechnete Gini-Koeffizient liegt schon seit Jahren um die 0,987, also nahe 1,0 (= maximale Konzentration). Um so unverständlicher, dass weder YouTube noch Facebook nicht denselben Regeln wie klassische Medien unterworfen werden. 
+
+Nur wie bricht man aus dem Gefangendilemma aus? Das Prinzip Konvoi könnte helfen. Also [eine konzertierte Aktion](https://taz.de/Abhaengigkeit-von-grossen-Plattformen/!6195096/) von öffentlichen wie privaten Medien, Hochschulen, Stiftungen, NGOs, Verbänden und anderen öffentlichen Einrichtungen.
 
 ### Fediverse
-* How to get started as software developer for fediverse integration / software
-  https://codeberg.org/scammo/howto-fediverse-dev
-  via https://hachyderm.io/@sabrinkmann/116850066788500095
-* Folgt doch mal ein paar Forschungszentren, bevor die denken, ihre Zielgruppe sei auf Instagram zu finden
-  https://helmholtz.social/directory
-  via https://ruhr.social/@mardor/116922256619496521
-* VHS Fediverse
-  https://fedidevs.com/s/MTA1/
-  via https://vhs.social/@karlsruhe/117016299984916723
+Mit [Helmholtz.social](https://helmholtz.social/directory) gibt es eine extra Mastodon-Instanz für Helmholtz-Zentren, die sich noch über mehr Follower [freuen würden](https://ruhr.social/@mardor/116922256619496521).
+
+[Ein Starterpaket](https://fedidevs.com/s/MTA1/) fasst einige auf Mastodon vertretene Volkshochschulen (VHS) und weitere Bildungseinrichtungen [zusammen](https://vhs.social/@karlsruhe/117016299984916723).
+
+[Eine Sammlung von Links](https://codeberg.org/scammo/howto-fediverse-dev) soll den Einstieg in die Software-Entwicklung für Fediverse-Integrationen [senken](https://hachyderm.io/@sabrinkmann/116850066788500095).
 
 ### USA
-* US-Urteil erschüttert das Fundament des transatlantischen Datentransfers
-  https://www.heise.de/news/Kartenhaus-Wie-ein-US-Urteil-den-transatlantischen-Datenfluss-sprengen-koennte-11349599.html
-  * Die US-amerikanische FTC verliert ihre Unabhängigkeit. Weckruf zur Digitalen Souveränität
-    https://www.computerwoche.de/article/4193189/weckruf-zur-digitalen-souveranitat.html
-* Unfairer Wettbewerb: EU-Kommission verhängt 890-Millionen-Euro-Strafe gegen Google
-  https://netzpolitik.org/2026/unfairer-wettbewerb-eu-kommission-verhaengt-890-millionen-euro-strafe-gegen-google/
-* Wie eine US-Förderausschreibung europäisches Recht zur Zielscheibe macht
-  https://www.mrak.at/wie-eine-us-forderausschreibung-europaisches-recht-zur-zielscheibe-macht/
+Eine konservative Mehrheit der Richter am Obersten Gerichtshof hat die Unabhängigkeit der Aufsichtsbehörde für den Datenschutz, Federal Trade Commission (FTC), für verfassungswidrig erklärt. Deren vermeintliche Unabhängigkeit [bildete bisher das rechtliche Fundament](https://www.heise.de/news/Kartenhaus-Wie-ein-US-Urteil-den-transatlantischen-Datenfluss-sprengen-koennte-11349599.html) für den Datenverkehr zwischen EU und USA. Dadurch könnte die Inanspruchnahme von Cloud-Diensten von US-Anbietern illegal werden, auch wenn sie in Europa gehostet sind. Vielleicht doch mal nach souveränen europäischen Alternativen [Ausschau halten](https://www.computerwoche.de/article/4193189/weckruf-zur-digitalen-souveranitat.html)?
+
+Ein Ausschreibung des US-Außenministerium mit dem Namen "Developing Civilizational Bonds, Democratic Resilience, and Rule of Law in Europe" [will rechtspopulistische und nationalistische Strömungen in Europa fördern](https://www.mrak.at/wie-eine-us-forderausschreibung-europaisches-recht-zur-zielscheibe-macht/), die Muster "politisch motivierter Justiz" aufdecken sowie "Zensur" durch den Digital Services Act dokumentieren sollen. Letzlich also Europäisches Recht attakieren soll, das der US-Regierung nicht in den Kram passt.
+
+Die im Rahmen des Digital Markets Act (DMA) von der EU-Kommission [verhängten zwei Strafen](https://netzpolitik.org/2026/unfairer-wettbewerb-eu-kommission-verhaengt-890-millionen-euro-strafe-gegen-google/) gegen Google fallen wahrscheinlich genau darunter. Die erste Strafe von 460 Millionen Euro bezieht sich auf die Bevorzugung Google-eigener Dienste in den Suchtreffern, die zweite Strafe von 430 Millionen Euro gibt es für die Behinderung im Google Play Store, auf günstigere Angebote außerhalb dieses Store verweisen zu können.
 
 ## Verwaltungsdigitalisierung
 * Warum "Nachnutzung" ein irreführender Erfolgsindikator fuer Freie Software im Verwaltungskontext ist.
