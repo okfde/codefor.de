@@ -13,107 +13,38 @@ type: blog
 
 ## Transparenz
 ### Abschaffung IFG
-* Beschluss des Koalitionsausschusses: SPD und Union planen Abschaffung des IFG
-  https://fragdenstaat.de/artikel/policy/2026/07/spd-und-union-planen-abschaffung-des-ifg/
-  * Laut Punkt 32  wollen die die Bundesregierung tragenden Parteien das IFG entkernen. Anders kann man es nicht formulieren.
-   https://www.bundesregierung.de/resource/blob/2196306/2445592/bc8e5e160d879f0bdd593121a96a45d2/2026-07-02-koaausschuss-data.pdf?download=1
-   via https://gruene.social/@mathias/116849842628459628
-  * Schwarz-Rot plant Frontalangriff auf Journalismus und Transparenz
-    https://netzpolitik.org/2026/informationsfreiheit-schwarz-rot-plant-frontalangriff-auf-journalismus-und-transparenz/
-  * Was sich bei der Informationsfreiheit ändern soll
-    https://www.tagesschau.de/inland/innenpolitik/informationsfreiheitsgesetz-novelle-100.html
-  * Informationsfreiheitsgesetz: Das soll sich ändern
-    https://www.tagesschau.de/video/video-1612012.html
-  * IFG-Reform "muss möglichst schnell abgeblasen werden"
-    https://www.n-tv.de/mediathek/videos/politik/IFG-Reform-muss-moeglichst-schnell-abgeblasen-werden-id31050077.html
-  * Versteckt in ihrem 34-Punkte-Programm plant die Koalition einen tiefen Eingriff ins Informationsfreiheitsgesetz
-    https://www.zeit.de/politik/deutschland/2026-07/informationsfreiheitsgesetz-reform-bundesregierung-minister-auswirkungen
-  * Achtung, SPD und #Union planen laut Koalitionsausschuss Papier einen Kahlschlag für Digitale Bürgerrechte
-    https://chaos.social/@Digitale_Ueberwachung/116849314008186446
-  * Tom Jennissen von der Digitalen Gesellschaft zu den Einschränkungen des IFG: "Mit der geplanten massiven Einschränkung der Informationsfreiheit schwächt die Bundesregierung ganz bewusst eine wesentliche Säule einer lebendigen Öffentlichkeit und zeigt ein erschreckend autoritäres Staatsverständnis. Intransparenz und Verantwortungsdiffusion untergraben das Vertrauen in öffentliche Institutionen, statt sie zu stärken."
-    https://chaos.social/@digiges/116850783045664035
-  * IFG-Reform auf Bundesebene: Der autoritäre Staatsumbau nimmt Fahrt auf
-    https://taz.de/IFG-Reform-auf-Bundesebene/!6192998/
-  * Welche Skandale ohne dieses Gesetz nie ans Licht gekommen wären
-    https://greenpeace.social/@gpinvestigativ/116855513559987233
-  * Informationsfreiheitsbeauftragte kritisieren Pläne der Bundesregierung zum Kahlschlag in der Informationsfreiheit
-    https://www.datenschutz.sachsen.de/informationsfreiheitsbeauftragte-kritisieren-plaene-der-bundesregierung-zum-kahlschlag-in-der-informationsfreiheit-7937.html
-  * Heftige Kritik der zuständigen Behörden: Pläne der Bundesregierung führen zu weniger Transparenz und mehr Bürokratie
-    https://netzpolitik.org/2026/heftige-kritik-der-zustaendigen-behoerden-plaene-der-bundesregierung-fuehren-zu-weniger-transparenz-und-mehr-buerokratie/
-  * Das Signal ist katastrophal: Während immer mehr Menschen das Vertrauen in die Demokratie verlieren oder Sorge vor einem autoritären Umbau haben, will die Koalition wichtige demokratische Instrumente stutzen – und erschwert damit die Arbeit von Medien und Vereinen.
-    https://www.lobbycontrol.de/pressemitteilung/breites-buendnis-warnt-koalition-will-informationsfreiheitsgesetz-faktisch-abschaffen-125731/
-    https://bewegung.social/@lobbycontrol/116878627127128617
-  * Ausgerechnet jene, deren "Interessenkonflikte" durch die Informationsfreiheit ans Licht kamen, wollen sie nun abschaffen. 
-    https://www.ccc.de/updates/2026/abschaffung-der-informationsfreiheit-verhindern
-    via https://23.social/@linuzifer/116878223957100493
-  * Ein Angriff aufs IFG ist ein Angriff auf die Demokratie
-    https://cloud.fiff.de/s/W4BAfRpyNx9KwNB?dir=/&editing=false&openfile=true
-    via https://mastodon.bits-und-baeume.org/@fiff_de/116885777454873858
-  * Katharina Nocun zur geplanten IFG-Abschaffung
-    https://23.social/@derPUPE/116888547294530035
-  * Wie gewinne ich Vertrauen in Politik und Staat zurück? Sicher nicht so.
-    https://bsky.app/profile/beyond-ideology.bsky.social/post/3mpsmjltmks2a
-  * Statement Helen Bielawa (Code for Bielefeld)
-    https://www.linkedin.com/posts/helen-bielawa-051902145_das-bundesweite-ifg-droht-beschr%C3%A4nkt-zu-share-7486372282001555456-9ydx/
-  * Statement Barbara Metz (Deutsche Umwelthilfe)
-    https://imginn.com/p/DafSuUNMpGI/
-  * "Der Staat schuldet den Bürgern Rechenschaft, nicht umgekehrt"
-    https://www.faz.net/premium/einspruch/exklusiv/der-staat-schuldet-den-buergern-rechenschaft-nicht-umgekehrt-201014916.html
-  * Kommentar: Ende der Informationsfreiheit: Das berechtigte Interesse des Souveräns
-    https://www.l-iz.de/politik/brennpunkt/2026/07/kommentar-ende-der-informationsfreiheit-das-berechtigte-interesse-des-souveraens-663747
-  * Was haben Open Source und das Informationsfreiheitsgesetz (IFG) gemeinsam? Transparenz schafft Überprüfbarkeit, ermöglicht demokratische Kontrolle und ist damit die Basis für Vertrauen und Zusammenarbeit.
-    https://social.osb-alliance.de/@OSBA/116890690780792697
-  * Die BfDI fordert daher die Weiterentwicklung des IFG hin zu einem modernen Transparenzgesetz
-    https://www.bfdi.bund.de/DE/BfDI/Datenbarometer/Informationsfreiheit/Informationsfreiheit_node.html
-    https://social.bund.de/@bfdi/116895381776604109
-  * Der Angriff auf das #IFG soll aus dem direkten Umfeld von Alexander Dobrindt (CSU) und Kanzleramtschef Thorsten Frei (CDU) initiiert worden sein
-    https://bewegung.social/@a_watch/116911435385491037
-  * IFG-Reform: Bundesregierung in Erklärungsnot - Bedrohungen von Staatsbediensteten sollen ein Grund für die umstrittene Reform des Informationsfreiheitsgesetzes sein. Fälle gibt es wohl keine.
-    https://www.heise.de/news/IFG-Reform-Bundesregierung-in-Erklaerungsnot-11364892.html
-  * Kanzleramtsminister Frei hat im Interview mit der ZEIT behauptet, es gäbe Anfragen nach dem Informationsfreiheitsgesetz, die Kosten von "gar einigen Hunderttausend Euro" verursachen. - ein IFG-Anfrage fordert nun Belege für diese Behauptung
-    https://bonn.social/@ulrichkelber/116928743668855173
-  * Ein Eckpunktepapier aus dem BMI zeigt: die  „Reform”-Pläne gehen noch weiter als bisher bekannt. Und die Identifizierungspflicht dient explizit dazu, FragDenStaat den Stecker zu ziehen. Außerdem will Dobrindt den Bundesbeauftragten für Informationsfreiheit abschaffen
-    https://fragdenstaat.de/artikel/policy/2026/07/ifg-attacke-3/
-    via https://chaos.social/@fragdenstaat/116968450900292424
-    * Härtere Einschnitte bei der Informationsfreiheit?
-      https://www.tagesschau.de/investigativ/mdr/ifg-bundesinnenministerium-100.html
-    * FragDenStaat & Co.: Dobrindt will Transparenz-Plattformen aus dem Weg räumen
-      https://netzpolitik.org/2026/fragdenstaat-co-dobrindt-will-transparenz-plattformen-aus-dem-weg-raeumen/
-    * Identifikationspflicht: Dobrindt will Informationsfreiheit faktisch stoppen
-      https://www.heise.de/news/Identifikationspflicht-Dobrindt-will-Informationsfreiheit-faktisch-stoppen-11376595.html
-  * Rette mit uns das IFG!
-    https://fragdenstaat.de/spenden/ifg-retten/
-    * Innerhalb von nur 7 Tagen habt ihr 269.099,08 €  zur Rettung der Informationsfreiheit gespendet
-      https://chaos.social/@fragdenstaat/117009170393592588
-  * SPD, stoppt den Frontalangriff auf die Informationsfreiheit!
-    https://weact.campact.de/petitions/spd-stoppt-den-frontalangriff-auf-die-informationsfreiheit
-    via https://bewegung.social/@lobbycontrol/116969706499280665
-    * Über 500.000 Unterschriften
-      https://bsky.app/profile/arnesemsrott.bsky.social/post/3mqjxva4uns2j
-  * Kanzleramt, Innen- und Verteidigungsministerium sollen hier vom IFG ausgenommen werden. Die neuen Ausnahmen sollen sogar auf das Umweltinformationsgesetz übertragen werden. Obwohl das EU-Recht solche Ausschlüsse eigentlich verbietet, soll die Berufung auf die nationale Sicherheit als rechtliche Hintertür dienen.
-    https://bewegung.social/@a_watch/116973530456006036
-  * Warum nicht auch das Wählen abschaffen (spart Kosten und Bürokratie)? Exzellenter Kommentar von Hajo Schumacher, warum eine Demokratie sich das IFG leisten muss
-    https://www.radioeins.de/programm/sendungen/der_schoene_morgen/kommentar/hajo_schumacher_Informationsfreiheitsgesetz.html
-    via https://bewegung.social/@a_watch/116980588943280231
-  * Angriff auf die Informationsfreiheit: Der Autoritarismus ist längst da – auch ganz ohne AfD
-    https://taz.de/Angriff-auf-die-Informationsfreiheit/!6199153/
-  * Mehr als eine halbe Million Menschen wollen Informationsfreiheit retten
-    https://netzpolitik.org/2026/gegenwind-fuer-bundesregierung-mehr-als-eine-halbe-million-menschen-wollen-informationsfreiheit-retten/
-  * CDU-MdB Simone Borchardt polemisiert gegen das IFG und NGOs: "Der Staat ist nicht verpflichtet, die politische Arbeit professioneller und teilweise bereits öffentlich geförderter Organisationen zusätzlich durch kostenlose Verwaltungsleistungen zu subventionieren."
-    https://bsky.app/profile/abgeordnetenwatch.de/post/3mrruasbhlk2e
-  * Lesermeinung - Einschränkung der Informationsfreiheit: Das Markenzeichen jeder Diktatur
-    https://www.tagesspiegel.de/meinung/leserbriefe/einschrankung-der-informationsfreiheit-das-markenzeichen-jeder-diktatur-15872524.html
+Nachdem der Versuch in den Koalitionsverhandlungen letztes Jahr noch von der Zivilgesellschaft erfolgreich abgewehrt werden konnte, haben sich die Gegner des Informationsfreiheitsgesetzes (IFG) jetzt erneut in Stellung gebracht. Versteckt als 32. Punkt von 34 anderen [Beschlüssen](https://www.bundesregierung.de/resource/blob/2196306/2445592/bc8e5e160d879f0bdd593121a96a45d2/2026-07-02-koaausschuss-data.pdf) des Koalitionsauschusses von SPD, CDU und CSU, wird davon gesprochen, dass das angebliche "komplizierte IFG" "verständlicher und transparenter" gemacht werden soll, sich "die Auskunftsrechte künftig auf natürliche Personen fokussieren" sollen, "die ein berechtigtes Interesse an einer Auskunft haben", der Personenkreis soll dabei auf "in Deutschland lebende Deutsche und Unionsbürger" beschränkt werden, Namen von Mitarbeitenden sollen konsequent geschwärzt werden, um sie vor Anfeindungen zu schützen, Bereiche wie "der Kritischen Infrastruktur, der Spionageabwehr, der Terrorismusbekämpfung oder
+auch der wissenschaftlichen Forschung" sollen vor Transparenz "geschützt" werden, die IFG-Gebühren sollen gemäß "Kostendeckungsprinzip" angepasst werden. Wie FragDenStaat [Punkt für Punkt darlegt](https://fragdenstaat.de/artikel/policy/2026/07/spd-und-union-planen-abschaffung-des-ifg/), bedeutet das defacto die Abschaffung der Informationsfreiheit. Denn dass nur noch "natürliche Personen" Anfragen stellen dürfen, schließt "juristische Personen", also Organisationen aber auch Pressevertreter aus. Und wer definiert, was ein "berechtigtes Interesse" ist? Die Schwärzung aller Mitarbeitendennamen schließt auch alle Entscheidungsträger ein, damit ist nicht mehr nachvollziehbar, wer für was verantwortlich ist und ob möglicherweise Interessenskonflikte vorliegen. Bisher waren IFG-Anfragen bei 500 Euro gedeckelt, dass nun tausende bis zehntausende Euro drohen könnten, hat eine abschreckende Wirkung und schließt Personen aus, die sich das nicht leisten können. Wie man in den Monaten nach Abschwächung des Berliner IFGs beobachten kann, wird die Ausweitung von Ausnahmefällen mit Verweis auf angebliche Schutzbedürftigkeit kritischer Infrastruktur auch auf Bundesebene dazu führen, dass man Anfragen großzügig in solche Ausnahmen hineininterpretiert und dann verweigert. [Zurecht sprechen](Gebühren bei einer Obergrenze von 500 Euro) Zivilgesellschaft, Journalisten und die Beauftragten für Informationsfreiheit vom "schwersten Angriff auf staatliche Transparenz".
+
+Auch die Konferenz der Informationsfreiheitsbeauftragten in Deutschland (IFK) lehnt die Pläne der Bundesregierung mit Nachdruck ab. Wie die Sächsische Datenschutz- und Transparenzbeauftragte Dr. Juliane Hundert [schön formuliert](https://www.datenschutz.sachsen.de/informationsfreiheitsbeauftragte-kritisieren-plaene-der-bundesregierung-zum-kahlschlag-in-der-informationsfreiheit-7937.html): "Informationsfreiheit und Transparenz sind kein Gnadenakt der Verwaltung, sondern Ausdruck einer modernen Demokratie."
+
+[Im letzten Jahr](https://www.zeit.de/politik/deutschland/2026-07/informationsfreiheitsgesetz-reform-bundesregierung-minister-auswirkungen/komplettansicht) wurden fast 19.000 Anfragen gestellt, in etwa 40% der Fälle beurteilten die Anfragenden die erteilte Auskunft als zufriedenstellend, bei rund 4000 Anfragen Informationen ganz oder teilweise verweigert, in allen anderen Fällen gab es entweder nicht die angeforderten Dokumenten oder ein anderes Ressort war zuständig. Im Durchschnitt dauert eine Beantwortung 35 Tage. Die von Mitarbeitenden aufgewendeten Arbeitsstunden für die Bearbeitung von IFG-Anfragen werden derzeit nicht genau dokumentiert, die CDU spricht aber von 480.000 Arbeitsstunden für das Jahr 2024. Fehlendes und teils nicht ausreichend geschultes Personal bilden auch einen Engpass. Oft wird auch auf Zeit gespielt und mehr geschwärzt als nötig, wodurch sich extra Bearbeitungsrunden bis Gerichtsprozesse ergeben können. Aber ob eine Behörde wirklich alle Informationen  übergeben hat, kann auch ein Gericht auf Grund der Informationsasymmetrie nicht überprüfen.
+
+Entgegen der versprochenen Vereinfachung würde der bürokratischer Aufwand [sogar erheblich steigen](https://netzpolitik.org/2026/heftige-kritik-der-zustaendigen-behoerden-plaene-der-bundesregierung-fuehren-zu-weniger-transparenz-und-mehr-buerokratie), denn nun müsste bei jeder Anfrage Staatbürgerschaft der Antragsstellers und ob ein "berechtigtes Interesse" vorliegt geprüft werden sowie "jeder Bearbeitungsschritt für die nachfolgende Kostenerhebung dokumentiert werden".
+
+Dass Journalisten doch das Presserecht nutzen könnte, [blendet aus](https://www.linkedin.com/posts/helen-bielawa-051902145_das-bundesweite-ifg-droht-beschr%C3%A4nkt-zu-share-7486372282001555456-9ydx/), das dies nicht die Einsicht in die Original-Dokumente ersetzt.
+
+Ein [offener Brief](https://www.lobbycontrol.de/aus-der-lobbywelt/haende-weg-vom-ifg-retten-sie-die-informationsfreiheit-125713/) eines Bündnis aus abgeordnetenwatch, Deutsche Gesellschaft für Informationsfreiheit (DGIF) e.V., Deutscher Journalisten-Verband (DJV), FragDenStaat, LobbyControl, Mehr Demokratie e.V., Netzwerk Recherche e.V., openPetition, Transparency International Deutschland e.V., Wikimedia Deutschland und weiteren fordert die Bundesregierung auf, die Pläne zur Einschränkung des Informationsfreiheitsgesetzes zu stoppen. 
+
+[Eine Petition](https://weact.campact.de/petitions/spd-stoppt-den-frontalangriff-auf-die-informationsfreiheit) richtet sich explizit an die SPD-Fraktion im Bundestag, dass diese verhindern soll, dass das Vertrauen in die Politik weiter untergraben wird. Gerade in Zeiten des Erstarkens von autoritären und antidemokratischen Kräften gilt es stattdessen die Demokratie zu stärken. [Über 500.000 Unterschriften](https://bsky.app/profile/arnesemsrott.bsky.social/post/3mqjxva4uns2j) sind inzwischen zusammengekommen. Und für den [FragDenStaat-Spendenaufruf](https://fragdenstaat.de/spenden/ifg-retten/) haben Menschen [innerhalb von nur 7 Tagen](https://chaos.social/@fragdenstaat/117009170393592588) 269.099,08 € zur Rettung der Informationsfreiheit gespendet. Und in der SPD-Fraktion [regt sich](https://www.heise.de/news/Geplante-IFG-Reform-SPD-Fraktion-meutert-gegen-Transparenz-Einschraenkungen-11360018.html) tatsächlich [Widerstand](https://netzpolitik.org/2026/gegenwind-wird-staerker-spd-fraktion-gegen-de-facto-abschaffung-der-informationsfreiheit/).
+
+"Ausgerechnet jene, deren "Interessenkonflikte" durch die Informationsfreiheit ans Licht kamen, wollen sie nun abschaffen. Man könnte fast von einem Interessenkonflikt sprechen.", [kommentiert Linus Neumann](https://23.social/@linuzifer/116878223957100493), Sprecher des Chaos Computer Clubs, den beispiellosen Vorgang.
+
+Greenpeace Investigativ erinnert [in einem Thread](https://greenpeace.social/@gpinvestigativ/116855513559987233) an einige Skandale, die ohne das IFG, nicht ans Tageslicht gekommen wären. Auch den Nutri-Score, den Julia Klöckner als damalige Landwirtschaftsministerin verhindern wollte, [gäbe es ohne IFG nicht](https://bsky.app/profile/chrismethmann.bsky.social/post/3mq4y6k5hds2c), [das Glypohsat-Gutachten wäre nicht online](https://imginn.com/p/DafSuUNMpGI/), man wüsste nicht, dass die EU-Kommission ihren Rahmenvertrag mit Microsoft [ungeprüft einfach verlängert hat](https://social.osb-alliance.de/@OSBA/116890690780792697). Selbst Trump in den USA [hat es nicht gewagt](https://23.social/@derPUPE/116888547294530035), die Informationsfreiheit zu beschränken.
+
+[Nach Recherchen des Tagesspiegels](https://bewegung.social/@a_watch/116911435385491037) soll der Angriff auf das IFG aus dem direkten Umfeld von Alexander Dobrindt (CSU) und Kanzleramtschef Thorsten Frei (CDU) schon seit Wochen vorbereitet worden sein. Belege für die Behauptungen des Regierungssprechers, dass Staatsbediensteten durch das IFG bedroht worden wären, [gibt es nicht]((https://www.heise.de/news/IFG-Reform-Bundesregierung-in-Erklaerungsnot-11364892.html)), genauso wenig, [wie für die Behauptungen](https://bonn.social/@ulrichkelber/116928743668855173) des Kanzleramtsminister Frei, dass IFG-Anfragen gebe, die "gar einige Hunderttausend Euro" Kosten verursachten hätten. Hält andere CDU-MdBs wie Simone Borchardt nicht davon ab, [Aussagen nachzulegen](https://bsky.app/profile/abgeordnetenwatch.de/post/3mrruasbhlk2e), wie "Der Staat ist nicht verpflichtet, die politische Arbeit professioneller und teilweise bereits öffentlich geförderter Organisationen zusätzlich durch kostenlose Verwaltungsleistungen zu subventionieren." und "Das IFG darf kein Instrument sein, mit dem politische Akteure ihre Kampagnenarbeit auf Kosten der Steuerzahler erledigen lassen." "Warum nicht auch das Wählen abschaffen (spart Kosten und Bürokratie)?" [fragt Hajo Schumacher ironisch in seinem Kommentar](https://bewegung.social/@a_watch/116980588943280231).
+
+Ein interner Vermerk des Innenministeriums (BMI) [zeigt zudem](https://fragdenstaat.de/artikel/policy/2026/07/ifg-attacke-3/), dass eine Identifizierungspflicht für alle Menschen eingeführt werden soll, die einen IFG-Antrag stellen. Erklärtes Ziel dabei laut dem Papier: FragDenStaat könne dann "nicht weiterhin als Strohmann eingesetzt werden". Außerdem will Innenminister Dobrindt den Bundesbeauftragten für Informationsfreiheit [ganz abschaffen](https://www.tagesschau.de/investigativ/mdr/ifg-bundesinnenministerium-100.html). Außerdem sollen Ämter keine Dokumente und Unterlagen [mehr herausgeben dürfen](https://netzpolitik.org/2026/fragdenstaat-co-dobrindt-will-transparenz-plattformen-aus-dem-weg-raeumen/), die nicht bei ihnen entstanden sind. Zusätzlich sollen Kanzleramt, Innen- und Verteidigungsministerium vom IFG [ausgenommen werden](https://bewegung.social/@a_watch/116973530456006036) und die neuen Ausnahmen sogar auf das Umweltinformationsgesetz übertragen werden. Nach EU-Recht sind solche Ausschlüsse verboten, aber der Verweis auf die nationale Sicherheit soll auch das umgehen helfen. [Der Autoritarismus ist längst da](https://taz.de/Angriff-auf-die-Informationsfreiheit/!6199153/) – auch ganz ohne AfD.
+
+Wie jetzt schon mit allen Tricks versucht wird, sich aus seinen Transparenzpflichten zu stehlen dokumentiert abgeordnetenwatch: Im Vorfeld der Bundestagswahl warb die Lobbyagentur 365 Sherpas auf ihrer Webseite "Welchen Satz möchten Sie im Koalitionsvertrag 2025–2029 lesen?" Nachdem Friedrich Merz (CDU) letztes Jahr zum Kanzler gewählt wurde, erreichten ihn zahlreiche Glückwunschschreiben, darunter auch von 365 Sherpas. Den Inhalt dieses Schreibens will abgeordnetenwatch [mittels IFG öffentlich machen](https://www.abgeordnetenwatch.de/recherchen/informationsfreiheit/wie-das-kanzleramt-gegen-abgeordnetenwatch-vorgeht). Doch das Kanzleramts verweigert die Herausgabe mit der abenteuerlichen Behauptung, dass abgeordnetenwatch habe den IFG-Antrag gar nicht selbst gestellt habe sondern deren Redaktionsleiter als Privatperson. Nun muss das Berliner Verwaltungsgericht den Vorgang prüfen.
+
+### Weitere Transparenzthemen
 * Brüsseler Vorstoß: Reform soll Informationsfreiheit bei der Kommission schwächen
   https://www.heise.de/news/Bruesseler-Vorstoss-Reform-soll-Informationsfreiheit-bei-der-Kommission-schwaechen-11372679.html
 * Versteckte Kabel oder versteckte Skandale?
   https://fragdenstaat.de/artikel/policy/2026/07/versteckte-kabel-oder-versteckte-skandale/
 * "Schutz kritischer Infrastruktur": Auch Brandenburg will Informationszugang einschränken
   https://netzpolitik.org/2026/schutz-kritischer-infrastruktur-auch-brandenburg-will-informationszugang-einschraenken/
-* Streit um das IFG: Wie das Kanzleramt gegen abgeordnetenwatch vorgeht
-  https://www.abgeordnetenwatch.de/recherchen/informationsfreiheit/wie-das-kanzleramt-gegen-abgeordnetenwatch-vorgeht
-* Kleine Erinnerung: Ohne das IFG gäbe es heute vermutlich keinen NutriScore. Und Julia Klöckner hätte fast gewonnen. 
-  https://bsky.app/profile/chrismethmann.bsky.social/post/3mq4y6k5hds2c
-### Weitere Transparenzthemen
 * Die Bundesregierung will den Ländern per Gesetz die Vergesellschaftung von Wohnraum verbieten
   https://jacobin.de/bundesregierung-reformpaket-vergesellschaftung-verbot-dwe-berlin/
   * Wäre das mit der Kompetenzordnung des Grundgesetzes vereinbar? 
@@ -688,21 +619,14 @@ type: blog
   https://webllm.mlc.ai
 
 ## Recap
-* The Tech We Want for Our BrainCommons
-  https://peertube.tech/a/okfn/videos
+* [The Tech We Want for Our BrainCommons](https://peertube.tech/a/okfn/videos)
 
 ## Und sonst so
-* Totale/Partielle Sonnenfinsternis Schattenverlauf am 12.8.
-  https://datajournal.org/eclipse-2026/de/
-  via https://chaos.social/@michaelkreil/117003257065398473
-  * Lange Nacht der Astronomie
-    https://www.lange-nacht-der-astronomie.de
+Für die totale bzw. partielle Sonnenfinsternis (je nach Beobachtungsstandort) am 12. August hat Michael Kreil den Schattenverlauf [auf einem digitalen Globus abgetragen](https://datajournal.org/eclipse-2026/de/). Die ["Lange Nacht der Astronomie"](https://www.lange-nacht-der-astronomie.de) vereint Veranstaltungen und Veranstaltungsorte rund um Sonnenfinsternis und Perseiden.
 
 ## Fristen
-* NooK, bis 28.09.2026
-  https://chaotikum.org/blog/2026/07/19/nook-2026-cfp/
-* Open Source Multitudes, CfP bis September 2026
-  https://open-source-multitudes.de/call-for-participation/
+* [NooK](https://chaotikum.org/blog/2026/07/19/nook-2026-cfp/), bis 28.09.2026
+* [Open Source Multitudes](https://open-source-multitudes.de/call-for-participation/), CfP bis September 2026
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Sonntag, 02.08.2026, online: **Digital Independence Day** <a title='Kalendereintrag Digital Independence Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYwODAxVDE5MTcxNloNCkRUU1RBUlQ6MjAyNjA4MDJUMDAwMDAwDQpEVEVORDoyMDI2MDgwMlQyMzU5NTkNClNVTU1BUlk6RGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpLmRheQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
