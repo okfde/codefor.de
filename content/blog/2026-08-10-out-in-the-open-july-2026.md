@@ -175,50 +175,41 @@ Mit der Karten-App [stadtsache](https://stadtsache.de), speziell für Kinder und
 Mehr Karten-News gibt es im [Weekly-OSM](https://weeklyosm.eu/de/), hier beispielhaft [für die Woche vom 16.7.](https://weeklyosm.eu/de/archives/18747)
 
 ## Mobilität
-* Wenn die Hitze die Straßenbahn stoppt: Leipzigs Straßenbahnnetz als Warnsignal für klimaresiliente Infrastruktur
-  https://www.urban-transport-magazine.com/wenn-die-hitze-die-strassenbahn-stoppt-leipzigs-strassenbahnnetz-als-warnsignal-fuer-klimaresiliente-infrastruktur/  
-* Eine App für alle Züge? Die Deutsche Bahn blockiert – und der Bund lässt es zu
-  https://t3n.de/news/app-deutsche-bahn-bund-1752095/
-* Günstig Zug fahren im Sommer: Last-Minute-Sparpreise im WDR-Check
-  https://www1.wdr.de/wirtschaft/ratgeber/bahn-reise-ticket-super-sparpreis-100.html
-  via https://norden.social/@wahlatlas/116935504511746935
-* Fahrrad-Unfallorte
-  https://fahrrad-unfallorte.de
-  via https://verkehrswende.social/@zweirat0711/116959366843774346
-* Zukunft Mobilität - Das Wissensportal für Verkehrsplanung & Verkehrswende
-  https://www.zukunft-mobilitaet.net
-  via https://verkehrswende.social/@zukunftmobil/116969796202740859
-* 3 Jahre Deutschlandticket: DBV veröffentlicht systematische Übersicht zu veröffentlichten Studien
-  https://bahnkunden.de/themen/1343-3-jahre-deutschlandticket-dbv-veroeffentlicht-systematische-uebersicht-zu-veroeffentlichten-studien
-* Steffen Bilger wird Verkehrsminister. Bilger ist Auto-Lobbyist und wollte der Deutschen Umwelthilfe die Gemeinnützigkeit und somit das Verbandsklagerecht nehmen lassen. 
-  https://mastodon.social/@hauschke/116987620762533385
-  * Neuer Verkehrsminister Steffen Bilger: Kein Freund von Tempolimit und Verbrenner-Aus
-    https://taz.de/Neuer-Verkehrsminister-Steffen-Bilger/!6199408/
-  * "Wie ein Feudalkönigreich": Nächster CDU-Politiker kritisiert Merz scharf
-    https://www.t-online.de/nachrichten/deutschland/parteien/id_101359386/cdu-politiker-wirft-merz-autoritaeren-fuehrungsstil-vor-feudalkoenigreich-.html
-* Bundesrechnungshof kritisiert Schnieder wegen Verkehrswende-Mängel
-  https://anatoliapulse.com/de/unternehmen/bundesrechnungshof-kritisiert-schnieder-wegen-verkehrswende-maengel
-* Mit Bahn-Vorhersage kann man jetzt Zugverbindungen teilen. Dafür wird ein Link mit OpenGraph Daten erzeugt
-  https://mastodon.social/@mctoel/116985709529122596
-* Was entsteht, wenn 43 Menschen einen Nachmittag lang offene Daten zum Mannheimer Radverkehr auswerten? Zwei öffentliche Dashboards, 20 Problemstellen im Radnetz für die Stadt – und der Fund, dass die Neckarstadt keinen einzigen Zebrastreifen hat.
-  https://mannheim.adfc.de/artikel/hackathon-2026-ergebnisse
-  via https://rheinneckar.social/@adfc_ma/116998315692391758
-* Radatlas Österreich - Karte & Verzeichnis österreichischer Radrouten
-  https://www.data.gv.at/applications/fbff5e9f-fe53-4422-9c87-af2dbd4fdc6a?locale=de
-  via https://mastodon.social/@datagvat/117015232596389768
-* Eine Studie zeigt, dass Pkws in Europa seit dem Jahr 2000 von Jahr zu Jahr länger, höher und breiter geworden sind. Bis 2040 könnte „Carspreading“ zu 400 zusätzlichen Verkehrstoten pro Jahr führen 
-  https://bsky.app/profile/freitag.de/post/3mqfakf7cst26
-* Die wichtigsten Mobilitätsdaten kommen nicht von Google. Sie kommen von Kommunen.
-  https://www.linkedin.com/posts/valentin-gau%C3%9F-waiblingen_mobidata-opendata-mobilitaeutswende-share-7485342596219863040-riYI/
-* Die Berliner Platte: Mobilitätsdaten zum Anfassen
-  https://citylab-berlin.org/blog/die-berliner-platte-mobilitaetsdaten-zum-anfassen/
-* ZDF-Doku „Unsere Bahn: geliebt, verflucht – gefährlich?“
-  https://mediathekviewweb.de/#query=Unsere%20Bahn%3A%20geliebt%2C%20verflucht%20%E2%80%93%20gef%C3%A4hrlich
-  via https://digitalcourage.social/@padeluun/117016009001852875
-* Diese Seite zeigt das Radfahren in Bonn aus offenen Daten
-  https://lage.bonn.machdenstaat.de/fahrradfahren
-  via https://bonn.social/@goern/116868490133449144
-  * weitere Use Cases: https://lage.bonn.machdenstaat.de/bahn
+### Politik
+Durch den Spahn-Rücktritt angestoßenen Personal-Verschiebe-Bahnhof im Bundeskabinett (und der Umstand, dass der bisherige Verkehrsminister Schnieder es gewagt hat, dem Bundeskanzler [offen zu widersprechen](https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-der-preis-des-widerspruchs-der-fall-patrick-schnieder-100.html), selbst andere CDU-Politiker [sprechen von](https://www.t-online.de/nachrichten/deutschland/parteien/id_101359386/cdu-politiker-wirft-merz-autoritaeren-fuehrungsstil-vor-feudalkoenigreich-.html) "Willkür" und Führungsstil wie in einem "Feudalkonigreich"), wird nun, nach kleinem Umweg (der eigentlich vorgesehene fachfremde Finanzexperte Fritz Güntzler hatte den Posten ausgeschlagen), [Steffen Bilger](https://de.wikipedia.org/wiki/Steffen_Bilger#Positionen_und_Kontroversen) neuer Verkehrsminister. Dieser ist kein unbeschriebenes Blatt. Aus seiner Zeit als Staatssekretär im Verkehrsministerium unter Andreas Scheuer wurde schon klar, dass er, einst Fan der geplanten aber rechtswidrigen PKW-Maut für Ausländer, gegen Tempolimit und Verbrenner-Aus ist. Und er war es auch, der den Antrag stellte, zu prüfen, ob man nicht der Deutschen Umwelthilfe (DUH) die Gemeinnützigkeit und somit das Verbandsklagerecht entziehen könnte, da wohl ihm (und den Autoherstellern und Zuliefern in seinem Bezirksverband) deren Klagen auf Fahrverbote für Dieselfahrzeuge im wohl nicht in den Kram gepasst haben. 
+
+### Verkehrswende
+Der Deutsche Bahnkunden-Verband e.V. [aggregiert](https://bahnkunden.de/themen/1343-3-jahre-deutschlandticket-dbv-veroeffentlicht-systematische-uebersicht-zu-veroeffentlichten-studien) in seiner [22-seitigen Publikation](https://bahnkunden.de/images/quantum/oeffentlichedokumente/2026-05-01_3_jahre_deutschlandticket.pdf) die wichtigsten und wesentlichsten Ergebnisse anderer Untersuchen und Studien, die es zur Wirkung des Deutschlandtickets gibt, das am 1. Mai 2023 eingeführt wurde. 
+
+Auf dem Blog [Zukunft Mobilität](https://www.zukunft-mobilitaet.net) finden sich zahlreiche Artikel rund um Verkehrsplanung und Verkehrswende. So sollen helfen, die aktuelle Mobilitätstrends und Entwicklungen besser zu verstehen.
+
+Die Hitzeperiode im Juni [hat gezeigt](https://www.urban-transport-magazine.com/wenn-die-hitze-die-strassenbahn-stoppt-leipzigs-strassenbahnnetz-als-warnsignal-fuer-klimaresiliente-infrastruktur/), dass die Gleis- und Straßeninfrastruktur nicht überall auf die extremen Temperaturen vorbereitet ist.
+
+### Zugverkehr
+Die Deutsche Bahn [weigert sich weiterhin](https://t3n.de/news/app-deutsche-bahn-bund-1752095/), ihren DB Navigator für die Konkurrenz im Fernverkehr zu öffnen. Stattdessen soll es mit DBInfo ein zusätzliche App geben, die die Verbindungen der Mitbewerber mit anzeigt, aber ihre Buchung nicht unterstützt.
+
+Generell scheinen einige bei Bahn nicht gut mit Kritik umgehen zu können. Die ZDF-Doku ["Unsere Bahn: geliebt, verflucht – gefährlich?"](https://mediathekviewweb.de/#query=Unsere%20Bahn%3A%20geliebt%2C%20verflucht%20%E2%80%93%20gef%C3%A4hrlich) wurde [als "in hohem Maße unseriös“ und als "Zerrbild" bezeichnet](https://www.focus.de/kultur/kino-tv/zdf-kontert-bahn-kritik-an-hayali-doku-keine-inhaltlichen-maengel_043a90be-5cb2-4dd5-89c3-af42deb915b1.html), und wollte am liebsten den Beitrag aus der Mediathek entfernt haben. Nach der Ausstrahlung wurden transparent dokumentiert die Zahl digitaler Stellwerken  als auch die Betitelung einer Pünktlichkeitsgrafik vom ZDF korrigiert, an der Grundaussage ändere sich aber dadurch nichts. 
+
+Auf [bahnvorhersage.de](https://bahnvorhersage.de/) kann man jetzt [Zugverbindungen teilen](https://mastodon.social/@mctoel/116985709529122596). Der Link dazu wird aus OpenGraph Daten erzeugt.
+
+Der WDR hat auf Grundlage von Datenanalysen [einige Strategien zusammengetragen](https://www1.wdr.de/wirtschaft/ratgeber/bahn-reise-ticket-super-sparpreis-100.html), wie man am besten Last-Minute-Sparpreise bei der Bahn ergattern kann.
+
+### Radverkehr
+[Im Rahmen des Q2 DataRide Hackathons](https://mannheim.adfc.de/artikel/hackathon-2026-ergebnisse) haben 43 Menschen einen Nachmittag lang offene Daten zum Mannheimer Radverkehr ausgewertet. [Entstanden sind](https://rheinneckar.social/@adfc_ma/116998315692391758) zwei öffentliche Dashboards, 20 Problemstellen im Radnetz wurden identifiziert, und die überraschende Erkenntnis gewonnen, dass die Neckarstadt keinen einzigen Zebrastreifen hat.
+
+[Lage](https://lage.bonn.machdenstaat.de/vision) als Bonner Nachrichten-Aggregator aus lokalen Feeds und offenen Verwaltungs-APIs wird stetig um neue Anwendungsfälle [erweitert](https://bonn.social/@goern/116868490133449144). So zeigt die Seite ["Fahrradfahren"](https://lage.bonn.machdenstaat.de/fahrradfahren) sowohl Stadtratsvorlagen als auch Sitzungsprotokolle mit Bezug zum Radverkehr. Für Bahn, ÖPNV, Brücken, Baustellen und Verkehr gibt es [ein weiteres Lagebild](https://lage.bonn.machdenstaat.de/bahn). 
+
+[Fahrrad-Unfallorte](https://fahrrad-unfallorte.de) zeigt die Orte angezeigt, an denen laut Unfallatlas Deutschland Verkehrsunfälle mit Radfahrer:innen passiert sind.
+
+Der [Radatlas Österreich](https://radatlas.at/de/), hier auch als [Eintrag im data.gv.at](https://www.data.gv.at/applications/fbff5e9f-fe53-4422-9c87-af2dbd4fdc6a?locale=de), ist sowohl Karte als auch Verzeichnis österreichischer Radrouten.
+
+### Verkehrsdaten
+[Valentin Gauß erinnert](https://www.linkedin.com/posts/valentin-gau%C3%9F-waiblingen_mobidata-opendata-mobilitaeutswende-share-7485342596219863040-riYI/): "Die wichtigsten Mobilitätsdaten kommen nicht von Google. Sie kommen von Kommunen." Damit Mobilität funktioniert, braucht es eine verlässliche kommunale Datengrundlage. Daten wie Parkraum, ÖPNV-Angebote, Radinfrastruktur, Ladesäulen müssen digital strukturiert, offen und kostenlos zur Verfügung gestellt werden.
+
+An einem [physischen Ausstellungsobjekt](https://citylab-berlin.org/blog/die-berliner-platte-mobilitaetsdaten-zum-anfassen/) können Besuchende aus vier Holzblöcken, die Fußgänger:innen, Fahrradfahrer:innen, Autos und LKWs repräsentieren, einen Verkehrsmix zusammenstellen. Anschließend werden die drei Straßen Berlins ausgegeben, auf die der gewählte Mix am ehesten zutrifft. 
+
+
+[Die Zahlen einer Studie belegen](https://www.theguardian.com/environment/2026/jun/24/carspreading-vehicle-size-crash-deaths-study), dass die PKWs in Europa seit der Jahrtausendwende von Jahr zu Jahr sowohl länger als auch höher und breiter geworden sind. Bis 2040 könnten 400 zusätzliche Verkehrstote auf dieses "Carspreading" zurückzuführen sein.
 
 ## Energie
 * Hunderte Milliarden Euro an Klimaschäden durch deutschen Solarstrom gespart
