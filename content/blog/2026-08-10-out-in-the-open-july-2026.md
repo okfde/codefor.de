@@ -208,45 +208,27 @@ Der [Radatlas Österreich](https://radatlas.at/de/), hier auch als [Eintrag im d
 
 An einem [physischen Ausstellungsobjekt](https://citylab-berlin.org/blog/die-berliner-platte-mobilitaetsdaten-zum-anfassen/) können Besuchende aus vier Holzblöcken, die Fußgänger:innen, Fahrradfahrer:innen, Autos und LKWs repräsentieren, einen Verkehrsmix zusammenstellen. Anschließend werden die drei Straßen Berlins ausgegeben, auf die der gewählte Mix am ehesten zutrifft. 
 
-
 [Die Zahlen einer Studie belegen](https://www.theguardian.com/environment/2026/jun/24/carspreading-vehicle-size-crash-deaths-study), dass die PKWs in Europa seit der Jahrtausendwende von Jahr zu Jahr sowohl länger als auch höher und breiter geworden sind. Bis 2040 könnten 400 zusätzliche Verkehrstote auf dieses "Carspreading" zurückzuführen sein.
 
 ## Energie
-* Hunderte Milliarden Euro an Klimaschäden durch deutschen Solarstrom gespart
-  https://www.heise.de/news/Deutscher-Solarstrom-spart-hunderte-Milliarden-Euro-an-Klimaschadenskosten-11339339.html
-* Niederlande planen größten Eisen-Luft-Energiespeicher Europas
-  https://www.basicthinking.de/blog/2026/07/06/eisen-luft-energiespeicher/
-* Making Climate Targets Transparent with the Climate Policy Atlas (NFDI4Energy)
-  https://www.nfdi.de/making-climate-targets-transparent-with-the-climate-policy-atlas-nfdi4energy/?lang=en
-* EU-Kommission will Emissionshandel aufweichen
-  https://www.tagesschau.de/wirtschaft/unternehmen/emissionshandel-klimaschutz-100.html
-  * Erst kassieren, dann attackieren: Angriff der Chemie-Lobby auf den EU-Emissionshandel
-    https://correctiv.org/aktuelles/lobbyismus/2026/07/06/emissonshandel-chemie-lobby-attackiert-klimaschutz/
-  * Die EU-Kommission zerstört im heißesten Sommer aller Zeiten ihr wichtigstes Klimaschutzinstrument
-    https://bsky.app/profile/michabloss.bsky.social/post/3mqu23bde6k2f
-* New report from Energy Innovation, using the open source Switch model and open data inputs including PUDL to demonstrate the cost-effectiveness and reliability of clean energy + storage
-  https://energyinnovation.org/report/let-the-sun-in-clean-energy-is-the-cheapest-way-to-meet-rising-demand/
-  via https://mastodon.energy/@catalystcoop/116936535131681780
-* Katherina Reiche: Die Eon-Ministerin
-  https://fragdenstaat.de/artikel/exklusiv/2026/07/die-eon-ministerin/
-* Europa schafft Durchbruch bei Batteriespeichern
-  https://taz.de/die-gute-nachricht/!6192529/
-  * aber: Neue Gaskraftwerke: Bundestag gibt grünes Licht
-    https://www.zdfheute.de/politik/deutschland/bundestag-gaskraftwerke-bau-strom-100.html
-    via https://mastodon.social/@teilenswert/116969154680348667
-* Dem Energiekonzern ExxonMobil passen die EU-Vorgaben zum Klimaschutz nicht. Nun droht das US-Unternehmen, die EU vor einem privaten Schiedsgericht zu verklagen.
-  https://taz.de/Unbequeme-Klimaschutzvorgaben/!6199402/
-  via https://dju.social/@DerKlimablog/117008463368325908
-  * Kalifornien zeigt der Welt, wie es geht – Ölmultis in Bedrängnis
-    https://derklimablog.de/politik/kalifornien-zeigt-der-welt-wie-es-geht-oelmultis-in-bedraengnis/
-* Reiche saß mit Trumps Energiestrategen auf einem Podium – jetzt klagt die Umwelthilfe
-  https://www.tz.de/politik/podium-deutsche-umwelthilfe-klagt-wegen-us-lobbykontakten-reiche-mit-trumps-energiestratege-auf-zr-94392552.html
-  * EU-Methanverordnung: Keine Strafen für den Klimakiller Methan
-    https://taz.de/EU-Methanverordnung/!6197822/
-* Forscher entwickeln Algen-Batterien, die rund um die Uhr Strom erzeugt
-  https://www.basicthinking.de/blog/2026/07/14/algen-batterien-statt-lithium/
-* Voll mit hängendem Beton: China nimmt Gravitations-Speicher in Betrieb
-  https://www.basicthinking.de/blog/2026/07/15/gravitations-energiespeicher/
+### Klimaziele
+[Mit dem Climate Policy Atlas (NFDI4Energy)](https://www.nfdi.de/klimaziele-transparent-machen-mit-dem-climate-policy-atlas-nfdi4energy/) sollen offene, maschinenlesbare Datensätze mit politischen Vorhaben verknüpft werden, um so eine faktenbasierte Diskussionsgrundlage für eine effektive und informierte Klimaschutzpolitik zu legen.
+
+Der Bundesverband Solarwirtschaft (BSW-Solar) [hat ausgerechnet](https://www.heise.de/news/Deutscher-Solarstrom-spart-hunderte-Milliarden-Euro-an-Klimaschadenskosten-11339339.html), dass die zwischen 2020 und 2025 rund 6 Millionen installierten Solarstromanlagen dazu beigetragen haben, 20 Milliarden Euro teure fossile Energieimporte zu ersetzen und dabei auch gleichzeitig Klimaschäden vermieden hat (deren Kosten sich mit 250 Milliarden Euro beziffern ließen). 
+
+### Fossillobby
+Just als der Emissionshandel anfängt Wirkung zu zeigen und den größten CO2-Emititten anfängt, kostenmäßig weh zu tun, [versucht die Chemieindustrie](https://correctiv.org/aktuelles/lobbyismus/2026/07/06/emissonshandel-chemie-lobby-attackiert-klimaschutz/) das Klimaschutzinstrument auf EU-Ebene zu schwächen. Ihnen stehen die Unternehmen gegenüber, die bereits in Erwartung steigender CO2-Preise in klimafreundliche Technologien investiert haben, und sich nur veralbert vorkommen würden, sollten sich die Lobbyisten durchsetzen. Deren Formulierung finden sich zum Teil eins zu eins in den Dokumenten der Bundesregierung wieder. Dabei haben diese Firmen jahrelang von den Vergünstigungen durch den Emissionshandel profitiert. Und die EU-Kommission [plant nun tatsächlich](https://www.tagesschau.de/wirtschaft/unternehmen/emissionshandel-klimaschutz-100.html), die Zertifikate langsamer zu verknappen als eigentlich mal angedacht war. [Damit verbrennt](https://bsky.app/profile/michabloss.bsky.social/post/3mqu23bde6k2f) aus Sicht von Michael Bloss die EU ihren Green Deal.
+
+[Interne Dokumente belegen](https://fragdenstaat.de/artikel/exklusiv/2026/07/die-eon-ministerin/), dass Wirtschaftsministerin Reiche immer noch per Du mit hochrangigen EON-Managern ist. Kein Wunder also, das man EON-Konzepte wie den "Redispatch-Vorbehalt" quasi als Freundschaftsdienst in die eigenen Gesetze aufnimmt. So werden die Ausbauziele für erneuerbare Energien weiter behindert, sehr zur Freude der Fossilkonzerne, mit dem Netzpaket spart Eon einiges an Geld.
+
+Die Ministerin [forderte auch](https://www.tz.de/politik/podium-deutsche-umwelthilfe-klagt-wegen-us-lobbykontakten-reiche-mit-trumps-energiestratege-auf-zr-94392552.html) die EU-Methanverordnung zu verschieben. An der wird [zwar weiter festgehalten](https://taz.de/EU-Methanverordnung/!6197822/), aber Gas- und Ölunternehmen müssen beim Verstoß drei Jahre lange keine Strafen fürchten. Ein Zugeständnis an den Druck der US-Regierung (und der US-LNG-Industrie). Mit "Trumps Energiestrategen" saß zuvor Katharina Reiche in den USA im Rahmen der Konferenz CERA Week auf einem Podium. Die Deutsche Umwelthilfe klagt nun gegen das Wirtschaftsministerium, weil die angefragten US-Gaslobbykontakte nicht offengelegt worden sind.
+
+Der Mineralölkonzern ExxonMobil, ebenfalls ein Unternehmen aus den USA, möchte die EU [vor einem privaten Schiedsgericht verklagen](https://taz.de/Unbequeme-Klimaschutzvorgaben/!6199402/), weil sie deren Klimavorgaben als zu kostspielig empfindet. Dabei werden Klimaschäden immer teurer, aber die Kosten lassen sich ja auf die Allgemeinheit sozialisieren. Doch seit ein paar Jahren [regt sich von 37 Kommunen in Kalifornien](https://derklimablog.de/politik/kalifornien-zeigt-der-welt-wie-es-geht-oelmultis-in-bedraengnis/) Widerstand in Form von Klagen, Anhörungen und Prozessen gegen die wahren Verantwortlichen, dieser könnte Vorbild für den Rest der Welt sein.  
+
+### Speicher
+Die Kapazität der stationären Batteriespeicher in Europa [haben sich letztes Jahr um 55% erhöht](https://taz.de/die-gute-nachricht/!6192529/). Damit könnte man sich eigentlich die Reserve in Form von Gaskraftwerke sparen, doch genau den Bau solcher Kraftwerke hat der Bundestag [gerade abgenickt](https://www.zdfheute.de/politik/deutschland/bundestag-gaskraftwerke-bau-strom-100.html), damit kommen auf Jahrzehnte hohe Kosten auf den Steuerzahler zu, für Gaskraftwerke, die am Ende niemand braucht. 
+
+Derweil entstehen immer neue Speicher, seien es [Algen-Batterien](https://www.basicthinking.de/blog/2026/07/14/algen-batterien-statt-lithium/), die Planung [des größten Eisen-Luft-Energiespeichers Europas](https://www.basicthinking.de/blog/2026/07/06/eisen-luft-energiespeicher/) in den Niederlanden, oder der [Gravitations-Speicher in China](https://www.basicthinking.de/blog/2026/07/15/gravitations-energiespeicher/), bei dem Betonblöcke erst in die Höhe gehoben werden, und durch deren Wiederabsenken Strom zurückgewonnen wird.
 
 ## Klima
 * Die globale Bestandsaufnahme in den neuen Klimaschutzbeiträgen
