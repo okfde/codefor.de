@@ -145,44 +145,34 @@ Ein Ausschreibung des US-Außenministerium mit dem Namen "Developing Civilizatio
 Die im Rahmen des Digital Markets Act (DMA) von der EU-Kommission [verhängten zwei Strafen](https://netzpolitik.org/2026/unfairer-wettbewerb-eu-kommission-verhaengt-890-millionen-euro-strafe-gegen-google/) gegen Google fallen wahrscheinlich genau darunter. Die erste Strafe von 460 Millionen Euro bezieht sich auf die Bevorzugung Google-eigener Dienste in den Suchtreffern, die zweite Strafe von 430 Millionen Euro gibt es für die Behinderung im Google Play Store, auf günstigere Angebote außerhalb dieses Store verweisen zu können.
 
 ## Verwaltungsdigitalisierung
-* Warum "Nachnutzung" ein irreführender Erfolgsindikator fuer Freie Software im Verwaltungskontext ist.
-  https://stefan.bloggt.es/2026/07/nachnutzung-als-irrefuehrender-erfolgsindikator-bei-freie-software-projekten-der-oeffentlichen-hand/
-* Sachverständige warnen vor fehlendem Datenschutz und einer überhasteten Einführung der EUDI-Wallet.
-  https://www.heise.de/news/Ist-das-Projekt-noch-zu-retten-Experten-zweifeln-an-Umsetzung-der-EUDI-Wallet-11360249.html
-* Mehr Sicherheit im Amt: Wie das Bundesdruckerei-Projekt Möve Behörden-KI zähmt
-  https://www.heise.de/news/Mehr-Sicherheit-im-Amt-Wie-das-Bundesdruckerei-Projekt-Moeve-Behoerden-KI-zaehmt-11370014.html
-* Studie: Die externe Angriffsfläche der IT der Bundesministerien
-  https://www.athene-center.de/aktuelles/news/studie-die-externe-angriffsflaeche-der-it-der-bund-1841
-* Erfahrungen mit SPARK - (3) Betriebsaufwand und Machbarkeit für Kommunen
-  https://www.linkedin.com/feed/update/urn:li:activity:7481260759122010112/
-* Mayor Mamdani Launches "Public Interest Technology (PIT) Crew" to Rapidly Build Digital Solutions to Public Problems
-  https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-launches--public-interest-technology--pit--crew--t
-* Mit dem Abschluss des Vorprojekts „Datenlandkarte föderal“ liegt erstmals ein föderal nachnutzbarer Ansatz zur Beschreibung und Vernetzung von Datenressourcen in der öffentlichen Verwaltung vor.
-  https://www.linkedin.com/posts/itplr-gemeinsamwirksam-digitalstrategie-share-7485292719431430145-MtaS/
-* eGovernment Podcast Monatsschau 07/26
-  https://egovernment-podcast.com/egov272-monatsschau-07-26/
+Das in Hamburg im Rahmen einer geplanten Datenlandkarte entstandene [ReportDCAT-AP](https://reportdcat-ap.de) (als standardkompatible Erweiterung des deutschlandweiten Metadatenmodells als Austauschformat für offene Verwaltungsdaten [DCAT-AP.de](https://www.dcat-ap.de)) wurde im Zuge des jetzt abgeschlossenen Projekts [Datenlandkarte föderal](https://www.it-planungsrat.de/aktuelles/details/vorprojekt-datenlandkarte-foederal-schafft-grundlage-fuer-transparentes-datenmanagement) gezielt [für die Nachnutzung weiterentwickelt](https://www.linkedin.com/posts/itplr-gemeinsamwirksam-digitalstrategie-share-7485292719431430145-MtaS/). Die Erweiterung führt z.B. Konzepte wie IT-Verfahren, Bericht und Fachkennzahl ein.  
+
+[Stefan bezweifelt](https://stefan.bloggt.es/2026/07/nachnutzung-als-irrefuehrender-erfolgsindikator-bei-freie-software-projekten-der-oeffentlichen-hand/), dass eine besonders häufige "Nachnutzung" wirklich in jedem Fall ein Indikator für den erfolgreichen Einsatz einer freie Software im Verwaltungskontext ist. Denn der Ansatz Build-Once-Run/Adapt-Anywhere klingt zwar schlüssig, blendet aber aus, dass für jede neue Instanz auch wieder Betreungsaufwand anfällt, für den Betrieb, Pflege der lokalen Anpassungen, Integration von Updates vom geforkten Hauptprojekt (ohne die lokalen Anpassungen zu zerstören). Mit einem zentralen Betrieb würden die Aufwände nur einmal anfallen, Customizing und Theming könnten über Konfiguration und Feature-Flags innerhalb der Software gelöst werden. Macht sie damit zwar potenziell komplizierter, aber ist immer noch einfacher zu händeln, als zich Forks synchron und kompatibel zu halten. Stört natürlich gewisse Geschäftsmodelle, die eine einmal gebaute Lösung an mehrere Kommunen verticken und auch am Mehrfachbetrieb mitverdienen zu wollen. Und natürlich auch manches Regionalfürsten-Ego, das eine "eigene" (angepasst) Lösung haben will und nicht den Aufwand, sich mit anderen abstimmen und vielleicht auch Kompromisse in der gemeinsamen Nutzung eingehen zu müssen. Dafür könnte man aber viel größer denken und wirkliche strategische Entscheidungen treffen, als wenn jeder an seinem Flickenteppich klöppelt. Aber eine Fördermittellandschaft, die immer nur Geld für neue und innovative Projekte gibt, leistet dazu auch keinen Beitrag. Es fehlt Infrastrukturförderung.
+
+Sachverständige [äußern deutliche Kritik](https://www.heise.de/news/Ist-das-Projekt-noch-zu-retten-Experten-zweifeln-an-Umsetzung-der-EUDI-Wallet-11360249.html?seite=all) an der geplanten Einführung der europäischen digitalen Identitätswallet (EUDI-Wallet), es gebe noch zu viele offene Flanken, als das man sie schon mit Beginn des nächsten Jahres produktiv setzen sollte. Auch die intransparente Prozesse rund um die Entwicklung der Wallet wird bemängelt. 
+
+Der Name des [Bundesdruckerei-Projekts MÖVE](https://moeve.bundesdruckerei.de) steht für "Modelle für die öffentliche Verwaltung evaluieren". Diesem KI-TÜV sollen kommerzielle wie quelloffenen LLMs in Praxistests mit Daten aus dem Behördenalltag [unterzogen werden](https://www.heise.de/news/Mehr-Sicherheit-im-Amt-Wie-das-Bundesdruckerei-Projekt-Moeve-Behoerden-KI-zaehmt-11370014.html), um in ihnen zu bewerten, wie sich die Sprachmodell sich hinsichtlich "Leistungsfähigkeit, Sicherheit, Nachhaltigkeit, Transparenz und Vereinbarkeit mit demokratischen Werten" unterscheiden und eignen. Die Bewertungsmethodik [steht Open Source](https://github.com/Bundesdruckerei-GmbH/moeve-lmbench).
+
+Die aktuelle [ATHENE-Studie](https://www.athene-center.de/fileadmin/Studien/ATHENE-Lagebild-Bericht_Bundesministerien.pdf?_=1785238318) hat die externe Angriffsfläche der IT in den Bundesministerien [neuvermessen](https://www.athene-center.de/aktuelles/news/studie-die-externe-angriffsflaeche-der-it-der-bund-1841). Die identifizierten Lücken lassen sich neben dem Missachten grundlegender Sicherheitsmaßnahmen, auch auf fehlende verbindlichen Sicherheitsvorgaben in Betreiberverträgen als auch der mangelnde Bereitschaft, veraltete Systeme abzuschalten, zurückführen.
+
+Thomas Bönig hat sich das Setup der KI-Plattform SPARK [näher angeschaut](https://www.linkedin.com/feed/update/urn:li:activity:7481260759122010112/) und kommt zum Schluss, dass im kommunalen Bereich, der eigenständige Betrieb "weder realistisch noch empfehlenswert" ist.
+
+Weitere Themen aus der deutschen Verwaltungsdigitalisierung wurden in der eGovernment Podcast [Monatsschau 07/26 besprochen](https://egovernment-podcast.com/egov272-monatsschau-07-26/).
+
+New Yorks neuer Bürgermeister Zohran Mamdani führt mit den [Public Interest Technology (PIT) Crews](https://www.nyc.gov/content/pitcrew/pages/) fünf Technologieteams ein, die in den städtischen Behörden die dortigen Probleme mit digitalen In-House-Lösungen [angehen sollen](https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-launches--public-interest-technology--pit--crew--t).
 
 ## Karten
-* Weekly OSM 16.7.
-  https://weeklyosm.eu/de/archives/18747
-* Geodaten in Berlin besser finden: Der GeoExplorer kommt dem Dauerbetrieb näher.
-  https://www.linkedin.com/posts/hans-hack-001683303_geodaten-in-berlin-besser-finden-der-ugcPost-7480157388214542337-EMx7/
-* Deine emotionale Stadt - Die Karte
-  https://odis-berlin.de/projekte/2026-05-emotionskarte/
-* Die App stadtsache ist ein Werkzeug, um Fotos, Töne, Videos zu sammeln, Wege aufzuzeichnen und Dinge zu zählen
-  https://stadtsache.de
-* Interaktive Karten werden oft bei kommerziellen Anbietern außerhalb des EU-Rechtsraums eingekauft. Das bringt Abhängigkeit, Rechtsunsicherheit und kann schnell mehrere zehntausend € im Monat kosten. Unser Gegenvorschlag: Lasst uns solche digitale Infrastruktur gemeinsam über ein Konsortium betreiben
-  https://versatiles.org/consortium/de
-  https://mastodon.social/@VersaTiles/116963479586541897
-  * Inzwischen geht mir das Geld aus. Wenn sich nichts ändert, muss ich die Entwicklung von VersaTiles in den nächsten Monaten einstellen.
-    https://www.linkedin.com/posts/michael-kreil-2a5798226_2023-habe-ich-beim-swr-ein-open-source-kartensystem-share-7485654239264935936-Jp85/
-* Mit DEUKOS lassen sich die amtlichen 3D-Geodaten aller 16 Bundesländer erstmals über einen einheitlichen Workflow nutzen.
-  https://www.linkedin.com/posts/gerd-knobling-35400122_jedes-bundesland-stellt-seine-geodaten-anders-share-7483577961762447360-6vNF/
-* Offene Geodaten für Winterthur: Wir unterstützen "Open by Default"
-  https://www.linkedin.com/posts/winterthur-opengovernmentdata-ogd-share-7482688857398927360-G5HZ/
-* Internet Radio
-  https://mastodon.social/@limebar/116858012736275906
-  * https://www.radio-browser.info
+Michael Kreil [sucht für sein Versatiles-Projekt mindestens zehn Organisationen](https://versatiles.org/consortium/de), die mit ihnen zusammen das erste nutzergetragene Open-Source-Konsortium für Karten in Europa [gründen möchten](https://mastodon.social/@VersaTiles/116963479586541897). Denn aktuell wird die digitale Infrastruktur für interaktive Karten oft bei kommerziellen Anbietern außerhalb des EU-Rechtsraums eingekauft, mit den dann verbundenen Abhängigkeiten, Rechtsunsicherheiten und eben auch Kosten, die schon in die 10-tausende Euro pro Monat gehen können. Aber eine alternative offene Infrastruktur muss halt auch [irgendwie finanziert werden](https://www.linkedin.com/posts/michael-kreil-2a5798226_2023-habe-ich-beim-swr-ein-open-source-kartensystem-share-7485654239264935936-Jp85/), sonst wird die Weiterentwicklung irgendwann eingestellt.
+
+In der Schweizer Stadt Winterthur sollen gemäß ihrem beschlossenen Open-Government-Data-Konzept nicht schützenswerte Verwaltungsdaten künftig nach dem Prinzip "Open by Default" [zugänglich gemacht werden](https://www.linkedin.com/posts/winterthur-opengovernmentdata-ogd-share-7482688857398927360-G5HZ/). Die Geoinformation Winterthur setzt diesen eingeschlagenen Weg für ihren Bereich der Geodaten konkret durch die [OGC API](https://stadtplan.winterthur.ch/ogc/features/) um, für die sukzessive weitere Geodatensätze freigegeben werden.
+
+Der GeoExplorer der ODIS Berlin, der Geodaten in Berlin besser finden und anzeigen kann, [reift in Richtung](https://www.linkedin.com/posts/hans-hack-001683303_geodaten-in-berlin-besser-finden-der-ugcPost-7480157388214542337-EMx7/) dauerhaften Betrieb: Daten werden nun wöchentlich automatisch aktualisiert, die Datenbank wurde auf die landeseigene Infrastruktur umgezogen und für die KI-Komponenten kommen von europäischen Anbieter.
+
+Vom ODIS stammt auch das Projekt ["Deine emotionale Stadt"](https://odis-berlin.de/projekte/2026-05-emotionskarte/), eine interaktive Karte basierend auf Citizen-Science-Daten, die sichtbar macht, wie sich Menschen in Berlin im Alltag fühlen.
+
+Mit der Karten-App [stadtsache](https://stadtsache.de), speziell für Kinder und Jugendliche gedacht, sammeln diese Fotos, Töne, Videos, zeichnen Wege auf, zählen Dinge. Den so erfassten Objekten lassen sich dann anschließend Aufgaben und Aktionen zuordnen und können mit anderen Nutzern der App geteilt werden.
+  
+Mehr Karten-News gibt es im [Weekly-OSM](https://weeklyosm.eu/de/), hier beispielhaft [für die Woche vom 16.7.](https://weeklyosm.eu/de/archives/18747)
 
 ## Mobilität
 * Wenn die Hitze die Straßenbahn stoppt: Leipzigs Straßenbahnnetz als Warnsignal für klimaresiliente Infrastruktur
