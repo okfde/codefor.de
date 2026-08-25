@@ -272,93 +272,61 @@ Damit würde transparenter werden, [dass die Industrie weiter fröhlich pumpt](h
 Der rekordniedrige Pegelstand der Donau hat in Bulgarien ein [Mammut-Skelet](https://www.reuters.com/business/environment/mammoth-remains-revealed-bulgaria-after-danube-water-levels-hit-record-low-2026-07-29/) und in Serbien ein [Nazi-Schiffswrack](https://www.fr.de/wissen/nazi-kriegschiff-im-donau-niedrigwasser-aufgetaucht-zr-94423877.html) freigelegt.  
 
 ## Gesundheit
+### Politik
 Und schon wieder das [Koalitionsausschuss-Papier von CDU, CSU und SPD](https://www.bundesregierung.de/resource/blob/2196306/2445592/bc8e5e160d879f0bdd593121a96a45d2/2026-07-02-koaausschuss-data.pdf), diesmal Punkt 11: "Die telefonische Krankschreibung wird abgeschafft und die unrichtige Ausstellung einer Arbeitsunfähigkeitsbescheinigung nach §278 StGB stärker bestraft. Wir führen eine verpflichtende Vorlage der AU-Bescheinigung ab dem ersten Tag der Erkrankung ... ein".
 Aus der Reihe, wie sehr kann man sein Volk hassen. Dabei war die telefonische Krankschreibung ursprünglich eingeführt worden, um Arztpraxen zu entlasten. [Wie dieser Arzt schreibt](https://mastodon.social/@andrmr/116849275175228397), wird er nun sogar eher die Patienten eher länger krank schreiben. Kassenärztliche Vereinigungen, Hausärzt:innen und Krankenkassen [sprechen unisono von Irrsinn](https://www.heise.de/news/Ende-der-Telefon-AU-Irrsinn-der-fuer-Millionen-zusaetzliche-Arztbesuche-sorgt-11352394.html). Das Zentralinstitut für die kassenärztliche Versorgung (Zi) führte bereits Anfang des Jahres den Anstieg der AU-Zahlen primär auf Meldeeffekte durch die 2022 eingeführte elektronische Krankmeldung sowie ein erhöhtes Infektionsgeschehen zurück, und damit eben nicht auf die Telefon-AU. Die Zahl der AU-Meldungen ist 2025 laut Gematik-Daten sogar wieder um neun Prozent zurückgegangen. Trotz all diesen Fakten unterstellen die Politiker der Koalition weiterhin der Bevölkerung tendenziell zu betrügen. Vielleicht sollten sie nicht immer von sich auf andere schließen?
 
-* Betriebsärzte sollen Zugriff auf die ePA bekommen
-  https://www.golem.de/news/schweigen-als-zustimmung-betriebsaerzte-sollen-zugriff-auf-die-epa-bekommen-2607-210618.html
-* CDU/CSU und SPD entziehen Psychotherapiepraxen die Existenzgrundlage
-  https://www.psychotherapieverbund.de/todesstoss
-  * Regierung stößt Psychotherapie in den Abgrund. Wie es jetzt mit den Behandlungen weitergeht
-    https://psy-cast.org/regierung-stoesst-psychotherapie-in-den-abgrund-wie-es-jetzt-mit-den-behandlungen-weitergeht/
-* Krankenhaus-IT: Wenn "läuft doch noch" nicht reicht
-  https://www.heise.de/news/Krankenhaus-IT-Wenn-laeuft-doch-noch-nicht-reicht-11362176.html
-* Nun macht er also doch das, was er nach eigenen Angaben nicht kann: Der designierte Gesundheitsminister Carsten Linnemann
-  https://taz.de/Kuenftiger-Gesundheitsminister-Linnemann/!6199156/
-  via https://mastodon.social/@tazgetroete/116981327989635691
-  * Der neue Gesundheitsminister Carsten Linnemann. Im Mai letzten Jahres
-    https://bsky.app/profile/bsagt.bsky.social/post/3mrfgl3vybk2o
-    kam sogar bei Tagesschau im Beitrag: https://www.tagesschau.de/tagesschau_20_uhr/video-1620142.html
-* DigitalRadar Krankenhaus
-  https://www.digitalradar-krankenhaus.de
-* Fehlinvestitionen: Krankenkassen verlieren mindestens 170 Millionen Euro
-  https://www.tagesschau.de/investigativ/ndr-wdr/krankenkassen-immobilienfonds-100.html
+[Ein Änderungsantrag](https://www.aerztezeitung.de/Politik/Psychotherapeuten-Honorare-Erst-Kuerzung-dann-weitere-Verunsicherung-463696.html) von CDU/CSU und SPD zum [GKV-Beitragssatzstabilisierungsgesetz](https://www.aerztezeitung.de/Politik/Bundestag-beschliesst-umstrittenes-GKV-Spargesetz-Extra-Verguetungen-fuer-Praxen-fallen-weg-463710.html) sorgt dafür, dass der gesetzliche Schutz des Mindesthonorars für Psychotherapeuten als auch die Angemessenheitsprüfung gestrichen werden. Der Psychotherapieverbund [prophezeit](https://www.psychotherapieverbund.de/todesstoss), dass zahlreiche Praxen werden schließen müssen, da für viele eine Existenz bei diesem niedrigen und unsicheren Niveau nicht mehr zumutbar ist. Der Podcast "Rätsel des Unbewußten", [stellt Überlegungen](https://psy-cast.org/regierung-stoesst-psychotherapie-in-den-abgrund-wie-es-jetzt-mit-den-behandlungen-weitergeht/) an, wie es jetzt mit den Behandlungen weitergehen könnte.
+
+In der Regierung werden Posten nicht nach Kompetenz sondern nach Loyalität vergeben, anders kann man sich nicht erklären, dass Carsten Linnemann neuer Gesundheitsminister, seine [eigene Aussage](https://bsky.app/profile/bsagt.bsky.social/post/3mrfgl3vybk2o) aus dem Mai 2025 (an die sogar der Tagesschaubeitrag [erinnert](https://www.tagesschau.de/tagesschau_20_uhr/video-1620142.html)) ist damit sehr schlecht gealtert. Hält ihn nicht davon ab mit viel Meinung (sowie regelmäßigen Unterstellungen, dass Menschen faul wären) im Gesundheitssystem [aufräumen zu wollen](https://taz.de/Kuenftiger-Gesundheitsminister-Linnemann/!6199156/). 
+
+Während für Versicherte Beiträge steigen und Leistungen gekürzt werden, decken Recherchen von NDR, WDR und SZ auf, dass mindestens 17 Krankenkassen und Kassenärztliche Vereinigungen in viel zu risikoreichen Finanzmarkt-Anlagen mit Teilen ihrer Betriebsmittel, Rücklagen und das Verwaltungsvermögen [Millionenverluste gemacht haben](https://www.tagesschau.de/investigativ/ndr-wdr/krankenkassen-immobilienfonds-100.html).
+
+Auch der Vorstoß, [dass Betriebsärzte Zugriff auf die ePA bekommen sollen](https://www.golem.de/news/schweigen-als-zustimmung-betriebsaerzte-sollen-zugriff-auf-die-epa-bekommen-2607-210618.html), kann man als Misstrauen gegenüber Arbeitnehmer:innen werten.  
+
+Im [DigitalRadar Krankenhaus](https://www.digitalradar-krankenhaus.de) wird der digitale Reifegrad durch eine strukturierten Erhebung bzw. Selbsteinschätzung der teilnehmenden Krankenhäuser bestimmt. Und gerade Krankenhäuser brauchen ein gutes Risikomanagement, in der Realität trifft man aber regelwidrig auf veraltete Hardware und Software, ["läuft doch noch"](https://www.heise.de/news/Krankenhaus-IT-Wenn-laeuft-doch-noch-nicht-reicht-11362176.html).
 
 ## Citizen Science
-* Das Wissen der Vielen: Was Pflastersteine über die Vergangenheit verraten
-  https://detektor.fm/wissen/forschungsquartett-citizen-science
-* Citizen Science gegen Plastikmüll: Kinder und Jugendliche erforschen als “Plastic Pirates” Europas Flüsse
-  https://reset.org/citizen-science-gegen-plastikmuell-kinder-und-jugendliche-erforschen-als-plastic-pirates-europas-fluesse/
+Im Projekt ["Leipziger Pflastergeschichten"](https://pflastergeschichten.leibniz-gwzo.de/mitmachen.html) des Leibniz-Institut für Geschichte und Kultur des östlichen Europa (GWZO) sollen Bürgerinnen und Bürgern die verschiedenen Formen von Pflastersteinen, Fuß- und Straßenbeläge über Online-Formulare, Fotos oder sogar Sprachmemos [dokumentieren](https://detektor.fm/wissen/forschungsquartett-citizen-science), ganz im Sinne des Forschungsfelds "Sensory History", die Geschichte der Sinne und Emotionen.
+
+Schüler:innen sollen im Projekt ["Plastic Pirates"](https://www.plastic-pirates.eu/en/results/map) beim Sammeln von Plastikmüll in Europas Flüsse wertvollen Daten sammeln, [die helfen sollen](https://reset.org/citizen-science-gegen-plastikmuell-kinder-und-jugendliche-erforschen-als-plastic-pirates-europas-fluesse/), besser zu verstehen, woher der Müll kommt und wie er sich zusammensetzt, um so geeignete Maßnahmen zu ergreifen, dass erst gar nicht in die Flüße und die Meere gelangt.
 
 ## Demokratie
-* Die "NGO Files" vom AfD-Abgeordneten und Immobilienmogul Sebastian Maack sind draußen
-  https:// ngofiles . de
-  via https://chaos.social/users/arnesemsrott/statuses/116843700930180711
-  * AfD-Abgeordneter startet "NGO-Files": Linke spricht von "Feindeslisten" gegen Menschen, die sich für Demokratie engagieren
-    https://www.fr.de/politik/ngo-files-rechte-gehen-mit-plattform-zivilgesellschaftliches-engagement-an-94379948.html
-* TolSax Update: Impulse, wie Ihr engagierte Menschen vor den anstehenden Landtagswahlen in Sachsen-Anhalt und Mecklenburg-Vorpommern unterstützen könnt
-  https://www.tolerantes-sachsen.de/tolsax-update-juli-2026/  
-* Revision26
-  https://revision26.de
-  https://www.betterplace.org/de/projects/180835-revision26-demokratie-staerken-in-sachsen-anhalt
-  via https://kolektiva.social/@pascal/116917917879261211
-* Sachverständige zur Begutachtung von Interessenbekundungen gesucht. Bewerbung ab sofort möglich
-  https://www.demokratie-leben.de/dl/service/aktuelles/sachverstaendige-zur-begutachtung-von-interessenbekundungen-gesucht-bewerbung-ab-sofort-moeglich-287058
-  via https://thueringen.social/@UniGegenRechts_Jena/116919800662256869
-* Angriff auf die Zivilgesellschaft
-  https://bewegung.social/@campact/116974309329563743
-* "Man muss die Leute dreimal fragen – beim dritten Mal machen sie mit"
-  https://www.republik.ch/2026/07/02/arne-semsrott-ich-will-den-parteien-immer-zurufen-menschen-koennen-auch-ueberzeugt-werden
-* Wenn die AfD an die Macht kommt – was dann?
-  https://substack.com/home/post/p-206057494
-* Politische Kommunikation am Abgrund – wenn sogar KI besser klingt
-  https://www.basicthinking.de/blog/2026/07/07/politische-kommunikation-ki/
-* Bundesregierung nimmt an Trumps Anti-Antifa-Gipfel teil
-  https://taz.de/US-Konferenz-mit-Marco-Rubio/!6196349/
-* Du bist der Regierung egal: Sie bauen den Sozialstaat ab – wir bauen Gewerkschaft und Utopien auf!
-  https://nichtegal.fau.org
-* Demokrateam
-  https://www.demokrateam.org
-* "Die größte Gefahr für die Demokratie geht derzeit von der Mitte aus"
-  https://perspective-daily.de/article/5070-die-groesste-gefahr-fuer-die-demokratie-geht-derzeit-von-der-mitte-aus/probiere
-* Taktisch Wählen
-  https://taktisch-waehlen.de
-* Bündnis Ost
-  https://buendnisost.de
-* Wahlen
-  * Wahlomat Sachsen-Anhalt
-    https://www.wahl-o-mat.de/sachsenanhalt2026/app/main_app.html
-  * weitere Wahlomaten folgen
-    https://archiv.wahl-o-mat.de
+### Politikverdrossenheit
+In der politischen Diskussionssendung "Question Time" in der BBC beantworten eigentlich Persönlichkeiten aus Politik und Gesellschaft Publikumsfragen. [Für eine Studie](https://www.basicthinking.de/blog/2026/07/07/politische-kommunikation-ki/) wurden aber nun mit einer KI Antworten auf die Fragen generiert. Die Studienteilnehmer bewerteten diese als authentischer, stimmiger und relevanter als die tatsächlichen Antworten, was ein schlechtes Licht auf die politische Kommunikation in unseren heutigen parlamentarischen Demokratien wirft.
+
+Dass die Bundesregierung [an einem Anti-Antifa-Gipfel](https://taz.de/US-Konferenz-mit-Marco-Rubio/!6196349/) von US-Außenminister Marco Rubio teilnimmt, während eine rechtsextreme Partei kurz vor dem Gewinn einer Landtagswahl steht, zeugt auch nur noch von Realitätsverweigung.
+
+### Zivilgesellschaft
+Kein Wunder, das [Initiativen](https://nichtegal.fau.org) wie die der Freie Arbeiter:innen Union mit Slogans wie "Du bist der Regierung egal - Sie bauen den Sozialstaat ab – wir bauen Gewerkschaft und Utopien auf!" werben.
+
+Die Menschen hinter [Demokrateam](https://www.demokrateam.org) möchten demokratische Teilhabe und Selbstwirksamkeit durch ein digitales Angebot erleichtern und nachhaltig stärken, indem Aktionen und Bündnissen eine höhere Sichtbarkeit gegeben wird.
+
+Doch nicht allen gefällt das Engagement der Zivilgesellschaft und [greifen diese gezielt an](https://bewegung.social/@campact/116974309329563743). Ein AfD-Abgeordneter hat sogar nun [so genannte "NGO-Files" gestartet](https://www.fr.de/politik/ngo-files-rechte-gehen-mit-plattform-zivilgesellschaftliches-engagement-an-94379948.html), beworben als "Recherchetool zur deutschen Szene zivilgesellschaftlicher Verbände und Gruppen, deren Verflechtungen und staatlicher Förderung."
+
+### Wahlen
+[Im Editorial](https://www.tolerantes-sachsen.de/tolsax-update-juli-2026/  ) des Newsletters von Tolerantes Sachsen gibt Sarah Schröder vom Förderverein für Jugendkultur und Zwischenmenschlichkeit e.V. Impulse wie man engagierte Menschen vor den anstehenden Landtagswahlen in Sachsen-Anhalt und Mecklenburg-Vorpommern unterstützen kann.
+
+Im [Bündnis Ost](https://buendnisost.de) kann man lokale Events entdecken und gemeinsam aktiv werden.
+
+Die Initiative [Taktisch wählen](https://taktisch-waehlen.de) gibt Hinweise, wie durch eine geschickte Stimmabgabe vermeidet, dass das eigene Votum verpufft und stattdessen möglichst viele demokratische Kräfte in den Landtag kommen.
+
+Mit den Wahl-o-maten für die Landtagswahlen in [Sachsen-Anhalt](https://www.wahl-o-mat.de/sachsenanhalt2026/app/main_app.html) und [Mecklenburg-Vorpommern](https://www.wahl-o-mat.de/mecklenburgvorpommern2026/app/main_app.html), als auch für die [Berliner Abgeordnetenhauswahl](https://www.wahl-o-mat.de/berlin2026/app/main_app.html) kann man seine eigenen Standpunkte mit den Antworten der Parteien vergleichen.
+
+Mit dem [Visiomat](https://visiomat.revision26.de) von [Revision26](https://revision26.de), das die eigene Lebenssituation abfragt, kann man abschätzen, welche Folgen es für einen hätten, [wenn die AfD an die Macht kommt](https://stefanakweichelt.substack.com/p/wenn-die-afd-an-die-macht-kommt-was).
 
 ## Journalismus
-* Studie belegt: Wie BILD mit dem erfundenen "Heizungshammer" unsere Politik manipulierte
-  https://volksverpetzer.de/analyse/heizhammer-studie/
-  * Heating up the headlines: How tabloid framing reshaped Germany's Buildings Energy Act
-    https://www.sciencedirect.com/science/article/pii/S2214629626003038
-* Ohne Bezahlschranken wäre die Medienbranche ein besserer Ort – oder? Ein Gedankenexperiment über Journalismus als Gemeingut.
-  https://taz.de/!vn6188099/
-  via https://openbiblio.social/@Lambo/116914264379633549
-* Das von Peter Thiel finanzierte Startup Primary bewertet die Arbeit von Journalisten mithilfe von KI und baut ein Ranking auf.
-  via https://social.heise.de/@heiseonline/116934743360578662
-* Ich habe Politikjournalismus im Stil von Sportberichterstattung so satt.
-  https://mamot.fr/@roofjoke/116969595949009798
-* Halbloyale Demokraten: Wie die Radikalität der AfD normalisiert wird
-  https://www.blaetter.de/ausgabe/2026/august/halbloyale-demokraten-wie-die-radikalitaet-der-afd-normalisiert-wird
-* oekom media impact hub: Das Ökosystem zur Unterstützung gemeinwohlorientierter Medienakteure & Startups.
-  https://oekom-hub.de
-* Reine Ansichtssache
-  https://www.reine-ansichtssache.org
+In den Medien, nicht nur in den rechten/konservativen, [wird aus Sicht von Albrecht von Lucke](https://www.blaetter.de/ausgabe/2026/august/halbloyale-demokraten-wie-die-radikalitaet-der-afd-normalisiert-wird), die AfD zunehmend salon- und regierungsfähig gemacht, indem deren rechte Narrative bedient und ihre Radikalität verharmlost wird. [Wie in der Sportberichtserstattung](https://mamot.fr/@roofjoke/116969595949009798) geht es in der Berichterstattung nur noch um Schnelligkeit, Geschlossenheit, Durchsetzungsfähigkeit, aber nicht mehr darum, ob das, was da verabschiedet wurde, überhaupt sinnvoll ist. 
+
+Wie das Gebäudeenergiegesetz durch die BILD-Zeitung [gezielt diskreditiert wurde](https://volksverpetzer.de/analyse/heizhammer-studie/), belegt nun detailliert [eine Studie](https://www.sciencedirect.com/science/article/pii/S2214629626003038). Durch diesen Kampagnenjournalismus wurde frühzeitig die öffentliche Debatte vergiftet und die Willensbildung in der Politik manipuliert.
+
+Noch einen Schritt weiter geht das von Peter Thiel finanzierte Startup Primary, welches die Arbeit von Journalisten mit Hilfe von KI bewerten und in eine Rangfolge [bringen möchte](https://social.heise.de/@heiseonline/116934743360578662).
+
+[Ein Gedankenexperiment](https://taz.de/!vn6188099/) über Journalismus als Gemeingut unternimmt Mika Fugmann bei taz und fragt, ob die (Online-)Medienbranche ohne Bezahlschranken nicht ein besserer Ort wäre. Der gesellschaftlicher Nutzen von Artikeln wächst, [je mehr Menschen ihn lesen](https://openbiblio.social/@Lambo/116914264379633549).
+
+Der [oekom media impact hub](https://oekom-hub.de) geht schon ein wenig in diese Richtung, indem er gemeinwohlorientierter Medienakteure und Startups passende Förderprogramme vermittelt.
+
+Auch ["Reine Ansichtssache"](https://www.reine-ansichtssache.org) bietet progressiven Stimmen ein Forum.
 
 ## Überwachung
 * Der Vorschlag, Cookie-Banner über den DigitalOmnibus abzuschaffen, soll gestrichen werden.
