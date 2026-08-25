@@ -231,72 +231,45 @@ Die Kapazität der stationären Batteriespeicher in Europa [haben sich letztes J
 Derweil entstehen immer neue Speicher, seien es [Algen-Batterien](https://www.basicthinking.de/blog/2026/07/14/algen-batterien-statt-lithium/), die Planung [des größten Eisen-Luft-Energiespeichers Europas](https://www.basicthinking.de/blog/2026/07/06/eisen-luft-energiespeicher/) in den Niederlanden, oder der [Gravitations-Speicher in China](https://www.basicthinking.de/blog/2026/07/15/gravitations-energiespeicher/), bei dem Betonblöcke erst in die Höhe gehoben werden, und durch deren Wiederabsenken Strom zurückgewonnen wird.
 
 ## Klima
-* Die globale Bestandsaufnahme in den neuen Klimaschutzbeiträgen
-  https://www.umweltbundesamt.de/themen/klima-energie/internationale-klimapolitik/uebereinkommen-von-paris/die-globale-bestandsaufnahme-in-den-neuen
-* Eine neue Metastudie hat mehr als 1.600 Fallstudien aus europäischen Städten ausgewertet. Eine einfache Typologie soll Kommunen helfen, passende Klimastrategien und geeignete Vorbilder zu finden.
-  https://klimareporter.de/gesellschaft/die-stadt-macht-den-unterschied
-* Klimakrise: Was kostet das Nichtstun?
-  https://www.ndr.de/fernsehen/sendungen/panorama/archiv/2026/klimakrise-was-kostet-nichtstun,was-kostet-die-klimakrise-100.html
-* Klimawandel-Karte Deutschland
-  https://www.klimanostalgie.de/klimawandel-karte-deutschland/?kennzahl=hitzetage
-  via https://www.l-iz.de/politik/kassensturz/2026/07/hitzesommer-in-leipzig-klimakarte-schwerin-temperaturanstieg-seit-1951-665573
-* Alarmzeichen aus dem All: Nasa-Bilder zeigen, wie rasch Europa austrocknet
-  https://www.focus.de/earth/umwelt/nasa-satelliten-zeigen-wie-europa-innerhalb-kurzer-zeit-sein-gruen-verliert_7f329130-0f24-4bc1-a34a-bb40368c2917.html
+### Maßnahmen und Strategien
+Die [Globale Bestandsaufnahme (GST)](https://www.umweltbundesamt.de/themen/klima-energie/internationale-klimapolitik/uebereinkommen-von-paris/die-globale-bestandsaufnahme-in-den-neuen) bewertet alle fünf Jahre die weltweiten Fortschritte im Klimaschutz. Gemäß dem Übereinkommen von Paris sollen Vertragsstaaten darlegen, wie sie diese Bestandsaufnahme in ihren nationalen Klimaschutzbeiträgen (NDC) berücksichtigt werden. Wie bei fossilen Brennstoffen ausgestiegen bzw. Subventionen für sie abgebaut werden können, wird leider selten erwähnt.
+
+Aus über 1600 Fallstudien aus europäischen Städten ausgewertet [hat eine Metastudie](https://klimareporter.de/gesellschaft/die-stadt-macht-den-unterschied) eine Typologie abgeleitet, die Kommunen helfen kann, passende Klimastrategien für sich zu finden, indem sie in anderen Kommunen mit ähnlichen Merkmalen geeignete Vorbilder finden.
+
 ### Hitze
-* City Vibes – Wie kühlen wir unsere Städte ab?
-  https://www.zdf.de/video/reportagen/plan-b-city-vibes-lebenswerte-staedte-100/stadt-hitze-klima-kuehlung-100
-  via https://zdf.social/@ZDF/116843894542643972
-* Hitzewelle trifft Deutschland im Juni 2026
-  https://www.dwd.de/DE/Home/_functions/aktuelles/2026/20260713_hitzewelle-deutschland-juni-2026.html
-* Sterbefallzahlen zeitgleich mit einer historischen Hitzewelle um 32 % über dem mittleren Wert der vier Vorjahre lagen.
-  https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_248_126.html
-  via https://norden.social/@wahlatlas/116918000841202146
-* Leipziger Studie: Änderungen in der atmosphärischen Zirkulation bewirken Hitze und Dürre in Europa
-  https://www.l-iz.de/bildung/forschung/2026/07/leipziger-studie-anderungen-atmospharische-zirkulation-hitze-durre-europa-665093
-* Satellitendaten zeigen: So heiß wird dein Grätzl wirklich
-  https://www.wienerzeitung.at/a/satellitendaten-zeigen-so-heiss-wird-dein-graetzl-wirklich
-* RKI meldet fast 10.000 Hitzetote seit Jahresbeginn
-  https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/hitzetote-deutschland-robert-koch-institut-hitze-gxe
-* Massive Ernteausfälle durch Hitzewelle: Europas Landwirte verlieren wohl zwei Milliarden Euro
-  https://www.fr.de/wirtschaft/zehn-millionen-tonnen-ein-hitzewelle-2026-getreideernte-in-europa-bricht-wohl-um-zr-94409894.html
-* CoolRoutes Köln
-  https://courageous-pudding-391ff7.netlify.app
-  via https://www.linkedin.com/posts/ertan-%C3%B6zcan-73bb3399_kaemln-smartcity-hitzevorsorge-ugcPost-7480373985441034240-PmYv/
-* "Nie dagewesenes Ausmaß": Waldbrände in Frankreich und Spanien
-  https://www.deutschlandfunk.de/waldbraende-in-frankreich-und-spanien-mehr-als-160-000-menschen-in-sicherheit-gebracht-100.html
-  * Die Gothaer zieht sich aus dem Geschäft für Waldversicherungen zurück
-    https://bsky.app/profile/janoschki.bsky.social/post/3mrmdl6gbj22c
-  * Europe burns: a visual guide to the wildfires
-    https://www.theguardian.com/world/2026/jul/30/europe-burns-france-spain-visual-guide-wildfires
-### Wasser
-* In unseren Datenstories zeigen wir, wie Analysen mit dokumentierten Workflows nachnutzbarer werden. Die Microplastic_Analysis nutzt dafür uv, die Groundwater_Analysis kombiniert renv und uv für R und Python.
-  https://gitlab.opencode.de/umwelt-info/data-stories/-/tree/main/Microplastic_Analysis
-  https://gitlab.opencode.de/umwelt-info/data-stories/-/tree/main/Groundwater_Analysis
-  https://social.bund.de/@umwelt_info/116850967127447084
-* Knapp und kommerzialisiert: Der Kampf ums Wasser
-  https://www.blaetter.de/ausgabe/2026/mai/knapp-und-kommerzialisiert-der-kampf-ums-wasser
-* Wasser: Warum wir uns gewaltige Sorgen um das lebendige Nass machen sollten
-  https://www.l-iz.de/bildung/buecher/2026/07/wasser-gewaltige-sorgen-lebendiges-nass-664280
-* Dürre-Experte: Müssen wissen, wer wie viel Wasser nutzt
-  https://www.diesachsen.de/umwelt/duerre-experte-muessen-wissen-wer-wie-viel-wasser-nutzt-3160143
-* Leere Wasserspeicher: Rekordhitze trocknet Europa aus
-  https://www.derstandard.at/story/3000000332430/leere-wasserspeicher-rekordhitze-trocknet-europa-aus
-* Now available in the Climate Data Store: two multi-model hydrological seasonal datasets for Europe 
-  https://cds.climate.copernicus.eu/datasets/sis-hydrology-europe-seasonal?tab=overview
-  https://cds.climate.copernicus.eu/datasets/sis-hydrology-europe-seasonal-reforecast?tab=overview
-  https://masto.ai/@CopernicusECMWF/116991947430580522
-* Mammoth remains revealed in Bulgaria after Danube water levels hit record low
-  https://www.reuters.com/business/environment/mammoth-remains-revealed-bulgaria-after-danube-water-levels-hit-record-low-2026-07-29/
-  * und in Serbien deutsches Kriegsschiff aus dem zweiten Weltkrieg
-* Wasserstress: Sparen sollen die anderen, denn Industrie pumpt weiter
-  https://correctiv.org/aktuelles/kampf-um-wasser/2026/07/06/wasserverbote-fuer-buerger-industrie-pumpt-weiter/
-  * In Deutschland wird Wasser knapp. Trotzdem bekommt die Industrie es oft zum Schleuderpreis
-    https://www.zeit.de/politik/deutschland/2026-07/wasserknappheit-duerre-industrie-wasserpreis-nachrichtenpodcast?freebie=627b1833
+Die [Klimawandel-Karte Deutschland](https://www.klimanostalgie.de/klimawandel-karte-deutschland/?kennzahl=hitzetage) vergleicht die Sommer 1951–1970 und 2006–2025. Dadurch lässt sich leicht erkennen, dass sowohl die Anzahl der Sommertage (> 25°C), der heißen Tage (> 30°C) als auch die mittlere Tageshöchsttemperatur deutlich zugenommen haben.
+
+[In seiner Auswertung](https://www.dwd.de/DE/Home/_functions/aktuelles/2026/20260713_hitzewelle-deutschland-juni-2026.html) der Juni-Hitze identifiziert der Deutsche Wetterdienst (DWD) vor allem die Tagesmitteltemperatur, die weit über den sonst üblichen Niveau eines Junis lagen, als besonders belastend für die Menschen, da in ihr auch die fehlende nächtliche Abkühlung steckt.
+
+### Hitzekarten
+[Auch der Farbwechsel](https://www.focus.de/earth/umwelt/nasa-satelliten-zeigen-wie-europa-innerhalb-kurzer-zeit-sein-gruen-verliert_7f329130-0f24-4bc1-a34a-bb40368c2917.html) auf den Satellitenbilder von Europa vollzieht sich viel schneller und großflächiger als in den Sommerperioden früherer Jahrzehnte. Die Kombination aus wochenlang kein Regen starken Temperaturanstieg verstärken Verdunstung und Wasserstress für Pflanzen durch austrocknete Böden. Wie [eine Studie](https://www.nature.com/articles/s41561-026-02050-w) nachvollzogen hat, sind Änderungen in der atmosphärischen Zirkulation für die langen Trockenperioden [verantwortlich](https://www.l-iz.de/bildung/forschung/2026/07/leipziger-studie-anderungen-atmospharische-zirkulation-hitze-durre-europa-665093).
+
+Auf Grundlage von Satellitendaten ist auch [diese Choroplethenkarte](https://www.wienerzeitung.at/a/satellitendaten-zeigen-so-heiss-wird-dein-graetzl-wirklich) für Wien enstanden, die die gemessenen durchschnittlichen Bodentemperaturen am 30. Juni 2026 pro Stadtbizirk abbildet. Sie zeigt, wie sich in den stark asphaltierten Gebieten die Hitze staut.
+
+Damit braucht es bei der Routenplanung bald nicht mehr nur die Optionen "schnellste Route" und "kürzeste Route" sondern auch die "kühlste Route". Ertan Özcan hat die Idee aus eigener Betroffenheit heraus in einem [Wochendprojekt CoolRoutes Köln](https://courageous-pudding-391ff7.netlify.app) prototypisch [zusammengevibcodet](https://www.linkedin.com/posts/ertan-%C3%B6zcan-73bb3399_kaemln-smartcity-hitzevorsorge-ugcPost-7480373985441034240-PmYv/).
+
+### Folgen
+[Nach vorläufigen Angaben](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_248_126.html) des Statistischen Bundesamtes (Destatis) lagen in der letzten Juniwoche die Sterbefallzahlen 32% über dem mittleren Wert der vier Vorjahre. Auch das RKI hat fast 10.000 Hitzetote seit Jahresbeginn [registriert](https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/hitzetote-deutschland-robert-koch-institut-hitze-gxe).
+
+Deutschland hat derzeit noch kein Monitoring für Klimaschäden, auch wenn das Umweltministerium an einem solchen arbeite. Das Handelsblatt ließ durch ein privates Forschungsunternehmen errechnen, dass allein die Hitzewelle Ende Juni die Deutsche Wirtschaft 6,3 Milliarden Euro gekostet. Kosten für Klimaschäden könnten je Szenario bis 2050 auf 280 bis 900 Milliarden Euro steigen. Nichtstun würde tatsächlich [zum schlechtesten Ergebnis führen](https://www.ndr.de/fernsehen/sendungen/panorama/archiv/2026/klimakrise-was-kostet-nichtstun,was-kostet-die-klimakrise-100.html), auch wenn die Bundesregierung kurzsichtigerweise jammere, dass zuviel Klimaschutz die deutsche Wirtschaft zu sehr belaste.
+
+Nach [einer Analyse](https://eciu.net/media/press-releases/june-heatwave-knocks-2-billion-off-european-harvest-prospects-new-analysis) der NGO "Energy and Climate Intelligence Unit (ECIU)" hat Juni-Hitzewelle den europäischen Getreidebauern vermutlich Ernteausfälle in Höhe von 2 Milliarden Euro [beschert](https://www.fr.de/wirtschaft/zehn-millionen-tonnen-ein-hitzewelle-2026-getreideernte-in-europa-bricht-wohl-um-zr-94409894.html).
+
+Der Guardian hat die massiven Waldbrände in Europa, vor allem in Frankreich und Spanien ([mehr als 160.000 Menschen](https://www.deutschlandfunk.de/waldbraende-in-frankreich-und-spanien-mehr-als-160-000-menschen-in-sicherheit-gebracht-100.html) mussten in Sicherheit gebracht werden), [mit Diagrammen und Karten aufgearbeitet](https://www.theguardian.com/world/2026/jul/30/europe-burns-france-spain-visual-guide-wildfires). Mit Blick auf die ["veränderte Risikolage"](https://bsky.app/profile/janoschki.bsky.social/post/3mrmdl6gbj22c) zieht sich die Gothaer Versicherungen aus dem Geschäft der Waldversicherungen zurück.
+
 ### El Nino
-* Die Prognosen sind eingetroffen: El Niño ist da. Das Phänomen treibt die Ozeantemperaturen auf neue Rekordwerte
-  https://www.t-online.de/klima/leben-umwelt/id_101322434/el-nino-prognosen-eingetroffen-nasa-fuerchtet-ein-riesending-.html
-* Diese Grafik sollte auf jede Titelseite
-  https://volksverpetzer.de/aktuelles/klimaschutz-el-nino-diese-grafik-sollte-auf-jede-titelseite/
+Tausende Tote und immense Kosten [befürchtet NASA-Fachleute](https://www.t-online.de/klima/leben-umwelt/id_101322434/el-nino-prognosen-eingetroffen-nasa-fuerchtet-ein-riesending-.html) durch die vom Phänomen El Niño auf neue Rekordhöhen getriebenen Ozeantemperaturen, wie auch die [zugehörigen Vergleichsdiagramme](https://volksverpetzer.de/aktuelles/klimaschutz-el-nino-diese-grafik-sollte-auf-jede-titelseite/) erschauerlich zeigen. Mit einer Wahrscheinlichkeit von 97 Prozent wird er bis ins Frühjahr 2027 anhalten.
+
+### Wasser
+Warme Luft kann pro zusätzlichem Grad um sieben Prozent mehr Wasser aufnehmen. Wasser, das dann nicht mehr als Regen fällt. [Damit leeren sich](https://www.derstandard.at/story/3000000332430/leere-wasserspeicher-rekordhitze-trocknet-europa-aus) auch die natürlichen Wasserspeicher immer weiter. [Die Datensätze](https://cds.climate.copernicus.eu/datasets/sis-hydrology-europe-seasonal?tab=overview) zu den Hydrologischen Modelle von Copernicus veranschaulichen dies.
+
+Aber Knappheit ist ja gut fürs Geschäft, was sich [an der Kommerzialisierung von Grundwasserressourcen zeigt](https://www.blaetter.de/ausgabe/2026/mai/knapp-und-kommerzialisiert-der-kampf-ums-wasser).
+
+Gerade deswegen [braucht es ein flächendeckendes Monitoring](https://www.diesachsen.de/umwelt/duerre-experte-muessen-wissen-wer-wie-viel-wasser-nutzt-3160143) zur Nutzung von Grund- und Oberflächenwasser, das nachvollziehbar macht, wer wann wie viel Wasser aus dem Boden / dem Grundwasser aber auch aus Oberflächengewässern entnimmt.
+
+Damit würde transparenter werden, [dass die Industrie weiter fröhlich pumpt](https://correctiv.org/aktuelles/kampf-um-wasser/2026/07/06/wasserverbote-fuer-buerger-industrie-pumpt-weiter/), während manche Landkreise für die allgemeine Bevölkerung Wasserentnahmeverbote verhängt.
+
+Der rekordniedrige Pegelstand der Donau hat in Bulgarien ein [Mammut-Skelet](https://www.reuters.com/business/environment/mammoth-remains-revealed-bulgaria-after-danube-water-levels-hit-record-low-2026-07-29/) und in Serbien ein [Nazi-Schiffswrack](https://www.fr.de/wissen/nazi-kriegschiff-im-donau-niedrigwasser-aufgetaucht-zr-94423877.html) freigelegt.  
 
 ## Gesundheit
 Und schon wieder das [Koalitionsausschuss-Papier von CDU, CSU und SPD](https://www.bundesregierung.de/resource/blob/2196306/2445592/bc8e5e160d879f0bdd593121a96a45d2/2026-07-02-koaausschuss-data.pdf), diesmal Punkt 11: "Die telefonische Krankschreibung wird abgeschafft und die unrichtige Ausstellung einer Arbeitsunfähigkeitsbescheinigung nach §278 StGB stärker bestraft. Wir führen eine verpflichtende Vorlage der AU-Bescheinigung ab dem ersten Tag der Erkrankung ... ein".
