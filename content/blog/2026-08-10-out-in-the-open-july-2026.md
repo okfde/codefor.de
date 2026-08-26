@@ -329,39 +329,20 @@ Der [oekom media impact hub](https://oekom-hub.de) geht schon ein wenig in diese
 Auch ["Reine Ansichtssache"](https://www.reine-ansichtssache.org) bietet progressiven Stimmen ein Forum.
 
 ## Überwachung
-* Der Vorschlag, Cookie-Banner über den DigitalOmnibus abzuschaffen, soll gestrichen werden.
-  https://noyb.eu/de/eu-member-states-and-google-suddenly-want-keep-cookie-banners
-  via https://social.bund.de/@DS_Stiftung/116849605369692203
-* Software zur Überwachung Berlins ausgewählt: Verhaltensscanner am Kotti startet noch im Sommer
-  https://netzpolitik.org/2026/software-zur-ueberwachung-berlins-ausgewaehlt-verhaltensscanner-am-kotti-startet-noch-im-sommer/
-* Palantir auf Bundesebene auss­chließen – so geht's!
-  https://digitalrechte.de/news/palantir-auf-bundesebene-ausschlieszen-so-geht-s
-* Spain Blacklists Palantir Over Domestic Security Concerns
-  https://popularresistance.org/spain-blacklists-palantir-over-domestic-security-concerns/
-* Neues Bundespolizeigesetz: Der Bundestag hat das Zeitalter der automatisierten Überwachung eingeläutet
-  https://netzpolitik.org/2026/neues-bundespolizeigesetz-der-bundestag-hat-das-zeitalter-der-automatisierten-ueberwachung-eingelaeutet/
-* Reformpaket: Schwarz-Rot will 99 Prozent der deutschen Unternehmen vom Datenschutz ausnehmen
-  https://netzpolitik.org/2026/reformpaket-schwarz-rot-will-99-prozent-der-deutschen-unternehmen-vom-datenschutz-ausnehmen/
-* Nach CORRECTIV-Recherche: Menschenrechtsanwälte wollen Europols Schatten-IT abschalten lassen
-  https://correctiv.org/aktuelles/europa-aktuelles/2026/07/07/europol-correctiv-recherche-reaktion-beschwerde-eugh/
-### Chatkontrolle 1.0
-* Chatkontrolle: Zur heutigen Neuabstimmung im Europäischen Parlament
-  https://digitalegesellschaft.de/2026/07/chatkontrolle-zur-heutigen-neuabstimmung-im-europaeischen-parlament/
-  * Gerade eben wurde erneut über die, im Frühjahr bereits abgelehnt Chatkontrolle 1.0 abgestimmt. Der Vorschlag wurde so eben mit 2 Änderungsanträgen angenommen.
-    https://eupolicy.social/@khaleesicodes/116889606345163006
-  * EU-Parlament reaktiviert Chatkontrolle 1.0 trotz massiver Kritik
-    https://www.heise.de/news/Verfahrenstrick-vor-Sommerpause-EU-Parlament-reaktiviert-Chatkontrolle-1-0-11359552.html
-   * Die absolute Mehrheit wurde verfehlt, weil viele nicht mehr da waren, wichtiger Unterschied.
-     https://eupolicy.social/@pneutig/116890079579384115
-  * Nach ihrem parlamentarischen Coup haben die EU-Länder wie erwartet der erneuten Verlängerung einer Ausnahmeregelung für die Chatkontrolle zugestimmt.
-    https://www.heise.de/news/Chatkontrolle-EU-Rat-stimmt-fuer-die-Verlaengerung-11376651.html
 ### Geheimdienstgesetz
-* Das BSI muss zukünftig alle(!) Schwachstellen inkl. 0-Days an den BND melden, damit sie diese aktiv ausnutzen können.
-  https://chaos.social/@HonkHase/116893873159514865
-* Die Bundesdatenschutzbeauftragte Specht-Riemenschneider schlägt wegen der geplanten Geheimdienstreform Alarm. Sie hält sie für hochgradig verfassungswidrig
-  https://taz.de/Bundesdatenschutzbeauftragte-ueber-Geheimdienstreform-Seid-ihr-bescheuert/!6198179/
-* Geheimdienst-Gesetz: Maßlos, unkontrolliert und intransparent
-  https://netzpolitik.org/2026/geheimdienst-gesetz-masslos-unkontrolliert-und-intransparent/
+Der geschichtsvergessene [Entwurf](https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/referentenentwuerfe/OESI2/NDRefG.pdf?__blob=publicationFile) zum Geheimdienst-Gesetz möchte die Befugnisse des Bundesnachrichtendienstes (BND) und des Bundesamtes für Verfassungsschutz (BfV) in bisher [beispiellosem Ausmaß erweitern](https://netzpolitik.org/2026/geheimdienst-gesetz-masslos-unkontrolliert-und-intransparent/) (zu "vollwertigen Geheimdiensten" im Sprech der Verantwortlichen) und andererseits deren unabhängige Kontrolle durch ihre Aufteilungen auf zwei unterschiedliche Stellen erheblich schwächen. [Es ist zu bezweifeln](https://taz.de/Bundesdatenschutzbeauftragte-ueber-Geheimdienstreform-Seid-ihr-bescheuert/!6198179/), dass die automatisierter Datenanalyse aus auch Daten von öffentliche und private Videoüberwachung verfassungskonform ist. Dass das BSI zudem alle entdeckten/gemeldeten IT-Schwachstellen (also auch Zero-Day-Exploits) zuerst dem BND melden muss, damit sie diese aktiv ausnutzen können, [wird dazu führen](https://chaos.social/@HonkHase/116893873159514865), dass niemand aus der Zivilgesellschaft mehr dem BSI solche Entdeckungen schicken wird. 
+
+Das Zentrum für digitale Freiheitsrechte hat [ein paar Formulierungshilfen zusammengestellt](https://digitalrechte.de/news/palantir-auf-bundesebene-ausschlieszen-so-geht-s), wie man strenge Vorgaben für die softwarebasierte Auswertung von Polizeidaten macht und damit den Einsatz von Palantir auf Bundesebene auss­chließt. Denn die Zweckbindung ist ein Grundpfeiler des Datenschutzrechts. In Spanien hat man aus Sicherheitsbedenken [Palantir geblacklistet](https://popularresistance.org/spain-blacklists-palantir-over-domestic-security-concerns/).
+
+Dagegen soll der Verhaltensscanner am Kottbusser Tor in Berlin [noch in diesem Sommer starten](https://netzpolitik.org/2026/software-zur-ueberwachung-berlins-ausgewaehlt-verhaltensscanner-am-kotti-startet-noch-im-sommer/).
+
+### Chatkontrolle 1.0
+Der EU-Rat hat [die erneute Verlängerung](https://www.heise.de/news/Verfahrenstrick-vor-Sommerpause-EU-Parlament-reaktiviert-Chatkontrolle-1-0-11359552.html) einer Ausnahmeregelung für die sogenannte freiwillige Chatkontrolle beschlossen. [Mit dieser Reaktivierung der Chatkontrolle 1.0](https://eupolicy.social/@khaleesicodes/116889606345163006) wird also wieder freiwilliges anlassloses Scannen von Kommunikation, sowohl nach bekannten als auch unbekannten Material, möglich. Dass das Vorschlag überhaupt durchgekommen ist, [lag an einem Verfahrenstrick](https://www.heise.de/news/Chatkontrolle-EU-Rat-stimmt-fuer-die-Verlaengerung-11376651.html), der definiert hatte, dass der Vorschlag nur durch eine absolute Mehrheit abgelehnt werden könne. Dadurch dass viele Parlamentarier schon in den Urlaub gegangen waren, hatten die Gegner des Vorschlags allerdings nur eine einfache Mehrheit.  
+
+### Datenschutz
+In den [Beschlüssen](https://www.bundesregierung.de/resource/blob/2196306/2445592/bc8e5e160d879f0bdd593121a96a45d2/2026-07-02-koaausschuss-data.pdf) vom 2. Juli findet sich auch der Punkt 14 "Moderner Datenschutz für mehr Wachstum". Modern bedeutet hier, dass faktisch 99 Prozent der deutschen Unternehmen vom Datenschutz [ausgenommen werden](https://netzpolitik.org/2026/reformpaket-schwarz-rot-will-99-prozent-der-deutschen-unternehmen-vom-datenschutz-ausnehmen/). Was als "Bürokratiemonster" geframt wird, sind am Ende Schutzrechte Betroffene, die hier geopfert. Und Innovationshemmnisse sind eher kaputte Geschäftsmodelle, die nicht ohne Auswertung sensibler personenbezogener Daten existieren können.
+
+Der massive Druck der Tracking-Lobby scheint gewirkt zu haben (in einem geheimen Lobby-Papier hatte Google behauptet, dass sonst sämtliche Online-Werbung zum Erliegen käme): Der Vorschlag, Cookie-Banner über den DigitalOmnibus abzuschaffen, [soll gestrichen werden](https://noyb.eu/de/eu-member-states-and-google-suddenly-want-keep-cookie-banners).
 
 ## AIddicted
 ### KI in der Software-Entwicklung
