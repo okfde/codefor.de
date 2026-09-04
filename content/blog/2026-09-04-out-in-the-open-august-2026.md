@@ -12,25 +12,25 @@ type: blog
 ---
 
 ## Open Data
+* Mit Urheberrecht gegen offene Daten: Bayern verliert gegen Open-Data-Aktivisten
+  https://netzpolitik.org/2026/mit-urheberrecht-gegen-offene-daten-bayern-verliert-gegen-open-data-aktivisten/
+* Offene Daten als Schlüssel für die digitale Souveränität Österreichs und Europas
+  https://www.data.gv.at/news/offene-daten-als-schlussel-fur-die-digitale-souveranitat-osterreichs-und-europas?locale=de
+* OpenData in Aktion: Integreat App versorgt Zugewanderte schnell, mehrsprachig und niedrigschwellig mit wichtigen Informationen 
+  https://oc.bydata.de/using/usecases/integreat
+  https://mastodon.social/@ocbydata/117042757506708540
+* building and using tools that make structured knowledge easier to create, explore, and reuse
+  https://wikis.world/@wikidata/117057886710079876
 * awesome-munich-data (Link in den Kommentaren): ein neuer Extraktor für QUIVID, das Kunst-am-Bau-Programm der Stadt München
   https://github.com/tifa365/awesome-munich-data
   https://norden.social/@datenschatz/117025148922244688
 * Dryad releases 2025 annual report: Enhanced service, robust partnerships, and rising data publications
   https://blog.datadryad.org/2026/08/26/dryad-releases-2025-annual-report-enhanced-service-robust-partnerships-and-rising-data-publications/
-* OpenData in Aktion: Integreat App versorgt Zugewanderte schnell, mehrsprachig und niedrigschwellig mit wichtigen Informationen 
-  https://oc.bydata.de/using/usecases/integreat
-  https://mastodon.social/@ocbydata/117042757506708540
 * Gut informiert bleiben: Der data.gv.at Newsletter ist wieder da!
   https://www.data.gv.at/news/gut-informiert-bleiben-der-data-gv-at-newsletter-ist-wieder-da?locale=de
-* building and using tools that make structured knowledge easier to create, explore, and reuse
-  https://wikis.world/@wikidata/117057886710079876
-* Mit Urheberrecht gegen offene Daten: Bayern verliert gegen Open-Data-Aktivisten
-  https://netzpolitik.org/2026/mit-urheberrecht-gegen-offene-daten-bayern-verliert-gegen-open-data-aktivisten/
 * Kiwix
   https://kiwix.org/en/
   https://browse.library.kiwix.org/#lang=deu
-* Offene Daten als Schlüssel für die digitale Souveränität Österreichs und Europas
-  https://www.data.gv.at/news/offene-daten-als-schlussel-fur-die-digitale-souveranitat-osterreichs-und-europas?locale=de
 
 ### Parlamentsdaten
 * Aufbauend auf dem OParl-Standard: Alle ~10.700 deutschen Gemeinden, über 60.000 Ratsanträge und -beschlüsse mit Abstimmungsergebnissen, durchsuchbar an einem Ort: ratsblick.de
@@ -52,6 +52,8 @@ type: blog
 * swissparlpy 2.1.0 publiziert 
   https://metaodi.ch/swissparlpy/
   https://bsky.app/profile/metaodi.ch/post/3mssd3vwmn22o
+* Auswertung: Licht und Schatten in der Gesetzgebung der Bundesregierung
+  https://bundestagszusammenfasser.de/auswertung-licht-und-schatten-in-der-gesetzgebung-der-bundesregierung
 
 ## Open Science
 * (Re)Conceptualizing Open Science's "Openness"
@@ -106,6 +108,14 @@ type: blog
 * SHARE open source / FLOSS (free / libre and open) online tools to communicate -
   https://pad.riseup.net/p/online-tools-for-the-pandemic-keep
   via https://systerserver.town/@poemproducer/117177411822848774
+* Aktivistin über IT-Souveränität: "Abhängigkeit von den Tech-Konzernen ist keine Notwendigkeit"
+  https://taz.de/Aktivistin-ueber-IT-Souveraenitaet/!6205292/
+* Google has now renamed Lake Ontario for US users
+  https://mastodon.online/@parismarx/117185156042112041
+  https://www.tagesspiegel.de/internationales/nach-trumps-umbenennung-lake-ontario-wird-auf-google-maps-in-den-usa-zu-lake-america-15999009.html
+  * Spielwiese
+    https://rename.world
+    https://troet.cafe/@Marwe/117186861938177039
 
 ## Open Source
 * Linux durchbricht 10-Prozent-Marke: Nordamerika-Anteil verdoppelt sich
@@ -119,6 +129,8 @@ type: blog
 * Prototype Fund 3.0 Neue Förderlinie: Aus eins mach drei!
   https://www.prototypefund.de/blog/ptf-3-0
   https://social.osb-alliance.de/@OSBA/117161182722377779
+* Wie OpenRedact ein neues Zuhause auf openCode fand
+  https://www.prototypefund.de/blog/wie-openredact-ein-neues-zuhause-auf-opencode-fand
 
 ## Verwaltungsdigitalisierung
 * Die digitalen Grenzen Estlands. Wenn perfektes E-Government an die Grenzen des Vertrauens stößt
@@ -148,6 +160,10 @@ type: blog
     https://www.heise.de/news/30-Bitcoin-oder-Leak-Ransomware-Bande-erpresst-Berlin-11434325.html
   * Lösegeldforderung nach Hackerangriff
     https://www.ardmediathek.de/video/rbb24-abendschau/loesegeldforderung-nach-hackerangriff/rbb/Y3JpZDovL3JiYl9lZjRmMzU0NS0xMTQ1LTQ5ZTgtYjllMy0wYTFjYTc3YmI5NzdfcHVibGljYXRpb24
+  * Cyberangriff auf Berliner Verwaltung: Digitale Verantwortungslosigkeit
+    https://taz.de/Cyberangriff-auf-Berliner-Verwaltung/!6208741/
+  * Berlin: Passwörter abgeflossen, 12.000 Systeme werden gescannt
+    https://www.heise.de/news/Berlin-Passwoerter-abgeflossen-12-000-Systeme-werden-gescannt-11436809.html
 * Datendiebstahl in Frankreich:  Personendaten des Fiskus meistbietend zu verkaufen
   https://www.frenchbreaches.com
   https://taz.de/Datendiebstahl-in-Frankreich/!6205547/
@@ -276,6 +292,9 @@ type: blog
   https://www.golem.de/news/start-up-investor-offenbar-rauswurf-nach-linkedin-kritik-an-reiche-2608-212353.html?utm_source=nl.2026-08-27.html
 * In der Union sammeln sich die Wirtschaftspolitiker, die Kohlekraftwerke aus der Reserve wieder anwerfen wollen. Das soll die Strompreise drücken und Gas sparen helfen.
   https://www.wiwo.de/politik/deutschland/unions-vize-sepp-mueller-kohlekraftwerke-sollen-wieder-voll-ans-netz/100249936.html
+* So gefährlich ist Deutschlands Abhängigkeit von LNG aus den USA
+  https://www.handelsblatt.com/politik/deutschland/energieversorgung-so-gefaehrlich-ist-deutschlands-abhaengigkeit-von-lng-aus-den-usa-01/100249382.html?mls-token=1d4c978a6928fd41bafcb18444427e38f439346fb6f1098d96b20a25716f3ed5e3cb09733aab412090b25a7e3a2f2c920100249382&utm_medium=in&utm_source=app&utm_campaign=verschenken
+
 
 ## Klima
 * Rauch der Feuerwolken aus Bordeaux in großer Höhe über Leipzig
@@ -324,20 +343,17 @@ type: blog
   https://www.foodwatch.org/de/mitmachen/keime-verheimlichen-nicht-mit-uns#2
   * Warum Lebensmittelskandale schon bald unentdeckt bleiben könnten
     https://www.morgenpost.de/wirtschaft/article412562507/warum-lebensmittelskandale-schon-bald-unentdeckt-bleiben-koennten.html
-* RTL Aktuell Spezial: Ein Tisch mit Friedrich Merz
-  * Merz und sein Umgang mit der Kinderärztin zeigen, warum der Kanzler so unbeliebt ist
-    https://www.fr.de/politik/aus-aerztin-und-merz-gerieten-nach-tv-streit-erneut-aneinander-kanzler-lachte-sie-zr-94465550.html
-  * Nach Gespräch mit Merz: "Ich bin nicht die Wut-Ärztin"
-    https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101410990/kinderaerztin-bea-merscher-nach-merz-konfrontation-bin-keine-wut-aerztin-.html
-  * Merz habe ihr gesagt, dass ihre Äußerungen in der Sendung „straffällig“ gewesen seien.
-    Ein anderer Gast der Sendung bestätigte die Schilderung in einem Instagram-Video
-    Merscher hatte Merz in der Sendung vorgeworfen, seinen Amtseid zu brechen, in dem er Gesetze wie das Sparpaket bei den Gesundheitsausgaben erlasse.
-    https://www.focus.de/politik/deutschland/aerztin-legt-gegen-merz-nach-er-lachte-mich-aus_bd92ffef-5884-4122-a2f0-fa9d70e41240.html
+* Overdose Awareness Day: "Die Gesellschaft soll aufhören, Abhängige zu verurteilen"
+  https://taz.de/Overdose-Awareness-Day/!6203333/
 
 ## Kultur
 * The Rijksmuseum has moved from “an API” toward a machine-readable knowledge infrastructure: <br>Objects, people, places and concepts receive persistent URIs, not just web addresses, but machine-readable identities that can be linked across systems.
   https://data.rijksmuseum.nl/about/
   https://det.social/@HxxxKxxx/117070003059460880
+* Klangland
+  https://weberius.github.io/klangland/
+  https://weberius.github.io/klangland/projekt
+  https://github.com/weberius/klangland
 
 ## Journalismus
 * Perspective Daily & Riffreporter: Wie finanziert sich Journalismus ohne Werbung?
@@ -366,9 +382,28 @@ type: blog
   https://bsky.app/profile/nmschuessler.bsky.social/post/3mtrebga6ok22
 * Wir fordern die Bundesregierung daher auf, Pressefreiheit und die Medienvielfalt in Deutschland jetzt umfangreich zu schützen.
   https://correctiv.org/mitmachen/jetzt-unterzeichnen-nachrichten-schuetzen/
+* Vielfältig verwendbare, leckere Ausbrütobjekte
+  * Merz und sein Umgang mit der Kinderärztin zeigen, warum der Kanzler so unbeliebt ist
+    https://www.fr.de/politik/aus-aerztin-und-merz-gerieten-nach-tv-streit-erneut-aneinander-kanzler-lachte-sie-zr-94465550.html
+  * Nach Gespräch mit Merz: "Ich bin nicht die Wut-Ärztin"
+    https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101410990/kinderaerztin-bea-merscher-nach-merz-konfrontation-bin-keine-wut-aerztin-.html
+  * Merz habe ihr gesagt, dass ihre Äußerungen in der Sendung „straffällig“ gewesen seien.
+    Ein anderer Gast der Sendung bestätigte die Schilderung in einem Instagram-Video
+    Merscher hatte Merz in der Sendung vorgeworfen, seinen Amtseid zu brechen, in dem er Gesetze wie das Sparpaket bei den Gesundheitsausgaben erlasse.
+    https://www.focus.de/politik/deutschland/aerztin-legt-gegen-merz-nach-er-lachte-mich-aus_bd92ffef-5884-4122-a2f0-fa9d70e41240.html
 * RTL Aktuell Spezial: Ein Tisch mit Friedrich Merz
+  * Will er nicht rechnen? Der Kanzler und die großen Zahlen
+    https://derklimablog.de/politik/will-er-nicht-rechnen-der-kanzler-und-die-grossen-zahlen/
   * Stadtbildaussage auf Müll oder Menschen
     https://bsky.app/profile/robertboni.bsky.social/post/3mu3vhubegk2z
+* ARD-Sommerinterview mit dem Kanzler 
+  * 0 Klimafragen in 30 Minuten
+    https://climatejustice.global/@klimavoracht@mastodon.social/117185801525517068
+  * Beim Thema Schuldenquote waren seine Aussagen mindestens irreführend. Die Aussagen von Merz im Faktencheck.
+    https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-merz-100.html
+    https://ard.social/@tagesschau/117185619102257331
+* Philipp Amthor von der CDU: Der Staatsnerd - Dass man Amthor nicht ernst nimmt und er mit seiner eigenen Karikatur spielt, heißt nicht, dass seine Politik harmlos ist oder niemandem schadet - im Gegenteil.
+  https://bsky.app/profile/janskudlarek.bsky.social/post/3mujimlc5g22z
 
 ## Wahlen
 * willst Du keinen Party-Schreck, mache vorher den party-check.org
@@ -392,6 +427,13 @@ type: blog
 * Welche Partei fördert FOSS?
   https://wiki.softwerke.md/books/bildungsangebote/page/parteien-befragung-zu-foss
   via https://machteburch.social/@softwerke/117173497757243954
+* Sieben Wahlprogramme, 16 Themen: Worüber die Berliner Parteien wirklich schreiben – und worüber nicht
+  https://interaktiv.tagesspiegel.de/lab/sieben-wahlprogramme-16-themen-worueber-die-berliner-parteien-wirklich-schreiben-und-worueber-nicht/
+  https://www.linkedin.com/posts/max-donheiser-703368107_der-wahlkampf-ist-in-vollem-schwung-und-seit-ugcPost-7495135394234191873-gz2e/
+* Berlin-Wahl: Berlin zur Transparenz-Hauptstadt machen
+  https://fragdenstaat.de/artikel/policy/2026/08/berlin-zur-transparenz-hauptstadt-machen/
+* AfD-Klimapolitik gefährdet Sachsen-Anhalts Wirtschaft
+  https://correctiv.org/aktuelles/klimawandel/2026/08/31/afd-klimapolitik-gefaehrdet-sachsen-anhalts-wirtschaft/
 
 ## Demokratie
 * Wir sind More in Common
@@ -459,6 +501,13 @@ type: blog
 * Neue Spiegel-Recherchen legen nahe, dass bei uns Schmerz-Medikamente von Parteispendern auch ohne ausreichende Fakten nur dank starkem politischem Druck zugelassen werden.
   https://www.spiegel.de/politik/deutschland/cannabis-investitionen-profitieren-csu-spender-von-neuer-cannabis-regelung-a-4438334d-e2a6-4df4-97a3-041bab25710f
   via https://bsky.app/profile/janoschdahmenmdb.de/post/3mu35kfoeks2p
+* Die Bundesregierung plant laut ihrer Antwort auf eine Große Anfrage der Linken-Fraktion keine Veröffentlichungspflicht von Treffen der Mitglieder des Bundeskabinetts mit Lobbyisten
+  https://www.bundestag.de/presse/hib/kurzmeldungen-1209376
+  https://social.bund.de/@hib_Nachrichten/117190086437651501
+* SkyCommons Observatory
+  https://skycommons.okfn.org
+  https://bsky.app/profile/okfn.bsky.social/post/3mrtukhnzxm2s
+ 
 ### Rechenzentren
 * Rechenzentrumsregister: Veröffentlichung und Daten nach § 13 EnEfG
   https://fragdenstaat.de/anfrage/rechenzentrumsregister-veroeffentlichung-und-daten-nach-ss-13-enefg/?utm_source=chatgpt.com#nachricht-1141846
@@ -475,6 +524,10 @@ type: blog
   https://www.sueddeutsche.de/projekte/artikel/wirtschaft/rechenzentrum-ki-deutschland-e572693/?reduced=true
 * Interaktive Karte zeigt viele geplante Rechenzentren in Deutschland
   https://www.heise.de/news/Interaktive-Karte-zeigt-viele-geplante-Rechenzentren-in-Deutschland-11433244.html
+* Protestaktion gegen Rechenzentrum
+  https://ooe.orf.at/stories/3369066/
+* Die Bundesregierung will Kommunen bestechen, um lokale Proteste gegen Rechenzentren zu brechen
+  https://indieweb.social/@alineblankertz/117190384252393934
 
 ## Überwachung
 * Harte Kritik am Thüringer Polizeigesetz: "Verfassungsrechtlich ist das nicht tragbar"
@@ -517,6 +570,12 @@ type: blog
   https://www1.wdr.de/nrw/dortmund/dortmund-ubahn-sicherheit-videobeobachtung-ki-100.html
 * Berliner Polizeigesetz: Linke und Grüne ziehen vor den Verfassungsgerichtshof
   https://netzpolitik.org/2026/berliner-polizeigesetz-linke-und-gruene-ziehen-vor-den-verfassungsgerichtshof/
+* Peter Thiel ante portas
+  https://berlin.ccc.de/post/2026/08/28/peter-thiel-ante-portas/
+* Wegducken vor den Fragen des digitalen Zeitalters: Die automatisierte Datenanalyse braucht menschenrechtliche Grenzen, weil menschliche Grenzen obsolet werden
+  https://verfassungsblog.de/palantir-diskriminierung-menschenrechte/
+* Interview: "Die Geheimdienstreform untergräbt das Vertrauen zwischen Ärzten und Patienten"
+  https://netzpolitik.org/2026/die-geheimdienstreform-untergraebt-das-vertrauen-zwischen-aerzten-und-patienten/
 
 ## KI
 ### Recht
@@ -580,6 +639,15 @@ type: blog
   https://www.fr.de/wissen/ki-in-der-wissenschaft-studie-warnt-vor-black-box-problem-zr-94449838.html
 * KI wird zum größten KI-Kunden: Agenten treiben den Token-Verbrauch nach oben
   https://the-decoder.de/ki-verbraucht-mehr-tokens-als-menschen-agenten-treiben-den-verbrauch-massiv-nach-oben/
+### Hype
+* Stanisław Lem foretold the current LLM mania in 1964
+  https://nibblestew.blogspot.com/2026/08/stanisaw-lem-foretold-current-llm-mania.html
+### KI als Werkzeug fürs Gute?
+* Post Hoc Public AI
+  https://profalexreid.com/2026/08/28/post-hoc-public-ai/
+  https://openbiblio.social/@acka47/117191462538931294
+* Peacemaking and conflict mediation: AI as a tool, human judgment as the key
+  https://blog.okfn.org/2026/08/31/peacemaking-and-conflict-mediation-ai-as-a-tool-human-judgment-as-the-key/
 
 ## Recap
 * [DWebCamp Workshop](https://d-64.org/workshop-dezentralisierungsprojekt/): Von dezentraler Technik zu demokratischer Kontrolle
@@ -588,6 +656,8 @@ type: blog
   * [Overfull to-do list after FrOSCon 21](https://stoeps.de/posts/2026/froscon_21/)
 * [Hack ma's Castle 2026](https://media.ccc.de/c/hackmas2026)
   * u.a. [Ein Jahr Informationsfreiheit – eine Zwischenbilanz](https://media.ccc.de/v/ein-jahr-informationsfreiheit-eine-zwischenbilanz-forum-informationsfreiheit-inv)
+* [State of the Map 2026](https://2026.stateofthemap.org/)
+  * e.g. [CoMaps - How to make a community-based map & navigation app based on OpenStreetMap](https://2026.stateofthemap.org/sessions/DDJRVU/)
 
 ## Fristen
 * [Open Data Consultation](https://bmds.bund.de/themen/digitale-wirtschaft/daten/open-data/online-konsultation-open-data), Einsendung bis 15.09.2026
@@ -600,6 +670,12 @@ type: blog
   https://w3c.social/@w3c/117049552285136702
 * This teacher showed artifacts from 30 yrs ago. Funny and depressing at the same time. 30 yrs ago was 1990
   https://bsky.app/profile/auntbunny.bsky.social/post/3ms7sh6kuec2r
+
+## Termine sortierten
+* Videoüberwachung und KI - Bürgerrechte unter Druck
+  https://www.cccs.de/events/202609-videoueberwachung-und-ki/
+* Peter Thiel ante portas
+  https://berlin.ccc.de/post/2026/08/28/peter-thiel-ante-portas/
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Dienstag, 01.09.2026, 20:00-22:00, c-base, Rungestraße 20, 10179 Berlin und auch online: **159. Netzpolitischer Abend** <a title='Kalendereintrag 159. Netzpolitischer Abend' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vMTU5LiBOZXR6cG9saXRpc2NoZXIgQWJlbmQvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjA4MzBUMDYzNzU5Wg0KRFRTVEFSVDoyMDI2MDkwMVQyMDAwMDANCkRURU5EOjIwMjYwOTAxVDIyMDAwMA0KU1VNTUFSWToxNTkuIE5ldHpwb2xpdGlzY2hlciBBYmVuZA0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly9kaWdpdGFsZWdlc2VsbHNjaGFmdC5kZS8yMDI2LzA4LzE1OS1uZXR6cG9saXRpc2NoZXItYWJlbmQvDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOmMtYmFzZVwsIFJ1bmdlc3RyYcOfZSAyMFwsIDEwMTc5IEJlcmxpbiB1bmQgYXVjaCBvbmxpbmUNCkdFTzo1Mi41MTI5NzM1OzEzLjQyMDEzMTMNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
