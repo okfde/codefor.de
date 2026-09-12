@@ -28,47 +28,30 @@ Bei WikiData [erinnert man daran](https://wikis.world/@wikidata/1170578867100798
 
 Links zu Quellen offener Daten, APIs, Werkzeuge, Anwendungen speziell für München [sammelt](https://norden.social/@datenschatz/117025148922244688) Tim im Wiki [Awesome Munich Data](https://github.com/tifa365/awesome-munich-data).
 
-Die Open Data bzw. Open Access Veröffentlichungsplattform für Forschungsdaten & Community [Dryad](https://en.wikipedia.org/wiki/Dryad_(repository)) hat [ihren Jahresbericht](https://blog.datadryad.org/2026/08/26/dryad-releases-2025-annual-report-enhanced-service-robust-partnerships-and-rising-data-publications/) vorgelegt und freut sich darin über eine wachsende Zahl an Datensätze.
-
 [Kiwix](https://en.wikipedia.org/wiki/Kiwix) ist ein Open Source Offline Web-Browser, der sich ursprünglich nur auf die Wikipedia konzentriert hat, inzwischen auch andere Web-Seiten wie Projekt Gutenburg und [viele andere](https://browse.library.kiwix.org/#lang=deu) unterstützt. Denn freies Wissens sollte unabhängig von einer Internetverbindung für alle zugänglich sein. Gerade relevant in autoritären Staaten, in denen eben dieser Zugang beschränkt wird.
 
-### Parlamentsdaten
-* Aufbauend auf dem OParl-Standard: Alle ~10.700 deutschen Gemeinden, über 60.000 Ratsanträge und -beschlüsse mit Abstimmungsergebnissen, durchsuchbar an einem Ort: ratsblick.de
-  https://ratsblick.de
-  via https://mastodon.social/@Haplo_EU/117041927102290589
-* fast 10.000 Reden des Landtags Sachsen-Anhalt.de strukturiert über eine Suchmaschine zugänglich
-  https://redefreiheit-sachsen-anhalt.de
-  https://digitalcourage.social/@rifter/117081136803082119
-* Aus "Urheberrechtlichen Gründen" hat der Bundestag sein Web-Archiv 2005 bis 2016 geschlossen.
-  https://www.bundestag.de/error-webarchiv-1165834
-  https://infosec.exchange/@ennolenze/117148736065674696
-  * eine Information darüber, ob der Wissenschaftliche Dienst des Bundestags die "urheberrechtlichen Gründe" begutachtet hat, die zur Abschaltung des Web-Archivs führten.
-    Diese Dokumente sind nach § 5 Abs. 2 UrhG gemeinfrei, da sie als "amtliche Werke
-    https://fragdenstaat.de/anfrage/urheberrechtliche-gruende-fuer-die-abschaltung-des-web-archivs/
-  * https://fragdenstaat.de/dokumente/276272-2026-081-information_geschwaerzt/
-    https://chaos.social/@denes@mastodon.online/117154934028920647
-  * Der Deutsche Bundestag hat Urheberrechtsprobleme
-    https://www.heise.de/news/Der-Deutsche-Bundestag-hat-Urheberrechtsprobleme-11427223.html
-* swissparlpy 2.1.0 publiziert 
-  https://metaodi.ch/swissparlpy/
-  https://bsky.app/profile/metaodi.ch/post/3mssd3vwmn22o
-* Auswertung: Licht und Schatten in der Gesetzgebung der Bundesregierung
-  https://bundestagszusammenfasser.de/auswertung-licht-und-schatten-in-der-gesetzgebung-der-bundesregierung
+## Parlamentsdaten
+Da die Rechte für die Bilder nicht dauerhaft gesichert worden sind, hat der Bundestag sein [Web-Archiv](https://www.bundestag.de/error-webarchiv-1165834) 2005 bis 2016 bereits am 17. Aptil 2026 [rigeros geschlossen](https://www.heise.de/news/Der-Deutsche-Bundestag-hat-Urheberrechtsprobleme-11427223.html), da der Aufwand die Bilder aus den darin enthaltenen PDFs entfernen zu groß wäre. In seiner [Informationsfreiheitsanfrage](https://fragdenstaat.de/anfrage/urheberrechtliche-gruende-fuer-die-abschaltung-des-web-archivs/) fordert Prof. Dr. Dr. Hanjo Hamann, Qualifikationsprofessor für Wirtschafts- und Immaterialgüterrecht, insbesondere Recht der Digitalisierung und Rechtslinguistik, Information darüber an, wie diese Entscheidung zu Stande gekommen, denn nach seiner Rechtsauffassuung sind die Dokumente nach § 5 Abs. 2 UrhG gemeinfrei und können nicht nachträglich beschränkt werden. Weil der Entscheidungsprozess [angeblich noch nicht abgeschlossen ist](https://chaos.social/@denes@mastodon.online/117154934028920647), werden diese und andere Anfragen bisher abgelehnt.
+
+Der [Bundestagszusammenfasser](https://pazufa.de) hat alle 175 Gesetzentwürfe [ausgewertet](https://bundestagszusammenfasser.de/auswertung-licht-und-schatten-in-der-gesetzgebung-der-bundesregierung), die von der Bundesregierung zwischen dem 1. Juli 2025 und dem 30. Juni 2026 im Kabinett beschlossen wurden. Zwar wurden 95% der Referentenentwürfe auf den Übersichtsseiten der Ministerien veröffentlicht, aber nur für 28% gibt es auch eine öffentlich zugängliche Synopse. 82% der Gesetzentwürfe enthalten einen [exekutiven Fußabdruck](https://www.digitale-verwaltung.de/Webs/DV/DE/transformation/exekutiver-fussabdruck/exekutiver-fussabdruck-node.html), aber nur 19% liefern auch einen echten Informationsmehrwert. Für 89% der Verbändeanhörungen wurden die Stellungnahmen veröffentlicht, aber bei 68 % betrug die Frist weniger als vier Wochen. Während das Ministerium der Justiz und für Verbraucherschutz in der Auswertung noch gut abschneidet, belegt das Innenministerium in allen Kategorien einer der letzten Plätze. 
+
+Stefan Weißwange hat [in den letzten Wochen und Monaten](https://digitalcourage.social/@rifter/117081136803082119) fast 10.000 Reden des Landtags in Sachsen-anhalt.de erfasst, strukturiert und über [eine Suchmaschine](https://redefreiheit-sachsen-anhalt.de) zugänglich gemacht.
+
+[Ratsblick](https://ratsblick.de) ist eine gemeinnützige Initiative von Marco Hagen, die aufbauend auf dem OParl-Standard öffentliche Daten über Ratssitzungen, Anträge, Änderungsanträge und Ratsmitglieder aller deutschen Gemeinden [sammelt](https://mastodon.social/@Haplo_EU/117041927102290589). Beim stichprobenartigen Ausprobieren eröffnen sich allerdings noch einige Lücken (trotz Oparl-Verfügbarkeit), es sind bei weiten noch nicht alle Ratsmitglieder erfasst, teilweise sind nur die Titel der Vorlagen erfasst aber nicht die Inhalte, aber trotzdem interessante Initiative.
+
+Stefan Oderbolz hat die Python-Bibliothek [swissparlpy](https://metaodi.ch/swissparlpy/) in der Version 2.1.0 [veröffentlicht](https://bsky.app/profile/metaodi.ch/post/3mssd3vwmn22o). Mit dieser können nun auch die Daten vom Kantonsrat Zürich und Gemeinderat Zürich abgefragt werden.
 
 ## Open Science
-* (Re)Conceptualizing Open Science's "Openness"
-  https://markrubin.substack.com/p/reconceptualizing-open-sciences-openness
-* Open Educational Resources rechtlich entspannt veröffentlichen
-  https://irights.info/artikel/open-educational-resources-rechtlich-entspannt-veroeffentlichen/32878
-  https://mastodon.social/@leibnizopenscience/117117114142108633
+Die Open Data bzw. Open Access Veröffentlichungsplattform für Forschungsdaten & Community [Dryad](https://en.wikipedia.org/wiki/Dryad_(repository)) hat [ihren Jahresbericht](https://blog.datadryad.org/2026/08/26/dryad-releases-2025-annual-report-enhanced-service-robust-partnerships-and-rising-data-publications/) vorgelegt und freut sich darin über eine wachsende Zahl an Datensätze.
+
+Sabina Leonelli diskutiert [in ihrer Arbeit](https://markrubin.substack.com/p/reconceptualizing-open-sciences-openness) drei Formen der strukturellen Ungerechtigkeit in der wissenschaftlichen Forschung: erstens, den fehlenden Ressourcen bei Personal, Werkzeugen und Infrastrukturen, zweitens, der Lücke zwischen dem, an dem die Wissenschaft eigentlich gerne forschen würde und wofür sie tatsächlich Ressourcen bekommt, und drittens, dem Widerspruch von Arbeitsbedingungen und den ursprünglichen wissenschaftlichen Zielen. Unter diesen Gesichtspunkten sollte der Begriff "Offenheit" in der offenen Wissenschaft neu definiert werden. Das [Munich Manifesto for Equitable Open Science](https://opensciencestudies.eu/for-2026-conference/munich-manifesto/) kann dazu entsprechend mitgezeichnet werden.
+
+Die Hamburg Open Online University hat einen [Kurzcomic](https://oer.hoou.de/edu-sharing/components/collections?reurl=WINDOW&id=887b5cb1-e978-4a18-8cbd-acb31ef1b142) veröffentlicht, wie man Rechtsunsicherheiten [verringern](https://irights.info/artikel/open-educational-resources-rechtlich-entspannt-veroeffentlichen/32878) und rechtliche Hürden im Bereich der Erstellung und Veröffentlichung von Open Educational Resources (OER) [abbauen kann](https://mastodon.social/@leibnizopenscience/117117114142108633).
 
 ## Visalisierungen
-* Data Vis Dispatch, August 11: Solar eclipses, ChatGPT, and ticks
-  https://www.datawrapper.de/blog/data-vis-dispatch-august-11-2026-solar-eclipses-chatgpt-and-ticks
-* Data Vis Dispatch, August 18: Data art, low water levels
-  https://www.datawrapper.de/blog/data-vis-dispatch-august-18-data-art-low-water-levels-health
-* hier beispielhaft eine Doppelseite Bevölkerungspyramide
-  https://norden.social/@wahlatlas/117122136395651728
+In seinen wöchentlichen Data Vis Dispatches widmet sich der Datawrapper [am 11. August](https://www.datawrapper.de/blog/data-vis-dispatch-august-11-2026-solar-eclipses-chatgpt-and-ticks) unter anderem der Sonnenfinsternis und [am 18. August](https://www.datawrapper.de/blog/data-vis-dispatch-august-18-data-art-low-water-levels-health) den niedrigen Pegelstände der Flüsse.
+
+Für die Daten aus dem Aufsatz "Eingewanderte in Deutschland – Zur Differenzierung einer heterogenen Gruppe" aus dem [Wirtschaft und Statistik](https://www.destatis.de/DE/Methoden/WISTA-Wirtschaft-und-Statistik/2026/04/wista-042026.pdf?__blob=publicationFile) Journal des Statitischen Bundesamt hat Wahlatlas mit ggplot2 die Bevölkerungspyramiden [visualisiert](https://norden.social/@wahlatlas/117122136395651728).
 
 ## Digitale Souveränität
 * Update: Datenrettung für social.anoxinon.de beschlossen
