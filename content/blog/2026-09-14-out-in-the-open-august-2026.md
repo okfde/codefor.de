@@ -206,46 +206,31 @@ Forschenden des Fraunhofer-Instituts ISE und der Universität Freiburg gelang es
 In Bamberg werden E-Auto-Ladestationen getestet, die platzsparend [in Bordsteinen](https://www.br.de/nachrichten/bayern/bamberg-testet-ladebordsteine-fuer-e-autos,VQkRlfr) verbaut sind.
 
 ## Klima
-* Rauch der Feuerwolken aus Bordeaux in großer Höhe über Leipzig
-  https://www.tropos.de/aktuelles/pressemitteilungen/details/rauch-der-feuerwolken-aus-bordeaux-in-grosser-hoehe-ueber-leipzig
-  * Bordeaux, beliebtes Reiseziel bei Sachsen, die es auf Grund sprachlicher Hürden nicht nach ein ähnlich klingenden Stadt in Portugal schaffen
-* Historische Daten zeigen, dass ein Niedrigwasser von 30 Tagen etwa ein Prozent weniger für die deutsche Industrieproduktion bedeutet.
-  https://taz.de/Zu-wenig-Wasser-im-Rhein/!6203483/
-* Im Hohen Venn wurden laut belgischen Medien über 2000ha in 30 Stunden zerstört. Das Hohe Venn ist eines der größten Hochmoore Europas.
-  https://www.lemonde.fr/planete/article/2026/08/15/incendie-en-belgique-le-feu-dans-un-parc-naturel-a-l-est-du-pays-a-deja-parcouru-1-650-hectares_6746673_3244.html
-  https://social.tchncs.de/@MarjaKatz/117100996876215251
-  * Großbrand im Hohen Venn: Gigantische ökologische Tragödie
-    https://taz.de/Grossbrand-im-Hohen-Venn/!6205549/
-* Die bayerische Regierung möchte Klimaklagen gegen deutsche Unternehmen per Gesetz ausschließen. 
-  https://verfassungsblog.de/bayern-initiative-gegen-klimaklagen/
-  https://legal.social/@verfassungsblog/117116262018653250
-* Europa brennt: Diese Bilder und Karten zeigen das Ausmaß der Katastrophe
-  https://www.tagesspiegel.de/wissen/europa-brennt-diese-bilder-und-karten-zeigen-das-ausmass-der-katastrophe-15953501.html
-* Die Folgen des Klimawandels aus Satelliten-Perspektive
-  https://www.ardmediathek.de/video/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy83YWIzYTE3ZC04NzI5LTQyNzYtOWZkYS03ZjRlZTU2MDUyODc
-* Extremsommer in Deutschland: 14.000 Hitzetote – vielleicht auch ein paar Tausend mehr
-  https://taz.de/14000-Hitzetote--vielleicht-auch-ein-paar-Tausend-mehr/!6205754/
-* Stärkster El Niño jetzt wahrscheinlich: Folgen für Europa vor allem indirekt
-  https://www.heise.de/news/Staerkster-El-Nino-jetzt-wahrscheinlich-Folgen-fuer-Europa-vor-allem-indirekt-11423111.html
-* Ihr Wegweiser zu Klimavorsorgediensten in Deutschland
-  https://www.klivoportal.de/
-  https://social.bund.de/@Umweltbundesamt/117155878900115879
-* Stadtklima Basel
-  https://statistik.bs.ch/stadtklima/
-  https://www.linkedin.com/posts/stadtklima-basel-smartcity-share-7493583755803070464-fuqu/
-* Folgen der Hitze: Ernteausfälle, Notschlachtungen, steigende Preise: Landwirtschaft fordert Sofortmaßnahmen
-  https://www.derstandard.at/story/3000000333931/ernteausfaelle-not-schlachtungen-steigende-preise-landwirtschaft-fordert-sofortmassnahmen?ref=article
-* Scientists descended more than 15,400 feet into the Atlantic and found more than 200,000 barrels of leaking radioactive waste
-  https://www.earth.com/environment/scientists-found-200000-barrels-of-leaking-radioactive-waste/
-* Dürreschäden in der Landwirtschaft
-  https://bsky.app/profile/diewirthin.bsky.social/post/3msqfclx52s26
-* CORRECTIV-Fluss-Atlas: Deutschlands Flüsse trocknen aus
-  https://correctiv.org/aktuelles/klimawandel/2026/08/20/correctiv-fluss-atlas-deutschlands-fluessen-trocknen-aus/
-* Nehmt Wasser mit in die Schule, dann wird alles gut werden
-  https://bsky.app/profile/denniskberlin.bsky.social/post/3mtyhugbkes2j
-* Klimachronik
-  https://www.data.gv.at/applications/8005b838-cc56-4a72-b09f-4e4f826ba056?locale=de
-  via https://mastodon.social/@datagvat/117173413263642249
+### Waldbrand
+Das [Hohe Venn](https://de.wikipedia.org/wiki/Hohes_Venn) zwischen Belgien und Deutschland ist eines der größten Hochmoore Europas. [Laut belgischen Medien](https://www.lemonde.fr/planete/article/2026/08/15/incendie-en-belgique-le-feu-dans-un-parc-naturel-a-l-est-du-pays-a-deja-parcouru-1-650-hectares_6746673_3244.html) wurden durch den Flächenbrand am 14. August, begünstigt durch die extreme Hitze und Dürre, [über 2000ha in 30 Stunden zerstört](https://social.tchncs.de/@MarjaKatz/117100996876215251). Vermutlich wurde diese einzigartige Moorlandschaft [damit dauerhaft zerstört](https://taz.de/Grossbrand-im-Hohen-Venn/!6205549/).
+
+Der Tagesspiegel zeigt [an Hand von Fotos und Kartendarstellung](https://www.tagesspiegel.de/wissen/europa-brennt-diese-bilder-und-karten-zeigen-das-ausmass-der-katastrophe-15953501.html) das Ausmaß der Brände in ganz Europa.
+
+Der Leibnitz-Institut für Troposphärenforschung konnte in den Nächten von 28. bis 30. Juli 2026 in 10-11 Kilometern Höhe Rauchschichten über Leipzig beobachten, als deren Ursprung ein Waldbrandgebiet bei Bordeaux identifzieren konnte (Bordeaux, ein beliebtes Reiseziel bei Sachsen, da sie es auf Grund sprachlicher Hürden nicht schaffen, Reisen in eine ähnlich klingende Stadt in Portugal zu buchen).
+
+### Trockenheit
+Die Niedrigwasser-Krise bei deutschen Flüssen ist kein Ausreißer sondern ein langjähriger Trend mit entsprechend Folgen für Natur, Wirtschaft und Trinkwasser, [das belegen die Analysen des CORRECTIV-Fluss-Atlas](https://correctiv.org/aktuelles/klimawandel/2026/08/20/correctiv-fluss-atlas-deutschlands-fluessen-trocknen-aus/).
+
+[Ein Blick auf historische Daten zeigt](https://taz.de/Zu-wenig-Wasser-im-Rhein/!6203483/), dass ein 30 Tagen lang anhaltendes Niedrigwasser bei der Schifffahrt einhergeht mit einem Prozent weniger deutsche Industrieproduktion.
+
+Die Landwirtschaft ist mit [am stärksten von der Klimakrise betroffen](https://www.derstandard.at/story/3000000333931/ernteausfaelle-not-schlachtungen-steigende-preise-landwirtschaft-fordert-sofortmassnahmen?ref=article): Ernteausfälle, Notschlachtungen und steigende Preise. [Die Kosten](https://bsky.app/profile/diewirthin.bsky.social/post/3msqfclx52s26) der Versicherer sprechen ein deutliche Sprache. 
+
+Kein Klimaschutz ist damit definitiv teurer als Klimaschutz. Die bayerische Regierung bleibt aber unbelehrbar und möchte Klimaklagen gegen deutsche Unternehmen mit zweifelhaften Vorwänden [per Gesetz ausschließen](https://verfassungsblog.de/bayern-initiative-gegen-klimaklagen/). Nur wer trägt sonst die Kosten der Klimakrise? Scheinbar mal wieder die Allgemeinheit.
+
+### Folgen
+[Mediziner gehen davon aus](https://taz.de/14000-Hitzetote--vielleicht-auch-ein-paar-Tausend-mehr/!6205754/), dass die vom RKI gemeldeten 14.000 Hitzetote noch zu konservativ geschätzt sind und um ein paar Tausend höher liegen könnte - aber wieder das Bestimmungsproblem: an Hitze oder mit Hitze gestorben?
+
+Das [Deutsche Klimavorsorgeportal](https://www.klivoportal.de/) bündelt Daten und Informationen zum Klimawandel sowie Dienste zur zielgerichteten Anpassung an die Klimafolgen. Das ist mehr als dem Bundeskanzler [zur Hitze einfällt](https://bsky.app/profile/denniskberlin.bsky.social/post/3mtyhugbkes2j).
+
+### Daten
+Die App [Klimachronik](https://www.klimachronik.com) macht für Österreich historische und aktuelle Wetterdaten offizieller Messstationen auf einer [interaktiven Karte](https://mastodon.social/@datagvat/117173413263642249) verständlich [zugänglich](https://www.data.gv.at/applications/8005b838-cc56-4a72-b09f-4e4f826ba056?locale=de).
+
+[Auch für Basel](https://www.linkedin.com/posts/stadtklima-basel-smartcity-share-7493583755803070464-fuqu/) in der Schweiz gibt es die wichtigsten Kennzahlen [zum Stadtklimakonzept](https://statistik.bs.ch/stadtklima/) als interaktive Grafiken sowie ein Dashboard, über das man kühle Orte finden kann.
 
 ## Gesundheit
 * Salmonellen in Ihrem Essen – wollen Sie das wissen? Noch müssen private Labore solche Funde den Behörden melden. Genau diese Pflicht will Landwirtschaftsminister Rainer streichen. Doch beschlossen ist noch nichts – jetzt entscheidet der Bundestag. Fordern Sie die Abgeordneten auf: Die Meldepflicht muss bleiben!
