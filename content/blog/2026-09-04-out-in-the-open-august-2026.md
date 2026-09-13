@@ -72,34 +72,30 @@ Das italienisches Internetkollektiv Autistici/Inventati (A/I) wurde 2001 im Kont
 
 Wie stillschweigend die europäischen Regierungen solche Entscheidungen hinnehmen, [zeigt sich schon](https://bsky.app/profile/sven-giegold.de/post/3mtlkuxnmms2q) im Fall der Präsidentin des Internationalen Strafgerichtshofs. Trump hatte verfügt, dass dieser Konto, Kreditkarte & Onlinedienste gesperrt werden, weil sie es gewagt hatte, Kriegsverbrechen zu verfolgen.
 
-[Wie ehrerbietig](https://mastodon.online/@parismarx/117185156042112041) erratische Entscheidungen des US-Präsidenten von BigTech, in dem Fall von Google, Folge geleistet werden, zeigt sich bei der Umbenennung von "Lake Ontario" zu "Lake America", die alsbald auf Google Maps [vollzogen wurde](https://www.tagesspiegel.de/internationales/nach-trumps-umbenennung-lake-ontario-wird-auf-google-maps-in-den-usa-zu-lake-america-15999009.html). Als Machtdemonstration und Ärger über die Widerspenstigkeit Kanadas im Zollstreit hatte Trump die Namensänderung verfügt. [Marwe schlägt vor](https://troet.cafe/@Marwe/117186861938177039), der Präsident solle sich stattdessen auf einem Dienst wie [rename.world](https://rename.world) austoben, dann bliebe wenigstens der Rest der Welt von seinem Blödsinn verschont.
+[Wie ehrerbietig](https://mastodon.online/@parismarx/117185156042112041) erratische Entscheidungen des US-Präsidenten von BigTech, in dem Fall von Google, Folge geleistet werden, zeigt sich bei der Umbenennung von "Lake Ontario" zu "Lake America", die alsbald auf Google Maps [vollzogen wurde](https://www.tagesspiegel.de/internationales/nach-trumps-umbenennung-lake-ontario-wird-auf-google-maps-in-den-usa-zu-lake-america-15999009.html). Als Machtdemonstration und Ärger über die Widerspenstigkeit Kanadas im Zollstreit hatte Trump die Namensänderung verfügt. [Marwe schlägt vor](https://troet.cafe/@Marwe/117186861938177039), der Präsident solle sich stattdessen auf einem Dienst wie [rename.world](https://rename.world) austoben (und z.B. die Straße von Hormus in Trumpelpfad umbenennen), dann bliebe wenigstens der Rest der Welt von seinem Blödsinn verschont.
 
 ## Open Source
-* Update: Datenrettung für social.anoxinon.de beschlossen
-  https://anoxinon.de/blog/mastodon_datenrettung_update_2026-08-02/
-  * Open Source heißt Solidarität - Danke an euch alle!
-    https://anoxinon.de/blog/danke-fuer-eure-spenden/
-* Zulip
-  https://zulip.com
-  https://zulip.com/development-community/
-* Der Kult-Messenger ICQ kehrt als inoffizielles Fanprojekt zurück, inklusive UINs, Kontaktliste und "Uh-oh"-Sound.
-  https://www.heise.de/news/Uh-oh-ist-zurueck-Fanprojekt-will-ICQ-Messenger-wiederbeleben-11398962.html
-* SHARE open source / FLOSS (free / libre and open) online tools to communicate -
-  https://pad.riseup.net/p/online-tools-for-the-pandemic-keep
-  via https://systerserver.town/@poemproducer/117177411822848774
-* Linux durchbricht 10-Prozent-Marke: Nordamerika-Anteil verdoppelt sich
-  https://borncity.com/news/linux-durchbricht-10-prozent-marke-nordamerika-anteil-verdoppelt-sich/
-* TGIQF: 35 Jahre Linux - Das Quiz
-  https://www.heise.de/news/TGIQF-35-Jahre-Linux-Das-Quiz-11433268.html
-* Willkommen zum neuen DFN-Terminplaner
-  https://terminplaner.dfn.de
-* FediHood
-  https://fedihood.social
-* Prototype Fund 3.0 Neue Förderlinie: Aus eins mach drei!
-  https://www.prototypefund.de/blog/ptf-3-0
-  https://social.osb-alliance.de/@OSBA/117161182722377779
-* Wie OpenRedact ein neues Zuhause auf openCode fand
-  https://www.prototypefund.de/blog/wie-openredact-ein-neues-zuhause-auf-opencode-fand
+### Prototype Fund
+[Das Förderprogramm](https://www.prototypefund.de/blog/ptf-3-0) des Prototype Fund wird ab Oktober um die [Förderlinien](https://www.prototypefund.de/foerderlinien) ["Up and Coming"](https://www.prototypefund.de/up-and-coming) und ["Resilienz"](https://www.prototypefund.de/resilienz) erweitert, die schon bestehende Linie unter dem Namen ["Innovation"](https://www.prototypefund.de/innovation) weitergeführt.
+
+[OpenRedact](https://www.openredact.org) entstand 2020 im Rahmen der siebten Förderrunde des Prototype Fund. Mit ihm lassen sich personenbezogene Daten in Texten schwärzen, so dass sie anschließend unbedenklich als Open Data gestellt werden können. Im Prototyp Fund Blog [wird darüber berichtet](https://www.prototypefund.de/blog/wie-openredact-ein-neues-zuhause-auf-opencode-fand), wie der Code nun auf openCode umgezogen wurde und dort nun vom Datenlabor des Bundesforschungsministerium (BMFTR) weiter gepflegt wird. 
+
+### Linux
+Am 25. August 1991 kündigte der Finne Linus Torvalds die Entwicklung eines freien Betriebssystems an, das er schließlich am 17. September in der Version 0.01 unter den Namen Linux auf einen FTP-Server hochgeladen hat. Anlässlich diesen 35.Geburtstag kann man bei heise [in einem Quiz](https://www.heise.de/news/TGIQF-35-Jahre-Linux-Das-Quiz-11433268.html) sein Linux-Wissen testen.
+
+Auch wenn durch die Neubewertung von Web-Traffic bedingt und dieser zudem von Bot-Aktivitäten beeinflusst, ist unabhängig von der konkreten Prozentzahl [ein deutlicher Anstieg](https://borncity.com/news/linux-durchbricht-10-prozent-marke-nordamerika-anteil-verdoppelt-sich/) der Linux-Nutzung nicht nur in Nordamerika zu verzeichnen. Vor allem im Gaming Bereich ist das Linux-basierte Steam-Deck ein echter Treiber. Aber auch die inzwischen sehr hohen Arbeitsspeicheranforderungen von Windows bei gleichzeitig hohen Preisen bewegen Menschen zum Umstieg.
+
+### Kommunikationsinfrastruktur
+Schon [seit einigen Jahren](https://systerserver.town/@poemproducer/117177411822848774) wird in diesem [Etherpad](https://pad.riseup.net/p/online-tools-for-the-pandemic-keep) eine Liste von Open Source bzw. freier Online-Kommunikationsdienste gepflegt.
+
+[Zulip](https://zulip.com) ist eine [Open-Source](https://github.com/zulip/zulip)-Alternative zu Slack, mit der man sowohl chatten als kollaborativ zusammenarbeiten kann. [Inzwischen](https://en.wikipedia.org/wiki/Zulip) wird es von der Zulip Foundation und natürlich [der Community](https://zulip.com/development-community/) weiterentwickelt.
+
+Der [DFN-Terminplaner](https://terminplaner.dfn.de) als datenschutzfreundlicher Dienst zur Termin- und Umfrageabstimmung für die deutsche Wissenschaftsgemeinschaft (kann aber auch außerhalb davon genutzt werden), [kommt in der neuen Version 7](https://www.dfn.de/22995/) mit moderner Benutzeroberfläche und einige neuen Funktionen daher.
+
+### Fediverse
+Einem geschenkten Gaul schaut man nicht ins Maul, aber hinter jedem Server steht Hardware, die über die Zeit verschleißt, und wenn das Backup nicht richtig konfiguriert, steht man vor der Herausforderung der Datenrettung von der defekten Festplatte. So passiert beim Mastodon-Server social.anoxinon.de, wodurch die Profile und ihre Daten nicht mehr verfügbar waren. Die Community hat sich aber klar für eine Rettung der Daten [ausgesprochen](https://anoxinon.de/blog/mastodon_datenrettung_update_2026-08-02/) und dank zahlreicher Spenden ("Open Source heißt Solidarität") ist diese [nun auch möglich](https://anoxinon.de/blog/danke-fuer-eure-spenden/).
+
+Dank ActivityPub und OpenStreetMap kann man sich über [FediHood](https://fedihood.social) mit Leuten in der gleichen Stadt über bestimmte Themen [austauschen](https://chaos.social/@apps@toot.fedilab.app/117095740071332251). Die Software [ist auch Open Source](https://github.com/bil-ash/fhood).
 
 ## Verwaltungsdigitalisierung
 * Einheitliche IT-Lösungen vs. Föderalismus
@@ -551,7 +547,7 @@ Wie stillschweigend die europäischen Regierungen solche Entscheidungen hinnehme
 * Interview: "Die Geheimdienstreform untergräbt das Vertrauen zwischen Ärzten und Patienten"
   https://netzpolitik.org/2026/die-geheimdienstreform-untergraebt-das-vertrauen-zwischen-aerzten-und-patienten/
 
-## KI
+## Degenerierte KI
 ### Recht
 * AI Act: From now on, companies across the EU must be clear about  their use of AI.
   https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
