@@ -159,43 +159,23 @@ Mapper-Jonas hat [eine Anleitung](https://www.openstreetmap.org/user/Mapper-Jona
 [City2Graph](https://city2graph.net/) ist eine [Open-Source](https://github.com/c2g-dev/city2graph)-Python-Bibliothek, die Geodaten wie Gebäude und Straßen in Graphen konvertiert, so dass man sie [einer Netzwerkanalyse unterziehen kann](https://www.sciencedirect.com/science/article/pii/S0198971526000943).
 
 ## Mobilität
-* Kommt jetzt eine ernsthafte Debatte über eine PkwMaut in Deutschland?
-  https://agora-thinktanks.social/@agoraverkehr/117041990849301389
-* Ulm mit eigener Panoramax Instanz
-  https://panoramax-ulm.jjbaur.de/
-  https://mastodon.social/@looniverse/117038999206056937
-* Neue LangeNacht im DLF zu Flächenkonflikten und Flächengerechtigkeit beim Straßenverkehr
-  https://www.deutschlandfunkkultur.de/lange-nacht-zum-strassenverkehr-in-deutschland-freie-fahrt-fuer-freie-buerger-100.html
-  via https://climatejustice.global/@GermanZeroHH/117058443370747189
-* Train Price Tracker
-  https://www.trainpricetracker.com
-  via https://chaos.social/@ubahnverleih/117067204788589303
-* DelayBahn - Verbindungssuche mit Verspätungsstatistik
-  https://delaybahn.com
-  https://www.heise.de/news/DelayBahn-zeigt-wie-oft-eine-Bahnverbindung-zuletzt-Verspaetung-hatte-11414799.html
-  * Deutsche Bahn Statistiken
-    https://piebro.github.io/deutsche-bahn-data/stats/allgemein.html
-    https://social.tchncs.de/@kunde_x/117114636234312789
-* Mehr Kinder verunglückt: ADFC fordert sichere Schulwege
-  https://www.adfc.de/neuigkeit/mehr-kinder-verunglueckt-adfc-fordert-sichere-schulwege
-* BikeNetKit: Open Bicycle Network Algorithms for boosting the Green Transition of European Cities
-  https://github.com/BikeNetKit
-  https://bikenetkit.org
-* German trains on a typical Wednesday in 2026 
-  https://chillchamp1.github.io/github.io/#eu
-  https://mastodon.social/@onlmaps/117144257296926858
-* Die Mobilität von morgen
-  https://www.rwth-aachen.de/go/id/bsocvj
-* Tickets in Transitous
-  https://jbb.ghsq.de/kde/2026/08/27/GTFS-Ticketing.html
-  https://social.tchncs.de/@Jbb/117169639280558732
-* OpenMobility OS: Das Betriebssystem zwischen offenen Mobilitätsdaten und politischen Entscheidungen.
-  https://omos-beta.visual-adrenalin.de
-* Berlin bequem - aber für wen?
-  https://www.berlinbequem.de
-* The Motis team is presenting their incredible transit router.
-  https://amicale.net/@cartes_app/117178053710590381
-  https://cartes.app/
+### Straße
+[Panoramax](https://panoramax.fr) ist eine Geo-Commons für Gebietsfotos und damit eine Community-basierte Alternative zu Diensten wie Google Street View. Beim Temporärhaus in Neu-Ulm hat man eine [eigene Instanz](https://panoramax-ulm.jjbaur.de/) aufgesetzt ([entsprechend findet man da](https://panoramax-ulm.jjbaur.de/) nur Aufnahmen aus Ulm und Neu-Ulm).
+
+[Eine Lange Nacht](https://www.deutschlandfunkkultur.de/lange-nacht-zum-strassenverkehr-in-deutschland-freie-fahrt-fuer-freie-buerger-100.html) im Deutschlandfunk hat sich Flächenkonflikten und Flächengerechtigkeit beim Straßenverkehr angenommen.
+
+Laut Statistischen Bundesamtes (Destatis) verunglückten im letzten Jahr 29.270 Kinder im Straßenverkehr in Deutschland, und damit sieben Prozent mehr als 2024. [Der ADFC fordert deshalb](https://www.adfc.de/neuigkeit/mehr-kinder-verunglueckt-adfc-fordert-sichere-schulwege), Schulwege endlich sicherer zu gestalten, z.B. mit mehr ausgewiesenen Schulstraßen und Schulwegeplänen als auch Tempo 30 innerorts.
+
+### Schiene
+Mit [DelayBahn](https://delaybahn.com) bekommt man bei der Verbindungssuche gleich noch die historische Verspätungsstatistik [angezeigt](https://delaybahn.com
+  https://www.heise.de/news/DelayBahn-zeigt-wie-oft-eine-Bahnverbindung-zuletzt-Verspaetung-hatte-11414799.html), um so schon genügend Puffer für die Umstiege einplanen zu können. Die Verspätungsdaten kommen von [Deutsche Bahn Statistiken](https://piebro.github.io/deutsche-bahn-data/stats/allgemein.html). Beide Projekte sind völlig unabhängig von der offiziellen Deutschen Bahn.
+
+["On Day On Rails"](https://chillchamp1.github.io/github.io/#eu) zeigt einen typischen Mittwoch in 2026 auf Europas Schienen als animierte Karte, [hier speziell nur für Deutschland](https://mastodon.social/@onlmaps/117144257296926858).
+
+### Verkehrswende
+[OpenMobility OS](https://omos-beta.visual-adrenalin.de) soll Kommunen, Planer:innen, Lokalpolitik, NGOs und Journalist:innen hilft, Mobilitätsmaßnahmen zu priorisieren und zwar auf Basis offener Daten und nutzbar für jede Stadt oder Region weltweit. Leipzig ist [die erste Demo-Instanz](https://omos-beta.visual-adrenalin.de/leipzig/).
+
+Im Projekt [TransformMobility](https://www.geographie.hu-berlin.de/en/professorships/GIScience/projects/puremobility) entwickeln Berliner Universitäten und Forschungseinrichtungen gemeinsam mit Organisationen aus Gesellschaft und Praxis eine neue Vorstellung urbaner Mobilität, eine, die leicht, leise, gesund, klimafreundlich – und zugänglich für möglichst viele ist. Auf [Berlin bequem](https://www.berlinbequem.de) kann man dazu einige Fragen beantworten sowie Orte melden, die man entweder als besonders bequem oder eben besondern unbequem empfindet. 
 
 ## Energie
 * Wind-Bedingungen werden komplett umgebaut: Das stellt 6000 genehmigte Projekte infrage – ohne die die Energiewende scheitert.
