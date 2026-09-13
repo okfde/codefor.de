@@ -1,7 +1,7 @@
 ---
 title: "Zwischen Angstfrust und Hoffnungstrotz – Out in the Open August 2026"
 author: "Jörg Reichert (Code for Leipzig)"
-date: '2026-09-07T08:00:00+02:00'
+date: '2026-09-14T08:00:00+02:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
 topic: community
 images:
@@ -178,38 +178,32 @@ Mit [DelayBahn](https://delaybahn.com) bekommt man bei der Verbindungssuche glei
 Im Projekt [TransformMobility](https://www.geographie.hu-berlin.de/en/professorships/GIScience/projects/puremobility) entwickeln Berliner Universitäten und Forschungseinrichtungen gemeinsam mit Organisationen aus Gesellschaft und Praxis eine neue Vorstellung urbaner Mobilität, eine, die leicht, leise, gesund, klimafreundlich – und zugänglich für möglichst viele ist. Auf [Berlin bequem](https://www.berlinbequem.de) kann man dazu einige Fragen beantworten sowie Orte melden, die man entweder als besonders bequem oder eben besondern unbequem empfindet. 
 
 ## Energie
-* Wind-Bedingungen werden komplett umgebaut: Das stellt 6000 genehmigte Projekte infrage – ohne die die Energiewende scheitert.
-  https://norden.social/@grimm/117047688208974813
-* Versorgungssicherheit: Gasspeicherstände erreichen historischen Tiefstand
-  https://www.heise.de/news/Gasspeicherverband-Fuellstaende-auf-Rekordtief-11421330.html
-  * OpenData: Deutschlands Gasspeicher liegen im August bei 50,06%. Alles super" oder "Gas-Krise"? Schluss mit Medien-Meinungen! Wir checken die Rohdaten der GIE-AGSI und erfahren, was das GasSpFüllstV damit zu tun hat.
-    https://elektroelch.de/blog/opendata-gasspeicher-in-deutschland-teil-1-gie-agsi/
-    https://mastodon.social/@Latz/117155482504856187
-  * https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mrcmtboq3s2o
-* China added an entire Germany's worth of low-carbon electricity generation in one year.
-  https://vis.social/@infobeautiful/117128410115157637
-* Kaum beginnt der CO2-Preis im Emissionshandel zu wirken, legt die EU-Kommission eine Reform vor, mit der Milliarden Zertifikate zusätzlich auf den Markt kommen sollen
-  https://klimareporter.de/europaeische-union/der-drei-milliarden-booster-im-emissionshandel
-* Gesetz für neue Gaskraftwerke: Umwelthilfe legt Beschwerde bei EU-Kommission ein
-  https://taz.de/Gesetz-fuer-neue-Gaskraftwerke/!6205390/
-* Bamberg testet Ladebordsteine für E-Autos
-  https://www.br.de/nachrichten/bayern/bamberg-testet-ladebordsteine-fuer-e-autos,VQkRlfr
-* USA zahlen über eine Milliarde Dollar, damit RWE keine Windparks baut
-  https://www.spiegel.de/wirtschaft/windkraft-usa-zahlen-ueber-eine-milliarde-dollar-damit-rwe-keine-windparks-baut-a-5c3166ae-df44-4fb4-8531-59c98ec8075a
-* Im ersten Halbjahr 2026 wurden laut Heizungsverband fast 1,5 mal so viele Wärmepumpen wie Gasheizungen verkauft.
-  https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mssegvzitt2n
-* Deutschlands größter Batteriespeicher ist am Netz
-  https://www.cleanthinking.de/batteriespeicher-merseburg/
-  https://bsky.app/profile/cleanthinking.wsocial.eu/post/3mt6oleujnc2t
-* Solar-Durchbruch aus Deutschland: Fenster sollen künftig Strom erzeugen
-  https://www.basicthinking.de/blog/2026/08/27/semitransparente-solarzellen/
-* Geringe Frustrationstoleranz: Offenbar Start-up-Investor-Rauswurf nach Linkedin-Kritik an Reiche
-  https://www.golem.de/news/start-up-investor-offenbar-rauswurf-nach-linkedin-kritik-an-reiche-2608-212353.html?utm_source=nl.2026-08-27.html
-* In der Union sammeln sich die Wirtschaftspolitiker, die Kohlekraftwerke aus der Reserve wieder anwerfen wollen. Das soll die Strompreise drücken und Gas sparen helfen.
-  https://www.wiwo.de/politik/deutschland/unions-vize-sepp-mueller-kohlekraftwerke-sollen-wieder-voll-ans-netz/100249936.html
-* So gefährlich ist Deutschlands Abhängigkeit von LNG aus den USA
-  https://www.handelsblatt.com/politik/deutschland/energieversorgung-so-gefaehrlich-ist-deutschlands-abhaengigkeit-von-lng-aus-den-usa-01/100249382.html?mls-token=1d4c978a6928fd41bafcb18444427e38f439346fb6f1098d96b20a25716f3ed5e3cb09733aab412090b25a7e3a2f2c920100249382&utm_medium=in&utm_source=app&utm_campaign=verschenken
+### Gas
+Elektro-Elch wertet in seiner mehrteiligen Blog-Reihe die offenen Daten zu den Gasspeichern in Deutschland aus. Und konnte damit belegen, dass wir seit dem 5. Juli tatsächlich einen historischen Tiefstand haben, wie man hier [im Diagramm](https://elektroelch.de/gasspeicher/) sieht, und [die Medien](https://www.heise.de/news/Gasspeicherverband-Fuellstaende-auf-Rekordtief-11421330.html) damit korrekt berichten. [Im ersten Teil](https://elektroelch.de/blog/opendata-gasspeicher-in-deutschland-teil-1-gie-agsi/) wird unter anderem auf die Gas Infrastructure Europe (GIE) und das Aggregated Gas Storage Inventory (AGSI) als Datenquellen eingegangen und wie man die Daten von dort programmatisch beziehen kann. [Der zweiten Teil](https://elektroelch.de/blog/opendata-gasspeicher-in-deutschland-teil-2-2026/) vergleicht den Füllstandverlauf dieses Jahres mit den historischen Ständen visuell als Liniendiagrammkurven. [Teil 3](https://elektroelch.de/blog/opendata-gasspeicher-in-deutschland-teil-3-daten-und-politik/) setzt die Daten mit den jeweils getroffenen politischen Entscheidungen in kausale Beziehung. So war Anfang 2026 die Gasspeicherumlage weggefallen, gleichbedeutend mit dem Rückzug aus der staatlichen gestützten Speicherbefüllung. Nur ohne diese Umlage gab es für private Händler bei aktueller Marktlage im Sommer keinen finanziellen Anreiz, jetzt teures Gas einzukaufen um es im Winter ohne Marge verkaufen zu müssen. Dadurch ist Stand 17. August 2026 der Füllstand auf 50,06 % (123,40 TWh) abgesackt. [Teil 4](https://elektroelch.de/blog/opendata-gasspeicher-in-deutschland-teil-4-updates/) geht darauf ein, wie die Daten in den Diagramm kontinuierlich aktuell gehalten werden, ohne dabei nicht versehentlich Fehler einzuführen. [Im Teil 5](https://elektroelch.de/blog/opendata-gasspeicher-in-deutschland-teil-5-warum-mein-dashboard-falsch-lag/) wird der Fehler korrigiert, das aktuelle Jahr mit in die Vergleichsdaten eingerechnet zu haben. Bei Malte Kreutzfeld von Table.Media gibt es [weitere Grafiken](https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mrcmtboq3s2o).
 
+Dass man das russische Gas durch Flüssiggas aus den USA ersetzt hat, [könnte sich dabei auch noch rächen](https://www.msn.com/de-de/finanzen/allgemein/so-gef%C3%A4hrlich-ist-deutschlands-abh%C3%A4ngigkeit-von-lng-aus-den-usa/ar-AA2bf750). Denn diese Abhängigkeit macht uns nun ebenso erpressbar, gerade bei der aktuellen US-Regierung.
+
+### Unverbesserlich
+Das Strom-Versorgungssicherheits- und Kapazitätsgesetz (StromVKG) der Bundesregierung ist so geschrieben, dass mit ihm Batteriespeicher klar benachteiligt und Gaskraftwerke bevorzugt werden. Deutsche Umwelthilfe (DUH) und die Energiegenossenschaft Green Planet Energy haben [deshalb Beschwerde](https://taz.de/Gesetz-fuer-neue-Gaskraftwerke/!6205390/) gegen dieses Gesetz in Brüssel eingelegt, da es gegen Wettbewerbsrecht verstoße. Die neuen Gaskraftwerke bräuchzen zudem staatliche Förderung, da sie ja nur als Backup gedacht sind und bei den so geringen Betriebszeiten nicht wirtschaftlich betreibbar wären. Die Kosten dieser Dauerförderungen müssten dann wir als Verbraucherinnen und Verbraucher tragen.
+
+Angesichts der niedrigen Gasfüllstände [werden Stimmen in der CDU laut](https://www.wiwo.de/politik/deutschland/unions-vize-sepp-mueller-kohlekraftwerke-sollen-wieder-voll-ans-netz/100249936.html), die stillgelegte Kohlekraftwerke als Reserve wieder anschalten wollen. Klimaziele, welche Klimaziele?
+
+Auch eine neue Regelung: ab 2027 dürfen neue Windanlagen an Land [höchstens 280 Watt je Quadratmeter Rotorfläche einspeisen](https://norden.social/@grimm/117047688208974813), womit 6000 bereits genehmigte Projekte nicht mehr rentabel für die Betreiber wären. 
+
+Auch der US-Präsident Trump ist ein bekennender Windkraft-Gegner, man zahlt lieber RWE [über eine Milliarde Dollar als Vergleich](https://www.spiegel.de/wirtschaft/windkraft-usa-zahlen-ueber-eine-milliarde-dollar-damit-rwe-keine-windparks-baut-a-5c3166ae-df44-4fb4-8531-59c98ec8075a), damit diese ihr bereits geplanten Windparks vor den USA nun doch nicht bauen.
+
+Eigentlich sollten die Zertifikate im Emissionshandel immer weiter verknappt werden, um über den dann höheren CO2-Preis enstprechend Anreize in der Industrie zu setzen, endlich ihre Emissionen zu reduzieren. Aber das Lobbyieren unter anderem der deutschen Chemie zahlt sich aus, eine nun von der EU-Kommission [vorgelegte Reform sieht vor](https://klimareporter.de/europaeische-union/der-drei-milliarden-booster-im-emissionshandel), dass Milliarden zusätzlicher Zertifikate auf den Markt kommen sollen. 
+
+### Energiewende
+Trotz aller Versuche, der Energiewende Knüppel zwischen die Beine zu werfen, wurden im ersten Halbjahr 2026 laut Heizungsverband [fast 1,5 mal so viele Wärmepumpen wie Gasheizungen verkauft](https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mssegvzitt2n).
+
+China hat zwischen 2024 und 2025 so viel Stromnetz aus erneuerbaren Strom [zugebaut](https://vis.social/@infobeautiful/117128410115157637), fast 500 TWh. Zum Vergleich: das gesamte deutsche Stromnetz erzeugt netto jährlich 440 TWh, davon 244 TWh aus erneuerbaren Energien.
+
+Bei Leuna/Krumpa nahe Merseburg ist vor kurzem Deutschlands [größter Batteriespeicher](https://www.cleanthinking.de/batteriespeicher-merseburg/) ans Netz gegangen. [Er hat](https://bsky.app/profile/cleanthinking.wsocial.eu/post/3mt6oleujnc2t) 250 Megawatt Leistung und rund 500 Megawattstunden Kapazität.
+
+Forschenden des Fraunhofer-Instituts ISE und der Universität Freiburg gelang es, [semitransparente Solarmodule  herzustellen](https://www.basicthinking.de/blog/2026/08/27/semitransparente-solarzellen/). Photovoltaik bräuchte damit keine extra Flächen mehr, wenn sie sich auch in Fenstern, Glasfassaden und Autodächern integrieren lassen.
+
+In Bamberg werden E-Auto-Ladestationen getestet, die platzsparend [in Bordsteinen](https://www.br.de/nachrichten/bayern/bamberg-testet-ladebordsteine-fuer-e-autos,VQkRlfr) verbaut sind.
 
 ## Klima
 * Rauch der Feuerwolken aus Bordeaux in großer Höhe über Leipzig
