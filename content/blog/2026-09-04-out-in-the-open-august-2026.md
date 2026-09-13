@@ -48,59 +48,45 @@ Sabina Leonelli diskutiert [in ihrer Arbeit](https://markrubin.substack.com/p/re
 
 Die Hamburg Open Online University hat einen [Kurzcomic](https://oer.hoou.de/edu-sharing/components/collections?reurl=WINDOW&id=887b5cb1-e978-4a18-8cbd-acb31ef1b142) veröffentlicht, wie man Rechtsunsicherheiten [verringern](https://irights.info/artikel/open-educational-resources-rechtlich-entspannt-veroeffentlichen/32878) und rechtliche Hürden im Bereich der Erstellung und Veröffentlichung von Open Educational Resources (OER) [abbauen kann](https://mastodon.social/@leibnizopenscience/117117114142108633).
 
-## Visalisierungen
+## Visualisierungen
 In seinen wöchentlichen Data Vis Dispatches widmet sich der Datawrapper [am 11. August](https://www.datawrapper.de/blog/data-vis-dispatch-august-11-2026-solar-eclipses-chatgpt-and-ticks) unter anderem der Sonnenfinsternis und [am 18. August](https://www.datawrapper.de/blog/data-vis-dispatch-august-18-data-art-low-water-levels-health) den niedrigen Pegelstände der Flüsse.
 
 Für die Daten aus dem Aufsatz "Eingewanderte in Deutschland – Zur Differenzierung einer heterogenen Gruppe" aus dem [Wirtschaft und Statistik](https://www.destatis.de/DE/Methoden/WISTA-Wirtschaft-und-Statistik/2026/04/wista-042026.pdf?__blob=publicationFile) Journal des Statitischen Bundesamt hat Wahlatlas mit ggplot2 die Bevölkerungspyramiden [visualisiert](https://norden.social/@wahlatlas/117122136395651728).
 
 ## Digitale Souveränität
+### Abhängigkeiten
+Umsteigen ins Fediverse als konzertierte Aktion - die Initiative [umsteigen.info](https://umsteigen.info) hat dazu den diesjährigen 5. November, an dem mit dem [Media Liberation Day](https://mediarevolution.org/media-liberation-day/) auch die Machtkonzentration im Mediensektor thematisiert wird, [auserkoren](https://momou.social/@umsteigen/117150483424270718).
+
+Der Verein [Local-IT e.V.](https://local-it.org) setzt sich dafür ein, unabhängige, nichtkommerzielle und datensparsame Software [bekannter zu machen](https://taz.de/Aktivistin-ueber-IT-Souveraenitaet/!6205292/), denn die Abhängigkeit von Tech-Konzernen ist keine Naturgesetz.
+
+[80 Prozent](https://www.basicthinking.de/blog/2026/08/04/ecosia-startet-suchindex-in-deutschland/) der weltweiten Internetsuche läuft über die Google Suchmaschine und ist damit abhängig von deren Entscheidungen, welche Seiten es in den Suchindex schaffen und nach welche Relevanz-Kriterien sie in Suchanfragen gerankt werden. Die [European Search Perspective (EUSP)](https://www.eu-searchperspective.com), ein Joint Venture der Suchmaschinenanbieter [Ecosia](https://www.ecosia.org) und [Qwant](https://www.qwant.com), möchte dem etwas entgegen setzen. Nach Frankreich ist nun auch in Deutschland ein eigener Webindex und eigene Ranking-Algorithmen [gestartet worden](https://www.heise.de/news/Ecosia-und-Qwant-starten-deutschen-Webindex-11383500.html).
+
+[Die EU sollte](https://fedi.steph.tools/@steph/117177725850638988) eine europäische Alternative zum US-amerikanischen [Let's Encrypt](https://de.wikipedia.org/wiki/Let%E2%80%99s_Encrypt) fördern, denn die US-Administration hat dessen bisherige jährliche Förderung mit 800.000 US-Dollar dieses Jahr ausgesetzt. Mit [CAcert](https://de.wikipedia.org/wiki/CAcert) in der Schweiz gibt es schon lange eine europäische Zertifizierungsstelle, die auch kostenlos X.509-Zertifikate ausstellen, allerdings nicht so niederschwellig, wie bei Let's Encrypt. Bei [Actalis SSL](https://europealternative.com/alternative-to/let-s-encrypt/) aus Italien gibt es zwar auch einen kostenlosen Plan, man muss sich aber bei ihnen registrieren.
+
+### USA
+Mitarbeitende der Wikimedia Foundation (WMF) wollen sich gewerkschaftlich organisieren. Bisher hat sich die Foundation in den USA aber geweigert, eine Gewerkschaftsvertretung anzuerkennen. Zudem hat sie mit Littler Mendelson eine Anwaltskanzler beauftragt, die im Ruf steht, Unternehmen wie Starbucks, Amazon und Apple beraten zu haben, wie man verhindert, dass sich Mitarbeitenden sich gewerkschaftlich organisieren. Die seit Januar 2026 neue CEO im Amt, Bernadette Meehan, [ist verantwortlich](https://www.quippd.com/writing/2026/08/04/wikipedia-turned-on-its-volunteers-now-its-coming-for-its-workers.html) für die Entlassung der langjährigen MediaWiki-Chefentwicklerin (und Gewerkschafterin) sowie die Auflösung des Community-Tech-Teams inklusive Kündigung der sechs Arbeitsnehmer. Wikipedia-Inhalte sind unter Creative Commons Attribution-ShareAlike lizensiert, deswegen hat die Entscheidung in der Community Befremden ausgelöst, dass mit BigTech Verträge geschlossen werden, um mit den Inhalten der Wikipedia die KI-Modelle ihrer Chatbots trainieren zu können, ohne dass die dann damit erzeugten Inhalte unter CC-BY-SA gestellt würden. Damit wird die Arbeit der freiwilligen Autoren entgegen ihren Willen der Piraterie preisgegeben.
+
+Bei der Wikimedia Deutschland gibt es dagegen seit 2014 einen Betriebsrat, der aus sieben Mitgliedern besteht. Im Blog hat man [aufgeschrieben](https://blog.wikimedia.de/2026/08/27/gewerkschaften-und-betriebsraete-wikimedia/), wie die Zusammenarbeit zwischen Geschäftführung und Mitarbeitendenvertretung funktioniert.
+
+Das italienisches Internetkollektiv Autistici/Inventati (A/I) wurde 2001 im Kontext des G8-Gipfels in Genua gegründet. Es betreibt die Blogplattform NoBlogs.org und stellt Ehrenamtlichen kostenlos Mailadressen, Instant Messenger und selbstverwaltete Infrastruktur bereit. Das Kollektiv finanziert sich ausschließlich über Spenden. Die US-Regierung hat nun in ihrem Kampf gegen die "wachsende Bedrohung durch gewalttätige linksradikale Terrorgruppen" das Kollektiv als "Globale Terroristen" eingestuft und [mit Sanktionen belegt](https://netzpolitik.org/2026/autistici-inventati-usa-sanktionieren-italienisches-internetkollektiv/), die ab dem 25. September vollends gelten werden. Damit drohen der Verlust von Bankkonten und damit mittelbar Hosting und Cloud-Infrastruktur. Nutzende der Services von A/I werden indirekt mitkriminalisiert und könnten aus Angst doch wieder zu BigTech-Anbietern wechseln, wo sie vom Staat besser überwacht werden können.
+
+Wie stillschweigend die europäischen Regierungen solche Entscheidungen hinnehmen, [zeigt sich schon](https://bsky.app/profile/sven-giegold.de/post/3mtlkuxnmms2q) im Fall der Präsidentin des Internationalen Strafgerichtshofs. Trump hatte verfügt, dass dieser Konto, Kreditkarte & Onlinedienste gesperrt werden, weil sie es gewagt hatte, Kriegsverbrechen zu verfolgen.
+
+[Wie ehrerbietig](https://mastodon.online/@parismarx/117185156042112041) erratische Entscheidungen des US-Präsidenten von BigTech, in dem Fall von Google, Folge geleistet werden, zeigt sich bei der Umbenennung von "Lake Ontario" zu "Lake America", die alsbald auf Google Maps [vollzogen wurde](https://www.tagesspiegel.de/internationales/nach-trumps-umbenennung-lake-ontario-wird-auf-google-maps-in-den-usa-zu-lake-america-15999009.html). Als Machtdemonstration und Ärger über die Widerspenstigkeit Kanadas im Zollstreit hatte Trump die Namensänderung verfügt. [Marwe schlägt vor](https://troet.cafe/@Marwe/117186861938177039), der Präsident solle sich stattdessen auf einem Dienst wie [rename.world](https://rename.world) austoben, dann bliebe wenigstens der Rest der Welt von seinem Blödsinn verschont.
+
+## Open Source
 * Update: Datenrettung für social.anoxinon.de beschlossen
   https://anoxinon.de/blog/mastodon_datenrettung_update_2026-08-02/
-* Der Kult-Messenger ICQ kehrt als inoffizielles Fanprojekt zurück, inklusive UINs, Kontaktliste und "Uh-oh"-Sound.
-  https://www.heise.de/news/Uh-oh-ist-zurueck-Fanprojekt-will-ICQ-Messenger-wiederbeleben-11398962.html
-* Wikipedia Turned on its Volunteers. Now it's Coming for its Workers.
-  https://www.quippd.com/writing/2026/08/04/wikipedia-turned-on-its-volunteers-now-its-coming-for-its-workers.html
-  * Wikimedia Germany: Why Unions and Works Councils Are Important for the Wikimedia Movement
-    https://wikis.world/@LucasWerkmeister/117174502466153935
-    https://blog.wikimedia.de/2026/08/27/gewerkschaften-und-betriebsraete-wikimedia/
-* Einheitliche IT-Lösungen vs. Föderalismus
-  https://egovernment-podcast.com/egov270_lvt/
+  * Open Source heißt Solidarität - Danke an euch alle!
+    https://anoxinon.de/blog/danke-fuer-eure-spenden/
 * Zulip
   https://zulip.com
   https://zulip.com/development-community/
-* Stolz wie OSKAR: Unsere Telefonie wird digital unabhängig - mit OSKAR unser Open Source Kommunikationsarchitektur
-  https://app.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2026/III/260812_viakom_umstellung
-  https://norden.social/@dirkschroedter/117084193690650671
-* Cloud-Provider pleite – 70 Jahre TV-Archiv bedroht
-  https://www.heise.de/news/Cloud-Provider-pleite-70-Jahre-TV-Archiv-bedroht-11415411.html
-* Bahn Vendor Lock-In - Software-Updates bis Ende 2038 bei Alstom
-  https://www.heise.de/news/Wartungsvertrag-bis-2038-Deutsche-Bahn-bestellt-Softwareupdates-fuer-den-ICE-1-11421773.html
-* umsteigen.info, 5. November ist "Media Liberation Day"
-  https://umsteigen.info
-  https://momou.social/@umsteigen/117150483424270718
-* USA sanktionieren italienisches Internetkollektiv
-  https://netzpolitik.org/2026/autistici-inventati-usa-sanktionieren-italienisches-internetkollektiv/
-* Nur weil sie es wagt, Kriegsverbrechen zu verfolgen, entzieht Trump der Präsidentin des Internationalen Strafgerichtshofs Konto, Kreditkarte & Onlinedienste
-  https://bsky.app/profile/sven-giegold.de/post/3mtlkuxnmms2q
-* Google kontrolliert über 80 Prozent der weltweiten Internetsuche 
-  https://www.basicthinking.de/blog/2026/08/04/ecosia-startet-suchindex-in-deutschland/
-* The EU should fund an European alternative to Let's Encrypt
-  https://fedi.steph.tools/@steph/117177725850638988
-* Mit offenen Karten | Russland und die EU: Der hybride Krieg hat begonnen
-  https://www.arte.tv/de/videos/125533-027-A/mit-offenen-karten/
+* Der Kult-Messenger ICQ kehrt als inoffizielles Fanprojekt zurück, inklusive UINs, Kontaktliste und "Uh-oh"-Sound.
+  https://www.heise.de/news/Uh-oh-ist-zurueck-Fanprojekt-will-ICQ-Messenger-wiederbeleben-11398962.html
 * SHARE open source / FLOSS (free / libre and open) online tools to communicate -
   https://pad.riseup.net/p/online-tools-for-the-pandemic-keep
   via https://systerserver.town/@poemproducer/117177411822848774
-* Aktivistin über IT-Souveränität: "Abhängigkeit von den Tech-Konzernen ist keine Notwendigkeit"
-  https://taz.de/Aktivistin-ueber-IT-Souveraenitaet/!6205292/
-* Google has now renamed Lake Ontario for US users
-  https://mastodon.online/@parismarx/117185156042112041
-  https://www.tagesspiegel.de/internationales/nach-trumps-umbenennung-lake-ontario-wird-auf-google-maps-in-den-usa-zu-lake-america-15999009.html
-  * Spielwiese
-    https://rename.world
-    https://troet.cafe/@Marwe/117186861938177039
-
-## Open Source
 * Linux durchbricht 10-Prozent-Marke: Nordamerika-Anteil verdoppelt sich
   https://borncity.com/news/linux-durchbricht-10-prozent-marke-nordamerika-anteil-verdoppelt-sich/
 * TGIQF: 35 Jahre Linux - Das Quiz
@@ -116,6 +102,11 @@ Für die Daten aus dem Aufsatz "Eingewanderte in Deutschland – Zur Differenzie
   https://www.prototypefund.de/blog/wie-openredact-ein-neues-zuhause-auf-opencode-fand
 
 ## Verwaltungsdigitalisierung
+* Einheitliche IT-Lösungen vs. Föderalismus
+  https://egovernment-podcast.com/egov270_lvt/
+* Stolz wie OSKAR: Unsere Telefonie wird digital unabhängig - mit OSKAR unser Open Source Kommunikationsarchitektur
+  https://app.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2026/III/260812_viakom_umstellung
+  https://norden.social/@dirkschroedter/117084193690650671
 * Die digitalen Grenzen Estlands. Wenn perfektes E-Government an die Grenzen des Vertrauens stößt
   https://collections.fes.de/publikationen/download/pdf/1991032
   https://systemli.social/@fesonline@mastodon.social/117043127682094858
