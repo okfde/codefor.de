@@ -232,72 +232,37 @@ Die App [Klimachronik](https://www.klimachronik.com) macht für Österreich hist
 
 [Auch für Basel](https://www.linkedin.com/posts/stadtklima-basel-smartcity-share-7493583755803070464-fuqu/) in der Schweiz gibt es die wichtigsten Kennzahlen [zum Stadtklimakonzept](https://statistik.bs.ch/stadtklima/) als interaktive Grafiken sowie ein Dashboard, über das man kühle Orte finden kann.
 
-## Gesundheit
-* Salmonellen in Ihrem Essen – wollen Sie das wissen? Noch müssen private Labore solche Funde den Behörden melden. Genau diese Pflicht will Landwirtschaftsminister Rainer streichen. Doch beschlossen ist noch nichts – jetzt entscheidet der Bundestag. Fordern Sie die Abgeordneten auf: Die Meldepflicht muss bleiben!
-  https://www.foodwatch.org/de/mitmachen/keime-verheimlichen-nicht-mit-uns#2
-  * Warum Lebensmittelskandale schon bald unentdeckt bleiben könnten
-    https://www.morgenpost.de/wirtschaft/article412562507/warum-lebensmittelskandale-schon-bald-unentdeckt-bleiben-koennten.html
-* Overdose Awareness Day: "Die Gesellschaft soll aufhören, Abhängige zu verurteilen"
-  https://taz.de/Overdose-Awareness-Day/!6203333/
-
 ## Kultur
-* The Rijksmuseum has moved from “an API” toward a machine-readable knowledge infrastructure: <br>Objects, people, places and concepts receive persistent URIs, not just web addresses, but machine-readable identities that can be linked across systems.
-  https://data.rijksmuseum.nl/about/
-  https://det.social/@HxxxKxxx/117070003059460880
-* Klangland
-  https://weberius.github.io/klangland/
-  https://weberius.github.io/klangland/projekt
-  https://github.com/weberius/klangland
+Wolfram vom OKLab Köln hat mit [Klangland](https://weberius.github.io/klangland/) eine [Open-Source](https://github.com/weberius/klangland)-Anwendung [aufgesetzt](https://weberius.github.io/klangland/projekt), die anzeigt, welche klassischen Konzerte in Nordrhein-Westfalen stattfinden. 
+
+Das Rijksmuseum in Amsterdam stellt seine Daten nicht mehr nur als einfache API bereit, sondern vergibt nun Objekten, Personen, Orten und Konzepten persistente URIs, so dass als Wissensgraph auch mit anderen Systemen [verlinkt werden können](https://data.rijksmuseum.nl/about/).
 
 ## Journalismus
-* Perspective Daily & Riffreporter: Wie finanziert sich Journalismus ohne Werbung?
-  https://www.deutschlandfunk.de/perspective-daily-riffreporter-wie-finanziert-sich-journalismus-ohne-werbung-100.html
-* Das ist kein informierender Journalismus
-  https://chaos.social/@nadia_z/117127103084590359
-* Politik-Simulation: "PolitikerIn x fordert y"-Nachrichten
-  https://taz.de/Justizministerin-Stefanie-Hubig/!6205880/
-* Trotz Millionen-Verlusten - Frank Gotthardt: "Ich möchte nicht, dass Nius leiser wird"
-  https://www.dwdl.de/nachrichten/107551/frank_gotthardt_ich_moechte_nicht_dass_nius_leiser_wird/
-  * Koblenzer CDU feiert Sommerfest bei Nius-Finanzier Gotthardt
-    https://www.swr.de/swraktuell/rheinland-pfalz/koblenz/kritik-an-cdu-sommerempfang-bei-compugroup-gotthardt-nius-100.html
-  * Kostenloses Online-Webinar für Praxen: Von CGM wechseln? So gelingt der Umstieg.
-    https://edelweissnetzwerk.de/aktionen/medical/webinar
-* Das RedBull-Media House, das ServusTV betreibt, hat lt. Standard 2025 einen Umsatz von 600 Mio. Davon 72 Mio am Markt. Den Rest - über 500 Mio im Jahr! - muss RedBull subventionieren (solange man sich das leisten will).
-  https://bsky.app/profile/arminwolf.at/post/3mtleuoeir22k
-* KI-Test: So einfach lassen sich Nachrichten mit ChatGPT und Co. fälschen
-  https://correctiv.org/datenschutz/2026/08/03/ki-test-so-einfach-lassen-sich-nachrichten-mit-chatgpt-und-co-faelschen/
-* Klimaskepsis durch "Alternativmedien"?
-  https://journalistik.online/aufsatz/klimaskepsis-durch-alternativmedien/
-  * Große Medien und rechte Plattformen aber haben ihre jeweils eigenen Verleugnungs-Muster
-    https://www.mdr.de/altpapier/das-altpapier-rekordtief-im-rhein-niedrigwasserkonferenz-klimaberichterstattung-kontext-100.html
-* Wie sollen wir über Rechtsextreme sprechen?
-  https://www.moment.at/story/gefaehrlichste-mann-deutschlands-ueber-rechtsextreme-reden/
-* Faktenchecks im Netz sind der feige Versuch, das eigene Versagen live On-Air zu vertuschen
-  https://bsky.app/profile/nmschuessler.bsky.social/post/3mtrebga6ok22
-* Wir fordern die Bundesregierung daher auf, Pressefreiheit und die Medienvielfalt in Deutschland jetzt umfangreich zu schützen.
-  https://correctiv.org/mitmachen/jetzt-unterzeichnen-nachrichten-schuetzen/
-* Vielfältig verwendbare, leckere Ausbrütobjekte
-  * Merz und sein Umgang mit der Kinderärztin zeigen, warum der Kanzler so unbeliebt ist
-    https://www.fr.de/politik/aus-aerztin-und-merz-gerieten-nach-tv-streit-erneut-aneinander-kanzler-lachte-sie-zr-94465550.html
-  * Nach Gespräch mit Merz: "Ich bin nicht die Wut-Ärztin"
-    https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101410990/kinderaerztin-bea-merscher-nach-merz-konfrontation-bin-keine-wut-aerztin-.html
-  * Merz habe ihr gesagt, dass ihre Äußerungen in der Sendung „straffällig“ gewesen seien.
-    Ein anderer Gast der Sendung bestätigte die Schilderung in einem Instagram-Video
-    Merscher hatte Merz in der Sendung vorgeworfen, seinen Amtseid zu brechen, in dem er Gesetze wie das Sparpaket bei den Gesundheitsausgaben erlasse.
-    https://www.focus.de/politik/deutschland/aerztin-legt-gegen-merz-nach-er-lachte-mich-aus_bd92ffef-5884-4122-a2f0-fa9d70e41240.html
-* RTL Aktuell Spezial: Ein Tisch mit Friedrich Merz
-  * Will er nicht rechnen? Der Kanzler und die großen Zahlen
-    https://derklimablog.de/politik/will-er-nicht-rechnen-der-kanzler-und-die-grossen-zahlen/
-  * Stadtbildaussage auf Müll oder Menschen
-    https://bsky.app/profile/robertboni.bsky.social/post/3mu3vhubegk2z
-* ARD-Sommerinterview mit dem Kanzler 
-  * 0 Klimafragen in 30 Minuten
-    https://climatejustice.global/@klimavoracht@mastodon.social/117185801525517068
-  * Beim Thema Schuldenquote waren seine Aussagen mindestens irreführend. Die Aussagen von Merz im Faktencheck.
-    https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-merz-100.html
-    https://ard.social/@tagesschau/117185619102257331
-* Philipp Amthor von der CDU: Der Staatsnerd - Dass man Amthor nicht ernst nimmt und er mit seiner eigenen Karikatur spielt, heißt nicht, dass seine Politik harmlos ist oder niemandem schadet - im Gegenteil.
-  https://bsky.app/profile/janskudlarek.bsky.social/post/3mujimlc5g22z
+### Rechte Medien
+Frank Gotthardt wird trotz Millionen-Verluste das rechtspopulistische "Nachrichten"-Portal Nius [auch weiterhin finanzieren](https://www.dwdl.de/nachrichten/107551/frank_gotthardt_ich_moechte_nicht_dass_nius_leiser_wird/), mit der Begründung, dass er politisch mit ihm etwas bewirken möchte. Die Koblenzer CDU hat jedenfalls keine Kontaktscheu vor dem Nius-Finanzier und feiert bei ihm [unbeschwert ihr Sommerfest](https://www.swr.de/swraktuell/rheinland-pfalz/koblenz/kritik-an-cdu-sommerempfang-bei-compugroup-gotthardt-nius-100.html). Derweil bietet das Edelweiss-Netzwerk [Webinare](https://edelweissnetzwerk.de/aktionen/medical/webinar) für Praxen an, um von Gotthardts Praxissoftware wegzuwechseln, um ihn als Neurechten nicht weiter unterstützen müssen. 
+
+Auch für das RedBull-Media House ist ihr Fernsehsender ServusTV [ein Zuschussgeschäft](https://bsky.app/profile/arminwolf.at/post/3mtleuoeir22k), über 500 Mio muss pro im Jahr zusätzlich subventionieren. Aber ideologisch will man sich das auch dort leisten.
+  
+[Luis Paulitsch analysiert](https://journalistik.online/aufsatz/klimaskepsis-durch-alternativmedien/) in seinem Aufsatz die Strategien und Muster in der Klimaberichterstattung rechter Gegenöffentlichkeiten.
+
+Auch Antonia Groß von Altpapier erkennt [wiederkehrende Verleugnungs-Muster](https://www.mdr.de/altpapier/das-altpapier-rekordtief-im-rhein-niedrigwasserkonferenz-klimaberichterstattung-kontext-100.html) der Klimakrise nicht nur bei rechten Plattformen sondern auch bei große Medien. 
+
+### Mit Rechten reden
+Es ist teilweise erschreckend, wie eigentliche etablierte Medien den Rechten unnötig eine Plattform bieten und dann nicht mal in der Lage sie entsprechend kritisch in die Zange zu nehmen, stattdessen macht man sie salonfähig. So geschehen [auf dem Spiegel-Cover](https://www.moment.at/story/gefaehrlichste-mann-deutschlands-ueber-rechtsextreme-reden/). Manche Interviewer scheinen nur körperlich anwesend zu sein, so können die Eingeladenen ungestört ihre Lügen und Hetzprogramm herunterspulen. Wie dieser Nutzer [zurecht anmerkt](https://bsky.app/profile/nmschuessler.bsky.social/post/3mtrebga6ok22), sind nachträgliche "Faktenchecks im Netz nur der feige Versuch, das eigene Versagen live On-Air zu vertuschen". Entweder geht man als Moderator so gut ins Interview, dass man sie direkt stellen kann, oder zeichnet das Interview im Vorfeld auf und unterlegt es dann mit den dann schon gecheckten Fakten bei der Ausstrahlung, aber die nachträglichen Faktenchecks liest am Ende kaum jemand. Wie solche kritischen Gespräche ablaufen können, zeigt sowohl [dieses MDR-Interview](https://www.ardmediathek.de/video/mdr-aktuell-live/das-mdr-interview-ulrich-siegmund-afd/mdr/Y3JpZDovL21kci5kZS9iZWl0cmFnL2Ntcy9mNzIzMGM5Ny01MTk0LTQ0YzMtYTkyYy1iZDYwYzlmZGE2NWE) als auch [dieses ZDF-Interview](https://www.stern.de/politik/deutschland/afd--zdf-moderator-treibt-siegmund-in-die-ecke---der-geht-fast-k-o--38209326.html) mit dem Spitzenkandidaten. Dass dieser Kandidat auch in der Kinderkanal-Sendung Logo [von einer Schülersprecherin interviewt wurde](https://www.logo.de/schuelersprecherin-interview-siegmund-100.html), wo er fremdenfeindliche Aussagen tätigen konnte, ist dagegen völlig unverantwortlich.
+
+### Vielfältig verwendbare, leckere Ausbrütobjekte
+Aber auch die Gespräche mit dem Kanzler enthalten zahlreiche Aussagen, deren Unwahrheitsgehalt sich leicht durch vorhandene Videos belegen lassen, vor allem Behauptungen von ihm, bestimmten Sachen nicht gesagt zu haben. Oder auch der Versuch, seine Stadtbildaussage zu relativieren, die direkt in der Sendung [ausgekontert wurde](https://bsky.app/profile/robertboni.bsky.social/post/3mu3vhubegk2z). 
+
+[Der Faktencheck](https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-merz-100.html) des ARD-Sommerinterview mit dem Kanzler hat für zahlreiche Aussagen von Merz keine Belege finden können oder so als irreführend identifizieren können. Problematisch war hier, welche Fragen der interviewende Journalist [nicht gestellt hat](https://climatejustice.global/@klimavoracht@mastodon.social/117185801525517068). Gerade nach diesem Hitzesommer keine Klimafrage zu stellen, ist schon eine Leistung.
+
+Auch im RTL Aktuell Spezial: Ein Tisch mit Friedrich Merz jongliert dieser [wild mit großen Zahlen](https://derklimablog.de/politik/will-er-nicht-rechnen-der-kanzler-und-die-grossen-zahlen/), die sich auch hier bei näher Betrachtung als grob manipulativ herausstellen. Generell zeigt der abgehobene Umgang unseres Kartoffelkönigs mit der ebenfalls in der Diskussionsrunde eingeladene Kinderärztin, [warum er im Volk so unbeliebt ist](https://www.fr.de/politik/aus-aerztin-und-merz-gerieten-nach-tv-streit-erneut-aneinander-kanzler-lachte-sie-zr-94465550.html). Sie hatte dem Kanzler vorgeworfen, [seinen Amtseid zu brechen](https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101410990/kinderaerztin-bea-merscher-nach-merz-konfrontation-bin-keine-wut-aerztin-.html), wenn er Gesetze wie das Sparpaket bei den Gesundheitsausgaben erlasse. Nach der Sendung soll er noch vorgeworfen haben, dass ihre Äußerungen in der Sendung "straffällig" gewesen seien. Während der Sender RTL dieser Darstellung widersprach, [bestätigte ein anderer Gast die Schildungen der Ärztin](https://www.focus.de/politik/deutschland/aerztin-legt-gegen-merz-nach-er-lachte-mich-aus_bd92ffef-5884-4122-a2f0-fa9d70e41240.html).
+
+### Qualitätsjournalismus
+[Correctiv fordert in einem Aufruf](https://correctiv.org/mitmachen/jetzt-unterzeichnen-nachrichten-schuetzen/), den man mitzeichnen kann, die Bundesregierung auf, Pressefreiheit und die Medienvielfalt in Deutschland umfangreich zu schützen. So sollten Medienschaffende explizit als besonders schutzbedürftige Berufsgruppe im Gesetz gegen digitale Gewalt benannt werden. Außerdem sollte Journalismus vor BND-Überwachung geschützt werden. Außerdem gehört die im Koalitionsvertrag versprochene Rechtssicherheit für gemeinnützigen Journalismus endlich umgesetzt.
+
+[Correctiv hat getestet](https://correctiv.org/datenschutz/2026/08/03/ki-test-so-einfach-lassen-sich-nachrichten-mit-chatgpt-und-co-faelschen/), wie sich die KI-Chatbots von BigTech reagieren, wenn man anweist, gefälschte Medienbeiträge mit Falschbehauptungen zu erstellen. Die Schutzmechanismen der Tech-Konzerne, sofern überhaupt vorhanden, griffen teils selbst bei sensiblsten Themen nicht.
+
+Perspective Daily & Riffreporter: [Wie finanziert sich Journalismus ohne Werbung?](https://www.deutschlandfunk.de/perspective-daily-riffreporter-wie-finanziert-sich-journalismus-ohne-werbung-100.html). Das Abomodell reicht meist nicht, eine staatliche Journalismusförderung wie in Norwegen und Schweden könnte Abhilfe schaffen, die Erfahrungen aus diesen Ländern zeigen, dass die Medien trotzdem staatsfern berichten könnten.
 
 ## Wahlen
 * willst Du keinen Party-Schreck, mache vorher den party-check.org
@@ -354,6 +319,7 @@ Die App [Klimachronik](https://www.klimachronik.com) macht für Österreich hist
   https://klimareporter.de/protest/demokratie-und-klimaschutz-gehoeren-zusammen
 
 ## Transparenz
+Wenn private Labore beispielsweise Salmonellen im Essen finden, müssen sie dies bisher den Behörden melden. Diese "Bürokratie" möchte nun Landwirtschaftsminister Alois Rainer [abbauen](https://www.morgenpost.de/wirtschaft/article412562507/warum-lebensmittelskandale-schon-bald-unentdeckt-bleiben-koennten.html). Verbraucherschützer und Foodwatch machen gegen diese Pläne [mit einer Petition mobil](https://www.foodwatch.org/de/mitmachen/keime-verheimlichen-nicht-mit-uns).
 * BDA-Hauptgeschäftsführerin Christina Ramb übernimmt die Abteilung für Soziales, Gesundheit und Arbeit im Kanzleramt
   https://www.handelsblatt.com/politik/deutschland/regierung-merz-nimmt-weiteren-personalwechsel-im-kanzleramt-vor/100244351.html
   via https://kolektiva.social/users/helenasteinhaus/statuses/117019206304213462
