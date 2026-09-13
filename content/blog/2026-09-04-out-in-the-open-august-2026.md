@@ -124,18 +124,15 @@ Da ist es auch nur ein schwacher Trost, dass auch in Frankreich den Steuerbehör
 Die Gesellschaft für Informatik (GI) und Partner haben ein Weißbuch zur Reform des Computerstrafrechts [vorgelegt](https://www.heise.de/news/Kriminalisierung-Informatiker-verlangen-Freipass-fuer-IT-Sicherheitsforscher-11424219.html), mit der IT-Sicherheitsforscher, die solche Lücken versuchen aufzuspüren und den betroffenen Stellen zu melden, vor Kriminalisierung geschützt werden.
 
 ## Finanzen
-* Ich habe meinen Bundeshaushalt 2027 aufgestellt — 53 Reformen, Überschuss: 65.8 Mrd. €. Mach es besser!
-  https://haushaltsloch.de/
-  https://netzkae.se/notes/appns2okn1wd0acn
-* Einnahmen durch Erbschaftsteuer: Kein Zeichen für mehr Verteilungsgerechtigkeit
-  https://taz.de/Einnahmen-durch-Erbschaftsteuer/!6207376/
-* The Invisible Super-Rich? A Quantitative Analysis of the Press Coverage of Germany’s Wealth Elite
-  https://pure.mpg.de/view/item_3705122
-  https://detektor.fm/wissen/forschungsquartett-superreiche-in-den-medien
-* Der Stablecoin-Hype ist eine Gefahr für die Finanzstabilität
-  https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/der-stablecoin-hype-ist-eine-gefahr-fuer-die-finanzstabilitaet
-* US-Investoren auf Einkaufstour in Deutschland
-  https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler-a-4a467002-d4ab-4038-9b0c-d42dc3c187cc
+Auf [haushaltsloch.de](https://haushaltsloch.de/) kann man versuchen eben jenes zu stopfen: indem man sein eigenes Haushaltsbudget für Deutschland 2027 plant und dabei [Kosten senkt und Einnahmen erhöht](https://netzkae.se/notes/appns2okn1wd0acn), wo es sich die derzeitige Regierung nicht traut. 
+
+Obwohl 2025 durch Erbschaftsteuern so viel eingenommen wurde, wie noch nie, [ist dies dennoch kein Zeichen](https://taz.de/Einnahmen-durch-Erbschaftsteuer/!6207376/) für mehr Verteilungsgerechtigkeit, denn immer existieren zahlreiche Ausnahmen für Großerben. Zudem kommt, dass mehr als die Hälfte der Bevölkerung gar nichts erbt, während 10 Prozent der reichesten mehr als die Hälfte des Gesamtvermögens besitzen. 
+
+Emma Ischinsky, Doktorandin am Max-Planck-Institut für Gesellschaftsforschung, hat für ein [Forschungsprojekt](https://pure.mpg.de/view/item_3705122) an Hand rund 150.000 Presseartikel die Sichtbarkeit der reichsten Personen des Landes [analysiert](https://detektor.fm/wissen/forschungsquartett-superreiche-in-den-medien), mit dem Ergebnis, dass ein Viertel dieser nicht in der Berichterstattung nicht auftauchen.
+
+Finanzwende Recherche sieht im Stablecoin-Hype [eine Gefahr für die Finanzstabilität](https://background.tagesspiegel.de/digitalisierung-und-ki/briefing/der-stablecoin-hype-ist-eine-gefahr-fuer-die-finanzstabilitaet). Gerade die Ausgabe eigener Stablecoins für BigTech, die ein neues US-Regelwerk diesen Aussicht stellt, verstärkt deren Macht- und Marktkonzentration, gerade bei ihren massiven, mit Schulden finanzierten Investitionen in KI. Allein die Bindung an die Stablecoin-Reserve birgt das Risiko, dass, wenn im Krisenfall das Vertrauen einbricht, dadurch der gesamten Finanzsektor mit heruntergezogen wird.
+
+[Derweil übernehmen US-Investoren](https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler-a-4a467002-d4ab-4038-9b0c-d42dc3c187cc) im großen Stil Industrieunternehmen in Deutschland, da das Kapital an den US‑Börsen in den letzten Jahren günstig war, US-Unternehmen teurer bewertet und damit unattraktiver für den Kauf ist.
 
 ## Karten
 * City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems
