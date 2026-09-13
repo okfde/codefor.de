@@ -1,7 +1,7 @@
 ---
 title: "Zwischen Angstfrust und Hoffnungstrotz – Out in the Open August 2026"
 author: "Jörg Reichert (Code for Leipzig)"
-date: '2026-09-04T08:00:00+02:00'
+date: '2026-09-07T08:00:00+02:00'
 excerpt: Monatlich erscheinender Überblick über Entwicklungen in der Open Data und Civic Tech Szene
 topic: community
 images:
@@ -135,38 +135,28 @@ Finanzwende Recherche sieht im Stablecoin-Hype [eine Gefahr für die Finanzstabi
 [Derweil übernehmen US-Investoren](https://www.spiegel.de/wirtschaft/private-equity-us-geldgeber-entdecken-deutsche-mittelstaendler-a-4a467002-d4ab-4038-9b0c-d42dc3c187cc) im großen Stil Industrieunternehmen in Deutschland, da das Kapital an den US‑Börsen in den letzten Jahren günstig war, US-Unternehmen teurer bewertet und damit unattraktiver für den Kauf ist.
 
 ## Karten
-* City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems
-  https://www.sciencedirect.com/science/article/pii/S0198971526000943
-  https://github.com/c2g-dev/city2graph
-  https://datasci.social/@mszll/117042061052397925
-  https://hachyderm.io/@fgraf/117126775646548500
-* Cool our Cities - Trag deinen Hitze-Hotspot in diese Greenpeace Karte ein 
-  https://maps.greenpeace.org/maps/gpde/stadtnatur/
-  https://greenpeace.social/@greenpeace_de/117030642685336556
-* Neues QGIS-Plugin: Deutschlandweite Flurstückssuche!
-  https://geoobserver.de/2026/08/06/neues-qgis-plugin-deutschlandweite-flurstueckssuche/
-* vegane-brezn.de - Wo gibt es vegane Brezn, und woher wissen wir das?
-  https://vegane-brezn.de
-  https://chaos.social/@head/117066516191627179
-* Touch Mapper uses #OpenStreetMap data to create tactile maps for any address, helping people who are blind or partially sighted explore places and plan routes
-  https://touch-mapper.org/en/
-  via https://mastodon.social/@geospatialorg/117076901709535785
-* Freie Daten statt Datensammler: Was OpenStreetMap anders macht als Google Maps
-  https://www.heise.de/hintergrund/Freie-Daten-statt-Datensammler-Was-OpenStreetMap-anders-macht-als-Google-Maps-11357215.html
-* Stadtplaner des OK Lab Flensburg: Mit der interaktiven Kartenanwendung lassen sich Flächen, Branchen, Leerstände, OpenStreetMap-POIs sowie Stadtteile und Quartiere gemeinsam erkunden und analysieren.
-  https://stadtplaner.oklabflensburg.de
-  https://github.com/oklabflensburg/open-city-planner
-  https://norden.social/@oklabflensburg/117104921810788039
-* Ist die Spree gerade giftig? Jetzt gibt's eine Karte dafür.
-  https://spreerisiko.de
-  https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fspreerisiko%2Ede&urlhash=YWHH&trk=public_post-text
-* Anleitung für Indoor Mapping
-  https://www.openstreetmap.org/user/Mapper-Jonas/diary/409011
-  * OpenIndoorMaps
-    https://github.com/openindoormaps/openindoormaps
-    https://openindoormaps.vercel.app
-* Geoportal.de startet in neuer Version 3.0
-  https://bkg.bund.de/aktuelles/geoportalde-startet-in-neuer-version-30
+### Themenkarten
+Mit der interaktiven [Open-Source](https://github.com/oklabflensburg/open-city-planner)-Kartenanwendung [Stadtplaner](https://stadtplaner.oklabflensburg.de) des OK Lab Flensburg lassen sich Flächen, Branchen, Leerstände, OpenStreetMap-POIs sowie Stadtteile und Quartiere [gemeinsam erkunden und analysieren](https://norden.social/@oklabflensburg/117104921810788039).
+
+In der Greenpeace Karte [Cool our Cities](https://maps.greenpeace.org/maps/gpde/stadtnatur/) kann man die heißesten, versiegelten Plätze, also die Hitze-Hotspot, seiner Stadt bzw. Region [kollaborativ eintragen](https://greenpeace.social/@greenpeace_de/117030642685336556).
+
+[Wo gibt es vegane Brezn](https://vegane-brezn.de), und [woher wissen wir das](https://chaos.social/@head/117066516191627179)?
+
+Baden in der Spree ist in Berlin verboten, an vom LAGeSo ausgewiesenen Badestellen, wie das Strandbad Wannsee, Müggelsee, Badestellen an der Havel sowie am Langer See (Spree-/Dahme-System) dagegen schon, obwohl sie teilweise nicht weit entfernt von schlecht bewerteten Wasserportal-Messpunkte liegen. Die vibe-gecodete Karte [SpreeRisiko](https://spreerisiko.de) nutzt viele Open-Data-Quellen um die derzeitige Wasserqualität, die sich ja täglich auf Grund vieler Faktoren ändern kann, für die verschiedene Stellen in Berlin anzuzeigen.
+
+### OpenStreetMap
+Bastian Greshake Tzovaras als aktives Mitglied der OpenStreetMap-Community [erklärt im Interview mit heise](https://www.heise.de/hintergrund/Freie-Daten-statt-Datensammler-Was-OpenStreetMap-anders-macht-als-Google-Maps-11357215.html), was OpenStreetMap vom kommerziellen Google Maps unterscheidet. So sammelt Google vor allem Daten, während bei OSM die Daten freiwillig eingetragen werden. Er verweist auch auf das Projekt [CoMaps](https://www.comaps.app/de/) mit dem die aktuelle Verkehrslage aus Open-Data-Quellen besser in die Routenplanung einbezogen werden soll.
+
+[Touch Mapper](https://touch-mapper.org/de/) nutzt OpenStreetMap-Daten um für jede beliebige Adresse haptische Karten [erzeugen zu können](https://mastodon.social/@geospatialorg/117076901709535785), die seheingeschränkte Menschen zur Orientierung nutzen können. Die Karten können entweder selber 3D-gedruckt oder der Druck beauftragt werden.
+
+Mapper-Jonas hat [eine Anleitung](https://www.openstreetmap.org/user/Mapper-Jonas/diary/409011) verfasst, die den Einstieg ins Indoor-Mapping mit OpenStreetMap erleichtern soll.
+
+### Tools
+Über [Geoportal.de](https://www.geoportal.de) stellen Behörden und Einrichtungen der öffentlichen Verwaltung, von Bundesbehörden bis zu den Kommunen vor Ort, ihre Geodaten bereit. [Mit der neuen Version 3.0](https://bkg.bund.de/aktuelles/geoportalde-startet-in-neuer-version-30) gibt es dank der Open-Source-Software Masterportal als Unterbau eine moderne Benutzeroberfläche sowie die bessere Unterstützung unterschiedlicher (mobiler) Endgeräte. Auch viele neue Funktionen sind hinzu gekommen.
+
+Über das Plugin ["Flurstückssuche DE"](https://plugins.qgis.org/plugins/Flurstuecksuche_de/) kann man direkt in QGIS [deutschlandlandweit Flurstücke finden](https://geoobserver.de/2026/08/06/neues-qgis-plugin-deutschlandweite-flurstueckssuche/).  
+
+[City2Graph](https://city2graph.net/) ist eine [Open-Source](https://github.com/c2g-dev/city2graph)-Python-Bibliothek, die Geodaten wie Gebäude und Straßen in Graphen konvertiert, so dass man sie [einer Netzwerkanalyse unterziehen kann](https://www.sciencedirect.com/science/article/pii/S0198971526000943).
 
 ## Mobilität
 * Kommt jetzt eine ernsthafte Debatte über eine PkwMaut in Deutschland?
