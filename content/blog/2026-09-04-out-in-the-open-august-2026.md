@@ -88,6 +88,8 @@ Auch wenn durch die Neubewertung von Web-Traffic bedingt und dieser zudem von Bo
 ### Kommunikationsinfrastruktur
 Schon [seit einigen Jahren](https://systerserver.town/@poemproducer/117177411822848774) wird in diesem [Etherpad](https://pad.riseup.net/p/online-tools-for-the-pandemic-keep) eine Liste von Open Source bzw. freier Online-Kommunikationsdienste gepflegt.
 
+Da sind die Verantwortlichen [stolz wie OSKAR](https://app.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2026/III/260812_viakom_umstellung): Mit der Open-Source-Lösung Oskar soll die Behörden-Telefonkommunikation in Schleswig-Holstein die alte Landschaft aus zentraler Voice-over-IP-Telefonanlage sowie vereinzelten alten ISDN-Telefonanlagen ablösen.
+
 [Zulip](https://zulip.com) ist eine [Open-Source](https://github.com/zulip/zulip)-Alternative zu Slack, mit der man sowohl chatten als kollaborativ zusammenarbeiten kann. [Inzwischen](https://en.wikipedia.org/wiki/Zulip) wird es von der Zulip Foundation und natürlich [der Community](https://zulip.com/development-community/) weiterentwickelt.
 
 Der [DFN-Terminplaner](https://terminplaner.dfn.de) als datenschutzfreundlicher Dienst zur Termin- und Umfrageabstimmung für die deutsche Wissenschaftsgemeinschaft (kann aber auch außerhalb davon genutzt werden), [kommt in der neuen Version 7](https://www.dfn.de/22995/) mit moderner Benutzeroberfläche und einige neuen Funktionen daher.
@@ -98,52 +100,28 @@ Einem geschenkten Gaul schaut man nicht ins Maul, aber hinter jedem Server steht
 Dank ActivityPub und OpenStreetMap kann man sich über [FediHood](https://fedihood.social) mit Leuten in der gleichen Stadt über bestimmte Themen [austauschen](https://chaos.social/@apps@toot.fedilab.app/117095740071332251). Die Software [ist auch Open Source](https://github.com/bil-ash/fhood).
 
 ## Verwaltungsdigitalisierung
-* Einheitliche IT-Lösungen vs. Föderalismus
-  https://egovernment-podcast.com/egov270_lvt/
-* Stolz wie OSKAR: Unsere Telefonie wird digital unabhängig - mit OSKAR unser Open Source Kommunikationsarchitektur
-  https://app.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2026/III/260812_viakom_umstellung
-  https://norden.social/@dirkschroedter/117084193690650671
-* Die digitalen Grenzen Estlands. Wenn perfektes E-Government an die Grenzen des Vertrauens stößt
-  https://collections.fes.de/publikationen/download/pdf/1991032
-  https://systemli.social/@fesonline@mastodon.social/117043127682094858
-* Highlights aus dem Rechnungshof-Bericht zur aktuellen Verwaltungsdigitalisierung
-  https://cdn.netzpolitik.org/wp-upload/2026/08/2026-07-31_BRH_Verwaltungsdigitalisierung.pdf
-  https://mastodon.social/@bkastl/117049570983639949
-  * Verwaltungsdigitalisierung: Digitalminister Wildberger wiederholt alte Fehler
-    https://netzpolitik.org/2026/verwaltungsdigitalisierung-digitalminister-wildberger-wiederholt-alte-fehler/
-* Das Kompetenznetzwerk Digitale Verwaltung fördert vier Kurzstudien zum Deutschland-Stack.
-  https://www.heise.de/news/Deutschland-Stack-Mit-vier-Studien-zur-digitalen-Verwaltung-11410335.html
-* NOOTS und die Registermodernisierung
-  https://egovernment-podcast.com/egov273-noots-update/
-* Hackerangriff auf Berliner Landesnetz verübt - sensible Daten abgeflossen
-  https://www.rbb24.de/politik/beitrag/2026/08/berlin-landesnetz-sicherheitsvorfall-it-senatsverwaltung.html
-  * wenn "sicher" nur im Satz "Das wird sicher gehackt" vorkommt
-  * Cyberangriff in Berlin: Behörden weiterhin offline
-    https://www.heise.de/news/Berliner-Verwaltungen-nach-Cyberangriff-weiter-vom-Netz-getrennt-11421320.html
-  * Nach Hackerangriff auf Berliner Senatsverwaltungen: Auszahlung von Wohngeld an über 50.000 Haushalte in Gefahr
-    https://www.tagesspiegel.de/berlin/nach-hackerangriff-auf-berliner-senatsverwaltungen-auszahlung-von-wohngeld-an-uber-50000-haushalte-in-gefahr-15952358.html
-  * Nach Cyberangriff: Senatsverwaltungen wieder am Netz
-    https://www.heise.de/news/Nach-Cyberangriff-Senatsverwaltungen-wieder-am-Netz-11423077.html
-  * Notfallpläne und Passwörter erbeutet?: Wegner weist Erpresser-Ultimatum zurück – Hacker fordern laut Medienbericht zwei Millionen Euro
-    https://www.tagesspiegel.de/berlin/notfallplane-und-passworter-erbeutet-wegner-weist-erpresser-ultimatum-zuruck--hacker-fordern-laut-medienbericht-zwei-millionen-euro-15984600.html
-  * 30 Bitcoin oder Leak – Ransomware-Bande erpresst Berlin
-    https://www.heise.de/news/30-Bitcoin-oder-Leak-Ransomware-Bande-erpresst-Berlin-11434325.html
-  * Lösegeldforderung nach Hackerangriff
-    https://www.ardmediathek.de/video/rbb24-abendschau/loesegeldforderung-nach-hackerangriff/rbb/Y3JpZDovL3JiYl9lZjRmMzU0NS0xMTQ1LTQ5ZTgtYjllMy0wYTFjYTc3YmI5NzdfcHVibGljYXRpb24
-  * Cyberangriff auf Berliner Verwaltung: Digitale Verantwortungslosigkeit
-    https://taz.de/Cyberangriff-auf-Berliner-Verwaltung/!6208741/
-  * Berlin: Passwörter abgeflossen, 12.000 Systeme werden gescannt
-    https://www.heise.de/news/Berlin-Passwoerter-abgeflossen-12-000-Systeme-werden-gescannt-11436809.html
-* Datendiebstahl in Frankreich:  Personendaten des Fiskus meistbietend zu verkaufen
-  https://www.frenchbreaches.com
-  https://taz.de/Datendiebstahl-in-Frankreich/!6205547/
-* Kriminalisierung: Informatiker verlangen Freipass für IT-Sicherheitsforscher
-  https://www.heise.de/news/Kriminalisierung-Informatiker-verlangen-Freipass-fuer-IT-Sicherheitsforscher-11424219.html
-* Was ist agentische KI im staatlichen Einsatz?
-  https://www.technologiestiftung-berlin.de/profil/blog/was-ist-agentische-ki-im-staatlichen-einsatz-wie-wir-ki-agenten-fuer-das-gemeinwohl-in-berlin-entwickeln
-* eGovernment Podcast Monatsschau 08/26
-  https://egovernment-podcast.com/egov274-monatsschau-08-26/
-  * Wort des Monats: "Bürokratieabbaubürokratie", nichts für Menschen mit [Hippopotomonstrosesquippedaliophobie](https://de.wiktionary.org/wiki/Hippopotomonstrosesquippedaliophobie)
+### Vertrauen
+Dr. Iivi Riivits-Arkonsuo von der Wirtschaftswissenschaftlichen Fakultät in Tallinn sieht in der rasanten Verwaltungsdigitalisierung und auch -automatisierung in ihrem Land Estland, [die Gefahr](https://collections.fes.de/publikationen/download/pdf/1991032), dass Effizienz grundlegende menschliche Werte wie Dialog, Empathie und Anerkennung ersetzt. Belegen lässt sich das jetzt schon durch messbar gesunkenes Vertrauen in die Regierung, auch wenn hier sicherlich auch noch andere Faktoren mit hineinspielen. Aber virtuelle Assistenten und algorithmische Entscheidungsfindung in Arbeits- und Steuerfragen machen Bürger zu reinen Datenpunkten, Überstandardisierung können das Gefühl der Inklusion beschädigen, wenn man als Minderheit eben mal durch das Raster der 80%-Prozent-Lösung fällt. Solche Ausnahmen überhaupt zu entdecken und entsprechende Neujustierungen einzufordern ist ohne Transparenz und Bürgerbeteiligung schwierig. 
+
+Mit dem Kopf durch die Wand wollen, ist weder mit Holzkopf noch mit Betonkopf ratsam. In seinem [aktuellen Bericht](https://cdn.netzpolitik.org/wp-upload/2026/08/2026-07-31_BRH_Verwaltungsdigitalisierung.pdf) sieht der Bundesrechnungshofs jedenfalls das Risiko, dass die schon bestehenden Basiskomponenten nicht mit dem Deutschland-Stack kompatibel sein werden und sie nachträglich noch angepasst werden müssten, womit der Start des Stacks Anfang 2028 kaum zu halten sei. Bei den 128 aufgelisteten Standards und Technologien [ist nicht ersichtlich](https://netzpolitik.org/2026/verwaltungsdigitalisierung-digitalminister-wildberger-wiederholt-alte-fehler/), welche davon der IT-Planungsrat überhaupt schon beschlossen hat. Stattdessen gibt es wieder viele Insellösungen, wie das KI-Tool Spark, [Agentic AI Hub](https://bmds.bund.de/themen/kuenstliche-intelligenz/ki-in-der-verwaltung/agentic-ai-hub) und diverse agentische KIs, die nur in ihren jeweiligen Ökosystem funktionieren. Keine verlässliche Planungsgrundlage für Länder und Unternehmen. Das Digitalministerium fehle Projektmanagement/-koordination und ein übergreifendes Berichtswesen. Damit kann man jetzt schon davon ausgehen, dass Zeit- und Kostenrahmen gesprengt werden, gerade wenn man manche [utopischen Wunschvorstellungen](https://mastodon.social/@bkastl/117049570983639949) bei den Aufwandsschätzungen sieht.
+
+Im von Google.org geförderten Forschungsprojekt [Beyond Forms](https://www.technologiestiftung-berlin.de/projekte/beyond-forms-mit-ki-antraege-bei-behoerden-neu-denken) untersucht das CityLAB Berlin seit Anfang des Jahres für welche Anwendungsfelder agentische KI im Spannungfeld von Qualität und Datenschutz, Risikopotenzial und Prozesskomplexität, Nachvollziehbarkeit von KI-(Fehl-)Entscheidungen und Haftungsfragen sowie Verfügbarkeit digital souveräner KI-Modelle [überhaupt in Frage kommt](https://www.technologiestiftung-berlin.de/profil/blog/was-ist-agentische-ki-im-staatlichen-einsatz-wie-wir-ki-agenten-fuer-das-gemeinwohl-in-berlin-entwickeln).
+
+### Förderalismus
+Das Kompetenznetzwerk Digitale Verwaltung [fördert vier Kurzstudien](https://www.heise.de/news/Deutschland-Stack-Mit-vier-Studien-zur-digitalen-Verwaltung-11410335.html) zum Deutschland-Stack. In der ersten Studie wollen die Universität Münster und Susanne Kaletta in einem digitalen "Decision Lab" mit Teilnehmende simulieren, wie überholte Rollen und Arbeitsweisen überwunden werden können. Eine zweite Studie untersucht wie Bausteine wie XPlanung, XBau, Building Information Modeling (BIM) im Bereich Planen und Bauen in die Architektur des Deutschland-Stacks integriert werden können. Die dritte Studie möchte feststellen, welche der Open-Source-Projekte auf openCode für den Deutschland-Stack relevant sind und welche kritische Abhängigkeiten bestehen. Im der vierten Studien sollen Rollen und Zuständigkeiten identifiziert werden, nach denen sich Bund, Länder und Kommunen im Entscheidungsprozess rechtlich klar einbringen können.
+
+In Abwandlung von "Jugend debattiert" wurde beim eGovernment-Podcast in verteilten Rollen [das Für-und-Wider](https://egovernment-podcast.com/egov270_lvt/) von einheitlichen IT-Lösungen gegenüber angepassten Lösungen diskutiert. 
+
+[In einer Spezialfolge](https://egovernment-podcast.com/egov273-noots-update/) wurde beim gleichen Podcast über die Registermodernisierung und dem Nationalen Once-Only-Technical-System (NOOTS) als zugehörige IT-Infrastruktur ausgiebig gesprochen.
+
+Erkenntnis daraus floßen auch in [die eGovernment Podcast Monatsschau 08/26](https://egovernment-podcast.com/egov274-monatsschau-08-26/) ein. Das Wort des Monats "Bürokratieabbaubürokratie" ist jedenfalls nichts für Menschen mit [Hippopotomonstrosesquippedaliophobie](https://de.wiktionary.org/wiki/Hippopotomonstrosesquippedaliophobie).
+
+### Sicherheit
+Wenn "sicher" nur im Satz "Das wird sicher gehackt" vorkommt: [in einem Hackerangriff](https://www.rbb24.de/politik/beitrag/2026/08/berlin-landesnetz-sicherheitsvorfall-it-senatsverwaltung.html) auf Berliner Landesnetz sind sensible Daten abgeflossen. In Folge waren aus Sicherheitsgründen einige Behörden [tagelang offline](https://www.heise.de/news/Berliner-Verwaltungen-nach-Cyberangriff-weiter-vom-Netz-getrennt-11421320.html), wodurch die Auszahlung von Wohngeld an über 50.000 Haushalte [auf der Kippe stand](https://www.tagesspiegel.de/berlin/nach-hackerangriff-auf-berliner-senatsverwaltungen-auszahlung-von-wohngeld-an-uber-50000-haushalte-in-gefahr-15952358.html). Nach mehr als einer Woche gingen sie [dann wieder ans Netz](https://www.heise.de/news/Nach-Cyberangriff-Senatsverwaltungen-wieder-am-Netz-11423077.html). Die Ransomware-Gruppe "Rhysida" bekannte sich inzwischen zum Cyberangriff und [erpresst nun Berlin](https://www.heise.de/news/30-Bitcoin-oder-Leak-Ransomware-Bande-erpresst-Berlin-11434325.html), 5,8 Terabyte Daten zu veröffentlichen, wenn es nicht die geforderten 30 Bitcoin (= 2 Mio Euro) vor Ablauf der Frist am 4. September zahlt. Obwohl zu den erbeuteten Daten auch unverschlüsselte Dateien [wie Passwort.docx](https://taz.de/Cyberangriff-auf-Berliner-Verwaltung/!6208741/) gehörten, [verweigert](https://www.tagesspiegel.de/berlin/notfallplane-und-passworter-erbeutet-wegner-weist-erpresser-ultimatum-zuruck--hacker-fordern-laut-medienbericht-zwei-millionen-euro-15984600.html) der regierende Bürgermeister die Zahlung des Lösegelds. Mittlerweile haben die Erpresser [ihre Drohung wahr gemacht](https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-hackerangriff-datendiebstahl-rhysida-darknet.html) und die Daten offen ins Darknet gestellt, darunter Teile von Personalakten, eingescannte Ausweise, Gehaltsabrechnungen sowie Arbeitszeugnisse und Vertragsunterlagen. Auch Daten zur kritischen Infrastruktur sind enthalten. Wäre es nicht so fatal, ergebe diese "Transparenzoffensive" einen echt guter Treppenwitz, denn erst im März diesen Jahres hatte man das Transparenzgesetz vermeintlich zum Schutz der kritischen Infrastruktur in Berlin erheblich geschwächt.
+
+Da ist es auch nur ein schwacher Trost, dass auch in Frankreich den Steuerbehörden Daten von 700.000 Personen  [gestohlen](https://www.frenchbreaches.com) wurden und meistbietend zum Verkauf [angeboten worden sind](https://taz.de/Datendiebstahl-in-Frankreich/!6205547/).
+
+Die Gesellschaft für Informatik (GI) und Partner haben ein Weißbuch zur Reform des Computerstrafrechts [vorgelegt](https://www.heise.de/news/Kriminalisierung-Informatiker-verlangen-Freipass-fuer-IT-Sicherheitsforscher-11424219.html), mit der IT-Sicherheitsforscher, die solche Lücken versuchen aufzuspüren und den betroffenen Stellen zu melden, vor Kriminalisierung geschützt werden.
 
 ## Finanzen
 * Ich habe meinen Bundeshaushalt 2027 aufgestellt — 53 Reformen, Überschuss: 65.8 Mrd. €. Mach es besser!
