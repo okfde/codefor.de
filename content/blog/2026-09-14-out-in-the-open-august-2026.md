@@ -265,109 +265,39 @@ Auch im RTL Aktuell Spezial: Ein Tisch mit Friedrich Merz jongliert dieser [wild
 Perspective Daily & Riffreporter: [Wie finanziert sich Journalismus ohne Werbung?](https://www.deutschlandfunk.de/perspective-daily-riffreporter-wie-finanziert-sich-journalismus-ohne-werbung-100.html). Das Abomodell reicht meist nicht, eine staatliche Journalismusförderung wie in Norwegen und Schweden könnte Abhilfe schaffen, die Erfahrungen aus diesen Ländern zeigen, dass die Medien trotzdem staatsfern berichten könnten.
 
 ## Wahlen
-* willst Du keinen Party-Schreck, mache vorher den party-check.org
-  https://party-check.org
-* Landtagswahl in Sachsen-Anhalt: So wollen die Parteien die autoritäre Wende aufhalten
-  https://netzpolitik.org/2026/landtagswahl-in-sachsen-anhalt-so-wollen-die-parteien-die-autoritaere-wende-aufhalten/
-* Kandidierendencheck
-  https://www.kandidierendencheck.de/
-* Real-o-Mat für Sachsen-Anhalt
-  https://real-o-mat.de
-* Wähl' die Mitte
-  https://waehldiemitte.de
-* Pilotprojekt in Berlin-Pankow: Wohnungslose können erstmals in Tagesstätte wählen
-  https://www.spiegel.de/panorama/wahl-in-berlin-wohnungslose-koennen-erstmals-in-tagesstaette-waehlen-a-dddc7cdb-3562-4fb1-9518-42f3a97a5c12
-* Bald schon kein MDR mehr in Sachsen-Anhalt?
-  https://www.mdr.de/unternehmen/kuendigung-rundfunkstaatsvertrag-abschaltung-sachsen-anhalt-100.html
-* Online-Wahlhilfen für MVs Landtagswahl 
-  https://katapult-mv.de/artikel/online-wahlhilfen-fuer-mvs-landtagswahl/
-* Razzia bei zwei AfD-Kandidaten wegen verbotener Neonazi-Vereinigung
-  https://correctiv.org/aktuelles/rechtsextremismus/2026/08/27/artgemeinschaft-razzia-afd-sachsen-anhalt/
-* Welche Partei fördert FOSS?
-  https://wiki.softwerke.md/books/bildungsangebote/page/parteien-befragung-zu-foss
-  via https://machteburch.social/@softwerke/117173497757243954
-* Sieben Wahlprogramme, 16 Themen: Worüber die Berliner Parteien wirklich schreiben – und worüber nicht
-  https://interaktiv.tagesspiegel.de/lab/sieben-wahlprogramme-16-themen-worueber-die-berliner-parteien-wirklich-schreiben-und-worueber-nicht/
-  https://www.linkedin.com/posts/max-donheiser-703368107_der-wahlkampf-ist-in-vollem-schwung-und-seit-ugcPost-7495135394234191873-gz2e/
-* Berlin-Wahl: Berlin zur Transparenz-Hauptstadt machen
-  https://fragdenstaat.de/artikel/policy/2026/08/berlin-zur-transparenz-hauptstadt-machen/
-* AfD-Klimapolitik gefährdet Sachsen-Anhalts Wirtschaft
-  https://correctiv.org/aktuelles/klimawandel/2026/08/31/afd-klimapolitik-gefaehrdet-sachsen-anhalts-wirtschaft/
+Im Vorfeld der Landtagswahl in Sachsen-Anhalt hatten die Softwerke Magdeburg [die Positionen](https://wiki.softwerke.md/books/bildungsangebote/page/parteien-befragung-zu-foss) der verschiedenen Parteien zu freier und Open Source Software (FOSS), konkret u.a. zu Förderung von Ehrenamt, digitaler Unabhängigkeit und öffentlicher Auftragsvergabe, [abgefragt](https://machteburch.social/@softwerke/117173497757243954). 
+
+Willst Du keinen Party-Schreck, mache vorher den [party-check.org](https://party-check.org)! Während beim Wahl-O-Mat sich die Parteien selbst einschätzen, haben bei Party-Check unabhängige Politik-Expert:innen die Haltung der Parteien zu den jeweiligen Fragestellungen eingeschätzt.
+
+### Mecklemburg-Vorpommern
+Neben eben diesem [Party-Check](https://tool.party-check.org/index.php/mv) gibt es ebenfalls Wahlhilfen von [Kandidierendencheck](https://www.kandidierendencheck.de/mecklenburg-vorpommern), [Voteswiper](https://www.voteswiper.org/de/deutschland/landtagswahl-mecklenburg-vorpommern-2026) und [Wahl.Chat](https://wahl.chat/landtagswahl-mecklenburg-vorpommern-2026) sowie dem Klassiker [Wahl-O-Mat](https://www.bpb.de/themen/wahl-o-mat/mecklenburg-vorpommern-2026/). Das Katapult-Magazin [vergleicht die Angebote](https://katapult-mv.de/artikel/online-wahlhilfen-fuer-mvs-landtagswahl/).
+
+### Berlin
+Zusätzlich zu [Party-Check](https://tool.party-check.org/index.php/berlin), [Kandidierendencheck](https://www.kandidierendencheck.de/berlin), [Voteswiper](https://www.voteswiper.org/de/deutschland/abgeordnetenhauswahl-berlin-2026) und [Wahl.Chat](https://wahl.chat/abgeordnetenhauswahl-berlin-2026), [Wahl-O-Mat](https://www.bpb.de/themen/wahl-o-mat/berlin-2026/) gibt es für die Abgeordnetenhauswahl in Berlin auch noch den [Real-O-Mat](https://real-o-mat.de/2026/berlin/) von FragDenStaat, dass im Gegensatz zu den anderen Tools die Haltung der Parteien an deren tatsächlichen Abstimmungsverhalten aus vergangenen Amtsperioden bemisst.
+
+Von FragDenStaat gibt es auch [den Check](https://fragdenstaat.de/artikel/policy/2026/08/berlin-zur-transparenz-hauptstadt-machen/), was die Parteien zur Informationsfreiheit in Berlin planen.
+
+[Das interaktives Tool](https://interaktiv.tagesspiegel.de/lab/sieben-wahlprogramme-16-themen-worueber-die-berliner-parteien-wirklich-schreiben-und-worueber-nicht/) vom Tagesspiegel (hinter der Bezahlschranke) [zeigt](https://www.linkedin.com/posts/max-donheiser-703368107_der-wahlkampf-ist-in-vollem-schwung-und-seit-ugcPost-7495135394234191873-gz2e/), wie viel Platz die Parteien bestimmten Themen einräumen und welche sie ganz aussparen.  
+
+Wahlunterlagen zugeschickt zu bekommen, geht schlecht, wenn man zur Gruppe der Wohnungslosen gehört. [Ein Pilotprojekt in Berlin-Pankow](https://www.spiegel.de/panorama/wahl-in-berlin-wohnungslose-koennen-erstmals-in-tagesstaette-waehlen-a-dddc7cdb-3562-4fb1-9518-42f3a97a5c12) ermöglicht es nun dieses, sich in einer Tagesstätte ins Wählerverzeichnis eintragen zu lassen und bei Bedarf direkt per Briefwahl abzustimmen. 
 
 ## Demokratie
-* Wir sind More in Common
-  https://www.moreincommon.de
-* Polizei und Verfassungsschutz: Was bei einer Machtübernahme durch Rechtsextreme droht
-  https://netzpolitik.org/2026/polizei-und-verfassungsschutz-was-bei-einer-machtuebernahme-durch-rechtsextreme-droht/
-* Ein CDU-Ortsbürgermeister aus Sachsen-Anhalt spendet der AfD 10.000 Euro.
-  https://www.zeit.de/politik/deutschland/2026-08/bernd-prange-cdu-afd-spende-sachsen-anhalt-gxe
-* Neonazis haben ein Pseudoinstitut für Abschiebungen gegründet 
-  https://taz.de/Institut-for-Remigration/!6207019/
-* Zusammen für Demokratie
-  https://zusammen-fuer-demokratie.de
-  https://www.diakonie.de/informieren/infothek/2026/august/buendnis-zusammen-fuer-demokratie-stellt-solidaritaetsvereinbarung-fuer-bedrohte-engagierte-und-einrichtungen-vor
-* Projekte teilweise gestoppt - Fokus auf Linksextremismus: Bundeszentrale für politische Bildung plant Kurswechsel
-  https://www.rnd.de/politik/politische-bildung-bpb-will-sich-staerker-um-linksextremismus-kuemmern-LJUQBESIFJG7TA7S3VWVJZ42IU.html
-* Demokratiefest 5.9.
-  https://willkommen-in-magdeburg.de/events/demokratiefestival/
-* Fun Facts auf Sommertour: Regionale Themen, bundesweite Aufmerksamkeit
-  https://correctiv.org/in-eigener-sache/2026/08/06/regionale-themen-bundesweite-aufmerksamkeit/
-  https://tube.funfacts.de
-* Engagement: Was ist Zivilgesellschaft?
-  https://www.deutschlandfunk.de/systemfragen-was-ist-zivilgesellschaft-100.html
-* Demokratie und Klimaschutz gehören zusammen
-  https://klimareporter.de/protest/demokratie-und-klimaschutz-gehoeren-zusammen
+Die Bundeszentrale für politische Bildung (BpB), die sich auch für den Wahl-O-Mat verantwortlich zeichnet, plant unter ihrem neuen (Interims-)Leiter, Volker Ullrich (CSU) [einen Kurswechsel](https://www.rnd.de/politik/politische-bildung-bpb-will-sich-staerker-um-linksextremismus-kuemmern-LJUQBESIFJG7TA7S3VWVJZ42IU.html). Projekte werden teilweise gestoppt, weil man sich mehr auf seinen "Kernauftrag" konzentrieren wolle. Außerdem sollen Linksextremismus und Islamismus stärker in den Fokus genommen werden.
+
+Gleichzeit haben Neonazis haben [ein Pseudoinstitut für Abschiebungen gegründet](https://taz.de/Institut-for-Remigration/!6207019/) und ein CDU-Ortsbürgermeister aus Sachsen-Anhalt hat der 10.000 Euro gespendet, weil er, aus vor einem Linksruck, auf deren absoluten Mehrheit hofft. [Rechtswissenschaftler machen sich inzwischen Gedanken darüber](https://netzpolitik.org/2026/polizei-und-verfassungsschutz-was-bei-einer-machtuebernahme-durch-rechtsextreme-droht/), welche Folgen die Machtübernahme für Polizei und Verfassungsschutz haben könnte.
+
+Bei so einer Prioritätensetzung der offiziellen Stellen bleibt der Kampf gegen Rechts an der [Zivilgesellschaft](https://www.deutschlandfunk.de/systemfragen-was-ist-zivilgesellschaft-100.html) hängen. Die im Bündnis ["Zusammen für Demokratie"](https://zusammen-fuer-demokratie.de) zusammengeschlossenen über 80 Verbände wollen Personen und Einrichtungen, die von Rechtsextremen attackiert oder bedroht werden, [gemeinsam unterstützen](https://www.diakonie.de/informieren/infothek/2026/august/buendnis-zusammen-fuer-demokratie-stellt-solidaritaetsvereinbarung-fuer-bedrohte-engagierte-und-einrichtungen-vor).
+
+Die internationale gemeinnützige Organisation [More in Common](https://www.moreincommon.de) beschäftigt sich mit der Frage, wie man den gesellschaftlichen Zusammenhalt sowie das Vertrauen in die Demokratie und unter den Menschen wieder stärken kann.
+
+Und Fun Facts versucht [in seiner Sommertour](https://tube.funfacts.de) regionalen Themen im Vorlauf der Landtagswahlen [bundesweite Aufmerksamkeit zu verschaffen](https://correctiv.org/in-eigener-sache/2026/08/06/regionale-themen-bundesweite-aufmerksamkeit/).
 
 ## Transparenz
-Wenn private Labore beispielsweise Salmonellen im Essen finden, müssen sie dies bisher den Behörden melden. Diese "Bürokratie" möchte nun Landwirtschaftsminister Alois Rainer [abbauen](https://www.morgenpost.de/wirtschaft/article412562507/warum-lebensmittelskandale-schon-bald-unentdeckt-bleiben-koennten.html). Verbraucherschützer und Foodwatch machen gegen diese Pläne [mit einer Petition mobil](https://www.foodwatch.org/de/mitmachen/keime-verheimlichen-nicht-mit-uns).
-* BDA-Hauptgeschäftsführerin Christina Ramb übernimmt die Abteilung für Soziales, Gesundheit und Arbeit im Kanzleramt
-  https://www.handelsblatt.com/politik/deutschland/regierung-merz-nimmt-weiteren-personalwechsel-im-kanzleramt-vor/100244351.html
-  via https://kolektiva.social/users/helenasteinhaus/statuses/117019206304213462
-  * "Ich warte drauf, dass der Chef von Shell Umweltminister wird. "
-* Die Wirtschaftsministerin traf den Chef eines Finanzinvestors, der Milliarden investieren will – auch in die Rüstungsbranche.
-  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/katherina-reiches-geheimes-treffen-im-new-yorker-luxushotel
-  https://bewegung.social/@a_watch/117014287749731544
-* Dubiose Praktiken: Palantir drückt sich vor Steuern
-  https://netzpolitik.org/2026/dubiose-praktiken-palantir-drueckt-sich-vor-steuern/
-* Vor 15 Jahren, am 1.8.2011, wurde FragDenStaat gegründet
-  https://bsky.app/profile/fragdenstaat.de/post/3mrz4wb6iy22u
-  * Informationsfreiheit: Wie transparent soll der Staat sein?
-    https://www.deutschlandfunkkultur.de/informationsfreiheit-unter-beschuss-wie-transparent-soll-der-staat-sein-1v-100.html
-    via https://bsky.app/profile/honkhase.de/post/3ms3cdaidjs2x
-  * "Wenn man weniger Aufwand möchte, dann sollte man ein Transparenzgesetz einführen"
-    https://www.transparency.de/aktuelles/detail/article/interview-semsrott
-  * Die geplante Änderung des Informationsfreiheitsgesetzes schränkt das Auskunftsrecht drastisch ein und gefährdet die demokratische Transparenz in Deutschland
-    https://www.mpg.de/26923995/informationsfreiheit
-  * Demokratie Braucht Kontrolle. Kontrolle Braucht Informationen.
-    https://okfn.de/blog/2026/08/demokratie-braucht-kontrolle.-kontrolle-braucht-informationen./
-* Geheime Absprachen mit Wirtschaftsministerium: Fossile Lobby bringt Bundesregierung auf Linie
-  https://www.fr.de/politik/fossile-lobby-bringt-bundesregierung-auf-linie-94449380.html
-* Appell vor Landtagswahlen: Transparenz schützt vor Desinformation
-  https://www.heise.de/news/Appell-vor-Landtagswahlen-Transparenz-schuetzt-vor-Desinformation-11418612.html
-* Ministerin Reiche liefert beim Lieferkettengesetz Rückschritt
-  https://www.fr.de/meinung/kommentare/reiche-hoehlt-lieferkettengesetze-aus-hand-in-hand-mit-konzernen-94451049.html
-  * Wirtschaftsministerium sabotiert Lieferkettengesetz
-    https://taz.de/Pflichten-fuer-Unternehmen/!6205777/
-  * Lieferkettengesetz unter Druck: Schafft Reiche ein Gesetz durch die Hintertür ab?
-    https://www.zdfheute.de/politik/deutschland/lieferketten-gesetz-reiche-100.html
-* "Schattendatenbank"-Skandal: noyb mahnt SCHUFA ab, Interessentenliste für Sammelklage eröffnet
-  https://noyb.eu/de/shadow-database-scandal-noyb-sends-schufa-cease-and-desist-letter-interest-list-class-action
-  * Schufa: Das steckt hinter der "Schattendatenbank"
-    https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/audio-wie-problematisch-ist-die-praxis-der-schufa-100.html
-  * Schattendatenbank: Datenschützer mahnen Schufa ab
-    https://netzpolitik.org/2026/schattendatenbank-datenschuetzer-mahnen-schufa-ab/
-* Dobrindts Grenzpolitik: Rechtsbruch mit Ansage
-  https://fragdenstaat.de/artikel/exklusiv/2026/08/rechtsbruch-mit-ansage/
-* Neue Spiegel-Recherchen legen nahe, dass bei uns Schmerz-Medikamente von Parteispendern auch ohne ausreichende Fakten nur dank starkem politischem Druck zugelassen werden.
-  https://www.spiegel.de/politik/deutschland/cannabis-investitionen-profitieren-csu-spender-von-neuer-cannabis-regelung-a-4438334d-e2a6-4df4-97a3-041bab25710f
-  via https://bsky.app/profile/janoschdahmenmdb.de/post/3mu35kfoeks2p
-* Die Bundesregierung plant laut ihrer Antwort auf eine Große Anfrage der Linken-Fraktion keine Veröffentlichungspflicht von Treffen der Mitglieder des Bundeskabinetts mit Lobbyisten
-  https://www.bundestag.de/presse/hib/kurzmeldungen-1209376
-  https://social.bund.de/@hib_Nachrichten/117190086437651501
-* SkyCommons Observatory
-  https://skycommons.okfn.org
-  https://bsky.app/profile/okfn.bsky.social/post/3mrtukhnzxm2s
- 
+### 15 Jahre FragDenStaat
+Am 1.8.2011, also vor 15 Jahren, wurde FragDenStaat gegründet, das war sogar der Tagesschau [ein Beitrag wert](https://bsky.app/profile/fragdenstaat.de/post/3mrz4wb6iy22u) und geht dabei auch auf den aktuellen Kampf um das Informationsfreiheitsgesetz (IFG) ein. Die geplante Reform soll [angeblich nur die Verwaltung entlasten](https://www.deutschlandfunkkultur.de/informationsfreiheit-unter-beschuss-wie-transparent-soll-der-staat-sein-1v-100.html) und Missbrauch verhindern. Doch statt ein Transparenzgesetz einzuführen, [das wirklich Aufwand reduzieren würde](https://www.transparency.de/aktuelles/detail/article/interview-semsrott). Tatsächlich schränken die geplanten Änderungen das Auskunftsrecht [drastisch ein](https://www.mpg.de/26923995/informationsfreiheit). In einer funktionierenden Demokratie [kontrollieren die Bürger](https://okfn.de/blog/2026/08/demokratie-braucht-kontrolle.-kontrolle-braucht-informationen./) den Staat und ihre Privatsphäre bleibt geschützt, in einem autoritären Staat ist es genau anders herum, der Staat selbst hält alles unter Verschluss, für was er sich nicht rechtfertigen möchte, weitet aber im Gegenzug den Überwachungsapparat immer weiter aus, weil er den gläsernen, kontrollierbaren Bürger möchte.
+
+Die Konferenz der Informationsfreiheitsbeauftragten (IFK) [ermuntert alle Wahlberechtigten](https://www.heise.de/news/Appell-vor-Landtagswahlen-Transparenz-schuetzt-vor-Desinformation-11418612.html) von ihren Auskunftsrechten Gebrauch zu machen, und Dokumente wie Verträge, behördliche Gutachten und interne Prüfberichte anzufordern, um an Hand dieser die Arbeit von Landesregierungen und Behörden selbst bewerten zu können und das auch in ihre Wahlentscheidung einfließen zu lassen, statt sich von Desinformationskampagnen in die Irre leiten zu lassen.
+
 ### Rechenzentren
 * Rechenzentrumsregister: Veröffentlichung und Daten nach § 13 EnEfG
   https://fragdenstaat.de/anfrage/rechenzentrumsregister-veroeffentlichung-und-daten-nach-ss-13-enefg/?utm_source=chatgpt.com#nachricht-1141846
@@ -389,7 +319,59 @@ Wenn private Labore beispielsweise Salmonellen im Essen finden, müssen sie dies
 * Die Bundesregierung will Kommunen bestechen, um lokale Proteste gegen Rechenzentren zu brechen
   https://indieweb.social/@alineblankertz/117190384252393934
 
+### Lobbyismus im Wirtschaftsministerium
+* Die Wirtschaftsministerin traf den Chef eines Finanzinvestors, der Milliarden investieren will – auch in die Rüstungsbranche.
+  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/katherina-reiches-geheimes-treffen-im-new-yorker-luxushotel
+  https://bewegung.social/@a_watch/117014287749731544
+* Geheime Absprachen mit Wirtschaftsministerium: Fossile Lobby bringt Bundesregierung auf Linie
+  https://www.fr.de/politik/fossile-lobby-bringt-bundesregierung-auf-linie-94449380.html
+* Ministerin Reiche liefert beim Lieferkettengesetz Rückschritt
+  https://www.fr.de/meinung/kommentare/reiche-hoehlt-lieferkettengesetze-aus-hand-in-hand-mit-konzernen-94451049.html
+  * Wirtschaftsministerium sabotiert Lieferkettengesetz
+    https://taz.de/Pflichten-fuer-Unternehmen/!6205777/
+  * Lieferkettengesetz unter Druck: Schafft Reiche ein Gesetz durch die Hintertür ab?
+    https://www.zdfheute.de/politik/deutschland/lieferketten-gesetz-reiche-100.html
+* Die Bundesregierung plant laut ihrer Antwort auf eine Große Anfrage der Linken-Fraktion keine Veröffentlichungspflicht von Treffen der Mitglieder des Bundeskabinetts mit Lobbyisten
+  https://www.bundestag.de/presse/hib/kurzmeldungen-1209376
+  https://social.bund.de/@hib_Nachrichten/117190086437651501
+
+### Gesundheit
+Wenn private Labore beispielsweise Salmonellen im Essen finden, müssen sie dies bisher den Behörden melden. Diese "Bürokratie" möchte nun Landwirtschaftsminister Alois Rainer [abbauen](https://www.morgenpost.de/wirtschaft/article412562507/warum-lebensmittelskandale-schon-bald-unentdeckt-bleiben-koennten.html). Verbraucherschützer und Foodwatch machen gegen diese Pläne [mit einer Petition mobil](https://www.foodwatch.org/de/mitmachen/keime-verheimlichen-nicht-mit-uns).
+* Neue Spiegel-Recherchen legen nahe, dass bei uns Schmerz-Medikamente von Parteispendern auch ohne ausreichende Fakten nur dank starkem politischem Druck zugelassen werden.
+  https://www.spiegel.de/politik/deutschland/cannabis-investitionen-profitieren-csu-spender-von-neuer-cannabis-regelung-a-4438334d-e2a6-4df4-97a3-041bab25710f
+  via https://bsky.app/profile/janoschdahmenmdb.de/post/3mu35kfoeks2p
+
+### Überzeugungstäter
+* BDA-Hauptgeschäftsführerin Christina Ramb übernimmt die Abteilung für Soziales, Gesundheit und Arbeit im Kanzleramt
+  https://www.handelsblatt.com/politik/deutschland/regierung-merz-nimmt-weiteren-personalwechsel-im-kanzleramt-vor/100244351.html
+  via https://kolektiva.social/users/helenasteinhaus/statuses/117019206304213462
+  * "Ich warte drauf, dass der Chef von Shell Umweltminister wird. "
+* Dobrindts Grenzpolitik: Rechtsbruch mit Ansage
+  https://fragdenstaat.de/artikel/exklusiv/2026/08/rechtsbruch-mit-ansage/
+
+Wer glaubt, dass hier jemand noch im Sinne der Allgemeinheit handelt, glaubt auch, dass Zitronenfalter Zitronen falten.
+
+### Schufas Schattendatenbank
+Die Schufte von der Schufa
+* "Schattendatenbank"-Skandal: noyb mahnt SCHUFA ab, Interessentenliste für Sammelklage eröffnet
+  https://noyb.eu/de/shadow-database-scandal-noyb-sends-schufa-cease-and-desist-letter-interest-list-class-action
+  * Schufa: Das steckt hinter der "Schattendatenbank"
+    https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/audio-wie-problematisch-ist-die-praxis-der-schufa-100.html
+  * Schattendatenbank: Datenschützer mahnen Schufa ab
+    https://netzpolitik.org/2026/schattendatenbank-datenschuetzer-mahnen-schufa-ab/
+
+
+
+
+
+* SkyCommons Observatory
+  https://skycommons.okfn.org
+  https://bsky.app/profile/okfn.bsky.social/post/3mrtukhnzxm2s
+ 
+
 ## Überwachung
+* Dubiose Praktiken: Palantir drückt sich vor Steuern
+  https://netzpolitik.org/2026/dubiose-praktiken-palantir-drueckt-sich-vor-steuern/
 * Harte Kritik am Thüringer Polizeigesetz: "Verfassungsrechtlich ist das nicht tragbar"
   https://netzpolitik.org/2026/harte-kritik-am-thueringer-polizeigesetz-verfassungsrechtlich-ist-das-nicht-tragbar/
   * KI-Befugnisse in Thüringen: Polizeigewerkschaft kritisiert Polizeigesetz
