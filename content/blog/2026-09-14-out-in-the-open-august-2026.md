@@ -30,6 +30,8 @@ Links zu Quellen offener Daten, APIs, Werkzeuge, Anwendungen speziell für Münc
 
 [Kiwix](https://en.wikipedia.org/wiki/Kiwix) ist ein Open Source Offline Web-Browser, der sich ursprünglich nur auf die Wikipedia konzentriert hat, inzwischen auch andere Web-Seiten wie Projekt Gutenburg und [viele andere](https://browse.library.kiwix.org/#lang=deu) unterstützt. Denn freies Wissens sollte unabhängig von einer Internetverbindung für alle zugänglich sein. Gerade relevant in autoritären Staaten, in denen eben dieser Zugang beschränkt wird.
 
+Das [SkyCommons Observatory](https://skycommons.okfn.org) der internationalen Open Knowledge Foundation trackt, welche Satelliten von welchen Firmen zu welchen Zweck ins All geschossen worden sind. Es will damit vor allem auf die Machtkonzentration bei den wenigen Anbietern von Satelliten-basierten Internet und den damit verbundenen Risiken aufmerksam machen.
+
 ## Parlamentsdaten
 Da die Rechte für die Bilder nicht dauerhaft gesichert worden sind, hat der Bundestag sein [Web-Archiv](https://www.bundestag.de/error-webarchiv-1165834) 2005 bis 2016 bereits am 17. Aptil 2026 [rigeros geschlossen](https://www.heise.de/news/Der-Deutsche-Bundestag-hat-Urheberrechtsprobleme-11427223.html), da der Aufwand die Bilder aus den darin enthaltenen PDFs entfernen zu groß wäre. In seiner [Informationsfreiheitsanfrage](https://fragdenstaat.de/anfrage/urheberrechtliche-gruende-fuer-die-abschaltung-des-web-archivs/) fordert Prof. Dr. Dr. Hanjo Hamann, Qualifikationsprofessor für Wirtschafts- und Immaterialgüterrecht, insbesondere Recht der Digitalisierung und Rechtslinguistik, Information darüber an, wie diese Entscheidung zu Stande gekommen, denn nach seiner Rechtsauffassuung sind die Dokumente nach § 5 Abs. 2 UrhG gemeinfrei und können nicht nachträglich beschränkt werden. Weil der Entscheidungsprozess [angeblich noch nicht abgeschlossen ist](https://chaos.social/@denes@mastodon.online/117154934028920647), werden diese und andere Anfragen bisher abgelehnt.
 
@@ -269,7 +271,7 @@ Im Vorfeld der Landtagswahl in Sachsen-Anhalt hatten die Softwerke Magdeburg [di
 
 Willst Du keinen Party-Schreck, mache vorher den [party-check.org](https://party-check.org)! Während beim Wahl-O-Mat sich die Parteien selbst einschätzen, haben bei Party-Check unabhängige Politik-Expert:innen die Haltung der Parteien zu den jeweiligen Fragestellungen eingeschätzt.
 
-### Mecklemburg-Vorpommern
+### Mecklenburg-Vorpommern
 Neben eben diesem [Party-Check](https://tool.party-check.org/index.php/mv) gibt es ebenfalls Wahlhilfen von [Kandidierendencheck](https://www.kandidierendencheck.de/mecklenburg-vorpommern), [Voteswiper](https://www.voteswiper.org/de/deutschland/landtagswahl-mecklenburg-vorpommern-2026) und [Wahl.Chat](https://wahl.chat/landtagswahl-mecklenburg-vorpommern-2026) sowie dem Klassiker [Wahl-O-Mat](https://www.bpb.de/themen/wahl-o-mat/mecklenburg-vorpommern-2026/). Das Katapult-Magazin [vergleicht die Angebote](https://katapult-mv.de/artikel/online-wahlhilfen-fuer-mvs-landtagswahl/).
 
 ### Berlin
@@ -299,75 +301,35 @@ Am 1.8.2011, also vor 15 Jahren, wurde FragDenStaat gegründet, das war sogar de
 Die Konferenz der Informationsfreiheitsbeauftragten (IFK) [ermuntert alle Wahlberechtigten](https://www.heise.de/news/Appell-vor-Landtagswahlen-Transparenz-schuetzt-vor-Desinformation-11418612.html) von ihren Auskunftsrechten Gebrauch zu machen, und Dokumente wie Verträge, behördliche Gutachten und interne Prüfberichte anzufordern, um an Hand dieser die Arbeit von Landesregierungen und Behörden selbst bewerten zu können und das auch in ihre Wahlentscheidung einfließen zu lassen, statt sich von Desinformationskampagnen in die Irre leiten zu lassen.
 
 ### Rechenzentren
-* Rechenzentrumsregister: Veröffentlichung und Daten nach § 13 EnEfG
-  https://fragdenstaat.de/anfrage/rechenzentrumsregister-veroeffentlichung-und-daten-nach-ss-13-enefg/?utm_source=chatgpt.com#nachricht-1141846
-* Unsere interaktive Karte macht Rechenzentren-Projekte und ihren enormen Stromverbrauch sichtbar
-  https://heisseluft.org
-  https://chaos.social/@fragdenstaat/117171816765445867
-* Deutschland will digital souveräner werden, dafür sollen viele neue Rechenzentren entstehen. Doch viele Projekte gehören zu US-Tech-Konzernen. Das zeigt eine Auswertung von NDR und Süddeutscher Zeitung
-  https://www.tagesschau.de/investigativ/ndr/rechenzentren-ki-100.html
-* Rechenzentren-Verzeichnis
-  https://rechenzentrumsregister.bund.de/de/annual-reports/
-* Intransparente Rechenzentren: "Ein Armutszeugnis für die Bundesregierung"
-  https://netzpolitik.org/2026/intransparente-rechenzentren-ein-armutszeugnis-fuer-die-bundesregierung/
-* Wo neue Rechenzentren entstehen
-  https://www.sueddeutsche.de/projekte/artikel/wirtschaft/rechenzentrum-ki-deutschland-e572693/?reduced=true
-* Interaktive Karte zeigt viele geplante Rechenzentren in Deutschland
-  https://www.heise.de/news/Interaktive-Karte-zeigt-viele-geplante-Rechenzentren-in-Deutschland-11433244.html
-* Protestaktion gegen Rechenzentrum
-  https://ooe.orf.at/stories/3369066/
-* Die Bundesregierung will Kommunen bestechen, um lokale Proteste gegen Rechenzentren zu brechen
-  https://indieweb.social/@alineblankertz/117190384252393934
+Von FragDenStaat und weiteren Organisationen ist auch [die interaktive Karte](https://heisseluft.org), die Rechenzentren-Projekte in Deutschland und ihren späteren enormen Stromverbrauch [sichtbar macht](https://chaos.social/@fragdenstaat/117171816765445867). [Wie heise einordnet](https://www.heise.de/news/Interaktive-Karte-zeigt-viele-geplante-Rechenzentren-in-Deutschland-11433244.html), zeigt die Karte nur die geplanten und im Bau befindlichen Rechenzentren und nicht den Bestand. Der Begriff "Rechenzentrum" ist zudem auch nicht genau definiert. Aber es geht vor allem darum, dass die Informationen helfen sollen, Protest, wie es ihn schon z.B. [in Österreich gibt](https://ooe.orf.at/stories/3369066/), auch in Deutschland zu organisieren. Und da es um viel Geld und vermeintliche wirtschaftliche Vorteile durch die Ansiedlung geht, will die Bundesregierung Kommunen bestechen, [um lokale Proteste gegen Rechenzentren zu brechen](https://indieweb.social/@alineblankertz/117190384252393934), in dem z.B. ein Bürgerbegehrung, einen Bürgerentscheid durchzuführen, [einfach abgelehnt wird](https://www.hessenschau.de/wirtschaft/mega-rechenzentrum-in-birstein-gemeinde-bremst-buergerentscheid-aus-v1,rechenzentrum-birstein-100.html).
+
+[Eine Auswertung](https://www.tagesschau.de/investigativ/ndr/rechenzentren-ki-100.html) von NDR und Süddeutscher Zeitung legt offen, dass viele dieser Projekte zu US-Tech-Konzernen gehören, digitale Souveränität ist den Verantwortlichen an der Stelle also egal.
+
+[Die Veröffentlichung](https://fragdenstaat.de/anfrage/rechenzentrumsregister-veroeffentlichung-und-daten-nach-ss-13-enefg/#nachricht-1140336) der Daten des Rechenzentrumsregister nach § 13 EnEfG wurde bereits im Juni über IFG-Anfrage angefordert. 
+
+Inzwischen gibt es tatsächlich eine offizielle Webseite zum [Rechenzentrumsregister](https://rechenzentrumsregister.bund.de/), die auch die [jährlichen Berichte enthält](https://rechenzentrumsregister.bund.de/de/annual-reports/). Die Such- und Filtermöglichkeiten lassen zu wünschen übrig, aber man kann die Daten auf der Seite auch als XLSX-Datei herunterladen, dann fällt es leichter, die Daten einzelner Standorte, zusammenzurechnen, um z.B. den Gesamtverbrauch pro Eigentümer zu erfahren. [Doch wie Julian Bothe von AlgorithmWatch warnt](https://netzpolitik.org/2026/intransparente-rechenzentren-ein-armutszeugnis-fuer-die-bundesregierung/), sind die Daten mit Vorsicht zu genießen, da sie grob und unvollständig sind. Aber selbst diese Daten möchten die BigTech-Firmen gerne wieder unter Verschluss bringen, da Verbrauchs- und Effizienzdaten einzelner Rechenzentren aus ihrer Sicht angeblich Geschäftsgeheimnisse wären.
 
 ### Lobbyismus im Wirtschaftsministerium
-* Die Wirtschaftsministerin traf den Chef eines Finanzinvestors, der Milliarden investieren will – auch in die Rüstungsbranche.
-  https://www.abgeordnetenwatch.de/recherchen/lobbyismus/katherina-reiches-geheimes-treffen-im-new-yorker-luxushotel
-  https://bewegung.social/@a_watch/117014287749731544
-* Geheime Absprachen mit Wirtschaftsministerium: Fossile Lobby bringt Bundesregierung auf Linie
-  https://www.fr.de/politik/fossile-lobby-bringt-bundesregierung-auf-linie-94449380.html
-* Ministerin Reiche liefert beim Lieferkettengesetz Rückschritt
-  https://www.fr.de/meinung/kommentare/reiche-hoehlt-lieferkettengesetze-aus-hand-in-hand-mit-konzernen-94451049.html
-  * Wirtschaftsministerium sabotiert Lieferkettengesetz
-    https://taz.de/Pflichten-fuer-Unternehmen/!6205777/
-  * Lieferkettengesetz unter Druck: Schafft Reiche ein Gesetz durch die Hintertür ab?
-    https://www.zdfheute.de/politik/deutschland/lieferketten-gesetz-reiche-100.html
-* Die Bundesregierung plant laut ihrer Antwort auf eine Große Anfrage der Linken-Fraktion keine Veröffentlichungspflicht von Treffen der Mitglieder des Bundeskabinetts mit Lobbyisten
-  https://www.bundestag.de/presse/hib/kurzmeldungen-1209376
-  https://social.bund.de/@hib_Nachrichten/117190086437651501
+Die Bundesregierung plant laut ihrer Antwort auf eine Große Anfrage der Linken-Fraktion [keine Veröffentlichungspflicht](https://www.bundestag.de/presse/hib/kurzmeldungen-1209376) von Treffen der Mitglieder des Bundeskabinetts mit Lobbyisten. 
+
+[Erst nach vier Monaten](https://www.abgeordnetenwatch.de/recherchen/lobbyismus/katherina-reiches-geheimes-treffen-im-new-yorker-luxushotel) gab das Wirtschaftsministerium zum Teil geschwärzte Dokumente auf die IFG-Anfrage zu einem Treffen der Wirtschaftsministerin mit dem Chef eines Private-Equity-Unternehmens in New York heraus. Salamitakikmäßig kam erst durch mehrfaches Nachbohren heraus, dass es nicht das einzige Treffen dieser Art an diesem Tag war. Dabei geht es um groß angelegte Investionen in deutsche Infrastruktur und Rüstung und damit auch im öffentlichen Interesse, was da alles entschieden und zugesichert wird, und ob das überhaupt in Volkes Wille ist. 
+
+Die Lieferketten-Kontrollbehörde BAFA soll eigentlich gemeldeten Hinweisen zu Verstößen gegen Menschenrechte und Umweltstandards entlang der gesamten Lieferkette nachgehen und bei Bewahrheitung Bußgelder gegen die schudligen Unternehmen in Millionen oder gar Milliardenhöhe verhängen. Nur sind von den vorgesehen 101 Stellen [nur 83 Stellen besetzt](https://www.zdfheute.de/politik/deutschland/lieferketten-gesetz-reiche-100.html), mit der eigentliche Kontrolle sind gerade mal 38 Stellen betraut. So kann die Einhaltung des Lieferkettengesetzes nicht vollzogen werden. Die Unterbesetzung ist politisch gewollt, denn [der Druck der fossilen Lobby ist groß](https://www.fr.de/politik/fossile-lobby-bringt-bundesregierung-auf-linie-94449380.html). Wenn man es schon noch nicht schafft, dass Gesetz und sein Pendant auf EU-Ebene ganz abzuschaffen, muss mit solchen Sabotageakten [sowie weiteren Anweisungen](https://taz.de/Pflichten-fuer-Unternehmen/!6205777/) die Wirtschaft "entlastet" werden.
 
 ### Gesundheit
 Wenn private Labore beispielsweise Salmonellen im Essen finden, müssen sie dies bisher den Behörden melden. Diese "Bürokratie" möchte nun Landwirtschaftsminister Alois Rainer [abbauen](https://www.morgenpost.de/wirtschaft/article412562507/warum-lebensmittelskandale-schon-bald-unentdeckt-bleiben-koennten.html). Verbraucherschützer und Foodwatch machen gegen diese Pläne [mit einer Petition mobil](https://www.foodwatch.org/de/mitmachen/keime-verheimlichen-nicht-mit-uns).
-* Neue Spiegel-Recherchen legen nahe, dass bei uns Schmerz-Medikamente von Parteispendern auch ohne ausreichende Fakten nur dank starkem politischem Druck zugelassen werden.
-  https://www.spiegel.de/politik/deutschland/cannabis-investitionen-profitieren-csu-spender-von-neuer-cannabis-regelung-a-4438334d-e2a6-4df4-97a3-041bab25710f
-  via https://bsky.app/profile/janoschdahmenmdb.de/post/3mu35kfoeks2p
+
+Der Bundestag und der Bundesrat [haben im Juli](https://hanfverband.de/hanfverband-skandaloese-entscheidung-zu-gkv-cannabis) die Therapieoptionen mit medizinischem Cannabis für Kassenpatienten massiv eingeschränkt. Eines der zwei jetzt noch zugelassenen teureren Fertigarzneimittel gehört [zufälligerweise](https://bsky.app/profile/janoschdahmenmdb.de/post/3mu35kfoeks2p) zu einem Unternehmen, dessen Gesellschafter vor der Bundestagswahl der CSU, CDU und SPD mehrere hunderttausend Euro gespendet hat.
 
 ### Überzeugungstäter
-* BDA-Hauptgeschäftsführerin Christina Ramb übernimmt die Abteilung für Soziales, Gesundheit und Arbeit im Kanzleramt
-  https://www.handelsblatt.com/politik/deutschland/regierung-merz-nimmt-weiteren-personalwechsel-im-kanzleramt-vor/100244351.html
-  via https://kolektiva.social/users/helenasteinhaus/statuses/117019206304213462
-  * "Ich warte drauf, dass der Chef von Shell Umweltminister wird. "
-* Dobrindts Grenzpolitik: Rechtsbruch mit Ansage
-  https://fragdenstaat.de/artikel/exklusiv/2026/08/rechtsbruch-mit-ansage/
+Den Bock zum Gärtner machen (oder auch ["Ich warte drauf, dass der Chef von Shell Umweltminister wird"](https://kolektiva.social/users/helenasteinhaus/statuses/117019206304213462)): die bisherige Hauptgeschäftsführerin des Arbeitgeberverbandes BDA [wird neue Leiterin](https://www.handelsblatt.com/politik/deutschland/regierung-merz-nimmt-weiteren-personalwechsel-im-kanzleramt-vor/100244351.html) der Abteilung für Soziales, Gesundheit, Arbeit, Umwelt und Gesellschaftspolitik im Kanzleramt. 
 
-Wer glaubt, dass hier jemand noch im Sinne der Allgemeinheit handelt, glaubt auch, dass Zitronenfalter Zitronen falten.
+Wer glaubt, dass hier noch Entscheidungen im Sinne der Allgemeinheit getroffen werden, glaubt auch, dass Zitronenfalter Zitronen falten.
+
+Wo (noch) kein Kläger, da (noch) kein Richter - nach dieser Methode wird wissentlich (wie nun über IFG befreite [interne Dokumente zeigen](https://fragdenstaat.de/artikel/exklusiv/2026/08/rechtsbruch-mit-ansage/)) Rechtsbruch begangen, um Fakten zu schaffen, so geschehen bei der Anweisung im Mai 2025 des Innenministers Asylsuchende an den Grenzen zurückzuweisen, angeblich aus Gründen öffentlicher Sicherheit und Ordnung, Gründe, die sich aber nicht ausreichend lassen, und somit die Anweisung gegen EU-Recht verstößt, wie das Berliner Verwaltungsgericht Juni 2025 entschieden hat. Ein Urteil, dass auch Dobrindt einfach auch ignoriert hat, ohne Konsequenzen, da die EU-Kommission erst im Juni 2026 Deutschland aufgefordert hat, die Grenzkontrollen zu beenden. Aber der Vorfall in Ceuta liefert den perfekten Vorwand, die Kontrollen weiter zu verlängern.
 
 ### Schufas Schattendatenbank
-Die Schufte von der Schufa
-* "Schattendatenbank"-Skandal: noyb mahnt SCHUFA ab, Interessentenliste für Sammelklage eröffnet
-  https://noyb.eu/de/shadow-database-scandal-noyb-sends-schufa-cease-and-desist-letter-interest-list-class-action
-  * Schufa: Das steckt hinter der "Schattendatenbank"
-    https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/audio-wie-problematisch-ist-die-praxis-der-schufa-100.html
-  * Schattendatenbank: Datenschützer mahnen Schufa ab
-    https://netzpolitik.org/2026/schattendatenbank-datenschuetzer-mahnen-schufa-ab/
-
-
-
-
-
-* SkyCommons Observatory
-  https://skycommons.okfn.org
-  https://bsky.app/profile/okfn.bsky.social/post/3mrtukhnzxm2s
- 
+Die Schufte von der Schufa haben historischen Daten, die sie rechtlich längst hätte löschen müssen, in einer ["Schattendatenbank"](https://www1.wdr.de/mediathek/audio/wdr5/wdr5-morgenecho-interview/audio-wie-problematisch-ist-die-praxis-der-schufa-100.html) einfach weiter gespeichert und nutzt sie wohl nicht nur zu Testzwecken, sondern verdient sogar mit ihnen Geld, wenn sie für die "Score-Validierungen" bei externen Unternehmen nutzt. Die Existenz dieser Daten wurde gegenüber Menschen verschwiegen, die bei der Schufa angefragt hatten, welche Daten diese über sie gespeichert hat. Die Datenschutzorganisation [noyb hat deshalb die Schufa abgemahnt](https://netzpolitik.org/2026/schattendatenbank-datenschuetzer-mahnen-schufa-ab/) und [eine Interessentenliste für eine Sammelklage eröffnet](https://noyb.eu/de/shadow-database-scandal-noyb-sends-schufa-cease-and-desist-letter-interest-list-class-action).
 
 ## Überwachung
 * Dubiose Praktiken: Palantir drückt sich vor Steuern
