@@ -239,6 +239,8 @@ Wolfram vom OKLab Köln hat mit [Klangland](https://weberius.github.io/klangland
 
 Das Rijksmuseum in Amsterdam stellt seine Daten nicht mehr nur als einfache API bereit, sondern vergibt nun Objekten, Personen, Orten und Konzepten persistente URIs, so dass als Wissensgraph auch mit anderen Systemen [verlinkt werden können](https://data.rijksmuseum.nl/about/).
 
+FineBooks eine Kollaboration zwischen Hugging Face und EleutherAI [möchte testen](https://huggingface.co/blog/finebooks/historical-books-ocr-leaderboard), ob offene OCR-Modelle gut genug sind, historische Texte im großen Stil zu verarbeiten.
+
 ## Journalismus
 ### Rechte Medien
 Frank Gotthardt wird trotz Millionen-Verluste das rechtspopulistische "Nachrichten"-Portal Nius [auch weiterhin finanzieren](https://www.dwdl.de/nachrichten/107551/frank_gotthardt_ich_moechte_nicht_dass_nius_leiser_wird/), mit der Begründung, dass er politisch mit ihm etwas bewirken möchte. Die Koblenzer CDU hat jedenfalls keine Kontaktscheu vor dem Nius-Finanzier und feiert bei ihm [unbeschwert ihr Sommerfest](https://www.swr.de/swraktuell/rheinland-pfalz/koblenz/kritik-an-cdu-sommerempfang-bei-compugroup-gotthardt-nius-100.html). Derweil bietet das Edelweiss-Netzwerk [Webinare](https://edelweissnetzwerk.de/aktionen/medical/webinar) für Praxen an, um von Gotthardts Praxissoftware wegzuwechseln, um ihn als Neurechten nicht weiter unterstützen müssen. 
@@ -288,7 +290,7 @@ Die Bundeszentrale für politische Bildung (BpB), die sich auch für den Wahl-O-
 
 Gleichzeit haben Neonazis haben [ein Pseudoinstitut für Abschiebungen gegründet](https://taz.de/Institut-for-Remigration/!6207019/) und ein CDU-Ortsbürgermeister aus Sachsen-Anhalt hat der 10.000 Euro gespendet, weil er, aus vor einem Linksruck, auf deren absoluten Mehrheit hofft. [Rechtswissenschaftler machen sich inzwischen Gedanken darüber](https://netzpolitik.org/2026/polizei-und-verfassungsschutz-was-bei-einer-machtuebernahme-durch-rechtsextreme-droht/), welche Folgen die Machtübernahme für Polizei und Verfassungsschutz haben könnte.
 
-Bei so einer Prioritätensetzung der offiziellen Stellen bleibt der Kampf gegen Rechts an der [Zivilgesellschaft](https://www.deutschlandfunk.de/systemfragen-was-ist-zivilgesellschaft-100.html) hängen. Die im Bündnis ["Zusammen für Demokratie"](https://zusammen-fuer-demokratie.de) zusammengeschlossenen über 80 Verbände wollen Personen und Einrichtungen, die von Rechtsextremen attackiert oder bedroht werden, [gemeinsam unterstützen](https://www.diakonie.de/informieren/infothek/2026/august/buendnis-zusammen-fuer-demokratie-stellt-solidaritaetsvereinbarung-fuer-bedrohte-engagierte-und-einrichtungen-vor).
+Bei so einer Prioritätensetzung der offiziellen Stellen bleibt der Kampf gegen Rechts an der [Zivilgesellschaft](https://www.deutschlandfunk.de/systemfragen-was-ist-zivilgesellschaft-100.html) hängen. Die im Bündnis ["Zusammen für Demokratie"](https://zusammen-fuer-demokratie.de) zusammengeschlossenen über 80 Verbände wollen Personen und Einrichtungen, die von Rechtsextremen attackiert oder bedroht werden, [gemeinsam unterstützen](https://www.diakonie.de/informieren/infothek/2026/august/buendnis-zusammen-fuer-demokratie-stellt-solidaritaetsvereinbarung-fuer-bedrohte-engagierte-und-einrichtungen-vor). Weitere Initiativen sind ["Zusammen bewegen"](https://zusammenbewegen.org) in Mecklenburg-Vorpommern und ["Berlin zusammen"](https://berlinzusammen.de).
 
 Die internationale gemeinnützige Organisation [More in Common](https://www.moreincommon.de) beschäftigt sich mit der Frage, wie man den gesellschaftlichen Zusammenhalt sowie das Vertrauen in die Demokratie und unter den Menschen wieder stärken kann.
 
@@ -308,6 +310,8 @@ Von FragDenStaat und weiteren Organisationen ist auch [die interaktive Karte](ht
 [Die Veröffentlichung](https://fragdenstaat.de/anfrage/rechenzentrumsregister-veroeffentlichung-und-daten-nach-ss-13-enefg/#nachricht-1140336) der Daten des Rechenzentrumsregister nach § 13 EnEfG wurde bereits im Juni über IFG-Anfrage angefordert. 
 
 Inzwischen gibt es tatsächlich eine offizielle Webseite zum [Rechenzentrumsregister](https://rechenzentrumsregister.bund.de/), die auch die [jährlichen Berichte enthält](https://rechenzentrumsregister.bund.de/de/annual-reports/). Die Such- und Filtermöglichkeiten lassen zu wünschen übrig, aber man kann die Daten auf der Seite auch als XLSX-Datei herunterladen, dann fällt es leichter, die Daten einzelner Standorte, zusammenzurechnen, um z.B. den Gesamtverbrauch pro Eigentümer zu erfahren. [Doch wie Julian Bothe von AlgorithmWatch warnt](https://netzpolitik.org/2026/intransparente-rechenzentren-ein-armutszeugnis-fuer-die-bundesregierung/), sind die Daten mit Vorsicht zu genießen, da sie grob und unvollständig sind. Aber selbst diese Daten möchten die BigTech-Firmen gerne wieder unter Verschluss bringen, da Verbrauchs- und Effizienzdaten einzelner Rechenzentren aus ihrer Sicht angeblich Geschäftsgeheimnisse wären.
+
+[Paradebeispiel](https://www.regensburg-digital.de/ein-ki-rechenzentrum-und-milliardeninvestitionen-fuer-wenzenbach/04082026/) für den Mangel an demokratischer Mitbestimmung und Transparenz ist das geplante KI-Rechenzentrum  bei Wenzenbach nördlich von Regensburg. Trotz Kritik, sollen auch an zahlreichen anderen Standorten neue AI-Giga-Factories wie Pilze aus den Boden schießen, wie z.B. das Rechenzentrum von Schwarz Digits [in Mecklenburg-Vorpommern](https://www.heise.de/news/Schwarz-Digits-baut-grosses-KI-Rechenzentrum-in-Mecklenburg-Vorpommern-11431329.html), das unter anderem von den nahen Offshore-Windkraft als Stromversorgung profitieren möchte.
 
 ### Lobbyismus im Wirtschaftsministerium
 Die Bundesregierung plant laut ihrer Antwort auf eine Große Anfrage der Linken-Fraktion [keine Veröffentlichungspflicht](https://www.bundestag.de/presse/hib/kurzmeldungen-1209376) von Treffen der Mitglieder des Bundeskabinetts mit Lobbyisten. 
@@ -370,76 +374,31 @@ Bei der Deutschen Post geht man sogar so weit, dass man das Post-Ident-Verfahren
 [Golem erklärt nochmal](https://www.golem.de/news/massenueberwachung-machtzentrale-palantir-2608-211332.html) das Prinzip Palantir und was daran hinsichtlich Machtkonzentration so problematisch ist. Dass sich Palantir [vor gerechter Besteuerung drückt](https://netzpolitik.org/2026/dubiose-praktiken-palantir-drueckt-sich-vor-steuern/), ist da nur ein Mosaikstein. Kein Hinderungsgrund für den Springer-Verlag, Peter Thiel, Mitgründer und Verwaltungsratratmitglied von Palantir, den Axel-Springer-Award am 25. September [verleihen zu wollen](https://berlin.ccc.de/post/2026/08/28/peter-thiel-ante-portas/).
 
 ## Degenerierte KI
-### Recht
-* AI Act: From now on, companies across the EU must be clear about  their use of AI.
-  https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
-  via https://ec.social-network.europa.eu/@EUCommission/117024814378891853
-  * Trügerische Transparenz: Was die neuen KI-Labels bringen und was nicht
-    https://netzpolitik.org/2026/truegerische-transparenz-was-die-neuen-ki-labels-bringen-und-was-nicht/
-  * Keine Chance für Schummler: Claude bekommt jetzt ein unsichtbares Wasserzeichen
-    https://www.heise.de/news/Keine-Chance-fuer-Schummler-Claude-bekommt-jetzt-ein-unsichtbares-Wasserzeichen-11410129.html
-    * Anthropic sagt, sein Wasserzeichen funktioniere. Vielleicht. Manchmal.
-      https://www.heise.de/meinung/WTF-Anthropic-sagt-sein-Wasserzeichen-funktioniere-Vielleicht-Manchmal-11415365.html
-  * Wasserzeichen für Anthropics Claude: Coder entwickelt Tool zum Entfernen
-    https://www.heise.de/news/Wasserzeichen-fuer-KI-Claude-Coder-entwickelt-Tool-zum-Entfernen-11421600.html
-* Dänemarks Regierung will "Copyright" auf eigene Stimme, Gesicht und Körper verankern
-  https://www.deutschlandfunkkultur.de/daenemarks-regierung-will-copyright-auf-eigene-stimme-gesicht-und-koerper-verankern-102.html
-### Software-Entwicklung
-* CO2-intensive KI-Features umgehen: Mit Open Source kannst du dem Walled-Garden entkommen
-  https://reset.org/ki-features-umgehen-open-source-walled-garden-entkommen/
-### Rechenzentren
-* Große Pläne, vieles unklar: Ein KI-Rechenzentrum und Milliardeninvestitionen für Wenzenbach?
-  https://www.regensburg-digital.de/ein-ki-rechenzentrum-und-milliardeninvestitionen-fuer-wenzenbach/04082026/
-  https://mastodon.social/@mfeilner/117036760111911271
-* Schwarz Digits baut großes KI-Rechenzentrum in Mecklenburg-Vorpommern
-  https://www.heise.de/news/Schwarz-Digits-baut-grosses-KI-Rechenzentrum-in-Mecklenburg-Vorpommern-11431329.html
-### Sicherheit
-* KI-Modelle vergiften: Warum Data Poisoning eine wachsende Gefahr für die IT-Sicherheit ist
-  https://t3n.de/news/ki-modelle-vergiften-data-poisoning-it-sicherheit-1756214/
-* "Computer History": OpenAI bringt Windows-Recall-ähnliche Funktion auf Macs
-  https://www.heise.de/news/Computer-History-OpenAI-bringt-Windows-Recall-aehnliche-Funktion-auf-Macs-11422534.html
-### Militär
-* München wird zur Hauptstadt der KI-Kriegsindustrie
-  https://jacobin.de/muenchen-ki-helsing-krieg/
-### Authenzität
-* Authenticity Problem
-  https://www.peppercarrot.com/en/miniFantasyTheater/064.html
-  https://framapiaf.org/@davidrevoy/117044615886264428
-  https://digitalcourage.social/@reticuleena/117048808711272197
-* Die Bundesregierung gibt sich verschlossen beim Einsatz von generativer KI für Reden und Artikel
-  https://algorithmwatch.org/de/bundesregierung-demokratischen-entscheiderinnen-orientierungshilfe/
-  * "Warum sollte ich mir die Mühe machen, einen Text zu lesen, von dem sich niemand die Mühe gemacht hat, ihn zu schreiben."
-    https://bsky.app/profile/kleinergag.bsky.social/post/3ms6abzfhqk2v  
-### Tools
-* FineBooks: are open OCR models good enough to unlock historical knowledge
-  https://huggingface.co/blog/finebooks/historical-books-ocr-leaderboard
-* Eine KI, die nicht will, dass man sie nutzt? Warum aim2balance.ai ein besonderer Ansatz für nachhaltige KI ist
-  https://reset.org/ki-die-nicht-will-dass-man-nutzt-aim2balance-besonders-ansatz-nachhaltige-ki-ist/
-* Mistrals große Wette auf Europas KI-Infrastruktur
-  https://www.heise.de/news/Mistrals-grosse-Wette-auf-Europas-KI-Infrastruktur-11412099.html
-* Ox Alpha: Anonymes KI-Modell zwischen Hype und Datenschutz
-  https://www.heise.de/hintergrund/Ox-Alpha-Was-hinter-dem-Hype-um-das-anonyme-KI-Modell-steckt-11426268.html
-### Finanzen
-* KI-Blase: Expertengruppe der EZB warnt vor den Folgen eines Kursrutsches
-  https://www.heise.de/news/KI-Blase-Expertengruppe-der-EZB-warnt-vor-den-Folgen-eines-Kursrutsches-11421468.html
-* Nach OpenRouter rückt mit Hugging Face die nächste große KI-Plattform ins Visier möglicher Käufer.
-  https://www.heise.de/news/KI-Plattform-Hugging-Face-prueft-milliardenschweren-Verkauf-11423337.html
-* Kommt die nächste Finanzkrise aus dem KI-Rechenzentrum?
-  https://www.moment.at/story/naechste-finanzkrise-ki-rechenzentrum/
-### Folgen
-* KI verarbeitet riesige Datenmengen – und kein Mensch kann es nachprüfen. Eine neue Studie zeigt, was das für die Verlässlichkeit der Wissenschaft bedeutet.
-  https://www.fr.de/wissen/ki-in-der-wissenschaft-studie-warnt-vor-black-box-problem-zr-94449838.html
-* KI wird zum größten KI-Kunden: Agenten treiben den Token-Verbrauch nach oben
-  https://the-decoder.de/ki-verbraucht-mehr-tokens-als-menschen-agenten-treiben-den-verbrauch-massiv-nach-oben/
-### Hype
-* Stanisław Lem foretold the current LLM mania in 1964
-  https://nibblestew.blogspot.com/2026/08/stanisaw-lem-foretold-current-llm-mania.html
+### Recht und Authenzität
+Der [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) regelt, dass Unternehmen seit Anfang August von ihnen generierte KI-Inhalte als solche [kennzeichnen müssen](https://ec.social-network.europa.eu/@EUCommission/117024814378891853). Texte oder Bilder sollen dann entsprechend [mit Label und Wasserzeichen versehen werden](https://netzpolitik.org/2026/truegerische-transparenz-was-die-neuen-ki-labels-bringen-und-was-nicht/) und so als als Orientierungshilfe und Förderung von Medienkompetenz dienen. Die von der EU vorgeschlagen Icons sind allerdings nicht verbindlich, so dass Wildwuchs und damit Verwirrung zu erwarten ist. Bösewichte werden sich absehbar eh nicht daran halten. Anthropic plant nun in Texte seines Chatbots Claude [unsichtbare Wasserzeichen](https://www.heise.de/news/Keine-Chance-fuer-Schummler-Claude-bekommt-jetzt-ein-unsichtbares-Wasserzeichen-11410129.html) zu integrieren. Diese sollen auch beim Kopieren des Textes nicht verloren gehen. Anthrophic gibt aber selbst zu, [dass der Schutzmechnismus nicht immer zuverlässig funktioniert](https://www.heise.de/meinung/WTF-Anthropic-sagt-sein-Wasserzeichen-funktioniere-Vielleicht-Manchmal-11415365.html). Werden z.B. die Texte im Nachgang stark bearbeitet, zerstört das die enthaltenen SynthID-Muster. Inzwischen existiert sogar ein [Open-Source-Tool](https://github.com/guillaumemeyer/watermarks-remover), dass solche "Wasserzeichen" [entfernen kann](https://t3n.de/news/claude-wasserzeichen-entfernen-tool-anthropic-synthid-1758888/). Wäre ja auch schade, wenn man aufeinmal offenlegen könnte, dass die als eigene Arbeit ausgebenen Werke, gar nicht von einem selbst stammen.  
+
+[Die Bundesregierung möchte jedenfalls nicht preisgeben](https://algorithmwatch.org/de/bundesregierung-demokratischen-entscheiderinnen-orientierungshilfe/), wie oft Reden und Artikel "teilweise oder vollständig durch generative KI erstellt" wurden. Dabei sollten gerade politische Entscheidungsträger eine besondere Sorgfaltspflicht walten lassen. Und über allem schwebt [die Frage](https://bsky.app/profile/kleinergag.bsky.social/post/3ms6abzfhqk2v): "Warum sollte ich mir die Mühe machen, einen Text zu lesen, von dem sich niemand die Mühe gemacht hat, ihn zu schreiben."
+
+Auch die umgekehrten Fälle gibt es inzwischen: [Comic-Zeichner](https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai) und [Autorinnen](https://digitalcourage.social/@reticuleena/117048808711272197) werden zu unrecht beschuldigt, ihre Werke mit KI erzeugt zu haben.
+
+[Die Dänemarks Regierung möchte](https://www.deutschlandfunkkultur.de/daenemarks-regierung-will-copyright-auf-eigene-stimme-gesicht-und-koerper-verankern-102.html) für seine Bürger:innen das Recht an der eigenen Stimme, Gesicht als auch dem Körper gesetzlich verankern.
+
 ### KI als Werkzeug fürs Gute?
-* Post Hoc Public AI
-  https://profalexreid.com/2026/08/28/post-hoc-public-ai/
-  https://openbiblio.social/@acka47/117191462538931294
-* Peacemaking and conflict mediation: AI as a tool, human judgment as the key
-  https://blog.okfn.org/2026/08/31/peacemaking-and-conflict-mediation-ai-as-a-tool-human-judgment-as-the-key/
+KI ist nur so moralisch, wie die Menschen, die ihr die Ziele vorgeben. Unter Voraussetzung der Ausgewogenheit der Trainingsdaten richtig eingesetzt, kann sie auch die [PeaceTech](https://www.peacetech-alliance.com) sein, die mit hilft, [Streit zu schlichten](https://blog.okfn.org/2026/08/31/peacemaking-and-conflict-mediation-ai-as-a-tool-human-judgment-as-the-key/), in Konflikten zu vermitteln und Frieden zu schaffen.
+
+Statt Gemeinwohl mehr Wohl für die gemeinen Menschen?: Professor Alex Reid nimmt die Argumente der Rhetorik [unter die Lupe](https://profalexreid.com/2026/08/28/post-hoc-public-ai/), mit denen die vermeintliche unausweichliche Notwendigkeit festgeschrieben wird, dass sich Universitäten im Bereich der KI engagieren müssen. Oder überwiegen nicht doch [die negativen Effekte](https://openbiblio.social/@acka47/117191462538931294) und macht man sich zum Handlanger des Militärs, deren Grenzkontroll-KI und Kriegs-KI für autonome Waffen auf den Forschungsergebnisse aufbauen können? Der deutsche Staat jedenfalls [investiert massiv in militärische KI](https://jacobin.de/muenchen-ki-helsing-krieg/). 
+  
+### Mehr Nachhaltigkeit
+Im Gegensatz zu den üblichen kommerziellen LLMs, die durch ständige Nachfragen, die Nutzer verleiten sie immer weiter zu benutzen, ist das Sprachmodell von [aim2balance.ai](https://aim2balance.ai) so konfiguriert, [dies nicht zu tun](https://reset.org/ki-die-nicht-will-dass-man-nutzt-aim2balance-besonders-ansatz-nachhaltige-ki-ist/).
+  
+Da Suchmaschinen, Social Media und andere Werkzeuge ihren Nutzer immer mehr KI-Funktionen aufdrängen, sollte man bewusst Open-Source und dezentrale Netzwerke nutzen, [um diesem goldenen Käfig zu entfliehen](https://reset.org/ki-features-umgehen-open-source-walled-garden-entkommen/).
+
+### Folgen
+Wir ertrinken in riesigen Datenmengen, ob die KI wirklich die relevanten Informationen aus diesen extrahiert hat, ist fahrlässig, kann kaum ein Mensch erschöpfend überprüfen. Die Grundprinzipien wissenschaftlichen Arbeitens, Überprüfbarkeit, Transparenz und Reproduzierbarkeit [geraten so unter die Räder](https://www.fr.de/wissen/ki-in-der-wissenschaft-studie-warnt-vor-black-box-problem-zr-94449838.html).
+
+Der Umstand, dass KI-Agenten immer selbstständiger arbeiten und länger laufen und dabei wiederum andere KI-Agenten anstoßen, [treibt den Token-Verbrauch ins Exorbitante](https://the-decoder.de/ki-verbraucht-mehr-tokens-als-menschen-agenten-treiben-den-verbrauch-massiv-nach-oben/).
+
+Stanisław Lem und andere Science-Fiction-Schriftstellen haben die aktuelle LLM-Manie bereits in den 60-er Jahren [vorausgeahnt](https://nibblestew.blogspot.com/2026/08/stanisaw-lem-foretold-current-llm-mania.html).
 
 ## Recap
 * [DWebCamp Workshop](https://d-64.org/workshop-dezentralisierungsprojekt/): Von dezentraler Technik zu demokratischer Kontrolle
