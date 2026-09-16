@@ -19,7 +19,11 @@ document.addEventListener("DOMContentLoaded", function () {
   // basemap
   var osmTilesUrl = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
   var osmAttrib = 'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a> contributors';
-  var osmLayer = new L.TileLayer(osmTilesUrl, { minZoom: 5, attribution: osmAttrib });
+  var osmLayer = new L.TileLayer(osmTilesUrl, {
+      minZoom: 5,
+      attribution: osmAttrib,
+      referrerPolicy: 'strict-origin-when-cross-origin',
+  });
   // load basemaps
   osmLayer.addTo(map);
 
