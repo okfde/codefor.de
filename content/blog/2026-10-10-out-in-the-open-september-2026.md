@@ -49,6 +49,16 @@ type: blog
   https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2026/BB-ITV-RKI.html
 * Einmal pflegen, überall nutzbar: der Bremer Data Hub
   https://www.linkedin.com/posts/%F0%9D%97%98%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%BD%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%B2%F0%9D%97%BB-%C3%BC%F0%9D%97%AF%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B9-share-7507710159515795456-IoUC/
+* musicbrainz is very close to 3 million artists
+  https://musicbrainz.org/statistics
+  https://mastodon.indie.host/@stragu/117352737308282263
+
+## Open Access
+* 140 Millionen Seiten Wissensgeschichte online zugänglich: Vier Schweizer Bibliotheken lancieren die Plattform "Books as Data"
+  https://ub-easyweb.ub.unibas.ch/en/news/details/plattform-books-as-data/
+* Open-Access-Tage Linz
+  https://open-access-tage.de/open-access-tage-2026-linz/programm-1
+  https://openbiblio.social/@georgfischer/117348042615002209
 
 ## Statistik
 * Mietenreport 2026
@@ -75,6 +85,11 @@ type: blog
     https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-wer-fuer-die-afd-in-den-landtag-einzieht-201202059.html
 * Der Ernstfall ist jetzt
   https://www.zeit.de/politik/2026-09/kommentar-afd-wahlsieg-sachsen-anhalt-nachrichtenpodcast
+* Safeguarding in Sachsen-Anhalt – Sicherung öffentlicher Daten vor dem Regierungswechsel
+  https://safeguar.de/src_sachsen-anhalt/
+  via https://fedihum.org/@SafeguardingResearch/117349427192911869
+* Was die AfD im Landtag plant
+  https://bsky.app/profile/arnesemsrott.bsky.social/post/3mwqdnzacdc2k
 
 ### Berlin
 * Berlin: Die Hochburgen und Jammertäler der Parteien
@@ -100,7 +115,6 @@ type: blog
   https://bsky.app/profile/danielkubiak.bsky.social/post/3mvgj36or2s2l
 * Landtagswahlen: Das echte Wahlergebnis
   https://fragdenstaat.de/artikel/exklusiv/2026/09/das-echte-wahlergebnis/
-
 
 ## Journalismus
 * Petition bündelt Forderungen an die Bundesregierung für Pressefreiheit und Medienvielfalt
@@ -163,6 +177,8 @@ type: blog
   via https://chaos.social/@tbsprs/117299331039701722
 * CDU – Die Enteignungspartei
   https://enteignungspartei.lol
+* ZDF Frontal Toll! zu Vergesellschaftung
+  https://www.zdf.de/play/magazine/frontal-toll-satire-von-doye-und-wiemers-100/satire-toll-208
 * Unshit the Zone
   https://jagodamarinic.substack.com/p/unshit-the-zone
 * Die Demokratie braucht mehr als eine Brandmauer
@@ -173,6 +189,15 @@ type: blog
   https://bsky.app/profile/melaura.bsky.social/post/3mwavnbymjs22
 * Stolpersteinverbot in Heidenau
   https://bsky.app/profile/melaura.bsky.social/post/3mwbw5ey2x22v
+  * Nächster Antisemitismus-Hammer! Linkspartei verbietet "Stolpersteine" … ach nee, Stopp, das war die CDU. Dann isses natürlich halb so wild!
+    https://www.der-postillon.com/2026/09/stolpersteine-heidenau.html
+  * Stolpersteine digital: App trotzt Heidenau-Beschluss 
+    https://www.diesachsen.de/wissenschaft/stolpersteine-digital-app-trotzt-heidenau-beschluss-3185120
+  * Stolpersteine-App kontert Heidenaus Gedenkstein-Verbot
+    https://www.spiegel.de/politik/deutschland/heidenau-stolpersteine-app-reagiert-auf-verbot-neuer-gedenksteine-a-6a7f0e61-0b65-493d-a314-c51cfcaed41b
+  * aktuellen Stand zu Heidenau 
+    https://akubiz.de/38-verein/news/877-stolpersteine-heidenau
+    https://systemli.social/@tolsax/117355763713180536
 * Bemerkenswert, wer zur großen Peter Thiel Show von Mathias Döpfner gestern angereist war (z.B. Markus Söder)
   https://bsky.app/profile/janoschdahmenmdb.de/post/3mwd4fkqfmc2x
   * Wenn organisierte Kriminalität im Anzug kommt
@@ -180,6 +205,19 @@ type: blog
     https://bsky.app/profile/pankowerpflanze.de/post/3mwd5nowkck24
   * Heuchelei
     https://bsky.app/profile/christophbautz.bsky.social/post/3mwdqlou3fs2w
+* Parteipolitik von Behördenkonten
+  https://norden.social/@SheDrivesMobility/117339656948106774
+  https://www.l-iz.de/politik/sachsen/2026/09/schuster-warnt-auf-behoerdenaccounts-vor-linker-regierung-in-berlin-671372
+  * Sachsens Innenminister will Grundrecht auf Asyl streichen
+    https://www.spiegel.de/politik/deutschland/sachsen-cdu-innenminister-armin-schuster-will-grundrecht-auf-asyl-streichen-a-70fa62a7-9f06-4d42-9f35-b62bc7ef027a
+  * Berliner Linke klagt gegen Wirtschaftsministerin Reiche – "Die CDU verliert die letzten Hemmungen"
+    https://www.fr.de/politik/berliner-linke-klagt-gegen-wirtschaftsministerin-reiche-frist-bis-dienstag-zr-94512929.html
+* Eine von der Linken regierte Hauptstadt will die Union nicht mitfinanzieren. Bei der AfD in Sachsen-Anhalt war CSU-Chef Söder nicht so rigoros.
+  https://taz.de/Union-und-der-Laenderfinanzausgleich/!6217293/
+* Inside CDU
+  https://www.zdf.de/dokus/inside-cdu-102
+  https://www.tagesspiegel.de/gesellschaft/panorama/wirbel-um-inside-cdu-doku-diese-funf-szenen-sollten-sie-kennen-um-mitreden-zu-konnen-16103720.html
+  https://bsky.app/profile/palle.eurosky.social/post/3mwiumosly22l
 
 ## Digitale Souveränität
 * Schweizer E-ID: Justizminister Jans verhindert geheimen Amazon-Deal
@@ -195,6 +233,10 @@ type: blog
     https://nublogs.org
   * Trumps Angriffe auf Linke - Gemeint sind wir alle
     https://taz.de/Trumps-Angriffe-auf-Linke/!6214682/
+  * Autistici / Inventati: Es ist immer noch viel zu still
+    https://netzpolitik.org/2026/autistici-inventati-es-ist-immer-noch-viel-zu-still/
+  * Digitale Souveränität für jeden?
+    https://www.behoerden-spiegel.de/2026/09/29/digitale-souveraenitaet-fuer-jeden/
 * Digitale Selbstbestimmung: Freie Software - Diese Betriebssysteme achten unsere Privatsphäre
   https://blog.wikimedia.de/2025/10/23/freie-betriebssysteme/
 * UnplugBigTech: Mehr Kontrolle über Android und iOS – Teil 9
@@ -220,6 +262,14 @@ type: blog
   via https://bsky.app/profile/lobbycontrol.bsky.social/post/3mum5hqivhs2r
 * Es war nur eine Frage der Zeit, bis dieser Uralt-Klassiker aus der Geschichte des Internets dahingehend aktualisiert wurde.
   https://bsky.app/profile/grantscheam.bsky.social/post/3mvpwxdxso5qe
+* Bundesdruckerei-Gruppe und ZenDiS starten Partnerschaft für digital souveräne Verwaltung
+  https://www.zendis.de/newsroom/presse/pressemeldung-kooperation-bdr-zendis
+* Nodes of Resistance
+  https://noderesist.de
+* Niederlande bauen souveränen Behördendesktop auf NixOS-Basis
+  https://www.heise.de/news/Niederlande-bauen-souveraenen-Behoerdendesktop-auf-NixOS-Basis-11470285.html
+* Unabhängigkeit durch Offenheit: Wie die öffentliche Hand die Potenziale von Open Source besser nutzen kann
+  https://okfn.de/publikationen/unabhaengigkeit-offenheit/
 
 ## Open Source
 * Versatiles - Offener Brief an die ARD
@@ -242,6 +292,8 @@ type: blog
 * FediWings: Wie weit trägt dein Post im Fediverse?
   https://rstockm.github.io/fediwings/
   via https://troet.cafe/@Marwe/117331915191557795
+* MeshCore — So kommuniziert ihr auch beim Blackout
+  https://www.heise.de/news/Video-MeshCore-So-kommuniziert-ihr-auch-beim-Blackout-11464276.html
 
 ## Verwaltungsdigitalisierung
 * Wie München zur digitalen Vorreiterin wurde
@@ -258,6 +310,8 @@ type: blog
 * Kompetenzstelle Data Governance Act
   https://dga-portal.de
   https://www.linkedin.com/posts/dga-verwaltungsdaten-anonymisierung-share-7506245249158139906-QHLT/
+* eGovernment Podcast Monatsschau 09-26
+  https://egovernment-podcast.com/egov278-monatsschau-09-26/
 
 ### Berlin Hack
 * Berlin: Passwörter abgeflossen, 12.000 Systeme werden gescannt
@@ -281,6 +335,8 @@ type: blog
   https://www.ndr.de/nachrichten/info/hacker-angriffe-so-sicher-sind-die-daten-in-norddeutschen-behoerden,datensicherheit-164.html
 * Verschlusssachen in der Kommunalverwaltung
   https://www.cyberkrisenmanagement.blog/verschlusssachen-in-der-kommunalverwaltung/
+* Mehr als 750 Menschen fürchten vom Hack der Senatsverwaltungen betroffen zu sein
+  https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-attacke-verwaltung-senat-beschwerden.html
 ### EUDi
 * SPRIND sind Datenabflüsse im Kontext der #EUDiWallet egal
   https://mastodon.social/@bkastl/117240347390608059
@@ -310,6 +366,8 @@ type: blog
     https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3muyb7vob7k2z
   * Katherina Reiche und die CERAWeek: Was die BMWE-Akten über ihre Agenda verraten
     https://www.cleanthinking.de/reiche-cera-week-akten/
+    * Katherina Reiche in Houston: Erklagte Dokumente zeigen fossilen Kurswechsel
+      https://www.telepolis.de/article/Katherina-Reiche-in-Houston-Erklagte-Dokumente-zeigen-fossilen-Kurswechsel-11463098.html
   * Das Bundeswirtschaftsministerium vertuscht (laut correctiv vor 7 Tagen) Treffen und Gespräche mit der Gaslobby zum Gebäudemodernisierungsgesetz
     https://correctiv.org/aktuelles/klimawandel/2026/09/16/ministerin-reiche-laesst-lobbytreffen-im-dunkeln/
   * Hat das Wirtschaftsministerium die Gaslobby um Argumente gebeten?
@@ -319,11 +377,17 @@ type: blog
 * Liegt Kreis Borken plötzlich an der Nordsee?
   https://www1.wdr.de/nrw/muensterland/kreis-borken/windpark-borken-kuestenregion-beteiligung-100.html
   via https://bsky.app/profile/mariasattelschmied.bsky.social/post/3mv7wdc3ps226
+* "Künftig sollen Betreiber von Windkraft- und Solaranlagen in Zeiten hoher Strommarktpreise Gewinne zurückzahlen müssen."
+  https://taz.de/Katherina-Reiches-umstrittene-Reform/!6215598/
+  https://taz.de/Der-naechste-Streich-von-Katherina-Reiche-um-die-Wirtschaft-zu-bremsen-Keine-Entschaedigung-fuer-nicht-eingespeiste-Windenergie/!6211825/
+  via https://bsky.app/profile/miezi-katze.bsky.social/post/3mwnmvaqki22i
 * Reiche geht jetzt beim Höchststand vom Preis seit 2022 tatsächlich doch Gas einkaufen!
   https://dju.social/@DerKlimablog/117281706711759760
   * Gaspreis explodiert um 40 Prozent – warum Deutschland die Speicher nicht mehr voll bekommt
     https://www.fr.de/wirtschaft/und-die-bundesregierung-schaut-nur-zu-gaspreis-auf-dreijahreshoch-zr-94473114.html
     Absicht?: https://bsky.app/profile/rastadler.bsky.social/post/3murime2dis2c
+  * Reiche ordnet nun doch höhere Gasvorräte an
+    https://taz.de/Gasversorgung-im-Winter/!6217627/
 * Reiches Stromplan betrifft Millionen Deutsche – Energie-Experte warnt vor neuen Zusatzgebühren
   https://www.fr.de/politik/reiches-stromplan-betrifft-millionen-deutsche-energieexperte-zerreisst-zr-94491293.html
 * Atomkraft-Comeback in Deutschland? Interne Papiere zeigen brisanten Reiche-Plan
@@ -339,6 +403,14 @@ type: blog
 * Nationale Resilienz für das Energiesystem (NaREsys)
   https://naresys.de/projekt/
   https://bsky.app/profile/solarpapst.bsky.social/post/3mvthzwtx5s24
+* Solarstromproduktion übertrifft bereits jetzt Vorjahreswert
+  https://www.heise.de/news/Solarstromproduktion-uebertrifft-bereits-jetzt-Vorjahreswert-11467510.html
+* Ökostrom deckt zu 61 Prozent den Bedarf in Deutschland ab
+  https://www.heise.de/news/Rekord-bei-Oekostrom-Anteil-steigt-auf-knapp-61-Prozent-11472002.html
+* Open Energy
+  https://energie-selbermachen.de/solarpotenzial/
+  https://hardware.prototypefund.de/open-energy-geht-an-den-start-was-wir-vorhaben-und-warum/
+  via https://chaos.social/@mavo/117316265632164919
 
 ## Klima
 * Hitze und Klimakrise - was muss jetzt geschehen?
@@ -378,6 +450,8 @@ type: blog
     https://github.com/ErtanOz/Waldbrand-Monitor
   * GeoGuess-Cologne
     https://geoguesscologne.netlify.app/de/spiel
+* Google Maps schaltet neue Satellitenbilder frei: Die folgenschwere Zerstörung in Gaza ist nun für jeden sichtbar
+  https://www.tagesspiegel.de/internationales/google-maps-schaltet-neue-satellitenbilder-frei-die-folgenschwere-zerstorung-in-gaza-ist-nun-fur-jeden-sichtbar-16103400.html
 
 ## Mobilität
 * ADFC-Fahrradklima-Test 2026: Wie fahrradfreundlich ist dein Ort?
@@ -397,6 +471,11 @@ type: blog
   via https://www.linkedin.com/comm/feed/update/activity:7504981818698366976
 * On-Demand-Verkehre: :Wie der ÖPNV das Potenzial flexibler Mobilität verspielt
   https://background.tagesspiegel.de/verkehr-und-smart-mobility/briefing/wie-der-oepnv-das-potenzial-flexibler-mobilitaet-verspielt
+* VerkehrsInfo BW
+  https://verkehrsinfo-bw.de
+  via https://mastodon.social/@eliasp/117347967875097959
+* Kosten Tankrabatt vs Deutschlandticket
+  https://mastodon.social/@christianschwaegerl/117360812283970412
 
 ## Finanzen
 * EU-Rechnungsprüfer warnen: Trotz hoher Verteidigungsausgaben schlecht gerüstet
@@ -433,12 +512,17 @@ type: blog
   https://www.technologiestiftung-berlin.de/profil/blog/berlin-digital-handlungsfaehig-machen-warum-kultur-digitale-grundlagen-braucht
 * Kritische Infrastruktur: Bei der Web-Archivierung fehlt die Strategie
   https://netzpolitik.org/2026/kritische-infrastruktur-bei-der-web-archivierung-fehlt-die-strategie/
+* Global GLAM Wiki Call
+  https://meta.wikimedia.org/wiki/File:Global_GLAM_Wiki_call_23.webm
+  https://meta.wikimedia.org/wiki/Global_GLAM_calls
 
 ## Transparenz
 * 1 Jahr Informationsfreiheit in Österreich – Forum Informationsfreiheit verkündet traurigen Rückschritt in das Fax-Zeitalter
   https://www.informationsfreiheit.at/2026/09/01/1-jahr-informationsfreiheit-forum-informationsfreiheit-verkuendet-traurigen-rueckschritt-in-das-fax-zeitalter/
   * Ein Student zwingt die Uni Wien, Notenstatistiken herauszugeben
     https://istdaswichtig.at/ein-student-zwingt-die-uni-wien-notenstatistiken-herauszugeben/
+  * Amtsgeheimnis-Award "Mauer des Schweigens 2026" an Land Vorarlberg, Wiener Linien, Wirtschaftskammer Wien; Goldener Informationsfilter an Innenministerium
+    https://www.informationsfreiheit.at/2026/09/28/amtsgeheimnis-award-mauer-des-schweigens-2026-an-land-vorarlberg-wiener-linien-wirtschaftskammer-wien-goldener-informationsfilter-an-innenministerium/
 * Chemnitzer Polizei beschlagnahmt ZPS-Bus rechtswidrig
   https://www.mdr.de/nachrichten/deutschland/politik/protestbus-polizei-chemnitz-zentrum-politische-schoenheit,zps-mifri-100.html
 * Debanking: Der lange Schatten von Donald Trump
@@ -466,10 +550,30 @@ type: blog
 * Neue Ungereimtheiten bei Jens Spahns ohnehin schon fragwürdiger Teilnahme an geheimen Peter-Thiel-Netzwerktreffen
   https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101382028/jens-spahn-bei-thiel-treffen-wie-privat-waren-diese-dienstreisen-.html
   via https://bewegung.social/@lobbycontrol/117326493502422162
+  * Jens Spahn räumt Sitz im Haushaltsausschuss – endlich mal eine gute Nachricht
+    https://www.telepolis.de/article/Jens-Spahn-raeumt-Sitz-im-Haushaltsausschuss-endlich-mal-eine-gute-Nachricht-11468255.html
+  * Diskussion um Abwesenheit im Haushaltsausschuss: Könnte Jens Spahn Peter Thiel auf Sardinien getroffen haben?
+    https://www.tagesspiegel.de/politik/diskussion-um-abwesenheit-im-haushaltsausschuss-jens-spahn-und-peter-thiel-offenbar-gleichzeitig-auf-sardinien-16111067.html
 * Hackathon der Polizei: Mit neuen Ideen alte Fälle knacken
   https://www.diesachsen.de/justiz/hackathon-der-polizei-mit-neuen-ideen-alte-faelle-knacken-3184560
 * Wie steht es um die Informationsfreiheit in Deutschland?
   https://www.linkedin.com/posts/wie-steht-es-um-die-informationsfreiheit-share-7508160235547766784-fL4S/
+* Wie die CDU die Transparenz abschaffen will - Talk vom 19.09.2026 auf den Datenspuren 2026 (zusammen mit Jens Hänsch)
+  https://video.dresden.network/w/b9d3b210-82d0-4dd5-a4c3-eae3645e2dd0
+* Meta droht wegen Cambridge Analytica neue Milliardenstrafe
+  https://www.heise.de/news/Meta-droht-wegen-Cambridge-Analytica-neue-Milliardenstrafe-11467008.html
+* le loi c'est moi: Fortwährende Rechtsbrüche: Dobrindt vs. Rechtsstaat
+  https://fragdenstaat.de/artikel/exklusiv/2026/09/dobrindts-rechtsbruche/
+* Malta versus Lilith Wittmann: Gerichtsurteil stärkt Meinungs- und Pressefreiheit
+  https://netzpolitik.org/2026/malta-versus-lilith-wittmann-gerichtsurteil-staerkt-meinungs-und-pressefreiheit/
+* Brandenburger Informationsfreiheit: Innenminister will Zugang zu Informationen über Polizei einschränken (bzw. abschaffen)
+  https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-informationsfreiheit-ifg-recht-einschraenkung.html
+  * Informationsfreiheit in Brandenburg: Die Verhöhnung von Transparenz
+    https://netzpolitik.org/2026/informationsfreiheit-in-brandenburg-die-verhoehnung-von-transparenz/
+* Kann eine Demokratie ohne Informationsfreiheit funktionieren?
+  https://okfn.de/blog/2026/08/demokratie-braucht-kontrolle.-kontrolle-braucht-informationen./
+* Verfassungsschutz und Buchhandlungspreis: Dokumente wecken Zweifel an Weimers Darstellung
+  https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101453186/weimer-schloss-buchhandlungen-von-preis-aus-diese-saetze-reichten-schon.html
 
 ## Überwachung
 * Immer mehr Polizei überwacht Messenger wie WhatsApp
@@ -502,6 +606,15 @@ type: blog
 * SparrowMap
   https://sparrowmap.com/
   via https://social.coop/@notes/117326250622184376
+* Geleakte Dokumente: EU-Rat plant Massenüberwachung über Suchpläne
+  https://www.heise.de/news/Chatkontrolle-EU-Staaten-wollen-umfassende-Massenscans-per-Umweg-legalisieren-11468633.html
+* Chat Control: The EU’s CSAM scanner proposal
+  https://www.patrick-breyer.de/en/posts/chat-control/
+* Die geplante Legalisierung von Massenscans privater Chats ist gestern Abend im Trilog zur Chatkontrolle erst einmal gescheitert.
+  https://digitalcourage.social/@padeluun/117360565993659622
+* EU Kids Act Entwurf
+  https://logbuch-netzpolitik.de/lnp561-zeitmaschinen-muessen-dringend-reguliert-werden
+  https://23.social/@linuzifer/117359290554976403
 
 ## KIll-Switch
 * KI-Schreibassistenten im britischen Gesundheitssystem verwechseln Medikamente und Diagnosen
@@ -534,12 +647,30 @@ type: blog
   https://unsloth.ai/docs/de/desktop
 * KI-Modelle sollen autonom Geld verdienen: What could possibly go wrong?
   https://www.basicthinking.de/blog/2026/09/08/ki-agenten-geld-verdienen/
+* ailments
+  https://informationisbeautiful.net/visualizations/ai-induced-mental-disorders-ai-mental-health-glossary-burnout-addiction-mania/
+  via https://leipzig.town/@klara_tag/117350453292955271
+* KI ermöglicht Millionenbetrug bei italienischer Bank
+  https://www.heise.de/news/KI-ermoeglicht-Millionenbetrug-bei-italienischer-Bank-11468910.html
+* "Project Jupiter": Oracle stoppt Zahlungen für 18-Milliarden-Rechenzentrum und löst KI-Krise aus
+  https://www.businessinsider.de/wirtschaft/project-jupiter-oracle-stoppt-zahlungen-fuer-18-milliarden-rechenzentrum/
+  via https://bsky.app/profile/patrickbreitenbach.de/post/3mwjbkwngik2n
+* Übersetzer beklagen katastrophale Arbeitsbedingungen
+  https://www.mdr.de/nachrichten/app-aktuell/uebersetzer-klagen-100.html
 
 ## Recap
 * [MRMCD 2026](https://media.ccc.de/c/mrmcd26)
 * [Netzpolitischer Abend](https://media.ccc.de/c/dgna)
 * [Datenspuren](https://media.ccc.de/c/DS2026)
 * [Big Brother Awards](https://bigbrotherawards.de)
+* [Fediday 2026](https://fair.tube/c/fediday/videos)
+
+## Und sonst so?
+* The Fedle project, a Wordle game on the Fediverse
+  https://fedle.fedilab.app
+  https://toot.fedilab.app/@apps/117338930832604221
+* TUXDLE
+  https://tuxdle.com
 
 ## Termine
 * Tag der offenen Rechenzentren an: TdoRZ26 am 6. November 2026
@@ -563,6 +694,15 @@ type: blog
     https://www.circularweek.com/european-sustainability-congress-2026
 * KI & Data Science - Aktuelle Trends und Anwendungsfälle
   https://www.eventbrite.de/e/2-meet-learn-on-tour-tickets-1991184241668
+* One Health for Sustainable Cities – ERA-ENVHEALTH Open Conference 2026
+  https://www.umweltbundesamt.de/en/era-envhealth-open-conference-2026-start
+* OpenData Netzwerktreffen 4.11. 
+  https://www.bertelsmann-stiftung.de/de/unsere-projekte/daten-fuer-die-gesellschaft/projektnachrichten/open-data-unter-druck-das-22-netzwerktreffen-zeigt-starke-praxisbeispiele
+* 31 Day OSM Challenge
+  https://wiki.openstreetmap.org/wiki/31_Day_OSM_Challenge
+* Hack den Stadtrat: Mitmach-Tag zu offenen Ratsdaten und KI
+  https://bonn.jetzt/event/hack-den-stadtrat-mitmach-tag-zu-offenen-ratsdaten-und-ki
+  https://machdenstaat.de/blog/hack-den-stadtrat/
 
 ## Fristen
 * [40C3 CfP](https://cfp.cccv.de/40c3/)
