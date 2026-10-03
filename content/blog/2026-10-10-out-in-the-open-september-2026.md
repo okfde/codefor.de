@@ -12,46 +12,38 @@ type: blog
 ---
 
 ## Open Data
-* Handbuch "ABC der Offenheit" 
-  https://wikimedia.at/wp-content/static/abc_der_offenheit.pdf
-  via https://chaos.social/@samvie/117196442561133764
-* Was der Fall “Bayern gegen Drenger“ zeigt
-  https://blog.wikimedia.de/2026/09/03/wem-gehoeren-oeffentliche-geodaten/
-  https://www.youtube.com/watch?v=YWEkVkrm12Q
-* Der Entwurf zum Doppelhaushalt 2027/2028 ist nun auch inklusive der Rohdaten im Open Data-Portal der Stadt Leipzig verfügbar.
-  https://opendata.leipzig.de/dataset/doppelhaushalt-2027-2028-unterlagen-und-datensatze-auf-einen-blick
-  via https://norden.social/@datenschatz/117212602466966356
-* Open-Data-Experten: Offene Daten helfen Bürgern – und der Verwaltung selbst
-  https://www.heise.de/news/Open-Data-Experten-Offene-Daten-helfen-Buergern-und-der-Verwaltung-selbst-11458093.html
-* Österreich
-  * FirmenMonitor
-    https://www.data.gv.at/applications/7072df85-c42c-432f-a83b-9eca91e8ed71?locale=de
-  * Firmensicht - Firmenbuch-Suche Österreich
-    https://www.data.gv.at/applications/b7c5ace3-0fc9-48b7-bbd2-4488d9285d60?locale=de
-  * GewerbeCheck – Gewerbe in Österreich: Voraussetzungen, Marktdichte, offene API
-    https://www.data.gv.at/applications/7da29ccd-ad85-4a80-b488-4711002a13b4?locale=de
-  * somes – Plattform für politische Transparenz
-    https://www.data.gv.at/applications/dceb83b6-8eee-4bd8-8921-0efa63a125a2?locale=de
-  * fRAG Wien
-    https://www.data.gv.at/applications/67f9ae05-c676-4ef9-b226-b4014d7600bc?locale=de
-  * Pawtrify - Europaweite Gassikarte
-    https://www.data.gv.at/applications/74a3351b-1298-449f-821f-5f5298fbabdc?locale=de
-  * Stellenradar – Arbeitsmarkt nach Beruf und Region
-    https://www.data.gv.at/applications/1bdf414c-4b01-4d10-af53-e9ce7e7330af?locale=de
-* New Field Guide: "Connecting AI to Government Data"
-  https://blog.okfn.org/wp-content/uploads/2026/09/TTWW-AI.pdf
-  https://blog.okfn.org/2026/09/16/new-field-guide-connecting-ai-to-government-data/
-* Mit Daten die Demokratie stärken
-  https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2026/BB-TdD.html
-* Neues Lernmodul zur Datenqualität veröffentlicht
-  https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2026/BB-LM-DQ.html
-* Interviewreihe Open Data 2026: Open Data-Team des Robert-Koch-Instituts (RKI)
-  https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2026/BB-ITV-RKI.html
-* Einmal pflegen, überall nutzbar: der Bremer Data Hub
-  https://www.linkedin.com/posts/%F0%9D%97%98%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%BD%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%B2%F0%9D%97%BB-%C3%BC%F0%9D%97%AF%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B9-share-7507710159515795456-IoUC/
-* musicbrainz is very close to 3 million artists
-  https://musicbrainz.org/statistics
-  https://mastodon.indie.host/@stragu/117352737308282263
+### Öffentliche Daten
+Die Open-Data-Experten auf dem Diskussionspodium beim KGST-Forum in Leipzig [sind sich einig](https://www.heise.de/news/Open-Data-Experten-Offene-Daten-helfen-Buergern-und-der-Verwaltung-selbst-11458093.html): offene Daten helfen nicht nur Bürger:innen, sondern auch der Verwaltung selbst. Wenn sie sich nur zu ihrem Glück zwingen ließe, denn in ihrem Silodenken gefangen, geben sie selbst kaum Daten frei und wundern sich wiederum, dass sie von anderen Bereichen nicht wissen, welche Daten diese verwalten. Oder ärgern sich, dass sie bei Medienanfragen die Daten aus den einzeln Fachbereichen wieder zusammensuchen bzw. anfragen müssen. Dabei bliebe ihnen dieser Aufwand bei der richtigen Datenkultur erspart, da die Journalisten sich die Daten aus den Open-Data-Portalen selbstständig recherchieren könnten. Aber genau solche Portale, wie auch das zentrale Portal GovData, sind "leider völlig unterfinanziert".
+
+[Gedanklich weiter ist man in Bremen](https://www.linkedin.com/posts/%F0%9D%97%98%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%BD%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%B2%F0%9D%97%BB-%C3%BC%F0%9D%97%AF%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B9-share-7507710159515795456-IoUC/): dort sollen in einer zentralen Datenplattform touristische Informationen (z.B. Sehenswürdigkeiten, Veranstaltungen, Gastronomie, Touren) strukturiert und qualitätsgesichert zusammengeführt werden. Dazu wurden auch erste Daten in den DZT Knowledge Graph der Deutsche Zentrale für Tourismus e.V. übertragen, um dort Teil einer deutschlandweit vernetzten touristischen Datenstruktur zu werden. Die Daten sollen über die Zeit weiter angereichert werden. Zentral gepflegt (aktuell und konsistent gehalten), stehen sie dann vielfältigen Anwendungskontexten, wie Websites, Karten, Apps oder KI-Anwendungen offen zur Verfügung.
+
+Das finanzielle Elend offen beschaulustigen kann man in Leipzig: der Entwurf zum Doppelhaushalt 2027/2028 ist inklusive der Rohdaten im Open Data-Portal der Stadt Leipzig [zu finden](https://opendata.leipzig.de/dataset/doppelhaushalt-2027-2028-unterlagen-und-datensatze-auf-einen-blick).
+
+[Wie kann man](https://blog.okfn.org/2026/09/16/new-field-guide-connecting-ai-to-government-data/) öffentliche Daten mittels KI zugänglicher machen ohne dabei das Vertrauen in die Korrektheit zu verspielen? Die Frage versucht [der neue Leitfaden](https://blog.okfn.org/wp-content/uploads/2026/09/TTWW-AI.pdf) der Open Knowledge Foundation im Rahmen der The-Tech-We-Want-Reihe zu beantworten, und zum klaren Schluss, dass Chatbots auf keinen Fall Open-Data-Portale ersetzen sollten. Die Auswertung der Anfragen, die über solche Bots gestellt werden, kann aber dazu genutzt werden, die Dokumentation der Datensätze zu verbessern. Wichtig ist auch, bei den Chat-Ausgaben immer die Quellen zu verlinken. 
+
+### Kompetenzzentrum Open Data (CCOD)
+Den Tag der Demokratie (15. September) hat das Kompetenzzentrum Open Data zum Anlass genommen, [aufzuzeigen](https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2026/BB-TdD.html), wie nicht nur das Veröffentlichen sondern auch konkrete Anwenden von offenen Daten, die Demokratie fördern. Sich eine eigene Meinung zu bilden und staatliches Handeln kritisch zu hinterfragen geht eben nur, wenn Informationen zu politischen und administrativen Entscheidungen, ganz im Sinne von Open Government, tranparent vorliegen. Man sollte den Innenminister mal fragen, warum auf der Webseite seines Ministeriums die Sektion "Open Government" [entfernt wurde](https://bsky.app/profile/arnesemsrott.bsky.social/post/3mwsdpwsqcc2v). Vielleicht hat er es nicht so mit Demokratie (le people, c'est moi)?
+
+Das Open Data-Team des Robert-Koch-Instituts (RKI) [beschreiben im Interview](https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2026/BB-ITV-RKI.html), wie sowohl die Stelle eines fachlichen Datenverantwortlichen als auch die Standardisierung und Automatisierung von Aufgaben dabei helfen, qualitätsgesicherte offene Daten zu produzieren. Diese werden dabei nicht als isoliertes Veröffentlichungsprodukt betrachtet, sondern sind in die die reguläre Dateninfrastruktur des Instituts eingebunden, wo sie in öffentliche Dashboards und interaktiven Berichten ebenfalls intern einen unmittelbaren Nutzen schaffen. Nur wenn man Open Data als selbstverständlichen Bestandteil von Verwaltungsprozessen begreift und  diesen gezielt mit dem Invest in Open Source Werkzeuge, die die Datenveröffentlichung einfach und alltagstauglich machen, fördert, nur dann hat Open Data eine Chance aus der Rolle der "freiwilligen" Zusatzaufgabe herauszukommen, und stattdessen proaktiv und ohne vorherige Anfrage veröffentlicht zu werden.
+
+Der [Lernpfad Open Data](https://kolep.bva.bund.de/ilias.php?baseClass=ilsahspresentationgui&cmdNode=xi:xu&cmdClass=ilSCORMPresentationGUI&ref_id=394192) wurde um ein neues Lernmodul zur Datenqualität [erweitert](https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2026/BB-ITV-RKI.html). Entwickelt wurde es vom Kompetenzzentrum Open Data zusammen mit dem Team von GovData der FITKO. 
+
+### Österreich
+Das Handbuch ["ABC der Offenheit"](https://wikimedia.at/wp-content/static/abc_der_offenheit.pdf) wurde von der Wikimedia Österreich [neu verfasst und gestaltet](https://chaos.social/@samvie/117196442561133764). Neben Themen wie Open Knowledge, Open Data, Open Government, Open Educational Resources, Open GLAM, Open Source Software, Open Science,Open Innovation, Open Design & Hardware und Open Communication werden auch aktuelle Entwicklungen wie Open Algorithms & AI aufgegriffen.
+
+Auf data.gv.at sind im September zahlreiche Beispiele für Open-Data-Anwendungen verlinkt worden. So bietet [GewerbeCheck](https://www.data.gv.at/applications/7da29ccd-ad85-4a80-b488-4711002a13b4?locale=de) eine offene API, um für jedes der 75 reglementierten Gewerbe Österreichs abrufen zu können, welche Gewerbeberechtigungen (Befähigungsnachweis, Anmeldung, zuständige Behörde, Unterlagen) nach Gewerbeordnung gefordert werden. Außerdem werden monatlich aktualisierte Statistiken zu Marktdichte je Sparte, Bundesland und Wiener Bezirk, Betriebe im Verhältnis zur Bevölkerung, Trends und Bewegungen bereit gestellt. 
+
+Auf [Firmensicht](https://www.data.gv.at/applications/b7c5ace3-0fc9-48b7-bbd2-4488d9285d60?locale=de) kann man Firmen nach entweder nach Name, Buchnummer, Branche, Ort oder Bundesland suchen, oder auf einer Karte mit Umkreissuche. Die Suchtreffer geben dann Auskunft über Geschäftsführer, Gesellschafter und Beteiligungen, Bilanzen und Jahresabschlüsse mit Mehrjahres-Kennzahlen, Firmenhistorie sowie ein Beteiligungsnetzwerk.
+
+Mit [FirmenMonitor](https://www.data.gv.at/applications/7072df85-c42c-432f-a83b-9eca91e8ed71?locale=de) lässt sich die Bonität österreichischer Unternehmen auf Basis offizieller Daten automatisiert einschätzen.
+
+Wie viele offene Stellen es in einem Beruf und einer Region gibt, zeigt monatlich aktualisiert der [Stellenradar](https://www.data.gv.at/applications/1bdf414c-4b01-4d10-af53-e9ce7e7330af?locale=de). Außerdem enthalten sind Angaben zu offenen Lehrstellen und Lehrstellensuchende je Bezirk, sowie die Information, wie viele Arbeitslose auf eine offene Stelle kommen. Die Entwicklung all dieser Daten kann über die letzen fünf Jahren nachvollzogen werden.
+
+Parlamentarische und regierungsspezifische Aktivitäten, Prozesse und Informationen im Nationalrat als auch im Europäische Parlament können in der Plattform für politische Transparenz, [somes](https://www.data.gv.at/applications/dceb83b6-8eee-4bd8-8921-0efa63a125a2?locale=de), nachvollzogen werden.
+  
+Historische Orte, Personen und Ereignisse lassen sich auf der Karte von [fRAG Wien](https://www.data.gv.at/applications/67f9ae05-c676-4ef9-b226-b4014d7600bc?locale=de) und in einem Wissensnetz über KI-Anfragen entdecken. 
+
+Verortete Hundewiesen, Kotbeutelspendern, Badestellen und einem Giftköder-Radar bietet [Pawtrify](https://www.data.gv.at/applications/74a3351b-1298-449f-821f-5f5298fbabdc?locale=de) als kostenlose Gassikarte für Hundehalter in ganz Europa.
 
 ## Open Access
 * 140 Millionen Seiten Wissensgeschichte online zugänglich: Vier Schweizer Bibliotheken lancieren die Plattform "Books as Data"
@@ -61,6 +53,9 @@ type: blog
   https://openbiblio.social/@georgfischer/117348042615002209
 
 ## Statistik
+* musicbrainz is very close to 3 million artists
+  https://musicbrainz.org/statistics
+  https://mastodon.indie.host/@stragu/117352737308282263
 * Mietenreport 2026
   https://taz.de/Mietenreport/!6209069/
   https://mieterbund.de/app/uploads/2026/08/Mietenreport-2026.pdf
@@ -486,6 +481,10 @@ type: blog
   https://www.sueddeutsche.de/wirtschaft/schufa-datenspeicherung-gericht-noyb-datenschutz-li.3545323
 * Zum ersten Mal seit 1945 haben Bundesverfassungsgericht, Bundesrechnungshof und Bundesrat ihre Etats gegenüber dem Bundesfinanzministerium streitig gestellt, weil notwendige Mittel zur Aufgabenerfüllung nicht zur Verfügung gestellt werden.
   https://bsky.app/profile/paulapiechotta.de/post/3mw6xyq5dko2q
+* Deutschlands Rekordschulden: Warum die Zahl wenig aussagt
+  https://www.zdfheute.de/wirtschaft/deutschland-schulden-staatsverschuldung-steigerung-100.html
+  * Wer hält Deutschlands Staatsschulden? Zentralbanken, Banken und internationale Investoren
+    https://www.eudebtmap.com/de/articles/wer-haelt-deutsche-staatsschulden-2026
 
 ## Bildung
 * PISA-Studie: Deutsche Schüler schneiden so schlecht ab wie nie zuvor
@@ -590,6 +589,11 @@ type: blog
   * Das ist eine Schuldumkehr - eine Meldepflicht mit Altersverifikation kann keine Lösung sein kann. Die Plattformen sind in der Pflicht.
     https://www.l-iz.de/top-posts/2026/09/kinder-schuetzen-snapchat-stoppen-somi-klagt-gegen-social-media-plattform-video-670880
     via https://social.anoxinon.de/@lz/117286928023014102
+  * EU Kids Act Entwurf
+    https://logbuch-netzpolitik.de/lnp561-zeitmaschinen-muessen-dringend-reguliert-werden
+    via https://23.social/@linuzifer/117359290554976403
+  * EU Kids Act: Die Meinung der Jugendlichen des Jugendbeirats zu den Gesetzesvorschlägen für Jugendliche
+    https://okfn.de/blog/2026/09/eu-kids-act-die-meinung-der-jugendlichen-des-jugendbeirats-zu-den-gesetzesvorschl%C3%A4gen-f%C3%BCr-jugendliche/
 * Digitaler Omnibus: Neues Bündnis will das Ende der Cookie-Banner einläuten
   https://netzpolitik.org/2026/digitaler-omnibus-neues-buendnis-will-das-ende-der-cookie-banner-einlaeuten/
 * "Die Wahrscheinlichkeit, dass Massenüberwachung zu meiner Sicherheit beiträgt, ist ja viel, viel kleiner als die Wahrscheinlichkeit, dass sie mich auf die eine oder andere Weise zum Opfer macht."
@@ -612,9 +616,6 @@ type: blog
   https://www.patrick-breyer.de/en/posts/chat-control/
 * Die geplante Legalisierung von Massenscans privater Chats ist gestern Abend im Trilog zur Chatkontrolle erst einmal gescheitert.
   https://digitalcourage.social/@padeluun/117360565993659622
-* EU Kids Act Entwurf
-  https://logbuch-netzpolitik.de/lnp561-zeitmaschinen-muessen-dringend-reguliert-werden
-  https://23.social/@linuzifer/117359290554976403
 
 ## KIll-Switch
 * KI-Schreibassistenten im britischen Gesundheitssystem verwechseln Medikamente und Diagnosen
