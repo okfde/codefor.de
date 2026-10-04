@@ -13,7 +13,7 @@ type: blog
 
 ## Open Data
 ### Öffentliche Daten
-Die Open-Data-Experten auf dem Diskussionspodium beim KGST-Forum in Leipzig [sind sich einig](https://www.heise.de/news/Open-Data-Experten-Offene-Daten-helfen-Buergern-und-der-Verwaltung-selbst-11458093.html): offene Daten helfen nicht nur Bürger:innen, sondern auch der Verwaltung selbst. Wenn sie sich nur zu ihrem Glück zwingen ließe, denn in ihrem Silodenken gefangen, geben sie selbst kaum Daten frei und wundern sich wiederum, dass sie von anderen Bereichen nicht wissen, welche Daten diese verwalten. Oder ärgern sich, dass sie bei Medienanfragen die Daten aus den einzeln Fachbereichen wieder zusammensuchen bzw. anfragen müssen. Dabei bliebe ihnen dieser Aufwand bei der richtigen Datenkultur erspart, da die Journalisten sich die Daten aus den Open-Data-Portalen selbstständig recherchieren könnten. Aber genau solche Portale, wie auch das zentrale Portal GovData, sind "leider völlig unterfinanziert".
+Die Open-Data-Experten auf dem Diskussionspodium beim KGSt-(Kommunale Gemeinschaftsstelle für Verwaltungsmanagement)-Forum in Leipzig [sind sich einig](https://www.heise.de/news/Open-Data-Experten-Offene-Daten-helfen-Buergern-und-der-Verwaltung-selbst-11458093.html): offene Daten helfen nicht nur Bürger:innen, sondern auch der Verwaltung selbst. Wenn sie sich nur zu ihrem Glück zwingen ließe, denn in ihrem Silodenken gefangen, geben sie selbst kaum Daten frei und wundern sich wiederum, dass sie von anderen Bereichen nicht wissen, welche Daten diese verwalten. Oder ärgern sich, dass sie bei Medienanfragen die Daten aus den einzeln Fachbereichen wieder zusammensuchen bzw. anfragen müssen. Dabei bliebe ihnen dieser Aufwand bei der richtigen Datenkultur erspart, da die Journalisten sich die Daten aus den Open-Data-Portalen selbstständig recherchieren könnten. Aber genau solche Portale, wie auch das zentrale Portal GovData, sind "leider völlig unterfinanziert".
 
 [Gedanklich weiter ist man in Bremen](https://www.linkedin.com/posts/%F0%9D%97%98%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%BD%F0%9D%97%B3%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%B2%F0%9D%97%BB-%C3%BC%F0%9D%97%AF%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B9-share-7507710159515795456-IoUC/): dort sollen in einer zentralen Datenplattform touristische Informationen (z.B. Sehenswürdigkeiten, Veranstaltungen, Gastronomie, Touren) strukturiert und qualitätsgesichert zusammengeführt werden. Dazu wurden auch erste Daten in den DZT Knowledge Graph der Deutsche Zentrale für Tourismus e.V. übertragen, um dort Teil einer deutschlandweit vernetzten touristischen Datenstruktur zu werden. Die Daten sollen über die Zeit weiter angereichert werden. Zentral gepflegt (aktuell und konsistent gehalten), stehen sie dann vielfältigen Anwendungskontexten, wie Websites, Karten, Apps oder KI-Anwendungen offen zur Verfügung.
 
@@ -46,24 +46,16 @@ Historische Orte, Personen und Ereignisse lassen sich auf der Karte von [fRAG Wi
 Verortete Hundewiesen, Kotbeutelspendern, Badestellen und einem Giftköder-Radar bietet [Pawtrify](https://www.data.gv.at/applications/74a3351b-1298-449f-821f-5f5298fbabdc?locale=de) als kostenlose Gassikarte für Hundehalter in ganz Europa.
 
 ## Open Access
-* 140 Millionen Seiten Wissensgeschichte online zugänglich: Vier Schweizer Bibliotheken lancieren die Plattform "Books as Data"
-  https://ub-easyweb.ub.unibas.ch/en/news/details/plattform-books-as-data/
-* Open-Access-Tage Linz
-  https://open-access-tage.de/open-access-tage-2026-linz/programm-1
-  https://openbiblio.social/@georgfischer/117348042615002209
+Die von vier Schweizer Bibliotheken lancierte Plattform ["Books as Data"](https://books-as-data.ch) macht wissenschaftliche Literatur, aber auch Zeitschriften und Belletristik aus der Schweiz, Europa und der ganzen Welt aus der Zeit von 1700 bis 1900, insgesamt 140 Millionen Seiten Wissensgeschichte, im Volltext [online zugänglich und durchsuchbar](https://ub-easyweb.ub.unibas.ch/en/news/details/plattform-books-as-data/).
+
+In [seinem Fazit](https://openbiblio.social/@georgfischer/117348042615002209) zu den [Open-Access-Tagen](https://open-access-tage.de/open-access-tage-2026-linz/programm-1) in Linz, sieht Georg Fischer vor allem die langfristige Überwindung von Wissenssilos durch mehr Kooperationen als notwendigen Schritt, um das derzeitig vor allem kapitalistisch geprägte Wissenschaftssystem (und den damit verbundenen Ungerechtigkeiten) in Richtung einer emanzipatorischen Wissenschaft weiterzuentwickeln. 
 
 ## Statistik
-* musicbrainz is very close to 3 million artists
-  https://musicbrainz.org/statistics
-  https://mastodon.indie.host/@stragu/117352737308282263
-* Mietenreport 2026
-  https://taz.de/Mietenreport/!6209069/
-  https://mieterbund.de/app/uploads/2026/08/Mietenreport-2026.pdf
-  * WOHNEN & DATEN
-    https://www.mietup.org
-* Übersicht zu Engpässen bei Berufen
-  https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Interaktive-Statistiken/Fachkraeftebedarf/Engpassanalyse-Nav.html
-  via https://sueden.social/@ghooffacker/117200725818539959
+[MusicBrainz](https://musicbrainz.org) ist eine offene Musik-Enzyklopädie, die Musikmetadaten sammelt und sie der Öffentlichkeit zur Verfügung stellt. Inzwischen umfasst sie [3 Millionen Künstler:innen](https://musicbrainz.org/statistics). Plugins [machen es einfach](https://mastodon.indie.host/@stragu/117352737308282263), Datensätze aus anderen Plattformen zu importieren.
+
+Für seinen aktuellen [Mietenreport](https://mieterbund.de/app/uploads/2026/08/Mietenreport-2026.pdf) hat der Mieterbund  amtliche Statistiken und aktuelle wissenschaftliche Studien [ausgewertet](https://taz.de/Mietenreport/!6209069/) und über 1.000 Mieterinnen und Mieter befragt. Die Auswertung ergab, dass bei 58 Prozent der Mie­te­r:in­nen im vergangenen Jahr die Mieten weiter erhöht wurde. Um die Mieten weiter bezahlen zu können, sparen die Betroffenen nun bei Altersvorsorge, bei gesunden Lebensmitteln und gar bei Medikamenten, im Bewusstsein, dass im Falle von Arbeitslosigkeit, Krankheit oder Trennung sie die Wohnung dennoch ganz schnell verlieren würden. Der Mieterbund fordert daher einen bundesweiten Mietenstopp. Denn sonst wird die Wohnungskrise zur Sozialstaatskrise, auch weil das eigentlich im Grundgesetz verankerte Recht auf [gleichwertige Lebensverhältnisse](https://de.wikipedia.org/wiki/Gleichwertige_Lebensverh%C3%A4ltnisse) durch Staat und Markt nur unzureichend eingelöst wird. Günstige Mieten gibt es daher nur noch in Regionen, die verkehrstechnisch schlecht angebunden sind und die eher hohe Arbeitslosenquoten (auf Grund fehlender Wirtschaftsansiedelung vor Ort) vorweisen. Entsprechend konzentiert sich alles auf die wenigen Großstädte, wo es Jobs und kulturelles Angebot gibt, leider aber zu wenige bezahlbare Wohnungen, sehr zu Freude aber der Knappheit-verwaltenden Einzelvermieter und Wohnungskonzerne. Ein Problem nicht nur in Deutschland sondern z.B. auch im spanischen Madrid, [wo sich nun aber](https://www.tagesschau.de/video/video-1657474.html) eine "#MietToo"-Kampagne gegen Mietwucher formiert.
+
+[In seiner Engpassanalyse](https://statistik.arbeitsagentur.de/DE/Navigation/Statistiken/Interaktive-Statistiken/Fachkraeftebedarf/Engpassanalyse-Nav.html) bewertet die Bundesagentur für Arbeit an Hand von 6 statistischen Indikatoren einmal jährlich die Fachkräftesituation je Berufsgruppe und Bundesland am Arbeitsmarkt. Wie viele Arbeitssuchende kommen auf wie viele offene Stellen, wie lange sind Stellen offen und wie haben sich die mittleren Entgelte entwickelt sind Kriterien, aus denen eine Gesamtpunktzahl [berechnet wird](https://sueden.social/@ghooffacker/117200725818539959). Liegt die Punktzahl über 2,0, handelt es sich um einen Engpassberuf. 
 
 ## Auswertung Wahlergebnisse
 ### Sachsen-Anhalt
