@@ -59,49 +59,28 @@ Für seinen aktuellen [Mietenreport](https://mieterbund.de/app/uploads/2026/08/M
 
 ## Auswertung Wahlergebnisse
 ### Sachsen-Anhalt
-* Nachfolgend ein paar Auswertungen des Zensus 2022 auf Ebene von 100m-Gitterzellen, um die innerstädtische Variabilität des Wahlergebnisses der #ltwst in Halle (Saale) zu beleuchten.
-  https://www.tagesschau.de/inland/innenpolitik/wahlkreisergebnisse-landtagswahl-sachsen-anhalt-2026-100.html
-  https://norden.social/@wahlatlas/117228917784653352
-* taz Wahldashboard
-  https://taz.de/Schwerpunkt-Landtagswahl-in-Sachsen-Anhalt/!t5749746/
-* Die Wählergruppe, über die niemand spricht: Warum die AfD wirklich stark wurde
-  https://volksverpetzer.de/analyse/warum-afd-wirklich-stark/
-* welche #AfD-Abgeordneten in den neuen Landtag von #SachsenAnhalt einziehen werden, abseits der Bekannteren
-  https://bsky.app/profile/dietrichjakob.bsky.social/post/3muwutdmjec24
-  * Diese fragwürdigen AfD-Abgeordneten kommen in den Landtag
-    https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-wer-fuer-die-afd-in-den-landtag-einzieht-201202059.html
-* Der Ernstfall ist jetzt
-  https://www.zeit.de/politik/2026-09/kommentar-afd-wahlsieg-sachsen-anhalt-nachrichtenpodcast
-* Safeguarding in Sachsen-Anhalt – Sicherung öffentlicher Daten vor dem Regierungswechsel
-  https://safeguar.de/src_sachsen-anhalt/
-  via https://fedihum.org/@SafeguardingResearch/117349427192911869
-* Was die AfD im Landtag plant
-  https://bsky.app/profile/arnesemsrott.bsky.social/post/3mwqdnzacdc2k
+Das [taz Wahldashboard](https://taz.de/Schwerpunkt-Landtagswahl-in-Sachsen-Anhalt/!t5749746/) stellt die Veränderungen bei Stimmanteilen und Sitzverteilung zur letzten Landtagswahl in Sachsen-Anhalt gegenüber, aber auch die Wählerwänderung, die verdeutlicht, dass die AfD vor allem Nichtwähler mobilisieren, aber auch ehemalige CDU-Wählende für sich vereinnahmen konnte. Diese Erkenntnis [greift auch der Volksverpetzer auf](https://volksverpetzer.de/analyse/warum-afd-wirklich-stark/) und fordert von den demokratischen Parteien, unentschlossene Wähler und Nichtwähler aktiv mit eigenen, demokratischen Ideen zu überzeugen, statt zu versuchen, andere demokratische Mitbewerber schlecht zu machen oder gar rassistische Forderungen hinterher zu laufen, und so seine Stammwählschaft zu verkraulen und ans Nichtwählerlager zu verlieren.
 
-### Berlin
-* Berlin: Die Hochburgen und Jammertäler der Parteien
-  https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/analyse-hochburgen-parteien-s-bahn-ring-linke-cdu-afd-gruene-spd-bsw.html
-* 5 Perspektiven auf die Wahl in Berlin, die Mut machen
-  https://perspective-daily.de/article/5297-5-perspektiven-auf-die-wahl-in-berlin-die-mut-machen/probiere
-  via https://social.perspective-daily.de/@PerspectiveDaily/117320913463812671
-* Die Linke hat in Berlin mehr Nicht-Wähler*innen mobilisiert als die AfD.
-  https://bsky.app/profile/teresabuecker.bsky.social/post/3mvxves3n722v
+Tagesschau.de zeigt in seiner [interaktiven Karte](https://www.tagesschau.de/inland/innenpolitik/wahlkreisergebnisse-landtagswahl-sachsen-anhalt-2026-100.html), wahlweise aufgeschlüsselt nach Landkreis, Gemeinde oder Wahlkreis, wo welche Partei bei den Erst- oder Zweitstimmen vorne lag. Bis auf die wenigen Ausnahmen in Teilen von Magdeburg und Halle leider eine sehr einseitige Angelegenheit. Wie groß die Zustimmung und der Vorsprung der AfD meist war, sieht man besser in der tabellarischen Darstellung, Werte von über 40, teilweise sogar über 50 Prozent. Wahlatlas zeigt [beispielhaft für Halle](https://wahlatlas.net/experimente/zensus2022/gemeinden/150020000000.html) die innerstädtische Variabilität des Wahlergebnisses [an Hand der Daten](https://norden.social/@wahlatlas/117228917784653352) aus dem Zensus 2022 auf Ebene von 100m-Gitterzellen auf. Gewisse Korrelationen ergeben sich bei Altersstruktur, Mietpreisen, Eigentümerquote und Wohnungsgröße.
+
+Mit dem Wahlergebnis steht zum ersten Mal nach dem Untergang des Dritten Reiches eine rechtsextreme Partei kurz davor, den Ministerpräsidenten einem Bundesland zu stellen. Auch wenn es nicht zur absoluten Mehrheit gereicht hat, zeichnet durch das Verhalten von BSW oder einzelner CDU-Abgeordneter bereits ab, dass es spätestens im dritten Wahlgang soweit sein könnte. [Der Prozess der Enthemmung](https://www.zeit.de/politik/2026-09/kommentar-afd-wahlsieg-sachsen-anhalt-nachrichtenpodcast) ist im vollem Gange, man schämt sich nicht mehr, diese Partei gewählt zu haben. [Schon jetzt](https://bsky.app/profile/arnesemsrott.bsky.social/post/3mwqdnzacdc2k) nutzt die AfD die neuen Mehrheiten dazu, die anderen Parteien zu demütigen und die Voraussetzungen für spätere Blockaden und Durchregierenkönnen zu schaffen.
+
+Mit Blick auf die AfD-Abgeordneten, die in den neuen Landtag von SachsenAnhalt einziehen, [die hier im Thread dokumentiert werden](https://bsky.app/profile/dietrichjakob.bsky.social/post/3muwutdmjec24), weil der [FAZ-Artikel](https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/wahl-sachsen-anhalt-2026-wer-fuer-die-afd-in-den-landtag-einzieht-201202059.html) hinter der Bezahlschranke liegt und zudem erst nach der Wahl erschien, lässt sich nichts Gutes erahnen. Die Informationen hätte die Wählende vor der Wahl wahrscheinlich auch nicht von ihrer Entscheidung abgebracht, Hauptsache gegen das Establishment, und wenn man dazu die Welt anzünden muss.
+
+Viele Parallelen zur Regierungsübernahme von Trump in den USA, analog hat sich die Initiative [Safeguarding in Sachsen-Anhalt](https://safeguar.de/src_sachsen-anhalt/) gegründet, die öffentlicher Daten vor dem Regierungswechsel [noch sichern möchte](https://fedihum.org/@SafeguardingResearch/117349427192911869), bevor sie potenziell später von den neuen Verantwortlichen gelöscht werden.
 
 ### Mecklenburg-Vorpommern
-* Die bisherigen CDU-Wäh­le­r:in­nen hat es förmlich zerrissen: Sie wanderten in großen Scharen entweder zur rechtsextremen AfD oder in die demokratische Mitte zur SPD.
-  https://bsky.app/profile/demokradtour.bsky.social/post/3mvzdy62ssk2x
-* Die AfD holt in MV 22 der 36 Direktmandate
-  https://bsky.app/profile/litschko.bsky.social/post/3mvybv2unlc2z
-* Doch Fläche wählt nicht – Menschen tun es!
-  https://bsky.app/profile/campact.de/post/3mvzk5a2r7l2a
+Generell ist der Trend zur immer stärkenden [Personalisierung](https://de.wikipedia.org/wiki/Personalisierung_(Politik)) in den Wahlkämpfen auszumachen. Mit dem Charisma einer Kalkwand gewinnt man keine Wahlen mehr. Auch wenn es eigentliche um Inhalte gehen sollte, befördert eben auch Social Media Überemotionalisierung. Was dem AfD-Kandidaten in Sachsen-Anhalt noch geholfen hat, konnte die selbsternannte "Frau gegen Blau", Amtsinhaberin Manuela Schwesig, durch einen engagierten Wahlkampf, bei dem nicht so sehr betont wurde, dass sie eigentlich einer der aktuellen Bundesregierungsparteien angehört, noch die entscheidenden Prozentpunkte gut machen, die nun zur Regierungsbildung zwischen SPD, Linken und Grünen reichen. Dafür ist die CDU mit 4,9 Prozent erstmal seit Gründung des Bundesregierung aus einem Landesparlament geflogen. Die Analyse der Wählerwanderung zeigt, wie es die bisherigen CDU-Wäh­le­r:in­nen [förmlich zerrissen hat](https://bsky.app/profile/demokradtour.bsky.social/post/3mvzdy62ssk2x) zwischen AfD und SPD. Bedeutet damit aber auch, dass die AfD nun die einzige Oppositionspartei im Landtag von Mecklenburg-Vorpommern ist, keine günstige Entwicklung für eine Demokratie. Trotz schwachen Kandidaten kam die AfD [auf 35 Prozent der Stimmen](https://taz.de/Landtagswahl-in-Mecklenburg-Vorpommern/!6192063/), 3 Prozent mehr als die SPD, [sowie 22 von 36 gewonnenen Direktmandaten](https://bsky.app/profile/litschko.bsky.social/post/3mvybv2unlc2z) (da tröste auch nicht Erkenntnis, dass [Fläche nicht wählt](https://bsky.app/profile/campact.de/post/3mvzk5a2r7l2a)), auch hier ziehen nun zwielichtige Gestalten in den Landtag.
+
+### Berlin
+In Berlin hat die Linke mit 25,7 % der Zweitstimmen [die Abgeordnetenhauswahl gewonnen](https://www.wahlen-berlin.de/wahlen/BE2026/Afspraes/AGH/index.html) und könnte zusammen mit Grünen und SPD eine Regierung bilden. Eine Kenia-Koalition aus CDU, SPD und Grünen wäre rein rechnerisch allerdings auch möglich. Nicht nur die Linke hat ihren Stimmanteil seit der letzten Wahl verdoppeln, sondern leider auch die AfD, auch wenn sie damit jetzt "nur" auf 16 Prozent kommt. [Aus den Karten des RBB](https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/analyse-hochburgen-parteien-s-bahn-ring-linke-cdu-afd-gruene-spd-bsw.html) wird ersichtlich, dass sie vor allem in den Randbezirken und dort vor allem in Marzahn-Hellersdorf dazu gewinnen konnte. Auch in Berlin haben die bisherigen Nichtwählenden [eine wichtige Rolle gespielt](https://bsky.app/profile/teresabuecker.bsky.social/post/3mvxves3n722v). [Bestimmen Sachthemen](https://perspective-daily.de/article/5297-5-perspektiven-auf-die-wahl-in-berlin-die-mut-machen/probiere), die viele Menschen bestreffen, wie eben das Thema bezahlbares Wohnen, den Wahlkampf, haben Populisten weniger Chancen, ihre diffusen Ängste zu steuen.
 
 ### Übergreifend
-* Blaue Welle? Interaktive Grafik zeigt AfD-Siegeszug in deutschen Landesparlamenten
-  https://www.morgenpost.de/interaktiv/article413081625/blaue-welle-afd-sitze-in-deutschen-landesparlamenten-von-2013-bis-heute.html
-* Kommunalwahlen Niedersachsen: Liebes Westdeutschland, wir haben ein Problem. Die Rechtsextremen haben sich hier mehr als verdoppelt.
-  https://bsky.app/profile/danielkubiak.bsky.social/post/3mvgj36or2s2l
-* Landtagswahlen: Das echte Wahlergebnis
-  https://fragdenstaat.de/artikel/exklusiv/2026/09/das-echte-wahlergebnis/
+Die [interaktive Grafik](https://www.morgenpost.de/interaktiv/article413081625/blaue-welle-afd-sitze-in-deutschen-landesparlamenten-von-2013-bis-heute.html) der Berliner Morgenpost zeigt die Entwicklung der von der AfD besetzen Sitze in den deutschen Landesparlamente im Zeitverlauf seit 2013, dem Gründungsjahr der Partei, bis heute. Bei den Landtagswahlen in Baden-Württemberg und Rheinland-Pfalz konnte die AfD eben auch in den alten Bundesländern ihre Stimmenanteile verdoppeln, und liegt nun in beiden Ländern um die 19 Prozent. 
+
+Und bei den [Kommunalwahlen in Niedersachsen](https://bsky.app/profile/danielkubiak.bsky.social/post/3mvgj36or2s2l) am 13.9. konnte sie ihr Ergebnis sogar verdeifachen (von 4,6 % 2021 auf nun 16,5 %).
+
+FragDenStaat [erinnert an die Menschengruppen](https://fragdenstaat.de/artikel/exklusiv/2026/09/das-echte-wahlergebnis/), deren Stimmen bei den Landtagswahlen nicht in das Ergebnis eingeflossen sind, sei es freiwillig (Nichtwählende) oder unfreiwillig (Partei gewählt, die an der 5%-Hürde gescheitert ist, oder eben nicht wahlberechtigt, weil zu jung oder keinen deutschen Pass). Möglichkeiten zur Wahrechtsreform, wie Wahlrecht für alle dauerhaft Aufenthaltsberechtigten, Senkung des Wahlalters auf 14 oder 16 Jahre, Absenkungen bzw. gar Abschaffung der 5%-Hürde oder alternativ einem [Präferenz-Wahlrecht](https://de.wikipedia.org/wiki/Pr%C3%A4ferenzwahl), gäbe es.
 
 ## Journalismus
 * Petition bündelt Forderungen an die Bundesregierung für Pressefreiheit und Medienvielfalt
