@@ -82,40 +82,21 @@ Und bei den [Kommunalwahlen in Niedersachsen](https://bsky.app/profile/danielkub
 
 FragDenStaat [erinnert an die Menschengruppen](https://fragdenstaat.de/artikel/exklusiv/2026/09/das-echte-wahlergebnis/), deren Stimmen bei den Landtagswahlen nicht in das Ergebnis eingeflossen sind, sei es freiwillig (Nichtwählende) oder unfreiwillig (Partei gewählt, die an der 5%-Hürde gescheitert ist, oder eben nicht wahlberechtigt, weil zu jung oder keinen deutschen Pass). Möglichkeiten zur Wahrechtsreform, wie Wahlrecht für alle dauerhaft Aufenthaltsberechtigten, Senkung des Wahlalters auf 14 oder 16 Jahre, Absenkungen bzw. gar Abschaffung der 5%-Hürde oder alternativ einem [Präferenz-Wahlrecht](https://de.wikipedia.org/wiki/Pr%C3%A4ferenzwahl), gäbe es.
 
-## Journalismus
-* Petition bündelt Forderungen an die Bundesregierung für Pressefreiheit und Medienvielfalt
-  https://correctiv.org/in-eigener-sache/2026/09/01/petition-bundesregierung-pressefreiheit/
-* Deutschlandfunk: Der Mut zur Kultur schwindet
-  https://www.telepolis.de/article/Deutschlandfunk-Der-Mut-zur-Kultur-schwindet-11455144.html
-  * Mutig gegen die Programmreform!
-    https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/die-programmreform-des-deutschlandfunks-muss-gestoppt-werden-accg-201178956.html
-* Markus Lanz, die AfD und der lässige Wiederaufbau unser Demokratie
-  https://dirklaabs.substack.com/p/1b0a525a-76b6-4b44-ae28-eca67f21a692
-  * Markus Lanz erhält den deutschen Fernsehpreis in der Kategorie "Beste Information"
-    https://bsky.app/profile/krankenpflegel.de/post/3mvde7hugz227
-* Bei der Stiftung Familienunternehmer schlägt Merz laut NDR-Beitrag Überreichen vor, sich gegen die Reichenkritik in Talkshows zu begeben
-  https://bsky.app/profile/marcraschke.bsky.social/post/3mueqyyel4s2r
-  https://www.youtube.com/shorts/f97KkQ9JSkY
-* How people want public service media to help build a better future
-  https://www.bbc.co.uk/rd/articles/2026-09-future-public-service-media-technology
-  via https://bsky.app/profile/dennishorn.de/post/3murouumluc27
-* Teufelskreis
-  https://www.fes.de/themen/demokratie/teufelskreis
-  via https://bsky.app/profile/tabouchadi.bsky.social/post/3muvvq3unks2c
-* Zweifache Brandmauer hält noch: Das Wunder der Wallonie: Warum Rechtsextreme im belgischen Süden seit 30 Jahren scheitern
-  https://www.rnd.de/politik/warum-rechtsextreme-im-belgischen-sueden-seit-30-jahren-scheitern-LOXJ665IHJF75BCDWA6SF3JCMQ.html
-  via https://bsky.app/profile/teresabuecker.bsky.social/post/3muyfqxkt2s2p
-* Priorität haben Interviews mit Nazis
-  https://bsky.app/profile/efdavies.bsky.social/post/3mvxp4u7w5s25
-* Bei Caren Miosga seit Mai zu Gast
-  https://bsky.app/profile/arnesemsrott.bsky.social/post/3mw2cfhnc3s25
+### Reaktionen der Politik
+Die zweifelhafte Kunst, sich innerhalb weniger Sätze zu widersprechen, hat Kanzler Merz, in seiner schnellen Reaktion auf das sich abzeichnende Wahlergebnis in Sachsen-Anhalt, [auf die Spitze getrieben](https://www.welt.de/politik/deutschland/article6a9e9e24721eb476650a2766/sachsen-anhalt-wahl-dieses-wahlergebnis-loest-grosse-erschuetterungen-aus-sagt-merz-und-deutet-konsequenzen-an.html), indem er einerseits davon sprach, dass Wahlniederlage "Konsequenzen haben müssen", um wenig später aber zu betonen, dass seine "Entschlossenheit, den Reformkurs fortzusetzen, ungebrochen" sei. Merz ist damit nicht nur (nach Selbstauskunft) seit Geburt privat versichert, sondern offensichtlich seit dem auch schon altersstarsinnig und hat entsprechend nichts dazu gelernt. Er kann konsquenterweise nicht aus seinem Welt- und Menschenbild ausbrechen. Wie der ehemalige Gesundheitsminister [richtigerweise anmerkt](https://bsky.app/profile/cihancelik.bsky.social/post/3mw2afnfr322k): "Reformen gegen den Widerstand der Bevölkerung braucht viel weniger Mut als gegen Widerstand der Lobbyisten". Stattdessen bezieht sich Merz' "Rückgrat" und "Standhaftigkeit" darauf, [bei armutsbetroffenen Familien den Kinderzuschlag zu kürzen oder bei Alleinerziehenden, der ärmsten Familien-Gruppe, zu sparen](https://bsky.app/profile/teresabuecker.bsky.social/post/3mvxsdqd7gs2o).
 
-## Demokratie
-* Solidarische Projektentwicklung statt Vereinzelung: Kooperation statt Konkurrenz! Die Zivilgesellschaft steht unter Druck: Finanzmittel werden knapp, Förderprogramme werden gekürzt.
-  https://d-64.social/@D64eV/117206366419964225
-  https://local-it.org
-* AfD setzt Zivilgesellschaft mit "Patriotismusklausel" unter Druck
-  https://correctiv.org/aktuelles/afd/2026/09/02/afd-setzt-zivilgesellschaft-mit-patriotismusklausel-unter-druck/
+Wie mit zweierlei Maßstäben gemessen wird, [zeigt sich auch beim Umgang mit der AfD](https://bsky.app/profile/tallbikeboy.de/post/3mwaxbchsfs2x). Während Söder nach der Wahl in Sachsen-Anhalt ausschloss, Mittel aus dem Länderfinanzausgleich zu streichen ("Man kann den Länderfinanzausgleich nicht als Bestrafung für ein Land nutzen"), klang das nach der Wahl in Berlin schon ganz anders: "Es kann nicht sein, dass extremistische Politik, antidemokratische Politik und vor allem antisemitische Politik noch belohnt wird", "Wir brauchen eine grundlegende Neuordnung des Länderfinanzausgleichs". [Es ist aber davon auszugehen](https://taz.de/Union-und-der-Laenderfinanzausgleich/!6217293/), dass die geplante Vergesellschaftung von Immobilien der eigentliche Grund ist. "Antisemitismus und Enteignung gefährden unsere Wirtschaft" ist ein Video mit Katharina Reiche überschrieben, in dem sie sich klar politisch äußert, allerdings auf dem Instagram-Account des Wirtschaftsministeriums und sich [deswegen eine Klage der Linke eingehandelt hat](https://www.fr.de/politik/berliner-linke-klagt-gegen-wirtschaftsministerin-reiche-frist-bis-dienstag-zr-94512929.html), da sie damit gegen das für sie als als Ministerin geltende Neutralitätsgebot verstößt. Den sächsischen Innenminister halten solche Gebote [ebenfalls nicht davon ab](https://www.l-iz.de/politik/sachsen/2026/09/schuster-warnt-auf-behoerdenaccounts-vor-linker-regierung-in-berlin-671372), auch auf einem offiziellen Behördenaccount vor einer linken Regierung in Berlin zu warnen. Nachdem Wahlergebnis in Sachsen-Anhalt hat man von diesen Minister:innen jedenfalls keine solchen Empörungsstürme vernommen. Vielleicht weil man inhaltlich von der AfD nicht so weit weg ist, wie man offen zugegeben. Das Grundrecht auf Asyl [zu streichen](https://www.spiegel.de/politik/deutschland/sachsen-cdu-innenminister-armin-schuster-will-grundrecht-auf-asyl-streichen-a-70fa62a7-9f06-4d42-9f35-b62bc7ef027a), wie es Sachsens Innenminister jüngst gefordert hat, hätte jedenfalls auch ein AfD-Vorstoß sein können. Für sein pennelerhaft grinsendes "Na doch" in ZDF-Talkshow "Maybrit Illner" zur Behauptung, Elif Eralp sei eine "Antisemitin wurde der Bundesinnenminister Alexander Dobrindt gleichermaßen von den Linken wegen üblen Nachrede und Beleidigung angezeigt. Zum Vergleich: wenn die CDU zusammen mit der AfD im sächsischen Heidenau [einen Antrag einbringen](https://www.spiegel.de/panorama/gesellschaft/heidenau-in-sachsen-stadtraete-von-cdu-und-afd-wollen-keine-stolpersteine-mehr-a-866a65b7-7ed7-4635-8a23-fd283104d5c8), der fordert, die Verlegung sogenannter Stolpersteine "im öffentlichen Straßen- und Gehwegbereich" künftig abzulehnen, ist das natürlich kein Antisemitismus (und auch kein Einreißen der Brandmauer).
+
+150 Jüdinnen und Juden aus Berlin [setzen sich inzwischen](https://www.spiegel.de/politik/deutschland/berlin-150-juedinnen-und-juden-aus-der-hauptstadt-plaedieren-fuer-rot-rot-gruen-a-5ca7e178-d9b3-49fc-9a1b-c800b02ef009) in einem offenen Brief gegen die "zynische Instrumentalisierung" des Antisemitismusvorwurfs ein.
+
+Die Webseite [CDU – Die Enteignungspartei](https://enteignungspartei.lol) belegt schön, in welchen zahlreichen Fällen die CDU absolut kein Problem mit Enteignungen hat, z.B. beim Bau von Autobahnen und Bundesstraßen oder auch beim Zwangsumsiedeln ganzer Dörfer für den Kohleabbau trotz Kohleausstieg. Und auch die ZDF Frontal Format "Toll!" hat die Vergesellschaftungsangst, um ja nicht internationale Investoren zu verschrecken, [satirisch auf's Korn genommen](https://www.zdf.de/play/magazine/frontal-toll-satire-von-doye-und-wiemers-100/satire-toll-208), unter anderem mit Verweis auf das [Ahlener Programm](https://de.wikipedia.org/wiki/Ahlener_Programm) der CDU.
+
+### Reaktionen der Medien
+Leider sind die Medien, vor allem die Leitmedien, weiterhin nicht in der Lage ihren Beitrag zur aktuellen Lage kritisch zu reflektieren. Stattdessen wird rechten Hetzern [weiter viel Redezeit eingeräumt](https://bsky.app/profile/efdavies.bsky.social/post/3mvxp4u7w5s25) und deren Lügen unwidersprochen stehen gelassen. Sieht man auch [an der Häufigkeit](https://bsky.app/profile/arnesemsrott.bsky.social/post/3mw2cfhnc3s25), mit der bestimmte Personen / Parteivertreter in die Talkshows eingeladen bzw. eben auch nicht eingeladen werden. Gleichzeitig hat man einen Moderatoren-(Selbst-)Darsteller, der irgendwas vom "lässige Wiederaufbau unser Demokratie" [fabuliert](https://dirklaabs.substack.com/p/1b0a525a-76b6-4b44-ae28-eca67f21a692) als Reaktion unter anderem auf den Wahlausgang in Sachsen-Anhalt, selbst in seiner Talkshow aber Demokratiefeinden massig Raum gibt und auch durch eigene zweifelhaften Ansichten und unschöner Diskussionskultur (z.B. anderen ständig ins Wort fallen) auffällt und dafür jetzt auch noch den deutschen Fernsehpreis in der Kategorie "Beste Information" bekommt - Satire ist tot, [wie dieser Nutzer](https://bsky.app/profile/krankenpflegel.de/post/3mvde7hugz227) berechtigt konstatiert. Die deutsche Medienlandschaft aber auch Social Media [ist leider immer noch weit weg davon](https://jagodamarinic.substack.com/p/unshit-the-zone), der Strategie "Flood The Zone With Shit!" ein Art Klärwerk als wirksame Gegenstrategie entgegen zu setzen.
+
+### Reaktionen der Zivilgesellschaft
+* Die Bundesregierung muss jetzt aus diesem erschütternden Wahlergebnis Konsequenzen ziehen. 
+  https://bewegung.social/@lobbycontrol/117241042515965758
 * Solidarität für Sachsen-Anhalt und Mecklenburg-Vorpommern
   https://fondsfuerdemokratie.de/solidaritat-fur-sachsen-anhalt-und-mecklenburg-vorpommern/
   https://fondsfuerdemokratie.de
@@ -128,25 +109,39 @@ FragDenStaat [erinnert an die Menschengruppen](https://fragdenstaat.de/artikel/e
 * Recht Solidarisch
   https://www.recht-solidarisch.de
   https://www.rav.de/publikationen/mitteilungen/mitteilung/recht-solidarisch-projekt-bietet-juristische-orientierung-fuer-die-zivilgesellschaft-1292
-* Wo ist es bitte Rückgrat?
-  https://bsky.app/profile/teresabuecker.bsky.social/post/3mvxsdqd7gs2o
-  * “Reformen gegen den Widerstand der Bevölkerung braucht viel weniger Mut als gegen Widerstand der Lobbyisten“
-    https://bsky.app/profile/cihancelik.bsky.social/post/3mw2afnfr322k  
-* Die Bundesregierung muss jetzt aus diesem erschütternden Wahlergebnis Konsequenzen ziehen. 
-  https://bewegung.social/@lobbycontrol/117241042515965758
-* Doppelstandards
-  https://bsky.app/profile/raindiercks.eurosky.social/post/3mwavfzcrwk2n
-* 14 Merkmale vom Faschismus nach Umberto Eco
-  https://hessen.social/@Philippe/117259137752725954
 * The Day After. Strategien für die demokratische Zivilgesellchaft angesichts einer rechtsextremen Landesregierung
   https://www.miteinander-ev.de/wp-content/uploads/2026/09/The-Days-After_Empfehlungen-fuer-die-Zivilgesellschaft.pdf
   via https://chaos.social/@tbsprs/117299331039701722
-* CDU – Die Enteignungspartei
-  https://enteignungspartei.lol
-* ZDF Frontal Toll! zu Vergesellschaftung
-  https://www.zdf.de/play/magazine/frontal-toll-satire-von-doye-und-wiemers-100/satire-toll-208
-* Unshit the Zone
-  https://jagodamarinic.substack.com/p/unshit-the-zone
+
+
+## Journalismus
+* Petition bündelt Forderungen an die Bundesregierung für Pressefreiheit und Medienvielfalt
+  https://correctiv.org/in-eigener-sache/2026/09/01/petition-bundesregierung-pressefreiheit/
+* Deutschlandfunk: Der Mut zur Kultur schwindet
+  https://www.telepolis.de/article/Deutschlandfunk-Der-Mut-zur-Kultur-schwindet-11455144.html
+  * Mutig gegen die Programmreform!
+    https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/die-programmreform-des-deutschlandfunks-muss-gestoppt-werden-accg-201178956.html
+* Bei der Stiftung Familienunternehmer schlägt Merz laut NDR-Beitrag Überreichen vor, sich gegen die Reichenkritik in Talkshows zu begeben
+  https://bsky.app/profile/marcraschke.bsky.social/post/3mueqyyel4s2r
+  https://www.youtube.com/shorts/f97KkQ9JSkY
+* How people want public service media to help build a better future
+  https://www.bbc.co.uk/rd/articles/2026-09-future-public-service-media-technology
+  via https://bsky.app/profile/dennishorn.de/post/3murouumluc27
+* Teufelskreis
+  https://www.fes.de/themen/demokratie/teufelskreis
+  via https://bsky.app/profile/tabouchadi.bsky.social/post/3muvvq3unks2c
+* Zweifache Brandmauer hält noch: Das Wunder der Wallonie: Warum Rechtsextreme im belgischen Süden seit 30 Jahren scheitern
+  https://www.rnd.de/politik/warum-rechtsextreme-im-belgischen-sueden-seit-30-jahren-scheitern-LOXJ665IHJF75BCDWA6SF3JCMQ.html
+  via https://bsky.app/profile/teresabuecker.bsky.social/post/3muyfqxkt2s2p
+
+## Demokratie
+* Solidarische Projektentwicklung statt Vereinzelung: Kooperation statt Konkurrenz! Die Zivilgesellschaft steht unter Druck: Finanzmittel werden knapp, Förderprogramme werden gekürzt.
+  https://d-64.social/@D64eV/117206366419964225
+  https://local-it.org
+* AfD setzt Zivilgesellschaft mit "Patriotismusklausel" unter Druck
+  https://correctiv.org/aktuelles/afd/2026/09/02/afd-setzt-zivilgesellschaft-mit-patriotismusklausel-unter-druck/
+* 14 Merkmale vom Faschismus nach Umberto Eco
+  https://hessen.social/@Philippe/117259137752725954
 * Die Demokratie braucht mehr als eine Brandmauer
   https://www.mehr-demokratie.de/mehr-wissen/buergerraete/aktuelles/einzelansicht/die-demokratie-braucht-mehr-als-eine-brandmauer
 * Förderwahnsinn
@@ -171,15 +166,6 @@ FragDenStaat [erinnert an die Menschengruppen](https://fragdenstaat.de/artikel/e
     https://bsky.app/profile/pankowerpflanze.de/post/3mwd5nowkck24
   * Heuchelei
     https://bsky.app/profile/christophbautz.bsky.social/post/3mwdqlou3fs2w
-* Parteipolitik von Behördenkonten
-  https://norden.social/@SheDrivesMobility/117339656948106774
-  https://www.l-iz.de/politik/sachsen/2026/09/schuster-warnt-auf-behoerdenaccounts-vor-linker-regierung-in-berlin-671372
-  * Sachsens Innenminister will Grundrecht auf Asyl streichen
-    https://www.spiegel.de/politik/deutschland/sachsen-cdu-innenminister-armin-schuster-will-grundrecht-auf-asyl-streichen-a-70fa62a7-9f06-4d42-9f35-b62bc7ef027a
-  * Berliner Linke klagt gegen Wirtschaftsministerin Reiche – "Die CDU verliert die letzten Hemmungen"
-    https://www.fr.de/politik/berliner-linke-klagt-gegen-wirtschaftsministerin-reiche-frist-bis-dienstag-zr-94512929.html
-* Eine von der Linken regierte Hauptstadt will die Union nicht mitfinanzieren. Bei der AfD in Sachsen-Anhalt war CSU-Chef Söder nicht so rigoros.
-  https://taz.de/Union-und-der-Laenderfinanzausgleich/!6217293/
 * Inside CDU
   https://www.zdf.de/dokus/inside-cdu-102
   https://www.tagesspiegel.de/gesellschaft/panorama/wirbel-um-inside-cdu-doku-diese-funf-szenen-sollten-sie-kennen-um-mitreden-zu-konnen-16103720.html
