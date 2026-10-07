@@ -10,16 +10,16 @@ links:
   url: https://code-for-beispiel.de
   top: true # true | false
   
-- name: GetTogether
-  url: https://gettogether.community/code-for-beispiel/
+- name: Mobilizon
+  url: https://termine.social/code-for-beispiel/
   top: true # true | false
 
 - name: GitHub
   url: https://github.com/codeforbeispiel
   top: true # true | false
 
-- name: Twitter
-  url: https://twitter.com/codeforbeispiel
+- name: Mastodon
+  url: https://mastodon.social/codeforbeispiel
   top: true # true | false
 
 leads:

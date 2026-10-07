@@ -12,9 +12,6 @@ aliases:
 - /os
 
 links:
-- name: GetTogether
-  url: https://gettogether.community/code-for-osnabr%C3%BCck/
-  top: true
 
 - name: GitHub
   url: https://github.com/codeforosnabrueck
