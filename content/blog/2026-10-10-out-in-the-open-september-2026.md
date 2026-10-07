@@ -94,7 +94,9 @@ Die Webseite [CDU – Die Enteignungspartei](https://enteignungspartei.lol) bele
 Mit einer linken Regierung in Berlin würden sich außerdem [die Mehrheiten im Bundesrat](https://www.bundesrat.de/DE/bundesrat/verteilung/verteilung-node.html) verschieben, so dass mit den Stimmen aus den eher progressiven CDU-Landesverbänden, doch noch eine Mehrheit für ein AfD-Verbot zusammengekommen könnte. Doch ob allen in der CDU das Land ist wichtiger als die eigene Partei? Oder brauchen sie die AfD doch, um sich weiter als Partei der Mitte zu inszenieren, und die eigene Politik als nicht so schlimm dastehen zu lassen?
 
 ### Reaktionen der Medien
-Leider sind die Medien, vor allem die Leitmedien, weiterhin nicht in der Lage ihren Beitrag zur aktuellen Lage kritisch zu reflektieren. Stattdessen wird rechten Hetzern [weiter viel Redezeit eingeräumt](https://bsky.app/profile/efdavies.bsky.social/post/3mvxp4u7w5s25) und deren Lügen unwidersprochen stehen gelassen. Sieht man auch [an der Häufigkeit](https://bsky.app/profile/arnesemsrott.bsky.social/post/3mw2cfhnc3s25), mit der bestimmte Personen / Parteivertreter in die Talkshows eingeladen bzw. eben auch nicht eingeladen werden. Gleichzeitig hat man einen Moderatoren-(Selbst-)Darsteller, der irgendwas vom "lässige Wiederaufbau unser Demokratie" [fabuliert](https://dirklaabs.substack.com/p/1b0a525a-76b6-4b44-ae28-eca67f21a692) als Reaktion unter anderem auf den Wahlausgang in Sachsen-Anhalt, selbst in seiner Talkshow aber Demokratiefeinden massig Raum gibt und auch durch eigene zweifelhaften Ansichten und unschöner Diskussionskultur (z.B. anderen ständig ins Wort fallen) auffällt und dafür jetzt auch noch den deutschen Fernsehpreis in der Kategorie "Beste Information" bekommt - Satire ist tot, [wie dieser Nutzer](https://bsky.app/profile/krankenpflegel.de/post/3mvde7hugz227) berechtigt konstatiert. Die deutsche Medienlandschaft aber auch Social Media [ist leider immer noch weit weg davon](https://jagodamarinic.substack.com/p/unshit-the-zone), der Strategie "Flood The Zone With Shit!" ein Art Klärwerk als wirksame Gegenstrategie entgegen zu setzen.
+Leider sind die Medien, [vor allem die Leitmedien](https://bsky.app/profile/teresabuecker.bsky.social/post/3muyfqxkt2s2p), weiterhin nicht in der Lage ihren Beitrag zur aktuellen Lage kritisch zu reflektieren. Stattdessen wird rechten Hetzern [weiter viel Redezeit eingeräumt](https://bsky.app/profile/efdavies.bsky.social/post/3mvxp4u7w5s25) und deren Lügen unwidersprochen stehen gelassen. Sieht man auch [an der Häufigkeit](https://bsky.app/profile/arnesemsrott.bsky.social/post/3mw2cfhnc3s25), mit der bestimmte Personen / Parteivertreter in die Talkshows eingeladen bzw. eben auch nicht eingeladen werden. Gleichzeitig hat man einen Moderatoren-(Selbst-)Darsteller, der irgendwas vom "lässige Wiederaufbau unser Demokratie" [fabuliert](https://dirklaabs.substack.com/p/1b0a525a-76b6-4b44-ae28-eca67f21a692) als Reaktion unter anderem auf den Wahlausgang in Sachsen-Anhalt, selbst in seiner Talkshow aber Demokratiefeinden massig Raum gibt und auch durch eigene zweifelhaften Ansichten und unschöner Diskussionskultur (z.B. anderen ständig ins Wort fallen) auffällt und dafür jetzt auch noch den deutschen Fernsehpreis in der Kategorie "Beste Information" bekommt - Satire ist tot, [wie dieser Nutzer](https://bsky.app/profile/krankenpflegel.de/post/3mvde7hugz227) berechtigt konstatiert. Die deutsche Medienlandschaft aber auch Social Media [ist leider immer noch weit weg davon](https://jagodamarinic.substack.com/p/unshit-the-zone), der Strategie "Flood The Zone With Shit!" ein Art Klärwerk als wirksame Gegenstrategie entgegen zu setzen.
+
+Wie es besser geht, demonstriert Wallonien (Südbelgien) seit über 30 Jahren. Dort wurde als Reaktion auf das plötzliche Erstarken der Rechten 1991 [mit dem Cordon sanitaire eine mediale Brandmauer](https://www.rnd.de/politik/warum-rechtsextreme-im-belgischen-sueden-seit-30-jahren-scheitern-LOXJ665IHJF75BCDWA6SF3JCMQ.html) zunächst als Selbstverpflichtung eingerichtet, die wenig später von der regionalen Medienaufsicht übernommen und 1999 von einem Gericht in seiner Rechtsmäßigkeit bestätigt wurde. Rassistische, demokratieverachtende Parteien erhalten keine freie Sendezeit, Interviews mit ihnen werden nie live sondern nur zeitversetzt gesendet, um so Aussagen, die gegen belgische Gesetze verstoßen, kenntlich zu machen.
 
 ### Reaktionen der Zivilgesellschaft
 [Aus Sicht von Lobbycontrol](https://bewegung.social/@lobbycontrol/117241042515965758) kann es ein Weiterso in der Bundespolitik nicht geben, denn mit ihrer zum Teil stark lobbygetriebenen Politik hat die Bundesregierung viel Vertrauen verspielt. Mit weiteren Belastungen und Einschnitten bei Rente, Arbeitsbedingungen und Krankschreibung, zudem soll das Informationsfreiheitsgesetz abgeschafft werden, wohingegen eine gerechtere Besteuerung hoher Vermögen nicht einmal auf der Agenda steht, braucht man sich nicht wundern, wenn man nicht mehr gewählt wird. Stattdessen die AfD zu wählen ist definitiv nicht die richtige Reaktion, aber so lange sich die Bundesregierung weigert, den Protest auf der Straße ernst zu nehmen und lieber nur Politik für einige wenige zu machen, kommt die Demokratie an ihre Grenzen ihrer Willens-Ausdrucksmöglichkeiten.
@@ -114,6 +116,49 @@ Der [Deutsche Fonds für Demokratie](https://fondsfuerdemokratie.de) springt mit
 
 Auch [Gegenrechtsschutz](https://gegenrechtsschutz.de), ein Unterstützungsangebot von FragDenStaat, könnte nun leider relevanter werden.
 
+## Demokratie
+### Finanzierung
+* Solidarische Projektentwicklung statt Vereinzelung: Kooperation statt Konkurrenz! Die Zivilgesellschaft steht unter Druck: Finanzmittel werden knapp, Förderprogramme werden gekürzt.
+  https://d-64.social/@D64eV/117206366419964225
+  https://local-it.org
+* AfD setzt Zivilgesellschaft mit "Patriotismusklausel" unter Druck
+  https://correctiv.org/aktuelles/afd/2026/09/02/afd-setzt-zivilgesellschaft-mit-patriotismusklausel-unter-druck/
+* Förderwahnsinn
+  https://bsky.app/profile/coocho.bsky.social/post/3mvxc2k32ac26
+
+### Wehrhafte Demokratie
+* 14 Merkmale vom Faschismus nach Umberto Eco
+  https://hessen.social/@Philippe/117259137752725954
+* Die Demokratie braucht mehr als eine Brandmauer
+  https://www.mehr-demokratie.de/mehr-wissen/buergerraete/aktuelles/einzelansicht/die-demokratie-braucht-mehr-als-eine-brandmauer
+
+### Stolpersteinverbot in Heidenau
+*  https://bsky.app/profile/melaura.bsky.social/post/3mwbw5ey2x22v
+  * Nächster Antisemitismus-Hammer! Linkspartei verbietet "Stolpersteine" … ach nee, Stopp, das war die CDU. Dann isses natürlich halb so wild!
+    https://www.der-postillon.com/2026/09/stolpersteine-heidenau.html
+  * Stolpersteine digital: App trotzt Heidenau-Beschluss 
+    https://www.diesachsen.de/wissenschaft/stolpersteine-digital-app-trotzt-heidenau-beschluss-3185120
+  * Stolpersteine-App kontert Heidenaus Gedenkstein-Verbot
+    https://www.spiegel.de/politik/deutschland/heidenau-stolpersteine-app-reagiert-auf-verbot-neuer-gedenksteine-a-6a7f0e61-0b65-493d-a314-c51cfcaed41b
+  * aktuellen Stand zu Heidenau 
+    https://akubiz.de/38-verein/news/877-stolpersteine-heidenau
+    https://systemli.social/@tolsax/117355763713180536
+
+### Preisverleihung an Peter Thiel
+* Bemerkenswert, wer zur großen Peter Thiel Show von Mathias Döpfner gestern angereist war (z.B. Markus Söder)
+  https://bsky.app/profile/janoschdahmenmdb.de/post/3mwd4fkqfmc2x
+  * Wenn organisierte Kriminalität im Anzug kommt
+    https://www.tagesspiegel.de/berlin/dpa-thiel-kritisiert-teile-der-medien-als-linke-hassfabrik--und-lobt-springer-chef-dopfner-16093116.html
+    https://bsky.app/profile/pankowerpflanze.de/post/3mwd5nowkck24
+  * Heuchelei
+    https://bsky.app/profile/christophbautz.bsky.social/post/3mwdqlou3fs2w
+* USA lassen keine OSZE-Beobachter bei Midterms-Wahlen zu
+  https://bsky.app/profile/melaura.bsky.social/post/3mwavnbymjs22
+* Inside CDU
+  https://www.zdf.de/dokus/inside-cdu-102
+  https://www.tagesspiegel.de/gesellschaft/panorama/wirbel-um-inside-cdu-doku-diese-funf-szenen-sollten-sie-kennen-um-mitreden-zu-konnen-16103720.html
+  https://bsky.app/profile/palle.eurosky.social/post/3mwiumosly22l
+
 ## Journalismus
 * Petition bündelt Forderungen an die Bundesregierung für Pressefreiheit und Medienvielfalt
   https://correctiv.org/in-eigener-sache/2026/09/01/petition-bundesregierung-pressefreiheit/
@@ -130,46 +175,7 @@ Auch [Gegenrechtsschutz](https://gegenrechtsschutz.de), ein Unterstützungsangeb
 * Teufelskreis
   https://www.fes.de/themen/demokratie/teufelskreis
   via https://bsky.app/profile/tabouchadi.bsky.social/post/3muvvq3unks2c
-* Zweifache Brandmauer hält noch: Das Wunder der Wallonie: Warum Rechtsextreme im belgischen Süden seit 30 Jahren scheitern
-  https://www.rnd.de/politik/warum-rechtsextreme-im-belgischen-sueden-seit-30-jahren-scheitern-LOXJ665IHJF75BCDWA6SF3JCMQ.html
-  via https://bsky.app/profile/teresabuecker.bsky.social/post/3muyfqxkt2s2p
 
-## Demokratie
-* Solidarische Projektentwicklung statt Vereinzelung: Kooperation statt Konkurrenz! Die Zivilgesellschaft steht unter Druck: Finanzmittel werden knapp, Förderprogramme werden gekürzt.
-  https://d-64.social/@D64eV/117206366419964225
-  https://local-it.org
-* AfD setzt Zivilgesellschaft mit "Patriotismusklausel" unter Druck
-  https://correctiv.org/aktuelles/afd/2026/09/02/afd-setzt-zivilgesellschaft-mit-patriotismusklausel-unter-druck/
-* 14 Merkmale vom Faschismus nach Umberto Eco
-  https://hessen.social/@Philippe/117259137752725954
-* Die Demokratie braucht mehr als eine Brandmauer
-  https://www.mehr-demokratie.de/mehr-wissen/buergerraete/aktuelles/einzelansicht/die-demokratie-braucht-mehr-als-eine-brandmauer
-* Förderwahnsinn
-  https://bsky.app/profile/coocho.bsky.social/post/3mvxc2k32ac26
-* USA lassen keine OSZE-Beobachter bei Midterms-Wahlen zu
-  https://bsky.app/profile/melaura.bsky.social/post/3mwavnbymjs22
-* Stolpersteinverbot in Heidenau
-  https://bsky.app/profile/melaura.bsky.social/post/3mwbw5ey2x22v
-  * Nächster Antisemitismus-Hammer! Linkspartei verbietet "Stolpersteine" … ach nee, Stopp, das war die CDU. Dann isses natürlich halb so wild!
-    https://www.der-postillon.com/2026/09/stolpersteine-heidenau.html
-  * Stolpersteine digital: App trotzt Heidenau-Beschluss 
-    https://www.diesachsen.de/wissenschaft/stolpersteine-digital-app-trotzt-heidenau-beschluss-3185120
-  * Stolpersteine-App kontert Heidenaus Gedenkstein-Verbot
-    https://www.spiegel.de/politik/deutschland/heidenau-stolpersteine-app-reagiert-auf-verbot-neuer-gedenksteine-a-6a7f0e61-0b65-493d-a314-c51cfcaed41b
-  * aktuellen Stand zu Heidenau 
-    https://akubiz.de/38-verein/news/877-stolpersteine-heidenau
-    https://systemli.social/@tolsax/117355763713180536
-* Bemerkenswert, wer zur großen Peter Thiel Show von Mathias Döpfner gestern angereist war (z.B. Markus Söder)
-  https://bsky.app/profile/janoschdahmenmdb.de/post/3mwd4fkqfmc2x
-  * Wenn organisierte Kriminalität im Anzug kommt
-    https://www.tagesspiegel.de/berlin/dpa-thiel-kritisiert-teile-der-medien-als-linke-hassfabrik--und-lobt-springer-chef-dopfner-16093116.html
-    https://bsky.app/profile/pankowerpflanze.de/post/3mwd5nowkck24
-  * Heuchelei
-    https://bsky.app/profile/christophbautz.bsky.social/post/3mwdqlou3fs2w
-* Inside CDU
-  https://www.zdf.de/dokus/inside-cdu-102
-  https://www.tagesspiegel.de/gesellschaft/panorama/wirbel-um-inside-cdu-doku-diese-funf-szenen-sollten-sie-kennen-um-mitreden-zu-konnen-16103720.html
-  https://bsky.app/profile/palle.eurosky.social/post/3mwiumosly22l
 
 ## Digitale Souveränität
 * Schweizer E-ID: Justizminister Jans verhindert geheimen Amazon-Deal
