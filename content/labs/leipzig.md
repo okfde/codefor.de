@@ -10,19 +10,16 @@ aliases:
 
 links:
 - name: Meetup
-  url: https://www.meetup.com/de-DE/oklab-leipzig/
+  url: https://termine.social/@oklab_leipzig
 - name: GitHub
   url: https://github.com/CodeforLeipzig
 - name: Slack
   url: https://openknowledgegermany.slack.com/messages/leipzig/
 - name: Matrix
   url: https://matrix.to/#/!VYcaEKjBMUzKKBuRRs:cozy.town?via=cozy.town&via=matrix.org
-- name: GetTogether
-  url: https://gettogether.community/oklab-leipzig/
+  
 - name: Mailingliste
   url: mailto:leipzig@codefor.de
-- name: Twitter
-  url: https://twitter.com/codeforleipzig
 
 leads:
 - name: Jörg Reichert
