@@ -15,8 +15,6 @@ links:
   url: http://twitter.com/codeforkl
 - name: Mattermost
   url: https://chat.data.kaiserslautern.digital/ok-lab/
-- name: GetTogether
-  url: https://gettogether.community/code-for-kaiserslautern/
 - name: Pad
   url: https://pad.okfn.de/p/codeforkl
 - name: OKF Slack

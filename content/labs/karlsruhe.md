@@ -19,9 +19,6 @@ links:
 - name: GitHub
   url: https://github.com/CodeforKarlsruhe
 
-- name: GetTogether
-  url: https://gettogether.community/ok-lab-ka/
-
 leads:
 
 - name: Andreas
