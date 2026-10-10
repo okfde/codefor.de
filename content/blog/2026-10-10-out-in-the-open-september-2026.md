@@ -178,28 +178,20 @@ Auch wenn man vor allem auf dem Handy noch den kompletten Wechsel des Betriebssy
 Das Hijacken positiv besetzter Begriffen und ihre Vereinnahmung und Umdeutung für ganz andere Ziele hat leider ein gewisse Tradition. So auch zu beobachten beim Begriff "Digitale Souveränität", unter dessen Label nun einige Unternehmen ihre "deutsche" Lösung zu vermarkten versuchen, oder gar von Nationalisten zur Abgrenzung von dem guten "Innen" und dem bösen "Außen" missbraucht werden kann. Also den Begriff versuchen zurückzuerobern, oder ihn doch auf die Liste verbrannter Worte zu setzen, [wie es Stefan in seinem Vortrag vorschlägt](https://media.ccc.de/v/2026-747-warum-digitale-souveranitat-auch-bei-nationalisten-so-beliebt-ist), und ein neue Wortmarke schöpfen, die aber genauso wieder vereinnahmt werden kann? Oder verstellt die [Wortklauberei](https://de.wikipedia.org/wiki/Wortklauberei) den eigentlichen Kampf um die Deutungshohheit? Haben wir wirklich verstanden, was wir wollen, und können das auch ausdrücken, ohne das Buzzword zu verwenden? Und sind wir in der Lage, das immer wieder neu zu erklären, [zu hinterfragen](https://social.vivaldi.net/@StefanMuenz/117262429079573902) und ggf. auch an neue Gegebenheiten anzupassen? Oder benutzen wir inflationär Begriffe als Schmückwerk, und hat ihren eigentlichen Inhalt längst vergessen (oder nie gelernt)? Wie können wir uns geeignet ohne Opa-erzählt-vom-Krieg-Vibes kritisch in die Debatte einbringen und auf den nackten Kaiser zu zeigen? Vielleicht mehr [Sokratisches Fragen](https://de.wikipedia.org/wiki/Sokratische_Methode) und die richtigen Adressaten finden?
 
 ## Open Source
-* Versatiles - Offener Brief an die ARD
-  https://versatiles.org/offener-brief-an-die-ard/
-* Open-Source Smartwatch Pebble Time 2 getestet
-  https://www.heise.de/news/Open-Source-Smartwatch-Pebble-Time-2-getestet-c-t-3003-11441188.html
-* Euro-Office erhält Desktop-App
-  https://www.heise.de/news/Euro-Office-erhaelt-Desktop-App-11456058.html
-* Hister: Your own search engine
-  https://github.com/asciimoo/hister
-  https://hister.org
-* bubble-share
-  https://codeberg.org/s1m/bubble-share
-  via https://infosec.exchange/@S1m/117310946301924196
-* Faircamp 2
-  https://faircamp.org/changes/2.0.0/
-* F-Droid 2.0: A New Chapter for Android Freedom
-  https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html
-  https://www.heise.de/news/F-Droid-2-0-Alternativer-App-Store-fuer-Android-bekommt-grosses-Update-11465359.html
-* FediWings: Wie weit trägt dein Post im Fediverse?
-  https://rstockm.github.io/fediwings/
-  via https://troet.cafe/@Marwe/117331915191557795
-* MeshCore — So kommuniziert ihr auch beim Blackout
-  https://www.heise.de/news/Video-MeshCore-So-kommuniziert-ihr-auch-beim-Blackout-11464276.html
+"Für die hohen Preise kommerzieller Plattformen findet sich immer ein Budgettopf.
+Aber für Open Source und digitale Souveränität, selbst wenn sie enorme Kosten einsparen würden, gibt es keinen Plan, keine Zuständigkeit und keine Kostenstelle." beklagt Michael Kreil [in seinem offenen Brief](https://versatiles.org/offener-brief-an-die-ard/) an die ARD und zeigt sich enttäuscht darüber, dass auch die ARD nicht der Vorreiter beim Aufbau, Erhalt und Weiterentwicklung solcher digitalen Infrastruktur sein wollte. Für sein Open-Source-Projekt VersaTiles bedeutet das jedenfalls nach dem Auslaufen der Förderung, dass dieses nur noch im Ehrenamt fortgeführt werden könnte, obwohl es von mehreren Landesrundfunkanstalten inzwischen produktiv eingesetzt wird.
+
+[Die Version 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) von F-Droid ist die größte App-Aktualisierung seit 10 Jahren und beinhaltet die komplette Neugestaltung der Benutzeroberfläche und [Nutzerführung](https://www.heise.de/news/F-Droid-2-0-Alternativer-App-Store-fuer-Android-bekommt-grosses-Update-11465359.html), z.B. bei der App-Suche. Das Release kann auch als Kampfansage verstanden werden, trotz der von Google angekündigten erzwungenen Entwicklerverifizierung für Android-Apps, die ab nächsten Jahr in Deutschland gilt, ihre alternative App-Store-Lösung nicht aufgeben zu wollen.
+
+Während LibreOffice schon immer eine Desktop-Anwendung war und durch Collabora bzw. alternativ über LibreOffice Online mit Qt 6 und WebAssembly (WASM) webfähig gemacht wird, bekommt Euro-Office, der Fork von OnlyOffice, im Zuge des neuen Nextcloud Hub 26 Summer Releases [eine dedizierte Desktop-Anwendung](https://www.heise.de/news/Euro-Office-erhaelt-Desktop-App-11456058.html) für Linux, Windows und MacOS.
+
+c't 3003 hat die Open-Source-Smartwatch Pebble Time 2 [einige Wochen getestet](https://www.heise.de/news/Open-Source-Smartwatch-Pebble-Time-2-getestet-c-t-3003-11441188.html). Die Hintergrundgeschichte ist ganz interessant: ein Jahr vor der ersten Apple Watch kam 2013 Pebble 1 als erste Smartwatch auf den Markt, 2016 wurden bei Kickerstarter fast 13 Millionen US-Dollar für die Entwicklung der Nachfolgeversion eingesammelt, die aber auf Grund der Firmeninsolvenz Dezember 2016 nie ausgeliefert wurde, das eingesammelte Geld wurde zurückgezahlt. Die Firma Fitbit kauft die Software-Assets und wurde 2021 selbst von Google aufgekauft. Januar 2025 stellte Google den Quellcode von PebbleOS Open-Source, den wiederum der Pebble-Erfinder nutzt, um sein Konzept von 2016 umzusetzen und Ende 2025 die so entstandenen Handy-Apps, SDK und Entwicklertools ebenfalls Open Source zu machen. Trotz fehlendem NFC und GPS-Tracking lässt sie sich nun als vollwertiges zweites Display fürs Handy nutzen. 
+
+Eine eigene Suchmaschine kann man mit [Hister](https://hister.org) auf dem eigenen Server hosten, bei Wunsch können besuchten Webseiten volltextindiziert werden. 
+
+[Bubble Share](https://codeberg.org/s1m/bubble-share) ist [eine Alternative](https://infosec.exchange/@S1m/117310946301924196) zu AirDrop / Nearby Share.
+
+Viele beklagen sich, dass sie im Fediverse nicht die Reichweite erzielen würden, die sie bisher auf den großen Big-Tech-Plattformen haben. Mit [FediWings](https://rstockm.github.io/fediwings/) kann man nun [nachprüfen](https://troet.cafe/@Marwe/117331915191557795), ob das wirklich stimmt.
 
 ## Verwaltungsdigitalisierung
 * Wie München zur digitalen Vorreiterin wurde
