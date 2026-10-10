@@ -19,6 +19,8 @@ Die Open-Data-Experten auf dem Diskussionspodium beim KGSt-(Kommunale Gemeinscha
 
 Das finanzielle Elend offen beschaulustigen kann man in Leipzig: der Entwurf zum Doppelhaushalt 2027/2028 ist inklusive der Rohdaten im Open Data-Portal der Stadt Leipzig [zu finden](https://opendata.leipzig.de/dataset/doppelhaushalt-2027-2028-unterlagen-und-datensatze-auf-einen-blick).
 
+Die [Kompetenzstelle Data Governance Act](https://dga-portal.de) des Statistische Bundesamts soll öffentliche Stellen bei der Bereitstellung und Weiterverwendung von geschützten Daten [operativ unterstützen](https://www.linkedin.com/posts/dga-verwaltungsdaten-anonymisierung-share-7506245249158139906-QHLT/), konkret bei Anonymisierung und Pseudonymisierung von Verwaltungsdaten.
+
 [Wie kann man](https://blog.okfn.org/2026/09/16/new-field-guide-connecting-ai-to-government-data/) öffentliche Daten mittels KI zugänglicher machen ohne dabei das Vertrauen in die Korrektheit zu verspielen? Die Frage versucht [der neue Leitfaden](https://blog.okfn.org/wp-content/uploads/2026/09/TTWW-AI.pdf) der Open Knowledge Foundation im Rahmen der The-Tech-We-Want-Reihe zu beantworten, und zum klaren Schluss, dass Chatbots auf keinen Fall Open-Data-Portale ersetzen sollten. Die Auswertung der Anfragen, die über solche Bots gestellt werden, kann aber dazu genutzt werden, die Dokumentation der Datensätze zu verbessern. Wichtig ist auch, bei den Chat-Ausgaben immer die Quellen zu verlinken. 
 
 ### Kompetenzzentrum Open Data (CCOD)
@@ -194,22 +196,13 @@ Eine eigene Suchmaschine kann man mit [Hister](https://hister.org) auf dem eigen
 Viele beklagen sich, dass sie im Fediverse nicht die Reichweite erzielen würden, die sie bisher auf den großen Big-Tech-Plattformen haben. Mit [FediWings](https://rstockm.github.io/fediwings/) kann man nun [nachprüfen](https://troet.cafe/@Marwe/117331915191557795), ob das wirklich stimmt.
 
 ## Verwaltungsdigitalisierung
-* Wie München zur digitalen Vorreiterin wurde
-  https://radiocitylab.podigee.io/32-neue-episode
-  via https://mastodontech.de/@citylabberlin/117286753638249753
-* KI-Bescheide ohne menschliches Zutun in Österreich
-  https://www.heise.de/news/KI-Bescheide-ohne-menschliches-Zutun-in-Oesterreich-11463844.html
-* Wissen, was wirkt: Die Berliner Bürgerdienste unter der Daten-Lupe
-  https://citylab-berlin.org/blog/wissen-was-wirkt-die-berliner-buergerdienste-unter-der-daten-lupe/
-* Unmut über GovTech Deutschland: "Wir Länder staunen über die Aktivitäten eines privaten Vereins, der ohne Legitimation und Kontrolle Angebote so darstellt, als seien sie alle staatlich"
-  https://www.linkedin.com/posts/matthias-punz-805b17175_%F0%9D%97%98%F0%9D%98%85%F0%9D%97%B8%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80%F0%9D%97%B6%F0%9D%98%83-in-einigen-l%C3%A4ndern-w%C3%A4chst-share-7506585597625638912-BZ-C/
-* Was hat Wikipedia mit Omnibussen zu tun?
-  https://www.linkedin.com/posts/was-hat-wikipedia-mit-omnibussen-zu-tun-ugcPost-7506291029134815232-Kzyg/
-* Kompetenzstelle Data Governance Act
-  https://dga-portal.de
-  https://www.linkedin.com/posts/dga-verwaltungsdaten-anonymisierung-share-7506245249158139906-QHLT/
-* eGovernment Podcast Monatsschau 09-26
-  https://egovernment-podcast.com/egov278-monatsschau-09-26/
+Um Verbesserungspotenziale für die Nutzung der Online-Dienstleistungen der Bürgerämter zu erkennen, reicht es nicht nur stumpf auf die Nutzungsquote zu schauen (quantitative Analyse), sondern hinterherzuspüren, was zu diesem "Output" geführt hat, z.B. indem die Nutzende fragt, warum sie bestimmte Dienste nicht oder anders nutzen als gedacht (qualitative Analyse). Erst mit dem Wissen über die "Wirkung" und Nutzen für Bürger:innen, Verwaltung und Gesellschaft sowie die Zusammenhänge können die richtigen Maßnahmen abgeleitet werden und deren Wirkung wiederum quantitativ und qualititiv ausgewertet werden können. Mit dem Pilotprojekt "Wirkungsanalyse-Dashboard Digitale Bürgerdienste" (auf Grundlage des [Data Hub Berlin](http://www.data-hub.berlin/)) will das CityLab gemeinsam mit der Senatskanzlei Berlin unterschiedliche Datenquellen [zusammenführen](https://citylab-berlin.org/blog/wissen-was-wirkt-die-berliner-buergerdienste-unter-der-daten-lupe/), die aufbereitet dann helfen sollen, die Verwaltung wirkungsorientiert zu steuern.
+
+[Österreich legalisiert](https://www.heise.de/news/KI-Bescheide-ohne-menschliches-Zutun-in-Oesterreich-11463844.html), dass erstinstanzliche schriftliche Amts-Bescheide, auch bestimmte Verwaltungsstrafen, ohne menschliches Zutun von einer KI ausgestellt werden dürfen. Die Opposition hält die Regelung für zu weit reichend und verfassungsmäßig fragwürdig, außerdem sei die Verantwortung für Fehler ungeklärt. Dass allein die jeweilige Behörde entscheidet, wo diese Automatisierung zum Einsatz kommt, und nicht das Parlament, wurde ebenfalls kritisiert. Innerhalb zweier Monat nach automatisierten Bescheiderlass kann eine Behörde diesen auch wieder aufheben oder abändern, dies ist vor allem für Fälle gedacht, bei den noch rechtzeitig bemerkt wurde, dass das Sprachmodell massenweise Quatsch produziert hat. Mit No-Stop-Verfahren sollen zudem Bescheide angestoßen automatisch angestoßen werden können, wenn sich Änderungen in Datenregistern ergeben, z.B. bei Gewährung von Familienbeihilfen oder steuerlicher Veranlagung von Arbeitnehmenden.
+
+Weitere verwaltungsdigitalisierungsrelevante Themen, die im September aufkamen, wurden in der [eGovernment Podcast Monatsschau besprochen](https://egovernment-podcast.com/egov278-monatsschau-09-26/).
+
+Deutsche Verwaltungsdigitalisierung ein Selbstbedienungsladen? Der private Verein Govtech Deutschland (vormals Govtech-Campus) ausgestattet mit allerdings nicht belegter Inhouse-Fähigkeit (auch die [FragDenStaat-Anfrage](https://fragdenstaat.de/anfrage/govtech-campus-finanzierung-inhousefaehigkeit-foerdermitglieder-politische-einflussnahme/) schaffte wenig Klarheit) kann von Behörden ohne Ausschreibung direkt mit Aufträgen [versorgt werden](https://pak-digs.gi.de/mitteilung/frag-den-staat-bmds-der-bescheid-war-eine-mogelpackung-tagesspiegel-background-interview-mit-dem-sprecher-des-gi-praesidiumsarbeitskreises-digitale-souveraenitaet), die Govtech dann nicht mal selbst umsetzt, sondern an seine Vereins-Mitglieder weiterverteilt, das Ganze ohne Legitimation der zuständigen Gremien und ohne demokratische (Kosten-)Kontrolle, und nach außen hin dann noch als staatliche Dienste darstellt. So auch bei der Steuerung der Gesundheitscloud in Baden-Würtemberg, zwar von einem anderen Verein gesteuert, Govtech Deutschland ist aber hier auch beteiligt. Umgesetzt werden die Lösungen zudem noch mit propriärerer Software quasi als Parallelstruktur zum eigentlich angestrebten digital souveränen Deutschland-Stack. Auf dem KGSt-Kongress in Leipzig [entlud sich der Unmut der Länder-CIOs](https://www.linkedin.com/posts/matthias-punz-805b17175_%F0%9D%97%98%F0%9D%98%85%F0%9D%97%B8%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80%F0%9D%97%B6%F0%9D%98%83-in-einigen-l%C3%A4ndern-w%C3%A4chst-share-7506585597625638912-BZ-C/) über diese Vorgänge.
 
 ### Berlin Hack
 * Berlin: Passwörter abgeflossen, 12.000 Systeme werden gescannt
@@ -235,6 +228,7 @@ Viele beklagen sich, dass sie im Fediverse nicht die Reichweite erzielen würden
   https://www.cyberkrisenmanagement.blog/verschlusssachen-in-der-kommunalverwaltung/
 * Mehr als 750 Menschen fürchten vom Hack der Senatsverwaltungen betroffen zu sein
   https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-attacke-verwaltung-senat-beschwerden.html
+
 ### EUDi
 * SPRIND sind Datenabflüsse im Kontext der #EUDiWallet egal
   https://mastodon.social/@bkastl/117240347390608059
@@ -247,6 +241,7 @@ Viele beklagen sich, dass sie im Fediverse nicht die Reichweite erzielen würden
   https://d-64.org/eudi-wallet-bericht/
 * EUDI-Wallet-App "d-you": Verbraucherschützer fordern besseren Datenschutz
   https://www.heise.de/news/EUDI-Wallet-App-d-you-Verbraucherschuetzer-fordern-besseren-Datenschutz-11462248.html
+
 ### Spark
 * Es hat nur 3,5 Monate gedauert, mir wurden Gebuehren von 500 EUR in Aussicht gestellt, aber: Jetzt laesst sich ein Preisschild an SPARK kleben. Laut BMDS seien bislang 32,6 Millionen EUR fuer SPARK Workflow und SPARK API ausgegeben worden
   https://fragdenstaat.de/anfrage/haushaltsmittel-fuer-die-spark-plattform/1148837/anhang/ifgbescheid-spark-kaufmann_geschwaerzt.pdf
