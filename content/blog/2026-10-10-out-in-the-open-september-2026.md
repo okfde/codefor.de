@@ -143,56 +143,39 @@ Dass zu den Midterm-Wahlen in den USA [erstmals keine OSZE-Wahlbeobachter zugela
 Wie sich öffentlich-rechtliche Medien im Zuge des technologischen Wandels und veränderten Hör- und Sehgewohnheiten [weiterentwickeln sollen](https://bsky.app/profile/dennishorn.de/post/3murouumluc27), können in Großbritannien Forschung als auch Mediennutzende [ausdiskutieren](https://www.bbc.co.uk/rd/articles/2026-09-future-public-service-media-technology). In Deutschland werden solche Entscheidungen leider eher Top-down getroffen. So sollen beim Deutschlandfunk Magazine wie [Forschung aktuell](https://de.wikipedia.org/wiki/Forschung_aktuell) der geplanten Programmreform [zum Opfer fallen](https://www.telepolis.de/article/Deutschlandfunk-Der-Mut-zur-Kultur-schwindet-11455144.html). Nach der soll ab dem 30. November Fachthemen nicht mehr konzentriert am Stück behandelt, sondern die Einzelbeiträge über den Tag verteilt werden.
 
 ## Digitale Souveränität
-* Schweizer E-ID: Justizminister Jans verhindert geheimen Amazon-Deal
-  https://www.heise.de/news/Schweizer-E-ID-Justizminister-Jans-verhindert-geheimen-Amazon-Deal-11437433.html
-* Der Ausfall von Exchange Online ist ein Warnsignal gegen IT-Monokulturen
-  https://www.heise.de/meinung/Kommentar-zum-Microsoft-Ausfall-Jetzt-zahlen-wir-den-Preis-der-Bequemlichkeit-11440057.html
-* Nodes of Resistance – Bewegung gegen Big Tech
-  https://capulcu.nublogs.org
-  https://noderesist.de
-* Autistici/Inventati: Pauschaler Terrorvorwurf
-  https://netzpolitik.org/2026/autistici-inventati-pauschaler-terrorvorwurf/
-  * Neues Archiv mit allen Noblogsseiten eröffnet!
-    https://nublogs.org
-  * Trumps Angriffe auf Linke - Gemeint sind wir alle
-    https://taz.de/Trumps-Angriffe-auf-Linke/!6214682/
-  * Autistici / Inventati: Es ist immer noch viel zu still
-    https://netzpolitik.org/2026/autistici-inventati-es-ist-immer-noch-viel-zu-still/
-  * Digitale Souveränität für jeden?
-    https://www.behoerden-spiegel.de/2026/09/29/digitale-souveraenitaet-fuer-jeden/
-* Digitale Selbstbestimmung: Freie Software - Diese Betriebssysteme achten unsere Privatsphäre
-  https://blog.wikimedia.de/2025/10/23/freie-betriebssysteme/
-* UnplugBigTech: Mehr Kontrolle über Android und iOS – Teil 9
-  https://www.kuketz-blog.de/unplugbigtech-mehr-kontrolle-ueber-android-und-ios-teil-9/
-* Bending Spoons übernimmt Miro, Kauf von Airtable abgeschlossen
-  https://www.heise.de/news/Bending-Spoons-uebernimmt-Miro-Kauf-von-Airtable-abgeschlossen-11449774.html
-* Bürgermeister auf Facebook & Co. gesperrt
-  https://steiermark.orf.at/stories/3370884/
-* Warum "Digitale Souveränität" auch bei Nationalisten so beliebt ist
-  https://media.ccc.de/v/2026-747-warum-digitale-souveranitat-auch-bei-nationalisten-so-beliebt-ist
-  via https://chaos.social/@StefanMuenz@vivaldi.net/117262429366259024
-* Fix the Wayback Machine!
-  https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/
-  via https://mastodon.archive.org/@internetarchive/117275710069576084
-* Bundeshaushalt: OSBA fordert Open-Source-Mindestquote, um digitale Resilienz und Souveränität zu erreichen
-  https://osb-alliance.de/pressemitteilungen/bundeshaushalt-osba-fordert-open-source-mindestquote-um-digitale-resilienz-und-souveraenitaet-zu-erreichen
-* "Digitale Enteignung": Datenschützer warnen vor Pauschalerlaubnis für KI-Training
-  https://netzpolitik.org/2026/digitale-enteignung-datenschuetzer-warnen-vor-pauschalerlaubnis-fuer-ki-training/
-* Digitale Selbstbestimmung, Freie Software: Reisen ohne Datenabdruck
-  https://blog.wikimedia.de/2026/01/21/freie-software-reisen-ohne-datenabdruck/
-* Sieg vor US-Gericht – Google muss Werbegeschäft nicht zerschlagen
-  https://www.spiegel.de/wirtschaft/google-gericht-sieht-keine-notwendigkeit-zur-zerschlagung-des-werbegeschaefts-a-1dda95a3-7710-4167-9bc2-abbc2e1cb38c
-  via https://bsky.app/profile/lobbycontrol.bsky.social/post/3mum5hqivhs2r
-* Es war nur eine Frage der Zeit, bis dieser Uralt-Klassiker aus der Geschichte des Internets dahingehend aktualisiert wurde.
-  https://bsky.app/profile/grantscheam.bsky.social/post/3mvpwxdxso5qe
-* Bundesdruckerei-Gruppe und ZenDiS starten Partnerschaft für digital souveräne Verwaltung
-  https://www.zendis.de/newsroom/presse/pressemeldung-kooperation-bdr-zendis
-* Nodes of Resistance
-  https://noderesist.de
-* Niederlande bauen souveränen Behördendesktop auf NixOS-Basis
-  https://www.heise.de/news/Niederlande-bauen-souveraenen-Behoerdendesktop-auf-NixOS-Basis-11470285.html
-* Unabhängigkeit durch Offenheit: Wie die öffentliche Hand die Potenziale von Open Source besser nutzen kann
-  https://okfn.de/publikationen/unabhaengigkeit-offenheit/
+### Lobby- und Marktmacht
+Wie durch das Magazin Republic.ch [jetzt erst enthüllt wurde](https://www.heise.de/news/Schweizer-E-ID-Justizminister-Jans-verhindert-geheimen-Amazon-Deal-11437433.html), sollten zentralen Aufgaben der Vertrauensinfrastruktur der Schweizer elektronische Identität (E-ID) von Amazon Web Services (AWS) übernommen werden. Erst Justizminister Jans stoppte die Auftragsvergabe im letzten Moment. Der Vertrag hätte Amazon erlaubt, technische Grundlagen unabgestimmt anzupassen, bei Systemausfällen kaum zu haften und nur 90 Tage Zeit zur Datenmigration im Falle einer Vertragsauflösung gewähren zu müssen. Aber allein schon die Existenz des US-Cloud-Acts ist mit dem Ziel einer digitalen Souveränität unvereinbar. 
+
+Auf der Onlinewerbebörse AdX werden Echtzeitauktionen für Anzeigen durchgeführt, die Nutzenden beim Besuch einer Internetseite eingeblendet werden. Die Börse gehört Alphabet, die gleichzeitig die Suchmaschine Google kontrolliert. Um die Marktmacht zu begrenzen, sollte der Konzert gezwungen werden, die Werbebörse zu verkaufen. Aber wie zuvor auch bei Chrome und Android, als auch bei Instagram und Whatsapp bei Meta, wurde diese Kartellklage von einem US-Gericht schließlich [in letzter Instanz abgewiesen](https://www.spiegel.de/wirtschaft/google-gericht-sieht-keine-notwendigkeit-zur-zerschlagung-des-werbegeschaefts-a-1dda95a3-7710-4167-9bc2-abbc2e1cb38c) obwohl gleichzeitig [zugegeben wird](https://bsky.app/profile/lobbycontrol.bsky.social/post/3mum5hqivhs2r), dass ein Monopol besteht.
+
+Ungestört weiter abgrasen [kann auch Bending Spoons](https://www.heise.de/news/Bending-Spoons-uebernimmt-Miro-Kauf-von-Airtable-abgeschlossen-11449774.html) die Software-Landschaft: die Investment-Heuschrecke hat die Übernahme von Airtable abgeschlossen, der Kauf von Miro muss nur noch formal genehmigt werden.
+
+[Nach dem geleakten Kompromissvorschlag](https://netzpolitik.org/2026/digitale-enteignung-datenschuetzer-warnen-vor-pauschalerlaubnis-fuer-ki-training/) der irischen Ratspräsidentschaft könnte Unternehmen das Trainieren von KI-Systemen mit personenbezogener Daten auch ohne Einwilligung oder Interessensabwägung, weil angeblich "berechtigtes Interesse", pauschal erlaubt werden. Datenschützer sprechen von "Digitale Enteignung", zumal diese "Erleicherung", die aber quasi einer "Abschaffung des Datenschutzes" bedeutet, vornehmlich nicht der europäischen Wirtschaft sondern hauptsächlich US-Konzernen zu Gute käme. 
+
+Damit Widerstand nicht zwecklos ist, soll anknüpfend an die Konferenz "Cables of Resistance" im April nun mit ["Nodes of Resistance"](https://noderesist.de) eine breite Bewegung [aufgebaut werden](https://capulcu.nublogs.org), die sich Big Tech entschlossen in den Weg stellt.
+
+### Ausgesperrt
+Wie im letzten Blogpost bereits berichtet, wurde das italienisches Internetkollektiv Autistici/Inventati (A/I) von der Trump-Regierung unter Terrorverdacht gestellt und mit Sanktionen belegt, wodurch unter anderem seine Web-Server gesperrt wurden. Davon betroffen ist auch die Blogging-Plattform Noblogs.org, deren Inhalte zu mindestens [in einem Archiv](https://nublogs.org) gerettet werden konnten. Der eigentliche Skandal liegt darin, dass kein einziges Gericht, [die Vorwürfe geprüft hat](https://netzpolitik.org/2026/autistici-inventati-pauschaler-terrorvorwurf/), und trotzdem die Abschaltung erfolgen konnte, weil behördliche Entscheidungen aus Washington keine Gerichtsurteile abwarten müssen, und trotzdem von Domänen-Vergabestelle, Banken und Zahlungsdienstleister (alle abhängig vom US-Finanzsystem oder US-Gesetzen) befolgt werden müssen. Die aus Solidarität mit A/I von der Digital-NGO EDRi (European Digital Rights)  veröffentliche [Stellungnahme](https://edri.org/our-work/edri-solidarity-statement-autistici-inventati/) wurde von über 30 zivilgesellschaftliche Organisationen aus Europa unterzeichnet. Denn es ist zu befürchten, dass die politisch motivierte Abschaltung von A/I einen gefährlichen Präzedenzfall für weitere solcher Aktionen darstellen kann. [Denn gemeint sind wir alle](https://taz.de/Trumps-Angriffe-auf-Linke/!6214682/) mit diesen Angriffen, auch wenn es [Überwindung kostet](https://netzpolitik.org/2026/autistici-inventati-es-ist-immer-noch-viel-zu-still/), sich offen solidarisch zu zeigen, weil der Terrorismusvorwurf so schwer und die Androhung, Sympanthisantin ins Ziel nehmen zu wollen, einschüchtern wirkt. Es wird hier auch [die ganz persönliche](https://www.behoerden-spiegel.de/2026/09/29/digitale-souveraenitaet-fuer-jeden/) digitale Souveränität verhandelt, die leicht in Vergessenheit gerät, wenn man sich hauptsächlich mit der digitalen Souveränität von Staaten, Behörden und Unternehmen beschäftigt.
+
+Wie schnell man gesperrt wird, [zeigt der Fall des Bürgermeisters](https://steiermark.orf.at/stories/3370884/) von Tieschen (Österreich), der in einem Facebook-Beitrag Donald Trump mit der AfD verglichen hatte. Kurz darauf hat ihm Meta ohne Begründung sowohl Facebook, Instagram und WhatsApp gesperrt.
+
+[Mit dem unbeabsichtigten Ausfall](https://www.heise.de/meinung/Kommentar-zum-Microsoft-Ausfall-Jetzt-zahlen-wir-den-Preis-der-Bequemlichkeit-11440057.html) von Micosofts Exchange Online am 31. August gingen unter anderem auch kein MS Teams und SharePoint mehr. Zwei Tage lange keinen Zugriff auf Chats und geteilte Dokumente zu haben, sollte für Augen führen, wie schlecht die Abhängigkeit von einzelnen Anbietern ist. Nur wird es bei den betroffenen Unternehmen und Institutionen am Ende auch zu einem Umdenken führen? Oder ist die Bequemlichkeit, alles aus einer Hand zu bekommen, immer noch zu groß?
+
+### Öffentliche Hand
+Die Bundesregierung will auf Open Source setzen, das ist gut, kann aber mit dem falschen Mindset potenziell in die völlig falsche Richtung gehen. Die Open Knowledge Foundation Deutschland [schlägt deswegen vor](https://okfn.de/publikationen/unabhaengigkeit-offenheit/), eine wirksame Umsetzungsstrategie eng an das Instrument der [Open Source Program Offices (OSPOs)](https://de.wikipedia.org/wiki/Open_Source_Program_Office) zu knüpfen und institutionell zu verankern. Diese stellen sicher, dass öffentliche Mittel vorrangig in etablierte Open-Source-Projekte investiert werden, statt isolierte Eigenentwicklungen zu finanzieren. Denn Sinn eines Open-Source-Ökosystems ist es, dass das schon Bestehende versucht wird zu nutzen, dieses ggf. zu verbessern, zu erweitern und anzupassen. Änderungen sollen, wenn auch sinnvoll für das bestehende Projekt, zurückfließen. Nur wenn die eigenen Bedarfe und Wünsche zu speziell sind, sind Eigenentwicklungen erlaubt, diese sollte aber auch Open-Source veröffentlicht werden, damit im Sinne von Public-Money-Public-Code andere vom Wissen und Lösungen profitieren, oder gar in die gemeinschaftliche Weiterentwicklung einsteigen können.
+
+Die Bundesdruckerei-Gruppe und das Zentrum für Digitale Souveränität der Öffentlichen Verwaltung (ZenDiS) haben [einen gemeinsamen Letter of Intent unterzeichnet](https://www.zendis.de/newsroom/presse/pressemeldung-kooperation-bdr-zendis), der ihre künftige strategische Partnerschaft besiegelt. In dieser sollen souveräne IT-Infrastrukturen, Betriebsmodelle und Open-Source-Lösungen entwickelt, erprobt und skaliert werden.
+
+Der Staat muss an allen Ecken sparen, die Open Source Business Alliance (OSBA) hat da [einen konkreten Vorschlag](https://osb-alliance.de/pressemitteilungen/bundeshaushalt-osba-fordert-open-source-mindestquote-um-digitale-resilienz-und-souveraenitaet-zu-erreichen): "20 Prozent der Ausgaben für Software vom allgemeinen IT-Budget von rund sieben Milliarden Euro in offene Software investieren, statt für hunderte Millionen Euro proprietäre Lizenzen von monopolartigen Tech-Konzernen einkaufen".
+
+Der niederländische Staat [treibt den Aufbau](https://www.heise.de/news/Niederlande-bauen-souveraenen-Behoerdendesktop-auf-NixOS-Basis-11470285.html) eines modularen Open-Source-Systems als Arbeitsumgebung für die öffentliche Verwaltung voran, sie wird auf der Linux-Distribution NixOS basieren, die NixOS-Foundation hat ihren Sitz in den Niederlanden.
+
+### Alternativen
+[Arthur Taylor versucht im Wikimedia-Blog](https://blog.wikimedia.de/2025/10/23/freie-betriebssysteme/) die Angst vor dem Umstieg auf ein anderes, Privatsphäre-achtendes Betriebssystem zu nehmen, sei es auf dem Desktop-Rechner oder auf dem Handy. Denn für die meisten Menschen reicht es völlig, wenn ihr Betriebssystem einen Webbrowser öffnen kann. Und auch so nehmen sich die freien Alternativen nicht mehr so viel von den großen Platzhirschen in punkto Bedienbarkeit. 
+
+Auch wenn man vor allem auf dem Handy noch den kompletten Wechsel des Betriebssystems scheut, kann man schon [mit einigen Nachjustierungen](https://www.kuketz-blog.de/unplugbigtech-mehr-kontrolle-ueber-android-und-ios-teil-9/) in der Konfiguration oder der Wahl der installierten Apps (und wiederum in deren Konfiguration) wieder mehr Kontrolle (über den (Nicht-)Abfluss seiner Tracking-Daten) zurück gewinnen.
+
+Das Hijacken positiv besetzter Begriffen und ihre Vereinnahmung und Umdeutung für ganz andere Ziele hat leider ein gewisse Tradition. So auch zu beobachten beim Begriff "Digitale Souveränität", unter dessen Label nun einige Unternehmen ihre "deutsche" Lösung zu vermarkten versuchen, oder gar von Nationalisten zur Abgrenzung von dem guten "Innen" und dem bösen "Außen" missbraucht werden kann. Also den Begriff versuchen zurückzuerobern, oder ihn doch auf die Liste verbrannter Worte zu setzen, [wie es Stefan in seinem Vortrag vorschlägt](https://media.ccc.de/v/2026-747-warum-digitale-souveranitat-auch-bei-nationalisten-so-beliebt-ist), und ein neue Wortmarke schöpfen, die aber genauso wieder vereinnahmt werden kann? Oder verstellt die [Wortklauberei](https://de.wikipedia.org/wiki/Wortklauberei) den eigentlichen Kampf um die Deutungshohheit? Haben wir wirklich verstanden, was wir wollen, und können das auch ausdrücken, ohne das Buzzword zu verwenden? Und sind wir in der Lage, das immer wieder neu zu erklären, [zu hinterfragen](https://social.vivaldi.net/@StefanMuenz/117262429079573902) und ggf. auch an neue Gegebenheiten anzupassen? Oder benutzen wir inflationär Begriffe als Schmückwerk, und hat ihren eigentlichen Inhalt längst vergessen (oder nie gelernt)? Wie können wir uns geeignet ohne Opa-erzählt-vom-Krieg-Vibes kritisch in die Debatte einbringen und auf den nackten Kaiser zu zeigen? Vielleicht mehr [Sokratisches Fragen](https://de.wikipedia.org/wiki/Sokratische_Methode) und die richtigen Adressaten finden?
 
 ## Open Source
 * Versatiles - Offener Brief an die ARD
@@ -589,6 +572,10 @@ Wie sich öffentlich-rechtliche Medien im Zuge des technologischen Wandels und v
 * Libre Workspace AI
   https://ai.libre-workspace.org
   https://gitlab.jf-vogelbacher.de/jean/libre-workspace-ai
+* Fix the Wayback Machine!
+  https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/
+  via https://mastodon.archive.org/@internetarchive/117275710069576084
+
 
 ## Recap
 * [MRMCD 2026](https://media.ccc.de/c/mrmcd26)
