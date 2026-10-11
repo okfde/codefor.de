@@ -225,7 +225,7 @@ Auch die Neugestaltung des Gebäudemodernisierungsgesetz kann als Geschenk an di
 ### Geld verbrennen
 Die deutschen Speicher sind nur gut zur Hälfte gefüllt, der gesetzlich vorgeschriebene Ziel-Füllstand von 80 Prozent zum 1. November damit wohl nicht mehr zu erreichen. Gleichzeitig ist der Gaspreis gerade [um weitere 40 Prozent gestiegen](https://www.fr.de/wirtschaft/und-die-bundesregierung-schaut-nur-zu-gaspreis-auf-dreijahreshoch-zr-94473114.html) und erreicht damit [einen neuen Höchststand seit 2022](https://dju.social/@DerKlimablog/117281706711759760). Doch jetzt erst hat hat Reiche das bundeseigene Energieunternehmen Sefe [angewiesen](https://taz.de/Gasversorgung-im-Winter/!6217627/), bis zum 15. Dezember 8 Terawattstunden Gas zu beschaffen. [Man könnte den Verantwortlichen unterstellen](https://bsky.app/profile/rastadler.bsky.social/post/3murime2dis2c), die Gasspeicher bewusst leerlaufen lassen zu haben, damit die Gasindustrie nun bei den hohen Preisen schön hohe Gewinne für sich erzielen zu können.
 
-Nur ein paar Wochen ist die Aussage von Merz über den auf zwei Monaten befristeten Einsatz des Tankrabatts im Sommer: "Wir können die hohen Weltmarktpreise in Deutschland nicht auf Dauer korrigieren mit nationalen Maßnahmen." Kurz vor den Wahlen in Berlin und Mecklemburg-Vorpommern [dann der Sinneswandel](https://climatejustice.global/@parents4future/117293783842876580), doch ein neuer Tankrabatt. Genutzt hat es den Regierungsparteien bei den Wahlen kaum, die Kosten für die Steuerzahlenden kommen dennoch. Hier zeigen sich die Prioritäten, wo und wer entlastet wird, und [wer eben nicht](https://taz.de/Debatte-um-Spritpreise/!6213364/). Man hätte auch andere Stelle entlasten, wo nicht die Gefahr besteht, dass die Mineralölkonzerne die Entlastungen nicht weitergeben, z.B. bei Deutschlandticket, bei Mieten oder Lebensmitteln. 
+Nur ein paar Wochen ist die Aussage von Merz über den auf zwei Monaten befristeten Einsatz des Tankrabatts im Sommer: "Wir können die hohen Weltmarktpreise in Deutschland nicht auf Dauer korrigieren mit nationalen Maßnahmen." Kurz vor den Wahlen in Berlin und Mecklemburg-Vorpommern [dann der Sinneswandel](https://climatejustice.global/@parents4future/117293783842876580), doch ein neuer Tankrabatt. Genutzt hat es den Regierungsparteien bei den Wahlen kaum, die Kosten für die Steuerzahlenden kommen dennoch. Hier zeigen sich die Prioritäten, wo und wer entlastet wird, und [wer eben nicht](https://taz.de/Debatte-um-Spritpreise/!6213364/). Man hätte auch andere Stelle entlasten, wo nicht die Gefahr besteht, dass die Mineralölkonzerne die Entlastungen nicht weitergeben, z.B. bei [Deutschlandticket](https://mastodon.social/@christianschwaegerl/117360812283970412), bei Mieten oder Lebensmitteln. 
 
 ### Gegen Erneuerbare
 Der Regierungsentwurf für das Erneuerbare-Energien-Gesetz (EEG) sieht vor, die Vergütung von Windrädern, nach ihrem Energiegewinnungs-Potential an ihrem jeweiligen Standort zu bemessen. Dadurch würde der geplante Bürgerwindpark im Kreis Borken [deutlich weniger Geld bekommen](https://www1.wdr.de/nrw/muensterland/kreis-borken/windpark-borken-kuestenregion-beteiligung-100.html), da der Kreis trotz 150 Kilometern Entfernung zur Nordsee nun als Küstenregion eingestuft wird.
@@ -271,68 +271,48 @@ Google Maps hat [neue Satellitenbilder freigegeben](https://www.tagesspiegel.de/
 [Eine UN-Resolution](https://press.un.org/en/2026/ga12779.doc.htm) spricht sich für den häufigeren Einsatz der [Equal-Earth-Projektion](https://de.wikipedia.org/wiki/Equal-Earth-Projektion) bei der Darstellung der Weltkarte aus. Die aktuell am meisten verwendete Mercator-Projektionen stellt die Größe von Ländern und Kontinenten zu verzerrt dar, wodurch z.B. Afrika und Indien, die nach am Äquator liegen, kleiner erscheinen, als sie tatsächlich sind, während Grönland und Russland verhältnismßig groß erscheinen. Auf [thetruesize.com](https://thetruesize.com/) kann man ein Land auswählen und dann in an verschiedenen Stellen der Mercator-Karte schieben, um zu sehen, wie sehr die Position die Größe verzerrt.
 
 ## Mobilität
-* ADFC-Fahrradklima-Test 2026: Wie fahrradfreundlich ist dein Ort?
-  https://fkt.adfc.de
-* ÖV-Atlas zeigt für jeden Ort in Deutschland die Qualität des öffentlichen Verkehrs
-  https://www.agora-verkehrswende.de/veroeffentlichungen/oev-atlas-2026
-  via https://agora-thinktanks.social/@agoraverkehr/117194956869787314
-* Open Traffic Map
-  https://opentrafficmap.org
-  via https://www.heise.de/hintergrund/OpenTrafficMap-Live-Verkehrskarte-im-Eigenbau-11406126.html
-* Initiative Deutschlandtakt
-  https://initiative-deutschlandtakt.de
-  * Agenda für bessere Bahn 2035 veröffentlicht
-    https://initiative-deutschlandtakt.de/agenda-fuer-bessere-bahn-2035-veroeffentlicht/
-* Welche Höchstgeschwindigkeit gilt vor der Schule?
-  https://tursics.github.io/schule-speed-limit/
-  via https://www.linkedin.com/comm/feed/update/activity:7504981818698366976
-* On-Demand-Verkehre: :Wie der ÖPNV das Potenzial flexibler Mobilität verspielt
-  https://background.tagesspiegel.de/verkehr-und-smart-mobility/briefing/wie-der-oepnv-das-potenzial-flexibler-mobilitaet-verspielt
-* VerkehrsInfo BW
-  https://verkehrsinfo-bw.de
-  via https://mastodon.social/@eliasp/117347967875097959
-* Kosten Tankrabatt vs Deutschlandticket
-  https://mastodon.social/@christianschwaegerl/117360812283970412
+Beim jährlichen [ADFC-Fahrradklima-Test](https://fkt.adfc.de) kann man wieder bewerten, wie fahrradfreundlich der eigene Ort ist.
+
+Auf der Seite [Schulweg-Sicherheit in Berlin](https://tursics.github.io/schule-speed-limit/) wird für aus dem Verhältnis der Gesamtlänge von Straßen mit und ohne Tempolimit ein Sicherheits-Score für jede Straße in der 400m x 400m Umgebung einer Grundschule [berechnet](https://www.linkedin.com/comm/feed/update/activity:7504981818698366976).
+
+Der [ÖV-Atlas 2026](https://www.agora-verkehrswende.de/veroeffentlichungen/oev-atlas-2026) der Agora Verkehrswende [zeigt für jeden Ort](https://agora-thinktanks.social/@agoraverkehr/117194956869787314) in Deutschland die durchschnittliche Erschließungsqualität des öffentlichen Verkehrs an einem Werktag. Einflussgrößen sind Entfernung zwischen Wohnort und Haltestelle, Taktdichte und Art des Verkehrsmittels. 
+
+Die Wissenschaftszentrum-Berlin-für-Sozialforschung-(WZB)-[Studie](https://bibliothek.wzb.eu/pdf/2026/iii26-304.pdf) "Kannibalisierung und Rosinenpickerei? Wie die On-Demand Verkehre an die Kette des öffentlichen Verkehrs gebunden und damit teuer und unattraktiv wurde" beschreibt, wie strenge gesetzliche Vorgaben (auch Angst den bestehenden Taxi- und ÖPNV-Verkehr zu schaden) und fehlende Standardisierung bei der Buchung dem Durchbruch dieser flexiblen Mobilitätsform [geschadet haben](https://background.tagesspiegel.de/verkehr-und-smart-mobility/briefing/wie-der-oepnv-das-potenzial-flexibler-mobilitaet-verspielt).
+
+Die [Initiative Deutschlandtakt](https://initiative-deutschlandtakt.de) hat eine [Agenda für bessere Bahn 2035](https://initiative-deutschlandtakt.de/agenda-fuer-bessere-bahn-2035-veroeffentlicht/) veröffentlicht.
+
+Auf [Verkehrsinfo BW](https://verkehrsinfo-bw.de) werden Echtzeitverkehrsdaten, Straßensperrungen, Baustellen, Parkplatzbelegungen und mehr von [MobiData BW](https://mobidata-bw.de) für Baden-Württemberg [bereitgestellt](https://mastodon.social/@eliasp/117347967875097959).
+
+Das Projekt [OpenTrafficMap](https://opentrafficmap.org) visualisiert und analysiert C-ITS-Daten (Cooperative Intelligent Transport Systems) auf einer Karte, auf der man so [sehen kann](https://wiki.opentrafficmap.org), welche Daten Ampeln, Straßenbahnen, Busse und moderne Autos bereits heute unverschlüsselt aussenden und die man auch für die Verkehrsplanung [heranziehen könnte](https://www.heise.de/hintergrund/OpenTrafficMap-Live-Verkehrskarte-im-Eigenbau-11406126.html). Die Implementierung der Karte [ist auch Open Source](https://codeberg.org/opentrafficmap).
 
 ## Finanzen
-* EU-Rechnungsprüfer warnen: Trotz hoher Verteidigungsausgaben schlecht gerüstet
-  https://taz.de/EU-Rechnungspruefer-warnen/!6210381/
-* Kleine Pakete von Online-Shops kosten bei Einfuhr bald extra
-  https://www.heise.de/news/Kleine-Pakete-von-Online-Shops-kosten-bei-Einfuhr-bald-extra-11455698.html
-* "Anscheinend glaubt die Schufa, eine Art halbgöttliche Institution zu sein"
-  https://www.sueddeutsche.de/wirtschaft/schufa-datenspeicherung-gericht-noyb-datenschutz-li.3545323
-* Zum ersten Mal seit 1945 haben Bundesverfassungsgericht, Bundesrechnungshof und Bundesrat ihre Etats gegenüber dem Bundesfinanzministerium streitig gestellt, weil notwendige Mittel zur Aufgabenerfüllung nicht zur Verfügung gestellt werden.
-  https://bsky.app/profile/paulapiechotta.de/post/3mw6xyq5dko2q
-* Deutschlands Rekordschulden: Warum die Zahl wenig aussagt
-  https://www.zdfheute.de/wirtschaft/deutschland-schulden-staatsverschuldung-steigerung-100.html
-  * Wer hält Deutschlands Staatsschulden? Zentralbanken, Banken und internationale Investoren
-    https://www.eudebtmap.com/de/articles/wer-haelt-deutsche-staatsschulden-2026
+Nicht die absolute Höhe, sondern das Verhältnis von Schulden im Verhältnis zur Wirtschaftsleistung, also die Schuldenquote, ist die entscheidende Kennziffer. Und wenn hier Deutschland mit 63,5% kann über der Zielmarke für EU-Mitgliedsländer von 60 Prozent liegt, steht man im internationalen Vergleich [noch solide da](https://www.zdfheute.de/wirtschaft/deutschland-schulden-staatsverschuldung-steigerung-100.html). Die Quote in den USA liegt bei 120%, in Italien sogar bei 135%. Wiedervereinigung, Finanzkrise 2008, Corona-Hilfen 2020-2022, Ukraine-Krieg seit 2022 und auch damit verbundene Energiekrise, die durch Iran- und Nahost-Konflikt weiter fortbesteht, aber auch das Nachholen notwendiger Investitionen in die Infrastruktur, sind Schuldentreiber. Zur Krediteaufnahme verkauft der Staat Bundesanleihen, die von Investoren (49% davon aus dem Ausland) gekauft werden und dafür Zinsen bekommen. Mit steigenden Schulden steigt somit auch die Zinslast. Die [EU Debt Map](https://www.eudebtmap.com/de) hat noch genauere [Statistiken über die Gläubigerstruktur](https://www.eudebtmap.com/de/articles/wer-haelt-deutsche-staatsschulden-2026). 
 
-## Bildung
-* PISA-Studie: Deutsche Schüler schneiden so schlecht ab wie nie zuvor
-  https://www.tagesschau.de/inland/gesellschaft/pisa-deutschland-schueler-100.html
-  via https://mastodon.social/@bkastl/117234274942120157
-* Wales falls further behind rest of UK in international school tests
-  https://www.bbc.com/news/articles/c5y52yq0nypo
-  via https://bsky.app/profile/teresabuecker.bsky.social/post/3muzsntwrfs26
+[Der Europäische Rechnungshof kritisiert](https://taz.de/EU-Rechnungspruefer-warnen/!6210381/) die Ausgabenpolitik der europäischen Staaten bei der Rüstung, denn trotz hoher Verteidigungsausgaben, wird mit unkoordinierten Investitionen und ohne übergreifende Strategie kaum die Verteidigungsbereitschaft bis 2030 erreicht, dafür geraten die Ausgaben des restlichen Haushalts weiter unter Druck.
+
+Zum ersten Mal in seiner Geschichte muss sich das Bundesverfassungsgericht (BVerfG) mit dem Finanzministerium [um seine Mittelausstattung streiten](https://www.beck-aktuell.de/rechtsbranche/justiz-behoerden/bmf-bverfg-personal-haushalt-streit-mittel-2026-09-30). Denn nach Koalitionsvertrag muss der Personalbestand im Zuge der verordneten Sparpolitik in der Ministerialverwaltung sowie in bestimmten nachgeordneten Behörden bis 2029 um mindestens acht Prozent sinken. Das BVerfG möchte aber 13 zusätzliche Stel­len und bekommt sie nun bisher nicht be­wil­ligt.
+
+Schon seit Juli 2026 müssen Billigimporte in die EU verzollt werden (pauschal drei Euro pro Warengruppe), ab 1. November [wird zusätzlich eine Bearbeitungsgebühr fällig](https://www.heise.de/news/Kleine-Pakete-von-Online-Shops-kosten-bei-Einfuhr-bald-extra-11455698.html), um die Kosten für die Sichtung und Kontrolle der vielen kleinen Sendungen zu decken. 
 
 ## Gesundheit
-* Gehirn-Computer-Schnittstellen: Datenschützer warnen vor Big Tech
-  https://www.heise.de/news/Forschung-mit-Neurodaten-BfDI-fuer-mehr-Mut-aber-klare-Grenzen-fuer-Big-Tech-11441245.html
-* Krankenkassen droht womöglich Milliardenverlust
-  https://www.tagesschau.de/investigativ/krankenkassen-verluste-anlagen-100.html
-  * Krankenkassen haben deutlich mehr Geld in Immobilienfonds versenkt als bislang bekannt
-    https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3
-* ePA für alle: "25 Seiten schreiben, um zu erklären, wie man Dokumente hochlädt"
-  https://www.heise.de/news/Krankenhaus-IT-Es-ist-sehr-sehr-schwer-fuer-uns-den-Ueberblick-zu-behalten-11455496.html
-* 30 Jahre Krankenhaus-IT: Zwischen Digitalstrategie, Epic-Debatte und Faxgerät
-  https://www.heise.de/news/30-Jahre-Krankenhaus-IT-Zwischen-Digitalstrategie-Epic-Debatte-und-Faxgeraet-11460318.html
+[Insgesamt 1,1 Milliarden Euro](https://www.spiegel.de/wirtschaft/soziales/krankenkassen-haben-deutlich-mehr-geld-in-immobilienfonds-versenkt-als-bislang-bekannt-a-14fc7097-2272-44a9-88b7-8e18ca5c67f3) haben mindestens 11 Krankenkassen in "leistungsgestörte Geldanlagen" investiert und damit deutlich mehr als die bisher berichteten 170 Millionen Euro. Dabei gelten für Krankenkassen und Kassenärztlichen Vereinigungen [strenge Anlagerichtlinien](https://www.tagesschau.de/investigativ/krankenkassen-verluste-anlagen-100.html), nach denen die ihnen anvertrauten Gelder nur sehr risikoarm anlegen dürfen. 
+
+Der Fortschritt bei Gehirn-Computer-Schnittstellen [erfordert auch eine wirksame Regulierung](https://www.heise.de/news/Forschung-mit-Neurodaten-BfDI-fuer-mehr-Mut-aber-klare-Grenzen-fuer-Big-Tech-11441245.html) beim Zugang und Umgang mit Neurodaten, damit ausgeschlossen wird, dass großer Tech-Konzerne aus ihnen heimlich Emotionen und Persönlichkeitsprofile ableiten.
+
+[Auf der Jubiläumsveranstaltung](https://www.heise.de/news/30-Jahre-Krankenhaus-IT-Zwischen-Digitalstrategie-Epic-Debatte-und-Faxgeraet-11460318.html?seite=all) des Krankenhaus-IT-Verbandes wurde über die Digitalisierung im Gesundheitswesen, rechtliche Pflichten, Finanzierung und die richtige Strategie für die Zukunft gesprochen. Dass man nach dem Rückzug von SAP aus dem Markt für Krankenhausinformationssysteme (KIS) nun auf die monolitische Lösung des US-amerikanische Anbieter Epic setzt, passt nicht so richtig in das Zielbild digitaler Souveränität, offener Standards und Schnittstellen. Zumal es mit [openEHR](https://openehr.org) eine offene Alternative gegeben hätte. Aber man fürchtet da einen höheren Koordinationsaufwand. Unabhängig davon betreibt die Charité in Berlin einen zentralem klinischen Datenspeicher (Clinical Data Repository) und Terminologieserver und möchte diese weiter ausbauen, um so strukturierte Daten bereitstellen zu können, auch wenn der semantische Abgleich immer noch eine Herausforderung darstellt.
+
+## Bildung
+Die PISA-Studie testet weltweit in mehr als 90 Ländern, ob 15-Jährige ihr Wissen anwenden können, z.B. beim Textverständnis, Preisvergleich, Diagrammgrafiken richtig deuten. In diesem Jahr haben die deutschen Schüler das [schlechteste Ergebnis seit Beginn der Erhebung erbracht](https://www.tagesschau.de/inland/gesellschaft/pisa-deutschland-schueler-100.html). Gerade aber die Fähigkeit, Informationen kritisch zu hinterfragen, Zusammenhänge zu erkennen und einen eigenen Standpunkt zu entwickeln, werden gerade im KI-Zeitalter immer wichtig, daher findet OECD-Bildungsdirektor Andreas Schleicher diesen Negativtrend für alarmierend. Aber auch in anderen Länder sind die Jugendlichen von diesem Problem, lange und komplexe Texte lesen und verstehen zu können, betroffen. Dass unsere Bundesregierung die richtigen Schlüsse und geeignete Gegenmaßnahmen ergreifen wird, [ist eher nicht zu erwarten](https://www.bbc.com/news/articles/c5y52yq0nypo). 
 
 ## Kultur
+Es heißt immer, das Internet vergesse nichts. Dem ist aber nicht so. 38 Prozent der Webseiten aus 2013 sind heute nicht mehr erreichbar. Die durchschnittliche Lebenszeit einer Webseite liegt gerade mal bei 100 Tagen, sehr dynamische Webinhalten ändern sich gar im Minutentakt. Der Historiker Jens Crueger beschäftigt sich schon seit vielen Jahren mit dem Thema Web-Archivierung. Für ihn sind Web-Archive kritische Infrastruktur. [Es fehlt eine Strategie](https://netzpolitik.org/2026/kritische-infrastruktur-bei-der-web-archivierung-fehlt-die-strategie/) für einen definierten Sammlungsauftrag. Alles dem Internet Archive in den USA zu überlassen ist jedenfalls keine gute Strategie.
+
+
+
 * Berlin digital handlungsfähig machen: Warum Kultur digitale Grundlagen braucht
   https://www.technologiestiftung-berlin.de/profil/blog/berlin-digital-handlungsfaehig-machen-warum-kultur-digitale-grundlagen-braucht
-* Kritische Infrastruktur: Bei der Web-Archivierung fehlt die Strategie
-  https://netzpolitik.org/2026/kritische-infrastruktur-bei-der-web-archivierung-fehlt-die-strategie/
+
+
 * Global GLAM Wiki Call
   https://meta.wikimedia.org/wiki/File:Global_GLAM_Wiki_call_23.webm
   https://meta.wikimedia.org/wiki/Global_GLAM_calls
