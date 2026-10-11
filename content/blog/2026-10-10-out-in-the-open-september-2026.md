@@ -89,7 +89,7 @@ FragDenStaat [erinnert an die Menschengruppen](https://fragdenstaat.de/artikel/e
 ### Reaktionen der Politik
 Die zweifelhafte Kunst, sich innerhalb weniger Sätze zu widersprechen, hat [Kanzler Merz](https://noch-kanzler.de), in seiner schnellen Reaktion auf das sich abzeichnende Wahlergebnis in Sachsen-Anhalt, [auf die Spitze getrieben](https://www.welt.de/politik/deutschland/article6a9e9e24721eb476650a2766/sachsen-anhalt-wahl-dieses-wahlergebnis-loest-grosse-erschuetterungen-aus-sagt-merz-und-deutet-konsequenzen-an.html), indem er einerseits davon sprach, dass Wahlniederlage "Konsequenzen haben müssen", um wenig später aber zu betonen, dass seine "Entschlossenheit, den Reformkurs fortzusetzen, ungebrochen" sei. Merz ist damit nicht nur (nach Selbstauskunft) seit Geburt privat versichert, sondern offensichtlich seit dem auch schon altersstarsinnig und hat entsprechend nichts dazu gelernt. Er kann konsquenterweise nicht aus seinem Welt- und Menschenbild ausbrechen. Wie der ehemalige Gesundheitsminister [richtigerweise anmerkt](https://bsky.app/profile/cihancelik.bsky.social/post/3mw2afnfr322k): "Reformen gegen den Widerstand der Bevölkerung braucht viel weniger Mut als gegen Widerstand der Lobbyisten". Stattdessen bezieht sich Merz' "Rückgrat" und "Standhaftigkeit" darauf, [bei armutsbetroffenen Familien den Kinderzuschlag zu kürzen oder bei Alleinerziehenden, der ärmsten Familien-Gruppe, zu sparen](https://bsky.app/profile/teresabuecker.bsky.social/post/3mvxsdqd7gs2o).
 
-Wie mit zweierlei Maßstäben gemessen wird, [zeigt sich auch beim Umgang mit der AfD](https://bsky.app/profile/tallbikeboy.de/post/3mwaxbchsfs2x). Während Söder nach der Wahl in Sachsen-Anhalt ausschloss, Mittel aus dem Länderfinanzausgleich zu streichen ("Man kann den Länderfinanzausgleich nicht als Bestrafung für ein Land nutzen"), klang das nach der Wahl in Berlin schon ganz anders: "Es kann nicht sein, dass extremistische Politik, antidemokratische Politik und vor allem antisemitische Politik noch belohnt wird", "Wir brauchen eine grundlegende Neuordnung des Länderfinanzausgleichs". [Es ist aber davon auszugehen](https://taz.de/Union-und-der-Laenderfinanzausgleich/!6217293/), dass die geplante Vergesellschaftung von Immobilien der eigentliche Grund ist. "Antisemitismus und Enteignung gefährden unsere Wirtschaft" ist ein Video mit Katharina Reiche überschrieben, in dem sie sich klar politisch äußert, allerdings auf dem Instagram-Account des Wirtschaftsministeriums und sich [deswegen eine Klage der Linke eingehandelt hat](https://www.fr.de/politik/berliner-linke-klagt-gegen-wirtschaftsministerin-reiche-frist-bis-dienstag-zr-94512929.html), da sie damit gegen das für sie als als Ministerin geltende Neutralitätsgebot verstößt. Den sächsischen Innenminister halten solche Gebote [ebenfalls nicht davon ab](https://www.l-iz.de/politik/sachsen/2026/09/schuster-warnt-auf-behoerdenaccounts-vor-linker-regierung-in-berlin-671372), auch auf einem offiziellen Behördenaccount vor einer linken Regierung in Berlin zu warnen. Nachdem Wahlergebnis in Sachsen-Anhalt hat man von diesen Minister:innen jedenfalls keine solchen Empörungsstürme vernommen. Vielleicht weil man inhaltlich von der AfD nicht so weit weg ist, wie man offen zugegeben. Das Grundrecht auf Asyl [zu streichen](https://www.spiegel.de/politik/deutschland/sachsen-cdu-innenminister-armin-schuster-will-grundrecht-auf-asyl-streichen-a-70fa62a7-9f06-4d42-9f35-b62bc7ef027a), wie es Sachsens Innenminister jüngst gefordert hat, hätte jedenfalls auch ein AfD-Vorstoß sein können. Für sein pennelerhaft grinsendes "Na doch" in ZDF-Talkshow "Maybrit Illner" zur Behauptung, Elif Eralp sei eine "Antisemitin wurde der Bundesinnenminister Alexander Dobrindt gleichermaßen von den Linken wegen üblen Nachrede und Beleidigung angezeigt. Zum Vergleich: wenn die CDU zusammen mit der AfD im sächsischen Heidenau [einen Antrag einbringen](https://www.spiegel.de/panorama/gesellschaft/heidenau-in-sachsen-stadtraete-von-cdu-und-afd-wollen-keine-stolpersteine-mehr-a-866a65b7-7ed7-4635-8a23-fd283104d5c8), der fordert, die Verlegung sogenannter Stolpersteine "im öffentlichen Straßen- und Gehwegbereich" künftig abzulehnen, ist das natürlich kein Antisemitismus (und auch kein Einreißen der Brandmauer).
+Wie mit zweierlei Maßstäben gemessen wird, [zeigt sich auch beim Umgang mit der AfD](https://bsky.app/profile/tallbikeboy.de/post/3mwaxbchsfs2x). Während Söder nach der Wahl in Sachsen-Anhalt ausschloss, Mittel aus dem Länderfinanzausgleich zu streichen ("Man kann den Länderfinanzausgleich nicht als Bestrafung für ein Land nutzen"), klang das nach der Wahl in Berlin schon ganz anders: "Es kann nicht sein, dass extremistische Politik, antidemokratische Politik und vor allem antisemitische Politik noch belohnt wird", "Wir brauchen eine grundlegende Neuordnung des Länderfinanzausgleichs". [Es ist aber davon auszugehen](https://taz.de/Union-und-der-Laenderfinanzausgleich/!6217293/), dass die geplante Vergesellschaftung von Immobilien der eigentliche Grund ist. "Antisemitismus und Enteignung gefährden unsere Wirtschaft" ist ein Video mit Katharina Reiche überschrieben, in dem sie sich klar politisch äußert, allerdings auf dem Instagram-Account des Wirtschaftsministeriums und sich [deswegen eine Klage der Linke eingehandelt hat](https://www.fr.de/politik/berliner-linke-klagt-gegen-wirtschaftsministerin-reiche-frist-bis-dienstag-zr-94512929.html), da sie damit gegen das für sie als als Ministerin geltende Neutralitätsgebot verstößt. Den sächsischen Innenminister halten solche Gebote [ebenfalls nicht davon ab](https://www.l-iz.de/politik/sachsen/2026/09/schuster-warnt-auf-behoerdenaccounts-vor-linker-regierung-in-berlin-671372), auch auf einem offiziellen Behördenaccount vor einer linken Regierung in Berlin zu warnen. Nachdem Wahlergebnis in Sachsen-Anhalt hat man von diesen Minister:innen jedenfalls keine solchen Empörungsstürme vernommen. Vielleicht weil man inhaltlich von der AfD nicht so weit weg ist, wie man offen zugegeben. Das Grundrecht auf Asyl [zu streichen](https://www.spiegel.de/politik/deutschland/sachsen-cdu-innenminister-armin-schuster-will-grundrecht-auf-asyl-streichen-a-70fa62a7-9f06-4d42-9f35-b62bc7ef027a), wie es Sachsens Innenminister jüngst gefordert hat, hätte jedenfalls auch ein AfD-Vorstoß sein können. Für sein pennälerhaft grinsendes "Na doch" in ZDF-Talkshow "Maybrit Illner" zur Behauptung, Elif Eralp sei eine "Antisemitin wurde der Bundesinnenminister Alexander Dobrindt gleichermaßen von den Linken wegen üblen Nachrede und Beleidigung angezeigt. Zum Vergleich: wenn die CDU zusammen mit der AfD im sächsischen Heidenau [einen Antrag einbringen](https://www.spiegel.de/panorama/gesellschaft/heidenau-in-sachsen-stadtraete-von-cdu-und-afd-wollen-keine-stolpersteine-mehr-a-866a65b7-7ed7-4635-8a23-fd283104d5c8), der fordert, die Verlegung sogenannter Stolpersteine "im öffentlichen Straßen- und Gehwegbereich" künftig abzulehnen, ist das natürlich kein Antisemitismus (und auch kein Einreißen der Brandmauer).
 
 150 Jüdinnen und Juden aus Berlin [setzen sich inzwischen](https://www.spiegel.de/politik/deutschland/berlin-150-juedinnen-und-juden-aus-der-hauptstadt-plaedieren-fuer-rot-rot-gruen-a-5ca7e178-d9b3-49fc-9a1b-c800b02ef009) in einem offenen Brief gegen die "zynische Instrumentalisierung" des Antisemitismusvorwurfs ein.
 
@@ -307,7 +307,7 @@ Der Fortschritt bei Gehirn-Computer-Schnittstellen [erfordert auch eine wirksame
 Die PISA-Studie testet weltweit in mehr als 90 Ländern, ob 15-Jährige ihr Wissen anwenden können, z.B. beim Textverständnis, Preisvergleich, Diagrammgrafiken richtig deuten. In diesem Jahr haben die deutschen Schüler das [schlechteste Ergebnis seit Beginn der Erhebung erbracht](https://www.tagesschau.de/inland/gesellschaft/pisa-deutschland-schueler-100.html). Gerade aber die Fähigkeit, Informationen kritisch zu hinterfragen, Zusammenhänge zu erkennen und einen eigenen Standpunkt zu entwickeln, werden gerade im KI-Zeitalter immer wichtig, daher findet OECD-Bildungsdirektor Andreas Schleicher diesen Negativtrend für alarmierend. Aber auch in anderen Länder sind die Jugendlichen von diesem Problem, lange und komplexe Texte lesen und verstehen zu können, betroffen. Dass unsere Bundesregierung die richtigen Schlüsse und geeignete Gegenmaßnahmen ergreifen wird, [ist eher nicht zu erwarten](https://www.bbc.com/news/articles/c5y52yq0nypo). 
 
 ## Kultur
-Es heißt immer, das Internet vergesse nichts. Dem ist aber nicht so. 38 Prozent der Webseiten aus 2013 sind heute nicht mehr erreichbar. Die durchschnittliche Lebenszeit einer Webseite liegt gerade mal bei 100 Tagen, sehr dynamische Webinhalten ändern sich gar im Minutentakt. Der Historiker Jens Crueger beschäftigt sich schon seit vielen Jahren mit dem Thema Web-Archivierung. Für ihn sind Web-Archive kritische Infrastruktur. [Ihm fehlt eine Strategie](https://netzpolitik.org/2026/kritische-infrastruktur-bei-der-web-archivierung-fehlt-die-strategie/) für einen definierten Sammlungsauftrag. Alles dem [Internet Archive](archive.org/) in den USA zu überlassen ist jedenfalls keine gute Strategie, da dieses selbst zunehmend von KI-Scrapern überlastet ist.
+Es heißt immer, das Internet vergesse nichts. Dem ist aber nicht so. 38 Prozent der Webseiten aus 2013 sind heute nicht mehr erreichbar. Die durchschnittliche Lebenszeit einer Webseite liegt gerade mal bei 100 Tagen, sehr dynamische Webinhalten ändern sich gar im Minutentakt. Der Historiker Jens Crueger beschäftigt sich schon seit vielen Jahren mit dem Thema Web-Archivierung. Für ihn sind Web-Archive kritische Infrastruktur. [Ihm fehlt eine Strategie](https://netzpolitik.org/2026/kritische-infrastruktur-bei-der-web-archivierung-fehlt-die-strategie/) für einen definierten Sammlungsauftrag. Alles dem [Internet Archive](archive.org/) in den USA zu überlassen ist jedenfalls keine gute Strategie, da dieses selbst zunehmend von KI-Scrapern überlastet ist, auch wenn sie [dagegen Maßnahmen ergreifen](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/).
 
 Viele Kulturorte haben keine eigene große IT-Abteilung, wenn sie überhaupt eine eigene IT-Stelle haben. Webseiten und die Systeme dahinter müssen trotzdem dauerhaft sicher laufen, Informationen barrierearm zugänglich gemacht werden und bei Problemen jemand verantwortliches ansprechbar sein. Die Kulturpolitik bzw. ein künftiges Kulturfördergesetz muss deshalb die Rahmenbedingungen [für einen zeitgemäßen digitalen Kulturbetrieb schaffen](https://www.technologiestiftung-berlin.de/profil/blog/berlin-digital-handlungsfaehig-machen-warum-kultur-digitale-grundlagen-braucht).
 
@@ -375,53 +375,37 @@ Durch die zunehmende [Verbreitung automatisierter Verhaltensscanner](https://net
 [Geleakte Dokumente zeigen](https://www.heise.de/news/Chatkontrolle-EU-Staaten-wollen-umfassende-Massenscans-per-Umweg-legalisieren-11468633.html), dass der EU-Rat den aktuelle Zustand mit der befristeten Chatkontrolle 1.0 durch die Einführung so genannter Suchpläne dauerhaft erhalten möchte. Mit solchen Plänen sollen Anbieter von Chat- und E-Mail-Diensten befristet Pauschalgenehmigungen erteilt werden, um Nachrichteninhalten ihrer Nutzenden zu durchleuchten. Die "Suchpläne" sind nun im Trilog zur Chatkontrolle [erst einmal gescheitert](https://digitalcourage.social/@padeluun/117360565993659622). Aber es wird nicht der letzte Versuch gewesen sein. Patrick Breyer hat auf seiner [Web-Seite)](https://www.patrick-breyer.de/beitraege/chatkontrolle/) alle wichtigen Hintergründen und bisherigen Abstimmungen sowohl zur Chatkontrolle 1.0 als auch 2.0 zusammengetragen. Aber auch schon jetzt [überwachen die Zoll- und Polizeibehörden](ttps://netzpolitik.org/2026/messenger-ueberwachung-immer-mehr-polizei-ueberwacht-messenger-wie-whatsapp/) ganz ohne Staatstrojaner Chats in WhatsApp, Telegram, Signal und Co. – ganz ohne Staatstrojaner. Rechtswissenschaftler halten diese Form der Messenger-Überwachung für rechtswidrig.
 
 ## KIll-Switch
-* KI-Schreibassistenten im britischen Gesundheitssystem verwechseln Medikamente und Diagnosen
-  https://www.heise.de/news/KI-Dokumentation-beim-Arzt-Patienten-entdecken-Fehler-vor-Aerzten-11436757.html
-* Nvidia übernimmt Hugging Face für 12,93 Milliarden US-Dollar
-  https://www.heise.de/news/Nvidia-uebernimmt-Hugging-Face-fuer-12-93-Milliarden-US-Dollar-11440209.html
-* Ja, "keine KI" ist jetzt ein Feature
-  https://de.blog.documentfoundation.org/2026/09/03/ja-keine-ki-ist-jetzt-eine-funktion/
-* KI und Demokratie: Eine toxische Beziehung
-  https://taz.de/KI-und-Demokratie/!6206568/
-* Wenn Sprache zum Interface wird: Was KI-Nutzung mit unserem Satzbau macht
-  https://www.telepolis.de/article/Wenn-Sprache-zum-Interface-wird-Was-KI-Nutzung-mit-unserem-Satzbau-macht-11416286.html
-* Interview über KI und das Lavender-System: Automatisierte Todeslisten
-  https://netzpolitik.org/2026/interview-ueber-ki-und-das-lavender-system-automatisierte-todeslisten/
-* Klimafaktor KI: Warum Agenten wie Claude Code echte Stromfresser sind
-  https://www.heise.de/news/Klimafaktor-KI-Warum-Agenten-wie-Claude-Code-echte-Stromfresser-sind-11455300.html
-* Das KI-Modell "Jev" liefert Entscheidungen statt Texte
-  https://www.heise.de/news/KI-Modell-Jev-soll-Maschinen-schneller-entscheiden-lassen-11456995.html
-* Europas Milliarden-Offensive: 19 Staaten starten Großprojekt für Industrie-KI
-  https://www.heise.de/news/Europas-Milliarden-Offensive-19-Staaten-starten-Grossprojekt-fuer-Industrie-KI-11457092.html
-* AI Is Already In Dangerous Hands
-  https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/
-* Nach KI-Halluzination: US-Armee hätte laut CNN beinahe Schiff aus China geentert
-  https://www.heise.de/news/Nach-KI-Halluzination-US-Armee-haette-laut-CNN-beinahe-Schiff-aus-China-geentert-11459513.html
-* LLM Security: Geigerzähler in der Hand oder Kernreaktor im Griff?
-  https://www.prototypefund.de/blog/geigerz%C3%A4hler-oder-kernreaktor
-* Angriff mit KI-Agenten auf hunderte Shops: 600.000 Kreditkartendaten geklaut
-  https://www.heise.de/news/Angriff-mit-KI-Agenten-auf-hunderte-Shops-600-000-Kreditkartendaten-geklaut-11464492.html
-* Unsloth Desktop (Beta) ist eine kostenlose, Open-Source- App zum Ausführen und Trainieren von KI-Modellen auf Ihrer eigenen lokalen Hardware
-  https://unsloth.ai/docs/de/desktop
-* KI-Modelle sollen autonom Geld verdienen: What could possibly go wrong?
-  https://www.basicthinking.de/blog/2026/09/08/ki-agenten-geld-verdienen/
-* ailments
-  https://informationisbeautiful.net/visualizations/ai-induced-mental-disorders-ai-mental-health-glossary-burnout-addiction-mania/
-  via https://leipzig.town/@klara_tag/117350453292955271
-* KI ermöglicht Millionenbetrug bei italienischer Bank
-  https://www.heise.de/news/KI-ermoeglicht-Millionenbetrug-bei-italienischer-Bank-11468910.html
-* "Project Jupiter": Oracle stoppt Zahlungen für 18-Milliarden-Rechenzentrum und löst KI-Krise aus
-  https://www.businessinsider.de/wirtschaft/project-jupiter-oracle-stoppt-zahlungen-fuer-18-milliarden-rechenzentrum/
-  via https://bsky.app/profile/patrickbreitenbach.de/post/3mwjbkwngik2n
-* Übersetzer beklagen katastrophale Arbeitsbedingungen
-  https://www.mdr.de/nachrichten/app-aktuell/uebersetzer-klagen-100.html
-* Libre Workspace AI
-  https://ai.libre-workspace.org
-  https://gitlab.jf-vogelbacher.de/jean/libre-workspace-ai
-* Fix the Wayback Machine!
-  https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/
-  via https://mastodon.archive.org/@internetarchive/117275710069576084
+### Tools
+[Unsloth Desktop](https://unsloth.ai/docs/de/desktop) als auch [Libre Workspace AI](https://ai.libre-workspace.org) sind Open-Source-Apps, mit denen man KI-Modelle auf der eigenen lokalen Hardware ausführen als auch trainieren kann.
 
+Bei Libre Office wird (generative) KI zwar nicht grundsätzlich abgelehnt, es gibt jedoch Prinzipien, die eingehalten werden müssen, damit eine Funktionalität oder Erweiterung in die Standardkonfiguration übernommen wird. Und KI in seiner derzeitigen Ausprägung erfüllt noch nicht alle dieser Kriterien. Deswegen kann man durchaus "keine KI" [als ein Feature anssehen](https://de.blog.documentfoundation.org/2026/09/03/ja-keine-ki-ist-jetzt-eine-funktion/).
+
+### Sicherheit
+Eigentlich als Entlastung für Ärzte in Großbritannien gedacht, [haben KI-gestützte Dokumentationssysteme](https://www.heise.de/news/KI-Dokumentation-beim-Arzt-Patienten-entdecken-Fehler-vor-Aerzten-11436757.html) Medikamentennamen falsch aufgeschrieben, Diagnosen erfunden oder gar wichtige Informationen ganz weggelassen. Die Fehler fielen dann nicht mal den Ärzten selbst, sondern erst im Nachgang den Patienten auf. Eine Studie hat das Problem näher untersucht, in der durchgeführten Umfrage berichteten 32 Prozent der Hausärzte von häufigen Fehlern, 14 Prozent der Befragten hatten schon Fehler, die zu schwerwiegenden Folgen geführt hätten.
+
+Im Frühjahr hätte die US-Armee beinahe ein Frachtschiff aus China geentert, weil eine generative KI auf ihm Atomwaffentechnik [herbei halluziniert hatte](https://www.heise.de/news/Nach-KI-Halluzination-US-Armee-haette-laut-CNN-beinahe-Schiff-aus-China-geentert-11459513.html). Der Fehler wurde erst im letzten Moment bemerkt.
+
+### Betrug
+KI-Agenten werden zunehmend für kriminelle Aktivitäten eingesetzt. So konnte ein Angreifer mit ihnen aus hunderten Online-Shops [600.000 Kreditkartendaten klauen](https://www.heise.de/news/Angriff-mit-KI-Agenten-auf-hunderte-Shops-600-000-Kreditkartendaten-geklaut-11464492.html). 
+
+[Mittels Stimmen-Deep-Fake](https://www.heise.de/news/KI-ermoeglicht-Millionenbetrug-bei-italienischer-Bank-11468910.html) hat man einen italienischen Bankier dazu verleitet, 95 Millionen Euro freizugeben. Das löste zwar einen Alarm aus, doch 36 Millionen Euro wurden durch den Täter durch schnelle Transaktionen und Umwandlung in Kryptowährungen dem Rückruf entzogen und sind wahrscheinlich unwiederuflich verloren.
+
+### Entscheidungsfindung
+[Der Einsatz der Software Lavender](https://netzpolitik.org/2026/interview-ueber-ki-und-das-lavender-system-automatisierte-todeslisten/), die (teil-)automatisiert potenzielle (Tötungs-)Ziele für Bomben identifiziert, [verstößt systematisch gegen das Völkerrecht](https://netzpolitik.org/2026/interview-ueber-ki-und-das-lavender-system-automatisierte-todeslisten/), da sie die klare Unterscheidung zwischen rechtmäßigen Zielen und Zivilisten nicht treffen kann. Sie wird trotzdem von der israelischen Armee in Gaza und im Libanon verwendet. 
+
+Die Wissenschaft hat nachweisen können, dass die regelmäßige Nutzung von KI-Tools wie ChatGPT und Google Gemini, Einfluss darauf hat, welche Informationen Menschen als "gut" bzw. "relevant" beurteilen. Wenn man bedenkt, dass KI-Anbieter, die mit bestimmten Medien kooperieren, gewisse Quellen und Inhalte häufiger ausspielen oder auch bewusst unterdrücken, kann sich denken, dass KI und Demokratie [letzlich eine toxische Beziehung ist](https://taz.de/KI-und-Demokratie/!6206568/).
+
+### Finanzen
+19 EU-Länder wollen ein eigenes KI-Ökosystem aufbauen und planen [dafür Milliarden zu investieren](https://www.heise.de/news/Europas-Milliarden-Offensive-19-Staaten-starten-Grossprojekt-fuer-Industrie-KI-11457092.html). Der Grafikkarten-Hersteller Nvidia, der vom derzeitigen KI-Hype finanziell prima profitiert, hat die Plattform für offene KI-Modelle Hugging Face für 12,93 Milliarden US-Dollar [übernommen](https://www.heise.de/news/Nvidia-uebernimmt-Hugging-Face-fuer-12-93-Milliarden-US-Dollar-11440209.html). Sie soll aber weiterhin offen bleiben.
+
+Für ein geplantes Rechenzentrum im Wert von 18 Milliarden Dollar hat Oracle nun die Zahlungen eingestellt. [Fehlende Energieinfrastruktur](https://www.businessinsider.de/wirtschaft/project-jupiter-oracle-stoppt-zahlungen-fuer-18-milliarden-rechenzentrum/) bedroht den gesamten KI-Börsenboom und könnte [eine Kettenreaktion auslösen](https://bsky.app/profile/patrickbreitenbach.de/post/3mwjbkwngik2n).
+
+### Auswirkungen
+Der zunehmende Einsatz von KI bei der Übersetzung von Fachtexten [drängt viele Übersetzende](https://www.mdr.de/nachrichten/uebersetzer-buecher-literatur,hummitzsch-kultur-news-100.html) in den Bereich literarischen Übersetzens und Verstärken dort nun den Konkurrenzdruck, woduch die ohnehin schon niedrigen Honorare weiter sinken.
+
+[Ein Studie untersucht](https://www.telepolis.de/article/Wenn-Sprache-zum-Interface-wird-Was-KI-Nutzung-mit-unserem-Satzbau-macht-11416286.html), wie die KI-Nutzung unsere Sprache beeinflusst. Sprache wird zum Interface, wird auf Effizienz optimiert, es entstehen so genannte Prompt-Idiolekte. Dadurch könnten aber der Sinn für Ambivalenz und Zwischentöne sowie generell die Fähigkeit zur Geduld verloren gehen.
+
+[ailments](https://informationisbeautiful.net/visualizations/ai-induced-mental-disorders-ai-mental-health-glossary-burnout-addiction-mania/) ist eine Feldstudie zu möglichen von KI verursachten Wahrnehmungs- und Verhaltensstörungen.
 
 ## Recap
 * [MRMCD 2026](https://media.ccc.de/c/mrmcd26)
@@ -431,18 +415,10 @@ Durch die zunehmende [Verbreitung automatisierter Verhaltensscanner](https://net
 * [Fediday 2026](https://fair.tube/c/fediday/videos)
 
 ## Und sonst so?
-* The Fedle project, a Wordle game on the Fediverse
-  https://fedle.fedilab.app
-  https://toot.fedilab.app/@apps/117338930832604221
-* TUXDLE
-  https://tuxdle.com
-* Hackathon der Polizei: Mit neuen Ideen alte Fälle knacken
-  https://www.diesachsen.de/justiz/hackathon-der-polizei-mit-neuen-ideen-alte-faelle-knacken-3184560
-
+Bei [Fedle](https://fedle.fedilab.app) folgt man dem Fedle-Bot im Fediverse und bekommt dann jeden Tag um 12 ein Worträtsel als Direktnachricht. Die Vermutung schickt man ebenfalls als Direktnachricht zurück. Der Bot antwortet mit Einfärbung der Buchstaben, wie nah man der Lösung ist. Insgesamt hat man 6 Versuche. Das gleiche Spielprinzip hat [TUXDLE](https://tuxdle.com), nur das hier dezidiert Begriffe aus der Linuxwelt zu raten sind.
 
 ## Fristen
-* [40C3 CfP](https://cfp.cccv.de/40c3/)
-  * https://www.ccc.de/updates/2026/40c3-model-citizens
+* [40C3 CfP](https://cfp.cccv.de/40c3/), Motto: [Model Citizens](https://www.ccc.de/updates/2026/40c3-model-citizens)
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Donnerstag, 01.10.2026, bis Samstag, 31.10.2026, 23:59, online: **#31DayOSMChallenge (Maptober)** <a title='Kalendereintrag #31DayOSMChallenge (Maptober)' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vIzMxRGF5T1NNQ2hhbGxlbmdlIChNYXB0b2JlcikvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjEwMDNUMTE0MDA0Wg0KRFRTVEFSVDoyMDI2MTAwMVQwMDAwMDANCkRURU5EOjIwMjYxMDMxVDIzNTk1OQ0KU1VNTUFSWTojMzFEYXlPU01DaGFsbGVuZ2UgKE1hcHRvYmVyKQ0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93aWtpLm9wZW5zdHJlZXRtYXAub3JnL3dpa2kvMzFfRGF5X09TTV9DaGFsbGVuZ2UNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
