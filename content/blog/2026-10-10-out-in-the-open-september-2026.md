@@ -244,50 +244,31 @@ In [Göritzberg](https://de.wikipedia.org/wiki/G%C3%B6ritzberg) im Saale-Holzlan
 Mit den von [Open Energy](https://hardware.prototypefund.de/open-energy-geht-an-den-start-was-wir-vorhaben-und-warum/) veröffentlichten Statistiken und Datenanalysen kann man z.B. [die Frage beantworten](https://chaos.social/@mavo/117316265632164919), welche Großstadt, Gemeinde oder welches Bundesland [die meisten Balkonkraftwerke hat](https://energie-selbermachen.de/solarpotenzial/).
 
 ### Batteriespeicher
-Im Forschunhsprojekt [NaREsys](https://naresys.de/projekt/) sollen haushaltsübliche Speicher [intelligent vernetzt](https://bsky.app/profile/solarpapst.bsky.social/post/3mvthzwtx5s24) und zu einem leistungsfähigen Verbund zusammengeführt werden, um das Stromnetz flexibler, stabiler und resilienter zu machen.
+Im Forschungsprojekt [NaREsys](https://naresys.de/projekt/) sollen haushaltsübliche Speicher [intelligent vernetzt](https://bsky.app/profile/solarpapst.bsky.social/post/3mvthzwtx5s24) und zu einem leistungsfähigen Verbund zusammengeführt werden, um das Stromnetz flexibler, stabiler und resilienter zu machen.
 
 Deutschen Forschenden ist es gelungen, durch ein neues Zellkonzept, die Kapazität von Energiespeicher um 15 Prozent zu bei gleichem Gesamtgewicht [zu steigern](https://www.basicthinking.de/blog/2026/09/21/akkus-ohne-pfas/). Bei der Produktion konnte dabei auf Ewigkeits-Chemikalien (PFAS) verzichtet werden, wodurch sogar die Herstellkosten sanken.
 
 ## Klima
-* Hitze und Klimakrise - was muss jetzt geschehen?
-  https://www.ardmediathek.de/video/rbb24-der-talk/hitze-und-klimakrise-was-muss-jetzt-geschehen/rbb/Y3JpZDovL3JiYl8zOWM0NGY1MC0zNTkzLTRmM2UtYjY1YS1jYjBkMmVjZDhmYjdfcHVibGljYXRpb24
-  via https://wisskomm.social/@PIK_climate/117202267610643246
-* Berlin wird „Schwammtastisch"!
-  https://game.regenwasseragentur.berlin
-  via https://mastodontech.de/@technologiestiftungberlin/117206068500420040
-* Global Biodiversity Information Facility (GBIF) - Free and open access to biodiversity data
-  https://www.gbif.org
-  via https://social.bund.de/@umwelt_info/117214223538784344
-* Zukunftsquiz
-  https://www.zukunftsquiz.de/quizgames/new
-* Gastbeitrag: NASK – Der Starkregen-Kompass für Halle (Saale) oder wenn Erinnerungen zu Vorsorge werden
-  https://geoobserver.de/2026/09/15/gastbeitrag-nask-der-starkregen-kompass-fuer-halle-saale-oder-wenn-erinnerungen-zu-vorsorge-werden/
-* 5 new Jupyter notebooks for the #C3S Climate Atlas. 
-  https://ecmwf-projects.github.io/c3s-atlas/intro.html
-  via https://masto.ai/@CopernicusECMWF/117320330705612183
-* Auftakt 16. ExtremWetterkongress
-  https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIzNTA2Mg
-  * Abschlusserklärung
-    https://extremwetterkongress.org
+Auf dem 16. ExtremWetterkongress in Hamburg [diskutierten](https://climate-journalism.eu/de/extremwetterkongress-2026-wir-wissen-alles-aber-tun-nichts-von-dem-was-wir-tun-muessten/) vom 23. bis 25. September fast 1000 Fachleute über neben Rekordhitze, steigende Meerestemperaturen und Sturmrisiken. Die Videos sowohl von [Auftaktveranstaltung](https://www.ardmediathek.de/video/Y3JpZDovL3Bob2VuaXguZGUvNTIzNTA2Mg) als auch [Abschlusserklärung](https://extremwetterkongress.org) kann man sich noch anschauen. Aktuell erwärmt sich Deutschland [doppelt so schnell](https://www.fr.de/politik/rekord-kongress-warnt-deutschland-erwaermt-sich-doppelt-so-schnell-wie-der-weltdurchschnitt-94506921.html) wie der Weltdurchschnitt. Mit der Frage, wie sich Gesellschaften besser die veränderten Bedingungen vorbereiten können, beschäftigte man sich dezidiert auf der parallel stattfindenden Deutsche Klimamanagement-Tagung. 
+
+Konzepte wie Schwammstadt [spielerisch](https://game.regenwasseragentur.berlin) erlebbar [machen](https://mastodontech.de/@technologiestiftungberlin/117206068500420040) oder sein Klimawissen [in einem Quiz](https://www.zukunftsquiz.de/quizgames/new) testen, sind niederschwellige Zugänge zum Thema Klima.
+
+NASK steht für Niederschlagsalarm & Starkregen-Kompass Halle (Saale) und ist der Name einer [Plattform](https://starkregen.geo.uni-halle.de), die Erfahrungen aus Starkregenereignissen [dauerhaft sichtbar macht](https://geoobserver.de/2026/09/15/gastbeitrag-nask-der-starkregen-kompass-fuer-halle-saale-oder-wenn-erinnerungen-zu-vorsorge-werden/). Man kann Gefahren selber melden und sieht alle Meldungen auf einer interaktiven Karten.
+
+Das [C3S Atlas (note)Book](https://ecmwf-projects.github.io/c3s-atlas/intro.html) umfasst [fünf Jupyter Notebooks](https://masto.ai/@CopernicusECMWF/117320330705612183), um interaktiv mit den Klimadaten aus dem Copernicus Climate Change Service Atlas (C3S Atlas) zu arbeiten.
+
+Die [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org) stellt Biodiversitätsdaten frei und offen [zur Verfügung](https://social.bund.de/@umwelt_info/117214223538784344).
 
 ## Karten
-* "Equal-Earth" - Projektion
-  https://de.wikipedia.org/wiki/Equal-Earth-Projektion
-  https://bsky.app/profile/domning.eu/post/3muqw4rggul2c
-* From Berlin to the world: The history behind street names
-  https://www.datawrapper.de/blog/berlin-streetnames
-* Wer schützt den nächsten Kiez in Berlin? Was Daten über Verdrängung in Berlin zeigen
-  https://fraugies.substack.com/p/wer-schutzt-den-nachsten-kiez-in
-  https://kiezkeeper.streamlit.app/Gentrification_in_Berlin
-  https://github.com/mshlg/capstone-kiezkeeper
-  via https://chaos.social/@jk/117296950088355709
-* OKLab Köln
-  * Waldbrand-Monitor — Deutschland & Türkiye
-    https://github.com/ErtanOz/Waldbrand-Monitor
-  * GeoGuess-Cologne
-    https://geoguesscologne.netlify.app/de/spiel
-* Google Maps schaltet neue Satellitenbilder frei: Die folgenschwere Zerstörung in Gaza ist nun für jeden sichtbar
-  https://www.tagesspiegel.de/internationales/google-maps-schaltet-neue-satellitenbilder-frei-die-folgenschwere-zerstorung-in-gaza-ist-nun-fur-jeden-sichtbar-16103400.html
+Zwei Apps, die vor kurzem im OKLab Köln entwickelt wurden: der [Waldbrand-Monitor](https://github.com/ErtanOz/Waldbrand-Monitor) zeigt aktive Brände aus den Satellitendaten von NASA FIRMS auf einer Karte für Deutschland und der Türkei. Bei [GeoGuess-Cologne](https://geoguesscologne.netlify.app/de/spiel) kann man seine Ortskenntnis mit amtlichen offenen Geodaten testen. Für ein gezeigtes Foto muss je nach Schwierigkeitsgrad das Viertel, die Straße oder die genaue Geo-Koordinate geschätzt werden.
+
+[Jona Pomerance beschäftigt](https://www.datawrapper.de/blog/berlin-streetnames) sich auf Datawrapper visuell mit der Geschichte der Straßennamen in Berlin.
+
+Die Verdrängungsprozesse im Zuge der fortschreitenden Gentrifzierung in Berlin können [an Hand von Daten nachvollzogen werden](https://fraugies.substack.com/p/wer-schutzt-den-nachsten-kiez-in). Laura Gies, Mareike Sahling und Valerie Ambrosi haben dazu die interaktive Karte [KiezKeeper](https://kiezkeeper.streamlit.app/Gentrification_in_Berlin) (steht auch [Open Source](https://github.com/mshlg/capstone-kiezkeeper)) entwickelt. 527 Berliner Wohnungsgebiete wurden dazu hinsichtlich Immobilienmarkt, soziale Struktur und lokales Gewerbe bewertet. Mit maschinellen Lernen wurden Muster (in den Gebieten mit Milieuschutz) identifiziert, an Hand derer man [frühzeitig erkennen möchte](https://chaos.social/@jk/117296950088355709), in welchen Gebieten als nächstes entsprechende Schutzmaßnahmen implementiert werden müssen.
+
+Google Maps hat [neue Satellitenbilder freigegeben](https://www.tagesspiegel.de/internationales/google-maps-schaltet-neue-satellitenbilder-frei-die-folgenschwere-zerstorung-in-gaza-ist-nun-fur-jeden-sichtbar-16103400.html), die die massiven Zerstörungen in Gaza zeigen.
+
+[Eine UN-Resolution](https://press.un.org/en/2026/ga12779.doc.htm) spricht sich für den häufigeren Einsatz der [Equal-Earth-Projektion](https://de.wikipedia.org/wiki/Equal-Earth-Projektion) bei der Darstellung der Weltkarte aus. Die aktuell am meisten verwendete Mercator-Projektionen stellt die Größe von Ländern und Kontinenten zu verzerrt dar, wodurch z.B. Afrika und Indien, die nach am Äquator liegen, kleiner erscheinen, als sie tatsächlich sind, während Grönland und Russland verhältnismßig groß erscheinen. Auf [thetruesize.com](https://thetruesize.com/) kann man ein Land auswählen und dann in an verschiedenen Stellen der Mercator-Karte schieben, um zu sehen, wie sehr die Position die Größe verzerrt.
 
 ## Mobilität
 * ADFC-Fahrradklima-Test 2026: Wie fahrradfreundlich ist dein Ort?
