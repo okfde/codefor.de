@@ -23,6 +23,8 @@ Die [Kompetenzstelle Data Governance Act](https://dga-portal.de) des Statistisch
 
 [Wie kann man](https://blog.okfn.org/2026/09/16/new-field-guide-connecting-ai-to-government-data/) öffentliche Daten mittels KI zugänglicher machen ohne dabei das Vertrauen in die Korrektheit zu verspielen? Die Frage versucht [der neue Leitfaden](https://blog.okfn.org/wp-content/uploads/2026/09/TTWW-AI.pdf) der Open Knowledge Foundation im Rahmen der The-Tech-We-Want-Reihe zu beantworten, und zum klaren Schluss, dass Chatbots auf keinen Fall Open-Data-Portale ersetzen sollten. Die Auswertung der Anfragen, die über solche Bots gestellt werden, kann aber dazu genutzt werden, die Dokumentation der Datensätze zu verbessern. Wichtig ist auch, bei den Chat-Ausgaben immer die Quellen zu verlinken. 
 
+Von DoorCE gibt es [eine Umfrage](https://survey.lamapoll.de/Nutzung-von-offenen-Daten-DoorCE) zur "Nutzung offener Daten", an der man sich noch beteiligen kann.
+
 ### Kompetenzzentrum Open Data (CCOD)
 Den Tag der Demokratie (15. September) hat das Kompetenzzentrum Open Data zum Anlass genommen, [aufzuzeigen](https://www.bva.bund.de/DE/Services/Behoerden/Beratung/OpenData/Meldungen/Aktuelles/2026/BB-TdD.html), wie nicht nur das Veröffentlichen sondern auch konkrete Anwenden von offenen Daten, die Demokratie fördern. Sich eine eigene Meinung zu bilden und staatliches Handeln kritisch zu hinterfragen geht eben nur, wenn Informationen zu politischen und administrativen Entscheidungen, ganz im Sinne von Open Government, tranparent vorliegen. Man sollte den Innenminister mal fragen, warum auf der Webseite seines Ministeriums die Sektion "Open Government" [entfernt wurde](https://bsky.app/profile/arnesemsrott.bsky.social/post/3mwsdpwsqcc2v). Vielleicht hat er es nicht so mit Demokratie (le people, c'est moi)?
 
@@ -327,49 +329,33 @@ Mit der Begründung, dass "bereits jetzt zudem 90 Prozent der Anfragen zur Poliz
 Der Politik-Podcast "Ist das wichtig?" [erläutert](https://istdaswichtig.at/ein-student-zwingt-die-uni-wien-notenstatistiken-herauszugeben/), welche weitreichende Folgen das Urteil des Bundesverwaltungsgericht hat, das einem Student der Universität Wien darin Recht gegeben hatte, von seiner Falkultät die Herausgabe umfassender Notenstatistiken und Lehrveranstaltungsevaluierungen nach Informationsfreiheitsgesetz zu verlangen.
 
 ### Autoritarismus
-* Axel Springer und die Techmilliardäre – Die Lobbyforen eines Medienkonzerns
-  https://www.lobbycontrol.de/reichtum-und-einfluss/axel-springer-und-die-techmilliardare-126623/
-* Neue Ungereimtheiten bei Jens Spahns ohnehin schon fragwürdiger Teilnahme an geheimen Peter-Thiel-Netzwerktreffen
-  https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101382028/jens-spahn-bei-thiel-treffen-wie-privat-waren-diese-dienstreisen-.html
-  via https://bewegung.social/@lobbycontrol/117326493502422162
-  * Jens Spahn räumt Sitz im Haushaltsausschuss – endlich mal eine gute Nachricht
-    https://www.telepolis.de/article/Jens-Spahn-raeumt-Sitz-im-Haushaltsausschuss-endlich-mal-eine-gute-Nachricht-11468255.html
-  * Diskussion um Abwesenheit im Haushaltsausschuss: Könnte Jens Spahn Peter Thiel auf Sardinien getroffen haben?
-    https://www.tagesspiegel.de/politik/diskussion-um-abwesenheit-im-haushaltsausschuss-jens-spahn-und-peter-thiel-offenbar-gleichzeitig-auf-sardinien-16111067.html
-* "Das #Bundesverkehrsministerium hatte #Scheuer zunächst den Wunsch verwehrt, seine Anwaltskosten zu übernehmen […] Seit die #Union wieder das Verkehrsressort führt, kam es offenbar zu einem Sinneswandel."
-  https://www.n-tv.de/politik/Zwei-Zeugenaussagen-belasten-Ex-Verkehrsminister-Scheuer-id31315391.html
-  via https://climatejustice.global/@GermanZeroHH/117286056419871287
-* le loi c'est moi: Fortwährende Rechtsbrüche: Dobrindt vs. Rechtsstaat
-  https://fragdenstaat.de/artikel/exklusiv/2026/09/dobrindts-rechtsbruche/
-* Verfassungsschutz und Buchhandlungspreis: Dokumente wecken Zweifel an Weimers Darstellung
-  https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101453186/weimer-schloss-buchhandlungen-von-preis-aus-diese-saetze-reichten-schon.html
-* Chemnitzer Polizei beschlagnahmt ZPS-Bus rechtswidrig
-  https://www.mdr.de/nachrichten/deutschland/politik/protestbus-polizei-chemnitz-zentrum-politische-schoenheit,zps-mifri-100.html
-* Debanking: Der lange Schatten von Donald Trump
-  https://fragdenstaat.de/artikel/exklusiv/2026/09/der-lange-schatten-von-donald-trump/
-  * OLG: Sparkasse Göttingen muss Konto der Roten Hilfe fortführen
-    https://rote-hilfe.de/meldungen/olg-sparkasse-goettingen-muss-konto-der-roten-hilfe-fortfuehren
+[Nutzt Springer seine Medienmacht für politische Einflussnahme?](https://www.lobbycontrol.de/reichtum-und-einfluss/axel-springer-und-die-techmilliardare-126623/) Die Redaktionen der Springer-Medien sind offiziell unabhängig von der Konzernspitze. Dass Springer-Chef Mathias Döpfner exklusive (Lobby-)Netzwerkevents ausrichtet und Preise an Unternehmer verleihen, über die der Medienkonzern eigentlich kritisch berichten sollte, wirft jedenfalls Fragen über die Unabhängigkeit von Berichterstattung und Medienmacht auf. Döpfners gute Verbindungen zu US-Tech-Milliardären nutzen wohl auch dem Springer-Konzern. Die Grenze zur Lobbyarbeit verschwimmt nicht erst seit dem Gastbeitrag Elon Musks in der Welt im Dezember 2024 während des Bundestagswahlkampf, in der er seine Wahlempfehlung für die AfD offen aussprechen konnte.
+
+Neue Unterlagen der irischen Regierung [werfen die Fragen auf](https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101382028/jens-spahn-bei-thiel-treffen-wie-privat-waren-diese-dienstreisen-.html), warum der damalige Gesundheitsminister Jens Spahn so wenig für seine angeblich privaten Teilnahmen am geheimen Peter-Thiel-Netzwerktreffen zahlte und warum im August 2018 sein Ministerium die Reisekosten übernommen hat für eine gleichzeitig stattgefundene Dienstreise nach Irland, bei der er angeblich den damaligen irischen Premierminister Leo Varadkar getroffen habe, im Büro des Premiers ein solches Treffen allerdings gar nicht dokumentiert ist.
+
+Wie ein Täter, der an den Ort des Verbrechens zurückkehrt, wirkte es, als Jens Spahn nach seinem (erzwungenen) Rücktritt als Fraktionsvorsitzender von der Union in den einflussreichen Haushaltsausschuss entsandte wurde, in dem er über die zweckmäßige Verwendung von Steuergelder mit hätte wachen sollen, ein wirklich schlechter Scherz nach seinen Maskendeals. [Dass er nun auch diesen Sitz räumen muss](https://www.telepolis.de/article/Jens-Spahn-raeumt-Sitz-im-Haushaltsausschuss-endlich-mal-eine-gute-Nachricht-11468255.html), lag daran, dass er angeblich krank bei Ausschusssitzungen fehlte, ein Foto ihn aber in eben jener Sitzungswoche auf dem Flughafen auf Sardinien im Urlaub zeigte. [Nach einem Bericht](https://www.telepolis.de/article/Jens-Spahn-raeumt-Sitz-im-Haushaltsausschuss-endlich-mal-eine-gute-Nachricht-11468255.html) des Podcasts "Machtwechsel" soll zur gleichen Zeit auch Peter Thiel auf der italienischen Insel gewesen sein.
+
+Derweil ist Ex-Verkehrsminister Andreas Scheuer (CSU) wegen Falschaussage angeklagt. Er hatte behauptet, er könne sich nicht erinnern, dass ihm ein Angebot gemacht worden, vor der Unterzeichnung des Pkw-Maut-Betreibervertrags ein Urteil des Europäischen Gerichtshofs abzuwarten. Zwei Zeugen widersprechen dem nun unabhängig voneinander. [Pikant auch dieser Vorgang](https://www.n-tv.de/politik/Zwei-Zeugenaussagen-belasten-Ex-Verkehrsminister-Scheuer-id31315391.html): Scheuer hat sein ehemaliges Ministerium darum gebeten, seine Anwaltskosten zu übernehmen, was unter dem ehemaligen Verkehrsminister Wissing 2022 noch abgelehnt wurde. Mit dem neuem Chef Steffen Bilger, der früher Parlamentarischer Staatssekretär unter Scheuer war, hat sich Ministerim grundsätzlich doch dazu bereit erklärt.  
+
+Der eigentliche Erfinder der Ausländer-PKW-Maut war aber Alexander Dobrindt, 2013 Bundesverkehrsminister, der auch dann noch am Mautkonzept festgehalten hatte, als schon klar war, dass sie gegen EU-Recht verstößt. Sie wurde schließlich zu Scheuers Zeit im Ministerium vom Europäischen Gerichtshof gekippt. Da waren aber schon Millionen Euro Steuergeld unwiederbringlich in das Projekt versenkt worden. Aber "le loi c'est moi" [scheint weiterhin die Device von Dobrindt zu sein](https://fragdenstaat.de/artikel/exklusiv/2026/09/dobrindts-rechtsbruche/), auch als Innenminister stören ihn bei Grenzkontrollen, Zurückweisungen und Sozialleistungen für Geflüchtete weder geltendes (EU-)Recht noch explizite Gerichtsentscheidungen, selbst vom Europäische Gerichtshof nicht. Dass er das Informationsgesetz und FragDenStaat abgeschafft sehen möchte, ist da nur konsequent. Transparenz, Kontrolle und Widerspruch stören beim selbstherrlichen Durchregieren gegen die, denen er sich überlegen fühlt. Leider weigert sich Staatsanwaltschaft bislang trotz eingereichter Klagen, Ermittlungen gehen ihn aufzunehmen. 
+
+Durch das Informationsfreiheitsgesetz [befreite Dokumente](https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101453186/weimer-schloss-buchhandlungen-von-preis-aus-diese-saetze-reichten-schon.html) wecken Zweifel an der Darstellung Wolfgang Weimers, dass er auf Grundlage von Aussagen seiner Fachabteilung die Überprüfung der ursprünglichen ausgezeichneten Buchhandlungen durch das Bundesamt für Verfassungsschutz (BfV) angeordnet habe. Laut den Dokumente hatte diese aber nur empfohlen, dem Votum der Jury zu folgen.  
+
+Nach Recherchen von MDR Investigativ belegen Unterlagen, dass Beamten der Chemnitzer Polizei schon seit Monaten sogar bundesweit versuchen, [krampfhaft Gründe zu finden](https://www.mdr.de/nachrichten/deutschland/politik/protestbus-polizei-chemnitz-zentrum-politische-schoenheit,zps-mifri-100.html), den Bus des "Zentrums für Politische Schönheit", den "Adenauer SRP+", der bundesweit bei Demos gegen Rechts zum Einsatz kommt, aus dem Verkehr zu ziehen und das Künstlerkollektiv zu schikanieren. Es wurde sogar eine "Handlungsanleitung" dazu erstellt und an Polizeibehörden deutschlandweit verteilt, trotz 23 entlastender Dekra-Gutachten plus Rechtsgutachten. Die Verbreitung dieser Anleitung wurde nun untersagt und der Chemnitzer Polizei-Präsident musste eine Unterlassungserklärung unterschreiben.
+
+[FragDenStaat hat Verfahrensunterlagen veröffentlicht](https://fragdenstaat.de/artikel/exklusiv/2026/09/der-lange-schatten-von-donald-trump/), die nahelegen, dass die Welle an Kontokündigungen bei linken Vereinen und zivilgesellschaftlichen Organisationen vermutlich sowohl mit US-Präsident Donald Trump als auch mit der Bankenaufsicht BaFin zu tun hat. Einige Gerichte haben diese Kündigungen inzwischen als unzulässig eingestuft, so auch [im Fall der Sparkasse Göttingen](https://rote-hilfe.de/meldungen/olg-sparkasse-goettingen-muss-konto-der-roten-hilfe-fortfuehren), die das Konto der Roten Hilfe nun fortführen muss.
 
 ### Korruption
-* Recherche enthüllt: Klimaforscher arbeiten für Ölkonzerne
-  https://www.zdfheute.de/wissen/ipcc-klimarat-lobbyismus-100.html
-  via https://det.social/@kloeffi/117312930785879392
-* Lobbyranking der Bundesländer 2026
-  https://lobbyranking.de
-  via https://mastodon.social/@transparency_de/117241158930748538
-* Bürokratieabbau und Korruptionsprävention
-  https://www.transparency.de/publikationen/detail/article/buerokratieabbau-1
-* Meta droht wegen Cambridge Analytica neue Milliardenstrafe
-  https://www.heise.de/news/Meta-droht-wegen-Cambridge-Analytica-neue-Milliardenstrafe-11467008.html
+[Eine Recherche](https://www.zdfheute.de/wissen/ipcc-klimarat-lobbyismus-100.html) unter anderem von 3sat Nano enthüllt, dass zahlreiche Klimaforscher beim Weltklimarrat (IPCC) Kontakte zur Öl- und Gasindustrie haben oder gar für sie arbeiten, speziell für den saudischen Ölriesen Aramco. Der Weltklimarat selbst sieht aber bislang keine Interessenskonflikte in den gemeldeten Fällen.
+
+Transparency Deutschland hat sein [Lobbyranking](https://lobbyranking.de) der Bundesländer [aktualisiert](https://mastodon.social/@transparency_de/117241158930748538). Gegenüber 2024 haben 12 der 16 Bundesländer ihre Transparenz- und Integritätsregeln verbessert, wenn auch nur in kleinen Schritten. Baden-Württemberg, Bayern und Hamburg die ersten drei Plätze. Beim Ranking fließen die Existenz und Umsetzung von Lobbyregister, legislativen Fußabdruck sowie eine vorhandene Karenzzeit für Regierungsmitglieder als auch, ob sie Nebentätigkeiten offenlegen müssen, positiv in die Bewertung ein.
+
+In der [109. Ausgabe](https://www.transparency.de/publikationen/detail/article/buerokratieabbau-1) des Scheinwerfer-Magazins wird das Spannungsfeld von Bürokratieabbau und Korruptionsprävention beleuchtet. Denn Regeln für Transparenz und Korruptionsprävention dürfen nicht dem Bürokratieabbau geopfert werden.
+
+[Durch die Entscheidung](https://www.heise.de/news/Meta-droht-wegen-Cambridge-Analytica-neue-Milliardenstrafe-11467008.html) eines Geschworen-Gerichts im US-Bundesstaat New Mexico wegen Irreführung von Facebook-Nutzern bei Datenschutz und Redefreiheit droht dem US-Konzern Meta eine weitere Milliardenstrafe im [Cambridge Analytica Skandal](https://de.wikipedia.org/wiki/Cambridge_Analytica#Einflussnahme_auf_US-Wahlk%C3%A4mpfe).
 
 ### Casino Secrets
-* casinosecrets
-  https://www.lilithwittmann.de/series/casinosecrets/
-  via https://chaos.social/@Lilith/117312924344601490
-  * Gerade habe ich das Urteil im Widerspruchsverfahren im einstweiligen Rechtsschutz Malta Gaming Authority ./. Wittmann erhalten.
-    https://bsky.app/profile/lilithwittmann.bsky.social/post/3mwde2sxbus2s
-* Malta versus Lilith Wittmann: Gerichtsurteil stärkt Meinungs- und Pressefreiheit
-  https://netzpolitik.org/2026/malta-versus-lilith-wittmann-gerichtsurteil-staerkt-meinungs-und-pressefreiheit/
+Im Rahmen der Recherche [#casinosecrets](https://www.lilithwittmann.de/series/casinosecrets/) von Lilith Wittmann zeigen tausende interne Behördenakten erstmals im Detail, wer hinter einer milliardenschweren Glücksspielindustrie, von Curaçao und Malta bis nach Deutschland, [steht, wer sie finanziert und was die Behörden wussten](https://chaos.social/@Lilith/117312924344601490). Das [Gerichtsurteil](https://bsky.app/profile/lilithwittmann.bsky.social/post/3mwde2sxbus2s) im Widerspruchsverfahren im Zusammenhang mit der Malta Gaming Authority [stärkt zwar die Meinungs- und Pressefreiheit](https://netzpolitik.org/2026/malta-versus-lilith-wittmann-gerichtsurteil-staerkt-meinungs-und-pressefreiheit/), da die durch den "Hack" gewonnenen Dokumente an Presse und Ermittlungsbehörden weitergegeben durften, bestätigte aber die einstweilige Verfügung trotzdem in Teilen, so dass doch 15.000 bis 20.000 Euro Prozesskosten am Ende anfallen werden.
 
 ## Überwachung
 * Hackathon der Polizei: Mit neuen Ideen alte Fälle knacken
