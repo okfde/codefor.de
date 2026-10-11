@@ -217,60 +217,36 @@ Auf Biegen und Brechen soll am 2. Januar 2027 die deutsche EUDI-Wallet gemäß d
 Lange hat man sich davor versucht zu drücken, zwischenzeitlich auch noch Bearbeitungsgebühren von 500 € angedroht, aber [nun wurde](https://chaos.social/@stk/117226124378821645) (dreieinhalb Monaten) die [FragDenStaat-Anfrage](https://fragdenstaat.de/anfrage/haushaltsmittel-fuer-die-spark-plattform/1148837/anhang/ifgbescheid-spark-kaufmann_geschwaerzt.pdf) zu den Kosten von SPARK doch beantwortet: 32,6 Millionen € wurden bislang für SPARK Workflow und SPARK API ausgegeben, weitere 50 Millionen € sollen fließen. Zu teuer, zu komplex, trotz Open-Source kaum nachnutzbar und generell von [zweifelhaften Nutzen](https://mastodon.social/@bkastl/117284904223129907).
 
 ## Energie
-* Thüringens größtes Bürgerenergieprojekt ist am Netz
-  https://mastodon.social/@Ilmtal_eG/117200084283215721
-* Erst trifft Reiche die US-Gaslobby, dann ändert sie ihre Position zur EU-Methanverordnung. Das zeigen bislang unveröffentlichte Dokumente. Dabei ist Methan zu reduzieren ein schneller und wirksamer Hebel gegen die Klimakrise
-  https://www.greenpeace.de/klimaschutz/energiewende/gasausstieg/energiewendemonitoring#anchor-target-ceraweek
-  via https://greenpeace.social/@greenpeace_de/117235102311156076
-  * Kurz bevor Katherina Reiche sich gegen die EU-Methanverordnung stellte, sprachen sie und ihr Staatssekretär im Frühjahr bei der CERA-Week in Housten mit Konzernen und Lobbyvertretern, die dieses Vorhaben politisch bekämpfen
-    https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3muyb7vob7k2z
-  * Katherina Reiche und die CERAWeek: Was die BMWE-Akten über ihre Agenda verraten
-    https://www.cleanthinking.de/reiche-cera-week-akten/
-    * Katherina Reiche in Houston: Erklagte Dokumente zeigen fossilen Kurswechsel
-      https://www.telepolis.de/article/Katherina-Reiche-in-Houston-Erklagte-Dokumente-zeigen-fossilen-Kurswechsel-11463098.html
-  * Das Bundeswirtschaftsministerium vertuscht (laut correctiv vor 7 Tagen) Treffen und Gespräche mit der Gaslobby zum Gebäudemodernisierungsgesetz
-    https://correctiv.org/aktuelles/klimawandel/2026/09/16/ministerin-reiche-laesst-lobbytreffen-im-dunkeln/
-  * Hat das Wirtschaftsministerium die Gaslobby um Argumente gebeten?
-    https://fragdenstaat.de/artikel/klagen/2026/09/bat-das-wirtschaftsministerium-die-gaslobby-um-passende-argumente/?pk_campaign=mastodon
-  * Die Verschwiegenheit der Katherina R
-    https://steady.page/en/milliarden-briefing/posts/11e03757-61fc-45fb-b19e-b6cb85ed6b16
-* Liegt Kreis Borken plötzlich an der Nordsee?
-  https://www1.wdr.de/nrw/muensterland/kreis-borken/windpark-borken-kuestenregion-beteiligung-100.html
-  via https://bsky.app/profile/mariasattelschmied.bsky.social/post/3mv7wdc3ps226
-* "Künftig sollen Betreiber von Windkraft- und Solaranlagen in Zeiten hoher Strommarktpreise Gewinne zurückzahlen müssen."
-  https://taz.de/Katherina-Reiches-umstrittene-Reform/!6215598/
-  https://taz.de/Der-naechste-Streich-von-Katherina-Reiche-um-die-Wirtschaft-zu-bremsen-Keine-Entschaedigung-fuer-nicht-eingespeiste-Windenergie/!6211825/
-  via https://bsky.app/profile/miezi-katze.bsky.social/post/3mwnmvaqki22i
-* Reiche geht jetzt beim Höchststand vom Preis seit 2022 tatsächlich doch Gas einkaufen!
-  https://dju.social/@DerKlimablog/117281706711759760
-  * Gaspreis explodiert um 40 Prozent – warum Deutschland die Speicher nicht mehr voll bekommt
-    https://www.fr.de/wirtschaft/und-die-bundesregierung-schaut-nur-zu-gaspreis-auf-dreijahreshoch-zr-94473114.html
-    Absicht?: https://bsky.app/profile/rastadler.bsky.social/post/3murime2dis2c
-  * Reiche ordnet nun doch höhere Gasvorräte an
-    https://taz.de/Gasversorgung-im-Winter/!6217627/
-* Reiches Stromplan betrifft Millionen Deutsche – Energie-Experte warnt vor neuen Zusatzgebühren
-  https://www.fr.de/politik/reiches-stromplan-betrifft-millionen-deutsche-energieexperte-zerreisst-zr-94491293.html
-* Atomkraft-Comeback in Deutschland? Interne Papiere zeigen brisanten Reiche-Plan
-  https://www.merkur.de/wirtschaft/reiche-atomkraft-comeback-in-deutschland-brisanter-plan-von-zr-94488091.html
-* Tankrabatt: Was schert mich mein Geschwätz von gestern: "Wir können die hohen Weltmarktpreise in Deutschland nicht auf Dauer korrigieren mit nationalen Maßnahmen."
-  https://climatejustice.global/@parents4future/117293783842876580
-  * Debatte um Spritpreise: Deutschland mietet sich arm
-    https://taz.de/Debatte-um-Spritpreise/!6213364/
-* Deutsche Forscher machen Akkus dicker – und holen 15 Prozent mehr raus
-  https://www.basicthinking.de/blog/2026/09/21/akkus-ohne-pfas/
-* Wie die Energiekennzeichnung in der EU modernisiert werden kann
-  https://www.umweltbundesamt.de/themen/wie-die-energiekennzeichnung-in-der-eu-modernisiert
-* Nationale Resilienz für das Energiesystem (NaREsys)
-  https://naresys.de/projekt/
-  https://bsky.app/profile/solarpapst.bsky.social/post/3mvthzwtx5s24
-* Solarstromproduktion übertrifft bereits jetzt Vorjahreswert
-  https://www.heise.de/news/Solarstromproduktion-uebertrifft-bereits-jetzt-Vorjahreswert-11467510.html
-* Ökostrom deckt zu 61 Prozent den Bedarf in Deutschland ab
-  https://www.heise.de/news/Rekord-bei-Oekostrom-Anteil-steigt-auf-knapp-61-Prozent-11472002.html
-* Open Energy
-  https://energie-selbermachen.de/solarpotenzial/
-  https://hardware.prototypefund.de/open-energy-geht-an-den-start-was-wir-vorhaben-und-warum/
-  via https://chaos.social/@mavo/117316265632164919
+### Für Gaslobby
+[Unveröffentlichte Dokumente belegen](https://www.greenpeace.de/klimaschutz/energiewende/gasausstieg/energiewendemonitoring#anchor-target-ceraweek) den kausalen Zusammenhang zwischen dem Treffen der Wirtschaftsministerin Reiche mit der US-Gaslobby im Frühjahr auf der CERA-Week-Konferenz in Housten und ihren anschließenden Sinneswandel bei der EU-Methanverordnung (aufeinmal würde deren Umsetzung angeblich neue Gaslieferverträge behindern). [Damit fällt sie bewusst](https://www.telepolis.de/article/Katherina-Reiche-in-Houston-Erklagte-Dokumente-zeigen-fossilen-Kurswechsel-11463098.html) auch dem Umweltministeriums in den Rücken, das eine ganz andere Linie verfolgt. Die von Deutscher Umwelthilfe und FragDenStaat veröffentlichen [92 Seiten](https://www.cleanthinking.de/reiche-cera-week-akten/) Sprechzettel und Vorbereitungsunterlagen belegen zwar nicht, was in den einzelnen Gesprächen tatsächlich gesagt oder vereinbart wurde, aus der Agenda und den Talking Points lässt sich die Schlagseite ableiten (Gaslieferverträge und Atomstrom), auch daran, was alles nicht oder kaum besprochen werden sollte (z.B. erneuerbare Energien). 
+
+Auch die Neugestaltung des Gebäudemodernisierungsgesetz kann als Geschenk an die Gas-Lobby betrachtet, mindestens die Grüngasquote wurde eins-zu-eins übernommen. [Aber angeblich](https://correctiv.org/aktuelles/klimawandel/2026/09/16/ministerin-reiche-laesst-lobbytreffen-im-dunkeln/) sind laut Wirtschaftsministerium keine Protokolle über die Treffen von Ministeriums- mit Gaswirtschaftsvertretern geführt worden, gerade mal zwei Treffen (Juli 2025 und Januar 2026) mit der Gas-Lobby wurden offen gelegt. Das weitere Treffen undokumentiert geblieben sind, ist extrem unwahrscheinlich, aber unter der Ministerin [hat Intransparent System](https://steady.page/en/milliarden-briefing/posts/11e03757-61fc-45fb-b19e-b6cb85ed6b16).
+
+### Geld verbrennen
+Die deutschen Speicher sind nur gut zur Hälfte gefüllt, der gesetzlich vorgeschriebene Ziel-Füllstand von 80 Prozent zum 1. November damit wohl nicht mehr zu erreichen. Gleichzeitig ist der Gaspreis gerade [um weitere 40 Prozent gestiegen](https://www.fr.de/wirtschaft/und-die-bundesregierung-schaut-nur-zu-gaspreis-auf-dreijahreshoch-zr-94473114.html) und erreicht damit [einen neuen Höchststand seit 2022](https://dju.social/@DerKlimablog/117281706711759760). Doch jetzt erst hat hat Reiche das bundeseigene Energieunternehmen Sefe [angewiesen](https://taz.de/Gasversorgung-im-Winter/!6217627/), bis zum 15. Dezember 8 Terawattstunden Gas zu beschaffen. [Man könnte den Verantwortlichen unterstellen](https://bsky.app/profile/rastadler.bsky.social/post/3murime2dis2c), die Gasspeicher bewusst leerlaufen lassen zu haben, damit die Gasindustrie nun bei den hohen Preisen schön hohe Gewinne für sich erzielen zu können.
+
+Nur ein paar Wochen ist die Aussage von Merz über den auf zwei Monaten befristeten Einsatz des Tankrabatts im Sommer: "Wir können die hohen Weltmarktpreise in Deutschland nicht auf Dauer korrigieren mit nationalen Maßnahmen." Kurz vor den Wahlen in Berlin und Mecklemburg-Vorpommern [dann der Sinneswandel](https://climatejustice.global/@parents4future/117293783842876580), doch ein neuer Tankrabatt. Genutzt hat es den Regierungsparteien bei den Wahlen kaum, die Kosten für die Steuerzahlenden kommen dennoch. Hier zeigen sich die Prioritäten, wo und wer entlastet wird, und [wer eben nicht](https://taz.de/Debatte-um-Spritpreise/!6213364/). Man hätte auch andere Stelle entlasten, wo nicht die Gefahr besteht, dass die Mineralölkonzerne die Entlastungen nicht weitergeben, z.B. bei Deutschlandticket, bei Mieten oder Lebensmitteln. 
+
+### Gegen Erneuerbare
+Der Regierungsentwurf für das Erneuerbare-Energien-Gesetz (EEG) sieht vor, die Vergütung von Windrädern, nach ihrem Energiegewinnungs-Potential an ihrem jeweiligen Standort zu bemessen. Dadurch würde der geplante Bürgerwindpark im Kreis Borken [deutlich weniger Geld bekommen](https://www1.wdr.de/nrw/muensterland/kreis-borken/windpark-borken-kuestenregion-beteiligung-100.html), da der Kreis trotz 150 Kilometern Entfernung zur Nordsee nun als Küstenregion eingestuft wird.
+
+Man kann hier schon von einem ideologischen Feldzug gegen erneuerbaren Energien sprechen. So sollen zukünftig Betreiber von Windkraft- und Solaranlagen in Zeiten hoher Strommarktpreise Gewinne [zurückzahlen müssen](https://bsky.app/profile/miezi-katze.bsky.social/post/3mwnmvaqki22i). Dass Biomasse dagegen [gefördert werden soll](https://taz.de/Katherina-Reiches-umstrittene-Reform/!6215598/), scheint nur auf den ersten Blick positiv, denn auch hier soll mit dem Verbrennen von Holz in Holzheizkraftwerke eine Art der Stromgewinnung gefördert werden, deren Wirkungsgrad gerade mal bei 30 bis 40 Prozent liegt.
+
+Ungeachtet dieser Angriffe [übertrifft](https://www.heise.de/news/Solarstromproduktion-uebertrifft-bereits-jetzt-Vorjahreswert-11467510.html) die Solarstromproduktion bereits jetzt den Vorjahreswert und der Ökostrom-Anteil am Gesamtstrombedarf Deutschlands ist inzwischen auch [auf 61 Prozent gestiegen](https://www.heise.de/news/Rekord-bei-Oekostrom-Anteil-steigt-auf-knapp-61-Prozent-11472002.html).
+
+Eine vom Umweltbundesamt in Auftrag gegebene Studie unterbreitet Vorschläge, wie die Energiekennzeichnung für Strom, Gas, Wasserstoff, Wärme und Kälte in der EU [modernisiert werden könnte](https://www.umweltbundesamt.de/themen/wie-die-energiekennzeichnung-in-der-eu-modernisiert). Neben der Transparenz über den verwendeten Energieträger sowie die geografischen Herkunft der Energie, stehen Informationen über die zeitliche Korrelation zwischen Erzeugung und Verbrauch sowie Nachhaltigkeitszertifizierung im Fokus. Auf Grundlage dieser können Verbraucher:innen informierte Kaufentscheidungen treffen.
+
+### Bürgerenergie
+Energie dezentral produzieren und direkt vor Ort verbrauchen wäre möglich, wenn Nachbarn oder Energiegenossenschaften ihren durch Photovoltaik- oder Windkraftanlagen erzeugten Strom über das öffentliche Stromnetz gemeinschaftlich teilen würden. Doch dieses Energy-Sharing durch solche dezentralen Bürgerkraftwerken aktiv zu unterstützen, z.B. den administrativen Aufwand zu verringern (aktuell werden die Energieinitiativen wie vollwertige Stromversorger behandeln und müssen auch die ganzen Auflagen erfüllen). Auch beim schleppenden Ausbau vom Smart-Meter durch "Smart Meter Light"-Modelle Abhilfe zu schaffen, ist nicht vorgesehen. [Dagegen drohen](https://www.fr.de/politik/reiches-stromplan-betrifft-millionen-deutsche-energieexperte-zerreisst-zr-94491293.html) mit dem Prosumer-Aufschlag Zusatzgebühren, da aus Sicht der Bundesnetzagentur die Solaranlagen-Besitzer, trotz größtenteils Eigenversorgung, nachts und Winter das Stromnetz trotzdem nutzen.
+
+In [Göritzberg](https://de.wikipedia.org/wiki/G%C3%B6ritzberg) im Saale-Holzland-Kreis ist auf dem Gebiet einer ehemaligen Landebahn Thüringens größtes Bürgerenergieprojekt [ans Netz gegangen](https://mastodon.social/@Ilmtal_eG/117200084283215721).
+
+Mit den von [Open Energy](https://hardware.prototypefund.de/open-energy-geht-an-den-start-was-wir-vorhaben-und-warum/) veröffentlichten Statistiken und Datenanalysen kann man z.B. [die Frage beantworten](https://chaos.social/@mavo/117316265632164919), welche Großstadt, Gemeinde oder welches Bundesland [die meisten Balkonkraftwerke hat](https://energie-selbermachen.de/solarpotenzial/).
+
+### Batteriespeicher
+Im Forschunhsprojekt [NaREsys](https://naresys.de/projekt/) sollen haushaltsübliche Speicher [intelligent vernetzt](https://bsky.app/profile/solarpapst.bsky.social/post/3mvthzwtx5s24) und zu einem leistungsfähigen Verbund zusammengeführt werden, um das Stromnetz flexibler, stabiler und resilienter zu machen.
+
+Deutschen Forschenden ist es gelungen, durch ein neues Zellkonzept, die Kapazität von Energiespeicher um 15 Prozent zu bei gleichem Gesamtgewicht [zu steigern](https://www.basicthinking.de/blog/2026/09/21/akkus-ohne-pfas/). Bei der Produktion konnte dabei auf Ewigkeits-Chemikalien (PFAS) verzichtet werden, wodurch sogar die Herstellkosten sanken.
 
 ## Klima
 * Hitze und Klimakrise - was muss jetzt geschehen?
