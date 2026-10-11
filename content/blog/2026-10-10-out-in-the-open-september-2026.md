@@ -205,49 +205,16 @@ Weitere verwaltungsdigitalisierungsrelevante Themen, die im September aufkamen, 
 Deutsche Verwaltungsdigitalisierung ein Selbstbedienungsladen? Der private Verein Govtech Deutschland (vormals Govtech-Campus) ausgestattet mit allerdings nicht belegter Inhouse-Fähigkeit (auch die [FragDenStaat-Anfrage](https://fragdenstaat.de/anfrage/govtech-campus-finanzierung-inhousefaehigkeit-foerdermitglieder-politische-einflussnahme/) schaffte wenig Klarheit) kann von Behörden ohne Ausschreibung direkt mit Aufträgen [versorgt werden](https://pak-digs.gi.de/mitteilung/frag-den-staat-bmds-der-bescheid-war-eine-mogelpackung-tagesspiegel-background-interview-mit-dem-sprecher-des-gi-praesidiumsarbeitskreises-digitale-souveraenitaet), die Govtech dann nicht mal selbst umsetzt, sondern an seine Vereins-Mitglieder weiterverteilt, das Ganze ohne Legitimation der zuständigen Gremien und ohne demokratische (Kosten-)Kontrolle, und nach außen hin dann noch als staatliche Dienste darstellt. So auch bei der Steuerung der Gesundheitscloud in Baden-Würtemberg, zwar von einem anderen Verein gesteuert, Govtech Deutschland ist aber hier auch beteiligt. Umgesetzt werden die Lösungen zudem noch mit propriärerer Software quasi als Parallelstruktur zum eigentlich angestrebten digital souveränen Deutschland-Stack. Auf dem KGSt-Kongress in Leipzig [entlud sich der Unmut der Länder-CIOs](https://www.linkedin.com/posts/matthias-punz-805b17175_%F0%9D%97%98%F0%9D%98%85%F0%9D%97%B8%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80%F0%9D%97%B6%F0%9D%98%83-in-einigen-l%C3%A4ndern-w%C3%A4chst-share-7506585597625638912-BZ-C/) über diese Vorgänge.
 
 ### Berlin Hack
-* Berlin: Passwörter abgeflossen, 12.000 Systeme werden gescannt
-  https://www.heise.de/news/Berlin-Passwoerter-abgeflossen-12-000-Systeme-werden-gescannt-11436809.html
-* IT-Sachverständiger: Berlin ignorierte Sicherheitslücken
-  https://www.n-tv.de/politik/IT-Sachverstaendiger-Berlin-ignorierte-Sicherheitsluecken-id31274982.html
-* Hackerangriff auf Berlin: Bundesbehörden unterstützen Ermittlungen zu Hackerangriff
-  https://www.zeit.de/digital/2026-09/hackerangriff-berlin-rhysida-bsi-bka
-* Cyberangriff: Hacker-Verein findet Berlins Nein zur Erpressung richtig
-  https://www.deutschlandfunk.de/hat-berliner-senat-richtig-gehandelt-interview-mit-gabriela-bogk-ccc-100.html
-* "Was tatsächlich abgeflossen ist, … das wissen wir erst seit Freitag 15:35 Uhr"
-  https://mastodon.social/@bkastl/117230178558717915
-  * Nicht-änderbare Passwörter in Fachverfahren
-    https://mastodon.social/@bkastl/117231423977937034  
-* Der Angriff wurde also erst deswegen gestoppt, weil jemand außerhalb Zuständigkeit gehandelt hat 
-  https://mastodon.social/@bkastl/117245618114562471
-* Hier ist jetzt das offizielle Wortprotokoll der 77. Sitzung des Ausschusses für Digitalisierung und Datenschutz vom 7. September 2026.
-  https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-077-wp.pdf
-  via https://social.tchncs.de/@jela/117290761060273088
-* Hackerangriffe: So sicher sind Daten in norddeutschen Behörden
-  https://www.ndr.de/nachrichten/info/hacker-angriffe-so-sicher-sind-die-daten-in-norddeutschen-behoerden,datensicherheit-164.html
-* Verschlusssachen in der Kommunalverwaltung
-  https://www.cyberkrisenmanagement.blog/verschlusssachen-in-der-kommunalverwaltung/
-* Mehr als 750 Menschen fürchten vom Hack der Senatsverwaltungen betroffen zu sein
-  https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-attacke-verwaltung-senat-beschwerden.html
+Bei den beiden gehackten Senatsverwaltungen, Stadtentwicklung und Mobilität, haben sich inzwischen 477 bzw. 280 Menschen [mit der Befürchtung gemeldet](https://www.rbb24.de/politik/beitrag/2026/09/berlin-cyberangriff-attacke-verwaltung-senat-beschwerden.html), dass sie in Folge des Datenabfluss betroffen sind. Dabei waren die eklatanten Sicherheitslücken [schon seit Jahren bekannt](https://www.n-tv.de/politik/IT-Sachverstaendiger-Berlin-ignorierte-Sicherheitsluecken-id31274982.html), sie zu schließen, hatte man nicht für nötig befunden, nun sind unter anderem auch sensible Informationen über die Berliner Wasserversorgung in den leakten Daten zu finden und man hat bisher, auf Grund der schieren Menge, noch nicht mal alle Daten sichten können. Dass lange niemand bemerkte, dass so viele Daten überhaupt zieht, lag auch daran, dass der regionale IT-Dienstleister aus Budgetgründen [keinen Auftrag hatte](https://mastodon.social/@bkastl/117245618114562471), den Datenverkehr der Senatsverwaltungen dauerhaft zu überwachen. Dass er es punktuell dann doch gemacht hat, hat noch Schlimmeres verhindert. Wer die über 3 Stunden [Livestream](https://www.youtube.com/watch?v=KVLhj4F97pc) der 77. Sitzung des Ausschusses für Digitalisierung und Datenschutz am 7. September 2026 nicht komplett sehen möchte, kann nun auch im [offiziellen Wortprotokoll](https://www.parlament-berlin.de/ados/19/DiDat/protokoll/dd19-077-wp.pdf) nachlesen. Die wichtigsten Erkenntnisse wurden in [Social-Media-Threads](https://social.tchncs.de/@jela/117237093087788431) dokumentiert. Dabei kam heraus, dass bei 21 Fachverfahren bisher die Passwörter nicht geändert werden konnten, weil sie [fest im Quellcode hinterlegt](https://mastodon.social/@bkastl/117231423977937034) sind und nur der Hersteller sie dort austauschen kann. Und ohne Monitoring und Inventarisierung [konnte auch nicht getrackt werden](https://mastodon.social/@bkastl/117230178558717915), welche Daten abgeflossen sind, das ist erst nach Veröffentlichung des Datenleaks offensichtlicht. Der Chaos Computer Club findet [trotzdem richtig](https://www.deutschlandfunk.de/hat-berliner-senat-richtig-gehandelt-interview-mit-gabriela-bogk-ccc-100.html), dass sich Berlin nicht hat erpressen lassen, denn auch da hätte es keine Sicherheit gegegeben, dass die Daten doch veröffentlich oder weiterverkauft worden wären. Gleichzeitig hätte man sonst auch anderen Hackern signalisiert, dass man hier was holen kann.
 
-### EUDi
-* SPRIND sind Datenabflüsse im Kontext der #EUDiWallet egal
-  https://mastodon.social/@bkastl/117240347390608059
-* d-you: Deutschland startet digitale Identität für alle
-  https://bmds.bund.de/aktuelles/pressemitteilungen/detail/d-you-deutschland-startet-digitale-identitaet-fuer-alle
-  via https://mastodon.social/@bkastl/117241143725903907
-* d-you: Deutschland soll 2027 digitale Ausweise bekommen – Experten warnen vor einem Desaster
-  https://www.derstandard.de/story/3000000339366/d-you-deutschland-soll-2027-digitale-ausweise-bekommen-experten-warnen-vor-einem-desaster
-* Was braucht die EUDI-Wallet für eine erfolgreiche Umsetzung?
-  https://d-64.org/eudi-wallet-bericht/
-* EUDI-Wallet-App "d-you": Verbraucherschützer fordern besseren Datenschutz
-  https://www.heise.de/news/EUDI-Wallet-App-d-you-Verbraucherschuetzer-fordern-besseren-Datenschutz-11462248.html
+Auch andere Behörden [machen sich nun Sorgen](https://www.ndr.de/nachrichten/info/hacker-angriffe-so-sicher-sind-die-daten-in-norddeutschen-behoerden,datensicherheit-164.html), dass ihnen das gleiche wiederfahren kann, wie Berlin. Leider führt das [Präventionsparadox](https://de.wikipedia.org/wiki/Pr%C3%A4vention#Pr%C3%A4ventionsparadoxon) dazu, dass man zu oft denkt, bei der IT-Sicherheit sparen zu können, nach dem Motto: ist ja bisher auch immer gut gegangen.
 
-### Spark
-* Es hat nur 3,5 Monate gedauert, mir wurden Gebuehren von 500 EUR in Aussicht gestellt, aber: Jetzt laesst sich ein Preisschild an SPARK kleben. Laut BMDS seien bislang 32,6 Millionen EUR fuer SPARK Workflow und SPARK API ausgegeben worden
-  https://fragdenstaat.de/anfrage/haushaltsmittel-fuer-die-spark-plattform/1148837/anhang/ifgbescheid-spark-kaufmann_geschwaerzt.pdf
-  via https://chaos.social/@stk/117226124378821645
-* Spark frisst Multimillionen und kann kaum sinnvoll nach genutzt werden 
-  https://mastodon.social/@bkastl/117284904223129907
+Was Verschlusssachen sind, welche Schutzlevel es gibt und welche Grundregeln auch in der Kommunalverwaltung eingehalten werden müssen, [wird hier im Blog erklärt](https://www.cyberkrisenmanagement.blog/verschlusssachen-in-der-kommunalverwaltung/).
+
+### Deutsche Digialprojekte
+Auf Biegen und Brechen soll am 2. Januar 2027 die deutsche EUDI-Wallet gemäß der europäischen eIDAS-Verordnung 2.0 als digitale Identität für alle an den Start gehen, [trotz Personalmangel und Probleme in der Sicherheitsarchitektur](https://www.derstandard.de/story/3000000339366/d-you-deutschland-soll-2027-digitale-ausweise-bekommen-experten-warnen-vor-einem-desaster). Denn statt wie beim E-Personalausweis einen sicheren Kanal zur kurzzeitigen Identitätsbestätigung aufzubauen, sollen bei der digitalen Brieftasche die Daten kryptografisch signiert übermittelt. Solche unwiderruflich mit staatlichen Zertifikaten signierten Datensätze sind ein Geschenk für den Datenhandel, da die Daten damit garantiert echt sind, sie öffnen potenziellem Identitätsdiebstahl Tür und Tor, den Verantwortlichen [sind die Bedenken aber egal](https://mastodon.social/@bkastl/117240347390608059). Dass zum Start die pseudonymen Nutzung der Wallet nicht möglich ist, [wird ebenfalls von Verbraucherschützern kritisiert](https://www.heise.de/news/EUDI-Wallet-App-d-you-Verbraucherschuetzer-fordern-besseren-Datenschutz-11462248.html). Anwendungsfälle wie die Altersverifizierung sollten so datensparsam operieren wie möglich, für diesen wird der Zugriff auf die Identität oder gar das Lichtbild gar nicht benötigt, könnten aber nun von Diensteanbietern potenziell mit abgegriffen werden. Wofür aber immer Geld und ganz viel Enthusiasmus da ist, sind [Namensfindung und Logo](https://bmds.bund.de/aktuelles/pressemitteilungen/detail/d-you-deutschland-startet-digitale-identitaet-fuer-alle). Fragt sich nur, wer sich vom Namen d-you abgeholt fühlt.
+
+Lange hat man sich davor versucht zu drücken, zwischenzeitlich auch noch Bearbeitungsgebühren von 500 € angedroht, aber [nun wurde](https://chaos.social/@stk/117226124378821645) (dreieinhalb Monaten) die [FragDenStaat-Anfrage](https://fragdenstaat.de/anfrage/haushaltsmittel-fuer-die-spark-plattform/1148837/anhang/ifgbescheid-spark-kaufmann_geschwaerzt.pdf) zu den Kosten von SPARK doch beantwortet: 32,6 Millionen € wurden bislang für SPARK Workflow und SPARK API ausgegeben, weitere 50 Millionen € sollen fließen. Zu teuer, zu komplex, trotz Open-Source kaum nachnutzbar und generell von [zweifelhaften Nutzen](https://mastodon.social/@bkastl/117284904223129907).
 
 ## Energie
 * Thüringens größtes Bürgerenergieprojekt ist am Netz
