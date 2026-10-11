@@ -305,49 +305,30 @@ Der Fortschritt bei Gehirn-Computer-Schnittstellen [erfordert auch eine wirksame
 Die PISA-Studie testet weltweit in mehr als 90 Ländern, ob 15-Jährige ihr Wissen anwenden können, z.B. beim Textverständnis, Preisvergleich, Diagrammgrafiken richtig deuten. In diesem Jahr haben die deutschen Schüler das [schlechteste Ergebnis seit Beginn der Erhebung erbracht](https://www.tagesschau.de/inland/gesellschaft/pisa-deutschland-schueler-100.html). Gerade aber die Fähigkeit, Informationen kritisch zu hinterfragen, Zusammenhänge zu erkennen und einen eigenen Standpunkt zu entwickeln, werden gerade im KI-Zeitalter immer wichtig, daher findet OECD-Bildungsdirektor Andreas Schleicher diesen Negativtrend für alarmierend. Aber auch in anderen Länder sind die Jugendlichen von diesem Problem, lange und komplexe Texte lesen und verstehen zu können, betroffen. Dass unsere Bundesregierung die richtigen Schlüsse und geeignete Gegenmaßnahmen ergreifen wird, [ist eher nicht zu erwarten](https://www.bbc.com/news/articles/c5y52yq0nypo). 
 
 ## Kultur
-Es heißt immer, das Internet vergesse nichts. Dem ist aber nicht so. 38 Prozent der Webseiten aus 2013 sind heute nicht mehr erreichbar. Die durchschnittliche Lebenszeit einer Webseite liegt gerade mal bei 100 Tagen, sehr dynamische Webinhalten ändern sich gar im Minutentakt. Der Historiker Jens Crueger beschäftigt sich schon seit vielen Jahren mit dem Thema Web-Archivierung. Für ihn sind Web-Archive kritische Infrastruktur. [Es fehlt eine Strategie](https://netzpolitik.org/2026/kritische-infrastruktur-bei-der-web-archivierung-fehlt-die-strategie/) für einen definierten Sammlungsauftrag. Alles dem Internet Archive in den USA zu überlassen ist jedenfalls keine gute Strategie.
+Es heißt immer, das Internet vergesse nichts. Dem ist aber nicht so. 38 Prozent der Webseiten aus 2013 sind heute nicht mehr erreichbar. Die durchschnittliche Lebenszeit einer Webseite liegt gerade mal bei 100 Tagen, sehr dynamische Webinhalten ändern sich gar im Minutentakt. Der Historiker Jens Crueger beschäftigt sich schon seit vielen Jahren mit dem Thema Web-Archivierung. Für ihn sind Web-Archive kritische Infrastruktur. [Ihm fehlt eine Strategie](https://netzpolitik.org/2026/kritische-infrastruktur-bei-der-web-archivierung-fehlt-die-strategie/) für einen definierten Sammlungsauftrag. Alles dem [Internet Archive](archive.org/) in den USA zu überlassen ist jedenfalls keine gute Strategie, da dieses selbst zunehmend von KI-Scrapern überlastet ist.
 
+Viele Kulturorte haben keine eigene große IT-Abteilung, wenn sie überhaupt eine eigene IT-Stelle haben. Webseiten und die Systeme dahinter müssen trotzdem dauerhaft sicher laufen, Informationen barrierearm zugänglich gemacht werden und bei Problemen jemand verantwortliches ansprechbar sein. Die Kulturpolitik bzw. ein künftiges Kulturfördergesetz muss deshalb die Rahmenbedingungen [für einen zeitgemäßen digitalen Kulturbetrieb schaffen](https://www.technologiestiftung-berlin.de/profil/blog/berlin-digital-handlungsfaehig-machen-warum-kultur-digitale-grundlagen-braucht).
 
-
-* Berlin digital handlungsfähig machen: Warum Kultur digitale Grundlagen braucht
-  https://www.technologiestiftung-berlin.de/profil/blog/berlin-digital-handlungsfaehig-machen-warum-kultur-digitale-grundlagen-braucht
-
-
-* Global GLAM Wiki Call
-  https://meta.wikimedia.org/wiki/File:Global_GLAM_Wiki_call_23.webm
-  https://meta.wikimedia.org/wiki/Global_GLAM_calls
+Bei Wikimedia gibt es jeden Monat einen [Global GLAM Wiki Call](https://meta.wikimedia.org/wiki/Global_GLAM_calls), den im September kann man [hier nachschauen](https://meta.wikimedia.org/wiki/Event:Global_GLAM_call_2026-09-22).
 
 ## Transparenz
-* 1 Jahr Informationsfreiheit in Österreich – Forum Informationsfreiheit verkündet traurigen Rückschritt in das Fax-Zeitalter
-  https://www.informationsfreiheit.at/2026/09/01/1-jahr-informationsfreiheit-forum-informationsfreiheit-verkuendet-traurigen-rueckschritt-in-das-fax-zeitalter/
-  * Ein Student zwingt die Uni Wien, Notenstatistiken herauszugeben
-    https://istdaswichtig.at/ein-student-zwingt-die-uni-wien-notenstatistiken-herauszugeben/
-  * Amtsgeheimnis-Award "Mauer des Schweigens 2026" an Land Vorarlberg, Wiener Linien, Wirtschaftskammer Wien; Goldener Informationsfilter an Innenministerium
-    https://www.informationsfreiheit.at/2026/09/28/amtsgeheimnis-award-mauer-des-schweigens-2026-an-land-vorarlberg-wiener-linien-wirtschaftskammer-wien-goldener-informationsfilter-an-innenministerium/
-* Chemnitzer Polizei beschlagnahmt ZPS-Bus rechtswidrig
-  https://www.mdr.de/nachrichten/deutschland/politik/protestbus-polizei-chemnitz-zentrum-politische-schoenheit,zps-mifri-100.html
-* Debanking: Der lange Schatten von Donald Trump
-  https://fragdenstaat.de/artikel/exklusiv/2026/09/der-lange-schatten-von-donald-trump/
-  * OLG: Sparkasse Göttingen muss Konto der Roten Hilfe fortführen
-    https://rote-hilfe.de/meldungen/olg-sparkasse-goettingen-muss-konto-der-roten-hilfe-fortfuehren
-* Lobbyranking der Bundesländer 2026
-  https://lobbyranking.de
-  via https://mastodon.social/@transparency_de/117241158930748538
-* Bürokratieabbau und Korruptionsprävention
-  https://www.transparency.de/publikationen/detail/article/buerokratieabbau-1
-* "Das #Bundesverkehrsministerium hatte #Scheuer zunächst den Wunsch verwehrt, seine Anwaltskosten zu übernehmen […] Seit die #Union wieder das Verkehrsressort führt, kam es offenbar zu einem Sinneswandel."
-  https://www.n-tv.de/politik/Zwei-Zeugenaussagen-belasten-Ex-Verkehrsminister-Scheuer-id31315391.html
-  via https://climatejustice.global/@GermanZeroHH/117286056419871287
+### Drohende Abschaffung der Informationsfreiheit
+"Kann eine Demokratie ohne Informationsfreiheit funktionieren?", [fragt Beata Hubrig](https://okfn.de/blog/2026/08/demokratie-braucht-kontrolle.-kontrolle-braucht-informationen./) im Blog der Open Knowledge Foundation. Das Informationsfreiheitsgesetz ist Teil der demokratischen Infrastruktur unseres Landes. Und Demokratie braucht Kontrolle, Kontrolle braucht Informationen, und die Informationsfreiheit ist genau das Recht, eben diese Informationen einfordern zu können. Und wo Informationen fehlen, wächst der Raum für Intransparenz, welche die Kontrolle darüber erschwert, ob Macht legitim ausgeübt wird. Geht die politische Rechenschaftspflicht verloren, erodiert die Demokratie. 
+
+Auch die Diskutanten von Wikimedia Deutschland und Transparency International Deutschland e.V. [waren sich darin einig](https://www.linkedin.com/posts/wie-steht-es-um-die-informationsfreiheit-share-7508160235547766784-fL4S/), dass die Informationsfreiheit ein wirksames Kontrollrecht bleiben muss. Mit den nun geplanten Einschränkungen auf Bundesebene könnten Medien, Zivilgesellschaft und Abgeordnete vom Informationszugang ausgeschlossen, die unabhängige Informationsfreiheitsaufsicht abgeschafft und Plattformen wie FragDenStaat gezielt ausgebremst werden. Und die Antwort auf den angeblichen zu großen bürokratischen Aufwand ist nicht weniger Transparenz sondern bessere Transparenz. Das [Bündnis Transparenzgesetz](https://transparenzgesetz.de) hatte dazu bereits 2022 [einen Entwurf](https://transparenzgesetz.de/gesetzentwurf.pdf) für ein modernes Bundestransparenzgesetz vorgelegt, welches unter anderem proaktive Veröffentlichungspflichten, kostenfreier Zugang und eng gefasste Ausnahmen mit einer Abwägung des öffentlichen Interesses vorsah. Denn echten Bürokratieabbau erreicht man durch gute Digitalisierung und proaktive Veröffentlichung. 
+
+Was die geplante massive Beschneidung des Informationsfreiheitsgesetzes bedeutet und wie wir uns dagegen wehren können, themantisierten Ückück (Stephanie Henkel) und Jens Hänsch [in ihrem Vortrag](https://video.dresden.network/w/b9d3b210-82d0-4dd5-a4c3-eae3645e2dd0) bei den Datenspuren in Dresden.
+
+Mit der Begründung, dass "bereits jetzt zudem 90 Prozent der Anfragen zur Polizei abgelehnt würden, weil es um sensible Informationen gehe", [findet Brandenburgs Innenminister](https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-informationsfreiheit-ifg-recht-einschraenkung.html) Jan Redmann (CDU), dass "angesichts dessen es sinnvoller sei, wenn auf Grundlage des Informationszugangsgesetzes überhaupt keine Fragen mehr zur Polizei gestellt werden dürften". Damit würde dann der Aufwand entfallen, jedesmal eine Ablehnung formulieren zu müssen. Als Begründung schiebt er hinterher: "Wir wollen verhindern, dass Rückschlüsse auf Methoden der Polizei getroffen werden können". Der Zugang zu Informationen über die Polizei [würde damit abgeschafft werden](https://netzpolitik.org/2026/informationsfreiheit-in-brandenburg-die-verhoehnung-von-transparenz/). Wer so wenig Vertrauen in sein Volk aufbringen kann und will, sollte vielleicht besser kein Innenminister in einer Demokratie sein.
+
+### 1 Jahr Informationsfreiheit in Österreich 
+12 Jahre lang konnten Bürger:innen über das ehrenamtlich betriebene Portal [FragDenStaat.at](https://fragdenstaat.at) problemlos Anfragen per E-Mail an Behörden schicken. Mit dem Start des Informationsfreiheitsgesetzes (IFG) vor einem Jahr hat man diesen Übertragungsweg beim Finanz- und Justizministerium einfach blockiert. Man hat deswegen bei FragDenStaat.at eigens ein Feature entwickeln müssen, um die Anfragen nun per Fax den Behörden zu übermitteln. Insgesamt fällt das Fazit nach einem Jahr Informationsfreiheitgesetz in Österreich [zwiespältig aus](https://www.informationsfreiheit.at/2026/09/01/1-jahr-informationsfreiheit-forum-informationsfreiheit-verkuendet-traurigen-rueckschritt-in-das-fax-zeitalter/). Zwar wurden von den von Journalist:innen, NGOs, Bürgerinitiativen, Bürger:innen und gar Politiker:innen rege gestellten Anfragen drei Viertel vollständig oder teilweise beantwortet, es braucht aber zum Teil immer noch öffentlichen Druck und einigen Fällen auch Gerichte, da sich die Transparenz(un-)kultur in den Ämter sich nicht schlagartig zum besseren gewandelt hat. So hat das Forum Informationsfreiheit auch dieses Jahr wieder den Amtsgeheimnisaward "Mauer des Schweigens" für besondere Verdienste um die Verweigerung amtlicher Antworten [vergeben](https://www.informationsfreiheit.at/2026/09/28/amtsgeheimnis-award-mauer-des-schweigens-2026-an-land-vorarlberg-wiener-linien-wirtschaftskammer-wien-goldener-informationsfilter-an-innenministerium/). Den ersten Platz sicherte sich das Land Vorarlberg für seinen kreativen Versuch, E-Mails nicht herausgeben zu wollen, weil sie schon "fiktiv archiviert" wären. Auf Platz zwei und drei gingen an die Wiener Linien und die Wirtschaftskammer Wien. Das Bundesministerium für Inneres bekam den Sonderpreis dafür, dass sie einen Journalisten, der eine Information über Informationsfreiheitsgesetz angefordert hat, schlechter gestellt hatte gegenüber einem anderen Journalisten, die gleiche Information als Presseanfrage ersucht hatte.  
+  
+Der Politik-Podcast "Ist das wichtig?" [erläutert](https://istdaswichtig.at/ein-student-zwingt-die-uni-wien-notenstatistiken-herauszugeben/), welche weitreichende Folgen das Urteil des Bundesverwaltungsgericht hat, das einem Student der Universität Wien darin Recht gegeben hatte, von seiner Falkultät die Herausgabe umfassender Notenstatistiken und Lehrveranstaltungsevaluierungen nach Informationsfreiheitsgesetz zu verlangen.
+
+### Autoritarismus
 * Axel Springer und die Techmilliardäre – Die Lobbyforen eines Medienkonzerns
   https://www.lobbycontrol.de/reichtum-und-einfluss/axel-springer-und-die-techmilliardare-126623/
-* casinosecrets
-  https://www.lilithwittmann.de/series/casinosecrets/
-  via https://chaos.social/@Lilith/117312924344601490
-  * Gerade habe ich das Urteil im Widerspruchsverfahren im einstweiligen Rechtsschutz Malta Gaming Authority ./. Wittmann erhalten.
-    https://bsky.app/profile/lilithwittmann.bsky.social/post/3mwde2sxbus2s
-* Recherche enthüllt: Klimaforscher arbeiten für Ölkonzerne
-  https://www.zdfheute.de/wissen/ipcc-klimarat-lobbyismus-100.html
-  via https://det.social/@kloeffi/117312930785879392
 * Neue Ungereimtheiten bei Jens Spahns ohnehin schon fragwürdiger Teilnahme an geheimen Peter-Thiel-Netzwerktreffen
   https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101382028/jens-spahn-bei-thiel-treffen-wie-privat-waren-diese-dienstreisen-.html
   via https://bewegung.social/@lobbycontrol/117326493502422162
@@ -355,28 +336,44 @@ Es heißt immer, das Internet vergesse nichts. Dem ist aber nicht so. 38 Prozent
     https://www.telepolis.de/article/Jens-Spahn-raeumt-Sitz-im-Haushaltsausschuss-endlich-mal-eine-gute-Nachricht-11468255.html
   * Diskussion um Abwesenheit im Haushaltsausschuss: Könnte Jens Spahn Peter Thiel auf Sardinien getroffen haben?
     https://www.tagesspiegel.de/politik/diskussion-um-abwesenheit-im-haushaltsausschuss-jens-spahn-und-peter-thiel-offenbar-gleichzeitig-auf-sardinien-16111067.html
-* Hackathon der Polizei: Mit neuen Ideen alte Fälle knacken
-  https://www.diesachsen.de/justiz/hackathon-der-polizei-mit-neuen-ideen-alte-faelle-knacken-3184560
-* Wie steht es um die Informationsfreiheit in Deutschland?
-  https://www.linkedin.com/posts/wie-steht-es-um-die-informationsfreiheit-share-7508160235547766784-fL4S/
-* Wie die CDU die Transparenz abschaffen will - Talk vom 19.09.2026 auf den Datenspuren 2026 (zusammen mit Jens Hänsch)
-  https://video.dresden.network/w/b9d3b210-82d0-4dd5-a4c3-eae3645e2dd0
-* Meta droht wegen Cambridge Analytica neue Milliardenstrafe
-  https://www.heise.de/news/Meta-droht-wegen-Cambridge-Analytica-neue-Milliardenstrafe-11467008.html
+* "Das #Bundesverkehrsministerium hatte #Scheuer zunächst den Wunsch verwehrt, seine Anwaltskosten zu übernehmen […] Seit die #Union wieder das Verkehrsressort führt, kam es offenbar zu einem Sinneswandel."
+  https://www.n-tv.de/politik/Zwei-Zeugenaussagen-belasten-Ex-Verkehrsminister-Scheuer-id31315391.html
+  via https://climatejustice.global/@GermanZeroHH/117286056419871287
 * le loi c'est moi: Fortwährende Rechtsbrüche: Dobrindt vs. Rechtsstaat
   https://fragdenstaat.de/artikel/exklusiv/2026/09/dobrindts-rechtsbruche/
-* Malta versus Lilith Wittmann: Gerichtsurteil stärkt Meinungs- und Pressefreiheit
-  https://netzpolitik.org/2026/malta-versus-lilith-wittmann-gerichtsurteil-staerkt-meinungs-und-pressefreiheit/
-* Brandenburger Informationsfreiheit: Innenminister will Zugang zu Informationen über Polizei einschränken (bzw. abschaffen)
-  https://www.rbb24.de/politik/beitrag/2026/09/brandenburg-informationsfreiheit-ifg-recht-einschraenkung.html
-  * Informationsfreiheit in Brandenburg: Die Verhöhnung von Transparenz
-    https://netzpolitik.org/2026/informationsfreiheit-in-brandenburg-die-verhoehnung-von-transparenz/
-* Kann eine Demokratie ohne Informationsfreiheit funktionieren?
-  https://okfn.de/blog/2026/08/demokratie-braucht-kontrolle.-kontrolle-braucht-informationen./
 * Verfassungsschutz und Buchhandlungspreis: Dokumente wecken Zweifel an Weimers Darstellung
   https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101453186/weimer-schloss-buchhandlungen-von-preis-aus-diese-saetze-reichten-schon.html
+* Chemnitzer Polizei beschlagnahmt ZPS-Bus rechtswidrig
+  https://www.mdr.de/nachrichten/deutschland/politik/protestbus-polizei-chemnitz-zentrum-politische-schoenheit,zps-mifri-100.html
+* Debanking: Der lange Schatten von Donald Trump
+  https://fragdenstaat.de/artikel/exklusiv/2026/09/der-lange-schatten-von-donald-trump/
+  * OLG: Sparkasse Göttingen muss Konto der Roten Hilfe fortführen
+    https://rote-hilfe.de/meldungen/olg-sparkasse-goettingen-muss-konto-der-roten-hilfe-fortfuehren
+
+### Korruption
+* Recherche enthüllt: Klimaforscher arbeiten für Ölkonzerne
+  https://www.zdfheute.de/wissen/ipcc-klimarat-lobbyismus-100.html
+  via https://det.social/@kloeffi/117312930785879392
+* Lobbyranking der Bundesländer 2026
+  https://lobbyranking.de
+  via https://mastodon.social/@transparency_de/117241158930748538
+* Bürokratieabbau und Korruptionsprävention
+  https://www.transparency.de/publikationen/detail/article/buerokratieabbau-1
+* Meta droht wegen Cambridge Analytica neue Milliardenstrafe
+  https://www.heise.de/news/Meta-droht-wegen-Cambridge-Analytica-neue-Milliardenstrafe-11467008.html
+
+### Casino Secrets
+* casinosecrets
+  https://www.lilithwittmann.de/series/casinosecrets/
+  via https://chaos.social/@Lilith/117312924344601490
+  * Gerade habe ich das Urteil im Widerspruchsverfahren im einstweiligen Rechtsschutz Malta Gaming Authority ./. Wittmann erhalten.
+    https://bsky.app/profile/lilithwittmann.bsky.social/post/3mwde2sxbus2s
+* Malta versus Lilith Wittmann: Gerichtsurteil stärkt Meinungs- und Pressefreiheit
+  https://netzpolitik.org/2026/malta-versus-lilith-wittmann-gerichtsurteil-staerkt-meinungs-und-pressefreiheit/
 
 ## Überwachung
+* Hackathon der Polizei: Mit neuen Ideen alte Fälle knacken
+  https://www.diesachsen.de/justiz/hackathon-der-polizei-mit-neuen-ideen-alte-faelle-knacken-3184560
 * Immer mehr Polizei überwacht Messenger wie WhatsApp
   https://netzpolitik.org/2026/messenger-ueberwachung-immer-mehr-polizei-ueberwacht-messenger-wie-whatsapp/
 * Mehr als Social-Media-Verbot: Familienministerin will Alterskontrollen ausweiten
