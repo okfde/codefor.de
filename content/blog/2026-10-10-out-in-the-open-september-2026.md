@@ -358,49 +358,21 @@ In der [109. Ausgabe](https://www.transparency.de/publikationen/detail/article/b
 Im Rahmen der Recherche [#casinosecrets](https://www.lilithwittmann.de/series/casinosecrets/) von Lilith Wittmann zeigen tausende interne Behördenakten erstmals im Detail, wer hinter einer milliardenschweren Glücksspielindustrie, von Curaçao und Malta bis nach Deutschland, [steht, wer sie finanziert und was die Behörden wussten](https://chaos.social/@Lilith/117312924344601490). Das [Gerichtsurteil](https://bsky.app/profile/lilithwittmann.bsky.social/post/3mwde2sxbus2s) im Widerspruchsverfahren im Zusammenhang mit der Malta Gaming Authority [stärkt zwar die Meinungs- und Pressefreiheit](https://netzpolitik.org/2026/malta-versus-lilith-wittmann-gerichtsurteil-staerkt-meinungs-und-pressefreiheit/), da die durch den "Hack" gewonnenen Dokumente an Presse und Ermittlungsbehörden weitergegeben durften, bestätigte aber die einstweilige Verfügung trotzdem in Teilen, so dass doch 15.000 bis 20.000 Euro Prozesskosten am Ende anfallen werden.
 
 ## Überwachung
-* Hackathon der Polizei: Mit neuen Ideen alte Fälle knacken
-  https://www.diesachsen.de/justiz/hackathon-der-polizei-mit-neuen-ideen-alte-faelle-knacken-3184560
-* Immer mehr Polizei überwacht Messenger wie WhatsApp
-  https://netzpolitik.org/2026/messenger-ueberwachung-immer-mehr-polizei-ueberwacht-messenger-wie-whatsapp/
-* Mehr als Social-Media-Verbot: Familienministerin will Alterskontrollen ausweiten
-  https://netzpolitik.org/2026/mehr-als-social-media-verbot-familienministerin-will-alterskontrollen-ausweiten/
-  * Altersverifikation auf EU-Ebene kommt
-    https://www.politico.eu/article/eu-to-propose-new-legislation-on-minors-protection-on-thursday/
-    via https://eupolicy.social/@khaleesicodes/117274324718114447
-  * Mit dem EU Kids Act müssen alle sozialen Netzwerke, Video-Webseiten und Online-Spiele das Alter aller Nutzer überprüfen
-    https://chaos.social/@andre_meister/117280716531020144
-  * Der heutige Vorschlag der EU-Kommission zum Kids Act geht viel weiter als nur Social-Media-Verbot für Kinder unter 15
-    https://ohai.social/@senficon/117286642437725934
-  * Das ist eine Schuldumkehr - eine Meldepflicht mit Altersverifikation kann keine Lösung sein kann. Die Plattformen sind in der Pflicht.
-    https://www.l-iz.de/top-posts/2026/09/kinder-schuetzen-snapchat-stoppen-somi-klagt-gegen-social-media-plattform-video-670880
-    via https://social.anoxinon.de/@lz/117286928023014102
-  * EU Kids Act Entwurf
-    https://logbuch-netzpolitik.de/lnp561-zeitmaschinen-muessen-dringend-reguliert-werden
-    via https://23.social/@linuzifer/117359290554976403
-  * EU Kids Act: Die Meinung der Jugendlichen des Jugendbeirats zu den Gesetzesvorschlägen für Jugendliche
-    https://okfn.de/blog/2026/09/eu-kids-act-die-meinung-der-jugendlichen-des-jugendbeirats-zu-den-gesetzesvorschl%C3%A4gen-f%C3%BCr-jugendliche/
-* Digitaler Omnibus: Neues Bündnis will das Ende der Cookie-Banner einläuten
-  https://netzpolitik.org/2026/digitaler-omnibus-neues-buendnis-will-das-ende-der-cookie-banner-einlaeuten/
-* "Die Wahrscheinlichkeit, dass Massenüberwachung zu meiner Sicherheit beiträgt, ist ja viel, viel kleiner als die Wahrscheinlichkeit, dass sie mich auf die eine oder andere Weise zum Opfer macht."
-  https://bundesrechtsanwaltskammer.podigee.io/312-mir-30
-  via https://social.tchncs.de/@burningbecks/117234958464600552
-* Bürgerrechte ade: Wie die EU-Kommission die Zügel für Europol lockern will
-  https://www.heise.de/news/Buergerrechte-ade-Wie-die-EU-Kommission-die-Zuegel-fuer-Europol-lockern-will-11460767.html
-* Pilotprojekt Verhaltensscanner in Berlin: "Die Möglichkeit der anonymen Nutzung des öffentlichen Raums verschwindet"
-  https://netzpolitik.org/2026/pilotprojekt-verhaltensscanner-in-berlin-die-moeglichkeit-der-anonymen-nutzung-des-oeffentlichen-raums-verschwindet/
-* Geheimdienstreform im Bundestag: Wie weit geht Dobrindts Schnüffeloffensive?
-  https://taz.de/Geheimdienstreform-im-Bundestag/!6215607/
-* Heute im Bundestag: Die Bundesregierung will BND und Verfassungsschutz deutlich mehr Befugnisse geben.
-  https://digitalcourage.social/@padeluun/117326869903889412
-* SparrowMap
-  https://sparrowmap.com/
-  via https://social.coop/@notes/117326250622184376
-* Geleakte Dokumente: EU-Rat plant Massenüberwachung über Suchpläne
-  https://www.heise.de/news/Chatkontrolle-EU-Staaten-wollen-umfassende-Massenscans-per-Umweg-legalisieren-11468633.html
-* Chat Control: The EU’s CSAM scanner proposal
-  https://www.patrick-breyer.de/en/posts/chat-control/
-* Die geplante Legalisierung von Massenscans privater Chats ist gestern Abend im Trilog zur Chatkontrolle erst einmal gescheitert.
-  https://digitalcourage.social/@padeluun/117360565993659622
+### Geheimdienstreform
+Die Gesetzesentwürfe des Innenminister Alexander Dobrindt (CSU) zur Geheimdienstreform [wurden in 1. Lesung](https://digitalcourage.social/@padeluun/117326869903889412) erstmals im Bundestag besprochen und ist nun in die Ausschüsse verwiesen worden. Durch die Reform sollen aus dem Nachrichtendienst BND und dem Bundesamt für Verfassungsschutz vollwertige Geheimdienste mit weiterreichenden Befugnissen gemacht werden. Der Bundesverfassungsschutz soll dann Wohnungen heimlich betreten dürfen, ohne das je offengelegt werden muss. Der Unabhängigen Kontrollrat (UK-Rat), der die Geheimdienste dann [kontrollieren soll](https://taz.de/Geheimdienstreform-im-Bundestag/!6215607/) (die Bundesdatenschutzbeauftragte wurde davon entbunden), wird vermutlich in seiner jetzigen Besetzung (hauptsächlich Juristen) die Expertise dazu fehlen. 
+
+### EU Kids Act
+Unter dem Vorwand des Jugendschutzes wird mit den von EU Kids Act das Recht auf anonyme Teilhabe im offenen Internet massiv eingeschränkt. Denn die Altersüberprüfung müssen alle sozialen Netzwerke, Video-Webseiten, Online-Spiele, App-Stores und auch z.B. das Fediverse [umsetzen](https://www.politico.eu/article/eu-to-propose-new-legislation-on-minors-protection-on-thursday/). Es soll [keine Ausnahmen geben](https://chaos.social/@andre_meister/117280716531020144). Familienminsterin Prien [möchte sogar noch weiter gehen](https://netzpolitik.org/2026/mehr-als-social-media-verbot-familienministerin-will-alterskontrollen-ausweiten/), und die Verifikation auf Seiten ausweiten, für die man keinen Account braucht. Der EU Kids Act in der geplanten Form schließt Menschen unter 15 [vom öffentlichen Diskurs aus](https://ohai.social/@senficon/117286642437725934). Zudem sollen sie nur noch [über die Kontrolle von Elternaccounts](https://eupolicy.social/@khaleesicodes/117274324718114447) Accounts im Internet haben dürfen. Letztlich ist die ganze Diskussion um Social-Media-Verbot und Alterskontrollen [eine Schuldumkehr](https://www.l-iz.de/top-posts/2026/09/kinder-schuetzen-snapchat-stoppen-somi-klagt-gegen-social-media-plattform-video-670880), denn eigenlich sind die Plattformen in der Pflicht, ihre Nutzenden vor schädlichen Inhalten (Grooming, Extremismus, Sexting) [zu schützen](https://netzpolitik.org/2026/eu-kids-act-dieses-gesetz-macht-es-fuer-eltern-nicht-besser-sondern-schlimmer/) und auch nicht mit süchtigmachenden Dark-Patterns dauerhaft an sich zu binden. Letztlich ist das Gesetz in mehrerlei Hinsicht ein Geschenk an die großen Plattformen: sie werden nicht in der Pflicht genommen und durch die Altersverifizierung kommen sie unter Umständen an noch mehr (Identitäts-/Biometrie)Daten. Und wer in der Debatte überhaupt nicht gehört, sind die eigentlichen Betroffenen. Der Jugendbeirat von Jugend hackt legt deshalb [hier seine Position dar](https://okfn.de/blog/2026/09/eu-kids-act-die-meinung-der-jugendlichen-des-jugendbeirats-zu-den-gesetzesvorschl%C3%A4gen-f%C3%BCr-jugendliche/). Auch für sie verlagern die Verbote nur die Probleme, Digitalkompetenz ist auch nicht alleine eine Frage des Alters, man kann diese auch gezielt in Schulen aufbauen, wenn man ihnen dazu die Ressourcen gibt. Und vor allem wollen die Jugendlichen bei der Entwicklung der Schutzmaßnahmen beteiligt werden.
+
+### Massenüberwachung
+"Die Wahrscheinlichkeit, dass Massenüberwachung zu meiner Sicherheit beiträgt, ist ja viel, viel kleiner als die Wahrscheinlichkeit, dass sie mich auf die eine oder andere Weise zum Opfer macht.", [sagt](https://social.tchncs.de/@burningbecks/117234958464600552) Marina Weisband [im Podcast (R)echt interessant!](https://bundesrechtsanwaltskammer.podigee.io/312-mir-30). 
+
+Ungeachtet aller Kritik soll auch Europol [weiter aufgerüstet](https://www.heise.de/news/Buergerrechte-ade-Wie-die-EU-Kommission-die-Zuegel-fuer-Europol-lockern-will-11460767.html) und dafür der Datenschutz (und damit unsere Bürgerrechte) erheblich gelockert werden. Der diese stört bislang beim polizeilichen Einsatz von Big Data und experimentellen KI-Systemen. 
+
+Durch die zunehmende [Verbreitung automatisierter Verhaltensscanner](https://netzpolitik.org/2026/pilotprojekt-verhaltensscanner-in-berlin-die-moeglichkeit-der-anonymen-nutzung-des-oeffentlichen-raums-verschwindet/), wenn auch erst noch im Pilotbetrieb, sieht die Berliner Datenschutzbeauftragte, die anonymen Nutzung des öffentlichen Raums bedroht, wenn Menschen anlasslos dauergefilmt werden.
+
+### Chatkontrolle
+[Geleakte Dokumente zeigen](https://www.heise.de/news/Chatkontrolle-EU-Staaten-wollen-umfassende-Massenscans-per-Umweg-legalisieren-11468633.html), dass der EU-Rat den aktuelle Zustand mit der befristeten Chatkontrolle 1.0 durch die Einführung so genannter Suchpläne dauerhaft erhalten möchte. Mit solchen Plänen sollen Anbieter von Chat- und E-Mail-Diensten befristet Pauschalgenehmigungen erteilt werden, um Nachrichteninhalten ihrer Nutzenden zu durchleuchten. Die "Suchpläne" sind nun im Trilog zur Chatkontrolle [erst einmal gescheitert](https://digitalcourage.social/@padeluun/117360565993659622). Aber es wird nicht der letzte Versuch gewesen sein. Patrick Breyer hat auf seiner [Web-Seite)](https://www.patrick-breyer.de/beitraege/chatkontrolle/) alle wichtigen Hintergründen und bisherigen Abstimmungen sowohl zur Chatkontrolle 1.0 als auch 2.0 zusammengetragen. Aber auch schon jetzt [überwachen die Zoll- und Polizeibehörden](ttps://netzpolitik.org/2026/messenger-ueberwachung-immer-mehr-polizei-ueberwacht-messenger-wie-whatsapp/) ganz ohne Staatstrojaner Chats in WhatsApp, Telegram, Signal und Co. – ganz ohne Staatstrojaner. Rechtswissenschaftler halten diese Form der Messenger-Überwachung für rechtswidrig.
 
 ## KIll-Switch
 * KI-Schreibassistenten im britischen Gesundheitssystem verwechseln Medikamente und Diagnosen
@@ -464,6 +436,9 @@ Im Rahmen der Recherche [#casinosecrets](https://www.lilithwittmann.de/series/ca
   https://toot.fedilab.app/@apps/117338930832604221
 * TUXDLE
   https://tuxdle.com
+* Hackathon der Polizei: Mit neuen Ideen alte Fälle knacken
+  https://www.diesachsen.de/justiz/hackathon-der-polizei-mit-neuen-ideen-alte-faelle-knacken-3184560
+
 
 ## Fristen
 * [40C3 CfP](https://cfp.cccv.de/40c3/)
