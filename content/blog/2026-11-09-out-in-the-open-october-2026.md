@@ -53,6 +53,9 @@ type: blog
   https://wolfwitte.de/parlamentsdaten-oeffnen-parlamente-org-und-der-parlamentsspiegel/
 * OpenParlData.ch - Offene API und Standard für Schweizer Parlamentsdaten
   https://d64-322bf3.gitlab.io
+* API der Parlamentsdokumentation des Berliner Abgeordnetenhaus mit rotierenden API Key und Deutschland Lizenz   
+  https://pardok.parlament-berlin.de/portala/opendata.tt.html
+  https://chaos.social/@jk/117416399676789592
 
 ## Statistik
 * R Workspaces as Static Websites
@@ -278,6 +281,8 @@ type: blog
   https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business
 * Python schließt per Update kritische TLS-Lücke wegen eMudhra-Schlüsseln
   https://www.heise.de/news/Python-schliesst-per-Update-kritische-TLS-Luecke-wegen-eMudhra-Schluesseln-11499933.html
+* eMudhra Intermediate CA Compromise
+  https://emudhra.we-have-a-problem.com
 ### php2shell
 * php2shell: Kritische Sicherheitslücken erlauben Codeeinschleusung in PHP
   https://www.heise.de/news/php2shell-Kritische-Sicherheitsluecken-erlauben-Codeeinschleusung-in-PHP-11492938.html
@@ -1005,7 +1010,7 @@ type: blog
 * Samstag, 07.11.2026, 09:20, bis Sonntag, 08.11.2026, 16:00, Faculty of Information Technology, Brno University of Technology, Božetěchova 1/2, 61266 Brno: **OpenAlt - Conference about open software and data, IT security, DIY, IoT and more** <a title='Kalendereintrag OpenAlt - Conference about open software and data, IT security, DIY, IoT and more' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vT3BlbkFsdCAtIENvbmZlcmVuY2UgYWJvdXQgb3BlbiBzb2Z0d2FyZSBhbmQgZGF0YVwsIElUIHNlY3VyaXR5XCwgRElZXCwgSW9UIGFuZCBtb3JlLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYxMTAxVDA4MzQ1M1oNCkRUU1RBUlQ6MjAyNjExMDdUMDkyMDAwDQpEVEVORDoyMDI2MTEwOFQxNjAwMDANClNVTU1BUlk6T3BlbkFsdCAtIENvbmZlcmVuY2UgYWJvdXQgb3BlbiBzb2Z0d2FyZSBhbmQgZGF0YVwsIElUIHNlY3VyaXR5XCwgRElZXCwgSW9UIGFuZCBtb3JlDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL3d3dy5vcGVuYWx0LmN6LzIwMjYvZW4vDQpERVNDUklQVElPTjoNCkxPQ0FUSU9OOkZhY3VsdHkgb2YgSW5mb3JtYXRpb24gVGVjaG5vbG9neVwsIEJybm8gVW5pdmVyc2l0eSBvZiBUZWNobm9sb2d5XCwgQm/FvmV0xJtjaG92YSAxLzJcLCA2MTI2NiBCcm5vDQpHRU86NDkuMjI2NTIwMjsxNi41OTcwOTY1DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://www.openalt.cz/2026/en/
 * Samstag, 07.11.2026, 10:00-19:00, Impact Hub, Rollbergstraße 28a, 12053 Berlin: **Widerstand gegen Rechenzentren** <a title='Kalendereintrag Widerstand gegen Rechenzentren' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vV2lkZXJzdGFuZCBnZWdlbiBSZWNoZW56ZW50cmVuLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYxMTAxVDA4MzQ1M1oNCkRUU1RBUlQ6MjAyNjExMDdUMTAwMDAwDQpEVEVORDoyMDI2MTEwN1QxOTAwMDANClNVTU1BUlk6V2lkZXJzdGFuZCBnZWdlbiBSZWNoZW56ZW50cmVuDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2NyeXB0cGFkLmZyL2Zvcm0vIy8yL2Zvcm0vdmlldy8yWmNMVk1Sc1N5Wmk0YWNlQ2ZiZDBJRzFVbElTa0NITEhEWFdBSmJjTGdBLw0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpJbXBhY3QgSHViXCwgUm9sbGJlcmdzdHJhw59lIDI4YVwsIDEyMDUzIEJlcmxpbg0KR0VPOjUyLjQ3OTE3ODY7MTMuNDMyMjQ5OA0KRU5EOlZFVkVOVA0KRU5EOlZDQUxFTkRBUg0K">&#x1F4C5;</a>
-  * https://cryptpad.fr/form/#/2/form/view/2ZcLVMRsSyZi4aceCfbd0IG1UlISkCHLHDXWAJbcLgA/
+  * https://noderesist.de/wp-content/uploads/2026/09/2026-11-07_Einladung_Konferenz_Rechenzentren_GL_NoR.pdf
 * Montag, 09.11.2026, 08:45-16:45, Welle 7, Schanzenstrasse 5, 3008 Bern (Schweiz): **Linked Data Day 2026** <a title='Kalendereintrag Linked Data Day 2026' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTGlua2VkIERhdGEgRGF5IDIwMjYvL2lDYWw0aiAxLjAvL0VODQpCRUdJTjpWRVZFTlQNCkRUU1RBTVA6MjAyNjExMDFUMDgzNDUzWg0KRFRTVEFSVDoyMDI2MTEwOVQwODQ1MDANCkRURU5EOjIwMjYxMTA5VDE2NDUwMA0KU1VNTUFSWTpMaW5rZWQgRGF0YSBEYXkgMjAyNg0KTElOSztWQUxVRT1VSUQ6aHR0cHM6Ly93d3cuYmZoLmNoL2RlL2FrdHVlbGwvZmFjaHZlcmFuc3RhbHR1bmdlbi9saW5rZWQtZGF0YS1kYXktMjAyNi8NCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046V2VsbGUgN1wsIFNjaGFuemVuc3RyYXNzZSA1XCwgMzAwOCBCZXJuIChTY2h3ZWl6KQ0KR0VPOjQ2Ljk0Nzg5MjY1OzcuNDM2MTM5MTI2MjE2MzA3DQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
   * https://www.bfh.ch/de/aktuell/fachveranstaltungen/linked-data-day-2026/
 * Montag, 09.11.2026, 10:00, bis Freitag, 20.11.2026, 21:30, online: **Netzpolitik & Demokratie** <a title='Kalendereintrag Netzpolitik & Demokratie' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vTmV0enBvbGl0aWsgJiBEZW1va3JhdGllLy9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYxMTAxVDA4MzQ1M1oNCkRUU1RBUlQ6MjAyNjExMDlUMTAwMDAwDQpEVEVORDoyMDI2MTEyMFQyMTMwMDANClNVTU1BUlk6TmV0enBvbGl0aWsgJiBEZW1va3JhdGllDQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL25ldHpwb2xpdGlzY2hlLWJpbGR1bmcuZGUNCkRFU0NSSVBUSU9OOg0KTE9DQVRJT046b25saW5lDQpFTkQ6VkVWRU5UDQpFTkQ6VkNBTEVOREFSDQo=">&#x1F4C5;</a>
