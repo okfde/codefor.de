@@ -40,6 +40,10 @@ type: blog
   via https://ruhr.social/@derarndt/117506113678704628
 * Creative-Commons-Lizenzen verstehen leicht gemacht mit unseren Selbstlernkursen
   https://blog.tib.eu/2026/10/20/creative-commons-lizenzen-verstehen-leicht-gemacht-mit-unseren-selbstlernkursen/
+* Open Data Wiki
+  https://opendata.okfn.de
+  https://discourse.opencode.de/t/zeit-fuer-ein-open-data-wiki/5859/4
+
 ### Parlamentsdaten
 * RIS-Karte Bonn – Ratsinformationsdaten der Stadt Bonn im Überblick
   https://paderta.com/ris-karte-bonn-ratsinformationsdaten-der-stadt-bonn-im-ueberblick/
@@ -409,6 +413,8 @@ type: blog
 * Das 1,5 Grad Ziel ist nur noch mit Overshoot erreichbar. Also rückwirkend, mit CO2-Entnahme. Der neue Emissions Gap Report der UN zeigt jetzt, wie sich dafür die Emissionsminderung entwickeln muss: Minus 18 Prozent bis 2030. Im Vergleich zu 2025.
   https://www.unep.org/en/news-and-stories/press-release/new-unep-report-lays-out-emission-cuts-needed-return-15degc
   https://bsky.app/profile/uedio.bsky.social/post/3myeh4ebr7k22
+* Heat Inequality Map Europe
+  https://www.heat-inequality-map.com
 
 ## Mobilität
 * Elektrifizierung des ÖPNV schreitet nur langsam voran
@@ -465,6 +471,7 @@ type: blog
   https://tickerkarte.de
   https://mastodon.social/@tickerkarte/117494748555232255
   https://tickerkarte.de/methodik
+  https://discourse.opencode.de/t/tickerkarte-polizeimeldungen-und-amtliche-kriminalstatistik-auf-einer-karte/5923
 * 10 FREE satellite & geospatial data sources
   https://mastodon.social/@mbongowo/117514175153124359
 * Atlas of Human Seeings is a public map for recording the small human traces that shape a city
@@ -515,6 +522,8 @@ type: blog
   https://www.spiegel.de/politik/friedrich-merz-erstmals-reist-ein-nius-mitarbeiter-im-regierungsflieger-mit-a-95dd0222-c57c-4af0-b9d3-8649e24a5d9f
 * Top Recherche in der Financialtimes.com zu den Springer-Plänen einer TikTok-"Enteignung"
   https://bsky.app/profile/janoschdahmenmdb.de/post/3myjcrlyc3k2d
+* Media Ownwership Monitor Deutschland
+  https://germany.mom-gmr.org/de/
 
 ## Regierungsbildung Berlin
 * Bekommt Berlin unter einer Linken-Regierung kein Geld mehr?
@@ -958,6 +967,20 @@ type: blog
   https://www.belvedere.at/digitalmuseum2027
 * Call for Participation – WikipakaWG
   https://pretalx.wikimedia.de/40c3-2026/cfp
+* Fachtag zur Archivierung digitaler und multimedialer Produktionen in den darstellenden Künsten, Frist 1.12.
+  https://www.performing-arts.eu/de/news/newsstream/savethedate-fachtag-archivierung-digitaler-multimedialer-produktionen-darstellende-k%C3%BCnste/
+* 5. Open Science Festival (18.–19. März 2027), Frist: 12.11.
+  https://www.uni-bamberg.de/osfestival2027/call-for-proposals/
+
+## Termine
+* umsteigen.info, 5.11.
+  https://umsteigen.info
+* Engaging Communities with Investigations & Evidence (nur Journalisten aus Berlin), 18.11.
+  https://lime.ttc.io/index.php/19966?lang=en
+* Meet Reset! Berlin: Reclaiming Europe's Digital Common, 12.11.
+  https://www.eventbrite.com/e/meet-reset-berlin-reclaiming-europes-digital-commons-tickets-2003628596067?keep_tld=true
+* CDL Online-Barcamp: Welche Erfahrungen habt Ihr mit Discontinued Civic Tech gemacht?, 19.11
+  https://bsky.app/profile/civic-data-lab.bsky.social/post/3mzikjdp47c2c
 
 ## Und sonst so?
 * CCC Ticket Eskalation
