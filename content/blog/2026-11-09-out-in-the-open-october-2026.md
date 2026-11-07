@@ -23,7 +23,10 @@ Die [Open-Data-Veröffentlichung](https://opendata.leipzig.de/dataset/doppelhaus
 
 Texte und/oder Bilder von Veranstaltungen aus der Touristischen Landesdatenbank Schleswig-Holstein   stehen als [komprimierter JSON-Datensatz](https://opendata.schleswig-holstein.de/dataset/veranstaltungen-der-touristischen-landesdatenbank) im Open-Data-Portal [zum Download](https://norden.social/@MisterOpenData/117488907637307695). Das Eigenschaftsfeld "mediaLicense" definiert jeweils die Lizenzbedingungen. 
 
+## Open Science
 [Die Selbstlernkurse](https://blog.tib.eu/2026/10/20/creative-commons-lizenzen-verstehen-leicht-gemacht-mit-unseren-selbstlernkursen/) des Leibniz-Informationszentrums Technik und Naturwissenschaften und Universitätsbibliothek (TIB) helfen, Creative-Commons-Lizenzen besser zu verstehen.
+
+[Björn Bremb](https://de.wikipedia.org/wiki/Bj%C3%B6rn_Brembs) spricht in [seinem Vortrag](https://tube.interior.edu.uy/w/6a9rSjGjks5tDteR7L8os8) über gemeinnützige, auf Open-Source-Software basierende und durch die Forschenden selbst kontrollierte digitale Informations-Infrastrukturen, die einerseits helfen, die Erstellprozess von wissenschaftlichen Publikationen aus (Roh-)Daten [zu automatisieren](https://mastodon.uy/@dprieto/117400178431076650) und andererseits von elitären Zeitschriftenverlagen unabhängig machen. 
 
 ### Open Data Wiki
 Bei [Local Wikipedia](https://edjefferson.com/localwiki/) gibt man zum Start einen Ort ein, und bekommt eine Auswahl von Artikeln, die sich auf Objekte [im Umkreis von wenigen Kilometern beziehen](https://hachyderm.io/@jalefkowit/117485271180539092).
@@ -40,39 +43,24 @@ Zu mindestens auf Ebene der Landesparlamente bewegt sich etwas: mit dem [Parlame
 In seinem [Vortrag](https://d64-322bf3.gitlab.io) beschreibt Florin Hasler, wie [OpenParlData.ch](https://openparldata.ch/) (siehe auch [API](https://api.openparldata.ch/documentation) und [Open Source](https://gitlab.com/opendata.ch/openparldatach)) kostenlosen Zugang zu harmonisierten Daten von ​97 nationalen, kantonalen ​und kommunalen Parlamenten gewährt. Langfristiges Ziel bleibt hier aber auch, dass die sich noch [in Entwicklung befindenden Datenstandards](https://github.com/swiss/political-affairs-ech-group) für (öffentliche) Legislativdaten die derzeit noch eingesetzten Crawler irgendwann überflüssig machen. Es gibt auch schon Ideen und Konzepte zu möglichen [Geschäfts-/Finanziersmodellen](https://data-ecosystem-prototype-bf909a.gitlab.io), zu [Rechtsformen](https://data-ecosystem-prototype-bf909a.gitlab.io/governance/index.html) und zur [Qualitätssicherung](https://data-ecosystem-prototype-bf909a.gitlab.io/contributions/index.html).
 
 ## Statistik
-* R Workspaces as Static Websites
-  https://blog.thecoatlessprofessor.com/posts/introducing-webrarian/
-* Niedrigere Ernte und deutliche Preisanstiege bei Kartoffeln
-  https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_N070_61.html
-* Fast alle statistischen Diagramme in diesem Heft von Wirtschaft und Statistik (WiSta) wurden mit #ggplot2 erstellt, darunter Ridgeline Plots, Hexbin Charts und diese Bevölkerungspyramide, die mehrere Subpopulationen visualisiert und nebenbei etwas zur Erwerbsbeteiligung von Frauen aussagt.
-  https://www.destatis.de/DE/Methoden/WISTA-Wirtschaft-und-Statistik/2026/05/wista-052026.pdf?__blob=publicationFile&v=4
-  via https://norden.social/@wahlatlas/117466828809169141
-* This week's Data Vis Dispatch covers the results of the 2026 Brazil election
-  https://www.datawrapper.de/blog/data-vis-dispatch-october-27-2026-brazil-elections-apple-s-iphone-duo-and-coffee-prices
-* Digitale Barrierefreiheit: Gesetzlich vorgeschrieben, aber oft missachtet
-  https://www.tagesschau.de/investigativ/br-recherche/digitale-barrierefreiheit-100.html
+Seit 2020 müssten gesetzlich vorgeschrieben eigentlich alle Webseiten öffentlicher Stellen (und mittlerweile auch die von Onlineshops und Buchungsportale) barrierefrei sein. [Analysen von BR Data](https://www.tagesschau.de/investigativ/br-recherche/digitale-barrierefreiheit-100.html) zeigen aber, dass die meisten Seiten die Mindeststandards verfehlen. Auch wenn man sich seit letztem Jahr zum Melden von Verstößen an die Marktüberwachungsstelle der Länder für Barrierefreiheit von Produkten und Dienstleistungen in Magdeburg wenden kann, hat diese bisher von ihrem Recht, Bußgelder zu verhängen oder den Betrieb einer Webseite zu untersagen noch kein Gebrauch gemacht. Der Verein [Barrierenwatch](https://barrierenwatch.de) hilft Betroffenen die jeweils zuständige Anlaufstelle zu finden, aber ohne rechtsverbindliche Vorgaben (und vor allem deren Durchsetzung) fehlen Bewusstsein als auch Anreize, Webseiten entsprechend umzugestalten.
 
-## Open Science
-* Beyond journals: Infrastructures for open science automatization
-  https://tube.interior.edu.uy/w/6a9rSjGjks5tDteR7L8os8
-  via https://mastodon.uy/@dprieto/117400178431076650
+[Das Statistische Bundesamt meldet](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_N070_61.html), dass die Kartoffelernte 2026 absehbar nur drei Viertel der Menge des vergangenen Jahres erreichen wird, womit sich auch die mit 11,3 % deutlich gestiegenen Preise im September erklären. Neben der 11 % geringen Anbaufläche haben vor allem Hitze und Dürre zu den Ernteausfällen beigetragen.
+
+Nahezu alle im [aktuellen Heft für Wirtschaft und Statistik (WiSta)](https://www.destatis.de/DE/Methoden/WISTA-Wirtschaft-und-Statistik/2026/05/wista-052026.pdf?__blob=publicationFile&v=4) vorkommenden Statistik-Diagramme sind mit ggplot2 erstellt, so auch diese [Bevölkerungspyramide](https://norden.social/@wahlatlas/117466828809169141), aus der sich Subpopulationen als auch die Erwerbsbeteiligung von Frauen ablesen lässt.
+
+[James Balamuta zeigt](https://blog.thecoatlessprofessor.com/posts/introducing-webrarian/) an einem [Beispiel](https://coatless-wasm.github.io/webrarian/demo/), wie man mit dem neuen R-Paket [webrarian](https://github.com/coatless-wasm/webrarian) die Inhalte seines R-Projekt als statische Webseite hosten kann.
+
+Der [Data Vis Dispatch](https://www.datawrapper.de/blog/data-vis-dispatch-october-27-2026-brazil-elections-apple-s-iphone-duo-and-coffee-prices) für die letzte Oktoberwoche thematisiert unter anderem die Ergebnisse der Brasilien-Präsidentschaftswahl als auch die Verkaufszahlen des neuen iPhones.
 
 ## Open Source
-* DigitalOcean Quietly Ends Open Source Credits Program
-  https://itsfoss.com/news/digitalocean-open-source-credits-end/
-* Auf Michelangelos Handschrift basierender Font veröffentlicht: Michelangelus
-  https://www.microsoft.com/en-us/download/details.aspx?id=108856
-  https://www.heise.de/news/Michelangelus-Auf-Michelangelos-Handschrift-basierender-Font-veroeffentlicht-11481415.html
-* PhoneBot: Humanoider Open-Source-Roboter auf Basis eines alten Smartphones
-  https://www.heise.de/news/PhoneBot-Humanoider-Open-Source-Roboter-auf-Basis-eines-alten-Smartphones-11481842.html
-* allerleih.org
-  https://allerleih.org
-  https://codeberg.org/Allerleih
-  via https://norden.social/@AllerLeih/117401975829628487
-* For me, open source is in danger. We are used to comfort and we forgot the people behind.
-  https://toot.fedilab.app/@apps/117452323836132900
-* The people holding up the internet
-  https://sheets.works/data-viz/holding-up-the-internet
+### Unsichtbare Open Source Arbeit
+[Dieser scrollytelling Artikel](https://sheets.works/data-viz/holding-up-the-internet) erinnert daran, dass Milliarden Handys, Rechner und das Internet als solches nur auf Grund elementarer Software läuft, um die sich aber gerade mal eine handvoll Menschen (teils alleine und in ihrer Freizeit) kümmert, was verdeutlicht, auf welchem sandigen Grund unsere gesamte Infrastruktur steht und wie verwundbar diese ist. Die Arbeit dieser Personen wird als selbstverständlich angenommen und nicht hinterfragt, [was es mit ihnen macht](https://toot.fedilab.app/@apps/117452323836132900), wenn sie nun mit lieblos eingekippten oder gar nur mit KI generierten Bug-Reports konfrontiert und geflutet werden, teils auch mit Anspruchshaltung der Ersteller kombiniert. Kein Bewusstsein dafür, welche Folgen es haben wird, wenn sie ausbrennen oder in Rente gehen, ohne einen Nachfolger gefunden zu haben. Auch von Firmen, deren Gewinne zu großen Teilen darauf basieren, dass sie für Open-Source-Software nichts zahlen, kommt kaum was zurück, so hat der Cloudanbieter DigitalOcean scheinbar klammheimlich sein Open-Source- Credits-Programm, über das Open-Source-Entwickler bisher wenigstens sich die Hostingskosten für ihre Software haben sparen können, [eingestellt](https://itsfoss.com/news/digitalocean-open-source-credits-end/).
+
+### Neue Software und Hardware
+[Allerleih](https://allerleih.org) ist ein gemeinnütziger [Verleih-Marktplatz](https://norden.social/@AllerLeih/117401975829628487), ein "Fediverse der Dinge" als dezentrale [Open-Source](https://codeberg.org/Allerleih)-Plattform zum Teilen und Leihen von Alltagsgegenständen. Noch im Betastatus und aktuell nur für Lüneburg.
+
+Ein altes Android-Handy mit seinen Sensoren und Kameras hat Forschenden von der der University of California Los Angeles (UCLA) [genügt](https://www.heise.de/news/PhoneBot-Humanoider-Open-Source-Roboter-auf-Basis-eines-alten-Smartphones-11481842.html), um im [Open-Source-PhoneBot-Projekt](https://phonebot.dev) einen 48 cm kleinen humanoider Roboter [zu bauen](https://arxiv.org/abs/2610.08737).
 
 ## Digitale Souveränität
 * The Ultimate List of DRM-free Bookshops
@@ -966,11 +954,14 @@ Für den [Kanaltunnel Rendsburg](https://de.wikipedia.org/wiki/Kanaltunnel_Rends
   https://2027.dataweek.de/cfp.html
 
 ## Und sonst so?
+[Michelangelus](https://www.microsoft.com/en-us/download/details.aspx?id=108856) ist ein Font, der auf Michelangelos Handschrift basiert und von Microsoft nun Open Source [veröffentlicht wurde](https://www.heise.de/news/Michelangelus-Auf-Michelangelos-Handschrift-basierender-Font-veroeffentlicht-11481415.html).
+
 * CCC Ticket Eskalation
   https://tickets.eskalation.rocks/CCCDB/
   via https://chaos.social/users/marudor/statuses/117452713049945106
 * Silizium bekommt Konkurrenz: MIT baut Computer aus Bakterien
   https://www.basicthinking.de/blog/2026/10/22/bakterien-computer/
+
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Sonntag, 01.11.2026, online: **Digital Independence Day** <a title='Kalendereintrag Digital Independence Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYxMTA3VDE1MDgxMVoNCkRUU1RBUlQ6MjAyNjExMDFUMDAwMDAwDQpEVEVORDoyMDI2MTEwMVQyMzU5NTkNClNVTU1BUlk6RGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpLmRheQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
