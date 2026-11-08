@@ -140,58 +140,17 @@ Bereits bis einschließlich September wurden so viele Datenschutzvorfälle [in B
 ### Hacktober
 Und im Oktober häuften sich weitere Meldungen: im Dänisches Melderegister sind Daten [von 8,8 Millionen Menschen abgeflossen](https://www.tagesschau.de/ausland/europa/daenemark-hackerangriff-100.html), von der Eichstätt Stadtverwaltung haben Unbefugte [in einer Cyberattacke](https://www.eichstaett.de/aktuelles/cyber-attacke_stadtverwaltung-2845/) große Datenmengen [abgegriffen](https://www.br.de/nachrichten/bayern/hackerangriff-auf-eichstaett-grosse-datenmengen-abgeflossen,VXw0FDz). Die Server der Universität Leipzig sind seit 29.10. [nach einem Cyberangriff](https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/cyberangriff-internet-offline-sicherheit-wochenende,hackerangriff-uni-100.html) vorsorglich vom Netz genommen worden. [Eine Notseite](https://uni-l.info) informiert über den aktuellen Stand. Es wird jedoch [noch Wochen dauern](https://www.heise.de/news/Nach-Cyberangriff-Uni-Leipzig-weiterhin-offline-11506014.html), bis der Normalbetrieb wieder aufgenommen werden kann. Betroffen ist auch der E-Mail-Server. Die Abgabefristen für Abschlussarbeiten wurden inzwischen [mehrfach verschoben](https://www.diesachsen.de/bildung/uni-leipzig-bleibt-nach-hackerangriff-offline-3196683). Noch perifder waren die Angriffe in Frankreich, wo bei einem Hack die Temperaturen von Kühlregale [in über 400 Supermärkten](https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097) über Nacht auf 50 Grad hochgeregelt wurden. Am nächsten Morgen hatte man massenweise verdorbene Lebensmittel zu beklagen. Inzwischen wurde auf die gleiche Weise Anfang November auch [französische Blutbanken gehackt](https://taz.de/Cyberangriff-auf-Kuehlanlagen/!6227226/), hier konnte zum Glück noch schnell genug reagiert werden.
 
-  
-* Geräte lassen sich ohne Klick per Werbeanzeige hacken
-  https://netzpolitik.org/2026/werbeblocker-obligatorisch-geraete-lassen-sich-ohne-klick-per-werbeanzeige-hacken/
-  https://www.tagesschau.de/investigativ/br-recherche/spionage-software-werbung-100.html
-  https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/
-  * Anschauen reicht: Onlinewerbung als Sicherheitsrisiko
-    https://www.deutschlandfunkkultur.de/anschauen-reicht-warum-onlinewerbung-ein-sicherheitsrisiko-fuer-uns-alle-ist-100.html
-* "SMS des Todes": Sicherheitslücke lässt Android-Smartphones abstürzen
-  https://www.heise.de/news/SMS-des-Todes-Sicherheitsluecke-laesst-Android-Smartphones-abstuerzen-11506526.html
+Eine israelische Firma [soll Onlinewerbung genutzt haben](https://www.tagesschau.de/investigativ/br-recherche/spionage-software-werbung-100.html), um Spionagesoftware zu verbreiten, mit der sich detaillierte Profile von Nutzern bilden und Geräte infizieren ließen. Besonders hinterhältig, dass dazu [nichts geklickt werden musste](https://netzpolitik.org/2026/werbeblocker-obligatorisch-geraete-lassen-sich-ohne-klick-per-werbeanzeige-hacken/), allein [die Anzeige](https://www.deutschlandfunkkultur.de/anschauen-reicht-warum-onlinewerbung-ein-sicherheitsrisiko-fuer-uns-alle-ist-100.html) (Zero-Click) der Werbeanzeige reichte schon [zum komprimentieren](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/). Allein Werbeblocker helfen in solchen Fällen.
 
-### Zertifikate
-* They did the XKCD thing!
-  https://xkcd.com/221/
-  https://glauca.space/@q/117474051360413376
-  via https://furry.engineer/@soatok/117474241817959312
-  * truly a wild time to be alive when the cryptography world is split between those worried about quantum computers and those whose private key is “4”
-    https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/
-    via https://hachyderm.io/@molly0xfff/117475727199534633
-* GoDaddy: Delayed Certificate Revocation
-  https://bugzilla.mozilla.org/show_bug.cgi?id=2083191
-  via https://chaos.social/users/christopherkunz/statuses/117477623277540512
-* eMudhra to Exit global SSL/TLS Certificate Business
-  https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business
-* Python schließt per Update kritische TLS-Lücke wegen eMudhra-Schlüsseln
-  https://www.heise.de/news/Python-schliesst-per-Update-kritische-TLS-Luecke-wegen-eMudhra-Schluesseln-11499933.html
-* eMudhra Intermediate CA Compromise
-  https://emudhra.we-have-a-problem.com
+Ein Sicherheitsforscher [hat eine Sicherheitslücke aufgedeckt](https://www.heise.de/news/SMS-des-Todes-Sicherheitsluecke-laesst-Android-Smartphones-abstuerzen-11506526.html), bei der eine unsichtbare SMS-Nachricht Android-Handys zum Absturz bringt und derart in einer Reboot-Schleife gefangen hält, dass nur das Zurücksetzen auf die Werkseinstellung als Option bleibt.
 
 ### php2shell
-* php2shell: Kritische Sicherheitslücken erlauben Codeeinschleusung in PHP
-  https://www.heise.de/news/php2shell-Kritische-Sicherheitsluecken-erlauben-Codeeinschleusung-in-PHP-11492938.html
-* Na, habt Ihr Euer souveränes Sharepoint aka Nextcloud schon vom Internet getrennt?
-  https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html
-  https://www.php.net/archive/2026.php#2026-10-20-1
-  https://www.openwall.com/lists/oss-security/2026/10/20/34
-  via https://23.social/@leyrer/117477507868109071
-* Version 1.2: PHP - Kritische Schwachstellen bedrohen Webanwendungen weltweit
-  https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032.html
-* Ondřej Surý
-  https://mastodon.rfc1925.org/@ondrej
-* The PHP Foundation describes the technical and organisational difficulties involved, including limited resources, decision-making problems, and a dependence on a small number of people with deep knowledge of PHP's internals.
-  https://mastodon.online/@tarakiyee/117483600051550036
-* php2shell as meme
-  https://phpc.social/@remi/117494652109478620
-* Die PHP-Stiftung hatte zuletzt Ausgaben von rund 870.000 US-Dollar bei Einnahmen von nur gut 730.000 Dollar - von 536 Sponsoren und Einzelspendern, deren Zahl rückläufig war.
-  https://mastodon.social/@dennishorn/117497842675590445
-* BSI zu PHP-Sicherheitslücke: "Haben das Schlimmste noch nicht überstanden"
-  https://www.mdr.de/nachrichten/deutschland/gesellschaft/php-cyber-sicherheit-angriffe-webseiten-update-bsi-ccc-,sicherheitsluecke-106.html
+[Alle Versionen](https://www.heise.de/news/php2shell-Kritische-Sicherheitsluecken-erlauben-Codeeinschleusung-in-PHP-11492938.html) der letzten 20 Jahre der Webskriptsprache PHP sind von den [beiden entdeckten Schwachstellen](https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html), die unter dem Namen "php2shell" zusammengefasst werden, [betroffen](https://www.mdr.de/nachrichten/deutschland/gesellschaft/php-cyber-sicherheit-angriffe-webseiten-update-bsi-ccc-,sicherheitsluecke-106.html). Die Lücke ist als [kritisch eingestuft](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-297981-1032.html), da Angreifer über sie beliebigen Schadcode im Ausführungskontext des jeweiligen Webservers einschleusen können, um dann sensible Daten auszulesen oder gar die Kontrolle über den Server zu erlangen. Da zunächst noch kein [Sicherheitsupdate](https://www.php.net/archive/2026.php#2026-10-20-1) verfügbar war, haben viele (auch Behörden) [vorsorglich ihre Webseiten vom Netz genommen](https://23.social/@leyrer/117477507868109071). Neben Webseiten brauchen auch Internetrouter ein Update. Doch auch nach Veröffentlichung des [Patchs](https://www.openwall.com/lists/oss-security/2026/10/20/34) wird es mit Sicherheit noch einige Zeit dauern, bis alle betroffenen System aktualisiert worden sind, zumal viele Webserver privat betrieben werden. Mit digitaler Souveränität geht auch entsprechende Verantwortung einher, sich um die Sicherheit seiner Server zu kümmern, wenn sie nicht mehr zentral managen lässt. Bezeichnend auch wieder, dass die Behebung des Fehlers nur mit dem tiefen Wissen [weniger Leute](https://phpc.social/@remi/117494652109478620) über die PHP-Innereien [möglich war](https://mastodon.online/@tarakiyee/117483600051550036), zusätzlich erschwert durch organisatorische Unklarheiten im Entscheidungsprozess innerhalb der PHP-Stiftung. Die Stiftung kämpft so schon mit begrenzten Ressourcen (den Ausgaben von rund 870.000 US-Dollar stehen gerade mal Einnahmen von nur gut 730.000 Dollar [gegenüber](https://mastodon.social/@dennishorn/117497842675590445), und die Anzahl Sponsoren und Einzelspendern ist auf 536 geschrumpft).
 
-### Brotli-Decoder-Lücke
-* Brotli-Decoder-Lücke nicht nur in Node.js, sondern auch in Bun, Python und mehr
-  https://social.heise.de/users/heisec/statuses/117506656376461519
+Auch andere Programmiersprachen bleiben nicht verschont: die inzwischen als [broccoli2shell](https://broccoli2shell.com) bezeichnete Lücke in Googles C-Decoder für den Kompressionsalgorithmus Brotli [betrifft jede Software](https://social.heise.de/users/heisec/statuses/117506656376461519), die diese Decoder-Implementierung nutzt.
+
+### Zertifikate
+Von der niederländisch-indischen Zertifizierungsstelle eMudhra [ausgegeben TLS-Zwischenzertifikate](https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/) haben sich [als schlampig erzeugt](https://www.heise.de/news/Vorfall-bei-Zertifizierungsstelle-eMudhra-Acht-CA-Zertifikate-kompromittiert-11494412.html) herausgestellt. Ihre privaten Schlüssel waren [viel zu leicht zu erraten](https://furry.engineer/@soatok/117474241817959312), so dass Angreifer mit ihnen gültige Zertifikate für beliebige Domains ausstellen hätten können. Welche Kreise dieser Fauxpas zieht, dokumentiert [diese Seite](https://emudhra.we-have-a-problem.com), zahlreiche Zertifikate mussten widerrufen werden, Programmiersprachen wie Python [mussten geupdatet werden](https://www.heise.de/news/Python-schliesst-per-Update-kritische-TLS-Luecke-wegen-eMudhra-Schluesseln-11499933.html). eMudhra hat sich als Konsequenz inzwischen komplett aus dem SSL/TLS-Zertifikate-Geschäft zurückgezogen. Dass in der gleichen Woche GoDaddy 400.000 Zertifikate [widerrufen musste](https://www.codekunst-systems.com/aktuell/zertifikate-godaddy-widerruf-emudhra-chrome), hatte allerdings [nichts](https://chaos.social/users/christopherkunz/statuses/117477623277540512) mit eMudhra zu tun.
 
 ## Energie
 * Ökostrom deckt zu 61 Prozent den Bedarf in Deutschland ab
