@@ -122,50 +122,25 @@ Die mittelfränkische Stadt Treuchtlingen [setzt bereits seit 25 Jahren](https:/
 Der von Open Source Business Alliance (OSBA) ausgerichtete Open-Source-Wettbewerb für die öffentliche Verwaltung [hat die Gewinner für 2026 gekürt](https://www.heise.de/news/Wenn-Behoerden-Software-teilen-Die-Gewinner-des-Open-Source-Wettbewerbs-11496804.html).
 
 ### EUDi-Wallet
-* Schriftliche Stellungnahme der Sachverständigen Bianca Kastl, Innovationsverbund Öffentliche Gesundheit e.V.
-  https://www.bundestag.de/resource/blob/1222434/Stellungnahme-DIdG_Kastl-6-10-2026.pdf
-  via https://mastodon.social/@bkastl/117388553675793196
-* Anhörung zum Gesetzesentwurf "Digitale Identitätengesetz (DIdG)""
-  https://www.bundestag.de/ausschuesse/a23_digitales_staatsmodernisierung/anhoerungen/1216764-1216764
-* Experten bemängeln deutsche Umsetzung der EU-Wallet d-you
-  https://www.heise.de/news/EUDI-Wallet-Anhoerung-mit-viel-Kritik-an-d-you-Planung-11477850.html
-* Anfang 2027 startet die digitale Brieftasche, d-you. Vor dem Launch wollen wir sie auch mit Eurer Hilfe auf Herz und Nieren prüfen!
-  https://hackerone.com/common_codes?type=team
-  via https://machteburch.social/@BMDS@social.bund.de/117410246029467621
-* 35. Sitzung (teilweise öffentlich) - TOP 1
-  https://www.bundestag.de/ausschuesse/a23_digitales_staatsmodernisierung/anhoerungen/1223676-1223676
-* Bundestag macht Weg für die EUDI-Wallet frei
-  https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-digitale-identitaeten-gesetz-1223586
-* Digitale Identitätengesetz verabschiedet
-  https://netzpolitik.org/2026/digitale-identitaetengesetz-verabschiedet-schwuppdiwupp-die-digitale-brieftasche-kommt/
-* Stellungnahme zum Digitale Identitätengesetz: Vertrauen gehört ins Gesetz, nicht ins nächste Update
-  https://d-64.org/stellungnahme-eudi-wallet/
+Trotz aller in [schriftlichen Stellungnahmen](https://www.bundestag.de/resource/blob/1222434/Stellungnahme-DIdG_Kastl-6-10-2026.pdf) formulierten [Bedenken](https://mastodon.social/@bkastl/117388553675793196), [Anhörungen](https://www.bundestag.de/ausschuesse/a23_digitales_staatsmodernisierung/anhoerungen/1216764-1216764), [Kritik von Experten](https://www.heise.de/news/EUDI-Wallet-Anhoerung-mit-viel-Kritik-an-d-you-Planung-11477850.html), [weiteren Anhörungen](https://www.bundestag.de/ausschuesse/a23_digitales_staatsmodernisierung/anhoerungen/1223676-1223676) im Digitalausschuss, hat der Bundestag das [Digitale Identitätengesetz](https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-digitale-identitaeten-gesetz-1223586) verabschiedet und damit den Weg [für die EUDI-Wallet freigemacht](https://netzpolitik.org/2026/digitale-identitaetengesetz-verabschiedet-schwuppdiwupp-die-digitale-brieftasche-kommt/). D64 fordert den Deutschen Bundesrat in [einer Stellungnahme](https://d-64.org/stellungnahme-eudi-wallet/) auf, das Gesetz noch entscheidend nachzuschärfen, denn "Vertrauen gehört ins Gesetz, nicht ins nächste Update". Das Digitalministerium [ruft](https://social.bund.de/@BMDS/117410244978699808) im Rahmen des [d-you App & German EUDI Wallet Ecosystem Bug Bounty Program](https://hackerone.com/common_codes?type=team) dazu auf, die digitale Brieftasche, [d-you](https://d-you.gov.de) (aka [EUDI Wallet](https://eudi-wallet.gov.de)), noch auf Herz und Nieren zu prüfen, bevor sie Anfang 2027 startet.
 
 ## IT-Sicherheit
-* Wer eine Sicherheitslücke auf einer kommunalen Website entdeckt, benötigt einen klaren Meldeweg
-  https://kommunaler-notbetrieb.de/dashboard/security-txt-dashboard/#stx-auswahl=DE&stx-basis=k&stx-reiter=vergleich&stx-kennzahl=gefunden
-  via https://social.tchncs.de/@jela/117372147006844870
-* Ein Hacker hätte Hunderttausende Solaranlagen abschalten und so einen großflächigen Stromausfall verursachen können
-  https://www.zeit.de/digital/2026-10/hackerangriff-solaranlagen-sicherheitsluecke-blackout-solarenergie?freebie=b569b16f
-  via https://chaos.social/@evawolfangel/117398575530523868
-  https://chaos.social/users/evawolfangel/statuses/117492431055921862
-* Die Bundesregierung habe also das Geld, das sie eigentlich für IT-Sicherheit ausgeben sollte, "nicht zweckentsprechend eingesetzt"
-  https://netzpolitik.org/2026/bundesrechnungshof-digitalminister-macht-it-sicherheit-per-vogelstimmen-app/
-* Rückblick: OpenSSF-Datenbank erweitert GitHubs Malware-Warnungen
-  https://www.heise.de/news/Rueckblick-OpenSSF-Datenbank-erweitert-GitHubs-Malware-Warnungen-11492599.html
-* Höchststand bei Datenschutzvorfällen: 40 Prozent mehr Meldungen
-  https://www.datenschutz-berlin.de/pressemitteilung/hoechststand-bei-datenschutzvorfaellen/
-* Dialog für Cybersicherheit - Eine Handreichung
-  https://www.dialog-cybersicherheit.de/storage/uploads/ws26-endprodukte/2026_Handreichung_mit_Beispielen.pdf
-  https://www.dialog-cybersicherheit.de/storage/uploads/ws26-endprodukte/2026_Ergebnisbericht_WS_Journalismus.pdf
-  https://www.dialog-cybersicherheit.de/storage/uploads/ws26-endprodukte/2026_Notfalblatt.pdf
-  via https://machteburch.social/@Marcel/117500339555497781
+Wer eine Sicherheitslücke auf einer kommunalen Website entdeckt, [benötigt einen klaren Meldeweg](https://social.tchncs.de/@jela/117372147006844870). Dazu sollte auf der Hauptdomäne der jeweilige Kommune eine security.txt-Datei, deren Inhalt durch RFC 9116 standardisiert ist, hinterlegt sein. Nur leider haben das bisher [gerade mal 22 Prozent](https://kommunaler-notbetrieb.de/dashboard/security-txt-dashboard/#stx-auswahl=DE&stx-basis=k&stx-reiter=vergleich&stx-kennzahl=gefunden) aller Kommunen so umgesetzt. 
+
+Es gibt für das Digitalministerium seit letztem Jahr extra Bereichsausnahmen, damit dieses außerhalb der eigentlich geltenden Schuldenregel notwendige Invesitionen in die IT-Sicherheit vornehmen kann. Wie der Bundesrechnungshofs in einer Untersuchung [nun festgestellt hat](https://netzpolitik.org/2026/bundesrechnungshof-digitalminister-macht-it-sicherheit-per-vogelstimmen-app/), wurden die Gelder "nicht zweckentsprechend eingesetzt", sondern sind z.B. in Robotikforschung und in eine Vogelstimmen-Erkennungs-App geflossen.
+
+Im "Dialog für Cybersicherheit" sind zusammen mit dem BSI eine [Handreichung mit Beispielen](https://www.dialog-cybersicherheit.de/storage/uploads/ws26-endprodukte/2026_Handreichung_mit_Beispielen.pdf), ein [Ergebnisbericht](https://www.dialog-cybersicherheit.de/storage/uploads/ws26-endprodukte/2026_Ergebnisbericht_WS_Journalismus.pdf) und ein [Notfallblatt](https://www.dialog-cybersicherheit.de/storage/uploads/ws26-endprodukte/2026_Notfalblatt.pdf) entstanden. Mit diesen Dokumenten sollen Journalist:innen [befähigt werden](https://machteburch.social/@Marcel/117500339555497781), besser über Cybersicherheitsvorfälle zu berichten.
+
+Eine Sicherheitslücke in weit verbreiteten Wechselrichtern, wäre sie von einem Hacker ausgenutzt worden, [hätte dafür gesorgt](https://chaos.social/@evawolfangel/117398575530523868), dass hunderttausende Solaranlagen offline gegangen wären, großflächiger Stromausfall inklusive.
+
+In Github-Repositories kann man die Abhängigkeiten seiner Software-Projekte von Dependabot hinsichtlich gemeldeter Malware dauerhaft überprüfen lassen. Um nicht für jedes Programmiersprachen-Ökosystem selbst eine solche Wissensbasis aufbauen zu müssen, hatte man im Juli die OpenSSF-Datenbank [als Datenlieferant angebunden](https://www.heise.de/news/Rueckblick-OpenSSF-Datenbank-erweitert-GitHubs-Malware-Warnungen-11492599.html). Eine [Fallstudie](https://openssf.org/blog/2026/10/16/case-study-github-expands-malware-advisories-across-eight-ecosystems-with-openssf/) der OpenSSF hat ergeben, dass mehr als 28.000 Malware-Meldungen von GitHub stammen. 
+
+Bereits bis einschließlich September wurden so viele Datenschutzvorfälle [in Berlin gemeldet](https://www.datenschutz-berlin.de/pressemitteilung/hoechststand-bei-datenschutzvorfaellen/), wie für das gesamte Jahr 2025. Vor allem durch KI lassen sich nun leider Cyberangriffe schneller und professioneller durchführen, wodurch personenbezogener Daten unbefugt gelöscht, verändert oder offengelegt werden.
 
 ### Hacktober
-* Dänisches Melderegister mit Daten von 8,8 Millionen Menschen gehackt
-  https://www.tagesschau.de/ausland/europa/daenemark-hackerangriff-100.html
-* French supermarkets targeted by massive defrost cyberattack
-  https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097
+Und im Oktober häuften sich weitere Meldungen: im Dänisches Melderegister sind Daten [von 8,8 Millionen Menschen abgeflossen](https://www.tagesschau.de/ausland/europa/daenemark-hackerangriff-100.html), von der Eichstätt Stadtverwaltung haben Unbefugte [in einer Cyberattacke](https://www.eichstaett.de/aktuelles/cyber-attacke_stadtverwaltung-2845/) große Datenmengen [abgegriffen](https://www.br.de/nachrichten/bayern/hackerangriff-auf-eichstaett-grosse-datenmengen-abgeflossen,VXw0FDz). Die Server der Universität Leipzig sind seit 29.10. [nach einem Cyberangriff](https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/cyberangriff-internet-offline-sicherheit-wochenende,hackerangriff-uni-100.html) vorsorglich vom Netz genommen worden. [Eine Notseite](https://uni-l.info) informiert über den aktuellen Stand. Es wird jedoch [noch Wochen dauern](https://www.heise.de/news/Nach-Cyberangriff-Uni-Leipzig-weiterhin-offline-11506014.html), bis der Normalbetrieb wieder aufgenommen werden kann. Betroffen ist auch der E-Mail-Server. Die Abgabefristen für Abschlussarbeiten wurden inzwischen [mehrfach verschoben](https://www.diesachsen.de/bildung/uni-leipzig-bleibt-nach-hackerangriff-offline-3196683). Noch perifder waren die Angriffe in Frankreich, wo bei einem Hack die Temperaturen von Kühlregale [in über 400 Supermärkten](https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097) über Nacht auf 50 Grad hochgeregelt wurden. Am nächsten Morgen hatte man massenweise verdorbene Lebensmittel zu beklagen. Inzwischen wurde auf die gleiche Weise Anfang November auch [französische Blutbanken gehackt](https://taz.de/Cyberangriff-auf-Kuehlanlagen/!6227226/), hier konnte zum Glück noch schnell genug reagiert werden.
+
+  
 * Geräte lassen sich ohne Klick per Werbeanzeige hacken
   https://netzpolitik.org/2026/werbeblocker-obligatorisch-geraete-lassen-sich-ohne-klick-per-werbeanzeige-hacken/
   https://www.tagesschau.de/investigativ/br-recherche/spionage-software-werbung-100.html
@@ -174,15 +149,6 @@ Der von Open Source Business Alliance (OSBA) ausgerichtete Open-Source-Wettbewer
     https://www.deutschlandfunkkultur.de/anschauen-reicht-warum-onlinewerbung-ein-sicherheitsrisiko-fuer-uns-alle-ist-100.html
 * "SMS des Todes": Sicherheitslücke lässt Android-Smartphones abstürzen
   https://www.heise.de/news/SMS-des-Todes-Sicherheitsluecke-laesst-Android-Smartphones-abstuerzen-11506526.html
-* Hackerangriff auf Eichstätt: Große Datenmengen abgeflossen
-  https://www.br.de/nachrichten/bayern/hackerangriff-auf-eichstaett-grosse-datenmengen-abgeflossen,VXw0FDz
-  https://www.eichstaett.de/aktuelles/cyber-attacke_stadtverwaltung-2845/
-* Die Universität Leipzig hat nach einem Hackerangriff ihre Server offline genommen
-  https://mastodon.social/@mephisto976/117518203863256680
-  https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/cyberangriff-internet-offline-sicherheit-wochenende,hackerangriff-uni-100.html
-  https://uni-l.info
-  https://www.diesachsen.de/bildung/uni-leipzig-bleibt-nach-hackerangriff-offline-3196683
-  https://www.heise.de/news/Nach-Cyberangriff-Uni-Leipzig-weiterhin-offline-11506014.html
 
 ### Zertifikate
 * They did the XKCD thing!
