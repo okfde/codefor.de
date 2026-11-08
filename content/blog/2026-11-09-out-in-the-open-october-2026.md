@@ -107,33 +107,19 @@ Elon Musk hat [mehr als 276 Millionen Dollar](https://www.zeit.de/politik/auslan
 In der Regel schmieden die Reichen und Mächtigen hinter verschlossenen Türen ihre Pläne zur Umsetzung ihrer rechts­libertären Ideen. Durch ein Datenleck sind nun aber Teilnehmende und Themen von Peter Thiels Dialog-Reihe [öffentlich geworden](https://www.republik.ch/2026/10/09/im-safe-space-der-reichen-und-maechtigen). Wie weit der Arm der USA reicht, [zeigt sich auch darin](https://waag.social/@henk/117439380643444735), dass die Polizei in Amsterdam auf Geheiß der US-Administration Server des italienischen Internet-Dienste-Anbieters A/I beschlagnahmen konnte.
 
 ## Verwaltungs-Digitalisierung
-* eGovernment Monitor
-  https://egovernment-podcast.com/egov277-egovmon26/
-* Wie wird der Staat handlungsfähig?
-  https://d-64.org/wie-wird-der-staat-handlungsfaehig/
-* Spark-Workflow ausprobieren? Das geht ab sofort 
-  https://spark-workflow.de
-  via https://www.linkedin.com/posts/martin-krisch_sparkatsccon-activity-7515687281031106560-ytRo
-* Verwaltungsdigitalisierung in Deutschland: Not invented here
-  https://infoservice.heise.de/html_mail.jsp?params=wm70XRixaIenmUADx1%2BHzsid3OLMIi6LeSa0ZDTBjOy48QbFW%2FqmRTwfGRmORRbMsikvp1a2QND1n8o3awsG6Z0a2OjuQG%2FxVLljfaa%2FFreChsgra0jmJi5JRpicKlsa#gastbeitrag-1
-  via https://www.linkedin.com/posts/david-zellhoefer-5984552_osci-vs-fit-connect-der-streit-um-das-activity-7516034478931304448-XCFO
-* zukunftsort - Bamberger Smart City Kollektiv eG
-  https://www.companyhouse.de/zukunftsort-Bamberger-Smart-City-Kollektiv-eG-Bamberg
-  https://www.linkedin.com/posts/sascha-g%C3%B6tz-209b181a_smartcity-bamberg-zukunftsort-share-7520966021512589312-IO3r/
-* eGovernment Podcast Monatsschau 10/26
-  https://egovernment-podcast.com/egov282-monatsschau-10-26/
+Den [Spark-Workflow](https://spark-workflow.de), die Open-Source-Lösung, mit der Planungs- und Genehmigungsverfahren beschleunigt werden sollen, kann man in einer Guided Tour beispielhaft an einem Planfeststellungsantrag [selbst ausprobieren](https://www.linkedin.com/posts/martin-krisch_sparkatsccon-activity-7515687281031106560-ytRo). Auch alle andere Funktionen lassen sich unabhängig davon im Demonstrator erkunden.
+
+Knapp die Hälfte des Smart-City-Teams Bamberg hat mit der "[zukunftsort](https://www.companyhouse.de/zukunftsort-Bamberger-Smart-City-Kollektiv-eG-Bamberg) - Bamberger Smart City Kollektiv eG" eine eigene Firma in Form einer Genossenschaft [gegründet](https://www.linkedin.com/posts/sascha-g%C3%B6tz-209b181a_smartcity-bamberg-zukunftsort-share-7520966021512589312-IO3r/). Grund war das auslaufende Smart-City-Projekt. Die Genossenschaft möchte in den letzten Jahre gesammelte Wissen und Kontakte nutzen, um künftig Kommunen "bei strategischer Digitalisierung, der Umsetzung konkreter Projekte und Veränderungsprozessen" zu begleiten. 
+
+In der jüngsten Folge des eGovernment Podcasts [wird darüber diskutiert](https://egovernment-podcast.com/egov277-egovmon26/), warum trotz neuen Tiefsstand des Vertrauens in den Staat, die digitale Verwaltung besser ist, als sie gemeinhin von den Bürgern wahrgenommen wird und welche Schritte zu gehen sind, um die Lücke zwischen Wahrnehmung und Erwartung zu schließen. Weitere Verwaltungsdigitalisierungsthemen des vergangenen Monats werden in der [eGovernment Podcast Monatsschau](https://egovernment-podcast.com/egov282-monatsschau-10-26/) aufgegriffen, von Deutschland-Stack, Deutschland-App, Agentic AI Hub, EUDi Wallet zu Matrix.
+
 ### Steuergeldverschwendung
-* Ampel-Displays und Leihrad-Flop: Steuerzahlerbund rechnet mit Projekten ab
-  https://www.heise.de/news/VeloFlow-MVG-Rad-Millionenschwere-Digitalfoerderung-treibt-Stilblueten-11473459.html
-* "Mein Bildungsraum": Millionengrab für eine digitale Zeugnismappe
-  https://netzpolitik.org/2026/mein-bildungsraum-millionengrab-fuer-eine-digitale-zeugnismappe/
+Viel zu oft wird Steuergeld in wilden Smart-City-Visionen ohne tatsächlichen Bedarf versenkt, wie das Schwarzbuch des Steuerzahlerbund [anprangert](https://www.heise.de/news/VeloFlow-MVG-Rad-Millionenschwere-Digitalfoerderung-treibt-Stilblueten-11473459.html). Teils stimmt das Kosten-Nutzen-Verhältnis nicht, teils war die Risikoplanung so schlecht, dass Projekte daraufhin gescheitert sind. Die Nationale Bildungsplattform (NBP) "Mein Bildungsraum" ist so ein Beispiel für ein gescheitertes Großprojekt. Gestartet 2020 zu Blockchain-Hypezeiten hat sich die digitale Zeugnismappe inzwischen [zu einem Millionengrab entwickelt](https://netzpolitik.org/2026/mein-bildungsraum-millionengrab-fuer-eine-digitale-zeugnismappe/). Die Bundesregierung hat das Projekt nun offiziell gestoppt. Fehlende Abstimmung zwischen Bund und Länder, Parallelentwicklung, keine Standards, kein Klarheit über den Funktionsumfang und Zuständigkeiten, kombiniert mit der neoliberalen Vorstellung von "ökonomische Verwertbarkeit" von Wissen sind nur einige Gründe für das Scheitern.
+
 ### Open Source
-* Die Trendsetter-Kommune Treuchtlingen feiert 25 Jahre Open Source in der Stadtverwaltung! 
-  https://osb-alliance.de/featured/trendsetter-kommune-treuchtlingen-feiert-25-jahre-open-source-in-der-stadtverwaltung
-* Münchens Open-Source-Comeback
-  https://www.heise.de/news/Muenchen-Open-Source-ist-wieder-da-11484321.html
-* Open Source in der Verwaltung: Die Gewinner stehen fest
-  https://www.heise.de/news/Wenn-Behoerden-Software-teilen-Die-Gewinner-des-Open-Source-Wettbewerbs-11496804.html
+Die mittelfränkische Stadt Treuchtlingen [setzt bereits seit 25 Jahren](https://osb-alliance.de/featured/trendsetter-kommune-treuchtlingen-feiert-25-jahre-open-source-in-der-stadtverwaltung) Linux auf Verwaltungsrechner ein, erste Open-Source-Lösung hat man sogar schon seit 1999 im Einsatz. Neuentwicklungen und Anpassungen teilt man [auf Codeberg](https://codeberg.org/stadt_treuchtlingen). Wie sehr der Einsatz von Open-Source an politischen Vorgaben hängt, sieht man in München. Auch hier hatte man Anfang der 2000-er mit dem LiMux-Projekt die Umstellung auf Linux gestartet und 2013 schließlich vollzogen, nur um 2014 nach einem Politikwechsel wieder die Rolle rückwärts zu machen, aber auch diese Zurück-Umstellung von LibreOffice auf Microsoft Office dauert bis 2023. Seit 2020 gilt wieder Open Source als Normalfall bei der Software-Beschaffung. [München Open Source](https://opensource.muenchen.de/de/) listet alle [Open Source-Projekte](https://github.com/it-at-m/opensource.muenchen.de/tree/main/software), die von der bayrischen Landeshauptstadt entwickelt, beauftragt oder gesponsert werden.
+
+Der von Open Source Business Alliance (OSBA) ausgerichtete Open-Source-Wettbewerb für die öffentliche Verwaltung [hat die Gewinner für 2026 gekürt](https://www.heise.de/news/Wenn-Behoerden-Software-teilen-Die-Gewinner-des-Open-Source-Wettbewerbs-11496804.html).
 
 ### EUDi-Wallet
 * Schriftliche Stellungnahme der Sachverständigen Bianca Kastl, Innovationsverbund Öffentliche Gesundheit e.V.
@@ -174,7 +160,8 @@ In der Regel schmieden die Reichen und Mächtigen hinter verschlossenen Türen i
   https://www.dialog-cybersicherheit.de/storage/uploads/ws26-endprodukte/2026_Ergebnisbericht_WS_Journalismus.pdf
   https://www.dialog-cybersicherheit.de/storage/uploads/ws26-endprodukte/2026_Notfalblatt.pdf
   via https://machteburch.social/@Marcel/117500339555497781
-### Hacks
+
+### Hacktober
 * Dänisches Melderegister mit Daten von 8,8 Millionen Menschen gehackt
   https://www.tagesschau.de/ausland/europa/daenemark-hackerangriff-100.html
 * French supermarkets targeted by massive defrost cyberattack
@@ -214,6 +201,7 @@ In der Regel schmieden die Reichen und Mächtigen hinter verschlossenen Türen i
   https://www.heise.de/news/Python-schliesst-per-Update-kritische-TLS-Luecke-wegen-eMudhra-Schluesseln-11499933.html
 * eMudhra Intermediate CA Compromise
   https://emudhra.we-have-a-problem.com
+
 ### php2shell
 * php2shell: Kritische Sicherheitslücken erlauben Codeeinschleusung in PHP
   https://www.heise.de/news/php2shell-Kritische-Sicherheitsluecken-erlauben-Codeeinschleusung-in-PHP-11492938.html
@@ -234,6 +222,7 @@ In der Regel schmieden die Reichen und Mächtigen hinter verschlossenen Türen i
   https://mastodon.social/@dennishorn/117497842675590445
 * BSI zu PHP-Sicherheitslücke: "Haben das Schlimmste noch nicht überstanden"
   https://www.mdr.de/nachrichten/deutschland/gesellschaft/php-cyber-sicherheit-angriffe-webseiten-update-bsi-ccc-,sicherheitsluecke-106.html
+
 ### Brotli-Decoder-Lücke
 * Brotli-Decoder-Lücke nicht nur in Node.js, sondern auch in Bun, Python und mehr
   https://social.heise.de/users/heisec/statuses/117506656376461519
