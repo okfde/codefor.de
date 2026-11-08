@@ -63,88 +63,49 @@ Der [Data Vis Dispatch](https://www.datawrapper.de/blog/data-vis-dispatch-octobe
 Ein altes Android-Handy mit seinen Sensoren und Kameras hat Forschenden von der der University of California Los Angeles (UCLA) [genügt](https://www.heise.de/news/PhoneBot-Humanoider-Open-Source-Roboter-auf-Basis-eines-alten-Smartphones-11481842.html), um im [Open-Source-PhoneBot-Projekt](https://phonebot.dev) einen 48 cm kleinen humanoider Roboter [zu bauen](https://arxiv.org/abs/2610.08737).
 
 ## Digitale Souveränität
-* The Ultimate List of DRM-free Bookshops
-  https://libreture.com/bookshops/
-  via https://mastodon.social/@libreture/117366070832090259
-* mautrix-bridges
-  https://docs.mau.fi/bridges/
-  via https://fairmove.net/@philippmonz/117389820245663540
-* 101 hat eine Digital-Genossenschaft für die deutschsprachige NGO-Welt & SocialEconomy gegründet
-  https://mastodon.social/@101coop/117434309715406740
-* Erste Anbieter zugelassen: Zendis startet OpenDesk-Partnerprogramm
-  https://www.heise.de/news/Erste-Anbieter-zugelassen-Zendis-startet-OpenDesk-Partnerprogramm-11488128.html
-* Minister Wildberger: Skalierung von #mastodon und Co. ist "Schwerpunkt der nächsten Monate"
-  https://social.bund.de/@DS_Stiftung/117445032477686091
-* RSS isn't dead. It's the resistance
-  https://toolbox.rss.here.now
-  via https://mastodon.gamedev.place/@grumpygamer/117447812241196966
-* LibreOffice Rescues Microsoft Users With Abandoned PUB Files
-  https://fossforce.com/2026/10/libreoffice-rescues-microsoft-users-with-abandoned-pub-files/
-  via https://hachyderm.io/@BenjaminHCCarr/117452262811991168
-* IndieWebify.Me
-  https://indiewebify.me
-  via https://topspicy.social/@meljoann/117460900446182890
-* LineageOS 24 ist fertig: Android 17 für viele Smartphones
-  https://www.heise.de/news/LineageOS-24-ist-fertig-Android-17-fuer-viele-Smartphones-11492286.html
-* EU-Länder einig beim Daten-Omnibus: Mehr KI-Training, weniger Datenschutz
-  https://netzpolitik.org/2026/eu-laender-einig-beim-daten-omnibus-mehr-ki-training-weniger-datenschutz/
-* Topio - Selbstbestimmung im digitalen Raum
-  https://www.topio.info/index.html
+### Ausbruch aus dem goldenen Käfig
+Mit zehn Gründungsmitgliedern wurde 101coop als Digital-Genossenschaft für deutssprachige NGOs und SocialEconomy [gegründet](https://mastodon.social/@101coop/117434309715406740). Selbst betrieben und solidarisch geteilt, bietet sie ihren Mitgliedern ab 2027 unter anderem Cloud-Dienste, IT-Helpdesk, Device Management mit IT-Flatrate an.
+
+Nach einem Update können Microsoft-365-Nutzende keine MS-Publisher-Dateien mehr öffnen. Microsoft möchte Desktop-Publishing nicht mehr unterstützen und empfiehlt, diese entweder zu PDF oder zum Editieren nach DOCX zu konvertieren. Layouttechnisch sind das aber [keine brauchbaren Lösungen](https://hachyderm.io/@BenjaminHCCarr/117452262811991168). Das Document Liberation Project hat deswegen das Dokumentenformat reverse-engineert und ein Plugin für LibreOffice und Scribus [veröffentlicht](https://fossforce.com/2026/10/libreoffice-rescues-microsoft-users-with-abandoned-pub-files/), damit man bei ihnen wenigstens noch solche Dateien importieren kann.
+
+Auf Libreture gibt es eine [regelmäßig](https://mastodon.social/@libreture/117366070832090259) aktualisierte [Liste von Online-Shops](https://libreture.com/bookshops/), die DRM-freie eBooks, digitale Comics und Magazine verkaufen.
+
+[Mit LineageOS 24](https://www.heise.de/news/LineageOS-24-ist-fertig-Android-17-fuer-viele-Smartphones-11492286.html) gibt es das alternative Betriebssystem nun auf Basis der im Juni veröffentlichten Android Version 17. Unterstützt werden aktuelle und ältere Android-Smartphones verschiedener Hersteller, mit diesem Update werden [24 weitere Geräte unterstützt](https://lineageos.org/Changelog-32/#added-24-devices).
+
+[Der Topio e.V.](https://www.topio.info/index.html) aus Berlin unterstützt [auf dem Weg](https://www.topio.info/privacy-smartphone.html) zu freien Smartphones, Tablets und Laptops und hilft bei der Installation freier Open-Source-Betriebssysteme.
+
+### Social Media
+Zurück zu den Wurzeln des Internets: Ganz im Sinne der [IndieWeb](https://indieweb.org)-Bewegung bietet [IndieWebify.Me](https://indiewebify.me) an, eine eigene Web-Präsenz aufzubauen, bei der man die volle Kontrolle über seine Inhalte [behält](https://topspicy.social/@meljoann/117460900446182890) und nicht von einzelnen (kommerziellen) Plattformen abhängt. Öffentliche Kommunikation und Austausch wird so plattformübergreifend möglich.
+
+Über Matrix-Bridges, wie sie gerade im [mautrix-Projekt](https://docs.mau.fi/bridges/) enstehen, soll man ebenfalls [plattformübergreifend](https://fairmove.net/@philippmonz/117389820245663540) mit Menschen, die nur z.B. bei Signal, Telegram oder WhatsApp sind, chatten können, ohne dazu seinen Matrix-Client der Wahl verlassen zu müssen.
+
+Up-to-date informiert zu bleiben ging bereits in den 2000-er Jahren - einfach den Newsfeed der Webseiten und Blogs, die einen interessieren, via RSS abonnieren. Und wie das stetig kuratierte Verzeichnis von ["The RSS Universe"](https://toolbox.rss.here.now) zeigt, ist der RSS-Standard [nicht tot](https://mastodon.gamedev.place/@grumpygamer/117447812241196966) und eine brauchbare Alternative zu Big-Tech-Social-Media-Plattformen mit Click-Baiting-Algorithmen.
+
+[Für den Digitalminister](https://social.bund.de/@DS_Stiftung/117445032477686091) Wildberger ist die Skalierung von Mastodon und Co der "Schwerpunkt der nächsten Monate". Mögen den Worten Taten folgen.
+
+### Politik
+Das Zentrum für Digitale Souveränität der Öffentlichen Verwaltung (Zendis) [erlaubt](https://www.heise.de/news/Erste-Anbieter-zugelassen-Zendis-startet-OpenDesk-Partnerprogramm-11488128.html) im Rahmen ihres OpenDesk-Partnerprogramms ersten zertifizierten privatwirtschaftlichen Unternehmen (aktuell Stackit, B1 Systems und Dachs IT) eigene kommerzielle Angebote rund um die freie Office- und Kollaborationssuite auf den Markt zu bringen.
+
+Die EU-Länder haben sich auf eine gemeinsame Position [zum Daten-Omnibus geeinigt](https://netzpolitik.org/2026/eu-laender-einig-beim-daten-omnibus-mehr-ki-training-weniger-datenschutz/): DSGVO-Auskunftsrechte geschwächt, weniger Cookie-Banner (zum Preis von nun teils nicht-zustimmungspflichtigen Trackings), weniger Einschränkungen beim KI-Training mit personenbezogenen Daten, wenn ein "berechtigtes" Interesse der Unternehmen vorliegt, was auch immer das bedeutet. 
+
 ### BigTech
-* Nvidia steigt bei Ärzteplattform Doctolib ein
-  https://www.t-online.de/finanzen/boerse/ticker/nvidia-steigt-bei-aerzteplattform-doctolib-ein/0DBA9A00EC2B2EC8/
-  https://www.zeit.de/wirtschaft/2026-10/nvidia-doctolib-beteiligung-ki-plattform-gesundheit
-* Google-Cloud-Ausfall legt Revolut und weitere Unternehmen lahm
-  https://www.heise.de/news/Google-Cloud-Ausfall-legt-Revolut-und-weitere-Unternehmen-lahm-11494278.html
-* New research together with Lobbycontrol reveals Big Tech's lobby campaign to kill data protection in Europe
-  https://www.corporateeurope.org/en/2026/10/big-tech-campaign-kill-data-protection-europe
-  via https://mstdn.social/@corporateeurope/117517739418528859
-* Transparency kritisiert Einfluss von US-Lobbyisten auf EU-Politiker
-  https://www.n-tv.de/politik/Transparency-kritisiert-Einfluss-von-US-Lobbyisten-auf-EU-Politiker-id31443600.html
+[Recherchen](https://www.corporateeurope.org/en/2026/10/big-tech-campaign-kill-data-protection-europe) von New Research und Lobbycontrol offenbaren, wie die Lobby-Kampagnen von Big-Tech die Datenschutzregulierungsbetrebungen im Kontext des EU Digital Omnibus [gezielt angegriffen haben](https://mstdn.social/@corporateeurope/117517739418528859). Konkret wirft Transparency International  zwei EU-Politikern vor, solchen Lobbyisten aus den USA privilegierten Zugang zu politischen Entscheidern [gewährt zu haben](https://www.n-tv.de/politik/Transparency-kritisiert-Einfluss-von-US-Lobbyisten-auf-EU-Politiker-id31443600.html), mit entsprechenden Folgen für Lieferkettengesetz und Nachhaltigkeitsberichtspflichten.
+
+[Da haben sich](https://www.zeit.de/wirtschaft/2026-10/nvidia-doctolib-beteiligung-ki-plattform-gesundheit) zwei gleich schlecht gesinnte gefunden: [Nvidia investiert](https://www.t-online.de/finanzen/boerse/ticker/nvidia-steigt-bei-aerzteplattform-doctolib-ein/0DBA9A00EC2B2EC8/) in die französische Online-Arzttermin-Buchungs-Plattform Doctolib.
+
+Ein Google-Cloud-Ausfall auf Grund von Stromversorgungsproblemen in der Region London (europe-west2) am 20.10. hat die Funktionsfähigkeit zahlreicher Unternehmen [erheblich gestört bis ganz lahm gelegt](https://www.heise.de/news/Google-Cloud-Ausfall-legt-Revolut-und-weitere-Unternehmen-lahm-11494278.html).  
+
 ### Account-Sperren auf Instagram und Facebook
-* Account-Sperren auf Instagram und Facebook: Metas Willkür unterworfen
-  https://netzpolitik.org/2026/account-sperren-auf-instagram-und-facebook-metas-willkuer-unterworfen/
-* Zuckerberg’s Meta Takes Down No Kings Instagram During Massive Protest Day - MeidasTouch
-  https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day
-  via https://mastodon.bits-und-baeume.org/@selbstreferent/117474568040287870
-* Mitarbeiter: Facebook und Instagram drosselten vor Brasilien-Wahl Lulas Reichweite
-  https://www.derstandard.de/story/3000000344645/mitarbeiter-facebook-und-instagram-drosselten-vor-brasilien-wahl-lulas-reichweite  
+Meta-Mitarbeitende [haben intern eingeräumt](https://www.derstandard.de/story/3000000344645/mitarbeiter-facebook-und-instagram-drosselten-vor-brasilien-wahl-lulas-reichweite), die Instagram- und Facebook-Konten des brasilianischen Präsidenten Luiz Inacio Lula da Silva während des Wahlkampfs hinsichtlich Reichweite und Interaktionsmöglichkeiten eingeschränkt zu haben. Meta selbst bestreitet die Vorwürfe. Auch der Instagram-Account der No-Kings-Bewegung war am 17. Oktober [zeitweise nicht erreichbar](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day) und anschließend noch eine zeitlang von den Administratoren nicht bedienbar, [just an dem Samstag](https://mastodon.bits-und-baeume.org/@selbstreferent/117474568040287870), wo massenweise Demonstranten in den USA auf den Straßen waren. Solche Konto-Sperrungen [sind keine Einzelfälle](https://netzpolitik.org/2026/account-sperren-auf-instagram-und-facebook-metas-willkuer-unterworfen/), meist fehlen "nachvollziehbare Begründungen, faire Einspruchsverfahren und Transparenzberichte über Sperrungen".
+
 ### Starlink-Drosselung
-* Vorwurf gegen die USA: Ukraine verliert Kontrolle über Drohnen – Trump unter Verdacht
-  https://www.t-online.de/nachrichten/ukraine/id_101480874/putins-angriffkrieg-starlink-ausfaelle-der-ukraine-vorwuerfe-gegen-trump.html
-* Ohne Vorwarnung: Ukraine beklagt plötzliche Starlink-Beschränkungen
-  https://www.heise.de/news/Ohne-Vorwarnung-von-SpaceX-Ukraine-beklagt-ploetzliche-Starlink-Beschraenkungen-11487892.html
-* Musk hat gelogen: Er persönlich drosselte Starlink für die Ukraine
-  https://www.derstandard.at/story/3000000345236/musk-hat-gelogen-er-persoenlich-drosselte-starlink-fuer-die-ukraine
-* Bloß weg von Elon: Ukraine erhält Satellitenaufklärung aus Finnland
-  https://www.nordisch.info/natur-forschung/bloss-weg-von-musk-ukraine-erhaelt-satellitenaufklaerung-aus-finnland/
-* Verbraucherzentrale mahnt Starlink ab
-  https://www.heise.de/news/Verbraucherzentrale-mahnt-Starlink-ab-11487946.html
-### Autarismus
-* Amsterdam police seize server of Italian internet service provider A/I on US request 
-  https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960?gift_token=4938960~1792586921~AUC73w4BRcmMEYMgr2r6uw~YMvykHFdRdiyZ5Xpc9k8dKoJLTLtZC05mIVPgp6n-xI
-  https://waag.social/@henk/117439380643444735
-* Cavallo: Auftritt von Audi-Chef bei Trump ist beschämend
-  https://www.heise.de/news/Cavallo-Auftritt-von-Audi-Chef-bei-Trump-ist-beschaemend-11499635.html
-* Die irreguläre Migration geht zurück, die EU-Grenzschutzagentur wird trotzdem ausgebaut
-  https://taz.de/Frontex-wird-Abschiebeagentur/!6225356/
-  * Aussage zu Seenotrettung im Mittelmeer: Eigenes Ministerium widerspricht Dobrindt
-    https://taz.de/Seenotrettung-im-Mittelmeer-Eigenes-Ministerium-widerspricht-Dobrindt/!6223381/
-* Im Safe Space der Reichen und Mächtigen
-  https://www.republik.ch/2026/10/09/im-safe-space-der-reichen-und-maechtigen
-  https://bsky.app/profile/republik.ch/post/3mxgebwr2hc2v
-* "Vor den US-Midterms im November ist Elon Musk offenbar zum größten Einzelspender der Republikaner geworden. Er spendete mehr als 276 Millionen Dollar für deren Wahlkampf."
-  https://www.zeit.de/politik/ausland/2026-10/elon-musk-spenden-republikaner-donald-trump-us-zwischenwahlen
-  * Macht und Milliarden: Warum Elon Musk wieder Rekordsummen an Trumps Republikaner spendet
-    https://www.fr.de/politik/trotz-regierungs-aus-warum-musk-millionen-an-trump-spendet-zr-94549120.html
-* Kleptokratie: Der Staat als Beute
-  https://www.spiegel.de/wissenschaft/mensch/donald-trump-wladimir-putin-elon-musk-der-staat-als-beute-kolumne-a-97bcc7c8-e98b-44dd-9f0d-a20e7252295a
-* Eigentlich mag ich ja nichts witziges über Despoten verbreiten, aber das Video hat was.
-  https://bsky.app/profile/pumuckel-2te.bsky.social/post/3myefzohl4e2k
-* Trump is Destroying Americans’ Healthcare
-  https://paulkrugman.substack.com/p/trump-is-destroying-americans-healthcare?r=2wr4yd&utm_campaign=post-expanded-share&utm_medium=web
-* Legal U.S. Resident Dies in ICE Detention
-  https://newrepublic.com/post/216846/green-card-holder-dies-ice-detention
+Die ukrainischen Streitkräfte [berichten Mitte Oktober](https://www.heise.de/news/Ohne-Vorwarnung-von-SpaceX-Ukraine-beklagt-ploetzliche-Starlink-Beschraenkungen-11487892.html) über plötzliche [technische Einschränkungen](https://www.t-online.de/nachrichten/ukraine/id_101480874/putins-angriffkrieg-starlink-ausfaelle-der-ukraine-vorwuerfe-gegen-trump.html) bei Starlink, wodurch es bei hohen Geschwindigkeiten der Drohnen zu Verbindungsabbrüchen kam. SpaceX und sein Eigentümer Elon Musk stritten jede Verantwortung ab und verwiesen auf das US-Militär als alleinigen Entscheider, das Wallstreet-Journal hat aber [inzwischen rausgefunden](https://www.t-online.de/nachrichten/ukraine/id_101480874/putins-angriffkrieg-starlink-ausfaelle-der-ukraine-vorwuerfe-gegen-trump.html), dass Musk gelogen und die Drosselung tatsächlich eigenmächtig angeordnet hatte. Inzwischen wurden die Beschränkungen zwar aufgehoben, die Ukraine bekommt nun aber trotzdem [Satellitenaufklärung aus Finnland](https://www.nordisch.info/natur-forschung/bloss-weg-von-musk-ukraine-erhaelt-satellitenaufklaerung-aus-finnland/), um die Abhängigkeit von Starlink zu reduzieren. Auch im Privat-Kundenbereich fiel Starlink zuletzt durch unsaubere Geschäftspraktiken auf: so hat man einfach den Preis für laufende Internettarife erhöht. [Nach Abmahnung](https://www.heise.de/news/Verbraucherzentrale-mahnt-Starlink-ab-11487946.html) durch die Verbraucherzentrale hat sich Unternehmen verpflichtig sowas zukünftig zu unterlassen.
+
+### Kleptokratie
+Elon Musk hat [mehr als 276 Millionen Dollar](https://www.zeit.de/politik/ausland/2026-10/elon-musk-spenden-republikaner-donald-trump-us-zwischenwahlen) für den Midterm-Wahlkampf der Republikaner gespendet. Der Erhalt lukrativer Aufträge von NASA und US-Verteidigungsministerium, keine Lust auf Regulierung durch Aufsichtsbehörde und die Sicherung des direkten Einfluss auf Gesetzgeber und Senatoren [sind nur einige Gründe für seinen Invest](https://www.fr.de/politik/trotz-regierungs-aus-warum-musk-millionen-an-trump-spendet-zr-94549120.html). Denn wären Musk und andere Kleptokraten immer behaupten, dass der Staat zu viel Geld ausgebe, [bereichern](https://www.spiegel.de/wissenschaft/mensch/donald-trump-wladimir-putin-elon-musk-der-staat-als-beute-kolumne-a-97bcc7c8-e98b-44dd-9f0d-a20e7252295a) sie sich selbst ungeniert am Staat bzw. dessen Steuergeldeinnahmen. Gleichzeitig wird Gesundheitssystem [weiter zerstört](https://paulkrugman.substack.com/p/trump-is-destroying-americans-healthcare?r=2wr4yd). Hielt den Audi-Chef Döllner [nicht davon ab](https://www.heise.de/news/Cavallo-Auftritt-von-Audi-Chef-bei-Trump-ist-beschaemend-11499635.html), bei einer Wahlkampfveranstaltung von US-Präsident Donald Trump aufzutreten. [Erst kommt das Fressen, dann kommt die Moral](https://beruhmte-zitate.de/zitate/62061-bertolt-brecht-erst-kommt-das-fressen-dann-kommt-die-moral/). 
+
+In der Regel schmieden die Reichen und Mächtigen hinter verschlossenen Türen ihre Pläne zur Umsetzung ihrer rechts­libertären Ideen. Durch ein Datenleck sind nun aber Teilnehmende und Themen von Peter Thiels Dialog-Reihe [öffentlich geworden](https://www.republik.ch/2026/10/09/im-safe-space-der-reichen-und-maechtigen). Wie weit der Arm der USA reicht, [zeigt sich auch darin](https://waag.social/@henk/117439380643444735), dass die Polizei in Amsterdam auf Geheiß der US-Administration Server des italienischen Internet-Dienste-Anbieters A/I beschlagnahmen konnte.
+
 ## Verwaltungs-Digitalisierung
 * eGovernment Monitor
   https://egovernment-podcast.com/egov277-egovmon26/
