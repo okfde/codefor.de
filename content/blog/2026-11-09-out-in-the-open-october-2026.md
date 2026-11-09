@@ -153,51 +153,52 @@ Auch andere Programmiersprachen bleiben nicht verschont: die inzwischen als [bro
 Von der niederländisch-indischen Zertifizierungsstelle eMudhra [ausgegeben TLS-Zwischenzertifikate](https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/) haben sich [als schlampig erzeugt](https://www.heise.de/news/Vorfall-bei-Zertifizierungsstelle-eMudhra-Acht-CA-Zertifikate-kompromittiert-11494412.html) herausgestellt. Ihre privaten Schlüssel waren [viel zu leicht zu erraten](https://furry.engineer/@soatok/117474241817959312), so dass Angreifer mit ihnen gültige Zertifikate für beliebige Domains ausstellen hätten können. Welche Kreise dieser Fauxpas zieht, dokumentiert [diese Seite](https://emudhra.we-have-a-problem.com), zahlreiche Zertifikate mussten widerrufen werden, Programmiersprachen wie Python [mussten geupdatet werden](https://www.heise.de/news/Python-schliesst-per-Update-kritische-TLS-Luecke-wegen-eMudhra-Schluesseln-11499933.html). eMudhra hat sich als Konsequenz inzwischen komplett aus dem SSL/TLS-Zertifikate-Geschäft zurückgezogen. Dass in der gleichen Woche GoDaddy 400.000 Zertifikate [widerrufen musste](https://www.codekunst-systems.com/aktuell/zertifikate-godaddy-widerruf-emudhra-chrome), hatte allerdings [nichts](https://chaos.social/users/christopherkunz/statuses/117477623277540512) mit eMudhra zu tun.
 
 ## Energie
-* Ökostrom deckt zu 61 Prozent den Bedarf in Deutschland ab
-  https://www.heise.de/news/Rekord-bei-Oekostrom-Anteil-steigt-auf-knapp-61-Prozent-11472002.html
-* Boom bei Batteriespeichern: Antrags-"Tsunami" bei Mitnetz
-  https://www.diesachsen.de/wirtschaft/boom-bei-batteriespeichern-antrags-tsunami-bei-mitnetz-3186502
-* Bundesnetzagentur er­lässt Fest­le­gung zur Mark­tin­te­gra­ti­on von Strom­spei­chern und La­de­punk­ten (MiS­peL)
-  https://www.bundesnetzagentur.de/1116876
-  via https://social.cologne/@GeorgEhring/117365655638290849
-* Reform der Energiegesetze: Reiche will einen Mietendeckel für Windradflächen
-  https://taz.de/Reform-der-Energiegesetze/!6218081/
+### Erneuerbare Energien
+Ökostrom in Deutschland hatte die ersten neun Monaten dieses Jahres mit knapp 61 Prozent einen so hohen Anteil am Stromverbrauch [wie nie zuvor](https://www.heise.de/news/Rekord-bei-Oekostrom-Anteil-steigt-auf-knapp-61-Prozent-11472002.html) für einen solchen Zeitraum. Den zu erwartenden steigenden Energiebedarf durch den vermehrten Einsatz von Klimaanlagen, könnte bald mit einem [neuartigen Kühlsystem-Ansatz](https://www.basicthinking.de/blog/2026/10/26/kuehlen-ohne-kaeltemittel/) begegnet werden, bei dem Abwärme statt Kältemittel und Strom als Antrieb verwendet wird. Durch Fortschritte in der Produktionstechnik sind die Preise für Photovoltaik-(PV)-Module in den letzen 40 Jahren [deutlich gesunken](https://bsky.app/profile/solarpapst.bsky.social/post/3mykbtiicok2e).
+
+### Stromspeicher
+Und auch der Markt für Batteriespeicher boomt. Sie sollen helfen, das Energienetz zu stabilisieren, wenn kein Strom aus Wind, Sonne oder anderen erneuerbaren Energiequellen zur Verfügung steht. Gerade bei Großspeicheranlagen wird [gerade noch viel zugebaut](https://www.diesachsen.de/wirtschaft/boom-bei-batteriespeichern-antrags-tsunami-bei-mitnetz-3186502), auch weil die 20 Jahre Netzentgeltbefreiung nur noch für Anlagen gilt, die bis 2029 in Betrieb gehen. 
+
+Dadurch, dass die Bundesnetzagentur [gesetzlich nun endlich erlaubt](https://www.bundesnetzagentur.de/1116876), dass E-Auto-Akkus als Stromspeicher [genutzt werden dürfen](https://social.cologne/@GeorgEhring/117365655638290849), kann durch deren bidirektionales Laden ebenfalls das Netz mit stabilisiert werden. Durch die vereinfachte Regelung reicht dafür meist ein Zähler, um als Stromspeicher in den Markt integriert werden zu dürfen. Die Analysten von Wood Mackenzie [haben durchgerechnet](https://www.cleanthinking.de/batteriespeicher-guenstiger-gaskraftwerke/), dass die tagsüber geladenen Batteriespeicher, die abends ihren Strom wieder abgeben, [viel günstiger sind](https://social.vivaldi.net/@cleanthinking/117427004431992778), als mit Gaskraftwerken die Abendspitzen abdecken zu wollen.
+
+Von den Besiedlungsprozessen von Mikroorganismen im Dünndarm inspiriert, haben Forschende eine [Biobatterie entwickelt](https://www.heise.de/news/Biobatterie-nutzt-sporenbildende-Bakterien-in-kuenstlichen-Darmzotten-11490196.html), die in Abwasserrohren zum Einsatz kommen könnte, um dort das Wasser zu reinigen.
+
+### Erneuerbare-Energien-Gesetz
+* Die EEG-Kosten der Vergangenheit sind eben nicht die EEG-Kosten des heutigen Ausbaus!
+  https://www.lee-nrw.de/presse/mitteilungen/400-millionen-fuer-neue-erneuerbare-und-ndash-2-5-milliarden-fuer-drei/
+  via https://mastodon.green/@GreenPlanet_nrg/117450435382473462
+* EG und Katherina Reiche: Ein Zeitdruck ohne Not
+  https://taz.de/EEG-und-Katherina-Reiche/!6216898/
 * Polen führt Übergewinnsteuer für Mineralölkonzerne ein
   https://www.heise.de/news/Polen-fuehrt-Uebergewinnsteuer-fuer-Mineraloelkonzerne-ein-11473603.html
 * Windkraft, Diesel, E-Autos: Wer spielt hier welches Spiel?
   https://www.youtube.com/watch?v=RnoXEylguHc
+
+### Im Bermudadreieck der Energiewende 
+* Inside Bermudadreieck der Energiewende 
+  https://steady.page/en/milliarden-briefing/posts/d61329dc-094e-4cf9-9600-6f8ff080610e
+
+* Reform der Energiegesetze: Reiche will einen Mietendeckel für Windradflächen
+  https://taz.de/Reform-der-Energiegesetze/!6218081/
+* Reiche löst Referat für Wind-, Solar- und Transformationsindustrien auf
+  https://www.topagrar.com/energie/news/reiche-lost-heimlich-referat-fur-wind-solar-und-transformationsindustrien-auf-b-20029882.html
+
 * EU-Methanverordnung: Reiche und Merz gegen Klimaschutz
   https://fragdenstaat.de/artikel/exklusiv/2026/10/reiche-und-merz-gegen-klimaschutz/
   * REICH – Das Geschäft mit dem Gas
     https://www.mdr.de/wissen/podcast/reich/reich-6-geschaeft-mit-dem-gas-100.html
   * Reiches geheime Arbeit für RWE, E.ON und die Gasindustrie
     https://www.youtube.com/watch?v=ESFNc5uYFOM  
-* Biobatterie nutzt sporenbildende Bakterien in künstlichen Darmzotten
-  https://www.heise.de/news/Biobatterie-nutzt-sporenbildende-Bakterien-in-kuenstlichen-Darmzotten-11490196.html
-* Die EEG-Kosten der Vergangenheit sind eben nicht die EEG-Kosten des heutigen Ausbaus!
-  https://www.lee-nrw.de/presse/mitteilungen/400-millionen-fuer-neue-erneuerbare-und-ndash-2-5-milliarden-fuer-drei/
-  via https://mastodon.green/@GreenPlanet_nrg/117450435382473462
-* Katherina Reiches Wirtschaftspolitik: Merz verspricht Aufschwung, Reiche macht das Gegenteil
-  https://taz.de/Katherina-Reiches-Wirtschaftspolitik/!6218245/
-* Für die Abendspitze sind Batteriespeicher günstiger als Gaskraftwerke
-  https://www.cleanthinking.de/batteriespeicher-guenstiger-gaskraftwerke/
-  via https://social.vivaldi.net/@cleanthinking/117427004431992778
-* Inside Bermudadreieck der Energiewende 
-  https://steady.page/en/milliarden-briefing/posts/d61329dc-094e-4cf9-9600-6f8ff080610e
 * Im SZ-Interview verbreitet Wirtschaftsministerin Katherina Reiche schon wieder die Falschbehauptung, dass Wärmepumpen mit 12 Milliarden Euro im Jahr gefördert werden. Tatsächlich ist es weniger als die Hälfte.
   https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mxbkg7mtoc2n
 * Auch diese Aussage, die Katherina Reiche im SZ-Interview zu den Gasspeichern macht, ist gleich doppelt falsch
   https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mxboznluts2n
-* Reiche löst Referat für Wind-, Solar- und Transformationsindustrien auf
-  https://www.topagrar.com/energie/news/reiche-lost-heimlich-referat-fur-wind-solar-und-transformationsindustrien-auf-b-20029882.html
-* EG und Katherina Reiche: Ein Zeitdruck ohne Not
-  https://taz.de/EEG-und-Katherina-Reiche/!6216898/
+
+### Wirtschaftspolitik
+* Katherina Reiches Wirtschaftspolitik: Merz verspricht Aufschwung, Reiche macht das Gegenteil
+  https://taz.de/Katherina-Reiches-Wirtschaftspolitik/!6218245/
 * Arbeitet Katherina Reiche gegen den Mittelstand? Das Interview mit Dietrich Enk macht nachdenklich
   https://www.l-iz.de/top-posts/2026/10/arbeitet-katherina-reiche-gegen-den-mittelstand-das-interview-mit-dietrich-enk-macht-nachdenklich-video-672683
-* Die Preise von PV-Modulen sinken seit 40 Jahren durch Fortschritte in der Produktionstechnik
-  https://bsky.app/profile/solarpapst.bsky.social/post/3mykbtiicok2e
-* Klimaanlage ohne Strom? Forscher nutzen Abwärme zur Kühlung
-  https://www.basicthinking.de/blog/2026/10/26/kuehlen-ohne-kaeltemittel/
 
 ## Klima
 * New paper “A genus-labeled dataset of individual trees in Baden-Württemberg, Germany”
@@ -787,56 +788,33 @@ Für den [Kanaltunnel Rendsburg](https://de.wikipedia.org/wiki/Kanaltunnel_Rends
     https://taz.de/Neue-Nutzungsbedingungen-fuer-Unternehmen-Meta-stellt-sich-selbst-den-Blankoscheck-aus/!6225414/
 
 ## Recap
-* Netzpolitischer Abend 160 
-  https://digitalegesellschaft.de/2026/09/160-netzpolitischer-abend/
-* Open Transport Community Conference 2026
-  https://volkerkrause.eu/2026/10/17/open-transport-community-conference-2026.html
-* Jugend Hack Congress
-  https://media.ccc.de/c/jh26congress
-  * Digitalpolitik im Bundestag - wie geht das?
-    https://media.ccc.de/v/jh26congress-digitalpolitik-im-bundestag-wie-geht-das
-* DatenTag: Standortvorteil Datenschutz – Souverän digital handeln
-  https://stiftungdatenschutz.org/veranstaltungen/unsere-veranstaltungen-detailansicht/standortvorteil-datenschutz-souveraen-digital-handeln-727
-* Query Service Days 2026
-  https://www.wikidata.org/wiki/Event:Query_Service_Days_2026#Sessions
-* Smart Country Convention
-  https://www.youtube.com/@smartcountryconvention/playlists
-  https://www.youtube.com/@smartcountryconvention/search?query=opendata
-  https://www.linkedin.com/posts/govdata-de_sccon-sccon26-opendata-ugcPost-7516140750296756224-xrvu
-* DoData Hackathon Dortmund
-  https://www.linkedin.com/posts/enes-derin-gis_daten-verbinden-unsicherheiten-sichtbar-ugcPost-7518254556456206336-x3Hc/
-* re:publica Vienna 2026
-  https://www.moment.at/story/republica-vienna-2026-videos/
-* OSM Hack Weekend October 2026
-  https://volkerkrause.eu/2026/10/30/osm-hack-weekend-berlin-october-2026.html
+* [Netzpolitischer Abend #160](https://digitalegesellschaft.de/2026/09/160-netzpolitischer-abend/) 
+* [Open Transport Community Conference 2026](https://volkerkrause.eu/2026/10/17/open-transport-community-conference-2026.html)
+* [Jugend Hack Congress](https://media.ccc.de/c/jh26congress), unter anderem [Digitalpolitik im Bundestag - wie geht das?](https://media.ccc.de/v/jh26congress-digitalpolitik-im-bundestag-wie-geht-das)
+* [DatenTag: Standortvorteil Datenschutz – Souverän digital handeln](https://stiftungdatenschutz.org/veranstaltungen/unsere-veranstaltungen-detailansicht/standortvorteil-datenschutz-souveraen-digital-handeln-727)
+* [Wikidata Query Service Days 2026](https://www.wikidata.org/wiki/Event:Query_Service_Days_2026#Sessions)
+* [Smart Country Convention](https://www.youtube.com/@smartcountryconvention/playlists), mit [Open-Data-Bezug](https://www.youtube.com/@smartcountryconvention/search?query=opendata)
+* [DoData Hackathon Dortmund](https://www.linkedin.com/posts/enes-derin-gis_daten-verbinden-unsicherheiten-sichtbar-ugcPost-7518254556456206336-x3Hc/)
+* [re:publica Vienna 2026](https://www.moment.at/story/republica-vienna-2026-videos/)
+* [OSM Hack Weekend October 2026](https://volkerkrause.eu/2026/10/30/osm-hack-weekend-berlin-october-2026.html)
 
 ## Fristen
-* Grimme Online Award 2026, bis 16.11.2026, 11:00
-  https://www.grimme-online-award.de/h/news/d/start-des-publikumsvoting
-* CCC Tickets
-  https://tickets.events.ccc.de/
-* Das Kunstmuseum im digitalen Zeitalter – 2027
-  https://www.belvedere.at/digitalmuseum2027
-* Call for Participation – WikipakaWG
-  https://pretalx.wikimedia.de/40c3-2026/cfp
-* Fachtag zur Archivierung digitaler und multimedialer Produktionen in den darstellenden Künsten, Frist 1.12.
-  https://www.performing-arts.eu/de/news/newsstream/savethedate-fachtag-archivierung-digitaler-multimedialer-produktionen-darstellende-k%C3%BCnste/
-* 5. Open Science Festival (18.–19. März 2027), Frist: 12.11.
-  https://www.uni-bamberg.de/osfestival2027/call-for-proposals/
-* Open Data Wettbewerb des Landes Berlin, 15.1.2027, Kickoff, 10.11., 14 Uhr
-  https://de.linkedin.com/posts/bet%C3%BCl-%C3%B6zdemir-2354a36a_opendata-berlin-offenedaten-activity-7523404978468798465-feuD
-* Data-Week Leipzig, Einreichungen bis 17.11.
-  https://2027.dataweek.de/cfp.html
+* [CCC Tickets](https://events.ccc.de/congress/2026/infos/tickets.de/), 08.11.2026, 11:00; 11.11.2026, 18:00; 19.11.2026, 20:00
+* [5. Open Science Festival](https://www.uni-bamberg.de/osfestival2027/call-for-proposals/), Frist: 12.11.2026
+* [Das Kunstmuseum im digitalen Zeitalter](https://www.belvedere.at/digitalmuseum2027), Einreichungen bis zum 15.11.2026
+* [Grimme Online Award 2026](https://www.grimme-online-award.de/h/news/d/start-des-publikumsvoting), Abstimmung bis 16.11.2026, 11:00
+* [Data-Week Leipzig](https://2027.dataweek.de/cfp.html), Einreichungen bis 17.11.2026
+* [WikipakaWG](https://pretalx.wikimedia.de/40c3-2026/cfp), Einreichungen bis 01.12.2026 00:05 
+* [Fachtag zur Archivierung digitaler und multimedialer Produktionen in den darstellenden Künsten](https://www.performing-arts.eu/de/news/newsstream/savethedate-fachtag-archivierung-digitaler-multimedialer-produktionen-darstellende-k%C3%BCnste/), Frist 01.12.2026
+* [Open Data Wettbewerb des Landes Berlin](https://de.linkedin.com/posts/bet%C3%BCl-%C3%B6zdemir-2354a36a_opendata-berlin-offenedaten-activity-7523404978468798465-feuD), bis 15.01.2027
 
 ## Und sonst so?
 [Michelangelus](https://www.microsoft.com/en-us/download/details.aspx?id=108856) ist ein Font, der auf Michelangelos Handschrift basiert und von Microsoft nun Open Source [veröffentlicht wurde](https://www.heise.de/news/Michelangelus-Auf-Michelangelos-Handschrift-basierender-Font-veroeffentlicht-11481415.html).
-
 * CCC Ticket Eskalation
   https://tickets.eskalation.rocks/CCCDB/
   via https://chaos.social/users/marudor/statuses/117452713049945106
 * Silizium bekommt Konkurrenz: MIT baut Computer aus Bakterien
   https://www.basicthinking.de/blog/2026/10/22/bakterien-computer/
-
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Sonntag, 01.11.2026, online: **Digital Independence Day** <a title='Kalendereintrag Digital Independence Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYxMTA3VDE1MDgxMVoNCkRUU1RBUlQ6MjAyNjExMDFUMDAwMDAwDQpEVEVORDoyMDI2MTEwMVQyMzU5NTkNClNVTU1BUlk6RGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpLmRheQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
