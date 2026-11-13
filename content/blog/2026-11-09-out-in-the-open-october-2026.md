@@ -164,41 +164,18 @@ Dadurch, dass die Bundesnetzagentur [gesetzlich nun endlich erlaubt](https://www
 Von den Besiedlungsprozessen von Mikroorganismen im Dünndarm inspiriert, haben Forschende eine [Biobatterie entwickelt](https://www.heise.de/news/Biobatterie-nutzt-sporenbildende-Bakterien-in-kuenstlichen-Darmzotten-11490196.html), die in Abwasserrohren zum Einsatz kommen könnte, um dort das Wasser zu reinigen.
 
 ### Erneuerbare-Energien-Gesetz
-* Die EEG-Kosten der Vergangenheit sind eben nicht die EEG-Kosten des heutigen Ausbaus!
-  https://www.lee-nrw.de/presse/mitteilungen/400-millionen-fuer-neue-erneuerbare-und-ndash-2-5-milliarden-fuer-drei/
-  via https://mastodon.green/@GreenPlanet_nrg/117450435382473462
-* EG und Katherina Reiche: Ein Zeitdruck ohne Not
-  https://taz.de/EEG-und-Katherina-Reiche/!6216898/
-* Polen führt Übergewinnsteuer für Mineralölkonzerne ein
-  https://www.heise.de/news/Polen-fuehrt-Uebergewinnsteuer-fuer-Mineraloelkonzerne-ein-11473603.html
-* Windkraft, Diesel, E-Autos: Wer spielt hier welches Spiel?
-  https://www.youtube.com/watch?v=RnoXEylguHc
+Die vom Landesverband Erneuerbare Energien NRW e. V. (LEE) beauftragte und durch enervis energy advisors [durchgeführte Studie beweist](https://www.lee-nrw.de/presse/mitteilungen/400-millionen-fuer-neue-erneuerbare-und-ndash-2-5-milliarden-fuer-drei/), dass die jährliche Förderung neuer Wind- und Solaranlagen weniger als ein Sechstel des 3-monatigen Tankrabatts kostet (2,5 Mrd. Euro Tankrabatt zu 400 Millionen Euro EEG-Förderung pro Jahr). Dennoch wird der Tankrabatt von der Regierung als Entlastung und die EEG-Förderung als zu kostspielig geframt, indem man mit den 18 Milliarden Euro EEG-Gesamtkosten [argumentiert](https://mastodon.green/@GreenPlanet_nrg/117450435382473462), obwohl neue EE-Anlagen stetig günstiger werden und somit auch die Förderkosten sinken (aktuell 0,72 Cent pro Kilowattstunde statt den 6,58 Cent des EEG-Bestandsportfolios und damit 89% weniger). Das es bessere Alternativen zum Tankrabatt gegegeben hätte, zeigt Polen, [die sich getraut haben](https://www.heise.de/news/Polen-fuehrt-Uebergewinnsteuer-fuer-Mineraloelkonzerne-ein-11473603.html), eine Übergewinnsteuer für Mineralölkonzerne einzuführen muss.
 
-### Im Bermudadreieck der Energiewende 
-* Inside Bermudadreieck der Energiewende 
-  https://steady.page/en/milliarden-briefing/posts/d61329dc-094e-4cf9-9600-6f8ff080610e
+Außerdem erzeugt Wirtschaftsministerin Katherina Reiche [künstlich Druck](https://taz.de/EEG-und-Katherina-Reiche/!6216898/), indem sie den Entwurf für ein EEG-Folgegesetz (das alte läuft Ende des Jahres aus) erst im Sommer vorlegt und zudem mit dem umstrittenen Netzanschlusspaket verknüpft hat. Denn sperrt man sich nun gegen die geplanten Verschlechterung (wie z.B. den ["Mietendeckel" für Windradflächen](https://taz.de/Reform-der-Energiegesetze/!6218081/)), kann es passieren, dass ein kompromissfähiges Gesetz nicht früh genug in den Bundestag kommt und das EU-Genehmigungsverfahren nicht anlaufen kann. Schon jetzt werden Energieprojekte von Investoren und Firmen nicht angegangen / verschoben, weil eben nicht klar ist, wie es ab Januar weitergeht. So drohen Wirtschaft und Verbraucher höhere Stromkosten, vom Einhalten der gesetzten Klimaziele muss man dann gar nicht erst sprechen.
 
-* Reform der Energiegesetze: Reiche will einen Mietendeckel für Windradflächen
-  https://taz.de/Reform-der-Energiegesetze/!6218081/
-* Reiche löst Referat für Wind-, Solar- und Transformationsindustrien auf
-  https://www.topagrar.com/energie/news/reiche-lost-heimlich-referat-fur-wind-solar-und-transformationsindustrien-auf-b-20029882.html
+### Im Bermudadreieck der Energiewende
+Warnmeldung im Autoradio: "Achtung, es kommt ihnen ein Geisterfahrer entgegen" - "Einer? Hunderte!", denkt wahrscheinlich auch Katharina Reiche [über die Kritik](https://taz.de/Katherina-Reiches-Wirtschaftspolitik/!6218245/) an ihrer Energie- und Wirtschaftspolitik. Unternehmen haben sich längst auf die Energiewende eingestellt und entsprechende Geschäftsmodelle aufgebaut, weil sie das Wirtschaftspotenzial in diesem Bereich erkannt haben, und [wollen Planbarkeit](https://www.l-iz.de/top-posts/2026/10/arbeitet-katherina-reiche-gegen-den-mittelstand-das-interview-mit-dietrich-enk-macht-nachdenklich-video-672683) statt einem ideologischen bzw. einzelinteressengeleiteten Rollback.
 
-* EU-Methanverordnung: Reiche und Merz gegen Klimaschutz
-  https://fragdenstaat.de/artikel/exklusiv/2026/10/reiche-und-merz-gegen-klimaschutz/
-  * REICH – Das Geschäft mit dem Gas
-    https://www.mdr.de/wissen/podcast/reich/reich-6-geschaeft-mit-dem-gas-100.html
-  * Reiches geheime Arbeit für RWE, E.ON und die Gasindustrie
-    https://www.youtube.com/watch?v=ESFNc5uYFOM  
-* Im SZ-Interview verbreitet Wirtschaftsministerin Katherina Reiche schon wieder die Falschbehauptung, dass Wärmepumpen mit 12 Milliarden Euro im Jahr gefördert werden. Tatsächlich ist es weniger als die Hälfte.
-  https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mxbkg7mtoc2n
-* Auch diese Aussage, die Katherina Reiche im SZ-Interview zu den Gasspeichern macht, ist gleich doppelt falsch
-  https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mxboznluts2n
+Susanne Götze und Annika Joeres [erinnern in ihrem Newsletter daran](https://steady.page/en/milliarden-briefing/posts/d61329dc-094e-4cf9-9600-6f8ff080610e), dass ihnen bereits 2020 ein Insider aus dem Bundeswirtschaftsministerium verraten hatte, dass das CDU-Männertrio Joachim Pfeiffer, Carsten Linnemann und Thomas Bareiß auch unter dem Spitznamen "Bermudadreieck der Energiewende" bekannt sei. Und die aktuelle Wirtschaftsministerin führt diese Tradition eifrig fort, indem sie z.B. jetzt das Referat für Wind-, Solar- und Transformationsindustrien [heimlich aufgelöst hat](https://www.topagrar.com/energie/news/reiche-lost-heimlich-referat-fur-wind-solar-und-transformationsindustrien-auf-b-20029882.html).
 
-### Wirtschaftspolitik
-* Katherina Reiches Wirtschaftspolitik: Merz verspricht Aufschwung, Reiche macht das Gegenteil
-  https://taz.de/Katherina-Reiches-Wirtschaftspolitik/!6218245/
-* Arbeitet Katherina Reiche gegen den Mittelstand? Das Interview mit Dietrich Enk macht nachdenklich
-  https://www.l-iz.de/top-posts/2026/10/arbeitet-katherina-reiche-gegen-den-mittelstand-das-interview-mit-dietrich-enk-macht-nachdenklich-video-672683
+In einem Video fasst Greenpeace die Kernaussagen ihres im April veröffentlichten [Politik-Dossiers "Wie eine Gaslobbyistin Energiepoltik betreibt"](https://www.greenpeace.de/publikationen/20260430-greenpeace-report-reiche-bilanz.pdf), das die Interessenverflechtungen und Personalprobleme seit Übernahme des Bundeswirtschaftsministeriums durch die CDU analysiert hat, zusammen.
+
+Eine [gemeinsame Recherche](https://fragdenstaat.de/artikel/exklusiv/2026/10/reiche-und-merz-gegen-klimaschutz/) von FragDenStaat und dem ARD-Podcast REICH zeigt in der Folge ["REICH – Das Geschäft mit dem Gas"](https://www.mdr.de/wissen/podcast/reich/reich-6-geschaeft-mit-dem-gas-100.html), dass aus geleakten Dokumente hervorgeht, dass sowohl Reiche als auch Merz die die Argumente (Versorgungssicherheit wäre angeblich gefährdet, obwohl Umweltverbände belegen können, dass es in der EU eigentlich genügend konformes Öl und Gas gäbe) der Öl- und Gaslobby eins zu eins übernommen haben, um sich mit ihnen für eine Verschiebung der EU-Methanverordnung (die eigentlich den Klimaschutz stärken sollte) um 3 Jahre einzusetzen. Vorausgegangen waren sowohl eine von der Industrie bezahlten Studie als auch ein Lobbyisten-Treffen auf einer Energiekonferenz in Texas im März. Anfang Oktober hat die EU-Kommission einen Kompromissvorschlag unterbreitet, die  EU-Methanverordnung um 1 Jahr zu verschieben. Dass die Abstimmung Deutschlands auf EU-Ebene entgegen der Absprache mit dem SPD-geführten und eigentlich zuständigen Umweltministerium erfolgt, ist dann noch die Kirsche auf der Torte. Aber sich nicht an Absprachen halten und mit [dreisten Lügen](https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mxbkg7mtoc2n) entgegen der Realität zu argumentieren (was nicht passt, wird passend gemacht) gehört nunmal zum Handwerkszeug von Lobbyisten, und wenn Journalisten die Falschaussagen nicht direkt im Artikel / Interview richtig stellen, [sondern nur als Randnotiz](https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3my2rnxq3ek2d), kommt man damit auch ungeschoren davon.
 
 ## Klima
 * New paper “A genus-labeled dataset of individual trees in Baden-Württemberg, Germany”
@@ -797,15 +774,19 @@ Für den [Kanaltunnel Rendsburg](https://de.wikipedia.org/wiki/Kanaltunnel_Rends
 * [DoData Hackathon Dortmund](https://www.linkedin.com/posts/enes-derin-gis_daten-verbinden-unsicherheiten-sichtbar-ugcPost-7518254556456206336-x3Hc/)
 * [re:publica Vienna 2026](https://www.moment.at/story/republica-vienna-2026-videos/)
 * [OSM Hack Weekend October 2026](https://volkerkrause.eu/2026/10/30/osm-hack-weekend-berlin-october-2026.html)
+* [kulturBdigital-Konferenz](https://video.kultur-b-digital.de/w/p/aoAv9q5as6Wd7NWyKrkmqS?playlistPosition=1)
 
 ## Fristen
 * [CCC Tickets](https://events.ccc.de/congress/2026/infos/tickets.de/), 08.11.2026, 11:00; 11.11.2026, 18:00; 19.11.2026, 20:00
+  * https://halfnarp.events.ccc.de
 * [5. Open Science Festival](https://www.uni-bamberg.de/osfestival2027/call-for-proposals/), Frist: 12.11.2026
+* [13. NIAM-Tagung](https://pretalx.news-infographics-analytics-maps.media/2027/cfp), bis 15.11.2026
 * [Das Kunstmuseum im digitalen Zeitalter](https://www.belvedere.at/digitalmuseum2027), Einreichungen bis zum 15.11.2026
 * [Grimme Online Award 2026](https://www.grimme-online-award.de/h/news/d/start-des-publikumsvoting), Abstimmung bis 16.11.2026, 11:00
 * [Data-Week Leipzig](https://2027.dataweek.de/cfp.html), Einreichungen bis 17.11.2026
 * [WikipakaWG](https://pretalx.wikimedia.de/40c3-2026/cfp), Einreichungen bis 01.12.2026 00:05 
 * [Fachtag zur Archivierung digitaler und multimedialer Produktionen in den darstellenden Künsten](https://www.performing-arts.eu/de/news/newsstream/savethedate-fachtag-archivierung-digitaler-multimedialer-produktionen-darstellende-k%C3%BCnste/), Frist 01.12.2026
+* [Chemnitzer Linux Tage](https://chemnitzer.linux-tage.de/2027/de/programm/anmeldung/live), bis 04.01.2027
 * [Open Data Wettbewerb des Landes Berlin](https://de.linkedin.com/posts/bet%C3%BCl-%C3%B6zdemir-2354a36a_opendata-berlin-offenedaten-activity-7523404978468798465-feuD), bis 15.01.2027
 
 ## Und sonst so?
