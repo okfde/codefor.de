@@ -178,12 +178,10 @@ In einem Video fasst Greenpeace die Kernaussagen ihres im April veröffentlichte
 Eine [gemeinsame Recherche](https://fragdenstaat.de/artikel/exklusiv/2026/10/reiche-und-merz-gegen-klimaschutz/) von FragDenStaat und dem ARD-Podcast REICH zeigt in der Folge ["REICH – Das Geschäft mit dem Gas"](https://www.mdr.de/wissen/podcast/reich/reich-6-geschaeft-mit-dem-gas-100.html), dass aus geleakten Dokumente hervorgeht, dass sowohl Reiche als auch Merz die die Argumente (Versorgungssicherheit wäre angeblich gefährdet, obwohl Umweltverbände belegen können, dass es in der EU eigentlich genügend konformes Öl und Gas gäbe) der Öl- und Gaslobby eins zu eins übernommen haben, um sich mit ihnen für eine Verschiebung der EU-Methanverordnung (die eigentlich den Klimaschutz stärken sollte) um 3 Jahre einzusetzen. Vorausgegangen waren sowohl eine von der Industrie bezahlten Studie als auch ein Lobbyisten-Treffen auf einer Energiekonferenz in Texas im März. Anfang Oktober hat die EU-Kommission einen Kompromissvorschlag unterbreitet, die  EU-Methanverordnung um 1 Jahr zu verschieben. Dass die Abstimmung Deutschlands auf EU-Ebene entgegen der Absprache mit dem SPD-geführten und eigentlich zuständigen Umweltministerium erfolgt, ist dann noch die Kirsche auf der Torte. Aber sich nicht an Absprachen halten und mit [dreisten Lügen](https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mxbkg7mtoc2n) entgegen der Realität zu argumentieren (was nicht passt, wird passend gemacht) gehört nunmal [zum Schandwerkszeug](https://climatejustice.global/@GermanZeroHH/117421137313722908) von Lobbyisten, und wenn Journalisten die Falschaussagen nicht direkt im Artikel / Interview richtig stellen, [sondern nur als Randnotiz](https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3my2rnxq3ek2d), kommt man damit auch ungeschoren davon. Man möchte manchmal die Wirtschaftminsterin mit dem Finanzminister auskanzlern.
 
 ## Klima
-### Daten
+### Konzeptarbeit
 Wie neue Informations- und Analyseinstrumente für die räumliche Planung Kommunen bei der Entwicklung von Klimaanpassungsstrategien und der Klimaanpassungsmaßnahmenumsetzung unterstützen können, zeigt diese [Publikation](https://difu.de/publikationen/2026/datengrundlagen-fuer-die-regionale-und-kommunale-klimaanpassung) des Deutschen Instituts für Urbanistik (Difu) beispielhaft an der Region Stuttgart (für die es seit letztem Jahr auch schon ein [Klimaatlas](https://klimaatlas.region-stuttgart.org) gibt). Von der Ergebnissen sollen später auch Kommunen ohne eigene verlässliche Klimadaten und Analyseinstrumente profitieren, da im übergeordneten Projekt ["Integrative stadt-regionale Klimaanpassungsstrategien"](https://difu.de/projekte/integrative-stadt-regionale-klimaanpassungsstrategien-0) geplant ist, mit den Erkenntnisse aus den Modellregionen ein Klimakataster der räumlichen Entwicklung auf Bundesebene aufzubauen. 
 
 Im Forschungsnetzwerk [Agroforst-Monitoring](https://agroforst-monitoring.de) können Bürgerwissenschaftler:innen gemeinsam mit Wissenschaft und Landwirtschaft bestehende Acker-Agroforstsysteme erforschen und neue Konzepte für ihre Bewirtschaftung entwickeln. Was es für eine gelingende Zusammenarbeit alles braucht, soll mit der Citizen-Science-Methode [RegioRegie](https://agroforst-monitoring.de/regioregie/) spielerisch [erprobt werden](https://social.tchncs.de/@solawi/117365813671873884).
-
-Das HeiGIT (Heidelberg Institute for Geoinformation Technology) hat auf Grundlage von hochauflösenden Luftaufnahmen und LiDAR-Daten 16,3 Millionen Bäume für ganz Baden Württemberg mittels Machine Learning nach Gattung [klassifiziert](https://heigit.org/new-paper-a-genus-labeled-dataset-of-individual-trees-in-baden-wurttemberg-germany/). Die zugehörigen Daten und der Auswertungs-Quellcode stehen [Open Data](https://doi.org/10.11588/DATA/MKZPUY) bzw. [Open Source](https://github.com/GIScience/tree-genera-mapping).
 
 ### Journalismus
 In [Folge 5](https://exposingtheinvisible.org/en/films/stephanie-hankey-climate-and-political-influence-mastercourse/) des Kurses "Climate and Political Influence in the Age of Information Crises" beschäftigt sich Tactical-Tech-Mitgründerin Stephanie Hankey mit der Frage, wie man wieder die Kontrolle über die Entscheidungen, die unsere Zukunft formen werden, [zurückerlangen kann](https://mastodon.cc/@info_activism/117489479835180283). Denn bei der Desinformation, die machen Unternehmen und politische Akteure betreiben, kann man schon von [Informationskrieg](https://de.wikipedia.org/wiki/Informationskrieg) und Kulturkampf sprechen. 
@@ -253,43 +251,40 @@ Für den Landkreis Böblingen gibt es [eine inoffizielle Android-App](https://ca
 Die Karte von [Penderradius](https://pendelradius.de) zeigt für einen gewählten Ort an, wo man mit dem ÖPNV-Angebot zu einem bestimmten Zeitpunkt für eine gewählte Reisedauer überall hinkommt. [In der neusten Version](https://mastodon.social/@pendelradius/117531052094782350) kann man sogar mehrere Standorte auswählen und für diese den fairsten Treffpunkt ausrechnen lassen. Außerdem unterstützt die App bei der Suche nach geeigneten Wohnorten (z.B. in Abhängigkeit der Pendelmöglichkeit zum Arbeitsort) und Ausfugszielen. 
 
 ## Karten
-* TrailShare - Panoramen von Berghütten
-  https://www.data.gv.at/applications/acad3c1a-31cd-4751-b780-222f836fffec?locale=de
-* Ortsnamen mit bestimmten Namensendungen
-  https://social.funk.net/@funk/117472389757597334
-* Gericht untersagt Luftbildaufnahmen bei Google Maps
-  https://www.heise.de/news/Gericht-untersagt-Luftbildaufnahmen-bei-Google-Maps-11494524.html
-* 14 national LiDAR programs across Europe by period and density, with sources for every number
-  https://tech.rohrba.ch/a-closer-look-at-europes-national-lidar-programs/
-  via https://mas.to/@felixrohrbach/117485077239975715
-* Schweiz im Maßstab 1:1 in Minecraft: ETH-Student baut Land aus Geodaten nach
-  https://www.heise.de/news/Schweiz-im-Massstab-1-1-in-Minecraft-ETH-Student-baut-Land-aus-Geodaten-nach-11500785.html
-* Limnetic Maps: Globe of Bandcamp
-  https://limneticvillains.itch.io/limneticmaps
-  via https://mastodon.online/@limneticvillains/117507218370970124
-* Polizeimeldungen und Polizeiberichte auf der Karte
-  https://tickerkarte.de
-  https://mastodon.social/@tickerkarte/117494748555232255
-  https://tickerkarte.de/methodik
-  https://discourse.opencode.de/t/tickerkarte-polizeimeldungen-und-amtliche-kriminalstatistik-auf-einer-karte/5923
-* 10 FREE satellite & geospatial data sources
-  https://mastodon.social/@mbongowo/117514175153124359
-* Atlas of Human Seeings is a public map for recording the small human traces that shape a city
-  https://atlas-of-human-seeings.vercel.app
-* Version 1.1 des QGIS-Plugins "Flurstückssuche DE"
-  https://www.linkedin.com/posts/david-koster-b57a72431_version-11-meines-qgis-plugins-flurst%C3%BCckssuche-activity-7516105197874536448-9Y6_
-* Repair-Map für Schuster
-  http://www.repairyourpair.com/repair-map/
-* Digitaler Zwilling Wuppertal: Monitoring des aktuellen Baumbestand per Fernerkundung
-  https://www.linkedin.com/posts/der-digital-zwilling-ist-ein-lebendiges-share-7511386636203786242-gz3v/
-* Neue Schrägluftbilder für Basel-Stadt
-  https://3d.geo.bs.ch/v/public/?&state=oblique
-  via https://www.linkedin.com/posts/basel-gis-geoinformation-share-7519333573481603073-tTe-/
-* Lenzburg in 3D nachgebaut
-  https://lenzburg.3eleven.ch
-  https://www.linkedin.com/posts/pascal-stockner-3b860a137_lenzburg-opendata-ugcPost-7519146627941728257-4M7L/
-* Kayna funkt
-  https://kayna-funkt.de/de/
+### Baumdaten
+Das HeiGIT (Heidelberg Institute for Geoinformation Technology) hat auf Grundlage von hochauflösenden Luftaufnahmen und LiDAR-Daten 16,3 Millionen Bäume für ganz Baden Württemberg mittels Machine Learning nach Gattung [klassifiziert](https://heigit.org/new-paper-a-genus-labeled-dataset-of-individual-trees-in-baden-wurttemberg-germany/). Die zugehörigen Daten und der Auswertungs-Quellcode stehen [Open Data](https://doi.org/10.11588/DATA/MKZPUY) bzw. [Open Source](https://github.com/GIScience/tree-genera-mapping).
+
+In Wuppertal wird die im Projekt "DigiTal Zwilling 4D" entwickelte Baumauswertungsmethode ["twin4tree"](https://www.eftas.com/news/eftas-twin4tree-wuppertal/) genutzt, um aus den automatisiert zusammenführten Geo- und Fernerkundungsdaten wie Orthophotos, Höhendaten sowie ALKIS-, Sentinel-2- und PlanetScope-Daten über KI- und Fernerkundungsverfahren unter anderem Baumstandorte, Baumarten und Vitalitätsparameter [abzuleiten](https://www.linkedin.com/posts/der-digital-zwilling-ist-ein-lebendiges-share-7511386636203786242-gz3v/).
+
+### Themenkarten
+Auf [Globe of Bandcamp](https://limneticvillains.itch.io/limneticmaps) kann man Künster:innen und Bands nach ihrem Herkunftsort suchen bzw. auch für Länder und größere Orte [sich anzeigen lassen](https://mastodon.online/@limneticvillains/117507218370970124), welche Bands dort beheimatet sind. Vorssetzung natürlich, dass sie sich bei Bandcamp listen lassen und eine Location angegeben haben. 
+
+[Tickerkarte](https://tickerkarte.de) zeigt täglich aktualisierte Polizeimeldungen und die amtliche Kriminalstatistik deutschlandweit [auf einer Karte an](https://discourse.opencode.de/t/tickerkarte-polizeimeldungen-und-amtliche-kriminalstatistik-auf-einer-karte/5923). Man kann nach Stadt, Stadtteil, Adresse oder Stichwort suchen. [Als Datenquellen](https://tickerkarte.de/methodik) werden das bundesweite als auch landeseigene Presseportale sowie Presseverteiler genutzt. [Aktuell sind](https://mastodon.social/@tickerkarte/117494748555232255) 84.000 Vorfälle aus 374 Orten von allen 16 Bundesländern enthalten.
+
+[Kayna funkt](https://kayna-funkt.de/de/) und trotzdem sind Daten zu sehen? Geht nur in Kayna, Ortsteil von Zeitz in Sachsen-Anhalt. Da die Stadt selbst kein Funknetz aufbauen wollte, hat eine ehrenamtliche Bürgerinitiative einen ersten Aufschlag gemacht, um zu zeigen, dass man nicht nur in Großstädten messen kann, wie hoch der Bach steht, wie warm das Waldbad ist oder wo Heizenergie verloren geht. Auch für den Katastrophenfall geeignet, wenn der Strom ausgefallen ist, [trotzdem Informationen mit LoRa-Mesh-Funk übertragen zu können](https://www.youtube.com/watch?v=2ipXCLlNx7g). Noch alles prototypisch, meist fehlen tatsächlich noch Daten oder das letzte Signal liegt schon länger in der Vergangenheit, aber die Quellen für alle Anwendungen [liegen auf OpenCode](https://gitlab.opencode.de/kayna-funkt).
+
+[TrailShare](https://www.data.gv.at/applications/acad3c1a-31cd-4751-b780-222f836fffec?locale=de) ist eine Wander-App für Österreich mit Gipfelerkennung, Hüttenpanoramen und eigener (Offline-)Wanderkarte, die dazu das europäische [Geländemodell von Sonny](https://sonny.4lima.de) nutzt. 
+
+["Repair Your Pair"](https://www.repairyourpair.com) stellt [eine Karte](http://www.repairyourpair.com/repair-map/) bereit, auf der man Orte finden kann, wo man noch seine Schuhe reparieren lassen kann.
+
+Der [Atlas of Human Seeings](https://atlas-of-human-seeings.vercel.app) ist ein Kunstprojekt, bei dem man persönlich bedeutsame Beobachtungen, Erlebnisse, Empfindungen und Ereignisse kartieren kann.
+
+### Geodaten
+[Felix Rohrbach hat](https://mas.to/@felixrohrbach/117485077239975715) die 14 nationalen LiDAR Programme aus verschiedenen europäischen Staaten hinsichtlich Aktualität und Auflösung [klassifiziert](https://tech.rohrba.ch/a-closer-look-at-europes-national-lidar-programs/). 
+
+Allein [Sentinel-2](https://sentinels.copernicus.eu/copernicus/sentinel-2), [Landsat](https://science.nasa.gov/mission/landsat/), [NISAR](https://science.nasa.gov/mission/nisar/), [Copernicus DEM](https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM), [OpenStreetMap](https://www.openstreetmap.org/), [WorldPop](https://hub.worldpop.org), [CHIRPS](https://www.chc.ucsb.edu/data/chirps3), [MODIS](https://science.nasa.gov/mission/aqua/modis/), [ESA WorldCover](https://esa-worldcover.org/en), [SoilGrids](https://soilgrids.org) [sind 10 Beispiele](https://mastodon.social/@mbongowo/117514175153124359) für freie Quellen für Satelliten- und raumbezogene Daten.
+
+Mit Hilfe von QGIS und einem Datensatz des Bundesamts für Kartographie und Geodäsie (BKG) sind [diese Karten](https://social.funk.net/@funk/117472389757597334) entstanden, die die deutschlandweite Verteilungen von Orten nach ihren Namensendungen zeigt.
+
+Für QGIS ist auch [dieses Plugin](https://flurstueckssuche.de/changelog.html), mit dem sich Flurstücke [suchen lassen](https://www.linkedin.com/posts/david-koster-b57a72431_version-11-meines-qgis-plugins-flurst%C3%BCckssuche-activity-7516105197874536448-9Y6_), das in einer [neuen Version](https://flurstueckssuche.de/changelog.html) erschienen ist.
+
+### Luftaufnahmen
+Seit September sind für Basel-Stadt in MapBS 3D die [Schrägluftbilder](https://3d.geo.bs.ch/v/public/?&state=oblique) der Befliegung vom Frühling 2026 [verfügbar](https://www.linkedin.com/posts/basel-gis-geoinformation-share-7519333573481603073-tTe-/).
+
+Der Klage, dass jemand das Grundstück seines Wohnhauses sowohl bei Google Earth oder Google Maps nicht angezeigt haben möchte, wurde von der 3. Zivilkammer des Landgerichts Frankfurt am Main mit Verweis auf Verletzung des allgemeinen Persönlichkeitsrecht [stattgegeben](https://www.heise.de/news/Gericht-untersagt-Luftbildaufnahmen-bei-Google-Maps-11494524.html). Das Urteil ist noch nicht rechtskräftig und Google hat bereits angekündigt in Berufung zu gehen.
+
+### 3D-Nachbauten
+Ein ETH-Student hat die Schweiz aus Geodaten 1:1 [in Minecraft nachgebaut](https://www.heise.de/news/Schweiz-im-Massstab-1-1-in-Minecraft-ETH-Student-baut-Land-aus-Geodaten-nach-11500785.html). Die Stadt Lenzburg im Schweizer Kanton Aargau [kann man auch](https://www.linkedin.com/posts/pascal-stockner-3b860a137_lenzburg-opendata-ugcPost-7519146627941728257-4M7L/) unabhängig von Minecraft [in 3D bestaunen](https://lenzburg.3eleven.ch).  
 
 ## Geschichte
 * zweiter Oktober 1990
