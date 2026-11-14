@@ -171,69 +171,55 @@ Außerdem erzeugt Wirtschaftsministerin Katherina Reiche [künstlich Druck](http
 ### Im Bermudadreieck der Energiewende
 Warnmeldung im Autoradio: "Achtung, es kommt ihnen ein Geisterfahrer entgegen" - "Einer? Hunderte!", denkt wahrscheinlich auch Katharina Reiche [über die Kritik](https://taz.de/Katherina-Reiches-Wirtschaftspolitik/!6218245/) an ihrer Energie- und Wirtschaftspolitik. Unternehmen haben sich längst auf die Energiewende eingestellt und entsprechende Geschäftsmodelle aufgebaut, weil sie das Wirtschaftspotenzial in diesem Bereich erkannt haben, und [wollen Planbarkeit](https://www.l-iz.de/top-posts/2026/10/arbeitet-katherina-reiche-gegen-den-mittelstand-das-interview-mit-dietrich-enk-macht-nachdenklich-video-672683) statt einem ideologischen bzw. einzelinteressengeleiteten Rollback.
 
-Susanne Götze und Annika Joeres [erinnern in ihrem Newsletter daran](https://steady.page/en/milliarden-briefing/posts/d61329dc-094e-4cf9-9600-6f8ff080610e), dass ihnen bereits 2020 ein Insider aus dem Bundeswirtschaftsministerium verraten hatte, dass das CDU-Männertrio Joachim Pfeiffer, Carsten Linnemann und Thomas Bareiß auch unter dem Spitznamen "Bermudadreieck der Energiewende" bekannt sei. Und die aktuelle Wirtschaftsministerin führt diese Tradition eifrig fort, indem sie z.B. jetzt das Referat für Wind-, Solar- und Transformationsindustrien [heimlich aufgelöst hat](https://www.topagrar.com/energie/news/reiche-lost-heimlich-referat-fur-wind-solar-und-transformationsindustrien-auf-b-20029882.html).
+Susanne Götze und Annika Joeres [erinnern in ihrem Newsletter daran](https://steady.page/en/milliarden-briefing/posts/d61329dc-094e-4cf9-9600-6f8ff080610e), dass ihnen bereits 2020 ein Insider aus dem Bundeswirtschaftsministerium verraten hatte, dass das CDU-Männertrio Joachim Pfeiffer, Carsten Linnemann und Thomas Bareiß auch unter dem Spitznamen "Bermudadreieck der Energiewende" bekannt sei. Und die aktuelle Wirtschaftsministerin setzt diese Traditions- und Brauchtumspflege eifrig fort, indem sie z.B. jetzt das Referat für Wind-, Solar- und Transformationsindustrien [heimlich aufgelöst hat](https://www.topagrar.com/energie/news/reiche-lost-heimlich-referat-fur-wind-solar-und-transformationsindustrien-auf-b-20029882.html), denn die schönste Tracht ist und bleibt die Niedertracht.
 
 In einem Video fasst Greenpeace die Kernaussagen ihres im April veröffentlichten [Politik-Dossiers "Wie eine Gaslobbyistin Energiepoltik betreibt"](https://www.greenpeace.de/publikationen/20260430-greenpeace-report-reiche-bilanz.pdf), das die Interessenverflechtungen und Personalprobleme seit Übernahme des Bundeswirtschaftsministeriums durch die CDU analysiert hat, zusammen.
 
-Eine [gemeinsame Recherche](https://fragdenstaat.de/artikel/exklusiv/2026/10/reiche-und-merz-gegen-klimaschutz/) von FragDenStaat und dem ARD-Podcast REICH zeigt in der Folge ["REICH – Das Geschäft mit dem Gas"](https://www.mdr.de/wissen/podcast/reich/reich-6-geschaeft-mit-dem-gas-100.html), dass aus geleakten Dokumente hervorgeht, dass sowohl Reiche als auch Merz die die Argumente (Versorgungssicherheit wäre angeblich gefährdet, obwohl Umweltverbände belegen können, dass es in der EU eigentlich genügend konformes Öl und Gas gäbe) der Öl- und Gaslobby eins zu eins übernommen haben, um sich mit ihnen für eine Verschiebung der EU-Methanverordnung (die eigentlich den Klimaschutz stärken sollte) um 3 Jahre einzusetzen. Vorausgegangen waren sowohl eine von der Industrie bezahlten Studie als auch ein Lobbyisten-Treffen auf einer Energiekonferenz in Texas im März. Anfang Oktober hat die EU-Kommission einen Kompromissvorschlag unterbreitet, die  EU-Methanverordnung um 1 Jahr zu verschieben. Dass die Abstimmung Deutschlands auf EU-Ebene entgegen der Absprache mit dem SPD-geführten und eigentlich zuständigen Umweltministerium erfolgt, ist dann noch die Kirsche auf der Torte. Aber sich nicht an Absprachen halten und mit [dreisten Lügen](https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mxbkg7mtoc2n) entgegen der Realität zu argumentieren (was nicht passt, wird passend gemacht) gehört nunmal zum Handwerkszeug von Lobbyisten, und wenn Journalisten die Falschaussagen nicht direkt im Artikel / Interview richtig stellen, [sondern nur als Randnotiz](https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3my2rnxq3ek2d), kommt man damit auch ungeschoren davon.
+Eine [gemeinsame Recherche](https://fragdenstaat.de/artikel/exklusiv/2026/10/reiche-und-merz-gegen-klimaschutz/) von FragDenStaat und dem ARD-Podcast REICH zeigt in der Folge ["REICH – Das Geschäft mit dem Gas"](https://www.mdr.de/wissen/podcast/reich/reich-6-geschaeft-mit-dem-gas-100.html), dass aus geleakten Dokumente hervorgeht, dass sowohl Reiche als auch Merz die die Argumente (Versorgungssicherheit wäre angeblich gefährdet, obwohl Umweltverbände belegen können, dass es in der EU eigentlich genügend konformes Öl und Gas gäbe) der Öl- und Gaslobby eins zu eins übernommen haben, um sich mit ihnen für eine Verschiebung der EU-Methanverordnung (die eigentlich den Klimaschutz stärken sollte) um 3 Jahre einzusetzen. Vorausgegangen waren sowohl eine von der Industrie bezahlten Studie als auch ein Lobbyisten-Treffen auf einer Energiekonferenz in Texas im März. Anfang Oktober hat die EU-Kommission einen Kompromissvorschlag unterbreitet, die  EU-Methanverordnung um 1 Jahr zu verschieben. Dass die Abstimmung Deutschlands auf EU-Ebene entgegen der Absprache mit dem SPD-geführten und eigentlich zuständigen Umweltministerium erfolgt, ist dann noch die Kirsche auf der Torte. Aber sich nicht an Absprachen halten und mit [dreisten Lügen](https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mxbkg7mtoc2n) entgegen der Realität zu argumentieren (was nicht passt, wird passend gemacht) gehört nunmal [zum Schandwerkszeug](https://climatejustice.global/@GermanZeroHH/117421137313722908) von Lobbyisten, und wenn Journalisten die Falschaussagen nicht direkt im Artikel / Interview richtig stellen, [sondern nur als Randnotiz](https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3my2rnxq3ek2d), kommt man damit auch ungeschoren davon. Man möchte manchmal die Wirtschaftminsterin mit dem Finanzminister auskanzlern.
 
 ## Klima
-* New paper “A genus-labeled dataset of individual trees in Baden-Württemberg, Germany”
-  https://heigit.org/new-paper-a-genus-labeled-dataset-of-individual-trees-in-baden-wurttemberg-germany/
-  via https://mastodon.social/@heigit/117365069468947862
-* RegioRegie – Regionalentwicklung zum Mitspielen
-  https://agroforst-monitoring.de/regioregie/
-  via https://social.tchncs.de/@solawi/117365813671873884
-* Datengrundlagen für die regionale und kommunale Klimaanpassung
-  https://difu.de/publikationen/2026/datengrundlagen-fuer-die-regionale-und-kommunale-klimaanpassung
-* Neuer Styropor-Ersatz aus Pflanzen – verursacht bis zu 80 Prozent weniger CO₂
-  https://www.fr.de/wissen/neuer-styropor-ersatz-aus-pflanzen-verursacht-bis-zu-80-prozent-weniger-co-zr-94530741.html
-* Handelt Katherina Reiche wie eine Klimaleugnerin?
-  https://www.zeit.de/politik/deutschland/2026-10/katherina-reiche-wind-solar-transformationsindustrien-referat-klimaneutralitaet
-  via https://climatejustice.global/@GermanZeroHH/117421137313722908
-* KLIMA° vor acht e.V.
-  https://www.youtube.com/@KLIMAvoracht
-  via https://mastodon.social/@klimavoracht/117434609706429999
-  * ARD blockt Klimaspot – jetzt droht Klage vor Gericht
-    https://www.fr.de/politik/ard-blockt-klimaspot-jetzt-droht-klage-vor-gericht-94544769.html
-* Eine Weltkarte der Klimapolitik: Wer gewinnt am meisten?
-  https://www.pik-potsdam.de/de/aktuelles/nachrichten/eine-weltkarte-der-klimapolitik-wer-gewinnt-am-meisten
-* Grundwasser in Sachsen sinkt weiter: Neun von zehn Pegel unter Normalwert
-  https://www.mdr.de/nachrichten/deutschland/panorama/grundwasser-sinkt-wassermangel,wasserstand-104.html
-* Wie nah die Erde den Kipppunkten im Klimasystem gekommen ist
-  https://www.cleanthinking.de/kipppunkte-klima/
-* Der Weltklimarat steckt fest
-  https://klimareporter.de/international/der-weltklimarat-steckt-fest
-* Climate Influence and the Information Ecosystem
-  https://exposingtheinvisible.org/en/films/stephanie-hankey-climate-and-political-influence-mastercourse/
-  via https://mastodon.cc/@info_activism/117489479835180283
-* Scientists knew the Doomsday Glacier was melting. They didn’t realize how ‘aggressively’
-  https://edition.cnn.com/2026/10/15/climate/thwaites-melt-study-doomsday-glacier
-* Citizens’ assemblies propose ambitious climate policy but impacts remain limited
-  https://www.nature.com/articles/s41558-026-02755-1
-* Das Interesse für Klimawandel sinkt. Ausgerechnet jetzt will Daniel Drepper ein neues Medium für Klimaberichterstattung gründen.
-  https://taz.de/Otter-News-ist-ein-neues-Medium-fuer-Klimaberichterstattung-Will-das-noch-jemand-lesen/!6219011/
-* factory – Magazin für Nachhaltiges Wirtschaften (Open Access)
-  https://www.factory-magazin.de/fileadmin/magazin/media/gesundheit/factory_1_2026_gesundheit_web.pdf
-* Millions4.earth - Millionen tun was: Die 89%-Mitmachplattform für Klimaschutz
-  https://millions4.earth
-  https://millions4.earth/map/DE
-  via https://mastodon.social/@millions4earth_de/117523496927512162
-* Vor 20 Jahren nannte Nicholas Stern den Klimawandel das größte Marktversagen der Geschichte
-  https://www.riffreporter.de/de/wissen/nicholas-stern-klimaschutz-wirtschaft
-* Zehntausende demonstrieren in Brüssel für schnellen Klimaschutz
-  https://www.youtube.com/watch?v=fBkiwdnNYmY
-* Langzeitstudie: Klimawandel polarisiert die Deutschen nicht
-  https://www.deutschlandfunk.de/deutsches-umwelt-panel-keine-polarisierung-bei-klimaeinstellungen-100.html
-* Viele Eigentümer bekommen bald keine Versicherung mehr
-  https://www.t-online.de/finanzen/ratgeber/versicherungen/gebaeudeversicherung/id_101480870/versicherungs-insider-warnen-viele-immobilien-sind-bald-unversicherbar.html
-* Trinkwasserversorgung: "Die Lage ist sehr ernst!"
-  https://www.sueddeutsche.de/bayern/bayer-freyung-knappes-trinkwasser-duerre-gemeinden-li.3564199
-* Das 1,5 Grad Ziel ist nur noch mit Overshoot erreichbar. Also rückwirkend, mit CO2-Entnahme. Der neue Emissions Gap Report der UN zeigt jetzt, wie sich dafür die Emissionsminderung entwickeln muss: Minus 18 Prozent bis 2030. Im Vergleich zu 2025.
-  https://www.unep.org/en/news-and-stories/press-release/new-unep-report-lays-out-emission-cuts-needed-return-15degc
-  https://bsky.app/profile/uedio.bsky.social/post/3myeh4ebr7k22
-* Heat Inequality Map Europe
-  https://www.heat-inequality-map.com
+### Daten
+Wie neue Informations- und Analyseinstrumente für die räumliche Planung Kommunen bei der Entwicklung von Klimaanpassungsstrategien und der Klimaanpassungsmaßnahmenumsetzung unterstützen können, zeigt diese [Publikation](https://difu.de/publikationen/2026/datengrundlagen-fuer-die-regionale-und-kommunale-klimaanpassung) des Deutschen Instituts für Urbanistik (Difu) beispielhaft an der Region Stuttgart (für die es seit letztem Jahr auch schon ein [Klimaatlas](https://klimaatlas.region-stuttgart.org) gibt). Von der Ergebnissen sollen später auch Kommunen ohne eigene verlässliche Klimadaten und Analyseinstrumente profitieren, da im übergeordneten Projekt ["Integrative stadt-regionale Klimaanpassungsstrategien"](https://difu.de/projekte/integrative-stadt-regionale-klimaanpassungsstrategien-0) geplant ist, mit den Erkenntnisse aus den Modellregionen ein Klimakataster der räumlichen Entwicklung auf Bundesebene aufzubauen. 
+
+Im Forschungsnetzwerk [Agroforst-Monitoring](https://agroforst-monitoring.de) können Bürgerwissenschaftler:innen gemeinsam mit Wissenschaft und Landwirtschaft bestehende Acker-Agroforstsysteme erforschen und neue Konzepte für ihre Bewirtschaftung entwickeln. Was es für eine gelingende Zusammenarbeit alles braucht, soll mit der Citizen-Science-Methode [RegioRegie](https://agroforst-monitoring.de/regioregie/) spielerisch [erprobt werden](https://social.tchncs.de/@solawi/117365813671873884).
+
+Das HeiGIT (Heidelberg Institute for Geoinformation Technology) hat auf Grundlage von hochauflösenden Luftaufnahmen und LiDAR-Daten 16,3 Millionen Bäume für ganz Baden Württemberg mittels Machine Learning nach Gattung [klassifiziert](https://heigit.org/new-paper-a-genus-labeled-dataset-of-individual-trees-in-baden-wurttemberg-germany/). Die zugehörigen Daten und der Auswertungs-Quellcode stehen [Open Data](https://doi.org/10.11588/DATA/MKZPUY) bzw. [Open Source](https://github.com/GIScience/tree-genera-mapping).
+
+### Journalismus
+In [Folge 5](https://exposingtheinvisible.org/en/films/stephanie-hankey-climate-and-political-influence-mastercourse/) des Kurses "Climate and Political Influence in the Age of Information Crises" beschäftigt sich Tactical-Tech-Mitgründerin Stephanie Hankey mit der Frage, wie man wieder die Kontrolle über die Entscheidungen, die unsere Zukunft formen werden, [zurückerlangen kann](https://mastodon.cc/@info_activism/117489479835180283). Denn bei der Desinformation, die machen Unternehmen und politische Akteure betreiben, kann man schon von [Informationskrieg](https://de.wikipedia.org/wiki/Informationskrieg) und Kulturkampf sprechen. 
+
+Aber auch die an der Wahrheit und an positiver Veränderung interessierte Klimakommunikation steht generell vor der Herausforderung, die Gratwanderung zwischen lähmenden Alarmismus und aktivierenden Rückblick auf schon Erreichtes sowie utopischen Zukunftsbildern zu meistern. Denn das Interesse für den Klimawandel sinkt leider, [wie Umfragen ergeben haben](https://taz.de/Studie-zu-groessten-Aengsten/!6218026/), auch unter dem Eindruck zahlreicher anderer Krisen, die zeitlich drängender und existensbedrohender wirke, als die Klimakrise, die noch als weit weg erscheint. [(Neue) Medien](https://taz.de/Otter-News-ist-ein-neues-Medium-fuer-Klimaberichterstattung-Will-das-noch-jemand-lesen/!6219011/), die sich speziell der Klimaberichterstattung widmen wollen, haben es entsprechend schwerer, ihr Publikum zu finden. Während das legalisierte Glücksspiel "Börse" mit "Wirtschaft vor acht" seit Jahren einen prominenten Sendeplatz von der ARD eingeräumt bekommt, wehren sich die Verantworlichen des Senders mit Händen und Füßen seit 5 Jahren gegen das Anliegen der Initiative "Klima vor acht", auch der Versuch, wenigstens einen [35-Sekunden-Werbespot](https://www.youtube.com/@KLIMAvoracht/videos) im Werbeblock unterbringen zu dürfen, [wurde abgelehnt](https://www.fr.de/politik/ard-blockt-klimaspot-jetzt-droht-klage-vor-gericht-94544769.html). Dabei sollte doch klar sein, dass es auf einem kaputten Planeten auch keine Wirtschaft mehr geben wird.
+
+### Politische Forderungen
+Die angebliche Polarisierung in der Bevölkerung zum Thema Klimawandel ist nur eine Erzählung, die Medien und Parteipoltik befeuern. In Wahrheit sind zwei Drittel der Deutschen dafür, dass die Gesellschaft klimafreundlich umgebaut wird, wie in der Langzeitstudie des Deutsches Umweltpanel [nachzulesen ist](https://www.deutschlandfunk.de/deutsches-umwelt-panel-keine-polarisierung-bei-klimaeinstellungen-100.html).
+
+Schon in der Vergangenheit haben einige Bürgerräte ambitionierte Klimapolitikmaßnahmen ausgearbeitet und der Politik zur Umsetzung vorgeschlagen, doch wie [ein Artikel in Nature](https://www.nature.com/articles/s41558-026-02755-1) feststellen mussten, wurden kaum welche davon am Ende umgesetzt. Die Autoren führen das auch stark auf die jeweiligen politischen Bedingungen zurück. In Frankreich wird Bürgerräten vom Präsidenten co-gesetzgebende Rechte eingeräumt und deren Vorschläge entsprechend ungefiltert an das Parlament offiziell zur Beratung übergeben. Hier war die Umsetzungsquote deutlich höher als z.B. in Deutschland, in denen Ergebnisse von Bürgerräte rein empfehlenden Charakter haben und von der Partei viel leichter ignoriert werden können. 
+
+Das Projekt [Millions4.earth](https://millions4.earth) (und die zugehörige [Karte](https://millions4.earth/map/DE)) möchte deswegen, Menschen, die mehr Klimaschutz wollen (und entsprechend die Forderungen auf der Seite unterzeichnet haben) und gar selbst schon auf die eine oder andere Weise handeln, mehr Sichtbarkeit geben.
+
+Dass die Menschen nicht nur online existieren, zeigt sich daran, dass zwischen 45.000 und 60.000 Menschen Mitte Oktober in Brüssel auf der Straße waren, um einen Monat vor Beginn der 31. Klimakonferenz (COP) für einen entschlosseneren Klimaschutz [zu demonstrieren](https://de.euronews.com/video/2026/10/12/zehntausende-demonstrieren-in-brussel-fur-schnellen-klimaschutz).
+
+Dass sich die Delegierten bei der 65. Vollversammlung des Weltklimarat IPCC [weder auf Zeitplan noch auf das Budget einigen konnten](https://klimareporter.de/international/der-weltklimarat-steckt-fest), liegt auch an der Vorgabe, dass alle Entscheidungen im Konsens getroffen werden müssen. So können Länder wie Saudi-Arabien, China, Indien und Russland de Prozess blockieren.
+
+### Wirtschaft
+[Bereits vor 20 Jahren](https://www.riffreporter.de/de/wissen/nicholas-stern-klimaschutz-wirtschaft) bezeichnete Nicholas Stern den Klimawandel als das größte Marktversagen der Geschichte. Die [Heat Inequality Map Europe](https://www.heat-inequality-map.com) zeigt beispielhaft für den Faktor Hitze, wie ungleich allein für Europa sich die Folgen der Klimakrise verteilen und dass es eben meist die ärmeren Länder trifft währemd die verursachenden reichen Länder vergleichsweise glimpflich davon kommen. 
+
+Ein umfassender Datensatz aus [einer Studie](https://www.pik-potsdam.de/de/aktuelles/nachrichten/eine-weltkarte-der-klimapolitik-wer-gewinnt-am-meisten) des Potsdam-Instituts für Klimafolgenforschung (PIK) zeigt für 169 Staaten, wie Klimapolitik auf deren Vermögenswerte wirkt. Die sinkende Nachfrage nach fossilen Energien wie Öl, Gas und Kohle, trifft zwar einige Länder, die sich hauptsächlich durch deren Verkauf finanzieren, stark, ihre Wirtschaftsleistung macht aber jetzt schon gerade mal 6 Prozent der globalen Leistung aus. Von der Verringerung klimabedingte Schäden, der lukrativen Entwicklung von Solar- und Windenergie sowie der dann größeren CO₂-Aufnahmekapazität aus der Luft (z.B. durch Wälder oder bewirtschafteter Naturflächen) profitieren dagegen fast alle Länder. Den benachteiligten Länder sollten die anderen Länder im Sinne eines kollektiven Interesses an Klimaschutz mit "Paketdeals" entgegenkommen, die mit Vergünstigungen und Kooperationsanegboten bei Handel und Forschung als auch mit direkten Finanztransfers kompensiert werden.
+
+Durch die gestiegenen Klimarisiken durch Hochwasser, Waldbrände oder Stürme machen viele Häuser [schon bald unversicherbar](https://www.t-online.de/finanzen/ratgeber/versicherungen/gebaeudeversicherung/id_101480870/versicherungs-insider-warnen-viele-immobilien-sind-bald-unversicherbar.html), die Versicherer fordern daher von der Politik mehr Anstrengung bei Prävention und Klimafolgenanpassung, in manchen Gebieten sollte am besten überhaupt nicht mehr gebaut werden dürfen. Der Prozess hat jetzt schon begonnen und wird sich weiter verschärfen: Versicherungsprämien erhöhen sich bis sie für die Eigentümer unbezahlbar werden, bestimmte Schäden werden ganz vom Versicherungsschutz ausgenommen, bis sich Versicherer aus Regionen und Branchen ganz zurückziehen. Wenn Eigentümer ihre Kredite nicht bedienen können und Versicherer pleite gehen, droht eine neue Finanzkrise.
+
+### Kipppunkte
+Forschende haben bereits 2022 konkrete Temperaturschwellen für 16 Klimakipppunkte bestimmt, [wie Cleanthinking jetzt berichtet](https://www.cleanthinking.de/kipppunkte-klima/). Bei 4 Punkten liegt die Übertrittsgrenze bereits bei +1,5 Grad steigender globaler Erwärmung. Bleibt zu hoffen, dass die positiven Kipppunkte in Wirtschaft und Gesellschaft, wie z.B. bei Solar- und Windkraft, Energiespeichern und E-Autos, noch rechtzeitig entgegenwirken können. Das 1,5-Grad-Ziel kann jetzt jedenfalls nur noch durch eine CO2-Entnahme [erreicht werden](https://bsky.app/profile/uedio.bsky.social/post/3myeh4ebr7k22), wie der [neue Emissions Gap Report der UN zeigt](https://www.unep.org/en/news-and-stories/press-release/new-unep-report-lays-out-emission-cuts-needed-return-15degc).
+
+Der Doomsday-Gletscher macht seinem Namen alle Ehre: Wissenschaftler mussten mit Erschrecken feststellen, [dass er viel schneller schmilzt](https://edition.cnn.com/2026/10/15/climate/thwaites-melt-study-doomsday-glacier), als ursprünglich prognostiziert. Ist er weg, ist der Meeresspiegel um einen halben Meter gestiegen. Da er wie ein Stöpsel wirkt, würden nach ihm der antarktische Eisschild noch weiter abgeschmelzen, was bis 2100 die Ozeane um 3 Meter steigen lässt. [Bestimmte heutige Küstenregionen](https://de.wikipedia.org/wiki/Meeresspiegelanstieg_seit_1850#Betroffene_Regionen) werden dann nicht mehr bewohnbar sein.
+
+### Grundwasser
+Durch die geringen Niederschläge in den vergangenen Monaten leiden klagen besonders Schwaben, Oberbayern, Ostbayern und Teile Nordbayerns [über niedrige Grundwasserstände](https://www.sueddeutsche.de/bayern/bayer-freyung-knappes-trinkwasser-duerre-gemeinden-li.3564199). Auch in Sachsen sind neun von zehn Grundwasser-Pegel [unter ihrem Normalwert](https://www.mdr.de/nachrichten/deutschland/panorama/grundwasser-sinkt-wassermangel,wasserstand-104.html), auch hier eine Folge von zu heißen Sommern und zu trockenen Wintern.
+
+### Biosynthetisch 
+Expandiertes Polystyrol (EPS), besser bekannt unter dem Handelsnamen Styropor, wird noch oft als Schaumkunststoff in Dämmungen und Verpackungen verwendet. Es könnte aber bald von der [neuen pflanzlichen Verbindung EPLA](https://www.fr.de/wissen/neuer-styropor-ersatz-aus-pflanzen-verursacht-bis-zu-80-prozent-weniger-co-zr-94530741.html) abgelöst werden. Sie verursacht in der Herstellung bis zu 80 Prozent weniger CO₂ und ist recyclingfähig sowie biologisch abbaubar.
+
+[Forschenden vom MIT ist es gelungen](https://www.basicthinking.de/blog/2026/10/22/bakterien-computer/), Bakterien derart genetisch zu verändern, dass miteinander vernetzte Bakterienkolonien wie elektronische Leiterplatte komplexe logische Operationen ausführen können. Die Ausführung einer Operation dauert allerdings knapp 8 Stunden, zu langsam für den Einsatz in einem Computer, aber schnell genug für die Landwirtschaft, wo solche Schaltungen Dürreperioden und Schädlingsbefall an Pflanzen erkennen können.
 
 ## Mobilität
 Für den [Kanaltunnel Rendsburg](https://de.wikipedia.org/wiki/Kanaltunnel_Rendsburg) kann man mit "curl -H 'Referer: https://www.rendsburg.de/' 'https://www.rendsburg.de/fileadmin/kanaltunnel-widget/kanaltunnel-widget.php'" [abfragen](https://norden.social/@MisterOpenData/117460764472313440), ob der Tunnel gerade offen oder gesperrt ist. Alternativ findet man die Angaben ebenfalls in [der Mobilithek](https://mobilithek.info/offers/864468518968393728). Wie im Mastodon-Thread [diskutiert](https://norden.social/@secondhandsongfan/117500448633538335), könnte man, gäbe es denn entsprechende APIs, den Zustand der [Schwebfähre](https://schwebefähre.info/project) als auch eventuelle Sperrungen der Rader Hochbrücke abfragen, um eine vollständige Informationsgrundlage für die zu fahrende Route zu haben (ohne dafür von Google Maps oder einem anderen Routenplaner abhängig sein zu müssen).
@@ -786,6 +772,7 @@ Für den [Kanaltunnel Rendsburg](https://de.wikipedia.org/wiki/Kanaltunnel_Rends
 * [Data-Week Leipzig](https://2027.dataweek.de/cfp.html), Einreichungen bis 17.11.2026
 * [WikipakaWG](https://pretalx.wikimedia.de/40c3-2026/cfp), Einreichungen bis 01.12.2026 00:05 
 * [Fachtag zur Archivierung digitaler und multimedialer Produktionen in den darstellenden Künsten](https://www.performing-arts.eu/de/news/newsstream/savethedate-fachtag-archivierung-digitaler-multimedialer-produktionen-darstellende-k%C3%BCnste/), Frist 01.12.2026
+* [Winterkongress 2027](https://cfp.winterkongress.ch/wk27/), bis 06.12.2026
 * [Chemnitzer Linux Tage](https://chemnitzer.linux-tage.de/2027/de/programm/anmeldung/live), bis 04.01.2027
 * [Open Data Wettbewerb des Landes Berlin](https://de.linkedin.com/posts/bet%C3%BCl-%C3%B6zdemir-2354a36a_opendata-berlin-offenedaten-activity-7523404978468798465-feuD), bis 15.01.2027
 
@@ -794,8 +781,6 @@ Für den [Kanaltunnel Rendsburg](https://de.wikipedia.org/wiki/Kanaltunnel_Rends
 * CCC Ticket Eskalation
   https://tickets.eskalation.rocks/CCCDB/
   via https://chaos.social/users/marudor/statuses/117452713049945106
-* Silizium bekommt Konkurrenz: MIT baut Computer aus Bakterien
-  https://www.basicthinking.de/blog/2026/10/22/bakterien-computer/
 
 ## Veranstaltungen ([Kalender/Karte](https://events.codeforleipzig.de))
 * Sonntag, 01.11.2026, online: **Digital Independence Day** <a title='Kalendereintrag Digital Independence Day' download='event.ics' href="data:text/calendar;base64,QkVHSU46VkNBTEVOREFSDQpDQUxTQ0FMRTpHUkVHT1JJQU4NClZFUlNJT046Mi4wDQpQUk9ESUQ6LS8vRGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5Ly9pQ2FsNGogMS4wLy9FTg0KQkVHSU46VkVWRU5UDQpEVFNUQU1QOjIwMjYxMTA3VDE1MDgxMVoNCkRUU1RBUlQ6MjAyNjExMDFUMDAwMDAwDQpEVEVORDoyMDI2MTEwMVQyMzU5NTkNClNVTU1BUlk6RGlnaXRhbCBJbmRlcGVuZGVuY2UgRGF5DQpMSU5LO1ZBTFVFPVVJRDpodHRwczovL2RpLmRheQ0KREVTQ1JJUFRJT046DQpMT0NBVElPTjpvbmxpbmUNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==">&#x1F4C5;</a>
