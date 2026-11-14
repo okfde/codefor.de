@@ -287,38 +287,32 @@ Der Klage, dass jemand das Grundstück seines Wohnhauses sowohl bei Google Earth
 Ein ETH-Student hat die Schweiz aus Geodaten 1:1 [in Minecraft nachgebaut](https://www.heise.de/news/Schweiz-im-Massstab-1-1-in-Minecraft-ETH-Student-baut-Land-aus-Geodaten-nach-11500785.html). Die Stadt Lenzburg im Schweizer Kanton Aargau [kann man auch](https://www.linkedin.com/posts/pascal-stockner-3b860a137_lenzburg-opendata-ugcPost-7519146627941728257-4M7L/) unabhängig von Minecraft [in 3D bestaunen](https://lenzburg.3eleven.ch).  
 
 ## Geschichte
-* zweiter Oktober 1990
-  https://zweiteroktober90.de/ueberblick/
-  via https://climatejustice.social/@stefanmuelller/117372766034869579
-* Das Illinois Holocaust Museum stellt drei bewegende VR-Dokumentationen kostenlos bereit
-  https://www.heise.de/news/Holocaust-Zeitzeuginnen-erzaehlen-Drei-VR-Dokus-jetzt-kostenlos-fuer-Meta-Quest-11496786.html
-* Where Exactly Were the First Humans to Be Captured in a Photograph Standing? Three Obsessed Filmmakers Solved the Nearly 200-Year-Old Mystery
-  https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/
-  via https://mastodon.social/@gutenberg_org/117495272005066640
-* Citizen-Science-Projekt "Italien in Berlin"
-  https://lab.sbb.berlin/italien-in-berlin/
-* Was passiert, wenn vier engagierte Menschen historische Museumskarteikarten, OpenRefine und eine Menge Neugier zusammenbringen?
-  https://www.linkedin.com/posts/tom-mei%C3%9Fner-3145b012b_datenwerkstattjena-datathon-thulb-ugcPost-7515155112231735296-TjkW
+Der Obsessions dreier Filmmacher ist es zu verdanken, dass das fast 200-jährige Geheimnis, wo die Personen im Frühjahr 1838 gestanden haben, die heute als die erstmals überhaupt [fotografierten Menschen](https://en.wikipedia.org/wiki/File:Boulevard_du_Temple_by_Daguerre.jpg) gelten, [gelöst wurde](https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/).
+
+Bei der [Datenwerkstatt Jena 2026](https://www.uni-jena.de/397111/datenwerkstatt-jena-2026) haben Studierende im Rahmen der Datathon-Challenge "Clean, Match & Enrich" aus den durch die Digitalisierung historischer Museumsinventarkarteikarten erfassten 1.953 CSV-Einträge mit [OpenRefine](https://openrefine.org), dem Abgleich mit der [Gemeinsamen Normdatei (GND)](https://www.dnb.de/DE/Professionell/Standardisierung/GND/gnd_node.html) und dem Mapping auf das kontrollierte Vokabular von [digiCULT Verbund eG](https://digicult-verbund.de) sowie einigen KI-gestützten Anreicherung verlässliche, weiterverwendbare [Sammlungsdaten erstellt](https://www.linkedin.com/posts/tom-mei%C3%9Fner-3145b012b_datenwerkstattjena-datathon-thulb-ugcPost-7515155112231735296-TjkW).
+
+Das Citizen-Science-Projekt ["Italien in Berlin"](https://lab.sbb.berlin/italien-in-berlin/) möchte die Geschichte italienischer Einwander:innenin der Hauptstadt erforschen und sichtbar machen. Schwerpunkt liegt dabei auf der ersten Phase ab etwa 1870 im damaligen "Little Italy" am Prenzlauer Berg. Mitmachen kann jeder, der Interesse für das Thema hat, die Workshops finden ab November aller 3 Wochen statt.
+
+Das Illinois Holocaust Museum stellt mit [Zu Fuß nach Westerbork](https://www.meta.com/de-de/experiences/walk-to-westerbork/1302733782913363/), [Briefe aus Drancy](https://www.meta.com/de-de/experiences/letters-from-drancy/1302732829580125/) und [Flucht Nach Shanghai](https://www.meta.com/de-de/experiences/escape-to-shanghai/1302734762913265/) drei bewegende Zeitzeuginnenberichte als VR-Dokumentationen [kostenlos bereit](https://www.heise.de/news/Holocaust-Zeitzeuginnen-erzaehlen-Drei-VR-Dokus-jetzt-kostenlos-fuer-Meta-Quest-11496786.html).
+  
+Die Seite ["Zweiter Oktober 1990"](https://zweiteroktober90.de/ueberblick/) dokumentiert die an diesem Tag von mindestens 1.500 Neonazis und Rechte verübten Angriffen auf Migrant:innen, Vertragsarbeiter:innen und Linken in den Flüchtlingsunterkünfte, Hausprojekten oder privaten Wohnungen von mindestens vierzehn ostdeutschen Städten, aber auch in einige weiteren, auch westdeutschen, Städten. Die Polizei war mit der Absicherung der Einheitsfeierlichkeiten [zu beschäftigt](https://climatejustice.social/@stefanmuelller/117372766034869579), obwohl die Attacken im Vorfeld angekündigt waren.
 
 ## Journalismus
-* Aus der Zeit gegriffen: Das Landgericht Hamburg setzt mit zwei Durchsuchungsbeschlüssen die Pressefreiheit unter Druck
-  https://verfassungsblog.de/aus-der-zeit-gegriffen/
-  * Meine Nachrichten schützen – die Bundesregierung muss handeln!
-    https://correctiv.org/mitmachen/jetzt-unterzeichnen-nachrichten-schuetzen/
-    https://bsky.app/profile/correctiv.org/post/3mxy7gdbsh22k
-* Eine Reihe von Zeitungen und Infodiensten ist inzwischen auf Mastodon aktiv
-  https://bewegung.social/@neuSoM/117495157140280101
-* Pressefreiheit gestärkt: Kammergericht bestätigt Berichterstattung über Äußerung von Ulrich Vosgerau in der Recherche "Geheimplan gegen Deutschland".
-  https://correctiv.org/in-eigener-sache/2026/10/02/kammergericht-gibt-correctiv-recht-dritter-erfolg-gegen-ulrich-vosgerau/
-* Neue KI-Teams bei DuMont: Lokaljournalismus, der keine Lokaljournalisten mehr braucht
-  https://uebermedien.de/121805/lokaljournalismus-der-keine-lokaljournalisten-mehr-braucht/
-  https://bsky.app/profile/wortschneiderei.bsky.social/post/3myf5v5chrk26
-* Rechts-außen-Portal "Nius" darf erstmals im Kanzlerflieger mitreisen
-  https://www.spiegel.de/politik/friedrich-merz-erstmals-reist-ein-nius-mitarbeiter-im-regierungsflieger-mit-a-95dd0222-c57c-4af0-b9d3-8649e24a5d9f
-* Top Recherche in der Financialtimes.com zu den Springer-Plänen einer TikTok-"Enteignung"
-  https://bsky.app/profile/janoschdahmenmdb.de/post/3myjcrlyc3k2d
-* Media Ownwership Monitor Deutschland
-  https://germany.mom-gmr.org/de/
+Der [Media Ownwership Monitor Deutschland](https://germany.mom-gmr.org/de/) (Datenstand 2024) versucht Transparenz darüber zu schaffen, welche [Einzelpersonen](https://germany.mom-gmr.org/de/owners/individual-owners/) oder [Unternehmen](https://germany.mom-gmr.org/de/owners/companies/) bestimmte [Medienkanäle](https://germany.mom-gmr.org/de/media/) (Zeitungen, TV, Radio, Online und Social Media) besitzen und kontrollieren. Das hilft einerseits Medienkonsumenten besser Glaubwürdigkeit, Unabhängigkeit und politische bzw. wertemäßige Ausrichtung zu beurteilen, andererseits Regulierungsbehörden die Argumente an die Hand, gegen übermäßige Medienkonzentration vorzugehen.
+
+[Ein Recherche](https://bsky.app/profile/janoschdahmenmdb.de/post/3myjcrlyc3k2d) der Financialtimes.com offenbart die Pläne des [Springer](https://germany.mom-gmr.org/de/owners/companies/company/axel-springer-verlag-112567/)-Chefs
+[Mathias Döpfner](https://germany.mom-gmr.org/de/owners/individual-owners/owner/mathias-dopfner-112146/)
+bei einer TikTok-Zerschlagung deren europäischen Arm übernehmen zu wollen. Er hatte sich dazu mit Trumps Handlanger (und aktuell US-Botschafter in Frankreich) Kushner senior (dessen Sohn Jared ist der Ehemann von Trumps Tochter Ivanka) konspirativ getroffen.
+
+Ein Vertreter der rechten Schmierfinken von [Julian Reichelts](https://germany.mom-gmr.org/de/owners/individual-owners/owner/julian-reichelt-115043/) Online-Medium ["Nius"](https://de.wikipedia.org/wiki/Nius) durfte erstmals (mit über 10 anderen Journalisten) [im Kanzlerflieger mitreisen](https://www.spiegel.de/politik/friedrich-merz-erstmals-reist-ein-nius-mitarbeiter-im-regierungsflieger-mit-a-95dd0222-c57c-4af0-b9d3-8649e24a5d9f).
+
+Bei [DuMont](https://germany.mom-gmr.org/de/owners/individual-owners/owner/the-dumont-family-112236/) kommt Lokaljournalismus [dank KI](https://uebermedien.de/121805/lokaljournalismus-der-keine-lokaljournalisten-mehr-braucht/) neuerdings [ohne Lokaljournalisten aus](https://bsky.app/profile/wortschneiderei.bsky.social/post/3myf5v5chrk26). 63 Lokalredakteuren im Raum Köln-Bonn wurde Ende September [gekündigt](https://bsky.app/profile/wortschneiderei.bsky.social/post/3myf5v5chrk26). Dafür gibt es jetzt für höhere Abo-Preise aus Pressemitteilungsinhalten generierten KI-Slop.
+
+Dass das Landgericht Hamburg Durchsuchungsbeschlüsse gegen eine ZEIT-Journalistin erlassen hat, [wertet das Verfassungsblog](https://verfassungsblog.de/aus-der-zeit-gegriffen/) als nicht verhältnismäßig. Der generelle Erhalt des Vertrauens in eine unabhängige Presse, bei der Informantenschutz und Pressefreiheit gewahrt bleiben, sollte schwerer wiegen, als der vom Gericht erhoffte Erkenntnisgewinn für den ["Block-Prozess"](https://de.wikipedia.org/wiki/Christina_Block#Strafverfahren) durch die nun beschlagnahmten Tonbandaufnahmen vom Informantengespräch. Inzwischen wurde [eine Petition](https://correctiv.org/mitmachen/jetzt-unterzeichnen-nachrichten-schuetzen/) gestartet, der von der Bundesregierung fordert, "Pressefreiheit und die Medienvielfalt in Deutschland jetzt umfangreich zu schützen".
+
+Gegen die correctiv-Recherche ["Geheimplan gegen Deutschland"](https://correctiv.org/aktuelles/neue-rechte/2024/01/10/geheimplan-remigration-vertreibung-afd-rechtsextreme-november-treffen/) über ein Geheimtreffen hochrangige AfD-Politiker, Neonazis und finanzstarke Unternehmer im November 2023 in einem Hotel bei Potsdam, gab es zahlreiche Klage-Versuche eines enttarnten Teilnehmers die Berichterstattung über eine Äußerung von ihm zu unterbinden, obwohl er diese selbst gegenüber Correctiv schriftlich mit gleichem Inhalt nochmal erläutert hatte. Es werden taktische Gründe vermutet, um Zweifel an der Recherche zu schüren. Das Kammergericht gab correctiv nun aber erneut recht und stärkt damit die Pressefreiheit.
+
+Beim Aktionsbündnis neue soziale Medien [freut man sich darüber](https://bewegung.social/@neuSoM/117495157140280101), dass inzwischen schon eine Reihe von Zeitungen und Informationsdienste auf Mastodon aktiv geworden sind und dies auch auf ihren Seiten prominent verlinken.
 
 ## Regierungsbildung Berlin
 * Bekommt Berlin unter einer Linken-Regierung kein Geld mehr?
