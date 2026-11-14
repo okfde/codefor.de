@@ -222,43 +222,35 @@ Expandiertes Polystyrol (EPS), besser bekannt unter dem Handelsnamen Styropor, w
 [Forschenden vom MIT ist es gelungen](https://www.basicthinking.de/blog/2026/10/22/bakterien-computer/), Bakterien derart genetisch zu verändern, dass miteinander vernetzte Bakterienkolonien wie elektronische Leiterplatte komplexe logische Operationen ausführen können. Die Ausführung einer Operation dauert allerdings knapp 8 Stunden, zu langsam für den Einsatz in einem Computer, aber schnell genug für die Landwirtschaft, wo solche Schaltungen Dürreperioden und Schädlingsbefall an Pflanzen erkennen können.
 
 ## Mobilität
+### E-Mobilität
+[Vorwärts immer, rückwärts nimmer](https://beruhmte-zitate.de/zitate/134541-erich-honecker-vorwarts-immer-ruckwarts-nimmer/): Frankreich und Deutschland haben sich auf eine weitere Aufweichung des Verbrenner-Aus [geeinigt](https://www.focus.de/finanzen/merz-und-macron-einigen-sich-auf-neuen-eu-autopakt_ab33d059-50db-442d-ba85-e72d68dfd3d8.html). Fahrzeuge mit Benzin- oder Dieselmotor können damit auch nach 2035 verkauft werden, wenn ihre Gesamtemissionen den Grenzwert einhalten. Die hiesige Automobilindustrie, die die Antriebswende verschlafen hat, soll zudem durch weitere Maßnahmen wie Kaufprämien, Leasingförderungen und der Vergabe von öffentlichen Aufträgen vor der Konkurrenz aus China geschützt werden.
+
+Für eine Studie der Deutschen Umwelthilfe (DUH) wurden 40 deutschen Großstädten [gefragt](https://www.heise.de/news/Elektrifizierung-des-OePNV-schreitet-nur-langsam-voran-11479906.html), wie hoch aktuell der Anteil von Elektrobusse (inklusive Brennstoffzellenbusse) am Gesamtbusflottenbestand bei ihnen ist und wie viele Verbrennerbusse sie planen, von 2026 bis 2030 in ihre Flotten aufzunehmen. Aus den 39 erhaltenen Antworten kann man zwar entnehmen, dass alle Städte mindestens einen E-Bus einsetzen, insgesamt fahren jedoch weiterhin 70 Prozent Verbrenner-Busse. Nur in Mannheim, Freiburg und Karlsruhe sind mehr als die Hälfte der Busse elektrisch. Zudem planen einige Städte, wie z.B. Halle oder Wiesbaden, auch zukünftig noch Dieselbusse anzuschaffen. Der Bund bestärkt solche Entscheidungen noch, indem er [Millionen bei der E-Bus-Förderung kürzt](https://www.fr.de/wirtschaft/bus-foerderung-bund-kappt-millionen-klimaziel-wackelt-zr-94544006.html), was interessieren schon Klimaziele.
+
+Aber es gibt auch noch positive Nachrichten: die Neuauflage des [Citroën 2CV](https://de.wikipedia.org/wiki/Citro%C3%ABn_2CV), besser bekannt unter dem Namen "Ente", wurde konzeptionell [als E-nte](https://stadt-bremerhaven.de/citroen-2cv-concept-die-ente-als-kompaktes-elektroauto/) auf dem Pariser Autosalon 2026 vorgestellt und soll ab 2028 in Serie vom Band rollen. Während Autos sonst immer breiter, höher und schwerer werden, soll die neue Ente sogar kürzer sein, als sein Original.
+
+### Bahn
+Auf Grundlage des bundesweiten Sollfahrplan des DELFI e.V. zeigt [diese animierte Karte](https://www.railcation.de/bahn-in-daten/zuege-letzte-24h) von [Railcation](https://www.railcation.de/) alle Personenzüge Deutschlands [der letzten 24 Stunden](https://mastodon.social/@Railcation/117409284868470237) an, allerdings ohne Ausfälle oder Verspätungen.
+
+Durch die stark gestiegenen Infrastrukturpreise der Deutschen Bahn [droht](https://www.radiodresden.de/beitrag/vvo-streicht-zuege-rund-um-dresden-894575/), dass der Verkehrsverbund VVO in der Region um Dresden dass Zugangebot deutlich reduzieren (und teils ganz einstellen) muss, um das Geld einzusparen, das für die Nachzahlungen und künftigen Zusatzkosten gebraucht wird.
+
+Aber vielleicht werden dadurch die verbliebenen Züge pünktlicher? Weniger Züge auf überlasteten Strecken einzusetzen, war tatsächlich ein Vorschlag [einer Expertenkommission](https://www.tagesschau.de/wirtschaft/unternehmen/bahn-puenktlichkeit-expertenkommission-100.html). Zweifelhaft, ob überfüllte Züge dann pünktlicher sind, oder erwartet man, dass die auf Mobilität angewiesenen dann wieder auf die Straße oder auf Inlandsflüge ausweichen? Würde sich aber [mit der Idee dieses Mastodon-Nutzers](https://social.tchncs.de/@alltagsradler/117534170422061605) nicht vertragen: "Interessante Idee gegen Stau: Einfach weniger Autos fahren lassen!"
+
+### Mobilitätswende
+[Wie kann man](https://social.bund.de/@Umweltbundesamt/117410981633401282) über nachhaltige Mobilität sprechen, ohne dass das Gegenüber sofort abschaltet - die [drei neuen Kommunikationsprodukte](https://www.umweltbundesamt.de/themen/verkehr/mobilitaetsverhalten/kommunikation-fuer-eine-nachhaltige-mobilitaet) des Umweltbundesamts sollen dabei helfen: das Mobilitätsbingo, die Auto-Confessions-Mobilitätsclips und das Mobilitätsquartett.
+
+Klotzen, nicht kleckern: Im Rahmen des mit 200 Millionen Euro ausgestatteten "Plan Vélo" [sollen in Paris](https://www.spiegel.de/mobilitaet/fahrrad/paris-420-kreuzungen-werden-umgebaut-140-kilometer-weitere-radwege-a-400cba2b-3193-486a-a131-d386c5ed4aa1) unter anderem 140 Kilometer weitere Radwege hinzukommen sowie 420 Straßenkreuzungen für eine sicherere Radnutzung umgestaltet werden.
+
+Die berühmte Einkaufstraße Oxford Street in London [wird aktuell zur Fußgängerzone umgebaut](https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html), seit 26. Oktober dürfen auf einem ersten Teilstück von ihr keine Autos, Busse und Taxis mehr fahren. Mit dieser Maßnahme erhofft man sich wieder mehr Besucher:innen, Arbeitsplätze und Wachstum, nachdem in den letzten Jahren der Glanz etwas verblasst war.
+
+### Nützliche Tools
 Für den [Kanaltunnel Rendsburg](https://de.wikipedia.org/wiki/Kanaltunnel_Rendsburg) kann man mit "curl -H 'Referer: https://www.rendsburg.de/' 'https://www.rendsburg.de/fileadmin/kanaltunnel-widget/kanaltunnel-widget.php'" [abfragen](https://norden.social/@MisterOpenData/117460764472313440), ob der Tunnel gerade offen oder gesperrt ist. Alternativ findet man die Angaben ebenfalls in [der Mobilithek](https://mobilithek.info/offers/864468518968393728). Wie im Mastodon-Thread [diskutiert](https://norden.social/@secondhandsongfan/117500448633538335), könnte man, gäbe es denn entsprechende APIs, den Zustand der [Schwebfähre](https://schwebefähre.info/project) als auch eventuelle Sperrungen der Rader Hochbrücke abfragen, um eine vollständige Informationsgrundlage für die zu fahrende Route zu haben (ohne dafür von Google Maps oder einem anderen Routenplaner abhängig sein zu müssen).
 
+Auf der [ÖPNVKarte](https://www.öpnvkarte.de/) kann man weltweit auf Straßen klicken und bekommt die öffentlichen Verkehrsmittel angezeigt, die über sie fahren. Ein weiterer Klick auf das jeweilige Angebot zeigt die Stationen im Fahrverlauf der Linie. 
 
-* Elektrifizierung des ÖPNV schreitet nur langsam voran
-  https://www.heise.de/news/Elektrifizierung-des-OePNV-schreitet-nur-langsam-voran-11479906.html
-  * E-Bus-Förderung: Bund kappt Millionen, Klimaziel wackelt
-    https://www.fr.de/wirtschaft/bus-foerderung-bund-kappt-millionen-klimaziel-wackelt-zr-94544006.html
-* Die Ente kommt wieder als E-nte !
-  https://stadt-bremerhaven.de/citroen-2cv-concept-die-ente-als-kompaktes-elektroauto/
-* Bahn in Daten, jede Nacht neu berechnet - 24 Stunden Bahn, bis jetzt
-  https://www.railcation.de/bahn-in-daten/zuege-letzte-24h
-  via https://mastodon.social/@Railcation/117409284868470237
-* Mobilitätsbingo, Mobilitätsclips und Mobilitätsquartett.
-  https://www.umweltbundesamt.de/themen/verkehr/mobilitaetsverhalten/kommunikation-fuer-eine-nachhaltige-mobilitaet
-  via https://social.bund.de/@Umweltbundesamt/117410981633401282
-* 420 Kreuzungen werden umgebaut – Paris investiert in sein Radwegenetz
-  https://www.spiegel.de/mobilitaet/fahrrad/paris-420-kreuzungen-werden-umgebaut-140-kilometer-weitere-radwege-a-400cba2b-3193-486a-a131-d386c5ed4aa1
-* Mit Frankreich einigt sich Deutschland auf eine Abkehr vom Verbrenner-Aus
-  https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101484526/verbrenner-aus-deutschland-und-frankreich-beschliessen-auto-kehrtwende.html
-  https://www.focus.de/finanzen/merz-und-macron-einigen-sich-auf-neuen-eu-autopakt_ab33d059-50db-442d-ba85-e72d68dfd3d8.html
-* Android App für den Mängelmelder Bus des Landkreis Böblingen
-  https://caliandro.de/blog/App%20f%C3%BCr%20MaengelMelder%20Bus%20Landkreis%20B%C3%B6blingen%20.html
-  via https://fedi.caliandroid.de/@st3fan/statuses/01M54FZBEGPR3FXT4W09EDB1HJ
-* ÖPNVKarte: öffentliche Verkehrsmittel weltweit auf einer einheitlichen Karte dargestellt
-  https://www.öpnvkarte.de/
-  via https://chaos.social/users/tbsprs/statuses/117486905670936934
-* In der Region rund um Dresden drohen massive Einschnitte beim Zugangebot. Wegen stark gestiegener Infrastrukturpreise der Deutschen Bahn muss der Verkehrsverbund VVO in den kommenden Jahren Millionen Euro nachzahlen. 
-  https://www.radiodresden.de/beitrag/vvo-streicht-zuege-rund-um-dresden-894575/
-* Penderradius
-  https://pendelradius.de
-  via https://mastodon.social/@pendelradius/117531052094782350
-* Weniger Züge, dafür mehr Pünktlichkeit?
-  https://www.tagesschau.de/wirtschaft/unternehmen/bahn-puenktlichkeit-expertenkommission-100.html
-  https://social.tchncs.de/@alltagsradler/117534170422061605
-  * "Interessante Idee gegen Stau: Einfach weniger Autos fahren lassen!"
-* Londoner Oxford Street: Als Fußgängerzone zurück zum alten Glanz?
-  https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html
+Für den Landkreis Böblingen gibt es [eine inoffizielle Android-App](https://caliandro.de/blog/App%20f%C3%BCr%20MaengelMelder%20Bus%20Landkreis%20B%C3%B6blingen%20.html), die als einfache Ausfüllhilfe für den offiziellen Mängelmelder [dient](https://fedi.caliandroid.de/@st3fan/statuses/01M54FZBEGPR3FXT4W09EDB1HJ), um Verspätungen, Überfüllungen, überfahrene Haltestellen, u.a. im (Schul-)Busverkehr zu melden. Seit einem Bus-Betreiberwechsel im Juli häufen sich diverse Mängel.
+
+Die Karte von [Penderradius](https://pendelradius.de) zeigt für einen gewählten Ort an, wo man mit dem ÖPNV-Angebot zu einem bestimmten Zeitpunkt für eine gewählte Reisedauer überall hinkommt. [In der neusten Version](https://mastodon.social/@pendelradius/117531052094782350) kann man sogar mehrere Standorte auswählen und für diese den fairsten Treffpunkt ausrechnen lassen. Außerdem unterstützt die App bei der Suche nach geeigneten Wohnorten (z.B. in Abhängigkeit der Pendelmöglichkeit zum Arbeitsort) und Ausfugszielen. 
 
 ## Karten
 * TrailShare - Panoramen von Berghütten
