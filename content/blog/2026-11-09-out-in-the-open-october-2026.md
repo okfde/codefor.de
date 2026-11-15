@@ -339,85 +339,31 @@ Die Gewerkschaft Erziehung und Wissenschaft Sachsen-Anhalt hat eine [Überlebens
 Dass die während des Wahlkampfs veranstalteten "Bürgerdialoge" der AfD vornehmlich mit  AfD-Landtagsfraktions-Mitteln finanziert wurden, kann [als illegale Wahlkampffinanzierung gewertet werden](https://taz.de/Illegale-Wahlkampffinanzierung/!6218421/), und somit ließe sich Landtagswahl [als ungültig anfechten](https://www.deutschlandfunk.de/staatsrechtler-wahl-in-sachsen-anhalt-koennte-ungueltig-sein-100.html), womit die Wahl wiederholt werden müsste. Wie aber [der Verfassungsblog ausführt](https://verfassungsblog.de/wahlanfechtung-afd/), sind solche Wahlprüfungsverfahren langwierig und ob bei der Neuwahl ein besseres Ergebnis zu erwarten wäre, darf auch bezweifelt werden.
 
 ### Wahl Landtagspräsident  
-[Seit 6. Oktober](https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html) stellt die AfD mit Tobias Rausch das erste Mal einen Landtagspräsident in einem Bundesland. Bei der geheimen Wahl bekam er bei 5 Enthaltungen [4 Stimmen mehr](https://mastodon.social/@peterjelinek/117393604414909142) als wie AfD und BSW Sitze haben. Die Behauptung der 8 CDU-Abgeordnete [gegenüber der taz](https://taz.de/CDU-luegt-ueber-Abstimmungsverhalten/!6216651/), sie hätten sich enthalten, ist damit so schon rechnerisch widerlegt. Es soll [auch Absprachen geben](https://bsky.app/profile/christophbautz.bsky.social/post/3mxbo4q3vvs2x), dass 4 CDUler auch am 6. Dezember für Ulrich Siegmund als Ministerpräsident stimmen werden. Inzwischen nutzt Rausch schon [seine verfassungsmäßig zugestandene Macht](https://verfassungsblog.de/landtagspraesident-afd/) als Landtagspräsident, eine Sondersitzung [allein zu leiten](https://www.rnd.de/politik/afd-landtagspraesidenten-weniger-als-eine-woche-im-amt-und-schon-zwei-eklats-in-sachsen-anhalt-YCEHVOJ4LJAT5BITAOEHADJLYA.html). [Dieses Video](https://bsky.app/profile/heuteshow.de/post/3mxynnalozc2o) zeigt, wie Rausch seiner Verantwortung als Sitzungsleiter für den ordnungsgemäßen Ablauf der Debatte im Landtag nachkommt: desinteressiert am Handy spielend, um anschließend die Störer zu schützen und den Gestörten zu verwarnen.
+[Seit 6. Oktober](https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html) stellt die AfD mit Tobias Rausch das erste Mal einen Landtagspräsident in einem Bundesland. Bei der geheimen Wahl bekam er bei 5 Enthaltungen [4 Stimmen mehr](https://mastodon.social/@peterjelinek/117393604414909142) als wie AfD und BSW Sitze haben. Die Behauptung der 8 CDU-Abgeordnete [gegenüber der taz](https://taz.de/CDU-luegt-ueber-Abstimmungsverhalten/!6216651/), sie hätten sich enthalten, ist damit so schon rechnerisch widerlegt. Es soll [auch Absprachen geben](https://bsky.app/profile/christophbautz.bsky.social/post/3mxbo4q3vvs2x), dass 4 CDUler auch am 6. Dezember für Ulrich Siegmund als Ministerpräsident stimmen werden. Inzwischen nutzt Rausch schon [seine verfassungsmäßig zugestandene Macht](https://verfassungsblog.de/landtagspraesident-afd/) als Landtagspräsident, eine Sondersitzung [allein zu leiten](https://www.rnd.de/politik/afd-landtagspraesidenten-weniger-als-eine-woche-im-amt-und-schon-zwei-eklats-in-sachsen-anhalt-YCEHVOJ4LJAT5BITAOEHADJLYA.html). [Dieses Video](https://bsky.app/profile/heuteshow.de/post/3mxynnalozc2o) zeigt, wie Rausch seiner Verantwortung als Sitzungsleiter für den ordnungsgemäßen Ablauf der Debatte im Landtag nachkommt: desinteressiert am Handy spielend, um anschließend die Störer zu schützen und den Unterbrocheneno zu verwarnen.
 
 ## Demokratie
-* Das Gefühl der Missachtung zerstört Demokratien
-  https://www.telepolis.de/article/Fukuyama-bei-Markus-Lanz-Das-Gefuehl-der-Missachtung-zerstoert-Demokratien-11477049.html
-* Ökonomin über Faschismus und Wirtschaft: "Wir müssen den Nährboden der Frustration angehen"
-  https://taz.de/Oekonomin-ueber-Faschismus-und-Wirtschaft/!6216645/
-  * Ökonomin Weber: "Wir liefern die Bevölkerung den Marktkräften aus. So wird die Demokratie hohl"
-    https://www.derstandard.at/story/3000000344518/oekonomin-weber-wir-liefern-die-bevoelkerung-den-marktkraeften-aus-so-wird-die-demokratie-hohl
-* Demokratieprojekt "Radikale Töchter" klagt gegen Förderstopp
-  https://www.sueddeutsche.de/politik/radikale-toechter-foerdergeld-regierung-stopp-klage-merz-li.3560694?reduced=true
-  https://fragdenstaat.de/dokumente/278579-radikale-toechter-verklagen-innenministerium/
-* noyb Erfolg! Die Berliner Datenschutzbehörde hat entschieden: SPD, Bündnis 90/Die Grünen, Die LINKE und CDU haben während der Bundestagswahl 2021 unrechtmäßig politisches Microtargeting genutzt.
-  https://www.zeit.de/news/2026-10/21/behoerde-wahlwerbung-nach-nutzerprofilen-war-rechtswidrig
-  via https://mastodon.social/@noybeu/117477870436265377
-* Peinlich! AfD Cloppenburg halbiert selbstverschuldet die Anzahl ihrer Sitze
-  https://volksverpetzer.de/aktuelles/afd-cloppenburg-halbiert/
-* Bundeszentrale für politische Bildung: Modellprojekte für 2027 und 2028 gesucht! Bis zum 15. November können Sie Ihre Idee zu den Themen linke Gewalt, linke Radikalisierung und linkem Extremismus einreichen.
-  https://www.bpb.de/die-bpb/foerderung/foerdermoeglichkeiten/581542/modellprojektausschreibung-zur-politisch-bildnerischen-auseinandersetzung-mit-linker-gewalt-linker-radikalisierung-und-linkem-extremismus/
-  https://bsky.app/profile/johannesfranzen.bsky.social/post/3mykh4jnf722e
+Dass die Vertreter der AfD nicht die hellsten Kerzen am Leuchter sind, [zeigt sich im niedersächsischen Cloppenburg](https://volksverpetzer.de/aktuelles/afd-cloppenburg-halbiert/). Dort hatte man zunächst nicht mal mehr als 5 Kandidaten zusammenbekommen, die bereit waren, sich für die Stadtratswahl aufstellen zu lassen. Mit dem Wahlergebnis von 22,29 Prozent hätten ihnen letzlich 9 Sitze zugestanden. Dass sie nun sogar nur 4 Sitze besetzen können, liegt daran, dass einer der Direktgewählten es geschafft hat, sein Kreuz auf dem Wahlannahmeschein der Wahlleiterin falsch zu setzen. Hätte er ihn gar nicht ausgefüllt, wäre er reingekommen. Dass die AfD nicht genug Personal findet, um die in den Wahlen gewonnenen Sitze zu besetzen, ist ein deutschlandweites Phänomen. 
+
+Aber solange Reichtums- und damit Machtkonzentration die Demokratie untergräbt, das Narrativ der Hierarchie zwischen den Starken und den Schwachen aufrecht erhalten wird, gleichzeitig die Bezahlbarkeit der materiellen Grundbedürfnissen für die normalen Menschen nicht mehr gewährt ist, [wird deren Frustration genährt](https://taz.de/Oekonomin-ueber-Faschismus-und-Wirtschaft/!6216645/), die dann [anfällig ist für Populisten](https://www.derstandard.at/story/3000000344518/oekonomin-weber-wir-liefern-die-bevoelkerung-den-marktkraeften-aus-so-wird-die-demokratie-hohl), deren Abwertung anderer Bevölkerungsgruppen die eigene Demütigung kompensiert und den eigenen Selbstwert als höher erscheinen lässt.
+
+Aber statt Antworten auf die rechte Radikalisierung zu finden, [sucht die Bundeszentrale für politische Bildung](https://www.bpb.de/die-bpb/foerderung/foerdermoeglichkeiten/581542/modellprojektausschreibung-zur-politisch-bildnerischen-auseinandersetzung-mit-linker-gewalt-linker-radikalisierung-und-linkem-extremismus/) unter neuer CDU-naher Führung lieber Modellprojekte für 2027 und 2028, die sich mit Themen zu linker Gewalt, linker Radikalisierung und linkem Extremismus [beschäftigen sollen](https://bsky.app/profile/johannesfranzen.bsky.social/post/3mykh4jnf722e). Den Verdacht, dass der Förderstopp beim Demokratieprojekt "Radikale Töchter" rein politisch motiviert ist, erhärten auch interne Behördenmail, [weswegen nun](https://www.sueddeutsche.de/politik/radikale-toechter-foerdergeld-regierung-stopp-klage-merz-li.3560694?reduced=true) auch [geklagt wird](https://fragdenstaat.de/dokumente/278579-radikale-toechter-verklagen-innenministerium/).
+
+Wählenden gezielt nach dem Mund zu reden, ist leider auch eine sich verbreitende Unart, um an Wählerstimmen zu kommen, statt wahrhaftig für seine Inhalte und Werte einzustehen. Die Berliner Datenschutzbehörde hat jedenfalls [nun entschieden](https://www.zeit.de/news/2026-10/21/behoerde-wahlwerbung-nach-nutzerprofilen-war-rechtswidrig), dass das von allen bei der Bundestagswahl 2021 angetretenen Parteien eingesetzte politisches Microtargeting [unrechtmäßig war](https://mastodon.social/@noybeu/117477870436265377).
 
 ### Frankreich
-* Schülerproteste in Frankreich: Wenn Bildung am Haushalt scheitert – mit Marc Berthold
-  https://wochendaemmerung.de/schulerproteste-in-frankreich/
-* Französische Medien widmeten 8% der Sendezeit den Forderungen der Schüler, 75% der Sendezeit den Sachschäden
-  https://www.acrimed.org/Au-JT-de-France-2-poubelles-brulees-partout
-  via https://chaos.social/users/afelia/statuses/117447005232455840
-* Proteste in Frankreich: Schwere Ausschreitungen - Rathaus in Flammen
-  https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html
-* Footage captured from our balcony on October 24, 2026, offering a bird’s-eye view of the march that no media outlet seems to have captured.
-  https://nileane.fr/@nileane/117497656573225363
-* Frankreich erwog Internet-Sperren während Protesten
-  https://www.heise.de/news/Frankreich-erwog-Internet-Sperren-waehrend-Protesten-11502333.html
-* Landesweite Demonstrationen: Frankreichs Schüler lassen nicht locker
-  https://www.tagesschau.de/ausland/frankreich-schueler-studenten-proteste-100.html
-
-### Albanien
-* Albanian protests turn violent: What we know
-  https://www.bbc.com/news/articles/cqdjv90d1jpko
-* Unruhen in Albanien: Studentenproteste in Tirana eskalieren
-  https://www.tagesschau.de/ausland/europa/unruhen-albanien-102.html
-### Belgien
-* Großeinsatz der Polizei: Zusammenstöße bei Studentenprotesten in Brüssel
-  https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html
-### Serbien
-* I can't believe I'm saying this, but it's done. It's finally done. After 14 YEARS Serbia is finally free.
-  https://social.lol/@aleks/117503514790431043
-* Serbia’s Aleksandar Vucic concedes defeat to the student-led movement in a seismic political shift
-  https://apnews.com/article/serbia-election-students-vucic-fdf5def8a20aebc8ae139fd719478775
-### Brasilien
-* Brasilien: Wahlsieg für den Regenwald
-  https://klimareporter.de/international/wahlsieg-fuer-den-regenwald
-### Tschechien
-* Vor dem tschechischen Parlament demonstrieren Menschen die ganze Nacht gegen die  Verstaatlichung des ÖRR
-  https://bsky.app/profile/martinawinkle14.bsky.social/post/3mylrtctymc22
+Dass in Frankreich eine ganz andere Protestkultur vorliegt als bei uns, zeigt sich auch an den [landesweiten Schülerprotesten](https://www.tagesschau.de/ausland/frankreich-schueler-studenten-proteste-100.html) dort. Leider auch was den [ungehemmten Einsatz von Gewalt](https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html) von Polizei gegen die leider teilweise auch gewaltbereiten Demonstraten angeht, die wie die Plünderer, damit die [eigentlichen  Forderungen nach besseren Bildungsbedingungen](https://wochendaemmerung.de/schulerproteste-in-frankreich/) in den Hintergrund treten lassen. Ganz im Sinne solcher, die diese Anliegen delegitimieren möchten, widmeten französische Medien [diesen](https://chaos.social/@afelia/117447005232455840) gerade mal 8% der Sendezeit, während drei Viertel der Zeit über die Sachschäden berichtet wurde. Dass Frankreich erwog, Internet-Sperren während der Proteste [einzusetzen](https://www.heise.de/news/Frankreich-erwog-Internet-Sperren-waehrend-Protesten-11502333.html), passt da auch ins autoritäre Bild.  
 
 ### Deutschland - Gen Z regelt
-* Polizei warnt vor Krawall-Protesten: "Dürfen keine Gnade erwarten"
-  https://www.n-tv.de/der_tag/Polizei-warnt-vor-Krawall-Protesten-Duerfen-keine-Gnade-erwarten-id31441724.html
-* Die JU interessiert es nicht, dass das Grundgesetz einen Einsatz der Bundeswehr im Inneren explizit verbietet
-  https://bsky.app/profile/sixtus.net/post/3myoloq3wzc25
-  * Schwarze Armee Fraktion (SAF)
-* Gen-Z-Proteste: "Überall wird zu wenig in Bildung investiert"
-  https://taz.de/Gen-Z-Proteste/!6226314/
-* "GenZ"-Proteste: Tausende demonstrieren für soziale Gerechtigkeit
-  https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html
-* Statement zu den geplanten Jugend-Protesten am 31.10.2026
-  https://polizei-gruen.de/wp-content/uploads/2026/10/Statement-zu-den-geplanten-Jugend-Protesten-am-31.10.2026.pdf
-  https://anwaltsblog.wordpress.com/2026/10/28/statement-zu-den-geplanten-jugend-protesten-am-31-10-2026/
+Unter dem Eindruck der Proteste in Frankreich, verstiegen sich einige Politik- und Polizeivertreter im Vorfeld der geplanten "GenZ regelt"-Jugend-Protesten zu Aussage wie ["Dürfen keine Gnade erwarten"](https://www.n-tv.de/der_tag/Polizei-warnt-vor-Krawall-Protesten-Duerfen-keine-Gnade-erwarten-id31441724.html). Die Junge Union, die Schwarze Armee Fraktion (SAF) der CDU/CSU, [forderte gar](https://bsky.app/profile/sixtus.net/post/3myoloq3wzc25) den Einsatz der Bundeswehr im Inneren, obwohl dieser im Grundgesetz explizit verboten ist. Hauptsache man kann so von den trotz [jetzt schon maroden Bildungssystem](https://taz.de/Gen-Z-Proteste/!6226314/) weiter geplanten Einsparungen ablenken. Zum Glück aber auch [Statements](https://polizei-gruen.de/wp-content/uploads/2026/10/Statement-zu-den-geplanten-Jugend-Protesten-am-31.10.2026.pdf) wie die vom PolizeiGrün e.V., die sich gegen solche Vorverurteilungen der Proteste [ausgesprochen haben](https://anwaltsblog.wordpress.com/2026/10/28/statement-zu-den-geplanten-jugend-protesten-am-31-10-2026/). Letztlich verliefen die Proteste [ohne Ausschreitung friedlich](https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html). 
 
-### Übergreifend
-* Proteste gegen Lebenshaltungskosten: Wenn alles zu teuer wird
-  https://taz.de/Wenn-alles-zu-teuer-wird-In-Europa-eskaliert-es/!6222347/
-* Tausende bei Protesten in Italien, Portugal, Belgien und Albanien
-  https://www.zeit.de/politik/2026-10/proteste-frankreich-unruhen-kaufkraft-emmanuel-macron
+### Europaweite Proteste
+[Proteste](https://taz.de/Wenn-alles-zu-teuer-wird-In-Europa-eskaliert-es/!6222347/) gegen die zu hohen Lebenshaltungskosten gab es [in zahlreichen europäischen Ländern](https://www.zeit.de/politik/2026-10/proteste-frankreich-unruhen-kaufkraft-emmanuel-macron). In Albanien haben sich die Studenten der "Flamingo"-Bewegung [angeschlossen](https://www.tagesschau.de/ausland/europa/unruhen-albanien-102.html), die schon seit Mai den Rücktritt der Regierung von Ministerpräsident Edi Rama fordern. Ihm und seiner Regierung werden weitverbreitete Korruption vorgewurfen, die ihren Höhepunkt, in der Genehmigung eines Bauprojekts von Trump-Schwiegersohn Jared Kushner in einem Naturschutzgebiet fand. 
 
-## Zivilgesellschaft
-* Alternativer Nobelpreis: Das georgische An­wäl­t*in­nen­kol­lek­tiv GYLA, die älteste NGO des Landes, trotzt dem sich verschärfenden Druck auf die Zivilgesellschaft
-  https://taz.de/Alternativer-Nobelpreis/!6217640/
+[Proteste gab es auch](https://bsky.app/profile/martinawinkle14.bsky.social/post/3mylrtctymc22) vor dem tschechischen Parlament, nachdem dieses die Verstaatlichungen des öffentlich-rechtlichen Rundfunks kurzfristig auf die Tagesordnung gesetzt hat. Mit solchen autoritären Tendenzen kennt sich das vor kurzem mit dem alternativer Nobelpreis ausgezeichnete georgische An­wäl­t*in­nen­kol­lek­tiv GYLA aus. Die älteste NGO des Landes leistet der Zivilgesellschaft juristischen Beistand und Rechtsberatung, die durch die russlandfreundliche Regierung immer mehr unter Druck gerät.
+
+Was Studentenproteste bewirken können, [zeigt sich in Serbien](https://apnews.com/article/serbia-election-students-vucic-fdf5def8a20aebc8ae139fd719478775), wo die Studentenliste es geschafft hat, den seit 14 Jahren autoritär regierenden Aleksandar Vucic [abzuwählen](https://social.lol/@aleks/117503514790431043).
+
+Und auch in Brasilien konnte sich trotz Einmischungsversuchen von außen der 81-jährige Amtsinhaber Lula in der Präsidentenwahl durchsetzen, auch [ein Wahlsieg für den Regenwald](https://klimareporter.de/international/wahlsieg-fuer-den-regenwald).
 
 ## Finanzen
 * Müssen Milliardenerben bald zahlen?
