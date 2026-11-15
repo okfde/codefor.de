@@ -366,28 +366,7 @@ Was Studentenproteste bewirken können, [zeigt sich in Serbien](https://apnews.c
 Und auch in Brasilien konnte sich trotz Einmischungsversuchen von außen der 81-jährige Amtsinhaber Lula in der Präsidentenwahl durchsetzen, auch [ein Wahlsieg für den Regenwald](https://klimareporter.de/international/wahlsieg-fuer-den-regenwald).
 
 ## Finanzen
-* Müssen Milliardenerben bald zahlen?
-  https://www.youtube.com/watch?v=bbpchcOXpCs
-  via https://social.tchncs.de/@Aubrieta/117434627937064537
-* Volksentscheid: Tech-Milliardäre mobilisieren gegen kalifornische Reichensteuer
-  https://netzpolitik.org/2026/volksentscheid-tech-milliardaere-mobilisieren-gegen-kalifornische-reichensteuer/
-* Wer erbt in Deutschland, und wer geht leer aus?
-  https://podfollow.com/tonspurwissen/episode/2b76b5f156b45e5aabb50fc80193e700e9624bbf/view
-* Bürgergeld und Einsparungen: Und das war kein Irrtum, das war eine Lüge und zwar eine populistische.
-  https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html
-  via https://mastodon.social/@knud/117491907208952354
-  * Bürgergeld-Reform spart doch keine Milliarden
-    https://www.sueddeutsche.de/politik/buergergeld-reform-2026-grundsicherung-einsparungen-merz-li.3566853?reduced=true
-  * Milliarden-Einsparungen "waren von Anfang an unrealistisch"
-    https://www.focus.de/die-debatte/milliarden-einsparungen-waren-von-anfang-an-unrealistisch-leser-ueber-die-grundsicherung_b1ddcac4-a2a9-4d8c-bc1f-d0044b376e37.html
-* Der Sozialstaat steht unter Druck: Kürzungen bei Gesundheit, Pflege und Inklusion folgen einer alten Logik – der Macht des Stärkeren.
-  https://www.deutschlandfunk.de/recht-der-staerkeren-leistungsprinzip-sozialstaat-kuerzungen-de-gregorio-100.html
-* Bürgergeld Regelsatz liegt 21 Euro hinter der Inflation zurück
-  https://www.buergergeld.org/news/buergergeld-regelsatz-liegt-21-euro-hinter-der-inflation-zurueck/
-* Von 413 Euro leben? Jobcenter zahlt immer weniger Mietkosten
-  https://www.surplusmagazin.de/miete-grundsicherung-jobcenter-arbeitslosigkeit/
-* Weil im Zusammenhang mit der Verabschiedung der Frühstartrente gerade überall zu lesen ist, dass aus den 10 Euro im Monat bis zum Rentenbeginn über 50.000 Euro werden: Diese nominale Zahl ist irrefürend, weil sie die Inflation ignoriert. Die reale Kaufkraft entspricht dann eher 16.000 Euro.
-  https://bsky.app/profile/mkreutzfeldt.bsky.social/post/3mxyhirlw5s2v
+Wer die Wiedereinführung einer Vermögenssteuer und das Schließen der Schlupflöcher bei der Erbschaftssteuer (aka ["Dummensteuer"](https://social.tchncs.de/@Aubrieta/117456617324386633)) fordert, sieht sich schnell dem Vorwurf ausgesetzt, eine Neiddebatte zu führen und dass man generell in Deutschland in einer [Neidgesellschaft](https://de.wikipedia.org/wiki/Neidgesellschaft) leben würde. Die gleichen, die anderen Neid vorwerfen, haben kein Problem, ihre eigene [Missgunst](https://de.wikipedia.org/wiki/Missgunst) ungehemmt auszuleben, wenn sie bei Bürgergeldempfangenden noch weiter kürzen wollen. So hatte Bundeskanzler Friedrich Merz immer versprochen, mit der Bürgergeldreform zweistellige Milliardenbeträge einsparen zu können. Dabei liegt Bürgergeld-Regelsatz [jetzt schon 21 Euro hinter der Inflation zurück](https://www.buergergeld.org/news/buergergeld-regelsatz-liegt-21-euro-hinter-der-inflation-zurueck/) und die Jobcenter beteiligen sich [immer weniger an den Mietkosten](https://www.surplusmagazin.de/miete-grundsicherung-jobcenter-arbeitslosigkeit/). Seit Juli gilt nun die neue Grundsicherung und [die Auswertung der ersten 3 Monate](https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html) hat ergeben, dass die Ausgaben weiterhin etwa auf Vorjahresniveau liegen. Man sollte hier nicht davon ausgehen, dass Merz sich mit seinen Annahmen einfach nur "geirrt" habe, sondern gezielt bewusst populistisch gelogen hat. Denn die Kürzungen in den sozialen Sicherunsgsystem, konkret auch bei Gesundheit, Pflege und Inklusion folgen [einer alten Logik – der Macht des Stärkeren](https://www.deutschlandfunk.de/recht-der-staerkeren-leistungsprinzip-sozialstaat-kuerzungen-de-gregorio-100.html). Würde die Debatte über soziale Gerechtigkeit ehrlich geführt werden, müsste man thematisieren, [worin genau die Leistung besteht](https://www.telepolis.de/article/Warum-Firmenerben-in-Deutschland-privilegiert-werden-11493968.html), dass man dank Geburtslotterie Abkömmling einer reicher Person ist? Leider sitzt das Märchen über die Leistungsgesellschaft (vom Tellerwäscher zum Millionär) viel zu tief, so dass in einer [Volksabstimmung](https://netzpolitik.org/2026/volksentscheid-tech-milliardaere-mobilisieren-gegen-kalifornische-reichensteuer/) in Kalifornien über eine einmalige Abgabe einer Reichensteuer, gegen die Tech-Milliardäre aus dem Silicon Valley mit einer Werbekampagne mobilisiert haben, [tatsächlich abgelehnt wurde](https://www.stern.de/politik/ausland/kalifornien-fuehrt-laut-medien-keine-steuer-fuer-superreiche-ein-38525756.html).
 
 ## Gesundheit
 * Vorsorgeregister: Ärzte können hinterlegte Vorsorgedokumente einsehen
