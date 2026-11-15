@@ -378,84 +378,29 @@ Die Initiative ["Gesundheit besser digitalisieren" (Gebedi)](https://gebedi.de) 
 Forschungschemikalien (Research Chemicals) werden synthetisch so hergestellt, dass ihre Wirkung zwar verbotene Drogen nachahmt, sie als Substanz mit ihrer Molekülstruktur nicht unter geltende Gesetze fällt. [Ein lukratives Geschäft für Onlineshops](https://correctiv.org/aktuelles/gesundheit/2026/10/16/research-chemicals-der-wettlauf-gegen-die-naechste-droge/). Und wenn die Gesetze nachziehen, wird halt Hase-Igel-mäßig ihre Zusammensetzung wieder angepasst.
 
 ## Transparenz
-* Two artists bought GPS trackers, returned them to Amazon, and tracked where they went. "Return" maps the hidden infrastructure behind one-day delivery. 
-  https://tacticaltech.org/projects/everything-will-be-fine/
-  via https://mastodon.cc/@info_activism/117455082017852503
-* Mit dem "Invest in Germany Summit" will die Bundesregierung das Großkapital anlocken. Hinter verschlossenen Türen und ohne Gewerkschaften, versteht sich.
-  https://taz.de/Investitionsgipfel-der-Regierung-mit-uA-Nvidia-Blackrock-Siemens-Die-Shitshow-der-Big-Business-Versteher/!6222574/
-  https://summit.invest-in-germany.com/
-  * Invest in Germany Summit: Wirtschaftsministerium plant fünf Millionen Euro für Finanzgipfel
-    https://correctiv.org/aktuelles/wirtschaft/2026/10/07/invest-in-germany-summit-5-millionen-euro-fuer-finanzgipfel/
-  * zweitgrößter Anteilseigner Blackrock
-    https://bsky.app/profile/werkmannswerke.bsky.social/post/3mybkmelqbk25
-  * BlackRock Beteiligungen:
-    * Deutsche Wohnen SE: 10%
-    * TAG Immobilien AG: 6% oder höher
-    * LEG Immobilien SE: 7 bis zu 10%
-    * Vonovia SE: 7 und 8%
-* Nach FragDenStaat-Recherche: Razzien und Gesetzesänderungen gegen Steueroasen
-  https://fragdenstaat.de/artikel/exklusiv/2026/10/razzien-und-gesetzesanderungen-gegen-steueroasen/
-* EU-Ermittler untersuchen Beraterverträge der Europäischen Volkspartei
-  https://www.sueddeutsche.de/politik/eu-weber-evp-griechenland-berater-ermittlungen-li.3567304
-* Wer versucht, unsere Gesetze zu beeinflussen? - Der Open Data Hub entstand im Rahmen des Projekts BRIDGEGAP
-  https://corruptiondata.eu
-  https://knowledgehub.transparency.org/data-hub
-  https://mastodon.social/@transparency_de/117529529684500671
-### Neuer Bundesbeauftragter für den Datenschutz und die Informationsfreiheit (BfDI) 
-* Neuer Bundesdatenschutzbeauftragter kündigt härtere Aufsicht über Data Broker an
-  https://www.heise.de/news/Neuer-Bundesdatenschutzbeauftragter-kuendigt-haertere-Aufsicht-ueber-Data-Broker-an-11477738.html
-* Neuer BfDI: Moritz Hennemann stellt die Schwerpunkte seiner Amtszeit vor
-  https://www.datenschutzticker.de/2026/10/neuer-bfdi-moritz-hennemann-stellt-die-schwerpunkte-seiner-amtszeit-vor/
-* Rede zum Amtsantritt des BfDI
-  https://www.bfdi.bund.de/DE/BfDI/Inhalte/Reden/2026/2026-10-16_Antrittsrede-Amts%C3%BCbergabe-Hennemann.html
+[5 Millionen Euro](https://correctiv.org/aktuelles/wirtschaft/2026/10/07/invest-in-germany-summit-5-millionen-euro-fuer-finanzgipfel/) hat sich die Bundesregierung bzw. das Wirtschaftsministerium ihren Investitionsgipfel ["Invest in Germany Summit"](https://summit.invest-in-germany.com) Ende Oktober mit begleitenden Marketing kosten lassen, wie aus einer Anfrage der Linken hervorgeht. Zum Vergleich, zwischen 2021 und 2024 schlug die teuerste Veranstaltung gerade mal 1,5 Millionen zu Buche. Welche internationale Finanzakteure insgesamt auf der Teilnehmerliste standen, wurde nicht veröffentlicht, die Presse bekam nur eingeschränkt Zugang ("um einen offenen Austausch zu erleichtern"). Merz' früherer Chef bei Blackrock Larry Fink war jedenfalls dabei, genauso wie Goldman Sachs und Chiphersteller Nvidia. Mit Blick auf die [Beteiligungen von Blackrock](https://tradersunion.com/de/interesting-articles/buy-stocks/blackrock/blackrock-holdings/) ein großes Klassentreffen für Merz, so dass man sich fragt, [in welcher Rolle](https://taz.de/Investitionsgipfel-der-Regierung-mit-uA-Nvidia-Blackrock-Siemens-Die-Shitshow-der-Big-Business-Versteher/!6222574/) er am Gipfel teilgenommen hat. Blackrock [hält aktuell 7,44% bei Nvidia](https://tradersunion.com/de/interesting-articles/buy-stocks/blackrock/blackrock-holdings/) und hat Anfang des Jahres seine Vonovia-Anteile [mit nun 8,33% kräftig aufgestockt](https://www.boerse-express.com/news/articles/vonovia-aktie-blackrock-schlaegt-zu-859508).
 
-### Angriff auf Informationsfreiheitsgesetz
-* Der Bürger muss begründen, der Staat darf schweigen: IFG-Reform droht
-  https://www.heise.de/news/Glaeserner-Buerger-geheimer-Staat-Informationsfreiheitgesetz-in-Gefahr-11474799.html
-* Nach Angriff auf das #Informationsfreiheitsgesetz – Die Bundesregierung musste vor Gericht zugeben, dass es für die Behauptungen zu Sicherheitsbedrohungen jeweils keinen einzigen Beleg gibt
-  https://fragdenstaat.de/artikel/klagen/2026/10/keine-belege/
-  https://bsky.app/profile/ccc.de/post/3mycbuwt3w42m
-  https://bsky.app/profile/arnesemsrott.bsky.social/post/3myc6u7krx222
-### Daten-Leak bei Nius
-* Daten-Leak bei Nius – Nutzerdaten, Finanzen und Redaktionssystem liegen ungeschützt im Netz
-  https://correctiv.org/aktuelles/datenschutz/2026/10/08/daten-leak-bei-nius-nutzerdaten-finanzen-und-redaktionssystem-liegen-ungeschuetzt-im-netz/
-* Datenleak: Nius gewann während Kampagne gegen Brosius-Gersdorf neue Abonnenten 
-  https://correctiv.org/aktuelles/politik-2/2026/10/16/datenleak-nius-gewann-waehrend-kampagne-gegen-brosius-gersdorf-neue-abonnenten/
-### Daten-Leak bei AfD
-* Massenhaft AfD-Daten widerrechtlich migriert
-  https://www.heise.de/news/Massenhaft-AfD-Daten-widerrechtlich-migriert-11493666.html
-* Interne E-Mails öffentlich: AfD blamiert sich mit Datenleak
-  https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/
-* Zweimal gehackt: Wie 300 Gigabyte AfD-Daten abflossen
-  https://www.lilithwittmann.de/blog/afd-hack-2026/
-  via https://chaos.social/users/Lilith/statuses/117475244873433092
-* Wenn man in den AfD Emails nach seinem Ortsnamen sucht (auf https://goebbelmail.com ), dann lernt man seine Nachbarn und die Lehrer seiner Kinder auf einmal von einer ganz anderen Seite kennen
-  https://goebbelmail.com
-  https://troet.cafe/@klappspatack/117481360938542401
-* Goebbel Suite
-  https://goebbelsuite.com
-* hexane — document analysis
-  https://hexane.cc/table/?board=mail
-* Der AfD-Leak könnte das Puzzleteil liefern, das für die Einstufung der AfD in Köln gefehlt hatte
-  https://bsky.app/profile/jun.de/post/3myfuwydi2s2x
-* Strategien, Kontoauszüge und Adresslisten: Was im AfD-Leak steckt
-  https://correctiv.org/aktuelles/afd/2026/10/21/afd-leak-datenleck-hexane-uebersicht/
-* Spenden-Affäre durch Leaks im neuen Licht
-  https://www.zdfheute.de/politik/deutschland/weidel-afd-spenden-affaere-leaks-100.html
-* Warum die Datenleaks für die AfD ein weit größeres Problem sind als behauptet
-  https://www.tagesspiegel.de/gesellschaft/ein-paar-gigabyte-unwichtiges-zeug-warum-die-datenleaks-fur-die-afd-ein-weit-grosseres-problem-sind-als-behauptet-16213944.html
+Vor vier Jahren wurde Manfred Weber Chef der Europäischen Volkspartei (EVP) wurde. In diese Zeit fällt auch die Beauftragung zweier griechische Berater durch den damaligen EVP-Generalsekretär. Deren Honorar von einer halben Million Euro [war so auffällig hoch](https://www.sueddeutsche.de/politik/eu-weber-evp-griechenland-berater-ermittlungen-li.3567304), dass nun EU-Ermittler im Auftrag der Staatsanwaltschaft sich die Verträge etwas genauer ansehen. 
+
+Nach der Veröffentlichung des Steueroasen-Verzeichnis von FragDenStaat und ZDF Magazin Royale vor rund einem Jahr [sind Behörden tatsächlich deutschlandweit](https://fragdenstaat.de/artikel/exklusiv/2026/10/razzien-und-gesetzesanderungen-gegen-steueroasen/) mit Razzien, Ermittlungen und Gesetzesänderungen gegen diesen Missstand vorgegangen, so dass nun hunderte Millionen Euro der Allgemeinheit zu Gute kommen könnten (wenn sie denn nicht in Hauslöcher oder Rüstung versenkt werden).
+
+Der [Open Data Hub](https://knowledgehub.transparency.org/data-hub) von Transparency International, entstanden im Rahmen des Projekts [Bridgegap](https://corruptiondata.eu), trägt Datensätze aus unterschiedlichen Datenquellen zusammen, um so besser nachvollziehen zu können, [wer versucht, unsere Gesetze zu beeinflussen](https://mastodon.social/@transparency_de/117529529684500671).
+
+### Informationsfreiheit
+Der neue Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) in Deutschland, Moritz Hennemann, hat in seiner [Amtsantrittsrede](https://www.bfdi.bund.de/DE/BfDI/Inhalte/Reden/2026/2026-10-16_Antrittsrede-Amts%C3%BCbergabe-Hennemann.html) die Schwerpunkte seiner Amtszeit [vorgestellt](https://www.datenschutzticker.de/2026/10/neuer-bfdi-moritz-hennemann-stellt-die-schwerpunkte-seiner-amtszeit-vor/). Neben einer datenschutzkonforme Staatsmodernisierung, der Stärkung nationaler und europäischer digitaler Souveränität steht auch die datenschutzrechtliche Technikfolgenabschätzung auf seiner Liste. [Er möchte auch](https://www.heise.de/news/Neuer-Bundesdatenschutzbeauftragter-kuendigt-haertere-Aufsicht-ueber-Data-Broker-an-11477738.html) den Geschäftsmodellen von Data Brokern, bei denen datenschutzwidrig Daten zu Dritten abfließen, möchte er gerne einen Riegel vorschieben, dazu müsste aber das EU-Datenschutzrecht entsprechend nachgeschärft werden. Hennemann hofft weiterhin, dass das Informationsfreiheitsgesetz (IFG) zu einem echten Transparenzgesetz weiterentwickelt wird. Das deckt sich nicht ganz mit den Plänen des Innenministers, der dieses defacto abschaffen möchte (und die Postion des Datenschutzbeauftragten übrigens auch). Um dieses Bestreben zu rechtfertigen, hatte man in der Union monatelang erklärt, dass das Informationsfreiheitsgesetz aus Sicherheitsgründen [eingeschränkt werden müsse](https://bsky.app/profile/arnesemsrott.bsky.social/post/3myc6u7krx222), ohne dafür aber Belege liefern wollen. Nach einer Klage von FragDenStaat musste die Bundesregierung vor Gericht nun zugeben, [dass es solche Belege auch gar nicht gibt](https://fragdenstaat.de/artikel/klagen/2026/10/keine-belege/). Für den früheren BfDI-Beauftragten Prof. Ulrich Kelber [wirkt es so](https://www.heise.de/news/Glaeserner-Buerger-geheimer-Staat-Informationsfreiheitgesetz-in-Gefahr-11474799.html), als wollen die Täter, deren Skandale mit Hilfe des IFG öffentlich wurden, nun das Strafrecht umschreiben wollen, um sicherzustellen, dass ihnen das künftig nicht wieder passiert.
+
 ### Österreich
-* VwGH-Entscheidung: Gerichte müssen bei IFG-Anfragen auf Basis der angefragten Dokumente entscheiden
-  https://www.informationsfreiheit.at/2026/10/12/vwgh-entscheidung-gerichte-muessen-bei-ifg-anfragen-auf-basis-der-angefragten-dokumente-entscheiden/
-* Im Bereich der Informationsfreiheit fordern wir uA ein Dokumentationsgesetz mit Zähnen. Die ganze Aussendung zum Demokratieindex
-  https://demokratieindex.at/die-schwerpunkte-2026/
-  https://orf.at/stories/3445618/
-  https://fedi.at/@informationsfreiheit/117472810908718544
+In Österreich hat der Verwaltungsgerichtshof (VwGH) [entschieden](https://www.informationsfreiheit.at/2026/10/12/vwgh-entscheidung-gerichte-muessen-bei-ifg-anfragen-auf-basis-der-angefragten-dokumente-entscheiden/), dass Gerichte bei IFG-Anfragen, sich nicht auf Behauptungen von Behörden zu vermeintlich vorliegenden Geheimhaltungstatbestände verlassen dürfen, sondern auf Basis der angefragten Dokumente selbst entscheiden zu haben. 
+
+Der Demokratie-Index bemisst, ob Regierung und Parlament ausreichend Maßnahmen für eine liberale Demokratie ergriffen wurden. Dieses Jahr ist er [von 55,1 auf 54,1 gesunken](https://demokratieindex.at/die-schwerpunkte-2026/), vor allem durch [Verschlechterung bei Justiz und digitalen Grundrechten](https://orf.at/stories/3445618/). Auch bei Transparenz [gibt es kaum Fortschritte](https://fedi.at/@informationsfreiheit/117472810908718544), es fehle u.a. "ein Dokumentationsgesetz mit Zähnen".
+
 ### Lobbyismus
-* Ex-Kanzleramtschef Wolfgang Schmidt berät künftig die Beratungsgesellschaft EY Deutschland.
-  https://bewegung.social/@a_watch/117443381045920163
-* Ex-Innenminister Hans-Peter Friedrich (CSU) hat sich kürzlich als Lobbyist beim Bundestag registriert: Im Auftrag der Agentur EUTOP lobbyiert er für die Deutsche Telekom. 
-  https://bewegung.social/@a_watch/117462634071087000
+Ex-Kanzleramtschef Wolfgang Schmidt [wird Beraterberater](https://bewegung.social/@a_watch/117443381045920163) bei EY (früher als Ernst and Young bekannt, aber über den Namen findet so unschöne Artikel über ihre Verwicklung in die Cum-Ex-Deals). Und auch Ex-Innenminister Hans-Peter Friedrich (CSU) ist [unter die Lobbyisten gegangen](https://bewegung.social/@a_watch/117462634071087000), und nutzt seine alten Kontakte im Auftrag der Governmental Relations Agentur EUTOP für die Deutsche Telekom.
+
+### Datendurchfall
+[Durch einen Cyberangriff](https://correctiv.org/aktuelles/datenschutz/2026/10/08/daten-leak-bei-nius-nutzerdaten-finanzen-und-redaktionssystem-liegen-ungeschuetzt-im-netz/) liegen nun 9 GB Daten mit Adressen von Lesern, Finanzzahlen zu Abo-Einnahmen, Finanzen und umfassende Auszüge aus dem Redaktionssystem des rechten Medien-Portals Nius ungeschützt im Netz. Darüber lässt sich nun unter anderem [die Kampagne gegen Brosius-Gersdorf besser nachvollziehen](https://correctiv.org/aktuelles/politik-2/2026/10/16/datenleak-nius-gewann-waehrend-kampagne-gegen-brosius-gersdorf-neue-abonnenten/).
+
+Auch bei der AfD wurden rund 300 GB Daten ["widerrechtlich migriert"](https://www.heise.de/news/Massenhaft-AfD-Daten-widerrechtlich-migriert-11493666.html). Über eine mangelhaft geschützte WordPress -Instanz [gelangten Hacker](https://www.lilithwittmann.de/blog/afd-hack-2026/) an die Mailverwaltung und konnten zunächst 180 GB an E-Mails herunterladen. Der Angriff wurde dann bemerkt, der eigentliche Schadcode auf dem Server nicht entdeckt, so dass bei einem zweiten Angriff weitere 120 GB Daten abgezogen werden konnten. Wäre man nicht wieder entdeckt worden, hätte man insgesamt 1,8 Terabyte aus 300 Postfächer laden können. Dass die Mails öffentlich [ins Netz gestellt worden sind](https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/), einmal als durchsuchbares [Mailpostfach](https://goebbelmail.com) (wo man nach dem Kreisverband [vor Ort suchen könnte](https://troet.cafe/@klappspatack/117481360938542401)), alternativ auch [tabellarisch](https://hexane.cc/table/?board=mail) und einmal [als Archiv](https://goebbelsuite.com), auf dem Nutzer auch ihre Funde kommentieren können, ist trotz allem, problematisch, weil es sich um private Korrespondenz mit teils sensiblen Inhalte (z.B. [Kontoauszüge und Adresslisten](https://correctiv.org/aktuelles/afd/2026/10/21/afd-leak-datenleck-hexane-uebersicht/)) handelt, die nicht unbedingt etwas Substanzielles zu einem Verbotsverfahren beiträgt. Gerichte müssten dann im jeden Fall abwägen, ob die Relevanz groß genug ist, die Daten als Beweismittel zuzulassen. Da vor allem nur älterer E-Mail-Verkehr ausgeleitet wurde, hat man bisher eher nur Belege zu länger zurückliegenden Affären, wie [über die illegale Großspenden aus der Schweiz gefunden](https://www.zdfheute.de/politik/deutschland/weidel-afd-spenden-affaere-leaks-100.html), über die die Parteichefin wohl doch früher Bescheid gewusst haben könnte, als sie bisher zugegeben hat. Dennoch geben die Mails Einblick [in Strategien und Entscheidungsprozesse der Partei](https://www.tagesspiegel.de/gesellschaft/ein-paar-gigabyte-unwichtiges-zeug-warum-die-datenleaks-fur-die-afd-ein-weit-grosseres-problem-sind-als-behauptet-16213944.html) und "könnten im anstehenden Verfahren der AfD gegen den Verfassungsschutz vor dem Verwaltungsgericht Köln eine Rolle spielen", bei dem es unter anderem um die Frage geht, "wie stark der Rechtsextremismus die Gesamtpartei prägt".
 
 ## Überwachung
 * Psychisch-Kranken-Gesetz in NRW: Daten für die Abschiebung
@@ -621,8 +566,7 @@ Forschungschemikalien (Research Chemicals) werden synthetisch so hergestellt, da
 * [kulturBdigital-Konferenz](https://video.kultur-b-digital.de/w/p/aoAv9q5as6Wd7NWyKrkmqS?playlistPosition=1)
 
 ## Fristen
-* [CCC Tickets](https://events.ccc.de/congress/2026/infos/tickets.de/), 08.11.2026, 11:00; 11.11.2026, 18:00; 19.11.2026, 20:00
-  * https://halfnarp.events.ccc.de
+* [CCC Tickets](https://events.ccc.de/congress/2026/infos/tickets.de/), 08.11.2026, 11:00; 11.11.2026, 18:00; 19.11.2026, 20:00, man kann [hier](https://halfnarp.events.ccc.de) noch bei der optimalen Verteilung der Vorträge helfen
 * [5. Open Science Festival](https://www.uni-bamberg.de/osfestival2027/call-for-proposals/), Frist: 12.11.2026
 * [13. NIAM-Tagung](https://pretalx.news-infographics-analytics-maps.media/2027/cfp), bis 15.11.2026
 * [Das Kunstmuseum im digitalen Zeitalter](https://www.belvedere.at/digitalmuseum2027), Einreichungen bis zum 15.11.2026
