@@ -403,42 +403,28 @@ Ex-Kanzleramtschef Wolfgang Schmidt [wird Beraterberater](https://bewegung.socia
 Auch bei der AfD wurden rund 300 GB Daten ["widerrechtlich migriert"](https://www.heise.de/news/Massenhaft-AfD-Daten-widerrechtlich-migriert-11493666.html). Über eine mangelhaft geschützte WordPress -Instanz [gelangten Hacker](https://www.lilithwittmann.de/blog/afd-hack-2026/) an die Mailverwaltung und konnten zunächst 180 GB an E-Mails herunterladen. Der Angriff wurde dann bemerkt, der eigentliche Schadcode auf dem Server nicht entdeckt, so dass bei einem zweiten Angriff weitere 120 GB Daten abgezogen werden konnten. Wäre man nicht wieder entdeckt worden, hätte man insgesamt 1,8 Terabyte aus 300 Postfächer laden können. Dass die Mails öffentlich [ins Netz gestellt worden sind](https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/), einmal als durchsuchbares [Mailpostfach](https://goebbelmail.com) (wo man nach dem Kreisverband [vor Ort suchen könnte](https://troet.cafe/@klappspatack/117481360938542401)), alternativ auch [tabellarisch](https://hexane.cc/table/?board=mail) und einmal [als Archiv](https://goebbelsuite.com), auf dem Nutzer auch ihre Funde kommentieren können, ist trotz allem, problematisch, weil es sich um private Korrespondenz mit teils sensiblen Inhalte (z.B. [Kontoauszüge und Adresslisten](https://correctiv.org/aktuelles/afd/2026/10/21/afd-leak-datenleck-hexane-uebersicht/)) handelt, die nicht unbedingt etwas Substanzielles zu einem Verbotsverfahren beiträgt. Gerichte müssten dann im jeden Fall abwägen, ob die Relevanz groß genug ist, die Daten als Beweismittel zuzulassen. Da vor allem nur älterer E-Mail-Verkehr ausgeleitet wurde, hat man bisher eher nur Belege zu länger zurückliegenden Affären, wie [über die illegale Großspenden aus der Schweiz gefunden](https://www.zdfheute.de/politik/deutschland/weidel-afd-spenden-affaere-leaks-100.html), über die die Parteichefin wohl doch früher Bescheid gewusst haben könnte, als sie bisher zugegeben hat. Dennoch geben die Mails Einblick [in Strategien und Entscheidungsprozesse der Partei](https://www.tagesspiegel.de/gesellschaft/ein-paar-gigabyte-unwichtiges-zeug-warum-die-datenleaks-fur-die-afd-ein-weit-grosseres-problem-sind-als-behauptet-16213944.html) und "könnten im anstehenden Verfahren der AfD gegen den Verfassungsschutz vor dem Verwaltungsgericht Köln eine Rolle spielen", bei dem es unter anderem um die Frage geht, "wie stark der Rechtsextremismus die Gesamtpartei prägt".
 
 ## Überwachung
-* Psychisch-Kranken-Gesetz in NRW: Daten für die Abschiebung
-  https://netzpolitik.org/2026/psychisch-kranken-gesetz-in-nrw-daten-fuer-die-abschiebung/
-* Fingerprinting im Browser ist faszinierend und slightly scary
-  https://belibre.be/cookies/
-  https://chaos.social/@hailey/117372135885762203
-* Ein Register für „Ausländervereine“ ist schon für sich eine ziemlich fragwürdige Konstruktion
-  https://www.bundestag.de/dokumente/textarchiv/2026/kw41-pa-inneres-vereinsgesetz-1221644
-  via https://digitalcourage.social/users/padeluun/statuses/117400555595756019
-* Gesichtersuchmaschine PimEyes: Ein Verbot, das niemand durchsetzt
-  https://netzpolitik.org/2026/gesichtersuchmaschine-pimeyes-ein-verbot-das-niemand-durchsetzt/
-* Dobrindt-Ministerium schweigt zu US-Zugriff auf Polizeidaten
-  https://www.nd-aktuell.de/artikel/1203304.grenzpartnerschaft-dobrindt-ministerium-schweigt-zu-us-zugriff-auf-polizeidaten.html
-### Tracking über Werbedaten
-* Bürgerrechte aktuell – Folge 7: Databroker Files: Welche Werbedaten kaufen die Nachrichtendienste? (mit Ingo Dachwitz)
-  https://www.humanistische-union.de/publikationen/podcast-buergerrechte-aktuell/buergerrechte-aktuell/publikation/podcast-buergerrechte-aktuell-folge-7-welche-werbedaten-kaufen-die-nachrichtendienste-von-illegalen-datenbrokern-mit-ingo-dachwitz/
-* Geheimdienstreform: Opposition kritisiert ungeregelte Überwachung mit Werbedaten
-  https://netzpolitik.org/2026/geheimdienstreform-opposition-kritisiert-ungeregelte-ueberwachung-mit-werbedaten/
-### Alterskontrollen
-* So breit ist die Kritik an Alterskontrollen im EU Kids Act
-  https://netzpolitik.org/2026/gefaehrlicher-kontrollzirkus-so-breit-ist-die-kritik-an-alterskontrollen-im-eu-kids-act/
-  * Der Kids Act oder die sechs Sargnägel des offenen Internets
-    https://netzpolitik.org/2026/alterskontrollen-fuer-alle-der-kids-act-oder-die-sechs-sargnaegel-des-offenen-internets/
-  * Folgenabschätzung zum Kids Act: EU-Kommission spielt Gefahren für Grundrechte herunter
-    https://netzpolitik.org/2026/folgenabschaetzung-zum-kids-act-eu-kommission-spielt-gefahren-fuer-grundrechte-herunter/
-* iPhone-Altersverifizierung: Auch Apple bittet zum Selfie    
-  https://www.heise.de/news/Altersverifizierung-auf-iPhones-Selfie-Pruefung-jetzt-auch-bei-Apple-11502367.html
+Nordrhein-Westfalen will sein Psychisch-Kranken-Gesetz (PsychKG) [neuverfassen](https://netzpolitik.org/2026/psychisch-kranken-gesetz-in-nrw-daten-fuer-die-abschiebung/). Die Änderungen sehen vor, dass Polizei mehr Informationen über Menschen bekommen können, die in eine Klinik eingewiesen wurden. Damit wird pauschal der Eindruck erweckt, dass psychisch Erkrankten potenziell mit Gefahrenabwehrmaßnahmen begegnet werden müsse, mal abgesehen, davon dass das Gesetz in dieser Form nicht "mit der ärztlichen Schweigepflicht nicht vereinbar ist und medizinethisch und berufsrechtlich abzulehnen" sei. Auch die Ausländerbehörden sollen über das Gesetz befähigt werden, immer zu wissen, wo eine geflüchtete Person gerade ist, damit sie bei einer eventuell beschlossenen Abschiebung jederzeit im Zugriff haben. 
+
+Die US-Regierung macht die "Enhanced Border Security Partnership" zur neuen Bedingung für das Visa-Waiver-Programm (VWP) in dessen Rahmen Menschen aus den 40 teilnehmenden Ländern für 90 Tage ohne Visum in die USA einreisen dürfen. Bis Ende 2026 muss eine Einigung erzielt werden, um nicht aus dem Programm zu fallen. Für die "Partnership" verlangen die USA Zugriff auf die nationale Polizeidatenbank, in der aber neben Beschuldigten und Verdächtigen eben auch Daten über Zeugen und Opfer gespeichert sind. Der Vertrag, der den Zugriff regeln soll, [wird geheim verhandelt](https://www.nd-aktuell.de/artikel/1203304.grenzpartnerschaft-dobrindt-ministerium-schweigt-zu-us-zugriff-auf-polizeidaten.html), so dass nicht klar ist, wie weit Zugriffsrechte gewährt werden. Gerade beim aktuellen autoritären Umbau der USA problematisch, weil nicht nur willkürlich Personen die Einreise verweigert werden könnte, sondern Personen in Europa unzulässig durch US-Geheimdienste und andere Behörden verfolgt werden könnten.
+
+Seit mehr als einem Jahr verbietet die EU "KI-Systeme, die Datenbanken zur Gesichtserkennung durch das ungezielte Auslesen von Gesichtsbildern aus dem Internet oder von Überwachungsaufnahmen erstellen oder erweitern." Alles Kriterien, die eigentlich auch auf die Gesichtersuchmaschine PimEyes (die inzwischen einem georgischen Geschäftsmann gehört) zutreffen, [doch niemand führt sich zuständig](https://netzpolitik.org/2026/gesichtersuchmaschine-pimeyes-ein-verbot-das-niemand-durchsetzt/), deren Verbot durchzusetzen.
+
 ### Palantir
-* Palantirs Geschäfte in Europa
-  https://netzpolitik.org/2026/laenderuebergreifende-recherche-palantirs-geschaefte-in-europa/
-* Palantir: KI-Überwachung in den USA und Deutschland
-  https://www.amnesty.de/informieren/amnesty-journal/palantir-ki-ueberwachung-menschenrechte
-### BND-Skandal
-* Ex-BND-Präsident August Hanning wegen Spionageverdachts festgenommen
-  https://www.gmx.net/magazine/panorama/verbrechen-vermisste/ex-bnd-praesident-august-hanning-spionageverdachts-festgenommen-42804200
-* Geheimdienstreform: BND-Skandal zur Unzeit 
-  https://netzpolitik.org/2026/geheimdienstreform-bnd-skandal-zur-unzeit/
+Ein länderübergreifendes Recherche-Team [hat untersucht](https://netzpolitik.org/2026/laenderuebergreifende-recherche-palantirs-geschaefte-in-europa/), wo der Tech-Konzern Palantir in Europa Verträge mit Regierungen hat, trotz aller Bedenken hinsichtlich Gefahren für die digitale Souveränität.
+
+In den USA werden [mit KI-gestützten Überwachungstechniken](https://www.amnesty.de/informieren/amnesty-journal/palantir-ki-ueberwachung-menschenrechte) von Palantir Geflüchtete, Migranten und nicht genehme internationale Studierende aufgespürt, ihre angebliche "Gefährlichkeit" klassifiziert, um sie danach abzuschieben.
+
+### Geheimdienst
+Es ist nicht gerade so, dass es nicht schon vor Ex-BND-Präsident August Hanning, der vor kurzem [wegen Spionageverdachts festgenommen wurde](https://www.gmx.net/magazine/panorama/verbrechen-vermisste/ex-bnd-praesident-august-hanning-spionageverdachts-festgenommen-42804200) in der Vergangenheit [Chefs](https://de.wikipedia.org/wiki/Hans-Georg_Maa%C3%9Fen) vom Verfassungsschutz oder BND gegeben hätte, die während und nach ihre Amtszeit unangenehm aufgefallen wären, und damit die Notwendigkeit vor Augen geführt haben, dass BND und Verfassungsschutz gute Kontrollstrukturen brauchen. Blöd, dass das beim jetzt geplanten Umbau zu einem "echten" Geheimdienst gerade [nicht wirklich vorgesehen ist](https://netzpolitik.org/2026/geheimdienstreform-bnd-skandal-zur-unzeit/).
+
+Bei der Geheimdienstreform ist zudem auch [die Überwachung mit Werbedaten](https://netzpolitik.org/2026/geheimdienstreform-opposition-kritisiert-ungeregelte-ueberwachung-mit-werbedaten/), die man von illegalen Datenbrokern [bezogen hat](https://www.humanistische-union.de/publikationen/podcast-buergerrechte-aktuell/buergerrechte-aktuell/publikation/podcast-buergerrechte-aktuell-folge-7-welche-werbedaten-kaufen-die-nachrichtendienste-von-illegalen-datenbrokern-mit-ingo-dachwitz/), ungeregelt.
+
+Und das [in Zeiten](https://belibre.be/cookies/) von [Fingerprinting](https://chaos.social/@hailey/117372135885762203), in denen "modern browsers don't really need the cookie anymore".
+
+### Alterskontrollen
+Die nun im Rahmen EU Kids Act geplanten Alterskontrollen sind [nur der Fuß in der Tür](https://netzpolitik.org/2026/alterskontrollen-fuer-alle-der-kids-act-oder-die-sechs-sargnaegel-des-offenen-internets/), um das offene Internet und [unsere digitalen Grundrechte](https://netzpolitik.org/2026/folgenabschaetzung-zum-kids-act-eu-kommission-spielt-gefahren-fuer-grundrechte-herunter/), vor allem das recht auf anonyme Internetnutzung, empfindlich zu beschneiden, entsprechend [breit ist die Kritik](https://netzpolitik.org/2026/gefaehrlicher-kontrollzirkus-so-breit-ist-die-kritik-an-alterskontrollen-im-eu-kids-act/).
+
+Auch Apple hat in einigen Ländern eine [Altersprüfung per Selfie](https://www.heise.de/news/Altersverifizierung-auf-iPhones-Selfie-Pruefung-jetzt-auch-bei-Apple-11502367.html) für iPhone und iPad eingeführt. Ohne eine solchen Nachweis bleiben bestimmten Funktionen und Inhalte gesperrt.
 
 ## The Sorcerer's AIpprentice
 * Anders ueber genAI sprechen
