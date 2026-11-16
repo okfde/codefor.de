@@ -455,68 +455,26 @@ Für Prof. Dr. Alke Martens [wird die KI-Blase leise platzen](https://detektor.f
 Doch noch wächst die Blase, nun werden in in Europa [deswegen Leiterplatten knapp](https://www.heise.de/news/Der-naechste-Engpass-fuer-Elektronik-in-Europa-Leiterplatten-werden-knapp-11503725.html), und auch die Speicherkrise hält weiter an, für 2027 und 2028 [sind schon mehr als die Hälfte der Produktionskapazität](https://www.golem.de/news/ram-sk-hynix-hat-speicherproduktion-fuer-2029-schon-verkauft-2610-214595.html) für langfristige Verträge reserviert.
 
 ### Datenschutz
-* BlnBDI sensibilisiert für personalisierte Werbefunktion bei ChatGPT 
-  https://www.datenschutz-berlin.de/fileadmin/user_upload/pdf/pressemitteilungen/2026/20261002-BlnBDI-PM-Werbung-ChatGPT.pdf
-  via https://social.bund.de/@BlnBDI/117388234723647867
-* Von Gehirnscan zu Bild: Wie KI rekonstruiert, was Menschen gerade sehen
-  https://www.heise.de/hintergrund/Von-Gehirnscan-zu-Bild-Wie-KI-rekonstruiert-was-Menschen-gerade-sehen-11492135.html
+Die Berliner Datenschutzbeauftragte Meike Kamp möchte Menschen [in ihrer Pressemitteilung](https://www.datenschutz-berlin.de/fileadmin/user_upload/pdf/pressemitteilungen/2026/20261002-BlnBDI-PM-Werbung-ChatGPT.pdf) dafür sensibilisieren, dass ChatGPT für das Einblenden personalisierter Werbung auch die bisherigen Chatverläufe [analysiert](https://social.bund.de/@BlnBDI/117388234723647867). 
+
+[Einen Schritt hin zum Gedankenlesen](https://www.heise.de/hintergrund/Von-Gehirnscan-zu-Bild-Wie-KI-rekonstruiert-was-Menschen-gerade-sehen-11492135.html): eine neue KI, die mit 9.000 Bilder trainiert wurde, konnte anschließend aus den MRT-Gehirnscan eines Probanden abschätzen, welches Bild aus dieser Auswahl dieser gerade betrachtet hat. 
+
+Mit ihren neue Geschäftsbedingungen möchte sich Meta quasi Blankoscheck [selbst ausstellen](https://taz.de/Neue-Nutzungsbedingungen-fuer-Unternehmen-Meta-stellt-sich-selbst-den-Blankoscheck-aus/!6225414/), auch verlinkte Inhalte komplett mit KI scrapen zu dürfen. Die europäische Medienhäuser verlangen von der EU die Anwendung dieser Bedingung [zu untersagen](https://www.heise.de/news/Neue-AGB-von-Meta-Verlage-fordern-EU-Stopp-wegen-KI-Scraping-11497167.html).
 
 ### Wissenschaft
-* Existenzielle Gefahr: Flut an KI-generierten Einreichungen bedroht arXiv
-  https://www.heise.de/news/Existenzielle-Gefahr-Flut-an-KI-generierten-Einreichungen-bedroht-arXiv-11476115.html
-* When open data are misused
-  https://retractionwatch.com/2026/10/01/openneuro-dataset-fmri-brain-data-misuse/
-* Scharfe Kritik an OpenAI aus der Mathematik
-  https://www.heise.de/news/KI-generierte-Mathematikloesungen-Scharfe-Kritik-am-Vorgehen-von-OpenAI-11480767.html
+Die Plattform arXiv, auf der man noch nicht geprüfte Forschungsergebnisse teilen, kommt durch den zunehmenen "KI-Müll" [in existenzielle Nöte](https://www.heise.de/news/Existenzielle-Gefahr-Flut-an-KI-generierten-Einreichungen-bedroht-arXiv-11476115.html).
+
+Wissenschaftler freuen sich darüber, wenn Teilnehmende ihrer Studien erlauben, dass die so gewonnenen Daten anschließend für möglichen weiteren wissenschaftlichen Fortschritt offen geteilt werden dürfen. [Um so fataler](https://retractionwatch.com/2026/10/01/openneuro-dataset-fmri-brain-data-misuse/), dass schlechte Menschen diese Offenheit ausnutzen, um mit KI aus diesen Daten wissenschaftliche Paper zu generieren, die rein oberflächlich betrachtet zwar plausibel scheinen, bei genauer Analyse sich als Fälschungen erweisen, man hatte sich überhaupt nicht die Mühe gemacht, die Daten wissenschaftlich richtig auszuwerten. 
+
+Um zu beweisen, wie toll doch ihre KI angeblich ist, hat OpenAI zu hunderten Problemen aus der Mathematik KI-generierte Lösungen veröffentlicht. Eine Vereinigung von Mathematikern [lehnt dieses Vorgehen ab](https://www.heise.de/news/KI-generierte-Mathematikloesungen-Scharfe-Kritik-am-Vorgehen-von-OpenAI-11480767.html), weil es ihrer Meinung nach in echter Wissenschaft um das menschliche Verständnis gehen sollte.
 
 ### Rechenzentren
-* Bundesumweltminister will transparentere Rechenzentren
-  https://www.heise.de/news/Bundesumweltminister-will-transparentere-Rechenzentren-11476596.html
-* Kampf um Wasser: Rechenzentren boomen – Bundesregierung will Umweltvorgaben lockern
-  https://correctiv.org/functional-categories/cur-lenseu_nl/2026/10/08/rechenzentren-boomen-bundesregierung-will-umweltvorgaben-lockern/
-* Es braucht mehr Transparenz und bessere Entscheidungen beim Für und Wider einer RZ-Ansiedlung
-  https://www.behoerden-spiegel.de/2026/10/07/mehr-rechenzentren/
-  via https://linke.social/@ankedb/117406541839287365
-* Viel zu viele Bäume gefällt: Baustopp für Rechenzentren von Google in Finnland
-  https://www.heise.de/news/Viel-zu-viele-Baeume-gefaellt-Baustopp-fuer-Rechenzentren-von-Google-in-Finnland-11478845.html
-* Bau von KI-Rechenzentren kommt in den USA ins Stocken
-  https://www.heise.de/news/Bau-von-KI-Rechenzentren-kommt-in-den-USA-ins-Stocken-11491833.html
-* Diebe stehlen Rechenzentrums-Equipment im Wert von über 100 Millionen US-Dollar
-  https://www.heise.de/news/Diebe-stehlen-Rechenzentrums-Equipment-im-Wert-von-ueber-100-Millionen-US-Dollar-11504891.html
-* Sechs Wege, um deine KI-Nutzung grüner zu gestalten in der neuen Folge "Klicks & Klima"
-  https://reset.org/sechs-wege-deine-ki-nutzung-gruner-gestalten-neuen-folge-klicks-klima/
-
-### Tools
-* AirLLM 2.8T LLM inference with single 4GB GPU
-  https://github.com/lyogavin/airllm
-  https://www.heise.de/ratgeber/AirLLM-Grosse-KI-Modelle-auf-schwachen-Grafikkarten-starten-11476015.html
-* Kimi K3.1 Pro: Chinesisches Open-Weight-Modell fordert US-Weltspitze heraus
-  https://www.heise.de/news/Chinesisches-Open-Weight-Modell-Kimi-K3-1-Pro-rueckt-an-US-Spitzenmodelle-heran-11500459.html
-* GPT-6.1 Terra: Günstiges Modell für effiziente Computerarbeit
-  https://www.heise.de/news/GPT-6-1-Terra-Guenstiges-Modell-fuer-effiziente-Computerarbeit-11501275.html
+Der KI-Booms treibt auch in Deutschland die Planung und Bau neuer Rechenzentren, Ressourcenkonflikte um Stromanschlüsse und Wasserrechte inklusive. Der Bundesumweltminister [möchte deswegen die Betreiber verpflichten](https://www.heise.de/news/Bundesumweltminister-will-transparentere-Rechenzentren-11476596.html), sich an klare Nachhaltigkeits- und Beteiligungsregeln zu halten. Das sehen nicht alle in der Bundesregierung so, dass Wirtschaftsministerium möchte für die Branche ganz im Gegenteil [die Umweltvorgaben lockern](https://correctiv.org/functional-categories/cur-lenseu_nl/2026/10/08/rechenzentren-boomen-bundesregierung-will-umweltvorgaben-lockern/). Generell braucht es [viel mehr Transparenz](https://www.behoerden-spiegel.de/2026/10/07/mehr-rechenzentren/) darüber, wo Rechenzentren angesiedelt werden sollen, und dann eine echte Bürgerbeteiligung, in der das Für-und-Wider ehrlich diskutiert werden kann, z.B. ob eine ausreichende Versorgung mit erneuerbaren Energien gewährleistet ist und ob wirklich ein gesellschaftlicher Nutzen entsteht. Damit es eben nicht passiert, dass wie in Finnland Google für den Rechenzentrumsbau [vorzeitig viel zu viele Bäume fällt](https://www.heise.de/news/Viel-zu-viele-Baeume-gefaellt-Baustopp-fuer-Rechenzentren-von-Google-in-Finnland-11478845.html). Es sollte auch zu denken geben, dass in den USA 2026 47 große Bauvorhaben für KI-Rechenzentren entweder [verzögert, gestrichen oder blockiert worden](https://www.heise.de/news/Bau-von-KI-Rechenzentren-kommt-in-den-USA-ins-Stocken-11491833.html), nicht nur durch Protesten in den betroffenen Gemeinden sondern auch, weil sich Investoren zunehmend fragen, ob dieser Boom langfristig aufrecht erhalten werden kann. Mit dem Hype und den steigenden Preisen, wird es inzwischen auch für Diebe lukrativ [Rechenzentrums-Equipment zu stehlen](https://www.heise.de/news/Diebe-stehlen-Rechenzentrums-Equipment-im-Wert-von-ueber-100-Millionen-US-Dollar-11504891.html).
 
 ### Sicherheit
-* In Wikimedia-Projekten wurden Aktivitäten von "abtrünnigen" OpenAI-Agenten festgestellt
-  https://blog.wikimedia.de/2026/10/08/openai-agenten-in-wikipedia/
-* Erster KI-Angriff auf Kommune: IT-Dienstleister: "Wir stufen das als KI-Angriff ein"
-  https://www.mdr.de/nachrichten/deutschland/politik/hacker-in-sachsen-anhalt-offenbar-erster,ki-angriff-100.html
-  via https://machteburch.social/@Marcel/117440042635048268
-* AI Is Changing Everything About Hacking. No One Knows What Happens Next
-  https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/
-* OpenAI: Agenten schalteten eigene Sicherheitswarnungen ab
-  https://www.heise.de/news/OpenAI-Agenten-unterdrueckten-aktiv-Sicherheitswarnungen-11496302.html
-* Entire Swedish reality show season lost weeks before premiere amid disputed AI claims
-  https://www.euronews.com/2026/10/14/entire-swedish-reality-show-season-lost-weeks-before-premiere-amid-disputed-ai-claims
+Beim Hackerangriff auf das digitale Rathaus in Tangerhütte hat es sich mutmaßlich [um einen KI-generierten Angriff gehandelt](https://www.mdr.de/nachrichten/deutschland/politik/hacker-in-sachsen-anhalt-offenbar-erster,ki-angriff-100.html), dafür spricht die Geschwindigkeit, in der die Angriffs-Kommandos ausgeführt worden sind. Mit KI lassen sich Bugs in Software-System nun [viel schneller aufspüren und ausnutzen](https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/), jetzt merken wir schmerzlich, wie unsicher und verwundbar die Internet-Infrastruktur ist, es ist noch kaum absehbar, was das noch an Folgen haben wird.
 
-### Urheberschaft
-* Under what conditions should copyright-protected content be used for AI training
-  https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-challenges-and-way-forward-area-effect-technology-copyright
-* KI-Kopien des Grüffelo: Illustrator Axel Scheffler will gegen Betreiber klagen
-  https://www.heise.de/news/KI-Kopien-des-Grueffelo-Illustrator-Axel-Scheffler-will-gegen-Betreiber-klagen-11491779.html
-* Neue AGB von Meta: Verlage fordern EU-Stopp wegen KI-Scraping
-  https://www.heise.de/news/Neue-AGB-von-Meta-Verlage-fordern-EU-Stopp-wegen-KI-Scraping-11497167.html
-  * Datenkrake Meta: Blankoscheck selbst ausgestellt
-    https://taz.de/Neue-Nutzungsbedingungen-fuer-Unternehmen-Meta-stellt-sich-selbst-den-Blankoscheck-aus/!6225414/
+Was nützen die ganzen Sicherheitsvorgaben, wenn die OpenAI-Agenten sie einfach [eigenmächtig abschalten und ignorieren können](https://www.heise.de/news/OpenAI-Agenten-unterdrueckten-aktiv-Sicherheitswarnungen-11496302.html) und dann "unvorhersehbar" in anderen Systeme versuchen einzudringen, wie es inzwischen auch [bei Wikimedia-Projekten zu beobachten ist](https://blog.wikimedia.de/2026/10/08/openai-agenten-in-wikipedia/).
 
 ## Recap
 * [Netzpolitischer Abend #160](https://digitalegesellschaft.de/2026/09/160-netzpolitischer-abend/) 
