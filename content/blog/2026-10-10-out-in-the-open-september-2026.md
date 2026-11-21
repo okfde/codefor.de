@@ -41,7 +41,7 @@ Auf [Firmensicht](https://www.data.gv.at/applications/b7c5ace3-0fc9-48b7-bbd2-44
 
 Mit [FirmenMonitor](https://www.data.gv.at/applications/7072df85-c42c-432f-a83b-9eca91e8ed71?locale=de) lässt sich die Bonität österreichischer Unternehmen auf Basis offizieller Daten automatisiert einschätzen.
 
-Wie viele offene Stellen es in einem Beruf und einer Region gibt, zeigt monatlich aktualisiert der [Stellenradar](https://www.data.gv.at/applications/1bdf414c-4b01-4d10-af53-e9ce7e7330af?locale=de). Außerdem enthalten sind Angaben zu offenen Lehrstellen und Lehrstellensuchende je Bezirk, sowie die Information, wie viele Arbeitslose auf eine offene Stelle kommen. Die Entwicklung all dieser Daten kann über die letzen fünf Jahren nachvollzogen werden.
+Wie viele offene Stellen es in einem Beruf und einer Region gibt, zeigt monatlich aktualisiert der [Stellenradar](https://stellenradar.at) ([data.gv.at](https://www.data.gv.at/applications/1bdf414c-4b01-4d10-af53-e9ce7e7330af?locale=de)). Außerdem enthalten sind Angaben zu offenen Lehrstellen und Lehrstellensuchende je Bezirk, sowie die Information, wie viele Arbeitslose auf eine offene Stelle kommen. Die Entwicklung all dieser Daten kann über die letzen fünf Jahren nachvollzogen werden.
 
 Parlamentarische und regierungsspezifische Aktivitäten, Prozesse und Informationen im Nationalrat als auch im Europäische Parlament können in der Plattform für politische Transparenz, [somes](https://www.data.gv.at/applications/dceb83b6-8eee-4bd8-8921-0efa63a125a2?locale=de), nachvollzogen werden.
   
